@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music.
 
-589 songs - 2 day 0 hr 45 min
+590 songs - 2 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,7 +513,7 @@
 | [The Gulf of Valencia](https://open.spotify.com/track/4LVANIDqdIe0HzoVg816OG) | [Vanity Productions](https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI) | [Sub Rosa](https://open.spotify.com/album/3ytpF5fIboDCwEAZUjGeDs) | 4:36 | 2021-12-26 | 2023-02-27 |
 | [The Hole](https://open.spotify.com/track/1q1ne8Zr1GuiVafFHD4YEe) | [Annihilation Of Self](https://open.spotify.com/artist/5DaYScQGBRXnrpi9WubEQR) | [The Nauts Log \(Chapter 1\-4\)](https://open.spotify.com/album/15iBdhwM1FXf8sIRXlv6Rl) | 9:00 | 2022-01-14 | 2023-08-12 |
 | [The Killing Of Wild Animals](https://open.spotify.com/track/1dm03UsG1jXMwmKFTE403i) | [Carlos Metta](https://open.spotify.com/artist/5igkVL3BEbBPfvcDXFgJgB), [Fernando Esteban](https://open.spotify.com/artist/0ViWQo9bhm8NeoiAqpPurg) | [Teresa /// Fortuna](https://open.spotify.com/album/7ae5Zd4cWlEJs1UFM7e40n) | 6:33 | 2021-12-26 | 2023-05-02 |
-| [The Milky Sea](https://open.spotify.com/track/5lTrKIvw7MN30cGS2FQKde) | [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [The Milky Sea](https://open.spotify.com/album/3xLrHm2vb65AkmaTSuJ8PC) | 20:02 | 2025-02-07 |  |
+| [The Milky Sea](https://open.spotify.com/track/5lTrKIvw7MN30cGS2FQKde) | [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [The Milky Sea](https://open.spotify.com/album/3xLrHm2vb65AkmaTSuJ8PC) | 20:02 | 2025-02-07 | 2026-01-24 |
 | [The Prettiest Pearl](https://open.spotify.com/track/6JYiDDcfTwNH9lWfXK0LV7) | [Otto Taimela](https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44) | [Reflections 06](https://open.spotify.com/album/6PWyrdq1w6eZjQDrvCxBKX) | 3:53 | 2023-08-31 |  |
 | [The Revenant Main Theme \(Alva Noto Remodel\)](https://open.spotify.com/track/1gAMCezhYq7VO20SzaGdcZ) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [Travesía](https://open.spotify.com/album/4esuZN5LafbntrKxLrvuYe) | 2:56 | 2023-05-05 | 2025-05-24 |
 | [The Revenant Main Theme \(Alva Noto Remodel\)](https://open.spotify.com/track/47PdDK2C3a1XuHQTpaBukA) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [Travesía](https://open.spotify.com/album/3R9mvWE3pbsxy5uruk5HNK) | 2:56 | 2023-05-05 | 2024-04-19 |
@@ -559,6 +559,7 @@
 | [Violo](https://open.spotify.com/track/5syPwaSJSzNSB6ufaE6sI9) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Madre](https://open.spotify.com/album/5qxNqr74lxcQefXV9hqRiP) | 7:07 | 2021-12-26 | 2023-08-12 |
 | [Visions](https://open.spotify.com/track/7HN4GQgB6wH0smJQacudtq) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4), [Braulio Lam](https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS) | [Mixed Signals II](https://open.spotify.com/album/3kf978n2Cj73i6KtV2ts6D) | 7:04 | 2022-03-18 | 2023-06-16 |
 | [Voodoo\-Baroque\-Vaporwave\-Serialism](https://open.spotify.com/track/7JNLU8I7d50ZzBauVaFI9Y) | [Icarus](https://open.spotify.com/artist/0PDSR92MSuuyre6j9ngj7z) | [An Ever\-growing Meridional Entertainment Transgression at the Edge of the Multiverse](https://open.spotify.com/album/4f6zm1CE8K12UaYymK5z83) | 12:39 | 2025-04-25 | 2025-06-29 |
+| [Wade](https://open.spotify.com/track/6dCLXCB2WT1arqjPs9To4a) | [Niko Demus](https://open.spotify.com/artist/1tzCwHckFepdUWpH3WxFXD), [Merely](https://open.spotify.com/artist/3R0EMFbUS5NaombX9GQOn7) | [Wade](https://open.spotify.com/album/0qikYXGj9rwrif5s9kpi9r) | 2:20 | 2026-01-23 |  |
 | [Waiting on Closure](https://open.spotify.com/track/7DtnFT1XP8hjWY5TpHhW7E) | [Theiz](https://open.spotify.com/artist/4XqHuzIh4c2zQBcdxeBac5) | [Waiting on Closure](https://open.spotify.com/album/4AogauaulsUCsWEXT6tfKy) | 6:52 | 2022-02-25 | 2024-07-30 |
 | [Walking Through Still Air](https://open.spotify.com/track/2PEeHAgoF0K6e3cFiMeWMl) | [Booker Stardrum](https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5) | [CRATER](https://open.spotify.com/album/4Ymq9bQ78qugxlnWVfs5b0) | 5:22 | 2021-12-26 | 2023-04-30 |
 | [Walking Through Still Air](https://open.spotify.com/track/4A1MV0tkYsxLXnsswjiP2S) | [Booker Stardrum](https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5) | [CRATER](https://open.spotify.com/album/6TvXKXvvxrYina8splCKkV) | 5:22 | 2023-05-05 | 2023-08-12 |

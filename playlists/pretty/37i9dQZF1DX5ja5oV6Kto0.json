@@ -1,6 +1,6 @@
 {
   "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Zaylevelten",
-  "num_followers": 110277,
+  "num_followers": 110279,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -76,7 +76,7 @@
           "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
         }
       ],
-      "duration_ms": 223578,
+      "duration_ms": 196202,
       "name": "Solace",
       "url": "https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx"
     },
@@ -167,7 +167,7 @@
     {
       "added_at": "2026-01-23 00:01:21",
       "album": {
-        "name": "Do Not Disturb",
+        "name": "Do Not Disturb (DND)",
         "url": "https://open.spotify.com/album/3uoKJof8T6N1Tkfr1nwfNy"
       },
       "artists": [
@@ -291,42 +291,6 @@
     {
       "added_at": "2026-01-23 00:01:21",
       "album": {
-        "name": "Zazz",
-        "url": "https://open.spotify.com/album/2s6qKWSeVJymPyTHce2zem"
-      },
-      "artists": [
-        {
-          "name": "Tytanium",
-          "url": "https://open.spotify.com/artist/2aE4O2If0FyUZwjBjN3hjX"
-        },
-        {
-          "name": "Zubi",
-          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
-        }
-      ],
-      "duration_ms": 179512,
-      "name": "Zazz",
-      "url": "https://open.spotify.com/track/3E4fbuFEEE5yiN6tr2Z9C7"
-    },
-    {
-      "added_at": "2026-01-23 00:01:21",
-      "album": {
-        "name": "Pawon + Fly",
-        "url": "https://open.spotify.com/album/6twgGorVU0d808ToQ632pw"
-      },
-      "artists": [
-        {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
-        }
-      ],
-      "duration_ms": 118939,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/1GYbLczHk6f3O6drvghsB4"
-    },
-    {
-      "added_at": "2026-01-23 00:01:21",
-      "album": {
         "name": "Afro G Western",
         "url": "https://open.spotify.com/album/1Wq4oDNU0UB0C3HhknCAOZ"
       },
@@ -347,6 +311,42 @@
       "duration_ms": 223000,
       "name": "Afro G Western",
       "url": "https://open.spotify.com/track/5R4DPXz4KnCyJXYuMJNd23"
+    },
+    {
+      "added_at": "2026-01-23 00:01:21",
+      "album": {
+        "name": "Pawon + Fly",
+        "url": "https://open.spotify.com/album/6twgGorVU0d808ToQ632pw"
+      },
+      "artists": [
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "duration_ms": 118939,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/1GYbLczHk6f3O6drvghsB4"
+    },
+    {
+      "added_at": "2026-01-23 00:01:21",
+      "album": {
+        "name": "Zazz",
+        "url": "https://open.spotify.com/album/2s6qKWSeVJymPyTHce2zem"
+      },
+      "artists": [
+        {
+          "name": "Tytanium",
+          "url": "https://open.spotify.com/artist/2aE4O2If0FyUZwjBjN3hjX"
+        },
+        {
+          "name": "Zubi",
+          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
+        }
+      ],
+      "duration_ms": 179512,
+      "name": "Zazz",
+      "url": "https://open.spotify.com/track/3E4fbuFEEE5yiN6tr2Z9C7"
     },
     {
       "added_at": "2026-01-23 00:01:21",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-01-23 00:01:21",
       "album": {
+        "name": "MERCY PLEASE",
+        "url": "https://open.spotify.com/album/7zp1dyDCFHB2KbMLHWuZeh"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 173436,
+      "name": "MERCY PLEASE",
+      "url": "https://open.spotify.com/track/36VaeS40rE82eU4mxBCJ6v"
+    },
+    {
+      "added_at": "2026-01-23 00:01:21",
+      "album": {
         "name": "MAKE BRITAIN S3XY AGAIN",
         "url": "https://open.spotify.com/album/6YmpImCxaSNJ297Vbv3nS3"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 171199,
       "name": "sun's out (feat. Zerrydl)",
       "url": "https://open.spotify.com/track/1vCkU2re6Xtuf4IDePN7O8"
-    },
-    {
-      "added_at": "2026-01-23 00:01:21",
-      "album": {
-        "name": "MERCY PLEASE",
-        "url": "https://open.spotify.com/album/7zp1dyDCFHB2KbMLHWuZeh"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 173436,
-      "name": "MERCY PLEASE",
-      "url": "https://open.spotify.com/track/36VaeS40rE82eU4mxBCJ6v"
     },
     {
       "added_at": "2026-01-23 00:01:21",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-01-23 00:01:21",
       "album": {
-        "name": "Not There Yet",
-        "url": "https://open.spotify.com/album/7odsdzRoh6pWISrnS1kY9c"
-      },
-      "artists": [
-        {
-          "name": "LULU.",
-          "url": "https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch"
-        }
-      ],
-      "duration_ms": 213190,
-      "name": "Not There Yet",
-      "url": "https://open.spotify.com/track/5H3RnXcjdpMAXI9XqFmSmz"
-    },
-    {
-      "added_at": "2026-01-23 00:01:21",
-      "album": {
         "name": "Sinatanale",
         "url": "https://open.spotify.com/album/7w8DlQ2JXdkRBp38TgBeVZ"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 214956,
       "name": "Sinatanale",
       "url": "https://open.spotify.com/track/1sJFubUbBqTkJKyymeJ7Us"
+    },
+    {
+      "added_at": "2026-01-23 00:01:21",
+      "album": {
+        "name": "Not There Yet",
+        "url": "https://open.spotify.com/album/7odsdzRoh6pWISrnS1kY9c"
+      },
+      "artists": [
+        {
+          "name": "LULU.",
+          "url": "https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch"
+        }
+      ],
+      "duration_ms": 213190,
+      "name": "Not There Yet",
+      "url": "https://open.spotify.com/track/5H3RnXcjdpMAXI9XqFmSmz"
     },
     {
       "added_at": "2026-01-23 00:01:21",
@@ -1383,30 +1383,6 @@
     {
       "added_at": "2026-01-23 00:01:21",
       "album": {
-        "name": "Company",
-        "url": "https://open.spotify.com/album/4PO7Q4VcqrN6z9lgjU1t7T"
-      },
-      "artists": [
-        {
-          "name": "cosamote",
-          "url": "https://open.spotify.com/artist/2j7j3bmaV4Ej8b9Cy0FtMY"
-        },
-        {
-          "name": "Creen Caesar",
-          "url": "https://open.spotify.com/artist/5A8fI4subH9tiQHBmm3COP"
-        },
-        {
-          "name": "Caleb Clay",
-          "url": "https://open.spotify.com/artist/7nYMySRZoIDziBAJ6KZ3Bl"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/26ulnyg8SfgTtstCdGmArl"
-    },
-    {
-      "added_at": "2026-01-23 00:01:21",
-      "album": {
         "name": "Mezebu x2",
         "url": "https://open.spotify.com/album/1ex977g331ZH71nhjDyv2E"
       },
@@ -1427,6 +1403,30 @@
       "duration_ms": 167658,
       "name": "Mezebu x 2",
       "url": "https://open.spotify.com/track/1a6n2Rh5xaqCXh9GQLcDq8"
+    },
+    {
+      "added_at": "2026-01-23 00:01:21",
+      "album": {
+        "name": "Company",
+        "url": "https://open.spotify.com/album/4PO7Q4VcqrN6z9lgjU1t7T"
+      },
+      "artists": [
+        {
+          "name": "cosamote",
+          "url": "https://open.spotify.com/artist/2j7j3bmaV4Ej8b9Cy0FtMY"
+        },
+        {
+          "name": "Creen Caesar",
+          "url": "https://open.spotify.com/artist/5A8fI4subH9tiQHBmm3COP"
+        },
+        {
+          "name": "Caleb Clay",
+          "url": "https://open.spotify.com/artist/7nYMySRZoIDziBAJ6KZ3Bl"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/26ulnyg8SfgTtstCdGmArl"
     },
     {
       "added_at": "2026-01-23 00:01:21",
@@ -1511,22 +1511,26 @@
     {
       "added_at": "2026-01-23 00:01:21",
       "album": {
-        "name": "DON'T ASK DON'T ANSWER (feat. NATURE)",
-        "url": "https://open.spotify.com/album/5IHpH7DE5YWsqhL93aBGv7"
+        "name": "Childish Things",
+        "url": "https://open.spotify.com/album/2Erd5FwOxshePLM7FbWujK"
       },
       "artists": [
         {
-          "name": "Lady Donli",
-          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+          "name": "Dessire\u00e9",
+          "url": "https://open.spotify.com/artist/56oWbpiLZ9gyUqOStbymZV"
         },
         {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+          "name": "Gyedu-Blay Ambolley",
+          "url": "https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj"
+        },
+        {
+          "name": "Kofi Jamar",
+          "url": "https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK"
         }
       ],
-      "duration_ms": 157241,
-      "name": "DON'T ASK DON'T ANSWER (feat. NATURE)",
-      "url": "https://open.spotify.com/track/3OKpzbpU6pfvBq5SIVLbVb"
+      "duration_ms": 181747,
+      "name": "Childish Things",
+      "url": "https://open.spotify.com/track/24LP0o1fyKcGphTmVAM1BX"
     }
   ],
   "unique_name": "Alt\u00e9 Cruise",

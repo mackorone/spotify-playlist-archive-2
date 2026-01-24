@@ -4,7 +4,7 @@
 
 > The future hits of today\. Up Next: Mavo
 
-581 songs - 1 day 2 hr 52 min
+581 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [diallo](https://open.spotify.com/track/4J4wbHGBu104fVNTexTTsF) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [diallo](https://open.spotify.com/album/6JT7nlbLoXpx4wLcgVbRtE) | 2:43 | 2024-07-19 | 2024-08-09 |
 | [Diamonds](https://open.spotify.com/track/7j84rJTwTVN6LcUlqvpQ2Q) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Contraband / Diamonds](https://open.spotify.com/album/50i6slAqu47pjV99lUJ6Nl) | 2:27 | 2025-11-14 |  |
 | [Digest](https://open.spotify.com/track/6Q9KwZkFtTKLAAB8iOTpbZ) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Digest](https://open.spotify.com/album/7y5e3W5HAauq6oES8aJtbk) | 2:26 | 2024-07-26 | 2024-10-13 |
-| [Do Not Disturb \(DND\)](https://open.spotify.com/track/31sL8nRhXMo4wtBNSMtrho) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws) | [Do Not Disturb](https://open.spotify.com/album/3uoKJof8T6N1Tkfr1nwfNy) | 2:52 | 2026-01-23 |  |
+| [Do Not Disturb \(DND\)](https://open.spotify.com/track/31sL8nRhXMo4wtBNSMtrho) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws) | [Do Not Disturb \(DND\)](https://open.spotify.com/album/3uoKJof8T6N1Tkfr1nwfNy) | 2:52 | 2026-01-23 |  |
 | [Do You Know?](https://open.spotify.com/track/6fVjIo9wkW9Z1u0qWLa1Ql) | [siicie](https://open.spotify.com/artist/5ROehmweZgFpxhFyrYefYa), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Do You Know?](https://open.spotify.com/album/3vdbIdFkySktuYEYiJtgA0) | 2:25 | 2025-09-19 |  |
 | [Dodge](https://open.spotify.com/track/1fyhqGc41gcZ587gqBrvqA) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur \(Deluxe\)](https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE) | 2:28 | 2025-04-04 | 2025-07-26 |
 | [Don julio](https://open.spotify.com/track/0pSvdqdPJsQERhVWKjcfhi) | [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs) | [Air drop](https://open.spotify.com/album/63FjH5BrOGQCsCa8NdZcz3) | 2:39 | 2024-06-28 | 2024-09-13 |
@@ -481,7 +481,7 @@
 | [Social Misconduct](https://open.spotify.com/track/1HrhNxJSs2z6nIjApDPw6L) | [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv) | [WARRIOR'S CHILD](https://open.spotify.com/album/3JREYxB2XqXeDNWYiHVSW8) | 2:24 | 2025-06-13 | 2025-08-22 |
 | [Sofri](https://open.spotify.com/track/4IsTrczvo6vUTXD0qguKkz) | [Tha Boy Myles](https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5) | [Level Up \(Deluxe\)](https://open.spotify.com/album/77sjfGO9M57HqUiQoebbLQ) | 2:03 | 2024-09-13 | 2024-10-26 |
 | [Soh\-Soh](https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69) | 3:04 | 2024-07-08 | 2024-09-28 |
-| [Solace](https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Solace](https://open.spotify.com/album/7Lcd2dZBnj167BUMKRSmqA) | 3:43 | 2026-01-23 |  |
+| [Solace](https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Solace](https://open.spotify.com/album/7Lcd2dZBnj167BUMKRSmqA) | 3:16 | 2026-01-23 |  |
 | [Solo](https://open.spotify.com/track/1ouWZkjgXak30KMUDL2iAT) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Solo](https://open.spotify.com/album/7wQgtOaa74hP33p7xzkRHO) | 3:22 | 2024-11-15 | 2025-03-29 |
 | [Someday Soon](https://open.spotify.com/track/1tefeAORT76SRH3r4Qoj0g) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [WALK WITH ME](https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl) | 3:41 | 2025-11-10 | 2025-11-14 |
 | [Sorry I'm Busy](https://open.spotify.com/track/7MsGvKF7W1W07vlp7cbEsZ) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws) | [Sorry I'm Busy](https://open.spotify.com/album/1lZd6dVzx246LSOxv54c4w) | 2:22 | 2025-11-28 |  |

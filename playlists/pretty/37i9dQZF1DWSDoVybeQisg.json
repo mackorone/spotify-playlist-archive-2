@@ -1,6 +1,6 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1244556,
+  "num_followers": 1244602,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Psychedelic Drugstore - Remastered",
-        "url": "https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP"
-      },
-      "artists": [
-        {
-          "name": "Aguaturbia",
-          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
-        }
-      ],
-      "duration_ms": 341786,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/1kjCyBnjlxZxZv9RNlXBbd"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Incense & Peppermints",
         "url": "https://open.spotify.com/album/5hGwwc1svsrzpCUlnP84F5"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 169800,
       "name": "Incense And Peppermints",
       "url": "https://open.spotify.com/track/20MBLB1TCm3tQK3XZlHXTK"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "Psychedelic Drugstore - Remastered",
+        "url": "https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP"
+      },
+      "artists": [
+        {
+          "name": "Aguaturbia",
+          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
+        }
+      ],
+      "duration_ms": 341786,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/1kjCyBnjlxZxZv9RNlXBbd"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Singles 1965-1967",
-        "url": "https://open.spotify.com/album/2EXY5L6GbdSrRR3mo5Bes5"
+        "name": "Forever Changes",
+        "url": "https://open.spotify.com/album/6myt0Ez6hGJIPQeZKgY8um"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Love",
+          "url": "https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk"
         }
       ],
-      "duration_ms": 275840,
-      "name": "We Love You - Stereo Version",
-      "url": "https://open.spotify.com/track/7D9zQOnM8fDzNHtI1rondd"
+      "duration_ms": 197013,
+      "name": "Alone Again Or",
+      "url": "https://open.spotify.com/track/6hXHOrhKW9dgQt35Mc5dCb"
     }
   ],
   "unique_name": "Psychedelic Rock",

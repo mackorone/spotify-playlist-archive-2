@@ -693,6 +693,24 @@
     },
     {
       "album": {
+        "name": "Los Mejores 15 \u00c9xitos Norte\u00f1os",
+        "url": "https://open.spotify.com/album/6G6ycCLOWgkb3AQoI28Y8c"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208466,
+      "name": "Ens\u00e9\u00f1ame A Olvidar",
+      "url": "https://open.spotify.com/track/6rNDnK8X0B6SgsauoD6IK3"
+    },
+    {
+      "album": {
         "name": "PURA MUSICA DE CANTINA",
         "url": "https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z"
       },
@@ -1964,7 +1982,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 167133,
       "name": "Te Traigo Estas Flores A Dueto Con Freddie Martinez",
       "url": "https://open.spotify.com/track/3Xt34CsfQLiNfbluq5fTWO"

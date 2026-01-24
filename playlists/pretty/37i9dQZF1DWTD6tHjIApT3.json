@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u306b\u3057\u306a nishina",
-  "num_followers": 134467,
+  "num_followers": 134593,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-01-21 04:43:57",
       "album": {
-        "name": "My Answer",
-        "url": "https://open.spotify.com/album/0P2qYoVgXNwR6zsxSYhyn8"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "My Answer",
-      "url": "https://open.spotify.com/track/5sb1ngao5lKvPfGBiBsQW8"
-    },
-    {
-      "added_at": "2026-01-21 04:43:57",
-      "album": {
         "name": "\u30cf\u30ec\u306e\u65e5\u306b - Harenohini",
         "url": "https://open.spotify.com/album/3aaRYkHau7tGCBcVMAlTWY"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 277289,
       "name": "\u30cf\u30ec\u306e\u65e5\u306b - Harenohini",
       "url": "https://open.spotify.com/track/41bU6Anbt3NPBdGLzpEcal"
+    },
+    {
+      "added_at": "2026-01-21 04:43:57",
+      "album": {
+        "name": "My Answer",
+        "url": "https://open.spotify.com/album/0P2qYoVgXNwR6zsxSYhyn8"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "My Answer",
+      "url": "https://open.spotify.com/track/5sb1ngao5lKvPfGBiBsQW8"
     },
     {
       "added_at": "2026-01-21 04:43:57",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-01-21 04:43:57",
       "album": {
-        "name": "Laugh",
-        "url": "https://open.spotify.com/album/0QmujzTxQFdS9zYbfJznnJ"
-      },
-      "artists": [
-        {
-          "name": "Lilas",
-          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
-        }
-      ],
-      "duration_ms": 186573,
-      "name": "Latata",
-      "url": "https://open.spotify.com/track/53x4Fe0j0X5Nxo1UKsJNTX"
-    },
-    {
-      "added_at": "2026-01-21 04:43:57",
-      "album": {
         "name": "\u65e5\u9670",
         "url": "https://open.spotify.com/album/4dNOcPtSueHQCjKx8FeOjK"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 180821,
       "name": "\u96e8\u666f\u8272",
       "url": "https://open.spotify.com/track/0S4vsLoQPVC46Ctnee2FxG"
+    },
+    {
+      "added_at": "2026-01-21 04:43:57",
+      "album": {
+        "name": "Laugh",
+        "url": "https://open.spotify.com/album/0QmujzTxQFdS9zYbfJznnJ"
+      },
+      "artists": [
+        {
+          "name": "Lilas",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "duration_ms": 186573,
+      "name": "Latata",
+      "url": "https://open.spotify.com/track/53x4Fe0j0X5Nxo1UKsJNTX"
     },
     {
       "added_at": "2026-01-21 04:43:57",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-01-21 04:43:57",
       "album": {
-        "name": "Voyage",
-        "url": "https://open.spotify.com/album/3qUKioXfUeLyuzPtsYCNnL"
-      },
-      "artists": [
-        {
-          "name": "Lilas",
-          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
-        }
-      ],
-      "duration_ms": 218283,
-      "name": "Voyage",
-      "url": "https://open.spotify.com/track/0djEHfacrcMs3DKuBba00C"
-    },
-    {
-      "added_at": "2026-01-21 04:43:57",
-      "album": {
         "name": "Kissing the machine",
         "url": "https://open.spotify.com/album/4dQJhysRhXJHLyVx76Wty1"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 243533,
       "name": "Kissing the machine",
       "url": "https://open.spotify.com/track/2lg0TdICLNAii6wdhbyXeF"
+    },
+    {
+      "added_at": "2026-01-21 04:43:57",
+      "album": {
+        "name": "Voyage",
+        "url": "https://open.spotify.com/album/3qUKioXfUeLyuzPtsYCNnL"
+      },
+      "artists": [
+        {
+          "name": "Lilas",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "duration_ms": 218283,
+      "name": "Voyage",
+      "url": "https://open.spotify.com/track/0djEHfacrcMs3DKuBba00C"
     },
     {
       "added_at": "2026-01-21 04:43:57",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-01-21 04:43:57",
       "album": {
+        "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
+        "url": "https://open.spotify.com/album/48VLTTkyHcbwfvyR0B74gB"
+      },
+      "artists": [
+        {
+          "name": "\u7d2b \u4eca",
+          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
+        }
+      ],
+      "duration_ms": 193430,
+      "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
+      "url": "https://open.spotify.com/track/3nIeP2B5O1uwKeKVUiYjo6"
+    },
+    {
+      "added_at": "2026-01-21 04:43:57",
+      "album": {
         "name": "\u30b0\u30e9\u30a4\u30c9",
         "url": "https://open.spotify.com/album/05RJSqyP55ocLOOyIXaNht"
       },
@@ -1215,18 +1231,18 @@
     {
       "added_at": "2026-01-21 04:43:57",
       "album": {
-        "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
-        "url": "https://open.spotify.com/album/48VLTTkyHcbwfvyR0B74gB"
+        "name": "Belt of Venus",
+        "url": "https://open.spotify.com/album/5gChpeCx9i8VmjfdrNF8J0"
       },
       "artists": [
         {
-          "name": "\u7d2b \u4eca",
-          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
         }
       ],
-      "duration_ms": 193430,
-      "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
-      "url": "https://open.spotify.com/track/3nIeP2B5O1uwKeKVUiYjo6"
+      "duration_ms": 329604,
+      "name": "Belt of Venus",
+      "url": "https://open.spotify.com/track/2iG9jd5SVWYnObU6PzeOS1"
     },
     {
       "added_at": "2026-01-21 04:43:57",
@@ -1243,22 +1259,6 @@
       "duration_ms": 198123,
       "name": "SALT AND PEPPER",
       "url": "https://open.spotify.com/track/2BZXo0GtuKlEIyGP6sdfX7"
-    },
-    {
-      "added_at": "2026-01-21 04:43:57",
-      "album": {
-        "name": "Belt of Venus",
-        "url": "https://open.spotify.com/album/5gChpeCx9i8VmjfdrNF8J0"
-      },
-      "artists": [
-        {
-          "name": "Aimyon",
-          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
-        }
-      ],
-      "duration_ms": 329604,
-      "name": "Belt of Venus",
-      "url": "https://open.spotify.com/track/2iG9jd5SVWYnObU6PzeOS1"
     },
     {
       "added_at": "2026-01-21 04:43:57",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2026-01-21 04:43:57",
       "album": {
+        "name": "\u30df\u30ae\u30d2\u30c0\u30ea",
+        "url": "https://open.spotify.com/album/67AqcAoP7jxo0pe4iEKP0z"
+      },
+      "artists": [
+        {
+          "name": "Yuka Nagase",
+          "url": "https://open.spotify.com/artist/4eEVWfAuVUPgwMXWQiD4zX"
+        }
+      ],
+      "duration_ms": 184891,
+      "name": "\u30df\u30ae\u30d2\u30c0\u30ea",
+      "url": "https://open.spotify.com/track/6oapMHhwhvjN0iQISpORq9"
+    },
+    {
+      "added_at": "2026-01-21 04:43:57",
+      "album": {
         "name": "\u5947\u8de1\u306e\u3088\u3046\u306a\u3053\u3068",
         "url": "https://open.spotify.com/album/7ucHTv7k6HRCHXEZ2db7YB"
       },
@@ -1391,18 +1407,18 @@
     {
       "added_at": "2026-01-21 04:43:57",
       "album": {
-        "name": "\u30df\u30ae\u30d2\u30c0\u30ea",
-        "url": "https://open.spotify.com/album/67AqcAoP7jxo0pe4iEKP0z"
+        "name": "The rose",
+        "url": "https://open.spotify.com/album/5tHePKEB70C7xnNessYfKx"
       },
       "artists": [
         {
-          "name": "Yuka Nagase",
-          "url": "https://open.spotify.com/artist/4eEVWfAuVUPgwMXWQiD4zX"
+          "name": "YU-KA",
+          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
         }
       ],
-      "duration_ms": 184891,
-      "name": "\u30df\u30ae\u30d2\u30c0\u30ea",
-      "url": "https://open.spotify.com/track/6oapMHhwhvjN0iQISpORq9"
+      "duration_ms": 172966,
+      "name": "The rose",
+      "url": "https://open.spotify.com/track/6ZGcf4owKDzTv5tfLFNS5Y"
     },
     {
       "added_at": "2026-01-21 04:43:57",
@@ -1423,22 +1439,6 @@
       "duration_ms": 227538,
       "name": "\u3061\u3087\u3046\u3069\u3044\u3044 (feels just right)",
       "url": "https://open.spotify.com/track/2oTAoZQX2fpb5lPBseqI9r"
-    },
-    {
-      "added_at": "2026-01-21 04:43:57",
-      "album": {
-        "name": "The rose",
-        "url": "https://open.spotify.com/album/5tHePKEB70C7xnNessYfKx"
-      },
-      "artists": [
-        {
-          "name": "YU-KA",
-          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
-        }
-      ],
-      "duration_ms": 172966,
-      "name": "The rose",
-      "url": "https://open.spotify.com/track/6ZGcf4owKDzTv5tfLFNS5Y"
     },
     {
       "added_at": "2026-01-21 04:43:57",
@@ -1471,6 +1471,22 @@
       "duration_ms": 252501,
       "name": "pink",
       "url": "https://open.spotify.com/track/2NI2qpkxH30nFZ6vxCcrGF"
+    },
+    {
+      "added_at": "2026-01-21 04:43:57",
+      "album": {
+        "name": "\u221e",
+        "url": "https://open.spotify.com/album/43tk1aJAbtbnlIPDtrKIJ9"
+      },
+      "artists": [
+        {
+          "name": "HACHI",
+          "url": "https://open.spotify.com/artist/2ksMoRs5T9ErEe5H7gxv7C"
+        }
+      ],
+      "duration_ms": 237316,
+      "name": "\u221e",
+      "url": "https://open.spotify.com/track/6ZrX2IRdkDrYwLT2uwnllG"
     },
     {
       "added_at": "2026-01-21 04:43:57",
@@ -1519,22 +1535,6 @@
       "duration_ms": 249703,
       "name": "last scene.",
       "url": "https://open.spotify.com/track/7p0CX0wH7aAGMac8nRFV6E"
-    },
-    {
-      "added_at": "2026-01-21 04:43:57",
-      "album": {
-        "name": "\u221e",
-        "url": "https://open.spotify.com/album/43tk1aJAbtbnlIPDtrKIJ9"
-      },
-      "artists": [
-        {
-          "name": "HACHI",
-          "url": "https://open.spotify.com/artist/2ksMoRs5T9ErEe5H7gxv7C"
-        }
-      ],
-      "duration_ms": 237316,
-      "name": "\u221e",
-      "url": "https://open.spotify.com/track/6ZrX2IRdkDrYwLT2uwnllG"
     },
     {
       "added_at": "2026-01-21 04:43:57",
@@ -1607,18 +1607,22 @@
     {
       "added_at": "2026-01-21 04:43:57",
       "album": {
-        "name": "\u546a\u3044\u3092\u304b\u3051\u3066\u3001\u307e\u307c\u308d\u3057\u3092\u3068\u3044\u3066\u3002",
-        "url": "https://open.spotify.com/album/0m4QPfwdOiuvYojWJuYklp"
+        "name": "Happy Ever After",
+        "url": "https://open.spotify.com/album/6gvgtKoAbqP46vLw46Hrlg"
       },
       "artists": [
         {
-          "name": "ano",
-          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+          "name": "\u9df2\u5c3e\u4f36\u83dc",
+          "url": "https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf"
+        },
+        {
+          "name": "YU-KA",
+          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
         }
       ],
-      "duration_ms": 285267,
-      "name": "KILL LOVE",
-      "url": "https://open.spotify.com/track/2OrNoZhXPmWcJQLMyTEjop"
+      "duration_ms": 225533,
+      "name": "Happy Ever After",
+      "url": "https://open.spotify.com/track/6ht5QWPzQSQInoRN2v87Ac"
     },
     {
       "added_at": "2026-01-21 04:43:57",

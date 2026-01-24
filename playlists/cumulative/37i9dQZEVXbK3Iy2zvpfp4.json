@@ -3426,7 +3426,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-21",
+      "date_removed": null,
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -3444,7 +3444,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -6066,7 +6066,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 216880,
       "name": "Bad Things",
       "url": "https://open.spotify.com/track/2QMV9Kj5BFo8kjggLVHf86"
@@ -7190,10 +7190,32 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 189960,
       "name": "Beast",
       "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
+    },
+    {
+      "album": {
+        "name": "Beast (feat. Waka Flocka)",
+        "url": "https://open.spotify.com/album/6xMVTI6XdHdvpVgEA20Nlx"
+      },
+      "artists": [
+        {
+          "name": "Mia Martina",
+          "url": "https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189970,
+      "name": "Beast (feat. Waka Flocka)",
+      "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
     },
     {
       "album": {
@@ -14465,7 +14487,7 @@
       "artists": [
         {
           "name": "Ironmouse",
-          "url": "https://open.spotify.com/artist/7mP0yyVD9PFmjqWcXI1kFB"
+          "url": "https://open.spotify.com/artist/3iN0khAe5Ilrjr2WnC8Poi"
         },
         {
           "name": "shirobeats",
@@ -14482,7 +14504,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 160645,
       "name": "Cry for Me WA WA WA - Live Version",
       "url": "https://open.spotify.com/track/19aIw4f5D2bMsufW7lYFYO"
@@ -27954,7 +27976,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 114461,
       "name": "HEAVENLY JUMPSTYLE",
       "url": "https://open.spotify.com/track/6kamZOSWb8ahxRkrYARPNG"
@@ -80922,7 +80944,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 96000,
       "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
       "url": "https://open.spotify.com/track/6glptAOL1GSNQ1kZdWEVjj"

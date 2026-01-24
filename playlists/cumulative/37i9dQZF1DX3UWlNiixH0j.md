@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 二階堂和美 Kazumi Nikaido
 
-2,950 songs - 7 day 16 hr 50 min
+2,951 songs - 7 day 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2393,6 +2393,7 @@
 | [ワタツミ](https://open.spotify.com/track/7j1Y5UXHWD1ub88GftA8le) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:39 | 2024-01-11 | 2024-02-28 |
 | [ワンダワンダナイト](https://open.spotify.com/track/7z8HA9CFTA59asI9VDOR32) | [浦小雪](https://open.spotify.com/artist/5PHZ4PVOsKViz2yF868wUP) | [ワンダワンダナイト](https://open.spotify.com/album/63pr0cg2LzCxWlAaLq5CzV) | 2:36 | 2023-07-11 | 2023-07-19 |
 | [一生このまま](https://open.spotify.com/track/1q4zRDIKKchOp9fijZf7Px) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [一生このまま](https://open.spotify.com/album/59dpWHuyHaj4thgbTdD14U) | 4:43 | 2023-05-30 | 2023-06-01 |
+| [一縷](https://open.spotify.com/track/0Ha0Jamuh0OyS9q65t9c0N) | [UNIDOTS](https://open.spotify.com/artist/2uByNuOCgzpdf1JOf1M3LZ) | [一縷](https://open.spotify.com/album/004hVSOMsD3ryx7iMugGGJ) | 3:34 | 2026-01-20 |  |
 | [万祝](https://open.spotify.com/track/6zp71DNt8YIl14MCA9CQ5T) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [万祝](https://open.spotify.com/album/0heim8z9M7TUdwDP9o1ZxY) | 3:41 | 2025-11-11 | 2025-12-24 |
 | [三月の歌](https://open.spotify.com/track/4EQQLK6xsQN6eiByBRuko8) | [SaToA](https://open.spotify.com/artist/3G6WF3GvhYoSEowQlsllIr) | [タイムリープ](https://open.spotify.com/album/5F7V2dm5l6wkHwozYRJJWY) | 3:01 | 2025-10-21 | 2025-10-29 |
 | [不安時間](https://open.spotify.com/track/3eGhGu79I5YLEaOo3EFRTc) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [peanut butters II](https://open.spotify.com/album/32Y4rnV7l6GCXUy005ox3p) | 3:22 | 2023-12-05 | 2023-12-24 |
@@ -2630,7 +2631,7 @@
 | [抜けていく](https://open.spotify.com/track/6Xes5DgfEgPlGKwIQwRVGQ) | [Inshow ha](https://open.spotify.com/artist/6oZfAOrVYegzxjJaaQ0LpA), [チアキ](https://open.spotify.com/artist/5BgZvhd8WV1wd3dChcjNK6) | [Through The Lonely Nights](https://open.spotify.com/album/07aGzvY0kMQTTWFuGu9WTV) | 4:34 | 2023-12-28 | 2024-01-17 |
 | [指先ひとつで](https://open.spotify.com/track/0BXEoE6unKgw9xEuYjiMUe) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Steppin' Out](https://open.spotify.com/album/1HQmNQ7LovrKEvInfoMDrV) | 4:43 | 2023-09-05 | 2023-09-07 |
 | [指切り \(Cornelius Remix\)](https://open.spotify.com/track/2Dw3iSdLAXAEPRvfvpOLBg) | [大瀧詠一](https://open.spotify.com/artist/7wqLKZlQrecUHehboPBPHG), [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Eiichi Ohtaki’s NIAGARA 50th Odyssey Remix EP](https://open.spotify.com/album/5fOtEsX0zSikm5l4Ll7lA4) | 3:52 | 2025-07-08 | 2025-07-16 |
-| [掴めない人](https://open.spotify.com/track/4X45mHitSi0UBFYreIWp87) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [掴めない人](https://open.spotify.com/album/31GdeHZUbAH14wedzLY41w) | 3:30 | 2025-12-27 |  |
+| [掴めない人](https://open.spotify.com/track/4X45mHitSi0UBFYreIWp87) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [掴めない人](https://open.spotify.com/album/31GdeHZUbAH14wedzLY41w) | 3:30 | 2025-12-27 | 2026-01-24 |
 | [換気](https://open.spotify.com/track/7qZVdyDeJC488Nfknqx4eb) | [Yoshida Yohei group](https://open.spotify.com/artist/31ysUnRxadhX0h9zQVE23h) | [Happiness Comes in Waves](https://open.spotify.com/album/27hltEvHkO0F85UkkQ2ZSJ) | 5:15 | 2025-08-19 | 2025-09-04 |
 | [放春花](https://open.spotify.com/track/0jZRUt5GtTFu1WjZsPTe7v) | [Khamai Leon](https://open.spotify.com/artist/0XR6pwgaNullwNSqnmnhHb) | [放春花](https://open.spotify.com/album/12DSwGJs8J0aGZqTdrpE5v) | 4:15 | 2025-04-15 | 2025-04-23 |
 | [敏感](https://open.spotify.com/track/4YPyhQj8nXCVL4oNV4ef5B) | [Inshow ha](https://open.spotify.com/artist/6oZfAOrVYegzxjJaaQ0LpA), [なかまきこ](https://open.spotify.com/artist/7aq5x0tdeZMA5THwHsYDUz) | [敏感](https://open.spotify.com/album/4mondnoMGMLlVTKUgoinCe) | 3:54 | 2023-11-21 | 2023-11-29 |

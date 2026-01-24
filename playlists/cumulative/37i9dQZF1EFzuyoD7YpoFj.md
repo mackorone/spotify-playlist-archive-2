@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-645 songs - 1 day 10 hr 43 min
+646 songs - 1 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,7 +473,8 @@
 | [Sleepy Lagoon](https://open.spotify.com/track/511YWvR0UeXgJENt3qM5Ix) | [The Trumpet Jazz band](https://open.spotify.com/artist/1bHGmMQpnR4n6SevD60jdL) | [Magic Jazz Trumpet](https://open.spotify.com/album/0980VHgDIRiubsOM6aVoiY) | 2:57 | 2024-07-24 | 2025-06-28 |
 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/2vSxjnyrWrtxyfzO47EX6q) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Remember When?](https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ) | 2:40 | 2024-07-24 | 2025-12-08 |
 | [So In Love](https://open.spotify.com/track/1CML9iOr9Ht5LfYLYpra1A) | [Nestor Torres](https://open.spotify.com/artist/25z14Qw0e8uN0dIaWVe2Mk) | [Jazz Flute Traditions](https://open.spotify.com/album/4DqJWhHolufk0kDOzbIsQs) | 8:25 | 2025-07-10 |  |
-| [So Near and Yet So Far](https://open.spotify.com/track/6AC7UynRLE48GlJWEAWICV) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Songbooks](https://open.spotify.com/album/5LdHsGaNecatmBABHpbdoZ) | 3:21 | 2024-07-24 |  |
+| [So Near And Yet So Far](https://open.spotify.com/track/3iOSsAJVdhmxWijje9262j) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson \- Jazz Moods](https://open.spotify.com/album/4O6elzt1pv8vei5SkWy0Jl) | 3:21 | 2026-01-23 |  |
+| [So Near and Yet So Far](https://open.spotify.com/track/6AC7UynRLE48GlJWEAWICV) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Songbooks](https://open.spotify.com/album/5LdHsGaNecatmBABHpbdoZ) | 3:21 | 2024-07-24 | 2026-01-24 |
 | [So, What's New \(Peroni Spot Tv\)](https://open.spotify.com/track/27oaGM2vE3wqDaztsg7QWP) | [Montefiori Cocktail](https://open.spotify.com/artist/2AGsq5G3ME9ctnL21lHj1G) | [Classics \(a New Release of Selected Tracks from 1997 to 2000\)](https://open.spotify.com/album/3KjQ1gqbJ0OAlcUzUGdDon) | 4:01 | 2025-05-24 |  |
 | [So, What's New \(Peroni Spot Tv\)](https://open.spotify.com/track/4adVw6NMItG5Hjo6bCWRum) | [Montefiori Cocktail](https://open.spotify.com/artist/2AGsq5G3ME9ctnL21lHj1G) | [Classics \(a New Release of Selected Tracks from 1997 to 2000\)](https://open.spotify.com/album/4jZlfWH3mwcfW4PfAHd2vX) | 4:01 | 2024-07-24 | 2025-05-25 |
 | [Soft As Spring](https://open.spotify.com/track/4XvZLaEaVoiLXf8Sty1HO2) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Merrill At Midnight](https://open.spotify.com/album/0mjrxHCEFCY9EbXJNnh6D9) | 3:14 | 2024-07-24 |  |

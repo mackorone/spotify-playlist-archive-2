@@ -4,13 +4,14 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-595 songs - 23 hr 1 min
+597 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [!Sunshine!](https://open.spotify.com/track/5v4j4LiqW49SnYAwnJugw5) | [Camden Clown](https://open.spotify.com/artist/56yn1U5TaMjH6ENhDdlWfM) | [Seven Hours](https://open.spotify.com/album/35tjstca6Mawcst5DoeXMN) | 3:03 | 2021-11-11 | 2025-02-08 |
 | [1999](https://open.spotify.com/track/5ROGipdo5HwRSp3olANTFa) | [Yles](https://open.spotify.com/artist/6xuhrq8QZxXqXRz5XKxwaG) | [Nostalgia](https://open.spotify.com/album/5p9RXLrMutf2dBgcIxczp2) | 1:24 | 2022-10-15 |  |
 | [20](https://open.spotify.com/track/1qeK0BuNvrJHvivzN87hL9) | [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO) | [20](https://open.spotify.com/album/40MICFNW53jwONBclvpGjL) | 3:06 | 2023-05-01 | 2023-10-24 |
+| [2AM Notes](https://open.spotify.com/track/1vpPkpXvKBfREKyKOxjrYs) | [Soft Water City](https://open.spotify.com/artist/6TuwCLQKzsod3Z4Nr3FUsW) | [2AM Notes](https://open.spotify.com/album/1OG1VcBpdqZ0epTK9Q5wlC) | 2:34 | 2026-01-23 |  |
 | [5 Years, 8 Months, 3 Days](https://open.spotify.com/track/1VcTBO0lHjCI2tiq0Juq3Q) | [Azido 88](https://open.spotify.com/artist/36Hfqd2C0x7oulFJTAuIt0) | [5 Years, 8 Months, 3 Days](https://open.spotify.com/album/6F5IYuBjkR9eiZISmuW5RD) | 2:01 | 2022-07-22 | 2022-12-10 |
 | [A Costa](https://open.spotify.com/track/009s8MccQSXM4pAQwsP59s) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Maple Syrup](https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr) | [A Costa](https://open.spotify.com/album/0w5RQ9HUb2vv1WqSzm9lME) | 2:12 | 2021-11-11 | 2022-11-20 |
 | [A Costa](https://open.spotify.com/track/74qtgpInZebIwsTAb2p7lr) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Maple Syrup](https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr) | [A Costa](https://open.spotify.com/album/44zGTrCwyKDspOhtzTKIar) | 2:12 | 2022-11-11 | 2022-11-26 |
@@ -90,7 +91,7 @@
 | [Carombola](https://open.spotify.com/track/3KSfR7RFxDzpXXgVZTpvB2) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Mesame](https://open.spotify.com/album/0KAVgCqz8YH4FcpRY5v2mH) | 2:32 | 2022-11-11 | 2024-04-19 |
 | [Catalangelo](https://open.spotify.com/track/5dW5pzdqZZd9cnFi5hV18S) | [Aberdeen/Stavanger](https://open.spotify.com/artist/1pr2LbfqeB3gh6KUIRKVPk) | [Catalangelo](https://open.spotify.com/album/7o5I6xcwbFCtjSZlVluria) | 2:08 | 2021-11-11 | 2022-10-29 |
 | [Catch These Hands](https://open.spotify.com/track/35NeUSMtoTziAlbdoq6bt0) | [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi), [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j) | [Catch These Hands](https://open.spotify.com/album/2zEBJxBoKNla0H1x1d8Foj) | 2:43 | 2022-08-19 | 2022-12-10 |
-| [Celebrate](https://open.spotify.com/track/3i3aVOWyaNcEMIlnoSilGb) | [MVR Music](https://open.spotify.com/artist/6JKyNrD4ZdPRFbZIY1TES8) | [Celebrate](https://open.spotify.com/album/2jIwdQGwKeBGhVHeaccbFm) | 2:02 | 2022-11-25 |  |
+| [Celebrate](https://open.spotify.com/track/3i3aVOWyaNcEMIlnoSilGb) | [MVR Music](https://open.spotify.com/artist/6JKyNrD4ZdPRFbZIY1TES8) | [Celebrate](https://open.spotify.com/album/2jIwdQGwKeBGhVHeaccbFm) | 2:02 | 2022-11-25 | 2026-01-24 |
 | [Celebrate You](https://open.spotify.com/track/5ZmTz0zMu1ENE9ksmNKuBi) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Celebrate You](https://open.spotify.com/album/6mur5z1CltJszyCwJFjLJx) | 2:22 | 2021-11-11 | 2025-02-01 |
 | [Centraal](https://open.spotify.com/track/5fQZSvFRYJpv5etKkAe7LW) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Centraal](https://open.spotify.com/album/4tIVNhQ7RcIEPtTqbGnPwm) | 2:10 | 2022-07-08 | 2022-09-03 |
 | [Chi\-town](https://open.spotify.com/track/6IlUL7y90tJ87q4f37egWZ) | [55 South](https://open.spotify.com/artist/6Fu4AVSoxW8zh9MB1yuotB) | [Chi\-town](https://open.spotify.com/album/4UswIixSDaHuBY5YdrBQi7) | 2:41 | 2021-11-11 | 2022-10-29 |
@@ -103,6 +104,7 @@
 | [Circle](https://open.spotify.com/track/5TYYZj4y8tmHSeCnDWUyNO) | [Glow Down](https://open.spotify.com/artist/1gWqPuL3TnL7maQnhHAZhn) | [Circle](https://open.spotify.com/album/24Z9hGdUbD9Ht3G7SlLuVC) | 2:27 | 2024-06-28 |  |
 | [City Beatbox](https://open.spotify.com/track/55G7LzvJNYZJiPFitg1g4y) | [Zumak](https://open.spotify.com/artist/6be30BeZ9kqClak0AY5Gi7) | [City Beatbox](https://open.spotify.com/album/376zKL3VyAGdByEgktt1td) | 1:58 | 2021-11-11 |  |
 | [Claviator](https://open.spotify.com/track/2QabqGqpBdgPC7JLisqaNU) | [Barcode Hippies](https://open.spotify.com/artist/6wX6hFwDKkeUywd9oAIejn) | [Claviator](https://open.spotify.com/album/6dZ7sloWGY6B756GoP3NZK) | 2:14 | 2022-12-09 | 2023-09-08 |
+| [Coast](https://open.spotify.com/track/5PWHkqog3DY2L888uRF1z3) | [Moody Moon](https://open.spotify.com/artist/5FqggPXiI6UjenpYlu4xSU) | [Coast](https://open.spotify.com/album/0YUpgTzRdcpmEL0h2ZK9N5) | 2:23 | 2026-01-23 |  |
 | [Coast Line](https://open.spotify.com/track/5k1E56NzUXs2ikHijAmPtS) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3) | [Coast Line](https://open.spotify.com/album/7rvSCHE97gNuH0VPgRbArn) | 3:12 | 2023-05-01 | 2024-09-07 |
 | [Cobblestone](https://open.spotify.com/track/66DEOiQSYkFl30qIcR5pbr) | [tajima hal](https://open.spotify.com/artist/5SuPIkCZe2U5TZCqYX4mcI) | [Cobblestone](https://open.spotify.com/album/1jOQBeQ24Yn3hSLWgB9gAZ) | 1:40 | 2021-11-11 | 2022-11-26 |
 | [Coffee Bar](https://open.spotify.com/track/7LnYs3WmQFJvwAKWDHhfws) | [Yung Dark](https://open.spotify.com/artist/0FEEkPEuD7LFWz6peeJlIY) | [Coffee Bar](https://open.spotify.com/album/5VsoeebTt6J7pvHcR0w8Mm) | 2:08 | 2022-11-25 | 2025-01-11 |

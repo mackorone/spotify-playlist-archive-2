@@ -12521,6 +12521,24 @@
     },
     {
       "album": {
+        "name": "ONLY U",
+        "url": "https://open.spotify.com/album/2iC0Lz84LpIc9nnczntdpe"
+      },
+      "artists": [
+        {
+          "name": "Leondis",
+          "url": "https://open.spotify.com/artist/0wxqz8uaPaewwCEqsYQHn8"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167343,
+      "name": "ONLY U",
+      "url": "https://open.spotify.com/track/3z8lgTFjOCnNhfdo2yUeSJ"
+    },
+    {
+      "album": {
         "name": "Open My Heart",
         "url": "https://open.spotify.com/album/6HIOUdfFfge3rEJLoQEijw"
       },
@@ -14922,7 +14940,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 208500,
       "name": "Slippin",
       "url": "https://open.spotify.com/track/28bclJ38qiAdrAS57F0gpk"
@@ -15156,7 +15174,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 226285,
       "name": "Something For Your Mind",
       "url": "https://open.spotify.com/track/46EGyxJ2V0rk13jUlIGL6s"
@@ -15248,6 +15266,32 @@
       "duration_ms": 213599,
       "name": "Soul",
       "url": "https://open.spotify.com/track/6DCyeSglUl6dX2GcWF5frs"
+    },
+    {
+      "album": {
+        "name": "Southern Skies",
+        "url": "https://open.spotify.com/album/6ZhWtq4KVqC7UIPPOy6Yc4"
+      },
+      "artists": [
+        {
+          "name": "UNDEFYND",
+          "url": "https://open.spotify.com/artist/71RXcyQVb3RTCvESEn4Rmy"
+        },
+        {
+          "name": "Second Road",
+          "url": "https://open.spotify.com/artist/20FPD14qFlRzMeqyF8mlJE"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293538,
+      "name": "Southern Skies",
+      "url": "https://open.spotify.com/track/0O0RDDBxt18mZxDu43waB8"
     },
     {
       "album": {

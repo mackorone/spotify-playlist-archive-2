@@ -1,12 +1,12 @@
 {
   "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: ili. Artwork by Paola Saliby",
-  "num_followers": 236076,
+  "num_followers": 236124,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF5jOly3co6qzKP0iFv53GHcj53S",
+  "snapshot_id": "AAAAAI/JyXeV8q6ZgXZqggIjMXv0WfOv",
   "tracks": [
     {
       "added_at": "2026-01-16 05:00:46",
@@ -23,6 +23,38 @@
       "duration_ms": 138950,
       "name": "Super Elastic",
       "url": "https://open.spotify.com/track/4EXreHEQvGiM6BlXbATMZm"
+    },
+    {
+      "added_at": "2026-01-23 05:30:46",
+      "album": {
+        "name": "BUTTERF-LIES",
+        "url": "https://open.spotify.com/album/4bpXUnxUEyqVyQHGPVIgGI"
+      },
+      "artists": [
+        {
+          "name": "Mira Housey",
+          "url": "https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg"
+        }
+      ],
+      "duration_ms": 128445,
+      "name": "BUTTERF-LIES",
+      "url": "https://open.spotify.com/track/1noA2W44E4YqekIJwudFO2"
+    },
+    {
+      "added_at": "2026-01-23 05:30:46",
+      "album": {
+        "name": "Narcissist",
+        "url": "https://open.spotify.com/album/4EybcryYJC2MmZ65yPGS2J"
+      },
+      "artists": [
+        {
+          "name": "Tallulah Argue",
+          "url": "https://open.spotify.com/artist/34L2mrqYyWifYUwyPMhCUd"
+        }
+      ],
+      "duration_ms": 209248,
+      "name": "Narcissist",
+      "url": "https://open.spotify.com/track/2iTqogAQJ5Oprtkn1SxkS4"
     },
     {
       "added_at": "2026-01-21 15:37:08",
@@ -57,6 +89,38 @@
       "url": "https://open.spotify.com/track/7Ct2izLXZcTd4ktA7xzqXp"
     },
     {
+      "added_at": "2026-01-23 05:30:46",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/2M3flg4qynuOU0A5YAqciG"
+      },
+      "artists": [
+        {
+          "name": "Hannah Storm",
+          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
+        }
+      ],
+      "duration_ms": 187869,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/1tKt5lYHwNymK3SMDrzQNK"
+    },
+    {
+      "added_at": "2026-01-23 05:30:46",
+      "album": {
+        "name": "The Songs We Wrote In Norfolk",
+        "url": "https://open.spotify.com/album/6MEFQmsSR3YOQXzYnDMw6T"
+      },
+      "artists": [
+        {
+          "name": "Tonia",
+          "url": "https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx"
+        }
+      ],
+      "duration_ms": 125607,
+      "name": "Troy",
+      "url": "https://open.spotify.com/track/2KVj7oGzV2LFjxO72z1FX1"
+    },
+    {
       "added_at": "2026-01-16 05:00:46",
       "album": {
         "name": "Girlhood",
@@ -71,6 +135,22 @@
       "duration_ms": 223342,
       "name": "The Woods",
       "url": "https://open.spotify.com/track/1i9XzNxzwGVCNLlDixZYQp"
+    },
+    {
+      "added_at": "2026-01-23 05:30:46",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/3yZfqxuzwp031yh7cQjldL"
+      },
+      "artists": [
+        {
+          "name": "Maryn Charlie",
+          "url": "https://open.spotify.com/artist/71JkqGrg5nuc5sIVCCTjvL"
+        }
+      ],
+      "duration_ms": 167654,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/5GIGmsyaCRehvGAsuIa4Pr"
     },
     {
       "added_at": "2026-01-16 05:00:46",
@@ -215,22 +295,6 @@
       "duration_ms": 176987,
       "name": "still be friends",
       "url": "https://open.spotify.com/track/0pXfzBjkfflxV8C4yaX2x1"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Are You Bored Yet?",
-        "url": "https://open.spotify.com/album/7isAxtp1OozE2Gc9wB5bpZ"
-      },
-      "artists": [
-        {
-          "name": "Maryn Charlie",
-          "url": "https://open.spotify.com/artist/71JkqGrg5nuc5sIVCCTjvL"
-        }
-      ],
-      "duration_ms": 181306,
-      "name": "Are You Bored Yet?",
-      "url": "https://open.spotify.com/track/2Kbil8mt1vXxPlk1dseF86"
     },
     {
       "added_at": "2026-01-14 05:00:01",
@@ -655,22 +719,6 @@
     {
       "added_at": "2026-01-14 05:00:01",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/2oYTqR3MDbU55VHxCwxZlO"
-      },
-      "artists": [
-        {
-          "name": "ARIS",
-          "url": "https://open.spotify.com/artist/0J6G9NfkjzlvPKMLnKemv8"
-        }
-      ],
-      "duration_ms": 136888,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/27033s3ppBoMd3RYjmT8eB"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
         "name": "RAIN TEARS",
         "url": "https://open.spotify.com/album/59Teir7bgUMl1qem25oXxf"
       },
@@ -683,54 +731,6 @@
       "duration_ms": 143773,
       "name": "RAIN TEARS",
       "url": "https://open.spotify.com/track/4oz4ks0tE4kslYXUQE6E6M"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "180\u00b0",
-        "url": "https://open.spotify.com/album/42lKdcpikEyCPO87oOHAc9"
-      },
-      "artists": [
-        {
-          "name": "Addison Dean",
-          "url": "https://open.spotify.com/artist/76q2t3ghKRSAyWww2LZ9Kk"
-        }
-      ],
-      "duration_ms": 169671,
-      "name": "180\u00b0",
-      "url": "https://open.spotify.com/track/7ckom0ejIcK5XxdoY39iAL"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Sleeping In My Makeup",
-        "url": "https://open.spotify.com/album/559y2e00Oi8KW3p9y3cOM1"
-      },
-      "artists": [
-        {
-          "name": "Mira Housey",
-          "url": "https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg"
-        }
-      ],
-      "duration_ms": 157666,
-      "name": "Sleeping In My Makeup",
-      "url": "https://open.spotify.com/track/5iZzNIbMSsvcJeZkrxuzU1"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Like You Do",
-        "url": "https://open.spotify.com/album/57sa9heTy5qcbLqML5Ubj9"
-      },
-      "artists": [
-        {
-          "name": "Elena Flury",
-          "url": "https://open.spotify.com/artist/3Qje1fgX9cfwugPCAG6Uuy"
-        }
-      ],
-      "duration_ms": 193640,
-      "name": "Like You Do",
-      "url": "https://open.spotify.com/track/2oSQklnarJ2KxcNBr5XB4e"
     }
   ],
   "unique_name": "Fresh Finds Pop",

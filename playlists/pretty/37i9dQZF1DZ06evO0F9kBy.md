@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,456 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,460 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 10 | [Wait](https://open.spotify.com/track/5r8bijZKA7EhbNhxmEjgFy) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Wait / Praise The Giver](https://open.spotify.com/album/1trTP6UbgtdJmY2tcyXH1i) | 4:08 |
 | 11 | [Christ Is Risen](https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 4:54 |
 | 12 | [What a Friend](https://open.spotify.com/track/7ozWDT47HkfCmbNGgMorU8) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:17 |
-| 13 | [Hallelujah Anyway](https://open.spotify.com/track/3Cp0A3E8eC9NYJkRdA9Pg9) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Hallelujah Anyway](https://open.spotify.com/album/1sndI5DfQfIDCxOG7vBIwy) | 3:45 |
-| 14 | [Your Grace is Enough \- Live](https://open.spotify.com/track/0Kdp4tF3uto34upWjEYY4w) | [Worship Circle](https://open.spotify.com/artist/413rdrGoO7cMzxZvwiFpos), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Foundations \(Live\)](https://open.spotify.com/album/45GjAZmIuUOsAkfSPEPNW6) | 4:49 |
+| 13 | [Your Grace is Enough \- Live](https://open.spotify.com/track/0Kdp4tF3uto34upWjEYY4w) | [Worship Circle](https://open.spotify.com/artist/413rdrGoO7cMzxZvwiFpos), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Foundations \(Live\)](https://open.spotify.com/album/45GjAZmIuUOsAkfSPEPNW6) | 4:49 |
+| 14 | [Hallelujah Anyway](https://open.spotify.com/track/3Cp0A3E8eC9NYJkRdA9Pg9) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Hallelujah Anyway](https://open.spotify.com/album/1sndI5DfQfIDCxOG7vBIwy) | 3:45 |
 | 15 | [Hold Us Together](https://open.spotify.com/track/7IPldKTGN7pssmDl66DrMG) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 3:27 |
-| 16 | [Go Tell It \(Gloria\)](https://open.spotify.com/track/3rBe2uBbzPxN1ldJpe2RAM) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [The Choir Room](https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK) | [Go Tell It \(Gloria\)](https://open.spotify.com/album/0zyVJyBQiTJ5XEiRJMThbJ) | 3:19 |
-| 17 | [All the People Said Amen](https://open.spotify.com/track/31HveB33DoO9x7P3UvkRct) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 3:00 |
+| 16 | [All the People Said Amen](https://open.spotify.com/track/31HveB33DoO9x7P3UvkRct) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 3:00 |
+| 17 | [Go Tell It \(Gloria\)](https://open.spotify.com/track/3rBe2uBbzPxN1ldJpe2RAM) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [The Choir Room](https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK) | [Go Tell It \(Gloria\)](https://open.spotify.com/album/0zyVJyBQiTJ5XEiRJMThbJ) | 3:19 |
 | 18 | [In the Room \(feat\. Chris Brown\)](https://open.spotify.com/track/68ENcNLZqN18ljpbNntTvV) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 4:48 |
 | 19 | [That We Might Overcome](https://open.spotify.com/track/01IzsQif6lw1sgovKN1DVo) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Dee Wilson](https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW) | [The Kingdom of Jesus](https://open.spotify.com/album/35z3a11GNkqarQjIml21nM) | 5:45 |
 | 20 | [Center of All History](https://open.spotify.com/track/5RJ7qUnmGgOey1zv6tO5av) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Forever Amen](https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY) | 4:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 49 | [Hosanna! \(Will You Rise?\)](https://open.spotify.com/track/0FkLUL0ofJQ0wHeedtTWia) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Climate Vigil Songs](https://open.spotify.com/album/3aMGPjxPYVzrmKTtBY1m2X) | 4:51 |
 | 50 | [Deliverer](https://open.spotify.com/track/5KAtrhdDrzLgtG4tmMH1w0) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP) | 3:25 |
 
-Snapshot ID: `aXAXAAAAAACHcghZ15AiS9jKXS5+iuvq`
+Snapshot ID: `aXFogAAAAADNFGk1L53S5+ZQn6c+4X5J`

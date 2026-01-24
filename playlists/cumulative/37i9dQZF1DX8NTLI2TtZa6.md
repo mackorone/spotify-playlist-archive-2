@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-590 songs - 1 day 1 hr 16 min
+595 songs - 1 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,9 +77,11 @@
 | [Ascent](https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Ascent](https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj) | 2:12 | 2021-12-07 | 2023-10-05 |
 | [Au revoir](https://open.spotify.com/track/7vfdFzzXnux3FSS1GOQ5cn) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Au revoir](https://open.spotify.com/album/3nthhPdTXBSHY9A0Owcoe2) | 2:46 | 2025-02-19 |  |
 | [Auf dem Felde](https://open.spotify.com/track/41DUMAp3y9qP384vrS0f2r) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Auf dem Felde](https://open.spotify.com/album/0EROhvEiWfGx9i9btcWQQm) | 1:48 | 2021-12-07 | 2022-03-18 |
+| [Aus Der Ferne Betrachtet](https://open.spotify.com/track/27tSCBxZzVZkBDqG1u0A9O) | [Oliver Dane](https://open.spotify.com/artist/62xy6k7eYRUmQJOc92TLul) | [Aus Der Ferne Betrachtet](https://open.spotify.com/album/7q25keKJwIeURkgm5q0pXI) | 2:08 | 2026-01-23 |  |
 | [Autumnal Gold](https://open.spotify.com/track/7lKWLWAVjBtknyZ5u7dhaj) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Autumnal Gold](https://open.spotify.com/album/6TEOw0rKpA2oEBQVvyuC9j) | 2:04 | 2023-06-27 |  |
 | [Aviron](https://open.spotify.com/track/6AZJTapFookh7e2ot25hZE) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Prospicio](https://open.spotify.com/album/2Jva3LhKgM8We64wBcUtAX) | 2:30 | 2021-12-07 | 2024-04-04 |
 | [Awakening](https://open.spotify.com/track/7IwHCgH4i9MiJxT7jEhZ31) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Awakening](https://open.spotify.com/album/5oaWGoZ0WMSEQolzeQzeer) | 2:02 | 2023-09-11 |  |
+| [Away](https://open.spotify.com/track/6HhPyVjsK8dwzqw5HbGZs2) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Away](https://open.spotify.com/album/4FcTPmfd3R629XKimIHroq) | 2:48 | 2026-01-23 |  |
 | [Babirusa](https://open.spotify.com/track/1imHuSNiRo2ePp7BQZrGCO) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Babirusa](https://open.spotify.com/album/5Z7SPXUfQWmok6CTmNXfLM) | 2:32 | 2021-12-07 | 2022-03-02 |
 | [Bagatelle](https://open.spotify.com/track/0aQU6LlCHEpzCPMV6P9wSr) | [Sounds from a Box](https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s) | [Bagatelle](https://open.spotify.com/album/1MgdAWw1nfS5B7WJkPY11S) | 2:54 | 2025-05-20 |  |
 | [Balinese rain](https://open.spotify.com/track/02Ht4crdM7PkMpYU3FLS2X) | [Casimir Roux](https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW) | [Balinese rain](https://open.spotify.com/album/0QUr11dedtEYKwXAbdMnCd) | 2:10 | 2023-05-03 | 2024-03-20 |
@@ -123,6 +125,7 @@
 | [Conversation](https://open.spotify.com/track/598l5oslNMIA4FLWMnhIjq) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Conversation](https://open.spotify.com/album/0nDDkyNJSj5UzzCXPlNndR) | 2:44 | 2024-07-16 |  |
 | [Cotton Tale](https://open.spotify.com/track/3p4mrh87pFZu0w2WdNK7bZ) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Cotton Tale](https://open.spotify.com/album/5g6VsUEKvMkDNMqzvLJ9CT) | 2:07 | 2022-02-15 | 2022-08-10 |
 | [Crossing Paths](https://open.spotify.com/track/6JmgdhklkWQBWZBhh8Too2) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Crossing Paths](https://open.spotify.com/album/1vj9YCKCsagqPUV5rdfDVX) | 2:58 | 2021-12-07 | 2022-06-08 |
+| [Currents](https://open.spotify.com/track/6r0bP1bxozkRFD5CaUdkuF) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Currents](https://open.spotify.com/album/5mFCMqarqhgFb1AeMNRnR9) | 4:10 | 2026-01-23 |  |
 | [Cyclist Waltz Solo](https://open.spotify.com/track/1mURpkUAqx3EIqHpNV9l8c) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Mosi](https://open.spotify.com/album/6s50HIZV1AmlBDOPZTpjjB) | 2:27 | 2021-12-07 | 2022-05-28 |
 | [Dancing Fairies](https://open.spotify.com/track/4ZhBTKqXyEpRR6GC8bVV2z) | [Almeda](https://open.spotify.com/artist/2X4HKfgm5M8uwMWDLSauFE) | [Dancing Fairies](https://open.spotify.com/album/3djM3a4pI910KyYDHlaabn) | 1:56 | 2021-12-07 | 2023-07-26 |
 | [Danderlion](https://open.spotify.com/track/4p3aBt5WfldkaRaDfBcfGG) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Danderlion](https://open.spotify.com/album/06mlIPE6BeK3DQlIxLkgjR) | 2:16 | 2021-12-07 | 2025-01-07 |
@@ -160,6 +163,7 @@
 | [Fairway Drive](https://open.spotify.com/track/3zkLIQIwUzSVO7BPOiqVSE) | [Leyland Rogers](https://open.spotify.com/artist/6P5vbqhRX2ZrMmFLQHZ3Mr) | [Leatherwood Lane](https://open.spotify.com/album/0T3CYxFdDWnW9CGoCtY0jZ) | 2:48 | 2021-12-07 | 2022-06-08 |
 | [Falke](https://open.spotify.com/track/6b5jWO1oYGUG7LKNJ07De4) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Sonnenkind](https://open.spotify.com/album/0hTN8NbBKPGhbtUSrCzLgj) | 2:28 | 2022-12-22 | 2025-05-03 |
 | [Falling Trees](https://open.spotify.com/track/6chDSMcaPisS0Dg7IiU1kD) | [Jared Chance Taylor](https://open.spotify.com/artist/29GfkEnuiaWJrX3uM4PPLt) | [Falling Trees](https://open.spotify.com/album/1cEko5IGVvuTgQe5HEB2l3) | 2:42 | 2022-01-04 | 2025-01-30 |
+| [Far Water](https://open.spotify.com/track/0tMZqcyrdTUmdHm3D4w4od) | [Orren Vale](https://open.spotify.com/artist/1qmIkzSek2dDTztypfuQGN) | [Far Water](https://open.spotify.com/album/0GRJVLRM7QIHniV2SL8O1c) | 3:07 | 2026-01-23 |  |
 | [Fare la limonata](https://open.spotify.com/track/2iydu5wmxnchiJVB9dfztj) | [Anastasio Confortola](https://open.spotify.com/artist/5SAOTTBvdu5AMwEDSHSa5X) | [Fare la limonata](https://open.spotify.com/album/4HxWgxFOuhiIVqIC4KSU5W) | 2:48 | 2022-03-01 | 2024-09-25 |
 | [Featherlike](https://open.spotify.com/track/1YF19DOIXzE8i2zsYhmR66) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Featherlike](https://open.spotify.com/album/7DLnD9cC6d0bMvtygu6VFy) | 2:13 | 2025-11-05 |  |
 | [Feathers](https://open.spotify.com/track/4T4P5i4RkTHRlGuBqbxSnA) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Feathers](https://open.spotify.com/album/7I0s6MBfw5VWHSReQ6NqWB) | 2:37 | 2021-12-07 | 2022-04-15 |
@@ -597,6 +601,7 @@
 | [Your Heart Will Mend](https://open.spotify.com/track/60bojdGBpwUfilmhILcPsK) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Your Heart Will Mend](https://open.spotify.com/album/35YyAwBX2Ft3ZJArG1Y2DG) | 2:26 | 2021-12-07 | 2023-03-22 |
 | [Your Love](https://open.spotify.com/track/000tG7ZCNMDFLzIxobVSUZ) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Your Love](https://open.spotify.com/album/645jck6JPjVMjb4NwNscBZ) | 2:40 | 2021-12-07 | 2022-05-28 |
 | [Yōsei](https://open.spotify.com/track/5wsqAeIRP9mmZBVRua7ShH) | [Malotte H](https://open.spotify.com/artist/7DRkB3iAI3rpubmBA7qrEt) | [Yōsei](https://open.spotify.com/album/0PK0SJ0irDoDsSvI2WF5zy) | 2:38 | 2021-12-07 | 2025-04-10 |
+| [Zugfahrt](https://open.spotify.com/track/3VkJq76o126WdMWK8FGsR1) | [Charles Konst](https://open.spotify.com/artist/5jpYra1nFsCEU6UHNwfWj6) | [Zugfahrt](https://open.spotify.com/album/6LpC6RFGe4ZCRmytG6LkUF) | 2:16 | 2026-01-23 |  |
 | [Érase Una Vez](https://open.spotify.com/track/53P6FuGYsY5veR6DDGIFIs) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Lumière du Matin](https://open.spotify.com/album/4QKzhpZ1YAhVtWoZwrofTY) | 2:51 | 2022-09-20 | 2023-10-03 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

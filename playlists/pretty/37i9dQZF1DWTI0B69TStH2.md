@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:0kuyTWxry4ZGnRiamkFuKD">Linda</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,821 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,822 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 60 | [Tęsknię](https://open.spotify.com/track/3ADsVQbJsIAyEyevp8qwmY) | [Deluzja](https://open.spotify.com/artist/3j8SyhfSEPT01bkDo66vVq) | [Tęsknię](https://open.spotify.com/album/1vzbQu58e7IU0ocrUFi69Q) | 2:46 |
 | 61 | [Nie pukaj, nie dzwoń](https://open.spotify.com/track/4eqbpy6pl7fDuX78yCiHyp) | [Szymon Norkowski](https://open.spotify.com/artist/3QNaRulfMHtPrj5QDAGGoS), [Filip Matyszczak](https://open.spotify.com/artist/2GOZRuExiZr7HyN42FCqIz) | [Nie pukaj, nie dzwoń](https://open.spotify.com/album/6xaoFpg0NienFc4A7rYQZb) | 2:42 |
 | 62 | [Stajla](https://open.spotify.com/track/6u95IX99Ja1hnkZof2LRvS) | [Kuba Kamik](https://open.spotify.com/artist/4D2PCg640w5R8SGfAlO2ZR) | [Stajla](https://open.spotify.com/album/6ziHSwaa72BUbYNutwb7yb) | 2:33 |
-| 63 | [Światłocienie](https://open.spotify.com/track/6jFu4AP7kffoDWWpfSpAqV) | [Linda Gut](https://open.spotify.com/artist/6QlxJR1hiJicCzdZHzhzHR), [Flawless](https://open.spotify.com/artist/46l56iJIbp8BjUiNb9tG4b), [Czarna Wiśnia](https://open.spotify.com/artist/4uakgGxyn6GHX6EeyHZjfE) | [Światłocienie](https://open.spotify.com/album/1t9JpkW9CErTtJLNHmFDcG) | 3:33 |
+| 63 | [Światłocienie](https://open.spotify.com/track/6jFu4AP7kffoDWWpfSpAqV) | [Linda Gut](https://open.spotify.com/artist/6QlxJR1hiJicCzdZHzhzHR), [Filip Flawless](https://open.spotify.com/artist/46l56iJIbp8BjUiNb9tG4b), [Czarna Wiśnia](https://open.spotify.com/artist/4uakgGxyn6GHX6EeyHZjfE) | [Światłocienie](https://open.spotify.com/album/1t9JpkW9CErTtJLNHmFDcG) | 3:33 |
 | 64 | [Pożar](https://open.spotify.com/track/7APaheLGSXt4h0fm9zs7S2) | [Ola Budzyńska](https://open.spotify.com/artist/1Qc8DxCV91HhFNnoQbS5m6), [Karol Miernik](https://open.spotify.com/artist/38gZ9wWdwWfsjE46GwI5v2) | [Pożar](https://open.spotify.com/album/2iY8GapPORTeFiGBkf6k0P) | 3:06 |
 | 65 | [bitch u](https://open.spotify.com/track/7yijgH3JSuf7V28BiSVMa9) | [s33ya](https://open.spotify.com/artist/7CBlu91aunYYu7y9AVKnbq), [hubithekid](https://open.spotify.com/artist/7LYblPlk3VgtAKXzUlEhAd) | [bitch u](https://open.spotify.com/album/6i3Az746hAHvvhV1I0FQoX) | 2:40 |
 | 66 | [Idę Dalej](https://open.spotify.com/track/5swHLBf2qgoxS0YZfdG419) | [Szulc](https://open.spotify.com/artist/3pSoohfJarpg2UKUGovXTA) | [Idę Dalej](https://open.spotify.com/album/2HsKKq3Rsf4f7Mjbxx3DAU) | 3:25 |

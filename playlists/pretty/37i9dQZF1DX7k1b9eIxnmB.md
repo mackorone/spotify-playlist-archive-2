@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k1b9eIxnmB.md) - [plain]
 
 > Here comes the Maestro with his best of 90s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,038 likes - 100 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,098 likes - 100 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k1b9eIxnmB.md) - [plain]
 | 12 | [O Baby](https://open.spotify.com/track/0AiI2aP2IJlCeuEMSOcy59) | [Vijay](https://open.spotify.com/artist/1eBHjBxiNA3gyEWEN7oRxM), [Bhavatharini](https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4), [Palani Bharathi](https://open.spotify.com/artist/6zG98UhwxKWvhuhHk47Nrb) | [Kadalukku Mariyadai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6xLO2UUJAOFyxtuBg025zz) | 4:55 |
 | 13 | [Azhagaana Manjappura](https://open.spotify.com/track/5pcdZmguBhFc74y7K69ED9) | [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Ellame En Rasathan](https://open.spotify.com/album/5t2sZXGhWES7W1WW08NVQ6) | 4:58 |
 | 14 | [Isaiyil Thodanguthamma](https://open.spotify.com/track/6XiS8yu1y46NMi41XYkNt4) | [Ajai Chakravarthi](https://open.spotify.com/artist/1etgORzoAgtq9tNDGRMXBi) | [Heyram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5qhBG5YYYn9qeI6mDjeGii) | 5:44 |
-| 15 | [Thalattum Poongkaatru](https://open.spotify.com/track/2xLMPdqjsIQ8SyABGg8oVJ) | [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Gopura Vasalile \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ETw51SBQpRsr9CKkg5ba3) | 5:14 |
+| 15 | [Ettanaa](https://open.spotify.com/track/79mKPex0ciNzaiWaO32FxD) | [Vadivelu](https://open.spotify.com/artist/4SlCFtxWUAnjCBqoq4zeS5) | [Ellame En Rasathan](https://open.spotify.com/album/5t2sZXGhWES7W1WW08NVQ6) | 4:50 |
 | 16 | [Ennai Thalatta Varuvala \(Duet\)](https://open.spotify.com/track/4MezfRc3Yw4m7PvFPF85o8) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Palani Bharathi](https://open.spotify.com/artist/6zG98UhwxKWvhuhHk47Nrb) | [Kadalukku Mariyadai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6xLO2UUJAOFyxtuBg025zz) | 5:04 |
-| 17 | [Ettanaa](https://open.spotify.com/track/79mKPex0ciNzaiWaO32FxD) | [Vadivelu](https://open.spotify.com/artist/4SlCFtxWUAnjCBqoq4zeS5) | [Ellame En Rasathan](https://open.spotify.com/album/5t2sZXGhWES7W1WW08NVQ6) | 4:50 |
+| 17 | [Thalattum Poongkaatru](https://open.spotify.com/track/2xLMPdqjsIQ8SyABGg8oVJ) | [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Gopura Vasalile \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ETw51SBQpRsr9CKkg5ba3) | 5:14 |
 | 18 | [Kadhal Kavithaigal](https://open.spotify.com/track/2VNsIpwEBYJ1feER0uo19d) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Gopura Vasalile \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ETw51SBQpRsr9CKkg5ba3) | 5:10 |
 | 19 | [Oru Pattam Poochi](https://open.spotify.com/track/2Y0r28Onm7SCgtvSlQChtF) | [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR), [Palani Bharathi](https://open.spotify.com/artist/6zG98UhwxKWvhuhHk47Nrb) | [Kadalukku Mariyadai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6xLO2UUJAOFyxtuBg025zz) | 5:13 |
 | 20 | [En Mana Vaanil](https://open.spotify.com/track/1AKvEngTr5h7XLNgjeXNTQ) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Kaasi](https://open.spotify.com/album/2XnITBsPXdedwMdxBZAJCL) | 5:38 |

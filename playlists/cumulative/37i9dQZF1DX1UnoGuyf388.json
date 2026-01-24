@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Pop music driving the current, every week.  Cover: Leigh-Anne",
+  "description": "Pop music driving the current, every week.  Cover: Seyi Vibez & Omah Lay",
   "name": "Pop Frequency",
   "tracks": [
     {
@@ -1216,6 +1216,24 @@
       "duration_ms": 161834,
       "name": "Blue Days",
       "url": "https://open.spotify.com/track/3qKI07m2ve50BhRux11Z82"
+    },
+    {
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/1s4mHTfjmO4CU8AACjkmsS"
+      },
+      "artists": [
+        {
+          "name": "Tolou",
+          "url": "https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175265,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/4SykKuN3ZpoJViT7Nyhz57"
     },
     {
       "album": {
@@ -3734,7 +3752,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 153848,
       "name": "Ginger",
       "url": "https://open.spotify.com/track/4j7m2rt1NTlZGpdgzm7kCu"
@@ -4340,7 +4358,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 139636,
       "name": "HIGH STAR",
       "url": "https://open.spotify.com/track/0lDF1W7GchI8tKq6GCfdUE"
@@ -5937,6 +5955,24 @@
     },
     {
       "album": {
+        "name": "Love Bombs",
+        "url": "https://open.spotify.com/album/3JGRQFGZS9j3GzhpHAzcZs"
+      },
+      "artists": [
+        {
+          "name": "Precious Pepala",
+          "url": "https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155540,
+      "name": "Love Bombs",
+      "url": "https://open.spotify.com/track/7N2dxYIULi9q0vepBwsDf5"
+    },
+    {
+      "album": {
         "name": "Stand Together",
         "url": "https://open.spotify.com/album/5kWZUjqYYyE0nBQTo39Ohy"
       },
@@ -5984,7 +6020,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
@@ -6620,6 +6656,28 @@
       "duration_ms": 142349,
       "name": "My Future",
       "url": "https://open.spotify.com/track/1r5ScrTm9vynVcUal1HDii"
+    },
+    {
+      "album": {
+        "name": "MY HEALER",
+        "url": "https://open.spotify.com/album/7jXn39VRrZifIpznbHBDEZ"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157023,
+      "name": "MY HEALER",
+      "url": "https://open.spotify.com/track/3tENXWy5Yf1iJJV4EYqZh1"
     },
     {
       "album": {
@@ -9161,6 +9219,24 @@
     },
     {
       "album": {
+        "name": "Sticky",
+        "url": "https://open.spotify.com/album/1s06Eu1ijWhoBiPXBzs4UV"
+      },
+      "artists": [
+        {
+          "name": "Michaela Ja\u00e9",
+          "url": "https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172097,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/4oC3J7AM15eob6vpK1wDVZ"
+    },
+    {
+      "album": {
         "name": "Still Bad",
         "url": "https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL"
       },
@@ -10446,7 +10522,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 163712,
       "name": "ur luv is see through!",
       "url": "https://open.spotify.com/track/0AAik5GZKfDVdXXNzKVTlG"

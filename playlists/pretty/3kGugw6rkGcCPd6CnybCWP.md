@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,170 likes - 45 songs - 2 hr 40 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,170 likes - 48 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 33 | [U Cut Ur Hair](https://open.spotify.com/track/7qDR32mmli6Ix41rsujmbZ) | [Ilona Stunz](https://open.spotify.com/artist/10IdIHd2qkAm4Q1IqfYotQ) | [These Days](https://open.spotify.com/album/1gNgWjjKfrL8tvl8MpwszK) | 2:38 |
 | 34 | [Watching me die](https://open.spotify.com/track/014TM0V1g6SxlK8WVrqaOG) | [Carmen Olivia](https://open.spotify.com/artist/1w04bxkCPIX84eeMhf73aN) | [Watching me die](https://open.spotify.com/album/1o8pP3cIBos5fVo6UumVWW) | 3:12 |
 | 35 | [Clementine](https://open.spotify.com/track/21335sVPNGZtNLVp3uV7zc) | [Karibu Sana](https://open.spotify.com/artist/3tnXu74lhPhxXiOhDrWdHH) | [Clementine](https://open.spotify.com/album/6zwDrIUF7DCqQr1sFtCgkI) | 4:13 |
-| 36 | [California](https://open.spotify.com/track/00NvDiyBeyErGKoPKAW8GH) | [GCProductions](https://open.spotify.com/artist/524uMXhv7f1HWx04B6CsXj) | [California](https://open.spotify.com/album/3TuKbkTwwZvdpZ5lYyZJTo) | 3:24 |
+| 36 | [California \- Radio Edit](https://open.spotify.com/track/00NvDiyBeyErGKoPKAW8GH) | [GCProductions](https://open.spotify.com/artist/524uMXhv7f1HWx04B6CsXj) | [California \(Radio Edit\)](https://open.spotify.com/album/3TuKbkTwwZvdpZ5lYyZJTo) | 3:24 |
 | 37 | [Me desviví](https://open.spotify.com/track/7Moz8l65RSvMyvWzwL0AcI) | [Sean Kyrk](https://open.spotify.com/artist/57fMXyE7NSg5tVHlE8Bgk2) | [Me desviví](https://open.spotify.com/album/3g6ovyU775phwb4L284jBi) | 3:12 |
 | 38 | [Dream About You](https://open.spotify.com/track/7A7mxUsWWx3jyyakwNRb1V) | [UMIDA](https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b) | [Dream About You](https://open.spotify.com/album/4BTyulvNqYxI7zhpNV2F1T) | 2:56 |
 | 39 | [These Days](https://open.spotify.com/track/2px3o5x9yKjcOH0jggvuTh) | [Talking Horses](https://open.spotify.com/artist/1IY7UHFAiPbjwHxM2lzB06) | [These Days](https://open.spotify.com/album/0YGva80Km2kPxFko2KglWD) | 4:25 |
@@ -53,5 +53,8 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 43 | [Wishing Me Dead](https://open.spotify.com/track/68cOf9WYuULrqncSwLynKv) | [otobahn](https://open.spotify.com/artist/3uIcjCMqPqYfn2ColxJhpb) | [Wishing Me Dead](https://open.spotify.com/album/6CihvrHXu9YoY9XH9z1o53) | 5:06 |
 | 44 | [Stuck 4 Ever](https://open.spotify.com/track/6IbUHoJ5Kxp86xWB6yuIjx) | [Sophie Valerie](https://open.spotify.com/artist/7APioRa2ZqrBCG0O9Z6N8b) | [Stuck 4 Ever](https://open.spotify.com/album/0Ab4SlL146rVeC0Dn0QGbl) | 2:19 |
 | 45 | [Juvenile](https://open.spotify.com/track/4KnXS53TqnWKPAHgkDE7kC) | [Elandra](https://open.spotify.com/artist/7v6meC75PAbtwyenxZnZaK) | [Juvenile](https://open.spotify.com/album/6mjFTZyrqWIhnRoDsTSbgj) | 2:58 |
+| 46 | [The Battlefield](https://open.spotify.com/track/6ZsI0iTfApqX1fFczChBrk) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Archive](https://open.spotify.com/album/1fG3rsdIsT9i2ysubVZQAH) | 4:42 |
+| 47 | [Lot 6](https://open.spotify.com/track/1nFBLa9z3aNQReOtonsTFY) | [Mavis](https://open.spotify.com/artist/2qpx3DGtYPLO2upKev1nxG) | [Lot 6](https://open.spotify.com/album/2xlOHmTUeDsLd1p6oED4jO) | 6:40 |
+| 48 | [Hardly Know Her](https://open.spotify.com/track/2UaCdxvJaX7lmezW3YiGIf) | [Lipstick](https://open.spotify.com/artist/7uFXs2KLMId1XYKLSbQlzv) | [Hardly Know Her](https://open.spotify.com/album/5kpOB3QejOEIWHmcJ8nZlE) | 3:09 |
 
-Snapshot ID: `AAAM9cpkOD4LaYY3iIgt3cjylxIQKFDP`
+Snapshot ID: `AAAM+OH07TOdT+prKp8YXu3VtAh0FOZr`

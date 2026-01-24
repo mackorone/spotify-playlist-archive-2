@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,080 songs - 2 day 5 hr 48 min
+1,081 songs - 2 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-12 | 2025-04-25 |
 | [Anything](https://open.spotify.com/track/5AjLZX8aPonV4fOdCnoTvl) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Anything](https://open.spotify.com/album/4JVLLc7dHD1pLrryXlcKkm) | 3:08 | 2024-07-02 | 2024-08-02 |
 | [APEROL SPRITZ](https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [APEROL SPRITZ](https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv) | 2:10 | 2024-10-10 | 2024-10-25 |
+| [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 | 2026-01-23 |  |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-23 | 2025-03-06 |
 | [Arcade \(Spotify Singles\)](https://open.spotify.com/track/0kY9Xp9GHh6uuCXpKncOxi) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Arcade \(Spotify Singles\)](https://open.spotify.com/album/3XccOYlrax3mtRQXKwdYTy) | 2:39 | 2025-05-08 | 2025-05-23 |
 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 | 2025-01-09 | 2025-01-24 |
@@ -860,7 +861,7 @@
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-07-02 | 2024-08-23 |
 | [Stars Will Align](https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Stars Will Align](https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj) | 3:54 | 2024-09-26 | 2024-11-15 |
 | [Sticky Fingers](https://open.spotify.com/track/6Nxj55nWZpi2uOXRVMfMY3) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Sticky Fingers](https://open.spotify.com/album/1ePJSgvvAndnUWpkHKg7p9) | 2:13 | 2025-08-28 | 2025-09-19 |
-| [Still Don't Care](https://open.spotify.com/track/17tuuYUw3K1J9pDe4QrWNo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Still Don't Care](https://open.spotify.com/album/11XiRiJX157BvMuuc9ixuw) | 2:49 | 2025-11-13 |  |
+| [Still Don't Care](https://open.spotify.com/track/17tuuYUw3K1J9pDe4QrWNo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Still Don't Care](https://open.spotify.com/album/11XiRiJX157BvMuuc9ixuw) | 2:45 | 2025-11-13 |  |
 | [Sua Ei Oo \- WILLEM Remix](https://open.spotify.com/track/6POXTrTpf5usT9rrbU3L0r) | [WILLEM](https://open.spotify.com/artist/2u66MppjHvqRsfLMYfn0Sv), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Sua Ei Oo \(WILLEM Remix\)](https://open.spotify.com/album/1qo9NF4hD21s1tfdnudYmI) | 2:52 | 2025-10-20 |  |
 | [Sun katu \(Vain elämää kausi 16\)](https://open.spotify.com/track/0bDl2EdfvCosADB8Vya5Gc) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Sun katu \(Vain elämää kausi 16\)](https://open.spotify.com/album/083cIrf5AiGD5ZneqWjj12) | 3:12 | 2025-10-23 | 2025-10-31 |
 | [Sun luokse](https://open.spotify.com/track/4OUdNzrfhl2AVu0qTNUIkz) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [AHTI](https://open.spotify.com/album/3mGX81bLEfQDOMh8G296RO) | 2:54 | 2024-09-26 | 2025-01-31 |
@@ -897,7 +898,7 @@
 | [Säätänää](https://open.spotify.com/track/0oaKMTjVA3KQR5xBn4NeTe) | [Lukas Leon](https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n) | [Säätänää](https://open.spotify.com/album/1E5ySghfEKXG4kkgzqvL5J) | 2:30 | 2025-07-03 | 2025-08-22 |
 | [T\-paita \(feat\. Bizi\)](https://open.spotify.com/track/3P1pM5vlWSugzuBlVKRZjG) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [APATHIA](https://open.spotify.com/album/1wVq5KOK1sZQ27szlcnGJE) | 2:34 | 2025-01-23 | 2025-02-14 |
 | [Taaksepäin](https://open.spotify.com/track/2ogjktR7okwyXT8muIGFfa) | [Victor Nordis](https://open.spotify.com/artist/1DAgitxRlJMroOghdSraJp) | [Taaksepäin](https://open.spotify.com/album/3S0uY1lN3m1mwY0uDOGm2D) | 3:02 | 2024-12-12 | 2025-01-03 |
-| [Tahdon](https://open.spotify.com/track/1cHMpCFsz4Imvq72B6IWae) | [louna0nline](https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy) | [WEB](https://open.spotify.com/album/7r76AzmWQPap2MZgE9zQ3Y) | 3:18 | 2025-10-23 |  |
+| [Tahdon](https://open.spotify.com/track/1cHMpCFsz4Imvq72B6IWae) | [louna0nline](https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy) | [WEB](https://open.spotify.com/album/7r76AzmWQPap2MZgE9zQ3Y) | 3:18 | 2025-10-23 | 2026-01-24 |
 | [Tahdon rakastella sinua \(Vain elämää kausi 16\)](https://open.spotify.com/track/2P4WCxlGWpJiHacsAUBxZj) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Tahdon rakastella sinua \(Vain elämää kausi 16\)](https://open.spotify.com/album/2Vd1PcIQvuM04BCeKPKdZs) | 2:33 | 2025-09-25 | 2025-10-03 |
 | [Taikuri](https://open.spotify.com/track/7fdNCtxfZArtOZK3hLqqm3) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [ROADMAN](https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m) | 2:56 | 2024-09-19 | 2025-01-24 |
 | [Taivaisiin \- Vain elämää kausi 15](https://open.spotify.com/track/7MSCTPlw8HlljZFheARdFF) | [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM), [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Taivaisiin \(Vain elämää kausi 15\)](https://open.spotify.com/album/5LG3lMMeNl7F9jnvVqJDG3) | 3:29 | 2024-10-14 | 2024-11-08 |

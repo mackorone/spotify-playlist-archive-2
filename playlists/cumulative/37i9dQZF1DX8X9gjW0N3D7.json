@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise d\u2019aujourd\u2019hui, pour tous les go\u00fbts.  Photo: H\u00e9ron",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: \u00c9douard Tremblay-Grenier",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "All The Words",
+        "url": "https://open.spotify.com/album/6BMtU352VlSl3v9oX5ncVh"
+      },
+      "artists": [
+        {
+          "name": "2120",
+          "url": "https://open.spotify.com/artist/0VsoloLwSIiLZ3AeoYjWSR"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219924,
+      "name": "All The Words",
+      "url": "https://open.spotify.com/track/1f70KgujX0VZN0wBy6Atys"
+    },
+    {
+      "album": {
         "name": "Ami imaginaire",
         "url": "https://open.spotify.com/album/3TcehQS7pt30xsNWbLFKKZ"
       },
@@ -228,7 +246,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 132666,
       "name": "Au fond des bois (feat. Rymz)",
       "url": "https://open.spotify.com/track/5nfqk77PaPWQDN4ZDBLpPJ"
@@ -932,7 +950,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 278644,
       "name": "Close",
       "url": "https://open.spotify.com/track/45rhLThw1B8pVCRHPp8XKk"
@@ -1362,10 +1380,28 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 223946,
       "name": "Debouya - Acoustique",
       "url": "https://open.spotify.com/track/5lpqhJfimojbxGrQkLeshK"
+    },
+    {
+      "album": {
+        "name": "Demain",
+        "url": "https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1"
+      },
+      "artists": [
+        {
+          "name": "Zach Boileau",
+          "url": "https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229047,
+      "name": "Demain",
+      "url": "https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi"
     },
     {
       "album": {
@@ -1835,6 +1871,24 @@
     },
     {
       "album": {
+        "name": "fin pm",
+        "url": "https://open.spotify.com/album/5aQA5dQiOjahrXv7M9W3xv"
+      },
+      "artists": [
+        {
+          "name": "Maddie Bay",
+          "url": "https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191226,
+      "name": "fin pm",
+      "url": "https://open.spotify.com/track/5RfuZ5YOvLicj7LbKs0NPl"
+    },
+    {
+      "album": {
         "name": "Fi\u00e8vre des Andes",
         "url": "https://open.spotify.com/album/5r2mVYcK0AMDLFK5bCCwMA"
       },
@@ -2030,7 +2084,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 241653,
       "name": "Good Call",
       "url": "https://open.spotify.com/track/0JOLwH0Gk7ZydWzAVo2gjU"
@@ -2066,7 +2120,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 206599,
       "name": "hardcore",
       "url": "https://open.spotify.com/track/6nkhjw3bUnQw2gtZARkWJW"
@@ -2947,6 +3001,24 @@
     },
     {
       "album": {
+        "name": "La mani\u00e8re",
+        "url": "https://open.spotify.com/album/7yMNmVtLzbtx70fq5Cpyq0"
+      },
+      "artists": [
+        {
+          "name": "Laurence Castera",
+          "url": "https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249516,
+      "name": "La mani\u00e8re",
+      "url": "https://open.spotify.com/track/0FUy5rYDhD8QCPCl48tdC2"
+    },
+    {
+      "album": {
         "name": "Si l'essentiel c'est d'\u00eatre aim\u00e9 / La mauvaise question",
         "url": "https://open.spotify.com/album/7vaSzxNrZe41hcNtz472qu"
       },
@@ -2976,7 +3048,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 217052,
       "name": "La nuit devant nous",
       "url": "https://open.spotify.com/track/4c5DPhLf5u1eoVRGmh4sf6"
@@ -3976,7 +4048,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 183906,
       "name": "Mauvais souvenir",
       "url": "https://open.spotify.com/track/4XoYlARSLB5HrypYM6SO6n"
@@ -4127,6 +4199,24 @@
     },
     {
       "album": {
+        "name": "monsieur Quan",
+        "url": "https://open.spotify.com/album/0qiMtfdSUDzTDOkwgn6ZSM"
+      },
+      "artists": [
+        {
+          "name": "Alphonse Bisaillon",
+          "url": "https://open.spotify.com/artist/2D6FbkaHZ4AYvKzp2E2Plt"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317520,
+      "name": "monsieur Quan",
+      "url": "https://open.spotify.com/track/5JvgShGpd6azGj7JO9XpxY"
+    },
+    {
+      "album": {
         "name": "Moucherons",
         "url": "https://open.spotify.com/album/0k5sogOb9BX47fxCTsMhpF"
       },
@@ -4269,6 +4359,24 @@
     },
     {
       "album": {
+        "name": "Fran\u00e7ois Roberge",
+        "url": "https://open.spotify.com/album/6sVp4J3N1Ws0Mouj5ksdAp"
+      },
+      "artists": [
+        {
+          "name": "\u00c9douard Tremblay-Grenier",
+          "url": "https://open.spotify.com/artist/6renDkf9cZYkI2TX5SKD4X"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177104,
+      "name": "Ne me fais pas mal",
+      "url": "https://open.spotify.com/track/5vMfDo2q3Pl8e4qgczvrzm"
+    },
+    {
+      "album": {
         "name": "Ne partez pas sans moi",
         "url": "https://open.spotify.com/album/17go52ItR838U5I3fywNDA"
       },
@@ -4320,7 +4428,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 209491,
       "name": "Nos cicatrices",
       "url": "https://open.spotify.com/track/1b0EYPLnXtyYpPB1qkJliG"
@@ -4565,6 +4673,24 @@
     },
     {
       "album": {
+        "name": "Pas besoin d'se mentir",
+        "url": "https://open.spotify.com/album/4PkJ1X7j1QwzCmqar50kuW"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216007,
+      "name": "Pas besoin d'se mentir",
+      "url": "https://open.spotify.com/track/3gNYFWLJ1xIXW4ay1dbyNC"
+    },
+    {
+      "album": {
         "name": "Passer tout droit",
         "url": "https://open.spotify.com/album/0M9kDz1uJrsPCeRNQjSXfy"
       },
@@ -4580,6 +4706,24 @@
       "duration_ms": 184415,
       "name": "Passer tout droit",
       "url": "https://open.spotify.com/track/1CWRRkzuWLfBOFC3rLq8oM"
+    },
+    {
+      "album": {
+        "name": "Pattern",
+        "url": "https://open.spotify.com/album/6M5rWtwuKQpwia92JNWBur"
+      },
+      "artists": [
+        {
+          "name": "Arielle Soucy",
+          "url": "https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323834,
+      "name": "Pattern",
+      "url": "https://open.spotify.com/track/3sRCcwcIRRCaMwoRem3HrY"
     },
     {
       "album": {
@@ -5075,6 +5219,24 @@
     },
     {
       "album": {
+        "name": "Treize chansons d\u00e9mod\u00e9es pour ceux qui ont le c\u0153ur ab\u00eem\u00e9",
+        "url": "https://open.spotify.com/album/20xnLUc9BHbjhXi2uVbxrx"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166266,
+      "name": "S'il te pla\u00eet, fais-moi danser",
+      "url": "https://open.spotify.com/track/0y1UQYcAeo7YS1haA7pTCy"
+    },
+    {
+      "album": {
         "name": "Sarah",
         "url": "https://open.spotify.com/album/6Pctlav5tWkidNJ9nOvYiU"
       },
@@ -5108,6 +5270,24 @@
       "duration_ms": 279466,
       "name": "Sauver les meubles",
       "url": "https://open.spotify.com/track/2T4JNScUoYDhRSDe1auC5L"
+    },
+    {
+      "album": {
+        "name": "Record n\u00b0V",
+        "url": "https://open.spotify.com/album/10J5WwzpLF6FRz7MABkLps"
+      },
+      "artists": [
+        {
+          "name": "Bleu Jeans Bleu",
+          "url": "https://open.spotify.com/artist/7sk1rfSVKopRQf1fxSJLTq"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176453,
+      "name": "Scotch & poches",
+      "url": "https://open.spotify.com/track/6MvBA4qUPzHQd6PMt9tA5i"
     },
     {
       "album": {
@@ -5382,7 +5562,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 157103,
       "name": "Sycomore",
       "url": "https://open.spotify.com/track/6fu86kCRpRGMPSgaDrWh8J"
@@ -6170,7 +6350,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 169701,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/7yJIhLgl4ysNYV4W5bR00e"

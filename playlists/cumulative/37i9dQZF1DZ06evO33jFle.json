@@ -1179,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Se las Voy a Dar a Otro",
+        "url": "https://open.spotify.com/album/2XGyVths5rK6LJEYO69Dum"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151044,
+      "name": "Se March\u00f3",
+      "url": "https://open.spotify.com/track/3O34eNRUsJkBXUEViYUgHy"
+    },
+    {
+      "album": {
         "name": "Paloma Negra Desde Monterrey (En Vivo)",
         "url": "https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN"
       },
@@ -1302,7 +1320,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 255000,
       "name": "Yo Soy Una Mujer (Banda)",
       "url": "https://open.spotify.com/track/0Nj3zqlLn1WCbJk7Ka5DMJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[𝓁𝒾𝒶¹²](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,155 songs - 2 day 17 hr 36 min
+[𝓁𝒾𝒶¹²](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,156 songs - 2 day 17 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1163,5 +1163,6 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1153 | [Someone Gets Hurt \(Reprise\)](https://open.spotify.com/track/1piXWeTvZCGO8GAvJHYUPc) | [Barrett Wilbert Weed](https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz), [Grey Henson](https://open.spotify.com/artist/3iMYbOWvKWy8lsjhf7Dkcf) | [Mean Girls \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf) | 0:49 |
 | 1154 | [I'd Rather Be Me](https://open.spotify.com/track/5cesclKWAhsCcZJDBhkWaa) | [Barrett Wilbert Weed](https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz), [Original Broadway Cast of Mean Girls](https://open.spotify.com/artist/6B1foTh2pK3K4MKQzYaKRu) | [Mean Girls \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf) | 2:50 |
 | 1155 | [Do This Thing](https://open.spotify.com/track/42kiFUenq5MVKpmCwjh1Cu) | [Erika Henningsen](https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG), [Kerry Butler](https://open.spotify.com/artist/0EcmCI0dVPDdkPciENZ6x7), [Cheech Manohar](https://open.spotify.com/artist/63B0hWuxUFKwNwR8yIXq44), [Mathletes](https://open.spotify.com/artist/2KQkMalf7OhRjrGy9rfwKk), [Original Broadway Cast of Mean Girls](https://open.spotify.com/artist/6B1foTh2pK3K4MKQzYaKRu) | [Mean Girls \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf) | 3:33 |
+| 1156 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 |
 
-Snapshot ID: `AAAHzxd6+1E61jgeM8mahMH7wqJ2aGja`
+Snapshot ID: `AAAH0GrXHx6vMSwwHZQdMlr18GtqXu9t`

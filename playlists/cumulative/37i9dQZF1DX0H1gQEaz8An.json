@@ -570,7 +570,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 265045,
       "name": "BIPOLAR",
       "url": "https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z"
@@ -3530,6 +3530,24 @@
       "duration_ms": 178120,
       "name": "SONR\u00cdE <3",
       "url": "https://open.spotify.com/track/73dvoIH9lGoNqA5JLJw7Jt"
+    },
+    {
+      "album": {
+        "name": "Soy Fan",
+        "url": "https://open.spotify.com/album/5IOMxDPKMtuqX72hEwhz3Z"
+      },
+      "artists": [
+        {
+          "name": "RIA",
+          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176714,
+      "name": "Soy Fan",
+      "url": "https://open.spotify.com/track/214dHBkQIghUJArTL083fZ"
     },
     {
       "album": {

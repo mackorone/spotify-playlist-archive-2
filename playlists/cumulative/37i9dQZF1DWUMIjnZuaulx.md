@@ -2,9 +2,9 @@
 
 ### [Spread the Gospel](https://open.spotify.com/playlist/37i9dQZF1DWUMIjnZuaulx)
 
-> Spread the Good News with the best Gospel songs of the moment\. Cover: Ricky Dillard & Ron Carter
+> Spread the Good News with the best Gospel songs of the moment\. Cover: CeCe Winans
 
-748 songs - 2 day 15 hr 35 min
+749 songs - 2 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [El Shaddai](https://open.spotify.com/track/1HhdoW0N0SwJeq6m7SvME8) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [Rodney Posey](https://open.spotify.com/artist/7fEq8LFbuLfmDMVfQDoZQr) | [El Shaddai](https://open.spotify.com/album/264N2Ft0NXF0kX0YHWE2XC) | 6:04 | 2025-04-04 | 2025-05-03 |
 | [Emmanuel, You Are Worthy \- Live](https://open.spotify.com/track/6lwmO3vmw1ok9jRS44WvVB) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Emmanuel, You Are Worthy](https://open.spotify.com/album/3LvgLk0irfEjTC0q8TO0t2) | 5:15 | 2023-11-17 | 2025-03-15 |
 | [Empowered 2 Impact](https://open.spotify.com/track/1IllKEACnf7TuHfjJiGnit) | [Strong Tower Church](https://open.spotify.com/artist/3qDZxE0fAVLrcb6NDWYd85), [Freddy Rodriguez](https://open.spotify.com/artist/2UpMh5qbBdfwKpQALaGPsD) | [“Waves” Fresh Wind New Waves](https://open.spotify.com/album/6K4hYZknIx3l7mxBXbAi4p) | 3:52 | 2022-02-18 | 2022-10-30 |
+| [ENOUGH FOR ME](https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [ENOUGH FOR ME](https://open.spotify.com/album/5P2RR6rOO8lTNvVxMObKmj) | 9:40 | 2026-01-23 |  |
 | [Esé](https://open.spotify.com/track/27kSeZe95U7n14Jfv0jnb7) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Esé](https://open.spotify.com/album/6t44fZYo3wngPz0MX7vOqH) | 3:14 | 2025-11-07 |  |
 | [Even If](https://open.spotify.com/track/1CdGYditK1Cg4QJrOQ1Zch) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV) | [Even If](https://open.spotify.com/album/7eOcKC8P9RRenLLRUWREJA) | 5:48 | 2023-09-22 | 2024-01-27 |
 | [Even If Extended Version](https://open.spotify.com/track/54Jo9jId9m4vcLhdW988ob) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Even If Extended Version](https://open.spotify.com/album/6jyiAFxEifoKfwjBmcjVFU) | 9:27 | 2025-01-24 | 2025-05-17 |
@@ -602,7 +603,7 @@
 | [Superheroes Prayer \- Radio Single](https://open.spotify.com/track/2ViRZlKBX6nLLC6Wb41668) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Superheroes Prayer](https://open.spotify.com/album/6KUfbWnZif821UNTGx3ZXM) | 5:03 | 2022-07-01 | 2022-07-23 |
 | [Sure As](https://open.spotify.com/track/6xPrEUR122PanXatL2f3EH) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [Still \(Deluxe\)](https://open.spotify.com/album/5qhNzwE7BBAnlkXdxgVqhl) | 4:46 | 2022-07-08 | 2022-10-01 |
 | [Sustain \- Live](https://open.spotify.com/track/0hZsa8BIVtLAzlMVZ2Hv6f) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Sustain \- Live](https://open.spotify.com/album/5TwOCjWrjcu0q3PF5w1exA) | 12:06 | 2024-08-30 | 2024-09-21 |
-| [Sweet, Sweet Spirit](https://open.spotify.com/track/3InktyoLLJqyCWQdmqHylp) | [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [Sweet, Sweet Spirit](https://open.spotify.com/album/7wroq6zvI9ZCAa7B0ReAoI) | 5:39 | 2025-12-05 |  |
+| [Sweet, Sweet Spirit](https://open.spotify.com/track/3InktyoLLJqyCWQdmqHylp) | [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [Sweet, Sweet Spirit](https://open.spotify.com/album/7wroq6zvI9ZCAa7B0ReAoI) | 5:39 | 2025-12-05 | 2026-01-24 |
 | [Take Heart](https://open.spotify.com/track/3YANTnjzNjI2OHeVEDgiAf) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [Take Heart](https://open.spotify.com/album/067GsZIoIEInbT7pI4j51P) | 3:37 | 2023-03-17 | 2023-09-23 |
 | [Take it All \- Live](https://open.spotify.com/track/70k721hYulEd5Og7o8dAcE) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Take It All \(Live in Abuja\)](https://open.spotify.com/album/70mWW2AS00l9ML2YeXoVio) | 10:21 | 2024-07-27 | 2025-04-12 |
 | [Take Rest](https://open.spotify.com/track/4i4PT6ghkuzkh7Fbm2dGkX) | [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D) | [Testify](https://open.spotify.com/album/3vIRcSnPehNopiCtzmobiL) | 4:01 | 2023-07-21 | 2025-03-29 |

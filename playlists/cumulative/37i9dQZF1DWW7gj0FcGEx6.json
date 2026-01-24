@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The latest, greatest cinema soundtracks from the big and small screen.",
+  "description": "The latest, greatest cinematic soundtracks from the big and small screen.",
   "name": "New Movie Music",
   "tracks": [
     {
@@ -1540,6 +1540,24 @@
       "duration_ms": 68000,
       "name": "Bodies Main Title",
       "url": "https://open.spotify.com/track/3tERZdN36IebQcY1Nutz6N"
+    },
+    {
+      "album": {
+        "name": "Bora e Uccelli (From 'Origin' Soundtrack)",
+        "url": "https://open.spotify.com/album/2ODGQxRqs9XvyoxW5jjrug"
+      },
+      "artists": [
+        {
+          "name": "Thomas Enhco",
+          "url": "https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100120,
+      "name": "Bora e Uccelli - From 'Origin' Soundtrack",
+      "url": "https://open.spotify.com/track/6GVu4uV3jo4ZRPHelKw5fL"
     },
     {
       "album": {
@@ -5929,6 +5947,24 @@
     },
     {
       "album": {
+        "name": "Rivalry / It's You (from \"Heated Rivalry\" Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240491,
+      "name": "It's You - from \"Heated Rivalry\"",
+      "url": "https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD"
+    },
+    {
+      "album": {
         "name": "We Were Liars (Prime Video Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/3Gt1tacotfCTvbPDUIDcp2"
       },
@@ -6034,6 +6070,28 @@
       "duration_ms": 132306,
       "name": "Jay Kelly Theme - Quintet (from the Original Motion Picture) - Single Version",
       "url": "https://open.spotify.com/track/7xmumdDIlGmtuELEuUdVoD"
+    },
+    {
+      "album": {
+        "name": "Les L\u00e9gendaires (Bande originale du film)",
+        "url": "https://open.spotify.com/album/2d0dlVzCGLxtJJF7D5fjJz"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile Corbel",
+          "url": "https://open.spotify.com/artist/4mVQMbJAHOazLrBmgpgB8M"
+        },
+        {
+          "name": "Simon Caby",
+          "url": "https://open.spotify.com/artist/1b8aRfI5dbgn1uIT3g0vQI"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82421,
+      "name": "Je suis un lac - Bande originale du film \"Les L\u00e9gendaires",
+      "url": "https://open.spotify.com/track/0FanyhyDgGPRnuMsn7gDOx"
     },
     {
       "album": {
@@ -7374,6 +7432,24 @@
       "duration_ms": 92775,
       "name": "Main Title Theme (from \"The Regime\")",
       "url": "https://open.spotify.com/track/2XqV2kzEGpFuBN9hNakrmz"
+    },
+    {
+      "album": {
+        "name": "Timeline (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7F07WHD7jRmiZiK8e5Nc67"
+      },
+      "artists": [
+        {
+          "name": "Brian Tyler",
+          "url": "https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123373,
+      "name": "Main Titles",
+      "url": "https://open.spotify.com/track/3qMZdB40hZR3hbtGqrlMQ7"
     },
     {
       "album": {
@@ -9801,6 +9877,24 @@
     },
     {
       "album": {
+        "name": "PONIES (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/18yg0rvQVv9yLWcQxAltBs"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52920,
+      "name": "PONIES",
+      "url": "https://open.spotify.com/track/1rOj7cy8xVbUfpMaqzxHCl"
+    },
+    {
+      "album": {
         "name": "G20 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1iYa4Lz0jmKA56n521AGTs"
       },
@@ -11148,6 +11242,24 @@
       "duration_ms": 129933,
       "name": "So Much Like Your Sister",
       "url": "https://open.spotify.com/track/0WqYHIKKTipnBqyGHWONyz"
+    },
+    {
+      "album": {
+        "name": "Grand ciel (Bande originale du film)",
+        "url": "https://open.spotify.com/album/1VeqI7r01k5BpCJxuMveXz"
+      },
+      "artists": [
+        {
+          "name": "Carla Pallone",
+          "url": "https://open.spotify.com/artist/4WzuMp3YGOM5rOu07EH0Bm"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121691,
+      "name": "Solitude II",
+      "url": "https://open.spotify.com/track/0po4PGuXm8jTfYCRmf9kLP"
     },
     {
       "album": {

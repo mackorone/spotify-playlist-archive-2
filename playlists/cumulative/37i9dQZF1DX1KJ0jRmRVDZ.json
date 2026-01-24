@@ -915,6 +915,24 @@
     },
     {
       "album": {
+        "name": "BABY",
+        "url": "https://open.spotify.com/album/2dp6XnYilNlELoSnGzSIdG"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230751,
+      "name": "BABY",
+      "url": "https://open.spotify.com/track/7j0fGg4xd1Lo1zPcUDV1T6"
+    },
+    {
+      "album": {
         "name": "UTA'S SONGS ONE PIECE FILM RED",
         "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
       },
@@ -22034,7 +22052,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 198882,
       "name": "\u5287\u4e0a",
       "url": "https://open.spotify.com/track/3BFx3IfjwIaUr0W5Bl1LED"

@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Samantha Fish
 
-386 songs - 1 day 1 hr 1 min
+387 songs - 1 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Down the Drain](https://open.spotify.com/track/17VWykhZ1NSS57S2BbzBQ9) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Down the Drain](https://open.spotify.com/album/5k7nwqMONpVKz3wir3fHw6) | 3:28 | 2022-10-28 | 2022-11-28 |
 | [Dragging Me Down](https://open.spotify.com/track/1tC3Lk0Bh7wFPctiowuxJb) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Dragging Me Down](https://open.spotify.com/album/6rzhy4RQStHp5feC3jugma) | 4:35 | 2024-03-08 | 2024-10-26 |
 | [Eagle Birds](https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:40 | 2020-10-16 | 2023-08-19 |
-| [Easy Come, Easy Go](https://open.spotify.com/track/34EEk7jTq2e0ZJCR7ZFFfV) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Jared James Nichols](https://open.spotify.com/album/5YCXm7ojCh4KEclmUVhYCL) | 4:17 | 2023-01-13 |  |
+| [Easy Come, Easy Go](https://open.spotify.com/track/34EEk7jTq2e0ZJCR7ZFFfV) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Jared James Nichols](https://open.spotify.com/album/5YCXm7ojCh4KEclmUVhYCL) | 4:17 | 2023-01-13 | 2026-01-24 |
 | [Easy Love Part 1](https://open.spotify.com/track/7594aZRfOmr2R2SlZrhsPn) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/5xkRbkZomPLJTiR32Xksqk) | 4:07 | 2025-01-24 |  |
 | [Easy To Leave](https://open.spotify.com/track/05axZYhIeoRSCY1raNZYYi) | [Lance Lopez](https://open.spotify.com/artist/76NkugbfY4BcWwrdxsahhm) | [Trouble Is Good](https://open.spotify.com/album/47tKN7zgsxZi57p46kbDOY) | 4:32 | 2023-07-14 |  |
 | [Evel Knievel](https://open.spotify.com/track/19PsfIoaON1PgsssutUhyY) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Brothers](https://open.spotify.com/album/3IE0oOebvBDuyXAbKCkYKp) | 3:43 | 2025-09-26 |  |
@@ -270,6 +270,7 @@
 | [Pick Your Poison](https://open.spotify.com/track/2oXl8o2g4iPAEZL1YbmYVH) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Pick Your Poison](https://open.spotify.com/album/7DVKYtrPILCQxbUgP7EJ0a) | 3:45 | 2020-10-16 |  |
 | [Poison the Water](https://open.spotify.com/track/4FZTgKUSqTsZ2oSNpHl0O4) | [David Starr](https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1) | [Poison the Water](https://open.spotify.com/album/0Hl9xfHPd8mm0JTBBf7T9H) | 3:51 | 2022-09-16 | 2022-10-15 |
 | [Praise the Loud](https://open.spotify.com/track/3lrqVA7TJpBWHruDdOQ9B0) | [Anthony Gomes](https://open.spotify.com/artist/0aBEiafPqEJ3o0yp6gFsHg) | [Praise the Loud](https://open.spotify.com/album/1lJmntiizHQcAyQi3y4bfW) | 3:32 | 2025-03-14 |  |
+| [Pretend](https://open.spotify.com/track/0MMBjSzV3ZqCWLEuJdVqvK) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Pretend](https://open.spotify.com/album/1hFRv2fI8eSWpBQbpOMrMm) | 2:45 | 2026-01-23 |  |
 | [Prosecution Blues](https://open.spotify.com/track/6DdX7BH2VJzfcjIAlyyPzk) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Prosecution Blues](https://open.spotify.com/album/3GvnjHR6Vm28smZDaxS0Ww) | 3:53 | 2021-07-16 | 2022-07-29 |
 | [Put Your Money On Me](https://open.spotify.com/track/3nFZSnjeCfNLVFPK1nnXZF) | [The Answer](https://open.spotify.com/artist/3STTKsLP1gSzGvOVCtNlWS) | [Put Your Money On Me](https://open.spotify.com/album/7MyvRRf3JcTp4R4J3iXC0B) | 3:07 | 2024-03-22 |  |
 | [Ready for More](https://open.spotify.com/track/3qCcj7VVDZtiCo8LASZQyG) | [Graffiti Ghosts](https://open.spotify.com/artist/5pXlwkidD4qQEiaE8MaDOu) | [III](https://open.spotify.com/album/7wOCyDQqR7yUb4JvEgBnrd) | 2:24 | 2023-06-16 |  |

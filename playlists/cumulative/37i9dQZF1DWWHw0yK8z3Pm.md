@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Boy Golden
 
-655 songs - 1 day 15 hr 37 min
+656 songs - 1 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [American Dreaming \- Single Edit](https://open.spotify.com/track/3XSAuizXkxeam6N8eJwGVh) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [American Dreaming](https://open.spotify.com/album/6uAs0LUlrnnJZ21YKqqKaT) | 3:57 | 2024-03-29 | 2025-11-07 |
 | [American Me](https://open.spotify.com/track/3fpiUjp4x55znD0i8Nfxv8) | [Joey Stylez](https://open.spotify.com/artist/5SEUHl3YJL3a5aQGuMDETE) | [American Me](https://open.spotify.com/album/575myLnpElthZpP8fsRTCF) | 3:14 | 2022-05-13 | 2023-04-22 |
 | [Another Day Down](https://open.spotify.com/track/3Iuo5WhKzkaTTkOzVhg1Ei) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Another Day Down](https://open.spotify.com/album/253qdf33LlE8VpEnmg0KO8) | 3:37 | 2022-05-13 | 2022-10-01 |
+| [Another Time](https://open.spotify.com/track/7BsRJECC3NmMLOBR4zNcVh) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Another Time](https://open.spotify.com/album/6PbLj6Qoo928owJBKDwele) | 3:39 | 2026-01-23 |  |
 | [Anvil](https://open.spotify.com/track/7i2bJ4K6Dl0IZUt45B1Obl) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Strange Trip Ahead](https://open.spotify.com/album/3IILNy0XPiGB4g8jtm9Agp) | 4:10 | 2025-10-17 | 2025-11-21 |
 | [Are We Feeling Okay?](https://open.spotify.com/track/1JD7DkwwolY7oUgE67mLew) | [Evan Redsky](https://open.spotify.com/artist/1qZng7TJN7pOHMSUItFB8s) | [Are We Feeling Okay?](https://open.spotify.com/album/26aCuNIGoKs8vy0fPpUZLJ) | 3:29 | 2025-08-08 | 2025-08-29 |
 | [Arkansas Diamond](https://open.spotify.com/track/75SAnNqcLsh5rg17isiPM8) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Arkansas Diamond](https://open.spotify.com/album/4YEBJybTO3VzCAG2nUbzZa) | 3:03 | 2024-02-09 | 2025-04-17 |
@@ -126,7 +127,7 @@
 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 | 2024-02-09 | 2024-04-19 |
 | [Cocaine Country Dancing](https://open.spotify.com/track/100W6o9qJYr3qlQ62vsCs8) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/2Ejg7xwAIxfRcFm6iEdzz2) | 4:16 | 2024-04-12 | 2024-04-19 |
 | [Cocaine Country Dancing](https://open.spotify.com/track/4B9v2AXBpnA5tBhGTaQG0G) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a) | 4:16 | 2023-04-21 | 2024-07-12 |
-| [Colorado, TX](https://open.spotify.com/track/2SGj1WdNaTwW00cz9GO1AO) | [Mah Moud](https://open.spotify.com/artist/5GrZNbHTzxnbHge9Ytafdf) | [Colorado, TX](https://open.spotify.com/album/5FXdudccssLwPECirvslKG) | 2:44 | 2025-07-11 |  |
+| [Colorado, TX](https://open.spotify.com/track/2SGj1WdNaTwW00cz9GO1AO) | [Mah Moud](https://open.spotify.com/artist/5GrZNbHTzxnbHge9Ytafdf) | [Colorado, TX](https://open.spotify.com/album/5FXdudccssLwPECirvslKG) | 2:44 | 2025-07-11 | 2026-01-24 |
 | [Come Home](https://open.spotify.com/track/3qNBjyA8TTF9e71oNNUdOK) | [Vicki Brittle](https://open.spotify.com/artist/2f1dWhnYhr0nXjiZol2zfJ) | [Come Home](https://open.spotify.com/album/5cGQ4683Wr2nkJeaj1lSzW) | 3:32 | 2022-06-03 | 2023-01-21 |
 | [Communion \- Country version](https://open.spotify.com/track/0Nyu1FPOJAu7JykM4mf6HR) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Communion \(Country version\)](https://open.spotify.com/album/4xiVZUqaazxXUHUVYoOI1A) | 3:54 | 2022-07-01 | 2022-10-13 |
 | [Communion \- Country version](https://open.spotify.com/track/7BeXzt9gULA8mjUHIKPpIg) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 3:54 | 2022-10-07 | 2023-08-26 |
@@ -563,7 +564,7 @@
 | [The Fool](https://open.spotify.com/track/29nN7NsUSHJyz3tyZDESED) | [Jennie Harluk](https://open.spotify.com/artist/2nik10Ty0mtiWMAL6bTFWw) | [The Fool](https://open.spotify.com/album/1TXgB7zlcVS7f1PPP8y88o) | 4:00 | 2022-05-13 | 2022-08-20 |
 | [The Gathering Chant](https://open.spotify.com/track/7cGZdNlgOh9JFe7MiRyfCF) | [Open Strum](https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932), [Hubert Francis](https://open.spotify.com/artist/56G0LkGEL2xPudWV4AUf9e) | [The Gathering Chant](https://open.spotify.com/album/2aiTFD9BrSl6JGkzGe4Fz7) | 1:53 | 2022-06-24 | 2022-09-10 |
 | [The Great Caucasian God](https://open.spotify.com/track/6WoT1ESQGQUFQOi9QHvE5Y) | [Jesse Welles](https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ) | [Devil’s Den](https://open.spotify.com/album/3ylSrdUwRK2SMt4YIdAJ5q) | 3:50 | 2025-08-22 |  |
-| [The Greatest](https://open.spotify.com/track/44yHaAvGzJ9rccfkvDS15X) | [Old Man Luedecke](https://open.spotify.com/artist/1L29dr4NAXlj2tGo51txba), [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [She Told Me Where to Go \(Deluxe Edition\)](https://open.spotify.com/album/3giMjQzltPGQ6I2yf2DxXk) | 2:39 | 2025-11-14 |  |
+| [The Greatest](https://open.spotify.com/track/44yHaAvGzJ9rccfkvDS15X) | [Old Man Luedecke](https://open.spotify.com/artist/1L29dr4NAXlj2tGo51txba), [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [She Told Me Where to Go \(Deluxe Edition\)](https://open.spotify.com/album/3giMjQzltPGQ6I2yf2DxXk) | 2:39 | 2025-11-14 | 2026-01-24 |
 | [The Hurtin' Kind](https://open.spotify.com/track/1jGtrIhO85jGbmkR3gRvo5) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Stampede: Vol\. 1](https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE) | 3:06 | 2024-05-10 | 2024-10-16 |
 | [The Less I Know](https://open.spotify.com/track/3a5EEvT2lSJQ2oEYF1ErKd) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b) | [The Less I Know](https://open.spotify.com/album/7nu4XupNBoJZxSuqRqNCP0) | 3:09 | 2025-10-24 | 2025-11-07 |
 | [The Long Way](https://open.spotify.com/track/5KOJUMQeo8SwT5G0pnaXm4) | [Wayley](https://open.spotify.com/artist/4veqtAYLEOwcd5osGcwmE3) | [The Long Way](https://open.spotify.com/album/4wBMQcc5oKOxvL6PYVoVp9) | 3:33 | 2022-05-13 | 2023-04-22 |

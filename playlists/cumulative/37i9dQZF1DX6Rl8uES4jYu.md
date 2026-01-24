@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-485 songs - 1 day 3 hr 2 min
+486 songs - 1 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Body Talk](https://open.spotify.com/track/3k4WaElAqj5vUu3sGkOla6) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Body Talk](https://open.spotify.com/album/6WRuSHJ3FJpMwkvP4cF8SK) | 2:20 | 2025-05-02 |  |
 | [Borders](https://open.spotify.com/track/45HyHvHfun98p29Hp1MnCu) | [Tawiah](https://open.spotify.com/artist/7HRQKKdC8gtmcV3DyCmrAN) | [Borders](https://open.spotify.com/album/520lYAIaHuWlSomNcLkEXU) | 3:57 | 2020-11-13 | 2022-03-16 |
 | [Bravado](https://open.spotify.com/track/0r7hyq2nRub3Swcodfi3pR) | [Your Neighbors](https://open.spotify.com/artist/6mpyU2azr3zfZDY9k8w5GP) | [Bravado](https://open.spotify.com/album/3laNAvwRxjkpj9yEtMtWtl) | 3:30 | 2020-11-13 | 2022-03-22 |
+| [BREATHE!](https://open.spotify.com/track/7pQ5f4zkmaS5G264xtbCvf) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [BREATHE!](https://open.spotify.com/album/2DK3WE4fJz4YgvaPz4ZXkw) | 3:29 | 2026-01-23 |  |
 | [By My Side](https://open.spotify.com/track/5FtOZv6MB6IWL2DneVYvoe) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [By My Side](https://open.spotify.com/album/0TDvceI2QvHwWToJJ8stu4) | 2:46 | 2025-08-29 |  |
 | [Can't Get Enough](https://open.spotify.com/track/5Rty3bOR625NBZXPmwOhJ9) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Can't Get Enough](https://open.spotify.com/album/1cgPFINWSKQatDghI5NPMF) | 4:17 | 2025-02-14 |  |
 | [CAN'T GO HOME](https://open.spotify.com/track/6V2pTGbiI6Z87mpF0AiqGR) | [Tayrell](https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [CAN'T GO HOME](https://open.spotify.com/album/4hyWuVrgGuuCvwIDkmmLuc) | 2:52 | 2023-01-20 | 2023-02-18 |

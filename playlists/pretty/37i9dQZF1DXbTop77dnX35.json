@@ -1,12 +1,12 @@
 {
   "description": "New Music from Wizkid & Asake, Seyi Vibez & Omah Lay, Simi & Chike, Paulo Chakal, Harry Styles and more ",
-  "num_followers": 170151,
+  "num_followers": 171163,
   "original_name": "New Music Friday Naija",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK92Lr8ToFIe9a35fNW6ANw2Xfq7",
+  "snapshot_id": "AAAAACGJUv06E0cH0BkZ5A4RrtRJ1lt6",
   "tracks": [
     {
       "added_at": "2026-01-23 00:01:24",
@@ -124,7 +124,7 @@
           "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
         }
       ],
-      "duration_ms": 223578,
+      "duration_ms": 196202,
       "name": "Solace",
       "url": "https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx"
     },
@@ -147,17 +147,21 @@
     {
       "added_at": "2026-01-23 00:01:24",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "ENOUGH FOR ME",
+        "url": "https://open.spotify.com/album/5P2RR6rOO8lTNvVxMObKmj"
       },
       "artists": [
         {
           "name": "Sinach",
           "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 580500,
+      "name": "ENOUGH FOR ME",
       "url": "https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3"
     },
     {
@@ -239,7 +243,7 @@
     {
       "added_at": "2026-01-23 00:01:24",
       "album": {
-        "name": "Do Not Disturb",
+        "name": "Do Not Disturb (DND)",
         "url": "https://open.spotify.com/album/3uoKJof8T6N1Tkfr1nwfNy"
       },
       "artists": [
@@ -319,6 +323,26 @@
       "duration_ms": 160000,
       "name": "Clear Mind",
       "url": "https://open.spotify.com/track/1LW3d8wiel1KrGM8MgxIXy"
+    },
+    {
+      "added_at": "2026-01-23 11:40:41",
+      "album": {
+        "name": "3AM IN KAAPSTAD",
+        "url": "https://open.spotify.com/album/24X9YKAR4iuOfRg8fKnacY"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Xivo",
+          "url": "https://open.spotify.com/artist/59mKnHvZFOISktAAMYzAMM"
+        }
+      ],
+      "duration_ms": 256271,
+      "name": "3AM IN KAAPSTAD",
+      "url": "https://open.spotify.com/track/6jEkcdHeObBDTzsr6XiyHw"
     },
     {
       "added_at": "2026-01-23 00:01:24",
@@ -443,8 +467,8 @@
     {
       "added_at": "2026-01-23 00:01:24",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Vacancy",
+        "url": "https://open.spotify.com/album/2UuTaSOSxTNP6whKrwDqnS"
       },
       "artists": [
         {
@@ -452,8 +476,8 @@
           "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 132931,
+      "name": "High Key",
       "url": "https://open.spotify.com/track/48Rk6ZyFcztsyvUZeUFVXO"
     },
     {
@@ -679,8 +703,8 @@
     {
       "added_at": "2026-01-23 00:01:24",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "A New Thing",
+        "url": "https://open.spotify.com/album/5spXJeVWva4NhMwcjDlFpb"
       },
       "artists": [
         {
@@ -819,6 +843,22 @@
       "duration_ms": 233711,
       "name": "Afrogasm",
       "url": "https://open.spotify.com/track/201vYDEAFsH6yjlIDTZrjq"
+    },
+    {
+      "added_at": "2026-01-23 00:01:24",
+      "album": {
+        "name": "Bottles up",
+        "url": "https://open.spotify.com/album/6CgGY8mg3zqZIQy4j08SdG"
+      },
+      "artists": [
+        {
+          "name": "Ria Sean",
+          "url": "https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od"
+        }
+      ],
+      "duration_ms": 260414,
+      "name": "Bottles up",
+      "url": "https://open.spotify.com/track/3LzYvRqc6c0QlIN04Zmb9t"
     },
     {
       "added_at": "2026-01-23 00:01:24",

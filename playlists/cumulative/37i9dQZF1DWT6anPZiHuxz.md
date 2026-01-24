@@ -4,7 +4,7 @@
 
 > Chasing that runner's high!
 
-392 songs - 21 hr 19 min
+393 songs - 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Drugs I Like](https://open.spotify.com/track/6I96oT2ZcOypVJkmqSujtr) | [nate band](https://open.spotify.com/artist/2n0lFF6QKRjr0jGB9UIT1W) | [Drugs I Like](https://open.spotify.com/album/57JsFYnRzXiB4WMUsyfKPg) | 3:18 | 2025-08-29 |  |
 | [Dudada](https://open.spotify.com/track/1GENOPUqhM4POXH65ZnqZm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Goldcher](https://open.spotify.com/artist/1n9K41Jye8s8F0z1hb1Qhz), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Dudada](https://open.spotify.com/album/6IvbfG3vczBLqQITICdpKR) | 2:08 | 2024-10-04 | 2024-12-21 |
 | [Dust](https://open.spotify.com/track/63ovddHrcXezSAjE8sSBwO) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Dust](https://open.spotify.com/album/6Z0Ql9KvDQjMUOniIx0R5S) | 2:49 | 2024-05-03 | 2024-05-18 |
-| [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 | 2024-11-01 |  |
+| [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 | 2024-11-01 | 2026-01-24 |
 | [Elevate](https://open.spotify.com/track/7jIIaLkLcxyn9z2GvQi1Se) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Contact](https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw) | 3:13 | 2025-11-21 |  |
 | [Entwined](https://open.spotify.com/track/4hphReh7hXDCFb14FfB7n1) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Entwined](https://open.spotify.com/album/4M45TZxg8HtnBwCDyqOb6B) | 3:40 | 2025-10-31 |  |
 | [Every Teardrop Is A Waterfall \(Coldplay Vs\. Swedish House Mafia\)](https://open.spotify.com/track/5J8m6w5VmswbMBYUAFf44t) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Until Now](https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L) | 6:48 | 2024-01-26 | 2024-02-24 |
@@ -129,6 +129,7 @@
 | [Gas Pedal Remix](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Gas Pedal Remix](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 | 2024-09-06 | 2024-11-16 |
 | [Geronimo \- Benny Benassi Remix](https://open.spotify.com/track/6UzRLAMyYXtLIcl5xC21B0) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV), [Marco Benassi](https://open.spotify.com/artist/0VCeLSthzNWXPDjUWL1fQr), [Alessandro Benassi](https://open.spotify.com/artist/67xLNiooFLOvJZybLylxNT) | [Geronimo \(Remixes\)](https://open.spotify.com/album/1otjvVY7h9t3u2KOGBU3mk) | 4:30 | 2022-08-12 | 2022-10-06 |
 | [Get Busy \- Odd Mob Club Mix](https://open.spotify.com/track/6u6vaQoR0IXCWRSOP7h7D6) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Get Busy \(Odd Mob Club Mix\)](https://open.spotify.com/album/0tzUcNV1CNq8D6JYS2wosW) | 2:45 | 2024-08-01 |  |
+| [GET WHAT I WANT](https://open.spotify.com/track/4g5eIUBlJu0kDKoczE8fsW) | [MAYV](https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt) | [GET WHAT I WANT](https://open.spotify.com/album/1KsJR6P8hrNrGgHcs0sFql) | 2:12 | 2026-01-23 |  |
 | [Ghost \- Merk & Kremont Remix](https://open.spotify.com/track/1SDE6NorcBVtssHzaWeRC4) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7) | [Ghost \(Merk & Kremont Remix\)](https://open.spotify.com/album/3vuXaBdklxdSgIW8dHBoWo) | 2:53 | 2023-05-17 | 2024-01-20 |
 | [Gimme Love \- Armin van Buuren Remix – Radio Edit](https://open.spotify.com/track/2cuVIu6c6BHJiUcOXoEivN) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Gimme Love \(Armin van Buuren Remix\)](https://open.spotify.com/album/7EMCPnAtiom6pK0oTqufM5) | 3:27 | 2023-11-09 | 2024-01-20 |
 | [girl$](https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [girl$](https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc) | 3:29 | 2024-06-07 | 2025-10-18 |

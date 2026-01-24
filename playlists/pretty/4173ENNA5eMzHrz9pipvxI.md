@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: TH;EN
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 118,693 likes - 145 songs - 7 hr 20 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 118,689 likes - 145 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Locked In \(feat\. Trippie Redd\)](https://open.spotify.com/track/55oaId1IHZV9XfvHB3P7PJ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Locked In \(feat\. Trippie Redd\)](https://open.spotify.com/album/2fG4Abi890K7fZ9MnEsq9p) | 2:48 |
-| 2 | [Antidote](https://open.spotify.com/track/3p7dgKyS7tZcSbmXJmQSxz) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Mentum](https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3) | [Antidote](https://open.spotify.com/album/00IGSwcvchaCcTLxNFP6u4) | 2:45 |
+| 1 | [Antidote](https://open.spotify.com/track/3p7dgKyS7tZcSbmXJmQSxz) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Mentum](https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3) | [Antidote](https://open.spotify.com/album/00IGSwcvchaCcTLxNFP6u4) | 2:45 |
+| 2 | [Locked In \(feat\. Trippie Redd\)](https://open.spotify.com/track/55oaId1IHZV9XfvHB3P7PJ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Locked In \(feat\. Trippie Redd\)](https://open.spotify.com/album/2fG4Abi890K7fZ9MnEsq9p) | 2:48 |
 | 3 | [Hard Techno Love](https://open.spotify.com/track/6DH5mdtGpAnQaATeirJeeF) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [PHOROS](https://open.spotify.com/artist/3mAGi2CAWTnF7t6CUGJN9q), [Church of Molly](https://open.spotify.com/artist/7uTmmx6Ta5g0KvtxeeFrrn) | [Hard Techno Love](https://open.spotify.com/album/6H7MamYPP8OBK9c5czBt2F) | 1:56 |
 | 4 | [Shivers](https://open.spotify.com/track/2Aaq0FavPjpJHA17Ux488k) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [Shivers](https://open.spotify.com/album/5UNCKKmrFhunNqn8GJo0Yj) | 2:45 |
 | 5 | [Chasing Love](https://open.spotify.com/track/3u8tIYpLZPSni3qaEaaRLU) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Peter Guzman](https://open.spotify.com/artist/2R3VXlmvfk74W8ZztC7Lp3) | [Chasing Love](https://open.spotify.com/album/3P7HOhmha71b9DBzlKcYU8) | 3:18 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 144 | [La Vida \- Radio Edit](https://open.spotify.com/track/6DCNCcgxcMSTBoPdNXcei3) | [dbasser](https://open.spotify.com/artist/5psF4RFR5m6MyLC7whUI2b), [Peter Guzman](https://open.spotify.com/artist/2R3VXlmvfk74W8ZztC7Lp3), [Jose Alves](https://open.spotify.com/artist/3wgghSRJ0p9lOfHiE9D1Y9), [Kaala Shaw](https://open.spotify.com/artist/5tZsSjeLuHAMjvL8Tkrdnf) | [La Vida EP](https://open.spotify.com/album/6Jsb3lrk8UEOaYJKlCMtgg) | 4:48 |
 | 145 | [Era](https://open.spotify.com/track/1eao1v2p0x5mckT9gMTOH6) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Era](https://open.spotify.com/album/4jm2U2sXJUJGBhKC1TJfsp) | 4:44 |
 
-Snapshot ID: `AAAghShM9eXPliegx0agwT8z+7pNuiI/`
+Snapshot ID: `AAAgho1lQ/sLEXirKSGOl6MS+Cz7JZhu`

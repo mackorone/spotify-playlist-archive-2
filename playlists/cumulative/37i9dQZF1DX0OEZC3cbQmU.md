@@ -4,7 +4,7 @@
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Get Worship
 
-200 songs - 20 hr 58 min
+201 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Jeová Jireh](https://open.spotify.com/track/0cEUrAqLYJafXksIpIBov4) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Jeová Jireh](https://open.spotify.com/album/2wfiFaBmVcK8aJ4BHYQHse) | 6:30 | 2023-02-24 | 2025-05-03 |
 | [Jesus em Tua Presença // Ao Único // Eu Navegarei \- Ao Vivo](https://open.spotify.com/track/3FL7T4DvAFmnVNpnnvZqNb) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Jesus em Tua Presença // Ao Único // Eu Navegarei \(Ao Vivo\)](https://open.spotify.com/album/6bf32mEPUvr7XLD2oStDL7) | 11:09 | 2022-09-02 | 2024-07-19 |
 | [João 20 + pra Sempre \- Ao Vivo](https://open.spotify.com/track/1S9fKs0sAdZPlL8ViOARnS) | [Vitor Santana](https://open.spotify.com/artist/4XWwdp5t6DPloruDrgyRmZ) | [João 20 + pra Sempre \- Ao Vivo](https://open.spotify.com/album/3adHglUeEVq6ETuiGOwz3w) | 4:49 | 2025-01-31 |  |
+| [João Viu / Além do Rio Azul \- Ao Vivo](https://open.spotify.com/track/2w6BUVGMztDT0vGdRFzhkD) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [João Viu / Além do Rio Azul \(Ao Vivo\)](https://open.spotify.com/album/0WWDnfbwnzNrct6Vy5aBog) | 4:39 | 2026-01-23 |  |
 | [Jó](https://open.spotify.com/track/50rAuUPCO4xCW4cYGY6gRE) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 5:11 | 2022-09-02 | 2024-12-14 |
 | [Lindo Momento \- Ao Vivo](https://open.spotify.com/track/6QxaJjXCxZSGKq98arP8Nw) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Lindo Momento](https://open.spotify.com/album/1aVMRmkdrJe3UXprRvPZqV) | 14:53 | 2024-04-19 |  |
 | [Lindo És + Só Quero Ver Você \- Ao Vivo](https://open.spotify.com/track/2pIQ9nPm7mz5doKqv25tcy) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Livres Ao Vivo Em São Paulo](https://open.spotify.com/album/2KiB0YFcNRgKOnlji9Ysx7) | 7:27 | 2022-10-07 | 2022-11-14 |
@@ -140,7 +141,7 @@
 | [O Que Tua Glória Fez Comigo \- Ao Vivo](https://open.spotify.com/track/5yonnE8BKuczROIGQKI6Ca) | [Leo Fonseca](https://open.spotify.com/artist/34iSGCakITd5m0nZgIjkio), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [És Bem\-Vindo à Mesa](https://open.spotify.com/album/79XQ40MyFbpEpTZU1lnPRS) | 8:58 | 2025-05-02 |  |
 | [O Teu Amor \- Ao Vivo](https://open.spotify.com/track/41GMd4Rg5RrM7eQ1kd15Fs) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [O Teu Amor \(Ao Vivo\)](https://open.spotify.com/album/0t6IUc9F2sIJDwyCjx0ePP) | 5:14 | 2022-09-02 | 2023-01-21 |
 | [Obrigado Deus \- Ao Vivo](https://open.spotify.com/track/0UXOixWIeq56y2ClXOP7bW) | [Pagode Restaura](https://open.spotify.com/artist/57XFcSi83RxJN7TiOiIs5C) | [Obrigado Deus \(Ao Vivo\)](https://open.spotify.com/album/25sAX6GQ3Vcs0FL7997U5T) | 3:22 | 2026-01-09 |  |
-| [Onde o Fogo Não Apaga \- Ao Vivo](https://open.spotify.com/track/6uJuREXqz3BWRM2awbXrDv) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/0Y4f9yXZuldhcASt6p6HCm) | 6:56 | 2023-04-28 |  |
+| [Onde o Fogo Não Apaga \- Ao Vivo](https://open.spotify.com/track/6uJuREXqz3BWRM2awbXrDv) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/0Y4f9yXZuldhcASt6p6HCm) | 6:56 | 2023-04-28 | 2026-01-24 |
 | [Ousado Amor](https://open.spotify.com/track/77eAHEGsex2IyIyUGI1TTP) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Isaias Saad](https://open.spotify.com/album/7sEOMZDPOTM5PhjleySZrY) | 5:29 | 2024-01-05 | 2024-12-07 |
 | [Ousado Amor](https://open.spotify.com/track/1Pf1iSsQ7fpSQa7hG3IwQd) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Ousado Amor](https://open.spotify.com/album/5OJWqVSt6IRFzXO6wmLEY7) | 5:33 | 2022-10-07 | 2022-11-13 |
 | [Ousado Amor](https://open.spotify.com/track/5qyFts6geTWeNbMeYQcPai) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Isaias Saad](https://open.spotify.com/album/2zhh6n9B7raoERBUOxINYc) | 5:33 | 2022-09-02 | 2024-04-19 |

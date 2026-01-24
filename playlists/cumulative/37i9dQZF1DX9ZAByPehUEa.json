@@ -1919,6 +1919,24 @@
     },
     {
       "album": {
+        "name": "Can\u2019t Stop",
+        "url": "https://open.spotify.com/album/2mrrDlJa961xfvs24sF2rC"
+      },
+      "artists": [
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219212,
+      "name": "Can\u2019t Stop",
+      "url": "https://open.spotify.com/track/2PHTL1d8V2UmnVcIDebjQY"
+    },
+    {
+      "album": {
         "name": "Casablanca (PRX003)",
         "url": "https://open.spotify.com/album/1G35maESkpGKInECEfA8KC"
       },
@@ -3594,6 +3612,24 @@
       "duration_ms": 387969,
       "name": "D\u00e9j\u00e0 Vous",
       "url": "https://open.spotify.com/track/27v3dCVeFekhgsG5h0EYG3"
+    },
+    {
+      "album": {
+        "name": "Easy Flirt",
+        "url": "https://open.spotify.com/album/3ewRXH9xzkimqdIXc7hUnN"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Easy Flirt",
+      "url": "https://open.spotify.com/track/0NCxUz8RdDtPcSwiLkDmhh"
     },
     {
       "album": {
@@ -5848,7 +5884,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 217105,
       "name": "Hypnotic Night",
       "url": "https://open.spotify.com/track/6nHS2tNiKc7xIDkwFg7ldV"
@@ -5892,6 +5928,24 @@
       "duration_ms": 155730,
       "name": "I Believe In Miracles",
       "url": "https://open.spotify.com/track/5GgVblBt9ED3jKkNsoWeoh"
+    },
+    {
+      "album": {
+        "name": "I Could Get Used To This",
+        "url": "https://open.spotify.com/album/1Q6TuFF5GjmICIEVSkFCyd"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221586,
+      "name": "I Could Get Used To This",
+      "url": "https://open.spotify.com/track/4m9uyukaB0AEC5BKZb5Svw"
     },
     {
       "album": {
@@ -9384,7 +9438,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 198966,
       "name": "My Name Is Love",
       "url": "https://open.spotify.com/track/3GJIJPi4tYm2dJF7rt9BEb"
@@ -10054,7 +10108,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 198750,
       "name": "On The Run 2025",
       "url": "https://open.spotify.com/track/1SucrtxZQnBmrweftbhm2B"
@@ -10186,6 +10240,24 @@
       "duration_ms": 216774,
       "name": "Organ (DJ-Kicks) - Edit",
       "url": "https://open.spotify.com/track/0NPDoArWeGDBcGzO5m7g4t"
+    },
+    {
+      "album": {
+        "name": "Out Of My Mind",
+        "url": "https://open.spotify.com/album/5AOOdE61qcqBULKF1EiVLb"
+      },
+      "artists": [
+        {
+          "name": "Bag Raiders",
+          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137012,
+      "name": "Out Of My Mind",
+      "url": "https://open.spotify.com/track/1UY1BveykAXFHiokxrCMkg"
     },
     {
       "album": {
@@ -13084,7 +13156,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 194882,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/4ycUxEscvJvegdkCtY0Obn"
@@ -13760,6 +13832,28 @@
       "duration_ms": 200277,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/1tuAG0SRJUvRCUEU3O7c3j"
+    },
+    {
+      "album": {
+        "name": "True Desire",
+        "url": "https://open.spotify.com/album/3gyd7Tyt0V1WdpddExb32w"
+      },
+      "artists": [
+        {
+          "name": "George Reid",
+          "url": "https://open.spotify.com/artist/4AhAa3kyJe8OVyN1mxEB6o"
+        },
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155660,
+      "name": "True Desire",
+      "url": "https://open.spotify.com/track/6PUUMmIRrF8x2oq8M001VI"
     },
     {
       "album": {
@@ -14478,10 +14572,28 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 183481,
       "name": "Where's Your Soul At?",
       "url": "https://open.spotify.com/track/27b0bS9KzicFK7A3qcJiAQ"
+    },
+    {
+      "album": {
+        "name": "Why Don't You Love Me",
+        "url": "https://open.spotify.com/album/1bpMmine1onCfOKeRfeRc3"
+      },
+      "artists": [
+        {
+          "name": "Kotti Affair",
+          "url": "https://open.spotify.com/artist/50crAqMaWr9rR7rbupFyq2"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244850,
+      "name": "Why Don't You Love Me",
+      "url": "https://open.spotify.com/track/7sfqhOU04aOcql3s5ltkhm"
     },
     {
       "album": {
@@ -14584,7 +14696,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 216914,
       "name": "without u",
       "url": "https://open.spotify.com/track/5vtKnPkIL2aHb6Yv3emFw9"

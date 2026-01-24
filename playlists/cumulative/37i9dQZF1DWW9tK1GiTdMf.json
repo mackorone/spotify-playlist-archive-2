@@ -3079,6 +3079,24 @@
     },
     {
       "album": {
+        "name": "Ballando Con Te",
+        "url": "https://open.spotify.com/album/7wP30X1uVRN1yEjKO4DfRo"
+      },
+      "artists": [
+        {
+          "name": "Chicoboyah",
+          "url": "https://open.spotify.com/artist/1fBkKzgI3Bl1R2ePXRAcTW"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Ballando Con Te",
+      "url": "https://open.spotify.com/track/2i80maftqYWVSRst3reXCo"
+    },
+    {
+      "album": {
         "name": "BAMBINA IN DISCOTECA",
         "url": "https://open.spotify.com/album/0Hc1ajYXVxUQyoOZ1aP5x1"
       },

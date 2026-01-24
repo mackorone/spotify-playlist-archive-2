@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillery rozdane! Posłuchaj zwycięzców i wszystkich nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,606 likes - 61 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,605 likes - 61 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 3 | [Ona Mówi](https://open.spotify.com/track/6RfHSlo0xOa5s3WnYj9xJa) | [730 Huncho](https://open.spotify.com/artist/7li6R0hKFXu7496e0Yialv), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Kazior](https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8) | [Ona Mówi](https://open.spotify.com/album/5t2dYtdLUqfdmNjuqwknvU) | 2:32 |
 | 4 | [Chyba że z Tobą](https://open.spotify.com/track/0peRfvtx1Je91FxQtii5DJ) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [Chyba że z Tobą](https://open.spotify.com/album/1OeMB0KFN400gB3IrwQK7L) | 2:11 |
 | 5 | [ILE LAT?](https://open.spotify.com/track/4Yecd3jr0qmuxXpPHPSZPg) | [OKI](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [ERA47](https://open.spotify.com/album/5xZ5zOSrtC9rdbZjtNesJu) | 2:30 |
-| 6 | [Lloret de Mar](https://open.spotify.com/track/4S78rQHd6cSC8g2TfdNJTf) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [Lloret de Mar](https://open.spotify.com/album/6umGWX7xQ0WgIDeZFsFFYX) | 2:05 |
-| 7 | [RAP](https://open.spotify.com/track/1F7O4MZUE2VZdJ9QbS0qB7) | [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF) | [TTHE GRIND](https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP) | 2:36 |
+| 6 | [RAP](https://open.spotify.com/track/1F7O4MZUE2VZdJ9QbS0qB7) | [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF) | [TTHE GRIND](https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP) | 2:36 |
+| 7 | [Lloret de Mar](https://open.spotify.com/track/4S78rQHd6cSC8g2TfdNJTf) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [Lloret de Mar](https://open.spotify.com/album/6umGWX7xQ0WgIDeZFsFFYX) | 2:05 |
 | 8 | [Róż](https://open.spotify.com/track/3XhllIfCF2T1RaJwbBWSdi) | [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak), [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [Róż](https://open.spotify.com/album/1yshQQ9rEmfZTWqNccWAZ1) | 2:51 |
 | 9 | [DAM CI PORADY](https://open.spotify.com/track/4Sjv6Bty0JoFgCP63fyiAM) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v), [Gmeniu](https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj) | [DAM CI PORADY](https://open.spotify.com/album/3IPHo1XY2cDWezSHGl1P5W) | 3:29 |
 | 10 | [Prawie straciłem głos](https://open.spotify.com/track/2CJoMNzcvbpV38fKqAOaQ3) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [Prawie straciłem głos](https://open.spotify.com/album/6QwBC5xO7nwwmb3SzDUuAr) | 2:24 |

@@ -2462,7 +2462,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 152610,
       "name": "Loving You (feat. Maverick Sabre)",
       "url": "https://open.spotify.com/track/3Jx1s38DVgJJwuoxAGi7kh"
@@ -2740,6 +2740,24 @@
       "duration_ms": 290697,
       "name": "No Reason to Stay",
       "url": "https://open.spotify.com/track/4WxMcqmvwOEb5rdz25KDv2"
+    },
+    {
+      "album": {
+        "name": "Northern Lights - Stripped",
+        "url": "https://open.spotify.com/album/5PDEZDX6YgfXIWsxMUFEgP"
+      },
+      "artists": [
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139680,
+      "name": "Northern Lights - stripped",
+      "url": "https://open.spotify.com/track/5GaIUszbX4qTATZaptbF6V"
     },
     {
       "album": {

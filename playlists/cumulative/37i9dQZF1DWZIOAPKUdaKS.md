@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-825 songs - 1 day 11 hr 44 min
+829 songs - 1 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [BLUEBIRD WATCHING](https://open.spotify.com/track/6ei0MaDb3lcLdNVcwbMNk5) | [GRACE UNDERWOOD](https://open.spotify.com/artist/3Q9WSdSKTYAVrqpyumgwqp) | [BLUEBIRD WATCHING](https://open.spotify.com/album/3kplDIwUEVyQLGGD01Kz9Q) | 3:05 | 2024-11-06 | 2025-11-18 |
 | [Blund](https://open.spotify.com/track/0duYOyKFVmUrJpDhmKaIyW) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Blund](https://open.spotify.com/album/5v1lS8JfFsyrxPCbTbVchK) | 2:46 | 2021-12-07 | 2023-01-28 |
 | [Bridge to Nowhere](https://open.spotify.com/track/1A6rVJJddqf7ct6FnK6cHE) | [Novum Cordis](https://open.spotify.com/artist/3iSbAtzrrSEaZlc16jeS9d) | [Bridge to Nowhere](https://open.spotify.com/album/75eFUsF34geJ4j4CiPD5Jt) | 2:51 | 2021-12-07 | 2022-07-20 |
+| [Brief Glow](https://open.spotify.com/track/1aJztcOEbKOi6XyIBH69J0) | [SoftKey](https://open.spotify.com/artist/73P22uwEYwcNzLZhc63iFX) | [Brief Glow](https://open.spotify.com/album/64vV4tgabnwXFy7P57tv3V) | 2:55 | 2026-01-23 |  |
 | [Broken River](https://open.spotify.com/track/2sxEgzrFsAjBq0Yf3PBIfI) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [The Great Migration](https://open.spotify.com/album/0fqDjNTc077SL0JcMAjKvF) | 2:55 | 2021-12-07 | 2022-08-10 |
 | [Broken Wings](https://open.spotify.com/track/6DsrTcbNItkd09LUx61ZGd) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Broken Wings](https://open.spotify.com/album/7yhv9BZoyPY5xlf1LAzW8V) | 2:00 | 2021-12-07 | 2022-08-10 |
 | [Brothers](https://open.spotify.com/track/4wAgG2Y5yUrMc1RdMQJR14) | [Liam Muntz](https://open.spotify.com/artist/3xxV3NmQixCSk6fUPlGSvP) | [Brothers](https://open.spotify.com/album/3Da9jMzHmxCC3ruuyli07H) | 2:28 | 2021-12-07 | 2022-07-20 |
@@ -313,6 +314,7 @@
 | [How Things Blend](https://open.spotify.com/track/75VgkSAz0It7T1Og7bAu3B) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO), [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [And The Unknown](https://open.spotify.com/album/0eoyfDQZjpyxbbpt6RA6UI) | 2:36 | 2024-03-19 | 2024-04-19 |
 | [How You're Remembered](https://open.spotify.com/track/2NHgyCHFDydecMMa57BcWP) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [How You're Remembered](https://open.spotify.com/album/6Wvn6npRvkS4KoGKZDfwOH) | 3:10 | 2021-12-07 | 2022-12-06 |
 | [Howthian](https://open.spotify.com/track/7Ifj1BA2mFHr1FmCxV9p1M) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Howthian](https://open.spotify.com/album/3eDvXFQzvzaRxRMdAss0vn) | 2:24 | 2021-12-07 | 2023-10-05 |
+| [Hushlight](https://open.spotify.com/track/2TefdBJEQN69Z1etKyiFOf) | [Teemu Aalto](https://open.spotify.com/artist/4V5fIfGp2rq34skkSpvKt5) | [Hushlight](https://open.spotify.com/album/6qI21u3HU92wn7Y2qmsnDs) | 2:56 | 2026-01-23 |  |
 | [Hymn for Archimedes](https://open.spotify.com/track/64mtjDgjo03VB8NC4Uf9vX) | [Frerick Den Haan](https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5) | [Hymn for Archimedes](https://open.spotify.com/album/41QM1uQUiU5UWkUuIaMjyR) | 3:38 | 2021-12-07 | 2022-08-10 |
 | [I Know Him](https://open.spotify.com/track/4CeTYj1jcn4wVhh7HOHfeM) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [I Know Him](https://open.spotify.com/album/54o66y7C616cYs13urOgYx) | 2:37 | 2021-12-07 | 2024-11-07 |
 | [I Mellanrummen](https://open.spotify.com/track/2y5ndtKSNhKxhAmnrDbuIg) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [I Mellanrummen](https://open.spotify.com/album/5k0teDt2gqXjptNLUJltoz) | 2:09 | 2021-12-07 | 2024-05-23 |
@@ -475,6 +477,7 @@
 | [Naoko](https://open.spotify.com/track/42vtu2WdEl9Di6zzdiRpBV) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Beginnings](https://open.spotify.com/album/5MqvffTG1ZlTMBUlZ9ZoVD) | 3:04 | 2022-07-28 | 2022-11-25 |
 | [Naoko](https://open.spotify.com/track/4uImsVwiffjf75VY8NStFN) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Naoko](https://open.spotify.com/album/6DiCLO32Rf6Lksf2pw2wKH) | 3:04 | 2021-12-07 | 2022-07-29 |
 | [Nascondiglio](https://open.spotify.com/track/3e8DQgRVImwkDYrJJEh9xO) | [Giovanna Petrini](https://open.spotify.com/artist/25Bpq4sqHbHT853VsYM9wb) | [Nascondiglio](https://open.spotify.com/album/0TRLxuQkDGaKoJEYOmCNMr) | 1:57 | 2022-12-21 | 2023-11-21 |
+| [Near](https://open.spotify.com/track/0YFwfu0j7S7M8UTzHOhISU) | [Dalby](https://open.spotify.com/artist/5ai5w9rMxwvqSY4rrDof73) | [Near](https://open.spotify.com/album/3Cseuyclela2etyzgZ0nII) | 2:22 | 2026-01-23 |  |
 | [Nebelschleier](https://open.spotify.com/track/6GsRRJRItgJZSFT1USSH1A) | [Torsten Friedrich](https://open.spotify.com/artist/4iE9nQEjk0R2eebGwY5Uyj) | [Das Rosenblatt](https://open.spotify.com/album/3cn9ZaAr8dW2oBrBu898me) | 3:11 | 2022-02-01 | 2022-10-25 |
 | [Never Give In](https://open.spotify.com/track/7GghRfjTGCxYDnYo0OVRM3) | [Irma Kantola](https://open.spotify.com/artist/7eP5EaPos8EeIsG7UJfEVP) | [Never Give In](https://open.spotify.com/album/43mYROp7H0H6Ynbi1zVbyY) | 3:05 | 2021-12-07 | 2024-08-13 |
 | [Never Unsaid](https://open.spotify.com/track/1zG58ldyABiNx05Brxkktd) | [Aleisha Millar](https://open.spotify.com/artist/2a2JENyvbHLDEeMCbAKjl4) | [Never Unsaid](https://open.spotify.com/album/0Nfqe5WLzyIhIULRpci5sP) | 2:17 | 2021-12-07 | 2022-10-14 |
@@ -589,6 +592,7 @@
 | [Rianmarsi](https://open.spotify.com/track/3DG5USrBXKc74Hf8T1H2jn) | [Emiliano Nucci](https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp) | [Rianmarsi](https://open.spotify.com/album/1pIIVUNVmiMvRBJbyNDt0J) | 2:16 | 2021-12-07 | 2024-05-23 |
 | [Rites of Passage](https://open.spotify.com/track/3m9k6Jc0EvtZEQLUfYd0e9) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Rites of Passage](https://open.spotify.com/album/7AJ5Hb0pp2go5xuGBenQ8h) | 3:11 | 2021-12-07 | 2022-10-05 |
 | [River Running Free](https://open.spotify.com/track/2qCzkyUdNWxGY0lQh0jp8F) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [River Running Free](https://open.spotify.com/album/0BQOiGn059PbJJtbi6VwGU) | 2:16 | 2021-12-07 | 2022-07-20 |
+| [River's Edge](https://open.spotify.com/track/4FUK5OhvIlL6VPCBR9nUn9) | [Riku Arai](https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28) | [River's Edge](https://open.spotify.com/album/7ic3yt70e9bsNLA8Vz1cKj) | 2:23 | 2026-01-23 |  |
 | [Rocking Chair](https://open.spotify.com/track/6w5UdflXn5t7rLq8pUP4Ft) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Rocking Chair](https://open.spotify.com/album/05UDZPPJkcWFOo7UnfOJBV) | 2:42 | 2021-12-07 | 2023-10-05 |
 | [Rolling Like A Ball](https://open.spotify.com/track/2TlV8LZW3ED4RjGc0crBLN) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Rolling Like A Ball](https://open.spotify.com/album/3CVBACggrB4U3sSOLjgGjs) | 4:17 | 2022-01-18 | 2022-02-02 |
 | [Romanzo](https://open.spotify.com/track/61TS7LURuPHVDdVsuWvxfC) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [Romanzo](https://open.spotify.com/album/3hV54JZiq0la65AY4KXB4J) | 2:03 | 2023-09-05 | 2025-04-10 |

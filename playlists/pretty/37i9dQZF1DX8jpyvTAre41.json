@@ -1,13 +1,225 @@
 {
-  "description": "The best rock songs of the moment. Cover: The Beaches",
-  "num_followers": 194143,
+  "description": "The best rock songs of the moment. Cover: Cam Kahin",
+  "num_followers": 194133,
   "original_name": "Rock Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIq5Lu46KohIcpH/kHyqtubx90gh",
+  "snapshot_id": "AAAAAE6ZIEhmUXeSuiWH/X+2a9MFOds7",
   "tracks": [
+    {
+      "added_at": "2026-01-23 05:01:12",
+      "album": {
+        "name": "yeah right!",
+        "url": "https://open.spotify.com/album/0hk2As5b2BFleteKnBc2uM"
+      },
+      "artists": [
+        {
+          "name": "Cam Kahin",
+          "url": "https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw"
+        }
+      ],
+      "duration_ms": 158320,
+      "name": "yeah right!",
+      "url": "https://open.spotify.com/track/03HG5uO77JX5O3u8r0Cn0d"
+    },
+    {
+      "added_at": "2026-01-23 05:01:12",
+      "album": {
+        "name": "Monolith",
+        "url": "https://open.spotify.com/album/60D53NppKnWqnepqsq3wX4"
+      },
+      "artists": [
+        {
+          "name": "Death Lens",
+          "url": "https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8"
+        }
+      ],
+      "duration_ms": 212215,
+      "name": "Monolith",
+      "url": "https://open.spotify.com/track/2qWJ3H3iMEnkeyi8t0QfGr"
+    },
+    {
+      "added_at": "2026-01-23 05:01:12",
+      "album": {
+        "name": "Autopilot",
+        "url": "https://open.spotify.com/album/7ykeLZhhplzKnHwWJHl1XJ"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "duration_ms": 166730,
+      "name": "Autopilot",
+      "url": "https://open.spotify.com/track/3a1jT0YHIsQDqIPt95gONV"
+    },
+    {
+      "added_at": "2026-01-23 05:01:12",
+      "album": {
+        "name": "THUM",
+        "url": "https://open.spotify.com/album/0fz4N5DS1SJ6jbNABL9UMr"
+      },
+      "artists": [
+        {
+          "name": "Violet Grohl",
+          "url": "https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB"
+        }
+      ],
+      "duration_ms": 131644,
+      "name": "THUM",
+      "url": "https://open.spotify.com/track/3yuaDt5vOxrQD06LrAQPj9"
+    },
+    {
+      "added_at": "2026-01-23 05:01:12",
+      "album": {
+        "name": "Flagrant Act of Bliss",
+        "url": "https://open.spotify.com/album/5qKrndJdz1i7UkFI2MiJMI"
+      },
+      "artists": [
+        {
+          "name": "Black Pistol Fire",
+          "url": "https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo"
+        }
+      ],
+      "duration_ms": 187659,
+      "name": "American Wet Dream",
+      "url": "https://open.spotify.com/track/6JX5VcFg5FoJWwKkm5IL0q"
+    },
+    {
+      "added_at": "2026-01-23 05:01:12",
+      "album": {
+        "name": "Bomb To A Knife Fight",
+        "url": "https://open.spotify.com/album/7t0w7wWnCcNvZrUGvreW21"
+      },
+      "artists": [
+        {
+          "name": "The Barbarians of California",
+          "url": "https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO"
+        }
+      ],
+      "duration_ms": 161504,
+      "name": "Bomb To A Knife Fight",
+      "url": "https://open.spotify.com/track/1mVaXOne0HkvbeReuBkg8V"
+    },
+    {
+      "added_at": "2026-01-23 05:01:12",
+      "album": {
+        "name": "Empty Hands",
+        "url": "https://open.spotify.com/album/5lBm36eO5Us3NpTXaA9t9C"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "Time Will Tell",
+      "url": "https://open.spotify.com/track/1v9OAyGabSeIOH2VWIJ0wx"
+    },
+    {
+      "added_at": "2026-01-23 05:01:12",
+      "album": {
+        "name": "Towers",
+        "url": "https://open.spotify.com/album/1c8opfck2GJiprPJByHUOp"
+      },
+      "artists": [
+        {
+          "name": "Lia Pappas-Kemps",
+          "url": "https://open.spotify.com/artist/7N15xabCPo5XjsUSTnGVes"
+        }
+      ],
+      "duration_ms": 188933,
+      "name": "Towers",
+      "url": "https://open.spotify.com/track/5bfFCwTtflxfirt9d8Ls3S"
+    },
+    {
+      "added_at": "2026-01-23 05:01:12",
+      "album": {
+        "name": "Boycott Heaven",
+        "url": "https://open.spotify.com/album/4yMJnpezQRZr8MIkNUor1M"
+      },
+      "artists": [
+        {
+          "name": "The Format",
+          "url": "https://open.spotify.com/artist/3ZJC8cLts8Q8s8JbNJKsLf"
+        }
+      ],
+      "duration_ms": 212422,
+      "name": "Depressed",
+      "url": "https://open.spotify.com/track/1jUNEF8KHemuZZOhk2nhfs"
+    },
+    {
+      "added_at": "2026-01-23 05:01:12",
+      "album": {
+        "name": "Pullin' Teeth (feat. Kevin Rheault)",
+        "url": "https://open.spotify.com/album/5Dv94BiysbvmdCu646Yt6r"
+      },
+      "artists": [
+        {
+          "name": "The Scratch",
+          "url": "https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd"
+        },
+        {
+          "name": "Kevin Rheault",
+          "url": "https://open.spotify.com/artist/3zNIChbsnQkpCqnPZfwkUy"
+        }
+      ],
+      "duration_ms": 254446,
+      "name": "Pullin' Teeth (feat. Kevin Rheault)",
+      "url": "https://open.spotify.com/track/4u0XMPi5gVGcmzbifUwUh8"
+    },
+    {
+      "added_at": "2026-01-23 05:01:12",
+      "album": {
+        "name": "Puppet Parade",
+        "url": "https://open.spotify.com/album/4c2I5KEpliGFpP3YGY2jMq"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 280924,
+      "name": "Puppet Parade",
+      "url": "https://open.spotify.com/track/1wK0EaN9EAuSNSp3uB3rgs"
+    },
+    {
+      "added_at": "2026-01-23 05:01:12",
+      "album": {
+        "name": "Hollaback Girl",
+        "url": "https://open.spotify.com/album/2ZCC3pbYJPfDGolUhfXTyw"
+      },
+      "artists": [
+        {
+          "name": "Rain Paris",
+          "url": "https://open.spotify.com/artist/10TCOjSPs9ywBN1Q083BnB"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Hollaback Girl",
+      "url": "https://open.spotify.com/track/1Y9xsCdc2wek3HxUCAbu1k"
+    },
+    {
+      "added_at": "2026-01-23 05:01:12",
+      "album": {
+        "name": "Angels Cry",
+        "url": "https://open.spotify.com/album/2qC3jIIB2pzxnJWuH1hv9v"
+      },
+      "artists": [
+        {
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+        }
+      ],
+      "duration_ms": 232825,
+      "name": "Angels Cry",
+      "url": "https://open.spotify.com/track/7uLc0Acq6JOMhJC40u4K65"
+    },
     {
       "added_at": "2026-01-16 05:01:18",
       "album": {
@@ -1439,218 +1651,6 @@
       "duration_ms": 219000,
       "name": "ROCK N ROLL IS ASLEEP",
       "url": "https://open.spotify.com/track/2hicCxBgUWE20o16gUCcD1"
-    },
-    {
-      "added_at": "2025-10-24 04:01:03",
-      "album": {
-        "name": "No Power",
-        "url": "https://open.spotify.com/album/0dekGhuphg0eTJYlqyyGkj"
-      },
-      "artists": [
-        {
-          "name": "Snorkeler",
-          "url": "https://open.spotify.com/artist/2nyeygKfvhI9P6THEzP6Mr"
-        }
-      ],
-      "duration_ms": 187742,
-      "name": "It's So Hopeless",
-      "url": "https://open.spotify.com/track/0UVck9pjMFzfLKCUje3beo"
-    },
-    {
-      "added_at": "2025-10-24 04:01:03",
-      "album": {
-        "name": "The Bloody Light",
-        "url": "https://open.spotify.com/album/2FxCKumeNxyNACJ6GXXCmx"
-      },
-      "artists": [
-        {
-          "name": "The Trews",
-          "url": "https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ"
-        }
-      ],
-      "duration_ms": 272800,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/2uB8g1m1lBjugofmsjtagk"
-    },
-    {
-      "added_at": "2025-10-24 04:01:03",
-      "album": {
-        "name": "The Way She Goes",
-        "url": "https://open.spotify.com/album/6unFoD3QuaWAUs1DsxZvt5"
-      },
-      "artists": [
-        {
-          "name": "Pomo",
-          "url": "https://open.spotify.com/artist/6YtlR8MLfO6azxwOKAvEi3"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "The Way She Goes",
-      "url": "https://open.spotify.com/track/6V3Bv6Roj3vtfcSmJe8QMl"
-    },
-    {
-      "added_at": "2025-10-17 04:01:38",
-      "album": {
-        "name": "Dilworth",
-        "url": "https://open.spotify.com/album/1Er4uNqGhZR2G2vbEsnH4I"
-      },
-      "artists": [
-        {
-          "name": "Jutes",
-          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
-        }
-      ],
-      "duration_ms": 203928,
-      "name": "Kill or be Killed",
-      "url": "https://open.spotify.com/track/4ZAgj2AeE5hs7qgpiSdMTT"
-    },
-    {
-      "added_at": "2025-10-17 04:01:38",
-      "album": {
-        "name": "Everyone's Talking!",
-        "url": "https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "JoJo",
-          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
-        }
-      ],
-      "duration_ms": 180081,
-      "name": "Sugar (feat JoJo)",
-      "url": "https://open.spotify.com/track/3lErXBoKmIXTmqVw4CoUmI"
-    },
-    {
-      "added_at": "2025-10-17 04:01:38",
-      "album": {
-        "name": "Whoever You Are...",
-        "url": "https://open.spotify.com/album/0Uc655acjHMQyQmOa3lPFb"
-      },
-      "artists": [
-        {
-          "name": "Clothesline From Hell",
-          "url": "https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS"
-        }
-      ],
-      "duration_ms": 216825,
-      "name": "Whoever You Are...",
-      "url": "https://open.spotify.com/track/761qRKAbGfoMYNx7O7HyXf"
-    },
-    {
-      "added_at": "2025-10-17 04:01:38",
-      "album": {
-        "name": "Low Twang",
-        "url": "https://open.spotify.com/album/0WXv2eG9F3kJjC2CdKi6PC"
-      },
-      "artists": [
-        {
-          "name": "Black Pistol Fire",
-          "url": "https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo"
-        }
-      ],
-      "duration_ms": 191671,
-      "name": "Low Twang",
-      "url": "https://open.spotify.com/track/0M5GauTIWuUA2sbPE6mxkd"
-    },
-    {
-      "added_at": "2025-10-17 04:01:38",
-      "album": {
-        "name": "Awakening",
-        "url": "https://open.spotify.com/album/5BMvAjPfALFd9mnCAA02Vf"
-      },
-      "artists": [
-        {
-          "name": "Eva Under Fire",
-          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
-        }
-      ],
-      "duration_ms": 212666,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/1FD6QgRQ6KoskRxa5auxDW"
-    },
-    {
-      "added_at": "2025-10-17 04:01:38",
-      "album": {
-        "name": "scum.",
-        "url": "https://open.spotify.com/album/6DQsSccbClKSu1SRxr5fdV"
-      },
-      "artists": [
-        {
-          "name": "Fionn",
-          "url": "https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt"
-        }
-      ],
-      "duration_ms": 184746,
-      "name": "scum.",
-      "url": "https://open.spotify.com/track/2oj9rawGhSxYw8opagkA6V"
-    },
-    {
-      "added_at": "2025-10-17 04:01:38",
-      "album": {
-        "name": "Marigolds",
-        "url": "https://open.spotify.com/album/3FnKO2pR2waqyqJI4LMPWQ"
-      },
-      "artists": [
-        {
-          "name": "Beauts",
-          "url": "https://open.spotify.com/artist/5T0e5poGvNw2PmFOiMfwCO"
-        }
-      ],
-      "duration_ms": 268917,
-      "name": "The Boys Have Been Away",
-      "url": "https://open.spotify.com/track/4gPcUTwpuKdePsrqw3mUBK"
-    },
-    {
-      "added_at": "2025-10-17 04:01:38",
-      "album": {
-        "name": "Highway Song",
-        "url": "https://open.spotify.com/album/5FD0a2iSHGscyItLneLXyn"
-      },
-      "artists": [
-        {
-          "name": "Stuck On Planet Earth",
-          "url": "https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS"
-        }
-      ],
-      "duration_ms": 210521,
-      "name": "Highway Song",
-      "url": "https://open.spotify.com/track/10acjftS8WrCj0TX0XiPPv"
-    },
-    {
-      "added_at": "2025-10-17 04:01:38",
-      "album": {
-        "name": "The Program",
-        "url": "https://open.spotify.com/album/42XlvIgpTYlQMexFQcXbHl"
-      },
-      "artists": [
-        {
-          "name": "BRKN LOVE",
-          "url": "https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp"
-        }
-      ],
-      "duration_ms": 227064,
-      "name": "20/20 Vision",
-      "url": "https://open.spotify.com/track/1BLqWL5GNDp3hwaMCSbddb"
-    },
-    {
-      "added_at": "2025-10-17 04:01:38",
-      "album": {
-        "name": "Come Alive",
-        "url": "https://open.spotify.com/album/2mo1Vdao0Jz6Rn1HwbLtSh"
-      },
-      "artists": [
-        {
-          "name": "Odonis Odonis",
-          "url": "https://open.spotify.com/artist/33qVw2pK7R3Io2tMPNOIf0"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/5sXst1muQXGJwLuPazKk5Y"
     }
   ],
   "unique_name": "Rock Now",

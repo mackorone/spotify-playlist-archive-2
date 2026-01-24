@@ -761,6 +761,28 @@
     },
     {
       "album": {
+        "name": "bandida chata (original)",
+        "url": "https://open.spotify.com/album/1WiJNCtZ8MVQ2Bh7gZztEq"
+      },
+      "artists": [
+        {
+          "name": "Ana Rima",
+          "url": "https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk"
+        },
+        {
+          "name": "VITOR VRIL",
+          "url": "https://open.spotify.com/artist/1r4Ur6C9ZTPQQQXrgY1BM8"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200649,
+      "name": "Bandida chata",
+      "url": "https://open.spotify.com/track/5JcEzg4pdWcr76G0MXTqeY"
+    },
+    {
+      "album": {
         "name": "Bandidas Tamb\u00e9m Falam de Amor",
         "url": "https://open.spotify.com/album/1WUl20Dstb0rJ0Z7fcNGwz"
       },
@@ -5234,7 +5256,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 212000,
       "name": "Original",
       "url": "https://open.spotify.com/track/2mxXZMEsOT93txYtkHmWLb"

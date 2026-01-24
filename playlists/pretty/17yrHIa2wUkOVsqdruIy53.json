@@ -1,6 +1,6 @@
 {
   "description": "Die erfolgreichsten in einer Woche gestreamten Songs - alle Genres, alle Plattformen.",
-  "num_followers": 3985,
+  "num_followers": 3984,
   "original_name": "Offizielle Deutsche Streaming-Charts KW 03.2026 / German Streaming-Charts",
   "owner": {
     "name": "GfK Entertainment",
@@ -398,6 +398,10 @@
         {
           "name": "Unjaps",
           "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
+        },
+        {
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
         }
       ],
       "duration_ms": 279962,

@@ -4,7 +4,7 @@
 
 > This is Lou Rawls\. The essential tracks, all in one playlist.
 
-119 songs - 7 hr 30 min
+120 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Let's Clean Up the Ghetto \- 12" Version](https://open.spotify.com/track/4CFKakGoXoktsSKm5UENzf) | [The Philadelphia International All\-Stars](https://open.spotify.com/artist/65LAAoHRaxtbWobjZdZOuX), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE), [Archie Bell](https://open.spotify.com/artist/7f3BKwnwO2xv3zxosgVHvW), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ), [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT), [Dee Dee Sharp Gamble](https://open.spotify.com/artist/6yca6zFWEYjAzjrcch66IK) | [Ain't No Stoppin' Us Now: 50 Years of P.I.R.](https://open.spotify.com/album/3GBrRUMKcWG1noKGeW2LLc) | 8:41 | 2024-08-08 | 2024-08-14 |
 | [Let's Fall In Love All Over Again](https://open.spotify.com/track/7M9lUbA4ggamFsLG5DsiZ2) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 4:00 | 2022-06-20 |  |
 | [Lifetime Monologue \- Remastered](https://open.spotify.com/track/2k16FSV6JCJ1fCCOc0W1UP) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Edge: David Axelrod At Capitol Records 1966\-1970](https://open.spotify.com/album/5wK9u9A4mDMLy8oaZOTI9K) | 1:51 | 2022-08-17 | 2024-05-21 |
-| [Love Is A Hurtin' Thing](https://open.spotify.com/track/6vR08FrdLqK0hiC2Y75s4O) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Legendary Lou Rawls](https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2) | 2:14 | 2022-05-25 |  |
+| [Love Is A Hurtin' Thing](https://open.spotify.com/track/6vR08FrdLqK0hiC2Y75s4O) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Legendary Lou Rawls](https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2) | 2:14 | 2022-05-25 | 2026-01-24 |
+| [Love Is A Hurtin' Thing](https://open.spotify.com/track/3klpwWrBjRgEaPZrRWqqg0) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Soulin’](https://open.spotify.com/album/22qxx8jehkNry0r4Qau0uy) | 2:17 | 2026-01-24 |  |
 | [Lover's Holiday](https://open.spotify.com/track/6tasaR3rJiSdRbuA9o5xop) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Let Me Be Good to You](https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY) | 5:20 | 2022-05-25 | 2023-09-03 |
 | [Mama Told Me Not To Come](https://open.spotify.com/track/17ArYcblk6XbugVhEgNp65) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Brotherman!: Lou Rawls Sings His Hits](https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI) | 2:28 | 2022-05-25 | 2023-05-12 |
 | [Medley: Nearer My God to Thee / Touch the Hem of His Garment / Were You There](https://open.spotify.com/track/6JrftCZWM4SpeVJKFBDYGb) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [I'm Blessed](https://open.spotify.com/album/3QzhFMsQAECe4fEeoRmVXD) | 3:26 | 2023-05-16 | 2023-06-13 |

@@ -4,7 +4,7 @@
 
 > Fold time and space through sound to reach imaginary universes.
 
-377 songs - 1 day 9 hr 3 min
+378 songs - 1 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Le bracelet](https://open.spotify.com/track/04uauFxLrz9VTsqQpsGKMa) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [La Planète Sauvage \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4BF1mMXkDo1NcJCgEBXKEk) | 1:27 | 2021-10-20 | 2024-04-19 |
 | [Le Bracelet](https://open.spotify.com/track/2khUO1FMaVvGagUJpUJIwt) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [La Planète Sauvage](https://open.spotify.com/album/0hyEAwTWIDaseZAAi5t36x) | 1:27 | 2021-02-27 | 2022-04-21 |
 | [Let Me See](https://open.spotify.com/track/5c8A84d753jlBaLnsVnYR5) | [Locust](https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N) | [The Plaintive](https://open.spotify.com/album/0uGMnCKyRxq2h6YnK6zqbe) | 3:41 | 2020-09-08 | 2022-07-27 |
+| [Levva](https://open.spotify.com/track/5styiS6T2sQCqd633t5nPF) | [Øystein Skar](https://open.spotify.com/artist/3OKPHN3DCoQfCsMNjbNqRZ) | [Levva](https://open.spotify.com/album/1kq3ef4sES24rRlSF5ykao) | 4:42 | 2025-11-06 |  |
 | [Life Forms](https://open.spotify.com/track/3lmGK3UelDNbXwTCbvVKrN) | [The Future Sound of XYZ](https://open.spotify.com/artist/3gqmTTI15kx2XMhxdfxwyY) | [Life Forms](https://open.spotify.com/album/4MXUqLOKxcTFkHgF7ChgdR) | 2:30 | 2021-10-20 | 2022-10-12 |
 | [Life Forms](https://open.spotify.com/track/7hj956jJ1eIMcQJy165Kpf) | [The Future Sound of XYZ](https://open.spotify.com/artist/3gqmTTI15kx2XMhxdfxwyY) | [Life Forms](https://open.spotify.com/album/5lMabjCJifbzYeRVpep5lY) | 2:30 | 2020-07-07\* | 2022-07-24 |
 | [Life In The Circus](https://open.spotify.com/track/37BOeQy16hgtJvmTrEYRCP) | [Mars Sense](https://open.spotify.com/artist/3CzreurmyGbePnOzFceCHm) | [Life In The Circus](https://open.spotify.com/album/09fVRkCx60JbsKJVIxPjNo) | 3:18 | 2022-01-07 | 2022-07-22 |
@@ -201,7 +202,7 @@
 | [Love On A Real Train](https://open.spotify.com/track/49y78l709VxMkIcq7jUJKN) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Dream Sequence](https://open.spotify.com/album/7ALFR4o9ZXfqNVv9EOORn1) | 3:56 | 2020-07-07\* | 2025-09-06 |
 | [Love On A Real Train \- From 'Risky Business' Original Motion Picture Soundtrack](https://open.spotify.com/track/0DYCw5AZIX3S11QQUiPiqN) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Hyperborea \(Deluxe Version / Remastered 2020\)](https://open.spotify.com/album/4Mft3FkYzPHdWTmRW0yS1U) | 3:59 | 2021-10-20 | 2024-04-19 |
 | [Lueena Coast](https://open.spotify.com/track/4XdIdojsMeM1GOS77B58Hk) | [Iasos](https://open.spotify.com/artist/0BPddAP54Iq8TUSXfIMFXZ) | [Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961\-88](https://open.spotify.com/album/59fEhSfVSCMoTRMzgxbNZ0) | 4:09 | 2021-05-25 | 2022-07-06 |
-| [Lueena Coast](https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 4:12 | 2020-07-07\* |  |
+| [Lueena Coast](https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 4:12 | 2020-07-07\* | 2026-01-24 |
 | [Lune de fiel](https://open.spotify.com/track/7ApshVdWnSUX9b7RunrSKP) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [DSVII](https://open.spotify.com/album/1Pyu7uKUDKNhdsYDL82Wkg) | 3:43 | 2020-07-07\* | 2024-10-01 |
 | [Magic Fly](https://open.spotify.com/track/5PklZKzuqiUrSxgQOs40t6) | [Space](https://open.spotify.com/artist/5SmwbD3wqrybVclRKTbr1M) | [Magic Fly](https://open.spotify.com/album/5aSkXF27XnK6qPVMNO0NeW) | 4:20 | 2020-08-23 | 2021-05-27 |
 | [Mahi Mahi](https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU) | [Moonfish](https://open.spotify.com/artist/5sk1WHyEFppVeVrnR6n44T), [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb), [Riccardo Chiaberta](https://open.spotify.com/artist/5VR6i2FLaAb6IXYXzFz9C1) | [Mahi Mahi](https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC) | 3:16 | 2021-08-12 |  |

@@ -448,7 +448,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 172493,
       "name": "Azul",
       "url": "https://open.spotify.com/track/74SyH0pbKqzVlhOHOM1qNR"
@@ -988,7 +988,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 245853,
       "name": "Ceviche",
       "url": "https://open.spotify.com/track/5HCF5NaxKCb0CniAsqvzAE"
@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 174080,
       "name": "Cold Summers",
       "url": "https://open.spotify.com/track/4YabnnOnPOl4O9kxy5jsud"
@@ -1226,6 +1226,24 @@
       "duration_ms": 218003,
       "name": "Crystal Night",
       "url": "https://open.spotify.com/track/6A3MxyZsLIaG07chsY3L1q"
+    },
+    {
+      "album": {
+        "name": "Dark Horse",
+        "url": "https://open.spotify.com/album/5UFStqQaeBcbKXs5qRrZO8"
+      },
+      "artists": [
+        {
+          "name": "The Terrys",
+          "url": "https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129866,
+      "name": "Dark Horse",
+      "url": "https://open.spotify.com/track/0qUCt1uIinMkpwTm7oNYMG"
     },
     {
       "album": {
@@ -1864,7 +1882,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 160703,
       "name": "Floating By",
       "url": "https://open.spotify.com/track/1GecdBfUVVohc8wdSaHvtg"
@@ -2048,6 +2066,24 @@
       "duration_ms": 201866,
       "name": "Friend of the Devil",
       "url": "https://open.spotify.com/track/5ZLzl6T8JwqMTMdoE0nCbU"
+    },
+    {
+      "album": {
+        "name": "Minds of Our Own",
+        "url": "https://open.spotify.com/album/0cBuzW4OjcpzL8oyKuPLvJ"
+      },
+      "artists": [
+        {
+          "name": "levitation room",
+          "url": "https://open.spotify.com/artist/0SVxQVCnJn1BNUMY9ZcRO4"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217666,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/035Gwr2QzjbZIteZldAqUg"
     },
     {
       "album": {
@@ -2516,7 +2552,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 186521,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/6MoD2aTX0Yc2YjHjG7CxXf"
@@ -2847,6 +2883,24 @@
     },
     {
       "album": {
+        "name": "Yatta!",
+        "url": "https://open.spotify.com/album/14miHHQBXPPlt61Ax0SK2W"
+      },
+      "artists": [
+        {
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271247,
+      "name": "In Search of Yang",
+      "url": "https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr"
+    },
+    {
+      "album": {
         "name": "In the Country",
         "url": "https://open.spotify.com/album/25oi07QfFa1s1ZHXz453Sm"
       },
@@ -3128,7 +3182,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 185699,
       "name": "Lara",
       "url": "https://open.spotify.com/track/0ufK29CoMI8H6aWV7BXXbl"
@@ -3420,7 +3474,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 128194,
       "name": "Malibu Sunset",
       "url": "https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi"
@@ -3474,7 +3528,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 159910,
       "name": "Midnight Man",
       "url": "https://open.spotify.com/track/31vk2M79Pww97MfuEtpJ2l"
@@ -4111,6 +4165,24 @@
     },
     {
       "album": {
+        "name": "Parking Lot",
+        "url": "https://open.spotify.com/album/4h3yu2Ng1BoBrtjBz5g7zx"
+      },
+      "artists": [
+        {
+          "name": "Krooked Kings",
+          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253213,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/46ypwm5vShRtDEwARQHoNM"
+    },
+    {
+      "album": {
         "name": "Idle Labor",
         "url": "https://open.spotify.com/album/3IzLouGQA5uY4NfT6zNe3j"
       },
@@ -4324,6 +4396,24 @@
       "duration_ms": 139253,
       "name": "Pipeline",
       "url": "https://open.spotify.com/track/3Wwy5wlxd8CpKMZGc4Mgjf"
+    },
+    {
+      "album": {
+        "name": "Playful Sins",
+        "url": "https://open.spotify.com/album/5LtWxH19vd7sBZUJXzozII"
+      },
+      "artists": [
+        {
+          "name": "Camino Gold",
+          "url": "https://open.spotify.com/artist/4VbbF8VGwTH0Erx5PYg3Hi"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222380,
+      "name": "Playful Sins",
+      "url": "https://open.spotify.com/track/0FODuQjDLbTaqNIYZrEE5K"
     },
     {
       "album": {
@@ -4579,6 +4669,24 @@
     },
     {
       "album": {
+        "name": "Read My Mind",
+        "url": "https://open.spotify.com/album/2zkiJVltIWQUHL5UDOzntc"
+      },
+      "artists": [
+        {
+          "name": "LAZY GHOST",
+          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212490,
+      "name": "Read My Mind",
+      "url": "https://open.spotify.com/track/6L0BqIVT6KY4QhgDeexcrY"
+    },
+    {
+      "album": {
         "name": "Recycle",
         "url": "https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2"
       },
@@ -4594,6 +4702,24 @@
       "duration_ms": 204342,
       "name": "Recycle",
       "url": "https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI"
+    },
+    {
+      "album": {
+        "name": "Reef Prince / Better",
+        "url": "https://open.spotify.com/album/7k6qTjk4AYn47KYUmgX7AG"
+      },
+      "artists": [
+        {
+          "name": "Great Gable",
+          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187527,
+      "name": "Reef Prince",
+      "url": "https://open.spotify.com/track/0zZgOwy2A01i7f8Ye2QHDS"
     },
     {
       "album": {
@@ -4886,6 +5012,24 @@
       "duration_ms": 224266,
       "name": "Shampoo Bottles",
       "url": "https://open.spotify.com/track/2INUkDPCO1eQlOFmIN5VAC"
+    },
+    {
+      "album": {
+        "name": "Sharks",
+        "url": "https://open.spotify.com/album/3Ux3tqe169UnBo1a7gREiL"
+      },
+      "artists": [
+        {
+          "name": "Dune Rats",
+          "url": "https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221842,
+      "name": "Sharks",
+      "url": "https://open.spotify.com/track/1Q5izvlLFm6gQZyaxJHEHy"
     },
     {
       "album": {
@@ -5800,7 +5944,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 97869,
       "name": "Teasing Me",
       "url": "https://open.spotify.com/track/3UnxPLNKTutLCmgHTaZKFw"
@@ -5854,7 +5998,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 195766,
       "name": "The Beach",
       "url": "https://open.spotify.com/track/46EDkHBHvcrbvb6sCjGCwF"
@@ -6387,6 +6531,24 @@
     },
     {
       "album": {
+        "name": "We Gotta Groove (2025 Mix)",
+        "url": "https://open.spotify.com/album/3WhrPteS4a0RkneRARgAiB"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129893,
+      "name": "We Gotta Groove - 2025 Mix",
+      "url": "https://open.spotify.com/track/7xwuRnHSNZMF9cTyQ9Empv"
+    },
+    {
+      "album": {
         "name": "Dye It Blonde",
         "url": "https://open.spotify.com/album/5pez3ZFdESESBL9M5KElgt"
       },
@@ -6528,6 +6690,24 @@
       "duration_ms": 255067,
       "name": "What Once Was",
       "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
+    },
+    {
+      "album": {
+        "name": "What's Next",
+        "url": "https://open.spotify.com/album/1lowgh5rAXOT26cMX6NXaj"
+      },
+      "artists": [
+        {
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158085,
+      "name": "What's Next",
+      "url": "https://open.spotify.com/track/204AwF6xWxX2OakSgEyICI"
     },
     {
       "album": {

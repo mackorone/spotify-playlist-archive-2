@@ -4,7 +4,7 @@
 
 > Chill acoustic, mellow pop and singer\-songwriter music for focus, relaxation, studying and working\. Coffee house vibes and calm background music for a cozy café or lounge mood \|\| Rustige achtergrond afspeellijst voor ontspanning, studeren en werken, met ontspannen muziek voor een koffie tent sfeer.
 
-421 songs - 23 hr 25 min
+425 songs - 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Chill Baby](https://open.spotify.com/track/6zvbw440Wn8RzelnFVYiTk) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/0xWgd5MBL46v6Qu2qOwR6G) | 2:20 | 2025-07-18 |  |
 | [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 | 2025-10-23 | 2026-01-15 |
 | [City Woman](https://open.spotify.com/track/1i1efjJMWWPUwWoATR2gl0) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [City Woman](https://open.spotify.com/album/0cJAyLiw901DhcO7TSpftB) | 3:25 | 2025-07-18 | 2026-01-15 |
+| [Closer](https://open.spotify.com/track/7mvbNjFKdlpjnbcqocscuK) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [It Could Be Worse](https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV) | 3:35 | 2026-01-23 |  |
 | [comedown](https://open.spotify.com/track/0WP2mSrYIXEy2poZkAWlNZ) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [comedown](https://open.spotify.com/album/4r6XmJdluBTzkNjYtR3ABh) | 3:12 | 2025-07-18 | 2025-09-20 |
 | [confession](https://open.spotify.com/track/41mNpjh7C4mAzAHXOiA0fn) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [confession](https://open.spotify.com/album/20leNPAVftANfsWCY2hCfJ) | 1:24 | 2025-07-18 |  |
 | [Constellations \- Piano Version](https://open.spotify.com/track/4uTeAvKMQMqgIneew9Ic7X) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations \(Piano Version\)](https://open.spotify.com/album/4hv9qLSPvzL09HaIlL8JnP) | 3:50 | 2025-07-18 |  |
@@ -87,6 +88,7 @@
 | [Damage](https://open.spotify.com/track/63gk2AZacanF0mUg2TLfd7) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Damage](https://open.spotify.com/album/5UwzV86XAmRHDgm9BrjdEt) | 3:34 | 2025-10-15 | 2026-01-15 |
 | [Dancing With Your Ghost](https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Dancing With Your Ghost](https://open.spotify.com/album/3I677CWVoiOsbMxOQzjShB) | 3:17 | 2025-07-18 | 2025-08-23 |
 | [Dear August](https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Dear August](https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj) | 3:20 | 2025-07-18 | 2025-08-23 |
+| [Deep \(In the Plans We Made\)](https://open.spotify.com/track/5A2YuFwiUUtLNDX022x8oo) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [If You Go There, I Hope You Find It](https://open.spotify.com/album/7vULyg3RtEXYxsOulFZQ41) | 4:32 | 2026-01-23 |  |
 | [DIAMONDS FOR YOUR PAIN](https://open.spotify.com/track/6QBQ8IiJC47SHuG7omEub0) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 1:28 | 2025-07-18 |  |
 | [Did You Love Somebody](https://open.spotify.com/track/1j4BkEFGLcBysD9SbnT4ld) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Did You Love Somebody](https://open.spotify.com/album/7HYIpIJ4qfmAFqgHYOC3fR) | 4:09 | 2025-07-18 |  |
 | [Did You Love Somebody \(feat\. Sir Chloe\)](https://open.spotify.com/track/3lZhH5QiBpcPUrvSy5VfZz) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire), [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Did You Love Somebody \(feat\. Sir Chloe\)](https://open.spotify.com/album/5AiC1ESCiFpZcDxSWylVeB) | 4:08 | 2025-07-18 | 2025-08-23 |
@@ -263,6 +265,7 @@
 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-08-22 | 2025-09-27 |
 | [nicotine](https://open.spotify.com/track/1DLZRrLRu7o3vwRd6CB7m6) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:36 | 2025-07-18 | 2025-09-06 |
 | [Nobody Gets Me](https://open.spotify.com/track/0PNB53urpkoZ7XJ05d1eOz) | [May](https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE) | [Nobody Gets Me](https://open.spotify.com/album/3JDKvnr04WNWqqLqGlP0pl) | 2:43 | 2025-07-18 | 2025-08-23 |
+| [Northern Lights \- stripped](https://open.spotify.com/track/5GaIUszbX4qTATZaptbF6V) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Northern Lights \- Stripped](https://open.spotify.com/album/5PDEZDX6YgfXIWsxMUFEgP) | 2:19 | 2026-01-23 |  |
 | [Nostalgia](https://open.spotify.com/track/2efi0WZFFNF41nmC2DMlkr) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 3:03 | 2025-07-18 |  |
 | [not my job anymore](https://open.spotify.com/track/51RvOW8yfIQriPwXWlQPZW) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Me For Another Day](https://open.spotify.com/album/65LmFuLBa1yBX5yfuuOMh2) | 3:08 | 2025-07-18 |  |
 | [Not the One](https://open.spotify.com/track/4MLmchSA5LdynGpnWPuTuN) | [Ian Harrison](https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG) | [Not the One](https://open.spotify.com/album/1EcFLIT8Qu1ElLGFM1VHSz) | 3:00 | 2025-08-25 |  |
@@ -355,6 +358,7 @@
 | [Stronger](https://open.spotify.com/track/5TCXwc0Lop2zMUgc9pH90e) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Stronger](https://open.spotify.com/album/7ldW76HlTD9C08DKKB3Cga) | 2:49 | 2025-07-18 |  |
 | [Stuck In My Head](https://open.spotify.com/track/2XFW2M843o9gr7O5YQJnDp) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Silver Lining](https://open.spotify.com/album/0U1L0ymBennSrZ1LZdJPSP) | 3:39 | 2025-12-15 | 2026-01-15 |
 | [Summertime](https://open.spotify.com/track/5J5UBOJL9rNZ1atXS0RwR0) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Summertime](https://open.spotify.com/album/1DFhkzjfsiKbFJUFKIh1g2) | 3:02 | 2025-07-18 | 2025-08-09 |
+| [Sun and Moon](https://open.spotify.com/track/0q5EdEDkLB7il1NnGlshso) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [It Could Be Worse](https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV) | 3:54 | 2026-01-23 |  |
 | [Sunday Love](https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Sunday Love](https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD) | 5:16 | 2025-07-18 | 2025-08-09 |
 | [sunday morning](https://open.spotify.com/track/0YLIjEfl8SAUnFflqly1fG) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [sunday morning](https://open.spotify.com/album/2cN1R19sC4qTGn9cnv0lSZ) | 2:20 | 2025-08-01 | 2026-01-15 |
 | [Sunshine](https://open.spotify.com/track/4xlZOKbwM8kHxIjjjOqr4L) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Falling Into Place](https://open.spotify.com/album/6kiNbfqDF1N0OVOc58W2EQ) | 2:24 | 2025-07-18 |  |

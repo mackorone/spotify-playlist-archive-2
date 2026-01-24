@@ -2,9 +2,9 @@
 
 ### [Lagi Viral](https://open.spotify.com/playlist/37i9dQZF1DWWhB4HOWKFQc)
 
-> Kumpulan lagu yang sedang menyebar luas\. Cover: Rafi Sudirman
+> Kumpulan lagu yang sedang menyebar luas\. Cover: Nuca
 
-1,465 songs - 3 day 16 hr 15 min
+1,467 songs - 3 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-19 | 2025-03-14 |
 | [Act My Age](https://open.spotify.com/track/5UkRlF0Xidx4JJ5ph4za6c) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Soft](https://open.spotify.com/album/2gfh9js0PqxJnWctC4au5k) | 3:46 | 2025-10-30 | 2025-11-15 |
 | [Ada titik\-titik di ujung doa](https://open.spotify.com/track/1E7zLPDdqo0OvzVmGj5aoV) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH PENS FLASHDISKS](https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q) | 5:05 | 2025-12-24 |  |
+| [Ada Untukmu](https://open.spotify.com/track/0mG2Sq4PnmHGSMLay75bDw) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Ada Untukmu](https://open.spotify.com/album/58BtkWNrfBXX8ishPFE3d9) | 4:17 | 2026-01-23 |  |
 | [ADDICTION](https://open.spotify.com/track/62yN59Z49wkOnPByz4VzWI) | [Naomi Ivo](https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g) | [ADDICTION](https://open.spotify.com/album/7c1IM0Lwuv0NzcFAt6FVSp) | 2:29 | 2025-08-20 | 2025-10-10 |
 | [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 | 2023-12-14 | 2024-04-19 |
 | [affa iyah \(feat\. Basboi\)](https://open.spotify.com/track/2ce4QtgMJ9123s78zwprXB) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs), [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [affa iyah \(feat\. Basboi\)](https://open.spotify.com/album/4NVrxWTYO3d7ZfW4FmGo3h) | 3:40 | 2024-08-28 | 2024-10-10 |
@@ -285,7 +286,7 @@
 | [Cukup](https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Cukup](https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr) | 3:40 | 2025-02-26 | 2025-07-11 |
 | [Cukup Dewasa](https://open.spotify.com/track/1XW9zp8BY4DJbpiQhJYKc6) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Cukup Dewasa](https://open.spotify.com/album/56yIPEP86mvgwosDxhx3di) | 3:56 | 2025-05-16 | 2025-07-10 |
 | [Cukup Dewasa](https://open.spotify.com/track/5gRDE98aV8p7lbeSPp5F6T) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Cukup Dewasa](https://open.spotify.com/album/2qZcpDYlJa0rwb7OVlIb1w) | 3:56 | 2025-09-19 | 2025-10-25 |
-| [cuma satu](https://open.spotify.com/track/0xyPvz5PnEJ9CIz0jVFQ2r) | [Suisei](https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi), [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [kirohta](https://open.spotify.com/artist/3PXrisFNv2LkiFF2wuVY21) | [cuma satu](https://open.spotify.com/album/6sr5ELNXukjZENW2PQYfc0) | 2:20 | 2025-12-31 |  |
+| [cuma satu](https://open.spotify.com/track/0xyPvz5PnEJ9CIz0jVFQ2r) | [Suisei](https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi), [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [kirohta](https://open.spotify.com/artist/3PXrisFNv2LkiFF2wuVY21) | [cuma satu](https://open.spotify.com/album/6sr5ELNXukjZENW2PQYfc0) | 2:20 | 2025-12-31 | 2026-01-24 |
 | [Cuma Temen](https://open.spotify.com/track/4oSorVcw1BTJYSJYHRZbUl) | [RYO](https://open.spotify.com/artist/3nfCxDVevITHrnUT4YouD0) | [LoudeR](https://open.spotify.com/album/38y6A9ZqR14gpcrWmED8VF) | 2:24 | 2025-09-05 | 2025-10-25 |
 | [Cupid](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 | 2023-03-30 | 2023-04-04 |
 | [Cupid](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-03-30 | 2023-06-16 |
@@ -880,6 +881,7 @@
 | [No One Mourns the Wicked](https://open.spotify.com/track/0br9vcQnqeqp9PKCGsrxAF) | [Wicked Movie Cast](https://open.spotify.com/artist/3eLZo1bSslvsu0zNhtmMM4), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Andy Nyman](https://open.spotify.com/artist/2y7iH38SZLD6dIERt3Y1zD), [Courtney\-Mae Briggs](https://open.spotify.com/artist/3UgqKykDMxZdp9fhBkQFVr), [Jeff Goldblum](https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8), [Sharon D\. Clarke](https://open.spotify.com/artist/0Udc6D0PcIN5F0q7pAlDH8), [Jenna Boyd](https://open.spotify.com/artist/66HrXY5d6DerEK3QCcKO6H) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 7:27 | 2024-12-11 | 2025-01-09 |
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2024-11-22 | 2025-02-01 |
 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 | 2025-09-05 | 2025-10-10 |
+| [No Way Back \(Feat\. So!YoON!\)](https://open.spotify.com/track/6u7J7OH56kiN2A7Pfv5D0i) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [THE SIN : VANISH](https://open.spotify.com/album/62K0QHi2SjuhMe94kfYxq3) | 3:05 | 2026-01-23 |  |
 | [No where \(feat\. Feby Putri\)](https://open.spotify.com/track/6hvkkOgvHI5wbGw2wtdZ3I) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [SCRAPS](https://open.spotify.com/album/7xBLG0BG8IalE2fIwpyt85) | 3:01 | 2025-08-15 | 2025-10-25 |
 | [No\. 1 Party Anthem](https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:03 | 2024-10-09 | 2025-02-01 |
 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2023-03-23 | 2024-07-27 |
@@ -972,7 +974,7 @@
 | [Pikiran Yang Matang](https://open.spotify.com/track/4HZ4tasa7sislo5BbOOBfm) | [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [Pikiran Yang Matang](https://open.spotify.com/album/2gdKHKZfqOqGCwJiyEe2K8) | 3:12 | 2025-07-09 | 2025-10-10 |
 | [PIMMIE'S DILEMMA](https://open.spotify.com/track/3CY3zAjrxKVInh2Lq1QiRb) | [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 1:58 | 2025-03-07 | 2025-03-27 |
 | [PINOCCHIO \(feat\. So!YoON!\)](https://open.spotify.com/track/29GCuNZT4ihntQllYTPXQf) | [HxW](https://open.spotify.com/artist/1EReYiseDwE51FzGm7EK9n), [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [HxW 1st Single Album 'BEAM'](https://open.spotify.com/album/4SOFnzIWYI2JU9ypuQX2E4) | 1:45 | 2025-03-26 | 2025-04-10 |
-| [Planetarium](https://open.spotify.com/track/7c3R5KkK5l1pJNhrYKf1s5) | [Jirapah](https://open.spotify.com/artist/1ddNHmVJlB4hNba6tamgQG) | [Planetarium](https://open.spotify.com/album/5pfA6snzg0ARTP61bPw9Xi) | 8:01 | 2025-12-24 |  |
+| [Planetarium](https://open.spotify.com/track/7c3R5KkK5l1pJNhrYKf1s5) | [Jirapah](https://open.spotify.com/artist/1ddNHmVJlB4hNba6tamgQG) | [Planetarium](https://open.spotify.com/album/5pfA6snzg0ARTP61bPw9Xi) | 8:01 | 2025-12-24 | 2026-01-24 |
 | [Play With Me](https://open.spotify.com/track/0Q7K7Eel3R3xZDn1otHPif) | [Pagaehun](https://open.spotify.com/artist/4nbj2vNChfEusXKNYz7Ow7), [KKANBYEONGZ](https://open.spotify.com/artist/5RUKj25Ytovoun2IlCE7Zt) | [Play With Me](https://open.spotify.com/album/7k0GD6BShlOxIz7pnFLjAd) | 2:49 | 2024-05-27 | 2024-07-27 |
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2023-03-23 | 2023-04-14 |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-26 | 2024-08-29 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,570 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,565 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Just Can't Wait](https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Just Can't Wait](https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah) | 6:22 |
 | 2 | [Everything For You](https://open.spotify.com/track/5XMZSjx1fi2tx2GFTTaPCZ) | [Sonan](https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb), [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [No Suits](https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX) | [Everything For You](https://open.spotify.com/album/1a77Gt9vG7vSwy9iueCJqM) | 2:47 |
-| 3 | [Track 1](https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [](https://open.spotify.com/album/null) | 0:00 |
+| 3 | [In Search of Yang](https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [Yatta!](https://open.spotify.com/album/14miHHQBXPPlt61Ax0SK2W) | 4:31 |
 | 4 | [Heat](https://open.spotify.com/track/2sFhb5wOheqeUU3vAa5Nmt) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W), [evi](https://open.spotify.com/artist/4EI5KdR7Z61kYb344Pi5CC) | [Heat](https://open.spotify.com/album/4skxVlSEuG1dsgfoChLzfc) | 2:48 |
 | 5 | [Box](https://open.spotify.com/track/0iRusRtyHdPGupYmewSrQY) | [Bibi Seck](https://open.spotify.com/artist/3jANByuh8HmbbGdFR1BrEr) | [Box](https://open.spotify.com/album/30cP9CLbeq18rB7c3fZdMY) | 3:25 |
 | 6 | [Orange Wine](https://open.spotify.com/track/7gZWypmpJYDJB7DV8p0Vjk) | [Sonan](https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb), [Lynden](https://open.spotify.com/artist/5q6iGOspbddquMKyvxKQYv) | [Orange Wine](https://open.spotify.com/album/2AGeeGiuL9Sxs3ZWpnq9o1) | 3:10 |

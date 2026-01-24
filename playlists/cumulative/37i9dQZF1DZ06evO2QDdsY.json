@@ -419,6 +419,28 @@
     },
     {
       "album": {
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/5o25ZkbK19PYTefKUhCkv8"
+      },
+      "artists": [
+        {
+          "name": "Susan O'Neill",
+          "url": "https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua"
+        },
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/5FqXVTKfmWtoV9XFnhGtsj"
+    },
+    {
+      "album": {
         "name": "Friendship [Feat. Carla Thomas and Stax Music Academy]",
         "url": "https://open.spotify.com/album/5OcQ95byjeN44N1DAp3de3"
       },

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-129 songs - 7 hr 7 min
+130 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [Wash Over Me](https://open.spotify.com/track/3LLWFxfyC5SPaY08i6494p) | [The Beach Hut Sessions](https://open.spotify.com/artist/2HomAAHp1glbdhZh9UHAif), [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [The Beach Hut Sessions, Vol\. 1](https://open.spotify.com/album/1U2CXx9yQX4cOxOyOcRwyC) | 2:49 | 2024-06-13 |  |
 | [We’ll Be United](https://open.spotify.com/track/6gfWIbbvg58sGwn9xs0HW6) | [Romeo Blanco](https://open.spotify.com/artist/7oVSEUsFMvqBPpVKuRFSXQ), [Brad Mair](https://open.spotify.com/artist/4wE9wGzadw1jAgPXXSga8D) | [We’ll Be United](https://open.spotify.com/album/7FStOXLKUI6RKt61k4SEgF) | 2:58 | 2024-06-13 |  |
 | [When Your Heart Breaks](https://open.spotify.com/track/2biGgg6gebga1at1nAUAFP) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 3:33 | 2024-09-22 |  |
-| [Why Did We Say Forever](https://open.spotify.com/track/1QaiTKXFmelfj3fRenjEh6) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Why Did We Say Forever](https://open.spotify.com/album/0nlBjUtOCo1KgEJNnXZOLs) | 3:10 | 2024-09-26 |  |
+| [Why Did We Say Forever](https://open.spotify.com/track/1QaiTKXFmelfj3fRenjEh6) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Why Did We Say Forever](https://open.spotify.com/album/0nlBjUtOCo1KgEJNnXZOLs) | 3:10 | 2024-09-26 | 2026-01-24 |
+| [Why Did We Say Forever](https://open.spotify.com/track/2nTJNw0O8sLFVXInGaMKrK) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Why Did We Say Forever](https://open.spotify.com/album/2SpXCkAsZ4ZjKCFSLajWzq) | 3:10 | 2026-01-23 |  |
 | [Why Did We Say Forever](https://open.spotify.com/track/4Sr5GeXwEI5KmJn6FUteWY) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Why Did We Say Forever](https://open.spotify.com/album/5tpyqyX2NAwpuELhtkRN07) | 3:10 | 2024-06-13 | 2024-09-27 |
 | [Wiersz Na Szkle](https://open.spotify.com/track/19gAeD3VrmLtPgAA9d9yun) | [Adam Kubera](https://open.spotify.com/artist/6Wac9kvo37JBxgkSS8LRXU) | [Wiersz Na Szkle](https://open.spotify.com/album/7pgMoAox0KApuvFljDbpyL) | 3:40 | 2024-06-13 |  |
 | [Wilder Days](https://open.spotify.com/track/7yiZtUUC5lPtoUxF5s0KH1) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Wilder Days EP](https://open.spotify.com/album/6XuJT50OLcO7j3oLNZM6Q3) | 3:37 | 2024-09-14 |  |

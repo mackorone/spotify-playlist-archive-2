@@ -1,12 +1,12 @@
 {
   "description": "New music from Harry Styles, Joji, Tomok, Siti Nordiana, Apit Tearra, ChronicalZ, Noh Salleh, and more!",
-  "num_followers": 72200,
+  "num_followers": 72323,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMZuGAnxYM+SwF2FkjAeSIGClkE/",
+  "snapshot_id": "AAAAAONQsEO64bwqcOonGUFOt3QLsW1L",
   "tracks": [
     {
       "added_at": "2026-01-23 00:01:29",
@@ -132,7 +132,7 @@
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 243809,
+      "duration_ms": 226666,
       "name": "scared",
       "url": "https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB"
     },
@@ -209,10 +209,26 @@
       "url": "https://open.spotify.com/track/4iu11uPXYHUJaq5vr9cLwW"
     },
     {
+      "added_at": "2026-01-23 09:00:29",
+      "album": {
+        "name": "ROSES",
+        "url": "https://open.spotify.com/album/3bIZ5FREocfX2tLIUnnOdr"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "ROSES",
+      "url": "https://open.spotify.com/track/6u0b2IZ23RxH18ZsvGRbme"
+    },
+    {
       "added_at": "2026-01-22 16:00:09",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "THE CORE - \u6838",
+        "url": "https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw"
       },
       "artists": [
         {
@@ -471,8 +487,8 @@
     {
       "added_at": "2026-01-22 16:00:09",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Through Thick & Thin",
+        "url": "https://open.spotify.com/album/5e7Ss3pOjpbM0Q3bXNZGE6"
       },
       "artists": [
         {
@@ -480,8 +496,8 @@
           "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 168292,
+      "name": "Times Like This",
       "url": "https://open.spotify.com/track/5Q9uXyP4fZpvyVPxnbi9zD"
     },
     {
@@ -1061,6 +1077,22 @@
       "url": "https://open.spotify.com/track/3G600027WLRbsunHeYJ5G2"
     },
     {
+      "added_at": "2026-01-23 09:00:29",
+      "album": {
+        "name": "white spring",
+        "url": "https://open.spotify.com/album/2MEB999yzrd3rNghmvCkwl"
+      },
+      "artists": [
+        {
+          "name": "MOMOLAND",
+          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "white spring",
+      "url": "https://open.spotify.com/track/3eNaNlSXrOg7aOwtIwtxZk"
+    },
+    {
       "added_at": "2026-01-22 16:00:09",
       "album": {
         "name": "CALL ME BACK",
@@ -1231,8 +1263,8 @@
     {
       "added_at": "2026-01-22 16:00:09",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Boycott Heaven",
+        "url": "https://open.spotify.com/album/4yMJnpezQRZr8MIkNUor1M"
       },
       "artists": [
         {
@@ -1263,8 +1295,8 @@
     {
       "added_at": "2026-01-22 16:00:09",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "IT\u2019S NOT REAL",
+        "url": "https://open.spotify.com/album/4CgtqiWC5y8aKhZkCFZsqT"
       },
       "artists": [
         {
@@ -1371,8 +1403,8 @@
     {
       "added_at": "2026-01-22 16:00:09",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "BUT, IT'S OKAY.",
+        "url": "https://open.spotify.com/album/6RHRp63nNfQIspQxRtLj7s"
       },
       "artists": [
         {

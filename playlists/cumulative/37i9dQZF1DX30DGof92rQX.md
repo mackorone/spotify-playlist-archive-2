@@ -4,7 +4,7 @@
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Talal Qureshi, Taha G
 
-411 songs - 21 hr 34 min
+412 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Asim Ali](https://open.spotify.com/track/6T7PpWbGFxy092blOmTlMd) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Asim Ali](https://open.spotify.com/album/1jwD9DRyItX9qyVSpTDB0Y) | 3:55 | 2025-11-27 |  |
 | [asra](https://open.spotify.com/track/69qum2btpInkYmCPXWDY4V) | [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP), [prod\. Azlan](https://open.spotify.com/artist/6KmPXJIN3kpZx5dPL39Nxt) | [asra](https://open.spotify.com/album/6xw8Z1GLVFtokEPnduIIva) | 4:27 | 2025-12-23 |  |
 | [AURA](https://open.spotify.com/track/3vIkeyO6RXeFlRRJ4wxX3Z) | [Abdullah Khan](https://open.spotify.com/artist/2e8YlII8TbOMh0JJ6OstPr) | [AURA](https://open.spotify.com/album/2fWzk1Wdx3oIWvtcCeajs9) | 2:06 | 2025-09-09 | 2025-10-04 |
+| [Awaara](https://open.spotify.com/track/5Ns4aGNInVLUTGv6FNMGrI) | [Fakhar Anjum](https://open.spotify.com/artist/1nC5tVdFsI5uHCzZAyvH0p) | [Awaara](https://open.spotify.com/album/4C8jHXBFG09uQ4pI7fSKq5) | 2:26 | 2026-01-23 |  |
 | [Awazein](https://open.spotify.com/track/21FsCvvfIcIJ2Ro0FaZVhB) | [Amna Askari](https://open.spotify.com/artist/1APOwzQ3mP56pRkFIueZbh) | [Awazein](https://open.spotify.com/album/6ba06qKiokFmgg7zg6Sz3o) | 3:07 | 2024-11-07 | 2025-01-17 |
 | [Baatein Na Bana](https://open.spotify.com/track/2ac5COleg8NDirS7ATkkK2) | [Kashmir](https://open.spotify.com/artist/3BaXohQuxIv7oZGuHEBuLt), [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285) | [Baatein Na Bana](https://open.spotify.com/album/2cgmjEKssOpbLgDVrOhCW3) | 3:02 | 2025-09-09 | 2025-11-21 |
 | [babu](https://open.spotify.com/track/35E2OUOy1POX7TlpujvSNB) | [bitrees](https://open.spotify.com/artist/1yPiZF9ZTUZImr0zBoNogb) | [political pollution](https://open.spotify.com/album/6DvoAkju3axxF6zsEWOvhU) | 2:26 | 2024-09-09 | 2024-09-14 |

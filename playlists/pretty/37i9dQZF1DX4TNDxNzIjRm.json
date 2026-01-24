@@ -1,6 +1,6 @@
 {
   "description": "Cuando el jangueo est\u00e1 mejor que la fiesta. Hanging out jams.",
-  "num_followers": 1310911,
+  "num_followers": 1310728,
   "original_name": "Jangueo",
   "owner": {
     "name": "Spotify",
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 237117,
-      "name": "DtMF",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+      "duration_ms": 367725,
+      "name": "BAILE INoLVIDABLE",
+      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
     },
     {
       "added_at": "2026-01-19 17:37:14",
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 367725,
-      "name": "BAILE INoLVIDABLE",
-      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
       "added_at": "2026-01-19 17:37:14",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-01-19 17:37:14",
       "album": {
-        "name": "LOVE",
-        "url": "https://open.spotify.com/album/5mgrmxXmQpIwXyEwXzou29"
-      },
-      "artists": [
-        {
-          "name": "Clarent",
-          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/3YmFH8V7TUtLAYhnlswkdQ"
-    },
-    {
-      "added_at": "2026-01-19 17:37:14",
-      "album": {
         "name": "Meneo",
         "url": "https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 241564,
       "name": "Chula Vente",
       "url": "https://open.spotify.com/track/2AWY8422GKdGpGw6ejB1Ys"
+    },
+    {
+      "added_at": "2026-01-19 17:37:14",
+      "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/5mgrmxXmQpIwXyEwXzou29"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/3YmFH8V7TUtLAYhnlswkdQ"
     },
     {
       "added_at": "2026-01-19 17:37:14",
@@ -1083,22 +1083,18 @@
     {
       "added_at": "2026-01-19 17:37:14",
       "album": {
-        "name": "Quiero Decirte",
-        "url": "https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar"
+        "name": "DELIRIUM",
+        "url": "https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6"
       },
       "artists": [
         {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 222348,
-      "name": "Quiero Decirte",
-      "url": "https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND"
+      "duration_ms": 182256,
+      "name": "/Turistico",
+      "url": "https://open.spotify.com/track/2vzf4z67gX8v7MntugFLXx"
     },
     {
       "added_at": "2026-01-19 17:37:14",
@@ -1119,6 +1115,26 @@
       "duration_ms": 267268,
       "name": "Mejores Jordans 2",
       "url": "https://open.spotify.com/track/6RYsDCdeXeWK2bsCtYXLgy"
+    },
+    {
+      "added_at": "2026-01-19 17:37:14",
+      "album": {
+        "name": "Quiero Decirte",
+        "url": "https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 222348,
+      "name": "Quiero Decirte",
+      "url": "https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND"
     },
     {
       "added_at": "2026-01-19 17:37:14",
@@ -1171,18 +1187,22 @@
     {
       "added_at": "2026-01-19 17:37:14",
       "album": {
-        "name": "DELIRIUM",
-        "url": "https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6"
+        "name": "Paris Hilton",
+        "url": "https://open.spotify.com/album/1xkYfIxGzzvh4AMrDwlXSU"
       },
       "artists": [
         {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "$HUPE",
+          "url": "https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
         }
       ],
-      "duration_ms": 182256,
-      "name": "/Turistico",
-      "url": "https://open.spotify.com/track/2vzf4z67gX8v7MntugFLXx"
+      "duration_ms": 162795,
+      "name": "Paris Hilton",
+      "url": "https://open.spotify.com/track/7ed8tIVWqNumP9WtpT2c44"
     },
     {
       "added_at": "2026-01-19 17:37:14",
@@ -1207,26 +1227,6 @@
       "duration_ms": 208730,
       "name": "Hips Don't Lie - Spotify Anniversary Version",
       "url": "https://open.spotify.com/track/2oaGtVSJwivQkslaiDXOTr"
-    },
-    {
-      "added_at": "2026-01-19 17:37:14",
-      "album": {
-        "name": "Paris Hilton",
-        "url": "https://open.spotify.com/album/1xkYfIxGzzvh4AMrDwlXSU"
-      },
-      "artists": [
-        {
-          "name": "$HUPE",
-          "url": "https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 162795,
-      "name": "Paris Hilton",
-      "url": "https://open.spotify.com/track/7ed8tIVWqNumP9WtpT2c44"
     },
     {
       "added_at": "2026-01-19 17:37:14",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2026-01-19 17:37:14",
       "album": {
-        "name": "0%",
-        "url": "https://open.spotify.com/album/4Lmw0FUroBjdg1Hw3y1ctZ"
-      },
-      "artists": [
-        {
-          "name": "SANTOS BRAVOS",
-          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
-        }
-      ],
-      "duration_ms": 173666,
-      "name": "0%",
-      "url": "https://open.spotify.com/track/0V91BVy8lD7xoxQBNajPiu"
-    },
-    {
-      "added_at": "2026-01-19 17:37:14",
-      "album": {
         "name": "DELIRIUM",
         "url": "https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 202823,
       "name": "/Nachica",
       "url": "https://open.spotify.com/track/4cU0wBWkkczqC9WwU8ki1d"
+    },
+    {
+      "added_at": "2026-01-19 17:37:14",
+      "album": {
+        "name": "0%",
+        "url": "https://open.spotify.com/album/4Lmw0FUroBjdg1Hw3y1ctZ"
+      },
+      "artists": [
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        }
+      ],
+      "duration_ms": 173666,
+      "name": "0%",
+      "url": "https://open.spotify.com/track/0V91BVy8lD7xoxQBNajPiu"
     },
     {
       "added_at": "2026-01-19 17:37:14",
@@ -2115,6 +2115,22 @@
     {
       "added_at": "2026-01-19 17:37:14",
       "album": {
+        "name": "C\u00d3DiGOS DE MU\u00d1EKA",
+        "url": "https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 133535,
+      "name": "iGO",
+      "url": "https://open.spotify.com/track/6E9kUXTTx2JMv4BtTF29vz"
+    },
+    {
+      "added_at": "2026-01-19 17:37:14",
+      "album": {
         "name": "Celosa",
         "url": "https://open.spotify.com/album/4U98hPFmBA89MrkxPgaa23"
       },
@@ -2135,22 +2151,6 @@
     {
       "added_at": "2026-01-19 17:37:14",
       "album": {
-        "name": "C\u00d3DiGOS DE MU\u00d1EKA",
-        "url": "https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 133535,
-      "name": "iGO",
-      "url": "https://open.spotify.com/track/6E9kUXTTx2JMv4BtTF29vz"
-    },
-    {
-      "added_at": "2026-01-19 17:37:14",
-      "album": {
         "name": "MALDAD",
         "url": "https://open.spotify.com/album/1JYbriQSB62WblO44Y1Ojd"
       },
@@ -2163,6 +2163,26 @@
       "duration_ms": 183000,
       "name": "MALDAD",
       "url": "https://open.spotify.com/track/4gqj2SjyYNBBsaNbTy3nL2"
+    },
+    {
+      "added_at": "2026-01-19 17:37:14",
+      "album": {
+        "name": "pasarella \ud83d\udc60",
+        "url": "https://open.spotify.com/album/0DVus7APZKK2eIUkjkt0Md"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
+        }
+      ],
+      "duration_ms": 162245,
+      "name": "pasarella \ud83d\udc60",
+      "url": "https://open.spotify.com/track/67vjKw6LVD5wewFuoC1215"
     },
     {
       "added_at": "2026-01-19 17:37:14",
@@ -2187,26 +2207,6 @@
       "duration_ms": 247106,
       "name": "TANTAS FOTOS",
       "url": "https://open.spotify.com/track/7MQbWp2OENHaQzvJDinqYI"
-    },
-    {
-      "added_at": "2026-01-19 17:37:14",
-      "album": {
-        "name": "pasarella \ud83d\udc60",
-        "url": "https://open.spotify.com/album/0DVus7APZKK2eIUkjkt0Md"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Six Sex",
-          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
-        }
-      ],
-      "duration_ms": 162245,
-      "name": "pasarella \ud83d\udc60",
-      "url": "https://open.spotify.com/track/67vjKw6LVD5wewFuoC1215"
     },
     {
       "added_at": "2026-01-19 17:37:14",

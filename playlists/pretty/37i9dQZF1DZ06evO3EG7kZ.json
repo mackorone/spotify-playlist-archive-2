@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 50537,
+  "num_followers": 50542,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXAXAAAAAACIe7qK8Yqe5lwGg9sibHyh",
+  "snapshot_id": "aXFogAAAAADNXsw2rKZhvrL8+GnZIBPo",
   "tracks": [
     {
       "added_at": null,
@@ -215,26 +215,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Verandah Santa",
-        "url": "https://open.spotify.com/album/1VtjNoLr9baoamWZSnmYyJ"
+        "name": "Le g\u00e9n\u00e9rique de Bluey (French Version)",
+        "url": "https://open.spotify.com/album/2skjS457RIBNEkIaaL7yQi"
       },
       "artists": [
         {
           "name": "Bluey",
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        },
-        {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
-        },
-        {
-          "name": "Joseph Twist",
-          "url": "https://open.spotify.com/artist/4vqRn6DNiHVKFn8CEdNpW9"
         }
       ],
-      "duration_ms": 166421,
-      "name": "Let's Play Verandah Santa",
-      "url": "https://open.spotify.com/track/5RHu1lEOgISB5oPiU34clO"
+      "duration_ms": 64311,
+      "name": "Le g\u00e9n\u00e9rique de Bluey (French Version)",
+      "url": "https://open.spotify.com/track/3P3vNQ95AdWgnr5YGmYdhk"
     },
     {
       "added_at": null,
@@ -307,18 +299,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le g\u00e9n\u00e9rique de Bluey (French Version)",
-        "url": "https://open.spotify.com/album/2skjS457RIBNEkIaaL7yQi"
+        "name": "Verandah Santa",
+        "url": "https://open.spotify.com/album/1VtjNoLr9baoamWZSnmYyJ"
       },
       "artists": [
         {
           "name": "Bluey",
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        },
+        {
+          "name": "Joseph Twist",
+          "url": "https://open.spotify.com/artist/4vqRn6DNiHVKFn8CEdNpW9"
         }
       ],
-      "duration_ms": 64311,
-      "name": "Le g\u00e9n\u00e9rique de Bluey (French Version)",
-      "url": "https://open.spotify.com/track/3P3vNQ95AdWgnr5YGmYdhk"
+      "duration_ms": 166421,
+      "name": "Let's Play Verandah Santa",
+      "url": "https://open.spotify.com/track/5RHu1lEOgISB5oPiU34clO"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 111923,
+  "num_followers": 111939,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
@@ -743,26 +743,6 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
-        "name": "No Te das Cuenta",
-        "url": "https://open.spotify.com/album/5IfUGxWQMzNzLc8NtgtaqC"
-      },
-      "artists": [
-        {
-          "name": "Magui Olave",
-          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
-        },
-        {
-          "name": "Dale Q' Va",
-          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
-        }
-      ],
-      "duration_ms": 244378,
-      "name": "No Te das Cuenta",
-      "url": "https://open.spotify.com/track/06vi5yYRhFBRoaD5E0fJTt"
-    },
-    {
-      "added_at": "2025-07-18 03:00:26",
-      "album": {
         "name": "Castigo",
         "url": "https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 166736,
       "name": "Castigo",
       "url": "https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh"
+    },
+    {
+      "added_at": "2025-07-18 03:00:26",
+      "album": {
+        "name": "No Te das Cuenta",
+        "url": "https://open.spotify.com/album/5IfUGxWQMzNzLc8NtgtaqC"
+      },
+      "artists": [
+        {
+          "name": "Magui Olave",
+          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
+        },
+        {
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        }
+      ],
+      "duration_ms": 244378,
+      "name": "No Te das Cuenta",
+      "url": "https://open.spotify.com/track/06vi5yYRhFBRoaD5E0fJTt"
     },
     {
       "added_at": "2025-07-18 03:00:26",
@@ -1071,22 +1071,18 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
-        "name": "Ke Ganas de No Verte Nunca M\u00e1s",
-        "url": "https://open.spotify.com/album/196Wc6ZS9a9HR9ssndsO52"
+        "name": "Ya No Vives en M\u00ed",
+        "url": "https://open.spotify.com/album/5ohmkNgIZFdrcK5ORDGuxu"
       },
       "artists": [
         {
-          "name": "Miss Bolivia",
-          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
-        },
-        {
-          "name": "ROMEA",
-          "url": "https://open.spotify.com/artist/59sdqs9Q6lzOj4PXXKp8I1"
+          "name": "Deborah Chauque",
+          "url": "https://open.spotify.com/artist/3s6HY0BAcnK8OjIXQnfTle"
         }
       ],
-      "duration_ms": 142517,
-      "name": "Ke Ganas de No Verte Nunca M\u00e1s",
-      "url": "https://open.spotify.com/track/140I2RxPbPhFvBn1CiYGY3"
+      "duration_ms": 182728,
+      "name": "Ya No Vives en M\u00ed",
+      "url": "https://open.spotify.com/track/1WIWF8JFYthRZQsUdqXK0v"
     },
     {
       "added_at": "2025-07-18 03:00:26",
@@ -1139,18 +1135,22 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
-        "name": "Ya No Vives en M\u00ed",
-        "url": "https://open.spotify.com/album/5ohmkNgIZFdrcK5ORDGuxu"
+        "name": "Ke Ganas de No Verte Nunca M\u00e1s",
+        "url": "https://open.spotify.com/album/196Wc6ZS9a9HR9ssndsO52"
       },
       "artists": [
         {
-          "name": "Deborah Chauque",
-          "url": "https://open.spotify.com/artist/3s6HY0BAcnK8OjIXQnfTle"
+          "name": "Miss Bolivia",
+          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
+        },
+        {
+          "name": "ROMEA",
+          "url": "https://open.spotify.com/artist/59sdqs9Q6lzOj4PXXKp8I1"
         }
       ],
-      "duration_ms": 182728,
-      "name": "Ya No Vives en M\u00ed",
-      "url": "https://open.spotify.com/track/1WIWF8JFYthRZQsUdqXK0v"
+      "duration_ms": 142517,
+      "name": "Ke Ganas de No Verte Nunca M\u00e1s",
+      "url": "https://open.spotify.com/track/140I2RxPbPhFvBn1CiYGY3"
     }
   ],
   "unique_name": "Cumbieras",

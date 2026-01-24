@@ -1,12 +1,12 @@
 {
   "description": "The freshest house music | Submit via Instagram: @subshiftmusic",
-  "num_followers": 15048,
+  "num_followers": 15050,
   "original_name": "SUBSHIFT SELECTS",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "AAAnmjwgtlTdnCSHWnmMYY73Q33Qzijb",
+  "snapshot_id": "AAAnvpbCdGeyDias12HBee6VP44dLrpy",
   "tracks": [
     {
       "added_at": "2026-01-16 00:15:45",
@@ -101,44 +101,20 @@
       "url": "https://open.spotify.com/track/3TCmo9oC5hlzCGzlTFZ0u5"
     },
     {
-      "added_at": "2026-01-17 10:02:56",
+      "added_at": "2026-01-23 15:00:49",
       "album": {
-        "name": "Smack That",
-        "url": "https://open.spotify.com/album/2KdxHZiQgGK4wq9HvBF6yr"
+        "name": "Lemme Talk",
+        "url": "https://open.spotify.com/album/4mbqGioeSTNfqJY3iFXm9x"
       },
       "artists": [
         {
-          "name": "Lee Foss",
-          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
-        },
-        {
-          "name": "POLOVICH",
-          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
+          "name": "Cave Studio",
+          "url": "https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE"
         }
       ],
-      "duration_ms": 225230,
-      "name": "Smack That",
-      "url": "https://open.spotify.com/track/3ArJ5pPOS5n6iv6pTWElew"
-    },
-    {
-      "added_at": "2026-01-17 10:03:35",
-      "album": {
-        "name": "The Factory VA Vol. 2",
-        "url": "https://open.spotify.com/album/3GhXB8ugQvxF3NNrf47XnO"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9ssous",
-          "url": "https://open.spotify.com/artist/48vWKWt7Ip4hTNQmfE7vlA"
-        },
-        {
-          "name": "AJK (US)",
-          "url": "https://open.spotify.com/artist/3DWDq9siRUkW6n9geTbtIm"
-        }
-      ],
-      "duration_ms": 189767,
-      "name": "Low Low",
-      "url": "https://open.spotify.com/track/1FbcvMS4swPMr6bBHB66Xx"
+      "duration_ms": 158769,
+      "name": "Lemme Talk - Original Mix",
+      "url": "https://open.spotify.com/track/6klDHpbeHfjCL7CjAkTetE"
     },
     {
       "added_at": "2025-10-31 16:49:34",
@@ -161,20 +137,92 @@
       "url": "https://open.spotify.com/track/0p4fVoWXtS4IINstVnnNr0"
     },
     {
-      "added_at": "2025-12-19 09:03:25",
+      "added_at": "2026-01-23 15:04:46",
       "album": {
-        "name": "Push The Tempo",
-        "url": "https://open.spotify.com/album/0wry3AjZv7SqoWFvD2pS5L"
+        "name": "RITZ",
+        "url": "https://open.spotify.com/album/4eai8F4RLUMtak4NwX3WzP"
       },
       "artists": [
         {
-          "name": "VOLAC",
-          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+          "name": "Ragie Ban",
+          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
         }
       ],
-      "duration_ms": 192461,
-      "name": "Push The Tempo",
-      "url": "https://open.spotify.com/track/0g3HkEi8QHitdZJQhylxCh"
+      "duration_ms": 182325,
+      "name": "RITZ",
+      "url": "https://open.spotify.com/track/3VMI6UnnxERt2vnRW6SY3U"
+    },
+    {
+      "added_at": "2026-01-23 15:01:17",
+      "album": {
+        "name": "909",
+        "url": "https://open.spotify.com/album/2zfkzIFCFlf9aycZyiFUxT"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Danny P",
+          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "909",
+      "url": "https://open.spotify.com/track/2NNyqVX63BJq603V80uBCf"
+    },
+    {
+      "added_at": "2026-01-17 10:02:56",
+      "album": {
+        "name": "Smack That",
+        "url": "https://open.spotify.com/album/2KdxHZiQgGK4wq9HvBF6yr"
+      },
+      "artists": [
+        {
+          "name": "Lee Foss",
+          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        {
+          "name": "POLOVICH",
+          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "Smack That",
+      "url": "https://open.spotify.com/track/3ArJ5pPOS5n6iv6pTWElew"
+    },
+    {
+      "added_at": "2026-01-23 15:01:02",
+      "album": {
+        "name": "Bang That",
+        "url": "https://open.spotify.com/album/73s8sslEkwHlhjshOg3RbI"
+      },
+      "artists": [
+        {
+          "name": "Dansyn",
+          "url": "https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv"
+        }
+      ],
+      "duration_ms": 170898,
+      "name": "Bang That",
+      "url": "https://open.spotify.com/track/1ZLOK7hel7evmw4zrDC3Gs"
+    },
+    {
+      "added_at": "2026-01-23 15:00:42",
+      "album": {
+        "name": "Funk It",
+        "url": "https://open.spotify.com/album/6bswOpzum6jtETRM3oFHJY"
+      },
+      "artists": [
+        {
+          "name": "Braydon Terzo",
+          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
+        }
+      ],
+      "duration_ms": 228188,
+      "name": "Funk It",
+      "url": "https://open.spotify.com/track/3yFovGJTvTbV1JlbWhvh1y"
     },
     {
       "added_at": "2025-04-11 08:51:23",
@@ -193,72 +241,72 @@
       "url": "https://open.spotify.com/track/6dbca3nF7J8wdRdf6PYMNq"
     },
     {
-      "added_at": "2025-12-19 09:02:49",
+      "added_at": "2026-01-17 10:03:35",
       "album": {
-        "name": "That's It",
-        "url": "https://open.spotify.com/album/2MSB3tPwJQqzGwQV3Gpyn8"
+        "name": "The Factory VA Vol. 2",
+        "url": "https://open.spotify.com/album/3GhXB8ugQvxF3NNrf47XnO"
       },
       "artists": [
         {
-          "name": "Edris Omar",
-          "url": "https://open.spotify.com/artist/2J8mxO9N8VSXiaOk7A6cJE"
-        }
-      ],
-      "duration_ms": 184620,
-      "name": "That's It",
-      "url": "https://open.spotify.com/track/2IPj5epvs8RHszRf9ddjHS"
-    },
-    {
-      "added_at": "2025-12-19 09:02:25",
-      "album": {
-        "name": "Touch It",
-        "url": "https://open.spotify.com/album/05anKE7TRV73zvmE6eQyko"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 212336,
-      "name": "Touch It",
-      "url": "https://open.spotify.com/track/1dw6NEuLrDfbbKa5WHYmSl"
-    },
-    {
-      "added_at": "2025-12-05 09:18:20",
-      "album": {
-        "name": "EZ (feat. Puku)",
-        "url": "https://open.spotify.com/album/1VRoccWTmZMUlRGRM0KBxo"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+          "name": "M\u00e9ssous",
+          "url": "https://open.spotify.com/artist/48vWKWt7Ip4hTNQmfE7vlA"
         },
         {
-          "name": "Puku",
-          "url": "https://open.spotify.com/artist/2V9pDaYdBePMB9EoKkhOf9"
+          "name": "AJK (US)",
+          "url": "https://open.spotify.com/artist/3DWDq9siRUkW6n9geTbtIm"
         }
       ],
-      "duration_ms": 178038,
-      "name": "EZ (feat. Puku)",
-      "url": "https://open.spotify.com/track/002dBRKtXSr5Iajr6hAd1f"
+      "duration_ms": 189767,
+      "name": "Low Low",
+      "url": "https://open.spotify.com/track/1FbcvMS4swPMr6bBHB66Xx"
     },
     {
-      "added_at": "2026-01-17 10:03:26",
+      "added_at": "2025-12-19 09:03:25",
       "album": {
-        "name": "Hot Spot",
-        "url": "https://open.spotify.com/album/2LWDtH3hzP2zMvIqQ4dJU2"
+        "name": "Push The Tempo",
+        "url": "https://open.spotify.com/album/0wry3AjZv7SqoWFvD2pS5L"
       },
       "artists": [
         {
-          "name": "Blank Sense",
-          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
         }
       ],
-      "duration_ms": 168750,
-      "name": "Hot Spot",
-      "url": "https://open.spotify.com/track/0tKvByjw9n564lR0SjtBnx"
+      "duration_ms": 192461,
+      "name": "Push The Tempo",
+      "url": "https://open.spotify.com/track/0g3HkEi8QHitdZJQhylxCh"
+    },
+    {
+      "added_at": "2026-01-23 15:01:34",
+      "album": {
+        "name": "Lavender Town",
+        "url": "https://open.spotify.com/album/7u5OjlQCGB943E2WPF5Lws"
+      },
+      "artists": [
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        }
+      ],
+      "duration_ms": 173538,
+      "name": "Lavender Town",
+      "url": "https://open.spotify.com/track/47e1s0cxP19dr4l3dOAcqv"
+    },
+    {
+      "added_at": "2026-01-23 15:00:53",
+      "album": {
+        "name": "Vision",
+        "url": "https://open.spotify.com/album/5cvmFijeT5wI6B6Shy1LBl"
+      },
+      "artists": [
+        {
+          "name": "Mauro Venti",
+          "url": "https://open.spotify.com/artist/1EYRcS75munXqQbWsZ0HVd"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "I Don't Need Nobody",
+      "url": "https://open.spotify.com/track/157WqoK6Q8y17d8MpivlFU"
     },
     {
       "added_at": "2025-08-29 07:53:26",
@@ -279,6 +327,106 @@
       "duration_ms": 151384,
       "name": "Big Bad Sound",
       "url": "https://open.spotify.com/track/79lJ78VF91JSP4mQz44feU"
+    },
+    {
+      "added_at": "2026-01-23 15:01:30",
+      "album": {
+        "name": "TOOLS 4 HARDWORKERS 006",
+        "url": "https://open.spotify.com/album/5kqrsFdNSEup2N3bshTjPZ"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        },
+        {
+          "name": "MC Rog\u00ea",
+          "url": "https://open.spotify.com/artist/3nD4yj5ojI0Xts9fhWw8ui"
+        }
+      ],
+      "duration_ms": 364937,
+      "name": "Sem Essa de Perder",
+      "url": "https://open.spotify.com/track/0KCIs7w9HKeoRqseTf0jdH"
+    },
+    {
+      "added_at": "2025-12-19 09:02:49",
+      "album": {
+        "name": "That's It",
+        "url": "https://open.spotify.com/album/2MSB3tPwJQqzGwQV3Gpyn8"
+      },
+      "artists": [
+        {
+          "name": "Edris Omar",
+          "url": "https://open.spotify.com/artist/2J8mxO9N8VSXiaOk7A6cJE"
+        }
+      ],
+      "duration_ms": 184620,
+      "name": "That's It",
+      "url": "https://open.spotify.com/track/2IPj5epvs8RHszRf9ddjHS"
+    },
+    {
+      "added_at": "2026-01-17 10:03:26",
+      "album": {
+        "name": "Hot Spot",
+        "url": "https://open.spotify.com/album/2LWDtH3hzP2zMvIqQ4dJU2"
+      },
+      "artists": [
+        {
+          "name": "Blank Sense",
+          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Hot Spot",
+      "url": "https://open.spotify.com/track/0tKvByjw9n564lR0SjtBnx"
+    },
+    {
+      "added_at": "2026-01-23 15:01:00",
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/1aBJSTjI0YP88ZUZRabB6X"
+      },
+      "artists": [
+        {
+          "name": "DJ Susan",
+          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/3z6iNWPSuT1YeytMUNlqkP"
+    },
+    {
+      "added_at": "2025-05-29 23:01:30",
+      "album": {
+        "name": "Twisted",
+        "url": "https://open.spotify.com/album/4364SmixuDHP9XAupp2Uv5"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/34QR6gBe0QbYg8gDnzuv7P"
+    },
+    {
+      "added_at": "2026-01-23 15:03:48",
+      "album": {
+        "name": "Mambos",
+        "url": "https://open.spotify.com/album/4HikS1roRtAhmCrFlSrvpM"
+      },
+      "artists": [
+        {
+          "name": "LIGHTLEAK",
+          "url": "https://open.spotify.com/artist/1gU6WyJYdljeam0N3ZpgOC"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Mambos",
+      "url": "https://open.spotify.com/track/3gFVvoIXxZkvCd8JhyovgY"
     },
     {
       "added_at": "2026-01-17 10:02:58",
@@ -317,26 +465,6 @@
       "url": "https://open.spotify.com/track/31YCj2AQ7DMeMLVvtwfxhM"
     },
     {
-      "added_at": "2025-12-05 09:18:23",
-      "album": {
-        "name": "Another Hit",
-        "url": "https://open.spotify.com/album/6U9TTmxdR9b8RxNJGsRdvq"
-      },
-      "artists": [
-        {
-          "name": "NAAR (US)",
-          "url": "https://open.spotify.com/artist/2MNWqxfraxtx61tyxwzyqq"
-        },
-        {
-          "name": "Parker Page",
-          "url": "https://open.spotify.com/artist/1jRRjPpIYv5Wzbu4oyNSwb"
-        }
-      ],
-      "duration_ms": 195589,
-      "name": "Another Hit",
-      "url": "https://open.spotify.com/track/4EczT6jRDLgPgqfo1CWmhK"
-    },
-    {
       "added_at": "2026-01-17 10:03:33",
       "album": {
         "name": "Life Is Just 4 Fun EP",
@@ -353,38 +481,6 @@
       "url": "https://open.spotify.com/track/27jDEKr90ftNzfXnQwZLlL"
     },
     {
-      "added_at": "2025-05-29 23:01:30",
-      "album": {
-        "name": "Twisted",
-        "url": "https://open.spotify.com/album/4364SmixuDHP9XAupp2Uv5"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "Twisted",
-      "url": "https://open.spotify.com/track/34QR6gBe0QbYg8gDnzuv7P"
-    },
-    {
-      "added_at": "2025-12-19 09:02:25",
-      "album": {
-        "name": "Pass Out",
-        "url": "https://open.spotify.com/album/2L7E3118YPS2hIPRi2sbm7"
-      },
-      "artists": [
-        {
-          "name": "CASHEW",
-          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
-        }
-      ],
-      "duration_ms": 210687,
-      "name": "Pass Out",
-      "url": "https://open.spotify.com/track/4kxrNBGFSUb4AUhn1UPZar"
-    },
-    {
       "added_at": "2025-12-19 09:02:53",
       "album": {
         "name": "EYES",
@@ -399,74 +495,6 @@
       "duration_ms": 213375,
       "name": "EYES",
       "url": "https://open.spotify.com/track/77UBLe8jlRIxn8AsouUtS1"
-    },
-    {
-      "added_at": "2026-01-17 10:03:15",
-      "album": {
-        "name": "Ice In My Eyes",
-        "url": "https://open.spotify.com/album/1lPMHePBKwDbVYwcr60iHB"
-      },
-      "artists": [
-        {
-          "name": "WELKER",
-          "url": "https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t"
-        }
-      ],
-      "duration_ms": 185156,
-      "name": "Ice In My Eyes",
-      "url": "https://open.spotify.com/track/6h7BeqJkbKztoZxGY8gk1R"
-    },
-    {
-      "added_at": "2026-01-17 10:02:50",
-      "album": {
-        "name": "Get Naughty",
-        "url": "https://open.spotify.com/album/3L7a0kBEnRgLXNZoR2sMas"
-      },
-      "artists": [
-        {
-          "name": "Orient",
-          "url": "https://open.spotify.com/artist/5J9PVF5TuLRuTujc8w5EXJ"
-        },
-        {
-          "name": "Lowjess",
-          "url": "https://open.spotify.com/artist/64mtyz3l0N6AK1JhFV4ux1"
-        }
-      ],
-      "duration_ms": 153230,
-      "name": "Get Naughty",
-      "url": "https://open.spotify.com/track/7Jua1WMaSrTNKHEfeqCprQ"
-    },
-    {
-      "added_at": "2025-12-05 09:18:14",
-      "album": {
-        "name": "Voce",
-        "url": "https://open.spotify.com/album/4zlK48V8zCRDcz8kiny3Wz"
-      },
-      "artists": [
-        {
-          "name": "ESSE",
-          "url": "https://open.spotify.com/artist/4PFWrk1gURzx5KuGSSLO19"
-        }
-      ],
-      "duration_ms": 171692,
-      "name": "Voce",
-      "url": "https://open.spotify.com/track/44j8usDuYZaz6zx6WtDDpy"
-    },
-    {
-      "added_at": "2025-12-19 09:02:32",
-      "album": {
-        "name": "Soul Seeker EP",
-        "url": "https://open.spotify.com/album/6fMl1VkwBTl3HZi1Pe8V5J"
-      },
-      "artists": [
-        {
-          "name": "Rello",
-          "url": "https://open.spotify.com/artist/23v0zhecqk3FLUfvMrWy48"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "Soul Seeker",
-      "url": "https://open.spotify.com/track/5Gk1RZs3KnGabWOUnIXy45"
     },
     {
       "added_at": "2025-01-24 00:02:20",
@@ -487,6 +515,90 @@
       "duration_ms": 167317,
       "name": "Vibin'",
       "url": "https://open.spotify.com/track/3pEAACkEm1hFQhfnouWa2M"
+    },
+    {
+      "added_at": "2026-01-23 15:03:05",
+      "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "duration_ms": 163384,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ"
+    },
+    {
+      "added_at": "2026-01-23 15:00:45",
+      "album": {
+        "name": "How Does It Feel",
+        "url": "https://open.spotify.com/album/7BQMWBSLeAwkets0IKZmxm"
+      },
+      "artists": [
+        {
+          "name": "Jeff Sorkowitz",
+          "url": "https://open.spotify.com/artist/2398j57F5pxJjxadRLVZCC"
+        }
+      ],
+      "duration_ms": 154418,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/244DeD5GSPtc5oYj85lxlo"
+    },
+    {
+      "added_at": "2026-01-17 10:03:15",
+      "album": {
+        "name": "Ice In My Eyes",
+        "url": "https://open.spotify.com/album/1lPMHePBKwDbVYwcr60iHB"
+      },
+      "artists": [
+        {
+          "name": "WELKER",
+          "url": "https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t"
+        }
+      ],
+      "duration_ms": 185156,
+      "name": "Ice In My Eyes",
+      "url": "https://open.spotify.com/track/6h7BeqJkbKztoZxGY8gk1R"
+    },
+    {
+      "added_at": "2026-01-23 15:03:34",
+      "album": {
+        "name": "The Fix",
+        "url": "https://open.spotify.com/album/2BAJVd0LXR1Lv3niX2o6vC"
+      },
+      "artists": [
+        {
+          "name": "Funk Cartel",
+          "url": "https://open.spotify.com/artist/5CTZ9x42i9fZmlzm3AEyX0"
+        }
+      ],
+      "duration_ms": 180057,
+      "name": "The Fix",
+      "url": "https://open.spotify.com/track/6Gic5rohR6m7h5869PpIgi"
+    },
+    {
+      "added_at": "2026-01-17 10:02:50",
+      "album": {
+        "name": "Get Naughty",
+        "url": "https://open.spotify.com/album/3L7a0kBEnRgLXNZoR2sMas"
+      },
+      "artists": [
+        {
+          "name": "Orient",
+          "url": "https://open.spotify.com/artist/5J9PVF5TuLRuTujc8w5EXJ"
+        },
+        {
+          "name": "Lowjess",
+          "url": "https://open.spotify.com/artist/64mtyz3l0N6AK1JhFV4ux1"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "Get Naughty",
+      "url": "https://open.spotify.com/track/7Jua1WMaSrTNKHEfeqCprQ"
     },
     {
       "added_at": "2026-01-17 10:02:53",
@@ -531,58 +643,6 @@
       "duration_ms": 242790,
       "name": "Touched",
       "url": "https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa"
-    },
-    {
-      "added_at": "2025-12-05 09:18:12",
-      "album": {
-        "name": "Take Your Places",
-        "url": "https://open.spotify.com/album/4xRNv1atMIvOZL7dGGwBVk"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        },
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        }
-      ],
-      "duration_ms": 237341,
-      "name": "Take Your Places",
-      "url": "https://open.spotify.com/track/2adebVLvCyhgIM4eGNfS6n"
-    },
-    {
-      "added_at": "2025-12-19 09:02:47",
-      "album": {
-        "name": "Fyrah EP",
-        "url": "https://open.spotify.com/album/5SYPu8bkaausE3EGrwl4zu"
-      },
-      "artists": [
-        {
-          "name": "Viot",
-          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
-        }
-      ],
-      "duration_ms": 269767,
-      "name": "Fyrah",
-      "url": "https://open.spotify.com/track/6ZkfLEBN8RbIRMl5KIoPJy"
-    },
-    {
-      "added_at": "2025-03-21 00:06:55",
-      "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/3ve6mVulj4imuzhlhHjBoK"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Body & Soul",
-      "url": "https://open.spotify.com/track/0b44DsaZAPjRiC0HNjmwcF"
     },
     {
       "added_at": "2026-01-17 10:03:17",
@@ -653,6 +713,22 @@
       "url": "https://open.spotify.com/track/4Dny38Rxq5EdaBju4FdJwH"
     },
     {
+      "added_at": "2026-01-23 15:05:05",
+      "album": {
+        "name": "Vibrate",
+        "url": "https://open.spotify.com/album/069GoUw1nkxnUcJG74BKuY"
+      },
+      "artists": [
+        {
+          "name": "Gabss",
+          "url": "https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq"
+        }
+      ],
+      "duration_ms": 152380,
+      "name": "Vibrate",
+      "url": "https://open.spotify.com/track/26V7N5MGSUfYILIRGLtW5C"
+    },
+    {
       "added_at": "2025-12-19 09:04:39",
       "album": {
         "name": "The Way I Are (Max Dean Remix - Extended)",
@@ -679,62 +755,6 @@
       "duration_ms": 331162,
       "name": "The Way I Are - Max Dean Remix - Extended",
       "url": "https://open.spotify.com/track/4fWGfF4E3zNsrb6JgRB57z"
-    },
-    {
-      "added_at": "2025-12-08 20:40:53",
-      "album": {
-        "name": "Fee Fi Fo Fum (feat. KAM-BU)",
-        "url": "https://open.spotify.com/album/74gn9OK41NsDSvj0CKeLFl"
-      },
-      "artists": [
-        {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        },
-        {
-          "name": "KAM-BU",
-          "url": "https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF"
-        }
-      ],
-      "duration_ms": 191009,
-      "name": "Fee Fi Fo Fum (feat. KAM-BU)",
-      "url": "https://open.spotify.com/track/20NWjwDzsxz7CXIyyQFMCx"
-    },
-    {
-      "added_at": "2025-12-08 20:41:21",
-      "album": {
-        "name": "Take Your Places",
-        "url": "https://open.spotify.com/album/4xRNv1atMIvOZL7dGGwBVk"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        },
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        }
-      ],
-      "duration_ms": 237341,
-      "name": "Take Your Places",
-      "url": "https://open.spotify.com/track/2adebVLvCyhgIM4eGNfS6n"
-    },
-    {
-      "added_at": "2025-12-08 20:42:05",
-      "album": {
-        "name": "Point Zero / Lift Me Up",
-        "url": "https://open.spotify.com/album/49IPEHPL1alOTzFgXfVTl7"
-      },
-      "artists": [
-        {
-          "name": "IDEMI",
-          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
-        }
-      ],
-      "duration_ms": 214736,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/0b7PbH7jnPDx9cZ77nc6Fe"
     },
     {
       "added_at": "2025-12-19 09:02:57",
@@ -771,6 +791,22 @@
       "duration_ms": 298181,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/2SbylI8B8hGqdnPV8pXEkD"
+    },
+    {
+      "added_at": "2026-01-23 15:01:22",
+      "album": {
+        "name": "Ice",
+        "url": "https://open.spotify.com/album/4mt67VASzQvvah1Fz4JxHh"
+      },
+      "artists": [
+        {
+          "name": "HASKELL",
+          "url": "https://open.spotify.com/artist/5ry5gHsT7l1X84yGPZeVIj"
+        }
+      ],
+      "duration_ms": 178359,
+      "name": "Ice",
+      "url": "https://open.spotify.com/track/2ZSrmhpwpd7KKoM3khQtY0"
     }
   ],
   "unique_name": "SUBSHIFT SELECTS",

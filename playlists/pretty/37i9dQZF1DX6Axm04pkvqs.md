@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 
 > When my mouth has no words, let my spirit sing
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,853 likes - 80 songs - 11 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,940 likes - 80 songs - 11 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,14 +45,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 35 | [Take Over](https://open.spotify.com/track/0kd6sF1sDNJmFcpoZKWKMD) | [1Spirit & Theophilus Sunday](https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00) | [Take Over](https://open.spotify.com/album/7t8Jh2tXzb2wIbJ9XwH9ri) | 13:55 |
 | 36 | [Odogwu](https://open.spotify.com/track/07lLHICE1qfTRRIGPaXKLY) | [Kemelord](https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP) | [Odogwu](https://open.spotify.com/album/2iV8lRgiv08MYvx20oYLiC) | 4:50 |
 | 37 | [Spiritual Surgery \(Live\)](https://open.spotify.com/track/3D7EubdyMf1i6p2Ts79Cjo) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spiritual Surgery \(Live Ministration\)](https://open.spotify.com/album/0zXMEOYyOgEijTIOqrXsjb) | 13:25 |
-| 38 | [Ah Eh Eh Eh Ah Ah Ah \(Chant\)](https://open.spotify.com/track/2pkRtgefK3gkFM8I06MCLa) | [Minstrel Myra](https://open.spotify.com/artist/39acn6Mvi2cfu678x357z1) | [Ah Eh Eh Eh Ah Ah Ah \(Chant\)](https://open.spotify.com/album/7zoquBJfRRJ9CDJ7YYaGtr) | 9:55 |
-| 39 | [Holy Ghost \(Live\)](https://open.spotify.com/track/7jYjkK3fPO7j7GcX2v12bF) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Apostolos \(Sounds of Transition\)](https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv) | 7:08 |
+| 38 | [Holy Ghost \(Live\)](https://open.spotify.com/track/7jYjkK3fPO7j7GcX2v12bF) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Apostolos \(Sounds of Transition\)](https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv) | 7:08 |
+| 39 | [Ah Eh Eh Eh Ah Ah Ah \(Chant\)](https://open.spotify.com/track/2pkRtgefK3gkFM8I06MCLa) | [Minstrel Myra](https://open.spotify.com/artist/39acn6Mvi2cfu678x357z1) | [Ah Eh Eh Eh Ah Ah Ah \(Chant\)](https://open.spotify.com/album/7zoquBJfRRJ9CDJ7YYaGtr) | 9:55 |
 | 40 | [Captured My Heart](https://open.spotify.com/track/0mkiOUQl052rRacosA5fS4) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap) | 10:31 |
 | 41 | [Intensify](https://open.spotify.com/track/2apSO736RbDC57Uwg1X7vw) | [1Spirit & Theophilus Sunday](https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00) | [Eternity in View](https://open.spotify.com/album/0uWI0ToFhg1eLuNvr32eGY) | 3:34 |
 | 42 | [Yeshua Hamashiach \(Overture\)](https://open.spotify.com/track/3hbjwNtFbsRjjPA08oeSLS) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [OYINKAN KOKU\-BAZUAYE](https://open.spotify.com/artist/4MsiVr0uduVTupBlpBs4D9) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 7:58 |
 | 43 | [Alignment Chant \- EP](https://open.spotify.com/track/0t7faQrQwjAZYxQyODCj6z) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [Alignment Chant](https://open.spotify.com/album/1aDMbqtd24f2gedKY5D17e) | 13:30 |
-| 44 | [Agbara Olorun po](https://open.spotify.com/track/6oxBpuu7Ac3xjtrZgvSfyy) | [Clement whyte](https://open.spotify.com/artist/4UuoX5tY9U0Qf9dO66EStT) | [Agbara Olorun po](https://open.spotify.com/album/7ruTymGcJDzgnveU9ZOAsA) | 5:01 |
-| 45 | [There Is a Place](https://open.spotify.com/track/1kYq99JJMTYdGDtsaG3ZPR) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [In His Presence, Vol\. 2](https://open.spotify.com/album/3I2lS8vcbdBS76PfAJ4fDP) | 8:47 |
+| 44 | [There Is a Place](https://open.spotify.com/track/1kYq99JJMTYdGDtsaG3ZPR) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [In His Presence, Vol\. 2](https://open.spotify.com/album/3I2lS8vcbdBS76PfAJ4fDP) | 8:47 |
+| 45 | [Agbara Olorun po](https://open.spotify.com/track/6oxBpuu7Ac3xjtrZgvSfyy) | [Clement whyte](https://open.spotify.com/artist/4UuoX5tY9U0Qf9dO66EStT) | [Agbara Olorun po](https://open.spotify.com/album/7ruTymGcJDzgnveU9ZOAsA) | 5:01 |
 | 46 | [Gratitude](https://open.spotify.com/track/6FOtEedC7uCwri090WzvV0) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 16:37 |
 | 47 | [Daddy wey dey Pamper](https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [Daddy wey dey Pamper](https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI) | 12:40 |
 | 48 | [When God Walks In](https://open.spotify.com/track/38NkJdwVwSzezWnenSYR4A) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 12:58 |

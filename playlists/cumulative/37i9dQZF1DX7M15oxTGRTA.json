@@ -2574,7 +2574,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 228640,
       "name": "Trouble Man",
       "url": "https://open.spotify.com/track/15pYj5ZiUJgBydzD7w6NbJ"
@@ -2650,6 +2650,24 @@
       "duration_ms": 296880,
       "name": "When Somebody Loves You Back",
       "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5GMKwvQ8GL9d92tQzzRDM9"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235680,
+      "name": "Where Are We Going?",
+      "url": "https://open.spotify.com/track/7poaDTqWgJQDG5gqvobqXu"
     },
     {
       "album": {

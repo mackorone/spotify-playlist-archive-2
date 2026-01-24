@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-502 songs - 1 day 2 hr 37 min
+503 songs - 1 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -460,6 +460,7 @@
 | [Too Good To Lose](https://open.spotify.com/track/5XXNGa7STjIjs3aE2SYtF1) | [Electric Polar Bears](https://open.spotify.com/artist/0Ec3BmyWtzjCid5QjMGmRI), [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC) | [Too Good To Lose](https://open.spotify.com/album/4NxqoQskFG5doPgxdofgkM) | 3:07 | 2021-12-03 | 2022-01-08 |
 | [True](https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [True](https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo) | 2:05 | 2024-10-04 |  |
 | [Turn Back Time](https://open.spotify.com/track/1AhiOzObMBqfonJDKtirj9) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Turn Back Time](https://open.spotify.com/album/6ISAjoZeji9okRE4icKBmB) | 3:01 | 2022-01-07 | 2024-09-21 |
+| [Turn The Lights Off \(with Jaxstyle\) \- HILLS & Dansyn Remix](https://open.spotify.com/track/0jhjSbq8aTKPcQjZOhOZxw) | [Justė](https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI), [Jaxstyle](https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P), [HILLS](https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB), [Dansyn](https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv) | [Turn The Lights Off \(with Jaxstyle\) \[HILLS & Dansyn Remix\]](https://open.spotify.com/album/5VEPN4W4wed0acDeJQJtFD) | 2:53 | 2026-01-23 |  |
 | [Up To You](https://open.spotify.com/track/458L8eSLbts1r7JnHlA4b9) | [Disco Killerz](https://open.spotify.com/artist/0WfWABuarRrUticTLylKQl), [Holly T](https://open.spotify.com/artist/1r5lkGxVUvzfpxk4iuSYmX) | [Up To You](https://open.spotify.com/album/38RqrJiEvnRMY36oklUCXr) | 3:00 | 2021-12-03 | 2022-01-08 |
 | [Upside Down](https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [Upside Down](https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH) | 2:42 | 2024-12-20 |  |
 | [Viaje](https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Viaje](https://open.spotify.com/album/2Bm9LtZ5cQoxNmrHhqQtjO) | 5:03 | 2022-10-14 | 2022-12-10 |
@@ -508,7 +509,7 @@
 | [Young Summer](https://open.spotify.com/track/1OfHes9WQdGQSIgNwrqIAw) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Young Summer](https://open.spotify.com/album/6yXyTpttvpLCCLq7zZQASo) | 2:36 | 2021-12-03 | 2022-11-19 |
 | [Your Light](https://open.spotify.com/track/1QuoMcTglBzFIsPwiXHNQQ) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Your Light](https://open.spotify.com/album/62nlkAM6lQIqQ2v7g75jdI) | 3:57 | 2022-09-09 | 2025-05-11 |
 | [Your Love Keeps Lifting Me Higher](https://open.spotify.com/track/7hLqii5dbwnwn3IiHt7k4D) | [Revival House Project](https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk), [Kathy Brown](https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq), [GeO Gospel Choir](https://open.spotify.com/artist/6hE7obcJBo7760EpnmhR1H) | [Your Love Keeps Lifting Me Higher](https://open.spotify.com/album/2b19uYnO6jSwzTrT221lyA) | 2:57 | 2023-05-12 | 2025-03-15 |
-| [Zou bisou bisou](https://open.spotify.com/track/4GZZ1mX5ijjdO3MwedvgDM) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu), [Gillian Hills](https://open.spotify.com/artist/3uA9RwNUL7HZKroYyVlUuL) | [Zou bisou bisou](https://open.spotify.com/album/5CqrmtrA9zFl9N0dF7GvRe) | 2:27 | 2025-07-18 |  |
+| [Zou bisou bisou](https://open.spotify.com/track/4GZZ1mX5ijjdO3MwedvgDM) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu), [Gillian Hills](https://open.spotify.com/artist/3uA9RwNUL7HZKroYyVlUuL) | [Zou bisou bisou](https://open.spotify.com/album/5CqrmtrA9zFl9N0dF7GvRe) | 2:27 | 2025-07-18 | 2026-01-24 |
 | [‎Sing Hallelujah](https://open.spotify.com/track/7KDQodSd62lRySw3kjHYXJ) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75), [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [‎Sing Hallelujah](https://open.spotify.com/album/5VqXJYT1QOyVxIlSnCu7Ee) | 4:37 | 2023-07-14 | 2024-04-13 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

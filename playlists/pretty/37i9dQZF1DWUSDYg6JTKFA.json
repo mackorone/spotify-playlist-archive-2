@@ -1,6 +1,6 @@
 {
   "description": "Find hope in Him in every note of these songs full of faith!",
-  "num_followers": 211364,
+  "num_followers": 211368,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
-        "name": "Rescue",
-        "url": "https://open.spotify.com/album/49sgj5TsAza6TkXow8DQWa"
-      },
-      "artists": [
-        {
-          "name": "Jordan St. Cyr",
-          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
-        }
-      ],
-      "duration_ms": 221403,
-      "name": "Rescue",
-      "url": "https://open.spotify.com/track/4ANZqWyzB9fIW2XtthkVQV"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/1JlsrX9MGKgi8WZNrfi5TI"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 202226,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/1LvPXi9WbYBub6v0Q94ItD"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
+        "name": "Rescue",
+        "url": "https://open.spotify.com/album/49sgj5TsAza6TkXow8DQWa"
+      },
+      "artists": [
+        {
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        }
+      ],
+      "duration_ms": 221403,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/4ANZqWyzB9fIW2XtthkVQV"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
-        "name": "Broken & Restored",
-        "url": "https://open.spotify.com/album/0VTANFGgpI7TbTUs4iQtHu"
-      },
-      "artists": [
-        {
-          "name": "People of The Earth",
-          "url": "https://open.spotify.com/artist/05fX9C5f0vRtX6WhiaaGL5"
-        }
-      ],
-      "duration_ms": 287368,
-      "name": "Broken & Restored",
-      "url": "https://open.spotify.com/track/2k7YZwfEWUEzDnpp0tD9qT"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
         "name": "Running Home",
         "url": "https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 228426,
       "name": "Be There For You",
       "url": "https://open.spotify.com/track/7AWkRQoTPaqUrZpRvCH748"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
+        "name": "Broken & Restored",
+        "url": "https://open.spotify.com/album/0VTANFGgpI7TbTUs4iQtHu"
+      },
+      "artists": [
+        {
+          "name": "People of The Earth",
+          "url": "https://open.spotify.com/artist/05fX9C5f0vRtX6WhiaaGL5"
+        }
+      ],
+      "duration_ms": 287368,
+      "name": "Broken & Restored",
+      "url": "https://open.spotify.com/track/2k7YZwfEWUEzDnpp0tD9qT"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -1151,42 +1151,6 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
-        "name": "Empires",
-        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 262120,
-      "name": "Touch The Sky",
-      "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/7r6f767S7JejcRmw2PAAOL"
-      },
-      "artists": [
-        {
-          "name": "Corey Voss",
-          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
-        }
-      ],
-      "duration_ms": 241951,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/5mOeK4IBsw9SailoaEB9Kj"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
         "name": "Hold Together",
         "url": "https://open.spotify.com/album/7erbvztzF5K8So7dme7oKk"
       },
@@ -1211,18 +1175,38 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
-        "name": "Nothing Is Impossible (Live In Manila)",
-        "url": "https://open.spotify.com/album/7mKROIDACa2Tf6IB123KKd"
+        "name": "Time",
+        "url": "https://open.spotify.com/album/7r6f767S7JejcRmw2PAAOL"
       },
       "artists": [
         {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+          "name": "Corey Voss",
+          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
         }
       ],
-      "duration_ms": 263635,
-      "name": "Nothing Is Impossible - Live In Manila",
-      "url": "https://open.spotify.com/track/5sdeswrsYUIMTyYoOwc7jS"
+      "duration_ms": 241951,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/5mOeK4IBsw9SailoaEB9Kj"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
+        "name": "Empires",
+        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 262120,
+      "name": "Touch The Sky",
+      "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -1239,6 +1223,22 @@
       "duration_ms": 192926,
       "name": "Fear No More",
       "url": "https://open.spotify.com/track/5VTWQeTAZGa6c5ZWRDN3oo"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
+        "name": "Nothing Is Impossible (Live In Manila)",
+        "url": "https://open.spotify.com/album/7mKROIDACa2Tf6IB123KKd"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 263635,
+      "name": "Nothing Is Impossible - Live In Manila",
+      "url": "https://open.spotify.com/track/5sdeswrsYUIMTyYoOwc7jS"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/68jTvE3jFe31IaDI6GdJFK"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Even Then",
+      "url": "https://open.spotify.com/track/1y6Xu9iSTxUeUjDJyfu61e"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
         "name": "No Longer Slaves (Radio Version) [feat. Jonathan David Helser & Melissa Helser]",
         "url": "https://open.spotify.com/album/3R0kFFdsc82KAmQlH1WqG0"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 247677,
       "name": "No Longer Slaves (Radio Version) [feat. Jonathan David Helser & Melissa Helser]",
       "url": "https://open.spotify.com/track/37sWianweYMt42ZoSABn6y"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/68jTvE3jFe31IaDI6GdJFK"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Even Then",
-      "url": "https://open.spotify.com/track/1y6Xu9iSTxUeUjDJyfu61e"
     },
     {
       "added_at": "2025-12-13 23:46:05",

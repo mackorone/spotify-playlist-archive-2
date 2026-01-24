@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Ledisi
 
-881 songs - 2 day 13 hr 5 min
+882 songs - 2 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Ghost in the Night](https://open.spotify.com/track/1hn9FXzDObHWssesbc7CqL) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [Ghost in the Night](https://open.spotify.com/album/28KDOnndNTfgACJVhaYzmS) | 5:56 | 2022-02-18 | 2022-04-20 |
 | [Ghost Song](https://open.spotify.com/track/1xmDUGW9kpDCSlifhKJO7G) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Ghost Song](https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ) | 3:22 | 2021-11-05 | 2023-02-25 |
 | [Ghost Song](https://open.spotify.com/track/6cNeMpc2xBQrMEvzHxi0xO) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Ghost Song](https://open.spotify.com/album/6w4VuAZkqQC7UVKkaXZW7q) | 3:22 | 2021-11-05 | 2022-07-29 |
+| [Ghosts](https://open.spotify.com/track/67qK2ncBGXb79ldCBrYETP) | [Hayley Sales](https://open.spotify.com/artist/5aWJMTxBqrjjDPryNDNfMb) | [Ghosts](https://open.spotify.com/album/0Dh2jRgKkPGue3rD8nF4FN) | 3:56 | 2026-01-23 |  |
 | [Girl from New York City](https://open.spotify.com/track/5wlJErAxiEXXRZRtnr24Jk) | [Loren Nine](https://open.spotify.com/artist/5VbFVkVPJOoT0emDWoTaVO) | [Girl from New York City](https://open.spotify.com/album/3Li5r9qBwbruY1hXwYusJz) | 2:49 | 2021-01-15 | 2022-07-24 |
 | [Give Me A Reason](https://open.spotify.com/track/3dvGUfs6L9q6AwuAGEaswW) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Give Me A Reason](https://open.spotify.com/album/78pQHAt8HWRK8WVAUdmR2h) | 4:13 | 2023-09-22 | 2025-06-14 |
 | [Give Me the Simple Life](https://open.spotify.com/track/1Ei3yx4x8ZYFaMXutnHASY) | [Mary Stallings](https://open.spotify.com/artist/3EYSKfrP35BZwqsMiGU3Gf) | [Give Me the Simple Life](https://open.spotify.com/album/1gJebU6wX0ms7IiCmsHxel) | 4:12 | 2020-10-09 | 2022-02-17 |

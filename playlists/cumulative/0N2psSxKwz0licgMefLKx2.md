@@ -2,9 +2,9 @@
 
 ### [2026 COUNTRY BANGERS 🤠🔥](https://open.spotify.com/playlist/0N2psSxKwz0licgMefLKx2)
 
-> The biggest Country hits of the year! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Owen Riegling
+> The biggest Country hits of the year! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Kalsey Kulyk
 
-396 songs - 21 hr 36 min
+397 songs - 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Country Country](https://open.spotify.com/track/1FHOMoJbGHsjR8E44IcZ8g) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY! COUNTRY!](https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc) | 3:58 | 2025-09-26 |  |
 | [Country House](https://open.spotify.com/track/2DOxC6AdXlSeUrsgWKuX4X) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Locked Up](https://open.spotify.com/album/1uZrgmt2depCIzzN0FxfIv) | 3:34 | 2024-04-05 |  |
 | [Country Song Came On](https://open.spotify.com/track/4hdC3JHzFN1XEebO0BGIpd) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Country Song Came On](https://open.spotify.com/album/6MwT2Mzk3PaYE7KVBbg2XC) | 3:54 | 2025-05-09 |  |
+| [Cowboy Crazy](https://open.spotify.com/track/2QJtrLjUVj2u08DElIBr3r) | [Kalsey Kulyk](https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu) | [Cowboy Crazy](https://open.spotify.com/album/6iCqqjiTUNmEo2Lgj2OEs1) | 3:03 | 2026-01-23 |  |
 | [Cowboy Songs](https://open.spotify.com/track/7LV9OX6WfOTndB4BqoXDEE) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Cowboy Songs](https://open.spotify.com/album/6oYFjTGEuRoK7oeJisREF5) | 3:07 | 2025-01-10 | 2025-11-22 |
 | [Cowboys & Dreamers](https://open.spotify.com/track/2ls9ifCvuLmVJI0E2ZcEl6) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Let Your Horses Run \- The Album](https://open.spotify.com/album/3Fznn6Fz79om4lHxKaKbHa) | 3:09 | 2025-02-28 | 2025-04-12 |
 | [Cowboys and Plowboys](https://open.spotify.com/track/1YfyfFBZ7cY7wgwtZEq3tf) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Cowboys and Plowboys](https://open.spotify.com/album/6Yip6MiXMk9wVHomaatQJn) | 3:28 | 2023-11-03 | 2024-07-30 |
@@ -176,7 +177,7 @@
 | [I'd Be Delighted](https://open.spotify.com/track/6jS8b3W99Sa21l0WSl5poF) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [I'd Be Delighted](https://open.spotify.com/album/5g2DpCsAsxxgth6kcSmXQX) | 3:46 | 2025-02-21 | 2025-11-08 |
 | [I'm The Problem](https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I'm The Problem](https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD) | 2:57 | 2025-01-31 | 2025-11-22 |
 | [If I Had a Lover](https://open.spotify.com/track/6a9VsSmDtb7wxv1oRgCfIa) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Songs in the Gravel](https://open.spotify.com/album/5LH0DO3n956vBZ5vK0mLL2) | 3:23 | 2024-03-22 | 2024-10-05 |
-| [If I Had Never Lost My Mind...](https://open.spotify.com/track/7Gv7nvp2Rg2tiB2Ru24ETH) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [If I Had Never Lost My Mind...](https://open.spotify.com/album/0rdw28ZkCG4fAzRzIF4iah) | 3:10 | 2025-02-21 |  |
+| [If I Had Never Lost My Mind...](https://open.spotify.com/track/7Gv7nvp2Rg2tiB2Ru24ETH) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [If I Had Never Lost My Mind...](https://open.spotify.com/album/0rdw28ZkCG4fAzRzIF4iah) | 3:10 | 2025-02-21 | 2026-01-24 |
 | [if looks could kill](https://open.spotify.com/track/2w9lI8JcFAL3lCb0bFMRY8) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [hummingbird: no rain, no flowers \(deluxe\)](https://open.spotify.com/album/4COdErCzwv0rQAFH594bol) | 3:13 | 2025-03-14 | 2025-05-03 |
 | [IF YOU GO DOWN \(I'M GOIN' DOWN TOO\)](https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:46 | 2023-11-03 | 2024-05-18 |
 | [In My Head Again](https://open.spotify.com/track/4zgrxZPjYlIpvvZYY3xnO5) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [In My Head Again](https://open.spotify.com/album/43YBR5WHLqimx95qVDXquE) | 4:12 | 2024-02-23 | 2024-04-06 |

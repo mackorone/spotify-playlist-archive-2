@@ -591,6 +591,24 @@
     },
     {
       "album": {
+        "name": "Wake Up, Sunshine",
+        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167041,
+      "name": "Getaway Green",
+      "url": "https://open.spotify.com/track/6lMPUipRF49L8AxLW3F40B"
+    },
+    {
+      "album": {
         "name": "HELLRAISERS, Part 2",
         "url": "https://open.spotify.com/album/0diNd1xPp5eiaugv9HRpYb"
       },

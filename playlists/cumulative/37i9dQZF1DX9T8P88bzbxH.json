@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Some nights aren\u2019t meant to be streamed; this is one of them. Cover: 3P",
-  "name": "On Tour Singapore: 3P",
+  "description": "Some nights aren\u2019t meant to be streamed; this is one of them. Cover: Men I Trust",
+  "name": "On Tour Singapore: Men I Trust",
   "tracks": [
     {
       "album": {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 192007,
       "name": "1234\u821e",
       "url": "https://open.spotify.com/track/6FyiQ2Y67i4XoEEfUxHOJB"
@@ -262,7 +262,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 222716,
       "name": "21 Banluck",
       "url": "https://open.spotify.com/track/7dbqwLGeSMnNPD5pwUDC81"
@@ -356,7 +356,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 226000,
       "name": "555 666 888 33",
       "url": "https://open.spotify.com/track/2HBJ5IB7F1N7QQhIT9PNLc"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 208003,
       "name": "ABC",
       "url": "https://open.spotify.com/track/5OthRKUDvYrAr6LFYnkqWO"
@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Oncle Jazz",
+        "url": "https://open.spotify.com/album/4W4gNYa4tt3t8V6FmONWEK"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188468,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/0XvoMOI25j4wODyk8nuANS"
+    },
+    {
+      "album": {
         "name": "In Blue",
         "url": "https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY"
       },
@@ -950,6 +968,24 @@
       "duration_ms": 252500,
       "name": "Ano Ba Talaga Tayo? (feat. Janine Berdin)",
       "url": "https://open.spotify.com/track/2KpCEmtEabbAHx2TyXE6NX"
+    },
+    {
+      "album": {
+        "name": "Equus Caballus",
+        "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190280,
+      "name": "Another Stone",
+      "url": "https://open.spotify.com/track/5RHhmGMV3FKxRa63AIfIgZ"
     },
     {
       "album": {
@@ -1849,6 +1885,24 @@
     },
     {
       "album": {
+        "name": "Billie Toppy",
+        "url": "https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195289,
+      "name": "Billie Toppy",
+      "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
+    },
+    {
+      "album": {
         "name": "\u946b",
         "url": "https://open.spotify.com/album/3GCmzhIjI8bNZgjEzDgiFw"
       },
@@ -1860,7 +1914,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 125995,
       "name": "BISH!",
       "url": "https://open.spotify.com/track/2zYaNbf7QPSghqqAU9PLLt"
@@ -2809,6 +2863,24 @@
     },
     {
       "album": {
+        "name": "Equus Caballus",
+        "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "Carried Away",
+      "url": "https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD"
+    },
+    {
+      "album": {
         "name": "laughing in insomnia",
         "url": "https://open.spotify.com/album/14I8hTePOAteadQZcVxtGq"
       },
@@ -3118,6 +3190,24 @@
       "duration_ms": 218746,
       "name": "Colossal Loss",
       "url": "https://open.spotify.com/track/36aY2VhOBpgnExFZL1mBH2"
+    },
+    {
+      "album": {
+        "name": "Equus Caballus",
+        "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195126,
+      "name": "Come Back Down",
+      "url": "https://open.spotify.com/track/04H7h3KJAQp9JHCSPGlp9A"
     },
     {
       "album": {
@@ -4562,7 +4652,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 248005,
       "name": "Emo",
       "url": "https://open.spotify.com/track/4pWi2KnLNxPwxLeoqs2n2m"
@@ -4862,7 +4952,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 224434,
       "name": "Eye Love You (feat. \u8521\u6069\u96e8)",
       "url": "https://open.spotify.com/track/5uc2VQ2Gx17LUBXJnnkFsR"
@@ -6655,6 +6745,42 @@
     },
     {
       "album": {
+        "name": "Hard to Let Go",
+        "url": "https://open.spotify.com/album/4a3oxtBAgUSzvTjz41L8w5"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247615,
+      "name": "Hard to Let Go",
+      "url": "https://open.spotify.com/track/3XBQUmjwquZPzTNtOqj7N7"
+    },
+    {
+      "album": {
+        "name": "Equus Caballus",
+        "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212321,
+      "name": "Hard To See",
+      "url": "https://open.spotify.com/track/6R2YSITVeRTFwDczaxSnQS"
+    },
+    {
+      "album": {
         "name": "Umaga",
         "url": "https://open.spotify.com/album/5HbJHrOnlSh1DImDXXYW1N"
       },
@@ -7246,7 +7372,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 215005,
       "name": "Hu Else",
       "url": "https://open.spotify.com/track/5r3eJg5XdcLbuQkBAHg97t"
@@ -7271,6 +7397,24 @@
     },
     {
       "album": {
+        "name": "Humming Man",
+        "url": "https://open.spotify.com/album/0vVMy96h4ZUfkxHAnPsVyT"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174782,
+      "name": "Humming Man",
+      "url": "https://open.spotify.com/track/5w9JFHoPcwgMtcSvYms9EU"
+    },
+    {
+      "album": {
         "name": "THINK LATER",
         "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
       },
@@ -7286,6 +7430,24 @@
       "duration_ms": 122416,
       "name": "hurt my feelings",
       "url": "https://open.spotify.com/track/4mFcwFOlSCxp6hjemRXwpd"
+    },
+    {
+      "album": {
+        "name": "Husk",
+        "url": "https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204651,
+      "name": "Husk",
+      "url": "https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm"
     },
     {
       "album": {
@@ -7860,6 +8022,24 @@
       "duration_ms": 157688,
       "name": "in my civic",
       "url": "https://open.spotify.com/track/5juhApsqgUntbADKWjYQzo"
+    },
+    {
+      "album": {
+        "name": "Equus Caballus",
+        "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197086,
+      "name": "In My Years",
+      "url": "https://open.spotify.com/track/01V9eIxh3ctGIuRxcS7Ppg"
     },
     {
       "album": {
@@ -9001,6 +9181,24 @@
     },
     {
       "album": {
+        "name": "Lauren",
+        "url": "https://open.spotify.com/album/5BnR3p5xlFUVWLWJtUgbC6"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222680,
+      "name": "Lauren",
+      "url": "https://open.spotify.com/track/62zFcDLa1CjCY9yp6VO4ga"
+    },
+    {
+      "album": {
         "name": "leavemealone",
         "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
       },
@@ -9674,7 +9872,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 209532,
       "name": "Lover \u6e38\u620f (feat. \u8521\u6069\u96e8)",
       "url": "https://open.spotify.com/track/6407LeSmHENAbZZc6echa8"
@@ -11221,6 +11419,24 @@
     },
     {
       "album": {
+        "name": "Norton Commander (All We Need)",
+        "url": "https://open.spotify.com/album/7Lc8WAp0aFlQyIvlHSBAJh"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206158,
+      "name": "Norton Commander (All We Need)",
+      "url": "https://open.spotify.com/track/5KZiiK8dvTgXaVnegsvvBz"
+    },
+    {
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/1neCBjPnlHniz7qlHJ3FMO"
       },
@@ -11293,6 +11509,24 @@
     },
     {
       "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219340,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U"
+    },
+    {
+      "album": {
         "name": "Nyebe",
         "url": "https://open.spotify.com/album/2tvPG66C3mOLIHEdxPzC0F"
       },
@@ -11362,6 +11596,24 @@
       "duration_ms": 158480,
       "name": "Off The Wall",
       "url": "https://open.spotify.com/track/5Q5zfuCHsMhvN4eMvNLAjn"
+    },
+    {
+      "album": {
+        "name": "Untourable Album",
+        "url": "https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196853,
+      "name": "Oh Dove",
+      "url": "https://open.spotify.com/track/5uYKRngGNqiMHrpF2Gb1uA"
     },
     {
       "album": {
@@ -11438,6 +11690,24 @@
       "duration_ms": 225000,
       "name": "On Your Way Down",
       "url": "https://open.spotify.com/track/6ECcJlfjh2F1LJxe74qKnJ"
+    },
+    {
+      "album": {
+        "name": "Oncle Jazz",
+        "url": "https://open.spotify.com/album/4W4gNYa4tt3t8V6FmONWEK"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57876,
+      "name": "Oncle Jazz",
+      "url": "https://open.spotify.com/track/204t5SErksNRHRhU52g5JF"
     },
     {
       "album": {
@@ -11546,7 +11816,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 176500,
       "name": "Only",
       "url": "https://open.spotify.com/track/42fcsJ7xuWhEUGnYPAaZjj"
@@ -11676,7 +11946,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 176005,
       "name": "PA SANG ANTHEM",
       "url": "https://open.spotify.com/track/36ewbDc8oUyY5zDB71huAL"
@@ -12576,7 +12846,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 196006,
       "name": "RAFFLESIA",
       "url": "https://open.spotify.com/track/04sFouWi0XZiXMJphKjfhW"
@@ -12822,6 +13092,24 @@
       "duration_ms": 220186,
       "name": "Rindu Bukan Teman",
       "url": "https://open.spotify.com/track/5rk1GIbvyQAno7QuYZKGNm"
+    },
+    {
+      "album": {
+        "name": "Ring of Past",
+        "url": "https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201523,
+      "name": "Ring of Past",
+      "url": "https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1"
     },
     {
       "album": {
@@ -13247,6 +13535,24 @@
     },
     {
       "album": {
+        "name": "Say, Can You Hear",
+        "url": "https://open.spotify.com/album/1nCD1xKA9swhdJaoKFFngO"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189246,
+      "name": "Say, Can You Hear",
+      "url": "https://open.spotify.com/track/16Ky4KZFBlAnFzsgQOn5MT"
+    },
+    {
+      "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31"
       },
@@ -13499,6 +13805,24 @@
     },
     {
       "album": {
+        "name": "Untourable Album",
+        "url": "https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185660,
+      "name": "Serenade of Water",
+      "url": "https://open.spotify.com/track/6AcJTLIgNpxs5ERpo03QQc"
+    },
+    {
+      "album": {
         "name": "Set Sail",
         "url": "https://open.spotify.com/album/47O8KlrVbHaKT72WDG2Vm4"
       },
@@ -13535,6 +13859,24 @@
     },
     {
       "album": {
+        "name": "Seven",
+        "url": "https://open.spotify.com/album/68IwzjI0zUeudLKdFYDcjS"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225394,
+      "name": "Seven",
+      "url": "https://open.spotify.com/track/5QvditjxADt1HMKPgaMjJm"
+    },
+    {
+      "album": {
         "name": "Sex on Fire",
         "url": "https://open.spotify.com/album/2ayONCF47bmqQWRASuCSVo"
       },
@@ -13568,7 +13910,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 189006,
       "name": "SHABU SHABU",
       "url": "https://open.spotify.com/track/5IN0whu3AIbbXG8jsB7vIc"
@@ -13828,6 +14170,24 @@
       "duration_ms": 265986,
       "name": "Shout Baby",
       "url": "https://open.spotify.com/track/5K1m4aaPCxwnm9SKlWW1vh"
+    },
+    {
+      "album": {
+        "name": "Show Me How",
+        "url": "https://open.spotify.com/album/7mUYDBqNiddmKxuKrnBEKQ"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215110,
+      "name": "Show Me How",
+      "url": "https://open.spotify.com/track/75IQVo8hqI1iwVZyvkN2VT"
     },
     {
       "album": {
@@ -14587,6 +14947,24 @@
     },
     {
       "album": {
+        "name": "Untourable Album",
+        "url": "https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176315,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/6ZdAsADC9LIICvsVRuGWbZ"
+    },
+    {
+      "album": {
         "name": "Tasty",
         "url": "https://open.spotify.com/album/61PSy6UJB26jzBvnLOgLzI"
       },
@@ -14840,6 +15218,24 @@
       "duration_ms": 204000,
       "name": "Tahan Na",
       "url": "https://open.spotify.com/track/0m7pOyvve4OIgOUUEQJCVo"
+    },
+    {
+      "album": {
+        "name": "Tailwhip",
+        "url": "https://open.spotify.com/album/5zV9Kwq0WDSPshNbvG418a"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225263,
+      "name": "Tailwhip",
+      "url": "https://open.spotify.com/track/7fax7NlxOq2X9kMZw8QLE2"
     },
     {
       "album": {
@@ -15269,6 +15665,24 @@
     },
     {
       "album": {
+        "name": "Equus Caballus",
+        "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235105,
+      "name": "The Better Half",
+      "url": "https://open.spotify.com/track/0zHDv0mH8XLB22SoMnhYZz"
+    },
+    {
+      "album": {
         "name": "chapters of you",
         "url": "https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4"
       },
@@ -15640,7 +16054,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 235339,
       "name": "This Is Something Niu",
       "url": "https://open.spotify.com/track/6NiF7EQeLmGJPc8DKgZkXE"
@@ -15694,7 +16108,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 169894,
       "name": "Tik Ni De Tok",
       "url": "https://open.spotify.com/track/0wUf44UjX3xwp0sFEGU9WM"
@@ -15827,6 +16241,24 @@
     },
     {
       "album": {
+        "name": "Equus Caballus",
+        "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192798,
+      "name": "To Ease You",
+      "url": "https://open.spotify.com/track/2HcMkGeghyXdJRT1g85u0t"
+    },
+    {
+      "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31"
       },
@@ -15856,7 +16288,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 185001,
       "name": "TOP FORM",
       "url": "https://open.spotify.com/track/2MHFw7qnTYKev4gdgeouy9"
@@ -16929,6 +17361,24 @@
     },
     {
       "album": {
+        "name": "Equus Caballus",
+        "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195877,
+      "name": "Where I Sit",
+      "url": "https://open.spotify.com/track/4hrL6mHfQ6JjnLt83vLkpl"
+    },
+    {
+      "album": {
         "name": "bright orange everglow",
         "url": "https://open.spotify.com/album/6VyR17Yjzo1zHMpWgT7oNC"
       },
@@ -17142,6 +17592,24 @@
       "duration_ms": 239070,
       "name": "Workin' Hard",
       "url": "https://open.spotify.com/track/0Whfa8wikSDUvtB5mzYOGH"
+    },
+    {
+      "album": {
+        "name": "Equus Caballus",
+        "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155462,
+      "name": "Worn Down",
+      "url": "https://open.spotify.com/track/7FmpGCXVD5CeFkbFgjkNe3"
     },
     {
       "album": {
@@ -17396,7 +17864,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 190001,
       "name": "ZOGANG",
       "url": "https://open.spotify.com/track/704UXFSCtUwpZYUIAj4bQT"
@@ -18132,7 +18600,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 182857,
       "name": "\u4e00\u77ac\u9593",
       "url": "https://open.spotify.com/track/1AtCVj7BKZfTRWO4MGiabZ"
@@ -18172,7 +18640,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 211003,
       "name": "\u505a\u7231\u505a\u7684\u4e8b",
       "url": "https://open.spotify.com/track/1jrHPa1MM06xfzRkHDqtZH"
@@ -18226,7 +18694,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 261008,
       "name": "\u5357\u5317\u5927\u9053",
       "url": "https://open.spotify.com/track/5w4Nh8Cs2QDK9MOOBSh8Gp"
@@ -18266,7 +18734,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 267000,
       "name": "\u592a\u967d\u843d\u4e0b",
       "url": "https://open.spotify.com/track/79yTkuq3yBHhtYuR6M6Yjv"
@@ -18302,7 +18770,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 247235,
       "name": "\u5b78\u9738",
       "url": "https://open.spotify.com/track/3OpoWoxIgIVne7JB27CYdX"
@@ -18324,7 +18792,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 240000,
       "name": "\u5c0f\u767d\u96f2",
       "url": "https://open.spotify.com/track/1nREpjbvKCLyJjcqonVaWH"
@@ -18378,7 +18846,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 184003,
       "name": "\u6210\u9f8d",
       "url": "https://open.spotify.com/track/1ingRfEOHUHGBToGBZVkT5"
@@ -18396,7 +18864,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 215004,
       "name": "\u6211\u7684\u5988\u5440",
       "url": "https://open.spotify.com/track/0PEZwFHWGiURu2HRyl5jRq"
@@ -18414,7 +18882,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 201000,
       "name": "\u6b22\u4e50\u4e16\u754c",
       "url": "https://open.spotify.com/track/30DpkaCth6drDEE2hNCd9I"
@@ -18490,7 +18958,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 189004,
       "name": "\u7f8e\u4e3d\u7684\u59b3",
       "url": "https://open.spotify.com/track/2T6AYvsD39QIoIBafh2RHt"
@@ -18580,7 +19048,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 247005,
       "name": "\u946b",
       "url": "https://open.spotify.com/track/2nLehOVwPMgHvUXofnzqZX"

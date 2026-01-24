@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "roots run deep",
+  "description": "roots run deep with Kashus Culpepper",
   "name": "homegrown",
   "tracks": [
     {
@@ -308,6 +308,24 @@
       "duration_ms": 124608,
       "name": "Aint Gotta Dollar",
       "url": "https://open.spotify.com/track/2USW8uFqLToqFKSVXDOEN8"
+    },
+    {
+      "album": {
+        "name": "Act I",
+        "url": "https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R"
+      },
+      "artists": [
+        {
+          "name": "Kashus Culpepper",
+          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223886,
+      "name": "Alabama Beauty Queen",
+      "url": "https://open.spotify.com/track/7rg80OVCvZN76iCjMaH5g8"
     },
     {
       "album": {
@@ -1883,6 +1901,24 @@
     },
     {
       "album": {
+        "name": "East Texas and You",
+        "url": "https://open.spotify.com/album/6r3qwX3dT5Qz2rENRPmOJj"
+      },
+      "artists": [
+        {
+          "name": "Solon Holt",
+          "url": "https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214089,
+      "name": "East Texas and You",
+      "url": "https://open.spotify.com/track/3Vl3sIrcTxAMmeh07x2zN2"
+    },
+    {
+      "album": {
         "name": "Eastern Kentucky",
         "url": "https://open.spotify.com/album/4fbqrkjymL0LAtCAFxq7Wd"
       },
@@ -2038,7 +2074,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 151973,
       "name": "Everything She Ain\u2019t",
       "url": "https://open.spotify.com/track/0ENB9P6WtUEKYjQ3dKnK23"
@@ -3622,7 +3658,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 178583,
       "name": "Johnny Moonshine",
       "url": "https://open.spotify.com/track/0stjCXW1ny6dRPtxhU6cqz"

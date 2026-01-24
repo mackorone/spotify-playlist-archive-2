@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Saint Harison",
+  "description": "R&B of the moment by the artists of the future. Cover: PHABO",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -2909,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "Ratchet & Blues",
+        "url": "https://open.spotify.com/album/7dYcz9wetA8fYJn7CmGVRd"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194705,
+      "name": "Before We Get In Here!",
+      "url": "https://open.spotify.com/track/2fF0gafyalVC79QziHA3f2"
+    },
+    {
+      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -3929,6 +3947,24 @@
     },
     {
       "album": {
+        "name": "Break Me In",
+        "url": "https://open.spotify.com/album/3qAQ2awAKHXsu0SKTKR0Wg"
+      },
+      "artists": [
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172506,
+      "name": "Break Me In",
+      "url": "https://open.spotify.com/track/6cIvHcpTltaYZP2FkbQWMr"
+    },
+    {
+      "album": {
         "name": "Breaking Point",
         "url": "https://open.spotify.com/album/4dyk9fUSB7SfSQE0CbyQI4"
       },
@@ -3944,6 +3980,24 @@
       "duration_ms": 293571,
       "name": "Breaking Point",
       "url": "https://open.spotify.com/track/2Eg5fW5yInLRGszS4s9eN6"
+    },
+    {
+      "album": {
+        "name": "BREATHE!",
+        "url": "https://open.spotify.com/album/2DK3WE4fJz4YgvaPz4ZXkw"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209395,
+      "name": "BREATHE!",
+      "url": "https://open.spotify.com/track/7pQ5f4zkmaS5G264xtbCvf"
     },
     {
       "album": {
@@ -5800,6 +5854,28 @@
       "duration_ms": 213809,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/2oyBmYlmteydrnLN6Adptl"
+    },
+    {
+      "album": {
+        "name": "CAMPILATION",
+        "url": "https://open.spotify.com/album/3ZvwuyvY78GsvVFkYk0wXD"
+      },
+      "artists": [
+        {
+          "name": "Camper",
+          "url": "https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp"
+        },
+        {
+          "name": "WanMor",
+          "url": "https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160528,
+      "name": "COME OVER (feat. WanMor)",
+      "url": "https://open.spotify.com/track/0DK1f5rcYqVE80FYAMJlIj"
     },
     {
       "album": {
@@ -10112,6 +10188,32 @@
       "duration_ms": 228000,
       "name": "Foolish",
       "url": "https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5"
+    },
+    {
+      "album": {
+        "name": "footwork",
+        "url": "https://open.spotify.com/album/23HUSuiX9Xtif1N5iBh5uj"
+      },
+      "artists": [
+        {
+          "name": "Ben Esser",
+          "url": "https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs"
+        },
+        {
+          "name": "Beau Diako",
+          "url": "https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu"
+        },
+        {
+          "name": "emawk",
+          "url": "https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "footwork",
+      "url": "https://open.spotify.com/track/1bkNnIkZpBB4tdhZwMji6Q"
     },
     {
       "album": {
@@ -15942,6 +16044,24 @@
       "duration_ms": 217304,
       "name": "Light Work",
       "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
+    },
+    {
+      "album": {
+        "name": "Ratchet & Blues",
+        "url": "https://open.spotify.com/album/7dYcz9wetA8fYJn7CmGVRd"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169811,
+      "name": "Lights Get Low",
+      "url": "https://open.spotify.com/track/7jictVSUaYcs9lkJ6t1MGj"
     },
     {
       "album": {
@@ -23447,6 +23567,28 @@
     },
     {
       "album": {
+        "name": "keepsake",
+        "url": "https://open.spotify.com/album/7qbYXzYoWTnlzDTHbs0oCS"
+      },
+      "artists": [
+        {
+          "name": "Ragz Originale",
+          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
+        },
+        {
+          "name": "Budgie",
+          "url": "https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155036,
+      "name": "same bed",
+      "url": "https://open.spotify.com/track/4hipQPwuLqq9RFxlpVAJET"
+    },
+    {
+      "album": {
         "name": "Same Ole Dreams",
         "url": "https://open.spotify.com/album/3VccZZ3U1bTrpGpbNvYIfi"
       },
@@ -25318,7 +25460,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 214488,
       "name": "SPEECHLESS",
       "url": "https://open.spotify.com/track/3QG7ScQMjttBGhEQWM3tEf"
@@ -27604,6 +27746,24 @@
       "duration_ms": 198000,
       "name": "Things Change",
       "url": "https://open.spotify.com/track/5iV1Ob5cBDcxiZROELgeur"
+    },
+    {
+      "album": {
+        "name": "What I Didn't Say",
+        "url": "https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk"
+      },
+      "artists": [
+        {
+          "name": "Nija",
+          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179146,
+      "name": "Things We Do",
+      "url": "https://open.spotify.com/track/2sRG4WyPyGNLC20djAMXAL"
     },
     {
       "album": {
@@ -30292,7 +30452,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 187248,
       "name": "Win Or Lose",
       "url": "https://open.spotify.com/track/4YUU0sam6DtijJ847SqjYf"

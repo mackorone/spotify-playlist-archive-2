@@ -4,7 +4,7 @@
 
 > Le meilleur de l'indie français\. Cover : Lilly Wood and The Prick
 
-782 songs - 1 day 17 hr 52 min
+782 songs - 1 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Dans quelques années](https://open.spotify.com/track/7iTKzfE7lcUMPfqNyeKQcE) | [Arca M](https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg) | [Dans quelques années](https://open.spotify.com/album/4XYeMFN1EkDkn3BMDrZACn) | 3:19 | 2025-05-08 | 2026-01-15 |
 | [dans tes yeux](https://open.spotify.com/track/3flkd70LFK3kEqip0lo5Eo) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [dans tes yeux](https://open.spotify.com/album/30JMjTjVI7rJrJw0YItrdf) | 3:16 | 2025-09-25 | 2026-01-23 |
 | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Fabiana Martone](https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1) | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf) | 4:04 | 2024-04-04 | 2024-05-03 |
-| [Dark Blue](https://open.spotify.com/track/4JOMI2LLRrhqnq5iXnx4hh) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4) | [](https://open.spotify.com/album/null) | 2:49 | 2026-01-22 |  |
+| [Dark Blue](https://open.spotify.com/track/4JOMI2LLRrhqnq5iXnx4hh) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4) | [Christina](https://open.spotify.com/album/1cPnlRW7jlDjRT40IjgZ4V) | 2:49 | 2026-01-22 |  |
 | [DARLING\. N6.23](https://open.spotify.com/track/2TeFJiZe6eFIM2aAjp8leW) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [SEASONS](https://open.spotify.com/album/0ySU41tw4sVCQVWnmb9XmL) | 4:02 | 2023-12-08 | 2024-08-02 |
 | [Day & Night](https://open.spotify.com/track/7B2RswVcMbBs70dFyxVGak) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Opening Soon](https://open.spotify.com/album/5YX88yWrZXIXhyPTpNQhHb) | 4:03 | 2023-08-31 | 2024-06-21 |
 | [De passage](https://open.spotify.com/track/4a0upuCaLwcfL7TBYAGfGu) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [De passage](https://open.spotify.com/album/7qUUnF1DQdPRJhIeoWd3XB) | 3:06 | 2023-11-23 | 2024-06-07 |
@@ -428,6 +428,7 @@
 | [Lost and found](https://open.spotify.com/track/3o5inGcKklTC2NwrCSUhQl) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Lost and found](https://open.spotify.com/album/3AVDhfJj8lyxdhLgSia94h) | 4:02 | 2023-09-21 | 2024-09-20 |
 | [Love](https://open.spotify.com/track/2DdwX6AeNWHtM2MDVBwosk) | [Nusky & Vaati](https://open.spotify.com/artist/4hQg3HQhXpqDWA0xi8rplg), [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Love](https://open.spotify.com/album/0w4szfJWUyvDX0zHhGHUPS) | 4:10 | 2022-06-30 | 2023-01-13 |
 | [Love from the Other Side](https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Love from the Other Side](https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n) | 4:09 | 2024-05-02 | 2024-11-22 |
+| [Love Me Better](https://open.spotify.com/track/0LoMlLQ5GyU9oXWMcHK0CQ) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Hugo Hamlet](https://open.spotify.com/artist/4sh4kcFQN5pZcNxX4eBGmO) | [Papooz & Friends](https://open.spotify.com/album/2Kn8qlxUCCXr4nIbJiNUWd) | 2:45 | 2026-01-22 |  |
 | [Love on Me \(Feat\. Later.\)](https://open.spotify.com/track/7fwa6nEqblfm4R4m21VOXi) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Blue Jeans](https://open.spotify.com/album/16H0zM50MAE4cHs9VKf958) | 3:05 | 2025-02-27 | 2025-09-19 |
 | [Love Scares](https://open.spotify.com/track/2eEKfCcbnCmpevVJfmqcPU) | [Naive New Beaters](https://open.spotify.com/artist/0xW1QQBD5O09HptO2fEaI4) | [FVTVRVM](https://open.spotify.com/album/2BxOeDV8tqsRRqIS5fk9QE) | 2:40 | 2024-06-06 | 2024-11-15 |
 | [Love! love! love!](https://open.spotify.com/track/0VUrBTBFYX8tkGUbWJ5wkD) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [BLOWSOM & friends](https://open.spotify.com/album/3ixRxq63i9d7drvJJf8UGs) | 3:22 | 2023-01-05 | 2023-04-14 |
@@ -710,7 +711,6 @@
 | [Tout va bien](https://open.spotify.com/track/17FECd8IneHV65pCJduuse) | [roland decembre](https://open.spotify.com/artist/2UxITzDZ5wN79zzSiJ9KeK) | [Tout va bien](https://open.spotify.com/album/7ce6rlPWieH0zykGdlFRXA) | 3:11 | 2023-02-02 | 2023-06-16 |
 | [Toute seule](https://open.spotify.com/track/1mdGek6V8hI7zibGut1ZO3) | [La Petite](https://open.spotify.com/artist/4ItZHQxj7Fg9HG0wumutTn) | [Toute seule](https://open.spotify.com/album/7InPIQqkXfyR1lq4AahEOg) | 3:33 | 2025-01-23 | 2025-02-14 |
 | [Toxic Sunny Delight](https://open.spotify.com/track/2xyn7wWJ7urittAvQXmPhI) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Toxic Sunny Delight](https://open.spotify.com/album/5073mQ9KqkmZCp663XcSga) | 3:46 | 2025-10-16 |  |
-| [Track 3](https://open.spotify.com/track/0LoMlLQ5GyU9oXWMcHK0CQ) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-22 |  |
 | [Tramp Like You](https://open.spotify.com/track/0rNww8SMuGZm8GkDWeHtLi) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 5:24 | 2023-04-27 | 2023-06-30 |
 | [Tramp Like You](https://open.spotify.com/track/2wWlrpVleWOYkOqhpkV2EJ) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Tramp Like You](https://open.spotify.com/album/21uaZE9JBRZDNHNouEO8Df) | 5:24 | 2023-01-19 | 2023-04-30 |
 | [Tremble](https://open.spotify.com/track/0CtxWz2N4SWN3dUr40UV16) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Tremble](https://open.spotify.com/album/4IJQPPqyI0qvRjxjTUpeeq) | 3:04 | 2025-12-04 |  |

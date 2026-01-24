@@ -37329,6 +37329,24 @@
     },
     {
       "album": {
+        "name": "SUPERPOWER",
+        "url": "https://open.spotify.com/album/59bZTwbP5bkzmszQpPxylL"
+      },
+      "artists": [
+        {
+          "name": "Issei Uno Fifth",
+          "url": "https://open.spotify.com/artist/3ChsBdunsttUJkFhSKRhfq"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158059,
+      "name": "SUPERPOWER",
+      "url": "https://open.spotify.com/track/4zyHEn4Y2v2b1OSI1XCGPI"
+    },
+    {
+      "album": {
         "name": "Survive & Celebrate",
         "url": "https://open.spotify.com/album/4sDQvq9jYUqz7zG7xXHfmE"
       },

@@ -1197,6 +1197,28 @@
     },
     {
       "album": {
+        "name": "LA 8VA MARAVILLA",
+        "url": "https://open.spotify.com/album/4ZMzNSoTgWgSfkBpJTCx9w"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204861,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/1heIify4NygHEzqrozuVKK"
+    },
+    {
+      "album": {
         "name": "Los Besos",
         "url": "https://open.spotify.com/album/0sjHYEx0vgbhUULHgJTFWs"
       },
@@ -1394,7 +1416,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 171450,
       "name": "Mi Piel",
       "url": "https://open.spotify.com/track/58fQ7cd0DFCfbowqm8MZAe"
@@ -1827,6 +1849,24 @@
     },
     {
       "album": {
+        "name": "Rollitos de Papel",
+        "url": "https://open.spotify.com/album/7eZ9SGcuTyYH6tHeLFhuu1"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182475,
+      "name": "Rollitos de Papel",
+      "url": "https://open.spotify.com/track/2In4JKhdvDXXszMTh6PlnN"
+    },
+    {
+      "album": {
         "name": "Salir Con Vida",
         "url": "https://open.spotify.com/album/3mwKjQSJdQTY0ZdakLi0Vp"
       },
@@ -1972,7 +2012,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 146282,
       "name": "Soy un HP",
       "url": "https://open.spotify.com/track/70GjuOgd1NuiPTs82JBIUn"

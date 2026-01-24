@@ -4,7 +4,7 @@
 
 > music from the underworld
 
-284 songs - 10 hr 8 min
+285 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Dead n Gone](https://open.spotify.com/track/2vyAxGW8KhJV1C4rGRCwco) | [Luci4](https://open.spotify.com/artist/6yDXDmZZOF22c07t6L6fgq) | [Dead n Gone](https://open.spotify.com/album/7wfrRI6BAK3b973nWm8mza) | 1:06 | 2023-07-21 |  |
 | [Deja Vu](https://open.spotify.com/track/0OUi9zba0JPxQDNu2Ai7Pd) | [Xdree](https://open.spotify.com/artist/17Yti8tBhhUiZ7UlVXFBcT) | [Deja Vu](https://open.spotify.com/album/0XaklX8nH10hpgmLLxMtk5) | 1:56 | 2024-01-12 | 2024-02-24 |
 | [Deja Vu](https://open.spotify.com/track/7J80jpbKwYn9SM6kMT5W4n) | [Xdree](https://open.spotify.com/artist/17Yti8tBhhUiZ7UlVXFBcT) | [Deja Vu](https://open.spotify.com/album/21ybrq6nSnZLmARNUkurgs) | 1:56 | 2024-01-05 | 2024-02-08 |
+| [DELIRIUM TREMENS](https://open.spotify.com/track/5jkiVGkaOMOHcYOIK29ApL) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [DELIRIUM TREMENS](https://open.spotify.com/album/6lspNtfW62lyaqsiIn1N2O) | 2:28 | 2026-01-23 |  |
 | [Destruction Age](https://open.spotify.com/track/2H0WNvfr7lQ3aazMoyzRdr) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53) | [Destruction Age](https://open.spotify.com/album/31gFYgdxJKoqU8r0xhp0qk) | 3:07 | 2024-04-12 |  |
 | [DICE AND ROLL](https://open.spotify.com/track/6yMGcFkUPJWW7Mwy5pY6GC) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [DICE AND ROLL](https://open.spotify.com/album/7HjhTNKB0MZYWXiQF4VH5a) | 2:00 | 2024-03-21 |  |
 | [Die Sterne](https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Die Sterne](https://open.spotify.com/album/5MWl80M1azmxFDfUyxVYEy) | 1:28 | 2024-03-05 | 2025-10-04 |
@@ -270,7 +271,7 @@
 | [uhh p2.](https://open.spotify.com/track/0zdq7gjKevgTyG470OL9fB) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [COME MESS WIT ME!](https://open.spotify.com/album/2NkAZGW41Rv51ABPHvKhDB) | 1:21 | 2023-07-21 | 2023-08-26 |
 | [ULTRA INSTINCT \(w/ kets4eki\)](https://open.spotify.com/track/3UXCy97AkTZ3LpthG82uXz) | [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG) | [ULTRA INSTINCT \(w/ kets4eki\)](https://open.spotify.com/album/4VlYotfJ2aC2E0Px7lKUoT) | 1:59 | 2024-04-26 | 2024-06-14 |
 | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/track/3fC7BKJN66Tyq44x6Try2R) | [glwzbll](https://open.spotify.com/artist/4xNuIo74R6m1eXaz7RlpZ6) | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/album/5a9uibuVUtMag0L3Fo8gkQ) | 3:12 | 2023-12-01 |  |
-| [UP FREESTYLE \(w/ Odetari\)](https://open.spotify.com/track/3PK8TBRB27QOAsmawBeYcB) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [UP FREESTYLE \(w/ Odetari\)](https://open.spotify.com/album/6RVy4V3fnzmeEmjJYBKkfL) | 1:59 | 2025-03-14 |  |
+| [UP FREESTYLE \(w/ Odetari\)](https://open.spotify.com/track/3PK8TBRB27QOAsmawBeYcB) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [UP FREESTYLE \(w/ Odetari\)](https://open.spotify.com/album/6RVy4V3fnzmeEmjJYBKkfL) | 1:59 | 2025-03-14 | 2026-01-24 |
 | [vampire love](https://open.spotify.com/track/6HcEJg4rcHWNEI0bD5Wvvp) | [nami](https://open.spotify.com/artist/3E2CPSMNaUMT0OosI4ogam) | [vampire love](https://open.spotify.com/album/0EIqsSmwIP5GZJesgYTchK) | 2:43 | 2023-08-18 | 2023-09-02 |
 | [VULTURES.](https://open.spotify.com/track/60bQWITZcbMHlKkXwmAEeD) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [VULTURES.](https://open.spotify.com/album/6sMu1eI4V6yEeYbtSNfXuT) | 3:23 | 2024-05-17 |  |
 | [waiting alonE](https://open.spotify.com/track/4kZgxSySjVSLRpegVw8SsX) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [waiting alonE](https://open.spotify.com/album/342UvGijO1QgI9wQFXDq9m) | 2:53 | 2023-08-11 | 2023-08-15 |

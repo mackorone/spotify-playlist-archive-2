@@ -4,7 +4,7 @@
 
 > Inspirational hip\-hop\. Cover: Limoblaze
 
-535 songs - 1 day 2 hr 48 min
+536 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [In the Garden](https://open.spotify.com/track/1hsU0Vh95IkTdWSdDJCkiT) | [Vonte Grace](https://open.spotify.com/artist/30AhNQp84UNri9KgWyA0XQ), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [In the Garden](https://open.spotify.com/album/6zTCHVL5HmEtqZ8caJKEaf) | 3:40 | 2022-05-28 | 2022-11-13 |
 | [Indie](https://open.spotify.com/track/4OU4JK6MhbUYM2ApUOaUVq) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Indie](https://open.spotify.com/album/6RyBE5XkSleRPtwsEXk8tA) | 1:44 | 2021-12-11 | 2022-07-27 |
 | [INTRO](https://open.spotify.com/track/77KMttn3Lic7ZQKDlPqp8v) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 2:52 | 2025-03-28 | 2025-06-14 |
-| [Intro \(Hope\)](https://open.spotify.com/track/6eo9xRtWnD9QCFYJ4IS7pa) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [City Cinderella](https://open.spotify.com/album/66HrXUpGRlJdwXIw7B9SQI) | 2:28 | 2025-03-21 |  |
+| [Intro \(Hope\)](https://open.spotify.com/track/6eo9xRtWnD9QCFYJ4IS7pa) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [City Cinderella](https://open.spotify.com/album/66HrXUpGRlJdwXIw7B9SQI) | 2:28 | 2025-03-21 | 2026-01-24 |
 | [Irresponsible](https://open.spotify.com/track/4ag9fLWCLsiZgj1GvK52GE) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Irresponsible](https://open.spotify.com/album/0L4s7cWKEUFvAthWfWtDtT) | 3:28 | 2021-12-11 | 2022-11-19 |
 | [Is That Okay?](https://open.spotify.com/track/099784bsl81kMShKql5hvT) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [Feared By Hell](https://open.spotify.com/album/4SzRSzmKDSJiCe4WHyAwjc) | 3:50 | 2021-12-11 | 2022-07-28 |
 | [Is That Okay?](https://open.spotify.com/track/3FhQVWIymc22pRKRc0F53k) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Feared By Hell \- Reanimation](https://open.spotify.com/album/3AskOToQ9Ar7gA25H1C7WN) | 4:24 | 2021-12-11 | 2024-08-27 |
@@ -470,6 +470,7 @@
 | [The City Is Mine](https://open.spotify.com/track/04jZiRSpNucRPCAab0bK53) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [We Already Won](https://open.spotify.com/album/5FjeaQ1gGVrgTzwwbkB4cx) | 2:57 | 2024-06-25 | 2024-08-27 |
 | [The Method](https://open.spotify.com/track/0dFH3oc8wikiyi5p5gLUlP) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Get Well Soon!](https://open.spotify.com/album/1v7XLUz7h8OYrxGjb9n2tA) | 3:16 | 2025-05-23 |  |
 | [The Offering](https://open.spotify.com/track/2t2T8tPFnwZm8UmwsUqsLB) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [The Offering](https://open.spotify.com/album/2M3BwnvthgGXqU4gcmXs3c) | 1:46 | 2022-05-28 | 2023-02-22 |
+| [THE ONE \(FEAT\. PHARRELL WILLIAMS\)](https://open.spotify.com/track/0FhJlX7tfC1FPkRxu5vaPa) | [Voices of Fire](https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [THE ONE \(FEAT\. PHARRELL WILLIAMS\)](https://open.spotify.com/album/5tV2bocoFi3meMBfiK2JjU) | 3:06 | 2026-01-23 |  |
 | [The One Where I Talk To God](https://open.spotify.com/track/6ZW8f8xNkauNEKBQthQaas) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Tree Giants](https://open.spotify.com/artist/4Cp7yuORQTCa9GUfvb2gss) | [Marty For President 2](https://open.spotify.com/album/5q0lLOpbosrUJTR3oRztJw) | 3:21 | 2021-12-11 | 2022-11-19 |
 | [The Truth](https://open.spotify.com/track/4zgT4ofik5gzGZGTUzhAfX) | [Road to Restoration](https://open.spotify.com/artist/5HNGuh45sTuaF2y8xr2nKt), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [The Truth](https://open.spotify.com/album/1eLtVuTe9osRrF2XhfvaH2) | 2:47 | 2025-11-07 |  |
 | [The Very Best](https://open.spotify.com/track/2M1KyNwYomukvS9luSdhWw) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [Yasiin Bey](https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH), [Mannie Fresh](https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1) | [The Very Best](https://open.spotify.com/album/4S0QVgdgtTbl63O18ydUiP) | 3:54 | 2025-01-24 |  |

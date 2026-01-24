@@ -6383,6 +6383,24 @@
     },
     {
       "album": {
+        "name": "Cherry Cake",
+        "url": "https://open.spotify.com/album/0p0fEqkNKfcuPi4OOBUcpt"
+      },
+      "artists": [
+        {
+          "name": "CHACHI",
+          "url": "https://open.spotify.com/artist/6XGU6VA1KDqe2JX5axFi7N"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169880,
+      "name": "Cherry Cake",
+      "url": "https://open.spotify.com/track/09cYHNcsOsUIDSXXWCOVQj"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -6756,7 +6774,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 167293,
       "name": "Cokis ja Mentos",
       "url": "https://open.spotify.com/track/7epSxuVlx3PKqCqQcr42i1"

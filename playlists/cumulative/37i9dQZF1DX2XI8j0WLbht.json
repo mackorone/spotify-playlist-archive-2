@@ -411,6 +411,24 @@
     },
     {
       "album": {
+        "name": "As\u00ed Llegaste",
+        "url": "https://open.spotify.com/album/5X5kY72Pcz3j4cqOkurYFw"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156389,
+      "name": "As\u00ed Llegaste",
+      "url": "https://open.spotify.com/track/6GDlDcAf5NkzdRj4huEHWn"
+    },
+    {
+      "album": {
         "name": "Ay Cupido",
         "url": "https://open.spotify.com/album/27uUKCRJgmYTyIzH1ayZ90"
       },
@@ -830,7 +848,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 190760,
       "name": "Clara Demente",
       "url": "https://open.spotify.com/track/2OzbdPWxKMk092M1Rqj9aG"
@@ -2588,7 +2606,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 171895,
       "name": "MARQUEZA",
       "url": "https://open.spotify.com/track/0pBHeleLcx7F6IUiy2IXcs"
@@ -3158,6 +3176,24 @@
       "duration_ms": 189107,
       "name": "No s\u00e9",
       "url": "https://open.spotify.com/track/3f82CTFrfRUQcFnPcOBhU4"
+    },
+    {
+      "album": {
+        "name": "no s\u00e9",
+        "url": "https://open.spotify.com/album/6z44re4pwE8Ye6YFOgJw7D"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "no s\u00e9",
+      "url": "https://open.spotify.com/track/2TGuIQbw62MSxJzBkpF8dC"
     },
     {
       "album": {
@@ -3751,6 +3787,24 @@
     },
     {
       "album": {
+        "name": "Se Me Esta Yendo La Vida",
+        "url": "https://open.spotify.com/album/1rcvdzVO3zQqMe2oGKq0yQ"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182717,
+      "name": "Se Me Esta Yendo La Vida",
+      "url": "https://open.spotify.com/track/0ndENUoSD83yGr9lXbJQFH"
+    },
+    {
+      "album": {
         "name": "Se Me Va A Quemar El Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3GCJk2I7oqa1WTKtaGv9ya"
       },
@@ -4074,7 +4128,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 168125,
       "name": "So\u00f1ar Contigo",
       "url": "https://open.spotify.com/track/0i1W9QxdJKLZjxbgBKYv82"

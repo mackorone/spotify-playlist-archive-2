@@ -241,6 +241,40 @@
     },
     {
       "album": {
+        "name": "357",
+        "url": "https://open.spotify.com/album/4VgppO1fcLVuwi6TxH8ePU"
+      },
+      "artists": [
+        {
+          "name": "333XPLICIT",
+          "url": "https://open.spotify.com/artist/3z2C7Wi3arsipWF2W6Bf7e"
+        },
+        {
+          "name": "Jabdiel",
+          "url": "https://open.spotify.com/artist/5zSy4lhTorzbAyktTLT8Zm"
+        },
+        {
+          "name": "El Derk",
+          "url": "https://open.spotify.com/artist/701KIi8HRavu6p07PBZNxZ"
+        },
+        {
+          "name": "DNVR OFICIAL",
+          "url": "https://open.spotify.com/artist/44MSNiaKMjKE857YdQ1PDY"
+        },
+        {
+          "name": "NAZETH",
+          "url": "https://open.spotify.com/artist/4ASO3fjXNJFgmwa8wchzDC"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256981,
+      "name": "357",
+      "url": "https://open.spotify.com/track/6YNIdFkHknzS4fQBH0q6ZL"
+    },
+    {
+      "album": {
         "name": "3:16",
         "url": "https://open.spotify.com/album/2Dg5c9x8pU0knsdn7J9goi"
       },
@@ -3230,6 +3264,24 @@
       "duration_ms": 151894,
       "name": "Desv\u00edstete Lento",
       "url": "https://open.spotify.com/track/6cJLmo2HIP4Z8ZbceoSBK6"
+    },
+    {
+      "album": {
+        "name": "Diablita y Bonita",
+        "url": "https://open.spotify.com/album/6eQwBS5kgI42T1duGKJy51"
+      },
+      "artists": [
+        {
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131752,
+      "name": "Diablita y Bonita",
+      "url": "https://open.spotify.com/track/2uG0H3KiP6HIUJIdFQq90b"
     },
     {
       "album": {
@@ -7514,7 +7566,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 177618,
       "name": "Me Quieren Ver Mal",
       "url": "https://open.spotify.com/track/538TKsiy4mNXquQAQpWVPD"
@@ -7647,6 +7699,24 @@
     },
     {
       "album": {
+        "name": "Mentality y Mamba",
+        "url": "https://open.spotify.com/album/1coDoh3kfXz6Fam1ixaIuy"
+      },
+      "artists": [
+        {
+          "name": "Jorkan",
+          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180618,
+      "name": "Mentality Mamba",
+      "url": "https://open.spotify.com/track/6R3YXYOgvlsHGOqHK5I4Xs"
+    },
+    {
+      "album": {
         "name": "MENTIRITA",
         "url": "https://open.spotify.com/album/4vYqRVVHHf5Aq36jvID57S"
       },
@@ -7762,7 +7832,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 168855,
       "name": "MI BITCH",
       "url": "https://open.spotify.com/track/2j9zS7HUrpKr3WQK7LpHZC"
@@ -13130,7 +13200,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 209946,
       "name": "TOCAME",
       "url": "https://open.spotify.com/track/3GixdIN1m0JuLZzbYiIA2E"

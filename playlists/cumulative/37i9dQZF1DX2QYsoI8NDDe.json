@@ -1857,6 +1857,24 @@
     },
     {
       "album": {
+        "name": "Cuando Una Mujer",
+        "url": "https://open.spotify.com/album/6Kqio6YmPAge6dLPtV0cYh"
+      },
+      "artists": [
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156394,
+      "name": "Cuando Una Mujer",
+      "url": "https://open.spotify.com/track/3avC8Pl0P86k3GQjE1h9y1"
+    },
+    {
+      "album": {
         "name": "Cuanto Te Amo",
         "url": "https://open.spotify.com/album/2ILRR1XBqTsQcq0vkn4FQ1"
       },
@@ -5622,7 +5640,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 208494,
       "name": "Mejor Que T\u00fa",
       "url": "https://open.spotify.com/track/0NTvttKPwlAfHz5RFdXTHi"
@@ -9449,6 +9467,24 @@
     },
     {
       "album": {
+        "name": "Soy Fan",
+        "url": "https://open.spotify.com/album/5IOMxDPKMtuqX72hEwhz3Z"
+      },
+      "artists": [
+        {
+          "name": "RIA",
+          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176714,
+      "name": "Soy Fan",
+      "url": "https://open.spotify.com/track/214dHBkQIghUJArTL083fZ"
+    },
+    {
+      "album": {
         "name": "Adrenalina",
         "url": "https://open.spotify.com/album/4806StxcG6kpJXdGwMH9Tc"
       },
@@ -9884,7 +9920,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 216918,
       "name": "Tequila Mariachi",
       "url": "https://open.spotify.com/track/1M2iTJ1l3OIjA5X4S65BGk"

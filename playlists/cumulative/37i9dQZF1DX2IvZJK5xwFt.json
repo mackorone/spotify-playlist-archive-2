@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Only the best rock in the world. Cover: M\u00e5neskin",
+  "description": "Only the best rock in the world. Cover: Linkin Park",
   "name": "Just Rock!",
   "tracks": [
     {
@@ -1560,7 +1560,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 209241,
       "name": "Believe",
       "url": "https://open.spotify.com/track/5Go07nZ9b52eUkKZg1RnwJ"
@@ -2370,7 +2370,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 189163,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/0XtIdZsfxDc9Q3Lrr2RuGF"
@@ -3911,6 +3911,24 @@
     },
     {
       "album": {
+        "name": "Death Punch",
+        "url": "https://open.spotify.com/album/7lXuabjE2Qm85E17QZlEWF"
+      },
+      "artists": [
+        {
+          "name": "Vundabar",
+          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155331,
+      "name": "Death Punch",
+      "url": "https://open.spotify.com/track/3LCDYEISvX2IRlb2xOxqli"
+    },
+    {
+      "album": {
         "name": "DEEP CUTS",
         "url": "https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO"
       },
@@ -5118,7 +5136,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 194153,
       "name": "Fairytale of New York",
       "url": "https://open.spotify.com/track/1d1SxjxGuw1ZdWdFXxIri7"
@@ -6207,6 +6225,24 @@
     },
     {
       "album": {
+        "name": "God's Eye",
+        "url": "https://open.spotify.com/album/5iPaMXX4jgANF9uiEERtxi"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131653,
+      "name": "God\u2019s Eye",
+      "url": "https://open.spotify.com/track/3G600027WLRbsunHeYJ5G2"
+    },
+    {
+      "album": {
         "name": "Chaos In Bloom",
         "url": "https://open.spotify.com/album/2uHbskNXxJFARyl686aN6T"
       },
@@ -6934,7 +6970,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
@@ -7832,6 +7868,24 @@
       "duration_ms": 235386,
       "name": "I'm Alice",
       "url": "https://open.spotify.com/track/1OGQwgrHDoNr8bHZxt6cCZ"
+    },
+    {
+      "album": {
+        "name": "Not Like Everybody Else",
+        "url": "https://open.spotify.com/album/28pRfoAGlowiuGus9h4lBq"
+      },
+      "artists": [
+        {
+          "name": "The Damned",
+          "url": "https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219994,
+      "name": "I'm Not Like Everybody Else",
+      "url": "https://open.spotify.com/track/2j8iKhPAdhLGWeWXyGsRd6"
     },
     {
       "album": {
@@ -8944,7 +8998,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 233737,
       "name": "Left For Good",
       "url": "https://open.spotify.com/track/4pjSe7n2609YnMWnrJ3OVJ"
@@ -9320,7 +9374,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 218986,
       "name": "Living Proof (with Jelly Roll)",
       "url": "https://open.spotify.com/track/08G3FAarAmXbX5szqZ3vwV"
@@ -9436,6 +9490,24 @@
       "duration_ms": 203733,
       "name": "Looking for a Fight",
       "url": "https://open.spotify.com/track/1gxaZZaM4pxrUNQ0Sx8bGv"
+    },
+    {
+      "album": {
+        "name": "Kuroi Echoes",
+        "url": "https://open.spotify.com/album/6YQ5zvaQ8gsB076SoL9ZhS"
+      },
+      "artists": [
+        {
+          "name": "aoni",
+          "url": "https://open.spotify.com/artist/3AcR5cfA2SMdwm5v0FPvvn"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175309,
+      "name": "lost",
+      "url": "https://open.spotify.com/track/7LKD6LKTziLqv8oXo6iv3e"
     },
     {
       "album": {
@@ -10304,6 +10376,24 @@
       "duration_ms": 307964,
       "name": "Modus Operandi",
       "url": "https://open.spotify.com/track/5gfyyaTLKR8HgF5afzwdDe"
+    },
+    {
+      "album": {
+        "name": "Monolith",
+        "url": "https://open.spotify.com/album/60D53NppKnWqnepqsq3wX4"
+      },
+      "artists": [
+        {
+          "name": "Death Lens",
+          "url": "https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212215,
+      "name": "Monolith",
+      "url": "https://open.spotify.com/track/2qWJ3H3iMEnkeyi8t0QfGr"
     },
     {
       "album": {
@@ -12503,6 +12593,24 @@
     },
     {
       "album": {
+        "name": "Puppet Parade",
+        "url": "https://open.spotify.com/album/4c2I5KEpliGFpP3YGY2jMq"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280924,
+      "name": "Puppet Parade",
+      "url": "https://open.spotify.com/track/1wK0EaN9EAuSNSp3uB3rgs"
+    },
+    {
+      "album": {
         "name": "Puppets Can\u2019t Control You",
         "url": "https://open.spotify.com/album/5Sy2lygukJmycmwJ2sLr0K"
       },
@@ -12886,6 +12994,24 @@
       "duration_ms": 221093,
       "name": "Ricochet",
       "url": "https://open.spotify.com/track/06daWaRQMjUCGUUWggs5Cs"
+    },
+    {
+      "album": {
+        "name": "Megadeth",
+        "url": "https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371228,
+      "name": "Ride The Lightning (Bonus Track)",
+      "url": "https://open.spotify.com/track/1ID9SzJR4OFRwinOqYlJf4"
     },
     {
       "album": {
@@ -13662,7 +13788,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 215268,
       "name": "Searchlight",
       "url": "https://open.spotify.com/track/20fm2tV8FUuonX96Db1bGo"
@@ -13828,7 +13954,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 249818,
       "name": "SHATTERED DREAMS",
       "url": "https://open.spotify.com/track/5dOfJ0XfW7hTt6VsvUKc4s"
@@ -16468,6 +16594,24 @@
       "duration_ms": 285293,
       "name": "Time Will Heal",
       "url": "https://open.spotify.com/track/3C8X7PC4W4m53X5d1JIy0F"
+    },
+    {
+      "album": {
+        "name": "Empty Hands",
+        "url": "https://open.spotify.com/album/5lBm36eO5Us3NpTXaA9t9C"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207200,
+      "name": "Time Will Tell",
+      "url": "https://open.spotify.com/track/1v9OAyGabSeIOH2VWIJ0wx"
     },
     {
       "album": {

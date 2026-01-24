@@ -1,6 +1,6 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 54786,
+  "num_followers": 54844,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -148,7 +148,7 @@
           "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
         }
       ],
-      "duration_ms": 223578,
+      "duration_ms": 196202,
       "name": "Solace",
       "url": "https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx"
     },
@@ -651,22 +651,26 @@
     {
       "added_at": "2026-01-23 00:01:25",
       "album": {
-        "name": "Fuji",
-        "url": "https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J"
+        "name": "Yin Yang",
+        "url": "https://open.spotify.com/album/7IU7fW4ehUnTiyaZZm9zRb"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "TiMi",
+          "url": "https://open.spotify.com/artist/0BQyOgobSOkQ7u4vTG7fPJ"
         },
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Kpee",
+          "url": "https://open.spotify.com/artist/0R0U0reEPZrIBPCu9dp1Jf"
+        },
+        {
+          "name": "Priesst",
+          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
         }
       ],
-      "duration_ms": 163826,
-      "name": "Only God Can Save Me",
-      "url": "https://open.spotify.com/track/3S3i0KI1QrbRbmdqS5zr9a"
+      "duration_ms": 194098,
+      "name": "Soldier",
+      "url": "https://open.spotify.com/track/1DP4141W3KiwsYaZSAWUb7"
     },
     {
       "added_at": "2026-01-23 00:01:25",
@@ -691,26 +695,22 @@
     {
       "added_at": "2026-01-23 00:01:25",
       "album": {
-        "name": "Yin Yang",
-        "url": "https://open.spotify.com/album/7IU7fW4ehUnTiyaZZm9zRb"
+        "name": "Fuji",
+        "url": "https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J"
       },
       "artists": [
         {
-          "name": "TiMi",
-          "url": "https://open.spotify.com/artist/0BQyOgobSOkQ7u4vTG7fPJ"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         },
         {
-          "name": "Kpee",
-          "url": "https://open.spotify.com/artist/0R0U0reEPZrIBPCu9dp1Jf"
-        },
-        {
-          "name": "Priesst",
-          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 194098,
-      "name": "Soldier",
-      "url": "https://open.spotify.com/track/1DP4141W3KiwsYaZSAWUb7"
+      "duration_ms": 163826,
+      "name": "Only God Can Save Me",
+      "url": "https://open.spotify.com/track/3S3i0KI1QrbRbmdqS5zr9a"
     },
     {
       "added_at": "2026-01-23 00:01:25",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-01-23 00:01:25",
       "album": {
+        "name": "Love & Hustle",
+        "url": "https://open.spotify.com/album/1Ls0a3Dh4vKHKwL1Y3OuD7"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "duration_ms": 180612,
+      "name": "Princess Treatment",
+      "url": "https://open.spotify.com/track/1cKWbkAzK87PElmioUP01o"
+    },
+    {
+      "added_at": "2026-01-23 00:01:25",
+      "album": {
         "name": "A Street Kid's Diary",
         "url": "https://open.spotify.com/album/03CVM99wc5g02qpBGKgfYM"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 223020,
       "name": "OTS",
       "url": "https://open.spotify.com/track/4Wq6zxgdDDHqsVOYv9T0bz"
-    },
-    {
-      "added_at": "2026-01-23 00:01:25",
-      "album": {
-        "name": "Love & Hustle",
-        "url": "https://open.spotify.com/album/1Ls0a3Dh4vKHKwL1Y3OuD7"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        }
-      ],
-      "duration_ms": 180612,
-      "name": "Princess Treatment",
-      "url": "https://open.spotify.com/track/1cKWbkAzK87PElmioUP01o"
     },
     {
       "added_at": "2026-01-23 00:01:25",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-01-23 00:01:25",
       "album": {
+        "name": "Cheerleader",
+        "url": "https://open.spotify.com/album/6DQ2VtjFoW67qav6ucPJ0Z"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 126206,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/7HBNQu4Fe6DHm6T1KRSIVc"
+    },
+    {
+      "added_at": "2026-01-23 00:01:25",
+      "album": {
         "name": "About Us (with Qing Madi)",
         "url": "https://open.spotify.com/album/11TkaFcpWOGGf2rYuXbspT"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 177773,
       "name": "About Us (with Qing Madi)",
       "url": "https://open.spotify.com/track/4azm407NNKTVQpXFTk3v0h"
-    },
-    {
-      "added_at": "2026-01-23 00:01:25",
-      "album": {
-        "name": "Cheerleader",
-        "url": "https://open.spotify.com/album/6DQ2VtjFoW67qav6ucPJ0Z"
-      },
-      "artists": [
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 126206,
-      "name": "Cheerleader",
-      "url": "https://open.spotify.com/track/7HBNQu4Fe6DHm6T1KRSIVc"
     },
     {
       "added_at": "2026-01-23 00:01:25",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-01-23 00:01:25",
       "album": {
+        "name": "Olayemi",
+        "url": "https://open.spotify.com/album/4wIqqlZlsh8cTmyMT2qycY"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "duration_ms": 200526,
+      "name": "I miss you die",
+      "url": "https://open.spotify.com/track/7swzo2S4OPXeBmHnSXolVw"
+    },
+    {
+      "added_at": "2026-01-23 00:01:25",
+      "album": {
         "name": "Control (with Joeboy & Bella Shmurda)",
         "url": "https://open.spotify.com/album/3Uw9jJDZqTVdE0JAl7Za1a"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 185880,
       "name": "Control (with Joeboy & Bella Shmurda)",
       "url": "https://open.spotify.com/track/4wdWoMwW8W4HfKj49XQm0S"
-    },
-    {
-      "added_at": "2026-01-23 00:01:25",
-      "album": {
-        "name": "Olayemi",
-        "url": "https://open.spotify.com/album/4wIqqlZlsh8cTmyMT2qycY"
-      },
-      "artists": [
-        {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        }
-      ],
-      "duration_ms": 200526,
-      "name": "I miss you die",
-      "url": "https://open.spotify.com/track/7swzo2S4OPXeBmHnSXolVw"
     },
     {
       "added_at": "2026-01-23 00:01:25",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2026-01-23 00:01:25",
       "album": {
+        "name": "Dare You",
+        "url": "https://open.spotify.com/album/4UfnbpqyLkQULrkf2jkfTp"
+      },
+      "artists": [
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 182044,
+      "name": "Dare You",
+      "url": "https://open.spotify.com/track/2SJYvOEDMMiVXlctHQ8WJ2"
+    },
+    {
+      "added_at": "2026-01-23 00:01:25",
+      "album": {
         "name": "K.O.K",
         "url": "https://open.spotify.com/album/1P5BXDSNnqjkPpUMGcmjtt"
       },
@@ -1331,6 +1351,82 @@
       "duration_ms": 157714,
       "name": "K.O.K",
       "url": "https://open.spotify.com/track/1jS5C5fntvTGsoq3khJ8Pa"
+    },
+    {
+      "added_at": "2026-01-23 00:01:25",
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/2fAsi13z2Xne3Uke6cNDjr"
+      },
+      "artists": [
+        {
+          "name": "Paulo Chakal",
+          "url": "https://open.spotify.com/artist/0RmMqOdyj5lvgDY2GU2R8q"
+        },
+        {
+          "name": "Hyce",
+          "url": "https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA"
+        }
+      ],
+      "duration_ms": 164458,
+      "name": "For Life",
+      "url": "https://open.spotify.com/track/3AQQQuvDhbER2K6a9ZajdE"
+    },
+    {
+      "added_at": "2026-01-23 00:01:25",
+      "album": {
+        "name": "Love from you",
+        "url": "https://open.spotify.com/album/355m6fBtclUpvYQBrk9Uwb"
+      },
+      "artists": [
+        {
+          "name": "JJ PAULO",
+          "url": "https://open.spotify.com/artist/6qz66TzT4aoNkudjDofqfm"
+        }
+      ],
+      "duration_ms": 145487,
+      "name": "Love from you",
+      "url": "https://open.spotify.com/track/02yvbpLiSqrMJvpFw5cvOp"
+    },
+    {
+      "added_at": "2026-01-23 00:01:25",
+      "album": {
+        "name": "Real One",
+        "url": "https://open.spotify.com/album/7351sYtk4c8YGx2ZZRC0MW"
+      },
+      "artists": [
+        {
+          "name": "Damare YK",
+          "url": "https://open.spotify.com/artist/4elUk2W9Rax90tFNC9TUDz"
+        },
+        {
+          "name": "K0NYE",
+          "url": "https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ"
+        }
+      ],
+      "duration_ms": 170680,
+      "name": "Real One",
+      "url": "https://open.spotify.com/track/2YpJDMZrgfqUFNOn9ocJHe"
+    },
+    {
+      "added_at": "2026-01-23 00:01:25",
+      "album": {
+        "name": "Novacaine",
+        "url": "https://open.spotify.com/album/1Xx313px4lu947MnygS9ej"
+      },
+      "artists": [
+        {
+          "name": "K0NYE",
+          "url": "https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ"
+        },
+        {
+          "name": "DEBAYO",
+          "url": "https://open.spotify.com/artist/2uBCvfIeglYX3d6NOKKxGL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Novacaine",
+      "url": "https://open.spotify.com/track/6lkYy8wRZiVOp33BgyiXMu"
     },
     {
       "added_at": "2026-01-23 00:01:25",
@@ -1387,66 +1483,6 @@
     {
       "added_at": "2026-01-23 00:01:25",
       "album": {
-        "name": "Dare You",
-        "url": "https://open.spotify.com/album/4UfnbpqyLkQULrkf2jkfTp"
-      },
-      "artists": [
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 182044,
-      "name": "Dare You",
-      "url": "https://open.spotify.com/track/2SJYvOEDMMiVXlctHQ8WJ2"
-    },
-    {
-      "added_at": "2026-01-23 00:01:25",
-      "album": {
-        "name": "Novacaine",
-        "url": "https://open.spotify.com/album/1Xx313px4lu947MnygS9ej"
-      },
-      "artists": [
-        {
-          "name": "K0NYE",
-          "url": "https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ"
-        },
-        {
-          "name": "DEBAYO",
-          "url": "https://open.spotify.com/artist/2uBCvfIeglYX3d6NOKKxGL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Novacaine",
-      "url": "https://open.spotify.com/track/6lkYy8wRZiVOp33BgyiXMu"
-    },
-    {
-      "added_at": "2026-01-23 00:01:25",
-      "album": {
-        "name": "Real One",
-        "url": "https://open.spotify.com/album/7351sYtk4c8YGx2ZZRC0MW"
-      },
-      "artists": [
-        {
-          "name": "Damare YK",
-          "url": "https://open.spotify.com/artist/4elUk2W9Rax90tFNC9TUDz"
-        },
-        {
-          "name": "K0NYE",
-          "url": "https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ"
-        }
-      ],
-      "duration_ms": 170680,
-      "name": "Real One",
-      "url": "https://open.spotify.com/track/2YpJDMZrgfqUFNOn9ocJHe"
-    },
-    {
-      "added_at": "2026-01-23 00:01:25",
-      "album": {
         "name": "Nobody's Perfect",
         "url": "https://open.spotify.com/album/1pAy23gG95TdT6rx8quM7G"
       },
@@ -1459,42 +1495,6 @@
       "duration_ms": 178144,
       "name": "Bonnie & Clyde",
       "url": "https://open.spotify.com/track/5FOFNfZDYhl71mlJ8EeAGR"
-    },
-    {
-      "added_at": "2026-01-23 00:01:25",
-      "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/2fAsi13z2Xne3Uke6cNDjr"
-      },
-      "artists": [
-        {
-          "name": "Paulo Chakal",
-          "url": "https://open.spotify.com/artist/0RmMqOdyj5lvgDY2GU2R8q"
-        },
-        {
-          "name": "Hyce",
-          "url": "https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA"
-        }
-      ],
-      "duration_ms": 164458,
-      "name": "For Life",
-      "url": "https://open.spotify.com/track/3AQQQuvDhbER2K6a9ZajdE"
-    },
-    {
-      "added_at": "2026-01-23 00:01:25",
-      "album": {
-        "name": "Love from you",
-        "url": "https://open.spotify.com/album/355m6fBtclUpvYQBrk9Uwb"
-      },
-      "artists": [
-        {
-          "name": "JJ PAULO",
-          "url": "https://open.spotify.com/artist/6qz66TzT4aoNkudjDofqfm"
-        }
-      ],
-      "duration_ms": 145487,
-      "name": "Love from you",
-      "url": "https://open.spotify.com/track/02yvbpLiSqrMJvpFw5cvOp"
     }
   ],
   "unique_name": "AfroBae",

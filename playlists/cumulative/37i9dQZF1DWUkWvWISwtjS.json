@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "Amo Noite E Dia (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0EtsGtfFsV13lGE0wnmwbe"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188145,
+      "name": "Amo Noite E Dia - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0AEcoGLcaEGwLoROAfbY8L"
+    },
+    {
+      "album": {
         "name": "Felipe Ara\u00fajo - S\u00f3 Hit",
         "url": "https://open.spotify.com/album/3eBW4SkUBnFsVZjbBGK4h5"
       },
@@ -1672,7 +1690,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 186816,
       "name": "Medida Certa",
       "url": "https://open.spotify.com/track/44mr3ypWNHa0inr3heiOb2"

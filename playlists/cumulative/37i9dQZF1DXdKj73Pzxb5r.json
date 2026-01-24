@@ -3384,7 +3384,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 186947,
       "name": "Ini Adanya",
       "url": "https://open.spotify.com/track/1eW5GFRRr8xF1oTeiaFw7X"
@@ -5722,6 +5722,24 @@
       "duration_ms": 278314,
       "name": "Nuansa Romansa",
       "url": "https://open.spotify.com/track/5IlUsmKzmLDcjfC64huD43"
+    },
+    {
+      "album": {
+        "name": "nulla, vol.1",
+        "url": "https://open.spotify.com/album/4uagI2pWOO8sq0v9vl0V6q"
+      },
+      "artists": [
+        {
+          "name": "T. Rucira",
+          "url": "https://open.spotify.com/artist/1o0RBJNVBuMCyPxvLi0iMC"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228607,
+      "name": "nulla",
+      "url": "https://open.spotify.com/track/30LlunIkCklG8xjlpDKfAH"
     },
     {
       "album": {

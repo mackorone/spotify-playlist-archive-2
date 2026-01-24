@@ -4523,6 +4523,24 @@
     },
     {
       "album": {
+        "name": "Spitfire",
+        "url": "https://open.spotify.com/album/0O45ZFG71upJqEQUT0C5dt"
+      },
+      "artists": [
+        {
+          "name": "AJ Rock",
+          "url": "https://open.spotify.com/artist/7xEm9fb76CTAOBOWQK1dL8"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384960,
+      "name": "The Last Hangman",
+      "url": "https://open.spotify.com/track/0frN7FOhhgB0iiZyTA8nmQ"
+    },
+    {
+      "album": {
         "name": "The Path of Life",
         "url": "https://open.spotify.com/album/2mLhmToLFY0AHU68IRErSK"
       },

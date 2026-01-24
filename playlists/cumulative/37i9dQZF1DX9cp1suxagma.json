@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Elsa y Elmar",
+  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Juanes",
   "name": "Pop Colombia",
   "tracks": [
     {
@@ -2041,6 +2041,24 @@
     },
     {
       "album": {
+        "name": "Hagamos Que",
+        "url": "https://open.spotify.com/album/1LzepHC5JM2kXvL5Fv7CgC"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178160,
+      "name": "Hagamos Que",
+      "url": "https://open.spotify.com/track/6dERO18avM16kki5aCjTkb"
+    },
+    {
+      "album": {
         "name": "Idiota",
         "url": "https://open.spotify.com/album/5fR1etMEVPIUUR2BdDFD0J"
       },
@@ -3373,6 +3391,24 @@
     },
     {
       "album": {
+        "name": "No Hay Que Llorar",
+        "url": "https://open.spotify.com/album/7uIbLRXnuJqnAd6XrGSJDQ"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155074,
+      "name": "No Hay Que Llorar",
+      "url": "https://open.spotify.com/track/46tzd3foeCDZeJE5m5JmR3"
+    },
+    {
+      "album": {
         "name": "No soy yo",
         "url": "https://open.spotify.com/album/78WLJ4fRlnvYprbgAwvNi9"
       },
@@ -4074,7 +4110,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 218983,
       "name": "Quisiera odiarte",
       "url": "https://open.spotify.com/track/2OnLqTKaED5zI5CAK4VHVS"
@@ -4194,7 +4230,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 154814,
       "name": "RD",
       "url": "https://open.spotify.com/track/15wOr6sCU1HlWNCTHjxirx"

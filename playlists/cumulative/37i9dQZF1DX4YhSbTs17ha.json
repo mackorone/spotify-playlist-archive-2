@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 173666,
       "name": "0%",
       "url": "https://open.spotify.com/track/0V91BVy8lD7xoxQBNajPiu"
@@ -2730,7 +2730,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 224650,
       "name": "Callej\u00f3n de los Secretos",
       "url": "https://open.spotify.com/track/1hFyhyZygYYD35G2cEuwR0"
@@ -3012,6 +3012,28 @@
       "duration_ms": 157927,
       "name": "CASI T\u00da",
       "url": "https://open.spotify.com/track/7MklqPSMrs22DGXSDIgxeO"
+    },
+    {
+      "album": {
+        "name": "Caso Cerrado",
+        "url": "https://open.spotify.com/album/4QyAhMcjSCY1OjNMfIgSuq"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189346,
+      "name": "Caso Cerrado",
+      "url": "https://open.spotify.com/track/5ufFr8RZTUaR6onPwL4vQb"
     },
     {
       "album": {
@@ -3368,7 +3390,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 192622,
       "name": "Como el Sol",
       "url": "https://open.spotify.com/track/3wzywuIqpN72Ym2dNUEef1"
@@ -6752,6 +6774,24 @@
       "duration_ms": 229977,
       "name": "Guadalajara",
       "url": "https://open.spotify.com/track/3GtG0XwENlN6axQI33FjsR"
+    },
+    {
+      "album": {
+        "name": "Hagamos Que",
+        "url": "https://open.spotify.com/album/1LzepHC5JM2kXvL5Fv7CgC"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178160,
+      "name": "Hagamos Que",
+      "url": "https://open.spotify.com/track/6dERO18avM16kki5aCjTkb"
     },
     {
       "album": {
@@ -11360,7 +11400,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 203880,
       "name": "No me tires flores",
       "url": "https://open.spotify.com/track/0bZzyFUzIiqoTH744vtauR"
@@ -12390,6 +12430,24 @@
       "duration_ms": 182187,
       "name": "Par\u00eds",
       "url": "https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N"
+    },
+    {
+      "album": {
+        "name": "Par\u00eds (Junto a Ti)",
+        "url": "https://open.spotify.com/album/1qcti4BO471pTYWMFzS7J3"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156160,
+      "name": "Par\u00eds (Junto a Ti)",
+      "url": "https://open.spotify.com/track/60OhKzwpGr8zNuMij0mbk1"
     },
     {
       "album": {
@@ -13804,10 +13862,28 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 152823,
       "name": "ROCKSTAR",
       "url": "https://open.spotify.com/track/2cmtrnmQcChmE0Pb4cmO0L"
+    },
+    {
+      "album": {
+        "name": "Rollitos de Papel",
+        "url": "https://open.spotify.com/album/7eZ9SGcuTyYH6tHeLFhuu1"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182475,
+      "name": "Rollitos de Papel",
+      "url": "https://open.spotify.com/track/2In4JKhdvDXXszMTh6PlnN"
     },
     {
       "album": {
@@ -16606,6 +16682,24 @@
       "duration_ms": 218500,
       "name": "Una Vida Pasada",
       "url": "https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl"
+    },
+    {
+      "album": {
+        "name": "Una y Otra Vez",
+        "url": "https://open.spotify.com/album/2mIRZwtWJfTMXb9IlD92WT"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182129,
+      "name": "Una y Otra Vez",
+      "url": "https://open.spotify.com/track/01Jau2dvxahy6s00VFFB0n"
     },
     {
       "album": {

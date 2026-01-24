@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-1,097 songs - 2 day 5 hr 2 min
+1,098 songs - 2 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,7 @@
 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-05-08 |  |
 | [Eurostar \(feat\. Central Cee\)](https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:07 | 2023-06-30 | 2023-07-08 |
 | [EVERY CHANCE I GET \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:56 | 2021-09-03 | 2022-11-19 |
-| [Everybody’s Looking At Me](https://open.spotify.com/track/4yYI0Cly9B2p8XbNxfNCRy) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [STANS \(The Official Soundtrack\)](https://open.spotify.com/album/5DV2liMHX5AqtiLqy3Qu1b) | 4:54 | 2025-09-18 |  |
+| [Everybody’s Looking At Me](https://open.spotify.com/track/4yYI0Cly9B2p8XbNxfNCRy) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [STANS \(The Official Soundtrack\)](https://open.spotify.com/album/5DV2liMHX5AqtiLqy3Qu1b) | 4:54 | 2025-09-18 | 2026-01-24 |
 | [Everyday People](https://open.spotify.com/track/5GAwovcrCkobMefefy3EQL) | [Phay](https://open.spotify.com/artist/1GMPMhz8k6gLNYMGoz9hYB), [Mando Hill](https://open.spotify.com/artist/3rdbqu1VIlXUShnHvjcxFS) | [Bake Sale](https://open.spotify.com/album/11FcZ1YjsQIRt5E67o4ARv) | 3:20 | 2022-03-25 | 2022-04-19 |
 | [Everything Dead](https://open.spotify.com/track/3nL3bZOWuFBbH4KKaWW1Vq) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Everything Dead](https://open.spotify.com/album/194pYj4CXWWsNUS8LMIWeO) | 3:23 | 2023-11-10 | 2024-02-01 |
 | [everything new \(feat\. Gunna\)](https://open.spotify.com/track/0UTgiWqnHq17CEUW0QokQ2) | [Yung Kayo](https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [DFTK](https://open.spotify.com/album/5pb2qoPjdwPtkWUh64Jc8r) | 2:37 | 2022-02-04 | 2022-04-21 |
@@ -1049,6 +1049,7 @@
 | [What A Day](https://open.spotify.com/track/7FkUJd0gAcRR9Mjl59dp8U) | [Chaz French](https://open.spotify.com/artist/3BYzEWh3pY0DZpMN0hFufv) | [What A Day](https://open.spotify.com/album/6RYR7UwNqw0yf3dA0iqrT6) | 2:43 | 2022-03-25 | 2022-04-19 |
 | [What It Is?!](https://open.spotify.com/track/4NgMDPV2mIh6MUkqkyNmP3) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M), [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [What It Is?!](https://open.spotify.com/album/2hpdfZUyxtuLLi5PHGC6nJ) | 3:13 | 2023-10-13 | 2024-02-14 |
 | [What You Say \(feat\. Post Malone & The Kid LAROI\)](https://open.spotify.com/track/112EmZwJNonJymivU3KOVl) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Don't Try This At Home](https://open.spotify.com/album/6mS81Go5P5wQKoybVT68NW) | 4:03 | 2023-04-21 | 2023-06-10 |
+| [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 | 2026-01-23 |  |
 | [WHAT YOU WANT](https://open.spotify.com/track/6FyTGkolQEgIHp3isy1ZSJ) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [WHAT YOU WANT](https://open.spotify.com/album/5ZZpCvbAPixOpDD6JMPulF) | 2:16 | 2023-11-24 | 2024-02-20 |
 | [WHAT'S THE MOVE? \(feat\. Future and BabyDrill\)](https://open.spotify.com/track/0oqnZWNBvobs1t181f45Ck) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [WHAT'S THE MOVE? \(feat\. Future and BabyDrill\)](https://open.spotify.com/album/4GwIahaGnJ2cA4QfAJ74nF) | 3:19 | 2023-11-10 | 2025-03-21 |
 | [Whatchamacallit \(feat\. Luh Tyler\)](https://open.spotify.com/track/2MjhK44oBBWTwCEyKGFny3) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Whatchamacallit \(feat\. Luh Tyler\)](https://open.spotify.com/album/4OWtS7Ahtsh2foaV4gDMZZ) | 2:38 | 2023-09-29 | 2024-01-14 |

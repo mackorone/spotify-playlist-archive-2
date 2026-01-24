@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Cover: Juan Freer & El Rabanito.",
+  "description": "The new school of M\u00fasica Mexicana. Cover: RIA \u2b50\ufe0f",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -128,6 +128,24 @@
       "duration_ms": 156461,
       "name": "11:11",
       "url": "https://open.spotify.com/track/0sCxXDFSEENe0l1EPNnu22"
+    },
+    {
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/7okUbJoivGrlyb1O3A6Uvu"
+      },
+      "artists": [
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156576,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/6e5WBzZg1XaknW01nrRd5J"
     },
     {
       "album": {
@@ -2978,7 +2996,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 168021,
       "name": "BB PA DONDE",
       "url": "https://open.spotify.com/track/65pDDQOeXOR5QUM9GEWaNM"
@@ -5558,7 +5576,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 138240,
       "name": "Como So\u00f1e",
       "url": "https://open.spotify.com/track/473mtjB2MZjeP4Ze2mPiTy"
@@ -6221,6 +6239,28 @@
     },
     {
       "album": {
+        "name": "Cuando Me Enamoro",
+        "url": "https://open.spotify.com/album/6QNuQOr4qseuYg0nvhSCuO"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        },
+        {
+          "name": "Ultima Esencia",
+          "url": "https://open.spotify.com/artist/6Cek7Jo12UlmR5qgc494l6"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200362,
+      "name": "Cuando Me Enamoro",
+      "url": "https://open.spotify.com/track/2BSj8Xmnpvs2XzovYB9O7u"
+    },
+    {
+      "album": {
         "name": "CUANDO NADIE LA VE",
         "url": "https://open.spotify.com/album/3eocAlRtj5bR8ogB2TaSsQ"
       },
@@ -6236,7 +6276,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 146417,
       "name": "CUANDO NADIE LA VE",
       "url": "https://open.spotify.com/track/2UWESgzYXfiraEusfJbFem"
@@ -6316,6 +6356,24 @@
       "duration_ms": 178053,
       "name": "Cuando Te Cambian Por Alguien",
       "url": "https://open.spotify.com/track/33lSiX3Q1UVh2Q8gukiTH9"
+    },
+    {
+      "album": {
+        "name": "Cuando Una Mujer",
+        "url": "https://open.spotify.com/album/6Kqio6YmPAge6dLPtV0cYh"
+      },
+      "artists": [
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156394,
+      "name": "Cuando Una Mujer",
+      "url": "https://open.spotify.com/track/3avC8Pl0P86k3GQjE1h9y1"
     },
     {
       "album": {
@@ -7720,6 +7778,24 @@
       "duration_ms": 179381,
       "name": "Disfrutar",
       "url": "https://open.spotify.com/track/5v31Wf3Bai2eG1ixK3QMQe"
+    },
+    {
+      "album": {
+        "name": "Disfruto El Proceso",
+        "url": "https://open.spotify.com/album/2nvmJvGnhdUnDqtgNngupm"
+      },
+      "artists": [
+        {
+          "name": "Ilusion Eterno",
+          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160665,
+      "name": "Disfruto El Proceso",
+      "url": "https://open.spotify.com/track/2c7ddBSG4xPTMomuLkWdHl"
     },
     {
       "album": {
@@ -9306,6 +9382,24 @@
       "duration_ms": 294901,
       "name": "El KB",
       "url": "https://open.spotify.com/track/5t8YFqdHnsFqvif4f4UMtm"
+    },
+    {
+      "album": {
+        "name": "El Lobo",
+        "url": "https://open.spotify.com/album/6MbW5D3DAhUQgMWzvURu4t"
+      },
+      "artists": [
+        {
+          "name": "Los De La 21",
+          "url": "https://open.spotify.com/artist/1BGwlfPEZp2S4eBxOclgaE"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159181,
+      "name": "El Lobo",
+      "url": "https://open.spotify.com/track/4YW1q7MHOKT3wuGOqSLJGH"
     },
     {
       "album": {
@@ -11007,6 +11101,28 @@
     },
     {
       "album": {
+        "name": "ESCONDIDAS",
+        "url": "https://open.spotify.com/album/2G1eSgMejHicDNwJCh5ul0"
+      },
+      "artists": [
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173034,
+      "name": "ESCONDIDAS",
+      "url": "https://open.spotify.com/track/5BaNuIRKWt4CHdWi4LGe2M"
+    },
+    {
+      "album": {
         "name": "Ese Loco Soy Yo",
         "url": "https://open.spotify.com/album/0lheE2ouOlNeOOLhfdRPJI"
       },
@@ -11036,7 +11152,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 177730,
       "name": "Esmeralda",
       "url": "https://open.spotify.com/track/1kTO3RqSbuyUI3Hp4TpmZQ"
@@ -11442,6 +11558,24 @@
       "duration_ms": 135769,
       "name": "Estoy De Buenas",
       "url": "https://open.spotify.com/track/3ahvUUFTrNI5zNMmLfgHJQ"
+    },
+    {
+      "album": {
+        "name": "Estrategia",
+        "url": "https://open.spotify.com/album/28s5t2aXnyRfumfCcnWJ7L"
+      },
+      "artists": [
+        {
+          "name": "Moreno X4",
+          "url": "https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186474,
+      "name": "Estrategia",
+      "url": "https://open.spotify.com/track/4Vjn4JuCI0p7GS3TmbLaLJ"
     },
     {
       "album": {
@@ -14094,7 +14228,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 176192,
       "name": "Juntos Pa Jap\u00f3n",
       "url": "https://open.spotify.com/track/4vATMg7zYcGhEbumY7p6fL"
@@ -20050,7 +20184,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 183607,
       "name": "NECIA",
       "url": "https://open.spotify.com/track/1IUtvjwL9BWq3vaQpJbvDr"
@@ -20866,7 +21000,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 146718,
       "name": "No Pasa Nada",
       "url": "https://open.spotify.com/track/7FbPMf2BoNVfpPG5Yv2hIe"
@@ -22931,6 +23065,28 @@
     },
     {
       "album": {
+        "name": "Pero Si Hablamos Del Pasado",
+        "url": "https://open.spotify.com/album/6d01DjNukVDvFwk5kZ7mD1"
+      },
+      "artists": [
+        {
+          "name": "Yng Naz",
+          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
+        },
+        {
+          "name": "Marlon Glez",
+          "url": "https://open.spotify.com/artist/6ahvHeluD8eiHwYQu4SSUK"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172245,
+      "name": "Pero Si Hablamos Del Pasado",
+      "url": "https://open.spotify.com/track/5Z0oNydd7MGEtYHVpH9AAA"
+    },
+    {
+      "album": {
         "name": "Pero Yo",
         "url": "https://open.spotify.com/album/7sWUYxEt6GpjERvPEZsyO9"
       },
@@ -23860,7 +24016,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 228807,
       "name": "preguntalealaluna",
       "url": "https://open.spotify.com/track/2zvBpVyuuWIBfNh2k1UWvi"
@@ -24270,7 +24426,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 216746,
       "name": "Que Emoci\u00f3n",
       "url": "https://open.spotify.com/track/4gEJMS993Cg13T1yWZVrKs"
@@ -25122,7 +25278,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 155562,
       "name": "Ramo Buch\u00f3n",
       "url": "https://open.spotify.com/track/2ZnLqrPjiN6Y9MAdPgauLX"
@@ -27601,6 +27757,24 @@
     },
     {
       "album": {
+        "name": "Soy Fan",
+        "url": "https://open.spotify.com/album/5IOMxDPKMtuqX72hEwhz3Z"
+      },
+      "artists": [
+        {
+          "name": "RIA",
+          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176714,
+      "name": "Soy Fan",
+      "url": "https://open.spotify.com/track/214dHBkQIghUJArTL083fZ"
+    },
+    {
+      "album": {
         "name": "SOY LA CONEXION",
         "url": "https://open.spotify.com/album/1RT0chbsPppFxhnvuvgIzZ"
       },
@@ -27612,7 +27786,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 165288,
       "name": "SOY LA CONEXION",
       "url": "https://open.spotify.com/track/1HGwlbyrEfCsNtMH8X6F79"
@@ -28853,6 +29027,32 @@
     },
     {
       "album": {
+        "name": "Todos Regresan",
+        "url": "https://open.spotify.com/album/6O7luGWvXSIzvmGcJrkiit"
+      },
+      "artists": [
+        {
+          "name": "Estibaliz Badiola",
+          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        },
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167045,
+      "name": "Todos Regresan",
+      "url": "https://open.spotify.com/track/2xDgmNTLIQrvaaznJGbUXh"
+    },
+    {
+      "album": {
         "name": "Tomando",
         "url": "https://open.spotify.com/album/1f8bw9BkGoBWH0eHFHI0b2"
       },
@@ -29174,6 +29374,24 @@
       "duration_ms": 200955,
       "name": "Tu Belleza",
       "url": "https://open.spotify.com/track/7J9QvKA6f5BhZtRbWnL7tI"
+    },
+    {
+      "album": {
+        "name": "Tu Carita",
+        "url": "https://open.spotify.com/album/0CiF0wSA867u1Tm8a13tJS"
+      },
+      "artists": [
+        {
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219130,
+      "name": "Tu Carita",
+      "url": "https://open.spotify.com/track/0WVjbZKrJvX1pszaQ3Y0pT"
     },
     {
       "album": {

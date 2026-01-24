@@ -4,7 +4,7 @@
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: Radio Free Alice
 
-2,231 songs - 5 day 3 hr 30 min
+2,232 songs - 5 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -830,6 +830,7 @@
 | [going nowhere](https://open.spotify.com/track/4z0mHmlDiIf4F4VVITcpD3) | [Berlue](https://open.spotify.com/artist/23AyLrq18LhJG61d8EjSRY) | [A Flooding Within You](https://open.spotify.com/album/5t4WVjwTP9j8xamzSaNXUG) | 2:41 | 2022-11-30 | 2023-01-12 |
 | [going nowhere](https://open.spotify.com/track/7wfVtvR2dGrHgBE5eOsTkE) | [Berlue](https://open.spotify.com/artist/23AyLrq18LhJG61d8EjSRY) | [going nowhere](https://open.spotify.com/album/7CmqBe0Ox1yRHKMckWkXeA) | 2:41 | 2022-05-11 | 2022-08-11 |
 | [Gold](https://open.spotify.com/track/50aXpb8bB1FyPdOZsic4h3) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Effigy](https://open.spotify.com/album/3ITJHZF40YUacjdJS01ppt) | 4:19 | 2024-02-28 | 2024-04-24 |
+| [GOLDSTAR](https://open.spotify.com/track/3KQ3852yZqReDT9dbcbSU2) | [The Sophs](https://open.spotify.com/artist/2zX0ROHqU3TEfFtKBtqOAE) | [GOLDSTAR](https://open.spotify.com/album/3WgNg4UjdpwWWyNQtjwZTY) | 3:19 | 2026-01-23 |  |
 | [gone awhile](https://open.spotify.com/track/3IkOx5HHFFWUZF6U6oxTQZ) | [buffchick](https://open.spotify.com/artist/0bySwTrRN75nqs2vLS00zn) | [gone awhile](https://open.spotify.com/album/7EXckvm1MxtzXJqnxgHHez) | 3:20 | 2024-10-02 | 2024-11-14 |
 | [Goner \(feat\. Kellin Quinn\)](https://open.spotify.com/track/27pE6MqlDtZwVrZz9Cy1VW) | [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2), [Kulick](https://open.spotify.com/artist/1rwaNYO0jV0TYiZm4SQTOe) | [Goner \(feat\. Kellin Quinn\)](https://open.spotify.com/album/3cTWpgNg0V8LOPGlKXHNsf) | 3:48 | 2022-09-07 | 2022-10-06 |
 | [Gonna Get Better](https://open.spotify.com/track/3lnKBvycf8vphhmpvhruNI) | [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Gonna Get Better](https://open.spotify.com/album/7xla3BNE9X4zRZfu0iwezN) | 3:15 | 2023-08-16 | 2023-11-30 |

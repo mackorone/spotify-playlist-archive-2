@@ -2061,6 +2061,24 @@
     },
     {
       "album": {
+        "name": "Be Somewhere",
+        "url": "https://open.spotify.com/album/19MWoDnXbNGz6hg1RL4Kuw"
+      },
+      "artists": [
+        {
+          "name": "CL\u00dcE",
+          "url": "https://open.spotify.com/artist/3Su0ARjycouuBn1jXKPgQv"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158778,
+      "name": "Be Somewhere",
+      "url": "https://open.spotify.com/track/7IddP0tIBe0Hh9oCYdtuyX"
+    },
+    {
+      "album": {
         "name": "Beach",
         "url": "https://open.spotify.com/album/6P1wpua1GZ4BZrX1OpKdTl"
       },

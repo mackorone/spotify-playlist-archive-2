@@ -4,7 +4,7 @@
 
 > Best of the EDM scene in India\. Cover\- Nucleya
 
-100 songs - 5 hr 34 min
+101 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Room](https://open.spotify.com/track/4U2SX7G1ROWGlzZAClKrXu) | [MÜNE](https://open.spotify.com/artist/0d7ucg4dn8r65y7UccChlb) | [Room](https://open.spotify.com/album/7lrnyUlmZPuZSVD4WRAxKC) | 3:24 | 2023-10-20 |  |
 | [Roshni](https://open.spotify.com/track/0MZ6NFEV7oQSDMzuXBVS5E) | [Sickflip](https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ), [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Roshni](https://open.spotify.com/album/27KyEgaluOMGNdtKud8Axt) | 2:54 | 2023-10-20 | 2024-04-19 |
 | [Roshni](https://open.spotify.com/track/1XCQhYPVUB51Aiau9EoPo6) | [Sickflip](https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ), [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Roshni \(Original\)](https://open.spotify.com/album/26jHMmi20bpDLq4iCimtD5) | 2:54 | 2024-02-05 |  |
+| [Ruh Krishna](https://open.spotify.com/track/3SdLc3dS6b7iPUI0U7skw9) | [ANASTRRIX](https://open.spotify.com/artist/0NY2HVR8BHWUQze2savfsN) | [Ruh Krishna](https://open.spotify.com/album/6KcB4ZlgE0rcayVci1OaZP) | 4:00 | 2026-01-23 |  |
 | [Samhaar](https://open.spotify.com/track/2TY1R9ntXEF772pSGlRthG) | [Gurnani](https://open.spotify.com/artist/3K748gear2PIQP1M8o7gkN) | [Samhaar](https://open.spotify.com/album/5MUztf6w3dVz2uA9B55mC7) | 3:23 | 2023-10-20 | 2024-04-19 |
 | [Samhaar](https://open.spotify.com/track/6xg83DQcwNfk62fwwN9zBW) | [Gurnani](https://open.spotify.com/artist/3K748gear2PIQP1M8o7gkN) | [Samhaar](https://open.spotify.com/album/59qbCBCMdRKx9gFovyYYnN) | 3:23 | 2024-02-05 |  |
 | [Sathi](https://open.spotify.com/track/2XBSkMQueeB4p24omMj7m7) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Sathi](https://open.spotify.com/album/5SVJr4rIkhquC1Wqv0olmM) | 3:36 | 2024-02-05 |  |

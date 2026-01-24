@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Joaquin Coronel y Marcos Villalobos en portada.",
-  "num_followers": 69831,
+  "num_followers": 69849,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "La Herida",
-        "url": "https://open.spotify.com/album/448r0IkYo8ehYROuSWwQ4p"
-      },
-      "artists": [
-        {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        }
-      ],
-      "duration_ms": 121845,
-      "name": "La Herida",
-      "url": "https://open.spotify.com/track/1sBSjceBS1Fl7qDJYEPkKP"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
         "name": "Tutankamon House Mix",
         "url": "https://open.spotify.com/album/1P1u7k08bAEEvcL9lRjGVF"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 211588,
       "name": "Tutankamon House Mix",
       "url": "https://open.spotify.com/track/6DUMR5QXO3tu6QqptEBtR0"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
+        "name": "La Herida",
+        "url": "https://open.spotify.com/album/448r0IkYo8ehYROuSWwQ4p"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        }
+      ],
+      "duration_ms": 121845,
+      "name": "La Herida",
+      "url": "https://open.spotify.com/track/1sBSjceBS1Fl7qDJYEPkKP"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1211,30 +1211,6 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "Tranki",
-        "url": "https://open.spotify.com/album/1IVAwFejxBcIERkI9sxrdh"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Alexia Mariel",
-          "url": "https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn"
-        },
-        {
-          "name": "RAYBEN",
-          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Tranki",
-      "url": "https://open.spotify.com/track/3LiLeyIAbMNndaRvki0Ley"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
         "name": "LABUBU",
         "url": "https://open.spotify.com/album/65LcBLGwlYrEIovIEDmGpR"
       },
@@ -1251,26 +1227,6 @@
       "duration_ms": 165750,
       "name": "LABUBU",
       "url": "https://open.spotify.com/track/6TEs4Kri5thloLzTmOVk8G"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
-        "name": "NO ESTABA MAL",
-        "url": "https://open.spotify.com/album/1PTYSTyydAc9e9YYdMGnK1"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        },
-        {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        }
-      ],
-      "duration_ms": 165245,
-      "name": "NO ESTABA MAL",
-      "url": "https://open.spotify.com/track/0ISOanYr1trHwoGr6q8l4E"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1299,26 +1255,46 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "Corazon de Melon",
-        "url": "https://open.spotify.com/album/4dnhKzEzKNdt8wObh5sPQ5"
+        "name": "NO ESTABA MAL",
+        "url": "https://open.spotify.com/album/1PTYSTyydAc9e9YYdMGnK1"
       },
       "artists": [
         {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
         },
         {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "Los Miranda",
-          "url": "https://open.spotify.com/artist/1gEJUDZiXSNjVJBDzpZh8f"
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
         }
       ],
-      "duration_ms": 175161,
-      "name": "Corazon de Melon",
-      "url": "https://open.spotify.com/track/0OPOLrWNtqperhd32Q8XnF"
+      "duration_ms": 165245,
+      "name": "NO ESTABA MAL",
+      "url": "https://open.spotify.com/track/0ISOanYr1trHwoGr6q8l4E"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
+        "name": "Tranki",
+        "url": "https://open.spotify.com/album/1IVAwFejxBcIERkI9sxrdh"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Alexia Mariel",
+          "url": "https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn"
+        },
+        {
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Tranki",
+      "url": "https://open.spotify.com/track/3LiLeyIAbMNndaRvki0Ley"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1343,6 +1319,30 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
+        "name": "Corazon de Melon",
+        "url": "https://open.spotify.com/album/4dnhKzEzKNdt8wObh5sPQ5"
+      },
+      "artists": [
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "Los Miranda",
+          "url": "https://open.spotify.com/artist/1gEJUDZiXSNjVJBDzpZh8f"
+        }
+      ],
+      "duration_ms": 175161,
+      "name": "Corazon de Melon",
+      "url": "https://open.spotify.com/track/0OPOLrWNtqperhd32Q8XnF"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
         "name": "La Diabla (Electro Remix)",
         "url": "https://open.spotify.com/album/0Sf5WOcZk8n9NIgp2LmrKa"
       },
@@ -1355,6 +1355,26 @@
       "duration_ms": 136477,
       "name": "La Diabla (Electro Remix)",
       "url": "https://open.spotify.com/track/6ZZ4I66vS4x4arMNwBht2m"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
+        "name": "NOCHE FRIA",
+        "url": "https://open.spotify.com/album/5pSLDdzSk6qgadsklb8VIN"
+      },
+      "artists": [
+        {
+          "name": "Happykid",
+          "url": "https://open.spotify.com/artist/3tTFvAvXhP8GtGZ35GN7J2"
+        },
+        {
+          "name": "Mendoza",
+          "url": "https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "NOCHE FRIA",
+      "url": "https://open.spotify.com/track/5hXBT9Mfo3SqlevuDRpmjG"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1383,22 +1403,22 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "NOCHE FRIA",
-        "url": "https://open.spotify.com/album/5pSLDdzSk6qgadsklb8VIN"
+        "name": "HOUSE & REGGAETON",
+        "url": "https://open.spotify.com/album/0dUycpeblrjlw6w6r5WTad"
       },
       "artists": [
         {
-          "name": "Happykid",
-          "url": "https://open.spotify.com/artist/3tTFvAvXhP8GtGZ35GN7J2"
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         },
         {
-          "name": "Mendoza",
-          "url": "https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP"
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
         }
       ],
-      "duration_ms": 176000,
-      "name": "NOCHE FRIA",
-      "url": "https://open.spotify.com/track/5hXBT9Mfo3SqlevuDRpmjG"
+      "duration_ms": 190153,
+      "name": "HOUSE & REGGAETON",
+      "url": "https://open.spotify.com/track/0DaDaswKuO02nK39YfMpcJ"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1419,26 +1439,6 @@
       "duration_ms": 149877,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0rhfIKvVhXC4iJlpJr04Lg"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
-        "name": "HOUSE & REGGAETON",
-        "url": "https://open.spotify.com/album/0dUycpeblrjlw6w6r5WTad"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "HOUSE & REGGAETON",
-      "url": "https://open.spotify.com/track/0DaDaswKuO02nK39YfMpcJ"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
+        "name": "MiDNiGHT",
+        "url": "https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 186595,
+      "name": "MiDNiGHT",
+      "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
         "name": "LIV - Spotify Singles",
         "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 165248,
       "name": "LIV - Spotify Singles",
       "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
-        "name": "MiDNiGHT",
-        "url": "https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 186595,
-      "name": "MiDNiGHT",
-      "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1831,22 +1831,22 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "Bella Peligrosa (Radio Edit)",
-        "url": "https://open.spotify.com/album/77UrvszcMvxxYUAB3nkQRG"
+        "name": "Cartagena (Sylvan Esso Edit)",
+        "url": "https://open.spotify.com/album/3FVCEyoTcrA9eraksVRgC8"
       },
       "artists": [
         {
-          "name": "Le Twins",
-          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
         },
         {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
         }
       ],
-      "duration_ms": 144761,
-      "name": "Bella Peligrosa - Radio Edit",
-      "url": "https://open.spotify.com/track/0q1m66WPH3beH6JhSXpWAC"
+      "duration_ms": 207637,
+      "name": "Cartagena - Sylvan Esso Edit",
+      "url": "https://open.spotify.com/track/3iBO3QO60GTlYDyQcfh9w4"
     }
   ],
   "unique_name": "electro mx ",

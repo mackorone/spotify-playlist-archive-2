@@ -1,13 +1,29 @@
 {
   "description": "Rock out while you work out! Follow for updates!",
-  "num_followers": 61338,
+  "num_followers": 61336,
   "original_name": "Hard Rock Workout",
   "owner": {
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "AAAI+w5cxJhlvf+1B2pkhDFdtEovUBPm",
+  "snapshot_id": "AAAI/qkFNgfVrIBm3Pp25FfHcxT0GwT3",
   "tracks": [
+    {
+      "added_at": "2026-01-23 19:29:34",
+      "album": {
+        "name": "The Real You",
+        "url": "https://open.spotify.com/album/6RVPnpptZoMHjubHk3VjBX"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "duration_ms": 241480,
+      "name": "The Real You",
+      "url": "https://open.spotify.com/track/5ZeZSbuvupOAfm3zD73tp2"
+    },
     {
       "added_at": "2025-10-17 16:01:57",
       "album": {

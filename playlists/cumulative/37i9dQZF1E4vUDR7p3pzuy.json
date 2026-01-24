@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Evil Level Live, Rob Harrowven, JUST LIZZY and more",
+  "description": "With Rob Harrowven, JUST LIZZY, Splitter Conspiracy and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -974,7 +974,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 110117,
       "name": "Cotton Candy Cloud",
       "url": "https://open.spotify.com/track/66qhpcJigoaxyGabUuzC90"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 259700,
       "name": "Crashed and Burned",
       "url": "https://open.spotify.com/track/38aguYMaq8u41OSpyhk5UQ"
@@ -1158,7 +1158,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 231231,
       "name": "Deliria",
       "url": "https://open.spotify.com/track/5lLmmiT3mRddBFXBFjMLUF"
@@ -1762,7 +1762,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 338250,
       "name": "give up",
       "url": "https://open.spotify.com/track/3TM8uLiRoQ44JLjI5oyTtI"
@@ -1904,7 +1904,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 199709,
       "name": "Happy Song (Single Edit)",
       "url": "https://open.spotify.com/track/5Mu2uPodFAD1WhKfndU9Hx"
@@ -2088,6 +2088,24 @@
       "duration_ms": 199500,
       "name": "Honey Pack",
       "url": "https://open.spotify.com/track/1es2PvB66QrF9CbNcuGA1q"
+    },
+    {
+      "album": {
+        "name": "How To Be Dead",
+        "url": "https://open.spotify.com/album/7AlXLiNkiFLpb6UeuDsnr6"
+      },
+      "artists": [
+        {
+          "name": "Lifening",
+          "url": "https://open.spotify.com/artist/0b1gSPjmcRO596EDjajLqk"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203128,
+      "name": "How To Be Dead",
+      "url": "https://open.spotify.com/track/0YjyTuJy9GtNzDYzthd0Gm"
     },
     {
       "album": {
@@ -2354,7 +2372,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 301639,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/1KMdBomB8g7qQtPu5ZfpAO"
@@ -2502,7 +2520,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 182553,
       "name": "It's My Dream",
       "url": "https://open.spotify.com/track/56zKYHY2WdaobxMrXM3HO6"
@@ -2878,7 +2896,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 197555,
       "name": "Lost Control",
       "url": "https://open.spotify.com/track/0OW9VBWdWaW5JTxtU1pgC9"
@@ -3293,6 +3311,24 @@
     },
     {
       "album": {
+        "name": "No Music No Hope",
+        "url": "https://open.spotify.com/album/3qPwdu2NmukznO4wpcE3wR"
+      },
+      "artists": [
+        {
+          "name": "Cozmicsoulfire",
+          "url": "https://open.spotify.com/artist/4j8dYpGIgGJYWmstb2Ek0M"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292800,
+      "name": "No Music No Hope",
+      "url": "https://open.spotify.com/track/3hDiwWQ2dAzYPq9rPRzvxF"
+    },
+    {
+      "album": {
         "name": "Not Under Your Spell",
         "url": "https://open.spotify.com/album/4LQn2RFdhNM8IgE5ynWqLA"
       },
@@ -3405,6 +3441,24 @@
     },
     {
       "album": {
+        "name": "Outside ZER\u00d8SPACE",
+        "url": "https://open.spotify.com/album/6hb1BkV7OFeg8yiOXo6wWu"
+      },
+      "artists": [
+        {
+          "name": "Ruebi",
+          "url": "https://open.spotify.com/artist/0M7Fjef4dLBwOI6Akb8kh9"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260079,
+      "name": "Outside ZER\u00d8SPACE",
+      "url": "https://open.spotify.com/track/4H7I9rVugrJSzm7vlB1E3g"
+    },
+    {
+      "album": {
         "name": "Paid Holiday",
         "url": "https://open.spotify.com/album/7F9VLJgtMr8QSNaP6zFLO9"
       },
@@ -3488,7 +3542,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 254663,
       "name": "Play On",
       "url": "https://open.spotify.com/track/5finqfmqX3w1XQVowqwYT9"
@@ -3546,7 +3600,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 183613,
       "name": "Plowjob",
       "url": "https://open.spotify.com/track/4vOKuH7gOHQqKv6YVhajoP"
@@ -3934,7 +3988,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 280000,
       "name": "Saw Stars",
       "url": "https://open.spotify.com/track/2LZbYxU8N4tLMrB08ron20"
@@ -4072,7 +4126,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 294389,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/7n3N6Thp6WFEyBIxdiOZH9"
@@ -4872,7 +4926,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 193480,
       "name": "Thin Skin",
       "url": "https://open.spotify.com/track/5jWlIjv49XpkmxoOoHVi4A"
@@ -5078,7 +5132,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 204000,
       "name": "Tr\u00e4nen Aus Blut",
       "url": "https://open.spotify.com/track/0sXugNYXjDsLXzc5X8bpQi"
@@ -5386,7 +5440,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "When You're Down",
       "url": "https://open.spotify.com/track/35eCarWbCxKpJD3im0JO65"

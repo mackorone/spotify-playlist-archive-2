@@ -4,7 +4,7 @@
 
 > 無論風格氣味廠牌出身，創作就是音樂自主，唱作表現清清楚楚！Cover: 魏如萱 \(Waa Wei\)
 
-4,021 songs - 9 day 19 hr 3 min
+4,025 songs - 9 day 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -960,6 +960,7 @@
 | [Stay With You](https://open.spotify.com/track/20dAI0herGNx4xNKd0Zibv) | [O.J Yang](https://open.spotify.com/artist/4xxiCcnghNjM9G8Ust7Wqx) | [Stay With You](https://open.spotify.com/album/7tjJV73Kx2iYnTubYJ5lzB) | 3:30 | 2025-05-01 | 2025-05-16 |
 | [Staying up All Night](https://open.spotify.com/track/6V6T7ObBtnC07VQh4BX8Cr) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb), [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [Staying up All Night](https://open.spotify.com/album/6bMmhb1GtaxLT3YLBknocB) | 3:22 | 2024-08-01 | 2024-08-23 |
 | [Still Not Perfect Enough](https://open.spotify.com/track/7FFmhQchoqyYgmbrNqCjGM) | [陳皮梅 CChen](https://open.spotify.com/artist/2PurE5sC6qIcEOnPlnR4eX) | [Still Not Perfect Enough](https://open.spotify.com/album/1UVyplmL0FbesVC22Oeclp) | 3:52 | 2025-12-04 | 2026-01-15 |
+| [Stop In My Mind](https://open.spotify.com/track/1xzmtfOwYy8GAI6Xxohcei) | [唐仲彣](https://open.spotify.com/artist/2AXIg0cc8pzzVcNnE3sSI6) | [Stop In My Mind](https://open.spotify.com/album/5KTRnaNZWxCRthjCc9sLFn) | 3:21 | 2026-01-22 |  |
 | [Story From The Hill](https://open.spotify.com/track/1kwc24o5EMK0YnuLfFi1K4) | [Bremen Entertainment Inc.](https://open.spotify.com/artist/7BmltYn52V9S204x88m0MA) | [Second hand stories](https://open.spotify.com/album/11gQNgMISJ0ILfEGP0pmlK) | 5:37 | 2024-10-24 | 2024-11-29 |
 | [Struggle](https://open.spotify.com/track/6JKwOTcSJLMSHo6ZujbUip) | [K!ddingboi](https://open.spotify.com/artist/0aMb32AbyiEHs6q7t5d1gC) | [Struggle](https://open.spotify.com/album/5l9q06HYuVIa3VRXkHqP7s) | 3:00 | 2025-09-11 | 2025-10-04 |
 | [stuck in my head](https://open.spotify.com/track/1PMFnVgVKF809BmkIHcJsl) | [Ace](https://open.spotify.com/artist/13jNwSdQV837VJRwD04XF6), [8lak](https://open.spotify.com/artist/08MxYfoyNQpx314MAppI8w) | [stuck in my head](https://open.spotify.com/album/6p57Ho4nDdYBdqnkt6vRWu) | 2:51 | 2025-03-06 | 2025-04-04 |
@@ -1866,6 +1867,7 @@
 | [圓無曲](https://open.spotify.com/track/7bQmgN3fnmnfSPyWnJa38a) | [Selvia](https://open.spotify.com/artist/4904miJRZOmJxBxyJPRPEX) | [圓無曲](https://open.spotify.com/album/3iCMfLjRKtJZFYGKZ4Ot64) | 3:29 | 2025-10-09 | 2025-10-31 |
 | [圓缺](https://open.spotify.com/track/7tamia5gcIgQ87dkiWLwFG) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ), [Chunho](https://open.spotify.com/artist/1mq5glQO50pi57PdxXmTAP) | [圓缺](https://open.spotify.com/album/2i8yE9njaBMPFoXSOPreUq) | 4:04 | 2025-05-01 | 2025-05-23 |
 | [土星環](https://open.spotify.com/track/0GS32zi2BwkMv8bFffGpDb) | [YANN.](https://open.spotify.com/artist/3ynaR1rfS0yb3wTIfRHfhC), [Karro](https://open.spotify.com/artist/44lo6Brhev2s97yzbZc1gE) | [土星環](https://open.spotify.com/album/2JP9KGX9JuN3zWng0Kp4qR) | 3:03 | 2025-10-09 | 2025-10-24 |
+| [在下雨天](https://open.spotify.com/track/0hh715Lfty6VwlrGiHbT53) | [Axi\-J](https://open.spotify.com/artist/4eBg4jJ8h1j9UDi1lydC0F) | [在下雨天](https://open.spotify.com/album/0BFdJn2c40DkpIOo2UDosb) | 3:00 | 2026-01-22 |  |
 | [在你和天空之間 \- 滾石撞樂隊2 \(原唱:趙之璧\)](https://open.spotify.com/track/786Lg6E2BvmOdlXs1WCY2L) | [FUMON](https://open.spotify.com/artist/3zGGhKGLorCRgcXc22gYDX) | [滾石撞樂隊2 \- 在你和天空之間](https://open.spotify.com/album/0Rkfkmv8JpJWnjVzKVzxDS) | 4:42 | 2025-10-23 | 2025-11-21 |
 | [在你夢裡借住一晚](https://open.spotify.com/track/1P7kJ9bhp5uTlseJw4cp0h) | [余育憲哥](https://open.spotify.com/artist/6xB7uDQ0Bi1rfUvz9LMoxw) | [在你夢裡借住一晚](https://open.spotify.com/album/3VpWZZrmTvNxOfkGuVb9HV) | 5:03 | 2025-03-20 | 2025-04-11 |
 | [在你家樓下](https://open.spotify.com/track/5ptJwdDSCZE2dzfnkLFnnV) | [Miusa妙莎](https://open.spotify.com/artist/1itLcngrdYzeL6JRpEviDL) | [在你家樓下](https://open.spotify.com/album/4D7kV3UwpIoQPwOXFm1hJR) | 3:54 | 2025-11-06 | 2025-12-19 |
@@ -3149,6 +3151,7 @@
 | [狗拉](https://open.spotify.com/track/7wa5E7LSQMKne8sVD2KSDP) | [超級熱狗王](https://open.spotify.com/artist/7dGNLvS7WXAODpdstlY1Tk), [Green Father 比杰](https://open.spotify.com/artist/5eIj9ZZOKLuHLtRw00oPGk) | [狗拉](https://open.spotify.com/album/0ofgXcupYDooEALRAuzmCV) | 1:31 | 2025-05-01 | 2025-05-09 |
 | [狠操俱樂部](https://open.spotify.com/track/5VwHRwTh6zV1kBIW3FApTx) | [西屯純愛組](https://open.spotify.com/artist/6cYpkZJmpjYnWD6M5IDddT), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [Multiverse](https://open.spotify.com/artist/0l2z1SB8aaIp8vNhI9i5YL) | [狠操俱樂部](https://open.spotify.com/album/2KkpAHwcFULIdz2MoLZUny) | 3:48 | 2024-06-27 | 2024-07-05 |
 | [狡猾的Pila Pila](https://open.spotify.com/track/5XtJeQnfffKhju3P72JRT4) | [幽谷瓦歷斯](https://open.spotify.com/artist/2f3gOSmEfLMmsNIl7ScKtz) | [狡猾的Pila Pila](https://open.spotify.com/album/1lYC6OUjAoFiXG4M3j130Z) | 3:20 | 2024-10-17 | 2024-10-25 |
+| [狩獵](https://open.spotify.com/track/1vaMx5pz4b8lKQO6tWGOc3) | [Endless](https://open.spotify.com/artist/21JpKdhWfLuiv359q5iuw0) | [狩獵](https://open.spotify.com/album/66BH4VVc6lWFFcq9zU1Q1m) | 3:36 | 2026-01-22 |  |
 | [独一无二（One of a Kind）](https://open.spotify.com/track/4VahNZQvm30xUMyfaPzgq0) | [VaVa](https://open.spotify.com/artist/1apmSb6aeHZyr9zUsy1Z9q) | [独一无二（One of a Kind）](https://open.spotify.com/album/7wkJZwS3ly24bTT8LDJvUQ) | 3:25 | 2024-06-27 | 2024-07-19 |
 | [猜你也不會說](https://open.spotify.com/track/37jvE3sJwQFmKM8d6db5OO) | [鐵夫 Dave](https://open.spotify.com/artist/4qGDbD5rMPAgX2JJlD87nR) | [猜你也不會說](https://open.spotify.com/album/5DSs3wYxALg0GTQ74FQzF9) | 2:41 | 2024-11-14 | 2024-11-22 |
 | [猴囡仔 \(feat\. Leo王\)](https://open.spotify.com/track/6Sf3y9RAd9hx6s0YZhkD4K) | [JY](https://open.spotify.com/artist/53Pdhzy89oSp2VabM9oDGg), [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP) | [猴囡仔](https://open.spotify.com/album/2eJBaPz8YP1PhTWRfudlID) | 2:46 | 2024-08-15 | 2024-09-06 |
@@ -3327,6 +3330,7 @@
 | [第二次呼吸](https://open.spotify.com/track/58r2JabBvrF2uAj25G7WSL) | [汐纱](https://open.spotify.com/artist/2TXFeA84CmQrVF1YWm9ZwX), [阿策](https://open.spotify.com/artist/6dp1R1dVN2kZTpJnmyZctr) | [第二次呼吸](https://open.spotify.com/album/7ciVKtpi2fJY4gfrLnON0n) | 2:59 | 2026-01-15 |  |
 | [第二話 築夢](https://open.spotify.com/track/1u3dNiUvEPCurInJXrYwhJ) | [ZL7](https://open.spotify.com/artist/1RUGX6XkAnOk25OZBjwXjX) | [第二話 築夢](https://open.spotify.com/album/5p4wlRPPlIeL1qINqqHnfK) | 2:32 | 2025-08-21 | 2025-08-29 |
 | [第十三月](https://open.spotify.com/track/0CQONJ2tntH7ji3CVkfepk) | [文年 Wayne Nian](https://open.spotify.com/artist/7Cv0ZkqsFuzt56i3udK2Up) | [第十三月](https://open.spotify.com/album/1MtUDltrFxQSt3IoqVaacG) | 2:56 | 2025-01-02 | 2025-01-24 |
+| [等](https://open.spotify.com/track/77UfwEmvuEc9n5BlEj1osB) | [LOCK G](https://open.spotify.com/artist/2euPzHJSBb5r6sRmSqml47) | [等](https://open.spotify.com/album/7HNdyAH4AP7SEJ3c2zgwJ7) | 3:16 | 2026-01-22 |  |
 | [等](https://open.spotify.com/track/61wHQ7xDyrqQ1rVIukhT69) | [夜貓組 \(Leo王+春艷\)](https://open.spotify.com/artist/10bBWqtVxVR6nl4BzU97Xk) | [啊你是有什麼問題 ?](https://open.spotify.com/album/7q9SKcpEdO3ziJaoPiQyPF) | 3:08 | 2024-10-10 | 2024-11-01 |
 | [等](https://open.spotify.com/track/7bu8DEL6NSTDTs8ZlEXytj) | [黃老三](https://open.spotify.com/artist/0R1K8st4MzQ3fVtjUXD014) | [一撮火藥](https://open.spotify.com/album/4uNEeqUyiLS062MdO9STJn) | 3:18 | 2025-04-10 | 2025-05-09 |
 | [等他們都離開](https://open.spotify.com/track/52H22RHtZzXP6fBoXF69Hm) | [TJKid$$](https://open.spotify.com/artist/2nhcHpoVN1Dc7accvEX3KW) | [等他們都離開](https://open.spotify.com/album/6plLNTftw1qdo3e0SRMlXB) | 2:38 | 2025-11-13 | 2025-12-12 |

@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Gui Neris",
-  "num_followers": 111955,
+  "num_followers": 111971,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -375,30 +375,6 @@
     {
       "added_at": "2025-12-15 18:47:45",
       "album": {
-        "name": "\u00c9 Voc\u00ea",
-        "url": "https://open.spotify.com/album/0Q3XvlrJ3lFZhR22nzEFYX"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        },
-        {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
-        },
-        {
-          "name": "Paloma Possi",
-          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
-        }
-      ],
-      "duration_ms": 231575,
-      "name": "\u00c9 Voc\u00ea",
-      "url": "https://open.spotify.com/track/3dQXxShR7tRJF7of1tmPQ7"
-    },
-    {
-      "added_at": "2025-12-15 18:47:45",
-      "album": {
         "name": "A Melhor Hist\u00f3ria",
         "url": "https://open.spotify.com/album/2AiV9qnqvjsixneFgqPT9b"
       },
@@ -419,6 +395,30 @@
       "duration_ms": 230727,
       "name": "A Melhor Hist\u00f3ria",
       "url": "https://open.spotify.com/track/6frTdCdn2iCcmOqcYZggTr"
+    },
+    {
+      "added_at": "2025-12-15 18:47:45",
+      "album": {
+        "name": "\u00c9 Voc\u00ea",
+        "url": "https://open.spotify.com/album/0Q3XvlrJ3lFZhR22nzEFYX"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        },
+        {
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+        },
+        {
+          "name": "Paloma Possi",
+          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
+        }
+      ],
+      "duration_ms": 231575,
+      "name": "\u00c9 Voc\u00ea",
+      "url": "https://open.spotify.com/track/3dQXxShR7tRJF7of1tmPQ7"
     },
     {
       "added_at": "2025-12-15 18:47:45",
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-12-15 18:47:45",
       "album": {
+        "name": "SL.27.4",
+        "url": "https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "duration_ms": 237209,
+      "name": "Tudo",
+      "url": "https://open.spotify.com/track/5wbSVolmtQA6kodui95x40"
+    },
+    {
+      "added_at": "2025-12-15 18:47:45",
+      "album": {
         "name": "Sonhar",
         "url": "https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK"
       },
@@ -739,18 +755,18 @@
     {
       "added_at": "2025-12-15 18:47:45",
       "album": {
-        "name": "SL.27.4",
-        "url": "https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy"
+        "name": "\u00c9 de Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
       },
       "artists": [
         {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
         }
       ],
-      "duration_ms": 237209,
-      "name": "Tudo",
-      "url": "https://open.spotify.com/track/5wbSVolmtQA6kodui95x40"
+      "duration_ms": 196306,
+      "name": "\u00c9 de Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
     },
     {
       "added_at": "2025-12-15 18:47:45",
@@ -775,22 +791,6 @@
       "duration_ms": 192000,
       "name": "Teu V\u00f4o",
       "url": "https://open.spotify.com/track/3s1puxrckxaAKtsqGcHuPD"
-    },
-    {
-      "added_at": "2025-12-15 18:47:45",
-      "album": {
-        "name": "\u00c9 de Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
-      },
-      "artists": [
-        {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "\u00c9 de Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
     },
     {
       "added_at": "2025-12-15 18:47:45",
@@ -1019,6 +1019,30 @@
     {
       "added_at": "2025-12-15 18:47:45",
       "album": {
+        "name": "Tudo Novo (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3gWsO95tq0c0qTAyogPlHk"
+      },
+      "artists": [
+        {
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        },
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        }
+      ],
+      "duration_ms": 179998,
+      "name": "Tudo Novo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/77uSoHkw1ot5r6JdfvtTmi"
+    },
+    {
+      "added_at": "2025-12-15 18:47:45",
+      "album": {
         "name": "Deixa Esse Medo",
         "url": "https://open.spotify.com/album/6E2eSQG04ZY7zep1UAicvN"
       },
@@ -1055,30 +1079,6 @@
       "duration_ms": 153333,
       "name": "Fui Liberto",
       "url": "https://open.spotify.com/track/3rsC6Zxyo2tmsn9LCfsp2t"
-    },
-    {
-      "added_at": "2025-12-15 18:47:45",
-      "album": {
-        "name": "Tudo Novo (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3gWsO95tq0c0qTAyogPlHk"
-      },
-      "artists": [
-        {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
-        },
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        },
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
-        }
-      ],
-      "duration_ms": 179998,
-      "name": "Tudo Novo - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/77uSoHkw1ot5r6JdfvtTmi"
     },
     {
       "added_at": "2025-12-15 18:47:45",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-12-15 18:47:45",
       "album": {
-        "name": "Enganoso Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/3bH6OZFff0l1tkhJg28nUx"
-      },
-      "artists": [
-        {
-          "name": "Bea Rodrigues",
-          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
-        }
-      ],
-      "duration_ms": 190023,
-      "name": "Enganoso Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/61vB9Mg9vX8G4uwLKmn2n9"
-    },
-    {
-      "added_at": "2025-12-15 18:47:45",
-      "album": {
         "name": "Voltar",
         "url": "https://open.spotify.com/album/7IhZtnkevW11CFBDn0MtMw"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 256874,
       "name": "Voltar",
       "url": "https://open.spotify.com/track/7nGWHqmxy7YbXSW2bQ3gwM"
+    },
+    {
+      "added_at": "2025-12-15 18:47:45",
+      "album": {
+        "name": "Enganoso Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/3bH6OZFff0l1tkhJg28nUx"
+      },
+      "artists": [
+        {
+          "name": "Bea Rodrigues",
+          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
+        }
+      ],
+      "duration_ms": 190023,
+      "name": "Enganoso Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/61vB9Mg9vX8G4uwLKmn2n9"
     },
     {
       "added_at": "2025-12-15 18:47:45",

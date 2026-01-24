@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Up and down I-95. Cover: Max B and French Montana",
+  "description": "Up and down I-95. Cover: A$AP Rocky",
   "name": "State of Mind",
   "tracks": [
     {
@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 224279,
       "name": "AIR FORCE (BLACK DEMARCO)",
       "url": "https://open.spotify.com/track/4WGk4UwyQD0mxTN6gEL4wl"
@@ -1934,7 +1934,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 144895,
       "name": "Anna Mae - EASTMIX",
       "url": "https://open.spotify.com/track/7DQvGZuLuC4YNK6wQPRCjJ"
@@ -10240,7 +10240,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 149766,
       "name": "Doot Doot (6 7)",
       "url": "https://open.spotify.com/track/18DEvCPCmzVpo2en9DeylA"
@@ -10544,6 +10544,24 @@
       "duration_ms": 309678,
       "name": "Dr. Britt Baker",
       "url": "https://open.spotify.com/track/08vyopstusuqW5qtK9EVh2"
+    },
+    {
+      "album": {
+        "name": "Dranc Wars",
+        "url": "https://open.spotify.com/album/1MxKA3jirzzsEugiGvFDUq"
+      },
+      "artists": [
+        {
+          "name": "Rx Papi",
+          "url": "https://open.spotify.com/artist/56gMovAlFdnmrDk2BcfUlJ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168559,
+      "name": "Dranc Wars",
+      "url": "https://open.spotify.com/track/28MdxSMiZJKriOlt8cplDx"
     },
     {
       "album": {
@@ -11232,6 +11250,28 @@
       "duration_ms": 172800,
       "name": "Everybody Raps",
       "url": "https://open.spotify.com/track/1ynplfvDO3RQh6exp05LIl"
+    },
+    {
+      "album": {
+        "name": "e.t.d.s. A Mixtape by .idk.",
+        "url": "https://open.spotify.com/album/0CfaDINhy5bFTz9UwM7WAF"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159838,
+      "name": "EVERYONE KNOWS :)",
+      "url": "https://open.spotify.com/track/52mdK0M8fddytEzdq1G0up"
     },
     {
       "album": {
@@ -12340,6 +12380,54 @@
       "duration_ms": 235354,
       "name": "Fisherrr - Remix",
       "url": "https://open.spotify.com/track/1rrV4ymf3Tp3xuLgB4zCRN"
+    },
+    {
+      "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/0atfWEzoZMgo9zCwFd5nEN"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140143,
+      "name": "FLACKITO JODYE (feat. Tokischa)",
+      "url": "https://open.spotify.com/track/5evBKaW1C74pRKBoQIyZ8C"
+    },
+    {
+      "album": {
+        "name": "e.t.d.s. A Mixtape by .idk.",
+        "url": "https://open.spotify.com/album/0CfaDINhy5bFTz9UwM7WAF"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Conductor Williams",
+          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149503,
+      "name": "FLAKKA",
+      "url": "https://open.spotify.com/track/7JXgFyQNzpxcfIILwryyJZ"
     },
     {
       "album": {
@@ -14516,6 +14604,32 @@
       "duration_ms": 300047,
       "name": "GOD'S PLAYGROUND",
       "url": "https://open.spotify.com/track/74pWovp4hPMNeOXGHQbLpc"
+    },
+    {
+      "album": {
+        "name": "Goer",
+        "url": "https://open.spotify.com/album/3reUJa5ezkdG8GLaxFyH0E"
+      },
+      "artists": [
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141221,
+      "name": "Goer",
+      "url": "https://open.spotify.com/track/1TDspUEbSqz5GgTlQjRItI"
     },
     {
       "album": {
@@ -29545,6 +29659,24 @@
     },
     {
       "album": {
+        "name": "TOP 5 CLOVER",
+        "url": "https://open.spotify.com/album/0vfMQhWtWyu6weRVWtypov"
+      },
+      "artists": [
+        {
+          "name": "Btb Dezz",
+          "url": "https://open.spotify.com/artist/7dsfjJOEJ0naEgecbf0lol"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116426,
+      "name": "Rivals",
+      "url": "https://open.spotify.com/track/5ssx53WusnWD1SSFdJnAKq"
+    },
+    {
+      "album": {
         "name": "SCARING THE HOES: DIRECTOR'S CUT",
         "url": "https://open.spotify.com/album/2GgrGo1slpuqdheJeiKoMJ"
       },
@@ -30678,7 +30810,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 180402,
       "name": "See Us Now",
       "url": "https://open.spotify.com/track/4plPArVMyTFgESGfsHIysG"
@@ -30929,7 +31061,7 @@
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 201081,
+      "duration_ms": 204329,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/4jg24p9fO117Vr2RdgdMzf"
     },
@@ -33260,7 +33392,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 123022,
       "name": "Supa Cousteau (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/51sTnBLIm6aPJ3ogGlMA0g"
@@ -35052,7 +35184,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 142172,
       "name": "TiFFANY",
       "url": "https://open.spotify.com/track/5VKFxeCNXVoJbFUUlfmVx9"
@@ -36368,7 +36500,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 187218,
       "name": "Used 2 Love",
       "url": "https://open.spotify.com/track/7iJSVUXKBTvtz7fFKuA6h9"
@@ -36390,6 +36522,24 @@
       "duration_ms": 147218,
       "name": "Uzi",
       "url": "https://open.spotify.com/track/7bYMYyBCfWSfoC2zRacK2x"
+    },
+    {
+      "album": {
+        "name": "656",
+        "url": "https://open.spotify.com/album/3InmPui8pj47JAOOu1e4GR"
+      },
+      "artists": [
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139155,
+      "name": "Vanity",
+      "url": "https://open.spotify.com/track/7ncc5WvZy6rnG3KdDeyofA"
     },
     {
       "album": {

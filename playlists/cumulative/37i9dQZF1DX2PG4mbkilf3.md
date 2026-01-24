@@ -2,9 +2,9 @@
 
 ### [Mood Ring ](https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3)
 
-> Your guide to R&B in Canada, with Yoko Gold from Brampton, ON.
+> Your guide to R&B in Canada, with Skip Waiters from Brampton, ON.
 
-1,547 songs - 3 day 8 hr 34 min
+1,550 songs - 3 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [Cloud 9](https://open.spotify.com/track/0nnVrlB6g0UvxygqUhYLjU) | [Maison Gimotto](https://open.spotify.com/artist/09Yg7cvW5HCTss1cQWVP4E) | [Cloud 9](https://open.spotify.com/album/4KelIUPQYV7ypTLzR3A82O) | 2:11 | 2022-07-01 | 2022-09-17 |
 | [Clouds](https://open.spotify.com/track/23DyGq8RBW6iTOhVkMUfXT) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Clouds](https://open.spotify.com/album/2jCiuFgbccEXrHwsaJ84QV) | 3:55 | 2024-02-16 | 2024-03-16 |
 | [Cocoa](https://open.spotify.com/track/2umjueMhtny00cbEgTuj1U) | [KAYAM](https://open.spotify.com/artist/58UJUfMaQRjFlDxawMuOru), [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [Cocoa](https://open.spotify.com/album/5ncDR3ojJICabsyySTdJRt) | 2:42 | 2025-10-04 |  |
-| [cohete](https://open.spotify.com/track/5SD3IKqIJA2EW14JCTamPE) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [cohete](https://open.spotify.com/album/18Gy88oYgwb0ddL7hPhcuh) | 3:03 | 2025-10-04 |  |
+| [cohete](https://open.spotify.com/track/5SD3IKqIJA2EW14JCTamPE) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [cohete](https://open.spotify.com/album/18Gy88oYgwb0ddL7hPhcuh) | 3:03 | 2025-10-04 | 2026-01-24 |
 | [Colors](https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Colors](https://open.spotify.com/album/2lecuAW041jFGznJIATbhz) | 4:08 | 2023-06-02 | 2023-09-30 |
 | [colourNo9](https://open.spotify.com/track/6aZ4cO0fMiVBcA7zauLe8w) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [colourNo9](https://open.spotify.com/album/2CAPzrTpXMPUUJRW7rIGVL) | 2:33 | 2025-05-16 | 2025-10-05 |
 | [Come and See Me](https://open.spotify.com/track/6G9XqMGLEFMqHWkTIOY3Nd) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Easy 10's](https://open.spotify.com/album/2qHZsOcIglVGhu7Zf9UC6F) | 3:55 | 2022-12-30 | 2023-01-03 |
@@ -314,6 +314,7 @@
 | [Different Morning \(feat\. DijahSB\) \- Radio Edit](https://open.spotify.com/track/368fIfG0s5PGN6Umv2UR7p) | [Tanika Charles](https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Different Morning \(feat\. DijahSB\)](https://open.spotify.com/album/2xWuxKRWdUpaZWFMdelg4b) | 3:19 | 2022-02-18 | 2022-03-18 |
 | [Dinner Table](https://open.spotify.com/track/6OrURxfGOLE3u7eswnSMOQ) | [HMLT](https://open.spotify.com/artist/0fBHUKzEq03UdHV8nc0KOy), [Lan'do](https://open.spotify.com/artist/2CydGGDCQTBvHCjr3WEY7C) | [Dinner Table](https://open.spotify.com/album/2zo0djfVXZoleI6pGLbaGM) | 3:07 | 2023-06-23 | 2023-08-26 |
 | [Dirt Roads](https://open.spotify.com/track/6abgej5aQVjWvSFydjqo6o) | [Tia Wood](https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC) | [Dirt Roads](https://open.spotify.com/album/45mNHIYIE7iJmIMMAMeha9) | 3:12 | 2024-06-21 | 2024-08-03 |
+| [Disappear](https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Greyhound](https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP) | 3:31 | 2026-01-23 |  |
 | [Disconnected](https://open.spotify.com/track/2qkwyX05HzdQduZSlRFMYp) | [Haley Smalls](https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY), [Nakima](https://open.spotify.com/artist/3fZKCj6O0KB0A2OHl3mT4z) | [Disconnected](https://open.spotify.com/album/1i9hKK9eKp9uOqlOJ2DZ7J) | 2:45 | 2023-09-15 | 2023-12-09 |
 | [DISHONORED](https://open.spotify.com/track/1URH3DZOnsEx6TNqPYsYkk) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [IN LOVING MEMORY](https://open.spotify.com/album/5yjvJzb9DJRtgArZhPs6uk) | 2:43 | 2023-12-01 | 2023-12-13 |
 | [Distant](https://open.spotify.com/track/0ygfnqXgLvgdxzuG4nyyOb) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Distant](https://open.spotify.com/album/6s5es651GnSeAzUsWo1BpU) | 3:19 | 2022-02-18 | 2022-02-26 |
@@ -608,6 +609,7 @@
 | [I LO<3 MY EX](https://open.spotify.com/track/375yP07IehIfCK16Ba4bne) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [I LO<3 MY EX](https://open.spotify.com/album/5qvwNc0eA0wUE1q5K3F0vK) | 2:50 | 2024-07-26 | 2024-08-17 |
 | [I Love Being Invisible](https://open.spotify.com/track/41soii7TsX2M2AIAAOsNh5) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [I Love Being Invisible](https://open.spotify.com/album/1AQByoYFbZI7v8YNGquSfI) | 3:01 | 2023-02-17 | 2023-05-06 |
 | [I Need](https://open.spotify.com/track/3MQNYASnna86zXaQE45uZT) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [I Need](https://open.spotify.com/album/6FfWbCQ2pXt4BCUbaltCAv) | 2:59 | 2024-08-30 | 2024-09-28 |
+| [i see red](https://open.spotify.com/track/3Gg7L1NuNNhqltvDgd6VHI) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [i see red](https://open.spotify.com/album/231uuW018MqyHPEGHHjZ8C) | 2:56 | 2026-01-23 |  |
 | [I Think I Do](https://open.spotify.com/track/1jKaIiSWLMo5et7jK7C3XI) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [I Think I Do](https://open.spotify.com/album/6OHRYCn9KlMjlaMtIzkrya) | 2:22 | 2022-10-14 | 2022-11-05 |
 | [I thought](https://open.spotify.com/track/4yuQLTlJk0b4okaYvEFjeU) | [Mileena](https://open.spotify.com/artist/3zMmBYE6UVHfnURPeagEZu) | [I thought](https://open.spotify.com/album/5UlcRRyhTgtbZfts7gfeoO) | 2:51 | 2023-02-10 | 2023-05-06 |
 | [I Want It](https://open.spotify.com/track/1THDp78PrwE2R335ydjw9F) | [Sierra Blacc](https://open.spotify.com/artist/4etfsbyXlz63O989Dg8qto) | [I Want It](https://open.spotify.com/album/5Pmyr0BIsQVwq5CDh4yjt0) | 2:21 | 2022-05-27 | 2022-07-23 |
@@ -676,6 +678,7 @@
 | [Jupiter & Mars](https://open.spotify.com/track/1BTECTa3NituN8LqXjrw2B) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Jupiter & Mars](https://open.spotify.com/album/6IgkZ5qys4BMo6X1iFYIBU) | 3:16 | 2022-04-22 | 2022-06-25 |
 | [JUS KNOW \(feat\. Travis Scott\)](https://open.spotify.com/track/1pg2gguxmrrD4rYUeRSmGj) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [COLOURS](https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz) | 4:21 | 2023-09-22 | 2023-10-07 |
 | [just a call away \(feat\. Lafa Taylor & Mr\. Carmack\)](https://open.spotify.com/track/72ixJIhUCZMwIw0Ooxoqoe) | [the della kit](https://open.spotify.com/artist/7iizvwAcI4QI2haMM6mM1q), [Lafa Taylor](https://open.spotify.com/artist/0j0HBDnIuT6rsn840ec18A), [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn) | [just a call away \(feat\. Lafa Taylor & Mr\. Carmack\)](https://open.spotify.com/album/5R2FS8nANdM0gH541mvF8n) | 3:31 | 2022-05-06 | 2022-07-30 |
+| [just busiNESS \(feat\. Kalisway\)](https://open.spotify.com/track/00VNNaPRpJCGiV4T1LRuyL) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav), [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [INSECURE](https://open.spotify.com/album/3aIMsGenEfDKTS2Cco1JP8) | 2:54 | 2026-01-23 |  |
 | [Just Friends](https://open.spotify.com/track/3RSX7OgnB1vOj0bhxLwnhB) | [NITAP](https://open.spotify.com/artist/74BPG8mr54PDRxjszcQ6qc) | [Just Friends](https://open.spotify.com/album/5bGu5nboSbdvM3ggBfFcjd) | 2:50 | 2025-10-31 |  |
 | [JUST LIKE CANDY](https://open.spotify.com/track/2F67eoAIARJ6E9FdhoxOYV) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [JUST LIKE CANDY](https://open.spotify.com/album/4naBKZx2cng8JXWnLZ8LE3) | 2:40 | 2024-01-19 | 2024-01-29 |
 | [JUST LIKE CANDY](https://open.spotify.com/track/2HGMJumlVE3cN88AT3q9F9) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [JUST LIKE CANDY](https://open.spotify.com/album/3R6AG9fnGJeF2odxFzHhS1) | 2:40 | 2023-10-06 | 2024-01-26 |
@@ -1135,7 +1138,7 @@
 | [S'CAPTER](https://open.spotify.com/track/4sXlVea4xm9kfDZkxzOPjq) | [MADRiiNA](https://open.spotify.com/artist/71hlGt1GyQq0HOXC12ZGQ7) | [S'CAPTER](https://open.spotify.com/album/0Qxi8CZ2UYRMmuV5bGcUcT) | 3:07 | 2024-07-26 | 2024-10-12 |
 | [Sacrifice](https://open.spotify.com/track/0ebZQ0Oz7FToua8ydU92CW) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Sacrifice](https://open.spotify.com/album/31igSerGxvettqWnhH0IsC) | 4:15 | 2022-11-18 | 2023-01-06 |
 | [SAD GIRL DISCO](https://open.spotify.com/track/24dJ7fDXFjBjoTKAICL8vU) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [COLLIDE](https://open.spotify.com/album/4HC7EHKHEMR4iT0sTt6hNr) | 2:52 | 2025-09-12 | 2025-10-05 |
-| [Safe Ground](https://open.spotify.com/track/3Bt0GlzLP4O0UUyii2FmzV) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Safe Ground](https://open.spotify.com/album/0o0F5wVfqU1Vld0peDnPzA) | 3:13 | 2026-01-09 |  |
+| [Safe Ground](https://open.spotify.com/track/3Bt0GlzLP4O0UUyii2FmzV) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Safe Ground](https://open.spotify.com/album/0o0F5wVfqU1Vld0peDnPzA) | 3:13 | 2026-01-09 | 2026-01-24 |
 | [Sail](https://open.spotify.com/track/26mrUHchbcgiCahub27gZY) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [Sail](https://open.spotify.com/album/6QyzYTkLfUpToqNDd8SpSm) | 2:28 | 2023-06-02 | 2023-09-09 |
 | [Same Old Mistake](https://open.spotify.com/track/0esji3PRFprTRKNAP5OASW) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Same Old Mistake](https://open.spotify.com/album/6vjaaocW1oiMF3DYwV0CRQ) | 3:15 | 2022-02-18 | 2022-04-02 |
 | [Same Thing](https://open.spotify.com/track/10niVzPrVUTvGjLzzOgKDu) | [Jordan Solomon](https://open.spotify.com/artist/3F2OHxH7rWTkyfchtYA7bQ) | [Same Thing](https://open.spotify.com/album/3KBQw3JxrEo3kl1Fr1BPRk) | 2:13 | 2022-05-20 | 2022-07-23 |

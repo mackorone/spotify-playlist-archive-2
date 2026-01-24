@@ -4,7 +4,7 @@
 
 > The newest arrivals\. Cover: Asco
 
-348 songs - 16 hr 51 min
+348 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Hair Down](https://open.spotify.com/track/2tP73L31LHxJAZs3L8HMnp) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Hair Down](https://open.spotify.com/album/63k0s6k9wWu2QMutLrocu4) | 3:11 | 2026-01-09 | 2026-01-23 |
 | [hella jealous](https://open.spotify.com/track/0l45fHynGyWPiSrJ1szQZj) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [hella jealous](https://open.spotify.com/album/0Q0DLgcmAFmehAKjNGx2mz) | 3:09 | 2025-11-07 | 2025-11-21 |
 | [Here We Go Again](https://open.spotify.com/track/7jXIpGIVk3M80zg1oj0sXT) | [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [2 EASY](https://open.spotify.com/album/1KYDfAVps1egxt3TU6jShb) | 2:20 | 2025-10-31 | 2025-11-14 |
+| [High Key](https://open.spotify.com/track/48Rk6ZyFcztsyvUZeUFVXO) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Vacancy](https://open.spotify.com/album/2UuTaSOSxTNP6whKrwDqnS) | 2:12 | 2026-01-23 |  |
 | [HIM \(feat\. Gunna\)](https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [HIM](https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV) | 3:22 | 2025-10-23 | 2025-10-31 |
 | [History](https://open.spotify.com/track/0kbfiqVhGoEtv6ANAHpHC6) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [History](https://open.spotify.com/album/025WWoX4KV2uNCUWoaKD2d) | 2:31 | 2026-01-09 | 2026-01-23 |
 | [hitman?](https://open.spotify.com/track/2ZWwz03HzuZHfcQrfUOKXD) | [dylwaitwhat](https://open.spotify.com/artist/3cgbiJom7JIKvZUpaTCPZb), [jefe?](https://open.spotify.com/artist/6Px1BLOTyqNycbFZqeZdwC) | [out of character?](https://open.spotify.com/album/7qrtdPh4me45KfVauA5PaJ) | 1:48 | 2025-12-19 | 2026-01-15 |
@@ -272,7 +273,7 @@
 | [Same Shit](https://open.spotify.com/track/1Hu9ijKYbuC9n5xb1eB5xW) | [yaemulli](https://open.spotify.com/artist/7A0S2z4SJghf7Nr6uI31xM) | [Same Shit](https://open.spotify.com/album/2UvdzDd6ILpARfeT4vXbTr) | 3:07 | 2025-11-14 | 2025-11-21 |
 | [SAVANNAH](https://open.spotify.com/track/6c3zXoBMgNLZbGTXcu7fOK) | [Efosa](https://open.spotify.com/artist/6bMDcfWfOVl5mWw8DUgLO3) | [SAVANNAH](https://open.spotify.com/album/50LEiGuymoyf4AteIt5JZ7) | 2:21 | 2026-01-16 | 2026-01-23 |
 | [SAVE ME](https://open.spotify.com/track/5xmxThQHMqYRItILkCiHIP) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [SAVE ME](https://open.spotify.com/album/6itPCD7uqpW0SNhwFO9UJD) | 2:49 | 2025-12-19 | 2026-01-16 |
-| [scared](https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [USB](https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT) | 4:03 | 2026-01-23 |  |
+| [scared](https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [USB](https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT) | 3:46 | 2026-01-23 |  |
 | [Selfridges](https://open.spotify.com/track/2lL17X7tPp6rhdlJ5lg5hd) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Selfridges](https://open.spotify.com/album/7qCeRMzv4oGpUeMgV6ko4f) | 2:35 | 2025-11-14 | 2025-12-05 |
 | [Sex on the Beach](https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Sex on the Beach](https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB) | 2:51 | 2025-12-12 | 2026-01-15 |
 | [Shibuya](https://open.spotify.com/track/3bXhUkVq9kh7pWuh3prLPD) | [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9), [It\-Works](https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0) | [Shibuya](https://open.spotify.com/album/5aARgJUvKBGbYtOrTG77AY) | 2:09 | 2026-01-16 |  |
@@ -315,7 +316,6 @@
 | [The Otherside](https://open.spotify.com/track/13YsxcCwZmPYLvwwTGMhbQ) | [Sandy](https://open.spotify.com/artist/26Bu7luPOZNb2vI6IL4VBg) | [Bunny](https://open.spotify.com/album/4FOpf4CSRmjU2z17jgM5mZ) | 3:16 | 2025-10-31 | 2025-11-07 |
 | [THE SCARLET WOMAN](https://open.spotify.com/track/2MMhVXYsFQ47WG60258IQ3) | [JAY10!](https://open.spotify.com/artist/7C2XkaumLolC29VScZQw9S) | [THE SCARLET WOMAN](https://open.spotify.com/album/1xWBUfptraCwcRQCdDo85T) | 2:34 | 2025-10-31 | 2025-11-14 |
 | [Touched](https://open.spotify.com/track/3YfTRQJUSvq6Ri3DzuDG3n) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [Touched](https://open.spotify.com/album/2PeniNPiOgKpiFWEHNongC) | 2:58 | 2025-12-19 | 2026-01-15 |
-| [Track 5](https://open.spotify.com/track/48Rk6ZyFcztsyvUZeUFVXO) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-23 |  |
 | [Tralala \(feat\. JayO\)](https://open.spotify.com/track/56tncmDMcu6CdGfUmE6FSc) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 2:48 | 2025-11-21 | 2025-12-12 |
 | [Triple Double](https://open.spotify.com/track/2IjZIOg7b2t6abMmkWiMWp) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Where's The Wizard?](https://open.spotify.com/album/5vJ03f6VupR2ykhy9Uq1Hq) | 2:28 | 2025-12-12 | 2026-01-15 |
 | [Trouble](https://open.spotify.com/track/1kvHfHpoqF3zm3bGgjUoYh) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Mazza\_l20](https://open.spotify.com/artist/00IiVt687EdR9JnSoJN7IA) | [Trouble](https://open.spotify.com/album/013oyxu6GZfmFsjsDGIlNO) | 3:07 | 2025-10-23 | 2025-10-31 |

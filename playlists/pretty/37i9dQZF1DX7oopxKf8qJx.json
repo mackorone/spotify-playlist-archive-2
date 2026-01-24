@@ -1,6 +1,6 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 132426,
+  "num_followers": 132468,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
@@ -75,26 +75,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Two Pianos Today",
-        "url": "https://open.spotify.com/album/5furh3F91CSI9ELQIZpoCY"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Aldrich and his 2 pianos",
-          "url": "https://open.spotify.com/artist/0Dh1BicC7OimxTazI2iffT"
-        },
-        {
-          "name": "London Festival Orchestra",
-          "url": "https://open.spotify.com/artist/3akUqAy3Q1WqRZqceC4jW9"
-        }
-      ],
-      "duration_ms": 188880,
-      "name": "Georgy Girl",
-      "url": "https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "As Time Goes By",
         "url": "https://open.spotify.com/album/6QbgZKxpHRWjF7ryy0uczS"
       },
@@ -111,6 +91,26 @@
       "duration_ms": 207640,
       "name": "The Summer Knows (From \"Summer of '42\")",
       "url": "https://open.spotify.com/track/4852V4r33kQtMIWscamrac"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "Two Pianos Today",
+        "url": "https://open.spotify.com/album/5furh3F91CSI9ELQIZpoCY"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Aldrich and his 2 pianos",
+          "url": "https://open.spotify.com/artist/0Dh1BicC7OimxTazI2iffT"
+        },
+        {
+          "name": "London Festival Orchestra",
+          "url": "https://open.spotify.com/artist/3akUqAy3Q1WqRZqceC4jW9"
+        }
+      ],
+      "duration_ms": 188880,
+      "name": "Georgy Girl",
+      "url": "https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "I Only Have Eyes for You",
-        "url": "https://open.spotify.com/album/7ls79FDjgrXlt424cIP1SE"
-      },
-      "artists": [
-        {
-          "name": "Hugo Winterhalter And His Orchestra",
-          "url": "https://open.spotify.com/artist/0I8ekdWabNnWyuOtVuW2DL"
-        }
-      ],
-      "duration_ms": 160320,
-      "name": "You'll Never Know - Instrumental",
-      "url": "https://open.spotify.com/track/0sQ0BzLHZfX9TLXvNROcjh"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "Music For Lovers Only",
         "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 160000,
       "name": "Moon River - From \"Breakfast At Tiffanys\"",
       "url": "https://open.spotify.com/track/2BpyzY3nIhoqF37Xh5TMr8"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "I Only Have Eyes for You",
+        "url": "https://open.spotify.com/album/7ls79FDjgrXlt424cIP1SE"
+      },
+      "artists": [
+        {
+          "name": "Hugo Winterhalter And His Orchestra",
+          "url": "https://open.spotify.com/artist/0I8ekdWabNnWyuOtVuW2DL"
+        }
+      ],
+      "duration_ms": 160320,
+      "name": "You'll Never Know - Instrumental",
+      "url": "https://open.spotify.com/track/0sQ0BzLHZfX9TLXvNROcjh"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "West of Sunset",
-        "url": "https://open.spotify.com/album/3ybe9VUz7rSLgp6yjQrzE7"
-      },
-      "artists": [
-        {
-          "name": "Frank Chacksfield",
-          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
-        }
-      ],
-      "duration_ms": 147506,
-      "name": "Marylin",
-      "url": "https://open.spotify.com/track/4mMky7LwvVButfAckz3upW"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "A Swingin' Safari (Remastered)",
         "url": "https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 150440,
       "name": "Market Day",
       "url": "https://open.spotify.com/track/4hlI8fEybTdT0ADaGltnuF"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "West of Sunset",
+        "url": "https://open.spotify.com/album/3ybe9VUz7rSLgp6yjQrzE7"
+      },
+      "artists": [
+        {
+          "name": "Frank Chacksfield",
+          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
+        }
+      ],
+      "duration_ms": 147506,
+      "name": "Marylin",
+      "url": "https://open.spotify.com/track/4mMky7LwvVButfAckz3upW"
     },
     {
       "added_at": "2024-07-17 14:53:29",

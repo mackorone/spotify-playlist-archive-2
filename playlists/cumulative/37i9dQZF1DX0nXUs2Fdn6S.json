@@ -1631,6 +1631,24 @@
     },
     {
       "album": {
+        "name": "Ruh Krishna",
+        "url": "https://open.spotify.com/album/6KcB4ZlgE0rcayVci1OaZP"
+      },
+      "artists": [
+        {
+          "name": "ANASTRRIX",
+          "url": "https://open.spotify.com/artist/0NY2HVR8BHWUQze2savfsN"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Ruh Krishna",
+      "url": "https://open.spotify.com/track/3SdLc3dS6b7iPUI0U7skw9"
+    },
+    {
+      "album": {
         "name": "Samhaar",
         "url": "https://open.spotify.com/album/5MUztf6w3dVz2uA9B55mC7"
       },

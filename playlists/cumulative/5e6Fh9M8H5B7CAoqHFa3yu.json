@@ -4065,6 +4065,24 @@
     },
     {
       "album": {
+        "name": "Butterfly Kiss",
+        "url": "https://open.spotify.com/album/3M4YLDUmXNLIzPDoFv8wGF"
+      },
+      "artists": [
+        {
+          "name": "Eufrocina Manigos and Eyvind Bilstad",
+          "url": "https://open.spotify.com/artist/31q4JP429LpIl1OEibwldo"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268546,
+      "name": "Butterfly Kiss",
+      "url": "https://open.spotify.com/track/1t4p0VwndjAOsMjd8Pa1C3"
+    },
+    {
+      "album": {
         "name": "Triumphant Riddim",
         "url": "https://open.spotify.com/album/2aSJwBDyD7s2dExpXvNL1h"
       },
@@ -25820,6 +25838,24 @@
       "duration_ms": 141339,
       "name": "Silent Celestial Skies",
       "url": "https://open.spotify.com/track/5s96KU4wa7HMOlnGsxVTKZ"
+    },
+    {
+      "album": {
+        "name": "silhouette",
+        "url": "https://open.spotify.com/album/6fPCeSZ7FEeCckpd2h0bqZ"
+      },
+      "artists": [
+        {
+          "name": "LadyBoy",
+          "url": "https://open.spotify.com/artist/3EyEQIrSwLWmL5WikGao8Q"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234310,
+      "name": "silhouette",
+      "url": "https://open.spotify.com/track/09NzL0ub22tTmCzFdy1XtS"
     },
     {
       "album": {

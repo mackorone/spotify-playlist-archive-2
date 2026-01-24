@@ -4,7 +4,7 @@
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Guernica Club, Merdi Simanjuntak
 
-466 songs - 1 day 5 hr 42 min
+467 songs - 1 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [If You Let Me \(Cinta Tak Seindah Drama Korea Original Motion Picture Soundtrack\)](https://open.spotify.com/track/1K2t17fCXJVxFleVhJ6t83) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q), [Dea Panendra](https://open.spotify.com/artist/3kv4PpsOBcljrFU6KIQCmN) | [If You Let Me \(Cinta Tak Seindah Drama Korea Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Ez23Xkb9bwDJ2TvswbQii) | 3:59 | 2024-11-07 | 2025-09-26 |
 | [Ingatlah Aku Di Sini](https://open.spotify.com/track/4LyUgOxEfMBEWz4jZlcr0K) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [Ingatlah Aku Di Sini](https://open.spotify.com/album/6tdyfG9mVhWfzvoOMcEm9L) | 3:06 | 2025-08-21 |  |
 | [Ingkar](https://open.spotify.com/track/2a2FmnmZpLLu521keHj6CC) | [kidunghara](https://open.spotify.com/artist/6aNEwNrod9qI0UZO69awmo) | [Persembahan Vol\. 1](https://open.spotify.com/album/4QEtk6getifkkIXAEr5QTe) | 4:20 | 2024-06-27 | 2024-07-27 |
-| [Ini Adanya](https://open.spotify.com/track/1eW5GFRRr8xF1oTeiaFw7X) | [T\. Rucira](https://open.spotify.com/artist/1o0RBJNVBuMCyPxvLi0iMC) | [Vol\. 1 \(Prolog\)](https://open.spotify.com/album/1h4j9BfwvCnwIQjyThDtMS) | 3:06 | 2026-01-23 |  |
+| [Ini Adanya](https://open.spotify.com/track/1eW5GFRRr8xF1oTeiaFw7X) | [T\. Rucira](https://open.spotify.com/artist/1o0RBJNVBuMCyPxvLi0iMC) | [Vol\. 1 \(Prolog\)](https://open.spotify.com/album/1h4j9BfwvCnwIQjyThDtMS) | 3:06 | 2026-01-23 | 2026-01-24 |
 | [insecure](https://open.spotify.com/track/0F8HriMRVOJitDrBp7GWnL) | [Penky Adam](https://open.spotify.com/artist/42TWgEtVzIeKjg7S4mUNXQ) | [insecure](https://open.spotify.com/album/3jM42OfJaEIYPmjKmN4JBo) | 2:52 | 2024-07-25 | 2024-09-20 |
 | [Itu Aku \(feat\. The Adams\)](https://open.spotify.com/track/6LZ1vJSx0tgz5DzJPEyK70) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9), [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Itu Aku \(feat\. The Adams\)](https://open.spotify.com/album/1TGbv7l7GfmlirlhI0JS7v) | 4:47 | 2024-09-13 |  |
 | [Jagadhita](https://open.spotify.com/track/752raq1ayodQTY2Ke6Mx3j) | [Fanny Soegi](https://open.spotify.com/artist/7xPtUXBZ8SaJfmJfsGeVoE) | [Jagadhita](https://open.spotify.com/album/6yUWEhonWXlrf9xLfSwcUR) | 4:05 | 2025-02-28 |  |
@@ -312,6 +312,7 @@
 | [NO!](https://open.spotify.com/track/32UQufujepBZNvoRFRzmz9) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [NO!](https://open.spotify.com/album/2zlrD0QwyKJq63bYvRLbHl) | 3:22 | 2025-05-16 | 2025-07-04 |
 | [Normal](https://open.spotify.com/track/4seNLrYD5A726QbcxTsobO) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [Setengah Mati](https://open.spotify.com/album/3DVT0QNJVjBQGKwLi41WtV) | 3:16 | 2024-10-18 | 2025-03-21 |
 | [Nuansa Romansa](https://open.spotify.com/track/5IlUsmKzmLDcjfC64huD43) | [Haira](https://open.spotify.com/artist/35U82BI9FvOGL8BW2fa8Db) | [Nuansa Romansa](https://open.spotify.com/album/0FbED58kWNrEd41ZGh4X9T) | 4:38 | 2025-05-08 | 2025-08-15 |
+| [nulla](https://open.spotify.com/track/30LlunIkCklG8xjlpDKfAH) | [T\. Rucira](https://open.spotify.com/artist/1o0RBJNVBuMCyPxvLi0iMC) | [nulla, vol.1](https://open.spotify.com/album/4uagI2pWOO8sq0v9vl0V6q) | 3:48 | 2026-01-23 |  |
 | [Nyala Langit Jingga](https://open.spotify.com/track/4IfjMf4dRm8fEVbmmiWdec) | [Reruntuh](https://open.spotify.com/artist/3TXx6cyIVfjddsP6Vygy7a) | [Nyala Langit Jingga](https://open.spotify.com/album/6bd0WgxAawoN3PuAe5JLVz) | 5:25 | 2025-06-19 | 2025-10-03 |
 | [Nyali](https://open.spotify.com/track/5Xefj8Ap90LSfZCazbCk8R) | [Manjakani](https://open.spotify.com/artist/6bITofkrePxaLEJf90JjvX) | [Nyali](https://open.spotify.com/album/1IvsI2LopbvtDVu3uqKKpq) | 3:50 | 2025-02-13 | 2025-04-26 |
 | [Ode to an Old Man](https://open.spotify.com/track/0tUvRtES2L74EDxeZqs2lc) | [Texpack](https://open.spotify.com/artist/1OmBTwOooZHrYO3YUmSTIA) | [Gonggo Sound](https://open.spotify.com/album/05zhGBYMnpmqGFeVAeJOnx) | 2:01 | 2024-06-27 | 2024-11-01 |

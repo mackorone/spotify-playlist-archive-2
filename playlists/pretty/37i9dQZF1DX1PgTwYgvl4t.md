@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=g3a\-0y\-4SVKK0vhrWKGw7w>Sunmisola Agbebi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,670 likes - 105 songs - 14 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,840 likes - 105 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [God of Vengeance](https://open.spotify.com/track/49uKEYQfVMvvXdrKVskMhd) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 9:17 |
 | 2 | [Atmosphere Is Shifting \- Live](https://open.spotify.com/track/0U42klnqrGN9WIqWMmBAbL) | [Eljoe Onoja](https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Atmosphere Is Shifting \(Live\)](https://open.spotify.com/album/2OA7qYAr5ZzikxiaZgTiGt) | 10:29 |
 | 3 | [Favour](https://open.spotify.com/track/0mxvkw5NNGXugvh5qVORjx) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [Favour](https://open.spotify.com/album/6MRFqruKFqEQlSl6P4Ge1k) | 5:57 |
-| 4 | [Track 4](https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [](https://open.spotify.com/album/null) | 0:00 |
+| 4 | [ENOUGH FOR ME](https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [ENOUGH FOR ME](https://open.spotify.com/album/5P2RR6rOO8lTNvVxMObKmj) | 9:40 |
 | 5 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 |
 | 6 | [B'Ola \- Honour](https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [B'Ola \(Honour\)](https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM) | 5:24 |
 | 7 | [Amioluwa](https://open.spotify.com/track/2taXjxwpS0Mrl3PqdwWHPu) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Amioluwa](https://open.spotify.com/album/7syagUQVNcJnnRg9ZIHQfd) | 10:07 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 11 | [My God](https://open.spotify.com/track/0RVWYiqpXx4yl4piv0MPLM) | [BBO](https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd) | [My God](https://open.spotify.com/album/3KitNkoXR2uuRTvxAhDz6c) | 5:19 |
 | 12 | [Amen \- Live](https://open.spotify.com/track/0I4Mtcz94osb6CNmsTV58I) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Pastor E.A Adeboye](https://open.spotify.com/artist/1o9Wsdmi8AIsqBsctcPeM8) | [Amen \(Live\)](https://open.spotify.com/album/543dGL7ntD305dtK6Jx8JB) | 9:07 |
 | 13 | [Chinecherem](https://open.spotify.com/track/7MERrzA9P7J9NoCBYknyUA) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn), [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Chinecherem](https://open.spotify.com/album/1mzwra79YSKnA4WOm6tbdn) | 9:35 |
-| 14 | [Track 1](https://open.spotify.com/track/5alNLu0rlk7k7AkPu3SuI4) | [Deborah Billyben](https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj) | [](https://open.spotify.com/album/null) | 0:00 |
+| 14 | [Living Water](https://open.spotify.com/track/5alNLu0rlk7k7AkPu3SuI4) | [Deborah Billyben](https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj) | [Armour of God](https://open.spotify.com/album/5bDAlflNpBtDRWZ6Pfg1iu) | 12:41 |
 | 15 | [All That Matters](https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 6:10 |
 | 16 | [Capable God](https://open.spotify.com/track/1ba2375k5XaAIGWPMC57y1) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv) | 3:24 |
 | 17 | [E No Hard \- Live](https://open.spotify.com/track/4p9XzSuRlbO6zQXralzZdZ) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [E No Hard \(Live\)](https://open.spotify.com/album/2oekmzHsUS0uHXpN8WhThx) | 8:34 |

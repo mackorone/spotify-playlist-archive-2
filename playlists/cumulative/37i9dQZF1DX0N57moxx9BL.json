@@ -1409,6 +1409,28 @@
     },
     {
       "album": {
+        "name": "ERASED",
+        "url": "https://open.spotify.com/album/61zOlCXBGmSoga7p5Dhkxs"
+      },
+      "artists": [
+        {
+          "name": "Brother Hamm",
+          "url": "https://open.spotify.com/artist/52knD2OLkz6oIjppQwD7Jd"
+        },
+        {
+          "name": "TCAT Collective",
+          "url": "https://open.spotify.com/artist/0ioGzHH1QMU8SMjEzRDzsA"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197160,
+      "name": "ERASED",
+      "url": "https://open.spotify.com/track/2y9DkHR5bZiHRZPqxua0yK"
+    },
+    {
+      "album": {
         "name": "Eternal (15th Anniversary Rerecorded Version)",
         "url": "https://open.spotify.com/album/68S2PQxK7RFnGbWFVOMBxY"
       },
@@ -1888,7 +1910,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 156825,
       "name": "Found Again",
       "url": "https://open.spotify.com/track/6GBlqgArnysPVm2dxsGY6T"
@@ -1962,6 +1984,24 @@
     {
       "album": {
         "name": "Get Behind Me",
+        "url": "https://open.spotify.com/album/2dztwnANbx13xfrRC6vDe8"
+      },
+      "artists": [
+        {
+          "name": "Emerson Day",
+          "url": "https://open.spotify.com/artist/2rGlpKlL9sbKTES9sPsLuJ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225502,
+      "name": "Get Behind Me",
+      "url": "https://open.spotify.com/track/1YB5yZSciFB2PNoML0ZOhr"
+    },
+    {
+      "album": {
+        "name": "Get Behind Me",
         "url": "https://open.spotify.com/album/2BEl2MSwngspgXkPDxyV9Y"
       },
       "artists": [
@@ -1972,7 +2012,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 225502,
       "name": "Get Behind Me",
       "url": "https://open.spotify.com/track/56FFFla4vPelcCCQjljWHH"
@@ -3924,7 +3964,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 163252,
       "name": "Somebody Prayed For Me",
       "url": "https://open.spotify.com/track/2kAUqVkcNAtpvJsz4SabHB"
@@ -4248,6 +4288,24 @@
       "duration_ms": 215862,
       "name": "Territory (Live)",
       "url": "https://open.spotify.com/track/131WRsWLJNbTVkzTt4UYvH"
+    },
+    {
+      "album": {
+        "name": "THAT'S WHO I PRAISE (PUNK VERSION)",
+        "url": "https://open.spotify.com/album/6S89G0XoUbC27Qnuh8POlc"
+      },
+      "artists": [
+        {
+          "name": "Grace Graber",
+          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215427,
+      "name": "THAT'S WHO I PRAISE - PUNK VERSION",
+      "url": "https://open.spotify.com/track/3dSAlyTjoeMDfmiYzWClsO"
     },
     {
       "album": {
@@ -4624,7 +4682,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 191764,
       "name": "UNCONDITIONAL",
       "url": "https://open.spotify.com/track/6WqQjssSAQa4Goj8B728dn"
@@ -4646,6 +4704,24 @@
       "duration_ms": 186849,
       "name": "Undefeated",
       "url": "https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN"
+    },
+    {
+      "album": {
+        "name": "Back to the Start",
+        "url": "https://open.spotify.com/album/5Kf3BhDSPcYBImD4M4EEEL"
+      },
+      "artists": [
+        {
+          "name": "VOTA",
+          "url": "https://open.spotify.com/artist/5tCeQBUq8fmvwWtDjr6Sbc"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224218,
+      "name": "Under City Lights",
+      "url": "https://open.spotify.com/track/4HCBIicBjF86pQLqOPO9fJ"
     },
     {
       "album": {

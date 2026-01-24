@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The most intense local drill music firing up the continent. Cover:  O'Kenneth",
+  "description": "The most intense local drill music firing up the continent. Cover:  Beeztrap KOTM",
   "name": "Asakaa",
   "tracks": [
     {
@@ -2958,7 +2958,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 145037,
       "name": "ISHOWSLIME",
       "url": "https://open.spotify.com/track/5Z9Ykm3nBlE5aRWEhY0eD5"
@@ -3218,6 +3218,32 @@
       "duration_ms": 226162,
       "name": "K\u0254\u0254",
       "url": "https://open.spotify.com/track/5XCBMETHAG2klPDEcUP4Jy"
+    },
+    {
+      "album": {
+        "name": "LABADI",
+        "url": "https://open.spotify.com/album/1ujkng48efaVKFzlfEMIYr"
+      },
+      "artists": [
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134131,
+      "name": "LABADI",
+      "url": "https://open.spotify.com/track/6LRN0BxZWwTc8kgPK5XbBu"
     },
     {
       "album": {

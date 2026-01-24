@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: JUNNY\(주니\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: SEUNGHOO\(승후\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,315 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,316 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [Tomato Marinade \(feat\. 윤형준\)](https://open.spotify.com/track/3XkYgZPYOwn9Y4PSDKIITK) | [Jang kiki](https://open.spotify.com/artist/2uMuJQRkgaDPQzSccUgNbd), [Yoon Hyeong Jun](https://open.spotify.com/artist/1RD1AHG2pFbjj6CRXwZbMl) | [Recipe of Summer](https://open.spotify.com/album/6KH3ojIirdLY8LaZdw7ft8) | 2:57 |
 | 50 | [SPARK](https://open.spotify.com/track/0yD5CKSEHpbZYn9WPTrqIF) | [DOO](https://open.spotify.com/artist/6oVkbN2mniaq9HGsM0gLxW) | [SPARK](https://open.spotify.com/album/4cR43mVJqjQ7uVQQvwZrbh) | 4:36 |
 
-Snapshot ID: `AAAAAFk/orDzfewYc6rX7dFspJY9rxjm`
+Snapshot ID: `AAAAAMRUzCGAHAUq5Fnz+EZ5v0PTm1B7`

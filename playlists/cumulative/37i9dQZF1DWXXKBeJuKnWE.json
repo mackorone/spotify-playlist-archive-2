@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The home for heavy music. Cover: Bad Omens",
+  "description": "The home for heavy music. Cover: Static Dress",
   "name": "The Pit",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 207706,
       "name": "(sic) - Ulrich Wild Mix",
       "url": "https://open.spotify.com/track/1Ti2u8of40rQqQiVnJq5t0"
@@ -342,7 +342,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 181493,
       "name": "AIN'T MY GAME",
       "url": "https://open.spotify.com/track/15oKXosgetxTWel2WqqPHI"
@@ -2550,7 +2550,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 194848,
       "name": "Dance Like That",
       "url": "https://open.spotify.com/track/70on5Sny2nNwrvJ1I3824A"
@@ -2710,6 +2710,24 @@
       "duration_ms": 210625,
       "name": "deadweight",
       "url": "https://open.spotify.com/track/2HNepQwYw5c2CxUqFsL63u"
+    },
+    {
+      "album": {
+        "name": "deadwire",
+        "url": "https://open.spotify.com/album/2hkVA6jbYtIVRpah2CsPRp"
+      },
+      "artists": [
+        {
+          "name": "Bodyweb",
+          "url": "https://open.spotify.com/artist/3huApecbypmvQJVccpEoxj"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274418,
+      "name": "deadwire",
+      "url": "https://open.spotify.com/track/50Cj9AsKQ0PwlFHcV7cNo3"
     },
     {
       "album": {
@@ -3555,6 +3573,24 @@
     },
     {
       "album": {
+        "name": "Even If I Never Get There",
+        "url": "https://open.spotify.com/album/37tK6EVQs3NQIx3MqTghaL"
+      },
+      "artists": [
+        {
+          "name": "Trash Boat",
+          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195993,
+      "name": "Even If I Never Get There",
+      "url": "https://open.spotify.com/track/0xbhvgbN92iUOddEfdGR4L"
+    },
+    {
+      "album": {
         "name": "Even If It Kills Me",
         "url": "https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x"
       },
@@ -4322,7 +4358,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 207000,
       "name": "Gallows",
       "url": "https://open.spotify.com/track/2F7iBRVk0vEdugeCLJ2yjk"
@@ -4849,6 +4885,24 @@
     },
     {
       "album": {
+        "name": "Hannibal",
+        "url": "https://open.spotify.com/album/6D9jatmN9XKjaw3inpzfFv"
+      },
+      "artists": [
+        {
+          "name": "trauma ray",
+          "url": "https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308576,
+      "name": "Hannibal",
+      "url": "https://open.spotify.com/track/2xZWwL80vahHzQ0GmfCdPW"
+    },
+    {
+      "album": {
         "name": "HAPPY",
         "url": "https://open.spotify.com/album/26MHTLMXfmmP9JJ9rtbEs6"
       },
@@ -5362,6 +5416,24 @@
       "duration_ms": 200920,
       "name": "How To Ruin Everything (Patience) [feat. Ice Nine Kills]",
       "url": "https://open.spotify.com/track/7Fl0b9D0scfhSmflkS9YLE"
+    },
+    {
+      "album": {
+        "name": "human props",
+        "url": "https://open.spotify.com/album/5hfpwOhdaXA3vOAaN7c4v0"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236273,
+      "name": "human props",
+      "url": "https://open.spotify.com/track/6SHRRutKyl62aHFP8vT0Fg"
     },
     {
       "album": {
@@ -6141,6 +6213,32 @@
     },
     {
       "album": {
+        "name": "Just Play",
+        "url": "https://open.spotify.com/album/1EHinRwItOoEkpDGqA0KRj"
+      },
+      "artists": [
+        {
+          "name": "Last Hounds",
+          "url": "https://open.spotify.com/artist/61yrtlfW7trRIP8H3i9gr7"
+        },
+        {
+          "name": "Jason Aalon Butler",
+          "url": "https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl"
+        },
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208740,
+      "name": "Just Play",
+      "url": "https://open.spotify.com/track/0ObnrJ9jGUr5bhNyhCclGI"
+    },
+    {
+      "album": {
         "name": "THE DEATH OF PEACE OF MIND",
         "url": "https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA"
       },
@@ -6538,7 +6636,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 343329,
       "name": "Like the Fourth Wall",
       "url": "https://open.spotify.com/track/3jdc8cxAMhJrsgfeIUfdz3"
@@ -8572,6 +8670,24 @@
       "duration_ms": 157106,
       "name": "Punks And Demons",
       "url": "https://open.spotify.com/track/3aK2ctwWDXDMZCNGEKwcKg"
+    },
+    {
+      "album": {
+        "name": "Puppet Parade",
+        "url": "https://open.spotify.com/album/4c2I5KEpliGFpP3YGY2jMq"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280924,
+      "name": "Puppet Parade",
+      "url": "https://open.spotify.com/track/1wK0EaN9EAuSNSp3uB3rgs"
     },
     {
       "album": {
@@ -10955,6 +11071,24 @@
     },
     {
       "album": {
+        "name": "Thoroughbreds",
+        "url": "https://open.spotify.com/album/5RhKFclwguoGY9QTRmKA0g"
+      },
+      "artists": [
+        {
+          "name": "Poison The Well",
+          "url": "https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204773,
+      "name": "Thoroughbreds",
+      "url": "https://open.spotify.com/track/1c4Oq2SYTnRzt1gg4zCl9q"
+    },
+    {
+      "album": {
         "name": "Those Days",
         "url": "https://open.spotify.com/album/78hW2ZaZlq3XYQXYcUvaJN"
       },
@@ -10984,7 +11118,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 202071,
       "name": "THOUGHT LEADER",
       "url": "https://open.spotify.com/track/4DbMAt0AcU1b1MLDVvJpiu"
@@ -11344,7 +11478,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 274000,
       "name": "True Believer",
       "url": "https://open.spotify.com/track/6RRYgdkCmVTYHGmId3LpqW"
@@ -11676,7 +11810,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 240384,
       "name": "Vigilantes",
       "url": "https://open.spotify.com/track/7DNjlPhZrhOgykB94HjecI"
@@ -11958,6 +12092,24 @@
       "duration_ms": 168227,
       "name": "We Could Be Heaven",
       "url": "https://open.spotify.com/track/7qsCOBgSNp8SOOV9UfHnJD"
+    },
+    {
+      "album": {
+        "name": "We Were Never The Same",
+        "url": "https://open.spotify.com/album/53yI8BS9n5ujuSs7A7vMJM"
+      },
+      "artists": [
+        {
+          "name": "Converge",
+          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253169,
+      "name": "We Were Never the Same",
+      "url": "https://open.spotify.com/track/7z37xqq3y94KyVl7VWB88x"
     },
     {
       "album": {

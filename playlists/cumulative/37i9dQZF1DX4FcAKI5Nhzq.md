@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover: ALPHA DRIVE ONE\)
+> Future K\-Pop hits! \(Cover: LNGSHOT\)
 
-1,568 songs - 3 day 12 hr 7 min
+1,569 songs - 3 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -484,7 +484,7 @@
 | [Fly Away](https://open.spotify.com/track/5QLswL5FY0brw1yGXCGrdg) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Fly Away](https://open.spotify.com/album/5bFzkvTOLC0iC6anD4wEsn) | 3:01 | 2023-04-13 | 2023-06-09 |
 | [Fly to the youth \(feat\. YUQI\)](https://open.spotify.com/track/4bBAhOKM5yayK3z5y2wL6J) | [NOWZ](https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Fly to the youth \(feat\. YUQI\)](https://open.spotify.com/album/5laYcYQaoQDxegUrGBwVD0) | 3:22 | 2025-06-17 | 2025-07-19 |
 | [Fly Up](https://open.spotify.com/track/4rRDmXBKB2X2Jnb8yLzAKZ) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [ODYSSEY \- The 1st Album](https://open.spotify.com/album/4YqJnxf3dYKhosGRrfoQQo) | 2:58 | 2025-05-20 | 2025-07-09 |
-| [Fly Up](https://open.spotify.com/track/3GiYjd5959ktHZGSxOqmKe) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [msnz <Beyond Beauty>](https://open.spotify.com/album/281B8RLDzA7mufE1ccVxrM) | 2:40 | 2025-11-25 |  |
+| [Fly Up](https://open.spotify.com/track/3GiYjd5959ktHZGSxOqmKe) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [msnz <Beyond Beauty>](https://open.spotify.com/album/281B8RLDzA7mufE1ccVxrM) | 2:40 | 2025-11-25 | 2026-01-24 |
 | [Fly Up \(Feat\. Door\) \- Concert Version](https://open.spotify.com/track/0M55V4n7l0ULeYP64IcjX7) | [Hwang Chang young](https://open.spotify.com/artist/77i53Qlp3vNOh4Rab2wr56), [Door](https://open.spotify.com/artist/739RUVFap7LGgh9UcIfLdc) | [LOOKISM \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1KHVPqrQsgT5xbNbRXNJjA) | 3:48 | 2023-02-06 | 2023-03-16 |
 | [FOCUS](https://open.spotify.com/track/7nj5G4aPUJD0TnNF6SqcrX) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Strange World](https://open.spotify.com/album/2eE6EDzzdWYQH6TfwGjz87) | 3:03 | 2022-08-25 | 2022-11-19 |
 | [FOCUS](https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [FOCUS \- The 1st Mini Album](https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b) | 2:57 | 2025-10-20 | 2025-11-26 |
@@ -1505,6 +1505,7 @@
 | [White cat](https://open.spotify.com/track/7fVSxx6LFcAVhBgDbCvV15) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [White cat](https://open.spotify.com/album/0wKyLvLwd7pKw97y5vqjrQ) | 3:22 | 2025-07-24 | 2025-09-09 |
 | [White Memories](https://open.spotify.com/track/7hCdtQsaKCBXrITaPNK2iE) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [White Memories](https://open.spotify.com/album/4vnA4ZWgxrhxy5doVCGv9u) | 3:01 | 2025-12-05 |  |
 | [White Night \(Feat\. Loco\)](https://open.spotify.com/track/6Z3YqTeAPKrptw70GpHJiO) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [White Night](https://open.spotify.com/album/3ShhhBVOyC5AZ54NJdijYq) | 3:51 | 2022-01-24 | 2022-03-22 |
+| [white spring](https://open.spotify.com/track/3eNaNlSXrOg7aOwtIwtxZk) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [white spring](https://open.spotify.com/album/2MEB999yzrd3rNghmvCkwl) | 3:30 | 2026-01-23 |  |
 | [WHO](https://open.spotify.com/track/1RU1ry7qZofRufTO3YZN0Y) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [REFUGE](https://open.spotify.com/album/3GVcAqBdESv9QSCfYOreJ9) | 2:54 | 2022-03-21 | 2022-07-01 |
 | [Who Are You](https://open.spotify.com/track/3p2pmzfh1NPvJhbYcGZHqo) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Who Are You \- The 4th Mini Album](https://open.spotify.com/album/1ZXbs0wni3VyCs29gJoEJB) | 3:04 | 2025-09-24 | 2025-10-29 |
 | [Who Are You \(Feat\. SEULGI of Red Velvet\)](https://open.spotify.com/track/1IjWbIMe1uXqp9tDfC3QLL) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Who Are You](https://open.spotify.com/album/7cvrTHkHU8UBnmhHLVUWnL) | 2:59 | 2021-12-28 | 2022-03-09 |

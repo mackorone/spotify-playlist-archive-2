@@ -623,6 +623,24 @@
     },
     {
       "album": {
+        "name": "Another Time",
+        "url": "https://open.spotify.com/album/6PbLj6Qoo928owJBKDwele"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219725,
+      "name": "Another Time",
+      "url": "https://open.spotify.com/track/7BsRJECC3NmMLOBR4zNcVh"
+    },
+    {
+      "album": {
         "name": "Strange Trip Ahead",
         "url": "https://open.spotify.com/album/3IILNy0XPiGB4g8jtm9Agp"
       },
@@ -2208,7 +2226,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 164000,
       "name": "Colorado, TX",
       "url": "https://open.spotify.com/track/2SGj1WdNaTwW00cz9GO1AO"
@@ -10278,7 +10296,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 159586,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/44yHaAvGzJ9rccfkvDS15X"

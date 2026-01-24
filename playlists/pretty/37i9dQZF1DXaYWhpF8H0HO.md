@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Kris Dayanti
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,711 likes - 109 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,714 likes - 109 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Breathless](https://open.spotify.com/track/0KvqkQRa7bPYDKjAv8jVwD) | [Kris Dayanti](https://open.spotify.com/artist/1kxeDtvOP5c28ynNEtp3Qh) | [Breathless](https://open.spotify.com/album/4YwP3HV6ZhSRhTkLBV9lv0) | 3:28 |
-| 2 | [If Only](https://open.spotify.com/track/10senvCSUmMPgm4Yg6rbZF) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O) | [](https://open.spotify.com/album/null) | 3:46 |
+| 2 | [If Only](https://open.spotify.com/track/10senvCSUmMPgm4Yg6rbZF) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O) | [BUT, IT'S OKAY.](https://open.spotify.com/album/6RHRp63nNfQIspQxRtLj7s) | 3:46 |
 | 3 | [Let Me Know When You Get Home](https://open.spotify.com/track/2xxKabGFfWwz1ScgpK20U1) | [Rubina](https://open.spotify.com/artist/0CP7W95OO1zFAXieVsBwPN) | [Let Me Know When You Get Home](https://open.spotify.com/album/3Joeu5aierqwOgX5w03uRR) | 3:24 |
 | 4 | [work](https://open.spotify.com/track/3ISiRKaCo6JzoKRjNJlvQA) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [work](https://open.spotify.com/album/0PrpxrMj10YkptkVb1wHza) | 2:25 |
 | 5 | [Leave](https://open.spotify.com/track/5oMw58scOzi2k5LjfmINLu) | [OJA Records](https://open.spotify.com/artist/3gI5NRSwnCDNtfSne6rDiY), [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Leave](https://open.spotify.com/album/5awMsXhDF2KuygL0l3ZH0O) | 3:49 |

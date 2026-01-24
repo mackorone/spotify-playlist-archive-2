@@ -4,7 +4,7 @@
 
 > ⚡️ qui un sacco di musica giovane ⚡️ Cover: 22simba e Rkomi
 
-966 songs - 1 day 20 hr 54 min
+967 songs - 1 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Balla](https://open.spotify.com/track/3ZTiRGNJI1H9PnsIvDuIbo) | [Den](https://open.spotify.com/artist/6MkUYYwYzoA16ymtmv6CrM) | [Balla](https://open.spotify.com/album/0bI6eet6DxPjcGr9t9WZ31) | 2:46 | 2025-10-16 | 2025-12-16 |
 | [Balla \(come la domenica\)](https://open.spotify.com/track/5c5i976D2vDemkPHOMcyDT) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR), [Paps'n'Skar](https://open.spotify.com/artist/7pbBSvkFKdTKLCJl5G1jSV) | [Balla \(come la domenica\)](https://open.spotify.com/album/5hun2luD1TdLOyNPm33U5Z) | 2:46 | 2023-05-18 | 2023-11-24 |
 | [Balla Adrenalina](https://open.spotify.com/track/3EMTN0y6mBpVod7qd33sDa) | [Mose](https://open.spotify.com/artist/6MxxMir5Ey3h9QxsGDfg4L) | [Balla Adrenalina](https://open.spotify.com/album/2qdqzQGIMM7Jy5rql8Pf6Q) | 2:53 | 2023-06-15 | 2023-09-22 |
+| [Ballando Con Te](https://open.spotify.com/track/2i80maftqYWVSRst3reXCo) | [Chicoboyah](https://open.spotify.com/artist/1fBkKzgI3Bl1R2ePXRAcTW) | [Ballando Con Te](https://open.spotify.com/album/7wP30X1uVRN1yEjKO4DfRo) | 3:19 | 2026-01-23 |  |
 | [Balleremo](https://open.spotify.com/track/11MRGCvw1h8TmNTFLDSoOX) | [LUNAR](https://open.spotify.com/artist/5yE4UZ5hln5jeJs40vlvEK) | [Balleremo](https://open.spotify.com/album/2SyHV5TkkeL8DvWUmEZo50) | 2:48 | 2024-06-20 | 2024-08-23 |
 | [Balorda nostalgia](https://open.spotify.com/track/0ZmhDgy5eWjdLOQFEEe3bm) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Balorda nostalgia](https://open.spotify.com/album/5ugzj4AP2B0n1FlDAb25kZ) | 3:17 | 2025-02-12 |  |
 | [Bambola](https://open.spotify.com/track/7itnFCUvnNgQmmiULPAlUl) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P), [EnimraK](https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf) | [Bambola](https://open.spotify.com/album/5muRErMN3EKnZDCty6VBfn) | 2:03 | 2024-09-12 | 2024-09-27 |

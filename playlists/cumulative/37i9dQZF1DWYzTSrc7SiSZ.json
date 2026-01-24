@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "(favorito)",
+        "url": "https://open.spotify.com/album/63REyK0hkC2rCtgYGIqKNh"
+      },
+      "artists": [
+        {
+          "name": "nic",
+          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "(favorito)",
+      "url": "https://open.spotify.com/track/3pNklcVilHHuVKtkDbzaTq"
+    },
+    {
+      "album": {
         "name": "17 (feat. Giulia Be)",
         "url": "https://open.spotify.com/album/4wDCjWGkL360hLUkiBadgC"
       },
@@ -198,7 +216,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 208635,
       "name": "Abr\u00e1zame Fuerte",
       "url": "https://open.spotify.com/track/4QLSlcu2gXe6ABcXDs6xl2"
@@ -984,7 +1002,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 176033,
       "name": "Cielo",
       "url": "https://open.spotify.com/track/22FInoTbMz4v3xGdZThI5p"
@@ -1268,7 +1286,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 217638,
       "name": "Despecho Nuevo",
       "url": "https://open.spotify.com/track/1bjbn61QLOt2sf96LE55Ng"
@@ -1388,7 +1406,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 199291,
       "name": "DOLORES",
       "url": "https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV"
@@ -1428,7 +1446,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 166310,
       "name": "Duele",
       "url": "https://open.spotify.com/track/4m5EmFEphqslKaLYw9mU1t"
@@ -1638,7 +1656,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-28",
+      "date_removed": null,
       "duration_ms": 172586,
       "name": "Esc\u00e1pate",
       "url": "https://open.spotify.com/track/3AxC4Prjz8GNKFLH4jlzt4"
@@ -2526,7 +2544,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 188176,
       "name": "La Puerta",
       "url": "https://open.spotify.com/track/3Ho9gVgoyi6CLS2vYqVtBt"
@@ -2595,6 +2613,28 @@
     },
     {
       "album": {
+        "name": "Lalala",
+        "url": "https://open.spotify.com/album/63gnQZ2zbvNFstV9UoEkNp"
+      },
+      "artists": [
+        {
+          "name": "Bumont",
+          "url": "https://open.spotify.com/artist/2EYra2dvqBI9KNMQsb0RTa"
+        },
+        {
+          "name": "Fabuloso",
+          "url": "https://open.spotify.com/artist/5DAsxR5uOROQzdxAjq6SLX"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Lalala",
+      "url": "https://open.spotify.com/track/6bZo5hD6TLeReBF3kZWcv0"
+    },
+    {
+      "album": {
         "name": "Fin de Semana Largo",
         "url": "https://open.spotify.com/album/0OilsQo54eWy2d9XHtt0d7"
       },
@@ -2606,7 +2646,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 173320,
       "name": "Lento",
       "url": "https://open.spotify.com/track/5qy7TkqmSsuDarSz9Ogt5s"
@@ -2838,7 +2878,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 223540,
       "name": "Luna Nueva",
       "url": "https://open.spotify.com/track/0SvxXdM7sXZkG2Kf4eolcO"
@@ -3261,6 +3301,24 @@
     },
     {
       "album": {
+        "name": "miau",
+        "url": "https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts"
+      },
+      "artists": [
+        {
+          "name": "Nina del R\u00edo",
+          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206366,
+      "name": "miau",
+      "url": "https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq"
+    },
+    {
+      "album": {
         "name": "Missed Connection",
         "url": "https://open.spotify.com/album/1Pdkf0Y84hr61DHLky3goJ"
       },
@@ -3312,6 +3370,24 @@
       "duration_ms": 181368,
       "name": "Mp3",
       "url": "https://open.spotify.com/track/0PWLHDSK39Kh8Adc83Ltw6"
+    },
+    {
+      "album": {
+        "name": "DUE\u00d1O DEL CIELO",
+        "url": "https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492434,
+      "name": "MURALLAS",
+      "url": "https://open.spotify.com/track/6vAdKhF0MrtHo32J0rRySQ"
     },
     {
       "album": {
@@ -3590,7 +3666,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 164369,
       "name": "no est\u00e1s",
       "url": "https://open.spotify.com/track/7itgLKp7i4CmGi0FglXcbP"
@@ -3696,7 +3772,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 222806,
       "name": "NOS SOLTAMOS chiliado",
       "url": "https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv"
@@ -4392,7 +4468,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 218000,
       "name": "Qui\u00e9n Lo Dir\u00eda?",
       "url": "https://open.spotify.com/track/452m5ztdx9eWHArqp7Bg5Z"
@@ -4620,7 +4696,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 138757,
       "name": "robusta",
       "url": "https://open.spotify.com/track/22B3ckVP0ELBQUdAhHySEe"
@@ -5036,7 +5112,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 203112,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl"
@@ -5236,7 +5312,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-07",
+      "date_removed": null,
       "duration_ms": 228214,
       "name": "Trihte",
       "url": "https://open.spotify.com/track/74HszoDuZf9JzKqFDxailX"
@@ -5326,7 +5402,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 153564,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/2KhQWu0rUU6zGu53c6nkVs"
@@ -5584,7 +5660,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 190120,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/1xDq5VlR1LDjNAgZBwFLc7"
@@ -5624,7 +5700,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 169375,
       "name": "Vida Nueva",
       "url": "https://open.spotify.com/track/7K1E430DTy3l3LYSl3lsbr"
@@ -5660,7 +5736,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 187386,
       "name": "Visa",
       "url": "https://open.spotify.com/track/0LpaAAP3MhLIX28nJGKAvd"
@@ -5860,7 +5936,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 141503,
       "name": "\u00bfPARA QU\u00c9 VOLVER?",
       "url": "https://open.spotify.com/track/6JmbsVrw0u2Q4Qf4XLnD93"

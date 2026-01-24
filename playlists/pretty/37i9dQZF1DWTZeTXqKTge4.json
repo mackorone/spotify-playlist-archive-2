@@ -1,15 +1,35 @@
 {
-  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Guessmi, Mandyspie",
-  "num_followers": 89112,
+  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: tifloccon",
+  "num_followers": 89128,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMtrS8+DD4ZWH1QH4duJq0o49jXj",
+  "snapshot_id": "AAAAADxPJuGhCidldDIGKzsb3rfEcB6C",
   "tracks": [
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
+      "album": {
+        "name": "dla marde (avec MikeShabb)",
+        "url": "https://open.spotify.com/album/35VArS9UTQUGnDt7HnNVln"
+      },
+      "artists": [
+        {
+          "name": "tifloccon",
+          "url": "https://open.spotify.com/artist/3g8OUKaanhW4y455qhqlXN"
+        },
+        {
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
+        }
+      ],
+      "duration_ms": 113142,
+      "name": "dla marde (avec MikeShabb)",
+      "url": "https://open.spotify.com/track/5ZWzAdCfeswSIgVozbxq3N"
+    },
+    {
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "404SADBITCH",
         "url": "https://open.spotify.com/album/4ki0u6zjBGZuHH9nDTnzis"
@@ -29,7 +49,7 @@
       "url": "https://open.spotify.com/track/2fr05sAob3uxixRjcMMXdh"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "blues beldi",
         "url": "https://open.spotify.com/album/6113yrCSI1S2APZjYS0RJK"
@@ -49,7 +69,7 @@
       "url": "https://open.spotify.com/track/1A3x3nkAF2EJ61fR1tpGT3"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "LIGHTS",
         "url": "https://open.spotify.com/album/7jLxwOVDKxqnbBtR5YHtYx"
@@ -69,7 +89,7 @@
       "url": "https://open.spotify.com/track/33Fwb9KC9VyHTmF5NgUY5z"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Infrarouge",
         "url": "https://open.spotify.com/album/1u0goy32jU07ysd7JDSixn"
@@ -89,7 +109,7 @@
       "url": "https://open.spotify.com/track/5iEnPVFeI3i8CGfOguOSvz"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Big Dog",
         "url": "https://open.spotify.com/album/72M53rT4fdxTj6aRIzy8Bx"
@@ -109,7 +129,7 @@
       "url": "https://open.spotify.com/track/2NEPwwBS5iACCVu5xwFdaK"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "le sens des cartes",
         "url": "https://open.spotify.com/album/2g4J8SDHQRiDAbaQv4QJZB"
@@ -129,7 +149,31 @@
       "url": "https://open.spotify.com/track/2fmtqgbJlzj4rMnUmAzF47"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
+      "album": {
+        "name": "Cheminement",
+        "url": "https://open.spotify.com/album/1hqsADkRmaa8G0acOn2GaT"
+      },
+      "artists": [
+        {
+          "name": "Monk.E",
+          "url": "https://open.spotify.com/artist/0iA2L1Fbkwp3PxiSD22Uou"
+        },
+        {
+          "name": "Rox",
+          "url": "https://open.spotify.com/artist/3ZMTLiH3o8SiHy3taw9h0X"
+        },
+        {
+          "name": "Dr Koul",
+          "url": "https://open.spotify.com/artist/2pmXxfeX067NzPabZWmP04"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Sincerity",
+      "url": "https://open.spotify.com/track/0fpedlu8urVEmPSnadGRUH"
+    },
+    {
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Hitback",
         "url": "https://open.spotify.com/album/5MTmhfsgAU0Zc6nQfXq11g"
@@ -145,7 +189,7 @@
       "url": "https://open.spotify.com/track/5APdO669VhqrxQrApzFbXD"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "plan \u00e0 3",
         "url": "https://open.spotify.com/album/42FtjBFNPP8gVJ49VuhzCo"
@@ -165,7 +209,7 @@
       "url": "https://open.spotify.com/track/5KvWshm5l0huxsTbTaFju1"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "STEP BY STEP",
         "url": "https://open.spotify.com/album/42jfcA0NBZcNxbt6nberih"
@@ -181,7 +225,43 @@
       "url": "https://open.spotify.com/track/17pMpqik7JAw2dedqOSUoc"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
+      "album": {
+        "name": "Discours Graphique",
+        "url": "https://open.spotify.com/album/477dKBewqZDO8gQ2AesqAF"
+      },
+      "artists": [
+        {
+          "name": "Jeune Lowkeyy",
+          "url": "https://open.spotify.com/artist/4BjbwKT6pEG6SGRbHI2K2o"
+        },
+        {
+          "name": "CART3L",
+          "url": "https://open.spotify.com/artist/2iRLxhiaXQyJpJXe0cHOL6"
+        }
+      ],
+      "duration_ms": 262791,
+      "name": "Discours Graphique",
+      "url": "https://open.spotify.com/track/1dGQThBkwwwW3a0REvcV9y"
+    },
+    {
+      "added_at": "2026-01-23 05:01:11",
+      "album": {
+        "name": "CAMPAGNARD",
+        "url": "https://open.spotify.com/album/0m71cSCCxDcP3FtVK7WMNt"
+      },
+      "artists": [
+        {
+          "name": "\u00e9ther",
+          "url": "https://open.spotify.com/artist/4XT1Jfd6Hel58qViPrldXY"
+        }
+      ],
+      "duration_ms": 121860,
+      "name": "D\u00c9RANGE",
+      "url": "https://open.spotify.com/track/1aWwAsGuXCArYVibJj3hU2"
+    },
+    {
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Onzi\u00e8me",
         "url": "https://open.spotify.com/album/7qkaCP5d3kbJxJtPvhMncq"
@@ -205,7 +285,7 @@
       "url": "https://open.spotify.com/track/7oZr8ex0Tg9nnU9fQGPK4d"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Cartes en main",
         "url": "https://open.spotify.com/album/0K13Ralw58TEP2rBJz6eQG"
@@ -225,7 +305,7 @@
       "url": "https://open.spotify.com/track/1kAjokPSNQb7UOl46vns4G"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "NEPTUNEFINESSE",
         "url": "https://open.spotify.com/album/50t2E1wnAWYuiLz01hQkaK"
@@ -249,7 +329,7 @@
       "url": "https://open.spotify.com/track/3ZJAYfHJht2qRUGtw9REcx"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Pillz",
         "url": "https://open.spotify.com/album/0gLzNnxboLdJhnTzNHrQG3"
@@ -269,7 +349,7 @@
       "url": "https://open.spotify.com/track/4Nu0clplxzCrB8bRYISe1t"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Southside Baby",
         "url": "https://open.spotify.com/album/3q6Wkj3RRe5CXWeGH7L3da"
@@ -285,7 +365,7 @@
       "url": "https://open.spotify.com/track/63R2I37Cj4ImJmKCP3qDfj"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Dans la salle de cin\u00e9",
         "url": "https://open.spotify.com/album/0xxM6cSUOPbQ2lOpxHCZHm"
@@ -309,7 +389,7 @@
       "url": "https://open.spotify.com/track/3s3hsX2Ks3m7OR3QeChRO9"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "ZERO RESPECT",
         "url": "https://open.spotify.com/album/00AWZIHWn6UC2wFSTuiXgD"
@@ -329,7 +409,7 @@
       "url": "https://open.spotify.com/track/70fCiTzluXv8B4qlavq5RO"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Diamant",
         "url": "https://open.spotify.com/album/62T0Y5Pb7tzEWWkBobeY5b"
@@ -345,7 +425,7 @@
       "url": "https://open.spotify.com/track/62Ktq84kSEvVvbSXGj1jU1"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "OP\u00c9RATION: FLIP LE PACK",
         "url": "https://open.spotify.com/album/2OSoYQ4daYMaBJSihJPJmD"
@@ -369,7 +449,7 @@
       "url": "https://open.spotify.com/track/3pQ1sYnHaq2T45ewKCYaPx"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Hocus Pocus",
         "url": "https://open.spotify.com/album/52zmuFELZeb6SKaC9L4gbB"
@@ -393,7 +473,7 @@
       "url": "https://open.spotify.com/track/4PahkjYkqhd4yyjLKLzE4r"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Douze sur douze",
         "url": "https://open.spotify.com/album/1JrHSwOmjfgTETzZvFIgPR"
@@ -409,7 +489,7 @@
       "url": "https://open.spotify.com/track/0kW6XH3bll8WdZdtJZtL7b"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Lunaire",
         "url": "https://open.spotify.com/album/3StEtl1Ijj97xk5oCCqi63"
@@ -429,7 +509,7 @@
       "url": "https://open.spotify.com/track/7xlUaCvYw7hHmGZy0iuAiV"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "VIEUX STOCK",
         "url": "https://open.spotify.com/album/4cKmgW6KrAq0mnY80Gbgcm"
@@ -445,7 +525,7 @@
       "url": "https://open.spotify.com/track/5122PVHWtf1BHrWCBhVGXu"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "UNI",
         "url": "https://open.spotify.com/album/4kyUmxpnDNdl23fCW3VQNC"
@@ -461,7 +541,7 @@
       "url": "https://open.spotify.com/track/63u14XM6CSUfwAohUaOvkf"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Bal\u00e8se",
         "url": "https://open.spotify.com/album/2vElDN53jXPrYdHXEtSh0o"
@@ -481,7 +561,7 @@
       "url": "https://open.spotify.com/track/6ZrPwGa29BiXgerz8L1gIu"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "H\u00e9morragie+Interne",
         "url": "https://open.spotify.com/album/0ddWfOLly6LqKtLgKCB31F"
@@ -505,7 +585,7 @@
       "url": "https://open.spotify.com/track/6hLEB3l1RE2LHf0ozxBUZz"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "D\u00e9sert",
         "url": "https://open.spotify.com/album/7anjT08bdrIvsMwmm5XpaV"
@@ -521,7 +601,7 @@
       "url": "https://open.spotify.com/track/7N2BMfbFIh3e5nPiwpxpC2"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "18th",
         "url": "https://open.spotify.com/album/33odwoGDalioz1Nsxjpndn"
@@ -541,7 +621,7 @@
       "url": "https://open.spotify.com/track/3UqVu7F3HJSOz0V8CrFEfp"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "SUR MES JEANS",
         "url": "https://open.spotify.com/album/0UadjJFC5V6p0mQHLSbeQY"
@@ -561,7 +641,7 @@
       "url": "https://open.spotify.com/track/1RPGpBI7yqUsZ9P2ocDYBM"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "\u00c9quinoxes",
         "url": "https://open.spotify.com/album/7cmDSFYpJHMTabfXHc5rA9"
@@ -577,7 +657,7 @@
       "url": "https://open.spotify.com/track/0FWWGx9egwpLM7x3136AmR"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Free L'art",
         "url": "https://open.spotify.com/album/167qFfbugOfvvKvaL9BtXl"
@@ -597,7 +677,7 @@
       "url": "https://open.spotify.com/track/51HEFIzEcobJhlW1P10pcP"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "THICK & SMALL",
         "url": "https://open.spotify.com/album/4bYcWyPuRfhUYVDMzchoVk"
@@ -617,7 +697,7 @@
       "url": "https://open.spotify.com/track/5vVGfBuSNiklMYlEdpSoH6"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "blues beldi",
         "url": "https://open.spotify.com/album/6113yrCSI1S2APZjYS0RJK"
@@ -637,7 +717,7 @@
       "url": "https://open.spotify.com/track/0pAsaACBxZrY3OUFMWlezu"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Humble",
         "url": "https://open.spotify.com/album/1qD70hIVLbNERKw5N8LLAn"
@@ -653,7 +733,7 @@
       "url": "https://open.spotify.com/track/2OqOONoPK0O6BklusSyXRu"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Big Wop - Mile-End sur la map",
         "url": "https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS"
@@ -669,7 +749,7 @@
       "url": "https://open.spotify.com/track/1b31hRNoQogOJSKqQxhfjv"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "300",
         "url": "https://open.spotify.com/album/4Oi4mTuE5Qg33JlN1gbgml"
@@ -685,7 +765,7 @@
       "url": "https://open.spotify.com/track/7LjEC618TnZIBPPFUYMgB2"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/2s4Fl2jD3bLsaP4q10gVCP"
@@ -709,7 +789,7 @@
       "url": "https://open.spotify.com/track/72zxhDtfzlU8hskSF2avzQ"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "\u00c0 la prochaine fois",
         "url": "https://open.spotify.com/album/44bE7T6TOQJtZrQxBGimPn"
@@ -733,7 +813,7 @@
       "url": "https://open.spotify.com/track/34sxn2qDKABUF0pUUw0eAB"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Ask About Me",
         "url": "https://open.spotify.com/album/6NEcHHEPV0TPY0Gg85UA3C"
@@ -753,7 +833,7 @@
       "url": "https://open.spotify.com/track/7cCrl4SgP50t2QAbpLnbtc"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Premi\u00e8re place",
         "url": "https://open.spotify.com/album/2FcqGdIDkAHbDLnoxXho7N"
@@ -769,7 +849,7 @@
       "url": "https://open.spotify.com/track/38PVzMNGHpSE0Ttj7JSNiA"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "We Did The Damn Thing",
         "url": "https://open.spotify.com/album/49AvvzmflSvscqLH6acpgS"
@@ -785,7 +865,7 @@
       "url": "https://open.spotify.com/track/1PJtvvXsr8GFtU2sPk0kI1"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Le vide, la peur",
         "url": "https://open.spotify.com/album/1kboj6zlGqxPi5W5ufRXev"
@@ -805,7 +885,7 @@
       "url": "https://open.spotify.com/track/0i4tB1Gf42YpthHMCnsbyC"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Femme fatale",
         "url": "https://open.spotify.com/album/4LDjPHAkPDhLA03A5apqJo"
@@ -821,7 +901,7 @@
       "url": "https://open.spotify.com/track/1kH3tGowdxZXjhgt4bZhra"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Ch\u00e8lb\u00e8",
         "url": "https://open.spotify.com/album/4vKup5g5YoD5blHlYdvy5p"
@@ -837,7 +917,7 @@
       "url": "https://open.spotify.com/track/0MrC4TPiI18N38Ga7Cl4qO"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "On porte pas de polo",
         "url": "https://open.spotify.com/album/0jr7XNhjIbcQUKGcwVunxY"
@@ -853,7 +933,7 @@
       "url": "https://open.spotify.com/track/7wYTmDuAHUAt320zupORYA"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Ravaru",
         "url": "https://open.spotify.com/album/5fZrcTaLGCfiv7ccQjOreZ"
@@ -873,7 +953,7 @@
       "url": "https://open.spotify.com/track/2Fb3rUMh6XJpjumfcpX6oo"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Monsi & Monzo",
         "url": "https://open.spotify.com/album/7xm3cM0us2URUQCbonHjsK"
@@ -893,7 +973,7 @@
       "url": "https://open.spotify.com/track/4O4mmAYdtJTtOEgYl2gt5U"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Cash Fly",
         "url": "https://open.spotify.com/album/1eIddmbx53Li3GWWe0YZ6a"
@@ -913,7 +993,7 @@
       "url": "https://open.spotify.com/track/2WbfgQZBWYy1tjH0LyMf2v"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "La purge",
         "url": "https://open.spotify.com/album/2h1Ty1cvkUhHAa4WM0qRIz"
@@ -933,7 +1013,7 @@
       "url": "https://open.spotify.com/track/6GJEL40AbqaI7llQ0O4xj1"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "CAD (Freestyle)",
         "url": "https://open.spotify.com/album/37h7hDOgQFA4ghOB27SnXB"
@@ -953,7 +1033,7 @@
       "url": "https://open.spotify.com/track/2lNoS6A5x6D8aVQU24VOTI"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "le sens des cartes",
         "url": "https://open.spotify.com/album/2g4J8SDHQRiDAbaQv4QJZB"
@@ -985,7 +1065,7 @@
       "url": "https://open.spotify.com/track/21L8hbdQ1sspIl8RVSqiCl"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "R\u00e9seau",
         "url": "https://open.spotify.com/album/58k1RD0gROZwJQpWEH9Atc"
@@ -1001,7 +1081,7 @@
       "url": "https://open.spotify.com/track/3tQQqlX436aDst7fMfpgFC"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Vivre \u00e0 mourir",
         "url": "https://open.spotify.com/album/7KSsIQNO4IVCe1gIpYiPbg"
@@ -1021,7 +1101,7 @@
       "url": "https://open.spotify.com/track/32D1TpVHBuNqF53CmLgxIL"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "High & Fines Herbes - La Saison 5",
         "url": "https://open.spotify.com/album/3h6Wf4FMHgjIJ6gu3v12b5"
@@ -1041,7 +1121,7 @@
       "url": "https://open.spotify.com/track/1Dijnf4uC7uIXugUYPixis"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "4 a Fact",
         "url": "https://open.spotify.com/album/7j5sHj5MOs6h772UNK6EnE"
@@ -1065,7 +1145,7 @@
       "url": "https://open.spotify.com/track/1yNUYTfvQXSIqN5YU6IXiq"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Kreyday Everyday",
         "url": "https://open.spotify.com/album/28L3tq3fXtLPsQdWSqWbnf"
@@ -1085,7 +1165,7 @@
       "url": "https://open.spotify.com/track/3wreSVcuGKZkrjs84wpvMN"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "CHAMBRE D'\u00c9CHO",
         "url": "https://open.spotify.com/album/0qrjkrBsdYVRKXpavkBAFz"
@@ -1101,7 +1181,7 @@
       "url": "https://open.spotify.com/track/5Ya8UiLpaOMw77lCSsMg6n"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "JE STACK",
         "url": "https://open.spotify.com/album/3pI8XEnHj7svtXpaWyr3fC"
@@ -1117,7 +1197,7 @@
       "url": "https://open.spotify.com/track/26XN41kFU4nVBaub3QQkOT"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Code Z",
         "url": "https://open.spotify.com/album/2WMskI4AYtiO6CpbzDwcF1"
@@ -1137,7 +1217,7 @@
       "url": "https://open.spotify.com/track/48dHTQ3bniL8m816qZCsMY"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Suis mes pas",
         "url": "https://open.spotify.com/album/6mFhy2gP9jazJNyAX0vW0a"
@@ -1165,7 +1245,7 @@
       "url": "https://open.spotify.com/track/0fREnZJi7nuyRaFEtK9aTw"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Radeau Capharna\u00fcm",
         "url": "https://open.spotify.com/album/3Zt8ueRsn2X80guFi53ERf"
@@ -1181,7 +1261,7 @@
       "url": "https://open.spotify.com/track/2krRYUDRo8JkKlMxAYwfwI"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Corleone",
         "url": "https://open.spotify.com/album/09ga7ccyBCPrOcB2A7tFHS"
@@ -1197,7 +1277,7 @@
       "url": "https://open.spotify.com/track/6fNhgtGPZA8fnd7b5FM8R2"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "ORIGINES",
         "url": "https://open.spotify.com/album/1VA3HtmVLD1cz6S8g755iW"
@@ -1217,7 +1297,7 @@
       "url": "https://open.spotify.com/track/1Xrk35FKShpBEFPzodA0db"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "La Belle \u00c9poque",
         "url": "https://open.spotify.com/album/0BY5VbZjLzh7QydxtzKeq8"
@@ -1241,7 +1321,7 @@
       "url": "https://open.spotify.com/track/74NDsNxYBAizmb6jTsVnb5"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Ken Block",
         "url": "https://open.spotify.com/album/0Z0LkvkTrxMOOKTNc4QPeH"
@@ -1261,7 +1341,7 @@
       "url": "https://open.spotify.com/track/4ISa7PFHIyZZr1PWo9eUt1"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Rap Queb Diamants",
         "url": "https://open.spotify.com/album/1lzIuXcg0SeCFiI9KRJPTh"
@@ -1281,7 +1361,7 @@
       "url": "https://open.spotify.com/track/2vZRnM0ZyMM4VNRa23msjt"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Trop Souvent",
         "url": "https://open.spotify.com/album/59TUFPL3ZlGMzR02iYTyFD"
@@ -1305,7 +1385,7 @@
       "url": "https://open.spotify.com/track/2kpXbATJiis2JCZrDed7Ff"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Liaison toxique (Deluxe)",
         "url": "https://open.spotify.com/album/1qc9g3w4JbQysmxcPpQH9O"
@@ -1321,7 +1401,7 @@
       "url": "https://open.spotify.com/track/3oYKep8bmqWwIfZ7iszfCJ"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "LIVIN IT",
         "url": "https://open.spotify.com/album/3KNDEnwXpBuTM92uKUak4F"
@@ -1337,7 +1417,7 @@
       "url": "https://open.spotify.com/track/68VT15ILdHQ2sH1sqpjP4n"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/4vzuP1SgLMNW1YKYGKGCTP"
@@ -1353,7 +1433,7 @@
       "url": "https://open.spotify.com/track/4vqwpFRN7mFFrJPUJgE5pj"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "Porter le coup, oublier. Porter la marque, se souvenir",
         "url": "https://open.spotify.com/album/47wpyURruMQckYemmj2fb5"
@@ -1369,7 +1449,7 @@
       "url": "https://open.spotify.com/track/5zfz3YA4if2BCG2UW4jyDk"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "L\u00e9a",
         "url": "https://open.spotify.com/album/67woYgYe60Ig41gtjvPhfL"
@@ -1385,7 +1465,7 @@
       "url": "https://open.spotify.com/track/3fCaC9bSUH4dG24RhDYcba"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "ON FRAP II",
         "url": "https://open.spotify.com/album/6ZbWyoybaFIyffQYnvxQNZ"
@@ -1401,7 +1481,7 @@
       "url": "https://open.spotify.com/track/2MQD2LqAPlmZShAxXtjAHl"
     },
     {
-      "added_at": "2026-01-16 14:51:20",
+      "added_at": "2026-01-23 05:01:11",
       "album": {
         "name": "VAGO SZN",
         "url": "https://open.spotify.com/album/1m5Eu8TjOI5UWJorEYLcCg"
@@ -1419,42 +1499,6 @@
       "duration_ms": 101056,
       "name": "Billet Bleu",
       "url": "https://open.spotify.com/track/46qY99WtUlb4eYAjAUvC4m"
-    },
-    {
-      "added_at": "2026-01-16 14:51:20",
-      "album": {
-        "name": "C\u00e9sar",
-        "url": "https://open.spotify.com/album/4U6kh1sBCw075eIXotltJD"
-      },
-      "artists": [
-        {
-          "name": "Taktika",
-          "url": "https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3"
-        },
-        {
-          "name": "Lova",
-          "url": "https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2"
-        }
-      ],
-      "duration_ms": 219535,
-      "name": "C\u00e9sar",
-      "url": "https://open.spotify.com/track/1MO1LkPsrMBLUcs3NpMGMC"
-    },
-    {
-      "added_at": "2026-01-16 14:51:20",
-      "album": {
-        "name": "L\u00c9CHAGE",
-        "url": "https://open.spotify.com/album/3CzW00o7qXZ2rhoWyrWFJz"
-      },
-      "artists": [
-        {
-          "name": "\u00e9ther",
-          "url": "https://open.spotify.com/artist/4XT1Jfd6Hel58qViPrldXY"
-        }
-      ],
-      "duration_ms": 109446,
-      "name": "L\u00c9CHAGE",
-      "url": "https://open.spotify.com/track/7mPBYHkPipRkQBz2AMcP0B"
     }
   ],
   "unique_name": "Rap qu\u00e9b",

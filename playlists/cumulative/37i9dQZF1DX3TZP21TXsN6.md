@@ -4,7 +4,7 @@
 
 > Nieuwe tracks elke week! Nieuw: Oykie, Rz, MRD en meer...
 
-350 songs - 15 hr 2 min
+351 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Four Seasons](https://open.spotify.com/track/4rE4wH0M37WexhVZN4XDgi) | [Johnny Sellah](https://open.spotify.com/artist/0INETKNJYPVfrzAnOuo9H4), [SKEEKS](https://open.spotify.com/artist/7f9oQiICipkyl9KuNHszHa) | [Four Seasons](https://open.spotify.com/album/4eb3wiO7BjkMwkZQec4rga) | 2:55 | 2025-11-06 | 2025-11-14 |
 | [Gaan Naar](https://open.spotify.com/track/3UyT6U96QsbcbyxMqx79n7) | [BTJE](https://open.spotify.com/artist/4wN3vVis2oYJbTCbrFdHdV) | [Gaan Naar](https://open.spotify.com/album/5XyQHJpWboYhuVlGO3okZn) | 2:25 | 2025-12-04 | 2026-01-16 |
 | [Gas](https://open.spotify.com/track/6ERP5RufAQJ7KypF4spsox) | [AH7](https://open.spotify.com/artist/3MzIvVjbjraAm4rUFmgZ2l) | [Gas](https://open.spotify.com/album/3DHuNn2T2uPeOhQq3LW31G) | 2:04 | 2025-10-31 | 2025-12-05 |
+| [Gasolina](https://open.spotify.com/track/27kceRNL5SVqdDISGA1Pcy) | [Brysa](https://open.spotify.com/artist/20bXifvyaank813LMJGw5G) | [SABR](https://open.spotify.com/album/4hulHoH8yPAQ6KPfxI9fyH) | 2:06 | 2026-01-22 |  |
 | [Geeked](https://open.spotify.com/track/5LdRI9voYb3iOFwJ0QHLqY) | [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb) | [Geeked](https://open.spotify.com/album/7kmTctZlEUekWH8JPSevoN) | 1:55 | 2025-12-18 |  |
 | [Geen Rem](https://open.spotify.com/track/6HpbcKkSEN025utQb7Z8iH) | [Lavinnio](https://open.spotify.com/artist/4iJcUwlYdqkwZNVEiCJAYt), [Della](https://open.spotify.com/artist/7eWWFCSHZYcLaeRLkcuVEy) | [Geen Rem](https://open.spotify.com/album/1gbDx70roNVXz41OZGzbV9) | 2:27 | 2025-07-17 | 2025-08-15 |
 | [Geen Smoke](https://open.spotify.com/track/0QkA1oZ6V4tvSI5GhyTY2d) | [Maximilli](https://open.spotify.com/artist/4a6Mj4eC35rrNSdbNWiQcV), [XANNY](https://open.spotify.com/artist/2Nq5hnrJkJgOMMBSdrOnWk), [Leafs](https://open.spotify.com/artist/6Ul16nbSefjbgfpDz2k9il) | [Geen Smoke](https://open.spotify.com/album/5NaI9tMTc5jiAugss2Oyrv) | 3:37 | 2025-10-16 | 2025-11-01 |
@@ -218,6 +219,7 @@
 | [MEER DAN EEN TON](https://open.spotify.com/track/0jZHLdDg4E8n9fV83qKHXE) | [Luckyneverluck](https://open.spotify.com/artist/4a8AyWoGxRRW1MCsXRg6sp) | [MEER DAN EEN TON](https://open.spotify.com/album/2d0rah02Tslfpyj3o9ce2x) | 2:25 | 2025-12-11 | 2026-01-23 |
 | [Meer Money](https://open.spotify.com/track/54OgxYjv2mDpkZ4aw5mWAD) | [PJ Scoolio](https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg) | [Meer Money](https://open.spotify.com/album/2QlR4QRBLoAll73tKyWktI) | 2:07 | 2025-07-17 | 2025-08-29 |
 | [Mensenschuw](https://open.spotify.com/track/3HzeCBiXznhV1GPq02P6Vp) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk) | [Mensenschuw](https://open.spotify.com/album/2SlQxEVOF2zQpqypum8npc) | 2:06 | 2025-07-17 | 2025-08-08 |
+| [Mentality](https://open.spotify.com/track/0EwDbNMMk23a5icdhPRADv) | [YG24](https://open.spotify.com/artist/3A16zm3oPSNnetOrwp0TU6) | [Mentality](https://open.spotify.com/album/5Vfa1zOBB4Rda99O9oDjbF) | 1:35 | 2026-01-23 |  |
 | [Mij Niet Stoorn](https://open.spotify.com/track/00E47XLbfaECEWD8U3LUti) | [Shep500](https://open.spotify.com/artist/2L1iisFuoQkvqAxNv1RdpU) | [SHEPTEMBER PACK](https://open.spotify.com/album/5B1T3BvG0Sbw33WRYkCBCX) | 2:15 | 2025-12-04 | 2026-01-15 |
 | [Mijn Moment](https://open.spotify.com/track/4ilkM2AihcyVe1MGlwzcxI) | [Marou](https://open.spotify.com/artist/6XKHfRztUtj98C92TgOr41) | [Mijn Moment](https://open.spotify.com/album/3DLbg6WnfQwDbyK3DwDZFI) | 3:01 | 2025-10-09 | 2025-11-21 |
 | [Millie](https://open.spotify.com/track/2MVDfx1jaCm8BGcR4QSMcD) | [Flo](https://open.spotify.com/artist/6pgZfF7czWzdfjQMtUo3fy) | [Millie](https://open.spotify.com/album/1gqGYqkrgJPXF2PY7mqBWy) | 2:36 | 2025-11-20 | 2026-01-15 |
@@ -318,7 +320,6 @@
 | [Toasted](https://open.spotify.com/track/4UCsvu897Bikp6NE2oNJow) | [CC](https://open.spotify.com/artist/0zD2BPEqmxke9Dd0GtgthT), [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl) | [Toasted](https://open.spotify.com/album/1IIUXO4Fu5NFzy46pnaMnM) | 2:00 | 2025-09-15 | 2025-11-01 |
 | [Top tot Teen](https://open.spotify.com/track/67QJTYjnMBq6d2JJ3lqZlT) | [Mardo4k](https://open.spotify.com/artist/6MnRvAN6qNUF4mnlfCh2ZS), [Lvv](https://open.spotify.com/artist/34yOrI1coazP2WRpRBPPfY) | [Top tot Teen](https://open.spotify.com/album/1Mcar4APScn0Lthhf8FTJr) | 2:23 | 2025-11-06 | 2025-12-12 |
 | [TOXIC FIGHT](https://open.spotify.com/track/7abfIdlVR9lOV1PzsE3VjH) | [JLYONN](https://open.spotify.com/artist/3Sr8yFID3x8uvwq89Hg0z5), [Casso](https://open.spotify.com/artist/1yIaBf7VXDKcoIDGLoTMae) | [TOXIC FIGHT](https://open.spotify.com/album/572NkUumEViHVAeqK0SrvZ) | 2:43 | 2026-01-08 |  |
-| [Track 1](https://open.spotify.com/track/27kceRNL5SVqdDISGA1Pcy) | [Brysa](https://open.spotify.com/artist/20bXifvyaank813LMJGw5G) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-22 |  |
 | [Trap & Dance 12 \(Alors Bonne Chance\)](https://open.spotify.com/track/4nPtJJKJSvQFbA1gWA7k5l) | [PJ Scoolio](https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg), [AG BLAXX](https://open.spotify.com/artist/0BdZi6qH5GIysWupr5kTdo) | [Trap & Dance 12 \(Alors Bonne Chance\)](https://open.spotify.com/album/03m6YRml5ChR7AFkgsVDmA) | 2:50 | 2025-11-13 | 2026-01-15 |
 | [TRAUMA'S](https://open.spotify.com/track/47fkT2ghD7ZXLCQo46DxNF) | [SKO](https://open.spotify.com/artist/4dh374pyaeKLOTy5jnUcAS), [Ralla](https://open.spotify.com/artist/4mLMkl774zwxOVGWfCUxj6) | [TRAUMA'S](https://open.spotify.com/album/2YCdiHoQ40bhOFtQHQbAu3) | 2:14 | 2025-07-17 | 2025-08-15 |
 | [Trenches](https://open.spotify.com/track/2hbtk7UT9d3v7Tqba50i8I) | [Kili](https://open.spotify.com/artist/6A9qX1ebPIWADHzSSOGh8S), [Udi Mars](https://open.spotify.com/artist/2EqLmeAXEqGuGQIdqXAcgi), [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC), [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp) | [Trenches](https://open.spotify.com/album/1MEqUhx1oixOQ4tC06K25q) | 2:56 | 2025-07-17 | 2025-08-15 |

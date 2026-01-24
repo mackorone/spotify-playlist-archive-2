@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-286 songs - 17 hr 33 min
+287 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [The Endless Line](https://open.spotify.com/track/4vH4XT4cbZbzPsagst504L) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [The Endless Line](https://open.spotify.com/album/0dPp4UDPvoi9FmbpN7jKup) | 2:28 | 2025-11-20 | 2025-12-17 |
 | [The Ghost Of You \- Epic Rock Version](https://open.spotify.com/track/1A6zCKYRn7QlIkMh0izWjW) | [Jordi Martijnse](https://open.spotify.com/artist/5Z0G3YfqBlb7LaqJDhKv5p) | [Ascend](https://open.spotify.com/album/7HBJCsmEoPOBmV043hkXCr) | 2:41 | 2025-11-05 | 2025-12-17 |
 | [The Gladiator \(2025 Remastered Version\)](https://open.spotify.com/track/22AfA3lC9hksGyG2KEVHHT) | [Foolish Manure](https://open.spotify.com/artist/3iqKlvnEXhmugZRypumXlS) | [The Gladiator \(2025 Remastered Version\)](https://open.spotify.com/album/3E9TobEFd1wXM42E0FFZrk) | 2:30 | 2026-01-22 |  |
+| [The Last Hangman](https://open.spotify.com/track/0frN7FOhhgB0iiZyTA8nmQ) | [AJ Rock](https://open.spotify.com/artist/7xEm9fb76CTAOBOWQK1dL8) | [Spitfire](https://open.spotify.com/album/0O45ZFG71upJqEQUT0C5dt) | 6:24 | 2026-01-23 |  |
 | [The Path of Life](https://open.spotify.com/track/11U2REWAJDmch5GwYOb1T7) | [Shadows Of Earth](https://open.spotify.com/artist/1lkixm50bb6mtDPZspK90Z), [Khaino](https://open.spotify.com/artist/3Cu7fUV3xvZHRJrDlYBmdA) | [The Path of Life](https://open.spotify.com/album/2mLhmToLFY0AHU68IRErSK) | 3:37 | 2025-09-28 | 2025-12-17 |
 | [The Silent Streaks](https://open.spotify.com/track/6Oo9FMtmoOeoNsfGkHreDM) | [Alexander Campos](https://open.spotify.com/artist/3VrExr8mX2V9MgL01hbmvs) | [Whispers of a Violent Moon](https://open.spotify.com/album/3k9XEH9nw5nau63BXPKMpW) | 3:27 | 2025-10-07 | 2025-11-28 |
 | [The Staggering Expanse of Man](https://open.spotify.com/track/037SX6RIc2ZcAyss2UXta0) | [Gentry Blue](https://open.spotify.com/artist/1WDjvAbQXtcuiSJgLQYaOm) | [The Staggering Expanse of Man](https://open.spotify.com/album/4aU2LP5HmOwya2fzhts9D1) | 5:19 | 2025-10-28 | 2025-11-28 |

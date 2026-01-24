@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-31",
-  "description": "Josh Ross and Country hits that will have you singing every word.",
+  "description": "Luke Combs and Country hits that will have you singing every word.",
   "name": "Country Favourites",
   "tracks": [
     {
@@ -96,6 +96,24 @@
       "duration_ms": 233333,
       "name": "28",
       "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
+    },
+    {
+      "album": {
+        "name": "What Not To",
+        "url": "https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158333,
+      "name": "3,2,1",
+      "url": "https://open.spotify.com/track/1gJeOuF6VuBy2jZNN8CIOP"
     },
     {
       "album": {
@@ -564,6 +582,28 @@
       "duration_ms": 174846,
       "name": "Back To Drinkin' Whiskey",
       "url": "https://open.spotify.com/track/6Ut5qwtHlVBrLd9t6MVzAM"
+    },
+    {
+      "album": {
+        "name": "Backfire",
+        "url": "https://open.spotify.com/album/6D8fqhOXVPJAC521jMWSIM"
+      },
+      "artists": [
+        {
+          "name": "Nate Haller",
+          "url": "https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr"
+        },
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215701,
+      "name": "Backfire",
+      "url": "https://open.spotify.com/track/48kjeOLcEMg9yRUqcBj4h0"
     },
     {
       "album": {
@@ -2009,6 +2049,24 @@
     },
     {
       "album": {
+        "name": "Drink Around",
+        "url": "https://open.spotify.com/album/283gVczi9bFI73NZxn4z3k"
+      },
+      "artists": [
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148031,
+      "name": "Drink Around",
+      "url": "https://open.spotify.com/track/6ZoXthYEqorEbtFMbUMWEv"
+    },
+    {
+      "album": {
         "name": "Drink Em Up",
         "url": "https://open.spotify.com/album/5i46iLiuPrN7dV73mqDN2l"
       },
@@ -3182,6 +3240,24 @@
       "duration_ms": 234848,
       "name": "High Time",
       "url": "https://open.spotify.com/track/31fVD0q2ooBFCa2DT3PjBr"
+    },
+    {
+      "album": {
+        "name": "Highway Money",
+        "url": "https://open.spotify.com/album/1zqElmiMKrhEZ9OLRC9tJa"
+      },
+      "artists": [
+        {
+          "name": "Josh Stumpf",
+          "url": "https://open.spotify.com/artist/3KtMd5CrHVTQd4g3Yq8Btj"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197036,
+      "name": "Highway Money",
+      "url": "https://open.spotify.com/track/5IKPVFGPc3HWsdiKpue6zi"
     },
     {
       "album": {
@@ -4806,7 +4882,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 236012,
       "name": "My Fault (feat. Noah Cyrus)",
       "url": "https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF"
@@ -5336,7 +5412,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 185133,
       "name": "paint the town blue",
       "url": "https://open.spotify.com/track/0XgOhyJWH5UVWyV7farWDr"
@@ -7518,7 +7594,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 216160,
       "name": "This World's A Giant",
       "url": "https://open.spotify.com/track/4CD5aJNhq5fGYu3QaHJrm8"
@@ -7536,7 +7612,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 163242,
       "name": "Thought of You",
       "url": "https://open.spotify.com/track/3edfAO2gVxQfUIKWtArAe6"
@@ -8064,7 +8140,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 181680,
       "name": "What Am I Gonna Do",
       "url": "https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl"
@@ -8339,6 +8415,24 @@
     },
     {
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267893,
+      "name": "White Horse",
+      "url": "https://open.spotify.com/track/1DgtQlVNotingln271ZKCx"
+    },
+    {
+      "album": {
         "name": "White Horse",
         "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
       },
@@ -8476,7 +8570,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 166040,
       "name": "Wind Up Missin\u2019 You",
       "url": "https://open.spotify.com/track/7iQMm50NNwlUIRWhONZR2k"
@@ -8494,7 +8588,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 166666,
       "name": "Wind Up Missin\u2019 You",
       "url": "https://open.spotify.com/track/3EO58D1YpHnTvBy68gK8HE"

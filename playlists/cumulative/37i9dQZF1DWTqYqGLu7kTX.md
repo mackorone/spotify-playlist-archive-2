@@ -2,9 +2,9 @@
 
 ### [RAP 91 Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWTqYqGLu7kTX)
 
-> Best of Punjabi Hip\-Hop! Cover:  Jxggi
+> Best of Punjabi Hip\-Hop! Cover:  Sidhu Moosewala
 
-313 songs - 15 hr 27 min
+314 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Don't Test](https://open.spotify.com/track/5oBNyvRib931U1mp8YtbtU) | [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Don't Test](https://open.spotify.com/album/3yK7WWnv3ZP7ogzncDL97u) | 2:15 | 2023-03-18 | 2023-09-05 |
 | [Droptop](https://open.spotify.com/track/7AW4g4I9fPfUIyqtbsuAkM) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Droptop](https://open.spotify.com/album/2rKEiYOlxGLQHbw1ZzFdXD) | 2:21 | 2023-03-18 | 2024-04-04 |
 | [DXB](https://open.spotify.com/track/17vaaGEZlUz7b7IMKyDXvy) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [The Simpsons](https://open.spotify.com/album/30yeAdL28aqV7OH3gPV80K) | 3:26 | 2025-10-17 |  |
+| [East Side Flow](https://open.spotify.com/track/0wGrTrI43CKmfzbFNNhftb) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [East Side Flow](https://open.spotify.com/album/6YHgs73OM5NggdeLLbRFpQ) | 3:44 | 2026-01-23 |  |
 | [Easy](https://open.spotify.com/track/31Kzeiw6P7sZ30V4jKwN8P) | [Singga](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW), [Prince Jhanjheri](https://open.spotify.com/artist/2iUVYcw92uB9Wb6PUxXrAC) | [Easy](https://open.spotify.com/album/4voL51YaKZFj040QHqMFI1) | 2:19 | 2024-11-08 | 2024-11-22 |
 | [Elevated](https://open.spotify.com/track/2AilvPt1AQ8PixlCKqkjfj) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Elevated](https://open.spotify.com/album/1XNS0VIWnEKteOv1fa0okk) | 3:20 | 2023-03-18 | 2024-04-06 |
 | [Faraar](https://open.spotify.com/track/72H6G8v9xyuwdRBaTkoT5G) | [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Faraar](https://open.spotify.com/album/1HFaZl1hPmSnvdTQxshVQe) | 2:10 | 2023-03-18 | 2024-03-30 |
@@ -291,7 +292,7 @@
 | [Take Notes](https://open.spotify.com/track/4qSvRa46syIXbOwN1LCLMF) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [JayB Singh](https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM) | [Moose Print](https://open.spotify.com/album/2MuQAMXZxuEkx6bHDl439k) | 3:36 | 2025-06-13 |  |
 | [Takeover](https://open.spotify.com/track/5DVnSQ90r2M3gm6XbgTCLp) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Money Musik](https://open.spotify.com/artist/0Y5Wgx4aNU8Jm4T9OxI22o), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Not by Chance](https://open.spotify.com/album/3Msv5MSxcayA4sbQpQhXzu) | 3:29 | 2023-03-18 | 2025-06-07 |
 | [Taur](https://open.spotify.com/track/3Zkd2rqCq0MuJXoVTMmg08) | [Lopon Sidhu](https://open.spotify.com/artist/6xLk6uOnCRbbyQuS7Qb0uC) | [Sidhuan De Munde](https://open.spotify.com/album/3oTPgv4PbK4loiyz4yT2pZ) | 2:48 | 2023-03-18 | 2024-08-27 |
-| [Testosterone](https://open.spotify.com/track/2WM878T9VVtHp65vcAyIRz) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Interstellar](https://open.spotify.com/album/6ZKnxmNE5nuLHa4mtwZfRF) | 2:27 | 2025-11-14 |  |
+| [Testosterone](https://open.spotify.com/track/2WM878T9VVtHp65vcAyIRz) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Interstellar](https://open.spotify.com/album/6ZKnxmNE5nuLHa4mtwZfRF) | 2:27 | 2025-11-14 | 2026-01-24 |
 | [Thaa](https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Ultra Beats](https://open.spotify.com/artist/2YzXsQoI3rqYNEVd4nac7g) | [Thaa](https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm) | 3:01 | 2023-04-11 | 2025-07-19 |
 | [That Girl](https://open.spotify.com/track/1QecTIbUmqn4awHGDXd1q5) | [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [That Girl](https://open.spotify.com/album/57Fvr8t8L7NoZfQYVCkQFv) | 2:49 | 2025-10-03 | 2025-12-13 |
 | [The Finest](https://open.spotify.com/track/20NmNGHaPFHNWmNwsray0v) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [The Finest](https://open.spotify.com/album/47gUYtnZNZBbbcwc6YMdAy) | 3:41 | 2025-01-24 |  |

@@ -1,6 +1,6 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 122380,
+  "num_followers": 122422,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Una Cerveza",
-        "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 240853,
-      "name": "Una Cerveza",
-      "url": "https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "25 A\u00f1os (En Vivo)",
         "url": "https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 189152,
       "name": "Jurabas Tu",
       "url": "https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Una Cerveza",
+        "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 240853,
+      "name": "Una Cerveza",
+      "url": "https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -219,6 +219,22 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
+        "name": "20 A\u00f1os No Es Nada Todavia Estoy Vivo",
+        "url": "https://open.spotify.com/album/1PYPLjyXVGDaKXTUQXyuiG"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 219977,
+      "name": "Despu\u00e9s de Ti",
+      "url": "https://open.spotify.com/track/0GqJGNy4DJi0RVJOwLqunp"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
         "name": "No Te Creas Tan Importante (En Vivo)",
         "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 239760,
       "name": "No Te Creas Tan Importante - En Vivo",
       "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
-        "name": "20 A\u00f1os No Es Nada Todavia Estoy Vivo",
-        "url": "https://open.spotify.com/album/1PYPLjyXVGDaKXTUQXyuiG"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 219977,
-      "name": "Despu\u00e9s de Ti",
-      "url": "https://open.spotify.com/track/0GqJGNy4DJi0RVJOwLqunp"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -307,6 +307,22 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
+        "name": "Somos los Mejores... Y Que Sigan Participando",
+        "url": "https://open.spotify.com/album/1rOgK22crGW0pZRvZyNoQG"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 176587,
+      "name": "Donde Estas Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4fpg7DjOeH0fXx7gpVe426"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
         "name": "Mentirosa Remix",
         "url": "https://open.spotify.com/album/73D3SBYlUHneMYQmSCWCnl"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 179405,
       "name": "Mentirosa Remix",
       "url": "https://open.spotify.com/track/5bgkgmz1bx7GxD6Kh6xeS8"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
-        "name": "Somos los Mejores... Y Que Sigan Participando",
-        "url": "https://open.spotify.com/album/1rOgK22crGW0pZRvZyNoQG"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 176587,
-      "name": "Donde Estas Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4fpg7DjOeH0fXx7gpVe426"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Lo Mejor de Lo Mejor",
-        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 192075,
-      "name": "Yo Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
         "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 197616,
       "name": "Entre el Cielo Vos y Yo",
       "url": "https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 192075,
+      "name": "Yo Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Eres",
-        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
-      },
-      "artists": [
-        {
-          "name": "Grupo uno",
-          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Somos los Mejores... Y Que Sigan Participando",
         "url": "https://open.spotify.com/album/1rOgK22crGW0pZRvZyNoQG"
       },
@@ -507,18 +491,18 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Mi \u00danico Amor",
-        "url": "https://open.spotify.com/album/1bc0MLEqmNIXBPrSwkyN2j"
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
       },
       "artists": [
         {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
         }
       ],
-      "duration_ms": 214264,
-      "name": "Una Calle Nos Separa",
-      "url": "https://open.spotify.com/track/1TvjOTe5HcnzxnlvQ8JRy8"
+      "duration_ms": 196360,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -535,6 +519,22 @@
       "duration_ms": 233613,
       "name": "Porque te amo",
       "url": "https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Mi \u00danico Amor",
+        "url": "https://open.spotify.com/album/1bc0MLEqmNIXBPrSwkyN2j"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 214264,
+      "name": "Una Calle Nos Separa",
+      "url": "https://open.spotify.com/track/1TvjOTe5HcnzxnlvQ8JRy8"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Iconos Kitsch",
-        "url": "https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME"
-      },
-      "artists": [
-        {
-          "name": "Los Vikings 5",
-          "url": "https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7"
-        }
-      ],
-      "duration_ms": 209005,
-      "name": "Boquita De Caramelo",
-      "url": "https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Cumbia Nena",
         "url": "https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 186986,
       "name": "Explicale",
       "url": "https://open.spotify.com/track/3lTKmLEuJl8rj68ojwjoK5"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Iconos Kitsch",
+        "url": "https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME"
+      },
+      "artists": [
+        {
+          "name": "Los Vikings 5",
+          "url": "https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7"
+        }
+      ],
+      "duration_ms": 209005,
+      "name": "Boquita De Caramelo",
+      "url": "https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "No Te Creas Tan Importante",
-        "url": "https://open.spotify.com/album/2jcXcf2sDbK3w6YsFhxhOj"
-      },
-      "artists": [
-        {
-          "name": "Grupo Nectar",
-          "url": "https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep"
-        }
-      ],
-      "duration_ms": 226882,
-      "name": "No Te Creas Tan Importante",
-      "url": "https://open.spotify.com/track/6EEDCnXpC745TnDPSeRjGl"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Bailantero y Parrandero",
         "url": "https://open.spotify.com/album/6odLqxtmdID7FQtwlajjdc"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 199160,
       "name": "Bailantero y Parrandero",
       "url": "https://open.spotify.com/track/4UlqjeL20B01ATFJH2c9vK"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "No Te Creas Tan Importante",
+        "url": "https://open.spotify.com/album/2jcXcf2sDbK3w6YsFhxhOj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Nectar",
+          "url": "https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep"
+        }
+      ],
+      "duration_ms": 226882,
+      "name": "No Te Creas Tan Importante",
+      "url": "https://open.spotify.com/track/6EEDCnXpC745TnDPSeRjGl"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
+        "name": "Cara y Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/7LcU95BCXuQftctl8xIo5C"
+      },
+      "artists": [
+        {
+          "name": "La Transa",
+          "url": "https://open.spotify.com/artist/6EF1264lzOeAYoRT6kFNL2"
+        },
+        {
+          "name": "Tom\u00e1s Maldonado",
+          "url": "https://open.spotify.com/artist/6prihyniSR9AcgzNKRIX7p"
+        }
+      ],
+      "duration_ms": 231888,
+      "name": "Cara y Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1QtiUJ9Qn7DLoMeUDNrYl7"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
         "name": "Grupo Hechizo",
         "url": "https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC"
       },
@@ -1599,26 +1619,6 @@
       "duration_ms": 516187,
       "name": "Palomita / Olguita / Enga\u00f1adora / Mi Gran Amor - En Vivo",
       "url": "https://open.spotify.com/track/4MpbZNS58Pp3KbI56syULD"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
-        "name": "Cara y Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/7LcU95BCXuQftctl8xIo5C"
-      },
-      "artists": [
-        {
-          "name": "La Transa",
-          "url": "https://open.spotify.com/artist/6EF1264lzOeAYoRT6kFNL2"
-        },
-        {
-          "name": "Tom\u00e1s Maldonado",
-          "url": "https://open.spotify.com/artist/6prihyniSR9AcgzNKRIX7p"
-        }
-      ],
-      "duration_ms": 231888,
-      "name": "Cara y Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1QtiUJ9Qn7DLoMeUDNrYl7"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "La Makinita",
-        "url": "https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL"
-      },
-      "artists": [
-        {
-          "name": "Juanaf\u00e9",
-          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
-        }
-      ],
-      "duration_ms": 223600,
-      "name": "Tengo Luquita",
-      "url": "https://open.spotify.com/track/3EYGVS7euI1GTiYkKBOSfk"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Con Paso Firme",
         "url": "https://open.spotify.com/album/3UHCJyfAEAXcc7CrR2OWvZ"
       },
@@ -1707,18 +1691,46 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Grupo Hechizo",
-        "url": "https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC"
+        "name": "La Makinita",
+        "url": "https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL"
       },
       "artists": [
         {
-          "name": "Grupo Hechizo",
-          "url": "https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3"
+          "name": "Juanaf\u00e9",
+          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
         }
       ],
-      "duration_ms": 206240,
-      "name": "T\u00edmido",
-      "url": "https://open.spotify.com/track/4jdB97BKq7L6pOby20Nmed"
+      "duration_ms": 223600,
+      "name": "Tengo Luquita",
+      "url": "https://open.spotify.com/track/3EYGVS7euI1GTiYkKBOSfk"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "La Diabla",
+        "url": "https://open.spotify.com/album/54yV9x0FxfEVmZPwPysUOo"
+      },
+      "artists": [
+        {
+          "name": "Toma 2",
+          "url": "https://open.spotify.com/artist/4R8tEiRjYy5OkYzDM2u097"
+        },
+        {
+          "name": "Los Wachiturros",
+          "url": "https://open.spotify.com/artist/1LUSs33lIrjmo5XTgX6Yoo"
+        },
+        {
+          "name": "1 de kal",
+          "url": "https://open.spotify.com/artist/25S9QqOslbH6r8cvnP3WY1"
+        },
+        {
+          "name": "El Adri Music",
+          "url": "https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5"
+        }
+      ],
+      "duration_ms": 159159,
+      "name": "La Diabla",
+      "url": "https://open.spotify.com/track/2c9TribYylkXZRuUVNuNEy"
     }
   ],
   "unique_name": "Cumbias para carretear",

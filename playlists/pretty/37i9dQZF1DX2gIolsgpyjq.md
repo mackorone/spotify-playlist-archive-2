@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Matilda Lyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,323 likes - 143 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,347 likes - 143 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 5 | [moving in](https://open.spotify.com/track/6V68DOoiw4Z8iPPDIxtgWY) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [moving in](https://open.spotify.com/album/1E6E9b6Do9vazfKNHzJnpk) | 4:05 |
 | 6 | [Girly Girl](https://open.spotify.com/track/0z23AxOVVgmTCi7zFc5OPG) | [Phoebe Isobel](https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN) | [Girly Girl](https://open.spotify.com/album/4ez4b73nHE5m9CqMXaGS6U) | 2:57 |
 | 7 | [Delete Forever](https://open.spotify.com/track/5hsvL0N22UBECtZFEezvC6) | [100%WET](https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2) | [Delete Forever](https://open.spotify.com/album/6vns0F3lPj9nkAuQ3BxUzu) | 3:32 |
-| 8 | [Track 12](https://open.spotify.com/track/4SykKuN3ZpoJViT7Nyhz57) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [](https://open.spotify.com/album/null) | 0:00 |
+| 8 | [Body](https://open.spotify.com/track/4SykKuN3ZpoJViT7Nyhz57) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [Energy](https://open.spotify.com/album/1s4mHTfjmO4CU8AACjkmsS) | 2:55 |
 | 9 | [Keep It Simple](https://open.spotify.com/track/2GLypzkTRcrdn1bRDOi25E) | [Melr](https://open.spotify.com/artist/6AGtYsLIZrn8KbtrJUP2Uu) | [Keep It Simple](https://open.spotify.com/album/42V3QZUhgYF2059NCTMg7u) | 3:02 |
 | 10 | [If I'm So Bad](https://open.spotify.com/track/3qOFI6kpf9FqZ2GxKCJV3M) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [YOUNG: Part 1 & 2](https://open.spotify.com/album/1fgSrvKpIkI49fAy6SFHPV) | 2:17 |
 | 11 | [Numb](https://open.spotify.com/track/3R3gSrDHRnAu0ZMxXPaqd4) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Numb](https://open.spotify.com/album/4hUxwuyEjww2DH1RrdIqlK) | 2:53 |

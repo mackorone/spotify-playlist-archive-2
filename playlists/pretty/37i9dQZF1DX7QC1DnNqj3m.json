@@ -1,12 +1,12 @@
 {
   "description": "Bask in the sound of soul, old and new.",
-  "num_followers": 532019,
+  "num_followers": 532014,
   "original_name": "Sweet Soul Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACqevgYsdvgRag7adh5k6+Vujo2m",
+  "snapshot_id": "AAAAAGMz/1qMInZ6sb1tPPYYmDllKV9e",
   "tracks": [
     {
       "added_at": "2026-01-15 16:55:57",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-01-15 16:55:57",
       "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF"
-      },
-      "artists": [
-        {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
-        }
-      ],
-      "duration_ms": 229444,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk"
-    },
-    {
-      "added_at": "2026-01-15 16:55:57",
-      "album": {
         "name": "Silk & Soul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 188613,
       "name": "I Wish I Knew How It Would Feel to Be Free",
       "url": "https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq"
+    },
+    {
+      "added_at": "2026-01-15 16:55:57",
+      "album": {
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 229444,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk"
     },
     {
       "added_at": "2026-01-15 16:55:57",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-01-15 16:55:57",
       "album": {
-        "name": "In Square Circle",
-        "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 222586,
-      "name": "Overjoyed",
-      "url": "https://open.spotify.com/track/2lnQcP5hr4RKR63TFvnI4k"
-    },
-    {
-      "added_at": "2026-01-15 16:55:57",
-      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/5coBwIJ5Z8h2OlrimmdE1S"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 242813,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/5pztwVl6brVgqYjYQ93us6"
+    },
+    {
+      "added_at": "2026-01-15 16:55:57",
+      "album": {
+        "name": "In Square Circle",
+        "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 222586,
+      "name": "Overjoyed",
+      "url": "https://open.spotify.com/track/2lnQcP5hr4RKR63TFvnI4k"
     },
     {
       "added_at": "2026-01-15 16:55:57",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-01-15 16:55:57",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/3trzDDxRglGCjR0QVnR3zd"
-      },
-      "artists": [
-        {
-          "name": "JONES",
-          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
-        }
-      ],
-      "duration_ms": 191689,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1yQVv5jxjHfx2hP8VUfyiA"
-    },
-    {
-      "added_at": "2026-01-15 16:55:57",
-      "album": {
         "name": "Vibrations",
         "url": "https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 240920,
       "name": "Searching",
       "url": "https://open.spotify.com/track/45muf22QzSyKwsF4l3IcwJ"
+    },
+    {
+      "added_at": "2026-01-15 16:55:57",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/3trzDDxRglGCjR0QVnR3zd"
+      },
+      "artists": [
+        {
+          "name": "JONES",
+          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
+        }
+      ],
+      "duration_ms": 191689,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1yQVv5jxjHfx2hP8VUfyiA"
     },
     {
       "added_at": "2026-01-15 16:55:57",

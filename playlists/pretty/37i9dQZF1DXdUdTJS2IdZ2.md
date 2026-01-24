@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: LAYYI
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,151 likes - 97 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,170 likes - 97 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 | 2 | [your scent](https://open.spotify.com/track/2U0j6eGUTCFbKRgvilEqnu) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [your scent](https://open.spotify.com/album/4wu7ev123PdWZdJC4xOgDY) | 3:14 |
 | 3 | [my forever](https://open.spotify.com/track/4dixbLTmSVdkkex9IZmrs2) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [my forever](https://open.spotify.com/album/0zYPWZaDr4iGlGENr3V8El) | 3:16 |
 | 4 | [Eclipse](https://open.spotify.com/track/29J9ZL6bj20BOvJJsjrBE2) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Eclipse](https://open.spotify.com/album/3dMBBRvltr8Z1KBzQcJuQS) | 3:56 |
-| 5 | [Track 4](https://open.spotify.com/track/5Q9uXyP4fZpvyVPxnbi9zD) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [](https://open.spotify.com/album/null) | 0:00 |
+| 5 | [Times Like This](https://open.spotify.com/track/5Q9uXyP4fZpvyVPxnbi9zD) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Through Thick & Thin](https://open.spotify.com/album/5e7Ss3pOjpbM0Q3bXNZGE6) | 2:48 |
 | 6 | [who u gon luv?](https://open.spotify.com/track/20nhihuA7KeXmCUI6qFoHw) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8), [Aditya Ojha](https://open.spotify.com/artist/1As4gXpkB3Vkwox0WRlbzT) | [who u gon luv?](https://open.spotify.com/album/4tGLytQBWinIda9HFKqtm9) | 2:44 |
 | 7 | [One And Only](https://open.spotify.com/track/4hHVepJBDOxpQaamW15Cc3) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Everything I've Wanted To Say \(and more\)](https://open.spotify.com/album/5C4nJlq9vET3ikxu5u4ZxD) | 3:03 |
 | 8 | [深淵](https://open.spotify.com/track/34rra4W0BHr6BSimipcV5O) | [邱鋒澤 Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy), [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX) | [DEEP AWAKENING 見過深淵的人](https://open.spotify.com/album/1I4cU2BxFEYHT4FcgaUObO) | 4:04 |

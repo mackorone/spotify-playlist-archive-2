@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Aurelia Syaharani",
-  "num_followers": 144955,
+  "num_followers": 144996,
   "original_name": "Naik Daun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJGvBoKTvQ0tt8H97pF4GCEaIrqn",
+  "snapshot_id": "AAAAADmXGY5qCnx5seCTsDO3KTiYTdf0",
   "tracks": [
     {
       "added_at": "2026-01-22 17:00:04",
@@ -157,6 +157,22 @@
       "url": "https://open.spotify.com/track/6wqOODcs0NqP3x87Xoh3vJ"
     },
     {
+      "added_at": "2026-01-23 07:09:31",
+      "album": {
+        "name": "Salahnya Aku",
+        "url": "https://open.spotify.com/album/34F63zVp4z2fAUkZHZoMYQ"
+      },
+      "artists": [
+        {
+          "name": "Yogie Nandes",
+          "url": "https://open.spotify.com/artist/1bymZsHKEEyWGaEuN5rB62"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Salahnya Aku",
+      "url": "https://open.spotify.com/track/1bRhQrTrurSHiFxL7SulGU"
+    },
+    {
       "added_at": "2026-01-22 17:00:04",
       "album": {
         "name": "Lumba-Lumba (uang kertas)",
@@ -239,6 +255,22 @@
       "duration_ms": 281856,
       "name": "TAGULING-GULING",
       "url": "https://open.spotify.com/track/3kpyfir8JelHtZosulYtBm"
+    },
+    {
+      "added_at": "2026-01-22 17:00:04",
+      "album": {
+        "name": "INI DIA",
+        "url": "https://open.spotify.com/album/2zrnqv7JAhdID3uKiIxbUR"
+      },
+      "artists": [
+        {
+          "name": "dia",
+          "url": "https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu"
+        }
+      ],
+      "duration_ms": 118248,
+      "name": "EEEE A",
+      "url": "https://open.spotify.com/track/4h07ne6Xf5AaCIGkrgNq1i"
     },
     {
       "added_at": "2026-01-22 17:00:04",
@@ -683,38 +715,6 @@
     {
       "added_at": "2026-01-22 17:00:04",
       "album": {
-        "name": "Man Enough",
-        "url": "https://open.spotify.com/album/6x40hcu103z4BhmfzXTZGh"
-      },
-      "artists": [
-        {
-          "name": "Elephant Kind",
-          "url": "https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX"
-        }
-      ],
-      "duration_ms": 163013,
-      "name": "Man Enough",
-      "url": "https://open.spotify.com/track/2MQ31Ktcia4SEFiVmTYOiF"
-    },
-    {
-      "added_at": "2026-01-22 17:00:04",
-      "album": {
-        "name": "INI DIA",
-        "url": "https://open.spotify.com/album/2zrnqv7JAhdID3uKiIxbUR"
-      },
-      "artists": [
-        {
-          "name": "dia",
-          "url": "https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu"
-        }
-      ],
-      "duration_ms": 118248,
-      "name": "EEEE A",
-      "url": "https://open.spotify.com/track/4h07ne6Xf5AaCIGkrgNq1i"
-    },
-    {
-      "added_at": "2026-01-22 17:00:04",
-      "album": {
         "name": "Ramu",
         "url": "https://open.spotify.com/album/6Um3awxwOSoxLVVBn85UjA"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 201301,
       "name": "Salam Sehat",
       "url": "https://open.spotify.com/track/0zE5peq7taXYbAUwWz67jx"
-    },
-    {
-      "added_at": "2026-01-22 17:00:04",
-      "album": {
-        "name": "Nyala",
-        "url": "https://open.spotify.com/album/7oNsav2cHACuYiytAlIJFz"
-      },
-      "artists": [
-        {
-          "name": "EAR SUN",
-          "url": "https://open.spotify.com/artist/5Ccw96BXjK0XKJFHyCztKO"
-        }
-      ],
-      "duration_ms": 184175,
-      "name": "Menyala",
-      "url": "https://open.spotify.com/track/3B1p4CQ4hFcoRtXWRKUAqW"
     },
     {
       "added_at": "2026-01-22 17:00:04",
@@ -1575,30 +1559,86 @@
     {
       "added_at": "2026-01-22 17:00:04",
       "album": {
-        "name": "SWITCH!",
-        "url": "https://open.spotify.com/album/4uWLrLul353a0mbsbYdEsl"
+        "name": "Latihan Bahagia",
+        "url": "https://open.spotify.com/album/7gEVjoeEEfG5hwTy5NxTCv"
       },
       "artists": [
         {
-          "name": "FN!",
-          "url": "https://open.spotify.com/artist/1pOgH2pAgRAVlWC9h1Z3hh"
-        },
-        {
-          "name": "Basboi",
-          "url": "https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9"
-        },
-        {
-          "name": "Dominique Adhadiaz",
-          "url": "https://open.spotify.com/artist/1CdlXDQpcRaeFOdY8eEiws"
-        },
-        {
-          "name": "CVX",
-          "url": "https://open.spotify.com/artist/3YDAdiXuKjmL0SsiCr1eyz"
+          "name": "Valent Duga",
+          "url": "https://open.spotify.com/artist/6Hkx3ewDN37sXxkHDyebUC"
         }
       ],
-      "duration_ms": 185459,
-      "name": "SWITCH!",
-      "url": "https://open.spotify.com/track/1yTbJuJcejZISS31XWBbrS"
+      "duration_ms": 233058,
+      "name": "Untukmu yang Masih Bertahan",
+      "url": "https://open.spotify.com/track/2Zj8XXGpxdO9gsb9djjMuv"
+    },
+    {
+      "added_at": "2026-01-22 17:00:04",
+      "album": {
+        "name": "Lost In Motion",
+        "url": "https://open.spotify.com/album/1JCnp78FHvTRDSv0cITgnO"
+      },
+      "artists": [
+        {
+          "name": "Jevin Julian",
+          "url": "https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O"
+        },
+        {
+          "name": "vaneshadarling",
+          "url": "https://open.spotify.com/artist/1k8oTwRjFaXw7FiDFK3yvw"
+        }
+      ],
+      "duration_ms": 188218,
+      "name": "Lost In Motion",
+      "url": "https://open.spotify.com/track/4C9brX0K5GgiMuUofszHhW"
+    },
+    {
+      "added_at": "2026-01-22 17:00:04",
+      "album": {
+        "name": "Ego Wong Tuo (HipHop Dangdut Version)",
+        "url": "https://open.spotify.com/album/4OkDaPsPQQWB0Tpy9509G3"
+      },
+      "artists": [
+        {
+          "name": "NDX A.K.A.",
+          "url": "https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD"
+        }
+      ],
+      "duration_ms": 277395,
+      "name": "Ego Wong Tuo - HipHop Dangdut Version",
+      "url": "https://open.spotify.com/track/6EclwrE9yVgAKjOnlw0qFv"
+    },
+    {
+      "added_at": "2026-01-22 17:00:04",
+      "album": {
+        "name": "Berselimut Di Batin",
+        "url": "https://open.spotify.com/album/475TaCVDcFIrIVQq0wBLPK"
+      },
+      "artists": [
+        {
+          "name": "Marsha Lavinia",
+          "url": "https://open.spotify.com/artist/5EloJ3GTjmVqRKmdDJUrtk"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Berselimut Di Batin",
+      "url": "https://open.spotify.com/track/4vGdIIsEc8TgMO6gOg8seQ"
+    },
+    {
+      "added_at": "2026-01-22 17:00:04",
+      "album": {
+        "name": "Kita Sama-Sama, Ya?",
+        "url": "https://open.spotify.com/album/7l6tMQvRE37pRLX1c7JETJ"
+      },
+      "artists": [
+        {
+          "name": "Hanin Dhiya",
+          "url": "https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW"
+        }
+      ],
+      "duration_ms": 232241,
+      "name": "Kita Sama-Sama, Ya?",
+      "url": "https://open.spotify.com/track/2uF6VkqexSWxNdEELDEmte"
     },
     {
       "added_at": "2026-01-22 17:00:04",
@@ -1775,58 +1815,6 @@
     {
       "added_at": "2026-01-22 17:00:04",
       "album": {
-        "name": "Latihan Bahagia",
-        "url": "https://open.spotify.com/album/7gEVjoeEEfG5hwTy5NxTCv"
-      },
-      "artists": [
-        {
-          "name": "Valent Duga",
-          "url": "https://open.spotify.com/artist/6Hkx3ewDN37sXxkHDyebUC"
-        }
-      ],
-      "duration_ms": 233058,
-      "name": "Untukmu yang Masih Bertahan",
-      "url": "https://open.spotify.com/track/2Zj8XXGpxdO9gsb9djjMuv"
-    },
-    {
-      "added_at": "2026-01-22 17:00:04",
-      "album": {
-        "name": "Lost In Motion",
-        "url": "https://open.spotify.com/album/1JCnp78FHvTRDSv0cITgnO"
-      },
-      "artists": [
-        {
-          "name": "Jevin Julian",
-          "url": "https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O"
-        },
-        {
-          "name": "vaneshadarling",
-          "url": "https://open.spotify.com/artist/1k8oTwRjFaXw7FiDFK3yvw"
-        }
-      ],
-      "duration_ms": 188218,
-      "name": "Lost In Motion",
-      "url": "https://open.spotify.com/track/4C9brX0K5GgiMuUofszHhW"
-    },
-    {
-      "added_at": "2026-01-22 17:00:04",
-      "album": {
-        "name": "Ego Wong Tuo (HipHop Dangdut Version)",
-        "url": "https://open.spotify.com/album/4OkDaPsPQQWB0Tpy9509G3"
-      },
-      "artists": [
-        {
-          "name": "NDX A.K.A.",
-          "url": "https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD"
-        }
-      ],
-      "duration_ms": 277395,
-      "name": "Ego Wong Tuo - HipHop Dangdut Version",
-      "url": "https://open.spotify.com/track/6EclwrE9yVgAKjOnlw0qFv"
-    },
-    {
-      "added_at": "2026-01-22 17:00:04",
-      "album": {
         "name": "Cecilia",
         "url": "https://open.spotify.com/album/7ANg72ntvphbDfeRfNryMN"
       },
@@ -1903,22 +1891,6 @@
       "duration_ms": 221033,
       "name": "Untungnya, Hidup Harus Tetap Berjalan - Babak Penutup: Untungnya, untungnya - Live",
       "url": "https://open.spotify.com/track/1zkyWDokMlZnyNANahOEIk"
-    },
-    {
-      "added_at": "2026-01-22 17:00:04",
-      "album": {
-        "name": "Berselimut Di Batin",
-        "url": "https://open.spotify.com/album/475TaCVDcFIrIVQq0wBLPK"
-      },
-      "artists": [
-        {
-          "name": "Marsha Lavinia",
-          "url": "https://open.spotify.com/artist/5EloJ3GTjmVqRKmdDJUrtk"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Berselimut Di Batin",
-      "url": "https://open.spotify.com/track/4vGdIIsEc8TgMO6gOg8seQ"
     },
     {
       "added_at": "2026-01-22 17:00:04",
@@ -2071,22 +2043,6 @@
       "duration_ms": 230420,
       "name": "Di Ujung Minggu",
       "url": "https://open.spotify.com/track/0XYtsjQ5iqkMDVV5SecdXU"
-    },
-    {
-      "added_at": "2026-01-22 17:00:04",
-      "album": {
-        "name": "Kita Sama-Sama, Ya?",
-        "url": "https://open.spotify.com/album/7l6tMQvRE37pRLX1c7JETJ"
-      },
-      "artists": [
-        {
-          "name": "Hanin Dhiya",
-          "url": "https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW"
-        }
-      ],
-      "duration_ms": 232241,
-      "name": "Kita Sama-Sama, Ya?",
-      "url": "https://open.spotify.com/track/2uF6VkqexSWxNdEELDEmte"
     },
     {
       "added_at": "2026-01-22 17:00:04",

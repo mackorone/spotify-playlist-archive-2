@@ -1183,6 +1183,24 @@
     },
     {
       "album": {
+        "name": "My Black Cat",
+        "url": "https://open.spotify.com/album/49uQEZJ4QJxkN5dUQ49AZ2"
+      },
+      "artists": [
+        {
+          "name": "Nukehole",
+          "url": "https://open.spotify.com/artist/68Qg8Ukjg5zs3PimhwUBKZ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237200,
+      "name": "My Black Cat",
+      "url": "https://open.spotify.com/track/1W7tQ70CJsbIpS0jTERKdM"
+    },
+    {
+      "album": {
         "name": "Naive",
         "url": "https://open.spotify.com/album/4tPRMAuDEMULUguQjnCjjc"
       },

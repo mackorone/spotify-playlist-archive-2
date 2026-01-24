@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: can’t be blue \(캔트비블루\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,217 songs - 3 day 1 hr 47 min
+1,219 songs - 3 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Crystal Trees](https://open.spotify.com/track/52XWDiWgJZsDea3mvYyQVl) | [U\-Turn](https://open.spotify.com/artist/4mhu5X1P8QV77uRvOm9Oj0) | [Crystal Trees](https://open.spotify.com/album/2FLy8XWsPbZ6NLF3YbzIao) | 3:23 | 2022-04-12 | 2022-04-14 |
 | [Cue Sign](https://open.spotify.com/track/4cBiqsGxRNpIE02zfMdhNf) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [Cue Sign](https://open.spotify.com/album/4VWFmbeJULZek7Pmyg0bTO) | 3:36 | 2023-02-28 | 2023-03-28 |
 | [D\-Day](https://open.spotify.com/track/0arhh9A3nyVqqDpO9JdCsn) | [Myown](https://open.spotify.com/artist/7of09TKKRNNpeibUdbHOOJ) | [D\-Day](https://open.spotify.com/album/3bMwgq9idZBnl3OLadyID6) | 3:30 | 2022-03-31 | 2022-04-15 |
+| [Daisy](https://open.spotify.com/track/3k4Llt7K7nPtXuGN6rhtjb) | [16](https://open.spotify.com/artist/5gjVxMSvUPmjSPX95sl2Sr) | [Daisy](https://open.spotify.com/album/713NXRFrCBWBpfMEcPUMOw) | 2:26 | 2026-01-23 |  |
 | [Daisy \(with 969\)](https://open.spotify.com/track/0cwQu6m9DQYmnzj8uG6F6W) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv), [969](https://open.spotify.com/artist/2aMqGFNXYTujZMuU4B2EUk) | [Daisy \(with 969\)](https://open.spotify.com/album/4a4hJD5nTbiDE5fOhRyhOC) | 3:35 | 2022-05-11 | 2022-07-29 |
 | [Dance](https://open.spotify.com/track/6mCYImXzhwllGGVXaFbt3W) | [Tomiyo](https://open.spotify.com/artist/4jQggyF869vBQbQl2Tewuj) | [Dance](https://open.spotify.com/album/5uxcyqxGIxy8nMWXdraCfs) | 4:19 | 2022-03-31 | 2022-07-28 |
 | [Dance and gulp down saliva \(feat\. The Deep\)](https://open.spotify.com/track/4Jd4MvIH7Db5TAQy6gMfiI) | [Kim Oki](https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF), [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [Gulp Down Saliva](https://open.spotify.com/album/3OD3EaKKtWUvOlUxwUFnku) | 4:00 | 2024-04-30 | 2024-05-10 |
@@ -467,6 +468,7 @@
 | [I do not know why I am here](https://open.spotify.com/track/1J7MT5yYGxvYO51DFKK8Ti) | [Galaxy Express](https://open.spotify.com/artist/3HbmUr6CJxkk0YGkxeNpMp) | [Sanullim 50th Anniversary full length album, Vol\. 1](https://open.spotify.com/album/544JzJsgzf1hNIygvWN26P) | 4:28 | 2024-11-06 | 2024-11-21 |
 | [I Don't Give A](https://open.spotify.com/track/2NmY7mgMgXewWoQLoUQC7p) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Even Though We Are Not the Same 우리의 감정이 같을 순 없지만](https://open.spotify.com/album/3isdFTW14WhOxUdOhFMHqP) | 3:10 | 2022-03-31 | 2022-04-04 |
 | [I don't know](https://open.spotify.com/track/2tjh87mXDZJJIKLOpqH97T) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [I don't know](https://open.spotify.com/album/7Dlz2hPB7zxz4nf1RFpxiy) | 4:08 | 2021-12-21 | 2022-07-29 |
+| [I don’t care I like u](https://open.spotify.com/track/2mbjfGSPSFCIxoauRghoB0) | [chorim](https://open.spotify.com/artist/0Lw3RrzOZdrQFcWy9kYtEW) | [I don’t care I like u](https://open.spotify.com/album/4kU2FHO3Sy20o2EmYFRB2I) | 4:35 | 2026-01-23 |  |
 | [I don’t have eraser of words](https://open.spotify.com/track/36u940AeFl6IQmVWNXnAbj) | [Soombee](https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga) | [I don’t have eraser of words](https://open.spotify.com/album/086UhcdBXeiEVY8XNAb4ad) | 3:11 | 2024-08-12 | 2024-08-23 |
 | [I know what is the love after broke up](https://open.spotify.com/track/1izGHQNj7Oh8dcGhY7xi3r) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [I know what is the love after broke up](https://open.spotify.com/album/7eUvhAWeEWVKrfnEAnlkfn) | 4:19 | 2022-04-12 | 2022-04-21 |
 | [I know what you did last summer](https://open.spotify.com/track/2mKzrzXs9d1Uvzo8GwVOfj) | [Wilcox](https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o) | [I know what you did last summer](https://open.spotify.com/album/6kOGPZkqQv1rz8EMPwDBgh) | 3:32 | 2025-08-18 | 2025-10-02 |
@@ -672,7 +674,7 @@
 | [MONOLOGUE](https://open.spotify.com/track/3voGBHMWnfdodTDRtScUIp) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Refresh project](https://open.spotify.com/album/3ikVmbEKal0oTteXvYuOz0) | 4:16 | 2022-06-13 | 2022-06-19 |
 | [Monsoon Rain](https://open.spotify.com/track/6ITDnStygfL352ATEmtYJW) | [Mono\. J](https://open.spotify.com/artist/2sCSfdtkRpjNWt2O2GabKA) | [Monsoon Rain](https://open.spotify.com/album/645MfwCDYukPSm6ZcwJzGn) | 3:40 | 2022-03-31 | 2022-04-13 |
 | [MOOD FOR LOVE](https://open.spotify.com/track/4U46xmSU9CczDNPEUx20OD) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [MOOD FOR LOVE](https://open.spotify.com/album/53P5weqc2cb75Bg3LuFPcZ) | 3:24 | 2021-12-21 | 2022-05-27 |
-| [Moondance](https://open.spotify.com/track/2KUEKN10jfO8IQ3uUKdynn) | [TOUCHED](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [Moondance](https://open.spotify.com/album/1LYt1Jb1ooZzJWqnfIxdx2) | 3:46 | 2025-11-19 |  |
+| [Moondance](https://open.spotify.com/track/2KUEKN10jfO8IQ3uUKdynn) | [TOUCHED](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [Moondance](https://open.spotify.com/album/1LYt1Jb1ooZzJWqnfIxdx2) | 3:46 | 2025-11-19 | 2026-01-24 |
 | [Moonlight \(Feat\. YooJeong\)](https://open.spotify.com/track/3UXHgrtANbsoWAn5DfUcz6) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [Moonlight](https://open.spotify.com/album/4QagrJlMwIQYju8jKPLj8B) | 2:29 | 2022-03-18 | 2022-07-29 |
 | [Morning](https://open.spotify.com/track/62gf2fft5H9FM4H5s4fPLJ) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Morning](https://open.spotify.com/album/2IXgInYjof7yiyDS5BxBDc) | 3:26 | 2025-05-02 | 2025-05-15 |
 | [morning twist](https://open.spotify.com/track/5i5uM0W7hi9ZInDnhvkNIW) | [Dailog](https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF) | [basecamp](https://open.spotify.com/album/5HbP580hlXJjGGpte2jy6x) | 3:07 | 2025-09-02 | 2025-10-10 |
@@ -801,7 +803,7 @@
 | [Private Language](https://open.spotify.com/track/5PXbAtE5H3e3SkWXenu07T) | [Pil Kyo](https://open.spotify.com/artist/2ZVOkp4yAY6v4mD4YR8Chw) | [Private Language](https://open.spotify.com/album/7z7fiojUks8WesV42xMf4r) | 4:11 | 2022-03-09 | 2022-07-29 |
 | [Process](https://open.spotify.com/track/6waS97d1u64uuKTKlCQZUh) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [H:Sean](https://open.spotify.com/artist/7IBTi3TEXXZXjXEIQDnKuG) | [Seoul Vibes, Pt\. 2](https://open.spotify.com/album/305IlQABjn12yFvGv1Uuc1) | 2:35 | 2022-03-31 | 2022-04-11 |
 | [Proof of the Night \(with the orchard\)](https://open.spotify.com/track/4DgXufcByc7zrjx5H6P8ug) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3), [the orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Q.E.D](https://open.spotify.com/album/72FZiNdajj3s2ZOszERuka) | 3:10 | 2025-09-22 | 2025-10-31 |
-| [Propose](https://open.spotify.com/track/3KwlazkaekeKfyvDsrsrYd) | [Samui](https://open.spotify.com/artist/0HPaAAfUL4k7xE45xXi5yb) | [Yang](https://open.spotify.com/album/01dMbBdzAQ1IGQiYiIRghw) | 3:30 | 2025-11-06 |  |
+| [Propose](https://open.spotify.com/track/3KwlazkaekeKfyvDsrsrYd) | [Samui](https://open.spotify.com/artist/0HPaAAfUL4k7xE45xXi5yb) | [Yang](https://open.spotify.com/album/01dMbBdzAQ1IGQiYiIRghw) | 3:30 | 2025-11-06 | 2026-01-24 |
 | [Pseudoscience \(feat\. Chang Kiha\)](https://open.spotify.com/track/4ivKqBkDfSRYc3H2DBdBW3) | [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [Pseudoscience \(feat\. Chang Kiha\)](https://open.spotify.com/album/3leNJ19xRMO5HyTccjA5ce) | 3:48 | 2022-06-29 | 2022-07-09 |
 | [Psycho](https://open.spotify.com/track/1Qyg8gMMatJyPIi8da7Pc2) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 4:02 | 2024-07-15 | 2024-09-09 |
 | [Punchdrunklovesong](https://open.spotify.com/track/31LkUlLS286dpY3LbAxRbg) | [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [Cake CAKE](https://open.spotify.com/album/2iBGScS4eDpFVdPqZAFNhZ) | 1:21 | 2023-08-24 | 2023-12-19 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXAXAAAAAABLi0WwTWPu2YcY1JNFQjSd",
+  "snapshot_id": "aXFogAAAAABdjAF0sKJLSQGjvDdJxAvm",
   "tracks": [
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Relax",
-        "url": "https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM"
+        "name": "La Cr\u00eda",
+        "url": "https://open.spotify.com/album/7cQwoIQfhimjKgRFSow19F"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/3okhB8UP3eNHRz3ezGnRHa"
+      "duration_ms": 243040,
+      "name": "Todo Lo Que Quiero",
+      "url": "https://open.spotify.com/track/5Lp4aA8x6GcHQbCgi1uFKd"
     },
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Cr\u00eda",
-        "url": "https://open.spotify.com/album/7cQwoIQfhimjKgRFSow19F"
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 243040,
-      "name": "Todo Lo Que Quiero",
-      "url": "https://open.spotify.com/track/5Lp4aA8x6GcHQbCgi1uFKd"
+      "duration_ms": 210000,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/3okhB8UP3eNHRz3ezGnRHa"
     },
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Relax",
-        "url": "https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM"
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/5hglsSmv0KUkQ51n14g7dO"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 234973,
-      "name": "Un Amor Sin Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/36m1UijoKIocg5EXMvRp5I"
+      "duration_ms": 184732,
+      "name": "Tu y Yo",
+      "url": "https://open.spotify.com/track/1p2oJoXRiijbnW3V0VvNLX"
     },
     {
       "added_at": null,
@@ -508,15 +508,15 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 218538,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/2WdqubnIpiyMULlJc5frzD"
+      "duration_ms": 218122,
+      "name": "Ventana",
+      "url": "https://open.spotify.com/track/2vEpXULPhUZDz4RhbmS6pL"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Tu y Yo",
-        "url": "https://open.spotify.com/album/5hglsSmv0KUkQ51n14g7dO"
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 184732,
-      "name": "Tu y Yo",
-      "url": "https://open.spotify.com/track/1p2oJoXRiijbnW3V0VvNLX"
+      "duration_ms": 234973,
+      "name": "Un Amor Sin Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/36m1UijoKIocg5EXMvRp5I"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 218122,
-      "name": "Ventana",
-      "url": "https://open.spotify.com/track/2vEpXULPhUZDz4RhbmS6pL"
+      "duration_ms": 218538,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/2WdqubnIpiyMULlJc5frzD"
     },
     {
       "added_at": null,

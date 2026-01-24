@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Pop on the rise you should know, featuring ARIA VEGA.",
+  "description": "Pop on the rise you should know, featuring nic.",
   "name": "Latin Pop Today",
   "tracks": [
+    {
+      "album": {
+        "name": "(favorito)",
+        "url": "https://open.spotify.com/album/63REyK0hkC2rCtgYGIqKNh"
+      },
+      "artists": [
+        {
+          "name": "nic",
+          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "(favorito)",
+      "url": "https://open.spotify.com/track/3pNklcVilHHuVKtkDbzaTq"
+    },
     {
       "album": {
         "name": "0%",
@@ -16,7 +34,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 173666,
       "name": "0%",
       "url": "https://open.spotify.com/track/0V91BVy8lD7xoxQBNajPiu"
@@ -1110,7 +1128,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 188597,
       "name": "Amor Prestado",
       "url": "https://open.spotify.com/track/4Z3zYeaJabDAnk9zI5TaQm"
@@ -2559,6 +2577,28 @@
     },
     {
       "album": {
+        "name": "CAMBIAR\u00c9",
+        "url": "https://open.spotify.com/album/6ZXLMVFtEzgYNQlbUMlzAU"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181237,
+      "name": "CAMBIAR\u00c9",
+      "url": "https://open.spotify.com/track/0DHkA97Q6SWz7uanmsCy8u"
+    },
+    {
+      "album": {
         "name": "Canci\u00f3n 2",
         "url": "https://open.spotify.com/album/1hXSMNto2tKY8WtJ13BwjW"
       },
@@ -3849,6 +3889,40 @@
     },
     {
       "album": {
+        "name": "C\u00f3mo Hiciste? (feat. FRAN) [Remix]",
+        "url": "https://open.spotify.com/album/7clvIUl7ek8B4mknaLI8TE"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        },
+        {
+          "name": "Nono",
+          "url": "https://open.spotify.com/artist/0zL8jjsngYMonC9YLeWy0p"
+        },
+        {
+          "name": "FRAN",
+          "url": "https://open.spotify.com/artist/3kFlxPXZ31culc2QluDVLC"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282857,
+      "name": "C\u00f3mo Hiciste? (feat. FRAN) - Remix",
+      "url": "https://open.spotify.com/track/1aNiFJedJgLockcTGil0pt"
+    },
+    {
+      "album": {
         "name": "alpha",
         "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
       },
@@ -3864,6 +3938,28 @@
       "duration_ms": 170346,
       "name": "Darar\u00ed",
       "url": "https://open.spotify.com/track/260rBjdoUcXRK8AeAqeg5X"
+    },
+    {
+      "album": {
+        "name": "Better Late Than Never",
+        "url": "https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243070,
+      "name": "Dardos",
+      "url": "https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ"
     },
     {
       "album": {
@@ -4890,7 +4986,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 219719,
       "name": "El Observador",
       "url": "https://open.spotify.com/track/41hUn3whEA2po3ql0s8cK9"
@@ -5600,7 +5696,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 234469,
       "name": "F.O.M.O.",
       "url": "https://open.spotify.com/track/5FJkV2rJ9Jzv7RKftVGC8W"
@@ -6221,6 +6317,24 @@
     },
     {
       "album": {
+        "name": "Hagamos Que",
+        "url": "https://open.spotify.com/album/1LzepHC5JM2kXvL5Fv7CgC"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178160,
+      "name": "Hagamos Que",
+      "url": "https://open.spotify.com/track/6dERO18avM16kki5aCjTkb"
+    },
+    {
+      "album": {
         "name": "DUE\u00d1O DEL CIELO",
         "url": "https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk"
       },
@@ -6590,7 +6704,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 240498,
       "name": "iii. LaDrogaM\u00e1sSuaveDelMundo(!) \u00b7 enamoramiento",
       "url": "https://open.spotify.com/track/25sS3mU6hQC2FtgSf0oB1v"
@@ -7558,7 +7672,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 160000,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/2bBIVTh7gLuAfCDvU0vsOM"
@@ -8006,7 +8120,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 159720,
       "name": "len\u00e7\u00f3is maranhenses",
       "url": "https://open.spotify.com/track/111uhRMDaHfXYFygLW3Zc3"
@@ -8290,7 +8404,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 206408,
       "name": "los 41",
       "url": "https://open.spotify.com/track/63o7SbqFj3ltG4hb1AQzN0"
@@ -10028,7 +10142,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 154536,
       "name": "M\u00edrame Ahora - Salud mi Reina",
       "url": "https://open.spotify.com/track/7bfa2O4fYWZphBFSQQ3FuT"
@@ -10206,6 +10320,24 @@
       "duration_ms": 157000,
       "name": "NO HAY LEY",
       "url": "https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ"
+    },
+    {
+      "album": {
+        "name": "No Hay Que Llorar",
+        "url": "https://open.spotify.com/album/7uIbLRXnuJqnAd6XrGSJDQ"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155074,
+      "name": "No Hay Que Llorar",
+      "url": "https://open.spotify.com/track/46tzd3foeCDZeJE5m5JmR3"
     },
     {
       "album": {
@@ -12621,6 +12753,24 @@
     },
     {
       "album": {
+        "name": "Rollitos de Papel",
+        "url": "https://open.spotify.com/album/7eZ9SGcuTyYH6tHeLFhuu1"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182475,
+      "name": "Rollitos de Papel",
+      "url": "https://open.spotify.com/track/2In4JKhdvDXXszMTh6PlnN"
+    },
+    {
+      "album": {
         "name": "rompo esquemas",
         "url": "https://open.spotify.com/album/4sdH0YoWAHoozGAkVDqhpZ"
       },
@@ -12640,6 +12790,28 @@
       "duration_ms": 199421,
       "name": "rompo esquemas",
       "url": "https://open.spotify.com/track/1WvFuZUZBHrx2JPCn4zEDK"
+    },
+    {
+      "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152134,
+      "name": "Rondando",
+      "url": "https://open.spotify.com/track/6zbIymvarWbejJdlRPJwGf"
     },
     {
       "album": {
@@ -15014,6 +15186,24 @@
       "duration_ms": 188708,
       "name": "Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/1Pm4oHKLf3IrPYjn8OajCg"
+    },
+    {
+      "album": {
+        "name": "Una y Otra Vez",
+        "url": "https://open.spotify.com/album/2mIRZwtWJfTMXb9IlD92WT"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182129,
+      "name": "Una y Otra Vez",
+      "url": "https://open.spotify.com/track/01Jau2dvxahy6s00VFFB0n"
     },
     {
       "album": {

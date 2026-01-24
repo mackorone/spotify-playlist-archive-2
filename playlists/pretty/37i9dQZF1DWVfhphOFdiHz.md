@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops and LGBTQIA+ artists only\. Cover: August Ponthier
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,311 likes - 55 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,371 likes - 55 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 54 | [Like I'm Young](https://open.spotify.com/track/6uHxrrCgsNTmFRH2ebIxbv) | [Avery Tucker](https://open.spotify.com/artist/0A8iBI2YdSqXWUulrstOmY) | [Paw](https://open.spotify.com/album/1qACMi4HSPrESX4UTfvxcS) | 4:03 |
 | 55 | [TALK TALK](https://open.spotify.com/track/4XtuGMMCtBT4TqNy1XfJHK) | [PINKNOISE](https://open.spotify.com/artist/2USllv850CGVjxqji1jxcd) | [TALK TALK](https://open.spotify.com/album/3obBXBc1KbiJDQQSg922HU) | 3:31 |
 
-Snapshot ID: `AAAAAPA/LmQQR+uSOrpyLAIHGRE5cih8`
+Snapshot ID: `AAAAAE+ueoto4r94TX4YzA7BMMvWh1Bj`

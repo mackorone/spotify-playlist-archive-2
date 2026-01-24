@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-109 songs - 7 hr 9 min
+110 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Medo](https://open.spotify.com/track/1Pzo6BtYmAvLYo4yyCZBgd) | [Journey to Equilibrium](https://open.spotify.com/artist/7EFpZ2zSH7KTR1PtOIgpjT) | [An Open Window](https://open.spotify.com/album/0ytewcDY7woiqooEiKMt5a) | 4:42 | 2025-11-24 |  |
 | [Meet me tomorrow right here](https://open.spotify.com/track/32OiHXGmtRTR5sSDuknMV2) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [Cultural Static](https://open.spotify.com/album/4ZidajWJsxbkvrKcK95Jbx) | 4:47 | 2025-11-04 | 2025-12-08 |
 | [Message Through Time](https://open.spotify.com/track/4BPrHDgqGxnWANdMphAbNQ) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Message Through Time](https://open.spotify.com/album/45LoKgIdcZiDUrx7V5HbuC) | 5:21 | 2025-11-04 | 2025-12-08 |
+| [My Black Cat](https://open.spotify.com/track/1W7tQ70CJsbIpS0jTERKdM) | [Nukehole](https://open.spotify.com/artist/68Qg8Ukjg5zs3PimhwUBKZ) | [My Black Cat](https://open.spotify.com/album/49uQEZJ4QJxkN5dUQ49AZ2) | 3:57 | 2026-01-23 |  |
 | [Naive](https://open.spotify.com/track/1pwJ5C8Zk7nJOPWp1TaTho) | [Chuck Mullen](https://open.spotify.com/artist/341qXStb1CSIdiK1Mn8sWO) | [Naive](https://open.spotify.com/album/4tPRMAuDEMULUguQjnCjjc) | 3:45 | 2025-11-04 | 2025-12-08 |
 | [Night Crawls](https://open.spotify.com/track/1nhRmnr2vlqzE6B1rqChJx) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz), [Sick Century](https://open.spotify.com/artist/59hC0TFyMDFOLBEpYcsgFZ) | [Mort D'Amour](https://open.spotify.com/album/73CPs6sCPgCBSyIZolAaSc) | 2:40 | 2025-11-04 | 2025-12-08 |
 | [Old Ancient Tree](https://open.spotify.com/track/6ZI4Ucss1ZhgVrQRcnfjO3) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 4:20 | 2025-12-17 |  |

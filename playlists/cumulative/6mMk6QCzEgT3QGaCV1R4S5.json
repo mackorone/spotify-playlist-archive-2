@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
+    },
+    {
+      "album": {
         "name": "BAD (feat. Discrete & Alex Hosking)",
         "url": "https://open.spotify.com/album/7nFNFPoVFpbuFFZRIwOimj"
       },
@@ -1890,7 +1908,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 378857,
       "name": "Give It Up for Me - deadmau5 Remix",
       "url": "https://open.spotify.com/track/2x37fnWK7aoxObPkTX1OK2"
@@ -4453,6 +4471,36 @@
     },
     {
       "album": {
+        "name": "Only Human (MPH Remix)",
+        "url": "https://open.spotify.com/album/3NxHT2iJHRMYenPLvmjYRA"
+      },
+      "artists": [
+        {
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261333,
+      "name": "Only Human - MPH Remix",
+      "url": "https://open.spotify.com/track/6s0XiiD5NE5MetCoOVY0yM"
+    },
+    {
+      "album": {
         "name": "Over You (VIP Mix)",
         "url": "https://open.spotify.com/album/2GJPuc0Cq7tDvPyhxW40Nl"
       },
@@ -4504,7 +4552,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 209454,
       "name": "Pin Drop",
       "url": "https://open.spotify.com/track/7MsNozqE0oNih7sKNVuPsJ"
@@ -4740,7 +4788,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 161841,
       "name": "Pray (feat. Jazzi Sirius)",
       "url": "https://open.spotify.com/track/6p01TrnodGu9pCPlIJN7aK"
@@ -5994,7 +6042,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 395993,
       "name": "Tout le monde est fou - Club version",
       "url": "https://open.spotify.com/track/1LIl33nypV0BZhHVUZ6dEU"

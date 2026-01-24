@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 221583,
+  "num_followers": 221599,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Stronger (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Stronger (What Doesn't Kill You)",
-      "url": "https://open.spotify.com/track/1nInOsHbtotAmEOQhtvnzP"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
         "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 347525,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/4m0q0xQ2BNl9SCAGKyfiGZ"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "Stronger (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Stronger (What Doesn't Kill You)",
+      "url": "https://open.spotify.com/track/1nInOsHbtotAmEOQhtvnzP"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Walking The Wire",
-      "url": "https://open.spotify.com/track/1y3bE5i57eUm3hfLAc7h08"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "A Brief Inquiry Into Online Relationships",
         "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 248335,
       "name": "It's Not Living (If It's Not With You)",
       "url": "https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "Walking The Wire",
+      "url": "https://open.spotify.com/track/1y3bE5i57eUm3hfLAc7h08"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
         }
       ],
-      "duration_ms": 218840,
-      "name": "Sovereign Light Caf\u00e9",
-      "url": "https://open.spotify.com/track/4QRkCwqwHFaZ7xeoR9CHL6"
+      "duration_ms": 196466,
+      "name": "Silenced By The Night",
+      "url": "https://open.spotify.com/track/0BhGZmaQ1SET53qGkGvwxD"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
         }
       ],
-      "duration_ms": 196466,
-      "name": "Silenced By The Night",
-      "url": "https://open.spotify.com/track/0BhGZmaQ1SET53qGkGvwxD"
+      "duration_ms": 218840,
+      "name": "Sovereign Light Caf\u00e9",
+      "url": "https://open.spotify.com/track/4QRkCwqwHFaZ7xeoR9CHL6"
     },
     {
       "added_at": "2024-07-05 23:46:34",

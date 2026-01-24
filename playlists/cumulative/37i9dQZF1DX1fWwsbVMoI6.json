@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 263419,
       "name": "Algo de Mi",
       "url": "https://open.spotify.com/track/1BPtafg3QTReiTZlz4Lhix"
@@ -202,7 +202,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 171502,
       "name": "Angelito",
       "url": "https://open.spotify.com/track/71ObvTyyeJyN10r4JVc3ur"
@@ -420,7 +420,7 @@
           "url": "https://open.spotify.com/artist/3czJg4rK6iHdgBmjS1MiCA"
         },
         {
-          "name": "Hnos Yaipen",
+          "name": "Hnos Yaip\u00e9n",
           "url": "https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg"
         },
         {
@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 162805,
       "name": "Empecemos De Cero",
       "url": "https://open.spotify.com/track/4OAfookZMEsWpZnXS1rLpN"
@@ -1680,7 +1680,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 297798,
       "name": "Mix Rocio Durcal: La Gata Bajo la Lluvia / Como Han Pasado los A\u00f1os / Costumbres",
       "url": "https://open.spotify.com/track/5Vube3wJSuVrzTntOpCp2Y"
@@ -2095,6 +2095,24 @@
     },
     {
       "album": {
+        "name": "Pidiendo perd\u00f3n",
+        "url": "https://open.spotify.com/album/1z3p0PQHLiiRo1gP9yrdtS"
+      },
+      "artists": [
+        {
+          "name": "Coraz\u00f3n Serrano",
+          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197098,
+      "name": "Pidiendo perd\u00f3n",
+      "url": "https://open.spotify.com/track/5ANrUD8Sl6rwq11zBygjZ6"
+    },
+    {
+      "album": {
         "name": "Porque un Hombre No Llora",
         "url": "https://open.spotify.com/album/5yuZLJjoc41D8Di7y2nlbW"
       },
@@ -2268,7 +2286,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 240848,
       "name": "Sacude el Billete",
       "url": "https://open.spotify.com/track/5sJHdbckrzXFABt9KqBTXa"
@@ -2326,6 +2344,28 @@
       "duration_ms": 224104,
       "name": "Si Esta Casa Hablara",
       "url": "https://open.spotify.com/track/7aLA9WPyVfmB3WeciQ6Fb3"
+    },
+    {
+      "album": {
+        "name": "Si Estuvieras Aqu\u00ed",
+        "url": "https://open.spotify.com/album/5D52xaMHzqCROFT6fHZbiz"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Medina",
+          "url": "https://open.spotify.com/artist/2QUO2NrRwGIaC1MLnzbfIh"
+        },
+        {
+          "name": "Pipe Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/50TqpjP2iRI4hR1wCfVj3w"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203462,
+      "name": "Si Estuvieras Aqu\u00ed",
+      "url": "https://open.spotify.com/track/1ZthdulxOUHCiPtPs8UIDB"
     },
     {
       "album": {
@@ -2610,7 +2650,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 358773,
       "name": "Te Juro Que Te Amo",
       "url": "https://open.spotify.com/track/2yCpEZSEC0iw94ORV8qkdU"
@@ -2896,7 +2936,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-12",
+      "date_removed": null,
       "duration_ms": 231140,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/4VbnD5S1tZrJnlXBQZFiSZ"
@@ -2994,7 +3034,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 195855,
       "name": "VUELVE CORAZ\u00d3N \u2661",
       "url": "https://open.spotify.com/track/7eMLIzWfgXeeUBQuQija9W"

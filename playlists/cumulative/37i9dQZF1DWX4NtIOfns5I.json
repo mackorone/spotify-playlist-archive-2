@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-07",
-  "description": "jana horn on the cover",
+  "description": "truman sinclair on \ud83d\udd01",
   "name": "juniper",
   "tracks": [
     {
@@ -572,7 +572,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 222000,
       "name": "Apples",
       "url": "https://open.spotify.com/track/14rIlyTo7ZRzgIDbzhmK2b"
@@ -828,7 +828,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 362880,
       "name": "Believer",
       "url": "https://open.spotify.com/track/6gLOkCljeiC4m4bJj6BT8l"
@@ -1851,6 +1851,24 @@
     },
     {
       "album": {
+        "name": "Spinstress",
+        "url": "https://open.spotify.com/album/4lpztYt1njS5iSxRdxKflE"
+      },
+      "artists": [
+        {
+          "name": "Ruby Plume",
+          "url": "https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186306,
+      "name": "Cobalt Blue",
+      "url": "https://open.spotify.com/track/1bl4k2cDh1E6MVz1b2uUEB"
+    },
+    {
+      "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj"
       },
@@ -2138,7 +2156,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 179014,
       "name": "Crying in the Night",
       "url": "https://open.spotify.com/track/39EnwJiZJ9q3hqcnKaJwlB"
@@ -2848,7 +2866,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 238986,
       "name": "Drug Dealer",
       "url": "https://open.spotify.com/track/29DPlF67ReoJrdJCP6r0pL"
@@ -2888,6 +2906,24 @@
       "duration_ms": 386846,
       "name": "Dust Bowl",
       "url": "https://open.spotify.com/track/7aamc4vRYmHLYI2aKTDjdJ"
+    },
+    {
+      "album": {
+        "name": "Rivers of Sugar and Blood",
+        "url": "https://open.spotify.com/album/13erMRMbkhT3hUvDB4VZXy"
+      },
+      "artists": [
+        {
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231885,
+      "name": "dust to dust",
+      "url": "https://open.spotify.com/track/4R8sxtsSWWGm0DZw6CHtCt"
     },
     {
       "album": {
@@ -2956,7 +2992,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 215506,
       "name": "Elderberry Wine",
       "url": "https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5"
@@ -3246,7 +3282,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 208211,
       "name": "Expiration Date (feat. Jack Van Cleaf)",
       "url": "https://open.spotify.com/track/4x4aiawArElpgBhp0j7JxF"
@@ -3859,6 +3895,24 @@
     },
     {
       "album": {
+        "name": "Death in the Business of Whaling",
+        "url": "https://open.spotify.com/album/5bqWbWR0tokA3hQio9h5cl"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221240,
+      "name": "Geese",
+      "url": "https://open.spotify.com/track/1S8EiawyV6O11rtcCfcxgN"
+    },
+    {
+      "album": {
         "name": "if i'm honest for once",
         "url": "https://open.spotify.com/album/1KO7Ww4aCb59EumfKV2BhM"
       },
@@ -4188,7 +4242,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 208561,
       "name": "Got a New Car",
       "url": "https://open.spotify.com/track/3bZbwMBxNtGdQFVnOCkXIu"
@@ -4826,7 +4880,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 277951,
       "name": "Hotel TV",
       "url": "https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv"
@@ -5176,7 +5230,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 264664,
       "name": "I Saw The Mountains",
       "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
@@ -5270,7 +5324,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 127888,
       "name": "I Wasn\u2019t There",
       "url": "https://open.spotify.com/track/36GforftaCASOR8kBnhqN8"
@@ -5624,7 +5678,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 179900,
       "name": "In The Middle",
       "url": "https://open.spotify.com/track/3nmvNpobyMN4Ggw7tYcqSF"
@@ -5902,6 +5956,24 @@
       "duration_ms": 251840,
       "name": "Joel Roberts",
       "url": "https://open.spotify.com/track/4af6mAA3OSyIQy3XUq6nwa"
+    },
+    {
+      "album": {
+        "name": "Joy and Despair",
+        "url": "https://open.spotify.com/album/3PGbpvjDxnIdiTLbfcNYJy"
+      },
+      "artists": [
+        {
+          "name": "Charlie Noordewier",
+          "url": "https://open.spotify.com/artist/0SDfEluak7Z8ML7o1K2Ljk"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240451,
+      "name": "Joy and Despair",
+      "url": "https://open.spotify.com/track/1viACvU6BoSNO0VEziw9QT"
     },
     {
       "album": {
@@ -6558,7 +6630,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 145146,
       "name": "Madeline (feat. Gabriella Rose)",
       "url": "https://open.spotify.com/track/2DDo2QqElDO9PgOHeGtQiy"
@@ -6756,7 +6828,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 231238,
       "name": "Mess In Your Eyes",
       "url": "https://open.spotify.com/track/4MD6izirfGgKzISrvAQToR"
@@ -6976,7 +7048,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 165128,
       "name": "morning song",
       "url": "https://open.spotify.com/track/38HtjikpdWQqfJkJdDONi9"
@@ -7012,7 +7084,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 303902,
       "name": "Moth Song",
       "url": "https://open.spotify.com/track/53PW8uGXjGBzBRgLs18wh6"
@@ -7340,7 +7412,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 229994,
       "name": "my secret",
       "url": "https://open.spotify.com/track/26SfhJogAvHRd3sLsPLSmB"
@@ -7574,7 +7646,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 230769,
       "name": "Next To Me",
       "url": "https://open.spotify.com/track/49x1GZ66GEXQkdXD8Bc7LR"
@@ -7610,7 +7682,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 218833,
       "name": "NMBD",
       "url": "https://open.spotify.com/track/6nM9ba4bhiRSvXUdpQ3JtH"
@@ -7664,7 +7736,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 224098,
       "name": "No Sudden Changes",
       "url": "https://open.spotify.com/track/29uDIxqSTN3NVNjmU6w6Dz"
@@ -8014,7 +8086,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 278213,
       "name": "Oneida",
       "url": "https://open.spotify.com/track/6ErexmQQfnMtIbFoejTK1x"
@@ -8516,7 +8588,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 258976,
       "name": "Power",
       "url": "https://open.spotify.com/track/5YORFuC8yrRwlNvVVGhho8"
@@ -9198,7 +9270,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 222826,
       "name": "Sailor Song (First Draft 4.29.24)",
       "url": "https://open.spotify.com/track/1gJLJgKRWjtaFMxwdeyfVc"
@@ -9216,7 +9288,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 496296,
       "name": "Salt n' Lime",
       "url": "https://open.spotify.com/track/4JkjG6bAOrpY8AgTSfoNkD"
@@ -9544,7 +9616,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 300000,
       "name": "Sidewinder",
       "url": "https://open.spotify.com/track/6omZ70eLDHV7b49sCWGIaC"
@@ -10190,7 +10262,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 133333,
       "name": "Stranger in You",
       "url": "https://open.spotify.com/track/79Qm6tKu2Min009TnLBiog"
@@ -10208,7 +10280,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 272414,
       "name": "Strangest Feeling",
       "url": "https://open.spotify.com/track/4ppKxtET7NORgNGxMCXY6a"
@@ -10467,7 +10539,7 @@
     },
     {
       "album": {
-        "name": "Swim Between Trees (Eleni Drake Version)",
+        "name": "Swim Between Trees (Reimagined)",
         "url": "https://open.spotify.com/album/1rOmQ5jqLEEKwI3yQ35wS4"
       },
       "artists": [
@@ -10484,7 +10556,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 221020,
-      "name": "Swim Between Trees (Eleni Drake Version)",
+      "name": "Swim Between Trees (Reimagined)",
       "url": "https://open.spotify.com/track/0NMgsLGFCjLIxjq9N8IVYI"
     },
     {
@@ -10518,7 +10590,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 156053,
       "name": "Talk About",
       "url": "https://open.spotify.com/track/7fVpU3cHlWW40QtoF8Qr5R"
@@ -10554,7 +10626,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 179665,
       "name": "ten years time",
       "url": "https://open.spotify.com/track/3zwOqHFnMOFP5BWZAL4Cxn"
@@ -10818,7 +10890,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 216964,
       "name": "The Hudson",
       "url": "https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm"
@@ -11352,7 +11424,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 146949,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/3xXpLxoBD0x5QglLcRrBto"
@@ -11458,6 +11530,24 @@
       "duration_ms": 296333,
       "name": "True Blue",
       "url": "https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX"
+    },
+    {
+      "album": {
+        "name": "1990",
+        "url": "https://open.spotify.com/album/3puh4gwTuQFlPTZaEezmqa"
+      },
+      "artists": [
+        {
+          "name": "Daniel Johnston",
+          "url": "https://open.spotify.com/artist/1jeYbk5eqo6wgsQPjLeU5w"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111170,
+      "name": "True Love Will Find You in the End",
+      "url": "https://open.spotify.com/track/6fEjOPaZoxQl3oha9GDJAN"
     },
     {
       "album": {
@@ -11872,7 +11962,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 186987,
       "name": "Watch Me Go",
       "url": "https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz"

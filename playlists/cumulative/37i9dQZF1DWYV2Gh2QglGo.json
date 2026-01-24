@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Tenille Townes",
+  "description": "The home of Canadian country music. Cover: Kalsey Kulyk",
   "name": "North Country",
   "tracks": [
     {
@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Almost Alright",
+        "url": "https://open.spotify.com/album/2ivi9hRX6TJsZeZveVYlqF"
+      },
+      "artists": [
+        {
+          "name": "Spencer Burns",
+          "url": "https://open.spotify.com/artist/4NmjSQ0m4Z3vtiz08n2o08"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189583,
+      "name": "Almost Alright",
+      "url": "https://open.spotify.com/track/4AtuIdWryzF1oo9ycRbJ8S"
+    },
+    {
+      "album": {
         "name": "Along for the Ride",
         "url": "https://open.spotify.com/album/2mo0bKqYpbcofn8lRaFx7U"
       },
@@ -258,7 +276,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 180188,
       "name": "Along for the Ride",
       "url": "https://open.spotify.com/track/1J8iR4bAww6TtmRmzqe9Si"
@@ -1356,7 +1374,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 176142,
       "name": "Coming Down",
       "url": "https://open.spotify.com/track/5BhUZKTqVDQWEZS4d62zeJ"
@@ -1486,7 +1504,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 239941,
       "name": "Country Thing",
       "url": "https://open.spotify.com/track/7lSeEV7DSG5OmwsaRIikW7"
@@ -1508,6 +1526,24 @@
       "duration_ms": 231162,
       "name": "County Line Five",
       "url": "https://open.spotify.com/track/7yHXIuyIbrcvFGylu1xaqH"
+    },
+    {
+      "album": {
+        "name": "Cowboy Crazy",
+        "url": "https://open.spotify.com/album/6iCqqjiTUNmEo2Lgj2OEs1"
+      },
+      "artists": [
+        {
+          "name": "Kalsey Kulyk",
+          "url": "https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183813,
+      "name": "Cowboy Crazy",
+      "url": "https://open.spotify.com/track/2QJtrLjUVj2u08DElIBr3r"
     },
     {
       "album": {
@@ -2193,6 +2229,24 @@
     },
     {
       "album": {
+        "name": "414 EAST IRIS DRIVE",
+        "url": "https://open.spotify.com/album/2WGc61bCvGjZKCkOEa0Pz7"
+      },
+      "artists": [
+        {
+          "name": "Clement Jacques",
+          "url": "https://open.spotify.com/artist/14nCwwni6uqZyDrhqRmwSM"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194640,
+      "name": "END OF THE LINE",
+      "url": "https://open.spotify.com/track/33u5l8opT7NXk0y62piOEv"
+    },
+    {
+      "album": {
         "name": "Horse Soldier! Horse Soldier! (Dark Horse Edition)",
         "url": "https://open.spotify.com/album/6wr4NvzNS05jqbx2WEgkl2"
       },
@@ -2204,7 +2258,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 174967,
       "name": "Especially a Paint - Dark Horse Acoustic",
       "url": "https://open.spotify.com/track/6ZuKLsikgjxC0YHon3tnA1"
@@ -3035,6 +3089,24 @@
     },
     {
       "album": {
+        "name": "Half Hearted",
+        "url": "https://open.spotify.com/album/5xiYfE43Czli5iC0QVF6eU"
+      },
+      "artists": [
+        {
+          "name": "Angelica Appelman",
+          "url": "https://open.spotify.com/artist/5MP0qg1tME82lHjl75bmfM"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181273,
+      "name": "Half Hearted",
+      "url": "https://open.spotify.com/track/7sZkWXjTJYjzeZj9DVLmOV"
+    },
+    {
+      "album": {
         "name": "Halfway",
         "url": "https://open.spotify.com/album/3y6XWLi6AnYqkdOhopkLe3"
       },
@@ -3170,7 +3242,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 228951,
       "name": "He's Mine",
       "url": "https://open.spotify.com/track/60LKaC9TqYaiIuTkxcaCMy"
@@ -3300,7 +3372,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 194577,
       "name": "Heartstrings",
       "url": "https://open.spotify.com/track/66Cpzj9S9v81c83kTh2HHe"
@@ -3900,7 +3972,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 201417,
       "name": "I Hope You Know",
       "url": "https://open.spotify.com/track/1DKXdNUjeZoIO59jwunAz3"
@@ -4116,7 +4188,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 152915,
       "name": "I'm Leavin' You",
       "url": "https://open.spotify.com/track/6PUQOqhQVjchu5iqsMTVEX"
@@ -4174,6 +4246,24 @@
       "duration_ms": 171228,
       "name": "If I Drink Enough",
       "url": "https://open.spotify.com/track/7A3zDyl2Gse2nm4cMq2Swm"
+    },
+    {
+      "album": {
+        "name": "If I\u2019m Being Honest",
+        "url": "https://open.spotify.com/album/5L5oi3u8tufpJI0quqzauR"
+      },
+      "artists": [
+        {
+          "name": "Dylan Burk",
+          "url": "https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "If I\u2019m Being Honest",
+      "url": "https://open.spotify.com/track/2ETyJpJZg64ap9pdg8UiKM"
     },
     {
       "album": {
@@ -4372,7 +4462,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 235693,
       "name": "King of the Bar",
       "url": "https://open.spotify.com/track/3YPDDkeiN7m1goTrCpXxjD"
@@ -4466,7 +4556,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 162333,
       "name": "Later Tonight",
       "url": "https://open.spotify.com/track/0y1ck7CTQGlC2pLz8GM0S7"
@@ -5648,7 +5738,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 198878,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/4vYtvEe6R8PBJ7XQobWZ7N"
@@ -6235,6 +6325,24 @@
     },
     {
       "album": {
+        "name": "Paradise & Hurricanes",
+        "url": "https://open.spotify.com/album/4lQm9HsGgLRuqNHiZavkj8"
+      },
+      "artists": [
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180102,
+      "name": "Paradise & Hurricanes",
+      "url": "https://open.spotify.com/track/3Ke1H3yXStzd29Mz0xK5vM"
+    },
+    {
+      "album": {
         "name": "Starting Over",
         "url": "https://open.spotify.com/album/5jS1UDnigkwwbwB9T6l470"
       },
@@ -6264,7 +6372,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 187119,
       "name": "Phone Call From Home",
       "url": "https://open.spotify.com/track/5kCcDjNlnxtW4ifsds3Fyf"
@@ -6518,6 +6626,24 @@
       "duration_ms": 161285,
       "name": "Quitter",
       "url": "https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw"
+    },
+    {
+      "album": {
+        "name": "Quittin' you",
+        "url": "https://open.spotify.com/album/1j7XDKAWGtUlToULDkcFbL"
+      },
+      "artists": [
+        {
+          "name": "Flaysher",
+          "url": "https://open.spotify.com/artist/5k9kGNpX4gbXMBZmlwd1ST"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207547,
+      "name": "Quittin' you",
+      "url": "https://open.spotify.com/track/4EkMstq9AYcjX6GCScaSBB"
     },
     {
       "album": {
@@ -7264,7 +7390,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 179063,
       "name": "Smokin\u2019 Gun",
       "url": "https://open.spotify.com/track/2aleKd3JEeQiXUmQDsNMq5"
@@ -7444,7 +7570,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 192309,
       "name": "Somethin' Bout a Honky Tonk",
       "url": "https://open.spotify.com/track/2dmSdje8j9IL1wnGJ8J2sm"
@@ -7588,7 +7714,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 206684,
       "name": "Space",
       "url": "https://open.spotify.com/track/1Ykta2tKZCE7crfIZ85IBi"
@@ -8028,7 +8154,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 162962,
       "name": "The Hard Way",
       "url": "https://open.spotify.com/track/6guJdCiBdsLLo3fgAG8Utf"
@@ -8144,7 +8270,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 185300,
       "name": "There's This Girl",
       "url": "https://open.spotify.com/track/0EtYJph9KE2glbGhHGwrkY"
@@ -8238,6 +8364,24 @@
       "duration_ms": 294253,
       "name": "This Ol' Way",
       "url": "https://open.spotify.com/track/5FsnLRPoRGzGzRjRdmRP6q"
+    },
+    {
+      "album": {
+        "name": "Thought About You",
+        "url": "https://open.spotify.com/album/4yk2w4x41gsrJC1b0jmJB4"
+      },
+      "artists": [
+        {
+          "name": "Nate Haller",
+          "url": "https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204922,
+      "name": "Thought About You",
+      "url": "https://open.spotify.com/track/2qYDfRv9ESW4mw4XNwQDiD"
     },
     {
       "album": {
@@ -9014,7 +9158,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 177123,
       "name": "When It's Time To Go",
       "url": "https://open.spotify.com/track/1q7nRL9I1IBNSISTb2XzBC"
@@ -9036,6 +9180,24 @@
       "duration_ms": 208379,
       "name": "When the Devil Whispers",
       "url": "https://open.spotify.com/track/5rPwVC9h7mdEedFMSFtGll"
+    },
+    {
+      "album": {
+        "name": "When We Die",
+        "url": "https://open.spotify.com/album/27VT8vDUyhEyl7WuOIsqQm"
+      },
+      "artists": [
+        {
+          "name": "Dawson Gray",
+          "url": "https://open.spotify.com/artist/5ZvAlu11UW8s9EpUDlE5DA"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189102,
+      "name": "When We Die",
+      "url": "https://open.spotify.com/track/56NwNT9HF8iUCbFAUMe8T2"
     },
     {
       "album": {
@@ -9140,7 +9302,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 192820,
       "name": "Whiskey River",
       "url": "https://open.spotify.com/track/3iwSRiNL201q6TMaFoKc4C"
@@ -9614,7 +9776,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 204053,
       "name": "\u00c0 contre-sens",
       "url": "https://open.spotify.com/track/4HCqSBVpd83ZcekvjuMbVc"

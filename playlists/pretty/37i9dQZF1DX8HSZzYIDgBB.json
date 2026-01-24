@@ -1,6 +1,6 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Yandel y LATIN MAFIA en portada.",
-  "num_followers": 39986,
+  "num_followers": 39990,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2026-01-16 06:00:20",
       "album": {
+        "name": "TANRiCO",
+        "url": "https://open.spotify.com/album/4pKxNlIWcgUYljoJiCIqRb"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        }
+      ],
+      "duration_ms": 179191,
+      "name": "TANRiCO",
+      "url": "https://open.spotify.com/track/6zHG7SW5ZfwcsaAEusL7sy"
+    },
+    {
+      "added_at": "2026-01-16 06:00:20",
+      "album": {
         "name": "Tinta y Tiempo",
         "url": "https://open.spotify.com/album/7drLytofGXezhYswIuCGHu"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 184475,
       "name": "\u00a1Oh, Algoritmo! (feat. Noga Erez)",
       "url": "https://open.spotify.com/track/5HAjAcrI1mrA1PlhKHXJ0v"
-    },
-    {
-      "added_at": "2026-01-16 06:00:20",
-      "album": {
-        "name": "TANRiCO",
-        "url": "https://open.spotify.com/album/4pKxNlIWcgUYljoJiCIqRb"
-      },
-      "artists": [
-        {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
-        }
-      ],
-      "duration_ms": 179191,
-      "name": "TANRiCO",
-      "url": "https://open.spotify.com/track/6zHG7SW5ZfwcsaAEusL7sy"
     },
     {
       "added_at": "2026-01-16 06:00:20",

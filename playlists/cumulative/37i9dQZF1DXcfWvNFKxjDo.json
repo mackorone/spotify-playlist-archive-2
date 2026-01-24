@@ -2194,6 +2194,24 @@
     {
       "album": {
         "name": "Addicted",
+        "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163384,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ"
+    },
+    {
+      "album": {
+        "name": "Addicted",
         "url": "https://open.spotify.com/album/3QDUywCVdAQhSm08Qz770r"
       },
       "artists": [
@@ -29477,6 +29495,28 @@
     },
     {
       "album": {
+        "name": "Erkl\u00e4re mir die Liebe",
+        "url": "https://open.spotify.com/album/0jtSnVkqL6WRPKjpG5wKQI"
+      },
+      "artists": [
+        {
+          "name": "Chrissyjeey",
+          "url": "https://open.spotify.com/artist/4t1OwXCd8p5VD9DEqsbOjJ"
+        },
+        {
+          "name": "Lea Marie",
+          "url": "https://open.spotify.com/artist/5XIF2l3hXty0qWMNR58Bqk"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "Erkl\u00e4re mir die Liebe",
+      "url": "https://open.spotify.com/track/2kGMz4gdfrAmZ1H6jR2li8"
+    },
+    {
+      "album": {
         "name": "Erwischt",
         "url": "https://open.spotify.com/album/2ciRsTLrxD9QfVEQ73Nj8m"
       },
@@ -46301,8 +46341,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "THE CORE - \u6838",
+        "url": "https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw"
       },
       "artists": [
         {
@@ -64178,6 +64218,10 @@
         {
           "name": "Dimitri Vegas",
           "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
         }
       ],
       "date_added": "2026-01-22",
@@ -77679,6 +77723,28 @@
     },
     {
       "album": {
+        "name": "FAST LANE EP",
+        "url": "https://open.spotify.com/album/26NWSSJ7uFULMLj0YKAwdB"
+      },
+      "artists": [
+        {
+          "name": "240 KM/H",
+          "url": "https://open.spotify.com/artist/6sP8BgPjledPTxx2YJkliQ"
+        },
+        {
+          "name": "K\u00f8:lab",
+          "url": "https://open.spotify.com/artist/14HsByUX40hG0DvFDVT8pa"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199720,
+      "name": "PACKS",
+      "url": "https://open.spotify.com/track/3418oOr3jVq1miS6BUDFCd"
+    },
+    {
+      "album": {
         "name": "Pagaia",
         "url": "https://open.spotify.com/album/19XagvskmJR5KIVdrNiVew"
       },
@@ -87727,7 +87793,7 @@
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 243809,
+      "duration_ms": 226666,
       "name": "scared",
       "url": "https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB"
     },
@@ -88515,7 +88581,7 @@
         },
         {
           "name": "The Teenagers",
-          "url": "https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4"
+          "url": "https://open.spotify.com/artist/6EU3ei9Aim1yaX6hTJrjXE"
         }
       ],
       "date_added": "2026-01-22",
@@ -97155,7 +97221,7 @@
         },
         {
           "name": "ALMA",
-          "url": "https://open.spotify.com/artist/46fkqCa9zKP7VDYub9GY7W"
+          "url": "https://open.spotify.com/artist/1B7cXxCiF8Je72dc2XTt6M"
         }
       ],
       "date_added": "2026-01-22",
@@ -104602,24 +104668,6 @@
       "duration_ms": 139208,
       "name": "Toxic Love",
       "url": "https://open.spotify.com/track/6hhozx8Q4NzUCXv5iztTXu"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "240 KM/H",
-          "url": "https://open.spotify.com/artist/6sP8BgPjledPTxx2YJkliQ"
-        }
-      ],
-      "date_added": "2026-01-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/3418oOr3jVq1miS6BUDFCd"
     },
     {
       "album": {

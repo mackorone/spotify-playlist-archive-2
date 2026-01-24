@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Trending for a reason - the home of country's future monster hits. Cover: Ella Langley",
+  "description": "Trending for a reason - the home of country's future monster hits. Cover: Parker McCollum",
   "name": "Breakout Country",
   "tracks": [
     {
@@ -1057,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "Big Ole Fancy House",
+        "url": "https://open.spotify.com/album/0T1po3gtIUONgzpdM2BRYG"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243506,
+      "name": "Big Ole Fancy House",
+      "url": "https://open.spotify.com/track/2O6518EoFdYebARB4PCEjH"
+    },
+    {
+      "album": {
         "name": "Big Sky",
         "url": "https://open.spotify.com/album/4sbFij3rJCbuzDUbGiOlae"
       },
@@ -1242,7 +1260,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 215720,
       "name": "Bowery (feat. Kings of Leon)",
       "url": "https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H"
@@ -2538,7 +2556,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 133560,
       "name": "DON'T WANNA GO HOME",
       "url": "https://open.spotify.com/track/3ZuIruaanYV4SRdVM9cLUM"
@@ -4207,6 +4225,24 @@
     },
     {
       "album": {
+        "name": "Holdin' It Down",
+        "url": "https://open.spotify.com/album/6DNwBVF6UtVCoyeUplKVfy"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162608,
+      "name": "Holdin' It Down",
+      "url": "https://open.spotify.com/track/3tkfOtsySCFzQkNZSWOYcP"
+    },
+    {
+      "album": {
         "name": "Holding On",
         "url": "https://open.spotify.com/album/5PUFR2sBnMOdRAoM5jDQN0"
       },
@@ -5685,6 +5721,24 @@
     },
     {
       "album": {
+        "name": "Exclusive",
+        "url": "https://open.spotify.com/album/5oZYFsqM43tL6ZCrkpbvux"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188652,
+      "name": "LMWYL",
+      "url": "https://open.spotify.com/track/0KtNkUt8YNIR7VuVJYlNOt"
+    },
+    {
+      "album": {
         "name": "Lonely Road (with Jelly Roll)",
         "url": "https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww"
       },
@@ -6325,6 +6379,24 @@
     },
     {
       "album": {
+        "name": "Message to You",
+        "url": "https://open.spotify.com/album/7ki0RbD7gen6uL67N6Baqo"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217422,
+      "name": "Message to You",
+      "url": "https://open.spotify.com/track/00asEdGggYrPYfLbDRI6HE"
+    },
+    {
+      "album": {
         "name": "I\u2019m The Problem",
         "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
       },
@@ -6770,6 +6842,24 @@
       "duration_ms": 179189,
       "name": "Never Been in Love",
       "url": "https://open.spotify.com/track/4SACHtzLlcNaUKGYC9oX30"
+    },
+    {
+      "album": {
+        "name": "Never Comin' Back",
+        "url": "https://open.spotify.com/album/3gPZkCBz8sGb9OQhgSrh36"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237679,
+      "name": "Never Comin' Back",
+      "url": "https://open.spotify.com/track/1wQaPoRJ0Ip6MtNxTlA3SY"
     },
     {
       "album": {
@@ -7316,7 +7406,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 229371,
       "name": "Only Bible",
       "url": "https://open.spotify.com/track/6tt12axiCiK6oQ3Wxb1Oie"
@@ -7656,7 +7746,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 180952,
       "name": "Pretty Privilege",
       "url": "https://open.spotify.com/track/1kp5sCsdZVCu1dgaLqWyl9"
@@ -9812,7 +9902,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 261678,
       "name": "Through a Screen",
       "url": "https://open.spotify.com/track/5Dx0aVPJlZk7Pdfe5pkkGC"

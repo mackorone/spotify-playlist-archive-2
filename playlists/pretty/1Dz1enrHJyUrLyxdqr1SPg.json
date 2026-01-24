@@ -6,7 +6,7 @@
     "name": "enilsounds",
     "url": "https://open.spotify.com/user/enilsounds"
   },
-  "snapshot_id": "AABiz3rP8EkEPCJSwKupgqQgDpCQO9PY",
+  "snapshot_id": "AABi0XuKawjHXvzDObUJyhYZAE1867J2",
   "tracks": [
     {
       "added_at": "2025-12-31 21:00:26",
@@ -23,6 +23,22 @@
       "duration_ms": 176458,
       "name": "Snowflakes - Instrumental",
       "url": "https://open.spotify.com/track/4bPCI4sai8rIPE5DFON9js"
+    },
+    {
+      "added_at": "2026-01-23 17:20:13",
+      "album": {
+        "name": "Johnny B. Goode",
+        "url": "https://open.spotify.com/album/700CeLKBGmOGKQSqnPUwQc"
+      },
+      "artists": [
+        {
+          "name": "Florin Gindu",
+          "url": "https://open.spotify.com/artist/7tK6mIokWaz9Awj8pc2c2k"
+        }
+      ],
+      "duration_ms": 100744,
+      "name": "Johnny B. Goode",
+      "url": "https://open.spotify.com/track/1vphpGv0azYXh4yk4vDJdh"
     },
     {
       "added_at": "2025-11-15 16:47:00",

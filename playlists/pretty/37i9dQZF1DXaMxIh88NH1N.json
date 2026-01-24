@@ -1,6 +1,6 @@
 {
   "description": "Al mil para entrenar sin parar.",
-  "num_followers": 213936,
+  "num_followers": 213995,
   "original_name": "Modo: Al Mil",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,26 @@
     {
       "added_at": "2026-01-19 08:27:42",
       "album": {
+        "name": "La Morrita",
+        "url": "https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 154951,
+      "name": "La Morrita",
+      "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
+    },
+    {
+      "added_at": "2026-01-19 08:27:42",
+      "album": {
         "name": "LUZ VERDE",
         "url": "https://open.spotify.com/album/1tjHX8YzndYoSwLOxtU62f"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 170435,
       "name": "\u00c1lbum JGL",
       "url": "https://open.spotify.com/track/7wQMaZgnqNolW1ATTUW1mq"
-    },
-    {
-      "added_at": "2026-01-19 08:27:42",
-      "album": {
-        "name": "La Morrita",
-        "url": "https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 154951,
-      "name": "La Morrita",
-      "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
     },
     {
       "added_at": "2026-01-19 08:27:42",
@@ -751,6 +751,26 @@
     {
       "added_at": "2026-01-19 08:27:42",
       "album": {
+        "name": "TU TU TU",
+        "url": "https://open.spotify.com/album/4WkJSoeofaut2WwjCfa6p0"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 151570,
+      "name": "TU TU TU",
+      "url": "https://open.spotify.com/track/5sK3SqHia7p5dXjdq1dluB"
+    },
+    {
+      "added_at": "2026-01-19 08:27:42",
+      "album": {
         "name": "MI PROPIO JEFE",
         "url": "https://open.spotify.com/album/5Q96Bhm78ErbMWEl1mJmWh"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 210923,
       "name": "MI PROPIO JEFE",
       "url": "https://open.spotify.com/track/6NFUR5dxwy3qBLT86CyNhz"
-    },
-    {
-      "added_at": "2026-01-19 08:27:42",
-      "album": {
-        "name": "TU TU TU",
-        "url": "https://open.spotify.com/album/4WkJSoeofaut2WwjCfa6p0"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 151570,
-      "name": "TU TU TU",
-      "url": "https://open.spotify.com/track/5sK3SqHia7p5dXjdq1dluB"
     },
     {
       "added_at": "2026-01-19 08:27:42",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-01-19 08:27:42",
       "album": {
-        "name": "En El Camino",
-        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 168425,
-      "name": "En El Camino",
-      "url": "https://open.spotify.com/track/76QRh2Ikhr0i6dNjRvS3GS"
-    },
-    {
-      "added_at": "2026-01-19 08:27:42",
-      "album": {
         "name": "MIJA NO TE ASUSTES",
         "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 136000,
       "name": "NO PASA NADA",
       "url": "https://open.spotify.com/track/0rgWNj1202eIYRRDxNLm2y"
+    },
+    {
+      "added_at": "2026-01-19 08:27:42",
+      "album": {
+        "name": "En El Camino",
+        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 168425,
+      "name": "En El Camino",
+      "url": "https://open.spotify.com/track/76QRh2Ikhr0i6dNjRvS3GS"
     },
     {
       "added_at": "2026-01-19 08:27:42",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2026-01-19 08:27:42",
       "album": {
-        "name": "Origen",
-        "url": "https://open.spotify.com/album/6NQdbpGfCxBW7Qw9pfHT3R"
+        "name": "El Chaval\u00f3n",
+        "url": "https://open.spotify.com/album/0jAjnsWB9EOcFL7Cq5ykpq"
       },
       "artists": [
         {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
         }
       ],
-      "duration_ms": 166670,
-      "name": "Oveja O Lobo",
-      "url": "https://open.spotify.com/track/6TJllRhfOe6cDW3NvDLMiJ"
+      "duration_ms": 174754,
+      "name": "El Chaval\u00f3n",
+      "url": "https://open.spotify.com/track/7uBePvu0TAwsdX2POckybu"
     },
     {
       "added_at": "2026-01-19 08:27:42",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2026-01-19 08:27:42",
       "album": {
-        "name": "El Chaval\u00f3n",
-        "url": "https://open.spotify.com/album/0jAjnsWB9EOcFL7Cq5ykpq"
+        "name": "Origen",
+        "url": "https://open.spotify.com/album/6NQdbpGfCxBW7Qw9pfHT3R"
       },
       "artists": [
         {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
         }
       ],
-      "duration_ms": 174754,
-      "name": "El Chaval\u00f3n",
-      "url": "https://open.spotify.com/track/7uBePvu0TAwsdX2POckybu"
+      "duration_ms": 166670,
+      "name": "Oveja O Lobo",
+      "url": "https://open.spotify.com/track/6TJllRhfOe6cDW3NvDLMiJ"
     },
     {
       "added_at": "2026-01-19 08:27:42",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2026-01-19 08:27:42",
       "album": {
+        "name": "Corridos Pa' la Historia",
+        "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 155543,
+      "name": "Yo Soy Rico",
+      "url": "https://open.spotify.com/track/6ueysvoc0nj7piSJXEJGJx"
+    },
+    {
+      "added_at": "2026-01-19 08:27:42",
+      "album": {
         "name": "LO QUE ME FALTA POR LLORAR",
         "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
       },
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2026-01-19 08:27:42",
       "album": {
-        "name": "Corridos Pa' la Historia",
-        "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 155543,
-      "name": "Yo Soy Rico",
-      "url": "https://open.spotify.com/track/6ueysvoc0nj7piSJXEJGJx"
-    },
-    {
-      "added_at": "2026-01-19 08:27:42",
-      "album": {
         "name": "Todo Es Diferente",
         "url": "https://open.spotify.com/album/0ECIYdy6byWnFYoY6Bn8CN"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-01-19 08:27:42",
       "album": {
-        "name": "Pura Adrenalina",
-        "url": "https://open.spotify.com/album/1nmowOSmp7OY0cW7MoWHEM"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 157569,
-      "name": "Pura Adrenalina",
-      "url": "https://open.spotify.com/track/2n77I4OjzHdgL3La34c3PJ"
-    },
-    {
-      "added_at": "2026-01-19 08:27:42",
-      "album": {
         "name": "Sigue Siendo Diferente",
         "url": "https://open.spotify.com/album/32FleWdeEFYyvit5Vr09uC"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 189651,
       "name": "Tiempos Mejores",
       "url": "https://open.spotify.com/track/01yhHGuoyV5TO3RrLtGStG"
+    },
+    {
+      "added_at": "2026-01-19 08:27:42",
+      "album": {
+        "name": "Pura Adrenalina",
+        "url": "https://open.spotify.com/album/1nmowOSmp7OY0cW7MoWHEM"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 157569,
+      "name": "Pura Adrenalina",
+      "url": "https://open.spotify.com/track/2n77I4OjzHdgL3La34c3PJ"
     },
     {
       "added_at": "2026-01-19 08:27:42",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2026-01-19 08:27:42",
       "album": {
+        "name": "Andamos Triunfando",
+        "url": "https://open.spotify.com/album/3GohRnAdahedoEBNCAjIEU"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 148506,
+      "name": "Andamos Triunfando",
+      "url": "https://open.spotify.com/track/23t0H71t1k6QqrYYRLjXk5"
+    },
+    {
+      "added_at": "2026-01-19 08:27:42",
+      "album": {
         "name": "D\u00e9cimo Aniversario",
         "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 174850,
       "name": "Me Amola",
       "url": "https://open.spotify.com/track/5uwXV9navpcEKDoiqAPASY"
-    },
-    {
-      "added_at": "2026-01-19 08:27:42",
-      "album": {
-        "name": "Andamos Triunfando",
-        "url": "https://open.spotify.com/album/3GohRnAdahedoEBNCAjIEU"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 148506,
-      "name": "Andamos Triunfando",
-      "url": "https://open.spotify.com/track/23t0H71t1k6QqrYYRLjXk5"
     },
     {
       "added_at": "2026-01-19 08:27:42",
@@ -1687,22 +1687,18 @@
     {
       "added_at": "2026-01-19 08:27:42",
       "album": {
-        "name": "M.L.P.",
-        "url": "https://open.spotify.com/album/3qdQh781JDgFBmWn9Wa69H"
+        "name": "3 Doritos Despu\u00e9s",
+        "url": "https://open.spotify.com/album/4IWa6UUmfpsaSap5BUDNmC"
       },
       "artists": [
         {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        },
-        {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+          "name": "LENCHO",
+          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
         }
       ],
-      "duration_ms": 211991,
-      "name": "M.L.P.",
-      "url": "https://open.spotify.com/track/6weS1JeUTudTUo8u8f0VgU"
+      "duration_ms": 145516,
+      "name": "3 Doritos Despu\u00e9s",
+      "url": "https://open.spotify.com/track/6tqgBtpij8t3pTpbrxFXbl"
     },
     {
       "added_at": "2026-01-19 08:27:42",
@@ -1723,18 +1719,22 @@
     {
       "added_at": "2026-01-19 08:27:42",
       "album": {
-        "name": "3 Doritos Despu\u00e9s",
-        "url": "https://open.spotify.com/album/4IWa6UUmfpsaSap5BUDNmC"
+        "name": "M.L.P.",
+        "url": "https://open.spotify.com/album/3qdQh781JDgFBmWn9Wa69H"
       },
       "artists": [
         {
-          "name": "LENCHO",
-          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
         }
       ],
-      "duration_ms": 145516,
-      "name": "3 Doritos Despu\u00e9s",
-      "url": "https://open.spotify.com/track/6tqgBtpij8t3pTpbrxFXbl"
+      "duration_ms": 211991,
+      "name": "M.L.P.",
+      "url": "https://open.spotify.com/track/6weS1JeUTudTUo8u8f0VgU"
     },
     {
       "added_at": "2026-01-19 08:27:42",
@@ -1751,6 +1751,22 @@
       "duration_ms": 177960,
       "name": "EASY",
       "url": "https://open.spotify.com/track/6w60YlYpRUFr0XrZ1bNt9D"
+    },
+    {
+      "added_at": "2026-01-19 08:27:42",
+      "album": {
+        "name": "Todos Hablan, Nada Saben",
+        "url": "https://open.spotify.com/album/1hAHT5gZfRLDYh0sZaTnDK"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        }
+      ],
+      "duration_ms": 163893,
+      "name": "Todos Hablan, Nada Saben",
+      "url": "https://open.spotify.com/track/0SIooo95Kba3UwPBRUOcmd"
     },
     {
       "added_at": "2026-01-19 08:27:42",
@@ -1783,22 +1799,6 @@
       "duration_ms": 144726,
       "name": "Con Toda La Fe",
       "url": "https://open.spotify.com/track/5JXhKG0ftxR1RxRwJOw1EF"
-    },
-    {
-      "added_at": "2026-01-19 08:27:42",
-      "album": {
-        "name": "Broche De Oro",
-        "url": "https://open.spotify.com/album/2eSWBE52YZrtDpWDq4pd4b"
-      },
-      "artists": [
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        }
-      ],
-      "duration_ms": 150665,
-      "name": "La Soluci\u00f3n",
-      "url": "https://open.spotify.com/track/0j8OGRGBjBMb286wJxt1o8"
     }
   ],
   "unique_name": "Modo: Al Mil",

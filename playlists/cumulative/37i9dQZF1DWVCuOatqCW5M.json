@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Bismil, Shaan,  Anweshaa and more.",
+  "description": "Latest music from Rashmeet Kaur, Merza, Rito Riba,  Harrdy Sandhu and more.",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -2322,7 +2322,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 545000,
       "name": "Apsraa 2",
       "url": "https://open.spotify.com/track/6apKBuRQS4gBiWbmtXir6X"
@@ -3494,7 +3494,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 202000,
       "name": "Badli Lakeerein",
       "url": "https://open.spotify.com/track/6qmIad1p9tELUE65sRK3Zz"
@@ -6328,7 +6328,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 195692,
       "name": "Channa",
       "url": "https://open.spotify.com/track/5ucEdvW2XncIpE2bMTM2Yd"
@@ -6861,6 +6861,28 @@
     },
     {
       "album": {
+        "name": "Churayi",
+        "url": "https://open.spotify.com/album/2xYCiZlg6upRXYuLoMHcxu"
+      },
+      "artists": [
+        {
+          "name": "The PropheC",
+          "url": "https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231204,
+      "name": "Churayi",
+      "url": "https://open.spotify.com/track/5zBQuGF5t1cd6hLQYkcOxc"
+    },
+    {
+      "album": {
         "name": "Cigi",
         "url": "https://open.spotify.com/album/6XOuFyEf8HSQqBugrdpqGo"
       },
@@ -7308,7 +7330,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 153673,
       "name": "Dariaa",
       "url": "https://open.spotify.com/track/1IIK5l7cDgwNeaDSqzkqPe"
@@ -10680,7 +10702,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 149434,
       "name": "FREE",
       "url": "https://open.spotify.com/track/53eYZE3YzrldZOJpo5yLme"
@@ -11704,6 +11726,28 @@
       "duration_ms": 188037,
       "name": "Haaniya",
       "url": "https://open.spotify.com/track/6usB8w6q62tom1OqRk8LEX"
+    },
+    {
+      "album": {
+        "name": "Haaniya",
+        "url": "https://open.spotify.com/album/1zhthY2d0VVuvC8NjTkwzV"
+      },
+      "artists": [
+        {
+          "name": "Gurnazar",
+          "url": "https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W"
+        },
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171023,
+      "name": "Haaniya",
+      "url": "https://open.spotify.com/track/3gqcwatdbF2uDJVJ9Emfmb"
     },
     {
       "album": {
@@ -13088,6 +13132,32 @@
       "duration_ms": 134762,
       "name": "Hoor",
       "url": "https://open.spotify.com/track/3v4IktqhfdN6BbxOl7ff16"
+    },
+    {
+      "album": {
+        "name": "Hor Koi Na",
+        "url": "https://open.spotify.com/album/69T2CwKBqtKchlOqGdJ5X6"
+      },
+      "artists": [
+        {
+          "name": "zayl",
+          "url": "https://open.spotify.com/artist/1PI7HPN94FTYkS7cpGl9Ck"
+        },
+        {
+          "name": "Danny",
+          "url": "https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv"
+        },
+        {
+          "name": "Suyash",
+          "url": "https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137553,
+      "name": "Hor Koi Na",
+      "url": "https://open.spotify.com/track/23SktBfcrSzyEzGFFW8vow"
     },
     {
       "album": {
@@ -26935,6 +27005,32 @@
     },
     {
       "album": {
+        "name": "QURBAT",
+        "url": "https://open.spotify.com/album/6EavDNIGJM6nb66ygkYiS2"
+      },
+      "artists": [
+        {
+          "name": "Merza",
+          "url": "https://open.spotify.com/artist/1pbDpKcGxY1oLZXhHGzk4U"
+        },
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        },
+        {
+          "name": "Vision",
+          "url": "https://open.spotify.com/artist/0SqdljKM9fqIV6fuxQOlUI"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186893,
+      "name": "QURBAT",
+      "url": "https://open.spotify.com/track/1ETXN1gCDZIRUi9lc4sC3U"
+    },
+    {
+      "album": {
         "name": "Raabta",
         "url": "https://open.spotify.com/album/5tSaKNhRxuWwREzyvJ3zds"
       },
@@ -28178,7 +28274,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 168120,
       "name": "Rum Rum Rum",
       "url": "https://open.spotify.com/track/40WiRVYLt461xQM31KIbMc"
@@ -30658,7 +30754,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 149010,
       "name": "Shehnaiyaan",
       "url": "https://open.spotify.com/track/1f8s1SlcT4oDh7TZRZk26W"
@@ -32065,6 +32161,28 @@
     },
     {
       "album": {
+        "name": "Tehzeeb",
+        "url": "https://open.spotify.com/album/7mfU96J8Eeq85tIKFNOdaG"
+      },
+      "artists": [
+        {
+          "name": "Danny",
+          "url": "https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv"
+        },
+        {
+          "name": "Tasho",
+          "url": "https://open.spotify.com/artist/00EJduQGC6mDxLA8xP9Ln0"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201965,
+      "name": "Tehzeeb",
+      "url": "https://open.spotify.com/track/4UsF2ZafLGUDRwEDnlIhzI"
+    },
+    {
+      "album": {
         "name": "Tera Ban Gaya Hoon",
         "url": "https://open.spotify.com/album/2dF727vdSU2l0ecMiJl33U"
       },
@@ -32865,6 +32983,32 @@
     },
     {
       "album": {
+        "name": "Tere Dil Mein",
+        "url": "https://open.spotify.com/album/7DvzoxmpCYkdP8NFjoTq8j"
+      },
+      "artists": [
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        },
+        {
+          "name": "Rito Riba",
+          "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
+        },
+        {
+          "name": "Rana Sotal",
+          "url": "https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197291,
+      "name": "Tere Dil Mein",
+      "url": "https://open.spotify.com/track/3o5SrziTUr1kEjXCet04nw"
+    },
+    {
+      "album": {
         "name": "Tere Dil Tak Aana Hai",
         "url": "https://open.spotify.com/album/5qM3GaykY2A1cN50athDn8"
       },
@@ -33406,6 +33550,24 @@
       "duration_ms": 278423,
       "name": "Terre Naam Se",
       "url": "https://open.spotify.com/track/3dZq3o0w8kPYoHqIzwKFAA"
+    },
+    {
+      "album": {
+        "name": "Tevar",
+        "url": "https://open.spotify.com/album/5PYANEWGVKt3YwoPAryFyr"
+      },
+      "artists": [
+        {
+          "name": "Harrdy Sandhu",
+          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185684,
+      "name": "Tevar",
+      "url": "https://open.spotify.com/track/0nnykIyXZzwPJYhiJBw4hN"
     },
     {
       "album": {

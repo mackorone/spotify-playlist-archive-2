@@ -1,13 +1,45 @@
 {
   "description": "Check out our latest Cargo Distribution approved tracks! Updated weekly",
-  "num_followers": 630,
+  "num_followers": 631,
   "original_name": "Cargo Independent Distribution New Release Playlist",
   "owner": {
     "name": "Cargo Independent Distribution",
     "url": "https://open.spotify.com/user/cargorecords"
   },
-  "snapshot_id": "AABKK3Dpg71A8xNaA3aNmGtHQ0Oz+Axr",
+  "snapshot_id": "AABKPynsHczVJMBTNE7Sy80bozoXI4dg",
   "tracks": [
+    {
+      "added_at": "2026-01-23 11:01:47",
+      "album": {
+        "name": "'Sub Zero'",
+        "url": "https://open.spotify.com/album/40DDnijAZlauKuVzCV9dWG"
+      },
+      "artists": [
+        {
+          "name": "Kevin Richard Martin",
+          "url": "https://open.spotify.com/artist/4UmR7UaeXgqjJwweJxGyZT"
+        }
+      ],
+      "duration_ms": 252916,
+      "name": "Higher Than The Sky",
+      "url": "https://open.spotify.com/track/6gK1ygpHaFQKG9gKrYLMFs"
+    },
+    {
+      "added_at": "2026-01-23 10:59:27",
+      "album": {
+        "name": "Luna Mausoleum",
+        "url": "https://open.spotify.com/album/21Z3fqek96Sz8nFydFXGlj"
+      },
+      "artists": [
+        {
+          "name": "Sky Valley Mistress",
+          "url": "https://open.spotify.com/artist/4rCErKnA6EsbE92KyKFnP8"
+        }
+      ],
+      "duration_ms": 266506,
+      "name": "The Exit List",
+      "url": "https://open.spotify.com/track/5VH1J3HIPi8gGqR2Yp3SzZ"
+    },
     {
       "added_at": "2026-01-22 09:23:23",
       "album": {
@@ -23,6 +55,142 @@
       "duration_ms": 229350,
       "name": "Relay",
       "url": "https://open.spotify.com/track/3PL4dUCR9RlAPpZ26xTtdr"
+    },
+    {
+      "added_at": "2026-01-23 10:58:59",
+      "album": {
+        "name": "Little Death Project",
+        "url": "https://open.spotify.com/album/3ZrROmePjZPp3Kwrj00HnR"
+      },
+      "artists": [
+        {
+          "name": "Dead Freights",
+          "url": "https://open.spotify.com/artist/3POKKTTSAXj4G95I4shXwp"
+        }
+      ],
+      "duration_ms": 177616,
+      "name": "Little Death Project",
+      "url": "https://open.spotify.com/track/1tnAb0p0cOxCB0KDj1yAxN"
+    },
+    {
+      "added_at": "2026-01-23 11:02:18",
+      "album": {
+        "name": "Summon the Ghost Horses",
+        "url": "https://open.spotify.com/album/5WFbfDqxmqXU0DVR7wzs4y"
+      },
+      "artists": [
+        {
+          "name": "Laura Cannell",
+          "url": "https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq"
+        }
+      ],
+      "duration_ms": 325114,
+      "name": "Summon the Ghost Horses",
+      "url": "https://open.spotify.com/track/1db1BVD9KiPc2mDhhYqPTN"
+    },
+    {
+      "added_at": "2026-01-23 11:02:35",
+      "album": {
+        "name": "When Britain Was Great",
+        "url": "https://open.spotify.com/album/2QtFQj41gAHoWS5IiDKWZ5"
+      },
+      "artists": [
+        {
+          "name": "European Sun",
+          "url": "https://open.spotify.com/artist/28AbMGlH3v7ZJhKeZFRiMw"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "When Britain Was Great",
+      "url": "https://open.spotify.com/track/5S0jag1LTj4K7zZbDjp8i1"
+    },
+    {
+      "added_at": "2026-01-23 11:00:16",
+      "album": {
+        "name": "Flowers of Evil II",
+        "url": "https://open.spotify.com/album/3tOSdzgLO8jfylniooG7pX"
+      },
+      "artists": [
+        {
+          "name": "Lina Filipovich",
+          "url": "https://open.spotify.com/artist/467gxnxunzZ4c2vptKDr6r"
+        }
+      ],
+      "duration_ms": 328000,
+      "name": "The Death Of The Lovers",
+      "url": "https://open.spotify.com/track/71FOpUmAnmKSqYV16KvOqI"
+    },
+    {
+      "added_at": "2026-01-23 11:00:34",
+      "album": {
+        "name": "Jazz Band Theory",
+        "url": "https://open.spotify.com/album/2BBlqDNoDdoNnD1x7UbAnw"
+      },
+      "artists": [
+        {
+          "name": "Terrine",
+          "url": "https://open.spotify.com/artist/5HbVZ6dkIrtfZz5nQmbjuj"
+        }
+      ],
+      "duration_ms": 146652,
+      "name": "L'\u00c9CUME DOUTEUSE",
+      "url": "https://open.spotify.com/track/2zWLrehhSvqjDWbacAoGwR"
+    },
+    {
+      "added_at": "2026-01-23 11:00:48",
+      "album": {
+        "name": "Clouds Ov Deconstruction",
+        "url": "https://open.spotify.com/album/1gMxnHEJyB0SQnTZVfRZSt"
+      },
+      "artists": [
+        {
+          "name": "The austrasian Goat",
+          "url": "https://open.spotify.com/artist/6kZhlXBYIMDgUjIT32eSNv"
+        }
+      ],
+      "duration_ms": 362349,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/2F40X9sku8TaXSDWNuqXqq"
+    },
+    {
+      "added_at": "2026-01-23 11:01:01",
+      "album": {
+        "name": "Phase I",
+        "url": "https://open.spotify.com/album/20nXTO7ihCkdUBSValkxKV"
+      },
+      "artists": [
+        {
+          "name": "Zone Null",
+          "url": "https://open.spotify.com/artist/0OMY0Q0IW8l4Yqei41Tltw"
+        },
+        {
+          "name": "Burkhard Beins",
+          "url": "https://open.spotify.com/artist/55mu6j4QLbeRvGSQiN7dEg"
+        },
+        {
+          "name": "Tony Elieh",
+          "url": "https://open.spotify.com/artist/6e5ILVNJTuOpNFpgNgKnTP"
+        }
+      ],
+      "duration_ms": 1157593,
+      "name": "Trastrizas",
+      "url": "https://open.spotify.com/track/1PWpWpYoZHBYyaZojL4cOG"
+    },
+    {
+      "added_at": "2026-01-23 11:01:18",
+      "album": {
+        "name": "Callings Of The Owed - \u0646\u062f\u0627\u0621\u0627\u062a \u0627\u0644\u0645\u0648\u0639\u0648\u062f\u064a\u0646",
+        "url": "https://open.spotify.com/album/2Fs1KXgKBwXbnGlWtU8AVT"
+      },
+      "artists": [
+        {
+          "name": "Mi3raj",
+          "url": "https://open.spotify.com/artist/7JvUHM1ZpaWMGV9CiO5347"
+        }
+      ],
+      "duration_ms": 214055,
+      "name": "O Gazelle - \u064a\u0627 \u063a\u0632\u0627\u0644\u0629",
+      "url": "https://open.spotify.com/track/7zWDtW2WApbdNQ5sZsuRsD"
     },
     {
       "added_at": "2026-01-22 09:23:35",
@@ -1303,70 +1471,6 @@
       "duration_ms": 350748,
       "name": "Sonic Hypnosis",
       "url": "https://open.spotify.com/track/7buWSWDyQalv4U2QZnWCsl"
-    },
-    {
-      "added_at": "2025-11-27 16:30:18",
-      "album": {
-        "name": "All Ye Faithful",
-        "url": "https://open.spotify.com/album/3ft6aH08t4F75tHLopHy4C"
-      },
-      "artists": [
-        {
-          "name": "Laura Cannell",
-          "url": "https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq"
-        }
-      ],
-      "duration_ms": 289662,
-      "name": "All Ye Faithful",
-      "url": "https://open.spotify.com/track/1OiVQZCdGY5ynpyAVYSBsD"
-    },
-    {
-      "added_at": "2025-11-27 16:28:11",
-      "album": {
-        "name": "Sunday Magazines",
-        "url": "https://open.spotify.com/album/1N9ZHhNS2MBODlm6a1yCwC"
-      },
-      "artists": [
-        {
-          "name": "Soho Dukes",
-          "url": "https://open.spotify.com/artist/5VmtPnTksMTQkflYqT5w3z"
-        }
-      ],
-      "duration_ms": 192809,
-      "name": "SUNDAY MAGAZINES",
-      "url": "https://open.spotify.com/track/2ctsJ9ujbWhSRM0ldscpsy"
-    },
-    {
-      "added_at": "2025-11-27 16:28:43",
-      "album": {
-        "name": "This is What I Live For",
-        "url": "https://open.spotify.com/album/6MySpGzfwA10Fht3hIvMeR"
-      },
-      "artists": [
-        {
-          "name": "That Old Quiet Lighthouse",
-          "url": "https://open.spotify.com/artist/1DwK7nnUIs4J2FDVoVNj5q"
-        }
-      ],
-      "duration_ms": 192220,
-      "name": "Forest Fire",
-      "url": "https://open.spotify.com/track/2RWbL7pyT3PVB2HD6dE5ok"
-    },
-    {
-      "added_at": "2025-11-24 09:18:21",
-      "album": {
-        "name": "Rabia's Dream",
-        "url": "https://open.spotify.com/album/47soFDZzjiILDQVNDegyfJ"
-      },
-      "artists": [
-        {
-          "name": "Peter Culshaw",
-          "url": "https://open.spotify.com/artist/2ueLmrdhEzOYn0aA7u1z1s"
-        }
-      ],
-      "duration_ms": 148819,
-      "name": "Rabia\u2019s Dream",
-      "url": "https://open.spotify.com/track/5j1aEhS6ZSEMrAEhm5CXMH"
     }
   ],
   "unique_name": "Cargo Independent Distribution New Release Playlist",

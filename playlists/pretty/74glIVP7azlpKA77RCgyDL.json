@@ -1,13 +1,109 @@
 {
   "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure.",
-  "num_followers": 9054,
+  "num_followers": 9053,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAPWVtYhNa0nFJRhGOs2p6C2BBIms/9",
+  "snapshot_id": "AAAPZTMd4LR/ncuLLRg9nDU9+P/J11oT",
   "tracks": [
+    {
+      "added_at": "2026-01-23 20:42:51",
+      "album": {
+        "name": "Empty Hands",
+        "url": "https://open.spotify.com/album/5lBm36eO5Us3NpTXaA9t9C"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 189064,
+      "name": "Empty Hands",
+      "url": "https://open.spotify.com/track/2LlSWchdFYUOfo57Yv8JFf"
+    },
+    {
+      "added_at": "2026-01-23 20:41:06",
+      "album": {
+        "name": "3111",
+        "url": "https://open.spotify.com/album/2zkkD8YEH6AaOdKPV7LGDb"
+      },
+      "artists": [
+        {
+          "name": "Exodus",
+          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
+        }
+      ],
+      "duration_ms": 248600,
+      "name": "3111",
+      "url": "https://open.spotify.com/track/2WS6J9d3BV96MwUBb5koO8"
+    },
+    {
+      "added_at": "2026-01-23 20:43:09",
+      "album": {
+        "name": "T.M.T.",
+        "url": "https://open.spotify.com/album/7EzPANLDyvK9VbgTUDDL9Q"
+      },
+      "artists": [
+        {
+          "name": "The S.E.T.",
+          "url": "https://open.spotify.com/artist/0Zj0IxZKZQu0Cc0veaM3IK"
+        }
+      ],
+      "duration_ms": 82026,
+      "name": "T.M.T.",
+      "url": "https://open.spotify.com/track/7bvXaPBvLWWUUNRQQwL6SJ"
+    },
+    {
+      "added_at": "2026-01-23 20:41:21",
+      "album": {
+        "name": "The Real You",
+        "url": "https://open.spotify.com/album/6RVPnpptZoMHjubHk3VjBX"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "duration_ms": 241480,
+      "name": "The Real You",
+      "url": "https://open.spotify.com/track/5ZeZSbuvupOAfm3zD73tp2"
+    },
+    {
+      "added_at": "2026-01-23 20:42:29",
+      "album": {
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/0N3fn6OZ1LqIpMXEvVgPk6"
+      },
+      "artists": [
+        {
+          "name": "Knumears",
+          "url": "https://open.spotify.com/artist/5oEizTkT6mRlggZPdxWmjk"
+        }
+      ],
+      "duration_ms": 106557,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/4WsMjwH6Pq6F8NcAwJPj9T"
+    },
+    {
+      "added_at": "2026-01-23 20:42:40",
+      "album": {
+        "name": "Megadeth",
+        "url": "https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 208510,
+      "name": "Hey God?!",
+      "url": "https://open.spotify.com/track/2vwrGgIy5cUeU375P6w8aL"
+    },
     {
       "added_at": "2026-01-09 20:14:57",
       "album": {
@@ -4699,382 +4795,6 @@
       "duration_ms": 247146,
       "name": "Stress Positions",
       "url": "https://open.spotify.com/track/7yBD5X9gABxFVWhFq58t3y"
-    },
-    {
-      "added_at": "2025-01-24 20:06:04",
-      "album": {
-        "name": "To Live Deliciously",
-        "url": "https://open.spotify.com/album/0eiDwrA7pBFuIr9V9JyzHB"
-      },
-      "artists": [
-        {
-          "name": "Cradle Of Filth",
-          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
-        }
-      ],
-      "duration_ms": 332226,
-      "name": "To Live Deliciously",
-      "url": "https://open.spotify.com/track/4svPYkuVpl9Lum5fLlEXMo"
-    },
-    {
-      "added_at": "2025-01-24 20:05:54",
-      "album": {
-        "name": "Return To One",
-        "url": "https://open.spotify.com/album/2pKC84UFiaaol1GosInWBs"
-      },
-      "artists": [
-        {
-          "name": "Invent Animate",
-          "url": "https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt"
-        },
-        {
-          "name": "Silent Planet",
-          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
-        }
-      ],
-      "duration_ms": 215759,
-      "name": "Return To One",
-      "url": "https://open.spotify.com/track/3d4gBGDpByOnQXCcj0d8Uf"
-    },
-    {
-      "added_at": "2025-01-24 20:05:30",
-      "album": {
-        "name": "Atonement (feat. Will Ramos)",
-        "url": "https://open.spotify.com/album/0pKIUiz87ZuuqW98B2NRuf"
-      },
-      "artists": [
-        {
-          "name": "Employed To Serve",
-          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
-        },
-        {
-          "name": "Will Ramos",
-          "url": "https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa"
-        }
-      ],
-      "duration_ms": 232254,
-      "name": "Atonement - feat. Will Ramos",
-      "url": "https://open.spotify.com/track/6WuWxcSMhQ6ntve4zT84RF"
-    },
-    {
-      "added_at": "2025-01-24 20:05:19",
-      "album": {
-        "name": "Elevator Operator",
-        "url": "https://open.spotify.com/album/6JNW5L80qRIaLPhN60fkaM"
-      },
-      "artists": [
-        {
-          "name": "Electric Callboy",
-          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
-        }
-      ],
-      "duration_ms": 189103,
-      "name": "Elevator Operator",
-      "url": "https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF"
-    },
-    {
-      "added_at": "2025-01-24 20:05:08",
-      "album": {
-        "name": "No Witness",
-        "url": "https://open.spotify.com/album/3ChKHOfCzTSiZaUwtT9qPU"
-      },
-      "artists": [
-        {
-          "name": "Traitors",
-          "url": "https://open.spotify.com/artist/1GkXxneFQE4d5YTsrbN6Ya"
-        }
-      ],
-      "duration_ms": 207957,
-      "name": "No Witness",
-      "url": "https://open.spotify.com/track/62W3J2xwtIVn5Zo6qKqKOC"
-    },
-    {
-      "added_at": "2025-01-24 20:04:56",
-      "album": {
-        "name": "Blood's on fire",
-        "url": "https://open.spotify.com/album/1pufe0kyP5ZHGywP6UtSoj"
-      },
-      "artists": [
-        {
-          "name": "VOWWS",
-          "url": "https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb"
-        }
-      ],
-      "duration_ms": 181546,
-      "name": "Blood's on fire",
-      "url": "https://open.spotify.com/track/1etVnD5N8LEy8T3Lrsal1F"
-    },
-    {
-      "added_at": "2025-01-17 20:31:03",
-      "album": {
-        "name": "Mau Moko",
-        "url": "https://open.spotify.com/album/2NnSQN57zQmBuOE855iDxF"
-      },
-      "artists": [
-        {
-          "name": "Alien Weaponry",
-          "url": "https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm"
-        }
-      ],
-      "duration_ms": 225252,
-      "name": "Mau Moko",
-      "url": "https://open.spotify.com/track/7GEGSpjoraxIjBixahlNGq"
-    },
-    {
-      "added_at": "2025-01-17 20:30:50",
-      "album": {
-        "name": "Blackhole",
-        "url": "https://open.spotify.com/album/0WOFwPsTBGs4nWaPPZfLxI"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Blackhole",
-      "url": "https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8"
-    },
-    {
-      "added_at": "2025-01-17 20:30:37",
-      "album": {
-        "name": "FEED",
-        "url": "https://open.spotify.com/album/0TL8SR1bIxBb5yEca2pUZ4"
-      },
-      "artists": [
-        {
-          "name": "PSYCHO-FRAME",
-          "url": "https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR"
-        }
-      ],
-      "duration_ms": 206857,
-      "name": "NO REVIVES",
-      "url": "https://open.spotify.com/track/2Ev083dzx80UqK8kMBXVNT"
-    },
-    {
-      "added_at": "2025-01-17 20:30:24",
-      "album": {
-        "name": "Too Much",
-        "url": "https://open.spotify.com/album/4PEpzl1k2KTG6oCMiTMviE"
-      },
-      "artists": [
-        {
-          "name": "Initiate",
-          "url": "https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau"
-        }
-      ],
-      "duration_ms": 221218,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/6F4qSBCQTV36A4U8qBTAjS"
-    },
-    {
-      "added_at": "2025-01-17 20:30:12",
-      "album": {
-        "name": "Cold Hard Truth",
-        "url": "https://open.spotify.com/album/3Xj0z4iaakPOJXB2c6CZE7"
-      },
-      "artists": [
-        {
-          "name": "Fox Lake",
-          "url": "https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL"
-        }
-      ],
-      "duration_ms": 182061,
-      "name": "Cold Hard Truth",
-      "url": "https://open.spotify.com/track/0MwRJeQZmAn954BxUqcnit"
-    },
-    {
-      "added_at": "2025-01-17 20:30:00",
-      "album": {
-        "name": "Next To Bleed",
-        "url": "https://open.spotify.com/album/3Q5ig5r9B1HnQEKJJnW5tU"
-      },
-      "artists": [
-        {
-          "name": "Gates to Hell",
-          "url": "https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw"
-        }
-      ],
-      "duration_ms": 114425,
-      "name": "Next To Bleed",
-      "url": "https://open.spotify.com/track/0QsSzy8TtvrHskTJ4CRjUe"
-    },
-    {
-      "added_at": "2025-01-10 18:56:01",
-      "album": {
-        "name": "Bury Me (One Thousand Times)",
-        "url": "https://open.spotify.com/album/6GHhhTjhfjg8Z331AmEaSg"
-      },
-      "artists": [
-        {
-          "name": "Church Tongue",
-          "url": "https://open.spotify.com/artist/698NcCj3gdla5i3RrYYgFh"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Bury Me (One Thousand Times)",
-      "url": "https://open.spotify.com/track/1SwwcNkbTpe4vuQF59LabF"
-    },
-    {
-      "added_at": "2025-01-10 18:55:49",
-      "album": {
-        "name": "Abilene Grime",
-        "url": "https://open.spotify.com/album/26y9YsB8vO10wH3zxpee4I"
-      },
-      "artists": [
-        {
-          "name": "Spiritworld",
-          "url": "https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE"
-        }
-      ],
-      "duration_ms": 201320,
-      "name": "Abilene Grime",
-      "url": "https://open.spotify.com/track/6SKTgAhiEMtU1GWx6Vguz3"
-    },
-    {
-      "added_at": "2025-01-10 18:55:36",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/3VcSdAEkHNPyI8VVNGknpw"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 243826,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/0KrlBjdNgEYFFuwlormJqV"
-    },
-    {
-      "added_at": "2025-01-10 18:54:34",
-      "album": {
-        "name": "Love All the People",
-        "url": "https://open.spotify.com/album/0ILajU1CtCbfUaPQzjd3GC"
-      },
-      "artists": [
-        {
-          "name": "Mercy Ties",
-          "url": "https://open.spotify.com/artist/2oCjUdQSxryC1IMMorOtHI"
-        }
-      ],
-      "duration_ms": 103000,
-      "name": "Love All the People",
-      "url": "https://open.spotify.com/track/7n9D3aT2v56UVNxFZ0LV55"
-    },
-    {
-      "added_at": "2025-01-10 18:54:25",
-      "album": {
-        "name": "Woe to the Vanquished",
-        "url": "https://open.spotify.com/album/5cs1TbegYyGYlQyeN12ErL"
-      },
-      "artists": [
-        {
-          "name": "Warbringer",
-          "url": "https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Remain Violent",
-      "url": "https://open.spotify.com/track/2CXrH4eUWhusFmDk3PWpKX"
-    },
-    {
-      "added_at": "2025-01-10 18:54:13",
-      "album": {
-        "name": "realcocainemuzak",
-        "url": "https://open.spotify.com/album/5wvZfH6H4Vg9ON8F66qr5G"
-      },
-      "artists": [
-        {
-          "name": "Bodybox",
-          "url": "https://open.spotify.com/artist/0umvpzkCMoxVBy0IoNpN4Q"
-        }
-      ],
-      "duration_ms": 94510,
-      "name": "realcocainemuzak",
-      "url": "https://open.spotify.com/track/1dbTia2Rrl1Uym74PIvzde"
-    },
-    {
-      "added_at": "2025-01-03 20:24:41",
-      "album": {
-        "name": "Tendrils",
-        "url": "https://open.spotify.com/album/6Y7x0pwhQauG8zQdFtle1k"
-      },
-      "artists": [
-        {
-          "name": "Saetia",
-          "url": "https://open.spotify.com/artist/5piONaqFh85tIjxSQgZuWA"
-        }
-      ],
-      "duration_ms": 246853,
-      "name": "Tendrils",
-      "url": "https://open.spotify.com/track/7ggzbRpEY7hHkBP7z9Oxvo"
-    },
-    {
-      "added_at": "2025-01-03 20:24:54",
-      "album": {
-        "name": "Taking Inventory Of A Frozen Lake",
-        "url": "https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 257084,
-      "name": "Taking Inventory Of A Frozen Lake",
-      "url": "https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe"
-    },
-    {
-      "added_at": "2025-01-03 20:25:06",
-      "album": {
-        "name": "Lowest",
-        "url": "https://open.spotify.com/album/2UvIITAH9Dqiz5uzvPPlUx"
-      },
-      "artists": [
-        {
-          "name": "From A Second Story Window",
-          "url": "https://open.spotify.com/artist/2BMSRmXfr41q3wsd0rq6aE"
-        }
-      ],
-      "duration_ms": 104477,
-      "name": "Lowest",
-      "url": "https://open.spotify.com/track/7xO7DaKECDqukf1cr25LJd"
-    },
-    {
-      "added_at": "2025-01-03 20:25:31",
-      "album": {
-        "name": "Standalone+1",
-        "url": "https://open.spotify.com/album/3AavCvQYJLFv7qmSgyLbHt"
-      },
-      "artists": [
-        {
-          "name": "Fleshwater",
-          "url": "https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF"
-        }
-      ],
-      "duration_ms": 68234,
-      "name": "Standalone",
-      "url": "https://open.spotify.com/track/5H63aGGsjcpDvzuqBZTV1o"
-    },
-    {
-      "added_at": "2025-01-03 20:25:43",
-      "album": {
-        "name": "CURSED",
-        "url": "https://open.spotify.com/album/2ic9y0c0Y7goGxrre1ud7Q"
-      },
-      "artists": [
-        {
-          "name": "Paleface Swiss",
-          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
-        }
-      ],
-      "duration_ms": 242984,
-      "name": "River Of Sorrows",
-      "url": "https://open.spotify.com/track/2X9xNcQnRPNLa9fUvl218u"
     }
   ],
   "unique_name": "Best New Songs Right Now",

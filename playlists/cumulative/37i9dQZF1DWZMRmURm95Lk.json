@@ -3783,6 +3783,28 @@
     },
     {
       "album": {
+        "name": "Favola",
+        "url": "https://open.spotify.com/album/4LtUc77mtEMvblER5Jf45L"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        },
+        {
+          "name": "Dargen D'Amico",
+          "url": "https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189278,
+      "name": "Favola",
+      "url": "https://open.spotify.com/track/1Qp2eMLXVnff8plWwm48i4"
+    },
+    {
+      "album": {
         "name": "60 Hz II",
         "url": "https://open.spotify.com/album/5dizu3zJPc4fhPMjarEhIM"
       },
@@ -8624,7 +8646,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 112000,
       "name": "Non fa per me",
       "url": "https://open.spotify.com/track/27chHteHE6ESsppvrTrO54"

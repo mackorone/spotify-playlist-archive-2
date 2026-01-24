@@ -1,13 +1,133 @@
 {
-  "description": "New music from your favorite women.  Cover: Qui",
-  "num_followers": 229244,
+  "description": "New music from your favorite women.  Cover: Nija",
+  "num_followers": 229285,
   "original_name": "Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKUTvLrFq/q9QFBLmPw788B0mkDU",
+  "snapshot_id": "AAAAAJPQ03sCR7GiPxK6DT7RW+10e8P5",
   "tracks": [
+    {
+      "added_at": "2026-01-23 05:42:11",
+      "album": {
+        "name": "What I Didn't Say",
+        "url": "https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk"
+      },
+      "artists": [
+        {
+          "name": "Nija",
+          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
+        }
+      ],
+      "duration_ms": 179146,
+      "name": "Things We Do",
+      "url": "https://open.spotify.com/track/2sRG4WyPyGNLC20djAMXAL"
+    },
+    {
+      "added_at": "2026-01-23 05:42:11",
+      "album": {
+        "name": "Honey Water",
+        "url": "https://open.spotify.com/album/71l7QcYNTXUjCwyFNy3emN"
+      },
+      "artists": [
+        {
+          "name": "Girlfriend",
+          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
+        }
+      ],
+      "duration_ms": 163258,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/0Kdt3t112bMaFjwQPls7yo"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Finally Over It (The Afterparty)",
+        "url": "https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 230646,
+      "name": "Go Girl (with Latto & Doja Cat)",
+      "url": "https://open.spotify.com/track/4YctSqQRw3MzQshfk72cej"
+    },
+    {
+      "added_at": "2026-01-23 05:42:11",
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 234608,
+      "name": "100",
+      "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
+    },
+    {
+      "added_at": "2026-01-23 05:42:11",
+      "album": {
+        "name": "Break Me In",
+        "url": "https://open.spotify.com/album/3qAQ2awAKHXsu0SKTKR0Wg"
+      },
+      "artists": [
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        }
+      ],
+      "duration_ms": 172506,
+      "name": "Break Me In",
+      "url": "https://open.spotify.com/track/6cIvHcpTltaYZP2FkbQWMr"
+    },
+    {
+      "added_at": "2026-01-23 05:42:11",
+      "album": {
+        "name": "Vacancy",
+        "url": "https://open.spotify.com/album/2UuTaSOSxTNP6whKrwDqnS"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 132931,
+      "name": "High Key",
+      "url": "https://open.spotify.com/track/48Rk6ZyFcztsyvUZeUFVXO"
+    },
+    {
+      "added_at": "2026-01-23 05:42:11",
+      "album": {
+        "name": "Feline's Return",
+        "url": "https://open.spotify.com/album/2Mk8d4jvxyyNYbVZcY98hR"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "duration_ms": 224498,
+      "name": "Sofa Joy",
+      "url": "https://open.spotify.com/track/2ZRYbR8vVS1utxEtXFmawD"
+    },
     {
       "added_at": "2025-12-19 05:00:40",
       "album": {
@@ -23,6 +143,42 @@
       "duration_ms": 104020,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/5oPmBiPFQWgQmMdKDoojS2"
+    },
+    {
+      "added_at": "2026-01-23 05:42:11",
+      "album": {
+        "name": "Journey To The Sun (feat. Ariel J.)",
+        "url": "https://open.spotify.com/album/1XQSX1VNJPrSR5UEhmlrL9"
+      },
+      "artists": [
+        {
+          "name": "Shae Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        },
+        {
+          "name": "Ariel J.",
+          "url": "https://open.spotify.com/artist/0KVhKG1INN58I9KaMeW3xa"
+        }
+      ],
+      "duration_ms": 230644,
+      "name": "Journey To The Sun (feat. Ariel J.)",
+      "url": "https://open.spotify.com/track/2uVhDVhCRhye33a9blkdKu"
+    },
+    {
+      "added_at": "2026-01-23 05:42:11",
+      "album": {
+        "name": "Nothing Is Impossible With You",
+        "url": "https://open.spotify.com/album/5RJnjSC3fLOiC3NpZ7z5vW"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 254066,
+      "name": "Nothing Is Impossible With You",
+      "url": "https://open.spotify.com/track/1jP8sjGxTpkQz13WzS1fpw"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -73,6 +229,42 @@
       "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
     },
     {
+      "added_at": "2026-01-23 05:42:11",
+      "album": {
+        "name": "Greyhound",
+        "url": "https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP"
+      },
+      "artists": [
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "duration_ms": 211669,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC"
+    },
+    {
+      "added_at": "2026-01-23 05:42:11",
+      "album": {
+        "name": "energy!",
+        "url": "https://open.spotify.com/album/4SYq5g75SlsFdR0njSGopV"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        }
+      ],
+      "duration_ms": 212005,
+      "name": "energy!",
+      "url": "https://open.spotify.com/track/4RKcZqAw4IwAReaDGoOne6"
+    },
+    {
       "added_at": "2025-11-07 06:06:34",
       "album": {
         "name": "Out The Window",
@@ -87,30 +279,6 @@
       "duration_ms": 256615,
       "name": "Out The Window",
       "url": "https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
-        "name": "Finally Over It (The Afterparty)",
-        "url": "https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 230646,
-      "name": "Go Girl (with Latto & Doja Cat)",
-      "url": "https://open.spotify.com/track/4YctSqQRw3MzQshfk72cej"
     },
     {
       "added_at": "2025-10-24 04:00:29",
@@ -177,6 +345,22 @@
       "url": "https://open.spotify.com/track/0A9JjK85okDiAue5YhYlEc"
     },
     {
+      "added_at": "2026-01-23 05:42:11",
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/2HxAj9mulZk9cmPZPmew8W"
+      },
+      "artists": [
+        {
+          "name": "Gabby Samone",
+          "url": "https://open.spotify.com/artist/7HG0h68edTQghFb450QSJK"
+        }
+      ],
+      "duration_ms": 220501,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/6dMELI5Qt3qfU5C4GFqTOs"
+    },
+    {
       "added_at": "2025-11-14 09:13:01",
       "album": {
         "name": "CiCi (Deluxe)",
@@ -199,6 +383,22 @@
       "duration_ms": 159272,
       "name": "Nice n' Sweet (feat. MOLIY)",
       "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"
+    },
+    {
+      "added_at": "2026-01-23 05:42:11",
+      "album": {
+        "name": "HARD TO LOVE",
+        "url": "https://open.spotify.com/album/3r7d8VEgrb33RxLRuhA9ua"
+      },
+      "artists": [
+        {
+          "name": "GoGo Morrow",
+          "url": "https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO"
+        }
+      ],
+      "duration_ms": 170790,
+      "name": "HARD TO LOVE",
+      "url": "https://open.spotify.com/track/5KeT3r2AjQ9zsW1tBwiPRW"
     },
     {
       "added_at": "2025-11-21 11:20:02",
@@ -231,6 +431,38 @@
       "duration_ms": 156586,
       "name": "She",
       "url": "https://open.spotify.com/track/1fsHjzB9BSe2pSt0YTuKAL"
+    },
+    {
+      "added_at": "2026-01-23 05:42:11",
+      "album": {
+        "name": "Pressha",
+        "url": "https://open.spotify.com/album/3iwMGcNrnJggwXlv3SNiGB"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "duration_ms": 256855,
+      "name": "Pressha",
+      "url": "https://open.spotify.com/track/7KNcY52YH6VFnYYabMgxLM"
+    },
+    {
+      "added_at": "2026-01-23 05:42:11",
+      "album": {
+        "name": "You're My",
+        "url": "https://open.spotify.com/album/4mFzjQ1NzbzLCFbAPAVxL6"
+      },
+      "artists": [
+        {
+          "name": "Arima Ederra",
+          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "You're My",
+      "url": "https://open.spotify.com/track/0LmvbJfuLuFZxVWl8wGDJy"
     },
     {
       "added_at": "2025-12-19 05:00:40",
@@ -327,6 +559,22 @@
       "duration_ms": 217162,
       "name": "irl",
       "url": "https://open.spotify.com/track/4Xm4vhlJi5cwbfizY6uhR1"
+    },
+    {
+      "added_at": "2026-01-23 05:42:11",
+      "album": {
+        "name": "Almost There",
+        "url": "https://open.spotify.com/album/7sOimIUM5jqiDGAQ0WOR8n"
+      },
+      "artists": [
+        {
+          "name": "Latanya Alberto",
+          "url": "https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357"
+        }
+      ],
+      "duration_ms": 221228,
+      "name": "Almost There",
+      "url": "https://open.spotify.com/track/4PUwcojfOWPrGvEcPw1MOy"
     },
     {
       "added_at": "2025-11-07 06:06:34",
@@ -491,22 +739,6 @@
       "duration_ms": 184615,
       "name": "Officer, Pt. 2",
       "url": "https://open.spotify.com/track/1wmJ47pSNRkxsyMyfemUPJ"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "Tell Her",
-        "url": "https://open.spotify.com/album/1Sr1nrKVq8nYCrxvjPiHcA"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 199043,
-      "name": "Tell Her",
-      "url": "https://open.spotify.com/track/5OPjAIP9JeWQ7z15FCxAcv"
     },
     {
       "added_at": "2025-11-14 09:13:01",
@@ -707,22 +939,6 @@
       "duration_ms": 196000,
       "name": "Break",
       "url": "https://open.spotify.com/track/6o0jCyjCfxaFZOSSg9SHir"
-    },
-    {
-      "added_at": "2025-10-24 04:00:29",
-      "album": {
-        "name": "Under The Moon",
-        "url": "https://open.spotify.com/album/5htwDF4DJFuae9rE5LDQiV"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 206681,
-      "name": "Under The Moon",
-      "url": "https://open.spotify.com/track/7ey9jmePIXngNcEZ0p7fqk"
     },
     {
       "added_at": "2025-10-10 07:33:06",

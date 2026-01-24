@@ -12105,6 +12105,24 @@
     },
     {
       "album": {
+        "name": "High On You",
+        "url": "https://open.spotify.com/album/3KhmmfJf1mqsl04DzwJKMX"
+      },
+      "artists": [
+        {
+          "name": "Ashibah",
+          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "High On You",
+      "url": "https://open.spotify.com/track/4B9KPPA4Nm4HKDynyuoRZe"
+    },
+    {
+      "album": {
         "name": "Colorize Winter Sampler 2025",
         "url": "https://open.spotify.com/album/4RCLhJq0ksv7mKJYDQZExx"
       },

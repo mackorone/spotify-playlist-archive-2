@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-466 songs - 1 day 4 hr 2 min
+467 songs - 1 day 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Concrete Jungle](https://open.spotify.com/track/71cjuvx4ylaoLZJHSyHew2) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Concrete Jungle](https://open.spotify.com/album/3amdSKG2ydGodVwnWUx9OZ) | 2:36 | 2023-04-30 | 2023-05-23 |
 | [conexion paranormal](https://open.spotify.com/track/3oHgG69SLHaaZQE8SFP1x4) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [latin house](https://open.spotify.com/album/0geGNzCW92yXGPo02EakYb) | 3:40 | 2026-01-08 |  |
 | [Country Life \- Sosa UK Remix](https://open.spotify.com/track/04rMkHgKEFa7ipvuGOs4Ti) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Country Life \(Sosa UK Remix\)](https://open.spotify.com/album/19guSndSzg8Y6TXWZExmHj) | 4:56 | 2023-04-30 | 2023-05-23 |
+| [Crownless King](https://open.spotify.com/track/2iVseFHp51kkXwkBFKXhHh) | [LUX VINCI](https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt) | [The Vinci Effect](https://open.spotify.com/album/34h08NCdFsGF2aLT4TQRrZ) | 1:30 | 2026-01-23 |  |
 | [Cumbox](https://open.spotify.com/track/5jjSAzLVHCXqo63fvOrt5e) | [Peritz](https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp) | [Cumbox](https://open.spotify.com/album/5xyQ6UumlBSInYxRbp0cef) | 3:24 | 2025-12-19 | 2026-01-03 |
 | [Damn](https://open.spotify.com/track/0GYQ8MgmNLu8Z9uRmzPUKS) | [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Damn](https://open.spotify.com/album/5NQfmvp7sjG2vhWBcWRB5t) | 2:51 | 2023-07-02 | 2023-07-17 |
 | [Damnnn](https://open.spotify.com/track/2CH0ixni5BrCNceFTrIw8B) | [HAYNES](https://open.spotify.com/artist/0WZl1y6QbVezqTc2EqDHr4) | [Thicc N Juiccy](https://open.spotify.com/album/7dNRzgnt2UdVBW9GhxkkmZ) | 6:38 | 2023-01-29 | 2023-03-06 |

@@ -4956,7 +4956,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 189960,
       "name": "Beast",
       "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
@@ -4978,7 +4978,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
@@ -10595,7 +10595,7 @@
       "artists": [
         {
           "name": "Ironmouse",
-          "url": "https://open.spotify.com/artist/7mP0yyVD9PFmjqWcXI1kFB"
+          "url": "https://open.spotify.com/artist/3iN0khAe5Ilrjr2WnC8Poi"
         },
         {
           "name": "shirobeats",
@@ -10612,7 +10612,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 160645,
       "name": "Cry for Me WA WA WA - Live Version",
       "url": "https://open.spotify.com/track/19aIw4f5D2bMsufW7lYFYO"
@@ -12070,7 +12070,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 112131,
       "name": "Dima Maghreb",
       "url": "https://open.spotify.com/track/16hYITYJCwasNFOSLjGyJe"
@@ -26134,7 +26134,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 188250,
       "name": "LIKE ME",
       "url": "https://open.spotify.com/track/1wandUejiARUzcdwt6xkPS"
@@ -31912,7 +31912,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 125480,
       "name": "Never Ending Story",
       "url": "https://open.spotify.com/track/7r6xGsyES2DTacyP6O585i"
@@ -36276,6 +36276,24 @@
       "duration_ms": 169846,
       "name": "Positive",
       "url": "https://open.spotify.com/track/1oOg0jvlrnZSAy3dhK8fmB"
+    },
+    {
+      "album": {
+        "name": "Positive",
+        "url": "https://open.spotify.com/album/0t6utin2tgBOp6Fny1FxYs"
+      },
+      "artists": [
+        {
+          "name": "Jamback",
+          "url": "https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Positive",
+      "url": "https://open.spotify.com/track/6VufXg9dJXbAGe5UoMety3"
     },
     {
       "album": {
@@ -41076,7 +41094,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 212400,
       "name": "Solide",
       "url": "https://open.spotify.com/track/68oBz6xab6ATAobLCbtZXX"

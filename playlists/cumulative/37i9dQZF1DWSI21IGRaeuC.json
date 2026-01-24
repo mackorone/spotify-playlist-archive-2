@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-05",
-  "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f \nwith IDEMI",
+  "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Cam Stockman",
   "name": "Deep & Minimal",
   "tracks": [
     {
@@ -879,6 +879,24 @@
     },
     {
       "album": {
+        "name": "Back n' Forth",
+        "url": "https://open.spotify.com/album/0PjY1JVZYZJeC39YHJgbZV"
+      },
+      "artists": [
+        {
+          "name": "Crewcutz",
+          "url": "https://open.spotify.com/artist/3wRmWPRKhXTatAYGQUsC4E"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217674,
+      "name": "Back n' Forth",
+      "url": "https://open.spotify.com/track/5SLLAmfYuVM5WlOoxFl4Qa"
+    },
+    {
+      "album": {
         "name": "Back To Me",
         "url": "https://open.spotify.com/album/53jEoBJvKPpNoDrx1wwVfU"
       },
@@ -1016,7 +1034,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 179090,
       "name": "Bakk2thafuture",
       "url": "https://open.spotify.com/track/5DaYqyXcCFmgtd1OWFmfpn"
@@ -1276,7 +1294,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 208181,
       "name": "Be Without You",
       "url": "https://open.spotify.com/track/7c5LEXTP5c1VVELPaNrQii"
@@ -4664,7 +4682,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 195245,
       "name": "F U 2",
       "url": "https://open.spotify.com/track/13NK0agepLbROYX0f7wcjn"
@@ -5048,6 +5066,24 @@
       "duration_ms": 205059,
       "name": "For My People",
       "url": "https://open.spotify.com/track/25b2Ftcple4DAIyQ3V0mPF"
+    },
+    {
+      "album": {
+        "name": "For The Night",
+        "url": "https://open.spotify.com/album/2QnJK2my2hW7IMmf4MoLpT"
+      },
+      "artists": [
+        {
+          "name": "Mitch Freeman",
+          "url": "https://open.spotify.com/artist/3Z9cpCACRQX3FR4DzoFOiG"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261363,
+      "name": "For The Night",
+      "url": "https://open.spotify.com/track/2CHZ0FcivKxDfW0TBfw6ng"
     },
     {
       "album": {
@@ -6790,7 +6826,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 198095,
       "name": "Here We Go",
       "url": "https://open.spotify.com/track/5nx1l4LoUzh6LrNAbDeBwN"
@@ -7330,7 +7366,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 223500,
       "name": "Hype It Up - Edit",
       "url": "https://open.spotify.com/track/5v6QQaJHff2TLwY4gwrI3l"
@@ -7559,6 +7595,24 @@
     },
     {
       "album": {
+        "name": "Ill Behaviour",
+        "url": "https://open.spotify.com/album/1JrvmhqdmQ4ai0NuCnieO6"
+      },
+      "artists": [
+        {
+          "name": "J.K. Rollin",
+          "url": "https://open.spotify.com/artist/0q0fGcIwNUT2MrDT9HIdZZ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327300,
+      "name": "Ill Behaviour",
+      "url": "https://open.spotify.com/track/3PjlHGywmMwuj4YIawdty7"
+    },
+    {
+      "album": {
         "name": "Im so Wavy",
         "url": "https://open.spotify.com/album/1AjDt3tM3ZZBvioX3mvi18"
       },
@@ -7770,6 +7824,28 @@
       "duration_ms": 235530,
       "name": "Into My Arms",
       "url": "https://open.spotify.com/track/0s8JXlvyjyEPTGEzh7eW74"
+    },
+    {
+      "album": {
+        "name": "Into My Life (feat. Joyce Sims)",
+        "url": "https://open.spotify.com/album/4KzpmvHWP09GTVgGpnkBl7"
+      },
+      "artists": [
+        {
+          "name": "Cam Stockman",
+          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
+        },
+        {
+          "name": "Joyce Sims",
+          "url": "https://open.spotify.com/artist/4AL3YviSMI70ARkSOHlxbQ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131299,
+      "name": "Into My Life (feat. Joyce Sims)",
+      "url": "https://open.spotify.com/track/5Pcg7KpidYjuKTTJ12IvvF"
     },
     {
       "album": {
@@ -8186,6 +8262,24 @@
       "duration_ms": 162461,
       "name": "K.E.T. - Amine Mix",
       "url": "https://open.spotify.com/track/2lHQRWqKnLuFHl52CypW2X"
+    },
+    {
+      "album": {
+        "name": "Keep It Going EP",
+        "url": "https://open.spotify.com/album/4q0W1baKxEN4hrqSrRdcMi"
+      },
+      "artists": [
+        {
+          "name": "Klaudie",
+          "url": "https://open.spotify.com/artist/3wdr5Zao9XlZKBXZS6TQ4q"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206564,
+      "name": "Keep It Going",
+      "url": "https://open.spotify.com/track/1SiqYxxFyvHLK9pZWSo3Zz"
     },
     {
       "album": {
@@ -9417,6 +9511,24 @@
     },
     {
       "album": {
+        "name": "Mambos",
+        "url": "https://open.spotify.com/album/4HikS1roRtAhmCrFlSrvpM"
+      },
+      "artists": [
+        {
+          "name": "LIGHTLEAK",
+          "url": "https://open.spotify.com/artist/1gU6WyJYdljeam0N3ZpgOC"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Mambos",
+      "url": "https://open.spotify.com/track/3gFVvoIXxZkvCd8JhyovgY"
+    },
+    {
+      "album": {
         "name": "Mandarino",
         "url": "https://open.spotify.com/album/6Q4691rahwBsUh6SonmYlW"
       },
@@ -10402,7 +10514,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 371557,
       "name": "Need U",
       "url": "https://open.spotify.com/track/1A37xFTHGhyVDkPc7ctiVH"
@@ -11220,6 +11332,24 @@
       "duration_ms": 165230,
       "name": "One Wish",
       "url": "https://open.spotify.com/track/7u9E3xd7bjWHO6qCfvgcoH"
+    },
+    {
+      "album": {
+        "name": "Only Eight / Sweet Spot",
+        "url": "https://open.spotify.com/album/05QcL8gJwHD6rx8KQYRidd"
+      },
+      "artists": [
+        {
+          "name": "Josh Butler",
+          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210322,
+      "name": "Only Eight",
+      "url": "https://open.spotify.com/track/2Y2RNy9c5adXcFKxdTEHZI"
     },
     {
       "album": {
@@ -13610,7 +13740,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 187669,
       "name": "Shaking It Off",
       "url": "https://open.spotify.com/track/7fR1PpHhbyplRJgr95vMiX"
@@ -16104,7 +16234,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 345240,
       "name": "Through the Night",
       "url": "https://open.spotify.com/track/29wxSU91yjj9uVILkHuv83"
@@ -16405,6 +16535,24 @@
     },
     {
       "album": {
+        "name": "Touched EP",
+        "url": "https://open.spotify.com/album/3H8xdwZmthfEKUIFxb29Mu"
+      },
+      "artists": [
+        {
+          "name": "Louis Millne",
+          "url": "https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242790,
+      "name": "Touched",
+      "url": "https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa"
+    },
+    {
+      "album": {
         "name": "ENDZ059",
         "url": "https://open.spotify.com/album/1y8No6YVNxOYBIUZ3Oyy2h"
       },
@@ -16420,6 +16568,24 @@
       "duration_ms": 239524,
       "name": "Touch\u00e9",
       "url": "https://open.spotify.com/track/2F5i7VkC5ub2hkn1Niz9Em"
+    },
+    {
+      "album": {
+        "name": "thinking out loud EP",
+        "url": "https://open.spotify.com/album/7zZnpcWD9ZBDcoLgtdqnOJ"
+      },
+      "artists": [
+        {
+          "name": "Emery Bex",
+          "url": "https://open.spotify.com/artist/7DS0z5momEB8UbS6TxVhzZ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198425,
+      "name": "transition",
+      "url": "https://open.spotify.com/track/57EK2QTxNeZvWfinBC6Kc9"
     },
     {
       "album": {
@@ -18156,7 +18322,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 524881,
       "name": "You Drive Me Crazy",
       "url": "https://open.spotify.com/track/63tojppW4FpZnR4Xo9qYaL"

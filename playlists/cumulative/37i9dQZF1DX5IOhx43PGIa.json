@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illuminating Asian artists everywhere. Cover: Emei",
+  "description": "Illuminating Asian artists everywhere. Cover: STUTS, Julia Wu & Phum Viphurit",
   "name": "Jasmine",
   "tracks": [
     {
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 223596,
       "name": "Alleluia",
       "url": "https://open.spotify.com/track/52CCzktkTl3u0VkJ3ED96F"
@@ -3210,7 +3210,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 216195,
       "name": "buttons",
       "url": "https://open.spotify.com/track/41vSliETlsQOzukEfCjjSh"
@@ -8964,7 +8964,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 229846,
       "name": "Hate It When It's You",
       "url": "https://open.spotify.com/track/6ARHAMBOpkkQBVNHmTRxiX"
@@ -10071,6 +10071,24 @@
     },
     {
       "album": {
+        "name": "THE CORE - \u6838",
+        "url": "https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "HYPNOTIZE",
+      "url": "https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo"
+    },
+    {
+      "album": {
         "name": "Puberty 2",
         "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
       },
@@ -11145,6 +11163,28 @@
     },
     {
       "album": {
+        "name": "INVISIBLE (Tesh Remix)",
+        "url": "https://open.spotify.com/album/4dW1XRThBN6WebkWVXBGSL"
+      },
+      "artists": [
+        {
+          "name": "SHIMA",
+          "url": "https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI"
+        },
+        {
+          "name": "tesh",
+          "url": "https://open.spotify.com/artist/4bnUfGrlUSrYBRajJnAhDX"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "INVISIBLE - Tesh Remix",
+      "url": "https://open.spotify.com/track/3MwHiptJX7hU1HRgt2gLMa"
+    },
+    {
+      "album": {
         "name": "Invited",
         "url": "https://open.spotify.com/album/4Kyw6l5l1o0nC6jWIYOhbU"
       },
@@ -12046,6 +12086,24 @@
       "duration_ms": 177350,
       "name": "last night's mascara",
       "url": "https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP"
+    },
+    {
+      "album": {
+        "name": "Last of a Dying Breed",
+        "url": "https://open.spotify.com/album/3ttt3IAhIjw42M0OXWbyJS"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149866,
+      "name": "Last of a Dying Breed",
+      "url": "https://open.spotify.com/track/1c2ArpI0RmBOk62Tf81xLI"
     },
     {
       "album": {
@@ -14800,7 +14858,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 171087,
       "name": "my simple life",
       "url": "https://open.spotify.com/track/1FpUKD9oPAKA9jv1BH6jEl"
@@ -15115,6 +15173,32 @@
     },
     {
       "album": {
+        "name": "Night Drive",
+        "url": "https://open.spotify.com/album/2ewjJwbolSuFdspnL2xhRw"
+      },
+      "artists": [
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "Julia Wu",
+          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
+        },
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206202,
+      "name": "Night Drive",
+      "url": "https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o"
+    },
+    {
+      "album": {
         "name": "all that heaven allows",
         "url": "https://open.spotify.com/album/3mbHTRafIT6ndcL37omlgI"
       },
@@ -15210,6 +15294,24 @@
       "duration_ms": 151858,
       "name": "No upstream",
       "url": "https://open.spotify.com/track/7m5X4TXfY2YpUAAOOdTlsY"
+    },
+    {
+      "album": {
+        "name": "nobody cares",
+        "url": "https://open.spotify.com/album/12X2X5Jezr8aKMmn7eiFqp"
+      },
+      "artists": [
+        {
+          "name": "natalie jinju",
+          "url": "https://open.spotify.com/artist/5LmCyf1gg9oramCa33bZSu"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168864,
+      "name": "nobody cares",
+      "url": "https://open.spotify.com/track/4U8hzIkAh6cNEvbYF435Cn"
     },
     {
       "album": {
@@ -16112,7 +16214,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 166106,
       "name": "Past Won't Leave My Bed",
       "url": "https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ"
@@ -20603,6 +20705,28 @@
     },
     {
       "album": {
+        "name": "tenk(e)i",
+        "url": "https://open.spotify.com/album/5y0dNiCxiZ4l3x8BWbJMjq"
+      },
+      "artists": [
+        {
+          "name": "\u30d1\u30bd\u30b3\u30f3\u97f3\u697d\u30af\u30e9\u30d6",
+          "url": "https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye"
+        },
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296403,
+      "name": "tenk(e)i",
+      "url": "https://open.spotify.com/track/4ZxjpVTJfPfPr40IqbCOPj"
+    },
+    {
+      "album": {
         "name": "TENNESSEE",
         "url": "https://open.spotify.com/album/1FExYW4kwoxuHmCGgRYm8o"
       },
@@ -23442,6 +23566,24 @@
       "duration_ms": 105266,
       "name": "Where'd The Time Go?",
       "url": "https://open.spotify.com/track/2dXU17E5YrtwfQBlpyu8Ut"
+    },
+    {
+      "album": {
+        "name": "Where's My Phone?",
+        "url": "https://open.spotify.com/album/1oLPKLJMffq7fO3XapLx4G"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189853,
+      "name": "Where's My Phone?",
+      "url": "https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI"
     },
     {
       "album": {

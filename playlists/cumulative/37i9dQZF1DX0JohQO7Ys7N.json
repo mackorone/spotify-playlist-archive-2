@@ -2717,6 +2717,24 @@
     },
     {
       "album": {
+        "name": "Home Session",
+        "url": "https://open.spotify.com/album/66icwT2w7cUN4qFxSmfDNM"
+      },
+      "artists": [
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191973,
+      "name": "Lie to Me - Home Session",
+      "url": "https://open.spotify.com/track/52xnyuEQRJToUAolhLJGkO"
+    },
+    {
+      "album": {
         "name": "Lifetimes",
         "url": "https://open.spotify.com/album/5hC9LuVBPPiECwYohDX9By"
       },
@@ -3180,7 +3198,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 257647,
       "name": "MiiYa",
       "url": "https://open.spotify.com/track/3gA42BhHhRnItB1Iiwck5I"
@@ -3220,7 +3238,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 194440,
       "name": "More Than Friends",
       "url": "https://open.spotify.com/track/7y8eCLYtwwp7zWRRLnan6Z"
@@ -4632,6 +4650,24 @@
       "duration_ms": 188148,
       "name": "Sio Siri",
       "url": "https://open.spotify.com/track/5oKoPTkNST0DFa6CYOrCS6"
+    },
+    {
+      "album": {
+        "name": "Sioni Haja",
+        "url": "https://open.spotify.com/album/0MWqjICMiB1Sq87kGx0K7L"
+      },
+      "artists": [
+        {
+          "name": "DENO",
+          "url": "https://open.spotify.com/artist/6JnP9a6TJjhR0yexwK0MrK"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203075,
+      "name": "Sioni Haja",
+      "url": "https://open.spotify.com/track/11dHYUHkz51oJJ14KqBzfX"
     },
     {
       "album": {

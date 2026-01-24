@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,822 likes - 119 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,840 likes - 119 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wonderful Wonder](https://open.spotify.com/track/5sSoA18jYUkQkvC64o0IDS) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Love Song](https://open.spotify.com/artist/6yKVfS7jLHoqmI8AWvVivy) | [God of Love](https://open.spotify.com/album/2T2gLRnY1ylgkEWaEVuL1H) | 5:37 |
-| 2 | [Chief Commander](https://open.spotify.com/track/5qWhp6dw3gy1JT1nyw9K8b) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [](https://open.spotify.com/album/null) | 3:13 |
+| 2 | [Chief Commander](https://open.spotify.com/track/5qWhp6dw3gy1JT1nyw9K8b) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [A New Thing](https://open.spotify.com/album/5spXJeVWva4NhMwcjDlFpb) | 3:13 |
 | 3 | [No Turning Back II](https://open.spotify.com/track/5VKXfM7SWob2onq118RjYJ) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [No Turning Back II](https://open.spotify.com/album/4J3JoxIKe3ehKLJ39ABh5C) | 4:59 |
 | 4 | [With My Name](https://open.spotify.com/track/5WDbJHOq4PksAQVxQbWEQV) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [With My Name](https://open.spotify.com/album/5TjR8fM9WlOCcikQzHQXCB) | 3:41 |
 | 5 | [Ekele \(Thank You\)](https://open.spotify.com/track/2yHAk6q2S0xol1xxYo2P72) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [Dells TMX](https://open.spotify.com/artist/5w4pU01c66v4DQc8mqGK0r), [April Onoh](https://open.spotify.com/artist/5PiRDDnrgH1ekAf6fgYeSb) | [Ekele \(Thank You\)](https://open.spotify.com/album/6Nu8MaPI5Iy01qGFXk8RiK) | 2:25 |

@@ -2,9 +2,9 @@
 
 ### [Asakaa](https://open.spotify.com/playlist/37i9dQZF1DX7ygLlsNqPvp)
 
-> The most intense local drill music firing up the continent\. Cover:  O'Kenneth
+> The most intense local drill music firing up the continent\. Cover:  Beeztrap KOTM
 
-270 songs - 13 hr 31 min
+271 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Invoice \(feat\. JayBhad and Superwozzy\)](https://open.spotify.com/track/0OhBrDka6qnfgUAqJmVOep) | [Papisnoop](https://open.spotify.com/artist/4UhzXeD0cSxjMhsgqK1V01), [JayBhad](https://open.spotify.com/artist/7LpYKH08Y6lfbKwSrkv0xp), [SuperWozzy](https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS) | [Invoice \(feat\. JayBhad and Superwozzy\)](https://open.spotify.com/album/6x23A7be271sTaPRBnJelP) | 3:56 | 2023-11-03 | 2023-11-17 |
 | [Iron](https://open.spotify.com/track/0yAOunFIcD2gHV7bLTWqoh) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Iron](https://open.spotify.com/album/5YIeMa14BClS4EbIyBn5tR) | 2:27 | 2024-09-20 | 2024-12-20 |
 | [Iron Boy](https://open.spotify.com/track/2i5Kl8klG0WeHiQ4Z90YYr) | [Fonye](https://open.spotify.com/artist/0wtEd1BCIE0Kj5BOOLb3AE), [DJ Faculty](https://open.spotify.com/artist/4H1pPIzeLYZbxNW3Sx1lLG) | [Iron Boy](https://open.spotify.com/album/10UlMBNZDUc1444tKBYJGs) | 2:43 | 2024-09-13 | 2024-10-05 |
-| [ISHOWSLIME](https://open.spotify.com/track/5Z9Ykm3nBlE5aRWEhY0eD5) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [ISHOWSLIME](https://open.spotify.com/album/2SBgt9ehUfaIJof7h9oLzz) | 2:25 | 2025-02-28 |  |
+| [ISHOWSLIME](https://open.spotify.com/track/5Z9Ykm3nBlE5aRWEhY0eD5) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [ISHOWSLIME](https://open.spotify.com/album/2SBgt9ehUfaIJof7h9oLzz) | 2:25 | 2025-02-28 | 2026-01-24 |
 | [It's not over](https://open.spotify.com/track/7LRg28E7naQ4qyaONXy2Kv) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [It's not over](https://open.spotify.com/album/4m3OS4wQGJSAq9uOxVVsyX) | 3:10 | 2024-09-27 | 2024-10-19 |
 | [IT'S TIME](https://open.spotify.com/track/6MCGLH0jyEv6Nleaqjo5H2) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [IT'S TIME](https://open.spotify.com/album/3XfAa6S4mCg8AELOG3kooq) | 2:28 | 2024-09-27 |  |
 | [KABUTEY FLOW](https://open.spotify.com/track/7JS8FzTaLZEQFhTHTXinLY) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [KABUTEY FLOW](https://open.spotify.com/album/71E270Mzm0P0YkMPAMBEjx) | 2:17 | 2024-01-05 | 2025-02-28 |
@@ -144,6 +144,7 @@
 | [Kusuu](https://open.spotify.com/track/1ESLdyMbLyjOHVQlNzRVSf) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Kusuu](https://open.spotify.com/album/4aOZ8ao2T20NAhM93nMa2t) | 3:25 | 2023-12-01 | 2024-01-05 |
 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 | 2022-06-09 | 2023-04-21 |
 | [Kɔɔ](https://open.spotify.com/track/5XCBMETHAG2klPDEcUP4Jy) | [Uncle Rich](https://open.spotify.com/artist/7B1cOpsjjQEadmCo3psX4l), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/5ZpVtG24m3h6pPcwPJQAqN) | [Kɔɔ](https://open.spotify.com/album/1x6Cii1tbEpe35hHklUJTD) | 3:46 | 2023-06-16 | 2023-09-15 |
+| [LABADI](https://open.spotify.com/track/6LRN0BxZWwTc8kgPK5XbBu) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [LABADI](https://open.spotify.com/album/1ujkng48efaVKFzlfEMIYr) | 2:14 | 2026-01-23 |  |
 | [Last Born \- remix](https://open.spotify.com/track/6xBbLvAwPlDa1fosQmYWOo) | [Baba Tundey](https://open.spotify.com/artist/16hyxoxcvlNxKIkpQaaCnC), [Holyrina](https://open.spotify.com/artist/7rTbmW7MnQQjLKpFdZrTuv) | [Last Born \(remix\)](https://open.spotify.com/album/0bN4JAgl4XuReSPUQ47iQV) | 2:12 | 2024-03-29 | 2024-04-05 |
 | [Last Laugh](https://open.spotify.com/track/20WmTjQrBqDLvsSaLG6bKi) | [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Take The L](https://open.spotify.com/album/1lwwDyRJgvfPa8tqE9mov3) | 2:59 | 2024-10-25 | 2024-11-09 |
 | [Lavida Loca](https://open.spotify.com/track/6OOUQ6PiHVK5M63KEfpXUg) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [PITJ](https://open.spotify.com/album/2YLTD3ctvprBZqF3nBspik) | 2:35 | 2023-08-10 | 2025-02-28 |

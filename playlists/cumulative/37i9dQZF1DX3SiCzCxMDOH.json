@@ -14023,6 +14023,24 @@
     },
     {
       "album": {
+        "name": "Still in motion",
+        "url": "https://open.spotify.com/album/46di7AoSF1MkaXhYp8P8g9"
+      },
+      "artists": [
+        {
+          "name": "Les trois copines",
+          "url": "https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167945,
+      "name": "Still in motion",
+      "url": "https://open.spotify.com/track/4ixvjdNuDsqLezXhbaCee5"
+    },
+    {
+      "album": {
         "name": "Still Not Found",
         "url": "https://open.spotify.com/album/1KskVMt5yjecImxWaMp5Tx"
       },
@@ -17264,7 +17282,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 185325,
       "name": "Where Are You?",
       "url": "https://open.spotify.com/track/1G9aTMIOFrVvsxthH1c20e"

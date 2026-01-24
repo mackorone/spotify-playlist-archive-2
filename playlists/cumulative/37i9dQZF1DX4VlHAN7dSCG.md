@@ -4,7 +4,7 @@
 
 > 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: 信樂團
 
-918 songs - 2 day 11 hr 40 min
+919 songs - 2 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -716,6 +716,7 @@
 | [特技家族](https://open.spotify.com/track/1WU2jGxXbvGnqT2EZTiszx) | [OVDS](https://open.spotify.com/artist/73OoUzzgefq2AoHsfTZ39j) | [特技家族](https://open.spotify.com/album/5b8nrCJTdSwFKLP4dcwbBP) | 5:11 | 2025-09-25 | 2025-10-17 |
 | [狂欢派对](https://open.spotify.com/track/2WwLMviqGB7J9SAuQMpT0N) | [無望春Nospring](https://open.spotify.com/artist/2CwMnWleZhRXFSMcaPoM6b) | [流浪狗](https://open.spotify.com/album/432m7XuymOGZhm5Bj0iOKz) | 4:41 | 2025-07-17 | 2025-08-08 |
 | [狠操俱樂部](https://open.spotify.com/track/5VwHRwTh6zV1kBIW3FApTx) | [西屯純愛組](https://open.spotify.com/artist/6cYpkZJmpjYnWD6M5IDddT), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [Multiverse](https://open.spotify.com/artist/0l2z1SB8aaIp8vNhI9i5YL) | [狠操俱樂部](https://open.spotify.com/album/2KkpAHwcFULIdz2MoLZUny) | 3:48 | 2024-06-28 | 2024-07-12 |
+| [狩獵](https://open.spotify.com/track/1vaMx5pz4b8lKQO6tWGOc3) | [Endless](https://open.spotify.com/artist/21JpKdhWfLuiv359q5iuw0) | [狩獵](https://open.spotify.com/album/66BH4VVc6lWFFcq9zU1Q1m) | 3:36 | 2026-01-22 |  |
 | [獵心](https://open.spotify.com/track/04sSOfLiYZlOBSHPeLTO0a) | [白頻率 White Frequency](https://open.spotify.com/artist/4tREKMNVSLyiI0K6IhgHVc) | [獵心](https://open.spotify.com/album/3ZSu3LsLWTSdUzjtzxeXu0) | 5:06 | 2025-01-09 | 2025-01-31 |
 | [現實作廢](https://open.spotify.com/track/2OySVz6HcWe7uTfL7QtEBi) | [四腳獸](https://open.spotify.com/artist/0pe3Hx7rHUNprC7PPOZqUK) | [現實作廢](https://open.spotify.com/album/2TQOUlYohPesqQiw0HI5He) | 3:57 | 2025-12-18 | 2026-01-02 |
 | [甘巴爹！我愛你！](https://open.spotify.com/track/6aEIxmIambRvxYopHdbrHY) | [P!SCO](https://open.spotify.com/artist/5ucZzHHKydsmjyZJT9vOWe) | [雷霆之愛](https://open.spotify.com/album/0EOGDwHmt6Sv0USjC4VAdW) | 4:29 | 2024-06-28 | 2024-07-12 |

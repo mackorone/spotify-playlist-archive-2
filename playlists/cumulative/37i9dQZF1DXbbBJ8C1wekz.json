@@ -528,7 +528,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 188601,
       "name": "A Comitiva",
       "url": "https://open.spotify.com/track/4rqdcTkE0cVq2Xilp5wqeX"
@@ -816,6 +816,24 @@
       "duration_ms": 140343,
       "name": "ALPINISTA SOCIAL",
       "url": "https://open.spotify.com/track/5SuhtRofSXwsvto7BXUk9z"
+    },
+    {
+      "album": {
+        "name": "Animais Traidores 2",
+        "url": "https://open.spotify.com/album/5B2QEtzBGfRRBYcuCeszur"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194726,
+      "name": "Animais Traidores 2",
+      "url": "https://open.spotify.com/track/7phZ8xIy0e31ZfEjF3i4ZX"
     },
     {
       "album": {
@@ -6708,7 +6726,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 82226,
       "name": "MODA",
       "url": "https://open.spotify.com/track/4GONOtCdIdl7hspqqgx0UD"
@@ -7258,6 +7276,24 @@
       "duration_ms": 195596,
       "name": "N\u00e3o conversamos, mas",
       "url": "https://open.spotify.com/track/6IiO96wuVwJhvXZVUwjGeX"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Me Compare",
+        "url": "https://open.spotify.com/album/32pcVEV4x9db4ZiTGdWdAA"
+      },
+      "artists": [
+        {
+          "name": "ZackZin",
+          "url": "https://open.spotify.com/artist/6lrWmdRj2k37Hc5ugFNygs"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165219,
+      "name": "N\u00e3o Me Compare",
+      "url": "https://open.spotify.com/track/7feGzRhMM4EYWX61cb6dk7"
     },
     {
       "album": {
@@ -8154,6 +8190,32 @@
       "duration_ms": 124646,
       "name": "Pique Matrix",
       "url": "https://open.spotify.com/track/4vA1eZaH9Dlf7ZcdOL3eXK"
+    },
+    {
+      "album": {
+        "name": "CHTC?",
+        "url": "https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4"
+      },
+      "artists": [
+        {
+          "name": "Klisman",
+          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "PIR\u00c2MIDE",
+      "url": "https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6"
     },
     {
       "album": {
@@ -10018,7 +10080,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 165540,
       "name": "TaTaTa - Spotify Sessions",
       "url": "https://open.spotify.com/track/06sFcSZXIEGVgebMjnRwXr"
@@ -10142,6 +10204,60 @@
       "duration_ms": 199555,
       "name": "THE BOX MEDLEY",
       "url": "https://open.spotify.com/track/4HUaEW97kTPeKOL6pN9cuD"
+    },
+    {
+      "album": {
+        "name": "THE BOX MEDLEY 11",
+        "url": "https://open.spotify.com/album/2eZxNKX7vVsdh9OV3USOdW"
+      },
+      "artists": [
+        {
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Surfista",
+          "url": "https://open.spotify.com/artist/5AMeLwKDeR7h8z6ai0IPnX"
+        },
+        {
+          "name": "Racovi Oficial",
+          "url": "https://open.spotify.com/artist/4wKMCoPdqFIdM8I1jDERYX"
+        },
+        {
+          "name": "Mvk",
+          "url": "https://open.spotify.com/artist/78TUxGXS6Jpos6nj2oEqSP"
+        },
+        {
+          "name": "Bren Oficial",
+          "url": "https://open.spotify.com/artist/2kz0IOC0n4w9Zg7X7HigTB"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        },
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        },
+        {
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253042,
+      "name": "THE BOX MEDLEY 11",
+      "url": "https://open.spotify.com/track/6zlAWWyR93ryKDyWVQbL4v"
     },
     {
       "album": {
@@ -10536,7 +10652,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 161136,
       "name": "Tropa do Flamengo",
       "url": "https://open.spotify.com/track/6hSs4NAiWub47nULLBtUj1"

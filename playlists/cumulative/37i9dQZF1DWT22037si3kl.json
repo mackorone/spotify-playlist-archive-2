@@ -742,7 +742,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 144129,
       "name": "Ar15",
       "url": "https://open.spotify.com/track/5iDc7d5bKTUvHB6Metp2eY"
@@ -7796,6 +7796,24 @@
       "duration_ms": 183272,
       "name": "Nois faz a moda",
       "url": "https://open.spotify.com/track/29cJDWOBQqeDPdYbu4kwki"
+    },
+    {
+      "album": {
+        "name": "NOITE DE TRAP",
+        "url": "https://open.spotify.com/album/2N8aePZV3J6i2yV4tNAL4f"
+      },
+      "artists": [
+        {
+          "name": "TheJovemJota",
+          "url": "https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "NOITE DE TRAP",
+      "url": "https://open.spotify.com/track/6kfmdw0rCqnnnosIxKbBDZ"
     },
     {
       "album": {

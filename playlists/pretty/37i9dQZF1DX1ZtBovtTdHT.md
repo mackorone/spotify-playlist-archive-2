@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,477 likes - 82 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,510 likes - 82 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 17 | [Because The Night \(Radio Edit\)](https://open.spotify.com/track/46T7WAIHdt9v6xsqtWU6CH) | [Jan Wayne](https://open.spotify.com/artist/57QfQOhi7oyPiscoWfUSeC) | [Back Again!](https://open.spotify.com/album/5JQuXobnpxRkqE1jovr1N9) | 3:33 |
 | 18 | [Dear Jessie](https://open.spotify.com/track/7h2jT3YLmtDAxf4cF6rSQu) | [Rollergirl](https://open.spotify.com/artist/4OA1c70ANsRopn5bWmJ0Rk) | [Now I'm Singin'..\. \(And the Party Keeps on Rollin'\)](https://open.spotify.com/album/1CRIidVn4zBI4qCIuSEMFs) | 3:34 |
 | 19 | [Walk on Water \- H2O Radio Mix](https://open.spotify.com/track/6Phug5Bw0QShaFvRMeBVzZ) | [Milk Inc.](https://open.spotify.com/artist/2sgikskblKZFbDpsYO9anB) | [Land Of The Living](https://open.spotify.com/album/4IJCl7EEMVTn9YzqlYtfP7) | 3:12 |
-| 20 | [Désenchantée \- Radio Edit](https://open.spotify.com/track/0eAvGqc9t4Wuc6gDcSi5Aa) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Essential](https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3) | 3:40 |
-| 21 | [Alone](https://open.spotify.com/track/5TINskHXiPUY4YEJZVcyuG) | [Lasgo](https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp) | [Some Things \(Deluxe\)](https://open.spotify.com/album/5C48YYSKZGy2W2pNxisF8w) | 4:01 |
+| 20 | [Alone](https://open.spotify.com/track/5TINskHXiPUY4YEJZVcyuG) | [Lasgo](https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp) | [Some Things \(Deluxe\)](https://open.spotify.com/album/5C48YYSKZGy2W2pNxisF8w) | 4:01 |
+| 21 | [Désenchantée \- Radio Edit](https://open.spotify.com/track/0eAvGqc9t4Wuc6gDcSi5Aa) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Essential](https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3) | 3:40 |
 | 22 | [1998 \- Paul van Dyk Remix](https://open.spotify.com/track/72lRA680a5ZWu0l14phseH) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe), [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [1998](https://open.spotify.com/album/6yp67msJDZJIkki3TGzhmq) | 3:30 |
 | 23 | [Insomnia \- Radio Edit](https://open.spotify.com/track/3VARvuAse3BGcthh63pUeg) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [One For The Lad's](https://open.spotify.com/album/5jdiTLHBNbOqHLkYbBiPN9) | 3:36 |
 | 24 | [Proximus \- Radio Edit](https://open.spotify.com/track/4Evb0y5ZghAbBUKf4PuGc2) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [50 Best Trance Hits Ever](https://open.spotify.com/album/18fxBZwWroGh7bIGUk6eNW) | 3:31 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 31 | [ALARMA!](https://open.spotify.com/track/5ezKbpPGtVHwUzKo3rdywi) | [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx \(Platinum Edition\)](https://open.spotify.com/album/2hziJmkRyETKw5sGzrmm0R) | 3:25 |
 | 32 | [Barber's Adagio for Strings \- Ferry Corsten Remix](https://open.spotify.com/track/2K4cyGqJ1klZEGF689y75P) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [Pieces In A Modern Style](https://open.spotify.com/album/7ukU4X47G0x9atxxGY9aR6) | 6:35 |
 | 33 | [Toca Me \- Clubmix](https://open.spotify.com/track/4OGrLEjSTGoc0dSNE49w49) | [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ) | [Toca Me](https://open.spotify.com/album/0rurUxYPrhh8DlTEFcvi4Q) | 5:46 |
-| 34 | [It's A Fine Day](https://open.spotify.com/track/3jjhHmTYb7t0mFCTiDg0Kg) | [Barcode Brothers](https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk) | [Swipe Me](https://open.spotify.com/album/2gHDTP5A75V7oGRtwqIOWN) | 3:52 |
-| 35 | [Raindrops \- Radio Edit](https://open.spotify.com/track/5harK7MSbeedWxAekeBqGZ) | [Stunt](https://open.spotify.com/artist/2thOenzsesBQDJxkDkMUGI) | [Raindrops](https://open.spotify.com/album/5iefIjpSiQUki0ZqWse3hS) | 3:34 |
+| 34 | [Raindrops \- Radio Edit](https://open.spotify.com/track/5harK7MSbeedWxAekeBqGZ) | [Stunt](https://open.spotify.com/artist/2thOenzsesBQDJxkDkMUGI) | [Raindrops](https://open.spotify.com/album/5iefIjpSiQUki0ZqWse3hS) | 3:34 |
+| 35 | [It's A Fine Day](https://open.spotify.com/track/3jjhHmTYb7t0mFCTiDg0Kg) | [Barcode Brothers](https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk) | [Swipe Me](https://open.spotify.com/album/2gHDTP5A75V7oGRtwqIOWN) | 3:52 |
 | 36 | [AmokK \- Radio Edit](https://open.spotify.com/track/2ozX5ETDNn7IhiNE5jodfZ) | [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx \(Platinum Edition\)](https://open.spotify.com/album/2hziJmkRyETKw5sGzrmm0R) | 3:53 |
 | 37 | [Airwave \- Album Cut](https://open.spotify.com/track/06h6Y3nklQ8NgRwemZlQDS) | [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Symsonic](https://open.spotify.com/album/6P7JbeaSgpo5XdLzXmin1z) | 4:59 |
 | 38 | [Dr Feelgood \- Radio Edit](https://open.spotify.com/track/2etCol6AqBN1SkenuxzBE2) | [Interphace](https://open.spotify.com/artist/5oADI8beeP63WY4xyHr7nn) | [Injected Movements Radio Versions](https://open.spotify.com/album/43ddVzrwlBtRGrDZUkr4YJ) | 3:46 |
@@ -66,10 +66,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 56 | [Better Off Alone](https://open.spotify.com/track/6eDEHsdHPNwmV3JpeftN5f) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/6dykJlw4E4k9XhIYB3HGPE) | 3:35 |
 | 57 | [Out of the Blue \- Radio Edit](https://open.spotify.com/track/0t8fgj3EHfChyTeCT2th22) | [System F](https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i) | [Out Of The Blue Remastered](https://open.spotify.com/album/6Opf5LVPBWGOhCSYY5yTQZ) | 3:54 |
 | 58 | [On The Move \- Radio Edit](https://open.spotify.com/track/0sNdLboAT8M7IoC1teapP4) | [Barthezz](https://open.spotify.com/artist/2ikrIhCYSKmzCgWb9EM3aT) | [On the Move](https://open.spotify.com/album/2dyNhjsccNcbYfEr4JOxJT) | 3:36 |
-| 59 | [Komodo](https://open.spotify.com/track/0KeUidAZVdvTbM553K7809) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [90s Super Hits](https://open.spotify.com/album/1aT4pCssUqFdte15MlK1nX) | 3:24 |
-| 60 | [Saltwater](https://open.spotify.com/track/4cI6ONQUJyGtLXzOYaM2P0) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Best Of Chicane](https://open.spotify.com/album/3t2sS4OnOQDLZ1oqYBlTen) | 3:22 |
+| 59 | [Luvstruck \- Radio Edit](https://open.spotify.com/track/5zaRPiIB5mtXLPye8w2xSb) | [Southside Spinners](https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb) | [Luvstruck](https://open.spotify.com/album/4I7aN6i2uvGefJXZxmEffY) | 3:17 |
+| 60 | [Komodo](https://open.spotify.com/track/0KeUidAZVdvTbM553K7809) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [90s Super Hits](https://open.spotify.com/album/1aT4pCssUqFdte15MlK1nX) | 3:24 |
 | 61 | [Will I Ever](https://open.spotify.com/track/42vplZSyKjmELGTcD44miF) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Will I Ever](https://open.spotify.com/album/1hc7cfd7WdYtx2WVYiz78E) | 3:14 |
-| 62 | [Luvstruck \- Radio Edit](https://open.spotify.com/track/5zaRPiIB5mtXLPye8w2xSb) | [Southside Spinners](https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb) | [Luvstruck](https://open.spotify.com/album/4I7aN6i2uvGefJXZxmEffY) | 3:17 |
+| 62 | [Saltwater](https://open.spotify.com/track/4cI6ONQUJyGtLXzOYaM2P0) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Best Of Chicane](https://open.spotify.com/album/3t2sS4OnOQDLZ1oqYBlTen) | 3:22 |
 | 63 | [Fly Away](https://open.spotify.com/track/4Z26wEXH0XBQwxTpaC7NyR) | [Vincent de Moor](https://open.spotify.com/artist/513hutOhfryax7g1N0XHEk) | [Best of Vincent de Moor](https://open.spotify.com/album/3XtzJqPBCBP5eNb32tGbBe) | 8:21 |
 | 64 | [Free](https://open.spotify.com/track/4UuA9Tn0QfBEkea3Rcf2q3) | [La Cream](https://open.spotify.com/artist/1042GWtxzEb5XrVoUJkiXc) | [La Cream](https://open.spotify.com/album/6QfZW2wYR43ZpVVXruPbpQ) | 3:10 |
 | 65 | [Played\-A\-Live \(The Bongo Song\)](https://open.spotify.com/track/3GNluLmWNf2QaK1KWTSBsp) | [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl) | [The Remix Edition \- Episode ll](https://open.spotify.com/album/1nrbP2ZpwFZjiOzU4LCh8c) | 6:45 |

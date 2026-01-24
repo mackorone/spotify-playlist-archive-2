@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 639 likes - 155 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 640 likes - 155 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 83 | [A Drum Is a Woman, Pt\. 1](https://open.spotify.com/track/4kthM0nYfw3wYKTPO4un5B) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [A Drum Is a Woman](https://open.spotify.com/album/1L06BMH0kRrUQX93Vv3xck) | 3:37 |
 | 84 | [What Else Can You Do With a Drum](https://open.spotify.com/track/5gYmkSgdzNS3ymOwR2t6pO) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Copenhagen 1958](https://open.spotify.com/album/49eb6TGttK5jEVK8H1bb29) | 2:03 |
 | 85 | [Lotus Blossom](https://open.spotify.com/track/70dfarV5LT25SJRzmanKDz) | [John Dimartino](https://open.spotify.com/artist/6bCofFGp9w6X6Bh4V3fLQc) | [Passion Flower](https://open.spotify.com/album/4eDXtUYCXcpr7r2SkN0xN8) | 2:33 |
-| 86 | [Killin' Myself \(Original Mix\)](https://open.spotify.com/track/5dh9D9GrBa0n2Q2bbQLmVq) | [Ivie Anderson](https://open.spotify.com/artist/1jEpOIhjQCQlOEzLdGS4bA) | [Cotton](https://open.spotify.com/album/31B65BtXTCOXo72fc3JRZH) | 2:25 |
-| 87 | [Afro\-Bossa](https://open.spotify.com/track/7AONTENNNhbwr55248rPTq) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Mood Indigo](https://open.spotify.com/album/5sAlnk7GmDC5KRE1sKudIX) | 3:05 |
+| 86 | [Afro\-Bossa](https://open.spotify.com/track/7AONTENNNhbwr55248rPTq) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Mood Indigo](https://open.spotify.com/album/5sAlnk7GmDC5KRE1sKudIX) | 3:05 |
+| 87 | [Killin' Myself \(Original Mix\)](https://open.spotify.com/track/5dh9D9GrBa0n2Q2bbQLmVq) | [Ivie Anderson](https://open.spotify.com/artist/1jEpOIhjQCQlOEzLdGS4bA) | [Cotton](https://open.spotify.com/album/31B65BtXTCOXo72fc3JRZH) | 2:25 |
 | 88 | [Big Fat Alice's Blues](https://open.spotify.com/track/5p0hnipiGSOZkBSpFCeTkJ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Concert In The Virgin Islands](https://open.spotify.com/album/4toQQBpDcDpwGG7XWuZhBZ) | 3:56 |
 | 89 | [Love Came](https://open.spotify.com/track/2BukZdJTNy31obo8K6XpDW) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Jazz Legends: Piano](https://open.spotify.com/album/2O3ocOxzKb6ciuXsdmhpB3) | 2:28 |
 | 90 | [The Eighth Veil](https://open.spotify.com/track/2MeGcaarc3ZW0nQ5An18gT) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Duke Ellington And His Orchestra, Vol.1, 1946](https://open.spotify.com/album/4Rdr70bjdonvcrh032nGat) | 3:07 |
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 107 | [Total Jazz \(Final Movement Of "Portrait Of Ella Fitzgerald"\)](https://open.spotify.com/track/5wDO63teFXXvFS9IarBkc4) | [Lincoln Center Jazz Orchestra](https://open.spotify.com/artist/57tcqQ5NpKmaGE9zHMTiez), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Portraits By Ellington](https://open.spotify.com/album/0LIkxSapjR9etoqmQ0gLNq) | 7:15 |
 | 108 | [Dirge \- Live At Carnegie Hall, New York, NY / January 23, 1943](https://open.spotify.com/track/2KOwaaAxQdgDhVCvr1TMfh) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke Ellington Carnegie Hall Concerts, January 1943](https://open.spotify.com/album/6i29InGHUJYbANFbrjYqMd) | 3:28 |
 | 109 | [All Roads Lead Back to You](https://open.spotify.com/track/0vdx7Ru1ANgxu8iE4IMFuI) | [Anaïs Reno](https://open.spotify.com/artist/2yDfaA2valGk3S1Qw0bybK), [Emmet Cohen](https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT) | [Lovesome Thing](https://open.spotify.com/album/1Bi6JhIeusqvHRaHQ8Oq82) | 4:22 |
-| 110 | [Metronome All Out](https://open.spotify.com/track/06XAOVGxCJ8H8eZTPie4cH) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music & Cabu Present Duke Ellington at the Piano](https://open.spotify.com/album/7nnCsQ6WJXoQ7N8IGvbKW0) | 4:49 |
-| 111 | [A Train](https://open.spotify.com/track/5eXSfxJEQ97wabK59E4Q8V) | [The Bob Florence Limited Edition](https://open.spotify.com/artist/1j9ZcAj2ccKF0T05WIOtSZ) | [Legendary](https://open.spotify.com/album/12a7QFo0wpphi58Ad18Mk3) | 9:06 |
+| 110 | [A Train](https://open.spotify.com/track/5eXSfxJEQ97wabK59E4Q8V) | [The Bob Florence Limited Edition](https://open.spotify.com/artist/1j9ZcAj2ccKF0T05WIOtSZ) | [Legendary](https://open.spotify.com/album/12a7QFo0wpphi58Ad18Mk3) | 9:06 |
+| 111 | [Metronome All Out](https://open.spotify.com/track/06XAOVGxCJ8H8eZTPie4cH) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music & Cabu Present Duke Ellington at the Piano](https://open.spotify.com/album/7nnCsQ6WJXoQ7N8IGvbKW0) | 4:49 |
 | 112 | [Once Upon a Dream](https://open.spotify.com/track/1CYWQAYkNJMGwtCJBzxxfE) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 3:00 |
 | 113 | [Wounded Love](https://open.spotify.com/track/0MilYv2CPSz8OSagzt4OZ3) | [Ack van Rooyen](https://open.spotify.com/artist/0vKyK79242pyAt7Q2Q098s), [Paul Heller](https://open.spotify.com/artist/0a1edbJ1q3RcJJVNs6OZE7), [Hubert Nuss](https://open.spotify.com/artist/2ZGQmeuUjYVQqFBlOuCHu8), [Ingmar Heller](https://open.spotify.com/artist/2eN5KGOnoYxAXKdGXUmlV8) | [Live & In Studio](https://open.spotify.com/album/1AX3jZbnAs6Y6dCsZsYZ93) | 3:20 |
 | 114 | [Elysee](https://open.spotify.com/track/33lviUYxL1teikwgjjBtkM) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Private Collection, Vol\. 4: Studio Sessions New York 1963](https://open.spotify.com/album/5pyw7AuWKPPAZ4Y4OU4SZM) | 2:25 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 154 | [Rhumbop](https://open.spotify.com/track/6ebY9lVt94BL4VWduLL0eq) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 3:29 |
 | 155 | [Up and Down, up and Down \(I Will Lead Them up and Down\)](https://open.spotify.com/track/2miKp3bcM2dEB9FmLOG9nT) | [Czechoslovak Radio Jazz Orchestra](https://open.spotify.com/artist/6YynL3WAOLrsD1V7JFgkJc) | [Duke Ellington: Such Sweet Thunder](https://open.spotify.com/album/10AJORtPWhhRy02XfXgZ5C) | 2:52 |
 
-Snapshot ID: `AcHqFgAAAABAmNpx+5V5pF6UZasBFY5N`
+Snapshot ID: `AcHvtgAAAAB4w/hnFSoobaCrubr7XnYY`

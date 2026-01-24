@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,552 likes - 99 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,560 likes - 99 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [scared](https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [USB](https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT) | 4:03 |
+| 1 | [scared](https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [USB](https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT) | 3:46 |
 | 2 | [tenk\(e\)i](https://open.spotify.com/track/4ZxjpVTJfPfPr40IqbCOPj) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [tenk\(e\)i](https://open.spotify.com/album/5y0dNiCxiZ4l3x8BWbJMjq) | 4:56 |
 | 3 | [Only Human \- MPH Remix](https://open.spotify.com/track/6s0XiiD5NE5MetCoOVY0yM) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Only Human \(MPH Remix\)](https://open.spotify.com/album/3NxHT2iJHRMYenPLvmjYRA) | 4:21 |
 | 4 | [Fallin'](https://open.spotify.com/track/4RWk0U7Fk6Y6TCLk0THcfN) | [Noah Baine](https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI) | [Balance](https://open.spotify.com/album/19z1oEwjBsQb9DSCqGRaq5) | 2:52 |

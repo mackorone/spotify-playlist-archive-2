@@ -1,12 +1,12 @@
 {
   "description": "Rilisan baru pekan ini dari Harry Styles, Arctic Monkeys, Joji, Maudy Ayunda dan masih banyak lagi dari dalam dan mancanegara.",
-  "num_followers": 229264,
+  "num_followers": 229708,
   "original_name": "New Music Friday Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMEzPoMMgIF5iSmFADZtu7NLqFsk",
+  "snapshot_id": "AAAAADKMHMBjYDrizX7/b9LyI3SAbuX6",
   "tracks": [
     {
       "added_at": "2026-01-23 00:01:32",
@@ -124,7 +124,7 @@
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 243809,
+      "duration_ms": 226666,
       "name": "scared",
       "url": "https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB"
     },
@@ -211,8 +211,8 @@
     {
       "added_at": "2026-01-22 17:00:03",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "BIRU BARU",
+        "url": "https://open.spotify.com/album/3F6ab0kzrpxTmUrfCkcehU"
       },
       "artists": [
         {
@@ -225,10 +225,26 @@
       "url": "https://open.spotify.com/track/3t2e7Pf3UfZj5HwqVfjPgZ"
     },
     {
+      "added_at": "2026-01-23 10:23:20",
+      "album": {
+        "name": "ROSES",
+        "url": "https://open.spotify.com/album/3bIZ5FREocfX2tLIUnnOdr"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "ROSES",
+      "url": "https://open.spotify.com/track/6u0b2IZ23RxH18ZsvGRbme"
+    },
+    {
       "added_at": "2026-01-22 17:00:03",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "THE CORE - \u6838",
+        "url": "https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw"
       },
       "artists": [
         {
@@ -435,8 +451,8 @@
     {
       "added_at": "2026-01-22 17:00:03",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "BUT, IT'S OKAY.",
+        "url": "https://open.spotify.com/album/6RHRp63nNfQIspQxRtLj7s"
       },
       "artists": [
         {
@@ -489,10 +505,10 @@
       "url": "https://open.spotify.com/track/0kwPjmPMBDPxuNSk2xlXzj"
     },
     {
-      "added_at": "2026-01-22 17:00:03",
+      "added_at": "2026-01-23 07:22:16",
       "album": {
-        "name": "Vol. 1 (Prolog)",
-        "url": "https://open.spotify.com/album/1h4j9BfwvCnwIQjyThDtMS"
+        "name": "nulla, vol.1",
+        "url": "https://open.spotify.com/album/4uagI2pWOO8sq0v9vl0V6q"
       },
       "artists": [
         {
@@ -500,9 +516,9 @@
           "url": "https://open.spotify.com/artist/1o0RBJNVBuMCyPxvLi0iMC"
         }
       ],
-      "duration_ms": 186947,
-      "name": "Ini Adanya",
-      "url": "https://open.spotify.com/track/1eW5GFRRr8xF1oTeiaFw7X"
+      "duration_ms": 228607,
+      "name": "nulla",
+      "url": "https://open.spotify.com/track/30LlunIkCklG8xjlpDKfAH"
     },
     {
       "added_at": "2026-01-22 17:00:03",
@@ -725,6 +741,22 @@
       "url": "https://open.spotify.com/track/7hpZOmCWf3To3nDLAjlcex"
     },
     {
+      "added_at": "2026-01-23 04:00:15",
+      "album": {
+        "name": "Siapa Sangka",
+        "url": "https://open.spotify.com/album/7m5evbrzoMO9bJPJ0RWKWb"
+      },
+      "artists": [
+        {
+          "name": "Nashwa Zahira",
+          "url": "https://open.spotify.com/artist/3Dkxqehm5OypqXteJpjroA"
+        }
+      ],
+      "duration_ms": 241116,
+      "name": "Siapa Sangka",
+      "url": "https://open.spotify.com/track/1ZKayVo8OzZi055gfKH2R7"
+    },
+    {
       "added_at": "2026-01-23 00:01:32",
       "album": {
         "name": "Death of Love",
@@ -941,6 +973,22 @@
       "url": "https://open.spotify.com/track/3G600027WLRbsunHeYJ5G2"
     },
     {
+      "added_at": "2026-01-23 10:23:20",
+      "album": {
+        "name": "white spring",
+        "url": "https://open.spotify.com/album/2MEB999yzrd3rNghmvCkwl"
+      },
+      "artists": [
+        {
+          "name": "MOMOLAND",
+          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "white spring",
+      "url": "https://open.spotify.com/track/3eNaNlSXrOg7aOwtIwtxZk"
+    },
+    {
       "added_at": "2026-01-22 17:00:03",
       "album": {
         "name": "CALL ME BACK",
@@ -1111,8 +1159,8 @@
     {
       "added_at": "2026-01-22 17:00:03",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Boycott Heaven",
+        "url": "https://open.spotify.com/album/4yMJnpezQRZr8MIkNUor1M"
       },
       "artists": [
         {
@@ -1143,8 +1191,8 @@
     {
       "added_at": "2026-01-22 17:00:03",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "IT\u2019S NOT REAL",
+        "url": "https://open.spotify.com/album/4CgtqiWC5y8aKhZkCFZsqT"
       },
       "artists": [
         {
@@ -1299,8 +1347,8 @@
     {
       "added_at": "2026-01-22 17:00:03",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Through Thick & Thin",
+        "url": "https://open.spotify.com/album/5e7Ss3pOjpbM0Q3bXNZGE6"
       },
       "artists": [
         {
@@ -1308,8 +1356,8 @@
           "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 168292,
+      "name": "Times Like This",
       "url": "https://open.spotify.com/track/5Q9uXyP4fZpvyVPxnbi9zD"
     }
   ],

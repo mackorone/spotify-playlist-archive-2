@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-388 songs - 18 hr 21 min
+389 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Heartfulness](https://open.spotify.com/track/4osN7Zl3miJmSdPZmKVoXm) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Heartfulness](https://open.spotify.com/album/6PLL0DyPG8yLOUCnvXn5ZY) | 2:47 | 2023-02-22 | 2024-01-19 |
 | [Heedance](https://open.spotify.com/track/0YVqh3AUPCI2vOF4EnKVgV) | [Sand Rae](https://open.spotify.com/artist/01AXMlLHjZDPlbVBPnXb8h) | [Heedance](https://open.spotify.com/album/0vfHbOBSPYVrFiODnFzf38) | 2:38 | 2025-02-10 |  |
 | [Heeding](https://open.spotify.com/track/4szKC2c1OlCvAtzYVeWDyP) | [Aysun](https://open.spotify.com/artist/6JpzNu8Gqk4qx6s7NofOXT) | [Heeding](https://open.spotify.com/album/3TjjJRBakIWpTMeQVtHoWQ) | 2:39 | 2024-03-01 |  |
+| [Hidden Horizon](https://open.spotify.com/track/5EdrsTcycmXmpf2BdQ9iLq) | [Enhance Peace](https://open.spotify.com/artist/1RQvOAOwjjtAXCfVm8pXnP) | [Hidden Horizon](https://open.spotify.com/album/5LVG0vHJS9Mc6R42vFWB70) | 3:03 | 2026-01-21 |  |
 | [Hommage à la forêt](https://open.spotify.com/track/4MJISy6vPiD3B8B2kGw0nV) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Hommage à la forêt](https://open.spotify.com/album/1kRTXIqYvkAzHGadhysrdZ) | 2:27 | 2023-02-13 | 2024-11-29 |
 | [Horizon](https://open.spotify.com/track/72g342BdHqVHgitJOVpKyU) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Horizon](https://open.spotify.com/album/6MiyneDUR4YLTtnuoqcvNy) | 3:00 | 2024-01-30 | 2025-04-30 |
 | [Hrazdan River](https://open.spotify.com/track/6YUvn14QR00sSWlEt7QlvA) | [Nestos](https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF) | [Aras](https://open.spotify.com/album/0wr7IKmkKel8OVr3UQVstM) | 2:37 | 2023-03-13 | 2024-12-13 |
@@ -394,7 +395,7 @@
 | [White Light](https://open.spotify.com/track/6oGtCltZ2qtAjguWpxEXRT) | [Heal Divisions](https://open.spotify.com/artist/0kAuGd32wX67fzHjIJtSWn) | [White Light](https://open.spotify.com/album/0H3vdaaoJS6l7E8TDn49jy) | 2:58 | 2024-01-30 |  |
 | [Willamette Falls](https://open.spotify.com/track/7ksLJPOQmbSdCsHOB7ND4y) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Willamette Falls](https://open.spotify.com/album/093ls5rr0CjLaUmW4unO8i) | 2:57 | 2023-10-26 | 2025-07-02 |
 | [Worthy](https://open.spotify.com/track/4SF4bIKdN5ugfeOcwwT486) | [Peaceful Storm](https://open.spotify.com/artist/1F9BGQRXydW5pf28ukNEkm) | [Worthy](https://open.spotify.com/album/6NygaZ0pFTqrBj47zk63Qu) | 2:15 | 2025-05-16 | 2025-10-02 |
-| [Zen state](https://open.spotify.com/track/1E2erK5SZ9QynxT000Wj7C) | [Knot Released](https://open.spotify.com/artist/6uS1WmBHW9aJl8NkxoNaZY) | [Zen state](https://open.spotify.com/album/36ifWZCkWY9ZgkQlPVbIqd) | 2:26 | 2026-01-21 |  |
+| [Zen state](https://open.spotify.com/track/1E2erK5SZ9QynxT000Wj7C) | [Knot Released](https://open.spotify.com/artist/6uS1WmBHW9aJl8NkxoNaZY) | [Zen state](https://open.spotify.com/album/36ifWZCkWY9ZgkQlPVbIqd) | 2:26 | 2026-01-21 | 2026-01-24 |
 | [⁠Nature Flows \(Ogwell Stream\)](https://open.spotify.com/track/0RNmrS3FuzFs17bvvHNhwM) | [Jason Singh](https://open.spotify.com/artist/5AhRKszqrz3ObgAD2prknJ), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Nature's Voice I](https://open.spotify.com/album/2NygyodqbR2LA284zi6PxI) | 3:06 | 2025-09-18 |  |
 
 \*This playlist was first scraped on 2023-02-09. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 41126,
+  "num_followers": 41129,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXAXAAAAAADo4ziiKxz4h6nfE4QA6LAO",
+  "snapshot_id": "aXFogAAAAABrNUXAV5xtsQ67N1Si7B1v",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,26 @@
       "duration_ms": 177077,
       "name": "Vai Baby",
       "url": "https://open.spotify.com/track/1h76lyTwFhFtraZuzk7URH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rap \u00c9 Compromisso (Edi\u00e7\u00e3o Comemorativa)",
+        "url": "https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz"
+      },
+      "artists": [
+        {
+          "name": "Sabotage",
+          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 305386,
+      "name": "Um Bom Lugar",
+      "url": "https://open.spotify.com/track/2QvXPaXSw3NtAV4gDW8NNn"
     },
     {
       "added_at": null,
@@ -47,26 +67,6 @@
       "duration_ms": 217168,
       "name": "Vale Do Sil\u00edcio",
       "url": "https://open.spotify.com/track/0RIbrYxa06ta7MAlYCIGrI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rap \u00c9 Compromisso (Edi\u00e7\u00e3o Comemorativa)",
-        "url": "https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz"
-      },
-      "artists": [
-        {
-          "name": "Sabotage",
-          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 305386,
-      "name": "Um Bom Lugar",
-      "url": "https://open.spotify.com/track/2QvXPaXSw3NtAV4gDW8NNn"
     },
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fica At\u00e9 Umas Hora",
-        "url": "https://open.spotify.com/album/0VCfXfgGoV1ogsTnMW74Ot"
+        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
+        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 228800,
-      "name": "Fica At\u00e9 Umas Hora",
-      "url": "https://open.spotify.com/track/066BKF0jdIIgoNoRUm7f8Z"
+      "duration_ms": 268146,
+      "name": "Na Segunda Vinda",
+      "url": "https://open.spotify.com/track/0xNIIXQrCQq49w0iRpW2bW"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
-        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
+        "name": "Fica At\u00e9 Umas Hora",
+        "url": "https://open.spotify.com/album/0VCfXfgGoV1ogsTnMW74Ot"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 268146,
-      "name": "Na Segunda Vinda",
-      "url": "https://open.spotify.com/track/0xNIIXQrCQq49w0iRpW2bW"
+      "duration_ms": 228800,
+      "name": "Fica At\u00e9 Umas Hora",
+      "url": "https://open.spotify.com/track/066BKF0jdIIgoNoRUm7f8Z"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
-        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
+        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
+        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 244239,
-      "name": "Falando do Meu Bem",
-      "url": "https://open.spotify.com/track/2mAenBc4RyeokOVC19oqqa"
+      "duration_ms": 221333,
+      "name": "Per\u00edcia Na Del\u00edcia",
+      "url": "https://open.spotify.com/track/1ToSJIoW4JyI6qHrurcNQP"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
-        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
+        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
+        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 221333,
-      "name": "Per\u00edcia Na Del\u00edcia",
-      "url": "https://open.spotify.com/track/1ToSJIoW4JyI6qHrurcNQP"
+      "duration_ms": 244239,
+      "name": "Falando do Meu Bem",
+      "url": "https://open.spotify.com/track/2mAenBc4RyeokOVC19oqqa"
     },
     {
       "added_at": null,
@@ -435,6 +435,22 @@
       "duration_ms": 53488,
       "name": "DEISDAZSEIS - Ao Vivo",
       "url": "https://open.spotify.com/track/3IcmVwyD3LKYE23vsuoTU4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
+        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 180160,
+      "name": "Caminhos do Destino",
+      "url": "https://open.spotify.com/track/1ksjOvoeNah5VGK2sSoTQ3"
     },
     {
       "added_at": null,
@@ -471,22 +487,6 @@
       "duration_ms": 217444,
       "name": "Motivos",
       "url": "https://open.spotify.com/track/4rjn5DygwQQXo1m24GqRM6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
-        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 180160,
-      "name": "Caminhos do Destino",
-      "url": "https://open.spotify.com/track/1ksjOvoeNah5VGK2sSoTQ3"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sangue de Free",
+        "url": "https://open.spotify.com/album/1cseH3sATZXHYOAJlZuSd1"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 210959,
+      "name": "Sangue de Free",
+      "url": "https://open.spotify.com/track/1yplC5zrM528Ie26S85zGM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
         "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 175945,
       "name": "QUEIMANDO TUDO - Ao Vivo",
       "url": "https://open.spotify.com/track/4PJ8X3IJx0DmBT5soPDI6a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sangue de Free",
-        "url": "https://open.spotify.com/album/1cseH3sATZXHYOAJlZuSd1"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 210959,
-      "name": "Sangue de Free",
-      "url": "https://open.spotify.com/track/1yplC5zrM528Ie26S85zGM"
     },
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
-      },
-      "artists": [
-        {
-          "name": "Planet Hemp",
-          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 245741,
-      "name": "CONTEXTO - Ao Vivo",
-      "url": "https://open.spotify.com/track/6tV1Y71b01jjIFpXhnvmUE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00c3O VAMOS DESISTIR",
         "url": "https://open.spotify.com/album/7yzYfAyAZO6EAtqWbeAaEc"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 245920,
       "name": "N\u00c3O VAMOS DESISTIR",
       "url": "https://open.spotify.com/track/6OB5NImXWEIv7qKubYy2qZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
+      },
+      "artists": [
+        {
+          "name": "Planet Hemp",
+          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 245741,
+      "name": "CONTEXTO - Ao Vivo",
+      "url": "https://open.spotify.com/track/6tV1Y71b01jjIFpXhnvmUE"
     },
     {
       "added_at": null,

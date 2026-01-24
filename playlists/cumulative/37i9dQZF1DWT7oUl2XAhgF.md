@@ -2,9 +2,9 @@
 
 ### [Retro Soul](https://open.spotify.com/playlist/37i9dQZF1DWT7oUl2XAhgF)
 
-> A new take on a classic sound\. Cover: Sekou
+> A new take on a classic sound\. Cover: Samm Henshaw
 
-581 songs - 1 day 10 hr 51 min
+582 songs - 1 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Chocolate Woman](https://open.spotify.com/track/0M5ZTD5bzYadecfUQcQx8j) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Chocolate Woman](https://open.spotify.com/album/2dDCKPhCc7U0dBOkeK5I8W) | 2:50 | 2025-12-12 |  |
 | [Closer](https://open.spotify.com/track/2mAMcZ18iCU39tTF0PHvVx) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Closer](https://open.spotify.com/album/5heDsRjgWf63G0F3dzGEji) | 3:33 | 2023-11-24 | 2025-08-23 |
 | [Closer](https://open.spotify.com/track/15CcPYbfU0Ylp0s6ezE5Zw) | [Rainee Blake](https://open.spotify.com/artist/03PaZ9IYpD0VVrZeUatPC3) | [Closer](https://open.spotify.com/album/6ELbkRCauMrlJbzY0NfFDh) | 3:49 | 2022-08-09 | 2024-06-22 |
+| [Closer](https://open.spotify.com/track/7mvbNjFKdlpjnbcqocscuK) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [It Could Be Worse](https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV) | 3:35 | 2026-01-23 |  |
 | [Come Around and Love Me](https://open.spotify.com/track/6lB0AAe5f8msn8vqUNkVsN) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around And Love Me](https://open.spotify.com/album/7Fy0ZdCb6q5RC0J6y0PN8t) | 3:04 | 2023-06-30 | 2023-07-29 |
 | [Come Back Home](https://open.spotify.com/track/0aoRw3x1t8YX3w1j21aLLu) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [Come Back Home](https://open.spotify.com/album/3w4vhW8U6GLtTvH1X1DWrS) | 4:17 | 2023-05-19 | 2024-09-07 |
 | [Come Back Home](https://open.spotify.com/track/755XOeQGLAEknUSCBFvwtI) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [Beautiful Dreams](https://open.spotify.com/album/1eOToL1BMJjcG6sR8gzUPT) | 4:17 | 2023-05-19 | 2024-04-19 |
@@ -480,7 +481,7 @@
 | [Sure Don't Miss You](https://open.spotify.com/track/5SUhvsoXryK7M4OhQXXKVV) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Sure Don't Miss You](https://open.spotify.com/album/650kATa4wiGNPX25qf6ddb) | 2:54 | 2021-07-09 | 2022-11-13 |
 | [Słońce](https://open.spotify.com/track/2fxjOp42W4IL2EdHLa6QOb) | [Udoo](https://open.spotify.com/artist/4MCes2wLaA4tjXUpIdw2PE), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Słońce](https://open.spotify.com/album/5i6q7sPlEGqvzP3IOtWYTb) | 4:13 | 2022-07-29 | 2023-11-11 |
 | [Take A Chance](https://open.spotify.com/track/0iWw7j4fBQ95Q4SpPLkrAL) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS), [Joey Quinones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [Can't Call Me Baby / Take A Chance](https://open.spotify.com/album/2QGqQ0lPmPyiTTFW3pUZHG) | 3:47 | 2024-10-11 | 2025-05-31 |
-| [Take Me There](https://open.spotify.com/track/1rhaEalVdUQtjPpNTPk1Yk) | [Micah Edwards](https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs) | [Pasadena](https://open.spotify.com/album/2a8MU7CF9WoSkoI40egc4l) | 4:45 | 2024-06-28 |  |
+| [Take Me There](https://open.spotify.com/track/1rhaEalVdUQtjPpNTPk1Yk) | [Micah Edwards](https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs) | [Pasadena](https://open.spotify.com/album/2a8MU7CF9WoSkoI40egc4l) | 4:45 | 2024-06-28 | 2026-01-24 |
 | [Take Me to the Good Times](https://open.spotify.com/track/4VwAIIQDPR3T7EPnzk7Fv1) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [Take Me to the Good Times](https://open.spotify.com/album/6mezbdLjN0nWuCKiG5jgOh) | 4:24 | 2021-07-09 | 2022-07-29 |
 | [Take My Troubles Away \- Radio Edit](https://open.spotify.com/track/6UcREbLs70qdzEMOVaCPub) | [The Vintage Explosion](https://open.spotify.com/artist/3a48yEJThFMOCvgcCwOyyD) | [Take My Troubles Away \(Radio Edit\)](https://open.spotify.com/album/1fAhIRHWIcruE6dXAbE4Wb) | 3:30 | 2023-07-21 | 2023-10-07 |
 | [Take What's Mine \- EP Version](https://open.spotify.com/track/4JHuAerQPHH8U8aoxgNnwj) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Take What's Mine EP](https://open.spotify.com/album/1Md2RjLHvy8y4EPaAJZB1B) | 3:08 | 2024-05-24 | 2024-10-26 |

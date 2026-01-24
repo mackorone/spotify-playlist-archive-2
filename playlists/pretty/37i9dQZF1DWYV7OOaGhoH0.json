@@ -1,12 +1,12 @@
 {
   "description": "The best in folk & acoustic today featuring music from Buffalo Traffic Jam",
-  "num_followers": 1718586,
+  "num_followers": 1718444,
   "original_name": "Roots Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD5a9qVLfdPddDGM7lh7OzpylPMj",
+  "snapshot_id": "AAAAAA1gG9PIpA2VnvrpmM+oT4qktoJV",
   "tracks": [
     {
       "added_at": "2026-01-16 05:00:36",
@@ -43,6 +43,38 @@
     {
       "added_at": "2026-01-16 05:00:36",
       "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/7Ln3LF8E2WFUZENabeVuIX"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "duration_ms": 180459,
+      "name": "Bloodline",
+      "url": "https://open.spotify.com/track/40ZNzxRpzGOnLw0ylcVueQ"
+    },
+    {
+      "added_at": "2026-01-16 05:00:36",
+      "album": {
+        "name": "The Hand",
+        "url": "https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx"
+      },
+      "artists": [
+        {
+          "name": "Annabelle Dinda",
+          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
+        }
+      ],
+      "duration_ms": 190476,
+      "name": "The Hand",
+      "url": "https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns"
+    },
+    {
+      "added_at": "2026-01-16 05:00:36",
+      "album": {
         "name": "Blizzard",
         "url": "https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i"
       },
@@ -55,6 +87,22 @@
       "duration_ms": 170066,
       "name": "Heaven Has No Wings",
       "url": "https://open.spotify.com/track/2Y4hGtm2AwkE0zge2CrqB8"
+    },
+    {
+      "added_at": "2026-01-23 05:00:30",
+      "album": {
+        "name": "demons",
+        "url": "https://open.spotify.com/album/6KAkZgA0rnazv1gQKLcOyW"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "duration_ms": 190126,
+      "name": "demons",
+      "url": "https://open.spotify.com/track/5HXFe0eb5lCfJpsqoqIbRS"
     },
     {
       "added_at": "2026-01-16 05:00:36",
@@ -91,22 +139,6 @@
     {
       "added_at": "2026-01-16 05:00:36",
       "album": {
-        "name": "The Hand",
-        "url": "https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx"
-      },
-      "artists": [
-        {
-          "name": "Annabelle Dinda",
-          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
-        }
-      ],
-      "duration_ms": 190476,
-      "name": "The Hand",
-      "url": "https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns"
-    },
-    {
-      "added_at": "2026-01-16 05:00:36",
-      "album": {
         "name": "Everybody Scream",
         "url": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
       },
@@ -123,22 +155,6 @@
     {
       "added_at": "2026-01-16 05:00:36",
       "album": {
-        "name": "Bloodline",
-        "url": "https://open.spotify.com/album/7Ln3LF8E2WFUZENabeVuIX"
-      },
-      "artists": [
-        {
-          "name": "Mon Rov\u00eea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
-        }
-      ],
-      "duration_ms": 180459,
-      "name": "Bloodline",
-      "url": "https://open.spotify.com/track/40ZNzxRpzGOnLw0ylcVueQ"
-    },
-    {
-      "added_at": "2026-01-16 05:00:36",
-      "album": {
         "name": "Little Picture of a Butterfly",
         "url": "https://open.spotify.com/album/6BC23J8lxnqKVEDpaZ2Zi7"
       },
@@ -151,6 +167,22 @@
       "duration_ms": 285720,
       "name": "Little Picture of a Butterfly",
       "url": "https://open.spotify.com/track/2R2AITSPOZeKXwekNA46ug"
+    },
+    {
+      "added_at": "2026-01-23 05:00:30",
+      "album": {
+        "name": "There's A Fire",
+        "url": "https://open.spotify.com/album/4ae2wNZHG00VSa5nz7ZKv1"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "duration_ms": 238015,
+      "name": "There's A Fire",
+      "url": "https://open.spotify.com/track/3H9oqxaMJYeGzfRgfq6Y1C"
     },
     {
       "added_at": "2026-01-16 05:00:36",
@@ -171,22 +203,6 @@
       "duration_ms": 220266,
       "name": "Rubber Band Man (with Hozier)",
       "url": "https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A"
-    },
-    {
-      "added_at": "2026-01-16 05:00:36",
-      "album": {
-        "name": "Fool's Gold",
-        "url": "https://open.spotify.com/album/5v8FMiboqfjBxM7UgkIgtG"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Traffic Jam",
-          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
-        }
-      ],
-      "duration_ms": 197539,
-      "name": "Fool's Gold",
-      "url": "https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU"
     },
     {
       "added_at": "2026-01-16 05:00:36",
@@ -291,6 +307,22 @@
       "duration_ms": 283370,
       "name": "Flores",
       "url": "https://open.spotify.com/track/7AG0fbggzFP7e7W2j7fUva"
+    },
+    {
+      "added_at": "2026-01-23 05:00:30",
+      "album": {
+        "name": "fool",
+        "url": "https://open.spotify.com/album/5g4CtR8feobksBOQTBH9Hi"
+      },
+      "artists": [
+        {
+          "name": "Ethan Regan",
+          "url": "https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e"
+        }
+      ],
+      "duration_ms": 273600,
+      "name": "fool",
+      "url": "https://open.spotify.com/track/0baNbP2iJjS5TW3N92H5AF"
     },
     {
       "added_at": "2026-01-16 05:00:36",
@@ -591,6 +623,22 @@
       "duration_ms": 198727,
       "name": "Seeing You",
       "url": "https://open.spotify.com/track/7jjQcyGSb1rNGdUmoQuBuk"
+    },
+    {
+      "added_at": "2026-01-16 05:00:36",
+      "album": {
+        "name": "Fool's Gold",
+        "url": "https://open.spotify.com/album/5v8FMiboqfjBxM7UgkIgtG"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
+        }
+      ],
+      "duration_ms": 197539,
+      "name": "Fool's Gold",
+      "url": "https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU"
     },
     {
       "added_at": "2026-01-16 05:00:36",

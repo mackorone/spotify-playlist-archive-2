@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: \(S\)TRONG
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,121 likes - 53 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,138 likes - 53 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 29 | [Không Yêu Em Thì Yêu Ai?](https://open.spotify.com/track/0e6fZkLArSmDIHnZcIua7t) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Bảo Tàng Của Nuối Tiếc](https://open.spotify.com/album/3pprs1r3mH3UhU23TUHBWJ) | 3:52 |
 | 30 | [Phép Màu \- Đàn Cá Gỗ Original Soundtrack](https://open.spotify.com/track/1DVYafsLmcQySKkJnY4RCs) | [MAYDAYs](https://open.spotify.com/artist/2iYUs3FoNodbZXKf4mkjGM), [Minh Tốc & Lam](https://open.spotify.com/artist/27RoKwun6jKycKbH2iYUFU) | [Phép Màu \(Đàn Cá Gỗ Original Soundtrack\)](https://open.spotify.com/album/2KTHAp1v2iCntbFjNAOCUb) | 4:26 |
 | 31 | [Người Đầu Tiên](https://open.spotify.com/track/5DB1UwivnS4gmcZ27TiYnE) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn), [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Người Đầu Tiên](https://open.spotify.com/album/785BxPJDvSZKiduXG0P1Cq) | 3:35 |
-| 32 | [Người Bình Thường](https://open.spotify.com/track/1fFvYVg1v3rpUSqKNCUh7b) | [Vũ Cát Tường](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Người Bình Thường](https://open.spotify.com/album/3a6PHMBJmFYQtjkFU7hP6e) | 4:44 |
+| 32 | [Người Bình Thường](https://open.spotify.com/track/1fFvYVg1v3rpUSqKNCUh7b) | [VCT](https://open.spotify.com/artist/2XlX3AXAm221yqXOsTQmwE) | [Người Bình Thường](https://open.spotify.com/album/3a6PHMBJmFYQtjkFU7hP6e) | 4:44 |
 | 33 | [Em Còn Nhớ Anh Không \- Remastered](https://open.spotify.com/track/7q1qYSyRkGT4ZaCc2ZQihP) | [Hoàng Tôn](https://open.spotify.com/artist/6xRZoWlE9twEkMC5NW4Z9f), [Koo](https://open.spotify.com/artist/19JOXyTbKnSp1QxnKEeXtq) | [Em Còn Nhớ Anh Không \(Remastered\)](https://open.spotify.com/album/0XTxzgpmtvXu1B1vJ2dKJt) | 4:11 |
 | 34 | [Còn Gì Đẹp Hơn \- Mưa Đỏ Original Soundtrack](https://open.spotify.com/track/5zXCoF69UxPNLrpar8Rk7e) | [Nguyễn Hùng](https://open.spotify.com/artist/7oxw8G3qB7DwjCs18JWJt5) | [Còn Gì Đẹp Hơn \(Mưa Đỏ Original Soundtrack\)](https://open.spotify.com/album/3Ao9JM14LnPabEUT4UQDK5) | 4:41 |
 | 35 | [Exit Sign](https://open.spotify.com/track/4nXrVH5xwN1w6TpmP7uu8n) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [marzuz](https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM) | [Ai Cũng Phải Bắt Đầu Từ Đâu Đó](https://open.spotify.com/album/4faMbTZifuYsBllYHZsFKJ) | 3:21 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 41 | [NGƯỜI ĐẦU TIÊN](https://open.spotify.com/track/3qKeW2XJFZU5CvOQKStQW6) | [EM XINH "SAY HI"](https://open.spotify.com/artist/1I5CkmtLVWLUygTT3cLr5X), [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [EM XINH "SAY HI", TẬP 12](https://open.spotify.com/album/0rGm4zyKzFGT52iUQ0DTl7) | 3:52 |
 | 42 | [Track 06](https://open.spotify.com/track/72NMPuJCRsOUoXQJdzVfdo) | [Tyronee](https://open.spotify.com/artist/04xz9bIBYTIqEpmRvQkfvu), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp) | [ii\-V\-I](https://open.spotify.com/album/1FbMoGXodZzHVcFhSK4pUu) | 2:45 |
 | 43 | [Không Thời Gian](https://open.spotify.com/track/6GUKRhIsWxA7VuZW8MKQLG) | [Dương Domic](https://open.spotify.com/artist/4KPyQxL1zqEiBcTwW6c9HE) | [Không Thời Gian](https://open.spotify.com/album/5k0mXRRChseep7DBhlpZYm) | 3:37 |
-| 44 | [Từng Là](https://open.spotify.com/track/2xOhv7XudrBDtkID1jwsFE) | [Vũ Cát Tường](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Từng Là](https://open.spotify.com/album/65MihXBPwne3POZrzkrrYv) | 4:12 |
+| 44 | [Từng Là](https://open.spotify.com/track/2xOhv7XudrBDtkID1jwsFE) | [VCT](https://open.spotify.com/artist/2XlX3AXAm221yqXOsTQmwE) | [Từng Là](https://open.spotify.com/album/65MihXBPwne3POZrzkrrYv) | 4:12 |
 | 45 | [Anh Đã Không Biết Cách Yêu Em](https://open.spotify.com/track/2daxUR0gVJr2dOmOtYvW8R) | [Quang Đăng Trần](https://open.spotify.com/artist/2LX2SKJhvZjyH4Z7XMptjd) | [Anh Đã Không Biết Cách Yêu Em](https://open.spotify.com/album/5W5zGLFhrRhu0W8eAv4lZN) | 4:05 |
 | 46 | [Say Sóng](https://open.spotify.com/track/4rIBbB1vt0lEKDG2UTmfP0) | [Tăng Duy Tân](https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ), [Drum7](https://open.spotify.com/artist/0gsqfuR0OFF5SSai7lsPrj), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Khu Vườn Tình](https://open.spotify.com/album/1NnHOgh9AdskLHBTjIFuC6) | 3:26 |
 | 47 | [Tình Yêu Buông Tha Cho Chúng Ta](https://open.spotify.com/track/3hjirCdXFnVJDZsXlOfhfd) | [Trungg I.U](https://open.spotify.com/artist/6Ue0BbbTOdBjcO4QZB5sio), [Lâm Bảo Ngọc](https://open.spotify.com/artist/3E0b68wCGYihuHBtlasfm9) | [Tình Yêu Buông Tha Cho Chúng Ta](https://open.spotify.com/album/3wfl9F8KTsLVixdRvhVImr) | 4:21 |

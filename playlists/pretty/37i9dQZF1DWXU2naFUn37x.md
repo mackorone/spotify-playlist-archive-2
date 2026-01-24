@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Niky Savage in cover della playlist dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,972 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,963 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 12 | [Take 6](https://open.spotify.com/track/0j4gmizuiIh5k7F62XISiF) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 6](https://open.spotify.com/album/5rBSou2aGWqVv28GiYx11N) | 2:44 |
 | 13 | [FACIL FACIL](https://open.spotify.com/track/25KIhhxpokm19ivM2CA09S) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 2:28 |
 | 14 | [Berserker](https://open.spotify.com/track/0a9Gi8DA7tzR3HV46V1Ppv) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Ill Santo](https://open.spotify.com/artist/1LBbwEH0VFHyIQY0o7Y8dV), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [Berserker](https://open.spotify.com/album/2J4jomZQrKicPCa4vFBiJP) | 2:12 |
-| 15 | [100 Kili \(feat\. Simba La Rue\)](https://open.spotify.com/track/7FYBhANXHNxAjGIQMui5IT) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb) | [100 Kili \(feat\. Simba La Rue\)](https://open.spotify.com/album/4JGD5aGxAO4UXRN5O0IZqn) | 2:40 |
+| 15 | [100 Kili \(feat\. Simba La Rue\)](https://open.spotify.com/track/7FYBhANXHNxAjGIQMui5IT) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb) | [100 Kili \(feat\. Simba La Rue\)](https://open.spotify.com/album/4JGD5aGxAO4UXRN5O0IZqn) | 2:39 |
 | 16 | [9MILLIMETRI](https://open.spotify.com/track/5WwZG4HIxAEF5flOeoG4Bn) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [9MILLIMETRI](https://open.spotify.com/album/1fNoI35Kz2ImcqXOzat0br) | 2:48 |
 | 17 | [TIMMY TURNER](https://open.spotify.com/track/53Jdi1wxkc6IEBN2hUrBUM) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [TIMMY TURNER](https://open.spotify.com/album/3lPXMLjefi0HYSFY3QsxyG) | 2:32 |
 | 18 | [Tocco Pitocco](https://open.spotify.com/track/0gYffd4envdyCft10iF45g) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [Tocco Pitocco](https://open.spotify.com/album/3agEJPn84PlXKiicWw8iVU) | 2:43 |

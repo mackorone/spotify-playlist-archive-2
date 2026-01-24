@@ -1,8 +1,44 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Goodbye Karelle",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: blesse",
   "name": "ALT_QC",
   "tracks": [
+    {
+      "album": {
+        "name": "(Trag\u00e9die)",
+        "url": "https://open.spotify.com/album/7H1a4yMzfp9AMKF7cNGRjz"
+      },
+      "artists": [
+        {
+          "name": "blesse",
+          "url": "https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198737,
+      "name": "(Trag\u00e9die)",
+      "url": "https://open.spotify.com/track/4kM7eWoOLqUvz0F8SGyx1V"
+    },
+    {
+      "album": {
+        "name": "2 secondes",
+        "url": "https://open.spotify.com/album/6TPT4AwjtNLFwrPJMUobfM"
+      },
+      "artists": [
+        {
+          "name": "VINCENT KHOUNI",
+          "url": "https://open.spotify.com/artist/7JCnd0ZS2KdbkXSRGUemf8"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239493,
+      "name": "2 secondes",
+      "url": "https://open.spotify.com/track/6tnMkJH1AjBbzUCIewkmG1"
+    },
     {
       "album": {
         "name": "2034 (le soleil tombe sur toi)",
@@ -308,7 +344,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 188111,
       "name": "Amaro",
       "url": "https://open.spotify.com/track/1xDCZdai0FdCFXCB5pZXLL"
@@ -684,6 +720,24 @@
       "duration_ms": 215060,
       "name": "Besoin d'un 2",
       "url": "https://open.spotify.com/track/6HYu8sfyARlBFZ0laTWL1G"
+    },
+    {
+      "album": {
+        "name": "Better Watch Your Step",
+        "url": "https://open.spotify.com/album/5miuuKwuk9HiNfzLd2od5E"
+      },
+      "artists": [
+        {
+          "name": "Gus Englehorn",
+          "url": "https://open.spotify.com/artist/5DL9yEXrWKddfCe8SxM08Z"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244521,
+      "name": "Better Watch Your Step",
+      "url": "https://open.spotify.com/track/5qzGcqTYmpxksVhs4dppzP"
     },
     {
       "album": {
@@ -1467,6 +1521,24 @@
     },
     {
       "album": {
+        "name": "Daystar",
+        "url": "https://open.spotify.com/album/3nCmFMwMTqFRRs3komCcpv"
+      },
+      "artists": [
+        {
+          "name": "Soran",
+          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281645,
+      "name": "Daystar",
+      "url": "https://open.spotify.com/track/7rPtb0wNOQo3nX0OAikFRV"
+    },
+    {
+      "album": {
         "name": "DEMAIN JE PARS",
         "url": "https://open.spotify.com/album/3UIdlDGFLJdkmX8J1z3kgi"
       },
@@ -1874,7 +1946,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 132297,
       "name": "EAT",
       "url": "https://open.spotify.com/track/6RUTiNzRwMBqQAubX0cNcV"
@@ -2130,7 +2202,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 153879,
       "name": "Final Girl",
       "url": "https://open.spotify.com/track/49ICuKrTeAQEOWr873YNlN"
@@ -2501,6 +2573,24 @@
     },
     {
       "album": {
+        "name": "i see red",
+        "url": "https://open.spotify.com/album/231uuW018MqyHPEGHHjZ8C"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176138,
+      "name": "i see red",
+      "url": "https://open.spotify.com/track/3Gg7L1NuNNhqltvDgd6VHI"
+    },
+    {
+      "album": {
         "name": "I'm a memory",
         "url": "https://open.spotify.com/album/421Wt2EFpZCjWua1rId0WM"
       },
@@ -2722,7 +2812,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 193856,
       "name": "Jamais",
       "url": "https://open.spotify.com/track/4vN5USCwBj2e2gFkUXSBH8"
@@ -3155,6 +3245,24 @@
     },
     {
       "album": {
+        "name": "La mani\u00e8re",
+        "url": "https://open.spotify.com/album/7yMNmVtLzbtx70fq5Cpyq0"
+      },
+      "artists": [
+        {
+          "name": "Laurence Castera",
+          "url": "https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249516,
+      "name": "La mani\u00e8re",
+      "url": "https://open.spotify.com/track/0FUy5rYDhD8QCPCl48tdC2"
+    },
+    {
+      "album": {
         "name": "La nuit devant nous",
         "url": "https://open.spotify.com/album/1moz4WuZwUB9Xz9GCDWS1u"
       },
@@ -3382,7 +3490,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 219006,
       "name": "Le gros boutte du b\u00e2ton",
       "url": "https://open.spotify.com/track/1sFlUEHa1EA9ZDLECwOWdV"
@@ -4496,7 +4604,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 142080,
       "name": "oui non I know",
       "url": "https://open.spotify.com/track/2cQyLwCqV0QJmdkKW96zLw"
@@ -4674,6 +4782,24 @@
       "duration_ms": 154267,
       "name": "Pas tr\u00e8s perspicace",
       "url": "https://open.spotify.com/track/2KfzBQtWlCgDsMiHP4twzK"
+    },
+    {
+      "album": {
+        "name": "Paula Pantoute",
+        "url": "https://open.spotify.com/album/412vRWEvjWtXko8JQEDETs"
+      },
+      "artists": [
+        {
+          "name": "Jade Lessard",
+          "url": "https://open.spotify.com/artist/11DkMTZq0ntaKyLicVyjf6"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218590,
+      "name": "Paula Pantoute",
+      "url": "https://open.spotify.com/track/5LMkON6zExrqokWIP94w9P"
     },
     {
       "album": {
@@ -4916,7 +5042,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 157812,
       "name": "Pommes",
       "url": "https://open.spotify.com/track/2P4cHNLsRoI8s1gJSlpI7B"
@@ -5904,7 +6030,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 145176,
       "name": "Toujours mieux",
       "url": "https://open.spotify.com/track/4LAdc3GvmKO0JaEh58FmQ0"
@@ -6293,6 +6419,24 @@
     },
     {
       "album": {
+        "name": "Washing Machine",
+        "url": "https://open.spotify.com/album/1aXoAz7HuqXMixFvuRWlOE"
+      },
+      "artists": [
+        {
+          "name": "Bibi Club",
+          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178200,
+      "name": "Washing Machine",
+      "url": "https://open.spotify.com/track/0kOabZwPutJdHljJirchwP"
+    },
+    {
+      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/4TLtqGfe71qF4fY5n83JgE"
       },
@@ -6556,7 +6700,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 225880,
       "name": "\u041dyperpo\u0440",
       "url": "https://open.spotify.com/track/4C9kPnlrk3vZQ42yTp76PM"

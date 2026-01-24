@@ -943,6 +943,24 @@
     },
     {
       "album": {
+        "name": "Johnny B. Goode",
+        "url": "https://open.spotify.com/album/700CeLKBGmOGKQSqnPUwQc"
+      },
+      "artists": [
+        {
+          "name": "Florin Gindu",
+          "url": "https://open.spotify.com/artist/7tK6mIokWaz9Awj8pc2c2k"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100744,
+      "name": "Johnny B. Goode",
+      "url": "https://open.spotify.com/track/1vphpGv0azYXh4yk4vDJdh"
+    },
+    {
+      "album": {
         "name": "Keep Moving",
         "url": "https://open.spotify.com/album/0KsDGmoBbob19SuoNq1nU2"
       },

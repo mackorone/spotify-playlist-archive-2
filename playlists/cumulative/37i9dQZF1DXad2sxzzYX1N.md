@@ -2,7 +2,7 @@
 
 ### [Indie that hits different ](https://open.spotify.com/playlist/37i9dQZF1DXad2sxzzYX1N)
 
-> The indie viral hits you can't escape\. Cover: ivri
+> The indie viral hits you can't escape\. Cover: Djo
 
 205 songs - 11 hr 59 min
 

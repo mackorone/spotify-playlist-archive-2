@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Proudly Kenyan gems made for the entire family. Cover: Savara",
+  "description": "Proudly Kenyan gems made for the entire family. Cover: Tuku Kantu",
   "name": "Made In Kenya",
   "tracks": [
     {
@@ -1273,6 +1273,24 @@
     },
     {
       "album": {
+        "name": "Malia",
+        "url": "https://open.spotify.com/album/1vrMiE4WQhYd7vWB5kCcAL"
+      },
+      "artists": [
+        {
+          "name": "Tuku Kantu",
+          "url": "https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236721,
+      "name": "Malia",
+      "url": "https://open.spotify.com/track/4oSsMvxjkqw88hZ3umt4sT"
+    },
+    {
+      "album": {
         "name": "Mama Milka",
         "url": "https://open.spotify.com/album/3Wi0NdeDpEYOZrZljvTCLx"
       },
@@ -1610,7 +1628,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 200412,
       "name": "Not For Me",
       "url": "https://open.spotify.com/track/7h6GXhuR6IwsHks2FKSQmv"
@@ -1906,7 +1924,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 195917,
       "name": "Say Less",
       "url": "https://open.spotify.com/track/4S2o7FjB1gEVmTMn8K4dha"

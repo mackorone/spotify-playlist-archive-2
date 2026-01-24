@@ -4,7 +4,7 @@
 
 > Tu dosis diaria de rock 📸 NTVG
 
-411 songs - 1 day 2 hr 15 min
+412 songs - 1 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,7 +307,7 @@
 | [piso 20](https://open.spotify.com/track/41IgY1X91cTDj1qwlvKiqS) | [reybruja](https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz) | [piso 20](https://open.spotify.com/album/2NGY5QHTcAjg68I9XkiBJ1) | 2:21 | 2025-07-25 | 2025-08-01 |
 | [Polaroid De Locura Ordinaria](https://open.spotify.com/track/0fAkoHmERNn6PuRqfK7411) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Ey!](https://open.spotify.com/album/1TscUipICOumgsnfvVqFS0) | 3:29 | 2022-06-29 |  |
 | [Por Mil Noches](https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Libertad](https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN) | 4:43 | 2022-06-29 | 2024-10-21 |
-| [Post\-Crucifixion](https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Lo Mejor de Pescado Rabioso](https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw) | 3:46 | 2024-04-05 |  |
+| [Post\-Crucifixion](https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Lo Mejor de Pescado Rabioso](https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw) | 3:46 | 2024-04-05 | 2026-01-24 |
 | [PRESENTE CONTINUO](https://open.spotify.com/track/2WLiHdPnEJ1MCeJvdzZxS6) | [Make Mama Proud](https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI) | [PRESENTE CONTINUO](https://open.spotify.com/album/3ZyJCtgxEGq0TNnAnRjYNS) | 3:27 | 2025-07-11 | 2025-07-18 |
 | [Preso en un Compás](https://open.spotify.com/track/5OszE1Qeakt2ja4ydLluOc) | [REOT](https://open.spotify.com/artist/4g6UBfhSci5JLutunDJUl4) | [Preso en un Compás](https://open.spotify.com/album/68Bfxww4zT5h3cwPSmuxKr) | 3:09 | 2023-07-28 | 2023-08-26 |
 | [Prohibido](https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Rocanroles Sin Destino](https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz) | 3:30 | 2022-07-15 |  |
@@ -380,6 +380,7 @@
 | [Tu Razón de Ser](https://open.spotify.com/track/6sOfBWX3tE0VV7Vs00lFfF) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Tu Razón de Ser](https://open.spotify.com/album/2ckiB0VrtKwKt14mgNqOWn) | 3:26 | 2023-08-25 | 2023-09-22 |
 | [Tu Vida Mi Vida](https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [La Ciudad Liberada](https://open.spotify.com/album/7H2OIQCPLo1Qc1aBt00DIH) | 4:12 | 2022-06-29 | 2025-09-13 |
 | [Tus Asuntos](https://open.spotify.com/track/0tlQiM6xM6frP0jdYHT1Aw) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE), [IZARO](https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb) | [Contratiempos](https://open.spotify.com/album/57M8d2JDEqjdz9LVzDtK3V) | 3:19 | 2022-07-19 | 2022-07-24 |
+| [Té para tres](https://open.spotify.com/track/7DEkW2gPf6vZ17VjkQxMzN) | [Corvex](https://open.spotify.com/artist/2E94EJ7lzS7wlcvpYMelWy), [Tweety Gonzalez](https://open.spotify.com/artist/2vs2HDZj2aUy872GXT9tO3) | [Té para tres](https://open.spotify.com/album/5mZ8mPXT2oytxFLBv5lK5c) | 3:09 | 2026-01-23 |  |
 | [Túnel de la Vida](https://open.spotify.com/track/4bnGyB5G0Kau4rQB4Vnz0x) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Túnel de la Vida](https://open.spotify.com/album/3WhpeIjxgEXVHzK3HHCVWP) | 4:00 | 2022-07-01 | 2022-07-20 |
 | [Ultrademente](https://open.spotify.com/track/3Mens03q0PF0NAK5VvxayF) | [Benito Cerati](https://open.spotify.com/artist/13QnAhCICgwMtr6HPWoRbH), [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [Ultrademente](https://open.spotify.com/album/1gOFeAmzrGwviem8yDU0u1) | 3:37 | 2025-08-22 | 2025-09-05 |
 | [Un Dia Perfecto](https://open.spotify.com/track/5w3GTe4W2fHBC3tLnqCr1B) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Sistema Nervioso Central](https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4) | 4:02 | 2022-06-29 |  |

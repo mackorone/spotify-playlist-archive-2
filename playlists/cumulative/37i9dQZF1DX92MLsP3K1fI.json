@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Ana Torroja en portada \u2728",
+  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! FAMA en portada \u2728",
   "name": "Oye Pop",
   "tracks": [
     {
@@ -534,7 +534,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 201694,
       "name": "Al Mismo Kbrn (De Siempre)",
       "url": "https://open.spotify.com/track/5CmRpdPwcN9BK4KXNYAr0Z"
@@ -2418,7 +2418,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 154921,
       "name": "Cosas de Superstar",
       "url": "https://open.spotify.com/track/1it6i3ytU15vcLUWWTztvg"
@@ -4079,6 +4079,24 @@
     },
     {
       "album": {
+        "name": "Estimado Cobarde",
+        "url": "https://open.spotify.com/album/5TAORlI1VUkn3sY5sW9GA0"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137419,
+      "name": "Estimado Cobarde",
+      "url": "https://open.spotify.com/track/0jbewxIGs1ReTAKndYvKWs"
+    },
+    {
+      "album": {
         "name": "Esto Es Amor",
         "url": "https://open.spotify.com/album/5P0MCgReUHn1c9BCfP2In9"
       },
@@ -5246,7 +5264,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 153836,
       "name": "La Locura",
       "url": "https://open.spotify.com/track/2a9cmui0nFPO89oReB95fR"
@@ -5414,6 +5432,24 @@
       "duration_ms": 228488,
       "name": "La Tormenta",
       "url": "https://open.spotify.com/track/1G14E80sEnbpH8v7v8nb0G"
+    },
+    {
+      "album": {
+        "name": "La Verdad",
+        "url": "https://open.spotify.com/album/1cWjmmCg7JOot63qYty7PZ"
+      },
+      "artists": [
+        {
+          "name": "FAMA",
+          "url": "https://open.spotify.com/artist/0vYXDaGn2E1NcgYQ1PVN7X"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170192,
+      "name": "La Verdad",
+      "url": "https://open.spotify.com/track/1eXeeRPUapYzMv6Zjxst5D"
     },
     {
       "album": {
@@ -7903,6 +7939,24 @@
     },
     {
       "album": {
+        "name": "Par\u00eds (Junto a Ti)",
+        "url": "https://open.spotify.com/album/1qcti4BO471pTYWMFzS7J3"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156160,
+      "name": "Par\u00eds (Junto a Ti)",
+      "url": "https://open.spotify.com/track/60OhKzwpGr8zNuMij0mbk1"
+    },
+    {
+      "album": {
         "name": "Pasa La P\u00e1gina \"Panam\u00e1\"",
         "url": "https://open.spotify.com/album/0bM0pHTfKHh5BcNpxcvuFw"
       },
@@ -8980,7 +9034,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 181909,
       "name": "Salvaje",
       "url": "https://open.spotify.com/track/2OQUE4MtsLQ5S49MQmaVLe"
@@ -10043,6 +10097,24 @@
     },
     {
       "album": {
+        "name": "Tal Vez (2:22 AM)",
+        "url": "https://open.spotify.com/album/2rLDzZdjetixFrlaL8t3X2"
+      },
+      "artists": [
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176106,
+      "name": "Tal Vez (2:22 AM)",
+      "url": "https://open.spotify.com/track/3M4LxWgOK73cfK5yU9U8ZP"
+    },
+    {
+      "album": {
         "name": "Tan Bonita",
         "url": "https://open.spotify.com/album/527CairPtfgaEwJKH6sAmj"
       },
@@ -10991,6 +11063,24 @@
     },
     {
       "album": {
+        "name": "Una y Otra Vez",
+        "url": "https://open.spotify.com/album/2mIRZwtWJfTMXb9IlD92WT"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182129,
+      "name": "Una y Otra Vez",
+      "url": "https://open.spotify.com/track/01Jau2dvxahy6s00VFFB0n"
+    },
+    {
+      "album": {
         "name": "Uno los Dos",
         "url": "https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9"
       },
@@ -11542,7 +11632,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 193342,
       "name": "\u00bfEs En Serio?",
       "url": "https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu"

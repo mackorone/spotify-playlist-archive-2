@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,053 songs - 3 day 15 hr 20 min
+1,054 songs - 3 day 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,7 +459,7 @@
 | [Kami](https://open.spotify.com/track/5ak3bl5dEdCV0fggWAot4C) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Kami EP](https://open.spotify.com/album/5AYtQB9ctK389PKxcDLIMZ) | 5:15 | 2022-07-08 | 2022-10-15 |
 | [Kami](https://open.spotify.com/track/6ZbJmCC26Y3968mSLS2VNc) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/3h8TA79sGuevEV4PZzQRkz) | 5:15 | 2022-07-08 | 2022-11-16 |
 | [Kamili](https://open.spotify.com/track/5JEaCJCehAtt1nQf0gd9Dx) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kamili](https://open.spotify.com/album/59q5fTLywgfKCoensSHdxG) | 3:46 | 2023-02-10 | 2024-04-19 |
-| [Kamwana](https://open.spotify.com/track/7GIzHLGF2UvAuaMrtVdI5y) | [Sama \(US\)](https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Kamwana](https://open.spotify.com/album/07noN4Eu2Ea76GvzhyfNuk) | 2:32 | 2026-01-16 |  |
+| [Kamwana](https://open.spotify.com/track/7GIzHLGF2UvAuaMrtVdI5y) | [Sama \(US\)](https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Kamwana](https://open.spotify.com/album/07noN4Eu2Ea76GvzhyfNuk) | 2:32 | 2026-01-16 | 2026-01-24 |
 | [Karibu](https://open.spotify.com/track/01BjQ7kJDzs7JEVSF1ZHHL) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Karibu](https://open.spotify.com/album/3bffYGq3XpK2TMgoe0itJV) | 4:02 | 2024-04-19 | 2025-10-07 |
 | [Karibu](https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Karibu](https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj) | 4:02 | 2024-04-05 | 2024-04-19 |
 | [Kasiope](https://open.spotify.com/track/3hfnMokIzmWVCXRXqW0xr9) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Kasiope Pt\. 1](https://open.spotify.com/album/4tiqT5zI8ffiv5QNDGTOzl) | 7:46 | 2024-04-19 | 2024-05-18 |
@@ -1046,6 +1046,7 @@
 | [Yira Yirar](https://open.spotify.com/track/6cUqwmaSHB6bzwAd3TNF2a) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU) | [Marco Tegui / Raw Main](https://open.spotify.com/album/5dV8KbeFNzZcncF57GBEPA) | 6:39 | 2021-04-21 | 2022-12-28 |
 | [Yo Voy](https://open.spotify.com/track/2gvNCmPRR79aNcjF4lIwH1) | [TEDDY\-O](https://open.spotify.com/artist/7G1pOSE6cde2iXenQsMMe3), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Yo Voy](https://open.spotify.com/album/4iJ2EHvVSXFPeI6p05aVbw) | 2:59 | 2025-05-23 | 2025-10-04 |
 | [Yoruba](https://open.spotify.com/track/6VNWwYYl9jCCIZD224ALSD) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Yoruba](https://open.spotify.com/album/5S65Qudj7Jk2YLiDUsWBJ9) | 7:07 | 2022-11-11 | 2023-07-16 |
+| [You & Me \- Notre Dame Remix](https://open.spotify.com/track/0Qbh4yOiVqsOsNgwLCnbBH) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [You & Me \(Notre Dame Remix\)](https://open.spotify.com/album/5anuE7d0xZMpGBuAQWzLl9) | 4:07 | 2026-01-23 |  |
 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 | 2024-01-05 |  |
 | [You Are](https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B) | [Demayä](https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9) | [You Are](https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc) | 4:23 | 2024-11-08 |  |
 | [You Are](https://open.spotify.com/track/7ivcxtK1L1Y1j50x9yUWIR) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [You Are](https://open.spotify.com/album/3Mlmg99htNwRiVf6yDAspJ) | 3:59 | 2025-06-13 | 2025-12-13 |

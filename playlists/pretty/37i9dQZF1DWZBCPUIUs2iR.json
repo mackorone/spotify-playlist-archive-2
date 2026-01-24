@@ -1,6 +1,6 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 779334,
+  "num_followers": 779430,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2025-11-03 22:12:33",
       "album": {
-        "name": "A Lot About Livin' (And A Little 'Bout Love)",
-        "url": "https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 148160,
-      "name": "Chattahoochee",
-      "url": "https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm"
-    },
-    {
-      "added_at": "2025-11-03 22:12:33",
-      "album": {
         "name": "Honkytonk University",
         "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 227840,
       "name": "As Good As I Once Was",
       "url": "https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8"
+    },
+    {
+      "added_at": "2025-11-03 22:12:33",
+      "album": {
+        "name": "A Lot About Livin' (And A Little 'Bout Love)",
+        "url": "https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 148160,
+      "name": "Chattahoochee",
+      "url": "https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm"
     },
     {
       "added_at": "2025-11-03 22:12:33",
@@ -635,18 +635,18 @@
     {
       "added_at": "2025-11-03 22:12:33",
       "album": {
-        "name": "At Folsom Prison",
-        "url": "https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh"
+        "name": "Dan + Shay",
+        "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
         }
       ],
-      "duration_ms": 162325,
-      "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
-      "url": "https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9"
+      "duration_ms": 196746,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y"
     },
     {
       "added_at": "2025-11-03 22:12:33",
@@ -667,34 +667,18 @@
     {
       "added_at": "2025-11-03 22:12:33",
       "album": {
-        "name": "Dan + Shay",
-        "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
+        "name": "At Folsom Prison",
+        "url": "https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 196746,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y"
-    },
-    {
-      "added_at": "2025-11-03 22:12:33",
-      "album": {
-        "name": "If You're Going Through Hell",
-        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
-      },
-      "artists": [
-        {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
-        }
-      ],
-      "duration_ms": 235426,
-      "name": "Watching You",
-      "url": "https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5"
+      "duration_ms": 162325,
+      "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
+      "url": "https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9"
     },
     {
       "added_at": "2025-11-03 22:12:33",
@@ -711,6 +695,22 @@
       "duration_ms": 194306,
       "name": "This Kiss",
       "url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
+    },
+    {
+      "added_at": "2025-11-03 22:12:33",
+      "album": {
+        "name": "If You're Going Through Hell",
+        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
+      },
+      "artists": [
+        {
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+        }
+      ],
+      "duration_ms": 235426,
+      "name": "Watching You",
+      "url": "https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5"
     },
     {
       "added_at": "2025-11-03 22:12:33",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-11-03 22:12:33",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0"
-      },
-      "artists": [
-        {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "Pickup Man",
-      "url": "https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON"
-    },
-    {
-      "added_at": "2025-11-03 22:12:33",
-      "album": {
         "name": "Just Who I Am: Poets & Pirates",
         "url": "https://open.spotify.com/album/7E1BiscM3O6aifwtcLdUG7"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 286880,
       "name": "Don't Blink",
       "url": "https://open.spotify.com/track/6reuJxDtjebwc9FB6rNpp0"
+    },
+    {
+      "added_at": "2025-11-03 22:12:33",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0"
+      },
+      "artists": [
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "Pickup Man",
+      "url": "https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON"
     },
     {
       "added_at": "2025-11-03 22:12:33",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-11-03 22:12:33",
       "album": {
-        "name": "Hag's Christmas",
-        "url": "https://open.spotify.com/album/1zV3LT0oE6DW2BWnrNOXf8"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard & The Strangers",
-          "url": "https://open.spotify.com/artist/3mSAqBoXQgdlpwzWsIgBzL"
-        }
-      ],
-      "duration_ms": 163733,
-      "name": "If We Make It Through December",
-      "url": "https://open.spotify.com/track/4sTlOOWxFx5dR7SZmi7S79"
-    },
-    {
-      "added_at": "2025-11-03 22:12:33",
-      "album": {
         "name": "Rockin' With The Rhythm",
         "url": "https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 201320,
       "name": "Have Mercy",
       "url": "https://open.spotify.com/track/5toaXJWnmQCnGRh8eOrEwE"
+    },
+    {
+      "added_at": "2025-11-03 22:12:33",
+      "album": {
+        "name": "Hag's Christmas",
+        "url": "https://open.spotify.com/album/1zV3LT0oE6DW2BWnrNOXf8"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard & The Strangers",
+          "url": "https://open.spotify.com/artist/3mSAqBoXQgdlpwzWsIgBzL"
+        }
+      ],
+      "duration_ms": 163733,
+      "name": "If We Make It Through December",
+      "url": "https://open.spotify.com/track/4sTlOOWxFx5dR7SZmi7S79"
     },
     {
       "added_at": "2025-11-03 22:12:33",

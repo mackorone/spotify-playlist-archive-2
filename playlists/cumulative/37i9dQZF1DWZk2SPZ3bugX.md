@@ -4,7 +4,7 @@
 
 > 🍾
 
-269 songs - 15 hr 24 min
+270 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Body Over Here](https://open.spotify.com/track/53apPgrnpFAtIsUwWTKbv3) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Body Over Here](https://open.spotify.com/album/1rjEOqtI2JV6Qm7AIrxLdZ) | 2:39 | 2025-09-18 | 2025-10-03 |
 | [Bossa Supernova](https://open.spotify.com/track/5OaX0qy9jy6cDerIpMQF4o) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Bossa Supernova](https://open.spotify.com/album/5x7YwAgcrxksduNQwllHZf) | 3:12 | 2023-03-24 |  |
 | [Breathin](https://open.spotify.com/track/0CfX8IKYaD3jd774RRcZJJ) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [Breathin](https://open.spotify.com/album/0eFJJh3m1gu97k5cSEWpbF) | 3:20 | 2022-12-08 | 2023-09-23 |
-| [By My Side](https://open.spotify.com/track/4s6Yv9iUvqQEUIanfZinaw) | [Sam Quealy](https://open.spotify.com/artist/0GLGeVG3XTA2KmlmAd05T8), [Marlon Magnée](https://open.spotify.com/artist/0NscG1sENWBbNcF8Wj5yLs) | [By My Side](https://open.spotify.com/album/0IXlTgFTZuN73vfQOxED6N) | 2:47 | 2026-01-09 |  |
+| [By My Side](https://open.spotify.com/track/4s6Yv9iUvqQEUIanfZinaw) | [Sam Quealy](https://open.spotify.com/artist/0GLGeVG3XTA2KmlmAd05T8), [Marlon Magnée](https://open.spotify.com/artist/0NscG1sENWBbNcF8Wj5yLs) | [By My Side](https://open.spotify.com/album/0IXlTgFTZuN73vfQOxED6N) | 2:47 | 2026-01-09 | 2026-01-24 |
 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 | 2022-12-08 | 2023-09-23 |
 | [California](https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ) | [The Lagoons](https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd) | [California](https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc) | 4:21 | 2023-01-04 | 2024-12-07 |
 | [Calvin](https://open.spotify.com/track/4FZXNjy9tRM2qrwpEs46Wc) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Calvin](https://open.spotify.com/album/7lN3wA0cM16Sdg1qdF86Yn) | 3:03 | 2023-02-24 | 2025-01-17 |
@@ -190,6 +190,7 @@
 | [Poundland Anthem](https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Manifesto](https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY) | 5:55 | 2023-06-09 | 2025-03-14 |
 | [Praja Magia](https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS) | 3:20 | 2022-12-08 | 2024-03-23 |
 | [Prayer in C \- Robin Schulz Radio Edit](https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Prayer in C](https://open.spotify.com/album/6Ps0kbvAjuz75uK0uuZzWa) | 3:09 | 2022-12-08 | 2023-09-23 |
+| [Quero](https://open.spotify.com/track/57uV62QQp0kiwBwpZjgarH) | [Trinix Remix](https://open.spotify.com/artist/0RvjLz7klSc5lNgxX7EiVZ), [Iná](https://open.spotify.com/artist/0qA4dxIMSPVxjKBiczVHQv) | [Quero](https://open.spotify.com/album/7wNFlxLXby8RduE9xNEjrW) | 2:00 | 2026-01-23 |  |
 | [R.I.P.](https://open.spotify.com/track/1KSPuERBxyErKcJDhlyRJ8) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k), [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [R.I.P.](https://open.spotify.com/album/31GGW5v48kh1vAZ6FSyqZk) | 3:04 | 2025-03-20 | 2025-03-28 |
 | [Relationships](https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/1suyd6SSJJq9yOu1tH4LB1) | 3:22 | 2025-03-13 | 2025-03-28 |
 | [Reverse](https://open.spotify.com/track/0gqM9aHHz4OzqrfmRxdonh) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Gangbusters Melody Club](https://open.spotify.com/album/4li43Kruh0Mrh0SGsIipvU) | 4:02 | 2023-12-01 | 2024-04-19 |

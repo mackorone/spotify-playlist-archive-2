@@ -2612,7 +2612,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 171959,
       "name": "Hey Skibidi",
       "url": "https://open.spotify.com/track/3EPnh0IazV0MZ1oHlzyB7I"
@@ -2978,6 +2978,32 @@
       "duration_ms": 203043,
       "name": "Irul",
       "url": "https://open.spotify.com/track/7uN0ioDq2z87igYZNeuHJe"
+    },
+    {
+      "album": {
+        "name": "Irul",
+        "url": "https://open.spotify.com/album/255dT4jN72OZQK5NVGFP8y"
+      },
+      "artists": [
+        {
+          "name": "Christo George",
+          "url": "https://open.spotify.com/artist/3nk6fSGeJuNHxRGIbauxTx"
+        },
+        {
+          "name": "Ann Lilly Jose",
+          "url": "https://open.spotify.com/artist/3Cgq8VbArzwJtnUPbORach"
+        },
+        {
+          "name": "Zeba Tommy",
+          "url": "https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257202,
+      "name": "Irul",
+      "url": "https://open.spotify.com/track/2KJQtruGUL9t8sDX1i09A9"
     },
     {
       "album": {
@@ -3460,6 +3486,28 @@
       "duration_ms": 299060,
       "name": "Kaana Neram",
       "url": "https://open.spotify.com/track/0pIm8FZ6SxPLyjTgDa9G24"
+    },
+    {
+      "album": {
+        "name": "Kaane",
+        "url": "https://open.spotify.com/album/5gvlDdbSJuy6rYNqxuOsSF"
+      },
+      "artists": [
+        {
+          "name": "Haniya Nafisa",
+          "url": "https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0"
+        },
+        {
+          "name": "Raunaq",
+          "url": "https://open.spotify.com/artist/6GKH8jEn8d7Go10zcnWCHq"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174846,
+      "name": "Kaane",
+      "url": "https://open.spotify.com/track/7qoJHTG9sc8h8plT2pTdqw"
     },
     {
       "album": {
@@ -4410,7 +4458,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 257450,
       "name": "Local Sevens - Neravo",
       "url": "https://open.spotify.com/track/6lvTnrUSBKIF9VFkLP3Ss3"
@@ -6105,6 +6153,24 @@
     },
     {
       "album": {
+        "name": "Neram Polum",
+        "url": "https://open.spotify.com/album/22DiR7aC4ITfq1iMbtZsK7"
+      },
+      "artists": [
+        {
+          "name": "Faazo",
+          "url": "https://open.spotify.com/artist/3Ev1Fr0KA1NzxQLgcFnhvj"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202632,
+      "name": "Neram Polum",
+      "url": "https://open.spotify.com/track/4fp8dK3BKeclSks8p74Tv6"
+    },
+    {
+      "album": {
         "name": "Nerattam",
         "url": "https://open.spotify.com/album/2JYwA5BAGrPAI0UzFg2Kvo"
       },
@@ -7722,7 +7788,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 205000,
       "name": "Raavu",
       "url": "https://open.spotify.com/track/26wTJ11QTpGx59BoRCsY6G"

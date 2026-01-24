@@ -2,9 +2,9 @@
 
 ### [Música Mexicana En Vivo](https://open.spotify.com/playlist/37i9dQZF1DWVHIYChxh9sq)
 
-> Música en vivo de tus artistas favoritos de la Música Mexicana\. Portada: Banda Renovacion, Noel\. Torres
+> Música en vivo de tus artistas favoritos de la Música Mexicana\. Portada: Luis Alfonso Partida El Yaki, Banda Corona del Rey
 
-579 songs - 1 day 8 hr 16 min
+580 songs - 1 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Buscando Al Cholo \(En Vivo\)](https://open.spotify.com/track/5VDC9Ym7gY8dgmRWintiFK) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Buscando Al Cholo \(En Vivo\)](https://open.spotify.com/album/1NcG9qZxLOYnf9zc9OAw4V) | 3:22 | 2022-12-08 | 2023-05-26 |
 | [Bélico X Siempre \- En Vivo](https://open.spotify.com/track/67V38GVtNuQcuq7lcevAjh) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Bélico X Siempre \(En Vivo\)](https://open.spotify.com/album/6PvM8qWEQNvh7hcyVMkxOV) | 3:01 | 2022-12-08 | 2023-05-26 |
 | [Cabrón y Vago \- En Vivo](https://open.spotify.com/track/4Baf5WbZIHnItDgprvfX6G) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Recordando los Inicios \(En Vivo\)](https://open.spotify.com/album/1h5zAN0B3z5IUnaXFg6H6B) | 2:21 | 2022-12-08 | 2024-05-12 |
-| [Caminos Diferentes \- En Vivo](https://open.spotify.com/track/2skaUI9UgIiYM7LecO1IGh) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 3:04 | 2024-12-13 |  |
+| [Caminos Diferentes \- En Vivo](https://open.spotify.com/track/2skaUI9UgIiYM7LecO1IGh) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 3:04 | 2024-12-13 | 2026-01-24 |
 | [Cara de Bala \(En Vivo\)](https://open.spotify.com/track/1Tm3LXsJK7V9BV9mhtCJYD) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Zap Garcia](https://open.spotify.com/artist/1H1ADeCEi7Lu2OVorvGshg) | [Cara de Bala \(En Vivo\)](https://open.spotify.com/album/7MvjnbGjvMeMDOrG3lvARK) | 2:31 | 2022-12-08 | 2023-03-21 |
 | [Cariño Prohibido \(En Vivo\)](https://open.spotify.com/track/4walRkR7DUEnrTm0tekIF1) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Amanecida en Caborca Sonora, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/6V8nu6XClbgJHp7XVZshiQ) | 3:28 | 2022-05-12 | 2022-12-09 |
 | [Celos Del Viento \(En vivo\)](https://open.spotify.com/track/0tg8RppkhrRC972fm380kd) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/05uudYnuSJPNR6tFefx699) | 2:47 | 2023-06-16 | 2024-04-19 |
@@ -474,6 +474,7 @@
 | [Por culpa de un tercero \(Spotify OUTSIDE Version\) \- Live from Hermosillo, Sonora, MX](https://open.spotify.com/track/1w0nTizRgdMsoFwGAYhqRg) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [SPOTIFY OUTSIDE](https://open.spotify.com/album/4W5Qu5GaVCuG2igJt2bKDN) | 3:18 | 2024-10-08 |  |
 | [Por Las Calles De Chihuahua](https://open.spotify.com/track/4dZBaYkhSzYta7sbWjftLx) | [Comando Único](https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK) | [En Vivo, Vol\. 3](https://open.spotify.com/album/1LZhpRZhyKd2cMyetLfbQ3) | 2:42 | 2023-03-17 | 2024-04-24 |
 | [Por Que Te Vas De Mi \- En Vivo](https://open.spotify.com/track/17gXGLgaVeONySly2voFIY) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Recuerdos Para Pistear \(En Vivo\)](https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F) | 3:22 | 2023-03-17 | 2024-10-26 |
+| [Por Quién Me Dejas \(En vivo\)](https://open.spotify.com/track/7FABqptJxKZHqBPpEvCxhS) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Banda Corona del Rey](https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI) | [Coronar Hasta Que Amanezca \(En Vivo\)](https://open.spotify.com/album/4ZGGQByBy9NVxhjHC9SBdw) | 3:12 | 2026-01-23 |  |
 | [Por Tu Amor \- En Vivo](https://open.spotify.com/track/46KqzlChHmjRmZQvvxk5dn) | [Los Cazadores Del Cerro](https://open.spotify.com/artist/49hvO5gCq6aWo8a4x147iQ) | [Por Tu Amor \(En Vivo\)](https://open.spotify.com/album/5ops1wzh5py3wKUkqQBcKQ) | 3:36 | 2022-05-12 | 2022-12-09 |
 | [Porte Exuberante](https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:33 | 2024-04-24 | 2024-05-02 |
 | [Prenda Querida \- En Vivo](https://open.spotify.com/track/4S5jpsXo0KGT73gMqGEWzy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Vivo Desde las Cañas](https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx) | 3:28 | 2022-05-12 | 2023-02-01 |

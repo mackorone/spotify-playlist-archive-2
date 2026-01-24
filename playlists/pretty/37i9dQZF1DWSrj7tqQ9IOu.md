@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Le meilleur de l'indie français\. Cover : Lilly Wood and The Prick
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,212 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,191 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dark Blue](https://open.spotify.com/track/4JOMI2LLRrhqnq5iXnx4hh) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4) | [](https://open.spotify.com/album/null) | 2:49 |
+| 1 | [Dark Blue](https://open.spotify.com/track/4JOMI2LLRrhqnq5iXnx4hh) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4) | [Christina](https://open.spotify.com/album/1cPnlRW7jlDjRT40IjgZ4V) | 2:49 |
 | 2 | [heureux](https://open.spotify.com/track/1xMutgnDfUkwzM9Cn4afZu) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [failles](https://open.spotify.com/album/3k6UPDk6tdvDMtZ7KADgQk) | 2:46 |
 | 3 | [Nuit sauvage](https://open.spotify.com/track/7zbOsTSAkfLuf7865DYbai) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM), [SOLEIL ROUGE](https://open.spotify.com/artist/2Trhtz39560UW6C8EXSrrI) | [Nuit sauvage](https://open.spotify.com/album/3GYhCAFqT7Rkh7WMthR7Rw) | 2:31 |
 | 4 | [BISOUS SALÉS & COQUILLAGES](https://open.spotify.com/track/5Vg7mFXuEfcSbliMmcvRID) | [Odetto](https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF), [Leita](https://open.spotify.com/artist/5UTy08ibUbhiqGhuFm1Gzo), [Soyuz](https://open.spotify.com/artist/2MhHUHbSBQksLp8EzgaRa8) | [BISOUS SALÉS & COQUILLAGES](https://open.spotify.com/album/4RmvYkVHV97qDlgEyj4XKk) | 2:20 |
 | 5 | [Stylisme](https://open.spotify.com/track/5MyiXA0ZZ1SUdji7aBTbUN) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE) | [Stylisme](https://open.spotify.com/album/6VJb7dSMKyk7O3sc7UHBwY) | 2:23 |
-| 6 | [Track 3](https://open.spotify.com/track/0LoMlLQ5GyU9oXWMcHK0CQ) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [](https://open.spotify.com/album/null) | 0:00 |
+| 6 | [Love Me Better](https://open.spotify.com/track/0LoMlLQ5GyU9oXWMcHK0CQ) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Hugo Hamlet](https://open.spotify.com/artist/4sh4kcFQN5pZcNxX4eBGmO) | [Papooz & Friends](https://open.spotify.com/album/2Kn8qlxUCCXr4nIbJiNUWd) | 2:45 |
 | 7 | [mieux](https://open.spotify.com/track/6TT84kS4SrX4HX191MiTJK) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [failles](https://open.spotify.com/album/6ySc4l3npIPfkr9PyvRcgO) | 2:28 |
 | 8 | [Nuits bleues](https://open.spotify.com/track/7kVEesbz7C9LuiY8P2GuCW) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3), [Kyana](https://open.spotify.com/artist/1xOGqfYHZ2N0C06PzHE1dx) | [Nuits bleues](https://open.spotify.com/album/0kwjlPh5rxVb4EwvbZhy2H) | 2:42 |
 | 9 | [Blue Summer](https://open.spotify.com/track/2STdCfjSC4CB9TakulkWFD) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [Ricky Ducati](https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE) | [Blue Summer](https://open.spotify.com/album/1Rdsc0SBiK6RpNrhAfJM18) | 3:40 |

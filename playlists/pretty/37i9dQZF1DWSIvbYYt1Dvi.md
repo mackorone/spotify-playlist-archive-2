@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > sotam podia ter dito 'podia ser a gente' mas dando AULAS assim é bem melhor
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,150,524 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,150,464 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [NASCI PRA ISSO](https://open.spotify.com/track/4WwJ4xNXqRjNJOXYm38QNa) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [HIGHBOYZ](https://open.spotify.com/album/0LXnhPYep0AOA1c7BFg7Vm) | 3:06 |
 | 50 | [Toc Toc Toc](https://open.spotify.com/track/2Oq3YDQMK6oFqOuuIzeeXO) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Novo Testamento](https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5) | 2:10 |
 
-Snapshot ID: `AAAAANa4A+tAmEfjKwJayKLoJfUzXJBt`
+Snapshot ID: `AAAAAI2e0TPFQn0z3zZKbsPcs6n63SpD`

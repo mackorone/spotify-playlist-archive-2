@@ -4,7 +4,7 @@
 
 > Descubre los nuevos álbumes del 2026\. Hit shuffle for a mixed listening experience\. Cover: Young Cister
 
-1,919 songs - 4 day 4 hr 42 min
+1,922 songs - 4 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1059,6 +1059,7 @@
 | [Me Tocó Morir](https://open.spotify.com/track/6k9zUQ7Gngrs8ULzQOyDDV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 2:24 | 2023-01-17 | 2023-05-06 |
 | [Me Vale](https://open.spotify.com/track/1ukHSEQrSKHhWYv4VkqU4o) | [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [Abajo Del Sol](https://open.spotify.com/album/6jN8VeWuZaAej0Xsj55a4t) | 3:19 | 2024-04-05 | 2024-12-05 |
 | [Me Voy](https://open.spotify.com/track/6XliIIeuY5kGZ77jXQkOwg) | [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc), [Lito Kirino](https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt) | [AGRIDULCE](https://open.spotify.com/album/09U6KLsOcQzTHw0VT6tWaD) | 3:54 | 2023-06-30 | 2023-10-28 |
+| [Me Voy A La Chingada](https://open.spotify.com/track/297ql9Y4MLwYwt6wY1wFID) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Infinito](https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68) | 2:14 | 2026-01-23 |  |
 | [Me Voy Acostumbrando](https://open.spotify.com/track/4whXahq4SMZQM1f6z5t8lg) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [FINAL \(Vol.2\)](https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx) | 3:12 | 2024-03-29 | 2024-12-05 |
 | [Media Pastiii](https://open.spotify.com/track/00QAvytbxEUAT0xGBFLVaT) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [AfroLOVA' 23](https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP) | 2:38 | 2023-07-21 | 2023-11-11 |
 | [Medicamento](https://open.spotify.com/track/5fxypr2Z802mXstygexG1o) | [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG), [AUNTY RAYZOR](https://open.spotify.com/artist/2Fn2ztLqyHRiJw53gXonuz) | [Atómica](https://open.spotify.com/album/7oj2qCLRzyE9VTI4T7eime) | 3:07 | 2023-12-01 | 2024-02-10 |
@@ -1499,6 +1500,7 @@
 | [Rompa \(feat\. Kris Floyd\)](https://open.spotify.com/track/5Xyc1MK3toy2Mso3CdTmqL) | [Club16](https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [Club16, Jota Rosa Presents Vol\. 2](https://open.spotify.com/album/2wVZ2SzvRStpgyNmXo9s8d) | 3:02 | 2023-04-28 | 2023-07-29 |
 | [ROMPERME EN DOS](https://open.spotify.com/track/4Oq22v8OiWfFiMKQBaOOeq) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [danito](https://open.spotify.com/album/2IyW4durxXaCvQFwC0CY6T) | 2:34 | 2025-03-21 | 2026-01-17 |
 | [Ron En El Piso](https://open.spotify.com/track/4NV0h97tYFnu3nlj8dyDqP) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Ron En El Piso](https://open.spotify.com/album/2FfQlGud9aEcHPuDkwYj5z) | 5:35 | 2024-02-23 | 2024-12-05 |
+| [Rondando](https://open.spotify.com/track/6zbIymvarWbejJdlRPJwGf) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Infinito](https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68) | 2:32 | 2026-01-23 |  |
 | [rookie of the year](https://open.spotify.com/track/52efxkazJPLF9SeuUuuX0u) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 2:49 | 2024-04-05 | 2025-01-23 |
 | [Rositas](https://open.spotify.com/track/3M6Hgrfs2NQaIMs050UaZF) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed Pt\. 2](https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0) | 2:37 | 2023-09-08 | 2024-01-06 |
 | [Roulin](https://open.spotify.com/track/4CW60MJtsp5GckOQLcC2NK) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 2:59 | 2025-10-25 | 2026-01-17 |
@@ -1591,6 +1593,7 @@
 | [Sin Ropa](https://open.spotify.com/track/2oVJ40hTrZAmr3UJareeii) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz) | [Sin Ropa](https://open.spotify.com/album/0E9Vj1K5Lq1Zubvb9JZLjE) | 3:11 | 2023-03-10 | 2023-03-18 |
 | [Sin Ropa](https://open.spotify.com/track/5kh8aIXGciawt1f9EMeaq3) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz) | [El Día Antes del Día](https://open.spotify.com/album/64kvdyNV6IEJNreCVl4GlT) | 3:11 | 2023-03-17 | 2023-06-17 |
 | [Sin Ti No Hay Yo](https://open.spotify.com/track/3cp3qhxUCOw1P3YJ3EAYOU) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [Ojalá Estuvieras Aquí](https://open.spotify.com/album/0dHNLqZYLQOXAJ6dBpajdu) | 2:46 | 2024-05-31 | 2024-12-05 |
+| [Sin Vergüenza](https://open.spotify.com/track/7pW6jlnkG7IVSlhhEI7P58) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Infinito](https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68) | 2:49 | 2026-01-23 |  |
 | [Sin Waze](https://open.spotify.com/track/4Q7PAq0JYYX4XRFCIXHYlR) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Sin Sol](https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9) | 3:05 | 2023-06-16 | 2023-10-14 |
 | [Sin Yolanda](https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 3:10 | 2024-05-24 | 2025-01-23 |
 | [Sin Yolanda](https://open.spotify.com/track/2P8lowDRQsyXnPryS7s20o) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch), [Gutinho](https://open.spotify.com/artist/5xneBcnKxnlHnspytUfcyE) | [Últimamente me acuerdo mucho de tu casa](https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf) | 3:50 | 2023-03-10 | 2023-06-17 |

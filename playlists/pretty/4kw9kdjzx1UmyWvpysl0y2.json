@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124458,
+  "num_followers": 124455,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVCNiy5+mTNRF5G++S7gGFp0LbGz76",
+  "snapshot_id": "AAAVCaugTHQLjcLWe9AVzbFHTVtW43DB",
   "tracks": [
+    {
+      "added_at": "2026-01-23 17:25:40",
+      "album": {
+        "name": "SUPERCAR",
+        "url": "https://open.spotify.com/album/0kUpoKgI8BiH2KqkS8cmnp"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        },
+        {
+          "name": "JXN",
+          "url": "https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU"
+        }
+      ],
+      "duration_ms": 154094,
+      "name": "SUPERCAR",
+      "url": "https://open.spotify.com/track/6pJIgc6lMzltj2f4CZZxkq"
+    },
     {
       "added_at": "2026-01-22 15:19:21",
       "album": {

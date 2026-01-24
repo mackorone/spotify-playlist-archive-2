@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "a little indie, a little pop, soda featuring Malcolm Todd",
+  "description": "a little indie, a little pop, soda featuring Louis Tomlinson",
   "name": "soda",
   "tracks": [
     {
@@ -11399,6 +11399,24 @@
     },
     {
       "album": {
+        "name": "trying not to panic",
+        "url": "https://open.spotify.com/album/1bwJUNxQpND3xqgvUzWNz4"
+      },
+      "artists": [
+        {
+          "name": "KAMRAD",
+          "url": "https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174744,
+      "name": "Hug Yourself",
+      "url": "https://open.spotify.com/track/0wxptU4oakoC1OfPWcqgDc"
+    },
+    {
+      "album": {
         "name": "Hummingbird",
         "url": "https://open.spotify.com/album/0LoVo5gwblY0FCEnsbLXzb"
       },
@@ -12575,6 +12593,24 @@
     },
     {
       "album": {
+        "name": "Ice Floes",
+        "url": "https://open.spotify.com/album/0GjnbJYWcos6wLU5g2d9IG"
+      },
+      "artists": [
+        {
+          "name": "Conor Burns",
+          "url": "https://open.spotify.com/artist/2ZoDOJ7d8rchLJwYU42x2J"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196223,
+      "name": "Ice Floes",
+      "url": "https://open.spotify.com/track/4qDXAsGj2MAGn3TLU2mvH5"
+    },
+    {
+      "album": {
         "name": "Iced Coffee",
         "url": "https://open.spotify.com/album/4eWF5c0nAas9soMtcpP3sj"
       },
@@ -12868,6 +12904,24 @@
       "duration_ms": 172971,
       "name": "Imaginary Friends",
       "url": "https://open.spotify.com/track/276FYBBORL5s6Ob4XJ6eN8"
+    },
+    {
+      "album": {
+        "name": "Imposter",
+        "url": "https://open.spotify.com/album/47GKjNzCbyJVYNrgpq4314"
+      },
+      "artists": [
+        {
+          "name": "Louis Tomlinson",
+          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158238,
+      "name": "Imposter",
+      "url": "https://open.spotify.com/track/5VqWwnkDTHNz3oXdlh2jn7"
     },
     {
       "album": {
@@ -15786,7 +15840,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 157133,
       "name": "Maybe I Do",
       "url": "https://open.spotify.com/track/1IEcpd2OmAA9KNO6cfTn4D"
@@ -17192,7 +17246,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 184481,
       "name": "New Heart",
       "url": "https://open.spotify.com/track/4yI7z3Qd7n53y42T3sk0dK"
@@ -18312,7 +18366,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 227253,
       "name": "Outbound",
       "url": "https://open.spotify.com/track/33JtmL41NT35v7Y1j9dULK"
@@ -18388,6 +18442,28 @@
       "duration_ms": 124760,
       "name": "Over It",
       "url": "https://open.spotify.com/track/0eArfQGTTeqPmBuj1Z58cv"
+    },
+    {
+      "album": {
+        "name": "Overnight",
+        "url": "https://open.spotify.com/album/5LyZy1NkGqAEC3t3mP2OJV"
+      },
+      "artists": [
+        {
+          "name": "Portair",
+          "url": "https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG"
+        },
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195996,
+      "name": "Overnight",
+      "url": "https://open.spotify.com/track/19ScxFB8ckJiVAsboxL1in"
     },
     {
       "album": {
@@ -20988,7 +21064,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 187733,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/5fLbVEHBkaGnK9jsVFpDLI"

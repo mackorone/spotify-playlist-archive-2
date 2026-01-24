@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2026 \| Happy New Year 2026! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>
 
-683 songs - 2 day 18 hr 6 min
+685 songs - 2 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Break Every Chain](https://open.spotify.com/track/1kSQjzusL5j9Vvy67krOjy) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [Break Every Chain](https://open.spotify.com/album/0S8VvN9QY0Ivbpm3ZHRLmr) | 8:20 | 2022-04-22 | 2023-01-05 |
 | [Break Every Chain \- Live](https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 8:18 | 2023-03-31 | 2024-09-10 |
 | [Breakthrough Miracle Power](https://open.spotify.com/track/7ATRQZwETMu5jFYzXiMjNc) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Breakthrough Miracle Power / You Are The Lord](https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU) | 5:52 | 2022-03-15 | 2022-06-10 |
+| [Breathe On It](https://open.spotify.com/track/3sd2kvWWh7T2M6N64LOGSV) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Breathe On It](https://open.spotify.com/album/38CH2161JgsV17KaROhaDe) | 4:00 | 2026-01-23 |  |
 | [Broken Into Beautiful \(Studio\) \[with Darlene Zschech\]](https://open.spotify.com/track/4cn9YEZzTeF918MwzqGuia) | [Hannah Hobbs](https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX), [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw) | [Broken Into Beautiful](https://open.spotify.com/album/1w7LQeA7JR4nHzkPd6ZLCV) | 3:47 | 2024-08-23 | 2025-03-21 |
 | [Broken Into Beautiful \- Live](https://open.spotify.com/track/1YzMdlpqzZ0f9DrHYClYH9) | [Hannah Hobbs](https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX) | [Sundown \(Live\)](https://open.spotify.com/album/2uFAfVjkwOukZJGWjWf1oT) | 6:25 | 2025-03-20 |  |
 | [Broken Vessels \(Amazing Grace\)](https://open.spotify.com/track/6bOMT9eOnF84hX8BFbl0RO) | [Hillsong Chapel](https://open.spotify.com/artist/3kb5Da0lPehCHCE5SVLNQk) | [Broken Vessels \(Amazing Grace\)](https://open.spotify.com/album/6lrUPYmeOJybiioKIFhtBi) | 5:20 | 2024-06-14 | 2024-11-27 |
@@ -394,6 +395,7 @@
 | [Manasseh \- Live](https://open.spotify.com/track/2TzZevxgyPuD68uWx5GTfJ) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Church \(Live\)](https://open.spotify.com/album/41shdA7VJJmH5uJTzbH9Lc) | 6:02 | 2023-08-18 | 2024-03-05 |
 | [May It Be Jesus](https://open.spotify.com/track/0o6CXBA4butPnekwaekOA3) | [29:11 Worship](https://open.spotify.com/artist/2PNEy4Ho4xAIAkX63GBULX), [Zion Rempel](https://open.spotify.com/artist/05Z69sozelP8QXh3nS5Aop) | [May It Be Jesus](https://open.spotify.com/album/2ELDOknO7bQrzRGCwdjFsC) | 4:53 | 2022-07-01 | 2022-07-14 |
 | [Mercy Of Jesus](https://open.spotify.com/track/4DUYGD9qBMUJEOYPisadF2) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [Mercy Of Jesus](https://open.spotify.com/album/34v3tdnUyhImBD23XlyeJx) | 4:31 | 2022-03-18 | 2022-07-14 |
+| [Midst](https://open.spotify.com/track/3iEVhb9l6mFqj2I2LUDGua) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8) | [Midst](https://open.spotify.com/album/1iytTNnPCBeEtX9JyyVR77) | 6:38 | 2026-01-23 |  |
 | [Mighty Name of Jesus \- Live](https://open.spotify.com/track/1ysuxhzGyjJPpqPQQyK8Uw) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Mighty Name of Jesus & This Place \(Live\)](https://open.spotify.com/album/49siZ2o3xfh6ZR56eI5ZPr) | 8:02 | 2024-09-20 |  |
 | [Miracle](https://open.spotify.com/track/54rJa67IrktOcXKYw7wGTR) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Miracle](https://open.spotify.com/album/2xcM934KYzqGv2gQTtm5CH) | 4:56 | 2022-04-05 | 2023-01-05 |
 | [Miracle In The Works](https://open.spotify.com/track/6zE34AOSW5hi3x17joOECg) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Miracle In The Works](https://open.spotify.com/album/7uDXTxPOdwGX9d1Sz6jiy9) | 5:07 | 2022-02-17 | 2022-04-05 |

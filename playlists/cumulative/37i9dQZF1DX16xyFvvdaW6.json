@@ -89,6 +89,28 @@
     },
     {
       "album": {
+        "name": "Al \u00danico / Que Dulce es Estar",
+        "url": "https://open.spotify.com/album/46fUUBkh28La01t6zFDHuS"
+      },
+      "artists": [
+        {
+          "name": "Fos Rock",
+          "url": "https://open.spotify.com/artist/0p9As39OkIqK6mOPOs7EvK"
+        },
+        {
+          "name": "Will Fabre",
+          "url": "https://open.spotify.com/artist/07Awsxxzr9ZL19x4IfNTDm"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155453,
+      "name": "Al \u00danico / Que Dulce es Estar",
+      "url": "https://open.spotify.com/track/6M0EWZ4OlkDRAwzvepzTOH"
+    },
+    {
+      "album": {
         "name": "Yo Soy Generasion",
         "url": "https://open.spotify.com/album/0Q9uXsdYktit3JOb3LRsaV"
       },
@@ -737,6 +759,24 @@
     },
     {
       "album": {
+        "name": "Hasta Lo Mas Profundo",
+        "url": "https://open.spotify.com/album/688gMHjvrstHs1jt81LlMa"
+      },
+      "artists": [
+        {
+          "name": "Omar Oropesa",
+          "url": "https://open.spotify.com/artist/4sBl73S8GoWdWH0ORiZCno"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186599,
+      "name": "Esp\u00edritu de Fuego",
+      "url": "https://open.spotify.com/track/0cQQqc1B1SRbwWTLKzo6Sf"
+    },
+    {
+      "album": {
         "name": "Santo Remedio",
         "url": "https://open.spotify.com/album/1gtCpknow1BRL3VG4bVaIB"
       },
@@ -1062,7 +1102,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 185586,
       "name": "Locura (LA FIESTA)",
       "url": "https://open.spotify.com/track/6JncwhqrysYarGS9rbqliP"
@@ -1188,7 +1228,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 196311,
       "name": "Memoria (Identidad)",
       "url": "https://open.spotify.com/track/5GMBmIpJdpt3RqbuVxxePR"
@@ -1379,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "Nueva Creaci\u00f3n",
+        "url": "https://open.spotify.com/album/3sFRabbn1GlMqQ7qv8Cz3n"
+      },
+      "artists": [
+        {
+          "name": "Omar Campos",
+          "url": "https://open.spotify.com/artist/2lbWAx5Qo5D7TAbdMZjHNV"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218507,
+      "name": "Nueva Creaci\u00f3n",
+      "url": "https://open.spotify.com/track/4MRCWKxmbHhpm6Rpmk4Od4"
+    },
+    {
+      "album": {
         "name": "Nunca para de Llover",
         "url": "https://open.spotify.com/album/6lkqhYy0U9U53vpPhjvpKk"
       },
@@ -1488,7 +1546,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 188928,
       "name": "Por Ti Vivo",
       "url": "https://open.spotify.com/track/6PyNHGK10QnXSeW7zFFbAD"
@@ -1748,7 +1806,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 225666,
       "name": "SANTURR\u00d3N",
       "url": "https://open.spotify.com/track/6OakFAd7vRSIEyevPSGyAG"
@@ -2044,6 +2102,24 @@
       "duration_ms": 267280,
       "name": "Tu Historia",
       "url": "https://open.spotify.com/track/2Edzf0McD1MOWTwI5GbF1b"
+    },
+    {
+      "album": {
+        "name": "Nmda 10 A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/7weanTVtYQcx66h1axaX58"
+      },
+      "artists": [
+        {
+          "name": "Corto Plazo",
+          "url": "https://open.spotify.com/artist/3kdtLzdSaLDl1yh5WhSBxQ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294499,
+      "name": "Tu Luz en Mi (En Vivo)",
+      "url": "https://open.spotify.com/track/1DsWmQmHoiFXgYKSbmVrFQ"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Blues Roots](https://open.spotify.com/playlist/37i9dQZF1DXcFk5r8uS3l2)
 
-> You've come to the crossroads of soul, folk, and the blues\. Cover: KebMo & Taj Mahal
+> You've come to the crossroads of soul, folk, and the blues\. Cover: Tedeschi Trucks Band
 
-444 songs - 1 day 3 hr 46 min
+445 songs - 1 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [I Drink Alone](https://open.spotify.com/track/3uiPbbS5yy5wuENxzsS01Q) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [I Drink Alone](https://open.spotify.com/album/2qD3wp0RGuqCDJCJYH5OTi) | 3:46 | 2023-11-17 | 2024-02-17 |
 | [I Feel A Sin Coming On](https://open.spotify.com/track/0BgoEUr5NlIr3smY951qll) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/3RbTP1BoNM2obRu7Zr31kJ) | 3:52 | 2021-12-17 | 2022-07-29 |
 | [I Feel A Sin Coming On](https://open.spotify.com/track/0PuUP76HkRAdUrwKX1uUXd) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 3:52 | 2022-05-27 | 2023-02-25 |
+| [I Got You](https://open.spotify.com/track/1B32KzgCSJgkzEJfifEseb) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Got You](https://open.spotify.com/album/4PkAkAdc8pBcJCaTXkF2X4) | 4:20 | 2026-01-23 |  |
 | [I Guess I’ll Get The Papers And Go Home](https://open.spotify.com/track/26qinPvPXEC2rYkg2288K0) | [John C\. Reilly](https://open.spotify.com/artist/5SL8972vfCQ4PFqlmf9B5G), [Mister Romantic](https://open.spotify.com/artist/6X4nLwC4iwnFlvIoW831O0) | [What's Not To Love?](https://open.spotify.com/album/2305uR83zej8iwsMkNzdd2) | 3:19 | 2025-06-13 |  |
 | [I Have No One](https://open.spotify.com/track/2vjv5sUGTHsb2fLem7b8AB) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Mother](https://open.spotify.com/album/5q8iAuzS4wFRlkHjy50Ryj) | 2:33 | 2024-10-04 | 2025-03-15 |
 | [I Know How You Feel](https://open.spotify.com/track/2y6i0SqujGvBIU8CdsIQDz) | [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg), [Thomas Lindsey](https://open.spotify.com/artist/6HgqFc4JO1dbSw6oIqrdVi) | [Amitié](https://open.spotify.com/album/46lxdP9TY1y8hLJyy2NWFE) | 2:35 | 2021-12-17 | 2022-06-24 |
@@ -336,7 +337,7 @@
 | [She](https://open.spotify.com/track/2QQl8r7xYRQgqRA1UOHjWH) | [Ash Radford](https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw) | [She](https://open.spotify.com/album/6rVUQtUjLguzMmdCIcy1A4) | 3:48 | 2022-10-07 | 2022-12-10 |
 | [Size Up](https://open.spotify.com/track/68Qhf4bBC9zmY3E6Q33Us0) | [Felicity Urquhart and Josh Cunningham](https://open.spotify.com/artist/29TsUV0ZWC6uui8HAmNF21) | [Size Up](https://open.spotify.com/album/2WJ2bo01zbp6i2s9UpBn2M) | 3:36 | 2023-08-25 |  |
 | [So Far Gone](https://open.spotify.com/track/2ZJDEk5eGgQDG41n7BnqCU) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [So Far Gone](https://open.spotify.com/album/3EHloWp5pOdn9FE5aqRII4) | 3:43 | 2022-04-08 | 2025-03-08 |
-| [So Long Savior](https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 2:39 | 2022-09-09 |  |
+| [So Long Savior](https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 2:39 | 2022-09-09 | 2026-01-24 |
 | [So Much Fun](https://open.spotify.com/track/1slkixWBOISrD6xD7LH4U3) | [A.J\. Croce](https://open.spotify.com/artist/5GddXlP15Ktw1aHZEcKGZe) | [So Much Fun](https://open.spotify.com/album/6lP1LTZ6X6bzRigf2HwLFu) | 3:10 | 2022-06-17 | 2024-08-24 |
 | [Sober](https://open.spotify.com/track/1s7Max0epbgOzPtsFfh5d6) | [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [Sober](https://open.spotify.com/album/6r25VBzNtDV6OUMV71WbVC) | 2:59 | 2021-12-17 | 2023-09-16 |
 | [Somebody Tryin’ to Hoodoo Me](https://open.spotify.com/track/0lFVNmrmtrcG5H0ODj8jcT) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Rides On](https://open.spotify.com/album/2lu9WD2gKfgX0YlgP7o2vu) | 4:38 | 2023-10-06 | 2024-04-19 |

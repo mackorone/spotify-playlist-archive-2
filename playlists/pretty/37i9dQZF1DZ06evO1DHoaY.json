@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2070270,
+  "num_followers": 2070335,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXAXAAAAAACMTWVbUOYuS1v9j8wDEVXr",
+  "snapshot_id": "aXFogAAAAACAU6Ha8iX5LALAtiavCM7A",
   "tracks": [
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Natty Dread",
-        "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 193226,
-      "name": "Them Belly Full (But We Hungry)",
-      "url": "https://open.spotify.com/track/2Ezmm08Oy4772SkEoC18Kt"
+      "duration_ms": 213866,
+      "name": "Misty Morning",
+      "url": "https://open.spotify.com/track/7e7kLujXF3G5IcHoskemSI"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Natty Dread",
+        "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "Them Belly Full (But We Hungry)",
+      "url": "https://open.spotify.com/track/2Ezmm08Oy4772SkEoC18Kt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kaya",
         "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
       },
@@ -648,9 +664,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 213866,
-      "name": "Misty Morning",
-      "url": "https://open.spotify.com/track/7e7kLujXF3G5IcHoskemSI"
+      "duration_ms": 145773,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/6MFWhzNSsLdW3WtsuBZsOg"
     },
     {
       "added_at": null,
@@ -699,22 +715,6 @@
       "duration_ms": 412026,
       "name": "Punky Reggae Party - 12\" Version",
       "url": "https://open.spotify.com/track/1WgOedf4pKmgepml1CMW6o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 145773,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/6MFWhzNSsLdW3WtsuBZsOg"
     },
     {
       "added_at": null,

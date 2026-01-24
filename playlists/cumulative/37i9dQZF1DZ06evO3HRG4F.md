@@ -4,7 +4,7 @@
 
 > This is Charlie Monttana\. The essential tracks, all in one playlist.
 
-73 songs - 4 hr 53 min
+74 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,11 +46,12 @@
 | [No Me la Acabó](https://open.spotify.com/track/2O6PTggiZQT3kRZ20EIX1v) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Hotel Barcelona](https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT) | 4:07 | 2023-01-14 |  |
 | [No Te Mueras en Mi Casa](https://open.spotify.com/track/0y5Mr4YTjAuuth9RYLVf7Q) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Rock Star](https://open.spotify.com/album/0W1YVfPwlRyB1WpkptmtbA) | 4:14 | 2023-01-14 |  |
 | [Pastillas y Cocaína](https://open.spotify.com/track/0FxWqZ0D0XSYoKN5CCCgq2) | [Seguimos Perdiendo](https://open.spotify.com/artist/5Hp12BdkneIJpn6hvxaoHr), [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [12 Años de Punkrock..\. Y No Mamadas](https://open.spotify.com/album/3DH1EgwejIGD44XLuhb82r) | 2:57 | 2023-01-14 |  |
-| [Perdóname Mi Amor](https://open.spotify.com/track/7Mtc9v1kK4jZjQmWi155xM) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 2](https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5) | 2:33 | 2023-01-14 | 2026-01-16 |
+| [Perdóname Mi Amor](https://open.spotify.com/track/7Mtc9v1kK4jZjQmWi155xM) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 2](https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5) | 2:33 | 2023-01-14 |  |
 | [Pero Apareciste Tú](https://open.spotify.com/track/7u0Y2ZHmWqIs9FBzxFhzz6) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Ford Monttana 69](https://open.spotify.com/album/7HCQ6BkdaJXCRavfAukoE3) | 4:51 | 2023-08-07 |  |
 | [Pinche Pancho](https://open.spotify.com/track/5aPW7Izp95syL826w96yO6) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 5:06 | 2023-01-14 |  |
 | [Pinche Vatito](https://open.spotify.com/track/0sH55NdPhIRuAAjB5GDen1) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 2](https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5) | 3:20 | 2023-01-14 |  |
-| [Pinches Mariguanos](https://open.spotify.com/track/3H8aARR9Npv0DArzgl3KJH) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Pinches Mariguanos](https://open.spotify.com/album/089KiimOn0i7lGJJztXELG) | 3:31 | 2023-01-14 |  |
+| [Pinches Mariguanos](https://open.spotify.com/track/3abqHxzHzh7yTj6WTiy4J1) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Rockin' And Rollin'](https://open.spotify.com/album/2NSURyToNLKlRwUM1AS3x0) | 3:00 | 2026-01-24 |  |
+| [Pinches Mariguanos](https://open.spotify.com/track/3H8aARR9Npv0DArzgl3KJH) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Pinches Mariguanos](https://open.spotify.com/album/089KiimOn0i7lGJJztXELG) | 3:31 | 2023-01-14 | 2026-01-24 |
 | [Pobre de Ti](https://open.spotify.com/track/4ZrmPfaz063MTSfCd0PhmK) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 4:42 | 2023-01-14 |  |
 | [Por No Tener a Quien Amar](https://open.spotify.com/track/3LephrgrP9s47JW97NA3UK) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 2](https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5) | 2:59 | 2023-01-14 |  |
 | [Protégeme](https://open.spotify.com/track/6bD1GkpSae9gcBmCIsWZ8F) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Decreto por el Regreso de los Buenos Tiempos](https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV) | 5:09 | 2023-01-14 |  |
@@ -78,7 +79,7 @@
 | [Ya No Te Quiero](https://open.spotify.com/track/2lNmpgbYahhoq600OzGbhA) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 5:08 | 2023-01-14 |  |
 | [Ya No Te Tengo](https://open.spotify.com/track/4sk8Co7iAm0U67qQD1RFDr) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 5:04 | 2023-01-14 |  |
 | [Yo Con Mi Desmadre](https://open.spotify.com/track/2Y7e5l7lAZr5UihX0jO7jG) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Dr\. Hollywood](https://open.spotify.com/album/5sfutds7qm0iX0CGnmP0Rl) | 4:49 | 2024-10-17 |  |
-| [¡Vete al Carajo!](https://open.spotify.com/track/6b6IB01M7qXg4WyqD5EQKI) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Decreto por el Regreso de los Buenos Tiempos](https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV) | 3:46 | 2023-01-14 |  |
+| [¡Vete al Carajo!](https://open.spotify.com/track/6b6IB01M7qXg4WyqD5EQKI) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Decreto por el Regreso de los Buenos Tiempos](https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV) | 3:46 | 2023-01-14 | 2026-01-24 |
 | [¿Dónde Estás?](https://open.spotify.com/track/4RrC1R2b99DVjAlP8JGU0A) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 2](https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5) | 3:38 | 2023-01-14 |  |
 | [Ójala Fuera un Cuento](https://open.spotify.com/track/1WHoZMGtJoaOq6AKvhp6az) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Hotel Barcelona](https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT) | 3:47 | 2023-01-14 |  |
 

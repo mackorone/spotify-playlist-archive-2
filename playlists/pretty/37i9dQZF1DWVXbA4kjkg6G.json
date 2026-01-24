@@ -1,6 +1,6 @@
 {
   "description": "Atmospheric textures & downtempo beats. Cover: Beth Gibbons of Portishead ",
-  "num_followers": 611893,
+  "num_followers": 612059,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-07-15 20:04:22",
       "album": {
-        "name": "Deadringer: Deluxe",
-        "url": "https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj"
-      },
-      "artists": [
-        {
-          "name": "RJD2",
-          "url": "https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "Smoke & Mirrors",
-      "url": "https://open.spotify.com/track/2C1nOw1nRxJaBWb9I1x05A"
-    },
-    {
-      "added_at": "2024-07-15 20:04:22",
-      "album": {
         "name": "G-Stoned",
         "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 386266,
       "name": "High Noon",
       "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
+    },
+    {
+      "added_at": "2024-07-15 20:04:22",
+      "album": {
+        "name": "Deadringer: Deluxe",
+        "url": "https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj"
+      },
+      "artists": [
+        {
+          "name": "RJD2",
+          "url": "https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "Smoke & Mirrors",
+      "url": "https://open.spotify.com/track/2C1nOw1nRxJaBWb9I1x05A"
     },
     {
       "added_at": "2024-07-15 20:04:22",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-07-15 20:04:22",
       "album": {
-        "name": "Animal Magic",
-        "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 279933,
-      "name": "Terrapin",
-      "url": "https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv"
-    },
-    {
-      "added_at": "2024-07-15 20:04:22",
-      "album": {
         "name": "Breath From Another",
         "url": "https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 238600,
       "name": "Superheroes",
       "url": "https://open.spotify.com/track/2akoq472I49TzrFSJjjf47"
+    },
+    {
+      "added_at": "2024-07-15 20:04:22",
+      "album": {
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 279933,
+      "name": "Terrapin",
+      "url": "https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv"
     },
     {
       "added_at": "2024-07-15 20:04:22",
@@ -595,26 +595,6 @@
     {
       "added_at": "2024-07-15 20:04:22",
       "album": {
-        "name": "Maxinquaye",
-        "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
-      },
-      "artists": [
-        {
-          "name": "Tricky",
-          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
-        },
-        {
-          "name": "Martina Topley-Bird",
-          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
-        }
-      ],
-      "duration_ms": 269266,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/0EZwXw5ZG0RSnrpzYHLkX1"
-    },
-    {
-      "added_at": "2024-07-15 20:04:22",
-      "album": {
         "name": "Clear",
         "url": "https://open.spotify.com/album/43znyD1XdGyB02qwhUpfEV"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 351693,
       "name": "Empire",
       "url": "https://open.spotify.com/track/7rU9Lk1rF17EeQnr4clnm6"
+    },
+    {
+      "added_at": "2024-07-15 20:04:22",
+      "album": {
+        "name": "Maxinquaye",
+        "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
+      },
+      "artists": [
+        {
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+        },
+        {
+          "name": "Martina Topley-Bird",
+          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
+        }
+      ],
+      "duration_ms": 269266,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/0EZwXw5ZG0RSnrpzYHLkX1"
     },
     {
       "added_at": "2024-07-15 20:04:22",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-07-15 20:04:22",
       "album": {
+        "name": "Dr. Octagonecologyst",
+        "url": "https://open.spotify.com/album/0GAqyZFjgaz6V5ozTS0dfW"
+      },
+      "artists": [
+        {
+          "name": "Dr. Octagon",
+          "url": "https://open.spotify.com/artist/7dr3cSEOIZ6tBrm4y1wsnr"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Blue Flowers",
+      "url": "https://open.spotify.com/track/1xQ1v0xnKgZyQX90f75bKt"
+    },
+    {
+      "added_at": "2024-07-15 20:04:22",
+      "album": {
         "name": "Maxinquaye",
         "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 210533,
       "name": "Ponderosa",
       "url": "https://open.spotify.com/track/3USAAb0W0n99SOensmme2D"
-    },
-    {
-      "added_at": "2024-07-15 20:04:22",
-      "album": {
-        "name": "Dr. Octagonecologyst",
-        "url": "https://open.spotify.com/album/0GAqyZFjgaz6V5ozTS0dfW"
-      },
-      "artists": [
-        {
-          "name": "Dr. Octagon",
-          "url": "https://open.spotify.com/artist/7dr3cSEOIZ6tBrm4y1wsnr"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Blue Flowers",
-      "url": "https://open.spotify.com/track/1xQ1v0xnKgZyQX90f75bKt"
     },
     {
       "added_at": "2024-07-15 20:04:22",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-07-15 20:04:22",
       "album": {
-        "name": "One Colour Just Reflects Another",
-        "url": "https://open.spotify.com/album/4DeywfBtRsQFApbOjDHsKt"
-      },
-      "artists": [
-        {
-          "name": "Up, Bustle & Out",
-          "url": "https://open.spotify.com/artist/0P8CKxjKGjVnIOOJSJoymP"
-        }
-      ],
-      "duration_ms": 340533,
-      "name": "Revolutionary Woman of The Windmill - Part Primera La Bandolera Del Molino",
-      "url": "https://open.spotify.com/track/1Ia7VpJTEQgWn65WPg0qRE"
-    },
-    {
-      "added_at": "2024-07-15 20:04:22",
-      "album": {
         "name": "Blow Your Headphones",
         "url": "https://open.spotify.com/album/2iITDFv9VGAjLMsIQBzGlh"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 408000,
       "name": "A Mother (For Your Mind)",
       "url": "https://open.spotify.com/track/5AenLCL5tkvwas8y8A0IU3"
+    },
+    {
+      "added_at": "2024-07-15 20:04:22",
+      "album": {
+        "name": "One Colour Just Reflects Another",
+        "url": "https://open.spotify.com/album/4DeywfBtRsQFApbOjDHsKt"
+      },
+      "artists": [
+        {
+          "name": "Up, Bustle & Out",
+          "url": "https://open.spotify.com/artist/0P8CKxjKGjVnIOOJSJoymP"
+        }
+      ],
+      "duration_ms": 340533,
+      "name": "Revolutionary Woman of The Windmill - Part Primera La Bandolera Del Molino",
+      "url": "https://open.spotify.com/track/1Ia7VpJTEQgWn65WPg0qRE"
     },
     {
       "added_at": "2024-07-15 20:04:22",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2024-07-15 20:04:22",
       "album": {
-        "name": "Songs Of A Dead Dreamer",
-        "url": "https://open.spotify.com/album/59FLtEnXNqYKwT5M3W3XoG"
+        "name": "Bounty Killer III",
+        "url": "https://open.spotify.com/album/2ef4BEAKWF6CYxBmFKrqwT"
       },
       "artists": [
         {
-          "name": "DJ Spooky",
-          "url": "https://open.spotify.com/artist/1O8yrjjifkCO8txB4CxuOm"
+          "name": "Depth Charge",
+          "url": "https://open.spotify.com/artist/7wFngDXS0agMESGg1qYM4u"
         }
       ],
-      "duration_ms": 410400,
-      "name": "Galactic Funk",
-      "url": "https://open.spotify.com/track/62ZtyaPFFVPEKQbCdLAScn"
+      "duration_ms": 407768,
+      "name": "Bounty Killer III [The Eyes of Johnny Ringo] - Single Version",
+      "url": "https://open.spotify.com/track/1rkhWTb8a9CyByv5xMPLmi"
     },
     {
       "added_at": "2024-07-15 20:04:22",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-07-15 20:04:22",
       "album": {
-        "name": "Bounty Killer III",
-        "url": "https://open.spotify.com/album/2ef4BEAKWF6CYxBmFKrqwT"
+        "name": "Songs Of A Dead Dreamer",
+        "url": "https://open.spotify.com/album/59FLtEnXNqYKwT5M3W3XoG"
       },
       "artists": [
         {
-          "name": "Depth Charge",
-          "url": "https://open.spotify.com/artist/7wFngDXS0agMESGg1qYM4u"
+          "name": "DJ Spooky",
+          "url": "https://open.spotify.com/artist/1O8yrjjifkCO8txB4CxuOm"
         }
       ],
-      "duration_ms": 407768,
-      "name": "Bounty Killer III [The Eyes of Johnny Ringo] - Single Version",
-      "url": "https://open.spotify.com/track/1rkhWTb8a9CyByv5xMPLmi"
+      "duration_ms": 410400,
+      "name": "Galactic Funk",
+      "url": "https://open.spotify.com/track/62ZtyaPFFVPEKQbCdLAScn"
     },
     {
       "added_at": "2024-07-15 20:04:22",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-07-15 20:04:22",
       "album": {
-        "name": "Endtroducing.....",
-        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
+        "name": "It's Not What You Think It Is !!?!",
+        "url": "https://open.spotify.com/album/1tEuSmxsgeq1TMtWNajgyQ"
       },
       "artists": [
         {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+          "name": "Tek 9",
+          "url": "https://open.spotify.com/artist/7kOnKv7CHaq24tNAa2moIZ"
         }
       ],
-      "duration_ms": 399026,
-      "name": "Building Steam With A Grain Of Salt",
-      "url": "https://open.spotify.com/track/4cucslsiEgezV2o900Ykg3"
+      "duration_ms": 301160,
+      "name": "We're Gettin' Down",
+      "url": "https://open.spotify.com/track/3A0wBYV4TOTdyAWXnGFvjd"
     }
   ],
   "unique_name": "Trip Hop",

@@ -345,6 +345,24 @@
     },
     {
       "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204285,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt"
+    },
+    {
+      "album": {
         "name": "Asgard",
         "url": "https://open.spotify.com/album/57JyZRSAzLbrN3IwyjOHu6"
       },
@@ -570,7 +588,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 394775,
       "name": "Barturator",
       "url": "https://open.spotify.com/track/3dNVyzZi3RdVd0wBBEvUX3"
@@ -1258,6 +1276,24 @@
       "duration_ms": 438869,
       "name": "Coast Ride",
       "url": "https://open.spotify.com/track/7KGnlXVmZKfsadE8a577bD"
+    },
+    {
+      "album": {
+        "name": "Concorde",
+        "url": "https://open.spotify.com/album/2bR57Fk9p69p3X8cRaGl4P"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236129,
+      "name": "Concorde",
+      "url": "https://open.spotify.com/track/2IUG5pEgIyvevQI92WB6Vh"
     },
     {
       "album": {
@@ -3140,7 +3176,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 266666,
       "name": "Known",
       "url": "https://open.spotify.com/track/7HifJr6sXlPCtnfPnMC0Rg"
@@ -3784,7 +3820,7 @@
       ],
       "date_added": "2020-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 476129,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/7LkAU8jTxTG1qcVQAiWXpz"
@@ -4734,7 +4770,7 @@
       ],
       "date_added": "2020-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 431879,
       "name": "Polymid",
       "url": "https://open.spotify.com/track/6Ob7lH8xFS2HYPnkFsdzrl"
@@ -5248,7 +5284,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 429371,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/58pubss8RvyvlqQpElXt3c"
@@ -5346,6 +5382,24 @@
       "duration_ms": 408173,
       "name": "Sacred",
       "url": "https://open.spotify.com/track/6znwCsfcyoHIrNRJj3RE72"
+    },
+    {
+      "album": {
+        "name": "Salzburg",
+        "url": "https://open.spotify.com/album/0kp2LYtnerUPh8VI4Y8GHA"
+      },
+      "artists": [
+        {
+          "name": "Worakls",
+          "url": "https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436150,
+      "name": "Salzburg",
+      "url": "https://open.spotify.com/track/2uTPHrN8zqYnHUb6Wuz1FC"
     },
     {
       "album": {
@@ -5654,6 +5708,28 @@
       "duration_ms": 430437,
       "name": "Sidewinder",
       "url": "https://open.spotify.com/track/0hcKU2s5pItCZ3DY0glVQe"
+    },
+    {
+      "album": {
+        "name": "Slave To The Algorithm",
+        "url": "https://open.spotify.com/album/5VDG0cLHAsdNJiy24vpD3Q"
+      },
+      "artists": [
+        {
+          "name": "Reznik",
+          "url": "https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ"
+        },
+        {
+          "name": "good guy mikesh",
+          "url": "https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401185,
+      "name": "Slave To The Algorithm (Club Mix)",
+      "url": "https://open.spotify.com/track/0Qn494RCUdX60FWxVsgvnl"
     },
     {
       "album": {
@@ -6204,6 +6280,28 @@
       "duration_ms": 429390,
       "name": "Symphony From Outer Space - Stan Kolev Remix",
       "url": "https://open.spotify.com/track/2WdXZ6uFRhGssQurNPIOYJ"
+    },
+    {
+      "album": {
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197822,
+      "name": "Syren",
+      "url": "https://open.spotify.com/track/3hGXZKj3lYKKRQtKE8XN55"
     },
     {
       "album": {

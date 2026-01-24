@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03fBzW.md) - [plain]
 
 > This is No Doubt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,630 likes - 47 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,642 likes - 47 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03fBzW.md) - [plain]
 | 30 | [Open The Gate](https://open.spotify.com/track/61vxG9VYYLXPi9lYCmM6Qv) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Beacon Street Collection](https://open.spotify.com/album/05bHPJh4ONOeKzIGxqsEUw) | 3:41 |
 | 31 | [Easy](https://open.spotify.com/track/5vccqEnXkzZxHroGh1Am1R) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Push And Shove](https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K) | 5:10 |
 | 32 | [Heaven](https://open.spotify.com/track/6BxVUeDCsDJdQnaC8F6CRY) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Push And Shove \(Deluxe Version\)](https://open.spotify.com/album/4HHXoG3sYxxq9cBJMUlXYN) | 4:06 |
-| 33 | [Let's Get Back](https://open.spotify.com/track/7fF9yjIMasFI99ZbCA6r3x) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [No Doubt](https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF) | 4:11 |
+| 33 | [Sometimes](https://open.spotify.com/track/1Skmy7igdy3HorzoG6zaqL) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [No Doubt](https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF) | 4:29 |
 | 34 | [Greener Pastures](https://open.spotify.com/track/70VN6p2gStJqBSpbwIiTXV) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Beacon Street Collection](https://open.spotify.com/album/05bHPJh4ONOeKzIGxqsEUw) | 5:05 |
-| 35 | [Gravity](https://open.spotify.com/track/0zjMu8KUhIjqAa42OPidtD) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Push And Shove](https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K) | 4:25 |
+| 35 | [Undercover](https://open.spotify.com/track/2Cp5exQvEWphydFc11pxO6) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Push And Shove](https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K) | 3:31 |
 | 36 | [Big Distraction](https://open.spotify.com/track/66GLFCPG55GpYzQKifsU3L) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-Sides, Rarities, Remixes\)](https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di) | 3:52 |
-| 37 | [Sometimes](https://open.spotify.com/track/1Skmy7igdy3HorzoG6zaqL) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [No Doubt](https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF) | 4:29 |
+| 37 | [Let's Get Back](https://open.spotify.com/track/7fF9yjIMasFI99ZbCA6r3x) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [No Doubt](https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF) | 4:11 |
 | 38 | [Stricken](https://open.spotify.com/track/4UHnLWatT8yZosFSzkPyhx) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Beacon Street Collection](https://open.spotify.com/album/05bHPJh4ONOeKzIGxqsEUw) | 4:06 |
 | 39 | [Mouth Shut \(feat\. Adrian Young of No Doubt\)](https://open.spotify.com/track/0SAMfaKiAAkInnctZJzwvH) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp), [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tastes Like Gold](https://open.spotify.com/album/0b0kohv14AkJs77g9UMQiW) | 2:41 |
 | 40 | [You're So Foxy](https://open.spotify.com/track/1rmilKgByQBXGG6X0GDHcV) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-Sides, Rarities, Remixes\)](https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di) | 3:39 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03fBzW.md) - [plain]
 | 46 | [Under Construction](https://open.spotify.com/track/5LRkVOL0t8G8hLcNhBcJ0t) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-Sides, Rarities, Remixes\)](https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di) | 3:12 |
 | 47 | [Sailin' On](https://open.spotify.com/track/3J3gmwEpUnCcTEBjxmMLeO) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-Sides, Rarities, Remixes\)](https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di) | 3:35 |
 
-Snapshot ID: `aXAXAAAAAAAsQ0Yf1hRVSQedsG86D8B9`
+Snapshot ID: `aXFogAAAAAD0VmnjWJpTbGZYyeyBvR86`

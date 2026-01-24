@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: Matilda Lyn
 
-1,515 songs - 3 day 7 hr 39 min
+1,515 songs - 3 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [blue](https://open.spotify.com/track/29wM3CCpBbMAbeE2DydlMV) | [mags](https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V) | [Herified](https://open.spotify.com/album/4VTTsCirGiLwITvACf0TGl) | 2:50 | 2025-09-04 | 2026-01-01 |
 | [blue](https://open.spotify.com/track/3ZC6C2r3Mgc2ibUWn8JbG5) | [WIINSTON](https://open.spotify.com/artist/2y83GOxwL8okDqmxSmyX5o) | [blue](https://open.spotify.com/album/28nCYvD0I21LuCYCcIO6wq) | 3:08 | 2024-09-13 | 2024-10-25 |
 | [Blue Eyed Buck](https://open.spotify.com/track/3ywpJWfy6OA2DIZVYDqVt5) | [Jon Santana](https://open.spotify.com/artist/05XxXeBmy0Kge0WdgDfj05), [MASAKA](https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY) | [Blue Eyed Buck](https://open.spotify.com/album/2KeXE0UPTzV7zoEMfg344N) | 2:22 | 2025-06-19 | 2025-08-15 |
+| [Body](https://open.spotify.com/track/4SykKuN3ZpoJViT7Nyhz57) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [Energy](https://open.spotify.com/album/1s4mHTfjmO4CU8AACjkmsS) | 2:55 | 2026-01-22 |  |
 | [Body Pollution](https://open.spotify.com/track/5CJ7o2sPVSlmQLiqqgxqRk) | [MOLØ](https://open.spotify.com/artist/29k6IUtkDp9ErAaJrh1Tlg), [Slackin Beats](https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw) | [Body Pollution](https://open.spotify.com/album/4XFKZePkHnISCktM4Va4lq) | 3:52 | 2025-02-27 | 2025-04-25 |
 | [bone](https://open.spotify.com/track/0BX2Mud9YLFJ8QLXjytGWA) | [Trout](https://open.spotify.com/artist/3BD5fdisJXK0AXZALy8Nqy) | [bone](https://open.spotify.com/album/5CZw1bn4UiEc9aBXVim8kU) | 3:37 | 2025-07-03 | 2025-09-05 |
 | [Bones](https://open.spotify.com/track/59SMaCpcPjGuH1chhnK915) | [Cora Onori](https://open.spotify.com/artist/0HEdWXvCUHxJByBdjwkARm) | [Bones](https://open.spotify.com/album/0Xv3jbuYhAG7uszqyAZ0dQ) | 2:39 | 2024-05-30 | 2024-08-02 |
@@ -1367,7 +1368,6 @@
 | [Top of the World](https://open.spotify.com/track/3DU6QaoZTDyOMOkwuXVAsI) | [Julia Logan](https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0) | [Top of the World](https://open.spotify.com/album/0UGx1m8SSUwvP6r7T25KJ9) | 3:30 | 2024-03-21 | 2024-04-19 |
 | [Touch Me \(Like That\)](https://open.spotify.com/track/57Pr0IYQqqu9ZnF6YdwMqV) | [CRASKIN](https://open.spotify.com/artist/74dVJIYf0gK6XyKNaNlHAz) | [Touch Me \(Like That\)](https://open.spotify.com/album/1V3E8hoaLm3wBUfUEbWcK3) | 1:57 | 2024-02-22 | 2024-06-01 |
 | [Tough Love](https://open.spotify.com/track/7mvpYEYtRbicvFYx4Fznrb) | [Duppy Tales](https://open.spotify.com/artist/5hUUq1vzCZapwGccYK9SIZ) | [Tough Love](https://open.spotify.com/album/7DHwOcBAq5zFVzC0kS63cn) | 6:39 | 2025-02-20 | 2025-03-28 |
-| [Track 12](https://open.spotify.com/track/4SykKuN3ZpoJViT7Nyhz57) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-22 |  |
 | [Traits](https://open.spotify.com/track/5ORHUVLPkm6JC3rHYd3Zgt) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9), [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [In Motion, Always](https://open.spotify.com/album/1VI7UrOTuDDrohLvPIQK1S) | 4:02 | 2025-11-06 |  |
 | [Tribe of Eurafric \(Never Go\)](https://open.spotify.com/track/06lLS27LfIVocqIq8fD5R7) | [MARSAW](https://open.spotify.com/artist/1c92H7lIxtyREQAZoNDCDd) | [Paroxysms, Pt\. 1](https://open.spotify.com/album/6r9VKlQyrk0S7ivlc5vOMB) | 2:47 | 2024-05-23 | 2024-06-14 |
 | [Trippin Like WatR](https://open.spotify.com/track/1HoBCtcTM7uOgF4RnG4eq6) | [WatR.](https://open.spotify.com/artist/09f6SeIsdLhDq8BagVWunz) | [Trippin Like WatR](https://open.spotify.com/album/7Bx08ULQBEIfqU05B9QhQ4) | 3:00 | 2025-05-01 | 2025-06-06 |

@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,822 songs - 3 day 8 hr 50 min
+1,824 songs - 3 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -943,7 +943,7 @@
 | [Memory Lane](https://open.spotify.com/track/1z2q4Dmj24cBFnkkV0GPli) | [Niels Saunders](https://open.spotify.com/artist/6nlfg6qBEp3xeCBIkgqOmu) | [Memory Lane](https://open.spotify.com/album/21WNlxDCxJFAZuihLhOPRQ) | 2:18 | 2020-10-13 | 2022-05-13 |
 | [Mending](https://open.spotify.com/track/21Ky8dYEzcp04NJNKyUt1L) | [Mark Mintuny](https://open.spotify.com/artist/3gegJAyl43HbhzEFT1Dp8s) | [Mending](https://open.spotify.com/album/0V6QaIaGDI7fycgBzUENid) | 2:12 | 2019-07-05 | 2019-08-23 |
 | [Meraviglia](https://open.spotify.com/track/0BoqkSGAGK4hDsf4coC1IE) | [Porch Upright](https://open.spotify.com/artist/2fYaYUCzBbYnNDpzznDH8u) | [Meraviglia](https://open.spotify.com/album/3VxVxOxr4KFHoEvG14mosa) | 1:51 | 2022-03-18 | 2022-12-21 |
-| [Mercury](https://open.spotify.com/track/1DeFsFITQCaI7J881M33W9) | [Ivan Malik](https://open.spotify.com/artist/1b46vh3SUeLoHOnWyfkhpm) | [Mercury](https://open.spotify.com/album/7HbmmHY8HyI3uL9ElZXiy7) | 3:00 | 2023-04-17 |  |
+| [Mercury](https://open.spotify.com/track/1DeFsFITQCaI7J881M33W9) | [Ivan Malik](https://open.spotify.com/artist/1b46vh3SUeLoHOnWyfkhpm) | [Mercury](https://open.spotify.com/album/7HbmmHY8HyI3uL9ElZXiy7) | 3:00 | 2023-04-17 | 2026-01-24 |
 | [Metronome](https://open.spotify.com/track/5uGY5VV9lZonCaRKm1wwmO) | [Massimo Natali \[IT\]](https://open.spotify.com/artist/5ygNFOnjyFdEe46rdTeB8b) | [Nobody's Home](https://open.spotify.com/album/2JwnW6S4ErnUQG8xT7cB6i) | 2:58 | 2019-11-05 | 2020-08-04 |
 | [MHope](https://open.spotify.com/track/5SGA3FVYvE3uJ2vcGtz357) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Stories From Far Away On Piano](https://open.spotify.com/album/2lsaczmzeH0JzES2smG9hU) | 4:57 | 2019-05-26\* | 2019-11-19 |
 | [Mi Nonna](https://open.spotify.com/track/09KFAleSLR5SDyvm55YjjH) | [Clara Nishimoto](https://open.spotify.com/artist/1hgBYux2Cpl893e98XlC2z) | [Mi Nonna](https://open.spotify.com/album/4hlZBjpSIGW5k05RkFxDDT) | 1:58 | 2020-06-02 | 2020-06-24 |
@@ -1290,6 +1290,7 @@
 | [Rondel](https://open.spotify.com/track/7lE18SWzAxh5SfMbie92jN) | [Lydia Webber](https://open.spotify.com/artist/0lwFe0MGAOei9D2rl5jALq) | [Beija\-flor](https://open.spotify.com/album/5iEY08mWgZExTAqd9oxXJx) | 2:51 | 2021-10-13 | 2022-09-24 |
 | [Roots](https://open.spotify.com/track/4PzCduZiQfY4E4661r2V3u) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Roots](https://open.spotify.com/album/5wXRhc0L07nItoMPgEAso3) | 2:47 | 2021-05-12 | 2022-04-23 |
 | [Roots](https://open.spotify.com/track/0ooDj837CyEnnZKu0nmaX5) | [Wilmer Norman](https://open.spotify.com/artist/13r0ejbEnMOb3VUJczW02L) | [Age Of The Farmer](https://open.spotify.com/album/1Wu0KhqAPUoaNDqPs3TncG) | 3:19 | 2019-07-11 | 2019-07-17 |
+| [Roots And Rain](https://open.spotify.com/track/5vh2NNTsI6A5pvc9GaYbj7) | [Rowan Elyse](https://open.spotify.com/artist/5p7n7sxqcyq0G5BIan9PjM) | [Roots And Rain](https://open.spotify.com/album/6JNBQ30f1VtI0MFL9Y7gC8) | 2:43 | 2026-01-23 |  |
 | [Roseraie](https://open.spotify.com/track/3TV6rwcDHlJOSqmlqjZBJ1) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Roseraie](https://open.spotify.com/album/7iIIBqRWC0fcmyenmgr6D3) | 2:47 | 2021-12-15 | 2022-04-15 |
 | [Roses](https://open.spotify.com/track/7MgKqFoVURzmNlOBkPtyLT) | [Brock Hewitt: Stories in Sound](https://open.spotify.com/artist/1PWCCcjCmwzjYb48VWpGcm), [The David Roy Collective](https://open.spotify.com/artist/3rQj5XISunNkD97E1PGSrt), [MajorLink](https://open.spotify.com/artist/56M0OscfqROb5IPl7jGnyS) | [Roses](https://open.spotify.com/album/0PYwj2qQfrsXM0G9XW0Jv4) | 3:26 | 2022-03-31 | 2023-09-23 |
 | [Roses In Monochrome](https://open.spotify.com/track/5MLvV7ovcz6rGBGgYQc6dV) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Roses In Monochrome](https://open.spotify.com/album/51UCyzggNrkKF6mAgaD1mD) | 2:57 | 2021-11-17 | 2022-04-29 |
@@ -1435,7 +1436,7 @@
 | [Song For Emma](https://open.spotify.com/track/7n2BGk7qfHK5RhToFH65Dw) | [Florian Palmer](https://open.spotify.com/artist/1uEslan6MADlkRjoKgLKXB) | [Song For Emma](https://open.spotify.com/album/0WYmT4i8tCIATwu0IXAaqL) | 3:05 | 2021-06-03 | 2021-08-05 |
 | [Songe \(Debut\)](https://open.spotify.com/track/4wlotUQTBQRc005LhYpJkN) | [Novel](https://open.spotify.com/artist/5EkPgNzxiQ16jv7ajN5feK), [Piano Novel](https://open.spotify.com/artist/1xeLCRvHTbkkV3mrSyEZsN) | [Songe](https://open.spotify.com/album/2Kq7643R4QZ1GN8VVJ5pfE) | 3:11 | 2019-05-26\* | 2020-03-17 |
 | [Sonnen Sterne](https://open.spotify.com/track/1uKZ6TyMFXuvu9sZWpN202) | [Che Lan](https://open.spotify.com/artist/7spHGT6sHhYOiJN52obbbM) | [Tal Weg](https://open.spotify.com/album/4nZmqnXwBWbaPUvr44VG3u) | 2:59 | 2022-02-09 | 2022-09-24 |
-| [Sonnet 1](https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT) | [Frederico Morales](https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx) | [Sonnet 1](https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz) | 2:11 | 2023-06-26 |  |
+| [Sonnet 1](https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT) | [Frederico Morales](https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx) | [Sonnet 1](https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz) | 2:11 | 2023-06-26 | 2026-01-24 |
 | [Sonora](https://open.spotify.com/track/4ku8WSW5vtEZNGM8oUuGnd) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Serán](https://open.spotify.com/album/7rfwsqw6rBpkZ1z3ROAoYS) | 3:26 | 2021-02-24 | 2022-05-13 |
 | [Sou](https://open.spotify.com/track/0tMRFAZNW3Mu4cMV0QUw0Q) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sou](https://open.spotify.com/album/0bOPUetUUgOWPulo6gp6Or) | 2:03 | 2023-06-13 | 2026-01-15 |
 | [Soul Searching](https://open.spotify.com/track/6xxePsq2BKr8dtLUw4E3Er) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Soul Searching](https://open.spotify.com/album/79sDlK9zbIAZf5UfEhuHfs) | 3:39 | 2019-05-26\* | 2019-10-04 |
@@ -1557,6 +1558,7 @@
 | [The Greek](https://open.spotify.com/track/6sMS6Z4qcxbtaF22plJzaM) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [The Greek](https://open.spotify.com/album/5KK54vaBmGiVmnggSiXPgb) | 2:44 | 2022-07-15 | 2024-01-03 |
 | [The Half Light](https://open.spotify.com/track/71yLhDpyToB7Z0e7COEd6a) | [Peter Cavallo](https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV) | [The Half Light](https://open.spotify.com/album/6xOrmL9RVWh61RdOGZ7f6n) | 3:04 | 2020-03-25 | 2021-12-08 |
 | [The Hourglass](https://open.spotify.com/track/6t4LgOBZsf14olwgwYRcCS) | [Ben Crosland](https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr) | [The Hourglass](https://open.spotify.com/album/1NTwTsMh0G56ws0HFtPCuC) | 2:00 | 2020-06-16 | 2021-03-09 |
+| [The Last Dream](https://open.spotify.com/track/0i1hx7DAJAiwA1mR8tc72O) | [Isidorus](https://open.spotify.com/artist/1XvelV0uWSMLWWE5VQHbOO) | [The Last Dream](https://open.spotify.com/album/4zFHN0O4QZGraQfsAC9CHC) | 2:26 | 2026-01-23 |  |
 | [The Last Leaf Falls](https://open.spotify.com/track/79v9cKSakZbCRZI0r0QrV7) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [The Last Leaf Falls](https://open.spotify.com/album/78dDhf9UBUZlGQIExQWYDn) | 2:05 | 2022-10-24 | 2023-09-29 |
 | [The light that blinds us](https://open.spotify.com/track/3OrNycpUQqB3sn9QRUqfjj) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [The light that blinds us](https://open.spotify.com/album/6oO7TwrWWd10uGEyrIpkXG) | 2:28 | 2022-07-15 | 2024-01-03 |
 | [The Light Will Return](https://open.spotify.com/track/0wHtZIo4VfYdXVKj3xrxWG) | [Bernadette Boulet](https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw) | [The Light Will Return](https://open.spotify.com/album/4HBKYcRStmQOq1QrdPceqo) | 2:45 | 2020-12-01 | 2021-05-06 |

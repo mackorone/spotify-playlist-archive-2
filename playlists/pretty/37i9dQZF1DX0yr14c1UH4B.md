@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > The ultimate songbook ⏳ feat\. Aaron Rowe
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,276 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,280 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 20 | [Future Tense](https://open.spotify.com/track/6EUlfewAije5ka0bjx2SzI) | [Cece Coakley](https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN) | [Future Tense](https://open.spotify.com/album/3eYhiY5PuJGvwtUPb2Et4q) | 3:17 |
 | 21 | [Sleepless in a Hotel Room](https://open.spotify.com/track/2za9t2qpWyUpIhnJcwopPt) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Sleepless in a Hotel Room](https://open.spotify.com/album/4svTVbjxKUxzSUBI0HYvds) | 2:57 |
 | 22 | [The Motive](https://open.spotify.com/track/4U1hLzm0Hwd3UTLeWKHhVt) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [The Motive](https://open.spotify.com/album/63QlFnuiQqTxFzGzhQI0tv) | 2:16 |
-| 23 | [Against the Dying of the Light](https://open.spotify.com/track/3v5WkwwPl4omj9kiXnaEJt) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Against the Dying of the Light](https://open.spotify.com/album/0RkkdRmM3fwNipEAuweRhK) | 2:28 |
+| 23 | [Against The Dying Of The Light](https://open.spotify.com/track/3v5WkwwPl4omj9kiXnaEJt) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Against The Dying Of The Light](https://open.spotify.com/album/0RkkdRmM3fwNipEAuweRhK) | 2:28 |
 | 24 | [How Are You Doing](https://open.spotify.com/track/0SvJTgy6NVa8QgNdsB0z1z) | [Susie Mills](https://open.spotify.com/artist/2QmjpcdPJqL67ovh59ZAUZ) | [How Are You Doing](https://open.spotify.com/album/6gDut9lXWWOFn8rjwcCCYB) | 2:52 |
 | 25 | [Song By A Stranger](https://open.spotify.com/track/4wHIKfmZietaARrzXXNPuZ) | [Book Of Churches](https://open.spotify.com/artist/53F5Jn6FHXXykbDGUcxWH0) | [Song By A Stranger](https://open.spotify.com/album/1oTDMzKT1CshZIOsBHShL8) | 3:53 |
 | 26 | [Over \(feat\. Tom Odell\)](https://open.spotify.com/track/7pRx2dk34DHINRWCytBPm4) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Over](https://open.spotify.com/album/5ftBriC68ZmOzyVWecx1iK) | 3:49 |

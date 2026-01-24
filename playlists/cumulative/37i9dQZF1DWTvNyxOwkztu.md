@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-337 songs - 18 hr 40 min
+338 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Hangin Up](https://open.spotify.com/track/4vC2iSW6pMcDvAb98Tc8ma) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [De Rien](https://open.spotify.com/artist/1cXMEOMaLm3TNWP8lo4AsS) | [Hangin Up](https://open.spotify.com/album/65oZ8vGX6TliO9kVtCRnIy) | 3:04 | 2021-12-09 |  |
 | [Happy Days](https://open.spotify.com/track/7AiJfQZHFp6EMbpeYFOXxj) | [Beachwax](https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr) | [Happy Days](https://open.spotify.com/album/2gx6CElSxguWozs3cHJyUw) | 3:16 | 2021-12-09 |  |
 | [Healing](https://open.spotify.com/track/7cSUVpfdsK8usnXfoAmA1s) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Healing](https://open.spotify.com/album/3DXtWneHovYGlzXMXsiB0c) | 2:50 | 2022-01-21 | 2025-10-12 |
-| [Heat Waves](https://open.spotify.com/track/2bloJtfWRNnHjylvX8AWOt) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Heat Waves](https://open.spotify.com/album/02lNMqgTeGkhWkad7NK8Yd) | 2:37 | 2022-03-25 |  |
+| [Heat Waves](https://open.spotify.com/track/2bloJtfWRNnHjylvX8AWOt) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Heat Waves](https://open.spotify.com/album/02lNMqgTeGkhWkad7NK8Yd) | 2:37 | 2022-03-25 | 2026-01-24 |
 | [Heaven](https://open.spotify.com/track/715a5BoI21BDN8GNbrJJ8G) | [fuse.](https://open.spotify.com/artist/7yLOR62W5h5j5Y4M8nHnAY) | [Heaven](https://open.spotify.com/album/1ZK9E83HhkuDmcqG8kXL51) | 2:16 | 2023-05-26 | 2025-10-30 |
 | [Here with You](https://open.spotify.com/track/2dNtChXYtvpT7SD7Bfe5KS) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Buchs](https://open.spotify.com/artist/0JRjFR8wJVtzTungOU3X6V), [flower thief](https://open.spotify.com/artist/3ZKGMKJZWvAHEC2guepIfG) | [Here with You](https://open.spotify.com/album/1C0LrrRlTwweXHWz0QpwWI) | 2:19 | 2023-06-09 |  |
 | [hey now](https://open.spotify.com/track/4hvBK1k3eE2ACRUQKjkork) | [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM), [cloudseven](https://open.spotify.com/artist/127ajarXOJFUfRFivWi49v), [MELINA](https://open.spotify.com/artist/6B0qkeU4m0NgmVbHdRZpSt) | [hey now](https://open.spotify.com/album/16cK2WXAYWUvEmpvyDUKgI) | 2:11 | 2023-09-13 |  |
@@ -147,6 +147,7 @@
 | [In the Mirror](https://open.spotify.com/track/205U3hn1052lvW97Adry7h) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [In the Mirror](https://open.spotify.com/album/3pakGLnxN48aQvbe7VVXaE) | 2:07 | 2021-12-09 | 2023-06-17 |
 | [In the Mirror](https://open.spotify.com/track/39US9RrwQtLld8H0Cofii3) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [In the Mirror](https://open.spotify.com/album/4I21qLgqAPYlfJGJ1V4Ol6) | 2:07 | 2023-10-13 | 2024-01-17 |
 | [Informalité](https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK) | [Nyhuis](https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d) | [Informalité](https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ) | 2:51 | 2021-12-09 | 2025-10-16 |
+| [Insights](https://open.spotify.com/track/1kwpL3EqUjKXhmEttZ78Md) | [Galavant Cross](https://open.spotify.com/artist/07dC1pu2nWISPURU8irwck) | [Insights](https://open.spotify.com/album/2BcSmACfCfIDnCnzpp1Cyq) | 3:26 | 2025-10-10 |  |
 | [IOU](https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [IOU](https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp) | 3:32 | 2023-06-09 | 2024-07-17 |
 | [Ipanema](https://open.spotify.com/track/4nXjQX3YnsTsKNJucIK1Vo) | [Pureblue](https://open.spotify.com/artist/0ytRHtQMhO8Sts30vPTcON) | [Ipanema](https://open.spotify.com/album/1hCZk8eJdYdtNogEsWGbGq) | 2:04 | 2022-01-21 | 2022-05-14 |
 | [It Takes so Long](https://open.spotify.com/track/5S6UVAdQpJ0SZ5HfU4LQ1B) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU) | [It Takes so Long](https://open.spotify.com/album/3VuE81EtTJTiNf8kUwgqpN) | 3:37 | 2023-05-26 | 2023-06-22 |

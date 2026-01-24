@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: Marcin
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,411 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,438 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Isla Feliz \(feat\. Antoine Boyer\)](https://open.spotify.com/track/3cW6gfOIB00rKKDzriDpY7) | [Matteo Mancuso](https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1), [Antoine Boyer](https://open.spotify.com/artist/2UKlumP0ZZDFcnuOSeNxHP) | [Isla Feliz \(feat\. Antoine Boyer\)](https://open.spotify.com/album/1HxoOPX6qThqtWugB6ecxu) | 4:45 |
+| 1 | [Isla Feliz](https://open.spotify.com/track/3cW6gfOIB00rKKDzriDpY7) | [Matteo Mancuso](https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1), [Antoine Boyer](https://open.spotify.com/artist/2UKlumP0ZZDFcnuOSeNxHP) | [Isla Feliz \(feat\. Antoine Boyer\)](https://open.spotify.com/album/1HxoOPX6qThqtWugB6ecxu) | 4:45 |
 | 2 | [Triangulation \(feat\. John Petrucci\)](https://open.spotify.com/track/2MoGL0GCj3NiaAZB9a5pHi) | [Steve Morse Band](https://open.spotify.com/artist/4RvfPm4uzNgEzeAxBOAQZK), [John Petrucci](https://open.spotify.com/artist/4zvIE8a1h7L0IED4r4qKk1) | [Triangulation](https://open.spotify.com/album/56G7p9w4Ob1AQMq8ltWqRE) | 4:50 |
 | 3 | [Medallion](https://open.spotify.com/track/4Oor2Emr3lDd3JtogJVzfC) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Medallion](https://open.spotify.com/album/1qZC1twRfaUTzgiX3Er24C) | 4:29 |
 | 4 | [Classical Dragon \(feat\. Tim Henson\)](https://open.spotify.com/track/77oGPqxT7yDZ5OCRmR863C) | [Marcin](https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4) | [Classical Dragon \(feat\. Tim Henson\)](https://open.spotify.com/album/2huGoR1ZiTK0VzYguLLVZg) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 99 | [Tumescent](https://open.spotify.com/track/3YrsPyrXHkV5EZnSuyLpCN) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [All's Well That Ends Well](https://open.spotify.com/album/0MUOKjKpJOWr9PFwgt4OtN) | 4:02 |
 | 100 | [The Answer](https://open.spotify.com/track/1ez3IST5sbHJsHXhzefpDR) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Slow](https://open.spotify.com/album/5F5w7O6boIDy3lKnrzxXNP) | 1:16 |
 
-Snapshot ID: `AAAAAEtYHxYiuOdb4q2VEXEoAnQ+L650`
+Snapshot ID: `AAAAAOJcuqApUFGRSqzE4BDlXETR/nvp`

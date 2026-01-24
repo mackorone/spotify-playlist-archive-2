@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Victor Mendivil y Eladio Carrion en portada. ",
+  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Ana Tijoux y Dj Dacel en portada. ",
   "name": "Rap Champa\u00f1a",
   "tracks": [
     {
@@ -8552,7 +8552,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 164583,
       "name": "Mi Mood",
       "url": "https://open.spotify.com/track/1bylUrVgdGGPNeXxEfkaus"
@@ -11215,6 +11215,28 @@
     },
     {
       "album": {
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/03aaTb22ipCFxxQny7jkNk"
+      },
+      "artists": [
+        {
+          "name": "Delinquent Habits",
+          "url": "https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U"
+        },
+        {
+          "name": "Sick Jacken",
+          "url": "https://open.spotify.com/artist/2Rf13iETx8NVJLIc5N6Ub4"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209693,
+      "name": "Ritmo",
+      "url": "https://open.spotify.com/track/6pNmHaLprimBA8ZFuDdhAp"
+    },
+    {
+      "album": {
         "name": "RITMO",
         "url": "https://open.spotify.com/album/71ZKg0YoJ6tO5HlEhhTbXf"
       },
@@ -13859,6 +13881,28 @@
     },
     {
       "album": {
+        "name": "VINOS Y VINILOS",
+        "url": "https://open.spotify.com/album/4RnSUfSekNV7gWqGHLeokD"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        },
+        {
+          "name": "Dj Dacel",
+          "url": "https://open.spotify.com/artist/5Nj8sBYPlnStp5EkE2f0Lf"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211815,
+      "name": "VINOS Y VINILOS",
+      "url": "https://open.spotify.com/track/3mFOwuiklPhZrINaQiiZAk"
+    },
+    {
+      "album": {
         "name": "Visionarios Ordinarios",
         "url": "https://open.spotify.com/album/72DGbgVUejXr5s784WkPSn"
       },
@@ -14180,7 +14224,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 161454,
       "name": "Zable",
       "url": "https://open.spotify.com/track/3seVe7b64NhH7mPqH6X4MK"

@@ -4,7 +4,7 @@
 
 > Todo o calor latino está aqui! 🔥  foto: Mau y Rick, Luísa Sonza, Big One
 
-535 songs - 1 day 3 hr 41 min
+536 songs - 1 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Besos Moja2](https://open.spotify.com/track/6TsVhM8qIkWN5cJVDIVbbz) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [La Última Misión](https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW) | 3:49 | 2022-10-07 | 2022-12-20 |
 | [Binikini](https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Binikini](https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj) | 3:03 | 2023-03-10 | 2023-04-01 |
 | [Bobo](https://open.spotify.com/track/4kFK6SkNXA7bBQgTzvFSWz) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Bobo](https://open.spotify.com/album/2xeKzAeesJsiqhN9MfP21f) | 3:00 | 2024-01-19 | 2024-02-03 |
-| [BOMBA](https://open.spotify.com/track/6eaPMOmqAiZb2H2vHd8UaE) | [Royal X](https://open.spotify.com/artist/7CeWU6iooJWfNWrYfP41Na) | [DOMINICAN FUNK](https://open.spotify.com/album/7htw0Drl5zjMRlWmlvaV8Z) | 2:02 | 2025-11-28 |  |
+| [BOMBA](https://open.spotify.com/track/6eaPMOmqAiZb2H2vHd8UaE) | [Royal X](https://open.spotify.com/artist/7CeWU6iooJWfNWrYfP41Na) | [DOMINICAN FUNK](https://open.spotify.com/album/7htw0Drl5zjMRlWmlvaV8Z) | 2:02 | 2025-11-28 | 2026-01-24 |
 | [BONITA](https://open.spotify.com/track/6pLYGP1FGsfhUFb3s9X1mz) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [BONITA](https://open.spotify.com/album/1ufDxUWa07eVx4iakS8DVO) | 2:49 | 2023-11-17 | 2024-01-13 |
 | [Bora Bora](https://open.spotify.com/track/0w49NuhCUPdJpzE3ClojSa) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Bora Bora](https://open.spotify.com/album/2PnRPLXqb7SHg141358iah) | 2:48 | 2023-02-24 | 2023-03-25 |
 | [Born To Love Ya \(Dutty Rock Dancehall Remix\)](https://open.spotify.com/track/7oZXbGzIVhjkJRBZDZqQTg) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Born To Love Ya \(Dutty Rock Dancehall Remix\)](https://open.spotify.com/album/2ruYjIEsUiDrp70OROG5Kl) | 2:48 | 2024-11-22 | 2025-01-11 |
@@ -99,6 +99,7 @@
 | [Call Me](https://open.spotify.com/track/0VaOGXNtoYUf1vAXM0X9ST) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [1 OF 1](https://open.spotify.com/album/6nrflCSqW4aAy4ZZ1PGp7I) | 2:50 | 2024-06-07 | 2024-07-19 |
 | [Callaita](https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Callaita](https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7) | 4:10 | 2021-12-31 | 2023-03-18 |
 | [CALOR](https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [CALOR](https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8) | 3:20 | 2023-09-01 |  |
+| [CAMBIARÉ](https://open.spotify.com/track/0DHkA97Q6SWz7uanmsCy8u) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [CAMBIARÉ](https://open.spotify.com/album/6ZXLMVFtEzgYNQlbUMlzAU) | 3:01 | 2026-01-23 |  |
 | [Candela](https://open.spotify.com/track/6iDf1hf6tSPIlLwnLZ5DUO) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Candela](https://open.spotify.com/album/4ReNwrN1yAVgZl7xldnZZN) | 2:27 | 2022-08-26 | 2022-09-05 |
 | [Candela](https://open.spotify.com/track/0YomXbPk6o0NTwJgBHcbKQ) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Jc La Nevula](https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Candela](https://open.spotify.com/album/1iCxYrfvqf2ZxaDdFZIAqX) | 3:04 | 2023-01-20 | 2023-01-28 |
 | [Capitán](https://open.spotify.com/track/3Zesg4c4eKhWJbKyh2mZos) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Capitán](https://open.spotify.com/album/3HzG2GrYVNOFovlnK112G2) | 3:44 | 2023-05-26 | 2023-07-15 |

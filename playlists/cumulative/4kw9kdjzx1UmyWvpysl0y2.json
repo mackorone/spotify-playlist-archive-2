@@ -20021,6 +20021,28 @@
     },
     {
       "album": {
+        "name": "SUPERCAR",
+        "url": "https://open.spotify.com/album/0kUpoKgI8BiH2KqkS8cmnp"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        },
+        {
+          "name": "JXN",
+          "url": "https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154094,
+      "name": "SUPERCAR",
+      "url": "https://open.spotify.com/track/6pJIgc6lMzltj2f4CZZxkq"
+    },
+    {
+      "album": {
         "name": "SURFACE",
         "url": "https://open.spotify.com/album/4ujOWQN1rcL5cc3EPQ8wo7"
       },

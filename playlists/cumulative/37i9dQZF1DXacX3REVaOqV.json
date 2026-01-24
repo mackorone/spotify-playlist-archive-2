@@ -1720,7 +1720,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 197812,
       "name": "Brighter Days",
       "url": "https://open.spotify.com/track/1EFa8N3RrJ9OxeeoAkJneQ"
@@ -2988,7 +2988,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 194400,
       "name": "Day Starter",
       "url": "https://open.spotify.com/track/2Fq880m3Pp53xhzmSMeteS"
@@ -3068,7 +3068,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 194220,
       "name": "Deep Inside - CASSIMM Remix",
       "url": "https://open.spotify.com/track/26xyL8HgzrQfiY0n8x01Z8"
@@ -3156,7 +3156,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-21",
+      "date_removed": null,
       "duration_ms": 222818,
       "name": "Do Me Right - Crackazat Remix",
       "url": "https://open.spotify.com/track/7s9M6esGDliRqtWDJTkxae"
@@ -3586,7 +3586,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 182125,
       "name": "Easily",
       "url": "https://open.spotify.com/track/5y4UnA1BOuxp2J0vbO575R"
@@ -4434,7 +4434,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 198483,
       "name": "Forever Baby",
       "url": "https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo"
@@ -5004,7 +5004,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-21",
+      "date_removed": null,
       "duration_ms": 165120,
       "name": "Give Me Time",
       "url": "https://open.spotify.com/track/1OUd8ncIBfYsHyoBpwTyVy"
@@ -6889,6 +6889,28 @@
     },
     {
       "album": {
+        "name": "Intro (Fred Falke Remix)",
+        "url": "https://open.spotify.com/album/6xALSzrzr2p49MZ5dmHAKd"
+      },
+      "artists": [
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "Fred Falke",
+          "url": "https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356106,
+      "name": "Intro - Fred Falke Remix",
+      "url": "https://open.spotify.com/track/5nxJbZFIHf8iGndx8eOJMa"
+    },
+    {
+      "album": {
         "name": "It Feels Alright",
         "url": "https://open.spotify.com/album/0nm2kIt4iJ0nESh1w8NNOt"
       },
@@ -7412,7 +7434,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 138997,
       "name": "Keep It Exciting",
       "url": "https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp"
@@ -7854,6 +7876,24 @@
       "duration_ms": 306377,
       "name": "Life So Bright",
       "url": "https://open.spotify.com/track/2t0LqsZpeBXUkhLUneynjA"
+    },
+    {
+      "album": {
+        "name": "Lift Me High",
+        "url": "https://open.spotify.com/album/7Gct4ch1N1VvhTEjxTnzLq"
+      },
+      "artists": [
+        {
+          "name": "Moeaike",
+          "url": "https://open.spotify.com/artist/1dq8CEUSNTPN81up2lVwnm"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208534,
+      "name": "Lift Me High",
+      "url": "https://open.spotify.com/track/4m0F3I0T7y2tkSSZ1Ha80B"
     },
     {
       "album": {
@@ -8630,7 +8670,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 158387,
       "name": "Mama Maria",
       "url": "https://open.spotify.com/track/114hEVloiFTiAffAsbSwox"
@@ -9050,7 +9090,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 219197,
       "name": "Move",
       "url": "https://open.spotify.com/track/2AADxZdCvvxfiBeaQq4DOV"
@@ -10858,7 +10898,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 173077,
       "name": "Reckless Girl - Edit",
       "url": "https://open.spotify.com/track/4NiSJfdImWDYeeEgdF2Goz"
@@ -12756,7 +12796,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 143709,
       "name": "Superfly",
       "url": "https://open.spotify.com/track/5Ifo63oBY9jOjA6dw3jBme"
@@ -12950,7 +12990,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 333000,
       "name": "take your vibes and go - Dam Swindle Remix",
       "url": "https://open.spotify.com/track/0v0v5vFIqp83R0M8y3fdlt"
@@ -13044,7 +13084,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 138491,
       "name": "Talk",
       "url": "https://open.spotify.com/track/5RgqLIWWb1ceLM01BORkez"
@@ -13720,7 +13760,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 178560,
       "name": "To The Beat - Club Mix",
       "url": "https://open.spotify.com/track/1lrPaOiy45DbcRFVyd9ZFG"
@@ -13818,7 +13858,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 174735,
       "name": "Tracey in My Room",
       "url": "https://open.spotify.com/track/7B6qq76lHzyaVAuUOyN0tn"
@@ -14188,7 +14228,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 162684,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W"
@@ -14356,7 +14396,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 240000,
       "name": "Wanna Party?",
       "url": "https://open.spotify.com/track/79XjyfvxxbRjog2o3fbfD7"

@@ -4,7 +4,7 @@
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-108 songs - 7 hr 6 min
+109 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [All You Need Is Love](https://open.spotify.com/track/3QjO59K7XYaPLF8PBTuzQU) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 2:29 | 2024-01-29 |  |
 | [Aloha, E Komo Mai](https://open.spotify.com/track/6N4hfS4moia0tvA7S23VwO) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:43 | 2024-01-29 |  |
 | [Beneath The Waves](https://open.spotify.com/track/36xDZNphTqQmOR7wrHQxdi) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Beneath The Waves](https://open.spotify.com/album/1qPXLZWbKGoaXbygOCwXBF) | 3:13 | 2025-11-01 |  |
+| [Beneath The Waves Part 2](https://open.spotify.com/track/4d3ryiA37ycUVp0wcF6m6y) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Beneath The Waves Part 2](https://open.spotify.com/album/60E75bjl78vQekCfNScQ89) | 4:45 | 2026-01-24 |  |
 | [Bizarre Love Triangle](https://open.spotify.com/track/3pslJDAFDwUSOhLxvr7MPl) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [The Greatest Day](https://open.spotify.com/album/0NEElyt7JwoVWdJyKObGX2) | 4:19 | 2025-06-20 | 2025-09-13 |
 | [Bohemian Rhapsody](https://open.spotify.com/track/1FNW6pTw6US1YHi0miBlto) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 5:54 | 2024-01-29 |  |
 | [Boy Meets Girl](https://open.spotify.com/track/1AEKR4Qb9RhiFndpZfcwzB) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 3:20 | 2024-01-29 |  |
@@ -75,7 +76,7 @@
 | [Still Got The Blues](https://open.spotify.com/track/2j0zoPrzj8arvAPZFaRBEk) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Blues Experience](https://open.spotify.com/album/4WAq1gvzRrbbcS7LwMGQS0) | 4:12 | 2024-11-24 | 2024-11-26 |
 | [Summer Rain](https://open.spotify.com/track/4fnqyECBu3t2V7EnRxf8pl) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Nolan Verner](https://open.spotify.com/artist/1mIyn2K6MfgmwrkoMNAaRl), [Dave Preston](https://open.spotify.com/artist/3UkHwtr4k4cCQRHZfKsGpk) | [Trio](https://open.spotify.com/album/3uLfTpSX4QuFWqAkcHQBz4) | 3:22 | 2024-01-29 |  |
 | [The Breath Of Life](https://open.spotify.com/track/1f2Bh6BoQV7oc39JIPCQ19) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [The Breath Of Life](https://open.spotify.com/album/2A6aF6bMjJlQdyNrq1DAvC) | 4:04 | 2025-12-13 |  |
-| [The Passing Storm \- short version \(with nature\)](https://open.spotify.com/track/6wSa7PR8vWpixQjxUpRT5L) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [The Passing Storm](https://open.spotify.com/album/0OC5VSMefknF0siUMnDN23) | 4:34 | 2025-12-08 |  |
+| [The Passing Storm \- short version \(with nature\)](https://open.spotify.com/track/6wSa7PR8vWpixQjxUpRT5L) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [The Passing Storm](https://open.spotify.com/album/0OC5VSMefknF0siUMnDN23) | 4:34 | 2025-12-08 | 2026-01-24 |
 | [Train Ride](https://open.spotify.com/track/1CUOxT1JD7DKCS0t9GvHnS) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 3:44 | 2024-01-29 |  |
 | [Two High](https://open.spotify.com/track/1uizY6qe73rHo1gduRqvy8) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 3:39 | 2024-01-29 | 2024-03-14 |
 | [Ukulele Bros](https://open.spotify.com/track/4xbOzbF4ziyqyxLU4vOQzV) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 3:03 | 2024-05-19 | 2025-12-18 |

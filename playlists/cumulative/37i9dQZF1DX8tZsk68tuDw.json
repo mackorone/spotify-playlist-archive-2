@@ -817,6 +817,28 @@
     },
     {
       "album": {
+        "name": "909",
+        "url": "https://open.spotify.com/album/2zfkzIFCFlf9aycZyiFUxT"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Danny P",
+          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237500,
+      "name": "909",
+      "url": "https://open.spotify.com/track/2NNyqVX63BJq603V80uBCf"
+    },
+    {
+      "album": {
         "name": "92",
         "url": "https://open.spotify.com/album/1QsB3EL5GlJ3MKP4LOZ2p8"
       },
@@ -1399,6 +1421,24 @@
     },
     {
       "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163384,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ"
+    },
+    {
+      "album": {
         "name": "Adidas & Pearls",
         "url": "https://open.spotify.com/album/5zTHdYXq0ojTz7J4K2gCUN"
       },
@@ -1890,7 +1930,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 236390,
       "name": "AL'S HOT SOUP",
       "url": "https://open.spotify.com/track/7bm6oh6cq7vCZpsf4wQkWL"
@@ -3846,6 +3886,28 @@
       "duration_ms": 189533,
       "name": "Amani",
       "url": "https://open.spotify.com/track/7b0n6M4SKdDhJPm0jFGvw8"
+    },
+    {
+      "album": {
+        "name": "AMEN",
+        "url": "https://open.spotify.com/album/1BTHz23gMbT2ZRMsdOcRem"
+      },
+      "artists": [
+        {
+          "name": "St. Mary",
+          "url": "https://open.spotify.com/artist/053q2D9p8VzxaIzwGZhCUM"
+        },
+        {
+          "name": "Matthew Adam Green",
+          "url": "https://open.spotify.com/artist/5W0rgySvbnUMd8VkgQfg1T"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158513,
+      "name": "AMEN",
+      "url": "https://open.spotify.com/track/6cQ9ZmVAd2Q89CekNxqrDc"
     },
     {
       "album": {
@@ -14740,7 +14802,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 180895,
       "name": "Coming Up (It\u2019s Dare)",
       "url": "https://open.spotify.com/track/7JHkJ5mDS868b5j5h67cwL"
@@ -15954,7 +16016,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 247979,
       "name": "Crystallise My Tears",
       "url": "https://open.spotify.com/track/0Oy0McHtuyIj3axP1YAxua"
@@ -17791,6 +17853,36 @@
     },
     {
       "album": {
+        "name": "Din Da Da",
+        "url": "https://open.spotify.com/album/726YHzRPoDn1BP2IAYwBsC"
+      },
+      "artists": [
+        {
+          "name": "Airwolf Paradise",
+          "url": "https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl"
+        },
+        {
+          "name": "WOLTERS",
+          "url": "https://open.spotify.com/artist/3gWrhUgsZptXzw4SHZUgOl"
+        },
+        {
+          "name": "Kevin Aviance",
+          "url": "https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ"
+        },
+        {
+          "name": "DJ Gomi",
+          "url": "https://open.spotify.com/artist/1cKbeR3hJRlWFlAd3BJxGz"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172867,
+      "name": "Din Da Da",
+      "url": "https://open.spotify.com/track/0uWrn7NVzQzNRNxgREBG4x"
+    },
+    {
+      "album": {
         "name": "Dior (feat. Chrystal)",
         "url": "https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf"
       },
@@ -18237,6 +18329,28 @@
     },
     {
       "album": {
+        "name": "Do It For The Girls (feat. Jalja)",
+        "url": "https://open.spotify.com/album/2N6MzDfkzG6cqacHxegu6C"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        },
+        {
+          "name": "Jalja",
+          "url": "https://open.spotify.com/artist/2KgiNo5JQEyIQdGv2Wyh4R"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159545,
+      "name": "Do It For The Girls (feat. Jalja)",
+      "url": "https://open.spotify.com/track/1n7pkIXGPGK0d6Yd1p3L6V"
+    },
+    {
+      "album": {
         "name": "Do It To It",
         "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
       },
@@ -18452,7 +18566,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 173616,
       "name": "Dominator",
       "url": "https://open.spotify.com/track/6C9beIn45G34tT8pQ61ed7"
@@ -21409,6 +21523,24 @@
     },
     {
       "album": {
+        "name": "Club Nostalgia",
+        "url": "https://open.spotify.com/album/23jZ4KydwdjM0pprkozKAn"
+      },
+      "artists": [
+        {
+          "name": "THELMA",
+          "url": "https://open.spotify.com/artist/6FmmPwPeUC5mYKHF6mkulm"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391836,
+      "name": "Enigma",
+      "url": "https://open.spotify.com/track/4rfNBDqU7qSp0S81ci8qqb"
+    },
+    {
+      "album": {
         "name": "Enough Of You",
         "url": "https://open.spotify.com/album/3VTbSW7HLWr6WCwEHphVCZ"
       },
@@ -21442,7 +21574,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 220689,
       "name": "Entwined",
       "url": "https://open.spotify.com/track/4hphReh7hXDCFb14FfB7n1"
@@ -22912,7 +23044,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 166376,
       "name": "Fear Me",
       "url": "https://open.spotify.com/track/62QKkCiulzm9UA877jP7wW"
@@ -23842,7 +23974,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 234545,
       "name": "Feels Like Us",
       "url": "https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO"
@@ -27314,6 +27446,24 @@
       "duration_ms": 155000,
       "name": "Get Up Off The Floor",
       "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
+    },
+    {
+      "album": {
+        "name": "GET WHAT I WANT",
+        "url": "https://open.spotify.com/album/1KsJR6P8hrNrGgHcs0sFql"
+      },
+      "artists": [
+        {
+          "name": "MAYV",
+          "url": "https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132026,
+      "name": "GET WHAT I WANT",
+      "url": "https://open.spotify.com/track/4g5eIUBlJu0kDKoczE8fsW"
     },
     {
       "album": {
@@ -36297,6 +36447,28 @@
     },
     {
       "album": {
+        "name": "Into My Life (feat. Joyce Sims)",
+        "url": "https://open.spotify.com/album/4KzpmvHWP09GTVgGpnkBl7"
+      },
+      "artists": [
+        {
+          "name": "Cam Stockman",
+          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
+        },
+        {
+          "name": "Joyce Sims",
+          "url": "https://open.spotify.com/artist/4AL3YviSMI70ARkSOHlxbQ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131299,
+      "name": "Into My Life (feat. Joyce Sims)",
+      "url": "https://open.spotify.com/track/5Pcg7KpidYjuKTTJ12IvvF"
+    },
+    {
+      "album": {
         "name": "Into The Light",
         "url": "https://open.spotify.com/album/1ATxWnFY5KAry1bKnyP1yi"
       },
@@ -41431,6 +41603,28 @@
     },
     {
       "album": {
+        "name": "Lime Tikka",
+        "url": "https://open.spotify.com/album/066MNKuNRLmIRkV2aJQxiF"
+      },
+      "artists": [
+        {
+          "name": "Baalti",
+          "url": "https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN"
+        },
+        {
+          "name": "Lapgan",
+          "url": "https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227757,
+      "name": "Lime Tikka",
+      "url": "https://open.spotify.com/track/64LhB2eoPkeY582Ys0D7eE"
+    },
+    {
+      "album": {
         "name": "Lippy",
         "url": "https://open.spotify.com/album/2WGssUw0jZ4RzRpi2lxN5P"
       },
@@ -41750,6 +41944,32 @@
       "duration_ms": 183875,
       "name": "Locco",
       "url": "https://open.spotify.com/track/1MtswMNmlmCn0fl0xf8qB1"
+    },
+    {
+      "album": {
+        "name": "Locked In (feat. Trippie Redd)",
+        "url": "https://open.spotify.com/album/2fG4Abi890K7fZ9MnEsq9p"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168923,
+      "name": "Locked In (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/55oaId1IHZV9XfvHB3P7PJ"
     },
     {
       "album": {
@@ -43508,7 +43728,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 239973,
       "name": "Love Who You Love",
       "url": "https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr"
@@ -46164,7 +46384,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 176021,
       "name": "Mitsubishi (feat. Muki)",
       "url": "https://open.spotify.com/track/7rAsQpCZO8lJPSCl7Uyk0H"
@@ -53968,7 +54188,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 209374,
       "name": "Party Out",
       "url": "https://open.spotify.com/track/33ZgCVQUBk3Vs5GJJVL5qk"
@@ -55260,7 +55480,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 191377,
       "name": "Point Zero",
       "url": "https://open.spotify.com/track/76e2lc0sV8N1jLFlw2CS5x"
@@ -58700,6 +58920,24 @@
       "duration_ms": 183870,
       "name": "Ritmo",
       "url": "https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO"
+    },
+    {
+      "album": {
+        "name": "RITZ",
+        "url": "https://open.spotify.com/album/4eai8F4RLUMtak4NwX3WzP"
+      },
+      "artists": [
+        {
+          "name": "Ragie Ban",
+          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182325,
+      "name": "RITZ",
+      "url": "https://open.spotify.com/track/3VMI6UnnxERt2vnRW6SY3U"
     },
     {
       "album": {
@@ -70102,7 +70340,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 327643,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/35wNOGOyGgYtmZkheJfcme"
@@ -74574,6 +74812,32 @@
       "duration_ms": 144790,
       "name": "VIP (feat. BLOODLINE)",
       "url": "https://open.spotify.com/track/1SKq3cCGhSS8a1jPBkTAux"
+    },
+    {
+      "album": {
+        "name": "Vision Blurred",
+        "url": "https://open.spotify.com/album/49nuuneGqTobuf0FytxCyI"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Anabel Englund",
+          "url": "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185624,
+      "name": "Vision Blurred",
+      "url": "https://open.spotify.com/track/0MBZH1gMOjrF9OVyhrDAo3"
     },
     {
       "album": {

@@ -115,6 +115,24 @@
     },
     {
       "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163384,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ"
+    },
+    {
+      "album": {
         "name": "Addiction / Yapper",
         "url": "https://open.spotify.com/album/47qmD30x0oZye9bBYAHKkr"
       },
@@ -343,6 +361,24 @@
     },
     {
       "album": {
+        "name": "Picture: Volkoder",
+        "url": "https://open.spotify.com/album/5AA55B0S08IQx9qp4BPVq1"
+      },
+      "artists": [
+        {
+          "name": "Volkoder",
+          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181874,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/7nboixHsDQbJkHHjz72pIY"
+    },
+    {
+      "album": {
         "name": "All The Little Things EP",
         "url": "https://open.spotify.com/album/08VBmpMr5rhtIWx2oI4Pc5"
       },
@@ -412,7 +448,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 389038,
       "name": "Along Came Polly",
       "url": "https://open.spotify.com/track/6fL2wAZuNKGpze9E3SINnW"
@@ -973,6 +1009,28 @@
     },
     {
       "album": {
+        "name": "Back Then",
+        "url": "https://open.spotify.com/album/01xmsciakY5lmjVFtAK5WA"
+      },
+      "artists": [
+        {
+          "name": "TwoForAll",
+          "url": "https://open.spotify.com/artist/1rxnoxuKZHlpEQ92mLZ9n0"
+        },
+        {
+          "name": "Mont Rouge",
+          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234063,
+      "name": "Back Then",
+      "url": "https://open.spotify.com/track/2KKbfAV8OX9dayLxpDXstg"
+    },
+    {
+      "album": {
         "name": "Bad Boy",
         "url": "https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN"
       },
@@ -1297,6 +1355,24 @@
     },
     {
       "album": {
+        "name": "Bingami",
+        "url": "https://open.spotify.com/album/7prRoEpQIjCFEAI6T8EeqL"
+      },
+      "artists": [
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381532,
+      "name": "Bingami",
+      "url": "https://open.spotify.com/track/5rAn9GAwVyUm5rP8tIbxQJ"
+    },
+    {
+      "album": {
         "name": "Birth4000",
         "url": "https://open.spotify.com/album/5jWraquGLoS4pFefyUytmx"
       },
@@ -1348,6 +1424,40 @@
       "duration_ms": 416933,
       "name": "Black Gravity",
       "url": "https://open.spotify.com/track/4b1fewh792yrZz0SvwE8Zq"
+    },
+    {
+      "album": {
+        "name": "Black Roads",
+        "url": "https://open.spotify.com/album/6zJKcNwDkHtNSR3lPvv3iI"
+      },
+      "artists": [
+        {
+          "name": "Re.You",
+          "url": "https://open.spotify.com/artist/3AE5c8fBFJYdxXHCSXAyVx"
+        },
+        {
+          "name": "Paul Brenning",
+          "url": "https://open.spotify.com/artist/4LJbPEKdCcfzE1x0GhUnL6"
+        },
+        {
+          "name": "UVITA",
+          "url": "https://open.spotify.com/artist/4lAkDxZ9sgjZD3mDPRgM4B"
+        },
+        {
+          "name": "OSFUR",
+          "url": "https://open.spotify.com/artist/6qrKiEKVVelbXJa8HwchwO"
+        },
+        {
+          "name": "The Scripture",
+          "url": "https://open.spotify.com/artist/7nGeoIGnJVQTHcDIAqCStR"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281951,
+      "name": "Black Roads - UVITA, Osfur & The Scripture Remix",
+      "url": "https://open.spotify.com/track/2SYDrn46x4xLcjumWuHdca"
     },
     {
       "album": {
@@ -1516,7 +1626,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 225892,
       "name": "Born Like That",
       "url": "https://open.spotify.com/track/3pCnL6BOtSueW8XaF63gDN"
@@ -2602,7 +2712,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 229000,
       "name": "Dancing in the Sand",
       "url": "https://open.spotify.com/track/3F4qrkZNUO6j5qCCBX7V3U"
@@ -2770,7 +2880,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 258466,
       "name": "Desolate Lands",
       "url": "https://open.spotify.com/track/0otmh5QkPkM4HtSleILAWC"
@@ -5650,7 +5760,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 249573,
       "name": "Lately",
       "url": "https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K"
@@ -6550,7 +6660,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 239878,
       "name": "Makeda",
       "url": "https://open.spotify.com/track/4kar5EtR271EvY3FIFsnJP"
@@ -7422,7 +7532,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 170322,
       "name": "Nomacita",
       "url": "https://open.spotify.com/track/4NjCBS4wF0lFO5wbYBQuIt"
@@ -7722,7 +7832,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 434232,
       "name": "Only You - &ME Remix",
       "url": "https://open.spotify.com/track/6Pot7RIYFgzOOadIG1IMBv"
@@ -8354,6 +8464,24 @@
       "duration_ms": 322020,
       "name": "Purple Noise",
       "url": "https://open.spotify.com/track/0PkwtUYZiNpGtbkVYZkvMZ"
+    },
+    {
+      "album": {
+        "name": "Push Me EP",
+        "url": "https://open.spotify.com/album/3UPoGdguTNZKyLcHrIBlsq"
+      },
+      "artists": [
+        {
+          "name": "Ivory (IT)",
+          "url": "https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248816,
+      "name": "Push Me",
+      "url": "https://open.spotify.com/track/5N78yicBhYGP25pkjMuBjD"
     },
     {
       "album": {
@@ -10427,6 +10555,28 @@
     },
     {
       "album": {
+        "name": "TELL HER NEVER",
+        "url": "https://open.spotify.com/album/2uY1aUjSc7DE7RnK0K7T95"
+      },
+      "artists": [
+        {
+          "name": "Yet More",
+          "url": "https://open.spotify.com/artist/56brJyNkgCiv9ncSNkV99C"
+        },
+        {
+          "name": "Selim Sivade",
+          "url": "https://open.spotify.com/artist/6zQCqwr5oCLdfbvY3n3LIn"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421205,
+      "name": "TELL HER NEVER",
+      "url": "https://open.spotify.com/track/5nJxKwoHQF4hwPQLiwtrW5"
+    },
+    {
+      "album": {
         "name": "Thandaza",
         "url": "https://open.spotify.com/album/6EJu5rECOfBSeHfVM3g6pm"
       },
@@ -11199,6 +11349,36 @@
     },
     {
       "album": {
+        "name": "Trust Me",
+        "url": "https://open.spotify.com/album/3xdDbd9TpuQ5EVvVYR5DW0"
+      },
+      "artists": [
+        {
+          "name": "Yet More",
+          "url": "https://open.spotify.com/artist/56brJyNkgCiv9ncSNkV99C"
+        },
+        {
+          "name": "MANTi",
+          "url": "https://open.spotify.com/artist/2o8lhgWt1O53AhZxjnGBei"
+        },
+        {
+          "name": "B\u00e1kayan",
+          "url": "https://open.spotify.com/artist/3PqC2FtvZWEUrUExbBcGRt"
+        },
+        {
+          "name": "Auggi\u00eb",
+          "url": "https://open.spotify.com/artist/5NExMFya2Tu4I4DlTHKOMe"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308010,
+      "name": "Trust Me",
+      "url": "https://open.spotify.com/track/3iMg2KqjHCDKoONLyNXzW8"
+    },
+    {
+      "album": {
         "name": "The Vision",
         "url": "https://open.spotify.com/album/0gYWHiu6d4Lcrf4a4xFL40"
       },
@@ -11494,7 +11674,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 192326,
       "name": "VIER:DREI",
       "url": "https://open.spotify.com/track/0UtjVMCKcdKt37xlKr3TMk"
@@ -11706,6 +11886,50 @@
       "duration_ms": 159848,
       "name": "Wanjiru",
       "url": "https://open.spotify.com/track/4MCu5xXQ0WD5FQ3selk5mD"
+    },
+    {
+      "album": {
+        "name": "Wanna Make Love EP",
+        "url": "https://open.spotify.com/album/6idwaXOlJDGehRthcJJcvb"
+      },
+      "artists": [
+        {
+          "name": "MAXI MERAKI",
+          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226932,
+      "name": "Wanna Make Love",
+      "url": "https://open.spotify.com/track/3caMURqkVUsWPucKqcP1Hk"
+    },
+    {
+      "album": {
+        "name": "Waste my time (Chris Avantgarde Remix)",
+        "url": "https://open.spotify.com/album/4EmF3fMksr4fa8QwPBXaUE"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375479,
+      "name": "Waste my time - Chris Avantgarde Remix",
+      "url": "https://open.spotify.com/track/4neHoESs8fqmNpMnIEAXtg"
     },
     {
       "album": {
@@ -12114,7 +12338,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 289180,
       "name": "Your Touch",
       "url": "https://open.spotify.com/track/2XxI7LRiCbFHyJri78VlxL"

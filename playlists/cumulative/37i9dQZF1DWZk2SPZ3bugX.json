@@ -738,7 +738,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 167733,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/4s6Yv9iUvqQEUIanfZinaw"
@@ -3622,6 +3622,28 @@
       "duration_ms": 189413,
       "name": "Prayer in C - Robin Schulz Radio Edit",
       "url": "https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck"
+    },
+    {
+      "album": {
+        "name": "Quero",
+        "url": "https://open.spotify.com/album/7wNFlxLXby8RduE9xNEjrW"
+      },
+      "artists": [
+        {
+          "name": "Trinix Remix",
+          "url": "https://open.spotify.com/artist/0RvjLz7klSc5lNgxX7EiVZ"
+        },
+        {
+          "name": "In\u00e1",
+          "url": "https://open.spotify.com/artist/0qA4dxIMSPVxjKBiczVHQv"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Quero",
+      "url": "https://open.spotify.com/track/57uV62QQp0kiwBwpZjgarH"
     },
     {
       "album": {

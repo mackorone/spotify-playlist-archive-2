@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: Apink \(에이핑크\)\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: 모모랜드 \(MOMOLAND\)\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-521 songs - 1 day 4 hr 24 min
+522 songs - 1 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,7 +321,7 @@
 | [ONION \(feat\. Suk Hoon Chang\)](https://open.spotify.com/track/3Ivg8dodsNmteJwA8hyQge) | [Min](https://open.spotify.com/artist/34i0mYEs7QoU4YbBjvzEiA), [Suk Hoon Chang](https://open.spotify.com/artist/3kR0K5YzUmjDHQbh3W8zaW) | [ONION](https://open.spotify.com/album/2OqY8Ykt2djgjzszye4ahM) | 3:42 | 2021-11-29 | 2022-07-29 |
 | [ONLY 너 ONLY YOU](https://open.spotify.com/track/6MwJCMRlmBhS6LUx4lH1HG) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [SIGNAL](https://open.spotify.com/album/4VfP4RWW7MPg5hOCvIgUYE) | 3:38 | 2022-03-02 | 2022-04-18 |
 | [OOH\-AHH하게 Like OOH\-AHH](https://open.spotify.com/track/41r0BLWVIdo7CaKowcUDgM) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THE STORY BEGINS](https://open.spotify.com/album/3uLLMZwXdtGAD3BAB12jUM) | 3:35 | 2021-11-29 | 2022-07-29 |
-| [Oops, My Bad](https://open.spotify.com/track/5sTNd7d05oLLJatfB4CP4N) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Oops, My Bad \(From "Operation: True Love"\)](https://open.spotify.com/album/6H37HHyq1ytiLGWgIisBSZ) | 2:26 | 2025-12-03 |  |
+| [Oops, My Bad](https://open.spotify.com/track/5sTNd7d05oLLJatfB4CP4N) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Oops, My Bad \(From "Operation: True Love"\)](https://open.spotify.com/album/6H37HHyq1ytiLGWgIisBSZ) | 2:26 | 2025-12-03 | 2026-01-24 |
 | [OOPSY](https://open.spotify.com/track/7wujrLH728xxtvLRejTdV8) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [Weki Meki 3rd Mini Album \[HIDE and SEEK\]](https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3) | 3:14 | 2022-01-04 | 2022-07-28 |
 | [Panorama](https://open.spotify.com/track/0CnpSTdL9l5vQM4YnzXtyo) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [One\-reeler / Act IV](https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK) | 3:42 | 2021-11-29 |  |
 | [Paradise](https://open.spotify.com/track/4IT5FuLhPEFlGfaApivmZi) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/0fWGwOtbOLZfG6ZIBQRpAv) | 3:28 | 2021-11-29 | 2022-07-23 |
@@ -492,6 +492,7 @@
 | [When We Were Us \(Beautiful Days\)](https://open.spotify.com/track/5MehjK6vlW3nE268Ys0dxv) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz 6th Mini Album \[Once upon a time\]](https://open.spotify.com/album/5FH6bvjJY0GCZwMgNvarAR) | 3:53 | 2021-11-29 | 2022-07-21 |
 | [When You Say My Name](https://open.spotify.com/track/1LFFqnGA8n1QHlNcobioF8) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Winter Glow](https://open.spotify.com/album/6ZnV6RIYCZdozre4yDzIOu) | 3:31 | 2024-12-10 | 2024-12-25 |
 | [White Memories](https://open.spotify.com/track/7hCdtQsaKCBXrITaPNK2iE) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [White Memories](https://open.spotify.com/album/4vnA4ZWgxrhxy5doVCGv9u) | 3:01 | 2025-12-03 |  |
+| [white spring](https://open.spotify.com/track/3eNaNlSXrOg7aOwtIwtxZk) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [white spring](https://open.spotify.com/album/2MEB999yzrd3rNghmvCkwl) | 3:30 | 2026-01-23 |  |
 | [Whoo](https://open.spotify.com/track/26b32VMw5DcaCZhwMZzjep) | [RAINBOW](https://open.spotify.com/artist/7xDyxRXgFgOZhdtLtkYR1y) | [Prism](https://open.spotify.com/album/0fg7lYqzREtvKqU1mzmqUp) | 3:05 | 2022-01-04 | 2022-04-17 |
 | [Why Not?](https://open.spotify.com/track/227y7s5IZ5TWN17Pkte5tc) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[12:00\]](https://open.spotify.com/album/0AfLJ1yEWYlFPabxu1kmht) | 3:25 | 2021-11-29 | 2022-07-10 |
 | [Why Not?](https://open.spotify.com/track/6yGQ86UppYULzTCxAWgwVN) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[12:00\]](https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi) | 3:25 | 2022-07-28 | 2022-12-24 |

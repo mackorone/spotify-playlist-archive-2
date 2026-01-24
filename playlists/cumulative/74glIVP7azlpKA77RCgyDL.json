@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "3111",
+        "url": "https://open.spotify.com/album/2zkkD8YEH6AaOdKPV7LGDb"
+      },
+      "artists": [
+        {
+          "name": "Exodus",
+          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248600,
+      "name": "3111",
+      "url": "https://open.spotify.com/track/2WS6J9d3BV96MwUBb5koO8"
+    },
+    {
+      "album": {
         "name": "70% Dead",
         "url": "https://open.spotify.com/album/1wmcwUhzuxcM56xaBqd0dC"
       },
@@ -508,7 +526,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 201320,
       "name": "Abilene Grime",
       "url": "https://open.spotify.com/track/6SKTgAhiEMtU1GWx6Vguz3"
@@ -1272,7 +1290,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 232254,
       "name": "Atonement - feat. Will Ramos",
       "url": "https://open.spotify.com/track/6WuWxcSMhQ6ntve4zT84RF"
@@ -1896,7 +1914,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 200800,
       "name": "Blackhole",
       "url": "https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8"
@@ -2112,7 +2130,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 181546,
       "name": "Blood's on fire",
       "url": "https://open.spotify.com/track/1etVnD5N8LEy8T3Lrsal1F"
@@ -2552,7 +2570,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 141000,
       "name": "Bury Me (One Thousand Times)",
       "url": "https://open.spotify.com/track/1SwwcNkbTpe4vuQF59LabF"
@@ -3466,7 +3484,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 182061,
       "name": "Cold Hard Truth",
       "url": "https://open.spotify.com/track/0MwRJeQZmAn954BxUqcnit"
@@ -5580,7 +5598,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 189103,
       "name": "Elevator Operator",
       "url": "https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF"
@@ -5620,6 +5638,24 @@
       "duration_ms": 271076,
       "name": "Emotion Sickness",
       "url": "https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa"
+    },
+    {
+      "album": {
+        "name": "Empty Hands",
+        "url": "https://open.spotify.com/album/5lBm36eO5Us3NpTXaA9t9C"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189064,
+      "name": "Empty Hands",
+      "url": "https://open.spotify.com/track/2LlSWchdFYUOfo57Yv8JFf"
     },
     {
       "album": {
@@ -6144,6 +6180,24 @@
       "duration_ms": 141500,
       "name": "face.",
       "url": "https://open.spotify.com/track/0zX4S0PU6BG9UxHtaAx2jA"
+    },
+    {
+      "album": {
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/0N3fn6OZ1LqIpMXEvVgPk6"
+      },
+      "artists": [
+        {
+          "name": "Knumears",
+          "url": "https://open.spotify.com/artist/5oEizTkT6mRlggZPdxWmjk"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106557,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/4WsMjwH6Pq6F8NcAwJPj9T"
     },
     {
       "album": {
@@ -7606,7 +7660,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 243826,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/0KrlBjdNgEYFFuwlormJqV"
@@ -8122,6 +8176,24 @@
       "duration_ms": 284456,
       "name": "Her Eyes",
       "url": "https://open.spotify.com/track/6iTYBfAOuy7oSMyppweXc7"
+    },
+    {
+      "album": {
+        "name": "Megadeth",
+        "url": "https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208510,
+      "name": "Hey God?!",
+      "url": "https://open.spotify.com/track/2vwrGgIy5cUeU375P6w8aL"
     },
     {
       "album": {
@@ -10590,7 +10662,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 103000,
       "name": "Love All the People",
       "url": "https://open.spotify.com/track/7n9D3aT2v56UVNxFZ0LV55"
@@ -10666,7 +10738,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 104477,
       "name": "Lowest",
       "url": "https://open.spotify.com/track/7xO7DaKECDqukf1cr25LJd"
@@ -11048,7 +11120,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 225252,
       "name": "Mau Moko",
       "url": "https://open.spotify.com/track/7GEGSpjoraxIjBixahlNGq"
@@ -12030,7 +12102,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 114425,
       "name": "Next To Bleed",
       "url": "https://open.spotify.com/track/0QsSzy8TtvrHskTJ4CRjUe"
@@ -12386,7 +12458,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 206857,
       "name": "NO REVIVES",
       "url": "https://open.spotify.com/track/2Ev083dzx80UqK8kMBXVNT"
@@ -12422,7 +12494,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 207957,
       "name": "No Witness",
       "url": "https://open.spotify.com/track/62W3J2xwtIVn5Zo6qKqKOC"
@@ -14468,7 +14540,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 94510,
       "name": "realcocainemuzak",
       "url": "https://open.spotify.com/track/1dbTia2Rrl1Uym74PIvzde"
@@ -14768,7 +14840,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 204200,
       "name": "Remain Violent",
       "url": "https://open.spotify.com/track/2CXrH4eUWhusFmDk3PWpKX"
@@ -14884,7 +14956,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 215759,
       "name": "Return To One",
       "url": "https://open.spotify.com/track/3d4gBGDpByOnQXCcj0d8Uf"
@@ -14974,7 +15046,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 242984,
       "name": "River Of Sorrows",
       "url": "https://open.spotify.com/track/2X9xNcQnRPNLa9fUvl218u"
@@ -16704,7 +16776,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 68234,
       "name": "Standalone",
       "url": "https://open.spotify.com/track/5H63aGGsjcpDvzuqBZTV1o"
@@ -17347,6 +17419,24 @@
     },
     {
       "album": {
+        "name": "T.M.T.",
+        "url": "https://open.spotify.com/album/7EzPANLDyvK9VbgTUDDL9Q"
+      },
+      "artists": [
+        {
+          "name": "The S.E.T.",
+          "url": "https://open.spotify.com/artist/0Zj0IxZKZQu0Cc0veaM3IK"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82026,
+      "name": "T.M.T.",
+      "url": "https://open.spotify.com/track/7bvXaPBvLWWUUNRQQwL6SJ"
+    },
+    {
+      "album": {
         "name": "BARDO",
         "url": "https://open.spotify.com/album/7qtzAcIhb1cAN497UF6DY7"
       },
@@ -17434,7 +17524,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 257084,
       "name": "Taking Inventory Of A Frozen Lake",
       "url": "https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe"
@@ -17582,7 +17672,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 246853,
       "name": "Tendrils",
       "url": "https://open.spotify.com/track/7ggzbRpEY7hHkBP7z9Oxvo"
@@ -18687,6 +18777,24 @@
     },
     {
       "album": {
+        "name": "The Real You",
+        "url": "https://open.spotify.com/album/6RVPnpptZoMHjubHk3VjBX"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241480,
+      "name": "The Real You",
+      "url": "https://open.spotify.com/track/5ZeZSbuvupOAfm3zD73tp2"
+    },
+    {
+      "album": {
         "name": "The Reaper\u2019s Servant",
         "url": "https://open.spotify.com/album/5rfTMvJNvJyPdzxdyXfag8"
       },
@@ -19256,7 +19364,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 332226,
       "name": "To Live Deliciously",
       "url": "https://open.spotify.com/track/4svPYkuVpl9Lum5fLlEXMo"
@@ -19332,7 +19440,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 221218,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/6F4qSBCQTV36A4U8qBTAjS"

@@ -9683,6 +9683,24 @@
     },
     {
       "album": {
+        "name": "PERDIENDO LA FE",
+        "url": "https://open.spotify.com/album/3n9EzGc9xUORuDpZKoUDTI"
+      },
+      "artists": [
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168888,
+      "name": "PERDIENDO LA FE",
+      "url": "https://open.spotify.com/track/3zkwhhqwD0cQVflnuAuR5H"
+    },
+    {
+      "album": {
         "name": "PERRO",
         "url": "https://open.spotify.com/album/6umFNw6BRGDgECCNJQDxpj"
       },
@@ -10272,6 +10290,36 @@
       "duration_ms": 189473,
       "name": "Quiere Que Llame",
       "url": "https://open.spotify.com/track/22MC8VbKP6Qedbar74WkzU"
+    },
+    {
+      "album": {
+        "name": "QUIEREN BAJARME",
+        "url": "https://open.spotify.com/album/1hxlSUgIxHMDVjU0eJ3VKf"
+      },
+      "artists": [
+        {
+          "name": "Richwhite",
+          "url": "https://open.spotify.com/artist/4dQgP3wHnxxP3hemNxpFNC"
+        },
+        {
+          "name": "El BAI",
+          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
+        },
+        {
+          "name": "MONKI",
+          "url": "https://open.spotify.com/artist/6oPwW6uKZe6dSyXu5QjHC1"
+        },
+        {
+          "name": "OVEJAS NEGRAS RECORDS",
+          "url": "https://open.spotify.com/artist/0C853WJV0muxBmTAlqABUs"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "QUIEREN BAJARME",
+      "url": "https://open.spotify.com/track/62FRx2fr3zxgX7walwMBMM"
     },
     {
       "album": {

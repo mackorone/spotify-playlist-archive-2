@@ -1,13 +1,29 @@
 {
-  "description": "A new take on a classic sound. Cover: Sekou",
-  "num_followers": 386661,
+  "description": "A new take on a classic sound. Cover: Samm Henshaw",
+  "num_followers": 386791,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMrrjOoiqCYXXCMx19iE00Gz/di8",
+  "snapshot_id": "AAAAAO3ynwn7TYcxpCCLryk7kqkgWtsY",
   "tracks": [
+    {
+      "added_at": "2026-01-23 05:00:22",
+      "album": {
+        "name": "It Could Be Worse",
+        "url": "https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 215524,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7mvbNjFKdlpjnbcqocscuK"
+    },
     {
       "added_at": "2026-01-16 05:00:32",
       "album": {
@@ -1607,22 +1623,6 @@
       "duration_ms": 197120,
       "name": "Fools Expectation",
       "url": "https://open.spotify.com/track/2jhZ46Ayis8nKIAJyddI77"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Pasadena",
-        "url": "https://open.spotify.com/album/2a8MU7CF9WoSkoI40egc4l"
-      },
-      "artists": [
-        {
-          "name": "Micah Edwards",
-          "url": "https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs"
-        }
-      ],
-      "duration_ms": 285405,
-      "name": "Take Me There",
-      "url": "https://open.spotify.com/track/1rhaEalVdUQtjPpNTPk1Yk"
     },
     {
       "added_at": "2024-06-07 04:00:00",

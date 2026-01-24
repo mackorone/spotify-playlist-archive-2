@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Big Up",
-  "num_followers": 291516,
+  "num_followers": 291507,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,26 @@
     {
       "added_at": "2025-12-12 12:08:07",
       "album": {
+        "name": "Movimento R\u00e1pido dos Olhos",
+        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 243370,
+      "name": "Ver Em Cores",
+      "url": "https://open.spotify.com/track/2U0m94Ibhvj7UYhBfIwViP"
+    },
+    {
+      "added_at": "2025-12-12 12:08:07",
+      "album": {
         "name": "Barulho Das Ondas",
         "url": "https://open.spotify.com/album/4dz9jnGDmEIzi9YaKXC6c6"
       },
@@ -131,26 +151,6 @@
       "duration_ms": 208365,
       "name": "Barulho Das Ondas",
       "url": "https://open.spotify.com/track/4gdlltsXloVZhtJhPYw1PN"
-    },
-    {
-      "added_at": "2025-12-12 12:08:07",
-      "album": {
-        "name": "Movimento R\u00e1pido dos Olhos",
-        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 243370,
-      "name": "Ver Em Cores",
-      "url": "https://open.spotify.com/track/2U0m94Ibhvj7UYhBfIwViP"
     },
     {
       "added_at": "2025-12-12 12:08:07",
@@ -771,26 +771,6 @@
     {
       "added_at": "2025-12-12 12:08:07",
       "album": {
-        "name": "Vinho",
-        "url": "https://open.spotify.com/album/2uzAaxLP1X1JVNpN9kJa1h"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 176050,
-      "name": "t\u00e3o bem",
-      "url": "https://open.spotify.com/track/1BNDkF22V7G872oUwwQ5Ca"
-    },
-    {
-      "added_at": "2025-12-12 12:08:07",
-      "album": {
         "name": "Um Pouco Mais",
         "url": "https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 182586,
       "name": "Um Pouco Mais",
       "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
+    },
+    {
+      "added_at": "2025-12-12 12:08:07",
+      "album": {
+        "name": "Vinho",
+        "url": "https://open.spotify.com/album/2uzAaxLP1X1JVNpN9kJa1h"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 176050,
+      "name": "t\u00e3o bem",
+      "url": "https://open.spotify.com/track/1BNDkF22V7G872oUwwQ5Ca"
     },
     {
       "added_at": "2025-12-12 12:08:07",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2025-12-12 12:08:07",
       "album": {
-        "name": "Caro Vapor / Vida e Veneno de Don L",
-        "url": "https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK"
-      },
-      "artists": [
-        {
-          "name": "Don L",
-          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
-        },
-        {
-          "name": "Izabell Shamylla",
-          "url": "https://open.spotify.com/artist/6UYNE2SuiqJgaBIXIQ6XjN"
-        }
-      ],
-      "duration_ms": 184412,
-      "name": "Depois das Tr\u00eas",
-      "url": "https://open.spotify.com/track/2gQthJ9Xq8ghOQkJESERhK"
-    },
-    {
-      "added_at": "2025-12-12 12:08:07",
-      "album": {
         "name": "Toda Mal\u00e9vola",
         "url": "https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 147025,
       "name": "Nenhuma Outra Mulher",
       "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
+    },
+    {
+      "added_at": "2025-12-12 12:08:07",
+      "album": {
+        "name": "Caro Vapor / Vida e Veneno de Don L",
+        "url": "https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK"
+      },
+      "artists": [
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "Izabell Shamylla",
+          "url": "https://open.spotify.com/artist/6UYNE2SuiqJgaBIXIQ6XjN"
+        }
+      ],
+      "duration_ms": 184412,
+      "name": "Depois das Tr\u00eas",
+      "url": "https://open.spotify.com/track/2gQthJ9Xq8ghOQkJESERhK"
     },
     {
       "added_at": "2025-12-12 12:08:07",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2025-12-12 12:08:07",
       "album": {
-        "name": "AINDA T\u00d4 NO PROCESSO",
-        "url": "https://open.spotify.com/album/44OZLqQGTBzaV9QLM5EeEN"
-      },
-      "artists": [
-        {
-          "name": "Rafa Bicalho",
-          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
-        },
-        {
-          "name": "SEST",
-          "url": "https://open.spotify.com/artist/6TaJMoxhKD43q5yWg2XlHQ"
-        }
-      ],
-      "duration_ms": 211647,
-      "name": "AINDA T\u00d4 NO PROCESSO",
-      "url": "https://open.spotify.com/track/2ProqeIk4CM7ZmUmYCqUsQ"
-    },
-    {
-      "added_at": "2025-12-12 12:08:07",
-      "album": {
         "name": "PAZ",
         "url": "https://open.spotify.com/album/0EERtu0Qbd2RFSiNp3HGdN"
       },
@@ -1315,6 +1295,26 @@
     {
       "added_at": "2025-12-12 12:08:07",
       "album": {
+        "name": "AINDA T\u00d4 NO PROCESSO",
+        "url": "https://open.spotify.com/album/44OZLqQGTBzaV9QLM5EeEN"
+      },
+      "artists": [
+        {
+          "name": "Rafa Bicalho",
+          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
+        },
+        {
+          "name": "SEST",
+          "url": "https://open.spotify.com/artist/6TaJMoxhKD43q5yWg2XlHQ"
+        }
+      ],
+      "duration_ms": 211647,
+      "name": "AINDA T\u00d4 NO PROCESSO",
+      "url": "https://open.spotify.com/track/2ProqeIk4CM7ZmUmYCqUsQ"
+    },
+    {
+      "added_at": "2025-12-12 12:08:07",
+      "album": {
         "name": "Naquele Pique",
         "url": "https://open.spotify.com/album/5SWzPdChH478hSmhsKbISn"
       },
@@ -1335,6 +1335,30 @@
       "duration_ms": 190735,
       "name": "Naquele Pique",
       "url": "https://open.spotify.com/track/08OcEw37xpmZJX1yhBvQmg"
+    },
+    {
+      "added_at": "2025-12-12 12:08:07",
+      "album": {
+        "name": "Pra todo mundo que \u00e9 emocionado",
+        "url": "https://open.spotify.com/album/46UjoeZym2PUuLTmIZc1tg"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        },
+        {
+          "name": "EXQUE\u00c7A TUDO PAPAI",
+          "url": "https://open.spotify.com/artist/5jNs5i0CPbgCqc2ns08z3D"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+        }
+      ],
+      "duration_ms": 171585,
+      "name": "Pra todo mundo que \u00e9 emocionado",
+      "url": "https://open.spotify.com/track/6Hedc0amuGreddUN16w30s"
     },
     {
       "added_at": "2025-12-12 12:08:07",
@@ -1379,30 +1403,6 @@
       "duration_ms": 176000,
       "name": "O Que Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
-    },
-    {
-      "added_at": "2025-12-12 12:08:07",
-      "album": {
-        "name": "Pra todo mundo que \u00e9 emocionado",
-        "url": "https://open.spotify.com/album/46UjoeZym2PUuLTmIZc1tg"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        },
-        {
-          "name": "EXQUE\u00c7A TUDO PAPAI",
-          "url": "https://open.spotify.com/artist/5jNs5i0CPbgCqc2ns08z3D"
-        },
-        {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
-        }
-      ],
-      "duration_ms": 171585,
-      "name": "Pra todo mundo que \u00e9 emocionado",
-      "url": "https://open.spotify.com/track/6Hedc0amuGreddUN16w30s"
     },
     {
       "added_at": "2025-12-12 12:08:07",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2025-12-12 12:08:07",
       "album": {
-        "name": "Onda",
-        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 245714,
-      "name": "Meu I\u00f4 I\u00f4",
-      "url": "https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx"
-    },
-    {
-      "added_at": "2025-12-12 12:08:07",
-      "album": {
         "name": "Me Deixe S\u00f3",
         "url": "https://open.spotify.com/album/0b1UyJHazZPocxMljaURMy"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 138205,
       "name": "Magia",
       "url": "https://open.spotify.com/track/2dvPXUstjg81OAlx06pjB1"
+    },
+    {
+      "added_at": "2025-12-12 12:08:07",
+      "album": {
+        "name": "Onda",
+        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 245714,
+      "name": "Meu I\u00f4 I\u00f4",
+      "url": "https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx"
     },
     {
       "added_at": "2025-12-12 12:08:07",
@@ -1643,30 +1643,6 @@
     {
       "added_at": "2025-12-12 12:08:07",
       "album": {
-        "name": "O Amor \u00c9 Cego",
-        "url": "https://open.spotify.com/album/0xtIrrJED43w9Ic4mRi97g"
-      },
-      "artists": [
-        {
-          "name": "Dom R",
-          "url": "https://open.spotify.com/artist/0ucf3N9AACArceQVOowiD1"
-        },
-        {
-          "name": "Malto",
-          "url": "https://open.spotify.com/artist/5Jc1iI6AhyzZHsU5Av3kk0"
-        },
-        {
-          "name": "CP no Beat",
-          "url": "https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW"
-        }
-      ],
-      "duration_ms": 144444,
-      "name": "O Amor \u00c9 Cego",
-      "url": "https://open.spotify.com/track/5qVkfOE2iXVVWDj0aC5mN6"
-    },
-    {
-      "added_at": "2025-12-12 12:08:07",
-      "album": {
         "name": "Terapia Gr\u00e1tis",
         "url": "https://open.spotify.com/album/5msB5hJsTwO5JLdyfV0alp"
       },
@@ -1691,6 +1667,30 @@
       "duration_ms": 141352,
       "name": "Quadrado Formado",
       "url": "https://open.spotify.com/track/3aXko8H02cLdkto6j2J45I"
+    },
+    {
+      "added_at": "2025-12-12 12:08:07",
+      "album": {
+        "name": "O Amor \u00c9 Cego",
+        "url": "https://open.spotify.com/album/0xtIrrJED43w9Ic4mRi97g"
+      },
+      "artists": [
+        {
+          "name": "Dom R",
+          "url": "https://open.spotify.com/artist/0ucf3N9AACArceQVOowiD1"
+        },
+        {
+          "name": "Malto",
+          "url": "https://open.spotify.com/artist/5Jc1iI6AhyzZHsU5Av3kk0"
+        },
+        {
+          "name": "CP no Beat",
+          "url": "https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW"
+        }
+      ],
+      "duration_ms": 144444,
+      "name": "O Amor \u00c9 Cego",
+      "url": "https://open.spotify.com/track/5qVkfOE2iXVVWDj0aC5mN6"
     },
     {
       "added_at": "2025-12-12 12:08:07",

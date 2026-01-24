@@ -1,13 +1,177 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 22 Jan 19:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 24 Jan 23:04 UTC.",
   "num_followers": 103,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAXR+8QV3y+bxUyDQMHtgEM4xEQCRes",
+  "snapshot_id": "AAAXUYphioCzbo8FfaAw8KyfU8HUOJ4b",
   "tracks": [
+    {
+      "added_at": "2026-01-23 19:04:28",
+      "album": {
+        "name": "POP DAT THANG",
+        "url": "https://open.spotify.com/album/4coCUxqLrNyiAfm38MjF2d"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 138251,
+      "name": "POP DAT THANG",
+      "url": "https://open.spotify.com/track/0kav2DxndmxlsiT3pqXZjG"
+    },
+    {
+      "added_at": "2026-01-23 09:05:48",
+      "album": {
+        "name": "Last of a Dying Breed",
+        "url": "https://open.spotify.com/album/3ttt3IAhIjw42M0OXWbyJS"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 149866,
+      "name": "Last of a Dying Breed",
+      "url": "https://open.spotify.com/track/1c2ArpI0RmBOk62Tf81xLI"
+    },
+    {
+      "added_at": "2026-01-23 19:04:28",
+      "album": {
+        "name": "God's Eye",
+        "url": "https://open.spotify.com/album/5iPaMXX4jgANF9uiEERtxi"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 131653,
+      "name": "God\u2019s Eye",
+      "url": "https://open.spotify.com/track/3G600027WLRbsunHeYJ5G2"
+    },
+    {
+      "added_at": "2026-01-23 23:04:08",
+      "album": {
+        "name": "CUSTARD",
+        "url": "https://open.spotify.com/album/2g5DFWfSU835yrSmmpXgxb"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "duration_ms": 125205,
+      "name": "CUSTARD",
+      "url": "https://open.spotify.com/track/3Q75PhqqfvttaWHYOE08EI"
+    },
+    {
+      "added_at": "2026-01-23 09:05:48",
+      "album": {
+        "name": "I Could Get Used To This",
+        "url": "https://open.spotify.com/album/1Q6TuFF5GjmICIEVSkFCyd"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 221586,
+      "name": "I Could Get Used To This",
+      "url": "https://open.spotify.com/track/4m9uyukaB0AEC5BKZb5Svw"
+    },
+    {
+      "added_at": "2026-01-23 19:04:28",
+      "album": {
+        "name": "YESSA",
+        "url": "https://open.spotify.com/album/7wuu3YL70sJIhOrPYhT9Ty"
+      },
+      "artists": [
+        {
+          "name": "Summrs",
+          "url": "https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN"
+        }
+      ],
+      "duration_ms": 182278,
+      "name": "YESSA",
+      "url": "https://open.spotify.com/track/6jQvu4OsiBg3NXQFQI3r1B"
+    },
+    {
+      "added_at": "2026-01-23 09:05:48",
+      "album": {
+        "name": "To Love Somebody",
+        "url": "https://open.spotify.com/album/4H04wDfK72Ai0hCRIQ3FCq"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 238341,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/3vzGF0Wj2cnUPPRaDq9sHO"
+    },
+    {
+      "added_at": "2026-01-23 09:05:48",
+      "album": {
+        "name": "iPhone 16",
+        "url": "https://open.spotify.com/album/1C3fLq81mnNcen9RS0MAgC"
+      },
+      "artists": [
+        {
+          "name": "xaviersobased",
+          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
+        }
+      ],
+      "duration_ms": 231728,
+      "name": "iPhone 16",
+      "url": "https://open.spotify.com/track/1m2uFz0LKl3jyniLBrUzGq"
+    },
+    {
+      "added_at": "2026-01-23 09:05:48",
+      "album": {
+        "name": "Do It (Yves Remix)",
+        "url": "https://open.spotify.com/album/0GuK2xpYuOvNbFqhRuSRa3"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        },
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        }
+      ],
+      "duration_ms": 197298,
+      "name": "Do It (Yves Remix)",
+      "url": "https://open.spotify.com/track/27v8QdBidbC5idqWHqPBBj"
+    },
+    {
+      "added_at": "2026-01-23 04:04:43",
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
+    },
     {
       "added_at": "2026-01-22 19:04:37",
       "album": {
@@ -45,6 +209,38 @@
       "url": "https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6"
     },
     {
+      "added_at": "2026-01-23 19:04:28",
+      "album": {
+        "name": "Feels Like Heaven",
+        "url": "https://open.spotify.com/album/5SaGyl331ck5Z5CQaIntGz"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Feels Like Heaven",
+      "url": "https://open.spotify.com/track/1jWjsj9YKDoYhTVoZnSivY"
+    },
+    {
+      "added_at": "2026-01-23 14:04:22",
+      "album": {
+        "name": "Flo Jackson",
+        "url": "https://open.spotify.com/album/7a50cJvGdEO7AfkEvOoCFS"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 143444,
+      "name": "Flo Jackson",
+      "url": "https://open.spotify.com/track/4fwJzG3arwvfC1ZbRdracJ"
+    },
+    {
       "added_at": "2026-01-21 19:04:12",
       "album": {
         "name": "Imposter",
@@ -59,6 +255,22 @@
       "duration_ms": 158238,
       "name": "Imposter",
       "url": "https://open.spotify.com/track/5VqWwnkDTHNz3oXdlh2jn7"
+    },
+    {
+      "added_at": "2026-01-23 04:04:43",
+      "album": {
+        "name": "\u539f",
+        "url": "https://open.spotify.com/album/4qTTzaU30PLhLJmD6lLzFm"
+      },
+      "artists": [
+        {
+          "name": "ONEUS",
+          "url": "https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Grenade",
+      "url": "https://open.spotify.com/track/69erutIC5E9VFHtDKerTkd"
     },
     {
       "added_at": "2026-01-21 19:04:12",
@@ -635,218 +847,6 @@
       "duration_ms": 338120,
       "name": "THE THING",
       "url": "https://open.spotify.com/track/43EE1xyVwIskJP13cJZJ6j"
-    },
-    {
-      "added_at": "2026-01-14 23:03:42",
-      "album": {
-        "name": "NOT TODAY",
-        "url": "https://open.spotify.com/album/0CN3gBzAW6mYrtmyBavIqs"
-      },
-      "artists": [
-        {
-          "name": "Kim Gordon",
-          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
-        }
-      ],
-      "duration_ms": 215286,
-      "name": "NOT TODAY",
-      "url": "https://open.spotify.com/track/1tXniZMdXRV8FyUZHN51eS"
-    },
-    {
-      "added_at": "2026-01-16 09:03:56",
-      "album": {
-        "name": "Better Than",
-        "url": "https://open.spotify.com/album/0OxuGe0rcm9uJmvedr2wMS"
-      },
-      "artists": [
-        {
-          "name": "d\u00e4lek",
-          "url": "https://open.spotify.com/artist/1zDrsLJJfYel0jJruLe4Yp"
-        }
-      ],
-      "duration_ms": 258404,
-      "name": "Better Than",
-      "url": "https://open.spotify.com/track/2cC2Oykfq7leX6Z894GvOs"
-    },
-    {
-      "added_at": "2026-01-15 23:03:27",
-      "album": {
-        "name": "First Light",
-        "url": "https://open.spotify.com/album/48LFXjxkeU8fobSL4Wzs4U"
-      },
-      "artists": [
-        {
-          "name": "E L U C I D",
-          "url": "https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB"
-        },
-        {
-          "name": "Sebb Bash",
-          "url": "https://open.spotify.com/artist/3NAVgoymGp2cN3rlqi7Hu5"
-        }
-      ],
-      "duration_ms": 198490,
-      "name": "First Light",
-      "url": "https://open.spotify.com/track/1ZnGp63y8u3kyEzIyPRooQ"
-    },
-    {
-      "added_at": "2026-01-14 04:04:03",
-      "album": {
-        "name": "2SIDED",
-        "url": "https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 177473,
-      "name": "2SIDED",
-      "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
-    },
-    {
-      "added_at": "2026-01-18 19:04:05",
-      "album": {
-        "name": "We Were Never The Same",
-        "url": "https://open.spotify.com/album/53yI8BS9n5ujuSs7A7vMJM"
-      },
-      "artists": [
-        {
-          "name": "Converge",
-          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
-        }
-      ],
-      "duration_ms": 253169,
-      "name": "We Were Never the Same",
-      "url": "https://open.spotify.com/track/7z37xqq3y94KyVl7VWB88x"
-    },
-    {
-      "added_at": "2026-01-14 14:04:17",
-      "album": {
-        "name": "Limb of Leviticus",
-        "url": "https://open.spotify.com/album/5PzHcss6y39tLIeqL5VvH8"
-      },
-      "artists": [
-        {
-          "name": "Archspire",
-          "url": "https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih"
-        }
-      ],
-      "duration_ms": 342911,
-      "name": "Limb of Leviticus",
-      "url": "https://open.spotify.com/track/0HlX69ZzpBbm5epqZohOxD"
-    },
-    {
-      "added_at": "2026-01-14 09:04:28",
-      "album": {
-        "name": "Glory Black",
-        "url": "https://open.spotify.com/album/6c9esQpP4dgkqqLdWEyBKX"
-      },
-      "artists": [
-        {
-          "name": "sunn O)))",
-          "url": "https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J"
-        }
-      ],
-      "duration_ms": 625600,
-      "name": "Glory Black",
-      "url": "https://open.spotify.com/track/6E6g94L9v7DM9jLFCm9T98"
-    },
-    {
-      "added_at": "2026-01-13 23:04:36",
-      "album": {
-        "name": "Thoroughbreds",
-        "url": "https://open.spotify.com/album/5RhKFclwguoGY9QTRmKA0g"
-      },
-      "artists": [
-        {
-          "name": "Poison The Well",
-          "url": "https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx"
-        }
-      ],
-      "duration_ms": 204773,
-      "name": "Thoroughbreds",
-      "url": "https://open.spotify.com/track/1c4Oq2SYTnRzt1gg4zCl9q"
-    },
-    {
-      "added_at": "2026-01-14 19:03:50",
-      "album": {
-        "name": "L.U.C.K.Y",
-        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 138706,
-      "name": "L.U.C.K.Y",
-      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
-    },
-    {
-      "added_at": "2026-01-13 09:05:23",
-      "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/68VH68e8EI3jXMF151Trf3"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 172191,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/6rjpIfWNWwzg7hd1KxDK5f"
-    },
-    {
-      "added_at": "2026-01-16 19:03:56",
-      "album": {
-        "name": "SWING FIRST!",
-        "url": "https://open.spotify.com/album/6e0K4Iqs02XrYRnGLFizwo"
-      },
-      "artists": [
-        {
-          "name": "Perry Maysun",
-          "url": "https://open.spotify.com/artist/7F4201ESA6AFfxjHpb9Bc0"
-        }
-      ],
-      "duration_ms": 93882,
-      "name": "SWING FIRST!",
-      "url": "https://open.spotify.com/track/5Lml3cK67HrcMDOxaG6prT"
-    },
-    {
-      "added_at": "2026-01-15 19:03:40",
-      "album": {
-        "name": "M-TRAIN",
-        "url": "https://open.spotify.com/album/3wGKTqt1SvhNEzGE2pG3A8"
-      },
-      "artists": [
-        {
-          "name": "Buckshot",
-          "url": "https://open.spotify.com/artist/0HPG2EIdGCP6gjXW0KzrJq"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "M-TRAIN",
-      "url": "https://open.spotify.com/track/2BlcNm2vzejDiZD9MXbnny"
-    },
-    {
-      "added_at": "2026-01-09 09:04:32",
-      "album": {
-        "name": "I Just Might",
-        "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "I Just Might",
-      "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
     }
   ],
   "unique_name": "New Singles Now",

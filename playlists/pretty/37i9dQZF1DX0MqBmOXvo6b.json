@@ -1,6 +1,6 @@
 {
   "description": "Conc\u00e9ntrate al m\u00e1ximo, sin distracciones.",
-  "num_followers": 432286,
+  "num_followers": 432309,
   "original_name": "Concentraci\u00f3n Perfecta",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Lonely Lights",
-        "url": "https://open.spotify.com/album/7zERRdz6JnH1qndyc2KExU"
-      },
-      "artists": [
-        {
-          "name": "Into the Harmonies",
-          "url": "https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h"
-        }
-      ],
-      "duration_ms": 155040,
-      "name": "Lonely Lights",
-      "url": "https://open.spotify.com/track/06W2idQQI9nToYkue7MSVw"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "Ti Vedo",
         "url": "https://open.spotify.com/album/7yJ9ZwO2t7fI2gYRDi7vIS"
       },
@@ -299,22 +283,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Hivon",
-        "url": "https://open.spotify.com/album/23jcFelRsPzQYacsgJ2HDI"
-      },
-      "artists": [
-        {
-          "name": "Xaverius Love",
-          "url": "https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97"
-        }
-      ],
-      "duration_ms": 162430,
-      "name": "Hivon",
-      "url": "https://open.spotify.com/track/4R5hrJSecDyvtD80GZLAGs"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "Sound Of Mind",
         "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
       },
@@ -327,6 +295,38 @@
       "duration_ms": 122998,
       "name": "Sound Of Mind",
       "url": "https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "Lonely Lights",
+        "url": "https://open.spotify.com/album/7zERRdz6JnH1qndyc2KExU"
+      },
+      "artists": [
+        {
+          "name": "Into the Harmonies",
+          "url": "https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h"
+        }
+      ],
+      "duration_ms": 155040,
+      "name": "Lonely Lights",
+      "url": "https://open.spotify.com/track/06W2idQQI9nToYkue7MSVw"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "Hivon",
+        "url": "https://open.spotify.com/album/23jcFelRsPzQYacsgJ2HDI"
+      },
+      "artists": [
+        {
+          "name": "Xaverius Love",
+          "url": "https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97"
+        }
+      ],
+      "duration_ms": 162430,
+      "name": "Hivon",
+      "url": "https://open.spotify.com/track/4R5hrJSecDyvtD80GZLAGs"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Selune",
-        "url": "https://open.spotify.com/album/0xBoXnHXJiGTKaZMOEOxEW"
-      },
-      "artists": [
-        {
-          "name": "Ignacio Montoya",
-          "url": "https://open.spotify.com/artist/4XBctiZfMg9kgOPlqfLgFA"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Selune",
-      "url": "https://open.spotify.com/track/7F15kgxMXvvLXOwJvDXMjo"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "The Heart Remembers",
         "url": "https://open.spotify.com/album/328whVCkslvYFWvreH7BAJ"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 153681,
       "name": "The Heart Remembers",
       "url": "https://open.spotify.com/track/0yLqLsRqfODfUMYyUbOnqb"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "Selune",
+        "url": "https://open.spotify.com/album/0xBoXnHXJiGTKaZMOEOxEW"
+      },
+      "artists": [
+        {
+          "name": "Ignacio Montoya",
+          "url": "https://open.spotify.com/artist/4XBctiZfMg9kgOPlqfLgFA"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Selune",
+      "url": "https://open.spotify.com/track/7F15kgxMXvvLXOwJvDXMjo"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
+        "name": "Into the Unknown",
+        "url": "https://open.spotify.com/album/4LEyZZo2zNN9kmBiaQSKiR"
+      },
+      "artists": [
+        {
+          "name": "Mont Eval",
+          "url": "https://open.spotify.com/artist/0QRraRSvyFyBeQLp44amC4"
+        }
+      ],
+      "duration_ms": 172097,
+      "name": "Into the Unknown",
+      "url": "https://open.spotify.com/track/58fzqWnRTNaQsUM8pVeyoY"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 124361,
       "name": "Meltwater",
       "url": "https://open.spotify.com/track/4BG2ZezVv6JF9Wf8i86Oaz"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
-        "name": "Into the Unknown",
-        "url": "https://open.spotify.com/album/4LEyZZo2zNN9kmBiaQSKiR"
-      },
-      "artists": [
-        {
-          "name": "Mont Eval",
-          "url": "https://open.spotify.com/artist/0QRraRSvyFyBeQLp44amC4"
-        }
-      ],
-      "duration_ms": 172097,
-      "name": "Into the Unknown",
-      "url": "https://open.spotify.com/track/58fzqWnRTNaQsUM8pVeyoY"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Desde el alma",
-        "url": "https://open.spotify.com/album/5ET1TQqwwpsQhU17Y0QlBU"
-      },
-      "artists": [
-        {
-          "name": "Justin Dell",
-          "url": "https://open.spotify.com/artist/7nQzEyE1TWkfthJfE0fs43"
-        }
-      ],
-      "duration_ms": 129375,
-      "name": "Desde el alma",
-      "url": "https://open.spotify.com/track/1e1WFPBz50KtAuNyHitfW4"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "somewhere else, together",
         "url": "https://open.spotify.com/album/1qLrUd6oXUZoNGZAVY8mDX"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 189108,
       "name": "somewhere else, together",
       "url": "https://open.spotify.com/track/4Pl37bufUvxJOhLJIfLCcl"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "Desde el alma",
+        "url": "https://open.spotify.com/album/5ET1TQqwwpsQhU17Y0QlBU"
+      },
+      "artists": [
+        {
+          "name": "Justin Dell",
+          "url": "https://open.spotify.com/artist/7nQzEyE1TWkfthJfE0fs43"
+        }
+      ],
+      "duration_ms": 129375,
+      "name": "Desde el alma",
+      "url": "https://open.spotify.com/track/1e1WFPBz50KtAuNyHitfW4"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Reiu",
-        "url": "https://open.spotify.com/album/6B1jZ2AcMmNEL2uEAe7Lyu"
-      },
-      "artists": [
-        {
-          "name": "Daigo Hanada",
-          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Reiu",
-      "url": "https://open.spotify.com/track/6tHX5oWkiY54sB0olbYkcF"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "Ing\u00e9nue",
         "url": "https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 168333,
       "name": "Rowan",
       "url": "https://open.spotify.com/track/2Kc5LcEp1QG3tCTI4Bi21n"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "Reiu",
+        "url": "https://open.spotify.com/album/6B1jZ2AcMmNEL2uEAe7Lyu"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Reiu",
+      "url": "https://open.spotify.com/track/6tHX5oWkiY54sB0olbYkcF"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Motian",
-        "url": "https://open.spotify.com/album/3TYbUe8YQXclwpn5JZ4xIs"
-      },
-      "artists": [
-        {
-          "name": "Linior",
-          "url": "https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw"
-        }
-      ],
-      "duration_ms": 164588,
-      "name": "Motian",
-      "url": "https://open.spotify.com/track/5lmgIDksEoi9vVf0jzcaTs"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "Beckoning",
         "url": "https://open.spotify.com/album/52s8Slpn2zsl7L7SoASh5a"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 132509,
       "name": "It Rained Last Night",
       "url": "https://open.spotify.com/track/6qyDcsKoXj1wI26xlXSljM"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "Motian",
+        "url": "https://open.spotify.com/album/3TYbUe8YQXclwpn5JZ4xIs"
+      },
+      "artists": [
+        {
+          "name": "Linior",
+          "url": "https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw"
+        }
+      ],
+      "duration_ms": 164588,
+      "name": "Motian",
+      "url": "https://open.spotify.com/track/5lmgIDksEoi9vVf0jzcaTs"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Velvet Veil",
-        "url": "https://open.spotify.com/album/3mPx3ciX3EZW6mycZJ0kcI"
-      },
-      "artists": [
-        {
-          "name": "Crimson Memoirs",
-          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
-        }
-      ],
-      "duration_ms": 123479,
-      "name": "Velvet Veil",
-      "url": "https://open.spotify.com/track/5xhkpxHVg0FkJrL6lMRGCx"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "Forever Yours",
         "url": "https://open.spotify.com/album/373hZdOKeVNCwLsi7VZRJN"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 142105,
       "name": "Forever Yours",
       "url": "https://open.spotify.com/track/2Fa4HWhnE7oiWdiHnjv3aD"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "Velvet Veil",
+        "url": "https://open.spotify.com/album/3mPx3ciX3EZW6mycZJ0kcI"
+      },
+      "artists": [
+        {
+          "name": "Crimson Memoirs",
+          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
+        }
+      ],
+      "duration_ms": 123479,
+      "name": "Velvet Veil",
+      "url": "https://open.spotify.com/track/5xhkpxHVg0FkJrL6lMRGCx"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Southern Air",
-        "url": "https://open.spotify.com/album/6q7W9ZSRvSUvxR8PF1be6G"
-      },
-      "artists": [
-        {
-          "name": "Skaresn\u00f8",
-          "url": "https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA"
-        }
-      ],
-      "duration_ms": 226835,
-      "name": "Southern Air",
-      "url": "https://open.spotify.com/track/1WiDUpSUjuQkOzOCvbSkzY"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "Autumnal",
         "url": "https://open.spotify.com/album/7a7f6qmks202aOFuAfomMM"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 124416,
       "name": "Autumnal",
       "url": "https://open.spotify.com/track/6i653T49GCokF7aFcgG76h"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "Southern Air",
+        "url": "https://open.spotify.com/album/6q7W9ZSRvSUvxR8PF1be6G"
+      },
+      "artists": [
+        {
+          "name": "Skaresn\u00f8",
+          "url": "https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA"
+        }
+      ],
+      "duration_ms": 226835,
+      "name": "Southern Air",
+      "url": "https://open.spotify.com/track/1WiDUpSUjuQkOzOCvbSkzY"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Marche Lente",
-        "url": "https://open.spotify.com/album/46NsQ6HlgrCGQsx2lK37wN"
-      },
-      "artists": [
-        {
-          "name": "Zander Shaelyn",
-          "url": "https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy"
-        }
-      ],
-      "duration_ms": 131436,
-      "name": "Marche Lente",
-      "url": "https://open.spotify.com/track/3kLDZA1jJMdrqnejdjhPpB"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "Interim",
         "url": "https://open.spotify.com/album/1P6PbFhwgTaXXjsl9H6Nh0"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 139124,
       "name": "Interim",
       "url": "https://open.spotify.com/track/60CfZTCT1iHQdnjNrnvpZP"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "Marche Lente",
+        "url": "https://open.spotify.com/album/46NsQ6HlgrCGQsx2lK37wN"
+      },
+      "artists": [
+        {
+          "name": "Zander Shaelyn",
+          "url": "https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy"
+        }
+      ],
+      "duration_ms": 131436,
+      "name": "Marche Lente",
+      "url": "https://open.spotify.com/track/3kLDZA1jJMdrqnejdjhPpB"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "haverdal",
-        "url": "https://open.spotify.com/album/5ONeHMUpDcjoL9rPwc2pZY"
-      },
-      "artists": [
-        {
-          "name": "rein\u00eb",
-          "url": "https://open.spotify.com/artist/4KMRoxw1UPjNsfY53yIfYR"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "haverdal",
-      "url": "https://open.spotify.com/track/0yCNW5tD9V7PlAzGtByxiQ"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/6qKgI8XrspuFdKoIMZx8OQ"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 136750,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/13ZdrqLb7T8qeZktOecD6I"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "haverdal",
+        "url": "https://open.spotify.com/album/5ONeHMUpDcjoL9rPwc2pZY"
+      },
+      "artists": [
+        {
+          "name": "rein\u00eb",
+          "url": "https://open.spotify.com/artist/4KMRoxw1UPjNsfY53yIfYR"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "haverdal",
+      "url": "https://open.spotify.com/track/0yCNW5tD9V7PlAzGtByxiQ"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -2155,18 +2155,18 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Open Window",
-        "url": "https://open.spotify.com/album/3YiONYPqiN8RuWTgGY3wBE"
+        "name": "Quiet Suns",
+        "url": "https://open.spotify.com/album/1Bmt8Tgb1ofB11VNUGLZzc"
       },
       "artists": [
         {
-          "name": "Aurelian Juno",
-          "url": "https://open.spotify.com/artist/0clWZsJkYSrFdmUkQygfiQ"
+          "name": "Skaresn\u00f8",
+          "url": "https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Open Window",
-      "url": "https://open.spotify.com/track/3OBNyirkkJ5olw2qoLrOxg"
+      "duration_ms": 131374,
+      "name": "Quiet Suns",
+      "url": "https://open.spotify.com/track/14bchJRy9GEEC8Ctb9YBPr"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -2187,18 +2187,18 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Quiet Suns",
-        "url": "https://open.spotify.com/album/1Bmt8Tgb1ofB11VNUGLZzc"
+        "name": "Open Window",
+        "url": "https://open.spotify.com/album/3YiONYPqiN8RuWTgGY3wBE"
       },
       "artists": [
         {
-          "name": "Skaresn\u00f8",
-          "url": "https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA"
+          "name": "Aurelian Juno",
+          "url": "https://open.spotify.com/artist/0clWZsJkYSrFdmUkQygfiQ"
         }
       ],
-      "duration_ms": 131374,
-      "name": "Quiet Suns",
-      "url": "https://open.spotify.com/track/14bchJRy9GEEC8Ctb9YBPr"
+      "duration_ms": 146000,
+      "name": "Open Window",
+      "url": "https://open.spotify.com/track/3OBNyirkkJ5olw2qoLrOxg"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Affection",
-        "url": "https://open.spotify.com/album/13FzOtSVQw5IaMhGabmVhR"
-      },
-      "artists": [
-        {
-          "name": "Robert Gafforelli",
-          "url": "https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7"
-        }
-      ],
-      "duration_ms": 207219,
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/3C9XQnp8aNwSoyPhf1by3z"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "Veiled Memory",
         "url": "https://open.spotify.com/album/5uaz6CNRu055gCdLSJVLEt"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 135437,
       "name": "Veiled Memory",
       "url": "https://open.spotify.com/track/56owYDwyHyN0211FP8X9UD"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/13FzOtSVQw5IaMhGabmVhR"
+      },
+      "artists": [
+        {
+          "name": "Robert Gafforelli",
+          "url": "https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7"
+        }
+      ],
+      "duration_ms": 207219,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/3C9XQnp8aNwSoyPhf1by3z"
     },
     {
       "added_at": "2026-01-06 14:26:54",

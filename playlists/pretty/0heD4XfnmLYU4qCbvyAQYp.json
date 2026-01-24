@@ -1,13 +1,29 @@
 {
   "description": "The best  indie rock tracks. | Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc.  Submit on IG @reinhardzwisler Cover: Lord Huron",
-  "num_followers": 4753,
+  "num_followers": 4755,
   "original_name": "Indie Rock",
   "owner": {
     "name": "Reinhard Zwisler",
     "url": "https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi"
   },
-  "snapshot_id": "AAAOSFhoFBHDB1vQ6sFuW2s9HW9zuemG",
+  "snapshot_id": "AAAOSS8ksx7c6GDXMt9wGMrNfbf69Kej",
   "tracks": [
+    {
+      "added_at": "2026-01-23 14:24:19",
+      "album": {
+        "name": "My Black Cat",
+        "url": "https://open.spotify.com/album/49uQEZJ4QJxkN5dUQ49AZ2"
+      },
+      "artists": [
+        {
+          "name": "Nukehole",
+          "url": "https://open.spotify.com/artist/68Qg8Ukjg5zs3PimhwUBKZ"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "My Black Cat",
+      "url": "https://open.spotify.com/track/1W7tQ70CJsbIpS0jTERKdM"
+    },
     {
       "added_at": "2026-01-15 08:27:54",
       "album": {

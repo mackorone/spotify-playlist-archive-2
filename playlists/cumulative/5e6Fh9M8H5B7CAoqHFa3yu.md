@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,742 songs - 4 day 9 hr 20 min
+1,744 songs - 4 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Burned out](https://open.spotify.com/track/1nDu8QwH1aTKMgbpqWdH6i) | [Air Vibration](https://open.spotify.com/artist/3ScG84iDoG9YBdTg4tFVDu) | [Burned out](https://open.spotify.com/album/5i1G5taACyPRRrrABEsUGu) | 2:28 | 2025-08-30 |  |
 | [Butter Knife Suicide](https://open.spotify.com/track/4UFIHH6jju7CCmFa7eouek) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [New Old Friends xx](https://open.spotify.com/album/56h5V73ud9WeiTURv7u5sv) | 2:35 | 2025-07-02 |  |
 | [Butterflies](https://open.spotify.com/track/3PeEK7n2owEXfa7Ojpoy2D) | [Lashen](https://open.spotify.com/artist/1kTD6kqgOK4t6CVVxyZKmk), [NIKA](https://open.spotify.com/artist/4tHNHIdrIoszQOYwOlZZPf) | [Butterflies](https://open.spotify.com/album/0M5CYxvZKqNG0XcmXsHkTG) | 2:23 | 2025-06-24 |  |
+| [Butterfly Kiss](https://open.spotify.com/track/1t4p0VwndjAOsMjd8Pa1C3) | [Eufrocina Manigos and Eyvind Bilstad](https://open.spotify.com/artist/31q4JP429LpIl1OEibwldo) | [Butterfly Kiss](https://open.spotify.com/album/3M4YLDUmXNLIzPDoFv8wGF) | 4:28 | 2026-01-23 |  |
 | [Bye Bye](https://open.spotify.com/track/2c0Br2XmtrDwC8YvG3I7KL) | [Mikey Dub](https://open.spotify.com/artist/7rRgU2EvtyQkvbywoymLUD), [Clotilde](https://open.spotify.com/artist/1uIRR9HxLJZjvwRPTOnihu) | [Triumphant Riddim](https://open.spotify.com/album/2aSJwBDyD7s2dExpXvNL1h) | 4:34 | 2024-03-10 |  |
 | [Bye Bye \- Dub](https://open.spotify.com/track/0fCgxRvAMW8wJdOjH7xvJa) | [Mikey Dub](https://open.spotify.com/artist/7rRgU2EvtyQkvbywoymLUD), [Clotilde](https://open.spotify.com/artist/1uIRR9HxLJZjvwRPTOnihu) | [Triumphant Riddim](https://open.spotify.com/album/2aSJwBDyD7s2dExpXvNL1h) | 4:20 | 2024-05-04 |  |
 | [Call U Back](https://open.spotify.com/track/47HdXfgydiy53cEiD6lhU5) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Call U Back](https://open.spotify.com/album/3Pbiv3ZCM6WWehbB0nj2It) | 3:04 | 2025-09-21 |  |
@@ -1357,6 +1358,7 @@
 | [Siamo perduti](https://open.spotify.com/track/2KFK8mkYe4OwT2XxDcZlcm) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Siamo perduti](https://open.spotify.com/album/4j9UylK8c7HBB9dTqsZ3Ub) | 3:31 | 2025-10-07 |  |
 | [Sifu Dub](https://open.spotify.com/track/2jt4OEs5s3lnH0w2WRJ7eB) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [Sky Warrior Dub](https://open.spotify.com/album/6mgr4wFK7XSJOdmapRBjun) | 4:22 | 2024-05-01 |  |
 | [Silent Celestial Skies](https://open.spotify.com/track/5s96KU4wa7HMOlnGsxVTKZ) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [Silent Celestial Skies](https://open.spotify.com/album/242noPJokuU8lC7gRWkOAt) | 2:21 | 2025-08-01 |  |
+| [silhouette](https://open.spotify.com/track/09NzL0ub22tTmCzFdy1XtS) | [LadyBoy](https://open.spotify.com/artist/3EyEQIrSwLWmL5WikGao8Q) | [silhouette](https://open.spotify.com/album/6fPCeSZ7FEeCckpd2h0bqZ) | 3:54 | 2026-01-23 |  |
 | [Silvera](https://open.spotify.com/track/5uunXHE4kIW6uS4HWAXaOQ) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 3:32 | 2024-03-04 |  |
 | [Simbiosi](https://open.spotify.com/track/2E7Niwt0ctX2UFFFkOHSJy) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Simbiosi](https://open.spotify.com/album/3m9bpUA8SKQlad2VpZM0k4) | 3:09 | 2023-05-21 |  |
 | [Simon](https://open.spotify.com/track/2YkxXQwRIyCO8s0gbFNHVp) | [Christian Hilo](https://open.spotify.com/artist/0FSEh0hzHpwxOOJhGO3QB3) | [Simon](https://open.spotify.com/album/1Yezyrl1mfS7bxvgXARgIs) | 4:02 | 2025-06-24 |  |

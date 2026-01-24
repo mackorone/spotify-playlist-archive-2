@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,953 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,081 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 71 | [Unx100to](https://open.spotify.com/track/7kr36sySH1DHmWxII9fGou) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Un x100to](https://open.spotify.com/album/4SKmMNd4CTjfgWLX3YpJJe) | 3:24 |
 | 72 | [Ojalá Que No Puedas](https://open.spotify.com/track/2VoXXbqULk6GZf0lhEi2bl) | [Ezequiel El Brujo](https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk) | [La Gorda Me Quiere](https://open.spotify.com/album/3i1Lfo5HXErBC2AIq9RN63) | 3:12 |
 | 73 | [Mil preguntas](https://open.spotify.com/track/1sWSkjycfa70S1zcn0zWA3) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Mil preguntas](https://open.spotify.com/album/7lza5ZZmSVr77GQhfiSgjs) | 3:09 |
-| 74 | [Se que me extraña / El no es mejor que yo / Anda / Vienes a pedir Perdón / La Morocha](https://open.spotify.com/track/2j4MmBMy3cifR0MZrr6ndu) | [Los Amantes](https://open.spotify.com/artist/0q3fDLNtzfvjdbkeYteCsq), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Se que me extraña / El no es mejor que yo / Anda / Vienes a pedir Perdón / La Morocha](https://open.spotify.com/album/7z9ypqgQPktGexQMhC9B0U) | 6:55 |
+| 74 | [Apaga La Tele](https://open.spotify.com/track/17OogyvdcPn6PWaIi7vyGC) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1) | [Apaga La Tele](https://open.spotify.com/album/516Bdm6YI9yiG7OCCl6TZy) | 2:54 |
 | 75 | [Antes](https://open.spotify.com/track/2WkYydyAY8QsFhy16KgsCY) | [Cumbia Viva](https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS), [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Cumbia Viva Sesion \#13 Walter Encina](https://open.spotify.com/album/2aPJEbhBwr52NO4yLre2pd) | 1:52 |
-| 76 | [Apaga La Tele](https://open.spotify.com/track/17OogyvdcPn6PWaIi7vyGC) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1) | [Apaga La Tele](https://open.spotify.com/album/516Bdm6YI9yiG7OCCl6TZy) | 2:54 |
+| 76 | [Se que me extraña / El no es mejor que yo / Anda / Vienes a pedir Perdón / La Morocha](https://open.spotify.com/track/2j4MmBMy3cifR0MZrr6ndu) | [Los Amantes](https://open.spotify.com/artist/0q3fDLNtzfvjdbkeYteCsq), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Se que me extraña / El no es mejor que yo / Anda / Vienes a pedir Perdón / La Morocha](https://open.spotify.com/album/7z9ypqgQPktGexQMhC9B0U) | 6:55 |
 | 77 | [Mejor Perderla Que Encontrarla](https://open.spotify.com/track/3E50uUWb93FrCF7tYJFid0) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [20 Grandes Éxitos](https://open.spotify.com/album/1y6ODDrdp8f3kFQ4GLCXS3) | 2:15 |
 | 78 | [No se va](https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [No se va](https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0) | 4:18 |
 | 79 | [Hasta el Sol de Hoy \- En Vivo](https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy) | [Mario Pereyra y Su Banda](https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y) | [El Aguante Continúa...En Concierto \(En Vivo\)](https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a) | 2:17 |

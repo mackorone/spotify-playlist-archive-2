@@ -3716,7 +3716,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 123413,
       "name": "Drown",
       "url": "https://open.spotify.com/track/4DodEZ7QhNJugb1xGMHtQG"
@@ -3882,7 +3882,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 203500,
       "name": "easy",
       "url": "https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH"
@@ -7752,6 +7752,24 @@
       "duration_ms": 138155,
       "name": "mahogany",
       "url": "https://open.spotify.com/track/5kfT4wqQPUX94Ske9tAg6k"
+    },
+    {
+      "album": {
+        "name": "Main Street",
+        "url": "https://open.spotify.com/album/4ONR8o84lc4n959ckanNsF"
+      },
+      "artists": [
+        {
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144157,
+      "name": "Main Street",
+      "url": "https://open.spotify.com/track/5VRz3nM0qDYzbyJ4gVY4oX"
     },
     {
       "album": {
@@ -15814,6 +15832,28 @@
       "duration_ms": 197923,
       "name": "\u79e9\u7236",
       "url": "https://open.spotify.com/track/5Ppgh0p36VFv6tyz1ouT2f"
+    },
+    {
+      "album": {
+        "name": "\u7b2c\u4e8c\u5fc3 (Dainishin)",
+        "url": "https://open.spotify.com/album/78oTBSWxd86gNnwNf4XOTi"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Nagipan",
+          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230070,
+      "name": "\u7b2c\u4e8c\u5fc3 (Dainishin)",
+      "url": "https://open.spotify.com/track/1nnl5SqTlN9PNY9xFcSC26"
     },
     {
       "album": {

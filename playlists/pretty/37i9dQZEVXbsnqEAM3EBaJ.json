@@ -6,10 +6,310 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWmpsAAAAAB4VA6qkPs4t269+cy/G9uE",
+  "snapshot_id": "aXLkMAAAAACoCZZaApZhKO7bV/X5edJA",
   "tracks": [
     {
-      "added_at": "2026-01-16 03:00:00",
+      "added_at": "2026-01-23 03:00:00",
+      "album": {
+        "name": "Megadeth",
+        "url": "https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 371228,
+      "name": "Ride The Lightning (Bonus Track)",
+      "url": "https://open.spotify.com/track/1ID9SzJR4OFRwinOqYlJf4"
+    },
+    {
+      "added_at": "2026-01-23 03:00:00",
+      "album": {
+        "name": "JANE DOE (from \"Chainsaw Man\") [Spanish Version]",
+        "url": "https://open.spotify.com/album/3WfRtbyKdiJ4fiU4UXvxaW"
+      },
+      "artists": [
+        {
+          "name": "Iris ~Pamela Calvo~",
+          "url": "https://open.spotify.com/artist/6qWXcGYNEAmUxFWLA5uFwM"
+        },
+        {
+          "name": "ChemyNoSurfea",
+          "url": "https://open.spotify.com/artist/4TDi1l3plDjy9HZXn7OmIo"
+        }
+      ],
+      "duration_ms": 227887,
+      "name": "JANE DOE (from \"Chainsaw Man\") - Spanish Version",
+      "url": "https://open.spotify.com/track/5LIJ14j7IDOcnSRk8lYdgW"
+    },
+    {
+      "added_at": "2026-01-23 03:00:00",
+      "album": {
+        "name": "Ki Chororo",
+        "url": "https://open.spotify.com/album/1gbEmEIUZTR9teDGCuD0JQ"
+      },
+      "artists": [
+        {
+          "name": "Ariel Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
+        },
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 224736,
+      "name": "Ki Chororo",
+      "url": "https://open.spotify.com/track/0C97btEEwC56pQYBU5U8GG"
+    },
+    {
+      "added_at": "2026-01-23 03:00:00",
+      "album": {
+        "name": "Hagamos Que",
+        "url": "https://open.spotify.com/album/1LzepHC5JM2kXvL5Fv7CgC"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 178160,
+      "name": "Hagamos Que",
+      "url": "https://open.spotify.com/track/6dERO18avM16kki5aCjTkb"
+    },
+    {
+      "added_at": "2026-01-23 03:00:00",
+      "album": {
+        "name": "The Final Verdict",
+        "url": "https://open.spotify.com/album/1GB6UmBGrtZTlnSazf7qAc"
+      },
+      "artists": [
+        {
+          "name": "Harmony My Strength",
+          "url": "https://open.spotify.com/artist/5oynKjQSzQSvO0SzVPiSTG"
+        },
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "duration_ms": 65230,
+      "name": "Veil of Bone",
+      "url": "https://open.spotify.com/track/09uE01vbRIdeIwdoPzGvo3"
+    },
+    {
+      "added_at": "2026-01-23 03:00:00",
+      "album": {
+        "name": "THE SPELL",
+        "url": "https://open.spotify.com/album/7l95yd85Ob7Gu9yfQNSpqF"
+      },
+      "artists": [
+        {
+          "name": "Gothminister",
+          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
+        },
+        {
+          "name": "Thomas Jenssen",
+          "url": "https://open.spotify.com/artist/1CsiZJ13f1oUIxiV1X9NBm"
+        }
+      ],
+      "duration_ms": 175111,
+      "name": "THE SPELL",
+      "url": "https://open.spotify.com/track/7CWUdG7KSYBjkEgV4HcC6t"
+    },
+    {
+      "added_at": "2026-01-23 03:00:00",
+      "album": {
+        "name": "NINE LIVES",
+        "url": "https://open.spotify.com/album/4UEpTKPsOwn4OVroUZa7Sq"
+      },
+      "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        },
+        {
+          "name": "El Hefe",
+          "url": "https://open.spotify.com/artist/0hI2YqWLM3FyAj4Moa1E0X"
+        },
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 151820,
+      "name": "THE PUNISHER (feat. El Hefe of NOFX)",
+      "url": "https://open.spotify.com/track/6eDJGOPWshWzPiWbSiWwdD"
+    },
+    {
+      "added_at": "2026-01-23 03:00:00",
+      "album": {
+        "name": "STMPD RCRDS Mixtape 2025 Side A",
+        "url": "https://open.spotify.com/album/3ZaTTxskBzRc6ecodofGa5"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 203904,
+      "name": "Angels For Each Other - Mix Cut",
+      "url": "https://open.spotify.com/track/0DHijkToUWk01dPcfwkoSS"
+    },
+    {
+      "added_at": "2026-01-23 03:00:00",
+      "album": {
+        "name": "Set The Dark On Fire",
+        "url": "https://open.spotify.com/album/19rLunxMgSHBPOs2ydLZut"
+      },
+      "artists": [
+        {
+          "name": "Edenbridge",
+          "url": "https://open.spotify.com/artist/4kRllkt5ryNVBqFinVjBQZ"
+        }
+      ],
+      "duration_ms": 331053,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/19KU4MnUg3X2DEDTuwgxUV"
+    },
+    {
+      "added_at": "2026-01-23 03:00:00",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/05GsVj0oUeuUEnYb31uCHR"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 229322,
+      "name": "Play The Old Shit",
+      "url": "https://open.spotify.com/track/5APFyddMz5a4EGXvtEQVAc"
+    },
+    {
+      "added_at": "2026-01-23 03:00:00",
+      "album": {
+        "name": "Vermaledeit",
+        "url": "https://open.spotify.com/album/2P1bygQs4WOAI0BNcTVtb4"
+      },
+      "artists": [
+        {
+          "name": "Drumtomski",
+          "url": "https://open.spotify.com/artist/23nHfPBinQagZQCUXaMfnP"
+        },
+        {
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
+        },
+        {
+          "name": "Limido",
+          "url": "https://open.spotify.com/artist/2sSvF4lfpofqzOGczfDrSd"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Phlegma",
+      "url": "https://open.spotify.com/track/1kbgwAaNjoV1f8FLmWDxQD"
+    },
+    {
+      "added_at": "2026-01-23 03:00:00",
+      "album": {
+        "name": "Whiplash (Deluxe)",
+        "url": "https://open.spotify.com/album/1bSJUui9WhyR6Ix6msUxxo"
+      },
+      "artists": [
+        {
+          "name": "b\u00f4a",
+          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
+        }
+      ],
+      "duration_ms": 224322,
+      "name": "Twilight - Londinium Version",
+      "url": "https://open.spotify.com/track/10aymxDOFtt1yjMF5TeQj7"
+    },
+    {
+      "added_at": "2026-01-23 03:00:00",
+      "album": {
+        "name": "THIS IS KHATTD",
+        "url": "https://open.spotify.com/album/1ROVwscc7Y9Dgf8TL2EXCP"
+      },
+      "artists": [
+        {
+          "name": "Khattd",
+          "url": "https://open.spotify.com/artist/4RM6nPIBiC7a0XInK9gngA"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "MACHUCA",
+      "url": "https://open.spotify.com/track/4zbbk8rfadNVQ3yIxzv2ty"
+    },
+    {
+      "added_at": "2026-01-23 03:00:00",
+      "album": {
+        "name": "Armada (Orchestral Version)",
+        "url": "https://open.spotify.com/album/0jfoVULtvqdDo0jYgeWOxq"
+      },
+      "artists": [
+        {
+          "name": "Visions of Atlantis",
+          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
+        }
+      ],
+      "duration_ms": 243333,
+      "name": "Armada - Orchestral Version",
+      "url": "https://open.spotify.com/track/5jV2N4JN9QRnC1UqQQWAAn"
+    },
+    {
+      "added_at": "2026-01-23 03:00:00",
+      "album": {
+        "name": "Charlie The Wonderdog (Original Songs from the Motion Picture)",
+        "url": "https://open.spotify.com/album/377uHBrhHsJU4XsGagTrs3"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 177015,
+      "name": "Anything Is Possible",
+      "url": "https://open.spotify.com/track/1Ur3VwP8QqqDpA5fHQREPd"
+    },
+    {
+      "added_at": "2026-01-23 03:00:00",
+      "album": {
+        "name": "Good Villains",
+        "url": "https://open.spotify.com/album/14DnorRHkvA4S3qYqVTd4R"
+      },
+      "artists": [
+        {
+          "name": "Multi",
+          "url": "https://open.spotify.com/artist/5Hp4j1fNOVJAfj0QWJbsnR"
+        },
+        {
+          "name": "Bascur",
+          "url": "https://open.spotify.com/artist/1gr15bpTzqHwHxj9PVZf4N"
+        }
+      ],
+      "duration_ms": 197355,
+      "name": "Good Villains",
+      "url": "https://open.spotify.com/track/2EO9L7mJ1XoTjUMVXnOWJf"
+    },
+    {
+      "added_at": "2026-01-23 03:00:00",
       "album": {
         "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
         "url": "https://open.spotify.com/album/0mXlX2CMj27TPRz10v556x"
@@ -37,7 +337,7 @@
       "url": "https://open.spotify.com/track/5l4Gq3UC0dHKSExIf5xD9N"
     },
     {
-      "added_at": "2026-01-16 03:00:00",
+      "added_at": "2026-01-23 03:00:00",
       "album": {
         "name": "Into Oblivion",
         "url": "https://open.spotify.com/album/5SVfHoZLhj58lAJzl2iD9g"
@@ -53,7 +353,7 @@
       "url": "https://open.spotify.com/track/0bUxpdWMazVZv1f7TSNSCW"
     },
     {
-      "added_at": "2026-01-16 03:00:00",
+      "added_at": "2026-01-23 03:00:00",
       "album": {
         "name": "Bedroom Posters (feat. Good Charlotte)",
         "url": "https://open.spotify.com/album/2DQT3oVHtQJleYR3yXA4cY"
@@ -73,167 +373,7 @@
       "url": "https://open.spotify.com/track/1L2Z2Xpta5CZ59kIazq9Xp"
     },
     {
-      "added_at": "2026-01-16 03:00:00",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/05GsVj0oUeuUEnYb31uCHR"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 229322,
-      "name": "Play The Old Shit",
-      "url": "https://open.spotify.com/track/5APFyddMz5a4EGXvtEQVAc"
-    },
-    {
-      "added_at": "2026-01-16 03:00:00",
-      "album": {
-        "name": "The Great Nothing",
-        "url": "https://open.spotify.com/album/1qWJhQklBKHJWrtkR0CA4S"
-      },
-      "artists": [
-        {
-          "name": "Harmony My Strength",
-          "url": "https://open.spotify.com/artist/5oynKjQSzQSvO0SzVPiSTG"
-        },
-        {
-          "name": "Dark Tranquillity",
-          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
-        }
-      ],
-      "duration_ms": 66410,
-      "name": "The Unknown",
-      "url": "https://open.spotify.com/track/4sxeZm4bj8HMrC9D6exVmD"
-    },
-    {
-      "added_at": "2026-01-16 03:00:00",
-      "album": {
-        "name": "Charlie The Wonderdog (Original Songs from the Motion Picture)",
-        "url": "https://open.spotify.com/album/377uHBrhHsJU4XsGagTrs3"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 177015,
-      "name": "Anything Is Possible",
-      "url": "https://open.spotify.com/track/1Ur3VwP8QqqDpA5fHQREPd"
-    },
-    {
-      "added_at": "2026-01-16 03:00:00",
-      "album": {
-        "name": "Set The Dark On Fire",
-        "url": "https://open.spotify.com/album/19rLunxMgSHBPOs2ydLZut"
-      },
-      "artists": [
-        {
-          "name": "Edenbridge",
-          "url": "https://open.spotify.com/artist/4kRllkt5ryNVBqFinVjBQZ"
-        }
-      ],
-      "duration_ms": 331053,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/19KU4MnUg3X2DEDTuwgxUV"
-    },
-    {
-      "added_at": "2026-01-16 03:00:00",
-      "album": {
-        "name": "Los Hermanos",
-        "url": "https://open.spotify.com/album/2SMv8PtmP4VqErZPAozrdQ"
-      },
-      "artists": [
-        {
-          "name": "Ariel Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
-        },
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 214128,
-      "name": "Los Hermanos",
-      "url": "https://open.spotify.com/track/7fhFwAQ4QFph4AXpPLdP6w"
-    },
-    {
-      "added_at": "2026-01-16 03:00:00",
-      "album": {
-        "name": "Whiplash (Deluxe)",
-        "url": "https://open.spotify.com/album/1bSJUui9WhyR6Ix6msUxxo"
-      },
-      "artists": [
-        {
-          "name": "b\u00f4a",
-          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
-        }
-      ],
-      "duration_ms": 224322,
-      "name": "Twilight - Londinium Version",
-      "url": "https://open.spotify.com/track/10aymxDOFtt1yjMF5TeQj7"
-    },
-    {
-      "added_at": "2026-01-16 03:00:00",
-      "album": {
-        "name": "Armada (Orchestral Version)",
-        "url": "https://open.spotify.com/album/0jfoVULtvqdDo0jYgeWOxq"
-      },
-      "artists": [
-        {
-          "name": "Visions of Atlantis",
-          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
-        }
-      ],
-      "duration_ms": 243333,
-      "name": "Armada - Orchestral Version",
-      "url": "https://open.spotify.com/track/5jV2N4JN9QRnC1UqQQWAAn"
-    },
-    {
-      "added_at": "2026-01-16 03:00:00",
-      "album": {
-        "name": "STMPD RCRDS Mixtape 2025 Side B",
-        "url": "https://open.spotify.com/album/3HUCPfNqKtUiKPuC4a4qK0"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Citadelle",
-          "url": "https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8"
-        }
-      ],
-      "duration_ms": 179874,
-      "name": "Peace Of Mind - Mix Cut",
-      "url": "https://open.spotify.com/track/42nZtU0KsCXqVHNiMrVGxZ"
-    },
-    {
-      "added_at": "2026-01-16 03:00:00",
-      "album": {
-        "name": "THIS IS KHATTD",
-        "url": "https://open.spotify.com/album/1ROVwscc7Y9Dgf8TL2EXCP"
-      },
-      "artists": [
-        {
-          "name": "Khattd",
-          "url": "https://open.spotify.com/artist/4RM6nPIBiC7a0XInK9gngA"
-        },
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "MACHUCA",
-      "url": "https://open.spotify.com/track/4zbbk8rfadNVQ3yIxzv2ty"
-    },
-    {
-      "added_at": "2026-01-16 03:00:00",
+      "added_at": "2026-01-23 03:00:00",
       "album": {
         "name": "Ready To Live A Lie (The Remixes)",
         "url": "https://open.spotify.com/album/6QwYgrrSVmYnlzpKQLXvM4"
@@ -251,50 +391,6 @@
       "duration_ms": 298625,
       "name": "He's Not You - Boys' Shorts Remix",
       "url": "https://open.spotify.com/track/4htFv2xPYJddpnbTViryFa"
-    },
-    {
-      "added_at": "2026-01-16 03:00:00",
-      "album": {
-        "name": "Vermaledeit",
-        "url": "https://open.spotify.com/album/2P1bygQs4WOAI0BNcTVtb4"
-      },
-      "artists": [
-        {
-          "name": "Drumtomski",
-          "url": "https://open.spotify.com/artist/23nHfPBinQagZQCUXaMfnP"
-        },
-        {
-          "name": "Matiah Chinaski",
-          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
-        },
-        {
-          "name": "Limido",
-          "url": "https://open.spotify.com/artist/2sSvF4lfpofqzOGczfDrSd"
-        }
-      ],
-      "duration_ms": 190909,
-      "name": "Phlegma",
-      "url": "https://open.spotify.com/track/1kbgwAaNjoV1f8FLmWDxQD"
-    },
-    {
-      "added_at": "2026-01-16 03:00:00",
-      "album": {
-        "name": "Good Villains",
-        "url": "https://open.spotify.com/album/14DnorRHkvA4S3qYqVTd4R"
-      },
-      "artists": [
-        {
-          "name": "Multi",
-          "url": "https://open.spotify.com/artist/5Hp4j1fNOVJAfj0QWJbsnR"
-        },
-        {
-          "name": "Bascur",
-          "url": "https://open.spotify.com/artist/1gr15bpTzqHwHxj9PVZf4N"
-        }
-      ],
-      "duration_ms": 197355,
-      "name": "Good Villains",
-      "url": "https://open.spotify.com/track/2EO9L7mJ1XoTjUMVXnOWJf"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

@@ -290,7 +290,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 177391,
       "name": "3,13",
       "url": "https://open.spotify.com/track/3VaJjYo7tSJ88BY8zXPaqf"
@@ -8546,6 +8546,28 @@
       "duration_ms": 195120,
       "name": "Phurr - From the Movie \u201cKis Kisko Pyaar Karoon 2\u201d",
       "url": "https://open.spotify.com/track/12WdjvcXjLMdr9nIeQY9C6"
+    },
+    {
+      "album": {
+        "name": "Piche Tere",
+        "url": "https://open.spotify.com/album/2eWZ4GdGxtyWqyWOpNuhpb"
+      },
+      "artists": [
+        {
+          "name": "Kunwarr",
+          "url": "https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV"
+        },
+        {
+          "name": "Dishant",
+          "url": "https://open.spotify.com/artist/03NjaVnVwllxUUcSUDglNJ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119755,
+      "name": "Piche Tere",
+      "url": "https://open.spotify.com/track/4ZWoJ4tRi74mHHnItB3k9h"
     },
     {
       "album": {

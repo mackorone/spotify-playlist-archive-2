@@ -1,6 +1,6 @@
 {
-  "description": "Meet the future of music around the world. Cover: Danyl",
-  "num_followers": 84175,
+  "description": "  Meet the future of music around the world. Cover: Haku.",
+  "num_followers": 84169,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
@@ -22,6 +22,22 @@
         {
           "name": "La Obsesion",
           "url": "https://open.spotify.com/artist/16xTQXyj7LORVb9kupiE1y"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        },
+        {
+          "name": "Novato El Flow",
+          "url": "https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP"
+        },
+        {
+          "name": "Doony Graff",
+          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
+        },
+        {
+          "name": "Viglezz",
+          "url": "https://open.spotify.com/artist/1LJ9q30BIBFwaTDrJ5BZu5"
         }
       ],
       "duration_ms": 209333,
@@ -131,6 +147,22 @@
     {
       "added_at": "2026-01-16 14:00:04",
       "album": {
+        "name": "ZMIG",
+        "url": "https://open.spotify.com/album/688e1LKDyb3Zqoo4hpMwch"
+      },
+      "artists": [
+        {
+          "name": "Danyl",
+          "url": "https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab"
+        }
+      ],
+      "duration_ms": 105531,
+      "name": "Y'A R",
+      "url": "https://open.spotify.com/track/5hXA6P3qydIe3375WfGjVk"
+    },
+    {
+      "added_at": "2026-01-16 14:00:04",
+      "album": {
         "name": "life",
         "url": "https://open.spotify.com/album/3jXwsjv5HQE8LEp8hQLwun"
       },
@@ -147,18 +179,34 @@
     {
       "added_at": "2026-01-16 14:00:04",
       "album": {
-        "name": "ZMIG",
-        "url": "https://open.spotify.com/album/688e1LKDyb3Zqoo4hpMwch"
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/7bd01wRAWSuH8CdSvMQuo0"
       },
       "artists": [
         {
-          "name": "Danyl",
-          "url": "https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab"
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
         }
       ],
-      "duration_ms": 105531,
-      "name": "Y'A R",
-      "url": "https://open.spotify.com/track/5hXA6P3qydIe3375WfGjVk"
+      "duration_ms": 204112,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/39KWR72Ih2I1NEYk3UfT3A"
+    },
+    {
+      "added_at": "2026-01-20 14:22:34",
+      "album": {
+        "name": "Catching Up 2 U",
+        "url": "https://open.spotify.com/album/3c84ecpWrWwMWcJ0qqPxJt"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "duration_ms": 202103,
+      "name": "Catching Up 2 U",
+      "url": "https://open.spotify.com/track/2ylOJDYb91xiRaLs3kKtqD"
     },
     {
       "added_at": "2026-01-16 14:00:04",
@@ -179,22 +227,6 @@
     {
       "added_at": "2026-01-16 14:00:04",
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/7bd01wRAWSuH8CdSvMQuo0"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 204112,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/39KWR72Ih2I1NEYk3UfT3A"
-    },
-    {
-      "added_at": "2026-01-16 14:00:04",
-      "album": {
         "name": "Going Home",
         "url": "https://open.spotify.com/album/3WawvUoyqt2PD2rz6MnMTZ"
       },
@@ -207,22 +239,6 @@
       "duration_ms": 242924,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/4h78oPMoSU1khs6uhDGUyZ"
-    },
-    {
-      "added_at": "2026-01-20 14:22:34",
-      "album": {
-        "name": "Catching Up 2 U",
-        "url": "https://open.spotify.com/album/3c84ecpWrWwMWcJ0qqPxJt"
-      },
-      "artists": [
-        {
-          "name": "MAY-A",
-          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
-        }
-      ],
-      "duration_ms": 202103,
-      "name": "Catching Up 2 U",
-      "url": "https://open.spotify.com/track/2ylOJDYb91xiRaLs3kKtqD"
     },
     {
       "added_at": "2026-01-16 14:00:04",

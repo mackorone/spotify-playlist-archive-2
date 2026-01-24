@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-08",
-  "description": "Soul to brighten up your day. Cover: Samm Henshaw",
+  "description": "Soul to brighten up your day. Cover: Leven Kali",
   "name": "Soulful Day",
   "tracks": [
     {
@@ -254,7 +254,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 214062,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/2mGWmvIIvs7jKEXxyh7Wfb"
@@ -624,6 +624,24 @@
       "duration_ms": 227973,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/07GWBE0uO09Yq4JJosrurR"
+    },
+    {
+      "album": {
+        "name": "BREATHE!",
+        "url": "https://open.spotify.com/album/2DK3WE4fJz4YgvaPz4ZXkw"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209395,
+      "name": "BREATHE!",
+      "url": "https://open.spotify.com/track/7pQ5f4zkmaS5G264xtbCvf"
     },
     {
       "album": {
@@ -1000,6 +1018,24 @@
       "duration_ms": 207000,
       "name": "Dance My Way Back",
       "url": "https://open.spotify.com/track/6gwDGra690TbcUx3noEug5"
+    },
+    {
+      "album": {
+        "name": "It Could Be Worse",
+        "url": "https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166793,
+      "name": "Don't Give It Up",
+      "url": "https://open.spotify.com/track/6R5J8hj4Nh8qSubFuI5gPc"
     },
     {
       "album": {
@@ -1676,7 +1712,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 191580,
       "name": "Hair Down",
       "url": "https://open.spotify.com/track/2tP73L31LHxJAZs3L8HMnp"

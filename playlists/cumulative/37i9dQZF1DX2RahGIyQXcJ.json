@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Best of Desi Hip-Hop! Cover: Cheema Y\n",
+  "description": "Best of Desi Hip-Hop! Cover: Dhanda Nyoliwala\n",
   "name": "Desi Hip Hop",
   "tracks": [
     {
@@ -396,7 +396,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 144652,
       "name": "6:10",
       "url": "https://open.spotify.com/track/6WLHrmGizXw8XIwYXDxJr1"
@@ -1223,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "B2B 2.0",
+        "url": "https://open.spotify.com/album/25lD4Wmf8LWxNRCqL4FrOp"
+      },
+      "artists": [
+        {
+          "name": "derwaish",
+          "url": "https://open.spotify.com/artist/6URVlw6ufcaxR4mwxn2Zgz"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "B2B 2.0",
+      "url": "https://open.spotify.com/track/5RohHDe2VEzNHaJdAKsaVi"
+    },
+    {
+      "album": {
         "name": "BAAZ",
         "url": "https://open.spotify.com/album/4K2e39AggprCvkHwA5AR8W"
       },
@@ -1316,7 +1334,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 183833,
       "name": "BABY CALL ME GANGSTER",
       "url": "https://open.spotify.com/track/4R3wna0tMjccTpSY68aQ5g"
@@ -3158,7 +3176,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 249230,
       "name": "Dr. Jekyll & Mr. Hyde",
       "url": "https://open.spotify.com/track/5KFvKoEeHUwlfbFGN69Ew2"
@@ -3298,7 +3316,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 206707,
       "name": "DXB",
       "url": "https://open.spotify.com/track/17vaaGEZlUz7b7IMKyDXvy"
@@ -7289,6 +7307,24 @@
     },
     {
       "album": {
+        "name": "Not Guilty",
+        "url": "https://open.spotify.com/album/2ArzqdKnu0N93P4Z206F7c"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175813,
+      "name": "Not Guilty",
+      "url": "https://open.spotify.com/track/4YPSg93DDJW9Uf4IgklCHc"
+    },
+    {
+      "album": {
         "name": "Yours Truly",
         "url": "https://open.spotify.com/album/5U4ZWKgrnmAdWNyLBG7DAU"
       },
@@ -7752,6 +7788,32 @@
       "duration_ms": 220638,
       "name": "PAISA",
       "url": "https://open.spotify.com/track/5vwe8vW5fEJgymhjfol1cu"
+    },
+    {
+      "album": {
+        "name": "Paisa Bolay",
+        "url": "https://open.spotify.com/album/2PXfg95MUeaiOgokDqo6Xu"
+      },
+      "artists": [
+        {
+          "name": "Meesha Shafi",
+          "url": "https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR"
+        },
+        {
+          "name": "Talhah Yunus",
+          "url": "https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5"
+        },
+        {
+          "name": "Abdullah Siddiqui",
+          "url": "https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214849,
+      "name": "Paisa Bolay",
+      "url": "https://open.spotify.com/track/5iDbDvducMvmywREZYyi8T"
     },
     {
       "album": {
@@ -10168,6 +10230,28 @@
       "duration_ms": 157350,
       "name": "Victory Anthem",
       "url": "https://open.spotify.com/track/1UEbsf5kGEIcSMiWexOkrZ"
+    },
+    {
+      "album": {
+        "name": "Village Son",
+        "url": "https://open.spotify.com/album/2ZJBxT5HgSiRVGduNHKw6P"
+      },
+      "artists": [
+        {
+          "name": "Dopeboyghost",
+          "url": "https://open.spotify.com/artist/0kgftNbtoiZeiPFYNfmv6C"
+        },
+        {
+          "name": "D Vink",
+          "url": "https://open.spotify.com/artist/7d0pLabCoe50EPQuQLAbiv"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148636,
+      "name": "Village Son",
+      "url": "https://open.spotify.com/track/7rzsW6vXXKstR2ovTcm9oQ"
     },
     {
       "album": {

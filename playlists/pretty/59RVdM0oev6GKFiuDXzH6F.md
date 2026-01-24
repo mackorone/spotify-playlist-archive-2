@@ -8,8 +8,8 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Locked In \(feat\. Trippie Redd\)](https://open.spotify.com/track/55oaId1IHZV9XfvHB3P7PJ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Locked In \(feat\. Trippie Redd\)](https://open.spotify.com/album/2fG4Abi890K7fZ9MnEsq9p) | 2:48 |
-| 2 | [Antidote](https://open.spotify.com/track/3p7dgKyS7tZcSbmXJmQSxz) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Mentum](https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3) | [Antidote](https://open.spotify.com/album/00IGSwcvchaCcTLxNFP6u4) | 2:45 |
+| 1 | [Antidote](https://open.spotify.com/track/3p7dgKyS7tZcSbmXJmQSxz) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Mentum](https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3) | [Antidote](https://open.spotify.com/album/00IGSwcvchaCcTLxNFP6u4) | 2:45 |
+| 2 | [Locked In \(feat\. Trippie Redd\)](https://open.spotify.com/track/55oaId1IHZV9XfvHB3P7PJ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Locked In \(feat\. Trippie Redd\)](https://open.spotify.com/album/2fG4Abi890K7fZ9MnEsq9p) | 2:48 |
 | 3 | [Insomnia \(feat\. Andy Ruiz\)](https://open.spotify.com/track/3OHKZwLhlW83PqLAUmkr75) | [Daxson](https://open.spotify.com/artist/4WwMR8h0vztJLNgiL5ZFqW), [Andy Ruiz](https://open.spotify.com/artist/37pBslHk1fKmn3RaMofHhQ) | [Insomnia \(feat\. Andy Ruiz\)](https://open.spotify.com/album/18ApwaaAHJTTgqJnmbMQnY) | 2:27 |
 | 4 | [Hard Techno Love](https://open.spotify.com/track/6DH5mdtGpAnQaATeirJeeF) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [PHOROS](https://open.spotify.com/artist/3mAGi2CAWTnF7t6CUGJN9q), [Church of Molly](https://open.spotify.com/artist/7uTmmx6Ta5g0KvtxeeFrrn) | [Hard Techno Love](https://open.spotify.com/album/6H7MamYPP8OBK9c5czBt2F) | 1:56 |
 | 5 | [What's A Girl To Do \(D\-Sturb Remix\)](https://open.spotify.com/track/1rGAcKaILp1yS5vPJGirjI) | [Luvstruck](https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy), [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO) | [What's A Girl To Do \(D\-Sturb Remix\)](https://open.spotify.com/album/063SgdTBY7dISc60RthdwY) | 2:27 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 | 196 | [Porta](https://open.spotify.com/track/1pb5puaIFpRKZljrRvUYBh) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Porta](https://open.spotify.com/album/1ypob0SleVfy9RVAzfnmIH) | 3:26 |
 | 197 | [Not Afraid](https://open.spotify.com/track/2QqQ18pnfQPGJCSbx8UYSU) | [Harmless Night](https://open.spotify.com/artist/0vGdi8zNID6cg6Ua9ksmyQ), [Donner](https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z) | [Not Afraid](https://open.spotify.com/album/0qVbT7QP9GAUtJaVcftanH) | 2:56 |
 
-Snapshot ID: `AAARBDkzVNHcr/Ai4nyv+ITTmyHIYQoz`
+Snapshot ID: `AAARBRGraTB7J5Rfi68CsSgRX2Oodk1F`

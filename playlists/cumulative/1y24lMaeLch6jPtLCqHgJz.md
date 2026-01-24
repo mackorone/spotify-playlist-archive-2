@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-453 songs - 22 hr 44 min
+454 songs - 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,7 +414,7 @@
 | [This Is What It Feels Like](https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [Intense](https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF) | 3:24 | 2024-01-09 |  |
 | [This Rave](https://open.spotify.com/track/4YVc9zNCVmHHZcBnCYNQeO) | [Kazden](https://open.spotify.com/artist/3YUHQ4bns40UJaTsXpzq2y), [Karasso](https://open.spotify.com/artist/751zFKXhbzKTvHnxt2iIFn) | [This Rave](https://open.spotify.com/album/6DrjRcQIJ9QnKQ3Ry8b9ns) | 2:18 | 2023-12-05 | 2024-11-30 |
 | [This Time \(Never Be Alone Again\)](https://open.spotify.com/track/4NfNmtFPQwR7IYoKeBErOp) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [This Time \(Never Be Alone Again\)](https://open.spotify.com/album/0ytdECFIEtdImFLONcZA8N) | 2:46 | 2022-07-29 | 2025-08-26 |
-| [Thousand Miles](https://open.spotify.com/track/0m9vc7IO1muJWgnAxHx7rN) | [Kevin Goodwin](https://open.spotify.com/artist/7Kq9xzAZGoKZltoUhNtmLk), [FLYOVER](https://open.spotify.com/artist/33jkEDJtQSbdlIKHWN5dR7) | [For The Love Of Progressive EP 2.0](https://open.spotify.com/album/4XaWowqTcNMXCUn98Txb3T) | 3:19 | 2024-09-12 |  |
+| [Thousand Miles](https://open.spotify.com/track/0m9vc7IO1muJWgnAxHx7rN) | [Kevin Goodwin](https://open.spotify.com/artist/7Kq9xzAZGoKZltoUhNtmLk), [FLYOVER](https://open.spotify.com/artist/33jkEDJtQSbdlIKHWN5dR7) | [For The Love Of Progressive EP 2.0](https://open.spotify.com/album/4XaWowqTcNMXCUn98Txb3T) | 3:19 | 2024-09-12 | 2026-01-24 |
 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 | 2023-06-02 |  |
 | [Tides](https://open.spotify.com/track/4IHJ09f2VWAtnBZcDGkWKu) | [Holly](https://open.spotify.com/artist/6RwJwtGVyIGSs1oSAPnxYV), [LostVolts](https://open.spotify.com/artist/4Immb1MDqUWYJgqmvaehef), [Zack Torrez](https://open.spotify.com/artist/28Wd6TGd4pQWRk702jYWbJ) | [Tides](https://open.spotify.com/album/6NfzXnD8jaAHZ7PQe2K41n) | 3:09 | 2023-01-30 | 2023-04-22 |
 | [Tied Up Hearts](https://open.spotify.com/track/02idqw4rcgbQwY9p5BGRrU) | [Maulik](https://open.spotify.com/artist/3SEvRe9dovIu5p0IUKJj30), [Arlane](https://open.spotify.com/artist/7rpwv8glIP5L0lD8UPNgtc), [Larza](https://open.spotify.com/artist/6R2p1HQ7vmhCyLEH9ilRKJ), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [For The Love Of Progressive EP 4.0](https://open.spotify.com/album/1IriK0TQbkjOWt20BTx8PF) | 3:09 | 2025-04-10 |  |
@@ -428,6 +428,7 @@
 | [Turn It Around Baby](https://open.spotify.com/track/3FjNJavUs0VqOgr2KSU7gq) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Turn It Around Baby](https://open.spotify.com/album/1oRTrhAtWAUOS2663Ra7A3) | 3:38 | 2023-08-21 | 2023-11-11 |
 | [Under The Moonlight](https://open.spotify.com/track/6LnPMGaiR8zMI0gWrvuoF8) | [Colin Crooks](https://open.spotify.com/artist/2kz8aW0w3kWweM2iCeDdSP) | [Under The Moonlight](https://open.spotify.com/album/50pn19SdyxaBZVBqvARV3W) | 2:39 | 2025-09-25 |  |
 | [Vibration](https://open.spotify.com/track/3mVgxiEBvMmO0Rms2VwAzY) | [Matt Ice](https://open.spotify.com/artist/08m37iZCXNDii26j1peJpE), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Vibration](https://open.spotify.com/album/5mC8vxcYv2yqlvuPWM3kRT) | 3:23 | 2024-02-29 | 2024-08-10 |
+| [Wait](https://open.spotify.com/track/74a9POPKLVfLqqrYY65JmC) | [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Fedo](https://open.spotify.com/artist/324ZDToGZhov91SbJ6Pr9M) | [Wait](https://open.spotify.com/album/5h68xM7y94PgItlUJrSK7M) | 3:07 | 2026-01-23 |  |
 | [Wait For The Drums](https://open.spotify.com/track/08rvT9AMPKZiMeKcBXHGsu) | [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP), [LUSSO](https://open.spotify.com/artist/6hOrbqntEsgBVm4YstRyVR) | [Wait For The Drums](https://open.spotify.com/album/4TAdJPRokTsSUesMJcLqDb) | 2:50 | 2023-10-24 | 2024-08-17 |
 | [Wake Me Up](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:07 | 2023-11-21 |  |
 | [Want My Love](https://open.spotify.com/track/5xJOVWiVKSx5tCrjkVIAEv) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Mentum](https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3) | [Want My Love](https://open.spotify.com/album/2OVkH4EP3i35f0lQDmSAHt) | 2:56 | 2023-09-18 | 2025-10-09 |

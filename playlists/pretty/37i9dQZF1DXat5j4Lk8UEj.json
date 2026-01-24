@@ -1,6 +1,6 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & The Night Sweats",
-  "num_followers": 478952,
+  "num_followers": 478925,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Tried to Tell You",
-        "url": "https://open.spotify.com/album/0xB1XJxNIddjYUrelC1Vm4"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 218602,
-      "name": "Tried to Tell You",
-      "url": "https://open.spotify.com/track/78Vj1c5mgrddm7aQN0A3fs"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Kitchen Table",
         "url": "https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 208800,
       "name": "Kitchen Table",
       "url": "https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Tried to Tell You",
+        "url": "https://open.spotify.com/album/0xB1XJxNIddjYUrelC1Vm4"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 218602,
+      "name": "Tried to Tell You",
+      "url": "https://open.spotify.com/track/78Vj1c5mgrddm7aQN0A3fs"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 280826,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Drive You Home",
         "url": "https://open.spotify.com/album/5N626BClwWdlR9Ks3vOgRX"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 180782,
       "name": "Drive You Home",
       "url": "https://open.spotify.com/track/6DKqCfULlm9Fa7Cb9E8daQ"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB"
+      },
+      "artists": [
+        {
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+        }
+      ],
+      "duration_ms": 280826,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1511,38 +1511,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "99.9%",
-        "url": "https://open.spotify.com/album/6H157SVqv2Ghl6VvgGEwaZ"
-      },
-      "artists": [
-        {
-          "name": "Streets of Laredo",
-          "url": "https://open.spotify.com/artist/4gzYX1gPVnAh5YB1MAo60t"
-        }
-      ],
-      "duration_ms": 169933,
-      "name": "99.9%",
-      "url": "https://open.spotify.com/track/24rE4xbH7mCWVpI2zy76HW"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
-        "name": "Vampire Empire",
-        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 192127,
-      "name": "Vampire Empire",
-      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Heavy Metal Heart",
         "url": "https://open.spotify.com/album/5MNqC4Po5g4wdCxYmY1Flx"
       },
@@ -1559,6 +1527,22 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
+        "name": "99.9%",
+        "url": "https://open.spotify.com/album/6H157SVqv2Ghl6VvgGEwaZ"
+      },
+      "artists": [
+        {
+          "name": "Streets of Laredo",
+          "url": "https://open.spotify.com/artist/4gzYX1gPVnAh5YB1MAo60t"
+        }
+      ],
+      "duration_ms": 169933,
+      "name": "99.9%",
+      "url": "https://open.spotify.com/track/24rE4xbH7mCWVpI2zy76HW"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
         "name": "It's A Beautiful Day And I Love You",
         "url": "https://open.spotify.com/album/1rdk7CWbwp2iRukflNGCZL"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 223440,
       "name": "I Shouldn't Go Anywhere",
       "url": "https://open.spotify.com/track/0nZitUFjpGHGpsi317SJFM"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Vampire Empire",
+        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 192127,
+      "name": "Vampire Empire",
+      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
     },
     {
       "added_at": "2025-02-07 05:00:32",

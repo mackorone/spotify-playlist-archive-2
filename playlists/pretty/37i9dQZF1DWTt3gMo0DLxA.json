@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Mana ShankaraVaraprasad Garu",
-  "num_followers": 520875,
+  "num_followers": 521448,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHvNDi8XVw+O+h+0LkY6j/y16jyv",
+  "snapshot_id": "AAAAAPfoAa6mtoffSIXOf8+1t0VEqMJQ",
   "tracks": [
     {
       "added_at": "2026-01-13 07:48:33",
@@ -37,10 +37,10 @@
       "url": "https://open.spotify.com/track/715XEB4ysvCZ5SCMgyDPdK"
     },
     {
-      "added_at": "2025-12-16 07:07:20",
+      "added_at": "2026-01-23 07:07:15",
       "album": {
-        "name": "Rebel Saab (From \"The Rajasaab\") [TELUGU]",
-        "url": "https://open.spotify.com/album/1osZtw9mrsC3MhKFjwCLLr"
+        "name": "Nache Nache (From \"The RajaSaab\") (Hindi)",
+        "url": "https://open.spotify.com/album/5VuDsbPilGp7FPuKXn2Udr"
       },
       "artists": [
         {
@@ -48,21 +48,29 @@
           "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
         },
         {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
         },
         {
-          "name": "Blaaze",
-          "url": "https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E"
+          "name": "Brinda",
+          "url": "https://open.spotify.com/artist/2GPdVUg9TCQY9B0nDUgMJt"
         },
         {
-          "name": "Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+          "name": "Farooq Qaiser",
+          "url": "https://open.spotify.com/artist/30Ts4PPJBS5BLX4IYJspsL"
+        },
+        {
+          "name": "Raqueeb Alam",
+          "url": "https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h"
+        },
+        {
+          "name": "Usha Uthup",
+          "url": "https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa"
         }
       ],
-      "duration_ms": 221096,
-      "name": "Rebel Saab (From \"The Rajasaab\") [TELUGU]",
-      "url": "https://open.spotify.com/track/641uWlhT8KRRE74GvDDsxa"
+      "duration_ms": 263606,
+      "name": "Nache Nache (From \"The RajaSaab\") (Hindi)",
+      "url": "https://open.spotify.com/track/3yFGyFVnm6aTAIdaxE01aC"
     },
     {
       "added_at": "2025-11-11 06:12:33",
@@ -149,20 +157,40 @@
       "url": "https://open.spotify.com/track/3AaowXAOVVhw5o5sXSZUHg"
     },
     {
-      "added_at": "2025-12-18 07:14:26",
+      "added_at": "2026-01-23 07:07:15",
       "album": {
-        "name": "Hello Brother",
-        "url": "https://open.spotify.com/album/6OoEA63IZi6jqNQglyUWt3"
+        "name": "Bhartha Mahasayulaku Wignyapthi",
+        "url": "https://open.spotify.com/album/4iBF6quMFqxlTHFgQtm4I0"
       },
       "artists": [
         {
-          "name": "S. P. Balasubrahmanyam",
-          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+          "name": "Bheems Ceciroleo",
+          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+        },
+        {
+          "name": "Nithyasree Mahadevan",
+          "url": "https://open.spotify.com/artist/6UPWm7jqlonf0Xy4EB3x2m"
+        },
+        {
+          "name": "P. Susheela",
+          "url": "https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        },
+        {
+          "name": "Dhina",
+          "url": "https://open.spotify.com/artist/4Ql23JSzeRcVgkYBqGwDMs"
+        },
+        {
+          "name": "Satyam",
+          "url": "https://open.spotify.com/artist/4YMIKLR6DhwXebluCZpbuT"
         }
       ],
-      "duration_ms": 281039,
-      "name": "Kannepettaro Kannu Kottaro",
-      "url": "https://open.spotify.com/track/0ZuXbpYdMkkct1w7eL57ci"
+      "duration_ms": 175200,
+      "name": "Karthika Deepam Remix Song",
+      "url": "https://open.spotify.com/track/7lUdbHAhop3HTyZsbO2TZV"
     },
     {
       "added_at": "2026-01-12 07:50:56",
@@ -183,26 +211,6 @@
       "duration_ms": 255626,
       "name": "Yureka",
       "url": "https://open.spotify.com/track/02gSJiOng9G8rCQ5RQcy8z"
-    },
-    {
-      "added_at": "2026-01-13 07:48:33",
-      "album": {
-        "name": "Karthika Deepam",
-        "url": "https://open.spotify.com/album/3M3tiF3WyPT20RpYOwDipf"
-      },
-      "artists": [
-        {
-          "name": "P. Susheela",
-          "url": "https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK"
-        },
-        {
-          "name": "S. Janaki",
-          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
-        }
-      ],
-      "duration_ms": 261533,
-      "name": "Aaraneekuma Ee Deepam",
-      "url": "https://open.spotify.com/track/1mMY0R2yyT81Vmgza2s7NO"
     },
     {
       "added_at": "2026-01-13 07:48:33",
@@ -291,6 +299,34 @@
       "duration_ms": 263075,
       "name": "Sahana Sahana (From \"The Rajasaab\") [TELUGU]",
       "url": "https://open.spotify.com/track/5xOEnyX9CddnBbUNLmbW7X"
+    },
+    {
+      "added_at": "2025-12-16 07:07:20",
+      "album": {
+        "name": "Rebel Saab (From \"The Rajasaab\") [TELUGU]",
+        "url": "https://open.spotify.com/album/1osZtw9mrsC3MhKFjwCLLr"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Blaaze",
+          "url": "https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "duration_ms": 221096,
+      "name": "Rebel Saab (From \"The Rajasaab\") [TELUGU]",
+      "url": "https://open.spotify.com/track/641uWlhT8KRRE74GvDDsxa"
     },
     {
       "added_at": "2025-12-02 09:12:02",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: FILLY, The Teenagers
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,039 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,998 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Serious \(feat\. The Teenagers\)](https://open.spotify.com/track/2CcSPtMgQrDK9Hr4Al0wYT) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f), [The Teenagers](https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4) | [Serious \(feat\. The Teenagers\)](https://open.spotify.com/album/28p2nPkSV5JUEJGzEpmHWs) | 2:42 |
+| 1 | [Serious \(feat\. The Teenagers\)](https://open.spotify.com/track/2CcSPtMgQrDK9Hr4Al0wYT) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f), [The Teenagers](https://open.spotify.com/artist/6EU3ei9Aim1yaX6hTJrjXE) | [Serious \(feat\. The Teenagers\)](https://open.spotify.com/album/28p2nPkSV5JUEJGzEpmHWs) | 2:42 |
 | 2 | [Death of Love](https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Death of Love](https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH) | 3:26 |
 | 3 | [Over You](https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Over You](https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk) | 4:44 |
 | 4 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 |

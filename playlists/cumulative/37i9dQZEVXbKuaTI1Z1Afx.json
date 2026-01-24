@@ -5013,6 +5013,24 @@
     },
     {
       "album": {
+        "name": "From Now On",
+        "url": "https://open.spotify.com/album/0ObM9zlgutdfuTOgZCdh4A"
+      },
+      "artists": [
+        {
+          "name": "Havoc",
+          "url": "https://open.spotify.com/artist/6UnvX7Zx85VNjOpLdaq49W"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242066,
+      "name": "Always Have a Choice",
+      "url": "https://open.spotify.com/track/4zX9Pbxjp1nbf3MlNb6Mcd"
+    },
+    {
+      "album": {
         "name": "Always love you (like a good ole dog)",
         "url": "https://open.spotify.com/album/0DUz90zL8IQh4ZWO6ySnOH"
       },
@@ -18001,7 +18019,7 @@
       "artists": [
         {
           "name": "Ironmouse",
-          "url": "https://open.spotify.com/artist/7mP0yyVD9PFmjqWcXI1kFB"
+          "url": "https://open.spotify.com/artist/3iN0khAe5Ilrjr2WnC8Poi"
         },
         {
           "name": "shirobeats",
@@ -18018,7 +18036,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 160645,
       "name": "Cry for Me WA WA WA - Live Version",
       "url": "https://open.spotify.com/track/19aIw4f5D2bMsufW7lYFYO"
@@ -32472,7 +32490,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 188386,
       "name": "Gut Punch",
       "url": "https://open.spotify.com/track/0kG4t24uQCfcC1aZL3LyFu"
@@ -38668,7 +38686,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 106860,
       "name": "I Want Things to Be Beautiful",
       "url": "https://open.spotify.com/track/6uZm4IvkJPbETKFOjRhr1c"
@@ -55190,7 +55208,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/0iR7FMydKheTmJmFiAQpUt"
@@ -55208,7 +55226,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP"
@@ -82991,6 +83009,24 @@
     },
     {
       "album": {
+        "name": "Reinicio",
+        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192064,
+      "name": "Todo Lo Fue",
+      "url": "https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG"
+    },
+    {
+      "album": {
         "name": "Tokicha",
         "url": "https://open.spotify.com/album/6zAlmaTBclBxZ63eeWHPSe"
       },
@@ -84328,10 +84364,28 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 91556,
       "name": "TRUMP THE BILL",
       "url": "https://open.spotify.com/track/05ho4R43Ww1DnHYW7SiFNE"
+    },
+    {
+      "album": {
+        "name": "TRUMP THE BILL",
+        "url": "https://open.spotify.com/album/7DhmIHfJR87Fu69y4NWAi2"
+      },
+      "artists": [
+        {
+          "name": "SUNSHINE",
+          "url": "https://open.spotify.com/artist/7IDKLN5WEdIkk8MDmoPd55"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91566,
+      "name": "TRUMP THE BILL",
+      "url": "https://open.spotify.com/track/7lkjQs1xrjY1IHEWJxUPUm"
     },
     {
       "album": {
@@ -87744,7 +87798,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 213159,
       "name": "Walk My Walk",
       "url": "https://open.spotify.com/track/17HsyeI0Eq06n3XRntZ4DT"

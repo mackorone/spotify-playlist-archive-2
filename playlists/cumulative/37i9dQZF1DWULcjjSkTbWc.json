@@ -636,7 +636,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 177194,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/7dTZ0dEnpFed6ohli3g5NE"
@@ -1015,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "Kangoora",
+        "url": "https://open.spotify.com/album/4PdjZQOJV9tOBcimBtjLY5"
+      },
+      "artists": [
+        {
+          "name": "Lost Acapulco",
+          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125406,
+      "name": "Kangoora",
+      "url": "https://open.spotify.com/track/5vre06h2O6SPTVz96aeJXI"
+    },
+    {
+      "album": {
         "name": "Kasabian/Empire",
         "url": "https://open.spotify.com/album/4RVNd8UwGiAqzfPjbgv0O3"
       },
@@ -1350,7 +1368,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 182906,
       "name": "Me Levant\u00e9 de la Cama",
       "url": "https://open.spotify.com/track/4V0aNgN7GJUTE59i7MvWnj"
@@ -1678,7 +1696,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 167288,
       "name": "Pretend You Remember Me",
       "url": "https://open.spotify.com/track/2HGOA1QvWuVcr2LwBaqR0S"
@@ -2111,6 +2129,24 @@
     },
     {
       "album": {
+        "name": "Trueno",
+        "url": "https://open.spotify.com/album/45rYlbwuN3TOtQILdlhNiU"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211984,
+      "name": "Trueno",
+      "url": "https://open.spotify.com/track/74wsNBsGTs7NjoQXaEk4Ga"
+    },
+    {
+      "album": {
         "name": "Sigue Tu Camino",
         "url": "https://open.spotify.com/album/0RvMRxxQUVQp2jb3CIbg5g"
       },
@@ -2216,6 +2252,24 @@
       "duration_ms": 270080,
       "name": "Venezia",
       "url": "https://open.spotify.com/track/1wncA7mz0ntqvZ8UzFokGk"
+    },
+    {
+      "album": {
+        "name": "Vidas Felices",
+        "url": "https://open.spotify.com/album/4SUAXW008wgv6Rgk4kaet7"
+      },
+      "artists": [
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234933,
+      "name": "Vidas Felices",
+      "url": "https://open.spotify.com/track/0f8GPONRZHrP6mOrxswCfW"
     },
     {
       "album": {

@@ -244,7 +244,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 163892,
       "name": "A Gente Se Entrega",
       "url": "https://open.spotify.com/track/1GOS5OIo4KywJF7Fw9QR4E"
@@ -1548,6 +1548,32 @@
       "duration_ms": 154701,
       "name": "Bombonzinho - Ao Vivo",
       "url": "https://open.spotify.com/track/4o6v3Oooyt7HF20idztRD4"
+    },
+    {
+      "album": {
+        "name": "BOTA",
+        "url": "https://open.spotify.com/album/3dR7Ki6FZ7ZzERpGaDqizJ"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178173,
+      "name": "BOTA",
+      "url": "https://open.spotify.com/track/6XRjI89oGBRJe0etKtI04L"
     },
     {
       "album": {
@@ -6947,6 +6973,28 @@
     },
     {
       "album": {
+        "name": "Morena Jambo / Miau (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6qxBaMq4PFxTAeesCmUngN"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158410,
+      "name": "Morena Jambo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5RJubPh66tvUWCBoJ1GwEY"
+    },
+    {
+      "album": {
         "name": "Morena Tropicana (MTG)",
         "url": "https://open.spotify.com/album/0882bZ1EHZa1EXJT4VBrkY"
       },
@@ -8220,7 +8268,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 129090,
       "name": "Patricinha",
       "url": "https://open.spotify.com/track/4GA0IKzd3lYLkEbZpndTqT"

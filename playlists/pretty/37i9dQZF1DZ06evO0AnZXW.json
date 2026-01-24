@@ -1,12 +1,12 @@
 {
   "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
-  "num_followers": 2950610,
+  "num_followers": 2950591,
   "original_name": "This Is XXXTENTACION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXAXAAAAAAA50mG8GTGWtVY6uZuMhBrN",
+  "snapshot_id": "aXFogAAAAACnMoLf9IvV5wydXLVB2xI+",
   "tracks": [
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "? (Deluxe)",
-        "url": "https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW"
+        "name": "Teeth (Interlude)",
+        "url": "https://open.spotify.com/album/7Gy8dMtA8JLwItcuYQiSXu"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 104600,
-      "name": "A GHETTO CHRISTMAS CAROL",
-      "url": "https://open.spotify.com/track/5aZhp4FuKlrLz7gfJlBtcR"
+      "duration_ms": 142716,
+      "name": "Teeth (Interlude)",
+      "url": "https://open.spotify.com/track/2TIgwzoxcj1VIX1Y43OhMG"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teeth (Interlude)",
-        "url": "https://open.spotify.com/album/7Gy8dMtA8JLwItcuYQiSXu"
+        "name": "? (Deluxe)",
+        "url": "https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 142716,
-      "name": "Teeth (Interlude)",
-      "url": "https://open.spotify.com/track/2TIgwzoxcj1VIX1Y43OhMG"
+      "duration_ms": 104600,
+      "name": "A GHETTO CHRISTMAS CAROL",
+      "url": "https://open.spotify.com/track/5aZhp4FuKlrLz7gfJlBtcR"
     },
     {
       "added_at": null,

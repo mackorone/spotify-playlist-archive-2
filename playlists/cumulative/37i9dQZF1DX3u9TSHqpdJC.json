@@ -348,7 +348,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 169671,
       "name": "180\u00b0",
       "url": "https://open.spotify.com/track/7ckom0ejIcK5XxdoY39iAL"
@@ -4422,7 +4422,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 181306,
       "name": "Are You Bored Yet?",
       "url": "https://open.spotify.com/track/2Kbil8mt1vXxPlk1dseF86"
@@ -10610,7 +10610,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 136888,
       "name": "Burn",
       "url": "https://open.spotify.com/track/27033s3ppBoMd3RYjmT8eB"
@@ -10992,6 +10992,24 @@
       "duration_ms": 178000,
       "name": "Buttercup",
       "url": "https://open.spotify.com/track/72dgu4KCdzOBYJP7YvqCkM"
+    },
+    {
+      "album": {
+        "name": "BUTTERF-LIES",
+        "url": "https://open.spotify.com/album/4bpXUnxUEyqVyQHGPVIgGI"
+      },
+      "artists": [
+        {
+          "name": "Mira Housey",
+          "url": "https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128445,
+      "name": "BUTTERF-LIES",
+      "url": "https://open.spotify.com/track/1noA2W44E4YqekIJwudFO2"
     },
     {
       "album": {
@@ -41382,7 +41400,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 193640,
       "name": "Like You Do",
       "url": "https://open.spotify.com/track/2oSQklnarJ2KxcNBr5XB4e"
@@ -48308,6 +48326,24 @@
     {
       "album": {
         "name": "Naked",
+        "url": "https://open.spotify.com/album/3yZfqxuzwp031yh7cQjldL"
+      },
+      "artists": [
+        {
+          "name": "Maryn Charlie",
+          "url": "https://open.spotify.com/artist/71JkqGrg5nuc5sIVCCTjvL"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167654,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/5GIGmsyaCRehvGAsuIa4Pr"
+    },
+    {
+      "album": {
+        "name": "Naked",
         "url": "https://open.spotify.com/album/5ShHPBnTeucExVbL6ccqXj"
       },
       "artists": [
@@ -48394,6 +48430,24 @@
       "duration_ms": 163453,
       "name": "Narcissist",
       "url": "https://open.spotify.com/track/4EuS5eJv33eIjZ7zU3km3D"
+    },
+    {
+      "album": {
+        "name": "Narcissist",
+        "url": "https://open.spotify.com/album/4EybcryYJC2MmZ65yPGS2J"
+      },
+      "artists": [
+        {
+          "name": "Tallulah Argue",
+          "url": "https://open.spotify.com/artist/34L2mrqYyWifYUwyPMhCUd"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209248,
+      "name": "Narcissist",
+      "url": "https://open.spotify.com/track/2iTqogAQJ5Oprtkn1SxkS4"
     },
     {
       "album": {
@@ -62492,7 +62546,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 157666,
       "name": "Sleeping In My Makeup",
       "url": "https://open.spotify.com/track/5iZzNIbMSsvcJeZkrxuzU1"
@@ -64278,6 +64332,24 @@
       "duration_ms": 184000,
       "name": "Spaghetti On Repeat",
       "url": "https://open.spotify.com/track/091PbyjUM3mDrO1V7JzGxA"
+    },
+    {
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/2M3flg4qynuOU0A5YAqciG"
+      },
+      "artists": [
+        {
+          "name": "Hannah Storm",
+          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187869,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/1tKt5lYHwNymK3SMDrzQNK"
     },
     {
       "album": {
@@ -72328,6 +72400,24 @@
       "duration_ms": 189548,
       "name": "Tropical Sour Candy",
       "url": "https://open.spotify.com/track/0zwKGD9KXvdIfZXlCb0WzI"
+    },
+    {
+      "album": {
+        "name": "The Songs We Wrote In Norfolk",
+        "url": "https://open.spotify.com/album/6MEFQmsSR3YOQXzYnDMw6T"
+      },
+      "artists": [
+        {
+          "name": "Tonia",
+          "url": "https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125607,
+      "name": "Troy",
+      "url": "https://open.spotify.com/track/2KVj7oGzV2LFjxO72z1FX1"
     },
     {
       "album": {

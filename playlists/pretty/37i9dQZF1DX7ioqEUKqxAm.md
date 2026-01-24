@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ioqEUKqxAm.md) - [plain]
 
 > 次世代のポッドキャストカルチャーを担う新進気鋭のクリエイター4組を特集 \(cover: ぽこピーのゆめうつつ\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 540 likes - 12 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 543 likes - 12 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -921,6 +921,28 @@
     },
     {
       "album": {
+        "name": "3AM IN KAAPSTAD",
+        "url": "https://open.spotify.com/album/24X9YKAR4iuOfRg8fKnacY"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Xivo",
+          "url": "https://open.spotify.com/artist/59mKnHvZFOISktAAMYzAMM"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256271,
+      "name": "3AM IN KAAPSTAD",
+      "url": "https://open.spotify.com/track/6jEkcdHeObBDTzsr6XiyHw"
+    },
+    {
+      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/37afImoE5cCB6Nxwg4a28w"
       },
@@ -13435,6 +13457,24 @@
     },
     {
       "album": {
+        "name": "Bottles up",
+        "url": "https://open.spotify.com/album/6CgGY8mg3zqZIQy4j08SdG"
+      },
+      "artists": [
+        {
+          "name": "Ria Sean",
+          "url": "https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260414,
+      "name": "Bottles up",
+      "url": "https://open.spotify.com/track/3LzYvRqc6c0QlIN04Zmb9t"
+    },
+    {
+      "album": {
         "name": "Bouchekaraille",
         "url": "https://open.spotify.com/album/5m2o4mk2FM50Qi6hrPWhW8"
       },
@@ -17051,8 +17091,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "A New Thing",
+        "url": "https://open.spotify.com/album/5spXJeVWva4NhMwcjDlFpb"
       },
       "artists": [
         {
@@ -23003,7 +23043,7 @@
     },
     {
       "album": {
-        "name": "Do Not Disturb",
+        "name": "Do Not Disturb (DND)",
         "url": "https://open.spotify.com/album/3uoKJof8T6N1Tkfr1nwfNy"
       },
       "artists": [
@@ -26310,6 +26350,28 @@
       "duration_ms": 250412,
       "name": "Enough \"WAYO\"",
       "url": "https://open.spotify.com/track/7vl3dO8ucD5eaLmmMoOWIx"
+    },
+    {
+      "album": {
+        "name": "ENOUGH FOR ME",
+        "url": "https://open.spotify.com/album/5P2RR6rOO8lTNvVxMObKmj"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 580500,
+      "name": "ENOUGH FOR ME",
+      "url": "https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3"
     },
     {
       "album": {
@@ -38244,6 +38306,24 @@
       "duration_ms": 2567700,
       "name": "High Groove Mix",
       "url": "https://open.spotify.com/track/1mJvw0g49ncpoaxjthGOBG"
+    },
+    {
+      "album": {
+        "name": "Vacancy",
+        "url": "https://open.spotify.com/album/2UuTaSOSxTNP6whKrwDqnS"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132931,
+      "name": "High Key",
+      "url": "https://open.spotify.com/track/48Rk6ZyFcztsyvUZeUFVXO"
     },
     {
       "album": {
@@ -83441,7 +83521,7 @@
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 223578,
+      "duration_ms": 196202,
       "name": "Solace",
       "url": "https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx"
     },
@@ -92708,42 +92788,6 @@
       "duration_ms": 176000,
       "name": "Trabaye",
       "url": "https://open.spotify.com/track/08e0A9k3bZHg1ayABWHt6o"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "date_added": "2026-01-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "date_added": "2026-01-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/48Rk6ZyFcztsyvUZeUFVXO"
     },
     {
       "album": {

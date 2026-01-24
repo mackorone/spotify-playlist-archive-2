@@ -1773,6 +1773,24 @@
     },
     {
       "album": {
+        "name": "Breathe On It",
+        "url": "https://open.spotify.com/album/38CH2161JgsV17KaROhaDe"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240882,
+      "name": "Breathe On It",
+      "url": "https://open.spotify.com/track/3sd2kvWWh7T2M6N64LOGSV"
+    },
+    {
+      "album": {
         "name": "Broken Into Beautiful",
         "url": "https://open.spotify.com/album/1w7LQeA7JR4nHzkPd6ZLCV"
       },
@@ -8258,6 +8276,28 @@
       "duration_ms": 271811,
       "name": "Mercy Of Jesus",
       "url": "https://open.spotify.com/track/4DUYGD9qBMUJEOYPisadF2"
+    },
+    {
+      "album": {
+        "name": "Midst",
+        "url": "https://open.spotify.com/album/1iytTNnPCBeEtX9JyyVR77"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Andrew Holt",
+          "url": "https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398125,
+      "name": "Midst",
+      "url": "https://open.spotify.com/track/3iEVhb9l6mFqj2I2LUDGua"
     },
     {
       "album": {

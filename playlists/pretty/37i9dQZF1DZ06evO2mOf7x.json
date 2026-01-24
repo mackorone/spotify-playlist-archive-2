@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 46969,
+  "num_followers": 46976,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXAXAAAAAADdjlDmH9qNnAGkgzAuYuGS",
+  "snapshot_id": "aXFogAAAAABJ2uoF7O+oJNfC7XawXrjx",
   "tracks": [
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Trampa",
-        "url": "https://open.spotify.com/album/41LNC8lKIULgtaDWJMNfbN"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "La Trampa",
-      "url": "https://open.spotify.com/track/3wqHXGjQEE5WEqCKcg8kPp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VIDA...",
         "url": "https://open.spotify.com/album/2HFHpZvlhuCotOkAQaclQj"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 225154,
       "name": "Cuento de Nunca Acabar",
       "url": "https://open.spotify.com/track/1vxvWCbWnvVOmRKh3OGlUh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Trampa",
+        "url": "https://open.spotify.com/album/41LNC8lKIULgtaDWJMNfbN"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "La Trampa",
+      "url": "https://open.spotify.com/track/3wqHXGjQEE5WEqCKcg8kPp"
     },
     {
       "added_at": null,
@@ -295,6 +295,22 @@
       "duration_ms": 202026,
       "name": "Te Regalo La Lluvia",
       "url": "https://open.spotify.com/track/2KsxQoFWqOzGkCrEQWEvKZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ay, Amor",
+        "url": "https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 189453,
+      "name": "Ya No Te Creo Nada",
+      "url": "https://open.spotify.com/track/7p2XqGtvXYKRE9mSWytHd6"
     },
     {
       "added_at": null,
@@ -371,22 +387,6 @@
       "duration_ms": 223906,
       "name": "Color Esperanza / S\u00f3lo le Pido a Dios - Versi\u00f3n M\u00e9xico",
       "url": "https://open.spotify.com/track/6Z48v2xlf3H66cgxz6Rxg3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ay, Amor",
-        "url": "https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 189453,
-      "name": "Ya No Te Creo Nada",
-      "url": "https://open.spotify.com/track/7p2XqGtvXYKRE9mSWytHd6"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Metiste",
-        "url": "https://open.spotify.com/album/1fulO1nte9iyff5EOhVj37"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 224160,
-      "name": "Te Metiste",
-      "url": "https://open.spotify.com/track/3TGHcASjfvxAdjg92V63y5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nada de Ti",
         "url": "https://open.spotify.com/album/1vMml3En3NNjiSmokeLg4q"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 223578,
       "name": "Nada de Ti",
       "url": "https://open.spotify.com/track/5ikUjQaH48yITEb174TQIi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Metiste",
+        "url": "https://open.spotify.com/album/1fulO1nte9iyff5EOhVj37"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "Te Metiste",
+      "url": "https://open.spotify.com/track/3TGHcASjfvxAdjg92V63y5"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ven a Cantar",
-        "url": "https://open.spotify.com/album/3HzOOi5kJxfrCpbX96L82F"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 261497,
-      "name": "Ven a Cantar",
-      "url": "https://open.spotify.com/track/5mldPrwCyzAlq9fNsi5aYg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yo Soy La Mujer",
         "url": "https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC"
       },
@@ -867,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ven a Cantar",
+        "url": "https://open.spotify.com/album/3HzOOi5kJxfrCpbX96L82F"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 261497,
+      "name": "Ven a Cantar",
+      "url": "https://open.spotify.com/track/5mldPrwCyzAlq9fNsi5aYg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gente Gacha",
         "url": "https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP"
       },
@@ -879,26 +879,6 @@
       "duration_ms": 175285,
       "name": "Gente Gacha",
       "url": "https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ahora Te Llamas Ex",
-        "url": "https://open.spotify.com/album/0jrNMsBQJbB6Z5eNCTQLcO"
-      },
-      "artists": [
-        {
-          "name": "Estibaliz Badiola",
-          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 149835,
-      "name": "Ahora Te Llamas Ex",
-      "url": "https://open.spotify.com/track/1GXnVmkTAwZh7zEvLlcItF"
     },
     {
       "added_at": null,
@@ -919,6 +899,26 @@
       "duration_ms": 213329,
       "name": "De Vez En Cuando",
       "url": "https://open.spotify.com/track/3n4C6uS30lIWNIcP72dhBE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ahora Te Llamas Ex",
+        "url": "https://open.spotify.com/album/0jrNMsBQJbB6Z5eNCTQLcO"
+      },
+      "artists": [
+        {
+          "name": "Estibaliz Badiola",
+          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 149835,
+      "name": "Ahora Te Llamas Ex",
+      "url": "https://open.spotify.com/track/1GXnVmkTAwZh7zEvLlcItF"
     },
     {
       "added_at": null,

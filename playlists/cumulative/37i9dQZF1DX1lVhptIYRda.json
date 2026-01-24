@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits. Cover: Megan Moroney",
+  "description": "Today's top country hits. Cover: Hudson Westbrook",
   "name": "Hot Country",
   "tracks": [
     {
@@ -1796,7 +1796,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 174666,
       "name": "Betty",
       "url": "https://open.spotify.com/track/6QN5ClFa3Ul4kFzsdw3Z8t"
@@ -3087,6 +3087,24 @@
     },
     {
       "album": {
+        "name": "Come Home to You",
+        "url": "https://open.spotify.com/album/3HmBqHCOjU219BMkGljj4t"
+      },
+      "artists": [
+        {
+          "name": "Emily Ann Roberts",
+          "url": "https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233836,
+      "name": "Come Home to You",
+      "url": "https://open.spotify.com/track/3OZIdWrjR85DbTX8DC4myC"
+    },
+    {
+      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/2z3R7CZ04HkT7425h5xyNV"
       },
@@ -4372,7 +4390,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 214089,
       "name": "East Texas and You",
       "url": "https://open.spotify.com/track/3Vl3sIrcTxAMmeh07x2zN2"
@@ -13158,6 +13176,24 @@
       "duration_ms": 307325,
       "name": "Save My Soul",
       "url": "https://open.spotify.com/track/41vuNGM0cYTgNS4Bc1CJTA"
+    },
+    {
+      "album": {
+        "name": "With Heaven On Top",
+        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143985,
+      "name": "Say Why",
+      "url": "https://open.spotify.com/track/0BUvxX1tTOSJcsn6Y24Bsp"
     },
     {
       "album": {

@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 139666,
       "name": "A French Film",
       "url": "https://open.spotify.com/track/72eFRpAOIUP4W5LF9pBydT"
@@ -9230,6 +9230,24 @@
       "duration_ms": 136324,
       "name": "Forever Right Now",
       "url": "https://open.spotify.com/track/0RKSDqAbLoKCWBEn7a4UWR"
+    },
+    {
+      "album": {
+        "name": "Forever Together",
+        "url": "https://open.spotify.com/album/5Y5ka0EC95wuwjyGr9HB24"
+      },
+      "artists": [
+        {
+          "name": "Michael Donnahue",
+          "url": "https://open.spotify.com/artist/7wlNAuoM6zRpAs77Tolvq9"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153819,
+      "name": "Forever Together",
+      "url": "https://open.spotify.com/track/1Dlolgky0fs2As7rDCRVxP"
     },
     {
       "album": {
@@ -20922,6 +20940,24 @@
       "duration_ms": 126146,
       "name": "Pavane",
       "url": "https://open.spotify.com/track/7fMLe5XURJy5rNY2lKivZx"
+    },
+    {
+      "album": {
+        "name": "Peace Lily",
+        "url": "https://open.spotify.com/album/4Cl3Xo48JyMR6RWd9hADZN"
+      },
+      "artists": [
+        {
+          "name": "The Piano Herbarium",
+          "url": "https://open.spotify.com/artist/0QiOtbuT3B1A7Xa5gaKhfW"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166121,
+      "name": "Peace Lily",
+      "url": "https://open.spotify.com/track/5EKoMQsahU2tYxuqslj8T2"
     },
     {
       "album": {

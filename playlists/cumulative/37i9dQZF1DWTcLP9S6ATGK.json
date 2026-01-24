@@ -124,7 +124,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 229655,
       "name": "7 Menit",
       "url": "https://open.spotify.com/track/5n6pzrxQfnPCQgQPJWqMF1"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 155610,
       "name": "Addiction - Acoustic",
       "url": "https://open.spotify.com/track/2FfiwEFWDceK0TlkpAwLIH"
@@ -586,7 +586,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 262400,
       "name": "Antar Kota Antar Provinsi",
       "url": "https://open.spotify.com/track/2lj37daPVOxjODp77twGhH"
@@ -716,7 +716,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 272000,
       "name": "Apanya Dong",
       "url": "https://open.spotify.com/track/4kMvDpPbuOaHznBY9TY1Wo"
@@ -788,7 +788,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 168705,
       "name": "Arti Yang Sama",
       "url": "https://open.spotify.com/track/3dLu8IZ4u6pvVIq7Y8QoxM"
@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 209190,
       "name": "Bahagianya Aku Sama Kamu",
       "url": "https://open.spotify.com/track/6gcYl7ittGR6DodvF4BTO7"
@@ -1872,7 +1872,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 245427,
       "name": "Bertemu 5000 Detik",
       "url": "https://open.spotify.com/track/5k8r824ONOtPpsCG9o9jE2"
@@ -3544,7 +3544,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 215447,
       "name": "Dari Jauh",
       "url": "https://open.spotify.com/track/74ICl8FcIvdaGoHYuQg24T"
@@ -4082,7 +4082,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 324818,
       "name": "Ego",
       "url": "https://open.spotify.com/track/39B12Su7R0fIDcQPykPwkc"
@@ -5482,7 +5482,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 156428,
       "name": "Jatuh Cinta Di Saat Mati Rasa",
       "url": "https://open.spotify.com/track/5Cok7Hs7dv79eXQtvutk4g"
@@ -6550,7 +6550,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 252859,
       "name": "Kosong",
       "url": "https://open.spotify.com/track/50DFbZIl4DauAbdzlylPyT"
@@ -8652,7 +8652,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 278000,
       "name": "Nina Belum Bobo",
       "url": "https://open.spotify.com/track/1mNQ7jy4kDAFNqTnaFrgXX"
@@ -9670,7 +9670,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 213000,
       "name": "PPN (Para Pencari Nafkah)",
       "url": "https://open.spotify.com/track/0MOdukd6nHsCvox7htyI2F"
@@ -10604,6 +10604,24 @@
       "duration_ms": 240441,
       "name": "Salahkah Berharap",
       "url": "https://open.spotify.com/track/3cLJss4xbXCovH0GNOxgw2"
+    },
+    {
+      "album": {
+        "name": "Salahnya Aku",
+        "url": "https://open.spotify.com/album/34F63zVp4z2fAUkZHZoMYQ"
+      },
+      "artists": [
+        {
+          "name": "Yogie Nandes",
+          "url": "https://open.spotify.com/artist/1bymZsHKEEyWGaEuN5rB62"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Salahnya Aku",
+      "url": "https://open.spotify.com/track/1bRhQrTrurSHiFxL7SulGU"
     },
     {
       "album": {
@@ -11692,7 +11710,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 218644,
       "name": "Senafas - Acoustic",
       "url": "https://open.spotify.com/track/4zXYpOy0py6Y1Jr1M86f54"
@@ -12234,7 +12252,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 322757,
       "name": "Siluet",
       "url": "https://open.spotify.com/track/5Drvm8LmCBocO3Ha6SaNES"
@@ -12932,7 +12950,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 215404,
       "name": "Tak Mau Mandiri",
       "url": "https://open.spotify.com/track/4PJ16pijjWai1uXKXhobsC"
@@ -13568,7 +13586,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 246000,
       "name": "Tenang, Belum Tentu itu yang Terjadi",
       "url": "https://open.spotify.com/track/3JAJdtavE1iaqR0XCA73DW"

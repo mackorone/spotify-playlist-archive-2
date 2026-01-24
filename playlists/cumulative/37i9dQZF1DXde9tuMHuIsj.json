@@ -5278,7 +5278,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 164124,
       "name": "Gohan y Goku",
       "url": "https://open.spotify.com/track/6tfaLKSTenQxuf3wM263wN"
@@ -11036,6 +11036,28 @@
       "duration_ms": 107906,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/7icIDep1Jr3oJdgJSGsdnM"
+    },
+    {
+      "album": {
+        "name": "EL ANDROIDE",
+        "url": "https://open.spotify.com/album/4hHr8IqArStD13dxMZqNM8"
+      },
+      "artists": [
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "THIS IS COLOMBIA",
+      "url": "https://open.spotify.com/track/1pnK2LlYNzYbiJ7KyMgn7E"
     },
     {
       "album": {

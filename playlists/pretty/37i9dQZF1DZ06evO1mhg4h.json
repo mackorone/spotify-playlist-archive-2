@@ -1,12 +1,12 @@
 {
   "description": "This is kessoku band. The essential tracks, all in one playlist.",
-  "num_followers": 35395,
+  "num_followers": 35405,
   "original_name": "This Is kessoku band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXAXAAAAAACYOgfB2BK5aU+T27PAxkS4",
+  "snapshot_id": "aXFogAAAAABdSgFGXHAxfWyFnoiD8ztk",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u5149\u306e\u4e2d\u3078",
+        "url": "https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8"
+      },
+      "artists": [
+        {
+          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
+        }
+      ],
+      "duration_ms": 258266,
+      "name": "\u5149\u306e\u4e2d\u3078-instrumental-",
+      "url": "https://open.spotify.com/track/1t8KHcCAzyvXrCc4AIuZjN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u7d50\u675f\u30d0\u30f3\u30c9 TOUR \u201cWe will B\u201d",
         "url": "https://open.spotify.com/album/2PadFbanHKV06oSqeUelHR"
       },
@@ -388,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
         }
       ],
-      "duration_ms": 274053,
-      "name": "\u661f\u5ea7\u306b\u306a\u308c\u305f\u3089 -We will B- Live ver.",
-      "url": "https://open.spotify.com/track/05FLjHg93uElDdRpXX5ckx"
+      "duration_ms": 273320,
+      "name": "\u30ab\u30e9\u30ab\u30e9 -We will B- Live ver.",
+      "url": "https://open.spotify.com/track/2TeeUxAD3AhHaHmMoIFkDB"
     },
     {
       "added_at": null,
@@ -420,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
         }
       ],
-      "duration_ms": 273320,
-      "name": "\u30ab\u30e9\u30ab\u30e9 -We will B- Live ver.",
-      "url": "https://open.spotify.com/track/2TeeUxAD3AhHaHmMoIFkDB"
+      "duration_ms": 274053,
+      "name": "\u661f\u5ea7\u306b\u306a\u308c\u305f\u3089 -We will B- Live ver.",
+      "url": "https://open.spotify.com/track/05FLjHg93uElDdRpXX5ckx"
     },
     {
       "added_at": null,

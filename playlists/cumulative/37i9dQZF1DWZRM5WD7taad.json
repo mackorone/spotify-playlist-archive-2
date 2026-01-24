@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Mujeres raperas rompi\u00e9ndola en toda Latinoam\u00e9rica. Snow Tha Product en Portada ",
+  "description": "Mujeres raperas rompi\u00e9ndola en toda Latinoam\u00e9rica. Kei Linch en Portada ",
   "name": "Femcees",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 180000,
       "name": "656",
       "url": "https://open.spotify.com/track/27comOxPr6YJtb2Vz1pQIQ"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 175660,
       "name": "CACHOS DE M\u00cd",
       "url": "https://open.spotify.com/track/1J4YUzi7UGEo5LLdgjKIFS"
@@ -3036,6 +3036,32 @@
       "duration_ms": 145609,
       "name": "GARDEL EN EL AVI\u00d3N",
       "url": "https://open.spotify.com/track/7bMZF2sGTEAvZC0lIHAPAA"
+    },
+    {
+      "album": {
+        "name": "Glowstar",
+        "url": "https://open.spotify.com/album/1wlGKo8YU0VvQgXUEND8c0"
+      },
+      "artists": [
+        {
+          "name": "Charly Gynn",
+          "url": "https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT"
+        },
+        {
+          "name": "Tzunami",
+          "url": "https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8"
+        },
+        {
+          "name": "Alexxbacacho",
+          "url": "https://open.spotify.com/artist/0B1AssDwSsJD8QdqM6o5Ml"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110561,
+      "name": "Glowstar",
+      "url": "https://open.spotify.com/track/2rQo6S1DzbUckHBIuynpzh"
     },
     {
       "album": {
@@ -5704,7 +5730,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 129375,
       "name": "PERO NAH!",
       "url": "https://open.spotify.com/track/1XGfXlXEggYgLHPFQIT1Aq"
@@ -6970,7 +6996,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 211200,
       "name": "Sue\u00f1os",
       "url": "https://open.spotify.com/track/2MOq3MGljBBHaUWlM5ARsp"
@@ -7821,6 +7847,28 @@
     },
     {
       "album": {
+        "name": "VINOS Y VINILOS",
+        "url": "https://open.spotify.com/album/4RnSUfSekNV7gWqGHLeokD"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        },
+        {
+          "name": "Dj Dacel",
+          "url": "https://open.spotify.com/artist/5Nj8sBYPlnStp5EkE2f0Lf"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211815,
+      "name": "VINOS Y VINILOS",
+      "url": "https://open.spotify.com/track/3mFOwuiklPhZrINaQiiZAk"
+    },
+    {
+      "album": {
         "name": "Violenta Se Pone el Hambre",
         "url": "https://open.spotify.com/album/6HSX7YwZwVhPJF9v6eLmxh"
       },
@@ -8036,6 +8084,24 @@
       "duration_ms": 178212,
       "name": "XQ!?",
       "url": "https://open.spotify.com/track/0APvnF3EANeuJNXBA61LUl"
+    },
+    {
+      "album": {
+        "name": "Ya no est\u00e1s",
+        "url": "https://open.spotify.com/album/69KictUlgQGyu9OQ7J438h"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "Ya no est\u00e1s",
+      "url": "https://open.spotify.com/track/5nPUP7GjkfASfMP6PUu1dC"
     },
     {
       "album": {

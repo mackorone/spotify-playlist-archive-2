@@ -736,7 +736,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-16",
+      "date_removed": null,
       "duration_ms": 153320,
       "name": "Perd\u00f3name Mi Amor",
       "url": "https://open.spotify.com/track/7Mtc9v1kK4jZjQmWi155xM"
@@ -797,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Rockin' And Rollin'",
+        "url": "https://open.spotify.com/album/2NSURyToNLKlRwUM1AS3x0"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180760,
+      "name": "Pinches Mariguanos",
+      "url": "https://open.spotify.com/track/3abqHxzHzh7yTj6WTiy4J1"
+    },
+    {
+      "album": {
         "name": "Pinches Mariguanos",
         "url": "https://open.spotify.com/album/089KiimOn0i7lGJJztXELG"
       },
@@ -808,7 +826,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 211146,
       "name": "Pinches Mariguanos",
       "url": "https://open.spotify.com/track/3H8aARR9Npv0DArzgl3KJH"
@@ -1328,7 +1346,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 226520,
       "name": "\u00a1Vete al Carajo!",
       "url": "https://open.spotify.com/track/6b6IB01M7qXg4WyqD5EQKI"

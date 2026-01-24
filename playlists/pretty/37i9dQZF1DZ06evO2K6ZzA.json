@@ -1,12 +1,12 @@
 {
   "description": "This is sombr. The essential tracks, all in one playlist.",
-  "num_followers": 84448,
+  "num_followers": 84539,
   "original_name": "This Is sombr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXAXAAAAAAC+ZkkomNFsLSzc/6eDUYFW",
+  "snapshot_id": "aXFogAAAAACsb1a+iWG+ygjSgx/Lnjev",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "savior",
-        "url": "https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "savior",
-      "url": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "makes me want you",
         "url": "https://open.spotify.com/album/1D8iT4RFF0y4eF2nc6Nssx"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 160923,
       "name": "makes me want you",
       "url": "https://open.spotify.com/track/0CRvTAUyG3WOb3DIelsJ12"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "savior",
+        "url": "https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 180626,
+      "name": "savior",
+      "url": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > House Music\. Period.
 
-904 songs - 1 day 23 hr 52 min
+906 songs - 1 day 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Corvette 97](https://open.spotify.com/track/40GO913GvlJP8AJ5zFmUOZ) | [Mike Epsse](https://open.spotify.com/artist/7sLCily4K5uTgTA8iOTHPd), [Confession](https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1) | [Corvette 97](https://open.spotify.com/album/1wSKqUR6ymXd9bBeHn6DN9) | 2:45 | 2025-06-08 | 2025-08-31 |
 | [Count Up](https://open.spotify.com/track/38NwjqZJ024VDR8PDr8blU) | [OKAYVAL](https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ) | [Count Up](https://open.spotify.com/album/02Ih1EGsk0rjnG0Bu1YaNu) | 3:32 | 2025-09-14 |  |
 | [Crashout](https://open.spotify.com/track/1H3PyvVjT4NmwJMgzI3jbr) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Crashout](https://open.spotify.com/album/6WMccOsTUBD5MjR5GOBLu6) | 3:17 | 2025-09-06 | 2025-10-07 |
+| [Cruel](https://open.spotify.com/track/63IA3SA0lwRLdayJtXzqiQ) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [Cruel](https://open.spotify.com/album/22kuSvQQ0Ar1xyxLqBwBwI) | 3:18 | 2026-01-23 |  |
 | [Crush](https://open.spotify.com/track/422u4065pibZQ0jUl1kJo0) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Crush](https://open.spotify.com/album/1N7K3IIyDpWywAo7hrlHzc) | 3:01 | 2025-06-01 | 2025-08-24 |
 | [D.A.N.C.E](https://open.spotify.com/track/2mnQZtS74Agt6mJPv5eqzY) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [D.A.N.C.E](https://open.spotify.com/album/4lT8F3ZtFCmtsiY206o13Y) | 2:37 | 2024-10-12 | 2024-12-22 |
 | [DADDY KEEPS CALLING](https://open.spotify.com/track/1iue9j6pHYFdk8pR0ekLJS) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [DADDY KEEPS CALLING](https://open.spotify.com/album/3yceYuyQpneDvuHnkTR41C) | 2:37 | 2024-09-15 | 2024-10-29 |
@@ -644,6 +645,7 @@
 | [Rave Day \(Happy\)](https://open.spotify.com/track/4tCd8v6yDglAgzcOp7mfcV) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Rave Day \(Happy\)](https://open.spotify.com/album/3kuDNOZGj6sqOdIFkEot1y) | 2:49 | 2024-08-19 | 2024-09-29 |
 | [Raver](https://open.spotify.com/track/4w0im0apa9otecsHkTQjde) | [Marvin Sykes](https://open.spotify.com/artist/09JZVBDt1uPP1ztVtmKoDE) | [Raver](https://open.spotify.com/album/5efUXlh8q1Sez8yc4XKB05) | 2:56 | 2024-11-25 | 2025-02-17 |
 | [Raw](https://open.spotify.com/track/2U9RtZORzcu54vkWI19PIL) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Raw](https://open.spotify.com/album/2CJ61dRA06lmlIw8hVvmak) | 3:12 | 2025-08-23 | 2025-10-07 |
+| [RAW](https://open.spotify.com/track/2COxLsJ9HpiPG98HcoFQPA) | [Nico Falla](https://open.spotify.com/artist/4AkU9yNDom7FVL65WjszS1) | [RAW](https://open.spotify.com/album/0K2f7IYbcbEBCVTfk3Wzfd) | 3:01 | 2026-01-23 |  |
 | [Raw Control](https://open.spotify.com/track/0JrEm4vEEzpHsdcxHlRJop) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Raw Control](https://open.spotify.com/album/1DwqsGfeJWh4P4cbd0AywD) | 2:30 | 2025-08-02 | 2025-10-07 |
 | [Reach \- Radio Mix](https://open.spotify.com/track/4Qy1hc8V8UDraA3rzLt2jR) | [ACID HARRY](https://open.spotify.com/artist/0Xv8xXnOJ9v8qOIiqyR7FW) | [Reach](https://open.spotify.com/album/3y2s2D3XGV7Pyr4geGOP32) | 3:04 | 2024-12-21 | 2025-03-10 |
 | [Ready For Your Love \- Odd Mob Remix](https://open.spotify.com/track/35Xp4gxNJljB9m2mSLLMvv) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Ready For Your Love \(Odd Mob Remix\)](https://open.spotify.com/album/0TUFe4rk1pRjdkWLUFDohX) | 2:59 | 2025-03-29 | 2025-06-08 |

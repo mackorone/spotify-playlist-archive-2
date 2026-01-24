@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "2AM Notes",
+        "url": "https://open.spotify.com/album/1OG1VcBpdqZ0epTK9Q5wlC"
+      },
+      "artists": [
+        {
+          "name": "Soft Water City",
+          "url": "https://open.spotify.com/artist/6TuwCLQKzsod3Z4Nr3FUsW"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "2AM Notes",
+      "url": "https://open.spotify.com/track/1vpPkpXvKBfREKyKOxjrYs"
+    },
+    {
+      "album": {
         "name": "5 Years, 8 Months, 3 Days",
         "url": "https://open.spotify.com/album/6F5IYuBjkR9eiZISmuW5RD"
       },
@@ -1576,7 +1594,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 122500,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/3i3aVOWyaNcEMIlnoSilGb"
@@ -1800,6 +1818,24 @@
       "duration_ms": 134250,
       "name": "Claviator",
       "url": "https://open.spotify.com/track/2QabqGqpBdgPC7JLisqaNU"
+    },
+    {
+      "album": {
+        "name": "Coast",
+        "url": "https://open.spotify.com/album/0YUpgTzRdcpmEL0h2ZK9N5"
+      },
+      "artists": [
+        {
+          "name": "Moody Moon",
+          "url": "https://open.spotify.com/artist/5FqggPXiI6UjenpYlu4xSU"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143296,
+      "name": "Coast",
+      "url": "https://open.spotify.com/track/5PWHkqog3DY2L888uRF1z3"
     },
     {
       "album": {

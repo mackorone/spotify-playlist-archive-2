@@ -4,7 +4,7 @@
 
 > melancholic dreaming… or my go\-to plane playlist
 
-360 songs - 23 hr 7 min
+361 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 | 2019-02-18 |  |
 | [3005](https://open.spotify.com/track/3Z2sglqDj1rDRMF5x0Sz2R) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because The Internet](https://open.spotify.com/album/0zi2TaQkYxfXIBvl2yTjQJ) | 3:54 | 2019-02-12 |  |
 | [40 Loop \(Wild Hunt Sessions\)](https://open.spotify.com/track/2eA1upv8GnYMmwN32lV5L5) | [Wild Hunt](https://open.spotify.com/artist/4bimfv6edtj0UI0eMpp4zA), [Purser](https://open.spotify.com/artist/1BqQWEnRl5jLqRWKpsnj6L) | [Purser \(Wild Hunt Sessions\)](https://open.spotify.com/album/789990Ar3S4X9rEUSJwv0j) | 4:19 | 2023-04-13 |  |
+| [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 | 2026-01-23 |  |
 | [90210 \(feat\. Kacy Hill\)](https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 5:39 | 2020-12-18 |  |
 | [911 / Mr\. Lonely \(feat\. Frank Ocean & Steve Lacy\)](https://open.spotify.com/track/4bEcoz1OcfMgUbp2ft8ieQ) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 4:15 | 2020-04-26 |  |
 | [A Place Where Love Goes](https://open.spotify.com/track/0oVBkJA2wrSqrwz3eJ6c85) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 2:43 | 2024-07-21 |  |

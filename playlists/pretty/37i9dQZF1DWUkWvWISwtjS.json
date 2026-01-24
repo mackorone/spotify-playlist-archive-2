@@ -1,12 +1,12 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 440461,
+  "num_followers": 440382,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABTdG3GTwLiFTqKvGseXWEXp2lbJ",
+  "snapshot_id": "AAAAAMUkcKM2hkR9lZkaU7kjEsiCmcSS",
   "tracks": [
     {
       "added_at": "2026-01-16 03:03:24",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "VIVA (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 180001,
-      "name": "choque t\u00e9rmico - ao vivo",
-      "url": "https://open.spotify.com/track/159ntSAEWJ9zIMOSXmQ530"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Singular",
         "url": "https://open.spotify.com/album/5fE7n160Z91dVGHQaAS0qo"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 230943,
       "name": "Singular",
       "url": "https://open.spotify.com/track/1seYL4Yk6U2mGLm41uoxoE"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "VIVA (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 180001,
+      "name": "choque t\u00e9rmico - ao vivo",
+      "url": "https://open.spotify.com/track/159ntSAEWJ9zIMOSXmQ530"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -607,8 +607,8 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Medida Certa",
-        "url": "https://open.spotify.com/album/5odHcyWv2Zcw2O9Y273EYB"
+        "name": "Amo Noite E Dia (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0EtsGtfFsV13lGE0wnmwbe"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 186816,
-      "name": "Medida Certa",
-      "url": "https://open.spotify.com/track/44mr3ypWNHa0inr3heiOb2"
+      "duration_ms": 188145,
+      "name": "Amo Noite E Dia - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0AEcoGLcaEGwLoROAfbY8L"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1139,54 +1139,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Do Jeito que N\u00f3is Gosta 2",
-        "url": "https://open.spotify.com/album/3i7XBb2cgTp2QCCv3xcQwM"
-      },
-      "artists": [
-        {
-          "name": "Diego & Arnaldo",
-          "url": "https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft"
-        }
-      ],
-      "duration_ms": 161529,
-      "name": "Se Eu Te Procurar",
-      "url": "https://open.spotify.com/track/7dYm9m4c51h4IeICvu6b1O"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Z\u00e9 da Reca\u00edda",
-        "url": "https://open.spotify.com/album/6GpuBgy6WQZhWrnCsBeMma"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 168458,
-      "name": "Z\u00e9 da Reca\u00edda",
-      "url": "https://open.spotify.com/track/4iGwWeV7XVIWO9Yy5QExOr"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Juramento do Dedinho",
-        "url": "https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0"
-      },
-      "artists": [
-        {
-          "name": "Mano Walter",
-          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
-        }
-      ],
-      "duration_ms": 164808,
-      "name": "Juramento do Dedinho",
-      "url": "https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Em Sintonia (Ao Vivo) - Deluxe",
         "url": "https://open.spotify.com/album/4etUK377JH3G9YZEgEEwt6"
       },
@@ -1207,6 +1159,38 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
+        "name": "Z\u00e9 da Reca\u00edda",
+        "url": "https://open.spotify.com/album/6GpuBgy6WQZhWrnCsBeMma"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 168458,
+      "name": "Z\u00e9 da Reca\u00edda",
+      "url": "https://open.spotify.com/track/4iGwWeV7XVIWO9Yy5QExOr"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Do Jeito que N\u00f3is Gosta 2",
+        "url": "https://open.spotify.com/album/3i7XBb2cgTp2QCCv3xcQwM"
+      },
+      "artists": [
+        {
+          "name": "Diego & Arnaldo",
+          "url": "https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft"
+        }
+      ],
+      "duration_ms": 161529,
+      "name": "Se Eu Te Procurar",
+      "url": "https://open.spotify.com/track/7dYm9m4c51h4IeICvu6b1O"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
         "name": "ASSIM NASCE UM B\u00caBADO",
         "url": "https://open.spotify.com/album/4eSeT6FOFd9VmN4tCyyQc3"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 223374,
       "name": "ASSIM NASCE UM B\u00caBADO",
       "url": "https://open.spotify.com/track/3p3iOpzsKOGMeNBaexBXXR"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Juramento do Dedinho",
+        "url": "https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0"
+      },
+      "artists": [
+        {
+          "name": "Mano Walter",
+          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
+        }
+      ],
+      "duration_ms": 164808,
+      "name": "Juramento do Dedinho",
+      "url": "https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
+        "name": "Nosso cupido foi Deus",
+        "url": "https://open.spotify.com/album/4NdRHk0mCKC0ncMp25ACVH"
+      },
+      "artists": [
+        {
+          "name": "Paula Mattos",
+          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
+        }
+      ],
+      "duration_ms": 186276,
+      "name": "Nosso cupido foi Deus",
+      "url": "https://open.spotify.com/track/7DK52ZiA1fAJJUr26p9R7X"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
         "name": "Mundo de Ilus\u00f5es (Ao Vivo)",
         "url": "https://open.spotify.com/album/15Mfvr76GKsxj0Bw4FEwFi"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 123060,
       "name": "Deus Me Livre Quem Me Dera",
       "url": "https://open.spotify.com/track/4b08wlmxdHRHS1jLS4wcmd"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Nosso cupido foi Deus",
-        "url": "https://open.spotify.com/album/4NdRHk0mCKC0ncMp25ACVH"
-      },
-      "artists": [
-        {
-          "name": "Paula Mattos",
-          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
-        }
-      ],
-      "duration_ms": 186276,
-      "name": "Nosso cupido foi Deus",
-      "url": "https://open.spotify.com/track/7DK52ZiA1fAJJUr26p9R7X"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
+        "name": "Volta Marcada",
+        "url": "https://open.spotify.com/album/3tGRBso3V5BMLM65tFSy9a"
+      },
+      "artists": [
+        {
+          "name": "Juan Marcus & Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 167573,
+      "name": "Volta Marcada",
+      "url": "https://open.spotify.com/track/0V0k5MpqZ55XwJRTQq2GbM"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
         "name": "Short Jeans (Ao Vivo)",
         "url": "https://open.spotify.com/album/5LFwQQi2Ay3oYY3NZ6bZ7x"
       },
@@ -1471,6 +1491,22 @@
       "duration_ms": 180500,
       "name": "Short Jeans - Ao Vivo",
       "url": "https://open.spotify.com/track/78G6jgpMdzSEiBPkBLWi9S"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Sou do Interior (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/7wo5bswQTsr4Nmk97UNG3V"
+      },
+      "artists": [
+        {
+          "name": "Fernando & Sorocaba",
+          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
+        }
+      ],
+      "duration_ms": 176835,
+      "name": "Terapinga - Ao Vivo",
+      "url": "https://open.spotify.com/track/2YCTACQ3QfMr9QtlGI2tQE"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1495,42 +1531,6 @@
       "duration_ms": 146424,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/6N46P4y6dlnrtAWWCaHu7O"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Sou do Interior (Ao Vivo) [Deluxe]",
-        "url": "https://open.spotify.com/album/7wo5bswQTsr4Nmk97UNG3V"
-      },
-      "artists": [
-        {
-          "name": "Fernando & Sorocaba",
-          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
-        }
-      ],
-      "duration_ms": 176835,
-      "name": "Terapinga - Ao Vivo",
-      "url": "https://open.spotify.com/track/2YCTACQ3QfMr9QtlGI2tQE"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Volta Marcada",
-        "url": "https://open.spotify.com/album/3tGRBso3V5BMLM65tFSy9a"
-      },
-      "artists": [
-        {
-          "name": "Juan Marcus & Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 167573,
-      "name": "Volta Marcada",
-      "url": "https://open.spotify.com/track/0V0k5MpqZ55XwJRTQq2GbM"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
+        "name": "Alguns Defeitos",
+        "url": "https://open.spotify.com/album/55bLrQZIshSyN5C9x1CQsh"
+      },
+      "artists": [
+        {
+          "name": "Juan Marcus & Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
+        }
+      ],
+      "duration_ms": 185659,
+      "name": "Alguns Defeitos",
+      "url": "https://open.spotify.com/track/2Bl3dk6diYybHz4qhJ3w68"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
         "name": "Cancela o Sentimento (feat. Mar\u00edlia Mendon\u00e7a)",
         "url": "https://open.spotify.com/album/6BUjNYSPOiRcyARuPkcwhn"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 176734,
       "name": "Contr\u00e1rio",
       "url": "https://open.spotify.com/track/76NzI3TmJCAvw28nB3EGk2"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Alguns Defeitos",
-        "url": "https://open.spotify.com/album/55bLrQZIshSyN5C9x1CQsh"
-      },
-      "artists": [
-        {
-          "name": "Juan Marcus & Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
-        }
-      ],
-      "duration_ms": 185659,
-      "name": "Alguns Defeitos",
-      "url": "https://open.spotify.com/track/2Bl3dk6diYybHz4qhJ3w68"
     },
     {
       "added_at": "2026-01-16 03:03:24",

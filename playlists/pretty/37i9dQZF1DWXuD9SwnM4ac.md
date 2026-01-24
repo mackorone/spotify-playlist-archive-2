@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Bic Runga
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,292 likes - 101 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,298 likes - 101 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [i see red](https://open.spotify.com/track/3Gg7L1NuNNhqltvDgd6VHI) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [i see red](https://open.spotify.com/album/231uuW018MqyHPEGHHjZ8C) | 2:56 |
-| 2 | [Ghost in Your Bed](https://open.spotify.com/track/1xLmLJ8aqhqpfy9Y8yrvwy) | [Bic Runga](https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV) | [Ghost in Your Bed](https://open.spotify.com/album/4hCnWA3vA8bpwHzNcC4u7J) | 2:48 |
-| 3 | [Site Unseen](https://open.spotify.com/track/13Xx3Q8vjOBouZuyJmwfEA) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Site Unseen](https://open.spotify.com/album/066Z7ZIBEWHH4bqxtq5KwU) | 2:46 |
-| 4 | [Over You](https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Over You](https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk) | 4:44 |
-| 5 | [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 |
-| 6 | [Outdone](https://open.spotify.com/track/5hVSEP4ifL3mhb3IFugwqB) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Outdone](https://open.spotify.com/album/6hJIRm2IhV6AEPRuLxYpE0) | 3:35 |
-| 7 | [Popo](https://open.spotify.com/track/78EYjBI1NZZ4EHsPDk0RQ1) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT), [Joe Kaptein](https://open.spotify.com/artist/7FOtz77QG8IybeuiPvfOdE) | [Popo](https://open.spotify.com/album/1IkfJZp49ajbXZiYT2BUoa) | 5:05 |
-| 8 | [Pigeon](https://open.spotify.com/track/20xPTgR9luxSduaKnv3hok) | [Ebop](https://open.spotify.com/artist/2Efy3ySYJ83uBkokvfdwxn) | [Pigeon](https://open.spotify.com/album/1OEcnuGKiWFB4BaASFzTSk) | 3:21 |
-| 9 | [Miffed It](https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL) | 4:06 |
-| 10 | [romp](https://open.spotify.com/track/1JAD1TsssVNoZM4kvSykCH) | [Kinji](https://open.spotify.com/artist/52BlbTWmOsQ3K4hA1tOluh) | [Thunderhead](https://open.spotify.com/album/75vEyuCyUQKUwjL97t8xed) | 4:31 |
-| 11 | [2SIDED](https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [2SIDED](https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL) | 2:57 |
-| 12 | [Death of Love](https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Death of Love](https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH) | 3:26 |
-| 13 | [Last of a Dying Breed](https://open.spotify.com/track/1c2ArpI0RmBOk62Tf81xLI) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Last of a Dying Breed](https://open.spotify.com/album/3ttt3IAhIjw42M0OXWbyJS) | 2:29 |
-| 14 | [Fr3o](https://open.spotify.com/track/1CQhEJ1Eg6jqmU1qQH8uJ9) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Fr3o](https://open.spotify.com/album/2kn6CbVOHlyu4i82oIkpOK) | 3:27 |
-| 15 | [PUNK ROCKY](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [PUNK ROCKY](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
-| 16 | [Two Together](https://open.spotify.com/track/59fX4bGny5fTWsQaf5GoOS) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Scatterbrains \(On Second Thought\)](https://open.spotify.com/album/4MdxAFFHMb50SApOiAnxj0) | 5:37 |
-| 17 | [Dead End](https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Dead End](https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9) | 4:05 |
-| 18 | [Snug Barber](https://open.spotify.com/track/5qBqLgIPUf2fyBYgZ8GeKv) | [Any Young Mechanic](https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf) | [Snug Barber](https://open.spotify.com/album/1yBqLhjTJF67wXAmfuGzCw) | 1:58 |
-| 19 | [Suckerrr](https://open.spotify.com/track/0vjwvjTIr3xicvWyDbMRLm) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Suckerrr](https://open.spotify.com/album/5DI7QnyXRavy0QriWNciyp) | 2:39 |
+| 1 | [Ghost in Your Bed](https://open.spotify.com/track/1xLmLJ8aqhqpfy9Y8yrvwy) | [Bic Runga](https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV) | [Ghost in Your Bed](https://open.spotify.com/album/4hCnWA3vA8bpwHzNcC4u7J) | 2:48 |
+| 2 | [Site Unseen](https://open.spotify.com/track/13Xx3Q8vjOBouZuyJmwfEA) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Site Unseen](https://open.spotify.com/album/066Z7ZIBEWHH4bqxtq5KwU) | 2:46 |
+| 3 | [Over You](https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Over You](https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk) | 4:44 |
+| 4 | [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 |
+| 5 | [Outdone](https://open.spotify.com/track/5hVSEP4ifL3mhb3IFugwqB) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Outdone](https://open.spotify.com/album/6hJIRm2IhV6AEPRuLxYpE0) | 3:35 |
+| 6 | [Popo](https://open.spotify.com/track/78EYjBI1NZZ4EHsPDk0RQ1) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT), [Joe Kaptein](https://open.spotify.com/artist/7FOtz77QG8IybeuiPvfOdE) | [Popo](https://open.spotify.com/album/1IkfJZp49ajbXZiYT2BUoa) | 5:05 |
+| 7 | [Pigeon](https://open.spotify.com/track/20xPTgR9luxSduaKnv3hok) | [Ebop](https://open.spotify.com/artist/2Efy3ySYJ83uBkokvfdwxn) | [Pigeon](https://open.spotify.com/album/1OEcnuGKiWFB4BaASFzTSk) | 3:21 |
+| 8 | [Miffed It](https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL) | 4:06 |
+| 9 | [romp](https://open.spotify.com/track/1JAD1TsssVNoZM4kvSykCH) | [Kinji](https://open.spotify.com/artist/52BlbTWmOsQ3K4hA1tOluh) | [Thunderhead](https://open.spotify.com/album/75vEyuCyUQKUwjL97t8xed) | 4:31 |
+| 10 | [2SIDED](https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [2SIDED](https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL) | 2:57 |
+| 11 | [Death of Love](https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Death of Love](https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH) | 3:26 |
+| 12 | [Last of a Dying Breed](https://open.spotify.com/track/1c2ArpI0RmBOk62Tf81xLI) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Last of a Dying Breed](https://open.spotify.com/album/3ttt3IAhIjw42M0OXWbyJS) | 2:29 |
+| 13 | [Fr3o](https://open.spotify.com/track/1CQhEJ1Eg6jqmU1qQH8uJ9) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Fr3o](https://open.spotify.com/album/2kn6CbVOHlyu4i82oIkpOK) | 3:27 |
+| 14 | [PUNK ROCKY](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [PUNK ROCKY](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
+| 15 | [Two Together](https://open.spotify.com/track/59fX4bGny5fTWsQaf5GoOS) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Scatterbrains \(On Second Thought\)](https://open.spotify.com/album/4MdxAFFHMb50SApOiAnxj0) | 5:37 |
+| 16 | [Dead End](https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Dead End](https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9) | 4:05 |
+| 17 | [Snug Barber](https://open.spotify.com/track/5qBqLgIPUf2fyBYgZ8GeKv) | [Any Young Mechanic](https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf) | [Snug Barber](https://open.spotify.com/album/1yBqLhjTJF67wXAmfuGzCw) | 1:58 |
+| 18 | [Suckerrr](https://open.spotify.com/track/0vjwvjTIr3xicvWyDbMRLm) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Suckerrr](https://open.spotify.com/album/5DI7QnyXRavy0QriWNciyp) | 2:39 |
+| 19 | [i see red](https://open.spotify.com/track/3Gg7L1NuNNhqltvDgd6VHI) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [i see red](https://open.spotify.com/album/231uuW018MqyHPEGHHjZ8C) | 2:56 |
 | 20 | [Where's My Phone?](https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Where's My Phone?](https://open.spotify.com/album/1oLPKLJMffq7fO3XapLx4G) | 3:09 |
 | 21 | [Puddles \- Zero 7 Remix](https://open.spotify.com/track/5gKZloxCvhFXNuLSZYryIU) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT), [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr) | [Puddles \(Zero 7 Remix\)](https://open.spotify.com/album/5nFqFdG8YfUPg5GMgDPIET) | 6:01 |
 | 22 | [Drama King](https://open.spotify.com/track/2BeddMVJY8DhWZAC4uKPqx) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Drama King](https://open.spotify.com/album/02iICHeNdgziyDRE70DCse) | 3:10 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 100 | [rosemary](https://open.spotify.com/track/4AmTtFkNqOcfjuV3PTUAkj) | [annie hamilton](https://open.spotify.com/artist/0S3cimlz80A0Q9CLz8TTxH) | [rosemary](https://open.spotify.com/album/7hoTie5haMGFgvJ0MyNGh5) | 3:29 |
 | 101 | [sea sick](https://open.spotify.com/track/256laF9zMD5ppmqg3cpXl2) | [Juney Boy](https://open.spotify.com/artist/4OwdeZBCSGtdhopP20sGaq) | [sea sick](https://open.spotify.com/album/2sUcgiHEqglrJF9NFHbY5O) | 2:48 |
 
-Snapshot ID: `AAAAAOAGh2+WZ5dCk0HKMSvsZAs/zaD1`
+Snapshot ID: `AAAAAHgRb0hBKZ2GLDBHMju+PfC4eWM4`

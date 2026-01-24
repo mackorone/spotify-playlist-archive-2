@@ -4,7 +4,7 @@
 
 > Tutti Fenomeni + Tutti gli altri nuovi pezzi indie 👔
 
-1,347 songs - 2 day 21 hr 33 min
+1,347 songs - 2 day 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -691,7 +691,7 @@
 | [Madonna](https://open.spotify.com/track/1rfpKVgPOpdXv8xIL8NtX5) | [Ricche le Mura](https://open.spotify.com/artist/0Jejmdac0sG1anWKT8F1RB) | [Un ragno, il suo uovo e noi dentro](https://open.spotify.com/album/6Sk7DEbuF2q3gpPVLbQgLo) | 3:18 | 2025-05-15 | 2025-07-04 |
 | [Madre Padre](https://open.spotify.com/track/1pVwjRDT6ngbMby4B9vinv) | [Rossana De Pace](https://open.spotify.com/artist/5gkWD5byGyu98HtrFUOTz2) | [Madre Padre](https://open.spotify.com/album/5PKwqO8LKyWI2UZpXkv5wy) | 3:30 | 2026-01-08 |  |
 | [magari domani](https://open.spotify.com/track/3K443AefhBlkrgR4I71LJO) | [Dedo](https://open.spotify.com/artist/5RPsHnwMGZK8T3K2zYaR6I) | [magari domani](https://open.spotify.com/album/3HonnOs3nxmgHAsWfKTTxf) | 2:37 | 2026-01-15 |  |
-| [magari quando nevica](https://open.spotify.com/track/1zybqxhlEeE9zr4brg31sy) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [IL BELLO E IL CATTIVO TEMPO](https://open.spotify.com/album/0owK9lmz98Xgi0GXj5ZO5K) | 2:37 | 2026-01-22 |  |
+| [magari quando nevica](https://open.spotify.com/track/1zybqxhlEeE9zr4brg31sy) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [IL BELLO E IL CATTIVO TEMPO](https://open.spotify.com/album/0owK9lmz98Xgi0GXj5ZO5K) | 3:51 | 2026-01-22 |  |
 | [Maggio](https://open.spotify.com/track/6wg2JoLd5YmoU2wANbDEpk) | [Cordio](https://open.spotify.com/artist/3APL1WXguzBZTQHlnYcXx6) | [Maggio](https://open.spotify.com/album/0G6O4BHuIxxaYijro8sGM0) | 3:17 | 2025-01-30 | 2025-04-11 |
 | [Magna Grecia](https://open.spotify.com/track/0r7GpAFATu3JIgmZuxgA7O) | [Rossana De Pace](https://open.spotify.com/artist/5gkWD5byGyu98HtrFUOTz2) | [Magna Grecia](https://open.spotify.com/album/2VtL1JEeDUchrLs4X7yZaW) | 2:45 | 2025-12-18 |  |
 | [Mai](https://open.spotify.com/track/5T68iQz4aGE9y0itqNQwF2) | [DUOPOP](https://open.spotify.com/artist/3k4rjybHf6uCbfWJgA0hbo) | [Mai](https://open.spotify.com/album/2l4QPoQ4gxcL8EliWt2ZxP) | 2:30 | 2024-07-25 | 2024-09-27 |

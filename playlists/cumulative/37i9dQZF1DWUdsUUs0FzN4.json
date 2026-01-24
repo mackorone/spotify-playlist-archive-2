@@ -1231,6 +1231,28 @@
     },
     {
       "album": {
+        "name": "betty boop",
+        "url": "https://open.spotify.com/album/3IBmnh1aOLBHUfwHfuHrLt"
+      },
+      "artists": [
+        {
+          "name": "STRANGEHUMAN",
+          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
+        },
+        {
+          "name": "Lidanza",
+          "url": "https://open.spotify.com/artist/5DQI4y2nm1O1MKtVZFL61y"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156444,
+      "name": "betty boop",
+      "url": "https://open.spotify.com/track/6BPb0paX49gCXAO0BPytiL"
+    },
+    {
+      "album": {
         "name": "BEYAKO",
         "url": "https://open.spotify.com/album/7pXFTJExzqj5EgXXozcHtK"
       },
@@ -1298,6 +1320,24 @@
       "duration_ms": 163880,
       "name": "Bien Beb\u00e9",
       "url": "https://open.spotify.com/track/74LXuYE8UubyCvLIrslqG5"
+    },
+    {
+      "album": {
+        "name": "Bit$h",
+        "url": "https://open.spotify.com/album/2AHWTdVpiqKu9O8DUzVNKh"
+      },
+      "artists": [
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Bit$h",
+      "url": "https://open.spotify.com/track/3lgwYOFzntftXyYfSZAzZ1"
     },
     {
       "album": {
@@ -4432,7 +4472,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 166153,
       "name": "INDECISO",
       "url": "https://open.spotify.com/track/7wauZfS1PIzbmGw5ahXbk4"
@@ -5044,7 +5084,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 150763,
       "name": "la mazmorra de la luz",
       "url": "https://open.spotify.com/track/77kfWlKdioQmx7iws4Kfe3"
@@ -5812,7 +5852,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 144756,
       "name": "MALA KAWAII",
       "url": "https://open.spotify.com/track/5YoAZwrMZ4NOApc69bIAVU"
@@ -7748,6 +7788,24 @@
       "duration_ms": 308366,
       "name": "PARTY DE MALEANTES - RMX",
       "url": "https://open.spotify.com/track/3lMXF0Sn0X1n1CBJn3pNYM"
+    },
+    {
+      "album": {
+        "name": "Par\u00eds (Junto a Ti)",
+        "url": "https://open.spotify.com/album/1qcti4BO471pTYWMFzS7J3"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156160,
+      "name": "Par\u00eds (Junto a Ti)",
+      "url": "https://open.spotify.com/track/60OhKzwpGr8zNuMij0mbk1"
     },
     {
       "album": {
@@ -10054,7 +10112,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 162514,
       "name": "SOHO",
       "url": "https://open.spotify.com/track/0Wb0qRQFSsnFAlnzrBgsWJ"
@@ -10432,6 +10490,24 @@
       "duration_ms": 178723,
       "name": "Tatuaje",
       "url": "https://open.spotify.com/track/2RzPVFpfWi2c0vTqzLoHwa"
+    },
+    {
+      "album": {
+        "name": "te doy igual?",
+        "url": "https://open.spotify.com/album/0yO4UoM30pmLWWAGXdFlOn"
+      },
+      "artists": [
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116832,
+      "name": "te doy igual?",
+      "url": "https://open.spotify.com/track/1hLKE0ULdv5Sdtag8zopR1"
     },
     {
       "album": {

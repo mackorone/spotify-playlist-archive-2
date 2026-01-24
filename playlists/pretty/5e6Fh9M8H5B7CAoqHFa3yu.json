@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 244,
+  "num_followers": 246,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAH5LooEJWMwHWj2eMtYlB3B4o1PDO2",
+  "snapshot_id": "AAAH5oJA93pkJ8y1+c+d6QleE8x3Af+j",
   "tracks": [
     {
       "added_at": "2026-01-21 01:10:56",
@@ -30887,6 +30887,38 @@
       "duration_ms": 232839,
       "name": "Dolomiti Soul",
       "url": "https://open.spotify.com/track/5Cv5soORtinC12J1ruavkG"
+    },
+    {
+      "added_at": "2026-01-23 05:00:59",
+      "album": {
+        "name": "silhouette",
+        "url": "https://open.spotify.com/album/6fPCeSZ7FEeCckpd2h0bqZ"
+      },
+      "artists": [
+        {
+          "name": "LadyBoy",
+          "url": "https://open.spotify.com/artist/3EyEQIrSwLWmL5WikGao8Q"
+        }
+      ],
+      "duration_ms": 234310,
+      "name": "silhouette",
+      "url": "https://open.spotify.com/track/09NzL0ub22tTmCzFdy1XtS"
+    },
+    {
+      "added_at": "2026-01-23 14:49:17",
+      "album": {
+        "name": "Butterfly Kiss",
+        "url": "https://open.spotify.com/album/3M4YLDUmXNLIzPDoFv8wGF"
+      },
+      "artists": [
+        {
+          "name": "Eufrocina Manigos and Eyvind Bilstad",
+          "url": "https://open.spotify.com/artist/31q4JP429LpIl1OEibwldo"
+        }
+      ],
+      "duration_ms": 268546,
+      "name": "Butterfly Kiss",
+      "url": "https://open.spotify.com/track/1t4p0VwndjAOsMjd8Pa1C3"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

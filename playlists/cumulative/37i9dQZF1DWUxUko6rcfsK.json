@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Burn Me Like a Cigarette",
+        "url": "https://open.spotify.com/album/0YKsVt7Ls6PhZHJ4enc0ZW"
+      },
+      "artists": [
+        {
+          "name": "Orange Skyline",
+          "url": "https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201349,
+      "name": "Burn Me Like a Cigarette",
+      "url": "https://open.spotify.com/track/1IUmy6YVIr10pSmK2aUZoj"
+    },
+    {
+      "album": {
         "name": "Calling After Me",
         "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
       },
@@ -636,7 +654,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 222597,
       "name": "Durian",
       "url": "https://open.spotify.com/track/1XQEPdAvaP3VfMz9h0QXXl"
@@ -715,6 +733,24 @@
     },
     {
       "album": {
+        "name": "Fight Another Day",
+        "url": "https://open.spotify.com/album/3cMI3AA8VJ0kpooAY6v4ga"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Fight Another Day",
+      "url": "https://open.spotify.com/track/5Yz5uJTvZtYcblSvTgzhBG"
+    },
+    {
+      "album": {
         "name": "Moodswings",
         "url": "https://open.spotify.com/album/0oJlmRx6Xnbwy9uwJy7EnA"
       },
@@ -730,6 +766,24 @@
       "duration_ms": 151224,
       "name": "Fighter",
       "url": "https://open.spotify.com/track/1VtdRcAoQZXo6hGJojtRKv"
+    },
+    {
+      "album": {
+        "name": "Find Me A Place",
+        "url": "https://open.spotify.com/album/75Um4vwMsk2PJQO9Ac0ktq"
+      },
+      "artists": [
+        {
+          "name": "Jack and the Weatherman",
+          "url": "https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166787,
+      "name": "Find Me A Place",
+      "url": "https://open.spotify.com/track/3umWNF2hwbuIjn6u3YC7ns"
     },
     {
       "album": {
@@ -2079,6 +2133,24 @@
     },
     {
       "album": {
+        "name": "I've Tried Everything But Therapy (Complete Edition)",
+        "url": "https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190124,
+      "name": "Need You More",
+      "url": "https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro"
+    },
+    {
+      "album": {
         "name": "Never Give Up",
         "url": "https://open.spotify.com/album/3ABfTrmpeMpvxEJ88A8bEj"
       },
@@ -2108,7 +2180,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 218369,
       "name": "Never Said Goodbye",
       "url": "https://open.spotify.com/track/019IPf1J7LiN9yBUBp0f8d"
@@ -2378,7 +2450,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 205251,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/60DTWHQSXLdOMairERdoOn"
@@ -3060,7 +3132,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 220820,
       "name": "Wastelands",
       "url": "https://open.spotify.com/track/0XFPoeF4wAc2lBckxnoKdP"

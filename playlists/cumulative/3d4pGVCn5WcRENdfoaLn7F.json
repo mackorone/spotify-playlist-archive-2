@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Beyond The Light",
+        "url": "https://open.spotify.com/album/3PdgpJKrEf1cZDRlW3qcfO"
+      },
+      "artists": [
+        {
+          "name": "Blue Remains",
+          "url": "https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203639,
+      "name": "Beyond The Light",
+      "url": "https://open.spotify.com/track/3ilkk0LvxRJliKSrTQF22e"
+    },
+    {
+      "album": {
         "name": "Billionaire",
         "url": "https://open.spotify.com/album/5diz7OIOJi2sHfJd8E9bt4"
       },

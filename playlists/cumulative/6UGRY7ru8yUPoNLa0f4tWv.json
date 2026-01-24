@@ -184,7 +184,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 170400,
       "name": "Bad Life",
       "url": "https://open.spotify.com/track/2uXrUCOShsrYDT1unc798b"
@@ -540,7 +540,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 157013,
       "name": "Drink & Drugs & Sex & Money",
       "url": "https://open.spotify.com/track/5iCPLG8iWdWZ9oUwx42zJ8"
@@ -616,7 +616,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 134652,
       "name": "Every Night's A Party",
       "url": "https://open.spotify.com/track/3KV8k1LcSn37OT5DVNSPKk"
@@ -692,7 +692,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 224571,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/2DV7u8sgbbvjozV5vhEv6f"
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 119515,
       "name": "Like A Prayer",
       "url": "https://open.spotify.com/track/7jmt3o17C66yYsQjbkTPiH"
@@ -1177,6 +1177,32 @@
     },
     {
       "album": {
+        "name": "Makina Time",
+        "url": "https://open.spotify.com/album/4E47K2cvE4bHOGqE0FLDN5"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "Dj Konik",
+          "url": "https://open.spotify.com/artist/47FkgvgZtCjQaBswo5E531"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130090,
+      "name": "Makina Time",
+      "url": "https://open.spotify.com/track/0pbejM4t6ipTdwmvYCQsfX"
+    },
+    {
+      "album": {
         "name": "ME & U",
         "url": "https://open.spotify.com/album/6rNwBVYxFA8E6ahAm4tqYC"
       },
@@ -1206,7 +1232,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 137294,
       "name": "Metro",
       "url": "https://open.spotify.com/track/5erdiNvnRU6Hiv4hkhdq3m"
@@ -1570,7 +1596,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 176608,
       "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On) - Bootleg Version",
       "url": "https://open.spotify.com/track/2BDoeDQWXagc2thCKr0qW2"

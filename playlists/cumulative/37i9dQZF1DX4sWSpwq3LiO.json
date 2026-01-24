@@ -16922,7 +16922,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 180874,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/1DeFsFITQCaI7J881M33W9"
@@ -23185,6 +23185,24 @@
     },
     {
       "album": {
+        "name": "Roots And Rain",
+        "url": "https://open.spotify.com/album/6JNBQ30f1VtI0MFL9Y7gC8"
+      },
+      "artists": [
+        {
+          "name": "Rowan Elyse",
+          "url": "https://open.spotify.com/artist/5p7n7sxqcyq0G5BIan9PjM"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163721,
+      "name": "Roots And Rain",
+      "url": "https://open.spotify.com/track/5vh2NNTsI6A5pvc9GaYbj7"
+    },
+    {
+      "album": {
         "name": "Roseraie",
         "url": "https://open.spotify.com/album/7iIIBqRWC0fcmyenmgr6D3"
       },
@@ -25838,7 +25856,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 131451,
       "name": "Sonnet 1",
       "url": "https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT"
@@ -28032,6 +28050,24 @@
       "duration_ms": 120746,
       "name": "The Hourglass",
       "url": "https://open.spotify.com/track/6t4LgOBZsf14olwgwYRcCS"
+    },
+    {
+      "album": {
+        "name": "The Last Dream",
+        "url": "https://open.spotify.com/album/4zFHN0O4QZGraQfsAC9CHC"
+      },
+      "artists": [
+        {
+          "name": "Isidorus",
+          "url": "https://open.spotify.com/artist/1XvelV0uWSMLWWE5VQHbOO"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146456,
+      "name": "The Last Dream",
+      "url": "https://open.spotify.com/track/0i1hx7DAJAiwA1mR8tc72O"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 97094,
+  "num_followers": 97144,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXAXAAAAAABQr7DQHchshoPz8rNzmJ0w",
+  "snapshot_id": "aXFogAAAAACdlR/61FyVTo3VZDMJb8h1",
   "tracks": [
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cristian Rey",
-        "url": "https://open.spotify.com/album/5WfZh1LQ2UbGnptHEk0f5j"
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/4YViCFmwpHIMQVm2Opv1u3"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 146881,
-      "name": "Cristian Rey",
-      "url": "https://open.spotify.com/track/4NAA2I7SgUv7woJy0qPE53"
+      "duration_ms": 120749,
+      "name": "Peligro",
+      "url": "https://open.spotify.com/track/3cMC0cscoByKmZ4jY1spXs"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peligro",
-        "url": "https://open.spotify.com/album/4YViCFmwpHIMQVm2Opv1u3"
+        "name": "Cristian Rey",
+        "url": "https://open.spotify.com/album/5WfZh1LQ2UbGnptHEk0f5j"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 120749,
-      "name": "Peligro",
-      "url": "https://open.spotify.com/track/3cMC0cscoByKmZ4jY1spXs"
+      "duration_ms": 146881,
+      "name": "Cristian Rey",
+      "url": "https://open.spotify.com/track/4NAA2I7SgUv7woJy0qPE53"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sky Blue",
-        "url": "https://open.spotify.com/album/4QMS2FycPQcit8utfXj1pB"
+        "name": "Sangre De Rancho",
+        "url": "https://open.spotify.com/album/1juj3QmN79iMMZDKX8RgEH"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 162358,
-      "name": "Sky Blue",
-      "url": "https://open.spotify.com/track/1WV4xGKK8nspiCXhJRxTAK"
+      "duration_ms": 168881,
+      "name": "Sangre De Rancho",
+      "url": "https://open.spotify.com/track/3HhnflHZDAC5GsTBZLJIYa"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sangre De Rancho",
-        "url": "https://open.spotify.com/album/1juj3QmN79iMMZDKX8RgEH"
+        "name": "Sky Blue",
+        "url": "https://open.spotify.com/album/4QMS2FycPQcit8utfXj1pB"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 168881,
-      "name": "Sangre De Rancho",
-      "url": "https://open.spotify.com/track/3HhnflHZDAC5GsTBZLJIYa"
+      "duration_ms": 162358,
+      "name": "Sky Blue",
+      "url": "https://open.spotify.com/track/1WV4xGKK8nspiCXhJRxTAK"
     },
     {
       "added_at": null,

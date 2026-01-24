@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "SILENCIO HABLA",
+        "url": "https://open.spotify.com/album/0RwAGxwkMubOZcfmvUMFoS"
+      },
+      "artists": [
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207431,
+      "name": "ARTE",
+      "url": "https://open.spotify.com/track/7bPaLQrhhreazA9JrVxEBe"
+    },
+    {
+      "album": {
         "name": "Faded Gloryville",
         "url": "https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf"
       },

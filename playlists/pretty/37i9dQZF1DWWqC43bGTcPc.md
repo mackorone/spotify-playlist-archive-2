@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: Juice Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,614 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,632 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 37 | [在你和天空之間 \- 滾石撞樂隊2 \(原唱:趙之璧\)](https://open.spotify.com/track/786Lg6E2BvmOdlXs1WCY2L) | [FUMON](https://open.spotify.com/artist/3zGGhKGLorCRgcXc22gYDX) | [滾石撞樂隊2 \- 在你和天空之間](https://open.spotify.com/album/0Rkfkmv8JpJWnjVzKVzxDS) | 4:42 |
 | 38 | [你要是真的愛我才不會這樣](https://open.spotify.com/track/2Xs41T6XRHr8uCsI61CPD4) | [icyball 冰球樂團](https://open.spotify.com/artist/4GsjZQZJ3viOq4Uw8wZDbW) | [我很抱歉](https://open.spotify.com/album/7FwNRozMaUvL25aFY6Nlif) | 3:35 |
 | 39 | [苦的甜](https://open.spotify.com/track/323RJytTPp4AccggWcXxlf) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [苦的甜](https://open.spotify.com/album/35DgQzfiv3IvX57XWMaMWE) | 4:15 |
-| 40 | [你的存在就是愛我](https://open.spotify.com/track/6zNJFftspkUP8X9L3w8XOF) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [你的存在就是愛我](https://open.spotify.com/album/6A1F39sLjdAXixswKLOsJU) | 3:45 |
+| 40 | [你的存在就是愛我](https://open.spotify.com/track/6zNJFftspkUP8X9L3w8XOF) | [阿密特](https://open.spotify.com/artist/2WpN5ddRbqM9mb2Xjxcy5l) | [你的存在就是愛我](https://open.spotify.com/album/6A1F39sLjdAXixswKLOsJU) | 3:45 |
 | 41 | [回不到那天 \- 影視劇《怒風》插曲](https://open.spotify.com/track/1OIZ2UWPZPjNTaJr3l3qXq) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [回不到那天 \(影視劇《怒風》插曲\)](https://open.spotify.com/album/7fxzrZI8Y4jrP6kI1EpnwS) | 4:47 |
 | 42 | [無名氏 \- \(Netflix影集《如果我不曾見過太陽》插曲\)](https://open.spotify.com/track/0bkRzGY32FrYEy7xG02gsv) | [KAXA](https://open.spotify.com/artist/5Hq9W4AHt4ykIEJp6ObqOG) | [無名氏 \(Netflix影集《如果我不曾見過太陽》插曲\)](https://open.spotify.com/album/2vQqkQ8mfmSLLYfFT1Pwc4) | 3:40 |
 | 43 | [moonlight](https://open.spotify.com/track/62A4bCkSIY5Geqo2N0uzTM) | [邱鋒澤 Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [moonlight](https://open.spotify.com/album/5lKpuRqLRvNHpsZzIkSg7A) | 2:42 |

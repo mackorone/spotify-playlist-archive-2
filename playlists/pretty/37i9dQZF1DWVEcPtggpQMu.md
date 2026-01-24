@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap\. <br/>Cover: Herc Cut The Lights
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,568 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,619 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [AKIES, ASKIES](https://open.spotify.com/track/44nCEL0ISsDqvGV8cLb4uo) | [Herc Cut The Lights](https://open.spotify.com/artist/0VhIHga32pr5ME5Eb8WXcP), [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz) | [AKIES, ASKIES](https://open.spotify.com/album/2EoTA6josoEKcUhXjVC1VF) | 2:33 |
+| 1 | [ASKIES, ASKIES](https://open.spotify.com/track/44nCEL0ISsDqvGV8cLb4uo) | [Herc Cut The Lights](https://open.spotify.com/artist/0VhIHga32pr5ME5Eb8WXcP), [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz) | [AKIES, ASKIES](https://open.spotify.com/album/2EoTA6josoEKcUhXjVC1VF) | 2:33 |
 | 2 | [Racks](https://open.spotify.com/track/4mx2WjAQRbIblzmlJza39M) | [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [G \- Wagon Music : Baby Tai](https://open.spotify.com/album/7nBsSZyhe8sgZ4UU1PG5XS) | 4:08 |
 | 3 | [Boss](https://open.spotify.com/track/5bcYvUiG6hsg2C7QHHRNHI) | [KindlyNxsh](https://open.spotify.com/artist/38XEcOhoZlmGysLVhnrJKQ) | [Boss](https://open.spotify.com/album/06VMHl2TPJ6LHw5JsNc726) | 2:21 |
 | 4 | [STAY OR LEAVE](https://open.spotify.com/track/0vFR18K6osJ8zhHWGWObk4) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Sounds Of The Diaspora](https://open.spotify.com/album/0n7r3MD92Fj1CYutyMj8fK) | 3:56 |

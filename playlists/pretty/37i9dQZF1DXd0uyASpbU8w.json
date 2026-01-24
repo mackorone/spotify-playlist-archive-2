@@ -1,6 +1,6 @@
 {
   "description": "New music from Maglera Doe Boy, LADIPOE, Harry Styles, Wizkid & Asake,  and more.",
-  "num_followers": 165279,
+  "num_followers": 165753,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
@@ -143,17 +143,21 @@
     {
       "added_at": "2026-01-23 01:00:24",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Bayede",
+        "url": "https://open.spotify.com/album/3gndOvCu4HGrDOrv0nnyif"
       },
       "artists": [
         {
           "name": "Danya Devs",
           "url": "https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs"
+        },
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 249611,
+      "name": "Stayela",
       "url": "https://open.spotify.com/track/2WXInCCXb4Ke1QHo45JtU9"
     },
     {
@@ -275,8 +279,8 @@
     {
       "added_at": "2026-01-23 01:00:24",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Vacancy",
+        "url": "https://open.spotify.com/album/2UuTaSOSxTNP6whKrwDqnS"
       },
       "artists": [
         {
@@ -284,8 +288,8 @@
           "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 132931,
+      "name": "High Key",
       "url": "https://open.spotify.com/track/48Rk6ZyFcztsyvUZeUFVXO"
     },
     {
@@ -335,17 +339,21 @@
     {
       "added_at": "2026-01-23 01:00:24",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "ENOUGH FOR ME",
+        "url": "https://open.spotify.com/album/5P2RR6rOO8lTNvVxMObKmj"
       },
       "artists": [
         {
           "name": "Sinach",
           "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 580500,
+      "name": "ENOUGH FOR ME",
       "url": "https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3"
     },
     {
@@ -432,7 +440,7 @@
           "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
         }
       ],
-      "duration_ms": 223578,
+      "duration_ms": 196202,
       "name": "Solace",
       "url": "https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx"
     },
@@ -531,17 +539,29 @@
     {
       "added_at": "2026-01-23 01:00:24",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Scenes From Above",
+        "url": "https://open.spotify.com/album/3ttcqbXYZLuyCDPQIGDacR"
       },
       "artists": [
         {
           "name": "Julian Lage",
           "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        },
+        {
+          "name": "John Medeski",
+          "url": "https://open.spotify.com/artist/46IQ7Q0jkW6dW0l4e15FFD"
+        },
+        {
+          "name": "Jorge Roeder",
+          "url": "https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x"
+        },
+        {
+          "name": "Kenny Wollesen",
+          "url": "https://open.spotify.com/artist/6Zn84vmI9vs51dH9UK52bV"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 9",
+      "duration_ms": 242946,
+      "name": "Something More",
       "url": "https://open.spotify.com/track/3YM5xsdAn0yMqCwOeyGa3K"
     },
     {
@@ -728,8 +748,8 @@
       },
       "artists": [
         {
-          "name": "Umalazi Gospel Choir The Original",
-          "url": "https://open.spotify.com/artist/1YQjxz27zDc7aJifeoMWA1"
+          "name": "Umlazi Gospel Choir The Original",
+          "url": "https://open.spotify.com/artist/0V7olBRdnevHisGlCmbz02"
         }
       ],
       "duration_ms": 288723,
@@ -773,7 +793,7 @@
         }
       ],
       "duration_ms": 153363,
-      "name": "AKIES, ASKIES",
+      "name": "ASKIES, ASKIES",
       "url": "https://open.spotify.com/track/44nCEL0ISsDqvGV8cLb4uo"
     },
     {

@@ -16989,7 +16989,7 @@
       "artists": [
         {
           "name": "Ironmouse",
-          "url": "https://open.spotify.com/artist/7mP0yyVD9PFmjqWcXI1kFB"
+          "url": "https://open.spotify.com/artist/3iN0khAe5Ilrjr2WnC8Poi"
         },
         {
           "name": "shirobeats",
@@ -17006,7 +17006,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 160645,
       "name": "Cry for Me WA WA WA - Live Version",
       "url": "https://open.spotify.com/track/19aIw4f5D2bMsufW7lYFYO"
@@ -37674,10 +37674,28 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 222439,
       "name": "La Distancia Exacta",
       "url": "https://open.spotify.com/track/0pxXZP5fDdMsPP5Xi5sqJD"
+    },
+    {
+      "album": {
+        "name": "La Distancia Exacta",
+        "url": "https://open.spotify.com/album/6wU4hPSC9NVJjaOLDYCLfY"
+      },
+      "artists": [
+        {
+          "name": "Misael Soul",
+          "url": "https://open.spotify.com/artist/3q4nKdXpY7ggvpOtri0qzB"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222440,
+      "name": "La Distancia Exacta",
+      "url": "https://open.spotify.com/track/4NsG0PbEODnmSIMjZM4gsq"
     },
     {
       "album": {
@@ -55547,6 +55565,24 @@
     },
     {
       "album": {
+        "name": "PALETA",
+        "url": "https://open.spotify.com/album/3qwQ5PZbfqU2HCF7lPaUTO"
+      },
+      "artists": [
+        {
+          "name": "Daief",
+          "url": "https://open.spotify.com/artist/6Sh42Fdbr0hbRTW5YzbjWs"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105454,
+      "name": "PALETA",
+      "url": "https://open.spotify.com/track/7iPPva4YhNLriWcI4EP4MJ"
+    },
+    {
+      "album": {
         "name": "Palgo",
         "url": "https://open.spotify.com/album/0pTa6tBimaUvVSdUDAQNDk"
       },
@@ -67876,7 +67912,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 217773,
       "name": "So Long",
       "url": "https://open.spotify.com/track/6vfK27oKAow1gGmlrAsjlF"
@@ -83430,7 +83466,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 311461,
       "name": "You Are Loved",
       "url": "https://open.spotify.com/track/46ar7wOVeY6g52GZDrgagz"

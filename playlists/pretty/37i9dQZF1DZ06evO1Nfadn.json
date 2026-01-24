@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 37659,
+  "num_followers": 37686,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXAXAAAAAAAy6YPFX8gVliDv5gvlVDLo",
+  "snapshot_id": "aXFogAAAAAC8q60U+KH2HHDTQfoaWZ01",
   "tracks": [
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Estrella De Los Bailes - Los \u00c9xitos",
-        "url": "https://open.spotify.com/album/5T9zkm1BMSNqlPvu911c0n"
+        "name": "El Mundo Gira",
+        "url": "https://open.spotify.com/album/1vimqXrW4MdMYpPeliSFF9"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 153861,
+      "duration_ms": 153866,
       "name": "Bikini Azul",
-      "url": "https://open.spotify.com/track/1YvqhFsIxpy9yEzn9sWb0X"
+      "url": "https://open.spotify.com/track/3xH8Eco7vqjWYoitjK8cds"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 150066,
-      "name": "Cecy",
-      "url": "https://open.spotify.com/track/7kauAAbQZtUgHj1YN9mMEM"
+      "duration_ms": 142573,
+      "name": "Coraz\u00f3n Corazoncito",
+      "url": "https://open.spotify.com/track/4YWANfWRanPow7VxlBRTuD"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 142573,
-      "name": "Coraz\u00f3n Corazoncito",
-      "url": "https://open.spotify.com/track/4YWANfWRanPow7VxlBRTuD"
+      "duration_ms": 150066,
+      "name": "Cecy",
+      "url": "https://open.spotify.com/track/7kauAAbQZtUgHj1YN9mMEM"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Veas Lo Que Se Siente",
-        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
+        "name": "El Mundo Gira",
+        "url": "https://open.spotify.com/album/1vimqXrW4MdMYpPeliSFF9"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 149920,
-      "name": "La Ranchera Pajona",
-      "url": "https://open.spotify.com/track/0ZvZGvz5fUAgRmq5KuTgqm"
+      "duration_ms": 182920,
+      "name": "Hambriento Como Lobo",
+      "url": "https://open.spotify.com/track/07aDuwUcm8pP66ebJxnDoU"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mundo Gira",
-        "url": "https://open.spotify.com/album/1vimqXrW4MdMYpPeliSFF9"
+        "name": "Pa Que Veas Lo Que Se Siente",
+        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 182920,
-      "name": "Hambriento Como Lobo",
-      "url": "https://open.spotify.com/track/07aDuwUcm8pP66ebJxnDoU"
+      "duration_ms": 149920,
+      "name": "La Ranchera Pajona",
+      "url": "https://open.spotify.com/track/0ZvZGvz5fUAgRmq5KuTgqm"
     }
   ],
   "unique_name": "This Is Banda Maguey",

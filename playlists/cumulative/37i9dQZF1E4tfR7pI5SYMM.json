@@ -272,7 +272,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 244000,
       "name": "Bad Thoughts In Disguise",
       "url": "https://open.spotify.com/track/2h5Hvh2A9oIxcWf854Sr2s"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 230970,
       "name": "Baltas \u0161erk\u0161nas",
       "url": "https://open.spotify.com/track/2z7EWilmkXSEvczh6OE0SA"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 242796,
       "name": "Borte nu",
       "url": "https://open.spotify.com/track/7qJHIWro691ebJIws46iiC"
@@ -654,7 +654,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 234590,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/08buGoheqrNstHvUJGprEN"
@@ -762,7 +762,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 159840,
       "name": "Conquistadors",
       "url": "https://open.spotify.com/track/1d2tQJAXBUUhZiiLMuPBWf"
@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 139000,
       "name": "Fucka Det Opp",
       "url": "https://open.spotify.com/track/5iEGcUqLqIcAURV1rnqWIe"
@@ -1736,7 +1736,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 227200,
       "name": "Have you got nothing left to Say",
       "url": "https://open.spotify.com/track/1OcLvOt48oLJqkhSTljR6b"
@@ -1772,7 +1772,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 185701,
       "name": "Helistasin jumalale",
       "url": "https://open.spotify.com/track/7C7bz3dsJdjG8yuSGsXJ45"
@@ -1920,7 +1920,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 190096,
       "name": "Honey don't you cry - Radio Edit",
       "url": "https://open.spotify.com/track/5lsAly8g0gIdwmup8n6oGn"
@@ -1956,7 +1956,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 293013,
       "name": "How Are You Long Island?",
       "url": "https://open.spotify.com/track/7EQI6JwI7qVaXWwaBLtIsx"
@@ -2100,7 +2100,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 271226,
       "name": "Ilaanningooq",
       "url": "https://open.spotify.com/track/6JJzChNf3xDCvpnIuZTNKl"
@@ -2262,7 +2262,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -2504,7 +2504,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 256584,
       "name": "Light years",
       "url": "https://open.spotify.com/track/3KrIyUCo9j6sdeYOYcXbTY"
@@ -2548,6 +2548,24 @@
       "duration_ms": 238500,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/6sshZNrIatwYG79atH8YRE"
+    },
+    {
+      "album": {
+        "name": "Little Lungs",
+        "url": "https://open.spotify.com/album/0BoFMZ0kIH4oHHESGVr065"
+      },
+      "artists": [
+        {
+          "name": "Hail the Ghost",
+          "url": "https://open.spotify.com/artist/7Bx4rPCdJPcBD3xGLTV1an"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228003,
+      "name": "Little Lungs",
+      "url": "https://open.spotify.com/track/1hwmhOZRUIPBsS8SIYAhNm"
     },
     {
       "album": {
@@ -2598,7 +2616,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "Long Gone",
       "url": "https://open.spotify.com/track/1XFM7E0AQ1SJSBipu9wgB8"
@@ -2688,7 +2706,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 200377,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/6jIKNLyG16eIHXnCtthNoU"
@@ -2706,7 +2724,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 188625,
       "name": "Man on a Horse",
       "url": "https://open.spotify.com/track/5UHGAvVqmjfACrwDSKIPax"
@@ -2800,6 +2818,24 @@
       "duration_ms": 264000,
       "name": "Meet Again",
       "url": "https://open.spotify.com/track/5wgOIh2FZSMK75Rf5HvIEx"
+    },
+    {
+      "album": {
+        "name": "Meet My Maker",
+        "url": "https://open.spotify.com/album/3mdyc6s5KkG0IVH1QwHerP"
+      },
+      "artists": [
+        {
+          "name": "Monite",
+          "url": "https://open.spotify.com/artist/1VuhLWe4e8O0xU2bphmjFj"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221966,
+      "name": "Meet My Maker",
+      "url": "https://open.spotify.com/track/0Cg2fzM4zZLBX1Ckk6tC9W"
     },
     {
       "album": {
@@ -2966,7 +3002,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 351000,
       "name": "Mr. Record Man",
       "url": "https://open.spotify.com/track/1DXOaD84OMVvwL2oaTuGiM"
@@ -3078,7 +3114,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 271908,
       "name": "Never Complain",
       "url": "https://open.spotify.com/track/7DBpCxvanfR7qOAumOKojy"
@@ -3154,7 +3190,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 294110,
       "name": "Noen som ser",
       "url": "https://open.spotify.com/track/5GbqHtOcMkKueyj33EVmxt"
@@ -3190,7 +3226,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 219752,
       "name": "Not Immortal",
       "url": "https://open.spotify.com/track/5fK9crvnMpEOU7aLe4X8wW"
@@ -3208,7 +3244,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 204466,
       "name": "Nothin' Like Me",
       "url": "https://open.spotify.com/track/3IohhjorbBKXEVmet4HJDQ"
@@ -3374,7 +3410,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 237751,
       "name": "Onward We Go",
       "url": "https://open.spotify.com/track/5ua4KDUOuO0nRJfnYX5GiH"
@@ -4276,7 +4312,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 202000,
       "name": "Strak Saltomortale",
       "url": "https://open.spotify.com/track/3YHHO3X9542Ia2LqMMiG3s"
@@ -4402,7 +4438,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 318974,
       "name": "Sweet Revenge",
       "url": "https://open.spotify.com/track/2uEwxHziGu3yz3YSf6oBkd"
@@ -4456,7 +4492,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-23",
+      "date_removed": null,
       "duration_ms": 254185,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/0I1pjXfxBby3nA7zz3lD0t"
@@ -4474,7 +4510,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 302000,
       "name": "Take Me Down",
       "url": "https://open.spotify.com/track/7FJaNyL4OvjC9qPBByII4H"
@@ -4882,7 +4918,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 264877,
       "name": "This World\u2019s For Sharing",
       "url": "https://open.spotify.com/track/0JuMG668Xof1s2ApVkABAm"
@@ -5174,7 +5210,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 282985,
       "name": "Verschworen",
       "url": "https://open.spotify.com/track/71a4a9s2PKSlVuxNhJnx3K"
@@ -5614,7 +5650,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 229722,
       "name": "\u00c6 Flyt",
       "url": "https://open.spotify.com/track/2YaNoCGrZAkvbgeLkLMMrA"

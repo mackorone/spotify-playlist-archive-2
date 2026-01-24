@@ -4,7 +4,7 @@
 
 > gostosinho né?
 
-312 songs - 17 hr 32 min
+313 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Outono](https://open.spotify.com/track/1oFXWGb5SWcChrzJuXXmvj) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Deixa Vir Do Coração](https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y) | 3:24 | 2022-02-18 |  |
 | [Outro Alguém \- Ao Vivo](https://open.spotify.com/track/64yBHtShxbb2ULPhakxsJv) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [LAGUM AO VIVO](https://open.spotify.com/album/5A0jHf8QLPjqBEut4WE4ch) | 2:38 | 2025-07-18 |  |
 | [PALCO](https://open.spotify.com/track/3zMgTQolE201ZTHvxWltkq) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [PALCO](https://open.spotify.com/album/11D3RPdsEaovaCBPks0908) | 4:38 | 2025-01-02 | 2025-12-20 |
-| [Partilhar](https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Partilhar](https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN) | 4:22 | 2022-02-18 |  |
+| [Partilhar](https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Partilhar](https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN) | 4:22 | 2022-02-18 | 2026-01-24 |
 | [Pedir Clareza](https://open.spotify.com/track/4DB37KtXBEVfn5AgZB9IDP) | [Bia Gullo](https://open.spotify.com/artist/6HYA0DTA1u3csAMBMouN5F) | [Pedir Clareza](https://open.spotify.com/album/0TRqYrYlgjIXhYVPxcm4Ke) | 3:03 | 2022-04-01 | 2022-07-03 |
 | [Pensando em Você](https://open.spotify.com/track/28SnPmRvZwsd4KtyENLWZd) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS), [Paulinho Moska](https://open.spotify.com/artist/50sWvKw2zsmX9lmcPWmJaT) | [Cursi](https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC) | 2:40 | 2025-08-01 |  |
 | [Perdoa](https://open.spotify.com/track/7HZKPjrStKgnQSigwWEvia) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Perdoa](https://open.spotify.com/album/3xe8Wut7JdhvJEgOQ9V0n6) | 3:42 | 2022-04-01 | 2022-04-18 |
@@ -229,6 +229,7 @@
 | [Poemas Que Colori](https://open.spotify.com/track/2bgJsZVwVMxwPPOJFmvgte) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Mariana Nolasco](https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr) | 3:30 | 2024-01-12 | 2024-04-19 |
 | [Poemas Que Colori](https://open.spotify.com/track/7iTYig7zBQPrKj1Es9bBF5) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Mariana Nolasco](https://open.spotify.com/album/5RtrcaolwWLZEvQccZMkfI) | 3:30 | 2022-04-01 | 2022-04-18 |
 | [Poeta](https://open.spotify.com/track/36Q1ny8Cn49aCcapMYZFO5) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Deb Ribeiro](https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Sessions \- Deb Ribeiro](https://open.spotify.com/album/5eJqY1VFQE7z7BsVKm1yOC) | 3:13 | 2022-04-01 | 2022-04-21 |
+| [Por Causa de Você](https://open.spotify.com/track/3N9TzvYRK1yNIE8yJc41Y9) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv), [Bia Siqueira](https://open.spotify.com/artist/5X5jyBjFtdl9vwBd6bEIqI), [Breno Duarte](https://open.spotify.com/artist/33TltiqN8Nk5ve37wWS0QG) | [Por Causa de Você](https://open.spotify.com/album/3ouwXPloR4FWOYb2b5fKA5) | 2:31 | 2025-12-05 |  |
 | [Por Que Não](https://open.spotify.com/track/4JXUxqykBgeotbc9a8zMYA) | [Murilo Chester](https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Por Que Não](https://open.spotify.com/album/0lxn5ms0KZl2pobc2XKauA) | 3:05 | 2024-03-29 | 2024-05-04 |
 | [Pouca Bobagem](https://open.spotify.com/track/6HuTblOraBoMTQ6BCbLgiX) | [Dani Cruz](https://open.spotify.com/artist/0A1Etysucm5HMKnMG3ygrr), [Carol Porto](https://open.spotify.com/artist/7k2Nsq0KcaursuxcNcZis1), [Daniela Fernandes](https://open.spotify.com/artist/5G4w6QaAI9ARRHaPB3LJnJ) | [Pouca Bobagem](https://open.spotify.com/album/0ZCtDkmyUzI6rEqowlSwEq) | 3:05 | 2024-09-27 | 2024-10-19 |
 | [Pra Sonhar](https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:28 | 2022-02-18 |  |

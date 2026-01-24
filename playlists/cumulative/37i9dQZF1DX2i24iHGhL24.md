@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Teddy Swims
 
-456 songs - 1 day 2 hr 13 min
+457 songs - 1 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Diamonds \- Acoustic](https://open.spotify.com/track/4RVmTDYYWR4xivKlLMjS0q) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Diamonds \(Acoustic\)](https://open.spotify.com/album/0OTkauhBKvLKa7r1Kue0bz) | 2:59 | 2021-12-17 | 2022-04-16 |
 | [Diet Pepsi \- Live from 2025 Las Culturistas Culture Awards](https://open.spotify.com/track/2LtosLi7dutfc3ZxFBEdAL) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Diet Pepsi \(Live from 2025 Las Culturistas Culture Awards\)](https://open.spotify.com/album/6lZqIyM1KoSFp9OH6AAkTq) | 3:14 | 2025-08-15 |  |
 | [Digital Love](https://open.spotify.com/track/4zOyh7D39nvmacly6Wj0FT) | [Larkins](https://open.spotify.com/artist/6cCfC12LHtD5XIc1rLsm8Y) | [Digital Love](https://open.spotify.com/album/1Alro4P8exTMmn1skh1xO1) | 3:26 | 2021-12-17 | 2022-05-02 |
+| [Do I Wanna Know?](https://open.spotify.com/track/6OOdgnBjXKHCiq0K6pPeaE) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Do I Wanna Know?](https://open.spotify.com/album/5Jv3xQMjCqTcuCbKWvfzOR) | 3:52 | 2026-01-23 |  |
 | [Doin' Time](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:22 | 2022-12-29 |  |
 | [Don't Dream It's Over](https://open.spotify.com/track/20AJoXd1SjRLmoyCNFjAKm) | [Amanda Jackson Band](https://open.spotify.com/artist/1rsnYoKcEZ9G1DdqSGzoYm) | [Ocean](https://open.spotify.com/album/5bzQOredYZZ0gV4bRNbg0P) | 4:23 | 2021-12-17 | 2025-03-22 |
 | [Don't Speak](https://open.spotify.com/track/1y0vu1jiXWwzWj0666D5at) | [Scott Bradlee's Postmodern Jukebox](https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc), [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Don't Speak](https://open.spotify.com/album/3oPszGjV4AkXcJFNqLNrNT) | 4:09 | 2021-12-17 | 2022-04-14 |
@@ -230,14 +231,14 @@
 | [If Your Man Only Knew](https://open.spotify.com/track/7H8kBmya327d7KTXsbln2v) | [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ) | [If Your Man Only Knew](https://open.spotify.com/album/0D7hzGTfLWhIi20HeWzfZn) | 2:58 | 2022-12-29 | 2023-12-23 |
 | [In Da Club](https://open.spotify.com/track/1kDSSQ0xBiZgogNN2a7ofQ) | [Skylar Stecker](https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0) | [In Da Club](https://open.spotify.com/album/0tY0cLxwPSwvjyFfOol58C) | 3:24 | 2022-09-23 | 2023-10-17 |
 | [In Da Club](https://open.spotify.com/track/4NDvqNg11hSuNpiGUtnlRU) | [Skylar Stecker](https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0) | [In Da Club](https://open.spotify.com/album/7JAUDSWptc3QlTIuqGT3lN) | 3:24 | 2021-12-17 | 2022-10-13 |
-| [In My Life](https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In My Life](https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM) | 2:56 | 2022-12-29 |  |
+| [In My Life](https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In My Life](https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM) | 2:56 | 2022-12-29 | 2026-01-24 |
 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 | 2021-12-17 |  |
 | [Industry Baby](https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Industry Baby](https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq) | 3:51 | 2022-01-28 | 2023-10-17 |
 | [Into You](https://open.spotify.com/track/0mzTvUqyQuXJ3J9KuVNFah) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Into You](https://open.spotify.com/album/4gzNs2NUQpmboWO7CTbHGM) | 4:46 | 2021-12-17 | 2022-10-13 |
 | [Into You](https://open.spotify.com/track/7q9bjzlx2LA4zO8AGPnjMB) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Into You](https://open.spotify.com/album/2Jhng5tDczcLReCTfWaZzI) | 4:46 | 2022-09-23 | 2022-12-30 |
 | [Iris](https://open.spotify.com/track/1yMC3CVOMznLCFBTalBZVZ) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Iris](https://open.spotify.com/album/5CcE9mu9LmgXp7a946MkEO) | 2:27 | 2025-12-12 |  |
 | [It'll Be Okay](https://open.spotify.com/track/0ctJr4dFdrk0Fv1CWW9cSW) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [It'll Be Okay](https://open.spotify.com/album/1HKldziO5FowynQw8MaTv5) | 3:52 | 2022-05-20 | 2022-12-30 |
-| [It's A Sin](https://open.spotify.com/track/1CBD8aOExhsuPedP2P0wVi) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [It's A Sin](https://open.spotify.com/album/06cRfTBdo0rxi7Xs9Toslg) | 3:12 | 2021-12-17 |  |
+| [It's A Sin](https://open.spotify.com/track/1CBD8aOExhsuPedP2P0wVi) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [It's A Sin](https://open.spotify.com/album/06cRfTBdo0rxi7Xs9Toslg) | 3:12 | 2021-12-17 | 2026-01-24 |
 | [It's Gonna Be Me](https://open.spotify.com/track/0BiuccnShiPP1MIccIu6m5) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [It's Gonna Be Me](https://open.spotify.com/album/43mqswumv5wL0UseBpGeMV) | 2:54 | 2021-12-17 | 2022-10-13 |
 | [It's Gonna Be Me](https://open.spotify.com/track/0IFNMiEiGvBcxJmRhhsjB8) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [It's Gonna Be Me](https://open.spotify.com/album/2SHb6bK1Nd1U5wCRYBcz5V) | 2:54 | 2022-09-23 | 2022-12-30 |
 | [It's Not Living \(If It's Not with You\)](https://open.spotify.com/track/07eCZf9u22LsQH8wpFfjpj) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [It's Not Living \(If It's Not with You\)](https://open.spotify.com/album/32qgaOkiBYJqmFvRStyWtU) | 2:56 | 2021-12-17 | 2022-05-02 |

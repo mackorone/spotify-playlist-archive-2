@@ -1,6 +1,6 @@
 {
   "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. / \u30ec\u30b8\u30a7\u30f3\u30c9\u3082\u65b0\u4e16\u4ee3\u3082\u4e00\u3064\u306e\u53eb\u3073\u306b\u3002\u9032\u5316\u3057\u7d9a\u3051\u308b\u65e5\u672c\u306e\u30d1\u30f3\u30af\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: grating hunny",
-  "num_followers": 132518,
+  "num_followers": 132525,
   "original_name": "Punk Japan",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-01-13 15:00:19",
       "album": {
-        "name": "Our Song",
-        "url": "https://open.spotify.com/album/3vOAwUmsvyNXiXBiWwwS8n"
-      },
-      "artists": [
-        {
-          "name": "Hi-STANDARD",
-          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "Our Song",
-      "url": "https://open.spotify.com/track/1cljv0pFujhPmdNDSJNTim"
-    },
-    {
-      "added_at": "2026-01-13 15:00:19",
-      "album": {
         "name": "THE BAND STAR",
         "url": "https://open.spotify.com/album/7LBnXKfzvkhJIvZcTENgiS"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 179626,
       "name": "PEAK'D YELLOW",
       "url": "https://open.spotify.com/track/4F8IqZEYs0KePKI7AAgrPv"
+    },
+    {
+      "added_at": "2026-01-13 15:00:19",
+      "album": {
+        "name": "Our Song",
+        "url": "https://open.spotify.com/album/3vOAwUmsvyNXiXBiWwwS8n"
+      },
+      "artists": [
+        {
+          "name": "Hi-STANDARD",
+          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "Our Song",
+      "url": "https://open.spotify.com/track/1cljv0pFujhPmdNDSJNTim"
     },
     {
       "added_at": "2026-01-13 15:00:19",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-01-13 15:00:19",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1"
-      },
-      "artists": [
-        {
-          "name": "The BONEZ",
-          "url": "https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ"
-        }
-      ],
-      "duration_ms": 153866,
-      "name": "Love song",
-      "url": "https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4"
-    },
-    {
-      "added_at": "2026-01-13 15:00:19",
-      "album": {
         "name": "EVERYNIGHT",
         "url": "https://open.spotify.com/album/1zkWG461a3ppXEP5hhSGtK"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2026-01-13 15:00:19",
       "album": {
-        "name": "\u672a\u6765\u306e\u7834\u7247",
-        "url": "https://open.spotify.com/album/2Y0g41iLy9VrDWa5vigkrl"
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1"
       },
       "artists": [
         {
-          "name": "04 Limited Sazabys",
-          "url": "https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh"
+          "name": "The BONEZ",
+          "url": "https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ"
         }
       ],
-      "duration_ms": 243320,
-      "name": "\u672a\u6765\u306e\u7834\u7247",
-      "url": "https://open.spotify.com/track/0ggkEAlaVUAqhSNT3dsSu3"
+      "duration_ms": 153866,
+      "name": "Love song",
+      "url": "https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4"
     },
     {
       "added_at": "2026-01-13 15:00:19",
@@ -947,6 +931,22 @@
     {
       "added_at": "2026-01-13 15:00:19",
       "album": {
+        "name": "\u672a\u6765\u306e\u7834\u7247",
+        "url": "https://open.spotify.com/album/2Y0g41iLy9VrDWa5vigkrl"
+      },
+      "artists": [
+        {
+          "name": "04 Limited Sazabys",
+          "url": "https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh"
+        }
+      ],
+      "duration_ms": 243320,
+      "name": "\u672a\u6765\u306e\u7834\u7247",
+      "url": "https://open.spotify.com/track/0ggkEAlaVUAqhSNT3dsSu3"
+    },
+    {
+      "added_at": "2026-01-13 15:00:19",
+      "album": {
         "name": "\u6b7b\u306c\u307e\u3067\u306b\u4ffa\u304c\u3084\u308a\u305f\u3044\u3053\u3068",
         "url": "https://open.spotify.com/album/4hwgXFx90Z2BmAOXu897c0"
       },
@@ -959,6 +959,22 @@
       "duration_ms": 100840,
       "name": "\u6b7b\u306c\u307e\u3067\u306b\u4ffa\u304c\u3084\u308a\u305f\u3044\u3053\u3068",
       "url": "https://open.spotify.com/track/4TF6wD2NlUn8CpZrQFSqUl"
+    },
+    {
+      "added_at": "2026-01-13 15:00:19",
+      "album": {
+        "name": "Underclass HERO",
+        "url": "https://open.spotify.com/album/3yPtvypfL1CxNnxeztlNQh"
+      },
+      "artists": [
+        {
+          "name": "LONGMAN",
+          "url": "https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7"
+        }
+      ],
+      "duration_ms": 218840,
+      "name": "Underclass HERO",
+      "url": "https://open.spotify.com/track/0tWhtN7KksQk7HzzxMawVY"
     },
     {
       "added_at": "2026-01-13 15:00:19",
@@ -979,22 +995,6 @@
       "duration_ms": 252300,
       "name": "Straight Up (feat. Kj)",
       "url": "https://open.spotify.com/track/01yS4eW9jeCPXJgz6I7DxJ"
-    },
-    {
-      "added_at": "2026-01-13 15:00:19",
-      "album": {
-        "name": "Underclass HERO",
-        "url": "https://open.spotify.com/album/3yPtvypfL1CxNnxeztlNQh"
-      },
-      "artists": [
-        {
-          "name": "LONGMAN",
-          "url": "https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7"
-        }
-      ],
-      "duration_ms": 218840,
-      "name": "Underclass HERO",
-      "url": "https://open.spotify.com/track/0tWhtN7KksQk7HzzxMawVY"
     },
     {
       "added_at": "2026-01-13 15:00:19",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-01-13 15:00:19",
       "album": {
-        "name": "WOKE",
-        "url": "https://open.spotify.com/album/0ROu0FijW04uq3slGQP9eW"
-      },
-      "artists": [
-        {
-          "name": "The BONEZ",
-          "url": "https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "SUNTOWN",
-      "url": "https://open.spotify.com/track/1UUoK3etmWU8lFOa4wLod6"
-    },
-    {
-      "added_at": "2026-01-13 15:00:19",
-      "album": {
         "name": "FRESH BRASH OLD MAN",
         "url": "https://open.spotify.com/album/6I3h8d1qKsleQ1iq9nQCwH"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 157666,
       "name": "B\u30fbM\u30fbW",
       "url": "https://open.spotify.com/track/3CBy99A0i7gTKOjOSSIw53"
+    },
+    {
+      "added_at": "2026-01-13 15:00:19",
+      "album": {
+        "name": "WOKE",
+        "url": "https://open.spotify.com/album/0ROu0FijW04uq3slGQP9eW"
+      },
+      "artists": [
+        {
+          "name": "The BONEZ",
+          "url": "https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "SUNTOWN",
+      "url": "https://open.spotify.com/track/1UUoK3etmWU8lFOa4wLod6"
     },
     {
       "added_at": "2026-01-13 15:00:19",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-01-13 15:00:19",
       "album": {
-        "name": "\u30e1\u30b8\u30e3\u30fc\u30c7\u30d3\u30e5\u30fc\u3068\u3044\u3046\u30dc\u30b1",
-        "url": "https://open.spotify.com/album/2gSRGSg2fgVMAIbgWYPDHZ"
-      },
-      "artists": [
-        {
-          "name": "suxingcyu",
-          "url": "https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "\u30af\u30e9\u30fc\u30af\u535a\u58eb\u3068\u50d5",
-      "url": "https://open.spotify.com/track/5Tc0JZXCvmS51vVwPyV3RJ"
-    },
-    {
-      "added_at": "2026-01-13 15:00:19",
-      "album": {
         "name": "GRAVITY",
         "url": "https://open.spotify.com/album/7AotoltMCQTbLyVq73371i"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 220200,
       "name": "HOTARU NO HIKARI featuring AIR",
       "url": "https://open.spotify.com/track/7u0uQ6LPgE5weRPJx8XzzF"
+    },
+    {
+      "added_at": "2026-01-13 15:00:19",
+      "album": {
+        "name": "\u30e1\u30b8\u30e3\u30fc\u30c7\u30d3\u30e5\u30fc\u3068\u3044\u3046\u30dc\u30b1",
+        "url": "https://open.spotify.com/album/2gSRGSg2fgVMAIbgWYPDHZ"
+      },
+      "artists": [
+        {
+          "name": "suxingcyu",
+          "url": "https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "\u30af\u30e9\u30fc\u30af\u535a\u58eb\u3068\u50d5",
+      "url": "https://open.spotify.com/track/5Tc0JZXCvmS51vVwPyV3RJ"
     },
     {
       "added_at": "2026-01-13 15:00:19",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-01-13 15:00:19",
       "album": {
+        "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc\u30fb\u30b7\u30fc\u30b5\u30a4\u30c9",
+        "url": "https://open.spotify.com/album/0QByJcApTQCzRS2EvWy4gx"
+      },
+      "artists": [
+        {
+          "name": "Suspended 4th",
+          "url": "https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp"
+        }
+      ],
+      "duration_ms": 197269,
+      "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc\u30fb\u30b7\u30fc\u30b5\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/2BSEWKPGXooXHbDDle1noH"
+    },
+    {
+      "added_at": "2026-01-13 15:00:19",
+      "album": {
         "name": "Beginning",
         "url": "https://open.spotify.com/album/69fiqV5Tge5nuNaaf1MJye"
       },
@@ -1275,18 +1291,18 @@
     {
       "added_at": "2026-01-13 15:00:19",
       "album": {
-        "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc\u30fb\u30b7\u30fc\u30b5\u30a4\u30c9",
-        "url": "https://open.spotify.com/album/0QByJcApTQCzRS2EvWy4gx"
+        "name": "DREAMS NEVER END",
+        "url": "https://open.spotify.com/album/1YLr4saK1uW4JUk87gLqMD"
       },
       "artists": [
         {
-          "name": "Suspended 4th",
-          "url": "https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp"
+          "name": "Dizzy Sunfist",
+          "url": "https://open.spotify.com/artist/66TdubACxGacvormjPazAk"
         }
       ],
-      "duration_ms": 197269,
-      "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc\u30fb\u30b7\u30fc\u30b5\u30a4\u30c9",
-      "url": "https://open.spotify.com/track/2BSEWKPGXooXHbDDle1noH"
+      "duration_ms": 203453,
+      "name": "The Dream Is Not Dead",
+      "url": "https://open.spotify.com/track/45YAIPPE3My3zoqOJJnLc8"
     },
     {
       "added_at": "2026-01-13 15:00:19",
@@ -1319,22 +1335,6 @@
       "duration_ms": 131680,
       "name": "Drain Water",
       "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
-    },
-    {
-      "added_at": "2026-01-13 15:00:19",
-      "album": {
-        "name": "DREAMS NEVER END",
-        "url": "https://open.spotify.com/album/1YLr4saK1uW4JUk87gLqMD"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Sunfist",
-          "url": "https://open.spotify.com/artist/66TdubACxGacvormjPazAk"
-        }
-      ],
-      "duration_ms": 203453,
-      "name": "The Dream Is Not Dead",
-      "url": "https://open.spotify.com/track/45YAIPPE3My3zoqOJJnLc8"
     },
     {
       "added_at": "2026-01-13 15:00:19",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-01-13 15:00:19",
       "album": {
-        "name": "Midnight Grow",
-        "url": "https://open.spotify.com/album/3HXAGw0DEIjZrLg3b1D9IL"
-      },
-      "artists": [
-        {
-          "name": "SHANK",
-          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
-        }
-      ],
-      "duration_ms": 163620,
-      "name": "Midnight Grow",
-      "url": "https://open.spotify.com/track/1A2MlEvCue0EWDvPP2aJL0"
-    },
-    {
-      "added_at": "2026-01-13 15:00:19",
-      "album": {
         "name": "MUZIC",
         "url": "https://open.spotify.com/album/4UfnTbzbPnLbF6K1RttHp5"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 222093,
       "name": "MUZIC",
       "url": "https://open.spotify.com/track/1LrmWErruRbgfafzcilZNS"
+    },
+    {
+      "added_at": "2026-01-13 15:00:19",
+      "album": {
+        "name": "Midnight Grow",
+        "url": "https://open.spotify.com/album/3HXAGw0DEIjZrLg3b1D9IL"
+      },
+      "artists": [
+        {
+          "name": "SHANK",
+          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
+        }
+      ],
+      "duration_ms": 163620,
+      "name": "Midnight Grow",
+      "url": "https://open.spotify.com/track/1A2MlEvCue0EWDvPP2aJL0"
     },
     {
       "added_at": "2026-01-13 15:00:19",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-01-13 15:00:19",
       "album": {
-        "name": "\u3042\u306e\u591c\u306e\u306f\u306a\u3057",
-        "url": "https://open.spotify.com/album/4nuRUQpojZ8aM9SERd769U"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
-          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
-        }
-      ],
-      "duration_ms": 135107,
-      "name": "\u30dd\u30c6\u30b5\u30e9",
-      "url": "https://open.spotify.com/track/5L8ZRE5UQiPHKkVI5XtHqb"
-    },
-    {
-      "added_at": "2026-01-13 15:00:19",
-      "album": {
         "name": "\u30b3\u30ea\u30f3\u30ba",
         "url": "https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk"
       },
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2026-01-13 15:00:19",
       "album": {
-        "name": "CHAMPiONS",
-        "url": "https://open.spotify.com/album/1tgzTFdkXKzMhZhsHZs0PD"
+        "name": "\u3042\u306e\u591c\u306e\u306f\u306a\u3057",
+        "url": "https://open.spotify.com/album/4nuRUQpojZ8aM9SERd769U"
       },
       "artists": [
         {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
         }
       ],
-      "duration_ms": 241613,
-      "name": "CHAMPiONS",
-      "url": "https://open.spotify.com/track/25DKLVXbY747FnWBpum6k5"
+      "duration_ms": 135107,
+      "name": "\u30dd\u30c6\u30b5\u30e9",
+      "url": "https://open.spotify.com/track/5L8ZRE5UQiPHKkVI5XtHqb"
     },
     {
       "added_at": "2026-01-13 15:00:19",
@@ -1499,6 +1483,38 @@
     {
       "added_at": "2026-01-13 15:00:19",
       "album": {
+        "name": "CHAMPiONS",
+        "url": "https://open.spotify.com/album/1tgzTFdkXKzMhZhsHZs0PD"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "duration_ms": 241613,
+      "name": "CHAMPiONS",
+      "url": "https://open.spotify.com/track/25DKLVXbY747FnWBpum6k5"
+    },
+    {
+      "added_at": "2026-01-13 15:00:19",
+      "album": {
+        "name": "SUPER DELICIOUS",
+        "url": "https://open.spotify.com/album/6l4tkHQQ6pwyAcG57BTXL8"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Sunfist",
+          "url": "https://open.spotify.com/artist/66TdubACxGacvormjPazAk"
+        }
+      ],
+      "duration_ms": 142253,
+      "name": "SHOOTING STAR",
+      "url": "https://open.spotify.com/track/0cRhcha9tHeClPWA4Gpf4y"
+    },
+    {
+      "added_at": "2026-01-13 15:00:19",
+      "album": {
         "name": "\u6b7b\u4ea1\u30d5\u30e9\u30b0\u3092\u7acb\u3066\u306a\u3044\u3067",
         "url": "https://open.spotify.com/album/5lkOWi2hkb6Rj72eE2E3aG"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 275480,
       "name": "\u6b7b\u4ea1\u30d5\u30e9\u30b0\u3092\u7acb\u3066\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/3EqQOKYHWfaqKBkeU5YKsv"
-    },
-    {
-      "added_at": "2026-01-13 15:00:19",
-      "album": {
-        "name": "\u30b7\u30e7\u30fc\u30c8\u30ab\u30c3\u30c8",
-        "url": "https://open.spotify.com/album/4RHVfs0r4wZ3MPwZMiMuWO"
-      },
-      "artists": [
-        {
-          "name": "yutori",
-          "url": "https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0"
-        }
-      ],
-      "duration_ms": 212266,
-      "name": "\u30b7\u30e7\u30fc\u30c8\u30ab\u30c3\u30c8",
-      "url": "https://open.spotify.com/track/6CHrfuOFJikGNs6JriXdGi"
     },
     {
       "added_at": "2026-01-13 15:00:19",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2026-01-13 15:00:19",
       "album": {
-        "name": "SUPER DELICIOUS",
-        "url": "https://open.spotify.com/album/6l4tkHQQ6pwyAcG57BTXL8"
+        "name": "\u30b7\u30e7\u30fc\u30c8\u30ab\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/4RHVfs0r4wZ3MPwZMiMuWO"
       },
       "artists": [
         {
-          "name": "Dizzy Sunfist",
-          "url": "https://open.spotify.com/artist/66TdubACxGacvormjPazAk"
+          "name": "yutori",
+          "url": "https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0"
         }
       ],
-      "duration_ms": 142253,
-      "name": "SHOOTING STAR",
-      "url": "https://open.spotify.com/track/0cRhcha9tHeClPWA4Gpf4y"
+      "duration_ms": 212266,
+      "name": "\u30b7\u30e7\u30fc\u30c8\u30ab\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/6CHrfuOFJikGNs6JriXdGi"
     },
     {
       "added_at": "2026-01-13 15:00:19",

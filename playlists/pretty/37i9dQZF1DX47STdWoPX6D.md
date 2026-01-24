@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: Anike
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,718 likes - 98 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,737 likes - 98 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1542,7 +1542,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 146666,
       "name": "4 Raws",
       "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
@@ -25732,7 +25732,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 152666,
       "name": "Komu mia\u0142abym powiedzie\u0107?",
       "url": "https://open.spotify.com/track/6v3aVSYMUOKOoh7Ut70gJ9"
@@ -36309,6 +36309,24 @@
     },
     {
       "album": {
+        "name": "Odegaard",
+        "url": "https://open.spotify.com/album/4s684epQ5Mto0TmrdMgCnR"
+      },
+      "artists": [
+        {
+          "name": "wane",
+          "url": "https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109859,
+      "name": "Odegaard",
+      "url": "https://open.spotify.com/track/0GUZWr03s8y0x4BpvXGhDH"
+    },
+    {
+      "album": {
         "name": "Odleg\u0142o\u015b\u0107",
         "url": "https://open.spotify.com/album/3qjpFMncv5JIPQvG1TbbYu"
       },
@@ -37208,7 +37226,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 144000,
       "name": "Opener",
       "url": "https://open.spotify.com/track/30Mb1itXAG1HGfQrwF5guj"
@@ -40032,7 +40050,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 206093,
       "name": "PLAC TRZECH KRZY\u017bY",
       "url": "https://open.spotify.com/track/3ZUQepwP4DaUlUmup5nBgr"
@@ -44450,7 +44468,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 136838,
       "name": "R\u00f3\u017ce",
       "url": "https://open.spotify.com/track/2iQpHZw3cPGz7C7qMGqN3Y"

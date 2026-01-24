@@ -4,7 +4,7 @@
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Liz Loyo
 
-599 songs - 1 day 8 hr 21 min
+601 songs - 1 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Cuando Caiga la Noche](https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuando Caiga la Noche](https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU) | 3:21 | 2022-04-01 | 2023-03-04 |
 | [Cuando Me Importabas](https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Cuando Me Importabas](https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD) | 3:12 | 2022-02-18 | 2023-01-28 |
 | [Cuando Te Acuerdes de Mí \- En Vivo](https://open.spotify.com/track/78sgRUUe099BRWVyAWYseP) | [Karina Catalán](https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx) | [Cuando Te Acuerdes de Mí \(En Vivo\)](https://open.spotify.com/album/2oyruBJWp4DTJYsEXn5SZX) | 4:34 | 2024-03-08 |  |
+| [Cuando Una Mujer](https://open.spotify.com/track/3avC8Pl0P86k3GQjE1h9y1) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Cuando Una Mujer](https://open.spotify.com/album/6Kqio6YmPAge6dLPtV0cYh) | 2:36 | 2026-01-24 |  |
 | [Cuanto Te Amo](https://open.spotify.com/track/3H0TN0PotVH0SZVuxq34Gz) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp), [Costumbre](https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N) | [Cuanto Te Amo](https://open.spotify.com/album/2ILRR1XBqTsQcq0vkn4FQ1) | 2:54 | 2025-11-21 |  |
 | [Cucurrucucú Paloma](https://open.spotify.com/track/1C0sa4oOureltY5aJYCXW0) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cucurrucucú Paloma](https://open.spotify.com/album/3z8gkipgvNxjNgu0UZ8tf6) | 3:10 | 2022-01-07 | 2022-04-21 |
 | [CUIDADITO](https://open.spotify.com/track/3mvAYoRe4GhiTBcUUZRsFe) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 2:56 | 2023-12-08 | 2025-10-04 |
@@ -303,7 +304,7 @@
 | [Me Vas A Llorar](https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Me Vas A Llorar](https://open.spotify.com/album/0yzGGAC5CZLqUHLge7iG9U) | 3:11 | 2023-11-24 | 2025-01-29 |
 | [Me Voy](https://open.spotify.com/track/4EJdS2IlMtkH9GHv9SAcze) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Me Voy](https://open.spotify.com/album/5iIJGuHDAOFUfshFN5kxcN) | 2:55 | 2022-01-07 | 2022-01-22 |
 | [Medley Kany García \(En Vivo\)](https://open.spotify.com/track/4JpjtcWRslVylLshBEuSXr) | [Karina Catalán](https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx) | [Medley Kany García \(En Vivo\)](https://open.spotify.com/album/4CavX3tqabhiE2Iw68B2Kr) | 6:38 | 2025-10-10 |  |
-| [Mejor Que Tú](https://open.spotify.com/track/0NTvttKPwlAfHz5RFdXTHi) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Mejor Que Tú](https://open.spotify.com/album/6KsEJaXvbGHtwGFVF3gZWI) | 3:28 | 2024-06-07 |  |
+| [Mejor Que Tú](https://open.spotify.com/track/0NTvttKPwlAfHz5RFdXTHi) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Mejor Que Tú](https://open.spotify.com/album/6KsEJaXvbGHtwGFVF3gZWI) | 3:28 | 2024-06-07 | 2026-01-24 |
 | [Menos Mal Que Me Querías](https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Menos Mal Que Me Querías](https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW) | 2:37 | 2024-03-08 |  |
 | [Mentiras](https://open.spotify.com/track/0SeEBAaBmDPJmGmhub9SX7) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Solo Lo Mejor: 20 Exitos](https://open.spotify.com/album/5L3DgJ6F7THYRV9mNTJxvD) | 3:56 | 2022-01-07 | 2022-07-29 |
 | [Mentiras](https://open.spotify.com/track/15Ua6Q1yeD6GHdf4J0Elws) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [30 Exitos Insuperables](https://open.spotify.com/album/33ZPVVNd1W4MaLloP1H2UC) | 3:56 | 2023-01-09 | 2023-03-04 |
@@ -508,6 +509,7 @@
 | [somos peligro](https://open.spotify.com/track/4Zv0fzBEaM2lzgpVeeT9LG) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [somos peligro](https://open.spotify.com/album/4ZwhSH8wNYNpljOBOUM1yZ) | 2:59 | 2025-09-26 |  |
 | [Soy El Unico](https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:33 | 2022-05-20 | 2023-03-04 |
 | [Soy El Unico](https://open.spotify.com/track/6HJIZUOiZDE814XMhRGSZN) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Soy El Unico](https://open.spotify.com/album/5oPFcz7IZOyJKNdJ08HXQl) | 3:33 | 2022-04-01 | 2022-07-29 |
+| [Soy Fan](https://open.spotify.com/track/214dHBkQIghUJArTL083fZ) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Soy Fan](https://open.spotify.com/album/5IOMxDPKMtuqX72hEwhz3Z) | 2:56 | 2026-01-24 |  |
 | [Soy Mala](https://open.spotify.com/track/10pyLImhmwLQcl3G4ahJZB) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [Adrenalina](https://open.spotify.com/album/4806StxcG6kpJXdGwMH9Tc) | 1:57 | 2023-03-03 | 2025-09-27 |
 | [SOY REBELDE](https://open.spotify.com/track/5zmFwtmXOwY0mfqGI0MfYB) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [SOY REBELDE](https://open.spotify.com/album/4wHmVQ8EJRHkm7DWeoSwoW) | 3:30 | 2025-08-01 | 2025-11-22 |
 | [Talvez Ya Es Hora De Dormir](https://open.spotify.com/track/58RnEnpfPSodHK4GqWHrC1) | [Anakaren Rwiz](https://open.spotify.com/artist/2mVozhX75nzJ4ejors3dh6) | [Talvez Ya Es Hora De Dormir](https://open.spotify.com/album/6WE1jAOvZsZZ8xCMTxrOtV) | 2:23 | 2025-09-26 | 2026-01-15 |
@@ -530,7 +532,7 @@
 | [Tengo Ganas de Llorar](https://open.spotify.com/track/0wU4lzUqRBluQoqxsJ7B1n) | [Alejandra Rojas](https://open.spotify.com/artist/10y9yMDEj04DZZyBbXoLS1), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Tengo Ganas de Llorar](https://open.spotify.com/album/6rDpKWvEOQt3TYNxOZYsvT) | 2:53 | 2025-07-04 |  |
 | [Tengo Ganas De Olvidarte](https://open.spotify.com/track/7EJzVmKWei8WNDRkqmPWrE) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Cynthia Yolanda](https://open.spotify.com/artist/1Llt3kcKErOoHO9Ez8SjWU) | [Tengo Ganas De Olvidarte](https://open.spotify.com/album/2VTuVSJ6mock6liZb5NuD0) | 3:38 | 2025-10-17 | 2025-11-22 |
 | [Tengo Mal Gusto](https://open.spotify.com/track/0KSDEL5lOswphHavdBTczY) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Tengo Mal Gusto](https://open.spotify.com/album/3yug8VemCVhdreUliqZLdK) | 2:27 | 2024-04-26 | 2025-10-25 |
-| [Tequila Mariachi](https://open.spotify.com/track/1M2iTJ1l3OIjA5X4S65BGk) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Tequila Mariachi](https://open.spotify.com/album/7Bhvqlx38CGFUvxIfz5iOw) | 3:36 | 2024-09-06 |  |
+| [Tequila Mariachi](https://open.spotify.com/track/1M2iTJ1l3OIjA5X4S65BGk) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Tequila Mariachi](https://open.spotify.com/album/7Bhvqlx38CGFUvxIfz5iOw) | 3:36 | 2024-09-06 | 2026-01-24 |
 | [Terapia](https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp) | [Terapia](https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN) | 2:42 | 2023-04-28 | 2025-09-27 |
 | [Ticket De Salida](https://open.spotify.com/track/01ONRpkfIIAiavWJVY03AH) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Ticket De Salida](https://open.spotify.com/album/4rzbH6FLHISy07kILLO5Hr) | 3:04 | 2022-04-01 | 2022-07-26 |
 | [Tiene Que Ser Asi](https://open.spotify.com/track/0fk72JN9bOGS1be11ift5a) | [Laura Denisse y Los Brillantes](https://open.spotify.com/artist/2l3rQuhAwI4rxZryE8Zze5) | [Tiene Que Ser Asi](https://open.spotify.com/album/0fAt4fJFcXM5y7nsWkfRnY) | 3:43 | 2025-11-14 | 2026-01-17 |

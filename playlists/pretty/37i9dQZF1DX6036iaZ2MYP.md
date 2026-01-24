@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Omah Lay x Seyi Vibez
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,775 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,587 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 6 | [ONE TRACK MIND](https://open.spotify.com/track/0nP8XXnfBQnP3jllQj6f4K) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [ONE TRACK MIND](https://open.spotify.com/album/2JOvmn8Eq4nwSUjeKfBEeQ) | 3:20 |
 | 7 | [TOUT DOUX](https://open.spotify.com/track/4VqMiJYEojz1Q40qE40n26) | [Ralph Beaubrun](https://open.spotify.com/artist/4qUeDaQIX2u2rXnPQr9yuP), [TMAN](https://open.spotify.com/artist/4P3zTDvrAEBoleS4VscRla) | [ID.2](https://open.spotify.com/album/1YWTMoNVq0qNuapp2XIndp) | 2:51 |
 | 8 | [SORRY IM NOT SORRY](https://open.spotify.com/track/4pLRyM0kyB3neTK4O9s1dj) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [SORRY IM NOT SORRY](https://open.spotify.com/album/2oPOFm0L1MvMeBwJZwXnv2) | 2:11 |
-| 9 | [FOLIE](https://open.spotify.com/track/0DT5OCCGLa1aOv9RusHqch) | [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [](https://open.spotify.com/album/null) | 3:03 |
+| 9 | [FOLIE](https://open.spotify.com/track/0DT5OCCGLa1aOv9RusHqch) | [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [LIMITLESS : HORIZON](https://open.spotify.com/album/1msS30ti4CoeOG9KoIGrQe) | 3:03 |
 | 10 | [RIDER](https://open.spotify.com/track/0pl8LizYbG6joZS67m8ldP) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Sounds Of The Diaspora](https://open.spotify.com/album/0n7r3MD92Fj1CYutyMj8fK) | 3:32 |
 | 11 | [Hélico](https://open.spotify.com/track/2BxIJsyjud3N1lC0JqP2lS) | [Junior](https://open.spotify.com/artist/5ZVc8t2irmJwaMSkDXY1Rj), [DJ SEBB](https://open.spotify.com/artist/6tWA0KYYzAiQzgKzImRQGF), [Busy Twist](https://open.spotify.com/artist/0jPcvO2Jz1kkvANItu53jI) | [Hélico](https://open.spotify.com/album/13yPcCUFqnPUhjg3NyqQuj) | 2:05 |
 | 12 | [Paparazzi](https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Paparazzi](https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX) | 2:27 |

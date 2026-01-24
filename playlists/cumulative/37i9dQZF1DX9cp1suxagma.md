@@ -2,9 +2,9 @@
 
 ### [Pop Colombia](https://open.spotify.com/playlist/37i9dQZF1DX9cp1suxagma)
 
-> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Elsa y Elmar
+> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Juanes
 
-300 songs - 15 hr 48 min
+302 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Fórmula 1](https://open.spotify.com/track/0LxCc5e6eYqCytwaiXDTXB) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Fórmula 1](https://open.spotify.com/album/03AqKstdfmHhXioC73KQ3B) | 2:37 | 2023-04-28 | 2025-05-10 |
 | [Gabriela](https://open.spotify.com/track/6C7EC0BWQ5A57UkY6HLJqA) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [Gabriela](https://open.spotify.com/album/4xrro73gRMWxStGt4khR6J) | 3:31 | 2024-11-26 |  |
 | [GUERRA DE ALMOHADAS](https://open.spotify.com/track/5SDxtXN8aPNlkEMSj4iEPH) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE) | [GUERRA DE ALMOHADAS](https://open.spotify.com/album/59TX39k20TTWKzpCSfBKx6) | 3:01 | 2024-06-28 | 2024-09-27 |
+| [Hagamos Que](https://open.spotify.com/track/6dERO18avM16kki5aCjTkb) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Hagamos Que](https://open.spotify.com/album/1LzepHC5JM2kXvL5Fv7CgC) | 2:58 | 2026-01-23 |  |
 | [Idiota](https://open.spotify.com/track/7IXKGPuB0D0yFvfLoJFFWo) | [Arevalo](https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G) | [Idiota](https://open.spotify.com/album/5fR1etMEVPIUUR2BdDFD0J) | 2:29 | 2023-04-28 | 2023-05-20 |
 | [Idiota](https://open.spotify.com/track/35nO174gX5eCh9mPWvUe3s) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Idiota](https://open.spotify.com/album/2XbvwFhkiW4Jjusjl6n9ki) | 3:04 | 2023-02-17 |  |
 | [Inevitable \- Cinco de Mil Pedazos](https://open.spotify.com/track/7nhPsUMAgvb80O9UFWGQ9I) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Inevitable \(Cinco de Mil Pedazos\)](https://open.spotify.com/album/052FGJ4j8JLIcqBdAvmWTe) | 2:24 | 2023-11-10 |  |
@@ -184,6 +185,7 @@
 | [No Fue Un Tiro De Suerte](https://open.spotify.com/track/3CXs1ePFimpOdhvU7je7i5) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [VIDA](https://open.spotify.com/album/3ocvapzDsPJrziwnlD7I82) | 4:21 | 2023-05-19 | 2023-11-04 |
 | [No Hay Nadie Más](https://open.spotify.com/track/6wos8Ds5FKMe33GjBHRake) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Hay Nadie Más](https://open.spotify.com/album/2s4avhyZ6V7PbFVM6vPStc) | 3:17 | 2024-04-12 |  |
 | [No Hay Nadie Más](https://open.spotify.com/track/3IPJg1sdqLj12kFIndaonN) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 3:19 | 2023-02-17 | 2024-04-19 |
+| [No Hay Que Llorar](https://open.spotify.com/track/46tzd3foeCDZeJE5m5JmR3) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [No Hay Que Llorar](https://open.spotify.com/album/7uIbLRXnuJqnAd6XrGSJDQ) | 2:35 | 2026-01-23 |  |
 | [No soy yo](https://open.spotify.com/track/47Q1O0vKdL4QTC9FZdSwT1) | [Chago](https://open.spotify.com/artist/5aQK13za62lrxQASWuHMbG) | [No soy yo](https://open.spotify.com/album/78WLJ4fRlnvYprbgAwvNi9) | 2:26 | 2023-11-24 | 2024-02-03 |
 | [NO SUPISTE CUIDARNOS \- Respuesta \#2](https://open.spotify.com/track/0XYnxyC3AgBO8B19iqc3r4) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [NO SUPISTE CUIDARNOS \(Respuesta \#2\)](https://open.spotify.com/album/0NTnrfFM9oczlM1795mwLQ) | 2:55 | 2025-09-05 |  |
 | [No Sé Querer](https://open.spotify.com/track/0QnOCHmZ6yH5J0gajW9jf2) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [No Sé Querer](https://open.spotify.com/album/5mCGmJ3N1H0ARTdBCihqMO) | 3:25 | 2023-02-17 | 2024-09-07 |
@@ -219,13 +221,13 @@
 | [Que me quiera](https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA \- Cap.1 \- Que me quiera / Lokita](https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1) | 2:34 | 2023-06-23 | 2024-12-13 |
 | [Que No Me Falten](https://open.spotify.com/track/3quijRz4YM5tagBK4kj3vC) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [Que No Me Falten](https://open.spotify.com/album/3GRhFeE5g1X4lTBbJhGH85) | 2:30 | 2025-05-30 |  |
 | [Quererte Desde Lejos](https://open.spotify.com/track/2CY9XV9CUO0RNPcxl7mHx1) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Quererte Desde Lejos](https://open.spotify.com/album/0oBqEM4y6H9CNzpFNgFhXa) | 2:21 | 2024-04-26 |  |
-| [Quisiera odiarte](https://open.spotify.com/track/2OnLqTKaED5zI5CAK4VHVS) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [La Chinita](https://open.spotify.com/album/3nwQRr8iXfZlXdszesno3v) | 3:38 | 2025-02-21 |  |
+| [Quisiera odiarte](https://open.spotify.com/track/2OnLqTKaED5zI5CAK4VHVS) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [La Chinita](https://open.spotify.com/album/3nwQRr8iXfZlXdszesno3v) | 3:38 | 2025-02-21 | 2026-01-24 |
 | [Qué Fácil \- Banda Sonora Original De La Serie De Televisión](https://open.spotify.com/track/0C53fChbzpahAVM3rg46wM) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm) | [Ventino: El Precio De La Gloria \(Banda Sonora Original De La Serie De Televisión\)](https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx) | 2:23 | 2023-07-25 | 2023-09-09 |
 | [Qué Más Da](https://open.spotify.com/track/2L7EazniDPDv5UZZdcCBcA) | [Sofia Cordoba](https://open.spotify.com/artist/4tskMdZP6z8sUf46Q4ThqM) | [Qué Más Da](https://open.spotify.com/album/2WyN5yIB3Izq1c5xODMywD) | 2:34 | 2024-04-12 | 2024-07-27 |
 | [Quédate](https://open.spotify.com/track/2Zq2coIIUUPBOhfXdDvz61) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Quédate](https://open.spotify.com/album/2YCoLtzdiW3YAiYzEiADm0) | 3:26 | 2023-08-04 |  |
 | [Quédate Aquí](https://open.spotify.com/track/40BHOcBhBU6InTXea4VRAK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Quédate Aquí](https://open.spotify.com/album/49FMV0pdlfmElBcTeGg8UX) | 3:03 | 2023-02-17 | 2025-09-06 |
 | [Rayo \- Spotify Singles](https://open.spotify.com/track/1tz2VG0dWIDy6kTvgwewZA) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD), [Lil Keren](https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt), [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm) | [Rayo \(Spotify Singles\)](https://open.spotify.com/album/3ZeqVTCrZOs1N7qSKIEorT) | 2:55 | 2025-05-16 |  |
-| [RD](https://open.spotify.com/track/15wOr6sCU1HlWNCTHjxirx) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ) | [A Mala Hora](https://open.spotify.com/album/34TloCPADxqF8R3otAHRA6) | 2:34 | 2025-05-16 |  |
+| [RD](https://open.spotify.com/track/15wOr6sCU1HlWNCTHjxirx) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ) | [A Mala Hora](https://open.spotify.com/album/34TloCPADxqF8R3otAHRA6) | 2:34 | 2025-05-16 | 2026-01-24 |
 | [Reina Leona](https://open.spotify.com/track/4ZvX5haKXaawEVvKtArV4X) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Reina Leona](https://open.spotify.com/album/6mH7ns15s68fnpdvM22kLE) | 3:07 | 2023-06-23 | 2023-09-16 |
 | [Roca](https://open.spotify.com/track/2zujvi2Jef8V014b9ev3Ll) | [César Pinzón](https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6) | [¿Qué Pasó en el 20XX?](https://open.spotify.com/album/6llY3eFZ4NYFQORYhLXXOX) | 3:24 | 2023-05-26 | 2023-09-09 |
 | [Rompecabezas](https://open.spotify.com/track/7mMMs48wi2SAxDPrBiVXsm) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV) | [Rompecabezas](https://open.spotify.com/album/5iyRIoZahas3q6yqEZzGgl) | 3:27 | 2025-12-19 |  |

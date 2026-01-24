@@ -1,6 +1,6 @@
 {
   "description": "The best new music by independent artists in the Nordics. Cover: Matilda Lyn",
-  "num_followers": 29323,
+  "num_followers": 29347,
   "original_name": "Fresh Finds Nordics",
   "owner": {
     "name": "Spotify",
@@ -123,8 +123,8 @@
     {
       "added_at": "2026-01-22 22:59:20",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/1s4mHTfjmO4CU8AACjkmsS"
       },
       "artists": [
         {
@@ -132,8 +132,8 @@
           "url": "https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 12",
+      "duration_ms": 175265,
+      "name": "Body",
       "url": "https://open.spotify.com/track/4SykKuN3ZpoJViT7Nyhz57"
     },
     {

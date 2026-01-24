@@ -9629,6 +9629,36 @@
     },
     {
       "album": {
+        "name": "O Tempo \u00e9 Ouro",
+        "url": "https://open.spotify.com/album/72F8mAIr3KwTTvhBmA28s3"
+      },
+      "artists": [
+        {
+          "name": "Devasto Prod",
+          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
+        },
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        },
+        {
+          "name": "MC Menor da VG",
+          "url": "https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183285,
+      "name": "O Tempo \u00e9 Ouro",
+      "url": "https://open.spotify.com/track/42zLfiSnZ1rCdSywazHqv9"
+    },
+    {
+      "album": {
         "name": "O \u00daltimo Rom\u00e2ntico Online",
         "url": "https://open.spotify.com/album/5J2k1X6ezNvPGwchhujAA4"
       },
@@ -12166,7 +12196,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 142784,
       "name": "Santo de Casa",
       "url": "https://open.spotify.com/track/3lkfsOQnDbaOeIYSBp0kUB"

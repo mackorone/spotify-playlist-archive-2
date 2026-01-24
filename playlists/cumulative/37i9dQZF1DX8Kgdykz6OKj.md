@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-508 songs - 1 day 4 hr 4 min
+509 songs - 1 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [DADADOO](https://open.spotify.com/track/0eYWFMi3v00NOx0tt9ONWI) | [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h) | [DADADOO](https://open.spotify.com/album/7jThw9jJDU3UitZRESpvGC) | 2:51 | 2024-10-04 | 2024-12-03 |
 | [DaLouIsBack](https://open.spotify.com/track/5jafVvuIwlLw0cOpqysPg8) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [DaLouIsBack](https://open.spotify.com/album/3hikpXw8GNMNLXt7AE3P9U) | 2:37 | 2024-05-31 | 2024-10-26 |
 | [Dando Vueltas](https://open.spotify.com/track/314FEi04GJLNc89wCZVanH) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Dando Vueltas](https://open.spotify.com/album/0C8tHcg6JhCIy46FUgjyGe) | 2:01 | 2023-02-23 | 2023-05-25 |
+| [Dangerous](https://open.spotify.com/track/2v8vAqxwcJsfMZP1aBJzJ0) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN), [The Legend Adam Bomb](https://open.spotify.com/artist/68JHSowx4ruM9EOTnaKjei) | [Dangerous](https://open.spotify.com/album/4rWMjTl7m5OBOoiSV8m4SA) | 3:13 | 2026-01-23 |  |
 | [Days Like This](https://open.spotify.com/track/1SDmHiEsPpO2YLsubzKRUW) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful \(Deluxe\)](https://open.spotify.com/album/2eKy2HAQ2J3WY4Q4rVCha2) | 3:36 | 2025-08-08 |  |
 | [Dedicated and Driven](https://open.spotify.com/track/5whpaOLF9BzasKJvdIR0y5) | [Substantial](https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw) | [Dedicated and Driven](https://open.spotify.com/album/2CUsLOyraPGg5QL42ktAic) | 3:01 | 2021-12-16 | 2022-04-20 |
 | [Different People](https://open.spotify.com/track/348Q25lpyar9ekRZwxsvVZ) | [Undagawds](https://open.spotify.com/artist/1ryH4v5l4pKRBqtOcGQl2X), [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M), [Peter Manns](https://open.spotify.com/artist/2qwx7CUQ9aw3C8b4amNmxy) | [Looking for Words & Different People](https://open.spotify.com/album/16XdVthLOI7gOheYtQlbhm) | 2:09 | 2022-04-11 | 2022-04-17 |
@@ -436,7 +437,7 @@
 | [Super Fly Funk](https://open.spotify.com/track/1gEdLgfWA7xkJ9TYaUJHmi) | [Jazz Spastiks](https://open.spotify.com/artist/49vIrnZPb9Tcc9N30t7E3S), [People Without Shoes](https://open.spotify.com/artist/2Zef0Fnh4FEJ1OxrtnscxL) | [Green Street \(Deluxe Edition\)](https://open.spotify.com/album/5gGkZtYnMyoAvNUz88V47g) | 2:40 | 2022-10-13 | 2024-04-19 |
 | [Super Rare](https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [Protea](https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk) | 3:20 | 2023-06-29 | 2025-08-11 |
 | [Supernatural Disasters](https://open.spotify.com/track/3k7QmvDcGzFNU2ZHLYpUuC) | [Jesse the Tree](https://open.spotify.com/artist/4mp2W09kX6MXfCl4R9uYae), [Slug of Atmosphere](https://open.spotify.com/artist/3bLSzSuIuyrpgcyuNJTkAs) | [Worm In Heaven](https://open.spotify.com/album/2sCmDKuCqBux2e5o0CvESl) | 2:53 | 2025-11-14 | 2026-01-21 |
-| [Symptoms](https://open.spotify.com/track/5O9E2CjJr6e1nOlzez3iey) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Symptoms](https://open.spotify.com/album/673hOZVstNxB6Xm6WTRVSS) | 2:29 | 2025-12-19 |  |
+| [Symptoms](https://open.spotify.com/track/5O9E2CjJr6e1nOlzez3iey) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Symptoms](https://open.spotify.com/album/673hOZVstNxB6Xm6WTRVSS) | 2:29 | 2025-12-19 | 2026-01-24 |
 | [Syrup Sandwiches \(feat\. Joey Bada$$\)](https://open.spotify.com/track/2BYffiV0F3ZGKVLuQjmjY2) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Syrup Sandwiches \(feat\. Joey Bada$$\)](https://open.spotify.com/album/1w9YQWImmASvP0wGitaF4i) | 2:53 | 2024-11-08 |  |
 | [Talk About Us](https://open.spotify.com/track/5zEOSknIlvu5qsOXIuNKxE) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Ady Suleiman](https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88) | [Talk About Us](https://open.spotify.com/album/3CzmXTz41QqnmC9xWE6QeC) | 3:15 | 2021-12-16 | 2022-10-15 |
 | [Talk About Us](https://open.spotify.com/track/7GcCIkXh9Y4qDSXnMLJgHW) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Ady Suleiman](https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88) | [Nobody Cares Till Everybody Does](https://open.spotify.com/album/0TpMAy5WPGObUkL5LPuuMc) | 3:15 | 2022-10-13 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Poison The Well
 
-1,457 songs - 3 day 16 hr 48 min
+1,458 songs - 3 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,6 +528,7 @@
 | [Forsaken](https://open.spotify.com/track/29RLIEdsr7lXMkct9omK00) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [Forsaken](https://open.spotify.com/album/1AdoiciuD5DrLLBHHBQrq2) | 3:03 | 2022-06-17 | 2022-11-05 |
 | [Fortress](https://open.spotify.com/track/3qQ9Fiy70mNNngdgTP6Xhw) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Fortress](https://open.spotify.com/album/6sumg54XS5yp7gsFZTXAJP) | 3:23 | 2022-07-13 | 2022-07-15 |
 | [Foundation of Bones](https://open.spotify.com/track/5VI5iRrQfP6gkUeNUN0SLw) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Foundation of Bones](https://open.spotify.com/album/62LietbraYCLnLgpUyiVee) | 3:24 | 2022-07-13 | 2022-07-15 |
+| [FOUR WALLS](https://open.spotify.com/track/1AAYPjL5IijzqYcKG7GUL5) | [DIESECT](https://open.spotify.com/artist/3omvraIGd4KYyb89eeordB) | [FOUR WALLS](https://open.spotify.com/album/1oX6FnRLwnUtL1O40ZT9JD) | 2:38 | 2026-01-16 |  |
 | [Fractured State of Mind](https://open.spotify.com/track/14cHOXg4CKdHdnX91mptNz) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Fractured State Of Mind](https://open.spotify.com/album/0HHsbTFhkLLocRvKsbs8zR) | 3:44 | 2024-02-09 | 2024-04-13 |
 | [From Nothing](https://open.spotify.com/track/5OejDZoN7KYcDUZhj9gxNL) | [Reflections](https://open.spotify.com/artist/0DTH9zFyvRb24bb8XN0iEr) | [From Nothing](https://open.spotify.com/album/04W2vQDW2m6KlJ0oFgudUz) | 3:51 | 2022-07-13 | 2022-07-23 |
 | [From Ruin..\. We Rise](https://open.spotify.com/track/2lSSfK5GGDSUrot8FXq16S) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [From Ruin..\. We Rise](https://open.spotify.com/album/0tmEnen3nC6Oofdjsbr5jW) | 4:50 | 2022-07-13 | 2022-07-23 |
@@ -946,7 +947,7 @@
 | [PARADOX](https://open.spotify.com/track/4KZUetMsBaYdvWcLQ3bF3x) | [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm) | [PARADOX](https://open.spotify.com/album/5LqNAnY30ZnanfbMfqkgmb) | 3:20 | 2025-09-19 | 2025-11-12 |
 | [Paralythe](https://open.spotify.com/track/1pY5mn0ULI0nAJuGe39Vmx) | [Bite Down](https://open.spotify.com/artist/0v6hSqiiT4b6n0sEVQY41l), [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Violent Playground](https://open.spotify.com/album/7JMsMNx00sRgPmJMvi4SK5) | 2:54 | 2026-01-16 |  |
 | [Paralyzed](https://open.spotify.com/track/4IZqSAp69gs1gaRREITNmr) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Paralyzed](https://open.spotify.com/album/3blpmJHSbVyMkFAw42nVkD) | 3:15 | 2024-07-12 | 2024-09-21 |
-| [Paralyzed](https://open.spotify.com/track/59KSuPsR2uzx7nKoFj3Bf3) | [Secrets](https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl) | [Paralyzed](https://open.spotify.com/album/60vVun2EgKk6rt9ww8fLDE) | 3:09 | 2025-10-03 |  |
+| [Paralyzed](https://open.spotify.com/track/59KSuPsR2uzx7nKoFj3Bf3) | [Secrets](https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl) | [Paralyzed](https://open.spotify.com/album/60vVun2EgKk6rt9ww8fLDE) | 3:09 | 2025-10-03 | 2026-01-24 |
 | [Parasite](https://open.spotify.com/track/4V004qkJIj2kvRUvA28LI3) | [Abyss Walker](https://open.spotify.com/artist/0gJ0dOw0r6daBMmJr6ROvQ), [Sammy SlamDance](https://open.spotify.com/artist/64LYfCjQQZTG2ygTRfFzk1), [Nick Cross](https://open.spotify.com/artist/0YSnq2dV2heq3fiu5kacmH), [Divisive](https://open.spotify.com/artist/7J0ZwYG57Ruw6ExLKls9PC) | [Parasite](https://open.spotify.com/album/0Tr8yRpp0crtdCltwINpYP) | 3:51 | 2022-07-13 | 2022-07-22 |
 | [Parasite](https://open.spotify.com/track/0sBXPxWJpMlQBnVF2y78Rg) | [Archetypes Collide](https://open.spotify.com/artist/6Gnk08ItppARKX1z1EW3Vn) | [Parasite](https://open.spotify.com/album/0sx2ImaWkigyLHH45jdIo1) | 3:32 | 2023-02-24 | 2024-02-10 |
 | [Parting Ways](https://open.spotify.com/track/02z82YXVP6bQlIUt7r3gK5) | [Adept](https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu) | [Parting Ways](https://open.spotify.com/album/0lQzY4FbjBmUeOWceO268U) | 4:58 | 2025-08-15 | 2025-09-27 |

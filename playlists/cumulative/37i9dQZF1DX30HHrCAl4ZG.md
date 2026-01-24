@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from Westside Cowboy
 
-2,093 songs - 4 day 22 hr 21 min
+2,095 songs - 4 day 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,6 +501,7 @@
 | [dead](https://open.spotify.com/track/4ZjGvzvTg4Tf94TtDFntu4) | [Tribe Friday](https://open.spotify.com/artist/27Hd2l3rnMm3JL9hm31RE7) | [bubblegum emo](https://open.spotify.com/album/0X7pFD1PRx3qfsUBIuzOy9) | 3:20 | 2022-06-10 | 2022-07-09 |
 | [Dead Beat City](https://open.spotify.com/track/1VPWPBWtpRtLeB4kHkddZb) | [Kids That Fly](https://open.spotify.com/artist/1qChcfwij4nN6hsCLTKBJX) | [Dead Beat City](https://open.spotify.com/album/3zEsj1P1EJGu67rUKLVbWl) | 3:53 | 2025-04-18 | 2025-07-12 |
 | [dead end](https://open.spotify.com/track/2KyS4sFuKvNYerKxHPyawL) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [dead end](https://open.spotify.com/album/5KxUsfacO5zoYRfxYFQYGl) | 2:20 | 2021-06-07 | 2022-06-10 |
+| [Dead End](https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Dead End](https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9) | 4:05 | 2026-01-23 |  |
 | [Dead Hotel](https://open.spotify.com/track/1qz7fAa2IVL0vtaswCE445) | [King No\-One](https://open.spotify.com/artist/6hWReUQlQwLTYlmZ1vltRB) | [Dead Hotel](https://open.spotify.com/album/68QrJJ7prNn28cSlaAk2ZR) | 3:12 | 2022-10-28 | 2022-11-19 |
 | [Dead Lands](https://open.spotify.com/track/4bFyukeX4nCR9BEY1iuhps) | [Punchlove](https://open.spotify.com/artist/5Tbdx7OG835TPTxnEgfNiW) | [Dead Lands](https://open.spotify.com/album/02N4g76ECc45R7WAsK0ml8) | 4:34 | 2023-12-15 | 2024-03-09 |
 | [Deadhead](https://open.spotify.com/track/7ugxl8IReO7q4ppcvM6e9d) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Deadhead](https://open.spotify.com/album/5U6isFPLroc6yUiX2mGszR) | 3:32 | 2025-05-30 | 2026-01-17 |
@@ -1365,6 +1366,7 @@
 | [Only One I Want](https://open.spotify.com/track/3qmIAnyaUnYF6Uy6YNJEFN) | [Bones and Jones](https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4) | [Only One I Want](https://open.spotify.com/album/499HFPNFK1LPvb0Y6Y0fJr) | 3:23 | 2024-08-23 | 2024-10-05 |
 | [Only You Know](https://open.spotify.com/track/1pCHi3zHca7jgR27Sfu7L8) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/6hALRlahIPURVmo93pN9Qx) | 4:49 | 2022-01-28 | 2022-04-21 |
 | [Ooh! Sumthin' New](https://open.spotify.com/track/21gFDOFAFuXqMrb7TnlwxU) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Ooh! Sumthin' New](https://open.spotify.com/album/3w6clsgJhlKzGVLzQ6VOfc) | 4:45 | 2022-07-29 | 2022-10-29 |
+| [Opening Night](https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [Opening Night](https://open.spotify.com/album/0Q6JVakLI4J5kvjX2uW38i) | 4:19 | 2026-01-23 |  |
 | [Orange](https://open.spotify.com/track/0r0SZamMJGK79OyQtVdgs1) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Orange](https://open.spotify.com/album/4FSK9LM4KN6rza3sZjAMXI) | 4:29 | 2021-08-27 | 2022-01-29 |
 | [Oranges](https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Oranges](https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo) | 2:52 | 2025-07-18 |  |
 | [Orangutan](https://open.spotify.com/track/1yheRpNN3knYt8Eb92v0Bd) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Hahaha](https://open.spotify.com/album/6GlAxqMj77oOovHFv4NpK0) | 2:57 | 2025-09-12 |  |
@@ -1489,7 +1491,7 @@
 | [Redwoods](https://open.spotify.com/track/14FWm9OKkbfQbnlOVmX4sJ) | [Veni Sun](https://open.spotify.com/artist/2FLqR4YXPurY27vtZEIwqB) | [Artifacts of Summer](https://open.spotify.com/album/5Hr9XshNla8vcCNtvEQYsN) | 3:32 | 2022-02-11 | 2022-04-21 |
 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 | 2025-06-20 |  |
 | [Remember When](https://open.spotify.com/track/5naar7XewEOAjOywIp6Jjq) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:35 | 2021-06-07 | 2022-06-11 |
-| [Remember! \- English Version](https://open.spotify.com/track/347if8tvr8272DRw4hf9kW) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Remember!](https://open.spotify.com/album/1pkh8XlmejFjGDICQRDHJb) | 3:32 | 2025-06-20 |  |
+| [Remember! \- English Version](https://open.spotify.com/track/347if8tvr8272DRw4hf9kW) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Remember!](https://open.spotify.com/album/1pkh8XlmejFjGDICQRDHJb) | 3:32 | 2025-06-20 | 2026-01-24 |
 | [Renegade](https://open.spotify.com/track/3SqMnzlS5KPE7wFFF4wBWa) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Renegade](https://open.spotify.com/album/05yGOGCNiN4vhRfOlX50oG) | 2:54 | 2023-05-05 | 2023-07-01 |
 | [Rerun](https://open.spotify.com/track/09MWtKckcVk01jzxZjjc3e) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Rerun](https://open.spotify.com/album/6Izi5vqlILx2FOE4AolRoD) | 3:21 | 2023-02-22 | 2023-03-18 |
 | [Resale](https://open.spotify.com/track/0bOtCEAC896V7Zq1usRIKu) | [The Aubreys](https://open.spotify.com/artist/7ijkc3O3uxDdAmSuQUg2f2) | [Resale](https://open.spotify.com/album/6prjDU0P65HlZT3pAkPfJU) | 3:11 | 2021-10-08 | 2022-06-09 |
@@ -1545,7 +1547,7 @@
 | [Satanist](https://open.spotify.com/track/4QEsxFZRA3RnjQAPYS3UXa) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:50 | 2023-03-31 | 2023-08-05 |
 | [saturday](https://open.spotify.com/track/4d76CU49i79iiV1JulIWqq) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [saturday](https://open.spotify.com/album/2wDD5GC8S5HEiGpR20Wlu1) | 2:11 | 2023-02-24 | 2023-03-30 |
 | [saturday](https://open.spotify.com/track/54iqx8FozDfH95XVTOwRZn) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid \(deluxe\)](https://open.spotify.com/album/27XXkM5BaYlVeEYB5NNoaw) | 2:11 | 2023-03-03 | 2023-04-22 |
-| [Save me now](https://open.spotify.com/track/2LmbUvytNsuPZLG0clEcah) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Save me now](https://open.spotify.com/album/7GaqxJpgadYFnuUFpqBPr6) | 3:01 | 2025-06-06 |  |
+| [Save me now](https://open.spotify.com/track/2LmbUvytNsuPZLG0clEcah) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Save me now](https://open.spotify.com/album/7GaqxJpgadYFnuUFpqBPr6) | 3:01 | 2025-06-06 | 2026-01-24 |
 | [Say Hi](https://open.spotify.com/track/2oy4bPKlaFoYnAEvDcgpVR) | [Viji](https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi) | [So Vanilla](https://open.spotify.com/album/5wWGDN8vTpEFxO3e30qDug) | 2:25 | 2023-10-27 | 2024-01-13 |
 | [Say It Like You Mean It](https://open.spotify.com/track/3XcEhWqxe04Qgpnsp4qUbc) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Say It Like You Mean It](https://open.spotify.com/album/60Dn3hJOYD75S9SahrlWp9) | 3:44 | 2023-11-10 | 2023-12-09 |
 | [Say It Now](https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Say It Now](https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V) | 3:40 | 2023-05-19 | 2023-07-29 |

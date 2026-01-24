@@ -1,6 +1,6 @@
 {
   "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: Kalabal\u0131klar",
-  "num_followers": 71310,
+  "num_followers": 71355,
   "original_name": "Ke\u015fif",
   "owner": {
     "name": "Spotify",
@@ -272,12 +272,12 @@
       },
       "artists": [
         {
-          "name": "Val Fritz",
-          "url": "https://open.spotify.com/artist/4SX7Vo1jIHktl3a0tveyp6"
-        },
-        {
           "name": "Cem Pilevneli",
           "url": "https://open.spotify.com/artist/5cysAsZNRZfLtjqhGEqXtB"
+        },
+        {
+          "name": "Valntn",
+          "url": "https://open.spotify.com/artist/1sdnOXw9epamqw5ERPK8T5"
         }
       ],
       "duration_ms": 201153,
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-01-08 21:00:30",
       "album": {
-        "name": "A\u015fk \u0130\u00e7inden",
-        "url": "https://open.spotify.com/album/3wKP7PFBrM0yyZt1N0xajI"
-      },
-      "artists": [
-        {
-          "name": "OD Band",
-          "url": "https://open.spotify.com/artist/4jT7a6Eq3mnAxfboEQLvzL"
-        }
-      ],
-      "duration_ms": 171239,
-      "name": "A\u015fk \u0130\u00e7inden",
-      "url": "https://open.spotify.com/track/4XJ5fjuQOJLoC5PcdoZKCO"
-    },
-    {
-      "added_at": "2026-01-08 21:00:30",
-      "album": {
         "name": "Ci\u011ferime",
         "url": "https://open.spotify.com/album/4ccL83QgnBIb1Y6g4qQSSu"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 212843,
       "name": "Ci\u011ferime",
       "url": "https://open.spotify.com/track/2O3ysWkXe7ehFsGOsDP2jm"
+    },
+    {
+      "added_at": "2026-01-08 21:00:30",
+      "album": {
+        "name": "Yere D\u00fc\u015ft\u00fcm",
+        "url": "https://open.spotify.com/album/197BTuMAP2s0IZaGVqCFoz"
+      },
+      "artists": [
+        {
+          "name": "Ba\u015far Keklik",
+          "url": "https://open.spotify.com/artist/5m5Z5rAO3wYF1rvJmzhv7o"
+        }
+      ],
+      "duration_ms": 190769,
+      "name": "Yere D\u00fc\u015ft\u00fcm",
+      "url": "https://open.spotify.com/track/7oEyxI63xJdZ9mo6CTeeKH"
     },
     {
       "added_at": "2026-01-08 21:00:30",
@@ -399,18 +399,18 @@
     {
       "added_at": "2026-01-08 21:00:30",
       "album": {
-        "name": "Yere D\u00fc\u015ft\u00fcm",
-        "url": "https://open.spotify.com/album/197BTuMAP2s0IZaGVqCFoz"
+        "name": "A\u015fk \u0130\u00e7inden",
+        "url": "https://open.spotify.com/album/3wKP7PFBrM0yyZt1N0xajI"
       },
       "artists": [
         {
-          "name": "Ba\u015far Keklik",
-          "url": "https://open.spotify.com/artist/5m5Z5rAO3wYF1rvJmzhv7o"
+          "name": "OD Band",
+          "url": "https://open.spotify.com/artist/4jT7a6Eq3mnAxfboEQLvzL"
         }
       ],
-      "duration_ms": 190769,
-      "name": "Yere D\u00fc\u015ft\u00fcm",
-      "url": "https://open.spotify.com/track/7oEyxI63xJdZ9mo6CTeeKH"
+      "duration_ms": 171239,
+      "name": "A\u015fk \u0130\u00e7inden",
+      "url": "https://open.spotify.com/track/4XJ5fjuQOJLoC5PcdoZKCO"
     },
     {
       "added_at": "2026-01-08 21:00:30",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-01-08 21:00:30",
       "album": {
-        "name": "YA\u011eMURLAR",
-        "url": "https://open.spotify.com/album/7wNhAfC0cR3u068t2y8mTa"
-      },
-      "artists": [
-        {
-          "name": "An\u0131l Selvi",
-          "url": "https://open.spotify.com/artist/1H6jTzPmJTIZLfxQ26iYqE"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "YA\u011eMURLAR",
-      "url": "https://open.spotify.com/track/2oJnCi64nLa32Sbqp728YT"
-    },
-    {
-      "added_at": "2026-01-08 21:00:30",
-      "album": {
         "name": "A\u015eIK OLDUM SANA",
         "url": "https://open.spotify.com/album/5yFJC6Gup6hqCkrbMBKma1"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 178588,
       "name": "A\u015eIK OLDUM SANA",
       "url": "https://open.spotify.com/track/3DqAhi6218XpQC3o2opPlG"
+    },
+    {
+      "added_at": "2026-01-08 21:00:30",
+      "album": {
+        "name": "YA\u011eMURLAR",
+        "url": "https://open.spotify.com/album/7wNhAfC0cR3u068t2y8mTa"
+      },
+      "artists": [
+        {
+          "name": "An\u0131l Selvi",
+          "url": "https://open.spotify.com/artist/1H6jTzPmJTIZLfxQ26iYqE"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "YA\u011eMURLAR",
+      "url": "https://open.spotify.com/track/2oJnCi64nLa32Sbqp728YT"
     },
     {
       "added_at": "2026-01-08 21:00:30",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-01-08 21:00:30",
       "album": {
-        "name": "B\u0131rak Ya\u011fs\u0131n \u00dcst\u00fcm\u00fcze",
-        "url": "https://open.spotify.com/album/66b0VdRWG80fxAxkwYUysu"
-      },
-      "artists": [
-        {
-          "name": "Soft Analog",
-          "url": "https://open.spotify.com/artist/0FWmCLXYps2U14dmCsiK82"
-        }
-      ],
-      "duration_ms": 200085,
-      "name": "B\u0131rak Ya\u011fs\u0131n \u00dcst\u00fcm\u00fcze",
-      "url": "https://open.spotify.com/track/5PNjTV9IaVXBwM62tnlvas"
-    },
-    {
-      "added_at": "2026-01-08 21:00:30",
-      "album": {
         "name": "Son Kadeh",
         "url": "https://open.spotify.com/album/4sxfvwIH6twvPM9Dba6Oxh"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 239525,
       "name": "Son Kadeh",
       "url": "https://open.spotify.com/track/2tXrinFNKbWatA5JkKkVPY"
+    },
+    {
+      "added_at": "2026-01-08 21:00:30",
+      "album": {
+        "name": "B\u0131rak Ya\u011fs\u0131n \u00dcst\u00fcm\u00fcze",
+        "url": "https://open.spotify.com/album/66b0VdRWG80fxAxkwYUysu"
+      },
+      "artists": [
+        {
+          "name": "Soft Analog",
+          "url": "https://open.spotify.com/artist/0FWmCLXYps2U14dmCsiK82"
+        }
+      ],
+      "duration_ms": 200085,
+      "name": "B\u0131rak Ya\u011fs\u0131n \u00dcst\u00fcm\u00fcze",
+      "url": "https://open.spotify.com/track/5PNjTV9IaVXBwM62tnlvas"
     },
     {
       "added_at": "2026-01-08 21:00:30",
@@ -727,6 +727,26 @@
     {
       "added_at": "2026-01-08 21:00:30",
       "album": {
+        "name": "\u00d6z\u00fcr Dilerim",
+        "url": "https://open.spotify.com/album/2ZF6Mje6Yok3vOGClzw4Nq"
+      },
+      "artists": [
+        {
+          "name": "Soft Analog",
+          "url": "https://open.spotify.com/artist/0FWmCLXYps2U14dmCsiK82"
+        },
+        {
+          "name": "Brek",
+          "url": "https://open.spotify.com/artist/6TNFlMsNERcjX4gb3jntBk"
+        }
+      ],
+      "duration_ms": 185857,
+      "name": "\u00d6z\u00fcr Dilerim",
+      "url": "https://open.spotify.com/track/2wd24hL8qoy15iDLqA8R2B"
+    },
+    {
+      "added_at": "2026-01-08 21:00:30",
+      "album": {
         "name": "\u0130yi Bilirsin",
         "url": "https://open.spotify.com/album/3eHPNIDQnb5DVfsLMFSUJF"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 106500,
       "name": "balo (mektup)",
       "url": "https://open.spotify.com/track/7nBOtGPxVcR906LF2AEsUc"
-    },
-    {
-      "added_at": "2026-01-08 21:00:30",
-      "album": {
-        "name": "\u00d6z\u00fcr Dilerim",
-        "url": "https://open.spotify.com/album/2ZF6Mje6Yok3vOGClzw4Nq"
-      },
-      "artists": [
-        {
-          "name": "Soft Analog",
-          "url": "https://open.spotify.com/artist/0FWmCLXYps2U14dmCsiK82"
-        },
-        {
-          "name": "Brek",
-          "url": "https://open.spotify.com/artist/6TNFlMsNERcjX4gb3jntBk"
-        }
-      ],
-      "duration_ms": 185857,
-      "name": "\u00d6z\u00fcr Dilerim",
-      "url": "https://open.spotify.com/track/2wd24hL8qoy15iDLqA8R2B"
     },
     {
       "added_at": "2026-01-08 21:00:30",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-01-08 21:00:30",
       "album": {
-        "name": "Kalbimi \u00d6p (Akustik)",
-        "url": "https://open.spotify.com/album/18YFTdMxHw3ypTftjGIx7N"
-      },
-      "artists": [
-        {
-          "name": "Brek",
-          "url": "https://open.spotify.com/artist/6TNFlMsNERcjX4gb3jntBk"
-        }
-      ],
-      "duration_ms": 200689,
-      "name": "Kalbimi \u00d6p - Akustik",
-      "url": "https://open.spotify.com/track/6vPTotkA9b6nUB2LvgFFPx"
-    },
-    {
-      "added_at": "2026-01-08 21:00:30",
-      "album": {
         "name": "Yar\u0131n\u0131 Yok Ac\u0131s\u0131 Var",
         "url": "https://open.spotify.com/album/2QwGdbSvrwaV1uXrGDgwu9"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 147529,
       "name": "Yar\u0131n\u0131 Yok Ac\u0131s\u0131 Var",
       "url": "https://open.spotify.com/track/717Nc063BXMtll6aMKeCtI"
+    },
+    {
+      "added_at": "2026-01-08 21:00:30",
+      "album": {
+        "name": "Kalbimi \u00d6p (Akustik)",
+        "url": "https://open.spotify.com/album/18YFTdMxHw3ypTftjGIx7N"
+      },
+      "artists": [
+        {
+          "name": "Brek",
+          "url": "https://open.spotify.com/artist/6TNFlMsNERcjX4gb3jntBk"
+        }
+      ],
+      "duration_ms": 200689,
+      "name": "Kalbimi \u00d6p - Akustik",
+      "url": "https://open.spotify.com/track/6vPTotkA9b6nUB2LvgFFPx"
     },
     {
       "added_at": "2026-01-08 21:00:30",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-01-08 21:00:30",
       "album": {
-        "name": "KERVAN",
-        "url": "https://open.spotify.com/album/7zTJBS6s2YuhyHGIdl0N2n"
-      },
-      "artists": [
-        {
-          "name": "Deli D\u00fcnya",
-          "url": "https://open.spotify.com/artist/2qEQduFpnIytlnQzkPozTA"
-        }
-      ],
-      "duration_ms": 250850,
-      "name": "KERVAN",
-      "url": "https://open.spotify.com/track/3E5H8RQtUBF2Czhyj62Xw9"
-    },
-    {
-      "added_at": "2026-01-08 21:00:30",
-      "album": {
         "name": "gel ne olur",
         "url": "https://open.spotify.com/album/4zIL7RFxiRMpy5VHod8Ves"
       },
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2026-01-08 21:00:30",
       "album": {
+        "name": "Sen G\u00f6ky\u00fcz\u00fcnde Mavi",
+        "url": "https://open.spotify.com/album/7aDxAeoNqNKV5yxEfkATJQ"
+      },
+      "artists": [
+        {
+          "name": "Ali Beykant",
+          "url": "https://open.spotify.com/artist/4HT1hlLO6xFV13XIP2WbxZ"
+        }
+      ],
+      "duration_ms": 193012,
+      "name": "Sen G\u00f6ky\u00fcz\u00fcnde Mavi",
+      "url": "https://open.spotify.com/track/5Gk4aHsl8fdqbIbie5Vrr5"
+    },
+    {
+      "added_at": "2026-01-08 21:00:30",
+      "album": {
         "name": "Kol Kola",
         "url": "https://open.spotify.com/album/43L7GZ1lz1RzsT89OtW2Qp"
       },
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2026-01-08 21:00:30",
       "album": {
-        "name": "Sen G\u00f6ky\u00fcz\u00fcnde Mavi",
-        "url": "https://open.spotify.com/album/7aDxAeoNqNKV5yxEfkATJQ"
+        "name": "KERVAN",
+        "url": "https://open.spotify.com/album/7zTJBS6s2YuhyHGIdl0N2n"
       },
       "artists": [
         {
-          "name": "Ali Beykant",
-          "url": "https://open.spotify.com/artist/4HT1hlLO6xFV13XIP2WbxZ"
+          "name": "Deli D\u00fcnya",
+          "url": "https://open.spotify.com/artist/2qEQduFpnIytlnQzkPozTA"
         }
       ],
-      "duration_ms": 193012,
-      "name": "Sen G\u00f6ky\u00fcz\u00fcnde Mavi",
-      "url": "https://open.spotify.com/track/5Gk4aHsl8fdqbIbie5Vrr5"
+      "duration_ms": 250850,
+      "name": "KERVAN",
+      "url": "https://open.spotify.com/track/3E5H8RQtUBF2Czhyj62Xw9"
     }
   ],
   "unique_name": "Ke\u015fif",

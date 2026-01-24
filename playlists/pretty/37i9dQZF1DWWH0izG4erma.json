@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Chris Stapleton",
-  "num_followers": 649607,
+  "num_followers": 649703,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -755,18 +755,18 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "Sorry For Nothing",
-        "url": "https://open.spotify.com/album/7eUkb05fEl8v3LVVLuRFyZ"
+        "name": "Quit!!",
+        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
       },
       "artists": [
         {
-          "name": "Cory Marks",
-          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 198176,
-      "name": "Sorry For Nothing",
-      "url": "https://open.spotify.com/track/0H4hXxR6cP8kvXfJf0xMou"
+      "duration_ms": 193397,
+      "name": "WHYBMWL",
+      "url": "https://open.spotify.com/track/7E3BoCMKxdeW7ZqxnL0zs1"
     },
     {
       "added_at": "2026-01-16 05:00:44",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
+        "name": "Sorry For Nothing",
+        "url": "https://open.spotify.com/album/7eUkb05fEl8v3LVVLuRFyZ"
+      },
+      "artists": [
+        {
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        }
+      ],
+      "duration_ms": 198176,
+      "name": "Sorry For Nothing",
+      "url": "https://open.spotify.com/track/0H4hXxR6cP8kvXfJf0xMou"
+    },
+    {
+      "added_at": "2026-01-16 05:00:44",
+      "album": {
         "name": "Fire On The Hillside",
         "url": "https://open.spotify.com/album/3SQ6pt50V0QVZeeLZ4xpdv"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 204506,
       "name": "Fire On The Hillside",
       "url": "https://open.spotify.com/track/0uAPJlac7akHjkU4tJmacm"
-    },
-    {
-      "added_at": "2026-01-16 05:00:44",
-      "album": {
-        "name": "Quit!!",
-        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 193397,
-      "name": "WHYBMWL",
-      "url": "https://open.spotify.com/track/7E3BoCMKxdeW7ZqxnL0zs1"
     },
     {
       "added_at": "2026-01-16 05:00:44",

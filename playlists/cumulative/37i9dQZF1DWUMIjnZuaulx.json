@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: Ricky Dillard & Ron Carter",
+  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: CeCe Winans",
   "name": "Spread the Gospel",
   "tracks": [
     {
@@ -2866,6 +2866,28 @@
       "duration_ms": 232800,
       "name": "Empowered 2 Impact",
       "url": "https://open.spotify.com/track/1IllKEACnf7TuHfjJiGnit"
+    },
+    {
+      "album": {
+        "name": "ENOUGH FOR ME",
+        "url": "https://open.spotify.com/album/5P2RR6rOO8lTNvVxMObKmj"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 580500,
+      "name": "ENOUGH FOR ME",
+      "url": "https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3"
     },
     {
       "album": {
@@ -12244,7 +12266,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 339912,
       "name": "Sweet, Sweet Spirit",
       "url": "https://open.spotify.com/track/3InktyoLLJqyCWQdmqHylp"

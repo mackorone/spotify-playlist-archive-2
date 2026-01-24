@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. Noyz in cover.
 
-614 songs - 1 day 10 hr 41 min
+615 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Fai Il Bravo](https://open.spotify.com/track/4NCGrDj3x1wboFL0BmKPSy) | [DJ Fede](https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8), [Grido](https://open.spotify.com/artist/1JJHJjfuaPy3SMPnUHWedm) | [Fai Il Bravo](https://open.spotify.com/album/7GSENlwnihb4PiGB6dPJ2G) | 2:55 | 2023-10-26 | 2023-11-27 |
 | [FANCULO CI SIAMO ANCHE NOI](https://open.spotify.com/track/5eKafeqVlztOFHhHNRQgdO) | [Assalti Frontali](https://open.spotify.com/artist/56PAFc5EkAWofBQfKUNpvb) | [FANCULO CI SIAMO ANCHE NOI](https://open.spotify.com/album/3R81pOeULMFniz7M2fLW6b) | 3:28 | 2024-04-05 | 2024-05-03 |
 | [Fari Spenti.](https://open.spotify.com/track/4qzaQs0yLRwEaBwWHAIySU) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW), [Macaboro](https://open.spotify.com/artist/7mtZP3UQaCaWhM2K8ubgF9) | [Fari Spenti.](https://open.spotify.com/album/4OjBdQH7u5K77VpMefe8e8) | 2:59 | 2022-05-19 | 2022-09-03 |
+| [Favola](https://open.spotify.com/track/1Qp2eMLXVnff8plWwm48i4) | [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz), [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [Favola](https://open.spotify.com/album/4LtUc77mtEMvblER5Jf45L) | 3:09 | 2026-01-23 |  |
 | [Fiamma Viva](https://open.spotify.com/track/7auf659meNLVarSccVCnvJ) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Primo](https://open.spotify.com/artist/1CO6gl6tx1Ter4PZKKE2NT), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [60 Hz II](https://open.spotify.com/album/5dizu3zJPc4fhPMjarEhIM) | 3:43 | 2025-06-26 |  |
 | [Fidarti di me](https://open.spotify.com/track/5uisDrJM8rnWmmUrUTVJMw) | [Louis Dee](https://open.spotify.com/artist/0cqKe5aIp6diwasKdXzJF6), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Fidarti di me](https://open.spotify.com/album/0kqngU92rC6rrcWfdjQUSA) | 2:40 | 2022-07-19 | 2022-11-08 |
 | [Figli del fuoco](https://open.spotify.com/track/1H1F5cklwcrKrFEcVZ98QM) | [Lucariello](https://open.spotify.com/artist/1pv59RDMxb8WKREVPpLDK9), [L'Elfo](https://open.spotify.com/artist/3QJjzLwRMgdGoFwzmVodxJ), [Funkyman](https://open.spotify.com/artist/1frFclUlmPhS4OmpTA1Wcb) | [Figli del fuoco](https://open.spotify.com/album/3jw5BLYzm1nIwQyostzZXr) | 2:39 | 2024-03-14 | 2024-04-19 |
@@ -382,7 +383,7 @@
 | [Noi non vi vogliamo 3](https://open.spotify.com/track/7fwXvTNpL7uILHrOpeaMrl) | [Drimer](https://open.spotify.com/artist/3Qz694qtRw2d9yKFr8zK8u) | [Noi non vi vogliamo 3](https://open.spotify.com/album/4sapF426FpzDwzF0PCXQse) | 3:53 | 2024-02-01 | 2024-02-16 |
 | [Non amo](https://open.spotify.com/track/1DOpXF0f3cDbAxT8dx46wp) | [Gel](https://open.spotify.com/artist/1zuJhiod70T3Kev0XIsfko) | [Non amo](https://open.spotify.com/album/1x3uSpV9A4FKSpHErMrv2Y) | 2:12 | 2022-06-16 | 2022-07-25 |
 | [NON CI PENSO PIÙ](https://open.spotify.com/track/5pAO5DhohzSh9EPOk28Ukc) | [KALI BLACK](https://open.spotify.com/artist/6OPrHT7lcwoXI6TJJRYvJK), [KD\-ONE](https://open.spotify.com/artist/0bXzQ96tE5uWMDUnw6xeQr), [Moder](https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ) | [KALI TAPE VOL\. 2](https://open.spotify.com/album/26padvgh6ZcERyug8UFl2N) | 3:04 | 2022-05-12 | 2022-06-23 |
-| [Non fa per me](https://open.spotify.com/track/27chHteHE6ESsppvrTrO54) | [Arya](https://open.spotify.com/artist/1Rr944KwI8GqDCdzdsHYok) | [Non fa per me](https://open.spotify.com/album/6F5d1CTCdtxZpLfNChI8hh) | 1:52 | 2025-06-26 |  |
+| [Non fa per me](https://open.spotify.com/track/27chHteHE6ESsppvrTrO54) | [Arya](https://open.spotify.com/artist/1Rr944KwI8GqDCdzdsHYok) | [Non fa per me](https://open.spotify.com/album/6F5d1CTCdtxZpLfNChI8hh) | 1:52 | 2025-06-26 | 2026-01-24 |
 | [Non Guarirò](https://open.spotify.com/track/3gjBzltW7I6xhtjCROo7os) | [Creep Giuliano](https://open.spotify.com/artist/61hK1jzlZ1AnEQhq7dLmAv) | [Divina Miseria](https://open.spotify.com/album/25nvwiYUWK6Q4AubBUlChP) | 3:02 | 2024-03-28 | 2024-04-12 |
 | [Non lo so](https://open.spotify.com/track/0VxcCZHIqqtJNTiHra0Y5X) | [DJ Gengis](https://open.spotify.com/artist/4f4ERDE3xkOakb8zOnlaRp), [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP), [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [Danno](https://open.spotify.com/artist/6KlsX5XebNQOfcSSQ45lqN) | [Beat Coin](https://open.spotify.com/album/7GK5xFWfFQBUisVtld1PiX) | 3:32 | 2022-05-05 | 2022-07-29 |
 | [Non mi avrete mai](https://open.spotify.com/track/2LM2JJj3hQLCZRQFu1xu02) | [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [Fabiano detto Inoki](https://open.spotify.com/album/19dM4Pt4jFNdXiwjQG3ZK8) | 3:52 | 2022-07-28 | 2024-02-16 |

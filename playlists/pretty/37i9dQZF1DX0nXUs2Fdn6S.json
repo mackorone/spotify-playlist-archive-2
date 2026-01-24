@@ -1,12 +1,12 @@
 {
   "description": "Best of the EDM scene in India. Cover- Nucleya",
-  "num_followers": 37488,
+  "num_followers": 37489,
   "original_name": "EDM in India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMA81Co8jSwLInbtSWFnoFQnaEsm",
+  "snapshot_id": "AAAAAIVRxtBhfLOXlJG5Ca1/zMDIv7eC",
   "tracks": [
     {
       "added_at": "2026-01-15 06:32:04",
@@ -139,6 +139,22 @@
       "duration_ms": 158446,
       "name": "Noor",
       "url": "https://open.spotify.com/track/3p2WQ8mlRhETkOxcn8tVDc"
+    },
+    {
+      "added_at": "2026-01-23 12:20:25",
+      "album": {
+        "name": "Ruh Krishna",
+        "url": "https://open.spotify.com/album/6KcB4ZlgE0rcayVci1OaZP"
+      },
+      "artists": [
+        {
+          "name": "ANASTRRIX",
+          "url": "https://open.spotify.com/artist/0NY2HVR8BHWUQze2savfsN"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Ruh Krishna",
+      "url": "https://open.spotify.com/track/3SdLc3dS6b7iPUI0U7skw9"
     },
     {
       "added_at": "2025-11-03 05:42:03",

@@ -190,7 +190,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 174293,
       "name": "Abre Tus Ojos",
       "url": "https://open.spotify.com/track/4QdTKLS8S4XY6y7taoB4er"
@@ -338,6 +338,24 @@
       "duration_ms": 185806,
       "name": "Amapolas - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB"
+    },
+    {
+      "album": {
+        "name": "Congelamiento Global",
+        "url": "https://open.spotify.com/album/1zRInmv573tV80Asz4zYZJ"
+      },
+      "artists": [
+        {
+          "name": "Doble Valentina",
+          "url": "https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185644,
+      "name": "Amar No Est\u00e1 de Moda",
+      "url": "https://open.spotify.com/track/6oS9syceL1xhMagN948BFn"
     },
     {
       "album": {
@@ -777,6 +795,28 @@
     },
     {
       "album": {
+        "name": "Canci\u00f3n de a dos",
+        "url": "https://open.spotify.com/album/5vl5nCBnHqqUBLKQcvoYLZ"
+      },
+      "artists": [
+        {
+          "name": "Julia Arb\u00f3s",
+          "url": "https://open.spotify.com/artist/1B5s6KerZjNiMjZAzRULyp"
+        },
+        {
+          "name": "LvRod",
+          "url": "https://open.spotify.com/artist/0KI4UbGY4Tta8GNoMgzTEv"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225250,
+      "name": "Canci\u00f3n de a dos",
+      "url": "https://open.spotify.com/track/5lJ3Wpyi1rH5DlZLQwv0De"
+    },
+    {
+      "album": {
         "name": "Azules Turquesas",
         "url": "https://open.spotify.com/album/0hJvlZtFQ8kTFpxKvewqmd"
       },
@@ -926,7 +966,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 220626,
       "name": "Crece (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/5kPdxVvjwCkDR27btIkzMp"
@@ -2443,6 +2483,24 @@
     },
     {
       "album": {
+        "name": "Me vas a extra\u00f1ar",
+        "url": "https://open.spotify.com/album/6rCA7EhJjtcB62HO6Ce9RP"
+      },
+      "artists": [
+        {
+          "name": "Macha Y El Bloque Depresivo",
+          "url": "https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162120,
+      "name": "Me vas a extra\u00f1ar",
+      "url": "https://open.spotify.com/track/5Vg92lyz9J2XqXNBYq1KwN"
+    },
+    {
+      "album": {
         "name": "Mensajes en el Mar",
         "url": "https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre"
       },
@@ -2628,7 +2686,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 182241,
       "name": "Nada Mas Que Vos - (Versi\u00f3n Ac\u00fastica)",
       "url": "https://open.spotify.com/track/6GFCK8ZGXmjtXI7rUUTNns"

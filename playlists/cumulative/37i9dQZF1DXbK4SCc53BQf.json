@@ -166,7 +166,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 219271,
       "name": "Agua Viva",
       "url": "https://open.spotify.com/track/5SwdX9b2laNcqtfCM4U491"
@@ -518,7 +518,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 235666,
       "name": "Batugozo",
       "url": "https://open.spotify.com/track/0PfoClrD2Aa4pubTEmcaR6"
@@ -780,7 +780,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 222458,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j"
@@ -1048,10 +1048,28 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 232207,
       "name": "Dios Te Bendiga",
       "url": "https://open.spotify.com/track/6waMZni4HkrCDSXmrAhI3N"
+    },
+    {
+      "album": {
+        "name": "Ech\u00f3 A La Mar Los Carros Del Fara\u00f3n",
+        "url": "https://open.spotify.com/album/5OJF5gjJmi6RhI0YnqQBuU"
+      },
+      "artists": [
+        {
+          "name": "Altar Vivo",
+          "url": "https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139839,
+      "name": "Ech\u00f3 A La Mar Los Carros Del Fara\u00f3n",
+      "url": "https://open.spotify.com/track/1jm1I2fv53f1xH3DFTYR2D"
     },
     {
       "album": {
@@ -1084,7 +1102,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 248213,
       "name": "El Gozo que tengo yo",
       "url": "https://open.spotify.com/track/233VjBHAD4cEbofjT7sGOn"
@@ -1606,6 +1624,46 @@
       "duration_ms": 285076,
       "name": "Juntos como hermanos / Que alegr\u00eda / Vienen con alegr\u00eda",
       "url": "https://open.spotify.com/track/4gLefdqjcYj8fwLWLF81jw"
+    },
+    {
+      "album": {
+        "name": "La alegr\u00eda del Se\u00f1or",
+        "url": "https://open.spotify.com/album/6aLCUr0EpQnYToBLxWyedO"
+      },
+      "artists": [
+        {
+          "name": "Promesa de Dios",
+          "url": "https://open.spotify.com/artist/0qwUWQ2ly5S4jViFyRgNlp"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "La alegr\u00eda del Se\u00f1or",
+      "url": "https://open.spotify.com/track/1NB1vkw0KCxcFIgAyBVdsZ"
+    },
+    {
+      "album": {
+        "name": "LA CARRERA",
+        "url": "https://open.spotify.com/album/1sSG2TAk0x8UPvxK7XP4UF"
+      },
+      "artists": [
+        {
+          "name": "LINARES",
+          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
+        },
+        {
+          "name": "Alex Linares",
+          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177605,
+      "name": "LA CARRERA",
+      "url": "https://open.spotify.com/track/5CXwffu2JuV5ZbkaRltH6n"
     },
     {
       "album": {
@@ -2231,6 +2289,24 @@
     },
     {
       "album": {
+        "name": "NAZARENO",
+        "url": "https://open.spotify.com/album/6WhbOWidyCQ0sEmjCbbHof"
+      },
+      "artists": [
+        {
+          "name": "Chris Paradise",
+          "url": "https://open.spotify.com/artist/0EapwSGXUTMLdmUNCuMB2T"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270807,
+      "name": "NAZARENO",
+      "url": "https://open.spotify.com/track/1zw8W2e8YV0fRj5cUbjc6c"
+    },
+    {
+      "album": {
         "name": "Punto y Aparte",
         "url": "https://open.spotify.com/album/6AnxBxzyvCtPvNx7nn4zyM"
       },
@@ -2260,7 +2336,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 214785,
       "name": "No Puedo Ni Quiero",
       "url": "https://open.spotify.com/track/73i5lJCjotIVTIQyjbks5Z"
@@ -2412,6 +2488,28 @@
       "duration_ms": 275426,
       "name": "Perfume a Tus Pies",
       "url": "https://open.spotify.com/track/2yJyqIIEH2uBAyNqjXnDEM"
+    },
+    {
+      "album": {
+        "name": "La Locura",
+        "url": "https://open.spotify.com/album/1AguLemBSNC0YQzR2tTAHK"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        },
+        {
+          "name": "MR. Yeison",
+          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190153,
+      "name": "Plan Plan",
+      "url": "https://open.spotify.com/track/4oGqUN7kHte9mUzkGDdeOL"
     },
     {
       "album": {
@@ -3056,6 +3154,24 @@
       "duration_ms": 203187,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/2YhJlGNniJbAMbNUWf6iiE"
+    },
+    {
+      "album": {
+        "name": "Taba Lloviendo",
+        "url": "https://open.spotify.com/album/6AFl7NFbzUmkHztB5C2vvF"
+      },
+      "artists": [
+        {
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188318,
+      "name": "Taba Lloviendo",
+      "url": "https://open.spotify.com/track/7GFiB95NCGLBZbZFbe5Lue"
     },
     {
       "album": {

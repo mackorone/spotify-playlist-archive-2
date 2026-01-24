@@ -1,6 +1,6 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 168253,
+  "num_followers": 168279,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Soy Lo Prohibido",
-        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 217040,
-      "name": "Te Qued\u00f3 Grande La Yegua",
-      "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Canciones Mamalonas",
         "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 193421,
       "name": "Desde Cero (feat. Santa Fe Klan)",
       "url": "https://open.spotify.com/track/4sPJjs8vUK0tt9mIrpq6Ye"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Soy Lo Prohibido",
+        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 217040,
+      "name": "Te Qued\u00f3 Grande La Yegua",
+      "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "donde qued\u00e9 yo?",
+        "url": "https://open.spotify.com/album/1UYFv9czF3faJyHqPZyNGB"
+      },
+      "artists": [
+        {
+          "name": "Ana Sofi W.",
+          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
+        }
+      ],
+      "duration_ms": 152721,
+      "name": "lo que no sabes",
+      "url": "https://open.spotify.com/track/2UN7Bjfn8SfWxKB6GkrWmo"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "Beso de Novela",
         "url": "https://open.spotify.com/album/59fdDCsawh4fwKGTqfECbD"
       },
@@ -1787,22 +1803,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Scratch De Versos",
-        "url": "https://open.spotify.com/album/7sRbfBmwb0jFdmyUJEJh28"
-      },
-      "artists": [
-        {
-          "name": "El Riqu\u00e9",
-          "url": "https://open.spotify.com/artist/5LxT7DrG2qyNr8YYC3RMEG"
-        }
-      ],
-      "duration_ms": 259090,
-      "name": "99,99%",
-      "url": "https://open.spotify.com/track/1YsHWGRvwLhJZ3wJgx9JrB"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Poes\u00edas de mi Odisea",
         "url": "https://open.spotify.com/album/72acy3W2vjDOFAj76co0up"
       },
@@ -1819,34 +1819,18 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "donde qued\u00e9 yo?",
-        "url": "https://open.spotify.com/album/1UYFv9czF3faJyHqPZyNGB"
+        "name": "Scratch De Versos",
+        "url": "https://open.spotify.com/album/7sRbfBmwb0jFdmyUJEJh28"
       },
       "artists": [
         {
-          "name": "Ana Sofi W.",
-          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
+          "name": "El Riqu\u00e9",
+          "url": "https://open.spotify.com/artist/5LxT7DrG2qyNr8YYC3RMEG"
         }
       ],
-      "duration_ms": 152721,
-      "name": "lo que no sabes",
-      "url": "https://open.spotify.com/track/2UN7Bjfn8SfWxKB6GkrWmo"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "La Fiesta De Mi Rancho",
-        "url": "https://open.spotify.com/album/2ovNmdZGjk2mUshX3ksLWR"
-      },
-      "artists": [
-        {
-          "name": "Monir Bautista",
-          "url": "https://open.spotify.com/artist/3vsI26mTGeEkEdWxsibd7g"
-        }
-      ],
-      "duration_ms": 156659,
-      "name": "La Fiesta De Mi Rancho",
-      "url": "https://open.spotify.com/track/3sTzAbbRNLFBcAirOxYZBb"
+      "duration_ms": 259090,
+      "name": "99,99%",
+      "url": "https://open.spotify.com/track/1YsHWGRvwLhJZ3wJgx9JrB"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1863,6 +1847,22 @@
       "duration_ms": 221773,
       "name": "D\u00e9jame So\u00f1ar",
       "url": "https://open.spotify.com/track/0UTtCoCUkGCX9a1URm5zmI"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "La Fiesta De Mi Rancho",
+        "url": "https://open.spotify.com/album/2ovNmdZGjk2mUshX3ksLWR"
+      },
+      "artists": [
+        {
+          "name": "Monir Bautista",
+          "url": "https://open.spotify.com/artist/3vsI26mTGeEkEdWxsibd7g"
+        }
+      ],
+      "duration_ms": 156659,
+      "name": "La Fiesta De Mi Rancho",
+      "url": "https://open.spotify.com/track/3sTzAbbRNLFBcAirOxYZBb"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Cama",
-        "url": "https://open.spotify.com/album/36RFDrvSWOYTNKu26t8kvO"
-      },
-      "artists": [
-        {
-          "name": "SERBIA",
-          "url": "https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj"
-        }
-      ],
-      "duration_ms": 250480,
-      "name": "Cama",
-      "url": "https://open.spotify.com/track/2tgxXENuQNFhxMuhhlcogC"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Marcando La Diferencia",
         "url": "https://open.spotify.com/album/2AFLpxDXYur6ODyh5eSGHa"
       },
@@ -2095,6 +2079,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Cama",
+        "url": "https://open.spotify.com/album/36RFDrvSWOYTNKu26t8kvO"
+      },
+      "artists": [
+        {
+          "name": "SERBIA",
+          "url": "https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj"
+        }
+      ],
+      "duration_ms": 250480,
+      "name": "Cama",
+      "url": "https://open.spotify.com/track/2tgxXENuQNFhxMuhhlcogC"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "EMILIANO",
         "url": "https://open.spotify.com/album/3TQ4j44ZbMGtoPigfLTh6R"
       },
@@ -2107,26 +2107,6 @@
       "duration_ms": 200597,
       "name": "el afortunado",
       "url": "https://open.spotify.com/track/3FRHIzYjG3xiK9VFTaBaqi"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Verde",
-        "url": "https://open.spotify.com/album/7bmA9sOUyjkl2gSEkEE3Fd"
-      },
-      "artists": [
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        },
-        {
-          "name": "Macario Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
-        }
-      ],
-      "duration_ms": 266055,
-      "name": "Otra salida",
-      "url": "https://open.spotify.com/track/1e7WuxzFwE4Rn1GCFvOos2"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2151,18 +2131,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "#El Regreso",
-        "url": "https://open.spotify.com/album/65Jli3h6cwCimwjpsMDwOe"
+        "name": "Verde",
+        "url": "https://open.spotify.com/album/7bmA9sOUyjkl2gSEkEE3Fd"
       },
       "artists": [
         {
-          "name": "Alberto Y Roberto",
-          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
         }
       ],
-      "duration_ms": 226965,
-      "name": "Tu Forma De Ser",
-      "url": "https://open.spotify.com/track/2B6Iw4NVbrLhguZ9pVpVGq"
+      "duration_ms": 266055,
+      "name": "Otra salida",
+      "url": "https://open.spotify.com/track/1e7WuxzFwE4Rn1GCFvOos2"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2183,6 +2167,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "#El Regreso",
+        "url": "https://open.spotify.com/album/65Jli3h6cwCimwjpsMDwOe"
+      },
+      "artists": [
+        {
+          "name": "Alberto Y Roberto",
+          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
+        }
+      ],
+      "duration_ms": 226965,
+      "name": "Tu Forma De Ser",
+      "url": "https://open.spotify.com/track/2B6Iw4NVbrLhguZ9pVpVGq"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/4spOiFzbH5Q2ORqtPcREG5"
       },
@@ -2199,26 +2199,6 @@
       "duration_ms": 184736,
       "name": "24/7",
       "url": "https://open.spotify.com/track/4K4ks2NpTorYdGIitosc5U"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Es As\u00ed",
-        "url": "https://open.spotify.com/album/0BF82aBeWmhKrMf81RpUeb"
-      },
-      "artists": [
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        },
-        {
-          "name": "Sam Vazquez",
-          "url": "https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq"
-        }
-      ],
-      "duration_ms": 207980,
-      "name": "Es As\u00ed",
-      "url": "https://open.spotify.com/track/6UcSnz6quThUb3XsjQbmgY"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2247,18 +2227,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Me Haces Falta",
-        "url": "https://open.spotify.com/album/1nwnsqrVtE7wP8SZf344hc"
+        "name": "Es As\u00ed",
+        "url": "https://open.spotify.com/album/0BF82aBeWmhKrMf81RpUeb"
       },
       "artists": [
         {
-          "name": "Alberto Y Roberto",
-          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Sam Vazquez",
+          "url": "https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq"
         }
       ],
-      "duration_ms": 207853,
-      "name": "Indispensable",
-      "url": "https://open.spotify.com/track/05TjvPiZoIpGsv47cEFn7w"
+      "duration_ms": 207980,
+      "name": "Es As\u00ed",
+      "url": "https://open.spotify.com/track/6UcSnz6quThUb3XsjQbmgY"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2279,6 +2263,22 @@
       "duration_ms": 213042,
       "name": "Cumbia Nocturnal",
       "url": "https://open.spotify.com/track/66qKgeembM5aZZ2cOUQImh"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Me Haces Falta",
+        "url": "https://open.spotify.com/album/1nwnsqrVtE7wP8SZf344hc"
+      },
+      "artists": [
+        {
+          "name": "Alberto Y Roberto",
+          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Indispensable",
+      "url": "https://open.spotify.com/track/05TjvPiZoIpGsv47cEFn7w"
     },
     {
       "added_at": "2025-11-09 06:50:57",

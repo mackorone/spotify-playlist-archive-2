@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,162 songs - 3 day 20 hr 24 min
+2,162 songs - 3 day 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1478,6 +1478,7 @@
 | [Oy](https://open.spotify.com/track/5mzIExDN53eOEAWMhWkcTv) | [Dennis Doff](https://open.spotify.com/artist/0xz4qcJAttwdoIDkWrzuqm) | [Oy](https://open.spotify.com/album/782uUd9vNisWKnbXIfiIK7) | 2:51 | 2022-06-17 | 2022-07-08 |
 | [Oy Hermano](https://open.spotify.com/track/4uN4pSJi1xWBacYiFgGDLJ) | [Arre](https://open.spotify.com/artist/0zthfMGI89IDEklrlkytLP) | [232](https://open.spotify.com/album/6pyMHiQfnFiVo8lEHiF4rI) | 2:22 | 2024-07-04 | 2024-08-30 |
 | [P.A.W.G](https://open.spotify.com/track/48ko1EfNyLZGG3P9b5aZSA) | [Sousa](https://open.spotify.com/artist/5HtJUbWEVd0LGEduf8GWLc), [Kid Canady](https://open.spotify.com/artist/3dk8QXIPYOpzqiQkcA7NYN) | [P.A.W.G](https://open.spotify.com/album/10VO0NpxgjJOQwJXE0hNM1) | 2:23 | 2025-06-12 | 2025-09-05 |
+| [P.T.H](https://open.spotify.com/track/4N8XCwUZOhXnc4HBNimPFQ) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [Guld Utav Sand 2](https://open.spotify.com/album/2BNPX89yccIcZBuClfeYZz) | 2:31 | 2026-01-22 |  |
 | [Pa](https://open.spotify.com/track/2XwjPhT5TWQopTEhupQjjk) | [Denz](https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7), [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3) | [Ca Va/Pa](https://open.spotify.com/album/0YqOBA39Otp1yUfrTqGRPo) | 2:46 | 2022-06-17 | 2022-08-19 |
 | [Pablo](https://open.spotify.com/track/0fHJ8xrYIhawesbLtikgcm) | [Nilo](https://open.spotify.com/artist/0keJuhsaIXm08OuJkPM1la) | [Pablo](https://open.spotify.com/album/0vJcsEKcYO6LVk852WPEhJ) | 2:30 | 2023-07-13 | 2023-08-04 |
 | [Paid](https://open.spotify.com/track/34XVB9D18VEseJbDan1H5m) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/4vyomEpjgMHrzrYtOmz4zY) | 2:16 | 2022-10-13 | 2022-10-18 |
@@ -1662,7 +1663,7 @@
 | [SCHWEIZ \(CALM DOWN\)](https://open.spotify.com/track/6zd7EGess2mwXiS70RSRRR) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [SCHWEIZ \(CALM DOWN\)](https://open.spotify.com/album/1pBr99gwaeeLzfmcdqDY8W) | 2:08 | 2025-02-28 | 2025-06-20 |
 | [Se & Lär](https://open.spotify.com/track/0LGsfY6XeIJtx8K3YJbWJf) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Se & Lär](https://open.spotify.com/album/1pc3MNrUfjUZ8atQ2D6ynv) | 2:23 | 2023-10-27 | 2024-03-01 |
 | [SE DIG OMKRING](https://open.spotify.com/track/29zXVASHgYRx5mmDQmhUZr) | [Alex Ceesay](https://open.spotify.com/artist/5LaRXB9yoFyBoTNwmXyl6W) | [SE DIG OMKRING](https://open.spotify.com/album/1z1mrFk2fxJniRhwhckodf) | 3:07 | 2022-03-04 | 2022-04-22 |
-| [Se Mig](https://open.spotify.com/track/6dPxsq7Pd9dEBtYq4QaznU) | [Zius](https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA) | [](https://open.spotify.com/album/null) | 2:30 | 2026-01-22 |  |
+| [Se Mig](https://open.spotify.com/track/6dPxsq7Pd9dEBtYq4QaznU) | [Zius](https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA) | [Fint & Förstört](https://open.spotify.com/album/5R8D9EhjnsjJCT8YQgREc7) | 2:30 | 2026-01-22 |  |
 | [Secret](https://open.spotify.com/track/7uifbpk6BOwusz3pqkuxDz) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Secret](https://open.spotify.com/album/6kVvuKiJRKeJWp8iMJszTP) | 3:16 | 2025-02-20 | 2025-06-20 |
 | [Sedan start](https://open.spotify.com/track/4rpdNg2kSv8bMXmC5mUxiw) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [Sedan start](https://open.spotify.com/album/5EMQu4MkRNeljsQ6UtacqX) | 2:49 | 2022-07-25 | 2022-08-19 |
 | [See Me Shine](https://open.spotify.com/track/4smUNlnZPcX3Iga4pxPTUr) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [See Me Shine](https://open.spotify.com/album/7hhFdijqPRhVlNINGiFHs0) | 3:02 | 2025-01-16 | 2025-04-25 |
@@ -1943,7 +1944,6 @@
 | [Toxic Som Mig](https://open.spotify.com/track/10zXU83iXFK6ZfRXqTHFuU) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [2029](https://open.spotify.com/album/0TDK7EuOZbSfnSp9bEaNMw) | 2:31 | 2024-04-18 | 2024-08-02 |
 | [Toxic Trait](https://open.spotify.com/track/7rfeJISPi9ooiYXd3ixF5x) | [Zius](https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Toxic Trait](https://open.spotify.com/album/6rJ94HFzo02g1iEviHWNNH) | 2:30 | 2023-08-24 | 2023-09-22 |
 | [TOÙTOÙ](https://open.spotify.com/track/3Xvc8YRyYzBm5KFEWHUQoM) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [TOÙTOÙ](https://open.spotify.com/album/4xEOdo2eFdxKxE5QY0KMKq) | 2:25 | 2022-10-27 | 2023-02-24 |
-| [Track 6](https://open.spotify.com/track/4N8XCwUZOhXnc4HBNimPFQ) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-22 |  |
 | [TRAFIK](https://open.spotify.com/track/0OnLCD4GQgKpRApYTTBeH0) | [G3B](https://open.spotify.com/artist/4lyxajlLjjUI4EkluxTAA4) | [TRAFIK](https://open.spotify.com/album/1cV9kfX5WMqBDfchc7JDPy) | 1:44 | 2025-04-24 | 2025-07-08 |
 | [TRAFIKERA](https://open.spotify.com/track/5m7EUgH8J2iiDvCM7FE5Fl) | [R10](https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m) | [TRAFIKERA](https://open.spotify.com/album/16xKDjWnDIhvUrUWD3PONZ) | 2:03 | 2025-10-23 |  |
 | [Trafikfara](https://open.spotify.com/track/0wAWvTep02Pzkc2kGJhWpN) | [Bilkow](https://open.spotify.com/artist/0EhQSGkoxasQQAGINGktFz), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Trafikfara](https://open.spotify.com/album/1h4xtwLx9dbwkHm3IvGTCD) | 2:12 | 2023-03-16 | 2023-05-12 |

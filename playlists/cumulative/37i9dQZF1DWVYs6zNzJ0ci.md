@@ -2,9 +2,9 @@
 
 ### [Reggae en Español](https://open.spotify.com/playlist/37i9dQZF1DWVYs6zNzJ0ci)
 
-> Vibraciones rastafari con Manuel Turizo.
+> Vibraciones rastafari con Nonpalidece & Tippy I\-Grade
 
-430 songs - 1 day 4 hr 10 min
+431 songs - 1 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [En el Aire](https://open.spotify.com/track/6tT7NZT9kUGcntWb7yFX0C) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Activistas](https://open.spotify.com/album/3VdCyzaFr6nOz358VpRGaH) | 4:17 | 2022-07-08 | 2024-04-19 |
 | [En el Aire](https://open.spotify.com/track/7hvMIzFFtuHNJc1HiN4UmC) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Activistas](https://open.spotify.com/album/7HdBqIvlR6yFwN1a5q1QVI) | 4:18 | 2021-12-10 | 2022-07-29 |
 | [En el Aire](https://open.spotify.com/track/4BWJUVSpIHqgE6amgS5zsn) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [En el Aire](https://open.spotify.com/album/0vP1B3u8j9YZIYE13hxgUs) | 3:50 | 2024-01-26 | 2024-07-04 |
-| [En el Aire \(feat\. No Te Va Gustar\) \- Vivo](https://open.spotify.com/track/1v9jqNkGBjuh0ZR2MUfzpt) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [HECHO EN JAMAICA \- VIVO](https://open.spotify.com/album/3Qjrd2TCGiP1wVQYoZnGKL) | 4:25 | 2025-11-14 |  |
+| [En el Aire \(feat\. No Te Va Gustar\) \- Vivo](https://open.spotify.com/track/1v9jqNkGBjuh0ZR2MUfzpt) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [HECHO EN JAMAICA \- VIVO](https://open.spotify.com/album/3Qjrd2TCGiP1wVQYoZnGKL) | 4:25 | 2025-11-14 | 2026-01-24 |
 | [En La Tormenta](https://open.spotify.com/track/7vqjWxhicufwoXsc6fBokL) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [En La Tormenta](https://open.spotify.com/album/2PbL7fuZ1qYZXlJBBhJUZC) | 3:23 | 2023-11-10 | 2025-11-15 |
 | [En los talones](https://open.spotify.com/track/7qLBQDDKU1euosq9KZd5OF) | [Chungo Pastel](https://open.spotify.com/artist/6b4d5rC00zxXZO8eAcAlhX), [Ganjahr Family](https://open.spotify.com/artist/3IQyX72h8mdF1ZI2i42JMD) | [En los talones](https://open.spotify.com/album/4carksVZEBbst6b5EKk1Dp) | 2:41 | 2022-10-14 | 2022-11-19 |
 | [Enredo](https://open.spotify.com/track/4Kj95umHAARCK2IQBTXyip) | [palma](https://open.spotify.com/artist/7Fpc0RppTKkMDhWJelaKz3), [Tomás Maldonado](https://open.spotify.com/artist/6prihyniSR9AcgzNKRIX7p) | [Enredo](https://open.spotify.com/album/01mBIFc1U66MZlbfsYUXXN) | 3:28 | 2022-04-01 | 2022-06-17 |
@@ -336,6 +336,7 @@
 | [Reverdeciendo \(feat\. Zion Train\)](https://open.spotify.com/track/4nb2PWEPQmLAOFpWtYSds8) | [Lengualerta](https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW) | [Resonante](https://open.spotify.com/album/7LyG75D5tZFBLM9u6i5C1E) | 3:19 | 2022-07-08 | 2022-08-17 |
 | [Revolucionario](https://open.spotify.com/track/5XYDJ2lnwf712Ojud1TLHE) | [Alika](https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt) | [Revolucionario](https://open.spotify.com/album/65xKhqwGlfcVOxBEk9ta6B) | 4:12 | 2021-12-10 | 2022-07-29 |
 | [Revolución](https://open.spotify.com/track/4MPN2y9c3jwxM0kuqlV80r) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Sly Dunbar](https://open.spotify.com/artist/2Ub1N1tF1AK2NkWvw87oP8), [Micah Shemaiah](https://open.spotify.com/artist/3eZZJk4Ik5kBSK2dsdxX6X) | [Revolución](https://open.spotify.com/album/0ShUvcqID5CKqRBgHwwYEg) | 4:36 | 2025-05-02 | 2025-07-31 |
+| [Revolución DuB \(feat\. Tippy I\-Grade, Micah Shemaiah & Sly Dunbar\)](https://open.spotify.com/track/4jMKxILEpy6gf0SD3Xzsts) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Tippy I\-Grade](https://open.spotify.com/artist/2PzLpvNk9o1Lm1hQ0Djlb9), [Micah Shemaiah](https://open.spotify.com/artist/3eZZJk4Ik5kBSK2dsdxX6X), [Sly Dunbar](https://open.spotify.com/artist/2Ub1N1tF1AK2NkWvw87oP8) | [Tippy I Meets Nonpalidece • Hecho en Jamaica DuB \(feat\. Tippy I\-Grade\)](https://open.spotify.com/album/53qaELz2GflEOBS2PUxcPs) | 4:40 | 2026-01-23 |  |
 | [Revolution Rock](https://open.spotify.com/track/4CXWFFeM5WWCPq7rsUMQGu) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf), [Kevin Fingier](https://open.spotify.com/artist/12QxNefUHXnBCZ7h7ekoEz) | [Rockin'](https://open.spotify.com/album/7KF1Tscv5C6Nxs9K2YdGJw) | 3:28 | 2021-12-10 | 2022-04-19 |
 | [RocketBandShot 1](https://open.spotify.com/track/1VdJEE9EzNqRGEZsZkFzWy) | [RickRocket](https://open.spotify.com/artist/4rx8YlvPpl82JWUB7qYV9G), [NOITE](https://open.spotify.com/artist/50Xm9Pr2Kjp5OpnwjUVdlP), [Rastachai](https://open.spotify.com/artist/050LEfCTHMWKFC2AI0DEBR), [Chusterfield](https://open.spotify.com/artist/3m6N2XBSZqfkujRvGYcdi8), [Garolo](https://open.spotify.com/artist/62NbFDwCtexT3AgFzXsmzw), [LENNY FACE](https://open.spotify.com/artist/0HZVh7FupbjZwYOgnPU6t8) | [RocketBandShot 1](https://open.spotify.com/album/7vMVtTFmLiz5a9OzPVqUGO) | 4:29 | 2023-02-03 | 2023-03-20 |
 | [Runaway](https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [The Original Wailers](https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW) | [Pericos & Friends](https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua) | 3:53 | 2021-12-10 |  |

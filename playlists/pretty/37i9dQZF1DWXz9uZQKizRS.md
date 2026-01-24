@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Fukaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,456 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,472 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Znajdź mnie w tym](https://open.spotify.com/track/2JgOtyZvf5NgksmYwiK4Vk) | [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY), [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [](https://open.spotify.com/album/null) | 4:08 |
+| 1 | [Znajdź mnie w tym](https://open.spotify.com/track/2JgOtyZvf5NgksmYwiK4Vk) | [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY), [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Znajdź mnie w tym](https://open.spotify.com/album/3ejpPh0fWw2YEzyd2Rl17R) | 4:08 |
 | 2 | [Odpowiedni moment](https://open.spotify.com/track/4WnJ8tdQhBWGDEHKm6y40h) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Odpowiedni moment](https://open.spotify.com/album/7lgIBV8MkGZg6u6twshy0e) | 3:14 |
 | 3 | [List z wielkiego miasta](https://open.spotify.com/track/5vAcemWiqZ9V8KXYSfn4WM) | [Ralph Kaminski](https://open.spotify.com/artist/7l1IUcuGTEXMuD1aN3wFqw) | [List z wielkiego miasta](https://open.spotify.com/album/1MUgXGUpJMziJxVAWGTl2i) | 3:57 |
 | 4 | [BEZ STRESU](https://open.spotify.com/track/38Jen8MKWIwtRDOhbxFCzG) | [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ), [Rumak](https://open.spotify.com/artist/0SHA3sB1gMMWcphYond5y3), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [LATARNIE WSZĘDZIE DAWNO ZGASŁY](https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL) | 4:16 |

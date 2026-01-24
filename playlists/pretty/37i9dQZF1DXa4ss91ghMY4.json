@@ -1,6 +1,6 @@
 {
   "description": "Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA",
-  "num_followers": 575899,
+  "num_followers": 575856,
   "original_name": "Pulando da Cama",
   "owner": {
     "name": "Spotify",
@@ -439,26 +439,6 @@
     {
       "added_at": "2025-03-28 04:59:02",
       "album": {
-        "name": "Small Town Boy",
-        "url": "https://open.spotify.com/album/1FNBevfbKAzZsgI2RpkkQQ"
-      },
-      "artists": [
-        {
-          "name": "Duncan Laurence",
-          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
-        },
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 187453,
-      "name": "Arcade (feat. FLETCHER)",
-      "url": "https://open.spotify.com/track/4Ld4kbKo1eOzToQ0P8JA0V"
-    },
-    {
-      "added_at": "2025-03-28 04:59:02",
-      "album": {
         "name": "Left and Right (Feat. Jung Kook of BTS)",
         "url": "https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
+    },
+    {
+      "added_at": "2025-03-28 04:59:02",
+      "album": {
+        "name": "Small Town Boy",
+        "url": "https://open.spotify.com/album/1FNBevfbKAzZsgI2RpkkQQ"
+      },
+      "artists": [
+        {
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+        },
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 187453,
+      "name": "Arcade (feat. FLETCHER)",
+      "url": "https://open.spotify.com/track/4Ld4kbKo1eOzToQ0P8JA0V"
     },
     {
       "added_at": "2025-03-28 04:59:02",

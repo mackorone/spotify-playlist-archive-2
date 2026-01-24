@@ -610,7 +610,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 142000,
       "name": "All My Tomorrows",
       "url": "https://open.spotify.com/track/78z358KnNMPBBKxQA2k4fU"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 109270,
       "name": "Au Clair de la Lune",
       "url": "https://open.spotify.com/track/2YQzrwE7afmaRcuonKycGZ"
@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 148500,
       "name": "Baby Bear\u2019s Ballad",
       "url": "https://open.spotify.com/track/5wwecYMNWdNcRwoIkZcsLX"
@@ -1744,7 +1744,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 95999,
       "name": "Bedtime Book",
       "url": "https://open.spotify.com/track/7ce0IcDlWL8f5crAelPa0L"
@@ -2284,10 +2284,28 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 155131,
       "name": "Blanket of Stars",
       "url": "https://open.spotify.com/track/7eTR3qPyqup4gDQEFURGkE"
+    },
+    {
+      "album": {
+        "name": "Blanket of Stars",
+        "url": "https://open.spotify.com/album/18q3HldCDZdYeyCS7sbqqk"
+      },
+      "artists": [
+        {
+          "name": "Taylor S Brooks",
+          "url": "https://open.spotify.com/artist/4hsODnHwgqmRM8ym63GA3S"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131216,
+      "name": "Blanket of Stars",
+      "url": "https://open.spotify.com/track/4Amefy92oS39Jalni0Vzas"
     },
     {
       "album": {
@@ -2648,6 +2666,24 @@
       "duration_ms": 129623,
       "name": "Butterflies In My Stomach",
       "url": "https://open.spotify.com/track/2Zvf5qCoore4Sx9NjpEMDu"
+    },
+    {
+      "album": {
+        "name": "Butterfly Lullaby",
+        "url": "https://open.spotify.com/album/7hBmi64oeJUmrzPlkxVraz"
+      },
+      "artists": [
+        {
+          "name": "Carey Martin",
+          "url": "https://open.spotify.com/artist/6Y1dXG8aEWh4fXVAmFkjhF"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Butterfly Lullaby",
+      "url": "https://open.spotify.com/track/1BRA7c6n1nEOxfC7palZK1"
     },
     {
       "album": {
@@ -3580,7 +3616,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 95829,
       "name": "Dance My Doll",
       "url": "https://open.spotify.com/track/6z2v6uoofcX6N7pSSTZajX"
@@ -3958,7 +3994,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 130946,
       "name": "Door-Peak Moodlight",
       "url": "https://open.spotify.com/track/0hCGHQxMlw8qpGJoy4hnUg"
@@ -4088,6 +4124,24 @@
       "duration_ms": 92874,
       "name": "Dream Of A Garden",
       "url": "https://open.spotify.com/track/7qpqftu6IeKt0ATZDoqZPo"
+    },
+    {
+      "album": {
+        "name": "Dream Sweetly",
+        "url": "https://open.spotify.com/album/6X2exUO0XPr5lB0RxFwHwN"
+      },
+      "artists": [
+        {
+          "name": "Leon Rose",
+          "url": "https://open.spotify.com/artist/31FoAGwriQ5k4LiwTjP1b7"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "Dream Sweetly",
+      "url": "https://open.spotify.com/track/7KKtyL2erQfN8Lr8nyKVMG"
     },
     {
       "album": {
@@ -5441,6 +5495,24 @@
     },
     {
       "album": {
+        "name": "Fresh Finds",
+        "url": "https://open.spotify.com/album/1ksOglvJ12cGduPIEqTRvg"
+      },
+      "artists": [
+        {
+          "name": "Teddy Gorbella",
+          "url": "https://open.spotify.com/artist/2yGkgsGKykkoiPO0xK6mB3"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81250,
+      "name": "Fresh Finds",
+      "url": "https://open.spotify.com/track/0Wi6FZnLJotCnssoo72y4Y"
+    },
+    {
+      "album": {
         "name": "Friendly Butterflies",
         "url": "https://open.spotify.com/album/1QxR8Vk2mli52I6LhRH0U0"
       },
@@ -5636,6 +5708,42 @@
       "duration_ms": 134811,
       "name": "G'night My Love",
       "url": "https://open.spotify.com/track/2rOwgklfd427LFRZjQH72P"
+    },
+    {
+      "album": {
+        "name": "Garden of Dreams",
+        "url": "https://open.spotify.com/album/6fXZn46XvLuT6HLJyuj9KV"
+      },
+      "artists": [
+        {
+          "name": "Lucas Lund",
+          "url": "https://open.spotify.com/artist/1MgohlJcGnJQ8YHutASnnt"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114866,
+      "name": "Garden of Dreams",
+      "url": "https://open.spotify.com/track/7nTU6bsishptF7qdnoJl8U"
+    },
+    {
+      "album": {
+        "name": "Gentle Dreams",
+        "url": "https://open.spotify.com/album/6d9jrEM1JZqllV7I27h5BI"
+      },
+      "artists": [
+        {
+          "name": "My Lullaby Stories",
+          "url": "https://open.spotify.com/artist/1BGjPRKkW7ZH4lN2SLnp9d"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110266,
+      "name": "Gentle Dreams",
+      "url": "https://open.spotify.com/track/1XknZUqm4ikQq0aAA85nTp"
     },
     {
       "album": {
@@ -6054,6 +6162,24 @@
       "duration_ms": 156000,
       "name": "Goodnight Stars",
       "url": "https://open.spotify.com/track/5Zf9jN5MRlh9LEH4yKQzp9"
+    },
+    {
+      "album": {
+        "name": "Goodnight, Little Bear",
+        "url": "https://open.spotify.com/album/1UymQH5zjQPfbbHKp3TmuD"
+      },
+      "artists": [
+        {
+          "name": "Josephine August",
+          "url": "https://open.spotify.com/artist/7zkHvybf2I4354DARvCe7j"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108571,
+      "name": "Goodnight, Little Bear",
+      "url": "https://open.spotify.com/track/6dT3yyv2jWRnNvjDSLpNeU"
     },
     {
       "album": {
@@ -6702,6 +6828,24 @@
       "duration_ms": 86000,
       "name": "Hickory Dickory Dock",
       "url": "https://open.spotify.com/track/3mxdw4m6EmWWTgqFNLtLRQ"
+    },
+    {
+      "album": {
+        "name": "Hide and Seek",
+        "url": "https://open.spotify.com/album/67CgdUsbaad9lvSUhq1EtM"
+      },
+      "artists": [
+        {
+          "name": "Tristan Bloom",
+          "url": "https://open.spotify.com/artist/4QmjTpvhNW0HtsPaDhJIKh"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120525,
+      "name": "Hide and Seek",
+      "url": "https://open.spotify.com/track/6NGAs6AdRXuKAyCbOAIp4m"
     },
     {
       "album": {
@@ -7508,7 +7652,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 142500,
       "name": "I'm dreaming of you",
       "url": "https://open.spotify.com/track/140dSmkHvgxv4pIfmRZ1Bi"
@@ -8228,7 +8372,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 124413,
       "name": "Just For You",
       "url": "https://open.spotify.com/track/5ATiP9nXYyxshwrkuyM3HK"
@@ -8376,6 +8520,24 @@
       "duration_ms": 108571,
       "name": "Kitten in My Sleeve",
       "url": "https://open.spotify.com/track/7rKfQXq2diOuGtazmJ2meH"
+    },
+    {
+      "album": {
+        "name": "Kittie Carousel",
+        "url": "https://open.spotify.com/album/4TbAfy2lAj8KZByUE5T1ba"
+      },
+      "artists": [
+        {
+          "name": "Jesse Birkman",
+          "url": "https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100733,
+      "name": "Kittie Carousel",
+      "url": "https://open.spotify.com/track/7IzengQsDhxQfCX8KeyXB4"
     },
     {
       "album": {
@@ -9585,6 +9747,24 @@
     },
     {
       "album": {
+        "name": "Loftet",
+        "url": "https://open.spotify.com/album/6bEa4sL87umFbdPYPgWG4g"
+      },
+      "artists": [
+        {
+          "name": "Butterfly Forest",
+          "url": "https://open.spotify.com/artist/7ILiN5iUfdcOWOZgjKkch5"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86374,
+      "name": "Loftet",
+      "url": "https://open.spotify.com/track/5XUQSbnVTDbxzHjgQlgzkE"
+    },
+    {
+      "album": {
         "name": "Squeaky Book",
         "url": "https://open.spotify.com/album/1sDgB1Mlgbl469tBEoI0Kh"
       },
@@ -9978,6 +10158,24 @@
       "duration_ms": 122624,
       "name": "Maggie\u00b4s Moon",
       "url": "https://open.spotify.com/track/55LUhT6s6q1eU3FeJfEMwl"
+    },
+    {
+      "album": {
+        "name": "Magic Blocks",
+        "url": "https://open.spotify.com/album/0BQSv1YQ38d1YD2fT8TB8C"
+      },
+      "artists": [
+        {
+          "name": "Tiny Hush",
+          "url": "https://open.spotify.com/artist/6BzXBD4mURyadXWHwhHWMF"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100000,
+      "name": "Magic Blocks",
+      "url": "https://open.spotify.com/track/5bbcBQJOkezOYV45UfuZF2"
     },
     {
       "album": {
@@ -11000,7 +11198,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 104291,
       "name": "Mrs Eggies",
       "url": "https://open.spotify.com/track/6RXueYsWR3gI1irXs9HOPN"
@@ -11846,7 +12044,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 123784,
       "name": "Night Tunes",
       "url": "https://open.spotify.com/track/6aYhTPqUp3vGeknEVFfYMT"
@@ -11958,6 +12156,24 @@
       "duration_ms": 90391,
       "name": "Nighttime Birds",
       "url": "https://open.spotify.com/track/0MqdaPsii8c2Hens2kBJFe"
+    },
+    {
+      "album": {
+        "name": "Nighty Night",
+        "url": "https://open.spotify.com/album/5rEc1hLV6WGozYJR4Svof2"
+      },
+      "artists": [
+        {
+          "name": "Elowen Moon",
+          "url": "https://open.spotify.com/artist/6pCfSLLwWf27yIJPkU19NY"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Nighty Night",
+      "url": "https://open.spotify.com/track/7n2VjieAHnnJWdlE49h9BP"
     },
     {
       "album": {
@@ -13834,7 +14050,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 93286,
       "name": "Rock a Bye Lil Guy",
       "url": "https://open.spotify.com/track/1nN1dgmayLzp5278FfAxdg"
@@ -13856,6 +14072,24 @@
       "duration_ms": 117330,
       "name": "Rock-A-Bye Baby (Piano Version)",
       "url": "https://open.spotify.com/track/6WuXpEDnevdok1wn7VxiHO"
+    },
+    {
+      "album": {
+        "name": "Rocked by the Moon",
+        "url": "https://open.spotify.com/album/3rq4IDcW22H6BbVkW1A47V"
+      },
+      "artists": [
+        {
+          "name": "Aden Sawyer",
+          "url": "https://open.spotify.com/artist/0mTu6ciut4yJjP4VmKVgxB"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109450,
+      "name": "Rocked by the Moon",
+      "url": "https://open.spotify.com/track/4Ku8sPggG6MNC000Oqoyt2"
     },
     {
       "album": {
@@ -15119,6 +15353,24 @@
     },
     {
       "album": {
+        "name": "Sleepy Sheepy",
+        "url": "https://open.spotify.com/album/65V1vboljZakvigHhkkYID"
+      },
+      "artists": [
+        {
+          "name": "James Wilson",
+          "url": "https://open.spotify.com/artist/3ga6yp9X6U92WEuBdIGMem"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65500,
+      "name": "Sleepy Sheepy",
+      "url": "https://open.spotify.com/track/3paylwwOyRLHOnH7mVtQ4d"
+    },
+    {
+      "album": {
         "name": "Sleepy Snowbird",
         "url": "https://open.spotify.com/album/3kpHdowpajk8OZxge76985"
       },
@@ -15508,7 +15760,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 120377,
       "name": "Snoozy Satellite",
       "url": "https://open.spotify.com/track/7pbbWuifugALghPTaYLXdA"
@@ -17873,6 +18125,24 @@
     },
     {
       "album": {
+        "name": "The Sleepy Orchard",
+        "url": "https://open.spotify.com/album/6Em37sNo0CJwfZJysmIk1k"
+      },
+      "artists": [
+        {
+          "name": "Luma Tide",
+          "url": "https://open.spotify.com/artist/0jKvQZl4JrLczwaD8WKzy6"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100566,
+      "name": "The Sleepy Orchard",
+      "url": "https://open.spotify.com/track/3BoNI2nburEtSIMkCIsqss"
+    },
+    {
+      "album": {
         "name": "The Sleepy Swan",
         "url": "https://open.spotify.com/album/30Ytf82tNxXN9Fn9uLUPXz"
       },
@@ -18208,7 +18478,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 101954,
       "name": "The Working Maid",
       "url": "https://open.spotify.com/track/0CI7cneIkhr9E3qHMAMwS0"
@@ -18604,7 +18874,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 92434,
       "name": "Tinkle tinkle",
       "url": "https://open.spotify.com/track/4WjVvRNZ53UIZQ4bO1qSJW"
@@ -18640,7 +18910,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 148682,
       "name": "Tiny Dreams",
       "url": "https://open.spotify.com/track/2NAjDGVP3nitYQqqjr1B7q"
@@ -19403,6 +19673,24 @@
     },
     {
       "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/1GaxOADqA6WHSkwc1mdwmo"
+      },
+      "artists": [
+        {
+          "name": "Noah Cloud",
+          "url": "https://open.spotify.com/artist/2u5MmECnGkUbYKNHhOQ6rf"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149190,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/2bg0pFPnzrxUE3XNk8DWJc"
+    },
+    {
+      "album": {
         "name": "Until Morning Comes",
         "url": "https://open.spotify.com/album/5oRWjMpc5gB2ccsLrBXuWN"
       },
@@ -20098,7 +20386,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 134995,
       "name": "Where Do Stars Go?",
       "url": "https://open.spotify.com/track/5A91y964tXNRZHO5zwsnag"
@@ -20192,6 +20480,24 @@
       "duration_ms": 115914,
       "name": "Whispering Stars",
       "url": "https://open.spotify.com/track/1iWib3qZhkQSVQRW0l2mir"
+    },
+    {
+      "album": {
+        "name": "Whispers of Sleep",
+        "url": "https://open.spotify.com/album/37KDsv7QmsTTqpT2yNbQN8"
+      },
+      "artists": [
+        {
+          "name": "Oliver Drift",
+          "url": "https://open.spotify.com/artist/5K8qujRKw9TrfTAWdrjOY8"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72536,
+      "name": "Whispers of Sleep",
+      "url": "https://open.spotify.com/track/2TrA0HIA1oCTONaf28GbCR"
     },
     {
       "album": {

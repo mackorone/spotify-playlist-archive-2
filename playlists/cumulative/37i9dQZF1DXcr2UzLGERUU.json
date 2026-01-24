@@ -541,6 +541,24 @@
     },
     {
       "album": {
+        "name": "Songs for Winter",
+        "url": "https://open.spotify.com/album/4SM6W1ROfavvhD1FrnlrC1"
+      },
+      "artists": [
+        {
+          "name": "Little Folkies",
+          "url": "https://open.spotify.com/artist/3AgOYOR2D5JPNIV2qY8mei"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117596,
+      "name": "Family Band",
+      "url": "https://open.spotify.com/track/4ayUwjXeadPzXzQFny4Aed"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1S1NJXGjE6yBGIq2PhVKyE"
       },
@@ -1342,6 +1360,24 @@
       "duration_ms": 173773,
       "name": "I'll Always Love You",
       "url": "https://open.spotify.com/track/7nZf4oOrYSOnlDSPiObea9"
+    },
+    {
+      "album": {
+        "name": "Songs for Spring",
+        "url": "https://open.spotify.com/album/5UlOCWvtrKXrmIJxWZXgRc"
+      },
+      "artists": [
+        {
+          "name": "Little Folkies",
+          "url": "https://open.spotify.com/artist/3AgOYOR2D5JPNIV2qY8mei"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212687,
+      "name": "If I Had Wings",
+      "url": "https://open.spotify.com/track/2ZDNQhp9JEP9w649D0lWyc"
     },
     {
       "album": {

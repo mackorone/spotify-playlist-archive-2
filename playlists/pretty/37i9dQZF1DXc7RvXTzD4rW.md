@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。A collection of music from voice actors/ actresses in Japan\. Cover: 高垣彩陽 + 城田優
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,823 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,821 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [希望光度](https://open.spotify.com/track/46TCWDUdon329SjBOCIxXP) | [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi) | [希望光度](https://open.spotify.com/album/44KdQ1F0TeLeMhZVvM0vsa) | 3:57 |
 | 50 | [Kagerou](https://open.spotify.com/track/2YZkw4WkE0kXAUbbh2fykU) | [Kaoru Masaki](https://open.spotify.com/artist/02EcRFQxIpZ903spogLhUU) | [Kagerou](https://open.spotify.com/album/2p6aL92T9Eh3a9BthkH5RV) | 3:45 |
 
-Snapshot ID: `AAAAAAoZQRiBlDk6NHjO3ZzRbXlgHdAJ`
+Snapshot ID: `AAAAABh4it5ejvapQBiDTnlcl4eN+LSK`

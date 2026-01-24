@@ -2,9 +2,9 @@
 
 ### [The Pulse of Americana](https://open.spotify.com/playlist/37i9dQZF1DX3Fzl4v4w9Zp)
 
-> Where roots meet what’s next\. Cover: Kashus Culpepper
+> Where roots meet what’s next\. Cover: Cat Clyde
 
-935 songs - 2 day 9 hr 27 min
+938 songs - 2 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [7:28](https://open.spotify.com/track/4vN75DSxzy9YPrYkd4gorU) | [Waylon Payne](https://open.spotify.com/artist/0G3qRFPXLTrujOBCEqSPXE) | [7:28](https://open.spotify.com/album/2DxqBPRu9rPtHbly8A2uVe) | 4:02 | 2021-12-17 | 2022-06-04 |
 | [A Cat in the Rain](https://open.spotify.com/track/0Zt4KxjqHYswmQvjpnpiPe) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Cat in the Rain](https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8) | 5:17 | 2023-08-25 | 2025-01-18 |
 | [A Certain Someone](https://open.spotify.com/track/1dL5v7WwDVuUmQTk95paoa) | [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9) | [American Romance, too](https://open.spotify.com/album/4tlP3kfExPMUG4x4LItzIb) | 4:32 | 2025-12-12 |  |
+| [A Friend Like You](https://open.spotify.com/track/2t0s7VqkEetNbUbyPyErHq) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [A Friend Like You](https://open.spotify.com/album/4ajQeQmThn806ORN8hEg60) | 6:07 | 2026-01-23 |  |
 | [A Little Devil](https://open.spotify.com/track/3qdSwHoHEQBcboISRiZWgO) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [A Little Devil / Tiny Wooden Box](https://open.spotify.com/album/5QjTvxUeVtVavvBaNUk0Ls) | 3:51 | 2024-02-09 | 2025-07-05 |
 | [A Man Without A Name](https://open.spotify.com/track/7d2IAdBCsf13DOgZtrAe9L) | [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [A Man Without A Name](https://open.spotify.com/album/6gwsSUjZAJHMOPX6JektNI) | 3:38 | 2022-04-01 | 2022-07-23 |
 | [A Murder](https://open.spotify.com/track/5eH7Ok6bN3QuFIBk2SLRSQ) | [Philip Bowen](https://open.spotify.com/artist/3Mm4P393IFVqIQDmL691G9) | [Old Kanawha](https://open.spotify.com/album/1gBFPuS81bvzUOWEToSdNB) | 3:10 | 2023-08-18 | 2024-12-14 |
@@ -63,6 +64,7 @@
 | [Angel](https://open.spotify.com/track/3D4XjhkvYU3F89G9Elok5T) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Angel](https://open.spotify.com/album/3iGBGOKL0eH0MjBZHHN4qU) | 5:05 | 2023-10-13 | 2023-10-30 |
 | [Angel](https://open.spotify.com/track/4HhqdvbBk2YeGayKnBZxF6) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 5:05 | 2023-10-27 | 2024-04-13 |
 | [Angel](https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Angel](https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU) | 3:39 | 2022-07-22 | 2023-08-26 |
+| [Another Time](https://open.spotify.com/track/7BsRJECC3NmMLOBR4zNcVh) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Another Time](https://open.spotify.com/album/6PbLj6Qoo928owJBKDwele) | 3:39 | 2026-01-23 |  |
 | [Anywhere](https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:48 | 2022-08-19 | 2023-11-11 |
 | [Anywhere](https://open.spotify.com/track/5ZxFg3dgrAYd5G6NMKGU1l) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Hospital](https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2) | 3:48 | 2022-07-22 | 2022-11-13 |
 | [Anywhere](https://open.spotify.com/track/6TL8Mz1a5fYrY2eHpqa3jB) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Anywhere](https://open.spotify.com/album/0oHHPD6cPoNI8OKH5GQRqG) | 3:48 | 2022-05-13 | 2022-07-29 |
@@ -121,7 +123,7 @@
 | [Broken Families](https://open.spotify.com/track/2WB5G1nEq09QJoNDL9ShrR) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Broken Families](https://open.spotify.com/album/1dljQ7Haw2glHe01n1cV93) | 3:17 | 2022-02-25 | 2022-04-02 |
 | [Broken Heart of Mine](https://open.spotify.com/track/51gGRkh26NzsARpwOIHQ2X) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Stand in the Joy](https://open.spotify.com/album/2r3IZ2sjXvKm14wZEUZC49) | 3:52 | 2023-04-14 | 2024-08-31 |
 | [Broken Horses](https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 5:03 | 2022-04-01 | 2022-05-14 |
-| [Broken Wing Bird \(feat\. Sierra Ferrell\)](https://open.spotify.com/track/3PJffkCcfVxEs4ciUHKo8R) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Broken Wing Bird](https://open.spotify.com/album/6f58ejhE2dApWE5HRUnynV) | 3:40 | 2025-06-13 |  |
+| [Broken Wing Bird \(feat\. Sierra Ferrell\)](https://open.spotify.com/track/3PJffkCcfVxEs4ciUHKo8R) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Broken Wing Bird](https://open.spotify.com/album/6f58ejhE2dApWE5HRUnynV) | 3:40 | 2025-06-13 | 2026-01-24 |
 | [Brought Me](https://open.spotify.com/track/23ngaqkN1lZAZyM3VuC5ci) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Brought Me](https://open.spotify.com/album/6EZ9WykfBdjkb4PLSndYe4) | 4:52 | 2023-08-04 | 2023-09-09 |
 | [Buffet Days](https://open.spotify.com/track/1Y7XrntbqWMMR2Rm6HLnG4) | [Futurebirds](https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O), [Carl Broemel](https://open.spotify.com/artist/2kWhbqyjKw16929nBXzSWR) | [Buffet Days](https://open.spotify.com/album/272cuK8kjbVwLnIl41N4rx) | 3:41 | 2022-08-05 | 2023-08-05 |
 | [Burial Ground](https://open.spotify.com/track/1Xzyo31tkXB53PaRnPziLR) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [Burial Ground](https://open.spotify.com/album/5jodqSew9785i4tEIRLase) | 4:04 | 2024-02-16 | 2025-07-05 |
@@ -208,6 +210,7 @@
 | [Devil In My Ear](https://open.spotify.com/track/6BUXeo4htsduta2UWDMdWK) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Devil In My Ear](https://open.spotify.com/album/1wO6dl6mYgTX4DckhmTt7e) | 3:52 | 2024-06-14 | 2025-09-27 |
 | [Devil's Music](https://open.spotify.com/track/2MF0lXkdDF1vKbLIRoSbjx) | [Chaparelle](https://open.spotify.com/artist/48c9PKsgH8QMkAN6pg6Xz8), [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6), [Jesse Woods](https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei) | [Devil’s Music](https://open.spotify.com/album/4pR61vNkRuwmJqVYawb8KJ) | 2:07 | 2025-01-31 | 2025-12-13 |
 | [Diamond Studded Shoes](https://open.spotify.com/track/5vJzPLEkqOXaqKZqzsYt9r) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Diamond Studded Shoes](https://open.spotify.com/album/1hH8sinTRPta1RQMY8SFX5) | 3:24 | 2021-12-17 | 2022-02-23 |
+| [Diggin' In The Coal](https://open.spotify.com/track/5CbWfWeIXn74mwjThbnZge) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [Diggin' In The Coal](https://open.spotify.com/album/1CnwCmtcrcZalQlYwEziT6) | 3:15 | 2026-01-23 |  |
 | [Dirt Bike \(feat\. Andrea Kukuly Uriarte\)](https://open.spotify.com/track/60rT7xqMegRkR2Sq4JIfHw) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj), [Andrea Kukuly Uriarte](https://open.spotify.com/artist/5RBnd1QU744YvLMRf458SS) | [Dirt Bike \(feat\. Andrea Kukuly Uriarte\)](https://open.spotify.com/album/1nSFYhxHnBvrwrUHwANAXW) | 3:32 | 2023-10-13 | 2024-09-21 |
 | [Dogs Run On](https://open.spotify.com/track/0s7aoxrKBPvqc0SptaSm35) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Dogs Run On](https://open.spotify.com/album/0XxzYBvtUBUdoqw6VrqhvK) | 3:36 | 2021-12-17 | 2022-04-02 |
 | [Dollar Bill Bar](https://open.spotify.com/track/3yYD3H6AdEdSqXrgxgktOU) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Dollar Bill Bar](https://open.spotify.com/album/1ODhUIkZ35LOCKQ65sWc47) | 3:29 | 2024-01-19 | 2025-01-04 |
@@ -601,7 +604,7 @@
 | [Paint This Town](https://open.spotify.com/track/2CW7mVyrv45VDbVbIf2qoJ) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Paint This Town](https://open.spotify.com/album/7LZiIxnPbLyXPgy3OUdaq3) | 3:57 | 2022-02-22 | 2022-05-14 |
 | [Paradise](https://open.spotify.com/track/4zWjHKeCkNcNUrSBPNIGkc) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Paradise](https://open.spotify.com/album/5suOEzLE9dyan78iILj4aK) | 3:18 | 2021-12-17 | 2022-04-02 |
 | [Paranoid Heart](https://open.spotify.com/track/3ZUsOcc2xcgSXDMWx1zned) | [John Fullbright](https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA) | [Paranoid Heart](https://open.spotify.com/album/4nVAHT3ACZ5wgk6lzpLRzK) | 3:12 | 2022-08-05 | 2023-11-18 |
-| [Parking Lot Prayers](https://open.spotify.com/track/0TMwDEVotcHkOwQb2lgZcl) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Starting Over](https://open.spotify.com/album/5jS1UDnigkwwbwB9T6l470) | 3:45 | 2025-09-19 |  |
+| [Parking Lot Prayers](https://open.spotify.com/track/0TMwDEVotcHkOwQb2lgZcl) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Starting Over](https://open.spotify.com/album/5jS1UDnigkwwbwB9T6l470) | 3:45 | 2025-09-19 | 2026-01-24 |
 | [Parted Ways \(Acoustic Version\)](https://open.spotify.com/track/4Xt5uvZALmrSKxcKNySPag) | [Heartless Bastards](https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W) | [Parted Ways \(Acoustic Version\)](https://open.spotify.com/album/7gKmiv8ycRmJMpgSGv9Ye4) | 5:03 | 2022-08-05 | 2023-09-21 |
 | [Parted Ways \- Acoustic Version](https://open.spotify.com/track/6xySuu99uUYsziFbBxSLYQ) | [Heartless Bastards](https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W) | [Arrow \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5ur0y0jEG0KuqshNyju035) | 5:03 | 2023-09-15 | 2023-11-18 |
 | [Passengers](https://open.spotify.com/track/4DQFYIY3Dg3LwpSAEFWoi2) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Age of Apathy](https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo) | 3:32 | 2023-04-28 | 2023-06-03 |

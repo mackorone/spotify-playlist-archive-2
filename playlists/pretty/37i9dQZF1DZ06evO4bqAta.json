@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 587459,
+  "num_followers": 587492,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXAXAAAAAACKac3C9IoBMMMti81VFuZm",
+  "snapshot_id": "aXFogAAAAAAwJ1Fj+VhTFSs9X/0qD6lH",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Morning",
-        "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 145307,
-      "name": "Winterlude",
-      "url": "https://open.spotify.com/track/6h8laPks98zPizQ5qahy40"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Time Out Of Mind",
         "url": "https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 278100,
       "name": "Masters of War",
       "url": "https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Morning",
+        "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 145307,
+      "name": "Winterlude",
+      "url": "https://open.spotify.com/track/6h8laPks98zPizQ5qahy40"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Morning",
-        "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 163190,
-      "name": "If Not for You",
-      "url": "https://open.spotify.com/track/0bTY3EvTFLdPALso8E7Eyq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highway 61 Revisited",
         "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 210188,
       "name": "Highway 61 Revisited",
       "url": "https://open.spotify.com/track/6os5B6xjuke9YfBKH3tu1e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Morning",
+        "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 163190,
+      "name": "If Not for You",
+      "url": "https://open.spotify.com/track/0bTY3EvTFLdPALso8E7Eyq"
     },
     {
       "added_at": null,

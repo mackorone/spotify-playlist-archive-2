@@ -4,7 +4,7 @@
 
 > Electrified jazz, complex rhythms and virtuosic playing\. Cover: CASIOPEA
 
-171 songs - 16 hr 26 min
+172 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Far And Distant Things \(feat\. Frank Gambale\)](https://open.spotify.com/track/7hUfeFl3SpwWli75e0VA1j) | [Benjamin Croft](https://open.spotify.com/artist/6DrVJByeJgHqJ7A3SsBnFE), [Frank Gambale](https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC) | [Far and Distant Things \(feat\. Frank Gambale\)](https://open.spotify.com/album/39Opdt7XBmjgKFfbdlH8De) | 6:13 | 2021-08-06 | 2022-07-29 |
 | [Fire](https://open.spotify.com/track/3On2Z61FnTpoqwNwljhAqE) | [Alina Bzhezhinska](https://open.spotify.com/artist/4ziDIu5XdfA2rQpEAvs0BN), [HipHarpCollective](https://open.spotify.com/artist/22qVoqkMA3F9iviFEx4W5e) | [Reflections](https://open.spotify.com/album/7vm57UmS0tpc8zaAV0rSUR) | 7:10 | 2022-09-02 | 2024-04-19 |
 | [Fire](https://open.spotify.com/track/4Mj9FoaHul5QJZypprgGx5) | [Alina Bzhezhinska](https://open.spotify.com/artist/4ziDIu5XdfA2rQpEAvs0BN), [HipHarpCollective](https://open.spotify.com/artist/22qVoqkMA3F9iviFEx4W5e) | [Fire](https://open.spotify.com/album/2mMJtCANuKoP5vShYLnmPz) | 7:10 | 2023-08-14 |  |
+| [Flurf](https://open.spotify.com/track/2HFu3HNNnPiGr58jKY4paW) | [FORQ](https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1) | [Flurf](https://open.spotify.com/album/4yAcVFgtMNOfEl9wbUaN2b) | 5:23 | 2026-01-23 |  |
 | [Friction](https://open.spotify.com/track/05VH3gIVLBlbQdwIxhhIoW) | [TAUK](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Collisions](https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK) | 5:00 | 2021-02-12 |  |
 | [From The Top](https://open.spotify.com/track/2JsRRVcFT8oTo2Ijfberc3) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof), [HOWES3](https://open.spotify.com/artist/5kAArX8MAwHcmpsbdKhsuE) | [From The Top](https://open.spotify.com/album/0qC7R7ctR01ERrSufbrSGU) | 4:41 | 2023-07-14 |  |
 | [Fuel City](https://open.spotify.com/track/4xUGsswMzuR9ydcOwKkLyw) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Empire Central](https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA) | 4:52 | 2022-09-30 |  |

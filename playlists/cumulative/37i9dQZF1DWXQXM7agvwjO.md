@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover:Shintaro Sakamoto \(Japan\)
 
-2,374 songs - 6 day 0 hr 3 min
+2,375 songs - 6 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1136,7 +1136,7 @@
 | [lupakanku](https://open.spotify.com/track/7fJmvjxfNVVv9Kvr2DgPhR) | [empty page.](https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh) | [lupakanku](https://open.spotify.com/album/2S9K7ZvBc0mP5ACdvef4gI) | 3:32 | 2025-06-06 | 2025-07-25 |
 | [Lurch](https://open.spotify.com/track/23UHhRbTmYijznf3RTbO9O) | [The Crush](https://open.spotify.com/artist/75Tzs2XdfSZUvMZZrivNDb) | [Lurch](https://open.spotify.com/album/3hmBRBfr7oQeDH1WjVs0uG) | 4:39 | 2023-03-16 | 2023-04-21 |
 | [lời nói](https://open.spotify.com/track/16oMwYIG3kB3F6WiV3qpAO) | [NGUYEN TRAN](https://open.spotify.com/artist/54jFy3Orcbi4pKi8OVrOZQ) | [lời nói](https://open.spotify.com/album/7wf5QNu90yMJ5l9KIoYGDZ) | 3:30 | 2025-11-21 |  |
-| [Maaf \(Pada Diriku\)](https://open.spotify.com/track/3t2e7Pf3UfZj5HwqVfjPgZ) | [Biru Baru](https://open.spotify.com/artist/2zuPyFAXSFyGQJrNk2iy6V) | [](https://open.spotify.com/album/null) | 3:55 | 2026-01-22 |  |
+| [Maaf \(Pada Diriku\)](https://open.spotify.com/track/3t2e7Pf3UfZj5HwqVfjPgZ) | [Biru Baru](https://open.spotify.com/artist/2zuPyFAXSFyGQJrNk2iy6V) | [BIRU BARU](https://open.spotify.com/album/3F6ab0kzrpxTmUrfCkcehU) | 3:55 | 2026-01-22 |  |
 | [Mad Hope \(feat\. Louis Cole, Sam Gendel, Sam Wilkes\)](https://open.spotify.com/track/1sbgtxMmPxua3m0H2Gc1P1) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [Gen](https://open.spotify.com/album/68o6ZyxXi2hvjV0J3MwfDs) | 3:28 | 2025-05-15 | 2025-07-04 |
 | [MADELINE](https://open.spotify.com/track/3D824LVyFynyKdvMBgEYHe) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [FUN N FRENS](https://open.spotify.com/album/2FhWYE5T1lmT4fX56QQUDi) | 2:59 | 2025-07-24 | 2025-08-08 |
 | [Madoromi](https://open.spotify.com/track/7H8fkWbpfyggT5xpWAIr0d) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Madoromi](https://open.spotify.com/album/0Gw3Ag34k3rrQKQE7onPfB) | 4:23 | 2023-10-05 | 2023-10-20 |
@@ -1347,6 +1347,7 @@
 | [Now I'm a Diplomat](https://open.spotify.com/track/56kY65WwSloQlO3WJGfVRK) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Who Knows Where Life Will Take You?](https://open.spotify.com/album/5pGHtIQt7DH1e4FXywAvgt) | 3:15 | 2025-08-28 | 2025-10-17 |
 | [Nowhere To Go](https://open.spotify.com/track/3LbEeEvU39ZUnIS8hauoAz) | [Lor](https://open.spotify.com/artist/0IMWbeAo0Sc9kkhNECqFIX) | [Movie Star](https://open.spotify.com/album/3ZJiFWu51wwR9OOw8mRAWL) | 3:09 | 2025-10-03 | 2025-10-14 |
 | [Nuggets](https://open.spotify.com/track/2t08smZmwGJojfpu7ZA2vc) | [Rimba](https://open.spotify.com/artist/0ejPHB5hhzjG2JtglWKjlZ) | [Nuggets](https://open.spotify.com/album/7hKFnf3BL6yNe57oqJRKd1) | 4:10 | 2022-04-21 | 2022-06-10 |
+| [Numb](https://open.spotify.com/track/5kfgWXn6YD9ed6pPNsrcgY) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Yoo\-hoo](https://open.spotify.com/album/2ovdkF5kkDDWfjJgk9rHtu) | 5:24 | 2026-01-23 |  |
 | [Numb face](https://open.spotify.com/track/7HIM3fpXtx7edtpcdP1IZK) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Numb face](https://open.spotify.com/album/05vJSkIdQPRkCO6C1fbXsq) | 2:36 | 2025-03-27 | 2025-04-04 |
 | [NWYK](https://open.spotify.com/track/4KeGC0kxMnkKfVJTprS9nR) | [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [NWYK](https://open.spotify.com/album/6Qa9ljnHnMSJ7j4wTG7DMf) | 2:13 | 2023-06-01 | 2023-08-20 |
 | [O O](https://open.spotify.com/track/6d2bNkJNhEpbLi3TdFWIhp) | [odelia tirza](https://open.spotify.com/artist/7N1Qoaz2IKkCXZMe0HQGrp), [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [O O](https://open.spotify.com/album/6MvZgLV71U3OifdqMrtF24) | 3:26 | 2025-08-01 | 2025-10-03 |
@@ -2374,7 +2375,7 @@
 | [飛鳥 \- Live](https://open.spotify.com/track/5r9nAwvDhTuyboRkHCSVNP) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [飛鳥 \(Live\)](https://open.spotify.com/album/0bWiaz8dwYuv2mO6cnWHZg) | 4:27 | 2025-06-26 | 2025-09-05 |
 | [香港地pt.2](https://open.spotify.com/track/2q24Khiek5SoCiBMyHO1Kx) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [香港地pt.2](https://open.spotify.com/album/1UB7z3WhjgeyibzaNQkjLu) | 3:35 | 2022-03-24 | 2022-04-01 |
 | [魚湖](https://open.spotify.com/track/7Ew6nHhy81sbXXdAtWe6p1) | [野巢 Nosu](https://open.spotify.com/artist/30pJXiYdUEUSVVbizHKjTs) | [魚湖](https://open.spotify.com/album/10t7VwlzQ7n3J5bQf3wsHb) | 4:59 | 2025-09-12 | 2025-10-24 |
-| [麻痺](https://open.spotify.com/track/43pMPzvf5ERpK3trw9k0C7) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [麻痺](https://open.spotify.com/album/468ihgnfToRbmvaj6BHFWJ) | 5:24 | 2026-01-22 |  |
+| [麻痺](https://open.spotify.com/track/43pMPzvf5ERpK3trw9k0C7) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [麻痺](https://open.spotify.com/album/468ihgnfToRbmvaj6BHFWJ) | 5:24 | 2026-01-22 | 2026-01-24 |
 | [산 San](https://open.spotify.com/track/3ZhOznaV0kxWuDAtjlyNpX) | [Precocious Neophyte](https://open.spotify.com/artist/5kPW0F59KHeCSj2dQsiqfH) | [산 San](https://open.spotify.com/album/4mPkd6zLJ6QitSM5KWZnfB) | 4:13 | 2023-03-09 | 2023-04-21 |
 | [삶과 잠과 언니와 나 PRIDE](https://open.spotify.com/track/7j4sdJ48LRUNMGl7pJSSTw) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [삶과 잠과 언니와 나 PRIDE](https://open.spotify.com/album/2rqKcP5HHJtneNxcvXGLNi) | 3:56 | 2022-12-09 | 2023-01-13 |
 | [성실하여 다정하고 때로는 sometimes you are…](https://open.spotify.com/track/42JioTULdqZ2f1IkikFd2R) | [yewee](https://open.spotify.com/artist/1zQITcXMrdgZWsBF0dgwXD) | [성실하여 다정하고 때로는 sometimes you are…](https://open.spotify.com/album/2JXKkk6q3wtBjOKPpjdv7I) | 3:52 | 2023-08-17 | 2023-09-08 |

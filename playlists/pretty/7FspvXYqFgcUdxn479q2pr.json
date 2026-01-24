@@ -6,8 +6,28 @@
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAuVsefN+NkvGAxqXdfyGJOj+G7pz+y",
+  "snapshot_id": "AAAuYt5hsilXIbYHB0CjeQpe+WmWaboO",
   "tracks": [
+    {
+      "added_at": "2026-01-22 23:20:08",
+      "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/00IGSwcvchaCcTLxNFP6u4"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "Mentum",
+          "url": "https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3"
+        }
+      ],
+      "duration_ms": 165214,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/3p7dgKyS7tZcSbmXJmQSxz"
+    },
     {
       "added_at": "2026-01-22 23:20:07",
       "album": {
@@ -31,26 +51,6 @@
       "duration_ms": 168923,
       "name": "Locked In (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/55oaId1IHZV9XfvHB3P7PJ"
-    },
-    {
-      "added_at": "2026-01-22 23:20:08",
-      "album": {
-        "name": "Antidote",
-        "url": "https://open.spotify.com/album/00IGSwcvchaCcTLxNFP6u4"
-      },
-      "artists": [
-        {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
-        },
-        {
-          "name": "Mentum",
-          "url": "https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3"
-        }
-      ],
-      "duration_ms": 165214,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/3p7dgKyS7tZcSbmXJmQSxz"
     },
     {
       "added_at": "2026-01-08 23:20:10",
@@ -321,6 +321,26 @@
       "url": "https://open.spotify.com/track/1xQpwS0JePQbRNbt0wshNp"
     },
     {
+      "added_at": "2026-01-23 13:37:45",
+      "album": {
+        "name": "Love You Like I Do",
+        "url": "https://open.spotify.com/album/6XBjwsvPBKjysqROtu3pmE"
+      },
+      "artists": [
+        {
+          "name": "Crvvcks",
+          "url": "https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98"
+        },
+        {
+          "name": "Az Always",
+          "url": "https://open.spotify.com/artist/6tFoMBbuEBalYlVDFBGNGA"
+        }
+      ],
+      "duration_ms": 144796,
+      "name": "Love You Like I Do",
+      "url": "https://open.spotify.com/track/6WjXLYk8CdeOemeGtPQ9AQ"
+    },
+    {
       "added_at": "2025-12-04 23:20:06",
       "album": {
         "name": "Dreaming",
@@ -355,6 +375,122 @@
       "duration_ms": 144546,
       "name": "La Luna (To The Beat Of The Drum)",
       "url": "https://open.spotify.com/track/5eaSK8S3wG4C2mfEoUjMcm"
+    },
+    {
+      "added_at": "2026-01-23 13:23:32",
+      "album": {
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/2EHw0SVpjbkDFN6GsUvW1Z"
+      },
+      "artists": [
+        {
+          "name": "Joey McCrilley",
+          "url": "https://open.spotify.com/artist/4ew3WXgHuVN5LOVn0KfiNI"
+        }
+      ],
+      "duration_ms": 169391,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/2IUOZVFAvVfhX9gKcAorl4"
+    },
+    {
+      "added_at": "2026-01-23 12:58:02",
+      "album": {
+        "name": "How Deep Is Your Love",
+        "url": "https://open.spotify.com/album/2BqqPTZMZ0bR4QUEaaxdGa"
+      },
+      "artists": [
+        {
+          "name": "TwoRule",
+          "url": "https://open.spotify.com/artist/6idsVz4ueHSGRoScZdf9KF"
+        }
+      ],
+      "duration_ms": 194146,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/0smFVehgQl7Oxi4EvKNbKl"
+    },
+    {
+      "added_at": "2026-01-23 13:04:41",
+      "album": {
+        "name": "Shivers (feat. NO\u00cbP)",
+        "url": "https://open.spotify.com/album/6gRYmcGSoUlZ83WSJvuDR8"
+      },
+      "artists": [
+        {
+          "name": "LEDUC",
+          "url": "https://open.spotify.com/artist/0PX2pq6qcOfKp3NQOJMGvz"
+        },
+        {
+          "name": "NO\u00cbP",
+          "url": "https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp"
+        }
+      ],
+      "duration_ms": 170625,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/0cZntDSgZDioc5Bb9mtsun"
+    },
+    {
+      "added_at": "2026-01-23 13:17:08",
+      "album": {
+        "name": "Got Time",
+        "url": "https://open.spotify.com/album/4Nz0vCPpIsXP1Xfn9OTB6e"
+      },
+      "artists": [
+        {
+          "name": "Brella",
+          "url": "https://open.spotify.com/artist/0NiH6B1yKQCtI3ywM17oTU"
+        }
+      ],
+      "duration_ms": 348196,
+      "name": "Got Time",
+      "url": "https://open.spotify.com/track/3s7Zo3oqO4Rgjln10n1A7k"
+    },
+    {
+      "added_at": "2026-01-23 12:52:30",
+      "album": {
+        "name": "Maye",
+        "url": "https://open.spotify.com/album/4OPvwdRSq0irnu9o4Yu3Xj"
+      },
+      "artists": [
+        {
+          "name": "Paki",
+          "url": "https://open.spotify.com/artist/793dBnJnnRuDvckoUA1mWr"
+        }
+      ],
+      "duration_ms": 210268,
+      "name": "Maye",
+      "url": "https://open.spotify.com/track/3f2GzKt4pKZCRMhMHZ39ew"
+    },
+    {
+      "added_at": "2026-01-23 13:11:38",
+      "album": {
+        "name": "Hide and Seek",
+        "url": "https://open.spotify.com/album/6YrM7hgBq4ZIogV7ebUt4V"
+      },
+      "artists": [
+        {
+          "name": "RUMPUS",
+          "url": "https://open.spotify.com/artist/6UbKjDmDWrGKZdHNYxjveJ"
+        }
+      ],
+      "duration_ms": 174374,
+      "name": "Hide and Seek",
+      "url": "https://open.spotify.com/track/0SlhHeNYhm4I1EjqaPZ7pc"
+    },
+    {
+      "added_at": "2026-01-23 12:33:18",
+      "album": {
+        "name": "Pick Up On This",
+        "url": "https://open.spotify.com/album/19iHFzeqVyc0uo1ON3N7py"
+      },
+      "artists": [
+        {
+          "name": "alo\u00efs",
+          "url": "https://open.spotify.com/artist/5Vnow0jqRh5mcUrMgF48W2"
+        }
+      ],
+      "duration_ms": 148837,
+      "name": "Pick Up On This",
+      "url": "https://open.spotify.com/track/4Dp6HcVDrEFC2gP3VxFpbk"
     },
     {
       "added_at": "2025-12-12 11:00:08",
@@ -395,6 +531,30 @@
       "duration_ms": 121329,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/4OmpHbeuhayvjodg2nWPYz"
+    },
+    {
+      "added_at": "2026-01-23 12:29:59",
+      "album": {
+        "name": "Vision Blurred",
+        "url": "https://open.spotify.com/album/49nuuneGqTobuf0FytxCyI"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Anabel Englund",
+          "url": "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
+        }
+      ],
+      "duration_ms": 185624,
+      "name": "Vision Blurred",
+      "url": "https://open.spotify.com/track/0MBZH1gMOjrF9OVyhrDAo3"
     },
     {
       "added_at": "2026-01-16 10:40:23",

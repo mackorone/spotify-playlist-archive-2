@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 455 likes - 437 songs - 22 hr 11 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 457 likes - 444 songs - 22 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -445,5 +445,12 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 435 | [Up & Down](https://open.spotify.com/track/3F26QKXnR3aP0DwrSE4oFP) | [Tsilla](https://open.spotify.com/artist/0XFGLPbtLa5gspkrLw3xoF), [LOCSAIN](https://open.spotify.com/artist/0x4AIjN5tzcoBzeqpUKWkt) | [Up & Down](https://open.spotify.com/album/4OtnbdvtY81fN7Izc7Z3n3) | 3:16 |
 | 436 | [Double Vision](https://open.spotify.com/track/6teK4Tc58MLP0gxoHLpucF) | [Black Halo](https://open.spotify.com/artist/2Vzqi1AZ8PcAt5Br2wGtjL) | [Double Vision](https://open.spotify.com/album/2hNv9pKB5qgTQ2VQIutREo) | 3:18 |
 | 437 | [Знаешь](https://open.spotify.com/track/2WWq6Cee2K8J6FR4Ba1rEC) | [BAZIV](https://open.spotify.com/artist/4WoH2DA8I9TsUBc9YcoQLO) | [Знаешь](https://open.spotify.com/album/6uQtYlfxjZKpL5hHRnHNSt) | 3:31 |
+| 438 | [Over It](https://open.spotify.com/track/2kj6TZScNoIT7XkmHaNzf5) | [Michael Barrow & the Tourists](https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE) | [Over It](https://open.spotify.com/album/2QMH3GnAnZDiHobPxWdlYI) | 3:11 |
+| 439 | [Winnin](https://open.spotify.com/track/2HPCqbMp7VDmYhUrS2gbjk) | [Zaya Love](https://open.spotify.com/artist/7MBtJesquNBluPqKJyW6W1), [Mark Holiday](https://open.spotify.com/artist/0c2te8OzhhVjiqXaAku4Hx) | [TRENDSETTER](https://open.spotify.com/album/6JWcKuOYeKNlp9h8MPYJNg) | 2:12 |
+| 440 | [Take Your Time\. \(All Night\) PT2 \- \[ThaHeattMix\]](https://open.spotify.com/track/55aqu9Wl8rfVJf5ayoKShm) | [Ovacreate Music](https://open.spotify.com/artist/00hBCfjsiPpdBFT7rOWz6T), [ⓤUsher IV](https://open.spotify.com/artist/6o0NmZp4QQo3erF5QkoTOq), [Nothin but Heatt](https://open.spotify.com/artist/5Sb0aJfqhFm9tUnYdbRIKO) | [Take Your Time\. \(All Night\) PT2 \[ThaHeattMix\]](https://open.spotify.com/album/3uoAa64bDATb0f1szmPjTS) | 3:52 |
+| 441 | [New Jack City \- Remix](https://open.spotify.com/track/0IjghLecc56RqPZmrmWfvT) | [Jalino](https://open.spotify.com/artist/7qtYGG4Qx907UVdJAF5L0A), [Meckalicious](https://open.spotify.com/artist/73qW2yiq0OBOBtKPsU3YYi), [House8Beats](https://open.spotify.com/artist/2PFBaXDrsBrysuIMyoosMl), [Naith Luzot](https://open.spotify.com/artist/7BxrceNVsgRJ7DZvfGwb5Z) | [New Jack City \(Remix\)](https://open.spotify.com/album/6kazEu98eFcSjYjDO2shsA) | 2:20 |
+| 442 | [You](https://open.spotify.com/track/1YozAmQcFVGgO6Uugm108P) | [Juelz](https://open.spotify.com/artist/1cs4r9GXmJbRG7aZNWmCUL), [Tomszz](https://open.spotify.com/artist/0R2Bz2q3TmiDStpSEexSvp) | [Yours Truly](https://open.spotify.com/album/7ynn1X28uyh527TF3kYMRV) | 2:33 |
+| 443 | [To Space](https://open.spotify.com/track/4c8RT92p1S57ByAHsLfbvs) | [Sophie Oliver](https://open.spotify.com/artist/3lLP8vYaOAzBbk7gANz1BZ) | [To Space](https://open.spotify.com/album/29jjEVWBYMyzmniam9Cs2s) | 3:02 |
+| 444 | [Entre a Fome e Crime](https://open.spotify.com/track/5sI61nP4pcnQfacmCTQ8pS) | [richão do rap 062](https://open.spotify.com/artist/22vDUIJJ16sddZ0HLhra86) | [Entre a Fome e Crime](https://open.spotify.com/album/1cYipl9nf8qSn8nyZNNCfJ) | 2:21 |
 
-Snapshot ID: `AAAZJId86HitEwZ/Pmi6lgsvD6E5whpU`
+Snapshot ID: `AAAZK1UgokPD9WLJPcmei2FsaBnh4faw`

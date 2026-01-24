@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Jenge
 
-606 songs - 1 day 9 hr 43 min
+606 songs - 1 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Endless Love](https://open.spotify.com/track/3plpJnQfmj3jYESrMy0nkf) | [Ify Benson](https://open.spotify.com/artist/2KiXfF8UiD0qA7kqMvYKBl) | [Endless Love](https://open.spotify.com/album/0JOkvt0D0woJCdM9T7ZFyo) | 2:51 | 2024-03-29 | 2024-08-16 |
 | [Enough](https://open.spotify.com/track/3sTKNrsUuwIQ13DzlN0YR3) | [Char](https://open.spotify.com/artist/15qYBwVZ3s8UjqAOT8rxGf), [Takunda](https://open.spotify.com/artist/6euX8HpygCP19RCkGJbR6p), [Cleo Arie](https://open.spotify.com/artist/3kPnhC2DzfytfKwustsyqK) | [Enough](https://open.spotify.com/album/3nUA8EVKM3iMk21HFcGEQP) | 3:24 | 2025-05-16 | 2025-09-12 |
 | [Enough](https://open.spotify.com/track/5BFdLBHZH03qfbc5tR8hMp) | [Day 3](https://open.spotify.com/artist/1V8YmQ4aOqbzU0TksheISz), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Enough](https://open.spotify.com/album/1VLl8RxkSWnWovDRiNle79) | 2:41 | 2024-03-15 | 2024-05-03 |
+| [ENOUGH FOR ME](https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [ENOUGH FOR ME](https://open.spotify.com/album/5P2RR6rOO8lTNvVxMObKmj) | 9:40 | 2026-01-23 |  |
 | [Ese](https://open.spotify.com/track/3yIQXYntklZ26OsRdBWJES) | [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu), [Zic Music](https://open.spotify.com/artist/4Lhk9QRuOkcVzs140NrOyu) | [Ese](https://open.spotify.com/album/0kc7LHdOMNMf6523BISUfu) | 2:42 | 2025-11-28 |  |
 | [Esé](https://open.spotify.com/track/27kSeZe95U7n14Jfv0jnb7) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Esé](https://open.spotify.com/album/6t44fZYo3wngPz0MX7vOqH) | 3:14 | 2025-11-07 |  |
 | [Even If](https://open.spotify.com/track/7AJowvYX5w6D5iHOtDQS5w) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Still Shadey](https://open.spotify.com/artist/7r4NtPJ0mYRidQYQtxq8sV) | [Glory](https://open.spotify.com/album/2vEL8aG2JnKbWddv4E0j1g) | 2:36 | 2024-04-12 | 2024-07-05 |
@@ -541,7 +542,6 @@
 | [To me](https://open.spotify.com/track/312MQvrve82qCPpYQP2hbi) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [To me](https://open.spotify.com/album/5c6wFb8kE1iL0IswbinfWO) | 2:34 | 2024-02-10 | 2024-04-06 |
 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 | 2023-10-20 |  |
 | [Toxic](https://open.spotify.com/track/1aTAnmQGXqz82RXhoLBSsQ) | [FOEVA](https://open.spotify.com/artist/2heAYgLQ8mW1NBwAIWYDfI) | [Toxic](https://open.spotify.com/album/2WGaiKFPFEat303TwLbuUt) | 2:40 | 2024-01-19 | 2024-02-23 |
-| [Track 4](https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-23 |  |
 | [True Love](https://open.spotify.com/track/64g7yZSdEEU5EctgNSXoat) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Glochi](https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY), [Jayclassic](https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp) | [True Love](https://open.spotify.com/album/0fysW24DQvmfDWN1WFxpNE) | 2:30 | 2024-02-09 | 2024-03-22 |
 | [Trust](https://open.spotify.com/track/4jmPjHDQ9d8tIMTDELLIXF) | [GERALD ADUGBO](https://open.spotify.com/artist/06y01hToOeibM9lqYOApKl) | [Trust](https://open.spotify.com/album/61fpMsOw2HZQwJhqUsKUOd) | 2:33 | 2025-09-19 | 2025-10-31 |
 | [Trust](https://open.spotify.com/track/74DC94uJKUT4ifisoMjCWr) | [GIDYON](https://open.spotify.com/artist/6DkCYglpnVDHEV9tfCaxW2), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Trust](https://open.spotify.com/album/3vCyVi8EnduLV93bGih19L) | 2:52 | 2024-03-08 | 2024-05-03 |

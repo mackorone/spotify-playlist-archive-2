@@ -326,7 +326,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 132694,
       "name": "Empty Streets",
       "url": "https://open.spotify.com/track/0x7HABmP1yFASTR6WPBYhn"
@@ -766,6 +766,32 @@
       "duration_ms": 257893,
       "name": "reflection eternal",
       "url": "https://open.spotify.com/track/6eGMwVVABqVTe9bWRIm498"
+    },
+    {
+      "album": {
+        "name": "Resonance",
+        "url": "https://open.spotify.com/album/247WIvYS7i53FjiPEdCw6H"
+      },
+      "artists": [
+        {
+          "name": "Toshiki Soejima",
+          "url": "https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO"
+        },
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        },
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Resonance",
+      "url": "https://open.spotify.com/track/2LxGGThhhbFhyHkaZySaty"
     },
     {
       "album": {

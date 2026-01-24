@@ -4,7 +4,7 @@
 
 > What is your love language? Say it in Swahili\.  Cover: Mimi Mars
 
-329 songs - 18 hr 26 min
+331 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Away](https://open.spotify.com/track/1PvrHffqvkyxuLHko1VJQd) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Away](https://open.spotify.com/album/3CZAw4GNWnCBF8oCuc7495) | 3:40 | 2024-03-21 | 2024-04-19 |
 | [Away](https://open.spotify.com/track/6l8LEBdIrPF57T4VZkQs3i) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Away](https://open.spotify.com/album/6yhc9dAFjeeyL5RLXDjQVW) | 3:40 | 2024-01-18 | 2024-11-22 |
 | [Bado](https://open.spotify.com/track/74buPdQW7Xy39ryorpOaWC) | [killy](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Bado](https://open.spotify.com/album/2L9Ap65owutg0v7TKoOhIV) | 3:34 | 2024-02-01 | 2024-05-17 |
-| [Bailando](https://open.spotify.com/track/2SG4Yp9xZy7FnNneLm8buk) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Bailando](https://open.spotify.com/album/36WhjtxwyBS4iBCnS91bKo) | 3:35 | 2025-05-16 |  |
+| [Bailando](https://open.spotify.com/track/2SG4Yp9xZy7FnNneLm8buk) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Bailando](https://open.spotify.com/album/36WhjtxwyBS4iBCnS91bKo) | 3:35 | 2025-05-16 | 2026-01-24 |
 | [BamBam](https://open.spotify.com/track/7qMekh8B1OLLtdVKMUi9Wc) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Swahili Kid](https://open.spotify.com/album/5GnGRXPzXC6DuzDuUzKtxr) | 3:30 | 2024-03-14 | 2024-03-22 |
 | [Baridi](https://open.spotify.com/track/72xGE8uQLhCEtL0EujBlMY) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Baridi](https://open.spotify.com/album/2w05Yz5dVlP41KH81ZGkDX) | 3:15 | 2024-01-11 |  |
 | [Basi Nambie](https://open.spotify.com/track/5FhsWTCMQonSGlyMzlqiaS) | [Wyse Tz](https://open.spotify.com/artist/5iQS32vK2HWTCX9jhBeRz8) | [Basi Nambie](https://open.spotify.com/album/6EvCZYZyxhx8wgQA4S5Xyi) | 2:40 | 2025-04-04 | 2025-06-06 |
@@ -274,6 +274,7 @@
 | [Sina Neno](https://open.spotify.com/track/2Yk3KiXjSg8ORhcZDyyAzv) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Sina Neno](https://open.spotify.com/album/0VKiClYPw1xnyj40w0wVnD) | 3:04 | 2022-05-26 | 2023-09-08 |
 | [Single](https://open.spotify.com/track/0NEiPNvusJPXBP826yQbR7) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Single](https://open.spotify.com/album/6CKL3hUQV87q3XFkeqabGb) | 2:16 | 2023-01-19 | 2023-07-07 |
 | [Sitaki Mapenzi](https://open.spotify.com/track/5xhHQNRjuITzj9eOFabWWi) | [Treyzah](https://open.spotify.com/artist/1ZEoQ0UaWVoJZE6JCZZUM3) | [Sitaki Mapenzi](https://open.spotify.com/album/2U44P4HPg9FlsYVsAP0457) | 2:40 | 2025-02-27 | 2025-06-20 |
+| [Siwezi](https://open.spotify.com/track/3XOAheboN0U3W0IlWIgv9b) | [Killy Tz](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Siwezi](https://open.spotify.com/album/6xZjqJJGPFA89OdfzPrGaL) | 3:30 | 2026-01-23 |  |
 | [Siwezi](https://open.spotify.com/track/5rHwhDMhECn3kuE9zH4gZF) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Siwezi](https://open.spotify.com/album/5DZnhDiqjk4VHKRs9trO9D) | 3:22 | 2025-12-18 |  |
 | [Siwezi](https://open.spotify.com/track/7d5eqMMgXk3OoAhqHhkyCs) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Siwezi](https://open.spotify.com/album/0M0knAvFHP6OjjxSSIsNRy) | 3:04 | 2022-05-26 | 2023-07-28 |
 | [Siwezi](https://open.spotify.com/track/71dAnBhTrNKhsUfL7IJ8ht) | [RICH MAVOKO](https://open.spotify.com/artist/4aeCyyHNM1iZbxz48788cd) | [Siwezi](https://open.spotify.com/album/6kqYOHMLPw6yERhUiQ7QFP) | 2:33 | 2025-10-30 |  |
@@ -286,6 +287,7 @@
 | [Tajiri](https://open.spotify.com/track/4m6fKxNk1aJG8qY7eSX5CG) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Tajiri](https://open.spotify.com/album/3NfSoXOGS1wtJAXgM1Mjwd) | 2:55 | 2024-03-14 | 2024-03-22 |
 | [Tamu](https://open.spotify.com/track/7bJA74cBQZ3Chx6MzZ5aoW) | [GENIUSJINI X66](https://open.spotify.com/artist/2yw2or4Ekg7zdSDHtyGXhW), [DJ Milva](https://open.spotify.com/artist/7JM5XqnpDyRcE4SbndcIDq) | [Tamu](https://open.spotify.com/album/7nKpi7fJXplk551KdOE213) | 3:29 | 2024-10-31 | 2025-01-31 |
 | [Tamu](https://open.spotify.com/track/0b4PfGB3CWfrE5DQZt6P9g) | [Mac Voice](https://open.spotify.com/artist/0gqdLMf9kqVNiUXaM5Dg1s), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [My Voice](https://open.spotify.com/album/3rIFLWukhzKyepIqtohd28) | 3:36 | 2022-05-26 | 2023-06-16 |
+| [Tamu Chungu](https://open.spotify.com/track/5qBPJlncdq7swIjYcaBm2G) | [Vanillah](https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Tamu Chungu](https://open.spotify.com/album/5hXDmk0ecC2SOXi1PFRh0e) | 3:37 | 2026-01-23 |  |
 | [This Love](https://open.spotify.com/track/2qMwrsE1QFVCHlKGgs49Y0) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [This Love](https://open.spotify.com/album/5QBvP8LsJEAVTp4dohusx2) | 3:09 | 2023-12-22 | 2024-07-27 |
 | [Till I Die](https://open.spotify.com/track/5q5kRdpB5sNYXuvTbCZUZR) | [Mimi Mars](https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi) | [Till I Die](https://open.spotify.com/album/5gPQrFRHCI19mzvfzCJlYL) | 1:58 | 2024-04-04 | 2024-07-05 |
 | [Tina](https://open.spotify.com/track/2XgoqCgvCYzOZDw7HvSoxn) | [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn) | [Tina](https://open.spotify.com/album/0PenAHs174BfKImPfisGti) | 3:06 | 2024-09-20 | 2025-01-17 |
@@ -323,7 +325,7 @@
 | [Wawili](https://open.spotify.com/track/0tZlISnKWa6Z0rjvOn8SBx) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Wawili](https://open.spotify.com/album/1vYxPvOHWpK4pFxRyFafcb) | 3:10 | 2024-02-15 | 2024-08-09 |
 | [Wewe hapoo](https://open.spotify.com/track/0w5jaSkHZgBkYfK9A1f46k) | [Lony Bway](https://open.spotify.com/artist/2lCSNBa7XKaxqgIlAhGXFJ), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Wewe hapoo](https://open.spotify.com/album/395r1bIIUEd20cxJgQ6bp5) | 3:56 | 2024-03-14 | 2024-03-22 |
 | [Wewe na mimi \- bongo Flava](https://open.spotify.com/track/6oOfoL9E1iztf2anyIakKo) | [Frida Amani](https://open.spotify.com/artist/1yXUnk7QLJfBTnLIgkwimU), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Wewe na mimi \(bongo Flava\)](https://open.spotify.com/album/33bzWGYexe9TTWm0abEKu1) | 3:15 | 2025-08-21 |  |
-| [Why](https://open.spotify.com/track/52BYjohWWYvUustvR8YaRg) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Why](https://open.spotify.com/album/6b8SBxH7W4pSr0Bxf0hBfa) | 2:58 | 2025-02-20 |  |
+| [Why](https://open.spotify.com/track/52BYjohWWYvUustvR8YaRg) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Why](https://open.spotify.com/album/6b8SBxH7W4pSr0Bxf0hBfa) | 2:58 | 2025-02-20 | 2026-01-24 |
 | [Why](https://open.spotify.com/track/6TlZkvGTKWJXtYUx4XGCyv) | [The Ben](https://open.spotify.com/artist/71jxVM5UsQTnPa9DpkK21E), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Why](https://open.spotify.com/album/4qdyzWegDBzlnPfl0FmBaB) | 3:26 | 2022-05-26 | 2024-08-16 |
 | [Wimbo Wetu](https://open.spotify.com/track/0zOV2YLP3cSpknApGiIo4H) | [Ethan](https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1) | [Wimbo Wetu](https://open.spotify.com/album/3XbVKuy8YmoHYwqXoVRvBr) | 4:26 | 2023-07-06 | 2024-01-26 |
 | [WIVU](https://open.spotify.com/track/0wKkMsJb5vGjUMG1AHU4OM) | [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu) | [THE MOTIONS](https://open.spotify.com/album/4fPOxjuC3kyV9c6TW4Ejjq) | 3:00 | 2024-08-08 | 2025-01-31 |

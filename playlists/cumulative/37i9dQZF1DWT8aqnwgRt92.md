@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,430 songs - 6 day 6 hr 16 min
+2,431 songs - 6 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -987,6 +987,7 @@
 | [RISE FROM DEAD](https://open.spotify.com/track/0drusw4d19L4kgzkYrgkkC) | [ヒプノシスマイク \-D.R.B\- Rhyme Anima \(Division All Stars\)](https://open.spotify.com/artist/2jDF6txAVkptRBGsIpqXv8) | [RISE FROM DEAD](https://open.spotify.com/album/4XuDdSGWx2G7i4MVtDrMAZ) | 3:40 | 2023-10-07 | 2023-11-17 |
 | [RISE UP](https://open.spotify.com/track/1fB1NOeELQJwHw5kLeQEf4) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH), [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS), [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn), [悪漢奴等](https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC) | [Paradox Live THE ANIMATION Opening Track「RISE UP」](https://open.spotify.com/album/19rtC1twZKhiqLfnOZT6bS) | 3:40 | 2023-11-21 | 2024-01-17 |
 | [RISE UP](https://open.spotify.com/track/4GdYcBziM4hqHJSXYSntQe) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [RISE UP](https://open.spotify.com/album/0DMBH4ZFc1QS5XsAWKvdxM) | 3:00 | 2024-07-09 | 2024-10-09 |
+| [Rivals and Equals](https://open.spotify.com/track/1pUcAjkI2SDa81ky3g7bAD) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [Rivals and Equals](https://open.spotify.com/album/1DZRcae6Y7l75XoPqj0eYh) | 2:31 | 2026-01-22 |  |
 | [Rivals!](https://open.spotify.com/track/4otyBXYhh2gmvZ8mStOIUn) | [ヒプノシスマイク \-D.R.B\- \(有栖川帝統\)](https://open.spotify.com/artist/7zPyS2eGOYY53pbISyQ2Ht), [ヒプノシスマイク \-D.R.B\- \(観音坂独歩\)](https://open.spotify.com/artist/1jFS1ybytbb9YCWaTnhQ7I) | [The Block Party \-HOMIEs\-](https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi) | 3:18 | 2023-08-22 | 2023-09-27 |
 | [River](https://open.spotify.com/track/1kPoNSnxGFq5UZbGyNymsK) | [Anonymouz](https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X) | [River](https://open.spotify.com/album/5sCPmMx3ctNJX7D68kY3A4) | 3:17 | 2023-01-17 | 2023-04-19 |
 | [ROAR](https://open.spotify.com/track/6uivVGH9afiQOD9AbZatrq) | [ulma sound junction](https://open.spotify.com/artist/3h5skAdoPngCgx42LEYnse) | [ROAR](https://open.spotify.com/album/09wcj80hhbm5MghpXgZmtn) | 3:23 | 2023-10-03 | 2023-10-11 |

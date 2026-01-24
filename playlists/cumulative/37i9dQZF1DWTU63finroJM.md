@@ -2,7 +2,7 @@
 
 ### [RADAR Global ](https://open.spotify.com/playlist/37i9dQZF1DWTU63finroJM)
 
-> Meet the future of music around the world\. Cover: Danyl
+> Meet the future of music around the world\. Cover: Haku.
 
 2,277 songs - 5 day 3 hr 0 min
 
@@ -2018,7 +2018,7 @@
 | [Y'A R](https://open.spotify.com/track/5hXA6P3qydIe3375WfGjVk) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab) | [ZMIG](https://open.spotify.com/album/688e1LKDyb3Zqoo4hpMwch) | 1:45 | 2026-01-16 |  |
 | [Ya Acabo](https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 3:09 | 2022-03-24 | 2022-09-16 |
 | [Ya Hayati](https://open.spotify.com/track/6JyHqySGJlaDv5RdLMZ9nA) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Ya Hayati](https://open.spotify.com/album/0ZfkgUy4g9y5E4pekNGyNE) | 3:29 | 2024-06-28 | 2024-08-25 |
-| [YA NO SIENTO NADA](https://open.spotify.com/track/2MFrGeRWUnIsZpSkoGn2N5) | [La Vendicion](https://open.spotify.com/artist/0Yp8VHUZMjHleknMfdBsyh), [La Obsesion](https://open.spotify.com/artist/16xTQXyj7LORVb9kupiE1y) | [La Hermandad](https://open.spotify.com/album/7ffxdGochOn5nBhFDllRuK) | 3:29 | 2026-01-16 |  |
+| [YA NO SIENTO NADA](https://open.spotify.com/track/2MFrGeRWUnIsZpSkoGn2N5) | [La Vendicion](https://open.spotify.com/artist/0Yp8VHUZMjHleknMfdBsyh), [La Obsesion](https://open.spotify.com/artist/16xTQXyj7LORVb9kupiE1y), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L), [Novato El Flow](https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Viglezz](https://open.spotify.com/artist/1LJ9q30BIBFwaTDrJ5BZu5) | [La Hermandad](https://open.spotify.com/album/7ffxdGochOn5nBhFDllRuK) | 3:29 | 2026-01-16 |  |
 | [YABANCI](https://open.spotify.com/track/3tkaoklFrXHAlWvdoWhUbY) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [YABANCI](https://open.spotify.com/album/0YBe2Fk1Q0V7JnmqzzTrnb) | 2:27 | 2024-06-14 | 2024-09-15 |
 | [YACHT CLUB](https://open.spotify.com/track/6akyMw7cDDCVGqrAwHA6b2) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [YACHT CLUB](https://open.spotify.com/album/0iwAIB5fDKkgUTpgBrDr7t) | 2:57 | 2024-06-07 | 2024-10-16 |
 | [Yakap](https://open.spotify.com/track/4cO62W6CErGU4vrDWF1Ruj) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX) | [Yakap](https://open.spotify.com/album/1nBiqfztbH4xqVgPI01HWg) | 3:20 | 2022-02-03 | 2022-12-15 |

@@ -4,7 +4,7 @@
 
 > musica per un inverno non proprio felice \(ottobre in cover\)
 
-1,595 songs - 3 day 1 hr 10 min
+1,596 songs - 3 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 | 2023-08-31 | 2023-12-15 |
 | [BAD MOOD](https://open.spotify.com/track/5ush1W9PbAhCaW9TZIjzun) | [Frasca](https://open.spotify.com/artist/3Ej5rdXiSC43dUi85PXYAZ), [gothskyler](https://open.spotify.com/artist/5Icn4IrF6ZRh3SOshHAsJx) | [BAD MOOD](https://open.spotify.com/album/2IRdvbkfv7mYJcVYuK6Zgm) | 2:16 | 2024-06-06 | 2024-06-28 |
 | [Baggen](https://open.spotify.com/track/4amQQ9Z5pHo2kpe3jUK47T) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Baggen](https://open.spotify.com/album/72eKrH7WXEhT2sQeNdYE1W) | 3:09 | 2023-10-12 | 2024-03-22 |
+| [Ballando Con Te](https://open.spotify.com/track/2i80maftqYWVSRst3reXCo) | [Chicoboyah](https://open.spotify.com/artist/1fBkKzgI3Bl1R2ePXRAcTW) | [Ballando Con Te](https://open.spotify.com/album/7wP30X1uVRN1yEjKO4DfRo) | 3:19 | 2026-01-23 |  |
 | [BAMBINA IN DISCOTECA](https://open.spotify.com/track/5xgYbfxberTCnMlMrnmGHh) | [Giovanni Ti Amo](https://open.spotify.com/artist/29OsfkIbRZNyCeodZ0uc6K) | [BAMBINA IN DISCOTECA](https://open.spotify.com/album/0Hc1ajYXVxUQyoOZ1aP5x1) | 2:09 | 2022-12-08 | 2022-12-24 |
 | [BAMBINI VECCHI \(Fantasy\)](https://open.spotify.com/track/4Yy7MgDF6Zz32x0AE4dy2Q) | [MilesToy](https://open.spotify.com/artist/70Aar9GzCVdqrppzzQ0vU6) | [BAMBINI VECCHI \(Fantasy\)](https://open.spotify.com/album/7phGRMfDC0Q6huQWwJ7nMn) | 2:58 | 2022-12-22 | 2023-01-13 |
 | [Bambino](https://open.spotify.com/track/5PN45xdNO9aTq1zhMaSS1H) | [Cyrus Yung](https://open.spotify.com/artist/5ntvgaFmaJr8rNJHOZMpNH) | [Bambino](https://open.spotify.com/album/7Dg9xWHAxs8XbGmSCOIhfd) | 2:44 | 2023-02-23 | 2023-04-28 |

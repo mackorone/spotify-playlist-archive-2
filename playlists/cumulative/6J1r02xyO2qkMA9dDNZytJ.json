@@ -151,6 +151,24 @@
     },
     {
       "album": {
+        "name": "Ballerz",
+        "url": "https://open.spotify.com/album/6TzIjmh2UW48dV6pLXbrF1"
+      },
+      "artists": [
+        {
+          "name": "Beyond Limits",
+          "url": "https://open.spotify.com/artist/3ghFZZioSL9QVF4q9JzDaT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157367,
+      "name": "Ballerz",
+      "url": "https://open.spotify.com/track/1wjTV6JrkSJWIIeDjHf8yQ"
+    },
+    {
+      "album": {
         "name": "Bass In Ya Face",
         "url": "https://open.spotify.com/album/5mGD1C80VPiXsNB7Dsf1Ep"
       },
@@ -435,6 +453,24 @@
     },
     {
       "album": {
+        "name": "Can\u2019t Stop",
+        "url": "https://open.spotify.com/album/2mrrDlJa961xfvs24sF2rC"
+      },
+      "artists": [
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219212,
+      "name": "Can\u2019t Stop",
+      "url": "https://open.spotify.com/track/2PHTL1d8V2UmnVcIDebjQY"
+    },
+    {
+      "album": {
         "name": "Casablanca (PRX003)",
         "url": "https://open.spotify.com/album/1G35maESkpGKInECEfA8KC"
       },
@@ -635,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Delirious",
+        "url": "https://open.spotify.com/album/0q0FT4I4xNZSFPCuvoIRw9"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192923,
+      "name": "Delirious",
+      "url": "https://open.spotify.com/track/46875iJliwEgqWQvKT4cJX"
+    },
+    {
+      "album": {
         "name": "Diet Coke",
         "url": "https://open.spotify.com/album/0TPFuZo9pI9Fvbbx59wHUO"
       },
@@ -668,7 +722,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 169159,
       "name": "Dior (feat. Chrystal)",
       "url": "https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX"
@@ -748,7 +802,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 160673,
       "name": "Draw The Line",
       "url": "https://open.spotify.com/track/3fy0xjYq6I0gU5E7M0XN1Q"
@@ -1762,7 +1816,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 228750,
       "name": "La Police",
       "url": "https://open.spotify.com/track/0G368yEEoQIse5uOUnNoGq"
@@ -2197,6 +2251,24 @@
     },
     {
       "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/23uIvWm3B1nwedYUNalsT9"
+      },
+      "artists": [
+        {
+          "name": "Siege",
+          "url": "https://open.spotify.com/artist/3Y7jEjvZAosFRghJl62VNd"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175119,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/3vQRZJn8OnOpzO1ZNfg6WY"
+    },
+    {
+      "album": {
         "name": "On The Run",
         "url": "https://open.spotify.com/album/6b0I625GSDrFoQ45PYgv4o"
       },
@@ -2328,7 +2400,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 166935,
       "name": "Perfect Sound",
       "url": "https://open.spotify.com/track/1RGXZiKwwo3jTp7IuWZLIq"
@@ -2424,7 +2496,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 144732,
       "name": "Please Me",
       "url": "https://open.spotify.com/track/4shdF3Ln9GoPBNZu7rajFG"
@@ -2778,6 +2850,28 @@
       "duration_ms": 159374,
       "name": "Sin Pero",
       "url": "https://open.spotify.com/track/00cZ6btKe7o8TECVLBpIXR"
+    },
+    {
+      "album": {
+        "name": "Slight Werk (Club Mix)",
+        "url": "https://open.spotify.com/album/3USLXh5K8mET0msxPqYXpP"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178953,
+      "name": "Slight Werk - Club Mix",
+      "url": "https://open.spotify.com/track/3AenQimpj4gFY3e0CnsbD1"
     },
     {
       "album": {
@@ -3412,10 +3506,28 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 196895,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/4fv1qeXHQA1gGoA7TKYm3g"
+    },
+    {
+      "album": {
+        "name": "WHAT?!",
+        "url": "https://open.spotify.com/album/3UjpGkt987CyttBrXfKy4U"
+      },
+      "artists": [
+        {
+          "name": "Will Clarke",
+          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175443,
+      "name": "WHAT?!",
+      "url": "https://open.spotify.com/track/7s3T3e0lbzV4l7i4F7JVmp"
     },
     {
       "album": {

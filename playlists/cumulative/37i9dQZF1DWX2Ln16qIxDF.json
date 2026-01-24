@@ -833,6 +833,28 @@
     },
     {
       "album": {
+        "name": "SATORI",
+        "url": "https://open.spotify.com/album/2JjBLYvcy9SmpYCQ2U6Mq3"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "AFTER SI, CASA NO",
+      "url": "https://open.spotify.com/track/560lar8rdF42EerYjiGXE7"
+    },
+    {
+      "album": {
         "name": "5202",
         "url": "https://open.spotify.com/album/7GK7b47WfktjsrNmjvua00"
       },
@@ -3147,6 +3169,32 @@
     },
     {
       "album": {
+        "name": "BOTA",
+        "url": "https://open.spotify.com/album/3dR7Ki6FZ7ZzERpGaDqizJ"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178173,
+      "name": "BOTA",
+      "url": "https://open.spotify.com/track/6XRjI89oGBRJe0etKtI04L"
+    },
+    {
+      "album": {
         "name": "Botellas Vac\u00edas",
         "url": "https://open.spotify.com/album/0Zu5oqYuCbWa4a9ENNxyG5"
       },
@@ -3540,6 +3588,28 @@
       "duration_ms": 163259,
       "name": "CALLEJERO FINO | DJ TAO Turreo Sessions #723",
       "url": "https://open.spotify.com/track/3fUZbg31mIJKIxuv8nUcGg"
+    },
+    {
+      "album": {
+        "name": "CAMBIAR\u00c9",
+        "url": "https://open.spotify.com/album/6ZXLMVFtEzgYNQlbUMlzAU"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181237,
+      "name": "CAMBIAR\u00c9",
+      "url": "https://open.spotify.com/track/0DHkA97Q6SWz7uanmsCy8u"
     },
     {
       "album": {
@@ -4270,7 +4340,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 180606,
       "name": "CON MI GANGA",
       "url": "https://open.spotify.com/track/0JZMjSdMFiVDraXygvrDUF"
@@ -4950,6 +5020,62 @@
       "duration_ms": 162500,
       "name": "CU\u00c9NTAME",
       "url": "https://open.spotify.com/track/0nGutb7xfndF7iSGmk6tBP"
+    },
+    {
+      "album": {
+        "name": "C\u00f3mo Hiciste? (feat. FRAN) [Remix]",
+        "url": "https://open.spotify.com/album/7clvIUl7ek8B4mknaLI8TE"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        },
+        {
+          "name": "Nono",
+          "url": "https://open.spotify.com/artist/0zL8jjsngYMonC9YLeWy0p"
+        },
+        {
+          "name": "FRAN",
+          "url": "https://open.spotify.com/artist/3kFlxPXZ31culc2QluDVLC"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282857,
+      "name": "C\u00f3mo Hiciste? (feat. FRAN) - Remix",
+      "url": "https://open.spotify.com/track/1aNiFJedJgLockcTGil0pt"
+    },
+    {
+      "album": {
+        "name": "C\u00f3mo Que No? (Casa Sole)",
+        "url": "https://open.spotify.com/album/0yEGQYE02P8sGrANP8Amz5"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208443,
+      "name": "C\u00f3mo Que No? (Casa Sole)",
+      "url": "https://open.spotify.com/track/5slXmhgfiU7xQKdj5KqkJz"
     },
     {
       "album": {
@@ -6482,7 +6608,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 294383,
       "name": "El Garca",
       "url": "https://open.spotify.com/track/3qyC8GF9eohAxZlLPynr7W"
@@ -8156,7 +8282,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 177374,
       "name": "fr\u00e1gil",
       "url": "https://open.spotify.com/track/3upFg2YLqpYstpp232qmf9"
@@ -12301,6 +12427,28 @@
     },
     {
       "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134277,
+      "name": "Me Voy A La Chingada",
+      "url": "https://open.spotify.com/track/297ql9Y4MLwYwt6wY1wFID"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2QXNLeJ8qqihAdeMSELu4W"
       },
@@ -13130,7 +13278,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 184506,
       "name": "Mu\u00e9rdeme",
       "url": "https://open.spotify.com/track/6FRyG3kJCYp6Hswy73ISGV"
@@ -18900,7 +19048,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 161069,
       "name": "Skeletons",
       "url": "https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q"
@@ -19356,7 +19504,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 163680,
       "name": "tan adictiva",
       "url": "https://open.spotify.com/track/0qRXVFTYjf0FRjVcZAWCvh"

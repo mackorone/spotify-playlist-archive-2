@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udcaf Suomi. ",
-  "num_followers": 91164,
+  "num_followers": 91165,
   "original_name": "100 Suomi",
   "owner": {
     "name": "Spotify",
@@ -11,8 +11,8 @@
     {
       "added_at": "2026-01-22 22:00:25",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Aris",
+        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
       },
       "artists": [
         {
@@ -111,18 +111,22 @@
     {
       "added_at": "2026-01-22 22:00:25",
       "album": {
-        "name": "Magic City",
-        "url": "https://open.spotify.com/album/6F5zxzwlcpCHZKhKQto9sE"
+        "name": "Liekinheitin",
+        "url": "https://open.spotify.com/album/63W9IfvbNFYvIa1zswHqvL"
       },
       "artists": [
         {
-          "name": "Turisti",
-          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+          "name": "Linda Lampenius",
+          "url": "https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T"
+        },
+        {
+          "name": "Pete Parkkonen",
+          "url": "https://open.spotify.com/artist/7zX44fpv6srJt3HfBv0GCn"
         }
       ],
-      "duration_ms": 114937,
-      "name": "Kui paljon",
-      "url": "https://open.spotify.com/track/4rch7q4kFz6vqaNzt8FBj5"
+      "duration_ms": 180479,
+      "name": "Liekinheitin",
+      "url": "https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL"
     },
     {
       "added_at": "2026-01-22 22:00:25",
@@ -147,22 +151,34 @@
     {
       "added_at": "2026-01-22 22:00:25",
       "album": {
-        "name": "Liekinheitin",
-        "url": "https://open.spotify.com/album/63W9IfvbNFYvIa1zswHqvL"
+        "name": "Magic City",
+        "url": "https://open.spotify.com/album/6F5zxzwlcpCHZKhKQto9sE"
       },
       "artists": [
         {
-          "name": "Linda Lampenius",
-          "url": "https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T"
-        },
-        {
-          "name": "Pete Parkkonen",
-          "url": "https://open.spotify.com/artist/7zX44fpv6srJt3HfBv0GCn"
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
         }
       ],
-      "duration_ms": 180479,
-      "name": "Liekinheitin",
-      "url": "https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL"
+      "duration_ms": 114937,
+      "name": "Kui paljon",
+      "url": "https://open.spotify.com/track/4rch7q4kFz6vqaNzt8FBj5"
+    },
+    {
+      "added_at": "2026-01-22 22:00:25",
+      "album": {
+        "name": "Million Dollar Smile",
+        "url": "https://open.spotify.com/album/7v2aumxwZIVMH7bf26YGDq"
+      },
+      "artists": [
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Million Dollar Smile",
+      "url": "https://open.spotify.com/track/6kB0VQW17TAt7XddE7pkz5"
     },
     {
       "added_at": "2026-01-22 22:00:25",
@@ -219,22 +235,6 @@
       "duration_ms": 195194,
       "name": "T\u00e4hdet",
       "url": "https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ"
-    },
-    {
-      "added_at": "2026-01-22 22:00:25",
-      "album": {
-        "name": "Million Dollar Smile",
-        "url": "https://open.spotify.com/album/7v2aumxwZIVMH7bf26YGDq"
-      },
-      "artists": [
-        {
-          "name": "Etta",
-          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Million Dollar Smile",
-      "url": "https://open.spotify.com/track/6kB0VQW17TAt7XddE7pkz5"
     },
     {
       "added_at": "2026-01-22 22:00:25",
@@ -375,46 +375,6 @@
     {
       "added_at": "2026-01-22 22:00:25",
       "album": {
-        "name": "Rallikansa",
-        "url": "https://open.spotify.com/album/6LD8MbRnh2VrOg4SqTw5kD"
-      },
-      "artists": [
-        {
-          "name": "JVG",
-          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
-        }
-      ],
-      "duration_ms": 190025,
-      "name": "J\u00e4\u00e4p\u00e4h\u00e4n",
-      "url": "https://open.spotify.com/track/7L1rB3YL8wCNzwPK7OnyO4"
-    },
-    {
-      "added_at": "2026-01-22 22:00:25",
-      "album": {
-        "name": "Tello Tape",
-        "url": "https://open.spotify.com/album/5b69Boqtt3RD37IieDSoBB"
-      },
-      "artists": [
-        {
-          "name": "Danitello",
-          "url": "https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE"
-        },
-        {
-          "name": "Alina Burnet",
-          "url": "https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J"
-        },
-        {
-          "name": "JVG",
-          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
-        }
-      ],
-      "duration_ms": 196915,
-      "name": "Onks se v\u00e4\u00e4rin (feat. Alina Burnet & JVG)",
-      "url": "https://open.spotify.com/track/4KLDps1W298pw97KmTL17p"
-    },
-    {
-      "added_at": "2026-01-22 22:00:25",
-      "album": {
         "name": "20:30 (feat. Karim B)",
         "url": "https://open.spotify.com/album/5y6BneRhSd4OPJgF1BO1nG"
       },
@@ -451,6 +411,46 @@
       "duration_ms": 206999,
       "name": "Kuolisin sun kaa (feat. pehmoaino)",
       "url": "https://open.spotify.com/track/5CvuQeaaSG0V8lpUHNUggx"
+    },
+    {
+      "added_at": "2026-01-22 22:00:25",
+      "album": {
+        "name": "Rallikansa",
+        "url": "https://open.spotify.com/album/6LD8MbRnh2VrOg4SqTw5kD"
+      },
+      "artists": [
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+        }
+      ],
+      "duration_ms": 190025,
+      "name": "J\u00e4\u00e4p\u00e4h\u00e4n",
+      "url": "https://open.spotify.com/track/7L1rB3YL8wCNzwPK7OnyO4"
+    },
+    {
+      "added_at": "2026-01-22 22:00:25",
+      "album": {
+        "name": "Tello Tape",
+        "url": "https://open.spotify.com/album/5b69Boqtt3RD37IieDSoBB"
+      },
+      "artists": [
+        {
+          "name": "Danitello",
+          "url": "https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE"
+        },
+        {
+          "name": "Alina Burnet",
+          "url": "https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J"
+        },
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+        }
+      ],
+      "duration_ms": 196915,
+      "name": "Onks se v\u00e4\u00e4rin (feat. Alina Burnet & JVG)",
+      "url": "https://open.spotify.com/track/4KLDps1W298pw97KmTL17p"
     },
     {
       "added_at": "2026-01-22 22:00:25",
@@ -611,22 +611,18 @@
     {
       "added_at": "2026-01-22 22:00:25",
       "album": {
-        "name": "Clique La Lv",
-        "url": "https://open.spotify.com/album/2dSvQVodGZaLeDJ822DQNP"
+        "name": "NEED SUM MO",
+        "url": "https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe"
       },
       "artists": [
         {
-          "name": "VJ",
-          "url": "https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2"
-        },
-        {
-          "name": "YB026",
-          "url": "https://open.spotify.com/artist/4Qe6IKIsL2B1CeJ8q9a6Om"
+          "name": "M//O",
+          "url": "https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo"
         }
       ],
-      "duration_ms": 136500,
-      "name": "Clique La Lv",
-      "url": "https://open.spotify.com/track/3tdzSKOCHsCshuxitqeDZR"
+      "duration_ms": 111593,
+      "name": "MRR",
+      "url": "https://open.spotify.com/track/2GC6rk5C8xlSMz9Tv8S3KQ"
     },
     {
       "added_at": "2026-01-22 22:00:25",
@@ -663,18 +659,38 @@
     {
       "added_at": "2026-01-22 22:00:25",
       "album": {
-        "name": "NEED SUM MO",
-        "url": "https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe"
+        "name": "Clique La Lv",
+        "url": "https://open.spotify.com/album/2dSvQVodGZaLeDJ822DQNP"
       },
       "artists": [
         {
-          "name": "M//O",
-          "url": "https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo"
+          "name": "VJ",
+          "url": "https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2"
+        },
+        {
+          "name": "YB026",
+          "url": "https://open.spotify.com/artist/4Qe6IKIsL2B1CeJ8q9a6Om"
         }
       ],
-      "duration_ms": 111593,
-      "name": "MRR",
-      "url": "https://open.spotify.com/track/2GC6rk5C8xlSMz9Tv8S3KQ"
+      "duration_ms": 136500,
+      "name": "Clique La Lv",
+      "url": "https://open.spotify.com/track/3tdzSKOCHsCshuxitqeDZR"
+    },
+    {
+      "added_at": "2026-01-22 22:00:25",
+      "album": {
+        "name": "Pit\u00e4isk\u00f6 mun soittaa sille",
+        "url": "https://open.spotify.com/album/4OTutrhz68vKEcsK9uW640"
+      },
+      "artists": [
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        }
+      ],
+      "duration_ms": 154443,
+      "name": "Ik\u00e4v\u00e4 mua",
+      "url": "https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3"
     },
     {
       "added_at": "2026-01-22 22:00:25",
@@ -695,22 +711,6 @@
       "duration_ms": 174768,
       "name": "Mit\u00e4 t\u00e4nne j\u00e4\u00e4 - Unitas Sigma",
       "url": "https://open.spotify.com/track/75dWqDgep17BGqjc4ZeRsn"
-    },
-    {
-      "added_at": "2026-01-22 22:00:25",
-      "album": {
-        "name": "Pit\u00e4isk\u00f6 mun soittaa sille",
-        "url": "https://open.spotify.com/album/4OTutrhz68vKEcsK9uW640"
-      },
-      "artists": [
-        {
-          "name": "Bizi",
-          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
-        }
-      ],
-      "duration_ms": 154443,
-      "name": "Ik\u00e4v\u00e4 mua",
-      "url": "https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3"
     },
     {
       "added_at": "2026-01-22 22:00:25",
@@ -887,22 +887,18 @@
     {
       "added_at": "2026-01-22 22:00:25",
       "album": {
-        "name": "Luuleks (feat. Ares)",
-        "url": "https://open.spotify.com/album/5Nnn4fHocRguOixJkN2VEC"
+        "name": "P\u00f6yd\u00e4t k\u00e4\u00e4ntyy",
+        "url": "https://open.spotify.com/album/4sCu5cSceK9VHwQKrbqART"
       },
       "artists": [
         {
-          "name": "Sara Bee",
-          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
-        },
-        {
-          "name": "Ares",
-          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+          "name": "SHRTY",
+          "url": "https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2"
         }
       ],
-      "duration_ms": 183560,
-      "name": "Luuleks (feat. Ares)",
-      "url": "https://open.spotify.com/track/1dhyYodxrbpVw1UGpIIe3q"
+      "duration_ms": 148046,
+      "name": "Paremmin nyt",
+      "url": "https://open.spotify.com/track/5Qk2r9VPCloxC7h0ufY1wb"
     }
   ],
   "unique_name": "100 Suomi",

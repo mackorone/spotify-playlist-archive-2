@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Tutti Fenomeni + Tutti gli altri nuovi pezzi indie 👔
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,503 likes - 117 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,514 likes - 117 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 27 | [solo ancora per un po'](https://open.spotify.com/track/4CkKK2FPom2eCR1CjcSOV9) | [Corpoceleste](https://open.spotify.com/artist/7xVYEcgg58BT3A0Ty0DfDp), [acquachiara](https://open.spotify.com/artist/6U9FOduQDzwl0Uh9CQSiOi) | [solo ancora per un po'](https://open.spotify.com/album/2p2sGCnXpUsWE4NNKoKYo1) | 3:40 |
 | 28 | [Kundela Mawedi](https://open.spotify.com/track/3lGcSLtbK1vBbm7CbXWULD) | [Atabasca](https://open.spotify.com/artist/2vIpX7cPlF9qmWNac8TbKi) | [Kundela Mawedi](https://open.spotify.com/album/5AHhPN1GiSsxdlbBZmlThN) | 5:37 |
 | 29 | [Sempiterno Dolore](https://open.spotify.com/track/5ybpOYD3r3YeawJxZWEaCR) | [Joen](https://open.spotify.com/artist/4JHYiUGss4UMiiw2LbpkFO) | [Sempiterno Dolore](https://open.spotify.com/album/42YuTQxNTaKm9IhJvfPhWG) | 3:39 |
-| 30 | [magari quando nevica](https://open.spotify.com/track/1zybqxhlEeE9zr4brg31sy) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [IL BELLO E IL CATTIVO TEMPO](https://open.spotify.com/album/0owK9lmz98Xgi0GXj5ZO5K) | 2:37 |
+| 30 | [magari quando nevica](https://open.spotify.com/track/1zybqxhlEeE9zr4brg31sy) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [IL BELLO E IL CATTIVO TEMPO](https://open.spotify.com/album/0owK9lmz98Xgi0GXj5ZO5K) | 3:51 |
 | 31 | [Una festa al capezzale](https://open.spotify.com/track/15wt0WsXFzNptLS4ThFEOX) | [Glomarì](https://open.spotify.com/artist/7LRG0giU7EnricaEi0qEcm) | [Una festa al capezzale](https://open.spotify.com/album/33SaIA2dfhrxxcxaMzfB84) | 3:44 |
 | 32 | [Iperoggetti](https://open.spotify.com/track/2u7neR7G91f4mssNz3Fgen) | [Amrā](https://open.spotify.com/artist/0zRhSgIiwPQAJjmepNFJmV), [Coma](https://open.spotify.com/artist/2K6TBg4VeFmf4oXv9TxjOf) | [Iperpaesaggio](https://open.spotify.com/album/7JCpWVg5QcYrbaQXd8uG1i) | 3:11 |
 | 33 | [LE STORIE DEGLI ALTRI](https://open.spotify.com/track/77JflGtg6RqMX54rXZiEX5) | [Kandischi](https://open.spotify.com/artist/19OV4FdebODC4oWgHUW8BO) | [LE STORIE DEGLI ALTRI](https://open.spotify.com/album/1Nj0Kx7ikDq7zc42VdVz82) | 3:11 |

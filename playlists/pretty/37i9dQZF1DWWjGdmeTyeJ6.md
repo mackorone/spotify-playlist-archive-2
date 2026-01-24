@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Curated with love by human Spotify editors\. Featuring Death Lens.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,222,837 likes - 97 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,222,803 likes - 97 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

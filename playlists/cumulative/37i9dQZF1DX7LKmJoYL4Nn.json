@@ -2091,6 +2091,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season1 Crazy:B",
+        "url": "https://open.spotify.com/album/0LVSiV6lhKYnufCIws2bHJ"
+      },
+      "artists": [
+        {
+          "name": "Crazy:B/\u5929\u57ce \u71d0\u97f3(CV.\u963f\u5ea7\u4e0a \u6d0b\u5e73)\u3001HiMERU(CV.\u7b20\u9593 \u6df3)\u3001\u685c\u6cb3 \u3053\u306f\u304f(CV.\u6d77\u6e21 \u7ffc)\u3001\u690e\u540d \u30cb\u30ad(CV.\u5c71\u53e3 \u667a\u5e83)",
+          "url": "https://open.spotify.com/artist/5PaMXRPWxlUL5Q0u0gQ8ej"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260066,
+      "name": "PARANOIA STREET",
+      "url": "https://open.spotify.com/track/7ugJfMl0jUJEUUI5cIdoeG"
+    },
+    {
+      "album": {
         "name": "UNDEAD \u2715 \u7d05\u6708\u300cPERFECTLY-IMPERFECT\u300d \u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 FUSION UNIT SERIES 05",
         "url": "https://open.spotify.com/album/31UVpdisEESvYUldPaL0Gq"
       },
@@ -2264,7 +2282,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 281386,
       "name": "RISKY VENUS",
       "url": "https://open.spotify.com/track/5GrzF7LHTKa4Uwf0H00rIC"
@@ -2282,7 +2300,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 150365,
       "name": "ROCK ROAR - Game Edit",
       "url": "https://open.spotify.com/track/6ScjwtZQgKtgG7KVIJZAgk"
@@ -3318,7 +3336,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 343532,
       "name": "\u30b9\u30bf\u30fc\u30e9\u30a4\u30c8\u30d1\u30ec\u30fc\u30c9",
       "url": "https://open.spotify.com/track/5ouz6eWbjO2FP8bQIu1VIj"

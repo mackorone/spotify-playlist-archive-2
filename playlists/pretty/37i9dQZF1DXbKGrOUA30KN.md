@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: Wincent Weiss
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,760 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 654,769 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 2 | [Krieger](https://open.spotify.com/track/1SpJ2v6bGSbfybJ8GkBGy9) | [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8) | [Krieger](https://open.spotify.com/album/7EsgfZgm94EnjIM73IsTSw) | 2:01 |
 | 3 | [Niemand ist wie du](https://open.spotify.com/track/5pUHH09wavdCzEEQaFxx5Y) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Niemand ist wie du](https://open.spotify.com/album/10Vaf4MwKnRAmFAZCcBice) | 2:23 |
 | 4 | [tempo](https://open.spotify.com/track/7w2QhLdDSUK4T140YEIGEw) | [ELEHA](https://open.spotify.com/artist/56mSZjn1q0tcYyC1N2c7TT) | [tempo](https://open.spotify.com/album/4qBF8JWfH4beWAun8VKdcl) | 2:24 |
-| 5 | [Tagebuch](https://open.spotify.com/track/0GaDX0zRG9z5qID6sdt5EN) | [LINA](https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8) | [](https://open.spotify.com/album/null) | 3:23 |
+| 5 | [Tagebuch](https://open.spotify.com/track/0GaDX0zRG9z5qID6sdt5EN) | [LINA](https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8) | [Melodrama](https://open.spotify.com/album/1l5EGHMOPkmnKcYEi5DHwV) | 3:23 |
 | 6 | [Herzerwärmend](https://open.spotify.com/track/05GvJcVS8Opytkl0jhu3uu) | [elia](https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I) | [Herzerwärmend](https://open.spotify.com/album/1TVhg8z7fzwxfr2x1RDpvr) | 2:18 |
 | 7 | [1000 Mal](https://open.spotify.com/track/6L25piLdJ2vrxugmPis0V7) | [Leona Shijaku](https://open.spotify.com/artist/2SPGwFrMaYqLLe3sMorkAj) | [1000 Mal](https://open.spotify.com/album/1tZX5gd6HW2ueFVr7ACFPN) | 2:50 |
 | 8 | [heimkommen](https://open.spotify.com/track/23hkINwIA9UA9GVwfRneIo) | [Lea Marie](https://open.spotify.com/artist/5XIF2l3hXty0qWMNR58Bqk) | [heimkommen](https://open.spotify.com/album/1bNvs6IMhOHHmnYBSPcsn9) | 3:01 |
-| 9 | [Kopf hoch](https://open.spotify.com/track/1ASMUMgD4uqoVmajpLKywC) | [Tim Bendzko](https://open.spotify.com/artist/3xDVmZmDpaF1uuez2N7mKl) | [](https://open.spotify.com/album/null) | 3:01 |
+| 9 | [Kopf hoch](https://open.spotify.com/track/1ASMUMgD4uqoVmajpLKywC) | [Tim Bendzko](https://open.spotify.com/artist/3xDVmZmDpaF1uuez2N7mKl) | [Alles, nur nicht zurück](https://open.spotify.com/album/63EgzAg5HnaGKrgg9AZJAZ) | 3:01 |
 | 10 | [nie wieder so jung](https://open.spotify.com/track/0tsXOM0LALgBgtO1whk7DD) | [LARA](https://open.spotify.com/artist/5sJwUJdjiGahgdLEVf81MF) | [nie wieder so jung](https://open.spotify.com/album/4yujL9P445VnK9FqQn6N8W) | 2:21 |
 | 11 | [Geheimnis](https://open.spotify.com/track/31Tx7OHXWHZDf4gMLt4RYI) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Geheimnis](https://open.spotify.com/album/70khccdVKWgQyOeCZoBjeF) | 3:24 |
 | 12 | [Deinetwegen](https://open.spotify.com/track/43V5V7pkANeJJqal5jOwXO) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [Deinetwegen](https://open.spotify.com/album/7acsxFEaAFF6fdGCpEq5Gq) | 3:04 |

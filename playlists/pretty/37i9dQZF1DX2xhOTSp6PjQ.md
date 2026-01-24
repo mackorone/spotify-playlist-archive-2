@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover: Mjolisi
+> Khuphuka lapho… seku\-late! Cover: Feza
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,873 likes - 95 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,981 likes - 95 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ngixolele Mtanami](https://open.spotify.com/track/1FUVQbcP23lIgLSTY2r8SV) | [Nkeshemba](https://open.spotify.com/artist/5mcQQWaTilvZ99xmDg9LCU) | [Ngixolele Mtanami](https://open.spotify.com/album/0bwC0CgvUytpJqQfiaGnRw) | 4:24 |
-| 2 | [Uyoncengwa Unyoko](https://open.spotify.com/track/3H2sEc2EOfjeptg8pPPTlx) | [Umafikizolo](https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K) | [Uyoncengwa Unyoko](https://open.spotify.com/album/1g27w7a8gIRlcmQLIcO4Dq) | 4:19 |
-| 3 | [Cishe Ngafa](https://open.spotify.com/track/6UV9rc1Ww8lpWQs1sX8oBH) | [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr) | [Inganono](https://open.spotify.com/album/3oVTnz7380WdmEvsrUYHGp) | 4:17 |
-| 4 | [Inteng'dinayo](https://open.spotify.com/track/2OzioXFHANF9ySP8MEUrVZ) | [Falabo](https://open.spotify.com/artist/1tlK89N9NdqIWVXRSyClAw) | [Inteng'dinayo](https://open.spotify.com/album/4rVLH67fT6kNaxt2TcbE2L) | 3:12 |
-| 5 | [UNIKHODIMA](https://open.spotify.com/track/1x4yHR7HJ0ZQCQVjXb2Vc8) | [NHLOSO KHWELA](https://open.spotify.com/artist/1PoCttTLXvpmlzQBpVnli7), [Shenge wasehlalankosi](https://open.spotify.com/artist/1HYT018xvnsRBu6QvZmlcS) | [UNIKHODIMA](https://open.spotify.com/album/5QuSNX1DQuEkWkwjwsKrkJ) | 4:25 |
-| 6 | [Umaqondana](https://open.spotify.com/track/2KvVTO2N5a0zKMlDZZMBOK) | [Feza](https://open.spotify.com/artist/1UwTwoC4T1i6vzwsQgIWB0) | [Inkanyezi](https://open.spotify.com/album/3nPujMA2fT8W8MKRi4rNzt) | 4:31 |
+| 1 | [Umaqondana](https://open.spotify.com/track/2KvVTO2N5a0zKMlDZZMBOK) | [Feza](https://open.spotify.com/artist/1UwTwoC4T1i6vzwsQgIWB0) | [Inkanyezi](https://open.spotify.com/album/3nPujMA2fT8W8MKRi4rNzt) | 4:31 |
+| 2 | [Ngixolele Mtanami](https://open.spotify.com/track/1FUVQbcP23lIgLSTY2r8SV) | [Nkeshemba](https://open.spotify.com/artist/5mcQQWaTilvZ99xmDg9LCU) | [Ngixolele Mtanami](https://open.spotify.com/album/0bwC0CgvUytpJqQfiaGnRw) | 4:24 |
+| 3 | [Uyoncengwa Unyoko](https://open.spotify.com/track/3H2sEc2EOfjeptg8pPPTlx) | [Umafikizolo](https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K) | [Uyoncengwa Unyoko](https://open.spotify.com/album/1g27w7a8gIRlcmQLIcO4Dq) | 4:19 |
+| 4 | [Cishe Ngafa](https://open.spotify.com/track/6UV9rc1Ww8lpWQs1sX8oBH) | [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr) | [Inganono](https://open.spotify.com/album/3oVTnz7380WdmEvsrUYHGp) | 4:17 |
+| 5 | [Inteng'dinayo](https://open.spotify.com/track/2OzioXFHANF9ySP8MEUrVZ) | [Falabo](https://open.spotify.com/artist/1tlK89N9NdqIWVXRSyClAw) | [Inteng'dinayo](https://open.spotify.com/album/4rVLH67fT6kNaxt2TcbE2L) | 3:12 |
+| 6 | [UNIKHODIMA](https://open.spotify.com/track/1x4yHR7HJ0ZQCQVjXb2Vc8) | [NHLOSO KHWELA](https://open.spotify.com/artist/1PoCttTLXvpmlzQBpVnli7), [Shenge wasehlalankosi](https://open.spotify.com/artist/1HYT018xvnsRBu6QvZmlcS) | [UNIKHODIMA](https://open.spotify.com/album/5QuSNX1DQuEkWkwjwsKrkJ) | 4:25 |
 | 7 | [Abasemzini](https://open.spotify.com/track/0CJJt0J9SOscYKzETJ0p4d) | [Umketule](https://open.spotify.com/artist/69trV3Y6hPvHULI7kHXC3y), [Jikijiki](https://open.spotify.com/artist/1NtILDTbvfbNKZF9OIjdCR) | [Abasemzini](https://open.spotify.com/album/3Nayxjqvi8EfRTYy7ZGPX3) | 5:17 |
 | 8 | [ISAZOCHOMELANA \(feat\. Boohle\)](https://open.spotify.com/track/4Psri1pSsv7OiH4B6hZUa2) | [Inkos'yamagcokama](https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [TRUE COLOURS](https://open.spotify.com/album/7MVUr7a9jWPdH5EJJLGnJh) | 5:04 |
 | 9 | [Ishende](https://open.spotify.com/track/4TZ54lOYr8NhFf5MqW6hjw) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61), [Lwa Ndlunkulu](https://open.spotify.com/artist/2uPnb4ndCU4NOKjhlpLdjd) | [Intshebe Noka Manana](https://open.spotify.com/album/01WyYaZ2PHt9FREGzll0MM) | 4:36 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 94 | [Inja Nodogo](https://open.spotify.com/track/7CiL2zVTGVrJYT7tcVk0dl) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Inja Nogodo](https://open.spotify.com/album/1i1JkpUl5vILSSLKwsVHAO) | 4:15 |
 | 95 | [Sukuma Mkami Bakubone](https://open.spotify.com/track/0O5LuQXAfihaOA3TFxYt3C) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Ivila Laselawini](https://open.spotify.com/album/278BIRWbQrUNkDwC3gN56e) | 4:26 |
 
-Snapshot ID: `AAAAAJLrH9wZyOIlDqw8PInX4QSejD80`
+Snapshot ID: `AAAAANxXWLQJa4W+sj3hGE0tgG7SQNDb`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: Dermot Kennedy
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,588 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,594 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 4 | [Younger Me](https://open.spotify.com/track/1fMWzWI7K2oqAn3kXUBUt3) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [Younger Me](https://open.spotify.com/album/2zRLGs14hQXgHzP4ozQGaJ) | 3:48 |
 | 5 | [VET](https://open.spotify.com/track/3WrGCvUlj1r2pXJ8VgejXQ) | [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly) | [VET](https://open.spotify.com/album/0XBl1ryxXPcGJbPLzIw7fA) | 2:20 |
 | 6 | [Little Sister](https://open.spotify.com/track/70sAF0LKlyGKPnhZiJQhmn) | [Ellie O'Neill](https://open.spotify.com/artist/7FCg4FGsuJfM2o6aE83UHw) | [Little Sister](https://open.spotify.com/album/3657LoEPLQBQ1R4Crb3lq5) | 4:57 |
-| 7 | [The Man Who Seeks Pleasure](https://open.spotify.com/track/32msSh7ipShC5euqD5Yc9O) | [Madra Salach](https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp) | [Its a Hell of an Age](https://open.spotify.com/album/6oZmZb6MX4lhYPN6v3sD2S) | 6:10 |
+| 7 | [The Man Who Seeks Pleasure](https://open.spotify.com/track/32msSh7ipShC5euqD5Yc9O) | [Madra Salach](https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp) | [It's a Hell of an Age](https://open.spotify.com/album/6oZmZb6MX4lhYPN6v3sD2S) | 6:10 |
 | 8 | [Into You](https://open.spotify.com/track/32jlL8mVwPu53xYYDxpLS6) | [Zaska](https://open.spotify.com/artist/3gzJlKscDvfqlV0z1B5g8k), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Into You](https://open.spotify.com/album/1hZ3bCY29MblTl9bsQkcRj) | 5:21 |
 | 9 | [Anna with the Silver Arrow](https://open.spotify.com/track/3fDuCJ6BSgPkoPni8rvpei) | [Ellie O'Neill](https://open.spotify.com/artist/7FCg4FGsuJfM2o6aE83UHw) | [Anna with the Silver Arrow](https://open.spotify.com/album/0OqErnPXI4h32uo7xh59j8) | 3:44 |
 | 10 | [Lovey](https://open.spotify.com/track/0AQKOi0Q0Dn2Ez15xRQYaX) | [Burglar](https://open.spotify.com/artist/1crXzUsGgiuxMRoWyjTl4i) | [Lovey](https://open.spotify.com/album/3A8J8WKiPDt3OedYMUMOv0) | 3:13 |

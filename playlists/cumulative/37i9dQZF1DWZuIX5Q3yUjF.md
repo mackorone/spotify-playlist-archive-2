@@ -4,7 +4,7 @@
 
 > Siddy in cover della playlist dell'R&B italiano 🫀
 
-970 songs - 1 day 23 hr 48 min
+970 songs - 1 day 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -503,7 +503,7 @@
 | [Ma non adesso](https://open.spotify.com/track/7LVIJLuM7agM4C32LivEYX) | [JeBel](https://open.spotify.com/artist/3V3DPjpU2au75BqpnX1HwI) | [Ma non adesso](https://open.spotify.com/album/5c5y9fkL7WNktLPPQLvQ8k) | 2:59 | 2023-10-26 | 2024-02-02 |
 | [MA' \(feat\. Tormento\)](https://open.spotify.com/track/6v73Nrui5JfgAVGlis1pct) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L) | [MA' \(feat\. Tormento\)](https://open.spotify.com/album/5dcpfTZ1NHNrj3A7F5i32K) | 2:53 | 2023-12-14 | 2024-02-02 |
 | [macchina da corsa](https://open.spotify.com/track/5LAsCISaBOOS60uNlVvdUI) | [gnvra](https://open.spotify.com/artist/0HdDGvPohyWskzqRBOWU4S) | [macchina da corsa](https://open.spotify.com/album/1WgOQY2LAfMnOrQRgpRQix) | 2:19 | 2025-07-03 | 2025-09-19 |
-| [magari quando nevica](https://open.spotify.com/track/1zybqxhlEeE9zr4brg31sy) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [IL BELLO E IL CATTIVO TEMPO](https://open.spotify.com/album/0owK9lmz98Xgi0GXj5ZO5K) | 2:37 | 2026-01-22 |  |
+| [magari quando nevica](https://open.spotify.com/track/1zybqxhlEeE9zr4brg31sy) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [IL BELLO E IL CATTIVO TEMPO](https://open.spotify.com/album/0owK9lmz98Xgi0GXj5ZO5K) | 3:51 | 2026-01-22 |  |
 | [Mai](https://open.spotify.com/track/49yoO2ALwofOHJnMO5ufUy) | [Santé](https://open.spotify.com/artist/55EIo5yMfuqGqppQzEBep1) | [Mai](https://open.spotify.com/album/15yYnAkNRCm31esmGNf6ew) | 2:36 | 2023-06-08 | 2024-05-10 |
 | [MaiMai](https://open.spotify.com/track/7wQw4FZ9Gx9Jsmsr9kuk18) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [MaiMai](https://open.spotify.com/album/0N0eyvXySVkHm43vO2vYS7) | 2:38 | 2023-06-01 | 2023-07-14 |
 | [Mal di testa](https://open.spotify.com/track/3CXbnnGSNSBZ4cBhHdnVc5) | [Sofia](https://open.spotify.com/artist/4T5t1RTDYfbyshE3hGlb4D) | [Mal di testa](https://open.spotify.com/album/3UhrMNEvpct8rQ3CHbQae1) | 2:54 | 2025-09-18 | 2025-11-14 |

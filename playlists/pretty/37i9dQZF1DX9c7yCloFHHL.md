@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new, contemporary Ambient, Atmospheric & Neo\-Classical 🪐 Cover: Hania Rani
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,369 likes - 101 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,674 likes - 101 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 100 | [Developments 1: Forms](https://open.spotify.com/track/1ZkujmSEFMIVTvETNPORSu) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt), [Patrik Berg Almkvisth](https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo) | [Developments 1: Forms](https://open.spotify.com/album/1jcds6UdJYiJ7HGd0RPvTK) | 3:34 |
 | 101 | [Specular](https://open.spotify.com/track/0Z9S0hJ7MEBQAqJEwuyqLW) | [Rhian Sheehan](https://open.spotify.com/artist/0H1edn1doFZiHiu2INB2CT), [Arli Liberman](https://open.spotify.com/artist/3gVNQN1b6HpdFzMbo2jE5k) | [Traces](https://open.spotify.com/album/7MUo9bDoliYraZdayic0pa) | 6:56 |
 
-Snapshot ID: `AAAAAF3oykVIeDa59MxNNvVTy74fDTFX`
+Snapshot ID: `AAAAAGXl5DwSXIrhAjGQ2iXrB3niIJo3`

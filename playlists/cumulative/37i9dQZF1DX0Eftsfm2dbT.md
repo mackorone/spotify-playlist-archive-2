@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: ¥ellow Bucks
 
-2,198 songs - 4 day 14 hr 54 min
+2,199 songs - 4 day 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1684,6 +1684,7 @@
 | [SUPER NOVA](https://open.spotify.com/track/44O90djv2md6Jy4XQ2VHFF) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [SUPER NOVA](https://open.spotify.com/album/22BVomDU9uOVNKiZwTOlLK) | 2:48 | 2025-01-28 | 2025-02-26 |
 | [Super Shine](https://open.spotify.com/track/6EjifPIQSrnhYgv9t19tVn) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [Super Shine](https://open.spotify.com/album/6PF8NX9Z37bL24a1bJgsAt) | 3:12 | 2025-05-28 | 2025-08-13 |
 | [SUPER STAR \(feat\. Red Eye, TOKYO世界 & 般若\)](https://open.spotify.com/track/44hL1zjx9gw0K6lrdj9OVs) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [Red Eye](https://open.spotify.com/artist/4yu1crXDHBTb27yiM5otx5), [TOKYO世界](https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf), [Hannya](https://open.spotify.com/artist/6hFoHM39PZxkJ0eKfaeeqh) | [SUPER STAR \(feat\. Red Eye, TOKYO世界 & 般若\)](https://open.spotify.com/album/22rllk83QbS6e5xYzqFhcd) | 3:15 | 2025-10-07 | 2025-11-05 |
+| [SUPERPOWER](https://open.spotify.com/track/4zyHEn4Y2v2b1OSI1XCGPI) | [Issei Uno Fifth](https://open.spotify.com/artist/3ChsBdunsttUJkFhSKRhfq) | [SUPERPOWER](https://open.spotify.com/album/59bZTwbP5bkzmszQpPxylL) | 2:38 | 2026-01-22 |  |
 | [Survive & Celebrate](https://open.spotify.com/track/17qL182rBojO9NChMBHxd5) | [Moment Joon](https://open.spotify.com/artist/2FmmcFD4xNpAZGiDPizWll), [EASTA](https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO), [hokuto](https://open.spotify.com/artist/76cI3VsDNJoORPA84esBZP) | [Survive & Celebrate](https://open.spotify.com/album/4sDQvq9jYUqz7zG7xXHfmE) | 3:48 | 2024-07-16 | 2024-07-31 |
 | [Sushi](https://open.spotify.com/track/3fJVsH4ZDRt0yMiwtFbL2J) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [Sushi](https://open.spotify.com/album/1jJbH5RQ99unV2ECjGyBER) | 2:32 | 2024-06-18 | 2024-07-05 |
 | [SVMMER](https://open.spotify.com/track/2fNlVHxp2t2cjT49tTWqv1) | [ShowyRENZO](https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4) | [HELL IN 東京](https://open.spotify.com/album/3n2plpSXZpKcmmPmQjzUbr) | 2:29 | 2024-08-07 | 2024-08-09 |

@@ -487,6 +487,28 @@
     },
     {
       "album": {
+        "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193667,
+      "name": "ARCOBALENO (feat. Anuel AA)",
+      "url": "https://open.spotify.com/track/6JE8qB33bwbb6kLK7YjndA"
+    },
+    {
+      "album": {
         "name": "Santana Season",
         "url": "https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG"
       },
@@ -560,6 +582,24 @@
       "duration_ms": 162252,
       "name": "BALENCIAGA (feat. Rose Villain)",
       "url": "https://open.spotify.com/track/3CkSjcLg06YdhYniyVin62"
+    },
+    {
+      "album": {
+        "name": "Ballando Con Te",
+        "url": "https://open.spotify.com/album/7wP30X1uVRN1yEjKO4DfRo"
+      },
+      "artists": [
+        {
+          "name": "Chicoboyah",
+          "url": "https://open.spotify.com/artist/1fBkKzgI3Bl1R2ePXRAcTW"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Ballando Con Te",
+      "url": "https://open.spotify.com/track/2i80maftqYWVSRst3reXCo"
     },
     {
       "album": {
@@ -1748,7 +1788,7 @@
       ],
       "date_added": "2025-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 203923,
       "name": "F*ck Love",
       "url": "https://open.spotify.com/track/7BZ5YmSnyfMzw3q9RI4MHk"
@@ -5088,7 +5128,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 185426,
       "name": "Vogl Sul A Te",
       "url": "https://open.spotify.com/track/4JajIgqHJAV0Neboj76fqG"

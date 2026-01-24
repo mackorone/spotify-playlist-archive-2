@@ -1,13 +1,29 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 233531,
+  "num_followers": 233505,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIBg9ZxWz7RrHva8W5pXjeTT+HFa",
+  "snapshot_id": "AAAAABpMpl3K87utI0wBBNrGJXUpIOXj",
   "tracks": [
+    {
+      "added_at": "2026-01-23 05:00:22",
+      "album": {
+        "name": "BREATHE!",
+        "url": "https://open.spotify.com/album/2DK3WE4fJz4YgvaPz4ZXkw"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 209395,
+      "name": "BREATHE!",
+      "url": "https://open.spotify.com/track/7pQ5f4zkmaS5G264xtbCvf"
+    },
     {
       "added_at": "2026-01-16 05:00:36",
       "album": {
@@ -348,7 +364,7 @@
           "url": "https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ"
         }
       ],
-      "duration_ms": 257760,
+      "duration_ms": 257761,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/5Rty3bOR625NBZXPmwOhJ9"
     },

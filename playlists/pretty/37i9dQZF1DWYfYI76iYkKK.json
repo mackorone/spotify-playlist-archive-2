@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 130707,
+  "num_followers": 130709,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGgfo2G5M25KaRRgUW50EVGIMl8D",
+  "snapshot_id": "AAAAALgS6c+wb33iMg9V6FBznfnTEjY4",
   "tracks": [
     {
       "added_at": "2026-01-15 16:00:27",
@@ -107,22 +107,18 @@
     {
       "added_at": "2026-01-15 16:00:27",
       "album": {
-        "name": "\u505a\u6211\u7684\u521d\u6200\uff08\u7d14\u611b\u4e0d\u63d2\u96fb\uff09",
-        "url": "https://open.spotify.com/album/6c7wFSp80wogFSImEgRSK5"
+        "name": "\u518d\u898b\u7684\u6642\u5019 (\u96fb\u5f71\u3008\u967d\u5149\u5973\u5b50\u5408\u5531\u5718\u3009\u4e3b\u984c\u66f2-\u518d\u898b\u7248)",
+        "url": "https://open.spotify.com/album/6a1qQ7TMu8Gwj3yijI5xHF"
       },
       "artists": [
         {
-          "name": "PIZZALI",
-          "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
-        },
-        {
-          "name": "JOYCE \u5c31\u4ee5\u65af",
-          "url": "https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv"
+          "name": "Pei-Yu Hung",
+          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
         }
       ],
-      "duration_ms": 197954,
-      "name": "\u505a\u6211\u7684\u521d\u6200 (\u7d14\u611b\u4e0d\u63d2\u96fb)",
-      "url": "https://open.spotify.com/track/0QTVDDZFhLRyFKqgmphkms"
+      "duration_ms": 234614,
+      "name": "\u518d\u898b\u7684\u6642\u5019 - \u96fb\u5f71\u3008\u967d\u5149\u5973\u5b50\u5408\u5531\u5718\u3009\u4e3b\u984c\u66f2-\u518d\u898b\u7248",
+      "url": "https://open.spotify.com/track/3IBYp3fKyydZ5dDtirLY6P"
     },
     {
       "added_at": "2026-01-15 16:00:27",
@@ -143,18 +139,22 @@
     {
       "added_at": "2026-01-15 16:00:27",
       "album": {
-        "name": "\u518d\u898b\u7684\u6642\u5019 (\u96fb\u5f71\u3008\u967d\u5149\u5973\u5b50\u5408\u5531\u5718\u3009\u4e3b\u984c\u66f2-\u518d\u898b\u7248)",
-        "url": "https://open.spotify.com/album/6a1qQ7TMu8Gwj3yijI5xHF"
+        "name": "\u505a\u6211\u7684\u521d\u6200\uff08\u7d14\u611b\u4e0d\u63d2\u96fb\uff09",
+        "url": "https://open.spotify.com/album/6c7wFSp80wogFSImEgRSK5"
       },
       "artists": [
         {
-          "name": "Pei-Yu Hung",
-          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
+          "name": "PIZZALI",
+          "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
+        },
+        {
+          "name": "JOYCE \u5c31\u4ee5\u65af",
+          "url": "https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv"
         }
       ],
-      "duration_ms": 234614,
-      "name": "\u518d\u898b\u7684\u6642\u5019 - \u96fb\u5f71\u3008\u967d\u5149\u5973\u5b50\u5408\u5531\u5718\u3009\u4e3b\u984c\u66f2-\u518d\u898b\u7248",
-      "url": "https://open.spotify.com/track/3IBYp3fKyydZ5dDtirLY6P"
+      "duration_ms": 197954,
+      "name": "\u505a\u6211\u7684\u521d\u6200 (\u7d14\u611b\u4e0d\u63d2\u96fb)",
+      "url": "https://open.spotify.com/track/0QTVDDZFhLRyFKqgmphkms"
     },
     {
       "added_at": "2026-01-15 16:00:27",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-01-15 16:00:27",
       "album": {
-        "name": "\u541b",
-        "url": "https://open.spotify.com/album/3nsFQo4sPQ9XbZxMsh9Oed"
-      },
-      "artists": [
-        {
-          "name": "\u55ae\u4f9d\u7d14",
-          "url": "https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD"
-        }
-      ],
-      "duration_ms": 168471,
-      "name": "\u541b",
-      "url": "https://open.spotify.com/track/4XLW8SQNciud0pTp7Urj49"
-    },
-    {
-      "added_at": "2026-01-15 16:00:27",
-      "album": {
         "name": "If Only...",
         "url": "https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y"
       },
@@ -603,18 +587,18 @@
     {
       "added_at": "2026-01-15 16:00:27",
       "album": {
-        "name": "\u4e0d\u4f54\u5730\u65b9",
-        "url": "https://open.spotify.com/album/5tv6XsgJYFkTp39m61b7Fm"
+        "name": "\u541b",
+        "url": "https://open.spotify.com/album/3nsFQo4sPQ9XbZxMsh9Oed"
       },
       "artists": [
         {
-          "name": "Pei-Yu Hung",
-          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
+          "name": "\u55ae\u4f9d\u7d14",
+          "url": "https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD"
         }
       ],
-      "duration_ms": 279444,
-      "name": "\u4e0d\u4f54\u5730\u65b9",
-      "url": "https://open.spotify.com/track/4l9N4XgueomoOoYe3us98d"
+      "duration_ms": 168471,
+      "name": "\u541b",
+      "url": "https://open.spotify.com/track/4XLW8SQNciud0pTp7Urj49"
     },
     {
       "added_at": "2026-01-15 16:00:27",
@@ -631,6 +615,22 @@
       "duration_ms": 208000,
       "name": "\u4e00\u8d77\u6d6a\u8cbb\u6642\u5149\u7684\u5b89\u5168\u611f",
       "url": "https://open.spotify.com/track/5yS3QUbj5ukfTVETtGmyGJ"
+    },
+    {
+      "added_at": "2026-01-15 16:00:27",
+      "album": {
+        "name": "\u4e0d\u4f54\u5730\u65b9",
+        "url": "https://open.spotify.com/album/5tv6XsgJYFkTp39m61b7Fm"
+      },
+      "artists": [
+        {
+          "name": "Pei-Yu Hung",
+          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
+        }
+      ],
+      "duration_ms": 279444,
+      "name": "\u4e0d\u4f54\u5730\u65b9",
+      "url": "https://open.spotify.com/track/4l9N4XgueomoOoYe3us98d"
     },
     {
       "added_at": "2026-01-15 16:00:27",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-01-15 16:00:27",
       "album": {
-        "name": "a piece of peace",
-        "url": "https://open.spotify.com/album/0cbtcUKQDGyd1zNWJo4CuY"
-      },
-      "artists": [
-        {
-          "name": "Anni Hung",
-          "url": "https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "\u4e0d\u662f\u4f60\u60f3\u50cf\u7684\u90a3\u7a2e\u597d\u4eba",
-      "url": "https://open.spotify.com/track/7BTWULmMfJ3SFAmb9CJEF9"
-    },
-    {
-      "added_at": "2026-01-15 16:00:27",
-      "album": {
         "name": "\u8327Jian",
         "url": "https://open.spotify.com/album/7w8cW1IqQCo8xKhXmG6313"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 199282,
       "name": "\u8327Jian",
       "url": "https://open.spotify.com/track/5AtzX2REgyt6hgduniGMZX"
+    },
+    {
+      "added_at": "2026-01-15 16:00:27",
+      "album": {
+        "name": "a piece of peace",
+        "url": "https://open.spotify.com/album/0cbtcUKQDGyd1zNWJo4CuY"
+      },
+      "artists": [
+        {
+          "name": "Anni Hung",
+          "url": "https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "\u4e0d\u662f\u4f60\u60f3\u50cf\u7684\u90a3\u7a2e\u597d\u4eba",
+      "url": "https://open.spotify.com/track/7BTWULmMfJ3SFAmb9CJEF9"
     },
     {
       "added_at": "2026-01-15 16:00:27",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-01-15 16:00:27",
       "album": {
+        "name": "\u8f38\u60c5\u6b4c",
+        "url": "https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV"
+      },
+      "artists": [
+        {
+          "name": "J.Sheon",
+          "url": "https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9"
+        }
+      ],
+      "duration_ms": 224653,
+      "name": "\u8f38\u60c5\u6b4c",
+      "url": "https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8"
+    },
+    {
+      "added_at": "2026-01-15 16:00:27",
+      "album": {
         "name": "Same Stories, Different Narratives",
         "url": "https://open.spotify.com/album/0r2OL5wdLUFAetMaihWFoZ"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 272424,
       "name": "\u5fc3\u81df\u7684\u53f3\u908a / Right Side of My Heart (feat. \u9b4f\u5982\u8431)",
       "url": "https://open.spotify.com/track/4FKYYP70R2bAt6X9po9h54"
-    },
-    {
-      "added_at": "2026-01-15 16:00:27",
-      "album": {
-        "name": "\u8f38\u60c5\u6b4c",
-        "url": "https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV"
-      },
-      "artists": [
-        {
-          "name": "J.Sheon",
-          "url": "https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9"
-        }
-      ],
-      "duration_ms": 224653,
-      "name": "\u8f38\u60c5\u6b4c",
-      "url": "https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8"
     },
     {
       "added_at": "2026-01-15 16:00:27",

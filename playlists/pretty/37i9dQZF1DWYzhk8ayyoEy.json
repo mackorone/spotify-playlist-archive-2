@@ -1,12 +1,12 @@
 {
   "description": "Warm, inspirational pop, that's good at heart.  Cover: Alex Warren ",
-  "num_followers": 53186,
+  "num_followers": 53220,
   "original_name": "shine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACFI8303vMJN0Irza1onNz+rr9y9",
+  "snapshot_id": "AAAAACU+6vk+BtdTOG/0/l6s1ZvFRQo9",
   "tracks": [
     {
       "added_at": "2025-02-07 05:00:27",
@@ -23,6 +23,38 @@
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
+    },
+    {
+      "added_at": "2026-01-23 05:00:13",
+      "album": {
+        "name": "Jamie MacDonald",
+        "url": "https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp"
+      },
+      "artists": [
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        }
+      ],
+      "duration_ms": 189593,
+      "name": "Won't Let Go",
+      "url": "https://open.spotify.com/track/4pRJMNLtar65GtT9vpzHu4"
+    },
+    {
+      "added_at": "2026-01-23 05:54:57",
+      "album": {
+        "name": "I\u2019m Good (From The Movie \u201cGOAT\u201d)",
+        "url": "https://open.spotify.com/album/45mBhso0bpjGCjrHoQ9Tpa"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 179666,
+      "name": "I\u2019m Good - From The Movie \u201cGOAT\u201d",
+      "url": "https://open.spotify.com/track/4Rse4e9moG5PKR61F7ah28"
     },
     {
       "added_at": "2026-01-05 15:47:04",
@@ -77,20 +109,20 @@
       "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
     },
     {
-      "added_at": "2026-01-16 05:00:19",
+      "added_at": "2026-01-23 05:00:13",
       "album": {
-        "name": "My Empire",
-        "url": "https://open.spotify.com/album/0DGTlvusRCwOPfBy1MlopK"
+        "name": "A Light That Waits",
+        "url": "https://open.spotify.com/album/6KCQ2KCGBL9dByWTy4Qdh6"
       },
       "artists": [
         {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
         }
       ],
-      "duration_ms": 220956,
-      "name": "My Empire",
-      "url": "https://open.spotify.com/track/2TOIyy0CYudM0YMwT7gPE3"
+      "duration_ms": 203000,
+      "name": "A Light That Waits",
+      "url": "https://open.spotify.com/track/58gVmfPYnafwxolIaPPqDo"
     },
     {
       "added_at": "2025-11-14 05:02:35",
@@ -189,6 +221,22 @@
       "url": "https://open.spotify.com/track/0hrMXI5eGWHCPKLqOetknM"
     },
     {
+      "added_at": "2026-01-16 05:00:19",
+      "album": {
+        "name": "My Empire",
+        "url": "https://open.spotify.com/album/0DGTlvusRCwOPfBy1MlopK"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "duration_ms": 220956,
+      "name": "My Empire",
+      "url": "https://open.spotify.com/track/2TOIyy0CYudM0YMwT7gPE3"
+    },
+    {
       "added_at": "2025-11-07 21:47:34",
       "album": {
         "name": "Days Like This",
@@ -283,22 +331,6 @@
       "duration_ms": 244930,
       "name": "HEARTLAND",
       "url": "https://open.spotify.com/track/1BL3cUI09um7QN2cHUy0Cq"
-    },
-    {
-      "added_at": "2025-07-25 04:00:40",
-      "album": {
-        "name": "You'll Be Alright, Kid",
-        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 161052,
-      "name": "First Time On Earth",
-      "url": "https://open.spotify.com/track/3z87a8YWdfBTWwrspCN4g8"
     },
     {
       "added_at": "2025-09-26 04:00:29",
@@ -629,22 +661,6 @@
       "url": "https://open.spotify.com/track/0Nxb56H6D3z2ZO9BniUcNj"
     },
     {
-      "added_at": "2024-12-13 05:00:35",
-      "album": {
-        "name": "Passenger Seat",
-        "url": "https://open.spotify.com/album/3mBqgeRuQBZkt4Vi5ZJZ6Z"
-      },
-      "artists": [
-        {
-          "name": "Claire Leslie",
-          "url": "https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Passenger Seat",
-      "url": "https://open.spotify.com/track/67GgkBHYX6x3qzXkNqS5oJ"
-    },
-    {
       "added_at": "2024-10-11 13:41:50",
       "album": {
         "name": "What a Day",
@@ -747,22 +763,6 @@
       "duration_ms": 230644,
       "name": "These Are The Days (feat. Blessing Offor)",
       "url": "https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA"
-    },
-    {
-      "added_at": "2024-10-11 13:41:50",
-      "album": {
-        "name": "high water",
-        "url": "https://open.spotify.com/album/7gzbODpxaT7WXSi3nW8e9J"
-      },
-      "artists": [
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        }
-      ],
-      "duration_ms": 168975,
-      "name": "high water",
-      "url": "https://open.spotify.com/track/32dWnUPQ0l4cdsOcEj5fCk"
     },
     {
       "added_at": "2024-10-11 13:41:50",

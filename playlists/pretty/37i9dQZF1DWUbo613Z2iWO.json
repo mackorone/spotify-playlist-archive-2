@@ -1,13 +1,45 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Saint Harison",
-  "num_followers": 58127,
+  "description": "R&B of the moment by the artists of the future. Cover: PHABO",
+  "num_followers": 58140,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAGS/BdKZ2gh+co3ICu3ONj52QPS",
+  "snapshot_id": "AAAAAK5z5Az6/sllhQaTOIjBPjy8eHU/",
   "tracks": [
+    {
+      "added_at": "2026-01-23 06:55:04",
+      "album": {
+        "name": "Ratchet & Blues",
+        "url": "https://open.spotify.com/album/7dYcz9wetA8fYJn7CmGVRd"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "duration_ms": 194705,
+      "name": "Before We Get In Here!",
+      "url": "https://open.spotify.com/track/2fF0gafyalVC79QziHA3f2"
+    },
+    {
+      "added_at": "2026-01-23 06:55:04",
+      "album": {
+        "name": "Break Me In",
+        "url": "https://open.spotify.com/album/3qAQ2awAKHXsu0SKTKR0Wg"
+      },
+      "artists": [
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        }
+      ],
+      "duration_ms": 172506,
+      "name": "Break Me In",
+      "url": "https://open.spotify.com/track/6cIvHcpTltaYZP2FkbQWMr"
+    },
     {
       "added_at": "2026-01-16 05:00:39",
       "album": {
@@ -77,6 +109,42 @@
       "url": "https://open.spotify.com/track/0dDiRn0SeHXrYpen9JSVPi"
     },
     {
+      "added_at": "2026-01-23 06:55:04",
+      "album": {
+        "name": "What I Didn't Say",
+        "url": "https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk"
+      },
+      "artists": [
+        {
+          "name": "Nija",
+          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
+        }
+      ],
+      "duration_ms": 179146,
+      "name": "Things We Do",
+      "url": "https://open.spotify.com/track/2sRG4WyPyGNLC20djAMXAL"
+    },
+    {
+      "added_at": "2026-01-23 06:55:04",
+      "album": {
+        "name": "CAMPILATION",
+        "url": "https://open.spotify.com/album/3ZvwuyvY78GsvVFkYk0wXD"
+      },
+      "artists": [
+        {
+          "name": "Camper",
+          "url": "https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp"
+        },
+        {
+          "name": "WanMor",
+          "url": "https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h"
+        }
+      ],
+      "duration_ms": 160528,
+      "name": "COME OVER (feat. WanMor)",
+      "url": "https://open.spotify.com/track/0DK1f5rcYqVE80FYAMJlIj"
+    },
+    {
       "added_at": "2026-01-16 05:00:39",
       "album": {
         "name": "Honey Water",
@@ -107,6 +175,22 @@
       "duration_ms": 192192,
       "name": "On Ur Time",
       "url": "https://open.spotify.com/track/2XX9DsMkC1KSECUs6WGUxd"
+    },
+    {
+      "added_at": "2026-01-23 06:55:04",
+      "album": {
+        "name": "BREATHE!",
+        "url": "https://open.spotify.com/album/2DK3WE4fJz4YgvaPz4ZXkw"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 209395,
+      "name": "BREATHE!",
+      "url": "https://open.spotify.com/track/7pQ5f4zkmaS5G264xtbCvf"
     },
     {
       "added_at": "2025-11-21 06:25:10",
@@ -145,24 +229,20 @@
       "url": "https://open.spotify.com/track/24TSN5Uo9nyALzxWCJPuSe"
     },
     {
-      "added_at": "2026-01-09 07:30:30",
+      "added_at": "2026-01-23 06:55:04",
       "album": {
-        "name": "Win Or Lose",
-        "url": "https://open.spotify.com/album/7IdvSR8Nzsoyi2tVBoIw9y"
+        "name": "Ratchet & Blues",
+        "url": "https://open.spotify.com/album/7dYcz9wetA8fYJn7CmGVRd"
       },
       "artists": [
         {
           "name": "PHABO",
           "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        },
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
         }
       ],
-      "duration_ms": 187248,
-      "name": "Win Or Lose",
-      "url": "https://open.spotify.com/track/4YUU0sam6DtijJ847SqjYf"
+      "duration_ms": 169811,
+      "name": "Lights Get Low",
+      "url": "https://open.spotify.com/track/7jictVSUaYcs9lkJ6t1MGj"
     },
     {
       "added_at": "2025-12-19 05:00:40",
@@ -195,6 +275,26 @@
       "duration_ms": 178650,
       "name": "A Minute",
       "url": "https://open.spotify.com/track/6U64qozXo66Eg24nOlgM6S"
+    },
+    {
+      "added_at": "2026-01-23 06:55:04",
+      "album": {
+        "name": "keepsake",
+        "url": "https://open.spotify.com/album/7qbYXzYoWTnlzDTHbs0oCS"
+      },
+      "artists": [
+        {
+          "name": "Ragz Originale",
+          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
+        },
+        {
+          "name": "Budgie",
+          "url": "https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89"
+        }
+      ],
+      "duration_ms": 155036,
+      "name": "same bed",
+      "url": "https://open.spotify.com/track/4hipQPwuLqq9RFxlpVAJET"
     },
     {
       "added_at": "2026-01-16 05:00:39",
@@ -303,6 +403,30 @@
       "duration_ms": 200460,
       "name": "Kryptonite",
       "url": "https://open.spotify.com/track/2kwszkUHGtCPgshacWrivq"
+    },
+    {
+      "added_at": "2026-01-23 06:55:04",
+      "album": {
+        "name": "footwork",
+        "url": "https://open.spotify.com/album/23HUSuiX9Xtif1N5iBh5uj"
+      },
+      "artists": [
+        {
+          "name": "Ben Esser",
+          "url": "https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs"
+        },
+        {
+          "name": "Beau Diako",
+          "url": "https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu"
+        },
+        {
+          "name": "emawk",
+          "url": "https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "footwork",
+      "url": "https://open.spotify.com/track/1bkNnIkZpBB4tdhZwMji6Q"
     },
     {
       "added_at": "2026-01-16 05:00:39",
@@ -3811,22 +3935,6 @@
       "duration_ms": 178571,
       "name": "Magic Gurl (feat. Lekan)",
       "url": "https://open.spotify.com/track/49tA7LEL1kX08hBD38G4Zr"
-    },
-    {
-      "added_at": "2024-11-15 07:31:41",
-      "album": {
-        "name": "HIATUS",
-        "url": "https://open.spotify.com/album/4Xhpn4XMjaoKTuWJ7YDWcE"
-      },
-      "artists": [
-        {
-          "name": "WESLEYFRANKLIN",
-          "url": "https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh"
-        }
-      ],
-      "duration_ms": 214488,
-      "name": "SPEECHLESS",
-      "url": "https://open.spotify.com/track/3QG7ScQMjttBGhEQWM3tEf"
     }
   ],
   "unique_name": "R&B Rising",

@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 218411,
       "name": "And So I Grow",
       "url": "https://open.spotify.com/track/6ODXo2jtBLbsVlnDFIVglV"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 233893,
       "name": "April May July",
       "url": "https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 198434,
       "name": "Autumn Love",
       "url": "https://open.spotify.com/track/236HZ8DhG7k0cXgem99oPP"
@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/7Ln3LF8E2WFUZENabeVuIX"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180459,
+      "name": "Bloodline",
+      "url": "https://open.spotify.com/track/40ZNzxRpzGOnLw0ylcVueQ"
+    },
+    {
+      "album": {
         "name": "Bluebird",
         "url": "https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw"
       },
@@ -838,7 +856,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 180117,
       "name": "Cesar - Acoustic Version",
       "url": "https://open.spotify.com/track/5fThShCO8TaU6P6EoV2hQQ"
@@ -1152,7 +1170,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 156987,
       "name": "Emma Stone",
       "url": "https://open.spotify.com/track/1GuIxLw79Xe9aqyLTqBS5V"
@@ -1578,7 +1596,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 228148,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/3D84aC9RWEI1S6SgnKMUBe"
@@ -1686,7 +1704,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 152293,
       "name": "Highlights",
       "url": "https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH"
@@ -2004,7 +2022,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 190453,
       "name": "I Will Go There - Piano Version",
       "url": "https://open.spotify.com/track/7tzccZ7KQOgQIhIdNkTqeM"
@@ -2357,6 +2375,24 @@
     },
     {
       "album": {
+        "name": "Lies (Acoustic Piano)",
+        "url": "https://open.spotify.com/album/5itEPqoXNem3qWRtPiRC2V"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283618,
+      "name": "Lies - Acoustic Piano",
+      "url": "https://open.spotify.com/track/19tlQPgqiFl964Vuz5tOGB"
+    },
+    {
+      "album": {
         "name": "Going My Own Way",
         "url": "https://open.spotify.com/album/2Q7JTNzHTN2UpovV2fokYW"
       },
@@ -2512,7 +2548,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 203235,
       "name": "Lonely Cowboy - Radio Edit",
       "url": "https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm"
@@ -3280,7 +3316,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 216661,
       "name": "Out of the Blue",
       "url": "https://open.spotify.com/track/4LWrnnStSFx4dsiVLsgPun"
@@ -3302,6 +3338,24 @@
       "duration_ms": 214436,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/3ifF2xXCgkd8l10payCaSs"
+    },
+    {
+      "album": {
+        "name": "Panacea",
+        "url": "https://open.spotify.com/album/5tCSkZXGKuVYl6jRKGAnjy"
+      },
+      "artists": [
+        {
+          "name": "Celine Cairo",
+          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282235,
+      "name": "Panacea",
+      "url": "https://open.spotify.com/track/3Lw0P6202eEN0KG3rdRhxu"
     },
     {
       "album": {
@@ -3414,6 +3468,24 @@
       "duration_ms": 210915,
       "name": "Portland, Maine (feat. Jordan Davis)",
       "url": "https://open.spotify.com/track/6M8VA1HQWAP4wggoPZ5ota"
+    },
+    {
+      "album": {
+        "name": "The Lighthouse",
+        "url": "https://open.spotify.com/album/6yZlmaOAjcmKiGRkxaogrO"
+      },
+      "artists": [
+        {
+          "name": "Tessa Rose Jackson",
+          "url": "https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263307,
+      "name": "Prizefighter",
+      "url": "https://open.spotify.com/track/2Wp6mnhsFbqECf90ZgfpaC"
     },
     {
       "album": {
@@ -3637,6 +3709,24 @@
     },
     {
       "album": {
+        "name": "Silently Hurting Me",
+        "url": "https://open.spotify.com/album/2Aco4L6QmFBxtfvb7MMuLB"
+      },
+      "artists": [
+        {
+          "name": "Iskander Moon",
+          "url": "https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206546,
+      "name": "Silently Hurting Me",
+      "url": "https://open.spotify.com/track/2XD4jhSNQ64FbOui9Fd7rs"
+    },
+    {
+      "album": {
         "name": "Sit With Me",
         "url": "https://open.spotify.com/album/0mzB6cpwbFqhK8D3qJd8UY"
       },
@@ -3810,7 +3900,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 207982,
       "name": "Stay cool",
       "url": "https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL"
@@ -4352,7 +4442,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 173226,
       "name": "The Way I Love You Now",
       "url": "https://open.spotify.com/track/0f0LczCuY8x9JNzCmvRmZr"
@@ -4424,7 +4514,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 196719,
       "name": "The Wedding Song",
       "url": "https://open.spotify.com/track/5QdPm7hJxZj3YvumMBLhsV"
@@ -4482,6 +4572,24 @@
       "duration_ms": 155953,
       "name": "they only talk about the weather",
       "url": "https://open.spotify.com/track/7KgQS17rDK7gjWtOgNL2V1"
+    },
+    {
+      "album": {
+        "name": "This Is All I'll Be",
+        "url": "https://open.spotify.com/album/5ElZ82ll0Q0d1dFUdzEopC"
+      },
+      "artists": [
+        {
+          "name": "Nona",
+          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190117,
+      "name": "This Is All I'll Be",
+      "url": "https://open.spotify.com/track/0szz1ZU7v1NkYfMDQX7HeF"
     },
     {
       "album": {
@@ -4605,6 +4713,28 @@
     },
     {
       "album": {
+        "name": "Till the Morning (Symphonic Version)",
+        "url": "https://open.spotify.com/album/5E3kipqq7kqOhN6uMTNYlk"
+      },
+      "artists": [
+        {
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+        },
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268109,
+      "name": "Till the Morning - Symphonic Version",
+      "url": "https://open.spotify.com/track/0p2myH6LY0j7vIMq0WW9Eu"
+    },
+    {
+      "album": {
         "name": "The Lucky Ones",
         "url": "https://open.spotify.com/album/75r6CVr4CkOrsGTUGbns42"
       },
@@ -4656,6 +4786,28 @@
       "duration_ms": 160000,
       "name": "To Love Somebody",
       "url": "https://open.spotify.com/track/6j8FjzwlWpr1SlDnN5IDzj"
+    },
+    {
+      "album": {
+        "name": "Too Good To Be True (feat. Merrick Winter)",
+        "url": "https://open.spotify.com/album/3MifL1uttV2mS2snSADT6X"
+      },
+      "artists": [
+        {
+          "name": "Melle",
+          "url": "https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp"
+        },
+        {
+          "name": "Merrick Winter",
+          "url": "https://open.spotify.com/artist/5saJxCU9CGqagElzzIXgfI"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197693,
+      "name": "Too Good To Be True (feat. Merrick Winter)",
+      "url": "https://open.spotify.com/track/5VD2s6ASgUPXunzA7vVra3"
     },
     {
       "album": {
@@ -4732,6 +4884,24 @@
       "duration_ms": 153164,
       "name": "U&I",
       "url": "https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi"
+    },
+    {
+      "album": {
+        "name": "Until My Last Breath",
+        "url": "https://open.spotify.com/album/2gIZT0Buq4dZ1mwcYdCuKT"
+      },
+      "artists": [
+        {
+          "name": "NYVE",
+          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177813,
+      "name": "Until My Last Breath",
+      "url": "https://open.spotify.com/track/14IkANhrfPnJownyQUpiq1"
     },
     {
       "album": {

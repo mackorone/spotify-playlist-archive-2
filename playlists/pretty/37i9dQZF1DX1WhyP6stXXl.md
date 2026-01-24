@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Holly Humberstone
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,499 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,542 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 10 | [I Could Get Used To This](https://open.spotify.com/track/4m9uyukaB0AEC5BKZb5Svw) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [I Could Get Used To This](https://open.spotify.com/album/1Q6TuFF5GjmICIEVSkFCyd) | 3:41 |
 | 11 | [Angels' Share](https://open.spotify.com/track/1UNVWbwbIEnxElW8b0PTFL) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo), [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [Angels' Share](https://open.spotify.com/album/2iTs57ox6KJn1IjuH3IMWl) | 2:40 |
 | 12 | [A Light That Waits](https://open.spotify.com/track/58gVmfPYnafwxolIaPPqDo) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [A Light That Waits](https://open.spotify.com/album/6KCQ2KCGBL9dByWTy4Qdh6) | 3:23 |
-| 13 | [Track 12](https://open.spotify.com/track/4SykKuN3ZpoJViT7Nyhz57) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [](https://open.spotify.com/album/null) | 0:00 |
+| 13 | [Body](https://open.spotify.com/track/4SykKuN3ZpoJViT7Nyhz57) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [Energy](https://open.spotify.com/album/1s4mHTfjmO4CU8AACjkmsS) | 2:55 |
 | 14 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
 | 15 | [Imposter](https://open.spotify.com/track/5VqWwnkDTHNz3oXdlh2jn7) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Imposter](https://open.spotify.com/album/47GKjNzCbyJVYNrgpq4314) | 2:38 |
 | 16 | [SOMEWHERE IN BETWEEN](https://open.spotify.com/track/5OHXhjlFn1j4MUFYaSg6Zc) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [SOMEWHERE IN BETWEEN](https://open.spotify.com/album/5u0yJJQw4gu8pmkDKVAPiT) | 3:27 |
@@ -36,15 +36,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 26 | [Feels Like Heaven](https://open.spotify.com/track/1jWjsj9YKDoYhTVoZnSivY) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Feels Like Heaven](https://open.spotify.com/album/5SaGyl331ck5Z5CQaIntGz) | 3:13 |
 | 27 | [Embers](https://open.spotify.com/track/3OGmnOgg3NQ4uwerCW3GXE) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Embers](https://open.spotify.com/album/0bJj4VUm90sLGDcfl69ZM4) | 3:01 |
 | 28 | [Signal Fire](https://open.spotify.com/track/1jWOzFlHcYJtZLXEspRT6t) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Signal Fire](https://open.spotify.com/album/2AuWJhaS4IdzErMHI2djAp) | 3:02 |
-| 29 | [IT'S NOT REAL](https://open.spotify.com/track/0cd7ASGGuQOpprgdm4n2wt) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [](https://open.spotify.com/album/null) | 3:09 |
+| 29 | [IT'S NOT REAL](https://open.spotify.com/track/0cd7ASGGuQOpprgdm4n2wt) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [IT’S NOT REAL](https://open.spotify.com/album/4CgtqiWC5y8aKhZkCFZsqT) | 3:09 |
 | 30 | [If It Takes Us All Night](https://open.spotify.com/track/3Fc0wf2ANTAn7W4oe7QD1z) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY), [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [If It Takes Us All Night](https://open.spotify.com/album/6MgKWzZ9wWkwonZsSwJwqM) | 2:43 |
 | 31 | [Hold On For Heaven](https://open.spotify.com/track/1waqydZwGSMhDFfUJdzKjA) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Hold On For Heaven](https://open.spotify.com/album/2mUJTDa5AzLNqSXxwbsF8r) | 3:34 |
-| 32 | [HYPNOTIZE](https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [](https://open.spotify.com/album/null) | 2:50 |
-| 33 | [LOVESONGS](https://open.spotify.com/track/2VxbZ0V7UK4tR17FVDwIPR) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [](https://open.spotify.com/album/null) | 3:33 |
-| 34 | [Hug Yourself](https://open.spotify.com/track/0wxptU4oakoC1OfPWcqgDc) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [](https://open.spotify.com/album/null) | 2:54 |
+| 32 | [HYPNOTIZE](https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw) | 2:50 |
+| 33 | [LOVESONGS](https://open.spotify.com/track/2VxbZ0V7UK4tR17FVDwIPR) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:33 |
+| 34 | [Hug Yourself](https://open.spotify.com/track/0wxptU4oakoC1OfPWcqgDc) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [trying not to panic](https://open.spotify.com/album/1bwJUNxQpND3xqgvUzWNz4) | 2:54 |
 | 35 | [sacred](https://open.spotify.com/track/1ZoA7sZbEldHktjfodfgLJ) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [SACRED](https://open.spotify.com/album/3s9VGa9gsznVyJmXJfvjjN) | 2:43 |
 | 36 | [FICTION](https://open.spotify.com/track/7IY4M3WEpr2LLZUETkcVIR) | [Adam Klobi](https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI) | [FICTION](https://open.spotify.com/album/1beFAyrk1kXl23nA0oUJDU) | 4:07 |
-| 37 | [Won't Let Go](https://open.spotify.com/track/4pRJMNLtar65GtT9vpzHu4) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [](https://open.spotify.com/album/null) | 3:09 |
+| 37 | [Won't Let Go](https://open.spotify.com/track/4pRJMNLtar65GtT9vpzHu4) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Jamie MacDonald](https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp) | 3:09 |
 | 38 | [Happy Place](https://open.spotify.com/track/1jvYejR60Wy61zPSF4V5zp) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo), [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [Happy Place](https://open.spotify.com/album/4RF6hOiNwgO5TSxU1ggVu4) | 3:02 |
 | 39 | [Love Bombs](https://open.spotify.com/track/7N2dxYIULi9q0vepBwsDf5) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Love Bombs](https://open.spotify.com/album/3JGRQFGZS9j3GzhpHAzcZs) | 2:35 |
 | 40 | [Love You All The Same](https://open.spotify.com/track/2shllo5ACQMEUc8n0MtC7x) | [Dominic Wright](https://open.spotify.com/artist/6JPpKyhX2EmJD1QqKrU9UE) | [Love You All The Same](https://open.spotify.com/album/4VAqgYk4BqZRchumksXH7k) | 2:57 |

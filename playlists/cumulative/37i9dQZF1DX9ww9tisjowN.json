@@ -8289,6 +8289,24 @@
     },
     {
       "album": {
+        "name": "Rivals and Equals",
+        "url": "https://open.spotify.com/album/1DZRcae6Y7l75XoPqj0eYh"
+      },
+      "artists": [
+        {
+          "name": "Mori Calliope",
+          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151533,
+      "name": "Rivals and Equals",
+      "url": "https://open.spotify.com/track/1pUcAjkI2SDa81ky3g7bAD"
+    },
+    {
+      "album": {
         "name": "Ado's Best Adobum",
         "url": "https://open.spotify.com/album/4G1L7sZheq5RAFNbqSbp3O"
       },

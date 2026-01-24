@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Libid\u00f8",
+  "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: imago mundi",
   "name": "Nemazapop",
   "tracks": [
     {
@@ -3026,7 +3026,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 154488,
       "name": "Kikopog\u00f3",
       "url": "https://open.spotify.com/track/2RsQLGX0qF0YTtWq5JNWuw"
@@ -3268,7 +3268,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 227076,
       "name": "legeslegkisebb kir\u00e1lyfi",
       "url": "https://open.spotify.com/track/4zr2XMav7r9Tzl86Qza94R"
@@ -3402,6 +3402,28 @@
       "duration_ms": 138333,
       "name": "Lil' After",
       "url": "https://open.spotify.com/track/1Q0WRrC3KoOawRLOTqrpcj"
+    },
+    {
+      "album": {
+        "name": "LIQUORICE",
+        "url": "https://open.spotify.com/album/2LlpJqTFPHAcUBNxC0rT1K"
+      },
+      "artists": [
+        {
+          "name": "OIEE",
+          "url": "https://open.spotify.com/artist/2ns47ulOmmJQtO0HMIIMUY"
+        },
+        {
+          "name": "Saya No\u00e9",
+          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163124,
+      "name": "LIQUORICE",
+      "url": "https://open.spotify.com/track/6idjDMMV9TbJ1GdNLlvbn0"
     },
     {
       "album": {
@@ -4321,6 +4343,28 @@
     },
     {
       "album": {
+        "name": "nem alszom",
+        "url": "https://open.spotify.com/album/258GaKa4V1RRx0R5FHPU3G"
+      },
+      "artists": [
+        {
+          "name": "fannisza",
+          "url": "https://open.spotify.com/artist/6tO7A1RuaqhmuVHgQIUcFD"
+        },
+        {
+          "name": "Feh\u00e9r Holl\u00f3",
+          "url": "https://open.spotify.com/artist/33cCO3dLvdBacUrXaEckU1"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145617,
+      "name": "nem alszom",
+      "url": "https://open.spotify.com/track/0eDn9HWi5sDwqluGz6ScbM"
+    },
+    {
+      "album": {
         "name": "Nem Ismerlek",
         "url": "https://open.spotify.com/album/4t5PgPflmxqNpv0F4OcW4O"
       },
@@ -4430,6 +4474,24 @@
       "duration_ms": 189913,
       "name": "Nem v\u00e9letlen",
       "url": "https://open.spotify.com/track/0vo2uKw4TOGZiAj6RNMUQ2"
+    },
+    {
+      "album": {
+        "name": "nemveledvanagond",
+        "url": "https://open.spotify.com/album/3YF6pxzU60rS7n4BSjqxwR"
+      },
+      "artists": [
+        {
+          "name": "imago mundi",
+          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185647,
+      "name": "nemveledvanagond",
+      "url": "https://open.spotify.com/track/3WjnAkTGVJhHRQYgiKEgud"
     },
     {
       "album": {
@@ -5080,6 +5142,24 @@
       "duration_ms": 174250,
       "name": "Romeo and Juliet",
       "url": "https://open.spotify.com/track/5gRSdMYwjwS4TvnS4fRufp"
+    },
+    {
+      "album": {
+        "name": "hello.",
+        "url": "https://open.spotify.com/album/5USL0SYIppHoKBpX7ORwfI"
+      },
+      "artists": [
+        {
+          "name": "Waiting Room",
+          "url": "https://open.spotify.com/artist/6AkIWFj7J1rzYkGRgqZndc"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196806,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/5pSkF2CHUhnYo69VZA3Ksm"
     },
     {
       "album": {
@@ -6090,7 +6170,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 195340,
       "name": "T\u00fckr\u00f6k",
       "url": "https://open.spotify.com/track/6B3vedA8YoHYokjtQpF0Ti"
@@ -6166,7 +6246,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 165584,
       "name": "Utol\u00e9r",
       "url": "https://open.spotify.com/track/3NkIgoNeVIaNTGoX07HeaJ"

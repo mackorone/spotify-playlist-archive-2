@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 469 songs - 1 day 3 hr 50 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 472 songs - 1 day 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -477,5 +477,8 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 467 | [I Can't Surf](https://open.spotify.com/track/6uPVoLWXkL9kEThwD5f220) | [The Reverend Horton Heat](https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw) | [Liquor In The Front](https://open.spotify.com/album/6jAAhup75lBUgBlL7nz1lh) | 2:41 |
 | 468 | [Amoeba](https://open.spotify.com/track/65pLdhLeA6MIZ31heNXO13) | [Adolescents](https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr) | [Adolescents](https://open.spotify.com/album/4OJeOPIhvGErsAMDoTfm3N) | 3:06 |
 | 469 | [Penguins](https://open.spotify.com/track/26v2Gf4Af7Fav0jTQluetL) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Dum and Dummer 2](https://open.spotify.com/album/1XKOXluL7TbCpPVsX4dqXv) | 3:58 |
+| 470 | [Out There](https://open.spotify.com/track/3PU3neC9XmWz7ZjUn5rYIw) | [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Ghetty Green](https://open.spotify.com/album/79C18fJJMGIe3IzT8LiuHR) | 4:19 |
+| 471 | [Just Have Fun](https://open.spotify.com/track/3RlvwLLeShjFhOzKT0VXTP) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [These Days...](https://open.spotify.com/album/36V9Nypcss9ybEKKmPBhin) | 5:30 |
+| 472 | [Wit the Plug](https://open.spotify.com/track/2B5Or8AROTCPQAlbJz4oow) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Money Changes Everything](https://open.spotify.com/album/2piSTs76N8lkVTfa3YtFts) | 4:00 |
 
-Snapshot ID: `AAAfnuEjIniq7haC5+DVQsNVkrI244Mi`
+Snapshot ID: `AAAfoTkCrAleFouc0sJja7dj06Gj/kkP`

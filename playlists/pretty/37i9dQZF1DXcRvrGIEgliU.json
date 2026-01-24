@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 13255,
+  "num_followers": 13288,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "F\u00fcr immer Fr\u00fchling",
-        "url": "https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN"
-      },
-      "artists": [
-        {
-          "name": "SOFFIE",
-          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "F\u00fcr immer Fr\u00fchling",
-      "url": "https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Bodhiria",
         "url": "https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 198009,
       "name": "zarcillos de plata",
       "url": "https://open.spotify.com/track/2Wvs8qJJKrKGB6uZGMTDZB"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "F\u00fcr immer Fr\u00fchling",
+        "url": "https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN"
+      },
+      "artists": [
+        {
+          "name": "SOFFIE",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "F\u00fcr immer Fr\u00fchling",
+      "url": "https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Lamhey",
-        "url": "https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA"
-      },
-      "artists": [
-        {
-          "name": "Anubha Bajaj",
-          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
-        }
-      ],
-      "duration_ms": 148966,
-      "name": "Lamhey",
-      "url": "https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "All I Want Is You",
         "url": "https://open.spotify.com/album/1wAFvpwnYZ0Ph9aGs3HVr4"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 212093,
       "name": "All I Want Is You",
       "url": "https://open.spotify.com/track/1KjeiQdORzl04M1PHZTGE2"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Lamhey",
+        "url": "https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA"
+      },
+      "artists": [
+        {
+          "name": "Anubha Bajaj",
+          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
+        }
+      ],
+      "duration_ms": 148966,
+      "name": "Lamhey",
+      "url": "https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "What's Wrong With New York?",
-        "url": "https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s"
-      },
-      "artists": [
-        {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
-        }
-      ],
-      "duration_ms": 119558,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/7m8wiHGjtlJ5UQvqiCjhV5"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Big Day",
         "url": "https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 152571,
       "name": "High",
       "url": "https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "What's Wrong With New York?",
+        "url": "https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "duration_ms": 119558,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/7m8wiHGjtlJ5UQvqiCjhV5"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Chuy\u1ec7n R\u1eb1ng",
-        "url": "https://open.spotify.com/album/5luCD1OBB8iHHhaSaOLHGz"
-      },
-      "artists": [
-        {
-          "name": "Th\u1ecbnh Suy",
-          "url": "https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo"
-        }
-      ],
-      "duration_ms": 272152,
-      "name": "Chuy\u1ec7n R\u1eb1ng",
-      "url": "https://open.spotify.com/track/7oBUoEbCDF748UkHnLusUB"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/6yO5bLMCpNJAlIjkL59KE6"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 198426,
       "name": "Blue",
       "url": "https://open.spotify.com/track/5XOmmOQZFpzeHnWcsFAEiX"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Chuy\u1ec7n R\u1eb1ng",
+        "url": "https://open.spotify.com/album/5luCD1OBB8iHHhaSaOLHGz"
+      },
+      "artists": [
+        {
+          "name": "Th\u1ecbnh Suy",
+          "url": "https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo"
+        }
+      ],
+      "duration_ms": 272152,
+      "name": "Chuy\u1ec7n R\u1eb1ng",
+      "url": "https://open.spotify.com/track/7oBUoEbCDF748UkHnLusUB"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1783,18 +1783,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "dear dialE",
-        "url": "https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE"
+        "name": "Tirando Balas",
+        "url": "https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P"
       },
       "artists": [
         {
-          "name": "dialE",
-          "url": "https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB"
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
         }
       ],
-      "duration_ms": 94085,
-      "name": "nine thirty (the glow)",
-      "url": "https://open.spotify.com/track/7fOu8YZoZ13Q8H6A2vm8ie"
+      "duration_ms": 173748,
+      "name": "Tirando Balas",
+      "url": "https://open.spotify.com/track/15I8CL9krCHIiwZvac61yl"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1811,6 +1811,38 @@
       "duration_ms": 162300,
       "name": "I Lied, I'm Sorry",
       "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "dear dialE",
+        "url": "https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE"
+      },
+      "artists": [
+        {
+          "name": "dialE",
+          "url": "https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB"
+        }
+      ],
+      "duration_ms": 94085,
+      "name": "nine thirty (the glow)",
+      "url": "https://open.spotify.com/track/7fOu8YZoZ13Q8H6A2vm8ie"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "CHATO",
+        "url": "https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "duration_ms": 162178,
+      "name": "Joga Bonito",
+      "url": "https://open.spotify.com/track/2BNJG8TLuZcp3yLtEUeGfr"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1835,38 +1867,6 @@
       "duration_ms": 198000,
       "name": "Sao Em L\u1ea1i T\u1eaft M\u00e1y?",
       "url": "https://open.spotify.com/track/3Rf4rNtuMuSQ9mr6hmhIIB"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "CHATO",
-        "url": "https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM"
-      },
-      "artists": [
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        }
-      ],
-      "duration_ms": 162178,
-      "name": "Joga Bonito",
-      "url": "https://open.spotify.com/track/2BNJG8TLuZcp3yLtEUeGfr"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Tirando Balas",
-        "url": "https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 173748,
-      "name": "Tirando Balas",
-      "url": "https://open.spotify.com/track/15I8CL9krCHIiwZvac61yl"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Just Drive",
-        "url": "https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy"
-      },
-      "artists": [
-        {
-          "name": "Erin Kinsey",
-          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
-        }
-      ],
-      "duration_ms": 147693,
-      "name": "Just Drive",
-      "url": "https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Fuzzybrain",
         "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 277200,
       "name": "False Direction",
       "url": "https://open.spotify.com/track/110PnrQX9AJIt3HNJtjPgt"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Just Drive",
+        "url": "https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "duration_ms": 147693,
+      "name": "Just Drive",
+      "url": "https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Koszulka",
-        "url": "https://open.spotify.com/album/0GY7Jpt1L0C891A5WdgUPe"
-      },
-      "artists": [
-        {
-          "name": "Dawid Tyszkowski",
-          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
-        }
-      ],
-      "duration_ms": 252226,
-      "name": "Koszulka",
-      "url": "https://open.spotify.com/track/58GULPDRRkVUMm2AKaBEMm"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "TMF",
         "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 211283,
       "name": "TMF",
       "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Koszulka",
+        "url": "https://open.spotify.com/album/0GY7Jpt1L0C891A5WdgUPe"
+      },
+      "artists": [
+        {
+          "name": "Dawid Tyszkowski",
+          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
+        }
+      ],
+      "duration_ms": 252226,
+      "name": "Koszulka",
+      "url": "https://open.spotify.com/track/58GULPDRRkVUMm2AKaBEMm"
     },
     {
       "added_at": "2025-05-19 03:00:14",

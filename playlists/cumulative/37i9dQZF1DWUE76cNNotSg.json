@@ -770,7 +770,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 242239,
       "name": "Baby Blue (feat. Oliver Sim)",
       "url": "https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv"
@@ -882,7 +882,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca"
@@ -2975,6 +2975,24 @@
     },
     {
       "album": {
+        "name": "Easy Flirt",
+        "url": "https://open.spotify.com/album/3ewRXH9xzkimqdIXc7hUnN"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Easy Flirt",
+      "url": "https://open.spotify.com/track/0NCxUz8RdDtPcSwiLkDmhh"
+    },
+    {
+      "album": {
         "name": "Stop Thinking Start Feeling",
         "url": "https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS"
       },
@@ -4187,6 +4205,24 @@
     },
     {
       "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/5zZSa7rvW8JnI5PR0eTHpp"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265511,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/5RZ74VjNYc2wX6jMU9qD2G"
+    },
+    {
+      "album": {
         "name": "ZABA",
         "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
       },
@@ -4618,6 +4654,28 @@
       "duration_ms": 196375,
       "name": "Hold On (Young Heart)",
       "url": "https://open.spotify.com/track/3LvEDt0pBDKzsODbpZk9e3"
+    },
+    {
+      "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/5PH0N5fnQYx4T503EdhdNS"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231023,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/4hTT2n6g4oq7isk4w1adY2"
     },
     {
       "album": {
@@ -6154,7 +6212,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 190153,
       "name": "Loretta",
       "url": "https://open.spotify.com/track/3eZqBNHlNA4lUsbAB6UmvD"
@@ -8137,6 +8195,28 @@
     },
     {
       "album": {
+        "name": "Orange Wine",
+        "url": "https://open.spotify.com/album/2AGeeGiuL9Sxs3ZWpnq9o1"
+      },
+      "artists": [
+        {
+          "name": "Sonan",
+          "url": "https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb"
+        },
+        {
+          "name": "Lynden",
+          "url": "https://open.spotify.com/artist/5q6iGOspbddquMKyvxKQYv"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190458,
+      "name": "Orange Wine",
+      "url": "https://open.spotify.com/track/7gZWypmpJYDJB7DV8p0Vjk"
+    },
+    {
+      "album": {
         "name": "Otherside",
         "url": "https://open.spotify.com/album/3BYf1IG8EqDbhzdpljcFWY"
       },
@@ -8900,7 +8980,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 253466,
       "name": "Pull Together",
       "url": "https://open.spotify.com/track/4En0kUtwgYue2FoxmoEXc4"

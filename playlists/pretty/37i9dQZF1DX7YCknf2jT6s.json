@@ -1,13 +1,73 @@
 {
-  "description": "New jazz for open minds. Cover: Melissa Aldana",
-  "num_followers": 950599,
+  "description": "New jazz for open minds. Cover: Julian Lage",
+  "num_followers": 950626,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACDXH7/pr2V++1Jt9uZVrmov4K1f",
+  "snapshot_id": "AAAAAEh2v1pAAUp489IWeEYXhnVER/mS",
   "tracks": [
+    {
+      "added_at": "2026-01-23 05:00:34",
+      "album": {
+        "name": "Scenes From Above",
+        "url": "https://open.spotify.com/album/3ttcqbXYZLuyCDPQIGDacR"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        },
+        {
+          "name": "John Medeski",
+          "url": "https://open.spotify.com/artist/46IQ7Q0jkW6dW0l4e15FFD"
+        },
+        {
+          "name": "Jorge Roeder",
+          "url": "https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x"
+        },
+        {
+          "name": "Kenny Wollesen",
+          "url": "https://open.spotify.com/artist/6Zn84vmI9vs51dH9UK52bV"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "Something More",
+      "url": "https://open.spotify.com/track/3YM5xsdAn0yMqCwOeyGa3K"
+    },
+    {
+      "added_at": "2026-01-23 05:00:34",
+      "album": {
+        "name": "Call to the Void",
+        "url": "https://open.spotify.com/album/1j9ZTeKQURsabBeEDHZ1fh"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 301810,
+      "name": "Call to the Void",
+      "url": "https://open.spotify.com/track/0ncPxlgGwoVH4CkPrpviIq"
+    },
+    {
+      "added_at": "2026-01-23 05:00:34",
+      "album": {
+        "name": "My Ideal",
+        "url": "https://open.spotify.com/album/6xXuMAVU80bzQRe36TGAq5"
+      },
+      "artists": [
+        {
+          "name": "Walter Smith III",
+          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+        }
+      ],
+      "duration_ms": 246866,
+      "name": "My Ideal",
+      "url": "https://open.spotify.com/track/1EeWkiiptCgP6M8ImrcyDu"
+    },
     {
       "added_at": "2026-01-09 05:00:24",
       "album": {
@@ -127,50 +187,6 @@
       "duration_ms": 254200,
       "name": "Red Herring",
       "url": "https://open.spotify.com/track/3IpC0acr0nUhVtyud4Obj5"
-    },
-    {
-      "added_at": "2026-01-09 05:00:24",
-      "album": {
-        "name": "Night Shade",
-        "url": "https://open.spotify.com/album/4Fy4sIenNFyRAJE07CgB9F"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        },
-        {
-          "name": "John Medeski",
-          "url": "https://open.spotify.com/artist/46IQ7Q0jkW6dW0l4e15FFD"
-        },
-        {
-          "name": "Jorge Roeder",
-          "url": "https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x"
-        },
-        {
-          "name": "Kenny Wollesen",
-          "url": "https://open.spotify.com/artist/6Zn84vmI9vs51dH9UK52bV"
-        }
-      ],
-      "duration_ms": 444000,
-      "name": "Night Shade",
-      "url": "https://open.spotify.com/track/2QMZqnxIjogPks2MmkS8DK"
-    },
-    {
-      "added_at": "2025-12-05 05:00:20",
-      "album": {
-        "name": "A Plea",
-        "url": "https://open.spotify.com/album/0eFgrTbT424fF4zLnhF6R5"
-      },
-      "artists": [
-        {
-          "name": "Flea",
-          "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
-        }
-      ],
-      "duration_ms": 458053,
-      "name": "A Plea",
-      "url": "https://open.spotify.com/track/7fkWpK1YcIMtM7PdMawgfY"
     },
     {
       "added_at": "2026-01-09 05:00:24",
@@ -919,30 +935,6 @@
       "duration_ms": 295821,
       "name": "BBL",
       "url": "https://open.spotify.com/track/5TnePvtynwyVXjQYbKCsyR"
-    },
-    {
-      "added_at": "2025-05-16 04:00:24",
-      "album": {
-        "name": "BEATrio",
-        "url": "https://open.spotify.com/album/4qZ6AQOEGQVpyI3iyEhFQB"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Edmar Casta\u00f1eda",
-          "url": "https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90"
-        },
-        {
-          "name": "Antonio S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw"
-        }
-      ],
-      "duration_ms": 335170,
-      "name": "Kaleidoscopes",
-      "url": "https://open.spotify.com/track/2V5TR2NkI29foggEFzgNvd"
     },
     {
       "added_at": "2025-07-18 04:00:10",

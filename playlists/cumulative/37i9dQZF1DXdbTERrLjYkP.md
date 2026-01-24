@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Iris Copperman
+> Discover the next wave of talent writing their own songs\. Cover: Emma Harner
 
-993 songs - 2 day 5 hr 24 min
+996 songs - 2 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,9 +179,10 @@
 | [Cleveland](https://open.spotify.com/track/6ulsl4FHrnizQRUi4ra6yY) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Cleveland](https://open.spotify.com/album/4F1tKsIxoQMCUqzSXxtZVG) | 3:10 | 2023-11-10 | 2024-04-19 |
 | [clocks](https://open.spotify.com/track/4QpM0qoxJ9JxpggqXrDjIt) | [Alayna Grace](https://open.spotify.com/artist/3Y6fsLnLUTNGc2BpscCdL1) | [clocks](https://open.spotify.com/album/2uUEmLQbqZMtgTdN6AkQ60) | 3:10 | 2024-02-16 | 2024-08-17 |
 | [Clockwork](https://open.spotify.com/track/3DGJy61ZQHZJTfPtnMlU3Z) | [Sophia James](https://open.spotify.com/artist/23xulTZL2CvclAu5Q1eMaN) | [Clockwork](https://open.spotify.com/album/4aBRF9TW3Q7PSsuWSQcJEF) | 2:42 | 2023-03-31 | 2023-08-19 |
-| [Closer](https://open.spotify.com/track/1ikNsb06HbYG5wsHddxWGW) | [annelisa](https://open.spotify.com/artist/6Mof9K9NoAKSQZzjQv8iZL) | [Closer](https://open.spotify.com/album/0mDWtT9H3sbdqq3ih6ks1i) | 3:24 | 2025-08-29 |  |
+| [Closer](https://open.spotify.com/track/1ikNsb06HbYG5wsHddxWGW) | [annelisa](https://open.spotify.com/artist/6Mof9K9NoAKSQZzjQv8iZL) | [Closer](https://open.spotify.com/album/0mDWtT9H3sbdqq3ih6ks1i) | 3:24 | 2025-08-29 | 2026-01-24 |
 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 | 2023-09-29 | 2024-04-19 |
 | [Coal](https://open.spotify.com/track/5cI23aJ66Gw2a4N8l4dGYw) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/2STtbigxgiR3GU5h6PowiT) | 3:14 | 2023-09-01 | 2024-08-17 |
+| [Cobalt Blue](https://open.spotify.com/track/1bl4k2cDh1E6MVz1b2uUEB) | [Ruby Plume](https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84) | [Spinstress](https://open.spotify.com/album/4lpztYt1njS5iSxRdxKflE) | 3:06 | 2026-01-23 |  |
 | [Come Close](https://open.spotify.com/track/10LSITr9KpQs2uCh7g2QQh) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Come Close](https://open.spotify.com/album/3IwrLHxANKcf9PKXpZ2lh7) | 2:59 | 2022-01-14 | 2022-04-29 |
 | [Come On Over](https://open.spotify.com/track/5nIdoIyDQQOfT39DH0c5vc) | [Tadhg Daly](https://open.spotify.com/artist/59HyKDC9r5zpdyq5eraay1) | [Come On Over](https://open.spotify.com/album/2mEhOdeOpA8kaUjjUTtv5l) | 2:41 | 2022-01-14 | 2022-02-12 |
 | [coming around](https://open.spotify.com/track/2aNCgj2Px3flyBD5kqS2WJ) | [fliss](https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX) | [coming around](https://open.spotify.com/album/0oIJvYf11xCllbEOuS1Suq) | 3:42 | 2025-07-25 | 2026-01-17 |
@@ -259,7 +260,7 @@
 | [easy](https://open.spotify.com/track/4oSywTRBD1TCpvWehg4cxp) | [MacKenzie Bourg](https://open.spotify.com/artist/3pg4cfNfPC0ehk912YtXe9) | [easy](https://open.spotify.com/album/740ZfWRY6fQuysBFuzWDwu) | 3:25 | 2024-10-11 | 2025-04-05 |
 | [Easy Love](https://open.spotify.com/track/4teTkriwH61lCPVRSvLIBv) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Easy Love](https://open.spotify.com/album/3ZjApkMiuqIxvsZbEGCo0o) | 3:23 | 2022-10-28 | 2023-01-14 |
 | [eat ur heart out](https://open.spotify.com/track/53QT3zKgxfkMPyJ6rUjwLz) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [scared to go to sleep](https://open.spotify.com/album/4QKam9OIXo9igvbnq5r5O2) | 2:45 | 2022-11-18 | 2023-01-28 |
-| [Eating Me Alive](https://open.spotify.com/track/3oWnxaIUpSkYNrZKj6oltw) | [dearest](https://open.spotify.com/artist/63nfkiGvTNEHhYfTIQnNfT) | [Eating Me Alive](https://open.spotify.com/album/159PlKdtrZXSybeNjs9z8m) | 3:12 | 2025-08-29 |  |
+| [Eating Me Alive](https://open.spotify.com/track/3oWnxaIUpSkYNrZKj6oltw) | [dearest](https://open.spotify.com/artist/63nfkiGvTNEHhYfTIQnNfT) | [Eating Me Alive](https://open.spotify.com/album/159PlKdtrZXSybeNjs9z8m) | 3:12 | 2025-08-29 | 2026-01-24 |
 | [Eddie's Song](https://open.spotify.com/track/6mO9n6CncvYtIcfWjFKsYH) | [SAPPHIRE](https://open.spotify.com/artist/3lszNiPaTVlTlfsGuLgX9J) | [Eddie's Song](https://open.spotify.com/album/6odEvXlFaV0iTFED7Utu3b) | 4:04 | 2022-08-26 | 2022-12-24 |
 | [Eightball Girl](https://open.spotify.com/track/1TBTrssuZFzXXpK3OJk5m3) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Eightball Girl](https://open.spotify.com/album/6IJarp7jqTQ8u7tus5bYBu) | 3:11 | 2023-08-18 | 2023-10-01 |
 | [Elephant In The Room](https://open.spotify.com/track/6fvbw0uQPYd9RtBw7WVgb3) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Elephant In The Room](https://open.spotify.com/album/6bGGWNEqqh3WFJuHzuqdOA) | 2:41 | 2023-01-27 | 2023-06-13 |
@@ -317,6 +318,7 @@
 | [Full Circle](https://open.spotify.com/track/1agBQVBW2meTYQjmLdCxbB) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Full Circle](https://open.spotify.com/album/5ajWwglxlTJUUjIXhDg2y8) | 3:19 | 2023-03-31 | 2023-07-08 |
 | [Funeral](https://open.spotify.com/track/4BvRbNPdT7ORpX8h70FrFo) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [Funeral](https://open.spotify.com/album/2FXHQdFvhYwP62nBazYaAq) | 3:31 | 2022-08-26 | 2022-12-24 |
 | [Future Emma](https://open.spotify.com/track/2v8pOMgEEvFjAFSJXBRwhQ) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Future Emma](https://open.spotify.com/album/6fCdybjQTL2stzYvev2hPk) | 4:19 | 2025-04-11 | 2025-07-26 |
+| [Gale](https://open.spotify.com/track/6nFUqMJ8bGX78npDfMm8Ho) | [Emma Harner](https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ) | [Gale](https://open.spotify.com/album/3EhSBVM5HLJO37J0QRvLsS) | 3:28 | 2026-01-23 |  |
 | [Games](https://open.spotify.com/track/7xR4soaVnkl0IunRwUO5Dw) | [Ian Harrison](https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG) | [Games](https://open.spotify.com/album/0qhjCNkQX5WQGFcY3ZOOfG) | 2:50 | 2026-01-16 |  |
 | [Gasoline](https://open.spotify.com/track/7BoVhTeOg7m2sfQb9g6FXe) | [Syd Franklin](https://open.spotify.com/artist/0FVBV0tOAo6AWz8ecbKjY7) | [Gasoline](https://open.spotify.com/album/6nXYRmtCw2OgR0ZgVo7G0y) | 3:11 | 2024-08-09 | 2025-01-04 |
 | [Gatekeeper](https://open.spotify.com/track/7uveohm2cpiLUOYZ7fj8hM) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Gatekeeper](https://open.spotify.com/album/2cbHlXqnA646x6mGL8RpWB) | 3:26 | 2023-02-03 | 2023-05-20 |
@@ -624,6 +626,7 @@
 | [My Brother](https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Who Do You Pray To?](https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z) | 3:09 | 2022-03-18 | 2022-04-12 |
 | [My Eyes Only](https://open.spotify.com/track/2iD1Ogu3Mck9MuMKIgIBVG) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [My Eyes Only](https://open.spotify.com/album/1VChtX56VENbyIyKw0NP19) | 3:14 | 2022-06-22 | 2022-12-17 |
 | [Mystery Woman](https://open.spotify.com/track/3THln96cTn4UblX2X6oS0v) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Mystery Woman](https://open.spotify.com/album/06Zx22LDG16fi9ZE22k4SK) | 3:04 | 2025-10-17 |  |
+| [Narcissist](https://open.spotify.com/track/2iTqogAQJ5Oprtkn1SxkS4) | [Tallulah Argue](https://open.spotify.com/artist/34L2mrqYyWifYUwyPMhCUd) | [Narcissist](https://open.spotify.com/album/4EybcryYJC2MmZ65yPGS2J) | 3:29 | 2026-01-23 |  |
 | [NEED ME](https://open.spotify.com/track/2M0Mh2R2GPAOAVYnXVjSFR) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [NEED ME](https://open.spotify.com/album/4LEWE31MV5QuWP9F0qxOus) | 3:43 | 2024-05-24 | 2024-08-03 |
 | [Never Had a Chance](https://open.spotify.com/track/7kWHoZvIn3TzxUHYrszYFc) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Never Had a Chance](https://open.spotify.com/album/5td0jzs96pRarCswOchXN8) | 2:25 | 2022-04-08 | 2022-06-23 |
 | [Never Knew](https://open.spotify.com/track/00yBeMYfB9QGKN1GdvtBqQ) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Never Knew](https://open.spotify.com/album/0QJBhVPWMLTwLu3tOMDTuP) | 2:42 | 2024-11-01 | 2025-04-05 |
@@ -634,7 +637,7 @@
 | [new year](https://open.spotify.com/track/0uqc00wyYU4ikXuVFDaqux) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [new year](https://open.spotify.com/album/4qPaD8Ab0uIFXL24s1ypgc) | 2:15 | 2022-02-18 | 2022-03-26 |
 | [Next Life](https://open.spotify.com/track/77gpwRWeMlZeIUI9QDoDVZ) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Next Life](https://open.spotify.com/album/3ADl40rpQzbx905hFyNaW6) | 3:07 | 2022-03-04 | 2022-06-25 |
 | [NFL](https://open.spotify.com/track/2MwfKQrMR5Uy0C6sDwDhDI) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [NFL](https://open.spotify.com/album/5AqNzDCUujDADCqEgO8tCa) | 2:52 | 2023-06-02 | 2023-07-15 |
-| [nice & slow](https://open.spotify.com/track/4Vn9IH1SmjYM7wi93ixw0x) | [Rin](https://open.spotify.com/artist/4gSWoSxfOZf7EeuhqlDksA) | [fawn](https://open.spotify.com/album/2H9new7XInTTfBS4hlZOtS) | 2:54 | 2025-08-29 |  |
+| [nice & slow](https://open.spotify.com/track/4Vn9IH1SmjYM7wi93ixw0x) | [Rin](https://open.spotify.com/artist/4gSWoSxfOZf7EeuhqlDksA) | [fawn](https://open.spotify.com/album/2H9new7XInTTfBS4hlZOtS) | 2:54 | 2025-08-29 | 2026-01-24 |
 | [nice pup](https://open.spotify.com/track/44ZzrQnqhQt3bAOOJ9iQbE) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [puppy luv](https://open.spotify.com/album/24MK23qVssP0WYEeb6lbYq) | 2:43 | 2022-04-08 | 2022-04-23 |
 | [Nights Like This](https://open.spotify.com/track/41UhyBzOfsI1mqBviJq6AN) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Nights Like This](https://open.spotify.com/album/5GuZOIH7CAgK0WrPIn5uAi) | 2:22 | 2022-01-14 | 2022-02-19 |
 | [Nighttime Routine](https://open.spotify.com/track/2KgwVET4EKMAXGkQUGR6lF) | [Ellee Duke](https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N) | [Nighttime Routine](https://open.spotify.com/album/6h5PaMV7R6ItjrEXtC3Yxc) | 3:10 | 2023-03-03 | 2023-08-12 |

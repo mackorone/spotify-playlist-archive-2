@@ -1217,6 +1217,24 @@
     },
     {
       "album": {
+        "name": "God Spoke",
+        "url": "https://open.spotify.com/album/4CVuionlpJerZ5CQmdWyke"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188988,
+      "name": "S.W.M.F.",
+      "url": "https://open.spotify.com/track/4cbETMfcRMcFWBpEo1JD6Y"
+    },
+    {
+      "album": {
         "name": "S.W.M.F.",
         "url": "https://open.spotify.com/album/2sfHdpolaidE0tV9uBfLqG"
       },
@@ -1672,7 +1690,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 198401,
       "name": "Where The Wild Things",
       "url": "https://open.spotify.com/track/1ooP2mxAp73HtHb4KJ8dtB"

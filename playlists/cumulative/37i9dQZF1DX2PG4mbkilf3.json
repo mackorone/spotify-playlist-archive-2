@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Your guide to R&B in Canada, with Yoko Gold from Brampton, ON.",
+  "description": "Your guide to R&B in Canada, with Skip Waiters from Brampton, ON.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -4658,7 +4658,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 183973,
       "name": "cohete",
       "url": "https://open.spotify.com/track/5SD3IKqIJA2EW14JCTamPE"
@@ -5910,6 +5910,24 @@
       "duration_ms": 192907,
       "name": "Dirt Roads",
       "url": "https://open.spotify.com/track/6abgej5aQVjWvSFydjqo6o"
+    },
+    {
+      "album": {
+        "name": "Greyhound",
+        "url": "https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP"
+      },
+      "artists": [
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211669,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC"
     },
     {
       "album": {
@@ -11521,6 +11539,24 @@
     },
     {
       "album": {
+        "name": "i see red",
+        "url": "https://open.spotify.com/album/231uuW018MqyHPEGHHjZ8C"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176138,
+      "name": "i see red",
+      "url": "https://open.spotify.com/track/3Gg7L1NuNNhqltvDgd6VHI"
+    },
+    {
+      "album": {
         "name": "I Think I Do",
         "url": "https://open.spotify.com/album/6OHRYCn9KlMjlaMtIzkrya"
       },
@@ -12838,6 +12874,28 @@
       "duration_ms": 211727,
       "name": "just a call away (feat. Lafa Taylor & Mr. Carmack)",
       "url": "https://open.spotify.com/track/72ixJIhUCZMwIw0Ooxoqoe"
+    },
+    {
+      "album": {
+        "name": "INSECURE",
+        "url": "https://open.spotify.com/album/3aIMsGenEfDKTS2Cco1JP8"
+      },
+      "artists": [
+        {
+          "name": "Skip Waiters",
+          "url": "https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav"
+        },
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174222,
+      "name": "just busiNESS (feat. Kalisway)",
+      "url": "https://open.spotify.com/track/00VNNaPRpJCGiV4T1LRuyL"
     },
     {
       "album": {
@@ -21690,7 +21748,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 193942,
       "name": "Safe Ground",
       "url": "https://open.spotify.com/track/3Bt0GlzLP4O0UUyii2FmzV"

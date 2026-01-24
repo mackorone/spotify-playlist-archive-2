@@ -581,6 +581,24 @@
     },
     {
       "album": {
+        "name": "Awaara",
+        "url": "https://open.spotify.com/album/4C8jHXBFG09uQ4pI7fSKq5"
+      },
+      "artists": [
+        {
+          "name": "Fakhar Anjum",
+          "url": "https://open.spotify.com/artist/1nC5tVdFsI5uHCzZAyvH0p"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146544,
+      "name": "Awaara",
+      "url": "https://open.spotify.com/track/5Ns4aGNInVLUTGv6FNMGrI"
+    },
+    {
+      "album": {
         "name": "Awazein",
         "url": "https://open.spotify.com/album/6ba06qKiokFmgg7zg6Sz3o"
       },

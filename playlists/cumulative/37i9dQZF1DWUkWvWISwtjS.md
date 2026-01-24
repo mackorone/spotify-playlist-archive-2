@@ -4,7 +4,7 @@
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-166 songs - 8 hr 19 min
+167 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Alguns Defeitos](https://open.spotify.com/track/2Bl3dk6diYybHz4qhJ3w68) | [Juan Marcus & Vinícius](https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW) | [Alguns Defeitos](https://open.spotify.com/album/55bLrQZIshSyN5C9x1CQsh) | 3:05 | 2025-04-04 |  |
 | [Amante Não Tem Lar \- Ao Vivo](https://open.spotify.com/track/6P8v1a8jyfwG5kc7Si1kUp) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Realidade \(Ao Vivo Em Manaus\)](https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry) | 2:53 | 2023-10-13 |  |
 | [Amiga Linda](https://open.spotify.com/track/11iB0tgmTc9smIam2IfIic) | [João Bosco & Vinícius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0) | [João Bosco & Vinicius E Seus Ídolos \- Estrada De Chão](https://open.spotify.com/album/5ktSlHT6uyJIDRjAg8rHtd) | 2:46 | 2023-10-13 |  |
+| [Amo Noite E Dia \- Acústico](https://open.spotify.com/track/0AEcoGLcaEGwLoROAfbY8L) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Amo Noite E Dia \(Acústico\)](https://open.spotify.com/album/0EtsGtfFsV13lGE0wnmwbe) | 3:08 | 2026-01-16 |  |
 | [Amor Da Sua Cama](https://open.spotify.com/track/3Zr5PyaL0ESYkewiamwEBQ) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Felipe Araújo \- Só Hit](https://open.spotify.com/album/3eBW4SkUBnFsVZjbBGK4h5) | 3:08 | 2023-10-13 | 2024-04-19 |
 | [Amor Da Sua Cama](https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Amor Da Sua Cama](https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv) | 3:08 | 2023-10-13 | 2024-04-07 |
 | [Amor De Cana \- Ao Vivo](https://open.spotify.com/track/0fZfE8LEbsQT8eLMxqJBRF) | [Bruno & Barretto](https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS) | [Buteco Raiz \(Só As Derramadas\) \[Ao Vivo\]](https://open.spotify.com/album/2QUwcnKuQauMomrEftu2Ai) | 2:43 | 2023-10-13 |  |
@@ -94,7 +95,7 @@
 | [Litrão \- Ao Vivo Em Recife / 2020](https://open.spotify.com/track/5W1kqz2l1lDX77DXBMeXZg) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [10 Anos Na Praia \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/6rtq152SsRhAcAvGmzoBWl) | 2:50 | 2023-10-13 |  |
 | [Mais Amor E Menos Drama \- Ao Vivo](https://open.spotify.com/track/4bDvY5oGtCWTYH5Vi36bc5) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [O Céu Explica Tudo \(Ao Vivo\)](https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy) | 2:52 | 2023-10-13 | 2024-04-19 |
 | [MC Lençol e DJ Travesseiro](https://open.spotify.com/track/2ozsutWRgcaZKJsQ6DvFFv) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Mc Lençol e Dj Travesseiro](https://open.spotify.com/album/6eBS5yuROQbX05f81qtbru) | 2:58 | 2023-10-13 |  |
-| [Medida Certa](https://open.spotify.com/track/44mr3ypWNHa0inr3heiOb2) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Medida Certa](https://open.spotify.com/album/5odHcyWv2Zcw2O9Y273EYB) | 3:06 | 2023-10-13 |  |
+| [Medida Certa](https://open.spotify.com/track/44mr3ypWNHa0inr3heiOb2) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Medida Certa](https://open.spotify.com/album/5odHcyWv2Zcw2O9Y273EYB) | 3:06 | 2023-10-13 | 2026-01-24 |
 | [Melhor Saída \- Ao Vivo](https://open.spotify.com/track/0wE8pNDoSaln4gV2SYVFEC) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Verdade \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/1cZdFWvvyAKXlUDAZNMs1c) | 2:44 | 2023-10-13 | 2024-04-19 |
 | [Meu Amor \- Ao Vivo](https://open.spotify.com/track/3eHeTsX6W9iIEfn8l2xrWO) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [O Céu Explica Tudo \(Ao Vivo\)](https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy) | 2:54 | 2023-10-13 | 2024-04-19 |
 | [Milu](https://open.spotify.com/track/1nqaSoiLuqevDes4S18sO7) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Milu](https://open.spotify.com/album/3oqVZoqdqNmaSQkJF9mMfI) | 3:44 | 2023-10-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLzS1pepUTD.md) - [plain]
 
 > The essential entrance themes for the Superstars of <a href="https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX">WWE</a>\. \#MakeAnEntrance
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,250 likes - 91 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,260 likes - 91 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLzS1pepUTD.md) - [plain]
 | 74 | [WWE: Our World \(LWO\)](https://open.spotify.com/track/3J51StEb6g7CCnxQNMKU9m) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Our World \(LWO\)](https://open.spotify.com/album/3GxRAIwctyOJdreNsmWI9M) | 2:00 |
 | 75 | [WWE: All Hail The Queen \(Charlotte Flair\)](https://open.spotify.com/track/7yt4p8GEAUMWqrAGR3f4zy) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: All Hail The Queen \(Charlotte Flair\)](https://open.spotify.com/album/6hmNitfDfYkcZZzMCgQebG) | 2:51 |
 | 76 | [WWE: Eye On The Prize \(Grayson Waller\)](https://open.spotify.com/track/5EKbyfJdipHM9fpKWmQufb) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Eye On The Prize \(Grayson Waller\)](https://open.spotify.com/album/33jqes2a4p7drk2n5ob1DG) | 2:24 |
-| 77 | [WWE: Shoooosh \(Alpha Academy\)](https://open.spotify.com/track/0Vt8Xe68RKfA4hSxyrr7by) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Shoooosh \(Alpha Academy\)](https://open.spotify.com/album/1AlHDyuw3JxRe1FjK2w6Qs) | 2:45 |
+| 77 | [WWE: Shoooosh \(Alpha Academy\)](https://open.spotify.com/track/0Vt8Xe68RKfA4hSxyrr7by) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Shoooosh \(Alpha Academy\)](https://open.spotify.com/album/1AlHDyuw3JxRe1FjK2w6Qs) | 2:40 |
 | 78 | [WWE: Watch Me Shine \(Bianca Belair\)](https://open.spotify.com/track/4wtOHDV46zd7vC3YairlSs) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [CFO$](https://open.spotify.com/artist/4aemlCxfmvFjJa8YKvaiJI) | [WWE: Watch Me Shine \(Bianca Belair\)](https://open.spotify.com/album/1yF4lE0GW0X1S85ofzxCWv) | 4:56 |
 | 79 | [I Walk Alone \(Batista\)](https://open.spotify.com/track/3cyX3DY6dvKJjYTvjB3d2Q) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [WWE: Wreckless Intent](https://open.spotify.com/album/2m4KqjduGuZ3Vd4xdCnwMc) | 4:07 |
 | 80 | [WWE: Rest In Peace \(Undertaker\)](https://open.spotify.com/track/5V4JJSa7femKY5jCTeUrFo) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Jim Johnston](https://open.spotify.com/artist/6irRU9KRGb0cMtlsBZMg2i) | [WWE: Rest In Peace \(Undertaker\)](https://open.spotify.com/album/7lLN5M9KviPwF5UhAovxYo) | 3:21 |

@@ -1765,6 +1765,32 @@
     },
     {
       "album": {
+        "name": "Arise, Shine",
+        "url": "https://open.spotify.com/album/1zl9pQZn5Fd12UWQdyqxX4"
+      },
+      "artists": [
+        {
+          "name": "Anna Lapwood",
+          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
+        },
+        {
+          "name": "The Chapel Choir of Pembroke College, Cambridge",
+          "url": "https://open.spotify.com/artist/6DPxkITuYSrDAPdhISWO35"
+        },
+        {
+          "name": "Sophia Membery",
+          "url": "https://open.spotify.com/artist/4HZTH0hcr5ioXuYK8d39G2"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259666,
+      "name": "Arise, Shine",
+      "url": "https://open.spotify.com/track/29waj25GhGjyIFzde8kxZW"
+    },
+    {
+      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
       },

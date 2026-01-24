@@ -2796,7 +2796,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 226612,
       "name": "COLORS",
       "url": "https://open.spotify.com/track/45dmhJngghAsnQxYSW0YaU"
@@ -3658,6 +3658,32 @@
       "duration_ms": 193601,
       "name": "Direct With It",
       "url": "https://open.spotify.com/track/246JJzXjBKtECuHGHqm2Jz"
+    },
+    {
+      "album": {
+        "name": "Dive In",
+        "url": "https://open.spotify.com/album/36atWUXll5o1tohRI6NCUz"
+      },
+      "artists": [
+        {
+          "name": "Only Chris",
+          "url": "https://open.spotify.com/artist/26nVix33ggpJLOx8KKNB0G"
+        },
+        {
+          "name": "MALARKEY",
+          "url": "https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV"
+        },
+        {
+          "name": "Len Blake",
+          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139687,
+      "name": "Dive In",
+      "url": "https://open.spotify.com/track/3XBPAGKzYJ3rrAuyaxth0j"
     },
     {
       "album": {
@@ -17900,6 +17926,24 @@
       "duration_ms": 187781,
       "name": "Way Down",
       "url": "https://open.spotify.com/track/7eC86H1BAylHnn6AWGkjuB"
+    },
+    {
+      "album": {
+        "name": "TO MAKE PEOPLE HAPPY",
+        "url": "https://open.spotify.com/album/5hBLIA2KYKkHLJWWS1K1tq"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "WAY YOU SMILE",
+      "url": "https://open.spotify.com/track/20gQ2YTRFIzSwLla3GRsGp"
     },
     {
       "album": {

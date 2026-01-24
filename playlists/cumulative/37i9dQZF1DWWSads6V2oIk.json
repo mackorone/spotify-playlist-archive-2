@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Jungle Rain",
       "url": "https://open.spotify.com/track/225puEONdqqHyOfVXyLQO9"
@@ -1444,7 +1444,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 600000,
       "name": "Night Time Forest + Jungle Waterfall Soundscape",
       "url": "https://open.spotify.com/track/07mULeXBpE2Midfs1dM9Ni"
@@ -2510,7 +2510,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 212000,
       "name": "Wet Leaves",
       "url": "https://open.spotify.com/track/167TgOFpMob0vFh5yvTCqM"
@@ -2622,6 +2622,24 @@
       "duration_ms": 124000,
       "name": "Wildlife Storm (Nature)",
       "url": "https://open.spotify.com/track/2qqME0ZRyHJjCkfNWZpnOC"
+    },
+    {
+      "album": {
+        "name": "Wind and the Crickets",
+        "url": "https://open.spotify.com/album/0N9Fr3RD0HBSrXwhfL8if9"
+      },
+      "artists": [
+        {
+          "name": "Natural Song",
+          "url": "https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Wind and the Crickets",
+      "url": "https://open.spotify.com/track/3b2byusKjShwrcNTpPGFJ2"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWSads6V2oIk"

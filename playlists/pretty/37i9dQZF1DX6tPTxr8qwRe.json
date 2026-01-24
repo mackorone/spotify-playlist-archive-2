@@ -1,13 +1,45 @@
 {
-  "description": "sweet. sharp. unbothered - mermaidonmars on the cover",
-  "num_followers": 425908,
+  "description": "sweet. sharp. unbothered - Precious Pepala on the cover",
+  "num_followers": 425903,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGawOabfsyRc7Ugshu+aaCMj8TfU",
+  "snapshot_id": "AAAAAI2XAeepm3CyrQlz/eCLNaoYbj6c",
   "tracks": [
+    {
+      "added_at": "2026-01-23 05:11:43",
+      "album": {
+        "name": "Love Bombs",
+        "url": "https://open.spotify.com/album/3JGRQFGZS9j3GzhpHAzcZs"
+      },
+      "artists": [
+        {
+          "name": "Precious Pepala",
+          "url": "https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1"
+        }
+      ],
+      "duration_ms": 155540,
+      "name": "Love Bombs",
+      "url": "https://open.spotify.com/track/7N2dxYIULi9q0vepBwsDf5"
+    },
+    {
+      "added_at": "2026-01-23 05:11:43",
+      "album": {
+        "name": "BAD IDEA",
+        "url": "https://open.spotify.com/album/6onkLsxds6BIAt1CJcqHpH"
+      },
+      "artists": [
+        {
+          "name": "Lana Lubany",
+          "url": "https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR"
+        }
+      ],
+      "duration_ms": 184421,
+      "name": "BAD IDEA",
+      "url": "https://open.spotify.com/track/2tv9f6TI6N2YodNZznGX9u"
+    },
     {
       "added_at": "2025-12-19 05:00:39",
       "album": {
@@ -23,6 +55,22 @@
       "duration_ms": 149866,
       "name": "Cognitive Dissonance",
       "url": "https://open.spotify.com/track/4gxcQjQas1oSbY63REnRjT"
+    },
+    {
+      "added_at": "2026-01-23 05:11:43",
+      "album": {
+        "name": "BLEED MY LOVE",
+        "url": "https://open.spotify.com/album/4oK6v8oTRvM6FSMRrz3MJX"
+      },
+      "artists": [
+        {
+          "name": "Johnny Huynh",
+          "url": "https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju"
+        }
+      ],
+      "duration_ms": 154155,
+      "name": "BLEED MY LOVE",
+      "url": "https://open.spotify.com/track/5vbuYJAzJqMIIaGcEuu021"
     },
     {
       "added_at": "2026-01-09 05:00:48",
@@ -45,6 +93,38 @@
       "url": "https://open.spotify.com/track/0YKWVQAAhWUdN2CHb2tBPW"
     },
     {
+      "added_at": "2026-01-23 05:11:43",
+      "album": {
+        "name": "007",
+        "url": "https://open.spotify.com/album/4tFAsnha5JJuUYn1plJJI9"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "007",
+      "url": "https://open.spotify.com/track/2GikvXlSzcrm7cXXkSkhYN"
+    },
+    {
+      "added_at": "2026-01-23 05:11:43",
+      "album": {
+        "name": "PAPERCUT",
+        "url": "https://open.spotify.com/album/1ZWy1gMLEjonQb9qytN3uo"
+      },
+      "artists": [
+        {
+          "name": "Britton",
+          "url": "https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0"
+        }
+      ],
+      "duration_ms": 194028,
+      "name": "PAPERCUT",
+      "url": "https://open.spotify.com/track/25AjbQVBqFYNsACWvMLI6h"
+    },
+    {
       "added_at": "2026-01-09 18:54:43",
       "album": {
         "name": "DIRTY LITTLE FIEND",
@@ -59,6 +139,38 @@
       "duration_ms": 149538,
       "name": "DIRTY LITTLE FIEND",
       "url": "https://open.spotify.com/track/4RNmcHb9kK8PmxrxW29WKp"
+    },
+    {
+      "added_at": "2026-01-23 05:11:43",
+      "album": {
+        "name": "Ur Girlfriend\u2019s a Lawyer",
+        "url": "https://open.spotify.com/album/0552jIKdLEVqPviE5jIs22"
+      },
+      "artists": [
+        {
+          "name": "Hana Lili",
+          "url": "https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p"
+        }
+      ],
+      "duration_ms": 179493,
+      "name": "Ur Girlfriend\u2019s a Lawyer",
+      "url": "https://open.spotify.com/track/0lD4Mt5cjFM6ul4NxxgFau"
+    },
+    {
+      "added_at": "2026-01-23 05:11:43",
+      "album": {
+        "name": "iNSOMNiAC",
+        "url": "https://open.spotify.com/album/6VAudXPDYWxC3kECysc8zw"
+      },
+      "artists": [
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "duration_ms": 165047,
+      "name": "iNSOMNiAC",
+      "url": "https://open.spotify.com/track/1wl9sRI946fOxewS3k2ExF"
     },
     {
       "added_at": "2025-12-12 05:00:48",
@@ -77,6 +189,22 @@
       "url": "https://open.spotify.com/track/0uyv1zBBUQolBPzKlslzKh"
     },
     {
+      "added_at": "2026-01-23 05:11:43",
+      "album": {
+        "name": "ROLL THE CREDITS",
+        "url": "https://open.spotify.com/album/1MnLqCAzLUWSrQOSnHQpx6"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Cassette",
+          "url": "https://open.spotify.com/artist/4iPGbAiNjBqWiCvQoTA31n"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "ROLL THE CREDITS",
+      "url": "https://open.spotify.com/track/2paspRstByBiQWEQ5e559C"
+    },
+    {
       "added_at": "2026-01-09 05:00:48",
       "album": {
         "name": "Vices",
@@ -91,6 +219,22 @@
       "duration_ms": 139335,
       "name": "Vices",
       "url": "https://open.spotify.com/track/45vN3pKjL8MxaU6PGGb8hh"
+    },
+    {
+      "added_at": "2026-01-23 05:11:43",
+      "album": {
+        "name": "Slap On The Wrist",
+        "url": "https://open.spotify.com/album/7hVghiFPHSveuIwK8YzQWt"
+      },
+      "artists": [
+        {
+          "name": "girli",
+          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+        }
+      ],
+      "duration_ms": 158396,
+      "name": "Slap On The Wrist",
+      "url": "https://open.spotify.com/track/54t4eAvCmdEWh2QwelmCXC"
     },
     {
       "added_at": "2026-01-06 17:55:42",

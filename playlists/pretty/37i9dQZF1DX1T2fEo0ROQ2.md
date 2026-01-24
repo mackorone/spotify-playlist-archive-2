@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 
 > Relaxing and salutary ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,676 likes - 209 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,706 likes - 209 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -218,4 +218,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 208 | [Terra Rising](https://open.spotify.com/track/0o7sCb9knktXCpVDRsEWv3) | [Ephemeral Odyssey](https://open.spotify.com/artist/5If4W5LdMaQuxNjbWXqgif) | [Terra Rising](https://open.spotify.com/album/5TLR2kYeCbKcJDQ69xxrIb) | 2:38 |
 | 209 | [Gravity Dream](https://open.spotify.com/track/7gsNnErbSptqyYA5dUr07c) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Gravity Dream](https://open.spotify.com/album/0Qial1EtUcZWhzsADaVnH9) | 3:50 |
 
-Snapshot ID: `AAAAAJIO0dRSkI4FPSzny5iF9gqBOoun`
+Snapshot ID: `AAAAAMV3iUCQ8gMOjLI3OvOFZ0w4LbF5`

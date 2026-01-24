@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Guessmi, Mandyspie",
+  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: tifloccon",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -4696,7 +4696,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 219535,
       "name": "C\u00e9sar",
       "url": "https://open.spotify.com/track/1MO1LkPsrMBLUcs3NpMGMC"
@@ -5425,6 +5425,50 @@
     },
     {
       "album": {
+        "name": "Discours Graphique",
+        "url": "https://open.spotify.com/album/477dKBewqZDO8gQ2AesqAF"
+      },
+      "artists": [
+        {
+          "name": "Jeune Lowkeyy",
+          "url": "https://open.spotify.com/artist/4BjbwKT6pEG6SGRbHI2K2o"
+        },
+        {
+          "name": "CART3L",
+          "url": "https://open.spotify.com/artist/2iRLxhiaXQyJpJXe0cHOL6"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262791,
+      "name": "Discours Graphique",
+      "url": "https://open.spotify.com/track/1dGQThBkwwwW3a0REvcV9y"
+    },
+    {
+      "album": {
+        "name": "dla marde (avec MikeShabb)",
+        "url": "https://open.spotify.com/album/35VArS9UTQUGnDt7HnNVln"
+      },
+      "artists": [
+        {
+          "name": "tifloccon",
+          "url": "https://open.spotify.com/artist/3g8OUKaanhW4y455qhqlXN"
+        },
+        {
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113142,
+      "name": "dla marde (avec MikeShabb)",
+      "url": "https://open.spotify.com/track/5ZWzAdCfeswSIgVozbxq3N"
+    },
+    {
+      "album": {
         "name": "Dollars Canadiens",
         "url": "https://open.spotify.com/album/4K5lMdOiq1hV7VNKpFXqHG"
       },
@@ -5878,6 +5922,24 @@
       "duration_ms": 163902,
       "name": "D\u00e9g\u00e2ts",
       "url": "https://open.spotify.com/track/756EjIt63zjvcdx5jH6dKy"
+    },
+    {
+      "album": {
+        "name": "CAMPAGNARD",
+        "url": "https://open.spotify.com/album/0m71cSCCxDcP3FtVK7WMNt"
+      },
+      "artists": [
+        {
+          "name": "\u00e9ther",
+          "url": "https://open.spotify.com/artist/4XT1Jfd6Hel58qViPrldXY"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121860,
+      "name": "D\u00c9RANGE",
+      "url": "https://open.spotify.com/track/1aWwAsGuXCArYVibJj3hU2"
     },
     {
       "album": {
@@ -11308,7 +11370,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 109446,
       "name": "L\u00c9CHAGE",
       "url": "https://open.spotify.com/track/7mPBYHkPipRkQBz2AMcP0B"
@@ -17196,6 +17258,32 @@
       "duration_ms": 149356,
       "name": "Si j'avais su",
       "url": "https://open.spotify.com/track/239IKlDKrzCDdisFHxfJY0"
+    },
+    {
+      "album": {
+        "name": "Cheminement",
+        "url": "https://open.spotify.com/album/1hqsADkRmaa8G0acOn2GaT"
+      },
+      "artists": [
+        {
+          "name": "Monk.E",
+          "url": "https://open.spotify.com/artist/0iA2L1Fbkwp3PxiSD22Uou"
+        },
+        {
+          "name": "Rox",
+          "url": "https://open.spotify.com/artist/3ZMTLiH3o8SiHy3taw9h0X"
+        },
+        {
+          "name": "Dr Koul",
+          "url": "https://open.spotify.com/artist/2pmXxfeX067NzPabZWmP04"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Sincerity",
+      "url": "https://open.spotify.com/track/0fpedlu8urVEmPSnadGRUH"
     },
     {
       "album": {

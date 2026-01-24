@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Reggaeton pero al sabor de Cristo! Foto: Alexxander",
+  "description": "Reggaeton pero al sabor de Cristo! Foto: Andrez Babii",
   "name": "Reggaeton Cristiano",
   "tracks": [
     {
@@ -204,6 +204,24 @@
       "duration_ms": 259986,
       "name": "Ac\u00e1 Entre Nos",
       "url": "https://open.spotify.com/track/7HFJu4FWtVHNW1kSCCA5YK"
+    },
+    {
+      "album": {
+        "name": "Agua Viva",
+        "url": "https://open.spotify.com/album/2r9SoVwpEUsTur6bOzuyqL"
+      },
+      "artists": [
+        {
+          "name": "Giovani",
+          "url": "https://open.spotify.com/artist/24ChasRK4LlBoGdhRvSCRG"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132613,
+      "name": "Agua Viva",
+      "url": "https://open.spotify.com/track/6FvnsvwPivTDcvaaeltAnZ"
     },
     {
       "album": {
@@ -513,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Bonito :)",
+        "url": "https://open.spotify.com/album/1cSYFSybJfHvbJs3KOBvm8"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164526,
+      "name": "Bonito :)",
+      "url": "https://open.spotify.com/track/6kgm0J6sYGR6XnUdF3Usid"
+    },
+    {
+      "album": {
         "name": "Brillo",
         "url": "https://open.spotify.com/album/2R4MKKiLsgx8rPhRYa4Ul5"
       },
@@ -792,6 +828,28 @@
       "duration_ms": 214376,
       "name": "Colores - Live",
       "url": "https://open.spotify.com/track/0NB8PzSYEgOXkIoGnRXvAn"
+    },
+    {
+      "album": {
+        "name": "La Ciudad <3",
+        "url": "https://open.spotify.com/album/1DggbgYV2aEbXRcdRg3209"
+      },
+      "artists": [
+        {
+          "name": "Junior Delgado Music",
+          "url": "https://open.spotify.com/artist/0cVT6RdWUCUZIDu2PN1Brb"
+        },
+        {
+          "name": "JUNDEL01",
+          "url": "https://open.spotify.com/artist/2nrwcHOrXlvQNcXg88ktVt"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157718,
+      "name": "Como Antes..<3",
+      "url": "https://open.spotify.com/track/3C5DbIs23Ox0Cj3kUK9aZ4"
     },
     {
       "album": {
@@ -1106,7 +1164,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 131377,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/5pZpJhdfPPHGdgCXHBUo8f"
@@ -1538,7 +1596,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 136857,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2WCVhlEJIlodwMA0DeT2X0"
@@ -2430,7 +2488,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 197285,
       "name": "La Combi (Deluxe)",
       "url": "https://open.spotify.com/track/4nLS0W2Xey94TnrDXUxg89"
@@ -2474,6 +2532,42 @@
       "duration_ms": 157659,
       "name": "La Mentira Pierde",
       "url": "https://open.spotify.com/track/6wZ6NdaEzFrlvxG57bXRtM"
+    },
+    {
+      "album": {
+        "name": "La Movie",
+        "url": "https://open.spotify.com/album/4IRw4MClmNIPBhUICKNXwy"
+      },
+      "artists": [
+        {
+          "name": "Micky Medina",
+          "url": "https://open.spotify.com/artist/7os2zbfBHSRid4kmvX3h78"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193263,
+      "name": "La Movie",
+      "url": "https://open.spotify.com/track/0ozQfQGP1Q1IFNQKcQXJ7r"
+    },
+    {
+      "album": {
+        "name": "La R\u00e1pida",
+        "url": "https://open.spotify.com/album/24IYi56iNNzOwgxomuKN2K"
+      },
+      "artists": [
+        {
+          "name": "Obedoyoque",
+          "url": "https://open.spotify.com/artist/0ZV3RlJLxlSiCjiWO2WFXS"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "La R\u00e1pida",
+      "url": "https://open.spotify.com/track/51lXdhEJF6qsD6lFLBecUP"
     },
     {
       "album": {
@@ -2592,6 +2686,24 @@
       "duration_ms": 176011,
       "name": "Lo Contrario",
       "url": "https://open.spotify.com/track/0Lu7hyAp3TJsvdd6Ws700A"
+    },
+    {
+      "album": {
+        "name": "Todo termina por donde emPIEZAS",
+        "url": "https://open.spotify.com/album/3UOFYeW1BsKyV7gVw4GrHE"
+      },
+      "artists": [
+        {
+          "name": "FABI",
+          "url": "https://open.spotify.com/artist/3WNgAsXsegbmzt4QX1jEId"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153433,
+      "name": "Lo mejor que hice",
+      "url": "https://open.spotify.com/track/1sA8hz0fEj9YwHNQ3CoP7I"
     },
     {
       "album": {
@@ -3065,6 +3177,24 @@
     },
     {
       "album": {
+        "name": "El Hijo Del Father",
+        "url": "https://open.spotify.com/album/3dcedIMp3eW0X3cDH1K961"
+      },
+      "artists": [
+        {
+          "name": "Nick The Prodigy",
+          "url": "https://open.spotify.com/artist/4sjBX1hPjHxSz5BBGizOby"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129795,
+      "name": "Mundo Fr\u00edo",
+      "url": "https://open.spotify.com/track/2UVzskDol0uYyQ9HArAUyZ"
+    },
+    {
+      "album": {
         "name": "MVP",
         "url": "https://open.spotify.com/album/35h3Iss6wIlNYGl71cvylY"
       },
@@ -3499,6 +3629,36 @@
     },
     {
       "album": {
+        "name": "otravueltaxx",
+        "url": "https://open.spotify.com/album/7D9NsndIznJ2GEJAd1DxaB"
+      },
+      "artists": [
+        {
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+        },
+        {
+          "name": "Ander Bock",
+          "url": "https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM"
+        },
+        {
+          "name": "MR. Yeison",
+          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
+        },
+        {
+          "name": "Barajas",
+          "url": "https://open.spotify.com/artist/0oaW8w858ZIyAnhDIskEqw"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188070,
+      "name": "otravueltaxx",
+      "url": "https://open.spotify.com/track/3XMy5JodnfHt0NwZ8VBwnu"
+    },
+    {
+      "album": {
         "name": "Otrax2",
         "url": "https://open.spotify.com/album/1L4HQkBkrt3aHzi7JKnv4H"
       },
@@ -3620,7 +3780,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 187796,
       "name": "Prefiero Honrarte",
       "url": "https://open.spotify.com/track/1aCvdWxY6vHqQhezeAqqZX"
@@ -4710,6 +4870,24 @@
       "duration_ms": 149400,
       "name": "Tu Nunca Sembraste",
       "url": "https://open.spotify.com/track/4nekHGBwb0EpMan6B9bvyW"
+    },
+    {
+      "album": {
+        "name": "TUS PASOS",
+        "url": "https://open.spotify.com/album/4OFv2OF8dY1e6jDr0Ivh2p"
+      },
+      "artists": [
+        {
+          "name": "ANMILY",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160663,
+      "name": "TUS PASOS",
+      "url": "https://open.spotify.com/track/3rDbU0WH0slihpeuBYVy6Z"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Made In Kenya](https://open.spotify.com/playlist/37i9dQZF1DX7z7RLIui5KP)
 
-> Proudly Kenyan gems made for the entire family\. Cover: Savara
+> Proudly Kenyan gems made for the entire family\. Cover: Tuku Kantu
 
-121 songs - 6 hr 59 min
+122 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Maandamano](https://open.spotify.com/track/5CJSHljfyklZDO7ffIxPs3) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Maandamano](https://open.spotify.com/album/5BfrA7yWHXf06hORAxtSGw) | 3:41 | 2025-10-23 | 2025-11-21 |
 | [Macho Tu](https://open.spotify.com/track/2WwWxlzpUUBCtJ5goD2VkT) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Macho Tu](https://open.spotify.com/album/5HTgErXOFsEsqD7xxT2anw) | 2:51 | 2025-12-11 |  |
 | [Mahaba](https://open.spotify.com/track/5pBsDpQQV1gdX7HP2R5CYk) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO), [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV) | [Mahaba](https://open.spotify.com/album/1NRsyuoEDeQqnuquKuMmtF) | 4:48 | 2025-10-23 |  |
+| [Malia](https://open.spotify.com/track/4oSsMvxjkqw88hZ3umt4sT) | [Tuku Kantu](https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24) | [Malia](https://open.spotify.com/album/1vrMiE4WQhYd7vWB5kCcAL) | 3:56 | 2026-01-23 |  |
 | [MAMA MILKA](https://open.spotify.com/track/7gQJRJatQFLSyXuSC4scUH) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH), [Jopee](https://open.spotify.com/artist/21ak7Cl93xzt3ehH6wYg9E) | [Mama Milka](https://open.spotify.com/album/3Wi0NdeDpEYOZrZljvTCLx) | 4:51 | 2025-10-23 | 2025-10-31 |
 | [Mangware](https://open.spotify.com/track/3aiwhTT14AcGxTAmw42GBm) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Mangware](https://open.spotify.com/album/2khrWO6bJ7SgSy7sL1oq43) | 3:43 | 2025-10-23 |  |
 | [Massage](https://open.spotify.com/track/21TYyo4SkqMcBMdGwRd2JE) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Massage](https://open.spotify.com/album/2WKXzYoy2LgVc0IKi1wwxR) | 3:01 | 2025-10-30 |  |
@@ -83,7 +84,7 @@
 | [Nipe Nikupe](https://open.spotify.com/track/0VDw3wOMjzwZWls4q61KL2) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Live and Die in Afrika](https://open.spotify.com/album/0VHxZXfjGP0KuIBFxsWTTZ) | 3:55 | 2025-11-21 | 2025-11-28 |
 | [Nishike](https://open.spotify.com/track/61efylKQHGTX5JV564Qowx) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Live and Die in Afrika](https://open.spotify.com/album/0VHxZXfjGP0KuIBFxsWTTZ) | 4:03 | 2025-11-21 | 2025-11-28 |
 | [Non Stop \(feat\. Maandy\)](https://open.spotify.com/track/4t2lAWxeQkzK2Hr9MrzjV6) | [Nameless](https://open.spotify.com/artist/5e1OCdBgITL78zBRyW2wOf), [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Non Stop \(feat\. Maandy\)](https://open.spotify.com/album/6u6ZfmnjXdkMq0LyFjAy3v) | 3:21 | 2025-10-23 | 2025-11-21 |
-| [Not For Me](https://open.spotify.com/track/7h6GXhuR6IwsHks2FKSQmv) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Not For Me](https://open.spotify.com/album/5Ol6Rfyp80cIAybEgLxKWa) | 3:20 | 2025-10-23 |  |
+| [Not For Me](https://open.spotify.com/track/7h6GXhuR6IwsHks2FKSQmv) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Not For Me](https://open.spotify.com/album/5Ol6Rfyp80cIAybEgLxKWa) | 3:20 | 2025-10-23 | 2026-01-24 |
 | [Olive\(ia\)](https://open.spotify.com/track/1xm5zaifC3MYTw8049ypZA) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Olive\(ia\)](https://open.spotify.com/album/1zUN2ALJ1OYmPYfES7oVGG) | 3:07 | 2025-10-23 | 2025-11-15 |
 | [On va bouger](https://open.spotify.com/track/4Occmv49MgBmoH1WXRmCAY) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Nostalgia](https://open.spotify.com/album/4Hm7KHdv1q1T8hDiMbKJqS) | 4:16 | 2025-11-21 | 2025-11-28 |
 | [Only You](https://open.spotify.com/track/5NGf0p8fXnzslsYXgLCDjY) | [Tuku Kantu](https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24) | [The Evolution Within](https://open.spotify.com/album/3JfuNjxR2SLci0xSBAfOAH) | 2:50 | 2025-11-14 |  |
@@ -97,7 +98,7 @@
 | [Relax](https://open.spotify.com/track/3UDmYYUAqUVaPRJ6Dni0qS) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Live and Die in Afrika](https://open.spotify.com/album/0VHxZXfjGP0KuIBFxsWTTZ) | 3:20 | 2025-11-21 | 2025-11-28 |
 | [Safari](https://open.spotify.com/track/1UeizRSFPFkLC9ho5lfeay) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Suldaan Seeraar](https://open.spotify.com/artist/6tcoSz1XIgKoKJntydamls) | [Safari](https://open.spotify.com/album/2RUebih46jHBpq7cubYj7U) | 3:22 | 2025-11-21 | 2025-11-28 |
 | [Sambo Party](https://open.spotify.com/track/073WSviNyXfAaETHxkHl4m) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Live and Die in Afrika](https://open.spotify.com/album/0VHxZXfjGP0KuIBFxsWTTZ) | 3:39 | 2025-11-21 | 2025-11-28 |
-| [Say Less](https://open.spotify.com/track/4S2o7FjB1gEVmTMn8K4dha) | [Steph Kapela](https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl), [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Say Less](https://open.spotify.com/album/4UkmYiMpl16FcfW88B7TZO) | 3:15 | 2025-10-23 |  |
+| [Say Less](https://open.spotify.com/track/4S2o7FjB1gEVmTMn8K4dha) | [Steph Kapela](https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl), [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Say Less](https://open.spotify.com/album/4UkmYiMpl16FcfW88B7TZO) | 3:15 | 2025-10-23 | 2026-01-24 |
 | [Say Yeah](https://open.spotify.com/track/26yzzLAyOKj6yd4UY9RFTf) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Live and Die in Afrika](https://open.spotify.com/album/0VHxZXfjGP0KuIBFxsWTTZ) | 3:46 | 2025-11-21 | 2025-11-28 |
 | [Sema](https://open.spotify.com/track/2CQiXfEnXCnBh6UJ7C1zbW) | [Feddy Njuki](https://open.spotify.com/artist/2GL69DSAxhHqWQu1Y5PXoJ), [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp), [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO) | [Sema](https://open.spotify.com/album/3upNBRjHjnJwkdWdSggeko) | 3:25 | 2025-12-18 |  |
 | [Server](https://open.spotify.com/track/3hG3x8Msj5c4X86oJAuRms) | [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP) | [Server](https://open.spotify.com/album/3sQWGx5e4dRVztWo72Qahl) | 4:05 | 2025-11-27 |  |

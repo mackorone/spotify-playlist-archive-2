@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the center of electronic music culture. Featuring BAYLI. ",
+  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the center of electronic music culture. Featuring Honey Dijon. ",
   "name": "Club Resistance",
   "tracks": [
     {
@@ -2846,7 +2846,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 185172,
       "name": "Freak It",
       "url": "https://open.spotify.com/track/1e8DRAVSxGDPd9hgxcppP2"
@@ -7444,6 +7444,28 @@
       "duration_ms": 183726,
       "name": "Slay 4 Me (feat. Jesse Fields) [Felix Jaehn Remix] - Edit",
       "url": "https://open.spotify.com/track/5NBGwZLsZAo5J3a9sn0Dy5"
+    },
+    {
+      "album": {
+        "name": "Slight Werk (Club Mix)",
+        "url": "https://open.spotify.com/album/3USLXh5K8mET0msxPqYXpP"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178953,
+      "name": "Slight Werk - Club Mix",
+      "url": "https://open.spotify.com/track/3AenQimpj4gFY3e0CnsbD1"
     },
     {
       "album": {

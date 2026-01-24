@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,000,278 likes - 201 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,000,628 likes - 201 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 200 | [after a long day](https://open.spotify.com/track/5SFKMQCsVPpb26Fg9euhr5) | [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q), [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk) | [after a long day](https://open.spotify.com/album/5tnskQvaPXikqnzegANK5l) | 2:24 |
 | 201 | [Aqua](https://open.spotify.com/track/7ArMWsBYI59MmStLmWAYHj) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Aqua](https://open.spotify.com/album/5prd1riQ0u3Cv0qjBLpbuu) | 1:41 |
 
-Snapshot ID: `AAAAAPzR6CITcD/tTM3afSKdeIry3pjV`
+Snapshot ID: `AAAAABoPO+DkcxOGo2vhuZXdrbpshRLd`

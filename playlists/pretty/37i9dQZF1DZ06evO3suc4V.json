@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 10142,
+  "num_followers": 10143,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXAXAAAAAAAPvH5s9Cw4EXtKXvK0ABXE",
+  "snapshot_id": "aXFogAAAAAAbWsRFh2memYwcVPKpYIkC",
   "tracks": [
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 192373,
+      "name": "Deep In The World",
+      "url": "https://open.spotify.com/track/4JU3zRpbyFSw2Jqt2RzsIv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "noise ( meaning )",
         "url": "https://open.spotify.com/album/1Nf0sJqlnFFlUOYDMJR8LJ"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 127297,
       "name": "awake",
       "url": "https://open.spotify.com/track/54khAg8INVTBMSWOUcETdB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 192373,
-      "name": "Deep In The World",
-      "url": "https://open.spotify.com/track/4JU3zRpbyFSw2Jqt2RzsIv"
     },
     {
       "added_at": null,
@@ -651,6 +651,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Room 25",
+        "url": "https://open.spotify.com/album/5GV2nBx7O67vu9NYHbMfXl"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 163616,
+      "name": "Montego Bae",
+      "url": "https://open.spotify.com/track/6QNaeyzCJBOS1R8N5GskR7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Telefone",
         "url": "https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c"
       },
@@ -675,22 +695,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Room 25",
-        "url": "https://open.spotify.com/album/5GV2nBx7O67vu9NYHbMfXl"
+        "name": "Midnight Moonlight EP",
+        "url": "https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7"
       },
       "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        },
         {
           "name": "Ravyn Lenae",
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 163616,
-      "name": "Montego Bae",
-      "url": "https://open.spotify.com/track/6QNaeyzCJBOS1R8N5GskR7"
+      "duration_ms": 216762,
+      "name": "Last Breath - EP Version",
+      "url": "https://open.spotify.com/track/4BffvSUwamMxFtFCVdLJj3"
     },
     {
       "added_at": null,
@@ -711,22 +727,6 @@
       "duration_ms": 285802,
       "name": "Tequan (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/4RAhtF99hGmz9sxTJ48gqX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midnight Moonlight EP",
-        "url": "https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 216762,
-      "name": "Last Breath - EP Version",
-      "url": "https://open.spotify.com/track/4BffvSUwamMxFtFCVdLJj3"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Midnight Moonlight EP",
+        "url": "https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 198449,
+      "name": "Unknown - EP Version",
+      "url": "https://open.spotify.com/track/1wCManUnBwrfpnwTaV93ho"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soulection White Label - Monte Booker",
         "url": "https://open.spotify.com/album/6bzDf8hYZbCuwjLoEPRvtE"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 186647,
       "name": "Baby",
       "url": "https://open.spotify.com/track/1AQtWYUKvPw5wYThfi5Uyo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midnight Moonlight EP",
-        "url": "https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 198449,
-      "name": "Unknown - EP Version",
-      "url": "https://open.spotify.com/track/1wCManUnBwrfpnwTaV93ho"
     },
     {
       "added_at": null,

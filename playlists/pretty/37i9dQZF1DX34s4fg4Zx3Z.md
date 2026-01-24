@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: MAYonair
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,373 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,375 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 74 | [Ước Gì Mình Có Ai Ôm](https://open.spotify.com/track/4AI4LUUOHHe9yaF4aMaZ7X) | [akiie.](https://open.spotify.com/artist/7sFX2i5I57OTLSASnufcIh), [thanhngoc](https://open.spotify.com/artist/2hSfRqFlaQJlgF8T2oDSVS) | [Ước Gì Mình Có Ai Ôm](https://open.spotify.com/album/1FfsC68DWQdOpOQBeqJySI) | 4:16 |
 | 75 | [Chán Ngấy](https://open.spotify.com/track/3ufw1v1MRts3vBRSxEAzba) | [Gia](https://open.spotify.com/artist/1G5uY0JRHw8ztI9zyU9xUh) | [Chán Ngấy](https://open.spotify.com/album/6VL9HB2hJ8wIdGnxd3lopc) | 3:24 |
 
-Snapshot ID: `AAAAAFVwXq0mYGJETtIu1kRgohAGgGwq`
+Snapshot ID: `AAAAAMPY3aKhLhsm+IbvdCVJggcQwAvW`

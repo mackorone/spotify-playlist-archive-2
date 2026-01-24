@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best in Dancehall for the gyaldem. Cover: Shenseea",
+  "description": "The best in Dancehall for the gyaldem. Cover: Jada Kingdom",
   "name": "Dancehall Queen",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 150857,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/5w2OOk891slAH801IHVRDz"
@@ -284,6 +284,24 @@
       "duration_ms": 199991,
       "name": "Batty Rider Shorts",
       "url": "https://open.spotify.com/track/0umOVszFJr1XMGBXK1i4xK"
+    },
+    {
+      "album": {
+        "name": "Be So Bad",
+        "url": "https://open.spotify.com/album/6Hi4bhaRpO4EVb6y1zd6ZD"
+      },
+      "artists": [
+        {
+          "name": "Jane Macgizmo",
+          "url": "https://open.spotify.com/artist/4plzsAuxRehTrEn92axavn"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "Be So Bad",
+      "url": "https://open.spotify.com/track/6BRBW3sMYOHoyfUNXhyQ5d"
     },
     {
       "album": {
@@ -494,7 +512,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 165480,
       "name": "Budum",
       "url": "https://open.spotify.com/track/4yGNNviGXeLZlf70IwWwEK"
@@ -982,7 +1000,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 184999,
       "name": "Do That (feat. Tony Matterhorn)",
       "url": "https://open.spotify.com/track/2l36ZNtoL7LxW93xU8EJyv"
@@ -1818,7 +1836,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 165717,
       "name": "Heavy! (Vybz Kartel Remix)",
       "url": "https://open.spotify.com/track/07XcuVPoyMogdiV4nBeCPt"
@@ -2503,6 +2521,24 @@
     },
     {
       "album": {
+        "name": "Just a Girl in a Money Man's World",
+        "url": "https://open.spotify.com/album/2aV7R5ObcMh2s8xHtofqUE"
+      },
+      "artists": [
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154333,
+      "name": "Ntn but Pumpum",
+      "url": "https://open.spotify.com/track/3vNsa92LjHqbLWVJtneuKm"
+    },
+    {
+      "album": {
         "name": "Preserve Mi Life",
         "url": "https://open.spotify.com/album/27zFlK0mhEIf4tkjbVBAMR"
       },
@@ -2828,7 +2864,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 164764,
       "name": "Puni Police",
       "url": "https://open.spotify.com/track/1CpxwBZITPEAlKQHVwVHWy"
@@ -3053,6 +3089,28 @@
     },
     {
       "album": {
+        "name": "Self Love",
+        "url": "https://open.spotify.com/album/7DfzInZUblFa3YLowYZ8i0"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160687,
+      "name": "Self Love",
+      "url": "https://open.spotify.com/track/0BrJVmux8LCDIigjeWBJxs"
+    },
+    {
+      "album": {
         "name": "Senseless",
         "url": "https://open.spotify.com/album/2y6X069vn7n8YbnX8gDY4o"
       },
@@ -3261,6 +3319,24 @@
     },
     {
       "album": {
+        "name": "Soft Girl Era",
+        "url": "https://open.spotify.com/album/7bnW1IEaWKXSp02B6TY5js"
+      },
+      "artists": [
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145707,
+      "name": "Soft Girl Era",
+      "url": "https://open.spotify.com/track/0mu4jp4klSihBJ7RFvIDfW"
+    },
+    {
+      "album": {
         "name": "Sticks & Stones",
         "url": "https://open.spotify.com/album/71hjGFjIhwh22nTzubHrKd"
       },
@@ -3276,6 +3352,24 @@
       "duration_ms": 193043,
       "name": "Sticks & Stones",
       "url": "https://open.spotify.com/track/0wMQptN6JvREl2YtONlENi"
+    },
+    {
+      "album": {
+        "name": "Just a Girl in a Money Man's World",
+        "url": "https://open.spotify.com/album/2aV7R5ObcMh2s8xHtofqUE"
+      },
+      "artists": [
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140638,
+      "name": "Still Searching",
+      "url": "https://open.spotify.com/track/2mB1Yec2jZy5IHtG9Cy9s5"
     },
     {
       "album": {

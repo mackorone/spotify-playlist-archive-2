@@ -4,7 +4,7 @@
 
 > 
 
-303 songs - 11 hr 52 min
+307 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [GET ME RIGHT!](https://open.spotify.com/track/6bltVRVfVJIdQJCxSp8APq) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH! \(B SIDE\)](https://open.spotify.com/album/3bifaBpAcdGzq6x5JirWw4) | 2:17 | 2026-01-19 |  |
 | [ghost!](https://open.spotify.com/track/0sB9wdHqFrKgFVF5SqmqDb) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed) | [ghost!](https://open.spotify.com/album/58Pwlfu6uT8TyUgvHVgDHd) | 1:33 | 2025-04-11 | 2025-04-17 |
 | [GLOCKIES](https://open.spotify.com/track/0UvyBiIU6E761Ozhpsf7i5) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed) | [GLOCKIES](https://open.spotify.com/album/1KoRjUJ7IPy9irh9voezHb) | 1:07 | 2025-04-10 |  |
+| [GLOW UP!](https://open.spotify.com/track/4LfVQJZTiBjbknDiXu2PMj) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH! \(B SIDE\)](https://open.spotify.com/album/3bifaBpAcdGzq6x5JirWw4) | 1:59 | 2026-01-23 |  |
 | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E) | 2:07 | 2024-12-31 |  |
 | [Go Bananas](https://open.spotify.com/track/4F7f3j1fDiAstE6CQP3sjk) | [BABY GRAVY](https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Spark Master Tape](https://open.spotify.com/artist/0JXPiLgbGX4n86jsocSkG6) | [Baby Gravy 2](https://open.spotify.com/album/1oxxysQmylUXuxzSdHlqUc) | 2:11 | 2025-07-12 |  |
 | [GOOD LOYAL THOTS](https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS](https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw) | 1:42 | 2024-12-31 |  |
@@ -104,6 +105,7 @@
 | [Hoe Cakes](https://open.spotify.com/track/4b82tXj35SycILuILcgBQ6) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 3:54 | 2025-03-07 |  |
 | [Holding On \- Sped Up](https://open.spotify.com/track/48Pbowt9MODjEWtpqZwf3r) | [V.I.N](https://open.spotify.com/artist/1FyH0nFVzaUJuGKzefh8ZU) | [Holding On](https://open.spotify.com/album/1XDHInUJmgdAReg8kHOd3d) | 1:49 | 2024-12-21 |  |
 | [HUNNI FREESTYLE!](https://open.spotify.com/track/4ahARTHEXMlQEOJsECOug1) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH!](https://open.spotify.com/album/0bLqOyNF2wpsNLOMsRNbXW) | 1:51 | 2025-03-24 |  |
+| [HUNNIDMILES!](https://open.spotify.com/track/6nBXfJzAul1NnyoZGnmcyr) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH! \(B SIDE\)](https://open.spotify.com/album/3bifaBpAcdGzq6x5JirWw4) | 1:54 | 2026-01-23 |  |
 | [HYPNOTIC DATA](https://open.spotify.com/track/26wxtmoH4uPUF1n5VlPxMc) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [XIII SORROWS](https://open.spotify.com/album/7dfODAnexuCQljq6ewTjtB) | 2:08 | 2025-04-11 |  |
 | [I <3 LATINAS](https://open.spotify.com/track/5ZYc494Yhj18o8nbG777LV) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [I <3 LATINAS](https://open.spotify.com/album/1MtzbdSdDZZBopNu7IcskV) | 1:33 | 2025-04-12 |  |
 | [I DO DIS DAILY!](https://open.spotify.com/track/32vbVchotHNA3pYM8wwCn3) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [I DO DIS DAILY!](https://open.spotify.com/album/7DQy6rQjj42AeJPCloq2Ue) | 2:09 | 2025-03-02 |  |
@@ -193,6 +195,7 @@
 | [PUFF!](https://open.spotify.com/track/04cJi2Yb2ROIkH8pViuT1P) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [PUFF!](https://open.spotify.com/album/6zsHpZoasIzfEfVZPbc9Mu) | 1:51 | 2025-03-09 | 2025-04-22 |
 | [PURGATORY!](https://open.spotify.com/track/0HnXMMxuVBhB8Ydl4fIGHy) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed) | [PURGATORY!](https://open.spotify.com/album/0H9Mr3nLo9fKHGbMpBDDXh) | 1:00 | 2025-04-10 |  |
 | [PUSH UR T3MPRR](https://open.spotify.com/track/5NO5HPCDG8Y0ErpAISWQOJ) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [PUSH UR T3MPRR](https://open.spotify.com/album/5Bv6r4jizZcUdJbHUHm3Og) | 2:28 | 2025-03-06 |  |
+| [QUEEN OF TYPE BEATS!](https://open.spotify.com/track/2PY49c0yUEiPcLDbdy3qTh) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH! \(B SIDE\)](https://open.spotify.com/album/3bifaBpAcdGzq6x5JirWw4) | 1:39 | 2026-01-23 |  |
 | [Rain](https://open.spotify.com/track/0nAjZA769okRS8LtJJlOjd) | [xetonyl's archive](https://open.spotify.com/artist/0J2jBYZmdub00VdGsXrmfk), [S L I T](https://open.spotify.com/artist/13gxgfKuzjlMI0aDkAI1CO) | [Rain](https://open.spotify.com/album/2egBO1fsjhb4WbxaarNEnb) | 2:07 | 2025-07-25 |  |
 | [RAIN IN PARADISE](https://open.spotify.com/track/6raZ3qmcEbnQH1B45dCbnt) | [Operation Sodasteal](https://open.spotify.com/artist/23eeNX6dS8S89HHUSEPVZ6), [Kaj Strife](https://open.spotify.com/artist/0wywVUxVDUc9Z45Xzq6k2w), [slaneyinfamous](https://open.spotify.com/artist/68DUtGydtnSsqVgAKvMSsu) | [SLANEY VS SODASTEAL](https://open.spotify.com/album/6oscn67zVVf4v7GjZibGxd) | 2:27 | 2025-04-30 |  |
 | [Ransom](https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 2:11 | 2025-07-05 |  |
@@ -244,6 +247,7 @@
 | [U THOT U ATE?!](https://open.spotify.com/track/3EauqD9JtdI8inVBnIFUmv) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [U THOT U ATE?!](https://open.spotify.com/album/2frmSAOgvMAyEeRtKlWn8V) | 1:32 | 2024-12-06 |  |
 | [unrequited](https://open.spotify.com/track/1v4jO5ca9OVgii1glFjz3h) | [Midrift](https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E) | [unrequited](https://open.spotify.com/album/5Wrub8uDK7UYckjETKd9ck) | 2:10 | 2025-07-19 |  |
 | [UR BITCH READ MY PALMS LMAO!](https://open.spotify.com/track/2VLNdVzuYov3xf6d4VpSBV) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [UR BITCH READ MY PALMS LMAO!](https://open.spotify.com/album/3OVGFlLdLw477AGTK6rp9x) | 1:38 | 2025-08-27 | 2025-08-31 |
+| [VIP!](https://open.spotify.com/track/11zMzmhPuZzar47oo0IIkh) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH! \(B SIDE\)](https://open.spotify.com/album/3bifaBpAcdGzq6x5JirWw4) | 1:47 | 2026-01-23 |  |
 | [waiting \. \. .](https://open.spotify.com/track/0B3r9IpM4jrFWc9qMm5sDA) | [LITTLE 4N](https://open.spotify.com/artist/66sdClSxeLEamPlKTQcrbd), [eldlofi](https://open.spotify.com/artist/6hRAyhxOe18fjdgBVvAj3x) | [waiting \. \. .](https://open.spotify.com/album/1UbN6E2VT4p0GjpT2IFUpH) | 2:07 | 2025-05-03 | 2025-05-07 |
 | [walkupinthebuilding.mp3](https://open.spotify.com/track/5JfF2pd3K2xqVYgsCxETpg) | [kuya](https://open.spotify.com/artist/1iqagAfuLHGpm140nMYhRP) | [walkupinthebuilding.mp3](https://open.spotify.com/album/1vL1FzEzTSjySkNoaiiOZ6) | 1:34 | 2025-04-11 |  |
 | [Warm Stay](https://open.spotify.com/track/0gKYihhcPJtiLoJnZFe3wk) | [Blossom](https://open.spotify.com/artist/3tLgC2hURdDjOQ5zheUW0R) | [Warm Stay](https://open.spotify.com/album/2wZYj9n81S3M2YwzbbzbQw) | 2:49 | 2025-03-11 |  |

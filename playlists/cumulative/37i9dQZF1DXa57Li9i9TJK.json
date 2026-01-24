@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "Potras, rancherxs y la \ud83e\uddc0 Jenni Rivera en portada ",
+  "description": "Potras, rancherxs y la \ud83e\uddc0 M\u00e1ximo Grado y Thal\u00eda en portada ",
   "name": "Sombreruda y nimoderrimo \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
   "tracks": [
     {
@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 213428,
       "name": "DPM",
       "url": "https://open.spotify.com/track/5Te1pQWfOvRVCACXnWmnFG"
@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 143977,
       "name": "ENQLADX",
       "url": "https://open.spotify.com/track/2Igmha6zIs3oBE1jiinFmz"
@@ -1516,7 +1516,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 136182,
       "name": "Flores",
       "url": "https://open.spotify.com/track/6iCsgZgikqbQSOLbpEK5R5"
@@ -1671,6 +1671,28 @@
     },
     {
       "album": {
+        "name": "La Competencia",
+        "url": "https://open.spotify.com/album/0H8nE43nDhqMZraIKli5BY"
+      },
+      "artists": [
+        {
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209160,
+      "name": "La Competencia",
+      "url": "https://open.spotify.com/track/2PtN8j46BwZtlbJxyZFamd"
+    },
+    {
+      "album": {
         "name": "La Cuadrada",
         "url": "https://open.spotify.com/album/7qyFandNSeGFvHAwY9wA9J"
       },
@@ -1770,6 +1792,28 @@
       "duration_ms": 254932,
       "name": "La Mera Mera (Tijuana, Baja California Norte)",
       "url": "https://open.spotify.com/track/2XsoiYV8Rd8kduladPPKuk"
+    },
+    {
+      "album": {
+        "name": "La Morrita",
+        "url": "https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154951,
+      "name": "La Morrita",
+      "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
     },
     {
       "album": {
@@ -2144,7 +2188,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 202500,
       "name": "Maldita Billetera",
       "url": "https://open.spotify.com/track/6wghCwZvtMVV3ElbalRq9u"
@@ -2478,6 +2522,28 @@
       "duration_ms": 232178,
       "name": "Mientes Tan Bien",
       "url": "https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ"
+    },
+    {
+      "album": {
+        "name": "MIRO TU CARA EN LA LUNA",
+        "url": "https://open.spotify.com/album/45gRTC5un8xquz3dofyeol"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209069,
+      "name": "MIRO TU CARA EN LA LUNA",
+      "url": "https://open.spotify.com/track/1WNuSmfx8g1VtJaWayVUBJ"
     },
     {
       "album": {
@@ -3151,6 +3217,24 @@
     },
     {
       "album": {
+        "name": "PATADAS DE AHOGADO",
+        "url": "https://open.spotify.com/album/5Jqf9gFeFk9efnzwVOteVs"
+      },
+      "artists": [
+        {
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195196,
+      "name": "PATADAS DE AHOGADO",
+      "url": "https://open.spotify.com/track/31EnneROGETocUvKWsfe89"
+    },
+    {
+      "album": {
         "name": "Paz en Este Amor",
         "url": "https://open.spotify.com/album/6FNmzUbHMNXVMgMOUh5kjT"
       },
@@ -3518,7 +3602,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 189620,
       "name": "Querida Socia - En Vivo Desde la Plaza de Toros la M\u00e9xico - Spotify Singles",
       "url": "https://open.spotify.com/track/6z6BWC3DfdhlNv6nkauPUk"
@@ -3840,7 +3924,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 213294,
       "name": "Si Dios Lo Quer\u00eda",
       "url": "https://open.spotify.com/track/6mZbaOtGkNdLd5npcDilJc"

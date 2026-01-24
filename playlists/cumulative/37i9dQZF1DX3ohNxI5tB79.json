@@ -965,6 +965,24 @@
     },
     {
       "album": {
+        "name": "Can We Go Out?",
+        "url": "https://open.spotify.com/album/4wfWEUXvF8NbaaFQK8gP3P"
+      },
+      "artists": [
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228500,
+      "name": "Can We Go Out?",
+      "url": "https://open.spotify.com/track/3fCortoNYgdSrev2QFuTLz"
+    },
+    {
+      "album": {
         "name": "Catch",
         "url": "https://open.spotify.com/album/1owOw7rhVR0qIeUiOrph0Y"
       },
@@ -3234,7 +3252,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 241560,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/4wRaWtogW3IXgNBrL2jqZ8"

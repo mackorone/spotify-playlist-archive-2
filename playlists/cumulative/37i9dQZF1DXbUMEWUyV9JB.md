@@ -2,9 +2,9 @@
 
 ### [Super Cumbias](https://open.spotify.com/playlist/37i9dQZF1DXbUMEWUyV9JB)
 
-> ¡Muévete al ritmo de las Cumbias! <br/>Cover: Angela Leiva
+> ¡Muévete al ritmo de las Cumbias! <br/>Cover: Mariangela
 
-440 songs - 1 day 1 hr 59 min
+442 songs - 1 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Cosas Bonitas](https://open.spotify.com/track/75VDWiZEfAt3dL49kASgvi) | [Grupo Maravilla](https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7) | [De Reventon](https://open.spotify.com/album/4qzxNsbEaoBc4M2ZFEyFoU) | 4:14 | 2023-05-01 | 2024-05-03 |
 | [Cómo Te Voy a Olvidar](https://open.spotify.com/track/1YHiq5iuXraptr8feJfEZn) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Cómo Te Voy a Olvidar](https://open.spotify.com/album/3ERz9oKdZXefGVnDajDR5m) | 4:20 | 2022-04-29 | 2022-07-28 |
 | [Cuando Nadie Ve](https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Cuando Nadie Ve](https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV) | 3:52 | 2023-05-01 |  |
+| [Cuando Una Mujer](https://open.spotify.com/track/3avC8Pl0P86k3GQjE1h9y1) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Cuando Una Mujer](https://open.spotify.com/album/6Kqio6YmPAge6dLPtV0cYh) | 2:36 | 2026-01-24 |  |
 | [Cumbia A La Gente](https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Cumbia A La Gente](https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12) | 3:28 | 2022-01-14 | 2024-05-03 |
 | [Cumbia Azteca](https://open.spotify.com/track/7laTY4Np3kLbXck6YdqZVR) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Recuerdos Andinos](https://open.spotify.com/album/0pxcLdh1Pe1VBuRvdWCFPQ) | 3:56 | 2024-05-03 |  |
 | [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 | 2023-05-01 |  |
@@ -169,6 +170,7 @@
 | [Entrega De Amor](https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Entrega De Amor](https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw) | 2:56 | 2023-05-01 | 2024-05-03 |
 | [Eras Tu](https://open.spotify.com/track/4e0VWtGHbwVRC33HL35pRD) | [Predilecto](https://open.spotify.com/artist/28Mr2I45NyUzzMI2SRs3OR) | [Eras Tu](https://open.spotify.com/album/7r8FGGeBs2UtyDkdfUkN9n) | 3:37 | 2024-05-03 |  |
 | [Esa Parte De Mí](https://open.spotify.com/track/2KGPEwZmxkTb3ibPeIq0Pv) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Esa Parte De Mí](https://open.spotify.com/album/3StKKTOhmUMbmrqZbH0tDi) | 3:35 | 2022-04-29 | 2022-08-13 |
+| [ESCONDIDAS](https://open.spotify.com/track/5BaNuIRKWt4CHdWi4LGe2M) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [ESCONDIDAS](https://open.spotify.com/album/2G1eSgMejHicDNwJCh5ul0) | 2:53 | 2026-01-24 |  |
 | [Espacial](https://open.spotify.com/track/1empPjAI5SfG0Qk8RXzHj8) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Espacial](https://open.spotify.com/album/6mYE2ausodzviCR5y7xPtZ) | 3:35 | 2022-01-14 | 2023-05-02 |
 | [Estupido](https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030) | [Los Papis RA7](https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq) | [Tonto Cariño](https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS) | 4:59 | 2022-04-29 | 2023-09-26 |
 | [Estupido](https://open.spotify.com/track/3JQWZOtbBlgnJiIsNeolWB) | [Los Papis RA7](https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq), [Yanet Guadalupe](https://open.spotify.com/artist/4g6w0Ug5YQlSskdUqBQ49g) | [Estupido](https://open.spotify.com/album/1Dec0AVsKagoEGGh3W92om) | 4:59 | 2022-08-12 | 2022-11-12 |
@@ -257,8 +259,8 @@
 | [Matame De A Poquito](https://open.spotify.com/track/3Gmjg057K7kXdvfIZeppRU) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Matame De A Poquito](https://open.spotify.com/album/3hhmrguTHDtmMhnM9HcTwV) | 3:49 | 2024-11-22 |  |
 | [Mayonesa](https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM) | [Chocolate](https://open.spotify.com/artist/4e3lv5qRgFpdILdEOHchbn) | [2000 Grandes Exitos](https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw) | 3:51 | 2022-01-14 | 2023-05-02 |
 | [Me Aceptaste \- En Vivo](https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [JJ Araujo](https://open.spotify.com/artist/0DupYCzJV3DYvyPKpDzNAU) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 2:08 | 2023-05-01 | 2024-09-21 |
-| [Me Perdí](https://open.spotify.com/track/2s1OcICSKJbtoOvXq6yeMB) | [Sintapia](https://open.spotify.com/artist/5SWXhtigdFs6Q9Wqri5ROo), [Fiamma](https://open.spotify.com/artist/4wOu4vVTBMgHkts7CQJhZb) | [Me Perdí](https://open.spotify.com/album/42XkPQ4Fl2wb4Lic8aqk9e) | 2:48 | 2025-12-05 |  |
-| [Me Prometi \(Cumbia Version\)](https://open.spotify.com/track/5pd2DbnrGEdKSfazK1YXAq) | [Agushto Papa](https://open.spotify.com/artist/1v04yGSzSyXhmxR1SD5hfS), [Alta Ralea](https://open.spotify.com/artist/68r0QxQOG94MKuRbvoya3N) | [Me Prometi \(Cumbia Version\)](https://open.spotify.com/album/55j6dKcv00zwJG9C2MHHYf) | 3:27 | 2025-09-05 |  |
+| [Me Perdí](https://open.spotify.com/track/2s1OcICSKJbtoOvXq6yeMB) | [Sintapia](https://open.spotify.com/artist/5SWXhtigdFs6Q9Wqri5ROo), [Fiamma](https://open.spotify.com/artist/4wOu4vVTBMgHkts7CQJhZb) | [Me Perdí](https://open.spotify.com/album/42XkPQ4Fl2wb4Lic8aqk9e) | 2:48 | 2025-12-05 | 2026-01-24 |
+| [Me Prometi \(Cumbia Version\)](https://open.spotify.com/track/5pd2DbnrGEdKSfazK1YXAq) | [Agushto Papa](https://open.spotify.com/artist/1v04yGSzSyXhmxR1SD5hfS), [Alta Ralea](https://open.spotify.com/artist/68r0QxQOG94MKuRbvoya3N) | [Me Prometi \(Cumbia Version\)](https://open.spotify.com/album/55j6dKcv00zwJG9C2MHHYf) | 3:27 | 2025-09-05 | 2026-01-24 |
 | [Me Vas A Recordar](https://open.spotify.com/track/4C2vKZ0tciewPr6RrYZ4QD) | [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [La Magia Del Amor](https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN) | 3:00 | 2024-05-03 |  |
 | [Mentirosa \(Eres Mentirosa\)](https://open.spotify.com/track/61CjystzXpC3TXueoe9Jss) | [Chicos de Barrio](https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X) | [Puros Vatos...Choca Y Rebota](https://open.spotify.com/album/6mIczU0lXJ1Mkyu0v1tdAe) | 4:33 | 2022-01-14 | 2023-05-02 |
 | [Mi Corazon Enamorado](https://open.spotify.com/track/4RWbOGWFhcnQbzafhHUSGB) | [Alberto Pedraza Con Su Ritmo Y Sabor](https://open.spotify.com/artist/4UIqtgggXTOuv5y97QQCrl) | [A Mis Amigos](https://open.spotify.com/album/4TtMhqvX6RwhKMLed7HMHg) | 4:39 | 2022-01-14 | 2023-05-02 |

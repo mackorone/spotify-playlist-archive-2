@@ -4268,7 +4268,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 262552,
       "name": "Partilhar",
       "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
@@ -4436,6 +4436,32 @@
       "duration_ms": 193179,
       "name": "Poeta",
       "url": "https://open.spotify.com/track/36Q1ny8Cn49aCcapMYZFO5"
+    },
+    {
+      "album": {
+        "name": "Por Causa de Voc\u00ea",
+        "url": "https://open.spotify.com/album/3ouwXPloR4FWOYb2b5fKA5"
+      },
+      "artists": [
+        {
+          "name": "26:15",
+          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
+        },
+        {
+          "name": "Bia Siqueira",
+          "url": "https://open.spotify.com/artist/5X5jyBjFtdl9vwBd6bEIqI"
+        },
+        {
+          "name": "Breno Duarte",
+          "url": "https://open.spotify.com/artist/33TltiqN8Nk5ve37wWS0QG"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151200,
+      "name": "Por Causa de Voc\u00ea",
+      "url": "https://open.spotify.com/track/3N9TzvYRK1yNIE8yJc41Y9"
     },
     {
       "album": {

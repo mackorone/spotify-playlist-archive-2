@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: MICHA
 
-1,250 songs - 2 day 15 hr 45 min
+1,250 songs - 2 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,7 +520,7 @@
 | [Hush \(baby\)](https://open.spotify.com/track/6l2y7qexA2OpXeveevT3Ej) | [Aqua Riyaz](https://open.spotify.com/artist/1byg6yqO001L4j7Zw7fuHm) | [Hush \(baby\)](https://open.spotify.com/album/1mI4bjW8iRFSAjzhQnBl3q) | 3:09 | 2025-07-10 | 2025-09-26 |
 | [Hush Hush](https://open.spotify.com/track/0rrX7GQDPe9ldXSz6dRyUI) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Hush Hush](https://open.spotify.com/album/1WfDg3nWWNCF79qK0kTlmB) | 2:12 | 2023-07-10 | 2023-10-06 |
 | [HYPNOTIC](https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [HYPNOTIC](https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT) | 2:14 | 2023-08-25 | 2023-10-13 |
-| [HYPNOTIZE](https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [](https://open.spotify.com/album/null) | 2:50 | 2026-01-23 |  |
+| [HYPNOTIZE](https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw) | 2:50 | 2026-01-23 |  |
 | [hypocrite](https://open.spotify.com/track/0I4Ou4fz6Gz53B3wFlXv7H) | [judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [hypocrite](https://open.spotify.com/album/7iG26zkOZuRaOHKiqVwwSs) | 2:31 | 2023-10-19 | 2024-01-30 |
 | [I Am Free](https://open.spotify.com/track/5upUoCnUlWSHGP4N2b5guG) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Am Free](https://open.spotify.com/album/6dWHVjmxefkx7kqFxisHi3) | 3:50 | 2023-03-30 | 2023-04-01 |
 | [I Am Free](https://open.spotify.com/track/7DEyedwkIyFO5lypt3fG8T) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Am Free](https://open.spotify.com/album/0XCbwbUBWkYSJ1uqZdFYZC) | 3:50 | 2023-03-30 | 2023-07-08 |
@@ -1030,7 +1030,7 @@
 | [Stiekem](https://open.spotify.com/track/1ulgMAx95xb3N33SMklfG3) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU), [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Stiekem ft\. Goldband](https://open.spotify.com/album/1ZzRJDpsGzs8wkkI0w6F8G) | 3:23 | 2023-02-24 | 2023-03-03 |
 | [Stigma](https://open.spotify.com/track/55tKFIiS8gwXsYTNlkJZNk) | [Yaro Mila](https://open.spotify.com/artist/2DF11cL7GWpEiklH9I52SX) | [Stigma](https://open.spotify.com/album/1u4i8YKnVqPSMNmVkaht8U) | 2:43 | 2024-12-12 | 2025-02-21 |
 | [Still Bad](https://open.spotify.com/track/5UpdcedkGcuishA7jlnH8W) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Still Bad](https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL) | 3:28 | 2025-03-13 | 2025-05-23 |
-| [Still Don't Care](https://open.spotify.com/track/17tuuYUw3K1J9pDe4QrWNo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Still Don't Care](https://open.spotify.com/album/11XiRiJX157BvMuuc9ixuw) | 2:49 | 2025-11-13 |  |
+| [Still Don't Care](https://open.spotify.com/track/17tuuYUw3K1J9pDe4QrWNo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Still Don't Care](https://open.spotify.com/album/11XiRiJX157BvMuuc9ixuw) | 2:45 | 2025-11-13 |  |
 | [Still Hate You](https://open.spotify.com/track/0CNP7SXTS4n7T8vgtAzIve) | [Yaro Mila](https://open.spotify.com/artist/2DF11cL7GWpEiklH9I52SX) | [Still Hate You](https://open.spotify.com/album/6x3Q1vhcOOqqa1LoW08Img) | 3:09 | 2025-02-07 | 2025-04-25 |
 | [Stones](https://open.spotify.com/track/2Y9s7N2xW1mPhnasYm5Cuq) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Stones](https://open.spotify.com/album/06spE9ETkbGlW4P82T5A5t) | 3:12 | 2023-09-29 | 2023-11-17 |
 | [Storm Warning](https://open.spotify.com/track/2aRtruxjDkB4RU86kOeCf0) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Storm Warning](https://open.spotify.com/album/5LMuC9HoaEjkWX7UlTMgl4) | 2:22 | 2025-09-11 | 2025-11-07 |
@@ -1130,7 +1130,6 @@
 | [Too Far](https://open.spotify.com/track/6JbakVstWcT88jIg5kUyXg) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [Too Far](https://open.spotify.com/album/7yjifx3MT8tVacaPBd7rY4) | 3:00 | 2025-11-20 |  |
 | [Touch Me Like a Gangster](https://open.spotify.com/track/6fYcQVXEuqmyS3HqSZ6rTd) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Touch Me Like a Gangster](https://open.spotify.com/album/5lOPOloxHL7wP2Dp5Wyk2D) | 2:43 | 2025-06-05 | 2025-08-08 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-02-19 |
-| [Track 6](https://open.spotify.com/track/2cLgf3ZOH8u6nZtdUFr6N0) | [Isabel van Gelder](https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-23 |  |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-15 | 2024-05-17 |
 | [TRAINWRECK](https://open.spotify.com/track/5j8USqbwYjEa0pP8lgphzy) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [TRAINWRECK](https://open.spotify.com/album/4oTGRL1a4DbCYR0Fl37dzW) | 3:03 | 2023-07-07 | 2023-10-21 |
 | [Treat Me Like A Ho](https://open.spotify.com/track/5b67O08sN2itkQPsNmafPx) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 1:55 | 2023-09-21 | 2024-01-05 |
@@ -1166,6 +1165,7 @@
 | [VOID](https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [VOID](https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2) | 4:07 | 2023-03-30 | 2023-07-14 |
 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 | 2023-04-06 | 2023-07-22 |
 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 | 2024-09-08 | 2024-10-23 |
+| [Waiting For The Rain](https://open.spotify.com/track/2cLgf3ZOH8u6nZtdUFr6N0) | [Isabel van Gelder](https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP) | [Minor Details](https://open.spotify.com/album/5yJXPYaXD8PbJxCsPH5NOK) | 2:43 | 2026-01-23 |  |
 | [Waiting For You](https://open.spotify.com/track/4JlmHpay5SIOpc0HttOz2V) | [Monday](https://open.spotify.com/artist/2QdvFxDbJCy6w1TBx4nKGY) | [Waiting For You](https://open.spotify.com/album/6CBLXRfN2rYZxUdQ41XCoF) | 3:02 | 2025-11-20 |  |
 | [Wall of Sound](https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wall of Sound](https://open.spotify.com/album/5xQarRykqfONyHrL792y8z) | 2:24 | 2026-01-15 |  |
 | [Want Me To Be](https://open.spotify.com/track/1AjvNW8RlrZlAkjTq1WCke) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Want Me To Be](https://open.spotify.com/album/6n70N5WyDAAMYXXI2Eoq4O) | 2:16 | 2024-06-24 | 2024-08-28 |

@@ -6352,7 +6352,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 217560,
       "name": "Ayer Te So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/1QsRXToHGvathPoMPWnwaN"
@@ -7144,7 +7144,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -7898,7 +7898,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 189960,
       "name": "Beast",
       "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
@@ -7920,7 +7920,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
@@ -15553,7 +15553,7 @@
       "artists": [
         {
           "name": "Ironmouse",
-          "url": "https://open.spotify.com/artist/7mP0yyVD9PFmjqWcXI1kFB"
+          "url": "https://open.spotify.com/artist/3iN0khAe5Ilrjr2WnC8Poi"
         },
         {
           "name": "shirobeats",
@@ -15570,7 +15570,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 160645,
       "name": "Cry for Me WA WA WA - Live Version",
       "url": "https://open.spotify.com/track/19aIw4f5D2bMsufW7lYFYO"
@@ -15592,6 +15592,24 @@
       "duration_ms": 75833,
       "name": "CRYSTALS (Slowed)",
       "url": "https://open.spotify.com/track/3hfvzrj13TtfKq8P3WG2Q1"
+    },
+    {
+      "album": {
+        "name": "Cuando cae la noche",
+        "url": "https://open.spotify.com/album/3esIBe2zMjrMsPBAbWtUrv"
+      },
+      "artists": [
+        {
+          "name": "zziro",
+          "url": "https://open.spotify.com/artist/3KkWxxwonZq0gHy32uEUuZ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149394,
+      "name": "Cuando cae la noche",
+      "url": "https://open.spotify.com/track/0UBYC0xx3t5JlRuBZaVa62"
     },
     {
       "album": {
@@ -73116,7 +73134,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 145500,
       "name": "Voyage Voyage",
       "url": "https://open.spotify.com/track/20y6xEtoOj2ZBCS4NJNzuS"
@@ -73134,7 +73152,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 145500,
       "name": "Voyage Voyage",
       "url": "https://open.spotify.com/track/5dy0ZEDh2Lxvza4bK6GR8w"

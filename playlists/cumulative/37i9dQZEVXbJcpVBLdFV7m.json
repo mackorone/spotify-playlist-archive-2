@@ -652,7 +652,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 246240,
       "name": "3 \u0412 1",
       "url": "https://open.spotify.com/track/0eMGY2LlWkgklI8WhHjR0y"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 332701,
       "name": "43",
       "url": "https://open.spotify.com/track/3AU1hQRcO30GdHLwemSOGO"
@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -1928,7 +1928,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -3303,6 +3303,24 @@
     },
     {
       "album": {
+        "name": "What is graping my ears",
+        "url": "https://open.spotify.com/album/5izlADt7XaBspWudH3jIzz"
+      },
+      "artists": [
+        {
+          "name": "Hyperbaiter",
+          "url": "https://open.spotify.com/artist/32RaA7TgQ8WDXFG7xYBxXE"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63919,
+      "name": "Balls balls balls balls",
+      "url": "https://open.spotify.com/track/04sxgjJL9yQRd8LD9SysdX"
+    },
+    {
+      "album": {
         "name": "O Xoros Tou Fy",
         "url": "https://open.spotify.com/album/5B7KNfCrSFSPJdZjJV8Xui"
       },
@@ -3640,7 +3658,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 189960,
       "name": "Beast",
       "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
@@ -3662,7 +3680,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
@@ -9182,7 +9200,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 132485,
       "name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
       "url": "https://open.spotify.com/track/4YmsnZcxHEGEqHB3K0vdt0"
@@ -20356,7 +20374,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 207240,
       "name": "Lu\u010de moje",
       "url": "https://open.spotify.com/track/7iMN7lixf6eLIGH1NKb7yT"
@@ -27026,7 +27044,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-24",
+      "date_removed": null,
       "duration_ms": 173382,
       "name": "Povoda si ti",
       "url": "https://open.spotify.com/track/7qKTriyjf8zZAJrxL1jb63"
@@ -34524,7 +34542,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 122193,
       "name": "theclubrock",
       "url": "https://open.spotify.com/track/7eO17zOIXHE5e9e07H9fB3"
@@ -41046,7 +41064,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 142325,
       "name": "\u0413\u0430\u0431\u0440\u0438\u0435\u043b\u0430",
       "url": "https://open.spotify.com/track/4MvuZxJn8hc6Wa5sEJXBae"
@@ -43096,7 +43114,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 146000,
       "name": "\u041d\u0430 \u043c\u0443\u0440\u043c\u0443\u043b\u044f\u0445",
       "url": "https://open.spotify.com/track/5mMY6AShezyO7zBsGwvvGt"
@@ -43400,7 +43418,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 169963,
       "name": "\u041d\u0415\u0414\u0415\u0419 \u041c\u0415 \u041f\u0418\u0422\u0410",
       "url": "https://open.spotify.com/track/5gtQOYUU7wbhXy12Z1Q0rX"

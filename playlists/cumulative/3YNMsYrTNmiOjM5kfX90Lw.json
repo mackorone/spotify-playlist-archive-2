@@ -122,7 +122,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 39145,
       "name": "... an Interlude",
       "url": "https://open.spotify.com/track/0ZisrQEomfaJiUnHnjjVjU"
@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/1c0fhJrV97ql7c5cs1ipa7"
+      },
+      "artists": [
+        {
+          "name": "BensonBeats",
+          "url": "https://open.spotify.com/artist/1BVem7FWWE2VW3FqTMM9ek"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/2xgTGCYGTJjHbTYaUI1IMC"
+    },
+    {
+      "album": {
         "name": "Bring Da Trap Back",
         "url": "https://open.spotify.com/album/7bBPthYcv29JzQR3UjqMPr"
       },
@@ -764,7 +782,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 86121,
       "name": "Ali Maraz",
       "url": "https://open.spotify.com/track/6ZmaW1l1bIS8MGA95wmHns"
@@ -1118,7 +1136,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 165302,
       "name": "AYN",
       "url": "https://open.spotify.com/track/2tQkTPj8kXXXZ9cAAAh3aP"
@@ -1651,6 +1669,24 @@
     },
     {
       "album": {
+        "name": "Been Running",
+        "url": "https://open.spotify.com/album/0oJCCVl9tejdUsNwB3CmUE"
+      },
+      "artists": [
+        {
+          "name": "KamTB",
+          "url": "https://open.spotify.com/artist/6TmYu9mwvlqOgJtNo0e2PZ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124596,
+      "name": "Been Running",
+      "url": "https://open.spotify.com/track/2aGxS24rNkXWuaJMicGAGb"
+    },
+    {
+      "album": {
         "name": "bei dir",
         "url": "https://open.spotify.com/album/7k0nyqi52dWuBtBd5KzbCp"
       },
@@ -1738,6 +1774,24 @@
       "duration_ms": 83095,
       "name": "Berleezy",
       "url": "https://open.spotify.com/track/7nrbrBaxgmg384sjxzHfSd"
+    },
+    {
+      "album": {
+        "name": "BESIDE SLIM",
+        "url": "https://open.spotify.com/album/2oEXn3qQQHF284q8RGINsz"
+      },
+      "artists": [
+        {
+          "name": "DUCKY",
+          "url": "https://open.spotify.com/artist/6NT3UMO7VIa3jqUP6wwytZ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74181,
+      "name": "BESIDE SLIM",
+      "url": "https://open.spotify.com/track/1KPSFMGYFza7K7MuSqZSO7"
     },
     {
       "album": {
@@ -2338,6 +2392,24 @@
       "duration_ms": 148800,
       "name": "Breezy",
       "url": "https://open.spotify.com/track/5BVdENTHk5Xx7VEScxn5kC"
+    },
+    {
+      "album": {
+        "name": "Broken Inside",
+        "url": "https://open.spotify.com/album/5sivLufgvnX1xMJbGxQbXm"
+      },
+      "artists": [
+        {
+          "name": "Heckmaster4000",
+          "url": "https://open.spotify.com/artist/7wHB8P5b9Da1VFash0RsSw"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200959,
+      "name": "Broken Inside",
+      "url": "https://open.spotify.com/track/6WnHAB87ABfmGO97C3MxSN"
     },
     {
       "album": {
@@ -3297,6 +3369,24 @@
     },
     {
       "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/7s9YVtzyTDlvczkXCTqVBg"
+      },
+      "artists": [
+        {
+          "name": "ROSEGOLDEN",
+          "url": "https://open.spotify.com/artist/6q6jMQgwld2H05Tb0eA6EI"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208258,
+      "name": "CRASH",
+      "url": "https://open.spotify.com/track/2ZWfCfDjGtkEN6px3aFwKz"
+    },
+    {
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/44GXrK6L5e22b1JWvpelpd"
       },
@@ -3540,7 +3630,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 220316,
       "name": "Daily",
       "url": "https://open.spotify.com/track/1ecMwAuEwHDVaqdj1Hwc2t"
@@ -3822,7 +3912,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 132000,
       "name": "DEMON'S",
       "url": "https://open.spotify.com/track/43BbRcewWt3kC4C5ABlXeF"
@@ -4444,6 +4534,24 @@
       "duration_ms": 108542,
       "name": "Drobga.",
       "url": "https://open.spotify.com/track/30L6tdeDd1ysDzepXt2zDQ"
+    },
+    {
+      "album": {
+        "name": "Book of Psalms",
+        "url": "https://open.spotify.com/album/5ZtzxbMyiRXEckYGYXUEjv"
+      },
+      "artists": [
+        {
+          "name": "Gene Ladell",
+          "url": "https://open.spotify.com/artist/57rl6AqLrWtMoxDKRwVgAm"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103979,
+      "name": "Drop It Low",
+      "url": "https://open.spotify.com/track/7GtdX5NsUWGORiXnGJvhrf"
     },
     {
       "album": {
@@ -5182,7 +5290,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 128752,
       "name": "Fanta, 7UP, Sprite",
       "url": "https://open.spotify.com/track/6SS8KosFb4I2eOxMJZpwfP"
@@ -6384,7 +6492,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 176842,
       "name": "Hard To Trust",
       "url": "https://open.spotify.com/track/2aP0iHU353EXw3npDIMYyn"
@@ -6914,7 +7022,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 131362,
       "name": "How Long",
       "url": "https://open.spotify.com/track/1oPA8J9IytAMdaxnTYr903"
@@ -6958,6 +7066,24 @@
       "duration_ms": 201456,
       "name": "How We Roll",
       "url": "https://open.spotify.com/track/4QM5ZclHAsZcFfRdmdS4FT"
+    },
+    {
+      "album": {
+        "name": "HU!",
+        "url": "https://open.spotify.com/album/4cdrQsL2lRHi0cFZSdddTd"
+      },
+      "artists": [
+        {
+          "name": "benHUlan",
+          "url": "https://open.spotify.com/artist/0awOjsqH8OAGrWJYnI3dNd"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255305,
+      "name": "HU!",
+      "url": "https://open.spotify.com/track/5Z5pkj8QFYeHQP8neuCMGQ"
     },
     {
       "album": {
@@ -7141,6 +7267,28 @@
     },
     {
       "album": {
+        "name": "ICARDI",
+        "url": "https://open.spotify.com/album/5bY59PI8bfUhcsChIgd8Hs"
+      },
+      "artists": [
+        {
+          "name": "FEZA",
+          "url": "https://open.spotify.com/artist/0TYkMdtrh5k68NbrZg35F5"
+        },
+        {
+          "name": "HANS",
+          "url": "https://open.spotify.com/artist/1l3eHnb5bv8cAvyohSooON"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103859,
+      "name": "ICARDI",
+      "url": "https://open.spotify.com/track/68u3ru051BvzrvYYmMM8Qb"
+    },
+    {
+      "album": {
         "name": "Icarus",
         "url": "https://open.spotify.com/album/2GMe9yjkZYWlCvF0hM4648"
       },
@@ -7298,7 +7446,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 142758,
       "name": "illaki sevgilim",
       "url": "https://open.spotify.com/track/5mgl4ajkqctgmQakaE72wx"
@@ -8156,7 +8304,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 245200,
       "name": "King Life",
       "url": "https://open.spotify.com/track/2OrUMzP1iHrkrUJ0Y7Sf6h"
@@ -8254,6 +8402,24 @@
       "duration_ms": 157575,
       "name": "Koud",
       "url": "https://open.spotify.com/track/7L5PexrJIR4NXkPr2wH66J"
+    },
+    {
+      "album": {
+        "name": "kx.effekt",
+        "url": "https://open.spotify.com/album/2CQh06BtpRf023SAn80waP"
+      },
+      "artists": [
+        {
+          "name": "yngbn0",
+          "url": "https://open.spotify.com/artist/491tDK3crRnHxqJTrUZ6MM"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157650,
+      "name": "kx.effekt",
+      "url": "https://open.spotify.com/track/6B16ouP0Ud1fJc2iBJPqcE"
     },
     {
       "album": {
@@ -8602,7 +8768,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 137142,
       "name": "Let Me Show You (What I'm Bout)",
       "url": "https://open.spotify.com/track/3kI8PaiNNn23aZScAIFUGT"
@@ -9176,7 +9342,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 216999,
       "name": "Magnet Mode",
       "url": "https://open.spotify.com/track/1oXfp1Mz8pef6vRnFhsviP"
@@ -10161,6 +10327,32 @@
     },
     {
       "album": {
+        "name": "Money I Dey Find",
+        "url": "https://open.spotify.com/album/53RnGJQwfCsQA0J8wP94Ii"
+      },
+      "artists": [
+        {
+          "name": "Skylite",
+          "url": "https://open.spotify.com/artist/7ItYu7DjasYyI5l118rEYR"
+        },
+        {
+          "name": "Charisma",
+          "url": "https://open.spotify.com/artist/1pqKImJTt0AXkbqJHBrdhX"
+        },
+        {
+          "name": "Idol",
+          "url": "https://open.spotify.com/artist/3TYdZOacHwmFJBLIFygz8V"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167112,
+      "name": "Money I Dey Find",
+      "url": "https://open.spotify.com/track/77GHzt5EndSJ6vn8MktsJd"
+    },
+    {
+      "album": {
         "name": "R-Rated (Gems From The Vault Series)",
         "url": "https://open.spotify.com/album/2c62XGRhLYPbv7HmFyC8xF"
       },
@@ -10416,7 +10608,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 139079,
       "name": "My Queen",
       "url": "https://open.spotify.com/track/7gIRnwO15z1y5GBSti6HfN"
@@ -10532,7 +10724,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 126874,
       "name": "M\u00fcrettebat",
       "url": "https://open.spotify.com/track/063eyrpQAMMc4jA9fNrBz9"
@@ -11429,6 +11621,24 @@
     },
     {
       "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/6OLkpuWOdDAIuGP3Z76Y3U"
+      },
+      "artists": [
+        {
+          "name": "N4Ri",
+          "url": "https://open.spotify.com/artist/2v2AvfN9hmdb5zUYRgTAwL"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110662,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/23s9tJ4xmOA00PuUwhS56q"
+    },
+    {
+      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/4hfOuEuqSLCKYbv7jPA7kM"
       },
@@ -11730,6 +11940,24 @@
       "duration_ms": 115116,
       "name": "Parole Proibite Freestyle",
       "url": "https://open.spotify.com/track/1Uzogax1J9j4KMqPGhFHNa"
+    },
+    {
+      "album": {
+        "name": "PARTY IN THE 2000's (Radio Edit)",
+        "url": "https://open.spotify.com/album/1qPuSIbCo6x3wZ4aItpXWw"
+      },
+      "artists": [
+        {
+          "name": "Jay BRKZ",
+          "url": "https://open.spotify.com/artist/0C7SMTDMl2a3ebiPBFYSLR"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161123,
+      "name": "PARTY IN THE 2000's - Radio Edit",
+      "url": "https://open.spotify.com/track/10FH23mEuLvVsMfarE1ulf"
     },
     {
       "album": {
@@ -12610,7 +12838,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 127677,
       "name": "Read Every Sign",
       "url": "https://open.spotify.com/track/2KQZLpmOtuS5lCYU7rmg6q"
@@ -12766,7 +12994,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 184398,
       "name": "Respect On Ma Name",
       "url": "https://open.spotify.com/track/716zM67VMeF360vYrAOA7F"
@@ -14000,7 +14228,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 289360,
       "name": "Spoken Image",
       "url": "https://open.spotify.com/track/5t3AdoycHPybFln9mnCCtd"
@@ -14919,6 +15147,24 @@
     },
     {
       "album": {
+        "name": "The Crown",
+        "url": "https://open.spotify.com/album/4iEDZ1BvSUO7Yg6hZg22wd"
+      },
+      "artists": [
+        {
+          "name": "Aysend Music",
+          "url": "https://open.spotify.com/artist/1XdUNIApBZ3zKyQLssY4tp"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174559,
+      "name": "The Crown",
+      "url": "https://open.spotify.com/track/1CJvBeOr9pSZ6w16sec5Xo"
+    },
+    {
+      "album": {
         "name": "Unforgiving",
         "url": "https://open.spotify.com/album/6F3bxwYR1ASe8zuvrWYSgP"
       },
@@ -15268,7 +15514,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 183454,
       "name": "This Is Our Story",
       "url": "https://open.spotify.com/track/00UuJUN3CHHp0SThESAtKF"
@@ -15557,6 +15803,24 @@
     },
     {
       "album": {
+        "name": "Trapped in darkness",
+        "url": "https://open.spotify.com/album/4flqHwB4qJvfYMnKCrFbjs"
+      },
+      "artists": [
+        {
+          "name": "Lena lil skinny",
+          "url": "https://open.spotify.com/artist/1HrmhnpS2J1P3AMJWNS0Iv"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172704,
+      "name": "Trapped in darkness",
+      "url": "https://open.spotify.com/track/7KdpMwongCToPVouuef8jW"
+    },
+    {
+      "album": {
         "name": "Trapped in The System",
         "url": "https://open.spotify.com/album/6m3JiubVOeILllEKhtFlnc"
       },
@@ -15608,7 +15872,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 164000,
       "name": "Tredici",
       "url": "https://open.spotify.com/track/477pkM8XjJk5kDegFEKU8w"
@@ -17008,6 +17272,24 @@
       "duration_ms": 198452,
       "name": "Won't Get To Me",
       "url": "https://open.spotify.com/track/6wYfxUtp3JW5DCaG7oAynE"
+    },
+    {
+      "album": {
+        "name": "Wszystko dla pieni\u0119dzy",
+        "url": "https://open.spotify.com/album/2ASL6hbT1YoMEHp7bmzlaj"
+      },
+      "artists": [
+        {
+          "name": "REGUA OG",
+          "url": "https://open.spotify.com/artist/73zYBjHZ3qi176hg1TOPHo"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122824,
+      "name": "Wszystko dla pieni\u0119dzy",
+      "url": "https://open.spotify.com/track/4D2YWcdVDkIrDABht3ZQ72"
     },
     {
       "album": {

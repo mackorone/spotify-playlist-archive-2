@@ -4,11 +4,11 @@
 
 > ❄️❄️❄️
 
-290 songs - 15 hr 9 min
+291 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [25](https://open.spotify.com/track/5AZbkQmVnvkCMX7kOIT6jg) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [25](https://open.spotify.com/album/0VUXnqYhSEbRpQiJ6pvcYt) | 3:18 | 2024-09-12 |  |
+| [25](https://open.spotify.com/track/5AZbkQmVnvkCMX7kOIT6jg) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [25](https://open.spotify.com/album/0VUXnqYhSEbRpQiJ6pvcYt) | 3:18 | 2024-09-12 | 2026-01-24 |
 | [25 bare fem år til](https://open.spotify.com/track/75gRDppqFWCiMLO7nKqxYL) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [25 bare fem år til](https://open.spotify.com/album/5AJRaypaewaQL04QgPkz1L) | 2:45 | 2024-10-03 | 2025-09-03 |
 | [28](https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:53 | 2024-07-04 | 2025-10-30 |
 | [A Little Too Lost Sometimes](https://open.spotify.com/track/5T5sOXwBzka5WAdy6jahsV) | [RABO](https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf) | [A Little Too Lost Sometimes](https://open.spotify.com/album/1hgILChVJdx3d1s6CqUUnb) | 3:48 | 2025-10-16 | 2025-11-02 |
@@ -297,6 +297,7 @@
 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 | 2025-05-22 |  |
 | [Why Why Why](https://open.spotify.com/track/1lpoamZ7AhyXq8VukIU8eM) | [May](https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE) | [Why Why Why](https://open.spotify.com/album/2s02TARBneDJSDw36o9wmg) | 2:32 | 2025-06-24 | 2025-07-10 |
 | [wildflower](https://open.spotify.com/track/6Mlslrt2Eg6ErFZfLMQMVZ) | [leoleo](https://open.spotify.com/artist/5Dsd7jTkXFpmNtZTWuBMDh) | [wildflower](https://open.spotify.com/album/1U5GHC1XPATNX9kXH82qFw) | 2:54 | 2024-09-26 | 2025-02-19 |
+| [Without Me](https://open.spotify.com/track/0XtHlGLkAmQBPTOLvMxqy2) | [RABO](https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf) | [Half Decade Addiction](https://open.spotify.com/album/1FXRSeOagN6b4lsOdvH1ZP) | 3:10 | 2026-01-22 |  |
 | [Ælsk nånn](https://open.spotify.com/track/3m4V5TOoJCX2zriMAQNIk4) | [Ingrid Vårvik](https://open.spotify.com/artist/0EZzUcdUUvHZbw77Cmy5uU) | [Ælsk nånn](https://open.spotify.com/album/3SxRO68yT4mmagISCMzjJP) | 3:05 | 2025-08-28 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

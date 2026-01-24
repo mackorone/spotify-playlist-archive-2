@@ -3295,6 +3295,24 @@
     },
     {
       "album": {
+        "name": "Levva",
+        "url": "https://open.spotify.com/album/1kq3ef4sES24rRlSF5ykao"
+      },
+      "artists": [
+        {
+          "name": "\u00d8ystein Skar",
+          "url": "https://open.spotify.com/artist/3OKPHN3DCoQfCsMNjbNqRZ"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282810,
+      "name": "Levva",
+      "url": "https://open.spotify.com/track/5styiS6T2sQCqd633t5nPF"
+    },
+    {
+      "album": {
         "name": "Life Forms",
         "url": "https://open.spotify.com/album/4MXUqLOKxcTFkHgF7ChgdR"
       },
@@ -3606,7 +3624,7 @@
       ],
       "date_added": "2020-07-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 252146,
       "name": "Lueena Coast",
       "url": "https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q"

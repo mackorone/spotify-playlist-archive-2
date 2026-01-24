@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,678 likes - 108 songs - 6 hr 51 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,679 likes - 109 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,5 +116,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 106 | [The Gladiator \(2025 Remastered Version\)](https://open.spotify.com/track/22AfA3lC9hksGyG2KEVHHT) | [Foolish Manure](https://open.spotify.com/artist/3iqKlvnEXhmugZRypumXlS) | [The Gladiator \(2025 Remastered Version\)](https://open.spotify.com/album/3E9TobEFd1wXM42E0FFZrk) | 2:30 |
 | 107 | [Altisuono in Vibro](https://open.spotify.com/track/4za819jKTj1J19tNGaN5Zu) | [Bekruud](https://open.spotify.com/artist/5chx6Kbsyug2xjG91C6eay) | [Dal Buio alla Luce](https://open.spotify.com/album/73rsW9rQKkJZTkchN6QLko) | 3:25 |
 | 108 | [Let Me Rock 'n' Roll](https://open.spotify.com/track/6UMuktZrIzLl6Qby4VCdDm) | [Brave Rival](https://open.spotify.com/artist/2tjh5W0sRxYe5Vr6EUh5go) | [5 to 4](https://open.spotify.com/album/40RQR6L1VCRxJkrjV2SAah) | 4:00 |
+| 109 | [The Last Hangman](https://open.spotify.com/track/0frN7FOhhgB0iiZyTA8nmQ) | [AJ Rock](https://open.spotify.com/artist/7xEm9fb76CTAOBOWQK1dL8) | [Spitfire](https://open.spotify.com/album/0O45ZFG71upJqEQUT0C5dt) | 6:24 |
 
-Snapshot ID: `AAAKfiqe0AKa2r72fyXuS0J8thIe0Utx`
+Snapshot ID: `AAAKfymozAHtvECpoltbH3mYBK4HYn8G`

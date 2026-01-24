@@ -640,7 +640,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 150683,
       "name": "Being In Love",
       "url": "https://open.spotify.com/track/3ENYeb7501VXnI4pNfD12F"
@@ -3076,7 +3076,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 144284,
       "name": "Interlude",
       "url": "https://open.spotify.com/track/1AiJuiV2Skc6iQ5ODaUHDH"
@@ -5067,6 +5067,28 @@
     },
     {
       "album": {
+        "name": "Orb (Electronic)",
+        "url": "https://open.spotify.com/album/6Al2UJVwktSiGVFp5YrHeH"
+      },
+      "artists": [
+        {
+          "name": "Aksel Krystad",
+          "url": "https://open.spotify.com/artist/6HWqfAvhFGVzX04XxDZBVw"
+        },
+        {
+          "name": "Guy Didden",
+          "url": "https://open.spotify.com/artist/1DaOoPiSgkDkuBOSnDG7Pz"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139834,
+      "name": "Orb - Electronic",
+      "url": "https://open.spotify.com/track/2aP46sLmqlnBP0DoUcnROH"
+    },
+    {
+      "album": {
         "name": "our lives entwined",
         "url": "https://open.spotify.com/album/5s2Wb9fq6Uf86p4qBi1g7k"
       },
@@ -5906,6 +5928,32 @@
       "duration_ms": 278174,
       "name": "Sine Waves",
       "url": "https://open.spotify.com/track/3iLbERuL98HVj4utkn7U04"
+    },
+    {
+      "album": {
+        "name": "Sinking Deep",
+        "url": "https://open.spotify.com/album/4E2XqOIoSJPwlUvXJZEmOr"
+      },
+      "artists": [
+        {
+          "name": "Zee Essential",
+          "url": "https://open.spotify.com/artist/7FjLkELdCTvm9UkcW98DAH"
+        },
+        {
+          "name": "Jordan Arts",
+          "url": "https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ"
+        },
+        {
+          "name": "Wilhelm Richard",
+          "url": "https://open.spotify.com/artist/0kw3Q7LOp9QsyAA25S8KBX"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262730,
+      "name": "Sinking Deep",
+      "url": "https://open.spotify.com/track/2MiMl069qKOZK8MzSKqEua"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Harry Styles, Luis Fonsi & Feid, Ana Mena y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,391 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,904 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 7 | [Más De Lo Que Te Quiero](https://open.spotify.com/track/0kbqNGwmIANbVjwXPGg4ou) | [Antonio Carmona](https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo) | [Más De Lo Que Te Quiero](https://open.spotify.com/album/07W07SYPoOLjHOFtkRClTJ) | 3:29 |
 | 8 | [PERDIENDO LA FE](https://open.spotify.com/track/3zkwhhqwD0cQVflnuAuR5H) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [PERDIENDO LA FE](https://open.spotify.com/album/3n9EzGc9xUORuDpZKoUDTI) | 2:48 |
 | 9 | [Masones](https://open.spotify.com/track/3YQcNXE24EoTADxiSJXud2) | [8belial](https://open.spotify.com/artist/3GMBcFbI21Tbi1POVBmCwb), [Stiffy](https://open.spotify.com/artist/7g7N6cRr5izWiIWvffgwWO) | [Masones](https://open.spotify.com/album/0iSLtHimEY6qAxIFgDB0kp) | 4:09 |
-| 10 | [Nadie](https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [](https://open.spotify.com/album/null) | 2:47 |
-| 11 | [El que no sabe estar con nadie](https://open.spotify.com/track/0crnyLuJ6EwLZ7AxPMp30t) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [](https://open.spotify.com/album/null) | 3:18 |
-| 12 | [scared](https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [USB](https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT) | 4:03 |
+| 10 | [Nadie](https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [La vida de Nadie](https://open.spotify.com/album/3zzUdNCdGCDobDktA3v6yi) | 2:47 |
+| 11 | [El que no sabe estar con nadie](https://open.spotify.com/track/0crnyLuJ6EwLZ7AxPMp30t) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Una mudanza](https://open.spotify.com/album/4fgEM9EzEXoQQwx1xX3V4p) | 3:18 |
+| 12 | [scared](https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [USB](https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT) | 3:46 |
 | 13 | [FLACKITO JODYE \(feat\. Tokischa\)](https://open.spotify.com/track/5evBKaW1C74pRKBoQIyZ8C) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Don't Be Dumb](https://open.spotify.com/album/0atfWEzoZMgo9zCwFd5nEN) | 2:20 |
 | 14 | [Opening Night](https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [Opening Night](https://open.spotify.com/album/0Q6JVakLI4J5kvjX2uW38i) | 4:19 |
 | 15 | [Death of Love](https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Death of Love](https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH) | 3:26 |
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 36 | [TKM CNT XFA](https://open.spotify.com/track/3kHxYzvottpn4pmV5GBADA) | [Ladilla Rusa](https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF) | [TKM CNT XFA](https://open.spotify.com/album/7E3vNnKm7alB2ayeYuaO3Q) | 3:32 |
 | 37 | [ROADTRIP](https://open.spotify.com/track/1WZfs7Pl5zlvsqv8yH3RGC) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN), [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU) | [ROADTRIP](https://open.spotify.com/album/2pJoTyNXajAzNvSomoodOJ) | 2:41 |
 | 38 | [Mi pequeña bestia](https://open.spotify.com/track/0hneq9Kl23zSPGVKfjHgb4) | [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Mi pequeña bestia](https://open.spotify.com/album/0NYScj3xCqoBai4WSSrChh) | 3:09 |
-| 39 | [Carretera o trueno](https://open.spotify.com/track/1o2OthooX1z28pRNR3zT3C) | [Ángel Stanich](https://open.spotify.com/artist/1S3qoq3uXtDOYVrohpcsKY) | [](https://open.spotify.com/album/null) | 7:25 |
+| 39 | [Carretera o trueno](https://open.spotify.com/track/1o2OthooX1z28pRNR3zT3C) | [Ángel Stanich](https://open.spotify.com/artist/1S3qoq3uXtDOYVrohpcsKY) | [Por La Hierba](https://open.spotify.com/album/0tuPflke7JHWNpM436nzqs) | 7:25 |
 | 40 | [Una y Otra Vez](https://open.spotify.com/track/01Jau2dvxahy6s00VFFB0n) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Una y Otra Vez](https://open.spotify.com/album/2mIRZwtWJfTMXb9IlD92WT) | 3:02 |
 | 41 | [Rollitos de Papel](https://open.spotify.com/track/2In4JKhdvDXXszMTh6PlnN) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Rollitos de Papel](https://open.spotify.com/album/7eZ9SGcuTyYH6tHeLFhuu1) | 3:02 |
 | 42 | [Como mamá no hay nadie](https://open.spotify.com/track/0w0JFaVKjYpNPNyH4DsbEV) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Como mamá no hay nadie](https://open.spotify.com/album/1tc9L3fPeQA36Yosp3iUjc) | 3:23 |
-| 43 | [Si Todo Se Tuerce](https://open.spotify.com/track/4Z5prSEhWbfD7QOgkEisCd) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [](https://open.spotify.com/album/null) | 3:02 |
+| 43 | [Si Todo Se Tuerce](https://open.spotify.com/track/4Z5prSEhWbfD7QOgkEisCd) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Desde Cuándo Todo](https://open.spotify.com/album/3nLvBcYtzxMF120hVwZMxf) | 3:02 |
 | 44 | [un lugar para ti](https://open.spotify.com/track/0RfuDobFpjFc7KZZJSlptr) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [un lugar para ti](https://open.spotify.com/album/7ryKWAHfuvzkufN4By7yRA) | 3:48 |
 | 45 | [PANCHO](https://open.spotify.com/track/2c0hlILpnsO32fCRSJRkwT) | [Ana Farelo](https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm) | [PANCHO](https://open.spotify.com/album/5LGEZbPUr41WATHt2iCGkl) | 2:50 |
 | 46 | [Belle Époque](https://open.spotify.com/track/2DiehNUu5GjuwM1DbuJmsY) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [Belle Époque](https://open.spotify.com/album/6ziiRJZbDBrFfeXpBdjUtJ) | 2:10 |

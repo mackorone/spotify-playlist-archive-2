@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 84273,
+  "num_followers": 84307,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXAXAAAAAAAc0Nb6fPNA3tHNPvsAnpT6",
+  "snapshot_id": "aXFogAAAAADjMCOJNgCFw4kEtcyZzTh/",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Generator",
-        "url": "https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Generator",
-      "url": "https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Empire Strikes First",
         "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 203733,
       "name": "Los Angeles Is Burning",
       "url": "https://open.spotify.com/track/0biGKHOtNVGM14sRSztyKq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Generator",
+        "url": "https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Generator",
+      "url": "https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gray Race",
-        "url": "https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 129026,
-      "name": "A Walk",
-      "url": "https://open.spotify.com/track/3Hu5WwPUx6tVhqdqbbGPo8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Process Of Belief",
         "url": "https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 106586,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/24Z9YNvIlWNjYraAqyUgSh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gray Race",
+        "url": "https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 129026,
+      "name": "A Walk",
+      "url": "https://open.spotify.com/track/3Hu5WwPUx6tVhqdqbbGPo8"
     },
     {
       "added_at": null,

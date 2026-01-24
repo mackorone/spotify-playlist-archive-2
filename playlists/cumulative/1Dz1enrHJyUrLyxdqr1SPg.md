@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-120 songs - 7 hr 7 min
+121 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Inspiration](https://open.spotify.com/track/7kJe4f5qvxkSQEMS5N5wCl) | [Charles Connolly](https://open.spotify.com/artist/177sVR4PIPRGPAys8e5vG1) | [Inspiration](https://open.spotify.com/album/31sfUoh8zXgKOb509lxj3y) | 4:56 | 2024-03-08 |  |
 | [It's My Life](https://open.spotify.com/track/3XGK7kWTvorW1S1Lt86gUA) | [Jill Winter](https://open.spotify.com/artist/5m6M42fpTjqKbu0VuKjfSD) | [It's My Life](https://open.spotify.com/album/7hZTVJRgLVNLz8riZzE294) | 3:50 | 2024-07-19 |  |
 | [Jo Njësoj \(Gotta Release This Pain\)](https://open.spotify.com/track/0mskgNEFaqcuW9DXEGN3G5) | [Marvy](https://open.spotify.com/artist/5gxMLATm0iC82ZFLfXOYu5), [Oghamyst](https://open.spotify.com/artist/2XAUEzj8PjNIJFRlL4UR12), [mrhatestheworld](https://open.spotify.com/artist/1UbXjFWwuEojxTSU6ZFcgU) | [Jo Njësoj \(Gotta Release This Pain\)](https://open.spotify.com/album/5nxq3qQwgvnpluEjx3Ut0i) | 3:00 | 2025-08-27 |  |
+| [Johnny B\. Goode](https://open.spotify.com/track/1vphpGv0azYXh4yk4vDJdh) | [Florin Gindu](https://open.spotify.com/artist/7tK6mIokWaz9Awj8pc2c2k) | [Johnny B\. Goode](https://open.spotify.com/album/700CeLKBGmOGKQSqnPUwQc) | 1:40 | 2026-01-23 |  |
 | [Keep Moving](https://open.spotify.com/track/0KneIjtUUQDHihRadOGnVZ) | [Dimitri K.](https://open.spotify.com/artist/0bKluPyYZqgAUhDC8hChjP) | [Keep Moving](https://open.spotify.com/album/0KsDGmoBbob19SuoNq1nU2) | 3:48 | 2025-11-11 |  |
 | [Kiss Me Before I Die](https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Kiss Me Before I Die](https://open.spotify.com/album/6WK2lmzQryOU4r2YyI82Hg) | 4:13 | 2024-11-01 | 2025-12-06 |
 | [Kusulu](https://open.spotify.com/track/614TnXpkPYMFplzjNQoUge) | [Jim Sande](https://open.spotify.com/artist/2RqwceZJGjpobxaQaOGx6C) | [Kusulu](https://open.spotify.com/album/4E7SZzmWndmXNwLBVrega3) | 3:34 | 2025-06-01 |  |

@@ -1754,7 +1754,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 158838,
       "name": "Descontrol",
       "url": "https://open.spotify.com/track/2USP7uCFfx4BFm8KXual18"
@@ -3453,6 +3453,24 @@
     },
     {
       "album": {
+        "name": "homemade dynamite",
+        "url": "https://open.spotify.com/album/0uAEZ3O8vzbgHdKJqa5zvg"
+      },
+      "artists": [
+        {
+          "name": "MAREA",
+          "url": "https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209415,
+      "name": "homemade dynamite",
+      "url": "https://open.spotify.com/track/2K9010FkmAfEBAqeFQzm2N"
+    },
+    {
+      "album": {
         "name": "February",
         "url": "https://open.spotify.com/album/1aS4Ymw0GPsZI5sASa0Bq1"
       },
@@ -3548,6 +3566,28 @@
       "duration_ms": 195055,
       "name": "How Much Can a Heart Break",
       "url": "https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF"
+    },
+    {
+      "album": {
+        "name": "How To Heal",
+        "url": "https://open.spotify.com/album/5Ne5wTfd1KTjq5oP4Jel2l"
+      },
+      "artists": [
+        {
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        },
+        {
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189048,
+      "name": "How To Heal",
+      "url": "https://open.spotify.com/track/3s8dyCHLhV2Ha162qEoNaw"
     },
     {
       "album": {
@@ -7455,6 +7495,24 @@
     },
     {
       "album": {
+        "name": "These Walls",
+        "url": "https://open.spotify.com/album/6aLdjyeTqqpkUk86IaE69g"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184893,
+      "name": "These Walls",
+      "url": "https://open.spotify.com/track/5fr2nes4H8khGAlOT9Vj6t"
+    },
+    {
+      "album": {
         "name": "TikTak",
         "url": "https://open.spotify.com/album/4r7bzEFYlW0JelO4TOVCOk"
       },
@@ -8436,7 +8494,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 125893,
       "name": "you & i",
       "url": "https://open.spotify.com/track/7qanXHrGDdACDlCLqiY4qe"
@@ -8454,7 +8512,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 136767,
       "name": "You Hurt Me",
       "url": "https://open.spotify.com/track/5DhoEhRFe9zk65yJwDQ71D"

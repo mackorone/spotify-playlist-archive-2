@@ -4,7 +4,7 @@
 
 > Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Chemutai Sage
 
-299 songs - 16 hr 51 min
+301 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Let Me Go](https://open.spotify.com/track/4wd7i64bBgwsP5aZ9h3KM1) | [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [Let Me Go](https://open.spotify.com/album/5T4bjhjjjcBG5YgaxhehM4) | 2:29 | 2024-12-05 | 2025-09-20 |
 | [Let You Down](https://open.spotify.com/track/3apziXJWNWQPmpTceYJSZZ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X), [Kemena](https://open.spotify.com/artist/0SGTAjot9GShYwCQ69DfG2) | [Let You Down](https://open.spotify.com/album/6Up0QUA4FZV8K4xXvtzDom) | 3:25 | 2024-02-01 | 2025-05-06 |
 | [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/track/5uWY0KnnVk2EVeUsgsnOFW) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Blocka Beats](https://open.spotify.com/artist/7aQKaQoCPS9HOu4fOtJSEm) | [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/album/6LV9r0DgOvWCJj0j4kYbO4) | 3:18 | 2022-08-18 | 2023-04-07 |
+| [Lie to Me \- Home Session](https://open.spotify.com/track/52xnyuEQRJToUAolhLJGkO) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Home Session](https://open.spotify.com/album/66icwT2w7cUN4qFxSmfDNM) | 3:11 | 2026-01-23 |  |
 | [Lifetimes](https://open.spotify.com/track/3EeWg0GABnVlg0boa29GTK) | [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [Lifetimes](https://open.spotify.com/album/5hC9LuVBPPiECwYohDX9By) | 3:22 | 2024-05-16 | 2025-02-08 |
 | [Like That](https://open.spotify.com/track/13m6zDeYjp1lwMlyo0xsUR) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Asali](https://open.spotify.com/album/0fe0T3nNaWpMcdOr4ss9bw) | 2:56 | 2022-11-03 | 2023-11-03 |
 | [Lonely In Nairobi](https://open.spotify.com/track/6ilStQsc2cozlrjmseAJ7N) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [Lonely In Nairobi](https://open.spotify.com/album/3O3f7B13CuboRb9Pbv505l) | 3:09 | 2021-12-28 | 2022-07-16 |
@@ -168,9 +169,9 @@
 | [Mbuzi](https://open.spotify.com/track/6jmELmAu5xIfRAaaOsyDat) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Mbuzi](https://open.spotify.com/album/0gNuPgiVwa6B0fWQqj8ELm) | 3:09 | 2025-04-25 |  |
 | [Mema](https://open.spotify.com/track/2FxMPsrwAuC6CS9G33U8Qr) | [Mordecai Dex](https://open.spotify.com/artist/7itqo8Vno3ohE3Ce85aHBL) | [Safari \- Journey Of 1000 Songs](https://open.spotify.com/album/28TW5zkQtpNv5Bz3Qn81HG) | 3:40 | 2025-01-30 |  |
 | [Memory Lane](https://open.spotify.com/track/74JVJp8ChK3rHbtY5dity4) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Memory Lane](https://open.spotify.com/album/6nii6T6T0MseXxmH0NjCCW) | 3:26 | 2023-06-16 | 2024-08-09 |
-| [MiiYa](https://open.spotify.com/track/3gA42BhHhRnItB1Iiwck5I) | [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [MiiYa](https://open.spotify.com/album/6XU9fyoSPL0SbsMw32lDEf) | 4:17 | 2024-11-21 |  |
+| [MiiYa](https://open.spotify.com/track/3gA42BhHhRnItB1Iiwck5I) | [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [MiiYa](https://open.spotify.com/album/6XU9fyoSPL0SbsMw32lDEf) | 4:17 | 2024-11-21 | 2026-01-24 |
 | [Milele](https://open.spotify.com/track/4j46yRxfE9nGMwL1JSKNNc) | [Elani](https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26) | [Barua ya Dunia](https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z) | 3:21 | 2021-12-28 | 2025-02-08 |
-| [More Than Friends](https://open.spotify.com/track/7y8eCLYtwwp7zWRRLnan6Z) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Kayrop](https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2) | [More Than Friends](https://open.spotify.com/album/4ho264FYDgVnp1mnnSyDyg) | 3:14 | 2024-10-10 |  |
+| [More Than Friends](https://open.spotify.com/track/7y8eCLYtwwp7zWRRLnan6Z) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Kayrop](https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2) | [More Than Friends](https://open.spotify.com/album/4ho264FYDgVnp1mnnSyDyg) | 3:14 | 2024-10-10 | 2026-01-24 |
 | [My Boo \(Got You\)](https://open.spotify.com/track/1KARBmwCTsQn42ys1Zoruo) | [Waithaka](https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4), [Enjolee](https://open.spotify.com/artist/2hipSd3UmvN9XmJvoLhhl0), [JIVU](https://open.spotify.com/artist/55ifbQBufA4303tQjuWRKR) | [Soul'd Duets](https://open.spotify.com/album/0RWvz01vbIOwW5Oo3e3ky6) | 4:00 | 2024-05-16 | 2024-12-06 |
 | [My Everything](https://open.spotify.com/track/5OB9O4aHm8IlB1FOoQFRXm) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Midnight Train](https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK) | 3:51 | 2021-12-28 | 2025-02-21 |
 | [My Love Awaits](https://open.spotify.com/track/24hszCuRcxdPIfKf1tiD27) | [Meryl Paige](https://open.spotify.com/artist/7knPQF8DVvIzmfo7J5ihUg), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [DEDICATED](https://open.spotify.com/album/2INHWNycenPaECsaTPKnbJ) | 3:44 | 2023-03-23 | 2024-02-16 |
@@ -241,6 +242,7 @@
 | [Shuga Mami](https://open.spotify.com/track/3igr48adSH8n7DD8Uuob4m) | [Ayrosh](https://open.spotify.com/artist/3eUpzhdVQkVaAKWn09Ka8l) | [Shuga Mami](https://open.spotify.com/album/2V00KW0quSNc1b6QgUNPNY) | 3:38 | 2025-02-13 | 2025-02-21 |
 | [Side Chick](https://open.spotify.com/track/6XeOjWznRQ6WWTelTBUCsZ) | [ItsYaba](https://open.spotify.com/artist/61CKwmxern8sROzuhUDY3j), [Jefflawgan](https://open.spotify.com/artist/5ciu7LFuG7PZSGPzIS8jav) | [Side Chick](https://open.spotify.com/album/3GOgVhlZZdyehCcVFmFwx3) | 3:50 | 2025-03-28 | 2025-12-05 |
 | [Sio Siri](https://open.spotify.com/track/5oKoPTkNST0DFa6CYOrCS6) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Sio Siri](https://open.spotify.com/album/1XkXWsoUaTSbYFtKjDOR54) | 3:08 | 2021-12-28 | 2023-12-01 |
+| [Sioni Haja](https://open.spotify.com/track/11dHYUHkz51oJJ14KqBzfX) | [DENO](https://open.spotify.com/artist/6JnP9a6TJjhR0yexwK0MrK) | [Sioni Haja](https://open.spotify.com/album/0MWqjICMiB1Sq87kGx0K7L) | 3:23 | 2026-01-23 |  |
 | [Skin](https://open.spotify.com/track/1j6AwoqDeTLmfvBeY281CN) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [You Never Learn](https://open.spotify.com/album/53p5igeY5gYg2TDXVKDeVd) | 3:39 | 2023-09-21 | 2024-03-29 |
 | [slow burning.](https://open.spotify.com/track/5U5lHDAuwPX1XjJ4cAWqps) | [3N!](https://open.spotify.com/artist/3FvZoL8GYFyC4AsZUxfAtc), [tugi ndichu](https://open.spotify.com/artist/6V5cXlR568MeLMKHEANbM7) | [slow burning.](https://open.spotify.com/album/7uf5Mi12fGexmZfETSpI1Y) | 3:32 | 2025-09-19 |  |
 | [Slow Down](https://open.spotify.com/track/0hrXbMtT7Wb8vlRLpRxBZ8) | [Emma Cheruto](https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3), [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Slow Down](https://open.spotify.com/album/4juUxcfkxdA6ry2dKBRMYz) | 3:17 | 2021-12-28 | 2022-06-11 |

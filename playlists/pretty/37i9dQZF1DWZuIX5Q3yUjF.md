@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Siddy in cover della playlist dell'R&B italiano 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,392 likes - 94 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,398 likes - 94 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 5 | [mia](https://open.spotify.com/track/2PP6LXaNeA4hTWxq2FVOnr) | [Altea](https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws) | [Nessuna](https://open.spotify.com/album/3aCQCerumFp8XZKbGD6jXM) | 2:14 |
 | 6 | [Specchio](https://open.spotify.com/track/6wbYbRt4K5C37RN8na3Lq6) | [Livio Cori](https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX) | [Luntano](https://open.spotify.com/album/0MzERUt2a3DyHOsy0z3bsY) | 2:12 |
 | 7 | [All You Can Eat](https://open.spotify.com/track/7IBgMAE48sydRRyyqpQDS6) | [Angel Names](https://open.spotify.com/artist/0nHyCOwU0M12V191sOV2a1) | [All You Can Eat](https://open.spotify.com/album/3UK4WUexTpAxyG7wpFakwS) | 3:33 |
-| 8 | [magari quando nevica](https://open.spotify.com/track/1zybqxhlEeE9zr4brg31sy) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [IL BELLO E IL CATTIVO TEMPO](https://open.spotify.com/album/0owK9lmz98Xgi0GXj5ZO5K) | 2:37 |
+| 8 | [magari quando nevica](https://open.spotify.com/track/1zybqxhlEeE9zr4brg31sy) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [IL BELLO E IL CATTIVO TEMPO](https://open.spotify.com/album/0owK9lmz98Xgi0GXj5ZO5K) | 3:51 |
 | 9 | [LE STORIE DEGLI ALTRI](https://open.spotify.com/track/77JflGtg6RqMX54rXZiEX5) | [Kandischi](https://open.spotify.com/artist/19OV4FdebODC4oWgHUW8BO) | [LE STORIE DEGLI ALTRI](https://open.spotify.com/album/1Nj0Kx7ikDq7zc42VdVz82) | 3:11 |
 | 10 | [Briciole gourmet](https://open.spotify.com/track/5Tg7VWkaMjUAtqxSvjn4Jq) | [Calmo](https://open.spotify.com/artist/4Wx3ZL6d6p1gVMtwQ2YWsz) | [Briciole gourmet](https://open.spotify.com/album/52RLvEOCJJ9UKDLPoi0Bi9) | 2:25 |
 | 11 | [Sono in un van](https://open.spotify.com/track/4HdZOd5NQ6BAAMg18TqAQg) | [Arya](https://open.spotify.com/artist/1Rr944KwI8GqDCdzdsHYok) | [Sono in un van](https://open.spotify.com/album/0AFXz4DplekNh1kpRqkCq8) | 3:11 |

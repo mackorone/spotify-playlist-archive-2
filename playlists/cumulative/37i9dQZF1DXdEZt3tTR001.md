@@ -4,7 +4,7 @@
 
 > lay back\. chill out.
 
-364 songs - 23 hr 21 min
+365 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [How Could I Forget You](https://open.spotify.com/track/6lPEIRTaQOeoO7ac5q2YEi) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [How Could I Forget You](https://open.spotify.com/album/7nTOGhNV5Eqr4Gb9Ygmmsy) | 3:34 | 2021-09-07 | 2023-05-26 |
 | [I Can't Even Cry \- A COLORS SHOW](https://open.spotify.com/track/4WRdIY3cvWLk2yeNw9rMaN) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [I Can’t Even Cry \- A COLORS SHOW](https://open.spotify.com/album/0W2BWLzGgAOZErCv5ZVT1v) | 4:03 | 2025-02-14 | 2025-03-15 |
 | [i know i'm a hopeless romantic](https://open.spotify.com/track/0jsQ2ThLTEzvMB0eHNrpSP) | [Bukola](https://open.spotify.com/artist/3DI1hTY14mlkNoehKLD6wA) | [i know i'm a hopeless romantic](https://open.spotify.com/album/1s5ZRP7NnLkzGAIAyrwAxx) | 4:02 | 2024-10-10 | 2024-10-19 |
+| [i see red](https://open.spotify.com/track/3Gg7L1NuNNhqltvDgd6VHI) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [i see red](https://open.spotify.com/album/231uuW018MqyHPEGHHjZ8C) | 2:56 | 2026-01-23 |  |
 | [I Want You](https://open.spotify.com/track/2gmWJA9oF4GD2Vw5QoRqu1) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [I Want You \(Deluxe Edition\)](https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW) | 4:34 | 2023-03-10 |  |
 | [I Won't Go](https://open.spotify.com/track/3MBilTXRLzYt0z5vhGCLd4) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [I Won't Go](https://open.spotify.com/album/57sSWRu3FoOdl5L8EiSBsS) | 2:57 | 2025-09-12 | 2026-01-15 |
 | [I'll Be Long Gone](https://open.spotify.com/track/3emSSwg6s0Zx6jBln382CR) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [I'll Be Long Gone](https://open.spotify.com/album/50xsM3ZLj2cSluqqsmv65S) | 4:47 | 2025-09-05 | 2025-09-13 |
@@ -189,7 +190,7 @@
 | [KING & SUFFERIN \(OPENING THEME\)](https://open.spotify.com/track/75FJYTfhLrviJk1o2O5MpE) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [KING & SUFFERIN \(OPENING THEME\)](https://open.spotify.com/album/5qOJOyCGIPYsXiDMTuh5zT) | 1:08 | 2024-04-12 | 2024-04-19 |
 | [Kiss of Life](https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:11 | 2023-03-17 |  |
 | [Lay](https://open.spotify.com/track/3lKPcUIf29EDNES4vCYxmb) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:31 | 2022-02-17 | 2023-01-14 |
-| [Lead It Up](https://open.spotify.com/track/4vcdHDZWVNRCOrEq1LlvsU) | [GENA](https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [Lead It Up](https://open.spotify.com/album/63449DHEaCWCuCwgn8A4bB) | 2:48 | 2026-01-16 |  |
+| [Lead It Up](https://open.spotify.com/track/4vcdHDZWVNRCOrEq1LlvsU) | [GENA](https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [Lead It Up](https://open.spotify.com/album/63449DHEaCWCuCwgn8A4bB) | 2:48 | 2026-01-16 | 2026-01-24 |
 | [Learning](https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Learning](https://open.spotify.com/album/2w11Pxtx3QBbVRPKstvPFL) | 4:43 | 2024-03-01 | 2024-05-11 |
 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 | 2023-04-14 |  |
 | [Light Of My Life, You Cast A Shadow On The Wall](https://open.spotify.com/track/4EsqA4mCnaLRPKeuRXX27b) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [LOONY](https://open.spotify.com/album/4HGuhgVXgR2cgRPehibgpy) | 2:30 | 2024-03-22 | 2024-05-03 |
@@ -292,7 +293,7 @@
 | [So Good](https://open.spotify.com/track/5O0wmooPtCi3E9F1O8J7KR) | [Davina](https://open.spotify.com/artist/13gLWDdUjHWnK0XWn3gZMP) | [Best of Both Worlds](https://open.spotify.com/album/0Mvp6WwdGESYuYUD2MRzk6) | 4:34 | 2021-08-18 | 2022-07-29 |
 | [Somebody Like You](https://open.spotify.com/track/0dEnWro42n8g51OVojqFSX) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Somebody Like You](https://open.spotify.com/album/4SOJzMweqeghqe8UzKl4Om) | 2:53 | 2025-02-20 | 2025-06-21 |
 | [something will happen](https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [something will happen](https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC) | 2:59 | 2024-05-10 | 2025-02-15 |
-| [Soul Sista](https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [1st Born Second](https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77) | 5:18 | 2022-12-16 |  |
+| [Soul Sista](https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [1st Born Second](https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77) | 5:18 | 2022-12-16 | 2026-01-24 |
 | [Stars at Midnight](https://open.spotify.com/track/11BoVe8hJPrRWB5OcC1F2i) | [Harrison Brome](https://open.spotify.com/artist/7oJtghmTMHdQ49zN8uLSob), [Pomo](https://open.spotify.com/artist/6YtlR8MLfO6azxwOKAvEi3) | [Stars at Midnight](https://open.spotify.com/album/3B02VP9eve5rjpQhgmNOai) | 2:53 | 2024-01-12 | 2024-02-06 |
 | [Stay Up](https://open.spotify.com/track/2gPkEjYP9glmmjYOTw6dzN) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Intérimes](https://open.spotify.com/album/4Mbg7s2CRkw2AZa6V0gYXt) | 3:29 | 2022-11-04 | 2022-12-03 |
 | [Stay Up](https://open.spotify.com/track/6ia0rnYi7DEJGxDUbHtfiL) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Intérimes](https://open.spotify.com/album/1nmpHf4NsFpH4N1rscRD2e) | 3:29 | 2021-08-18 | 2022-07-29 |

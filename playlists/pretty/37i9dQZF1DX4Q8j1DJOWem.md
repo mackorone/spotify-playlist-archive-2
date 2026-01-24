@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ไฮไลท์ RADAR Thailand ปี 2025 โดย Spotify Editor\. ปก: guncharlie
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,930 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,934 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [จากกันโดยสมบูรณ์](https://open.spotify.com/track/6SAcZT7H44417uxybshTEy) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [จากกันโดยสมบูรณ์](https://open.spotify.com/album/7rfPxZAEK7xLGgClLqPKlB) | 3:26 |
 | 2 | [ฉันไม่ต้องการตัวเธอในตอนนี้](https://open.spotify.com/track/2QV4JzbjMvgBRXsZHE0vW5) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [ฉันไม่ต้องการตัวเธอในตอนนี้](https://open.spotify.com/album/3fGfAm9QQEuVE2QBdLk4DT) | 6:05 |
-| 3 | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/track/5LEp7WRnb0T3L2R2mTa9IZ) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/album/1iNdy5mlsxdjbXgbMg1c8W) | 4:37 |
+| 3 | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว \(Taught Me How\)](https://open.spotify.com/track/5LEp7WRnb0T3L2R2mTa9IZ) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว \(Taught Me How\)](https://open.spotify.com/album/1iNdy5mlsxdjbXgbMg1c8W) | 4:37 |
 | 4 | [ความรักไม่ได้น่ากลัวขนาดนั้น \(TRUST ME\)](https://open.spotify.com/track/5ZIoXwn0gn692g68qnRdtU) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [ความรักไม่ได้น่ากลัวขนาดนั้น \(TRUST ME\)](https://open.spotify.com/album/5zdtrmkd2wnwA96Isen9Lv) | 3:54 |
 | 5 | [รักไม่รัก \(Close Friend\)](https://open.spotify.com/track/3wCdrlyRJ2zuBIZRbmDVZW) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr), [VARINZ](https://open.spotify.com/artist/6HBK5QQwMGT6CduG11q9QZ), [NONNY9](https://open.spotify.com/artist/3iOF8kiG0peRzcvbFSa9xS) | [รักไม่รัก \(Close Friend\)](https://open.spotify.com/album/5QCYOx0c5M06VH2OtkCoYA) | 2:57 |
 | 6 | [Baby Tee](https://open.spotify.com/track/0YRvcIlETPNLdasQYkJabY) | [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [Baby Tee](https://open.spotify.com/album/2AgNQHS5SSwt7JyJaH7YGj) | 3:48 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 12 | [นิราศรักเอย \(Farewell\)](https://open.spotify.com/track/2FrrpvhvuPfmbM4X958MvV) | [Daou Pittaya](https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf) | [นิราศรักเอย \(Farewell\)](https://open.spotify.com/album/0UYXu27MRbyudK3NNIByWo) | 3:06 |
 | 13 | [สุดแต่ใจจะไขว่คว้า](https://open.spotify.com/track/6QdPlI3flfUFMy4JNpsWcG) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [สุดแต่ใจจะไขว่คว้า](https://open.spotify.com/album/6qchbQmRxZCl0WS4ZER8Xn) | 5:14 |
 | 14 | [ไม่มีที่ไปก็ต้องไป](https://open.spotify.com/track/34bbjxV7eJWOWdHHs5ZKn7) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [ไม่มีที่ไปก็ต้องไป](https://open.spotify.com/album/3duBUGLDS0P8MpuWEeSOrR) | 3:43 |
-| 15 | [พอแล้ว\(แต่อีกแล้ว\)](https://open.spotify.com/track/6cvASv3yuhmXUkpvArYNGo) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [พอแล้ว\(แต่อีกแล้ว\)](https://open.spotify.com/album/1dtLsETExRe02RSDxixrAI) | 4:28 |
+| 15 | [พอแล้ว\(แต่อีกแล้ว\) \(Sertraline\)](https://open.spotify.com/track/6cvASv3yuhmXUkpvArYNGo) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [พอแล้ว\(แต่อีกแล้ว\) \(Sertraline\)](https://open.spotify.com/album/1dtLsETExRe02RSDxixrAI) | 4:28 |
 | 16 | [หน้าเบลอหลังชัด \(Foreground\)](https://open.spotify.com/track/1xRULAj35tkMlA4PM1KY0N) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [หน้าเบลอหลังชัด \(Foreground\)](https://open.spotify.com/album/2M0De8OsdOCuQqkjA5epYM) | 3:45 |
 | 17 | [เป็นไรมั้ย \(Would you mind?\)](https://open.spotify.com/track/3fDm1Sy2emiu2DUrvdf7w0) | [Daou Pittaya](https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf) | [เป็นไรมั้ย \(Would you mind?\)](https://open.spotify.com/album/1JKgLN9Sm5yIQGJH3ueWFe) | 4:32 |
 | 18 | [ที่ผ่านมาขอบใจจริงๆ](https://open.spotify.com/track/0Vx23Np7HAjaQIttqOAUPR) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [ที่ผ่านมาขอบใจจริงๆ](https://open.spotify.com/album/3eSVg8YOvfjrQ7p4X0PKxg) | 5:38 |

@@ -4,11 +4,12 @@
 
 > Música brasileira fora da curva\. Foto: Bemti, FBC, Luar
 
-828 songs - 1 day 23 hr 8 min
+832 songs - 1 day 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 Anos](https://open.spotify.com/track/0SpFmPgLsYbfzHrgKk5sxp) | [dadá Joãozinho](https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X) | [100 Anos](https://open.spotify.com/album/4PmRfJVuXijOVOgBLis4nq) | 2:37 | 2025-01-17 | 2025-05-10 |
+| [13 de maio](https://open.spotify.com/track/3hhUJ3fjSWcFhWJ7Df28xZ) | [Falso Morel](https://open.spotify.com/artist/1A9NdR7pTDmLTM3QZIEZMk) | [13 de maio](https://open.spotify.com/album/6sLFxRt2ZXRCLERB8nZxZg) | 3:29 | 2026-01-23 |  |
 | [144](https://open.spotify.com/track/2UrTBYA7g5uQDeE1refIs6) | [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [144](https://open.spotify.com/album/6EGMD8lu6cqhdbd0UcnKoo) | 2:19 | 2023-11-10 | 2024-06-08 |
 | [18 Graus](https://open.spotify.com/track/5UxS8MWKqR8C6SdV9z29h1) | [Zé Cafofinho](https://open.spotify.com/artist/1tBxo7zs1XFMIY5xbLn3Px), [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [18 Graus](https://open.spotify.com/album/4eltbolPKxeIdiJZ7x6fWZ) | 3:23 | 2022-01-14 | 2022-04-09 |
 | [1KG](https://open.spotify.com/track/1tvOQsOtB7d044F4SyDy05) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [Jonas Miguel](https://open.spotify.com/artist/5TlzFnCUnAc9kJ4upgd2vN) | [1KG](https://open.spotify.com/album/0MR2BlgqSihTLNnICvUi9t) | 2:24 | 2026-01-16 |  |
@@ -75,6 +76,7 @@
 | [Aquele Outono](https://open.spotify.com/track/1GZAxktxsYntDgkXp9XrbN) | [Cronistas](https://open.spotify.com/artist/7L5dmHSm4H8cHne1itDWJq) | [Aquele Outono](https://open.spotify.com/album/6ou7lqgI2uo0gtz0wtAP4P) | 3:12 | 2023-08-18 | 2024-02-24 |
 | [Aqueles Homens](https://open.spotify.com/track/546dLtXOOsyvEN6jBJSqYz) | [Nobat](https://open.spotify.com/artist/1xAXVaLirdVzOJvXamSIMK), [Mariana Cavanellas](https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL) | [Aqueles Homens](https://open.spotify.com/album/3UHBNu5gqCpsLJsKG6J7gH) | 4:43 | 2022-06-24 | 2023-06-10 |
 | [aqui](https://open.spotify.com/track/0A8kRbN1JIyTUnxkqCIYNN) | [perdido](https://open.spotify.com/artist/1CBoy9bj9uDO0dGIiyz8dp) | [aqui](https://open.spotify.com/album/2rjSyprx56UPRxD383SGbA) | 1:44 | 2024-06-07 | 2024-08-17 |
+| [Aqui Dentro](https://open.spotify.com/track/3ui5IGS8jIlvqmtD9EfJDP) | [Infinito Latente](https://open.spotify.com/artist/270Y49rx1FEELCqFPMIwBN) | [Sem Início Nem Fim](https://open.spotify.com/album/4X8OdTAgIsHiFYItSm1k5D) | 3:16 | 2026-01-23 |  |
 | [Arrasta Asa](https://open.spotify.com/track/1BeUNTxs300I1GV83V4FHF) | [Os Amanticidas](https://open.spotify.com/artist/6DnHZK8a57dRS2D5qewfex), [renanrenan](https://open.spotify.com/artist/6ifMpdLfWyznB383KijFAh) | [Eu Te Conto Tudo](https://open.spotify.com/album/5dAkGlsiX4ZFKi4ncGvABK) | 4:51 | 2024-09-13 |  |
 | [Arrepio](https://open.spotify.com/track/5MyoYQSUZwEJFl8xrwuQS5) | [Clara Ribeiro](https://open.spotify.com/artist/0PiQOK3GdjNdhHVxYc7SiG), [Chediak](https://open.spotify.com/artist/0FALK05ICiGAQ1QZGkLnsK) | [Arrepio](https://open.spotify.com/album/0oumTpSlSc8wsYzeUKD8d8) | 2:23 | 2023-08-04 | 2023-08-26 |
 | [arão](https://open.spotify.com/track/2xNMHYgUHDjLzo5ipgeTt9) | [gorduratrans](https://open.spotify.com/artist/5XgdNH4XKiXwbXUTytIZnX) | [zera](https://open.spotify.com/album/5hKzinFoIFHtvIK8EeWUVU) | 4:21 | 2022-06-17 | 2022-07-02 |
@@ -595,6 +597,7 @@
 | [Pra Trás](https://open.spotify.com/track/7cANXE6LzQAXobgvIjMNVN) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Pra Trás](https://open.spotify.com/album/4RTToZRDYATXkCt0URRxJQ) | 3:11 | 2023-02-13 | 2023-03-06 |
 | [pra você saber como eu to:](https://open.spotify.com/track/5md4g4CpeW8q5h1nMh3Ayr) | [Lucas Andrade](https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm) | [pra você saber como eu to:](https://open.spotify.com/album/047G31tkIprK9Ds9DZon9e) | 4:24 | 2025-01-24 |  |
 | [PRAZER](https://open.spotify.com/track/4yn9IyH77LOTESnOIq43WU) | [Viratempo](https://open.spotify.com/artist/4UAqPe3DNOIDTa8bEGWPwL) | [PRAZER](https://open.spotify.com/album/6F1skja7UE5VvAC1DQQgll) | 3:48 | 2022-06-03 | 2022-06-25 |
+| [Presente](https://open.spotify.com/track/12fmgHPWF4ljzjxdqjusuY) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [Presente](https://open.spotify.com/album/6ZRkE4Q2fphdQ1pizokpp7) | 3:58 | 2026-01-23 |  |
 | [Primeira Pessoa](https://open.spotify.com/track/0a3M6e6nChwzrex3W6H4EU) | [Titcho Looper](https://open.spotify.com/artist/37pi9jWX60WC51BeByvvcJ), [Rodrigo Samsara](https://open.spotify.com/artist/16mPOeAPUyjIP11rtquMRC) | [Primeira Pessoa](https://open.spotify.com/album/3oAyKdq4UMS094SH61ky5V) | 3:36 | 2022-01-14 | 2022-03-18 |
 | [Primeiro Milhão](https://open.spotify.com/track/3V8QF1FBJhsiLudn6VP42c) | [Edgar](https://open.spotify.com/artist/0ZeTpaHiNCZFAuQ7v1fZ7Z), [Dang](https://open.spotify.com/artist/3RU4WZSYOfui6HPisseoh2) | [Primeiro Milhão](https://open.spotify.com/album/3arGuFXYKfRDskxBQkU2zt) | 2:16 | 2024-07-05 | 2024-07-13 |
 | [Projeto Psiquiatria](https://open.spotify.com/track/2Z5oPMEQgBdfj1tLS8HIp5) | [Do Amor](https://open.spotify.com/artist/2dQAz3jNlenyLHfeknfNsn) | [Projeto Psiquiatria](https://open.spotify.com/album/5r4sReyehHwEXuTM5wJQJ5) | 2:36 | 2022-04-29 | 2022-05-07 |
@@ -638,6 +641,7 @@
 | [Ruka](https://open.spotify.com/track/5PVAuU1agtdRhqLGVJl72r) | [Nelson D](https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof) | [Ruka](https://open.spotify.com/album/2BgGbb83c0HYQccSVnKBcH) | 2:59 | 2022-01-14 | 2022-01-29 |
 | [RUÍNA](https://open.spotify.com/track/1HQNigUfZPpkc5XTfy9xps) | [VELINO](https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3) | [RUÍNA](https://open.spotify.com/album/6h1CeOmOokGP4rUf9nmwtQ) | 2:51 | 2023-09-22 | 2024-05-11 |
 | [Rádio\-Relógio](https://open.spotify.com/track/6hrq44XyDxvIkhemm70sbd) | [meot](https://open.spotify.com/artist/20xtrfwLue7Sslipsez0NI), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Rádio\-Relógio](https://open.spotify.com/album/1Y2Nb9q1h3WK2NjSdVGX6u) | 2:40 | 2022-01-14 | 2022-03-26 |
+| [Sabo](https://open.spotify.com/track/0ABwGonw1WbL4BouDlRgeO) | [Hurtmold](https://open.spotify.com/artist/65RycP7iE8vX8tbzKy3top), [Sessões Selo Sesc](https://open.spotify.com/artist/5UAhmzty3dTzxnMzn1aWuU) | [Sabo](https://open.spotify.com/album/2bW3OKawZMlsEwunwtWjAk) | 8:05 | 2026-01-23 |  |
 | [Sagu](https://open.spotify.com/track/4J3PK1i4wmKn1Uqq1PqAq4) | [Troá!](https://open.spotify.com/artist/1hsd0kkU0puYY7bmjJjn7b), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Deboche](https://open.spotify.com/album/2zdg9ovVR6T7e8txGkPugS) | 4:06 | 2023-06-16 | 2023-10-14 |
 | [Saldo](https://open.spotify.com/track/1ysTMVqi4QhWEJxoHrpk6F) | [Wagner Almeida](https://open.spotify.com/artist/7inngR9eagkp6KQVxZdFYR) | [Saldo](https://open.spotify.com/album/6ogDrOyT1nePaKxgdUDB2i) | 3:50 | 2023-09-15 | 2024-03-09 |
 | [Salvador](https://open.spotify.com/track/40620QtxFau2xe1C7cgMaO) | [Cidade Dormitório](https://open.spotify.com/artist/3hnNIsiWatVyHen6mz79sf), [Tangolo Mangos](https://open.spotify.com/artist/5i8xf9hZ3c5aXFO5WdrO6o) | [Salvador](https://open.spotify.com/album/5CWkjnsK6xhjsv6ZQ8OlSC) | 6:28 | 2022-07-15 | 2023-06-10 |

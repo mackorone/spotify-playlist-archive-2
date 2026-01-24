@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Robe.",
-  "num_followers": 612153,
+  "num_followers": 612179,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -180,8 +180,8 @@
           "url": "https://open.spotify.com/artist/2Ic6ydo8wxtfwn6XSMyGFE"
         },
         {
-          "name": "La Fuga",
-          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
+          "name": "Xavi Moera (La Fuga)",
+          "url": "https://open.spotify.com/artist/1XzyTl62rYC0v2Mm4jvDwq"
         }
       ],
       "duration_ms": 231025,
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-01-22 23:01:35",
       "album": {
-        "name": "Si Te Pones de Mi Parte",
-        "url": "https://open.spotify.com/album/5smmFvmTXUTeAPWeU7c9fX"
-      },
-      "artists": [
-        {
-          "name": "Silo\u00e9",
-          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
-        }
-      ],
-      "duration_ms": 319218,
-      "name": "Si Te Pones de Mi Parte",
-      "url": "https://open.spotify.com/track/5t7Z12krZNLDLWWLhRGJCZ"
-    },
-    {
-      "added_at": "2026-01-22 23:01:35",
-      "album": {
         "name": "El Mar No Cesa- Edici\u00f3n Especial",
         "url": "https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 241280,
       "name": "Mar adentro",
       "url": "https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH"
+    },
+    {
+      "added_at": "2026-01-22 23:01:35",
+      "album": {
+        "name": "Si Te Pones de Mi Parte",
+        "url": "https://open.spotify.com/album/5smmFvmTXUTeAPWeU7c9fX"
+      },
+      "artists": [
+        {
+          "name": "Silo\u00e9",
+          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
+        }
+      ],
+      "duration_ms": 319218,
+      "name": "Si Te Pones de Mi Parte",
+      "url": "https://open.spotify.com/track/5t7Z12krZNLDLWWLhRGJCZ"
     },
     {
       "added_at": "2026-01-22 23:01:35",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-01-22 23:01:35",
       "album": {
-        "name": "Un Brindis al Sol",
-        "url": "https://open.spotify.com/album/26QYbeCgkfuz4FWnY75C6j"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 251408,
-      "name": "Un Brindis al Sol",
-      "url": "https://open.spotify.com/track/6rHxTLofABDjMt4qFg8TaF"
-    },
-    {
-      "added_at": "2026-01-22 23:01:35",
-      "album": {
         "name": "Ba\u00efonarena (Live)",
         "url": "https://open.spotify.com/album/7i5eD0VAL2fdeUNO1IQBDj"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 288146,
       "name": "Me Quedo Contigo (Si Me Das A Elegir) - Live Ba\u00efonarena",
       "url": "https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5"
+    },
+    {
+      "added_at": "2026-01-22 23:01:35",
+      "album": {
+        "name": "Un Brindis al Sol",
+        "url": "https://open.spotify.com/album/26QYbeCgkfuz4FWnY75C6j"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 251408,
+      "name": "Un Brindis al Sol",
+      "url": "https://open.spotify.com/track/6rHxTLofABDjMt4qFg8TaF"
     },
     {
       "added_at": "2026-01-22 23:01:35",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-01-22 23:01:35",
       "album": {
+        "name": "Maneras De Vivir",
+        "url": "https://open.spotify.com/album/62ej3kUjSLwWV9MnAtb20s"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f1o",
+          "url": "https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ"
+        }
+      ],
+      "duration_ms": 252933,
+      "name": "Maneras de Vivir (Single Estudio)",
+      "url": "https://open.spotify.com/track/7kCiAaismDVaCjpyGF3YJB"
+    },
+    {
+      "added_at": "2026-01-22 23:01:35",
+      "album": {
         "name": "Contracorriente (feat. Ivan Ferreiro)",
         "url": "https://open.spotify.com/album/0jzKCYWSNY39gtetDYLqmL"
       },
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2026-01-22 23:01:35",
       "album": {
-        "name": "Maneras De Vivir",
-        "url": "https://open.spotify.com/album/62ej3kUjSLwWV9MnAtb20s"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f1o",
-          "url": "https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ"
-        }
-      ],
-      "duration_ms": 252933,
-      "name": "Maneras de Vivir (Single Estudio)",
-      "url": "https://open.spotify.com/track/7kCiAaismDVaCjpyGF3YJB"
-    },
-    {
-      "added_at": "2026-01-22 23:01:35",
-      "album": {
         "name": "Veo Veo Mamoneo",
         "url": "https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI"
       },
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-01-22 23:01:35",
       "album": {
-        "name": "Marines A Pleno Sol",
-        "url": "https://open.spotify.com/album/2Gl1kSSy7uO04VggpET539"
-      },
-      "artists": [
-        {
-          "name": "LOS NIKIS",
-          "url": "https://open.spotify.com/artist/6arRVLZ3vn5AXkuvp9JxbS"
-        }
-      ],
-      "duration_ms": 192106,
-      "name": "El imperio contraataca",
-      "url": "https://open.spotify.com/track/0EzVGEyUB9HAXT1cQHwhqf"
-    },
-    {
-      "added_at": "2026-01-22 23:01:35",
-      "album": {
         "name": "Gigante",
         "url": "https://open.spotify.com/album/4GQpWhe2XtYdluFaDjqRup"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 252874,
       "name": "Gigante",
       "url": "https://open.spotify.com/track/2utHyBwLp3ONsYUkGoWoPw"
+    },
+    {
+      "added_at": "2026-01-22 23:01:35",
+      "album": {
+        "name": "Marines A Pleno Sol",
+        "url": "https://open.spotify.com/album/2Gl1kSSy7uO04VggpET539"
+      },
+      "artists": [
+        {
+          "name": "LOS NIKIS",
+          "url": "https://open.spotify.com/artist/6arRVLZ3vn5AXkuvp9JxbS"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "El imperio contraataca",
+      "url": "https://open.spotify.com/track/0EzVGEyUB9HAXT1cQHwhqf"
     },
     {
       "added_at": "2026-01-22 23:01:35",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2026-01-22 23:01:35",
       "album": {
+        "name": "Los asombros",
+        "url": "https://open.spotify.com/album/1DBP3tzKAC77y7m5ScVNPt"
+      },
+      "artists": [
+        {
+          "name": "Nacho Vegas",
+          "url": "https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn"
+        }
+      ],
+      "duration_ms": 243164,
+      "name": "Los asombros",
+      "url": "https://open.spotify.com/track/1NR3Npg2MnDT43VbB45z0s"
+    },
+    {
+      "added_at": "2026-01-22 23:01:35",
+      "album": {
         "name": "Fotos felices",
         "url": "https://open.spotify.com/album/2mmzpnbrT60ojCDdGRpl2n"
       },
@@ -1943,22 +1959,6 @@
       "duration_ms": 299977,
       "name": "Rey del Glam",
       "url": "https://open.spotify.com/track/7tWHQ6cmZ1Li3g1OdlHWz1"
-    },
-    {
-      "added_at": "2026-01-22 23:01:35",
-      "album": {
-        "name": "Los asombros",
-        "url": "https://open.spotify.com/album/1DBP3tzKAC77y7m5ScVNPt"
-      },
-      "artists": [
-        {
-          "name": "Nacho Vegas",
-          "url": "https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn"
-        }
-      ],
-      "duration_ms": 243164,
-      "name": "Los asombros",
-      "url": "https://open.spotify.com/track/1NR3Npg2MnDT43VbB45z0s"
     },
     {
       "added_at": "2026-01-22 23:01:35",
@@ -2015,18 +2015,18 @@
     {
       "added_at": "2026-01-22 23:01:35",
       "album": {
-        "name": "Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
+        "name": "Las 101 canciones - Cinco d\u00e9cadas de Pop Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/3v3s1YhnnWUkQnZMotDz5U"
       },
       "artists": [
         {
-          "name": "Pereza",
-          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
+          "name": "Seguridad Social",
+          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
         }
       ],
-      "duration_ms": 173226,
-      "name": "Pienso en Aquella Tarde",
-      "url": "https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37"
+      "duration_ms": 220626,
+      "name": "Quiero tener tu presencia",
+      "url": "https://open.spotify.com/track/4oTpt5F428jN5vlCs4o5Yr"
     }
   ],
   "unique_name": "Rock Espa\u00f1ol",

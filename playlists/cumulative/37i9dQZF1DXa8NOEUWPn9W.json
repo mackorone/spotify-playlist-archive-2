@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-03-27",
-  "description": "House music lives here. United under one roof, featuring Adam Sellouk",
+  "description": "House music lives here. United under one roof, featuring Will Clarke",
   "name": "Housewerk",
   "tracks": [
     {
@@ -528,6 +528,24 @@
       "duration_ms": 176720,
       "name": "Acrobatic",
       "url": "https://open.spotify.com/track/2ZDssPiWL5pxRB03Ll9WWy"
+    },
+    {
+      "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163384,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ"
     },
     {
       "album": {
@@ -6429,6 +6447,28 @@
     },
     {
       "album": {
+        "name": "Do It For The Girls (feat. Jalja)",
+        "url": "https://open.spotify.com/album/2N6MzDfkzG6cqacHxegu6C"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        },
+        {
+          "name": "Jalja",
+          "url": "https://open.spotify.com/artist/2KgiNo5JQEyIQdGv2Wyh4R"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159545,
+      "name": "Do It For The Girls (feat. Jalja)",
+      "url": "https://open.spotify.com/track/1n7pkIXGPGK0d6Yd1p3L6V"
+    },
+    {
+      "album": {
         "name": "Galactic Portal",
         "url": "https://open.spotify.com/album/4ikHBLy2rf3eGyqpvVsdCg"
       },
@@ -7754,7 +7794,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 139073,
       "name": "EY",
       "url": "https://open.spotify.com/track/7LanjmmIXIvVW48eMFryXM"
@@ -8175,6 +8215,32 @@
     },
     {
       "album": {
+        "name": "Feel This Way",
+        "url": "https://open.spotify.com/album/0BVGCcx3DWdTu1ComULh5k"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184085,
+      "name": "Feel This Way",
+      "url": "https://open.spotify.com/track/2libVw5xnVwelZ69K47bDz"
+    },
+    {
+      "album": {
         "name": "Feeling Alive",
         "url": "https://open.spotify.com/album/6Ct7dWb2QX1snxHC2zcJKt"
       },
@@ -8528,7 +8594,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 216500,
       "name": "Flava",
       "url": "https://open.spotify.com/track/1X6R0sENcToR83rRjBN5GS"
@@ -10200,7 +10266,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 240000,
       "name": "Going To London",
       "url": "https://open.spotify.com/track/3XwNVpJCF4d2yLtXSffnds"
@@ -11398,7 +11464,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 190866,
       "name": "Hotter",
       "url": "https://open.spotify.com/track/5e64BJMiH8fGZZCqBzy0Fg"
@@ -11570,7 +11636,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 354461,
       "name": "Hypersilent",
       "url": "https://open.spotify.com/track/76SlQsZB2uZxW7ATfr3lpl"
@@ -12822,6 +12888,28 @@
       "duration_ms": 288238,
       "name": "Insomnia 2021 - Epic Edit",
       "url": "https://open.spotify.com/track/6E1VvKBTi0FtLhE8b6GxbE"
+    },
+    {
+      "album": {
+        "name": "Into My Life (feat. Joyce Sims)",
+        "url": "https://open.spotify.com/album/4KzpmvHWP09GTVgGpnkBl7"
+      },
+      "artists": [
+        {
+          "name": "Cam Stockman",
+          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
+        },
+        {
+          "name": "Joyce Sims",
+          "url": "https://open.spotify.com/artist/4AL3YviSMI70ARkSOHlxbQ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131299,
+      "name": "Into My Life (feat. Joyce Sims)",
+      "url": "https://open.spotify.com/track/5Pcg7KpidYjuKTTJ12IvvF"
     },
     {
       "album": {
@@ -15932,7 +16020,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 192727,
       "name": "Love The Right Way",
       "url": "https://open.spotify.com/track/63SPVpO9EMtDkEFo6QfUxv"
@@ -17224,6 +17312,28 @@
       "duration_ms": 371897,
       "name": "More Love - Rampa &ME Remix",
       "url": "https://open.spotify.com/track/70ofkwt6aIb4bPQ51OQMQO"
+    },
+    {
+      "album": {
+        "name": "More To Life",
+        "url": "https://open.spotify.com/album/2OD0VlUQDHb6QklUhyJjZm"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        },
+        {
+          "name": "Carston",
+          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204374,
+      "name": "More To Life",
+      "url": "https://open.spotify.com/track/6VzJzNoNJGY2K2tqzbkkBZ"
     },
     {
       "album": {
@@ -22543,6 +22653,28 @@
     },
     {
       "album": {
+        "name": "Slight Werk (Club Mix)",
+        "url": "https://open.spotify.com/album/3USLXh5K8mET0msxPqYXpP"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178953,
+      "name": "Slight Werk - Club Mix",
+      "url": "https://open.spotify.com/track/3AenQimpj4gFY3e0CnsbD1"
+    },
+    {
+      "album": {
         "name": "Slow Down",
         "url": "https://open.spotify.com/album/3amvTG1sQqcGwCE1vOsDNg"
       },
@@ -24608,7 +24740,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 164303,
       "name": "Tell Us",
       "url": "https://open.spotify.com/track/3raC4JsHNnLjIG9U65wKAI"
@@ -27502,6 +27634,24 @@
       "duration_ms": 218040,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/2KR32tVW39lfG4tO1yOwdq"
+    },
+    {
+      "album": {
+        "name": "WHAT?!",
+        "url": "https://open.spotify.com/album/3UjpGkt987CyttBrXfKy4U"
+      },
+      "artists": [
+        {
+          "name": "Will Clarke",
+          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175443,
+      "name": "WHAT?!",
+      "url": "https://open.spotify.com/track/7s3T3e0lbzV4l7i4F7JVmp"
     },
     {
       "album": {

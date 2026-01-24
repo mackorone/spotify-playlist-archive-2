@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: UZI x Motive
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,404,918 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,405,184 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Trap House](https://open.spotify.com/track/24jJv0eMKXT4MvGKRP70QS) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [](https://open.spotify.com/album/null) | 3:06 |
+| 1 | [Trap House](https://open.spotify.com/track/24jJv0eMKXT4MvGKRP70QS) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Mortal Kombat](https://open.spotify.com/album/7wOVZ7Rjv27Gl0kuMhEAyS) | 3:06 |
 | 2 | [iki gözüm](https://open.spotify.com/track/3tHLBswa1YyC9JBiYfB815) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Waxy](https://open.spotify.com/artist/6vHGyEavhmG06FNpoUPUMi) | [iki gözüm](https://open.spotify.com/album/20pfIuohaWWMibs9mTG4Cm) | 2:41 |
 | 3 | [Şeytanınla Yüzleşmek](https://open.spotify.com/track/6MWkjx5H3mVBo6RnJsHRgW) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [Laçin](https://open.spotify.com/artist/5eAntyjk6nCiWXJgd0CmXa) | [Şeytanınla Yüzleşmek](https://open.spotify.com/album/565Cn2W0EBF5s1nlAB0T1L) | 3:37 |
 | 4 | [NAFİLE](https://open.spotify.com/track/5uiLK7FAZIObaJEMNAHPy3) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [NAFİLE](https://open.spotify.com/album/5texxDqNzIY7tV808WEabT) | 1:54 |
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 6 | [Peki Madem](https://open.spotify.com/track/0TOmxgOgevb6S44qHhTjHC) | [Ramiz](https://open.spotify.com/artist/4CnBqHEyoxCZKYx6iSJmNn), [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD) | [Peki Madem](https://open.spotify.com/album/6OA1WieiwqVjU1feh6VKIC) | 3:15 |
 | 7 | [SUSMAM LAZIM](https://open.spotify.com/track/2FyFDzqlViMWKTQpx6K3K7) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [SUSMAM LAZIM](https://open.spotify.com/album/42pq8zREM78D9Ugl6iRLOW) | 2:15 |
 | 8 | [Bana Sor](https://open.spotify.com/track/6Xfr7jIuH9ITBlfCEBCLYp) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti) | [Bana Sor](https://open.spotify.com/album/6JIR1x7plodkrgW87LZPzJ) | 3:12 |
-| 9 | [Rodman Dennis](https://open.spotify.com/track/0OWGvNtLbF24rWytqMJzdn) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [JEYJEY](https://open.spotify.com/artist/5xJyOj6mbF15SyNr4Qht9v), [Glam](https://open.spotify.com/artist/3NbWQpBYx4C90NgT4w5frg) | [](https://open.spotify.com/album/null) | 2:53 |
+| 9 | [Rodman Dennis](https://open.spotify.com/track/0OWGvNtLbF24rWytqMJzdn) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [JEYJEY](https://open.spotify.com/artist/5xJyOj6mbF15SyNr4Qht9v), [Glam](https://open.spotify.com/artist/3NbWQpBYx4C90NgT4w5frg) | [Mortal Kombat](https://open.spotify.com/album/7wOVZ7Rjv27Gl0kuMhEAyS) | 2:53 |
 | 10 | [Nefes Alamıyorum](https://open.spotify.com/track/4OGJkWzCoTWVFgeuQrCuJi) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y) | [Nefes Alamıyorum](https://open.spotify.com/album/0FqCE4qUbHpd1xMggD1wYL) | 2:34 |
-| 11 | [Klasik](https://open.spotify.com/track/2AEefZVtLrqe8IVCchEB6x) | [Çağrı Sinci](https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg) | [](https://open.spotify.com/album/null) | 3:25 |
+| 11 | [Klasik](https://open.spotify.com/track/2AEefZVtLrqe8IVCchEB6x) | [Çağrı Sinci](https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg) | [Klasik Part 1 : Dört Mevsim](https://open.spotify.com/album/7GDjLeyH5KwM6u8wgRMpzK) | 3:25 |
 | 12 | [Ne Desem Az](https://open.spotify.com/track/1GvmRE2aeujePJW1EoiX7O) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Ne Desem Az](https://open.spotify.com/album/7JZScxg3ylD2Hl3UMbVd5m) | 2:38 |
 | 13 | [Maraton](https://open.spotify.com/track/4jK6oMDJ54J8P5y5J86Ioh) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Maraton](https://open.spotify.com/album/4N2Xljd6DWSjCoSpXj2nLE) | 3:33 |
 | 14 | [OST](https://open.spotify.com/track/4IDC1c78V4dpNn4y9CxrvD) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [OST](https://open.spotify.com/album/7eqcwjZpJakjR0clvZdh1M) | 2:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's country crop\. Cover: James Johnston
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,140 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,197 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 13 | [Message to You](https://open.spotify.com/track/00asEdGggYrPYfLbDRI6HE) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Message to You](https://open.spotify.com/album/7ki0RbD7gen6uL67N6Baqo) | 3:37 |
 | 14 | [Cherry Rose](https://open.spotify.com/track/5VRjDEwfUu07wC5iTpdbG8) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Cherry Rose](https://open.spotify.com/album/1Tf3drcnCApPov4zMkoQgj) | 3:54 |
 | 15 | [Proving Me Right](https://open.spotify.com/track/5cMXjUFvxrppQsmeXoJ2tt) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Proving Me Right](https://open.spotify.com/album/4Sy5ZQvGVhxbVZDUPY4UC2) | 2:54 |
-| 16 | [Exclusive](https://open.spotify.com/track/1XbqVDFdW6hj6JcBpZSDRs) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [](https://open.spotify.com/album/null) | 3:20 |
+| 16 | [Exclusive](https://open.spotify.com/track/1XbqVDFdW6hj6JcBpZSDRs) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Exclusive](https://open.spotify.com/album/5oZYFsqM43tL6ZCrkpbvux) | 3:20 |
 | 17 | [Graveyard Whistling](https://open.spotify.com/track/7kLC499Jj7W8kZUfvZsq5S) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Graveyard Whistling](https://open.spotify.com/album/7b3A1mZPmO9P7zHWAgr1U3) | 4:04 |
 | 18 | [Never Comin' Back](https://open.spotify.com/track/1wQaPoRJ0Ip6MtNxTlA3SY) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Never Comin' Back](https://open.spotify.com/album/3gPZkCBz8sGb9OQhgSrh36) | 3:57 |
 | 19 | [Never Coming Back](https://open.spotify.com/track/0ePe4v4mEQFlHDeDENrmZh) | [Rachael Fahim](https://open.spotify.com/artist/0l7PmxcaTok6bxl67BX6XT) | [Never Coming Back](https://open.spotify.com/album/1XPOQqkgLNFnoQOMyRrP6q) | 2:51 |

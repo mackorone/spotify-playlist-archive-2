@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-15",
-  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Delinquent Habits & Sick Jacken en portada. ",
+  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! La Loquera + Sandro Malandro en portada. ",
   "name": "Rimas Frescas ",
   "tracks": [
     {
@@ -4722,7 +4722,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 150991,
       "name": "Codigoz",
       "url": "https://open.spotify.com/track/077Z91vFjwHGuG0X8KrIPX"
@@ -5848,7 +5848,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 160000,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/0SAYO3VYWVqIYFa8YoUaJL"
@@ -6500,7 +6500,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 176272,
       "name": "Despu\u00e9s de las 12",
       "url": "https://open.spotify.com/track/4WFuzMsU95EgJtrpbzU27h"
@@ -6526,6 +6526,28 @@
       "duration_ms": 184750,
       "name": "Dgnerada",
       "url": "https://open.spotify.com/track/5ztPP631wGmVqYkUVz1dVm"
+    },
+    {
+      "album": {
+        "name": "Diabla (Lqra Session #20)",
+        "url": "https://open.spotify.com/album/59NSZWo2RxjMBLtvbefhwl"
+      },
+      "artists": [
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169017,
+      "name": "Diabla (Lqra Session #20)",
+      "url": "https://open.spotify.com/track/2eLHiLyBHh6PMPDpT3s98e"
     },
     {
       "album": {
@@ -7262,6 +7284,28 @@
       "duration_ms": 165168,
       "name": "El Canton Norte",
       "url": "https://open.spotify.com/track/5I1i5jcNTDAyndNwyPo2wu"
+    },
+    {
+      "album": {
+        "name": "El Don",
+        "url": "https://open.spotify.com/album/6lvmmX6Wd2hZMp31DfBD4U"
+      },
+      "artists": [
+        {
+          "name": "Chacka",
+          "url": "https://open.spotify.com/artist/6vK7ZwzKqGC2GGxlPAQiSY"
+        },
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154504,
+      "name": "El Don",
+      "url": "https://open.spotify.com/track/2tTa4fictVCH9Jm8vV0NRR"
     },
     {
       "album": {
@@ -9280,7 +9324,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 213909,
       "name": "FUNERAL",
       "url": "https://open.spotify.com/track/6nNMgQbAZr1bUqLUoUMQt1"
@@ -10189,6 +10233,24 @@
     },
     {
       "album": {
+        "name": "Home Made Mix Vol.9",
+        "url": "https://open.spotify.com/album/6Kl28HNn8JgqENJ4DDPugm"
+      },
+      "artists": [
+        {
+          "name": "Mike Lamadrid",
+          "url": "https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126190,
+      "name": "Home Made Mix Vol.9",
+      "url": "https://open.spotify.com/track/0ydkt3zLZyM2sRKzR0RAVD"
+    },
+    {
+      "album": {
         "name": "Home Run",
         "url": "https://open.spotify.com/album/4gn05yaiJbKqPVtkInIDqi"
       },
@@ -10402,6 +10464,32 @@
       "duration_ms": 224490,
       "name": "IBM (International Business Man)",
       "url": "https://open.spotify.com/track/0FDhzIdcrEAganWaDOG0tA"
+    },
+    {
+      "album": {
+        "name": "ICE",
+        "url": "https://open.spotify.com/album/1C2uyASCMHSazQkJyLleTd"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Lck Bardi",
+          "url": "https://open.spotify.com/artist/29LK3hqrdu5hDjPSK9D8NW"
+        },
+        {
+          "name": "Nk Profeta",
+          "url": "https://open.spotify.com/artist/1vLPW52pGIXKKkcmKivXo5"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193237,
+      "name": "ICE",
+      "url": "https://open.spotify.com/track/2UZLWRXS8MlzvUxVsQbGjC"
     },
     {
       "album": {
@@ -10632,7 +10720,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 194325,
       "name": "Instante",
       "url": "https://open.spotify.com/track/6DLgDBSKFVHDfuYImcGGnd"
@@ -12070,7 +12158,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 172500,
       "name": "La Paz",
       "url": "https://open.spotify.com/track/7H17GmZdbHIMolga9CEfBG"
@@ -12622,6 +12710,28 @@
       "duration_ms": 241656,
       "name": "Le Pido a la Noche",
       "url": "https://open.spotify.com/track/1qb2uXjDs1Oms1RLJkJP4q"
+    },
+    {
+      "album": {
+        "name": "Lecci\u00f3n",
+        "url": "https://open.spotify.com/album/06O5deNJZatrPVRfx8EaXN"
+      },
+      "artists": [
+        {
+          "name": "Achepe",
+          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
+        },
+        {
+          "name": "El Kalvo",
+          "url": "https://open.spotify.com/artist/3GOtzu1fzxIS0zYI94K21v"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175927,
+      "name": "Lecci\u00f3n",
+      "url": "https://open.spotify.com/track/0B1MjFyMyQnQWtiWXnEls3"
     },
     {
       "album": {
@@ -18017,6 +18127,36 @@
     },
     {
       "album": {
+        "name": "PATRULLANDO",
+        "url": "https://open.spotify.com/album/2jvInFAsVBwneGKRQ8Wjzu"
+      },
+      "artists": [
+        {
+          "name": "Luno",
+          "url": "https://open.spotify.com/artist/6V36JyoMUbA6lNLNMjA3Bz"
+        },
+        {
+          "name": "Alex Torres",
+          "url": "https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2"
+        },
+        {
+          "name": "El Primo",
+          "url": "https://open.spotify.com/artist/0NL0BLJ1i5n6askNoLoOb8"
+        },
+        {
+          "name": "LOBO66",
+          "url": "https://open.spotify.com/artist/3Zaq4wjYJCghs8zn0CXYeo"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "PATRULLANDO",
+      "url": "https://open.spotify.com/track/3Nm8TAAsLs8GQCQQ1E8AI3"
+    },
+    {
+      "album": {
         "name": "Patrullando",
         "url": "https://open.spotify.com/album/5EqL0JJmFbL3dY1JsVbWlH"
       },
@@ -18426,7 +18566,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 173257,
       "name": "PODER",
       "url": "https://open.spotify.com/track/4AeWD3zh3JlSez7p9ZsnDp"
@@ -24435,6 +24575,28 @@
     },
     {
       "album": {
+        "name": "VINOS Y VINILOS",
+        "url": "https://open.spotify.com/album/4RnSUfSekNV7gWqGHLeokD"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        },
+        {
+          "name": "Dj Dacel",
+          "url": "https://open.spotify.com/artist/5Nj8sBYPlnStp5EkE2f0Lf"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211815,
+      "name": "VINOS Y VINILOS",
+      "url": "https://open.spotify.com/track/3mFOwuiklPhZrINaQiiZAk"
+    },
+    {
+      "album": {
         "name": "Violenta Se Pone el Hambre",
         "url": "https://open.spotify.com/album/6HSX7YwZwVhPJF9v6eLmxh"
       },
@@ -24893,6 +25055,24 @@
     },
     {
       "album": {
+        "name": "Ya no est\u00e1s",
+        "url": "https://open.spotify.com/album/69KictUlgQGyu9OQ7J438h"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "Ya no est\u00e1s",
+      "url": "https://open.spotify.com/track/5nPUP7GjkfASfMP6PUu1dC"
+    },
+    {
+      "album": {
         "name": "Ya Te Solt\u00e9",
         "url": "https://open.spotify.com/album/6pmMIRI9bFpkCWmjLhnM6g"
       },
@@ -25334,7 +25514,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 349500,
       "name": "\u00c9ramos Ni\u00f1os",
       "url": "https://open.spotify.com/track/09LI8gnkdfzi8TyGzFJv9m"

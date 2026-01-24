@@ -1,12 +1,12 @@
 {
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Boza",
-  "num_followers": 132123,
+  "num_followers": 132126,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABsgDjCnOzhkdsg2TzACcavC1i4K",
+  "snapshot_id": "AAAAAFVkcVtmVQqHeTJYpTXvyNmkgpp2",
   "tracks": [
     {
       "added_at": "2025-09-26 14:39:39",
@@ -71,38 +71,6 @@
       "duration_ms": 220000,
       "name": "Psic\u00f3logo",
       "url": "https://open.spotify.com/track/63GtSPbCOhcpt3kUqx3DnT"
-    },
-    {
-      "added_at": "2026-01-16 05:00:31",
-      "album": {
-        "name": "TOCAME",
-        "url": "https://open.spotify.com/album/4AVBAHWN2oAn7tCSFmqlLj"
-      },
-      "artists": [
-        {
-          "name": "Mole",
-          "url": "https://open.spotify.com/artist/63IHQNSZV6VYMqeRZjMAxq"
-        },
-        {
-          "name": "Mr. Fox",
-          "url": "https://open.spotify.com/artist/2ATuDQ7nhfT3Y89azqMexw"
-        },
-        {
-          "name": "Aldair Productions",
-          "url": "https://open.spotify.com/artist/6WFulj4XIc6vkUDXGaDvbN"
-        },
-        {
-          "name": "GS Kartel",
-          "url": "https://open.spotify.com/artist/4AYRktkXlsfZtGJVGeFm1B"
-        },
-        {
-          "name": "Ayka",
-          "url": "https://open.spotify.com/artist/0TiJHaLMBUaFMcp6oullHE"
-        }
-      ],
-      "duration_ms": 209946,
-      "name": "TOCAME",
-      "url": "https://open.spotify.com/track/3GixdIN1m0JuLZzbYiIA2E"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -233,28 +201,20 @@
       "url": "https://open.spotify.com/track/4UjQ7lto14ebffTerKFEET"
     },
     {
-      "added_at": "2026-01-09 05:00:35",
+      "added_at": "2026-01-23 05:00:24",
       "album": {
-        "name": "MI BITCH",
-        "url": "https://open.spotify.com/album/0Cr1rbTvWnsN0IpqsbjHue"
+        "name": "Diablita y Bonita",
+        "url": "https://open.spotify.com/album/6eQwBS5kgI42T1duGKJy51"
       },
       "artists": [
         {
-          "name": "Aldair Productions",
-          "url": "https://open.spotify.com/artist/6WFulj4XIc6vkUDXGaDvbN"
-        },
-        {
-          "name": "Fulo El Yeyo",
-          "url": "https://open.spotify.com/artist/0YUrJpMVgqTxD8UnfPRKEh"
-        },
-        {
-          "name": "El Charri",
-          "url": "https://open.spotify.com/artist/5qTqU3wq4x1DonsVsi60Iy"
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
         }
       ],
-      "duration_ms": 168855,
-      "name": "MI BITCH",
-      "url": "https://open.spotify.com/track/2j9zS7HUrpKr3WQK7LpHZC"
+      "duration_ms": 131752,
+      "name": "Diablita y Bonita",
+      "url": "https://open.spotify.com/track/2uG0H3KiP6HIUJIdFQq90b"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -477,6 +437,22 @@
       "url": "https://open.spotify.com/track/64TFVyPOGaCWHOZyTEIqJv"
     },
     {
+      "added_at": "2026-01-23 05:00:24",
+      "album": {
+        "name": "Mentality y Mamba",
+        "url": "https://open.spotify.com/album/1coDoh3kfXz6Fam1ixaIuy"
+      },
+      "artists": [
+        {
+          "name": "Jorkan",
+          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
+        }
+      ],
+      "duration_ms": 180618,
+      "name": "Mentality Mamba",
+      "url": "https://open.spotify.com/track/6R3YXYOgvlsHGOqHK5I4Xs"
+    },
+    {
       "added_at": "2024-02-15 17:30:32",
       "album": {
         "name": "Par De Quina",
@@ -555,30 +531,6 @@
       "duration_ms": 268800,
       "name": "CAF\u00c9",
       "url": "https://open.spotify.com/track/61SgNsX4bToIZBbex8ktQD"
-    },
-    {
-      "added_at": "2026-01-09 05:00:35",
-      "album": {
-        "name": "Me Quieren Ver Mal",
-        "url": "https://open.spotify.com/album/6eGB4mSqBofX1oRyG8hI31"
-      },
-      "artists": [
-        {
-          "name": "Rik",
-          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
-        },
-        {
-          "name": "JS SERNA",
-          "url": "https://open.spotify.com/artist/7xtH0cO7uO2QuF1Klyvmkz"
-        },
-        {
-          "name": "El Doble K",
-          "url": "https://open.spotify.com/artist/4isHbp1LrcVnarUj7o6N6I"
-        }
-      ],
-      "duration_ms": 177618,
-      "name": "Me Quieren Ver Mal",
-      "url": "https://open.spotify.com/track/538TKsiy4mNXquQAQpWVPD"
     },
     {
       "added_at": "2025-09-19 04:00:34",
@@ -695,6 +647,38 @@
       "duration_ms": 183958,
       "name": "FAVELA",
       "url": "https://open.spotify.com/track/71LrvCBBn4q500OuayF7OK"
+    },
+    {
+      "added_at": "2026-01-23 05:00:24",
+      "album": {
+        "name": "357",
+        "url": "https://open.spotify.com/album/4VgppO1fcLVuwi6TxH8ePU"
+      },
+      "artists": [
+        {
+          "name": "333XPLICIT",
+          "url": "https://open.spotify.com/artist/3z2C7Wi3arsipWF2W6Bf7e"
+        },
+        {
+          "name": "Jabdiel",
+          "url": "https://open.spotify.com/artist/5zSy4lhTorzbAyktTLT8Zm"
+        },
+        {
+          "name": "El Derk",
+          "url": "https://open.spotify.com/artist/701KIi8HRavu6p07PBZNxZ"
+        },
+        {
+          "name": "DNVR OFICIAL",
+          "url": "https://open.spotify.com/artist/44MSNiaKMjKE857YdQ1PDY"
+        },
+        {
+          "name": "NAZETH",
+          "url": "https://open.spotify.com/artist/4ASO3fjXNJFgmwa8wchzDC"
+        }
+      ],
+      "duration_ms": 256981,
+      "name": "357",
+      "url": "https://open.spotify.com/track/6YNIdFkHknzS4fQBH0q6ZL"
     },
     {
       "added_at": "2026-01-16 05:00:31",

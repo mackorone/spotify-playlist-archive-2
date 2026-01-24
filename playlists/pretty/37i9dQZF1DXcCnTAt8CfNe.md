@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 
 > Soothe your mind with gentle instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,900 likes - 170 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,943 likes - 170 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 169 | [Milestone](https://open.spotify.com/track/1ldRlvieQrAuY52Opa97sQ) | [John Andre](https://open.spotify.com/artist/3D56Nhiz0aTRqx4z0qs9jb) | [Milestone](https://open.spotify.com/album/2PEfU9C9xXut19VlFP7ism) | 3:21 |
 | 170 | [A Slow Return](https://open.spotify.com/track/0z5FalCG7jKRzxBhGoVa8O) | [Galaxarastra](https://open.spotify.com/artist/4dLb1ptXOGo5ibde68Jy2b) | [A Slow Return](https://open.spotify.com/album/53H46OI6aUlFImnvpfOrvu) | 2:29 |
 
-Snapshot ID: `AAAAAEpFcJMHflxe312qFDXBb7HEaH9E`
+Snapshot ID: `AAAAAHdJADh6E4HYUbCW6UcJ6snUOZrc`

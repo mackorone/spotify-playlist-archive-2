@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Cora Yako.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,854 likes - 85 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,896 likes - 85 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 2 | [El día no me da con Shego](https://open.spotify.com/track/0bHYnkMSMwFOaqxKk36sC5) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24), [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Entre todas lo arreglamos \(Vol II\)](https://open.spotify.com/album/62gImLRSukdQx5i1BryAyK) | 4:17 |
 | 3 | [Tirant lo Blanc](https://open.spotify.com/track/4xv0OxmZ1p2gJLxxVDAA8m) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [Tirant lo Blanc](https://open.spotify.com/album/4BnDmTrXNNHZtGPfu3PgxQ) | 3:55 |
 | 4 | [Comebolsas Enamorados](https://open.spotify.com/track/24ohDHsP5ZZ0rtGIlkLBUk) | [LOS GALGOS](https://open.spotify.com/artist/6eRluh6i0eiujCIRRA7FEj) | [Comebolsas Enamorados](https://open.spotify.com/album/2Cyb8Eiwa2OgmZmr4AH5KV) | 2:23 |
-| 5 | [Si Todo Se Tuerce](https://open.spotify.com/track/4Z5prSEhWbfD7QOgkEisCd) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [](https://open.spotify.com/album/null) | 3:02 |
+| 5 | [Si Todo Se Tuerce](https://open.spotify.com/track/4Z5prSEhWbfD7QOgkEisCd) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Desde Cuándo Todo](https://open.spotify.com/album/3nLvBcYtzxMF120hVwZMxf) | 3:02 |
 | 6 | [X](https://open.spotify.com/track/6nGkmEKtGLp02f1ks9ofYS) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [X](https://open.spotify.com/album/3OZ6H6EHs8SZMxrD0P43Cw) | 3:31 |
 | 7 | [Mis Adidas Corren Más](https://open.spotify.com/track/7IZ35jkFDr9w912OGibbz0) | [Wet Iguanas](https://open.spotify.com/artist/5Nh9UxAQ4Pf2e68ZPZHQHC) | [Mis Adidas Corren Más](https://open.spotify.com/album/6YsxdPSL1fjUfJiobg6O2z) | 2:59 |
 | 8 | [Un beso y una flor](https://open.spotify.com/track/5W31WXmdZiFUzKcBmspJdG) | [Niños Bravos](https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U) | [Un beso y una flor](https://open.spotify.com/album/4Qu1tWIqp9wzL18E5xfiRx) | 2:50 |

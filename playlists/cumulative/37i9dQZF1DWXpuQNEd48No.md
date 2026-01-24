@@ -4,7 +4,7 @@
 
 > Best of Haryanvi Hip\-Hop! Cover: Rawme Hooda
 
-529 songs - 1 day 2 hr 47 min
+530 songs - 1 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [Jaat Brat](https://open.spotify.com/track/7mYpS6ZxxD5hVXtnorjceQ) | [Sahil Dhull](https://open.spotify.com/artist/1YhZbHSLY4DwUzlennljq8) | [Jaat Brat](https://open.spotify.com/album/3q0KhGknaKrmSTyr7PCbmf) | 3:02 | 2024-08-30 |  |
 | [Jaat Devta](https://open.spotify.com/track/5uUJaoi31e48BSyqjRb2Zk) | [The VIJU](https://open.spotify.com/artist/10ho8uAPRKlVcDDSHu1AZv) | [Jaat Devta](https://open.spotify.com/album/6tArfBUUCjjt5vQEVk4cHv) | 2:30 | 2025-03-18 | 2025-04-09 |
 | [Jaat Hai Ke?](https://open.spotify.com/track/1xbUl3I72bPCrdAxPWR51S) | [Hemant Faujdar](https://open.spotify.com/artist/4fzTq8u4SYeCbUvgs3ysI1) | [Jaat Hai Ke?](https://open.spotify.com/album/17zPN0SR4GQb2Tg6aE5RiA) | 2:49 | 2024-02-06 | 2025-01-11 |
-| [Jaat Sona](https://open.spotify.com/track/60dUCbBtOMiumzXgkft9c0) | [Sihag Muzik](https://open.spotify.com/artist/04XbdTO8fkae4s1ExLeYyC), [UK Haryanvi](https://open.spotify.com/artist/4aDDgj0qtbw78xBMMkTM4d) | [Jaat Sona](https://open.spotify.com/album/43WAUddJJMUsVsSmVzFJ6Y) | 2:33 | 2026-01-16 |  |
+| [Jaat Sona](https://open.spotify.com/track/60dUCbBtOMiumzXgkft9c0) | [Sihag Muzik](https://open.spotify.com/artist/04XbdTO8fkae4s1ExLeYyC), [UK Haryanvi](https://open.spotify.com/artist/4aDDgj0qtbw78xBMMkTM4d) | [Jaat Sona](https://open.spotify.com/album/43WAUddJJMUsVsSmVzFJ6Y) | 2:33 | 2026-01-16 | 2026-01-24 |
 | [Jaat Warrior's 2](https://open.spotify.com/track/0lP4CU1KyUr4kKdrRlJHC4) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Jaat Warrior's 2](https://open.spotify.com/album/31bWRAyu7Gv5sBgE6c5cwY) | 3:13 | 2023-12-14 | 2024-02-21 |
 | [Jaat Warrior's 2](https://open.spotify.com/track/5BkaKLfWqHkeOVpnnis9aL) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Jaat Warrior's 2](https://open.spotify.com/album/77vZGIjLDfVzmCcEVIThXx) | 3:13 | 2024-02-23 | 2024-04-19 |
 | [Jaat Warriors](https://open.spotify.com/track/1E5SpFdgagizib8E8P2JZe) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Jaat Warriors](https://open.spotify.com/album/1Hw6Cz0PhxKttlmuVeggNm) | 2:43 | 2024-01-13 | 2024-02-11 |
@@ -433,6 +433,7 @@
 | [RAWSCRIPT](https://open.spotify.com/track/54We6PCeSO2nRakYyrkrpo) | [Prince Jamba](https://open.spotify.com/artist/6RDhaAavmBlrZKUqJ8YvJy), [Brown Beats](https://open.spotify.com/artist/5oWrsQDyCV8GKaWikhwPfk) | [RAWSCRIPT](https://open.spotify.com/album/2KmacdA9lL3A77zmQZgqZU) | 2:16 | 2025-09-23 | 2025-10-08 |
 | [Reality CHECK](https://open.spotify.com/track/0PYifNH5nUggC5tjQrd8Q7) | [Sunny Boi Singh](https://open.spotify.com/artist/6NtfxVEjZtsMvpz9WPe0WC) | [Reality CHECK](https://open.spotify.com/album/5hL9XkpHnK4RK5tdGlMM0A) | 2:56 | 2025-02-15 | 2025-08-13 |
 | [Red Face](https://open.spotify.com/track/2vcOf6FPBKpc9RFnVLPd4j) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [Red Face](https://open.spotify.com/album/2brsGQtXM1iNEBSwNUaZcf) | 3:19 | 2023-12-14 | 2024-09-07 |
+| [Regret](https://open.spotify.com/track/3P3tIn3rfJTzAJbvfWO6uQ) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Legacy](https://open.spotify.com/artist/7DngHhdutSXfKWLa34MngI) | [Regret](https://open.spotify.com/album/67J4oQTIacGxqKk1C5Z3R6) | 2:09 | 2026-01-23 |  |
 | [Rolex](https://open.spotify.com/track/4Ox61ir1wrVz4RWunkCkgL) | [Amar Kharkiya](https://open.spotify.com/artist/2D0eJe0om5jkhQOR7jASIg), [Jaypee](https://open.spotify.com/artist/1zHyfn1TTwcc2sebIchkMk) | [Rolex](https://open.spotify.com/album/7qJ2MwBYs1zEa0UWX9l5bE) | 2:20 | 2023-04-03 | 2023-04-29 |
 | [Rubicon](https://open.spotify.com/track/6EnDE5S4iX8HsURZtAOh6J) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Rubicon](https://open.spotify.com/album/0ehKmlR1wM75ConoUCIDsD) | 2:54 | 2024-08-19 | 2025-01-25 |
 | [Ruffian](https://open.spotify.com/track/3w2UMPNhlpyHjf4g4YxhmX) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Ruffian](https://open.spotify.com/album/3Lx35DFWiKiT8o4jvgTAMP) | 2:50 | 2023-03-28 | 2023-09-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,015 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,101 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,10 +89,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 79 | [Verdugo](https://open.spotify.com/track/1zmPtZKrIxWRsdfk2yhH0k) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Verdugo](https://open.spotify.com/album/3kXUPuwSmjQiyCgPIDeZW1) | 2:56 |
 | 80 | [Mi Mejor Inspiración](https://open.spotify.com/track/5RlwAz1LZDNqTF8OLEXAPO) | [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Alma Corazón Y Vida](https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE) | 5:07 |
 | 81 | [Anochece / Manifiesto](https://open.spotify.com/track/1EnpICfLSoEqih0r6wkUEx) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Un Día En Suburbia](https://open.spotify.com/album/0aJ4ulwOTjZIMgcx5zVBd7) | 13:10 |
-| 82 | [No Tengo Nada](https://open.spotify.com/track/2eiebMTYM93kUajQdIMZOS) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [No Tengo Nada](https://open.spotify.com/album/7FtIIzaOyejGnp3DIpSo90) | 3:37 |
-| 83 | [Dale Gas](https://open.spotify.com/track/2f71lbjmfueEmrxPTHk11Z) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Dale Gas](https://open.spotify.com/album/3IzttvD3sVv5xZOQWuxpl7) | 3:32 |
-| 84 | [Mala Suerta con el 13 \(feat\. La Mala Rodríguez\)](https://open.spotify.com/track/6TB7BAFTmpkFNPpmhvqIxC) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Residente o Visitante](https://open.spotify.com/album/1Tng1uGqDjFgs6n4Ud25fH) | 4:30 |
-| 85 | [De Longe\. \- Acústico](https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [De Longe\. \(Acústico\)](https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk) | 3:26 |
+| 82 | [De Longe\. \- Acústico](https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [De Longe\. \(Acústico\)](https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk) | 3:26 |
+| 83 | [No Tengo Nada](https://open.spotify.com/track/2eiebMTYM93kUajQdIMZOS) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [No Tengo Nada](https://open.spotify.com/album/7FtIIzaOyejGnp3DIpSo90) | 3:37 |
+| 84 | [Dale Gas](https://open.spotify.com/track/2f71lbjmfueEmrxPTHk11Z) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Dale Gas](https://open.spotify.com/album/3IzttvD3sVv5xZOQWuxpl7) | 3:32 |
+| 85 | [Mala Suerta con el 13 \(feat\. La Mala Rodríguez\)](https://open.spotify.com/track/6TB7BAFTmpkFNPpmhvqIxC) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Residente o Visitante](https://open.spotify.com/album/1Tng1uGqDjFgs6n4Ud25fH) | 4:30 |
 | 86 | [Pasame la Yesca](https://open.spotify.com/track/36ZITjKAlyKUE6EnvXsL8W) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Lo Necesario](https://open.spotify.com/album/2mIPkXzjjJvU8aYLqMfReY) | 3:13 |
 | 87 | [Suelo soñar](https://open.spotify.com/track/3bUZA8syssxjVdvJDExkRi) | [Zenit](https://open.spotify.com/artist/7lN4AnSBcgqEyqVs5reCy2) | [Producto Infinito Version 0.4](https://open.spotify.com/album/0MoNYk7bMv3Vwt8VFyssME) | 4:58 |
 | 88 | [Los Zurdos Mueren Antes](https://open.spotify.com/track/5s16f3iVV9qJUykWsfOXiV) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Almanauta](https://open.spotify.com/album/78bbjiERGysWG8XhqEAnbV) | 7:36 |

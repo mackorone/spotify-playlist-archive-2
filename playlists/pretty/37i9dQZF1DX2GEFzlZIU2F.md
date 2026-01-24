@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GEFzlZIU2F.md) - [plain]
 
 > ahhhhhhhhh
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,367 likes - 55 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,363 likes - 55 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GEFzlZIU2F.md) - [plain]
 | 22 | [Experiment On Me](https://open.spotify.com/track/2xVuumAfdJpWCqqYZbTI1Q) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Birds of Prey: The Album](https://open.spotify.com/album/3wITH77YIxYdtVv1W4W1SI) | 3:34 |
 | 23 | [UCKERS](https://open.spotify.com/track/1tZAEXxVr3W1XHPQZslOEI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [UCKERS](https://open.spotify.com/album/3WG0rNIPHZAaFyVm77bKaM) | 1:55 |
 | 24 | [Play The Greatest Hits](https://open.spotify.com/track/3XtIE26T5Ea7o10ggT1F6x) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend \(Tour Deluxe\)](https://open.spotify.com/album/0j75DAUcUgkSLZoeNiAAY1) | 2:27 |
-| 25 | [Parasite](https://open.spotify.com/track/6flXyAriVIl6IcMtkgvb7G) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Parasite](https://open.spotify.com/album/41oKTRBkRzF4qXFR7IFGrl) | 1:56 |
+| 25 | [Parasite](https://open.spotify.com/track/6flXyAriVIl6IcMtkgvb7G) | [SIIICKBRAIN](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Parasite](https://open.spotify.com/album/41oKTRBkRzF4qXFR7IFGrl) | 1:56 |
 | 26 | [EAT](https://open.spotify.com/track/4Qy7Rg1XSO4MLzGnQfmkkJ) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [EAT \(NXT Soundtrack\)](https://open.spotify.com/album/64qHcKFcreaFc70UtMFUMM) | 3:01 |
 | 27 | [Plump](https://open.spotify.com/track/2nbTJN4paC2VOCEGX1kh1x) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Live Through This](https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7) | 2:34 |
 | 28 | [Major System Error](https://open.spotify.com/track/7DHaf24CxsjF8mbXmoJv7G) | [Marmozets](https://open.spotify.com/artist/3KEhhixoMshqSEJ71rS7w1) | [Knowing What You Know Now](https://open.spotify.com/album/6ugcC7DaLDApGMJbGQtg5w) | 3:25 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GEFzlZIU2F.md) - [plain]
 | 36 | [SCREAM](https://open.spotify.com/track/0i7AGJG9DX0vI1w798IVKZ) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [潘PAN](https://open.spotify.com/artist/3gRbjzXPan9DOBEMmTjxVo) | [Art Angels](https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3) | 2:20 |
 | 37 | [Dear Goth](https://open.spotify.com/track/1pSQLQAj7xy6CybmqUnHax) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Dear Goth](https://open.spotify.com/album/7mWd8LS3zZWlFMPvuMNpIb) | 3:29 |
 | 38 | [Cherry Bomb](https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:18 |
-| 39 | [So Scary](https://open.spotify.com/track/2q1NAXxlaw2oA34zlXxrWw) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [So Scary](https://open.spotify.com/album/2RmgbR2IasZGQ8Sn5fRNKz) | 3:27 |
-| 40 | [GASLIGHT!](https://open.spotify.com/track/4sqsaID1vck0Sxis6EPzci) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [GASLIGHT!](https://open.spotify.com/album/4HA7sK0N3OHC2GzTvfa9RL) | 2:28 |
+| 39 | [So Scary](https://open.spotify.com/track/2q1NAXxlaw2oA34zlXxrWw) | [SIIICKBRAIN](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [So Scary](https://open.spotify.com/album/2RmgbR2IasZGQ8Sn5fRNKz) | 3:27 |
+| 40 | [GASLIGHT!](https://open.spotify.com/track/4sqsaID1vck0Sxis6EPzci) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [SIIICKBRAIN](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [GASLIGHT!](https://open.spotify.com/album/4HA7sK0N3OHC2GzTvfa9RL) | 2:28 |
 | 41 | [Day I Die](https://open.spotify.com/track/4Qt6fOWtoMdjQYtV5jztL2) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Songs For My Funeral](https://open.spotify.com/album/4SmLiMThmp5f4dCTOsIguj) | 2:57 |
 | 42 | [Pink Rover](https://open.spotify.com/track/5oqVAub4vyUVoxHXZSP7LR) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Rover](https://open.spotify.com/album/6S0LmXm7aFz2dfDJVN1WXq) | 1:58 |
 | 43 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 |

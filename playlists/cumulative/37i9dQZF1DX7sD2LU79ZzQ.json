@@ -13428,7 +13428,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 163013,
       "name": "Man Enough",
       "url": "https://open.spotify.com/track/2MQ31Ktcia4SEFiVmTYOiF"
@@ -14724,7 +14724,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 184175,
       "name": "Menyala",
       "url": "https://open.spotify.com/track/3B1p4CQ4hFcoRtXWRKUAqW"
@@ -18583,6 +18583,24 @@
     },
     {
       "album": {
+        "name": "Salahnya Aku",
+        "url": "https://open.spotify.com/album/34F63zVp4z2fAUkZHZoMYQ"
+      },
+      "artists": [
+        {
+          "name": "Yogie Nandes",
+          "url": "https://open.spotify.com/artist/1bymZsHKEEyWGaEuN5rB62"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Salahnya Aku",
+      "url": "https://open.spotify.com/track/1bRhQrTrurSHiFxL7SulGU"
+    },
+    {
+      "album": {
         "name": "Berbunga",
         "url": "https://open.spotify.com/album/2gIrUfBxknVo9vQRL9Gp42"
       },
@@ -21952,7 +21970,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 185459,
       "name": "SWITCH!",
       "url": "https://open.spotify.com/track/1yTbJuJcejZISS31XWBbrS"

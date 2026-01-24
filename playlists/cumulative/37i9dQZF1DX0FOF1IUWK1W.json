@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Ana Castela, Countrybeat e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "Panda, Gusttavo Lima  e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -2145,6 +2145,28 @@
     },
     {
       "album": {
+        "name": "Bebe, Beija e Trai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0E8TJBB3Y510HYS9llB48Q"
+      },
+      "artists": [
+        {
+          "name": "Mayke & Rodrigo",
+          "url": "https://open.spotify.com/artist/70l6HIf0rz8ZMQCW5qK6QI"
+        },
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156536,
+      "name": "Bebe, Beija e Trai - Ao Vivo",
+      "url": "https://open.spotify.com/track/1yJYseCZJYRHZkl1DJ3tLs"
+    },
+    {
+      "album": {
         "name": "Beijo de Glicose (Ao Vivo)",
         "url": "https://open.spotify.com/album/6Y3F7RFN8cOh7ewKiyn2rC"
       },
@@ -2511,6 +2533,32 @@
     },
     {
       "album": {
+        "name": "Calcinha de Renda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4g4nnbFn8O9eU4ddG7z4SE"
+      },
+      "artists": [
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        },
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        },
+        {
+          "name": "MJ Records",
+          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199379,
+      "name": "Calcinha de Renda - Ao Vivo",
+      "url": "https://open.spotify.com/track/2a9WkloaIu64sryr4JTdTi"
+    },
+    {
+      "album": {
         "name": "Cora\u00e7\u00e3o de Ouro",
         "url": "https://open.spotify.com/album/06JmpvXoHG2dFMvmIGRvi1"
       },
@@ -2682,7 +2730,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 154097,
       "name": "Caos De Algu\u00e9m - Ao Vivo",
       "url": "https://open.spotify.com/track/6zxthXT7GUBX83vRmQiN3x"
@@ -12442,7 +12490,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 157173,
       "name": "Saudade Burra - Ao Vivo",
       "url": "https://open.spotify.com/track/3M4HJl7D77l86gL1QXGJHG"

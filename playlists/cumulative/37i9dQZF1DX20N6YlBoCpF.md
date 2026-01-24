@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Zaan Sonnekus, Die Piesangskille, SENSASIE, Rudo Schwim  en meer!
 
-2,350 songs - 5 day 10 hr 44 min
+2,352 songs - 5 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -883,6 +883,7 @@
 | [Hou My Jonk](https://open.spotify.com/track/0OQjFKQ1B94GqPcvXTc5g6) | [Michael Blignaut](https://open.spotify.com/artist/6BLQ9kFevzysigXiyz4gVM) | [Hou My Jonk](https://open.spotify.com/album/7qUTSPudSuIZWoXmrprI1n) | 3:07 | 2023-11-30 | 2023-12-15 |
 | [Hou My Vas](https://open.spotify.com/track/2VJnU2XlS3UDTjD3abBLuM) | [moya & iona](https://open.spotify.com/artist/4bRAmuTOk13gZtO96lagPI) | [Hou My Vas](https://open.spotify.com/album/6wGtsktb7LfAUSLTdNTQ20) | 3:39 | 2024-02-08 | 2024-02-23 |
 | [Hou My Vas](https://open.spotify.com/track/1ejxcMyaXuWNgdBSHijZug) | [Natasha van der Merwe](https://open.spotify.com/artist/3x64RnzAoEkLz7sMQIFMvy) | [Hou My Vas](https://open.spotify.com/album/3W8GSwtBVVnpQgG8R6LqVu) | 3:34 | 2023-02-09 | 2023-02-24 |
+| [Hou My Vas](https://open.spotify.com/track/2EZSMFynaAIPs4NKtre3oQ) | [Pieter Pruis](https://open.spotify.com/artist/4QCYH75el0MiapfairqJEc) | [Hou My Vas](https://open.spotify.com/album/34GtanXD70TGgn24Z47AUz) | 3:08 | 2026-01-23 |  |
 | [Hou My Vas, Stywer Vas \- Remix](https://open.spotify.com/track/2lEfnRceO7c7QPVQ7MPjYA) | [Pretorius](https://open.spotify.com/artist/6OlAKyXaSPw7M5ivaVpC5G), [David Fourie](https://open.spotify.com/artist/3372wrCwHX44K1vjwiZHoA) | [Hou My Vas, Stywer Vas \(Remix\)](https://open.spotify.com/album/3kE8XOCcd4TpprWgu2Vmq9) | 3:52 | 2024-06-06 | 2024-09-28 |
 | [Hou Net Vas](https://open.spotify.com/track/5dc4tPt623wzxVNwF4cG9F) | [Tertius rooi](https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl) | [Hou Net Vas](https://open.spotify.com/album/64ZvDO3t2pD8ntzTyBRpgj) | 4:20 | 2023-06-29 | 2023-07-14 |
 | [Hou Van Jou](https://open.spotify.com/track/0gLKrjKaUZ8p48uGRoPmvD) | [Lucia](https://open.spotify.com/artist/3E7teiyvOlz9haxrHmIB2D) | [Paaie Van My Hart](https://open.spotify.com/album/1DuTCrtQqidnUFCbK5agCo) | 2:38 | 2025-08-14 | 2025-08-29 |
@@ -2033,7 +2034,7 @@
 | [Terug Na Jou](https://open.spotify.com/track/2aGgMD2Ey7W3MkmAH0uPPy) | [Wynand Strydom](https://open.spotify.com/artist/513hBvcWaf7eEc1il4Q7Pj) | [Terug Na Jou](https://open.spotify.com/album/6ec2TGO2mwuqiH2ccwwIn7) | 3:21 | 2023-04-27 | 2023-06-30 |
 | [Terwyl Die Wêreld Bewe](https://open.spotify.com/track/76zcQy3nBX1rFlYMU4JutK) | [Phillip](https://open.spotify.com/artist/281XJeBYeOa7LBfZx48NmY) | [Verbeel](https://open.spotify.com/album/6XDIiLnBhSSaw0ratorSYM) | 3:52 | 2023-11-16 | 2023-12-01 |
 | [Tevrede](https://open.spotify.com/track/51sRTrwrFheB2qZn5cRtnZ) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Tevrede](https://open.spotify.com/album/2ruygRH00NvGn0NUkSH0hO) | 2:56 | 2025-05-29 | 2025-07-11 |
-| [Tevrede \- Afrikaans Wil Dans Remix](https://open.spotify.com/track/1WLu9JLLmGp8vwQwhrJUL5) | [Elster](https://open.spotify.com/artist/6tWCxWa8W5quxkPW1JQxsx), [Afrikaans Wil Dans](https://open.spotify.com/artist/0izyicZrCh95ouk1VWn59M), [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Tevrede \(Afrikaans Wil Dans Remix\)](https://open.spotify.com/album/3Z3dQbuYlmnMJF6D5GxjtC) | 3:41 | 2025-11-06 |  |
+| [Tevrede \- Afrikaans Wil Dans Remix](https://open.spotify.com/track/1WLu9JLLmGp8vwQwhrJUL5) | [Elster](https://open.spotify.com/artist/6tWCxWa8W5quxkPW1JQxsx), [Afrikaans Wil Dans](https://open.spotify.com/artist/0izyicZrCh95ouk1VWn59M), [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Tevrede \(Afrikaans Wil Dans Remix\)](https://open.spotify.com/album/3Z3dQbuYlmnMJF6D5GxjtC) | 3:41 | 2025-11-06 | 2026-01-24 |
 | [The Greatest Hunt In History](https://open.spotify.com/track/1gupcOEzr5MTb4GmqFBzm9) | [Pieter Madibuseng Odendaal](https://open.spotify.com/artist/6uTQySELZr3dmza3MmXxRT), [DJ Taxman](https://open.spotify.com/artist/3Z08h5zYdXmSeKkKC67ahB), [Odwa Bongo](https://open.spotify.com/artist/6bksuhcQtXg57vbrYszGbB) | [The Greatest Hunt In History](https://open.spotify.com/album/4TtpkPEqrZ41ktyPGINy4a) | 3:19 | 2025-03-27 | 2025-04-04 |
 | [Thriftstore](https://open.spotify.com/track/2emZx1XCX4Cls2mvTBKbF8) | [Hendriek Bleik](https://open.spotify.com/artist/4k0tcb0DEpNlQzOD8mKtCT) | [Thriftstore](https://open.spotify.com/album/3Lj40XdTq39lqLZBm2lRjI) | 2:57 | 2024-10-03 | 2024-10-11 |
 | [Tien Teen Een](https://open.spotify.com/track/7xnjQzQAFbibzKhmISKcWL) | [Zandri](https://open.spotify.com/artist/2d4saNK84qEsfaPw26tjPq) | [Tien Teen Een](https://open.spotify.com/album/1OlbKMuA03JSk1vkQZK6Sd) | 3:04 | 2023-08-31 | 2023-09-15 |
@@ -2270,6 +2271,7 @@
 | [Wat Het Jy Met My Gemaak \- Afrikaans Wil Dans Remix](https://open.spotify.com/track/53ca5ecKaK7GFtqO9xYG43) | [Jolanda Fouché](https://open.spotify.com/artist/0V7auwP4exRWU5qL6LvyzD) | [Wat Het Jy Met My Gemaak \(Afrikaans Wil Dans Remix \)](https://open.spotify.com/album/2x26bsnWaQDktxyWMEMhzr) | 3:00 | 2022-10-27 | 2022-11-25 |
 | [Wat is die Wêreld](https://open.spotify.com/track/5FOCZTUHA2BWshWoir8SIU) | [Marcel Dalmayda](https://open.spotify.com/artist/6jWwRKC7o4pvYYkl23db93) | [Wat Is Die Wêreld](https://open.spotify.com/album/2Z2UrmBNk2rClijtehT8wA) | 4:22 | 2024-04-18 | 2024-04-26 |
 | [Wat Is Sokkie](https://open.spotify.com/track/6PJEgEwee9ok9AUn8c4dna) | [Marnus](https://open.spotify.com/artist/1h9sfLegWvJvRb6k5rXSEe) | [Wat Is Sokkie](https://open.spotify.com/album/77warUBgPt31rownGa6BbJ) | 3:20 | 2024-05-30 | 2024-07-05 |
+| [Wat Jy Aan My Doen](https://open.spotify.com/track/0YYx7OQq9Z4vlrbrX49DGa) | [Christiaan Carstens](https://open.spotify.com/artist/6MJAnS9V6Jzfv5AcBodBIu) | [Wat Jy Aan My Doen](https://open.spotify.com/album/4bwuJr1EgygHwusrVKVVLi) | 3:48 | 2026-01-23 |  |
 | [Wat Jy Aan My Doen](https://open.spotify.com/track/7KJC66YFFfcq3gUCM4tDaE) | [Ziané Saayman](https://open.spotify.com/artist/1rnB2sc6wtjTh3gkYZihli) | [Wat Jy Aan My Doen](https://open.spotify.com/album/6dvmTBXBGP3hY37RSlmFYk) | 3:22 | 2025-04-17 | 2025-05-02 |
 | [Wat Kan 'n Man Dan Doen](https://open.spotify.com/track/7LkWQdDSF1h7pcikce3CSs) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Wat Kan 'n Man Dan Doen](https://open.spotify.com/album/7ouDwXKPZZ4YNf93lP4eHR) | 2:44 | 2025-04-24 | 2025-07-25 |
 | [Wat Kan Ek Doen?](https://open.spotify.com/track/6ngnt4zjb0y8CJ9LAS2Kvb) | [Gemmerman](https://open.spotify.com/artist/10ZwhAtHGfiTf3D8DOS5p8) | [Wat Kan Ek Doen?](https://open.spotify.com/album/5PrgnaK89nW6N7qAzgWSg3) | 3:17 | 2025-12-04 | 2025-12-12 |

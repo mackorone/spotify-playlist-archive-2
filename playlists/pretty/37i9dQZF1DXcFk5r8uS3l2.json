@@ -1,13 +1,29 @@
 {
-  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: KebMo & Taj Mahal",
-  "num_followers": 476751,
+  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Tedeschi Trucks Band",
+  "num_followers": 476812,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACqMgH1ir6/pN7C2gIIf3XxSdvCP",
+  "snapshot_id": "AAAAALuTPKpmdx1s27aSiCkoGG6yO4aO",
   "tracks": [
+    {
+      "added_at": "2026-01-23 05:00:27",
+      "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/4PkAkAdc8pBcJCaTXkF2X4"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 260311,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/1B32KzgCSJgkzEJfifEseb"
+    },
     {
       "added_at": "2025-10-17 04:00:56",
       "album": {
@@ -1735,22 +1751,6 @@
       "duration_ms": 215969,
       "name": "Gullah Geechee",
       "url": "https://open.spotify.com/track/47BdliCI9XP3HWl0CsR23A"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "I Am The Moon: II. Ascension",
-        "url": "https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 159427,
-      "name": "So Long Savior",
-      "url": "https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2"
     }
   ],
   "unique_name": "Blues Roots",

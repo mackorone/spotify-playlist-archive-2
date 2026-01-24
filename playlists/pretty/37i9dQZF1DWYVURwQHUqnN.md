@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Gambi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,163,598 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,163,557 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 7 | [Masterclass](https://open.spotify.com/track/4Tt8x8oI2YybS522SzJDc0) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Masterclass](https://open.spotify.com/album/4g5iHp0eensRrYH7Z95xQ8) | 2:33 |
 | 8 | [INCOGNITO](https://open.spotify.com/track/2uoKEakNdnvTGA5YOgQKZx) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [INCOGNITO](https://open.spotify.com/album/5vxY4g17h34gpaeuiMfSo5) | 2:38 |
 | 9 | [FOCUS](https://open.spotify.com/track/29rkopcjI0XyhncrHOdWm0) | [Ashvma](https://open.spotify.com/artist/46fYppQRc2dAeDAMnrVb6R) | [FOCUS](https://open.spotify.com/album/2wW4H228Gue9xprBQ5hW5Z) | 2:18 |
-| 10 | [FOLIE](https://open.spotify.com/track/0DT5OCCGLa1aOv9RusHqch) | [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [](https://open.spotify.com/album/null) | 3:03 |
+| 10 | [FOLIE](https://open.spotify.com/track/0DT5OCCGLa1aOv9RusHqch) | [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [LIMITLESS : HORIZON](https://open.spotify.com/album/1msS30ti4CoeOG9KoIGrQe) | 3:03 |
 | 11 | [Je suis love](https://open.spotify.com/track/2PrfuPBFj26EHrnN4ZIzzM) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [SALIMA CHICA](https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw) | [TP sur TP](https://open.spotify.com/album/0QVdVUGfsa967bG0cU6Xfo) | 3:42 |
 | 12 | [BLOQUÉ](https://open.spotify.com/track/4eGoCBOGEAQty5nfWRC0VD) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [BLOQUÉ](https://open.spotify.com/album/5HZSEWInouI6tWp1C3ousL) | 3:21 |
 | 13 | [VIANO](https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [ENCORE / VIANO](https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf) | 1:51 |

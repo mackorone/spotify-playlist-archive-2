@@ -4,7 +4,7 @@
 
 > La fiesta se enciende con cumbia.
 
-251 songs - 15 hr 11 min
+252 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [La Cuarentena](https://open.spotify.com/track/4v0e1iR0t2e3lVHPuQZlea) | [Los Super Korsarios Del Amor](https://open.spotify.com/artist/0ZnJaxfplCgAKgbb8C6ecX) | [La Cuarentena](https://open.spotify.com/album/17OmyTx1GDRmsTb4zNYPCQ) | 3:52 | 2023-08-25 | 2024-02-28 |
 | [La Cumbia De Los Trapos](https://open.spotify.com/track/3hFYJSfGQgEOXfMAHL30Tl) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [20 Grandes Exitos](https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj) | 4:11 | 2024-07-02 | 2025-11-21 |
 | [La Cumbia De Los Trapos](https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Cumbia Villera](https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd) | 4:11 | 2024-02-27 | 2024-04-19 |
+| [La Diabla](https://open.spotify.com/track/2c9TribYylkXZRuUVNuNEy) | [Toma 2](https://open.spotify.com/artist/4R8tEiRjYy5OkYzDM2u097), [Los Wachiturros](https://open.spotify.com/artist/1LUSs33lIrjmo5XTgX6Yoo), [1 de kal](https://open.spotify.com/artist/25S9QqOslbH6r8cvnP3WY1), [El Adri Music](https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5) | [La Diabla](https://open.spotify.com/album/54yV9x0FxfEVmZPwPysUOo) | 2:39 | 2025-11-20 |  |
 | [La Makinita](https://open.spotify.com/track/02HQGyk9aGfleS1epTFtnJ) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [La Makinita](https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL) | 3:46 | 2025-01-17 | 2025-12-19 |
 | [La Mesa del Rincón](https://open.spotify.com/track/7FirJZsR2n0VWs1rzMjdms) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [La Nueva Fiesta de los Charros](https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv) | 3:05 | 2024-02-27 | 2024-04-19 |
 | [La Mujer Que Amas](https://open.spotify.com/track/6qq3vgo9RQ1YhX8qDNSKLE) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [La Mujer Que Amas](https://open.spotify.com/album/0W6tsKF0lp12OWYV45Jkr3) | 3:56 | 2023-08-25 | 2024-02-28 |
@@ -229,7 +230,7 @@
 | [Torres Del Paine](https://open.spotify.com/track/6El1GAPRHcoP2rxERMz2Jj) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [Torres Del Paine](https://open.spotify.com/album/3uFl4jYrz03lLruD5N1tkC) | 3:04 | 2024-03-29 | 2024-07-15 |
 | [Tu Sangre En Mi cuerpo Feat\. Domi](https://open.spotify.com/track/3yRvZoHfliGWeSwUq5ggYV) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [Soy Cumbia](https://open.spotify.com/album/1NSU7oS48L2ez79wVbO2lE) | 4:27 | 2023-08-25 |  |
 | [Tu Vives Equivocada](https://open.spotify.com/track/4NecYY3NKC7FdPXSgJcJ80) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Nectar Internacional](https://open.spotify.com/album/5zKXDh6rHtZWHcQyyOgxE4) | 3:46 | 2025-02-28 |  |
-| [Tímido](https://open.spotify.com/track/4jdB97BKq7L6pOby20Nmed) | [Grupo Hechizo](https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3) | [Grupo Hechizo](https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC) | 3:26 | 2024-03-29 |  |
+| [Tímido](https://open.spotify.com/track/4jdB97BKq7L6pOby20Nmed) | [Grupo Hechizo](https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3) | [Grupo Hechizo](https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC) | 3:26 | 2024-03-29 | 2026-01-24 |
 | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/album/7cAfD0HludcAifXAbcIR80) | 2:42 | 2023-08-25 |  |
 | [Un Hombre No Llora](https://open.spotify.com/track/3i78S2Cm2V66QGkohxsqBD) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Un Hombre No Llora](https://open.spotify.com/album/5d0LrF2Sr4MTPomdDSglYI) | 5:00 | 2024-02-27 | 2024-12-16 |
 | [Una Calle Nos Separa](https://open.spotify.com/track/1TvjOTe5HcnzxnlvQ8JRy8) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/1bc0MLEqmNIXBPrSwkyN2j) | 3:34 | 2024-07-02 |  |

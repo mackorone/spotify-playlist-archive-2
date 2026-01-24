@@ -1,12 +1,12 @@
 {
   "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: Radio Free Alice\n",
-  "num_followers": 168119,
+  "num_followers": 168145,
   "original_name": "Fresh Finds Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO+IcCTZXc63tX3pALmRSAaPr1LE",
+  "snapshot_id": "AAAAAAVezmJZ2W+q/R1GPyVL3jnv2RHm",
   "tracks": [
     {
       "added_at": "2026-01-21 16:21:15",
@@ -215,6 +215,22 @@
       "duration_ms": 184053,
       "name": "Call U Back",
       "url": "https://open.spotify.com/track/47HdXfgydiy53cEiD6lhU5"
+    },
+    {
+      "added_at": "2026-01-23 17:06:52",
+      "album": {
+        "name": "GOLDSTAR",
+        "url": "https://open.spotify.com/album/3WgNg4UjdpwWWyNQtjwZTY"
+      },
+      "artists": [
+        {
+          "name": "The Sophs",
+          "url": "https://open.spotify.com/artist/2zX0ROHqU3TEfFtKBtqOAE"
+        }
+      ],
+      "duration_ms": 199054,
+      "name": "GOLDSTAR",
+      "url": "https://open.spotify.com/track/3KQ3852yZqReDT9dbcbSU2"
     },
     {
       "added_at": "2026-01-21 20:36:05",

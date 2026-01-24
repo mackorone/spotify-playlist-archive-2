@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: にしな nishina
 
-3,583 songs - 9 day 12 hr 22 min
+3,584 songs - 9 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -697,6 +697,7 @@
 | [happy ending](https://open.spotify.com/track/6Ej417VdDyV4NJ9CMyd7pt) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [happy ending](https://open.spotify.com/album/57mtjHY4I31nFLDqiAmrnP) | 3:49 | 2023-06-13 | 2024-10-26 |
 | [Happy Ending Show](https://open.spotify.com/track/7IgtInfdL98RaUo7Cd3lZq) | [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D), [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Happy Ending Show](https://open.spotify.com/album/6bDf4iFszh8ZTUTdTYC3RN) | 4:01 | 2025-03-11 | 2025-03-19 |
 | [happy ever after](https://open.spotify.com/track/4bi2VYzw1Q4SWOWdte0BQr) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [happy ever after](https://open.spotify.com/album/4sdCOEFUUmOg5K2egwc4W9) | 3:46 | 2024-09-03 | 2024-12-11 |
+| [Happy Ever After](https://open.spotify.com/track/6ht5QWPzQSQInoRN2v87Ac) | [鷲尾伶菜](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf), [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Happy Ever After](https://open.spotify.com/album/6gvgtKoAbqP46vLw46Hrlg) | 3:45 | 2026-01-21 |  |
 | [happy turn](https://open.spotify.com/track/12wNZGEDEizUymd8yoqduG) | [shimamo](https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm) | [happy turn](https://open.spotify.com/album/5GVA9pNplD9PoKuHWKQZGA) | 4:01 | 2025-07-08 | 2025-08-12 |
 | [Harajuku Boy](https://open.spotify.com/track/1542ftkCri5kDj7xKUC4OL) | [City Cyndrome](https://open.spotify.com/artist/3rW1Y4T5r97bJBG7b2HqjY) | [Harajuku Boy](https://open.spotify.com/album/2UaG3U6D0jXC898hXNUbow) | 5:11 | 2023-09-08 | 2023-09-13 |
 | [Hard Protein](https://open.spotify.com/track/3VYmXaI1B3808PEcl1oNDZ) | [Peach Nap](https://open.spotify.com/artist/5vlTDNHSDZWBzNVnkq28w6) | [One Peach](https://open.spotify.com/album/0VSKddM8sSMIR4yViyF8BJ) | 3:07 | 2025-08-05 | 2025-08-13 |
@@ -943,7 +944,7 @@
 | [Keeps Beating](https://open.spotify.com/track/5dGenSjQSfL9KwXhL3D18M) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [Just Living](https://open.spotify.com/album/6jWIqqH1FJKuDbtq8cCWIC) | 3:49 | 2023-03-07 | 2023-03-29 |
 | [Keeps Coming Back](https://open.spotify.com/track/1pTJtmvJhSOjSkBfE56tjs) | [MoMo](https://open.spotify.com/artist/5gwaQTfKLp93WjE9qllzRW), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Keeps Coming Back](https://open.spotify.com/album/4Q6SuOMw10t4WGayoFEiWq) | 3:10 | 2022-07-12 | 2022-07-20 |
 | [Kick Off](https://open.spotify.com/track/5yc7Vd2kX7H5KRcWZloktL) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l) | [Kick Off](https://open.spotify.com/album/2TZNIpSkEzb5tG38CSAJgi) | 4:07 | 2022-12-06 | 2022-12-14 |
-| [KILL LOVE](https://open.spotify.com/track/2OrNoZhXPmWcJQLMyTEjop) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [呪いをかけて、まぼろしをといて。](https://open.spotify.com/album/0m4QPfwdOiuvYojWJuYklp) | 4:45 | 2025-09-09 |  |
+| [KILL LOVE](https://open.spotify.com/track/2OrNoZhXPmWcJQLMyTEjop) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [呪いをかけて、まぼろしをといて。](https://open.spotify.com/album/0m4QPfwdOiuvYojWJuYklp) | 4:45 | 2025-09-09 | 2026-01-24 |
 | [Killer Purple](https://open.spotify.com/track/13mIGCul6OnkZkLZJoXPDP) | [Mashinomi](https://open.spotify.com/artist/38ekEKl28kPuKUoQqSFlKi), [yuigot](https://open.spotify.com/artist/6JpGvdWdOnLTKuNWqOpYT0) | [Crying High](https://open.spotify.com/album/3hDJ253nf3BbBoCEE3lIxE) | 2:20 | 2024-05-28 | 2024-06-05 |
 | [Killer Word](https://open.spotify.com/track/55YTEATvWRdjUXGkxfdlWB) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Killer Word](https://open.spotify.com/album/5nkuYDrndcdN41UN8QKgkP) | 4:01 | 2023-11-30 | 2023-12-06 |
 | [Killing Me Softly with His Song](https://open.spotify.com/track/2xoKBwwJx439gKKRV8KWXR) | [Beverly](https://open.spotify.com/artist/5AJRsYTgSVuUTT2SbhLLxu) | [Killing Me Softly with His Song](https://open.spotify.com/album/6RKt6CeiXsWMNy5p9AGqMl) | 4:30 | 2024-07-25 | 2024-07-31 |

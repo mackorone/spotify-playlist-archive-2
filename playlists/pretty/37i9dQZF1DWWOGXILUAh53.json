@@ -1,12 +1,12 @@
 {
   "description": "The hottest new pop with all the drops. Cover: Slayyyter",
-  "num_followers": 375081,
+  "num_followers": 375756,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACydsYLnHA3VMnLKWa1K5mSvP/r2",
+  "snapshot_id": "AAAAAGK9dNSTicQrFUesNgQjDYlkhRrH",
   "tracks": [
     {
       "added_at": "2026-01-16 05:00:28",
@@ -45,40 +45,112 @@
       "url": "https://open.spotify.com/track/35pNS21PF8hmRPXwQHxyJ1"
     },
     {
-      "added_at": "2026-01-09 05:00:42",
+      "added_at": "2026-01-23 05:00:29",
       "album": {
-        "name": "Sexistential / Talk To Me",
-        "url": "https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk"
+        "name": "I Still Miss You",
+        "url": "https://open.spotify.com/album/2sfzVUbUanspYI3WKrnWAn"
       },
       "artists": [
         {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+          "name": "Sarah Nimmo",
+          "url": "https://open.spotify.com/artist/2U6enUXvLRB7L29djdKqJO"
         }
       ],
-      "duration_ms": 199561,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv"
+      "duration_ms": 264025,
+      "name": "I Still Miss You",
+      "url": "https://open.spotify.com/track/6KXobSGgzFxjHrljTre5oe"
     },
     {
-      "added_at": "2026-01-16 05:00:28",
+      "added_at": "2026-01-23 05:00:29",
       "album": {
-        "name": "GLOW. (Blusher Remix)",
-        "url": "https://open.spotify.com/album/2r2imdB1FzSZzzsOHfyyna"
+        "name": "Out Of My Mind",
+        "url": "https://open.spotify.com/album/5AOOdE61qcqBULKF1EiVLb"
       },
       "artists": [
         {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        },
-        {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+          "name": "Bag Raiders",
+          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
         }
       ],
-      "duration_ms": 125815,
-      "name": "GLOW. (Blusher Remix)",
-      "url": "https://open.spotify.com/track/2EHLYHcY5n1VetFu2Te0Mv"
+      "duration_ms": 137012,
+      "name": "Out Of My Mind",
+      "url": "https://open.spotify.com/track/1UY1BveykAXFHiokxrCMkg"
+    },
+    {
+      "added_at": "2026-01-23 05:00:29",
+      "album": {
+        "name": "fall in love with the dj",
+        "url": "https://open.spotify.com/album/3JOCWksM1JNapygyn8tQPJ"
+      },
+      "artists": [
+        {
+          "name": "Lucky Iris",
+          "url": "https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC"
+        }
+      ],
+      "duration_ms": 180778,
+      "name": "fall in love with the dj",
+      "url": "https://open.spotify.com/track/56ZQHgh0SB0fefzS7BbT2E"
+    },
+    {
+      "added_at": "2026-01-23 05:00:29",
+      "album": {
+        "name": "Beat Is Jumping",
+        "url": "https://open.spotify.com/album/3W210elro9LvnY46RJBNAn"
+      },
+      "artists": [
+        {
+          "name": "Morgan Seatree",
+          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+        },
+        {
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+        }
+      ],
+      "duration_ms": 139436,
+      "name": "Beat Is Jumping",
+      "url": "https://open.spotify.com/track/4yM4Z1ifPXm4qFetMI659J"
+    },
+    {
+      "added_at": "2026-01-23 05:00:29",
+      "album": {
+        "name": "starlight feat. Madeline Follin",
+        "url": "https://open.spotify.com/album/1LNQmhGkCcRPaIPztgxpa1"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "wes mills",
+          "url": "https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT"
+        },
+        {
+          "name": "Madeline Follin",
+          "url": "https://open.spotify.com/artist/112e5Jq3aZIrvBPAr0rHvD"
+        }
+      ],
+      "duration_ms": 186052,
+      "name": "starlight feat. Madeline Follin",
+      "url": "https://open.spotify.com/track/4b5lTNgZ56zfdj1CqteLpu"
+    },
+    {
+      "added_at": "2026-01-23 05:00:29",
+      "album": {
+        "name": "crybby blue",
+        "url": "https://open.spotify.com/album/7FoWtdR8NB2OlD0kQpTrpu"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 156874,
+      "name": "crybby blue",
+      "url": "https://open.spotify.com/track/6VvLMqlEMs3BOzBc2YOnXs"
     },
     {
       "added_at": "2026-01-16 05:00:28",
@@ -141,6 +213,42 @@
       "url": "https://open.spotify.com/track/1mAJL4ypRyWLI0UMDxAanG"
     },
     {
+      "added_at": "2026-01-23 05:00:29",
+      "album": {
+        "name": "THE CORE - \u6838",
+        "url": "https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 170625,
+      "name": "HYPNOTIZE",
+      "url": "https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo"
+    },
+    {
+      "added_at": "2026-01-16 05:00:28",
+      "album": {
+        "name": "GLOW. (Blusher Remix)",
+        "url": "https://open.spotify.com/album/2r2imdB1FzSZzzsOHfyyna"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        },
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "duration_ms": 125815,
+      "name": "GLOW. (Blusher Remix)",
+      "url": "https://open.spotify.com/track/2EHLYHcY5n1VetFu2Te0Mv"
+    },
+    {
       "added_at": "2026-01-16 05:00:28",
       "album": {
         "name": "Not Home",
@@ -159,26 +267,6 @@
       "duration_ms": 120624,
       "name": "Not Home",
       "url": "https://open.spotify.com/track/19XUNscIDiBwOMRkRyTrG9"
-    },
-    {
-      "added_at": "2026-01-16 05:00:28",
-      "album": {
-        "name": "Phantom Feelings (Feat. Frankie Grande)",
-        "url": "https://open.spotify.com/album/7qGgHffb271Vyz38yUlDIb"
-      },
-      "artists": [
-        {
-          "name": "Bentley Robles",
-          "url": "https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT"
-        },
-        {
-          "name": "Frankie Grande",
-          "url": "https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK"
-        }
-      ],
-      "duration_ms": 183505,
-      "name": "Phantom Feelings (Feat. Frankie Grande)",
-      "url": "https://open.spotify.com/track/6MCjYReoo8piMjsINP3NAJ"
     },
     {
       "added_at": "2026-01-09 05:00:42",
@@ -201,6 +289,38 @@
       "url": "https://open.spotify.com/track/2h5Nvt8nCnpaX4xrwmcMnV"
     },
     {
+      "added_at": "2026-01-23 05:00:29",
+      "album": {
+        "name": "Possibilities",
+        "url": "https://open.spotify.com/album/417RYGMC4ZOFiPqjlsc7v6"
+      },
+      "artists": [
+        {
+          "name": "SUNGYOO",
+          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
+        }
+      ],
+      "duration_ms": 181860,
+      "name": "Possibilities",
+      "url": "https://open.spotify.com/track/3INBlTUmrormg1YJ7f4jZH"
+    },
+    {
+      "added_at": "2026-01-09 05:00:42",
+      "album": {
+        "name": "Sexistential / Talk To Me",
+        "url": "https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 199561,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv"
+    },
+    {
       "added_at": "2026-01-16 05:00:28",
       "album": {
         "name": "SOMETHING BEAUTIFUL",
@@ -215,6 +335,22 @@
       "duration_ms": 111566,
       "name": "SOMETHING BEAUTIFUL",
       "url": "https://open.spotify.com/track/7wecYEdY8NUL3H4ARYZ8jz"
+    },
+    {
+      "added_at": "2026-01-23 05:00:29",
+      "album": {
+        "name": "Sticky",
+        "url": "https://open.spotify.com/album/1s06Eu1ijWhoBiPXBzs4UV"
+      },
+      "artists": [
+        {
+          "name": "Michaela Ja\u00e9",
+          "url": "https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5"
+        }
+      ],
+      "duration_ms": 172097,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/4oC3J7AM15eob6vpK1wDVZ"
     },
     {
       "added_at": "2026-01-16 05:00:28",
@@ -251,22 +387,6 @@
       "duration_ms": 194366,
       "name": "Headphones",
       "url": "https://open.spotify.com/track/2MTRZqXDaGGhX7mOvgEiKL"
-    },
-    {
-      "added_at": "2026-01-16 05:00:28",
-      "album": {
-        "name": "wontletgo",
-        "url": "https://open.spotify.com/album/2cblawQRJj9sWlxmqrYJCi"
-      },
-      "artists": [
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "wontletgo",
-      "url": "https://open.spotify.com/track/7y6j2nYVmypBeAZWIi8aqU"
     },
     {
       "added_at": "2026-01-16 05:00:28",
@@ -439,6 +559,42 @@
       "duration_ms": 193170,
       "name": "5 Minutes",
       "url": "https://open.spotify.com/track/5FY5bSkPdugbE0i1psTU86"
+    },
+    {
+      "added_at": "2026-01-16 05:00:28",
+      "album": {
+        "name": "Phantom Feelings (Feat. Frankie Grande)",
+        "url": "https://open.spotify.com/album/7qGgHffb271Vyz38yUlDIb"
+      },
+      "artists": [
+        {
+          "name": "Bentley Robles",
+          "url": "https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT"
+        },
+        {
+          "name": "Frankie Grande",
+          "url": "https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK"
+        }
+      ],
+      "duration_ms": 183505,
+      "name": "Phantom Feelings (Feat. Frankie Grande)",
+      "url": "https://open.spotify.com/track/6MCjYReoo8piMjsINP3NAJ"
+    },
+    {
+      "added_at": "2026-01-16 05:00:28",
+      "album": {
+        "name": "wontletgo",
+        "url": "https://open.spotify.com/album/2cblawQRJj9sWlxmqrYJCi"
+      },
+      "artists": [
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "wontletgo",
+      "url": "https://open.spotify.com/track/7y6j2nYVmypBeAZWIi8aqU"
     },
     {
       "added_at": "2026-01-09 05:00:42",
@@ -1151,22 +1307,6 @@
     {
       "added_at": "2025-11-14 05:00:33",
       "album": {
-        "name": "NO RE-ENTRY",
-        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 146378,
-      "name": "Lucky Number One",
-      "url": "https://open.spotify.com/track/3WuzwlDCQ4cQfkY9BlbRvL"
-    },
-    {
-      "added_at": "2025-11-14 05:00:33",
-      "album": {
         "name": "i can't make you love me / started over",
         "url": "https://open.spotify.com/album/1u7ZRx3ZJ2Qi2Kq6uag5QD"
       },
@@ -1219,26 +1359,6 @@
     {
       "added_at": "2025-11-14 05:00:33",
       "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/3Tz1emJSdm25UIaw2pzkfH"
-      },
-      "artists": [
-        {
-          "name": "Kaleena Zanders",
-          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
-        },
-        {
-          "name": "Shift K3Y",
-          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
-        }
-      ],
-      "duration_ms": 199398,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/1L7jYz7GtD1lVGlqMlwvkd"
-    },
-    {
-      "added_at": "2025-11-14 05:00:33",
-      "album": {
         "name": "Hey Son",
         "url": "https://open.spotify.com/album/6wKpxhTWl6HtdreIFPSbpq"
       },
@@ -1263,22 +1383,6 @@
       "duration_ms": 180151,
       "name": "Hey Son",
       "url": "https://open.spotify.com/track/0OiNRfziXYdxP5I3ysqeuz"
-    },
-    {
-      "added_at": "2025-11-14 05:00:33",
-      "album": {
-        "name": "Hazy Eyes",
-        "url": "https://open.spotify.com/album/2UrQrExipPqMumIA5bzYOc"
-      },
-      "artists": [
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "Hazy Eyes",
-      "url": "https://open.spotify.com/track/6LC1blcEVm5CcChPJlMuhA"
     },
     {
       "added_at": "2025-11-07 05:00:58",
@@ -1383,42 +1487,6 @@
       "duration_ms": 180461,
       "name": "With You",
       "url": "https://open.spotify.com/track/7A5keFQ4h09H7lexVWR8Wt"
-    },
-    {
-      "added_at": "2025-11-07 05:00:58",
-      "album": {
-        "name": "Above The Stars",
-        "url": "https://open.spotify.com/album/1gGPIDPaqdSDY3hUjGkgkU"
-      },
-      "artists": [
-        {
-          "name": "Last Heroes",
-          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
-        },
-        {
-          "name": "HYMNALS",
-          "url": "https://open.spotify.com/artist/2seVQaAt7DMkQXYDMQ5nL7"
-        }
-      ],
-      "duration_ms": 225454,
-      "name": "Above The Stars",
-      "url": "https://open.spotify.com/track/4t6ATgn6aXN0IhrpndMPHf"
-    },
-    {
-      "added_at": "2025-11-07 05:00:58",
-      "album": {
-        "name": "YEBO",
-        "url": "https://open.spotify.com/album/22jBLZ3vPKcUyK9JbzXFo7"
-      },
-      "artists": [
-        {
-          "name": "WizTheMc",
-          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        }
-      ],
-      "duration_ms": 162205,
-      "name": "At The Party",
-      "url": "https://open.spotify.com/track/0M8nfWI3cAkYcXNTB0mrCN"
     },
     {
       "added_at": "2025-08-01 14:19:13",

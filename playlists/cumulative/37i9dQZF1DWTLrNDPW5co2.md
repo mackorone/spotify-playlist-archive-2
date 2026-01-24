@@ -2,9 +2,9 @@
 
 ### [Club Resistance](https://open.spotify.com/playlist/37i9dQZF1DWTLrNDPW5co2)
 
-> Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Featuring BAYLI.
+> Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Featuring Honey Dijon.
 
-442 songs - 1 day 3 hr 0 min
+443 songs - 1 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Find Your Way Home](https://open.spotify.com/track/0WoxURnxMhMHVEZpK04KzU) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/4QIzvwiurfYaLWAATLXU0N) | 8:17 | 2021-10-15 | 2023-06-02 |
 | [FOREVER 21 w/ MISS LUXURY](https://open.spotify.com/track/5DFk9bjNR334on2mT4zhVq) | [LyteSpeed](https://open.spotify.com/artist/4XIl1fxI6tJQzbSMb2fNAr), [MISS LUXURY](https://open.spotify.com/artist/6KlmTJ2jv8hMPUzuUEKNbZ) | [FOREVER 21 w/ MISS LUXURY](https://open.spotify.com/album/7me2zDjFfeJZiO8NvtKLY0) | 2:04 | 2025-01-24 | 2025-06-21 |
 | [Forward Flamingo](https://open.spotify.com/track/5jTUWYHBoAebFimm7yteTN) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Face to Phase](https://open.spotify.com/album/3JAHvyB4gAIjPPxQ6k2XRu) | 4:23 | 2021-10-15 | 2022-06-04 |
-| [Freak It](https://open.spotify.com/track/1e8DRAVSxGDPd9hgxcppP2) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Freak It](https://open.spotify.com/album/58eyKa5DMA7R8NeuBeJciy) | 3:05 | 2025-07-25 |  |
+| [Freak It](https://open.spotify.com/track/1e8DRAVSxGDPd9hgxcppP2) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Freak It](https://open.spotify.com/album/58eyKa5DMA7R8NeuBeJciy) | 3:05 | 2025-07-25 | 2026-01-24 |
 | [FREAKEE](https://open.spotify.com/track/6JDNT4jCx90o5lh2HxpOP5) | [REYSHA RAMI](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [FREAKEE](https://open.spotify.com/album/62yHlLrHrCpFhXy4zoUmVR) | 2:40 | 2025-05-23 |  |
 | [Friki](https://open.spotify.com/track/19wfGoIBGL0Psw6c8Oa23N) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Megane Mercury](https://open.spotify.com/artist/1dQK5HMaxZWCAwHD4a1l85) | [Friki](https://open.spotify.com/album/1ZrhzZuCRdqshEK1CB60As) | 3:07 | 2024-05-22 | 2024-09-21 |
 | [FRONT LEFT SPEAKER](https://open.spotify.com/track/4BbAQd9yHbOPF4PzDQRksr) | [deBasement](https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl) | [FRONT LEFT SPEAKER / FTDJ \(Thank God\)](https://open.spotify.com/album/3cTyn6ZcVOv2fuXEO0dqC9) | 3:40 | 2024-08-31 |  |
@@ -379,6 +379,7 @@
 | [SINNER](https://open.spotify.com/track/7Iiw9C8gu4NdbBKUNDkeKD) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [.](https://open.spotify.com/album/3O6VSdQElvi8Eq1iYbvFMS) | 2:56 | 2025-02-28 | 2025-10-04 |
 | [Slay 4 Me \(feat\. Jesse Fields\) \- Edit](https://open.spotify.com/track/2ycAx22Kc8PJNVY1cyTcON) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T), [Jesse Fields](https://open.spotify.com/artist/2B9buLG6jo5TbMDupYNPQe) | [It's Giving EP](https://open.spotify.com/album/0gAE7755ojE0IEmFuKdlGQ) | 3:39 | 2023-03-31 | 2024-06-08 |
 | [Slay 4 Me \(feat\. Jesse Fields\) \[Felix Jaehn Remix\] \- Edit](https://open.spotify.com/track/5NBGwZLsZAo5J3a9sn0Dy5) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jesse Fields](https://open.spotify.com/artist/2B9buLG6jo5TbMDupYNPQe) | [Slay 4 Me \(feat\. Jesse Fields\) \[Felix Jaehn Remix\]](https://open.spotify.com/album/7aRpaVGxIkR0n82VUdtoFa) | 3:03 | 2024-08-16 | 2024-10-19 |
+| [Slight Werk \- Club Mix](https://open.spotify.com/track/3AenQimpj4gFY3e0CnsbD1) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Slight Werk \(Club Mix\)](https://open.spotify.com/album/3USLXh5K8mET0msxPqYXpP) | 2:58 | 2026-01-23 |  |
 | [SLIME](https://open.spotify.com/track/5alFLxnNmBmTdNM6Oq0nqD) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SLIME](https://open.spotify.com/album/1VCGsWYP7dY5fLXUrEPG6L) | 2:39 | 2022-06-03 | 2022-07-15 |
 | [SLIME is BESTIE \[Sega Bodega + JT\]](https://open.spotify.com/track/4Y65QXs6X2dhVQc9B6a6Ro) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [SLIME is BESTIE \[Sega Bodega + JT\]](https://open.spotify.com/album/5Y9NhiHQOzv1JSBpReoWOy) | 2:40 | 2025-11-21 |  |
 | [Slip & Slide](https://open.spotify.com/track/60Inxb7R2S4RyzQg31IsCq) | [Alex Chapman](https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Slip & Slide](https://open.spotify.com/album/6JFPl54dXCJWWfuRgCfoL6) | 2:26 | 2025-04-04 |  |

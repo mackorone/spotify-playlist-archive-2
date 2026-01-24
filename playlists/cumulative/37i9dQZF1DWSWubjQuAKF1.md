@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Krystian Embradora
 
-701 songs - 1 day 10 hr 16 min
+702 songs - 1 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,7 +395,7 @@
 | [Nie umiem czekać](https://open.spotify.com/track/3MR0tlt5gBjUtm8mASgfVL) | [Stan Zapalny](https://open.spotify.com/artist/15BJ0ipMSdHELUOqJZ7Xmr) | [Nie umiem czekać](https://open.spotify.com/album/45ByJ81eVGqYXRKCbNcLTE) | 2:40 | 2025-09-04 | 2025-09-17 |
 | [Nie zawsze wszystko](https://open.spotify.com/track/4cl6qxj75z0HOdbHK2yDWD) | [Barnim](https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj), [Gverilla](https://open.spotify.com/artist/4Ub4q8OJR6JCKZbxpXvW2U) | [Nie zawsze wszystko](https://open.spotify.com/album/6hCqUNPQDp25b85hGQ7ixM) | 3:12 | 2024-06-28 | 2024-07-27 |
 | [Nie ze mną](https://open.spotify.com/track/6faAGWMBcX76s25R8QxDwf) | [SaMa](https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt) | [Nie ze mną](https://open.spotify.com/album/7hJStuNFMi5tpEZ94bKAit) | 2:43 | 2024-06-28 | 2024-07-19 |
-| [NIE ZNAM NIKOGO](https://open.spotify.com/track/6K8819fUuhUpMp3CVCNp5p) | [emka](https://open.spotify.com/artist/2pSIqHjOaHU1usrEg1p8Zr), [AstroWilk](https://open.spotify.com/artist/109DXBNtpYRi35I7lQ8QOm) | [NIE ZNAM NIKOGO](https://open.spotify.com/album/02OjQ9eUsypnVVaIPLb0br) | 2:31 | 2025-12-18 |  |
+| [NIE ZNAM NIKOGO](https://open.spotify.com/track/6K8819fUuhUpMp3CVCNp5p) | [emka](https://open.spotify.com/artist/2pSIqHjOaHU1usrEg1p8Zr), [AstroWilk](https://open.spotify.com/artist/109DXBNtpYRi35I7lQ8QOm) | [NIE ZNAM NIKOGO](https://open.spotify.com/album/02OjQ9eUsypnVVaIPLb0br) | 2:31 | 2025-12-18 | 2026-01-24 |
 | [NIE ZNASZ JEJ](https://open.spotify.com/track/6h3tQYd7SQ5R24y4BSNld8) | [Elena](https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn) | [NIE ZNASZ JEJ](https://open.spotify.com/album/5Lz3RAlx009Pp3PfYGMmb1) | 2:34 | 2024-06-28 | 2024-11-22 |
 | [NIE ZNASZ JEJ \- Acoustic](https://open.spotify.com/track/4TyX7rWOyWbrF8EImwPTff) | [Elena](https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn) | [NIE ZNASZ JEJ \(Acoustic\)](https://open.spotify.com/album/0ME8iWPExzNtMALCVPpVrJ) | 2:30 | 2024-07-18 | 2024-12-07 |
 | [NIEBA](https://open.spotify.com/track/12kODAZcfMh99l0AitMXFC) | [NAUTOFON](https://open.spotify.com/artist/5zNO7pJVe7GFYrkqdYUsqG), [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [NIEBA](https://open.spotify.com/album/0ZkBawe69ftL7Eiv5eeJu9) | 2:57 | 2025-06-05 | 2025-07-23 |
@@ -654,6 +654,7 @@
 | [woda utleniona](https://open.spotify.com/track/05PIFyGeH8pSnAfTb2dZpV) | [świtała](https://open.spotify.com/artist/0fP7Egec8F7B72aatTrLPQ), [dj cbh](https://open.spotify.com/artist/1Y8t9sDYteTcWxc4CqKQGJ) | [woda utleniona](https://open.spotify.com/album/6lrnYtBfGg8CDKj1F0XkWH) | 2:30 | 2025-10-07 | 2025-10-15 |
 | [Wody odeszły](https://open.spotify.com/track/6vRtXj4gYSY96X5MPUES4J) | [IKARVS](https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg) | [Wody odeszły](https://open.spotify.com/album/1MfHtnGP5xjQ6GemJLvKIK) | 4:28 | 2025-03-27 | 2025-04-04 |
 | [wolniej!](https://open.spotify.com/track/1DPShtZe2ocPeVX77GPC1f) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [Kosma Król](https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI) | [wolniej!](https://open.spotify.com/album/6sHUFDP92VgAXRF6hHkJqJ) | 2:28 | 2025-09-04 | 2025-11-12 |
+| [Wolę Cię kochać, niż mieć](https://open.spotify.com/track/2KMoi0vQU6xVUZ05atEOSe) | [Marta Bijan](https://open.spotify.com/artist/6H38O4b9x7V56MfLOpfNZt) | [Wolę Cię kochać, niż mieć](https://open.spotify.com/album/751UQhysLprUGTXrhTrHvP) | 2:57 | 2026-01-22 |  |
 | [Wonderful](https://open.spotify.com/track/3IOQ1Mlfs0Jcw0I4jksFlU) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Wonderful](https://open.spotify.com/album/4s70qBQDzfGfvWmKnOxIxV) | 2:54 | 2024-12-06 | 2025-01-24 |
 | [wrogowie](https://open.spotify.com/track/5D6U01nI60WYFbLGFj1tld) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [wrogowie](https://open.spotify.com/album/1tZtVZ2zMmPxYr7YRzXFuH) | 3:26 | 2024-08-22 | 2025-01-24 |
 | [Wrzosy](https://open.spotify.com/track/2vqcKeANBFZDtcMzft8Ej4) | [SAMARA](https://open.spotify.com/artist/0H96zZshfKV7mq25xuyAWD) | [Wrzosy](https://open.spotify.com/album/3H69V7MdvPjjNPy8FdxPde) | 2:52 | 2024-08-22 | 2025-01-10 |

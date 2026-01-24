@@ -1151,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "Flurf",
+        "url": "https://open.spotify.com/album/4yAcVFgtMNOfEl9wbUaN2b"
+      },
+      "artists": [
+        {
+          "name": "FORQ",
+          "url": "https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323627,
+      "name": "Flurf",
+      "url": "https://open.spotify.com/track/2HFu3HNNnPiGr58jKY4paW"
+    },
+    {
+      "album": {
         "name": "Collisions",
         "url": "https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK"
       },

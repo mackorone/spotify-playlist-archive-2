@@ -4,7 +4,7 @@
 
 > ¡Los mejores sonidos urbanos desde la tierra del ritmo! En portada: El Bendito
 
-245 songs - 12 hr 44 min
+246 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [D U R O](https://open.spotify.com/track/713U89JR8j30nXdf1q0WaG) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9), [Jhay P](https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1) | [D U R O](https://open.spotify.com/album/5tnjiUY7dh6f61Ahge2XS1) | 3:03 | 2025-10-24 |  |
 | [De Remate](https://open.spotify.com/track/5rMALMMFDPpW411Pp3oGNO) | [Pipe Calderón](https://open.spotify.com/artist/50TqpjP2iRI4hR1wCfVj3w), [Ocoyaje](https://open.spotify.com/artist/3IVmRbZDbvK2wFkXpLOQZD) | [History](https://open.spotify.com/album/39TV17NEBwu6Y0VgWgVa9p) | 3:45 | 2025-12-25 | 2026-01-15 |
 | [Dejarte Ir](https://open.spotify.com/track/14z0nJOFTKfWAODgtq5RiJ) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Dejarte Ir](https://open.spotify.com/album/2X1owjKL4rFAqmzrtvIFjf) | 2:56 | 2024-02-09 | 2024-05-11 |
-| [DELI](https://open.spotify.com/track/6a9pfdLPL95dqzGki5RGiT) | [Lorduy](https://open.spotify.com/artist/69W4dBFtMrTWYHEHwbpHhC) | [FUEGO EN EL 22](https://open.spotify.com/album/2HTnoURcBMHXI7tzsrO4fZ) | 2:48 | 2025-10-03 |  |
+| [DELI](https://open.spotify.com/track/6a9pfdLPL95dqzGki5RGiT) | [Lorduy](https://open.spotify.com/artist/69W4dBFtMrTWYHEHwbpHhC) | [FUEGO EN EL 22](https://open.spotify.com/album/2HTnoURcBMHXI7tzsrO4fZ) | 2:48 | 2025-10-03 | 2026-01-24 |
 | [Demasiado Pa' Mí](https://open.spotify.com/track/3YpyGbVyMcxti6N5FR1z48) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [FineSound Music](https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh) | [Demasiado Pa' Mí](https://open.spotify.com/album/2BDIWoBmjfRW4dFPMcnT6b) | 2:42 | 2024-05-24 | 2024-06-01 |
 | [DEPORTIVO](https://open.spotify.com/track/0fKK51bU6lcCCwdNnv64t3) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [DEPORTIVO](https://open.spotify.com/album/4WDkA9vfa56hODrhY0LAhs) | 3:38 | 2024-11-15 |  |
 | [Desde Antes](https://open.spotify.com/track/5Ulsi8075EHzP2chQqbv86) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Valka](https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr) | [Desde Antes](https://open.spotify.com/album/2M8U9CPDLmJwTEoMEXWDZl) | 3:11 | 2024-08-02 |  |
@@ -214,6 +214,7 @@
 | [SI SABE FERXXO](https://open.spotify.com/track/7chTH3GBjjAyagf0SPCZDL) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 2:32 | 2024-01-26 |  |
 | [Si Te La Encuentras Por Ahí](https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Si Te La Encuentras Por Ahí](https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6) | 3:11 | 2023-09-30 | 2023-10-21 |
 | [Sin Miedo](https://open.spotify.com/track/6aibYCJcHtpQgwq35ohOKs) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Sin Miedo](https://open.spotify.com/album/3IhY9gtZHtaGPjvWR8PCcp) | 3:17 | 2025-12-25 | 2026-01-15 |
+| [Sin Vergüenza](https://open.spotify.com/track/7pW6jlnkG7IVSlhhEI7P58) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Infinito](https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68) | 2:49 | 2026-01-23 |  |
 | [SINCERAMENTE](https://open.spotify.com/track/7xqF5MczPpjW4NLXF2CL88) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [LOS MUCHACHOS](https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa) | 3:19 | 2023-11-10 | 2024-05-11 |
 | [Sisas Nada \(feat\. Hades66\)](https://open.spotify.com/track/5nhCWPCsVXj0uyfSgeTEpk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [1 OF 1](https://open.spotify.com/album/6nrflCSqW4aAy4ZZ1PGp7I) | 3:20 | 2024-06-07 | 2024-08-03 |
 | [Soltera \- W Sound 01](https://open.spotify.com/track/13BDiikG6y5o5cQTK0HpW6) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Soltera \(W Sound 01\)](https://open.spotify.com/album/5UQC6N5rRND3GZKzysRdA4) | 2:22 | 2024-08-09 |  |

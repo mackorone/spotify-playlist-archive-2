@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-455 songs - 1 day 3 hr 4 min
+455 songs - 1 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [I'm A Blessed Man](https://open.spotify.com/track/4qJZP0xc9qgitasa1U1AzA) | [Leroy Styles](https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif), [Mister Vi](https://open.spotify.com/artist/2kDrLqHECtvseToY2KBq2L) | [Rebirth](https://open.spotify.com/album/3A86ZfahL8jBCWGT1Put5n) | 9:56 | 2022-12-05 | 2024-02-02 |
 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 | 2022-09-09 | 2023-10-05 |
 | [If I Stay](https://open.spotify.com/track/09Ib2XztcUmNGD2iNPiQTg) | [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [If I Stay](https://open.spotify.com/album/1MJRA5NaQMs0KQs81sz4hX) | 3:28 | 2024-10-10 |  |
+| [In Search of Yang](https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [Yatta!](https://open.spotify.com/album/14miHHQBXPPlt61Ax0SK2W) | 4:31 | 2026-01-22 |  |
 | [In The Moment](https://open.spotify.com/track/1WiiMZbCeTvNlHOUGYjFLY) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [In The Moment](https://open.spotify.com/album/2qEeyPLUMRbuKlXE30EokH) | 3:53 | 2025-06-19 |  |
 | [In Touch \(feat\. Daul\)](https://open.spotify.com/track/6XPY03nLWtiZOIkTs2IBjN) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g), [Charli Taft](https://open.spotify.com/artist/1SLtuLzX7bWXs78mRvEsM1), [Daul](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc) | [In Touch \(feat\. Daul\)](https://open.spotify.com/album/5ewjsi9Fd4yMPsdaUus5VY) | 3:41 | 2022-09-09 | 2022-09-16 |
 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 | 2022-09-09 | 2023-10-05 |
@@ -425,7 +426,6 @@
 | [Too Big \- Atjazz Remix](https://open.spotify.com/track/2PsqQ6h3BoK1nLoTsUqTUv) | [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn), [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [Too Big \(Atjazz Remix\)](https://open.spotify.com/album/2Mpkl9q3cLbupeV9g3NeAs) | 4:08 | 2022-09-22 | 2022-09-28 |
 | [too fast](https://open.spotify.com/track/6GZ4qfWtm0xjKPw5EKSdze) | [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [too fast](https://open.spotify.com/album/6UV79NnkVMC2doyJeC4twp) | 3:14 | 2024-04-25 | 2025-12-13 |
 | [Too Much](https://open.spotify.com/track/74lXEOR1jwNlqIRGXdcIn7) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [edbl & friends – Jackson Mathod](https://open.spotify.com/album/4Dm4vJNsXbsutvoeNRqjSI) | 2:52 | 2023-10-05 | 2024-09-27 |
-| [Track 1](https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-22 |  |
 | [Treat Me Like A Star](https://open.spotify.com/track/76IEzUmZmrOoThFx0vKX4o) | [Naoma](https://open.spotify.com/artist/36QZEGnq3QtTsA1HtNe3QF) | [Treat Me Like A Star](https://open.spotify.com/album/40oatx8U2yVPoeccSUfQ1G) | 3:25 | 2025-03-13 |  |
 | [Treat U Good](https://open.spotify.com/track/7tqs4OKzl896INyq5af4Qu) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Lyriya](https://open.spotify.com/artist/3kh6Ltl9keXAm5NcLvdSjI), [MERON](https://open.spotify.com/artist/1PUEwFv131uL8pigp6fNlG) | [Treat U Good](https://open.spotify.com/album/3ClRTsQuJUaUg340vgZDOA) | 3:37 | 2022-09-09 | 2024-03-21 |
 | [Trippin](https://open.spotify.com/track/2VTV2S3TThrY5fGjWHZ6yu) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Trippin](https://open.spotify.com/album/5czzOP2xMdJJybVvju91DF) | 3:10 | 2023-11-16 | 2024-03-21 |

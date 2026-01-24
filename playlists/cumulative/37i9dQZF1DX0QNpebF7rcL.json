@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 209888,
       "name": "Can't Shake It",
       "url": "https://open.spotify.com/track/0mzkzGp6soO8mqdMxjXNt8"
@@ -2374,7 +2374,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 230687,
       "name": "Driftin' And Driftin'",
       "url": "https://open.spotify.com/track/407IbQLCqkrqTL1UcfYOFI"
@@ -2718,6 +2718,24 @@
       "duration_ms": 358000,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/34bh0YiU4EwtgtGnEoLjko"
+    },
+    {
+      "album": {
+        "name": "How Did I Ever Get This Blue",
+        "url": "https://open.spotify.com/album/5WqWzHGGF2pxly2Mcu4xfo"
+      },
+      "artists": [
+        {
+          "name": "Solomon Hicks",
+          "url": "https://open.spotify.com/artist/6wOhfVrtGnmbLlgcAHSR1k"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194610,
+      "name": "Flyin\u2019 High [Yesterday]",
+      "url": "https://open.spotify.com/track/2dl5oYgHph3A1HiNJI5nOS"
     },
     {
       "album": {
@@ -3468,6 +3486,42 @@
       "duration_ms": 308573,
       "name": "Heavy Soul",
       "url": "https://open.spotify.com/track/3aZtRvQ7PvcquxVGjNYJDZ"
+    },
+    {
+      "album": {
+        "name": "Hell or High Water",
+        "url": "https://open.spotify.com/album/1TxrD5ueL94W1e5pZeBzps"
+      },
+      "artists": [
+        {
+          "name": "Altered Five Blues Band",
+          "url": "https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270122,
+      "name": "Hell or High Water",
+      "url": "https://open.spotify.com/track/7jrbzrew5vadFEnJfrwwvQ"
+    },
+    {
+      "album": {
+        "name": "Hell Or High Water",
+        "url": "https://open.spotify.com/album/5iBCXTVY0QnvyAhpiNONTF"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221546,
+      "name": "Hell Or High Water",
+      "url": "https://open.spotify.com/track/5CVi1Y4FCzWAi9cY1gHl8K"
     },
     {
       "album": {
@@ -5586,7 +5640,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 302146,
       "name": "Love Lives Here",
       "url": "https://open.spotify.com/track/12DquyXLBUV1fWw47GCHLI"

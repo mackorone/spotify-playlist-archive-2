@@ -2660,7 +2660,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 222000,
       "name": "Baianidade Nag\u00f4",
       "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
@@ -2764,7 +2764,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 215173,
       "name": "Balan\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/4LKgxetmy9aos6dDYI7oPw"
@@ -4662,6 +4662,24 @@
       "duration_ms": 151458,
       "name": "Ciumeira",
       "url": "https://open.spotify.com/track/5xy5b7EWPTCINHJF4izEWJ"
+    },
+    {
+      "album": {
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/05vHoRRovirQAL58SCHNBZ"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265166,
+      "name": "Clara",
+      "url": "https://open.spotify.com/track/39wmwAYmZBUiH6uZmXcKoz"
     },
     {
       "album": {
@@ -7352,7 +7370,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 426853,
       "name": "Estrela Misteriosa",
       "url": "https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG"
@@ -9530,7 +9548,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 191428,
       "name": "Jorge",
       "url": "https://open.spotify.com/track/7JBSCK1NkJDBpGiNmaxJdn"
@@ -11518,6 +11536,58 @@
       "duration_ms": 223814,
       "name": "Meu Xam\u00eago",
       "url": "https://open.spotify.com/track/6QxiCm6uV6L1LbkiiXDJ7i"
+    },
+    {
+      "album": {
+        "name": "MINHA DONA",
+        "url": "https://open.spotify.com/album/1fxj7pL90vKI8brpykZlS5"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149770,
+      "name": "MINHA DONA",
+      "url": "https://open.spotify.com/track/6HH3crASyfANv6O2rHaLe2"
+    },
+    {
+      "album": {
+        "name": "BEM ME QUER / MINHA FLOR",
+        "url": "https://open.spotify.com/album/7IzEEUAuO7NNdXoRK3KMoo"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Tom Veloso",
+          "url": "https://open.spotify.com/artist/2RlqD2JzVpxnnPxuBfV6wu"
+        },
+        {
+          "name": "Moreno Veloso",
+          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "MINHA FLOR",
+      "url": "https://open.spotify.com/track/2pN0iVbrmmja8zlJne0fvS"
     },
     {
       "album": {
@@ -15913,6 +15983,24 @@
     },
     {
       "album": {
+        "name": "Praia Vermelha do Sul",
+        "url": "https://open.spotify.com/album/1IRdFuzbxGfwJS8I8sqw8T"
+      },
+      "artists": [
+        {
+          "name": "Leo Middea",
+          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211367,
+      "name": "Praia Vermelha do Sul",
+      "url": "https://open.spotify.com/track/4xDiyA9dqXSa2288dig5QQ"
+    },
+    {
+      "album": {
         "name": "Prazer Carnal",
         "url": "https://open.spotify.com/album/7DWExuvGnXS0T4QEKzePbn"
       },
@@ -19077,6 +19165,24 @@
     },
     {
       "album": {
+        "name": "Sonhando o Futuro",
+        "url": "https://open.spotify.com/album/3zMVuA9xdKA7KKaqy1crSy"
+      },
+      "artists": [
+        {
+          "name": "14 Bis",
+          "url": "https://open.spotify.com/artist/4cz8toptnAtxffn7ghNjyp"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261043,
+      "name": "Sonhando o Futuro",
+      "url": "https://open.spotify.com/track/351MxF9HAAqxb33O6SCiRl"
+    },
+    {
+      "album": {
         "name": "SONHO BOM",
         "url": "https://open.spotify.com/album/5tOnASOYXTSWDPQyO1mFLS"
       },
@@ -22230,7 +22336,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 217110,
       "name": "Viver e Morrer de Amor na Am\u00e9rica Latina",
       "url": "https://open.spotify.com/track/3TVYMQwSxHsXp0di9etUWo"

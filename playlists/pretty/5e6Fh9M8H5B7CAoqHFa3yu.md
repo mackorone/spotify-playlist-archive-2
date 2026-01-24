@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 244 likes - 1,807 songs - 4 day 13 hr 21 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 246 likes - 1,809 songs - 4 day 13 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1815,5 +1815,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1805 | [La calle de la alegría](https://open.spotify.com/track/37LUExe8QBouKJhLAyeuTt) | [Javi Cobo](https://open.spotify.com/artist/3LCeawe313weY7jgIYBzkQ) | [La calle de la alegría](https://open.spotify.com/album/4WaspnySUvKQXHtGrnjIom) | 3:39 |
 | 1806 | [Variaciones Sobre El Ana Becoaj](https://open.spotify.com/track/7345YRwYg0D0hA8hohOIKD) | [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Música incidental para teatro](https://open.spotify.com/album/28CBQ2x1QyFzGixal6eWXo) | 4:20 |
 | 1807 | [Dolomiti Soul](https://open.spotify.com/track/5Cv5soORtinC12J1ruavkG) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Dolomiti Soul](https://open.spotify.com/album/543B54L2yjcDlvxZQZCJfR) | 3:52 |
+| 1808 | [silhouette](https://open.spotify.com/track/09NzL0ub22tTmCzFdy1XtS) | [LadyBoy](https://open.spotify.com/artist/3EyEQIrSwLWmL5WikGao8Q) | [silhouette](https://open.spotify.com/album/6fPCeSZ7FEeCckpd2h0bqZ) | 3:54 |
+| 1809 | [Butterfly Kiss](https://open.spotify.com/track/1t4p0VwndjAOsMjd8Pa1C3) | [Eufrocina Manigos and Eyvind Bilstad](https://open.spotify.com/artist/31q4JP429LpIl1OEibwldo) | [Butterfly Kiss](https://open.spotify.com/album/3M4YLDUmXNLIzPDoFv8wGF) | 4:28 |
 
-Snapshot ID: `AAAH5LooEJWMwHWj2eMtYlB3B4o1PDO2`
+Snapshot ID: `AAAH5oJA93pkJ8y1+c+d6QleE8x3Af+j`

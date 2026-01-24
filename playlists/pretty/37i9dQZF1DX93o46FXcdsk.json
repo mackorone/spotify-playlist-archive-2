@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 00's. Cover: Guus Meeuwis",
-  "num_followers": 49575,
+  "num_followers": 49596,
   "original_name": "00's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -589,6 +589,22 @@
       "url": "https://open.spotify.com/track/0UYgUTN6DpaHqeSaru3Gqw"
     },
     {
+      "added_at": "2021-11-22 15:25:46",
+      "album": {
+        "name": "Muzikanten Dansen Niet",
+        "url": "https://open.spotify.com/album/0oVWWldlWhw01N8NyEbCCy"
+      },
+      "artists": [
+        {
+          "name": "De Dijk",
+          "url": "https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "Dat Zou Mooi Zijn",
+      "url": "https://open.spotify.com/track/0GkwHMM9VGkIf3d6mJqZdp"
+    },
+    {
       "added_at": "2020-02-10 14:27:21",
       "album": {
         "name": "The Singles Collection",
@@ -607,22 +623,6 @@
       "duration_ms": 171080,
       "name": "Hoe",
       "url": "https://open.spotify.com/track/3w3IGsMYKM4pXZIYIBW3Gk"
-    },
-    {
-      "added_at": "2021-11-22 15:25:46",
-      "album": {
-        "name": "Muzikanten Dansen Niet",
-        "url": "https://open.spotify.com/album/0oVWWldlWhw01N8NyEbCCy"
-      },
-      "artists": [
-        {
-          "name": "De Dijk",
-          "url": "https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "Dat Zou Mooi Zijn",
-      "url": "https://open.spotify.com/track/0GkwHMM9VGkIf3d6mJqZdp"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 246626,
-      "name": "Hier",
-      "url": "https://open.spotify.com/track/3haBN4UKYahsxHfsRotKvU"
+      "duration_ms": 259773,
+      "name": "Dichterbij Dan Ooit",
+      "url": "https://open.spotify.com/track/1FjeCYFor4B5O3LHaR8eW3"
     },
     {
       "added_at": "2020-02-10 14:27:21",

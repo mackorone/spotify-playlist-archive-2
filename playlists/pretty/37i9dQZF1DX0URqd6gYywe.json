@@ -1,6 +1,6 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: El Zar feat. No Te Va Gustar",
-  "num_followers": 168283,
+  "num_followers": 168316,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
@@ -959,6 +959,22 @@
     {
       "added_at": "2025-09-08 17:16:31",
       "album": {
+        "name": "Los Dos",
+        "url": "https://open.spotify.com/album/0Ws2WWNt8G4V9O61K6eZSK"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "Los Dos",
+      "url": "https://open.spotify.com/track/39m0KJWhZUojRFi9k1m21E"
+    },
+    {
+      "added_at": "2025-09-08 17:16:31",
+      "album": {
         "name": "Portal Sessions - Dillom y Santiago Motorizado",
         "url": "https://open.spotify.com/album/6p7BVraR1uyGLMbTiLay74"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 330843,
       "name": "La Noche Eterna (Portal Sessions)",
       "url": "https://open.spotify.com/track/1NSgsMDyyRWVUMcfDRerEg"
-    },
-    {
-      "added_at": "2025-09-08 17:16:31",
-      "album": {
-        "name": "Los Dos",
-        "url": "https://open.spotify.com/album/0Ws2WWNt8G4V9O61K6eZSK"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 211440,
-      "name": "Los Dos",
-      "url": "https://open.spotify.com/track/39m0KJWhZUojRFi9k1m21E"
     },
     {
       "added_at": "2025-09-08 17:16:31",

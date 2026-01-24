@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-129 songs - 7 hr 26 min
+132 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Ask Me Why](https://open.spotify.com/track/0FXqsSgfEQhk3gsLs8FKyL) | [Elandra](https://open.spotify.com/artist/7v6meC75PAbtwyenxZnZaK) | [Ask Me Why](https://open.spotify.com/album/1A6vohn8A6e7Gn8mN5Ob0H) | 3:32 | 2025-11-15 | 2026-01-17 |
 | [Bacardi Love.](https://open.spotify.com/track/6P8S17uPnnLSEf2XPtDPbJ) | [Flow State Experience](https://open.spotify.com/artist/7l4P3Pkgf6vqqhdQLG7vrl) | [Bacardi Love.](https://open.spotify.com/album/4qK19G4ytKA2L8MYT6u2JQ) | 1:53 | 2025-11-07 | 2026-01-17 |
 | [Bloodsport](https://open.spotify.com/track/66wM8T14qRselu34qFBhC2) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Pain to Power](https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj) | 3:42 | 2025-11-01 | 2026-01-17 |
-| [California](https://open.spotify.com/track/00NvDiyBeyErGKoPKAW8GH) | [GCProductions](https://open.spotify.com/artist/524uMXhv7f1HWx04B6CsXj) | [California](https://open.spotify.com/album/3TuKbkTwwZvdpZ5lYyZJTo) | 3:24 | 2026-01-16 |  |
+| [California \- Radio Edit](https://open.spotify.com/track/00NvDiyBeyErGKoPKAW8GH) | [GCProductions](https://open.spotify.com/artist/524uMXhv7f1HWx04B6CsXj) | [California \(Radio Edit\)](https://open.spotify.com/album/3TuKbkTwwZvdpZ5lYyZJTo) | 3:24 | 2026-01-16 |  |
 | [Call Your Mama \(Don't Call Me\)](https://open.spotify.com/track/4b2xYezRYlT9jf6nKxPOwT) | [J0VANNA](https://open.spotify.com/artist/1ILEWunbo2Yr5xi6LXJtGy) | [Call Your Mama \(Don't Call Me\)](https://open.spotify.com/album/3WPYj0X3qC3jPwzyr3jekD) | 4:15 | 2025-10-17 | 2025-12-12 |
 | [Carry Me](https://open.spotify.com/track/3HlzhD5JzCOl28ZyYaBMl7) | [ORA BLU](https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh) | [Carry Me](https://open.spotify.com/album/4CsWROryalOsNgDTZGV2ct) | 3:18 | 2025-12-12 |  |
 | [Chapiteau](https://open.spotify.com/track/06e4iSfNG6XVts53EnG91O) | [Neona](https://open.spotify.com/artist/3VE3HoeJRsX7NetnHwDSlp) | [Chapiteau](https://open.spotify.com/album/2o4zfUINIDlrpyMzk2d1Lm) | 2:17 | 2025-11-01 | 2026-01-15 |
@@ -52,6 +52,7 @@
 | [Half\-Blood](https://open.spotify.com/track/5AFcFKZCB62xZ1Tb0bV9Gr) | [Laylo](https://open.spotify.com/artist/5ENIBFuGai1t1NPOaUaqoX) | [Roots](https://open.spotify.com/album/1QiKkAgvwZVBfHKHVdta5C) | 2:49 | 2025-12-15 |  |
 | [Hamster Wheel](https://open.spotify.com/track/1HVZRpGwLyDY4VmNCGTaqY) | [seat](https://open.spotify.com/artist/2FrT1MucFCuKxmcnE5CZoM) | [Hamster Wheel](https://open.spotify.com/album/7srh7QnQEZGmN2dgtcn4O7) | 4:06 | 2025-11-04 | 2026-01-15 |
 | [Hanging Out In My Head](https://open.spotify.com/track/09Kdd69AOxLmALBRbGxiqV) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Burning Bridges Into Dust](https://open.spotify.com/album/0oaZ08v4YoczsjVyRF1llG) | 2:49 | 2025-11-02 | 2026-01-17 |
+| [Hardly Know Her](https://open.spotify.com/track/2UaCdxvJaX7lmezW3YiGIf) | [Lipstick](https://open.spotify.com/artist/7uFXs2KLMId1XYKLSbQlzv) | [Hardly Know Her](https://open.spotify.com/album/5kpOB3QejOEIWHmcJ8nZlE) | 3:09 | 2026-01-23 |  |
 | [Heading Out](https://open.spotify.com/track/37JTgHjdSzi6RDZAjz6Blg) | [Velvet Static](https://open.spotify.com/artist/6F0VPim2a3o1M64nwGGRv2) | [Heading Out](https://open.spotify.com/album/3MHolAh5hdccEvWypHo6qy) | 4:47 | 2025-11-17 | 2026-01-17 |
 | [High and Low](https://open.spotify.com/track/7aJokZHlQxlEbNXYZiOA0p) | [Slim Loris](https://open.spotify.com/artist/4i1M26n7NN5vINKv3VfuHu) | [High and Low](https://open.spotify.com/album/5tGCGKKNwOF4w2vj17Cut9) | 3:20 | 2025-11-09 | 2026-01-17 |
 | [Hold On Til You Let Go \(Tourist Version\)](https://open.spotify.com/track/7nkBhPsOjWRjvTGZI1DPyz) | [Michael Barrow & the Tourists](https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE) | [Hold On Til You Let Go](https://open.spotify.com/album/1BXaEV0oVzH4Uch6fuClSf) | 3:03 | 2025-12-23 |  |
@@ -70,6 +71,7 @@
 | [let me down](https://open.spotify.com/track/3GNrt3MEs5gaHGJRVuuoDr) | [Pixie Cola](https://open.spotify.com/artist/50vL1eTCa1R40d6BMCkX4G) | [let me down](https://open.spotify.com/album/1zbr6mwb5gTnPWHqQnCYrm) | 3:41 | 2025-10-30 | 2026-01-17 |
 | [Little Self\-Indulgent](https://open.spotify.com/track/6MIEwxpFDX4AeOhYJejFPv) | [Western Jaguar](https://open.spotify.com/artist/71axwQvFwcRQJmwodhoGR3) | [Kaleidoscope](https://open.spotify.com/album/2wkD37IBLLNRoCPfXEMY53) | 3:00 | 2026-01-20 |  |
 | [Look at me](https://open.spotify.com/track/59O07Sj5VVQ8SXeuHCltN7) | [LOOSER](https://open.spotify.com/artist/74MOUfrsLMzoBLl5ssKkGk) | [Look at me](https://open.spotify.com/album/65GQNjC1rd9j7mc4rflmQg) | 4:05 | 2025-11-11 | 2026-01-17 |
+| [Lot 6](https://open.spotify.com/track/1nFBLa9z3aNQReOtonsTFY) | [Mavis](https://open.spotify.com/artist/2qpx3DGtYPLO2upKev1nxG) | [Lot 6](https://open.spotify.com/album/2xlOHmTUeDsLd1p6oED4jO) | 6:40 | 2026-01-23 |  |
 | [Love Leave Your Mark on Me](https://open.spotify.com/track/6JF4J1iAfWbQzrPC24U1jm) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Postcards in Real Time](https://open.spotify.com/album/3Fvr14rluzBR0ztgtUSxDx) | 3:43 | 2025-12-19 |  |
 | [LUV STRUCK](https://open.spotify.com/track/27lMGJ24Ry90rS18akyYnT) | [Hxtra](https://open.spotify.com/artist/5UWCbi9dD4BzERjl7b3Neb) | [9 2 5](https://open.spotify.com/album/3trknleJinlGnyzjZRTi40) | 2:24 | 2026-01-03 |  |
 | [Machete](https://open.spotify.com/track/5qoNe1iZ1yZCeFYlWqRbx1) | [Gena Perala](https://open.spotify.com/artist/49SGUG6CqLLqOSOYeMzunF) | [Machete](https://open.spotify.com/album/18SVDGTQeAPS7ecCtveXp7) | 3:13 | 2025-10-17 | 2025-12-12 |
@@ -114,6 +116,7 @@
 | [Surge](https://open.spotify.com/track/4tQsM9IalKTHhkhHVQiltP) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Surge](https://open.spotify.com/album/7N230KyMTKvE3eGFjov7ew) | 3:22 | 2026-01-12 |  |
 | [Sweet Lover](https://open.spotify.com/track/7bV3prZwAoq9mekXMRXm0U) | [Miller Matthews](https://open.spotify.com/artist/18qZ4JJVQNtaFfreNnZkFr), [KAY BRETTE](https://open.spotify.com/artist/5upymWMVUM7pZ2XvrUDyZo) | [Sweet Lover](https://open.spotify.com/album/1KulyKHZhq2GB61l239sbp) | 2:59 | 2025-10-30 | 2026-01-17 |
 | [The Axe And The Tree](https://open.spotify.com/track/60keYGcrWfPvBNn53Ho0wY) | [TULLE](https://open.spotify.com/artist/6OiVFeVhtP4mo9QSVheiuI) | [The Axe And The Tree](https://open.spotify.com/album/0RtdVvj5nOgkx9tDdoJeq0) | 3:50 | 2025-10-29 | 2026-01-17 |
+| [The Battlefield](https://open.spotify.com/track/6ZsI0iTfApqX1fFczChBrk) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Archive](https://open.spotify.com/album/1fG3rsdIsT9i2ysubVZQAH) | 4:42 | 2026-01-23 |  |
 | [The Endless Road](https://open.spotify.com/track/2VanWVfCTkKfP3pFGAPdzj) | [La Marti](https://open.spotify.com/artist/54APiQm3k38o1R11DK1GkV) | [LOOP](https://open.spotify.com/album/6CwPqLs2ZG7oAqGj7DDpzS) | 3:15 | 2025-10-24 | 2025-12-12 |
 | [The Immortal Man](https://open.spotify.com/track/5ph8vrJG60fZ5s4kp4SlrQ) | [Euan Merchill](https://open.spotify.com/artist/2IgZ6614NLgSh7SUv55fDz) | [The Immortal Man](https://open.spotify.com/album/10MDJ4CXiHCfZxX5O7ROEE) | 1:27 | 2025-11-15 | 2026-01-17 |
 | [The queen and the tearaway](https://open.spotify.com/track/6RzjgO7QhYIYbNZGVE4LQI) | [good afternoon](https://open.spotify.com/artist/51AUWbI67m6qAMG9NCZDJ2) | [The queen and the tearaway](https://open.spotify.com/album/1BKkGNtx5n0Rvmvyv25hXp) | 3:27 | 2025-11-02 | 2026-01-17 |

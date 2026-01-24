@@ -1,12 +1,12 @@
 {
   "description": "Original and synced songs that will stay with you long after the credits roll...Cover: Ice Spice",
-  "num_followers": 161787,
+  "num_followers": 161786,
   "original_name": "needle drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOygJlnhO50gGQUxJJCvpK9CWzDi",
+  "snapshot_id": "AAAAAH2PZ/41K+wVhzRj0HS4GtuLAB3w",
   "tracks": [
     {
       "added_at": "2025-11-19 16:56:09",
@@ -23,22 +23,6 @@
       "duration_ms": 150733,
       "name": "Big Guy - from \"The SpongeBob Movie: Search for SquarePants\u201d",
       "url": "https://open.spotify.com/track/3HiCAjMaPfM4vnbhLhADBp"
-    },
-    {
-      "added_at": "2026-01-01 14:00:21",
-      "album": {
-        "name": "Purple Rain",
-        "url": "https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 354133,
-      "name": "When Doves Cry",
-      "url": "https://open.spotify.com/track/6sby78fghipoXHQLeeZFFH"
     },
     {
       "added_at": "2025-11-19 16:56:09",
@@ -59,6 +43,38 @@
       "duration_ms": 190822,
       "name": "Zoo - From \"Zootopia 2\"",
       "url": "https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN"
+    },
+    {
+      "added_at": "2026-01-23 05:00:13",
+      "album": {
+        "name": "I\u2019m Good (From The Movie \u201cGOAT\u201d)",
+        "url": "https://open.spotify.com/album/45mBhso0bpjGCjrHoQ9Tpa"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 179666,
+      "name": "I\u2019m Good - From The Movie \u201cGOAT\u201d",
+      "url": "https://open.spotify.com/track/4Rse4e9moG5PKR61F7ah28"
+    },
+    {
+      "added_at": "2026-01-01 14:00:21",
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 354133,
+      "name": "When Doves Cry",
+      "url": "https://open.spotify.com/track/6sby78fghipoXHQLeeZFFH"
     },
     {
       "added_at": "2026-01-09 05:00:23",
@@ -931,34 +947,6 @@
       "duration_ms": 241306,
       "name": "London Bridge",
       "url": "https://open.spotify.com/track/7K2IeEefMiK8sDL8RBvXw2"
-    },
-    {
-      "added_at": "2025-07-11 10:07:31",
-      "album": {
-        "name": "ZOMBIES 4: Dawn of the Vampires (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6Pbfaaiw90G9rK2mhmSd4Q"
-      },
-      "artists": [
-        {
-          "name": "Freya Skye",
-          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
-        },
-        {
-          "name": "Malachi Barton",
-          "url": "https://open.spotify.com/artist/3fknxSm9gKHsiN2C6lcRme"
-        },
-        {
-          "name": "ZOMBIES \u2013 Cast",
-          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Dream Come True",
-      "url": "https://open.spotify.com/track/0kh3Vsiqf3LWNP7dIMxqYO"
     },
     {
       "added_at": "2025-04-10 04:08:15",

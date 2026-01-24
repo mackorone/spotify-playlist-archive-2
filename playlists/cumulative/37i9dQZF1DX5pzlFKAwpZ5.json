@@ -2265,6 +2265,24 @@
     },
     {
       "album": {
+        "name": "Life After Life",
+        "url": "https://open.spotify.com/album/7FCjw9Fl0Mlrsrx9yzasaJ"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232300,
+      "name": "Hoshi no Jikan",
+      "url": "https://open.spotify.com/track/6U2oocUrAiMp9F8k4Khaa3"
+    },
+    {
+      "album": {
         "name": "above the northern skies shown",
         "url": "https://open.spotify.com/album/6ix0ytl7g6oX25BhW6omzW"
       },
@@ -2949,6 +2967,28 @@
     },
     {
       "album": {
+        "name": "Life Of Blessing",
+        "url": "https://open.spotify.com/album/7CqdD4xQtGEyAf1p7gAeVB"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        },
+        {
+          "name": "\u4e95\u53e3 \u5bdb",
+          "url": "https://open.spotify.com/artist/5LblBo8BWf1f8OjpKaffLt"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121374,
+      "name": "Life Of Blessing",
+      "url": "https://open.spotify.com/track/2qqK382uhnhiW5OYY6Ymwh"
+    },
+    {
+      "album": {
         "name": "async",
         "url": "https://open.spotify.com/album/55BwNuGPkSSKOCBkTSCQWA"
       },
@@ -3350,6 +3390,24 @@
       "duration_ms": 163384,
       "name": "Moon",
       "url": "https://open.spotify.com/track/6rOc7kTPNL6SxSVugGlPoG"
+    },
+    {
+      "album": {
+        "name": "Moon Dance in Tokyo",
+        "url": "https://open.spotify.com/album/07BA8mB6Q7tC9uJ5ySSTPr"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Psychedelic Orchestra",
+          "url": "https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154128,
+      "name": "Moon Dance in Tokyo",
+      "url": "https://open.spotify.com/track/75gDBaEbluCQhtnEM8diCY"
     },
     {
       "album": {
@@ -5080,7 +5138,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 187693,
       "name": "SUNNYSIDE OF THE WATER\uff0f\u6c34\u3068\u5149",
       "url": "https://open.spotify.com/track/2Qf0RR9hkZ8CSX2XoePVrv"
@@ -5264,7 +5322,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 275813,
       "name": "The Horizon - Sphontik Mix",
       "url": "https://open.spotify.com/track/3fqNfyRgCE2O16iDIqmSIQ"
@@ -6346,7 +6404,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 164668,
       "name": "\u4e95\u6238(well)",
       "url": "https://open.spotify.com/track/0H8xAysWqLKS2BGJ36jVtz"

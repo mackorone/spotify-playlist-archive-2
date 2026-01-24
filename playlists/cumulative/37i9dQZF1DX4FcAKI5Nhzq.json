@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: ALPHA DRIVE ONE)",
+  "description": "Future K-Pop hits! (Cover: LNGSHOT)",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -8932,7 +8932,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 160000,
       "name": "Fly Up",
       "url": "https://open.spotify.com/track/3GiYjd5959ktHZGSxOqmKe"
@@ -28256,6 +28256,24 @@
       "duration_ms": 231533,
       "name": "White Night (Feat. Loco)",
       "url": "https://open.spotify.com/track/6Z3YqTeAPKrptw70GpHJiO"
+    },
+    {
+      "album": {
+        "name": "white spring",
+        "url": "https://open.spotify.com/album/2MEB999yzrd3rNghmvCkwl"
+      },
+      "artists": [
+        {
+          "name": "MOMOLAND",
+          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "white spring",
+      "url": "https://open.spotify.com/track/3eNaNlSXrOg7aOwtIwtxZk"
     },
     {
       "album": {

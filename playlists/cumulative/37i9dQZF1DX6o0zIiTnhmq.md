@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-189 songs - 1 day 21 hr 14 min
+190 songs - 1 day 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Ajna Mantra for Third Eye Chakra with OM Sound](https://open.spotify.com/track/4HsePatOkDkoZLMZuWxAj6) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Ancient Chakra Healing Meditation Mantras](https://open.spotify.com/album/6mNn6zZJzjJeRRbuAjJbuy) | 1:00:14 | 2025-02-07 |  |
 | [Amitayus](https://open.spotify.com/track/57s4nYX7mglYseLG1RELMS) | [Buddhist Monks](https://open.spotify.com/artist/71M5KBWnBCoGYGJxudnGBW) | [Live Mantra](https://open.spotify.com/album/29QB7nHpA8SU435vVage0Y) | 2:51 | 2023-05-23 | 2023-06-09 |
 | [Antarjami Purakh Bidhate](https://open.spotify.com/track/6gKNIl2Cv47OKDa9JKwX40) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Positive Energy](https://open.spotify.com/album/7C97tpyMI6dTlWVAkWXBZ7) | 11:20 | 2022-01-24 |  |
+| [Bajrang Baan](https://open.spotify.com/track/1Ab0PsTSuqFjU3hxdzZ41t) | [GowraHari](https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80), [Saicharan Bhaskaruni](https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU), [Lokeshwar Edara](https://open.spotify.com/artist/7ag0al5P3y3IzzEh0G7YL8), [Harshavardhan Chavali](https://open.spotify.com/artist/4ViFjJxWBVs6VrXj72J05G) | [Bajrang Baan](https://open.spotify.com/album/4ElIZIv6fb4LRQpwIh8Kre) | 5:37 | 2026-01-22 |  |
 | [Beej Mantra](https://open.spotify.com/track/3VNUYQmYbWMzOuaHN3wTJj) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0) | [Ganesh](https://open.spotify.com/album/7Lz3EKOyxykUNf9Woixb8E) | 4:57 | 2024-09-05 |  |
 | [Bendición de Guru](https://open.spotify.com/track/5rNgiNxnzyeKYCVA9yTqSg) | [Lama Dorje](https://open.spotify.com/artist/1zTJulYHHc7xqncJh2qw9Z) | [Mantras Budista](https://open.spotify.com/album/7AfpljlxDdVVf4AQcpjamv) | 4:29 | 2024-12-30 |  |
 | [Bhairavi Vandana](https://open.spotify.com/track/2BPfuEhYccGXJe4nXCW9XT) | [Sounds of Isha](https://open.spotify.com/artist/07dLDdQaGtCzRksu1phXbG) | [Triveni: Durga, Lakshmi, Saraswati](https://open.spotify.com/album/5339WvUHRv9qRGG4G0pmQv) | 5:15 | 2023-05-23 |  |
@@ -55,7 +56,7 @@
 | [Ik Onkar \- Mool Mantra](https://open.spotify.com/track/7JKIryV7GlXMpbzF7QuLwC) | [Shagun Sodhi](https://open.spotify.com/artist/18IWXfTvhkmacvjOSh8OAB) | [Ik Onkar \- Mool Mantra](https://open.spotify.com/album/2F4KvMF2TeB5nIWZFZJAju) | 5:11 | 2025-01-13 |  |
 | [Jap Le Mannva](https://open.spotify.com/track/7sNeybpyjW2Pp2P0xe6pib) | [Imran Khan Sitar](https://open.spotify.com/artist/1UrxT8kr1FXLymiN3SWpEP), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Song Craft Season 1](https://open.spotify.com/album/6cyCyVWsO3y369yadNqbmA) | 4:00 | 2024-02-23 | 2024-09-14 |
 | [Kali Sahasranama](https://open.spotify.com/track/6ZwA6i0FoP5dKSsSrWfiDx) | [Shubhra Agnihotri](https://open.spotify.com/artist/6LHtfZj7IMdtlyYGh2JeUS) | [Kali Sahasranama](https://open.spotify.com/album/4DTZ5iAAy1TEzSBxRgcl6g) | 31:04 | 2025-02-07 | 2025-07-12 |
-| [Kali Sahasranama Stotram](https://open.spotify.com/track/7GmfyieeIgnRbdY7Cl4soT) | [Mugdha Vaishampayan](https://open.spotify.com/artist/6w3ORCH9s76YFNWrBDj14F) | [Kali Sahasranama Stotram](https://open.spotify.com/album/589GGuAPdfZxB59Rz2H4w0) | 31:29 | 2025-11-26 |  |
+| [Kali Sahasranama Stotram](https://open.spotify.com/track/7GmfyieeIgnRbdY7Cl4soT) | [Mugdha Vaishampayan](https://open.spotify.com/artist/6w3ORCH9s76YFNWrBDj14F) | [Kali Sahasranama Stotram](https://open.spotify.com/album/589GGuAPdfZxB59Rz2H4w0) | 31:29 | 2025-11-26 | 2026-01-24 |
 | [Kar Darshanam](https://open.spotify.com/track/2kavzWD9eedpa1ueYu79pW) | [Ravindra Sathe](https://open.spotify.com/artist/4I5QgST39jQbLzuWTgUKcX), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek), [Harish Bhimani](https://open.spotify.com/artist/4Ue0breeduMNArt1jlqe7d), [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Morning Mantras](https://open.spotify.com/album/08xbsX0guYMVjMe7oThBlp) | 1:01 | 2022-01-24 | 2022-07-29 |
 | [Kar Darshanam](https://open.spotify.com/track/46Uvk0oU8R4iQSM8OMCdVv) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Morning Mantras](https://open.spotify.com/album/7rZWkCmz3Eli2Q9WkOXV0W) | 1:01 | 2022-01-24 | 2023-08-11 |
 | [Kar Darshanam](https://open.spotify.com/track/4fY8FE3Pd1VgIyMvrBcr61) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Sunrise to Sunset, Vol\. 1](https://open.spotify.com/album/4FDIr0MnhY9R9YKaqOwdBa) | 1:01 | 2022-08-05 | 2022-11-13 |

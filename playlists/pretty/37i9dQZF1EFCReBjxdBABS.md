@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1SGzvyXf1Ctz00Sw5n9AVI">Trannie Anderson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240 likes - 127 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 241 likes - 127 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 19 | [Raised Up](https://open.spotify.com/track/4A36Q1EDsHuKUvhtpAVh0i) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:21 |
 | 20 | [Don't We All \(Acoustic\)](https://open.spotify.com/track/7kwSLtR8B2XOtBtorr372O) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 2:41 |
 | 21 | [Road Runner](https://open.spotify.com/track/6wd6VSMss7ALrAsPLhfbH7) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:46 |
-| 22 | [Hall of Fame](https://open.spotify.com/track/25oWLc556mMJDcbsFENDJ9) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:20 |
-| 23 | [It Won't Be Long](https://open.spotify.com/track/4L7H1toyQvfKJWNlD0RfHt) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [It Won't Be Long](https://open.spotify.com/album/1JXyyQl8aPFi9rAXwOF7pv) | 3:17 |
+| 22 | [It Won't Be Long](https://open.spotify.com/track/4L7H1toyQvfKJWNlD0RfHt) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [It Won't Be Long](https://open.spotify.com/album/1JXyyQl8aPFi9rAXwOF7pv) | 3:17 |
+| 23 | [Hall of Fame](https://open.spotify.com/track/25oWLc556mMJDcbsFENDJ9) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:20 |
 | 24 | [That's You](https://open.spotify.com/track/2szGXPcHEyElm9GCL8NP6J) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [That's You](https://open.spotify.com/album/3U7EtcuzL2mqr61AgQqsuy) | 3:24 |
 | 25 | [Imma](https://open.spotify.com/track/1LetZVYRkdAxamydcnD0WA) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [Country Born](https://open.spotify.com/album/0zprPpZyc5Ejc3Ng0NGFHA) | 2:54 |
 | 26 | [I Still Do](https://open.spotify.com/track/19QdvCPbLurBp8xDsdCh5O) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [Patient EP](https://open.spotify.com/album/6FJFs1f2LQWMMudboY9M1t) | 3:12 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 126 | [No Good Reason](https://open.spotify.com/track/2tR2GWXvBx0FGQI7n0os7c) | [Trannie Anderson](https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF) | [Heart Like a Songwriter](https://open.spotify.com/album/7fgCgwZc8AKPWwVfqPLNn1) | 3:39 |
 | 127 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcHqKgAAAAC06x6a5JEZTTDhP7GWAhVN`
+Snapshot ID: `AcHvjgAAAABFWMqrShI2+xxTkPQ7wcvW`

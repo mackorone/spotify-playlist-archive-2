@@ -1,12 +1,12 @@
 {
   "description": "De beste tracks in WS\u2757\ufe0fCover: KA",
-  "num_followers": 708445,
+  "num_followers": 708446,
   "original_name": "Woordenschat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABjPzqQ3N3GuDq477w5lO/jfDx3W",
+  "snapshot_id": "AAAAACz+Byk4wbp/Ea7it7G2esMECdDa",
   "tracks": [
     {
       "added_at": "2026-01-22 23:00:48",
@@ -71,22 +71,6 @@
     {
       "added_at": "2026-01-22 23:00:48",
       "album": {
-        "name": "De Laatste Sprint",
-        "url": "https://open.spotify.com/album/1EzVpVYDBYqs5yBtyeJuMe"
-      },
-      "artists": [
-        {
-          "name": "OYSTER",
-          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
-        }
-      ],
-      "duration_ms": 211304,
-      "name": "De Laatste Sprint",
-      "url": "https://open.spotify.com/track/2lV0iWyn789HzZX28uqfgO"
-    },
-    {
-      "added_at": "2026-01-22 23:00:48",
-      "album": {
         "name": "Reset",
         "url": "https://open.spotify.com/album/01YPoXB22upTPnELbZ1UBw"
       },
@@ -107,6 +91,22 @@
     {
       "added_at": "2026-01-22 23:00:48",
       "album": {
+        "name": "De Laatste Sprint",
+        "url": "https://open.spotify.com/album/1EzVpVYDBYqs5yBtyeJuMe"
+      },
+      "artists": [
+        {
+          "name": "OYSTER",
+          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
+        }
+      ],
+      "duration_ms": 211304,
+      "name": "De Laatste Sprint",
+      "url": "https://open.spotify.com/track/2lV0iWyn789HzZX28uqfgO"
+    },
+    {
+      "added_at": "2026-01-22 23:00:48",
+      "album": {
         "name": "NO DAYS OFF",
         "url": "https://open.spotify.com/album/2SXwIw8beU1KHJvIZ266Gc"
       },
@@ -123,6 +123,26 @@
       "duration_ms": 186438,
       "name": "NO DAYS OFF",
       "url": "https://open.spotify.com/track/2wNNAvXTcn1CvjcBdD32bB"
+    },
+    {
+      "added_at": "2026-01-22 23:00:48",
+      "album": {
+        "name": "Back2Back",
+        "url": "https://open.spotify.com/album/0gzY56BVF881zHgjsA4FGs"
+      },
+      "artists": [
+        {
+          "name": "VL Disappear",
+          "url": "https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy"
+        },
+        {
+          "name": "Bokke8",
+          "url": "https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "Back2Back",
+      "url": "https://open.spotify.com/track/3fcGakFffsW9RNUPNGtf2P"
     },
     {
       "added_at": "2026-01-22 23:00:48",
@@ -167,26 +187,6 @@
     {
       "added_at": "2026-01-22 23:00:48",
       "album": {
-        "name": "Back2Back",
-        "url": "https://open.spotify.com/album/0gzY56BVF881zHgjsA4FGs"
-      },
-      "artists": [
-        {
-          "name": "VL Disappear",
-          "url": "https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy"
-        },
-        {
-          "name": "Bokke8",
-          "url": "https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB"
-        }
-      ],
-      "duration_ms": 193714,
-      "name": "Back2Back",
-      "url": "https://open.spotify.com/track/3fcGakFffsW9RNUPNGtf2P"
-    },
-    {
-      "added_at": "2026-01-22 23:00:48",
-      "album": {
         "name": "LONDON",
         "url": "https://open.spotify.com/album/6nExdJHSEkx8AUo5ObaQf3"
       },
@@ -216,8 +216,8 @@
           "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
         },
         {
-          "name": "Thez",
-          "url": "https://open.spotify.com/artist/1a56O1sBh6098HTcgEJDBV"
+          "name": "THEZ",
+          "url": "https://open.spotify.com/artist/5Eo75LPyKw1VknEGpMrcO6"
         }
       ],
       "duration_ms": 186382,
@@ -303,17 +303,21 @@
     {
       "added_at": "2026-01-22 23:00:48",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "BNT Vol. 1",
+        "url": "https://open.spotify.com/album/2hRFLumetrIxEE4py3GnJE"
       },
       "artists": [
         {
           "name": "Boufi",
           "url": "https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK"
+        },
+        {
+          "name": "Curved",
+          "url": "https://open.spotify.com/artist/3VYrPMiZNKklGWvhpcyojr"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 162404,
+      "name": "Mrowen",
       "url": "https://open.spotify.com/track/5yyW8v0QzgN3MkjgagDPGA"
     },
     {

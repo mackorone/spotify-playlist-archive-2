@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-531 songs - 1 day 1 hr 24 min
+533 songs - 1 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Hot In This](https://open.spotify.com/track/3g6ZgzRwat1GIdAyKPMT8i) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Currently On Earth](https://open.spotify.com/album/7fxZTHkdRmh3axTjquZTiT) | 2:40 | 2025-12-12 |  |
 | [How I Do It](https://open.spotify.com/track/333fbxlbE3rVYSp0OCkabS) | [Ailow](https://open.spotify.com/artist/270jtLW7Wr3QPEVoE2HAkB) | [How I Do It](https://open.spotify.com/album/1M9bBhw0L43VhmhwksYYFo) | 2:08 | 2022-06-09 | 2022-07-16 |
 | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu) | 3:02 | 2023-03-05 | 2023-04-09 |
+| [HYPERSAMPLE](https://open.spotify.com/track/4PxeI2UhB0ml9p8EDmH1X6) | [HIGHSOCIETY](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa) | [HYPERSAMPLE](https://open.spotify.com/album/1V5COHeSHUp5oJo4UEsglM) | 3:16 | 2026-01-23 |  |
 | [Hypnotize](https://open.spotify.com/track/4DKeltQJNLhYbiLmw8R0jc) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [Subsurface](https://open.spotify.com/artist/6CQXt8ky5LYUbahKIRzeZC) | [Hypnotize](https://open.spotify.com/album/73mVjickS83TdyJ4PUaYyG) | 2:37 | 2023-12-01 | 2025-04-27 |
 | [I Don't Miss U](https://open.spotify.com/track/5yHpXftp1WadoINgFucZTz) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [A Slushii Summer](https://open.spotify.com/album/10DadGGffvTnLB0kyr9YZn) | 2:43 | 2022-09-23 | 2022-12-10 |
 | [I Don't Need](https://open.spotify.com/track/4tprhjwyw50wkDHk2uEmyT) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [Rock It](https://open.spotify.com/album/0Va6IqwgpkDhMjHgZzt2qq) | 3:25 | 2024-07-19 | 2025-04-27 |
@@ -356,6 +357,7 @@
 | [No Crumbs](https://open.spotify.com/track/2zOJ6fmpd0T9oJLfXSpA1I) | [Crumb Pit](https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I) | [No Crumbs](https://open.spotify.com/album/0f6obn47vRBYI53s0UumAU) | 2:23 | 2025-04-18 |  |
 | [No Letting Go](https://open.spotify.com/track/07I7Hz83jHYGHXIJikhtff) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [No Letting Go](https://open.spotify.com/album/4iNWYE57VPq610LghtgtIS) | 2:18 | 2025-09-08 |  |
 | [No Turning Back \(feat\. Namelle\)](https://open.spotify.com/track/2pPPnvl7lARUARQZZU2e8c) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Namelle](https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3) | [No Turning Back \(feat\. Namelle\)](https://open.spotify.com/album/7jji2t4yyGdhWW4e1LKj47) | 2:55 | 2023-03-24 | 2025-04-27 |
+| [Not That Innocent](https://open.spotify.com/track/4Zn6WSY8SBZ4j83RwZQwII) | [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Not That Innocent](https://open.spotify.com/album/15U7DS0yalcE2kkNMNZK8T) | 1:51 | 2026-01-23 |  |
 | [Nothing On You](https://open.spotify.com/track/7xoot19ryXi8maMYeu08FD) | [Sangarang](https://open.spotify.com/artist/1lpYFtlybuldYAw2IyXjyI), [Chris Pree](https://open.spotify.com/artist/7EccQTucmvRW7s6DUy6pQb) | [Nothing On You](https://open.spotify.com/album/6V6eGyclS8zPqEEzLsHsOB) | 3:07 | 2023-12-07 | 2025-04-27 |
 | [Now That We Found Love](https://open.spotify.com/track/4x69WSo9kpkp0okxcm5Yzh) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [CODE/RED](https://open.spotify.com/album/3Ui5ZMET9cIriFK29bh1xr) | 2:32 | 2025-11-24 |  |
 | [Obsession](https://open.spotify.com/track/6pzwST348GM51L1zoZ65Or) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Obsession](https://open.spotify.com/album/2G8oQgv9JwmFvjJL20OK38) | 2:26 | 2024-06-07 | 2025-04-27 |

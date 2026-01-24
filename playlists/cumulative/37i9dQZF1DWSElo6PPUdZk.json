@@ -245,6 +245,28 @@
     },
     {
       "album": {
+        "name": "Aise Des",
+        "url": "https://open.spotify.com/album/0brmFtDiy4DbpKZNzmqqiK"
+      },
+      "artists": [
+        {
+          "name": "Sunanda Sharma",
+          "url": "https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY"
+        },
+        {
+          "name": "Raj Ranjodh",
+          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192307,
+      "name": "Aise Des",
+      "url": "https://open.spotify.com/track/5jxzK1xMJZwgFrSA8Jn1gk"
+    },
+    {
+      "album": {
         "name": "AKH",
         "url": "https://open.spotify.com/album/6B3afVYGezFl6PPl2qJXqB"
       },
@@ -2991,6 +3013,24 @@
     },
     {
       "album": {
+        "name": "Mad at U",
+        "url": "https://open.spotify.com/album/6SpSQjt8BqlXW8c2HESh0y"
+      },
+      "artists": [
+        {
+          "name": "Kaur B",
+          "url": "https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160056,
+      "name": "Mad at U",
+      "url": "https://open.spotify.com/track/5gUw3RlfeWfSPKoLGlGu5E"
+    },
+    {
+      "album": {
         "name": "Mai Margi Loko",
         "url": "https://open.spotify.com/album/6XCAunP1ozwfucQqX9CYG6"
       },
@@ -3222,7 +3262,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 161000,
       "name": "Matthe Te Chamkan",
       "url": "https://open.spotify.com/track/3g2WZIOYjpTkz9IPDtU8VK"
@@ -4698,7 +4738,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 147696,
       "name": "Sohneya Tainu",
       "url": "https://open.spotify.com/track/5yb11jSKNKiy9aDrRi0VXc"

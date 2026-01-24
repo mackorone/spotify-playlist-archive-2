@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 43217,
+  "num_followers": 43222,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXAXAAAAAAAJUHQ90PHlycgCMgwWrEKM",
+  "snapshot_id": "aXFogAAAAADouBPZI3hM2h5ewsVUrxVR",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Screen To Your Stereo 3",
-        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
+        "name": "Sticks And Stones",
+        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 196562,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/5RRPVODLjU7eQmxOek8DHQ"
+      "duration_ms": 226840,
+      "name": "Head On Collision",
+      "url": "https://open.spotify.com/track/11edIhzFAjPEVbZ92LQKwT"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sticks And Stones",
-        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
+        "name": "From The Screen To Your Stereo 3",
+        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 226840,
-      "name": "Head On Collision",
-      "url": "https://open.spotify.com/track/11edIhzFAjPEVbZ92LQKwT"
+      "duration_ms": 196562,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/5RRPVODLjU7eQmxOek8DHQ"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 207800,
-      "name": "Sonny",
-      "url": "https://open.spotify.com/track/4ZBmAdGxiCJ1V3r9kn9fKS"
+      "duration_ms": 189866,
+      "name": "Forget My Name",
+      "url": "https://open.spotify.com/track/12sw03e7UF7H8gn5Eqt58N"
     },
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 189866,
-      "name": "Forget My Name",
-      "url": "https://open.spotify.com/track/12sw03e7UF7H8gn5Eqt58N"
+      "duration_ms": 207800,
+      "name": "Sonny",
+      "url": "https://open.spotify.com/track/4ZBmAdGxiCJ1V3r9kn9fKS"
     },
     {
       "added_at": null,

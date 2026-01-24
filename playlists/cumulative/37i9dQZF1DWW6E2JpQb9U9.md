@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: El Mató a un Policía Motorizado.
 
-369 songs - 1 day 3 hr 50 min
+370 songs - 1 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [El Amor No Existe \- En Vivo](https://open.spotify.com/track/1zDK1iD8uUYhT3yExKFG1S) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Martin "Mono" Fabio](https://open.spotify.com/artist/2sgxHeMWSuLNXYeexvDuGe) | [El Amor No Existe \(En Vivo\)](https://open.spotify.com/album/14eqmcxSOymxp0BsNF6qkf) | 2:48 | 2022-04-01 | 2023-10-07 |
 | [El Balcón \- En Vivo](https://open.spotify.com/track/7ywbpggu1JZHDKCK153aTf) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Huellas Digitales \(En Vivo\)](https://open.spotify.com/album/61TR8ZaXw2iCrD4uxgex54) | 5:46 | 2022-04-01 | 2023-01-01 |
 | [El Bar de la Calle Rodney \- En Vivo](https://open.spotify.com/track/06Lb8SpBalxFjvFOD7MoCA) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Navegar Es Preciso \(En Vivo\)](https://open.spotify.com/album/4ocTAKR72ukLnPb93jRdLN) | 4:03 | 2022-06-10 | 2022-07-29 |
+| [El Cantar de los Anzuelos \- En Vivo en Argentinos Jrs](https://open.spotify.com/track/2zwlozi5lP3AgAqKLloR8u) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Vivo y celebrando en Argentinos Jrs](https://open.spotify.com/album/65zRm2x4JZBMxVGTdQL3AL) | 3:49 | 2026-01-23 |  |
 | [El Charro Chino \- En Vivo, Sábado 12 de Marzo de 2016 / Hipódromo de Tandil](https://open.spotify.com/track/7zSzpBTIDG5aHJCmTJptTx) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [El Charro Chino \(En Vivo, Sábado 12 de Marzo de 2016 / Hipódromo de Tandil\)](https://open.spotify.com/album/2OZE8Npt2GEVmM6WftWd0U) | 4:54 | 2024-03-14 |  |
 | [El Cinturón Gris \- En Vivo](https://open.spotify.com/track/7uDlTTxjH6r3iGqb3Gbxcv) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [El Cinturón Gris \(En Vivo\)](https://open.spotify.com/album/0Zci88FWoEEkKiRdNg4IiL) | 3:57 | 2023-07-14 | 2026-01-03 |
 | [El Corazón Sobre Todo \- En Vivo](https://open.spotify.com/track/3wPmnfALFXL8sAXUP7h1QK) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [En Vivo Gran Rex](https://open.spotify.com/album/20AJy90C3orLhXvUHid4iZ) | 4:10 | 2022-04-01 |  |
@@ -140,7 +141,7 @@
 | [Espadas y Serpientes \- Acústico en Vivo](https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Acústico,Teatro Opera, Buenos Aires, Argentina.](https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE) | 4:48 | 2022-04-01 |  |
 | [Espejismo \- En Vivo](https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O) | [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Los Fundamentalistas del Aire Acondicionado en Huracán \(En Vivo\)](https://open.spotify.com/album/0HBXl0BoyqkfJmxjrLtnqL) | 6:23 | 2023-09-14 |  |
 | [Espejo Roto \- Acústico Gran Rex Vol\. 2](https://open.spotify.com/track/2Alvbv4IXQh0SpSVyZxBZK) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Espejo Roto \(Acústico Gran Rex Vol\. 2\)](https://open.spotify.com/album/4nRnE0UCMcJ8f5KauYk0np) | 4:29 | 2024-04-18 |  |
-| [Esquina de la Sombra \- Vivo en Buenos Aires](https://open.spotify.com/track/1sefKirdjupi5Ai7rUjIck) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Correntada \(Vivo en Buenos Aires\)](https://open.spotify.com/album/0oEqZVAVscxdXe7kLDtJGI) | 4:02 | 2024-11-29 |  |
+| [Esquina de la Sombra \- Vivo en Buenos Aires](https://open.spotify.com/track/1sefKirdjupi5Ai7rUjIck) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Correntada \(Vivo en Buenos Aires\)](https://open.spotify.com/album/0oEqZVAVscxdXe7kLDtJGI) | 4:02 | 2024-11-29 | 2026-01-24 |
 | [Estoy Completamente Nervioso \- En Vivo \- Remasterizado](https://open.spotify.com/track/0XwsU1FkJ96PBYoAiS8Oev) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [En Concierto \(Remasterizado\)](https://open.spotify.com/album/5R1Xd9BBV8i9fX4MsmQ2Nb) | 3:37 | 2022-04-01 | 2022-07-09 |
 | [Facil \(En Vivo \- Sala Nini Marshall\)](https://open.spotify.com/track/3pE1nVUEIjKgB8H7uheBtq) | [Vozenoff](https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW) | [Vozenoff \(En Vivo Desde Ushuaia\)](https://open.spotify.com/album/2IQn8dtrVIXly0qHkLTnFs) | 3:10 | 2022-06-24 | 2022-07-15 |
 | [Fanky \(En Vivo\)](https://open.spotify.com/track/0y4NWYQEikgDDE9SyyU6RU) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Fanky \(En Vivo\)](https://open.spotify.com/album/1Tq3ZmiF3AR38Qmbd5hvZ6) | 5:03 | 2025-09-04 |  |

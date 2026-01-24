@@ -2493,6 +2493,24 @@
     },
     {
       "album": {
+        "name": "SABR",
+        "url": "https://open.spotify.com/album/4hulHoH8yPAQ6KPfxI9fyH"
+      },
+      "artists": [
+        {
+          "name": "Brysa",
+          "url": "https://open.spotify.com/artist/20bXifvyaank813LMJGw5G"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126666,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/27kceRNL5SVqdDISGA1Pcy"
+    },
+    {
+      "album": {
         "name": "Geeked",
         "url": "https://open.spotify.com/album/7kmTctZlEUekWH8JPSevoN"
       },
@@ -4466,6 +4484,24 @@
       "duration_ms": 126718,
       "name": "Mensenschuw",
       "url": "https://open.spotify.com/track/3HzeCBiXznhV1GPq02P6Vp"
+    },
+    {
+      "album": {
+        "name": "Mentality",
+        "url": "https://open.spotify.com/album/5Vfa1zOBB4Rda99O9oDjbF"
+      },
+      "artists": [
+        {
+          "name": "YG24",
+          "url": "https://open.spotify.com/artist/3A16zm3oPSNnetOrwp0TU6"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95477,
+      "name": "Mentality",
+      "url": "https://open.spotify.com/track/0EwDbNMMk23a5icdhPRADv"
     },
     {
       "album": {
@@ -6570,24 +6606,6 @@
       "duration_ms": 163265,
       "name": "TOXIC FIGHT",
       "url": "https://open.spotify.com/track/7abfIdlVR9lOV1PzsE3VjH"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Brysa",
-          "url": "https://open.spotify.com/artist/20bXifvyaank813LMJGw5G"
-        }
-      ],
-      "date_added": "2026-01-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/27kceRNL5SVqdDISGA1Pcy"
     },
     {
       "album": {

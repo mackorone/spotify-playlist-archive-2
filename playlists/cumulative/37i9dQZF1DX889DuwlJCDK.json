@@ -2587,6 +2587,24 @@
     },
     {
       "album": {
+        "name": "DIY",
+        "url": "https://open.spotify.com/album/40lBXGiHkC8ADfs5wip9jE"
+      },
+      "artists": [
+        {
+          "name": "\u540d\u8a89\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148567,
+      "name": "DIY",
+      "url": "https://open.spotify.com/track/2BwfC8I7Y7IqOGDq2P9qcV"
+    },
+    {
+      "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/5eaoO38FXRWLcrxwrtaNlW"
       },
@@ -12138,7 +12156,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 274733,
       "name": "Winterboy",
       "url": "https://open.spotify.com/track/6em5Z6ju1rH6A4FCpcGt5z"
@@ -17152,7 +17170,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 215965,
       "name": "\u30c8\u30e9\u30f3\u30b9\u30d5\u30a1\u30fc",
       "url": "https://open.spotify.com/track/1eiRefLrtxufPxIhtLAocB"
@@ -22598,7 +22616,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 387538,
       "name": "\u5fd8\u308c\u3066\u3057\u307e\u3044\u305d\u3046",
       "url": "https://open.spotify.com/track/7ANRDMXL1yKnJ5pGwuvXAU"

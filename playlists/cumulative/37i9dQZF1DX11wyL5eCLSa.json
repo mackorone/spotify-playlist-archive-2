@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Le\u00f3n Larregui en Portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Jumbo en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -3568,7 +3568,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 207652,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/40ObugIeVEbLJH8Ixgdr0V"
@@ -4608,6 +4608,24 @@
       "duration_ms": 200492,
       "name": "Eres Para M\u00ed - Sinf\u00f3nico En Vivo",
       "url": "https://open.spotify.com/track/30hP7rsy8RDu3t1ahdfiKV"
+    },
+    {
+      "album": {
+        "name": "Bisnesworld",
+        "url": "https://open.spotify.com/album/5Vm42fsf6xv991Q4gmU2W2"
+      },
+      "artists": [
+        {
+          "name": "De Nalgas",
+          "url": "https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160041,
+      "name": "Es Lo Que Hay",
+      "url": "https://open.spotify.com/track/1DgKuXooz3NjEZM2Y9oFPv"
     },
     {
       "album": {
@@ -8757,6 +8775,24 @@
     },
     {
       "album": {
+        "name": "Mortal",
+        "url": "https://open.spotify.com/album/4gLVnfmlXBr4Tu03a7I1YJ"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180030,
+      "name": "Mortal",
+      "url": "https://open.spotify.com/track/6rSDfuX1u4ppgpuUvrNYMI"
+    },
+    {
+      "album": {
         "name": "Lapeste",
         "url": "https://open.spotify.com/album/6cPThDDpJEvAyuqeRlqZgN"
       },
@@ -11248,7 +11284,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 216716,
       "name": "Rosa Pastel",
       "url": "https://open.spotify.com/track/7bxCh7glDIF88qCo33Fcxm"
@@ -11404,10 +11440,28 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 164331,
       "name": "Salir de la Ciudad",
       "url": "https://open.spotify.com/track/4yNZCw47a3WBAdMko6aj2E"
+    },
+    {
+      "album": {
+        "name": "Salta del Avi\u00f3n",
+        "url": "https://open.spotify.com/album/5Jh4CgWx5VE1RVonAc7L06"
+      },
+      "artists": [
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230082,
+      "name": "Salta del Avi\u00f3n",
+      "url": "https://open.spotify.com/track/52Yvna5RVvfeK3S3pKL4QU"
     },
     {
       "album": {

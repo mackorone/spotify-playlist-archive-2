@@ -4483,6 +4483,24 @@
     },
     {
       "album": {
+        "name": "Por un Pendejo no se llora (Salud mi Reina)",
+        "url": "https://open.spotify.com/album/2EruLTvow64kevFfTRKP6f"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151146,
+      "name": "Por un Pendejo no se llora - Salud mi Reina",
+      "url": "https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt"
+    },
+    {
+      "album": {
         "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
       },

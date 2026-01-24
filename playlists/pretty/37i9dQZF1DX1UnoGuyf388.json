@@ -1,13 +1,33 @@
 {
-  "description": "Pop music driving the current, every week.  Cover: Leigh-Anne",
-  "num_followers": 37780,
+  "description": "Pop music driving the current, every week.  Cover: Seyi Vibez & Omah Lay",
+  "num_followers": 37784,
   "original_name": "Pop Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEtFB61PlI1kWj4lybEIih7m1pb4",
+  "snapshot_id": "AAAAAHX6uxNtJUCOHpWP7zwYP6jlz1QN",
   "tracks": [
+    {
+      "added_at": "2026-01-23 05:16:45",
+      "album": {
+        "name": "MY HEALER",
+        "url": "https://open.spotify.com/album/7jXn39VRrZifIpznbHBDEZ"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 157023,
+      "name": "MY HEALER",
+      "url": "https://open.spotify.com/track/3tENXWy5Yf1iJJV4EYqZh1"
+    },
     {
       "added_at": "2026-01-16 05:00:37",
       "album": {
@@ -51,6 +71,22 @@
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+    },
+    {
+      "added_at": "2026-01-23 05:16:45",
+      "album": {
+        "name": "Love Bombs",
+        "url": "https://open.spotify.com/album/3JGRQFGZS9j3GzhpHAzcZs"
+      },
+      "artists": [
+        {
+          "name": "Precious Pepala",
+          "url": "https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1"
+        }
+      ],
+      "duration_ms": 155540,
+      "name": "Love Bombs",
+      "url": "https://open.spotify.com/track/7N2dxYIULi9q0vepBwsDf5"
     },
     {
       "added_at": "2026-01-16 05:00:37",
@@ -153,6 +189,22 @@
       "url": "https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC"
     },
     {
+      "added_at": "2026-01-23 05:00:35",
+      "album": {
+        "name": "Sticky",
+        "url": "https://open.spotify.com/album/1s06Eu1ijWhoBiPXBzs4UV"
+      },
+      "artists": [
+        {
+          "name": "Michaela Ja\u00e9",
+          "url": "https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5"
+        }
+      ],
+      "duration_ms": 172097,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/4oC3J7AM15eob6vpK1wDVZ"
+    },
+    {
       "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Please Don't Hate Me",
@@ -199,6 +251,22 @@
       "duration_ms": 128129,
       "name": "Backie",
       "url": "https://open.spotify.com/track/033iFTZGmWiVU9hUGBUvO3"
+    },
+    {
+      "added_at": "2026-01-23 05:00:35",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/1s4mHTfjmO4CU8AACjkmsS"
+      },
+      "artists": [
+        {
+          "name": "Tolou",
+          "url": "https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH"
+        }
+      ],
+      "duration_ms": 175265,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/4SykKuN3ZpoJViT7Nyhz57"
     },
     {
       "added_at": "2026-01-16 05:00:37",
@@ -791,70 +859,6 @@
       "duration_ms": 151421,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/6wMnZzsRUWQAENpnqTmIJk"
-    },
-    {
-      "added_at": "2026-01-06 20:37:10",
-      "album": {
-        "name": "Love Me Not / Love Is Blind",
-        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
-    },
-    {
-      "added_at": "2026-01-06 20:37:10",
-      "album": {
-        "name": "HIGH STAR",
-        "url": "https://open.spotify.com/album/1UE4Fy6qYCLqbM4Lz1Kf95"
-      },
-      "artists": [
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        }
-      ],
-      "duration_ms": 139636,
-      "name": "HIGH STAR",
-      "url": "https://open.spotify.com/track/0lDF1W7GchI8tKq6GCfdUE"
-    },
-    {
-      "added_at": "2026-01-06 20:37:10",
-      "album": {
-        "name": "ur luv is see through!",
-        "url": "https://open.spotify.com/album/0mos8b8lEAkWyDd5b4Uwx8"
-      },
-      "artists": [
-        {
-          "name": "Divine Earth",
-          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
-        }
-      ],
-      "duration_ms": 163712,
-      "name": "ur luv is see through!",
-      "url": "https://open.spotify.com/track/0AAik5GZKfDVdXXNzKVTlG"
-    },
-    {
-      "added_at": "2026-01-06 20:37:10",
-      "album": {
-        "name": "Ginger",
-        "url": "https://open.spotify.com/album/5KCMGGVIX1Vn8iuGaLd3Af"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 153848,
-      "name": "Ginger",
-      "url": "https://open.spotify.com/track/4j7m2rt1NTlZGpdgzm7kCu"
     }
   ],
   "unique_name": "Pop Frequency",

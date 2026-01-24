@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1511627,
+  "num_followers": 1511573,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 189005,
-      "name": "Mil Anos - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Terra do Nunca (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5srHRGI7y6NKTPzvhkKfgj"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 205408,
       "name": "P\u00e9ssimo Neg\u00f3cio (Ao Vivo) - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7wBTOYiJy9Fa1JeTtrZIBQ"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 189005,
+      "name": "Mil Anos - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Cartas e Versos",
-        "url": "https://open.spotify.com/album/5IBBQ2VFlYpxM84DPdEPE7"
-      },
-      "artists": [
-        {
-          "name": "Frejat",
-          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
-        }
-      ],
-      "duration_ms": 199814,
-      "name": "Cartas e Versos",
-      "url": "https://open.spotify.com/track/0UQor28BlM3xdKQGAwPPyP"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Aluga-se",
         "url": "https://open.spotify.com/album/070l8UAuwcgrVeK1y9l4ZI"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 125955,
       "name": "Aluga-se",
       "url": "https://open.spotify.com/track/1i2vei4vkOOQB3ag6IMAYM"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Cartas e Versos",
+        "url": "https://open.spotify.com/album/5IBBQ2VFlYpxM84DPdEPE7"
+      },
+      "artists": [
+        {
+          "name": "Frejat",
+          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+        }
+      ],
+      "duration_ms": 199814,
+      "name": "Cartas e Versos",
+      "url": "https://open.spotify.com/track/0UQor28BlM3xdKQGAwPPyP"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "\u00daltimo Romance",
-        "url": "https://open.spotify.com/album/3XY0aDOP9aULr9Hq5oSgdU"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 257701,
-      "name": "\u00daltimo Romance",
-      "url": "https://open.spotify.com/track/4zdQnUf0viZCBLaRLtFzCn"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Menina do Cabelo Bagun\u00e7ado (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/43oLJEvtHocvrHKoEyuLSx"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 136716,
       "name": "Menina do Cabelo Bagun\u00e7ado - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6kkyL9QSddcqm9Gf0N3pTf"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "\u00daltimo Romance",
+        "url": "https://open.spotify.com/album/3XY0aDOP9aULr9Hq5oSgdU"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 257701,
+      "name": "\u00daltimo Romance",
+      "url": "https://open.spotify.com/track/4zdQnUf0viZCBLaRLtFzCn"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1063,38 +1063,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Interestelar",
-        "url": "https://open.spotify.com/album/4cqMYtMb2kWxnpuFNPNsOQ"
-      },
-      "artists": [
-        {
-          "name": "Pedro Pascual",
-          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
-        }
-      ],
-      "duration_ms": 226714,
-      "name": "Interestelar",
-      "url": "https://open.spotify.com/track/227AKgtjtFJNDTY9TJwQ4x"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Tudo no Sigilo (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/38SclQmVsJwMGtheoJEfUr"
-      },
-      "artists": [
-        {
-          "name": "Bianca",
-          "url": "https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg"
-        }
-      ],
-      "duration_ms": 169745,
-      "name": "Tudo no Sigilo (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/3ZmFpBrLBQHvEld0zBLm6F"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "GUPE - PP sessions (Ao Vivo)",
         "url": "https://open.spotify.com/album/1YAmF5rNBo5zaB0NYinl5K"
       },
@@ -1115,18 +1083,34 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Bar\u00e3o Pra Sempre",
-        "url": "https://open.spotify.com/album/4iBQN73xgA56iyWf7DfZmK"
+        "name": "Tudo no Sigilo (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/38SclQmVsJwMGtheoJEfUr"
       },
       "artists": [
         {
-          "name": "Bar\u00e3o Vermelho",
-          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
+          "name": "Bianca",
+          "url": "https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg"
         }
       ],
-      "duration_ms": 202474,
-      "name": "Por Voc\u00ea - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/0228dbbfbyvjsjKus9KAS5"
+      "duration_ms": 169745,
+      "name": "Tudo no Sigilo (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/3ZmFpBrLBQHvEld0zBLm6F"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Interestelar",
+        "url": "https://open.spotify.com/album/4cqMYtMb2kWxnpuFNPNsOQ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pascual",
+          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
+        }
+      ],
+      "duration_ms": 226714,
+      "name": "Interestelar",
+      "url": "https://open.spotify.com/track/227AKgtjtFJNDTY9TJwQ4x"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1143,6 +1127,22 @@
       "duration_ms": 184006,
       "name": "Outra Vida",
       "url": "https://open.spotify.com/track/5y53mloVN0UCz9nnvCpes0"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Bar\u00e3o Pra Sempre",
+        "url": "https://open.spotify.com/album/4iBQN73xgA56iyWf7DfZmK"
+      },
+      "artists": [
+        {
+          "name": "Bar\u00e3o Vermelho",
+          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
+        }
+      ],
+      "duration_ms": 202474,
+      "name": "Por Voc\u00ea - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0228dbbfbyvjsjKus9KAS5"
     },
     {
       "added_at": "2024-08-02 18:37:00",

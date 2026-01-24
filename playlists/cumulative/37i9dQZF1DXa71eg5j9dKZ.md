@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: Honey Dijon
 
-1,378 songs - 3 day 21 hr 41 min
+1,378 songs - 3 day 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1035,7 +1035,7 @@
 | [Say Less](https://open.spotify.com/track/7bsGEh6Zve75sF3cvRAod7) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Years On Years](https://open.spotify.com/album/1s5ZFYgycwl95KApfbDwZR) | 5:23 | 2021-11-26 | 2022-05-06 |
 | [Say What](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Say What](https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27) | 3:01 | 2024-10-24 | 2025-04-11 |
 | [Scab](https://open.spotify.com/track/1XFigUzRNrgLh8NCNpfiVV) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU), [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Scab](https://open.spotify.com/album/2Bo2U2dfyHghzQkNrrPslK) | 4:19 | 2025-08-14 | 2025-11-28 |
-| [scared](https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [USB](https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT) | 4:03 | 2026-01-23 |  |
+| [scared](https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [USB](https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT) | 3:46 | 2026-01-23 |  |
 | [Scars](https://open.spotify.com/track/3LzXNblYTky3isOztnWqcz) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Guy](https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS) | 2:58 | 2023-06-08 | 2023-10-13 |
 | [Scars](https://open.spotify.com/track/4A3sFMoA34zi7u8RHqu4Ch) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Scars \(lau.ra Remix\)](https://open.spotify.com/album/5wHjEgZopmh1tdTesMsDIL) | 2:58 | 2023-06-01 | 2023-06-12 |
 | [Scars](https://open.spotify.com/track/6cu2L8ghmlsDpRtyHCHAm4) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Scars](https://open.spotify.com/album/0iTJuQRY2EbwYslNyafKPS) | 2:58 | 2023-04-27 | 2023-06-04 |

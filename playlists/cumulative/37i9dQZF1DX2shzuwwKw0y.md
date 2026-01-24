@@ -2,7 +2,7 @@
 
 ### [Corridos Perrones](https://open.spotify.com/playlist/37i9dQZF1DX2shzuwwKw0y)
 
-> Del rancho a la ciudad, las historias que pocos se atreven a contar\. Cover: Herencia de Patrones
+> Del rancho a la ciudad, las historias que pocos se atreven a contar\. Cover: LEGADO 7
 
 636 songs - 1 day 8 hr 6 min
 

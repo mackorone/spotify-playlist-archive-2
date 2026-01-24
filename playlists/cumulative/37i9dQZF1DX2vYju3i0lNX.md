@@ -4,7 +4,7 @@
 
 > Mellow jazz to stay focused or unwind.
 
-1,296 songs - 3 day 4 hr 10 min
+1,297 songs - 3 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Autumn Promises](https://open.spotify.com/track/5kVaJiItTvUFR9jy5lgNQo) | [Derek Hines Trio](https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY) | [Autumn Promises](https://open.spotify.com/album/0JUe11QqnjHKIYXaUSKp7m) | 3:18 | 2023-08-10 | 2024-10-22 |
 | [Autumn serenade](https://open.spotify.com/track/4mNyif0WHZ8jBn9BdwX212) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [Autumn serenade](https://open.spotify.com/album/6UR6T9B1wTbPLrRw7ynlI2) | 3:15 | 2024-11-12 | 2025-09-18 |
 | [Autumn Whispers](https://open.spotify.com/track/0xHjKlaXNiA4BJGgPz15KX) | [Ivory Soul Trio](https://open.spotify.com/artist/7vlqwJS24ZLOhYA0SDLoe7) | [Autumn Whispers](https://open.spotify.com/album/1rGBSySIEwduFE3SanVwCQ) | 3:48 | 2024-04-10 | 2025-08-02 |
+| [Autumnal Ashes](https://open.spotify.com/track/7ehKsGUV1lmTQRFwLSHrrI) | [Eric Merlino](https://open.spotify.com/artist/1vL7K80AJZnr8Y10olI96q) | [Autumnal Ashes](https://open.spotify.com/album/2Hu8xZpyBUK8jYLvzQtetJ) | 3:56 | 2026-01-23 |  |
 | [Back Again](https://open.spotify.com/track/2tc90056I9biUsg2AJJgxu) | [Belleville](https://open.spotify.com/artist/6OZLCBcT66pK5nRLz4xC2V) | [Back Again](https://open.spotify.com/album/7t2aig2y41TMu92g00TRNj) | 5:11 | 2024-02-23 | 2025-03-04 |
 | [Back In The Days](https://open.spotify.com/track/36EdXI7PXMydPehKedaagR) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Back In The Days](https://open.spotify.com/album/1g7p8a3CzdAWhTXP9c8yGV) | 3:21 | 2023-05-25 | 2025-11-19 |
 | [Back Seat Driver](https://open.spotify.com/track/15QMDN87HTKuwTPv7UcXPI) | [Velvet Groove](https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia) | [Back Seat Driver](https://open.spotify.com/album/3FAQ7kvLvOTR4N8iThevUK) | 3:00 | 2024-05-30 | 2024-08-20 |
@@ -1131,7 +1132,7 @@
 | [They Say It's Wonderful](https://open.spotify.com/track/59OJQEuRXWraNpbTqUeDVA) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [They Say It's Wonderful](https://open.spotify.com/album/0tFhwfBAFd6GL9Om8jLOPj) | 3:18 | 2022-04-25 | 2025-02-04 |
 | [Think Forward](https://open.spotify.com/track/3cEhU0ReeaaccJ4R17xUlg) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN), [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [Paris in the Rain](https://open.spotify.com/album/02n3H8PMcmrFzjgvG5cUc2) | 4:30 | 2021-12-07 | 2023-02-24 |
 | [Think of refusing](https://open.spotify.com/track/0xczcAK509NavYmwkard4Q) | [Jazmina Tozer Three](https://open.spotify.com/artist/469VzQ6JsfGQlFis6YQP0H) | [Think of refusing](https://open.spotify.com/album/2hy3Rx2lNsnIR3YL4csFFZ) | 3:51 | 2023-04-20 | 2024-11-26 |
-| [Thinking About Your Smile](https://open.spotify.com/track/2Ou3LQxtrah2CKhkZWN3R8) | [Trio Rosa](https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q) | [Thinking About Your Smile](https://open.spotify.com/album/79GcQDczzpvaYL6Ibx2GeT) | 3:42 | 2024-08-26 |  |
+| [Thinking About Your Smile](https://open.spotify.com/track/2Ou3LQxtrah2CKhkZWN3R8) | [Trio Rosa](https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q) | [Thinking About Your Smile](https://open.spotify.com/album/79GcQDczzpvaYL6Ibx2GeT) | 3:42 | 2024-08-26 | 2026-01-24 |
 | [This Autumn](https://open.spotify.com/track/2FpRHKUzbXejH9vUK0TX0G) | [James & LIsa](https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg) | [This Autumn](https://open.spotify.com/album/1DmsuXnSvAWqUS9Z3W2JzY) | 2:52 | 2022-12-01 | 2023-08-11 |
 | [This Could Be Love](https://open.spotify.com/track/3AXc6LSwjRJaZ9UgY7sOj4) | [Gaige Myers](https://open.spotify.com/artist/5pMpBcYLGkbPYrVoe8SbbE) | [This Could Be Love](https://open.spotify.com/album/5cy0MEnK22TLYbVuKdWAfQ) | 3:26 | 2024-03-22 | 2024-07-23 |
 | [This Is New](https://open.spotify.com/track/6fYwCP9RSKhbOkLmGwX41N) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [This Is New](https://open.spotify.com/album/3Lt4cW6ig50NtOBGtsBO7V) | 3:15 | 2021-12-07 | 2024-10-08 |

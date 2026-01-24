@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover:Shintaro Sakamoto \(Japan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,178 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,293 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [麻痺](https://open.spotify.com/track/43pMPzvf5ERpK3trw9k0C7) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [麻痺](https://open.spotify.com/album/468ihgnfToRbmvaj6BHFWJ) | 5:24 |
+| 1 | [Numb](https://open.spotify.com/track/5kfgWXn6YD9ed6pPNsrcgY) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Yoo\-hoo](https://open.spotify.com/album/2ovdkF5kkDDWfjJgk9rHtu) | 5:24 |
 | 2 | [lost](https://open.spotify.com/track/7LKD6LKTziLqv8oXo6iv3e) | [aoni](https://open.spotify.com/artist/3AcR5cfA2SMdwm5v0FPvvn) | [Kuroi Echoes](https://open.spotify.com/album/6YQ5zvaQ8gsB076SoL9ZhS) | 2:55 |
 | 3 | [Hong Kong Siren](https://open.spotify.com/track/7IanxNunEPsThyG95SWvnW) | [GYMV](https://open.spotify.com/artist/5xOJz1R1Gcm16mg0V8iukc) | [Hong Kong Siren](https://open.spotify.com/album/0wfgQxfKBl167BJEcH2xP8) | 4:02 |
 | 4 | [Stay With It](https://open.spotify.com/track/3NehMjtApc0LxsOz5IIf5U) | [Good Luck Chuck](https://open.spotify.com/artist/6zgQqfZ8mYlQOhpsGjok96), [Perk Pietrek](https://open.spotify.com/artist/7gVaS1q03Q8Dliy2lDXLx3), [Direwulf](https://open.spotify.com/artist/77xnTyfSeDkHZ2tufyeAIP) | [Stay With It](https://open.spotify.com/album/69FoQwBqxFcOU7dkRnkksW) | 3:58 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 11 | [草西](https://open.spotify.com/track/3jFv65hSmXNh8XUuFbcDJ0) | [GDJYB 雞蛋蒸肉餅](https://open.spotify.com/artist/06LP6816j1i658mANtPNVc) | [<=P:r0J3CT 2222/>](https://open.spotify.com/album/1gycyhTqFh9fVwH91yo4qM) | 4:10 |
 | 12 | [Tenggelam](https://open.spotify.com/track/1SZMxDGWDiKa9Jb5van3nA) | [Flowr Pit](https://open.spotify.com/artist/3FOqYio7C8ihO8MciypqLv) | [Super Possible](https://open.spotify.com/album/28y4KlQklqbpzWvjJtTmUU) | 4:02 |
 | 13 | [So Many Days](https://open.spotify.com/track/3thr1gl0sDyirwmjHU8vuO) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [Stay Awake](https://open.spotify.com/album/2N8xjA84dmuw4NZz6BADbB) | 4:20 |
-| 14 | [Maaf \(Pada Diriku\)](https://open.spotify.com/track/3t2e7Pf3UfZj5HwqVfjPgZ) | [Biru Baru](https://open.spotify.com/artist/2zuPyFAXSFyGQJrNk2iy6V) | [](https://open.spotify.com/album/null) | 3:55 |
+| 14 | [Maaf \(Pada Diriku\)](https://open.spotify.com/track/3t2e7Pf3UfZj5HwqVfjPgZ) | [Biru Baru](https://open.spotify.com/artist/2zuPyFAXSFyGQJrNk2iy6V) | [BIRU BARU](https://open.spotify.com/album/3F6ab0kzrpxTmUrfCkcehU) | 3:55 |
 | 15 | [Stay.](https://open.spotify.com/track/18c3HOwfP9I5N2NSbxVYBf) | [Beck](https://open.spotify.com/artist/43rF0ezbI0BApStNet2EWk) | [Stay.](https://open.spotify.com/album/3HUvptv1Vb4JubvBgY1nWF) | 2:47 |
 | 16 | [止められないっ！](https://open.spotify.com/track/6MBvcLeY3cpOyrt5VeDgvP) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [止められないっ！](https://open.spotify.com/album/5dGO0J2kQ9sF9pyvqrTFzq) | 2:45 |
 | 17 | [Too comfortable](https://open.spotify.com/track/45M1P0zbhrCeHfAx6XK7im) | [GYOJUNG](https://open.spotify.com/artist/7dA33I3Wp5XmRXxMkWQ6YM) | [Failed reality](https://open.spotify.com/album/0v1VZ7pwQsdMRRUxqosILM) | 2:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [NOW](https://open.spotify.com/track/0FefW9wddyFsMoIdQAoGQH) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [〈NOW〉 \(English Deluxe\)](https://open.spotify.com/album/0oTkQLTmgvP6wyF3x3WqOF) | 4:13 |
 | 100 | [Crave Me, Superstar](https://open.spotify.com/track/58zF0g3So838gVtFMWJQ3h) | [Rimba](https://open.spotify.com/artist/0ejPHB5hhzjG2JtglWKjlZ) | [Technicolor Meeting](https://open.spotify.com/album/4ytWptqrooC52m6hkyB6mD) | 4:55 |
 
-Snapshot ID: `AAAAAB+rF1npULAKVGJCgF9os1gtwFRJ`
+Snapshot ID: `AAAAAFf6TWK5KiDDeM7ACbdQAcCOy6du`

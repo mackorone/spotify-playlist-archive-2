@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover:  Harana Sessions
 
-3,941 songs - 9 day 14 hr 10 min
+3,944 songs - 9 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [5050](https://open.spotify.com/track/50iElIXT7KIJDDCE5SK0TJ) | [JASTENN](https://open.spotify.com/artist/5svCxcD5y6knncM1lSlAgM) | [5050](https://open.spotify.com/album/3oazuCUqNcwJXNbLCDLga6) | 3:14 | 2026-01-15 |  |
 | [5IN5](https://open.spotify.com/track/0VAmVvZPUxBmiZVHVwWB9x) | [NAIV](https://open.spotify.com/artist/20slUJYsGQ6lecW91DROiN) | [5IN5](https://open.spotify.com/album/4sqxlnkK4EB9CQatBh6Dfi) | 2:34 | 2022-05-05 | 2022-06-17 |
 | [5traws](https://open.spotify.com/track/3YKEOeOgoLpaM1mOMMjMUM) | [MAGE](https://open.spotify.com/artist/0vhbTpMY6YaoSPlLyWO0JV) | [5traws](https://open.spotify.com/album/06OcVD1DU4ewL2Lu2FZGID) | 3:16 | 2023-03-16 | 2024-01-12 |
+| [5treyhunnid](https://open.spotify.com/track/61kAxwXW7Ij3yni3IVdNQn) | [Vikrum](https://open.spotify.com/artist/0FxkilnyBBr1YSZtmWSRhc) | [5treyhunnid](https://open.spotify.com/album/29yNHQzdHarO2lTNtQZpal) | 3:30 | 2026-01-22 |  |
 | [7/7](https://open.spotify.com/track/2RoUcQd8f3fUAeUXe35ZZ8) | [ORIGIN](https://open.spotify.com/artist/0b02sb1yDfitXVVkMJ73gt) | [7/7](https://open.spotify.com/album/0XZOGvET2XfgcwyMvVYc9o) | 3:14 | 2023-04-27 | 2023-05-19 |
 | [78](https://open.spotify.com/track/5rJWBEnfP9kpRQrN1OyqxY) | [Breē](https://open.spotify.com/artist/5dw8ejHVfSDig5NlMJ5ON4) | [A DREAM OF SUNRISE](https://open.spotify.com/album/1LwSkNN1XrQXm6snJ75mZB) | 4:03 | 2024-05-16 | 2025-01-17 |
 | [80Cup](https://open.spotify.com/track/2EypgPvgkejubrifCM418R) | [Patch TheThird](https://open.spotify.com/artist/6oXtzTZr9KQp9e8JXinYe8) | [80Cup](https://open.spotify.com/album/242qZZ3GppwmNIr6EUjor4) | 2:36 | 2025-07-17 | 2025-09-26 |
@@ -433,6 +434,7 @@
 | [Bati Na Ba?](https://open.spotify.com/track/1MXebJSXCc4UCb1q6yccYE) | [Dreiboi](https://open.spotify.com/artist/3s43UzWzqeDZvLhBb3FYiY) | [Bati Na Ba?](https://open.spotify.com/album/7bzpgg4PAOsHAgrnAVOOdn) | 4:06 | 2025-02-20 | 2025-04-04 |
 | [Bawal Ang Malisya](https://open.spotify.com/track/31Ox4uUKvZ6UthsV2tpkNi) | [Celine Laroza](https://open.spotify.com/artist/0qzPP9jEPlte12vBbIK02n) | [Bawal Ang Malisya](https://open.spotify.com/album/6k3BBW0gIbLeMYbwGQK9vl) | 3:06 | 2022-01-20 | 2022-03-11 |
 | [Bawat Kalawakan](https://open.spotify.com/track/7D0vflIJuREza9OvWfO9My) | [Paul Arcega](https://open.spotify.com/artist/7egkoyQeJv0rQkkCVl35ME) | [City Nites](https://open.spotify.com/album/2RGA6lideiMzFMe1TNVxEd) | 5:05 | 2025-02-20 | 2025-04-04 |
+| [Bawat Tinig, Isang Bayan](https://open.spotify.com/track/3Loxb4CogU5hBa4eRNXiL3) | [Francine Bendol](https://open.spotify.com/artist/61EuTe4cB6ZwTo1TucafPI) | [Bawat Tinig, Isang Bayan](https://open.spotify.com/album/6elUkAwXwJORmyFsJU8vrD) | 3:51 | 2026-01-22 |  |
 | [Bawat Yapak](https://open.spotify.com/track/0hjGJTZpGZfzXH2Ef45GAO) | [Jeffrey Querubin](https://open.spotify.com/artist/6af6ThbIjS7M2ahGkrnukn) | [Bawat Yapak](https://open.spotify.com/album/48COtlFiuhX5cpkUGAIaxs) | 4:39 | 2025-05-30 | 2026-01-15 |
 | [Bayaning Marino](https://open.spotify.com/track/1IsHrn12wCVo7bbVimwwlw) | [Paul Michael](https://open.spotify.com/artist/6zqAQAloy0GAoUr7fksiY9), [Bendeatha](https://open.spotify.com/artist/1JSj8kDb48WmDoOact9uop) | [Bayaning Marino](https://open.spotify.com/album/5lrbouHhlm9eKsXJebSgUR) | 3:21 | 2023-06-22 | 2023-07-07 |
 | [Baybayon](https://open.spotify.com/track/6e3IWTwaCOsJPYj0e5XPUh) | [domedi](https://open.spotify.com/artist/7HIjtj0g9EKy8wMhOx6NOr) | [Baybayon](https://open.spotify.com/album/3QG7KiryFArPVlKLbKTdcX) | 3:24 | 2023-05-18 | 2023-06-02 |
@@ -1399,6 +1401,7 @@
 | [Hindi Na Tama 'To](https://open.spotify.com/track/5s8L7YaIoSpMcFlOaapFNP) | [Kuatro Kantos](https://open.spotify.com/artist/1mY1mIkR31fxNIJnMX60fC) | [Hindi Na Tama 'To](https://open.spotify.com/album/3AxgeeY543YE5a5jTIEDLr) | 4:02 | 2022-06-16 | 2022-08-20 |
 | [Hindi Pagmamay\-ari](https://open.spotify.com/track/1lvSgkgRGAG9MBeG8sF8oy) | [Vanadey](https://open.spotify.com/artist/6mekMVuchJN6VnG8xWHbCF) | [Hindi Pagmamay\-ari](https://open.spotify.com/album/2x9eyJCa5SfASW7D7NWobn) | 5:49 | 2022-10-13 | 2022-12-01 |
 | [Hinding\-hindi](https://open.spotify.com/track/1u6CNdE4V7LhHjL5cxXmxg) | [Tamara](https://open.spotify.com/artist/1Kxv8d3e9Lwi4zDVh0JAXI) | [Hinding\-hindi](https://open.spotify.com/album/46t6B8ZP3qcnWUxtFUHhfk) | 3:04 | 2024-03-21 | 2024-05-10 |
+| [Hinga](https://open.spotify.com/track/3eaHinVQPe3buWpCRNuIuk) | [AINT](https://open.spotify.com/artist/3rNyOjaISuZ9vsZvNcnNjy) | [Hinga](https://open.spotify.com/album/5oGipR34BC9wgFXAWZrsRl) | 2:40 | 2026-01-22 |  |
 | [Hingang Malalim](https://open.spotify.com/track/4xEtETMYA58Z5HAsOTvp5i) | [Black Box Collective](https://open.spotify.com/artist/0wKpCwB9oqKN7Lq6XRnUym) | [Hingang Malalim](https://open.spotify.com/album/4fx72jS6EHLlI2QDBTRpQb) | 2:50 | 2023-01-26 | 2023-02-10 |
 | [Hinihiling](https://open.spotify.com/track/5CxXyPoq91xHxnbZ8p8lkp) | [Kismet](https://open.spotify.com/artist/6IZ7qsoV5GthLIR6153KDT) | [Hinihiling](https://open.spotify.com/album/1XQPCBl33upd4FzzvRXBFp) | 4:57 | 2024-08-23 | 2024-09-20 |
 | [Hintay](https://open.spotify.com/track/2xCHSiBR0X0XzztkWK57eK) | [Back by 9ine](https://open.spotify.com/artist/0roPa5TXZI5RjPkrMAOf7W) | [Hintay](https://open.spotify.com/album/1CF6njrGT3j8sbcW9AYshW) | 4:00 | 2022-10-13 | 2023-02-10 |

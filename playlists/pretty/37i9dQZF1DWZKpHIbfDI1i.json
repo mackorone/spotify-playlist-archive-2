@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Yandel & LATIN MAFIA en portada ",
-  "num_followers": 823699,
+  "num_followers": 824503,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -551,26 +551,6 @@
     {
       "added_at": "2026-01-21 00:21:17",
       "album": {
-        "name": "Cartier",
-        "url": "https://open.spotify.com/album/1Dc6mH1teFQDQQXlgpl8pB"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 186494,
-      "name": "Cartier",
-      "url": "https://open.spotify.com/track/5xAikCeFXqHpVUuRKxBg4V"
-    },
-    {
-      "added_at": "2026-01-21 00:21:17",
-      "album": {
         "name": "Noches De Cantina",
         "url": "https://open.spotify.com/album/7s4iqJ8ygSoGZJuKm21v1g"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 233306,
       "name": "Vivir Sin Aire",
       "url": "https://open.spotify.com/track/5cPfJH1aUu9kIZyvZS7Ps7"
+    },
+    {
+      "added_at": "2026-01-21 00:21:17",
+      "album": {
+        "name": "Cartier",
+        "url": "https://open.spotify.com/album/1Dc6mH1teFQDQQXlgpl8pB"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 186494,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/5xAikCeFXqHpVUuRKxBg4V"
     },
     {
       "added_at": "2026-01-21 00:21:17",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2026-01-21 00:21:17",
       "album": {
-        "name": "VIBRA PERFECTA",
-        "url": "https://open.spotify.com/album/4ocmXnDaA8LpgZwWaGIYuI"
+        "name": "Bruma",
+        "url": "https://open.spotify.com/album/1x0vn8Q88as4Ct8UcKNIe7"
       },
       "artists": [
         {
-          "name": "Bohemio",
-          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
         }
       ],
-      "duration_ms": 148273,
-      "name": "VIBRA PERFECTA",
-      "url": "https://open.spotify.com/track/5OIkK9lAEhIGjZAykS4ahK"
+      "duration_ms": 201120,
+      "name": "Bruma",
+      "url": "https://open.spotify.com/track/6sz1RiK5ltgQQxSsrRzVy4"
     },
     {
       "added_at": "2026-01-21 00:21:17",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-01-21 00:21:17",
       "album": {
+        "name": "VIBRA PERFECTA",
+        "url": "https://open.spotify.com/album/4ocmXnDaA8LpgZwWaGIYuI"
+      },
+      "artists": [
+        {
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+        }
+      ],
+      "duration_ms": 148273,
+      "name": "VIBRA PERFECTA",
+      "url": "https://open.spotify.com/track/5OIkK9lAEhIGjZAykS4ahK"
+    },
+    {
+      "added_at": "2026-01-21 00:21:17",
+      "album": {
         "name": "Chimba",
         "url": "https://open.spotify.com/album/4VbBqWUAM1sKdARDmUQDVc"
       },
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2026-01-21 00:21:17",
       "album": {
-        "name": "Bruma",
-        "url": "https://open.spotify.com/album/1x0vn8Q88as4Ct8UcKNIe7"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Bruma",
-      "url": "https://open.spotify.com/track/6sz1RiK5ltgQQxSsrRzVy4"
-    },
-    {
-      "added_at": "2026-01-21 00:21:17",
-      "album": {
         "name": "Amarre",
         "url": "https://open.spotify.com/album/1BeOknqcvlpCNhFDdc3E14"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 179706,
       "name": "Amarre",
       "url": "https://open.spotify.com/track/2usxrgFyz7GjlmaE9ExlSp"
+    },
+    {
+      "added_at": "2026-01-21 00:21:17",
+      "album": {
+        "name": "SOY GRACIAS A DIOS",
+        "url": "https://open.spotify.com/album/7nCy9Z4VJYjvyObsEwPDL4"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 163979,
+      "name": "SOY GRACIAS A DIOS",
+      "url": "https://open.spotify.com/track/7GQfk7tJpiI63QSAOzDiNV"
     },
     {
       "added_at": "2026-01-21 00:21:17",
@@ -1211,22 +1227,6 @@
       "duration_ms": 242857,
       "name": "VETIVER Y AMARETTO",
       "url": "https://open.spotify.com/track/19HWG52zjo54p7naO3SQlf"
-    },
-    {
-      "added_at": "2026-01-21 00:21:17",
-      "album": {
-        "name": "SOY GRACIAS A DIOS",
-        "url": "https://open.spotify.com/album/7nCy9Z4VJYjvyObsEwPDL4"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 163979,
-      "name": "SOY GRACIAS A DIOS",
-      "url": "https://open.spotify.com/track/7GQfk7tJpiI63QSAOzDiNV"
     },
     {
       "added_at": "2026-01-21 00:21:17",

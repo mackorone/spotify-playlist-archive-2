@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Harold",
-  "num_followers": 53213,
+  "num_followers": 53216,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ+aXDGnzaExM4J7H83iDcroSuDv",
+  "snapshot_id": "AAAAAN0wXQ53IAcC7xy+XoEN1kKL4AtV",
   "tracks": [
     {
       "added_at": "2026-01-16 00:00:19",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-01-16 00:00:19",
       "album": {
+        "name": "Mais Antigo",
+        "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "duration_ms": 206466,
+      "name": "Lembrei-me",
+      "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
+    },
+    {
+      "added_at": "2026-01-16 00:00:19",
+      "album": {
         "name": "FIM DA NOITE",
         "url": "https://open.spotify.com/album/3CqyVBp2IjCB9ZbhqPv4a1"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 214065,
       "name": "FIM DA NOITE",
       "url": "https://open.spotify.com/track/31pd4crQES4hOaWHGIpzXI"
-    },
-    {
-      "added_at": "2026-01-16 00:00:19",
-      "album": {
-        "name": "Mais Antigo",
-        "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
-      },
-      "artists": [
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        }
-      ],
-      "duration_ms": 206466,
-      "name": "Lembrei-me",
-      "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
     },
     {
       "added_at": "2026-01-16 00:00:19",
@@ -511,42 +511,6 @@
     {
       "added_at": "2026-01-16 00:00:19",
       "album": {
-        "name": "Chakras",
-        "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 196384,
-      "name": "Chakras",
-      "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
-    },
-    {
-      "added_at": "2026-01-16 00:00:19",
-      "album": {
-        "name": "Lisboa",
-        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 243180,
-      "name": "Do You No Wrong",
-      "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
-    },
-    {
-      "added_at": "2026-01-16 00:00:19",
-      "album": {
         "name": "I'm Sorry",
         "url": "https://open.spotify.com/album/6xbIjf6sv5M4I9GT0NuEcj"
       },
@@ -571,18 +535,58 @@
     {
       "added_at": "2026-01-16 00:00:19",
       "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
       },
       "artists": [
         {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
         }
       ],
-      "duration_ms": 314009,
-      "name": "Conversas",
-      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
+      "duration_ms": 243180,
+      "name": "Do You No Wrong",
+      "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
+    },
+    {
+      "added_at": "2026-01-16 00:00:19",
+      "album": {
+        "name": "Chakras",
+        "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 196384,
+      "name": "Chakras",
+      "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
+    },
+    {
+      "added_at": "2026-01-16 00:00:19",
+      "album": {
+        "name": "ROSAS",
+        "url": "https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E"
+      },
+      "artists": [
+        {
+          "name": "Kappa Jotta",
+          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+        },
+        {
+          "name": "MUN",
+          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
+        }
+      ],
+      "duration_ms": 177272,
+      "name": "ROSAS",
+      "url": "https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5"
     },
     {
       "added_at": "2026-01-16 00:00:19",
@@ -607,22 +611,18 @@
     {
       "added_at": "2026-01-16 00:00:19",
       "album": {
-        "name": "ROSAS",
-        "url": "https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E"
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
       },
       "artists": [
         {
-          "name": "Kappa Jotta",
-          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
-        },
-        {
-          "name": "MUN",
-          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
         }
       ],
-      "duration_ms": 177272,
-      "name": "ROSAS",
-      "url": "https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5"
+      "duration_ms": 314009,
+      "name": "Conversas",
+      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
     },
     {
       "added_at": "2026-01-16 00:00:19",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-01-16 00:00:19",
       "album": {
-        "name": "Interestelar",
-        "url": "https://open.spotify.com/album/02PsewjrcAwfmprEsadxBa"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 188593,
-      "name": "Interestelar",
-      "url": "https://open.spotify.com/track/0itv2Wy3TruEEZy4dRsu32"
-    },
-    {
-      "added_at": "2026-01-16 00:00:19",
-      "album": {
         "name": "MDID",
         "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
       },
@@ -743,22 +727,6 @@
     {
       "added_at": "2026-01-16 00:00:19",
       "album": {
-        "name": "Before I Lose My Voice",
-        "url": "https://open.spotify.com/album/4oZm4sCOIFsWz41UgOu7r3"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 186483,
-      "name": "Before I Lose My Voice",
-      "url": "https://open.spotify.com/track/7frjoQg8cSUY0Pb7OpCvl5"
-    },
-    {
-      "added_at": "2026-01-16 00:00:19",
-      "album": {
         "name": "Entre N\u00f3s (Deluxe)",
         "url": "https://open.spotify.com/album/6KVnoibLe6O76o6GjwZCj6"
       },
@@ -771,6 +739,22 @@
       "duration_ms": 212200,
       "name": "Sobre n\u00f3s",
       "url": "https://open.spotify.com/track/0qXdFerKyoeBIvTq76XlEt"
+    },
+    {
+      "added_at": "2026-01-16 00:00:19",
+      "album": {
+        "name": "Before I Lose My Voice",
+        "url": "https://open.spotify.com/album/4oZm4sCOIFsWz41UgOu7r3"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 186483,
+      "name": "Before I Lose My Voice",
+      "url": "https://open.spotify.com/track/7frjoQg8cSUY0Pb7OpCvl5"
     },
     {
       "added_at": "2026-01-16 00:00:19",
@@ -799,22 +783,18 @@
     {
       "added_at": "2026-01-16 00:00:19",
       "album": {
-        "name": "Infinito",
-        "url": "https://open.spotify.com/album/5PggQNNlmkNTw3jZFyn0qs"
+        "name": "Interestelar",
+        "url": "https://open.spotify.com/album/02PsewjrcAwfmprEsadxBa"
       },
       "artists": [
         {
-          "name": "NAPA",
-          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
-        },
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
         }
       ],
-      "duration_ms": 229244,
-      "name": "Infinito",
-      "url": "https://open.spotify.com/track/2lJ43uf6sTBG9RV9YeXqtb"
+      "duration_ms": 188593,
+      "name": "Interestelar",
+      "url": "https://open.spotify.com/track/0itv2Wy3TruEEZy4dRsu32"
     },
     {
       "added_at": "2026-01-16 00:00:19",
@@ -851,6 +831,26 @@
       "duration_ms": 313825,
       "name": "Dama & Vagabundo",
       "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
+    },
+    {
+      "added_at": "2026-01-16 00:00:19",
+      "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/5PggQNNlmkNTw3jZFyn0qs"
+      },
+      "artists": [
+        {
+          "name": "NAPA",
+          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
+        },
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 229244,
+      "name": "Infinito",
+      "url": "https://open.spotify.com/track/2lJ43uf6sTBG9RV9YeXqtb"
     },
     {
       "added_at": "2026-01-16 00:00:19",
@@ -1127,18 +1127,22 @@
     {
       "added_at": "2026-01-16 00:00:19",
       "album": {
-        "name": "Olhar",
-        "url": "https://open.spotify.com/album/2YSlXAnI7ssYmEVpPYm1Cm"
+        "name": "Perfume (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A"
       },
       "artists": [
         {
           "name": "Ivandro",
           "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 219106,
-      "name": "Olhar",
-      "url": "https://open.spotify.com/track/0FcroTfQvvXDfnEh0KUJfb"
+      "duration_ms": 174428,
+      "name": "Perfume - Ao Vivo",
+      "url": "https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId"
     },
     {
       "added_at": "2026-01-16 00:00:19",
@@ -1299,22 +1303,18 @@
     {
       "added_at": "2026-01-16 00:00:19",
       "album": {
-        "name": "Perfume (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A"
+        "name": "Olhar",
+        "url": "https://open.spotify.com/album/2YSlXAnI7ssYmEVpPYm1Cm"
       },
       "artists": [
         {
           "name": "Ivandro",
           "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 174428,
-      "name": "Perfume - Ao Vivo",
-      "url": "https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId"
+      "duration_ms": 219106,
+      "name": "Olhar",
+      "url": "https://open.spotify.com/track/0FcroTfQvvXDfnEh0KUJfb"
     },
     {
       "added_at": "2026-01-16 00:00:19",

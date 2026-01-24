@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 8719,
+  "num_followers": 8728,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXAXAAAAAABEtxvpdEixZh3rRp/zlEWp",
+  "snapshot_id": "aXFogAAAAAAjRU5tmyV2G2qpl4I3Srsp",
   "tracks": [
     {
       "added_at": null,
@@ -726,15 +726,11 @@
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Vhulto",
-          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
         }
       ],
-      "duration_ms": 90000,
-      "name": "Velotrol",
-      "url": "https://open.spotify.com/track/6ufP9EO1fy6LOlwfKLvD43"
+      "duration_ms": 174550,
+      "name": "N\u00e3o Gosto",
+      "url": "https://open.spotify.com/track/23dDG4rg0mZT3YwKOTgF8T"
     },
     {
       "added_at": null,
@@ -806,11 +802,15 @@
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Vhulto",
+          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
         }
       ],
-      "duration_ms": 174550,
-      "name": "N\u00e3o Gosto",
-      "url": "https://open.spotify.com/track/23dDG4rg0mZT3YwKOTgF8T"
+      "duration_ms": 90000,
+      "name": "Velotrol",
+      "url": "https://open.spotify.com/track/6ufP9EO1fy6LOlwfKLvD43"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moranguinho",
-        "url": "https://open.spotify.com/album/13T073GRitV1LYzHFhoVoK"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 114465,
-      "name": "Moranguinho",
-      "url": "https://open.spotify.com/track/0fyxmtliWPVuQxVD3erEKy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outro Som de Sacanagem",
         "url": "https://open.spotify.com/album/3V0bygxwuP7I5rdeSZ20rh"
       },
@@ -879,30 +863,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cosmo e Wanda",
-        "url": "https://open.spotify.com/album/4e7KAQn2VK5U9452GKBay5"
+        "name": "Moranguinho",
+        "url": "https://open.spotify.com/album/13T073GRitV1LYzHFhoVoK"
       },
       "artists": [
         {
-          "name": "Btrem",
-          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
-        },
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 114465,
+      "name": "Moranguinho",
+      "url": "https://open.spotify.com/track/0fyxmtliWPVuQxVD3erEKy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pra Voc\u00ea Ficar a Vontade",
+        "url": "https://open.spotify.com/album/1KkbKj4wDO6f6ZNSpE6j0c"
+      },
+      "artists": [
         {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+          "name": "akao.47",
+          "url": "https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh"
         },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "$amuka",
-          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+          "name": "BREEZE",
+          "url": "https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD"
         }
       ],
-      "duration_ms": 132710,
-      "name": "Cosmo e Wanda",
-      "url": "https://open.spotify.com/track/2AZFs8hGLEC00btCoKQGFb"
+      "duration_ms": 207272,
+      "name": "Pra Voc\u00ea Ficar a Vontade",
+      "url": "https://open.spotify.com/track/5IKneLrLRU4e7ew7wuVegn"
     },
     {
       "added_at": null,
@@ -931,26 +927,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Voc\u00ea Ficar a Vontade",
-        "url": "https://open.spotify.com/album/1KkbKj4wDO6f6ZNSpE6j0c"
+        "name": "Cosmo e Wanda",
+        "url": "https://open.spotify.com/album/4e7KAQn2VK5U9452GKBay5"
       },
       "artists": [
         {
-          "name": "akao.47",
-          "url": "https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh"
+          "name": "Btrem",
+          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
         },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "BREEZE",
-          "url": "https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD"
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
         }
       ],
-      "duration_ms": 207272,
-      "name": "Pra Voc\u00ea Ficar a Vontade",
-      "url": "https://open.spotify.com/track/5IKneLrLRU4e7ew7wuVegn"
+      "duration_ms": 132710,
+      "name": "Cosmo e Wanda",
+      "url": "https://open.spotify.com/track/2AZFs8hGLEC00btCoKQGFb"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The newest arrivals. Cover: Asco",
-  "num_followers": 68298,
+  "num_followers": 68315,
   "original_name": "Just Dropped",
   "owner": {
     "name": "Spotify",
@@ -271,8 +271,8 @@
     {
       "added_at": "2026-01-23 00:00:35",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Vacancy",
+        "url": "https://open.spotify.com/album/2UuTaSOSxTNP6whKrwDqnS"
       },
       "artists": [
         {
@@ -280,8 +280,8 @@
           "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 132931,
+      "name": "High Key",
       "url": "https://open.spotify.com/track/48Rk6ZyFcztsyvUZeUFVXO"
     },
     {
@@ -332,7 +332,7 @@
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 243809,
+      "duration_ms": 226666,
       "name": "scared",
       "url": "https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB"
     },
@@ -460,7 +460,7 @@
           "url": "https://open.spotify.com/artist/2bWovm0DNeEkCevemRHN0C"
         }
       ],
-      "duration_ms": 99722,
+      "duration_ms": 99733,
       "name": "Homeless",
       "url": "https://open.spotify.com/track/2CFmicNQY4bzaxcgIXzcse"
     },

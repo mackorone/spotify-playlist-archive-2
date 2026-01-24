@@ -1,13 +1,317 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/0IpxUOafBaV2PPkm3b4E60?si=oInHh6BzRaiEnf8vuxa8cw\">Ezra</a>. Updates every Wednesday.",
-  "num_followers": 276119,
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4?si=kjTTAOiRTlmD3duoTo3JQA\">nomi.</a>. Updates every Wednesday.",
+  "num_followers": 276157,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP0U4p2nXm74TpAnlSkixkH5aHL4",
+  "snapshot_id": "AAAAADEQtWxL7f+P5o0ycqzbyFHNZOfB",
   "tracks": [
+    {
+      "added_at": "2026-01-15 19:58:06",
+      "album": {
+        "name": "raindance",
+        "url": "https://open.spotify.com/album/5xSBMTCqNGDgmIoZgcfVGD"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "duration_ms": 218918,
+      "name": "raindance",
+      "url": "https://open.spotify.com/track/127BebV29M41FmJqcl8k20"
+    },
+    {
+      "added_at": "2026-01-23 07:24:53",
+      "album": {
+        "name": "back 'n forth",
+        "url": "https://open.spotify.com/album/7yGYzM3gZnrkEJpIsZMmED"
+      },
+      "artists": [
+        {
+          "name": "Chuka, The Destroyer",
+          "url": "https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys"
+        }
+      ],
+      "duration_ms": 197952,
+      "name": "back 'n forth",
+      "url": "https://open.spotify.com/track/57c824155MOILKW4B9i26h"
+    },
+    {
+      "added_at": "2026-01-23 07:24:53",
+      "album": {
+        "name": "Ratchet & Blues",
+        "url": "https://open.spotify.com/album/7dYcz9wetA8fYJn7CmGVRd"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "duration_ms": 194705,
+      "name": "Before We Get In Here!",
+      "url": "https://open.spotify.com/track/2fF0gafyalVC79QziHA3f2"
+    },
+    {
+      "added_at": "2026-01-23 07:24:53",
+      "album": {
+        "name": "What I Didn't Say",
+        "url": "https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk"
+      },
+      "artists": [
+        {
+          "name": "Nija",
+          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
+        }
+      ],
+      "duration_ms": 179146,
+      "name": "Things We Do",
+      "url": "https://open.spotify.com/track/2sRG4WyPyGNLC20djAMXAL"
+    },
+    {
+      "added_at": "2026-01-23 07:24:53",
+      "album": {
+        "name": "Greyhound",
+        "url": "https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP"
+      },
+      "artists": [
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "duration_ms": 211669,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC"
+    },
+    {
+      "added_at": "2026-01-23 18:42:18",
+      "album": {
+        "name": "Say Yes",
+        "url": "https://open.spotify.com/album/2CCX41Vg8e2WR8mUDDULPg"
+      },
+      "artists": [
+        {
+          "name": "Marques Anthony",
+          "url": "https://open.spotify.com/artist/2jrrL6b7otRi8NSuB3oCvi"
+        }
+      ],
+      "duration_ms": 170078,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/5nSaqg4dZcy4FwwGYSH65h"
+    },
+    {
+      "added_at": "2026-01-23 18:42:18",
+      "album": {
+        "name": "Back To Myself",
+        "url": "https://open.spotify.com/album/6DHawCUnTdTVo2p5Z4tw8Y"
+      },
+      "artists": [
+        {
+          "name": "Misha",
+          "url": "https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7"
+        },
+        {
+          "name": "BeMyFiasco",
+          "url": "https://open.spotify.com/artist/2WDSk4ZbwCw2E99XV6gkRk"
+        },
+        {
+          "name": "cocabona",
+          "url": "https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT"
+        }
+      ],
+      "duration_ms": 192645,
+      "name": "Back To Myself",
+      "url": "https://open.spotify.com/track/59zFUuITYyRfbkuaFRKO7W"
+    },
+    {
+      "added_at": "2026-01-23 07:24:53",
+      "album": {
+        "name": "Almost There",
+        "url": "https://open.spotify.com/album/7sOimIUM5jqiDGAQ0WOR8n"
+      },
+      "artists": [
+        {
+          "name": "Latanya Alberto",
+          "url": "https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357"
+        }
+      ],
+      "duration_ms": 221228,
+      "name": "Almost There",
+      "url": "https://open.spotify.com/track/4PUwcojfOWPrGvEcPw1MOy"
+    },
+    {
+      "added_at": "2026-01-23 07:24:53",
+      "album": {
+        "name": "Deny",
+        "url": "https://open.spotify.com/album/1JqUqJT5UywEfuDZDOAX2h"
+      },
+      "artists": [
+        {
+          "name": "Olivia Escuyos",
+          "url": "https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM"
+        }
+      ],
+      "duration_ms": 153658,
+      "name": "Deny",
+      "url": "https://open.spotify.com/track/01iwrnIe7W19KeYauqn3yU"
+    },
+    {
+      "added_at": "2026-01-23 07:24:53",
+      "album": {
+        "name": "keepsake",
+        "url": "https://open.spotify.com/album/7qbYXzYoWTnlzDTHbs0oCS"
+      },
+      "artists": [
+        {
+          "name": "Ragz Originale",
+          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
+        },
+        {
+          "name": "Budgie",
+          "url": "https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89"
+        }
+      ],
+      "duration_ms": 155036,
+      "name": "same bed",
+      "url": "https://open.spotify.com/track/4hipQPwuLqq9RFxlpVAJET"
+    },
+    {
+      "added_at": "2026-01-23 07:24:53",
+      "album": {
+        "name": "TEASE",
+        "url": "https://open.spotify.com/album/62oKjKFNKBY7ywMqtCcSlR"
+      },
+      "artists": [
+        {
+          "name": "Stevan",
+          "url": "https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6"
+        }
+      ],
+      "duration_ms": 158936,
+      "name": "TEASE",
+      "url": "https://open.spotify.com/track/6k7D9YOYJrqEp3DXMSgI22"
+    },
+    {
+      "added_at": "2026-01-23 07:24:53",
+      "album": {
+        "name": "BITING MY TONGUE",
+        "url": "https://open.spotify.com/album/0sWQyYcdyxf93aZGA6ASvj"
+      },
+      "artists": [
+        {
+          "name": "Mikey Jose",
+          "url": "https://open.spotify.com/artist/3rJEy2vNlsmWO5JHxKEaP8"
+        }
+      ],
+      "duration_ms": 232974,
+      "name": "BITING MY TONGUE",
+      "url": "https://open.spotify.com/track/0JcIsvfeEsz493yYmD2S0i"
+    },
+    {
+      "added_at": "2026-01-23 07:24:53",
+      "album": {
+        "name": "After All (feat. Mac Ayres, Braxton Cook)",
+        "url": "https://open.spotify.com/album/4MnZnhpFL8gT0EIrB7Q2ZR"
+      },
+      "artists": [
+        {
+          "name": "GiddyGang",
+          "url": "https://open.spotify.com/artist/5hgceJkuyoeET8VNinxe4Q"
+        },
+        {
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
+        },
+        {
+          "name": "Vuyo",
+          "url": "https://open.spotify.com/artist/6pWOGQubsgAiEZmzioIyDi"
+        },
+        {
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        }
+      ],
+      "duration_ms": 248280,
+      "name": "After All (feat. Mac Ayres, Braxton Cook)",
+      "url": "https://open.spotify.com/track/1dKs1cUWl57GpEW20FAw0h"
+    },
+    {
+      "added_at": "2026-01-23 07:24:53",
+      "album": {
+        "name": "footwork",
+        "url": "https://open.spotify.com/album/23HUSuiX9Xtif1N5iBh5uj"
+      },
+      "artists": [
+        {
+          "name": "Ben Esser",
+          "url": "https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs"
+        },
+        {
+          "name": "Beau Diako",
+          "url": "https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu"
+        },
+        {
+          "name": "emawk",
+          "url": "https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "footwork",
+      "url": "https://open.spotify.com/track/1bkNnIkZpBB4tdhZwMji6Q"
+    },
+    {
+      "added_at": "2026-01-23 07:24:53",
+      "album": {
+        "name": "HARD TO LOVE",
+        "url": "https://open.spotify.com/album/3r7d8VEgrb33RxLRuhA9ua"
+      },
+      "artists": [
+        {
+          "name": "GoGo Morrow",
+          "url": "https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO"
+        }
+      ],
+      "duration_ms": 170790,
+      "name": "HARD TO LOVE",
+      "url": "https://open.spotify.com/track/5KeT3r2AjQ9zsW1tBwiPRW"
+    },
+    {
+      "added_at": "2026-01-23 07:24:53",
+      "album": {
+        "name": "Say It out Loud",
+        "url": "https://open.spotify.com/album/529y0JVOWJcdd5cL9Ospux"
+      },
+      "artists": [
+        {
+          "name": "Shaun Ross",
+          "url": "https://open.spotify.com/artist/6GaWtlUT3oavD9SEzhZrA1"
+        }
+      ],
+      "duration_ms": 292413,
+      "name": "Say It out Loud",
+      "url": "https://open.spotify.com/track/3aROwTI0uQ7ahjPr6ENHHf"
+    },
+    {
+      "added_at": "2026-01-23 07:24:53",
+      "album": {
+        "name": "All Mine",
+        "url": "https://open.spotify.com/album/0IvFRSvqWvoLYlosLMy6oN"
+      },
+      "artists": [
+        {
+          "name": "King Sis",
+          "url": "https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz"
+        }
+      ],
+      "duration_ms": 195468,
+      "name": "All Mine",
+      "url": "https://open.spotify.com/track/6ZwoesRQzoNAgoBtSj1PRp"
+    },
     {
       "added_at": "2026-01-15 19:58:06",
       "album": {
@@ -43,22 +347,6 @@
       "duration_ms": 161610,
       "name": "bad",
       "url": "https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ"
-    },
-    {
-      "added_at": "2026-01-15 19:58:06",
-      "album": {
-        "name": "raindance",
-        "url": "https://open.spotify.com/album/5xSBMTCqNGDgmIoZgcfVGD"
-      },
-      "artists": [
-        {
-          "name": "nomi.",
-          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
-        }
-      ],
-      "duration_ms": 218918,
-      "name": "raindance",
-      "url": "https://open.spotify.com/track/127BebV29M41FmJqcl8k20"
     },
     {
       "added_at": "2026-01-15 19:58:06",
@@ -355,22 +643,6 @@
       "duration_ms": 155156,
       "name": "STAY OR GO",
       "url": "https://open.spotify.com/track/0f1LRqsLF7iN899yuantJQ"
-    },
-    {
-      "added_at": "2026-01-15 19:58:06",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/0ZXQBzzk2NFOyXI29R0u2n"
-      },
-      "artists": [
-        {
-          "name": "Slime Dot",
-          "url": "https://open.spotify.com/artist/2LnFNK3k4zi3T48mrYdHmA"
-        }
-      ],
-      "duration_ms": 135603,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/62zawqT5Qv4kqQGpSUrRDe"
     },
     {
       "added_at": "2026-01-15 19:58:06",

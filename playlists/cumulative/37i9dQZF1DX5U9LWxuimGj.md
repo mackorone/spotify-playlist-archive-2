@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Codiciado
 
-206 songs - 11 hr 18 min
+207 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Aerolínea](https://open.spotify.com/track/5hSUeE4RnQ4sZfw3scLqse) | [Juan Cerro](https://open.spotify.com/artist/3dMAwDvgNZmLZHiVlFGi6L) | [Aerolínea](https://open.spotify.com/album/6hJXPdppcnnvnuiyLVyFzv) | 3:13 | 2024-07-26 |  |
 | [Alch Si](https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Alch Si](https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc) | 2:33 | 2023-12-01 |  |
 | [Anybody Else \- Latin Remix](https://open.spotify.com/track/0HvfTzdXOpyoUtayGyvLyn) | [Mira Goto](https://open.spotify.com/artist/4QsATL0ozR4un64TltaF7o), [Pamela Velez](https://open.spotify.com/artist/3nxx6KxCTRLcdlW4vFRy4U), [Nia Skyfer](https://open.spotify.com/artist/3eZUOEIFA3hTKWNs6UbZwN) | [Anybody Else \(Latin Remix\)](https://open.spotify.com/album/4XidZG19fylj92RfMH3fl0) | 2:00 | 2021-12-10 | 2024-04-10 |
+| [ARTE](https://open.spotify.com/track/7bPaLQrhhreazA9JrVxEBe) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [SILENCIO HABLA](https://open.spotify.com/album/0RwAGxwkMubOZcfmvUMFoS) | 3:27 | 2026-01-24 |  |
 | [Ashes](https://open.spotify.com/track/1apDxpEFWUmDrTSYYEHv0L) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 4:34 | 2022-07-08 | 2023-12-24 |
 | [Ashes](https://open.spotify.com/track/1ewuyLSOUAhscYp0Zas0KE) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/4UCb8uaJW44vhGZgiknqkb) | 4:34 | 2023-12-15 | 2024-04-10 |
 | [Ashes](https://open.spotify.com/track/6dben05JiKn09x31h1JgOW) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/5AmFYqUT1cu6JErSTHw5k6) | 4:34 | 2021-12-10 | 2022-07-29 |

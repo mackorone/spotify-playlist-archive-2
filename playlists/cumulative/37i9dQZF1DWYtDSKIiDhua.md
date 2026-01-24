@@ -4,7 +4,7 @@
 
 > R&B and good vibe tracks for your current mood\. Cover: Gen Neo
 
-1,504 songs - 3 day 8 hr 21 min
+1,504 songs - 3 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -547,6 +547,7 @@
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2022-10-13 | 2022-11-11 |
 | [Hide & Seek \- FLO Remix](https://open.spotify.com/track/6jAdi1dYM3CqKaPnaGu03H) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Hide & Seek \(FLO Remix\)](https://open.spotify.com/album/7sFeHL1xwkJEZzQarMXsDv) | 3:29 | 2023-01-05 | 2023-01-14 |
 | [Hiding Away](https://open.spotify.com/track/3jX8KrdmVz1LrsPn0UP4mT) | [Gursi Hills](https://open.spotify.com/artist/65DxVcXahJBCmIbLx72Eeu), [Melanny Banda](https://open.spotify.com/artist/65MdXRlcYlGcsPP3gtfNgt) | [Hiding Away](https://open.spotify.com/album/0mSzhxwcvTkvBH59sjI7P8) | 2:24 | 2023-08-17 | 2023-11-03 |
+| [High Key](https://open.spotify.com/track/48Rk6ZyFcztsyvUZeUFVXO) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Vacancy](https://open.spotify.com/album/2UuTaSOSxTNP6whKrwDqnS) | 2:12 | 2026-01-22 |  |
 | [High School in Jakarta](https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [High School in Jakarta](https://open.spotify.com/album/34zREEtZQOmQbqFU4cIQuT) | 3:39 | 2022-08-04 | 2022-08-19 |
 | [HIGHER](https://open.spotify.com/track/2INBpgdpRNNfUhCBPjNo4a) | [GAC \(Gamaliél Audrey Cantika\)](https://open.spotify.com/artist/3YYdJZO7kX8nwDzN3YJzdW) | [HIGHER](https://open.spotify.com/album/011fc3cGSjwlMpQg0NyLa3) | 4:13 | 2024-09-12 | 2024-12-05 |
 | [History](https://open.spotify.com/track/0kbfiqVhGoEtv6ANAHpHC6) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [History](https://open.spotify.com/album/025WWoX4KV2uNCUWoaKD2d) | 2:31 | 2026-01-08 |  |
@@ -1329,6 +1330,7 @@
 | [Tiger Eye](https://open.spotify.com/track/7dZlrLBC2ADnv5H8z7XxVX) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Tiger Eye](https://open.spotify.com/album/3LwicJyt2YKBim3P4oxzvM) | 2:36 | 2024-02-22 | 2024-05-17 |
 | [time](https://open.spotify.com/track/7KRcAAVwN5K4nDiQAhkDxe) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [balaclava](https://open.spotify.com/album/225BhK3notA8fEXeJ4oHtX) | 3:20 | 2023-02-17 | 2023-03-18 |
 | [Time Flies](https://open.spotify.com/track/5E3upQeg47ZTnpNkk7DjsM) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Time Flies](https://open.spotify.com/album/6qE7AdkTHRdOh40JYZctFQ) | 4:15 | 2025-06-19 | 2025-09-26 |
+| [Times Like This](https://open.spotify.com/track/5Q9uXyP4fZpvyVPxnbi9zD) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Through Thick & Thin](https://open.spotify.com/album/5e7Ss3pOjpbM0Q3bXNZGE6) | 2:48 | 2026-01-22 |  |
 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 | 2023-06-22 | 2025-01-17 |
 | [To be, or not to be ugly](https://open.spotify.com/track/25cJX61SWZCOlgNuvHf20c) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Ugly Duck](https://open.spotify.com/album/2gys1pKIbiL523OHH6H59P) | 2:54 | 2023-03-23 | 2023-04-28 |
 | [To The Moon And Back](https://open.spotify.com/track/5YeIAPfq56ceA3JV8hDKpH) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [To The Moon And Back](https://open.spotify.com/album/4BMLTlQ3CAY4beoL9S6LfB) | 3:31 | 2022-10-13 | 2023-02-18 |
@@ -1347,8 +1349,6 @@
 | [Touch](https://open.spotify.com/track/15uVSXyL5p9uKVJxOGEh3s) | [Stanley Dre](https://open.spotify.com/artist/0pLqQntz9Q7jNnAK9NXNeU), [Ainna](https://open.spotify.com/artist/2QQOFqKoq3XliaTfdQt9HQ) | [Touch](https://open.spotify.com/album/7BXQ1o3zk7SGFcooD1oBiv) | 3:36 | 2025-11-20 |  |
 | [Tough Love \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5qidBQqsjdwewlQaw16o3L) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Good Morning Gorgeous \(Deluxe\)](https://open.spotify.com/album/5K3aBzXwBvSltrtfBNYRl6) | 4:33 | 2022-06-08 | 2022-06-10 |
 | [Toxic Games](https://open.spotify.com/track/3QQYtCycRomIXlzeCQo6rj) | [fredrik s](https://open.spotify.com/artist/16UPHme5BmhuhoQpeTGGGr) | [Toxic Games](https://open.spotify.com/album/6lHCGQUi4ygqAUH0GHjJhL) | 3:09 | 2024-11-14 | 2024-12-05 |
-| [Track 4](https://open.spotify.com/track/5Q9uXyP4fZpvyVPxnbi9zD) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-22 |  |
-| [Track 5](https://open.spotify.com/track/48Rk6ZyFcztsyvUZeUFVXO) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-22 |  |
 | [TRACKSTAR](https://open.spotify.com/track/09TpTpWbD9axd31RT7Ga5f) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [BLONDE & BLUE](https://open.spotify.com/album/28o56S8zvYByZDg6MjGN9c) | 3:12 | 2025-10-09 | 2025-12-12 |
 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 | 2023-08-24 | 2023-09-01 |
 | [Tread Carefully](https://open.spotify.com/track/7newfXclX39UwWTw2gDswM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 3:02 | 2022-06-09 | 2022-06-24 |

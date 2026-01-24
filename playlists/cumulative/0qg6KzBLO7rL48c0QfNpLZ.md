@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,354 songs - 2 day 11 hr 48 min
+1,355 songs - 2 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Barcelona](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Barcelona](https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN) | 3:25 | 2024-06-14 | 2024-08-10 |
 | [Be Back Soon](https://open.spotify.com/track/4cMnwdMh43iquJL4n16RSs) | [Steeg](https://open.spotify.com/artist/7Cop3WdLhGUHerZfcDqeuG), [just Fede](https://open.spotify.com/artist/7uXJKN6U0eK8uWOdKAUNkP), [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf) | [Be Back Soon](https://open.spotify.com/album/1P9MXvy6wYqLGc2s5b7t9S) | 1:45 | 2024-09-27 | 2024-11-21 |
 | [Be My Lover](https://open.spotify.com/track/1ZikMCLtNtmd5MaSiRJtO8) | [KUOKKA](https://open.spotify.com/artist/6jFa0fLeBTANOdmD9171kE), [WHOKNOWS](https://open.spotify.com/artist/49CP1Oj52jww6pbuG9cl5y) | [Be My Lover](https://open.spotify.com/album/5KkOLARmyOvb4ioqMu5pcx) | 2:08 | 2024-06-28 | 2024-08-10 |
+| [Be Somewhere](https://open.spotify.com/track/7IddP0tIBe0Hh9oCYdtuyX) | [CLÜE](https://open.spotify.com/artist/3Su0ARjycouuBn1jXKPgQv) | [Be Somewhere](https://open.spotify.com/album/19MWoDnXbNGz6hg1RL4Kuw) | 2:38 | 2026-01-23 |  |
 | [Beach](https://open.spotify.com/track/5Dw5hmrucfSqh3N5oNuYe4) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Beach](https://open.spotify.com/album/6P1wpua1GZ4BZrX1OpKdTl) | 2:41 | 2025-03-21 | 2025-04-26 |
 | [Beach Day](https://open.spotify.com/track/4IQ1jrrISjRcYCvfmeMbx1) | [Sarah Berg](https://open.spotify.com/artist/58GK9mZiINEotW5TokOgUs) | [Beach Day](https://open.spotify.com/album/3Hhc0nXRn5LS2TYaGWKVmh) | 2:42 | 2024-07-12 | 2024-08-10 |
 | [Beautiful](https://open.spotify.com/track/3yj6Hc5nO7t88CUAss0tHH) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Beautiful](https://open.spotify.com/album/1CWzpNbClW9MWEhKcprnHC) | 2:55 | 2023-12-02 | 2024-09-15 |

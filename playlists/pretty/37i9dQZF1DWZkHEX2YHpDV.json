@@ -1,6 +1,6 @@
 {
   "description": "pop punk, alt, emo, post-hardcore & more. Cover: Tigers Jaw",
-  "num_followers": 444581,
+  "num_followers": 444570,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "guilty",
-        "url": "https://open.spotify.com/album/3253zAJpeFc8r292oypVnp"
-      },
-      "artists": [
-        {
-          "name": "elijah",
-          "url": "https://open.spotify.com/artist/2khsUR01VIAut0HXZUh5Gy"
-        }
-      ],
-      "duration_ms": 202451,
-      "name": "guilty",
-      "url": "https://open.spotify.com/track/4XGpAI67faqTFX21Vu6VgK"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "Funeral Soundtrack #4",
         "url": "https://open.spotify.com/album/612gMZhBmHiDyWwA5phdZl"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 163934,
       "name": "You Hear Yes",
       "url": "https://open.spotify.com/track/3XSCsuqhAqaVoYkYHHFrNC"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "guilty",
+        "url": "https://open.spotify.com/album/3253zAJpeFc8r292oypVnp"
+      },
+      "artists": [
+        {
+          "name": "elijah",
+          "url": "https://open.spotify.com/artist/2khsUR01VIAut0HXZUh5Gy"
+        }
+      ],
+      "duration_ms": 202451,
+      "name": "guilty",
+      "url": "https://open.spotify.com/track/4XGpAI67faqTFX21Vu6VgK"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "SIDEQUEST",
-        "url": "https://open.spotify.com/album/1IEj1Bvyvn7fIdDLJZNmfD"
-      },
-      "artists": [
-        {
-          "name": "Michael Clifford",
-          "url": "https://open.spotify.com/artist/5xnIHjofV8JpeKaWfFMcj0"
-        }
-      ],
-      "duration_ms": 178600,
-      "name": "enough",
-      "url": "https://open.spotify.com/track/2TtRe0m0PhThwIhxNDQfbP"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "Constant Headache",
         "url": "https://open.spotify.com/album/7bjfE4DXQd0lN46FX4wIwK"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 181430,
       "name": "Constant Headache",
       "url": "https://open.spotify.com/track/2xJV9FaGKNMIecMOtjGxX0"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "SIDEQUEST",
+        "url": "https://open.spotify.com/album/1IEj1Bvyvn7fIdDLJZNmfD"
+      },
+      "artists": [
+        {
+          "name": "Michael Clifford",
+          "url": "https://open.spotify.com/artist/5xnIHjofV8JpeKaWfFMcj0"
+        }
+      ],
+      "duration_ms": 178600,
+      "name": "enough",
+      "url": "https://open.spotify.com/track/2TtRe0m0PhThwIhxNDQfbP"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Where I Lay",
-        "url": "https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 216741,
-      "name": "Where I Lay",
-      "url": "https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "Oh No!",
         "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 193166,
       "name": "Oh No!",
       "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "Where I Lay",
+        "url": "https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 216741,
+      "name": "Where I Lay",
+      "url": "https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
+        "name": "Dark Magic",
+        "url": "https://open.spotify.com/album/4febs9NRsULttX3cSN4Oev"
+      },
+      "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Pity Party",
+      "url": "https://open.spotify.com/track/0Latl06o13TA9mQV7SBUpx"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
         "name": "The Hart",
         "url": "https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 220096,
       "name": "Through The Landslide",
       "url": "https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
-        "name": "Cult Classic",
-        "url": "https://open.spotify.com/album/1lDhJzS7NYP0SWQYKWQIPG"
-      },
-      "artists": [
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
-        }
-      ],
-      "duration_ms": 222317,
-      "name": "You",
-      "url": "https://open.spotify.com/track/2hZsXCd4yjv04usMf4chII"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
+        "name": "Cult Classic",
+        "url": "https://open.spotify.com/album/1lDhJzS7NYP0SWQYKWQIPG"
+      },
+      "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "duration_ms": 222317,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2hZsXCd4yjv04usMf4chII"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
         "name": "Island in the Sun",
         "url": "https://open.spotify.com/album/1aibaDj3PSbf7CdGJDMK7y"
       },
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Dark Magic",
-        "url": "https://open.spotify.com/album/4febs9NRsULttX3cSN4Oev"
-      },
-      "artists": [
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Pity Party",
-      "url": "https://open.spotify.com/track/0Latl06o13TA9mQV7SBUpx"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "Stop Talking",
         "url": "https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR"
       },
@@ -1399,18 +1399,22 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Bambi",
-        "url": "https://open.spotify.com/album/0BeIgFzQGCKVqyJ60HusXH"
+        "name": "Mike Nolan\u2019s Long Weekend ft. Dom Fox",
+        "url": "https://open.spotify.com/album/1jvuSRYOav8yv5GndOekAJ"
       },
       "artists": [
         {
-          "name": "Anxious",
-          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        },
+        {
+          "name": "Bad Luck.",
+          "url": "https://open.spotify.com/artist/4Hjb6XIYNt5Qkokl30luY9"
         }
       ],
-      "duration_ms": 195826,
-      "name": "Never Said",
-      "url": "https://open.spotify.com/track/544eBBEk91c9mskOEO2Axw"
+      "duration_ms": 214800,
+      "name": "Mike Nolan\u2019s Long Weekend ft. Dom Fox",
+      "url": "https://open.spotify.com/track/2lTwwQcnBQlh0d4Ipshbkl"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1435,6 +1439,22 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
+        "name": "Bambi",
+        "url": "https://open.spotify.com/album/0BeIgFzQGCKVqyJ60HusXH"
+      },
+      "artists": [
+        {
+          "name": "Anxious",
+          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
+        }
+      ],
+      "duration_ms": 195826,
+      "name": "Never Said",
+      "url": "https://open.spotify.com/track/544eBBEk91c9mskOEO2Axw"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
         "name": "dyed (2008 - 2023)",
         "url": "https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI"
       },
@@ -1447,26 +1467,6 @@
       "duration_ms": 180959,
       "name": "don't light the match (dyed black 2010)",
       "url": "https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
-        "name": "Mike Nolan\u2019s Long Weekend ft. Dom Fox",
-        "url": "https://open.spotify.com/album/1jvuSRYOav8yv5GndOekAJ"
-      },
-      "artists": [
-        {
-          "name": "Free Throw",
-          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
-        },
-        {
-          "name": "Bad Luck.",
-          "url": "https://open.spotify.com/artist/4Hjb6XIYNt5Qkokl30luY9"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Mike Nolan\u2019s Long Weekend ft. Dom Fox",
-      "url": "https://open.spotify.com/track/2lTwwQcnBQlh0d4Ipshbkl"
     },
     {
       "added_at": "2026-01-09 05:00:25",

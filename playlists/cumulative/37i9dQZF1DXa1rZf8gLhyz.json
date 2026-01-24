@@ -358,7 +358,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 152733,
       "name": "A Phonecall Away",
       "url": "https://open.spotify.com/track/6p8QgVwYxoDRwFIxH8aEyH"
@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "A song for always",
+        "url": "https://open.spotify.com/album/243X0tBoz7tqvTCEd1JmwW"
+      },
+      "artists": [
+        {
+          "name": "Luca Armone",
+          "url": "https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167200,
+      "name": "A song for always",
+      "url": "https://open.spotify.com/track/78EvJphoG9nEY8GP5pwTEX"
+    },
+    {
+      "album": {
         "name": "A Sudden Change",
         "url": "https://open.spotify.com/album/7osoP3C0IrtpOyz2Zouike"
       },
@@ -592,7 +610,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 136968,
       "name": "A Touch of Kindness",
       "url": "https://open.spotify.com/track/30Ts0oF1ycdLf7hxQCD1sF"
@@ -628,7 +646,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 272726,
       "name": "After The Rain",
       "url": "https://open.spotify.com/track/6LQtGpIF8z1hIK4vpUsLib"
@@ -1546,7 +1564,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 180005,
       "name": "Between the Streets",
       "url": "https://open.spotify.com/track/7H89YncjtSi7kxi4ZiO7zq"
@@ -1654,7 +1672,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 168053,
       "name": "Blue Lullaby",
       "url": "https://open.spotify.com/track/3QyPvo2te4CGEP6GmrXqM3"
@@ -1744,7 +1762,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 156208,
       "name": "Blue Room",
       "url": "https://open.spotify.com/track/0oLNhSMVdZalsr7xuCVTdI"
@@ -1978,7 +1996,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 174106,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/2lWr2P2cfBD0L1HfgGJXCf"
@@ -2018,6 +2036,24 @@
       "duration_ms": 165461,
       "name": "California Sunsets",
       "url": "https://open.spotify.com/track/6P7tVXzv3aJ0R5yDSAody8"
+    },
+    {
+      "album": {
+        "name": "Calm When You\u2019re Near",
+        "url": "https://open.spotify.com/album/6kyoMZ3ViTlorREmfT5ITv"
+      },
+      "artists": [
+        {
+          "name": "Oliver Stone",
+          "url": "https://open.spotify.com/artist/05yLB7Qm97sxn5VYq6JlEv"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Calm When You\u2019re Near",
+      "url": "https://open.spotify.com/track/2irKX6RwcRx19R09YQjvLG"
     },
     {
       "album": {
@@ -2086,7 +2122,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 220665,
       "name": "Carolina Sunset",
       "url": "https://open.spotify.com/track/2ac1BIT0RuWXRoDMXEN11v"
@@ -2302,7 +2338,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 187964,
       "name": "Closer and Closer",
       "url": "https://open.spotify.com/track/2HcCeSsTlpgR2OKq57pIZZ"
@@ -2608,7 +2644,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 144389,
       "name": "Dear Marie",
       "url": "https://open.spotify.com/track/5FRNPaYCvTHiXZzlLom0Kn"
@@ -2968,7 +3004,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 156155,
       "name": "Dreaming Of You",
       "url": "https://open.spotify.com/track/28QoRmgNTP79BmBMK0k3ng"
@@ -3220,7 +3256,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 184651,
       "name": "Empty Streets",
       "url": "https://open.spotify.com/track/29Qzz94zgZRJMVczpT4FrQ"
@@ -3670,7 +3706,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 191361,
       "name": "Flowers in the Morning",
       "url": "https://open.spotify.com/track/7ASptgkRQrTgsQ8jrtoovk"
@@ -4300,7 +4336,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 184272,
       "name": "Grindavik",
       "url": "https://open.spotify.com/track/6GWCFQA9xGMcwN5kkzPqXf"
@@ -4696,7 +4732,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 154033,
       "name": "I am sure",
       "url": "https://open.spotify.com/track/6tD4JQP6Kd60cU9NiPWU5q"
@@ -5650,7 +5686,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 140883,
       "name": "In the city",
       "url": "https://open.spotify.com/track/2KT7qCT0QEeqKYaj0RjZeE"
@@ -5974,7 +6010,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 175221,
       "name": "It's a Rose",
       "url": "https://open.spotify.com/track/31ZPwsxaX8ytpdlv3vaKzB"
@@ -5992,7 +6028,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 146145,
       "name": "It's Always You",
       "url": "https://open.spotify.com/track/0cp6chOz2cL9WPRmkXgMJh"
@@ -6172,7 +6208,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 199875,
       "name": "Just A Little Thought",
       "url": "https://open.spotify.com/track/5wU4KJSvgbfxHPdXj5Sp6b"
@@ -6226,7 +6262,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 156735,
       "name": "Just Driving By",
       "url": "https://open.spotify.com/track/5JkBRB6PjvagWvG16h3ICy"
@@ -6334,7 +6370,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 158105,
       "name": "Lars",
       "url": "https://open.spotify.com/track/7MYDpvoJIRfIhqibITZytN"
@@ -6424,7 +6460,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 147755,
       "name": "Late Silence",
       "url": "https://open.spotify.com/track/5BLJfLNLFD7KsVMKeeCD9v"
@@ -6568,7 +6604,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 156020,
       "name": "Let us go",
       "url": "https://open.spotify.com/track/1mktGHzwYkZp9CtcZXY6Lo"
@@ -6712,7 +6748,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 197450,
       "name": "Letters from a Barstool",
       "url": "https://open.spotify.com/track/6wEbKiEkYcxe5SZafmkR9Q"
@@ -6982,7 +7018,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 142000,
       "name": "Love's Journey",
       "url": "https://open.spotify.com/track/1iTgYDHG7NvHmPr7uBegFL"
@@ -7144,7 +7180,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 172000,
       "name": "Mademoiselle",
       "url": "https://open.spotify.com/track/3rG8628IHuYUTbjFHoT1Rm"
@@ -7198,7 +7234,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 183724,
       "name": "Maple swing",
       "url": "https://open.spotify.com/track/5g7O9vMagQF2ZA4ixq07ie"
@@ -7472,6 +7508,24 @@
       "duration_ms": 243759,
       "name": "Misty Mornings",
       "url": "https://open.spotify.com/track/6G3iMQqvvrsNNDb5c9Zd1u"
+    },
+    {
+      "album": {
+        "name": "Moments like these",
+        "url": "https://open.spotify.com/album/3scy4jz8xlk8r5LCpvRHCh"
+      },
+      "artists": [
+        {
+          "name": "Art Beckett",
+          "url": "https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135166,
+      "name": "Moments like these",
+      "url": "https://open.spotify.com/track/2GUX2SSimlXLvvdPDzp3qK"
     },
     {
       "album": {
@@ -8278,7 +8332,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 130840,
       "name": "novak",
       "url": "https://open.spotify.com/track/3rZVAQpemoV95KJ7hvrSg8"
@@ -8728,7 +8782,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 142600,
       "name": "Pale Horizon Line",
       "url": "https://open.spotify.com/track/7jSBqdGg2cOhtLXO2CmRxI"
@@ -8908,7 +8962,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 156701,
       "name": "Plaisir",
       "url": "https://open.spotify.com/track/3YwhZ5bXCH5jMPfcD8oDvv"
@@ -8944,7 +8998,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 178601,
       "name": "Playing Tricks",
       "url": "https://open.spotify.com/track/3wGDvlsozgULdVgDAyQhLK"
@@ -9254,7 +9308,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 176609,
       "name": "Reserved Judgement",
       "url": "https://open.spotify.com/track/3PgyUOs2llfKGv2GCYqpKi"
@@ -9524,7 +9578,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 175563,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/1L8uKNdTWyH9oDtJ3hn5iw"
@@ -9668,7 +9722,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 184925,
       "name": "Shades of Green",
       "url": "https://open.spotify.com/track/32eMU6GfkTm4O54vp4kvQG"
@@ -9740,7 +9794,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 150450,
       "name": "Silent Embrace",
       "url": "https://open.spotify.com/track/5Xj4kCc0Y44LYNTjmWDKLz"
@@ -10874,7 +10928,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 172624,
       "name": "Sweetzer Ave",
       "url": "https://open.spotify.com/track/4ZgHWOPfiCca93ZY8Q2QKB"
@@ -11594,7 +11648,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 162640,
       "name": "The Songbird",
       "url": "https://open.spotify.com/track/6r0SpNHMhuuUcndaJZ9Zxy"
@@ -12872,7 +12926,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 155069,
       "name": "You and I",
       "url": "https://open.spotify.com/track/3QF1JAkRF11UY4k64dtQUD"

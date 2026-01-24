@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of electronic trap \ud83c\udfc6 with RL Grime & Deadcrow",
+  "description": "The best of electronic trap \ud83d\udc51 with TroyBoi",
   "name": "Trap Mojito",
   "tracks": [
     {
@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 111627,
       "name": "B2B2B",
       "url": "https://open.spotify.com/track/3GxJzJeXgjR2v4Ck3qpXtO"
@@ -1738,7 +1738,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 180292,
       "name": "BLUE2TH!",
       "url": "https://open.spotify.com/track/3WlZDXyo8jPkHuCAIb3uPR"
@@ -2718,6 +2718,24 @@
       "duration_ms": 178333,
       "name": "Coming Over (feat. James Hersey)",
       "url": "https://open.spotify.com/track/6m3ZWIXhjoV76syT1j2oE9"
+    },
+    {
+      "album": {
+        "name": "CONTACT",
+        "url": "https://open.spotify.com/album/3SPBXfkSOjTqCqCJswA5BH"
+      },
+      "artists": [
+        {
+          "name": "Odd Language",
+          "url": "https://open.spotify.com/artist/6jo39RCQ903pfIWvev74XB"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183724,
+      "name": "CONTACT",
+      "url": "https://open.spotify.com/track/0qnkt7iy7onBjcyoKJcOpj"
     },
     {
       "album": {
@@ -5549,6 +5567,32 @@
     },
     {
       "album": {
+        "name": "GET LOUD",
+        "url": "https://open.spotify.com/album/2BmDEQOhlmva9bMBdvd1ps"
+      },
+      "artists": [
+        {
+          "name": "No Signal",
+          "url": "https://open.spotify.com/artist/1aJGcBWhdgt1b8sEZ1Hupk"
+        },
+        {
+          "name": "FrostTop",
+          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
+        },
+        {
+          "name": "RemK",
+          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189843,
+      "name": "GET LOUD",
+      "url": "https://open.spotify.com/track/3hIanoKRYqpCaOUwl8RIiG"
+    },
+    {
+      "album": {
         "name": "Get Money",
         "url": "https://open.spotify.com/album/0AKuWXcsRF1NmdP7YouXk2"
       },
@@ -7264,7 +7308,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 184202,
       "name": "I Can't Take It",
       "url": "https://open.spotify.com/track/6opSU5uIZO1m0B6OnUSNYM"
@@ -9782,7 +9826,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 237428,
       "name": "MERCY",
       "url": "https://open.spotify.com/track/2QoDGwJUabNMyJnxGJIy8w"
@@ -10952,6 +10996,24 @@
       "duration_ms": 164571,
       "name": "Not Into It",
       "url": "https://open.spotify.com/track/2eyzSwocgk3NVUVoTsu6VM"
+    },
+    {
+      "album": {
+        "name": "Not That Innocent",
+        "url": "https://open.spotify.com/album/15U7DS0yalcE2kkNMNZK8T"
+      },
+      "artists": [
+        {
+          "name": "Z3LLA",
+          "url": "https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111428,
+      "name": "Not That Innocent",
+      "url": "https://open.spotify.com/track/4Zn6WSY8SBZ4j83RwZQwII"
     },
     {
       "album": {
@@ -17536,6 +17598,24 @@
       "duration_ms": 219718,
       "name": "Your Lovin'",
       "url": "https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf"
+    },
+    {
+      "album": {
+        "name": "Zouki",
+        "url": "https://open.spotify.com/album/3riFmoDuxNNUwMa4pZtIdS"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158378,
+      "name": "Zouki",
+      "url": "https://open.spotify.com/track/4fi51l6vEHfAbq0vieFpMF"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Bienvenidx a la trampa mexa. Sleezy O en portada.",
+  "description": "Bienvenidx a la trampa mexa. Marcos Villalobos  e Ysrael Barajas en portada.",
   "name": "TRAPPERZ_MX",
   "tracks": [
     {
@@ -2536,7 +2536,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 133636,
       "name": "Desnuda",
       "url": "https://open.spotify.com/track/2i85TawahXLnpAXlZfVO8W"
@@ -3159,6 +3159,28 @@
     },
     {
       "album": {
+        "name": "F A B I",
+        "url": "https://open.spotify.com/album/10l9OEiofbjmsHyZHfhhm0"
+      },
+      "artists": [
+        {
+          "name": "fafabian",
+          "url": "https://open.spotify.com/artist/2vIFPryJv3KupiT13m7Q0n"
+        },
+        {
+          "name": "Onemillionkisses",
+          "url": "https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174084,
+      "name": "F A B I",
+      "url": "https://open.spotify.com/track/64YSgY7XKEN94Lgq3Aplbu"
+    },
+    {
+      "album": {
         "name": "fa$hion killa",
         "url": "https://open.spotify.com/album/5UfL0JnWie1XjTqmPhf8R8"
       },
@@ -3394,7 +3416,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 160000,
       "name": "Five A.M. In Monterrey",
       "url": "https://open.spotify.com/track/6LTrvGeJwMxCkWPlanTc3W"
@@ -6842,7 +6864,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 127730,
       "name": "OTAKU",
       "url": "https://open.spotify.com/track/1S8VD7a0pIL9Ryu6neHtKn"
@@ -8070,6 +8092,28 @@
       "duration_ms": 152000,
       "name": "Romeo y Julieta",
       "url": "https://open.spotify.com/track/3CoSvuPCBq0XyjAUHrAonc"
+    },
+    {
+      "album": {
+        "name": "Rompe",
+        "url": "https://open.spotify.com/album/6iIEgCuA1YR8ssWgzDfsqU"
+      },
+      "artists": [
+        {
+          "name": "Marcos Villalobos",
+          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
+        },
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175350,
+      "name": "Rompe",
+      "url": "https://open.spotify.com/track/2v4rukt5CsAHW2kEEqTKZy"
     },
     {
       "album": {
@@ -9568,6 +9612,24 @@
       "duration_ms": 74684,
       "name": "why?",
       "url": "https://open.spotify.com/track/3eNAjO88QTdxdDyAFVUnEJ"
+    },
+    {
+      "album": {
+        "name": "X-Man",
+        "url": "https://open.spotify.com/album/0W1m8QcQobX9tCSAfLXalo"
+      },
+      "artists": [
+        {
+          "name": "GoldenVato",
+          "url": "https://open.spotify.com/artist/2XmvJnNQlbfLL0NIsryD6b"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201441,
+      "name": "X-Man",
+      "url": "https://open.spotify.com/track/2lZVKcxAMWAmd2KYkwIrDX"
     },
     {
       "album": {

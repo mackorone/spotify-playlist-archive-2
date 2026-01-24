@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-354 songs - 22 hr 43 min
+355 songs - 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Call of the Wild](https://open.spotify.com/track/6ocXgZkJXgd1VnWRbSFGLS) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO) | [High Life](https://open.spotify.com/album/6JMceOsAz0CRAfAnUaWgmo) | 8:52 | 2022-12-05 | 2023-03-09 |
 | [Calm Waters](https://open.spotify.com/track/4C2PiEuyuMVrJvPhV1yl7q) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [Calm Waters](https://open.spotify.com/album/49du69iKacbpouSotoaiCQ) | 4:55 | 2024-06-28 | 2025-09-02 |
 | [Can I Get a Witness](https://open.spotify.com/track/0enKYk1ZUqInfYMLVhA4Wq) | [Eric Lau](https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n) | [Examples](https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD) | 1:27 | 2022-10-30 | 2025-03-08 |
+| [Can We Go Out?](https://open.spotify.com/track/3fCortoNYgdSrev2QFuTLz) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z) | [Can We Go Out?](https://open.spotify.com/album/4wfWEUXvF8NbaaFQK8gP3P) | 3:48 | 2026-01-23 |  |
 | [Catch](https://open.spotify.com/track/25Yv7YfWb4kDBVTR0ZUWKn) | [Thyme Flies](https://open.spotify.com/artist/5vvTzfxq87iU4vbka11aEj), [SOPH](https://open.spotify.com/artist/2IOxZ1jOFUN6lxzgOnF8js) | [Catch](https://open.spotify.com/album/1owOw7rhVR0qIeUiOrph0Y) | 3:04 | 2025-05-22 |  |
 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 | 2025-07-04 |  |
 | [Change Your Mind](https://open.spotify.com/track/0v49IQxhKOEw2eWv7hYiCn) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr) | [Change Your Mind](https://open.spotify.com/album/3BTH2AziFRHfvTEEruGyWp) | 3:50 | 2025-02-10 |  |
@@ -171,7 +172,7 @@
 | [LIA](https://open.spotify.com/track/76F5aEqRgxaUE34JX3g78g) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [LIA](https://open.spotify.com/album/34cWIUEnueKa9rQcXsXF4Q) | 3:38 | 2022-07-05 | 2022-12-09 |
 | [LIA](https://open.spotify.com/track/79yUKmyrDvi1QFVaqo9DIL) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [LIA](https://open.spotify.com/album/21Dh5zHvadr9S2b31QR2ok) | 3:38 | 2022-12-05 | 2024-04-19 |
 | [Light Blue for the Common Good](https://open.spotify.com/track/6mSixe8RKZ3rKOvYMxlMxz) | [Nuvole](https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1) | [Light Blue for the Common Good](https://open.spotify.com/album/3OqbmJ15UcOpFoq9eU70nD) | 7:00 | 2023-10-03 | 2025-05-15 |
-| [Lights Out](https://open.spotify.com/track/4wRaWtogW3IXgNBrL2jqZ8) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Aziza Jaye](https://open.spotify.com/artist/0tHJp3y1T8uA9oWhEOMRzE) | [Find Your Flame](https://open.spotify.com/album/7dkkrLhrHCTPsmc7JucvgL) | 4:01 | 2025-02-10 |  |
+| [Lights Out](https://open.spotify.com/track/4wRaWtogW3IXgNBrL2jqZ8) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Aziza Jaye](https://open.spotify.com/artist/0tHJp3y1T8uA9oWhEOMRzE) | [Find Your Flame](https://open.spotify.com/album/7dkkrLhrHCTPsmc7JucvgL) | 4:01 | 2025-02-10 | 2026-01-24 |
 | [Little Life](https://open.spotify.com/track/6k8Ma4BHrQhzF71ogxpKhI) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Hopscotch](https://open.spotify.com/album/3rX0StGwVF3griwE7wEdq5) | 2:59 | 2021-12-13 | 2024-02-24 |
 | [Lorelei](https://open.spotify.com/track/0ZmzyGzZwofhjqNRPr9bLj) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [Lorelei](https://open.spotify.com/album/2Xs0Q5Wg7g2zidwzo9Q2Ez) | 4:24 | 2025-01-10 |  |
 | [Lost Kingdoms](https://open.spotify.com/track/17YIpKXRkKKqvb8ZbzyOG1) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Nubya's 5ive](https://open.spotify.com/album/42X2Gyov8AhwjiHfGCfOC4) | 7:38 | 2022-10-30 | 2023-11-30 |

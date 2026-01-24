@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 
 > Where your new favourite bands are discovered\. Cover: Ulrika Spacek
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,010 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,020 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 | 49 | [Gallowine](https://open.spotify.com/track/2YHbbGCtiiwo2rEP1FupL0) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Gallowine](https://open.spotify.com/album/0hsKCAq5BVL0VEUe85jH4V) | 4:09 |
 | 50 | [Measly Means](https://open.spotify.com/track/0vtRXEqmLyIlbEhqnPIXX3) | [VILLANELLE](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Measly Means](https://open.spotify.com/album/39XEYzp5W10qC16dwPekg4) | 3:29 |
 
-Snapshot ID: `AAAAABYzT1kifI6yVfR4aC2v16Uco+Kx`
+Snapshot ID: `AAAAAAcW0TJQ5TU6ByRXE83KfIn3Lzts`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Zach Williams",
+  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Dan Bremnes",
   "name": "Top Contemporary Christian",
   "tracks": [
     {
@@ -2512,7 +2512,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 168179,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/2UqdshYSXOarPWkOyo7x2S"
@@ -3296,6 +3296,24 @@
       "duration_ms": 158388,
       "name": "GOD'S GOT MY BACK",
       "url": "https://open.spotify.com/track/08tPPfrrG7Hx0cWue5kk1y"
+    },
+    {
+      "album": {
+        "name": "God's Still Working On Me",
+        "url": "https://open.spotify.com/album/24aeQMeoofRpqVFfVixclf"
+      },
+      "artists": [
+        {
+          "name": "Consumed By Fire",
+          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258067,
+      "name": "God's Still Working On Me",
+      "url": "https://open.spotify.com/track/70icn8eAyAcbI0GYT8qdk1"
     },
     {
       "album": {
@@ -5186,7 +5204,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 261472,
       "name": "I See You",
       "url": "https://open.spotify.com/track/6nGGAMlrlKGy7U6XWiHVab"
@@ -5464,7 +5482,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 230561,
       "name": "If God Lives Here",
       "url": "https://open.spotify.com/track/38mlXMe2Sixjbv3ysYfeUL"
@@ -6336,7 +6354,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 253315,
       "name": "Letters To Heaven",
       "url": "https://open.spotify.com/track/3yetakf9ED4buJVMTTh9pU"
@@ -7162,7 +7180,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 226059,
       "name": "My Family",
       "url": "https://open.spotify.com/track/5FjpyEnGS7PbM9YXcllENi"
@@ -8441,6 +8459,24 @@
     },
     {
       "album": {
+        "name": "The Hero & The Villain",
+        "url": "https://open.spotify.com/album/4hTbkRnaRb9DDgwRZ4gYHz"
+      },
+      "artists": [
+        {
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199160,
+      "name": "Reaching For The Light",
+      "url": "https://open.spotify.com/track/4WNSoMT4yAw4O6qRFKHU3h"
+    },
+    {
+      "album": {
         "name": "Real Help",
         "url": "https://open.spotify.com/album/6gg4s2J6aDvluaTIZ2S7qD"
       },
@@ -9106,7 +9142,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 211400,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/5uYR8Fm4aTxx3zmTy7XJnf"
@@ -9230,6 +9266,24 @@
       "duration_ms": 309393,
       "name": "So Beautiful (Sungguh Indah)",
       "url": "https://open.spotify.com/track/53gemxU7CBNTaZ1ZzbJ81h"
+    },
+    {
+      "album": {
+        "name": "So Long Sad Songs",
+        "url": "https://open.spotify.com/album/7mU9YGfE049DBQYQTiefuG"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185092,
+      "name": "So Long Sad Songs",
+      "url": "https://open.spotify.com/track/05qqJOOLE3tfnEOTP67j8U"
     },
     {
       "album": {
@@ -11199,6 +11253,28 @@
     },
     {
       "album": {
+        "name": "Wait For Me",
+        "url": "https://open.spotify.com/album/21WbEejZ6Bp1mlAbd4qzdq"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        },
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210991,
+      "name": "Wait For Me",
+      "url": "https://open.spotify.com/track/2rB7wo5WpVwCY1Ewcr1kc6"
+    },
+    {
+      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe"
       },
@@ -11460,6 +11536,24 @@
       "duration_ms": 259552,
       "name": "What God Is Gonna Do",
       "url": "https://open.spotify.com/track/0YQF1BeB8otaL2AEjFimGn"
+    },
+    {
+      "album": {
+        "name": "What Grace Can Do",
+        "url": "https://open.spotify.com/album/7u7Fx7BFjC4bLFbbpvwgXi"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191113,
+      "name": "What Grace Can Do",
+      "url": "https://open.spotify.com/track/69edxtCgzBoQehxWdIZb2r"
     },
     {
       "album": {
@@ -12003,6 +12097,24 @@
     },
     {
       "album": {
+        "name": "Jamie MacDonald",
+        "url": "https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp"
+      },
+      "artists": [
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189593,
+      "name": "Won't Let Go",
+      "url": "https://open.spotify.com/track/4pRJMNLtar65GtT9vpzHu4"
+    },
+    {
+      "album": {
         "name": "Won't Let Me Go",
         "url": "https://open.spotify.com/album/1XIHJlUQDa7CFghiCQw1Nt"
       },
@@ -12394,6 +12506,24 @@
       "duration_ms": 172327,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3"
+    },
+    {
+      "album": {
+        "name": "You Lately",
+        "url": "https://open.spotify.com/album/7eT0rnRmAvsQvVtbV3YnHq"
+      },
+      "artists": [
+        {
+          "name": "Kaelob Mecum",
+          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248012,
+      "name": "You Lately",
+      "url": "https://open.spotify.com/track/1h4qDuxfpHz1wsE2mHfKPz"
     },
     {
       "album": {

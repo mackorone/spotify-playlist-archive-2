@@ -465,6 +465,24 @@
     },
     {
       "album": {
+        "name": "Baawra Mann",
+        "url": "https://open.spotify.com/album/7h2nzvqLaUZnMqwbDTreRN"
+      },
+      "artists": [
+        {
+          "name": "Shunya",
+          "url": "https://open.spotify.com/artist/5Oz3oUJpLWYpDMv75dkvc0"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252717,
+      "name": "Baawra Mann",
+      "url": "https://open.spotify.com/track/1PYbrx8dVS1fpbjPWILEzG"
+    },
+    {
+      "album": {
         "name": "Badastoor",
         "url": "https://open.spotify.com/album/1wIhDHHh84OmEaBOCOr85J"
       },
@@ -1184,7 +1202,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 210434,
       "name": "Dil Behra",
       "url": "https://open.spotify.com/track/6CNvkLUbOVTTwvtyAEPtmR"
@@ -1582,6 +1600,24 @@
       "duration_ms": 206735,
       "name": "Finding Her (Female Version) (From \"UR Debut\")",
       "url": "https://open.spotify.com/track/2sQsgq7QJqGCJ1HsZcORvT"
+    },
+    {
+      "album": {
+        "name": "Firki",
+        "url": "https://open.spotify.com/album/4ex57nAULj9BXxaOTFkuGv"
+      },
+      "artists": [
+        {
+          "name": "Bharat Chandak",
+          "url": "https://open.spotify.com/artist/42x6GyehEtbb2gToHIc3lF"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176823,
+      "name": "Firki",
+      "url": "https://open.spotify.com/track/2DVr3mimT7i7fq2znGJxrM"
     },
     {
       "album": {
@@ -3447,6 +3483,32 @@
     },
     {
       "album": {
+        "name": "maikhana",
+        "url": "https://open.spotify.com/album/7JkHK1NfMiEzjS8rNs0R6E"
+      },
+      "artists": [
+        {
+          "name": "Vasu Raina",
+          "url": "https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL"
+        },
+        {
+          "name": "Nanku",
+          "url": "https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p"
+        },
+        {
+          "name": "Lambo Drive",
+          "url": "https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "maikhana",
+      "url": "https://open.spotify.com/track/6yAb3fTPNYiJFxIRbw9Uyt"
+    },
+    {
+      "album": {
         "name": "Main Aur Tum - Single",
         "url": "https://open.spotify.com/album/1OWIwIqD7d8dq9oRSYczJD"
       },
@@ -5248,7 +5310,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 182400,
       "name": "Sitaara",
       "url": "https://open.spotify.com/track/3ENBNV0iX1jIM5xIP6tJTj"
@@ -6356,7 +6418,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 203392,
       "name": "Yun Hi Kahin",
       "url": "https://open.spotify.com/track/5F4hwTVNZwutsNEG8OPnoJ"

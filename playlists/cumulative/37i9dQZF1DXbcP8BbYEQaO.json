@@ -2293,6 +2293,24 @@
     },
     {
       "album": {
+        "name": "COLLAPSE PHASE",
+        "url": "https://open.spotify.com/album/05m2oQcE9oqxc6T7iAoYV5"
+      },
+      "artists": [
+        {
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256218,
+      "name": "COLLAPSE PHASE",
+      "url": "https://open.spotify.com/track/7ubcBnScUvAhrOWgIob519"
+    },
+    {
+      "album": {
         "name": "cologne",
         "url": "https://open.spotify.com/album/2H1DLafa0NXc3NxvC7Iqse"
       },
@@ -5952,7 +5970,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 189066,
       "name": "Hey Hi Hello",
       "url": "https://open.spotify.com/track/6ExEV08wGlV5bLqtyRAsdJ"
@@ -6732,6 +6750,24 @@
       "duration_ms": 121374,
       "name": "I Met Sarah in the Bathroom",
       "url": "https://open.spotify.com/track/0mr8FAnN9X70p5KRUwMIJx"
+    },
+    {
+      "album": {
+        "name": "I Still Miss You",
+        "url": "https://open.spotify.com/album/2sfzVUbUanspYI3WKrnWAn"
+      },
+      "artists": [
+        {
+          "name": "Sarah Nimmo",
+          "url": "https://open.spotify.com/artist/2U6enUXvLRB7L29djdKqJO"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264025,
+      "name": "I Still Miss You",
+      "url": "https://open.spotify.com/track/6KXobSGgzFxjHrljTre5oe"
     },
     {
       "album": {
@@ -9912,7 +9948,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 164227,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/61B6R29gn6rEbhHzLv9ess"
@@ -13715,6 +13751,24 @@
     },
     {
       "album": {
+        "name": "To Love Somebody",
+        "url": "https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237952,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV"
+    },
+    {
+      "album": {
         "name": "To Me",
         "url": "https://open.spotify.com/album/0u5WSJGs6HBbubRJZLHFhJ"
       },
@@ -14178,7 +14232,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 173027,
       "name": "ur gf",
       "url": "https://open.spotify.com/track/0PqnLIwJi5ikmE53xvoPl4"

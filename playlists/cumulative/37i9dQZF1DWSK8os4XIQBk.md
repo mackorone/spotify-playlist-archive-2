@@ -2,7 +2,7 @@
 
 ### [All About Country](https://open.spotify.com/playlist/37i9dQZF1DWSK8os4XIQBk)
 
-> Luke Combs and the biggest hits in country music.
+> Josh Ross and the biggest hits in country music.
 
 957 songs - 2 day 3 hr 56 min
 

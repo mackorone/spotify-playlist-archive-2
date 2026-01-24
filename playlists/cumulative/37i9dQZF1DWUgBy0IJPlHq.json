@@ -757,6 +757,24 @@
     },
     {
       "album": {
+        "name": "Already Left",
+        "url": "https://open.spotify.com/album/5FLywZlVFY5ly6OW4uJS46"
+      },
+      "artists": [
+        {
+          "name": "Max Alan",
+          "url": "https://open.spotify.com/artist/5iZ49r3ayCqsUesaetPDcr"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164048,
+      "name": "Already Left",
+      "url": "https://open.spotify.com/track/30tdAa1CpF0GmV4Mm2dccQ"
+    },
+    {
+      "album": {
         "name": "Back Down Home",
         "url": "https://open.spotify.com/album/5XXg1B8ODKe3udultRZQ6w"
       },
@@ -1402,7 +1420,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 116280,
       "name": "Black Powder",
       "url": "https://open.spotify.com/track/6grkDYOC3z47Zi4w02SVsz"
@@ -3691,6 +3709,24 @@
     },
     {
       "album": {
+        "name": "Edna Strange",
+        "url": "https://open.spotify.com/album/0XxKKtAi4p2cUqU6HNGzG2"
+      },
+      "artists": [
+        {
+          "name": "John Craigie",
+          "url": "https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213461,
+      "name": "Edna Strange",
+      "url": "https://open.spotify.com/track/6QIvpqNhl2AotxHG61wXpr"
+    },
+    {
+      "album": {
         "name": "El Dorado",
         "url": "https://open.spotify.com/album/01pat6dFkOovUam3FEHaaV"
       },
@@ -5522,7 +5558,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 228213,
       "name": "Homemaker",
       "url": "https://open.spotify.com/track/1dpHJD6H0ss39kycYn5czu"
@@ -7734,7 +7770,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 163750,
       "name": "Me More Cowboy Than You - Demo",
       "url": "https://open.spotify.com/track/2kKUOwItJDGmsTUMJ6eJOc"
@@ -12188,6 +12224,24 @@
       "duration_ms": 286479,
       "name": "Vanlife",
       "url": "https://open.spotify.com/track/45VMPMgzOLjEc7XHcWXiJJ"
+    },
+    {
+      "album": {
+        "name": "Vengeance and Grace (Alone)",
+        "url": "https://open.spotify.com/album/58TUnNesECAjYFzf4CAJ0y"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Tod",
+          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161200,
+      "name": "Vengeance and Grace (Alone)",
+      "url": "https://open.spotify.com/track/0SeLU1b8azQnryjWMhKqmE"
     },
     {
       "album": {

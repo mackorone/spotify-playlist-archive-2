@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Moa Rivera & Jerry Rivera
 
-815 songs - 1 day 22 hr 22 min
+816 songs - 1 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Cali Buenaventura](https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [Cali Buenaventura](https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e) | 3:18 | 2024-08-16 | 2025-01-28 |
 | [Call On Me](https://open.spotify.com/track/5dl97w82KkuprJVDKSyJQp) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Call On Me](https://open.spotify.com/album/3Ohcoreeq3qG3okky9o0Wx) | 2:48 | 2023-07-07 | 2024-04-06 |
 | [Calumnia](https://open.spotify.com/track/2AX7b01Rmdf215GOK3OIF8) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Calumnia](https://open.spotify.com/album/4vEn1u4njtUh83FAncUiEX) | 3:05 | 2024-03-08 | 2024-06-29 |
+| [CAMBIARÉ](https://open.spotify.com/track/0DHkA97Q6SWz7uanmsCy8u) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [CAMBIARÉ](https://open.spotify.com/album/6ZXLMVFtEzgYNQlbUMlzAU) | 3:01 | 2026-01-23 |  |
 | [Canaima](https://open.spotify.com/track/3W7KwglhgkvB6C6geMbdG0) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Canaima](https://open.spotify.com/album/0JJhhN6M64SeDDCIFvA1ok) | 2:29 | 2023-07-07 | 2023-08-19 |
 | [capaz \(merengueton\)](https://open.spotify.com/track/3QbfCvCAOCrSGNcGjtOjYM) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [capaz \(merengueton\)](https://open.spotify.com/album/2ZrE9RpWOoVhffUupc6hRV) | 2:53 | 2024-11-22 | 2025-03-29 |
 | [Caprichito](https://open.spotify.com/track/1NzUt0zLVo47HzFXymc53v) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Caprichito](https://open.spotify.com/album/0sI8xJ3Um4Bx7YECYOXNpH) | 3:46 | 2023-05-05 | 2023-05-20 |
@@ -404,7 +405,7 @@
 | [La Vida Da Vuelta](https://open.spotify.com/track/2sJkbRybtcw6nq9sN4fpad) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [La Vida Da Vuelta](https://open.spotify.com/album/1U5Ulw5MM2Qv5BafWrF4h1) | 2:42 | 2023-05-05 | 2023-07-08 |
 | [La Vida Es Una Fiesta](https://open.spotify.com/track/2fR4C0tal4V0MV4SAcSFEH) | [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [La Vida Es Una Fiesta](https://open.spotify.com/album/16a8ideBSg8vQrmhQy8xSZ) | 3:20 | 2024-07-26 | 2024-11-23 |
 | [La Visualizo 2.0 \- Remix](https://open.spotify.com/track/7phxoWBhAn7fxGbkqKpGds) | [Jimmy Rodriguez](https://open.spotify.com/artist/4M355xYeWAVoaecF6LL2av), [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc) | [La Visualizo 2.0 \(Remix\)](https://open.spotify.com/album/6Z1xgAyPSFeF2uD4ao9z3I) | 3:16 | 2024-06-07 | 2024-08-17 |
-| [La Zaza](https://open.spotify.com/track/7wbca2nUc5H5uXNpyyFBUo) | [Los Sufridos](https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2) | [La Zaza](https://open.spotify.com/album/7KJIMjx3aIZuHrOWDZi1K1) | 3:24 | 2025-09-19 |  |
+| [La Zaza](https://open.spotify.com/track/7wbca2nUc5H5uXNpyyFBUo) | [Los Sufridos](https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2) | [La Zaza](https://open.spotify.com/album/7KJIMjx3aIZuHrOWDZi1K1) | 3:24 | 2025-09-19 | 2026-01-24 |
 | [La Última Canción](https://open.spotify.com/track/6JxrD0jXVCEIIGG3X4kSrB) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Renacer](https://open.spotify.com/album/1rb41rTA9dUOW46y06c8zO) | 3:09 | 2024-05-24 | 2024-07-27 |
 | [LADRON](https://open.spotify.com/track/2NMctdE1VuUUc4VctEqamB) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [RAMKY EN LOS CONTROLES](https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd) | [LADRON](https://open.spotify.com/album/4rhn6ysDub2uGc0HJq4AF2) | 1:54 | 2025-12-12 |  |
 | [Lao' a Lao'](https://open.spotify.com/track/7FERDnffKGQKul3P32Sm37) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Lao' a Lao'](https://open.spotify.com/album/1tvJvDz3tXfhq0xfABFuU9) | 3:04 | 2022-01-01 | 2022-06-30 |

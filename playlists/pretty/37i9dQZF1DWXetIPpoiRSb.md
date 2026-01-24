@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > the pop lab 🧪 cover: lucky iris
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,416 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,414 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [HYPNOTIZE](https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [](https://open.spotify.com/album/null) | 2:50 |
+| 1 | [HYPNOTIZE](https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw) | 2:50 |
 | 2 | [Bruises on the Peach](https://open.spotify.com/track/6HYs3TipAbX6eR6YrQHCVS) | [googly eyes](https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa) | [Bruises on the Peach](https://open.spotify.com/album/5pj3C1wq8xvBMygTiOgHx1) | 2:58 |
 | 3 | [fall in love with the dj](https://open.spotify.com/track/56ZQHgh0SB0fefzS7BbT2E) | [Lucky Iris](https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC) | [fall in love with the dj](https://open.spotify.com/album/3JOCWksM1JNapygyn8tQPJ) | 3:00 |
 | 4 | [Talk To Me](https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential / Talk To Me](https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk) | 3:19 |
@@ -20,15 +20,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 10 | [Bullfight](https://open.spotify.com/track/3xuUlrilEoyAEihQp601xU) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Bullfight](https://open.spotify.com/album/52gqdVklfKH4JFbBkAAHnY) | 3:03 |
 | 11 | [crybby blue](https://open.spotify.com/track/6VvLMqlEMs3BOzBc2YOnXs) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [crybby blue](https://open.spotify.com/album/7FoWtdR8NB2OlD0kQpTrpu) | 2:36 |
 | 12 | [DANCE..\. \- Edit](https://open.spotify.com/track/1qN5HBXkNn8sq54AgM1ZJJ) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [DANCE...](https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v) | 3:56 |
-| 13 | [Serious \(feat\. The Teenagers\)](https://open.spotify.com/track/2CcSPtMgQrDK9Hr4Al0wYT) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f), [The Teenagers](https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4) | [Serious \(feat\. The Teenagers\)](https://open.spotify.com/album/28p2nPkSV5JUEJGzEpmHWs) | 2:42 |
+| 13 | [Serious \(feat\. The Teenagers\)](https://open.spotify.com/track/2CcSPtMgQrDK9Hr4Al0wYT) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f), [The Teenagers](https://open.spotify.com/artist/6EU3ei9Aim1yaX6hTJrjXE) | [Serious \(feat\. The Teenagers\)](https://open.spotify.com/album/28p2nPkSV5JUEJGzEpmHWs) | 2:42 |
 | 14 | [L.U.C.K.Y](https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [L.U.C.K.Y](https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0) | 2:18 |
 | 15 | [Sushi](https://open.spotify.com/track/0hHDMvLvoJh8gYbJIi182A) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA Afterglow](https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM) | 5:22 |
-| 16 | [MAIN QUEST GIRL](https://open.spotify.com/track/3izfXttfacD09wumtm92Bj) | [AMARA ctk100](https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy) | [](https://open.spotify.com/album/null) | 2:18 |
+| 16 | [MAIN QUEST GIRL](https://open.spotify.com/track/3izfXttfacD09wumtm92Bj) | [AMARA ctk100](https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy) | [SERVE IT HOT](https://open.spotify.com/album/6SNytU9HOJW7vaof472iIp) | 2:18 |
 | 17 | [Sexistential](https://open.spotify.com/track/4OLgQczN5Watwb6QI0tXeS) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential / Talk To Me](https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk) | 2:20 |
 | 18 | [popoff](https://open.spotify.com/track/3Zqb3efu07yMTtzjJr6sD5) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [popoff](https://open.spotify.com/album/02majg845th5H85t0drIEw) | 1:45 |
 | 19 | [Starry Eyed](https://open.spotify.com/track/6Z4vTlNiOcpd0jEMMUiJ0V) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Starry Eyed](https://open.spotify.com/album/5yfTAoSzrddV4p9rkslCoq) | 2:41 |
 | 20 | [GLOW\. \(Blusher Remix\)](https://open.spotify.com/track/2EHLYHcY5n1VetFu2Te0Mv) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [GLOW\. \(Blusher Remix\)](https://open.spotify.com/album/2r2imdB1FzSZzzsOHfyyna) | 2:05 |
-| 21 | [LOVESONGS](https://open.spotify.com/track/2VxbZ0V7UK4tR17FVDwIPR) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [](https://open.spotify.com/album/null) | 3:33 |
+| 21 | [LOVESONGS](https://open.spotify.com/track/2VxbZ0V7UK4tR17FVDwIPR) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:33 |
 | 22 | [ICY \(TAKE IT OFF\)](https://open.spotify.com/track/1Hs5hD1y5CCCHwFkM26kv3) | [Robert Baxter](https://open.spotify.com/artist/5VOw2lhSolJj6DgdrkN20j), [Sweatbaby](https://open.spotify.com/artist/1phDY6rkCuE2y5DYiQZ2Z9) | [ICY \(TAKE IT OFF\)](https://open.spotify.com/album/6XVgQ2o09OKo3cLDTAaWxW) | 3:24 |
 | 23 | [invisible wings](https://open.spotify.com/track/1iwApc5CudQCYHIJKugqYO) | [2charm](https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr) | [invisible wings](https://open.spotify.com/album/3yQXWC4qPtJS6wBK66VZpx) | 4:26 |
 | 24 | [MC69](https://open.spotify.com/track/4kVkhcd1lfV6HwN54kyxdg) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Worldstar](https://open.spotify.com/album/3j2ug4jEwFlbkt3MPvqaxI) | 2:25 |

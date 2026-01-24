@@ -1011,6 +1011,24 @@
     },
     {
       "album": {
+        "name": "Chuck Palahniuk",
+        "url": "https://open.spotify.com/album/4khQauBqAMThSxgowaAeaM"
+      },
+      "artists": [
+        {
+          "name": "Noah Derksen",
+          "url": "https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204546,
+      "name": "Chuck Palahniuk",
+      "url": "https://open.spotify.com/track/5aa6ci3q6VWwMwqK4KktJr"
+    },
+    {
+      "album": {
         "name": "Cinder Block",
         "url": "https://open.spotify.com/album/2XMx3ZVns6LFVKu3GpAYN6"
       },
@@ -1044,6 +1062,24 @@
       "duration_ms": 246586,
       "name": "Cinnamon Curls",
       "url": "https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe"
+    },
+    {
+      "album": {
+        "name": "It Could Be Worse",
+        "url": "https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215524,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7mvbNjFKdlpjnbcqocscuK"
     },
     {
       "album": {
@@ -1502,7 +1538,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 218000,
       "name": "Don't Know Why",
       "url": "https://open.spotify.com/track/1etgYYaZQFhdlxkSxz3p8X"
@@ -3736,7 +3772,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 243038,
       "name": "Live & Let Go (with DISPATCH)",
       "url": "https://open.spotify.com/track/5bANCdXPTD9Lik5JGhYsAO"
@@ -4521,6 +4557,24 @@
     },
     {
       "album": {
+        "name": "Covers, Pt.4",
+        "url": "https://open.spotify.com/album/41Ub2CLU6urzFOqRY4o36a"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200738,
+      "name": "Nutshell",
+      "url": "https://open.spotify.com/track/0FyKdFGvBnJvrnoSHPdxAZ"
+    },
+    {
+      "album": {
         "name": "Objection!",
         "url": "https://open.spotify.com/album/1UTgkMZcqoBxLARwMnPB8M"
       },
@@ -4936,7 +4990,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 201063,
       "name": "Please Don't Hate Me",
       "url": "https://open.spotify.com/track/1yvgEFgtTMU5jz9m6GXj9t"
@@ -6942,7 +6996,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 195617,
       "name": "What If",
       "url": "https://open.spotify.com/track/3ymjm6EZfPBLDSiCMSFh2y"

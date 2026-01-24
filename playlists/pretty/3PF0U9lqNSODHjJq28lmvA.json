@@ -1,162 +1,130 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2566,
+  "num_followers": 2567,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAAEmC6fj/vRtQTgKDrhBDqJU6Nffdu4",
+  "snapshot_id": "AAAErQUdMvreMmzJxTeYHrY23XmGGyoi",
   "tracks": [
     {
-      "added_at": "2026-01-16 12:51:16",
+      "added_at": "2026-01-23 18:02:17",
       "album": {
-        "name": "D.Y.C.I.I.B",
-        "url": "https://open.spotify.com/album/4xfwTBe2maBowmLgyuUT4A"
+        "name": "Bar Boy",
+        "url": "https://open.spotify.com/album/6sm49fhUhcBzL7J6PEIgv0"
       },
       "artists": [
         {
-          "name": "Nomy",
-          "url": "https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e"
+          "name": "GINAxC",
+          "url": "https://open.spotify.com/artist/4hHUHCaBuD2d2FRHLgeOWQ"
         }
       ],
-      "duration_ms": 195756,
-      "name": "D.Y.C.I.I.B",
-      "url": "https://open.spotify.com/track/1PuTiWyDCZe2Z0rmshebVy"
+      "duration_ms": 197714,
+      "name": "Mista",
+      "url": "https://open.spotify.com/track/660PeKhgNFdqGJ102ej7gU"
     },
     {
-      "added_at": "2026-01-16 13:47:22",
+      "added_at": "2026-01-23 18:14:32",
       "album": {
-        "name": "Tchikita",
-        "url": "https://open.spotify.com/album/2a88VeHnWCV0ogqcL4uz9g"
+        "name": "Gaslight (Stripped)",
+        "url": "https://open.spotify.com/album/6YPVJsb8cVp4QBwjz8gCUX"
       },
       "artists": [
         {
-          "name": "Rachid Kasmi",
-          "url": "https://open.spotify.com/artist/36wD11p3VIwHH25Glcn2ut"
-        },
-        {
-          "name": "Hassan Twil",
-          "url": "https://open.spotify.com/artist/17Zt1WNqB7Aa5osCy7UidH"
+          "name": "Marisa And The Moths",
+          "url": "https://open.spotify.com/artist/4AjGhQCCyOseKcUC5O1U7b"
         }
       ],
-      "duration_ms": 278095,
-      "name": "Tchikita",
-      "url": "https://open.spotify.com/track/3GDlJEiAmg77t2SQ5XI4yD"
+      "duration_ms": 233787,
+      "name": "Gaslight - Stripped",
+      "url": "https://open.spotify.com/track/5GOJV1CkjaJBCCnmZpPnA2"
     },
     {
-      "added_at": "2026-01-16 13:38:41",
+      "added_at": "2026-01-23 18:12:20",
       "album": {
-        "name": "LMB",
-        "url": "https://open.spotify.com/album/0Ui3nvkt22Vcwccjl0PwKF"
+        "name": "Mama, I miss you now",
+        "url": "https://open.spotify.com/album/4umdpM6kYKcdfgfn1Vbq2R"
       },
       "artists": [
         {
-          "name": "Sunny Suljic",
-          "url": "https://open.spotify.com/artist/3JcGZ9gszrHCHXC9wJtNko"
+          "name": "Jean Bright",
+          "url": "https://open.spotify.com/artist/038SDTkKmfwnL2zMdDUwmk"
         }
       ],
-      "duration_ms": 103384,
-      "name": "LMB",
-      "url": "https://open.spotify.com/track/5dafTw2hxgcCHQIOkx4Cne"
+      "duration_ms": 317280,
+      "name": "Mama, I Miss You Now",
+      "url": "https://open.spotify.com/track/5xWTIwLR3lR3SCMGGwWK9l"
     },
     {
-      "added_at": "2026-01-16 13:42:51",
+      "added_at": "2026-01-23 18:10:49",
       "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/15iylmvViQ7HKB8HvolXHT"
+        "name": "Ristisi juurella",
+        "url": "https://open.spotify.com/album/4eyQK3bTEomaDjzuppjKo6"
       },
       "artists": [
         {
-          "name": "Rebel Road",
-          "url": "https://open.spotify.com/artist/6S7kR53XKNCHwHCNXMmJRx"
+          "name": "Station Sound",
+          "url": "https://open.spotify.com/artist/3drb0l1LKFoQZJVpENIFR5"
         }
       ],
-      "duration_ms": 209586,
-      "name": "Glow",
-      "url": "https://open.spotify.com/track/0joNNb6rs7wrl8QPoKWXiG"
+      "duration_ms": 337306,
+      "name": "Tulkaa ja juokaa",
+      "url": "https://open.spotify.com/track/6btdY6JVhCv8uApWzRMq0Z"
     },
     {
-      "added_at": "2026-01-16 12:52:53",
+      "added_at": "2026-01-23 18:06:03",
       "album": {
-        "name": "A.J.",
-        "url": "https://open.spotify.com/album/46ZdQUiYDNmdCmDrcQ3QIA"
+        "name": "Blunda och falla",
+        "url": "https://open.spotify.com/album/7IKevWYzJottguucV8A4Xh"
       },
       "artists": [
         {
-          "name": "Fremmed Rase",
-          "url": "https://open.spotify.com/artist/2HVkpSj2pyklj7VLGr5N2U"
-        },
-        {
-          "name": "Loot Fattig",
-          "url": "https://open.spotify.com/artist/2APeaugKGBkjjHTTAUCip9"
-        },
-        {
-          "name": "DJ Konkret",
-          "url": "https://open.spotify.com/artist/5UvO2cDVVg7D0CjWDB67qD"
+          "name": "Jonsson United",
+          "url": "https://open.spotify.com/artist/69W6phOHQZLUyEk3HAyXLB"
         }
       ],
-      "duration_ms": 196359,
-      "name": "A.J.",
-      "url": "https://open.spotify.com/track/5VkVqfSf32SARvgsVQxMtM"
+      "duration_ms": 219979,
+      "name": "Blunda och falla",
+      "url": "https://open.spotify.com/track/2yIWTvqJJcTdZIzvsoXOxu"
     },
     {
-      "added_at": "2026-01-16 13:48:03",
+      "added_at": "2026-01-23 17:32:00",
       "album": {
-        "name": "Tourettes",
-        "url": "https://open.spotify.com/album/1R2Jr9QfSteQ3dq0mpsmBj"
+        "name": "ZIGGURAT",
+        "url": "https://open.spotify.com/album/4chAbohlYdRLC5U3mvrwxS"
       },
       "artists": [
         {
-          "name": "Xiao",
-          "url": "https://open.spotify.com/artist/7p7bBRBk6IU0X0lqIGj0fJ"
+          "name": "New Mexican Doom Cult",
+          "url": "https://open.spotify.com/artist/2HbG1tkZuG5G6iqflnWEJp"
         }
       ],
-      "duration_ms": 81157,
-      "name": "Tourettes",
-      "url": "https://open.spotify.com/track/16aAnG5ZF3lTFjwNU8gwNG"
+      "duration_ms": 333541,
+      "name": "Metatron",
+      "url": "https://open.spotify.com/track/1EoGjFr4lSNAyZXhrMz9u1"
     },
     {
-      "added_at": "2026-01-16 13:40:09",
+      "added_at": "2026-01-23 17:32:59",
       "album": {
-        "name": "Vandal",
-        "url": "https://open.spotify.com/album/4841ZT60xODYTbfxhDMrsr"
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/5Ou0iqZCCkILT11hLVnehc"
       },
       "artists": [
         {
-          "name": "Kurt Joseph",
-          "url": "https://open.spotify.com/artist/1TFSTrw4PLhPMQmPjVWiof"
-        },
-        {
-          "name": "Corey Cole",
-          "url": "https://open.spotify.com/artist/1lfB9mqqhxzlyntSnvPvl8"
+          "name": "Ciaran Boast",
+          "url": "https://open.spotify.com/artist/1oAlxLnsAEPUhu46wQ826j"
         }
       ],
-      "duration_ms": 176672,
-      "name": "Vandal",
-      "url": "https://open.spotify.com/track/3c0BxAU8qVNkpSvPugHICa"
+      "duration_ms": 174920,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/6sC64D5ZSzmeD2mluezEEi"
     },
     {
-      "added_at": "2026-01-16 12:51:46",
+      "added_at": "2026-01-23 17:33:23",
       "album": {
-        "name": "Vastaan maailmaa",
-        "url": "https://open.spotify.com/album/1miu1JlFIEuRZODWV9T07p"
-      },
-      "artists": [
-        {
-          "name": "Onni",
-          "url": "https://open.spotify.com/artist/4C7Hk6wMYyugTkVyj3fXqh"
-        }
-      ],
-      "duration_ms": 169049,
-      "name": "Vastaan maailmaa",
-      "url": "https://open.spotify.com/track/0lSOs8QgtHD4Sjwb8u7vjW"
-    },
-    {
-      "added_at": "2026-01-16 12:53:51",
-      "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/5e8RgY5DKfrMAnR0olupVH"
+        "name": "Midnight Carousel",
+        "url": "https://open.spotify.com/album/3XQxc3iHFTIuRQG0KLdG5R"
       },
       "artists": [
         {
@@ -164,95 +132,79 @@
           "url": "https://open.spotify.com/artist/3on12dgxzzZxV0qGDHM8cn"
         }
       ],
-      "duration_ms": 190208,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/27GaDBPaEtq8JZwS094URb"
+      "duration_ms": 195200,
+      "name": "Midnight Carousel",
+      "url": "https://open.spotify.com/track/72xmebUCBlsMujay5xo6hJ"
     },
     {
-      "added_at": "2026-01-16 12:56:10",
+      "added_at": "2026-01-23 17:35:55",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/0wlTJuYQQYjgi2hJQDpJgc"
+        "name": "No Second Thoughts",
+        "url": "https://open.spotify.com/album/7urHQ1LsghtlQDBhBdaRwC"
       },
       "artists": [
         {
-          "name": "Rikard Vilhelm Lindell",
-          "url": "https://open.spotify.com/artist/2Pt05ellB018jz5R96Mp6W"
+          "name": "Verdant Tide",
+          "url": "https://open.spotify.com/artist/6HTYQdG1XoNQdgp2ZAk1Re"
         }
       ],
-      "duration_ms": 538536,
-      "name": "A Piece of Soft",
-      "url": "https://open.spotify.com/track/4ak8B1olvkpauzzlp5W5LD"
+      "duration_ms": 261293,
+      "name": "The End of History",
+      "url": "https://open.spotify.com/track/6DUzqWiFWfjAG779DbT6X1"
     },
     {
-      "added_at": "2026-01-16 12:56:51",
+      "added_at": "2026-01-23 17:36:46",
       "album": {
-        "name": "Alone Again",
-        "url": "https://open.spotify.com/album/1chprB3zyOIm9gKDUytZ94"
+        "name": "Dog Days",
+        "url": "https://open.spotify.com/album/0SvWf4OwWsSUnjZPbOTJDn"
       },
       "artists": [
         {
-          "name": "Solvind",
-          "url": "https://open.spotify.com/artist/4XwwyUWfJ0ka29mvQIxL5X"
+          "name": "\u00dcbert\u00f8s",
+          "url": "https://open.spotify.com/artist/23EwSTWP5KpCmAak9GX4pX"
         }
       ],
-      "duration_ms": 232138,
-      "name": "Alone Again",
-      "url": "https://open.spotify.com/track/3l7FU6UPlXoutUrXPPGzqx"
+      "duration_ms": 236040,
+      "name": "Dog Days",
+      "url": "https://open.spotify.com/track/036d9bvWOotFu5ZEXex64o"
     },
     {
-      "added_at": "2026-01-16 13:28:51",
+      "added_at": "2026-01-23 18:01:14",
       "album": {
-        "name": "It Is the How",
-        "url": "https://open.spotify.com/album/3J8Jh8vbMsISgLnh5wOpnq"
+        "name": "Nicky Is Dead!",
+        "url": "https://open.spotify.com/album/2GrUp86rOwWA0qUQ4pSob2"
       },
       "artists": [
         {
-          "name": "Solvind",
-          "url": "https://open.spotify.com/artist/4XwwyUWfJ0ka29mvQIxL5X"
+          "name": "Electric Pets",
+          "url": "https://open.spotify.com/artist/5vcnO1y3jGvpaTc22C5QLi"
         }
       ],
-      "duration_ms": 199881,
-      "name": "It Is the How",
-      "url": "https://open.spotify.com/track/0yiIqrz2GRHVZz1hZHepuP"
+      "duration_ms": 163146,
+      "name": "Nicky Is Dead!",
+      "url": "https://open.spotify.com/track/3T63EmKrczJeyBee82enVl"
     },
     {
-      "added_at": "2026-01-16 13:31:37",
+      "added_at": "2026-01-23 18:06:51",
       "album": {
-        "name": "F.Y.A (Forever Young Africa)",
-        "url": "https://open.spotify.com/album/3PMZvBe0zRB8wtSCmxiRPT"
+        "name": "Devil's Beat",
+        "url": "https://open.spotify.com/album/1Nzmr1w7cnVNpn1QXb0bia"
       },
       "artists": [
         {
-          "name": "A.M.K",
-          "url": "https://open.spotify.com/artist/5ejLca8xTTxpkuthaCBIpu"
+          "name": "Victor Natas & The Midnight Hustlers",
+          "url": "https://open.spotify.com/artist/0x7oqfZAoxSRk2QdgeFwED"
         }
       ],
-      "duration_ms": 192880,
-      "name": "F.Y.A (Forever Young Africa)",
-      "url": "https://open.spotify.com/track/4cYGoux4TGETvH6SiyVfY4"
+      "duration_ms": 180000,
+      "name": "Devil's Beat",
+      "url": "https://open.spotify.com/track/1k7krEjj5pSeksUZHyFLIB"
     },
     {
-      "added_at": "2026-01-16 13:34:41",
+      "added_at": "2026-01-23 18:08:13",
       "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/2cwlpRGE2nFVTPHxaSOGwR"
-      },
-      "artists": [
-        {
-          "name": "A.M.K",
-          "url": "https://open.spotify.com/artist/5ejLca8xTTxpkuthaCBIpu"
-        }
-      ],
-      "duration_ms": 246200,
-      "name": "Dumb",
-      "url": "https://open.spotify.com/track/70eelnkJQ364NqiMtwFbEA"
-    },
-    {
-      "added_at": "2026-01-16 13:38:01",
-      "album": {
-        "name": "\u0395\u03b3\u03c9 \u03b8\u03b5\u03bb\u03c9 \u03c4\u03bf \u03c3\u03c0\u03b9\u03c4\u03b9 \u03bc\u03bf\u03c5",
-        "url": "https://open.spotify.com/album/0yqzrdG2jXZ3NFCbeCwEgh"
+        "name": "\u03a3\u03c4\u03bf \u03c3\u03c7\u03bf\u03bb\u03b5\u03af\u03bf",
+        "url": "https://open.spotify.com/album/1EVlECRmeCkKr5HpxtzPyw"
       },
       "artists": [
         {
@@ -260,129 +212,45 @@
           "url": "https://open.spotify.com/artist/2ec8p4vt3OGLO2JIcOefIK"
         }
       ],
-      "duration_ms": 180500,
-      "name": "\u0395\u03b3\u03c9 \u03b8\u03b5\u03bb\u03c9 \u03c4\u03bf \u03c3\u03c0\u03b9\u03c4\u03b9 \u03bc\u03bf\u03c5",
-      "url": "https://open.spotify.com/track/5ddbTFqYEeQTmYhikSILQx"
+      "duration_ms": 172599,
+      "name": "\u03a3\u03c4\u03bf \u03c3\u03c7\u03bf\u03bb\u03b5\u03af\u03bf",
+      "url": "https://open.spotify.com/track/34hR02d60R8aUVQFAxzBab"
     },
     {
-      "added_at": "2026-01-16 13:39:33",
+      "added_at": "2026-01-23 18:11:45",
       "album": {
-        "name": "Neglected Scumbag",
-        "url": "https://open.spotify.com/album/0wwTaPuFhRL23KygXt0EWx"
+        "name": "Lo peor de mi",
+        "url": "https://open.spotify.com/album/1h9e3lhO6PbE3c60hQIcHZ"
       },
       "artists": [
         {
-          "name": "Tom Fortuna",
-          "url": "https://open.spotify.com/artist/3ver9CwdXwM4UOZf2s1a0P"
+          "name": "Flor Novoa",
+          "url": "https://open.spotify.com/artist/3SYXbJulIwfpMY36ePqc7d"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Sola En La Ciudad",
+      "url": "https://open.spotify.com/track/7bqrzrOU6CYpazLnpI9eZ6"
+    },
+    {
+      "added_at": "2026-01-23 18:12:56",
+      "album": {
+        "name": "How We Rave",
+        "url": "https://open.spotify.com/album/4eja1YiwwgZhM78MJRR8CT"
+      },
+      "artists": [
+        {
+          "name": "Too Hard To Spell",
+          "url": "https://open.spotify.com/artist/2EQcck7DUz4tBSp2zRKC55"
         },
         {
-          "name": "Yakho",
-          "url": "https://open.spotify.com/artist/4K1NwClmTQmQu7sZByari9"
+          "name": "Impulse Live",
+          "url": "https://open.spotify.com/artist/3ya89iitoloda0ReL0JLSM"
         }
       ],
-      "duration_ms": 183779,
-      "name": "Lies and Lies",
-      "url": "https://open.spotify.com/track/7wWyjSCrhqUfWzAnFGv2rq"
-    },
-    {
-      "added_at": "2026-01-16 13:40:46",
-      "album": {
-        "name": "Cathedral",
-        "url": "https://open.spotify.com/album/7Lnz04GPAMIOSx8ojWYSW2"
-      },
-      "artists": [
-        {
-          "name": "Take Me Out",
-          "url": "https://open.spotify.com/artist/10uN7jAKmT7BxIMxMBFsfF"
-        }
-      ],
-      "duration_ms": 235568,
-      "name": "Cathedral",
-      "url": "https://open.spotify.com/track/7de3aMtIy1OLXcc3eVGe1s"
-    },
-    {
-      "added_at": "2026-01-16 13:41:56",
-      "album": {
-        "name": "Wanna Be Like You",
-        "url": "https://open.spotify.com/album/5B9t3Iqsw3XsPn2zRYEMNv"
-      },
-      "artists": [
-        {
-          "name": "Alexander Scheele",
-          "url": "https://open.spotify.com/artist/2gOHOymY97X73WcqFSoL29"
-        },
-        {
-          "name": "Axilo",
-          "url": "https://open.spotify.com/artist/7FxRA7369WIBCP8uwtMICP"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Wanna Be Like You - Axilo House Remix",
-      "url": "https://open.spotify.com/track/5uXTkgIXTRyTHGFoqO6hkK"
-    },
-    {
-      "added_at": "2026-01-16 13:44:55",
-      "album": {
-        "name": "Helsinki After Rain",
-        "url": "https://open.spotify.com/album/1cQgDIxiF7xS4pjDjSeEY1"
-      },
-      "artists": [
-        {
-          "name": "Jazz Cinematica",
-          "url": "https://open.spotify.com/artist/6AvlN1azkmCLIlENyGRraQ"
-        }
-      ],
-      "duration_ms": 210174,
-      "name": "Helsinki After Rain",
-      "url": "https://open.spotify.com/track/1veELD244Wwy6hDBpmDcmO"
-    },
-    {
-      "added_at": "2026-01-16 13:45:55",
-      "album": {
-        "name": "Addicts Poem",
-        "url": "https://open.spotify.com/album/3ISedZvxfy2DKmmHJoYXHv"
-      },
-      "artists": [
-        {
-          "name": "DeadLeaf",
-          "url": "https://open.spotify.com/artist/7IJcDs3WtCUlkA6ERaVjje"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Addicts Poem",
-      "url": "https://open.spotify.com/track/0DJQwcvGr5Nqc5XEIanEeV"
-    },
-    {
-      "added_at": "2026-01-16 13:46:43",
-      "album": {
-        "name": "It's All Just Dirt",
-        "url": "https://open.spotify.com/album/0VC7DqukWwRnjnCIiLZWFB"
-      },
-      "artists": [
-        {
-          "name": "Electric Hydra",
-          "url": "https://open.spotify.com/artist/5iF37V1AGqA6aLAo1pC7Fn"
-        }
-      ],
-      "duration_ms": 274432,
-      "name": "It's All Just Dirt",
-      "url": "https://open.spotify.com/track/6yKXUllXDutrHHynWmgccw"
-    },
-    {
-      "added_at": "2026-01-16 13:48:46",
-      "album": {
-        "name": "Torn Pages",
-        "url": "https://open.spotify.com/album/6Jgnb2yABjtU8ZOmF3o4PW"
-      },
-      "artists": [
-        {
-          "name": "Yugi Kandi",
-          "url": "https://open.spotify.com/artist/5QKYVKn1IMGI7wEOGOiMCD"
-        }
-      ],
-      "duration_ms": 107520,
-      "name": "Congratulations I Hope You're Happy",
-      "url": "https://open.spotify.com/track/5ypDppJOGVCqL2IdM8D6p2"
+      "duration_ms": 236800,
+      "name": "How We Rave",
+      "url": "https://open.spotify.com/track/3ac5w3ZXHbkn3LJ0qjJecY"
     }
   ],
   "unique_name": "Independent Music Friday",

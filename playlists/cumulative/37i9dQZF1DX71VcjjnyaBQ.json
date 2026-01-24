@@ -803,6 +803,28 @@
     },
     {
       "album": {
+        "name": "Choctaw Alley",
+        "url": "https://open.spotify.com/album/5GJ85LlMnvSKZa4vCHax0f"
+      },
+      "artists": [
+        {
+          "name": "Jesse Davis",
+          "url": "https://open.spotify.com/artist/2uFsCpn3Cqi3ml8QXYqfOs"
+        },
+        {
+          "name": "Lewis Nash",
+          "url": "https://open.spotify.com/artist/2v2TVDl1P2YDSy9jXntWFt"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383066,
+      "name": "Choctaw Alley",
+      "url": "https://open.spotify.com/track/6nFCsAi3K3pOegQLOOX3OG"
+    },
+    {
+      "album": {
         "name": "Cloudland",
         "url": "https://open.spotify.com/album/0fm7uQgAG7FIMzrKZfKMng"
       },
@@ -1580,7 +1602,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 203986,
       "name": "For my lady",
       "url": "https://open.spotify.com/track/7tkyGvCJZbGcF35y71WRtG"
@@ -2684,6 +2706,24 @@
       "duration_ms": 285770,
       "name": "Mosa\u00efque",
       "url": "https://open.spotify.com/track/46ENsWZeNIoYgu8VQfxhUc"
+    },
+    {
+      "album": {
+        "name": "My Ideal",
+        "url": "https://open.spotify.com/album/6xXuMAVU80bzQRe36TGAq5"
+      },
+      "artists": [
+        {
+          "name": "Walter Smith III",
+          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246866,
+      "name": "My Ideal",
+      "url": "https://open.spotify.com/track/1EeWkiiptCgP6M8ImrcyDu"
     },
     {
       "album": {
@@ -3938,7 +3978,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 329333,
       "name": "Strange Flower",
       "url": "https://open.spotify.com/track/0UtrANV4z9NMiYSbZRu9Z2"

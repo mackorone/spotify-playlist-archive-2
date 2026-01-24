@@ -4,7 +4,7 @@
 
 > The wave of Latin Electronic music\. Cover: RØZ
 
-429 songs - 22 hr 19 min
+430 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Baile Bounce](https://open.spotify.com/track/4JAi6fdEddk9XpW23KYq2E) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U), [BOLO THE DJ](https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7), [CASA AMIGOS](https://open.spotify.com/artist/1GfmUaYy7OeBPTwqDrjiE3) | [Baile Bounce](https://open.spotify.com/album/7BTKwaSJQBJvzMxVb82sVE) | 2:14 | 2025-10-11 |  |
 | [BAMBOLE \- TAAO REMIX](https://open.spotify.com/track/5b2alA5jFTuaGs0aSjqvcV) | [Vikina](https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Taao](https://open.spotify.com/artist/00I4wKx2BvStGK00Y3Kw5k) | [¿QUESTIONS? RELOADED](https://open.spotify.com/album/7lHgkI1A7SNKQ2V1njA9yt) | 2:47 | 2025-04-11 |  |
 | [BEACHY \(Play\-N\-Skillz House Remix\)](https://open.spotify.com/track/73DBgvxxWCJxgwqhlBK4pa) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [BEACHY \(Play\-N\-Skillz House Remix\)](https://open.spotify.com/album/3uLcK52pbcbW74QQZseCYv) | 3:25 | 2023-07-07 | 2025-01-22 |
+| [bebe](https://open.spotify.com/track/73YCfe06Hq68MmS5GFIf0m) | [Cobuz & Bustta](https://open.spotify.com/artist/3m7M07iLR1ragTqZ1Wm1NX) | [bebe](https://open.spotify.com/album/5TMjQ1nkCdafJ2KXxSLOKj) | 2:24 | 2026-01-24 |  |
 | [Belico Guaracha](https://open.spotify.com/track/1OEXKTNAgCLzLafDtvDhJn) | [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja) | [Belico Guaracha](https://open.spotify.com/album/6xO1uEzWSALC4fGfpIgmuu) | 3:00 | 2023-09-29 | 2024-04-19 |
 | [Belicosa](https://open.spotify.com/track/4s7yfI7nh95h4xikmgcJYX) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Belicosa](https://open.spotify.com/album/1mgG5z2H6wKiY297LxllvD) | 2:58 | 2025-03-21 |  |
 | [Bella](https://open.spotify.com/track/5wUy2O6MboPWHvIgkMuaNN) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [Bella](https://open.spotify.com/album/5Hef5rVWnh3nNzYODt0xks) | 2:03 | 2024-04-05 | 2025-01-18 |
@@ -49,7 +50,7 @@
 | [Beso \(Fruta Fresca\)](https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Beso \(Fruta Fresca\)](https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV) | 3:17 | 2024-01-12 | 2024-11-09 |
 | [Beso De Tres](https://open.spotify.com/track/7o31QdyRw3QvnnMjudXRxl) | [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Salvi](https://open.spotify.com/artist/09M87xFMTKdsWJxpEWaiat), [Franklin Dam](https://open.spotify.com/artist/6lWfCJxyX6jAQVQbhLLOPY) | [Beso De Tres](https://open.spotify.com/album/7emW1NQUpXMuFCcLcr9sNd) | 2:37 | 2022-03-22 | 2022-04-29 |
 | [Bien Loco](https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Bien Loco](https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA) | 2:49 | 2023-09-29 | 2024-04-19 |
-| [Bitch](https://open.spotify.com/track/6CB9r4IC3iHpKjowIVinOV) | [Private Music](https://open.spotify.com/artist/1eKjyHjZxxy9jt85oWnF1L), [Joonyes](https://open.spotify.com/artist/3blefdKESIFMEPBM11UYw9) | [Bitch](https://open.spotify.com/album/2lfxXTo48Acq4YZXO4wkSJ) | 3:45 | 2025-11-28 |  |
+| [Bitch](https://open.spotify.com/track/6CB9r4IC3iHpKjowIVinOV) | [Private Music](https://open.spotify.com/artist/1eKjyHjZxxy9jt85oWnF1L), [Joonyes](https://open.spotify.com/artist/3blefdKESIFMEPBM11UYw9), [Sr APG](https://open.spotify.com/artist/0UBaYKoVQ3ICB5vPKe14mp) | [Bitch](https://open.spotify.com/album/2lfxXTo48Acq4YZXO4wkSJ) | 3:45 | 2025-11-28 |  |
 | [BLACKOUT](https://open.spotify.com/track/5DKTM173OW6XpokjPqfMae) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [BLACKOUT](https://open.spotify.com/album/4uPjXNAV5ElagRiBsc4JR5) | 3:03 | 2023-01-09 | 2023-07-01 |
 | [Boa Noite](https://open.spotify.com/track/6BCizRXYVjlVsTHWporI29) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Tonina](https://open.spotify.com/artist/5CNjEQS5vkm6B9BGEDqJ7b) | [Boa Noite](https://open.spotify.com/album/2bxlAdHsTpyuo1eWjMMuMc) | 2:46 | 2023-03-31 | 2023-05-27 |
 | [Boa Noite \(La Noche\)](https://open.spotify.com/track/0e5tqOMASIDGrRrdl8IgbI) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Tonina](https://open.spotify.com/artist/5CNjEQS5vkm6B9BGEDqJ7b) | [Boa Noite \(La Noche\)](https://open.spotify.com/album/7m1mis2i6R6Rhv64wgpXpQ) | 4:42 | 2023-04-14 | 2023-05-27 |

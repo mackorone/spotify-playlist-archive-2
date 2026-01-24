@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> 100 % chill, 100 % Montréal\. Photo: Peter Peter
+> 100 % chill, 100 % Montréal\. Photo: Maddie Bay
 
-771 songs - 1 day 19 hr 44 min
+777 songs - 1 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Days With You](https://open.spotify.com/track/5N6WeW88EoI3OnpYoKvhLh) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Days With You](https://open.spotify.com/album/4o8nsp5Yjks4EEtZgqYS41) | 2:49 | 2022-03-25 | 2022-07-09 |
 | [DDB](https://open.spotify.com/track/1VmLzoCqA75Ev6ENxV0bbe) | [Adib Alkhalidey](https://open.spotify.com/artist/1EwYqZHaDtS8o7lHNI172L) | [Plexus lunaire](https://open.spotify.com/album/4ZKMEVg1Cf4m0b5VzCnwVG) | 3:13 | 2025-11-28 | 2025-12-04 |
 | [De la perspective d'un vieil homme \- P'tit Belliveau Remix](https://open.spotify.com/track/6VNas98Qy7GSduZoQeW9LY) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt), [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [Perspectives](https://open.spotify.com/album/12AkIdAo8bCIpjFHLEKSPb) | 3:36 | 2022-03-25 | 2022-05-20 |
+| [Demain](https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi) | [Zach Boileau](https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO) | [Demain](https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1) | 3:49 | 2026-01-23 |  |
 | [Demain je pars](https://open.spotify.com/track/4bcBIZQBBmIhbVUoA5RSxO) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Demain je pars](https://open.spotify.com/album/3UIdlDGFLJdkmX8J1z3kgi) | 3:29 | 2025-11-07 | 2025-12-04 |
 | [Depuis](https://open.spotify.com/track/1Usjk5AH5azDSfUstQ50bG) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Depuis](https://open.spotify.com/album/5kcemtwM4yXjUk5C6a24Va) | 4:53 | 2022-07-22 | 2022-10-08 |
 | [Depuis](https://open.spotify.com/track/7D14x2U6kLT9BhbmsjWmPW) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Depuis](https://open.spotify.com/album/4uyTvxltj4VNnQ1T2n8cnY) | 4:53 | 2022-03-25 | 2022-07-29 |
@@ -242,6 +243,7 @@
 | [figure me out](https://open.spotify.com/track/0aW9tzWTluJpRqMrBzsrpB) | [Brvno](https://open.spotify.com/artist/5jEbZchGgpNRgeBQEgVMyN) | [figure me out](https://open.spotify.com/album/3qjOkOZ9FeKIHxsp8aCmFO) | 3:18 | 2022-09-02 | 2023-03-25 |
 | [Fille comme toi](https://open.spotify.com/track/4LppGJVGSYyTOltD5zuI6s) | [Vinni Payne](https://open.spotify.com/artist/0RACPsCniRLw69idP2ps59) | [Fille comme toi](https://open.spotify.com/album/0OntlsOCuKTF4YM1n4KjTQ) | 2:59 | 2025-10-31 | 2025-12-04 |
 | [Fille à porter](https://open.spotify.com/track/6qpxifNt7ZpB8fmW2p6Vhx) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 3:15 | 2022-03-25 | 2023-09-09 |
+| [fin pm](https://open.spotify.com/track/5RfuZ5YOvLicj7LbKs0NPl) | [Maddie Bay](https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd) | [fin pm](https://open.spotify.com/album/5aQA5dQiOjahrXv7M9W3xv) | 3:11 | 2026-01-23 |  |
 | [Fiou](https://open.spotify.com/track/27IRQ055RStNgQshuVR7yx) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [Fiou \- Chronique d'une vie de merde](https://open.spotify.com/album/37hElmGl09vwW226nnA97R) | 2:49 | 2025-03-21 | 2025-10-18 |
 | [Fixe](https://open.spotify.com/track/0Ytu2GKTYlI2Gu32AYK1P4) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Choses Sauvages III](https://open.spotify.com/album/0O8l1A1rZ2TO5eZ3wqjPoU) | 2:55 | 2025-03-28 | 2025-10-11 |
 | [Fièvre](https://open.spotify.com/track/0i52Kimd9JK0cYbbqBYR6R) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [Fièvre](https://open.spotify.com/album/4O1FVF6WNDLB2FLLxMBCBd) | 4:09 | 2022-03-25 | 2022-10-15 |
@@ -483,6 +485,7 @@
 | [Mélodie](https://open.spotify.com/track/5WtVhKKPkobhT9K1ddMBpH) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Mélodie / Rodeo](https://open.spotify.com/album/5y4jwPzUYpj75kbgcBt00j) | 2:30 | 2022-03-25 | 2022-05-28 |
 | [N'importe Où Sauf Ici](https://open.spotify.com/track/4A1qgXWGeirwpwD7rppwje) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [L'air d'aller \(Musique de la série télévisée\)](https://open.spotify.com/album/1QOmJrabv7hVYpM5VeS0vO) | 2:26 | 2023-08-18 | 2024-11-16 |
 | [Nausia](https://open.spotify.com/track/7i1YeplaiVwQ5YNgB2wCp0) | [Delachute](https://open.spotify.com/artist/63xoDp7jjgyzogVPxmVgjX) | [Nausia](https://open.spotify.com/album/7H1NAUGAZQxEjWfIvgfXAB) | 1:52 | 2024-06-07 | 2025-09-26 |
+| [Ne me fais pas mal](https://open.spotify.com/track/5vMfDo2q3Pl8e4qgczvrzm) | [Édouard Tremblay\-Grenier](https://open.spotify.com/artist/6renDkf9cZYkI2TX5SKD4X) | [François Roberge](https://open.spotify.com/album/6sVp4J3N1Ws0Mouj5ksdAp) | 2:57 | 2026-01-23 |  |
 | [Neon](https://open.spotify.com/track/2M2MpJLcjmuXYDbFrA8OoE) | [Mirabelle](https://open.spotify.com/artist/7ccDEQF3klS28iA5TI3b6m) | [Flickering Lights](https://open.spotify.com/album/6w8iEyywSIzRUayxEjr9JC) | 3:16 | 2023-01-30 | 2023-12-16 |
 | [Neuf à cinq](https://open.spotify.com/track/5JCR88ZFSvTaackes4UtEX) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Vie d'ange](https://open.spotify.com/album/02sz0knMpefNYQB2vYLthH) | 3:21 | 2022-07-15 | 2022-10-29 |
 | [Never](https://open.spotify.com/track/5sZgAMlmxIL2WxnJzHTsA6) | [Welcome John](https://open.spotify.com/artist/1SYfOJn0EeqCnfBabrsCTd) | [Never](https://open.spotify.com/album/5798SKT0DGEiiQwsOmEEEq) | 3:55 | 2024-09-20 | 2025-10-18 |
@@ -513,6 +516,7 @@
 | [on s'en fou](https://open.spotify.com/track/4hYzt5vDT38IsjnbI8RSAV) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [swirly](https://open.spotify.com/album/6xxKNduR65aGZkDTuNZ6Be) | 3:25 | 2023-05-26 | 2024-08-10 |
 | [On Time](https://open.spotify.com/track/58uv9bsR0CpkCzHD8dPztO) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [On Time](https://open.spotify.com/album/4qix7rW4u0UyYSjUamQlRM) | 3:09 | 2025-10-10 | 2026-01-17 |
 | [One Gripe](https://open.spotify.com/track/2Xml90DLbRQ5UI2gUfjAAA) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [All Cylinders](https://open.spotify.com/album/1jooROM5diSNAfEwESyDDH) | 2:29 | 2025-02-28 | 2025-10-18 |
+| [ONE LAST TIME](https://open.spotify.com/track/5YNjmAkavfCkKkxijlkV7x) | [AMEN DENIRO](https://open.spotify.com/artist/5i5IBAqlmKRwgkalA07mZ5) | [ONE LAST TIME](https://open.spotify.com/album/04QpsUH0xWoAsEGRRPw6um) | 3:03 | 2026-01-23 |  |
 | [Onze](https://open.spotify.com/track/6DrxgVFozVbFmyRRXm5Bkr) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Onze / À l'étang des roseaux](https://open.spotify.com/album/1r65So7Rknf9GTdsPSWFaR) | 3:10 | 2023-11-24 | 2024-06-29 |
 | [ORANGE](https://open.spotify.com/track/6KCHDmrYnJoxjBjtfmURSy) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [Sip](https://open.spotify.com/album/50XzWO5A3W9Kk6hMR24kh6) | 3:41 | 2024-09-06 | 2025-10-11 |
 | [Otherworld](https://open.spotify.com/track/1PB3Lp4dueOkWEud6wzyd5) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Running With Scissors](https://open.spotify.com/album/3rMwZ588kYdYTmVvu35act) | 4:10 | 2025-09-26 | 2025-12-04 |
@@ -546,6 +550,7 @@
 | [Perséides](https://open.spotify.com/track/0xPDPbVbPqmCJo3Vb3Zo9S) | [Olivier Faubert](https://open.spotify.com/artist/7MtaiRiCaon9iTg2dfHC45) | [Pour ne pas mourir en hiver](https://open.spotify.com/album/0S8289PBO9djmi6HpP3QNK) | 3:24 | 2026-01-16 |  |
 | [Petit canari](https://open.spotify.com/track/300OkUCUMwKO8tNjoWORP0) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Petit canari](https://open.spotify.com/album/1QiOn6KM23NyBfu4voBV1s) | 2:44 | 2023-09-08 | 2023-11-18 |
 | [Petites heures](https://open.spotify.com/track/6sKjA3f8dQdUdocMqMdvMG) | [Rosemarie Gauthier](https://open.spotify.com/artist/4QtWi9ZNMw804r2uxyIZAH) | [Petites heures](https://open.spotify.com/album/2DRiFnFPBWNQvTCgVr2lor) | 2:59 | 2025-11-07 | 2025-12-04 |
+| [Phenomenal](https://open.spotify.com/track/5Y4lT8lWahQ8rAjCgHVW0F) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Phenomenal](https://open.spotify.com/album/1tYZgGV48mxPxIUr5sH4dx) | 2:47 | 2026-01-23 |  |
 | [Picture in Picture](https://open.spotify.com/track/2TNziyPiO5OyGnSDZ44MGQ) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Picture in Picture](https://open.spotify.com/album/5Dpa1BC2KYnwlRJEoeTqTk) | 4:01 | 2023-01-20 | 2024-01-24 |
 | [Pinstripe](https://open.spotify.com/track/7xgYhFywtEe1cGz7g92oLS) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Pinstripe](https://open.spotify.com/album/2n6vul9nQeViq0dCmTyCE2) | 3:22 | 2023-06-30 | 2023-09-30 |
 | [Pissed Black Girl](https://open.spotify.com/track/2jf4eV6xXe1z3tZAfGuB7c) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Pissed Black Girl](https://open.spotify.com/album/24BZlsNv1awggEHEtyjZaI) | 3:25 | 2022-04-22 | 2022-07-29 |
@@ -695,6 +700,7 @@
 | [The Ride](https://open.spotify.com/track/0U2CIiuR2rm5JnA3gyi7Qi) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [The Ride](https://open.spotify.com/album/3oLWwKaQBN3RgjllHPnubw) | 3:00 | 2024-03-01 | 2025-07-05 |
 | [think about us](https://open.spotify.com/track/1O3b8pqhkn8GOYmWkon3dj) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [portable darkroom \(Deluxe\)](https://open.spotify.com/album/3zWCNflH0aebMLrbWUguTo) | 2:00 | 2025-04-04 | 2026-01-17 |
 | [Thistledown \- Hologramme Remix](https://open.spotify.com/track/3x8zytmuCEToqPcR0RucAq) | [Lia Kuri](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj), [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN) | [Thistledown \(Hologramme Remix\)](https://open.spotify.com/album/0SdYzNfOsGxJtO673CRLM6) | 3:32 | 2025-10-17 | 2025-12-04 |
+| [Those Years When Everything Changed](https://open.spotify.com/track/2zaWSK9c0VVy8pny45jnDI) | [D R M S](https://open.spotify.com/artist/00yiM4q7xFzD8kJ6pUxjeH) | [Those Years When Everything Changed](https://open.spotify.com/album/2Khi3PQnMSlBA9aUG6IXaM) | 3:10 | 2026-01-23 |  |
 | [Thoughts](https://open.spotify.com/track/7LiJPY5xc2detxiw2imOHz) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Thoughts](https://open.spotify.com/album/0NJpguJ1eEvtQvnViUqH0z) | 3:12 | 2026-01-16 |  |
 | [Tigers](https://open.spotify.com/track/6kzUpCvFPRrJ3HRhV37Nfb) | [Drucker](https://open.spotify.com/artist/5Zl9VaZUCcLF64614o1Zks) | [Tigers](https://open.spotify.com/album/4RLnM0JcRFgb6yYKeHmLWT) | 2:29 | 2025-11-14 | 2025-12-04 |
 | [Ton appartement](https://open.spotify.com/track/4rIMgETCYlTAaxcEWb9OpB) | [Zoo Baby](https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO) | [Ton appartement](https://open.spotify.com/album/4FagpYnN7zVEttFd4ZEuK5) | 3:51 | 2022-10-21 | 2023-01-14 |

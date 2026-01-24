@@ -1920,7 +1920,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 189680,
       "name": "BRING THE FIRE",
       "url": "https://open.spotify.com/track/1SJaEr3m8ZDONbQAbFHQx7"
@@ -10653,6 +10653,24 @@
     },
     {
       "album": {
+        "name": "ROSES",
+        "url": "https://open.spotify.com/album/0QqZQlP3TnrGvWpxKzOV96"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "ROSES",
+      "url": "https://open.spotify.com/track/6N4bKr0NJtNad2aPl0KAqm"
+    },
+    {
+      "album": {
         "name": "Royal",
         "url": "https://open.spotify.com/album/1YKSS88CPp87pKphKTZMTd"
       },
@@ -10722,7 +10740,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 199000,
       "name": "Running to Future",
       "url": "https://open.spotify.com/track/4GoHlroPFfWSJzp6PSZEzU"
@@ -14950,6 +14968,24 @@
       "duration_ms": 188666,
       "name": "\u30cf\u30d4\u30c0\u30f3",
       "url": "https://open.spotify.com/track/5czewRI91ZJivj3xcEArZL"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30eb\u30b3\u30a4",
+        "url": "https://open.spotify.com/album/157u9W7ZHan5PPA9i55G7D"
+      },
+      "artists": [
+        {
+          "name": "DXTEEN",
+          "url": "https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181306,
+      "name": "\u30cf\u30eb\u30b3\u30a4",
+      "url": "https://open.spotify.com/track/10VPSkOYogP0pWfkWmKa8X"
     },
     {
       "album": {

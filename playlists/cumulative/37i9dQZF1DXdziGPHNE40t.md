@@ -2,9 +2,9 @@
 
 ### [Jazzy Morning](https://open.spotify.com/playlist/37i9dQZF1DXdziGPHNE40t)
 
-> start your day right ☕️ wake up with some calm and slow Jazz
+> start your day right ☕️ wake up with some warm and slow Jazz
 
-748 songs - 1 day 20 hr 16 min
+749 songs - 1 day 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Comeuppance](https://open.spotify.com/track/3iU2rkahLELzejRd4zhtK8) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Comeuppance](https://open.spotify.com/album/0i12bOmKWymeeCHCTzj7En) | 4:35 | 2022-12-22 | 2024-01-19 |
 | [Confidant](https://open.spotify.com/track/2uW43oEqS8nCOcMP7nwNLE) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Confidant](https://open.spotify.com/album/4SBCeZYO6ldszj9bzQHfPl) | 4:04 | 2022-05-17 | 2023-03-03 |
 | [Confusion](https://open.spotify.com/track/1sfrJ2DKdKEjDccAxJR3be) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [Confusion](https://open.spotify.com/album/4sejLrOmf7ooG9OK3y9sHm) | 3:09 | 2023-06-22 | 2024-09-03 |
+| [Convenient](https://open.spotify.com/track/0rU5aB8QnpdUV9cIDa4OyJ) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Convenient](https://open.spotify.com/album/4w05LjC25m4vW1u7BxetMP) | 2:39 | 2026-01-23 |  |
 | [Cool Breeze](https://open.spotify.com/track/0dzh53o5y3EqVcjicXRcGN) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Cool Breeze](https://open.spotify.com/album/2onbyBVdickYJ8OAZfqJPa) | 4:13 | 2023-08-17 | 2024-10-08 |
 | [Copenhagen](https://open.spotify.com/track/0VVVbPZGjOrOAsc2NCj1kC) | [Black Door Band](https://open.spotify.com/artist/5HwT1pXVlbHMRiuOWJhcni) | [Copenhagen](https://open.spotify.com/album/2rk2djcLVkyWKIcD3CZ7QW) | 4:01 | 2024-08-26 | 2025-03-19 |
 | [Corner table](https://open.spotify.com/track/2dc2ZYPCigRip2DHM2UcJM) | [Autumn Steps](https://open.spotify.com/artist/5TDtP1kKqz98kh9c0MXuOp) | [Corner table](https://open.spotify.com/album/6m3eQRNB1Ej4Gu5sI5lkVM) | 3:54 | 2025-08-19 | 2025-09-24 |
@@ -426,7 +427,7 @@
 | [My Ideal](https://open.spotify.com/track/7auDnLAZDuygfAcDyaRwIN) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [My Ideal](https://open.spotify.com/album/1UPIz7n0yAGGuMaonT6Vho) | 3:20 | 2023-04-27 | 2025-07-24 |
 | [My Ideal](https://open.spotify.com/track/74JcbkYE5pCo2aDwfvSZK0) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [My Ideal](https://open.spotify.com/album/24UkLtCJQy7LB4BMYpmszg) | 3:12 | 2025-01-07 | 2025-04-16 |
 | [My Ideal](https://open.spotify.com/track/6G0UnjCnn674okDwLhYR6W) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [My Ideal](https://open.spotify.com/album/1VPyA2gRCqIEGIXf2wtOQ9) | 3:27 | 2022-05-17 | 2022-09-30 |
-| [My Love](https://open.spotify.com/track/7IVYcE5ah4f7VJBzkAgGo3) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [My Love](https://open.spotify.com/album/6eEL5AuHX7UYB7594wNaVD) | 4:55 | 2025-07-23 |  |
+| [My Love](https://open.spotify.com/track/7IVYcE5ah4f7VJBzkAgGo3) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [My Love](https://open.spotify.com/album/6eEL5AuHX7UYB7594wNaVD) | 4:55 | 2025-07-23 | 2026-01-24 |
 | [My One And Only Love](https://open.spotify.com/track/4HhnBJDoi9eLFxvnUh6ZLj) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [My One And Only Love](https://open.spotify.com/album/1sJwVUOrxhTYEqPwlJrpht) | 3:42 | 2022-12-22 | 2023-05-04 |
 | [My Romance](https://open.spotify.com/track/4kjKUNTgMPWnzAD00cpd91) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [My Romance](https://open.spotify.com/album/0qoXES4Bc1uLeVjahn6ypA) | 3:48 | 2022-05-17 | 2023-01-27 |
 | [My Shining Hour](https://open.spotify.com/track/0IBOhB35u9pJLdNSWFuCpM) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [My Shining Hour](https://open.spotify.com/album/7uqCrcgqBpD40AI8MrAxh1) | 2:23 | 2023-08-10 | 2025-07-24 |

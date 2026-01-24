@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 ### [Electro Mix](https://open.spotify.com/playlist/37i9dQZF1DWW668oFRU96k)
 
-> A selection of new, quality electro sounds from your favorite EDM acts! Cover: David Guetta
+> A selection of new, quality electro sounds from your favorite EDM acts! Cover: David Guetta x MORTEN x Trippie Redd
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,431 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,450 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Locked In \(feat\. Trippie Redd\)](https://open.spotify.com/track/55oaId1IHZV9XfvHB3P7PJ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Locked In \(feat\. Trippie Redd\)](https://open.spotify.com/album/2fG4Abi890K7fZ9MnEsq9p) | 2:48 |
-| 2 | [scared](https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [USB](https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT) | 4:03 |
+| 2 | [scared](https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [USB](https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT) | 3:46 |
 | 3 | [Go Up \(feat\. Alessia Labate\)](https://open.spotify.com/track/2xM3ALyutnq05aKBSSxkiL) | [IZKO](https://open.spotify.com/artist/1BgmLUmytJuDy5CEzP7SL6), [Dawty](https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [Go Up \(feat\. Alessia Labate\)](https://open.spotify.com/album/6lQCgK4fP9WR6cZ77ocSiC) | 2:32 |
 | 4 | [Holding On](https://open.spotify.com/track/4hTT2n6g4oq7isk4w1adY2) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Holding On](https://open.spotify.com/album/5PH0N5fnQYx4T503EdhdNS) | 3:51 |
 | 5 | [On The Ground](https://open.spotify.com/track/331bJRuzgiksWvFiuVKhmH) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [On The Ground](https://open.spotify.com/album/61jk5gIaj4QKKgJxHeA8xX) | 2:14 |
-| 6 | [Sweet & Slow](https://open.spotify.com/track/3Nw3g4YD7DejeYFEIUlanF) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Playmen](https://open.spotify.com/artist/1aRr1YCvofItUMebQWiT5c), [ALMA](https://open.spotify.com/artist/46fkqCa9zKP7VDYub9GY7W) | [Sweet & Slow](https://open.spotify.com/album/2jrgkRx61eedGiG03MNrus) | 2:42 |
+| 6 | [Sweet & Slow](https://open.spotify.com/track/3Nw3g4YD7DejeYFEIUlanF) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Playmen](https://open.spotify.com/artist/1aRr1YCvofItUMebQWiT5c), [ALMA](https://open.spotify.com/artist/1B7cXxCiF8Je72dc2XTt6M) | [Sweet & Slow](https://open.spotify.com/album/2jrgkRx61eedGiG03MNrus) | 2:42 |
 | 7 | [Whine It](https://open.spotify.com/track/314l8Q7zwxFcgBp3vBP14X) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7) | [Whine It](https://open.spotify.com/album/4MGQye2ZLZeuIt9Qeoy5Jc) | 1:40 |
 | 8 | [Mona Lisa](https://open.spotify.com/track/5hGpk0C8Ns9LGhPwQkEBrK) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr) | [Mona Lisa](https://open.spotify.com/album/4po7ado9LJDka8wf7LcXCI) | 3:11 |
 | 9 | [Vision Blurred](https://open.spotify.com/track/0MBZH1gMOjrF9OVyhrDAo3) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Vision Blurred](https://open.spotify.com/album/49nuuneGqTobuf0FytxCyI) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 99 | [Embers](https://open.spotify.com/track/3OGmnOgg3NQ4uwerCW3GXE) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Embers](https://open.spotify.com/album/0bJj4VUm90sLGDcfl69ZM4) | 3:01 |
 | 100 | [Feel Alive](https://open.spotify.com/track/0EYoVxpvCLOoPMYz0ZEexD) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv) | [Feel Alive](https://open.spotify.com/album/63Jad3snv2RS2tYRzcQBk6) | 2:48 |
 
-Snapshot ID: `AAAAAOoJaTQK0WYq8M8+fS4IsOmkM/4v`
+Snapshot ID: `AAAAABVNgDenLCDvnc3QpHaI0yymsPfk`

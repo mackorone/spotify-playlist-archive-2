@@ -4,7 +4,7 @@
 
 > Lo que diga el corazón ❤️💔 Cover: Miguel Cornejo, Estilo Sin Limite
 
-212 songs - 10 hr 57 min
+213 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Bebé](https://open.spotify.com/track/48UP7L6H0iAVuE76RyHZLZ) | [Mando Exclusivo](https://open.spotify.com/artist/16GWmOhbfnUn6NmBrg9j3l) | [Bebé](https://open.spotify.com/album/3udwWyV9bBLXoVXfM5jt9k) | 3:24 | 2025-01-17 | 2025-07-05 |
 | [Belico Enamorado](https://open.spotify.com/track/4nTEQjAcv6x4FtOcKoNqvB) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Belico Enamorado](https://open.spotify.com/album/2j7te8MvvK7zJvMd1JmG6U) | 3:08 | 2024-03-15 | 2025-05-28 |
 | [BESOS](https://open.spotify.com/track/2wwPT2D9wADniE3XzFHyEY) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [E$ENCIA](https://open.spotify.com/album/5LNnHcNU0pQPjCPxRCbKMm) | 3:50 | 2025-08-08 |  |
-| [BIPOLAR](https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [BIPOLAR](https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ) | 4:25 | 2024-03-15 |  |
+| [BIPOLAR](https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [BIPOLAR](https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ) | 4:25 | 2024-03-15 | 2026-01-24 |
 | [Boneless](https://open.spotify.com/track/1RYO67KLXoKM5hTpMevbaN) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Boneless](https://open.spotify.com/album/3nPgilvMmwz5AjXZ8XBj4B) | 2:53 | 2025-04-25 |  |
 | [Bonnie Y Clyde](https://open.spotify.com/track/1fUlvpJfqqsLtGkZvHcsXy) | [Axel Coronado](https://open.spotify.com/artist/0ENnLGIyn0wUQ2sZ1jlTpO), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Bonnie Y Clyde](https://open.spotify.com/album/4LAKhhXJ7s1cHTJbqGrFGV) | 3:22 | 2025-01-17 | 2025-04-26 |
 | [Brillarosa](https://open.spotify.com/track/2BMlaVJaHDGd3ODSyrB2VK) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:49 | 2024-03-15 |  |
@@ -184,6 +184,7 @@
 | [Sin ti yo valgo verga](https://open.spotify.com/track/1ReWohFIAUSiPGmMdL6cA6) | [Fabiø Guerra](https://open.spotify.com/artist/3rQkoi7yo0Repzlzn4fMkp) | [Sin ti yo valgo verga](https://open.spotify.com/album/5B2iIn0rSXFW64h6g2wLFz) | 2:04 | 2024-12-06 | 2025-02-27 |
 | [sirena](https://open.spotify.com/track/2UxNQwHpIG3QUFbZCTaocB) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [sirena](https://open.spotify.com/album/05rTIYsjywlMLjG5sk6h2H) | 3:36 | 2025-03-28 | 2025-08-09 |
 | [SONRÍE <3](https://open.spotify.com/track/73dvoIH9lGoNqA5JLJw7Jt) | [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [SONRÍE <3](https://open.spotify.com/album/78Nm7rz6BdWJgHXcImsPrT) | 2:58 | 2025-07-25 |  |
+| [Soy Fan](https://open.spotify.com/track/214dHBkQIghUJArTL083fZ) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Soy Fan](https://open.spotify.com/album/5IOMxDPKMtuqX72hEwhz3Z) | 2:56 | 2026-01-24 |  |
 | [Subete A Mi Troca](https://open.spotify.com/track/31i2tCtppcIKZgEQx5qdHc) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 2:22 | 2024-03-15 | 2025-09-20 |
 | [Suelto El Cuerno](https://open.spotify.com/track/4N7lLsEHnvR3pWuy3X0A5v) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Suelto El Cuerno](https://open.spotify.com/album/4bmonbHICCKZq37Aq2khr7) | 3:50 | 2025-12-19 |  |
 | [Tal Vez](https://open.spotify.com/track/3WaSfL4uKTmbLE2ll6qa1q) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Tal Vez](https://open.spotify.com/album/6jm6xoq0cOwygfA9JI5C4W) | 3:29 | 2025-03-28 |  |

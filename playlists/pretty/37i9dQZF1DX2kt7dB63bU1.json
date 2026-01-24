@@ -1,13 +1,29 @@
 {
   "description": "Jazz voices of today. Cover: Ledisi",
-  "num_followers": 164429,
+  "num_followers": 164457,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIpwx2RWMSgTRE1gJEOT+SDfkeFu",
+  "snapshot_id": "AAAAAAFUdzBz2K25xKuUAxzOkRH/l3Vh",
   "tracks": [
+    {
+      "added_at": "2026-01-23 05:00:15",
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/0Dh2jRgKkPGue3rD8nF4FN"
+      },
+      "artists": [
+        {
+          "name": "Hayley Sales",
+          "url": "https://open.spotify.com/artist/5aWJMTxBqrjjDPryNDNfMb"
+        }
+      ],
+      "duration_ms": 236133,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/67qK2ncBGXb79ldCBrYETP"
+    },
     {
       "added_at": "2026-01-16 05:00:18",
       "album": {

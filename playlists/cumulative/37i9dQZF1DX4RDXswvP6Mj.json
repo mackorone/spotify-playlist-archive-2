@@ -3233,6 +3233,24 @@
     },
     {
       "album": {
+        "name": "REVERXE - The 8th Album",
+        "url": "https://open.spotify.com/album/4ZXDMoZKLnkxFyqRGmCLnB"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/4iu11uPXYHUJaq5vr9cLwW"
+    },
+    {
+      "album": {
         "name": "CRY FOR ME",
         "url": "https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87"
       },
@@ -6306,6 +6324,24 @@
       "duration_ms": 206986,
       "name": "GOTTA GO",
       "url": "https://open.spotify.com/track/7Gb3K6a2YyJTf7j0UTf9jJ"
+    },
+    {
+      "album": {
+        "name": "\u539f",
+        "url": "https://open.spotify.com/album/4qTTzaU30PLhLJmD6lLzFm"
+      },
+      "artists": [
+        {
+          "name": "ONEUS",
+          "url": "https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Grenade",
+      "url": "https://open.spotify.com/track/69erutIC5E9VFHtDKerTkd"
     },
     {
       "album": {
@@ -11831,6 +11867,24 @@
     },
     {
       "album": {
+        "name": "ROSES",
+        "url": "https://open.spotify.com/album/3bIZ5FREocfX2tLIUnnOdr"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "ROSES",
+      "url": "https://open.spotify.com/track/6u0b2IZ23RxH18ZsvGRbme"
+    },
+    {
+      "album": {
         "name": "Rover - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U"
       },
@@ -12722,7 +12776,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 150686,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
@@ -14340,7 +14394,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 148474,
       "name": "TOO BAD \u2013 Alan Walker Remix",
       "url": "https://open.spotify.com/track/2LmTUhUiqhlO0Vvo8GRUFm"
@@ -16056,7 +16110,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 187000,
       "name": "\uc2e0\uc120\ub180\uc74c DIVINE",
       "url": "https://open.spotify.com/track/0x90VmJtwI0ZK79pp94GpU"

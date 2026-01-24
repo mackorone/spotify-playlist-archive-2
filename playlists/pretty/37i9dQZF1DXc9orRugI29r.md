@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9orRugI29r.md) - [plain]
 
 > LAS CANCIONES MÁS 🔥🔥🔥  Quique Estilos pa' los cuates
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,769 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,602 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 |
 | 2 | [Canasteo](https://open.spotify.com/track/67jm6nWkkJUsiJ6zedlYng) | [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Canasteo](https://open.spotify.com/album/6cyXOfudBl4rNtTmkrwaj7) | 4:30 |
-| 3 | [Todo Lo Fue](https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 3:12 |
-| 4 | [Me Voy A La Chingada](https://open.spotify.com/track/297ql9Y4MLwYwt6wY1wFID) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Infinito](https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68) | 2:14 |
-| 5 | [MIRO TU CARA EN LA LUNA](https://open.spotify.com/track/1WNuSmfx8g1VtJaWayVUBJ) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [MIRO TU CARA EN LA LUNA](https://open.spotify.com/album/45gRTC5un8xquz3dofyeol) | 3:44 |
+| 3 | [MIRO TU CARA EN LA LUNA](https://open.spotify.com/track/1WNuSmfx8g1VtJaWayVUBJ) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [MIRO TU CARA EN LA LUNA](https://open.spotify.com/album/45gRTC5un8xquz3dofyeol) | 3:29 |
+| 4 | [Todo Lo Fue](https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 3:12 |
+| 5 | [Me Voy A La Chingada](https://open.spotify.com/track/7uiqilD8CASlyVrhrvsFuW) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Me Voy A La Chingada](https://open.spotify.com/album/5gOvN4ynYRnhtVWkxlYweP) | 2:14 |
 | 6 | [Como Es Que Se Hace](https://open.spotify.com/track/2L1lCDnKE9WcnTEre5QKCP) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Como Es Que Se Hace](https://open.spotify.com/album/0HvCpNq9SOzytIHAMIGgl8) | 3:25 |
 | 7 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
 | 8 | [Un Kiss \- Remix](https://open.spotify.com/track/2TzuzFUxKULFs9psxgHQIF) | [Fronti](https://open.spotify.com/artist/6NAPpG5ZvPRTe239T3LElr), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Un Kiss \(Remix\)](https://open.spotify.com/album/4GL0bdlzyYP7pGbYyoYeLu) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9orRugI29r.md) - [plain]
 | 49 | [30 Mil Pies](https://open.spotify.com/track/6A8ZNt71PS4PuBtxbdXV0L) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [30 Mil Pies](https://open.spotify.com/album/6ShLV3WRgmC5RtXA99g2sU) | 3:07 |
 | 50 | [Orula](https://open.spotify.com/track/0ejwu6GH5TeXx82YvO6XSN) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Orula](https://open.spotify.com/album/4KMJ1C8ZPOb1yOPx18QEoO) | 3:05 |
 
-Snapshot ID: `AAAAALEN6YrwFaQHAwbIMjjxxjbGApfj`
+Snapshot ID: `AAAAAK5DHTM50Zyrm/bm+VuloOGFI+R3`

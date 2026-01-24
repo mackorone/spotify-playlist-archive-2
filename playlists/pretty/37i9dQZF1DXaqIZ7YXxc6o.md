@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: WILL K
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,411 likes - 99 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,402 likes - 99 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 20 | [Could Be Us](https://open.spotify.com/track/2uaavMJEdha8CM9cSDCd2m) | [Rino](https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s) | [Could Be Us](https://open.spotify.com/album/7mdtrUiVfSAJqU5hqvWLl7) | 2:48 |
 | 21 | [Words](https://open.spotify.com/track/33J3hEIqCG8h5gF1aO0RNW) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [Words](https://open.spotify.com/album/6krAOSRDqEqEqJsicgVwCP) | 2:25 |
 | 22 | [imissthetimes](https://open.spotify.com/track/24fIb3TQ2uhY23caHh5Zi5) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [imissthetimes](https://open.spotify.com/album/6soiQc7YLffUhmPHzWbz7q) | 2:24 |
-| 23 | [What U Want](https://open.spotify.com/track/6Dqm6ic3l1wiyyS0mkr0rD) | [Gumm](https://open.spotify.com/artist/4iJSuRiHxC9zkb3nN4aYWA), [The Journey](https://open.spotify.com/artist/4rbhHtuqrTE2NKY6z8BLoj) | [What U Want](https://open.spotify.com/album/19mNYvmiwiowsyj74BK5zu) | 3:04 |
+| 23 | [What U Want](https://open.spotify.com/track/6Dqm6ic3l1wiyyS0mkr0rD) | [Gumm](https://open.spotify.com/artist/1e1DJa4twOPONMMEpwjeXj), [The Journey](https://open.spotify.com/artist/4rbhHtuqrTE2NKY6z8BLoj) | [What U Want](https://open.spotify.com/album/19mNYvmiwiowsyj74BK5zu) | 3:04 |
 | 24 | [Long Legs](https://open.spotify.com/track/3Zt9EqFeTyv4bw7UZimKM1) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Long Legs](https://open.spotify.com/album/2UCNb8fZiytlkaHFUvYuY5) | 3:00 |
 | 25 | [Pressure](https://open.spotify.com/track/5eMyoI00BphwuiyvjPYxSm) | [Panameira](https://open.spotify.com/artist/2jvmZb9gAjXRI6L4vD2T3Q) | [Pressure](https://open.spotify.com/album/39wZZbJI3Q7LkOI20hdP7M) | 3:35 |
 | 26 | [909](https://open.spotify.com/track/2NNyqVX63BJq603V80uBCf) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [Danny P](https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd) | [909](https://open.spotify.com/album/2zfkzIFCFlf9aycZyiFUxT) | 3:57 |

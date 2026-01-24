@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Churemi
 
-1,503 songs - 3 day 8 hr 3 min
+1,504 songs - 3 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -624,6 +624,7 @@
 | [Humble](https://open.spotify.com/track/0jOegEvG5crKummCbFk5rm) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Humble](https://open.spotify.com/album/0OGt1dzhFMavsF6bQGCdxg) | 4:20 | 2023-02-02 | 2023-05-26 |
 | [Hustle](https://open.spotify.com/track/2MfYquWKqyiDAmUZfmxeUH) | [Anyanya Udongwo](https://open.spotify.com/artist/2cbioHiPydvkOosQh5pLXy), [Timothy Akuboh](https://open.spotify.com/artist/4eB1IT3SeD09f7PvI3X7q5), [TMD](https://open.spotify.com/artist/4kLSMb01FhdIdTEGOQRKwW) | [Hustle](https://open.spotify.com/album/1iSTzkiksLsTHQrw3NL0BD) | 2:37 | 2024-08-30 | 2024-10-18 |
 | [I am blessed](https://open.spotify.com/track/1QYpJIF5WBn4lmdK1wkcAV) | [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [I am blessed](https://open.spotify.com/album/0RcyUlcMRtm06uXuMR2ZDF) | 4:06 | 2025-02-28 | 2025-06-27 |
+| [I Am the Best](https://open.spotify.com/track/5f9oZRFMO6QMxX2mHVCVQw) | [TB1](https://open.spotify.com/artist/79nV5xcc87fTQ2T527OqAG) | [I Am the Best](https://open.spotify.com/album/59mAbj0iGuMdTrh3Y1tMrU) | 3:55 | 2026-01-23 |  |
 | [I Am the Son of God](https://open.spotify.com/track/1MDH1dMeHBDzQSTi8wjZfB) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX) | [I Am the Son of God](https://open.spotify.com/album/6V26JaRe61ejEnfGvgq62A) | 2:22 | 2025-11-14 | 2025-11-18 |
 | [I Believe](https://open.spotify.com/track/7EUWDilNfBFwVTMy6AdVyU) | [Mastapeace Beats](https://open.spotify.com/artist/6jfcSjE052jzhggOXwN0Px), [Kk2Nice](https://open.spotify.com/artist/6LlF36PpBue0vnRoJFPF4V) | [I Believe](https://open.spotify.com/album/1vvKRpBSu1rvROruzLm49x) | 1:45 | 2025-03-21 | 2025-07-04 |
 | [I Believe Yakata](https://open.spotify.com/track/2o6Kl2zJpuR6Bi3fjCm3RO) | [Cipeey](https://open.spotify.com/artist/0LbWza96JU2RDtaufGfBzX), [Paul Rarity](https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48) | [Heaven's playlist](https://open.spotify.com/album/6qWJBnwBUULd3bXie95VOw) | 2:15 | 2023-07-21 | 2023-07-28 |

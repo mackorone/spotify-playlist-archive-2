@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,543 songs - 3 day 16 hr 56 min
+1,544 songs - 3 day 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -566,6 +566,7 @@
 | [High For You](https://open.spotify.com/track/7E2gGp4LHfH99X0LhTnU6j) | [Delilah](https://open.spotify.com/artist/0vUOZYWihxoF2IQ2VOckKh) | [High For You](https://open.spotify.com/album/3fu36fH3ZLGbo6kzSL6VXD) | 3:14 | 2025-09-12 |  |
 | [High Like The Sky](https://open.spotify.com/track/29VlrhOYEm3gowUKINZU6Q) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [High Like The Sky](https://open.spotify.com/album/6ooNDxGpXpFhithnfnyH1l) | 3:02 | 2025-11-21 |  |
 | [High On That New Love](https://open.spotify.com/track/1QH1Lhz1GFShACuoKgFcL9) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Tiina](https://open.spotify.com/artist/6GVBNOQURiHG9apNXi9fE8) | [High On That New Love](https://open.spotify.com/album/5DwUisYZRsiWTmRc8v2TEO) | 2:46 | 2022-09-16 | 2022-11-19 |
+| [High On You](https://open.spotify.com/track/4B9KPPA4Nm4HKDynyuoRZe) | [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP) | [High On You](https://open.spotify.com/album/3KhmmfJf1mqsl04DzwJKMX) | 3:11 | 2026-01-23 |  |
 | [High On You](https://open.spotify.com/track/1n7RWnghX8DCYFVBeZVpHA) | [SNS8](https://open.spotify.com/artist/7KEQcHk8v5EVlMYqH8Rdjz), [LAUT](https://open.spotify.com/artist/53Wp6UjE2GmHCan82PxtmM) | [Colorize Winter Sampler 2025](https://open.spotify.com/album/4RCLhJq0ksv7mKJYDQZExx) | 3:28 | 2025-01-31 |  |
 | [High Tide](https://open.spotify.com/track/1rCfDo29mxjOmMNUKmbK76) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [The Long Way Home](https://open.spotify.com/album/3bZwlowzh4YGLX6LfrYdSk) | 3:17 | 2021-12-17 | 2023-06-17 |
 | [Higher Ground \(feat\. John Martin\)](https://open.spotify.com/track/0rohJsT6NWsThpukt0Xxdc) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Higher Ground \(feat\. John Martin\)](https://open.spotify.com/album/2wfc0nU4LeUtwyhbkOE6iH) | 3:26 | 2020-06-04 | 2021-09-11 |

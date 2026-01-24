@@ -4,7 +4,7 @@
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Trannos & SNIK & CHEKKIS
 
-624 songs - 1 day 5 hr 1 min
+625 songs - 1 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [CHALGA](https://open.spotify.com/track/1d65j1b6uR8SXJo6R9mM9p) | [Mpelafon](https://open.spotify.com/artist/0bWNsLp2zKgUNInup4gU9F), [Aeon](https://open.spotify.com/artist/5zWF4nQXb3UtlFtG7bHwRu) | [CHALGA](https://open.spotify.com/album/1fJ1fRPWqkqaxk88SftC50) | 2:38 | 2025-11-06 | 2025-11-21 |
 | [Chalkidiki](https://open.spotify.com/track/3EmR858O6GqY9QCPOowflb) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN) | [Chalkidiki](https://open.spotify.com/album/1gHrBl094x0wH6UbVPjgUK) | 1:53 | 2025-08-07 | 2025-12-12 |
 | [CHAMPION](https://open.spotify.com/track/5cmhSubSiCwOWFnot12nNq) | [12os Pithikos](https://open.spotify.com/artist/6YZmV2xFddssAVfrSu1sfI), [Rjay](https://open.spotify.com/artist/2CaHe8TG0kJ8gTTodohITQ) | [CHAMPION](https://open.spotify.com/album/3GcY7htb0KPWEs4YwDeHgq) | 3:23 | 2025-09-25 | 2025-10-10 |
+| [CHANEL](https://open.spotify.com/track/6AICejWzqrCsNSi6vBabb5) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [CHEKKIS](https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO) | [WHY ALWAYS ME?](https://open.spotify.com/album/0hkVhoK0vtaJhRoxBQ6Xca) | 3:23 | 2026-01-23 |  |
 | [CHOCO FRESH](https://open.spotify.com/track/7Ku2O5h0e3NH1qGcuZvGWT) | [HermesHermes](https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY), [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a) | [CHOCO FRESH](https://open.spotify.com/album/0KiLceIAWD6fFxbU2c0BNv) | 3:41 | 2025-12-04 |  |
 | [CITY BOY](https://open.spotify.com/track/1iIQFziM7OjRZufX3QcqA1) | [Mikros Kleftis](https://open.spotify.com/artist/1WNkrtDTdQ5izZf5L372i9), [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX) | [CITY BOY](https://open.spotify.com/album/3MGjWKyZ6mNA4VQk3rgYJy) | 3:12 | 2025-06-19 | 2025-07-04 |
 | [City Hot](https://open.spotify.com/track/0eDbMy8fsF1ceP2xGjbi1l) | [HGEMONA$](https://open.spotify.com/artist/1POlf5v8Q8ciCcWlAcxnEm) | [Extreme Sports](https://open.spotify.com/album/2rxk9jGYM4D9IKM9sTVUE2) | 1:44 | 2024-11-21 | 2024-12-13 |

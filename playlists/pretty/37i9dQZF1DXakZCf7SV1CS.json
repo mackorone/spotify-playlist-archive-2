@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 92108,
+  "num_followers": 92131,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -371,18 +371,18 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "fishmonger",
-        "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
+        "name": "BIPP",
+        "url": "https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU"
       },
       "artists": [
         {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 199796,
-      "name": "Spoiled little brat",
-      "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
+      "duration_ms": 224142,
+      "name": "BIPP",
+      "url": "https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -407,18 +407,18 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "BIPP",
-        "url": "https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU"
+        "name": "fishmonger",
+        "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
       },
       "artists": [
         {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
         }
       ],
-      "duration_ms": 224142,
-      "name": "BIPP",
-      "url": "https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq"
+      "duration_ms": 199796,
+      "name": "Spoiled little brat",
+      "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "serialkilled",
-        "url": "https://open.spotify.com/album/0oypx1kiUN5cstm7U5SO5i"
-      },
-      "artists": [
-        {
-          "name": "osquinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 107129,
-      "name": "serialkilled",
-      "url": "https://open.spotify.com/track/4DC73wRVLzJLollwd9LlLs"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "Hey QT",
         "url": "https://open.spotify.com/album/2j4oAo8L6xpAmJsCi5cL7W"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 235567,
       "name": "Hey QT",
       "url": "https://open.spotify.com/track/7nJoufbWvXXIcOLyDEci8t"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "serialkilled",
+        "url": "https://open.spotify.com/album/0oypx1kiUN5cstm7U5SO5i"
+      },
+      "artists": [
+        {
+          "name": "osquinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "duration_ms": 107129,
+      "name": "serialkilled",
+      "url": "https://open.spotify.com/track/4DC73wRVLzJLollwd9LlLs"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "PC Music, Vol. 1",
-        "url": "https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32"
-      },
-      "artists": [
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        }
-      ],
-      "duration_ms": 227750,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/0YAywhODGdHhWxuvFFhjE3"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "detest me",
         "url": "https://open.spotify.com/album/4HeO25Tx14zJgMwiDO8NkV"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 118930,
       "name": "detest me",
       "url": "https://open.spotify.com/track/0XZ5gv6EBByIEuSOIiYaon"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "PC Music, Vol. 1",
+        "url": "https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "duration_ms": 227750,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/0YAywhODGdHhWxuvFFhjE3"
     },
     {
       "added_at": "2024-10-09 21:55:22",

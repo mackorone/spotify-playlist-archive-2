@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Dale a Dios toda la gloria y alabanza! Foto: Barak",
+  "description": "Dale a Dios toda la gloria y alabanza! Foto: ECCOS",
   "name": "Alabanzas y Gloria",
   "tracks": [
     {
@@ -1950,7 +1950,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 300931,
       "name": "Fiel Hacia M\u00ed",
       "url": "https://open.spotify.com/track/0vcLAxDU3QGMkW0M9P6l0I"
@@ -2244,6 +2244,32 @@
       "duration_ms": 418704,
       "name": "Hay Un Hambre",
       "url": "https://open.spotify.com/track/3cB86YtrUCvAYHDPsr3YT0"
+    },
+    {
+      "album": {
+        "name": "Fuego en el altar (En vivo desde Murcia)",
+        "url": "https://open.spotify.com/album/71BdEqIP1IlQX8G01hEfqH"
+      },
+      "artists": [
+        {
+          "name": "Enoc Parra",
+          "url": "https://open.spotify.com/artist/2dXm6Fjb3OP6YKDyaF09jM"
+        },
+        {
+          "name": "Joel Rocco",
+          "url": "https://open.spotify.com/artist/7sjNSERyTcSvuDsLk9xwpe"
+        },
+        {
+          "name": "ECCOS",
+          "url": "https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400898,
+      "name": "He Probado",
+      "url": "https://open.spotify.com/track/5TEqRx0hZsHv63FPw7evso"
     },
     {
       "album": {
@@ -4678,10 +4704,6 @@
           "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
         },
         {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        },
-        {
           "name": "Alyrah Anais",
           "url": "https://open.spotify.com/artist/40So8AH4yMPzBdl9XNPvaQ"
         },
@@ -4712,10 +4734,6 @@
         {
           "name": "Melody Adorno",
           "url": "https://open.spotify.com/artist/43nq5HoQm5caEU9SCaO67o"
-        },
-        {
-          "name": "Priscilla Velez",
-          "url": "https://open.spotify.com/artist/22O5S4ccIFYBCHSRalRyAV"
         },
         {
           "name": "Vanesa Keeley",

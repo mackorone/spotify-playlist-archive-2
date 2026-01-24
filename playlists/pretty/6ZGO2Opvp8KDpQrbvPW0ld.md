@@ -8,10 +8,10 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [West Coast Coffee](https://open.spotify.com/track/08FqpGf6UrUD9dOx76fybA) | [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm) | [West Coast Coffee](https://open.spotify.com/album/2zD9oXBiSkgp6y7bP6OQL8) | 1:57 |
-| 2 | [Inverse](https://open.spotify.com/track/35DbPJjy6CoRm2UNtfojxj) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo) | [Inverse](https://open.spotify.com/album/33VBSFHgixhUyPxtbTBwGD) | 2:13 |
-| 3 | [Cute Girl](https://open.spotify.com/track/5LXYEFPhEza5gSIbU8zTN5) | [Sineg](https://open.spotify.com/artist/2dFzMUO0SoMadcJNogEmg9) | [Cute Girl](https://open.spotify.com/album/3lPabKdwm3tafeqp8EB5VT) | 1:19 |
-| 4 | [Catalina](https://open.spotify.com/track/0XgZZWWUfywcHVAN4ubTIS) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [Catalina](https://open.spotify.com/album/0f8w0fLgwnQSSCfiJqUu6O) | 1:49 |
+| 1 | [Catalina](https://open.spotify.com/track/0XgZZWWUfywcHVAN4ubTIS) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [Catalina](https://open.spotify.com/album/0f8w0fLgwnQSSCfiJqUu6O) | 1:49 |
+| 2 | [West Coast Coffee](https://open.spotify.com/track/08FqpGf6UrUD9dOx76fybA) | [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm) | [West Coast Coffee](https://open.spotify.com/album/2zD9oXBiSkgp6y7bP6OQL8) | 1:57 |
+| 3 | [Inverse](https://open.spotify.com/track/35DbPJjy6CoRm2UNtfojxj) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo) | [Inverse](https://open.spotify.com/album/33VBSFHgixhUyPxtbTBwGD) | 2:13 |
+| 4 | [Cute Girl](https://open.spotify.com/track/5LXYEFPhEza5gSIbU8zTN5) | [Sineg](https://open.spotify.com/artist/2dFzMUO0SoMadcJNogEmg9) | [Cute Girl](https://open.spotify.com/album/3lPabKdwm3tafeqp8EB5VT) | 1:19 |
 | 5 | [Sensitive](https://open.spotify.com/track/6YLrhFX0lnFirayyQLg8OF) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Sensitive](https://open.spotify.com/album/797eFP2Y2Y1gByNFbMROxr) | 1:47 |
 | 6 | [In The Middle](https://open.spotify.com/track/2YI0sVrWr2jmmc3Kdjy0HV) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [In The Middle](https://open.spotify.com/album/2FhCh21wkaO0qhcLM17Crb) | 2:01 |
 | 7 | [Leaves](https://open.spotify.com/track/64DRVtEqUpP2EygbRg89j3) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Leaves](https://open.spotify.com/album/72UsxcNpt2VPXdwhQXKtOD) | 1:58 |
@@ -359,4 +359,4 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 349 | [Rod's Theme](https://open.spotify.com/track/6TcyZc1eJeeDOXjqNXdir4) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Rod's Theme](https://open.spotify.com/album/7s1grrPN9BVuYfNyO3taYM) | 3:04 |
 | 350 | [Letter for Rod](https://open.spotify.com/track/2hOiKEe46CiFlHaSPRro0K) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [IzaBeats](https://open.spotify.com/artist/4DtFzX8vn47Rdc5c4fHcEk), [FaOut](https://open.spotify.com/artist/4yRJjgsEvPRqZOyNBOfZ9V) | [Summer](https://open.spotify.com/album/6ydRwauwNu1Rp3csgxskeb) | 1:44 |
 
-Snapshot ID: `AAAIrk2bUBVGvwZzwf0gKgegebrJrAlG`
+Snapshot ID: `AAAIr6olevUCHVCzqffszu1SgFpeOTKy`

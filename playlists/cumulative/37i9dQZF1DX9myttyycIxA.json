@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: Oxis",
+  "description": "Underground indie rock gems. Cover: Ruby Waters",
   "name": "undercurrents",
   "tracks": [
     {
@@ -136,6 +136,24 @@
       "duration_ms": 249930,
       "name": "2007",
       "url": "https://open.spotify.com/track/35WkfsT6kxdnKVntvIoLt8"
+    },
+    {
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/4tiDeTluLMjcszuyXvn70Z"
+      },
+      "artists": [
+        {
+          "name": "Lime Garden",
+          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168456,
+      "name": "23",
+      "url": "https://open.spotify.com/track/5cAyhQKcqRguYPryCL0rYj"
     },
     {
       "album": {
@@ -2695,6 +2713,24 @@
     },
     {
       "album": {
+        "name": "beauty is blinding",
+        "url": "https://open.spotify.com/album/0AlkK24hWBtS17sTuVERsW"
+      },
+      "artists": [
+        {
+          "name": "Nectarine Girl",
+          "url": "https://open.spotify.com/artist/4uEVWU1ZQu0r9m6XzbKHHX"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294084,
+      "name": "beauty is blinding",
+      "url": "https://open.spotify.com/track/0RQBmAWV8SepWJ5xWyYOXh"
+    },
+    {
+      "album": {
         "name": "Beauty School",
         "url": "https://open.spotify.com/album/5ECvC9nLKDcgFJZbgEuwbw"
       },
@@ -3360,6 +3396,24 @@
       "duration_ms": 185109,
       "name": "Blessing",
       "url": "https://open.spotify.com/track/14ZagAXGWz5Ycpm0AsZQYZ"
+    },
+    {
+      "album": {
+        "name": "BLINDERS",
+        "url": "https://open.spotify.com/album/7bdkWRYBMgIlWEhWlQCEJp"
+      },
+      "artists": [
+        {
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214133,
+      "name": "BLINDERS",
+      "url": "https://open.spotify.com/track/5yGRA06uJvK0KLgeZAAYb7"
     },
     {
       "album": {
@@ -5548,7 +5602,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 205653,
       "name": "Claritin",
       "url": "https://open.spotify.com/track/0deV9lMzallKEKFbJ6qiRs"
@@ -7706,7 +7760,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 200093,
       "name": "Dirty Dog",
       "url": "https://open.spotify.com/track/14vi6EqoDOaItrJP8cAJcE"
@@ -8668,6 +8722,24 @@
       "duration_ms": 186453,
       "name": "Dust Bunny",
       "url": "https://open.spotify.com/track/3c3GmgHZaHZf0DEhfooCsL"
+    },
+    {
+      "album": {
+        "name": "Rivers of Sugar and Blood",
+        "url": "https://open.spotify.com/album/13erMRMbkhT3hUvDB4VZXy"
+      },
+      "artists": [
+        {
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231885,
+      "name": "dust to dust",
+      "url": "https://open.spotify.com/track/4R8sxtsSWWGm0DZw6CHtCt"
     },
     {
       "album": {
@@ -10636,7 +10708,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 187680,
       "name": "Follow Along",
       "url": "https://open.spotify.com/track/6rOA5pEvgIeKrGniKBJ3ML"
@@ -17196,7 +17268,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 190053,
       "name": "Late to the Party",
       "url": "https://open.spotify.com/track/1eberzsm9ohHkDt23KL5nH"
@@ -18194,6 +18266,28 @@
       "duration_ms": 188271,
       "name": "Love Is",
       "url": "https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB"
+    },
+    {
+      "album": {
+        "name": "Love Is Deeper",
+        "url": "https://open.spotify.com/album/677zLBFVrl4Ubz05OGsCTh"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Troy",
+          "url": "https://open.spotify.com/artist/14EbKjtHqgxm0Z3XVIev0H"
+        },
+        {
+          "name": "Deap Vally",
+          "url": "https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Love Is Deeper",
+      "url": "https://open.spotify.com/track/2yXtOcn5kCOJVEoad75rqd"
     },
     {
       "album": {
@@ -21416,7 +21510,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 183413,
       "name": "On a Roll",
       "url": "https://open.spotify.com/track/56lgBecl6aQF6KRoEzSIhL"
@@ -21626,6 +21720,24 @@
       "duration_ms": 216000,
       "name": "Opaque",
       "url": "https://open.spotify.com/track/0dNm9rS8VMlP1ZhnGPAEuh"
+    },
+    {
+      "album": {
+        "name": "Open Mouth",
+        "url": "https://open.spotify.com/album/7kdfTf5IFZTrqCXbwO0ICc"
+      },
+      "artists": [
+        {
+          "name": "Silverdeer",
+          "url": "https://open.spotify.com/artist/1h1CNvurvYYLyzLbpeqaLq"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235833,
+      "name": "Open Mouth",
+      "url": "https://open.spotify.com/track/15VyiFrdGt24weOrvq29N3"
     },
     {
       "album": {
@@ -26132,7 +26244,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 190706,
       "name": "Sometimes I Think About Death",
       "url": "https://open.spotify.com/track/68azWVwlh4j461uhjXDzPM"
@@ -30090,7 +30202,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 241458,
       "name": "Turn Out Right",
       "url": "https://open.spotify.com/track/3TeE7eWPz7DoKFZXWuplLN"

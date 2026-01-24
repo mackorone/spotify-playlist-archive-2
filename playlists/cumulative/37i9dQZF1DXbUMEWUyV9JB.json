@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-01",
-  "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: Angela Leiva",
+  "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: Mariangela",
   "name": "Super Cumbias",
   "tracks": [
     {
@@ -1579,6 +1579,24 @@
     },
     {
       "album": {
+        "name": "Cuando Una Mujer",
+        "url": "https://open.spotify.com/album/6Kqio6YmPAge6dLPtV0cYh"
+      },
+      "artists": [
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156394,
+      "name": "Cuando Una Mujer",
+      "url": "https://open.spotify.com/track/3avC8Pl0P86k3GQjE1h9y1"
+    },
+    {
+      "album": {
         "name": "Cumbia A La Gente",
         "url": "https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12"
       },
@@ -3148,6 +3166,28 @@
       "duration_ms": 215600,
       "name": "Esa Parte De M\u00ed",
       "url": "https://open.spotify.com/track/2KGPEwZmxkTb3ibPeIq0Pv"
+    },
+    {
+      "album": {
+        "name": "ESCONDIDAS",
+        "url": "https://open.spotify.com/album/2G1eSgMejHicDNwJCh5ul0"
+      },
+      "artists": [
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173034,
+      "name": "ESCONDIDAS",
+      "url": "https://open.spotify.com/track/5BaNuIRKWt4CHdWi4LGe2M"
     },
     {
       "album": {
@@ -4906,7 +4946,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 168334,
       "name": "Me Perd\u00ed",
       "url": "https://open.spotify.com/track/2s1OcICSKJbtoOvXq6yeMB"
@@ -4928,7 +4968,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 207272,
       "name": "Me Prometi (Cumbia Version)",
       "url": "https://open.spotify.com/track/5pd2DbnrGEdKSfazK1YXAq"

@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 22831,
+  "num_followers": 22834,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXAXAAAAAAD0rEXKAhXTlyfzjPwmSALG",
+  "snapshot_id": "aXFogAAAAADxdpMVm5zRYyJ7zoDX7+ii",
   "tracks": [
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jonas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6lS40buhr2wF6wIs1tAs5A"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 293426,
-      "name": "Jonas (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1LkLPTFvrtA3CtXwIiO5wZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O C\u00e9u Se Abre",
         "url": "https://open.spotify.com/album/1F6n140GLrPVRY40AJzecK"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 270000,
       "name": "O C\u00e9u Se Abre",
       "url": "https://open.spotify.com/track/1rr7OQMrPZjktRVfUOYnxd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jonas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6lS40buhr2wF6wIs1tAs5A"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 293426,
+      "name": "Jonas (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1LkLPTFvrtA3CtXwIiO5wZ"
     },
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 277339,
-      "name": "Eu Vim Te Adorar",
-      "url": "https://open.spotify.com/track/22slRLUJaGfRsVjatyPcI8"
+      "duration_ms": 276456,
+      "name": "O Pre\u00e7o Foi de Sangue",
+      "url": "https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reescreve a Minha Hist\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/58XvmnEv0FeuIPOm9J24It"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 289598,
-      "name": "Reescreve a Minha Hist\u00f3ria (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5ASFmAqQWs1vLMkfHBeNPN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quem Me Tocou (Ao Vivo)",
         "url": "https://open.spotify.com/album/3NISHwhL3IJcTfETLbsvK2"
       },
@@ -499,22 +483,6 @@
       "duration_ms": 293030,
       "name": "Quem Me Tocou (Ao Vivo)",
       "url": "https://open.spotify.com/track/6vonokUeMLYePK8oznQMCD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Pare",
-        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 276456,
-      "name": "O Pre\u00e7o Foi de Sangue",
-      "url": "https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U"
     },
     {
       "added_at": null,
@@ -535,6 +503,38 @@
       "duration_ms": 307750,
       "name": "Aguente, Guerreiro",
       "url": "https://open.spotify.com/track/41b11ruecN0x1CSaziBxGB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 277339,
+      "name": "Eu Vim Te Adorar",
+      "url": "https://open.spotify.com/track/22slRLUJaGfRsVjatyPcI8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reescreve a Minha Hist\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/58XvmnEv0FeuIPOm9J24It"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 289598,
+      "name": "Reescreve a Minha Hist\u00f3ria (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5ASFmAqQWs1vLMkfHBeNPN"
     },
     {
       "added_at": null,
@@ -795,6 +795,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "L\u00e9a Mendon\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 260342,
+      "name": "Mem\u00f3rias (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Em Meu Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/62yuV0UZe17S9roAFW5GFa"
       },
@@ -815,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midian Lima Live Session",
-        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 265032,
-      "name": "T\u00fa \u00c9s Adorado",
-      "url": "https://open.spotify.com/track/5N2Z60u0UjptyUCqyNshAW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Midian Lima (Ao Vivo)",
         "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
       },
@@ -847,22 +851,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "L\u00e9a Mendon\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl"
+        "name": "Midian Lima Live Session",
+        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
       },
       "artists": [
-        {
-          "name": "L\u00e9a Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
-        },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 260342,
-      "name": "Mem\u00f3rias (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66"
+      "duration_ms": 265032,
+      "name": "T\u00fa \u00c9s Adorado",
+      "url": "https://open.spotify.com/track/5N2Z60u0UjptyUCqyNshAW"
     },
     {
       "added_at": null,

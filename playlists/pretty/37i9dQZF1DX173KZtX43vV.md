@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Asco
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,298 likes - 51 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,315 likes - 51 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 13 | [No One's Perfect](https://open.spotify.com/track/7kFQQlVFwUEHJ6tNImz8G7) | [Nino Uptown](https://open.spotify.com/artist/1zzNqXwB3gRY3Ucm8dQnr8) | [No One's Perfect](https://open.spotify.com/album/41i20Nxftyw6xcG7fjyEWr) | 2:46 |
 | 14 | [Soft Girl Era](https://open.spotify.com/track/0mu4jp4klSihBJ7RFvIDfW) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Soft Girl Era](https://open.spotify.com/album/7bnW1IEaWKXSp02B6TY5js) | 2:25 |
 | 15 | [CRIP](https://open.spotify.com/track/3woT2onx5jrFT5QYm9PAbD) | [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix) | [CRIP](https://open.spotify.com/album/7MM7BvNZ0hnM5Q7Y7xt14H) | 2:32 |
-| 16 | [Track 5](https://open.spotify.com/track/48Rk6ZyFcztsyvUZeUFVXO) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [](https://open.spotify.com/album/null) | 0:00 |
+| 16 | [High Key](https://open.spotify.com/track/48Rk6ZyFcztsyvUZeUFVXO) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Vacancy](https://open.spotify.com/album/2UuTaSOSxTNP6whKrwDqnS) | 2:12 |
 | 17 | [back two it](https://open.spotify.com/track/7ICiqqSwk8DpT8b1MweYmB) | [Trtl](https://open.spotify.com/artist/5hl4Ds8m0VaToEbZOQDE32) | [back two it](https://open.spotify.com/album/4CiUB1H0CvjTLkpJMIYWvW) | 1:30 |
 | 18 | [Last Pound](https://open.spotify.com/track/61K1crraupVe0ozjRlPB42) | [Tay Jordan](https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct) | [Last Pound](https://open.spotify.com/album/4tQnweQakGQkQA9Zukn8sA) | 1:43 |
-| 19 | [scared](https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [USB](https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT) | 4:03 |
+| 19 | [scared](https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [USB](https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT) | 3:46 |
 | 20 | [Death of Love](https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Death of Love](https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH) | 3:26 |
 | 21 | [Countdown '74](https://open.spotify.com/track/44Ay2h4LEnY2NgUxUZtipJ) | [COSIMA](https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH) | [Countdown '74](https://open.spotify.com/album/1hBN1FFU7GE9MCKxJ8SGqc) | 3:11 |
 | 22 | [how the f\*\*\* does everybody else manage?](https://open.spotify.com/track/3h7UpzkWwGHDSYOyZzjWgN) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [how the f\*\*\* does everybody else manage?](https://open.spotify.com/album/7s9tN7wLGVuWclzIeywrxs) | 3:30 |

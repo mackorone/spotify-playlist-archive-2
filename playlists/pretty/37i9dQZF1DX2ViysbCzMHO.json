@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 175689,
+  "num_followers": 175704,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -260,7 +260,7 @@
           "url": "https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM"
         }
       ],
-      "duration_ms": 164375,
+      "duration_ms": 164374,
       "name": "Rollin' Stone - Piano Version",
       "url": "https://open.spotify.com/track/2KOpMKWHkiPmWIyBBT9KTH"
     },
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "Whiskey On You (Acoustic)",
-        "url": "https://open.spotify.com/album/4xvw2MbLOUrJ5xvESdtYvr"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 179530,
-      "name": "Whiskey On You - Acoustic",
-      "url": "https://open.spotify.com/track/5aytw2jhoFTGcTNuzSaaBj"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
         "name": "Drinking Alone",
         "url": "https://open.spotify.com/album/64PJ8S3L5sW6sCbWwqDccI"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 175783,
       "name": "Drinking Alone - Sunset Session",
       "url": "https://open.spotify.com/track/3SBwfxEUpTvavNFM9w47I4"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "Whiskey On You (Acoustic)",
+        "url": "https://open.spotify.com/album/4xvw2MbLOUrJ5xvESdtYvr"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 179530,
+      "name": "Whiskey On You - Acoustic",
+      "url": "https://open.spotify.com/track/5aytw2jhoFTGcTNuzSaaBj"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
+        "name": "Love The Lonely Out Of You (Live Pinebox Version)",
+        "url": "https://open.spotify.com/album/7EpjY7yUKLmugTK4dbZVOp"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 329053,
+      "name": "Love The Lonely Out Of You - Live Pinebox Version",
+      "url": "https://open.spotify.com/track/1RTfd7hiaSQFocxxzGskkZ"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
         "name": "Half Of Me (Acoustic)",
         "url": "https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7"
       },
@@ -759,22 +775,6 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "Like It Ain't (Stripped)",
-        "url": "https://open.spotify.com/album/3vXE1hHGpttyFG7q6WEmOm"
-      },
-      "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        }
-      ],
-      "duration_ms": 156690,
-      "name": "Like It Ain't - Stripped",
-      "url": "https://open.spotify.com/track/20p4dwzd7q36OkTEhuvqjb"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
         "name": "Burn It Down (Live Acoustic)",
         "url": "https://open.spotify.com/album/0njPZgMRssflpa2zicNaWf"
       },
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
+        "name": "Like It Ain't (Stripped)",
+        "url": "https://open.spotify.com/album/3vXE1hHGpttyFG7q6WEmOm"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "duration_ms": 156690,
+      "name": "Like It Ain't - Stripped",
+      "url": "https://open.spotify.com/track/20p4dwzd7q36OkTEhuvqjb"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
         "name": "Breakups (Acoustic)",
         "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 227693,
       "name": "Breakups - Acoustic",
       "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
-        "name": "Love The Lonely Out Of You (Live Pinebox Version)",
-        "url": "https://open.spotify.com/album/7EpjY7yUKLmugTK4dbZVOp"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 329053,
-      "name": "Love The Lonely Out Of You - Live Pinebox Version",
-      "url": "https://open.spotify.com/track/1RTfd7hiaSQFocxxzGskkZ"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "World on Fire (Bonfire Version)",
-        "url": "https://open.spotify.com/album/5dXRi4991APofJJZS3g0KR"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 185915,
-      "name": "World on Fire - Bonfire Version",
-      "url": "https://open.spotify.com/track/2k2mdBAB0pPPadKPKwEIQE"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
         "name": "One Percent (Acoustic)",
         "url": "https://open.spotify.com/album/2Gu6f6gkopG6PBM59XGJR9"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 204900,
       "name": "One Percent (Acoustic)",
       "url": "https://open.spotify.com/track/3TTwYDjHcheOMwJO1f79dp"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "World on Fire (Bonfire Version)",
+        "url": "https://open.spotify.com/album/5dXRi4991APofJJZS3g0KR"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 185915,
+      "name": "World on Fire - Bonfire Version",
+      "url": "https://open.spotify.com/track/2k2mdBAB0pPPadKPKwEIQE"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "She Had Me At Heads Carolina (Acoustic)",
-        "url": "https://open.spotify.com/album/4w9hMFWcxHwVkJlJfrJfIa"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "She Had Me at Heads Carolina - Acoustic",
-      "url": "https://open.spotify.com/track/143NxyffZRHXdVD1MaO5u3"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
         "name": "I Should Probably Go To Bed (Acoustic)",
         "url": "https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 177066,
       "name": "I Should Probably Go To Bed - Acoustic",
       "url": "https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "She Had Me At Heads Carolina (Acoustic)",
+        "url": "https://open.spotify.com/album/4w9hMFWcxHwVkJlJfrJfIa"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "She Had Me at Heads Carolina - Acoustic",
+      "url": "https://open.spotify.com/track/143NxyffZRHXdVD1MaO5u3"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "Can't Have Mine (Find You A Girl) [Acoustic]",
-        "url": "https://open.spotify.com/album/6Z5hiPEf5U9Z3Q9t2atIPn"
-      },
-      "artists": [
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "Can't Have Mine (Find You A Girl) [Acoustic]",
-      "url": "https://open.spotify.com/track/6bEnpoQyw1REmp42Ql8iXr"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 211662,
       "name": "All On Me - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "Can't Have Mine (Find You A Girl) [Acoustic]",
+        "url": "https://open.spotify.com/album/6Z5hiPEf5U9Z3Q9t2atIPn"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "Can't Have Mine (Find You A Girl) [Acoustic]",
+      "url": "https://open.spotify.com/track/6bEnpoQyw1REmp42Ql8iXr"
     },
     {
       "added_at": "2026-01-16 05:00:43",

@@ -4,7 +4,7 @@
 
 > Lull your little ones to sleep with piano music.
 
-776 songs - 23 hr 49 min
+777 songs - 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Das Freundliche Monster](https://open.spotify.com/track/7EQJvvYc9NRdts6nBq2f6P) | [Verna Fuller](https://open.spotify.com/artist/7yOLgQOK7gR1w8tnQp2Ubx) | [Das Freundliche Monster](https://open.spotify.com/album/167K8pRyBOUiDfZyv5Zwe8) | 1:44 | 2021-10-07 | 2023-01-13 |
 | [Dave The Dancing Dinosaur](https://open.spotify.com/track/0F6E3SmWBUVpG5Y19WJ3rc) | [Leo Button](https://open.spotify.com/artist/2OFHAfDosm7QmMH9DtQKFt) | [Dave The Dancing Dinosaur](https://open.spotify.com/album/02oswqoZJMijSh1OZSgnXi) | 1:18 | 2024-05-03 |  |
 | [Daybed Sun](https://open.spotify.com/track/39D7RXyVB2RqORz7EGZo7E) | [Simon Laurich](https://open.spotify.com/artist/5V5rkOqIVFS3gKsL70VBJu) | [Come Back and Play](https://open.spotify.com/album/07AVnCTTs4WcglZ1YZJGTG) | 1:42 | 2021-10-07 | 2023-03-18 |
-| [Daytime Lullaby](https://open.spotify.com/track/03wRQCCSlqdCFXhcFjAaWZ) | [Wilfred Field](https://open.spotify.com/artist/5wgNGykMuRZ83zl43wxA7o) | [Daytime Lullaby](https://open.spotify.com/album/66kSO4tsfYCS9droErYj8t) | 1:22 | 2023-04-07 |  |
+| [Daytime Lullaby](https://open.spotify.com/track/03wRQCCSlqdCFXhcFjAaWZ) | [Wilfred Field](https://open.spotify.com/artist/5wgNGykMuRZ83zl43wxA7o) | [Daytime Lullaby](https://open.spotify.com/album/66kSO4tsfYCS9droErYj8t) | 1:22 | 2023-04-07 | 2026-01-24 |
 | [Deirdres Waltz](https://open.spotify.com/track/6f9D6Rpt3w1Kz8Dvs5xVFs) | [Lois Guercio](https://open.spotify.com/artist/3HZ7RCGBxAholHnL35R6il) | [Deirdres Waltz](https://open.spotify.com/album/5Jlx23qLd7tDiIS2uMNdWz) | 1:29 | 2021-10-07 | 2025-03-05 |
 | [Did You Ever See A Lassie?](https://open.spotify.com/track/5Tjwplo0s0KyQazuFOd5ly) | [Rosemary Lauter](https://open.spotify.com/artist/4Omowtg1gZ1ziXFl4rHQU1) | [Five Little Monkeys](https://open.spotify.com/album/4ijvU9elNltEYZ2xPhEgkP) | 2:22 | 2021-10-07 | 2022-10-08 |
 | [Dinosaur Doughnuts](https://open.spotify.com/track/7Iw8nAnMvJk8WVk6dG3qW0) | [Veronika Macias](https://open.spotify.com/artist/2l9FJRThNUAv0yn6wg8b6S) | [Dinosaur Doughnuts](https://open.spotify.com/album/0tbvgoVxplbVawrvYnVuKI) | 1:03 | 2021-10-07 | 2024-03-29 |
@@ -770,6 +770,7 @@
 | [Wishful](https://open.spotify.com/track/6FucNnxWzwEY0WvhqbDzVQ) | [David J Burns](https://open.spotify.com/artist/1kEGNqQqOvQrADGAXPIeZO) | [Wishful](https://open.spotify.com/album/1XvaZXugJLckXSlJ4EDT2G) | 2:03 | 2021-10-07 | 2023-02-10 |
 | [With You, I'm Home](https://open.spotify.com/track/1z9gqMvaO501KwkXVFc03U) | [Carol Barron](https://open.spotify.com/artist/1VRIGqmkeKK6BzSDlbIvQY) | [With You, I'm Home](https://open.spotify.com/album/7iQuaEDKZhFOZR1Q73ldF2) | 1:32 | 2022-07-27 | 2022-12-24 |
 | [Wonder Wheel](https://open.spotify.com/track/15fwDRhx2QMfsHuUgxfiys) | [Wyatt Cross](https://open.spotify.com/artist/3mgecCaL9scsKMSg9X8rZC) | [Wonder Wheel](https://open.spotify.com/album/0t02p7yXPDMtXUktJqeYGe) | 2:03 | 2025-03-07 |  |
+| [Wonderful Things](https://open.spotify.com/track/6xBPVVtRM7QRYhpvOsxWwV) | [Ethan Feather](https://open.spotify.com/artist/2YUwtJwgalTkKmCLksbl7r) | [Wonderful Things](https://open.spotify.com/album/3klISvMmVNycnhksOkJyDX) | 2:22 | 2026-01-23 |  |
 | [Wonderland](https://open.spotify.com/track/1ld8m1HHXHopfkQ8MxL1LN) | [Nerseh Soul](https://open.spotify.com/artist/3F1T3ei9hUjYpSTdNjfQYI) | [Wonderland](https://open.spotify.com/album/57WLtjKQMWOstSPfGypXrE) | 2:23 | 2024-05-31 |  |
 | [Wrapped In A Blanket](https://open.spotify.com/track/1S1SKKE7smqdaWWbx4Cdqx) | [Lucille Shannon](https://open.spotify.com/artist/1kAuyhZ2vs4DMiGGOuTIiN) | [Wrapped In A Blanket](https://open.spotify.com/album/4p94R4YXKMs09DXBmIYhcA) | 1:40 | 2022-05-13 | 2025-03-05 |
 | [Yankee Doodle](https://open.spotify.com/track/2T7N8qmL56DFtgZxqnMi2A) | [Anna Moen](https://open.spotify.com/artist/0hVrDDe8JyOHhFLvO3iPuI) | [Yankee Doodle](https://open.spotify.com/album/3RWPKKlmz1budJpmnVMWZ9) | 1:39 | 2024-05-03 |  |

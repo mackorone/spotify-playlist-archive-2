@@ -2,7 +2,7 @@
 
 ### [Legendary Women of Country](https://open.spotify.com/playlist/37i9dQZF1DWSCp8Clax7tf)
 
-> The Women who put Country Music on the map\. Cover: Dolly Parton
+> The Women who put Country Music on the map\. Cover: Loretta Lynn
 
 129 songs - 7 hr 14 min
 

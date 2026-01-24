@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 277 likes - 3,917 songs - 8 day 15 hr 51 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 277 likes - 3,919 songs - 8 day 15 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3925,5 +3925,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3915 | [That's the Way](https://open.spotify.com/track/2pNaBTVWNk3T02RrZ7HQr3) | [Chemical Prisoner](https://open.spotify.com/artist/4HA8dUaEJfdKGwWq9aHTCi) | [That's the Way](https://open.spotify.com/album/6QvOtLnAeTVXmH6H0J9KaO) | 1:38 |
 | 3916 | [Alive](https://open.spotify.com/track/0JaiiwvEuMTV5RBW0qsL3U) | [Sugarcane Hangover](https://open.spotify.com/artist/4apvzNrF5euN4Sy6oTgBZ3) | [Alive](https://open.spotify.com/album/4W94ReICml5STRqCHV3x3Z) | 3:37 |
 | 3917 | [Nuove Rotte](https://open.spotify.com/track/59nbSqtxgppRtUVa65xwHk) | [Lorenzo Colucci](https://open.spotify.com/artist/4BRWgyOnIuVwX5T3yEpE6c) | [Nuove Rotte](https://open.spotify.com/album/3bMnU5S6r8mhq7Rt9sXkcd) | 3:15 |
+| 3918 | [Mit deiner Stimme](https://open.spotify.com/track/5HBNvAu2ZApr2E4aLH2WZX) | [gebi.sounds](https://open.spotify.com/artist/3fJr7wKHIl9wPDKvQE9B5a) | [Mit deiner Stimme](https://open.spotify.com/album/56vwqYlCD6CjzGzzbuqT9T) | 2:55 |
+| 3919 | [Dolomiti Soul](https://open.spotify.com/track/5Cv5soORtinC12J1ruavkG) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Dolomiti Soul](https://open.spotify.com/album/543B54L2yjcDlvxZQZCJfR) | 3:52 |
 
-Snapshot ID: `AAAG3Xv6NRC9IeKQFp4yBwsDFMymVKaQ`
+Snapshot ID: `AAAG3yyMBSU32SW66HDJbXX/R2MzTl2U`

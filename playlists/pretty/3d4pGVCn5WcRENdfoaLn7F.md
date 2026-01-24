@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 448 likes - 53 songs - 3 hr 4 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 450 likes - 54 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,5 +61,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 51 | [It's Not Much But It's Honest](https://open.spotify.com/track/7qk61UVR5b4uOZPERARakC) | [Chase Cavanaugh](https://open.spotify.com/artist/6DH1kypdObaGWIcKEefQEQ) | [It's Not Much But It's Honest](https://open.spotify.com/album/0s6g5E03GbA8a6rK2G2rfI) | 4:08 |
 | 52 | [Catnip Stun](https://open.spotify.com/track/4bcfDYa8s0gHGMcGsySJne) | [Margarida The Cat](https://open.spotify.com/artist/31DECbEW8piJ1XXK1wPulZ) | [Catnip Stun](https://open.spotify.com/album/3IfmMhNxkyo4dmSXqOOZtK) | 4:39 |
 | 53 | [Change](https://open.spotify.com/track/4R2lNQAf735RGb9Q1ujGj5) | [Claudia Ferri](https://open.spotify.com/artist/1AuF1gQexqDz6ccd06Mge0) | [Change](https://open.spotify.com/album/3IY95C3MaVS42sm8FXxGYj) | 2:48 |
+| 54 | [Beyond The Light](https://open.spotify.com/track/3ilkk0LvxRJliKSrTQF22e) | [Blue Remains](https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv) | [Beyond The Light](https://open.spotify.com/album/3PdgpJKrEf1cZDRlW3qcfO) | 3:23 |
 
-Snapshot ID: `AAACbNcZ6ailFhiM2QDnZh6s8hLJliUe`
+Snapshot ID: `AAACbZkOmRaWGgKEFjowoBa/XiCH+SwS`

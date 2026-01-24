@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,251 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,249 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,12 +85,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 75 | [Alegre Vengo Cantando](https://open.spotify.com/track/1RoUwy8Rfsp0SPaddPUmBu) | [José Nogueras](https://open.spotify.com/artist/1z8Vc58XjwvSENCaae5j0D), [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Versos de Nuestra Cultura](https://open.spotify.com/album/1EuDECMiIY2t7ti1kYHWnK) | 3:50 |
 | 76 | [Bomba en Navidad](https://open.spotify.com/track/1mqTAwIQFWR6JCrAMFiE8Y) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Diciembre Colombiano](https://open.spotify.com/album/1k4QeqeqrihPty4qrv9Kqa) | 5:06 |
 | 77 | [Mapeye 2022](https://open.spotify.com/track/2nY6sEywqui9MCg6cCNcWT) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Mapeye 2022](https://open.spotify.com/album/4YuxK37EcMa4Xhp48Ko4HJ) | 4:48 |
-| 78 | [El Avion](https://open.spotify.com/track/5mpvrAdbbSvThDIKygCrPL) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [Merenboom Vol\. 4](https://open.spotify.com/album/0s14eLBO32u18R53j9LCVI) | 4:58 |
-| 79 | [Tú No Bailas Mas Que Yo](https://open.spotify.com/track/28rpGvE9oOR6ZK9D2Kwj6C) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Tradición Urbana](https://open.spotify.com/album/3gL1JUfwdzStBfmKJQDoPA) | 3:03 |
+| 78 | [Tú No Bailas Mas Que Yo](https://open.spotify.com/track/28rpGvE9oOR6ZK9D2Kwj6C) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Tradición Urbana](https://open.spotify.com/album/3gL1JUfwdzStBfmKJQDoPA) | 3:03 |
+| 79 | [El Avion](https://open.spotify.com/track/5mpvrAdbbSvThDIKygCrPL) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [Merenboom Vol\. 4](https://open.spotify.com/album/0s14eLBO32u18R53j9LCVI) | 4:58 |
 | 80 | [Amerindio](https://open.spotify.com/track/6OOGXA7qm09X3PKrptesLB) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 1](https://open.spotify.com/album/6yGR9lJFtZACoDo4haXjMq) | 2:53 |
 | 81 | [Abreme La Puerta](https://open.spotify.com/track/1ZkZDxTpCQVy4dZCq4oTG8) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 4:11 |
-| 82 | [Bomba De Navidad](https://open.spotify.com/track/15FpekWI5k2GY5ikBYJmoG) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Rumbón Navideño](https://open.spotify.com/album/1uhQN6sBgd4dB7CiPofhNp) | 3:20 |
-| 83 | [Mi Regalo Favorito](https://open.spotify.com/track/0bAnP1tEMw1zETlRJXnnqv) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Parranda All\-Stars: Navidad \- Edición Especial](https://open.spotify.com/album/4WW0UpmKHjrjzC6nklfUM9) | 3:56 |
+| 82 | [Mi Regalo Favorito](https://open.spotify.com/track/0bAnP1tEMw1zETlRJXnnqv) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Parranda All\-Stars: Navidad \- Edición Especial](https://open.spotify.com/album/4WW0UpmKHjrjzC6nklfUM9) | 3:56 |
+| 83 | [Bomba De Navidad](https://open.spotify.com/track/15FpekWI5k2GY5ikBYJmoG) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Rumbón Navideño](https://open.spotify.com/album/1uhQN6sBgd4dB7CiPofhNp) | 3:20 |
 | 84 | [El Año Viejo](https://open.spotify.com/track/6zpp925GKli7ewqZ7EsuSv) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Estrellas de Navidad](https://open.spotify.com/album/0jUakt5QsrlOsrGV4u8TxU) | 3:18 |
 | 85 | [Llego Navidad](https://open.spotify.com/track/4x4UuFFWDIDwIZA6DNhM9z) | [La Banda Gorda](https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1) | [Evolucion](https://open.spotify.com/album/21O9dIfCobCeJY2n9esueX) | 5:06 |
 | 86 | [Parranda Quisqueyana](https://open.spotify.com/track/09JoV9u9sijtmIWY9j0NX6) | [Dimension Dominicana](https://open.spotify.com/artist/2MghxItTMU77qHH5Q7yBCf) | [Navidad Caribeña: Desde Quisqueya y Puerto Rico](https://open.spotify.com/album/0ChiBQiatrvyHDGABY7V68) | 5:02 |

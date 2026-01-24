@@ -4,7 +4,7 @@
 
 > This is Aline Barros\. The essential tracks, all in one playlist.
 
-124 songs - 9 hr 34 min
+125 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,9 +30,10 @@
 | [Cantarei Desse Amor](https://open.spotify.com/track/1GNjgttdbZhQ38mYa9tk0t) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Adorai \(Os Melhores Momentos\)](https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow) | 4:00 | 2024-08-30 | 2025-03-03 |
 | [Cantarei Desse Amor](https://open.spotify.com/track/3eqExbH8UG4iRmoXcPWLHS) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [PG](https://open.spotify.com/artist/0HrmOxfaNsLC0yqmUZRyBu) | [Deus do Impossível](https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM) | 4:00 | 2023-07-09 | 2024-08-22 |
 | [Casa de Deus](https://open.spotify.com/track/4PWM6JVp0UMaZnHMOzH7q4) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Som de Adoradores](https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9) | 5:40 | 2025-03-08 |  |
-| [Casa do Pai](https://open.spotify.com/track/5tI8IBXzNEN12hLOa1PsVP) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL) | 4:44 | 2025-03-02 |  |
+| [Casa do Pai](https://open.spotify.com/track/5tI8IBXzNEN12hLOa1PsVP) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL) | 4:44 | 2025-03-02 | 2026-01-24 |
 | [Casa do Pai](https://open.spotify.com/track/3bUvo7tVSNFvRkaTn0pGjO) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/5e1UldjtFKyW0HT3H6QXYL) | 4:44 | 2024-07-27 | 2025-03-02 |
 | [Casa do Pai](https://open.spotify.com/track/5Phlatr2avk8DRTA1ahxb6) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk) | 4:44 | 2023-07-09 | 2024-07-27 |
+| [Casa do Pai \- Ao Vivo](https://open.spotify.com/track/5GojHmq2LmJRNOFlhe2D8O) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Extraordinária Graça \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/29i8q7KVZZjFh82BgJCDHd) | 4:50 | 2026-01-24 |  |
 | [Casinha de Jesus \(feat\. Maria Catherine\)](https://open.spotify.com/track/1125p0Bk6yVijF1eV4Q8wo) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [ImaginAline](https://open.spotify.com/artist/1LAIQWBGrbEFFMnkSnDXHN), [Maria Catherine](https://open.spotify.com/artist/6NpFsyKn2cKsz0ClJIrwIA) | [Aline Barros e Cia Tim\- Tim por Tim\- Tim](https://open.spotify.com/album/7gLii9nd4WFKyj5MIarXka) | 3:36 | 2025-10-21 | 2026-01-02 |
 | [Consagração / Louvor ao Rei](https://open.spotify.com/track/5oaAx3LoQLdQvwUvneLJ5L) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Consagração](https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM) | 6:21 | 2023-07-09 | 2024-08-24 |
 | [Consagração / Louvor ao Rei](https://open.spotify.com/track/5GcsE2PcDxyHflvagJcleK) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Adorai \(Os Melhores Momentos\)](https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow) | 6:22 | 2024-08-24 | 2025-04-09 |

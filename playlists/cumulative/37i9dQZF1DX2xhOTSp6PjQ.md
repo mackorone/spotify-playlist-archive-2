@@ -2,7 +2,7 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover: Mjolisi
+> Khuphuka lapho… seku\-late! Cover: Feza
 
 280 songs - 22 hr 12 min
 

@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: STARGLOW
 
-866 songs - 1 day 23 hr 27 min
+868 songs - 1 day 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [BREATH \- TAKUMI, MASAYA, TAKERU, YUDAI, KYOSUKE](https://open.spotify.com/track/5dc4VseT1mmnukwMKVv9nn) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [BREATH \(TAKUMI, MASAYA, TAKERU, YUDAI, KYOSUKE\)](https://open.spotify.com/album/1ofoHM5P1fgclfkTriG9V1) | 2:34 | 2025-02-18 | 2025-04-18 |
 | [BREATHE](https://open.spotify.com/track/2P5bbp7BeVtrECPJaN8AFO) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : SPUR](https://open.spotify.com/album/34AWJLKuS7vDo9WvPSd6rE) | 3:03 | 2025-04-04 | 2025-06-25 |
 | [BREMEN](https://open.spotify.com/track/2INxMYYnLdxmB16I45lB4E) | [OWV](https://open.spotify.com/artist/4CNu1NZPWMvgb46cmKepUG) | [BREMEN](https://open.spotify.com/album/7wYlDlMNbNRnyxhGzF660D) | 3:48 | 2024-01-16 | 2024-02-07 |
-| [BRING THE FIRE](https://open.spotify.com/track/1SJaEr3m8ZDONbQAbFHQx7) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [BRING THE FIRE](https://open.spotify.com/album/2AVDc1fKihIJqvLXJW2s89) | 3:09 | 2026-01-15 |  |
+| [BRING THE FIRE](https://open.spotify.com/track/1SJaEr3m8ZDONbQAbFHQx7) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [BRING THE FIRE](https://open.spotify.com/album/2AVDc1fKihIJqvLXJW2s89) | 3:09 | 2026-01-15 | 2026-01-24 |
 | [Broken Party](https://open.spotify.com/track/7C9YOYpERtlL1kRfiS4LMf) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Broken Party](https://open.spotify.com/album/7aST6feyEV5Ugu74CPquXL) | 2:57 | 2025-04-29 | 2025-07-16 |
 | [BTTF](https://open.spotify.com/track/4gkiXKGyp4PnHnOO70q8bK) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Go Back To The Future](https://open.spotify.com/album/2sOb21DLBATC7czm21LQoM) | 3:00 | 2025-07-14 | 2025-11-18 |
 | [BUCK \(feat\. Diljit Dosanjh\)](https://open.spotify.com/track/70sREIqvDuuHKXSjmWMysS) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [BUCK \(feat\. Diljit Dosanjh\)](https://open.spotify.com/album/29xxo6iJM8mqwKYWTHCu06) | 2:43 | 2025-05-08 | 2025-06-13 |
@@ -576,10 +576,11 @@
 | [Rock this Party](https://open.spotify.com/track/3ca5Q1gTQI3Alaiutw2DDo) | [timelesz](https://open.spotify.com/artist/1ZFfhzyXjPvbzSYPlCIwo3) | [Rock this Party](https://open.spotify.com/album/7ImXa5wWsZP3WuFBqcYxGf) | 3:45 | 2025-03-06 | 2025-06-29 |
 | [Rocketeer](https://open.spotify.com/track/5ONAE8kbnpU9roroXScbcm) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [A \(Special Edition\)](https://open.spotify.com/album/51NB4PIC5vgboVu6RaLoa2) | 3:07 | 2023-11-23 | 2024-02-01 |
 | [Romance Number 110](https://open.spotify.com/track/1lPE1UFRuNk2NGCz575o3Q) | [Lead](https://open.spotify.com/artist/1xveO47dkKDIE1288sCLOE) | [XTLIKE](https://open.spotify.com/album/1dOvMsQgN6LOjmsuaaeVR5) | 3:10 | 2024-09-03 | 2024-09-18 |
+| [ROSES](https://open.spotify.com/track/6N4bKr0NJtNad2aPl0KAqm) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ROSES](https://open.spotify.com/album/0QqZQlP3TnrGvWpxKzOV96) | 2:21 | 2026-01-23 |  |
 | [Royal](https://open.spotify.com/track/0NR5Ps5s2hpfZ8Ysmp3dTF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Royal](https://open.spotify.com/album/1YKSS88CPp87pKphKTZMTd) | 3:42 | 2024-09-03 | 2025-03-07 |
 | [RU\-PUM PUM \- Japanese ver.](https://open.spotify.com/track/6DHzcm29i8oid8To18mMxx) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [RU\-PUM PUM \(Japanese ver.\)](https://open.spotify.com/album/5OurfkN4UO7DRPnIkfODcA) | 3:22 | 2024-03-05 | 2024-03-27 |
 | [Run It Back](https://open.spotify.com/track/2DHlMEVSmWkmffblREZazJ) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Run It Back](https://open.spotify.com/album/1r0FKtz7RlCiLJVDbwYVSk) | 2:26 | 2026-01-15 |  |
-| [Running to Future](https://open.spotify.com/track/4GoHlroPFfWSJzp6PSZEzU) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Running to Future](https://open.spotify.com/album/4UwJN15Kj788q1cr5X2j5T) | 3:19 | 2026-01-15 |  |
+| [Running to Future](https://open.spotify.com/track/4GoHlroPFfWSJzp6PSZEzU) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Running to Future](https://open.spotify.com/album/4UwJN15Kj788q1cr5X2j5T) | 3:19 | 2026-01-15 | 2026-01-24 |
 | [Running Wild](https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:31 | 2025-03-06 | 2025-03-24 |
 | [SADISTIC](https://open.spotify.com/track/11umzbLG97P5FTncGcjUhl) | [JASP.ER](https://open.spotify.com/artist/1wBe2nbEVc01LGBk4YCxER) | [SADISTIC](https://open.spotify.com/album/7BBhwoonSRzWEohQIcHDkY) | 3:04 | 2025-03-06 | 2025-09-14 |
 | [Sailing](https://open.spotify.com/track/0Tjfd3zPoTpPo7FwR21DC2) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sailing](https://open.spotify.com/album/1hzne4NVJBLxSD78Flnzww) | 3:06 | 2024-11-05 | 2024-12-25 |
@@ -808,6 +809,7 @@
 | [ダイヤモンドリリー](https://open.spotify.com/track/676LDL3TVRJ4UrHQlQmUEi) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [ダイヤモンドリリー](https://open.spotify.com/album/3504vkmyPbeVuZaSky7Q3b) | 3:03 | 2024-01-09 | 2024-02-01 |
 | [ナイモノネダリ](https://open.spotify.com/track/6UkpdAIJ2IIPCod7RxWkL0) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [ナイモノネダリ](https://open.spotify.com/album/0kJHPrDlgnJ3xWGEHco0lQ) | 3:35 | 2023-11-23 | 2024-01-03 |
 | [ハピダン](https://open.spotify.com/track/5czewRI91ZJivj3xcEArZL) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [ハピダン](https://open.spotify.com/album/1eBdG7mDWLP8VAhGaAlFyL) | 3:08 | 2023-11-23 | 2023-11-25 |
+| [ハルコイ](https://open.spotify.com/track/10VPSkOYogP0pWfkWmKa8X) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [ハルコイ](https://open.spotify.com/album/157u9W7ZHan5PPA9i55G7D) | 3:01 | 2026-01-23 |  |
 | [ビビデバビデブー](https://open.spotify.com/track/3YDhYwMfNhFVioT192LmBR) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [ビビデバビデブー](https://open.spotify.com/album/08HiOvU4klxJkDM4Lzf39f) | 3:13 | 2024-12-10 | 2024-12-25 |
 | [ピアス](https://open.spotify.com/track/4G4GGrJm2mLcDGDNxs9KVI) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [ピアス](https://open.spotify.com/album/5Bq65Zx3XAb1WADMiVTUmE) | 3:17 | 2024-07-30 | 2024-10-15 |
 | [ピカレスク](https://open.spotify.com/track/6oReVRjUTzGEOIkk2zULhm) | [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [N / bias（Special Edition）](https://open.spotify.com/album/2OUCx1gQU2BfcrBXgUFyMJ) | 3:04 | 2025-03-06 | 2025-03-10 |

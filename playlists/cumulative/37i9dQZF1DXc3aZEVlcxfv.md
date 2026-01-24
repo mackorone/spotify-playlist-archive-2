@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-522 songs - 1 day 10 hr 55 min
+522 songs - 1 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Elite Levels](https://open.spotify.com/track/6iymwe6XeUeM57LpGkl0lX) | [Steve Elite](https://open.spotify.com/artist/47VkiDb1iXeoDfDrebngyk), [Jessica monday](https://open.spotify.com/artist/7LnoP2GdqJRRoWuWKVsS3X) | [December Elite Levels](https://open.spotify.com/album/7wMkOSZe8AX1WLu897KN70) | 2:12 | 2025-11-28 |  |
 | [Ema Seun Ni](https://open.spotify.com/track/2AHoIZCFesinwTVfdZ7IZT) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Ema Seun Ni](https://open.spotify.com/album/1is9MoMbx28rDIJGgcY46h) | 1:43 | 2025-01-24 | 2025-03-07 |
 | [Enough](https://open.spotify.com/track/3sTKNrsUuwIQ13DzlN0YR3) | [Char](https://open.spotify.com/artist/15qYBwVZ3s8UjqAOT8rxGf), [Takunda](https://open.spotify.com/artist/6euX8HpygCP19RCkGJbR6p), [Cleo Arie](https://open.spotify.com/artist/3kPnhC2DzfytfKwustsyqK) | [Enough](https://open.spotify.com/album/3nUA8EVKM3iMk21HFcGEQP) | 3:24 | 2025-05-16 | 2025-06-27 |
+| [ENOUGH FOR ME](https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [ENOUGH FOR ME](https://open.spotify.com/album/5P2RR6rOO8lTNvVxMObKmj) | 9:40 | 2026-01-23 |  |
 | [Esandleni](https://open.spotify.com/track/7LTDINonhUaOiWTyN3AxCI) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Esandleni](https://open.spotify.com/album/4GG6rS5yCifLj4BpOzkmab) | 5:36 | 2025-01-31 | 2025-11-28 |
 | [Ese](https://open.spotify.com/track/1dcYvSjnfN8r18tIlUxzub) | [Jakes Hinjari](https://open.spotify.com/artist/0vHke5zDphp49XceKxztGu), [Jephthah Idahosa Aigbe](https://open.spotify.com/artist/6K4xWHvtn0F3eM6dnZGQeg) | [Ese](https://open.spotify.com/album/2SaVQ0rjJrCIjhAyqpOZHi) | 3:02 | 2025-04-04 | 2025-05-16 |
 | [ESE](https://open.spotify.com/track/2NiMx2uu3rfv1I46yvzrxc) | [Joshua Eze](https://open.spotify.com/artist/1ll1KaY4tt8SZsLMouypuc), [NESSA](https://open.spotify.com/artist/3RKJ8AC7qfdCgpydI6Y6PU) | [ESE](https://open.spotify.com/album/4RxGEWXJak1tieTRkHLc0z) | 4:02 | 2025-10-31 | 2025-11-28 |
@@ -470,7 +471,6 @@
 | [Tomorrow](https://open.spotify.com/track/0yHrFrklGXZZ5FWWyMg3ay) | [Awesome Madu](https://open.spotify.com/artist/3UH99r4rVxNIbqwvwthmb8), [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Tomorrow](https://open.spotify.com/album/412BLUs46QfrWANlHvZwfm) | 3:13 | 2025-11-07 |  |
 | [Too Good](https://open.spotify.com/track/01Sgqsj81Pkw2EyM5F2zg1) | [Johnyjune](https://open.spotify.com/artist/658iJcPBWp0q5DfPf1dzhy), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Too Good](https://open.spotify.com/album/54FYtDKHmb2VRlD7I5qcPy) | 3:37 | 2025-04-25 | 2025-07-25 |
 | [Too Much](https://open.spotify.com/track/7mYXS1qzgjV0m6TDFKii97) | [Nutty Josh](https://open.spotify.com/artist/259gFVebrznddLh7C8Esth), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Too Much](https://open.spotify.com/album/2aIQBsKZp8yiohC8SSs5Fl) | 2:46 | 2025-03-21 | 2025-06-06 |
-| [Track 4](https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-23 |  |
 | [Trust in You](https://open.spotify.com/track/1M9UdMIo63boWoCf4bJwo6) | [Samuel Okemiri](https://open.spotify.com/artist/6Pm09rb09YirZyBwTjPQcQ), [Steady Worship](https://open.spotify.com/artist/17ni7x7OVAYDsxQyKUp1DJ) | [Trust in You](https://open.spotify.com/album/6hTxgKcqFko2RnxpX30Xhi) | 3:32 | 2025-09-05 | 2025-11-14 |
 | [Tuale](https://open.spotify.com/track/6XgoCyZZtwChb0LiJvOXdc) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Lagos Lover Boy](https://open.spotify.com/album/7C3bmmUT99wEnbrtSJjC4e) | 5:05 | 2025-08-02 | 2025-11-07 |
 | [Under The Canopy](https://open.spotify.com/track/59SR0FpZzENp1Xa5yXExzW) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Under The Canopy](https://open.spotify.com/album/0m4KXfassO1hsCsQBnQBkb) | 5:13 | 2024-09-27 | 2025-02-28 |

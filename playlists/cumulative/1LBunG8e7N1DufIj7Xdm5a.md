@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,870 songs - 8 day 13 hr 28 min
+3,872 songs - 8 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -905,6 +905,7 @@
 | [Dolce Vita](https://open.spotify.com/track/0uSYW91QDfkAdqiCflPxoI) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Italian Music vol.2](https://open.spotify.com/album/24QXnweJJo4OYCzxaYW6pq) | 3:12 | 2025-09-18 |  |
 | [Dolce Vita \(another\)](https://open.spotify.com/track/5KTqCbwCXrfHXTqJooruOi) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Italian Music vol.2](https://open.spotify.com/album/24QXnweJJo4OYCzxaYW6pq) | 2:28 | 2025-09-18 |  |
 | [Dolce Vita \(another\)](https://open.spotify.com/track/1hoAQ97DTrGELZOTx4Q7Ig) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Italian Music](https://open.spotify.com/album/0P7EboV1NMbmK6iX5ALFyS) | 2:44 | 2025-09-18 |  |
+| [Dolomiti Soul](https://open.spotify.com/track/5Cv5soORtinC12J1ruavkG) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Dolomiti Soul](https://open.spotify.com/album/543B54L2yjcDlvxZQZCJfR) | 3:52 | 2026-01-23 |  |
 | [Dominates The Wall](https://open.spotify.com/track/0jnYNKIWcNnDTPxngafl0h) | [Ric art](https://open.spotify.com/artist/0lcbVRdnBooIR3KjqwfNRe), [RR!!c,..](https://open.spotify.com/artist/7B6wiQehIFEiAWbH4Fwi39) | [Dominates The Wall](https://open.spotify.com/album/5kvY47dNW2AiqkVclxcZ7R) | 2:11 | 2025-06-05 |  |
 | [Don Deh A Road](https://open.spotify.com/track/33J5KroFkhgdetNgKRcJeq) | [Qraig Voicemail](https://open.spotify.com/artist/5ZJvCyMFWQMdEBlUtkIdMt) | [Don Deh A Road](https://open.spotify.com/album/2gveZvysZ7yucLWmHIMIip) | 2:24 | 2025-06-04 |  |
 | [Don't Give Up](https://open.spotify.com/track/54QiBT5ROTpOtg0yJPxpIv) | [Os Astronautas](https://open.spotify.com/artist/3abqf13NRm1hC93MQ583lI) | [Don't Give Up](https://open.spotify.com/album/33DVJwJNSulyJ1YoaiuAVf) | 2:40 | 2025-06-12 |  |
@@ -2132,6 +2133,7 @@
 | [Miss & Mister](https://open.spotify.com/track/5olQqq0SKbmBwnYtm1ULwx) | [David Lenoc](https://open.spotify.com/artist/0bwgixs0srFeTkbOEA7CvJ) | [Miss & Mister](https://open.spotify.com/album/7KksWeTZuUnkUtZtgtjOSG) | 2:40 | 2025-05-26 |  |
 | [MISS ME?](https://open.spotify.com/track/19T5c0CENOO6K32TJTUg7r) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [MISS ME?](https://open.spotify.com/album/3cJ0inyTwpiEqKRxnPpeJ9) | 2:06 | 2025-07-28 |  |
 | [Mister B](https://open.spotify.com/track/3Nf6MGcIZEFOULezd4lJpw) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Mister B](https://open.spotify.com/album/6tTmt9YBr54Z9rqHkdQWXw) | 1:54 | 2025-12-10 |  |
+| [Mit deiner Stimme](https://open.spotify.com/track/5HBNvAu2ZApr2E4aLH2WZX) | [gebi.sounds](https://open.spotify.com/artist/3fJr7wKHIl9wPDKvQE9B5a) | [Mit deiner Stimme](https://open.spotify.com/album/56vwqYlCD6CjzGzzbuqT9T) | 2:55 | 2026-01-23 |  |
 | [Mixtape for the Future](https://open.spotify.com/track/2cu02llgcNfbEM90pnrxgi) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Tape Music](https://open.spotify.com/album/2X1ZnNcAoPKI9wGc2Mtt9V) | 3:45 | 2025-09-20 |  |
 | [Modalità Aereo](https://open.spotify.com/track/2vVFeQIg4MomfndIwNrU0x) | [Carducci](https://open.spotify.com/artist/2THb3si9v6rQ2uqBAp8ZMf) | [Le vie del Cercatore](https://open.spotify.com/album/2RprCD6Thm9yNUx86vWxeC) | 3:54 | 2025-06-09 |  |
 | [Modern Hart](https://open.spotify.com/track/012hEmWT098jw19iPaptN8) | [Billy Nomates](https://open.spotify.com/artist/0QJaBD8Piha8IEwKtNpBOB) | [Billy Nomates](https://open.spotify.com/album/7duCIMjQ9LE5UjybZ0ZqoI) | 2:24 | 2025-11-05 |  |

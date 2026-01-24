@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Arctic Monkeys
 
-2,384 songs - 5 day 16 hr 56 min
+2,385 songs - 5 day 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Beating](https://open.spotify.com/track/36ygoVLO0jDpWuH1RiNXw3) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Beating](https://open.spotify.com/album/6jIUrI7iDm03VoCAusFqYD) | 2:48 | 2024-11-21 | 2024-12-06 |
 | [Beautiful Ones](https://open.spotify.com/track/7eDoR3vtSww5iGJob4SrL1) | [Victoria West](https://open.spotify.com/artist/2g14SO8yjodxGFXxwPOGmL) | [Beautiful Ones](https://open.spotify.com/album/3u4hSRmW0cuXo72Uv6I6Ih) | 3:26 | 2025-09-05 | 2025-10-03 |
 | [Beck n Call](https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Beck n Call](https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI) | 3:23 | 2025-11-06 | 2025-12-05 |
+| [Before It Wears You Out](https://open.spotify.com/track/29Vnhuw36YMPusoFci1c9N) | [Andreas Vey](https://open.spotify.com/artist/2JtnUZejA6jFRZZuqmlJzs) | [introspect\_](https://open.spotify.com/album/1ceqFA1tdm3M6U7hgfJA8h) | 3:44 | 2026-01-23 |  |
 | [Before You I Just Forget](https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance \(Deluxe Edition\)](https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy) | 3:56 | 2025-04-17 | 2025-05-16 |
 | [Beg, Steal, Borrow](https://open.spotify.com/track/3E2HVdCQW0R53CcHVtHTa8) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Aperture](https://open.spotify.com/album/5wyhyzvoRACvYCIyYr9vQM) | 4:05 | 2025-05-08 | 2025-06-06 |
 | [Beginner](https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light Sides](https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn) | 4:03 | 2024-09-12 | 2024-09-27 |
@@ -951,7 +952,7 @@
 | [Hung The Moon](https://open.spotify.com/track/21MvPaoP3lEZ8JlULq50Cv) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Hung The Moon](https://open.spotify.com/album/2mZhNcre8K3m9oOke3Kzpt) | 5:28 | 2024-07-11 | 2024-08-09 |
 | [HURRICANE](https://open.spotify.com/track/4GXHx58QSO2kvDe1T73Wbv) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [HURRICANE](https://open.spotify.com/album/3n7tr6aXcnufwhVg7vNDMu) | 3:52 | 2025-03-20 | 2025-04-04 |
 | [Hurts, Don't It?](https://open.spotify.com/track/2XsRy94e34Nc5WBqfvx3rv) | [Super Cassette](https://open.spotify.com/artist/192f9MIvyAOXrAXV4k4pXL) | [Hurts, Don't It?](https://open.spotify.com/album/0u63i2luFVHESBxKS364OZ) | 3:54 | 2025-06-05 | 2025-06-27 |
-| [Hush](https://open.spotify.com/track/5d367xvZxdp7wNbnXnIoEs) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Hush](https://open.spotify.com/album/4G3cUO5CtIPq8JibFvVkgp) | 2:59 | 2026-01-15 |  |
+| [Hush](https://open.spotify.com/track/5d367xvZxdp7wNbnXnIoEs) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Hush](https://open.spotify.com/album/4G3cUO5CtIPq8JibFvVkgp) | 2:59 | 2026-01-15 | 2026-01-24 |
 | [Husk](https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Husk](https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS) | 3:24 | 2024-09-12 | 2024-09-27 |
 | [Hymn of the Haar](https://open.spotify.com/track/5EHQJKfKuoLinf0Sb45Z6D) | [Patrick Wolf](https://open.spotify.com/artist/6s92YZUPkTK1HL1WIGrPKE) | [Hymn of the Haar](https://open.spotify.com/album/2qXh56hoghMQX4w2G38SMP) | 4:35 | 2025-04-17 | 2025-05-09 |
 | [Hyperempathy](https://open.spotify.com/track/1D7ASVeI5JH1CuvSnr7ynJ) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hyperempathy](https://open.spotify.com/album/0PjU3db8WuVPEsoYzdiyil) | 4:39 | 2025-09-11 | 2025-10-10 |
@@ -1282,6 +1283,7 @@
 | [Love Is Over](https://open.spotify.com/track/46luU5vXFosW3zOR13taED) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Love Is Over](https://open.spotify.com/album/5rh5B327itAEamamcEZSIS) | 4:27 | 2024-09-19 | 2024-10-11 |
 | [Love It](https://open.spotify.com/track/0oZE92c6WiVvensny2ite8) | [Andi Fins](https://open.spotify.com/artist/2BPie6p0D58hgEWz5Y9ACw) | [Love It](https://open.spotify.com/album/6x1EuGBUxqrltRcaMLvmlq) | 3:06 | 2025-02-06 | 2025-02-14 |
 | [Love Language](https://open.spotify.com/track/20vI6DliSLYWeHNWnD8tee) | [Power Plush](https://open.spotify.com/artist/5oFIcDSdVrn8T3Ldes4Ebn) | [Love Language](https://open.spotify.com/album/7HebsgkkOwtksiXlHGhn9O) | 2:56 | 2025-09-11 | 2025-09-27 |
+| [Love Me Better](https://open.spotify.com/track/0LoMlLQ5GyU9oXWMcHK0CQ) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Hugo Hamlet](https://open.spotify.com/artist/4sh4kcFQN5pZcNxX4eBGmO) | [Papooz & Friends](https://open.spotify.com/album/2Kn8qlxUCCXr4nIbJiNUWd) | 2:45 | 2026-01-22 |  |
 | [Love Of My Life](https://open.spotify.com/track/5zo9aNirdclIeBAKVUXaPy) | [Oskar Haag](https://open.spotify.com/artist/49vARgKsuzb4s19CB3hpOj) | [Field Of Love](https://open.spotify.com/album/3K8XTSLmDaTgu1hSqndPXS) | 2:05 | 2025-04-24 | 2025-05-16 |
 | [Love On the Big Screen](https://open.spotify.com/track/2arA4UjtVVKh7Gvyi03T68) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Love On the Big Screen](https://open.spotify.com/album/1uXTNT986exupJwfbwXL2t) | 3:25 | 2025-06-26 | 2025-07-04 |
 | [Love One Another \(Or Die\)](https://open.spotify.com/track/4CN2AdYEHN2MmbJwQfHEIw) | [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p), [Warren Ellis](https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu) | [The Death Of Bunny Munro](https://open.spotify.com/album/4iLosdObnLTYRiAr4g4wee) | 2:24 | 2025-12-18 | 2026-01-23 |
@@ -2154,7 +2156,6 @@
 | [Tough Love Paradigm](https://open.spotify.com/track/2QIt3LukTeJR4DomwpcKVN) | [Laura Lee & the Jettes](https://open.spotify.com/artist/4727cuqI1mSh8LKNSjG6xr) | [Tough Love Paradigm](https://open.spotify.com/album/6ueN0TyrrYaYLqDY7XXH5L) | 2:57 | 2025-02-20 | 2025-03-21 |
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-03 | 2024-10-18 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-09-27 |
-| [Track 3](https://open.spotify.com/track/0LoMlLQ5GyU9oXWMcHK0CQ) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-22 |  |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-10 | 2025-04-25 |
 | [Trampelpfad](https://open.spotify.com/track/7swleFJ2EV0jcaz8Y77ohC) | [ClickClickDecker](https://open.spotify.com/artist/5wNvenQ2uTeqJAxNahM2nX) | [Wir waren schon immer da](https://open.spotify.com/album/6NwYOyxPHNFtBZonR3UK6O) | 4:04 | 2025-09-25 | 2025-10-10 |
 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-22 | 2025-06-06 |

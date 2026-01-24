@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B lives. Cover: Ella Mai",
+  "description": "Where R&B lives. Cover: Ari Lennox",
   "name": "RNB X",
   "tracks": [
     {
@@ -5429,6 +5429,24 @@
     },
     {
       "album": {
+        "name": "Vacancy",
+        "url": "https://open.spotify.com/album/2UuTaSOSxTNP6whKrwDqnS"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132931,
+      "name": "High Key",
+      "url": "https://open.spotify.com/track/48Rk6ZyFcztsyvUZeUFVXO"
+    },
+    {
+      "album": {
         "name": "For Broken Ears",
         "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
       },
@@ -8178,7 +8196,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 226804,
       "name": "Moan",
       "url": "https://open.spotify.com/track/5hkI0Ms7FNmlD0GjjW2jRv"
@@ -10203,6 +10221,24 @@
     },
     {
       "album": {
+        "name": "Vacancy",
+        "url": "https://open.spotify.com/album/2UuTaSOSxTNP6whKrwDqnS"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203564,
+      "name": "Pretzel",
+      "url": "https://open.spotify.com/track/5mfWPeFRJEUi62IWxFJIbf"
+    },
+    {
+      "album": {
         "name": "PRICE OF FAME",
         "url": "https://open.spotify.com/album/0ZPaMBoUZhJhJnJQgShm8X"
       },
@@ -10628,6 +10664,24 @@
       "duration_ms": 223275,
       "name": "Recently Deleted",
       "url": "https://open.spotify.com/track/49uWjZ0INI41gLJVi8DxIf"
+    },
+    {
+      "album": {
+        "name": "Reclusive",
+        "url": "https://open.spotify.com/album/4zTUF5mYmlnNxIw0imKYbz"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186416,
+      "name": "Reclusive",
+      "url": "https://open.spotify.com/track/5vbk8ZURIOaINOKPvvNo60"
     },
     {
       "album": {
@@ -13686,7 +13740,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 186089,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/1J315Sfz0otWt1JDyaNlaF"
@@ -13904,7 +13958,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 166393,
       "name": "Useless (Without You)",
       "url": "https://open.spotify.com/track/22AbBg7GdbP7sjxQ0SLQZi"
@@ -13940,7 +13994,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 183489,
       "name": "Vacancy",
       "url": "https://open.spotify.com/track/08zXm8YQQmbFGag4y353Dp"

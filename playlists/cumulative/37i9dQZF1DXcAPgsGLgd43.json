@@ -1379,6 +1379,24 @@
     },
     {
       "album": {
+        "name": "bebe",
+        "url": "https://open.spotify.com/album/5TMjQ1nkCdafJ2KXxSLOKj"
+      },
+      "artists": [
+        {
+          "name": "Cobuz & Bustta",
+          "url": "https://open.spotify.com/artist/3m7M07iLR1ragTqZ1Wm1NX"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144404,
+      "name": "bebe",
+      "url": "https://open.spotify.com/track/73YCfe06Hq68MmS5GFIf0m"
+    },
+    {
+      "album": {
         "name": "Alterego",
         "url": "https://open.spotify.com/album/4JypWzN41tSUvnRIzWt4f2"
       },
@@ -1718,6 +1736,24 @@
       "duration_ms": 196500,
       "name": "Brisas Del Mar",
       "url": "https://open.spotify.com/track/3KYgsHPXp1pOywoYkUmh6k"
+    },
+    {
+      "album": {
+        "name": "BRUJAS",
+        "url": "https://open.spotify.com/album/14zy0dWCFLLKPxpzLK7dW9"
+      },
+      "artists": [
+        {
+          "name": "D'Witches",
+          "url": "https://open.spotify.com/artist/2qlBkJ7PtnKSLBwBfwBTpB"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335614,
+      "name": "BRUJAS",
+      "url": "https://open.spotify.com/track/7k6gngyiMrUjOM8itGyrec"
     },
     {
       "album": {
@@ -2068,7 +2104,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 199846,
       "name": "Cap",
       "url": "https://open.spotify.com/track/46d9wSmQTSyBrJKQ9YwNHb"
@@ -2112,6 +2148,36 @@
       "duration_ms": 136586,
       "name": "Carioca",
       "url": "https://open.spotify.com/track/3INCMRvvxcLpK5gdOqDBc1"
+    },
+    {
+      "album": {
+        "name": "Carmelita Adi\u00f3s",
+        "url": "https://open.spotify.com/album/09EijxYhFTfPhlDXwbq71k"
+      },
+      "artists": [
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        {
+          "name": "Dean Mickoski",
+          "url": "https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI"
+        },
+        {
+          "name": "Al\u00e9 Kum\u00e1",
+          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
+        },
+        {
+          "name": "MORENITA",
+          "url": "https://open.spotify.com/artist/4BRR1MOnfQFaBKEDhRkZ71"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171290,
+      "name": "Carmelita Adi\u00f3s",
+      "url": "https://open.spotify.com/track/2HOFGUqpNruf4dCYkTvesn"
     },
     {
       "album": {
@@ -2282,7 +2348,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 207804,
       "name": "Chimba",
       "url": "https://open.spotify.com/track/4P043YdrPKrNrF8aqRgGrB"
@@ -3161,6 +3227,50 @@
     },
     {
       "album": {
+        "name": "Delirious",
+        "url": "https://open.spotify.com/album/0q0FT4I4xNZSFPCuvoIRw9"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192923,
+      "name": "Delirious",
+      "url": "https://open.spotify.com/track/46875iJliwEgqWQvKT4cJX"
+    },
+    {
+      "album": {
+        "name": "Desacate",
+        "url": "https://open.spotify.com/album/4FxML0DOmdEHkdJupzK1Dk"
+      },
+      "artists": [
+        {
+          "name": "Temazkal",
+          "url": "https://open.spotify.com/artist/71qYuhn5CuoFIpXTrfRwgi"
+        },
+        {
+          "name": "Gotlucky",
+          "url": "https://open.spotify.com/artist/0h3ZnunNbFkhUWGygorbVg"
+        },
+        {
+          "name": "4Rain",
+          "url": "https://open.spotify.com/artist/7mgeWKf0QP5WtjDreBuNME"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175573,
+      "name": "Desacate",
+      "url": "https://open.spotify.com/track/4Zjtyi2rWXvfw5VgJkmuam"
+    },
+    {
+      "album": {
         "name": "Desconocidos",
         "url": "https://open.spotify.com/album/0Kpg2Flv9TK2V8s7bJrade"
       },
@@ -3610,7 +3720,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 174880,
       "name": "El Baile",
       "url": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb"
@@ -4820,7 +4930,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 137963,
       "name": "La Buena Vida (feat. Tayson Kryss)",
       "url": "https://open.spotify.com/track/0VpQieuQ6vS00yknO16eGy"
@@ -6022,6 +6132,28 @@
       "duration_ms": 303240,
       "name": "Me Duele el Alma",
       "url": "https://open.spotify.com/track/3bfX8IHLcbE10AYhTMnMNi"
+    },
+    {
+      "album": {
+        "name": "Me Gusta",
+        "url": "https://open.spotify.com/album/2n1QiyofmdKMMiQ61SqPGW"
+      },
+      "artists": [
+        {
+          "name": "Andres Matheus",
+          "url": "https://open.spotify.com/artist/2S7UBExINSLdrYRj6kasdV"
+        },
+        {
+          "name": "Massianello",
+          "url": "https://open.spotify.com/artist/6oARZ0ckg0uN1GEs22MQw7"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273668,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/632Yj6DDQ4N8XSPeZ8Q6Z9"
     },
     {
       "album": {
@@ -7352,7 +7484,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 214925,
       "name": "Perreo Y2K",
       "url": "https://open.spotify.com/track/0ebpKe5qa9honC8r5Ki7wD"
@@ -10310,7 +10442,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 218709,
       "name": "Wataki",
       "url": "https://open.spotify.com/track/4PaUK4T6fMbhLSzZaX9In4"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Bárbara Bandeira
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,626 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,647 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 19 | [Poesia](https://open.spotify.com/track/26W9LkNg5LebR0NyuphTa9) | [José Cid](https://open.spotify.com/artist/1oowLCcSBurZzYTpaR0Ep4) | [Poesia](https://open.spotify.com/album/1LWrPapQOUbhHKyPbEFhCF) | 3:23 |
 | 20 | [Voltar ao Inicio](https://open.spotify.com/track/124qzX6fC9it7YRgmKpKK6) | [Nayra Mirella](https://open.spotify.com/artist/2I7XfmIcxcr0mVB2llZNb1), [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Voltar ao Inicio](https://open.spotify.com/album/1m8uTvFaK5PCwKyUmKiKCC) | 3:17 |
 | 21 | [Perdidamente](https://open.spotify.com/track/3PRGv1lkeA6vKxbGW8mbqh) | [Os Quatro e Meia](https://open.spotify.com/artist/4pHDBbJMWvniiMjrhi2rfE) | [Perdidamente](https://open.spotify.com/album/2okRCVoFGXhZnsrVsR2euK) | 4:06 |
-| 22 | [Num Dia de Manhã](https://open.spotify.com/track/0u9si0zYGMesGWFx7Ns1XI) | [Pedro Ricardo](https://open.spotify.com/artist/3uZc1Er5d61JLxm5EaO567), [António Zambujo](https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je) | [](https://open.spotify.com/album/null) | 1:35 |
+| 22 | [Num Dia de Manhã](https://open.spotify.com/track/0u9si0zYGMesGWFx7Ns1XI) | [Pedro Ricardo](https://open.spotify.com/artist/3uZc1Er5d61JLxm5EaO567), [António Zambujo](https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je) | [Sem Caminhar Eu Vou](https://open.spotify.com/album/0iB2VsqnChFs2cAfIMgM94) | 1:35 |
 | 23 | [1,2,3](https://open.spotify.com/track/1qgpFwDcdus9ahuhwJT5su) | [ZARKO](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf), [Latte](https://open.spotify.com/artist/4hUwAsnHVXjrHIeI27HQ0Y) | [1,2,3](https://open.spotify.com/album/5Xs8nxboPVHDW58CgrOO9Z) | 2:34 |
 | 24 | [Olha P’ra Ela](https://open.spotify.com/track/65knUcT6YYCnWONjhYYh4r) | [IOLANDA](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Olha P’ra Ela](https://open.spotify.com/album/4yO9UFn9UUAbcMagk23hWB) | 2:53 |
 | 25 | [Contigo para Sempre](https://open.spotify.com/track/3ci2RTjkUdQhmbVyh7Or0T) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb), [Miguel Moura](https://open.spotify.com/artist/2RNVpVAfgEuFNxHOILyK9q) | [Contigo para Sempre](https://open.spotify.com/album/0nAkeLSbAEFN1H9gr3rwGI) | 2:47 |

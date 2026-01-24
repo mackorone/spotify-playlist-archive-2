@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,926 likes - 170 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,929 likes - 170 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 2 | [Kalla Sidan](https://open.spotify.com/track/6uX1f6PP0g4GXA4Ic0jPal) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Kalla Sidan](https://open.spotify.com/album/3YQnSJqOXH9RFu3JbrVPkm) | 2:25 |
 | 3 | [Annan Galax](https://open.spotify.com/track/1Ww5ki6FR0Ym3edCsfaKhy) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Annan Galax](https://open.spotify.com/album/7ET0GMBEhmYYdNrzXz0u1z) | 2:35 |
 | 4 | [Omerta](https://open.spotify.com/track/4Etlo3kxRw41oMpQb0Q02a) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Omerta](https://open.spotify.com/album/6x5hOSvftVUcCHEOxrOkY8) | 2:42 |
-| 5 | [Track 6](https://open.spotify.com/track/4N8XCwUZOhXnc4HBNimPFQ) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [](https://open.spotify.com/album/null) | 0:00 |
+| 5 | [P.T.H](https://open.spotify.com/track/4N8XCwUZOhXnc4HBNimPFQ) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [Guld Utav Sand 2](https://open.spotify.com/album/2BNPX89yccIcZBuClfeYZz) | 2:31 |
 | 6 | [STHLM STATE OF MIND](https://open.spotify.com/track/5rUutdkNQmw1HB3jo0tX0W) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [STHLM STATE OF MIND](https://open.spotify.com/album/6LTBLe37Few0ie14dRGbZz) | 2:45 |
 | 7 | [Mercedes](https://open.spotify.com/track/2ujnWvQCnK2ePZIBqsJTSZ) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Mercedes](https://open.spotify.com/album/18BVEUTH9Efxkx8qdOlsly) | 2:14 |
 | 8 | [TERAPI](https://open.spotify.com/track/69GARmi1BM4FCccBEmlqJk) | [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3) | [TERAPI](https://open.spotify.com/album/5ZI7gjZgkvidiOAj5AOzNj) | 2:38 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 14 | [Priceless](https://open.spotify.com/track/6d1w0l1afodsaHwivuN9RV) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Ladies & Gentlemen](https://open.spotify.com/album/0e9xHx3eej1r3qemB8wNlf) | 2:34 |
 | 15 | [Allt handlar om dig](https://open.spotify.com/track/4Dqde6fWMl4JlBNw058EEq) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU), [Sofijah](https://open.spotify.com/artist/6fMbyqT4Iqi8hMs9w4tpPD) | [Allt handlar om dig](https://open.spotify.com/album/5r3xxWNy6lFaYOALR0mVAG) | 2:59 |
 | 16 | [Smutsiga Tankar](https://open.spotify.com/track/3FGjcrMU2Ocrn99AJJ9Kil) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Smutsiga Tankar](https://open.spotify.com/album/6EJ8lf1o9Fhyv3MeHVQwRE) | 2:00 |
-| 17 | [Se Mig](https://open.spotify.com/track/6dPxsq7Pd9dEBtYq4QaznU) | [Zius](https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA) | [](https://open.spotify.com/album/null) | 2:30 |
+| 17 | [Se Mig](https://open.spotify.com/track/6dPxsq7Pd9dEBtYq4QaznU) | [Zius](https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA) | [Fint & Förstört](https://open.spotify.com/album/5R8D9EhjnsjJCT8YQgREc7) | 2:30 |
 | 18 | [MODUS OPERANDI](https://open.spotify.com/track/2CfWCtGmuA1g0zHbTPjHn6) | [LB](https://open.spotify.com/artist/3jaXGj5Sjt07nAhZ2b70yv) | [MODUS OPERANDI](https://open.spotify.com/album/2x3nkWxM81znnlrj4H7epw) | 2:27 |
 | 19 | [4REAL](https://open.spotify.com/track/4ahLKX8gVToKrQ1V7N6zlK) | [R10](https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m) | [4REAL](https://open.spotify.com/album/4K1C8qe1jywabXkZOzaYTi) | 2:10 |
 | 20 | [SEEKING](https://open.spotify.com/track/3ZvWtOAPFccnCITBuTVYvO) | [Kristian Mecha](https://open.spotify.com/artist/32wC2fDzN3i3p4gc0ORGzl) | [SEEKING](https://open.spotify.com/album/5rmKEtjm2lmTTmcVx7B5ru) | 2:44 |

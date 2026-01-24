@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAfnuEjIniq7haC5+DVQsNVkrI244Mi",
+  "snapshot_id": "AAAfoTkCrAleFouc0sJja7dj06Gj/kkP",
   "tracks": [
     {
       "added_at": "2022-04-09 13:30:58",
@@ -8407,6 +8407,54 @@
       "duration_ms": 238013,
       "name": "Penguins",
       "url": "https://open.spotify.com/track/26v2Gf4Af7Fav0jTQluetL"
+    },
+    {
+      "added_at": "2026-01-23 15:07:12",
+      "album": {
+        "name": "Ghetty Green",
+        "url": "https://open.spotify.com/album/79C18fJJMGIe3IzT8LiuHR"
+      },
+      "artists": [
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "duration_ms": 259693,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/3PU3neC9XmWz7ZjUn5rYIw"
+    },
+    {
+      "added_at": "2026-01-23 18:01:09",
+      "album": {
+        "name": "These Days...",
+        "url": "https://open.spotify.com/album/36V9Nypcss9ybEKKmPBhin"
+      },
+      "artists": [
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "duration_ms": 330595,
+      "name": "Just Have Fun",
+      "url": "https://open.spotify.com/track/3RlvwLLeShjFhOzKT0VXTP"
+    },
+    {
+      "added_at": "2026-01-23 18:08:56",
+      "album": {
+        "name": "Money Changes Everything",
+        "url": "https://open.spotify.com/album/2piSTs76N8lkVTfa3YtFts"
+      },
+      "artists": [
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "Wit the Plug",
+      "url": "https://open.spotify.com/track/2B5Or8AROTCPQAlbJz4oow"
     }
   ],
   "unique_name": "main ",

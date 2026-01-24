@@ -1,13 +1,33 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: TH;EN",
-  "num_followers": 118693,
+  "num_followers": 118689,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAghShM9eXPliegx0agwT8z+7pNuiI/",
+  "snapshot_id": "AAAgho1lQ/sLEXirKSGOl6MS+Cz7JZhu",
   "tracks": [
+    {
+      "added_at": "2026-01-22 23:20:08",
+      "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/00IGSwcvchaCcTLxNFP6u4"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "Mentum",
+          "url": "https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3"
+        }
+      ],
+      "duration_ms": 165214,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/3p7dgKyS7tZcSbmXJmQSxz"
+    },
     {
       "added_at": "2026-01-22 23:20:07",
       "album": {
@@ -31,26 +51,6 @@
       "duration_ms": 168923,
       "name": "Locked In (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/55oaId1IHZV9XfvHB3P7PJ"
-    },
-    {
-      "added_at": "2026-01-22 23:20:08",
-      "album": {
-        "name": "Antidote",
-        "url": "https://open.spotify.com/album/00IGSwcvchaCcTLxNFP6u4"
-      },
-      "artists": [
-        {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
-        },
-        {
-          "name": "Mentum",
-          "url": "https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3"
-        }
-      ],
-      "duration_ms": 165214,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/3p7dgKyS7tZcSbmXJmQSxz"
     },
     {
       "added_at": "2026-01-22 23:20:14",

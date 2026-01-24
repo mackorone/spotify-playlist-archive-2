@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Melissa Aldana",
+  "description": "New jazz for open minds. Cover: Julian Lage",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -734,7 +734,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 458053,
       "name": "A Plea",
       "url": "https://open.spotify.com/track/7fkWpK1YcIMtM7PdMawgfY"
@@ -6066,6 +6066,24 @@
       "duration_ms": 255128,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/4aty6aXloUquSo1RGzPo40"
+    },
+    {
+      "album": {
+        "name": "Call to the Void",
+        "url": "https://open.spotify.com/album/1j9ZTeKQURsabBeEDHZ1fh"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301810,
+      "name": "Call to the Void",
+      "url": "https://open.spotify.com/track/0ncPxlgGwoVH4CkPrpviIq"
     },
     {
       "album": {
@@ -18638,7 +18656,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 335170,
       "name": "Kaleidoscopes",
       "url": "https://open.spotify.com/track/2V5TR2NkI29foggEFzgNvd"
@@ -23323,6 +23341,24 @@
     },
     {
       "album": {
+        "name": "My Ideal",
+        "url": "https://open.spotify.com/album/6xXuMAVU80bzQRe36TGAq5"
+      },
+      "artists": [
+        {
+          "name": "Walter Smith III",
+          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246866,
+      "name": "My Ideal",
+      "url": "https://open.spotify.com/track/1EeWkiiptCgP6M8ImrcyDu"
+    },
+    {
+      "album": {
         "name": "Bells On Sand",
         "url": "https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g"
       },
@@ -24106,7 +24142,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 444000,
       "name": "Night Shade",
       "url": "https://open.spotify.com/track/2QMZqnxIjogPks2MmkS8DK"
@@ -31688,6 +31724,36 @@
       "duration_ms": 70357,
       "name": "Something I'm Used To",
       "url": "https://open.spotify.com/track/2OauEKv545mlx6Rz43ZS5Z"
+    },
+    {
+      "album": {
+        "name": "Scenes From Above",
+        "url": "https://open.spotify.com/album/3ttcqbXYZLuyCDPQIGDacR"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        },
+        {
+          "name": "John Medeski",
+          "url": "https://open.spotify.com/artist/46IQ7Q0jkW6dW0l4e15FFD"
+        },
+        {
+          "name": "Jorge Roeder",
+          "url": "https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x"
+        },
+        {
+          "name": "Kenny Wollesen",
+          "url": "https://open.spotify.com/artist/6Zn84vmI9vs51dH9UK52bV"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242946,
+      "name": "Something More",
+      "url": "https://open.spotify.com/track/3YM5xsdAn0yMqCwOeyGa3K"
     },
     {
       "album": {

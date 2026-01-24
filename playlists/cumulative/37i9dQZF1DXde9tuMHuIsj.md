@@ -4,7 +4,7 @@
 
 > The best of Latin Trap\. Cover: YOVNGCHIMI, JC Reyes
 
-557 songs - 1 day 8 hr 2 min
+558 songs - 1 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [Glizzy Walk 3](https://open.spotify.com/track/4GlyvnFvQ3wFiq1ot3xJBY) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [WLGS](https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh) | 5:01 | 2023-12-15 | 2024-06-22 |
 | [Glopeta](https://open.spotify.com/track/1u4mQJwFSZ1a6Cl8fLKBqA) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Anonimus](https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt) | [Glopeta](https://open.spotify.com/album/44BfGk4hGwkmu7tpkmOxWl) | 4:16 | 2024-02-09 | 2024-04-13 |
 | [GO GO GO](https://open.spotify.com/track/0BJCI9tfhMrpELzRiDzdiR) | [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Fenix The Producer](https://open.spotify.com/artist/7EutZWNXh33tAPObZ45ba6) | [La Crema](https://open.spotify.com/album/1LliLGMCamo6OZ0SQBGINc) | 2:57 | 2023-09-15 | 2023-11-11 |
-| [Gohan y Goku](https://open.spotify.com/track/6tfaLKSTenQxuf3wM263wN) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Austin San](https://open.spotify.com/artist/0TC8XvQTSQMh4beW43FsAH) | [Gohan y Goku](https://open.spotify.com/album/3zHjrzYFFrvxitf8e5sbX7) | 2:44 | 2025-06-13 |  |
+| [Gohan y Goku](https://open.spotify.com/track/6tfaLKSTenQxuf3wM263wN) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Austin San](https://open.spotify.com/artist/0TC8XvQTSQMh4beW43FsAH) | [Gohan y Goku](https://open.spotify.com/album/3zHjrzYFFrvxitf8e5sbX7) | 2:44 | 2025-06-13 | 2026-01-24 |
 | [Golfista](https://open.spotify.com/track/0mmWol32PnowJQf0rZx5ab) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Golfista](https://open.spotify.com/album/0lTUD8YJxWaETCcV5sLPJH) | 2:38 | 2025-06-13 | 2025-09-27 |
 | [GONZY MONTANA](https://open.spotify.com/track/1niuG9ErJRe0bbbnnita3L) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [GONZY MONTANA](https://open.spotify.com/album/0dLJHosPrTuh5OZa9LcJJn) | 3:23 | 2024-06-21 | 2024-08-17 |
 | [Grave Digger \(with Southside\)](https://open.spotify.com/track/6aXGt8YQ0zcfagTeWLLTen) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [WLGS](https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh) | 3:02 | 2023-12-15 | 2024-03-19 |
@@ -499,6 +499,7 @@
 | [Tay](https://open.spotify.com/track/4tmdfH3f6KVx6I6LHkCgqg) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:47 | 2022-04-15 | 2022-05-04 |
 | [Te Aseguro](https://open.spotify.com/track/661D7qCBSws0RjkcM2saI1) | [Yecko](https://open.spotify.com/artist/24TdpOJQgBxkfnwZKox9zU), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS), [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs), [Maicke Casiano](https://open.spotify.com/artist/6Kl62g2hqIw07n1GsxjYKs) | [Te Aseguro](https://open.spotify.com/album/6AcWjladXqYCsQoHSlz4ri) | 5:40 | 2022-04-01 | 2022-05-04 |
 | [Tempo](https://open.spotify.com/track/7icIDep1Jr3oJdgJSGsdnM) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Tempo](https://open.spotify.com/album/5TWuIEEbRxkdyn9HgiV69n) | 1:47 | 2023-08-18 | 2024-03-19 |
+| [THIS IS COLOMBIA](https://open.spotify.com/track/1pnK2LlYNzYbiJ7KyMgn7E) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N) | [EL ANDROIDE](https://open.spotify.com/album/4hHr8IqArStD13dxMZqNM8) | 2:36 | 2026-01-24 |  |
 | [THUNDER Y LIGHTNING](https://open.spotify.com/track/4pcafPzLDSqQktqSpxHL3E) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:37 | 2023-12-15 | 2026-01-17 |
 | [Tiffany](https://open.spotify.com/track/0xL0nSOiZzaVHnbakk5YUw) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [DON KBRN](https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a) | 4:24 | 2025-04-04 |  |
 | [Toda La Vida](https://open.spotify.com/track/2pqyoJEsO2xXmu8k59TSHF) | [Anonimus](https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Toda La Vida](https://open.spotify.com/album/2ki6XJm3eqw1ihyRWHTsDU) | 3:11 | 2025-09-26 |  |

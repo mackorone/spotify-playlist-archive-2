@@ -1,15 +1,47 @@
 {
-  "description": "Genre-less. Quality first always. Cover: A$AP Rocky",
-  "num_followers": 1329095,
+  "description": "Genre-less. Quality first always. Cover: James Blake",
+  "num_followers": 1329057,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPDPkwOsmdXRzmzV18HZ1FJ0ITaJ",
+  "snapshot_id": "AAAAABYyK458ZIH6epJhYoYY6ypuuhlN",
   "tracks": [
     {
-      "added_at": "2026-01-20 17:51:46",
+      "added_at": "2026-01-23 05:00:28",
+      "album": {
+        "name": "Death of Love",
+        "url": "https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 206028,
+      "name": "Death of Love",
+      "url": "https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6"
+    },
+    {
+      "added_at": "2026-01-23 05:00:28",
+      "album": {
+        "name": "You're My",
+        "url": "https://open.spotify.com/album/4mFzjQ1NzbzLCFbAPAVxL6"
+      },
+      "artists": [
+        {
+          "name": "Arima Ederra",
+          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "You're My",
+      "url": "https://open.spotify.com/track/0LmvbJfuLuFZxVWl8wGDJy"
+    },
+    {
+      "added_at": "2026-01-23 05:00:28",
       "album": {
         "name": "Don't Be Dumb",
         "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
@@ -20,29 +52,41 @@
           "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         }
       ],
-      "duration_ms": 285634,
-      "name": "DON'T BE DUMB / TRIP BABY",
-      "url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
+      "duration_ms": 227423,
+      "name": "PLAYA",
+      "url": "https://open.spotify.com/track/3sXsbaZlsTv2iJiEntsgM5"
     },
     {
-      "added_at": "2026-01-16 06:00:20",
+      "added_at": "2026-01-23 05:00:28",
       "album": {
-        "name": "Dreamer+",
-        "url": "https://open.spotify.com/album/5NtxvFIhVQUjNaGE69y93P"
+        "name": "CHAMPION SOUND",
+        "url": "https://open.spotify.com/album/01QSX35q4rHFSR23vy4uRF"
       },
       "artists": [
         {
-          "name": "Sassy 009",
-          "url": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L"
-        },
-        {
-          "name": "BEA1991",
-          "url": "https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z"
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
         }
       ],
-      "duration_ms": 202013,
-      "name": "Sleepwalker's Pendulum",
-      "url": "https://open.spotify.com/track/6loiJKdA0IDMYBGAmPGJb4"
+      "duration_ms": 235818,
+      "name": "CHAMPION SOUND",
+      "url": "https://open.spotify.com/track/3aGsNK0Njz9JMTg93ObtHy"
+    },
+    {
+      "added_at": "2026-01-23 05:00:28",
+      "album": {
+        "name": "Mononoke",
+        "url": "https://open.spotify.com/album/6AVZ4BTxiIOhUdOve4Ops1"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Richardson",
+          "url": "https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu"
+        }
+      ],
+      "duration_ms": 207580,
+      "name": "Mononoke",
+      "url": "https://open.spotify.com/track/5TWmdXXBJkNDZzRA94PwAr"
     },
     {
       "added_at": "2026-01-16 06:00:20",
@@ -79,6 +123,42 @@
       "duration_ms": 221066,
       "name": "Memory Be a Blade",
       "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
+    },
+    {
+      "added_at": "2026-01-23 05:00:28",
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/5xLNXjrIKQsSl07l6WrWW1"
+      },
+      "artists": [
+        {
+          "name": "Choker",
+          "url": "https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves"
+        }
+      ],
+      "duration_ms": 163360,
+      "name": "Proof",
+      "url": "https://open.spotify.com/track/7eT7KkcYXFwELw4nzAzUdJ"
+    },
+    {
+      "added_at": "2026-01-16 06:00:20",
+      "album": {
+        "name": "Dreamer+",
+        "url": "https://open.spotify.com/album/5NtxvFIhVQUjNaGE69y93P"
+      },
+      "artists": [
+        {
+          "name": "Sassy 009",
+          "url": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L"
+        },
+        {
+          "name": "BEA1991",
+          "url": "https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z"
+        }
+      ],
+      "duration_ms": 202013,
+      "name": "Sleepwalker's Pendulum",
+      "url": "https://open.spotify.com/track/6loiJKdA0IDMYBGAmPGJb4"
     },
     {
       "added_at": "2026-01-16 06:00:20",
@@ -157,7 +237,7 @@
       "url": "https://open.spotify.com/track/4vcdHDZWVNRCOrEq1LlvsU"
     },
     {
-      "added_at": "2026-01-16 19:04:54",
+      "added_at": "2026-01-20 17:51:46",
       "album": {
         "name": "Don't Be Dumb",
         "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
@@ -166,15 +246,11 @@
         {
           "name": "A$AP Rocky",
           "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 235206,
-      "name": "ROBBERY (feat. Doechii)",
-      "url": "https://open.spotify.com/track/5FYaSV8TLF7qvonB1BDOw0"
+      "duration_ms": 285634,
+      "name": "DON'T BE DUMB / TRIP BABY",
+      "url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
     },
     {
       "added_at": "2026-01-16 06:00:20",
@@ -215,6 +291,26 @@
       "duration_ms": 129986,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/0QDpFGGK0vPADxypanLHVz"
+    },
+    {
+      "added_at": "2025-09-26 04:00:09",
+      "album": {
+        "name": "Company (with Orion Sun)",
+        "url": "https://open.spotify.com/album/2BQgwmYCLh0fTLfc9OrTTB"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        },
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 202355,
+      "name": "Company (with Orion Sun)",
+      "url": "https://open.spotify.com/track/5bw80qtCHR863QUcC4o8qM"
     },
     {
       "added_at": "2026-01-09 05:00:39",
@@ -275,22 +371,6 @@
       "duration_ms": 161596,
       "name": "HOWWEFLOW",
       "url": "https://open.spotify.com/track/5R7prQMqnCcwOelkPPH9eM"
-    },
-    {
-      "added_at": "2026-01-05 21:11:38",
-      "album": {
-        "name": "PUNK ROCKY",
-        "url": "https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 235344,
-      "name": "PUNK ROCKY",
-      "url": "https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F"
     },
     {
       "added_at": "2026-01-09 05:00:39",
@@ -695,22 +775,6 @@
       "duration_ms": 276477,
       "name": "Paradise Runner",
       "url": "https://open.spotify.com/track/3L7TOZvbuTsxH5EM8LVHUZ"
-    },
-    {
-      "added_at": "2025-11-14 00:00:24",
-      "album": {
-        "name": "EUSEXUA Afterglow",
-        "url": "https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 214125,
-      "name": "HARD",
-      "url": "https://open.spotify.com/track/5AzO8bswSqsYtJIfVA2BqX"
     },
     {
       "added_at": "2025-11-14 00:00:24",
@@ -1313,26 +1377,6 @@
       "url": "https://open.spotify.com/track/2Bb9jsaeHdjnDy6ZGIM5tY"
     },
     {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
-        "name": "Copycats",
-        "url": "https://open.spotify.com/album/0KJ0nrsNiDP2bAbW0OBgmd"
-      },
-      "artists": [
-        {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
-        },
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 171426,
-      "name": "Copycats",
-      "url": "https://open.spotify.com/track/0N8aH4DmGUEZWJMo6WVPbY"
-    },
-    {
       "added_at": "2025-10-17 04:00:51",
       "album": {
         "name": "Debt",
@@ -1557,26 +1601,6 @@
       "url": "https://open.spotify.com/track/07Tt7fbOXWja7WZprxpo89"
     },
     {
-      "added_at": "2025-09-26 04:00:09",
-      "album": {
-        "name": "Company (with Orion Sun)",
-        "url": "https://open.spotify.com/album/2BQgwmYCLh0fTLfc9OrTTB"
-      },
-      "artists": [
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        },
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 202355,
-      "name": "Company (with Orion Sun)",
-      "url": "https://open.spotify.com/track/5bw80qtCHR863QUcC4o8qM"
-    },
-    {
       "added_at": "2025-10-03 00:00:34",
       "album": {
         "name": "The Coward Forgets His Nightmare",
@@ -1737,22 +1761,6 @@
       "url": "https://open.spotify.com/track/6CSpmRlGT82RrGNJotD9gJ"
     },
     {
-      "added_at": "2025-09-19 04:00:40",
-      "album": {
-        "name": "rooster",
-        "url": "https://open.spotify.com/album/2wDHpVaU5WuuRgkn52Lp2e"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 335038,
-      "name": "rooster",
-      "url": "https://open.spotify.com/track/5gTYOYsiGMYVa6WVf98q1n"
-    },
-    {
       "added_at": "2025-09-26 04:00:09",
       "album": {
         "name": "What if",
@@ -1767,22 +1775,6 @@
       "duration_ms": 185602,
       "name": "What if",
       "url": "https://open.spotify.com/track/2izy3kSKKpXqIqWIkYv7q1"
-    },
-    {
-      "added_at": "2025-09-12 04:00:21",
-      "album": {
-        "name": "Liim Lasalle Loves You",
-        "url": "https://open.spotify.com/album/3Yvg53C4DwOj7uTjbIhOKh"
-      },
-      "artists": [
-        {
-          "name": "Liim",
-          "url": "https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "For The Both Of Us",
-      "url": "https://open.spotify.com/track/3LoZzlKzoQWeWgOkzAwygl"
     },
     {
       "added_at": "2025-09-19 04:00:40",
@@ -1803,22 +1795,6 @@
       "duration_ms": 205495,
       "name": "FAKE",
       "url": "https://open.spotify.com/track/2TtD1mFpD1PKaCPGJvONRV"
-    },
-    {
-      "added_at": "2025-08-29 04:00:41",
-      "album": {
-        "name": "Essex Honey",
-        "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 262335,
-      "name": "Vivid Light",
-      "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
     }
   ],
   "unique_name": "POLLEN",

@@ -1,13 +1,77 @@
 {
-  "description": "The home of Canadian country music. Cover: Tenille Townes",
-  "num_followers": 83590,
+  "description": "The home of Canadian country music. Cover: Kalsey Kulyk",
+  "num_followers": 83585,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI/m/rOWkzAQDjkIQ11YlLtY6ohy",
+  "snapshot_id": "AAAAANIdwC3AgAs85wUo67OqZxBWX8/X",
   "tracks": [
+    {
+      "added_at": "2026-01-23 05:01:13",
+      "album": {
+        "name": "Cowboy Crazy",
+        "url": "https://open.spotify.com/album/6iCqqjiTUNmEo2Lgj2OEs1"
+      },
+      "artists": [
+        {
+          "name": "Kalsey Kulyk",
+          "url": "https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu"
+        }
+      ],
+      "duration_ms": 183813,
+      "name": "Cowboy Crazy",
+      "url": "https://open.spotify.com/track/2QJtrLjUVj2u08DElIBr3r"
+    },
+    {
+      "added_at": "2026-01-23 05:01:13",
+      "album": {
+        "name": "Thought About You",
+        "url": "https://open.spotify.com/album/4yk2w4x41gsrJC1b0jmJB4"
+      },
+      "artists": [
+        {
+          "name": "Nate Haller",
+          "url": "https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr"
+        }
+      ],
+      "duration_ms": 204922,
+      "name": "Thought About You",
+      "url": "https://open.spotify.com/track/2qYDfRv9ESW4mw4XNwQDiD"
+    },
+    {
+      "added_at": "2026-01-23 05:01:13",
+      "album": {
+        "name": "Paradise & Hurricanes",
+        "url": "https://open.spotify.com/album/4lQm9HsGgLRuqNHiZavkj8"
+      },
+      "artists": [
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        }
+      ],
+      "duration_ms": 180102,
+      "name": "Paradise & Hurricanes",
+      "url": "https://open.spotify.com/track/3Ke1H3yXStzd29Mz0xK5vM"
+    },
+    {
+      "added_at": "2026-01-23 05:01:13",
+      "album": {
+        "name": "When We Die",
+        "url": "https://open.spotify.com/album/27VT8vDUyhEyl7WuOIsqQm"
+      },
+      "artists": [
+        {
+          "name": "Dawson Gray",
+          "url": "https://open.spotify.com/artist/5ZvAlu11UW8s9EpUDlE5DA"
+        }
+      ],
+      "duration_ms": 189102,
+      "name": "When We Die",
+      "url": "https://open.spotify.com/track/56NwNT9HF8iUCbFAUMe8T2"
+    },
     {
       "added_at": "2026-01-16 05:01:18",
       "album": {
@@ -57,6 +121,22 @@
       "url": "https://open.spotify.com/track/5hEsOCXxKpxn5n96Hzs4oV"
     },
     {
+      "added_at": "2026-01-23 05:01:13",
+      "album": {
+        "name": "Quittin' you",
+        "url": "https://open.spotify.com/album/1j7XDKAWGtUlToULDkcFbL"
+      },
+      "artists": [
+        {
+          "name": "Flaysher",
+          "url": "https://open.spotify.com/artist/5k9kGNpX4gbXMBZmlwd1ST"
+        }
+      ],
+      "duration_ms": 207547,
+      "name": "Quittin' you",
+      "url": "https://open.spotify.com/track/4EkMstq9AYcjX6GCScaSBB"
+    },
+    {
       "added_at": "2026-01-09 05:01:23",
       "album": {
         "name": "Golden Child (The Final Chapter)",
@@ -89,6 +169,38 @@
       "url": "https://open.spotify.com/track/2fGiIwttSIJ9KFee1r3Fw2"
     },
     {
+      "added_at": "2026-01-23 05:01:13",
+      "album": {
+        "name": "Half Hearted",
+        "url": "https://open.spotify.com/album/5xiYfE43Czli5iC0QVF6eU"
+      },
+      "artists": [
+        {
+          "name": "Angelica Appelman",
+          "url": "https://open.spotify.com/artist/5MP0qg1tME82lHjl75bmfM"
+        }
+      ],
+      "duration_ms": 181273,
+      "name": "Half Hearted",
+      "url": "https://open.spotify.com/track/7sZkWXjTJYjzeZj9DVLmOV"
+    },
+    {
+      "added_at": "2026-01-23 05:01:13",
+      "album": {
+        "name": "Almost Alright",
+        "url": "https://open.spotify.com/album/2ivi9hRX6TJsZeZveVYlqF"
+      },
+      "artists": [
+        {
+          "name": "Spencer Burns",
+          "url": "https://open.spotify.com/artist/4NmjSQ0m4Z3vtiz08n2o08"
+        }
+      ],
+      "duration_ms": 189583,
+      "name": "Almost Alright",
+      "url": "https://open.spotify.com/track/4AtuIdWryzF1oo9ycRbJ8S"
+    },
+    {
       "added_at": "2026-01-09 05:01:23",
       "album": {
         "name": "Hometown Heroes (feat. Dean Brody)",
@@ -107,6 +219,22 @@
       "duration_ms": 223538,
       "name": "Hometown Heroes (feat. Dean Brody)",
       "url": "https://open.spotify.com/track/6p7rRIvBUDsWkJoJpTYMIo"
+    },
+    {
+      "added_at": "2026-01-23 05:01:13",
+      "album": {
+        "name": "414 EAST IRIS DRIVE",
+        "url": "https://open.spotify.com/album/2WGc61bCvGjZKCkOEa0Pz7"
+      },
+      "artists": [
+        {
+          "name": "Clement Jacques",
+          "url": "https://open.spotify.com/artist/14nCwwni6uqZyDrhqRmwSM"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "END OF THE LINE",
+      "url": "https://open.spotify.com/track/33u5l8opT7NXk0y62piOEv"
     },
     {
       "added_at": "2026-01-16 05:01:18",
@@ -139,6 +267,22 @@
       "duration_ms": 193501,
       "name": "Strangers Don't",
       "url": "https://open.spotify.com/track/5ifMD7ZWXHBkB27IDIU3ML"
+    },
+    {
+      "added_at": "2026-01-23 05:01:13",
+      "album": {
+        "name": "If I\u2019m Being Honest",
+        "url": "https://open.spotify.com/album/5L5oi3u8tufpJI0quqzauR"
+      },
+      "artists": [
+        {
+          "name": "Dylan Burk",
+          "url": "https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "If I\u2019m Being Honest",
+      "url": "https://open.spotify.com/track/2ETyJpJZg64ap9pdg8UiKM"
     },
     {
       "added_at": "2026-01-16 05:01:18",
@@ -477,22 +621,6 @@
       "url": "https://open.spotify.com/track/0otT7ehFIPb3GgqrMieC74"
     },
     {
-      "added_at": "2025-11-14 12:09:53",
-      "album": {
-        "name": "Phone Call From Home",
-        "url": "https://open.spotify.com/album/2SwS87Y78RE0nNbZk1FFmi"
-      },
-      "artists": [
-        {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
-        }
-      ],
-      "duration_ms": 187119,
-      "name": "Phone Call From Home",
-      "url": "https://open.spotify.com/track/5kCcDjNlnxtW4ifsds3Fyf"
-    },
-    {
       "added_at": "2025-11-28 05:01:04",
       "album": {
         "name": "County Line Five",
@@ -507,6 +635,22 @@
       "duration_ms": 218624,
       "name": "Back 40 Bible Verse",
       "url": "https://open.spotify.com/track/3zrMYDjtOWEDrku50OCE5g"
+    },
+    {
+      "added_at": "2025-10-06 15:31:33",
+      "album": {
+        "name": "Later Tonight",
+        "url": "https://open.spotify.com/album/7hAMjXvMKlllp6f3WZatdD"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 210184,
+      "name": "Scared Of Getting Sober",
+      "url": "https://open.spotify.com/track/0OnvtIScF6dnQh4jFW6thI"
     },
     {
       "added_at": "2025-12-19 01:33:03",
@@ -705,22 +849,6 @@
       "url": "https://open.spotify.com/track/0W11nQLhkb6gfn1r19A4kl"
     },
     {
-      "added_at": "2025-11-21 05:02:28",
-      "album": {
-        "name": "\u00c0 contre-sens",
-        "url": "https://open.spotify.com/album/18LzSBOTLhQyfNe0w2gJ6a"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9a Jarry",
-          "url": "https://open.spotify.com/artist/4J8nCSHWHbf4a5YUkRy9Da"
-        }
-      ],
-      "duration_ms": 204053,
-      "name": "\u00c0 contre-sens",
-      "url": "https://open.spotify.com/track/4HCqSBVpd83ZcekvjuMbVc"
-    },
-    {
       "added_at": "2025-10-06 15:31:33",
       "album": {
         "name": "Nobody Roads",
@@ -837,22 +965,6 @@
       "url": "https://open.spotify.com/track/6cAgAl351adI4ETmE4pfnX"
     },
     {
-      "added_at": "2025-11-21 05:02:28",
-      "album": {
-        "name": "Gravel and Smoke (Deluxe)",
-        "url": "https://open.spotify.com/album/6vPJcjBUUXKCVyJeYvQUXc"
-      },
-      "artists": [
-        {
-          "name": "Simon Clow",
-          "url": "https://open.spotify.com/artist/2qWCG73PvVZplcisuG8pup"
-        }
-      ],
-      "duration_ms": 185300,
-      "name": "There's This Girl",
-      "url": "https://open.spotify.com/track/0EtYJph9KE2glbGhHGwrkY"
-    },
-    {
       "added_at": "2025-11-14 12:09:53",
       "album": {
         "name": "Love Can Build A Bridge",
@@ -889,22 +1001,6 @@
       "url": "https://open.spotify.com/track/4BGm2UJViWmh0cJ7P3XPjf"
     },
     {
-      "added_at": "2025-10-24 04:25:20",
-      "album": {
-        "name": "Along for the Ride",
-        "url": "https://open.spotify.com/album/2mo0bKqYpbcofn8lRaFx7U"
-      },
-      "artists": [
-        {
-          "name": "High Valley",
-          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
-        }
-      ],
-      "duration_ms": 180188,
-      "name": "Along for the Ride",
-      "url": "https://open.spotify.com/track/1J8iR4bAww6TtmRmzqe9Si"
-    },
-    {
       "added_at": "2025-11-21 05:02:28",
       "album": {
         "name": "Le pied cass\u00e9",
@@ -939,6 +1035,22 @@
       "duration_ms": 179706,
       "name": "One Good Life",
       "url": "https://open.spotify.com/track/29CCh6aLhAgPRN4TWpRBXB"
+    },
+    {
+      "added_at": "2025-10-06 15:31:33",
+      "album": {
+        "name": "Good Run",
+        "url": "https://open.spotify.com/album/02qxb3gX5mrdM9nTptXqTB"
+      },
+      "artists": [
+        {
+          "name": "Tyler Joe Miller",
+          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
+        }
+      ],
+      "duration_ms": 216477,
+      "name": "Good Run",
+      "url": "https://open.spotify.com/track/4iwY4G8PmGnqL228wcT1o2"
     },
     {
       "added_at": "2025-11-14 12:09:53",
@@ -1005,22 +1117,6 @@
       "url": "https://open.spotify.com/track/4GdfLxFLb7NhaIrFopsUPP"
     },
     {
-      "added_at": "2025-11-07 00:01:45",
-      "album": {
-        "name": "Horse Soldier! Horse Soldier! (Dark Horse Edition)",
-        "url": "https://open.spotify.com/album/6wr4NvzNS05jqbx2WEgkl2"
-      },
-      "artists": [
-        {
-          "name": "Corb Lund",
-          "url": "https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og"
-        }
-      ],
-      "duration_ms": 174967,
-      "name": "Especially a Paint - Dark Horse Acoustic",
-      "url": "https://open.spotify.com/track/6ZuKLsikgjxC0YHon3tnA1"
-    },
-    {
       "added_at": "2025-10-24 04:25:20",
       "album": {
         "name": "Ain't That The Truth",
@@ -1073,38 +1169,6 @@
       "url": "https://open.spotify.com/track/3EOlgESZdhj7hSHEwR4r5T"
     },
     {
-      "added_at": "2025-10-10 00:01:13",
-      "album": {
-        "name": "Smokin' Gun",
-        "url": "https://open.spotify.com/album/5rbRTLNHTrjEYrwD2iMDFF"
-      },
-      "artists": [
-        {
-          "name": "Kalsey Kulyk",
-          "url": "https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu"
-        }
-      ],
-      "duration_ms": 179063,
-      "name": "Smokin\u2019 Gun",
-      "url": "https://open.spotify.com/track/2aleKd3JEeQiXUmQDsNMq5"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "I'm Leavin' You",
-        "url": "https://open.spotify.com/album/7lpDPjfOekEcPLJTBwxLKj"
-      },
-      "artists": [
-        {
-          "name": "High Valley",
-          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
-        }
-      ],
-      "duration_ms": 152915,
-      "name": "I'm Leavin' You",
-      "url": "https://open.spotify.com/track/6PUQOqhQVjchu5iqsMTVEX"
-    },
-    {
       "added_at": "2025-10-06 15:31:33",
       "album": {
         "name": "Somebody To Love",
@@ -1119,22 +1183,6 @@
       "duration_ms": 187582,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/5pMqKMKf7v6XZYG8yNTDTQ"
-    },
-    {
-      "added_at": "2025-10-24 04:25:20",
-      "album": {
-        "name": "Coming Down",
-        "url": "https://open.spotify.com/album/2REijdkq1i4YLiHR7mGB3S"
-      },
-      "artists": [
-        {
-          "name": "Matt Martin",
-          "url": "https://open.spotify.com/artist/3jnpV9RgncJAh7DIPj0bc4"
-        }
-      ],
-      "duration_ms": 176142,
-      "name": "Coming Down",
-      "url": "https://open.spotify.com/track/5BhUZKTqVDQWEZS4d62zeJ"
     },
     {
       "added_at": "2025-10-24 04:25:20",
@@ -1183,22 +1231,6 @@
       "duration_ms": 177765,
       "name": "Can't Stop",
       "url": "https://open.spotify.com/track/3F1EEBu0M2ISq8ArfuRV5X"
-    },
-    {
-      "added_at": "2025-10-24 04:25:20",
-      "album": {
-        "name": "King of the Bar",
-        "url": "https://open.spotify.com/album/6w8OXXetC7EoE2sQMEOU8h"
-      },
-      "artists": [
-        {
-          "name": "Jay Kutcher",
-          "url": "https://open.spotify.com/artist/2XpYj9WxwqofycQ8j80siz"
-        }
-      ],
-      "duration_ms": 235693,
-      "name": "King of the Bar",
-      "url": "https://open.spotify.com/track/3YPDDkeiN7m1goTrCpXxjD"
     },
     {
       "added_at": "2025-10-24 04:25:20",
@@ -1327,22 +1359,6 @@
       "duration_ms": 165017,
       "name": "Walk Away Wishing",
       "url": "https://open.spotify.com/track/6qy7R1oYughuKogqTbIytH"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Later Tonight",
-        "url": "https://open.spotify.com/album/7hAMjXvMKlllp6f3WZatdD"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 210184,
-      "name": "Scared Of Getting Sober",
-      "url": "https://open.spotify.com/track/0OnvtIScF6dnQh4jFW6thI"
     },
     {
       "added_at": "2025-10-18 21:43:18",
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2025-10-06 15:31:33",
       "album": {
-        "name": "Sorry For Nothing Vol. 2",
-        "url": "https://open.spotify.com/album/34yzUHeor8OGQIX9rJH2y0"
-      },
-      "artists": [
-        {
-          "name": "Cory Marks",
-          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
-        }
-      ],
-      "duration_ms": 192820,
-      "name": "Whiskey River",
-      "url": "https://open.spotify.com/track/3iwSRiNL201q6TMaFoKc4C"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
         "name": "Sweetheart",
         "url": "https://open.spotify.com/album/1zTSjTGULbtRDD3CegA3fO"
       },
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2025-10-06 15:31:33",
       "album": {
-        "name": "Chevy Back",
-        "url": "https://open.spotify.com/album/7BGKRLNzeuSKpmMqe5K07G"
-      },
-      "artists": [
-        {
-          "name": "Dawson Gray",
-          "url": "https://open.spotify.com/artist/5ZvAlu11UW8s9EpUDlE5DA"
-        }
-      ],
-      "duration_ms": 194577,
-      "name": "Heartstrings",
-      "url": "https://open.spotify.com/track/66Cpzj9S9v81c83kTh2HHe"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
         "name": "I Believe In You",
         "url": "https://open.spotify.com/album/1SevZzrPL8CFIi6lwSlyfH"
       },
@@ -1563,22 +1547,6 @@
       "duration_ms": 165797,
       "name": "I Believe In You",
       "url": "https://open.spotify.com/track/17X7LnnLPlLYcqkUzxozjp"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/2MwGk2VLvM8u6fcmtDi1dm"
-      },
-      "artists": [
-        {
-          "name": "Brayden King",
-          "url": "https://open.spotify.com/artist/0fCguqEo1gADoSkTGI47qJ"
-        }
-      ],
-      "duration_ms": 206684,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/1Ykta2tKZCE7crfIZ85IBi"
     },
     {
       "added_at": "2025-10-06 15:31:33",
@@ -1599,54 +1567,6 @@
     {
       "added_at": "2025-10-06 15:31:33",
       "album": {
-        "name": "Somethin' Bout a Honky Tonk",
-        "url": "https://open.spotify.com/album/4AGrwp5MNA4Kkb6D2VSdHL"
-      },
-      "artists": [
-        {
-          "name": "Matt Lang",
-          "url": "https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW"
-        }
-      ],
-      "duration_ms": 192309,
-      "name": "Somethin' Bout a Honky Tonk",
-      "url": "https://open.spotify.com/track/2dmSdje8j9IL1wnGJ8J2sm"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "The Hard Way",
-        "url": "https://open.spotify.com/album/52Xjyzwd2vW3fshL00SYU0"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 162962,
-      "name": "The Hard Way",
-      "url": "https://open.spotify.com/track/6guJdCiBdsLLo3fgAG8Utf"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/16BE6elk9f9qWFtFpgt6qE"
-      },
-      "artists": [
-        {
-          "name": "Olivia Mae Graham",
-          "url": "https://open.spotify.com/artist/0aYagTq2r8P9Z8KR8sby2H"
-        }
-      ],
-      "duration_ms": 198878,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/4vYtvEe6R8PBJ7XQobWZ7N"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
         "name": "The Best Part",
         "url": "https://open.spotify.com/album/4IKnozw2kZLb32kXzt3swd"
       },
@@ -1659,38 +1579,6 @@
       "duration_ms": 157815,
       "name": "The Best Part",
       "url": "https://open.spotify.com/track/3rn5fiAIMgVQSkBD7iQTPv"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Good Run",
-        "url": "https://open.spotify.com/album/02qxb3gX5mrdM9nTptXqTB"
-      },
-      "artists": [
-        {
-          "name": "Tyler Joe Miller",
-          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
-        }
-      ],
-      "duration_ms": 216477,
-      "name": "Good Run",
-      "url": "https://open.spotify.com/track/4iwY4G8PmGnqL228wcT1o2"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "I Hope You Know",
-        "url": "https://open.spotify.com/album/1B5RVCMui6kAgP4N2OVpvG"
-      },
-      "artists": [
-        {
-          "name": "Jason Benoit",
-          "url": "https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w"
-        }
-      ],
-      "duration_ms": 201417,
-      "name": "I Hope You Know",
-      "url": "https://open.spotify.com/track/1DKXdNUjeZoIO59jwunAz3"
     },
     {
       "added_at": "2025-10-06 15:31:33",
@@ -1763,54 +1651,6 @@
     {
       "added_at": "2025-10-06 15:31:33",
       "album": {
-        "name": "When It's Time To Go",
-        "url": "https://open.spotify.com/album/5VlTqDwubs3t00Qk8cCSU9"
-      },
-      "artists": [
-        {
-          "name": "Dawson Gray",
-          "url": "https://open.spotify.com/artist/5ZvAlu11UW8s9EpUDlE5DA"
-        }
-      ],
-      "duration_ms": 177123,
-      "name": "When It's Time To Go",
-      "url": "https://open.spotify.com/track/1q7nRL9I1IBNSISTb2XzBC"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Country Thing",
-        "url": "https://open.spotify.com/album/0SojraGm8ZWfu3Y0NIurHC"
-      },
-      "artists": [
-        {
-          "name": "Son of John",
-          "url": "https://open.spotify.com/artist/6Ig2z8IiCbjXla7YzmZM4u"
-        }
-      ],
-      "duration_ms": 239941,
-      "name": "Country Thing",
-      "url": "https://open.spotify.com/track/7lSeEV7DSG5OmwsaRIikW7"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "He's Mine",
-        "url": "https://open.spotify.com/album/6G6GMdTiHbvd9AkemiYcod"
-      },
-      "artists": [
-        {
-          "name": "Sykamore",
-          "url": "https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI"
-        }
-      ],
-      "duration_ms": 228951,
-      "name": "He's Mine",
-      "url": "https://open.spotify.com/track/60LKaC9TqYaiIuTkxcaCMy"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
         "name": "West End Queen (Abattoir)",
         "url": "https://open.spotify.com/album/0UB1d5HW9rHaSpRgOhgESp"
       },
@@ -1823,22 +1663,6 @@
       "duration_ms": 225167,
       "name": "West End Queen (Abattoir)",
       "url": "https://open.spotify.com/track/43qaKoJUlS5six29E1Rh0w"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Later Tonight",
-        "url": "https://open.spotify.com/album/05TVIc1IFYdlBur7QIqMBx"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 162333,
-      "name": "Later Tonight",
-      "url": "https://open.spotify.com/track/0y1ck7CTQGlC2pLz8GM0S7"
     }
   ],
   "unique_name": "North Country",

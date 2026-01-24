@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Nina del Río
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,736 likes - 51 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,867 likes - 51 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 50 | [love for you](https://open.spotify.com/track/6NQmEaZ9vzmVdVdSMKDsDM) | [feel trip.](https://open.spotify.com/artist/7ysdcHcrr06qQJ1BL0dKVU) | [love for you](https://open.spotify.com/album/1nX8AIkHbUl8Am6uuudrpI) | 2:12 |
 | 51 | [Quieres Autodestruirte Conmigo?](https://open.spotify.com/track/0ImJfk8NU4a1aMvclUyJT0) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [INFANCIA MAL CALIBRADA](https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1) | 3:07 |
 
-Snapshot ID: `AAAAABgq2Pbl+G7/4Tjg2RsH/pPHIXqu`
+Snapshot ID: `AAAAADfBtio0EzisOOnMKVdXoVkUi/LI`

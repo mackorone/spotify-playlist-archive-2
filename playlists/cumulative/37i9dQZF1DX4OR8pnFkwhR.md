@@ -2,7 +2,7 @@
 
 ### [RADAR: Early Noise ](https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR)
 
-> Spotifyが2026年に躍進を期待する次世代アーティスト 「RADAR: Early Noise 2026」を発表! Cover: luv
+> Spotifyが2026年に躍進を期待する次世代アーティスト 「RADAR: Early Noise 2026」を発表! Cover: Litty
 
 2,150 songs - 5 day 11 hr 26 min
 

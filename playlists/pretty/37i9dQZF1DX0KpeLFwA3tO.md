@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: DZ Deathrays
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,983 likes - 125 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,096 likes - 125 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [Leave It All Behind](https://open.spotify.com/track/4nCMPPLvobSXhrlPedYcAt) | [Gvllow](https://open.spotify.com/artist/69a2ovTpqzQrzthSkARvGn) | [Leave It All Behind](https://open.spotify.com/album/4K31O9I63wLdkV3ZupIG0g) | 2:52 |
 | 125 | [Freaking Me Out](https://open.spotify.com/track/4C2DglvFgGgEHbl7Xwnyna) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Freaking Me Out](https://open.spotify.com/album/2CKbb8JLrdClt63710DGrE) | 2:46 |
 
-Snapshot ID: `AAAAAEYbtuwPBJSwpJ86EmU80FYpwuux`
+Snapshot ID: `AAAAAKoe+NbznXJQoBoP9XYtWC/7vX70`

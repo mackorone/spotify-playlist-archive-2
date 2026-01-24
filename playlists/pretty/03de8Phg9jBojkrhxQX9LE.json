@@ -1,13 +1,677 @@
 {
   "description": "New music picks every Friday from your friends at Brownies &amp; Lemonade",
-  "num_followers": 21793,
+  "num_followers": 21797,
   "original_name": "B&L Fresh Batch Friday",
   "owner": {
     "name": "Brownies & Lemonade",
     "url": "https://open.spotify.com/user/browniesandlemonade"
   },
-  "snapshot_id": "AAAKE1YOOfDXhcHtxLkgCCTxGV2KVvLH",
+  "snapshot_id": "AAAKFImZsM/3F8bOirKpJIWc0dje/g+e",
   "tracks": [
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "Are We Dreaming?",
+        "url": "https://open.spotify.com/album/5SLXmClA3IiEXxT9Nykfaq"
+      },
+      "artists": [
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        },
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/753rbQGinx1824G2x3k5HM"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "scared",
+      "url": "https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "Concept Of Grime",
+        "url": "https://open.spotify.com/album/7p1Udiqr6FXebJLlWbowfx"
+      },
+      "artists": [
+        {
+          "name": "Starjunk 95",
+          "url": "https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx"
+        }
+      ],
+      "duration_ms": 245647,
+      "name": "Concept Of Grime",
+      "url": "https://open.spotify.com/track/4Ez0uBYDWXeDWc12LY0sqH"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "starlight feat. Madeline Follin",
+        "url": "https://open.spotify.com/album/1LNQmhGkCcRPaIPztgxpa1"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "wes mills",
+          "url": "https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT"
+        },
+        {
+          "name": "Madeline Follin",
+          "url": "https://open.spotify.com/artist/112e5Jq3aZIrvBPAr0rHvD"
+        }
+      ],
+      "duration_ms": 186052,
+      "name": "starlight feat. Madeline Follin",
+      "url": "https://open.spotify.com/track/4b5lTNgZ56zfdj1CqteLpu"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "Hymns Of Resilience",
+        "url": "https://open.spotify.com/album/4vpm5D4OuNa4hA6OHFmzGm"
+      },
+      "artists": [
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        },
+        {
+          "name": "Alina Pash",
+          "url": "https://open.spotify.com/artist/2rC7t19zOtFIcJvmi6lH1i"
+        }
+      ],
+      "duration_ms": 148255,
+      "name": "Kyiv",
+      "url": "https://open.spotify.com/track/6dcaj97E04kU4tME2gWj0Z"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "Death of Love",
+        "url": "https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 206028,
+      "name": "Death of Love",
+      "url": "https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/46ll2ZERjJ5Jl40uLauUsk"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+        }
+      ],
+      "duration_ms": 169098,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/4P5CWKmgT5kYZ3GRSm7Cb4"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "Only Human (MPH Remix)",
+        "url": "https://open.spotify.com/album/3NxHT2iJHRMYenPLvmjYRA"
+      },
+      "artists": [
+        {
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Only Human - MPH Remix",
+      "url": "https://open.spotify.com/track/6s0XiiD5NE5MetCoOVY0yM"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "Zouki",
+        "url": "https://open.spotify.com/album/3riFmoDuxNNUwMa4pZtIdS"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "duration_ms": 158378,
+      "name": "Zouki",
+      "url": "https://open.spotify.com/track/4fi51l6vEHfAbq0vieFpMF"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "Fall Apart",
+        "url": "https://open.spotify.com/album/7E0xnIHATdZ8HHkNMkiHJt"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Fall Apart",
+      "url": "https://open.spotify.com/track/5FaSEefua3HfVIufoCPDyo"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "GET LOUD",
+        "url": "https://open.spotify.com/album/2BmDEQOhlmva9bMBdvd1ps"
+      },
+      "artists": [
+        {
+          "name": "No Signal",
+          "url": "https://open.spotify.com/artist/1aJGcBWhdgt1b8sEZ1Hupk"
+        },
+        {
+          "name": "FrostTop",
+          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
+        },
+        {
+          "name": "RemK",
+          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
+        }
+      ],
+      "duration_ms": 189843,
+      "name": "GET LOUD",
+      "url": "https://open.spotify.com/track/3hIanoKRYqpCaOUwl8RIiG"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "pounding techno music",
+        "url": "https://open.spotify.com/album/2PH8yehfm8A4UdgXAdAx0e"
+      },
+      "artists": [
+        {
+          "name": "Mija",
+          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
+        }
+      ],
+      "duration_ms": 153678,
+      "name": "pounding techno music",
+      "url": "https://open.spotify.com/track/2ag0RjAy38WsqMBVYgnH5J"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "For A Minute",
+        "url": "https://open.spotify.com/album/2G2R8laDahmTeuV4Dk2CFH"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "duration_ms": 164968,
+      "name": "For A Minute",
+      "url": "https://open.spotify.com/track/08IvuRiCCTUzIlGHxsDPMW"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "PARTY NEVER STOPS",
+        "url": "https://open.spotify.com/album/6By7ZkDoYPdCb4w508giWs"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "Moon Boots",
+          "url": "https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy"
+        }
+      ],
+      "duration_ms": 292330,
+      "name": "PARTY NEVER STOPS",
+      "url": "https://open.spotify.com/track/5aFi8YUPnBS7Z32QtbnIbE"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "Overflow",
+        "url": "https://open.spotify.com/album/2cIfqcaxuhtILnLQc6uXRD"
+      },
+      "artists": [
+        {
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+        }
+      ],
+      "duration_ms": 227586,
+      "name": "Overflow",
+      "url": "https://open.spotify.com/track/0BWgJJ02iBF3V0Fz2QAof5"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "Lavender Town",
+        "url": "https://open.spotify.com/album/7u5OjlQCGB943E2WPF5Lws"
+      },
+      "artists": [
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        }
+      ],
+      "duration_ms": 173538,
+      "name": "Lavender Town",
+      "url": "https://open.spotify.com/track/47e1s0cxP19dr4l3dOAcqv"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "What?",
+        "url": "https://open.spotify.com/album/2GUaxUbNC01TmfkOt7xaju"
+      },
+      "artists": [
+        {
+          "name": "Neumonic",
+          "url": "https://open.spotify.com/artist/2vmS0sFSxIZccEf510Xb52"
+        },
+        {
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        }
+      ],
+      "duration_ms": 179138,
+      "name": "What?",
+      "url": "https://open.spotify.com/track/16z23DF8JEpNPoRnq74GSw"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "HOT WIFE",
+        "url": "https://open.spotify.com/album/1IUFXmC2AcLCHYZGT0iIVD"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 190945,
+      "name": "HOT WIFE",
+      "url": "https://open.spotify.com/track/7Ehjne6Dao0AXr5D6GaHSa"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "Cry For You (AVELLO Remix)",
+        "url": "https://open.spotify.com/album/4HnkCaVVSYen02sTUndKq8"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Cry For You - AVELLO Remix",
+      "url": "https://open.spotify.com/track/1yMRtDl3Di4bqRJMH6f1t2"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "Take A Step Back",
+        "url": "https://open.spotify.com/album/1kjf9ZpkgUR4MT6zNEppSC"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Take A Step Back",
+      "url": "https://open.spotify.com/track/3MDgnjyoPGEFYBxpM6v1ay"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "Long Legs",
+        "url": "https://open.spotify.com/album/2UCNb8fZiytlkaHFUvYuY5"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Long Legs",
+      "url": "https://open.spotify.com/track/3Zt9EqFeTyv4bw7UZimKM1"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "Kung Fu",
+        "url": "https://open.spotify.com/album/0V5pPSVBLoIhgQyDmANO8G"
+      },
+      "artists": [
+        {
+          "name": "Bandit",
+          "url": "https://open.spotify.com/artist/1y7ci37aBPIf3nrA2BuLKs"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        }
+      ],
+      "duration_ms": 186514,
+      "name": "Kung Fu",
+      "url": "https://open.spotify.com/track/4PmGrMmJL7BG0ou0EVZHwY"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "Lacrimosa",
+        "url": "https://open.spotify.com/album/73Q9358n3s2nVx11CjYJoo"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        },
+        {
+          "name": "Salvo",
+          "url": "https://open.spotify.com/artist/38u5tDrWqAZsGySZL5OB3b"
+        }
+      ],
+      "duration_ms": 185777,
+      "name": "Lacrimosa",
+      "url": "https://open.spotify.com/track/0WVNzyz6kXhvQlkd5PpMMs"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "Do It (Yves Remix)",
+        "url": "https://open.spotify.com/album/0GuK2xpYuOvNbFqhRuSRa3"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        },
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        }
+      ],
+      "duration_ms": 197298,
+      "name": "Do It (Yves Remix)",
+      "url": "https://open.spotify.com/track/27v8QdBidbC5idqWHqPBBj"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "CRASHING",
+        "url": "https://open.spotify.com/album/60wizbZkEHTMzF3AaZHkre"
+      },
+      "artists": [
+        {
+          "name": "Lost Kings",
+          "url": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
+        }
+      ],
+      "duration_ms": 184517,
+      "name": "CRASHING",
+      "url": "https://open.spotify.com/track/4cc2fCjfxpp5VTwH40DCej"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "Closer To Your Love",
+        "url": "https://open.spotify.com/album/1s1yA465RKCkfXq7DY7YCR"
+      },
+      "artists": [
+        {
+          "name": "how2fly",
+          "url": "https://open.spotify.com/artist/6pFQJsHFGonpyeIbXOYwkE"
+        },
+        {
+          "name": "DJ Planet Express",
+          "url": "https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg"
+        }
+      ],
+      "duration_ms": 208551,
+      "name": "Closer To Your Love",
+      "url": "https://open.spotify.com/track/65dVFZvFwpHcUbUTfGpqRX"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "Incredible Dub",
+        "url": "https://open.spotify.com/album/6PVjKC4RwrSK6fuTIy2X6R"
+      },
+      "artists": [
+        {
+          "name": "IsGwan",
+          "url": "https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz"
+        },
+        {
+          "name": "M-Beat",
+          "url": "https://open.spotify.com/artist/2KDNAkR001T3BGyYYTOSN4"
+        },
+        {
+          "name": "General Levy",
+          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Incredible Dub",
+      "url": "https://open.spotify.com/track/1BdKECW4nCqwS4hDRt7Yq5"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/0PZ7Y5FGFY3j6bMkFJm6ub"
+      },
+      "artists": [
+        {
+          "name": "scruz",
+          "url": "https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        }
+      ],
+      "duration_ms": 253842,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/2eltpVluPhTkJUyfjIm9JW"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "Overgrown",
+        "url": "https://open.spotify.com/album/7t97wmerWcuI34RUx4V6Vh"
+      },
+      "artists": [
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        },
+        {
+          "name": "LeyeT",
+          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
+        }
+      ],
+      "duration_ms": 168260,
+      "name": "Overgrown",
+      "url": "https://open.spotify.com/track/19lxaXCdkC7e3jo6cgOAHf"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "Last Breath",
+        "url": "https://open.spotify.com/album/7qLyuZHI5ZrzRnSXIq79R6"
+      },
+      "artists": [
+        {
+          "name": "Abelation",
+          "url": "https://open.spotify.com/artist/3ezpQc6XHKaha2SmkFsEfR"
+        }
+      ],
+      "duration_ms": 178120,
+      "name": "Last Breath",
+      "url": "https://open.spotify.com/track/2HVaeuA8sWRsSYnfHbQN4S"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "GO GO GO",
+        "url": "https://open.spotify.com/album/3Hc7jNzHjNI3YbyLXfx3Jm"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "WIN WIN",
+          "url": "https://open.spotify.com/artist/7iBrlNg54cJghrZBVrq3Yt"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "GO GO GO",
+      "url": "https://open.spotify.com/track/7IoMy7XoHP5w2TR9xUi8Ts"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "CONTACT",
+        "url": "https://open.spotify.com/album/3SPBXfkSOjTqCqCJswA5BH"
+      },
+      "artists": [
+        {
+          "name": "Odd Language",
+          "url": "https://open.spotify.com/artist/6jo39RCQ903pfIWvev74XB"
+        }
+      ],
+      "duration_ms": 183724,
+      "name": "CONTACT",
+      "url": "https://open.spotify.com/track/0qnkt7iy7onBjcyoKJcOpj"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "Night Lurker (Snuffy, jordnmoody Remix)",
+        "url": "https://open.spotify.com/album/3Sof58rUOut1jWwsrGH4nN"
+      },
+      "artists": [
+        {
+          "name": "C\u00d8NTRA",
+          "url": "https://open.spotify.com/artist/2HhHusDoCRr9pgb30XX7q2"
+        },
+        {
+          "name": "Chef Boyarbeatz",
+          "url": "https://open.spotify.com/artist/7nSk3iFPogRCOokrMliejt"
+        },
+        {
+          "name": "snuffy",
+          "url": "https://open.spotify.com/artist/08yNyQvMaC3dLtOthzhPaZ"
+        },
+        {
+          "name": "jordnmoody",
+          "url": "https://open.spotify.com/artist/5WUJ0HwckdD0XHPz9EQ2XU"
+        }
+      ],
+      "duration_ms": 230142,
+      "name": "Night Lurker - Snuffy, jordnmoody Remix",
+      "url": "https://open.spotify.com/track/2wSGRbEi0rQpOGpGACp48y"
+    },
+    {
+      "added_at": "2026-01-23 19:34:31",
+      "album": {
+        "name": "GO DEEP",
+        "url": "https://open.spotify.com/album/4mutorvAPjfuLLhZM993U8"
+      },
+      "artists": [
+        {
+          "name": "TWONSKi",
+          "url": "https://open.spotify.com/artist/0wpHC77nsV39LreyyX5TK3"
+        }
+      ],
+      "duration_ms": 206892,
+      "name": "GO DEEP",
+      "url": "https://open.spotify.com/track/0aFftsysb7LSeLVdwpvtQC"
+    },
     {
       "added_at": "2026-01-16 19:22:50",
       "album": {

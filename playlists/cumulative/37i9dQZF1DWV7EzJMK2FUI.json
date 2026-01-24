@@ -6404,7 +6404,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 202716,
       "name": "Dusk's Embrace",
       "url": "https://open.spotify.com/track/5pDIvoW4HwM7ML8cIoiVs4"
@@ -8550,7 +8550,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 228495,
       "name": "Framework",
       "url": "https://open.spotify.com/track/5WWiS91zawKEjuwuEEvi8J"
@@ -15769,6 +15769,24 @@
     },
     {
       "album": {
+        "name": "Midnight Heart",
+        "url": "https://open.spotify.com/album/248i51w5yoT5u3WVfGivpH"
+      },
+      "artists": [
+        {
+          "name": "Midnight Window Trio",
+          "url": "https://open.spotify.com/artist/5c4URlpWr8dcszzPFYC8Ut"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241021,
+      "name": "Midnight Heart",
+      "url": "https://open.spotify.com/track/679NUq0MpMs6fWv6qOd3sJ"
+    },
+    {
+      "album": {
         "name": "Midnight Kiss",
         "url": "https://open.spotify.com/album/7qIZh1SsBiFq5djjkz2aFo"
       },
@@ -19018,7 +19036,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 186404,
       "name": "Pastiche Oblieux",
       "url": "https://open.spotify.com/track/2no0uhFwxxlPX5twZEvRLM"
@@ -20250,6 +20268,24 @@
       "duration_ms": 175744,
       "name": "Romancing",
       "url": "https://open.spotify.com/track/5GuytCR8JGCn90ReWuhYvL"
+    },
+    {
+      "album": {
+        "name": "Roots and rain",
+        "url": "https://open.spotify.com/album/1cWf2tFjWff08ALezFyOuz"
+      },
+      "artists": [
+        {
+          "name": "David Parks & Silver",
+          "url": "https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146147,
+      "name": "Roots and rain",
+      "url": "https://open.spotify.com/track/2OMgOqk23WVn08laCq0FXL"
     },
     {
       "album": {
@@ -22809,6 +22845,24 @@
     },
     {
       "album": {
+        "name": "Still in motion",
+        "url": "https://open.spotify.com/album/46di7AoSF1MkaXhYp8P8g9"
+      },
+      "artists": [
+        {
+          "name": "Les trois copines",
+          "url": "https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167945,
+      "name": "Still in motion",
+      "url": "https://open.spotify.com/track/4ixvjdNuDsqLezXhbaCee5"
+    },
+    {
+      "album": {
         "name": "Still Life",
         "url": "https://open.spotify.com/album/0pWn90Gk2Qj8baJa12Rm8w"
       },
@@ -22860,6 +22914,24 @@
       "duration_ms": 255896,
       "name": "Stillness is a Gift",
       "url": "https://open.spotify.com/track/4cPz5Fm127FenLUfTJ6G2l"
+    },
+    {
+      "album": {
+        "name": "Stockholm",
+        "url": "https://open.spotify.com/album/3ankPFGpWsOGWQIN31zAUy"
+      },
+      "artists": [
+        {
+          "name": "Karl-Erik Trio",
+          "url": "https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182819,
+      "name": "Stockholm",
+      "url": "https://open.spotify.com/track/2WFu8hZLZttVGK3oplhx7q"
     },
     {
       "album": {
@@ -25340,7 +25412,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 238538,
       "name": "Things You Should Mention",
       "url": "https://open.spotify.com/track/6YgAO785fxKfWRI7fx6c6S"
@@ -25470,7 +25542,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 213802,
       "name": "This Is New",
       "url": "https://open.spotify.com/track/4okAmoaDQcx09bAIZSQavI"
@@ -27836,6 +27908,24 @@
       "duration_ms": 215015,
       "name": "When Love Is Gone",
       "url": "https://open.spotify.com/track/2Nczjj8yaXkh6Q3w68N2Q6"
+    },
+    {
+      "album": {
+        "name": "When Love Lets You Down",
+        "url": "https://open.spotify.com/album/74MKgaW2OyOk5UXG97qfTX"
+      },
+      "artists": [
+        {
+          "name": "The Southern Belle",
+          "url": "https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176887,
+      "name": "When Love Lets You Down",
+      "url": "https://open.spotify.com/track/4ijzQS5HIgCI7b7pi9mSek"
     },
     {
       "album": {

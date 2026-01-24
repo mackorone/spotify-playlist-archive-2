@@ -4,7 +4,7 @@
 
 > De beste Nederlandse muziek vind je hier! Met o.a\. Kensington \(cover\), Frenna, Noano, Bilal Wahib en meer
 
-122 songs - 5 hr 55 min
+126 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,9 +28,12 @@
 | [Call You Home](https://open.spotify.com/track/6asKWJ9heYSpUUlN77lgnc) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [First Rodeo](https://open.spotify.com/album/0tMYQo9n5L7w1uRknqg7Qj) | 3:43 | 2025-11-28 |  |
 | [Carrousel](https://open.spotify.com/track/2AplEaVcnOr9HrjESXJhz1) | [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv) | [Carrousel](https://open.spotify.com/album/2wuTAaWW0o7bekWpxL4f5J) | 2:46 | 2025-07-04 | 2025-08-22 |
 | [Could Have Been Us](https://open.spotify.com/track/4YnwFg1qB2E6euEB6a9v9q) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD), [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Could Have Been Us](https://open.spotify.com/album/6MBWWDyw0JTFgbP1E14fr8) | 3:16 | 2025-07-04 | 2025-08-22 |
+| [Dansvloer Dilemma](https://open.spotify.com/track/5hm19T0tQzMHTnC3lZA8PC) | [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Dansvloer Dilemma](https://open.spotify.com/album/4NMMzxRCxS2ndNubwAznAF) | 2:08 | 2026-01-23 |  |
+| [Dark Before The Dawn](https://open.spotify.com/track/69WK5gvcO8MFNNgii1lUgH) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Dark Before The Dawn](https://open.spotify.com/album/3XQh5RuEp7voK5NnRWX7Fj) | 3:35 | 2026-01-23 |  |
 | [De Vleugels Van Mijn Vlucht](https://open.spotify.com/track/5ig3mVSdACeAjS6tJvvJFZ) | [Jacqueline Govaert](https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(Jacqueline Govaert\)](https://open.spotify.com/album/2F0CSeLdoFoWQ7dQNhmTfH) | 3:14 | 2025-09-01 |  |
 | [DNA](https://open.spotify.com/track/4YJmG1aLGeRXrrOm3QqHJ0) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb) | [DNA](https://open.spotify.com/album/1k781LjKYC3QydP3Iqi42x) | 3:00 | 2026-01-09 |  |
 | [Do Or Die](https://open.spotify.com/track/2Y63yg1Lgdp96IoiZIvjKz) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Goed Teken](https://open.spotify.com/album/08XCGZJvFATyHBwUzddDyn) | 3:45 | 2025-08-27 |  |
+| [Dokter](https://open.spotify.com/track/25Vcw9JrYrUf9I2jKIQcST) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS) | [Dokter](https://open.spotify.com/album/2KCeJ8YSapF0k9yOtEiw5I) | 2:26 | 2026-01-23 |  |
 | [Don Julio Daddy](https://open.spotify.com/track/29OyY2QfQnTP9KgdAmNviU) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Don Julio Daddy](https://open.spotify.com/album/5vUg7yoxgbQKBNt2FLtKJH) | 2:56 | 2025-08-27 | 2025-11-08 |
 | [Don’t Leave \(Kylie\)](https://open.spotify.com/track/3rZYXD5bAaKOpJvOyEqSJr) | [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK), [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Don’t Leave \(Kylie\)](https://open.spotify.com/album/5pDOrPKuOlkwVwiYWaENFy) | 3:08 | 2025-08-27 |  |
 | [Dopamine](https://open.spotify.com/track/1LVOicaQ0Dv2PtujN6uStI) | [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl) | [Dagdromer](https://open.spotify.com/album/4lpQSBiCrjSLQfxbKshgG7) | 2:54 | 2025-07-04 | 2025-08-22 |
@@ -41,6 +44,7 @@
 | [Firestone](https://open.spotify.com/track/698sDDemmuKfYlRTzE1isu) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Firestone](https://open.spotify.com/album/4TaWdHYdwbHPb7kaHK8zjL) | 3:03 | 2025-11-03 |  |
 | [Fly Like Me](https://open.spotify.com/track/6CtVJEoNheHMtlDaJoXboX) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Fly Like Me](https://open.spotify.com/album/4JNpgGiRlMT6DYwyVjg1Jb) | 3:02 | 2025-07-04 |  |
 | [Ga Dan!](https://open.spotify.com/track/1XRpRDBpJPjjcj406euOpa) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Ga Dan!](https://open.spotify.com/album/0NpjnB7yT91PkdOr1iMmjv) | 2:17 | 2025-07-04 | 2025-08-22 |
+| [Get It Right](https://open.spotify.com/track/4eycOJZ9ofGW7iqm1QEaDJ) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Get It Right](https://open.spotify.com/album/6qHejAKDb0fEkUvAax5nHs) | 2:52 | 2026-01-23 |  |
 | [Gin & Tonic](https://open.spotify.com/track/5CMxgjIIhtzX5PRNe0GQbn) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Gin & Tonic](https://open.spotify.com/album/6gKlEJrRnwvLnJvqEQXY9i) | 2:38 | 2025-07-04 |  |
 | [Hart In Brand](https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Hart In Brand](https://open.spotify.com/album/5Gtvc0bWyrMfYqJwAKup8V) | 2:26 | 2025-07-04 |  |
 | [Have A Little Faith](https://open.spotify.com/track/6i4roOAXcuHWfmFuYFXZti) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Have A Little Faith](https://open.spotify.com/album/4jnLZptF0dYFDX05IOpLpF) | 2:58 | 2025-07-04 |  |

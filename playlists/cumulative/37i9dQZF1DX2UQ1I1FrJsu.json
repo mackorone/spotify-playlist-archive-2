@@ -2017,6 +2017,32 @@
     },
     {
       "album": {
+        "name": "Lead It Up",
+        "url": "https://open.spotify.com/album/63449DHEaCWCuCwgn8A4bB"
+      },
+      "artists": [
+        {
+          "name": "GENA",
+          "url": "https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE"
+        },
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168510,
+      "name": "Lead It Up",
+      "url": "https://open.spotify.com/track/4vcdHDZWVNRCOrEq1LlvsU"
+    },
+    {
+      "album": {
         "name": "The Mirror Conspiracy",
         "url": "https://open.spotify.com/album/2CPYbHU0udS9tbx8PmBEV2"
       },
@@ -3210,7 +3236,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 193377,
       "name": "Watch For The View",
       "url": "https://open.spotify.com/track/1YxZJ9dgrOCa41kVaZe9bc"

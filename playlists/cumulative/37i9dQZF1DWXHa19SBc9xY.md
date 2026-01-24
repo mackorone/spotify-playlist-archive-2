@@ -4,7 +4,7 @@
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-169 songs - 9 hr 0 min
+170 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,11 +63,12 @@
 | [Deixa a Chuva Cair \- Acoustic Version](https://open.spotify.com/track/466NYRgtd3gPNH43VQ5A33) | [Rick Bonadio](https://open.spotify.com/artist/2CZ8dMcFFZ1UYj52mUSaE6), [Nathan Carvalho](https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl) | [Deixa a Chuva Cair \(Acoustic Version\)](https://open.spotify.com/album/0L7Ch86WVPvPjf1LoIDcPl) | 2:44 | 2025-03-07 |  |
 | [deixa fluir](https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [deixa fluir](https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez) | 2:51 | 2023-06-23 |  |
 | [Deixa o Sol Bater](https://open.spotify.com/track/5fwuNeL1cRnNUv5NWdXBeV) | [RAY](https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot) | [Deixa o Sol Bater](https://open.spotify.com/album/0ovKfWEwHP8BXyJAjPCdRt) | 2:50 | 2023-09-02 | 2023-10-07 |
+| [Deixa o Verão Acontecer](https://open.spotify.com/track/39Jjxq8jmeVzvnLDIxTGMx) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Deixa o Verão Acontecer](https://open.spotify.com/album/2zqlZFCt2X6QWCaM4vW5Xf) | 2:41 | 2026-01-23 |  |
 | [Dendê](https://open.spotify.com/track/6GHnfVzr6EV7kiT9VK4imY) | [Matheus de Bezerra](https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm), [Tiné](https://open.spotify.com/artist/5JrbMsFnbJZdlS07y7p4Yz) | [Dendê](https://open.spotify.com/album/3U8bBYe8mDobP6FKeSyERH) | 4:46 | 2023-10-20 |  |
 | [DESCOBRIDOR](https://open.spotify.com/track/2pg5jMIT8VlxYnwWFff9UT) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [MEMÓRIAS \(de onde eu nunca fui\)](https://open.spotify.com/album/2bZbGKs0jc0gxVguR9fCYr) | 3:08 | 2023-06-23 | 2023-10-21 |
 | [Em Outro Lugar](https://open.spotify.com/track/0ptLqVT3A8ZittU6I3qMvf) | [Pedro Pondé](https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl) | [Simples Assim](https://open.spotify.com/album/6znAgdIQOwEqEvYvymTWPa) | 3:37 | 2023-06-23 | 2024-04-19 |
 | [Em Outro Lugar](https://open.spotify.com/track/64jPzmuoetfM7UDtXJVvJY) | [Pedro Pondé](https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl) | [Simples Assim](https://open.spotify.com/album/6CvaSNTuutq8XmhNR74Wzg) | 3:37 | 2023-11-24 |  |
-| [Entre Nós](https://open.spotify.com/track/0xj5PeTwe3av1KKsPvpN67) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw) | [Se Conselho Fosse Som, Vol\. 1](https://open.spotify.com/album/5XAsNIfKtaWjHcaFEMF0EL) | 2:36 | 2025-10-25 |  |
+| [Entre Nós](https://open.spotify.com/track/0xj5PeTwe3av1KKsPvpN67) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw) | [Se Conselho Fosse Som, Vol\. 1](https://open.spotify.com/album/5XAsNIfKtaWjHcaFEMF0EL) | 2:36 | 2025-10-25 | 2026-01-24 |
 | [Erva e Calor](https://open.spotify.com/track/6aGMSrVGVKKnMeOIkAG3DV) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Erva e Calor](https://open.spotify.com/album/3lJBNEG7apvwdv59QZAccd) | 3:17 | 2025-06-13 |  |
 | [Estrela do Mar](https://open.spotify.com/track/30DNaVhr36t9aUOGK4m2KV) | [Davi Cartaxo](https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm) | [DAVI](https://open.spotify.com/album/1hHcAH6BfBuDtbP8BPTfuA) | 2:59 | 2023-06-23 | 2024-04-19 |
 | [Estrela do Mar](https://open.spotify.com/track/60bmLMDk2gBFXUozaU3Tdf) | [Davi Cartaxo](https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm) | [Estrela do Mar](https://open.spotify.com/album/5pFfBXvJWGPdRxxgaT8C9e) | 2:59 | 2023-11-24 | 2025-09-20 |

@@ -11448,10 +11448,32 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 134277,
       "name": "Me Voy A La Chingada",
       "url": "https://open.spotify.com/track/297ql9Y4MLwYwt6wY1wFID"
+    },
+    {
+      "album": {
+        "name": "Me Voy A La Chingada",
+        "url": "https://open.spotify.com/album/5gOvN4ynYRnhtVWkxlYweP"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134277,
+      "name": "Me Voy A La Chingada",
+      "url": "https://open.spotify.com/track/7uiqilD8CASlyVrhrvsFuW"
     },
     {
       "album": {
@@ -12041,7 +12063,7 @@
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 224883,
+      "duration_ms": 209069,
       "name": "MIRO TU CARA EN LA LUNA",
       "url": "https://open.spotify.com/track/1WNuSmfx8g1VtJaWayVUBJ"
     },

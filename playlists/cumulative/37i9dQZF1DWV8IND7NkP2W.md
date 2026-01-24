@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-824 songs - 1 day 13 hr 13 min
+826 songs - 1 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [Dream Journey](https://open.spotify.com/track/5HSzVDiVqNfNTyc45bH0x1) | [パジャマで海なんかいかない](https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac) | [Dream Journey](https://open.spotify.com/album/0ANg0lMuo3WHS82JwOaLow) | 4:55 | 2021-12-23 | 2022-07-29 |
 | [Dreaming Astronaut](https://open.spotify.com/track/1ZHFd6ADhEPdC12lgqz6Mp) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Dreaming Astronaut](https://open.spotify.com/album/1vTQ2WyNIkOsL9DrBr3T2d) | 3:10 | 2022-04-21 | 2022-07-29 |
 | [Drive](https://open.spotify.com/track/7gcQ3DlnE3R58uPy91waNG) | [Arukah](https://open.spotify.com/artist/30DvDKxP4k16vUaTZkFXUG) | [I'm Here](https://open.spotify.com/album/7a16xZcDfD6ytbAqSNhEuC) | 2:15 | 2021-12-23 | 2022-07-06 |
-| [Drown](https://open.spotify.com/track/4DodEZ7QhNJugb1xGMHtQG) | [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [SMOG](https://open.spotify.com/album/1o4QzZefXX7EhHbv3o9VdB) | 2:03 | 2025-12-12 |  |
+| [Drown](https://open.spotify.com/track/4DodEZ7QhNJugb1xGMHtQG) | [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [SMOG](https://open.spotify.com/album/1o4QzZefXX7EhHbv3o9VdB) | 2:03 | 2025-12-12 | 2026-01-24 |
 | [DT pt.3](https://open.spotify.com/track/5mdDR3IiaePEjw9NGXNlGf) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [DT pt.3](https://open.spotify.com/album/03ho40YIpVOKM83Cxoc3sM) | 2:53 | 2022-03-31 | 2022-04-09 |
 | [Dusk](https://open.spotify.com/track/51silputvlp8O6npsXfy2l) | [Yami/Hikari](https://open.spotify.com/artist/3eogr78QBYi6n4Ak4IvULV) | [Dusk](https://open.spotify.com/album/0dQTHjNUYL2oA4OyU8FwC0) | 1:55 | 2021-12-23 | 2022-07-09 |
 | [Dusk Moon](https://open.spotify.com/track/4upyiEiuvlffFm1NlnzhiP) | [sakamoto junnosuke](https://open.spotify.com/artist/79CYOq7U0oNlU4H8kXUj5v) | [Dusk Moon](https://open.spotify.com/album/4zsH4GvEqvyi9tLHKJW2pR) | 3:51 | 2021-12-23 | 2022-07-26 |
@@ -209,7 +209,7 @@
 | [earlier tea](https://open.spotify.com/track/3fhMezBACtE94vd1sy0J50) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [earlier tea](https://open.spotify.com/album/7wHvV6zvZQo1TlVcoGbAQx) | 2:52 | 2022-12-22 | 2023-04-21 |
 | [Early Morning](https://open.spotify.com/track/5PMKOTPuXBhArXrbNUVyIx) | [shula](https://open.spotify.com/artist/52iC6ueA2YBROxmdd4d1WI) | [Intermission 2](https://open.spotify.com/album/6nusBfW3l0m1fTNP94LPyT) | 2:43 | 2021-12-23 | 2022-05-31 |
 | [Earth Calling](https://open.spotify.com/track/33bUkdaOiJDAUNRuwxAU8j) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Earth Calling](https://open.spotify.com/album/0UOdXQ5Z2lzCgmBLI6FR4u) | 2:33 | 2021-12-23 | 2022-07-03 |
-| [easy](https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [easy](https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu) | 3:23 | 2022-04-13 |  |
+| [easy](https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [easy](https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu) | 3:23 | 2022-04-13 | 2026-01-24 |
 | [ein pt.1](https://open.spotify.com/track/2ojSQNaLN9sX00jfpfxGNT) | [BON\-SAN](https://open.spotify.com/artist/6qqHyz9zY7NDLUlfnHy667) | [BON\-KNOW pt.2 \-水\-](https://open.spotify.com/album/16sA3EDpr1l0WMTSBqtR2m) | 0:49 | 2024-02-27 | 2024-08-22 |
 | [Elevator Lover](https://open.spotify.com/track/2ChdsbxUUFspNnBKL7Lzr5) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [tender \(Deluxe Edition\)](https://open.spotify.com/album/4ciRzg4BTydpzSGuOruXCx) | 2:38 | 2025-03-06 |  |
 | [ema](https://open.spotify.com/track/3c7yVAHMxcSpi5Ezn8KLWn) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [ema](https://open.spotify.com/album/7eOizuifiVV6kRU2tbTiiQ) | 2:19 | 2021-12-23 | 2022-07-28 |
@@ -411,6 +411,7 @@
 | [Magic Hour](https://open.spotify.com/track/5zAq8jojZcRqmhqXYCiKZd) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Magic Hour](https://open.spotify.com/album/1SPAJxdV4s2zF169YXvscW) | 1:58 | 2023-08-10 | 2023-09-29 |
 | [Magnolia](https://open.spotify.com/track/2sJ3Y4XZOcD7lIth8zTYDE) | [NOA NOA](https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0) | [Magnolia](https://open.spotify.com/album/4fSqcOM3rC2xVWTYwqwDVJ) | 2:29 | 2022-01-06 | 2022-07-24 |
 | [mahogany](https://open.spotify.com/track/5kfT4wqQPUX94Ske9tAg6k) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN), [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv) | [deep forest](https://open.spotify.com/album/3U6IW47ndf3rwqLW7ZMd5B) | 2:18 | 2024-05-23 | 2025-02-02 |
+| [Main Street](https://open.spotify.com/track/5VRz3nM0qDYzbyJ4gVY4oX) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [Main Street](https://open.spotify.com/album/4ONR8o84lc4n959ckanNsF) | 2:24 | 2026-01-23 |  |
 | [Make Em' Clap](https://open.spotify.com/track/4hLRIF4PNhUD74qCbeNN4D) | [A.Y.B\. Force](https://open.spotify.com/artist/7I2xlcoJBXvmAeR7zUpSHE), [8ronix](https://open.spotify.com/artist/0TNs6NERDZsTtRTxNQLC2c) | [Make Em' Clap](https://open.spotify.com/album/7fzPRgMNM2goJbJQXRLeYh) | 3:05 | 2022-05-19 | 2022-07-24 |
 | [Malasana](https://open.spotify.com/track/1ebFEGV0DGIQUc7ejH8GnG) | [Yokohono](https://open.spotify.com/artist/6wN9Myp6ZoPeY86ST60sGU) | [Malasana](https://open.spotify.com/album/6f47OmhcecfY9X72S3xPWC) | 1:50 | 2022-03-31 | 2022-04-16 |
 | [Many "Scratch" Perry](https://open.spotify.com/track/6id8EVvF7aRAK59y8wCYAc) | [Kōya Ogata](https://open.spotify.com/artist/22uFYUbePeINzJYB9CQOwZ) | [blank space \-vol.2\-](https://open.spotify.com/album/33hAQUBAuB1msJ2Mk3hnWh) | 6:13 | 2021-12-23 | 2025-03-24 |
@@ -830,6 +831,7 @@
 | [愛が廃れたって \- Instrumental](https://open.spotify.com/track/3JCWebd4sVMpxStBvFpoJS) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [MAHORO \(Instrumental\)](https://open.spotify.com/album/5V79pIal805EAayl2qblmu) | 4:11 | 2024-02-01 | 2024-06-08 |
 | [波紋](https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [波紋](https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8) | 3:09 | 2025-07-11 |  |
 | [秩父](https://open.spotify.com/track/5Ppgh0p36VFv6tyz1ouT2f) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:17 | 2024-01-10 |  |
+| [第二心 \(Dainishin\)](https://open.spotify.com/track/1nnl5SqTlN9PNY9xFcSC26) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [第二心 \(Dainishin\)](https://open.spotify.com/album/78oTBSWxd86gNnwNf4XOTi) | 3:50 | 2026-01-23 |  |
 | [花火 01](https://open.spotify.com/track/3roiSk1Qepttg9ct0tLm5G) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [花火](https://open.spotify.com/album/4Jgfki9QuMF1C1eTdtoenN) | 1:55 | 2021-12-23 |  |
 | [蛍の光 \- Step into a World](https://open.spotify.com/track/2C9mRXopIobQ0Op4LmvVfB) | [MAHBIE](https://open.spotify.com/artist/5ggbey9WKiS849lppw8lbs) | [蛍の光 \(Step into a World\)](https://open.spotify.com/album/2xuer9lpvG0RRLu2OICRn0) | 1:35 | 2022-03-24 | 2022-07-30 |
 

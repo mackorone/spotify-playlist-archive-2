@@ -1,13 +1,29 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2669,
+  "num_followers": 2670,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARSpQJDtDxBCnbJijA2BygqlruGB/H",
+  "snapshot_id": "AAARS8j1gPNgO0V02WE7aT8aMrMUj1w6",
   "tracks": [
+    {
+      "added_at": "2026-01-23 20:11:05",
+      "album": {
+        "name": "The Vinci Effect",
+        "url": "https://open.spotify.com/album/34h08NCdFsGF2aLT4TQRrZ"
+      },
+      "artists": [
+        {
+          "name": "LUX VINCI",
+          "url": "https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt"
+        }
+      ],
+      "duration_ms": 90000,
+      "name": "Crownless King",
+      "url": "https://open.spotify.com/track/2iVseFHp51kkXwkBFKXhHh"
+    },
     {
       "added_at": "2026-01-21 16:20:22",
       "album": {

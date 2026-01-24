@@ -1888,7 +1888,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 251862,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd"
@@ -6546,6 +6546,32 @@
       "duration_ms": 190909,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/4AfRmTreKv9Djf3FNd97FS"
+    },
+    {
+      "album": {
+        "name": "Are We Dreaming?",
+        "url": "https://open.spotify.com/album/5SLXmClA3IiEXxT9Nykfaq"
+      },
+      "artists": [
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        },
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/753rbQGinx1824G2x3k5HM"
     },
     {
       "album": {

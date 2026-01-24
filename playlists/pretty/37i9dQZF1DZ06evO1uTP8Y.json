@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 11113,
+  "num_followers": 11149,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXAXAAAAAAC/aRGyJ2pUV8Pcnd1BGKau",
+  "snapshot_id": "aXFogAAAAAAKCTAoTL6adFxzW6wMblaq",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coffee (Don't Read Signs)",
-        "url": "https://open.spotify.com/album/36IbBQlEscygW12KjL5Vrh"
+        "name": "Thoughts I Never Said",
+        "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 161796,
-      "name": "Coffee (Don't Read Signs)",
-      "url": "https://open.spotify.com/track/1Y3hIs5TYN18Ymvnhd8At2"
+      "duration_ms": 123319,
+      "name": "You, The World Vs Me",
+      "url": "https://open.spotify.com/track/7n1nwXK2rEsixUkwtRtETK"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thoughts I Never Said",
-        "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
+        "name": "Coffee (Don't Read Signs)",
+        "url": "https://open.spotify.com/album/36IbBQlEscygW12KjL5Vrh"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 123319,
-      "name": "You, The World Vs Me",
-      "url": "https://open.spotify.com/track/7n1nwXK2rEsixUkwtRtETK"
+      "duration_ms": 161796,
+      "name": "Coffee (Don't Read Signs)",
+      "url": "https://open.spotify.com/track/1Y3hIs5TYN18Ymvnhd8At2"
     },
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 163298,
-      "name": "Fine By Myself",
-      "url": "https://open.spotify.com/track/6wPAtoGq4fvAHALzbgEjFP"
+      "duration_ms": 210100,
+      "name": "All That It Takes",
+      "url": "https://open.spotify.com/track/5ZtqkkX8XRfgmgxnxedI0C"
     },
     {
       "added_at": null,
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 210100,
-      "name": "All That It Takes",
-      "url": "https://open.spotify.com/track/5ZtqkkX8XRfgmgxnxedI0C"
+      "duration_ms": 163298,
+      "name": "Fine By Myself",
+      "url": "https://open.spotify.com/track/6wPAtoGq4fvAHALzbgEjFP"
     },
     {
       "added_at": null,
@@ -555,18 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunday At Zuri's",
-        "url": "https://open.spotify.com/album/6cvutR6muDLzZRbFdYlgOK"
+        "name": "Holier (SHOWBIZ)",
+        "url": "https://open.spotify.com/album/3bj5fZFxgQrTOzc2deaNhG"
       },
       "artists": [
+        {
+          "name": "Olli P",
+          "url": "https://open.spotify.com/artist/1sVeCzkWGI0b1Y8NyyAJCx"
+        },
         {
           "name": "Odeal",
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 200030,
-      "name": "Free Me",
-      "url": "https://open.spotify.com/track/1dlX4os7LgUCPE6LLZ8DMt"
+      "duration_ms": 146165,
+      "name": "Holier (SHOWBIZ)",
+      "url": "https://open.spotify.com/track/5kMGUDbBjN6uNHEmIrnYXH"
     },
     {
       "added_at": null,
@@ -587,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sunday At Zuri's",
+        "url": "https://open.spotify.com/album/6cvutR6muDLzZRbFdYlgOK"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 200030,
+      "name": "Free Me",
+      "url": "https://open.spotify.com/track/1dlX4os7LgUCPE6LLZ8DMt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WONDERLOVE +",
         "url": "https://open.spotify.com/album/2T9YYatIZcgwuXx8BYpISd"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 206222,
       "name": "i'm ready (feat. Odeal)",
       "url": "https://open.spotify.com/track/6E8TyGYNEu1Y5vns35uyHa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Holier (SHOWBIZ)",
-        "url": "https://open.spotify.com/album/3bj5fZFxgQrTOzc2deaNhG"
-      },
-      "artists": [
-        {
-          "name": "Olli P",
-          "url": "https://open.spotify.com/artist/1sVeCzkWGI0b1Y8NyyAJCx"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 146165,
-      "name": "Holier (SHOWBIZ)",
-      "url": "https://open.spotify.com/track/5kMGUDbBjN6uNHEmIrnYXH"
     },
     {
       "added_at": null,
@@ -747,30 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Too Fine",
-        "url": "https://open.spotify.com/album/3ISGOValQWg3zaoMsTORFQ"
-      },
-      "artists": [
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        },
-        {
-          "name": "JayO",
-          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Too Fine",
-      "url": "https://open.spotify.com/track/2gQWztCsjwrr4pQ7CtKsrh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Good Life (Deluxe)",
         "url": "https://open.spotify.com/album/38pvSPxx9hkoOX2syGwHHy"
       },
@@ -807,6 +783,30 @@
       "duration_ms": 148467,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/6aFyUn6Z9YujYwOI7QsWLZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Too Fine",
+        "url": "https://open.spotify.com/album/3ISGOValQWg3zaoMsTORFQ"
+      },
+      "artists": [
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        },
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Too Fine",
+      "url": "https://open.spotify.com/track/2gQWztCsjwrr4pQ7CtKsrh"
     }
   ],
   "unique_name": "This Is Odeal",

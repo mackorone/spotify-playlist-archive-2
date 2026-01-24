@@ -4,7 +4,7 @@
 
 > pov: u hand the internet the aux
 
-372 songs - 18 hr 57 min
+373 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,7 @@
 | [Push Up \- Original Mix](https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Original Mix\)](https://open.spotify.com/album/4OPl8QJEF698sMfW76g5mK) | 4:00 | 2023-04-25 | 2023-06-28 |
 | [PUT IT DOWN](https://open.spotify.com/track/2kqKsdnfgTraa9v4adnadN) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [PUT IT DOWN](https://open.spotify.com/album/3JRrnfWD4LmLXUDbeNLsyu) | 2:10 | 2025-05-09 | 2025-08-02 |
 | [Pyramid](https://open.spotify.com/track/1Up1XBkxqdtu2BMP8iJr48) | [ALYSS](https://open.spotify.com/artist/6h6jp2XsW3RvXdQs7Pfu4m) | [Alchemy](https://open.spotify.com/album/7Cy7mBf9lW1eDCc8XVYD4D) | 3:53 | 2022-03-25 | 2022-07-29 |
-| [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2021-12-03 |  |
+| [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2021-12-03 | 2026-01-24 |
 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 | 2022-05-06 | 2024-11-05 |
 | [REHAB](https://open.spotify.com/track/5KWlttlxtvmcPigdrfpQnz) | [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT) | [REHAB](https://open.spotify.com/album/7cWLfM1fEbvTA4x8FW4Eas) | 3:15 | 2025-06-20 |  |
 | [Ride At Dawn](https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Ride At Dawn](https://open.spotify.com/album/7DiasgKMXc817JWAUi1org) | 2:53 | 2025-09-05 | 2025-09-21 |
@@ -338,6 +338,7 @@
 | [Tie Me Down \(with Elley Duhé\)](https://open.spotify.com/track/4QVS8YCpK71R4FsxSMCjhP) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Tie Me Down \(with Elley Duhé\)](https://open.spotify.com/album/69t8rpgBN1ov5kCU6LDMuR) | 3:38 | 2021-12-03 | 2022-04-21 |
 | [Tokyo](https://open.spotify.com/track/5GRf6zSrCi8gErdN6CyRJT) | [Leat'eq](https://open.spotify.com/artist/1iBxtU5394iPOzmot1FDUD) | [Tokyo](https://open.spotify.com/album/00vH1F6IQIDDDOeodKDD2k) | 2:54 | 2021-12-03 | 2022-05-26 |
 | [TOO COOL TO BE CARELESS](https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [TOO COOL TO BE CARELESS](https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa) | 3:40 | 2024-09-20 | 2024-12-24 |
+| [Too Sweet](https://open.spotify.com/track/4Z3F8VnLHzcIRNDRRJmr8P) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Too Sweet](https://open.spotify.com/album/2SPkdaGAzaDdftkh0EvyMJ) | 2:44 | 2026-01-23 |  |
 | [Trampoline \- Jauz Remix](https://open.spotify.com/track/68Rnp6Cev6ESnEwlpQI2Ll) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR), [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Trampoline \(Jauz Remix\)](https://open.spotify.com/album/0zEgfSceFqevzVPCzcQDb0) | 3:56 | 2021-12-03 | 2022-04-21 |
 | [Trench](https://open.spotify.com/track/0KS9J9OECRseMt98OFMRwf) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Banga EP](https://open.spotify.com/album/4c4cElNGk6clbEo3HMSiC4) | 2:57 | 2023-02-08 | 2023-02-27 |
 | [Trench](https://open.spotify.com/track/3HTiVEVhV1YPbja4nas7iR) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Banga EP](https://open.spotify.com/album/7Iv5I1zjAnUcxzkKJ4g38V) | 2:57 | 2023-02-08 | 2023-07-07 |

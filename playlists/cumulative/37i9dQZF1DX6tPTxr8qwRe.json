@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "sweet. sharp. unbothered - mermaidonmars on the cover",
+  "description": "sweet. sharp. unbothered - Precious Pepala on the cover",
   "name": "SALT",
   "tracks": [
+    {
+      "album": {
+        "name": "007",
+        "url": "https://open.spotify.com/album/4tFAsnha5JJuUYn1plJJI9"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170826,
+      "name": "007",
+      "url": "https://open.spotify.com/track/2GikvXlSzcrm7cXXkSkhYN"
+    },
     {
       "album": {
         "name": "1-800-F**K-YOU",
@@ -1333,6 +1351,24 @@
     },
     {
       "album": {
+        "name": "BAD IDEA",
+        "url": "https://open.spotify.com/album/6onkLsxds6BIAt1CJcqHpH"
+      },
+      "artists": [
+        {
+          "name": "Lana Lubany",
+          "url": "https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184421,
+      "name": "BAD IDEA",
+      "url": "https://open.spotify.com/track/2tv9f6TI6N2YodNZznGX9u"
+    },
+    {
+      "album": {
         "name": "bad tattoo",
         "url": "https://open.spotify.com/album/0j7ZjvfGjpbiSZl4Jm0BKR"
       },
@@ -1998,6 +2034,24 @@
       "duration_ms": 149500,
       "name": "BLEACH",
       "url": "https://open.spotify.com/track/0Yb631ktGsxwsDFFlKZm6A"
+    },
+    {
+      "album": {
+        "name": "BLEED MY LOVE",
+        "url": "https://open.spotify.com/album/4oK6v8oTRvM6FSMRrz3MJX"
+      },
+      "artists": [
+        {
+          "name": "Johnny Huynh",
+          "url": "https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154155,
+      "name": "BLEED MY LOVE",
+      "url": "https://open.spotify.com/track/5vbuYJAzJqMIIaGcEuu021"
     },
     {
       "album": {
@@ -8903,6 +8957,24 @@
     },
     {
       "album": {
+        "name": "iNSOMNiAC",
+        "url": "https://open.spotify.com/album/6VAudXPDYWxC3kECysc8zw"
+      },
+      "artists": [
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165047,
+      "name": "iNSOMNiAC",
+      "url": "https://open.spotify.com/track/1wl9sRI946fOxewS3k2ExF"
+    },
+    {
+      "album": {
         "name": "INSTRUCTION MANUAL",
         "url": "https://open.spotify.com/album/14GkI2v7Wl7is24SRQSAi1"
       },
@@ -10260,6 +10332,24 @@
       "duration_ms": 160737,
       "name": "LOVE AND WAR",
       "url": "https://open.spotify.com/track/3YOPBDerQJorMfLrORcbsY"
+    },
+    {
+      "album": {
+        "name": "Love Bombs",
+        "url": "https://open.spotify.com/album/3JGRQFGZS9j3GzhpHAzcZs"
+      },
+      "artists": [
+        {
+          "name": "Precious Pepala",
+          "url": "https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155540,
+      "name": "Love Bombs",
+      "url": "https://open.spotify.com/track/7N2dxYIULi9q0vepBwsDf5"
     },
     {
       "album": {
@@ -12417,6 +12507,24 @@
     },
     {
       "album": {
+        "name": "PAPERCUT",
+        "url": "https://open.spotify.com/album/1ZWy1gMLEjonQb9qytN3uo"
+      },
+      "artists": [
+        {
+          "name": "Britton",
+          "url": "https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194028,
+      "name": "PAPERCUT",
+      "url": "https://open.spotify.com/track/25AjbQVBqFYNsACWvMLI6h"
+    },
+    {
+      "album": {
         "name": "Parachute",
         "url": "https://open.spotify.com/album/2Uf2MHzOLmlfuciVughpzO"
       },
@@ -13781,6 +13889,24 @@
     },
     {
       "album": {
+        "name": "ROLL THE CREDITS",
+        "url": "https://open.spotify.com/album/1MnLqCAzLUWSrQOSnHQpx6"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Cassette",
+          "url": "https://open.spotify.com/artist/4iPGbAiNjBqWiCvQoTA31n"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196250,
+      "name": "ROLL THE CREDITS",
+      "url": "https://open.spotify.com/track/2paspRstByBiQWEQ5e559C"
+    },
+    {
+      "album": {
         "name": "Romeo Dies",
         "url": "https://open.spotify.com/album/7f098aQqfKMnYS5YVjkT15"
       },
@@ -14862,6 +14988,24 @@
       "duration_ms": 188000,
       "name": "Sirens (feat. Sophie Powers)",
       "url": "https://open.spotify.com/track/4ssqA7CeDI5XmEh4Yez5H5"
+    },
+    {
+      "album": {
+        "name": "Slap On The Wrist",
+        "url": "https://open.spotify.com/album/7hVghiFPHSveuIwK8YzQWt"
+      },
+      "artists": [
+        {
+          "name": "girli",
+          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158396,
+      "name": "Slap On The Wrist",
+      "url": "https://open.spotify.com/track/54t4eAvCmdEWh2QwelmCXC"
     },
     {
       "album": {
@@ -17430,6 +17574,24 @@
       "duration_ms": 173027,
       "name": "ur gf",
       "url": "https://open.spotify.com/track/0PqnLIwJi5ikmE53xvoPl4"
+    },
+    {
+      "album": {
+        "name": "Ur Girlfriend\u2019s a Lawyer",
+        "url": "https://open.spotify.com/album/0552jIKdLEVqPviE5jIs22"
+      },
+      "artists": [
+        {
+          "name": "Hana Lili",
+          "url": "https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179493,
+      "name": "Ur Girlfriend\u2019s a Lawyer",
+      "url": "https://open.spotify.com/track/0lD4Mt5cjFM6ul4NxxgFau"
     },
     {
       "album": {

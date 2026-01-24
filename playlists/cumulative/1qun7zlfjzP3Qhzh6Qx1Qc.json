@@ -254,7 +254,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 182868,
       "name": "6 Months Later",
       "url": "https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom"
@@ -2758,7 +2758,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 239146,
       "name": "Dollars",
       "url": "https://open.spotify.com/track/3Yx1ZPSxwjQW4fhGSm6j6r"
@@ -3086,7 +3086,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 196100,
       "name": "Everything She Does",
       "url": "https://open.spotify.com/track/0WXwVx2Ni5yimjV9gunwpV"
@@ -3324,7 +3324,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 193707,
       "name": "Forever Ain't Long Enough",
       "url": "https://open.spotify.com/track/5bKXRRnFPZfKWP1iIzq0FV"
@@ -3702,7 +3702,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 223221,
       "name": "Good People (Thank Me)",
       "url": "https://open.spotify.com/track/0BfNYBkhbR99P2orPOeOS0"
@@ -4450,6 +4450,24 @@
       "duration_ms": 222597,
       "name": "hold my beer",
       "url": "https://open.spotify.com/track/2UKLvUzuRTaX2lrn4xy2a2"
+    },
+    {
+      "album": {
+        "name": "Hold On Me",
+        "url": "https://open.spotify.com/album/6XKERKJ3UPLQXNP7l897Fx"
+      },
+      "artists": [
+        {
+          "name": "Steven James",
+          "url": "https://open.spotify.com/artist/2GiFp07tRKO0O7e1b3rGZm"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204099,
+      "name": "Hold On Me",
+      "url": "https://open.spotify.com/track/3eOFZVRxieSjWLx83CjjoL"
     },
     {
       "album": {
@@ -5421,6 +5439,24 @@
     },
     {
       "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/1Stk5AZCYxmHscezyfZZZK"
+      },
+      "artists": [
+        {
+          "name": "Elijah Scott",
+          "url": "https://open.spotify.com/artist/1KpQ1cGIyjXvRWmxb5MXnE"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178892,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/79EiT5ppYLOYZX2CDWuqFX"
+    },
+    {
+      "album": {
         "name": "SIXER",
         "url": "https://open.spotify.com/album/7lO4zrnPXfc8KB4IXJR6at"
       },
@@ -5796,7 +5832,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 174133,
       "name": "Man Like Mine",
       "url": "https://open.spotify.com/track/1imsA3Jc3y82WnwtZU24rq"
@@ -6610,7 +6646,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 222841,
       "name": "Oh Sweet Lady",
       "url": "https://open.spotify.com/track/7vCEBWjolzECMWIeBmzMdK"
@@ -6827,6 +6863,24 @@
     },
     {
       "album": {
+        "name": "Paradise & Hurricanes",
+        "url": "https://open.spotify.com/album/4lQm9HsGgLRuqNHiZavkj8"
+      },
+      "artists": [
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180102,
+      "name": "Paradise & Hurricanes",
+      "url": "https://open.spotify.com/track/3Ke1H3yXStzd29Mz0xK5vM"
+    },
+    {
+      "album": {
         "name": "PATTERNS",
         "url": "https://open.spotify.com/album/6zecpQ52kwBLJaNdiLFnLU"
       },
@@ -7022,7 +7076,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 221100,
       "name": "Puff of Smoke",
       "url": "https://open.spotify.com/track/05bnvo279OHxjGDwLzLqcg"
@@ -7662,7 +7716,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 190649,
       "name": "Shovel",
       "url": "https://open.spotify.com/track/0RAJTCyUgzXqct9qXcQhjk"
@@ -9986,6 +10040,24 @@
       "duration_ms": 179546,
       "name": "Woman In The Mirror",
       "url": "https://open.spotify.com/track/3wqgVvpgIt2bqlDP4T65kU"
+    },
+    {
+      "album": {
+        "name": "World Change Me",
+        "url": "https://open.spotify.com/album/33eTbMmWEmrA8J2gaDJ7Dz"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183995,
+      "name": "World Change Me",
+      "url": "https://open.spotify.com/track/7D4gDETANw66uy1dVEKQZZ"
     },
     {
       "album": {

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "(favorito)",
+        "url": "https://open.spotify.com/album/63REyK0hkC2rCtgYGIqKNh"
+      },
+      "artists": [
+        {
+          "name": "nic",
+          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "(favorito)",
+      "url": "https://open.spotify.com/track/3pNklcVilHHuVKtkDbzaTq"
+    },
+    {
+      "album": {
         "name": "(feliz por ti)",
         "url": "https://open.spotify.com/album/6pBNf9iRUQh0oh6qR4cKNM"
       },
@@ -4570,7 +4588,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 106068,
       "name": "CRAZY IN YOUR HEAD",
       "url": "https://open.spotify.com/track/5GhSKBJdR5sqp0X87MDiC2"
@@ -5774,7 +5792,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 165291,
       "name": "Divino Castigo",
       "url": "https://open.spotify.com/track/0mPwBZORxOOvFzOZ7qLFmH"
@@ -13354,7 +13372,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 135030,
       "name": "No Eras Para Tanto",
       "url": "https://open.spotify.com/track/44lL0sZVxO02J4p1IjTrYb"
@@ -13474,6 +13492,24 @@
       "duration_ms": 198785,
       "name": "No Hay Fotos",
       "url": "https://open.spotify.com/track/7lIToufalUeY0lXMtsmuho"
+    },
+    {
+      "album": {
+        "name": "No Hay Que Llorar",
+        "url": "https://open.spotify.com/album/7uIbLRXnuJqnAd6XrGSJDQ"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155074,
+      "name": "No Hay Que Llorar",
+      "url": "https://open.spotify.com/track/46tzd3foeCDZeJE5m5JmR3"
     },
     {
       "album": {
@@ -17152,6 +17188,24 @@
       "duration_ms": 142054,
       "name": "Robot",
       "url": "https://open.spotify.com/track/5Dgbojt1HsytRAL3Vss7HI"
+    },
+    {
+      "album": {
+        "name": "Rollitos de Papel",
+        "url": "https://open.spotify.com/album/7eZ9SGcuTyYH6tHeLFhuu1"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182475,
+      "name": "Rollitos de Papel",
+      "url": "https://open.spotify.com/track/2In4JKhdvDXXszMTh6PlnN"
     },
     {
       "album": {

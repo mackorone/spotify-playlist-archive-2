@@ -2326,8 +2326,8 @@
       },
       "artists": [
         {
-          "name": "ZephyrInTheWind",
-          "url": "https://open.spotify.com/artist/2lqQ3jGN37e45ZjxAvRT1E"
+          "name": "Zephyrelis",
+          "url": "https://open.spotify.com/artist/5e7CZipmXEEi0UbdLTUCJ8"
         },
         {
           "name": "Zenny",
@@ -4875,6 +4875,24 @@
     },
     {
       "album": {
+        "name": "Means For Me",
+        "url": "https://open.spotify.com/album/36c6YiTV5eTKfjXnZ87Doi"
+      },
+      "artists": [
+        {
+          "name": "Zenny",
+          "url": "https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104812,
+      "name": "Means For Me",
+      "url": "https://open.spotify.com/track/6u89aNSrS1wZybJ8EE7Yr0"
+    },
+    {
+      "album": {
         "name": "TRANQUIL",
         "url": "https://open.spotify.com/album/1rbdkQxI6hqQ2x3vfdEEEC"
       },
@@ -7202,6 +7220,24 @@
       "duration_ms": 156038,
       "name": "Silly Plans ~ Revisit",
       "url": "https://open.spotify.com/track/5vP1NGTKuXXaEpU6pDdFrx"
+    },
+    {
+      "album": {
+        "name": "skeleton",
+        "url": "https://open.spotify.com/album/5wgc9OU0XuIYtRJAiRJRS2"
+      },
+      "artists": [
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152400,
+      "name": "skeleton",
+      "url": "https://open.spotify.com/track/5CpFnf53jOpKvPiOxse77C"
     },
     {
       "album": {

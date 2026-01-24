@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > R&B and good vibe tracks for your current mood\. Cover: Gen Neo
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,695 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,696 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 4](https://open.spotify.com/track/5Q9uXyP4fZpvyVPxnbi9zD) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [](https://open.spotify.com/album/null) | 0:00 |
-| 2 | [Track 5](https://open.spotify.com/track/48Rk6ZyFcztsyvUZeUFVXO) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Times Like This](https://open.spotify.com/track/5Q9uXyP4fZpvyVPxnbi9zD) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Through Thick & Thin](https://open.spotify.com/album/5e7Ss3pOjpbM0Q3bXNZGE6) | 2:48 |
+| 2 | [High Key](https://open.spotify.com/track/48Rk6ZyFcztsyvUZeUFVXO) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Vacancy](https://open.spotify.com/album/2UuTaSOSxTNP6whKrwDqnS) | 2:12 |
 | 3 | [Sway](https://open.spotify.com/track/6XJkUNg0IJB014weMpIkcv) | [Jamegolotus](https://open.spotify.com/artist/4WJHHbKaR6ZuhBrenMOj41) | [Sway](https://open.spotify.com/album/3Jge97aDjxTviMZsnhI5J4) | 4:08 |
 | 4 | [Feeling You](https://open.spotify.com/track/5JHFKtlj7J2TpRFCJmkl4b) | [ABOY](https://open.spotify.com/artist/67Cl557uIp08IkVBI79Wub) | [Feeling You](https://open.spotify.com/album/7Ih5TaB7SA4IZX0HAAZ4B4) | 4:22 |
 | 5 | [Disappear](https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Greyhound](https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP) | 3:31 |

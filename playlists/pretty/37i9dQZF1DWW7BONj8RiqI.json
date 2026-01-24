@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Machel Montano",
-  "num_followers": 242836,
+  "num_followers": 242879,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
+        "name": "Hard Fete",
+        "url": "https://open.spotify.com/album/0cyOjKcrLq7hPNrwCDFLMK"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "duration_ms": 230437,
+      "name": "Hard Fete",
+      "url": "https://open.spotify.com/track/4LeGXUArvKORbcrykE26q3"
+    },
+    {
+      "added_at": "2026-01-16 00:00:13",
+      "album": {
         "name": "One Piece",
         "url": "https://open.spotify.com/album/0pRL5W4uh3AtHj1s0VG3k4"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 197777,
       "name": "One Piece",
       "url": "https://open.spotify.com/track/3jETcqXegPo67ru7i28Z9E"
-    },
-    {
-      "added_at": "2026-01-16 00:00:13",
-      "album": {
-        "name": "Hard Fete",
-        "url": "https://open.spotify.com/album/0cyOjKcrLq7hPNrwCDFLMK"
-      },
-      "artists": [
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        }
-      ],
-      "duration_ms": 230437,
-      "name": "Hard Fete",
-      "url": "https://open.spotify.com/track/4LeGXUArvKORbcrykE26q3"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -679,26 +679,22 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
-        "name": "Black Keys Riddim",
-        "url": "https://open.spotify.com/album/22UudBXkxd66PvwCHPLA3g"
+        "name": "Back Bend (Remix)",
+        "url": "https://open.spotify.com/album/6HYlRaBXl9hdxJCBYn4yuW"
       },
       "artists": [
         {
-          "name": "Problem Child",
-          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
+          "name": "Subance",
+          "url": "https://open.spotify.com/artist/585omi3UyLu9jASuXhXxQv"
         },
         {
-          "name": "Jus Jay King",
-          "url": "https://open.spotify.com/artist/3RGRaqeExRfMuhsh3hVU8V"
-        },
-        {
-          "name": "Nelieux",
-          "url": "https://open.spotify.com/artist/0gMDsodMcZUuum1iXNMVge"
+          "name": "Uncle Ellis",
+          "url": "https://open.spotify.com/artist/3V3y2f7EPUK39l2c8V1Bpx"
         }
       ],
-      "duration_ms": 137330,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/3HhdRHgiGbSH8rcGhJ0PGW"
+      "duration_ms": 185538,
+      "name": "Back Bend (Remix)",
+      "url": "https://open.spotify.com/track/1VDpnwWRulD0TgGyfHjCts"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -739,26 +735,6 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
-        "name": "Back Bend (Remix)",
-        "url": "https://open.spotify.com/album/6HYlRaBXl9hdxJCBYn4yuW"
-      },
-      "artists": [
-        {
-          "name": "Subance",
-          "url": "https://open.spotify.com/artist/585omi3UyLu9jASuXhXxQv"
-        },
-        {
-          "name": "Uncle Ellis",
-          "url": "https://open.spotify.com/artist/3V3y2f7EPUK39l2c8V1Bpx"
-        }
-      ],
-      "duration_ms": 185538,
-      "name": "Back Bend (Remix)",
-      "url": "https://open.spotify.com/track/1VDpnwWRulD0TgGyfHjCts"
-    },
-    {
-      "added_at": "2026-01-16 00:00:13",
-      "album": {
         "name": "In the Water",
         "url": "https://open.spotify.com/album/4sgxQbY0FtG7Jy9bCmosmo"
       },
@@ -775,6 +751,46 @@
       "duration_ms": 159873,
       "name": "In the Water",
       "url": "https://open.spotify.com/track/13VEio7HfObBKUtYUDAp42"
+    },
+    {
+      "added_at": "2026-01-16 00:00:13",
+      "album": {
+        "name": "Black Keys Riddim",
+        "url": "https://open.spotify.com/album/22UudBXkxd66PvwCHPLA3g"
+      },
+      "artists": [
+        {
+          "name": "Problem Child",
+          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
+        },
+        {
+          "name": "Jus Jay King",
+          "url": "https://open.spotify.com/artist/3RGRaqeExRfMuhsh3hVU8V"
+        },
+        {
+          "name": "Nelieux",
+          "url": "https://open.spotify.com/artist/0gMDsodMcZUuum1iXNMVge"
+        }
+      ],
+      "duration_ms": 137330,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/3HhdRHgiGbSH8rcGhJ0PGW"
+    },
+    {
+      "added_at": "2026-01-16 00:00:13",
+      "album": {
+        "name": "Face Beat",
+        "url": "https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM"
+      },
+      "artists": [
+        {
+          "name": "Father Philis",
+          "url": "https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK"
+        }
+      ],
+      "duration_ms": 143789,
+      "name": "Face Beat",
+      "url": "https://open.spotify.com/track/7JOil4DFL3mgC5ZiDr82TG"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -799,22 +815,6 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
-        "name": "Face Beat",
-        "url": "https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM"
-      },
-      "artists": [
-        {
-          "name": "Father Philis",
-          "url": "https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK"
-        }
-      ],
-      "duration_ms": 143789,
-      "name": "Face Beat",
-      "url": "https://open.spotify.com/track/7JOil4DFL3mgC5ZiDr82TG"
-    },
-    {
-      "added_at": "2026-01-16 00:00:13",
-      "album": {
         "name": "No Apology",
         "url": "https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh"
       },
@@ -827,6 +827,22 @@
       "duration_ms": 169570,
       "name": "No Apology",
       "url": "https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W"
+    },
+    {
+      "added_at": "2026-01-16 00:00:13",
+      "album": {
+        "name": "Funky Business",
+        "url": "https://open.spotify.com/album/6irDQgYw7nObjqROUl9hoj"
+      },
+      "artists": [
+        {
+          "name": "Fimba",
+          "url": "https://open.spotify.com/artist/6JHTiWS70od5zHsU5QcEqM"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "Funky Business",
+      "url": "https://open.spotify.com/track/58TSNfyz3elrAG90rUKbvu"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -847,22 +863,6 @@
       "duration_ms": 133141,
       "name": "Down Dey",
       "url": "https://open.spotify.com/track/7AGm3aWTaC7LRni0xcrhMw"
-    },
-    {
-      "added_at": "2026-01-16 00:00:13",
-      "album": {
-        "name": "Funky Business",
-        "url": "https://open.spotify.com/album/6irDQgYw7nObjqROUl9hoj"
-      },
-      "artists": [
-        {
-          "name": "Fimba",
-          "url": "https://open.spotify.com/artist/6JHTiWS70od5zHsU5QcEqM"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "Funky Business",
-      "url": "https://open.spotify.com/track/58TSNfyz3elrAG90rUKbvu"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
+        "name": "Dig",
+        "url": "https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC"
+      },
+      "artists": [
+        {
+          "name": "Burning Flames",
+          "url": "https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv"
+        }
+      ],
+      "duration_ms": 335652,
+      "name": "Workey Workey",
+      "url": "https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj"
+    },
+    {
+      "added_at": "2026-01-16 00:00:13",
+      "album": {
         "name": "One Degree Hotter",
         "url": "https://open.spotify.com/album/0XOSA0PmBmFqChJNipYAQG"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 158413,
       "name": "Fling It Up",
       "url": "https://open.spotify.com/track/23NyOI3LyPTddD5kZRpO9b"
-    },
-    {
-      "added_at": "2026-01-16 00:00:13",
-      "album": {
-        "name": "Dig",
-        "url": "https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC"
-      },
-      "artists": [
-        {
-          "name": "Burning Flames",
-          "url": "https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv"
-        }
-      ],
-      "duration_ms": 335652,
-      "name": "Workey Workey",
-      "url": "https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
+        "name": "Soca Gold 2007",
+        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
+      },
+      "artists": [
+        {
+          "name": "Peter Ram",
+          "url": "https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ"
+        }
+      ],
+      "duration_ms": 279426,
+      "name": "Woman By My Side",
+      "url": "https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu"
+    },
+    {
+      "added_at": "2026-01-16 00:00:13",
+      "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/1SYgCeP4pcUKZw7f8NPMgF"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 180272,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/2yhSSTHmHMw7UVciSo80ey"
-    },
-    {
-      "added_at": "2026-01-16 00:00:13",
-      "album": {
-        "name": "Soca Gold 2007",
-        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
-      },
-      "artists": [
-        {
-          "name": "Peter Ram",
-          "url": "https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ"
-        }
-      ],
-      "duration_ms": 279426,
-      "name": "Woman By My Side",
-      "url": "https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
-        "name": "Soca Gold 2002",
-        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
+        "name": "Soak It Good",
+        "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
       },
       "artists": [
         {
-          "name": "Invasion Band Feat. Naya George",
-          "url": "https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj"
+          "name": "Skinny Banton",
+          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
         }
       ],
-      "duration_ms": 181960,
-      "name": "Trinidad",
-      "url": "https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC"
+      "duration_ms": 182125,
+      "name": "Soak It Good",
+      "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
-        "name": "Soak It Good",
-        "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
+        "name": "Soca Gold 2002",
+        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
       },
       "artists": [
         {
-          "name": "Skinny Banton",
-          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
+          "name": "Invasion Band Feat. Naya George",
+          "url": "https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj"
         }
       ],
-      "duration_ms": 182125,
-      "name": "Soak It Good",
-      "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
+      "duration_ms": 181960,
+      "name": "Trinidad",
+      "url": "https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
-        "name": "Lambadas Internacionais - As Melhores",
-        "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
-      },
-      "artists": [
-        {
-          "name": "Carlos Santos",
-          "url": "https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB"
-        }
-      ],
-      "duration_ms": 258666,
-      "name": "Hot-Hot-Hot",
-      "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
-    },
-    {
-      "added_at": "2026-01-16 00:00:13",
-      "album": {
         "name": "Charge",
         "url": "https://open.spotify.com/album/15Kfg4oI8XNt0FRRzPvcxo"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 276131,
       "name": "Footsteps",
       "url": "https://open.spotify.com/track/0HSmfFHl7PeODbmedSB7BI"
+    },
+    {
+      "added_at": "2026-01-16 00:00:13",
+      "album": {
+        "name": "Lambadas Internacionais - As Melhores",
+        "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
+      },
+      "artists": [
+        {
+          "name": "Carlos Santos",
+          "url": "https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB"
+        }
+      ],
+      "duration_ms": 258666,
+      "name": "Hot-Hot-Hot",
+      "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
     },
     {
       "added_at": "2026-01-16 00:00:13",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-20",
-  "description": "start your day right \u2615\ufe0f wake up with some calm and slow Jazz",
+  "description": "start your day right \u2615\ufe0f wake up with some warm and slow Jazz",
   "name": "Jazzy Morning",
   "tracks": [
     {
@@ -2128,6 +2128,24 @@
       "duration_ms": 189835,
       "name": "Confusion",
       "url": "https://open.spotify.com/track/1sfrJ2DKdKEjDccAxJR3be"
+    },
+    {
+      "album": {
+        "name": "Convenient",
+        "url": "https://open.spotify.com/album/4w05LjC25m4vW1u7BxetMP"
+      },
+      "artists": [
+        {
+          "name": "Nordic Light Trio",
+          "url": "https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159884,
+      "name": "Convenient",
+      "url": "https://open.spotify.com/track/0rU5aB8QnpdUV9cIDa4OyJ"
     },
     {
       "album": {
@@ -7596,7 +7614,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 295627,
       "name": "My Love",
       "url": "https://open.spotify.com/track/7IVYcE5ah4f7VJBzkAgGo3"

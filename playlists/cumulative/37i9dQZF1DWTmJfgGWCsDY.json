@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Mavokali",
+  "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Kidene Fighter",
   "name": "Singeli Sounds",
   "tracks": [
     {
@@ -678,7 +678,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 239972,
       "name": "Honey Wangu",
       "url": "https://open.spotify.com/track/3K0L27WGjjeQzJOm4tyhSh"
@@ -976,7 +976,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 182836,
       "name": "Kinondoni",
       "url": "https://open.spotify.com/track/0ST4KqPk1JIKfuksh2jjOG"
@@ -1394,7 +1394,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 325666,
       "name": "Maisha Yetu Usela",
       "url": "https://open.spotify.com/track/5LzvixNE9iXW0A8ygVGRcY"
@@ -1747,6 +1747,24 @@
     },
     {
       "album": {
+        "name": "Kumi Za Moto",
+        "url": "https://open.spotify.com/album/7vTszg8Bz4fiLkDqryx2xL"
+      },
+      "artists": [
+        {
+          "name": "Kidene Fighter",
+          "url": "https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206200,
+      "name": "Mtaani Kwetu",
+      "url": "https://open.spotify.com/track/7wHcrG6ULMo6MtPfVro6je"
+    },
+    {
+      "album": {
         "name": "Mume Wa Mtu Ni Sumu",
         "url": "https://open.spotify.com/album/3ImYxqb9ytQXDoiM0Xe3Oj"
       },
@@ -1840,6 +1858,36 @@
       "duration_ms": 277972,
       "name": "My Darling - Remix",
       "url": "https://open.spotify.com/track/3Byiqm0Xzb7NeRwvmLlUVw"
+    },
+    {
+      "album": {
+        "name": "Nafosi",
+        "url": "https://open.spotify.com/album/5RFf7upKJHE4ydikrhAuaJ"
+      },
+      "artists": [
+        {
+          "name": "Dj Mushizo",
+          "url": "https://open.spotify.com/artist/11xpQtgAZTHvwnGNXaDzaj"
+        },
+        {
+          "name": "KIDENSA MC",
+          "url": "https://open.spotify.com/artist/7oebmXACL34Zggo6FPb2eX"
+        },
+        {
+          "name": "Barnaba",
+          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
+        },
+        {
+          "name": "Baddest 47",
+          "url": "https://open.spotify.com/artist/3QenWT2S4xNs8PTguhaQdJ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314537,
+      "name": "Nafosi",
+      "url": "https://open.spotify.com/track/5uekF8MmxotvgdB0BvQsRa"
     },
     {
       "album": {
@@ -3572,7 +3620,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 205771,
       "name": "Wezi",
       "url": "https://open.spotify.com/track/4XvNC3l6dPpns7aGn1SbJL"

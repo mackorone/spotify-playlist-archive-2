@@ -4,7 +4,7 @@
 
 > My love language is all of em, do all that $\#\*!
 
-452 songs - 1 day 4 hr 12 min
+453 songs - 1 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Missing You](https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Open Letter](https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL) | 4:44 | 2023-02-10 | 2024-02-01 |
 | [Misunderstood](https://open.spotify.com/track/6zsT60ALu2xeljCWRp3rEs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 4:07 | 2021-12-15 | 2022-07-29 |
 | [MIXED EMOTIONS \(feat\. Leon Thomas\)](https://open.spotify.com/track/606zbOQvuTi9dNxnlZJ31q) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [TYCOON](https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK) | 4:03 | 2025-10-17 | 2025-12-18 |
+| [Mobbin in DC](https://open.spotify.com/track/2RQgeSpeept1RwvpBZeRBh) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Vacancy](https://open.spotify.com/album/2UuTaSOSxTNP6whKrwDqnS) | 4:25 | 2026-01-23 |  |
 | [Moment](https://open.spotify.com/track/6rSUrh8ErKSKfbH0t0IzCM) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 2:59 | 2023-02-10 | 2024-02-01 |
 | [MORE THAN A HOMIE](https://open.spotify.com/track/4LRzUc9qsLTwHhzXd8WaTI) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [MORE THAN A HOMIE](https://open.spotify.com/album/1mJDMgJyr19JFmT0GxBCgT) | 3:34 | 2025-08-15 | 2025-12-06 |
 | [more than a trend](https://open.spotify.com/track/0yk8VLT5BXbqHK8DZD3xUg) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 1:36 | 2024-01-31 | 2024-04-25 |
@@ -418,7 +419,7 @@
 | [TOO SWEET \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/track/1zw58wBujy79wxhOoxHxii) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [TOO SWEET \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/album/6EzhFxkhJ1Fd6vSER8YL8l) | 3:46 | 2021-12-15 | 2022-07-29 |
 | [Touch Me \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Touch Me \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/4ICez0IybCtHZbAXl5ENWJ) | 3:07 | 2021-12-15 | 2023-02-11 |
 | [Try To Love](https://open.spotify.com/track/23En19UauVOU4UxVL7H7lv) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Leaks](https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1) | 2:23 | 2025-12-05 | 2026-01-15 |
-| [Twin Flame](https://open.spotify.com/track/1J315Sfz0otWt1JDyaNlaF) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Twin Flame](https://open.spotify.com/album/73A0KaDyV4R6Qnsy6ewoJd) | 3:06 | 2026-01-09 |  |
+| [Twin Flame](https://open.spotify.com/track/1J315Sfz0otWt1JDyaNlaF) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Twin Flame](https://open.spotify.com/album/73A0KaDyV4R6Qnsy6ewoJd) | 3:06 | 2026-01-09 | 2026-01-24 |
 | [Typa](https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Typa](https://open.spotify.com/album/296t8NLKxtLZ8jBOa0eGSY) | 2:04 | 2025-06-06 |  |
 | [Type Dangerous \- The Sean Don Remix](https://open.spotify.com/track/37kELSdEEsWMLAHFiJdUuS) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Type Dangerous \- The Remixes](https://open.spotify.com/album/7Jv4EKxbrxJYaatg4lSd4v) | 2:56 | 2025-07-11 | 2025-07-22 |
 | [U Send Me Swingin'](https://open.spotify.com/track/1mC7u32zemMLC1mVOU02Pm) | [Mint Condition](https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ) | [From The Mint Factory](https://open.spotify.com/album/7hzFhf3WpRUNM52MVjgCVe) | 5:14 | 2021-12-15 | 2023-02-11 |

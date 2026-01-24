@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-3,022 songs - 6 day 14 hr 43 min
+3,023 songs - 6 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [Charlie Brown](https://open.spotify.com/track/0x5CxIxVZUxwOQbwiVLS6J) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/5GykKNn2KjofEoA8SpNnuw) | 4:45 | 2024-07-29 | 2024-08-03 |
 | [Cheek](https://open.spotify.com/track/6Zy7DwGzHvezMHUASmAvqv) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [ViO](https://open.spotify.com/album/1syZJ0HasgimydePATEIfx) | 3:48 | 2022-03-05 | 2022-03-21 |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-16 | 2023-04-23 |
+| [Cherry Cake](https://open.spotify.com/track/09cYHNcsOsUIDSXXWCOVQj) | [CHACHI](https://open.spotify.com/artist/6XGU6VA1KDqe2JX5axFi7N) | [Cherry Cake](https://open.spotify.com/album/0p0fEqkNKfcuPi4OOBUcpt) | 2:49 | 2026-01-23 |  |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-05-18 | 2024-06-02 |
 | [Chillaa veli](https://open.spotify.com/track/1agD3NMqnpaejVler2S9xJ) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Chillaa veli](https://open.spotify.com/album/7lHrsy9SvjKWr2Ca13Qv8d) | 2:51 | 2022-07-09 | 2023-01-06 |
 | [Chillaa veli](https://open.spotify.com/track/7LORRjg6Pvi6ROFEPC2VPy) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sextape II](https://open.spotify.com/album/7AtxLIvzuR2T3jsr62wzyR) | 2:51 | 2023-01-07 | 2023-01-17 |
@@ -346,7 +347,7 @@
 | [Clocks](https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:07 | 2023-07-26 | 2024-08-04 |
 | [Cocaina \(feat\. JVG\)](https://open.spotify.com/track/5wM1WxkXXSPDVKYeIln0cp) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Cocaina \(feat\. JVG\)](https://open.spotify.com/album/1G16QTtvWSWN9gA8JKoG3C) | 3:19 | 2025-12-27 | 2026-01-15 |
 | [Cocaina \(feat\. JVG\)](https://open.spotify.com/track/60FI78p0UjNVFtVhTjtyBD) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Make Trap Great Again](https://open.spotify.com/album/6owFNJ6P5GhOuZunoNPSF1) | 3:19 | 2026-01-15 | 2026-01-22 |
-| [Cokis ja Mentos](https://open.spotify.com/track/7epSxuVlx3PKqCqQcr42i1) | [Mira Luoti](https://open.spotify.com/artist/5j9mMB9gew9wNCvFJWiNho) | [Cokis ja Mentos](https://open.spotify.com/album/6UhIEHLrVAqIeTHiGBwqrQ) | 2:47 | 2026-01-15 |  |
+| [Cokis ja Mentos](https://open.spotify.com/track/7epSxuVlx3PKqCqQcr42i1) | [Mira Luoti](https://open.spotify.com/artist/5j9mMB9gew9wNCvFJWiNho) | [Cokis ja Mentos](https://open.spotify.com/album/6UhIEHLrVAqIeTHiGBwqrQ) | 2:47 | 2026-01-15 | 2026-01-24 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2021-09-27 | 2021-10-23 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 3:22 | 2021-10-23 | 2022-03-13 |
 | [Collide](https://open.spotify.com/track/5sv0WnUs74Orn6GoPmC5im) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:30 | 2021-10-31 | 2021-10-31 |

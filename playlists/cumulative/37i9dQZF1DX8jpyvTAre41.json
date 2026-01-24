@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best rock songs of the moment. Cover: The Beaches",
+  "description": "The best rock songs of the moment. Cover: Cam Kahin",
   "name": "Rock Now",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 227064,
       "name": "20/20 Vision",
       "url": "https://open.spotify.com/track/1BLqWL5GNDp3hwaMCSbddb"
@@ -1441,6 +1441,24 @@
     },
     {
       "album": {
+        "name": "Flagrant Act of Bliss",
+        "url": "https://open.spotify.com/album/5qKrndJdz1i7UkFI2MiJMI"
+      },
+      "artists": [
+        {
+          "name": "Black Pistol Fire",
+          "url": "https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187659,
+      "name": "American Wet Dream",
+      "url": "https://open.spotify.com/track/6JX5VcFg5FoJWwKkm5IL0q"
+    },
+    {
+      "album": {
         "name": "american zombie",
         "url": "https://open.spotify.com/album/4BjJWRGXLh0Gq4JoX8wavh"
       },
@@ -1532,6 +1550,24 @@
       "duration_ms": 288173,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/0wevdjeAS4m5tdCYdlY52C"
+    },
+    {
+      "album": {
+        "name": "Angels Cry",
+        "url": "https://open.spotify.com/album/2qC3jIIB2pzxnJWuH1hv9v"
+      },
+      "artists": [
+        {
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232825,
+      "name": "Angels Cry",
+      "url": "https://open.spotify.com/track/7uLc0Acq6JOMhJC40u4K65"
     },
     {
       "album": {
@@ -1953,6 +1989,24 @@
     },
     {
       "album": {
+        "name": "Autopilot",
+        "url": "https://open.spotify.com/album/7ykeLZhhplzKnHwWJHl1XJ"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166730,
+      "name": "Autopilot",
+      "url": "https://open.spotify.com/track/3a1jT0YHIsQDqIPt95gONV"
+    },
+    {
+      "album": {
         "name": "Awaken",
         "url": "https://open.spotify.com/album/1vmuokjeEWukuNChZWHC5Y"
       },
@@ -1982,7 +2036,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 212666,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/1FD6QgRQ6KoskRxa5auxDW"
@@ -3211,6 +3265,24 @@
     },
     {
       "album": {
+        "name": "Bomb To A Knife Fight",
+        "url": "https://open.spotify.com/album/7t0w7wWnCcNvZrUGvreW21"
+      },
+      "artists": [
+        {
+          "name": "The Barbarians of California",
+          "url": "https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161504,
+      "name": "Bomb To A Knife Fight",
+      "url": "https://open.spotify.com/track/1mVaXOne0HkvbeReuBkg8V"
+    },
+    {
+      "album": {
         "name": "Big Wreck 7.1",
         "url": "https://open.spotify.com/album/6fF0RwxKsajChTSJrHsZLN"
       },
@@ -4218,7 +4290,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 272800,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/2uB8g1m1lBjugofmsjtagk"
@@ -4900,7 +4972,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 210000,
       "name": "Come Alive",
       "url": "https://open.spotify.com/track/5sXst1muQXGJwLuPazKk5Y"
@@ -6102,6 +6174,24 @@
       "duration_ms": 255663,
       "name": "Denali",
       "url": "https://open.spotify.com/track/3gwCx9TcuqFkeopOfqDuNA"
+    },
+    {
+      "album": {
+        "name": "Boycott Heaven",
+        "url": "https://open.spotify.com/album/4yMJnpezQRZr8MIkNUor1M"
+      },
+      "artists": [
+        {
+          "name": "The Format",
+          "url": "https://open.spotify.com/artist/3ZJC8cLts8Q8s8JbNJKsLf"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212422,
+      "name": "Depressed",
+      "url": "https://open.spotify.com/track/1jUNEF8KHemuZZOhk2nhfs"
     },
     {
       "album": {
@@ -10724,7 +10814,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 210521,
       "name": "Highway Song",
       "url": "https://open.spotify.com/track/10acjftS8WrCj0TX0XiPPv"
@@ -10858,6 +10948,24 @@
       "duration_ms": 198166,
       "name": "Holes",
       "url": "https://open.spotify.com/track/6jauJgJ1vi8GoSnNm0hIh8"
+    },
+    {
+      "album": {
+        "name": "Hollaback Girl",
+        "url": "https://open.spotify.com/album/2ZCC3pbYJPfDGolUhfXTyw"
+      },
+      "artists": [
+        {
+          "name": "Rain Paris",
+          "url": "https://open.spotify.com/artist/10TCOjSPs9ywBN1Q083BnB"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Hollaback Girl",
+      "url": "https://open.spotify.com/track/1Y9xsCdc2wek3HxUCAbu1k"
     },
     {
       "album": {
@@ -12256,7 +12364,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 187742,
       "name": "It's So Hopeless",
       "url": "https://open.spotify.com/track/0UVck9pjMFzfLKCUje3beo"
@@ -12970,7 +13078,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 203928,
       "name": "Kill or be Killed",
       "url": "https://open.spotify.com/track/4ZAgj2AeE5hs7qgpiSdMTT"
@@ -14964,7 +15072,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 191671,
       "name": "Low Twang",
       "url": "https://open.spotify.com/track/0M5GauTIWuUA2sbPE6mxkd"
@@ -16044,6 +16152,24 @@
       "duration_ms": 184120,
       "name": "Money",
       "url": "https://open.spotify.com/track/1BgZkJd4qbT8ylmj0snRaE"
+    },
+    {
+      "album": {
+        "name": "Monolith",
+        "url": "https://open.spotify.com/album/60D53NppKnWqnepqsq3wX4"
+      },
+      "artists": [
+        {
+          "name": "Death Lens",
+          "url": "https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212215,
+      "name": "Monolith",
+      "url": "https://open.spotify.com/track/2qWJ3H3iMEnkeyi8t0QfGr"
     },
     {
       "album": {
@@ -19295,6 +19421,28 @@
     },
     {
       "album": {
+        "name": "Pullin' Teeth (feat. Kevin Rheault)",
+        "url": "https://open.spotify.com/album/5Dv94BiysbvmdCu646Yt6r"
+      },
+      "artists": [
+        {
+          "name": "The Scratch",
+          "url": "https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd"
+        },
+        {
+          "name": "Kevin Rheault",
+          "url": "https://open.spotify.com/artist/3zNIChbsnQkpCqnPZfwkUy"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254446,
+      "name": "Pullin' Teeth (feat. Kevin Rheault)",
+      "url": "https://open.spotify.com/track/4u0XMPi5gVGcmzbifUwUh8"
+    },
+    {
+      "album": {
         "name": "Pulling Quotes",
         "url": "https://open.spotify.com/album/3aCjxLYFiYazwdn23o6lOe"
       },
@@ -19350,6 +19498,24 @@
       "duration_ms": 140792,
       "name": "Punkstar (feat. Royal & the Serpent)",
       "url": "https://open.spotify.com/track/1rppprlWCNdcJY6DQxVNkI"
+    },
+    {
+      "album": {
+        "name": "Puppet Parade",
+        "url": "https://open.spotify.com/album/4c2I5KEpliGFpP3YGY2jMq"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280924,
+      "name": "Puppet Parade",
+      "url": "https://open.spotify.com/track/1wK0EaN9EAuSNSp3uB3rgs"
     },
     {
       "album": {
@@ -20708,7 +20874,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 184746,
       "name": "scum.",
       "url": "https://open.spotify.com/track/2oj9rawGhSxYw8opagkA6V"
@@ -22708,7 +22874,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 180081,
       "name": "Sugar (feat JoJo)",
       "url": "https://open.spotify.com/track/3lErXBoKmIXTmqVw4CoUmI"
@@ -23588,7 +23754,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 268917,
       "name": "The Boys Have Been Away",
       "url": "https://open.spotify.com/track/4gPcUTwpuKdePsrqw3mUBK"
@@ -24458,7 +24624,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 173333,
       "name": "The Way She Goes",
       "url": "https://open.spotify.com/track/6V3Bv6Roj3vtfcSmJe8QMl"
@@ -24779,6 +24945,24 @@
     },
     {
       "album": {
+        "name": "THUM",
+        "url": "https://open.spotify.com/album/0fz4N5DS1SJ6jbNABL9UMr"
+      },
+      "artists": [
+        {
+          "name": "Violet Grohl",
+          "url": "https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131644,
+      "name": "THUM",
+      "url": "https://open.spotify.com/track/3yuaDt5vOxrQD06LrAQPj9"
+    },
+    {
+      "album": {
         "name": "Ties That Bind (feat. Courtney LaPlante of Spiritbox)",
         "url": "https://open.spotify.com/album/7KkQ2wX2VoNoEyFCfRzHwO"
       },
@@ -24842,6 +25026,24 @@
       "duration_ms": 219400,
       "name": "Time Waited",
       "url": "https://open.spotify.com/track/3YvHeJwoLvl06hHDKHRVDR"
+    },
+    {
+      "album": {
+        "name": "Empty Hands",
+        "url": "https://open.spotify.com/album/5lBm36eO5Us3NpTXaA9t9C"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207200,
+      "name": "Time Will Tell",
+      "url": "https://open.spotify.com/track/1v9OAyGabSeIOH2VWIJ0wx"
     },
     {
       "album": {
@@ -25242,6 +25444,24 @@
       "duration_ms": 189476,
       "name": "Touch Myself",
       "url": "https://open.spotify.com/track/79Ore5BQ07MSJHRjUs1K3x"
+    },
+    {
+      "album": {
+        "name": "Towers",
+        "url": "https://open.spotify.com/album/1c8opfck2GJiprPJByHUOp"
+      },
+      "artists": [
+        {
+          "name": "Lia Pappas-Kemps",
+          "url": "https://open.spotify.com/artist/7N15xabCPo5XjsUSTnGVes"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188933,
+      "name": "Towers",
+      "url": "https://open.spotify.com/track/5bfFCwTtflxfirt9d8Ls3S"
     },
     {
       "album": {
@@ -27298,7 +27518,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 216825,
       "name": "Whoever You Are...",
       "url": "https://open.spotify.com/track/761qRKAbGfoMYNx7O7HyXf"
@@ -27688,6 +27908,24 @@
       "duration_ms": 179340,
       "name": "WTCH",
       "url": "https://open.spotify.com/track/07S1I5r2tlpNg8QJDJewBJ"
+    },
+    {
+      "album": {
+        "name": "yeah right!",
+        "url": "https://open.spotify.com/album/0hk2As5b2BFleteKnBc2uM"
+      },
+      "artists": [
+        {
+          "name": "Cam Kahin",
+          "url": "https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158320,
+      "name": "yeah right!",
+      "url": "https://open.spotify.com/track/03HG5uO77JX5O3u8r0Cn0d"
     },
     {
       "album": {

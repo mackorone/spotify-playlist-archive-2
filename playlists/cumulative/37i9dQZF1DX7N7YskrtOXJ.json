@@ -1879,6 +1879,36 @@
     },
     {
       "album": {
+        "name": "La Diabla",
+        "url": "https://open.spotify.com/album/54yV9x0FxfEVmZPwPysUOo"
+      },
+      "artists": [
+        {
+          "name": "Toma 2",
+          "url": "https://open.spotify.com/artist/4R8tEiRjYy5OkYzDM2u097"
+        },
+        {
+          "name": "Los Wachiturros",
+          "url": "https://open.spotify.com/artist/1LUSs33lIrjmo5XTgX6Yoo"
+        },
+        {
+          "name": "1 de kal",
+          "url": "https://open.spotify.com/artist/25S9QqOslbH6r8cvnP3WY1"
+        },
+        {
+          "name": "El Adri Music",
+          "url": "https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159159,
+      "name": "La Diabla",
+      "url": "https://open.spotify.com/track/2c9TribYylkXZRuUVNuNEy"
+    },
+    {
+      "album": {
         "name": "La Makinita",
         "url": "https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL"
       },
@@ -4182,7 +4212,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 206240,
       "name": "T\u00edmido",
       "url": "https://open.spotify.com/track/4jdB97BKq7L6pOby20Nmed"

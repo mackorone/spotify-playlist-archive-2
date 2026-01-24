@@ -5674,7 +5674,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 226226,
       "name": "Post-Crucifixion",
       "url": "https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL"
@@ -7050,6 +7050,28 @@
       "duration_ms": 199481,
       "name": "Tus Asuntos",
       "url": "https://open.spotify.com/track/0tlQiM6xM6frP0jdYHT1Aw"
+    },
+    {
+      "album": {
+        "name": "T\u00e9 para tres",
+        "url": "https://open.spotify.com/album/5mZ8mPXT2oytxFLBv5lK5c"
+      },
+      "artists": [
+        {
+          "name": "Corvex",
+          "url": "https://open.spotify.com/artist/2E94EJ7lzS7wlcvpYMelWy"
+        },
+        {
+          "name": "Tweety Gonzalez",
+          "url": "https://open.spotify.com/artist/2vs2HDZj2aUy872GXT9tO3"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189043,
+      "name": "T\u00e9 para tres",
+      "url": "https://open.spotify.com/track/7DEkW2gPf6vZ17VjkQxMzN"
     },
     {
       "album": {

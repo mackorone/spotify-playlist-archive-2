@@ -2389,6 +2389,28 @@
     },
     {
       "album": {
+        "name": "If You\u2019re Not the One (Acoustic)",
+        "url": "https://open.spotify.com/album/72a8ItRcGOJfwQNcgVBuKM"
+      },
+      "artists": [
+        {
+          "name": "John Adams",
+          "url": "https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi"
+        },
+        {
+          "name": "Jae Hall",
+          "url": "https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151713,
+      "name": "If You\u2019re Not the One - Acoustic",
+      "url": "https://open.spotify.com/track/18EIbpObtonmDPeobklR4k"
+    },
+    {
+      "album": {
         "name": "In Too Deep (Acoustic)",
         "url": "https://open.spotify.com/album/017Bceqexkn7Lrxd9ZEhM7"
       },
@@ -4504,7 +4526,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 112301,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/4hqiwgmUKa641pPIwYeiIq"
@@ -5136,7 +5158,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 168831,
       "name": "What the World Needs Now Is Love - Acoustic",
       "url": "https://open.spotify.com/track/6Md8yvuJUzNcuHlLQbSYOf"

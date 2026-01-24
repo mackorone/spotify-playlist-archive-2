@@ -4,7 +4,7 @@
 
 > mylena drague quente demais pra sua pressão 🥇
 
-346 songs - 16 hr 17 min
+347 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Audi](https://open.spotify.com/track/2988kuv79kMRHfLHFucz7k) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Jô](https://open.spotify.com/artist/4DztvVriZDy8pMRiPBA6qI) | [Audi](https://open.spotify.com/album/0xkY0Q55DwJjnEUvkVVsM4) | 2:11 | 2023-08-18 | 2023-09-23 |
 | [Autêntica](https://open.spotify.com/track/4OhPvoDH9W9dwbNDsheGK7) | [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Trevor Whippa](https://open.spotify.com/artist/60hytLnjov7Xhc21EQYHOO), [MATHINVOKER](https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc) | [Autêntica](https://open.spotify.com/album/3Exvbk2Eg1aK2Qj827lT3r) | 3:01 | 2023-03-03 | 2023-04-01 |
 | [Baby Hair](https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6) | [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [Soud](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Baby Hair](https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo) | 2:33 | 2022-03-11 | 2024-12-14 |
+| [Bandida chata](https://open.spotify.com/track/5JcEzg4pdWcr76G0MXTqeY) | [Ana Rima](https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk), [VITOR VRIL](https://open.spotify.com/artist/1r4Ur6C9ZTPQQQXrgY1BM8) | [bandida chata \(original\)](https://open.spotify.com/album/1WiJNCtZ8MVQ2Bh7gZztEq) | 3:20 | 2026-01-23 |  |
 | [Bandidas Também Falam de Amor](https://open.spotify.com/track/0uMi0uuEPXERdlryQDYeCa) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Ian Durso](https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3) | [Bandidas Também Falam de Amor](https://open.spotify.com/album/1WUl20Dstb0rJ0Z7fcNGwz) | 2:46 | 2025-06-20 | 2025-08-02 |
 | [BASIC B!TCH](https://open.spotify.com/track/6l3cAnnlmlzWt1fizks5vv) | [iamBJAY](https://open.spotify.com/artist/44Ao9qICR4cSeI9SdM8Dkl), [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [BASIC B!TCH](https://open.spotify.com/album/5fcHnDltgaOhiOrnGc4apW) | 2:12 | 2024-05-10 | 2024-05-25 |
 | [Batom](https://open.spotify.com/track/6xCLJ9J2tD3MfC7YW6gOPF) | [THANE C](https://open.spotify.com/artist/3vgitNqM0i1ZK1ivLtcGKM), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [Batom](https://open.spotify.com/album/5W7BkRHgHbo263lL1HFoJK) | 3:25 | 2022-04-22 | 2022-05-28 |
@@ -231,7 +232,7 @@
 | [Oompa Loompa](https://open.spotify.com/track/17YRNfsbyA7wTOEhANAyK7) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Malvatrem](https://open.spotify.com/album/1ZPKYFpymZKgLc0T0Z9WDL) | 3:14 | 2023-10-06 | 2023-11-25 |
 | [Oompa Loompa](https://open.spotify.com/track/0Wg8XNchyTN5qlOfgXFEc7) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Oompa Loompa](https://open.spotify.com/album/47ZG3gfqIRftdUgcuo6k6M) | 3:14 | 2022-06-24 | 2023-10-11 |
 | [oqqcequerdemim?](https://open.spotify.com/track/5CAChdo0X3eN4AJey5HKb2) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [portas](https://open.spotify.com/album/2qdomH7WNWFYNSyVf8zXvd) | 3:27 | 2024-03-08 | 2024-03-23 |
-| [Original](https://open.spotify.com/track/2mxXZMEsOT93txYtkHmWLb) | [Deeplick](https://open.spotify.com/artist/7bitILn8c1VCsYwoT2ZQmY) | [Original](https://open.spotify.com/album/02VAL1s8Pv6lY8y2OrvC7E) | 3:32 | 2025-10-03 |  |
+| [Original](https://open.spotify.com/track/2mxXZMEsOT93txYtkHmWLb) | [Deeplick](https://open.spotify.com/artist/7bitILn8c1VCsYwoT2ZQmY) | [Original](https://open.spotify.com/album/02VAL1s8Pv6lY8y2OrvC7E) | 3:32 | 2025-10-03 | 2026-01-24 |
 | [Os 100](https://open.spotify.com/track/0a5B0NLxHmV0p0uK3IWqYV) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Os 100](https://open.spotify.com/album/5pKR7QsvIbyVQig07l8MFO) | 4:08 | 2026-01-19 |  |
 | [Ostentando](https://open.spotify.com/track/4CKyjcTtRl3wQBBBHnV5VQ) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v), [PROD.VAGO](https://open.spotify.com/artist/6CqNKE6Y7qRpFpHAGwVPtb) | [Ostentando](https://open.spotify.com/album/6k6zqReaQII7QjkJvh6YRq) | 2:34 | 2024-03-08 | 2024-03-30 |
 | [Outro Som de Sacanagem](https://open.spotify.com/track/4PylJL83J3Pl6m4NN2tmhm) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Vhulto](https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Outro Som de Sacanagem](https://open.spotify.com/album/3V0bygxwuP7I5rdeSZ20rh) | 1:55 | 2023-11-10 | 2024-03-09 |

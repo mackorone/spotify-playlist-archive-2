@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Voltage",
-  "num_followers": 74914,
+  "num_followers": 74925,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHFywjHNybH1dcumxcZmSn+5A7SZ",
+  "snapshot_id": "AAAAAACPXlC3ugXUkdyJbv8+Z8tAsWcT",
   "tracks": [
     {
       "added_at": "2026-01-16 00:00:17",
@@ -743,6 +743,26 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
+        "name": "Violence",
+        "url": "https://open.spotify.com/album/2lLOq3l8TyB3Nzfqm0SmzB"
+      },
+      "artists": [
+        {
+          "name": "Murdock",
+          "url": "https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl"
+        },
+        {
+          "name": "Ma\u00eblie",
+          "url": "https://open.spotify.com/artist/0X5iBtXZZhEEXjIvnpsdY4"
+        }
+      ],
+      "duration_ms": 161034,
+      "name": "Violence",
+      "url": "https://open.spotify.com/track/0U4qvX9sqWki2Zxr3oL2Zz"
+    },
+    {
+      "added_at": "2026-01-16 00:00:17",
+      "album": {
         "name": "Beamin\u2019 (K Motionz & skantia Remix)",
         "url": "https://open.spotify.com/album/4gmV6lUCXyhnOcUglQ0qPQ"
       },
@@ -807,26 +827,6 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
-        "name": "Violence",
-        "url": "https://open.spotify.com/album/2lLOq3l8TyB3Nzfqm0SmzB"
-      },
-      "artists": [
-        {
-          "name": "Murdock",
-          "url": "https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl"
-        },
-        {
-          "name": "Ma\u00eblie",
-          "url": "https://open.spotify.com/artist/0X5iBtXZZhEEXjIvnpsdY4"
-        }
-      ],
-      "duration_ms": 161034,
-      "name": "Violence",
-      "url": "https://open.spotify.com/track/0U4qvX9sqWki2Zxr3oL2Zz"
-    },
-    {
-      "added_at": "2026-01-16 00:00:17",
-      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
       },
@@ -859,6 +859,30 @@
       "duration_ms": 164571,
       "name": "Rhythm & Gash VIP",
       "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
+    },
+    {
+      "added_at": "2026-01-16 00:00:17",
+      "album": {
+        "name": "Bomb Squad (Bou Remix)",
+        "url": "https://open.spotify.com/album/1WLCIFIAjIJ6klq4kHGuWk"
+      },
+      "artists": [
+        {
+          "name": "Dominator",
+          "url": "https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn"
+        },
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        }
+      ],
+      "duration_ms": 288052,
+      "name": "Bomb Squad - Bou Remix",
+      "url": "https://open.spotify.com/track/6jGU17l4TnPAB3I97tCdD3"
     },
     {
       "added_at": "2026-01-16 00:00:17",
@@ -899,30 +923,6 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
-        "name": "Bomb Squad (Bou Remix)",
-        "url": "https://open.spotify.com/album/1WLCIFIAjIJ6klq4kHGuWk"
-      },
-      "artists": [
-        {
-          "name": "Dominator",
-          "url": "https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn"
-        },
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        },
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        }
-      ],
-      "duration_ms": 288052,
-      "name": "Bomb Squad - Bou Remix",
-      "url": "https://open.spotify.com/track/6jGU17l4TnPAB3I97tCdD3"
-    },
-    {
-      "added_at": "2026-01-16 00:00:17",
-      "album": {
         "name": "RUN",
         "url": "https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN"
       },
@@ -959,30 +959,6 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
-        "name": "Bad Boy Horns",
-        "url": "https://open.spotify.com/album/3W8GgxqEIZyiE4sOdGbCCt"
-      },
-      "artists": [
-        {
-          "name": "Kelvin 373",
-          "url": "https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD"
-        },
-        {
-          "name": "Waeys",
-          "url": "https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9"
-        },
-        {
-          "name": "Selecta J-Man",
-          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
-        }
-      ],
-      "duration_ms": 252342,
-      "name": "Bad Boy Horns",
-      "url": "https://open.spotify.com/track/3aAPSZ94zVWGPWcjDUjze8"
-    },
-    {
-      "added_at": "2026-01-16 00:00:17",
-      "album": {
         "name": "Warning",
         "url": "https://open.spotify.com/album/0L6dO6Mr6bqORUKsjtoeHs"
       },
@@ -1007,22 +983,26 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
-        "name": "Dancing In My Sleep",
-        "url": "https://open.spotify.com/album/1YvJahlJfGc47tP4foYhC2"
+        "name": "Bad Boy Horns",
+        "url": "https://open.spotify.com/album/3W8GgxqEIZyiE4sOdGbCCt"
       },
       "artists": [
         {
-          "name": "Ren\u00e9 LaVice",
-          "url": "https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v"
+          "name": "Kelvin 373",
+          "url": "https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD"
         },
         {
-          "name": "Tania Foster",
-          "url": "https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y"
+          "name": "Waeys",
+          "url": "https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9"
+        },
+        {
+          "name": "Selecta J-Man",
+          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
         }
       ],
-      "duration_ms": 202068,
-      "name": "Dancing In My Sleep",
-      "url": "https://open.spotify.com/track/4ZuB89GuIXL1pq0VCjP0n7"
+      "duration_ms": 252342,
+      "name": "Bad Boy Horns",
+      "url": "https://open.spotify.com/track/3aAPSZ94zVWGPWcjDUjze8"
     },
     {
       "added_at": "2026-01-16 00:00:17",
@@ -1043,18 +1023,22 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
-        "name": "Double Vision",
-        "url": "https://open.spotify.com/album/4EB5lFgeQTuq7xPpuBvEj5"
+        "name": "Dancing In My Sleep",
+        "url": "https://open.spotify.com/album/1YvJahlJfGc47tP4foYhC2"
       },
       "artists": [
         {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+          "name": "Ren\u00e9 LaVice",
+          "url": "https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v"
+        },
+        {
+          "name": "Tania Foster",
+          "url": "https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y"
         }
       ],
-      "duration_ms": 146742,
-      "name": "Double Vision",
-      "url": "https://open.spotify.com/track/1PgRBwqqo6HWujY3zLWd0N"
+      "duration_ms": 202068,
+      "name": "Dancing In My Sleep",
+      "url": "https://open.spotify.com/track/4ZuB89GuIXL1pq0VCjP0n7"
     },
     {
       "added_at": "2026-01-16 00:00:17",
@@ -1071,6 +1055,22 @@
       "duration_ms": 200228,
       "name": "Come With It",
       "url": "https://open.spotify.com/track/5molMz6TA3virLoLO8Hzn2"
+    },
+    {
+      "added_at": "2026-01-16 00:00:17",
+      "album": {
+        "name": "Double Vision",
+        "url": "https://open.spotify.com/album/4EB5lFgeQTuq7xPpuBvEj5"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        }
+      ],
+      "duration_ms": 146742,
+      "name": "Double Vision",
+      "url": "https://open.spotify.com/track/1PgRBwqqo6HWujY3zLWd0N"
     },
     {
       "added_at": "2026-01-16 00:00:17",

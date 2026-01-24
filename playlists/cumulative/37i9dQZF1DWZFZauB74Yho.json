@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Big Richard",
+  "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Della Mae",
   "name": "New Grass",
   "tracks": [
     {
@@ -176,7 +176,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 150334,
       "name": "American Elegy",
       "url": "https://open.spotify.com/track/4aly3QbwUf1YXwsusenvQq"
@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/4nMEWd9gO0ldSmerQdB7F1"
+      },
+      "artists": [
+        {
+          "name": "Carolina Chocolate Drops",
+          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212693,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/0fMQrpfVvDUFOZfH4oCXYR"
+    },
+    {
+      "album": {
         "name": "A Time For Every Season",
         "url": "https://open.spotify.com/album/7FBvmyfAq6g2guJQZ8FaGD"
       },
@@ -450,7 +468,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 165466,
       "name": "Bear Creek Clay",
       "url": "https://open.spotify.com/track/3HrhchVnpyeXwpmA5dW2zC"
@@ -603,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Black Bird",
+        "url": "https://open.spotify.com/album/2RDbuNxjXQ3q45FUgGuW2k"
+      },
+      "artists": [
+        {
+          "name": "Destinie Lynn",
+          "url": "https://open.spotify.com/artist/06s9YMqa9jvRYKKE2qrLrb"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159587,
+      "name": "Black Bird",
+      "url": "https://open.spotify.com/track/12K1fspXetlrNt5nGdLcmb"
+    },
+    {
+      "album": {
         "name": "Black Eyed Susie",
         "url": "https://open.spotify.com/album/7j9l2mD6SWzGRhNkqoEhto"
       },
@@ -654,7 +690,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 379576,
       "name": "Black Muddy River",
       "url": "https://open.spotify.com/track/56uENpwmYPdyAUZVqNSvyr"
@@ -854,7 +890,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 203141,
       "name": "Bluefield Mountain Wind",
       "url": "https://open.spotify.com/track/5r4X6eiwkdXXsQOon6awnY"
@@ -890,7 +926,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 235920,
       "name": "Boom",
       "url": "https://open.spotify.com/track/0TUHqN9omctG8MsSwJMhej"
@@ -988,7 +1024,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 182720,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/1HTkRCAwNETjsqc6d4Yluc"
@@ -1028,7 +1064,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 182973,
       "name": "Bury Me",
       "url": "https://open.spotify.com/track/4pLlXT4tFbuDCARVXHWIsH"
@@ -1224,7 +1260,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 198375,
       "name": "Circling the Drain",
       "url": "https://open.spotify.com/track/4lt6XYUxU6r5qUhGroEhQw"
@@ -1484,7 +1520,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 185840,
       "name": "Critter Junction",
       "url": "https://open.spotify.com/track/2lymScdF9PmxUGcKKfMZII"
@@ -1546,7 +1582,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 164253,
       "name": "Dancing on the Moon",
       "url": "https://open.spotify.com/track/3pNDRvu7SkvWls17f0qGPp"
@@ -1742,7 +1778,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 230733,
       "name": "Didn't Go Wrong",
       "url": "https://open.spotify.com/track/4CyXGgMZJeBIg0vU1V4X3Y"
@@ -2406,7 +2442,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 261733,
       "name": "Fiction",
       "url": "https://open.spotify.com/track/7y0RbeZ2L6kYS2BgrKLOtW"
@@ -2446,7 +2482,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 203800,
       "name": "Fireball",
       "url": "https://open.spotify.com/track/6f78Gdh2iVI2YU4PLbNYUm"
@@ -2718,7 +2754,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 188441,
       "name": "Ghosts are Weak",
       "url": "https://open.spotify.com/track/71f2ka5owKm2ocIEwnD7GD"
@@ -2794,7 +2830,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 141280,
       "name": "Glory Land Is Just in Sight",
       "url": "https://open.spotify.com/track/3DJbr0ruiNhsUiQANSwPsq"
@@ -2812,7 +2848,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 219786,
       "name": "Goat Canyon Trestle",
       "url": "https://open.spotify.com/track/6afac1BVf0zhsCiZQPSFgQ"
@@ -3132,7 +3168,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 192885,
       "name": "Heart Shaped Locket - Audiotree Live Version",
       "url": "https://open.spotify.com/track/0xtPw399HQvRWJ2ZUCM9kn"
@@ -3814,7 +3850,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 182920,
       "name": "If A Song Could Change Your Mind",
       "url": "https://open.spotify.com/track/2ClV3s396miWnFJwUNoOaS"
@@ -3832,7 +3868,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 216000,
       "name": "If I Don't Have You",
       "url": "https://open.spotify.com/track/4klp9IQkMHW90IK5BiY0fe"
@@ -4288,7 +4324,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 227911,
       "name": "Last of the Steam-Powered Trains",
       "url": "https://open.spotify.com/track/0TDJWvYbsz1jaGJswCsq9Z"
@@ -4492,7 +4528,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 179266,
       "name": "Let's Party About It",
       "url": "https://open.spotify.com/track/4RgRxtha0h0jxqbDz4dsr8"
@@ -4644,7 +4680,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 151000,
       "name": "Little Red Bird",
       "url": "https://open.spotify.com/track/3AfsvvUMCqzByCNlV6eYEa"
@@ -4680,7 +4716,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 212586,
       "name": "Lonely As It Gets",
       "url": "https://open.spotify.com/track/51R2mhekMWUWKwPk3wfSDK"
@@ -5232,7 +5268,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 277120,
       "name": "Move On",
       "url": "https://open.spotify.com/track/5KmP6dRaP4BW36oP2FOedl"
@@ -5250,7 +5286,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 152653,
       "name": "My Heart",
       "url": "https://open.spotify.com/track/0I0IhCuV0b2mQVHxTbC9zm"
@@ -5371,6 +5407,24 @@
     },
     {
       "album": {
+        "name": "Not Gonna Stop",
+        "url": "https://open.spotify.com/album/6Qr1XSCOhRloRAQ1vyKUG6"
+      },
+      "artists": [
+        {
+          "name": "Cold Chocolate",
+          "url": "https://open.spotify.com/artist/3nu3YCUn8klBFwQhaCYwAP"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160571,
+      "name": "Not Gonna Stop",
+      "url": "https://open.spotify.com/track/3qB9bowYQ9hIxTr8yFhSh5"
+    },
+    {
+      "album": {
         "name": "Nothing But Sky",
         "url": "https://open.spotify.com/album/2jOeQDJcc2Wadr6sDRsSzo"
       },
@@ -5400,7 +5454,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 163472,
       "name": "Nothing Like Trouble",
       "url": "https://open.spotify.com/track/60hAoBiqQmtabX2GrZdC5a"
@@ -5739,6 +5793,24 @@
     },
     {
       "album": {
+        "name": "Magic Accident",
+        "url": "https://open.spotify.com/album/6XH4Z9ccQxFascwYecVZEf"
+      },
+      "artists": [
+        {
+          "name": "Della Mae",
+          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189629,
+      "name": "Out Run 'Em",
+      "url": "https://open.spotify.com/track/3EMiSPQXljOEKxwbThRxLy"
+    },
+    {
+      "album": {
         "name": "Outrun The Rain",
         "url": "https://open.spotify.com/album/71QwOCif4gMjnlZeJLybdP"
       },
@@ -5994,6 +6066,24 @@
       "duration_ms": 333013,
       "name": "Possum",
       "url": "https://open.spotify.com/track/1LiPnexHN9Su77zJ3Uz4gO"
+    },
+    {
+      "album": {
+        "name": "Della Jane's Heart",
+        "url": "https://open.spotify.com/album/0qyVNOJ46PCOTgqwSy6HQT"
+      },
+      "artists": [
+        {
+          "name": "Appalachian Road Show",
+          "url": "https://open.spotify.com/artist/2QbK1N86iI11jUiRG2JgSM"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170093,
+      "name": "Possum Up a 'Simmon Tree",
+      "url": "https://open.spotify.com/track/6XUi6K31Od7prx0w5WZXYU"
     },
     {
       "album": {
@@ -6394,7 +6484,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 175853,
       "name": "Ready and Waiting",
       "url": "https://open.spotify.com/track/5smWk74x7rF1OGQWjZkPYa"
@@ -6416,7 +6506,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 174030,
       "name": "Red Bandana",
       "url": "https://open.spotify.com/track/57jkyzooZEkrKV8lVDRKxC"
@@ -6470,7 +6560,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 168500,
       "name": "Resurrection Power",
       "url": "https://open.spotify.com/track/3mmYqV9p5BBrUC50joEVkw"
@@ -6794,7 +6884,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 259920,
       "name": "Seminole Wind",
       "url": "https://open.spotify.com/track/1bKR7HCuCWjXPIaWxa3DJq"
@@ -6834,7 +6924,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 173461,
       "name": "Shake It For Me Baby (feat. Rob McCoury)",
       "url": "https://open.spotify.com/track/536geID7EzIvPztEwiX9aW"
@@ -7390,7 +7480,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 168000,
       "name": "String Loaded",
       "url": "https://open.spotify.com/track/07VqC1MOF6fqApquZ62xIs"
@@ -7594,7 +7684,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 194786,
       "name": "The Black & Gold",
       "url": "https://open.spotify.com/track/7pyCC9vwQ7yyHjfFEoHrMd"
@@ -7825,6 +7915,24 @@
     },
     {
       "album": {
+        "name": "The Real You",
+        "url": "https://open.spotify.com/album/6rM0gruotLpOmw11fLmhUt"
+      },
+      "artists": [
+        {
+          "name": "Colebrook Road",
+          "url": "https://open.spotify.com/artist/6FHPdJ9BsxkT8O6FwD5Dom"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157790,
+      "name": "The Real You",
+      "url": "https://open.spotify.com/track/2DzEgYIMxhtnQcwizQ6SK2"
+    },
+    {
+      "album": {
         "name": "The Shipping Tunes: Shipping Port / Shipping Polska",
         "url": "https://open.spotify.com/album/6nvN9PXOemFrpbaDl5KiBe"
       },
@@ -7974,7 +8082,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 239500,
       "name": "This Will End In Tears",
       "url": "https://open.spotify.com/track/67CG87THGcIMozIXM1qzVp"
@@ -8381,6 +8489,24 @@
     },
     {
       "album": {
+        "name": "Up from the Bottom",
+        "url": "https://open.spotify.com/album/2gwK6AWvVnJVji8CC3ceJV"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213680,
+      "name": "Up from the Bottom",
+      "url": "https://open.spotify.com/track/7gafoLtMMgxssDyy1hOibC"
+    },
+    {
+      "album": {
         "name": "Vagabond's Lament",
         "url": "https://open.spotify.com/album/4B3Po5bH2nk9Kcq4YlDw49"
       },
@@ -8602,7 +8728,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 181622,
       "name": "We're All Gonna Live",
       "url": "https://open.spotify.com/track/2z4AsS6ZOqyLg521VviwFR"
@@ -8972,7 +9098,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 376674,
       "name": "Winds of Rowan County",
       "url": "https://open.spotify.com/track/29gZwI1XQRkzZBnXAuCW4Q"
@@ -8990,7 +9116,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 158520,
       "name": "Working Man Blues",
       "url": "https://open.spotify.com/track/4QDFyUdP0ws9phMzr1HFoV"

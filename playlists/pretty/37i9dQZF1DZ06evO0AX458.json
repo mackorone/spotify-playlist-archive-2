@@ -1,12 +1,12 @@
 {
   "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 4582,
+  "num_followers": 4584,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXAXAAAAAAA3oXw4/psKcQVVrP0UJQUS",
+  "snapshot_id": "aXFogAAAAAACpiVO0/lB+M4Nugaf8UX3",
   "tracks": [
     {
       "added_at": null,
@@ -604,38 +604,6 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 92976,
-      "name": "History Reshits Itself",
-      "url": "https://open.spotify.com/track/68bm9z3WOGCnnqmOrm6PeT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Is Survived By",
-        "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 185653,
-      "name": "Non Fiction",
-      "url": "https://open.spotify.com/track/4iGn2PuMw7G2T6DrmSvZP8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "...To the Beat of a Dead Horse",
-        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
       "duration_ms": 98517,
       "name": "Suckerfish",
       "url": "https://open.spotify.com/track/24GkGstdibYrnnhfZWsFE4"
@@ -655,6 +623,38 @@
       "duration_ms": 177400,
       "name": "To Write Content",
       "url": "https://open.spotify.com/track/5x0Jn9gZDKu0IO6pXaQrKr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "...To the Beat of a Dead Horse",
+        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 92976,
+      "name": "History Reshits Itself",
+      "url": "https://open.spotify.com/track/68bm9z3WOGCnnqmOrm6PeT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Is Survived By",
+        "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 185653,
+      "name": "Non Fiction",
+      "url": "https://open.spotify.com/track/4iGn2PuMw7G2T6DrmSvZP8"
     }
   ],
   "unique_name": "This Is Touch\u00e9 Amor\u00e9",

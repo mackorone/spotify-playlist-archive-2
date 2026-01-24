@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 22 Jan 19:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 24 Jan 23:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 177473,
       "name": "2SIDED",
       "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
@@ -6545,6 +6545,24 @@
     },
     {
       "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
+    },
+    {
+      "album": {
         "name": "Apex",
         "url": "https://open.spotify.com/album/1F8XXwq1JefxbNWsDcwsEm"
       },
@@ -10938,7 +10956,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 258404,
       "name": "Better Than",
       "url": "https://open.spotify.com/track/2cC2Oykfq7leX6Z894GvOs"
@@ -23057,6 +23075,24 @@
     },
     {
       "album": {
+        "name": "CUSTARD",
+        "url": "https://open.spotify.com/album/2g5DFWfSU835yrSmmpXgxb"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125205,
+      "name": "CUSTARD",
+      "url": "https://open.spotify.com/track/3Q75PhqqfvttaWHYOE08EI"
+    },
+    {
+      "album": {
         "name": "Cut and Run",
         "url": "https://open.spotify.com/album/71q9hiRR1KJKWd6kWK47oH"
       },
@@ -27190,6 +27226,28 @@
       "duration_ms": 213145,
       "name": "Do It",
       "url": "https://open.spotify.com/track/5BDo6TzD8q0oNtqhhXU3nx"
+    },
+    {
+      "album": {
+        "name": "Do It (Yves Remix)",
+        "url": "https://open.spotify.com/album/0GuK2xpYuOvNbFqhRuSRa3"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        },
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197298,
+      "name": "Do It (Yves Remix)",
+      "url": "https://open.spotify.com/track/27v8QdBidbC5idqWHqPBBj"
     },
     {
       "album": {
@@ -34195,6 +34253,24 @@
     },
     {
       "album": {
+        "name": "Feels Like Heaven",
+        "url": "https://open.spotify.com/album/5SaGyl331ck5Z5CQaIntGz"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Feels Like Heaven",
+      "url": "https://open.spotify.com/track/1jWjsj9YKDoYhTVoZnSivY"
+    },
+    {
+      "album": {
         "name": "feelslikeimfallinginlove",
         "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
       },
@@ -35202,7 +35278,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 198490,
       "name": "First Light",
       "url": "https://open.spotify.com/track/1ZnGp63y8u3kyEzIyPRooQ"
@@ -35590,6 +35666,24 @@
       "duration_ms": 196835,
       "name": "Flies",
       "url": "https://open.spotify.com/track/4Opsw8gkQZB7ArERdDUlFJ"
+    },
+    {
+      "album": {
+        "name": "Flo Jackson",
+        "url": "https://open.spotify.com/album/7a50cJvGdEO7AfkEvOoCFS"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143444,
+      "name": "Flo Jackson",
+      "url": "https://open.spotify.com/track/4fwJzG3arwvfC1ZbRdracJ"
     },
     {
       "album": {
@@ -39758,7 +39852,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 625600,
       "name": "Glory Black",
       "url": "https://open.spotify.com/track/6E6g94L9v7DM9jLFCm9T98"
@@ -40374,6 +40468,24 @@
       "duration_ms": 205250,
       "name": "GODSTAINED",
       "url": "https://open.spotify.com/track/2IbtNIdNlVelpPNaRYEZdJ"
+    },
+    {
+      "album": {
+        "name": "God's Eye",
+        "url": "https://open.spotify.com/album/5iPaMXX4jgANF9uiEERtxi"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131653,
+      "name": "God\u2019s Eye",
+      "url": "https://open.spotify.com/track/3G600027WLRbsunHeYJ5G2"
     },
     {
       "album": {
@@ -41390,6 +41502,24 @@
       "duration_ms": 148965,
       "name": "Green Haired Girl (with TaTa, Jenn Carter & Dee Billz)",
       "url": "https://open.spotify.com/track/0wpQV02A8XpvvESSqtnbWu"
+    },
+    {
+      "album": {
+        "name": "\u539f",
+        "url": "https://open.spotify.com/album/4qTTzaU30PLhLJmD6lLzFm"
+      },
+      "artists": [
+        {
+          "name": "ONEUS",
+          "url": "https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Grenade",
+      "url": "https://open.spotify.com/track/69erutIC5E9VFHtDKerTkd"
     },
     {
       "album": {
@@ -47643,6 +47773,24 @@
     },
     {
       "album": {
+        "name": "I Could Get Used To This",
+        "url": "https://open.spotify.com/album/1Q6TuFF5GjmICIEVSkFCyd"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221586,
+      "name": "I Could Get Used To This",
+      "url": "https://open.spotify.com/track/4m9uyukaB0AEC5BKZb5Svw"
+    },
+    {
+      "album": {
         "name": "I Do I Do (Japanese Version)",
         "url": "https://open.spotify.com/album/7EAmwkFwXlhZAc7IWQpSGs"
       },
@@ -48092,7 +48240,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
@@ -52093,6 +52241,24 @@
     },
     {
       "album": {
+        "name": "iPhone 16",
+        "url": "https://open.spotify.com/album/1C3fLq81mnNcen9RS0MAgC"
+      },
+      "artists": [
+        {
+          "name": "xaviersobased",
+          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231728,
+      "name": "iPhone 16",
+      "url": "https://open.spotify.com/track/1m2uFz0LKl3jyniLBrUzGq"
+    },
+    {
+      "album": {
         "name": "iPod Touch",
         "url": "https://open.spotify.com/album/61txUE2reB1kl38f7GDiPq"
       },
@@ -56010,7 +56176,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 138706,
       "name": "L.U.C.K.Y",
       "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
@@ -56636,6 +56802,24 @@
       "duration_ms": 177350,
       "name": "last night's mascara",
       "url": "https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP"
+    },
+    {
+      "album": {
+        "name": "Last of a Dying Breed",
+        "url": "https://open.spotify.com/album/3ttt3IAhIjw42M0OXWbyJS"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149866,
+      "name": "Last of a Dying Breed",
+      "url": "https://open.spotify.com/track/1c2ArpI0RmBOk62Tf81xLI"
     },
     {
       "album": {
@@ -58526,7 +58710,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 342911,
       "name": "Limb of Leviticus",
       "url": "https://open.spotify.com/track/0HlX69ZzpBbm5epqZohOxD"
@@ -61528,7 +61712,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 178758,
       "name": "M-TRAIN",
       "url": "https://open.spotify.com/track/2BlcNm2vzejDiZD9MXbnny"
@@ -71080,7 +71264,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 215286,
       "name": "NOT TODAY",
       "url": "https://open.spotify.com/track/1tXniZMdXRV8FyUZHN51eS"
@@ -77556,6 +77740,24 @@
       "duration_ms": 175257,
       "name": "pop",
       "url": "https://open.spotify.com/track/5yRzgqZ4YP4DJA8XxqUiV5"
+    },
+    {
+      "album": {
+        "name": "POP DAT THANG",
+        "url": "https://open.spotify.com/album/4coCUxqLrNyiAfm38MjF2d"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138251,
+      "name": "POP DAT THANG",
+      "url": "https://open.spotify.com/track/0kav2DxndmxlsiT3pqXZjG"
     },
     {
       "album": {
@@ -94034,7 +94236,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 172191,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/6rjpIfWNWwzg7hd1KxDK5f"
@@ -95146,7 +95348,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 93882,
       "name": "SWING FIRST!",
       "url": "https://open.spotify.com/track/5Lml3cK67HrcMDOxaG6prT"
@@ -101436,7 +101638,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 204773,
       "name": "Thoroughbreds",
       "url": "https://open.spotify.com/track/1c4Oq2SYTnRzt1gg4zCl9q"
@@ -102344,6 +102546,24 @@
       "duration_ms": 214560,
       "name": "To Kill a Single Girl (Tequila)",
       "url": "https://open.spotify.com/track/06Q3EYMkRjqe5K3lSKABtN"
+    },
+    {
+      "album": {
+        "name": "To Love Somebody",
+        "url": "https://open.spotify.com/album/4H04wDfK72Ai0hCRIQ3FCq"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238341,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/3vzGF0Wj2cnUPPRaDq9sHO"
     },
     {
       "album": {
@@ -108558,7 +108778,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 253169,
       "name": "We Were Never the Same",
       "url": "https://open.spotify.com/track/7z37xqq3y94KyVl7VWB88x"
@@ -112778,6 +112998,24 @@
       "duration_ms": 215000,
       "name": "Yes I Can",
       "url": "https://open.spotify.com/track/1VCFeIlAO2NeVL3zjxgjc6"
+    },
+    {
+      "album": {
+        "name": "YESSA",
+        "url": "https://open.spotify.com/album/7wuu3YL70sJIhOrPYhT9Ty"
+      },
+      "artists": [
+        {
+          "name": "Summrs",
+          "url": "https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182278,
+      "name": "YESSA",
+      "url": "https://open.spotify.com/track/6jQvu4OsiBg3NXQFQI3r1B"
     },
     {
       "album": {

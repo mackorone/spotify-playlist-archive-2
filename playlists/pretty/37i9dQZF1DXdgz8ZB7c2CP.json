@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>. Featuring Skrillex.",
-  "num_followers": 841507,
+  "num_followers": 841552,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHvzPvlgnpSuu8ekvu1q5a7hZUCC",
+  "snapshot_id": "AAAAAB6UqO9ClBvpt38Thk1Td+LKUt1L",
   "tracks": [
     {
       "added_at": "2026-01-16 19:10:38",
@@ -57,6 +57,30 @@
       "url": "https://open.spotify.com/track/4g5eIUBlJu0kDKoczE8fsW"
     },
     {
+      "added_at": "2026-01-23 05:00:35",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/46ll2ZERjJ5Jl40uLauUsk"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+        }
+      ],
+      "duration_ms": 169098,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/4P5CWKmgT5kYZ3GRSm7Cb4"
+    },
+    {
       "added_at": "2026-01-16 19:10:38",
       "album": {
         "name": "Runaway",
@@ -91,6 +115,34 @@
       "duration_ms": 138857,
       "name": "Helium",
       "url": "https://open.spotify.com/track/6boSF01JluHcotXBvUcnEz"
+    },
+    {
+      "added_at": "2026-01-23 05:00:35",
+      "album": {
+        "name": "Only Human (MPH Remix)",
+        "url": "https://open.spotify.com/album/3NxHT2iJHRMYenPLvmjYRA"
+      },
+      "artists": [
+        {
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Only Human - MPH Remix",
+      "url": "https://open.spotify.com/track/6s0XiiD5NE5MetCoOVY0yM"
     },
     {
       "added_at": "2026-01-16 19:10:38",
@@ -181,6 +233,22 @@
       "url": "https://open.spotify.com/track/5BAmp1eGsIdMCL3CvE5IXB"
     },
     {
+      "added_at": "2026-01-23 05:00:35",
+      "album": {
+        "name": "FLY",
+        "url": "https://open.spotify.com/album/1dEIVNNEbbxWViMh9BGDbb"
+      },
+      "artists": [
+        {
+          "name": "OLIIVER",
+          "url": "https://open.spotify.com/artist/0Juw9IhCvPF0zNy0Ev6W4p"
+        }
+      ],
+      "duration_ms": 139451,
+      "name": "FLY",
+      "url": "https://open.spotify.com/track/4DKjdm5HFmqP26WiZWxHmS"
+    },
+    {
       "added_at": "2026-01-16 19:10:38",
       "album": {
         "name": "Kora",
@@ -247,6 +315,26 @@
       "duration_ms": 211200,
       "name": "I Wanna Dance",
       "url": "https://open.spotify.com/track/4h6pqrJOddCuUzethG6MxJ"
+    },
+    {
+      "added_at": "2026-01-23 05:00:35",
+      "album": {
+        "name": "What?",
+        "url": "https://open.spotify.com/album/2GUaxUbNC01TmfkOt7xaju"
+      },
+      "artists": [
+        {
+          "name": "Neumonic",
+          "url": "https://open.spotify.com/artist/2vmS0sFSxIZccEf510Xb52"
+        },
+        {
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        }
+      ],
+      "duration_ms": 179138,
+      "name": "What?",
+      "url": "https://open.spotify.com/track/16z23DF8JEpNPoRnq74GSw"
     },
     {
       "added_at": "2026-01-16 19:10:38",
@@ -337,6 +425,22 @@
       "url": "https://open.spotify.com/track/5hp9Guyy5ruomDkJymon5y"
     },
     {
+      "added_at": "2026-01-23 05:00:35",
+      "album": {
+        "name": "For A Minute",
+        "url": "https://open.spotify.com/album/2G2R8laDahmTeuV4Dk2CFH"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "duration_ms": 164968,
+      "name": "For A Minute",
+      "url": "https://open.spotify.com/track/08IvuRiCCTUzIlGHxsDPMW"
+    },
+    {
       "added_at": "2026-01-16 19:10:38",
       "album": {
         "name": "Take Me Under",
@@ -397,6 +501,26 @@
       "url": "https://open.spotify.com/track/2OE8b4XUccHrareZNJRSLc"
     },
     {
+      "added_at": "2026-01-23 05:00:35",
+      "album": {
+        "name": "Salvation",
+        "url": "https://open.spotify.com/album/1zsu1rQovx6F94EoHZ8cq2"
+      },
+      "artists": [
+        {
+          "name": "Rival",
+          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
+        },
+        {
+          "name": "Brooke Williams",
+          "url": "https://open.spotify.com/artist/47eA8knxvpD9CZsqHn4Mxz"
+        }
+      ],
+      "duration_ms": 243692,
+      "name": "Salvation",
+      "url": "https://open.spotify.com/track/0DDPijrMHuXaZNpunoHg5q"
+    },
+    {
       "added_at": "2026-01-16 19:10:38",
       "album": {
         "name": "Broadcast",
@@ -435,6 +559,22 @@
       "duration_ms": 168311,
       "name": "VIRUS",
       "url": "https://open.spotify.com/track/5RVdc5KXrZp7RElvkY5eSd"
+    },
+    {
+      "added_at": "2026-01-23 05:00:35",
+      "album": {
+        "name": "Fall Apart",
+        "url": "https://open.spotify.com/album/7E0xnIHATdZ8HHkNMkiHJt"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Fall Apart",
+      "url": "https://open.spotify.com/track/5FaSEefua3HfVIufoCPDyo"
     },
     {
       "added_at": "2026-01-16 19:10:38",
@@ -539,38 +679,6 @@
     {
       "added_at": "2026-01-16 19:10:38",
       "album": {
-        "name": "Someone Said",
-        "url": "https://open.spotify.com/album/0wT4IpCPB3GPxfk72z7BJC"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Varg\u00b2\u2122",
-          "url": "https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy"
-        },
-        {
-          "name": "Eurohead",
-          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
-        },
-        {
-          "name": "Whitearmor",
-          "url": "https://open.spotify.com/artist/5NV1oaGE9tOgbcwJVUfa8j"
-        },
-        {
-          "name": "swedm\u00ae",
-          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
-        }
-      ],
-      "duration_ms": 168400,
-      "name": "Someone Said",
-      "url": "https://open.spotify.com/track/01uBSBXlAv25daalVLFusP"
-    },
-    {
-      "added_at": "2026-01-16 19:10:38",
-      "album": {
         "name": "Purest Omen",
         "url": "https://open.spotify.com/album/1IkaaD1Gfb51nOZGisXqeo"
       },
@@ -607,26 +715,6 @@
       "duration_ms": 180616,
       "name": "CONTROL",
       "url": "https://open.spotify.com/track/0t20e3FAuQ4F4iQJwzvhxs"
-    },
-    {
-      "added_at": "2026-01-16 19:10:38",
-      "album": {
-        "name": "GHOST WORLD",
-        "url": "https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw"
     },
     {
       "added_at": "2026-01-16 19:10:38",
@@ -700,7 +788,7 @@
           "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
         },
         {
-          "name": "Siiickbrain",
+          "name": "SIIICKBRAIN",
           "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
         },
         {
@@ -727,6 +815,26 @@
       "duration_ms": 180000,
       "name": "Eight08",
       "url": "https://open.spotify.com/track/3IyJdQKc5ySnn25ORoijH0"
+    },
+    {
+      "added_at": "2026-01-23 05:00:35",
+      "album": {
+        "name": "From Now",
+        "url": "https://open.spotify.com/album/7yp2yyMXwUVCl2933mHBRp"
+      },
+      "artists": [
+        {
+          "name": "Ale Rossi",
+          "url": "https://open.spotify.com/artist/6nmUky4CQGbC4CLsrKhovF"
+        },
+        {
+          "name": "Delta",
+          "url": "https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv"
+        }
+      ],
+      "duration_ms": 172153,
+      "name": "From Now",
+      "url": "https://open.spotify.com/track/0DM3lSIBNK4ydX6jId7XbC"
     },
     {
       "added_at": "2026-01-16 19:10:38",
@@ -763,6 +871,26 @@
       "duration_ms": 239986,
       "name": "Right Time",
       "url": "https://open.spotify.com/track/48MoatAq65R3q5fRalsXq6"
+    },
+    {
+      "added_at": "2026-01-23 05:00:35",
+      "album": {
+        "name": "SOUND.",
+        "url": "https://open.spotify.com/album/6NqrfQ3WXZMxaexIwC4if1"
+      },
+      "artists": [
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        },
+        {
+          "name": "AlienBlaze",
+          "url": "https://open.spotify.com/artist/79eu73GhyfHgYTGt6lTn34"
+        }
+      ],
+      "duration_ms": 122222,
+      "name": "SOUND.",
+      "url": "https://open.spotify.com/track/649t050Eod5GaddelEFgqV"
     },
     {
       "added_at": "2026-01-16 19:10:38",
@@ -991,26 +1119,6 @@
     {
       "added_at": "2026-01-16 19:10:38",
       "album": {
-        "name": "Bleak",
-        "url": "https://open.spotify.com/album/12qRVlqbfh6ZL877VQTGGX"
-      },
-      "artists": [
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "A Girl Named Sue",
-          "url": "https://open.spotify.com/artist/5RxgxGNZIXJc48ZGWTi3rJ"
-        }
-      ],
-      "duration_ms": 228444,
-      "name": "Bleak",
-      "url": "https://open.spotify.com/track/1ft92cdKiLMSGkfobE1oXX"
-    },
-    {
-      "added_at": "2026-01-16 19:10:38",
-      "album": {
         "name": "Only 1",
         "url": "https://open.spotify.com/album/3KjJcGFRoytYYhWdsXuMdl"
       },
@@ -1047,26 +1155,6 @@
       "duration_ms": 174186,
       "name": "move ting",
       "url": "https://open.spotify.com/track/035MWW56Wl7Wqzc0zk7HzR"
-    },
-    {
-      "added_at": "2026-01-16 19:10:38",
-      "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/1TgoCuBwx1xQ4a0o3KE2Vj"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Tsu Nami",
-          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
-        }
-      ],
-      "duration_ms": 155200,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/3sK0vSa0R8YjWd5wARutEM"
     },
     {
       "added_at": "2026-01-16 19:10:38",
@@ -1151,22 +1239,6 @@
       "duration_ms": 165633,
       "name": "Go Fast",
       "url": "https://open.spotify.com/track/2TLq5fijG1v1mbAYMP4LnM"
-    },
-    {
-      "added_at": "2026-01-16 19:10:38",
-      "album": {
-        "name": "LET'S DO IT AGAIN",
-        "url": "https://open.spotify.com/album/3sBL8Q9aL8hQcLFrgE8BKe"
-      },
-      "artists": [
-        {
-          "name": "Angrybaby",
-          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
-        }
-      ],
-      "duration_ms": 157183,
-      "name": "LET'S DO IT AGAIN",
-      "url": "https://open.spotify.com/track/5nTCBh0P4Glm3iTsnuqWUi"
     },
     {
       "added_at": "2026-01-16 19:10:38",
@@ -1367,26 +1439,6 @@
     {
       "added_at": "2026-01-16 19:10:38",
       "album": {
-        "name": "crystallized (feat. In\u00e9z)",
-        "url": "https://open.spotify.com/album/5PnlLTo9MLkbd4noHgisk9"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "In\u00e9z",
-          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
-        }
-      ],
-      "duration_ms": 217646,
-      "name": "crystallized (feat. In\u00e9z)",
-      "url": "https://open.spotify.com/track/6YiIWuVXS4AqF1KvUGMwyx"
-    },
-    {
-      "added_at": "2026-01-16 19:10:38",
-      "album": {
         "name": "TRIPPIN",
         "url": "https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ"
       },
@@ -1539,26 +1591,6 @@
       "duration_ms": 161586,
       "name": "pressure",
       "url": "https://open.spotify.com/track/6QWqy98sVOhrj00laLuhGb"
-    },
-    {
-      "added_at": "2026-01-16 19:10:38",
-      "album": {
-        "name": "Monsoon",
-        "url": "https://open.spotify.com/album/34FbsM0FQZpATKLGKaw4c5"
-      },
-      "artists": [
-        {
-          "name": "Emma Louise",
-          "url": "https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718"
-        },
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        }
-      ],
-      "duration_ms": 170526,
-      "name": "Monsoon",
-      "url": "https://open.spotify.com/track/5pVySA9qkHt5qsh8oVUDma"
     },
     {
       "added_at": "2026-01-16 19:10:38",
@@ -1851,26 +1883,6 @@
     {
       "added_at": "2026-01-16 19:10:38",
       "album": {
-        "name": "Antagonist Remixes (Part II)",
-        "url": "https://open.spotify.com/album/3hnm57ktjH8oJcses785xf"
-      },
-      "artists": [
-        {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
-        },
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        }
-      ],
-      "duration_ms": 203024,
-      "name": "Lost In Mumbai - IMANU Remix",
-      "url": "https://open.spotify.com/track/0VWayAeovmiY52OeltaRo9"
-    },
-    {
-      "added_at": "2026-01-16 19:10:38",
-      "album": {
         "name": "Contorted",
         "url": "https://open.spotify.com/album/4F1kwA5jCOMjf4ew9IOOzv"
       },
@@ -1935,22 +1947,6 @@
       "duration_ms": 218740,
       "name": "U",
       "url": "https://open.spotify.com/track/02N9mCw2pOMe1P6ZLY3KAG"
-    },
-    {
-      "added_at": "2026-01-16 19:10:38",
-      "album": {
-        "name": "Shaking Things Up",
-        "url": "https://open.spotify.com/album/4w5K1o40LvlRVUMXR6nU5A"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 216480,
-      "name": "Shaking Things Up",
-      "url": "https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu"
     }
   ],
   "unique_name": "creamy",

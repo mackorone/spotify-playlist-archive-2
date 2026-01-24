@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=g3a\-0y\-4SVKK0vhrWKGw7w>Sunmisola Agbebi</a>
 
-295 songs - 1 day 10 hr 52 min
+295 songs - 1 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Emiyekamo \- Live](https://open.spotify.com/track/6p6eP52vRGv6lU6HT1f9OQ) | [FAITH JOHNMARK](https://open.spotify.com/artist/68mcxsXFYp8krIXE94VGuN) | [Emiyekamo \(Live\)](https://open.spotify.com/album/7La6DxY5GHjDs0jM41KjPB) | 4:31 | 2024-12-13 | 2025-01-03 |
 | [Emmanuel](https://open.spotify.com/track/5jiwZ0QanieOPplSznG8RQ) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [I AM WORSHIP](https://open.spotify.com/album/4KeOD3GEkjsXVZjGUkVs4c) | 9:04 | 2024-06-14 |  |
 | [Emperor of the Universe](https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Emperor of the Universe](https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK) | 16:05 | 2024-05-09 |  |
+| [ENOUGH FOR ME](https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [ENOUGH FOR ME](https://open.spotify.com/album/5P2RR6rOO8lTNvVxMObKmj) | 9:40 | 2026-01-23 |  |
 | [Ese Oh](https://open.spotify.com/track/1ZqDPxxUBrtcvGcVaSkM9F) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Ese Oh](https://open.spotify.com/album/1AiNnVpBZifWahwUa04Ila) | 3:33 | 2025-12-19 |  |
 | [Esi](https://open.spotify.com/track/4LA1XEz0lVr9J0uB3s4x3w) | [Adeyinka Alaseyori](https://open.spotify.com/artist/47kN9Eik5yW2KPQciui9ob) | [Esi Rere \(Good Report\)](https://open.spotify.com/album/0VtAjPpPKQMXfpx2ovHtyA) | 9:58 | 2024-08-02 | 2025-01-31 |
 | [Esé O](https://open.spotify.com/track/0DlKSCYyP3nPYgI9HnJ6Al) | [Tkeyz](https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI), [Joshua Israel PF](https://open.spotify.com/artist/0orGfqicES8VglKwgfIN7F) | [Esé O](https://open.spotify.com/album/2rzOBW7l6Tum9Yt08khyKV) | 8:04 | 2025-11-14 | 2026-01-02 |
@@ -176,6 +177,7 @@
 | [Let It Show \(Live\)](https://open.spotify.com/track/0qShlAPNKT5UHib8bLn3X2) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Let It Show \(Live\)](https://open.spotify.com/album/1yorjTPD4R9JExtEfY70ka) | 7:59 | 2025-01-10 |  |
 | [Let Your Fire Fall](https://open.spotify.com/track/0JsLo39R8tVtTr4ZhGB1Jr) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i), [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Let Your Fire Fall](https://open.spotify.com/album/5Ypr1NVLf9CcH8VOJKG76I) | 5:51 | 2025-11-14 | 2025-12-19 |
 | [Little Me](https://open.spotify.com/track/3UZoiBEuHoKIb6TqJGKi7Z) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Emerge](https://open.spotify.com/album/1yewzTyF45OJ3pMYKWS5Uz) | 4:15 | 2024-10-25 | 2024-12-13 |
+| [Living Water](https://open.spotify.com/track/5alNLu0rlk7k7AkPu3SuI4) | [Deborah Billyben](https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj) | [Armour of God](https://open.spotify.com/album/5bDAlflNpBtDRWZ6Pfg1iu) | 12:41 | 2026-01-23 |  |
 | [Logan Ti O De](https://open.spotify.com/track/6xXbKuOenaaq45LvF0VFtb) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [The Spirit of Light](https://open.spotify.com/album/7BqAuNsaQdbaxlwTXl9RLO) | 4:21 | 2024-05-09 |  |
 | [Maisha Yangu \(B'Ola\) \- Live](https://open.spotify.com/track/6JS9iqFbzf4nCRyXtIZCS2) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Maisha Yangu \(B'Ola\) \[Live\]](https://open.spotify.com/album/4f288ErjAgfMrpxPIHvazp) | 4:13 | 2024-07-19 | 2025-09-12 |
 | [Maisha Yangu / Baba Yangu, Baba Yangu \- Live in Kenya](https://open.spotify.com/track/0FBvsqVV4egLLgn9NIH4xT) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Maisha Yangu / Baba Yangu, Baba Yangu \(Live in Kenya\)](https://open.spotify.com/album/09oMzJiQ4rr6Q84fLXRFR7) | 9:02 | 2024-08-16 |  |
@@ -264,8 +266,6 @@
 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 | 2024-05-09 |  |
 | [Too Oiled](https://open.spotify.com/track/3fPWeU5dawXN52Z9geFYFR) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Too Oiled](https://open.spotify.com/album/0aqXe5YKPqIkGQgoTuDZKE) | 12:14 | 2025-05-30 |  |
 | [Totally Available](https://open.spotify.com/track/7u5PJy1meljL8c5xXhZ0Ta) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [In His Presence, Vol\. 14 \- Ogayoloo](https://open.spotify.com/album/2il35SOSddOGws33OLG1UI) | 6:30 | 2025-05-30 | 2025-07-04 |
-| [Track 1](https://open.spotify.com/track/5alNLu0rlk7k7AkPu3SuI4) | [Deborah Billyben](https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-23 |  |
-| [Track 4](https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-23 |  |
 | [Wait](https://open.spotify.com/track/7Jr30GSDrdnNnxuTUZmCAe) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [Wait](https://open.spotify.com/album/2PfyWIrTlp8z4TbXffQfvU) | 9:20 | 2025-08-01 | 2025-09-19 |
 | [War Room Worship, Pt\. 4](https://open.spotify.com/track/64XhCvtsgCAJbOWxsUe5Wh) | [Minister Afam](https://open.spotify.com/artist/2OuwAasMkYHQXewbtvrIMK) | [War Room Worship, Pt\. 4](https://open.spotify.com/album/2hZvzNbOJWmtp8ufg9U26j) | 9:54 | 2024-08-23 | 2025-02-14 |
 | [Water Into Wine](https://open.spotify.com/track/6IpGnGGovqChZSLlIKXvfk) | [Otejiri Imah](https://open.spotify.com/artist/0RL7PPiJZSMN2RhaWVIp1N), [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn), [Naomi Classik](https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW) | [Water into Wine](https://open.spotify.com/album/4JXFozDG3PEcRuRp0nlSKR) | 9:42 | 2025-11-28 |  |

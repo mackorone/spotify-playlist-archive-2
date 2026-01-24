@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where roots meet what\u2019s next. Cover: Kashus Culpepper",
+  "description": "Where roots meet what\u2019s next. Cover: Cat Clyde",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -186,6 +186,24 @@
       "duration_ms": 272524,
       "name": "A Certain Someone",
       "url": "https://open.spotify.com/track/1dL5v7WwDVuUmQTk95paoa"
+    },
+    {
+      "album": {
+        "name": "A Friend Like You",
+        "url": "https://open.spotify.com/album/4ajQeQmThn806ORN8hEg60"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367080,
+      "name": "A Friend Like You",
+      "url": "https://open.spotify.com/track/2t0s7VqkEetNbUbyPyErHq"
     },
     {
       "album": {
@@ -1036,6 +1054,24 @@
       "duration_ms": 219405,
       "name": "Angel",
       "url": "https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL"
+    },
+    {
+      "album": {
+        "name": "Another Time",
+        "url": "https://open.spotify.com/album/6PbLj6Qoo928owJBKDwele"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219725,
+      "name": "Another Time",
+      "url": "https://open.spotify.com/track/7BsRJECC3NmMLOBR4zNcVh"
     },
     {
       "album": {
@@ -2138,7 +2174,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 220002,
       "name": "Broken Wing Bird (feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/3PJffkCcfVxEs4ciUHKo8R"
@@ -3762,6 +3798,24 @@
       "duration_ms": 204693,
       "name": "Diamond Studded Shoes",
       "url": "https://open.spotify.com/track/5vJzPLEkqOXaqKZqzsYt9r"
+    },
+    {
+      "album": {
+        "name": "Diggin' In The Coal",
+        "url": "https://open.spotify.com/album/1CnwCmtcrcZalQlYwEziT6"
+      },
+      "artists": [
+        {
+          "name": "Leah Blevins",
+          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195412,
+      "name": "Diggin' In The Coal",
+      "url": "https://open.spotify.com/track/5CbWfWeIXn74mwjThbnZge"
     },
     {
       "album": {
@@ -11198,7 +11252,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 225261,
       "name": "Parking Lot Prayers",
       "url": "https://open.spotify.com/track/0TMwDEVotcHkOwQb2lgZcl"

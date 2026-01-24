@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Z\u00fambale Primo, & Coraz\u00f3n Serrano.",
-  "num_followers": 78866,
+  "num_followers": 78895,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
+        "name": "12 A\u00f1os de Historia",
+        "url": "https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn"
+      },
+      "artists": [
+        {
+          "name": "Los Cumbieros",
+          "url": "https://open.spotify.com/artist/1oxiRPCo3i3tVs9nbcIYdF"
+        }
+      ],
+      "duration_ms": 178586,
+      "name": "La Rumbera",
+      "url": "https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
         "name": "Mi Decisi\u00f3n",
         "url": "https://open.spotify.com/album/6zfpEB0wUGsmsMgsxcPyyd"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 254850,
       "name": "Mi Decisi\u00f3n",
       "url": "https://open.spotify.com/track/67k7yjg8G46fmLQj19YXc8"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
-        "name": "12 A\u00f1os de Historia",
-        "url": "https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn"
-      },
-      "artists": [
-        {
-          "name": "Los Cumbieros",
-          "url": "https://open.spotify.com/artist/1oxiRPCo3i3tVs9nbcIYdF"
-        }
-      ],
-      "duration_ms": 178586,
-      "name": "La Rumbera",
-      "url": "https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Con M\u00e1s Sed, Sed, Sed",
-        "url": "https://open.spotify.com/album/36JZENel0gYjI758f7wdDL"
-      },
-      "artists": [
-        {
-          "name": "La Banda Tropikal de Vallenar",
-          "url": "https://open.spotify.com/artist/61S5D7HbBCFMHFV77354nD"
-        }
-      ],
-      "duration_ms": 211022,
-      "name": "Tenemos Sed",
-      "url": "https://open.spotify.com/track/3tUZSfOxeROwCicMofYeew"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "Siempre Villanos",
         "url": "https://open.spotify.com/album/14yl58zWBYJ70CziQoaA6E"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 220203,
       "name": "Maldita Sea la Primera Vez",
       "url": "https://open.spotify.com/track/3lMCr3w4Z1wnugLe1TMaQ4"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "Con M\u00e1s Sed, Sed, Sed",
+        "url": "https://open.spotify.com/album/36JZENel0gYjI758f7wdDL"
+      },
+      "artists": [
+        {
+          "name": "La Banda Tropikal de Vallenar",
+          "url": "https://open.spotify.com/artist/61S5D7HbBCFMHFV77354nD"
+        }
+      ],
+      "duration_ms": 211022,
+      "name": "Tenemos Sed",
+      "url": "https://open.spotify.com/track/3tUZSfOxeROwCicMofYeew"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
+        "name": "La Diuca",
+        "url": "https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7"
+      },
+      "artists": [
+        {
+          "name": "Zumba Ranchera",
+          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
+        }
+      ],
+      "duration_ms": 200248,
+      "name": "La Diuca",
+      "url": "https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
         "name": "Yo Lo Canto y Tu Lo Bailas",
         "url": "https://open.spotify.com/album/3UW6tbYhtJYrYVGR0U85W1"
       },
@@ -1139,6 +1155,22 @@
       "duration_ms": 231393,
       "name": "Matalas",
       "url": "https://open.spotify.com/track/7pSYLS1okWaevRLU2oXCqa"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "Tornado Ranchero",
+        "url": "https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON"
+      },
+      "artists": [
+        {
+          "name": "Tornado Ranchero",
+          "url": "https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl"
+        }
+      ],
+      "duration_ms": 267859,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1159,38 +1191,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "La Diuca",
-        "url": "https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7"
-      },
-      "artists": [
-        {
-          "name": "Zumba Ranchera",
-          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
-        }
-      ],
-      "duration_ms": 200248,
-      "name": "La Diuca",
-      "url": "https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
-        "name": "18 Exitos",
-        "url": "https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c"
-      },
-      "artists": [
-        {
-          "name": "Los Rancheros De Rio Maule",
-          "url": "https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW"
-        }
-      ],
-      "duration_ms": 254733,
-      "name": "De Paisano a Paisano",
-      "url": "https://open.spotify.com/track/7Efl38yKPpMdl5mxFTrvpE"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "Me Voy a Emborrachar",
         "url": "https://open.spotify.com/album/6TnjtS7lx7GB4Ku22NX8ZW"
       },
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Tornado Ranchero",
-        "url": "https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON"
+        "name": "18 Exitos",
+        "url": "https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c"
       },
       "artists": [
         {
-          "name": "Tornado Ranchero",
-          "url": "https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl"
+          "name": "Los Rancheros De Rio Maule",
+          "url": "https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW"
         }
       ],
-      "duration_ms": 267859,
-      "name": "Como T\u00fa",
-      "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
+      "duration_ms": 254733,
+      "name": "De Paisano a Paisano",
+      "url": "https://open.spotify.com/track/7Efl38yKPpMdl5mxFTrvpE"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "18 Exitos",
-        "url": "https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c"
-      },
-      "artists": [
-        {
-          "name": "Los Rancheros De Rio Maule",
-          "url": "https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW"
-        }
-      ],
-      "duration_ms": 253960,
-      "name": "Mujer Traicionera",
-      "url": "https://open.spotify.com/track/470NyufWXbCRyJTh35n4Go"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "Para Mi Gente Campesina",
         "url": "https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 267335,
       "name": "Abrazado de un Poste",
       "url": "https://open.spotify.com/track/1XruxMWn7b7WjTiw6ItLDG"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "18 Exitos",
+        "url": "https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c"
+      },
+      "artists": [
+        {
+          "name": "Los Rancheros De Rio Maule",
+          "url": "https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW"
+        }
+      ],
+      "duration_ms": 253960,
+      "name": "Mujer Traicionera",
+      "url": "https://open.spotify.com/track/470NyufWXbCRyJTh35n4Go"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
+        "name": "Una Asesina",
+        "url": "https://open.spotify.com/album/6WlJ3NLnNwaNZHPUHCWuUD"
+      },
+      "artists": [
+        {
+          "name": "Kevin y Sus Lumaquinos",
+          "url": "https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E"
+        }
+      ],
+      "duration_ms": 242472,
+      "name": "Una Asesina",
+      "url": "https://open.spotify.com/track/7eiRJ8pHqh2hHPwGt1Onsb"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
         "name": "Entre el Amor y el Odio",
         "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 154511,
       "name": "Quisiera y No Quisiera",
       "url": "https://open.spotify.com/track/4WADI81zhZC8YQGKLYeb76"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
-        "name": "Una Asesina",
-        "url": "https://open.spotify.com/album/6WlJ3NLnNwaNZHPUHCWuUD"
-      },
-      "artists": [
-        {
-          "name": "Kevin y Sus Lumaquinos",
-          "url": "https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E"
-        }
-      ],
-      "duration_ms": 242472,
-      "name": "Una Asesina",
-      "url": "https://open.spotify.com/track/7eiRJ8pHqh2hHPwGt1Onsb"
     },
     {
       "added_at": "2025-09-18 20:11:00",

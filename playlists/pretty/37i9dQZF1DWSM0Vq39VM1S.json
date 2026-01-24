@@ -1,12 +1,12 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388683,
+  "num_followers": 388652,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAwfLSbEWoK0QZinUDxpbuJc9Psw",
+  "snapshot_id": "AAAAAA5Lo0PcTvuM4gQc4BIQSuyJ30mR",
   "tracks": [
     {
       "added_at": "2026-01-15 23:00:37",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-01-15 23:00:37",
       "album": {
+        "name": "Against The Current",
+        "url": "https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 216426,
+      "name": "Against The Current",
+      "url": "https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ"
+    },
+    {
+      "added_at": "2026-01-15 23:00:37",
+      "album": {
         "name": "Summerinlove",
         "url": "https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 310853,
       "name": "Disarray",
       "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
-    },
-    {
-      "added_at": "2026-01-15 23:00:37",
-      "album": {
-        "name": "Against The Current",
-        "url": "https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 216426,
-      "name": "Against The Current",
-      "url": "https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ"
     },
     {
       "added_at": "2026-01-15 23:00:37",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-01-15 23:00:37",
       "album": {
-        "name": "The Long Way Round (Deluxe)",
-        "url": "https://open.spotify.com/album/0dnzHJaJXNEEgpBvpe4J0A"
-      },
-      "artists": [
-        {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
-        }
-      ],
-      "duration_ms": 211844,
-      "name": "I Love You, But",
-      "url": "https://open.spotify.com/track/4JXugjlzGFW1TALHNfTqOp"
-    },
-    {
-      "added_at": "2026-01-15 23:00:37",
-      "album": {
         "name": "The Eyes Of C\u00e9cilia",
         "url": "https://open.spotify.com/album/0jNSfn0ePvYRkY3AofwJSt"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 185344,
       "name": "My Whole Life",
       "url": "https://open.spotify.com/track/34GAk6onUPTSyOsISSQY3L"
+    },
+    {
+      "added_at": "2026-01-15 23:00:37",
+      "album": {
+        "name": "The Long Way Round (Deluxe)",
+        "url": "https://open.spotify.com/album/0dnzHJaJXNEEgpBvpe4J0A"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 211844,
+      "name": "I Love You, But",
+      "url": "https://open.spotify.com/track/4JXugjlzGFW1TALHNfTqOp"
     },
     {
       "added_at": "2026-01-15 23:00:37",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Guernica Club, Merdi Simanjuntak
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,143 likes - 101 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,157 likes - 101 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Curtains](https://open.spotify.com/track/0cTbckdChO9Z4xdVy6FL6k) | [Guernica Club](https://open.spotify.com/artist/3vT1EkYKu5O7ZOL9BjWTXn), [Merdi Simanjuntak](https://open.spotify.com/artist/2knUiLoFc2NCZl3Ky9lWtu) | [Curtains](https://open.spotify.com/album/5Rrm3or86YWiPpmf0IUalL) | 4:38 |
 | 2 | [Tenggelam](https://open.spotify.com/track/1SZMxDGWDiKa9Jb5van3nA) | [Flowr Pit](https://open.spotify.com/artist/3FOqYio7C8ihO8MciypqLv) | [Super Possible](https://open.spotify.com/album/28y4KlQklqbpzWvjJtTmUU) | 4:02 |
-| 3 | [Ini Adanya](https://open.spotify.com/track/1eW5GFRRr8xF1oTeiaFw7X) | [T\. Rucira](https://open.spotify.com/artist/1o0RBJNVBuMCyPxvLi0iMC) | [Vol\. 1 \(Prolog\)](https://open.spotify.com/album/1h4j9BfwvCnwIQjyThDtMS) | 3:06 |
+| 3 | [nulla](https://open.spotify.com/track/30LlunIkCklG8xjlpDKfAH) | [T\. Rucira](https://open.spotify.com/artist/1o0RBJNVBuMCyPxvLi0iMC) | [nulla, vol.1](https://open.spotify.com/album/4uagI2pWOO8sq0v9vl0V6q) | 3:48 |
 | 4 | [Newsflash](https://open.spotify.com/track/0Jah2KF4v0i6YFvD3wwzdW) | [Cassette Tape](https://open.spotify.com/artist/45d9rjxmTAPHleESx39ao2) | [Newsflash](https://open.spotify.com/album/5tLfDNbqFbdyMCGFrAHLuD) | 3:05 |
 | 5 | [Angin Selatan](https://open.spotify.com/track/4f22ZxgN56vpzaAQ8VGCwr) | [starrducc](https://open.spotify.com/artist/0nUXjxScWvmUE4Jkd1Uh2Y) | [Starrducc III](https://open.spotify.com/album/7t6HCXPMGUP8cl9uz449NZ) | 4:40 |
 | 6 | [Tiga Benam Menara](https://open.spotify.com/track/03dnnlcWDAQQWWhD5QlIqb) | [Binar](https://open.spotify.com/artist/0Q0tNebCddkZXmn5MQBCol) | [Suaka](https://open.spotify.com/album/6bsc9ENITUChf39Icx4rdp) | 3:32 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 | 100 | [Minggu](https://open.spotify.com/track/29oaLVw5BEusRDauIyCfwK) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc), [Dzulfahmi](https://open.spotify.com/artist/3e07AHzXnSbfuIBc6IHNio) | [Minggu](https://open.spotify.com/album/20BlkwZZJfzNj6xTxPrehi) | 3:38 |
 | 101 | [Take Me](https://open.spotify.com/track/7Ix7tEAw8le0lP3YSJFPp3) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 3:38 |
 
-Snapshot ID: `AAAAAJRc+tiU9JZ+fZZy+BIWM7z5gbud`
+Snapshot ID: `AAAAAA0xNyDENSJHqG8w4w1JKUSckWZD`

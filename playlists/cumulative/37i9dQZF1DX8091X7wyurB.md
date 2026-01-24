@@ -4,7 +4,7 @@
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-767 songs - 3 day 5 hr 7 min
+767 songs - 3 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Emmanuel](https://open.spotify.com/track/5huGWDGfNMC7rC05Z6tqXl) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Songs of the Spirit](https://open.spotify.com/album/5MgNmvdoouYvbg05neKNkv) | 7:43 | 2024-09-13 | 2024-09-20 |
 | [Emmanuel Reloaded](https://open.spotify.com/track/6AsF3FYa3dpc31GwRPUjnF) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx), [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx), [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz) | [Emmanuel Reloaded](https://open.spotify.com/album/2xbcCQD5ATKq4Z6AYl6RfB) | 9:19 | 2025-06-06 | 2025-06-13 |
 | [Emperor of the Universe](https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Emperor of the Universe](https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK) | 16:05 | 2024-02-02 | 2024-02-09 |
+| [ENOUGH FOR ME](https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [ENOUGH FOR ME](https://open.spotify.com/album/5P2RR6rOO8lTNvVxMObKmj) | 9:40 | 2026-01-23 |  |
 | [EPHPHATHA](https://open.spotify.com/track/6VMUu3ZzyZ0JWxebwGHNrL) | [Deborah Ajayi](https://open.spotify.com/artist/5BSaqURPjcHhZCV7wgOYSA) | [EPHPHATHA](https://open.spotify.com/album/3rHMJcx5EM67HGJspt7Cy1) | 9:43 | 2025-07-04 | 2025-07-11 |
 | [Esandleni](https://open.spotify.com/track/7LTDINonhUaOiWTyN3AxCI) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Esandleni](https://open.spotify.com/album/4GG6rS5yCifLj4BpOzkmab) | 5:36 | 2025-08-18 | 2025-09-26 |
 | [Ese \(Thank You\)](https://open.spotify.com/track/1vS7QapA3eXAVkhjbnYKpX) | [Becky Larry\-Izamoje](https://open.spotify.com/artist/0AGAoKVTIRwtQll1aMeoiv) | [Ese \(Thank You\)](https://open.spotify.com/album/3js7Nt0bKja4ZG0PkS1Vpw) | 4:59 | 2022-06-30 | 2023-02-16 |
@@ -666,7 +667,6 @@
 | [Tonight](https://open.spotify.com/track/09Tu5558FHLKxR4BVUQmlW) | [Benjamin Kaggwa](https://open.spotify.com/artist/7LbOkDaLcWqMi4tXGCNPUF), [Johnmarie](https://open.spotify.com/artist/05tDEWwNTo2dZHNmeOKWUE) | [Tonight](https://open.spotify.com/album/19o3kGSlZh0MjW8we93RSr) | 3:10 | 2024-05-10 | 2024-06-07 |
 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 | 2023-12-05 |  |
 | [TOTORI \(The Name of Jesus\)](https://open.spotify.com/track/21rTE3IBtnxuVE1tmt90Ac) | [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [TOTORI \(The Name of Jesus\)](https://open.spotify.com/album/6QKDQjlkZlsm2V0T4gxjZj) | 3:24 | 2023-05-12 | 2023-06-23 |
-| [Track 4](https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-23 |  |
 | [Tremble \- Live](https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Glory & Wonder](https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU) | 5:09 | 2024-07-19 |  |
 | [Trust In God \- Radio Version](https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Trust In God \(Radio Version\)](https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv) | 4:03 | 2023-07-28 | 2024-02-16 |
 | [Turbulent Skies](https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:33 | 2023-09-08 | 2024-10-02 |

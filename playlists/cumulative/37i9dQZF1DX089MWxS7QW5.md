@@ -2,7 +2,7 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: JUNNY\(주니\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: SEUNGHOO\(승후\)\)
 
 599 songs - 1 day 8 hr 12 min
 

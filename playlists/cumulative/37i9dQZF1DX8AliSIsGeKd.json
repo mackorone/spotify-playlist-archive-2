@@ -2427,8 +2427,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Acid Sequences",
+        "url": "https://open.spotify.com/album/2QDQuPjnc6bhnjJbW9AUwj"
       },
       "artists": [
         {
@@ -4374,6 +4374,24 @@
       "duration_ms": 369859,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/6q6xBekc6hm1ydA78L6CeK"
+    },
+    {
+      "album": {
+        "name": "Picture: Volkoder",
+        "url": "https://open.spotify.com/album/5AA55B0S08IQx9qp4BPVq1"
+      },
+      "artists": [
+        {
+          "name": "Volkoder",
+          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181874,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/7nboixHsDQbJkHHjz72pIY"
     },
     {
       "album": {
@@ -40610,6 +40628,24 @@
     {
       "album": {
         "name": "Forever",
+        "url": "https://open.spotify.com/album/1YpCza3ggh2ZuPnoGzzgXP"
+      },
+      "artists": [
+        {
+          "name": "Lampe",
+          "url": "https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291778,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/6hkzD15EqnBtqjKZ3eILt4"
+    },
+    {
+      "album": {
+        "name": "Forever",
         "url": "https://open.spotify.com/album/0Ud7t6Ub18TtbqbhqX4CuG"
       },
       "artists": [
@@ -46554,7 +46590,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 446520,
       "name": "Half A Ever",
       "url": "https://open.spotify.com/track/6UEBE6tg4aSLOLbuACXAy1"
@@ -67825,8 +67861,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Switching Levels EP",
+        "url": "https://open.spotify.com/album/6kBxNtjfu3lbXUFX2YkhNZ"
       },
       "artists": [
         {
@@ -69478,6 +69514,36 @@
       "duration_ms": 164433,
       "name": "Manzanita",
       "url": "https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA"
+    },
+    {
+      "album": {
+        "name": "Maphupho",
+        "url": "https://open.spotify.com/album/1fBr7po8qVZXagfIEtu9Lk"
+      },
+      "artists": [
+        {
+          "name": "Township Rebellion",
+          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
+        },
+        {
+          "name": "CIOZ",
+          "url": "https://open.spotify.com/artist/43B3rN5TKnZLpfusky1fnp"
+        },
+        {
+          "name": "Onset Music Group",
+          "url": "https://open.spotify.com/artist/191W2veGxkx4OXrhyN89RI"
+        },
+        {
+          "name": "Zandimaz",
+          "url": "https://open.spotify.com/artist/3VAR7yz7PjAVF2ApyufhdG"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201337,
+      "name": "Maphupho",
+      "url": "https://open.spotify.com/track/6yFnn5MFTyGEN4BAymbBJD"
     },
     {
       "album": {
@@ -79025,8 +79091,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Until We Meet Again",
+        "url": "https://open.spotify.com/album/0BHheZxTmxC2fZh6mbCVx2"
       },
       "artists": [
         {
@@ -81693,8 +81759,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "OOMM EP",
+        "url": "https://open.spotify.com/album/2z86cnm1m7KqdZYBmETsIB"
       },
       "artists": [
         {
@@ -107519,6 +107585,28 @@
     },
     {
       "album": {
+        "name": "THA TRIP",
+        "url": "https://open.spotify.com/album/6wadJLC6nVEtlhvsYoF2ub"
+      },
+      "artists": [
+        {
+          "name": "Janis Zielinski",
+          "url": "https://open.spotify.com/artist/0qqVoFZdP1OB0N9FkGfJ4D"
+        },
+        {
+          "name": "Ollie Lishman",
+          "url": "https://open.spotify.com/artist/266LAiHzDxPPRJldh2CPX0"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160869,
+      "name": "THA TRIP",
+      "url": "https://open.spotify.com/track/7AEJRHIPu2fKSm9E3ARHn0"
+    },
+    {
+      "album": {
         "name": "Thade",
         "url": "https://open.spotify.com/album/66T4JSExNeXeVUHg3WCstT"
       },
@@ -114833,42 +114921,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Lampe",
-          "url": "https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq"
-        }
-      ],
-      "date_added": "2026-01-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/6hkzD15EqnBtqjKZ3eILt4"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Township Rebellion",
-          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
-        }
-      ],
-      "date_added": "2026-01-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/6yFnn5MFTyGEN4BAymbBJD"
-    },
-    {
-      "album": {
         "name": "Track Your Steps",
         "url": "https://open.spotify.com/album/4Eq9q4Ib6WClxr44or8fHQ"
       },
@@ -115674,7 +115726,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 227730,
       "name": "True (feelings for you)",
       "url": "https://open.spotify.com/track/2xmFiiYZXgAJF9Eu3FOaYQ"

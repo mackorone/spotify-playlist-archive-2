@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: natori なとり
 
-1,035 songs - 2 day 11 hr 22 min
+1,036 songs - 2 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [Red:birthmark](https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Red:birthmark](https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj) | 3:36 | 2023-05-09 | 2023-05-31 |
 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 | 2023-05-09 | 2023-12-15 |
 | [Retry Now](https://open.spotify.com/track/7gKt5lOImlJ2bOOcrODFQY) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [Retry Now](https://open.spotify.com/album/5WTKvvgEGjvC39sOPFekjB) | 2:02 | 2025-08-14 |  |
+| [Rivals and Equals](https://open.spotify.com/track/1pUcAjkI2SDa81ky3g7bAD) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [Rivals and Equals](https://open.spotify.com/album/1DZRcae6Y7l75XoPqj0eYh) | 2:31 | 2026-01-22 |  |
 | [ROCKSTAR](https://open.spotify.com/track/22wzqoECjwKEZEw37WbAXX) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Best Adobum](https://open.spotify.com/album/4G1L7sZheq5RAFNbqSbp3O) | 3:43 | 2025-04-08 | 2025-05-23 |
 | [Rollerskates](https://open.spotify.com/track/0rF90QZvRPwbaUW9oWKXrm) | [End of the World](https://open.spotify.com/artist/0b59cVa1STVENq3i7wkcHV) | [Chameleon](https://open.spotify.com/album/7lIManImBDxFptYJylm8mB) | 3:22 | 2023-11-29 | 2023-12-08 |
 | [Rollerskates](https://open.spotify.com/track/2s4ErjWLSAVZSdYoqAhfcQ) | [End of the World](https://open.spotify.com/artist/0b59cVa1STVENq3i7wkcHV) | [Chameleon \(Deluxe\)](https://open.spotify.com/album/2rhsKbAqtAGNmxXpcTtTvC) | 3:22 | 2023-05-09 | 2023-09-22 |

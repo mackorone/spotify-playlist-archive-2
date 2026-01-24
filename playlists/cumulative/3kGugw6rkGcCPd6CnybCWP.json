@@ -77,7 +77,7 @@
     },
     {
       "album": {
-        "name": "California",
+        "name": "California (Radio Edit)",
         "url": "https://open.spotify.com/album/3TuKbkTwwZvdpZ5lYyZJTo"
       },
       "artists": [
@@ -90,7 +90,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 204119,
-      "name": "California",
+      "name": "California - Radio Edit",
       "url": "https://open.spotify.com/track/00NvDiyBeyErGKoPKAW8GH"
     },
     {
@@ -809,6 +809,24 @@
     },
     {
       "album": {
+        "name": "Hardly Know Her",
+        "url": "https://open.spotify.com/album/5kpOB3QejOEIWHmcJ8nZlE"
+      },
+      "artists": [
+        {
+          "name": "Lipstick",
+          "url": "https://open.spotify.com/artist/7uFXs2KLMId1XYKLSbQlzv"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189239,
+      "name": "Hardly Know Her",
+      "url": "https://open.spotify.com/track/2UaCdxvJaX7lmezW3YiGIf"
+    },
+    {
+      "album": {
         "name": "Heading Out",
         "url": "https://open.spotify.com/album/3MHolAh5hdccEvWypHo6qy"
       },
@@ -1130,6 +1148,24 @@
       "duration_ms": 245760,
       "name": "Look at me",
       "url": "https://open.spotify.com/track/59O07Sj5VVQ8SXeuHCltN7"
+    },
+    {
+      "album": {
+        "name": "Lot 6",
+        "url": "https://open.spotify.com/album/2xlOHmTUeDsLd1p6oED4jO"
+      },
+      "artists": [
+        {
+          "name": "Mavis",
+          "url": "https://open.spotify.com/artist/2qpx3DGtYPLO2upKev1nxG"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400464,
+      "name": "Lot 6",
+      "url": "https://open.spotify.com/track/1nFBLa9z3aNQReOtonsTFY"
     },
     {
       "album": {
@@ -1930,6 +1966,24 @@
       "duration_ms": 230997,
       "name": "The Axe And The Tree",
       "url": "https://open.spotify.com/track/60keYGcrWfPvBNn53Ho0wY"
+    },
+    {
+      "album": {
+        "name": "Archive",
+        "url": "https://open.spotify.com/album/1fG3rsdIsT9i2ysubVZQAH"
+      },
+      "artists": [
+        {
+          "name": "Vann's Nebula",
+          "url": "https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282575,
+      "name": "The Battlefield",
+      "url": "https://open.spotify.com/track/6ZsI0iTfApqX1fFczChBrk"
     },
     {
       "album": {

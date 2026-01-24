@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAM9cpkOD4LaYY3iIgt3cjylxIQKFDP",
+  "snapshot_id": "AAAM+OH07TOdT+prKp8YXu3VtAh0FOZr",
   "tracks": [
     {
       "added_at": "2025-12-11 13:51:04",
@@ -575,7 +575,7 @@
     {
       "added_at": "2026-01-16 18:28:40",
       "album": {
-        "name": "California",
+        "name": "California (Radio Edit)",
         "url": "https://open.spotify.com/album/3TuKbkTwwZvdpZ5lYyZJTo"
       },
       "artists": [
@@ -585,7 +585,7 @@
         }
       ],
       "duration_ms": 204119,
-      "name": "California",
+      "name": "California - Radio Edit",
       "url": "https://open.spotify.com/track/00NvDiyBeyErGKoPKAW8GH"
     },
     {
@@ -731,6 +731,54 @@
       "duration_ms": 178386,
       "name": "Juvenile",
       "url": "https://open.spotify.com/track/4KnXS53TqnWKPAHgkDE7kC"
+    },
+    {
+      "added_at": "2026-01-23 10:46:19",
+      "album": {
+        "name": "Archive",
+        "url": "https://open.spotify.com/album/1fG3rsdIsT9i2ysubVZQAH"
+      },
+      "artists": [
+        {
+          "name": "Vann's Nebula",
+          "url": "https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM"
+        }
+      ],
+      "duration_ms": 282575,
+      "name": "The Battlefield",
+      "url": "https://open.spotify.com/track/6ZsI0iTfApqX1fFczChBrk"
+    },
+    {
+      "added_at": "2026-01-23 10:46:34",
+      "album": {
+        "name": "Lot 6",
+        "url": "https://open.spotify.com/album/2xlOHmTUeDsLd1p6oED4jO"
+      },
+      "artists": [
+        {
+          "name": "Mavis",
+          "url": "https://open.spotify.com/artist/2qpx3DGtYPLO2upKev1nxG"
+        }
+      ],
+      "duration_ms": 400464,
+      "name": "Lot 6",
+      "url": "https://open.spotify.com/track/1nFBLa9z3aNQReOtonsTFY"
+    },
+    {
+      "added_at": "2026-01-23 10:50:23",
+      "album": {
+        "name": "Hardly Know Her",
+        "url": "https://open.spotify.com/album/5kpOB3QejOEIWHmcJ8nZlE"
+      },
+      "artists": [
+        {
+          "name": "Lipstick",
+          "url": "https://open.spotify.com/artist/7uFXs2KLMId1XYKLSbQlzv"
+        }
+      ],
+      "duration_ms": 189239,
+      "name": "Hardly Know Her",
+      "url": "https://open.spotify.com/track/2UaCdxvJaX7lmezW3YiGIf"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

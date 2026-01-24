@@ -1375,6 +1375,24 @@
     },
     {
       "album": {
+        "name": "BREATHE!",
+        "url": "https://open.spotify.com/album/2DK3WE4fJz4YgvaPz4ZXkw"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209395,
+      "name": "BREATHE!",
+      "url": "https://open.spotify.com/track/7pQ5f4zkmaS5G264xtbCvf"
+    },
+    {
+      "album": {
         "name": "By My Side",
         "url": "https://open.spotify.com/album/0TDvceI2QvHwWToJJ8stu4"
       },
@@ -1405,7 +1423,7 @@
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 257760,
+      "duration_ms": 257761,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/5Rty3bOR625NBZXPmwOhJ9"
     },

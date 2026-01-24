@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-467 songs - 1 day 0 hr 42 min
+469 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [EAT YOU UP](https://open.spotify.com/track/0MKnQvS2nCL3AC6Acd4NLY) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [RAVEPOP](https://open.spotify.com/album/1mLzn3i4NwDW4cOg2wJsig) | 2:00 | 2024-09-09 |  |
 | [EAT YOU UP](https://open.spotify.com/track/0MeybRC4lyCjjYRAWDd2Ht) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [EAT YOU UP + RUSSY'S BIG OL' BUTT](https://open.spotify.com/album/7Dpf0PTYYfOF4lpS4YEwEC) | 2:00 | 2024-03-24 |  |
 | [EAT YOU UP \- Single Version](https://open.spotify.com/track/0PYguVkr2AQZBqWoCUgDLd) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [EAT YOU UP + RUSSY'S BIG OL' BUTT](https://open.spotify.com/album/7Dpf0PTYYfOF4lpS4YEwEC) | 2:41 | 2024-02-20 |  |
-| [Ecstasy](https://open.spotify.com/track/3LbpWLzCv8FycJaAqHthdi) | [ZephyrInTheWind](https://open.spotify.com/artist/2lqQ3jGN37e45ZjxAvRT1E), [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [Back On Top](https://open.spotify.com/album/6NYYBa0pcmhh6yrD9iYo5V) | 3:52 | 2025-01-08 |  |
+| [Ecstasy](https://open.spotify.com/track/3LbpWLzCv8FycJaAqHthdi) | [Zephyrelis](https://open.spotify.com/artist/5e7CZipmXEEi0UbdLTUCJ8), [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [Back On Top](https://open.spotify.com/album/6NYYBa0pcmhh6yrD9iYo5V) | 3:52 | 2025-01-08 |  |
 | [edge of time](https://open.spotify.com/track/6gB9Aawe3IJG17x1gjONev) | [Ashley Ninelives](https://open.spotify.com/artist/75f7kE3UP14RoDP8tEAPnE) | [cheshire days](https://open.spotify.com/album/1hLHnPf5helwdhFCOgGjSi) | 3:26 | 2025-10-20 |  |
 | [EDGE PLAY \- theSpackster Remix](https://open.spotify.com/track/2LslfETQSqe0qHEkGgJuSi) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy), [theSpackster](https://open.spotify.com/artist/7lxDzdUasFvfuMwNGU55Sg) | [EDGE PLAY \(FURRY RAVER REMIX\)](https://open.spotify.com/album/0KM1JlCbomdxUyMCwEv31M) | 1:37 | 2024-06-09 |  |
 | [ember](https://open.spotify.com/track/12ItWZIjCZ62hZJEtow1YT) | [ghostsocial](https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN) | [mutt county](https://open.spotify.com/album/4Jc4ExxRw4sMNLJWfgRzZr) | 1:39 | 2025-01-25 |  |
@@ -255,6 +255,7 @@
 | [MAKE BELIEVE](https://open.spotify.com/track/67B3YH3qezACMExwDEn93L) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [MAKE BELIEVE](https://open.spotify.com/album/6R5q0bJAGn4MizUfbiEGL8) | 2:08 | 2024-09-24 |  |
 | [MAKE BELIEVE](https://open.spotify.com/track/18w8b0tvqJyUGRb3O2Vice) | [Mek\-9](https://open.spotify.com/artist/1hwHio6WU1HAhrevPbEqTQ), [Kazumi](https://open.spotify.com/artist/4mkTeXc0HFXcXFItgDMXak), [Hayden](https://open.spotify.com/artist/2JYPMgBbY6Or8BI27GV1YN) | [MAW OFF](https://open.spotify.com/album/3xiaksDxR2jk6ztHhrSTJI) | 4:54 | 2024-07-22 |  |
 | [Make It Last](https://open.spotify.com/track/21a21D9bfQNXs6H8nvrrbH) | [Rowan Bailey](https://open.spotify.com/artist/2S2nLlaVZc0uAJNhfz2m5R) | [Make It Last](https://open.spotify.com/album/3v4XbrHe4CJh3TOiEoFZkV) | 3:13 | 2024-11-18 | 2025-08-13 |
+| [Means For Me](https://open.spotify.com/track/6u89aNSrS1wZybJ8EE7Yr0) | [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [Means For Me](https://open.spotify.com/album/36c6YiTV5eTKfjXnZ87Doi) | 1:44 | 2026-01-23 |  |
 | [MEDICINE](https://open.spotify.com/track/6O6DxmtNsR2c52oJkqyfOo) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [TRANQUIL](https://open.spotify.com/album/1rbdkQxI6hqQ2x3vfdEEEC) | 2:58 | 2025-04-17 |  |
 | [memories i can't replace](https://open.spotify.com/track/30Rb5WwyJESVTg0GwA7FQ0) | [Ivory Rasmus](https://open.spotify.com/artist/01mSRpKFT1xUPcIWCMnVwo) | [memories i can't replace](https://open.spotify.com/album/7yQiKXTTXJyVIgfTfIr1QY) | 2:26 | 2024-08-15 |  |
 | [Memory Merge](https://open.spotify.com/track/5usdxPXJmVeqwheEYreUoo) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Memory Merge](https://open.spotify.com/album/10TkVdtVrvg5Pcm4jsnRPg) | 4:32 | 2024-05-20 |  |
@@ -374,6 +375,7 @@
 | [Side Effects](https://open.spotify.com/track/3BCBxtROaMqaFXBPNdrFiA) | [fearozzles](https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns), [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU) | [Side Effects](https://open.spotify.com/album/45Ix4hesCtMI2Hg1u457TW) | 2:20 | 2024-10-21 |  |
 | [Silhouette](https://open.spotify.com/track/0fC9GePxGbjfuOuGJLcLlh) | [GrieferPig](https://open.spotify.com/artist/7DmWu55IMdbyjRKmhsgTA6), [Trey Husk](https://open.spotify.com/artist/557mWkaCfEfpnEGuNSlG2d), [Metajoker](https://open.spotify.com/artist/2fkfwkrtCqUBWuYOdg2iFO) | [Ponies At Dawn Fusion](https://open.spotify.com/album/4OGFquHWqzLZIAonNWdDwh) | 3:25 | 2026-01-17 |  |
 | [Silly Plans \~ Revisit](https://open.spotify.com/track/5vP1NGTKuXXaEpU6pDdFrx) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Silly Plans \~ Revisit](https://open.spotify.com/album/2Ef4YpCkxaLfkC3kE12yZt) | 2:36 | 2023-12-05 |  |
+| [skeleton](https://open.spotify.com/track/5CpFnf53jOpKvPiOxse77C) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [skeleton](https://open.spotify.com/album/5wgc9OU0XuIYtRJAiRJRS2) | 2:32 | 2026-01-24 |  |
 | [Sleep Deprived](https://open.spotify.com/track/1C5KmO8eaEnorSCyJ40YP1) | [Tenkitsune](https://open.spotify.com/artist/3npM0ZkW5qRUL5Y7ihHRrU) | [Dreamers Fall Pt\. 1](https://open.spotify.com/album/0VqDEbZdtGhcLe31jomCan) | 3:40 | 2023-06-14 |  |
 | [Sleep For Tonight](https://open.spotify.com/track/0hK1TRuegL0eGH7El9ZdZd) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ), [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [D.Y.H.H.](https://open.spotify.com/album/0Ehm7iU4wjsp0wuYizhzmA) | 3:29 | 2023-11-22 |  |
 | [Sleep For Tonight](https://open.spotify.com/track/6piSAqL8tuM6pV3grSf5iJ) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ), [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Sleep For Tonight](https://open.spotify.com/album/03lCOS0R6f7KLS090g3CTU) | 3:32 | 2023-06-14 |  |

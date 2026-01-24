@@ -1,13 +1,33 @@
 {
-  "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f \nwith IDEMI",
-  "num_followers": 71808,
+  "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Cam Stockman",
+  "num_followers": 71862,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOHY40AHEwOJLISaJ63VaxSeAJfl",
+  "snapshot_id": "AAAAAC+PKABw34Pv1jfMJFAt2mzk4DeT",
   "tracks": [
+    {
+      "added_at": "2026-01-23 05:00:22",
+      "album": {
+        "name": "Into My Life (feat. Joyce Sims)",
+        "url": "https://open.spotify.com/album/4KzpmvHWP09GTVgGpnkBl7"
+      },
+      "artists": [
+        {
+          "name": "Cam Stockman",
+          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
+        },
+        {
+          "name": "Joyce Sims",
+          "url": "https://open.spotify.com/artist/4AL3YviSMI70ARkSOHlxbQ"
+        }
+      ],
+      "duration_ms": 131299,
+      "name": "Into My Life (feat. Joyce Sims)",
+      "url": "https://open.spotify.com/track/5Pcg7KpidYjuKTTJ12IvvF"
+    },
     {
       "added_at": "2026-01-12 16:33:49",
       "album": {
@@ -37,20 +57,20 @@
       "url": "https://open.spotify.com/track/1hl81ThWpsoVYylBPaWedn"
     },
     {
-      "added_at": "2025-12-30 18:07:37",
+      "added_at": "2025-11-07 05:00:38",
       "album": {
-        "name": "2025 Archive",
-        "url": "https://open.spotify.com/album/2CpaWF7T14pNheIzANE02v"
+        "name": "Positive",
+        "url": "https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI"
       },
       "artists": [
         {
-          "name": "Robbie Doherty",
-          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+          "name": "Jamback",
+          "url": "https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Going To London",
-      "url": "https://open.spotify.com/track/3XwNVpJCF4d2yLtXSffnds"
+      "duration_ms": 169846,
+      "name": "Positive",
+      "url": "https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF"
     },
     {
       "added_at": "2026-01-16 05:00:33",
@@ -69,36 +89,20 @@
       "url": "https://open.spotify.com/track/6Gic5rohR6m7h5869PpIgi"
     },
     {
-      "added_at": "2025-11-07 05:00:38",
+      "added_at": "2026-01-23 15:20:38",
       "album": {
-        "name": "Positive",
-        "url": "https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI"
+        "name": "Back n' Forth",
+        "url": "https://open.spotify.com/album/0PjY1JVZYZJeC39YHJgbZV"
       },
       "artists": [
         {
-          "name": "Jamback",
-          "url": "https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB"
+          "name": "Crewcutz",
+          "url": "https://open.spotify.com/artist/3wRmWPRKhXTatAYGQUsC4E"
         }
       ],
-      "duration_ms": 169846,
-      "name": "Positive",
-      "url": "https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF"
-    },
-    {
-      "added_at": "2025-12-05 05:00:22",
-      "album": {
-        "name": "Point Zero / Lift Me Up",
-        "url": "https://open.spotify.com/album/49IPEHPL1alOTzFgXfVTl7"
-      },
-      "artists": [
-        {
-          "name": "IDEMI",
-          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
-        }
-      ],
-      "duration_ms": 191377,
-      "name": "Point Zero",
-      "url": "https://open.spotify.com/track/76e2lc0sV8N1jLFlw2CS5x"
+      "duration_ms": 217674,
+      "name": "Back n' Forth",
+      "url": "https://open.spotify.com/track/5SLLAmfYuVM5WlOoxFl4Qa"
     },
     {
       "added_at": "2025-11-28 05:09:48",
@@ -133,6 +137,134 @@
       "url": "https://open.spotify.com/track/65xDnHGrbUPYDcVZxr8swb"
     },
     {
+      "added_at": "2025-12-05 05:00:22",
+      "album": {
+        "name": "Point Zero / Lift Me Up",
+        "url": "https://open.spotify.com/album/49IPEHPL1alOTzFgXfVTl7"
+      },
+      "artists": [
+        {
+          "name": "IDEMI",
+          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
+        }
+      ],
+      "duration_ms": 191377,
+      "name": "Point Zero",
+      "url": "https://open.spotify.com/track/76e2lc0sV8N1jLFlw2CS5x"
+    },
+    {
+      "added_at": "2026-01-23 15:20:38",
+      "album": {
+        "name": "For The Night",
+        "url": "https://open.spotify.com/album/2QnJK2my2hW7IMmf4MoLpT"
+      },
+      "artists": [
+        {
+          "name": "Mitch Freeman",
+          "url": "https://open.spotify.com/artist/3Z9cpCACRQX3FR4DzoFOiG"
+        }
+      ],
+      "duration_ms": 261363,
+      "name": "For The Night",
+      "url": "https://open.spotify.com/track/2CHZ0FcivKxDfW0TBfw6ng"
+    },
+    {
+      "added_at": "2026-01-16 05:00:33",
+      "album": {
+        "name": "House FC",
+        "url": "https://open.spotify.com/album/26hpMQzEN8ozoQEMythwP0"
+      },
+      "artists": [
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "duration_ms": 259849,
+      "name": "Just Be Good To Me",
+      "url": "https://open.spotify.com/track/1j2rvXJXrFwzT8JXHTHFFJ"
+    },
+    {
+      "added_at": "2026-01-23 05:00:22",
+      "album": {
+        "name": "Touched EP",
+        "url": "https://open.spotify.com/album/3H8xdwZmthfEKUIFxb29Mu"
+      },
+      "artists": [
+        {
+          "name": "Louis Millne",
+          "url": "https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb"
+        }
+      ],
+      "duration_ms": 242790,
+      "name": "Touched",
+      "url": "https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa"
+    },
+    {
+      "added_at": "2025-12-30 18:07:37",
+      "album": {
+        "name": "2025 Archive",
+        "url": "https://open.spotify.com/album/2CpaWF7T14pNheIzANE02v"
+      },
+      "artists": [
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Going To London",
+      "url": "https://open.spotify.com/track/3XwNVpJCF4d2yLtXSffnds"
+    },
+    {
+      "added_at": "2025-12-29 01:46:49",
+      "album": {
+        "name": "Keep the Crowd Moving (Radio Edit)",
+        "url": "https://open.spotify.com/album/775ieS2GBegPteo2qKWGOs"
+      },
+      "artists": [
+        {
+          "name": "Boss Priester",
+          "url": "https://open.spotify.com/artist/0aut7mlvs8CZUwZKn5e3ZE"
+        }
+      ],
+      "duration_ms": 210687,
+      "name": "Keep the Crowd Moving - Radio Edit",
+      "url": "https://open.spotify.com/track/4Hbvn1hhO0ccCwrSo4BTBN"
+    },
+    {
+      "added_at": "2025-11-14 21:15:40",
+      "album": {
+        "name": "So Fine",
+        "url": "https://open.spotify.com/album/6bIDdNvG1xs6fOCoXMDA6m"
+      },
+      "artists": [
+        {
+          "name": "Flex (UK)",
+          "url": "https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM"
+        }
+      ],
+      "duration_ms": 148396,
+      "name": "So Fine",
+      "url": "https://open.spotify.com/track/3QGO7gVHnSW0vpEaRWO4kT"
+    },
+    {
+      "added_at": "2026-01-23 05:00:22",
+      "album": {
+        "name": "Only Eight / Sweet Spot",
+        "url": "https://open.spotify.com/album/05QcL8gJwHD6rx8KQYRidd"
+      },
+      "artists": [
+        {
+          "name": "Josh Butler",
+          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
+        }
+      ],
+      "duration_ms": 210322,
+      "name": "Only Eight",
+      "url": "https://open.spotify.com/track/2Y2RNy9c5adXcFKxdTEHZI"
+    },
+    {
       "added_at": "2025-12-29 01:46:49",
       "album": {
         "name": "Set Me Free (Franky Rizardo Remix)",
@@ -159,54 +291,6 @@
     {
       "added_at": "2026-01-16 05:00:33",
       "album": {
-        "name": "House FC",
-        "url": "https://open.spotify.com/album/26hpMQzEN8ozoQEMythwP0"
-      },
-      "artists": [
-        {
-          "name": "TeeDee",
-          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
-        }
-      ],
-      "duration_ms": 259849,
-      "name": "Just Be Good To Me",
-      "url": "https://open.spotify.com/track/1j2rvXJXrFwzT8JXHTHFFJ"
-    },
-    {
-      "added_at": "2025-11-14 21:15:40",
-      "album": {
-        "name": "So Fine",
-        "url": "https://open.spotify.com/album/6bIDdNvG1xs6fOCoXMDA6m"
-      },
-      "artists": [
-        {
-          "name": "Flex (UK)",
-          "url": "https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM"
-        }
-      ],
-      "duration_ms": 148396,
-      "name": "So Fine",
-      "url": "https://open.spotify.com/track/3QGO7gVHnSW0vpEaRWO4kT"
-    },
-    {
-      "added_at": "2025-12-29 01:46:49",
-      "album": {
-        "name": "Keep the Crowd Moving (Radio Edit)",
-        "url": "https://open.spotify.com/album/775ieS2GBegPteo2qKWGOs"
-      },
-      "artists": [
-        {
-          "name": "Boss Priester",
-          "url": "https://open.spotify.com/artist/0aut7mlvs8CZUwZKn5e3ZE"
-        }
-      ],
-      "duration_ms": 210687,
-      "name": "Keep the Crowd Moving - Radio Edit",
-      "url": "https://open.spotify.com/track/4Hbvn1hhO0ccCwrSo4BTBN"
-    },
-    {
-      "added_at": "2026-01-16 05:00:33",
-      "album": {
         "name": "Certi EP",
         "url": "https://open.spotify.com/album/0a7m6ALRJD2CLCwQZpqNLf"
       },
@@ -219,6 +303,22 @@
       "duration_ms": 402879,
       "name": "Certi",
       "url": "https://open.spotify.com/track/6EyRHhZ1V743RzWfiZcak2"
+    },
+    {
+      "added_at": "2026-01-23 05:00:22",
+      "album": {
+        "name": "Keep It Going EP",
+        "url": "https://open.spotify.com/album/4q0W1baKxEN4hrqSrRdcMi"
+      },
+      "artists": [
+        {
+          "name": "Klaudie",
+          "url": "https://open.spotify.com/artist/3wdr5Zao9XlZKBXZS6TQ4q"
+        }
+      ],
+      "duration_ms": 206564,
+      "name": "Keep It Going",
+      "url": "https://open.spotify.com/track/1SiqYxxFyvHLK9pZWSo3Zz"
     },
     {
       "added_at": "2026-01-09 05:00:36",
@@ -251,6 +351,42 @@
       "duration_ms": 193605,
       "name": "Louder",
       "url": "https://open.spotify.com/track/6Gk16Y5baO26U4hmIfQ5F2"
+    },
+    {
+      "added_at": "2026-01-23 05:00:22",
+      "album": {
+        "name": "Mambos",
+        "url": "https://open.spotify.com/album/4HikS1roRtAhmCrFlSrvpM"
+      },
+      "artists": [
+        {
+          "name": "LIGHTLEAK",
+          "url": "https://open.spotify.com/artist/1gU6WyJYdljeam0N3ZpgOC"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Mambos",
+      "url": "https://open.spotify.com/track/3gFVvoIXxZkvCd8JhyovgY"
+    },
+    {
+      "added_at": "2026-01-16 05:00:33",
+      "album": {
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/5h8yxVhYmtxaVZ66fGYjeD"
+      },
+      "artists": [
+        {
+          "name": "Ryan Grey",
+          "url": "https://open.spotify.com/artist/68FF5yW2tWcn7HqeL4seaw"
+        },
+        {
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/6m8wEkW7CJFNDH9LweKV0z"
     },
     {
       "added_at": "2026-01-16 05:00:33",
@@ -287,6 +423,22 @@
       "duration_ms": 183139,
       "name": "Downstairs",
       "url": "https://open.spotify.com/track/5cIEe3Ff64L5GbrAjLz3IY"
+    },
+    {
+      "added_at": "2026-01-23 05:00:22",
+      "album": {
+        "name": "Ill Behaviour",
+        "url": "https://open.spotify.com/album/1JrvmhqdmQ4ai0NuCnieO6"
+      },
+      "artists": [
+        {
+          "name": "J.K. Rollin",
+          "url": "https://open.spotify.com/artist/0q0fGcIwNUT2MrDT9HIdZZ"
+        }
+      ],
+      "duration_ms": 327300,
+      "name": "Ill Behaviour",
+      "url": "https://open.spotify.com/track/3PjlHGywmMwuj4YIawdty7"
     },
     {
       "added_at": "2025-11-28 05:09:48",
@@ -373,6 +525,22 @@
       "url": "https://open.spotify.com/track/0ZR9gkbm6e9pxnYXhxmnNW"
     },
     {
+      "added_at": "2026-01-23 05:00:22",
+      "album": {
+        "name": "thinking out loud EP",
+        "url": "https://open.spotify.com/album/7zZnpcWD9ZBDcoLgtdqnOJ"
+      },
+      "artists": [
+        {
+          "name": "Emery Bex",
+          "url": "https://open.spotify.com/artist/7DS0z5momEB8UbS6TxVhzZ"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "transition",
+      "url": "https://open.spotify.com/track/57EK2QTxNeZvWfinBC6Kc9"
+    },
+    {
       "added_at": "2025-12-05 05:00:22",
       "album": {
         "name": "Midnight Arson EP",
@@ -419,26 +587,6 @@
       "duration_ms": 123750,
       "name": "Work To Tha Beat",
       "url": "https://open.spotify.com/track/2U1a9MYxmdZP1EHVx9CVyU"
-    },
-    {
-      "added_at": "2026-01-16 05:00:33",
-      "album": {
-        "name": "One Night",
-        "url": "https://open.spotify.com/album/5h8yxVhYmtxaVZ66fGYjeD"
-      },
-      "artists": [
-        {
-          "name": "Ryan Grey",
-          "url": "https://open.spotify.com/artist/68FF5yW2tWcn7HqeL4seaw"
-        },
-        {
-          "name": "XIRA",
-          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/6m8wEkW7CJFNDH9LweKV0z"
     },
     {
       "added_at": "2025-12-29 01:46:49",
@@ -503,26 +651,6 @@
       "duration_ms": 252923,
       "name": "moonlight cruise",
       "url": "https://open.spotify.com/track/7K2FmODBOy7CYGZuuOdUFJ"
-    },
-    {
-      "added_at": "2026-01-16 05:00:33",
-      "album": {
-        "name": "Here We Go",
-        "url": "https://open.spotify.com/album/0OCLv2gBqss7AkREC9g6YS"
-      },
-      "artists": [
-        {
-          "name": "DvirNuns",
-          "url": "https://open.spotify.com/artist/5RIPjT0oNRQ8XGPcnwBL8n"
-        },
-        {
-          "name": "DOX",
-          "url": "https://open.spotify.com/artist/36jHmnMMKH4XOhdAj4LGe3"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "Here We Go",
-      "url": "https://open.spotify.com/track/5nx1l4LoUzh6LrNAbDeBwN"
     },
     {
       "added_at": "2026-01-09 17:17:45",
@@ -761,38 +889,6 @@
       "url": "https://open.spotify.com/track/2PMGzzwnjWbngTp0Xwuvpi"
     },
     {
-      "added_at": "2026-01-09 05:00:36",
-      "album": {
-        "name": "Bakk2thafuture",
-        "url": "https://open.spotify.com/album/3ZQh0QFIhMuc6i1DEYWIzH"
-      },
-      "artists": [
-        {
-          "name": "Ms. Mada",
-          "url": "https://open.spotify.com/artist/5Q2AHnOl7BbmHN3Q8Rgh3K"
-        }
-      ],
-      "duration_ms": 179090,
-      "name": "Bakk2thafuture",
-      "url": "https://open.spotify.com/track/5DaYqyXcCFmgtd1OWFmfpn"
-    },
-    {
-      "added_at": "2025-12-12 05:00:36",
-      "album": {
-        "name": "You Drive Me Crazy",
-        "url": "https://open.spotify.com/album/4nd2s6YwAYibaI62MIrcmw"
-      },
-      "artists": [
-        {
-          "name": "J.K. Rollin",
-          "url": "https://open.spotify.com/artist/0q0fGcIwNUT2MrDT9HIdZZ"
-        }
-      ],
-      "duration_ms": 524881,
-      "name": "You Drive Me Crazy",
-      "url": "https://open.spotify.com/track/63tojppW4FpZnR4Xo9qYaL"
-    },
-    {
       "added_at": "2025-12-12 05:00:36",
       "album": {
         "name": "King Konglish EP",
@@ -1005,26 +1101,6 @@
       "url": "https://open.spotify.com/track/4coPwPfxxr5jHLR4jRnVSw"
     },
     {
-      "added_at": "2025-11-21 17:11:07",
-      "album": {
-        "name": "Hype It Up / Sneaker",
-        "url": "https://open.spotify.com/album/6BVSA3Y9zaH2jlxdaZURDd"
-      },
-      "artists": [
-        {
-          "name": "Kepler.",
-          "url": "https://open.spotify.com/artist/4yGWhPE8bcrYShFXg6iCxV"
-        },
-        {
-          "name": "Funkaholics",
-          "url": "https://open.spotify.com/artist/7tHBPQatovc5Xmcw4LJC5l"
-        }
-      ],
-      "duration_ms": 223500,
-      "name": "Hype It Up - Edit",
-      "url": "https://open.spotify.com/track/5v6QQaJHff2TLwY4gwrI3l"
-    },
-    {
       "added_at": "2025-12-12 05:00:36",
       "album": {
         "name": "How Deep Are Your Dreams?",
@@ -1039,22 +1115,6 @@
       "duration_ms": 228901,
       "name": "How Deep Are Your Dreams?",
       "url": "https://open.spotify.com/track/31YCj2AQ7DMeMLVvtwfxhM"
-    },
-    {
-      "added_at": "2025-11-28 21:40:42",
-      "album": {
-        "name": "Shaking It Off",
-        "url": "https://open.spotify.com/album/5a8SyU117GancXY8wIT0en"
-      },
-      "artists": [
-        {
-          "name": "Ellia Jaya",
-          "url": "https://open.spotify.com/artist/1TFsdiO28p3pTXN1iwvAAO"
-        }
-      ],
-      "duration_ms": 187669,
-      "name": "Shaking It Off",
-      "url": "https://open.spotify.com/track/7fR1PpHhbyplRJgr95vMiX"
     },
     {
       "added_at": "2025-11-14 05:00:32",
@@ -1133,22 +1193,6 @@
       "url": "https://open.spotify.com/track/4sdydeR6pH5us3lD4Ttu7O"
     },
     {
-      "added_at": "2025-12-05 22:00:17",
-      "album": {
-        "name": "Need U EP",
-        "url": "https://open.spotify.com/album/0nY4MHgI4n5vKVs0C73m4U"
-      },
-      "artists": [
-        {
-          "name": "Riley (UK)",
-          "url": "https://open.spotify.com/artist/41vJAAunDUYAg81pOkcWh3"
-        }
-      ],
-      "duration_ms": 371557,
-      "name": "Need U",
-      "url": "https://open.spotify.com/track/1A37xFTHGhyVDkPc7ctiVH"
-    },
-    {
       "added_at": "2025-11-14 21:15:40",
       "album": {
         "name": "Ebullience 002",
@@ -1181,22 +1225,6 @@
       "url": "https://open.spotify.com/track/4O9jXmsa2vSnGgQbXLcaoU"
     },
     {
-      "added_at": "2025-11-07 05:00:38",
-      "album": {
-        "name": "Through the Night",
-        "url": "https://open.spotify.com/album/0hsOJfl9GIfWTvF6Hkvesk"
-      },
-      "artists": [
-        {
-          "name": "Anil Aras",
-          "url": "https://open.spotify.com/artist/6Ja4lS5NicOn4D0cUFwdbl"
-        }
-      ],
-      "duration_ms": 345240,
-      "name": "Through the Night",
-      "url": "https://open.spotify.com/track/29wxSU91yjj9uVILkHuv83"
-    },
-    {
       "added_at": "2025-11-21 05:00:30",
       "album": {
         "name": "From L to R",
@@ -1211,22 +1239,6 @@
       "duration_ms": 224538,
       "name": "From L to R",
       "url": "https://open.spotify.com/track/2m1hBmg6FtgY9Ouz4qMTd1"
-    },
-    {
-      "added_at": "2025-11-07 05:00:38",
-      "album": {
-        "name": "Be Without You",
-        "url": "https://open.spotify.com/album/0cJIafKRuQ84XkvfPk8Umo"
-      },
-      "artists": [
-        {
-          "name": "SOSA",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 208181,
-      "name": "Be Without You",
-      "url": "https://open.spotify.com/track/7c5LEXTP5c1VVELPaNrQii"
     },
     {
       "added_at": "2025-11-14 21:15:40",
@@ -1539,22 +1551,6 @@
       "duration_ms": 384007,
       "name": "Sakura",
       "url": "https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt"
-    },
-    {
-      "added_at": "2025-10-03 15:50:43",
-      "album": {
-        "name": "F U 2",
-        "url": "https://open.spotify.com/album/3tLkDJyJe3wpV4JMpnRvPL"
-      },
-      "artists": [
-        {
-          "name": "Shaded",
-          "url": "https://open.spotify.com/artist/2xKTuI2Nl32OaYyDndSB3S"
-        }
-      ],
-      "duration_ms": 195245,
-      "name": "F U 2",
-      "url": "https://open.spotify.com/track/13NK0agepLbROYX0f7wcjn"
     },
     {
       "added_at": "2025-10-17 04:00:49",

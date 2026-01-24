@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Julia Vit\u00f3ria",
-  "num_followers": 1207195,
+  "num_followers": 1207436,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,6 @@
     {
       "added_at": "2026-01-09 03:01:23",
       "album": {
-        "name": "Tudo \u00c9 Perda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2l9zvPbm9i9RHzlX6plTcd"
-      },
-      "artists": [
-        {
-          "name": "Felipe Rodrigues",
-          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
-        }
-      ],
-      "duration_ms": 518094,
-      "name": "Tudo \u00c9 Perda - Ao Vivo",
-      "url": "https://open.spotify.com/track/46w8kyLAUvD5fUGPLfXXH2"
-    },
-    {
-      "added_at": "2026-01-09 03:01:23",
-      "album": {
         "name": "Eu e Minha Casa",
         "url": "https://open.spotify.com/album/7lwYpvn2JNcPte6D5J2XhL"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 360447,
       "name": "Eu e Minha Casa",
       "url": "https://open.spotify.com/track/0GD31r9na0U0TLJ3xO2Att"
+    },
+    {
+      "added_at": "2026-01-09 03:01:23",
+      "album": {
+        "name": "Tudo \u00c9 Perda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2l9zvPbm9i9RHzlX6plTcd"
+      },
+      "artists": [
+        {
+          "name": "Felipe Rodrigues",
+          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
+        }
+      ],
+      "duration_ms": 518094,
+      "name": "Tudo \u00c9 Perda - Ao Vivo",
+      "url": "https://open.spotify.com/track/46w8kyLAUvD5fUGPLfXXH2"
     },
     {
       "added_at": "2026-01-09 03:01:23",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-01-09 03:01:23",
       "album": {
-        "name": "Cura (Ao Vivo em Salvador)",
-        "url": "https://open.spotify.com/album/4tsR5tDmZNPL3q5hvwz4Sc"
-      },
-      "artists": [
-        {
-          "name": "Maria Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
-        }
-      ],
-      "duration_ms": 245476,
-      "name": "Cura - Ao Vivo em Salvador",
-      "url": "https://open.spotify.com/track/7HUWoDzKA6KSBGxQmjNNR8"
-    },
-    {
-      "added_at": "2026-01-09 03:01:23",
-      "album": {
         "name": "Buscar-Me-Eis e Me Achareis (Ao Vivo)",
         "url": "https://open.spotify.com/album/7g8LWP9eQyiS9YIbziDPV8"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 519000,
       "name": "Buscar-Me-Eis e Me Achareis - Ao Vivo",
       "url": "https://open.spotify.com/track/6a5YMnpTVStVqoBwgOhjDi"
+    },
+    {
+      "added_at": "2026-01-09 03:01:23",
+      "album": {
+        "name": "Cura (Ao Vivo em Salvador)",
+        "url": "https://open.spotify.com/album/4tsR5tDmZNPL3q5hvwz4Sc"
+      },
+      "artists": [
+        {
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+        }
+      ],
+      "duration_ms": 245476,
+      "name": "Cura - Ao Vivo em Salvador",
+      "url": "https://open.spotify.com/track/7HUWoDzKA6KSBGxQmjNNR8"
     },
     {
       "added_at": "2026-01-09 03:01:23",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-01-09 03:01:23",
       "album": {
-        "name": "Cura | EP 01",
-        "url": "https://open.spotify.com/album/0WnOaSP5bwVhfeSioA6YmH"
-      },
-      "artists": [
-        {
-          "name": "Maria Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
-        }
-      ],
-      "duration_ms": 270450,
-      "name": "Ele N\u00e3o Desiste de Voc\u00ea - Ao Vivo em Salvador",
-      "url": "https://open.spotify.com/track/3RVZlAf3G6Dy6S1jw4r8xc"
-    },
-    {
-      "added_at": "2026-01-09 03:01:23",
-      "album": {
         "name": "Tetelestai (Ao Vivo)",
         "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 332906,
       "name": "Alian\u00e7a (Ao Vivo)",
       "url": "https://open.spotify.com/track/4cRSit9wzI1XfV0PB7GVSQ"
+    },
+    {
+      "added_at": "2026-01-09 03:01:23",
+      "album": {
+        "name": "Cura | EP 01",
+        "url": "https://open.spotify.com/album/0WnOaSP5bwVhfeSioA6YmH"
+      },
+      "artists": [
+        {
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+        }
+      ],
+      "duration_ms": 270450,
+      "name": "Ele N\u00e3o Desiste de Voc\u00ea - Ao Vivo em Salvador",
+      "url": "https://open.spotify.com/track/3RVZlAf3G6Dy6S1jw4r8xc"
     },
     {
       "added_at": "2026-01-09 03:01:23",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-01-09 03:01:23",
       "album": {
+        "name": "Melhor Lugar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/36T2efqaTFZrkuDZvU5Mgo"
+      },
+      "artists": [
+        {
+          "name": "Felipe Rodrigues",
+          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
+        }
+      ],
+      "duration_ms": 340540,
+      "name": "Melhor Lugar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4q8L1dolSG4FGfdVZLT0kD"
+    },
+    {
+      "added_at": "2026-01-09 03:01:23",
+      "album": {
         "name": "Avenida do Arrependimento",
         "url": "https://open.spotify.com/album/2ttxcuefm67xcXkS8JZLzs"
       },
@@ -587,18 +603,18 @@
     {
       "added_at": "2026-01-09 03:01:23",
       "album": {
-        "name": "Melhor Lugar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/36T2efqaTFZrkuDZvU5Mgo"
+        "name": "Deus Est\u00e1 Aqui (Medley)",
+        "url": "https://open.spotify.com/album/4JKl5GeTte3fPKg4sRzO0G"
       },
       "artists": [
         {
-          "name": "Felipe Rodrigues",
-          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 340540,
-      "name": "Melhor Lugar - Ao Vivo",
-      "url": "https://open.spotify.com/track/4q8L1dolSG4FGfdVZLT0kD"
+      "duration_ms": 283648,
+      "name": "Deus Est\u00e1 Aqui (Medley)",
+      "url": "https://open.spotify.com/track/3jbkfF5kFYJiEN1XnCLKcN"
     },
     {
       "added_at": "2026-01-09 03:01:23",
@@ -619,22 +635,6 @@
       "duration_ms": 252479,
       "name": "MEU UNIVERSO",
       "url": "https://open.spotify.com/track/641brJX9841CQj3xYyPHHK"
-    },
-    {
-      "added_at": "2026-01-09 03:01:23",
-      "album": {
-        "name": "Deus Est\u00e1 Aqui (Medley)",
-        "url": "https://open.spotify.com/album/4JKl5GeTte3fPKg4sRzO0G"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 283648,
-      "name": "Deus Est\u00e1 Aqui (Medley)",
-      "url": "https://open.spotify.com/track/3jbkfF5kFYJiEN1XnCLKcN"
     },
     {
       "added_at": "2026-01-09 03:01:23",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-01-09 03:01:23",
       "album": {
-        "name": "Dependente de Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0dQX1IZI82UCXg47zWJNvh"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 329045,
-      "name": "Dependente de Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/1YrMQT4omVlCCKQUGqaJm0"
-    },
-    {
-      "added_at": "2026-01-09 03:01:23",
-      "album": {
         "name": "Tua Gl\u00f3ria Me Abra\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/1GXc9lZVWfB4msh6AnaRSa"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 327318,
       "name": "Tua Gl\u00f3ria Me Abra\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/3GisPyEirIgTI6mEeJ7SHL"
+    },
+    {
+      "added_at": "2026-01-09 03:01:23",
+      "album": {
+        "name": "Dependente de Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0dQX1IZI82UCXg47zWJNvh"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 329045,
+      "name": "Dependente de Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/1YrMQT4omVlCCKQUGqaJm0"
     },
     {
       "added_at": "2026-01-09 03:01:23",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-01-09 03:01:23",
       "album": {
+        "name": "Messias",
+        "url": "https://open.spotify.com/album/5pPQywuULSpZCfNvhXUjp9"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "duration_ms": 367846,
+      "name": "Messias",
+      "url": "https://open.spotify.com/track/1Us77TbG0XgbRqwB6TnKdC"
+    },
+    {
+      "added_at": "2026-01-09 03:01:23",
+      "album": {
         "name": "Tu \u00c9s Deus (A Ele) [Ao Vivo]",
         "url": "https://open.spotify.com/album/6rUW1OFCdCmX7gfmhCokIR"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 304391,
       "name": "Tu \u00c9s Deus (A Ele) - Ao Vivo",
       "url": "https://open.spotify.com/track/1Gol2VjZYbYBsptumlr8jy"
-    },
-    {
-      "added_at": "2026-01-09 03:01:23",
-      "album": {
-        "name": "Messias",
-        "url": "https://open.spotify.com/album/5pPQywuULSpZCfNvhXUjp9"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 367846,
-      "name": "Messias",
-      "url": "https://open.spotify.com/track/1Us77TbG0XgbRqwB6TnKdC"
     },
     {
       "added_at": "2026-01-09 03:01:23",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-01-09 03:01:23",
       "album": {
+        "name": "Amor Infinito / A Mensagem da Cruz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2v1jvE1DqhO2JfGbeNJ2qI"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 355322,
+      "name": "Amor Infinito / A Mensagem da Cruz - Ao Vivo",
+      "url": "https://open.spotify.com/track/3u1g3zx0ckdvqBwRCj7Yhb"
+    },
+    {
+      "added_at": "2026-01-09 03:01:23",
+      "album": {
         "name": "\u00danico (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5iNU3aaRozD6WDEd9uQ195"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 412747,
       "name": "Brasa Viva - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2UYUMRoznutrBafIZTPIkF"
-    },
-    {
-      "added_at": "2026-01-09 03:01:23",
-      "album": {
-        "name": "Amor Infinito / A Mensagem da Cruz (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2v1jvE1DqhO2JfGbeNJ2qI"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 355322,
-      "name": "Amor Infinito / A Mensagem da Cruz - Ao Vivo",
-      "url": "https://open.spotify.com/track/3u1g3zx0ckdvqBwRCj7Yhb"
     },
     {
       "added_at": "2026-01-09 03:01:23",

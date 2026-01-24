@@ -800,7 +800,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 174653,
       "name": "ME + YOU",
       "url": "https://open.spotify.com/track/3xq22TdSUfbvisMUKZrzRK"
@@ -1302,6 +1302,24 @@
       "duration_ms": 114908,
       "name": "TEAR ME APART",
       "url": "https://open.spotify.com/track/4UeP96FekSiwztUsfRtWhj"
+    },
+    {
+      "album": {
+        "name": "BEFORE I FORGET",
+        "url": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218080,
+      "name": "THANK GOD",
+      "url": "https://open.spotify.com/track/2klHZg6eTLcImaGyzDQukM"
     },
     {
       "album": {

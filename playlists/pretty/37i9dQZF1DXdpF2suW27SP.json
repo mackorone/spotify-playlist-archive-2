@@ -1,17 +1,17 @@
 {
   "description": "Nenny e Bispo entram na zona. ",
-  "num_followers": 189477,
+  "num_followers": 189505,
   "original_name": "Na Zona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAICFREffUkyQKpogrSykwfhk3R75",
+  "snapshot_id": "AAAAAFzXn3lzoPiZrjeTNf3/RcaIL12m",
   "tracks": [
     {
       "added_at": "2026-01-23 00:00:33",
       "album": {
-        "name": "D\u00e9j\u00e0 Vu",
+        "name": "Deja Vu",
         "url": "https://open.spotify.com/album/1R11gIJLYoU3nK84eXD5Lu"
       },
       "artists": [
@@ -25,7 +25,7 @@
         }
       ],
       "duration_ms": 178243,
-      "name": "D\u00e9j\u00e0 Vu",
+      "name": "Deja Vu",
       "url": "https://open.spotify.com/track/3aqIh3m5MIBlt91YCLwfrv"
     },
     {
@@ -251,6 +251,30 @@
       "duration_ms": 177637,
       "name": "Ber\u00e7o de Ouro",
       "url": "https://open.spotify.com/track/1JU4ncwSXEjC13H0W72ucD"
+    },
+    {
+      "added_at": "2026-01-23 09:55:20",
+      "album": {
+        "name": "Jackpot",
+        "url": "https://open.spotify.com/album/2gmSUUVVnnsaZE6fK3Cmdq"
+      },
+      "artists": [
+        {
+          "name": "Dbraz",
+          "url": "https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl"
+        },
+        {
+          "name": "Simba.",
+          "url": "https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v"
+        },
+        {
+          "name": "ROCHA.SNJ",
+          "url": "https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8"
+        }
+      ],
+      "duration_ms": 158658,
+      "name": "Jackpot",
+      "url": "https://open.spotify.com/track/2ATBdjH7OgwAryeowwlIXD"
     },
     {
       "added_at": "2026-01-23 00:00:33",
@@ -1339,22 +1363,6 @@
       "duration_ms": 193601,
       "name": "\u00a1 S\u00d3 N\u00d3S ! (feat. Carla Prata)",
       "url": "https://open.spotify.com/track/6gJF4kTu4cQDklJMnd0ZkQ"
-    },
-    {
-      "added_at": "2026-01-23 00:00:33",
-      "album": {
-        "name": "Chora Por Mim",
-        "url": "https://open.spotify.com/album/5oxGgr4xYmSNIp1CYZAnJX"
-      },
-      "artists": [
-        {
-          "name": "Satiro",
-          "url": "https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Chora Por Mim",
-      "url": "https://open.spotify.com/track/4tNz8DErS1kwpYUqsW7kMv"
     },
     {
       "added_at": "2026-01-23 00:00:33",

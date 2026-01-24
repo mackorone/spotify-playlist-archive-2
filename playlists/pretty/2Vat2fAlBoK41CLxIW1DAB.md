@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,599 likes - 846 songs - 2 day 5 hr 10 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,599 likes - 853 songs - 2 day 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -854,5 +854,12 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 844 | [Bebeğim](https://open.spotify.com/track/0UE1X4VimOchf2p37eE4uh) | [Evren Uğur](https://open.spotify.com/artist/2AZPixOsGHxuc0gqq3XOy4) | [Bebeğim](https://open.spotify.com/album/78VtGQ3K0YPQxKHXrFuAyh) | 3:11 |
 | 845 | [Black Hole](https://open.spotify.com/track/2NlJ3l1am6Q8CE6wrUMp6C) | [Skjebne](https://open.spotify.com/artist/0rnFCpiJmk0Tew86GftOkx) | [Black Hole](https://open.spotify.com/album/6OauqW31qTCILU7gOnIl7z) | 4:01 |
 | 846 | [The Beginning Of The End](https://open.spotify.com/track/2fN6H4ncv3uYMG7mMEtbcA) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:08 |
+| 847 | [Chains We Don’t See](https://open.spotify.com/track/4DQ22ctWmDXPyNi90U7dig) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [Chains We Don’t See](https://open.spotify.com/album/6HTX3i1r5pifMffwycpBx1) | 3:18 |
+| 848 | [SOME RANDOM GIRL THAT NEVER MADE IT ON THE INTERNET](https://open.spotify.com/track/3BbhQpgtyldLVqlTv8AxdI) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [SOME RANDOM GIRL THAT NEVER MADE IT ON THE INTERNET](https://open.spotify.com/album/20JtgJAcabJ7eb74csa1Eq) | 2:30 |
+| 849 | [Deja Vu](https://open.spotify.com/track/0i0evDaGvzuS3s4CwZo9Xl) | [ColourMind](https://open.spotify.com/artist/6qAV0axr2ScfQCauvSZlKO) | [Deja Vu](https://open.spotify.com/album/38325VGH2rTSDXtNCsSCbm) | 4:21 |
+| 850 | [Una y Mil Veces](https://open.spotify.com/track/38ynrtrPa6laWTufKuW7vK) | [Detrapo](https://open.spotify.com/artist/3cjnl4G8EXCdyKkyfYmA60), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [Una y Mil Veces](https://open.spotify.com/album/6CHz9QHJw6gRsaqCIrUbSM) | 4:26 |
+| 851 | [Dear Life](https://open.spotify.com/track/2YF3yvLeegk8Qu8cfJMFda) | [Summer Colds](https://open.spotify.com/artist/1KO4w7F0yxQpGqN6w5unBn) | [Dear Life](https://open.spotify.com/album/2dQTUOCE0wZy47WHq7LGqH) | 4:34 |
+| 852 | [Stranger Than Love](https://open.spotify.com/track/1Wtn7Dsw2XLdRuoW0kih9h) | [Taylor Youngbauer](https://open.spotify.com/artist/4UeB4cZPyYIaC0VYRsaFiZ), [Richard Greene](https://open.spotify.com/artist/02BacLwR3UUwERUhF6q6My) | [Stranger Than Love](https://open.spotify.com/album/1OJAlXkqvzGo8xLTtABdSA) | 2:42 |
+| 853 | [The Legend Of The Sunken Monastery](https://open.spotify.com/track/2GPEkY4AWwlh9RicowVdwe) | [Infinity](https://open.spotify.com/artist/3u37eK7ZGCb9S7Cr1dLh86) | [The Arcane Wisdom of Shadows](https://open.spotify.com/album/5Djn2lWZQOT6qufkuvGpbF) | 7:59 |
 
-Snapshot ID: `AAADbSLR35hF7UX2RaBbXLkNO8650kLq`
+Snapshot ID: `AAADdNLrwKzJpqxIZ0FLKgHiOHZv3rMj`

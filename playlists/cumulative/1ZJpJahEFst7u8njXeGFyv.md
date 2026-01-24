@@ -4,7 +4,7 @@
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-921 songs - 2 day 8 hr 21 min
+922 songs - 2 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Anna's Theme](https://open.spotify.com/track/6YF1dwqfJs2khtmiUvtE8K) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Anna's Theme](https://open.spotify.com/album/1NUN5BS2lgbM45AoMgLOcu) | 1:55 | 2023-03-24 | 2023-10-25 |
 | [Après un rêve \- NIGHT SESSIONS](https://open.spotify.com/track/4wdRWXtt5SVGokz7ld4vGS) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Pablo Ferrandez](https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt), [Julien Quentin](https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR) | [Après un rêve \- NIGHT SESSIONS](https://open.spotify.com/album/5t9hQEaMm5KElJLXWL6rhy) | 3:30 | 2022-09-25 | 2023-01-04 |
 | [Aria](https://open.spotify.com/track/6fQHaEEKl62kDACs5yzsik) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Peter Serkin](https://open.spotify.com/artist/34FzW8HqwYuLmThOltysBu) | [Relaxing Classics](https://open.spotify.com/album/15ySNjCbDjE89Xq7gl9l7f) | 2:10 | 2022-09-25 | 2023-01-04 |
+| [Arise, Shine](https://open.spotify.com/track/29waj25GhGjyIFzde8kxZW) | [Anna Lapwood](https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP), [The Chapel Choir of Pembroke College, Cambridge](https://open.spotify.com/artist/6DPxkITuYSrDAPdhISWO35), [Sophia Membery](https://open.spotify.com/artist/4HZTH0hcr5ioXuYK8d39G2) | [Arise, Shine](https://open.spotify.com/album/1zl9pQZn5Fd12UWQdyqxX4) | 4:19 | 2026-01-23 |  |
 | [At Last](https://open.spotify.com/track/0mH9l3C0C3WTV4AhusmsMy) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 2:50 | 2023-10-24 |  |
 | [Aurora](https://open.spotify.com/track/5qeCr2mV1zZLJPN9egykyW) | [Alban Claudin](https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp) | [Aurora](https://open.spotify.com/album/1N4QqNY0cGWUzIunHfk8qv) | 2:50 | 2025-10-17 | 2025-11-29 |
 | [Aurora \- Upright Piano Version](https://open.spotify.com/track/0lBPqu8JRUgVcewtIdRwP2) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Aurora \(Upright Piano Version\)](https://open.spotify.com/album/4vtjL4P4CdAELHAAOvta7w) | 1:59 | 2025-07-11 |  |

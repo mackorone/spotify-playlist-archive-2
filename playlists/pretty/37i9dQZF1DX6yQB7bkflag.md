@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Awdella
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,099 likes - 132 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,107 likes - 132 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,17 +18,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 8 | [Pencuri Malam](https://open.spotify.com/track/7qQNus2U0jlt1JHvKyraYZ) | [Samuel Cipta](https://open.spotify.com/artist/7zJZ3KU0oAP3yxu0HzYnOc) | [Pencuri Malam](https://open.spotify.com/album/2mXqT7R18luoyawLOuyluD) | 3:21 |
 | 9 | [Beat Yourself Up](https://open.spotify.com/track/7dr9uWtuRR6sdFpRjk0mnN) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Beat Yourself Up](https://open.spotify.com/album/4UEzLrGegP8f1PyFEXaKKN) | 2:58 |
 | 10 | [Haru Biru](https://open.spotify.com/track/5gPAuoKgavyDFC2M2Gmwfp) | [Padi](https://open.spotify.com/artist/6PL8FkAt5nOZwYpPIhuAJg) | [Haru Biru](https://open.spotify.com/album/6W7mPbdoCYtILFkWnJyBwZ) | 4:27 |
-| 11 | [If Only](https://open.spotify.com/track/10senvCSUmMPgm4Yg6rbZF) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O) | [](https://open.spotify.com/album/null) | 3:46 |
+| 11 | [If Only](https://open.spotify.com/track/10senvCSUmMPgm4Yg6rbZF) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O) | [BUT, IT'S OKAY.](https://open.spotify.com/album/6RHRp63nNfQIspQxRtLj7s) | 3:46 |
 | 12 | [AIR FORCE \(BLACK DEMARCO\)](https://open.spotify.com/track/4WGk4UwyQD0mxTN6gEL4wl) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 3:44 |
 | 13 | [Catatan Kita](https://open.spotify.com/track/7GeCsDAdyO6SZGn6BjII4n) | [Caffeine](https://open.spotify.com/artist/47PbXAwIZQ0Zb03yiv5YyG), [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Catatan Kita](https://open.spotify.com/album/11kPpap9chXLlLHgDFcyEu) | 3:08 |
 | 14 | [Wall of Sound](https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wall of Sound](https://open.spotify.com/album/5xQarRykqfONyHrL792y8z) | 2:24 |
 | 15 | [Damai Sentosa](https://open.spotify.com/track/6wqOODcs0NqP3x87Xoh3vJ) | [Febinda Tito](https://open.spotify.com/artist/538SnQc3YoJ96cIs2mpTaZ) | [Terbentur, Terbentur, Terbentur](https://open.spotify.com/album/6TpfkJa9cmRgKU13EeRECq) | 3:22 |
 | 16 | [Orange County \(feat\. Bizarrap, Kara Jackson and Anoushka Shankar\)](https://open.spotify.com/track/23XKMzf0cK0thlSxbfMqW9) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl), [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [The Hardest Thing \(feat\. Tony Allen\) / Orange County \(feat\. Bizarrap, Kara Jackson and Anoushka Shankar\)](https://open.spotify.com/album/4KP7VGPFNTDAbcnpTvrhq4) | 3:28 |
-| 17 | [scared](https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [USB](https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT) | 4:03 |
+| 17 | [scared](https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [USB](https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT) | 3:46 |
 | 18 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 |
 | 19 | [Cinta Palsu](https://open.spotify.com/track/6NEEwSV2gksocsJrXmatud) | [Aurelia Syaharani](https://open.spotify.com/artist/7A8RuvaCkbtKEZwf1pW3cn) | [Aurelia Syaharani](https://open.spotify.com/album/4uksdFRVyUiRcvv9h5BlWO) | 3:55 |
 | 20 | [Crown](https://open.spotify.com/track/4iu11uPXYHUJaq5vr9cLwW) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [REVERXE \- The 8th Album](https://open.spotify.com/album/4ZXDMoZKLnkxFyqRGmCLnB) | 3:18 |
-| 21 | [HYPNOTIZE](https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [](https://open.spotify.com/album/null) | 2:50 |
+| 21 | [HYPNOTIZE](https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw) | 2:50 |
 | 22 | [your scent](https://open.spotify.com/track/2U0j6eGUTCFbKRgvilEqnu) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [your scent](https://open.spotify.com/album/4wu7ev123PdWZdJC4xOgDY) | 3:14 |
 | 23 | [my forever](https://open.spotify.com/track/4dixbLTmSVdkkex9IZmrs2) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [my forever](https://open.spotify.com/album/0zYPWZaDr4iGlGENr3V8El) | 3:16 |
 | 24 | [Night Drive](https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Night Drive](https://open.spotify.com/album/2ewjJwbolSuFdspnL2xhRw) | 3:26 |

@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Olivia Dean",
-  "num_followers": 426686,
+  "num_followers": 426890,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHn/iXIbeFTh1BYVx71MWju7w1dj",
+  "snapshot_id": "AAAAACCJnk/JtjCuHHMi2rUAb2MxCaHY",
   "tracks": [
     {
       "added_at": "2025-11-21 05:00:33",
@@ -41,68 +41,20 @@
       "url": "https://open.spotify.com/track/1MhgFh4MeZidEY3LkyYRr1"
     },
     {
-      "added_at": "2026-01-09 05:00:48",
+      "added_at": "2026-01-23 05:00:23",
       "album": {
-        "name": "Tell Me It's Over",
-        "url": "https://open.spotify.com/album/6MmMqPde3ph2QQY1FhaUrP"
+        "name": "Act I",
+        "url": "https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R"
       },
       "artists": [
         {
-          "name": "Solya",
-          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
+          "name": "Kashus Culpepper",
+          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
         }
       ],
-      "duration_ms": 176133,
-      "name": "Tell Me It's Over",
-      "url": "https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt"
-    },
-    {
-      "added_at": "2025-11-21 05:00:33",
-      "album": {
-        "name": "Head Above Water",
-        "url": "https://open.spotify.com/album/6Kbyq3so1qAj2r4d1JDKOy"
-      },
-      "artists": [
-        {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
-        }
-      ],
-      "duration_ms": 221335,
-      "name": "How It's Gotta Be",
-      "url": "https://open.spotify.com/track/4GN2iIuQYXSMi0WJGJF7IL"
-    },
-    {
-      "added_at": "2026-01-05 17:10:29",
-      "album": {
-        "name": "My Home Is Not In This World",
-        "url": "https://open.spotify.com/album/1JTg8PaBqbrOd1gdUadXpp"
-      },
-      "artists": [
-        {
-          "name": "Natalie Bergman",
-          "url": "https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC"
-        }
-      ],
-      "duration_ms": 164335,
-      "name": "Dance",
-      "url": "https://open.spotify.com/track/1l9AXDDVSrKkVQxVTZkY8Z"
-    },
-    {
-      "added_at": "2025-11-21 05:00:33",
-      "album": {
-        "name": "A Matter of Time",
-        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Lover Girl",
-      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
+      "duration_ms": 192463,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/353A1eattWX5QjVnE5yd5X"
     },
     {
       "added_at": "2025-11-21 05:00:33",
@@ -121,20 +73,52 @@
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
     },
     {
-      "added_at": "2026-01-09 05:00:48",
+      "added_at": "2025-11-21 05:00:33",
       "album": {
-        "name": "The Crux",
-        "url": "https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ"
+        "name": "Head Above Water",
+        "url": "https://open.spotify.com/album/6Kbyq3so1qAj2r4d1JDKOy"
       },
       "artists": [
         {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
         }
       ],
-      "duration_ms": 205046,
-      "name": "Charlie's Garden",
-      "url": "https://open.spotify.com/track/4kPfzkWY23WgM902kNAQLn"
+      "duration_ms": 221335,
+      "name": "How It's Gotta Be",
+      "url": "https://open.spotify.com/track/4GN2iIuQYXSMi0WJGJF7IL"
+    },
+    {
+      "added_at": "2025-11-21 05:00:33",
+      "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
+    },
+    {
+      "added_at": "2026-01-09 05:00:48",
+      "album": {
+        "name": "Tell Me It's Over",
+        "url": "https://open.spotify.com/album/6MmMqPde3ph2QQY1FhaUrP"
+      },
+      "artists": [
+        {
+          "name": "Solya",
+          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "Tell Me It's Over",
+      "url": "https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt"
     },
     {
       "added_at": "2025-06-13 16:00:28",
@@ -157,6 +141,22 @@
       "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
     },
     {
+      "added_at": "2026-01-05 17:10:29",
+      "album": {
+        "name": "My Home Is Not In This World",
+        "url": "https://open.spotify.com/album/1JTg8PaBqbrOd1gdUadXpp"
+      },
+      "artists": [
+        {
+          "name": "Natalie Bergman",
+          "url": "https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC"
+        }
+      ],
+      "duration_ms": 164335,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/1l9AXDDVSrKkVQxVTZkY8Z"
+    },
+    {
       "added_at": "2025-11-14 05:00:29",
       "album": {
         "name": "Sex Hysteria (Deluxe)",
@@ -171,6 +171,54 @@
       "duration_ms": 177601,
       "name": "I Stay I Leave I Love I Lose",
       "url": "https://open.spotify.com/track/3NlJEfRVcKNXr44ql6Qn7K"
+    },
+    {
+      "added_at": "2026-01-23 05:00:23",
+      "album": {
+        "name": "Fall Again",
+        "url": "https://open.spotify.com/album/2LAjKiw81vQCRcs2KHKXrY"
+      },
+      "artists": [
+        {
+          "name": "Silvertwin",
+          "url": "https://open.spotify.com/artist/7aqjHeupqqWY9tPApz26Mf"
+        }
+      ],
+      "duration_ms": 259423,
+      "name": "Fall Again",
+      "url": "https://open.spotify.com/track/30u5hJvzdgobpS5hapE8tH"
+    },
+    {
+      "added_at": "2026-01-09 05:00:48",
+      "album": {
+        "name": "The Crux",
+        "url": "https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 205046,
+      "name": "Charlie's Garden",
+      "url": "https://open.spotify.com/track/4kPfzkWY23WgM902kNAQLn"
+    },
+    {
+      "added_at": "2026-01-23 05:00:23",
+      "album": {
+        "name": "Shhugar",
+        "url": "https://open.spotify.com/album/52ktymYrZxeaE07TNU39yk"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 160538,
+      "name": "Broke Bitch Boogie",
+      "url": "https://open.spotify.com/track/2nvvVIj0PudeVXCjl7cXBm"
     },
     {
       "added_at": "2026-01-09 05:00:48",
@@ -1671,66 +1719,6 @@
       "duration_ms": 191666,
       "name": "Going Down",
       "url": "https://open.spotify.com/track/5sSTJF2a8Ew2wxIW1mCBG5"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "loml",
-        "url": "https://open.spotify.com/album/0szj1LIFIQjDAxMJv8m1Zq"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        },
-        {
-          "name": "HOHYUN",
-          "url": "https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu"
-        }
-      ],
-      "duration_ms": 201908,
-      "name": "loml",
-      "url": "https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK"
-    },
-    {
-      "added_at": "2026-01-09 05:00:48",
-      "album": {
-        "name": "Lane Brothers",
-        "url": "https://open.spotify.com/album/7tjQsjnKGHN9g84C0xrwZ9"
-      },
-      "artists": [
-        {
-          "name": "Lane Brothers",
-          "url": "https://open.spotify.com/artist/5SzuidUf9uEZLC6E62BszN"
-        },
-        {
-          "name": "Grayson Lane",
-          "url": "https://open.spotify.com/artist/7kcCf7qRizAKhmuvA1HF2q"
-        },
-        {
-          "name": "Garrett Lane",
-          "url": "https://open.spotify.com/artist/6NBt7jdlOAZmnLvHwSw8TL"
-        }
-      ],
-      "duration_ms": 205438,
-      "name": "Infinite Love",
-      "url": "https://open.spotify.com/track/4vbhm12kpJwFP9frdIlD1u"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
-        "name": "Youniverse",
-        "url": "https://open.spotify.com/album/0S5HUfsYHiWndYT4uGY4pz"
-      },
-      "artists": [
-        {
-          "name": "Gabi Sklar",
-          "url": "https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Youniverse",
-      "url": "https://open.spotify.com/track/7leBNpRPcy10AxJCG8UesN"
     }
   ],
   "unique_name": "Retro Pop",

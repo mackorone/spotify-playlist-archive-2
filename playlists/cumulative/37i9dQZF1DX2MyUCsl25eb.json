@@ -2302,7 +2302,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-24",
       "duration_ms": 288973,
       "name": "Bright (Fast)",
       "url": "https://open.spotify.com/track/1e5SVMJoqJAs6parbChLy8"
@@ -3126,6 +3126,24 @@
       "duration_ms": 246586,
       "name": "Colors",
       "url": "https://open.spotify.com/track/6vaSStNN5NX4nJ4QbRY3S0"
+    },
+    {
+      "album": {
+        "name": "Come A Day",
+        "url": "https://open.spotify.com/album/34VseS8kozJDsNM9XXwQGa"
+      },
+      "artists": [
+        {
+          "name": "Rachel Grae",
+          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178928,
+      "name": "Come A Day",
+      "url": "https://open.spotify.com/track/3IF5Iz15f8muGUXHdxs8wS"
     },
     {
       "album": {

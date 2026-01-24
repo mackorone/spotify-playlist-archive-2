@@ -4,7 +4,7 @@
 
 > All of it
 
-1,101 songs - 2 day 19 hr 33 min
+1,102 songs - 2 day 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2025-06-02 |  |
 | [Go to the Light](https://open.spotify.com/track/1HsNpSdZTvocX8g27O1JBD) | [Murder By Death](https://open.spotify.com/artist/3yrQJxTTj7xS2deLcXiEM3) | [Bitter Drink, Bitter Moon](https://open.spotify.com/album/4EeEHLSrhDaxnQUGRyJnhq) | 3:40 | 2025-06-02 |  |
 | [Go to the Light \(Destiny Version\)](https://open.spotify.com/track/3JBJFVZ5LodfyxpiAfTT5a) | [Murder By Death](https://open.spotify.com/artist/3yrQJxTTj7xS2deLcXiEM3) | [Go to the Light \(Destiny Version\)](https://open.spotify.com/album/6rga7ZeQwFK5EWA1Ex0ISk) | 1:37 | 2025-06-02 |  |
+| [GO!](https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:50 | 2026-01-23 |  |
 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 | 2025-06-02 |  |
 | [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 | 2025-06-02 |  |
 | [Going Down In Flames](https://open.spotify.com/track/2vnXw4zTwuJXFeCyeM0KkB) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:28 | 2025-06-08 |  |

@@ -4,7 +4,7 @@
 
 > 
 
-1,314 songs - 2 day 20 hr 58 min
+1,317 songs - 2 day 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -597,6 +597,7 @@
 | [Jumpin on a Jet](https://open.spotify.com/track/1I3ZAmPmbFV78oNKnibOiW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:17 | 2024-12-11 | 2025-05-21 |
 | [Just Begun \(feat\. Jay Electronica, J\. Cole & Mos Def\)](https://open.spotify.com/track/0OZGkH4zjKKYfgFskPOspV) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Hi\-Tek](https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [J A Y E L E C T R O N I C A](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Revolutions Per Minute](https://open.spotify.com/album/3M4SOAMremE0kKDC8ISxei) | 3:36 | 2025-11-22 |  |
 | [just cant](https://open.spotify.com/track/4DCSx7XCBxYWuc71WL02j2) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [What We Have](https://open.spotify.com/album/6mNYZNJ4a0tzSS3nPVnkO2) | 2:22 | 2022-07-28 | 2023-05-09 |
+| [Just Have Fun](https://open.spotify.com/track/3RlvwLLeShjFhOzKT0VXTP) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [These Days...](https://open.spotify.com/album/36V9Nypcss9ybEKKmPBhin) | 5:30 | 2026-01-23 |  |
 | [K\-Hole](https://open.spotify.com/track/0gF3J1BaegNk9PN4Zi8r0a) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 3:18 | 2025-06-01 |  |
 | [Kant rëlax](https://open.spotify.com/track/48x1ElzLnuwi72ZpEbbt7L) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:39 | 2022-04-04 | 2023-05-09 |
 | [Keep All That](https://open.spotify.com/track/0aA78qHNABmPVAhqmlPe6l) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Keep All That](https://open.spotify.com/album/3jpGLYf4jzhVjefWYt2HoL) | 2:19 | 2022-10-21 | 2023-05-09 |
@@ -851,6 +852,7 @@
 | [OT](https://open.spotify.com/track/3yEHC0WyZRUnpNVmIYSSmL) | [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Dum and Dumber Too](https://open.spotify.com/album/36t3hvr9NDOKn6y3NVBAlu) | 2:12 | 2022-09-29 | 2023-05-09 |
 | [Otha Fish](https://open.spotify.com/track/1KcZRMyC2tSs3CMIsng9wx) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde](https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna) | 5:21 | 2025-08-25 |  |
 | [out da window](https://open.spotify.com/track/3Vt5YK1tzOQ6pxOSCbtLRA) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [What We Have](https://open.spotify.com/album/6mNYZNJ4a0tzSS3nPVnkO2) | 2:44 | 2023-03-30 | 2023-12-14 |
+| [Out There](https://open.spotify.com/track/3PU3neC9XmWz7ZjUn5rYIw) | [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Ghetty Green](https://open.spotify.com/album/79C18fJJMGIe3IzT8LiuHR) | 4:19 | 2026-01-23 |  |
 | [Out thë way](https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:30 | 2022-09-09 | 2023-05-09 |
 | [Out West](https://open.spotify.com/track/17WQkOlartDUNoZAM2iihK) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Goodbye Horses](https://open.spotify.com/album/0I3cC1B19vTlERLgrYkeU9) | 2:06 | 2024-10-23 |  |
 | [Outside All Night \(feat\. A$AP Rocky & N3WYRKLA\)](https://open.spotify.com/track/1dbar1XukTbn7FQzQTqDQK) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 3:22 | 2024-05-14 | 2025-05-21 |
@@ -1296,6 +1298,7 @@
 | [Window Shopper](https://open.spotify.com/track/0mTe8pjxB6Ahg0cYfDaIj0) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [City On My Back](https://open.spotify.com/album/4dmycXSxh1F9LGAVgB1plB) | 2:32 | 2022-10-28 | 2024-03-05 |
 | [Wings of Love](https://open.spotify.com/track/4HXABSIIr5QXkBMOKg4KtJ) | [liv](https://open.spotify.com/artist/7nmgl15vMVoESrB2SZUWlC) | [Wings of Love](https://open.spotify.com/album/2vf0BVwVR4c2psutlbaNqM) | 4:05 | 2023-10-03 | 2024-04-24 |
 | [Wish U The Best](https://open.spotify.com/track/4MD3vd2CoOD7a4KUtg5SZH) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Cold Summer](https://open.spotify.com/album/0TxLAUhKclBHQUoeunGQlq) | 2:30 | 2022-10-24 | 2023-04-12 |
+| [Wit the Plug](https://open.spotify.com/track/2B5Or8AROTCPQAlbJz4oow) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Money Changes Everything](https://open.spotify.com/album/2piSTs76N8lkVTfa3YtFts) | 4:00 | 2026-01-23 |  |
 | [With Them](https://open.spotify.com/track/0tISnxqgVmxqhVghsTi2Rr) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 3](https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF) | 3:17 | 2023-12-12 | 2024-11-06 |
 | [With You](https://open.spotify.com/track/3JPFtBDSWygqLCZ07DVsNQ) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Bussin'](https://open.spotify.com/album/5ZOHGWB0OgDwVMojCv2vNR) | 4:07 | 2025-05-27 |  |
 | [Woah](https://open.spotify.com/track/02RCbjb9czvQKNGBmEmWob) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 3:03 | 2022-05-06 | 2023-12-14 |

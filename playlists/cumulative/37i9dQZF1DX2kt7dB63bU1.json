@@ -5227,6 +5227,24 @@
     },
     {
       "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/0Dh2jRgKkPGue3rD8nF4FN"
+      },
+      "artists": [
+        {
+          "name": "Hayley Sales",
+          "url": "https://open.spotify.com/artist/5aWJMTxBqrjjDPryNDNfMb"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236133,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/67qK2ncBGXb79ldCBrYETP"
+    },
+    {
+      "album": {
         "name": "Girl from New York City",
         "url": "https://open.spotify.com/album/3Li5r9qBwbruY1hXwYusJz"
       },
