@@ -1,12 +1,12 @@
 {
   "description": "A frequently updated playlist with brand-new songs from new &amp;amp; established artists. \ud83e\udd16\ud83d\udeab&#x2F;&#x2F; Cover: $NOT | pitch.playlistd@gmail.com",
-  "num_followers": 576,
+  "num_followers": 578,
   "original_name": "New Music Daily",
   "owner": {
     "name": "Finnster the curator",
     "url": "https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi"
   },
-  "snapshot_id": "AAABcvjd40swcjb0lQrwszuUutWoYAcu",
+  "snapshot_id": "AAABc1UtLabe6nTzrBj5bHd2HbrHBTOG",
   "tracks": [
     {
       "added_at": "2023-07-26 06:40:03",
@@ -8411,6 +8411,22 @@
       "duration_ms": 272666,
       "name": "What Happens When We Die?",
       "url": "https://open.spotify.com/track/0vzSRZuwogXh11G498bQW3"
+    },
+    {
+      "added_at": "2026-01-24 06:00:31",
+      "album": {
+        "name": "JANE GOODALL",
+        "url": "https://open.spotify.com/album/2qIQggwIpzjsP0k7tsG7SY"
+      },
+      "artists": [
+        {
+          "name": "Rolo",
+          "url": "https://open.spotify.com/artist/7KGGo3dYH0hGs2JWllqI1I"
+        }
+      ],
+      "duration_ms": 93158,
+      "name": "JANE GOODALL",
+      "url": "https://open.spotify.com/track/0zdrvHfEwtIEB5McVRw9XP"
     }
   ],
   "unique_name": "New Music Daily",

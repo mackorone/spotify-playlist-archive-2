@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 24 Jan 23:04 UTC.",
-  "num_followers": 103,
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 25 Jan 23:04 UTC.",
+  "num_followers": 104,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAXUYphioCzbo8FfaAw8KyfU8HUOJ4b",
+  "snapshot_id": "AAAXV0Bgb/0eksXn4OwTT+zcStFirzLE",
   "tracks": [
     {
       "added_at": "2026-01-23 19:04:28",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/1c2ArpI0RmBOk62Tf81xLI"
     },
     {
+      "added_at": "2026-01-24 19:03:47",
+      "album": {
+        "name": "ATM",
+        "url": "https://open.spotify.com/album/2aOzBC2dw4L6USRUdyu2X3"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "ATM",
+      "url": "https://open.spotify.com/track/0FrESd7LNffZyGZ37VuSmH"
+    },
+    {
       "added_at": "2026-01-23 19:04:28",
       "album": {
         "name": "God's Eye",
@@ -55,6 +71,22 @@
       "duration_ms": 131653,
       "name": "God\u2019s Eye",
       "url": "https://open.spotify.com/track/3G600027WLRbsunHeYJ5G2"
+    },
+    {
+      "added_at": "2026-01-24 23:04:14",
+      "album": {
+        "name": "Nothing Is Impossible With You",
+        "url": "https://open.spotify.com/album/5RJnjSC3fLOiC3NpZ7z5vW"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 254066,
+      "name": "Nothing Is Impossible With You",
+      "url": "https://open.spotify.com/track/1jP8sjGxTpkQz13WzS1fpw"
     },
     {
       "added_at": "2026-01-23 23:04:08",
@@ -157,6 +189,22 @@
       "url": "https://open.spotify.com/track/27v8QdBidbC5idqWHqPBBj"
     },
     {
+      "added_at": "2026-01-24 09:04:30",
+      "album": {
+        "name": "work",
+        "url": "https://open.spotify.com/album/0PrpxrMj10YkptkVb1wHza"
+      },
+      "artists": [
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        }
+      ],
+      "duration_ms": 145756,
+      "name": "work",
+      "url": "https://open.spotify.com/track/3ISiRKaCo6JzoKRjNJlvQA"
+    },
+    {
       "added_at": "2026-01-23 04:04:43",
       "album": {
         "name": "Aperture",
@@ -239,6 +287,22 @@
       "duration_ms": 143444,
       "name": "Flo Jackson",
       "url": "https://open.spotify.com/track/4fwJzG3arwvfC1ZbRdracJ"
+    },
+    {
+      "added_at": "2026-01-24 19:03:47",
+      "album": {
+        "name": "Discarded",
+        "url": "https://open.spotify.com/album/3wwbKjtM2zX3VdQZpXBhrg"
+      },
+      "artists": [
+        {
+          "name": "Diamond Construct",
+          "url": "https://open.spotify.com/artist/3ZM354nvaghR5dGCXiFgGG"
+        }
+      ],
+      "duration_ms": 221052,
+      "name": "Discarded",
+      "url": "https://open.spotify.com/track/2F4ku4srnF1RCK0GzqgoDN"
     },
     {
       "added_at": "2026-01-21 19:04:12",
@@ -775,78 +839,6 @@
       "duration_ms": 112798,
       "name": "FUMO Y DESPUES EXISTO",
       "url": "https://open.spotify.com/track/066atkDkmqjGlLz7wx4wKO"
-    },
-    {
-      "added_at": "2026-01-15 23:03:27",
-      "album": {
-        "name": "human props",
-        "url": "https://open.spotify.com/album/5hfpwOhdaXA3vOAaN7c4v0"
-      },
-      "artists": [
-        {
-          "name": "Static Dress",
-          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
-        }
-      ],
-      "duration_ms": 236273,
-      "name": "human props",
-      "url": "https://open.spotify.com/track/6SHRRutKyl62aHFP8vT0Fg"
-    },
-    {
-      "added_at": "2026-01-16 14:03:44",
-      "album": {
-        "name": "Creature Man",
-        "url": "https://open.spotify.com/album/5pAzrNu00cg5DzSmLCcGmt"
-      },
-      "artists": [
-        {
-          "name": "Vylet Pony",
-          "url": "https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j"
-        }
-      ],
-      "duration_ms": 216551,
-      "name": "Creature Man",
-      "url": "https://open.spotify.com/track/5NlL6jgTsh050LJr1s7g4T"
-    },
-    {
-      "added_at": "2026-01-16 14:03:44",
-      "album": {
-        "name": "Masochist Machine",
-        "url": "https://open.spotify.com/album/1iAJxLUCbg9Wz5M6Gf5l7K"
-      },
-      "artists": [
-        {
-          "name": "Moodring",
-          "url": "https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0"
-        }
-      ],
-      "duration_ms": 186378,
-      "name": "Masochist Machine",
-      "url": "https://open.spotify.com/track/0kfFXXEyUQwACSdrY4kfLD"
-    },
-    {
-      "added_at": "2026-01-15 23:03:27",
-      "album": {
-        "name": "THE THING",
-        "url": "https://open.spotify.com/album/3tMKgaUzzhqpoB7RxI5hDI"
-      },
-      "artists": [
-        {
-          "name": "TOMORA",
-          "url": "https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY"
-        },
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        },
-        {
-          "name": "Tom Rowlands",
-          "url": "https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW"
-        }
-      ],
-      "duration_ms": 338120,
-      "name": "THE THING",
-      "url": "https://open.spotify.com/track/43EE1xyVwIskJP13cJZJ6j"
     }
   ],
   "unique_name": "New Singles Now",

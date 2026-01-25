@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: DAY LIMNS, Giana Mello
 
-1,087 songs - 2 day 5 hr 55 min
+1,088 songs - 2 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [ANESTESIA](https://open.spotify.com/track/1soqtHYm1K8oChNDEmpZrP) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [ANESTESIA](https://open.spotify.com/album/2jHqfa5pVSOI0giNVlDB0c) | 2:22 | 2023-02-14 | 2023-08-19 |
 | [Anjo](https://open.spotify.com/track/0Z9L6VNvXpgsxnaWcdZgxa) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 3:47 | 2025-04-04 | 2025-07-26 |
 | [Anjos E Ancestrais](https://open.spotify.com/track/125ytOCb7oOEy9KAyDqXYD) | [Urbanamente](https://open.spotify.com/artist/49rYuhLNSc8WNdIw5CV0kT), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB), [Billy Billy](https://open.spotify.com/artist/1uUyWteV2hZskmno7GVARe), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Anjos E Ancestrais](https://open.spotify.com/album/7hIG0UDU2dWiObYml5ZNxz) | 3:33 | 2023-08-25 | 2023-09-23 |
+| [antes que você vá](https://open.spotify.com/track/4tM0ZCycym90cD9Xi4iVtD) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [antes que você vá](https://open.spotify.com/album/6mDrodmxlJCr9iAFnEnDxD) | 2:40 | 2026-01-23 |  |
 | [ANTISSOCIAL](https://open.spotify.com/track/5vkLsYCrNiD56XifYnIBo9) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD) | [ANTISSOCIAL](https://open.spotify.com/album/3VQBBPFAWLwpMtiEurj5sW) | 2:26 | 2023-11-10 | 2023-12-02 |
 | [Apaguei a Luz](https://open.spotify.com/track/6o3DIxt9kXUS5bsFR4sEEO) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO) | [Apaguei a Luz](https://open.spotify.com/album/4Va62LXVHZ9wOuIOinhK3x) | 1:33 | 2023-07-14 | 2023-08-05 |
 | [APESHIT](https://open.spotify.com/track/0E6PsO3ymCfUh7pJQjBgkj) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 4:24 | 2020-10-20 | 2023-02-15 |
@@ -339,7 +340,7 @@
 | [Estoy Aquí \- Remix](https://open.spotify.com/track/5Q8BwdHedbwWnyC9Trm6mj) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Estoy Aquí \(Remix\)](https://open.spotify.com/album/2Y16weFTT9GBB8BfbhQKiy) | 2:39 | 2025-01-31 | 2025-03-15 |
 | [ESTRANHO](https://open.spotify.com/track/35bXQjFxZwp40I1pwb7Jke) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [ESTRANHO](https://open.spotify.com/album/50O67wfhrrVoqbQr8p9WW7) | 2:46 | 2023-12-15 | 2024-01-27 |
 | [Estrela do Mar](https://open.spotify.com/track/0rULs7B1JjYnnaooUbZwy5) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Estrela do Mar](https://open.spotify.com/album/4g0LAPd9UDGIX2zgeHQXnY) | 3:15 | 2023-07-21 | 2023-08-26 |
-| [Eu Fim, Você Início](https://open.spotify.com/track/2IsynCtnYE5D7hizFfKwJt) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [Eu Fim, Você Início](https://open.spotify.com/album/6uOITxCxU1sPEFXEqretXW) | 3:20 | 2025-10-17 |  |
+| [Eu Fim, Você Início](https://open.spotify.com/track/2IsynCtnYE5D7hizFfKwJt) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [Eu Fim, Você Início](https://open.spotify.com/album/6uOITxCxU1sPEFXEqretXW) | 3:20 | 2025-10-17 | 2026-01-25 |
 | [Eu Não Gosto De Você](https://open.spotify.com/track/3Og1pv5olDQgQrydmgnaEA) | [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS), [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Eu Não Gosto De Você](https://open.spotify.com/album/2khNdKDOcnbwH2mKP2oKVx) | 2:50 | 2024-03-08 | 2024-05-04 |
 | [Eu Não Sei](https://open.spotify.com/track/7eeJgq9MhDnycYbd0oM2EZ) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Eu Não Sei](https://open.spotify.com/album/5rfuaPrFL0zxgLawlcHI94) | 3:34 | 2024-02-16 | 2024-03-23 |
 | [Eu Não Sei Brincar](https://open.spotify.com/track/1JV9pzSaSkFw3S9R5ZZZSl) | [NANNY](https://open.spotify.com/artist/3kosy0ERWA2PZ1zNi7PHSt) | [Eu Não Sei Brincar](https://open.spotify.com/album/7dDuVrVyt8cPynbjZIXuH2) | 2:19 | 2023-02-14 | 2023-03-25 |

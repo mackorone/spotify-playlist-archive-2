@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day\. Cover: Samm Henshaw
 
-920 songs - 2 day 6 hr 50 min
+921 songs - 2 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,7 +406,7 @@
 | [Inside Out](https://open.spotify.com/track/5K0kxnRaObm0I8ocGBE0pA) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Inside Out](https://open.spotify.com/album/1vt7X7XyjmXidzZqmL8Sz2) | 2:33 | 2023-08-11 | 2023-11-12 |
 | [Into You \(feat\. Kenyon Dixon & Stacy Barthe\)](https://open.spotify.com/track/4Zsu8lfeOVWidxYgTXDbe7) | [TAVE](https://open.spotify.com/artist/76ZWyAjoSOf6v8kH3UqLEK), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Stacy Barthe](https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV) | [Fly Away](https://open.spotify.com/album/2LBkSXLjkKvUdGjySYvtGF) | 2:44 | 2025-08-15 |  |
 | [Introspection](https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection](https://open.spotify.com/album/6Aj5Kces1cuu0pJwQTk1DF) | 2:48 | 2022-03-11 | 2023-04-01 |
-| [It Ain't Easy](https://open.spotify.com/track/3KhuRm5r30KMJ3E99adaIy) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [It Ain't Easy](https://open.spotify.com/album/2o37O88rBfov877yx4SqGc) | 3:28 | 2025-11-14 |  |
+| [It Ain't Easy](https://open.spotify.com/track/3KhuRm5r30KMJ3E99adaIy) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [It Ain't Easy](https://open.spotify.com/album/2o37O88rBfov877yx4SqGc) | 3:28 | 2025-11-14 | 2026-01-25 |
 | [It Runs Through Me](https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:21 | 2022-03-11 | 2022-11-17 |
 | [It Runs Through Me](https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:21 | 2022-03-11 | 2023-04-01 |
 | [It's Your Love](https://open.spotify.com/track/4cD38G7nhhX6Ej7ZXrf5QX) | [The Colleagues](https://open.spotify.com/artist/2KbzrjTYlv08KyvcblE8nT), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Love Language \(Lovers Deluxe\)](https://open.spotify.com/album/2dbSMMEoIZyb8TJoDnV6tS) | 3:39 | 2025-11-14 | 2026-01-15 |
@@ -478,6 +478,7 @@
 | [Love Is The Way](https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Love Is The Way](https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0) | 2:59 | 2022-10-21 | 2023-10-07 |
 | [Love Is The Way](https://open.spotify.com/track/4Z0aGS1P0KxyPlBpqHpJ0F) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Love Is The Way](https://open.spotify.com/album/1WiszSvpOFgvxk1d0pCFMw) | 2:59 | 2022-10-21 | 2023-04-30 |
 | [Love Is U](https://open.spotify.com/track/5uYQczKz44pYSF30aoIcbu) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [On God](https://open.spotify.com/album/5KxhSruFQfuYTdlInBAlbd) | 3:28 | 2024-02-09 | 2025-02-01 |
+| [Love Like This](https://open.spotify.com/track/3lTIQsde6aWd46WoKO2pry) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Love Like This](https://open.spotify.com/album/0xDdjGZzyR1vWTFFmwBMg2) | 3:30 | 2026-01-23 |  |
 | [LOVE ME \(feat\. Stevie Wonder\)](https://open.spotify.com/track/5HPvBWjFHAO01Zt22uDU27) | [Camper](https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [CAMPILATION](https://open.spotify.com/album/3ZvwuyvY78GsvVFkYk0wXD) | 3:10 | 2026-01-23 |  |
 | [Love Me Down](https://open.spotify.com/track/50dMlZYLpRrPjiaaik0PVp) | [LA'DY](https://open.spotify.com/artist/5b0jEo4I7GhpkpINczgE0E) | [Love Me Down](https://open.spotify.com/album/4H8cNDBzIJG4CjkaWC8aCx) | 2:52 | 2023-05-12 | 2024-03-07 |
 | [Love On You](https://open.spotify.com/track/0mBX1jSxAQbOlfSWgZlL0I) | [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba) | [The Found Album](https://open.spotify.com/album/4pRSg1bpkomA4aSn9EIxfx) | 4:10 | 2023-06-16 | 2023-10-21 |

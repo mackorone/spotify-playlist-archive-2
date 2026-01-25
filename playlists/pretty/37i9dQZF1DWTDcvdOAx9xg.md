@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDcvdOAx9xg.md) - [plain]
 
 > il meglio dei brani  <a href="spotify:playlist:37i9dQZF1DWYCIYGXn56uz">gen\-z</a> italiani di quest'anno, secondo voi e i nostri editor 📞 Cover: Gaia
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,112 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,114 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDcvdOAx9xg.md) - [plain]
 | 49 | [Le ragazze della valle](https://open.spotify.com/track/4vJGG2hBGKMizpxf7CovgL) | [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ), [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [Le ragazze della valle](https://open.spotify.com/album/3zoFvFtix0uIdntQ65aRrt) | 2:52 |
 | 50 | [Vent'Anni](https://open.spotify.com/track/1vYQZVpjtroRaTYmQHMtKo) | [Seltsam](https://open.spotify.com/artist/0stiPQBq14QBNQ1Uc8778V) | [Vent'Anni](https://open.spotify.com/album/2G9spXt42A6VZxLLnCGNF3) | 2:14 |
 
-Snapshot ID: `AAAAAGoJiLC+K2PdnxE9xgbEDD6XMgEJ`
+Snapshot ID: `AAAAAKpl+SuCiYpyeantaztffSr5Ehck`

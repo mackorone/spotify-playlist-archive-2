@@ -4,7 +4,7 @@
 
 > All the sunny surf rock you need.
 
-387 songs - 21 hr 57 min
+388 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Malibu Sunset](https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi) | [The Travelers](https://open.spotify.com/artist/6vayW66astvaRgv4llGBff) | [Malibu Sunset b/w Hang On](https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol) | 2:08 | 2023-07-13 | 2026-01-24 |
 | [Mammoth Surf](https://open.spotify.com/track/2gJ2Joktitd1I4gGTk29wo) | [Eric Tessmer](https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C) | [Mammoth Surf](https://open.spotify.com/album/4heRPb0mBzy2WVb7jGLvKu) | 2:00 | 2023-07-13 | 2025-09-28 |
 | [Marcel](https://open.spotify.com/track/7BttFWHvQk5LCj2yOTDf8E) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Marcel](https://open.spotify.com/album/0rK9HP4j66B4BxH1XRDb3E) | 3:07 | 2021-02-05 | 2022-07-29 |
+| [Middleman](https://open.spotify.com/track/4dqWPuDUgq2LNNUQRaf2JX) | [Straight Arrows](https://open.spotify.com/artist/26z3WWkBQxxvG8jRbFdL3N) | [Middleman / Do The Sloth](https://open.spotify.com/album/3e6CnNkVhZoVFNUASCmFRl) | 2:23 | 2026-01-23 |  |
 | [Midnight Man](https://open.spotify.com/track/31vk2M79Pww97MfuEtpJ2l) | [Tiger Print](https://open.spotify.com/artist/3fpqo6msQ6GSVYTZZBvx1p) | [Midnight Man](https://open.spotify.com/album/3z1IMUXAroeDblsW08xuw7) | 2:39 | 2023-07-13 | 2026-01-24 |
 | [Miserlou](https://open.spotify.com/track/6CpYgr1lWHTmPHhNzMIQnW) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [King of the Surf Guitar](https://open.spotify.com/album/1nZdm2NWYjweOEXNzct84A) | 2:15 | 2022-06-01 | 2022-06-17 |
 | [Miserlou](https://open.spotify.com/track/11KrkGG4k0URkEe5NNKx55) | [Dick Dale & His Del\-Tones](https://open.spotify.com/artist/7J77vP6EbI63lB3snZeRj4) | [Surfer's Choice](https://open.spotify.com/album/3WE8DHBf6fDJpZWcdTsWAx) | 2:17 | 2021-02-05 | 2022-04-20 |
@@ -254,7 +255,7 @@
 | [Playful Sins](https://open.spotify.com/track/0FODuQjDLbTaqNIYZrEE5K) | [Camino Gold](https://open.spotify.com/artist/4VbbF8VGwTH0Erx5PYg3Hi) | [Playful Sins](https://open.spotify.com/album/5LtWxH19vd7sBZUJXzozII) | 3:42 | 2026-01-23 |  |
 | [Poor Relations](https://open.spotify.com/track/2OPmmqhPLBbHoHwtzOsUnl) | [Mr Twin Sister](https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz) | [Poor Relations](https://open.spotify.com/album/52XthHFl0TIgAikopVpv1g) | 4:21 | 2021-02-05 | 2022-07-02 |
 | [Poppies](https://open.spotify.com/track/4oiZ494M5fJgMhdqew0n8p) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [News of the Universe](https://open.spotify.com/album/1GUFHInzictK6bRxCdRUft) | 3:32 | 2025-02-07 |  |
-| [Postcode Lover](https://open.spotify.com/track/7CRxgl5YJ2mkhM1Nyq6s8d) | [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [Postcode Lover](https://open.spotify.com/album/6lg0c3lhHOYHnJREaycKre) | 2:45 | 2023-08-18 |  |
+| [Postcode Lover](https://open.spotify.com/track/7CRxgl5YJ2mkhM1Nyq6s8d) | [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [Postcode Lover](https://open.spotify.com/album/6lg0c3lhHOYHnJREaycKre) | 2:45 | 2023-08-18 | 2026-01-25 |
 | [Prefiro Vila Velha](https://open.spotify.com/track/2N3likJH7vvBvJrUVtqycW) | [Maré Tardia](https://open.spotify.com/artist/1XoJ1dcJu0aUwt4H7dTt2i) | [Prefiro Vila Velha](https://open.spotify.com/album/2xYnWkBjcHkcq3Lc5nTNvq) | 2:27 | 2023-07-13 | 2025-02-16 |
 | [Preloved](https://open.spotify.com/track/6uzUzGdIUdxHyup4fNAl1J) | [Peach Fur](https://open.spotify.com/artist/7HeH2mQJ6HWzZK7PZEBWxz) | [Awake](https://open.spotify.com/album/2xhB8gE9KEr2fjCZoNzVDr) | 3:53 | 2024-07-02 |  |
 | [Preoccupied](https://open.spotify.com/track/6N4WUdbz6HVKy6u6JX1KqK) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:59 | 2021-02-05 | 2022-07-09 |

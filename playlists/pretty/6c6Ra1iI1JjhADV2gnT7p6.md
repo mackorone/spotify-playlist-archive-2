@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of indie, dreampop and lofi vibes\. Updated every week, save your favorites 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,628 likes - 333 songs - 18 hr 59 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,624 likes - 333 songs - 18 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 24 | [Dance With You](https://open.spotify.com/track/7lkMWvf06hYwUEEzo5FhAd) | [Starwolf](https://open.spotify.com/artist/3Ls05mIE3GrqAuTqjdWDGV) | [Dance With You](https://open.spotify.com/album/15kmIY902kAjgmCl9YeC4D) | 3:02 |
 | 25 | [The Warm Tide](https://open.spotify.com/track/6jVLNWObkzUXPX7aSWepxv) | [Raphaë](https://open.spotify.com/artist/2cJR3td2CEzbMn1kOK07D9), [Nui Selkie](https://open.spotify.com/artist/6PBQBl5dTgfxvfbcKdn0Re), [Pegase](https://open.spotify.com/artist/3CyGpunc019xO6V7Skfmry) | [The Warm Tide](https://open.spotify.com/album/2fI2l81CPIu1iobUkAkDVe) | 2:52 |
 | 26 | [Austral](https://open.spotify.com/track/62bP3bwUKEzLMlZJw7gjWk) | [Vilde](https://open.spotify.com/artist/41EzImgqZFKQDb60paN8io) | [Austral](https://open.spotify.com/album/01sRE2XHPK1kzUZPOtiqhn) | 4:20 |
-| 27 | [Sleep Paralysis](https://open.spotify.com/track/6txiEQkCxZQjyzCPRhXqUM) | [Ken Park](https://open.spotify.com/artist/7AyoL7nBpOxuFWu706TN1J) | [Sleep Paralysis](https://open.spotify.com/album/3pArOOBacOmVaJEATRcJYQ) | 3:19 |
-| 28 | [Tim](https://open.spotify.com/track/4aVkj1UjX6bZAMaBltGCMc) | [das bisschen Totschlag](https://open.spotify.com/artist/6VdOdkBMOxfR16BzFJAnNu) | [Tim](https://open.spotify.com/album/29pNCVofIMWMMIuRciZDqj) | 2:27 |
-| 29 | [God in the Middle](https://open.spotify.com/track/0kQdh1yqErJjcNbBNVsU1r) | [Helmut](https://open.spotify.com/artist/6ReyaIMVxJYKqQnmQHM5Vt) | [God in the Middle](https://open.spotify.com/album/2mS0mtmCeaL4anmimEFJiA) | 3:52 |
-| 30 | [Vision](https://open.spotify.com/track/2Zr7TsOFJiPXc1QmOeRy7Q) | [Snake Orange Cake](https://open.spotify.com/artist/2RxV64q89REgzifqSpGkpp) | [Vision](https://open.spotify.com/album/6Nl9Sx6IIZyHeAoDVNf6gf) | 3:13 |
+| 27 | [God in the Middle](https://open.spotify.com/track/0kQdh1yqErJjcNbBNVsU1r) | [Helmut](https://open.spotify.com/artist/6ReyaIMVxJYKqQnmQHM5Vt) | [God in the Middle](https://open.spotify.com/album/2mS0mtmCeaL4anmimEFJiA) | 3:52 |
+| 28 | [Vision](https://open.spotify.com/track/2Zr7TsOFJiPXc1QmOeRy7Q) | [Snake Orange Cake](https://open.spotify.com/artist/2RxV64q89REgzifqSpGkpp) | [Vision](https://open.spotify.com/album/6Nl9Sx6IIZyHeAoDVNf6gf) | 3:13 |
+| 29 | [Sleep Paralysis](https://open.spotify.com/track/6txiEQkCxZQjyzCPRhXqUM) | [Ken Park](https://open.spotify.com/artist/7AyoL7nBpOxuFWu706TN1J) | [Sleep Paralysis](https://open.spotify.com/album/3pArOOBacOmVaJEATRcJYQ) | 3:19 |
+| 30 | [Tim](https://open.spotify.com/track/4aVkj1UjX6bZAMaBltGCMc) | [das bisschen Totschlag](https://open.spotify.com/artist/6VdOdkBMOxfR16BzFJAnNu) | [Tim](https://open.spotify.com/album/29pNCVofIMWMMIuRciZDqj) | 2:27 |
 | 31 | [Angel Cupid](https://open.spotify.com/track/707LchQf1EpIpfAXY6gw1n) | [Hater](https://open.spotify.com/artist/4Xi4aFTZvoMChGDmSVgxTz) | [Angel Cupid](https://open.spotify.com/album/7kgslCwcG3I4RDkZVR5Gdj) | 3:29 |
 | 32 | [Drowning In A Daydream](https://open.spotify.com/track/3xc1XMo8mPVncW6ygzHaGF) | [veronicavon](https://open.spotify.com/artist/6qOWi2uVjil54PGcEfdKVZ) | [icecream](https://open.spotify.com/album/5Po4vHcEvcKP17j23ReHAa) | 2:49 |
 | 33 | [Please](https://open.spotify.com/track/7wtU8CEcIELlWhmvC0hqZx) | [Otracami](https://open.spotify.com/artist/6VZhV0nHzh64xErbe4OHZs) | [Please](https://open.spotify.com/album/1yn8sAYRP3l4F624E2mwy8) | 3:33 |
@@ -342,4 +342,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 332 | [Where's My Phone?](https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Where's My Phone?](https://open.spotify.com/album/1oLPKLJMffq7fO3XapLx4G) | 3:09 |
 | 333 | [The Old Law](https://open.spotify.com/track/1JeJ5XwrM2qPa7tDS2CRQx) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [The Old Law](https://open.spotify.com/album/0mLjKw7vC6pyyV1Fy2C8Na) | 4:41 |
 
-Snapshot ID: `AAAtAdT7KMH7+sHX6T4gCwmluDBbh9OM`
+Snapshot ID: `AAAtA06DayTi8krpSwcn0BfqqEExNKh6`

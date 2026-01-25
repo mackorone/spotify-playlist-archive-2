@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cYvrVMHxrj.md) - [plain]
 
 > We asked artists to shout out the rising names we \(and you\) need to know — and these are their picks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 509 likes - 72 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 515 likes - 72 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [AGUA E' PANELA \(cule\_nota\)](https://open.spotify.com/track/0T5aZy0h2WCk1N9Vgp77Qn) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [AGUA E' PANELA \(cule\_nota\)](https://open.spotify.com/album/29d7TpjwEZ2mXqrBQBuQfN) | 2:07 |
-| 2 | [Si Es Verdad](https://open.spotify.com/track/1Yjd1m8oNe8e7z8fPCtFYy) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Caracol](https://open.spotify.com/album/1VMsqdqTDj0Rr6Wzr8cTW4) | 2:49 |
+| 2 | [Si Es Verdad](https://open.spotify.com/track/1Yjd1m8oNe8e7z8fPCtFYy) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Caracol](https://open.spotify.com/album/1VMsqdqTDj0Rr6Wzr8cTW4) | 2:51 |
 | 3 | [No era amor](https://open.spotify.com/track/0nAYHH7PlT3YWYxntJ3klM) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [Emme](https://open.spotify.com/artist/46V95jm2XMU8IyaKSXjSfW) | [No era amor](https://open.spotify.com/album/5obYaeL4HSkhqA8ryJ1edh) | 3:38 |
 | 4 | [flashes](https://open.spotify.com/track/6ciaJyxPG3OueX32rd57jA) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [flashes](https://open.spotify.com/album/1xtogJBn8wOmtb7uNHCl6h) | 3:05 |
 | 5 | [Vitamina C](https://open.spotify.com/track/3rTfXhVegp74Zh2Btm3vpD) | [VEI HABACHE](https://open.spotify.com/artist/2sLkiZWy89QT6JzA3uP56Z) | [06199](https://open.spotify.com/album/6sJilcDMJaudLckAxxMxON) | 3:45 |

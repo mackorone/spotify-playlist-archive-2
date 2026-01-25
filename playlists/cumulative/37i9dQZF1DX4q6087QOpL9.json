@@ -800,7 +800,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 264586,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/7jokcgwenxH9rBm5s3CYfs"
@@ -1944,6 +1944,32 @@
       "duration_ms": 352000,
       "name": "Don't Lose The Magic - Emmaculate Extended Club Mix",
       "url": "https://open.spotify.com/track/1tdfiSE0sC95hib1ChBn8z"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t You Worry",
+        "url": "https://open.spotify.com/album/75rfKfQ4swyetUBj1uhRbo"
+      },
+      "artists": [
+        {
+          "name": "Danny Kane",
+          "url": "https://open.spotify.com/artist/3LWEf3x2v5RLYslnwzdZIB"
+        },
+        {
+          "name": "Michael Gray",
+          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
+        },
+        {
+          "name": "Colonel Red",
+          "url": "https://open.spotify.com/artist/1GhDVB3CquhzQh8PXdGhGr"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185902,
+      "name": "Don\u2019t You Worry - Michael Gray Remix",
+      "url": "https://open.spotify.com/track/6QELu4D6a6gXPTZsFb4jed"
     },
     {
       "album": {
@@ -3358,7 +3384,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 368564,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/22kvzIUCs0oua1K4f1NyWf"
@@ -8476,6 +8502,36 @@
       "duration_ms": 475262,
       "name": "When The Morning Comes - Main Vocal Mix",
       "url": "https://open.spotify.com/track/0sZmHiIFlz2RfXzrZCGiIu"
+    },
+    {
+      "album": {
+        "name": "When You Find Your Love\u2026Hold On (musclecars Remix)",
+        "url": "https://open.spotify.com/album/0cq57mli8tnjZ1Zit5W7ar"
+      },
+      "artists": [
+        {
+          "name": "Tortured Soul",
+          "url": "https://open.spotify.com/artist/365Fm0OgkStvN1wWzeyfDN"
+        },
+        {
+          "name": "Alistair Colling",
+          "url": "https://open.spotify.com/artist/1hl8q7cjwxERY2IuslotSX"
+        },
+        {
+          "name": "musclecars",
+          "url": "https://open.spotify.com/artist/1Rd3VMOwsZQjTxWaYZYd1R"
+        },
+        {
+          "name": "Sabina Sciubba",
+          "url": "https://open.spotify.com/artist/6pr2Q5fTpmMvBNMz75BTJR"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 505263,
+      "name": "When You Find Your Love\u2026Hold On - musclecars Remix",
+      "url": "https://open.spotify.com/track/6WIIsgcewJ1qgNgOOLY8bl"
     },
     {
       "album": {

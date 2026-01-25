@@ -1,6 +1,6 @@
 {
   "description": "Our editors' picks of the best <a href=\"spotify:genre:0JQ5DAqbMKFImHYGo3eTSg\">Fresh Finds</a>  tracks around the world this year. Cover: The Belair Lip Bombs",
-  "num_followers": 14465,
+  "num_followers": 14473,
   "original_name": "Fresh Finds: Class of 2025",
   "owner": {
     "name": "Spotify",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
+        "name": "See You Around",
+        "url": "https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf"
+      },
+      "artists": [
+        {
+          "name": "Truthpaste",
+          "url": "https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "See You Around",
+      "url": "https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
         "name": "NEW AGE",
         "url": "https://open.spotify.com/album/4gkvq2hK8b3GPeKY6W2E03"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 182694,
       "name": "BLIND",
       "url": "https://open.spotify.com/track/2OmnzMLTn0mx6iXrp4VBjz"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
-        "name": "See You Around",
-        "url": "https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf"
-      },
-      "artists": [
-        {
-          "name": "Truthpaste",
-          "url": "https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "See You Around",
-      "url": "https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S"
     },
     {
       "added_at": "2025-12-03 12:16:13",

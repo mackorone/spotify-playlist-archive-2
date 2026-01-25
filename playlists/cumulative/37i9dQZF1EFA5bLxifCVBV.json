@@ -952,10 +952,32 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 137306,
       "name": "Fancy Meeting You",
       "url": "https://open.spotify.com/track/3jZii636rrBQsii5TXVY1i"
+    },
+    {
+      "album": {
+        "name": "The Only Star",
+        "url": "https://open.spotify.com/album/3QqDQlb0N8lRaxxDAvgWmU"
+      },
+      "artists": [
+        {
+          "name": "Blue Barron & His Orchestra",
+          "url": "https://open.spotify.com/artist/6eXuANzEDfPG5dHo69H3et"
+        },
+        {
+          "name": "Charlie Fisher",
+          "url": "https://open.spotify.com/artist/33xHRggEtheyESYR6ro72K"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137306,
+      "name": "Fancy Meeting You",
+      "url": "https://open.spotify.com/track/5qwXnPEyIyRY8Z3m74fwUM"
     },
     {
       "album": {

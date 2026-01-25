@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,353 songs - 3 day 1 hr 33 min
+1,354 songs - 3 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [Changes \- Timmy Trumpet Remix](https://open.spotify.com/track/5JZMjnhb3rcAJXn9L1xTIU) | [Faul & Wad Ad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Changes \(Timmy Trumpet Remix\)](https://open.spotify.com/album/57YOijzcUtmTsqIDoKuT2J) | 2:26 | 2021-09-25 | 2021-10-05 |
 | [Channel 42](https://open.spotify.com/track/205OX0j3oM5tgUHhyGGmSs) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [> album title goes here <](https://open.spotify.com/album/4zksvtV0HswF5ZRJS9QsfX) | 4:50 | 2020-09-21\* | 2020-10-10 |
 | [Chased \- Radio Edit](https://open.spotify.com/track/1CL8xcR9I43Yp0VFc0zG7W) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [Chased \(Radio Edit\)](https://open.spotify.com/album/5hZObARlt5YfThCFm8kuiU) | 3:06 | 2020-09-21\* | 2021-02-20 |
-| [Chemicals](https://open.spotify.com/track/0zf1tiIdlhpbUDZJmbdBPA) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Chemicals](https://open.spotify.com/album/6ElHfnCTakQ9ZTruXFjTeB) | 4:44 | 2025-11-14 |  |
+| [Chemicals](https://open.spotify.com/track/0zf1tiIdlhpbUDZJmbdBPA) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Chemicals](https://open.spotify.com/album/6ElHfnCTakQ9ZTruXFjTeB) | 4:44 | 2025-11-14 | 2026-01-25 |
 | [Children \- Radio Edit](https://open.spotify.com/track/7Bg90Jhm3Dhtu7m2YCpo6C) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children](https://open.spotify.com/album/4pAD0l5icphM5TC1A4q8Yn) | 3:26 | 2022-09-02 | 2024-04-19 |
 | [Chills \(Feel My Love\)](https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Chills \(Feel My Love\)](https://open.spotify.com/album/5D3qYKt4IFBEQENqzzlh1Y) | 2:43 | 2024-08-02 | 2024-11-09 |
 | [Chills \(LA Hills\)](https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 3:03 | 2023-04-21 | 2023-07-15 |
@@ -659,6 +659,7 @@
 | [Live For](https://open.spotify.com/track/0F9fZwEu2cWSgqoRWzAtAS) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Live For](https://open.spotify.com/album/075Aglr1S2AQZRNKv13Ho7) | 2:51 | 2021-11-13 | 2022-03-12 |
 | [Live For Tonight](https://open.spotify.com/track/6ubzP72gvwiVsPYaLbARsO) | [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC), [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [These Little Stories \(Part One\)](https://open.spotify.com/album/6Zt1kmTFZ247I6d5tR1vSK) | 3:16 | 2020-09-21\* | 2021-01-23 |
 | [Live Forever](https://open.spotify.com/track/39KKYTqncDgUljFCjV5Xsp) | [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [Big Room](https://open.spotify.com/album/16cLJhmepgj4vlCjSUJpH4) | 4:01 | 2020-09-21\* | 2021-01-23 |
+| [Locked In \(feat\. Trippie Redd\)](https://open.spotify.com/track/55oaId1IHZV9XfvHB3P7PJ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Locked In \(feat\. Trippie Redd\)](https://open.spotify.com/album/2fG4Abi890K7fZ9MnEsq9p) | 2:48 | 2026-01-23 |  |
 | [Lollipop](https://open.spotify.com/track/0iG3esqSDh6QJdN1zrAgyo) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Lollipop](https://open.spotify.com/album/482d91SbKIqijUyqTGQYZl) | 2:24 | 2023-08-18 | 2024-07-13 |
 | [Lonely Days](https://open.spotify.com/track/6B6UOiNJIaymyr05jwMmuw) | [Kosling](https://open.spotify.com/artist/1dsilrkrvxXE6I02SWfDYD), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Lonely Days](https://open.spotify.com/album/0QELvGe0mwITZXCdlHozC9) | 3:04 | 2022-03-18 | 2022-05-11 |
 | [Looking For](https://open.spotify.com/track/2CuAhhmXRqvWPTEDNTh6mk) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [DaniCW](https://open.spotify.com/artist/1ZZsD3Hko1ZXhsj9fPzZdK) | [Looking For](https://open.spotify.com/album/7wHOTnteGw55IIs6utzVrO) | 3:42 | 2021-08-14 | 2022-03-12 |

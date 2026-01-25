@@ -4,7 +4,7 @@
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-2,449 songs - 3 day 21 hr 18 min
+2,450 songs - 3 day 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,12 +149,13 @@
 | [At Rest](https://open.spotify.com/track/5vhky6i1maKCDSVeaSlgv9) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [At Rest](https://open.spotify.com/album/7sP3zfVi8KJzQhyHUc5QDt) | 1:28 | 2024-12-13 |  |
 | [At the Coffe Shop](https://open.spotify.com/track/4qvFr1wmMtFVKNWQf3luUI) | [Random Dinu](https://open.spotify.com/artist/3mfI1TXFW4tXPQEklMqSsP) | [At the Coffee Shop](https://open.spotify.com/album/01t6ljHGKGIwtCxngi8dqO) | 1:15 | 2022-12-09 | 2024-08-31 |
 | [Atlantic Ocean](https://open.spotify.com/track/79ueipIReBsOjdT1nusFnC) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Atlantic Ocean](https://open.spotify.com/album/6JcBrBWZTSLr6xVb7Pb7Hw) | 2:00 | 2023-03-08 | 2025-11-26 |
-| [Atlantik](https://open.spotify.com/track/4J4BEFKlDVTsYPNkkPzd9T) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [Atlantik](https://open.spotify.com/album/4DESs4vKq8Gb4i8AQwFnR6) | 1:29 | 2023-04-11 |  |
+| [Atlantik](https://open.spotify.com/track/4J4BEFKlDVTsYPNkkPzd9T) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [Atlantik](https://open.spotify.com/album/4DESs4vKq8Gb4i8AQwFnR6) | 1:29 | 2023-04-11 | 2026-01-25 |
 | [Atropy](https://open.spotify.com/track/0hgi6qBCrmzn8ZjI5RMpuf) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Atropy](https://open.spotify.com/album/6Zn00jbQnmxQ6A1tnb1sdA) | 1:57 | 2025-03-07 | 2025-04-19 |
 | [attaku](https://open.spotify.com/track/2w7KbtmlpNGjF8u9zO5DHy) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [konichiwa](https://open.spotify.com/album/3Z5v6CFjGBfuDw211vp9GI) | 1:46 | 2022-04-15 | 2022-05-27 |
 | [Attic](https://open.spotify.com/track/7iluuTdPqCnj4KuDOe78xS) | [Turn.](https://open.spotify.com/artist/0EWNopBCU1Smyzg0IhiKVV) | [Attic](https://open.spotify.com/album/2hz5oSeR4C35KeeFNiS3al) | 1:48 | 2022-04-15 | 2022-05-27 |
 | [Attraction](https://open.spotify.com/track/4lmZ1Txc3fszkp0dGhlb8T) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [bouji bud](https://open.spotify.com/artist/4sKoAY8ajcXn6EI1ioDLXW) | [Attraction](https://open.spotify.com/album/7bR8LaH0y4v2T7w7LzWYKC) | 2:00 | 2022-06-24 | 2022-11-19 |
 | [Audemars Pigeon](https://open.spotify.com/track/7iFiiIo6y2jNsmnWJaGUpz) | [Wruce Billis](https://open.spotify.com/artist/4EhDrnqEaFfNnjJkljUmRx) | [Audemars Pigeon](https://open.spotify.com/album/5urVLzzVGsvI0lNH1ufLGI) | 2:20 | 2023-01-13 | 2025-11-15 |
+| [aura](https://open.spotify.com/track/3daVwDNsGnU8glaaaN83RR) | [agot\-w](https://open.spotify.com/artist/7kDzFaRe9l7To45Hqo6Kdh) | [aura](https://open.spotify.com/album/24TxGuWmOWonl0diUEvLRV) | 2:12 | 2026-01-23 |  |
 | [Aurora Village](https://open.spotify.com/track/5uMKK3FM8xuOtBQ4r5kHsV) | [Venn Divi](https://open.spotify.com/artist/0xMjjTrZmBI1AxzgRKFmPi) | [Aurora Village](https://open.spotify.com/album/1GEp44Hx7irB4w6RmOadUq) | 2:33 | 2022-11-11 | 2024-11-30 |
 | [Autopilot](https://open.spotify.com/track/7qwKNJIHESKRCZhMVEryi0) | [Vrouzli](https://open.spotify.com/artist/5UdyPviMkdOWjnawTiCFch) | [Autopilot](https://open.spotify.com/album/4zkTVG3n8JMJ97rBPvRcWv) | 2:08 | 2023-03-08 | 2024-05-15 |
 | [Autumn Air](https://open.spotify.com/track/6rHLRiZ8YYwO03he7OJQU2) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [Autumn Air](https://open.spotify.com/album/1LOTpCIncHlI19boa03gC5) | 2:19 | 2022-11-25 | 2024-05-14 |

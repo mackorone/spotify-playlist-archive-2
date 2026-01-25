@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Le meilleur de l'indie français\. Cover : Lilly Wood and The Prick
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,191 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,165 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 8 | [Nuits bleues](https://open.spotify.com/track/7kVEesbz7C9LuiY8P2GuCW) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3), [Kyana](https://open.spotify.com/artist/1xOGqfYHZ2N0C06PzHE1dx) | [Nuits bleues](https://open.spotify.com/album/0kwjlPh5rxVb4EwvbZhy2H) | 2:42 |
 | 9 | [Blue Summer](https://open.spotify.com/track/2STdCfjSC4CB9TakulkWFD) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [Ricky Ducati](https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE) | [Blue Summer](https://open.spotify.com/album/1Rdsc0SBiK6RpNrhAfJM18) | 3:40 |
 | 10 | [Drink For Love](https://open.spotify.com/track/0549rMhlyXIm7OlQiJl4Gu) | [Velour](https://open.spotify.com/artist/2gnFFtzPgBpwBepDNSPZO7) | [Drink For Love EP](https://open.spotify.com/album/6WRNhjMcwz2hin8HEQKB31) | 3:02 |
-| 11 | [Orient Express](https://open.spotify.com/track/67gEoObTZxg3tnzSA2R1vc) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ), [HabibiSly](https://open.spotify.com/artist/1aJmuI59aoDA9mBk4ACoxl), [Hareth Mehdi](https://open.spotify.com/artist/16dgg1GkycsNVdNs0S3JYp) | [Orient Express](https://open.spotify.com/album/0P5YIh9Lf83Ey4ERFPDAlC) | 4:12 |
+| 11 | [Orient Express](https://open.spotify.com/track/67gEoObTZxg3tnzSA2R1vc) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ), [HabibiSly](https://open.spotify.com/artist/1aJmuI59aoDA9mBk4ACoxl), [Hareth Mhedi](https://open.spotify.com/artist/5M1Y14WQauKS8E1bhRacf5) | [Orient Express](https://open.spotify.com/album/0P5YIh9Lf83Ey4ERFPDAlC) | 4:12 |
 | 12 | [Coeur de verre](https://open.spotify.com/track/0M3f8bLNATelCrDaw5FLlb) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Coeur de verre](https://open.spotify.com/album/5ysp6QHgZ20slMixdYosBj) | 2:33 |
 | 13 | [Offset](https://open.spotify.com/track/6EEGalBJEDyMBjKOhDUlI7) | [Velour](https://open.spotify.com/artist/2gnFFtzPgBpwBepDNSPZO7) | [Offset EP](https://open.spotify.com/album/2otOzSJZolNF87xsnTFdnl) | 3:02 |
 | 14 | [Friends](https://open.spotify.com/track/1pwyINL3fwBKV95x0l4A1n) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Friends](https://open.spotify.com/album/6I8YtUNtTpKIU2SJPRVfId) | 3:28 |

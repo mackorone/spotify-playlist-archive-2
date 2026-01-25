@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: PoppyNoji
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,109 likes - 108 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,212 likes - 108 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

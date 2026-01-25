@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de las escenas en M\u00e9xico en compa\u00f1\u00eda de Malcriada",
-  "num_followers": 92152,
+  "num_followers": 92153,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "Entresue\u00f1os",
+        "url": "https://open.spotify.com/album/0Jsc0pQII2vfnBV1fWKZIz"
+      },
+      "artists": [
+        {
+          "name": "Anthr\u00e9s",
+          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
+        }
+      ],
+      "duration_ms": 176950,
+      "name": "Entresue\u00f1os",
+      "url": "https://open.spotify.com/track/1hZfTTvkoxecJCqEqaoYqq"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "antonio banderas",
         "url": "https://open.spotify.com/album/06qlB6sf07ldcmzoN9wGSh"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 215967,
       "name": "31",
       "url": "https://open.spotify.com/track/6e9FG8qGTou5WZnExDRj9q"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "Entresue\u00f1os",
-        "url": "https://open.spotify.com/album/0Jsc0pQII2vfnBV1fWKZIz"
-      },
-      "artists": [
-        {
-          "name": "Anthr\u00e9s",
-          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
-        }
-      ],
-      "duration_ms": 176950,
-      "name": "Entresue\u00f1os",
-      "url": "https://open.spotify.com/track/1hZfTTvkoxecJCqEqaoYqq"
     },
     {
       "added_at": "2025-10-03 06:00:06",

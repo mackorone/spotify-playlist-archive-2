@@ -1,12 +1,12 @@
 {
   "description": "This is Ramon Ayala Y Sus Bravos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 84842,
+  "num_followers": 84866,
   "original_name": "This Is Ramon Ayala Y Sus Bravos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXFogAAAAAAfnIgpsRwMMjQBOcyycG1/",
+  "snapshot_id": "aXK6AAAAAADnXZ8LW3Yn52ZxVLI6SJJ7",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PURA MUSICA DE CANTINA",
-        "url": "https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 252374,
-      "name": "Enti\u00e9rrenme Cantando",
-      "url": "https://open.spotify.com/track/04vH8GYCVFxARTN7LydGdI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Triste Recuerdo (Aferrado Por Ti)",
         "url": "https://open.spotify.com/album/6BPIQtgq7bYpXflr0Sx8eS"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 185266,
       "name": "Triste Recuerdo",
       "url": "https://open.spotify.com/track/6RFq3bDIY2HTvwSgsZC6tg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PURA MUSICA DE CANTINA",
+        "url": "https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 252374,
+      "name": "Enti\u00e9rrenme Cantando",
+      "url": "https://open.spotify.com/track/04vH8GYCVFxARTN7LydGdI"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Rama De Mezquite",
-        "url": "https://open.spotify.com/album/4JYoO4nKwHf4uPBa6Loh07"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 167160,
-      "name": "Cuando Yo Era Un Jovencito",
-      "url": "https://open.spotify.com/track/1AmTaFC0Pfr1opxgUEkO3W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Besos Y Caricias",
         "url": "https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 149586,
       "name": "Besos Y Caricias",
       "url": "https://open.spotify.com/track/3UkRv2fhCSshw9w23V4Lfe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Rama De Mezquite",
+        "url": "https://open.spotify.com/album/4JYoO4nKwHf4uPBa6Loh07"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 167160,
+      "name": "Cuando Yo Era Un Jovencito",
+      "url": "https://open.spotify.com/track/1AmTaFC0Pfr1opxgUEkO3W"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Norte\u00f1as De Exito Herencia Musical De",
-        "url": "https://open.spotify.com/album/1ts28Fgr2woLWxk1lh5PKQ"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 145200,
-      "name": "Ni por Mil Pu\u00f1ados de Oro",
-      "url": "https://open.spotify.com/track/5vqvts8qIppDyCDfTW3jn7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Imprescindibles",
         "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
       },
@@ -587,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo...El Hombre Y Su Musica",
-        "url": "https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA"
+        "name": "15 Norte\u00f1as De Exito Herencia Musical De",
+        "url": "https://open.spotify.com/album/1ts28Fgr2woLWxk1lh5PKQ"
       },
       "artists": [
         {
@@ -596,9 +580,9 @@
           "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 230200,
-      "name": "La Vecina Me Puso El Dedo - (En Vivo)",
-      "url": "https://open.spotify.com/track/48WxZIQmHcE8spvOV78bih"
+      "duration_ms": 145200,
+      "name": "Ni por Mil Pu\u00f1ados de Oro",
+      "url": "https://open.spotify.com/track/5vqvts8qIppDyCDfTW3jn7"
     },
     {
       "added_at": null,
@@ -615,6 +599,22 @@
       "duration_ms": 223853,
       "name": "La Rama Del Mezquite",
       "url": "https://open.spotify.com/track/1UNqn7QxAZFGlaHqKOK1tp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo...El Hombre Y Su Musica",
+        "url": "https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 230200,
+      "name": "La Vecina Me Puso El Dedo - (En Vivo)",
+      "url": "https://open.spotify.com/track/48WxZIQmHcE8spvOV78bih"
     },
     {
       "added_at": null,

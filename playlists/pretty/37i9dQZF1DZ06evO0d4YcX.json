@@ -1,12 +1,12 @@
 {
   "description": "This is Amber Mark. The essential tracks, all in one playlist.",
-  "num_followers": 15833,
+  "num_followers": 15838,
   "original_name": "This Is Amber Mark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXFogAAAAACe8AfxfrwFeTZFIp7jq5aR",
+  "snapshot_id": "aXK6AAAAAABZwHtujlimSMKDVmscGdpa",
   "tracks": [
     {
       "added_at": null,
@@ -118,11 +118,15 @@
         {
           "name": "Amber Mark",
           "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 174663,
-      "name": "By The End of the Night",
-      "url": "https://open.spotify.com/track/1oQSC1YHdh3UhkGVmtuln7"
+      "duration_ms": 218472,
+      "name": "Don't Remind Me (with Anderson .Paak)",
+      "url": "https://open.spotify.com/track/1kUJ7401ShEYzAgdTfg2Dp"
     },
     {
       "added_at": null,
@@ -182,15 +186,11 @@
         {
           "name": "Amber Mark",
           "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 218472,
-      "name": "Don't Remind Me (with Anderson .Paak)",
-      "url": "https://open.spotify.com/track/1kUJ7401ShEYzAgdTfg2Dp"
+      "duration_ms": 174663,
+      "name": "By The End of the Night",
+      "url": "https://open.spotify.com/track/1oQSC1YHdh3UhkGVmtuln7"
     },
     {
       "added_at": null,

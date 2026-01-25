@@ -2429,6 +2429,32 @@
     },
     {
       "album": {
+        "name": "Welcome to the Kicako House",
+        "url": "https://open.spotify.com/album/2De59ki8I5ROno4GgNtzPy"
+      },
+      "artists": [
+        {
+          "name": "PATEKO",
+          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
+        },
+        {
+          "name": "Jayci yucca",
+          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
+        },
+        {
+          "name": "Kid Wine",
+          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269000,
+      "name": "It's Gone",
+      "url": "https://open.spotify.com/track/5XDzUSWmrlz4MfogZ0salh"
+    },
+    {
+      "album": {
         "name": "The hyena on the keyboard",
         "url": "https://open.spotify.com/album/62S9H2fOKaEZzgwQjOByY5"
       },
@@ -3342,7 +3368,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 188106,
       "name": "Oscar",
       "url": "https://open.spotify.com/track/2Wqnhu5dRQDAQi8Ej6HnVQ"

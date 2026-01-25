@@ -113,6 +113,28 @@
     },
     {
       "album": {
+        "name": "A Song To Sing",
+        "url": "https://open.spotify.com/album/4iqnGca3K2uMJiDSrNbpfd"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179928,
+      "name": "A Song To Sing",
+      "url": "https://open.spotify.com/track/7L9N5bxblTyzTknaxo7duX"
+    },
+    {
+      "album": {
         "name": "Tennessee Truth",
         "url": "https://open.spotify.com/album/3JXT0VtuMwE4kdZh0KErF8"
       },
@@ -546,6 +568,24 @@
       "duration_ms": 174666,
       "name": "Betty",
       "url": "https://open.spotify.com/track/6QN5ClFa3Ul4kFzsdw3Z8t"
+    },
+    {
+      "album": {
+        "name": "Big Ole Fancy House",
+        "url": "https://open.spotify.com/album/0T1po3gtIUONgzpdM2BRYG"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243506,
+      "name": "Big Ole Fancy House",
+      "url": "https://open.spotify.com/track/2O6518EoFdYebARB4PCEjH"
     },
     {
       "album": {
@@ -3306,7 +3346,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 160064,
       "name": "IYKYK",
       "url": "https://open.spotify.com/track/13I2ADgSEWeA5sS4UZ7E8i"
@@ -6621,6 +6661,24 @@
     },
     {
       "album": {
+        "name": "Learn The Hard Way",
+        "url": "https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204013,
+      "name": "Turn This Truck Around",
+      "url": "https://open.spotify.com/track/26me6ABXv5sHTe6eriudll"
+    },
+    {
+      "album": {
         "name": "This Country Music Thing",
         "url": "https://open.spotify.com/album/6hb6sxdZjuHReraMCfDcrw"
       },
@@ -6860,7 +6918,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 172823,
       "name": "Western Wind",
       "url": "https://open.spotify.com/track/5FuDbCYf4LAn3BjMMN85Y1"
@@ -7394,7 +7452,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 224280,
       "name": "you look like you love me (feat. Riley Green)",
       "url": "https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo"

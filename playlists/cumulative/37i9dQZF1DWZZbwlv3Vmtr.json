@@ -6330,7 +6330,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 133953,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/1iVqrYE7uhpFotSYT7CB0Z"
@@ -15764,6 +15764,24 @@
       "duration_ms": 109500,
       "name": "Sentimental Mood",
       "url": "https://open.spotify.com/track/3Xl7gON72joBquu8YJG8z9"
+    },
+    {
+      "album": {
+        "name": "separate ways",
+        "url": "https://open.spotify.com/album/5jsuVua8jgHydjorTJqqrC"
+      },
+      "artists": [
+        {
+          "name": "leaf land",
+          "url": "https://open.spotify.com/artist/53oSRikHvu3IOUp2L8Rano"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121846,
+      "name": "separate ways",
+      "url": "https://open.spotify.com/track/4zIcaL6M0tAUmXiQeZp7IE"
     },
     {
       "album": {

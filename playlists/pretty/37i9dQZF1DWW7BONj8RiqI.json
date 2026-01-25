@@ -1,12 +1,12 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Machel Montano",
-  "num_followers": 242879,
+  "num_followers": 242938,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPwOlUNa0E4IyiQ1WiiDLO9Bjh+I",
+  "snapshot_id": "AAAAAHkPPndI570nG19y2rFTIoBzET4F",
   "tracks": [
     {
       "added_at": "2026-01-16 00:00:13",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
+        "name": "Hard Fete",
+        "url": "https://open.spotify.com/album/0cyOjKcrLq7hPNrwCDFLMK"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "duration_ms": 230437,
+      "name": "Hard Fete",
+      "url": "https://open.spotify.com/track/4LeGXUArvKORbcrykE26q3"
+    },
+    {
+      "added_at": "2026-01-16 00:00:13",
+      "album": {
         "name": "Mood (feat. Kes)",
         "url": "https://open.spotify.com/album/0tnvhYRVA97Nt0Zu6cKnLf"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 217009,
       "name": "Mood (feat. Kes)",
       "url": "https://open.spotify.com/track/4RfymDIA8oimN1Z4Oc0X1x"
-    },
-    {
-      "added_at": "2026-01-16 00:00:13",
-      "album": {
-        "name": "Hard Fete",
-        "url": "https://open.spotify.com/album/0cyOjKcrLq7hPNrwCDFLMK"
-      },
-      "artists": [
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        }
-      ],
-      "duration_ms": 230437,
-      "name": "Hard Fete",
-      "url": "https://open.spotify.com/track/4LeGXUArvKORbcrykE26q3"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
-        "name": "Too Real",
-        "url": "https://open.spotify.com/album/0ZNQstQ0ahvsAWzB5c0xoR"
-      },
-      "artists": [
-        {
-          "name": "Kerwin Du Bois",
-          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Too Real",
-      "url": "https://open.spotify.com/track/3FkqGyIPfz7cn5B8W9sVdG"
-    },
-    {
-      "added_at": "2026-01-16 00:00:13",
-      "album": {
         "name": "Same 24 Riddim",
         "url": "https://open.spotify.com/album/67TEiUfvHYKELLyVKQGgjB"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 158250,
       "name": "Payroll",
       "url": "https://open.spotify.com/track/3XTjtCEfZ34xMua70IK01m"
+    },
+    {
+      "added_at": "2026-01-16 00:00:13",
+      "album": {
+        "name": "Too Real",
+        "url": "https://open.spotify.com/album/0ZNQstQ0ahvsAWzB5c0xoR"
+      },
+      "artists": [
+        {
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Too Real",
+      "url": "https://open.spotify.com/track/3FkqGyIPfz7cn5B8W9sVdG"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -563,26 +563,6 @@
       "duration_ms": 285653,
       "name": "Pump Me Up",
       "url": "https://open.spotify.com/track/2Y5HQolNeqkwFXokC0ANta"
-    },
-    {
-      "added_at": "2026-01-16 00:00:13",
-      "album": {
-        "name": "Dear Promoter",
-        "url": "https://open.spotify.com/album/3fiMNWUuR76Xj38ugSEIHe"
-      },
-      "artists": [
-        {
-          "name": "Voice",
-          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
-        },
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 244578,
-      "name": "Dear Promoter",
-      "url": "https://open.spotify.com/track/74F3DNzHUSrJ6sNz4YkFWe"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -623,6 +603,26 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
+        "name": "Dear Promoter",
+        "url": "https://open.spotify.com/album/3fiMNWUuR76Xj38ugSEIHe"
+      },
+      "artists": [
+        {
+          "name": "Voice",
+          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
+        },
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 244578,
+      "name": "Dear Promoter",
+      "url": "https://open.spotify.com/track/74F3DNzHUSrJ6sNz4YkFWe"
+    },
+    {
+      "added_at": "2026-01-16 00:00:13",
+      "album": {
         "name": "How She Like It",
         "url": "https://open.spotify.com/album/5a7HKhVmU3fP9iYF1OGglC"
       },
@@ -635,6 +635,42 @@
       "duration_ms": 181567,
       "name": "How She Like It",
       "url": "https://open.spotify.com/track/300GbHKFjB7jL4aegxIFcC"
+    },
+    {
+      "added_at": "2026-01-16 00:00:13",
+      "album": {
+        "name": "D N A",
+        "url": "https://open.spotify.com/album/1GTcyA5SDYdffWpYUwX1Q8"
+      },
+      "artists": [
+        {
+          "name": "Mical Teja",
+          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "D N A",
+      "url": "https://open.spotify.com/track/6n9lFQTIv6pWvFXXQzPjws"
+    },
+    {
+      "added_at": "2026-01-16 00:00:13",
+      "album": {
+        "name": "In the Water",
+        "url": "https://open.spotify.com/album/4sgxQbY0FtG7Jy9bCmosmo"
+      },
+      "artists": [
+        {
+          "name": "Suhrawh",
+          "url": "https://open.spotify.com/artist/4ZEqhMBy6fKoOnzhlaMqSL"
+        },
+        {
+          "name": "Chow Minister",
+          "url": "https://open.spotify.com/artist/54d47JyqvGpK5nfJEnvwaM"
+        }
+      ],
+      "duration_ms": 159873,
+      "name": "In the Water",
+      "url": "https://open.spotify.com/track/13VEio7HfObBKUtYUDAp42"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -663,18 +699,18 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
-        "name": "D N A",
-        "url": "https://open.spotify.com/album/1GTcyA5SDYdffWpYUwX1Q8"
+        "name": "Spirit Of Carnival Project",
+        "url": "https://open.spotify.com/album/70k0gxInLY1FKI2x9H2uSu"
       },
       "artists": [
         {
-          "name": "Mical Teja",
-          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
         }
       ],
-      "duration_ms": 206250,
-      "name": "D N A",
-      "url": "https://open.spotify.com/track/6n9lFQTIv6pWvFXXQzPjws"
+      "duration_ms": 184273,
+      "name": "Mental Day",
+      "url": "https://open.spotify.com/track/1IqgGVyINMhLLVBEgQYhW1"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -699,18 +735,18 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
-        "name": "Spirit Of Carnival Project",
-        "url": "https://open.spotify.com/album/70k0gxInLY1FKI2x9H2uSu"
+        "name": "Face Beat",
+        "url": "https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM"
       },
       "artists": [
         {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+          "name": "Father Philis",
+          "url": "https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK"
         }
       ],
-      "duration_ms": 184273,
-      "name": "Mental Day",
-      "url": "https://open.spotify.com/track/1IqgGVyINMhLLVBEgQYhW1"
+      "duration_ms": 143789,
+      "name": "Face Beat",
+      "url": "https://open.spotify.com/track/7JOil4DFL3mgC5ZiDr82TG"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -731,26 +767,6 @@
       "duration_ms": 258000,
       "name": "Carry It",
       "url": "https://open.spotify.com/track/0xziaVX2PIOfLC1FNNzNT9"
-    },
-    {
-      "added_at": "2026-01-16 00:00:13",
-      "album": {
-        "name": "In the Water",
-        "url": "https://open.spotify.com/album/4sgxQbY0FtG7Jy9bCmosmo"
-      },
-      "artists": [
-        {
-          "name": "Suhrawh",
-          "url": "https://open.spotify.com/artist/4ZEqhMBy6fKoOnzhlaMqSL"
-        },
-        {
-          "name": "Chow Minister",
-          "url": "https://open.spotify.com/artist/54d47JyqvGpK5nfJEnvwaM"
-        }
-      ],
-      "duration_ms": 159873,
-      "name": "In the Water",
-      "url": "https://open.spotify.com/track/13VEio7HfObBKUtYUDAp42"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -779,22 +795,6 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
-        "name": "Face Beat",
-        "url": "https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM"
-      },
-      "artists": [
-        {
-          "name": "Father Philis",
-          "url": "https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK"
-        }
-      ],
-      "duration_ms": 143789,
-      "name": "Face Beat",
-      "url": "https://open.spotify.com/track/7JOil4DFL3mgC5ZiDr82TG"
-    },
-    {
-      "added_at": "2026-01-16 00:00:13",
-      "album": {
         "name": "Soca Start",
         "url": "https://open.spotify.com/album/72vCgFMjbzVbiPdFvEm8BZ"
       },
@@ -811,22 +811,6 @@
       "duration_ms": 141296,
       "name": "Soca Start",
       "url": "https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD"
-    },
-    {
-      "added_at": "2026-01-16 00:00:13",
-      "album": {
-        "name": "No Apology",
-        "url": "https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh"
-      },
-      "artists": [
-        {
-          "name": "Kerwin Du Bois",
-          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
-        }
-      ],
-      "duration_ms": 169570,
-      "name": "No Apology",
-      "url": "https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -867,6 +851,22 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
+      },
+      "artists": [
+        {
+          "name": "Lyrikal",
+          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
+    },
+    {
+      "added_at": "2026-01-16 00:00:13",
+      "album": {
         "name": "Workout (feat. Nailah Blackman)",
         "url": "https://open.spotify.com/album/2LIZ7qauUnT1VdAYpD4YLe"
       },
@@ -887,18 +887,18 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
+        "name": "No Apology",
+        "url": "https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh"
       },
       "artists": [
         {
-          "name": "Lyrikal",
-          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
         }
       ],
-      "duration_ms": 208615,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
+      "duration_ms": 169570,
+      "name": "No Apology",
+      "url": "https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/5VDx9lhAQoXcOojXClAncN"
+      },
+      "artists": [
+        {
+          "name": "Blaka Dan",
+          "url": "https://open.spotify.com/artist/5Ni4JcnD21yTIewzA94Q1s"
+        }
+      ],
+      "duration_ms": 187560,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/1HOPBqlGgQfICLMDyQl0hR"
+    },
+    {
+      "added_at": "2026-01-16 00:00:13",
+      "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/0HHOQolYzlGQ4DTqzAtdk7"
       },
@@ -971,18 +987,18 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
-        "name": "Blessing",
-        "url": "https://open.spotify.com/album/5VDx9lhAQoXcOojXClAncN"
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq"
       },
       "artists": [
         {
-          "name": "Blaka Dan",
-          "url": "https://open.spotify.com/artist/5Ni4JcnD21yTIewzA94Q1s"
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
         }
       ],
-      "duration_ms": 187560,
-      "name": "Blessing",
-      "url": "https://open.spotify.com/track/1HOPBqlGgQfICLMDyQl0hR"
+      "duration_ms": 220500,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -1003,22 +1019,6 @@
       "duration_ms": 181153,
       "name": "ESKIMO - Remix",
       "url": "https://open.spotify.com/track/5g3FsL8VeeCMt3rlFhEqw6"
-    },
-    {
-      "added_at": "2026-01-16 00:00:13",
-      "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq"
-      },
-      "artists": [
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
-        "name": "How ah Livin",
-        "url": "https://open.spotify.com/album/2wd3Fngpq5RD23KMrY4jsj"
+        "name": "DAP (Drink and Party)",
+        "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
       },
       "artists": [
         {
-          "name": "Farmer Nappy",
-          "url": "https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN"
+          "name": "Viking Ding Dong",
+          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
         }
       ],
-      "duration_ms": 229458,
-      "name": "How ah Livin",
-      "url": "https://open.spotify.com/track/4NxqELbBJbL9uW9AZaiBut"
+      "duration_ms": 169142,
+      "name": "DAP (Drink and Party)",
+      "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
-        "name": "DAP (Drink and Party)",
-        "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
-      },
-      "artists": [
-        {
-          "name": "Viking Ding Dong",
-          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "DAP (Drink and Party)",
-      "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
-    },
-    {
-      "added_at": "2026-01-16 00:00:13",
-      "album": {
         "name": "Soak It Good",
         "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 182125,
       "name": "Soak It Good",
       "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
+    },
+    {
+      "added_at": "2026-01-16 00:00:13",
+      "album": {
+        "name": "How ah Livin",
+        "url": "https://open.spotify.com/album/2wd3Fngpq5RD23KMrY4jsj"
+      },
+      "artists": [
+        {
+          "name": "Farmer Nappy",
+          "url": "https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN"
+        }
+      ],
+      "duration_ms": 229458,
+      "name": "How ah Livin",
+      "url": "https://open.spotify.com/track/4NxqELbBJbL9uW9AZaiBut"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
-        "name": "Lambadas Internacionais - As Melhores",
-        "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
+        "name": "Sit on My Face",
+        "url": "https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg"
       },
       "artists": [
         {
-          "name": "Carlos Santos",
-          "url": "https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB"
+          "name": "Zido",
+          "url": "https://open.spotify.com/artist/1BXk9qMGTP648nRoWwCImq"
         }
       ],
-      "duration_ms": 258666,
-      "name": "Hot-Hot-Hot",
-      "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
+      "duration_ms": 87086,
+      "name": "Sit on My Face",
+      "url": "https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
-        "name": "Sit on My Face",
-        "url": "https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg"
+        "name": "Lambadas Internacionais - As Melhores",
+        "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
       },
       "artists": [
         {
-          "name": "Zido",
-          "url": "https://open.spotify.com/artist/1BXk9qMGTP648nRoWwCImq"
+          "name": "Carlos Santos",
+          "url": "https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB"
         }
       ],
-      "duration_ms": 87086,
-      "name": "Sit on My Face",
-      "url": "https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc"
+      "duration_ms": 258666,
+      "name": "Hot-Hot-Hot",
+      "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
-        "name": "King Bubba Mashup, Vol. 1",
-        "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
-      },
-      "artists": [
-        {
-          "name": "King Bubba Fm",
-          "url": "https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78"
-        }
-      ],
-      "duration_ms": 188372,
-      "name": "Who Drinking Rum?",
-      "url": "https://open.spotify.com/track/19yqVVWTXD85RGUk7Q0PAe"
-    },
-    {
-      "added_at": "2026-01-16 00:00:13",
-      "album": {
         "name": "Spoil You",
         "url": "https://open.spotify.com/album/05O8Va1zg6YGzpSv6jHBsb"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 188842,
       "name": "Spoil You",
       "url": "https://open.spotify.com/track/1PR6TnBCQncxQPtUC3o0ZE"
+    },
+    {
+      "added_at": "2026-01-16 00:00:13",
+      "album": {
+        "name": "King Bubba Mashup, Vol. 1",
+        "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
+      },
+      "artists": [
+        {
+          "name": "King Bubba Fm",
+          "url": "https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78"
+        }
+      ],
+      "duration_ms": 188372,
+      "name": "Who Drinking Rum?",
+      "url": "https://open.spotify.com/track/19yqVVWTXD85RGUk7Q0PAe"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -1755,6 +1755,26 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
+        "name": "Lose Weight",
+        "url": "https://open.spotify.com/album/3jHQ2GrFQlLS71PoqIpIRF"
+      },
+      "artists": [
+        {
+          "name": "Sackie",
+          "url": "https://open.spotify.com/artist/2fZJnsBgeBQfyjpdLAa6yh"
+        },
+        {
+          "name": "System32",
+          "url": "https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20"
+        }
+      ],
+      "duration_ms": 167999,
+      "name": "Lose Weight",
+      "url": "https://open.spotify.com/track/4ZxNX6lwbBJjOY3cg57L46"
+    },
+    {
+      "added_at": "2026-01-16 00:00:13",
+      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS"
       },
@@ -1767,22 +1787,6 @@
       "duration_ms": 196557,
       "name": "Blind",
       "url": "https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr"
-    },
-    {
-      "added_at": "2026-01-16 00:00:13",
-      "album": {
-        "name": "Vitamin D",
-        "url": "https://open.spotify.com/album/6eUo0npwgBpo0cKQ7XtiOK"
-      },
-      "artists": [
-        {
-          "name": "Yung Bredda",
-          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "Vitamin D",
-      "url": "https://open.spotify.com/track/2ayBxvV8lstsAY0grHVc4q"
     }
   ],
   "unique_name": "Massive Soca Hits",

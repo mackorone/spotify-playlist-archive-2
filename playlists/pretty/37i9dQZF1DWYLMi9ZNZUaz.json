@@ -1,6 +1,6 @@
 {
-  "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: tlinh\n",
-  "num_followers": 117544,
+  "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: HIEUTHUHAI\n",
+  "num_followers": 117595,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2025-12-11 17:00:23",
       "album": {
-        "name": "N\u01b0\u1edbc M\u1eaft C\u00e1 S\u1ea5u",
-        "url": "https://open.spotify.com/album/0it2YRYxtq66pqOfKvh11i"
-      },
-      "artists": [
-        {
-          "name": "HIEUTHUHAI",
-          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
-        }
-      ],
-      "duration_ms": 206111,
-      "name": "N\u01b0\u1edbc M\u1eaft C\u00e1 S\u1ea5u",
-      "url": "https://open.spotify.com/track/39XiO6D9cuMfJXObD6gVjY"
-    },
-    {
-      "added_at": "2025-12-11 17:00:23",
-      "album": {
         "name": "Cho M\u00ecnh Em",
         "url": "https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 206400,
       "name": "Cho M\u00ecnh Em",
       "url": "https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc"
+    },
+    {
+      "added_at": "2025-12-11 17:00:23",
+      "album": {
+        "name": "N\u01b0\u1edbc M\u1eaft C\u00e1 S\u1ea5u",
+        "url": "https://open.spotify.com/album/0it2YRYxtq66pqOfKvh11i"
+      },
+      "artists": [
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        }
+      ],
+      "duration_ms": 206111,
+      "name": "N\u01b0\u1edbc M\u1eaft C\u00e1 S\u1ea5u",
+      "url": "https://open.spotify.com/track/39XiO6D9cuMfJXObD6gVjY"
     },
     {
       "added_at": "2025-12-11 17:00:23",
@@ -615,22 +615,30 @@
     {
       "added_at": "2025-12-11 17:00:23",
       "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/3Qsp8mywrgRP9hZ9cHe0xH"
+        "name": "2GOILAYS",
+        "url": "https://open.spotify.com/album/00kEhnqwIBY3sNngZHjpRS"
       },
       "artists": [
         {
-          "name": "Richie D. ICY",
-          "url": "https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA"
+          "name": "MR LANH",
+          "url": "https://open.spotify.com/artist/54gIDmy6EgICaX1Uiez1iC"
         },
         {
-          "name": "Obito",
-          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        },
+        {
+          "name": "TeuYungBoy",
+          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
+        },
+        {
+          "name": "DONAL",
+          "url": "https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ"
         }
       ],
-      "duration_ms": 205232,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/6gmvd9Lld9MiNR9r6I9eFE"
+      "duration_ms": 260252,
+      "name": "2GOILAYS",
+      "url": "https://open.spotify.com/track/4TQ0Jgrhe4V9MMqjKViub5"
     },
     {
       "added_at": "2025-12-11 17:00:23",
@@ -695,30 +703,22 @@
     {
       "added_at": "2025-12-11 17:00:23",
       "album": {
-        "name": "2GOILAYS",
-        "url": "https://open.spotify.com/album/00kEhnqwIBY3sNngZHjpRS"
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/3Qsp8mywrgRP9hZ9cHe0xH"
       },
       "artists": [
         {
-          "name": "MR LANH",
-          "url": "https://open.spotify.com/artist/54gIDmy6EgICaX1Uiez1iC"
+          "name": "Richie D. ICY",
+          "url": "https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA"
         },
         {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        },
-        {
-          "name": "TeuYungBoy",
-          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
-        },
-        {
-          "name": "DONAL",
-          "url": "https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ"
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
         }
       ],
-      "duration_ms": 260252,
-      "name": "2GOILAYS",
-      "url": "https://open.spotify.com/track/4TQ0Jgrhe4V9MMqjKViub5"
+      "duration_ms": 205232,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6gmvd9Lld9MiNR9r6I9eFE"
     },
     {
       "added_at": "2025-12-11 17:00:23",
@@ -967,6 +967,22 @@
     {
       "added_at": "2025-12-11 17:00:23",
       "album": {
+        "name": "\u0110\u00d4I CH\u00c2N \u0110I",
+        "url": "https://open.spotify.com/album/5RqSAt1rbN0shxXTcZkWRs"
+      },
+      "artists": [
+        {
+          "name": "Ricky Star",
+          "url": "https://open.spotify.com/artist/4jQZaxfgwiUJFQagCyZNV4"
+        }
+      ],
+      "duration_ms": 344276,
+      "name": "T\u1ea5m L\u00f2ng C\u1eedu Long",
+      "url": "https://open.spotify.com/track/6roVxIZN2frBQoXFomdWW5"
+    },
+    {
+      "added_at": "2025-12-11 17:00:23",
+      "album": {
         "name": "ADAMN",
         "url": "https://open.spotify.com/album/3GjYyLHh4KssJNk8ZwetnB"
       },
@@ -979,26 +995,6 @@
       "duration_ms": 223500,
       "name": "ADAMN",
       "url": "https://open.spotify.com/track/50WjeoNacrSiDum2P3yWtb"
-    },
-    {
-      "added_at": "2025-12-11 17:00:23",
-      "album": {
-        "name": "TO LOVE AND BE LOVED",
-        "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
-      },
-      "artists": [
-        {
-          "name": "Winno",
-          "url": "https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB"
-        },
-        {
-          "name": "Hustlang Robber",
-          "url": "https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv"
-        }
-      ],
-      "duration_ms": 340724,
-      "name": "Mu\u1ed1n anh \u0111au",
-      "url": "https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf"
     },
     {
       "added_at": "2025-12-11 17:00:23",
@@ -1019,18 +1015,22 @@
     {
       "added_at": "2025-12-11 17:00:23",
       "album": {
-        "name": "\u0110\u00d4I CH\u00c2N \u0110I",
-        "url": "https://open.spotify.com/album/5RqSAt1rbN0shxXTcZkWRs"
+        "name": "TO LOVE AND BE LOVED",
+        "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
       },
       "artists": [
         {
-          "name": "Ricky Star",
-          "url": "https://open.spotify.com/artist/4jQZaxfgwiUJFQagCyZNV4"
+          "name": "Winno",
+          "url": "https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB"
+        },
+        {
+          "name": "Hustlang Robber",
+          "url": "https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv"
         }
       ],
-      "duration_ms": 344276,
-      "name": "T\u1ea5m L\u00f2ng C\u1eedu Long",
-      "url": "https://open.spotify.com/track/6roVxIZN2frBQoXFomdWW5"
+      "duration_ms": 340724,
+      "name": "Mu\u1ed1n anh \u0111au",
+      "url": "https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf"
     }
   ],
   "unique_name": "Hip-hop Vi\u1ec7t",

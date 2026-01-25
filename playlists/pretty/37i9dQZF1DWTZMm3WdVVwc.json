@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 27360,
+  "num_followers": 27378,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -637,22 +637,6 @@
       "url": "https://open.spotify.com/track/4LenGg9GdYwfXSKOfTkin6"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "my insecurities, not yours",
-        "url": "https://open.spotify.com/album/4iDSytMqQQIkjP0WfweVbZ"
-      },
-      "artists": [
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        }
-      ],
-      "duration_ms": 207445,
-      "name": "she likes spring, I prefer winter",
-      "url": "https://open.spotify.com/track/6bM1QYzUKzZpQyAa7uO5kr"
-    },
-    {
       "added_at": "2025-12-24 00:34:11",
       "album": {
         "name": "You Got This",
@@ -667,6 +651,22 @@
       "duration_ms": 255603,
       "name": "You Got This",
       "url": "https://open.spotify.com/track/4ZQtHM0XoIJuuyy2Njg2Pw"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "my insecurities, not yours",
+        "url": "https://open.spotify.com/album/4iDSytMqQQIkjP0WfweVbZ"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        }
+      ],
+      "duration_ms": 207445,
+      "name": "she likes spring, I prefer winter",
+      "url": "https://open.spotify.com/track/6bM1QYzUKzZpQyAa7uO5kr"
     },
     {
       "added_at": "2025-12-11 02:28:39",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/2l02YNthg1e2dyXrv8gacQ"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "Kiroro\u306e\u3046\u305f \u2460",
-        "url": "https://open.spotify.com/album/7evQI7Gxwto5ByAD0fiQBF"
-      },
-      "artists": [
-        {
-          "name": "Kiroro",
-          "url": "https://open.spotify.com/artist/279R7zEl7kwZxoMw18Pr9R"
-        }
-      ],
-      "duration_ms": 345086,
-      "name": "\u51ac\u306e\u3046\u305f",
-      "url": "https://open.spotify.com/track/13ZrdwZjgT6P1In07B4TBF"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "\u6708\u5149\u6d74",
@@ -799,6 +783,22 @@
       "duration_ms": 248130,
       "name": "\u6708\u5149\u6d74",
       "url": "https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "Kiroro\u306e\u3046\u305f \u2460",
+        "url": "https://open.spotify.com/album/7evQI7Gxwto5ByAD0fiQBF"
+      },
+      "artists": [
+        {
+          "name": "Kiroro",
+          "url": "https://open.spotify.com/artist/279R7zEl7kwZxoMw18Pr9R"
+        }
+      ],
+      "duration_ms": 345086,
+      "name": "\u51ac\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/13ZrdwZjgT6P1In07B4TBF"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -961,26 +961,6 @@
       "url": "https://open.spotify.com/track/3ngihcNtaHh3ggXwPPpXYv"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "NIGHT DANCER (Yaffle Holiday Remix - Spotify Singles)",
-        "url": "https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        },
-        {
-          "name": "Yaffle",
-          "url": "https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV"
-        }
-      ],
-      "duration_ms": 231638,
-      "name": "NIGHT DANCER - Yaffle Holiday Remix - Spotify Singles",
-      "url": "https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "Shout Out to Jesus",
@@ -1011,6 +991,26 @@
       "duration_ms": 285533,
       "name": "WINTER SONG (\u201c\u96ea\u306e\u30af\u30ea\u30b9\u30de\u30b9\u201d WORLDWIDE VERSION)",
       "url": "https://open.spotify.com/track/3fY7C8e4gZ5RfcN4GB2yDJ"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "NIGHT DANCER (Yaffle Holiday Remix - Spotify Singles)",
+        "url": "https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        },
+        {
+          "name": "Yaffle",
+          "url": "https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV"
+        }
+      ],
+      "duration_ms": 231638,
+      "name": "NIGHT DANCER - Yaffle Holiday Remix - Spotify Singles",
+      "url": "https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1221,20 +1221,20 @@
       "url": "https://open.spotify.com/track/3lqUSr3F8gmD7ruydRlky4"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
+      "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "TEAM ROCK",
-        "url": "https://open.spotify.com/album/0FJnTE821z9cp6edHW1pxB"
+        "name": "What's Going On?",
+        "url": "https://open.spotify.com/album/4lOW8UJDAZFRsiK43TBhr7"
       },
       "artists": [
         {
-          "name": "Quruli",
-          "url": "https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4"
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
         }
       ],
-      "duration_ms": 301106,
-      "name": "\u3070\u3089\u306e\u82b1",
-      "url": "https://open.spotify.com/track/6iyKwsCmtdXvs19uKyBFfS"
+      "duration_ms": 264546,
+      "name": "\u30cb\u30c3\u30c8\u306e\u5e3d\u5b50",
+      "url": "https://open.spotify.com/track/33JtUjUhbfJlBbdCXH6v5I"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1253,6 +1253,22 @@
       "url": "https://open.spotify.com/track/1Wy03yAj72MppXCDNYWNYv"
     },
     {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "TEAM ROCK",
+        "url": "https://open.spotify.com/album/0FJnTE821z9cp6edHW1pxB"
+      },
+      "artists": [
+        {
+          "name": "Quruli",
+          "url": "https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4"
+        }
+      ],
+      "duration_ms": 301106,
+      "name": "\u3070\u3089\u306e\u82b1",
+      "url": "https://open.spotify.com/track/6iyKwsCmtdXvs19uKyBFfS"
+    },
+    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "The History of Shogo Hamada\u201cSince 1975\u201d",
@@ -1267,22 +1283,6 @@
       "duration_ms": 311946,
       "name": "\u60b2\u3057\u307f\u306f\u96ea\u306e\u3088\u3046\u306b (single / 1992)",
       "url": "https://open.spotify.com/track/10HHmKRsZmQLXQ3kiAEef1"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "What's Going On?",
-        "url": "https://open.spotify.com/album/4lOW8UJDAZFRsiK43TBhr7"
-      },
-      "artists": [
-        {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
-        }
-      ],
-      "duration_ms": 264546,
-      "name": "\u30cb\u30c3\u30c8\u306e\u5e3d\u5b50",
-      "url": "https://open.spotify.com/track/33JtUjUhbfJlBbdCXH6v5I"
     },
     {
       "added_at": "2025-12-24 00:34:11",
@@ -1353,6 +1353,22 @@
       "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
     },
     {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "OH MY LITTLE GIRL",
+        "url": "https://open.spotify.com/album/7LEcypSjlXxIQnSSjeIiLj"
+      },
+      "artists": [
+        {
+          "name": "Yutaka Ozaki",
+          "url": "https://open.spotify.com/artist/7Mo0nFEU6E8fGI0P2u7MOl"
+        }
+      ],
+      "duration_ms": 276333,
+      "name": "OH MY LITTLE GIRL",
+      "url": "https://open.spotify.com/track/7gRwEA36B5Oq7oUlCcWLKb"
+    },
+    {
       "added_at": "2025-03-11 22:40:18",
       "album": {
         "name": "snow love",
@@ -1399,22 +1415,6 @@
       "duration_ms": 268000,
       "name": "Happy X-mas (War Is Over)",
       "url": "https://open.spotify.com/track/4JQS958NdP0PqfcoYFxrhV"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "OH MY LITTLE GIRL",
-        "url": "https://open.spotify.com/album/7LEcypSjlXxIQnSSjeIiLj"
-      },
-      "artists": [
-        {
-          "name": "Yutaka Ozaki",
-          "url": "https://open.spotify.com/artist/7Mo0nFEU6E8fGI0P2u7MOl"
-        }
-      ],
-      "duration_ms": 276333,
-      "name": "OH MY LITTLE GIRL",
-      "url": "https://open.spotify.com/track/7gRwEA36B5Oq7oUlCcWLKb"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1625,20 +1625,20 @@
       "url": "https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx"
     },
     {
-      "added_at": "2025-12-05 00:27:18",
+      "added_at": "2025-12-16 15:00:32",
       "album": {
-        "name": "Underneath the Lights",
-        "url": "https://open.spotify.com/album/1Ooh0rrEUtMuFq0bNTpJf5"
+        "name": "\u84bc\u304d\u6625",
+        "url": "https://open.spotify.com/album/372dnGN7uf0xXWQkHOWI6C"
       },
       "artists": [
         {
-          "name": "THE CHARM PARK",
-          "url": "https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb"
+          "name": "\u79d8\u3081\u3054\u3068",
+          "url": "https://open.spotify.com/artist/7gYheydY3QaksZPRLs4CzT"
         }
       ],
-      "duration_ms": 236551,
-      "name": "Underneath the Lights",
-      "url": "https://open.spotify.com/track/2NOeS29mW1tNJ9oEuw0njn"
+      "duration_ms": 240197,
+      "name": "\u84bc\u304d\u6625",
+      "url": "https://open.spotify.com/track/2e9fua8pHpkK6Wso8Cq97c"
     }
   ],
   "unique_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",

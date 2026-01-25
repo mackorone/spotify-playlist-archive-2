@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 341290,
+  "num_followers": 341383,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -379,26 +379,6 @@
     {
       "added_at": "2025-12-12 03:03:06",
       "album": {
-        "name": "Psycho Killer",
-        "url": "https://open.spotify.com/album/724uBeFYTVq2EwgSWqZ7qD"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "TEN TONNE SKELETON",
-          "url": "https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Psycho Killer",
-      "url": "https://open.spotify.com/track/6HhiSk9HZR0C3IktOI9mzy"
-    },
-    {
-      "added_at": "2025-12-12 03:03:06",
-      "album": {
         "name": "Ridin' Dirty",
         "url": "https://open.spotify.com/album/5mnLXTacNtrmWrchALjk4A"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 169657,
       "name": "Ridin' Dirty",
       "url": "https://open.spotify.com/track/2eHDuXlnG21sfPV2XTufWY"
+    },
+    {
+      "added_at": "2025-12-12 03:03:06",
+      "album": {
+        "name": "Psycho Killer",
+        "url": "https://open.spotify.com/album/724uBeFYTVq2EwgSWqZ7qD"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "TEN TONNE SKELETON",
+          "url": "https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Psycho Killer",
+      "url": "https://open.spotify.com/track/6HhiSk9HZR0C3IktOI9mzy"
     },
     {
       "added_at": "2025-12-12 03:03:06",
@@ -999,6 +999,30 @@
     {
       "added_at": "2025-12-12 03:03:06",
       "album": {
+        "name": "The Age of Love 2022",
+        "url": "https://open.spotify.com/album/2SFKqoZuBpOzhu4zcG9ATE"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Age Of Love",
+          "url": "https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn"
+        },
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        }
+      ],
+      "duration_ms": 189561,
+      "name": "The Age of Love 2022",
+      "url": "https://open.spotify.com/track/6KvYwiJbPUzmBw7Wif2aMX"
+    },
+    {
+      "added_at": "2025-12-12 03:03:06",
+      "album": {
         "name": "Atomic Bomb (feat. Juan Alcasar)",
         "url": "https://open.spotify.com/album/4j9gMw9UoRS3xydzvmtnGX"
       },
@@ -1023,30 +1047,6 @@
       "duration_ms": 129000,
       "name": "Atomic Bomb (feat. Juan Alcasar)",
       "url": "https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE"
-    },
-    {
-      "added_at": "2025-12-12 03:03:06",
-      "album": {
-        "name": "The Age of Love 2022",
-        "url": "https://open.spotify.com/album/2SFKqoZuBpOzhu4zcG9ATE"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Age Of Love",
-          "url": "https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn"
-        },
-        {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        }
-      ],
-      "duration_ms": 189561,
-      "name": "The Age of Love 2022",
-      "url": "https://open.spotify.com/track/6KvYwiJbPUzmBw7Wif2aMX"
     },
     {
       "added_at": "2025-12-12 03:03:06",

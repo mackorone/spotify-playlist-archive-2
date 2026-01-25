@@ -502,7 +502,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 250118,
       "name": "Get up! Shout!",
       "url": "https://open.spotify.com/track/2FTt8Qkc04fcRZzwDEsNrh"
@@ -1918,6 +1918,24 @@
       "duration_ms": 213194,
       "name": "\u30a2\u30f3\u30c6\u30a3\u30d5\u30a9\u30fc\u30ca",
       "url": "https://open.spotify.com/track/2nH2TbDJxgFk2WTxvWJQi1"
+    },
+    {
+      "album": {
+        "name": "\u30a8\u30c7\u30f3",
+        "url": "https://open.spotify.com/album/6wJxfvqu3PHr5bAYKpSvoI"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287493,
+      "name": "\u30a8\u30c7\u30f3",
+      "url": "https://open.spotify.com/track/6Qvrb0s2x3wwa5JrjyiFp8"
     },
     {
       "album": {

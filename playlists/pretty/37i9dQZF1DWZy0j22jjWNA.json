@@ -1,6 +1,6 @@
 {
   "description": "Start you day with God and let these songs set you up to have a GOoD morning! ",
-  "num_followers": 120029,
+  "num_followers": 120062,
   "original_name": "GOoD Morning",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-12-12 22:14:59",
       "album": {
-        "name": "05 (Morning)",
-        "url": "https://open.spotify.com/album/1SW6r6zCRzX9YuXN50DCT5"
-      },
-      "artists": [
-        {
-          "name": "Tom Read",
-          "url": "https://open.spotify.com/artist/2KqFfpWJjwA1xr9ZxfIqmd"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "05 (Morning)",
-      "url": "https://open.spotify.com/track/072T9qhiz29GNZmoqOzCEk"
-    },
-    {
-      "added_at": "2025-12-12 22:14:59",
-      "album": {
         "name": "Beautiful Day (House of the Lord)",
         "url": "https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 227234,
       "name": "Beautiful Day (House of the Lord)",
       "url": "https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh"
+    },
+    {
+      "added_at": "2025-12-12 22:14:59",
+      "album": {
+        "name": "05 (Morning)",
+        "url": "https://open.spotify.com/album/1SW6r6zCRzX9YuXN50DCT5"
+      },
+      "artists": [
+        {
+          "name": "Tom Read",
+          "url": "https://open.spotify.com/artist/2KqFfpWJjwA1xr9ZxfIqmd"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "05 (Morning)",
+      "url": "https://open.spotify.com/track/072T9qhiz29GNZmoqOzCEk"
     },
     {
       "added_at": "2025-12-12 22:14:59",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2025-12-12 22:14:59",
       "album": {
-        "name": "Good Morning Mercy",
-        "url": "https://open.spotify.com/album/7nTRcESGrQ8Qvq9tj6apGc"
-      },
-      "artists": [
-        {
-          "name": "Jason Crabb",
-          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
-        },
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Good Morning Mercy",
-      "url": "https://open.spotify.com/track/0nujijkZ0Msf6eJo1sZ0Mu"
-    },
-    {
-      "added_at": "2025-12-12 22:14:59",
-      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/2H6J9gtIWRPJkBwqAq97z6"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 231375,
       "name": "Joy Comes",
       "url": "https://open.spotify.com/track/11cM33H4S1YN6iSjB7uAvQ"
+    },
+    {
+      "added_at": "2025-12-12 22:14:59",
+      "album": {
+        "name": "Good Morning Mercy",
+        "url": "https://open.spotify.com/album/7nTRcESGrQ8Qvq9tj6apGc"
+      },
+      "artists": [
+        {
+          "name": "Jason Crabb",
+          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
+        },
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "Good Morning Mercy",
+      "url": "https://open.spotify.com/track/0nujijkZ0Msf6eJo1sZ0Mu"
     },
     {
       "added_at": "2025-12-12 22:14:59",

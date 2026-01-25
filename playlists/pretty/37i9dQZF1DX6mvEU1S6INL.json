@@ -1,6 +1,6 @@
 {
   "description": "It's just us.",
-  "num_followers": 1142098,
+  "num_followers": 1142090,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-02-14 15:17:16",
       "album": {
-        "name": "My Honest Face",
-        "url": "https://open.spotify.com/album/52fKsRuzOum7y9iGC67GSn"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 453600,
-      "name": "There's No Other Place",
-      "url": "https://open.spotify.com/track/2pFPvMME9cynR1dokBTHJJ"
-    },
-    {
-      "added_at": "2025-02-14 15:17:16",
-      "album": {
         "name": "Gilgamesh",
         "url": "https://open.spotify.com/album/3oN0gGqa25NnWjCjng1kSI"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 234172,
       "name": "Time to Wander",
       "url": "https://open.spotify.com/track/4LDVjxkzOKa7YUxjO1x74S"
+    },
+    {
+      "added_at": "2025-02-14 15:17:16",
+      "album": {
+        "name": "My Honest Face",
+        "url": "https://open.spotify.com/album/52fKsRuzOum7y9iGC67GSn"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 453600,
+      "name": "There's No Other Place",
+      "url": "https://open.spotify.com/track/2pFPvMME9cynR1dokBTHJJ"
     },
     {
       "added_at": "2025-02-14 15:17:16",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-02-14 15:17:16",
       "album": {
-        "name": "Love and Other Lies",
-        "url": "https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 174565,
-      "name": "Want You Like That",
-      "url": "https://open.spotify.com/track/4VhiUBbGZd374klScom1cp"
-    },
-    {
-      "added_at": "2025-02-14 15:17:16",
-      "album": {
         "name": "Shake! Shake! Shake!",
         "url": "https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5"
       },
@@ -1523,18 +1507,18 @@
     {
       "added_at": "2025-02-14 15:17:16",
       "album": {
-        "name": "Every Kingdom (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2MxcbOGFi99D9JACvj74AH"
+        "name": "Love and Other Lies",
+        "url": "https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9"
       },
       "artists": [
         {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
         }
       ],
-      "duration_ms": 328506,
-      "name": "Old Pine",
-      "url": "https://open.spotify.com/track/0Qw7qGuXlVBZLcfoQ17yZn"
+      "duration_ms": 174565,
+      "name": "Want You Like That",
+      "url": "https://open.spotify.com/track/4VhiUBbGZd374klScom1cp"
     },
     {
       "added_at": "2025-02-14 15:17:16",
@@ -1551,6 +1535,22 @@
       "duration_ms": 240000,
       "name": "Emergency Contact",
       "url": "https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD"
+    },
+    {
+      "added_at": "2025-02-14 15:17:16",
+      "album": {
+        "name": "Every Kingdom (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2MxcbOGFi99D9JACvj74AH"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 328506,
+      "name": "Old Pine",
+      "url": "https://open.spotify.com/track/0Qw7qGuXlVBZLcfoQ17yZn"
     },
     {
       "added_at": "2025-02-14 15:17:16",

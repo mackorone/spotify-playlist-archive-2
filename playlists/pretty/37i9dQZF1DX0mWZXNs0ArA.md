@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,950,733 likes - 100 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,950,593 likes - 100 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 84 | [3D \(feat\. Jack Harlow\) \(Sped Up\)](https://open.spotify.com/track/1ewYtP6BZlak8qokzZe4Bx) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 2:48 |
 | 85 | [af1 \(sped up\)](https://open.spotify.com/track/1HmUGju9HonKgT157b0DLB) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [af1 \(sped up\)](https://open.spotify.com/album/5n0OHA9uNQ6voLmTJJkg5B) | 1:58 |
 | 86 | [Demain \(Sped up version\)](https://open.spotify.com/track/1H4LfB2sUsoJ1x0zfGBcXU) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP), [Biggie Jo](https://open.spotify.com/artist/5D7sERhp1Zl3fZ31tWbLc7) | [Demain \(Sped up version\)](https://open.spotify.com/album/0N5BM7gNz7AMbG2yZhHIPP) | 2:52 |
-| 87 | [The Middle](https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz) | [PHANTOMA](https://open.spotify.com/artist/2nVkiO6d4vQJFWGZ4OQ5mC) | [The Middle](https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq) | 2:27 |
-| 88 | [Never Let Go \(Of Me\) \- Sped Up](https://open.spotify.com/track/14903RK7FPQAptnH3aSbSb) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Never Let Go \(Of Me\) \[Heist Edit\]](https://open.spotify.com/album/4p282orDkXgFgxQrCXLmlr) | 1:23 |
+| 87 | [Never Let Go \(Of Me\) \- Sped Up](https://open.spotify.com/track/14903RK7FPQAptnH3aSbSb) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Never Let Go \(Of Me\) \[Heist Edit\]](https://open.spotify.com/album/4p282orDkXgFgxQrCXLmlr) | 1:23 |
+| 88 | [The Middle](https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz) | [PHANTOMA](https://open.spotify.com/artist/2nVkiO6d4vQJFWGZ4OQ5mC) | [The Middle](https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq) | 2:27 |
 | 89 | [It's Called: Freefall \(Rainbow Kitten Surprise\) \- Sped Up Version](https://open.spotify.com/track/29xN2h4Cmzmt7lo5Ws1PlZ) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [It’s Called: Freefall \(Rainbow Kitten Surprise\) \[Sped Up Version\]](https://open.spotify.com/album/0mk9wKYZseQHEdkHPyPVki) | 2:08 |
 | 90 | [Automotivo Bibi Fogosa \- Speed Up](https://open.spotify.com/track/0aSz9VMu18LrwN8u8tYaXr) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Dj Brunin XM](https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3), [KZA Produções](https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax) | [Automotivo Bibi Fogosa \(Speed Up\)](https://open.spotify.com/album/2Qj9krbUkUECNmAJefl9Q3) | 1:40 |
 | 91 | [White Tee \- Sped Up](https://open.spotify.com/track/0kyM7PrYjF4vH8FyOkEBuN) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [White Tee \(Sped Up\)](https://open.spotify.com/album/7fjaZibcYJdHjdODt68lDS) | 2:39 |

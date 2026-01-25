@@ -2333,6 +2333,24 @@
     },
     {
       "album": {
+        "name": "Badtameez Haramkhor",
+        "url": "https://open.spotify.com/album/40ZRjwdc75JAA0hzp4Nw9l"
+      },
+      "artists": [
+        {
+          "name": "Dulhay Mian",
+          "url": "https://open.spotify.com/artist/5r5kyp8SEFSYHJCJvbwi1c"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170250,
+      "name": "Badtameez Haramkhor",
+      "url": "https://open.spotify.com/track/76s5sPDlN1lcAIOz6Vm9gi"
+    },
+    {
+      "album": {
         "name": "Baghawat (The Song of Resistance)",
         "url": "https://open.spotify.com/album/0dGt2HBPfPy2hS7asmRksK"
       },

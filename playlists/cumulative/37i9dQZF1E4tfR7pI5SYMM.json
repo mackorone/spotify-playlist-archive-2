@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With AlligatorX, Jon Drake, Bad Scullianz and more",
+  "description": "With Jon Drake, AlligatorX, MIK's Reaction and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 241223,
       "name": "A-DAY - Remaster",
       "url": "https://open.spotify.com/track/7t1MTQdvPlQdus0lAhXSx1"
@@ -290,7 +290,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 162000,
       "name": "Bait of fate",
       "url": "https://open.spotify.com/track/33TCxoLnemJ2mBfBu4p9Um"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 254374,
       "name": "Black Heart",
       "url": "https://open.spotify.com/track/2nq1Ih4df9PNbjwQObcFNk"
@@ -654,7 +654,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 234590,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/08buGoheqrNstHvUJGprEN"
@@ -834,7 +834,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 226758,
       "name": "Days and Roses",
       "url": "https://open.spotify.com/track/3zpfjxjnfosCaGLfJeZdEf"
@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Discipline",
       "url": "https://open.spotify.com/track/3ZAcW4sUc92H8QnoNs5Ai9"
@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 497500,
       "name": "Ecos do Passado",
       "url": "https://open.spotify.com/track/37PZySszRFWvAPXpz8FE11"
@@ -1638,7 +1638,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 248451,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
@@ -1736,7 +1736,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 227200,
       "name": "Have you got nothing left to Say",
       "url": "https://open.spotify.com/track/1OcLvOt48oLJqkhSTljR6b"
@@ -1772,7 +1772,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 185701,
       "name": "Helistasin jumalale",
       "url": "https://open.spotify.com/track/7C7bz3dsJdjG8yuSGsXJ45"
@@ -2179,6 +2179,24 @@
     },
     {
       "album": {
+        "name": "Dreams and Falls",
+        "url": "https://open.spotify.com/album/6oBrTMaUWMEprQQdTEpWNZ"
+      },
+      "artists": [
+        {
+          "name": "Organoclorados",
+          "url": "https://open.spotify.com/artist/45GwPSYcsi1sTNCtHHVAeH"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272042,
+      "name": "Insecurity (Radio Edit)",
+      "url": "https://open.spotify.com/track/7qkbq9iXcW1pWI6NNLJ7Jv"
+    },
+    {
+      "album": {
         "name": "IO",
         "url": "https://open.spotify.com/album/5yhVsqIReapxdmmdpxkgfh"
       },
@@ -2262,7 +2280,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -2562,7 +2580,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 228003,
       "name": "Little Lungs",
       "url": "https://open.spotify.com/track/1hwmhOZRUIPBsS8SIYAhNm"
@@ -2584,6 +2602,24 @@
       "duration_ms": 203600,
       "name": "Little Respect - Rock Version",
       "url": "https://open.spotify.com/track/2COYCUPa4gndUQq5Afju5R"
+    },
+    {
+      "album": {
+        "name": "Lonely Man",
+        "url": "https://open.spotify.com/album/0aGbPsNgKSrjHnZXepgF3e"
+      },
+      "artists": [
+        {
+          "name": "Stef Dee",
+          "url": "https://open.spotify.com/artist/2TkcMC8DwuPohqvhFiowTY"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188840,
+      "name": "Lonely Man",
+      "url": "https://open.spotify.com/track/68gksng0zweehO0LLVw6ba"
     },
     {
       "album": {
@@ -2616,7 +2652,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 218000,
       "name": "Long Gone",
       "url": "https://open.spotify.com/track/1XFM7E0AQ1SJSBipu9wgB8"
@@ -2706,7 +2742,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 200377,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/6jIKNLyG16eIHXnCtthNoU"
@@ -2832,7 +2868,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 221966,
       "name": "Meet My Maker",
       "url": "https://open.spotify.com/track/0Cg2fzM4zZLBX1Ckk6tC9W"
@@ -3002,7 +3038,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 351000,
       "name": "Mr. Record Man",
       "url": "https://open.spotify.com/track/1DXOaD84OMVvwL2oaTuGiM"
@@ -3078,7 +3114,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -3226,7 +3262,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 219752,
       "name": "Not Immortal",
       "url": "https://open.spotify.com/track/5fK9crvnMpEOU7aLe4X8wW"
@@ -3410,7 +3446,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 237751,
       "name": "Onward We Go",
       "url": "https://open.spotify.com/track/5ua4KDUOuO0nRJfnYX5GiH"
@@ -4384,7 +4420,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 233600,
       "name": "Sunswept",
       "url": "https://open.spotify.com/track/3ycubEbm00kreSdRc14BCi"
@@ -4492,7 +4528,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 254185,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/0I1pjXfxBby3nA7zz3lD0t"
@@ -4528,7 +4564,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 200267,
       "name": "Takk f\u00f8r alt",
       "url": "https://open.spotify.com/track/2ajW4vIKBOEPE83qwspXFx"
@@ -4766,7 +4802,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 255435,
       "name": "The Perfect Clown",
       "url": "https://open.spotify.com/track/7xTywMmLuhj3hgB93jdVe3"
@@ -4882,7 +4918,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -4918,7 +4954,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 264877,
       "name": "This World\u2019s For Sharing",
       "url": "https://open.spotify.com/track/0JuMG668Xof1s2ApVkABAm"
@@ -5560,6 +5596,24 @@
       "duration_ms": 219117,
       "name": "You Don\u2019t Know Me",
       "url": "https://open.spotify.com/track/64pf4UeSWSSGsFenffc4tb"
+    },
+    {
+      "album": {
+        "name": "You Know What!",
+        "url": "https://open.spotify.com/album/6iZlQpSl3xcspxMigAsN27"
+      },
+      "artists": [
+        {
+          "name": "Bellissi",
+          "url": "https://open.spotify.com/artist/0CjfLUKqHGuVFi6mOCNl7k"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237576,
+      "name": "You Know What!",
+      "url": "https://open.spotify.com/track/6n9YgVTWnNEHXYyLpJ3TFJ"
     },
     {
       "album": {

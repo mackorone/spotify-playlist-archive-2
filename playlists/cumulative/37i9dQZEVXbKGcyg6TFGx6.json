@@ -110,7 +110,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 243880,
       "name": "(When You Gonna) Give It Up to Me (feat. Keyshia Cole) - Radio Version",
       "url": "https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q"
@@ -4087,6 +4087,24 @@
     },
     {
       "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
+    },
+    {
+      "album": {
         "name": "LE NORD SE SOUVIENT : L'ODYSS\u00c9E",
         "url": "https://open.spotify.com/album/5FWu2kqXOGLBVw7KjKhYzg"
       },
@@ -4120,7 +4138,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -5080,7 +5098,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 125454,
       "name": "B.M.S (by my side)",
       "url": "https://open.spotify.com/track/17pMT4RIeRWlQiuErirVic"
@@ -7528,7 +7546,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -7982,7 +8000,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 201103,
       "name": "BLOQU\u00c9",
       "url": "https://open.spotify.com/track/4eGoCBOGEAQty5nfWRC0VD"
@@ -11274,7 +11292,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 184789,
       "name": "CHAMPAIN & VACAY",
       "url": "https://open.spotify.com/track/1097cG16gzkhlPgkUt6KA0"
@@ -15893,6 +15911,28 @@
     },
     {
       "album": {
+        "name": "FLOWERZ 3",
+        "url": "https://open.spotify.com/album/5FqifpGLU71qIUA2p7UT2h"
+      },
+      "artists": [
+        {
+          "name": "Ramendo",
+          "url": "https://open.spotify.com/artist/0VwPTuRSpYxVGDWDMHDHQr"
+        },
+        {
+          "name": "Fresh Dr",
+          "url": "https://open.spotify.com/artist/5J6m5Xto6PUgX5M63QhzMd"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188936,
+      "name": "DISIMULAR - Remastered",
+      "url": "https://open.spotify.com/track/0CW2Bda6UtKxHxpqh36k5x"
+    },
+    {
+      "album": {
         "name": "distorted memories",
         "url": "https://open.spotify.com/album/38VmHqpsur9blTgwtjg5VF"
       },
@@ -17270,7 +17310,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 238249,
       "name": "DUMBO",
       "url": "https://open.spotify.com/track/7y6RcmZyMDZ49yVupz7JdO"
@@ -22662,7 +22702,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-21",
+      "date_removed": null,
       "duration_ms": 103961,
       "name": "God Loves You - From \"Star with a Name\"",
       "url": "https://open.spotify.com/track/0AdbYXR9m2KRWt5V8HgIJI"
@@ -26364,7 +26404,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 129565,
       "name": "I Run",
       "url": "https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g"
@@ -27632,7 +27672,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 146937,
       "name": "INDOMITA",
       "url": "https://open.spotify.com/track/0WZ0mocR7TQKMxarxabhUu"
@@ -32879,6 +32919,24 @@
     },
     {
       "album": {
+        "name": "LOVE U ANYWAY",
+        "url": "https://open.spotify.com/album/7kHeCOYak5vkAtwOOZlHKT"
+      },
+      "artists": [
+        {
+          "name": "benno!",
+          "url": "https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154745,
+      "name": "LOVE U ANYWAY",
+      "url": "https://open.spotify.com/track/20jU6YX368oV5snlFsiAo8"
+    },
+    {
+      "album": {
         "name": "Cold Foam",
         "url": "https://open.spotify.com/album/7toCOr4cd0FjmPcH5NhmAl"
       },
@@ -35336,6 +35394,28 @@
       "duration_ms": 151348,
       "name": "Menina de Vermelho",
       "url": "https://open.spotify.com/track/5oHWEvKSsl1DVxAgRBReI9"
+    },
+    {
+      "album": {
+        "name": "Summer Files (Mixtape)",
+        "url": "https://open.spotify.com/album/2vyR3o4E6LRAHR8GvFxb7o"
+      },
+      "artists": [
+        {
+          "name": "JRous",
+          "url": "https://open.spotify.com/artist/4c4k1UkywNCOuKsXHJWJdd"
+        },
+        {
+          "name": "Ramendo",
+          "url": "https://open.spotify.com/artist/0VwPTuRSpYxVGDWDMHDHQr"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Mensaje",
+      "url": "https://open.spotify.com/track/4vUkKTAouFQcYaTXsJ1Bm1"
     },
     {
       "album": {
@@ -39908,7 +39988,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 123428,
       "name": "NOW OR NEVER",
       "url": "https://open.spotify.com/track/4fUK2q5ERoi97E3g2kwB8c"
@@ -41932,10 +42012,36 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 279962,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/76952ZbAHlgMqrIEMqYkgB"
+    },
+    {
+      "album": {
+        "name": "Papaoutai (Afro Soul)",
+        "url": "https://open.spotify.com/album/4H50NcMmYRT4SovEvVgjqW"
+      },
+      "artists": [
+        {
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+        },
+        {
+          "name": "Chill77",
+          "url": "https://open.spotify.com/artist/7jixKGP9cSwVSLEkmgbv2s"
+        },
+        {
+          "name": "Unjaps",
+          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279962,
+      "name": "Papaoutai - Afro Soul",
+      "url": "https://open.spotify.com/track/7qbqG0UWOdpsYE2G6ckXSb"
     },
     {
       "album": {
@@ -42990,7 +43096,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -43596,7 +43702,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 230000,
       "name": "Poney",
       "url": "https://open.spotify.com/track/66ku4Gq4k5xUqdVL4Oam2r"
@@ -44824,6 +44930,24 @@
       "duration_ms": 176010,
       "name": "QUE CE SOIT CLAIR",
       "url": "https://open.spotify.com/track/6eDKyG6jvCXaTyTdFOh9wA"
+    },
+    {
+      "album": {
+        "name": "QUE DES FAITS",
+        "url": "https://open.spotify.com/album/2gz4hATKiMzheB8IiDpCZM"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "QUE DES FAITS",
+      "url": "https://open.spotify.com/track/2RoNSwUsNMelk14j7HJ4dG"
     },
     {
       "album": {
@@ -51378,7 +51502,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 183307,
       "name": "SPA",
       "url": "https://open.spotify.com/track/5UpupDvr2w93ccnEmmhS5q"
@@ -53362,7 +53486,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -57070,7 +57194,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 145512,
       "name": "Tout donner",
       "url": "https://open.spotify.com/track/6a5pKXuDODMRubAW7aXYOO"
@@ -57868,6 +57992,28 @@
       "duration_ms": 169000,
       "name": "Tu connais",
       "url": "https://open.spotify.com/track/3rIX5DA9rUk89KUOZdGFaN"
+    },
+    {
+      "album": {
+        "name": "Tu La Quiere Mala",
+        "url": "https://open.spotify.com/album/0qFUWI9X6bCVTBHsZmBJ17"
+      },
+      "artists": [
+        {
+          "name": "La Chocolatosa",
+          "url": "https://open.spotify.com/artist/7DyGcDoJpxps1exp0tV4u6"
+        },
+        {
+          "name": "El Mv",
+          "url": "https://open.spotify.com/artist/5JYDPEUDdaiHoZ72JfQ8mr"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125952,
+      "name": "Tu La Quiere Mala",
+      "url": "https://open.spotify.com/track/2wISZf7hc6Pwi2WapaB7Uw"
     },
     {
       "album": {

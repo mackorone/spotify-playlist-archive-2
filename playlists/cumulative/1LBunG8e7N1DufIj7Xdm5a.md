@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,872 songs - 8 day 13 hr 35 min
+3,873 songs - 8 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3361,6 +3361,7 @@
 | [The Weight of Ashes](https://open.spotify.com/track/4DC1z3PadFT7CXFTZWVzoT) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Epic rock music](https://open.spotify.com/album/79c248en6LDJwweGZK1sn5) | 4:51 | 2025-09-14 |  |
 | [The Weight of Ashes \(another\)](https://open.spotify.com/track/5GrSI78nrCNhosSp7GcB0F) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Epic rock music](https://open.spotify.com/album/79c248en6LDJwweGZK1sn5) | 6:02 | 2025-09-14 |  |
 | [The Weight of Yesterday](https://open.spotify.com/track/6buqyTMN8UTmN37uYXBtI9) | [Labean Dreams](https://open.spotify.com/artist/4WOzApZ1D3ngpRaH9Qz0h6) | [Quiet Hours](https://open.spotify.com/album/1TS5WFpjEkERzNocaSz1hH) | 2:14 | 2025-06-05 |  |
+| [The Whetting \- Acoustic](https://open.spotify.com/track/3yA0HQDLXr6OuwrphBdEWh) | [Apex4X](https://open.spotify.com/artist/0c6BktWlA4O1hrPy6q1JHA) | [Reflections](https://open.spotify.com/album/2rQqY2rEA2iOyKgCu5uF5o) | 4:55 | 2026-01-24 |  |
 | [The Wild Things](https://open.spotify.com/track/6PPBqYBKvQV3mFHLp4omOm) | [H4teMeDarian](https://open.spotify.com/artist/0CCMVF6ifomI4JsvYt7PZQ) | [The Wild Things](https://open.spotify.com/album/2XFMRfKgxoTQrINS5FATXZ) | 1:39 | 2025-06-02 |  |
 | [The Witchs Curse](https://open.spotify.com/track/5WNoewxflFNpjB6mIcT2U6) | [Deadmemxry](https://open.spotify.com/artist/2pXlZlfVJ2IADMqAaazNlJ) | [DELIRIUM](https://open.spotify.com/album/10SAyyHbQ4pjSEELg8GEnB) | 3:49 | 2025-12-04 |  |
 | [Their Kin](https://open.spotify.com/track/36g2Yb2mid6mIIphz5rvYr) | [PaSK](https://open.spotify.com/artist/0ubHnI1tYSkVVxslIkr3gO) | [Their Kin](https://open.spotify.com/album/1bMP3gZgcSaprLd2zzBM5U) | 3:28 | 2025-06-11 |  |

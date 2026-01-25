@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Moses Bliss
 
-680 songs - 2 day 12 hr 40 min
+681 songs - 2 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [He Fights For Me](https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Grace Omosebi](https://open.spotify.com/artist/0MjHUPDq9KVCCqjAcTdVRQ), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:19 | 2023-05-26 | 2025-10-31 |
 | [He Still Can](https://open.spotify.com/track/01sYriRDv878NT0GrCjPNn) | [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG) | [He Still Can](https://open.spotify.com/album/4i6Flpm2PMEYdPzebXvKGy) | 7:20 | 2025-04-04 | 2025-06-16 |
 | [He Will Provide](https://open.spotify.com/track/6Ej9JXSMgBATGtAwQq3HTb) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [He Will Provide](https://open.spotify.com/album/4uMDmd8DPzOkSKMP3CgBuo) | 5:56 | 2026-01-09 | 2026-01-23 |
-| [Head 2 Core](https://open.spotify.com/track/0MOiNpIjZcHegtStf7gCY7) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Head 2 Core](https://open.spotify.com/album/1dxCRwSNSXpyNPK5GT73DJ) | 2:26 | 2025-10-31 |  |
+| [Head 2 Core](https://open.spotify.com/track/0MOiNpIjZcHegtStf7gCY7) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Head 2 Core](https://open.spotify.com/album/1dxCRwSNSXpyNPK5GT73DJ) | 2:26 | 2025-10-31 | 2026-01-25 |
 | [Head Up 2.0](https://open.spotify.com/track/0BhBwg1NThsfsspTcvw7IA) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Head Up 2.0](https://open.spotify.com/album/1q8sV0zHiVKRvgQqMf0V1d) | 3:45 | 2025-12-19 |  |
 | [Heal Our Land](https://open.spotify.com/track/22A8LtBraZbTlhEBWRlA50) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Heal Our Land](https://open.spotify.com/album/3iz7QSdqWk5HzCKJYkG8RA) | 5:29 | 2025-10-03 | 2025-10-10 |
 | [here](https://open.spotify.com/track/6C4DacOnoWaXnXXjg0AmRu) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [Soliloquy II](https://open.spotify.com/album/3ZnyJyblnIdEDtYXP6D9A5) | 2:25 | 2025-10-31 | 2026-01-15 |
@@ -571,6 +571,7 @@
 | [The Conqueror’s Chant \(Agalliao\)](https://open.spotify.com/track/0INx5pqvfPfD9ZkqsOaM03) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [The Conqueror’s Chant \(Agalliao\)](https://open.spotify.com/album/35thPiCxJtZayMsEV1Resj) | 8:44 | 2024-09-20 | 2025-05-23 |
 | [The Edge](https://open.spotify.com/track/4cChKOsyTd7YEzKMZd9ia2) | [Sharyn](https://open.spotify.com/artist/3Q4LCCA4pELbkozdmAZtKS), [Shiv Musiq](https://open.spotify.com/artist/1qzw0kNp2vIeSD93nVQapH) | [The Edge](https://open.spotify.com/album/1ojpDRM33MLwyGSqBAjclK) | 3:56 | 2024-09-20 | 2024-11-22 |
 | [The Greater One \- Live](https://open.spotify.com/track/4flFxEhEkewMqbCGSA3BFE) | [Promise Benson](https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28), [Ema Onyx](https://open.spotify.com/artist/6Cnb464ggB0K5HuPfeci5F) | [The Greater One \(Live\)](https://open.spotify.com/album/5vf9ZhUKJgaUM4QmOalVdg) | 5:43 | 2025-04-11 | 2025-06-06 |
+| [The Journey](https://open.spotify.com/track/1BwtXJJhh2WHMCzGEmOr3X) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG), [Victorious Lucas](https://open.spotify.com/artist/1pHZMBHrislFKRnW5mto8q), [House of Faith](https://open.spotify.com/artist/2gd3Nx0mLp4GLIODtehPDy) | [The Journey](https://open.spotify.com/album/6rlWTLxhAEjkWyF3LACWRL) | 3:26 | 2025-10-31 |  |
 | [The Moment \- Live](https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Moment \(Live\)](https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO) | 7:21 | 2022-08-12 | 2023-11-18 |
 | [The Morning](https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [The Morning](https://open.spotify.com/album/4sP4BjciIheSSBEGwDpG2q) | 2:59 | 2025-05-16 | 2025-08-02 |
 | [The Name of Jesus \- Live in Concert](https://open.spotify.com/track/4KTSpi2D4uoHcwxcPvvt3v) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [The Name of Jesus \(Live in Concert\)](https://open.spotify.com/album/0FBAKHBxvNTdsPNW7Qbfk4) | 8:10 | 2023-12-05 | 2023-12-11 |

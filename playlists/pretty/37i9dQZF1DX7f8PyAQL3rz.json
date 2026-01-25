@@ -1,6 +1,6 @@
 {
   "description": "ISSO AQUI \u00c9 \ud83c\udf34 \ud83c\udf79 \u2600\ufe0f \ud83c\udde7\ud83c\uddf7",
-  "num_followers": 1413982,
+  "num_followers": 1413901,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -963,6 +963,30 @@
     {
       "added_at": "2026-01-23 03:01:11",
       "album": {
+        "name": "Fake Love",
+        "url": "https://open.spotify.com/album/1O6473FQ4oOmVhgHMtCiJY"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Gigant",
+          "url": "https://open.spotify.com/artist/078qvuSjdEnKuq3i3FRo6O"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 196626,
+      "name": "Fake Love",
+      "url": "https://open.spotify.com/track/5nNScs8d0L55YlrPepJi7C"
+    },
+    {
+      "added_at": "2026-01-23 03:01:11",
+      "album": {
         "name": "Sinestesia",
         "url": "https://open.spotify.com/album/2bLgXehUjKOPQuP1FeYNNn"
       },
@@ -1011,30 +1035,6 @@
       "duration_ms": 242963,
       "name": "N\u00e3o rouba minha brisa",
       "url": "https://open.spotify.com/track/5KOBNthxPSlby8DGqNRrSX"
-    },
-    {
-      "added_at": "2026-01-23 03:01:11",
-      "album": {
-        "name": "Fake Love",
-        "url": "https://open.spotify.com/album/1O6473FQ4oOmVhgHMtCiJY"
-      },
-      "artists": [
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Gigant",
-          "url": "https://open.spotify.com/artist/078qvuSjdEnKuq3i3FRo6O"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 196626,
-      "name": "Fake Love",
-      "url": "https://open.spotify.com/track/5nNScs8d0L55YlrPepJi7C"
     },
     {
       "added_at": "2026-01-23 03:01:11",

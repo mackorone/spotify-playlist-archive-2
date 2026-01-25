@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 578686,
+  "num_followers": 578794,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
+        "name": "A Gira",
+        "url": "https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E"
+      },
+      "artists": [
+        {
+          "name": "unfazed",
+          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
+        }
+      ],
+      "duration_ms": 152325,
+      "name": "A Gira",
+      "url": "https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
         "name": "Jackie B",
         "url": "https://open.spotify.com/album/6bl2DvR8JpxauHqG7PjOmg"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 217000,
       "name": "Jackie B",
       "url": "https://open.spotify.com/track/6AriBfTagIjKVUov3WEwOa"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
-        "name": "A Gira",
-        "url": "https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E"
-      },
-      "artists": [
-        {
-          "name": "unfazed",
-          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
-        }
-      ],
-      "duration_ms": 152325,
-      "name": "A Gira",
-      "url": "https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1791,6 +1791,26 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        },
+        {
+          "name": "Franc Fala",
+          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
+        }
+      ],
+      "duration_ms": 176528,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
         "name": "Mayana",
         "url": "https://open.spotify.com/album/7jX7fxxYewIXCfqIyz4bSy"
       },
@@ -1835,26 +1855,6 @@
       "duration_ms": 170516,
       "name": "Anything (Ya Ya)",
       "url": "https://open.spotify.com/track/0UPTkIZR45UaYchMgaVMAs"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
-        "name": "Wait For You",
-        "url": "https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt"
-      },
-      "artists": [
-        {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
-        },
-        {
-          "name": "Franc Fala",
-          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
-        }
-      ],
-      "duration_ms": 176528,
-      "name": "Wait For You",
-      "url": "https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "i can't make you love me / started over",
-        "url": "https://open.spotify.com/album/1u7ZRx3ZJ2Qi2Kq6uag5QD"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 209538,
-      "name": "i can't make you love me",
-      "url": "https://open.spotify.com/track/1yfQUD0r1tAHwvpIQSE7Ax"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Masterclass",
         "url": "https://open.spotify.com/album/0EnaDpMlUTsWUVRPhwxPCD"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 212000,
       "name": "Masterclass",
       "url": "https://open.spotify.com/track/043vqBDn7RzuxJ1FF35Qht"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "i can't make you love me / started over",
+        "url": "https://open.spotify.com/album/1u7ZRx3ZJ2Qi2Kq6uag5QD"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 209538,
+      "name": "i can't make you love me",
+      "url": "https://open.spotify.com/track/1yfQUD0r1tAHwvpIQSE7Ax"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -2103,26 +2103,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/6rfW8Ur00M44ftAONPPvY1"
-      },
-      "artists": [
-        {
-          "name": "Ape Drums",
-          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
-        },
-        {
-          "name": "JAMIIE",
-          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "111",
-      "url": "https://open.spotify.com/track/1wisB4DtmmPiuLrA188XmR"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Feel the Rhythm",
         "url": "https://open.spotify.com/album/67YOOGJXXbfL0N5xRjRpDl"
       },
@@ -2159,6 +2139,26 @@
       "duration_ms": 159636,
       "name": "Take It Easy on Me",
       "url": "https://open.spotify.com/track/62aj6pzjrfimmXIMWHMYiU"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/6rfW8Ur00M44ftAONPPvY1"
+      },
+      "artists": [
+        {
+          "name": "Ape Drums",
+          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
+        },
+        {
+          "name": "JAMIIE",
+          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "111",
+      "url": "https://open.spotify.com/track/1wisB4DtmmPiuLrA188XmR"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -2271,22 +2271,22 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Riga",
-        "url": "https://open.spotify.com/album/3puESyF040eq4WYWJPSG4S"
+        "name": "Bilmirem",
+        "url": "https://open.spotify.com/album/43ZP1eMhyK58ki4mGeEuy0"
       },
       "artists": [
         {
-          "name": "Super Flu",
-          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
+          "name": "Ilkay Sencan",
+          "url": "https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w"
         },
         {
-          "name": "Marc Werner",
-          "url": "https://open.spotify.com/artist/3LzUh1HW5SPWW2vElaLenr"
+          "name": "Metty",
+          "url": "https://open.spotify.com/artist/0vsssjIOJPKcAfG0oUjHVs"
         }
       ],
-      "duration_ms": 315371,
-      "name": "Riga",
-      "url": "https://open.spotify.com/track/4J0gDIw2chzeWkzkOZphHX"
+      "duration_ms": 162937,
+      "name": "Bilmirem",
+      "url": "https://open.spotify.com/track/1V0mY5kWhCbUJYil8PVGUJ"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -2311,6 +2311,26 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
+        "name": "Riga",
+        "url": "https://open.spotify.com/album/3puESyF040eq4WYWJPSG4S"
+      },
+      "artists": [
+        {
+          "name": "Super Flu",
+          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
+        },
+        {
+          "name": "Marc Werner",
+          "url": "https://open.spotify.com/artist/3LzUh1HW5SPWW2vElaLenr"
+        }
+      ],
+      "duration_ms": 315371,
+      "name": "Riga",
+      "url": "https://open.spotify.com/track/4J0gDIw2chzeWkzkOZphHX"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
         "name": "Nothing Wrong",
         "url": "https://open.spotify.com/album/6K2eYBkRKd1PigxrMJujNn"
       },
@@ -2323,26 +2343,6 @@
       "duration_ms": 205161,
       "name": "Nothing Wrong - Love Mix",
       "url": "https://open.spotify.com/track/7iplrJUdhVjYgAjZGINro8"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
-        "name": "Bilmirem",
-        "url": "https://open.spotify.com/album/43ZP1eMhyK58ki4mGeEuy0"
-      },
-      "artists": [
-        {
-          "name": "Ilkay Sencan",
-          "url": "https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w"
-        },
-        {
-          "name": "Metty",
-          "url": "https://open.spotify.com/artist/0vsssjIOJPKcAfG0oUjHVs"
-        }
-      ],
-      "duration_ms": 162937,
-      "name": "Bilmirem",
-      "url": "https://open.spotify.com/track/1V0mY5kWhCbUJYil8PVGUJ"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -2435,22 +2435,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "ROOTS",
-        "url": "https://open.spotify.com/album/7zBtA9nV22Xkz776jcA8Rh"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        }
-      ],
-      "duration_ms": 249999,
-      "name": "ROOTS",
-      "url": "https://open.spotify.com/track/78i4GOdyumIDNV5gVSB1ra"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Campanera",
         "url": "https://open.spotify.com/album/3IsSwiowHDd0YgVeAIuU4U"
       },
@@ -2471,6 +2455,22 @@
       "duration_ms": 159555,
       "name": "Campanera",
       "url": "https://open.spotify.com/track/48PDWlo207BD9XDRZzFhR7"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "ROOTS",
+        "url": "https://open.spotify.com/album/7zBtA9nV22Xkz776jcA8Rh"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "duration_ms": 249999,
+      "name": "ROOTS",
+      "url": "https://open.spotify.com/track/78i4GOdyumIDNV5gVSB1ra"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -2611,6 +2611,26 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
+        "name": "Kuwe",
+        "url": "https://open.spotify.com/album/1mM1J5FQo1vohr5fPkYc6u"
+      },
+      "artists": [
+        {
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+        },
+        {
+          "name": "Nana Atta",
+          "url": "https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Kuwe",
+      "url": "https://open.spotify.com/track/0ORWrNURhLN2MghAwUWJD9"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
         "name": "Buschtaxi",
         "url": "https://open.spotify.com/album/18mW0faz1AHDsTHNdtxAih"
       },
@@ -2643,26 +2663,6 @@
       "duration_ms": 166451,
       "name": "Rolling Thunder",
       "url": "https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
-        "name": "Shoda",
-        "url": "https://open.spotify.com/album/0S0W8HKfy6dHCmArthtZ0Z"
-      },
-      "artists": [
-        {
-          "name": "Fazil",
-          "url": "https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Shoda",
-      "url": "https://open.spotify.com/track/0prNbCHO4fO9RCmbUMmmLh"
     }
   ],
   "unique_name": "Tantra",

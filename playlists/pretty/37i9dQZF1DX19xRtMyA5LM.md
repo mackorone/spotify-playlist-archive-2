@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: KA
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,446 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,431 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 4 | [Beeldspraak](https://open.spotify.com/track/7gNMzb2QugWttXBA63EGM0) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Reset](https://open.spotify.com/album/01YPoXB22upTPnELbZ1UBw) | 3:27 |
 | 5 | [De Laatste Sprint](https://open.spotify.com/track/2lV0iWyn789HzZX28uqfgO) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [De Laatste Sprint](https://open.spotify.com/album/1EzVpVYDBYqs5yBtyeJuMe) | 3:31 |
 | 6 | [NO DAYS OFF](https://open.spotify.com/track/2wNNAvXTcn1CvjcBdD32bB) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [NO DAYS OFF](https://open.spotify.com/album/2SXwIw8beU1KHJvIZ266Gc) | 3:06 |
-| 7 | [Back2Back](https://open.spotify.com/track/3fcGakFffsW9RNUPNGtf2P) | [VL Disappear](https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy), [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB) | [Back2Back](https://open.spotify.com/album/0gzY56BVF881zHgjsA4FGs) | 3:13 |
+| 7 | [Back 2 Back](https://open.spotify.com/track/3fcGakFffsW9RNUPNGtf2P) | [VL Disappear](https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy), [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB) | [Back 2 Back](https://open.spotify.com/album/0gzY56BVF881zHgjsA4FGs) | 3:13 |
 | 8 | [SKYEINDY](https://open.spotify.com/track/3yGBnT8VokFV1qYhp1t8lo) | [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p) | [SKYEINDY](https://open.spotify.com/album/6jD6GOTJmQFnPsWumB9a3i) | 2:15 |
 | 9 | [KOUD?](https://open.spotify.com/track/48DXWf7RObApu0clQeXYeH) | [Spanker](https://open.spotify.com/artist/6wMnkPepu5AcV3w9rtIw09), [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [KOUD?](https://open.spotify.com/album/3B1ImkDB4A45SwnhCA95Db) | 2:38 |
 | 10 | [LONDON](https://open.spotify.com/track/0i8xNA5Gpo9t50J6TeNXE7) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [LONDON](https://open.spotify.com/album/6nExdJHSEkx8AUo5ObaQf3) | 3:11 |

@@ -7047,6 +7047,24 @@
     },
     {
       "album": {
+        "name": "how the f*** does everybody else manage?",
+        "url": "https://open.spotify.com/album/7s9tN7wLGVuWclzIeywrxs"
+      },
+      "artists": [
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210222,
+      "name": "how the f*** does everybody else manage?",
+      "url": "https://open.spotify.com/track/3h7UpzkWwGHDSYOyZzjWgN"
+    },
+    {
+      "album": {
         "name": "How To Be Human",
         "url": "https://open.spotify.com/album/7toTchc8ZCYGYP4V05MziV"
       },
@@ -8893,6 +8911,24 @@
     },
     {
       "album": {
+        "name": "IS THERE A WORLD?",
+        "url": "https://open.spotify.com/album/5SCes4ZPjdPch5Dge1nChl"
+      },
+      "artists": [
+        {
+          "name": "Caleb Hearn",
+          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222533,
+      "name": "IS THERE A WORLD?",
+      "url": "https://open.spotify.com/track/0RX7ZR2qX13rNJkFyI1THV"
+    },
+    {
+      "album": {
         "name": "Is This Love To You",
         "url": "https://open.spotify.com/album/5wEwgDkXxpWYoa18RjS85V"
       },
@@ -10272,7 +10308,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 206458,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/1HfMVBKM75vxSfsQ5VefZ5"
@@ -14830,7 +14866,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 183157,
       "name": "Starcrossed",
       "url": "https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe"

@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 159167,
+  "num_followers": 159163,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2026-01-19 16:13:22",
       "album": {
+        "name": "UM44K Ac\u00fastico",
+        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        }
+      ],
+      "duration_ms": 163492,
+      "name": "Pode falar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
+    },
+    {
+      "added_at": "2026-01-19 16:13:22",
+      "album": {
         "name": "Primeira Vez (Studio Rec #8)",
         "url": "https://open.spotify.com/album/5dnrS9JpNujiPMZrodx1K8"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 163218,
       "name": "Primeira Vez (Studio Rec #8)",
       "url": "https://open.spotify.com/track/4LPI2efmQjL8xGA1YnIpo1"
-    },
-    {
-      "added_at": "2026-01-19 16:13:22",
-      "album": {
-        "name": "UM44K Ac\u00fastico",
-        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 163492,
-      "name": "Pode falar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
     },
     {
       "added_at": "2026-01-19 16:13:22",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-01-19 16:13:22",
       "album": {
-        "name": "Dias de Luta Dias de Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Dias de Luta Dias de Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q"
-    },
-    {
-      "added_at": "2026-01-19 16:13:22",
-      "album": {
         "name": "ALAKASAM",
         "url": "https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 212400,
       "name": "Sem Press\u00e3o",
       "url": "https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy"
+    },
+    {
+      "added_at": "2026-01-19 16:13:22",
+      "album": {
+        "name": "Dias de Luta Dias de Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Dias de Luta Dias de Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q"
     },
     {
       "added_at": "2026-01-19 16:13:22",
@@ -1003,26 +1003,26 @@
     {
       "added_at": "2026-01-19 16:13:22",
       "album": {
-        "name": "After",
-        "url": "https://open.spotify.com/album/53UhafrNXuHQrg6lOmXsnF"
+        "name": "Peito Aberto",
+        "url": "https://open.spotify.com/album/0scoy8UHbc4b7Rz5fZxuOl"
       },
       "artists": [
         {
-          "name": "Os Quebradeiras",
-          "url": "https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x"
+          "name": "Marina Peralta",
+          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
         },
         {
-          "name": "Guga Nandes",
-          "url": "https://open.spotify.com/artist/3vqgT6FvYBxEFbipoT9nYH"
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
-          "name": "Mousik",
-          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
         }
       ],
-      "duration_ms": 130708,
-      "name": "After",
-      "url": "https://open.spotify.com/track/1dOiyhqL1CUWr4S9R8fgkB"
+      "duration_ms": 193560,
+      "name": "Peito Aberto",
+      "url": "https://open.spotify.com/track/6rrc5zmu5jC1j1146di7GY"
     },
     {
       "added_at": "2026-01-19 16:13:22",
@@ -1047,26 +1047,26 @@
     {
       "added_at": "2026-01-19 16:13:22",
       "album": {
-        "name": "Peito Aberto",
-        "url": "https://open.spotify.com/album/0scoy8UHbc4b7Rz5fZxuOl"
+        "name": "After",
+        "url": "https://open.spotify.com/album/53UhafrNXuHQrg6lOmXsnF"
       },
       "artists": [
         {
-          "name": "Marina Peralta",
-          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
+          "name": "Os Quebradeiras",
+          "url": "https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x"
         },
         {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+          "name": "Guga Nandes",
+          "url": "https://open.spotify.com/artist/3vqgT6FvYBxEFbipoT9nYH"
         },
         {
-          "name": "EME Lab",
-          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
         }
       ],
-      "duration_ms": 193560,
-      "name": "Peito Aberto",
-      "url": "https://open.spotify.com/track/6rrc5zmu5jC1j1146di7GY"
+      "duration_ms": 130708,
+      "name": "After",
+      "url": "https://open.spotify.com/track/1dOiyhqL1CUWr4S9R8fgkB"
     },
     {
       "added_at": "2026-01-19 16:13:22",
@@ -1315,22 +1315,22 @@
     {
       "added_at": "2026-01-19 16:13:22",
       "album": {
-        "name": "Diamante Negro",
-        "url": "https://open.spotify.com/album/00Ce4qLlsxMao6zTLiTAxO"
+        "name": "Algu\u00e9m Tinha Que Falar De Amor",
+        "url": "https://open.spotify.com/album/61EMtt0oFtdaLZmP8EmxGf"
       },
       "artists": [
         {
-          "name": "Maia",
-          "url": "https://open.spotify.com/artist/0ekfGWBjfg2WG6AHI4WXtM"
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
         },
         {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
         }
       ],
-      "duration_ms": 148860,
-      "name": "Diamante Negro",
-      "url": "https://open.spotify.com/track/48NLX3lbCUiU4OoLcFXnpK"
+      "duration_ms": 200040,
+      "name": "Talvez",
+      "url": "https://open.spotify.com/track/0Pxcs6Fywg3Tvr7trl8FjC"
     },
     {
       "added_at": "2026-01-19 16:13:22",

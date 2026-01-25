@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-121 songs - 7 hr 8 min
+122 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Gladiator \- Quick on the drawing Remix](https://open.spotify.com/track/0Bi8QtVN3cQrPyBkcYN054) | [Alterkix](https://open.spotify.com/artist/5GTkfbNzzJDrQFbG3x4oZu), [Quick on the drawing](https://open.spotify.com/artist/0D5dRS9CdchnNCgCuaVZr2) | [Gladiator \(Quick on the drawing Remix\)](https://open.spotify.com/album/3cIllayNKPBQkLMa8e2ABS) | 5:28 | 2025-09-05 | 2025-12-06 |
 | [Golden Hour](https://open.spotify.com/track/6hG7emAHE76bHX4z3xvCeT) | [Leonardo Baldassarri](https://open.spotify.com/artist/7Kd95lukoVFMzZ1jQycAyQ) | [Golden Hour](https://open.spotify.com/album/0flV2vWlpcA214NGjtQKzN) | 1:41 | 2024-02-15 |  |
 | [Got It](https://open.spotify.com/track/6AgZzEByxPEBrhoHoeX3sE) | [ENILSounds](https://open.spotify.com/artist/4OzICHv6oK0sL7gco6JibF) | [Got It](https://open.spotify.com/album/2sZmYAJ091nCxwDw8GqMR4) | 3:52 | 2023-09-15 |  |
+| [Guess I'll Never Get Over You](https://open.spotify.com/track/0eukhIi3XW1fGmUSeZ0Ytc) | [Dawn Emily](https://open.spotify.com/artist/2vhuofEhK6zUceJnwojmdT), [Albert Lee](https://open.spotify.com/artist/3YMlcBYj21DcMALlALTO7m) | [Guess I'll Never Get Over You](https://open.spotify.com/album/4KNM7WAwRDdkTQ9AtG24UP) | 3:29 | 2026-01-24 |  |
 | [HALLOWEEN JOY](https://open.spotify.com/track/4cZoBYsTW6faSSpV7Vq0sz) | [Dolly Demeli](https://open.spotify.com/artist/62iOQq0JgS45GsWjuUtVZU) | [HALLOWEEN JOY](https://open.spotify.com/album/0vwWikrr0eTyXFP3FYnfLO) | 1:36 | 2025-01-11 |  |
 | [Harmony](https://open.spotify.com/track/24r9Y2d6BSed4bLj1FaFW2) | [JONGRA](https://open.spotify.com/artist/0751WlaYMHElFPfbzmlCZK) | [Harmony](https://open.spotify.com/album/5PtvboKjFNYaDN1PUGRBJM) | 3:11 | 2023-12-04 |  |
 | [Hold It](https://open.spotify.com/track/4cwHnEyUIhunVkmFNQhvLr) | [RCKYLNDN](https://open.spotify.com/artist/5WSiPMaJ4FK3v4v7mqXewG) | [Hold It](https://open.spotify.com/album/62H7ur3rSL5Wwe0GW8FTqH) | 4:58 | 2026-01-04 |  |

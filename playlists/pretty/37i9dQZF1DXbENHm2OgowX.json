@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 313862,
+  "num_followers": 314090,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -403,18 +403,22 @@
     {
       "added_at": "2025-12-04 13:11:44",
       "album": {
-        "name": "Songs About Leaving",
-        "url": "https://open.spotify.com/album/0DUYAw29meoZyNTJIbXKkf"
+        "name": "Where Souls Linger",
+        "url": "https://open.spotify.com/album/3OD0qLaIu62n4fBb1wHFfy"
       },
       "artists": [
         {
-          "name": "Carissa's Wierd",
-          "url": "https://open.spotify.com/artist/5VnYwYnG7QmpzQtxyubIwh"
+          "name": "Nightcall",
+          "url": "https://open.spotify.com/artist/74oOUKkcJV5s3bEWXGebHY"
+        },
+        {
+          "name": "Nocturne.",
+          "url": "https://open.spotify.com/artist/5eCbPTXb2UPSyDrptrvjq9"
         }
       ],
-      "duration_ms": 286160,
-      "name": "They'll Only Miss You When You Leave",
-      "url": "https://open.spotify.com/track/3FmLbfanuf7XgtBypPWWcS"
+      "duration_ms": 135000,
+      "name": "Where Souls Linger",
+      "url": "https://open.spotify.com/track/2ghAHl6x2S1Tw26fbgVEw4"
     },
     {
       "added_at": "2025-12-04 13:11:44",
@@ -435,22 +439,18 @@
     {
       "added_at": "2025-12-04 13:11:44",
       "album": {
-        "name": "Where Souls Linger",
-        "url": "https://open.spotify.com/album/3OD0qLaIu62n4fBb1wHFfy"
+        "name": "Songs About Leaving",
+        "url": "https://open.spotify.com/album/0DUYAw29meoZyNTJIbXKkf"
       },
       "artists": [
         {
-          "name": "Nightcall",
-          "url": "https://open.spotify.com/artist/74oOUKkcJV5s3bEWXGebHY"
-        },
-        {
-          "name": "Nocturne.",
-          "url": "https://open.spotify.com/artist/5eCbPTXb2UPSyDrptrvjq9"
+          "name": "Carissa's Wierd",
+          "url": "https://open.spotify.com/artist/5VnYwYnG7QmpzQtxyubIwh"
         }
       ],
-      "duration_ms": 135000,
-      "name": "Where Souls Linger",
-      "url": "https://open.spotify.com/track/2ghAHl6x2S1Tw26fbgVEw4"
+      "duration_ms": 286160,
+      "name": "They'll Only Miss You When You Leave",
+      "url": "https://open.spotify.com/track/3FmLbfanuf7XgtBypPWWcS"
     },
     {
       "added_at": "2025-12-04 13:11:44",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-12-04 13:11:44",
       "album": {
+        "name": "A Place To Sleep",
+        "url": "https://open.spotify.com/album/7wfuhwQqnIm5ojXsAxfV48"
+      },
+      "artists": [
+        {
+          "name": "air hunger",
+          "url": "https://open.spotify.com/artist/40UUOCP3GVEKusB4RZ50W0"
+        }
+      ],
+      "duration_ms": 398265,
+      "name": "A Place To Sleep",
+      "url": "https://open.spotify.com/track/3IRjaJfl3lNubGbRGXL7et"
+    },
+    {
+      "added_at": "2025-12-04 13:11:44",
+      "album": {
         "name": "Rainy morning",
         "url": "https://open.spotify.com/album/47EnexXCVKmACoZbvxxonH"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 115500,
       "name": "Rainy morning",
       "url": "https://open.spotify.com/track/4EY1jouYJXT7Tm0fSWRUvJ"
-    },
-    {
-      "added_at": "2025-12-04 13:11:44",
-      "album": {
-        "name": "A Place To Sleep",
-        "url": "https://open.spotify.com/album/7wfuhwQqnIm5ojXsAxfV48"
-      },
-      "artists": [
-        {
-          "name": "air hunger",
-          "url": "https://open.spotify.com/artist/40UUOCP3GVEKusB4RZ50W0"
-        }
-      ],
-      "duration_ms": 398265,
-      "name": "A Place To Sleep",
-      "url": "https://open.spotify.com/track/3IRjaJfl3lNubGbRGXL7et"
     },
     {
       "added_at": "2025-12-04 13:11:44",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: TheJovemJota
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,184 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,186 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [NOITE DE TRAP](https://open.spotify.com/track/6kfmdw0rCqnnnosIxKbBDZ) | [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV) | [NOITE DE TRAP](https://open.spotify.com/album/2N8aePZV3J6i2yV4tNAL4f) | 2:07 |
+| 1 | [NOITE DE TRAP](https://open.spotify.com/track/6kfmdw0rCqnnnosIxKbBDZ) | [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV), [Arthurzinho](https://open.spotify.com/artist/3k5mp3imY0h00XDaal3ELP), [D.A.A.N](https://open.spotify.com/artist/6FoJ1vMKehxpm93fteKX8v) | [NOITE DE TRAP](https://open.spotify.com/album/2N8aePZV3J6i2yV4tNAL4f) | 2:07 |
 | 2 | [Festa Particular](https://open.spotify.com/track/2ji2piqR8ffzgD7th4CaqO) | [2B](https://open.spotify.com/artist/3KpCpmkK2irJKgRDagnieE), [Real BLK](https://open.spotify.com/artist/0dkMPGEi7HnzhVcJGrvhDY) | [Festa Particular](https://open.spotify.com/album/0tisB2xjTIxkvm0CteyIw9) | 2:08 |
 | 3 | [VADIA DO PRIV](https://open.spotify.com/track/2b4x1wP32ZekuWZ0qvyfdY) | [Zares](https://open.spotify.com/artist/1yXn7j84tP9bcA0k4OgIaF), [Biazotto](https://open.spotify.com/artist/6pIhlzAGpJu6YkWsG3fe3b) | [VADIA DO PRIV](https://open.spotify.com/album/5MHJkzErIqAn7FD9qKdCWi) | 2:04 |
 | 4 | [CHAPA](https://open.spotify.com/track/1mKsDKzhikHx8JZvPPj1bA) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw), [Drummond](https://open.spotify.com/artist/11SKuSqWt1KyNO22CSTsiq), [Vertigo](https://open.spotify.com/artist/7CSCYgC7CofoVB57eCeI5j) | [CHAPA](https://open.spotify.com/album/4kQYU2woqbYQ7LS5DUqsDu) | 2:12 |

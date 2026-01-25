@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Harry Styles, MICHA, Ilse DeLange, Son Mieux, Frsh en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,440 likes - 90 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,444 likes - 90 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 28 | [Turbulence](https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [REAL, Vol\. 1](https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF) | 2:25 |
 | 29 | [De Laatste Sprint](https://open.spotify.com/track/2lV0iWyn789HzZX28uqfgO) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [De Laatste Sprint](https://open.spotify.com/album/1EzVpVYDBYqs5yBtyeJuMe) | 3:31 |
 | 30 | [Pick Up](https://open.spotify.com/track/4sRXnH3B7eZzAvq70tP58O) | [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ) | [Pick Up](https://open.spotify.com/album/2yCU6e0wqZQoFtphtxT3KX) | 2:04 |
-| 31 | [Back2Back](https://open.spotify.com/track/3fcGakFffsW9RNUPNGtf2P) | [VL Disappear](https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy), [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB) | [Back2Back](https://open.spotify.com/album/0gzY56BVF881zHgjsA4FGs) | 3:13 |
+| 31 | [Back 2 Back](https://open.spotify.com/track/3fcGakFffsW9RNUPNGtf2P) | [VL Disappear](https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy), [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB) | [Back 2 Back](https://open.spotify.com/album/0gzY56BVF881zHgjsA4FGs) | 3:13 |
 | 32 | [Gemaakt Voor Mij](https://open.spotify.com/track/2FOegrUT1zY66GX91oQ6Bn) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS) | [Gemaakt Voor Mij](https://open.spotify.com/album/2dDIq7YyMNlTDXoIyYFu4w) | 3:26 |
 | 33 | [Nothing I Can Do](https://open.spotify.com/track/5UefSeC0pbpaYPi3fOlAaD) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Nothing I Can Do](https://open.spotify.com/album/0KrPhq7aqQ8hWe09igLDlY) | 2:25 |
 | 34 | [Waiting For The Rain](https://open.spotify.com/track/2cLgf3ZOH8u6nZtdUFr6N0) | [Isabel van Gelder](https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP) | [Minor Details](https://open.spotify.com/album/5yJXPYaXD8PbJxCsPH5NOK) | 2:43 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > aquí están las joyas escondidas del 2025, elegidas por tus editores 🙂‍↕️
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,932 likes - 115 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,929 likes - 115 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 83 | [centro aLt](https://open.spotify.com/track/3AxHAdyJrz8gZ1Yr981KA5) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM), [S.3.R](https://open.spotify.com/artist/1ygBBLwpjIkQl1a7FQ9ljZ) | [centro aLt](https://open.spotify.com/album/5vAhVxOilOOTVt0lUJEo47) | 2:54 |
 | 84 | [qué triste, qué desastre \(bolero\)](https://open.spotify.com/track/4UVaHNLL9WLObHhYpjvdJY) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [nomeolvides](https://open.spotify.com/album/3RuMWGbodLpBMlUzJ2VchT) | 2:59 |
 | 85 | [Ojos Secos \(with Cuco\)](https://open.spotify.com/track/1s271I2cbxYZDrLy3xOFrE) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Boleros Psicodélicos II](https://open.spotify.com/album/12gMpdC16uCaCJk3qdrtkW) | 3:52 |
-| 86 | [Alma de Diamante](https://open.spotify.com/track/7K3cxHHs1s3n2cq9xenNCk) | [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv), [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [EN VIVO VOLUMEN I](https://open.spotify.com/album/5JsejNz8xfUgabk9A83moM) | 6:33 |
-| 87 | [OKUPAS](https://open.spotify.com/track/580QOzbFWDJKi6LtNpt7PT) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [OKUPAS](https://open.spotify.com/album/1tQ0olB3rAM8es83lc55i7) | 2:44 |
-| 88 | [visión ☆](https://open.spotify.com/track/0Van6tgFDbT8XQd6nxuVzr) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Ya no quiero quererte](https://open.spotify.com/album/5kydA38VJT7FC4ena12GQa) | 3:14 |
+| 86 | [visión ☆](https://open.spotify.com/track/0Van6tgFDbT8XQd6nxuVzr) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Ya no quiero quererte](https://open.spotify.com/album/5kydA38VJT7FC4ena12GQa) | 3:14 |
+| 87 | [Alma de Diamante](https://open.spotify.com/track/7K3cxHHs1s3n2cq9xenNCk) | [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv), [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [EN VIVO VOLUMEN I](https://open.spotify.com/album/5JsejNz8xfUgabk9A83moM) | 6:33 |
+| 88 | [OKUPAS](https://open.spotify.com/track/580QOzbFWDJKi6LtNpt7PT) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [OKUPAS](https://open.spotify.com/album/1tQ0olB3rAM8es83lc55i7) | 2:44 |
 | 89 | [Paraíso de los malos](https://open.spotify.com/track/1OAswJQpR5c4O8PmaXnMwX) | [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ), [Dano](https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0) | [Santo Domingo](https://open.spotify.com/album/3reJXxrPWQJ1riq8df76g0) | 3:08 |
 | 90 | [D E G E N E R E](https://open.spotify.com/track/2kExxNj5EBo8HUww2l72xo) | [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Onemillionkisses](https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c) | [NO ACEPTEN IMITACIONES](https://open.spotify.com/album/2mGO4bU7bgrFwEtcusFoIj) | 3:12 |
 | 91 | [Aurora \- Remix](https://open.spotify.com/track/1NwEZJ25OmqyDdzPJGrzWF) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII) | [Aurora \(Remix\)](https://open.spotify.com/album/6wEUiMr0TmgW4ibsAOXybW) | 3:08 |

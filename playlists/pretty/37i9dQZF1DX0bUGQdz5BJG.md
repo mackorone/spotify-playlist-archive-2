@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Brendan Walter and Abbie Callahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,419 likes - 193 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,436 likes - 193 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

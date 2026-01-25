@@ -1,13 +1,61 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2670,
+  "num_followers": 2671,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARS8j1gPNgO0V02WE7aT8aMrMUj1w6",
+  "snapshot_id": "AAARTg3d2/xhvZYe5rugHl+zc0q3f1+H",
   "tracks": [
+    {
+      "added_at": "2026-01-24 22:52:18",
+      "album": {
+        "name": "KIBOU",
+        "url": "https://open.spotify.com/album/2U8kyPxMXBQAIWFY4xhZl0"
+      },
+      "artists": [
+        {
+          "name": "KeepNoise",
+          "url": "https://open.spotify.com/artist/6iMok0Y9VLcNLkjuUi3sS9"
+        }
+      ],
+      "duration_ms": 362000,
+      "name": "Intercepting",
+      "url": "https://open.spotify.com/track/5rm6erU5lPU9C0c8QXY3K0"
+    },
+    {
+      "added_at": "2026-01-24 13:53:19",
+      "album": {
+        "name": "Only love matters (Part 3 - New York)",
+        "url": "https://open.spotify.com/album/7xUtGIn5ZYwIGhXfaOCecE"
+      },
+      "artists": [
+        {
+          "name": "Tess Mac Keen",
+          "url": "https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin"
+        }
+      ],
+      "duration_ms": 145440,
+      "name": "Only love matters - Part 3 - New York",
+      "url": "https://open.spotify.com/track/2f0WmuM6pBsiqyU7xfCZcm"
+    },
+    {
+      "added_at": "2026-01-24 12:19:48",
+      "album": {
+        "name": "Welcome To The Game",
+        "url": "https://open.spotify.com/album/4VoWt7lVH7rZAqMqdX5qc0"
+      },
+      "artists": [
+        {
+          "name": "Lumiere",
+          "url": "https://open.spotify.com/artist/3Yty2Yiw88iHcVEyzZSWhj"
+        }
+      ],
+      "duration_ms": 178983,
+      "name": "Welcome To The Game - Radio Mix",
+      "url": "https://open.spotify.com/track/3jKNuWPLZyTUixHT8LX1Xm"
+    },
     {
       "added_at": "2026-01-23 20:11:05",
       "album": {

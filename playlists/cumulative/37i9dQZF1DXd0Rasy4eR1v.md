@@ -4,7 +4,7 @@
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Rachel Johnson
 
-1,220 songs - 2 day 17 hr 6 min
+1,221 songs - 2 day 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Badnaam](https://open.spotify.com/track/7dj64bvH7Ijzl0NpGED39I) | [Eilaan](https://open.spotify.com/artist/7AqR65yvxeJg4BR9d0Jfgq) | [Badnaam](https://open.spotify.com/album/2BB2jIlDuHihVPPIuqPUVC) | 4:12 | 2024-01-12 | 2024-05-10 |
 | [Badnaam](https://open.spotify.com/track/1nUYtP3hywyXhLEoU7LHhn) | [Zeeshan Haider](https://open.spotify.com/artist/0c8E2S7cYBXqoo51XkVX3L) | [Badnaam](https://open.spotify.com/album/2ZH9RKj7afDAQxfjiCUEpj) | 3:37 | 2023-01-10 | 2023-03-22 |
 | [Badnaseeb](https://open.spotify.com/track/5EejjK9UYGQH9QFwPssH8e) | [shanks.](https://open.spotify.com/artist/1BTAhC64HQDSnoGBybe2rC), [Ramees](https://open.spotify.com/artist/0Y3hNjXiFT4AaOaDTvBsgd), [Mi$taBaloch](https://open.spotify.com/artist/2xyiTWHVdZ1zqFp1M3Xwgn) | [Badnaseeb](https://open.spotify.com/album/0OWISx6dZ7GOqVTh9Hj9mg) | 2:33 | 2024-08-12 | 2024-09-06 |
+| [Badtameez Haramkhor](https://open.spotify.com/track/76s5sPDlN1lcAIOz6Vm9gi) | [Dulhay Mian](https://open.spotify.com/artist/5r5kyp8SEFSYHJCJvbwi1c) | [Badtameez Haramkhor](https://open.spotify.com/album/40ZRjwdc75JAA0hzp4Nw9l) | 2:50 | 2026-01-23 |  |
 | [Baghawat \(The Song of Resistance\)](https://open.spotify.com/track/6jRCPOhoxKst7JdDqW8Ui9) | [Haider Saif](https://open.spotify.com/artist/5mN0rIX7HBuCCe63fl2T4G) | [Baghawat \(The Song of Resistance\)](https://open.spotify.com/album/0dGt2HBPfPy2hS7asmRksK) | 4:54 | 2023-02-13 | 2024-01-05 |
 | [Bahaar](https://open.spotify.com/track/0iMhUTjnJbI8MkgLKrvSCE) | [Sadaat Shafqat Amanat](https://open.spotify.com/artist/3oOno2g4btrjp7CsJKKcuv), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Bahaar](https://open.spotify.com/album/2toEVb0Od1uPykVepHbxRp) | 3:52 | 2024-05-09 | 2025-08-02 |
 | [Bahanay](https://open.spotify.com/track/0G2lFslwcJR61nK5Kd8c4d) | [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ), [Raamiz Rizvi](https://open.spotify.com/artist/34dLN7dVpBtsXn0yDQoZtg) | [Bahanay](https://open.spotify.com/album/4VwgzzmvQ57mW2m5Wb4sSz) | 3:06 | 2024-05-09 | 2024-09-06 |

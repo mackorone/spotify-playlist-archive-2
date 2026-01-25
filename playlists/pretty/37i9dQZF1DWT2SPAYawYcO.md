@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Harry Styles, Arctic Monkeys, Fred again.., Young Thug, The Paper Kites, Courtney Barnett, Waxahatchee,  James Blake + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,474 likes - 93 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,538 likes - 93 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

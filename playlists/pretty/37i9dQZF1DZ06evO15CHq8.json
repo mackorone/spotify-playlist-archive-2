@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 669648,
+  "num_followers": 669698,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXFogAAAAAC6fnAWgQXZ8Q7jVKUoYFLQ",
+  "snapshot_id": "aXK6AAAAAAD1ZZxQBRs0rZui+UemWEJP",
   "tracks": [
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 126660,
-      "name": "MSY",
-      "url": "https://open.spotify.com/track/2FEuiNcpNqNtJR9GzUjUmC"
+      "duration_ms": 221047,
+      "name": "BLOODSWEAT",
+      "url": "https://open.spotify.com/track/3YGma4LsXxOZYZiKOtsSzC"
     },
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 221047,
-      "name": "BLOODSWEAT",
-      "url": "https://open.spotify.com/track/3YGma4LsXxOZYZiKOtsSzC"
+      "duration_ms": 126660,
+      "name": "MSY",
+      "url": "https://open.spotify.com/track/2FEuiNcpNqNtJR9GzUjUmC"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New World Depression",
+        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 150942,
+      "name": "Are You Going to See the Rose in the Vase, or the Dust on the Table",
+      "url": "https://open.spotify.com/track/3BuLlji2QpVaaVRMURHiah"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Radical $uicide",
         "url": "https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 116114,
       "name": "Champion of Death",
       "url": "https://open.spotify.com/track/0qHbOme0fFyIWLNie9HG2t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New World Depression",
-        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 150942,
-      "name": "Are You Going to See the Rose in the Vase, or the Dust on the Table",
-      "url": "https://open.spotify.com/track/3BuLlji2QpVaaVRMURHiah"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radical $uicide",
-        "url": "https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "Getter",
-          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
-        }
-      ],
-      "duration_ms": 122253,
-      "name": "Memoirs of a Gorilla",
-      "url": "https://open.spotify.com/track/32B4HyegZNlYIWhENs8FcZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GERM HAS A DEATHWISH",
         "url": "https://open.spotify.com/album/5eWTQHm7yXnuxlHpG9Lf23"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 109898,
       "name": "AWKWARD CAR DRIVE",
       "url": "https://open.spotify.com/track/3aEDTqPcVXDiuKXaedAZgx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Radical $uicide",
+        "url": "https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Getter",
+          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
+        }
+      ],
+      "duration_ms": 122253,
+      "name": "Memoirs of a Gorilla",
+      "url": "https://open.spotify.com/track/32B4HyegZNlYIWhENs8FcZ"
     },
     {
       "added_at": null,

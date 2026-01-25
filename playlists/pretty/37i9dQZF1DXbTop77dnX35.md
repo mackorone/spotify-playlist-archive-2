@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Wizkid & Asake, Seyi Vibez & Omah Lay, Simi & Chike, Paulo Chakal, Harry Styles and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,163 likes - 54 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,296 likes - 54 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: The Deep)",
-  "num_followers": 34590,
+  "num_followers": 34629,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -167,22 +167,6 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "Chaotic & Confused",
-        "url": "https://open.spotify.com/album/171v7mbXgzaMBk7S0QmCWu"
-      },
-      "artists": [
-        {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
-        }
-      ],
-      "duration_ms": 158917,
-      "name": "CLOSER",
-      "url": "https://open.spotify.com/track/5XsrVitCrmP41A6pq827Yq"
-    },
-    {
-      "added_at": "2026-01-23 02:07:01",
-      "album": {
         "name": "LOOP",
         "url": "https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 163480,
       "name": "LOOP (feat. Lil Cherry)",
       "url": "https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo"
+    },
+    {
+      "added_at": "2026-01-23 02:07:01",
+      "album": {
+        "name": "Chaotic & Confused",
+        "url": "https://open.spotify.com/album/171v7mbXgzaMBk7S0QmCWu"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 158917,
+      "name": "CLOSER",
+      "url": "https://open.spotify.com/track/5XsrVitCrmP41A6pq827Yq"
     },
     {
       "added_at": "2026-01-23 02:07:01",
@@ -339,26 +339,6 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "Nocturne 07 (for aerse)",
-        "url": "https://open.spotify.com/album/3cs88X4vsJW3H5O69QC9GN"
-      },
-      "artists": [
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        },
-        {
-          "name": "Miso",
-          "url": "https://open.spotify.com/artist/04xEkodoWyFji8icX911jM"
-        }
-      ],
-      "duration_ms": 152473,
-      "name": "Nocturne 07 (for aerse)",
-      "url": "https://open.spotify.com/track/3CV5geHX47MIejxoQ9evgA"
-    },
-    {
-      "added_at": "2026-01-23 02:07:01",
-      "album": {
         "name": "My Universe (David Guetta Remix)",
         "url": "https://open.spotify.com/album/4LcW19D6W1nHpvcJV5s2QI"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 199135,
       "name": "My Universe - David Guetta Remix",
       "url": "https://open.spotify.com/track/5FvxRvrQ8qzKjBJ6ST9aiu"
+    },
+    {
+      "added_at": "2026-01-23 02:07:01",
+      "album": {
+        "name": "Nocturne 07 (for aerse)",
+        "url": "https://open.spotify.com/album/3cs88X4vsJW3H5O69QC9GN"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "Miso",
+          "url": "https://open.spotify.com/artist/04xEkodoWyFji8icX911jM"
+        }
+      ],
+      "duration_ms": 152473,
+      "name": "Nocturne 07 (for aerse)",
+      "url": "https://open.spotify.com/track/3CV5geHX47MIejxoQ9evgA"
     },
     {
       "added_at": "2026-01-23 02:07:01",
@@ -951,8 +951,8 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "Rich Man (Remixes)",
-        "url": "https://open.spotify.com/album/6XoOzE5Ie7Z6CjVANGB4Mk"
+        "name": "iScreaM Vol.26 : Spicy Remix",
+        "url": "https://open.spotify.com/album/55N0UTP5992idhnEYOKYd9"
       },
       "artists": [
         {
@@ -960,13 +960,13 @@
           "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         },
         {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
         }
       ],
-      "duration_ms": 190370,
-      "name": "Rich Man - Yellow Claw Remix",
-      "url": "https://open.spotify.com/track/3cs4cGO4EgZDATiKgoAqpO"
+      "duration_ms": 190000,
+      "name": "Spicy - Nitepunk Remix",
+      "url": "https://open.spotify.com/track/41Kf9FQ2Dxj81cjQpEWDUJ"
     },
     {
       "added_at": "2026-01-23 02:07:01",
@@ -1051,8 +1051,8 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "iScreaM Vol.26 : Spicy Remix",
-        "url": "https://open.spotify.com/album/55N0UTP5992idhnEYOKYd9"
+        "name": "Rich Man (Remixes)",
+        "url": "https://open.spotify.com/album/6XoOzE5Ie7Z6CjVANGB4Mk"
       },
       "artists": [
         {
@@ -1060,13 +1060,13 @@
           "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         },
         {
-          "name": "Nitepunk",
-          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Spicy - Nitepunk Remix",
-      "url": "https://open.spotify.com/track/41Kf9FQ2Dxj81cjQpEWDUJ"
+      "duration_ms": 190370,
+      "name": "Rich Man - Yellow Claw Remix",
+      "url": "https://open.spotify.com/track/3cs4cGO4EgZDATiKgoAqpO"
     },
     {
       "added_at": "2026-01-23 02:07:01",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "iScreaM Vol.24 : Perfume Remixes",
-        "url": "https://open.spotify.com/album/3skTjLZNSAmGdEMY1qSRhc"
-      },
-      "artists": [
-        {
-          "name": "NCT DOJAEJUNG",
-          "url": "https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw"
-        },
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        }
-      ],
-      "duration_ms": 168973,
-      "name": "Perfume - Jafunk Remix",
-      "url": "https://open.spotify.com/track/6l0ak0PKqf4DOLnlrhgIe9"
-    },
-    {
-      "added_at": "2026-01-23 02:07:01",
-      "album": {
         "name": "The Feels",
         "url": "https://open.spotify.com/album/5kaDKzyrE5Cx9c4mLQZ6b1"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 185218,
       "name": "The Feels (Benny Benassi Remix)",
       "url": "https://open.spotify.com/track/2uIgQIrUIy57d1jngcOODC"
+    },
+    {
+      "added_at": "2026-01-23 02:07:01",
+      "album": {
+        "name": "iScreaM Vol.24 : Perfume Remixes",
+        "url": "https://open.spotify.com/album/3skTjLZNSAmGdEMY1qSRhc"
+      },
+      "artists": [
+        {
+          "name": "NCT DOJAEJUNG",
+          "url": "https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        }
+      ],
+      "duration_ms": 168973,
+      "name": "Perfume - Jafunk Remix",
+      "url": "https://open.spotify.com/track/6l0ak0PKqf4DOLnlrhgIe9"
     },
     {
       "added_at": "2026-01-23 02:07:01",
@@ -1927,22 +1927,22 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "iScreaM Vol.25 : Red Flavor Remix",
-        "url": "https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn"
+        "name": "iScreaM Vol.6 : Make A Wish / 90's Love Remix",
+        "url": "https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd"
       },
       "artists": [
         {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
         },
         {
-          "name": "MAR VISTA",
-          "url": "https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo"
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
         }
       ],
-      "duration_ms": 216386,
-      "name": "Red Flavor - Mar Vista Remix",
-      "url": "https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX"
+      "duration_ms": 194146,
+      "name": "Make A Wish (Birthday Song) - Wuki Remix",
+      "url": "https://open.spotify.com/track/1Dou4w33Ne9kkjBvk0CbLW"
     }
   ],
   "unique_name": "Electronii[K]",

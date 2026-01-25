@@ -1,6 +1,6 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 111939,
+  "num_followers": 111953,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,22 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
+        "name": "Perdoname",
+        "url": "https://open.spotify.com/album/4fBFuS9ywy0N2MRghagEJI"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 217190,
+      "name": "Perdoname",
+      "url": "https://open.spotify.com/track/0Ki4mn5sAw9DEqZsJa9v5H"
+    },
+    {
+      "added_at": "2025-07-18 03:00:26",
+      "album": {
         "name": "Tus Botellas",
         "url": "https://open.spotify.com/album/72tcmJLIc4I1AX2DC23G04"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 202160,
       "name": "Tus Botellas",
       "url": "https://open.spotify.com/track/1k8BmoheA7yzC6MpyEqlKt"
-    },
-    {
-      "added_at": "2025-07-18 03:00:26",
-      "album": {
-        "name": "Perdoname",
-        "url": "https://open.spotify.com/album/4fBFuS9ywy0N2MRghagEJI"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 217190,
-      "name": "Perdoname",
-      "url": "https://open.spotify.com/track/0Ki4mn5sAw9DEqZsJa9v5H"
     },
     {
       "added_at": "2025-07-18 03:00:26",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
-        "name": "Pobre perro",
-        "url": "https://open.spotify.com/album/1vSoPdmoCLwKM0nzzBQddc"
-      },
-      "artists": [
-        {
-          "name": "Natalia Corbal\u00e1n",
-          "url": "https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q"
-        }
-      ],
-      "duration_ms": 262480,
-      "name": "Si se fue, se fue",
-      "url": "https://open.spotify.com/track/3g6Gva8wnZgWgeSWUIW9Zy"
-    },
-    {
-      "added_at": "2025-07-18 03:00:26",
-      "album": {
         "name": "Solo un Momento",
         "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 222361,
       "name": "No Te Ir\u00e1s",
       "url": "https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT"
+    },
+    {
+      "added_at": "2025-07-18 03:00:26",
+      "album": {
+        "name": "Pobre perro",
+        "url": "https://open.spotify.com/album/1vSoPdmoCLwKM0nzzBQddc"
+      },
+      "artists": [
+        {
+          "name": "Natalia Corbal\u00e1n",
+          "url": "https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q"
+        }
+      ],
+      "duration_ms": 262480,
+      "name": "Si se fue, se fue",
+      "url": "https://open.spotify.com/track/3g6Gva8wnZgWgeSWUIW9Zy"
     },
     {
       "added_at": "2025-07-18 03:00:26",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
-        "name": "Ya No Vives en M\u00ed",
-        "url": "https://open.spotify.com/album/5ohmkNgIZFdrcK5ORDGuxu"
-      },
-      "artists": [
-        {
-          "name": "Deborah Chauque",
-          "url": "https://open.spotify.com/artist/3s6HY0BAcnK8OjIXQnfTle"
-        }
-      ],
-      "duration_ms": 182728,
-      "name": "Ya No Vives en M\u00ed",
-      "url": "https://open.spotify.com/track/1WIWF8JFYthRZQsUdqXK0v"
-    },
-    {
-      "added_at": "2025-07-18 03:00:26",
-      "album": {
         "name": "El Mundo",
         "url": "https://open.spotify.com/album/2BvuzOIT0RG2emuTC1fpfI"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 213183,
       "name": "El Mundo",
       "url": "https://open.spotify.com/track/4tlQaF2e3VSQTlK22WRf7L"
+    },
+    {
+      "added_at": "2025-07-18 03:00:26",
+      "album": {
+        "name": "Ya No Vives en M\u00ed",
+        "url": "https://open.spotify.com/album/5ohmkNgIZFdrcK5ORDGuxu"
+      },
+      "artists": [
+        {
+          "name": "Deborah Chauque",
+          "url": "https://open.spotify.com/artist/3s6HY0BAcnK8OjIXQnfTle"
+        }
+      ],
+      "duration_ms": 182728,
+      "name": "Ya No Vives en M\u00ed",
+      "url": "https://open.spotify.com/track/1WIWF8JFYthRZQsUdqXK0v"
     },
     {
       "added_at": "2025-07-18 03:00:26",
@@ -1135,22 +1135,18 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
-        "name": "Ke Ganas de No Verte Nunca M\u00e1s",
-        "url": "https://open.spotify.com/album/196Wc6ZS9a9HR9ssndsO52"
+        "name": "Ayer Pedi",
+        "url": "https://open.spotify.com/album/2pXbX5czCgui6x2dq6TC5o"
       },
       "artists": [
         {
-          "name": "Miss Bolivia",
-          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
-        },
-        {
-          "name": "ROMEA",
-          "url": "https://open.spotify.com/artist/59sdqs9Q6lzOj4PXXKp8I1"
+          "name": "Natalia Corbal\u00e1n",
+          "url": "https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q"
         }
       ],
-      "duration_ms": 142517,
-      "name": "Ke Ganas de No Verte Nunca M\u00e1s",
-      "url": "https://open.spotify.com/track/140I2RxPbPhFvBn1CiYGY3"
+      "duration_ms": 205032,
+      "name": "Ayer Pedi",
+      "url": "https://open.spotify.com/track/0Tc0FMFV5Q0cAaXTCSmglI"
     }
   ],
   "unique_name": "Cumbieras",

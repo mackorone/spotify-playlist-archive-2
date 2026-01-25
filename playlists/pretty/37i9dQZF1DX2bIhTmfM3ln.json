@@ -1,6 +1,6 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 54844,
+  "num_followers": 54893,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-01-23 00:01:25",
       "album": {
+        "name": "Love & Hustle",
+        "url": "https://open.spotify.com/album/1Ls0a3Dh4vKHKwL1Y3OuD7"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "duration_ms": 180612,
+      "name": "Princess Treatment",
+      "url": "https://open.spotify.com/track/1cKWbkAzK87PElmioUP01o"
+    },
+    {
+      "added_at": "2026-01-23 00:01:25",
+      "album": {
         "name": "Screaming Beauty",
         "url": "https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 161454,
       "name": "Screaming Beauty",
       "url": "https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT"
-    },
-    {
-      "added_at": "2026-01-23 00:01:25",
-      "album": {
-        "name": "Love & Hustle",
-        "url": "https://open.spotify.com/album/1Ls0a3Dh4vKHKwL1Y3OuD7"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        }
-      ],
-      "duration_ms": 180612,
-      "name": "Princess Treatment",
-      "url": "https://open.spotify.com/track/1cKWbkAzK87PElmioUP01o"
     },
     {
       "added_at": "2026-01-23 00:01:25",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-01-23 00:01:25",
       "album": {
-        "name": "Sorry I'm Busy",
-        "url": "https://open.spotify.com/album/1lZd6dVzx246LSOxv54c4w"
-      },
-      "artists": [
-        {
-          "name": "Lovn",
-          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
-        }
-      ],
-      "duration_ms": 142709,
-      "name": "Sorry I'm Busy",
-      "url": "https://open.spotify.com/track/7MsGvKF7W1W07vlp7cbEsZ"
-    },
-    {
-      "added_at": "2026-01-23 00:01:25",
-      "album": {
         "name": "Call My Name / Best Whine",
         "url": "https://open.spotify.com/album/71tDHMZDhF8qjCfXtZYyK1"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 170396,
       "name": "Best Whine",
       "url": "https://open.spotify.com/track/5yR8rJt2YTqaKGO7ADZboE"
+    },
+    {
+      "added_at": "2026-01-23 00:01:25",
+      "album": {
+        "name": "Sorry I'm Busy",
+        "url": "https://open.spotify.com/album/1lZd6dVzx246LSOxv54c4w"
+      },
+      "artists": [
+        {
+          "name": "Lovn",
+          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
+        }
+      ],
+      "duration_ms": 142709,
+      "name": "Sorry I'm Busy",
+      "url": "https://open.spotify.com/track/7MsGvKF7W1W07vlp7cbEsZ"
     },
     {
       "added_at": "2026-01-23 00:01:25",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2026-01-23 00:01:25",
       "album": {
-        "name": "About Us (with Qing Madi)",
-        "url": "https://open.spotify.com/album/11TkaFcpWOGGf2rYuXbspT"
-      },
-      "artists": [
-        {
-          "name": "255",
-          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "About Us (with Qing Madi)",
-      "url": "https://open.spotify.com/track/4azm407NNKTVQpXFTk3v0h"
-    },
-    {
-      "added_at": "2026-01-23 00:01:25",
-      "album": {
         "name": "i think i love you 2",
         "url": "https://open.spotify.com/album/2P3HUjiMqIuzFNFUaGSIQ9"
       },
@@ -1187,6 +1167,26 @@
     {
       "added_at": "2026-01-23 00:01:25",
       "album": {
+        "name": "About Us (with Qing Madi)",
+        "url": "https://open.spotify.com/album/11TkaFcpWOGGf2rYuXbspT"
+      },
+      "artists": [
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 177773,
+      "name": "About Us (with Qing Madi)",
+      "url": "https://open.spotify.com/track/4azm407NNKTVQpXFTk3v0h"
+    },
+    {
+      "added_at": "2026-01-23 00:01:25",
+      "album": {
         "name": "DID I LIE",
         "url": "https://open.spotify.com/album/7DBv2Kav5WcnKlrBvEo2Xm"
       },
@@ -1203,6 +1203,26 @@
       "duration_ms": 141967,
       "name": "Larger Than Life (feat. Stonebwoy)",
       "url": "https://open.spotify.com/track/3inZDmrO8MqAbMjSliT1IO"
+    },
+    {
+      "added_at": "2026-01-23 00:01:25",
+      "album": {
+        "name": "Dare You",
+        "url": "https://open.spotify.com/album/4UfnbpqyLkQULrkf2jkfTp"
+      },
+      "artists": [
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 182044,
+      "name": "Dare You",
+      "url": "https://open.spotify.com/track/2SJYvOEDMMiVXlctHQ8WJ2"
     },
     {
       "added_at": "2026-01-23 00:01:25",
@@ -1315,46 +1335,6 @@
     {
       "added_at": "2026-01-23 00:01:25",
       "album": {
-        "name": "Dare You",
-        "url": "https://open.spotify.com/album/4UfnbpqyLkQULrkf2jkfTp"
-      },
-      "artists": [
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 182044,
-      "name": "Dare You",
-      "url": "https://open.spotify.com/track/2SJYvOEDMMiVXlctHQ8WJ2"
-    },
-    {
-      "added_at": "2026-01-23 00:01:25",
-      "album": {
-        "name": "K.O.K",
-        "url": "https://open.spotify.com/album/1P5BXDSNnqjkPpUMGcmjtt"
-      },
-      "artists": [
-        {
-          "name": "Brown Joel",
-          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
-        },
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "K.O.K",
-      "url": "https://open.spotify.com/track/1jS5C5fntvTGsoq3khJ8Pa"
-    },
-    {
-      "added_at": "2026-01-23 00:01:25",
-      "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/2fAsi13z2Xne3Uke6cNDjr"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 164458,
       "name": "For Life",
       "url": "https://open.spotify.com/track/3AQQQuvDhbER2K6a9ZajdE"
+    },
+    {
+      "added_at": "2026-01-23 00:01:25",
+      "album": {
+        "name": "Novacaine",
+        "url": "https://open.spotify.com/album/1Xx313px4lu947MnygS9ej"
+      },
+      "artists": [
+        {
+          "name": "K0NYE",
+          "url": "https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ"
+        },
+        {
+          "name": "DEBAYO",
+          "url": "https://open.spotify.com/artist/2uBCvfIeglYX3d6NOKKxGL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Novacaine",
+      "url": "https://open.spotify.com/track/6lkYy8wRZiVOp33BgyiXMu"
     },
     {
       "added_at": "2026-01-23 00:01:25",
@@ -1411,22 +1411,38 @@
     {
       "added_at": "2026-01-23 00:01:25",
       "album": {
-        "name": "Novacaine",
-        "url": "https://open.spotify.com/album/1Xx313px4lu947MnygS9ej"
+        "name": "Nobody's Perfect",
+        "url": "https://open.spotify.com/album/1pAy23gG95TdT6rx8quM7G"
       },
       "artists": [
         {
-          "name": "K0NYE",
-          "url": "https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ"
-        },
-        {
-          "name": "DEBAYO",
-          "url": "https://open.spotify.com/artist/2uBCvfIeglYX3d6NOKKxGL"
+          "name": "Perfext",
+          "url": "https://open.spotify.com/artist/2JzhuiwyOZOjzcPylIGOtg"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Novacaine",
-      "url": "https://open.spotify.com/track/6lkYy8wRZiVOp33BgyiXMu"
+      "duration_ms": 178144,
+      "name": "Bonnie & Clyde",
+      "url": "https://open.spotify.com/track/5FOFNfZDYhl71mlJ8EeAGR"
+    },
+    {
+      "added_at": "2026-01-23 00:01:25",
+      "album": {
+        "name": "K.O.K",
+        "url": "https://open.spotify.com/album/1P5BXDSNnqjkPpUMGcmjtt"
+      },
+      "artists": [
+        {
+          "name": "Brown Joel",
+          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
+        },
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "K.O.K",
+      "url": "https://open.spotify.com/track/1jS5C5fntvTGsoq3khJ8Pa"
     },
     {
       "added_at": "2026-01-23 00:01:25",
@@ -1479,22 +1495,6 @@
       "duration_ms": 148909,
       "name": "Rugged 2.0 (with Olivetheboy)",
       "url": "https://open.spotify.com/track/5Tw21JAJVcNkpMtQd8cB5r"
-    },
-    {
-      "added_at": "2026-01-23 00:01:25",
-      "album": {
-        "name": "Nobody's Perfect",
-        "url": "https://open.spotify.com/album/1pAy23gG95TdT6rx8quM7G"
-      },
-      "artists": [
-        {
-          "name": "Perfext",
-          "url": "https://open.spotify.com/artist/2JzhuiwyOZOjzcPylIGOtg"
-        }
-      ],
-      "duration_ms": 178144,
-      "name": "Bonnie & Clyde",
-      "url": "https://open.spotify.com/track/5FOFNfZDYhl71mlJ8EeAGR"
     }
   ],
   "unique_name": "AfroBae",

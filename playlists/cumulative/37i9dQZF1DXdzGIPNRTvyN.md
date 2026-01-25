@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-389 songs - 18 hr 24 min
+390 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Enigmatic Horizons 432Hz](https://open.spotify.com/track/64bMWsrYB61C7X26uWNSSY) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Enigmatic Horizons 432Hz](https://open.spotify.com/album/7MNM11t6gpm5ozpA2iffcf) | 2:18 | 2024-08-22 |  |
 | [Equanimity](https://open.spotify.com/track/7uAsCKp5rom7rVRKKGsraG) | [Hank Sky](https://open.spotify.com/artist/2OY5PzPmKNjNFgy4QwOPdI) | [Equanimity](https://open.spotify.com/album/3zuWS6ZgMkJQi6cRT8tvp7) | 2:26 | 2025-04-11 |  |
 | [Equilibrium \(432 Hz\)](https://open.spotify.com/track/1OEENaIBAy5lcmVM5Qzrkk) | [Astral Yu](https://open.spotify.com/artist/4T5QX9jKXqbgoXxQ1IlecR) | [Equilibrium \(432 Hz\)](https://open.spotify.com/album/7foHel5iyncJ9SwoaQr2fV) | 2:39 | 2025-04-01 |  |
-| [Erinqua](https://open.spotify.com/track/5BXODXcSiGC1U7U2UN616z) | [Lóni Alma](https://open.spotify.com/artist/4RHP8exT811Zult13Shp7n) | [Erinqua](https://open.spotify.com/album/092vTKrHnXisCe1erfZ89C) | 2:20 | 2025-10-01 |  |
+| [Erinqua](https://open.spotify.com/track/5BXODXcSiGC1U7U2UN616z) | [Lóni Alma](https://open.spotify.com/artist/4RHP8exT811Zult13Shp7n) | [Erinqua](https://open.spotify.com/album/092vTKrHnXisCe1erfZ89C) | 2:20 | 2025-10-01 | 2026-01-25 |
 | [Essence of Nature](https://open.spotify.com/track/00DOpzqbE0PBgVnxFIlvVB) | [Iminum](https://open.spotify.com/artist/1xjezEibBtcDRYjpMxXOQX) | [Essence of Nature](https://open.spotify.com/album/5sPBaR7sHLYfp53tlhizVk) | 2:00 | 2025-03-14 |  |
 | [Eternal Flute](https://open.spotify.com/track/3OsrEyvYcJvqCHlldDtz6t) | [Divine Isle](https://open.spotify.com/artist/2lbyzOWzrHi2r8yMUnuglT) | [Eternal Flute](https://open.spotify.com/album/4gkE1IfZegtbbN4UUioubs) | 2:40 | 2026-01-21 |  |
 | [Eternally](https://open.spotify.com/track/6ee3Zz8m66BxfnB4ARUWSA) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Eternally](https://open.spotify.com/album/4ZXUEUdcDJEqKwdtXFxojg) | 3:04 | 2025-12-18 |  |
@@ -342,6 +342,7 @@
 | [Spa Rituals](https://open.spotify.com/track/1t2XiLdfC6zk4cRV2WNxvP) | [Ayivah](https://open.spotify.com/artist/4MFiKatqBIbFbdEZscWA8o) | [Spa Rituals](https://open.spotify.com/album/1HgapXIzrXEU18Wgw5Jhyb) | 2:31 | 2024-03-01 | 2024-12-05 |
 | [Spiritual Sleep](https://open.spotify.com/track/3YuYnf5gPQPmzKW3UtEQ0M) | [Queens of the Dream World](https://open.spotify.com/artist/3CyLUmnwr7NReZg4Hm4EWz) | [Queen of Spiritual Sleep](https://open.spotify.com/album/3lkICAnE41Hj074kuJDeit) | 2:36 | 2023-01-24 | 2023-03-29 |
 | [Spring Clouds](https://open.spotify.com/track/11kRiD05qrqz0CZVn01fz3) | [Enhance Peace](https://open.spotify.com/artist/1RQvOAOwjjtAXCfVm8pXnP) | [Spring Clouds](https://open.spotify.com/album/4tBdEwThBvnwCwMlkasQbh) | 3:04 | 2025-10-01 |  |
+| [Still Meadow](https://open.spotify.com/track/3kRCB3hatlhH04TJd3mc5t) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Still Meadow](https://open.spotify.com/album/4A9oX0bimFi9jrIbMKXonL) | 2:36 | 2026-01-21 |  |
 | [Stillness](https://open.spotify.com/track/1V0xxtY4yJGo5sotrsR5Oq) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Stillness](https://open.spotify.com/album/0tHMoVyt7PcxXeJHdC3GHU) | 3:13 | 2023-01-24 | 2024-11-29 |
 | [Stillness](https://open.spotify.com/track/1x4OI6ufrImrBlO3DlEXWF) | [Pouring Voices](https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF) | [Stillness](https://open.spotify.com/album/5mkclihPsbGFJBCEHWdU3K) | 3:08 | 2024-03-01 | 2025-04-30 |
 | [Stillness Blooming](https://open.spotify.com/track/65qpTz4zM5FBj1DfP30L2z) | [Harmonius Amicabel](https://open.spotify.com/artist/6vDWRDxbU6fMkbjwSW67gd) | [Stillness Blooming](https://open.spotify.com/album/2VJOTAe2P7zvN2HY1yr4S0) | 2:46 | 2025-07-22 |  |

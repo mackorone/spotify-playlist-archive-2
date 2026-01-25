@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Voltage",
-  "num_followers": 74925,
+  "num_followers": 74945,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,26 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
+        "name": "Inside The Rider (TC & Original Sin 2000's Remix)",
+        "url": "https://open.spotify.com/album/4WTMosR7xfte2OfeZh5f4Y"
+      },
+      "artists": [
+        {
+          "name": "TC",
+          "url": "https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61"
+        },
+        {
+          "name": "Original Sin",
+          "url": "https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Inside The Rider - TC & Original Sin 2000's Remix",
+      "url": "https://open.spotify.com/track/3zo3Yt938sWofI3EmD5NnR"
+    },
+    {
+      "added_at": "2026-01-16 00:00:17",
+      "album": {
         "name": "Raving In The Studio (SOTA Remix)",
         "url": "https://open.spotify.com/album/52JIuqcABYS0gq7DBUiWeH"
       },
@@ -627,22 +647,6 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
-        "name": "Left 2 Right",
-        "url": "https://open.spotify.com/album/5Geg97JMNRNsSh1kgw7yY6"
-      },
-      "artists": [
-        {
-          "name": "Rova",
-          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
-        }
-      ],
-      "duration_ms": 202971,
-      "name": "Left 2 Right",
-      "url": "https://open.spotify.com/track/3dbCZLMW3xuBry6L8pBlkE"
-    },
-    {
-      "added_at": "2026-01-16 00:00:17",
-      "album": {
         "name": "Ice Cold",
         "url": "https://open.spotify.com/album/0ReTigKkyunpydPXYvBfKV"
       },
@@ -663,22 +667,18 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
-        "name": "Inside The Rider (TC & Original Sin 2000's Remix)",
-        "url": "https://open.spotify.com/album/4WTMosR7xfte2OfeZh5f4Y"
+        "name": "Left 2 Right",
+        "url": "https://open.spotify.com/album/5Geg97JMNRNsSh1kgw7yY6"
       },
       "artists": [
         {
-          "name": "TC",
-          "url": "https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61"
-        },
-        {
-          "name": "Original Sin",
-          "url": "https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV"
+          "name": "Rova",
+          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
         }
       ],
-      "duration_ms": 231724,
-      "name": "Inside The Rider - TC & Original Sin 2000's Remix",
-      "url": "https://open.spotify.com/track/3zo3Yt938sWofI3EmD5NnR"
+      "duration_ms": 202971,
+      "name": "Left 2 Right",
+      "url": "https://open.spotify.com/track/3dbCZLMW3xuBry6L8pBlkE"
     },
     {
       "added_at": "2026-01-16 00:00:17",
@@ -719,6 +719,26 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
+        "name": "Violence",
+        "url": "https://open.spotify.com/album/2lLOq3l8TyB3Nzfqm0SmzB"
+      },
+      "artists": [
+        {
+          "name": "Murdock",
+          "url": "https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl"
+        },
+        {
+          "name": "Ma\u00eblie",
+          "url": "https://open.spotify.com/artist/0X5iBtXZZhEEXjIvnpsdY4"
+        }
+      ],
+      "duration_ms": 161034,
+      "name": "Violence",
+      "url": "https://open.spotify.com/track/0U4qvX9sqWki2Zxr3oL2Zz"
+    },
+    {
+      "added_at": "2026-01-16 00:00:17",
+      "album": {
         "name": "Satellite (SOTA Remix)",
         "url": "https://open.spotify.com/album/3PHykqDZ7hobh7byOyh0HZ"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 177931,
       "name": "Satellite - SOTA Remix",
       "url": "https://open.spotify.com/track/1whhLeg6WV3LiQne0adJW4"
-    },
-    {
-      "added_at": "2026-01-16 00:00:17",
-      "album": {
-        "name": "Violence",
-        "url": "https://open.spotify.com/album/2lLOq3l8TyB3Nzfqm0SmzB"
-      },
-      "artists": [
-        {
-          "name": "Murdock",
-          "url": "https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl"
-        },
-        {
-          "name": "Ma\u00eblie",
-          "url": "https://open.spotify.com/artist/0X5iBtXZZhEEXjIvnpsdY4"
-        }
-      ],
-      "duration_ms": 161034,
-      "name": "Violence",
-      "url": "https://open.spotify.com/track/0U4qvX9sqWki2Zxr3oL2Zz"
     },
     {
       "added_at": "2026-01-16 00:00:17",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
-        "name": "Rhythm & Gash VIP",
-        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
-      },
-      "artists": [
-        {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Rhythm & Gash VIP",
-      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
-    },
-    {
-      "added_at": "2026-01-16 00:00:17",
-      "album": {
         "name": "Bomb Squad (Bou Remix)",
         "url": "https://open.spotify.com/album/1WLCIFIAjIJ6klq4kHGuWk"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 288052,
       "name": "Bomb Squad - Bou Remix",
       "url": "https://open.spotify.com/track/6jGU17l4TnPAB3I97tCdD3"
+    },
+    {
+      "added_at": "2026-01-16 00:00:17",
+      "album": {
+        "name": "Rhythm & Gash VIP",
+        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Rhythm & Gash VIP",
+      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
     },
     {
       "added_at": "2026-01-16 00:00:17",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
-        "name": "Posra",
-        "url": "https://open.spotify.com/album/3UvGVvCAJc1YHf6o8LgkR2"
+        "name": "There In 10",
+        "url": "https://open.spotify.com/album/5LMpeaTYk1hxd4lTFd0lEm"
       },
       "artists": [
         {
-          "name": "skantia",
-          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Posra",
-      "url": "https://open.spotify.com/track/1IuehNv6oLuj1fUb68go9V"
+      "duration_ms": 246896,
+      "name": "There In 10",
+      "url": "https://open.spotify.com/track/37I6Fw5ZYnzfAXPBwITT3t"
     }
   ],
   "unique_name": "Jump Up!",

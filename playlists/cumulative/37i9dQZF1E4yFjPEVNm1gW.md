@@ -4,7 +4,7 @@
 
 > With Yeat, Autumn!, Duwap Kaine and more
 
-117 songs - 4 hr 43 min
+119 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Disagree](https://open.spotify.com/track/0j1oCSyf33qqdmQ49Iro7r) | [Duwap Kaine](https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ) | [Disagree](https://open.spotify.com/album/670icObNVMYesRcjmyXdT2) | 2:16 | 2025-12-01 |  |
 | [Don’t Know How To Feel](https://open.spotify.com/track/5pzFqoFSlmzK4toMpy78Bn) | [Jodot Kreep](https://open.spotify.com/artist/3U4mJUlN9cXxCV5hWo6XWo), [Jay Gwuapo](https://open.spotify.com/artist/5qrzeukNCU5ixZH3LhQi2j) | [Kreeps Come Out At Night](https://open.spotify.com/album/31iWdpWYH7TTc6HMZdSSBA) | 2:17 | 2025-12-28 | 2026-01-15 |
 | [drama queen](https://open.spotify.com/track/39Q83U8EJjNU90MIQA1Wgh) | [jaydes](https://open.spotify.com/artist/5zI4LODdVYwnKZHv4mDHRv) | [heartpacing](https://open.spotify.com/album/34bayAIMD6AuIEk98t9x2Z) | 1:42 | 2026-01-18 | 2026-01-21 |
+| [Everyday!](https://open.spotify.com/track/4f6sXDJwqD4vEKqZCRHObm) | [Mwai](https://open.spotify.com/artist/7cMqRry5DjPYsDFzKUXKz4) | [Everyday!](https://open.spotify.com/album/3IUmw1OOHwCIpxPivoW8tp) | 2:28 | 2026-01-25 |  |
 | [Everytime](https://open.spotify.com/track/7zxJ1u8enmhpPNEExmKSbZ) | [sixsick](https://open.spotify.com/artist/0BqEJxpM3FdO3zOQxfQIDG) | [Leftovr Drugz](https://open.spotify.com/album/3kEZUJgiCDTfEMHJBSyxzu) | 2:45 | 2025-12-05 | 2025-12-30 |
 | [FACES](https://open.spotify.com/track/6dlCIAXIOj2wqPQbthlLin) | [Epho](https://open.spotify.com/artist/6E1k9FStKYBjQfzrANVUpe), [Canaan Hill](https://open.spotify.com/artist/2ofQoqwj9pNZWKA9gnSJSl) | [Gethsemane](https://open.spotify.com/album/61xZCgjnuFL6ZAzzL7wE5a) | 2:06 | 2025-11-29 | 2025-12-05 |
 | [Fake Lean](https://open.spotify.com/track/2WFIP6q6kHq5Rb2jyRHPMt) | [Liltae2](https://open.spotify.com/artist/39Uy66VmUsYNXUMGSPamA2), [10TA Lil A](https://open.spotify.com/artist/3E7zyjnY6AthfEeOAT1x3e), [Jay Juice](https://open.spotify.com/artist/64Hl5LjrETEjFk8WW1wkte), [Tse e2](https://open.spotify.com/artist/19BlmxaBy9f5dziurbhQLK) | [Higher Then Most Mixtape](https://open.spotify.com/album/5iL5cwFTfyC9XBfAqZjWF8) | 2:02 | 2025-11-29 | 2025-12-05 |
@@ -104,14 +105,15 @@
 | [splat!](https://open.spotify.com/track/2tSrjxRuo1ZIegQ69V4fPJ) | [Marwick](https://open.spotify.com/artist/7pmKCgWtiOC7rzCRS3W2x1) | [splat!](https://open.spotify.com/album/019f1d3BhBSAqWmzbU29xk) | 2:17 | 2025-11-29 |  |
 | [Standards](https://open.spotify.com/track/3ocpEYcnzvZ0bjJwRz04JR) | [Team East](https://open.spotify.com/artist/7ckGBRivmMlVOyaAYnRuqV), [Off Radar](https://open.spotify.com/artist/4tGND9ruWooOSDt5j4ZaG1) | [Stop Leaking You Bitch](https://open.spotify.com/album/165B42CoYAanyBBGXxwEaf) | 2:08 | 2026-01-19 | 2026-01-20 |
 | [Still the Same](https://open.spotify.com/track/5dTmaw1TwugkUZk1SHqStE) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 3](https://open.spotify.com/album/6vxo1Nywp8r7B0p9avT0SM) | 2:05 | 2025-11-29 |  |
+| [SUN\*GAZING](https://open.spotify.com/track/4zCPSUbMklynyC5GFHYei6) | [xtsy\*](https://open.spotify.com/artist/5spNfNcEgssXmB1893yRLN) | [Teen Angst](https://open.spotify.com/album/4EqJbvtHup3H77oSenkCDh) | 2:22 | 2026-01-25 |  |
 | [Switchin Sides](https://open.spotify.com/track/0Qll2hFkRx6HDScTQwyxEM) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [HYPERNOVA.](https://open.spotify.com/album/7wzoQ122QjmvDaJbMtW8Og) | 2:29 | 2025-11-29 |  |
 | [SØB](https://open.spotify.com/track/4nGVDgCX2QWDaM7tbkRTOM) | [YhungBrazy](https://open.spotify.com/artist/2ltchQPvrP8I9FT0DfmUMf), [B4byTk](https://open.spotify.com/artist/0WYRmKLUKVSnkw15uMGzrm) | [EXPERIMENT II](https://open.spotify.com/album/6p0WzwLsrGQOuJrKF8i19J) | 2:48 | 2025-11-29 | 2025-12-05 |
 | [Talaband Anthem, Pt\. 2](https://open.spotify.com/track/3bn2rF5MouNNY4nhzt9Jw0) | [ReallyRichDon](https://open.spotify.com/artist/1aLigTPiKQEmEYQVJt5NwZ), [Mannie2SL](https://open.spotify.com/artist/5EqyhUvnzGrkp0N7DSR3zu), [Talaband Jizzle](https://open.spotify.com/artist/53w5mR8gB6gx3Tn506foHD) | [As Long as I Make It](https://open.spotify.com/album/4FIDcOnc5qpRAITSW8fBYC) | 2:40 | 2025-12-22 | 2025-12-28 |
-| [Telephones](https://open.spotify.com/track/3rD9qqCHhKGUZqHeErKBf4) | [Curry B](https://open.spotify.com/artist/4gEmWKCVOfq7D3m4VibCs2) | [Telephones](https://open.spotify.com/album/7G6PCG8yjPJUvpp7jnoPZA) | 2:25 | 2025-11-29 |  |
+| [Telephones](https://open.spotify.com/track/3rD9qqCHhKGUZqHeErKBf4) | [Curry B](https://open.spotify.com/artist/4gEmWKCVOfq7D3m4VibCs2) | [Telephones](https://open.spotify.com/album/7G6PCG8yjPJUvpp7jnoPZA) | 2:25 | 2025-11-29 | 2026-01-25 |
 | [Temari](https://open.spotify.com/track/3Ys7Fme6fdeev4ROOnM8wo) | [craz3teki](https://open.spotify.com/artist/556amiCwJrWWDOfSGdOXuv) | [Reanimation](https://open.spotify.com/album/0ZNHiNd1m4BGl5yKlc7hg1) | 1:19 | 2025-12-08 | 2025-12-16 |
 | [The Final Agenda](https://open.spotify.com/track/3M05L3jC4YpphpahJ9C3ps) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [The Final Agenda](https://open.spotify.com/album/3w5ew1faB4qurVIKGiBiW8) | 2:00 | 2025-11-30 | 2025-12-22 |
 | [THE SAME](https://open.spotify.com/track/4OQsPgm4pSgYUypIixYGV0) | [GoodFinesse](https://open.spotify.com/artist/0EAHtZWQM2YT88U4mZFKr8) | [Super Joint](https://open.spotify.com/album/31h0Caz0U8NQX6No7cstTz) | 3:04 | 2025-12-15 | 2025-12-26 |
-| [Timing](https://open.spotify.com/track/4lYvUdBoCb9noVftU1IYHa) | [YTN Savvo](https://open.spotify.com/artist/4R2a8PfYkxkwNmu0JwJwXv) | [In My Element](https://open.spotify.com/album/3E5PptuEVqgDTGNJPsJtqk) | 2:50 | 2026-01-23 |  |
+| [Timing](https://open.spotify.com/track/4lYvUdBoCb9noVftU1IYHa) | [YTN Savvo](https://open.spotify.com/artist/4R2a8PfYkxkwNmu0JwJwXv) | [In My Element](https://open.spotify.com/album/3E5PptuEVqgDTGNJPsJtqk) | 2:50 | 2026-01-23 | 2026-01-25 |
 | [Tokyo Drift](https://open.spotify.com/track/6av4npT3aqya3VdgSsgarJ) | [Ronnie Caine](https://open.spotify.com/artist/4WVnDsM7TEE05xMG0D5gUn) | [I Cant Lose](https://open.spotify.com/album/0SpaqDTVmSq6idNQac0I5X) | 2:19 | 2026-01-06 |  |
 | [Trifling](https://open.spotify.com/track/3wMUXSD6foKvnl9asEbEA4) | [acleast](https://open.spotify.com/artist/6atHYdLBnY3Lj1DcG6VGFn) | [Trifling](https://open.spotify.com/album/1KZ5KtTHYd1qiZjkV9OY4e) | 3:31 | 2026-01-15 |  |
 | [UP!](https://open.spotify.com/track/0wHDIhaF25Yddt2xyug75E) | [Trefuego](https://open.spotify.com/artist/4HQfNWcXe8k5dlMHx4QrTP) | [UP!](https://open.spotify.com/album/2LcFpUbAJL3yHNnuQJ6Sud) | 1:50 | 2025-11-29 |  |

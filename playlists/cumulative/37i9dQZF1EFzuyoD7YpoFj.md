@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-646 songs - 1 day 10 hr 46 min
+647 songs - 1 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,8 @@
 | [I'm in Love](https://open.spotify.com/track/7KfDFBUpW8QA2etcR0Og8X) | [Junior Kimbrough](https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr) | [Most Things Haven't Worked Out](https://open.spotify.com/album/5kJYRgdltMekWMls3mEBSE) | 8:38 | 2024-07-24 | 2025-06-28 |
 | [I'm In Love Again](https://open.spotify.com/track/5Gw6d1Mt428wFoJbSVy94i) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Fats Domino Swings](https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf) | 1:59 | 2024-07-24 |  |
 | [I'm in Love with a Soldier Boy](https://open.spotify.com/track/2gQdnyz3D4fP064AlmKTVd) | [Sara Jean Ford](https://open.spotify.com/artist/623OjNkhQw1xarNCQZqiO3) | [Something for the Boys \(2018 Studio Cast Recording\)](https://open.spotify.com/album/65LY4Eb3mx3xevfaycMflh) | 4:44 | 2025-07-10 |  |
-| [I'm In Love With You](https://open.spotify.com/track/6msksMaIIceyWv8JtfmSq4) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Dean Martin: The Capitol Recordings, Vol\. 2 \(1950\-1951\)](https://open.spotify.com/album/0eFgWT3g406NloOr5mc9Gv) | 2:58 | 2024-07-24 |  |
+| [I'm in Love With You](https://open.spotify.com/track/5aGY6rUptvzDkL7CPpE9od) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Iconic Swing, Jazz & Love Songs Collection](https://open.spotify.com/album/7yuzXVRn9Xs6k8NeyIvgiU) | 3:04 | 2026-01-24 |  |
+| [I'm In Love With You](https://open.spotify.com/track/6msksMaIIceyWv8JtfmSq4) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Dean Martin: The Capitol Recordings, Vol\. 2 \(1950\-1951\)](https://open.spotify.com/album/0eFgWT3g406NloOr5mc9Gv) | 2:58 | 2024-07-24 | 2026-01-25 |
 | [I'm Throwing A Ball Tonight](https://open.spotify.com/track/712paP8nSW4a09CmWV5R16) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [At Town Hall](https://open.spotify.com/album/22jmkMF690kHhH7dnCHpr9) | 3:16 | 2025-06-27 |  |
 | [I'm Unlucky at Gambling](https://open.spotify.com/track/5i0G0gkYnnHHRSJ3fjvuHj) | [Howard McGillin](https://open.spotify.com/artist/5ULluSxmW77lt0IpatHeoP) | [Fifty Million Frenchmen](https://open.spotify.com/album/6iPfoCguDCvtCNEgkNh9lc) | 3:10 | 2024-07-24 |  |
 | [I'm Yours](https://open.spotify.com/track/1oAQJNKrMnIX5tLMan0UsY) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Complete Commodore Recordings](https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z) | 3:18 | 2024-07-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Harry Styles, PLK & Gazo au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,453 likes - 103 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,439 likes - 103 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 70 | [I Could Get Used To This](https://open.spotify.com/track/4m9uyukaB0AEC5BKZb5Svw) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [I Could Get Used To This](https://open.spotify.com/album/1Q6TuFF5GjmICIEVSkFCyd) | 3:41 |
 | 71 | [Harmony](https://open.spotify.com/track/1dpV8eCZrUDcF08i32i3gY) | [Odezenne](https://open.spotify.com/artist/1FiWBzw15KbR9amOb1Xnxp), [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Harmony](https://open.spotify.com/album/5dH4C9JTQryCq1AHAMEeyL) | 7:30 |
 | 72 | [God’s Eye](https://open.spotify.com/track/3G600027WLRbsunHeYJ5G2) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [God's Eye](https://open.spotify.com/album/5iPaMXX4jgANF9uiEERtxi) | 2:11 |
-| 73 | [Orient Express](https://open.spotify.com/track/67gEoObTZxg3tnzSA2R1vc) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ), [HabibiSly](https://open.spotify.com/artist/1aJmuI59aoDA9mBk4ACoxl), [Hareth Mehdi](https://open.spotify.com/artist/16dgg1GkycsNVdNs0S3JYp) | [Orient Express](https://open.spotify.com/album/0P5YIh9Lf83Ey4ERFPDAlC) | 4:12 |
+| 73 | [Orient Express](https://open.spotify.com/track/67gEoObTZxg3tnzSA2R1vc) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ), [HabibiSly](https://open.spotify.com/artist/1aJmuI59aoDA9mBk4ACoxl), [Hareth Mhedi](https://open.spotify.com/artist/5M1Y14WQauKS8E1bhRacf5) | [Orient Express](https://open.spotify.com/album/0P5YIh9Lf83Ey4ERFPDAlC) | 4:12 |
 | 74 | [Tes mots](https://open.spotify.com/track/0CuDpL8gbXGClUkuNq5sJl) | [KRN](https://open.spotify.com/artist/3qbqyAhAkU804siT3gPzK5) | [Tes mots](https://open.spotify.com/album/3T6j3blJvzvcWMjEHmAiDV) | 2:44 |
 | 75 | [Imposter](https://open.spotify.com/track/5VqWwnkDTHNz3oXdlh2jn7) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Imposter](https://open.spotify.com/album/47GKjNzCbyJVYNrgpq4314) | 2:38 |
 | 76 | [BOTA](https://open.spotify.com/track/6XRjI89oGBRJe0etKtI04L) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [BOTA](https://open.spotify.com/album/3dR7Ki6FZ7ZzERpGaDqizJ) | 2:58 |

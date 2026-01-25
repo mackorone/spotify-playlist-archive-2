@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 11828,
+  "num_followers": 11831,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2026-01-13 07:48:42",
       "album": {
+        "name": "MY PRIDE",
+        "url": "https://open.spotify.com/album/3EWtWKRKGjAq3VuJEEA6UA"
+      },
+      "artists": [
+        {
+          "name": "TIOT",
+          "url": "https://open.spotify.com/artist/2hoCMH0KWwpjFJEGh0ECe7"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "MY PRIDE",
+      "url": "https://open.spotify.com/track/5fXi5dl48tR8l0rUlPSa0Y"
+    },
+    {
+      "added_at": "2026-01-13 07:48:42",
+      "album": {
         "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
         "url": "https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 170000,
       "name": "Message (with Gist)",
       "url": "https://open.spotify.com/track/5qYfMMCvenoDhXp6upn3iL"
-    },
-    {
-      "added_at": "2026-01-13 07:48:42",
-      "album": {
-        "name": "MY PRIDE",
-        "url": "https://open.spotify.com/album/3EWtWKRKGjAq3VuJEEA6UA"
-      },
-      "artists": [
-        {
-          "name": "TIOT",
-          "url": "https://open.spotify.com/artist/2hoCMH0KWwpjFJEGh0ECe7"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "MY PRIDE",
-      "url": "https://open.spotify.com/track/5fXi5dl48tR8l0rUlPSa0Y"
     },
     {
       "added_at": "2026-01-13 07:48:42",
@@ -811,7 +811,7 @@
     {
       "added_at": "2026-01-13 07:48:42",
       "album": {
-        "name": "how can i do",
+        "name": "how can i do (feat. YooJeong)",
         "url": "https://open.spotify.com/album/48AzCrfwXNzTgctIYFMqbH"
       },
       "artists": [
@@ -825,24 +825,8 @@
         }
       ],
       "duration_ms": 169599,
-      "name": "how can i do (Feat. YooJeong)",
+      "name": "how can i do (feat. YooJeong)",
       "url": "https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9"
-    },
-    {
-      "added_at": "2026-01-13 07:48:42",
-      "album": {
-        "name": "How about you? (No Office Romance! X THE BOYZ) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/1xXbRj29uRvRA7iT7aKT3N"
-      },
-      "artists": [
-        {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "How about you?",
-      "url": "https://open.spotify.com/track/6bOuFd9CLbQA8IKRWwVVBP"
     },
     {
       "added_at": "2026-01-13 07:48:42",
@@ -859,6 +843,22 @@
       "duration_ms": 202546,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/5TfjXWXIFzctqqiAoT7bSi"
+    },
+    {
+      "added_at": "2026-01-13 07:48:42",
+      "album": {
+        "name": "How about you? (No Office Romance! X THE BOYZ) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/1xXbRj29uRvRA7iT7aKT3N"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "How about you?",
+      "url": "https://open.spotify.com/track/6bOuFd9CLbQA8IKRWwVVBP"
     }
   ],
   "unique_name": "\uc378 !",

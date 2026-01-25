@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Gülden x Tekir ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,486 likes - 126 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,476 likes - 126 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 50542,
+  "num_followers": 50549,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXFogAAAAADNXsw2rKZhvrL8+GnZIBPo",
+  "snapshot_id": "aXK6AAAAAABVFBPYWJJ8tXrG9MXju1OF",
   "tracks": [
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 162332,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/5cyxngiUUlUUtCx4qWsPFz"
+      "duration_ms": 76443,
+      "name": "Rug Island, Pt. 2",
+      "url": "https://open.spotify.com/track/3Cq2MyHslpTABcw1bPx50m"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 76443,
-      "name": "Rug Island, Pt. 2",
-      "url": "https://open.spotify.com/track/3Cq2MyHslpTABcw1bPx50m"
+      "duration_ms": 162332,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/5cyxngiUUlUUtCx4qWsPFz"
     },
     {
       "added_at": null,

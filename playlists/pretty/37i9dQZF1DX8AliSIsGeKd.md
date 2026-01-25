@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Miss Monique
 
-[Spotify](https://open.spotify.com/user/spotify) - 736,465 likes - 90 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 736,659 likes - 90 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 28 | [Lynn](https://open.spotify.com/track/4pi6KRKf7DSfriMXlX56tE) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Lynn](https://open.spotify.com/album/5v50sJhJQkNeiRKS4PzLOc) | 6:17 |
 | 29 | [THA TRIP](https://open.spotify.com/track/7AEJRHIPu2fKSm9E3ARHn0) | [Janis Zielinski](https://open.spotify.com/artist/0qqVoFZdP1OB0N9FkGfJ4D), [Ollie Lishman](https://open.spotify.com/artist/266LAiHzDxPPRJldh2CPX0) | [THA TRIP](https://open.spotify.com/album/6wadJLC6nVEtlhvsYoF2ub) | 2:40 |
 | 30 | [Time Shift](https://open.spotify.com/track/79e7xQ5TKwEN68p1kxEkyS) | [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK), [Leoni Alexi](https://open.spotify.com/artist/2pU3d5IKE7xkDYEkPhXHC8) | [Time Shift](https://open.spotify.com/album/1q6aletqHUEKTNN71IevbV) | 5:52 |
-| 31 | [All Night Long](https://open.spotify.com/track/7nboixHsDQbJkHHjz72pIY) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Picture: Volkoder](https://open.spotify.com/album/5AA55B0S08IQx9qp4BPVq1) | 3:01 |
+| 31 | [All Night Long](https://open.spotify.com/track/7nboixHsDQbJkHHjz72pIY) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Picture: Volkoder Part 1](https://open.spotify.com/album/5AA55B0S08IQx9qp4BPVq1) | 3:01 |
 | 32 | [Painting in the Sky \- Kamilo Sanclemente & Jossem Remix](https://open.spotify.com/track/1QV8ggMHgmInRXpoZFb3t5) | [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM), [Greta Meier](https://open.spotify.com/artist/4FyARNAcEAdSfrxxB9SvjJ), [Kamilo Sanclemente](https://open.spotify.com/artist/2AYLgq9P1arichVXbNbjVy), [Jossem](https://open.spotify.com/artist/1KojqDfib5mdW6063j6aR2) | [Painting in the Sky](https://open.spotify.com/album/5LexhuWdkSAJXvuXNjRpKc) | 4:49 |
 | 33 | [Voices of Eternity](https://open.spotify.com/track/1N7tuS8pKDz8pvT4kS4hAt) | [MOKX](https://open.spotify.com/artist/646RUJMIzy6CVxvIGnSshw), [SaedYm](https://open.spotify.com/artist/7JDPJN4A1O9NCeWYHnpknQ) | [Voices of Eternity](https://open.spotify.com/album/2RQvcVYzKb2kc8tl4yC2EW) | 4:46 |
 | 34 | [Fallin'](https://open.spotify.com/track/4RWk0U7Fk6Y6TCLk0THcfN) | [Noah Baine](https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI) | [Balance](https://open.spotify.com/album/19z1oEwjBsQb9DSCqGRaq5) | 2:52 |

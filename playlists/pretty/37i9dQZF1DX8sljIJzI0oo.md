@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > This week, Yandel and LATIN MAFIA bring the heat\. Tap in every Thursday for a new Fuego mixtape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,925,713 likes - 20 songs - 58 min 31 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,925,631 likes - 20 songs - 58 min 31 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

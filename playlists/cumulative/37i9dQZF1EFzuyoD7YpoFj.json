@@ -4859,6 +4859,24 @@
     },
     {
       "album": {
+        "name": "Iconic Swing, Jazz & Love Songs Collection",
+        "url": "https://open.spotify.com/album/7yuzXVRn9Xs6k8NeyIvgiU"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184270,
+      "name": "I'm in Love With You",
+      "url": "https://open.spotify.com/track/5aGY6rUptvzDkL7CPpE9od"
+    },
+    {
+      "album": {
         "name": "Dean Martin: The Capitol Recordings, Vol. 2 (1950-1951)",
         "url": "https://open.spotify.com/album/0eFgWT3g406NloOr5mc9Gv"
       },
@@ -4874,7 +4892,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 178893,
       "name": "I'm In Love With You",
       "url": "https://open.spotify.com/track/6msksMaIIceyWv8JtfmSq4"

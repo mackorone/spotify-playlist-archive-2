@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Les nouveautés rap franco sans frontières\. Photo: PLK
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,595 likes - 88 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,608 likes - 88 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 76 | [Ask About Me](https://open.spotify.com/track/7cCrl4SgP50t2QAbpLnbtc) | [Prosperito](https://open.spotify.com/artist/5J0EbiAtpSbBynEwqZtt9O), [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP) | [Ask About Me](https://open.spotify.com/album/6NEcHHEPV0TPY0Gg85UA3C) | 2:03 |
 | 77 | [Une daronne pleure](https://open.spotify.com/track/5NYKas0esWy4PEAbFJXaZ9) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [AAA](https://open.spotify.com/album/4njuJxvkYozXf6r3QLmKva) | 2:16 |
 | 78 | [One Nation](https://open.spotify.com/track/0HSfrxNjChc1UjyLXORJR4) | [St\-Saoul](https://open.spotify.com/artist/3FiLC4bXGyrzdtdqDJPmZZ), [Madizm](https://open.spotify.com/artist/2GoFhPq0tLBQaFm0dZyHYj), [Sensei H](https://open.spotify.com/artist/4rSSnUNsjRSMr0TbcjVgkN), [Jamal Jackson](https://open.spotify.com/artist/77hPvRsZhqSdy23R3Xig5W) | [B.O D’la fin des temps](https://open.spotify.com/album/7AXqSyYaDonfVYzsT0XPF3) | 3:12 |
-| 79 | [Ping Pong \- Les Ultimes Marches de l'Empereur \#3](https://open.spotify.com/track/2H5qBxJi7bsgX9HsKnApCe) | [Alkpote](https://open.spotify.com/artist/0QcZD8V0Ug1KINWBSyG0dB), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Ping Pong \- Les Ultimes Marches de l'Empereur \#3](https://open.spotify.com/album/4Llw1ZtSgFpRXRQppMLm07) | 3:18 |
+| 79 | [Ping Pong](https://open.spotify.com/track/2H5qBxJi7bsgX9HsKnApCe) | [Alkpote](https://open.spotify.com/artist/0QcZD8V0Ug1KINWBSyG0dB), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Ping Pong](https://open.spotify.com/album/4Llw1ZtSgFpRXRQppMLm07) | 3:18 |
 | 80 | [PAS LE CHOIX](https://open.spotify.com/track/4xyT5W6hSwIYzdP8FAS4HH) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [PAS LE CHOIX](https://open.spotify.com/album/3s9fg9EqFaoHaWx64KXZCV) | 1:30 |
 | 81 | [Cartes en main](https://open.spotify.com/track/1kAjokPSNQb7UOl46vns4G) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8), [Original Gros Bonnet](https://open.spotify.com/artist/3J6TngTFpTA7THynTV7BbX) | [Cartes en main](https://open.spotify.com/album/0K13Ralw58TEP2rBJz6eQG) | 3:15 |
 | 82 | [+971](https://open.spotify.com/track/4GJfmVzb1ji60wAbRPauz1) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [+971](https://open.spotify.com/album/5lforRYyhZm0hYg5Uyl132) | 3:21 |

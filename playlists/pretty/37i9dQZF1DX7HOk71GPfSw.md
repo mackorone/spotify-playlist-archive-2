@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > The Magna Carta was a royal charter issued in 1215 that established that the king was not above the law
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,807 likes - 135 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,923 likes - 135 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 artists who are the future of Canadian music, according to our editors\. Cover: Katie Tupper
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,305 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,303 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [BITING MY TONGUE](https://open.spotify.com/track/0JcIsvfeEsz493yYmD2S0i) | [Mikey Jose](https://open.spotify.com/artist/3rJEy2vNlsmWO5JHxKEaP8) | [BITING MY TONGUE](https://open.spotify.com/album/0sWQyYcdyxf93aZGA6ASvj) | 3:52 |
 | 50 | [Just Life](https://open.spotify.com/track/3bpArkvt2TWoTxG2rXxb1H) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Just Life](https://open.spotify.com/album/0BFnVbBBL7xHSYVX880PGr) | 3:18 |
 
-Snapshot ID: `AAAAAGDV0LUCEdwBzTPvqnezVMtHm8Eu`
+Snapshot ID: `AAAAAFY1GPoRrFpSe6gA04j6t90EyjXx`

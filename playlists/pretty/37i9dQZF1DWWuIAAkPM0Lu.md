@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > ❤️ Mille ❤️ over\(lever\) med det her album!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,040 likes - 102 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,057 likes - 102 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 32 | [BLINDERS](https://open.spotify.com/track/5yGRA06uJvK0KLgeZAAYb7) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [BLINDERS](https://open.spotify.com/album/7bdkWRYBMgIlWEhWlQCEJp) | 3:34 |
 | 33 | [Phone Sex](https://open.spotify.com/track/3TKGJXVhxqyDYFkTGvWdpw) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Phone Sex](https://open.spotify.com/album/2Efrfi4RLliavLPQsOCkbJ) | 2:58 |
 | 34 | [Vi' Først Lige Begyndt](https://open.spotify.com/track/3MZ1gGF4FT2hdCTxXxbeFV) | [MGP Allstars 2026](https://open.spotify.com/artist/2GD9ubFxtyAUyCEi8v0WZe), [MGP](https://open.spotify.com/artist/7Gl5Kp9xBBFAH0wNUTAP38) | [Vi' Først Lige Begyndt](https://open.spotify.com/album/0a7S6hfWXrfMLfcViFxGzh) | 2:38 |
-| 35 | [Alle Mine Venner](https://open.spotify.com/track/0UPjZH4ICKVbGbx80aOTHR) | [Mads Christian](https://open.spotify.com/artist/3Ehbg1qhRKHshR8H2BoR8N), [Tinke](https://open.spotify.com/artist/5005hOLXIFwzPXSyqr9TKP) | [Alle Mine Venner](https://open.spotify.com/album/74pQPkruF7ikCy4VJW4QL2) | 2:54 |
+| 35 | [Alle Mine Venner \(feat\. Tinke\)](https://open.spotify.com/track/0UPjZH4ICKVbGbx80aOTHR) | [Mads Christian](https://open.spotify.com/artist/3Ehbg1qhRKHshR8H2BoR8N), [Tinke](https://open.spotify.com/artist/5005hOLXIFwzPXSyqr9TKP) | [Alle Mine Venner \(feat\. Tinke\)](https://open.spotify.com/album/74pQPkruF7ikCy4VJW4QL2) | 2:54 |
 | 36 | [Før Vi Går Hjem](https://open.spotify.com/track/6KnX2pkecFELGtegM26ezf) | [Søren Torpegaard Lund](https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z) | [Før Vi Går Hjem](https://open.spotify.com/album/0eacHMmOEg0lccpmgf0do3) | 2:54 |
 | 37 | [This Is The Place](https://open.spotify.com/track/2CNUFN8wwtwX39rRlPD3Kk) | [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [This Is The Place](https://open.spotify.com/album/3XPTdlBTpXlwP4ZdU9dgMN) | 3:16 |
 | 38 | [SuperDrug](https://open.spotify.com/track/5Bb8e5gqXUvfoZzilDIQqO) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [SuperDrug](https://open.spotify.com/album/3y7FO9rrvqLJaO1PHaaA9d) | 3:06 |

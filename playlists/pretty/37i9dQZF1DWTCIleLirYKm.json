@@ -1,6 +1,6 @@
 {
   "description": "a state of mind.",
-  "num_followers": 205493,
+  "num_followers": 205570,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-10-08 18:07:38",
       "album": {
-        "name": "Midwest Farmer's Daughter",
-        "url": "https://open.spotify.com/album/55byaTflUCrOReQQukpctP"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 252506,
-      "name": "Hurtin' (On the Bottle)",
-      "url": "https://open.spotify.com/track/161ih87Mf1Jsx6E6WgVPDu"
-    },
-    {
-      "added_at": "2025-10-08 18:07:38",
-      "album": {
         "name": "Blue Eyed Blues",
         "url": "https://open.spotify.com/album/3EMQs9gBntlWvOcnODjINi"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 189053,
       "name": "16th Avenue",
       "url": "https://open.spotify.com/track/7tvoGy9Ou4Oe0Lu3Mv0WVX"
+    },
+    {
+      "added_at": "2025-10-08 18:07:38",
+      "album": {
+        "name": "Midwest Farmer's Daughter",
+        "url": "https://open.spotify.com/album/55byaTflUCrOReQQukpctP"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 252506,
+      "name": "Hurtin' (On the Bottle)",
+      "url": "https://open.spotify.com/track/161ih87Mf1Jsx6E6WgVPDu"
     }
   ],
   "unique_name": "Outlaw ",

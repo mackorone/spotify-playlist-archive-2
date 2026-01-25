@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Matilda Lyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,347 likes - 143 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,371 likes - 143 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

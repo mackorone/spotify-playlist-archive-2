@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Poison The Well
 
-1,458 songs - 3 day 16 hr 50 min
+1,459 songs - 3 day 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1239,6 +1239,7 @@
 | [The Far Side](https://open.spotify.com/track/3ws26a6G2rYjtAD5fK9ObC) | [Vended](https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ) | [Vended](https://open.spotify.com/album/2tDnVMI6pBlsiEMOfb5DaU) | 4:58 | 2024-09-20 | 2025-04-26 |
 | [The Fatalist](https://open.spotify.com/track/3FrT1TD82QxLtRIn5IinK4) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Pink Moon](https://open.spotify.com/album/7H14q1uaSsDDgSV0rn3W5c) | 2:50 | 2025-09-12 |  |
 | [The Fear of God](https://open.spotify.com/track/4rY6F8L0xmTVOC3PcHX9Ji) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [The Fear of God](https://open.spotify.com/album/6jAKZs5AgEtvtvYHTjOcyj) | 2:02 | 2024-08-12 | 2025-05-18 |
+| [THE FIRE IN MY NAME](https://open.spotify.com/track/2mhf3Gou2ifwxXwG3VIHYp) | [Avalanche Effect](https://open.spotify.com/artist/1lhzMZn54qAGcj8hdoMCCb) | [THE FIRE IN MY NAME](https://open.spotify.com/album/35j2MCL7aM8PgvugKb0vZB) | 2:53 | 2026-01-16 |  |
 | [The Flood \(ǝɔᴉʇsnɾ\)](https://open.spotify.com/track/5CxohnOVnE9zJPDgkHaD7C) | [In Hearts Wake](https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N), [Winston McCall](https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO) | [The Flood \(ǝɔᴉʇsnɾ\)](https://open.spotify.com/album/1IbJHLXEZFflfhFkGlgRAD) | 3:10 | 2024-07-12 | 2024-08-26 |
 | [The Fullness of My Being](https://open.spotify.com/track/6bezTpt9QKbnxqqdDsRE1o) | [Being As An Ocean](https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP) | [The Fullness of My Being](https://open.spotify.com/album/5O5I2tWrenrKwPBkC0yhA3) | 3:38 | 2024-01-12 | 2024-07-15 |
 | [THE GREAT DEPRESSION](https://open.spotify.com/track/4XLAtJLVLFvSUXRZFc0dqr) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [THE GREAT DEPRESSION](https://open.spotify.com/album/76psVqthi8ZmsWCHBwDJxd) | 3:07 | 2023-02-17 | 2023-03-25 |
@@ -1426,7 +1427,7 @@
 | [White Rabbit](https://open.spotify.com/track/48gotqEngeagErLW3C1FUs) | [Saving Vice](https://open.spotify.com/artist/1bN0Zx15XhmvTjNF2cPs0b) | [White Rabbit](https://open.spotify.com/album/7MpFnrbyOhfoaZKFypWdci) | 3:50 | 2022-05-13 | 2022-10-05 |
 | [White Washed \- 2022](https://open.spotify.com/track/6Aco1hY5ciwgaWPFm7sTd1) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [White Washed & Composure 2022](https://open.spotify.com/album/6zaOIfy2Fy8ez7UnAv1ZJ8) | 3:57 | 2022-07-01 | 2022-12-17 |
 | [Who's fault?](https://open.spotify.com/track/24ScjFWnIcKFU47ye9qN87) | [DEXCORE](https://open.spotify.com/artist/5M8Z8Dlx2uLSH88WgxLlG4) | [\-18\-](https://open.spotify.com/album/4njBljf92NKv5NBIh6xA9s) | 4:35 | 2022-01-21 | 2022-04-09 |
-| [WHY ARE WE CALLING IT LOVE?](https://open.spotify.com/track/1Hwv8obmonPeuPw9kZ9T8a) | [PINKNOISE](https://open.spotify.com/artist/2USllv850CGVjxqji1jxcd) | [HUMAN=KIND](https://open.spotify.com/album/1TepAW5KwOt3Yoz1HA4N7x) | 3:11 | 2025-08-22 |  |
+| [WHY ARE WE CALLING IT LOVE?](https://open.spotify.com/track/1Hwv8obmonPeuPw9kZ9T8a) | [PINKNOISE](https://open.spotify.com/artist/2USllv850CGVjxqji1jxcd) | [HUMAN=KIND](https://open.spotify.com/album/1TepAW5KwOt3Yoz1HA4N7x) | 3:11 | 2025-08-22 | 2026-01-25 |
 | [Wick](https://open.spotify.com/track/3yMU4otI6sZZBNSq2TYdXf) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Wick](https://open.spotify.com/album/4oewdHvESs5w4EtvGG6Abx) | 3:09 | 2025-07-25 |  |
 | [Wide Awake](https://open.spotify.com/track/3Link655QbLbSLj8iunFG7) | [Archers](https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire) | [Wide Awake](https://open.spotify.com/album/5M54uawIq9qyn5ZZ3TPScG) | 2:39 | 2025-05-16 | 2025-12-13 |
 | [Wide Open](https://open.spotify.com/track/6Td517jDDCCvHKo7vk7mnP) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Wide Open](https://open.spotify.com/album/0B7QibJPKamPw36p7FY79u) | 5:17 | 2022-07-13 | 2022-07-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,129 likes - 80 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,128 likes - 80 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 79 | [Too Late](https://open.spotify.com/track/53mNFIZypKLnQlQyw3DKAo) | [Shankz](https://open.spotify.com/artist/7JP8tEVrVknJlA3isvkQjz) | [Too Late](https://open.spotify.com/album/5OpPkKjVdXiRWAoFz42CJd) | 4:00 |
 | 80 | [On & On](https://open.spotify.com/track/4etHuFADJ1ZxYYLj40nEiu) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Yael Watchman](https://open.spotify.com/artist/4Qtu8ujgCImXCkFIMEs5HA) | [Chemistry](https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2) | 3:15 |
 
-Snapshot ID: `AAAAAA/AUCL+X4lsY1CfA73EhFhV1JuT`
+Snapshot ID: `AAAAAN4RiFAwNNXOaGA/G3ygEb0kZnZY`

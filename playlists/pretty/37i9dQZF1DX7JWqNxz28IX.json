@@ -1,6 +1,6 @@
 {
   "description": "\ud835\udd8b\ud835\udd9a\ud835\udd88\ud835\udd90 \ud835\udd91\ud835\udd94\ud835\udd9b\ud835\udd8a",
-  "num_followers": 47300,
+  "num_followers": 47296,
   "original_name": "rimedi per cuori spezzati",
   "owner": {
     "name": "Spotify",
@@ -259,30 +259,18 @@
     {
       "added_at": "2025-12-22 14:49:48",
       "album": {
-        "name": "ELSEWHERE",
-        "url": "https://open.spotify.com/album/6TodyJESCEXJ67eXpUse0I"
+        "name": "Lettera Q",
+        "url": "https://open.spotify.com/album/7mzC45R2k8PRHzE7lbrRBE"
       },
       "artists": [
         {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        },
-        {
-          "name": "Venerus",
-          "url": "https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD"
-        },
-        {
-          "name": "MadMan",
-          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
-        },
-        {
-          "name": "PK",
-          "url": "https://open.spotify.com/artist/3i6qJrzSztVVKa7C4rhowo"
+          "name": "nayt",
+          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
         }
       ],
-      "duration_ms": 209263,
-      "name": "Lacrime",
-      "url": "https://open.spotify.com/track/1Qpb6yVeQlLqna58MQnsY0"
+      "duration_ms": 140000,
+      "name": "Poter scegliere",
+      "url": "https://open.spotify.com/track/35s4cmZFjwxJ2fhcsEwAiC"
     },
     {
       "added_at": "2025-12-22 14:49:48",
@@ -323,18 +311,30 @@
     {
       "added_at": "2025-12-22 14:49:48",
       "album": {
-        "name": "Lettera Q",
-        "url": "https://open.spotify.com/album/7mzC45R2k8PRHzE7lbrRBE"
+        "name": "ELSEWHERE",
+        "url": "https://open.spotify.com/album/6TodyJESCEXJ67eXpUse0I"
       },
       "artists": [
         {
-          "name": "nayt",
-          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "Venerus",
+          "url": "https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD"
+        },
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        },
+        {
+          "name": "PK",
+          "url": "https://open.spotify.com/artist/3i6qJrzSztVVKa7C4rhowo"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Poter scegliere",
-      "url": "https://open.spotify.com/track/35s4cmZFjwxJ2fhcsEwAiC"
+      "duration_ms": 209263,
+      "name": "Lacrime",
+      "url": "https://open.spotify.com/track/1Qpb6yVeQlLqna58MQnsY0"
     },
     {
       "added_at": "2025-12-22 14:49:48",
@@ -655,6 +655,22 @@
     {
       "added_at": "2025-12-22 14:49:48",
       "album": {
+        "name": "Come noi",
+        "url": "https://open.spotify.com/album/0SB9emzbP6YHcagKLZbabG"
+      },
+      "artists": [
+        {
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "Come noi",
+      "url": "https://open.spotify.com/track/7zmqrn1vES0c7sTKXEl3P0"
+    },
+    {
+      "added_at": "2025-12-22 14:49:48",
+      "album": {
         "name": "Il mio lato peggiore",
         "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 220800,
       "name": "Incredibile (feat. Kaash Paige)",
       "url": "https://open.spotify.com/track/0XpCSax9B6EUS2IEpo3FU6"
-    },
-    {
-      "added_at": "2025-12-22 14:49:48",
-      "album": {
-        "name": "Come noi",
-        "url": "https://open.spotify.com/album/0SB9emzbP6YHcagKLZbabG"
-      },
-      "artists": [
-        {
-          "name": "Tenth Sky",
-          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
-        }
-      ],
-      "duration_ms": 129882,
-      "name": "Come noi",
-      "url": "https://open.spotify.com/track/7zmqrn1vES0c7sTKXEl3P0"
     },
     {
       "added_at": "2025-12-22 14:49:48",
@@ -867,6 +867,22 @@
     {
       "added_at": "2025-12-22 14:49:48",
       "album": {
+        "name": "MELA MARCIA",
+        "url": "https://open.spotify.com/album/7tdF0W54CrLK0Dxssdpxjq"
+      },
+      "artists": [
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        }
+      ],
+      "duration_ms": 186383,
+      "name": "Sparire",
+      "url": "https://open.spotify.com/track/3dy1WuMuli2MphMv6Tyti1"
+    },
+    {
+      "added_at": "2025-12-22 14:49:48",
+      "album": {
         "name": "INCUBI (feat. The\u00f8)",
         "url": "https://open.spotify.com/album/3JF8mPH0jz0KqoyMLhG4T1"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 152979,
       "name": "INCUBI (feat. The\u00f8)",
       "url": "https://open.spotify.com/track/6ex0FQKnXv5OzIfl45EWwo"
-    },
-    {
-      "added_at": "2025-12-22 14:49:48",
-      "album": {
-        "name": "MELA MARCIA",
-        "url": "https://open.spotify.com/album/7tdF0W54CrLK0Dxssdpxjq"
-      },
-      "artists": [
-        {
-          "name": "chiello",
-          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
-        }
-      ],
-      "duration_ms": 186383,
-      "name": "Sparire",
-      "url": "https://open.spotify.com/track/3dy1WuMuli2MphMv6Tyti1"
     },
     {
       "added_at": "2025-12-22 14:49:48",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-12-22 14:49:48",
       "album": {
-        "name": "Due anni fa",
-        "url": "https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7"
-      },
-      "artists": [
-        {
-          "name": "Tenth Sky",
-          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
-        }
-      ],
-      "duration_ms": 160247,
-      "name": "Due anni fa",
-      "url": "https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm"
-    },
-    {
-      "added_at": "2025-12-22 14:49:48",
-      "album": {
         "name": "TauroTape3",
         "url": "https://open.spotify.com/album/3O1hIgLryt4q65Y1YcjXdp"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 177777,
       "name": "Xelisa2 (feat. ARIETE)",
       "url": "https://open.spotify.com/track/0TFwQNQV9TzDRSh05ljlv7"
+    },
+    {
+      "added_at": "2025-12-22 14:49:48",
+      "album": {
+        "name": "Due anni fa",
+        "url": "https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7"
+      },
+      "artists": [
+        {
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
+        }
+      ],
+      "duration_ms": 160247,
+      "name": "Due anni fa",
+      "url": "https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm"
     },
     {
       "added_at": "2025-12-22 14:49:48",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-12-22 14:49:48",
       "album": {
-        "name": "Dove sei??",
-        "url": "https://open.spotify.com/album/647emruUfFnCax2xaYKh6N"
-      },
-      "artists": [
-        {
-          "name": "Agon",
-          "url": "https://open.spotify.com/artist/1LHVbos3OPyt6XN52RvTJK"
-        }
-      ],
-      "duration_ms": 181281,
-      "name": "Dove sei??",
-      "url": "https://open.spotify.com/track/4sDryJaxNbgbucTleahrXE"
-    },
-    {
-      "added_at": "2025-12-22 14:49:48",
-      "album": {
         "name": "ERA L\u2019INIZIO",
         "url": "https://open.spotify.com/album/2RgzZRAkdstoKe6NgpTrga"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 229279,
       "name": ":RRaGNaTELa",
       "url": "https://open.spotify.com/track/5kI5Dm8y6dV3Aqx9fPJqhN"
+    },
+    {
+      "added_at": "2025-12-22 14:49:48",
+      "album": {
+        "name": "Dove sei??",
+        "url": "https://open.spotify.com/album/647emruUfFnCax2xaYKh6N"
+      },
+      "artists": [
+        {
+          "name": "Agon",
+          "url": "https://open.spotify.com/artist/1LHVbos3OPyt6XN52RvTJK"
+        }
+      ],
+      "duration_ms": 181281,
+      "name": "Dove sei??",
+      "url": "https://open.spotify.com/track/4sDryJaxNbgbucTleahrXE"
     },
     {
       "added_at": "2025-12-22 14:49:48",

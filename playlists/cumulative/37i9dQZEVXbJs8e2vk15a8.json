@@ -7898,7 +7898,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 189960,
       "name": "Beast",
       "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
@@ -7920,7 +7920,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
@@ -15570,7 +15570,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 160645,
       "name": "Cry for Me WA WA WA - Live Version",
       "url": "https://open.spotify.com/track/19aIw4f5D2bMsufW7lYFYO"
@@ -15704,7 +15704,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC"
@@ -22892,7 +22892,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 269960,
       "name": "Eres la herida m\u00e1s bonita",
       "url": "https://open.spotify.com/track/516E1cUXyiGvy2xAOmwLln"
@@ -34286,6 +34286,24 @@
       "duration_ms": 172264,
       "name": "La Diabla",
       "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
+    },
+    {
+      "album": {
+        "name": "La Distancia Exacta",
+        "url": "https://open.spotify.com/album/6wU4hPSC9NVJjaOLDYCLfY"
+      },
+      "artists": [
+        {
+          "name": "Misael Soul",
+          "url": "https://open.spotify.com/artist/3q4nKdXpY7ggvpOtri0qzB"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222440,
+      "name": "La Distancia Exacta",
+      "url": "https://open.spotify.com/track/4NsG0PbEODnmSIMjZM4gsq"
     },
     {
       "album": {
@@ -49247,6 +49265,24 @@
     },
     {
       "album": {
+        "name": "Omaiga",
+        "url": "https://open.spotify.com/album/3o926j7V18uSgkbroKd9Fg"
+      },
+      "artists": [
+        {
+          "name": "Black Blesses",
+          "url": "https://open.spotify.com/artist/1wiWhEfQo9gMGWvHFZqSd5"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "Omaiga",
+      "url": "https://open.spotify.com/track/4Eg7bS7wlxyOtX3x3k7FFE"
+    },
+    {
+      "album": {
         "name": "OMAR ALGO ANDA MAL #2",
         "url": "https://open.spotify.com/album/3tQC1E62pgfpPhWsob8spa"
       },
@@ -55502,6 +55538,24 @@
       "duration_ms": 165631,
       "name": "QUE LE DE",
       "url": "https://open.spotify.com/track/604IC2o3T3bxPu6C7Pimd7"
+    },
+    {
+      "album": {
+        "name": "Que Lindos Ojos",
+        "url": "https://open.spotify.com/album/5xIk3tYbX8ZMNXlDrE6WP7"
+      },
+      "artists": [
+        {
+          "name": "Alanys Lagos",
+          "url": "https://open.spotify.com/artist/7zYKWRlWkeaKjRLAeEsJzS"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192145,
+      "name": "Que Lindos Ojos",
+      "url": "https://open.spotify.com/track/7qiOFRVtJvOVRFaWh2nrrf"
     },
     {
       "album": {
@@ -65969,6 +66023,24 @@
     },
     {
       "album": {
+        "name": "A media luz",
+        "url": "https://open.spotify.com/album/7tWCX3cUnOYM3fxbQG8etR"
+      },
+      "artists": [
+        {
+          "name": "WoundsMusic",
+          "url": "https://open.spotify.com/artist/4qqyZl4xNCFjYxMviA7Inv"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307199,
+      "name": "Te quiero en secreto",
+      "url": "https://open.spotify.com/track/3sWwlCVpPjL6OTGLDRfVgH"
+    },
+    {
+      "album": {
         "name": "Te Quiero Ver",
         "url": "https://open.spotify.com/album/78K4D8F8bwVzmugrHlnGjN"
       },
@@ -69458,7 +69530,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 248159,
       "name": "Tu Nombre en la Oscuridad",
       "url": "https://open.spotify.com/track/13XTDTngvvkb3b2FpBOQXU"
@@ -73134,7 +73206,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 145500,
       "name": "Voyage Voyage",
       "url": "https://open.spotify.com/track/20y6xEtoOj2ZBCS4NJNzuS"
@@ -73152,7 +73224,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 145500,
       "name": "Voyage Voyage",
       "url": "https://open.spotify.com/track/5dy0ZEDh2Lxvza4bK6GR8w"

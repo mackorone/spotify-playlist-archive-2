@@ -8859,6 +8859,24 @@
     },
     {
       "album": {
+        "name": "When The Opera Ends",
+        "url": "https://open.spotify.com/album/3VkWnUaXYnWkl8WQ87W3EB"
+      },
+      "artists": [
+        {
+          "name": "Whsprs",
+          "url": "https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158070,
+      "name": "When The Opera Ends",
+      "url": "https://open.spotify.com/track/4Wplx3eSDhIab3wglmii7O"
+    },
+    {
+      "album": {
         "name": "Where Did You Go",
         "url": "https://open.spotify.com/album/3e5gqJGCGaZyUVEQfLyKHL"
       },

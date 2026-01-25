@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-466 songs - 22 hr 43 min
+467 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [ioU](https://open.spotify.com/track/5uB8JwWGjFOA1jVVrZnvKa) | [Rhys](https://open.spotify.com/artist/3ib3suDKiZY4EmEafjuWa3) | [ioU](https://open.spotify.com/album/1lUSpq6QVxVIMJwkkx0DSh) | 2:09 | 2023-07-26 |  |
 | [Isolation](https://open.spotify.com/track/44ORI03tYd8T0GRGmT6hMO) | [Tee Kae](https://open.spotify.com/artist/7yVRtDOR1a7cWjvynt9yop) | [Metamorphosis](https://open.spotify.com/album/4BNkb4V1QoAzMfjGcUuLy1) | 3:44 | 2025-11-16 |  |
 | [it's not about u](https://open.spotify.com/track/7mvVMUBy9bZI13N7dipRlx) | [Eva Grace](https://open.spotify.com/artist/67sX3xnatlElE31KHjSWVr) | [it's not about u](https://open.spotify.com/album/27eBFT50n6XdoOhNE7dpU4) | 2:09 | 2023-07-26 |  |
+| [JANE GOODALL](https://open.spotify.com/track/0zdrvHfEwtIEB5McVRw9XP) | [Rolo](https://open.spotify.com/artist/7KGGo3dYH0hGs2JWllqI1I) | [JANE GOODALL](https://open.spotify.com/album/2qIQggwIpzjsP0k7tsG7SY) | 1:33 | 2026-01-24 |  |
 | [jenny jenkins tribute](https://open.spotify.com/track/0KkPB2vwiHsadUZREbP82S) | [LILBADDIETYRONE](https://open.spotify.com/artist/3Q9gITSqraeLAotKbn8Wsp) | [jenny jenkins tribute](https://open.spotify.com/album/19AOOVCHpr2XNY6amT024Y) | 1:06 | 2024-06-04 |  |
 | [JETTLAG](https://open.spotify.com/track/65KimIiZBYdeJxsM7G4KjY) | [Sleepin Blades](https://open.spotify.com/artist/4STGo30u63l1G6NbNDngKh) | [JETTLAG](https://open.spotify.com/album/67A3yJLJKy8y6ZEZHaSy8i) | 1:58 | 2025-10-10 |  |
 | [Jinn](https://open.spotify.com/track/5xRKz6Lld0tVeRUbiBAs8w) | [KyMari](https://open.spotify.com/artist/0MvWSGsWfVesdQLS5StVKJ) | [Jinn](https://open.spotify.com/album/6mYBeYSMHJT7JoDwutDut6) | 2:24 | 2024-06-26 |  |

@@ -21941,6 +21941,24 @@
     },
     {
       "album": {
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/4QAsc3z8SPZAPUjrYRLHeD"
+      },
+      "artists": [
+        {
+          "name": "Lynndigo",
+          "url": "https://open.spotify.com/artist/1AFlJFCgGkFiqjZBtRuZvY"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168448,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/1nf18Zh3meLSUjRQH4Zc6L"
+    },
+    {
+      "album": {
         "name": "Darte Saoco",
         "url": "https://open.spotify.com/album/5R8fa5tt6TzGbngm4vmCR4"
       },
@@ -66122,6 +66140,24 @@
       "duration_ms": 203666,
       "name": "Nothing Else Mattered",
       "url": "https://open.spotify.com/track/0qN1Yxku0zHwfJU7kASYLj"
+    },
+    {
+      "album": {
+        "name": "Nothing Is Impossible With You",
+        "url": "https://open.spotify.com/album/5RJnjSC3fLOiC3NpZ7z5vW"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254066,
+      "name": "Nothing Is Impossible With You",
+      "url": "https://open.spotify.com/track/1jP8sjGxTpkQz13WzS1fpw"
     },
     {
       "album": {

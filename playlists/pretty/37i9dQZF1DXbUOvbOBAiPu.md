@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Harry Styles, Dimitri Vegas & Like Mike, Gazo, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,180 likes - 88 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,183 likes - 88 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 47 | [I’m Good \- From The Movie “GOAT”](https://open.spotify.com/track/4Rse4e9moG5PKR61F7ah28) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [I’m Good \(From The Movie “GOAT”\)](https://open.spotify.com/album/45mBhso0bpjGCjrHoQ9Tpa) | 2:59 |
 | 48 | [Weaponizing My Failures](https://open.spotify.com/track/7lnQ6sUxGKTJKcTOViBVyH) | [Doodseskader](https://open.spotify.com/artist/3NFvorn4wvIOqrDLJbXroK) | [Weaponizing My Failures](https://open.spotify.com/album/6t0rPx1GxzIpthyRAelHAD) | 4:30 |
 | 49 | [Pull up Again](https://open.spotify.com/track/4JDRJbwxHHuxSD3VVSB5Oq) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE), [Jay Psar](https://open.spotify.com/artist/2FXSYpIIZhJ260UvGZN8wr) | [Pull up Again](https://open.spotify.com/album/0xL0skrxkXaBuR7hwqyOSW) | 2:25 |
-| 50 | [Priceless \(feat\. Jacidorex\)](https://open.spotify.com/track/2WHcmf2x61dg5q0XTJxCc6) | [Todiefor](https://open.spotify.com/artist/55SWeOUhlJHrkcuih5J2pQ), [Jacidorex](https://open.spotify.com/artist/0XSNxwt21dxcFTxaYtQjwe) | [Priceless \(feat\. Jacidorex\)](https://open.spotify.com/album/4hV9Cyva2MWPYknopNgq1i) | 3:51 |
+| 50 | [Priceless](https://open.spotify.com/track/2WHcmf2x61dg5q0XTJxCc6) | [Todiefor](https://open.spotify.com/artist/55SWeOUhlJHrkcuih5J2pQ), [Jacidorex](https://open.spotify.com/artist/0XSNxwt21dxcFTxaYtQjwe) | [Priceless](https://open.spotify.com/album/4hV9Cyva2MWPYknopNgq1i) | 3:51 |
 | 51 | [She](https://open.spotify.com/track/4nidpqxJxWkpI1J1cQYIjX) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [She](https://open.spotify.com/album/5ctwYNecOlD65X81p0RHhl) | 3:09 |
 | 52 | [Get It Right](https://open.spotify.com/track/4eycOJZ9ofGW7iqm1QEaDJ) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Get It Right](https://open.spotify.com/album/6qHejAKDb0fEkUvAax5nHs) | 2:52 |
 | 53 | [Dark Before The Dawn](https://open.spotify.com/track/7p1zQqPlC3gju243x8BTYZ) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Dark Before The Dawn](https://open.spotify.com/album/5IDysKWEasAmRL0GtLQaLb) | 3:35 |

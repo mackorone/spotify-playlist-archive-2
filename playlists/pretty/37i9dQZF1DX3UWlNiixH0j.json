@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u4e8c\u968e\u5802\u548c\u7f8e Kazumi Nikaido",
-  "num_followers": 66256,
+  "num_followers": 66262,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-01-20 17:12:36",
       "album": {
+        "name": "Glitter",
+        "url": "https://open.spotify.com/album/0whAMSdgqbvFPyd6NgeGhW"
+      },
+      "artists": [
+        {
+          "name": "E.scene",
+          "url": "https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5"
+        }
+      ],
+      "duration_ms": 194080,
+      "name": "DAWN",
+      "url": "https://open.spotify.com/track/1MMKb51GLNUn6p2N11BTCa"
+    },
+    {
+      "added_at": "2026-01-20 17:12:36",
+      "album": {
         "name": "(AND) NOW I SEE THE LIGHT",
         "url": "https://open.spotify.com/album/6pJHgJfzjiRFrkdEZ4Kgg3"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 222781,
       "name": "(AND) NOW I SEE THE LIGHT",
       "url": "https://open.spotify.com/track/1CedH7KCdaEN322k8zWPU4"
-    },
-    {
-      "added_at": "2026-01-20 17:12:36",
-      "album": {
-        "name": "Glitter",
-        "url": "https://open.spotify.com/album/0whAMSdgqbvFPyd6NgeGhW"
-      },
-      "artists": [
-        {
-          "name": "E.scene",
-          "url": "https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "DAWN",
-      "url": "https://open.spotify.com/track/1MMKb51GLNUn6p2N11BTCa"
     },
     {
       "added_at": "2026-01-20 17:12:36",
@@ -719,22 +719,18 @@
     {
       "added_at": "2026-01-20 17:12:36",
       "album": {
-        "name": "HAZY (Prod. A.G.O)",
-        "url": "https://open.spotify.com/album/1Hfd92aPafCEWyhmRJkeG9"
+        "name": "moonlight",
+        "url": "https://open.spotify.com/album/2vaFQkb58ukwdEgEITgaYQ"
       },
       "artists": [
         {
-          "name": "REJAY",
-          "url": "https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe"
-        },
-        {
-          "name": "A.G.O",
-          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
+          "name": "\u3084\u3055\u3057\u3044\u307f\u3089\u3044",
+          "url": "https://open.spotify.com/artist/6vKcbLaY4bwJbTz0HZAtbW"
         }
       ],
-      "duration_ms": 199200,
-      "name": "HAZY (Prod. A.G.O)",
-      "url": "https://open.spotify.com/track/5nX1wS5nBjTpNhnh1JD7fE"
+      "duration_ms": 223991,
+      "name": "moonlight",
+      "url": "https://open.spotify.com/track/6xEcXcWCdZ6xFNbroqlmFc"
     },
     {
       "added_at": "2026-01-20 17:12:36",
@@ -755,18 +751,22 @@
     {
       "added_at": "2026-01-20 17:12:36",
       "album": {
-        "name": "Babel (Re-recorded)",
-        "url": "https://open.spotify.com/album/2JzBeuZ6mo9dWfeD7kcW2Z"
+        "name": "HAZY (Prod. A.G.O)",
+        "url": "https://open.spotify.com/album/1Hfd92aPafCEWyhmRJkeG9"
       },
       "artists": [
         {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+          "name": "REJAY",
+          "url": "https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe"
+        },
+        {
+          "name": "A.G.O",
+          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
         }
       ],
-      "duration_ms": 278515,
-      "name": "Babel - Re-recorded",
-      "url": "https://open.spotify.com/track/46uupX1PFFJwLeEkm8F2QO"
+      "duration_ms": 199200,
+      "name": "HAZY (Prod. A.G.O)",
+      "url": "https://open.spotify.com/track/5nX1wS5nBjTpNhnh1JD7fE"
     },
     {
       "added_at": "2026-01-20 17:12:36",
@@ -787,18 +787,18 @@
     {
       "added_at": "2026-01-20 17:12:36",
       "album": {
-        "name": "moonlight",
-        "url": "https://open.spotify.com/album/2vaFQkb58ukwdEgEITgaYQ"
+        "name": "Babel (Re-recorded)",
+        "url": "https://open.spotify.com/album/2JzBeuZ6mo9dWfeD7kcW2Z"
       },
       "artists": [
         {
-          "name": "\u3084\u3055\u3057\u3044\u307f\u3089\u3044",
-          "url": "https://open.spotify.com/artist/6vKcbLaY4bwJbTz0HZAtbW"
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
         }
       ],
-      "duration_ms": 223991,
-      "name": "moonlight",
-      "url": "https://open.spotify.com/track/6xEcXcWCdZ6xFNbroqlmFc"
+      "duration_ms": 278515,
+      "name": "Babel - Re-recorded",
+      "url": "https://open.spotify.com/track/46uupX1PFFJwLeEkm8F2QO"
     },
     {
       "added_at": "2026-01-20 17:12:36",
@@ -819,18 +819,18 @@
     {
       "added_at": "2026-01-20 17:12:36",
       "album": {
-        "name": "what a night",
-        "url": "https://open.spotify.com/album/4GpAO4MymtdM13BW6DaUrD"
+        "name": "All About McGuffin",
+        "url": "https://open.spotify.com/album/2G5FsWdPfY3zQKRUncRIa4"
       },
       "artists": [
         {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+          "name": "mei ehara",
+          "url": "https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF"
         }
       ],
-      "duration_ms": 227914,
-      "name": "what a night",
-      "url": "https://open.spotify.com/track/0cWB8AR320o8psJVtRRqYs"
+      "duration_ms": 209521,
+      "name": "After that...",
+      "url": "https://open.spotify.com/track/3h4VFjkuKs70dIXBCb5CcS"
     },
     {
       "added_at": "2026-01-20 17:12:36",
@@ -851,18 +851,18 @@
     {
       "added_at": "2026-01-20 17:12:36",
       "album": {
-        "name": "All About McGuffin",
-        "url": "https://open.spotify.com/album/2G5FsWdPfY3zQKRUncRIa4"
+        "name": "what a night",
+        "url": "https://open.spotify.com/album/4GpAO4MymtdM13BW6DaUrD"
       },
       "artists": [
         {
-          "name": "mei ehara",
-          "url": "https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF"
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
         }
       ],
-      "duration_ms": 209521,
-      "name": "After that...",
-      "url": "https://open.spotify.com/track/3h4VFjkuKs70dIXBCb5CcS"
+      "duration_ms": 227914,
+      "name": "what a night",
+      "url": "https://open.spotify.com/track/0cWB8AR320o8psJVtRRqYs"
     },
     {
       "added_at": "2026-01-20 17:12:36",
@@ -1011,18 +1011,22 @@
     {
       "added_at": "2026-01-20 17:12:36",
       "album": {
-        "name": "Inc",
-        "url": "https://open.spotify.com/album/05DGT91gvVgf8lUdkUzAPV"
+        "name": "\u7b2c\u4e8c\u5fc3 (Dainishin)",
+        "url": "https://open.spotify.com/album/78oTBSWxd86gNnwNf4XOTi"
       },
       "artists": [
         {
-          "name": "FCO.",
-          "url": "https://open.spotify.com/artist/4J9kLpFakm3b9gYfdFfkAq"
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Nagipan",
+          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
         }
       ],
-      "duration_ms": 201490,
-      "name": "BAND A",
-      "url": "https://open.spotify.com/track/6h9kCwUpd3hKWZ5Huioi3M"
+      "duration_ms": 230070,
+      "name": "\u7b2c\u4e8c\u5fc3 (Dainishin)",
+      "url": "https://open.spotify.com/track/1nnl5SqTlN9PNY9xFcSC26"
     },
     {
       "added_at": "2026-01-20 17:12:36",
@@ -1063,6 +1067,38 @@
     {
       "added_at": "2026-01-20 17:12:36",
       "album": {
+        "name": "Inc",
+        "url": "https://open.spotify.com/album/05DGT91gvVgf8lUdkUzAPV"
+      },
+      "artists": [
+        {
+          "name": "FCO.",
+          "url": "https://open.spotify.com/artist/4J9kLpFakm3b9gYfdFfkAq"
+        }
+      ],
+      "duration_ms": 201490,
+      "name": "BAND A",
+      "url": "https://open.spotify.com/track/6h9kCwUpd3hKWZ5Huioi3M"
+    },
+    {
+      "added_at": "2026-01-20 17:12:36",
+      "album": {
+        "name": "BITTERSWEET",
+        "url": "https://open.spotify.com/album/5iT4t4tsexjyInZ7G0Tfdq"
+      },
+      "artists": [
+        {
+          "name": "Haruy",
+          "url": "https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "BITTERSWEET",
+      "url": "https://open.spotify.com/track/0LHBidxCBlOCzsCe2VICZx"
+    },
+    {
+      "added_at": "2026-01-20 17:12:36",
+      "album": {
         "name": "\u661f\u306e\u4e0b",
         "url": "https://open.spotify.com/album/3PqW5RaycVsciS9BQhUSV6"
       },
@@ -1095,22 +1131,6 @@
     {
       "added_at": "2026-01-20 17:12:36",
       "album": {
-        "name": "\u7570\u7269\u6df7\u5165",
-        "url": "https://open.spotify.com/album/3eGwlLkrbtbutag5RU8nPa"
-      },
-      "artists": [
-        {
-          "name": "FCO.",
-          "url": "https://open.spotify.com/artist/4J9kLpFakm3b9gYfdFfkAq"
-        }
-      ],
-      "duration_ms": 151555,
-      "name": "\u7570\u7269\u6df7\u5165",
-      "url": "https://open.spotify.com/track/4AD5vjzHeG7gqoxS357joP"
-    },
-    {
-      "added_at": "2026-01-20 17:12:36",
-      "album": {
         "name": "Indifference",
         "url": "https://open.spotify.com/album/16qdb0jBUQb3ounDinB3Y8"
       },
@@ -1131,18 +1151,18 @@
     {
       "added_at": "2026-01-20 17:12:36",
       "album": {
-        "name": "BITTERSWEET",
-        "url": "https://open.spotify.com/album/5iT4t4tsexjyInZ7G0Tfdq"
+        "name": "\u7570\u7269\u6df7\u5165",
+        "url": "https://open.spotify.com/album/3eGwlLkrbtbutag5RU8nPa"
       },
       "artists": [
         {
-          "name": "Haruy",
-          "url": "https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw"
+          "name": "FCO.",
+          "url": "https://open.spotify.com/artist/4J9kLpFakm3b9gYfdFfkAq"
         }
       ],
-      "duration_ms": 197600,
-      "name": "BITTERSWEET",
-      "url": "https://open.spotify.com/track/0LHBidxCBlOCzsCe2VICZx"
+      "duration_ms": 151555,
+      "name": "\u7570\u7269\u6df7\u5165",
+      "url": "https://open.spotify.com/track/4AD5vjzHeG7gqoxS357joP"
     },
     {
       "added_at": "2026-01-20 17:12:36",
@@ -1163,6 +1183,22 @@
     {
       "added_at": "2026-01-20 17:12:36",
       "album": {
+        "name": "\u4e00\u7e37",
+        "url": "https://open.spotify.com/album/004hVSOMsD3ryx7iMugGGJ"
+      },
+      "artists": [
+        {
+          "name": "UNIDOTS",
+          "url": "https://open.spotify.com/artist/2uByNuOCgzpdf1JOf1M3LZ"
+        }
+      ],
+      "duration_ms": 214333,
+      "name": "\u4e00\u7e37",
+      "url": "https://open.spotify.com/track/0Ha0Jamuh0OyS9q65t9c0N"
+    },
+    {
+      "added_at": "2026-01-20 17:12:36",
+      "album": {
         "name": "MUNI",
         "url": "https://open.spotify.com/album/3VPIqh2pDnTVTpw8igR1w2"
       },
@@ -1175,22 +1211,6 @@
       "duration_ms": 220000,
       "name": "Sentimental Journey",
       "url": "https://open.spotify.com/track/2SQ8cSa0qW495Gw1mmvMGz"
-    },
-    {
-      "added_at": "2026-01-20 17:12:36",
-      "album": {
-        "name": "BILLIE",
-        "url": "https://open.spotify.com/album/55JLbSgp21qzXwKlulo1Rc"
-      },
-      "artists": [
-        {
-          "name": "Kazumi Nikaido",
-          "url": "https://open.spotify.com/artist/0bbguXjnV68XM0aFeR7S6I"
-        }
-      ],
-      "duration_ms": 231237,
-      "name": "BILLIE",
-      "url": "https://open.spotify.com/track/1xWY4vdMMjXgiEsQSi8krp"
     },
     {
       "added_at": "2026-01-20 17:12:36",
@@ -1211,22 +1231,6 @@
     {
       "added_at": "2026-01-20 17:12:36",
       "album": {
-        "name": "Hold Me Tight",
-        "url": "https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 188659,
-      "name": "Hold Me Tight",
-      "url": "https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t"
-    },
-    {
-      "added_at": "2026-01-20 17:12:36",
-      "album": {
         "name": "HEBITORA",
         "url": "https://open.spotify.com/album/7uGRLS4ZTCPASN8NoOsDky"
       },
@@ -1243,34 +1247,34 @@
     {
       "added_at": "2026-01-20 17:12:36",
       "album": {
-        "name": "\u4e00\u7e37",
-        "url": "https://open.spotify.com/album/004hVSOMsD3ryx7iMugGGJ"
+        "name": "BILLIE",
+        "url": "https://open.spotify.com/album/55JLbSgp21qzXwKlulo1Rc"
       },
       "artists": [
         {
-          "name": "UNIDOTS",
-          "url": "https://open.spotify.com/artist/2uByNuOCgzpdf1JOf1M3LZ"
+          "name": "Kazumi Nikaido",
+          "url": "https://open.spotify.com/artist/0bbguXjnV68XM0aFeR7S6I"
         }
       ],
-      "duration_ms": 214333,
-      "name": "\u4e00\u7e37",
-      "url": "https://open.spotify.com/track/0Ha0Jamuh0OyS9q65t9c0N"
+      "duration_ms": 231237,
+      "name": "BILLIE",
+      "url": "https://open.spotify.com/track/1xWY4vdMMjXgiEsQSi8krp"
     },
     {
       "added_at": "2026-01-20 17:12:36",
       "album": {
-        "name": "Town e.p",
-        "url": "https://open.spotify.com/album/4All8iynq0oyPWwq6FAOrO"
+        "name": "Hold Me Tight",
+        "url": "https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X"
       },
       "artists": [
         {
-          "name": "goethe",
-          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
         }
       ],
-      "duration_ms": 233466,
-      "name": "Town",
-      "url": "https://open.spotify.com/track/6HAb8hCHPZHeonwPusXsgf"
+      "duration_ms": 188659,
+      "name": "Hold Me Tight",
+      "url": "https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t"
     }
   ],
   "unique_name": "Edge!",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEncNAQJJkE.md) - [plain]
 
 > The best of Canadian  hip\-hop this year, handpicked by Spotify Canada editors\. Cover: Planet Giza
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,972 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,956 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEncNAQJJkE.md) - [plain]
 | 4 | [2 Mazza \(feat\. Drake\)](https://open.spotify.com/track/2rKNlxKBZvpSpuIChBdHts) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Don't Box Me In](https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT) | 3:11 |
 | 5 | [GOODTHANKYOU](https://open.spotify.com/track/13QIaQniwcsUp1DSOCa4HI) | [Shelailai](https://open.spotify.com/artist/6rhcTWIMphyIXBGVo3B0gc) | [GOODTHANKYOU](https://open.spotify.com/album/3a4pbkVysOjBEbeCbsYTgl) | 2:54 |
 | 6 | [IS MY MIC ON?](https://open.spotify.com/track/4QoJMqmeFVvvHCe5RGgkBH) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Chèlbè](https://open.spotify.com/album/4vKup5g5YoD5blHlYdvy5p) | 2:40 |
-| 7 | [Think They Know Me \(Remix\) \[feat\. Haviah Mighty, Charmaine, TAAYLEE G & DvblM\]](https://open.spotify.com/track/2yWquzDBIZtn3lPt9QPb1E) | [Golde London](https://open.spotify.com/artist/1Lskvp8v0SE5vR9KR8Ymcb), [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT), [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM), [DvblM](https://open.spotify.com/artist/2MUXp2OoYU1py0PRSxbn7B) | [Think They Know Me \(Remix\) \[feat\. Haviah Mighty, Charmaine, TAAYLEE G & DvblM\]](https://open.spotify.com/album/1hb4bloYIvGbhbOXgaWXtF) | 3:47 |
+| 7 | [Think They Know Me \(Remix\) \[feat\. Haviah Mighty, Charmaine, TAAYLEE G & DvblM\]](https://open.spotify.com/track/2yWquzDBIZtn3lPt9QPb1E) | [Golde London](https://open.spotify.com/artist/1Lskvp8v0SE5vR9KR8Ymcb), [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT), [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM), [DVBLM](https://open.spotify.com/artist/2MUXp2OoYU1py0PRSxbn7B) | [Think They Know Me \(Remix\) \[feat\. Haviah Mighty, Charmaine, TAAYLEE G & DvblM\]](https://open.spotify.com/album/1hb4bloYIvGbhbOXgaWXtF) | 3:47 |
 | 8 | [LET EM OUT](https://open.spotify.com/track/2lQtir4kucnRn8wcESAU6g) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [LET EM OUT](https://open.spotify.com/album/2eW7djVnQycwpmhiiNjiql) | 2:49 |
 | 9 | [Retail Therapy](https://open.spotify.com/track/1HEAMLjCTehb8w0AJFCaka) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo), [Férina](https://open.spotify.com/artist/6sIKgvWOLwG1jc4LJ3WGfi) | [Retail Therapy](https://open.spotify.com/album/6Zyp6WGs6nnn6L6aj1k5zu) | 2:49 |
 | 10 | [Cruel $ummer](https://open.spotify.com/track/5AQUmjDWCXPWrwBtw1ukoZ) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO) | [Patio Season](https://open.spotify.com/album/7MIBpn1fx9271xk70OtSRk) | 2:57 |

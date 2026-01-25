@@ -4,7 +4,7 @@
 
 > Fresh from the recording to your ears\. Latest Hindi music, right here\. Cover \- Border 2
 
-508 songs - 1 day 7 hr 5 min
+509 songs - 1 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Maa](https://open.spotify.com/track/38DgFpRlelrCWj1eCD4B5J) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Maa](https://open.spotify.com/album/3VayHdrcAAx3BHA9s5fGmP) | 5:01 | 2025-07-24 | 2025-08-19 |
 | [Maahi Mereya](https://open.spotify.com/track/5LcXyhSx0YgSNlYu9CVHWK) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8) | [Maahi Mereya](https://open.spotify.com/album/34T30mccgzk8UWBIuaWhyO) | 3:10 | 2025-07-04 | 2025-08-01 |
 | [Maahi O Maahi](https://open.spotify.com/track/0BHVErgRxG5ssrlUOKyFnK) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU) | [Maahi O Maahi](https://open.spotify.com/album/1vBDTWnU9jW2iCjrmfYNK3) | 3:27 | 2025-07-30 | 2025-09-03 |
+| [Maatrubhumi \(From "Battle Of Galwan"\)](https://open.spotify.com/track/3kvTEKHAxKZLKXnMi5ev6L) | [Himesh Reshammiya](https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Master Mani Dharamkot](https://open.spotify.com/artist/1UykW7RvQLRDp4oX5g3A7X) | [Maatrubhumi \(From "Battle Of Galwan"\)](https://open.spotify.com/album/3VVXEAfuuOkBNg1HjY9sul) | 6:14 | 2026-01-24 |  |
 | [Madira \- From "Rahu Ketu"](https://open.spotify.com/track/6xeuV2BmVL9G7hCVALKeIQ) | [Vikram Montrose](https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Abhinav Shekhar](https://open.spotify.com/artist/7bBqAz65fp8BVnuHQTFgSQ) | [Madira \(From "Rahu Ketu"\)](https://open.spotify.com/album/2qKWENDuLWcGTUQPxcQY09) | 2:57 | 2025-12-09 |  |
 | [Mafia](https://open.spotify.com/track/0Z8kwhMDaj9lAlukRDNfXV) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 3:22 | 2025-09-26 | 2025-11-19 |
 | [Mahavtar Narasimha](https://open.spotify.com/track/4ygNAxAGUn2KdjcPlxWs7s) | [Brijesh Shandilya](https://open.spotify.com/artist/3gdKEsvYBUHdtLMmECIN4q), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP), [Kunwar Anshith](https://open.spotify.com/artist/0DVDWYVHHGPbQ3jc0vg1dE), [Suril Vispute](https://open.spotify.com/artist/6zX4snifziwxKmZsVk1OUf) | [Mahavtar Narasimha](https://open.spotify.com/album/3Uw3wnnyFnbdErzYnlf0Us) | 5:45 | 2025-08-14 | 2025-08-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Magda
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,120 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,119 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 8 | [du tust gut](https://open.spotify.com/track/6o3SDKyhafgyblwMkZouHF) | [Lea Marie](https://open.spotify.com/artist/5XIF2l3hXty0qWMNR58Bqk) | [du tust gut](https://open.spotify.com/album/46c3AxzJUt0AGDA4fHHxvX) | 2:16 |
 | 9 | [1000 Mal](https://open.spotify.com/track/6L25piLdJ2vrxugmPis0V7) | [Leona Shijaku](https://open.spotify.com/artist/2SPGwFrMaYqLLe3sMorkAj) | [1000 Mal](https://open.spotify.com/album/1tZX5gd6HW2ueFVr7ACFPN) | 2:50 |
 | 10 | [Zeig mir](https://open.spotify.com/track/5ts13MukRZiePeVvrrhX6Y) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Zeig mir](https://open.spotify.com/album/72M0XQIcyxHDcprr5C5hFY) | 3:25 |
-| 11 | [Weißt du noch](https://open.spotify.com/track/5bLvhFCTpEltJ1pMDxkzM8) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Worte wie Messer \(Bonus Edition\)](https://open.spotify.com/album/49Lx7pCvOxML4tTaacJ1Gq) | 2:27 |
-| 12 | [Original Berliner](https://open.spotify.com/track/18jvXAgxmuTqdDOzetuT86) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr) | [Original Berliner](https://open.spotify.com/album/1EVgfo41UctvFuToTYyiK6) | 2:01 |
+| 11 | [Original Berliner](https://open.spotify.com/track/18jvXAgxmuTqdDOzetuT86) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr) | [Original Berliner](https://open.spotify.com/album/1EVgfo41UctvFuToTYyiK6) | 2:01 |
+| 12 | [Weißt du noch](https://open.spotify.com/track/5bLvhFCTpEltJ1pMDxkzM8) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Worte wie Messer \(Bonus Edition\)](https://open.spotify.com/album/49Lx7pCvOxML4tTaacJ1Gq) | 2:27 |
 | 13 | [Take Me Down](https://open.spotify.com/track/5kYD8wp3DP5nyHAQYKjv7t) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Take Me Down](https://open.spotify.com/album/7Ll3evfz8mbgWjVYZ6F7hi) | 3:31 |
 | 14 | [Blümchen6](https://open.spotify.com/track/7mvfwoQrTfad7dSdJ6cJii) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Blümchen6](https://open.spotify.com/album/4kcDLaZTdfLHB10bw9znsr) | 2:21 |
 | 15 | [Head Over Heels](https://open.spotify.com/track/0uyv1zBBUQolBPzKlslzKh) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Head Over Heels](https://open.spotify.com/album/6h3wZMS53G5yxRB2ZcZWx6) | 3:14 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 21 | [fanta lustig](https://open.spotify.com/track/10Am9fOPp2hmUSvLiVEjGE) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [fanta lustig ep](https://open.spotify.com/album/5as40bmi1SzrUCogUEfCnm) | 2:45 |
 | 22 | [Let Myself Go](https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Dawn](https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT) | 3:19 |
 | 23 | [Ciao Bella](https://open.spotify.com/track/3YuS6dimQP3vEYaaDPMZCT) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Ciao Bella](https://open.spotify.com/album/2MzLZLVOPd3SoGuqGAEMwT) | 2:43 |
-| 24 | [Spielchen](https://open.spotify.com/track/7vYd0jI4jdiYYfjrkjtLfh) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [Spielchen](https://open.spotify.com/album/4otgoFuUQLG7t2WQNdeGJz) | 3:16 |
-| 25 | [One Kiss in Space](https://open.spotify.com/track/15kEZ0AvaztTpFlbJvNQqa) | [Alyne](https://open.spotify.com/artist/3I6VTLm67GhUmOTrhM0DzY) | [One Kiss in Space](https://open.spotify.com/album/2kia7MpDdIf89Oh9mqtK3n) | 4:48 |
+| 24 | [One Kiss in Space](https://open.spotify.com/track/15kEZ0AvaztTpFlbJvNQqa) | [Alyne](https://open.spotify.com/artist/3I6VTLm67GhUmOTrhM0DzY) | [One Kiss in Space](https://open.spotify.com/album/2kia7MpDdIf89Oh9mqtK3n) | 4:48 |
+| 25 | [Spielchen](https://open.spotify.com/track/7vYd0jI4jdiYYfjrkjtLfh) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [Spielchen](https://open.spotify.com/album/4otgoFuUQLG7t2WQNdeGJz) | 3:16 |
 | 26 | [You Won](https://open.spotify.com/track/5PXWEZsNcnhenhpICdPWRW) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [You Won](https://open.spotify.com/album/6CNDPyJnxIMKrXLC8ph3wR) | 2:45 |
 | 27 | [Brich mich](https://open.spotify.com/track/6Dvm3ZzyF7fXeHg4KBNJUB) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Pflaster](https://open.spotify.com/album/7iZAC44rL0HrhYyl74iIck) | 2:45 |
 | 28 | [Meteor](https://open.spotify.com/track/2OkB8iSkiFPgKuDKT5Bara) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [Everybody Loves](https://open.spotify.com/album/2pr4jK4HNc7ESD1TrcK3UX) | 2:26 |

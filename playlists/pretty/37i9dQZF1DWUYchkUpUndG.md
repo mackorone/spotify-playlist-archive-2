@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Musa Yende
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,798 likes - 97 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,824 likes - 97 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 76 | [Earthen Vessel](https://open.spotify.com/track/4wVdW32IgLBbbCa0L5weDv) | [Steady Worship](https://open.spotify.com/artist/17ni7x7OVAYDsxQyKUp1DJ) | [Earthen Vessel](https://open.spotify.com/album/4xbLwNlEyNaQG3TN8FnNCf) | 11:08 |
 | 77 | [Goodness and Mercy \(Psalm 23:6\)](https://open.spotify.com/track/7AhBOTQMG9qYYRJqBjnljZ) | [MIN.ADEOLUWA](https://open.spotify.com/artist/64uDlOscS1ksKOxDqjXcRz) | [Goodness and Mercy \(Psalm 23:6\)](https://open.spotify.com/album/1pwmDIxD7tU5jFY1Mgjn6n) | 5:22 |
 | 78 | [Daily Bread](https://open.spotify.com/track/4Drb2FjnL796JxqenP546s) | [Olabayo](https://open.spotify.com/artist/5fwsRZi2lECkP2rqK74aaC) | [Daily Bread](https://open.spotify.com/album/41VDjNcEImibKkNehMPvNI) | 2:16 |
-| 79 | [Papa est là](https://open.spotify.com/track/3vzi8xaqqqjGqjVLtlaWHE) | [Marina kouassi](https://open.spotify.com/artist/5Pbc9jAONybyQWXdrkhZZ1) | [Papa est là](https://open.spotify.com/album/3nMYpiSSEAowCtlSrr5MJM) | 3:09 |
+| 79 | [Papa est là](https://open.spotify.com/track/3vzi8xaqqqjGqjVLtlaWHE) | [Marina kouassi](https://open.spotify.com/artist/5Pbc9jAONybyQWXdrkhZZ1) | [Papa est là](https://open.spotify.com/album/3nMYpiSSEAowCtlSrr5MJM) | 3:07 |
 | 80 | [You Covered Me](https://open.spotify.com/track/3TrFmztL0fT2RTaFIafew5) | [Mac Roc](https://open.spotify.com/artist/2PjoWoM7ATPPJ7xoUy5tyb), [Tryphena](https://open.spotify.com/artist/2YLax85sS5OfWUlg8lbcub) | [Mac Roc Sessions \(Home Editions\)](https://open.spotify.com/album/6iqnXJiTu1w0DYBRbEQJKO) | 2:51 |
 | 81 | [Father](https://open.spotify.com/track/6cBpRahCaSlVWkFqugejDw) | [Prince Max](https://open.spotify.com/artist/13Oeg2c8JD5o4qkDW2XGjB), [Graham D](https://open.spotify.com/artist/2bPTBH90Hw56lgU9CTG21y) | [Father](https://open.spotify.com/album/7GPteuX8hWdo3M60VEaIub) | 2:52 |
 | 82 | [My Year](https://open.spotify.com/track/5OCZ9FMV6v34Qxnv10uyvu) | [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv) | [My Year](https://open.spotify.com/album/69vBN8XLi1CG04j403spCl) | 3:03 |

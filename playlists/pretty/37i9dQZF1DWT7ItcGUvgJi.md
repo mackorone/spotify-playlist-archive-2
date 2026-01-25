@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7ItcGUvgJi.md) - [plain]
 
 > Where two indie music powerhouses meet! Get in the groove and gear up for the show with the best tracks from the lineup\. 🎶✨ \(인디음악을 지원하는 두 프로그램의 만남! 공연 라인업의 베스트 곡들을 들으며 공연을 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,198 likes - 30 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,200 likes - 30 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7ItcGUvgJi.md) - [plain]
 | 29 | [Belated Regret](https://open.spotify.com/track/7lXnwQze1f6JNphwZfO3kG) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [Belated Regret](https://open.spotify.com/album/6LHysm27XSwwR9Y5WG1Y6A) | 4:01 |
 | 30 | [Together](https://open.spotify.com/track/0GoPuSuw6ouoYT56z9Zlh1) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [sunkissed](https://open.spotify.com/album/3loRoqVh6Xub8tTMsv5zTb) | 2:53 |
 
-Snapshot ID: `AAAAAFtH1J8ezYiTa6zgRvjRCtX/ERu5`
+Snapshot ID: `AAAAADFi7olH43gkjsLwU6tP1cmM/sEm`

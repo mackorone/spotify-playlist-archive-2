@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sVr7SW0RNqNtOsG48pnOh.md) - [plain]
 
 > A look back at some of the most streamed R&amp;B of 2016.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,741 likes - 41 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,742 likes - 41 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

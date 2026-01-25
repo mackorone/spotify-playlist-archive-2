@@ -227,6 +227,24 @@
     },
     {
       "album": {
+        "name": "Stone Love",
+        "url": "https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237133,
+      "name": "Come Home (Live With Me)",
+      "url": "https://open.spotify.com/track/76t9JKMDB9C1QoJTdspV6D"
+    },
+    {
+      "album": {
         "name": "Do What U Gotta Do",
         "url": "https://open.spotify.com/album/72zbFzJ4FMbeIsm1bvsn0H"
       },
@@ -976,7 +994,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 271493,
       "name": "Sit Down",
       "url": "https://open.spotify.com/track/1FK3aV8VFowrZh9xanIerZ"

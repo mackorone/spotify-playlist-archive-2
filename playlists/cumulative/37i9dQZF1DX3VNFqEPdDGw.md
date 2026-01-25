@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Ranjit Bawa
 
-381 songs - 19 hr 36 min
+382 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Mandeer](https://open.spotify.com/track/2nxQsbR0Cqy4MPI6vftwyX) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:10 | 2021-12-18 | 2025-02-20 |
 | [Maroon Maroon](https://open.spotify.com/track/48Ocih6gAv9L7ubcRhqzK5) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV), [Agaazz](https://open.spotify.com/artist/1jHc7ramBygplLEh3assYX) | [Maroon Maroon](https://open.spotify.com/album/5V3rsvYypCRaHP8OK3Mm6T) | 3:47 | 2025-05-08 | 2025-11-05 |
 | [Maruye Da Boota](https://open.spotify.com/track/5JBakgUfXMtHBkqVyX2QBH) | [Surjit Bhullar](https://open.spotify.com/artist/5NA7O4JSNzYDkpMyneLWiD), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Maruye Da Boota](https://open.spotify.com/album/4rJFeBJmdC1my6SZWCwJPS) | 3:03 | 2025-07-18 | 2025-09-10 |
+| [Matha Mittran Nu Tek](https://open.spotify.com/track/36aujBIehAcftH7m76N0cN) | [Parry Sarpanch](https://open.spotify.com/artist/52SmvAG0lEHA91f4GgGmfV) | [Matha Mittran Nu Tek](https://open.spotify.com/album/1lSHLFfzTw0HeiB7KF7Y7m) | 3:32 | 2026-01-23 |  |
 | [Me and My Girlfriend](https://open.spotify.com/track/1cQQk3EyZsWrbIzRBz68P9) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:23 | 2021-12-18 | 2022-01-11 |
 | [Medicine](https://open.spotify.com/track/2QbFuHbPKNWgpqIFQYsUwS) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Medicine](https://open.spotify.com/album/5bxIO37XtNj4k4PW5vMlUJ) | 3:56 | 2025-01-08 |  |
 | [Mere Wala Jatt](https://open.spotify.com/track/2A9cZk5m1wYvlUPLhIMA7U) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Mere Wala Jatt](https://open.spotify.com/album/71mPX0HJuZ6FSJD7WNiTCi) | 3:43 | 2021-12-18 | 2023-07-27 |
@@ -291,7 +292,7 @@
 | [Putt Patela Da](https://open.spotify.com/track/30iRn3jvkspezDnngzLt7V) | [Geeta Zaildar](https://open.spotify.com/artist/78rdC4FvVaOJmEgfjlUi4a), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY), [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Putt Patela Da](https://open.spotify.com/album/7ktFMBLCpBHdsXP5PLROM2) | 2:50 | 2022-07-05 | 2023-05-26 |
 | [Pyar Bolda](https://open.spotify.com/track/3RtR0XXNGtBHJkFgY6OvTQ) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Pyar Bolda](https://open.spotify.com/album/3ZcDbMWG4m26hPhQXFLFc8) | 2:42 | 2021-12-18 | 2025-02-01 |
 | [Qatil Surma](https://open.spotify.com/track/4IGM0oeUfaSmJknMjwOWKe) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Qatil Surma](https://open.spotify.com/album/19Y4WSyFLpjmDPDXgQIRnV) | 2:59 | 2025-01-08 | 2025-04-26 |
-| [Raula](https://open.spotify.com/track/5jYVloOK0NTY9Q1jU5HoaH) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY) | [LEGENDS](https://open.spotify.com/album/2fC4CqKEzXGyaYCTI4A8Ng) | 3:11 | 2025-11-25 |  |
+| [Raula](https://open.spotify.com/track/5jYVloOK0NTY9Q1jU5HoaH) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY) | [LEGENDS](https://open.spotify.com/album/2fC4CqKEzXGyaYCTI4A8Ng) | 3:11 | 2025-11-25 | 2026-01-25 |
 | [Raula](https://open.spotify.com/track/3MkhH16mLlfapdzBbI5Ztg) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Balkar](https://open.spotify.com/artist/6zNY19Sp24dlHukMG0CC3k) | [Let's Go](https://open.spotify.com/album/327jAkV50zyTcMVyKbKlvu) | 3:17 | 2025-01-08 | 2025-01-29 |
 | [Red Bottom](https://open.spotify.com/track/4Rk9xAIYkkCq34H9XhrY3C) | [Jk Dhillon](https://open.spotify.com/artist/4Qd0RqDCeIhqaWMLyRe8ba), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Red Bottom](https://open.spotify.com/album/1ZBrAjDZ9o6hsuiNKTEIMW) | 3:35 | 2023-09-30 | 2023-10-21 |
 | [Red Eyes](https://open.spotify.com/track/5GZ85mz2Xp6aWuly0RXVTM) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Red Eyes](https://open.spotify.com/album/1dEfQJHIyCDrgPOC1LitIu) | 2:43 | 2025-07-03 | 2025-07-08 |

@@ -200,7 +200,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 220032,
       "name": "Activate",
       "url": "https://open.spotify.com/track/7z8LVNE8KvsW4gOGXLAqRU"
@@ -586,7 +586,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 176823,
       "name": "Autumn Fall",
       "url": "https://open.spotify.com/track/1bm4evNgnGNc6TkrW5coXx"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 232057,
       "name": "BackYard",
       "url": "https://open.spotify.com/track/5MWrY70Z923ND9CmINZlJQ"
@@ -734,7 +734,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 151651,
       "name": "beautiful",
       "url": "https://open.spotify.com/track/0HHlGXEynhwIkMLFEXzduC"
@@ -788,7 +788,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 104281,
       "name": "Better Just Relax",
       "url": "https://open.spotify.com/track/3IVYIsdtWlJ55ikYEZvDYa"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 313669,
       "name": "Big Momma's Door",
       "url": "https://open.spotify.com/track/4Ly3A5E1Bq2pKhODzTPO7z"
@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 207872,
       "name": "Cyberpunk Elegy",
       "url": "https://open.spotify.com/track/6YUxRtSM0gcf7Jyzty6V0I"
@@ -1901,6 +1901,24 @@
     },
     {
       "album": {
+        "name": "Lifelike Figures",
+        "url": "https://open.spotify.com/album/2eRVXNj2T29DPJqFsB7A7H"
+      },
+      "artists": [
+        {
+          "name": "The Marica Frequency",
+          "url": "https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297097,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/5rxxCShjsfENHyTEFxm2LX"
+    },
+    {
+      "album": {
         "name": "Falling For You",
         "url": "https://open.spotify.com/album/05uHmKHapnjqAlG9QLYpU9"
       },
@@ -2020,7 +2038,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 230739,
       "name": "For A Season",
       "url": "https://open.spotify.com/track/0wpGtY0s0bf7sOGau3zwYx"
@@ -2298,7 +2316,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 208953,
       "name": "Had Enough",
       "url": "https://open.spotify.com/track/3NgSWWcfCEfqfO0A2G1pDf"
@@ -2338,6 +2356,24 @@
       "duration_ms": 137884,
       "name": "Hectic Movement",
       "url": "https://open.spotify.com/track/4G0L0GzZjStc84JE0muTBt"
+    },
+    {
+      "album": {
+        "name": "Heute geh ich drauf",
+        "url": "https://open.spotify.com/album/3ZrFHe0uXTln9gL7JMqqFb"
+      },
+      "artists": [
+        {
+          "name": "EKN_0322",
+          "url": "https://open.spotify.com/artist/2TzFfwjSStKVlmeexgGpK5"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165539,
+      "name": "Heute geh ich drauf",
+      "url": "https://open.spotify.com/track/23nNSezQQ5f4GYcnkDmHiX"
     },
     {
       "album": {
@@ -2388,7 +2424,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 176973,
       "name": "Homework Forever",
       "url": "https://open.spotify.com/track/5EBAcYsLz8yVFBjzNirEt7"
@@ -2756,7 +2792,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 299386,
       "name": "Kick the Brakes off (Now We're Rollin')",
       "url": "https://open.spotify.com/track/5xLzOesLZtjVCRxl2idsAG"
@@ -2943,6 +2979,28 @@
     },
     {
       "album": {
+        "name": "Lonely Riddim",
+        "url": "https://open.spotify.com/album/79oMV6p3WYa348AtSooVEG"
+      },
+      "artists": [
+        {
+          "name": "Malik English",
+          "url": "https://open.spotify.com/artist/3gpBRVLHl7p8aMQ0IWPbjV"
+        },
+        {
+          "name": "SoDan",
+          "url": "https://open.spotify.com/artist/49kSi9dqS3FmkqjjRI0YEH"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105500,
+      "name": "Lonely Riddim",
+      "url": "https://open.spotify.com/track/0e0JyR0f1GsnDlF8sCjXjZ"
+    },
+    {
+      "album": {
         "name": "Looks That Kill",
         "url": "https://open.spotify.com/album/0q3TJZqAgPdPEXcXuM2kC6"
       },
@@ -3102,7 +3160,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 269250,
       "name": "LoveFool",
       "url": "https://open.spotify.com/track/7bUmp4xom3geI8bSPuK0tX"
@@ -3178,7 +3236,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 160941,
       "name": "make it work (interlude)",
       "url": "https://open.spotify.com/track/27riDY0FZMGNIrJE3wjAQB"
@@ -3240,7 +3298,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 196182,
       "name": "Masta Plan",
       "url": "https://open.spotify.com/track/29HloLROxM5upDdZwGZNQI"
@@ -3402,7 +3460,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 235453,
       "name": "My Body Says",
       "url": "https://open.spotify.com/track/6h0BrrBxPrdQzgwQGol7HZ"
@@ -3564,7 +3622,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 304274,
       "name": "Night After Night",
       "url": "https://open.spotify.com/track/1XDirGFSQxJOw7Lt37Plfm"
@@ -3629,6 +3687,24 @@
     },
     {
       "album": {
+        "name": "Note To Myself",
+        "url": "https://open.spotify.com/album/1dZvMqXdqPtlWV50cRIlMU"
+      },
+      "artists": [
+        {
+          "name": "Satya",
+          "url": "https://open.spotify.com/artist/3AuLKYl8ryJkeclCUJDniJ"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221048,
+      "name": "Note To Myself",
+      "url": "https://open.spotify.com/track/5gicU7deaXdsF7tY9Ofy7y"
+    },
+    {
+      "album": {
         "name": "Catalyst",
         "url": "https://open.spotify.com/album/3Mdlq7baYKAOflVaIP9Poa"
       },
@@ -3676,7 +3752,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 165584,
       "name": "Once",
       "url": "https://open.spotify.com/track/6dcxUyu84kv5PMl3IEbZOx"
@@ -3784,7 +3860,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 204000,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/6CM6qw4O87GLSeB3QN5qNK"
@@ -3856,7 +3932,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 149803,
       "name": "Piece Of My Soul",
       "url": "https://open.spotify.com/track/3PrKiViu0ABPqPkwkyleGG"
@@ -3896,6 +3972,24 @@
       "duration_ms": 213620,
       "name": "Places and Faces",
       "url": "https://open.spotify.com/track/6vg9aHp38RpVGkJdpqeVvT"
+    },
+    {
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/5hd5OYYmt8n6nkayRVVzqw"
+      },
+      "artists": [
+        {
+          "name": "Noam Peri",
+          "url": "https://open.spotify.com/artist/5jOb4IiotwIkHpg8wyRmzt"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251037,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/3etMVsSrF9XZ4PbZKyvyQj"
     },
     {
       "album": {
@@ -3946,7 +4040,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 141871,
       "name": "Prophecy",
       "url": "https://open.spotify.com/track/52iBXDKJNavmfKcY4eRsgQ"
@@ -4841,6 +4935,24 @@
     },
     {
       "album": {
+        "name": "The Price of Not Being Me",
+        "url": "https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA"
+      },
+      "artists": [
+        {
+          "name": "Donkey Shots",
+          "url": "https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214090,
+      "name": "The Price of Not Being Me",
+      "url": "https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV"
+    },
+    {
+      "album": {
         "name": "The Red Cha Cha",
         "url": "https://open.spotify.com/album/0wBE98iV9c9xym1kQFK5b6"
       },
@@ -4870,10 +4982,28 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 361737,
       "name": "The Thinker And The Prover",
       "url": "https://open.spotify.com/track/3EjFDIbZj4y5VJjW7Jxc9H"
+    },
+    {
+      "album": {
+        "name": "The Voiceless",
+        "url": "https://open.spotify.com/album/4Lq6CpG2nc0wFg6zRXxr4S"
+      },
+      "artists": [
+        {
+          "name": "Purple Microdot",
+          "url": "https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119699,
+      "name": "The Voiceless",
+      "url": "https://open.spotify.com/track/0vbPyXsxrJqxuj6AjiXKaF"
     },
     {
       "album": {
@@ -4946,7 +5076,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 195866,
       "name": "Things We Like",
       "url": "https://open.spotify.com/track/7bBYzIL0ellNkQAwGlSIlF"
@@ -5022,7 +5152,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 121860,
       "name": "TIVE QUE DEIXAR",
       "url": "https://open.spotify.com/track/7FdLjT6wwmPUnAIhNiPrKW"
@@ -5356,7 +5486,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 79670,
       "name": "Warzone",
       "url": "https://open.spotify.com/track/5eoBteAO3WSt6o9f18AVzm"
@@ -5403,6 +5533,24 @@
     },
     {
       "album": {
+        "name": "We're Not Going Back !",
+        "url": "https://open.spotify.com/album/24RpqAI2h0N71yyWZAHjUR"
+      },
+      "artists": [
+        {
+          "name": "Father 2 Son",
+          "url": "https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189350,
+      "name": "We're Not Going Back !",
+      "url": "https://open.spotify.com/track/2ZfUwtNAa1m2pFfbw12P1f"
+    },
+    {
+      "album": {
         "name": "Weary Bones",
         "url": "https://open.spotify.com/album/7z97YXmIhY0l5SOAhThMtv"
       },
@@ -5414,7 +5562,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 234000,
       "name": "Weary Bones",
       "url": "https://open.spotify.com/track/3LVg0NCJWPBNt1470srrpr"
@@ -5646,7 +5794,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 126700,
       "name": "XOX",
       "url": "https://open.spotify.com/track/6NPFMNDnzPigdslFwfXoGm"
@@ -5826,7 +5974,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 230357,
       "name": "\u539f\u4f86\u767c\u73fe",
       "url": "https://open.spotify.com/track/7MNkxlV4Oj4OgEOS0RfQRs"

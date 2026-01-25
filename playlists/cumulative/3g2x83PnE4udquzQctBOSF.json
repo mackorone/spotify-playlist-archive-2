@@ -4489,6 +4489,24 @@
     },
     {
       "album": {
+        "name": "KIBOU",
+        "url": "https://open.spotify.com/album/2U8kyPxMXBQAIWFY4xhZl0"
+      },
+      "artists": [
+        {
+          "name": "KeepNoise",
+          "url": "https://open.spotify.com/artist/6iMok0Y9VLcNLkjuUi3sS9"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362000,
+      "name": "Intercepting",
+      "url": "https://open.spotify.com/track/5rm6erU5lPU9C0c8QXY3K0"
+    },
+    {
+      "album": {
         "name": "Is It Me",
         "url": "https://open.spotify.com/album/1PwT4vLwRrpzOcJlnogRSf"
       },
@@ -6188,6 +6206,24 @@
       "duration_ms": 136960,
       "name": "Only love matters - Part 2 - Tokyo",
       "url": "https://open.spotify.com/track/4TTtutuSdhUSp1VAs60k3U"
+    },
+    {
+      "album": {
+        "name": "Only love matters (Part 3 - New York)",
+        "url": "https://open.spotify.com/album/7xUtGIn5ZYwIGhXfaOCecE"
+      },
+      "artists": [
+        {
+          "name": "Tess Mac Keen",
+          "url": "https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145440,
+      "name": "Only love matters - Part 3 - New York",
+      "url": "https://open.spotify.com/track/2f0WmuM6pBsiqyU7xfCZcm"
     },
     {
       "album": {
@@ -8784,6 +8820,24 @@
       "duration_ms": 215091,
       "name": "Weeping Willow",
       "url": "https://open.spotify.com/track/6yYzEgqwB9rIXKZzEOjBiT"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Game",
+        "url": "https://open.spotify.com/album/4VoWt7lVH7rZAqMqdX5qc0"
+      },
+      "artists": [
+        {
+          "name": "Lumiere",
+          "url": "https://open.spotify.com/artist/3Yty2Yiw88iHcVEyzZSWhj"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178983,
+      "name": "Welcome To The Game - Radio Mix",
+      "url": "https://open.spotify.com/track/3jKNuWPLZyTUixHT8LX1Xm"
     },
     {
       "album": {

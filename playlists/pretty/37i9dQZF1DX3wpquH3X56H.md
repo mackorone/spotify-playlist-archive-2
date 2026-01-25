@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wpquH3X56H.md) - [plain]
 
 > Highlights of 2025 from New Ambient\. Cover: Malibu  🪐
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,964 likes - 75 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,032 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wpquH3X56H.md) - [plain]
 | 65 | [Passing By](https://open.spotify.com/track/1LjJhtaJdQJZ7jPHV94UpH) | [Jelena Ciric](https://open.spotify.com/artist/4o7faE2REjG6dtpfG0Xma2), [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs), [Cécile Lacharme](https://open.spotify.com/artist/5SUhDxwCbqdDO7noz0Ld3c), [Oliver Patrice Weder](https://open.spotify.com/artist/0InzETPzx4u2fVgldqQOcd) | [Tramuntana Tapes I](https://open.spotify.com/album/4x0Ctds3wypaoiUsfG6SSh) | 5:33 |
 | 66 | [Baia Degli Angeli](https://open.spotify.com/track/0xQA9pEx6k6eD3rhuCiJBF) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Baia Degli Angeli](https://open.spotify.com/album/5EQd8vV3AJ6e69taxxvatz) | 4:30 |
 | 67 | [Sonhar](https://open.spotify.com/track/19PpurkVR6rp1eKQHKUL91) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [CLOUDS](https://open.spotify.com/album/5pCLg77KnRu9BplaSEB7sb) | 4:52 |
-| 68 | [As If A Phantom](https://open.spotify.com/track/2Q9b2xSGbf3KxptWbrDSLk) | [Ah! Kosmos](https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD), [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [As If A Phantom](https://open.spotify.com/album/7MlHtNNmVzegLkGK7geVJh) | 3:44 |
+| 68 | [As If a Phantom](https://open.spotify.com/track/2Q9b2xSGbf3KxptWbrDSLk) | [Ah! Kosmos](https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD), [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [As If A Phantom](https://open.spotify.com/album/7MlHtNNmVzegLkGK7geVJh) | 3:44 |
 | 69 | [Alit](https://open.spotify.com/track/5HH5qZJtgtzNn8Xzu6JZwL) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Niilas](https://open.spotify.com/artist/1qAHgylFxv2gU6bXAQEM2P) | [TAKKUUK \(Original Soundtrack\)](https://open.spotify.com/album/60g26elZ1WbA4abG7HvLo7) | 3:16 |
 | 70 | [Lilt](https://open.spotify.com/track/2gd8P00D31fJWs56DEcez1) | [Nico Muhly](https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc), [Andy Clausen](https://open.spotify.com/artist/4NWb3aLeuAifoxB2B4ospX) | [Lilt](https://open.spotify.com/album/66hLIaKEnPaA8BG5w2UUQy) | 3:00 |
 | 71 | [8°C](https://open.spotify.com/track/1dnSI8xGpjtD5vLzUEIIHd) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever the Weather II](https://open.spotify.com/album/6c2tadUprT8mxXulNmZ1dc) | 4:15 |

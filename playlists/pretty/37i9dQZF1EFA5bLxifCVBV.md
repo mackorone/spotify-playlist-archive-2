@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154 likes - 155 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 155 likes - 155 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 30 | [Evelina](https://open.spotify.com/track/2S3aLcCEL2YA4e7NJ75BXc) | [Johnny Mercer](https://open.spotify.com/artist/5cBHm2CXrbncYIDzrxF4Vi) | [The Capitol Vaults Collection](https://open.spotify.com/album/1pQORO53AVvYinNFHJV2nh) | 3:09 |
 | 31 | [Love, Nuts And Noodles](https://open.spotify.com/track/26qNObJ1H20gRDfdr1n7rj) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Great Girl Singers, Sing 22 Original Hits](https://open.spotify.com/album/3SqfrPAdRK1EvTxFvpI4Px) | 2:08 |
 | 32 | [The World is in My Arms \(From Hold On To Your Hats"\) \- 1994 Remastered](https://open.spotify.com/track/1WMGUCAOZkvQIhKx2kVWzG) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG) | [The Song Is You](https://open.spotify.com/album/4Oueg97h9XCM0p5urdChlq) | 3:10 |
-| 33 | [Fancy Meeting You](https://open.spotify.com/track/3jZii636rrBQsii5TXVY1i) | [Blue Barron & His Orchestra](https://open.spotify.com/artist/6eXuANzEDfPG5dHo69H3et), [Charlie Fisher](https://open.spotify.com/artist/33xHRggEtheyESYR6ro72K) | [Blue Barron and His Orchestra, 1938\-41](https://open.spotify.com/album/1GDKu1oxbbdzKahCagGW88) | 2:17 |
+| 33 | [Fancy Meeting You](https://open.spotify.com/track/5qwXnPEyIyRY8Z3m74fwUM) | [Blue Barron & His Orchestra](https://open.spotify.com/artist/6eXuANzEDfPG5dHo69H3et), [Charlie Fisher](https://open.spotify.com/artist/33xHRggEtheyESYR6ro72K) | [The Only Star](https://open.spotify.com/album/3QqDQlb0N8lRaxxDAvgWmU) | 2:17 |
 | 34 | [You Started Something](https://open.spotify.com/track/0wbtEPr28v4IddQRolT1nI) | [Mildred Bailey](https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix) | [Sings..\. Me And The Blues](https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u) | 3:04 |
 | 35 | [I Could Go On Singing \(Till The Cows Come Home\)](https://open.spotify.com/track/4L6ESJK5pTUL8Apb84M3E3) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [I Could Go On Singing](https://open.spotify.com/album/4K3LwY94osMX4P5UrmXI7G) | 5:00 |
 | 36 | [Paris is a Lonely Town](https://open.spotify.com/track/4pGzL03XRZL9OdMSFz9ZGK) | [Kate Baldwin](https://open.spotify.com/artist/7v9S5rwclGrPpm3jdoJcJa) | [Let's See What Happens](https://open.spotify.com/album/4ogteRE8HANS0KjRv4oujr) | 4:35 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 154 | [Telephone Switchboard Scene](https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:24 |
 | 155 | [Inner\-Office Scene](https://open.spotify.com/track/1Gfn9iSf9bsNqUlAUbfeOT) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:26 |
 
-Snapshot ID: `AcHvtgAAAAABNXLKgGrr5cvirwyC1KyB`
+Snapshot ID: `AcH1VgAAAAASCVfa9nhWHn1Ezm41FIZM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Harry Styles, Luis Fonsi & Feid, Ana Mena y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,904 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,916 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 49 | [i see red](https://open.spotify.com/track/3Gg7L1NuNNhqltvDgd6VHI) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [i see red](https://open.spotify.com/album/231uuW018MqyHPEGHHjZ8C) | 2:56 |
 | 50 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 |
 | 51 | [Disappear](https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Greyhound](https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP) | 3:31 |
-| 52 | [\(21\)](https://open.spotify.com/track/3QRE0TlOQ1lj6koi1C7nrU) | [Ferran Palau](https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM) | [](https://open.spotify.com/album/null) | 1:34 |
+| 52 | [\(21\)](https://open.spotify.com/track/3QRE0TlOQ1lj6koi1C7nrU) | [Ferran Palau](https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM) | [Aniversari feliç](https://open.spotify.com/album/1eKDVWe8pGuREq2A55kfjT) | 1:34 |
 | 53 | [Culpable](https://open.spotify.com/track/6P7MCkuSbkxcESvfqkGuhp) | [K\-Narias](https://open.spotify.com/artist/6bwz9tsKnEgaWbwGobFWQR), [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Culpable](https://open.spotify.com/album/0WhkLph3b8R9pmdGkeeXc7) | 2:46 |
 | 54 | [azulado](https://open.spotify.com/track/1rCBfquGNbBOO5IS1K5vhA) | [superreservao](https://open.spotify.com/artist/6AcMrxqogX2HwILuphv5Yq), [Stereo Madness](https://open.spotify.com/artist/41D48OxfIIiKSQJNNr14Jv) | [azulado](https://open.spotify.com/album/4a089nXOoaZzeTpSTgjl38) | 2:34 |
 | 55 | [CONFIANZA](https://open.spotify.com/track/3O05AAgCis4uwv2Xdd13Hk) | [Nico](https://open.spotify.com/artist/7joC7Ig8nDG4yRgRUAFPET) | [PERDEDOR](https://open.spotify.com/album/4f72KB6uVmDWxpjEHwNZL7) | 2:21 |

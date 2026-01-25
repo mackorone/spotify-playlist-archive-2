@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Xande de Pilares
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,115 likes - 75 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,191 likes - 75 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 18 | [Pra Não pensar em Você / Ela é Demais / Dormi na Praça / Só Pensando em Você \- Ao Vivo](https://open.spotify.com/track/4z1sfZeDgQXvih2UhXyiQ0) | [Nossa Galera](https://open.spotify.com/artist/29UB7qJmmqTB1baPqIWaYY) | [Ainda Bem Que Sou da Galera \(Ao Vivo\)](https://open.spotify.com/album/3w5IBSllMF1kgWhghsLBj1) | 6:46 |
 | 19 | [40 Graus De Amor / A Carta / Fica \- Ao Vivo](https://open.spotify.com/track/0hSv3OWLsTtGWTRcAjKMbP) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [MOLHO \(Ao Vivo\)](https://open.spotify.com/album/4oMmPinXoUPTK2snpCWxAy) | 5:27 |
 | 20 | [Meu Jeito Moleque de Ser / Valeu / Tanta Coisa Pra Falar / Ninguém É Dono de Ninguém / Falando Segredo / Deixa Acontecer / Brilho de Cristal \- Ao Vivo](https://open.spotify.com/track/27plsQPIiCjlWfwiDjwTyt) | [Cantor Aguiar](https://open.spotify.com/artist/09skVi8xWyExY1MS1SMQu6), [Renan Oliveira](https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm) | [Meu Jeito Moleque de Ser / Valeu / Tanta Coisa Pra Falar / Ninguém É Dono de Ninguém / Falando Segredo / Deixa Acontecer / Brilho de Cristal \(Ao Vivo\)](https://open.spotify.com/album/5AMKDlgc5H28GYcpMOKWzc) | 10:32 |
-| 21 | [Complicado / Maquiando Sofrimento \- Ao Vivo](https://open.spotify.com/track/6CNp9xmGpG3krmgTcrKPxN) | [Akatu](https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8) | [Rolê Aleatório, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/5cJK8GBoS7j3QKD4o2dEhu) | 3:49 |
+| 21 | [Complicado / Maquiando Sofrimento \- Ao Vivo](https://open.spotify.com/track/6CNp9xmGpG3krmgTcrKPxN) | [Akatu](https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8), [Ronaldinho Gaúcho](https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe), [Paulinho](https://open.spotify.com/artist/4AmuBp9BLbG72YJ15rFpoD) | [Rolê Aleatório, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/5cJK8GBoS7j3QKD4o2dEhu) | 3:49 |
 | 22 | [Reinventar / Pra Ver o Sol Brilhar \- Ao Vivo](https://open.spotify.com/track/67hKgDUbY3ktUK241L94d7) | [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Belo \- 10 Anos de Sucesso \(Deluxe\)](https://open.spotify.com/album/2s5GAaP1y8Jw4QXvqc7r6a) | 5:59 |
 | 23 | [Engano / Diz Que Quer Ficar / Amar Você \- Ao Vivo](https://open.spotify.com/track/1MMZ7oNHMGrKyW7b5VkMTL) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Maroto As Antigas \- Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/6bp0caW2RBmlCqC5k52EJw) | 7:16 |
 | 24 | [Nosso Lance / No Meu Olhar / Uma Estrela \- Ao Vivo](https://open.spotify.com/track/3w9ZpncSzPhqcW3xq7e1ST) | [Samba da Ladeira](https://open.spotify.com/artist/0IB2uaFC6Xm2I9VSaUlesk) | [Samba da Ladeira \(Ao Vivo\)](https://open.spotify.com/album/3kXFjarRTF0HDevJfahQgP) | 5:39 |

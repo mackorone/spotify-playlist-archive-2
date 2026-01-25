@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. ",
-  "num_followers": 119939,
+  "num_followers": 119992,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-01-23 05:00:32",
       "album": {
+        "name": "night signs (space calling)",
+        "url": "https://open.spotify.com/album/3yN5MYrLdYhC0poatfc0cl"
+      },
+      "artists": [
+        {
+          "name": "Uppermost",
+          "url": "https://open.spotify.com/artist/58UpHBCQ1Jj67DJsR7Qyqg"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "night signs (space calling)",
+      "url": "https://open.spotify.com/track/0cSrbC2tLzHc5F0hjvl6WR"
+    },
+    {
+      "added_at": "2026-01-23 05:00:32",
+      "album": {
         "name": "RITUAL",
         "url": "https://open.spotify.com/album/40hWUhttLF6j8feHjbF0g7"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 461056,
       "name": "part ii - palace / illusion",
       "url": "https://open.spotify.com/track/2Ye7Gj8uWD5FpEqWTMclWq"
-    },
-    {
-      "added_at": "2026-01-23 05:00:32",
-      "album": {
-        "name": "night signs (space calling)",
-        "url": "https://open.spotify.com/album/3yN5MYrLdYhC0poatfc0cl"
-      },
-      "artists": [
-        {
-          "name": "Uppermost",
-          "url": "https://open.spotify.com/artist/58UpHBCQ1Jj67DJsR7Qyqg"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "night signs (space calling)",
-      "url": "https://open.spotify.com/track/0cSrbC2tLzHc5F0hjvl6WR"
     },
     {
       "added_at": "2026-01-23 05:00:32",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-01-23 05:00:32",
       "album": {
-        "name": "Psychic Geography",
-        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
-      },
-      "artists": [
-        {
-          "name": "DOVS",
-          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
-        }
-      ],
-      "duration_ms": 218193,
-      "name": "Plants",
-      "url": "https://open.spotify.com/track/249vaomDI0QnrJlT5oqAtp"
-    },
-    {
-      "added_at": "2026-01-23 05:00:32",
-      "album": {
         "name": "HomeSoon",
         "url": "https://open.spotify.com/album/1uoyioN7yCRAUoVpgZQHHD"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 267500,
       "name": "Catsu",
       "url": "https://open.spotify.com/track/0lbQaP751MUEVtK0F4A43C"
+    },
+    {
+      "added_at": "2026-01-23 05:00:32",
+      "album": {
+        "name": "Psychic Geography",
+        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
+      },
+      "artists": [
+        {
+          "name": "DOVS",
+          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
+        }
+      ],
+      "duration_ms": 218193,
+      "name": "Plants",
+      "url": "https://open.spotify.com/track/249vaomDI0QnrJlT5oqAtp"
     },
     {
       "added_at": "2026-01-23 05:00:32",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-01-23 05:00:32",
       "album": {
-        "name": "Nova",
-        "url": "https://open.spotify.com/album/2kseeZVin6wA2vOCOmWlr9"
-      },
-      "artists": [
-        {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
-        }
-      ],
-      "duration_ms": 355182,
-      "name": "Nova",
-      "url": "https://open.spotify.com/track/3hLfifIpMTrw1VKqfcBhGa"
-    },
-    {
-      "added_at": "2026-01-23 05:00:32",
-      "album": {
         "name": "BLCK SUN",
         "url": "https://open.spotify.com/album/3xTbtTM3BSRIGxzWSMaEpc"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 72296,
       "name": "Outer Currents",
       "url": "https://open.spotify.com/track/1ey3a7YdSqk6jMPKoqaWSB"
+    },
+    {
+      "added_at": "2026-01-23 05:00:32",
+      "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/2kseeZVin6wA2vOCOmWlr9"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "duration_ms": 355182,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/3hLfifIpMTrw1VKqfcBhGa"
     },
     {
       "added_at": "2026-01-23 05:00:32",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-01-23 05:00:32",
       "album": {
-        "name": "D\u00cdA",
-        "url": "https://open.spotify.com/album/39g8mTcJfSFimjIqtMxGJB"
-      },
-      "artists": [
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 312282,
-      "name": "ABRIR MONTE",
-      "url": "https://open.spotify.com/track/7npn0mfuaUUNcrrVBsOEib"
-    },
-    {
-      "added_at": "2026-01-23 05:00:32",
-      "album": {
         "name": "A Necessary Escape (Part 2)",
         "url": "https://open.spotify.com/album/2eIzRLE2sKmMRTz8nvBoRH"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 503200,
       "name": "A Necessary Escape (Part 2)",
       "url": "https://open.spotify.com/track/2kHPwzW058WyLdT1I81pTd"
+    },
+    {
+      "added_at": "2026-01-23 05:00:32",
+      "album": {
+        "name": "D\u00cdA",
+        "url": "https://open.spotify.com/album/39g8mTcJfSFimjIqtMxGJB"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "duration_ms": 312282,
+      "name": "ABRIR MONTE",
+      "url": "https://open.spotify.com/track/7npn0mfuaUUNcrrVBsOEib"
     },
     {
       "added_at": "2026-01-23 05:00:32",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-01-23 05:00:32",
       "album": {
-        "name": "Albadas (Dawn Songs)",
-        "url": "https://open.spotify.com/album/1pY3KKSEQZCBSp6PSdaJ5z"
-      },
-      "artists": [
-        {
-          "name": "SOHN",
-          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
-        }
-      ],
-      "duration_ms": 276642,
-      "name": "Timelapse",
-      "url": "https://open.spotify.com/track/3VfQoHA8p4aMcdHlyiTmRQ"
-    },
-    {
-      "added_at": "2026-01-23 05:00:32",
-      "album": {
         "name": "Apertura",
         "url": "https://open.spotify.com/album/2U5BcONxBbrBG6V8ro4AjM"
       },
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2026-01-23 05:00:32",
       "album": {
+        "name": "Albadas (Dawn Songs)",
+        "url": "https://open.spotify.com/album/1pY3KKSEQZCBSp6PSdaJ5z"
+      },
+      "artists": [
+        {
+          "name": "SOHN",
+          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+        }
+      ],
+      "duration_ms": 276642,
+      "name": "Timelapse",
+      "url": "https://open.spotify.com/track/3VfQoHA8p4aMcdHlyiTmRQ"
+    },
+    {
+      "added_at": "2026-01-23 05:00:32",
+      "album": {
         "name": "Selected Ambient Works Volume II (Expanded Edition)",
         "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
       },
@@ -1387,26 +1387,6 @@
       "duration_ms": 414706,
       "name": "#9",
       "url": "https://open.spotify.com/track/5ENGMUqWPZN1vTtk1bWOmA"
-    },
-    {
-      "added_at": "2026-01-23 05:00:32",
-      "album": {
-        "name": "Windmills (Salamanda Remix)",
-        "url": "https://open.spotify.com/album/40cal5z6ThtaqoTlOGic4t"
-      },
-      "artists": [
-        {
-          "name": "Anchorsong",
-          "url": "https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh"
-        },
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Windmills - Salamanda Remix",
-      "url": "https://open.spotify.com/track/2OED5zZJw9gNHeZWwm5wLg"
     },
     {
       "added_at": "2026-01-23 05:00:32",
@@ -1439,6 +1419,26 @@
       "duration_ms": 175664,
       "name": "Summer's End",
       "url": "https://open.spotify.com/track/1fZwS0OsBZyJMFnjzuLqxm"
+    },
+    {
+      "added_at": "2026-01-23 05:00:32",
+      "album": {
+        "name": "Windmills (Salamanda Remix)",
+        "url": "https://open.spotify.com/album/40cal5z6ThtaqoTlOGic4t"
+      },
+      "artists": [
+        {
+          "name": "Anchorsong",
+          "url": "https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh"
+        },
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Windmills - Salamanda Remix",
+      "url": "https://open.spotify.com/track/2OED5zZJw9gNHeZWwm5wLg"
     },
     {
       "added_at": "2026-01-23 05:00:32",
@@ -1545,7 +1545,7 @@
         }
       ],
       "duration_ms": 224000,
-      "name": "As If A Phantom",
+      "name": "As If a Phantom",
       "url": "https://open.spotify.com/track/2Q9b2xSGbf3KxptWbrDSLk"
     },
     {
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2026-01-23 05:00:32",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/4QJJWfZ6RR9HDb7jfXkbAM"
-      },
-      "artists": [
-        {
-          "name": "Purelink",
-          "url": "https://open.spotify.com/artist/2kUrBcfh7PVIivyYGAVjrQ"
-        },
-        {
-          "name": "Angelina Nonaj",
-          "url": "https://open.spotify.com/artist/38YScFLmuyYC1FaMq7JLZ0"
-        }
-      ],
-      "duration_ms": 342315,
-      "name": "First Iota",
-      "url": "https://open.spotify.com/track/3AtQVSQIZ6xd1x5q3PRA46"
-    },
-    {
-      "added_at": "2026-01-23 05:00:32",
-      "album": {
         "name": "Apofanie",
         "url": "https://open.spotify.com/album/6mDeROE5QTMtx2tmmBSDfX"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 212626,
       "name": "Yellowed Leaves Drift Down",
       "url": "https://open.spotify.com/track/4Hjvdc6ikX3vqok41B30cB"
+    },
+    {
+      "added_at": "2026-01-23 05:00:32",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/4QJJWfZ6RR9HDb7jfXkbAM"
+      },
+      "artists": [
+        {
+          "name": "Purelink",
+          "url": "https://open.spotify.com/artist/2kUrBcfh7PVIivyYGAVjrQ"
+        },
+        {
+          "name": "Angelina Nonaj",
+          "url": "https://open.spotify.com/artist/38YScFLmuyYC1FaMq7JLZ0"
+        }
+      ],
+      "duration_ms": 342315,
+      "name": "First Iota",
+      "url": "https://open.spotify.com/track/3AtQVSQIZ6xd1x5q3PRA46"
     },
     {
       "added_at": "2026-01-23 05:00:32",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2026-01-23 05:00:32",
       "album": {
+        "name": "Under the Sun",
+        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
+      },
+      "artists": [
+        {
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+        }
+      ],
+      "duration_ms": 477048,
+      "name": "Analemma",
+      "url": "https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch"
+    },
+    {
+      "added_at": "2026-01-23 05:00:32",
+      "album": {
         "name": "Under Certain Light and Atmospheric Conditions",
         "url": "https://open.spotify.com/album/3UyxyRA9ttOK2hnnNlccBb"
       },
@@ -1899,38 +1915,6 @@
     {
       "added_at": "2026-01-23 05:00:32",
       "album": {
-        "name": "Under the Sun",
-        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
-      },
-      "artists": [
-        {
-          "name": "Maya Shenfeld",
-          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
-        }
-      ],
-      "duration_ms": 477048,
-      "name": "Analemma",
-      "url": "https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch"
-    },
-    {
-      "added_at": "2026-01-23 05:00:32",
-      "album": {
-        "name": "Tintswalo / Falling",
-        "url": "https://open.spotify.com/album/7ml6sBkaqksNLKSXD3fmuV"
-      },
-      "artists": [
-        {
-          "name": "Ad Harmonium",
-          "url": "https://open.spotify.com/artist/1g7VyJCBjTqlrvaUwvvlJl"
-        }
-      ],
-      "duration_ms": 209563,
-      "name": "Tintswalo",
-      "url": "https://open.spotify.com/track/1eAY1UPhUCXUiKsP5RXopE"
-    },
-    {
-      "added_at": "2026-01-23 05:00:32",
-      "album": {
         "name": "Lust 1",
         "url": "https://open.spotify.com/album/18CnHf7xCMDu6Xmk7lpu2L"
       },
@@ -1951,22 +1935,6 @@
     {
       "added_at": "2026-01-23 05:00:32",
       "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/4iJMewsgF0ynzFefgvvvfI"
-      },
-      "artists": [
-        {
-          "name": "Christopher Willits",
-          "url": "https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA"
-        }
-      ],
-      "duration_ms": 210002,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/66DjOnSQm4K3698zbfTuIz"
-    },
-    {
-      "added_at": "2026-01-23 05:00:32",
-      "album": {
         "name": "T\u1ebft 41",
         "url": "https://open.spotify.com/album/4uGqtqNsXFQYJIbwtbz38n"
       },
@@ -1979,6 +1947,38 @@
       "duration_ms": 319554,
       "name": "Gi\u00f3",
       "url": "https://open.spotify.com/track/2GgCsGOywZonT5FG2Ip0uC"
+    },
+    {
+      "added_at": "2026-01-23 05:00:32",
+      "album": {
+        "name": "Tintswalo / Falling",
+        "url": "https://open.spotify.com/album/7ml6sBkaqksNLKSXD3fmuV"
+      },
+      "artists": [
+        {
+          "name": "Ad Harmonium",
+          "url": "https://open.spotify.com/artist/1g7VyJCBjTqlrvaUwvvlJl"
+        }
+      ],
+      "duration_ms": 209563,
+      "name": "Tintswalo",
+      "url": "https://open.spotify.com/track/1eAY1UPhUCXUiKsP5RXopE"
+    },
+    {
+      "added_at": "2026-01-23 05:00:32",
+      "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/4iJMewsgF0ynzFefgvvvfI"
+      },
+      "artists": [
+        {
+          "name": "Christopher Willits",
+          "url": "https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA"
+        }
+      ],
+      "duration_ms": 210002,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/66DjOnSQm4K3698zbfTuIz"
     },
     {
       "added_at": "2026-01-23 05:00:32",
@@ -2511,22 +2511,6 @@
     {
       "added_at": "2026-01-23 05:00:32",
       "album": {
-        "name": "A New Life",
-        "url": "https://open.spotify.com/album/25GytFPwqK2zbCo5hMrs4l"
-      },
-      "artists": [
-        {
-          "name": "Florian T M Zeisig",
-          "url": "https://open.spotify.com/artist/6ufIfvoo0cRpP8v0XAG6dv"
-        }
-      ],
-      "duration_ms": 104000,
-      "name": "Earth Loop",
-      "url": "https://open.spotify.com/track/2JSld8pCWOocc1SHrIzH2F"
-    },
-    {
-      "added_at": "2026-01-23 05:00:32",
-      "album": {
         "name": "Information - EP",
         "url": "https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw"
       },
@@ -2539,6 +2523,22 @@
       "duration_ms": 330673,
       "name": "Cycles",
       "url": "https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i"
+    },
+    {
+      "added_at": "2026-01-23 05:00:32",
+      "album": {
+        "name": "A New Life",
+        "url": "https://open.spotify.com/album/25GytFPwqK2zbCo5hMrs4l"
+      },
+      "artists": [
+        {
+          "name": "Florian T M Zeisig",
+          "url": "https://open.spotify.com/artist/6ufIfvoo0cRpP8v0XAG6dv"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Earth Loop",
+      "url": "https://open.spotify.com/track/2JSld8pCWOocc1SHrIzH2F"
     },
     {
       "added_at": "2026-01-23 05:00:32",

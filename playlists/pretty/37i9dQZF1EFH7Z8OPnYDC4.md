@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 630 likes - 327 songs - 19 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 631 likes - 327 songs - 19 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 42 | [The Dance](https://open.spotify.com/track/1ftCPj0yiXuhKmsu2H6BdX) | [Janie Becker](https://open.spotify.com/artist/26xjUgOzKqBTOu0Yt1CVtE) | [Forever Friends](https://open.spotify.com/album/4KZq9nqoQ3HbUIGVA9HaVa) | 3:14 |
 | 43 | [Wait 'Till You See Him](https://open.spotify.com/track/3UiVOSQ8iFw8xIdaogXsSe) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Movin' With Nancy](https://open.spotify.com/album/5iiFf9TUtdMZOP0atl9gnJ) | 2:06 |
 | 44 | [Blue Room \- Take 2](https://open.spotify.com/track/1ueS3LNe63cdkK0boxwEJQ) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Davis And Horns](https://open.spotify.com/album/2EVuUPzrGCa5NvPD3h2SBA) | 3:00 |
-| 45 | [My Heart Stood Still](https://open.spotify.com/track/6ZYmUVMVi9PMSmyTrKv7gV) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 3:26 |
-| 46 | [Some Enchanted Evening](https://open.spotify.com/track/6PYTpG0kZyUU2V9ynjeErs) | [The Castells](https://open.spotify.com/artist/6DkVBNgQMSVLTQa7OUhMno) | [So This Is Love](https://open.spotify.com/album/07Q8pChv7fwnboS1lJlFsv) | 2:32 |
+| 45 | [Some Enchanted Evening](https://open.spotify.com/track/6PYTpG0kZyUU2V9ynjeErs) | [The Castells](https://open.spotify.com/artist/6DkVBNgQMSVLTQa7OUhMno) | [So This Is Love](https://open.spotify.com/album/07Q8pChv7fwnboS1lJlFsv) | 2:32 |
+| 46 | [My Heart Stood Still](https://open.spotify.com/track/6PKVLzMSxfTdQVMrTONruK) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker Moonlight & Romance: The Jazz Ballads Collection](https://open.spotify.com/album/1VE5728Nm3mFx96y3MtuBP) | 3:28 |
 | 47 | [Happy Talk](https://open.spotify.com/track/7ahQIRq0EOeY9UYVvABDFp) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Sweet](https://open.spotify.com/artist/0GMf8b501ogU3obivaslNF) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 2:25 |
 | 48 | [Oklahoma \- From "Oklahoma!" Soundtrack](https://open.spotify.com/track/4VdZPkoW0cNrhZHK7Xhh3m) | [Gordon MacRae](https://open.spotify.com/artist/3dvIPsJH7o9xnBwFxowzof), [Charlotte Greenwood](https://open.spotify.com/artist/1D67yo8KRNdrSM6GN7Ldev), [Shirley Jones](https://open.spotify.com/artist/5ho7ydLm2qjRD4oeva5Sok), [Darcy M\. Proper](https://open.spotify.com/artist/2LaIJDDpfnZ333bEuONwtJ) | [Oklahoma! \(Expanded Edition/Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Wg4qjJy5oNbhJ2p5JC3P8) | 3:16 |
 | 49 | [Glad To Be Unhappy \- Remastered 1998](https://open.spotify.com/track/0nyElOCpUSqLyzg1cD6dQe) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [In The Wee Small Hours](https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX) | 2:35 |
@@ -336,4 +336,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 326 | [I Can Do Wonders with You](https://open.spotify.com/track/4K5mjacswcVXXu7EQcnWD3) | [Harold "Scrappy" Lambert](https://open.spotify.com/artist/4Ia4tLsFNJlCd9y2Gv1fhD) | [Top 100 Classics \- The Very Best of Harold 'Scrappy'Lambert](https://open.spotify.com/album/4PkdJTJNLUMn3HyIdUQ0GH) | 2:38 |
 | 327 | [Revelation](https://open.spotify.com/track/7eGf0QpxsG6Emm0QoS332z) | [Lionel Newman](https://open.spotify.com/artist/2MBYO70OYRtFMIsocitWxt), [His Orchestra](https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO) | [The View from Pompey's Head \(Music from the Original 1955 Motion Picture Soundtrack\)](https://open.spotify.com/album/1ANQab0F7gyz4Pu9SM0QBk) | 1:31 |
 
-Snapshot ID: `AcHvmAAAAAA/QwNPLIe/zmA7tJGhODFC`
+Snapshot ID: `AcH1dAAAAACdbzVofQIUkWmJgUlxKWKR`

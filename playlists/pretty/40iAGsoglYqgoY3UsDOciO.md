@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 576 likes - 466 songs - 22 hr 43 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 578 likes - 467 songs - 22 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -474,5 +474,6 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 464 | [FUNNY BOY](https://open.spotify.com/track/7wKO3nIpTor5rpXiFsEJcS) | [Snshnee!](https://open.spotify.com/artist/56gNeCXGXTX5RQxC586Ein) | [FUNNY BOY](https://open.spotify.com/album/6vgQ2HD9oB4FOit7sTF21w) | 2:58 |
 | 465 | [Smooth Operator](https://open.spotify.com/track/2jg0rXK2K9n3FvHNW6j6IT) | [Sir Gladis](https://open.spotify.com/artist/0LEqbOy9JAIvDyHePlaI19) | [Smooth Operator](https://open.spotify.com/album/4GtTnxqgc0yeMmlWOkf6LH) | 4:52 |
 | 466 | [What Happens When We Die?](https://open.spotify.com/track/0vzSRZuwogXh11G498bQW3) | [Tommy Snow](https://open.spotify.com/artist/7MD1sZsn15FxxsklgG5bNq) | [What Happens When We Die?](https://open.spotify.com/album/6o2z2D5mjubKDzXvkrfwaj) | 4:32 |
+| 467 | [JANE GOODALL](https://open.spotify.com/track/0zdrvHfEwtIEB5McVRw9XP) | [Rolo](https://open.spotify.com/artist/7KGGo3dYH0hGs2JWllqI1I) | [JANE GOODALL](https://open.spotify.com/album/2qIQggwIpzjsP0k7tsG7SY) | 1:33 |
 
-Snapshot ID: `AAABcvjd40swcjb0lQrwszuUutWoYAcu`
+Snapshot ID: `AAABc1UtLabe6nTzrBj5bHd2HbrHBTOG`

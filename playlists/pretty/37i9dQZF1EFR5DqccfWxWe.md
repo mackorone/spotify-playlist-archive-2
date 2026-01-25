@@ -134,8 +134,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 124 | [Sin Desesperar](https://open.spotify.com/track/36QnGKXSouI4ZSm3bMqBOV) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 4:02 |
 | 125 | [En El Teatro](https://open.spotify.com/track/2h5lbaq6Ge7rcJGrijc4UU) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 1:48 |
 | 126 | [A Las Puertas De La Iglesia](https://open.spotify.com/track/35Zpm55ZZI8qKdvACIBwBk) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 0:56 |
-| 127 | [Duele](https://open.spotify.com/track/0gHZUccB2wIEYfhHMUl5og) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 3:31 |
-| 128 | [Encanto del Caribe](https://open.spotify.com/track/7BcNEb9jJWwEUQpzhmYPPb) | [DCO](https://open.spotify.com/artist/3m8kUt4fTVDHnafKhS66AZ) | [Playas de Ensueño](https://open.spotify.com/album/31E3FJeD3mPINXJu4kXpVD) | 3:14 |
+| 127 | [Encanto del Caribe](https://open.spotify.com/track/7BcNEb9jJWwEUQpzhmYPPb) | [DCO](https://open.spotify.com/artist/3m8kUt4fTVDHnafKhS66AZ) | [Playas de Ensueño](https://open.spotify.com/album/31E3FJeD3mPINXJu4kXpVD) | 3:14 |
+| 128 | [Duele](https://open.spotify.com/track/0gHZUccB2wIEYfhHMUl5og) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 3:31 |
 | 129 | [Paris](https://open.spotify.com/track/5JVBQ9jsFf24QXfMfj6DIC) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 1:20 |
 | 130 | [El Mundo](https://open.spotify.com/track/1zJ1IQfeh61HHyXBpdpYie) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 0:36 |
 | 131 | [This Journey](https://open.spotify.com/track/2OriirufgULnvbXCYmhaEo) | [Joy](https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1) | [This Journey](https://open.spotify.com/album/7C7zpfYwyXRIePtqkW8RHO) | 2:12 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 153 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 | 154 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 
-Snapshot ID: `AcHvmAAAAABIfP/2Z+dDaigMGLgwQPE0`
+Snapshot ID: `AcH1dAAAAAA3XBaWguBmUdS7uN9ljzV5`

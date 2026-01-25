@@ -308,7 +308,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 253573,
       "name": "A Woman Who Knows (The Remix) OG Version",
       "url": "https://open.spotify.com/track/0346JR2DwNUbIrsyuCU4Y5"
@@ -504,7 +504,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 181904,
       "name": "Alchemy to Freedom",
       "url": "https://open.spotify.com/track/7hlb3T2jclkNx7Jbvmb6HX"
@@ -602,7 +602,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 191535,
       "name": "All of Us",
       "url": "https://open.spotify.com/track/49IUzHwGOrgT0X300VgiHR"
@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 212736,
       "name": "Believe",
       "url": "https://open.spotify.com/track/312rbCNeRRiHT0RrZp3Ioq"
@@ -3433,24 +3433,6 @@
     },
     {
       "album": {
-        "name": "Deep Sleep Music | 432Hz",
-        "url": "https://open.spotify.com/album/2i7vlIiUTTdkiEXX5YdGiM"
-      },
-      "artists": [
-        {
-          "name": "Wonder music",
-          "url": "https://open.spotify.com/artist/11izIEX9VvMQiN6Fe4xDtu"
-        }
-      ],
-      "date_added": "2026-01-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 384031,
-      "name": "Deep Sleep Music | 432Hz",
-      "url": "https://open.spotify.com/track/2NDu2m72Krt5D62gVHjDDU"
-    },
-    {
-      "album": {
         "name": "Delay",
         "url": "https://open.spotify.com/album/6tfhd6qt2y9QhbBaOQeq8N"
       },
@@ -3946,7 +3928,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 202959,
       "name": "Dopamine - D&B remix",
       "url": "https://open.spotify.com/track/2tM2tOb42IOBULtAN0nz9i"
@@ -5328,7 +5310,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 185258,
       "name": "Flying Through The Clouds",
       "url": "https://open.spotify.com/track/6Lijd7tSSOd5IOVnAfAX14"
@@ -6034,6 +6016,24 @@
       "duration_ms": 174879,
       "name": "Golden Tears",
       "url": "https://open.spotify.com/track/0lGKrAxNFwJfVD6hme01Hj"
+    },
+    {
+      "album": {
+        "name": "gone",
+        "url": "https://open.spotify.com/album/4YxAKRZucW7SnqBd72F44f"
+      },
+      "artists": [
+        {
+          "name": "Oblivyus",
+          "url": "https://open.spotify.com/artist/4SJZ4N7pzgJlTEqITA8XVz"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130572,
+      "name": "gone",
+      "url": "https://open.spotify.com/track/2SaRtMZKed69pFKQeJRfmU"
     },
     {
       "album": {
@@ -7436,7 +7436,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 125901,
       "name": "In Nocte Sancta, op. I",
       "url": "https://open.spotify.com/track/1mOdkJomXHqUalo5yqaoAI"
@@ -8888,6 +8888,24 @@
       "duration_ms": 159839,
       "name": "Lost",
       "url": "https://open.spotify.com/track/1yKihJxFtboexQlXjbxCfz"
+    },
+    {
+      "album": {
+        "name": "lost",
+        "url": "https://open.spotify.com/album/56aj7KP4QwzUj8exPHRK2x"
+      },
+      "artists": [
+        {
+          "name": "TJFBTZ",
+          "url": "https://open.spotify.com/artist/3urkBSdYAEucrKphqPBLJ5"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "lost",
+      "url": "https://open.spotify.com/track/4jTvTA6CtbTGgN1BvalEae"
     },
     {
       "album": {
@@ -11513,6 +11531,24 @@
     },
     {
       "album": {
+        "name": "Outer Reach",
+        "url": "https://open.spotify.com/album/2i7vlIiUTTdkiEXX5YdGiM"
+      },
+      "artists": [
+        {
+          "name": "Wonder music",
+          "url": "https://open.spotify.com/artist/11izIEX9VvMQiN6Fe4xDtu"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384031,
+      "name": "Outer Reach",
+      "url": "https://open.spotify.com/track/2NDu2m72Krt5D62gVHjDDU"
+    },
+    {
+      "album": {
         "name": "Romance and Ramblin'",
         "url": "https://open.spotify.com/album/2C7HaC8hTdm9VHAtksCk5j"
       },
@@ -13285,6 +13321,24 @@
     },
     {
       "album": {
+        "name": "Say My Name Louder",
+        "url": "https://open.spotify.com/album/5MErdAWMFAjP7J6Z2FxY0p"
+      },
+      "artists": [
+        {
+          "name": "Reyzalla",
+          "url": "https://open.spotify.com/artist/1GDg9eSEuaf2DR4zwuAQZE"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196144,
+      "name": "Say My Name Louder",
+      "url": "https://open.spotify.com/track/09nAnHvmzceMBwj2o6Er3y"
+    },
+    {
+      "album": {
         "name": "Scatter My Ashes",
         "url": "https://open.spotify.com/album/1yVJZGdPgZhomTM16mjBnA"
       },
@@ -14633,6 +14687,24 @@
     },
     {
       "album": {
+        "name": "submerged",
+        "url": "https://open.spotify.com/album/4tIEYgYE2Au5WwScjqabX2"
+      },
+      "artists": [
+        {
+          "name": "3one",
+          "url": "https://open.spotify.com/artist/3c3wnuthee73iDayBep9Th"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188051,
+      "name": "submerged",
+      "url": "https://open.spotify.com/track/4tVKwI5pbW2OctxqIYrHp2"
+    },
+    {
+      "album": {
         "name": "Success",
         "url": "https://open.spotify.com/album/6HXv3wCAfiXUve0Ja7sjwk"
       },
@@ -14764,6 +14836,24 @@
       "duration_ms": 138504,
       "name": "Sweet and Warm",
       "url": "https://open.spotify.com/track/7rPWCnLMoX9RLxMgttcfjU"
+    },
+    {
+      "album": {
+        "name": "Sweet Bagpacker Life",
+        "url": "https://open.spotify.com/album/3LcTEHWEg45Ym9k6T2atZv"
+      },
+      "artists": [
+        {
+          "name": "BjeeerG",
+          "url": "https://open.spotify.com/artist/2cFV22JYL7Bu1einSKmCMG"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195839,
+      "name": "Sweet Bagpacker Life",
+      "url": "https://open.spotify.com/track/4fqrNAG8dUoLWxuWPb4Apv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-279 songs - 16 hr 26 min
+280 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Lot More Free](https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:18 | 2024-11-08 | 2025-02-21 |
 | [About Heartaches And Being Blue](https://open.spotify.com/track/6L9HQyvVHToVbjtXMjJqxw) | [Timo de Jong](https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x) | [About Heartaches And Being Blue](https://open.spotify.com/album/3br2mgNzpyHDkqpqTyINuG) | 2:33 | 2025-02-27 | 2025-03-14 |
 | [Aiming High](https://open.spotify.com/track/2awmxdY36BxGuK80wxHIFE) | [Quinty van der Geest](https://open.spotify.com/artist/2A2lTcBiJUYRfbMVtdtwW2) | [Aiming High](https://open.spotify.com/album/1oTL2vaBXveBK8KbrOfbzY) | 3:21 | 2025-02-20 | 2025-05-16 |
-| [Ain't Got Much](https://open.spotify.com/track/47r812zfBQ4Y9zU2etcurT) | [Laszlo Buring](https://open.spotify.com/artist/6kbW02tas61aq5jleDU4kz) | [Wild One](https://open.spotify.com/album/2BfGsBUD1wumwqxcYa7KgO) | 3:42 | 2025-12-18 |  |
+| [Ain't Got Much](https://open.spotify.com/track/47r812zfBQ4Y9zU2etcurT) | [Laszlo Buring](https://open.spotify.com/artist/6kbW02tas61aq5jleDU4kz) | [Wild One](https://open.spotify.com/album/2BfGsBUD1wumwqxcYa7KgO) | 3:42 | 2025-12-18 | 2026-01-25 |
 | [Ain't No Running Around It](https://open.spotify.com/track/5AER6dbu2vF5W1fI8lcpoX) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Nomden](https://open.spotify.com/artist/3gcuehaPKk7YQiNG19k4fX) | [Ain't No Running Around It](https://open.spotify.com/album/4s7TyXJR2VHbobDIIp1JjE) | 2:52 | 2025-11-06 |  |
 | [All Behind](https://open.spotify.com/track/0zqTjVEqt6YsLG1DwLWW9E) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [All Behind](https://open.spotify.com/album/3Vtcyh9oWdZtNFrikeONaZ) | 4:05 | 2025-09-15 |  |
 | [All Good](https://open.spotify.com/track/51imPDYWGqCNEA94TsBHhS) | [Tip Jar](https://open.spotify.com/artist/0efqZTMypVgrLzEb7syIOT) | [All Good](https://open.spotify.com/album/5FWV48bFKI7v4vWEPN7x2t) | 3:06 | 2024-07-25 | 2025-01-17 |
@@ -93,6 +93,7 @@
 | [Frozen \- Live from Best of Pop](https://open.spotify.com/track/2ALhSY3Su4JB7vXJUORY34) | [Yori](https://open.spotify.com/artist/0Bwzh9IY161vYCi4pAT02u) | [Frozen \(Live from Best of Pop\)](https://open.spotify.com/album/3akNEfhr26BayeUYvZHhnk) | 2:57 | 2025-06-26 |  |
 | [Frozen In Time](https://open.spotify.com/track/7qoc1IZ1k6FXlF5KrPqAXe) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Frozen In Time](https://open.spotify.com/album/2Xd0nXYllq7usaXQ99UXlA) | 2:58 | 2023-10-05 | 2023-10-31 |
 | [Fruits Of My Labor](https://open.spotify.com/track/3Un8AiGf6AmPY5YGzdrzJP) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Fruits Of My Labor](https://open.spotify.com/album/5f8FA5nXO3K4idqU1mAFuO) | 3:36 | 2023-11-02 | 2025-01-19 |
+| [Get It Right](https://open.spotify.com/track/4eycOJZ9ofGW7iqm1QEaDJ) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Get It Right](https://open.spotify.com/album/6qHejAKDb0fEkUvAax5nHs) | 2:52 | 2026-01-22 |  |
 | [Going Home](https://open.spotify.com/track/79Y9I1GYMaNEfVwEDmWh28) | [Robbert Duijf](https://open.spotify.com/artist/479RX3LATApuM30lH2cemD), [Maud Knubben](https://open.spotify.com/artist/109tzSrdsNx4IQJvJBTRXV) | [Dangers Mood](https://open.spotify.com/album/2vwbTmsYqcMqePxrfPRV4z) | 3:12 | 2023-04-27 | 2023-09-01 |
 | [Gold Dust Woman](https://open.spotify.com/track/1FH9iCgUtZXnwodYzahivh) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Gold Dust Woman](https://open.spotify.com/album/1jvxRIDR1nCdEw13R9Pv0S) | 3:00 | 2023-12-01 | 2025-01-18 |
 | [Gone Forever](https://open.spotify.com/track/0tRQcoSBhl4GUjc2EKs9UG) | [INA ROSE](https://open.spotify.com/artist/19ehJM5qKnIvJ1KXOnKddA) | [Gone Forever](https://open.spotify.com/album/5XKSg6lZFs45iry4wkRqvq) | 3:27 | 2024-09-26 | 2024-11-09 |

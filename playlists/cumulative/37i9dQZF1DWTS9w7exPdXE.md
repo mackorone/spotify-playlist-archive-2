@@ -4,7 +4,7 @@
 
 > Volkspop \| Nederpop\. Cover: Yves Berendse
 
-110 songs - 5 hr 48 min
+111 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,9 +62,10 @@
 | [Jaren Komen Jaren Gaan](https://open.spotify.com/track/3BkY8cZl5V6MFxQAxtLTQm) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Jaren Komen Jaren Gaan](https://open.spotify.com/album/7yU1N9FEEjeWxlDoeF9RVe) | 2:53 | 2025-06-06 |  |
 | [Je Raakt Me Zo](https://open.spotify.com/track/0RTUDjc3FeUaMQ6LOSA2c9) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy) | [Je Raakt Me Zo](https://open.spotify.com/album/3RMEpViH3YM1O2UnuRzyOt) | 3:05 | 2025-06-06 | 2026-01-15 |
 | [Jij Denkt Maar Dat Je Alles Mag Van Mij](https://open.spotify.com/track/1kETZmApc3IVzTLC4b886n) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Zo Ben Ik Mezelf](https://open.spotify.com/album/37M4B2oUYoh6Rnwf7MQe4q) | 3:39 | 2025-06-06 |  |
+| [Jij Krijgt Die Lach Niet Van Mijn Gezicht](https://open.spotify.com/track/60VvE1ktlRQSS1RW6CSzoV) | [John De Bever](https://open.spotify.com/artist/2qAPnua41tsOE6o2L2tl5p) | [Jij Krijgt Die Lach Niet Van Mijn Gezicht](https://open.spotify.com/album/2k1n74zKIcEQiInajgbtIk) | 3:20 | 2025-12-10 |  |
 | [Jij Liet Me Vallen](https://open.spotify.com/track/2Q01M0X7yJeLfGg4ebLORO) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Jij Liet Me Vallen](https://open.spotify.com/album/01rLwvJx2VUjcsppCnWNDd) | 3:38 | 2025-06-06 |  |
 | [Jouw Blik](https://open.spotify.com/track/3kkb0mHyZJTFGrzaUscnkh) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy) | [Jouw Blik](https://open.spotify.com/album/1nsSemfOY3jGrPmBdWAhst) | 3:39 | 2025-06-06 |  |
-| [Kali \- Kali](https://open.spotify.com/track/4eyGhxR256IUS9BQbuGEGb) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Kali](https://open.spotify.com/album/3s4nZfdxoo3GdaRvQf2dqA) | 3:26 | 2025-12-10 |  |
+| [Kali \- Kali](https://open.spotify.com/track/4eyGhxR256IUS9BQbuGEGb) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Kali](https://open.spotify.com/album/3s4nZfdxoo3GdaRvQf2dqA) | 3:26 | 2025-12-10 | 2026-01-25 |
 | [Ken Je Dat Gevoel](https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Ken Je Dat Gevoel](https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x) | 2:51 | 2025-12-10 |  |
 | [Kleine Jongen](https://open.spotify.com/track/6vzj8d0yOzg3ELH2T4u0CC) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kleine Jongen](https://open.spotify.com/album/0EsXBeEagSo9xrbKW17FBq) | 3:43 | 2025-12-10 |  |
 | [Kom Allemaal Maar In Mijn Armen](https://open.spotify.com/track/3iNkLhEIArpx8TcQjDO4bR) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Wesly Bronkhorst](https://open.spotify.com/album/4Sl1xNSD1vGfoseOGy9wYc) | 3:21 | 2025-06-06 |  |

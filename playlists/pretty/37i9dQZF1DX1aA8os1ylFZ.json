@@ -1,12 +1,12 @@
 {
   "description": "feel the magic with the gems in r&b right now",
-  "num_followers": 295532,
+  "num_followers": 295524,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKHsTeh6IYLa4GuKKB+Ey08KY4Ql",
+  "snapshot_id": "AAAAAERomHWCzRrwdLi/e0cKgIP/7NYF",
   "tracks": [
     {
       "added_at": "2026-01-15 23:00:24",
@@ -151,22 +151,6 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
-        "name": "BELOVED",
-        "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
-      },
-      "artists": [
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 195869,
-      "name": "I CAN TELL",
-      "url": "https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt"
-    },
-    {
-      "added_at": "2026-01-15 23:00:24",
-      "album": {
         "name": "100",
         "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 234608,
       "name": "100",
       "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
+    },
+    {
+      "added_at": "2026-01-15 23:00:24",
+      "album": {
+        "name": "BELOVED",
+        "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 195869,
+      "name": "I CAN TELL",
+      "url": "https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt"
     },
     {
       "added_at": "2026-01-15 23:00:24",
@@ -339,18 +339,18 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
-        "name": "The Only Love We Know",
-        "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
+        "name": "Reclusive",
+        "url": "https://open.spotify.com/album/4zTUF5mYmlnNxIw0imKYbz"
       },
       "artists": [
         {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 237210,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
+      "duration_ms": 186416,
+      "name": "Reclusive",
+      "url": "https://open.spotify.com/track/5vbk8ZURIOaINOKPvvNo60"
     },
     {
       "added_at": "2026-01-15 23:00:24",
@@ -367,6 +367,38 @@
       "duration_ms": 146015,
       "name": "No",
       "url": "https://open.spotify.com/track/6vtYF1GqtBJvfvDLAkKuid"
+    },
+    {
+      "added_at": "2026-01-15 23:00:24",
+      "album": {
+        "name": "The Only Love We Know",
+        "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 237210,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
+    },
+    {
+      "added_at": "2026-01-15 23:00:24",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 183293,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu"
     },
     {
       "added_at": "2026-01-15 23:00:24",
@@ -391,38 +423,6 @@
       "duration_ms": 294816,
       "name": "It Depends (The Remix) (feat. Bryson Tiller & USHER)",
       "url": "https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB"
-    },
-    {
-      "added_at": "2026-01-15 23:00:24",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 183293,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu"
-    },
-    {
-      "added_at": "2026-01-15 23:00:24",
-      "album": {
-        "name": "Reclusive",
-        "url": "https://open.spotify.com/album/4zTUF5mYmlnNxIw0imKYbz"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 186416,
-      "name": "Reclusive",
-      "url": "https://open.spotify.com/track/5vbk8ZURIOaINOKPvvNo60"
     },
     {
       "added_at": "2026-01-15 23:00:24",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
-        "name": "MEET THE SUN",
-        "url": "https://open.spotify.com/album/0Mff6DYflCDBNvAaahjB3w"
-      },
-      "artists": [
-        {
-          "name": "Joseph Solomon",
-          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
-        }
-      ],
-      "duration_ms": 285799,
-      "name": "MEET THE SUN",
-      "url": "https://open.spotify.com/track/1P2j9lCkJ0IzwRkuRZEFNa"
-    },
-    {
-      "added_at": "2026-01-15 23:00:24",
-      "album": {
         "name": "PROMISE",
         "url": "https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 223738,
       "name": "PROMISE",
       "url": "https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r"
+    },
+    {
+      "added_at": "2026-01-15 23:00:24",
+      "album": {
+        "name": "MEET THE SUN",
+        "url": "https://open.spotify.com/album/0Mff6DYflCDBNvAaahjB3w"
+      },
+      "artists": [
+        {
+          "name": "Joseph Solomon",
+          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
+        }
+      ],
+      "duration_ms": 285799,
+      "name": "MEET THE SUN",
+      "url": "https://open.spotify.com/track/1P2j9lCkJ0IzwRkuRZEFNa"
     },
     {
       "added_at": "2026-01-15 23:00:24",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
-        "name": "Slow Down",
-        "url": "https://open.spotify.com/album/7aSJHePqF7bfzQRVozwj4a"
-      },
-      "artists": [
-        {
-          "name": "K.ZIA",
-          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
-        }
-      ],
-      "duration_ms": 140769,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/2SlLZusHiwJ7sl18O4BssR"
-    },
-    {
-      "added_at": "2026-01-15 23:00:24",
-      "album": {
         "name": "A Fair Exchange",
         "url": "https://open.spotify.com/album/6PWqRQavTZcpRrFBKWMZq0"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 140000,
       "name": "A Fair Exchange",
       "url": "https://open.spotify.com/track/4XqBXP047t8rUEv7GIIzoR"
+    },
+    {
+      "added_at": "2026-01-15 23:00:24",
+      "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/7aSJHePqF7bfzQRVozwj4a"
+      },
+      "artists": [
+        {
+          "name": "K.ZIA",
+          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+        }
+      ],
+      "duration_ms": 140769,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/2SlLZusHiwJ7sl18O4BssR"
     },
     {
       "added_at": "2026-01-15 23:00:24",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
+        "name": "Sold Myself For Love",
+        "url": "https://open.spotify.com/album/06O9egxd0mX7XEtuqmuX0D"
+      },
+      "artists": [
+        {
+          "name": "SABRI",
+          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
+        }
+      ],
+      "duration_ms": 206282,
+      "name": "Sold Myself For Love",
+      "url": "https://open.spotify.com/track/1NFTCC13S7o7n2Yy6ctEdZ"
+    },
+    {
+      "added_at": "2026-01-15 23:00:24",
+      "album": {
         "name": "Watch You Leave",
         "url": "https://open.spotify.com/album/6k3Dsk5NOsGhXx78guGx1y"
       },
@@ -1035,18 +1051,22 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
-        "name": "Sold Myself For Love",
-        "url": "https://open.spotify.com/album/06O9egxd0mX7XEtuqmuX0D"
+        "name": "TWIN FLAME",
+        "url": "https://open.spotify.com/album/5UcPHCArjQd3IQaIxIEcKm"
       },
       "artists": [
         {
-          "name": "SABRI",
-          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
+          "name": "K.ZIA",
+          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+        },
+        {
+          "name": "Sedric Perry",
+          "url": "https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw"
         }
       ],
-      "duration_ms": 206282,
-      "name": "Sold Myself For Love",
-      "url": "https://open.spotify.com/track/1NFTCC13S7o7n2Yy6ctEdZ"
+      "duration_ms": 136585,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/55PqkTMHwesuVYLQQsbM44"
     },
     {
       "added_at": "2026-01-15 23:00:24",
@@ -1079,26 +1099,6 @@
       "duration_ms": 192279,
       "name": "What I Used To Get Into",
       "url": "https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT"
-    },
-    {
-      "added_at": "2026-01-15 23:00:24",
-      "album": {
-        "name": "TWIN FLAME",
-        "url": "https://open.spotify.com/album/5UcPHCArjQd3IQaIxIEcKm"
-      },
-      "artists": [
-        {
-          "name": "K.ZIA",
-          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
-        },
-        {
-          "name": "Sedric Perry",
-          "url": "https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw"
-        }
-      ],
-      "duration_ms": 136585,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/55PqkTMHwesuVYLQQsbM44"
     },
     {
       "added_at": "2026-01-15 23:00:24",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
-        "name": "96 REBIRTH",
-        "url": "https://open.spotify.com/album/58FA2p757MlFsY4eqfnjN1"
-      },
-      "artists": [
-        {
-          "name": "GINGE",
-          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
-        }
-      ],
-      "duration_ms": 153821,
-      "name": "Make U Mine",
-      "url": "https://open.spotify.com/track/7d1uB2go55mTVLrnsGBU6f"
-    },
-    {
-      "added_at": "2026-01-15 23:00:24",
-      "album": {
         "name": "Drive It",
         "url": "https://open.spotify.com/album/2nZHtpjbbwA5D8WkyB5Rvy"
       },
@@ -1723,18 +1707,34 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
-        "name": "Summer Pack",
-        "url": "https://open.spotify.com/album/7l9IesoxC8UFxeXWuf2k63"
+        "name": "Grisaille Into Aurora",
+        "url": "https://open.spotify.com/album/2X1HQP3bL0cygdxZ0qO62n"
       },
       "artists": [
         {
-          "name": "Lavils",
-          "url": "https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX"
+          "name": "AKA Block",
+          "url": "https://open.spotify.com/artist/3znfzjYazV5OBop5w9Fa2B"
         }
       ],
-      "duration_ms": 135802,
-      "name": "Misbehave",
-      "url": "https://open.spotify.com/track/4rbcWJPHQXdn4gNAlwWeEt"
+      "duration_ms": 239346,
+      "name": "Acceptance",
+      "url": "https://open.spotify.com/track/341gGzNSZumFnSnj88tUfG"
+    },
+    {
+      "added_at": "2026-01-15 23:00:24",
+      "album": {
+        "name": "96 REBIRTH",
+        "url": "https://open.spotify.com/album/58FA2p757MlFsY4eqfnjN1"
+      },
+      "artists": [
+        {
+          "name": "GINGE",
+          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
+        }
+      ],
+      "duration_ms": 153821,
+      "name": "Make U Mine",
+      "url": "https://open.spotify.com/track/7d1uB2go55mTVLrnsGBU6f"
     }
   ],
   "unique_name": "R&B Magic",

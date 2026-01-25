@@ -2,7 +2,7 @@
 
 ### [NXT](https://open.spotify.com/playlist/37i9dQZF1DX3Lvxss1qTW2)
 
-> The future hits of today\. Up Next: Mavo
+> The future hits of today\. Up Next: Priesst
 
 581 songs - 1 day 2 hr 51 min
 

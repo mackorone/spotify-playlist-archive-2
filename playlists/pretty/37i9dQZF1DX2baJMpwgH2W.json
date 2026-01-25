@@ -1,6 +1,6 @@
 {
   "description": "Ballads from the best shows, from the West End and beyond.",
-  "num_followers": 178121,
+  "num_followers": 178135,
   "original_name": "Ballads From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-12-10 11:43:01",
       "album": {
-        "name": "The Book Of Mormon (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/5yauUuXppqUj2ulor38hvI"
-      },
-      "artists": [
-        {
-          "name": "Andrew Rannells",
-          "url": "https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b"
-        }
-      ],
-      "duration_ms": 282786,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/4YfNmQKnrX5DrlAxSAnMoA"
-    },
-    {
-      "added_at": "2025-12-10 11:43:01",
-      "album": {
         "name": "In the Heights (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/3VPHalWocJfe7VfbEW60zg"
       },
@@ -615,6 +599,22 @@
     {
       "added_at": "2025-12-10 11:43:01",
       "album": {
+        "name": "The Book Of Mormon (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/5yauUuXppqUj2ulor38hvI"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rannells",
+          "url": "https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b"
+        }
+      ],
+      "duration_ms": 282786,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/4YfNmQKnrX5DrlAxSAnMoA"
+    },
+    {
+      "added_at": "2025-12-10 11:43:01",
+      "album": {
         "name": "Matilda the Musical (Original London Cast Recording)",
         "url": "https://open.spotify.com/album/4TMFJM8OsgA2RwwYySNhmU"
       },
@@ -627,6 +627,26 @@
       "duration_ms": 242760,
       "name": "Naughty",
       "url": "https://open.spotify.com/track/64DXFDl2A6ObNy7iXFlZzZ"
+    },
+    {
+      "added_at": "2025-12-10 11:43:01",
+      "album": {
+        "name": "Love Hurts",
+        "url": "https://open.spotify.com/album/43KUczsSjyfpXlWuylA62Y"
+      },
+      "artists": [
+        {
+          "name": "Elaine Paige",
+          "url": "https://open.spotify.com/artist/7KckozT8XPOqtgJjpAcrnA"
+        },
+        {
+          "name": "Barbara Dickson",
+          "url": "https://open.spotify.com/artist/5pi8sj5ExnwL73KjHR2lFR"
+        }
+      ],
+      "duration_ms": 257106,
+      "name": "I Know Him So Well",
+      "url": "https://open.spotify.com/track/2M3E9wbFtqdkSGkhfHikFh"
     },
     {
       "added_at": "2025-12-10 11:43:01",
@@ -655,26 +675,6 @@
       "duration_ms": 353920,
       "name": "Defying Gravity - From \"Wicked\" Original Broadway Cast Recording/2003",
       "url": "https://open.spotify.com/track/0yM3VmM8gHEVGViKvAbQkc"
-    },
-    {
-      "added_at": "2025-12-10 11:43:01",
-      "album": {
-        "name": "Love Hurts",
-        "url": "https://open.spotify.com/album/43KUczsSjyfpXlWuylA62Y"
-      },
-      "artists": [
-        {
-          "name": "Elaine Paige",
-          "url": "https://open.spotify.com/artist/7KckozT8XPOqtgJjpAcrnA"
-        },
-        {
-          "name": "Barbara Dickson",
-          "url": "https://open.spotify.com/artist/5pi8sj5ExnwL73KjHR2lFR"
-        }
-      ],
-      "duration_ms": 257106,
-      "name": "I Know Him So Well",
-      "url": "https://open.spotify.com/track/2M3E9wbFtqdkSGkhfHikFh"
     },
     {
       "added_at": "2025-12-10 11:43:01",

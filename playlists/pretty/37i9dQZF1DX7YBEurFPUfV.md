@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : Ktyb
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,137 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,144 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 | 59 | [CHARIKET DAJEJ](https://open.spotify.com/track/35f6wic5uLR4WRp5If8M6W) | [Fossa](https://open.spotify.com/artist/7yqZYVFUskYyKDyilalfFX) | [CHARIKET DAJEJ](https://open.spotify.com/album/70TUm5iv6DcULHTn0zxo7r) | 3:31 |
 | 60 | [AIRMAX](https://open.spotify.com/track/0JsxcoIZwREN05wzM25fC1) | [DACHI](https://open.spotify.com/artist/0cIRG1SuDcnskRoSWENfzX), [DvrkBoy](https://open.spotify.com/artist/4WlUjtiySIpBOeUp49j1BW), [Catcher](https://open.spotify.com/artist/6b6QZt0n4YNjqqRaTaEkAl) | [AIRMAX](https://open.spotify.com/album/1krq5NT4YvlfvgCVbxKio7) | 2:57 |
 
-Snapshot ID: `AAAAAHtG6/bdFwQy74uJinyPaKH92SLx`
+Snapshot ID: `AAAAALjAxjML53/hRkLiEH71Kz5N5FEC`

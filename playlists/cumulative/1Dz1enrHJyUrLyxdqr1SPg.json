@@ -657,6 +657,28 @@
     },
     {
       "album": {
+        "name": "Guess I'll Never Get Over You",
+        "url": "https://open.spotify.com/album/4KNM7WAwRDdkTQ9AtG24UP"
+      },
+      "artists": [
+        {
+          "name": "Dawn Emily",
+          "url": "https://open.spotify.com/artist/2vhuofEhK6zUceJnwojmdT"
+        },
+        {
+          "name": "Albert Lee",
+          "url": "https://open.spotify.com/artist/3YMlcBYj21DcMALlALTO7m"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209106,
+      "name": "Guess I'll Never Get Over You",
+      "url": "https://open.spotify.com/track/0eukhIi3XW1fGmUSeZ0Ytc"
+    },
+    {
+      "album": {
         "name": "HALLOWEEN JOY",
         "url": "https://open.spotify.com/album/0vwWikrr0eTyXFP3FYnfLO"
       },

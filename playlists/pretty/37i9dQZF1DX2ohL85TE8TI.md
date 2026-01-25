@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: Undercover Miss Hong \(언더커버 미쓰홍\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,724,655 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,724,586 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 6 | [How I Love You](https://open.spotify.com/track/3eVKqI1WekNvjUrOdap7vp) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [IDOL I Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/2sh8Y5CknR4LgFyYs20Y1M) | 3:48 |
 | 7 | [Fly with me \(TAXI DRIVER 3 : Original Television Soundtrack\)](https://open.spotify.com/track/32VDDT3at3WMFrMIVWn3k8) | [DOEUN](https://open.spotify.com/artist/7tD6HqfTiCmxhb0cwgrvyB) | [TAXI DRIVER 3, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/4ojZaK27xE65TtCG2zfVpp) | 3:24 |
 | 8 | [Universe](https://open.spotify.com/track/2eJag2pDeCABqFa4qC6x19) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Surely Tomorrow \(Original Television Soundtrack\) Vol.4](https://open.spotify.com/album/1St9dtJZeSEYYvnVOvqCXI) | 4:00 |
-| 9 | [To Our Beautiful Past](https://open.spotify.com/track/4O916H2Hkxgu8zmrRxNeq6) | [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf), [Jo Hyun Ah](https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI) | [IDOL I Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/6dqzb5GtOtXx26u4A7rCMm) | 4:04 |
+| 9 | [To Our Beautiful Past](https://open.spotify.com/track/4O916H2Hkxgu8zmrRxNeq6) | [Kwon Soon Il](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf), [Jo Hyun Ah](https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI) | [IDOL I Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/6dqzb5GtOtXx26u4A7rCMm) | 4:04 |
 | 10 | [Loving You](https://open.spotify.com/track/0AJfdKQYwpsOxNtVEsDmFf) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [To My Beloved Thief, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/1PVvffj5pewm2gjQDDWVS6) | 3:13 |
 | 11 | [Everyday with You](https://open.spotify.com/track/46pQsS1unFN5j0aW0iGCCz) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [Reply 1988 10th Anniversary, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0AdfUyODVPy2H1ezifR0XI) | 4:05 |
 | 12 | [Last Spring](https://open.spotify.com/track/5A3WVeO7e6SWvTfJzd07w9) | [J.DON](https://open.spotify.com/artist/1259XbZ4Fb9LbsGDilYf3t) | [Surely Tomorrow \(Original Television Soundtrack\) Vol.1](https://open.spotify.com/album/7bSQ7O5AdYYdQBG6zy8EJN) | 3:22 |

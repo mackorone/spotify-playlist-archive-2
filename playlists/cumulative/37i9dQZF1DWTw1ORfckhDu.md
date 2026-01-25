@@ -4,7 +4,7 @@
 
 > 💯 Suomi.
 
-1,101 songs - 2 day 4 hr 18 min
+1,103 songs - 2 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -724,9 +724,9 @@
 | [Paratiisi](https://open.spotify.com/track/51S0Hn25rALtlGLhylAWH7) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3) | [Paratiisi](https://open.spotify.com/album/2YzAWzSha2qcwYARqIsaxM) | 2:54 | 2025-01-30 | 2025-03-07 |
 | [Pardon](https://open.spotify.com/track/48tZd0bUtpGmzjb4mu2KR8) | [good boys](https://open.spotify.com/artist/79hIs89TAEz3EhIuYAJ4bU) | [Pardon](https://open.spotify.com/album/2N1MmiAHHUoewqdNSSgZwO) | 3:55 | 2024-05-23 | 2024-07-02 |
 | [PAREMMALT](https://open.spotify.com/track/3ErG9rQ98jcedxOGs59KFc) | [Bojos](https://open.spotify.com/artist/3HRZJD5TbCbhSPRVlhvFtM) | [PAREMMALT](https://open.spotify.com/album/4psMkzcEnWd7ZyQmE57XPu) | 2:04 | 2023-09-21 | 2023-12-01 |
-| [Paremmin nyt](https://open.spotify.com/track/5Qk2r9VPCloxC7h0ufY1wb) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Pöydät kääntyy](https://open.spotify.com/album/4sCu5cSceK9VHwQKrbqART) | 2:28 | 2025-11-13 |  |
+| [Paremmin nyt](https://open.spotify.com/track/5Qk2r9VPCloxC7h0ufY1wb) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Pöydät kääntyy](https://open.spotify.com/album/4sCu5cSceK9VHwQKrbqART) | 2:28 | 2025-11-13 | 2026-01-25 |
 | [Parempaa](https://open.spotify.com/track/58T8f59Q4RGzHJWVpN9Ws7) | [Tupla W](https://open.spotify.com/artist/7F78b8yOU6hCoJTYARgIEq) | [Parempaa](https://open.spotify.com/album/5QZB7QFNnw9p8o3O1Uai6t) | 3:06 | 2023-11-23 | 2023-12-08 |
-| [Parempi mies](https://open.spotify.com/track/7cHnbBoghcPqFQ1rcCUort) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Parempi mies](https://open.spotify.com/album/0PC2XvK07EEMfGS08PAc5a) | 2:57 | 2025-09-11 |  |
+| [Parempi mies](https://open.spotify.com/track/7cHnbBoghcPqFQ1rcCUort) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Parempi mies](https://open.spotify.com/album/0PC2XvK07EEMfGS08PAc5a) | 2:57 | 2025-09-11 | 2026-01-25 |
 | [Parempi unohtaa](https://open.spotify.com/track/7nMSu4judnFgalcm4gbfcR) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Parempi unohtaa](https://open.spotify.com/album/4XUNZuYOJoFTuWkMcS0XHb) | 2:50 | 2024-11-14 | 2025-01-17 |
 | [Parikymppisii](https://open.spotify.com/track/1W4G6W0krHTQTxOvt6MeIe) | [Rekami](https://open.spotify.com/artist/25SDUzCXVuk0Va1iinM5aB), [DJ Kridlokk](https://open.spotify.com/artist/40S3a8Beijh7mZ7vTV5TmJ), [Will\-Jam](https://open.spotify.com/artist/5EFzpM1UFYM1uJqH6bEnq8) | [Parikymppisii](https://open.spotify.com/album/2C3PEDHQokDewe6opJU8wT) | 2:56 | 2025-04-24 | 2025-05-09 |
 | [Parvi](https://open.spotify.com/track/14OJRytJ3rFWR37H3FojXo) | [Aivovuoto](https://open.spotify.com/artist/0vIwzLRr3uDumTBaCmU0fm) | [Parvi](https://open.spotify.com/album/118CrsMjNKutzV5WZmsIsy) | 2:44 | 2024-03-07 | 2024-03-22 |
@@ -963,6 +963,7 @@
 | [Toista sua](https://open.spotify.com/track/0tQZ5PHjvaTprcgfdbOgKk) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Toista sua](https://open.spotify.com/album/39isGUjAreup0WQjnI3Syd) | 2:49 | 2024-10-10 | 2025-02-28 |
 | [Toistoi](https://open.spotify.com/track/0yHRLkeNe9j9vqek47Of6f) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Toistoi](https://open.spotify.com/album/7ubUJKPvPMLs4SBaWVa124) | 2:19 | 2023-12-14 | 2024-02-02 |
 | [Toivomuskaivo \(feat\. Timo Pieni Huijaus\)](https://open.spotify.com/track/6cAez5rngZi8qLEnXryODo) | [Uniikki](https://open.spotify.com/artist/1Q0Vv9aJFSOCFFHsH3seWX), [Timo Pieni Huijaus](https://open.spotify.com/artist/3QhMkujlcwd5TqLp4p3KUR) | [Toivomuskaivo \(feat\. Timo Pieni Huijaus\)](https://open.spotify.com/album/2h3WlAxuFfA4iig1sdMEDx) | 2:54 | 2025-02-13 | 2025-03-23 |
+| [Toivottavasti](https://open.spotify.com/track/1TJCHMekCEtSTHJwGy1rBX) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:43 | 2026-01-22 |  |
 | [top 1](https://open.spotify.com/track/4MmjbfjYE9SrTIO6PnY2LC) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [untitled\_1](https://open.spotify.com/album/50WafaM5KtiYNylWSNrbZL) | 3:06 | 2024-02-22 | 2024-03-15 |
 | [Tosissaan](https://open.spotify.com/track/5oPF5gLiXrtZ1SrQQlUMZF) | [Nupe](https://open.spotify.com/artist/5u0QamnXCuX8MNukIIkkee), [Christina Bäckman](https://open.spotify.com/artist/6OgV5RTXbJZyCUeBzIO8q4) | [Tosissaan](https://open.spotify.com/album/18PEf3LB7BoDzI4Mhoho66) | 2:38 | 2024-05-02 | 2024-05-17 |
 | [Totta](https://open.spotify.com/track/4KiTZPhhIeB69bp1AyjyXe) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [Big Papa313](https://open.spotify.com/artist/00CSK0wSAAGoaLWR9uFuAp) | [TEILLE](https://open.spotify.com/album/7wCdrOe9Fs3lQ6IbC3vlx4) | 2:23 | 2024-06-13 | 2024-08-16 |
@@ -1042,6 +1043,7 @@
 | [Vasen laituri \(feat\. AHTI\)](https://open.spotify.com/track/63jEXNkVDnPO8wzFsdryfi) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Vasen laituri \(feat\. AHTI\)](https://open.spotify.com/album/1nEKEtap5DfkayJpSlrHw0) | 3:00 | 2025-03-13 | 2025-10-24 |
 | [Vastalääke \(feat\. Etta\)](https://open.spotify.com/track/35IfC9JlQTKhz93mGRLl14) | [LEWI](https://open.spotify.com/artist/3Rw9RAezi1FGQrglVYoU4J), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Vastalääke \(feat\. Etta\)](https://open.spotify.com/album/0P63Euv9xv2KtazXz1MlXj) | 2:38 | 2025-05-22 | 2025-12-19 |
 | [Vastustaa](https://open.spotify.com/track/2lvCRioElAZPAgqWCV9a1S) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Vastustaa](https://open.spotify.com/album/7xB2ewkdlo9p6q4dpQG4jq) | 2:03 | 2023-09-21 | 2023-09-29 |
+| [Veitsi](https://open.spotify.com/track/5WrfaQBtLiP0wMuZkDfbmH) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 3:53 | 2026-01-22 |  |
 | [Veli](https://open.spotify.com/track/06Jn7UjPJzP99sg0cT49KA) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Naarmuja](https://open.spotify.com/album/4GqH3QQoP5BOlmxTkbq8mg) | 2:56 | 2025-09-18 | 2025-12-12 |
 | [Veli \(feat\. Gracias & Stafa\)](https://open.spotify.com/track/5l7OnOVSYd57pAQIX6B5nz) | [Hassan Maikal](https://open.spotify.com/artist/5ibHOdl3OIBMsBc32Qsl2u), [Gracias](https://open.spotify.com/artist/2GRNS6DnefxBzYSZXDc6ij), [Stafa](https://open.spotify.com/artist/44isaRoVaZH5mdGrGm3hv5) | [Veli \(feat\. Gracias & Stafa\)](https://open.spotify.com/album/5Vv69AczxmHKIxAPIv5vik) | 3:10 | 2024-05-02 | 2024-07-02 |
 | [Venaa Venaa](https://open.spotify.com/track/5zh1yNPjB9tIRj3LhAnaIf) | [Coozii & Zeno](https://open.spotify.com/artist/0qk9pt8n5hIwcgTIFVtaFa) | [Venaa Venaa](https://open.spotify.com/album/1nIPxVqfCflSgIdgNakdRs) | 2:00 | 2023-12-18 | 2024-01-19 |

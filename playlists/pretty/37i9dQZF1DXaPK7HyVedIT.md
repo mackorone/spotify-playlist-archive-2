@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Felguk, Watzgood
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,202,002 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,201,862 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 5 | [Go Mode](https://open.spotify.com/track/0Rxn4PqpW2wiNhj5a3Sjgd) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA) | [Go Mode](https://open.spotify.com/album/7Fph1Fv8ybagzOa8If8oVg) | 3:08 |
 | 6 | [RITZ](https://open.spotify.com/track/3VMI6UnnxERt2vnRW6SY3U) | [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [RITZ](https://open.spotify.com/album/4eai8F4RLUMtak4NwX3WzP) | 3:02 |
 | 7 | [Malabaris](https://open.spotify.com/track/0hLNnH60GDK1TZxDNxhVfT) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Mila Journée](https://open.spotify.com/artist/3CnCN1QeftBXVbsXWmmNyB) | [Malabaris](https://open.spotify.com/album/6W2NbGfbvj5YlYqhaUWvAc) | 3:06 |
-| 8 | [All Night Long](https://open.spotify.com/track/7nboixHsDQbJkHHjz72pIY) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Picture: Volkoder](https://open.spotify.com/album/5AA55B0S08IQx9qp4BPVq1) | 3:01 |
+| 8 | [All Night Long](https://open.spotify.com/track/7nboixHsDQbJkHHjz72pIY) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Picture: Volkoder Part 1](https://open.spotify.com/album/5AA55B0S08IQx9qp4BPVq1) | 3:01 |
 | 9 | [Pérola](https://open.spotify.com/track/2Dy6CuCIzRzdoauS7Jvmkx) | [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8), [Falquiat](https://open.spotify.com/artist/03k3Q1KPTCpyj5ehwJoILz), [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Pérola](https://open.spotify.com/album/0nX2PMoHOe2lqwFgxiOFrl) | 4:04 |
 | 10 | [Wait For You](https://open.spotify.com/track/2JY0sUBOvoD2Fc4xNfXh3T) | [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Wait For You](https://open.spotify.com/album/052qzyOzMiehdqckcumV5Z) | 2:28 |
 | 11 | [Noite De Prazer](https://open.spotify.com/track/1SGlGk0QrC7VPpUiKinw0e) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [NINA J](https://open.spotify.com/artist/6juGmBHeZZXJlyuFT8FGjw) | [Noite De Prazer](https://open.spotify.com/album/72vERixqZSY9WaeU70d7Yi) | 2:20 |

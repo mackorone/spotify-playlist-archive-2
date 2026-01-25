@@ -1,6 +1,6 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 406822,
+  "num_followers": 406825,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,22 @@
     {
       "added_at": "2025-12-10 11:42:12",
       "album": {
-        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
       },
       "artists": [
         {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+          "name": "Hugh Jackman",
+          "url": "https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2"
         },
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Zac Efron",
+          "url": "https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg"
         }
       ],
-      "duration_ms": 194848,
-      "name": "Into the Unknown",
-      "url": "https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W"
+      "duration_ms": 214373,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/2cKovq3l6OJjhVVDbVKOsr"
     },
     {
       "added_at": "2025-12-10 11:42:12",
@@ -207,6 +207,26 @@
     {
       "added_at": "2025-12-10 11:42:12",
       "album": {
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 194848,
+      "name": "Into the Unknown",
+      "url": "https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W"
+    },
+    {
+      "added_at": "2025-12-10 11:42:12",
+      "album": {
         "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
       },
@@ -216,13 +236,29 @@
           "url": "https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2"
         },
         {
-          "name": "Zac Efron",
-          "url": "https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg"
+          "name": "The Greatest Showman Ensemble",
+          "url": "https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8"
         }
       ],
-      "duration_ms": 214373,
-      "name": "The Other Side",
-      "url": "https://open.spotify.com/track/2cKovq3l6OJjhVVDbVKOsr"
+      "duration_ms": 349560,
+      "name": "From Now On",
+      "url": "https://open.spotify.com/track/3IkWmgGsXbsafrunwPojXO"
+    },
+    {
+      "added_at": "2025-12-10 11:42:12",
+      "album": {
+        "name": "MJ the Musical - Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/0u2tzDSc9SyWFe0M56b8UL"
+      },
+      "artists": [
+        {
+          "name": "Myles Frost",
+          "url": "https://open.spotify.com/artist/5g9XqLz7acHqpBjufaxIT6"
+        }
+      ],
+      "duration_ms": 165146,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/1RfJlBQH5iSDrBD231iyMW"
     },
     {
       "added_at": "2025-12-10 11:42:12",
@@ -243,22 +279,6 @@
       "duration_ms": 329228,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/3dP0pLbg9OfVwssDjp9aT0"
-    },
-    {
-      "added_at": "2025-12-10 11:42:12",
-      "album": {
-        "name": "MJ the Musical - Original Broadway Cast Recording",
-        "url": "https://open.spotify.com/album/0u2tzDSc9SyWFe0M56b8UL"
-      },
-      "artists": [
-        {
-          "name": "Myles Frost",
-          "url": "https://open.spotify.com/artist/5g9XqLz7acHqpBjufaxIT6"
-        }
-      ],
-      "duration_ms": 165146,
-      "name": "Beat It",
-      "url": "https://open.spotify.com/track/1RfJlBQH5iSDrBD231iyMW"
     },
     {
       "added_at": "2025-12-10 11:42:12",
@@ -324,26 +344,6 @@
       },
       "artists": [
         {
-          "name": "Hugh Jackman",
-          "url": "https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2"
-        },
-        {
-          "name": "The Greatest Showman Ensemble",
-          "url": "https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8"
-        }
-      ],
-      "duration_ms": 349560,
-      "name": "From Now On",
-      "url": "https://open.spotify.com/track/3IkWmgGsXbsafrunwPojXO"
-    },
-    {
-      "added_at": "2025-12-10 11:42:12",
-      "album": {
-        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
-      },
-      "artists": [
-        {
           "name": "Zac Efron",
           "url": "https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg"
         },
@@ -355,82 +355,6 @@
       "duration_ms": 217440,
       "name": "Rewrite The Stars",
       "url": "https://open.spotify.com/track/65fpYBrI8o2cfrwf2US4gq"
-    },
-    {
-      "added_at": "2025-12-10 11:42:12",
-      "album": {
-        "name": "Wicked: For Good \u2013 The Soundtrack",
-        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Jonathan Bailey",
-          "url": "https://open.spotify.com/artist/2Je7IdIHe8UvZbLXdapQ26"
-        }
-      ],
-      "duration_ms": 246573,
-      "name": "As Long As You\u2019re Mine",
-      "url": "https://open.spotify.com/track/59vtqGF0p7RgNjnzC9Zk2p"
-    },
-    {
-      "added_at": "2025-12-10 11:42:12",
-      "album": {
-        "name": "Wicked: The Soundtrack",
-        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 228947,
-      "name": "What Is This Feeling?",
-      "url": "https://open.spotify.com/track/7eGuPhpdS8sBjPJNuAShUX"
-    },
-    {
-      "added_at": "2025-12-10 11:42:12",
-      "album": {
-        "name": "Hamilton (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
-      },
-      "artists": [
-        {
-          "name": "Leslie Odom Jr.",
-          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
-        },
-        {
-          "name": "Lin-Manuel Miranda",
-          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
-        },
-        {
-          "name": "Ren\u00e9e Elise Goldsberry",
-          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
-        },
-        {
-          "name": "Phillipa Soo",
-          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
-        },
-        {
-          "name": "Christopher Jackson",
-          "url": "https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj"
-        },
-        {
-          "name": "Original Broadway Cast of Hamilton",
-          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
-        }
-      ],
-      "duration_ms": 385438,
-      "name": "Non-Stop",
-      "url": "https://open.spotify.com/track/7qfoq1JFKBUEIvhqOHzuqX"
     },
     {
       "added_at": "2025-12-10 11:42:12",
@@ -491,6 +415,82 @@
       "duration_ms": 216120,
       "name": "We Don't Talk About Bruno",
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
+    },
+    {
+      "added_at": "2025-12-10 11:42:12",
+      "album": {
+        "name": "Wicked: The Soundtrack",
+        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 228947,
+      "name": "What Is This Feeling?",
+      "url": "https://open.spotify.com/track/7eGuPhpdS8sBjPJNuAShUX"
+    },
+    {
+      "added_at": "2025-12-10 11:42:12",
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Ren\u00e9e Elise Goldsberry",
+          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
+        },
+        {
+          "name": "Phillipa Soo",
+          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
+        },
+        {
+          "name": "Christopher Jackson",
+          "url": "https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "duration_ms": 385438,
+      "name": "Non-Stop",
+      "url": "https://open.spotify.com/track/7qfoq1JFKBUEIvhqOHzuqX"
+    },
+    {
+      "added_at": "2025-12-10 11:42:12",
+      "album": {
+        "name": "Wicked: For Good \u2013 The Soundtrack",
+        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Jonathan Bailey",
+          "url": "https://open.spotify.com/artist/2Je7IdIHe8UvZbLXdapQ26"
+        }
+      ],
+      "duration_ms": 246573,
+      "name": "As Long As You\u2019re Mine",
+      "url": "https://open.spotify.com/track/59vtqGF0p7RgNjnzC9Zk2p"
     },
     {
       "added_at": "2025-12-10 11:42:12",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-12-10 11:42:12",
       "album": {
+        "name": "Matilda the Musical (Original London Cast Recording)",
+        "url": "https://open.spotify.com/album/4TMFJM8OsgA2RwwYySNhmU"
+      },
+      "artists": [
+        {
+          "name": "Matilda the Musical Original Cast",
+          "url": "https://open.spotify.com/artist/7paFidVdtsmKlLtHiLZu41"
+        }
+      ],
+      "duration_ms": 152506,
+      "name": "Revolting Children",
+      "url": "https://open.spotify.com/track/5jb55O3h5dfOK4YMUbTb1Y"
+    },
+    {
+      "added_at": "2025-12-10 11:42:12",
+      "album": {
         "name": "Newsies (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/3hqYvu1aBkroLKzkGM5DSk"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 322940,
       "name": "Seize The Day",
       "url": "https://open.spotify.com/track/0BxKZikii9efSIodiQALJ5"
-    },
-    {
-      "added_at": "2025-12-10 11:42:12",
-      "album": {
-        "name": "Matilda the Musical (Original London Cast Recording)",
-        "url": "https://open.spotify.com/album/4TMFJM8OsgA2RwwYySNhmU"
-      },
-      "artists": [
-        {
-          "name": "Matilda the Musical Original Cast",
-          "url": "https://open.spotify.com/artist/7paFidVdtsmKlLtHiLZu41"
-        }
-      ],
-      "duration_ms": 152506,
-      "name": "Revolting Children",
-      "url": "https://open.spotify.com/track/5jb55O3h5dfOK4YMUbTb1Y"
     },
     {
       "added_at": "2025-12-10 11:42:12",

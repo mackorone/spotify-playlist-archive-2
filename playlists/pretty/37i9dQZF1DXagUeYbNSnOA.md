@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring KORDELYA\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,939 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,943 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Dando Vueltas](https://open.spotify.com/track/2Srk8jVfZ127B9M3xSFueE) | [Simon Savi](https://open.spotify.com/artist/1JNrUhhfADUblA8VSbWCl0), [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [Dando Vueltas](https://open.spotify.com/album/6ggzEqaDwakWrfmb6z4PcK) | 2:57 |
 | 50 | [AQUI CONTIGO](https://open.spotify.com/track/6LRzeqhZfmPQ21uhA55MPu) | [Carlos Llanes](https://open.spotify.com/artist/4pd6d2UMZdYRVeVplLk4Ab) | [AQUI CONTIGO](https://open.spotify.com/album/6pqyYdzfzDX7V12Ta9mYQq) | 2:53 |
 
-Snapshot ID: `AAAAABoFec4m04dJWahOvaHiWVeEBkaS`
+Snapshot ID: `AAAAAGchvU5wYQf4MFWz0JmCTbIxSwwg`

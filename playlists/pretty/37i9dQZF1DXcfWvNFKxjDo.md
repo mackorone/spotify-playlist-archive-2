@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Marlon Hoffstadt, Dimitri Vegas & Like Mike
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,495 likes - 81 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,497 likes - 81 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

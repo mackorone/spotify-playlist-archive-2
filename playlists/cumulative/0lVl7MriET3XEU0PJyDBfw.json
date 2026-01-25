@@ -7711,6 +7711,24 @@
     },
     {
       "album": {
+        "name": "Vision",
+        "url": "https://open.spotify.com/album/2BljeTjli1GnHXkJthTPee"
+      },
+      "artists": [
+        {
+          "name": "Mauro Venti",
+          "url": "https://open.spotify.com/artist/1EYRcS75munXqQbWsZ0HVd"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "I Don't Need Nobody",
+      "url": "https://open.spotify.com/track/2BjzxYjpBoqTHhaHzw3UpF"
+    },
+    {
+      "album": {
         "name": "I Don't Remember",
         "url": "https://open.spotify.com/album/0J7RfuS72drryFxcc3SvD8"
       },
@@ -13276,6 +13294,28 @@
       "duration_ms": 232500,
       "name": "Reload",
       "url": "https://open.spotify.com/track/0B6twHJlRxSM9Q68NpGCKg"
+    },
+    {
+      "album": {
+        "name": "Repent",
+        "url": "https://open.spotify.com/album/5Cyutd3i612HRgojodezDn"
+      },
+      "artists": [
+        {
+          "name": "Thomas Anthony",
+          "url": "https://open.spotify.com/artist/2Kipffvr3gbA2BpMFe0RsI"
+        },
+        {
+          "name": "Avi Sic",
+          "url": "https://open.spotify.com/artist/2zkKco91JEZWEnIYrWHZNe"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239076,
+      "name": "Repent",
+      "url": "https://open.spotify.com/track/6kSzovQcMFwA78j7iag0Rt"
     },
     {
       "album": {

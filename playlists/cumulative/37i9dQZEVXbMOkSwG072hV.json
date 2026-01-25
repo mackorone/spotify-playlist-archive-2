@@ -2218,7 +2218,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 206960,
       "name": "A SINA DE OF\u00c9LIA",
       "url": "https://open.spotify.com/track/5oklfziArJmceMZ1UDwHlv"
@@ -18382,7 +18382,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 160645,
       "name": "Cry for Me WA WA WA - Live Version",
       "url": "https://open.spotify.com/track/19aIw4f5D2bMsufW7lYFYO"
@@ -57569,6 +57569,28 @@
     },
     {
       "album": {
+        "name": "Of\u00e9lia Funk",
+        "url": "https://open.spotify.com/album/4ky4Zv3Zd5jeAxyFgIOl2M"
+      },
+      "artists": [
+        {
+          "name": "Jean du PCB DJ",
+          "url": "https://open.spotify.com/artist/2Ksj15gJzbC0QitLtWMV7J"
+        },
+        {
+          "name": "Dj Ryan",
+          "url": "https://open.spotify.com/artist/0F2IwZq5M5SYZIbSsjwVIi"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169328,
+      "name": "Of\u00e9lia Funk",
+      "url": "https://open.spotify.com/track/21ULSgHmgpUtyZ2MdXaAlR"
+    },
+    {
+      "album": {
         "name": "Oh Garota Eu Quero Voc\u00ea S\u00f3 Pra Mim",
         "url": "https://open.spotify.com/album/4VCtYF2JYey5SeGpXkgGkR"
       },
@@ -70252,7 +70274,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 191810,
       "name": "Sa\u00ed para ver o mar",
       "url": "https://open.spotify.com/track/3IFWQxX0TlPCKlyju1kAHB"

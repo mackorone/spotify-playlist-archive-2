@@ -1,6 +1,6 @@
 {
   "description": "aqu\u00ed est\u00e1n las joyas escondidas del 2025, elegidas por tus editores \ud83d\ude42\u200d\u2195\ufe0f",
-  "num_followers": 104932,
+  "num_followers": 104929,
   "original_name": "Las favoritas de tus editores 2025",
   "owner": {
     "name": "Spotify",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
+        "name": "Ya no quiero quererte",
+        "url": "https://open.spotify.com/album/5kydA38VJT7FC4ena12GQa"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "visi\u00f3n \u2606",
+      "url": "https://open.spotify.com/track/0Van6tgFDbT8XQd6nxuVzr"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
         "name": "EN VIVO VOLUMEN I",
         "url": "https://open.spotify.com/album/5JsejNz8xfUgabk9A83moM"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 164705,
       "name": "OKUPAS",
       "url": "https://open.spotify.com/track/580QOzbFWDJKi6LtNpt7PT"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
-        "name": "Ya no quiero quererte",
-        "url": "https://open.spotify.com/album/5kydA38VJT7FC4ena12GQa"
-      },
-      "artists": [
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "visi\u00f3n \u2606",
-      "url": "https://open.spotify.com/track/0Van6tgFDbT8XQd6nxuVzr"
     },
     {
       "added_at": "2025-12-03 13:16:51",

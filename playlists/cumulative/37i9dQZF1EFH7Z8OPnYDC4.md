@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-380 songs - 22 hr 25 min
+381 songs - 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,8 @@
 | [My Favorite Things](https://open.spotify.com/track/1iCHl2R7xoEsh7CvYe5Ej0) | [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO) | [The Sound Of Music \(Original Soundtrack Recording\)](https://open.spotify.com/album/1KN5Lr40H56umfa1yzmO5R) | 2:20 | 2024-07-26 |  |
 | [My Funny Valentine](https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:21 | 2024-07-26 |  |
 | [My Girl Back Home](https://open.spotify.com/track/51olew3lXYIWqsNxeYUizR) | [Lt\. Cable](https://open.spotify.com/artist/4a65sNLFtwrbOHN3DNPnX5), [Nellie Forbush](https://open.spotify.com/artist/7hb3ZNPr7nR8AaSEw4Rf2S) | [South Pacific \(Original Soundtrack Recording\)](https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN) | 1:40 | 2024-07-26 |  |
-| [My Heart Stood Still](https://open.spotify.com/track/6ZYmUVMVi9PMSmyTrKv7gV) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 3:26 | 2024-07-26 |  |
+| [My Heart Stood Still](https://open.spotify.com/track/6ZYmUVMVi9PMSmyTrKv7gV) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 3:26 | 2024-07-26 | 2026-01-25 |
+| [My Heart Stood Still](https://open.spotify.com/track/6PKVLzMSxfTdQVMrTONruK) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker Moonlight & Romance: The Jazz Ballads Collection](https://open.spotify.com/album/1VE5728Nm3mFx96y3MtuBP) | 3:28 | 2026-01-24 |  |
 | [My Lord And Master](https://open.spotify.com/track/2WIdd3pjdZ8wwGghGIZtPJ) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn), [Ted Sperling](https://open.spotify.com/artist/52V4Y04hrgiMi9uTaaTnl2), [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [The King And I \(The 2015 Broadway Cast Recording\)](https://open.spotify.com/album/3fAq8Hfg4VH1Ce2jVilkBB) | 2:11 | 2024-07-26 |  |
 | [My Man Is On The Make \- Harpies In Sheep's Clothing](https://open.spotify.com/track/1a2NHVSL4sp4nJcnFMbEyH) | [Ben Selvin & His Orchestra](https://open.spotify.com/artist/1XpbvmczuA8d6CgMYlJvU6) | [Women With Attitude](https://open.spotify.com/album/4P91Hu1uk3OzKeRrD7bXd5) | 2:32 | 2024-07-26 |  |
 | [My Romance](https://open.spotify.com/track/4y8icjzu6fZP503Mg31Tpn) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Rodgers And Hart Song Book](https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9) | 3:44 | 2024-12-06 |  |

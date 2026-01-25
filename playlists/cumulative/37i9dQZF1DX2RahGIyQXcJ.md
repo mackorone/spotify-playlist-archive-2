@@ -4,7 +4,7 @@
 
 > Best of Desi Hip\-Hop! Cover: Dhanda Nyoliwala
 
-487 songs - 1 day 2 hr 51 min
+488 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [How to Hate](https://open.spotify.com/track/3gxD26Cuw9VXdmAGLO5Ezh) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Insaan](https://open.spotify.com/album/5Xrj5h7GQkxcjXRWJAtNvF) | 3:25 | 2022-02-21 | 2022-04-08 |
 | [Hukam](https://open.spotify.com/track/3CslTKRGmBGgEsCUnCfn67) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Hukam](https://open.spotify.com/album/1ljKOIBhak9Howa3dSDsGF) | 3:50 | 2021-12-03 | 2023-05-26 |
 | [HUNDO](https://open.spotify.com/track/7yz7n00FMO8AUxgvBHXZab) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [HUNDO](https://open.spotify.com/album/0vJ4vgqMg9DXt6zsnXaVRN) | 2:23 | 2024-11-08 | 2024-11-23 |
-| [I Get It](https://open.spotify.com/track/52kTt0Q7wo0mAqQfYovDt1) | [REAL YMF](https://open.spotify.com/artist/6FQ4Fr52dsXBrdu1B03PRa) | [I Get It](https://open.spotify.com/album/7M7UVJKtASqNQRtl8bauAK) | 2:51 | 2025-12-26 |  |
+| [I Get It](https://open.spotify.com/track/52kTt0Q7wo0mAqQfYovDt1) | [REAL YMF](https://open.spotify.com/artist/6FQ4Fr52dsXBrdu1B03PRa) | [I Get It](https://open.spotify.com/album/7M7UVJKtASqNQRtl8bauAK) | 2:51 | 2025-12-26 | 2026-01-25 |
 | [I Guess](https://open.spotify.com/track/0OxG3hlJNNzXcSrNVXEu8f) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [I Guess](https://open.spotify.com/album/7eDGcL0rxILbzih7x51fMk) | 3:06 | 2024-01-05 |  |
 | [I'M JUST A WOMAN FORREAL](https://open.spotify.com/track/67YKyDXxXYTh1nKJiKT9Uo) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [I'M JUST A WOMAN FORREAL](https://open.spotify.com/album/6zPaAMjj5t6DCDOt9dJIOw) | 3:09 | 2025-07-25 | 2025-08-30 |
 | [Icon](https://open.spotify.com/track/5xxJVfoIR2FEkgZmCgtn0U) | [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm) | [Icon](https://open.spotify.com/album/3BkxgZiVPDqOqsYMk4ZgCo) | 3:16 | 2025-11-14 | 2025-12-06 |
@@ -258,6 +258,7 @@
 | [Kohra](https://open.spotify.com/track/1HDjK8sD9zQsdBX3xnqFLJ) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Nayaab](https://open.spotify.com/album/5bRRzI1xuiNAAjdSCg5bnO) | 4:06 | 2022-07-18 | 2023-01-13 |
 | [Kollywood](https://open.spotify.com/track/7JSS97oDOpb1BZzA0TRh1V) | [ST MAN](https://open.spotify.com/artist/7FkwKgrWfjYJ3sgAFgGr31), [SACAR aka Lil Buddha](https://open.spotify.com/artist/2KDTINgANslhPVBfLpNlz0) | [Kollywood](https://open.spotify.com/album/6cNkuQhPZ6x8kQfv6MmqNU) | 3:45 | 2025-04-18 | 2025-05-24 |
 | [KONG](https://open.spotify.com/track/5B3psBoNGlC80PbIGjUu0k) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [KONG](https://open.spotify.com/album/42sutLLosRxxjWdFoAz0C0) | 4:01 | 2024-02-23 | 2024-04-16 |
+| [KUDDAH](https://open.spotify.com/track/6aSOEc9wwinUWooP9aykNa) | [Kevin Smokio](https://open.spotify.com/artist/6NgfAmWM9yXAtnqvlmEkpc), [Adeesha Beats](https://open.spotify.com/artist/0Q6y0t6VW03y88RNFPpzn0) | [KUDDAH](https://open.spotify.com/album/3lyJG8rOS8aV0DJeqtHFUO) | 3:24 | 2026-01-24 |  |
 | [Kyun](https://open.spotify.com/track/4lDmFJg35YoU7GDDRMSHdA) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Kyun](https://open.spotify.com/album/4Tw4sujoJDZCu2gKKQS6Ak) | 3:25 | 2023-10-03 | 2024-01-06 |
 | [La Vida](https://open.spotify.com/track/6oScY8qe1DGd6PlrCJ7e44) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [KARAM](https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1) | 2:21 | 2024-10-09 | 2025-03-22 |
 | [Laadla](https://open.spotify.com/track/57LA3fJhESaZtMcxMzR4RT) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Laadla](https://open.spotify.com/album/4t1RG86twVCa2cipVdnPmW) | 2:57 | 2024-01-05 | 2024-04-16 |

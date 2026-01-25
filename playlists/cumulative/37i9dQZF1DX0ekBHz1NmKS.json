@@ -3773,6 +3773,24 @@
     },
     {
       "album": {
+        "name": "BL\u00c5TANDSSN\u00c4CKA",
+        "url": "https://open.spotify.com/album/23KJh81mDeOY4KzpE1ISOT"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "BL\u00c5TANDSSN\u00c4CKA",
+      "url": "https://open.spotify.com/track/71hki9Cz2BEI3D0fLYtCLc"
+    },
+    {
+      "album": {
         "name": "Bl\u00e5\u00f6gd",
         "url": "https://open.spotify.com/album/1nxYAabZgRXCzGo14eBYWv"
       },
@@ -8187,6 +8205,24 @@
     },
     {
       "album": {
+        "name": "Du tappa d\u00e4",
+        "url": "https://open.spotify.com/album/1ss3TtK9plwjIBeEUkZkzo"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191132,
+      "name": "Du tappa d\u00e4",
+      "url": "https://open.spotify.com/track/3xBZH1auLQJOA40qmew7Wv"
+    },
+    {
+      "album": {
         "name": "Du \u00e4r allt jag vill ha",
         "url": "https://open.spotify.com/album/6SwhrL9xj9ujMVNrKmFU6m"
       },
@@ -11844,7 +11880,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 301213,
       "name": "F\u00f6rf\u00e4der",
       "url": "https://open.spotify.com/track/221qqYWKfl34pEtedawb1G"
@@ -13430,7 +13466,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 208845,
       "name": "Han vill ha dig",
       "url": "https://open.spotify.com/track/3ZkBKXprXJkxTgnB0dihHG"
@@ -34796,7 +34832,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 173043,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/5LTfGYb6n4oHSgrAgQAYGJ"
@@ -35938,7 +35974,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 155827,
       "name": "Underbar",
       "url": "https://open.spotify.com/track/4kUW83853lU7hqhUJHV96p"

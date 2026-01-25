@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,724 likes - 200 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,775 likes - 200 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 199 | [Colorful Skies](https://open.spotify.com/track/63kpKtoxzjJbWVQCCp4iqe) | [makers mask](https://open.spotify.com/artist/2QtcIrpLf2jtdMDs8gF3Q9) | [Colorful Skies](https://open.spotify.com/album/2P2IhMt0oh8V9mRtKlWxkm) | 3:11 |
 | 200 | [Cold Rain](https://open.spotify.com/track/3LghTGGH0RiVEEHsqFWrMh) | [Chairten](https://open.spotify.com/artist/1zTAVT8Wl64aleFDaLosQh) | [Cold Rain](https://open.spotify.com/album/7Kx1XsWTTpQJzfDzR33D6O) | 2:36 |
 
-Snapshot ID: `AAAAAAdpW3hoQHMlQmHJ7mcCZOe3sCyO`
+Snapshot ID: `AAAAALBrJt9O5U3Hmmel91I0fkhOs4Tx`

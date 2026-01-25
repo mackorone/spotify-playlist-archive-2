@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 
 > Blissful soundscapes from the best Ambient artists right now, to transport you to that feel good place 🌤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,895 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,914 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 | 41 | [Measuring Ruins](https://open.spotify.com/track/00R6Yl5pA6SGyYNtezwlHO) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Measuring Ruins](https://open.spotify.com/album/5lCq8czbxJZtzXlbgoNXW8) | 3:04 |
 | 42 | [Terrazzo](https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi) | [Reassemblage](https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK) | 3:40 |
 | 43 | [Appalachia Borealis](https://open.spotify.com/track/7t9CBs8UgSpUOuKmst0UTe) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [Appalachia Borealis](https://open.spotify.com/album/6CGLtIg3MR7NfDINHlZCm8) | 3:34 |
-| 44 | [\#3 \(Rhubarb\)](https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK) | [\#3 \(Rhubarb\)](https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK) | 7:17 |
-| 45 | [Developments 2: Motion](https://open.spotify.com/track/7hCIU4hiTwMiZ3r9C5cX87) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt), [Patrik Berg Almkvisth](https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo) | [Developments 2: Motion](https://open.spotify.com/album/67zojxNhuPhPre8kID2R3T) | 4:07 |
+| 44 | [Developments 2: Motion](https://open.spotify.com/track/7hCIU4hiTwMiZ3r9C5cX87) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt), [Patrik Berg Almkvisth](https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo) | [Developments 2: Motion](https://open.spotify.com/album/67zojxNhuPhPre8kID2R3T) | 4:07 |
+| 45 | [\#3 \(Rhubarb\)](https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK) | [\#3 \(Rhubarb\)](https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK) | 7:17 |
 | 46 | [Out Of The Past](https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog) | [Romance](https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt) | [Love Is Colder Than Death](https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb) | 3:33 |
 | 47 | [acceptances](https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [!](https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U) | 3:18 |
 | 48 | [Under a Familiar Sun](https://open.spotify.com/track/5EUz3oaNR9W3JtxnBjWnWa) | [The Vernon Spring](https://open.spotify.com/artist/2gzcB4vMIStEDZiQlvywGm) | [Under a Familiar Sun](https://open.spotify.com/album/35BG0TfEcWiyuaf5sCNxTL) | 2:42 |
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 | 78 | [Flaco 92'](https://open.spotify.com/track/42ZxKPCQg0oxBoZxj44p2m) | [Jeune Oji](https://open.spotify.com/artist/1VNBimzFQgGsGyuqyKS3CQ) | [Apertura](https://open.spotify.com/album/2U5BcONxBbrBG6V8ro4AjM) | 1:42 |
 | 79 | [Shimmering Lake](https://open.spotify.com/track/26iHdLEmhqo2ZyW3CyCzWC) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [Shimmering Lake](https://open.spotify.com/album/5cvIHfDo9BCdE5M2qKMtZU) | 3:00 |
 | 80 | [Verona Walls](https://open.spotify.com/track/5vV1qY2d15FbX1xwUaxIM3) | [DOVS](https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm) | [Psychic Geography](https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt) | 6:48 |
-| 81 | [Bright Belief](https://open.spotify.com/track/4GJzoqPOhCylLzM7mtMQbw) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Bright Belief](https://open.spotify.com/album/1kGJexSZDdSZbfkmefWDaD) | 4:42 |
-| 82 | [Awakening](https://open.spotify.com/track/0iqTeRwJinozkLa4PzNYQ4) | [INFINITY](https://open.spotify.com/artist/12pPh6VvLwN3gbBl1LXMPg) | [Breath](https://open.spotify.com/album/4C2zeEXXBDgrV95B7UQEmZ) | 10:44 |
-| 83 | [Disquiet](https://open.spotify.com/track/6f4XfDJKURItN4WLR2rCTq) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3) | [Disquiet](https://open.spotify.com/album/3mO9OIvAFOq7T1WQIWZCvj) | 2:53 |
-| 84 | [Through the Air](https://open.spotify.com/track/14tquUA5QKkHSnRXHpvmeN) | [inola](https://open.spotify.com/artist/1MXDS1svhWrZw3v3hYG2YJ) | [By the River](https://open.spotify.com/album/4JZ3o7Oj3sFTfEbBmfeCHv) | 2:36 |
+| 81 | [Awakening](https://open.spotify.com/track/0iqTeRwJinozkLa4PzNYQ4) | [INFINITY](https://open.spotify.com/artist/12pPh6VvLwN3gbBl1LXMPg) | [Breath](https://open.spotify.com/album/4C2zeEXXBDgrV95B7UQEmZ) | 10:44 |
+| 82 | [Bright Belief](https://open.spotify.com/track/4GJzoqPOhCylLzM7mtMQbw) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Bright Belief](https://open.spotify.com/album/1kGJexSZDdSZbfkmefWDaD) | 4:42 |
+| 83 | [Through the Air](https://open.spotify.com/track/14tquUA5QKkHSnRXHpvmeN) | [inola](https://open.spotify.com/artist/1MXDS1svhWrZw3v3hYG2YJ) | [By the River](https://open.spotify.com/album/4JZ3o7Oj3sFTfEbBmfeCHv) | 2:36 |
+| 84 | [Disquiet](https://open.spotify.com/track/6f4XfDJKURItN4WLR2rCTq) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3) | [Disquiet](https://open.spotify.com/album/3mO9OIvAFOq7T1WQIWZCvj) | 2:53 |
 | 85 | [A\-001](https://open.spotify.com/track/5NPFeVHOmUrgJhbwZU3Okk) | [Corntuth](https://open.spotify.com/artist/3GFs5bdCNNiBb8wkfgaw88) | [Music To Work To](https://open.spotify.com/album/5psDaEQtmERzgnUGj4HLFK) | 4:17 |
 | 86 | [Passing By](https://open.spotify.com/track/1LjJhtaJdQJZ7jPHV94UpH) | [Jelena Ciric](https://open.spotify.com/artist/4o7faE2REjG6dtpfG0Xma2), [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs), [Cécile Lacharme](https://open.spotify.com/artist/5SUhDxwCbqdDO7noz0Ld3c), [Oliver Patrice Weder](https://open.spotify.com/artist/0InzETPzx4u2fVgldqQOcd) | [Tramuntana Tapes I](https://open.spotify.com/album/4x0Ctds3wypaoiUsfG6SSh) | 5:33 |
 | 87 | [RELUCESCO I](https://open.spotify.com/track/0fRDySUoyDdS1Erd73lztX) | [Sarah Pagé](https://open.spotify.com/artist/045JYB2I42fQLnNRJQSvdN) | [RELUCESCO I](https://open.spotify.com/album/1aTlHOpugpBr2K7IWTb2hg) | 6:59 |

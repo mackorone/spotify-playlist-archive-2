@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Julia Vit\u00f3ria",
-  "num_followers": 1207436,
+  "num_followers": 1207697,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2026-01-09 03:01:23",
       "album": {
-        "name": "Quem \u00c9 Esse? (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ysHV53D57phSxmT72HZXx"
-      },
-      "artists": [
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        }
-      ],
-      "duration_ms": 468953,
-      "name": "Quem \u00c9 Esse? - Ao Vivo",
-      "url": "https://open.spotify.com/track/7JtJjh9WfxUOpjFhurxVRW"
-    },
-    {
-      "added_at": "2026-01-09 03:01:23",
-      "album": {
         "name": "Santo Pra Sempre (Ao Vivo)",
         "url": "https://open.spotify.com/album/5Zp6FYxblnPm0XQIr7BT5Y"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 312219,
       "name": "Santo Pra Sempre - Ao Vivo",
       "url": "https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9"
+    },
+    {
+      "added_at": "2026-01-09 03:01:23",
+      "album": {
+        "name": "Quem \u00c9 Esse? (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ysHV53D57phSxmT72HZXx"
+      },
+      "artists": [
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        }
+      ],
+      "duration_ms": 468953,
+      "name": "Quem \u00c9 Esse? - Ao Vivo",
+      "url": "https://open.spotify.com/track/7JtJjh9WfxUOpjFhurxVRW"
     },
     {
       "added_at": "2026-01-09 03:01:23",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-01-09 03:01:23",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/1OZP7A6bb4HPNXLwhmVNfj"
-      },
-      "artists": [
-        {
-          "name": "Jeyzer Maia",
-          "url": "https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh"
-        }
-      ],
-      "duration_ms": 273734,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/6z5hadHglLMtp2sf8L8Or9"
-    },
-    {
-      "added_at": "2026-01-09 03:01:23",
-      "album": {
         "name": "Tua Gl\u00f3ria Me Abra\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/1GXc9lZVWfB4msh6AnaRSa"
       },
@@ -715,18 +699,34 @@
     {
       "added_at": "2026-01-09 03:01:23",
       "album": {
-        "name": "Dependente de Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0dQX1IZI82UCXg47zWJNvh"
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/1OZP7A6bb4HPNXLwhmVNfj"
       },
       "artists": [
         {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+          "name": "Jeyzer Maia",
+          "url": "https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh"
         }
       ],
-      "duration_ms": 329045,
-      "name": "Dependente de Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/1YrMQT4omVlCCKQUGqaJm0"
+      "duration_ms": 273734,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/6z5hadHglLMtp2sf8L8Or9"
+    },
+    {
+      "added_at": "2026-01-09 03:01:23",
+      "album": {
+        "name": "Messias",
+        "url": "https://open.spotify.com/album/5pPQywuULSpZCfNvhXUjp9"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "duration_ms": 367846,
+      "name": "Messias",
+      "url": "https://open.spotify.com/track/1Us77TbG0XgbRqwB6TnKdC"
     },
     {
       "added_at": "2026-01-09 03:01:23",
@@ -751,18 +751,18 @@
     {
       "added_at": "2026-01-09 03:01:23",
       "album": {
-        "name": "Messias",
-        "url": "https://open.spotify.com/album/5pPQywuULSpZCfNvhXUjp9"
+        "name": "Dependente de Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0dQX1IZI82UCXg47zWJNvh"
       },
       "artists": [
         {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 367846,
-      "name": "Messias",
-      "url": "https://open.spotify.com/track/1Us77TbG0XgbRqwB6TnKdC"
+      "duration_ms": 329045,
+      "name": "Dependente de Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/1YrMQT4omVlCCKQUGqaJm0"
     },
     {
       "added_at": "2026-01-09 03:01:23",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-01-09 03:01:23",
       "album": {
+        "name": "Gratid\u00e3o (Gratitude) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/5UKejerSpuxuvnUdHoAdwm"
+      },
+      "artists": [
+        {
+          "name": "Bruna Olly",
+          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
+        }
+      ],
+      "duration_ms": 420477,
+      "name": "Gratid\u00e3o (Gratitude) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1q54VNXn2SWxmxyH5HNuea"
+    },
+    {
+      "added_at": "2026-01-09 03:01:23",
+      "album": {
         "name": "Nada Al\u00e9m do Sangue (Ao Vivo)",
         "url": "https://open.spotify.com/album/4x1x5UjNbzoKb3yfDTevRv"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 497320,
       "name": "Nada Al\u00e9m do Sangue - Ao Vivo",
       "url": "https://open.spotify.com/track/1wAAKfuuvSZQaXhHtPAzko"
-    },
-    {
-      "added_at": "2026-01-09 03:01:23",
-      "album": {
-        "name": "Gratid\u00e3o (Gratitude) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/5UKejerSpuxuvnUdHoAdwm"
-      },
-      "artists": [
-        {
-          "name": "Bruna Olly",
-          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
-        }
-      ],
-      "duration_ms": 420477,
-      "name": "Gratid\u00e3o (Gratitude) - Ao Vivo",
-      "url": "https://open.spotify.com/track/1q54VNXn2SWxmxyH5HNuea"
     },
     {
       "added_at": "2026-01-09 03:01:23",
@@ -1103,22 +1103,18 @@
     {
       "added_at": "2026-01-09 03:01:23",
       "album": {
-        "name": "Betel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/36GKPZfDGWd6GWWWbWZjz0"
+        "name": "Amor Infinito / A Mensagem da Cruz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2v1jvE1DqhO2JfGbeNJ2qI"
       },
       "artists": [
         {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 303309,
-      "name": "Betel - Ao Vivo",
-      "url": "https://open.spotify.com/track/3e023EoYu68V1IHJdo18GO"
+      "duration_ms": 355322,
+      "name": "Amor Infinito / A Mensagem da Cruz - Ao Vivo",
+      "url": "https://open.spotify.com/track/3u1g3zx0ckdvqBwRCj7Yhb"
     },
     {
       "added_at": "2026-01-09 03:01:23",
@@ -1139,18 +1135,22 @@
     {
       "added_at": "2026-01-09 03:01:23",
       "album": {
-        "name": "Amor Infinito / A Mensagem da Cruz (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2v1jvE1DqhO2JfGbeNJ2qI"
+        "name": "Betel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/36GKPZfDGWd6GWWWbWZjz0"
       },
       "artists": [
         {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 355322,
-      "name": "Amor Infinito / A Mensagem da Cruz - Ao Vivo",
-      "url": "https://open.spotify.com/track/3u1g3zx0ckdvqBwRCj7Yhb"
+      "duration_ms": 303309,
+      "name": "Betel - Ao Vivo",
+      "url": "https://open.spotify.com/track/3e023EoYu68V1IHJdo18GO"
     },
     {
       "added_at": "2026-01-09 03:01:23",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-01-09 03:01:23",
       "album": {
-        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 328753,
-      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
-    },
-    {
-      "added_at": "2026-01-09 03:01:23",
-      "album": {
         "name": "Inflama (Ao Vivo)",
         "url": "https://open.spotify.com/album/46BFASV2bY4obTjFmStnh8"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 411976,
       "name": "Inflama - Ao Vivo",
       "url": "https://open.spotify.com/track/5FrSW8HWQjFWV6XADtwPLN"
+    },
+    {
+      "added_at": "2026-01-09 03:01:23",
+      "album": {
+        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 328753,
+      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
     },
     {
       "added_at": "2026-01-09 03:01:23",
@@ -1671,6 +1671,26 @@
     {
       "added_at": "2026-01-09 03:01:23",
       "album": {
+        "name": "Fidelidade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/05Lz6yhSIcCYWi0Ycqs59o"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "Danielle Cristina",
+          "url": "https://open.spotify.com/artist/0hUadX7xdewBFB84OcLRgG"
+        }
+      ],
+      "duration_ms": 330921,
+      "name": "Fidelidade (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3BHQNPlsge6KXwC0Fyzkyq"
+    },
+    {
+      "added_at": "2026-01-09 03:01:23",
+      "album": {
         "name": "Melhor Amigo / O Que Seria de Mim (Ao Vivo)",
         "url": "https://open.spotify.com/album/0M1MWbqzgq6IKEgS5LgfN7"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 678000,
       "name": "Melhor Amigo / O Que Seria de Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/7oIrgnR8LIkuFPJPITmGAE"
-    },
-    {
-      "added_at": "2026-01-09 03:01:23",
-      "album": {
-        "name": "Fidelidade (Ao Vivo)",
-        "url": "https://open.spotify.com/album/05Lz6yhSIcCYWi0Ycqs59o"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        },
-        {
-          "name": "Danielle Cristina",
-          "url": "https://open.spotify.com/artist/0hUadX7xdewBFB84OcLRgG"
-        }
-      ],
-      "duration_ms": 330921,
-      "name": "Fidelidade (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3BHQNPlsge6KXwC0Fyzkyq"
     },
     {
       "added_at": "2026-01-09 03:01:23",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2026-01-09 03:01:23",
       "album": {
-        "name": "Eu Vou Orar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/13tq7LjAnlaJCzbICKvp6W"
-      },
-      "artists": [
-        {
-          "name": "Nair Nany",
-          "url": "https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho"
-        }
-      ],
-      "duration_ms": 1356604,
-      "name": "Eu Vou Orar - Ao Vivo",
-      "url": "https://open.spotify.com/track/7wZQH168Uz7cZQbLyoid2U"
-    },
-    {
-      "added_at": "2026-01-09 03:01:23",
-      "album": {
         "name": "Eu Confio em Ti",
         "url": "https://open.spotify.com/album/4fODYhgMDmRFyAs17YQwlZ"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 303582,
       "name": "Eu Confio em Ti",
       "url": "https://open.spotify.com/track/2h57Y9zXYOZPrZQFflBSkN"
+    },
+    {
+      "added_at": "2026-01-09 03:01:23",
+      "album": {
+        "name": "Eu Vou Orar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/13tq7LjAnlaJCzbICKvp6W"
+      },
+      "artists": [
+        {
+          "name": "Nair Nany",
+          "url": "https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho"
+        }
+      ],
+      "duration_ms": 1356604,
+      "name": "Eu Vou Orar - Ao Vivo",
+      "url": "https://open.spotify.com/track/7wZQH168Uz7cZQbLyoid2U"
     },
     {
       "added_at": "2026-01-09 03:01:23",

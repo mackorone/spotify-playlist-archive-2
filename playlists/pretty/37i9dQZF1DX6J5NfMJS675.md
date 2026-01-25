@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,651,100 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,651,359 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 99 | [TA TA TA](https://open.spotify.com/track/1Ze3yn5gQ2T8gcV0GJFXzt) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [TA TA TA](https://open.spotify.com/album/0QqNZEQTSdkYgZytXCMRFK) | 6:04 |
 | 100 | [Rave In Progress](https://open.spotify.com/track/45awmBx5QA6lX5ElGD48Yf) | [Tao Andra](https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC) | [Rave In Progress](https://open.spotify.com/album/1ztHPyz3cgni4HKz6riaKy) | 5:46 |
 
-Snapshot ID: `AAAAAJjIazMtAqxrD5HhyKOBt2tuHaHZ`
+Snapshot ID: `AAAAANfxVzVWILDDgvVYm5Q06UeEubtc`

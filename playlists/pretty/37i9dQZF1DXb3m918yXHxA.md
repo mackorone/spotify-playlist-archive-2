@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 
 > Cruise to the smooth grooves of these yacht rock tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,735,572 likes - 140 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,735,946 likes - 140 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 74 | [I Don't Wanna Go](https://open.spotify.com/track/0KMFURs7dRsqoAY2uL4ddl) | [Bruce Roberts](https://open.spotify.com/artist/1liZxHhIHGMKRPV0Fdy4a5) | [Bruce Roberts](https://open.spotify.com/album/5fNsfvz2nUiRxAWyR8rUeZ) | 4:07 |
 | 75 | [Got to Be Lovin' You](https://open.spotify.com/track/5JIobM5qcmVROZLIAJz4gD) | [Erik Tagg](https://open.spotify.com/artist/5zcCnWi56qN3EgcQZUg2gR) | [Rendez\-Vous](https://open.spotify.com/album/7hoTV10wiY6EFY9885V0p2) | 3:28 |
 | 76 | [Fool's Paradise](https://open.spotify.com/track/6gX5B6uMDXFiK1qbq3NKlg) | [Randy Goodrum](https://open.spotify.com/artist/1SbKRR7aw8TnLV35xMJvo0) | [Fool's Paradise](https://open.spotify.com/album/7ttmmKXqE5StIAgOvU1V2C) | 3:58 |
-| 77 | [Something Special](https://open.spotify.com/track/6C1WGhMEFYL1M0ERmfzUI7) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [The Dude](https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0) | 3:57 |
+| 77 | [Something Special](https://open.spotify.com/track/6C1WGhMEFYL1M0ERmfzUI7) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [The Dude](https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0) | 3:57 |
 | 78 | [Fool In Love With You](https://open.spotify.com/track/6nvZ6LcEwas87GMp9pSPJ7) | [Jim Photoglo](https://open.spotify.com/artist/4ZeqFaMDjGUe1IHJznXUbr) | [カフェ・ドライブ・スタンダード 2・・・AOR・ドライブ・ミュージック決定盤](https://open.spotify.com/album/5CbHlv3t41FPcvuez6I3jW) | 3:46 |
 | 79 | [Casablanca](https://open.spotify.com/track/2dcL0moa4ZOrRNUBrOMojo) | [Dane Donohue](https://open.spotify.com/artist/4kTI0EhldC81wN7PSBki3A) | [Dane Donohue](https://open.spotify.com/album/34LLJFmhTpNRaKVR5qnqwx) | 4:03 |
 | 80 | [Follow My Heart](https://open.spotify.com/track/55Os4TtuYgcPv4hsZFnazO) | [Faragher Brothers](https://open.spotify.com/artist/4zUTx3tB4IQyx7CorqZBHK) | [Family Ties](https://open.spotify.com/album/4KoLUDhdrouHCdIJvtR1un) | 4:18 |

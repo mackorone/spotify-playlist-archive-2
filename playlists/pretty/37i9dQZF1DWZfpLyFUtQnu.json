@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 108939,
+  "num_followers": 108959,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
-        "name": "Au Nom D'Une Femme",
-        "url": "https://open.spotify.com/album/3uaw8NfCYdRLPLpslvQMzu"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9l\u00e8ne S\u00e9gara",
-          "url": "https://open.spotify.com/artist/4jqOuZDAtFnB3uGEnNxlvX"
-        }
-      ],
-      "duration_ms": 305493,
-      "name": "Elle, tu l'aimes",
-      "url": "https://open.spotify.com/track/08nsSNtxmSCCjq546wZ2E7"
-    },
-    {
-      "added_at": "2026-01-21 14:43:12",
-      "album": {
         "name": "Barbara - N\u00b02",
         "url": "https://open.spotify.com/album/0X0u1qU7jwtTl78v79UEbd"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 161786,
       "name": "G\u00f6ttingen",
       "url": "https://open.spotify.com/track/2ZDTHTFzBneaicxxRpKpWe"
+    },
+    {
+      "added_at": "2026-01-21 14:43:12",
+      "album": {
+        "name": "Au Nom D'Une Femme",
+        "url": "https://open.spotify.com/album/3uaw8NfCYdRLPLpslvQMzu"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9l\u00e8ne S\u00e9gara",
+          "url": "https://open.spotify.com/artist/4jqOuZDAtFnB3uGEnNxlvX"
+        }
+      ],
+      "duration_ms": 305493,
+      "name": "Elle, tu l'aimes",
+      "url": "https://open.spotify.com/track/08nsSNtxmSCCjq546wZ2E7"
     },
     {
       "added_at": "2026-01-21 14:43:12",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
-        "name": "On fait comme si",
-        "url": "https://open.spotify.com/album/0UpDT5u1kYDZV21UBQctll"
-      },
-      "artists": [
-        {
-          "name": "Calogero",
-          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
-        }
-      ],
-      "duration_ms": 251625,
-      "name": "On fait comme si",
-      "url": "https://open.spotify.com/track/0QaVAoRnez6qMlLPqbB4fd"
-    },
-    {
-      "added_at": "2026-01-21 14:43:12",
-      "album": {
         "name": "Des ombres et des lumi\u00e8res - Live \u00e0 l'Olympia / 2016",
         "url": "https://open.spotify.com/album/29AWK7mk7bfJ6QR2CX1fUX"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 174400,
       "name": "Ton visage - Acoustic",
       "url": "https://open.spotify.com/track/5DAG0y0LtmvZCcc2uHNwUR"
+    },
+    {
+      "added_at": "2026-01-21 14:43:12",
+      "album": {
+        "name": "On fait comme si",
+        "url": "https://open.spotify.com/album/0UpDT5u1kYDZV21UBQctll"
+      },
+      "artists": [
+        {
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+        }
+      ],
+      "duration_ms": 251625,
+      "name": "On fait comme si",
+      "url": "https://open.spotify.com/track/0QaVAoRnez6qMlLPqbB4fd"
     },
     {
       "added_at": "2026-01-21 14:43:12",

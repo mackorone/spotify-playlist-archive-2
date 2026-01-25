@@ -276,10 +276,28 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 153575,
       "name": "AlterHuman",
       "url": "https://open.spotify.com/track/5iFc7qq3RJDAvyGSHFm27Z"
+    },
+    {
+      "album": {
+        "name": "Thanks to You Song",
+        "url": "https://open.spotify.com/album/7jR9LLmvyGevD3hgWa8geY"
+      },
+      "artists": [
+        {
+          "name": "Ghost and Pals",
+          "url": "https://open.spotify.com/artist/3Avni6DLpoxtanND8mG5t8"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275382,
+      "name": "Amygdala's Rag Doll",
+      "url": "https://open.spotify.com/track/11LOpncQm2hylzwfvG2j7q"
     },
     {
       "album": {
@@ -512,7 +530,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 160260,
       "name": "b my wife!!!",
       "url": "https://open.spotify.com/track/0lFMYVknhjtmRGviL3bnSb"
@@ -606,7 +624,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 136800,
       "name": "Bathtub Wine Barf Homocide Fantasy",
       "url": "https://open.spotify.com/track/3qqRtGhdKzl3xDm2zR7AKu"
@@ -1050,7 +1068,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-04",
+      "date_removed": null,
       "duration_ms": 121573,
       "name": "CATBOY JERMA",
       "url": "https://open.spotify.com/track/2yVtfEQ0EVMIA3qKDoDmW7"
@@ -1072,7 +1090,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 172109,
       "name": "Catdelions IIS",
       "url": "https://open.spotify.com/track/6TROIvKbmnmfIZhuN2v3Vj"
@@ -1380,7 +1398,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 132359,
       "name": "destruction",
       "url": "https://open.spotify.com/track/6IP1eZ0wac2kgEKPDDH3Ro"
@@ -1550,7 +1568,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 168428,
       "name": "Dumbass of the Century",
       "url": "https://open.spotify.com/track/45Ad16HqTlyWwfbehEu6OI"
@@ -1652,7 +1670,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 152423,
       "name": "Ena MIX (Allergic to People MIX)",
       "url": "https://open.spotify.com/track/34jDexIVNRb3E12CMkQwlZ"
@@ -1728,7 +1746,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 166736,
       "name": "femboifoxxx",
       "url": "https://open.spotify.com/track/72vTaHJmwwd3SBMgB4hOY6"
@@ -1800,7 +1818,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 117408,
       "name": "freeze up",
       "url": "https://open.spotify.com/track/2AcVmJdkcBv6OWIiSyW35a"
@@ -1856,6 +1874,24 @@
       "duration_ms": 208840,
       "name": "fresh carcasses.",
       "url": "https://open.spotify.com/track/5znRinARbnUolImY145V1A"
+    },
+    {
+      "album": {
+        "name": "GOODNIGHT HYPNOPOMP",
+        "url": "https://open.spotify.com/album/7L1Opq0iCYuxIqJITnPTUw"
+      },
+      "artists": [
+        {
+          "name": "STOMACH BOOK",
+          "url": "https://open.spotify.com/artist/079cEjjSpv5dOLH5xsGdvN"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233697,
+      "name": "FUKOUNA GIRL",
+      "url": "https://open.spotify.com/track/6RyCpAEHMj1nbopw1g2TsO"
     },
     {
       "album": {
@@ -1950,7 +1986,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 185403,
       "name": "GET A GRIP",
       "url": "https://open.spotify.com/track/39mM3KXqR0wJbPudGacS8s"
@@ -1968,7 +2004,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 428264,
       "name": "Gretel",
       "url": "https://open.spotify.com/track/5lucZSfaDtCUU98IEBaRUa"
@@ -2004,7 +2040,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 166303,
       "name": "Happy Heartcore",
       "url": "https://open.spotify.com/track/0vYvVMT7Q667znq6qbJxiE"
@@ -2040,7 +2076,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 107934,
       "name": "HEWWO KITTY! >:3c",
       "url": "https://open.spotify.com/track/4FiiLjiitN0a93CGSVuCzX"
@@ -2098,7 +2134,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 163392,
       "name": "Hollywood Yeen",
       "url": "https://open.spotify.com/track/0V6tfonIgu4cExDWY78A6o"
@@ -2152,7 +2188,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 166891,
       "name": "i love u vro!",
       "url": "https://open.spotify.com/track/3az3CmGD2sWLsoIQZrVZi5"
@@ -2250,7 +2286,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 140020,
       "name": "i talk to the stars",
       "url": "https://open.spotify.com/track/1l3ZxNNw5rtuYa4mI3laJ0"
@@ -2766,7 +2802,7 @@
       ],
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 140636,
       "name": "KISS ME!",
       "url": "https://open.spotify.com/track/20riOYw5Hx4Szj1p0lVQmX"
@@ -3446,7 +3482,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 342993,
       "name": "NOMINAL VALUE",
       "url": "https://open.spotify.com/track/7jGR5DJhEaQw8VobMryQKq"
@@ -4140,7 +4176,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 105000,
       "name": "Sleep Paralysis",
       "url": "https://open.spotify.com/track/1MniCshySWjTHcKkUo863V"
@@ -4418,7 +4454,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 118299,
       "name": "TBH",
       "url": "https://open.spotify.com/track/63UApHP3z3JkF5uuG3A7U4"
@@ -4578,7 +4614,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 135529,
       "name": "The Ultimate Swag",
       "url": "https://open.spotify.com/track/3m5UPxagPp7T6hA7Kh7Iil"
@@ -4766,7 +4802,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 148500,
       "name": "VICTIMiZED",
       "url": "https://open.spotify.com/track/6K8EAeBdTspjpkHwuIn7H9"
@@ -4802,7 +4838,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 78233,
       "name": "want me dead",
       "url": "https://open.spotify.com/track/0IKyrmqsTmNynOa1muZ3RX"
@@ -4864,7 +4900,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 93275,
       "name": "WEBKINZLID NYA NYA DANCE",
       "url": "https://open.spotify.com/track/50nI2pLf41U0IKg4ZDCoEN"
@@ -4882,7 +4918,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 164500,
       "name": "Who are you pretending to be?",
       "url": "https://open.spotify.com/track/69A4Q06Iti2SBP2bOr9keD"

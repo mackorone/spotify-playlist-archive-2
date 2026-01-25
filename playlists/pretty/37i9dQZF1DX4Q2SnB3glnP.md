@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 
 > Music wellness for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,675 likes - 232 songs - 10 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,775 likes - 232 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -241,4 +241,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 231 | [Meaning](https://open.spotify.com/track/1AH5Pxh6hVzhNo4O33oBYt) | [Spatia Sonica](https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk) | [Meaning](https://open.spotify.com/album/0nDb86s12lBJEjV5q5f1fE) | 2:32 |
 | 232 | [Through The Pines](https://open.spotify.com/track/1ajtajMK9QLumz8fzLZ57o) | [Luna Serenity](https://open.spotify.com/artist/6NjcHrItY1c8OnFcY70avf) | [Through The Pines](https://open.spotify.com/album/4VAai7BhRiucUUMbeIXQGK) | 2:26 |
 
-Snapshot ID: `AAAAABUO3T2ufT6661ThN29AAc8RuWEW`
+Snapshot ID: `AAAAAKqNkk4s9dZNH/MiMjhVmuQgg1ii`

@@ -3835,6 +3835,24 @@
     },
     {
       "album": {
+        "name": "JANE GOODALL",
+        "url": "https://open.spotify.com/album/2qIQggwIpzjsP0k7tsG7SY"
+      },
+      "artists": [
+        {
+          "name": "Rolo",
+          "url": "https://open.spotify.com/artist/7KGGo3dYH0hGs2JWllqI1I"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93158,
+      "name": "JANE GOODALL",
+      "url": "https://open.spotify.com/track/0zdrvHfEwtIEB5McVRw9XP"
+    },
+    {
+      "album": {
         "name": "jenny jenkins tribute",
         "url": "https://open.spotify.com/album/19AOOVCHpr2XNY6amT024Y"
       },

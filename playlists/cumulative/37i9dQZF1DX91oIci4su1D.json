@@ -16804,7 +16804,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 316800,
       "name": "Orbital",
       "url": "https://open.spotify.com/track/1YP0dnGSrwpvMF18ONgO4C"
@@ -25636,6 +25636,28 @@
       "duration_ms": 281142,
       "name": "When Darkness Comes",
       "url": "https://open.spotify.com/track/7saRdP4N7PG6a38pI2Hpo9"
+    },
+    {
+      "album": {
+        "name": "When I Found You",
+        "url": "https://open.spotify.com/album/3gftFtNaaZxWSrPzOBGKM9"
+      },
+      "artists": [
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        },
+        {
+          "name": "Ciaran McAuley",
+          "url": "https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267428,
+      "name": "When I Found You",
+      "url": "https://open.spotify.com/track/7sKNFCASmjb4USs8M0BScb"
     },
     {
       "album": {

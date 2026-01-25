@@ -1323,6 +1323,24 @@
     },
     {
       "album": {
+        "name": "El Mundo Es Tuyo (Inspired by Clika The Movie)",
+        "url": "https://open.spotify.com/album/483rY0KgR09KOId3ohGwiY"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200700,
+      "name": "No Quiero Amores",
+      "url": "https://open.spotify.com/track/5WMyImX0GHhuZGKO8WSU4w"
+    },
+    {
+      "album": {
         "name": "Se Va Pa Largo 2",
         "url": "https://open.spotify.com/album/2hUFEj13uquBzCLjj7zlAB"
       },
@@ -1806,7 +1824,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 166604,
       "name": "Te Super\u00f3",
       "url": "https://open.spotify.com/track/5r3HsAHjimlaez7eJ04jgZ"

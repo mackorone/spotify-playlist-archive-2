@@ -4,7 +4,7 @@
 
 > Les plus grands tubes français des années 80\. Photo : France Gall
 
-87 songs - 6 hr 10 min
+88 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Les démons de minuit](https://open.spotify.com/track/2ne2QYNb5DjByvKPOtzQaM) | [Images](https://open.spotify.com/artist/6BGRCwCR7pQWXqWNhBE2vf) | [Les démons de minuit](https://open.spotify.com/album/6hOGy2ogj9tbIIpfQ5aQOO) | 3:51 | 2025-07-17 |  |
 | [Les valses de Vienne](https://open.spotify.com/track/6J8iEzFAr5Y3rlUWwCgvA0) | [François Feldman](https://open.spotify.com/artist/3marwXSwSzZctZtvg35LOe) | [Une Presence](https://open.spotify.com/album/30GgLVvljvzINURzmnEhik) | 4:05 | 2022-09-12 | 2024-04-19 |
 | [Les valses de Vienne](https://open.spotify.com/track/4MTCNjhonKLRb8WIHpTTy8) | [François Feldman](https://open.spotify.com/artist/3marwXSwSzZctZtvg35LOe) | [Best Of](https://open.spotify.com/album/25bmlyAK19NFZ7QHIZZrsi) | 4:05 | 2022-09-12 | 2025-12-30 |
+| [Lili voulait aller danser](https://open.spotify.com/track/5W8DHtd2JOU9q7X3pvzafw) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Femmes, indiscrétion, blasphème](https://open.spotify.com/album/6F7PDFzEi076fEcgMTt34f) | 3:58 | 2025-12-29 |  |
 | [Mademoiselle chante le blues](https://open.spotify.com/track/4bBK4HzDQjhx5JpCAByE4z) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Tubes Chanson Française](https://open.spotify.com/album/2KbsMCeNs0OkgVdiqVoffJ) | 3:48 | 2022-09-12 | 2024-04-19 |
 | [Mademoiselle chante le blues](https://open.spotify.com/track/5ujGotlh6RnbCUrKh5c5AO) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Réveillon 80](https://open.spotify.com/album/1e2faUwz3Efp2dNVve2XIf) | 3:48 | 2022-09-12 | 2024-01-29 |
 | [Mademoiselle chante le blues](https://open.spotify.com/track/6vjDUJqVKU9Ws7AIHBCAv9) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Mademoiselle Chante](https://open.spotify.com/album/2I1n984xfOozMfDA1TGvo7) | 3:48 | 2022-09-12 | 2025-07-18 |
@@ -73,7 +74,7 @@
 | [Mon mec à moi](https://open.spotify.com/track/69cjFYQg0lE0e48bgOPhfy) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Rien ne s'arrête \(1987 \- 2001\)](https://open.spotify.com/album/6sklF5x3mauqDdLFPgIqJw) | 4:13 | 2022-09-12 | 2024-03-27 |
 | [Morgane de toi](https://open.spotify.com/track/3v6ClatJ2nG0TIpfL3HwY1) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Morgane De Toi \(Remastered\)](https://open.spotify.com/album/0kXYiKUznqm9ZyFxhuOvBE) | 6:12 | 2022-09-12 | 2025-07-18 |
 | [Morgane de toi](https://open.spotify.com/track/5OYXpxvWMhgMntxoW1Xg8c) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Renaud CD Story](https://open.spotify.com/album/1QuRVhgQ3UM7N9dz0O1s0z) | 6:12 | 2022-09-12 | 2024-04-19 |
-| [Mélissa](https://open.spotify.com/track/4YkRb6KIi03YSfGuTDJrZG) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [A Rendez\-Vous With Julien Clerc](https://open.spotify.com/album/1BBkJnf0MLDGRcMzEsal7C) | 3:00 | 2022-09-12 |  |
+| [Mélissa](https://open.spotify.com/track/4YkRb6KIi03YSfGuTDJrZG) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [A Rendez\-Vous With Julien Clerc](https://open.spotify.com/album/1BBkJnf0MLDGRcMzEsal7C) | 3:00 | 2022-09-12 | 2026-01-25 |
 | [Nuit magique](https://open.spotify.com/track/0YxdyPaSGBTOo2ebZzIrif) | [Catherine Lara](https://open.spotify.com/artist/3eFOtlrhUuKPOrO2JlM6AS) | [Nuit Magique](https://open.spotify.com/album/7e1YgRKma8OQZ6PRIF82Ac) | 4:47 | 2022-09-12 | 2024-04-19 |
 | [Nuit magique](https://open.spotify.com/track/4XguFCQNeBYU4IrGQXr51I) | [Catherine Lara](https://open.spotify.com/artist/3eFOtlrhUuKPOrO2JlM6AS) | [Nuit Magique](https://open.spotify.com/album/4lWltwWBnNxX22ptxDUyFN) | 4:47 | 2022-09-12 | 2025-12-30 |
 | [Paris Latino \- Original Version 1983](https://open.spotify.com/track/3LCup59DMpM3r6fwQsZMYs) | [Bandolero](https://open.spotify.com/artist/5lh1imF7kkn87IHQsoEjJB) | [Best of Bandolero \(Le meilleur des années 80\)](https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX) | 4:03 | 2025-07-17 |  |

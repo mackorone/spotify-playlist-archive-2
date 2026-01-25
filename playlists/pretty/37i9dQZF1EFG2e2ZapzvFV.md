@@ -182,6 +182,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 172 | [I Would \- Australian Version](https://open.spotify.com/track/3lGjD7k0g4VopZ1M9WyIYm) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [My Only](https://open.spotify.com/album/1YWbJuyQjHIqpIMwZt5Zvp) | 3:21 |
 | 173 | [Suffocating Slow](https://open.spotify.com/track/31NFESnhQMw2XQMt41EJ1Q) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/3x3lrvuEZeyt6ocLp4XTOT) | 3:08 |
 | 174 | [Stay](https://open.spotify.com/track/7l8HiGTHMix5788jAiekrb) | [indi](https://open.spotify.com/artist/1m7azj0LWTDGWAPvgvGPGa) | [Stay](https://open.spotify.com/album/5j0FgJxARSQd91znRQrVkd) | 4:09 |
-| 175 | [The Way I Are \(Dance With Somebody\)](https://open.spotify.com/track/55SmRP4JqxfhGfh09x1ykd) | [Emma Andrews](https://open.spotify.com/artist/7fn3lbp9fzuzXM6s0x7ON8), [Robert Chavez](https://open.spotify.com/artist/7s9j4TUQkjQNQvb9XwFtj7) | [Thunderclouds](https://open.spotify.com/album/6oNm6Ph5gEZX6TpdY31hTm) | 3:11 |
+| 175 | [The Way I Are \(Dance with Somebody\)](https://open.spotify.com/track/4JlnIhyQLH7733f8AH4OhZ) | [Layla Evans](https://open.spotify.com/artist/62f3DqAKO4ub6FtBchPUsI), [Mario Best](https://open.spotify.com/artist/1WycnPFicBoKKr7wWpDTns) | [Best of Pop Hits Today](https://open.spotify.com/album/1l629hKJwRUOlVP7MtqHDE) | 3:11 |
 
-Snapshot ID: `AcHvwAAAAABkVAt5wAJoV3pGCBNJRGOh`
+Snapshot ID: `AcH1YAAAAACLeNo+S4S+kpCBgk9AjpE+`

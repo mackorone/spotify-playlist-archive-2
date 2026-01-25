@@ -20573,6 +20573,24 @@
     },
     {
       "album": {
+        "name": "Morning Silence",
+        "url": "https://open.spotify.com/album/6X87IPxXRlWST3IDqo7ziQ"
+      },
+      "artists": [
+        {
+          "name": "Eternal Spring",
+          "url": "https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60535,
+      "name": "Morning Silence",
+      "url": "https://open.spotify.com/track/5ZJ5PnXAuQgPowrqfyACbs"
+    },
+    {
+      "album": {
         "name": "Morning Sky",
         "url": "https://open.spotify.com/album/1F9xNdcF0zVE2ZG3fYma6L"
       },

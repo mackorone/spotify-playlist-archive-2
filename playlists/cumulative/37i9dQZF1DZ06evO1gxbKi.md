@@ -4,12 +4,12 @@
 
 > This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-169 songs - 8 hr 22 min
+170 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [99 1/2 Won't Do](https://open.spotify.com/track/7AJRlFDvX1PhxFIDJRMMFS) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 1:59 | 2022-05-25 |  |
-| [99 ½ Won't Do \(Gospel Train\) \- 2025 Digitally Remastered](https://open.spotify.com/track/4932PCVeQLUf7iKrlk52vS) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Four Classic Albums \(Gospel Train / The Gospel Truth \(1959\) / Sister Rosetta Tharpe / The Gospel Truth \- All New! Her Greatest Gospel Hits \(1962\)\)](https://open.spotify.com/album/0IzwmnuREfiYMFtVgGmnrW) | 1:59 | 2026-01-17 |  |
+| [99 ½ Won't Do \(Gospel Train\) \- 2025 Digitally Remastered](https://open.spotify.com/track/4932PCVeQLUf7iKrlk52vS) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Four Classic Albums \(Gospel Train / The Gospel Truth \(1959\) / Sister Rosetta Tharpe / The Gospel Truth \- All New! Her Greatest Gospel Hits \(1962\)\)](https://open.spotify.com/album/0IzwmnuREfiYMFtVgGmnrW) | 1:59 | 2026-01-17 | 2026-01-25 |
 | [99 ½ Won't Do \(Gospel Train\) \- 2025 Digitally Remastered](https://open.spotify.com/track/6CV6KDG0uVgcYxN5lheerS) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Four Classic Albums \(Gospel Train / The Gospel Truth \(1959\) / Sister Rosetta Tharpe / The Gospel Truth \- All New! Her Greatest Gospel Hits \(1962\)\)](https://open.spotify.com/album/0DoAIX7HSofgOw1puyDZBY) | 1:59 | 2025-06-08 | 2026-01-17 |
 | [All Alone](https://open.spotify.com/track/0rsTuDQFai2jbs5D2yAxo6) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train](https://open.spotify.com/album/3TdM8fxuOgqJoEA8tS84Px) | 2:37 | 2024-01-11 |  |
 | [All Alone](https://open.spotify.com/track/2FAyOevYFLDtGudjSiWUlw) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 2:40 | 2022-05-25 | 2024-01-12 |
@@ -129,6 +129,7 @@
 | [Sleep on Darling Mother](https://open.spotify.com/track/5zwea1dgarGWUuCxOZfDvc) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Trouble in Mind](https://open.spotify.com/album/7pd386kkBPHie54j3kyRpG) | 3:05 | 2022-05-28 | 2024-01-08 |
 | [So High, So Low](https://open.spotify.com/track/0GGJAc3cUtcwNkSh3Ch4OT) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 2:21 | 2022-05-26 |  |
 | [Somebody Needs Jesus](https://open.spotify.com/track/6814OBIGcgQOKA0mx52p70) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [The Rosettes](https://open.spotify.com/artist/41AAQ12p0hQJzH0ze5ANVD), [Sam Price Trio](https://open.spotify.com/artist/2RWOiWqyH0TkExmKSjZ9sd) | [Blessed Assurance \(Expanded Edition\)](https://open.spotify.com/album/0uwIyZoW8IFjkQzdSjllQc) | 2:27 | 2022-05-29 |  |
+| [Somebody's Child](https://open.spotify.com/track/5U33vcXzgKsE44cHR1ECjj) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Best Of Sister Rosetta Tharpe](https://open.spotify.com/album/0JxBYG03IPDAcCdNEtQq7x) | 3:10 | 2026-01-25 |  |
 | [Stand By Me](https://open.spotify.com/track/6wNOmArJVUaztEClcF2r4D) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Decca Singles, Vol\. 1](https://open.spotify.com/album/4KNYUWaNkzdOHQQ2xWlRwD) | 2:51 | 2022-08-09 | 2022-10-11 |
 | [Stand by Me](https://open.spotify.com/track/2MWYCAWmPLl5ILNgwDhL60) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rock Me](https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0) | 2:53 | 2023-12-19 | 2024-08-23 |
 | [Stand by Me](https://open.spotify.com/track/7j3gsabZNOnUJ8XlvL9WFq) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Original Soul Sister](https://open.spotify.com/album/6O3zPjpqUdG4dg9i9ZLANF) | 3:34 | 2022-05-25 |  |

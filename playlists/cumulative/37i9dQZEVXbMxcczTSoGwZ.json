@@ -85,6 +85,32 @@
     },
     {
       "album": {
+        "name": "Aris",
+        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        },
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233434,
+      "name": "+-0",
+      "url": "https://open.spotify.com/track/1MWkXV0BeBUXYiqAKfPAdF"
+    },
+    {
+      "album": {
         "name": "10 000 tuntii",
         "url": "https://open.spotify.com/album/6EgRhNmKgqozqEPgPBa0Xq"
       },
@@ -1629,6 +1655,28 @@
     },
     {
       "album": {
+        "name": "Aris",
+        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "Sliki",
+          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125135,
+      "name": "Aikuinen mies",
+      "url": "https://open.spotify.com/track/54VuYTGSWEnMzrFexUlpuh"
+    },
+    {
+      "album": {
         "name": "Aikuisii",
         "url": "https://open.spotify.com/album/4bAylNnfdgChUN2oNZduem"
       },
@@ -3074,6 +3122,24 @@
       "duration_ms": 200690,
       "name": "Anti-Hero",
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+    },
+    {
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
     },
     {
       "album": {
@@ -6156,6 +6222,28 @@
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
+    },
+    {
+      "album": {
+        "name": "Carolina Herrera (feat. VilleGalle)",
+        "url": "https://open.spotify.com/album/18gxa8D3F2DP27Hax1rBPC"
+      },
+      "artists": [
+        {
+          "name": "Victor Nordis",
+          "url": "https://open.spotify.com/artist/1DAgitxRlJMroOghdSraJp"
+        },
+        {
+          "name": "VilleGalle",
+          "url": "https://open.spotify.com/artist/6VVSjZwPAHNbkKeMhTI2bb"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181466,
+      "name": "Carolina Herrera (feat. VilleGalle)",
+      "url": "https://open.spotify.com/track/5mBwJ2eCKsY4iCk7W7Jbln"
     },
     {
       "album": {
@@ -9404,7 +9492,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 225210,
       "name": "Ei kulu p\u00e4iv\u00e4\u00e4k\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/0Q3f5sp2j2NESNeyH8YeC2"
@@ -15011,6 +15099,28 @@
     },
     {
       "album": {
+        "name": "Aris",
+        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "Greekazo",
+          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170109,
+      "name": "Helppo raha ei oo vaikee teh\u00e4",
+      "url": "https://open.spotify.com/track/1cHaaPtj2ofTESmYZNOGFR"
+    },
+    {
+      "album": {
         "name": "Helsingis on tulva",
         "url": "https://open.spotify.com/album/6j4z0Wasx2GXnM37GLp9uo"
       },
@@ -17558,7 +17668,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 196837,
       "name": "Iha miten vaa",
       "url": "https://open.spotify.com/track/5CbkZJipjT198pDW8v3k2u"
@@ -18034,6 +18144,28 @@
       "duration_ms": 154443,
       "name": "Ik\u00e4v\u00e4 mua",
       "url": "https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3"
+    },
+    {
+      "album": {
+        "name": "Aris",
+        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174453,
+      "name": "Ik\u00e4v\u00e4, kyll\u00e4",
+      "url": "https://open.spotify.com/track/0ODbSS6Tq4WqqazALjwksv"
     },
     {
       "album": {
@@ -20680,7 +20812,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 165185,
       "name": "Kaihosielu",
       "url": "https://open.spotify.com/track/625qY3SEapY3D5tPoeG5Rz"
@@ -22558,7 +22690,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 176002,
       "name": "Kill4Me",
       "url": "https://open.spotify.com/track/65rl6bTeV4tTZw7qMeGGFw"
@@ -29696,7 +29828,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 188631,
       "name": "Meid\u00e4n t\u00e4ss\u00e4 kuuluisi rakastuu",
       "url": "https://open.spotify.com/track/6yy7IWGVnuqG6pXjDPzRxc"
@@ -32734,7 +32866,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 180031,
       "name": "Ms. Bad",
       "url": "https://open.spotify.com/track/4CNnv8cGfLUKpuvSysGbbm"
@@ -34875,6 +35007,24 @@
     },
     {
       "album": {
+        "name": "Aris",
+        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183558,
+      "name": "Niin se vaan on",
+      "url": "https://open.spotify.com/track/0X11Pz21YSmfrUJ6RnWElk"
+    },
+    {
+      "album": {
         "name": "Niin Siin Vaan K\u00e4vi",
         "url": "https://open.spotify.com/album/4ynfM4RYJfMMOzGFxL9skL"
       },
@@ -35060,7 +35210,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 197141,
       "name": "No Haav No Love",
       "url": "https://open.spotify.com/track/0O9puXumDoUbzwM6yrySbF"
@@ -35756,6 +35906,28 @@
       "duration_ms": 174589,
       "name": "N\u00c4YTTELIJ\u00c4",
       "url": "https://open.spotify.com/track/5MlT5QlC5YM8eVfNLv9I10"
+    },
+    {
+      "album": {
+        "name": "Aris",
+        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155167,
+      "name": "N\u00e4yt\u00e4 niille",
+      "url": "https://open.spotify.com/track/4eLxZy4ut0QmyhlPXJgi6b"
     },
     {
       "album": {
@@ -36682,6 +36854,24 @@
       "duration_ms": 174006,
       "name": "Onnea matkaan",
       "url": "https://open.spotify.com/track/2SbVrYGU6Jt0MLc4nz7LBF"
+    },
+    {
+      "album": {
+        "name": "Aris",
+        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160343,
+      "name": "Onneks",
+      "url": "https://open.spotify.com/track/0V4UHvcAjBu1kaYbIETEVP"
     },
     {
       "album": {
@@ -41140,7 +41330,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 198000,
       "name": "Rakkauden haudalla (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
       "url": "https://open.spotify.com/track/5qO4CmSoNy3A6Q2G6SzSuQ"
@@ -41162,6 +41352,24 @@
       "duration_ms": 164921,
       "name": "rakkaudenkest\u00e4v\u00e4",
       "url": "https://open.spotify.com/track/71MMckG3rl581ipWpEm1GV"
+    },
+    {
+      "album": {
+        "name": "Rakkaudenkipee",
+        "url": "https://open.spotify.com/album/2GojwnBicLHPaakAexrwG7"
+      },
+      "artists": [
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174044,
+      "name": "Rakkaudenkipee",
+      "url": "https://open.spotify.com/track/2aWi2TIoTMu83w6zagrnzx"
     },
     {
       "album": {
@@ -42794,7 +43002,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 151690,
       "name": "R\u00e4ppii, Seksii & Huumeita",
       "url": "https://open.spotify.com/track/4XUndYhoFjUFzrT9zWBWQA"
@@ -43552,7 +43760,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 174667,
       "name": "Sata Enkelii",
       "url": "https://open.spotify.com/track/4kyyeD1eO2wR6VfRKh4gkq"
@@ -43964,6 +44172,28 @@
       "duration_ms": 258108,
       "name": "Schwarz",
       "url": "https://open.spotify.com/track/2UK4qw712yzFh8vYYJGv2B"
+    },
+    {
+      "album": {
+        "name": "Aris",
+        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "Vesala",
+          "url": "https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170343,
+      "name": "Se ei mennyt niin",
+      "url": "https://open.spotify.com/track/1oEOPyKoBkdn5QYHWIOBJW"
     },
     {
       "album": {
@@ -46048,7 +46278,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 198409,
       "name": "Solmui",
       "url": "https://open.spotify.com/track/3mJi3jC4UzeFKU3SOyNqna"
@@ -48470,7 +48700,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 172949,
       "name": "Syyp\u00e4\u00e4 sun hymyyn (Unitas Sigma)",
       "url": "https://open.spotify.com/track/1r0XbA4tHueOfnW3SnoLHu"
@@ -51044,7 +51274,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 209683,
       "name": "Toisessa el\u00e4m\u00e4ss\u00e4",
       "url": "https://open.spotify.com/track/7jLUZ7Hah28SRrs3NDugpD"
@@ -51178,6 +51408,24 @@
       "duration_ms": 174776,
       "name": "Toivon et s\u00e4 l\u00f6yd\u00e4t jonkun",
       "url": "https://open.spotify.com/track/0UTkhHNzrafXfnM0O2O6bN"
+    },
+    {
+      "album": {
+        "name": "Aris",
+        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163777,
+      "name": "Toivottavasti",
+      "url": "https://open.spotify.com/track/1TJCHMekCEtSTHJwGy1rBX"
     },
     {
       "album": {
@@ -51383,6 +51631,28 @@
     },
     {
       "album": {
+        "name": "Aris",
+        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "pehmoaino",
+          "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165688,
+      "name": "Totuus sattuu",
+      "url": "https://open.spotify.com/track/5D5wXQy4MpnTS5ZOPW5v94"
+    },
+    {
+      "album": {
         "name": "Totuus sattuu",
         "url": "https://open.spotify.com/album/3KHJZYkmNJ8DjqrRGgMsJr"
       },
@@ -51398,7 +51668,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 165688,
       "name": "Totuus sattuu",
       "url": "https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL"
@@ -52212,7 +52482,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 177386,
       "name": "Turn The Lights Off",
       "url": "https://open.spotify.com/track/0wHayguZd1CeQDLYohXNMS"
@@ -52879,6 +53149,24 @@
     },
     {
       "album": {
+        "name": "Aris",
+        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144690,
+      "name": "T\u00e4h\u00e4n on tultu",
+      "url": "https://open.spotify.com/track/1MOdMk3NxOBec8E0SAJ5gU"
+    },
+    {
+      "album": {
         "name": "T\u00e4llee n\u00e4in",
         "url": "https://open.spotify.com/album/6fXfGEUfu9NoYQSCV0Nd8Y"
       },
@@ -53140,6 +53428,24 @@
       "duration_ms": 221216,
       "name": "T\u00e4ss\u00e4k\u00f6 t\u00e4\u00e4 oli? (Vain el\u00e4m\u00e4\u00e4 kausi 12)",
       "url": "https://open.spotify.com/track/3gCV0wcgZIU160hK6xwy6n"
+    },
+    {
+      "album": {
+        "name": "Aris",
+        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184973,
+      "name": "T\u00e4st\u00e4 se vasta alkaa",
+      "url": "https://open.spotify.com/track/4EqvO8rm1vyDVZG4nD380o"
     },
     {
       "album": {
@@ -55062,6 +55368,28 @@
       "duration_ms": 198181,
       "name": "Vegasissa naimisiin (feat. Nelli Matula)",
       "url": "https://open.spotify.com/track/44wSkjptqeM6IEVzAMq7pW"
+    },
+    {
+      "album": {
+        "name": "Aris",
+        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "MELO",
+          "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233984,
+      "name": "Veitsi",
+      "url": "https://open.spotify.com/track/5WrfaQBtLiP0wMuZkDfbmH"
     },
     {
       "album": {
@@ -57380,7 +57708,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"

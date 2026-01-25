@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Commute",
+        "url": "https://open.spotify.com/album/3yRDfvTfroHpvCfOpOJT9n"
+      },
+      "artists": [
+        {
+          "name": "Rude Mood",
+          "url": "https://open.spotify.com/artist/6aqqzC1X5ylqLgKd2FdgSV"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236203,
+      "name": "Commute",
+      "url": "https://open.spotify.com/track/66y8r4BeEnyb9ecsWdfNGj"
+    },
+    {
+      "album": {
         "name": "Como planeta vagabundo",
         "url": "https://open.spotify.com/album/0NmxHLhbmrA8oHthzAv5GH"
       },

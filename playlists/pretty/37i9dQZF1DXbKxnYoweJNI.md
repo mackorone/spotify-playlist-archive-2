@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味廠牌出身，創作就是音樂自主，唱作表現清清楚楚！Cover: 魏如萱 \(Waa Wei\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,042 likes - 121 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,040 likes - 121 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 18 | [等月落星稀](https://open.spotify.com/track/0EjOT2WkOcLDzlFfFKFcbF) | [崔子格](https://open.spotify.com/artist/6UHbp6BjDzZtVMDLjJi1Bl) | [等月落星稀](https://open.spotify.com/album/7kgNENoj3b7ABU8e1Pi2zn) | 3:38 |
 | 19 | [我想我又想你了](https://open.spotify.com/track/4hqx4ZG7ijyviwZcARlJfk) | [PPlin 林芃逸](https://open.spotify.com/artist/6w4UFdB9juoTUzWhBJeOlw) | [我想我又想你了](https://open.spotify.com/album/4oOF2IPjDH2PDQOftWC67J) | 3:10 |
 | 20 | [沼泥 into the mire](https://open.spotify.com/track/1hkf48Z99HkaSViT0Mc200) | [PiEDí](https://open.spotify.com/artist/6Qm0RJU3ocGqFFSoqJq5JM) | [沼泥 into the mire](https://open.spotify.com/album/76LypQBiBKDIMszoCRX2JM) | 3:54 |
-| 21 | [Stop In My Mind](https://open.spotify.com/track/1xzmtfOwYy8GAI6Xxohcei) | [唐仲彣](https://open.spotify.com/artist/2AXIg0cc8pzzVcNnE3sSI6) | [Stop In My Mind](https://open.spotify.com/album/5KTRnaNZWxCRthjCc9sLFn) | 3:21 |
+| 21 | [Stuck in my mind](https://open.spotify.com/track/1xzmtfOwYy8GAI6Xxohcei) | [唐仲彣](https://open.spotify.com/artist/2AXIg0cc8pzzVcNnE3sSI6) | [Stuck in my mind](https://open.spotify.com/album/5KTRnaNZWxCRthjCc9sLFn) | 3:21 |
 | 22 | [為你暫停 \(Stop For You\)](https://open.spotify.com/track/03bgBf6Sezg4w4JxXtUZcG) | [Sam Lin](https://open.spotify.com/artist/3EiW2e93LzyelaCJzRlNl1) | [為你暫停 \(Stop For You\)](https://open.spotify.com/album/6qybUYutXHFbbEFAbofIjw) | 2:36 |
 | 23 | [牡羊座的浪漫](https://open.spotify.com/track/3miHgpv8iPx6Rtox6D8I1r) | [C.Y](https://open.spotify.com/artist/2OasGr7TmpHG8pfhWztDV8) | [牡羊座的浪漫](https://open.spotify.com/album/7M8l3ThRvsI9vbslWSbkSZ) | 3:00 |
 | 24 | [都不難過了，好嗎？ \- 影集《那些你不知道的我》插曲](https://open.spotify.com/track/7ciZzIoIsIswhiKoXXd95j) | [林佳辰](https://open.spotify.com/artist/6XNWn9sizLP7qy2a06D9gg) | [都不難過了，好嗎？ \(影集《那些你不知道的我》插曲\)](https://open.spotify.com/album/0kHLVyofBuPcLAwJHYXtic) | 2:56 |

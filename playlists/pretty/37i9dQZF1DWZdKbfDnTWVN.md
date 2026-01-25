@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T?si=88g02L2xR7GJtLwkX6P7Lw"> Elsy Wameyo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,846 likes - 59 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,860 likes - 59 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 58 | [Properly \(feat\. Femi One\)](https://open.spotify.com/track/7z2iv6bToqzdx8puIywKFI) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6), [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Properly \(feat\. Femi One\)](https://open.spotify.com/album/64iIqEzTMDg4yLrNkKVRFo) | 3:32 |
 | 59 | [Za Kimotho](https://open.spotify.com/track/2BOPAVjxcp0fXHRPgswq75) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [Za Kimotho](https://open.spotify.com/album/0tBH7nKsc80CuRt6pMkldp) | 4:35 |
 
-Snapshot ID: `AAAAAGCDfDxGGvUxRXPCYUuCnXRPvHmt`
+Snapshot ID: `AAAAAEwEP+sNpV4ui02tKAz5DYlnk1GY`

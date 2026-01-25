@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L3Og1YhSY7.md) - [plain]
 
 > Hello Dearheart, curated by Johnny Weir\. Traitors S4 now streaming on Peacock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 267 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

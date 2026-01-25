@@ -1025,6 +1025,24 @@
     },
     {
       "album": {
+        "name": "Jij Krijgt Die Lach Niet Van Mijn Gezicht",
+        "url": "https://open.spotify.com/album/2k1n74zKIcEQiInajgbtIk"
+      },
+      "artists": [
+        {
+          "name": "John De Bever",
+          "url": "https://open.spotify.com/artist/2qAPnua41tsOE6o2L2tl5p"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200779,
+      "name": "Jij Krijgt Die Lach Niet Van Mijn Gezicht",
+      "url": "https://open.spotify.com/track/60VvE1ktlRQSS1RW6CSzoV"
+    },
+    {
+      "album": {
         "name": "Jij Liet Me Vallen",
         "url": "https://open.spotify.com/album/01rLwvJx2VUjcsppCnWNDd"
       },
@@ -1072,7 +1090,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 206400,
       "name": "Kali - Kali",
       "url": "https://open.spotify.com/track/4eyGhxR256IUS9BQbuGEGb"

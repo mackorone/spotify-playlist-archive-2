@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3ubJMppxuP.md) - [plain]
 
 > Hardstyle in het Nederlands\. Feest!
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,726 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,755 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3ubJMppxuP.md) - [plain]
 | 9 | [Zomer Op Het Platteland](https://open.spotify.com/track/3va9avvxP8THnv2ZFpZFpF) | [Beatcrooks](https://open.spotify.com/artist/5iBgiWQkLbV6KTkjd4lI7b) | [Zomer Op Het Platteland](https://open.spotify.com/album/0eje2YhBe7SEHckRuoFu7m) | 2:30 |
 | 10 | [Doe Maar](https://open.spotify.com/track/29JcOMyinCk92BmIw1lBF5) | [Dansado & De Feestmeester](https://open.spotify.com/artist/1Mkig7lvNqKA8Z6QAKy8vG), [Zany](https://open.spotify.com/artist/5lHeHJPYUJdDBXIApseBwO), [Dr Rude](https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s) | [Doe Maar](https://open.spotify.com/album/1tZ2LLBIawSYfhcalfYDRv) | 2:19 |
 | 11 | [Liberté \- Sefa & Outsiders Remix](https://open.spotify.com/track/3oNDynp3Y6F9NvCMqvoxYI) | [Parla & Pardoux](https://open.spotify.com/artist/3qt7yUEE6loq4FEGM7aw3M), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Sefa](https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI) | [Liberté \(Sefa & Outsiders Remix\)](https://open.spotify.com/album/3p7eNUcZSoiMT4XPYr4doO) | 3:00 |
-| 12 | [Epic Sax Song](https://open.spotify.com/track/1MBCOLWlw0wXeSlCgLQCK9) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Epic Sax Song](https://open.spotify.com/album/6NaT8AHDRPSuHT3IZKJjL4) | 2:56 |
+| 12 | [Gas Geven \- Official Karnaval Festival 2025 Anthem](https://open.spotify.com/track/6BoPa3P3MHKqVmC4KxieID) | [Bass Chaserz](https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS), [Buren Van De Brandweer](https://open.spotify.com/artist/0478xZLaj8batwh7Ohh2nB), [Villain](https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3) | [Gas Geven \(Official Karnaval Festival 2025 Anthem\)](https://open.spotify.com/album/0Zf2yyiNSJtaaH1TZAf970) | 2:18 |
 | 13 | [Huichelaar \- Original Mix](https://open.spotify.com/track/6DflceCvdqHim83bvk1gSA) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [De Kraaien](https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf) | [Huichelaar \(Original Mix\)](https://open.spotify.com/album/3J6dxb61uLzT9OahWB4xDI) | 3:00 |
-| 14 | [Gas Geven \- Official Karnaval Festival 2025 Anthem](https://open.spotify.com/track/6BoPa3P3MHKqVmC4KxieID) | [Bass Chaserz](https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS), [Buren Van De Brandweer](https://open.spotify.com/artist/0478xZLaj8batwh7Ohh2nB), [Villain](https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3) | [Gas Geven \(Official Karnaval Festival 2025 Anthem\)](https://open.spotify.com/album/0Zf2yyiNSJtaaH1TZAf970) | 2:18 |
+| 14 | [Epic Sax Song](https://open.spotify.com/track/1MBCOLWlw0wXeSlCgLQCK9) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Epic Sax Song](https://open.spotify.com/album/6NaT8AHDRPSuHT3IZKJjL4) | 2:56 |
 | 15 | [Hartslag \- Hardstyle Remix](https://open.spotify.com/track/3l1cFHb9k9skyeFklUHz38) | [Steffany](https://open.spotify.com/artist/4gNFEcwT0hldqyzHdl231m), [Spearbreak](https://open.spotify.com/artist/4Ek1LKLop7zR9278Wg1FVE) | [Hartslag \(Hardstyle Remix\)](https://open.spotify.com/album/6YX6YttBgE4VQV88MEeCZE) | 3:05 |
 | 16 | [Jouw Liefste Wens \(Happy Høken\)](https://open.spotify.com/track/2IujWWMdXhPYB2WLGtr4XN) | [Beatcrooks](https://open.spotify.com/artist/5iBgiWQkLbV6KTkjd4lI7b), [Christyn](https://open.spotify.com/artist/0hKGyzZGjoD0uKsIMU9UmU) | [Jouw Liefste Wens \(Happy Høken\)](https://open.spotify.com/album/4JcYhcdRcHYBFWJwvN0RaW) | 2:58 |
 | 17 | [De Langste Nacht \(Remix\)](https://open.spotify.com/track/6F28sHG5QXkmZJloKTonxo) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [De Langste Nacht \(Remix\)](https://open.spotify.com/album/4rPfk4MepyG28NcXhxNRDJ) | 3:25 |

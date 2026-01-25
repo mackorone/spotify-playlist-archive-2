@@ -4,7 +4,7 @@
 
 > Bollywood crooner's essential songs.
 
-189 songs - 12 hr 22 min
+190 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Lehra Do](https://open.spotify.com/track/1E2Hs9fuKr9wSPAvlYX8lR) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [83 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/54MWK3HGLOxBWnQRYWEfEA) | 3:37 | 2022-01-05 | 2023-02-02 |
 | [Leke Prabhu Ka Naam \(From "Tiger 3"\)](https://open.spotify.com/track/66v97IvccVkHt40FIOq1LH) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Leke Prabhu Ka Naam \(From "Tiger 3"\)](https://open.spotify.com/album/2IP7pUCOazIHCAbK9eJNcu) | 3:35 | 2023-10-23 | 2024-03-20 |
 | [Lutt Putt Gaya \(From "Dunki"\)](https://open.spotify.com/track/72Z2D7jpKevicRkyL45mbw) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG), [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz) | [Lutt Putt Gaya \(From "Dunki"\)](https://open.spotify.com/album/06griqizTDBczBxvgB91el) | 3:42 | 2023-11-22 |  |
+| [Maatrubhumi \(From "Battle Of Galwan"\)](https://open.spotify.com/track/3kvTEKHAxKZLKXnMi5ev6L) | [Himesh Reshammiya](https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Master Mani Dharamkot](https://open.spotify.com/artist/1UykW7RvQLRDp4oX5g3A7X) | [Maatrubhumi \(From "Battle Of Galwan"\)](https://open.spotify.com/album/3VVXEAfuuOkBNg1HjY9sul) | 6:14 | 2026-01-24 |  |
 | [Main Dhoondne Ko Zamaane Mein](https://open.spotify.com/track/75p6BrziB5urmwPCeXl3y7) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Heartless](https://open.spotify.com/album/1hPrjTLgnaAlEmDIDtfd5X) | 4:22 | 2021-12-08 |  |
 | [Mann Jogiya \(From "Pyaar Hai Toh Hai"\)](https://open.spotify.com/track/1oHCAYOHUIrjBcizvDShgD) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Ishita Vishwakarma](https://open.spotify.com/artist/2oaus66w5EZnNJo22QGq8Z), [Anique](https://open.spotify.com/artist/0RTlYaS7rlNGSc16WACt4w) | [Mann Jogiya \(From "Pyaar Hai Toh Hai"\)](https://open.spotify.com/album/2ImAdzXUegNcgAV2mhbolb) | 4:24 | 2023-12-11 | 2024-04-19 |
 | [Mann Jogiya \(From "Pyaar Hai Toh Hai"\)](https://open.spotify.com/track/2hUvNEhLERQwpdjOr2Xp0A) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Ishita Vishwakarma](https://open.spotify.com/artist/2oaus66w5EZnNJo22QGq8Z), [Anique](https://open.spotify.com/artist/0RTlYaS7rlNGSc16WACt4w) | [Mann Jogiya \(From "Pyaar Hai Toh Hai"\)](https://open.spotify.com/album/7woqkUS6rtUGOnYvMRtC4K) | 4:24 | 2023-09-25 | 2024-05-08 |

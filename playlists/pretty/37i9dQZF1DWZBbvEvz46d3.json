@@ -1,6 +1,6 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 74221,
+  "num_followers": 74230,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
@@ -615,8 +615,8 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Porady Na Zdrady [Dreszcze]",
-        "url": "https://open.spotify.com/album/3XC6o7PTm3SiamWBrYVo82"
+        "name": "Dla Naiwnych Marzycieli",
+        "url": "https://open.spotify.com/album/0oGiggXuV7aZA3omAELhiR"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO"
         }
       ],
-      "duration_ms": 210662,
-      "name": "Porady Na Zdrady [Dreszcze]",
-      "url": "https://open.spotify.com/track/5MVK9Up4ORQdmOdBuk0MIy"
+      "duration_ms": 205400,
+      "name": "W Glowie",
+      "url": "https://open.spotify.com/track/5xIwk3q4x3ptb6oedWlKf0"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -711,8 +711,8 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Dla Naiwnych Marzycieli",
-        "url": "https://open.spotify.com/album/0oGiggXuV7aZA3omAELhiR"
+        "name": "Porady Na Zdrady [Dreszcze]",
+        "url": "https://open.spotify.com/album/3XC6o7PTm3SiamWBrYVo82"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO"
         }
       ],
-      "duration_ms": 205400,
-      "name": "W Glowie",
-      "url": "https://open.spotify.com/track/5xIwk3q4x3ptb6oedWlKf0"
+      "duration_ms": 210662,
+      "name": "Porady Na Zdrady [Dreszcze]",
+      "url": "https://open.spotify.com/track/5MVK9Up4ORQdmOdBuk0MIy"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Never Ending Sorry",
-        "url": "https://open.spotify.com/album/0bEC0mpfwhZPD89ZS87LVe"
-      },
-      "artists": [
-        {
-          "name": "Agnieszka Chyli\u0144ska",
-          "url": "https://open.spotify.com/artist/0CEw36eWG0dYKCXOX8eUoO"
-        }
-      ],
-      "duration_ms": 229880,
-      "name": "Kiedy\u015b do Ciebie wr\u00f3c\u0119",
-      "url": "https://open.spotify.com/track/04QPWwQIxA8kLpcKM1ZWzL"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Perfect",
         "url": "https://open.spotify.com/album/4ZKi2ftayn5Qv9SmXTIGAb"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 223200,
       "name": "Niewiele Ci Mog\u0119 Da\u0107",
       "url": "https://open.spotify.com/track/2h37uUs82DHQglGauJkMRD"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Never Ending Sorry",
+        "url": "https://open.spotify.com/album/0bEC0mpfwhZPD89ZS87LVe"
+      },
+      "artists": [
+        {
+          "name": "Agnieszka Chyli\u0144ska",
+          "url": "https://open.spotify.com/artist/0CEw36eWG0dYKCXOX8eUoO"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "Kiedy\u015b do Ciebie wr\u00f3c\u0119",
+      "url": "https://open.spotify.com/track/04QPWwQIxA8kLpcKM1ZWzL"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Tylko Mnie Kochaj",
-        "url": "https://open.spotify.com/album/2oHewePut3hKygGxcCNaLR"
+        "name": "NATinterpretacje",
+        "url": "https://open.spotify.com/album/6PojSY8WZEY6Pbr9eQmrtV"
       },
       "artists": [
         {
-          "name": "Goya",
-          "url": "https://open.spotify.com/artist/3ppWDN3lGw7UOGY7z2EQLB"
+          "name": "Natalia Szroeder",
+          "url": "https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3"
         }
       ],
-      "duration_ms": 169813,
-      "name": "Tylko mnie kochaj",
-      "url": "https://open.spotify.com/track/1LrSloV35nuQQ2FoUA1gIk"
+      "duration_ms": 184270,
+      "name": "Zamieni\u0119 ci\u0119",
+      "url": "https://open.spotify.com/track/38TfzGmItoEUpJs4kVpqq3"
     }
   ],
   "unique_name": "Polskie hity o mi\u0142o\u015bci",

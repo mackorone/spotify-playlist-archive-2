@@ -1,6 +1,6 @@
 {
   "description": "Le canzoni d'amore italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 185503,
+  "num_followers": 185512,
   "original_name": "Canzoni d'amore italiane",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "Fuori dall'Hype Ringo Starr",
-        "url": "https://open.spotify.com/album/56JsicBPrw88plclhKK74J"
-      },
-      "artists": [
-        {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "Ridere",
-      "url": "https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
         "name": "MAX 20",
         "url": "https://open.spotify.com/album/7iCLgEbIDDHWP6UWzbzNJ4"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 253100,
       "name": "L'universo tranne noi",
       "url": "https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
+        "name": "Fuori dall'Hype Ringo Starr",
+        "url": "https://open.spotify.com/album/56JsicBPrw88plclhKK74J"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "Ridere",
+      "url": "https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -355,6 +355,22 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
+        "name": "Amami",
+        "url": "https://open.spotify.com/album/7pH86nj2gFvJjw0u86zXOQ"
+      },
+      "artists": [
+        {
+          "name": "Arisa",
+          "url": "https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K"
+        }
+      ],
+      "duration_ms": 235121,
+      "name": "La notte",
+      "url": "https://open.spotify.com/track/2QVIMIcEt0t72cqbafrvxI"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
         "name": "Ligabue [Remastered Version]",
         "url": "https://open.spotify.com/album/63kdOUqVdcyYLQHzojxeFB"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 238893,
       "name": "Piccola stella senza cielo",
       "url": "https://open.spotify.com/track/0HpKuz1HfXxRzNnUqfwzgF"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
-        "name": "BELLA DAVVERO",
-        "url": "https://open.spotify.com/album/4ufSiXGrmtlVKXhyDi2UEe"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 178883,
-      "name": "BELLA DAVVERO",
-      "url": "https://open.spotify.com/track/1ih8OCS4EmDtSL3Do0tWIp"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -419,18 +419,18 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "Amami",
-        "url": "https://open.spotify.com/album/7pH86nj2gFvJjw0u86zXOQ"
+        "name": "BELLA DAVVERO",
+        "url": "https://open.spotify.com/album/4ufSiXGrmtlVKXhyDi2UEe"
       },
       "artists": [
         {
-          "name": "Arisa",
-          "url": "https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K"
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
         }
       ],
-      "duration_ms": 235121,
-      "name": "La notte",
-      "url": "https://open.spotify.com/track/2QVIMIcEt0t72cqbafrvxI"
+      "duration_ms": 178883,
+      "name": "BELLA DAVVERO",
+      "url": "https://open.spotify.com/track/1ih8OCS4EmDtSL3Do0tWIp"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "Bagus",
-        "url": "https://open.spotify.com/album/6WbUYB2fDctcuzTsQXWcF6"
-      },
-      "artists": [
-        {
-          "name": "Cesare Cremonini",
-          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
-        }
-      ],
-      "duration_ms": 253626,
-      "name": "Vieni A Vedere Perch\u00e8",
-      "url": "https://open.spotify.com/track/7LYUIppHHkuKeIyfWwUEvj"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
         "name": "Brividi",
         "url": "https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
+        "name": "Bagus",
+        "url": "https://open.spotify.com/album/6WbUYB2fDctcuzTsQXWcF6"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        }
+      ],
+      "duration_ms": 253626,
+      "name": "Vieni A Vedere Perch\u00e8",
+      "url": "https://open.spotify.com/track/7LYUIppHHkuKeIyfWwUEvj"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
         "name": "Oltre",
         "url": "https://open.spotify.com/album/0ZCmePlwPAMoB0SHk1fGvP"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 336960,
       "name": "Mille giorni di te e di me",
       "url": "https://open.spotify.com/track/6eLBzWfMCfir6mOvBQfrrr"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
-        "name": "Good Vibes",
-        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
-      },
-      "artists": [
-        {
-          "name": "Benji & Fede",
-          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
-        }
-      ],
-      "duration_ms": 190409,
-      "name": "Dove e quando",
-      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -659,18 +643,18 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "La canzone del sole/ Anche per te",
-        "url": "https://open.spotify.com/album/0JLkr7dK5UuhWsPq9xCa2w"
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
       },
       "artists": [
         {
-          "name": "Lucio Battisti",
-          "url": "https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G"
+          "name": "Benji & Fede",
+          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
         }
       ],
-      "duration_ms": 324826,
-      "name": "La canzone del sole - Remastered",
-      "url": "https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi"
+      "duration_ms": 190409,
+      "name": "Dove e quando",
+      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -699,6 +683,22 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
+        "name": "La canzone del sole/ Anche per te",
+        "url": "https://open.spotify.com/album/0JLkr7dK5UuhWsPq9xCa2w"
+      },
+      "artists": [
+        {
+          "name": "Lucio Battisti",
+          "url": "https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G"
+        }
+      ],
+      "duration_ms": 324826,
+      "name": "La canzone del sole - Remastered",
+      "url": "https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
         "name": "Safari",
         "url": "https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK"
       },
@@ -711,26 +711,6 @@
       "duration_ms": 264240,
       "name": "A Te",
       "url": "https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
-        "name": "Semplicemente (from the Netflix Series \"RIV4LI\")",
-        "url": "https://open.spotify.com/album/4daX0ZBBuoXqr2GIpfe2P5"
-      },
-      "artists": [
-        {
-          "name": "Sarah Toscano",
-          "url": "https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5"
-        },
-        {
-          "name": "Mida",
-          "url": "https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe"
-        }
-      ],
-      "duration_ms": 187941,
-      "name": "Semplicemente (from the Netflix Series \"RIV4LI\")",
-      "url": "https://open.spotify.com/track/1jRhY5sLzAf3d683tbOVr7"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -791,6 +771,26 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
+        "name": "Semplicemente (from the Netflix Series \"RIV4LI\")",
+        "url": "https://open.spotify.com/album/4daX0ZBBuoXqr2GIpfe2P5"
+      },
+      "artists": [
+        {
+          "name": "Sarah Toscano",
+          "url": "https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5"
+        },
+        {
+          "name": "Mida",
+          "url": "https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe"
+        }
+      ],
+      "duration_ms": 187941,
+      "name": "Semplicemente (from the Netflix Series \"RIV4LI\")",
+      "url": "https://open.spotify.com/track/1jRhY5sLzAf3d683tbOVr7"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
         "name": "Perdere l'amore",
         "url": "https://open.spotify.com/album/6uoSK1y8SCXazNiUTu3rWX"
       },
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "Fabio Concato",
-        "url": "https://open.spotify.com/album/745henjeFTHTYiBy7P3Vra"
-      },
-      "artists": [
-        {
-          "name": "Fabio Concato",
-          "url": "https://open.spotify.com/artist/71tUraH5ODniYOmjxfc1za"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Fiore Di Maggio",
-      "url": "https://open.spotify.com/track/2pWzPQ2lhuEE2sb3aPKMHX"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
         "name": "Rimmel",
         "url": "https://open.spotify.com/album/5c1TMPBpOc4qJebACcOm7K"
       },
@@ -871,18 +855,18 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "AHIA!",
-        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
+        "name": "Fabio Concato",
+        "url": "https://open.spotify.com/album/745henjeFTHTYiBy7P3Vra"
       },
       "artists": [
         {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+          "name": "Fabio Concato",
+          "url": "https://open.spotify.com/artist/71tUraH5ODniYOmjxfc1za"
         }
       ],
-      "duration_ms": 207802,
-      "name": "La storia infinita",
-      "url": "https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV"
+      "duration_ms": 233666,
+      "name": "Fiore Di Maggio",
+      "url": "https://open.spotify.com/track/2pWzPQ2lhuEE2sb3aPKMHX"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -899,6 +883,22 @@
       "duration_ms": 238386,
       "name": "Parole parole - 2001 Remastered Version",
       "url": "https://open.spotify.com/track/7LZDbABGg2NfnGsyIs2SeB"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
+        "name": "AHIA!",
+        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "duration_ms": 207802,
+      "name": "La storia infinita",
+      "url": "https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "Appena prima di partire",
-        "url": "https://open.spotify.com/album/76c8rMt8AHuavJA1pQfWLB"
-      },
-      "artists": [
-        {
-          "name": "Zero Assoluto",
-          "url": "https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe"
-        }
-      ],
-      "duration_ms": 223053,
-      "name": "Svegliarsi la mattina",
-      "url": "https://open.spotify.com/track/0FhpzL0BoqEYsT6k2Wb9AV"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
         "name": "Odissea",
         "url": "https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 270003,
       "name": "Oro",
       "url": "https://open.spotify.com/track/5NzWbTJOakrvq3g83UoD25"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
+        "name": "Appena prima di partire",
+        "url": "https://open.spotify.com/album/76c8rMt8AHuavJA1pQfWLB"
+      },
+      "artists": [
+        {
+          "name": "Zero Assoluto",
+          "url": "https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe"
+        }
+      ],
+      "duration_ms": 223053,
+      "name": "Svegliarsi la mattina",
+      "url": "https://open.spotify.com/track/0FhpzL0BoqEYsT6k2Wb9AV"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "Albachiara",
-        "url": "https://open.spotify.com/album/5MLtSbanLmt0QLEMKgqLD7"
-      },
-      "artists": [
-        {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
-        }
-      ],
-      "duration_ms": 245533,
-      "name": "Albachiara",
-      "url": "https://open.spotify.com/track/53MYtv4tzLYg1hbu13Qbc0"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
         "name": "Cari Amori Miei",
         "url": "https://open.spotify.com/album/2WVwn7K7dnhZzqQ0dcjVeY"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "it.pop",
-        "url": "https://open.spotify.com/album/5HCZg475b1R5XJvgmiAN7t"
+        "name": "Albachiara",
+        "url": "https://open.spotify.com/album/5MLtSbanLmt0QLEMKgqLD7"
       },
       "artists": [
         {
-          "name": "Alex Britti",
-          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
         }
       ],
-      "duration_ms": 228986,
-      "name": "Oggi Sono Io",
-      "url": "https://open.spotify.com/track/4EsU1itX1LEPptKwjhGbVl"
+      "duration_ms": 245533,
+      "name": "Albachiara",
+      "url": "https://open.spotify.com/track/53MYtv4tzLYg1hbu13Qbc0"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -1267,6 +1251,22 @@
       "duration_ms": 209400,
       "name": "D'improvviso",
       "url": "https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
+        "name": "it.pop",
+        "url": "https://open.spotify.com/album/5HCZg475b1R5XJvgmiAN7t"
+      },
+      "artists": [
+        {
+          "name": "Alex Britti",
+          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
+        }
+      ],
+      "duration_ms": 228986,
+      "name": "Oggi Sono Io",
+      "url": "https://open.spotify.com/track/4EsU1itX1LEPptKwjhGbVl"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/0pRj77dL3BMds24RymNgmv"
-      },
-      "artists": [
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 218092,
-      "name": "Il mondo prima di te",
-      "url": "https://open.spotify.com/track/0qM6TGkkinhKFllbcRfL8u"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
         "name": "La Descrizione Di Un Attimo",
         "url": "https://open.spotify.com/album/1LNHff1GCfPDzxoYpRpSHj"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 269600,
       "name": "La Descrizione Di Un Attimo",
       "url": "https://open.spotify.com/track/1A4N8laeRTrrzmSJZdOoJL"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/0pRj77dL3BMds24RymNgmv"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 218092,
+      "name": "Il mondo prima di te",
+      "url": "https://open.spotify.com/track/0qM6TGkkinhKFllbcRfL8u"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "Giovani per sempre",
-        "url": "https://open.spotify.com/album/3zV92qqfkqOO30bMkyoiKE"
-      },
-      "artists": [
-        {
-          "name": "Irama",
-          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
-        }
-      ],
-      "duration_ms": 222101,
-      "name": "La ragazza con il cuore di latta",
-      "url": "https://open.spotify.com/track/0NmyHZZMfVBiUSOfDmz9Bf"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
         "name": "La Vasca",
         "url": "https://open.spotify.com/album/2iZYerMKDMcaJiosOSEu3f"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 176373,
       "name": "Una Su 1.000.000",
       "url": "https://open.spotify.com/track/3O96lY6J3wxMEc8yoB844j"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
+        "name": "Giovani per sempre",
+        "url": "https://open.spotify.com/album/3zV92qqfkqOO30bMkyoiKE"
+      },
+      "artists": [
+        {
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
+        }
+      ],
+      "duration_ms": 222101,
+      "name": "La ragazza con il cuore di latta",
+      "url": "https://open.spotify.com/track/0NmyHZZMfVBiUSOfDmz9Bf"
     },
     {
       "added_at": "2026-01-23 13:59:15",

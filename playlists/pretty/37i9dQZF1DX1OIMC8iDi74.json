@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap \ud83d\udc51 with TroyBoi",
-  "num_followers": 883133,
+  "num_followers": 883111,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2026-01-23 05:00:34",
       "album": {
+        "name": "YA BODY",
+        "url": "https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "duration_ms": 183165,
+      "name": "YA BODY",
+      "url": "https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB"
+    },
+    {
+      "added_at": "2026-01-23 05:00:34",
+      "album": {
         "name": "Blue Mile",
         "url": "https://open.spotify.com/album/77I9ebOxX1nxDk8vlJNUH9"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 212571,
       "name": "Blue Mile",
       "url": "https://open.spotify.com/track/5EIyuLTiZwAmmlsqxdLJC0"
-    },
-    {
-      "added_at": "2026-01-23 05:00:34",
-      "album": {
-        "name": "YA BODY",
-        "url": "https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        }
-      ],
-      "duration_ms": 183165,
-      "name": "YA BODY",
-      "url": "https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB"
     },
     {
       "added_at": "2026-01-23 05:00:34",
@@ -1635,8 +1635,8 @@
     {
       "added_at": "2026-01-23 05:00:34",
       "album": {
-        "name": "BITE (MY STYLE)",
-        "url": "https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO"
+        "name": "CONTROL",
+        "url": "https://open.spotify.com/album/19gckw1W9jhm1Acg08yRa6"
       },
       "artists": [
         {
@@ -1644,9 +1644,9 @@
           "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
         }
       ],
-      "duration_ms": 148514,
-      "name": "BITE (MY STYLE)",
-      "url": "https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET"
+      "duration_ms": 145600,
+      "name": "CONTROL",
+      "url": "https://open.spotify.com/track/4ohXPckRwCzszhzjsYczfK"
     },
     {
       "added_at": "2026-01-23 05:00:34",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2026-01-23 05:00:34",
       "album": {
-        "name": "Get Off The Internet",
-        "url": "https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV"
-      },
-      "artists": [
-        {
-          "name": "Eliminate",
-          "url": "https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "EGOTRIP",
-      "url": "https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg"
-    },
-    {
-      "added_at": "2026-01-23 05:00:34",
-      "album": {
         "name": "GO BACK (We Can't)",
         "url": "https://open.spotify.com/album/1Vomcw2K16iHH2KkkojTrZ"
       },
@@ -1715,22 +1699,6 @@
       "duration_ms": 226206,
       "name": "GO BACK (We Can't)",
       "url": "https://open.spotify.com/track/7vSTWert1uL4NeG3EvBOYY"
-    },
-    {
-      "added_at": "2026-01-23 05:00:34",
-      "album": {
-        "name": "CONTROL",
-        "url": "https://open.spotify.com/album/19gckw1W9jhm1Acg08yRa6"
-      },
-      "artists": [
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        }
-      ],
-      "duration_ms": 145600,
-      "name": "CONTROL",
-      "url": "https://open.spotify.com/track/4ohXPckRwCzszhzjsYczfK"
     },
     {
       "added_at": "2026-01-23 05:00:34",
@@ -1751,6 +1719,38 @@
       "duration_ms": 192727,
       "name": "Lazarus Rise",
       "url": "https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m"
+    },
+    {
+      "added_at": "2026-01-23 05:00:34",
+      "album": {
+        "name": "BITE (MY STYLE)",
+        "url": "https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "duration_ms": 148514,
+      "name": "BITE (MY STYLE)",
+      "url": "https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET"
+    },
+    {
+      "added_at": "2026-01-23 05:00:34",
+      "album": {
+        "name": "Get Off The Internet",
+        "url": "https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV"
+      },
+      "artists": [
+        {
+          "name": "Eliminate",
+          "url": "https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "EGOTRIP",
+      "url": "https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg"
     },
     {
       "added_at": "2026-01-23 05:00:34",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2026-01-23 05:00:34",
       "album": {
-        "name": "Anxious",
-        "url": "https://open.spotify.com/album/2fvpGsmXuNd24IC3gEABHU"
-      },
-      "artists": [
-        {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
-        }
-      ],
-      "duration_ms": 142204,
-      "name": "Anxious",
-      "url": "https://open.spotify.com/track/0aIZGMXxGwKfkIOwiTzY82"
-    },
-    {
-      "added_at": "2026-01-23 05:00:34",
-      "album": {
         "name": "AHORA",
         "url": "https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu"
       },
@@ -1875,18 +1859,38 @@
     {
       "added_at": "2026-01-23 05:00:34",
       "album": {
-        "name": "Autopilot",
-        "url": "https://open.spotify.com/album/1FPiadUbi6FqEm6nXramIj"
+        "name": "Anxious",
+        "url": "https://open.spotify.com/album/2fvpGsmXuNd24IC3gEABHU"
       },
       "artists": [
         {
-          "name": "RemK",
-          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Autopilot",
-      "url": "https://open.spotify.com/track/6RJ7ZHxCljiASnsGAIo6Aj"
+      "duration_ms": 142204,
+      "name": "Anxious",
+      "url": "https://open.spotify.com/track/0aIZGMXxGwKfkIOwiTzY82"
+    },
+    {
+      "added_at": "2026-01-23 05:00:34",
+      "album": {
+        "name": "SEEING DOUBLE EP",
+        "url": "https://open.spotify.com/album/3lxZ6nSst67I8FZsqPoF43"
+      },
+      "artists": [
+        {
+          "name": "WINK",
+          "url": "https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu"
+        },
+        {
+          "name": "nikko",
+          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
+        }
+      ],
+      "duration_ms": 237428,
+      "name": "MERCY",
+      "url": "https://open.spotify.com/track/2QoDGwJUabNMyJnxGJIy8w"
     }
   ],
   "unique_name": "Trap Mojito",

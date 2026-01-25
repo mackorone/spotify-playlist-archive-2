@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,045 songs - 1 day 17 hr 13 min
+2,046 songs - 1 day 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1148,6 +1148,7 @@
 | [Morning Has Broken Arr\. For Piano And Cello](https://open.spotify.com/track/50EYN6Hj1GDXEJtpSGp76q) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Celtic Music](https://open.spotify.com/album/2PlUomCBZNFOhGxbyzXG4D) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Morning Lightness](https://open.spotify.com/track/6Wvbd6YwmIbpMgEkFSWUT7) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Morning Lightness](https://open.spotify.com/album/7eHkXsBm01akRi6XX6qfqi) | 1:00 | 2025-03-08 |  |
 | [Morning Prayer](https://open.spotify.com/track/4imKugn0XXrrp7D04eJqpy) | [Simon Wester](https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO) | [Morning Prayer](https://open.spotify.com/album/3VAb43boYj5U6f4aCty13z) | 3:24 | 2022-01-12 | 2024-02-13 |
+| [Morning Silence](https://open.spotify.com/track/5ZJ5PnXAuQgPowrqfyACbs) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Morning Silence](https://open.spotify.com/album/6X87IPxXRlWST3IDqo7ziQ) | 1:00 | 2026-01-24 |  |
 | [Morning Sky](https://open.spotify.com/track/62knhs63ci7hYkDpibz3JJ) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Morning Sky](https://open.spotify.com/album/1F9xNdcF0zVE2ZG3fYma6L) | 1:00 | 2023-10-02 |  |
 | [Morning Star](https://open.spotify.com/track/6bDOa4jinu3iAjD88tbwv4) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Morning Star](https://open.spotify.com/album/06bLLXMpq3yL4rOiKpU2b0) | 1:00 | 2025-04-16 |  |
 | [Morning Sun](https://open.spotify.com/track/4KjQEQRtB5L5QXjVBMmQzd) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Morning Sun](https://open.spotify.com/album/3p41gPoTXPhDffJ6M5PXTM) | 1:00 | 2024-01-25 | 2024-02-13 |

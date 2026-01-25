@@ -1,12 +1,12 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 942,
+  "num_followers": 944,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAEy5loaZgBiDvhYn+IYDKsnxGSdD+Q",
+  "snapshot_id": "AAAEzN9NixGOFGvyiXqFF9NUp/ppDnCP",
   "tracks": [
     {
       "added_at": "2026-01-24 02:23:37",
@@ -39,6 +39,22 @@
       "duration_ms": 104812,
       "name": "Means For Me",
       "url": "https://open.spotify.com/track/6u89aNSrS1wZybJ8EE7Yr0"
+    },
+    {
+      "added_at": "2026-01-24 05:57:59",
+      "album": {
+        "name": "When The Opera Ends",
+        "url": "https://open.spotify.com/album/3VkWnUaXYnWkl8WQ87W3EB"
+      },
+      "artists": [
+        {
+          "name": "Whsprs",
+          "url": "https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h"
+        }
+      ],
+      "duration_ms": 158070,
+      "name": "When The Opera Ends",
+      "url": "https://open.spotify.com/track/4Wplx3eSDhIab3wglmii7O"
     },
     {
       "added_at": "2026-01-17 21:41:15",

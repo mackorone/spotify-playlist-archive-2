@@ -4,7 +4,7 @@
 
 > Die Playlist zur Wasserpfeife\. Cover: Amo, Aymen
 
-423 songs - 17 hr 56 min
+424 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [CANO](https://open.spotify.com/track/0n6nZnjzYnZFMnT7LrMUWA) | [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U), [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF) | [CANO](https://open.spotify.com/album/2kjUmx6ab7REkIvWUCzIHC) | 2:10 | 2024-06-28 | 2024-09-10 |
 | [Capri Sun](https://open.spotify.com/track/2U07Gukj3QGlLh0krokPdG) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Capri Sun](https://open.spotify.com/album/1RsQb2EpDcbyfEJBCK17nY) | 1:59 | 2025-06-19 | 2025-09-19 |
 | [CC&MO](https://open.spotify.com/track/2jTMp5LqbcxgVYQEc7WU7l) | [Aymo](https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [CC&MO](https://open.spotify.com/album/6piWSXJfxNDZLP13xDzUge) | 2:35 | 2025-08-21 |  |
+| [CCTV](https://open.spotify.com/track/6XKxB2IUKWbTqh8oqCcYLR) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS) | [CCTV](https://open.spotify.com/album/4KPzzYvMqvIVzfmTTtDa99) | 2:25 | 2026-01-22 |  |
 | [Champions League \(feat\. Haaland936, Aymen & Amo\)](https://open.spotify.com/track/7gQwzl8rXRpe0rTOTU5pyb) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Champions League \(feat\. Haaland936, Aymen & Amo\)](https://open.spotify.com/album/00GSVkuouhL4n9Iou8s4y7) | 2:42 | 2024-06-28 | 2025-02-28 |
 | [Chaos](https://open.spotify.com/track/5o29ve21BlPkXruG8ev15n) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Mr\. Untouchable](https://open.spotify.com/album/0TCy0FRoGFO3D3VllAcaCz) | 3:10 | 2024-11-07 | 2025-05-16 |
 | [CITY OF GOD](https://open.spotify.com/track/4KSnRMm2kdC0OhEVC932zP) | [Veysel](https://open.spotify.com/artist/4VuARVJiWGsH2msKTdsKdQ), [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY) | [CITY OF GOD](https://open.spotify.com/album/5kNYOPSPRji5aZ4bSp79VQ) | 2:21 | 2024-07-25 | 2024-08-02 |
@@ -206,7 +207,7 @@
 | [Knock Knock](https://open.spotify.com/track/4jCI4exnxKlEV2a71xrp92) | [MADE](https://open.spotify.com/artist/2EahEAOUPPXAcncTr8laCj), [Biggie68](https://open.spotify.com/artist/2oOZnan3LTQbqc0uGajGY1), [Dorian](https://open.spotify.com/artist/3Wxidvy1joh0HaRNyvpIdb) | [Knock Knock](https://open.spotify.com/album/1DHtwur7UC8udZlrcEkEEY) | 2:13 | 2025-05-19 | 2025-08-16 |
 | [Kodex](https://open.spotify.com/track/4UkBELRYYTMUwyNl5PXSOU) | [Cave 110](https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9) | [Kodex](https://open.spotify.com/album/7o0nZVcmciQEMApCgzwRkE) | 2:10 | 2025-12-19 |  |
 | [Kotti d'Azur](https://open.spotify.com/track/1DoKidkFLUJeiFtmhmUQm5) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd) | [Kotti d'Azur](https://open.spotify.com/album/70K6Hp3TXk8gAgabJFtcPB) | 2:43 | 2025-08-07 | 2025-08-23 |
-| [KUNSTWERK](https://open.spotify.com/track/46Qzl6GOYinCIvq3LbVugs) | [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U) | [KUNSTWERK](https://open.spotify.com/album/467oYjt04QFPvLeVhMLerm) | 2:29 | 2025-08-21 |  |
+| [KUNSTWERK](https://open.spotify.com/track/46Qzl6GOYinCIvq3LbVugs) | [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U) | [KUNSTWERK](https://open.spotify.com/album/467oYjt04QFPvLeVhMLerm) | 2:29 | 2025-08-21 | 2026-01-25 |
 | [K¡K¡](https://open.spotify.com/track/0RH3Zeo1bLOKmtOGi9LZJ2) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Lio](https://open.spotify.com/artist/63FkGNSVb9VB4Is1V3Q9Nj), [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U) | [Jung & machen Geld](https://open.spotify.com/album/6dUdLyCrv5lFjki79qSGLh) | 3:18 | 2024-07-25 | 2024-12-10 |
 | [La Familia](https://open.spotify.com/track/3TBFqIc6UwpWIL8i0qADMF) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [La Familia](https://open.spotify.com/album/1FiyTkOhZOZYF742GIhHbv) | 2:07 | 2025-06-19 | 2025-08-23 |
 | [La Money](https://open.spotify.com/track/1VtKoSmJv42wi1LcZhAGaa) | [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [La Money](https://open.spotify.com/album/1bCRla0Yx0JNoTYkbjGqQ9) | 2:31 | 2024-07-25 | 2025-01-11 |

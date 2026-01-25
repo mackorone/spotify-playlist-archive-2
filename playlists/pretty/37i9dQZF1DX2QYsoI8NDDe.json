@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Liz Loyo",
-  "num_followers": 580650,
+  "num_followers": 580642,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -371,18 +371,22 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "Un Abrazo (Versi\u00f3n Regional)",
-        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
+        "name": "La Competencia",
+        "url": "https://open.spotify.com/album/0H8nE43nDhqMZraIKli5BY"
       },
       "artists": [
         {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 238500,
-      "name": "Un Abrazo - Versi\u00f3n Regional",
-      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
+      "duration_ms": 209160,
+      "name": "La Competencia",
+      "url": "https://open.spotify.com/track/2PtN8j46BwZtlbJxyZFamd"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -439,22 +443,18 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "La Competencia",
-        "url": "https://open.spotify.com/album/0H8nE43nDhqMZraIKli5BY"
+        "name": "Un Abrazo (Versi\u00f3n Regional)",
+        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
       },
       "artists": [
         {
-          "name": "DiDi R",
-          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 209160,
-      "name": "La Competencia",
-      "url": "https://open.spotify.com/track/2PtN8j46BwZtlbJxyZFamd"
+      "duration_ms": 238500,
+      "name": "Un Abrazo - Versi\u00f3n Regional",
+      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -999,6 +999,26 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
+        "name": "Ahora Te Aguantas",
+        "url": "https://open.spotify.com/album/2vzjM97QfvPxG9tm2Ys2Dm"
+      },
+      "artists": [
+        {
+          "name": "Estibaliz Badiola",
+          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
+        },
+        {
+          "name": "Miranda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Ahora Te Aguantas",
+      "url": "https://open.spotify.com/track/6zB7NJW1QfOMN85gJteqfm"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
         "name": "De Mi Enam\u00f3rate",
         "url": "https://open.spotify.com/album/1Uuwm9dLAENLFkQcXhEGfL"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 266379,
       "name": "De Mi Enam\u00f3rate",
       "url": "https://open.spotify.com/track/5yV9MNJ54l58QaHqm5lrHP"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
-        "name": "Ahora Te Aguantas",
-        "url": "https://open.spotify.com/album/2vzjM97QfvPxG9tm2Ys2Dm"
-      },
-      "artists": [
-        {
-          "name": "Estibaliz Badiola",
-          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
-        },
-        {
-          "name": "Miranda Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Ahora Te Aguantas",
-      "url": "https://open.spotify.com/track/6zB7NJW1QfOMN85gJteqfm"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
+        "name": "Conjuro",
+        "url": "https://open.spotify.com/album/1a17hDDoVqP4Sf7AWVBkrB"
+      },
+      "artists": [
+        {
+          "name": "Mirla Avila",
+          "url": "https://open.spotify.com/artist/5ZO4Fg66pphCa8wrFzm9Kd"
+        }
+      ],
+      "duration_ms": 166167,
+      "name": "Conjuro",
+      "url": "https://open.spotify.com/track/3yJCZc1slxdM9efajpRh6j"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
         "name": "As\u00ed Son Las Cosas",
         "url": "https://open.spotify.com/album/3lKiOwzv44vFdJgkKLKRCv"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 171529,
       "name": "As\u00ed Son Las Cosas",
       "url": "https://open.spotify.com/track/7K0saaGY6hqR1nSnktfDwm"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
-        "name": "Se Me Murio El Amor",
-        "url": "https://open.spotify.com/album/0PYRebe16fABfeqQuWaQzW"
-      },
-      "artists": [
-        {
-          "name": "Brenda Michel",
-          "url": "https://open.spotify.com/artist/2jN4BFSFkOvTcwc28ouzbG"
-        }
-      ],
-      "duration_ms": 188832,
-      "name": "Se Me Murio El Amor",
-      "url": "https://open.spotify.com/track/2devADTH1QWZYlRShKZE6j"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "Conjuro",
-        "url": "https://open.spotify.com/album/1a17hDDoVqP4Sf7AWVBkrB"
+        "name": "Se Me Murio El Amor",
+        "url": "https://open.spotify.com/album/0PYRebe16fABfeqQuWaQzW"
       },
       "artists": [
         {
-          "name": "Mirla Avila",
-          "url": "https://open.spotify.com/artist/5ZO4Fg66pphCa8wrFzm9Kd"
+          "name": "Brenda Michel",
+          "url": "https://open.spotify.com/artist/2jN4BFSFkOvTcwc28ouzbG"
         }
       ],
-      "duration_ms": 166167,
-      "name": "Conjuro",
-      "url": "https://open.spotify.com/track/3yJCZc1slxdM9efajpRh6j"
+      "duration_ms": 188832,
+      "name": "Se Me Murio El Amor",
+      "url": "https://open.spotify.com/track/2devADTH1QWZYlRShKZE6j"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
+        "name": "Mariachi M\u00edo",
+        "url": "https://open.spotify.com/album/1YIRDOZOst2mx333CDXD2h"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 197429,
+      "name": "A\u00fan As\u00ed Te Vas",
+      "url": "https://open.spotify.com/track/1brn629MQJ4GOKmUiIjFSv"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
         "name": "Contra Ellos",
         "url": "https://open.spotify.com/album/3u4js4LuCsEmQoRU29CVPn"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 189913,
       "name": "Contra Ellos",
       "url": "https://open.spotify.com/track/2yca8U6bSiX3AplMPcDmtl"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
-        "name": "Mariachi M\u00edo",
-        "url": "https://open.spotify.com/album/1YIRDOZOst2mx333CDXD2h"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 197429,
-      "name": "A\u00fan As\u00ed Te Vas",
-      "url": "https://open.spotify.com/track/1brn629MQJ4GOKmUiIjFSv"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "Andar Conmigo",
-        "url": "https://open.spotify.com/album/0S8Kpysk5NR2tAGDzBSWFp"
-      },
-      "artists": [
-        {
-          "name": "Fatima Campo",
-          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
-        }
-      ],
-      "duration_ms": 216346,
-      "name": "Andar Conmigo",
-      "url": "https://open.spotify.com/track/3Wnl55R6ugwDNEGYnTnAHz"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
         "name": "Desde El Comienzo",
         "url": "https://open.spotify.com/album/0MhDjk87DWTAmYYiyoBjJ6"
       },
@@ -1755,18 +1739,18 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "Regalame una Noche",
-        "url": "https://open.spotify.com/album/3ZeSujQTtsmXZRYjtucIWz"
+        "name": "Andar Conmigo",
+        "url": "https://open.spotify.com/album/0S8Kpysk5NR2tAGDzBSWFp"
       },
       "artists": [
         {
-          "name": "Arhian",
-          "url": "https://open.spotify.com/artist/51RHZMpW7LcEybWvkZHrzT"
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
         }
       ],
-      "duration_ms": 219273,
-      "name": "Regalame una Noche",
-      "url": "https://open.spotify.com/track/3mJ7vdxAelGjfLxRAvk55a"
+      "duration_ms": 216346,
+      "name": "Andar Conmigo",
+      "url": "https://open.spotify.com/track/3Wnl55R6ugwDNEGYnTnAHz"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -1783,6 +1767,22 @@
       "duration_ms": 262008,
       "name": "Blank Space (Hoja en Blanco)",
       "url": "https://open.spotify.com/track/2SWQDV8OdSDdddsCWcUfqB"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
+        "name": "Regalame una Noche",
+        "url": "https://open.spotify.com/album/3ZeSujQTtsmXZRYjtucIWz"
+      },
+      "artists": [
+        {
+          "name": "Arhian",
+          "url": "https://open.spotify.com/artist/51RHZMpW7LcEybWvkZHrzT"
+        }
+      ],
+      "duration_ms": 219273,
+      "name": "Regalame una Noche",
+      "url": "https://open.spotify.com/track/3mJ7vdxAelGjfLxRAvk55a"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "No Me Pregunten Por \u00c9l",
-        "url": "https://open.spotify.com/album/3tF7QyTPnYypPP9LXAG5cm"
-      },
-      "artists": [
-        {
-          "name": "Diana Reyes",
-          "url": "https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz"
-        }
-      ],
-      "duration_ms": 191146,
-      "name": "No Me Pregunten Por \u00c9l",
-      "url": "https://open.spotify.com/track/5N3UilPh2Nsk5tx1VeotXs"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
         "name": "Que Te Cambie La Suerte",
         "url": "https://open.spotify.com/album/2duxFBKEQTlUXKLwqM3fpZ"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 207614,
       "name": "Que Te Cambie La Suerte",
       "url": "https://open.spotify.com/track/6Nizs15mTJ4fpYmBW2MIV2"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
+        "name": "No Me Pregunten Por \u00c9l",
+        "url": "https://open.spotify.com/album/3tF7QyTPnYypPP9LXAG5cm"
+      },
+      "artists": [
+        {
+          "name": "Diana Reyes",
+          "url": "https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz"
+        }
+      ],
+      "duration_ms": 191146,
+      "name": "No Me Pregunten Por \u00c9l",
+      "url": "https://open.spotify.com/track/5N3UilPh2Nsk5tx1VeotXs"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "Te Di",
-        "url": "https://open.spotify.com/album/5MKsupkTGHJjOVlwd4JsaN"
-      },
-      "artists": [
-        {
-          "name": "Siboney Luj\u00e1n",
-          "url": "https://open.spotify.com/artist/2IUjYF9OmpwkVK0owketRs"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "Te Di",
-      "url": "https://open.spotify.com/track/3wgRvw10lImDHMLGnm956d"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
         "name": "Miro La Luna",
         "url": "https://open.spotify.com/album/54wwbqUyOybBoAbTiNFKo9"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 126365,
       "name": "Miro La Luna",
       "url": "https://open.spotify.com/track/0RsVM5ATSvbtpB0naldCXp"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
+        "name": "Te Di",
+        "url": "https://open.spotify.com/album/5MKsupkTGHJjOVlwd4JsaN"
+      },
+      "artists": [
+        {
+          "name": "Siboney Luj\u00e1n",
+          "url": "https://open.spotify.com/artist/2IUjYF9OmpwkVK0owketRs"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "Te Di",
+      "url": "https://open.spotify.com/track/3wgRvw10lImDHMLGnm956d"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "Tienes",
-        "url": "https://open.spotify.com/album/4TnhzaKsyp2eGpMFX5UMxZ"
-      },
-      "artists": [
-        {
-          "name": "Rubi Canseco",
-          "url": "https://open.spotify.com/artist/4bXV1OuSS59mLTBUIuYq1E"
-        }
-      ],
-      "duration_ms": 190985,
-      "name": "Tienes",
-      "url": "https://open.spotify.com/track/0LYI1g5mlX8vLoAD8JFP41"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
         "name": "Canci\u00f3n Mixteca",
         "url": "https://open.spotify.com/album/0a1E8N0bliZhY5BRsrSNcx"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 182815,
       "name": "Canci\u00f3n Mixteca",
       "url": "https://open.spotify.com/track/3bHiyULgixfvtCVi6uOWcs"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
+        "name": "Tienes",
+        "url": "https://open.spotify.com/album/4TnhzaKsyp2eGpMFX5UMxZ"
+      },
+      "artists": [
+        {
+          "name": "Rubi Canseco",
+          "url": "https://open.spotify.com/artist/4bXV1OuSS59mLTBUIuYq1E"
+        }
+      ],
+      "duration_ms": 190985,
+      "name": "Tienes",
+      "url": "https://open.spotify.com/track/0LYI1g5mlX8vLoAD8JFP41"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "Me Muero",
-        "url": "https://open.spotify.com/album/5ceGaznF4sphWSn24yDxJ2"
-      },
-      "artists": [
-        {
-          "name": "Valery Rios",
-          "url": "https://open.spotify.com/artist/1EDki5iAmaWx7FJNcf124f"
-        }
-      ],
-      "duration_ms": 165685,
-      "name": "Me Muero",
-      "url": "https://open.spotify.com/track/5e5s4gLXUUv67QQlZEPROA"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
         "name": "Diosas en Texas",
         "url": "https://open.spotify.com/album/5x1bnHtL5zNcukQDnV7Kpk"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 153600,
       "name": "No Regreses",
       "url": "https://open.spotify.com/track/7FL0je0WadxJ8uPrY7UaR4"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
+        "name": "Me Muero",
+        "url": "https://open.spotify.com/album/5ceGaznF4sphWSn24yDxJ2"
+      },
+      "artists": [
+        {
+          "name": "Valery Rios",
+          "url": "https://open.spotify.com/artist/1EDki5iAmaWx7FJNcf124f"
+        }
+      ],
+      "duration_ms": 165685,
+      "name": "Me Muero",
+      "url": "https://open.spotify.com/track/5e5s4gLXUUv67QQlZEPROA"
     },
     {
       "added_at": "2026-01-24 00:44:05",

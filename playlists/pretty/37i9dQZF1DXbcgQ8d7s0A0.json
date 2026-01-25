@@ -1,6 +1,6 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1394432,
+  "num_followers": 1394613,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
+        "name": "Beyond Me",
+        "url": "https://open.spotify.com/album/05tbey8KoO4jyoqB362gl6"
+      },
+      "artists": [
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "BRKN",
+      "url": "https://open.spotify.com/track/07gFabF2ePsmBM0Q3CYitT"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
         "name": "A Day in the Life",
         "url": "https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 280880,
       "name": "Georgy Porgy (feat. Faith Evans)",
       "url": "https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
-        "name": "Beyond Me",
-        "url": "https://open.spotify.com/album/05tbey8KoO4jyoqB362gl6"
-      },
-      "artists": [
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 233400,
-      "name": "BRKN",
-      "url": "https://open.spotify.com/track/07gFabF2ePsmBM0Q3CYitT"
     },
     {
       "added_at": "2024-06-24 11:23:29",

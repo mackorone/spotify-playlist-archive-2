@@ -3517,6 +3517,24 @@
     },
     {
       "album": {
+        "name": "Middleman / Do The Sloth",
+        "url": "https://open.spotify.com/album/3e6CnNkVhZoVFNUASCmFRl"
+      },
+      "artists": [
+        {
+          "name": "Straight Arrows",
+          "url": "https://open.spotify.com/artist/26z3WWkBQxxvG8jRbFdL3N"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143947,
+      "name": "Middleman",
+      "url": "https://open.spotify.com/track/4dqWPuDUgq2LNNUQRaf2JX"
+    },
+    {
+      "album": {
         "name": "Midnight Man",
         "url": "https://open.spotify.com/album/3z1IMUXAroeDblsW08xuw7"
       },
@@ -4464,7 +4482,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 165589,
       "name": "Postcode Lover",
       "url": "https://open.spotify.com/track/7CRxgl5YJ2mkhM1Nyq6s8d"

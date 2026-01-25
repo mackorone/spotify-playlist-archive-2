@@ -1,6 +1,6 @@
 {
-  "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: L\u1ec7 Quy\u00ean",
-  "num_followers": 37958,
+  "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
+  "num_followers": 37968,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-06-03 14:29:41",
       "album": {
+        "name": "Th\u00f4i Th\u1ebf Th\u00ec Chia Tay (Asia 243)",
+        "url": "https://open.spotify.com/album/5wsEpJOncQKqXIPdVcRnDr"
+      },
+      "artists": [
+        {
+          "name": "B\u1ea3o Y\u1ebfn",
+          "url": "https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe"
+        }
+      ],
+      "duration_ms": 318080,
+      "name": "N\u1eeda \u0111\u00eam ngo\u00e0i ph\u1ed1",
+      "url": "https://open.spotify.com/track/08z4wPwjpjC5JUBUIXIxlq"
+    },
+    {
+      "added_at": "2025-06-03 14:29:41",
+      "album": {
         "name": "V\u1ec1 \u0110\u00e2u M\u00e1i T\u00f3c Ng\u01b0\u1eddi Th\u01b0\u01a1ng",
         "url": "https://open.spotify.com/album/5r9F0ckw8JHmCq90VgBzx0"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 317333,
       "name": "V\u1ec1 \u0111\u00e2u m\u00e1i t\u00f3c ng\u01b0\u1eddi th\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/27fatF8hvPt6l2qQcY3I58"
-    },
-    {
-      "added_at": "2025-06-03 14:29:41",
-      "album": {
-        "name": "Nh\u1ea1c V\u00e0ng",
-        "url": "https://open.spotify.com/album/3k1SXNvYsRQ5Nb4Q4hBb7E"
-      },
-      "artists": [
-        {
-          "name": "B\u1ea3o Y\u1ebfn",
-          "url": "https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe"
-        }
-      ],
-      "duration_ms": 285949,
-      "name": "Hai V\u00ec Sao L\u1ea1c",
-      "url": "https://open.spotify.com/track/5PSk8BZS5OdSNZYPJIQtiT"
     },
     {
       "added_at": "2025-06-03 14:29:41",
@@ -827,18 +827,18 @@
     {
       "added_at": "2025-06-03 14:29:41",
       "album": {
-        "name": "T\u00f4i Ch\u01b0a C\u00f3 M\u00f9a Xu\u00e2n",
-        "url": "https://open.spotify.com/album/7fHOU3HrRkkIMcAnzfHI6U"
+        "name": "Nh\u1ea1c V\u00e0ng",
+        "url": "https://open.spotify.com/album/3k1SXNvYsRQ5Nb4Q4hBb7E"
       },
       "artists": [
         {
-          "name": "Thanh Th\u00fay",
-          "url": "https://open.spotify.com/artist/6oO3gusjsenDOQn8RDr5JS"
+          "name": "B\u1ea3o Y\u1ebfn",
+          "url": "https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe"
         }
       ],
-      "duration_ms": 315662,
-      "name": "C\u00e1nh thi\u1ec7p \u0111\u1ea7u xu\u00e2n",
-      "url": "https://open.spotify.com/track/4nkHIoot7Wc5JipAwybMKP"
+      "duration_ms": 285949,
+      "name": "Hai V\u00ec Sao L\u1ea1c",
+      "url": "https://open.spotify.com/track/5PSk8BZS5OdSNZYPJIQtiT"
     },
     {
       "added_at": "2025-06-03 14:29:41",

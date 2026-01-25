@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of indie, dreampop and lofi vibes. Updated every week, save your favorites \ud83d\udc9c",
-  "num_followers": 59628,
+  "num_followers": 59624,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAAtAdT7KMH7+sHX6T4gCwmluDBbh9OM",
+  "snapshot_id": "AAAtA06DayTi8krpSwcn0BfqqEExNKh6",
   "tracks": [
     {
       "added_at": "2026-01-23 12:53:14",
@@ -455,38 +455,6 @@
     {
       "added_at": "2026-01-23 12:53:14",
       "album": {
-        "name": "Sleep Paralysis",
-        "url": "https://open.spotify.com/album/3pArOOBacOmVaJEATRcJYQ"
-      },
-      "artists": [
-        {
-          "name": "Ken Park",
-          "url": "https://open.spotify.com/artist/7AyoL7nBpOxuFWu706TN1J"
-        }
-      ],
-      "duration_ms": 199586,
-      "name": "Sleep Paralysis",
-      "url": "https://open.spotify.com/track/6txiEQkCxZQjyzCPRhXqUM"
-    },
-    {
-      "added_at": "2026-01-23 12:53:14",
-      "album": {
-        "name": "Tim",
-        "url": "https://open.spotify.com/album/29pNCVofIMWMMIuRciZDqj"
-      },
-      "artists": [
-        {
-          "name": "das bisschen Totschlag",
-          "url": "https://open.spotify.com/artist/6VdOdkBMOxfR16BzFJAnNu"
-        }
-      ],
-      "duration_ms": 147500,
-      "name": "Tim",
-      "url": "https://open.spotify.com/track/4aVkj1UjX6bZAMaBltGCMc"
-    },
-    {
-      "added_at": "2026-01-23 12:53:14",
-      "album": {
         "name": "God in the Middle",
         "url": "https://open.spotify.com/album/2mS0mtmCeaL4anmimEFJiA"
       },
@@ -515,6 +483,38 @@
       "duration_ms": 193333,
       "name": "Vision",
       "url": "https://open.spotify.com/track/2Zr7TsOFJiPXc1QmOeRy7Q"
+    },
+    {
+      "added_at": "2026-01-23 12:53:14",
+      "album": {
+        "name": "Sleep Paralysis",
+        "url": "https://open.spotify.com/album/3pArOOBacOmVaJEATRcJYQ"
+      },
+      "artists": [
+        {
+          "name": "Ken Park",
+          "url": "https://open.spotify.com/artist/7AyoL7nBpOxuFWu706TN1J"
+        }
+      ],
+      "duration_ms": 199586,
+      "name": "Sleep Paralysis",
+      "url": "https://open.spotify.com/track/6txiEQkCxZQjyzCPRhXqUM"
+    },
+    {
+      "added_at": "2026-01-23 12:53:14",
+      "album": {
+        "name": "Tim",
+        "url": "https://open.spotify.com/album/29pNCVofIMWMMIuRciZDqj"
+      },
+      "artists": [
+        {
+          "name": "das bisschen Totschlag",
+          "url": "https://open.spotify.com/artist/6VdOdkBMOxfR16BzFJAnNu"
+        }
+      ],
+      "duration_ms": 147500,
+      "name": "Tim",
+      "url": "https://open.spotify.com/track/4aVkj1UjX6bZAMaBltGCMc"
     },
     {
       "added_at": "2026-01-23 12:53:14",

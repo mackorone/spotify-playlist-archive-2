@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Llisten to Canadian women at full volume! Cover: Softcult
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,690 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,701 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 29 | [7th Floor](https://open.spotify.com/track/09zVY3bc1dyrNSQrZcJ9UB) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Happiness Is Going To Get You](https://open.spotify.com/album/2MhRCfdhN8os29CovIIsqV) | 2:39 |
 | 30 | [Common Ground](https://open.spotify.com/track/07Kz28z67deFipYAFwOHZJ) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Common Ground](https://open.spotify.com/album/1h6xuNBytiovf1ekxJVcZf) | 1:42 |
 | 31 | [Past Life](https://open.spotify.com/track/4Ckl9wqbIhMIbQCw0nTNyX) | [Maddee Ritter](https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A) | [Past Life](https://open.spotify.com/album/32vwxGRTcO4fo4dSzXsBsP) | 3:04 |
-| 32 | [Think They Know Me \(Remix\) \[feat\. Haviah Mighty, Charmaine, TAAYLEE G & DvblM\]](https://open.spotify.com/track/2yWquzDBIZtn3lPt9QPb1E) | [Golde London](https://open.spotify.com/artist/1Lskvp8v0SE5vR9KR8Ymcb), [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT), [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM), [DvblM](https://open.spotify.com/artist/2MUXp2OoYU1py0PRSxbn7B) | [Think They Know Me \(Remix\) \[feat\. Haviah Mighty, Charmaine, TAAYLEE G & DvblM\]](https://open.spotify.com/album/1hb4bloYIvGbhbOXgaWXtF) | 3:47 |
+| 32 | [Think They Know Me \(Remix\) \[feat\. Haviah Mighty, Charmaine, TAAYLEE G & DvblM\]](https://open.spotify.com/track/2yWquzDBIZtn3lPt9QPb1E) | [Golde London](https://open.spotify.com/artist/1Lskvp8v0SE5vR9KR8Ymcb), [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT), [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM), [DVBLM](https://open.spotify.com/artist/2MUXp2OoYU1py0PRSxbn7B) | [Think They Know Me \(Remix\) \[feat\. Haviah Mighty, Charmaine, TAAYLEE G & DvblM\]](https://open.spotify.com/album/1hb4bloYIvGbhbOXgaWXtF) | 3:47 |
 | 33 | [Mr\. Get Any Girl](https://open.spotify.com/track/4pK8pBWr3awox7BAbYuypa) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Mr\. Get Any Girl](https://open.spotify.com/album/7xaM3iqfLTn1wYgDxwAVSR) | 2:37 |
 | 34 | [Wasting Away](https://open.spotify.com/track/4qTxPPiEhftRBMBGqH087W) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Wasting Away](https://open.spotify.com/album/6uN9RACehrKiWgmZm4BVcG) | 3:25 |
 | 35 | [CRYSTAL FREAK](https://open.spotify.com/track/6Z51cBB4SCzGzAQRketQzB) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi), [CRYSTAL FREAK](https://open.spotify.com/artist/0jE4w4gr7zUitfe6FYK0gW) | [CRYSTAL FREAK](https://open.spotify.com/album/32tz5D6V5PZF4EjPzeNyyw) | 2:17 |

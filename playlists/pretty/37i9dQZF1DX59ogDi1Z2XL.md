@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Nafe Smallz & NorthSideBenji
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,188 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,248 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 39 | [WELCOME TO THE WEST](https://open.spotify.com/track/5kFnjOUEjQ9DGxmDiXjC2n) | [Quintana Mills](https://open.spotify.com/artist/0QfS6MisIhAy4LgjlAbWMz) | [WELCOME TO THE WEST](https://open.spotify.com/album/4RGpuM33U7aGttC1ZFddH5) | 2:00 |
 | 40 | [Pi 2](https://open.spotify.com/track/1J64E5Vq330Khk336LfIKv) | [Boy Wonder](https://open.spotify.com/artist/1qeGaN6I0QJO9G25tHUTVP) | [Pi 2](https://open.spotify.com/album/4qrqGtkPfMZugAUgW4jhzp) | 2:39 |
 | 41 | [DerekFisher](https://open.spotify.com/track/0PvO963e79vKYyC42iUDnc) | [KOTO?](https://open.spotify.com/artist/1N7v8ztld41DN69kQvp0We), [Soft Eyez](https://open.spotify.com/artist/6ojMQVQeJuZ8PGwHoIO4fT), [Chai Sully](https://open.spotify.com/artist/1VSEcTooR4oespyPjdva3K) | [DerekFisher](https://open.spotify.com/album/7w3P4gR94P0GVJUJb1t3oZ) | 3:21 |
-| 42 | [Think They Know Me \(Remix\) \[feat\. Haviah Mighty, Charmaine, TAAYLEE G & DvblM\]](https://open.spotify.com/track/2yWquzDBIZtn3lPt9QPb1E) | [Golde London](https://open.spotify.com/artist/1Lskvp8v0SE5vR9KR8Ymcb), [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT), [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM), [DvblM](https://open.spotify.com/artist/2MUXp2OoYU1py0PRSxbn7B) | [Think They Know Me \(Remix\) \[feat\. Haviah Mighty, Charmaine, TAAYLEE G & DvblM\]](https://open.spotify.com/album/1hb4bloYIvGbhbOXgaWXtF) | 3:47 |
+| 42 | [Think They Know Me \(Remix\) \[feat\. Haviah Mighty, Charmaine, TAAYLEE G & DvblM\]](https://open.spotify.com/track/2yWquzDBIZtn3lPt9QPb1E) | [Golde London](https://open.spotify.com/artist/1Lskvp8v0SE5vR9KR8Ymcb), [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT), [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM), [DVBLM](https://open.spotify.com/artist/2MUXp2OoYU1py0PRSxbn7B) | [Think They Know Me \(Remix\) \[feat\. Haviah Mighty, Charmaine, TAAYLEE G & DvblM\]](https://open.spotify.com/album/1hb4bloYIvGbhbOXgaWXtF) | 3:47 |
 | 43 | [Too Deep For The Outro](https://open.spotify.com/track/2Etr2lwZnCK491mU5dHIDD) | [Kai Banks](https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP), [La Reezy](https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE), [Mileena](https://open.spotify.com/artist/3zMmBYE6UVHfnURPeagEZu) | [The Kaible](https://open.spotify.com/album/3NM31JGVfzlBBbfZYww3Ah) | 3:01 |
 | 44 | [Catchin' A Hat](https://open.spotify.com/track/1RwhELTjSgiB70hEElaXYw) | [Da Crook](https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g) | [Catchin' A Hat](https://open.spotify.com/album/3ILx5Q11EVB4fvwWLFzLTe) | 1:42 |
 | 45 | [Slanted](https://open.spotify.com/track/1Qc07xFZtoVauMsFnlxXed) | [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK) | [Slanted](https://open.spotify.com/album/7gxPP42HXKFhHaeHVY3GQw) | 2:18 |

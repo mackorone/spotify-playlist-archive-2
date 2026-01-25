@@ -2025,6 +2025,24 @@
     },
     {
       "album": {
+        "name": "Cienie Przesz\u0142o\u015bci",
+        "url": "https://open.spotify.com/album/5ZrpZyPmuPY9nkhTivObsX"
+      },
+      "artists": [
+        {
+          "name": "Jeremi Sikorski",
+          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Cienie Przesz\u0142o\u015bci",
+      "url": "https://open.spotify.com/track/6hoBYZ9kZiBWrwMGWrBdqo"
+    },
+    {
+      "album": {
         "name": "ciut za bardzo",
         "url": "https://open.spotify.com/album/3GGGhT2VKHSNSwYJhpK1bG"
       },
@@ -9890,7 +9908,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 141000,
       "name": "Sedno",
       "url": "https://open.spotify.com/track/184h1j6ZZv26SmoKzv5uHD"

@@ -1,12 +1,12 @@
 {
   "description": "Country music that rocks. Cover: Chris Stapleton",
-  "num_followers": 649703,
+  "num_followers": 649838,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB+Zg9h70zNd0epo9ZSuIaFGTRgE",
+  "snapshot_id": "AAAAAK9l3hX7c78KNkS2BSmIzBsx+Nfy",
   "tracks": [
     {
       "added_at": "2026-01-16 05:00:44",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "Sorry For Nothing",
-        "url": "https://open.spotify.com/album/7eUkb05fEl8v3LVVLuRFyZ"
-      },
-      "artists": [
-        {
-          "name": "Cory Marks",
-          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
-        }
-      ],
-      "duration_ms": 198176,
-      "name": "Sorry For Nothing",
-      "url": "https://open.spotify.com/track/0H4hXxR6cP8kvXfJf0xMou"
-    },
-    {
-      "added_at": "2026-01-16 05:00:44",
-      "album": {
         "name": "Fire On The Hillside",
         "url": "https://open.spotify.com/album/3SQ6pt50V0QVZeeLZ4xpdv"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 183680,
       "name": "Something's Gonna Kill Me",
       "url": "https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6"
+    },
+    {
+      "added_at": "2026-01-16 05:00:44",
+      "album": {
+        "name": "Sorry For Nothing",
+        "url": "https://open.spotify.com/album/7eUkb05fEl8v3LVVLuRFyZ"
+      },
+      "artists": [
+        {
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        }
+      ],
+      "duration_ms": 198176,
+      "name": "Sorry For Nothing",
+      "url": "https://open.spotify.com/track/0H4hXxR6cP8kvXfJf0xMou"
     },
     {
       "added_at": "2026-01-16 05:00:44",
@@ -1183,38 +1183,6 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "AMERICAN MOTOR SPORTS",
-        "url": "https://open.spotify.com/album/1HrM3lPorHLHWPApviVRRz"
-      },
-      "artists": [
-        {
-          "name": "Bilmuri",
-          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
-        }
-      ],
-      "duration_ms": 164795,
-      "name": "SPINNIN' YOU AROUND",
-      "url": "https://open.spotify.com/track/3Kc9IdvNTmjH1fO0MFzwAD"
-    },
-    {
-      "added_at": "2026-01-16 05:00:44",
-      "album": {
-        "name": "Had It For A While",
-        "url": "https://open.spotify.com/album/6nxaqnlVueBm7rOF6S6B8e"
-      },
-      "artists": [
-        {
-          "name": "Sam Grow",
-          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
-        }
-      ],
-      "duration_ms": 151778,
-      "name": "Had It For A While",
-      "url": "https://open.spotify.com/track/2iRIwezcfYxCyl2SqMt9RN"
-    },
-    {
-      "added_at": "2026-01-16 05:00:44",
-      "album": {
         "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
         "url": "https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf"
       },
@@ -1239,6 +1207,38 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
+        "name": "Had It For A While",
+        "url": "https://open.spotify.com/album/6nxaqnlVueBm7rOF6S6B8e"
+      },
+      "artists": [
+        {
+          "name": "Sam Grow",
+          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
+        }
+      ],
+      "duration_ms": 151778,
+      "name": "Had It For A While",
+      "url": "https://open.spotify.com/track/2iRIwezcfYxCyl2SqMt9RN"
+    },
+    {
+      "added_at": "2026-01-16 05:00:44",
+      "album": {
+        "name": "AMERICAN MOTOR SPORTS",
+        "url": "https://open.spotify.com/album/1HrM3lPorHLHWPApviVRRz"
+      },
+      "artists": [
+        {
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        }
+      ],
+      "duration_ms": 164795,
+      "name": "SPINNIN' YOU AROUND",
+      "url": "https://open.spotify.com/track/3Kc9IdvNTmjH1fO0MFzwAD"
+    },
+    {
+      "added_at": "2026-01-16 05:00:44",
+      "album": {
         "name": "White Trash",
         "url": "https://open.spotify.com/album/7J6zBIqt8ongSdhixNuYBw"
       },
@@ -1251,22 +1251,6 @@
       "duration_ms": 225368,
       "name": "White Trash",
       "url": "https://open.spotify.com/track/1O6LYaqNV8ZFV8EPs5xWoJ"
-    },
-    {
-      "added_at": "2026-01-16 05:00:44",
-      "album": {
-        "name": "Time Bomb",
-        "url": "https://open.spotify.com/album/5uX7PE5xWt9RQHofF3wCLH"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
-        }
-      ],
-      "duration_ms": 215760,
-      "name": "Time Bomb",
-      "url": "https://open.spotify.com/track/4wYzsmAN7BPgNl422OkzIY"
     },
     {
       "added_at": "2026-01-16 05:00:44",
@@ -1287,6 +1271,22 @@
       "duration_ms": 235053,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl"
+    },
+    {
+      "added_at": "2026-01-16 05:00:44",
+      "album": {
+        "name": "Time Bomb",
+        "url": "https://open.spotify.com/album/5uX7PE5xWt9RQHofF3wCLH"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "duration_ms": 215760,
+      "name": "Time Bomb",
+      "url": "https://open.spotify.com/track/4wYzsmAN7BPgNl422OkzIY"
     },
     {
       "added_at": "2026-01-16 05:00:44",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
+        "name": "Alexis Texas",
+        "url": "https://open.spotify.com/album/5IvBLBjl0fY6pVsQoTpKTP"
+      },
+      "artists": [
+        {
+          "name": "Eddie And The Getaway",
+          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
+        }
+      ],
+      "duration_ms": 164441,
+      "name": "Alexis Texas",
+      "url": "https://open.spotify.com/track/4s62FMj60Tvtf6NtFZvuuK"
+    },
+    {
+      "added_at": "2026-01-16 05:00:44",
+      "album": {
         "name": "Find You (feat. Rory Rodriguez)",
         "url": "https://open.spotify.com/album/3fHJPIAdCJbwVjlPqHUS6E"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 212680,
       "name": "Find You (feat. Rory Rodriguez)",
       "url": "https://open.spotify.com/track/6Ai14RhZhVEG9S2Vk6JjsL"
-    },
-    {
-      "added_at": "2026-01-16 05:00:44",
-      "album": {
-        "name": "Alexis Texas",
-        "url": "https://open.spotify.com/album/5IvBLBjl0fY6pVsQoTpKTP"
-      },
-      "artists": [
-        {
-          "name": "Eddie And The Getaway",
-          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
-        }
-      ],
-      "duration_ms": 164441,
-      "name": "Alexis Texas",
-      "url": "https://open.spotify.com/track/4s62FMj60Tvtf6NtFZvuuK"
     },
     {
       "added_at": "2026-01-16 05:00:44",

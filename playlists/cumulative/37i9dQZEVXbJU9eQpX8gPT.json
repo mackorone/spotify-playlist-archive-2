@@ -3300,7 +3300,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 175390,
       "name": "Atiteha l'amour \u0639\u0637\u064a\u062a\u0647\u0627",
       "url": "https://open.spotify.com/track/0iQYnonGw7XG8m7N1tQdDz"
@@ -3474,7 +3474,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 125454,
       "name": "B.M.S (by my side)",
       "url": "https://open.spotify.com/track/17pMT4RIeRWlQiuErirVic"
@@ -8722,7 +8722,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 175000,
       "name": "De quoi",
       "url": "https://open.spotify.com/track/6q5NIbriDuG8MX9udQIbYq"
@@ -9686,7 +9686,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 178214,
       "name": "Doberwoman",
       "url": "https://open.spotify.com/track/55euixOw1IYjWcL6L3ZCzl"
@@ -19891,6 +19891,24 @@
     },
     {
       "album": {
+        "name": "LOVE YOU",
+        "url": "https://open.spotify.com/album/3m0dYhTtuAIIwlaTofJlkq"
+      },
+      "artists": [
+        {
+          "name": "Nono La Grinta",
+          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "LOVE YOU",
+      "url": "https://open.spotify.com/track/35eK52MQkpWLxwyIAGKKXT"
+    },
+    {
+      "album": {
         "name": "Lovini",
         "url": "https://open.spotify.com/album/0xExuBGAAYGqgBelfN7Gzn"
       },
@@ -21354,7 +21372,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 160000,
       "name": "MARADONA",
       "url": "https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya"
@@ -21816,7 +21834,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 224000,
       "name": "Medical",
       "url": "https://open.spotify.com/track/0jA7YjPRVkCI3pHQXwiecN"
@@ -31502,7 +31520,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 526707,
       "name": "SPOWNOEL",
       "url": "https://open.spotify.com/track/338Wo6letYNwTdybwpfiOl"

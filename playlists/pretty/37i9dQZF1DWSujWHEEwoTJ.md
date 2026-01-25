@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSujWHEEwoTJ.md) - [plain]
 
 > rolitas chilas para chirotear y pegar un bailadón con Contacto Norte y Javier Rosas
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,798 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,876 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSujWHEEwoTJ.md) - [plain]
 | 59 | [Juana La Cubana](https://open.spotify.com/track/7B96NlnVjnU2GQzkTaK9EI) | [La Brissa](https://open.spotify.com/artist/13UQf40ELxkqNBmfqQ2QRi) | [Juana La Cubana](https://open.spotify.com/album/01o1NYzw2AtUUsO4FjLKY3) | 3:02 |
 | 60 | [La Picare](https://open.spotify.com/track/3093JTV4C7j3OgiUfZ59dN) | [Remolinos De Fabian Gomez](https://open.spotify.com/artist/5eR6z87GicGwCHgsEgrN4k) | [La Parranda](https://open.spotify.com/album/5JB1LQP5SHE7gkO3olHaAO) | 2:36 |
 
-Snapshot ID: `AAAAAAlPh/c6RZE+W/wEl3mF76vmcsrl`
+Snapshot ID: `AAAAADSFdweTPqzhcWGrAtSyuAYDAUNd`

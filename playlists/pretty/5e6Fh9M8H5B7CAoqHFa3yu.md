@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 246 likes - 1,809 songs - 4 day 13 hr 29 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 246 likes - 1,816 songs - 4 day 13 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1817,5 +1817,12 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1807 | [Dolomiti Soul](https://open.spotify.com/track/5Cv5soORtinC12J1ruavkG) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Dolomiti Soul](https://open.spotify.com/album/543B54L2yjcDlvxZQZCJfR) | 3:52 |
 | 1808 | [silhouette](https://open.spotify.com/track/09NzL0ub22tTmCzFdy1XtS) | [LadyBoy](https://open.spotify.com/artist/3EyEQIrSwLWmL5WikGao8Q) | [silhouette](https://open.spotify.com/album/6fPCeSZ7FEeCckpd2h0bqZ) | 3:54 |
 | 1809 | [Butterfly Kiss](https://open.spotify.com/track/1t4p0VwndjAOsMjd8Pa1C3) | [Eufrocina Manigos and Eyvind Bilstad](https://open.spotify.com/artist/31q4JP429LpIl1OEibwldo) | [Butterfly Kiss](https://open.spotify.com/album/3M4YLDUmXNLIzPDoFv8wGF) | 4:28 |
+| 1810 | [126 Géneros](https://open.spotify.com/track/5Uw2JJzoWg25VOZp4XRHSH) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [126 Géneros](https://open.spotify.com/album/1nGEL8KNbLDl1r1DT6OG5W) | 3:55 |
+| 1811 | [Earth Orbit](https://open.spotify.com/track/2UEbFZQOQW7u9Nk9BUvgH2) | [Ashtech](https://open.spotify.com/artist/34gRkptPjYd3uVN9igS75S) | [Walkin' Dubs](https://open.spotify.com/album/3HK4XO1kH08oymeH2VmNkf) | 4:51 |
+| 1812 | [LUXO E LUTA](https://open.spotify.com/track/5370OoXFtKXzk9Hh6hIP6x) | [MC NEMINHO](https://open.spotify.com/artist/5kwiiAZRW2ngQmkrglNTYR) | [BRILHO DE OURO](https://open.spotify.com/album/0dolXPcE9GU6vtZnV6TdBC) | 2:50 |
+| 1813 | [brilho de ouro](https://open.spotify.com/track/7IbiNVGH6r8ghEF65A1UP6) | [MC NEMINHO](https://open.spotify.com/artist/5kwiiAZRW2ngQmkrglNTYR) | [BRILHO DE OURO](https://open.spotify.com/album/0dolXPcE9GU6vtZnV6TdBC) | 3:11 |
+| 1814 | [pó da saudade](https://open.spotify.com/track/2IwP3z7WcpWPF3LevFUXLP) | [MC NEMINHO](https://open.spotify.com/artist/5kwiiAZRW2ngQmkrglNTYR) | [BRILHO DE OURO](https://open.spotify.com/album/0dolXPcE9GU6vtZnV6TdBC) | 3:25 |
+| 1815 | [vida de patrão](https://open.spotify.com/track/19lVNgRsYOw2QmNKCWu2gp) | [MC NEMINHO](https://open.spotify.com/artist/5kwiiAZRW2ngQmkrglNTYR) | [BRILHO DE OURO](https://open.spotify.com/album/0dolXPcE9GU6vtZnV6TdBC) | 2:55 |
+| 1816 | [princesa linda](https://open.spotify.com/track/33dkGzUeemaEftYZMhhipn) | [MC NEMINHO](https://open.spotify.com/artist/5kwiiAZRW2ngQmkrglNTYR) | [BRILHO DE OURO](https://open.spotify.com/album/0dolXPcE9GU6vtZnV6TdBC) | 3:01 |
 
-Snapshot ID: `AAAH5oJA93pkJ8y1+c+d6QleE8x3Af+j`
+Snapshot ID: `AAAH7e8otzXLjzNXmnO/I9QtmqMRGjCh`

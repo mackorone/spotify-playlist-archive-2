@@ -1,12 +1,12 @@
 {
   "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added DAILY :) www.avondalerecords.com",
-  "num_followers": 1171,
+  "num_followers": 1179,
   "original_name": "Shuffle Roulette",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAKXxd7qET/KXrdGgVncO+WnMHhXhJQ",
+  "snapshot_id": "AAAKbqYXgWgo0iAnqeqmfyqtmVlDmmOv",
   "tracks": [
     {
       "added_at": "2025-08-03 07:05:37",
@@ -39,6 +39,38 @@
       "duration_ms": 333031,
       "name": "Echo Chambers",
       "url": "https://open.spotify.com/track/0QPdGdupsEmBguX9QSOQYA"
+    },
+    {
+      "added_at": "2026-01-24 11:11:10",
+      "album": {
+        "name": "Unbreakable",
+        "url": "https://open.spotify.com/album/31F4H3iHdb2Tw5kpyoRHZN"
+      },
+      "artists": [
+        {
+          "name": "DUST IN MIND",
+          "url": "https://open.spotify.com/artist/6i49PLA6jBtxQhb1nxGhM7"
+        }
+      ],
+      "duration_ms": 208834,
+      "name": "Unbreakable",
+      "url": "https://open.spotify.com/track/1MER0YAsu55Gut37JVsPG8"
+    },
+    {
+      "added_at": "2026-01-24 11:08:27",
+      "album": {
+        "name": "Everybody Thinks That I'm Alive",
+        "url": "https://open.spotify.com/album/1y3hIhI380EeR1fguKZpey"
+      },
+      "artists": [
+        {
+          "name": "Archi Deep",
+          "url": "https://open.spotify.com/artist/42s1u3l3z37YDK9u3zZrYl"
+        }
+      ],
+      "duration_ms": 214508,
+      "name": "Everybody Thinks That I'm Alive",
+      "url": "https://open.spotify.com/track/7lbQJyzKZhdRWMYNn0ENrx"
     },
     {
       "added_at": "2026-01-23 21:28:33",
@@ -119,22 +151,6 @@
       "duration_ms": 212933,
       "name": "Won't Come Clean",
       "url": "https://open.spotify.com/track/6jvIAxHaJEGEj6eHdnyrK6"
-    },
-    {
-      "added_at": "2026-01-23 01:10:17",
-      "album": {
-        "name": "Flaccid Venus (Demo)",
-        "url": "https://open.spotify.com/album/5BwyS6H8sa7UxeuAT4BhtX"
-      },
-      "artists": [
-        {
-          "name": "RINGARDS",
-          "url": "https://open.spotify.com/artist/2ZdOF65gPaO3xW7DsUXlZ7"
-        }
-      ],
-      "duration_ms": 137253,
-      "name": "Flaccid Venus - Demo",
-      "url": "https://open.spotify.com/track/67oqRTeaFSGIwCNripucnp"
     },
     {
       "added_at": "2026-01-22 14:27:09",
@@ -1227,22 +1243,6 @@
       "duration_ms": 260487,
       "name": "The Wheel Of Slaughter",
       "url": "https://open.spotify.com/track/63QcDodoU46kLzFCE7LRU3"
-    },
-    {
-      "added_at": "2025-12-24 11:02:07",
-      "album": {
-        "name": "AGOTA",
-        "url": "https://open.spotify.com/album/27VFK6Q9YW7BkvJ4CsjmId"
-      },
-      "artists": [
-        {
-          "name": "PIFFA",
-          "url": "https://open.spotify.com/artist/6UO5LlE4BLbYDXvodjJ1hi"
-        }
-      ],
-      "duration_ms": 180012,
-      "name": "Agota",
-      "url": "https://open.spotify.com/track/5nk9QFl5sBAwP8tVyexfHV"
     },
     {
       "added_at": "2025-11-20 11:02:56",
@@ -5373,6 +5373,70 @@
       "url": "https://open.spotify.com/track/5U0QOQaK4j5ggLkChpXS1B"
     },
     {
+      "added_at": "2026-01-24 05:18:44",
+      "album": {
+        "name": "Dry Remains",
+        "url": "https://open.spotify.com/album/0wUp8r2obVyByUc3aZO3ds"
+      },
+      "artists": [
+        {
+          "name": "Vampire Valentine",
+          "url": "https://open.spotify.com/artist/5IFOqHlbt37UXsz73a02og"
+        }
+      ],
+      "duration_ms": 208965,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/3T9ESvcfxO0HJMwh0j6K4p"
+    },
+    {
+      "added_at": "2026-01-24 05:19:04",
+      "album": {
+        "name": "LEONAS.mp3",
+        "url": "https://open.spotify.com/album/6BMxEkMvvYThnzh9hq1ORc"
+      },
+      "artists": [
+        {
+          "name": "Kibbutz Paradiso",
+          "url": "https://open.spotify.com/artist/21vbXHIW0qY3qchdDPmAmB"
+        }
+      ],
+      "duration_ms": 243908,
+      "name": "LEONAS.mp3",
+      "url": "https://open.spotify.com/track/0TUzvQqUa1CZ9TS0M6N8f5"
+    },
+    {
+      "added_at": "2026-01-24 21:32:05",
+      "album": {
+        "name": "Hungry For The Prize (Edit)",
+        "url": "https://open.spotify.com/album/5C7g4RQ8nKPHu3tFZBB86G"
+      },
+      "artists": [
+        {
+          "name": "KEELEY",
+          "url": "https://open.spotify.com/artist/5H98N76pS5eRu8bWuh2ric"
+        }
+      ],
+      "duration_ms": 248906,
+      "name": "Hungry For The Prize - Edit",
+      "url": "https://open.spotify.com/track/1CH36VOisDb0vdW3Q8XBxI"
+    },
+    {
+      "added_at": "2026-01-24 21:31:45",
+      "album": {
+        "name": "Pocket Of His Raincoat",
+        "url": "https://open.spotify.com/album/0KZWNkfrBcv6mRhMTx6JYz"
+      },
+      "artists": [
+        {
+          "name": "TAW-N",
+          "url": "https://open.spotify.com/artist/7sFhR4JlMQGcBH7XB1femm"
+        }
+      ],
+      "duration_ms": 197360,
+      "name": "Pocket Of His Raincoat",
+      "url": "https://open.spotify.com/track/3h7AavHHz3EQ8Pq6mpMv7T"
+    },
+    {
       "added_at": "2026-01-23 21:33:14",
       "album": {
         "name": "Carnage from a Excorism",
@@ -5403,6 +5467,118 @@
       "duration_ms": 90697,
       "name": "she",
       "url": "https://open.spotify.com/track/1T2F8xiWV4L3Py6Y76WhkZ"
+    },
+    {
+      "added_at": "2026-01-24 05:20:55",
+      "album": {
+        "name": "Waste My Time",
+        "url": "https://open.spotify.com/album/1wlx15K8jxITPW0yeeWYS7"
+      },
+      "artists": [
+        {
+          "name": "The Black Mariah Theater",
+          "url": "https://open.spotify.com/artist/3lNGw2cEjnrWOXiJoeNhfS"
+        }
+      ],
+      "duration_ms": 195642,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/2KfOZHMkNuHiNI96bwcVHl"
+    },
+    {
+      "added_at": "2026-01-24 05:24:49",
+      "album": {
+        "name": "Echoes Of The Modern Mind",
+        "url": "https://open.spotify.com/album/5dAAKIVnr96ILc9gxPnRzt"
+      },
+      "artists": [
+        {
+          "name": "Virya",
+          "url": "https://open.spotify.com/artist/6bbW0jOKAWJWm3h6CTWaAS"
+        }
+      ],
+      "duration_ms": 275160,
+      "name": "Technophobia",
+      "url": "https://open.spotify.com/track/0rzrA9sRqki2CsA9bbWM8p"
+    },
+    {
+      "added_at": "2026-01-24 05:25:11",
+      "album": {
+        "name": "Ain't No Peace Without Violence",
+        "url": "https://open.spotify.com/album/57z4PY3H3jF9Nxuwj7pjzY"
+      },
+      "artists": [
+        {
+          "name": "HawkBit",
+          "url": "https://open.spotify.com/artist/1rb1pOKkaUVriuvbYo6r60"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Remembrance in it's Heel Era",
+      "url": "https://open.spotify.com/track/1bvunpbipReiNeLe4inmhf"
+    },
+    {
+      "added_at": "2026-01-24 05:25:35",
+      "album": {
+        "name": "Spank Me (2023 Remastered Version)",
+        "url": "https://open.spotify.com/album/3Kdqy2c10XfujJpWluIu1C"
+      },
+      "artists": [
+        {
+          "name": "House Of Baden",
+          "url": "https://open.spotify.com/artist/3NPFR8IMXX7S89e6TXdHIN"
+        }
+      ],
+      "duration_ms": 149500,
+      "name": "Spank Me - 2023 Remastered Version",
+      "url": "https://open.spotify.com/track/3V4noM5bfPWgzncxoCqLuy"
+    },
+    {
+      "added_at": "2026-01-24 05:26:34",
+      "album": {
+        "name": "IDLU",
+        "url": "https://open.spotify.com/album/6n9xdt2ktAQsBydfZeHEQK"
+      },
+      "artists": [
+        {
+          "name": "TEll A ViSiON",
+          "url": "https://open.spotify.com/artist/0o4PC35iPXR3eK4CPkl353"
+        }
+      ],
+      "duration_ms": 199587,
+      "name": "IDLU",
+      "url": "https://open.spotify.com/track/2ejlWsRx89pU3A38vjhWPU"
+    },
+    {
+      "added_at": "2026-01-24 05:27:30",
+      "album": {
+        "name": "Mean Bone",
+        "url": "https://open.spotify.com/album/1V9rzvDvLAPdmQ2msZU9wq"
+      },
+      "artists": [
+        {
+          "name": "Buzzard",
+          "url": "https://open.spotify.com/artist/4lPV2Ks4kacVTCX9EEJ62u"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "Darkness Wins",
+      "url": "https://open.spotify.com/track/4gzSTvDdlr7WiSzqBBG223"
+    },
+    {
+      "added_at": "2026-01-24 05:27:49",
+      "album": {
+        "name": "Lost Inside",
+        "url": "https://open.spotify.com/album/1dTObo08E1qoOuwynwuIUL"
+      },
+      "artists": [
+        {
+          "name": "Paranoize",
+          "url": "https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS"
+        }
+      ],
+      "duration_ms": 185500,
+      "name": "Lost Inside",
+      "url": "https://open.spotify.com/track/7suVrAMEIuY74fFwMwMkqO"
     }
   ],
   "unique_name": "Shuffle Roulette",

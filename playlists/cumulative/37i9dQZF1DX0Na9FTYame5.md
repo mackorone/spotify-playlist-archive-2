@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: benno!
 
-327 songs - 14 hr 48 min
+328 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [Mach die Augen auf](https://open.spotify.com/track/74EasdbNav1osDCwRCFwrS) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Mach die Augen auf](https://open.spotify.com/album/6LUAQItFCJarUpFHnzMjtH) | 1:51 | 2024-06-28 |  |
 | [Malediven](https://open.spotify.com/track/5WBTdhkXW8REDxEERqtUOY) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Ich lieb mich, ich lieb mich nicht](https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf) | 2:03 | 2025-09-18 |  |
 | [MAMAS HAUS](https://open.spotify.com/track/6aOwyg63SvKnnOho5FVjv5) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [MAMAS HAUS](https://open.spotify.com/album/36zUQg4IZhcCNPJXWBSWd0) | 2:26 | 2025-05-15 | 2025-06-24 |
-| [Manchmal](https://open.spotify.com/track/4JJQyGWn7U6UfvWgAqU4Y1) | [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE) | [Manchmal](https://open.spotify.com/album/2HRMladOnjtIZcpDQF0wAy) | 2:50 | 2024-11-11 |  |
+| [Manchmal](https://open.spotify.com/track/4JJQyGWn7U6UfvWgAqU4Y1) | [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE) | [Manchmal](https://open.spotify.com/album/2HRMladOnjtIZcpDQF0wAy) | 2:50 | 2024-11-11 | 2026-01-25 |
 | [Mann vom Fach](https://open.spotify.com/track/6sEoli2139kRG8Q7LfpHEY) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [Mann vom Fach](https://open.spotify.com/album/0xIUY0nx09yGVjg2gZbbBF) | 2:40 | 2024-06-28 |  |
 | [Marbella](https://open.spotify.com/track/3kUkQYLPgw2aqBMcilZ4kt) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Marbella](https://open.spotify.com/album/1TBOrXCDn26WX5L5xy0VDt) | 2:22 | 2025-11-13 |  |
 | [Meilen](https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC) | [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf) | [Meilen](https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0) | 2:19 | 2024-06-28 |  |
@@ -292,6 +292,7 @@
 | [Ungebrochen](https://open.spotify.com/track/2WmYtjrOsvlBr7am7k0bAS) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Ungebrochen](https://open.spotify.com/album/3HAxEBZaaJojs1kELX9vqa) | 3:51 | 2025-03-24 | 2025-07-31 |
 | [Unsichtbar](https://open.spotify.com/track/4HgB1ymUqgHI5lPHywMkDw) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Unsichtbar](https://open.spotify.com/album/576kgzwgvfjAO1oeuEekLi) | 2:23 | 2024-10-10 | 2025-09-24 |
 | [Unzertrennlich](https://open.spotify.com/track/3HqtURF3IehghsYbGhKxHQ) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Unzertrennlich](https://open.spotify.com/album/3OIEJzGzG8l1bq0MHcYpvJ) | 2:58 | 2024-11-18 | 2025-03-24 |
+| [UPPER CLASS](https://open.spotify.com/track/37e3QAVb4r9m77tehiRfuu) | [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6), [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm), [Bobbyezz](https://open.spotify.com/artist/5hV6TRKQwmvIWKTlsob1z8), [danielslump](https://open.spotify.com/artist/6aCnsDwUUiBSNDdsmtuSRb) | [UPPER CLASS](https://open.spotify.com/album/1g5qbFLy3b6tVBW2vJ7gBt) | 4:48 | 2026-01-23 |  |
 | [VERLOREN](https://open.spotify.com/track/1u6W22YcQHmGQTY7PwIyMA) | [lilmido](https://open.spotify.com/artist/3SfYZvCYQabP2AXGZ6ocU5), [BOJAN](https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U), [Sa4](https://open.spotify.com/artist/5qZLYtTL3ldN6Uw7OXHESR) | [VERLOREN](https://open.spotify.com/album/1E0GuBw3isPK2hQVRpw77v) | 3:01 | 2025-10-10 | 2025-10-30 |
 | [Vermissen \(feat\. Henning May\)](https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [Henning May](https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay) | [Bling Bling](https://open.spotify.com/album/7FUJDqWr0PvHJyIJeCsswA) | 2:41 | 2024-06-28 |  |
 | [Verräter](https://open.spotify.com/track/6IrdU8HfMZ63C7nE2hWZuM) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Tiki Taka](https://open.spotify.com/album/4Rs7tHSyQNfdQWeUsK2rsU) | 2:33 | 2025-10-09 | 2025-11-06 |

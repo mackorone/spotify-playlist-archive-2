@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Savera, OAFF and other exciting artists.
 
-1,312 songs - 2 day 23 hr 44 min
+1,313 songs - 2 day 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Because Because Because](https://open.spotify.com/track/3Ke8cQwRISvXEXXvHou7Rv) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Because Because Because](https://open.spotify.com/album/5nRXba9Mx7yK0FqrwneBvY) | 3:58 | 2023-07-07 | 2023-08-12 |
 | [Beete Nahi](https://open.spotify.com/track/74tzadMAq4Ck0LkZPMeJ3n) | [Siddharth Pandit](https://open.spotify.com/artist/4lG93AH2UqEYBZKlpxkZAG), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Pooja Tiwari](https://open.spotify.com/artist/5MDvAeupq312AkEWTGblZf), [Shriya Pareek](https://open.spotify.com/artist/7MQJZfczhoHXXAKtDVnkb3), [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Beete Nahi](https://open.spotify.com/album/7misHOpBC186nohhZFWzKL) | 3:57 | 2024-03-22 | 2024-05-18 |
 | [Befikra](https://open.spotify.com/track/09eO5OAVdLmGjRWCPzNtBv) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Befikra](https://open.spotify.com/album/3sw5Zb6m4uSfUZLXMDx5my) | 3:48 | 2024-07-12 | 2024-08-31 |
+| [Befikra](https://open.spotify.com/track/3eTPW7zWFQNghrizc7BODu) | [Shradha Mishra](https://open.spotify.com/artist/4nhFZoBTFnDpi17pbaDgd7), [Yash Mishra](https://open.spotify.com/artist/70sU4yuUbhERtc7LQWuTQi) | [Befikra](https://open.spotify.com/album/4owOgyrIaAaZfZqWsTGFS5) | 3:10 | 2026-01-16 |  |
 | [BeHaya Humre Saiyaan Bedardi](https://open.spotify.com/track/3ifdiDHwuODTgVPmshKYan) | [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK) | [BeHaya Humre Saiyaan Bedardi](https://open.spotify.com/album/5tbx0NpfcoEU1LUSrmPoEt) | 4:30 | 2024-10-25 | 2025-01-11 |
 | [Behene Do Mujhe](https://open.spotify.com/track/6CObZYkROErTp2MNmLtG4e) | [boys from marsss](https://open.spotify.com/artist/5UaZTW4g6ypNCmyXpFiYbU) | [Behene Do Mujhe](https://open.spotify.com/album/5G1SA6AwaG4uHnd3TUTjaJ) | 2:22 | 2026-01-09 |  |
 | [Behka](https://open.spotify.com/track/0d9HLOYkoGEc76tvu7DDB5) | [Saudur](https://open.spotify.com/artist/2mg1YLOST3mNhhkP60Ni4I), [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Behka](https://open.spotify.com/album/2oP0TSCDUZabQVVsCijinv) | 2:21 | 2023-08-10 | 2023-09-09 |
@@ -825,7 +826,7 @@
 | [Muzmahil](https://open.spotify.com/track/4zp7LwUJcqZ0uScoacYa7Z) | [Arriv Madan](https://open.spotify.com/artist/5PUMXPoCbHwk0BxM7rGA8J), [Hitesh Rikki Madan](https://open.spotify.com/artist/2AGjKaADJvVp3jiHNAHIuq), [Advy Madan](https://open.spotify.com/artist/3OEnzdCrfZ8mzNrs6GSbKG) | [Muzmahil](https://open.spotify.com/album/0T1tu97m7AzQboGiQhNbEV) | 3:15 | 2024-07-19 | 2024-09-13 |
 | [Myna](https://open.spotify.com/track/1eqsvDzOLogvzH3KnjkGcr) | [Secrets For Sale](https://open.spotify.com/artist/2hqCdgmng9ewquru5qzLVp), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Myna](https://open.spotify.com/album/7yVyzBDkw83o8M26sVUclt) | 2:54 | 2024-02-02 | 2024-02-17 |
 | [Na Bol](https://open.spotify.com/track/1SmAhSbMTtjN2g2C8m2V4k) | [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B) | [Par](https://open.spotify.com/album/4ck6HaPNKMaBXiEr5JfxwT) | 3:19 | 2023-09-29 | 2023-10-21 |
-| [Na Gul Na Gulistan](https://open.spotify.com/track/3mTMHsQBJRpfUaN4gTA3zt) | [Parvaaz](https://open.spotify.com/artist/6vwSAnfnlO6Sy37KubGrLh) | [Na Gul Na Gulistan](https://open.spotify.com/album/3iHvPWrqP5RrcMyp4yYzm7) | 4:55 | 2025-11-21 |  |
+| [Na Gul Na Gulistan](https://open.spotify.com/track/3mTMHsQBJRpfUaN4gTA3zt) | [Parvaaz](https://open.spotify.com/artist/6vwSAnfnlO6Sy37KubGrLh) | [Na Gul Na Gulistan](https://open.spotify.com/album/3iHvPWrqP5RrcMyp4yYzm7) | 4:55 | 2025-11-21 | 2026-01-25 |
 | [Na Ja](https://open.spotify.com/track/5PBms8xSMFFnTT9MShFQ6d) | [Raveena Mehta](https://open.spotify.com/artist/5II26ULdW25JT4tbUISamb), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Na Ja](https://open.spotify.com/album/29fiUguzZwSeACPVhm9HtA) | 2:41 | 2024-05-10 | 2024-06-15 |
 | [Na Na Na](https://open.spotify.com/track/674Zkmjw3pxSBEyBTc7jHh) | [Zanai Bhosle](https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX) | [Na Na Na](https://open.spotify.com/album/0QDUhXQiHlLxWQpRriyva4) | 2:30 | 2025-09-26 | 2025-12-05 |
 | [Na Rahi..](https://open.spotify.com/track/2J90MxSs0cCDdR8g6bj2sg) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Na Rahi..](https://open.spotify.com/album/2eA7WuGH2lqVr0CQzCve37) | 4:10 | 2024-05-17 | 2024-06-22 |

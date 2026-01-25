@@ -273,6 +273,28 @@
     },
     {
       "album": {
+        "name": "Algo Nuevo Viene",
+        "url": "https://open.spotify.com/album/3QkreCRWwtZLLt2UzC2MHX"
+      },
+      "artists": [
+        {
+          "name": "Elevation Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447037,
+      "name": "Conf\u00edo En Dios",
+      "url": "https://open.spotify.com/track/4M9fZzHnmpvZOb3awA0XAG"
+    },
+    {
+      "album": {
         "name": "Coritos (En Vivo)",
         "url": "https://open.spotify.com/album/4uQI1yz6vAfBTncWNqd48k"
       },
@@ -2068,7 +2090,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 231291,
       "name": "Siempre Fuiste T\u00fa (En Vivo)",
       "url": "https://open.spotify.com/track/0IfMJUJydrnsmpffAopUNe"

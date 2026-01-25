@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2p8xjyOmiI.md) - [plain]
 
 > Corridones pa' quemarle las patas al Diablo 😈 Herencia de Patrones en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,423 likes - 115 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,419 likes - 115 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2p8xjyOmiI.md) - [plain]
 | 114 | [Con Un Presidente](https://open.spotify.com/track/2n953vWBOzx3m40zPBxjVQ) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Esteban Gabriel](https://open.spotify.com/artist/5ImyiP3jzpqv7a5Ig63j13) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:36 |
 | 115 | [El de la Skywalker](https://open.spotify.com/track/3qjbenIYBkRHcdnMO18nW5) | [Fuera De Serie](https://open.spotify.com/artist/7cBeYyUmgHMHbDO2Zr7utS) | [El de la Skywalker](https://open.spotify.com/album/3TGaFiomL2Vwkae9YTLQEh) | 3:20 |
 
-Snapshot ID: `AAAAAHNXJvfjcgIZq9QmgdSxL0St5pNI`
+Snapshot ID: `AAAAAJsnswHqA3HRme+rrE7fsMvUR8f3`

@@ -1,6 +1,6 @@
 {
   "description": "Volkspop | Nederpop. Cover: Yves Berendse",
-  "num_followers": 156296,
+  "num_followers": 156377,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "Hier Mag Alles",
-        "url": "https://open.spotify.com/album/7vAX7pi3sdfs65gVw6K1fi"
-      },
-      "artists": [
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Marco Schuitmaker",
-          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
-        }
-      ],
-      "duration_ms": 195859,
-      "name": "Hier Mag Alles",
-      "url": "https://open.spotify.com/track/1sqe31TzOsjCeex1INgmsq"
-    },
-    {
-      "added_at": "2025-12-10 23:00:01",
-      "album": {
         "name": "Doe Maar - De Singles (Het Complete Singles Overzicht)",
         "url": "https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 192521,
       "name": "Doe mij 'n rondje",
       "url": "https://open.spotify.com/track/36mfPdmT0HORyDrswBxDBQ"
+    },
+    {
+      "added_at": "2025-12-10 23:00:01",
+      "album": {
+        "name": "Hier Mag Alles",
+        "url": "https://open.spotify.com/album/7vAX7pi3sdfs65gVw6K1fi"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+        }
+      ],
+      "duration_ms": 195859,
+      "name": "Hier Mag Alles",
+      "url": "https://open.spotify.com/track/1sqe31TzOsjCeex1INgmsq"
     },
     {
       "added_at": "2025-12-10 23:00:01",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "Zin In Jou",
-        "url": "https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37"
-      },
-      "artists": [
-        {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        }
-      ],
-      "duration_ms": 238167,
-      "name": "Zin In Jou",
-      "url": "https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8"
-    },
-    {
-      "added_at": "2025-12-10 23:00:01",
-      "album": {
         "name": "Nog Geen Si\u00ebsta",
         "url": "https://open.spotify.com/album/64D3m0YFpNWqGAQAUwuJ6A"
       },
@@ -1299,22 +1283,6 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "Spijt Is Voor Later",
-        "url": "https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT"
-      },
-      "artists": [
-        {
-          "name": "Martin Morero",
-          "url": "https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3"
-        }
-      ],
-      "duration_ms": 164573,
-      "name": "Spijt Is Voor Later",
-      "url": "https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD"
-    },
-    {
-      "added_at": "2025-12-10 23:00:01",
-      "album": {
         "name": "In Elk Stadje",
         "url": "https://open.spotify.com/album/4zlkF9UTxf5vJU8z0aWY3x"
       },
@@ -1327,6 +1295,22 @@
       "duration_ms": 210810,
       "name": "In Elk Stadje",
       "url": "https://open.spotify.com/track/5IKHFjUy4bfoewKfqEptxg"
+    },
+    {
+      "added_at": "2025-12-10 23:00:01",
+      "album": {
+        "name": "Spijt Is Voor Later",
+        "url": "https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT"
+      },
+      "artists": [
+        {
+          "name": "Martin Morero",
+          "url": "https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3"
+        }
+      ],
+      "duration_ms": 164573,
+      "name": "Spijt Is Voor Later",
+      "url": "https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD"
     },
     {
       "added_at": "2025-12-10 23:00:01",
@@ -1347,6 +1331,22 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
+        "name": "Zin In Jou",
+        "url": "https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "duration_ms": 238167,
+      "name": "Zin In Jou",
+      "url": "https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8"
+    },
+    {
+      "added_at": "2025-12-10 23:00:01",
+      "album": {
         "name": "Bloedje Bloedje Heet",
         "url": "https://open.spotify.com/album/4kmJHWSPd0ZxiZOXals4zi"
       },
@@ -1363,22 +1363,18 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "Alleen Met Jou",
-        "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
+        "name": "Want Jij",
+        "url": "https://open.spotify.com/album/7ljEQvUEmPD7fKQGzwCPS7"
       },
       "artists": [
         {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        },
-        {
-          "name": "Emma Heesters",
-          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+          "name": "Ferry de Lits",
+          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
         }
       ],
-      "duration_ms": 193694,
-      "name": "Alleen Met Jou",
-      "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
+      "duration_ms": 182000,
+      "name": "Want Jij",
+      "url": "https://open.spotify.com/track/1uAwsciTUTnHRWzi1b0ylJ"
     },
     {
       "added_at": "2025-12-10 23:00:01",
@@ -1419,18 +1415,22 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "Want Jij",
-        "url": "https://open.spotify.com/album/7ljEQvUEmPD7fKQGzwCPS7"
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
       },
       "artists": [
         {
-          "name": "Ferry de Lits",
-          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        },
+        {
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Want Jij",
-      "url": "https://open.spotify.com/track/1uAwsciTUTnHRWzi1b0ylJ"
+      "duration_ms": 193694,
+      "name": "Alleen Met Jou",
+      "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
     },
     {
       "added_at": "2025-12-10 23:00:01",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/4fJaDTHsSwMFrGloawWO5T"
+      },
+      "artists": [
+        {
+          "name": "Gino Graus",
+          "url": "https://open.spotify.com/artist/4gdJesT5lTB7pRinLDB4iT"
+        }
+      ],
+      "duration_ms": 211712,
+      "name": "Dolores",
+      "url": "https://open.spotify.com/track/3qciiRD3GlL8KIq7DV8vd6"
+    },
+    {
+      "added_at": "2025-12-10 23:00:01",
+      "album": {
         "name": "Frans Duits",
         "url": "https://open.spotify.com/album/275oSAHa19SMqDyPdjUVzh"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 172881,
       "name": "Frans Duits",
       "url": "https://open.spotify.com/track/6iSm0u8DL5MqeptlsoeS90"
-    },
-    {
-      "added_at": "2025-12-10 23:00:01",
-      "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/4fJaDTHsSwMFrGloawWO5T"
-      },
-      "artists": [
-        {
-          "name": "Gino Graus",
-          "url": "https://open.spotify.com/artist/4gdJesT5lTB7pRinLDB4iT"
-        }
-      ],
-      "duration_ms": 211712,
-      "name": "Dolores",
-      "url": "https://open.spotify.com/track/3qciiRD3GlL8KIq7DV8vd6"
     },
     {
       "added_at": "2025-12-10 23:00:01",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "Kali",
-        "url": "https://open.spotify.com/album/3s4nZfdxoo3GdaRvQf2dqA"
+        "name": "Jij Krijgt Die Lach Niet Van Mijn Gezicht",
+        "url": "https://open.spotify.com/album/2k1n74zKIcEQiInajgbtIk"
       },
       "artists": [
         {
-          "name": "Django Wagner",
-          "url": "https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2"
+          "name": "John De Bever",
+          "url": "https://open.spotify.com/artist/2qAPnua41tsOE6o2L2tl5p"
         }
       ],
-      "duration_ms": 206400,
-      "name": "Kali - Kali",
-      "url": "https://open.spotify.com/track/4eyGhxR256IUS9BQbuGEGb"
+      "duration_ms": 200779,
+      "name": "Jij Krijgt Die Lach Niet Van Mijn Gezicht",
+      "url": "https://open.spotify.com/track/60VvE1ktlRQSS1RW6CSzoV"
     }
   ],
   "unique_name": "Hollandse Meezingers",

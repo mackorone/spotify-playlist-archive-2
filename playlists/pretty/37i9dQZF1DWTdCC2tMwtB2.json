@@ -1,6 +1,6 @@
 {
   "description": "Your escape to the world of chill Indian pop. Cover - Thoda Thoda Pyaar",
-  "num_followers": 119913,
+  "num_followers": 120347,
   "original_name": "I-Pop Chill",
   "owner": {
     "name": "Spotify",
@@ -347,8 +347,8 @@
     {
       "added_at": "2026-01-22 09:20:57",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT"
       },
       "artists": [
         {
@@ -356,13 +356,17 @@
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         },
         {
-          "name": "thiarajxtt",
-          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        },
+        {
+          "name": "Raj Ranjodh",
+          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
         }
       ],
-      "duration_ms": 213344,
-      "name": "Kinni Kinni",
-      "url": "https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi"
+      "duration_ms": 175200,
+      "name": "Charmer",
+      "url": "https://open.spotify.com/track/1F2sn8iJA607Xfz1K3d9dJ"
     },
     {
       "added_at": "2026-01-22 09:20:57",
@@ -439,8 +443,8 @@
     {
       "added_at": "2026-01-22 09:20:57",
       "album": {
-        "name": "AURA",
-        "url": "https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT"
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
       "artists": [
         {
@@ -448,17 +452,13 @@
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         },
         {
-          "name": "Avvy Sra",
-          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
-        },
-        {
-          "name": "Raj Ranjodh",
-          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
-      "duration_ms": 175200,
-      "name": "Charmer",
-      "url": "https://open.spotify.com/track/1F2sn8iJA607Xfz1K3d9dJ"
+      "duration_ms": 213344,
+      "name": "Kinni Kinni",
+      "url": "https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi"
     },
     {
       "added_at": "2026-01-22 09:20:57",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-01-22 09:20:57",
       "album": {
+        "name": "Do You Know",
+        "url": "https://open.spotify.com/album/0VL0XINwpFeZZZthg65ASA"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 212470,
+      "name": "Do You Know",
+      "url": "https://open.spotify.com/track/1aHRhPwlNTNdMsDcYicxb6"
+    },
+    {
+      "added_at": "2026-01-22 09:20:57",
+      "album": {
         "name": "Intezaar",
         "url": "https://open.spotify.com/album/71whGqTrr3pCoiAsZx0SAe"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 267519,
       "name": "Intezaar",
       "url": "https://open.spotify.com/track/6p2o4ep90wpkh0qzUmyFuO"
-    },
-    {
-      "added_at": "2026-01-22 09:20:57",
-      "album": {
-        "name": "Do You Know",
-        "url": "https://open.spotify.com/album/0VL0XINwpFeZZZthg65ASA"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 212470,
-      "name": "Do You Know",
-      "url": "https://open.spotify.com/track/1aHRhPwlNTNdMsDcYicxb6"
     },
     {
       "added_at": "2026-01-22 09:20:57",

@@ -4,7 +4,7 @@
 
 > afrobeats daqui, de fora, de todos os cantos
 
-248 songs - 12 hr 18 min
+249 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Brinca Comigo](https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd) | [RUBY](https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1), [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Atitude](https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ) | 3:05 | 2024-04-05 |  |
 | [BRINDE](https://open.spotify.com/track/7z9WyytxQY7nRLuQNeFeE8) | [Yan Cloud](https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP), [Avicena](https://open.spotify.com/artist/2JLBQFMznqSVWj9GSuXF1L) | [BRINDE](https://open.spotify.com/album/5fNVRErf70NzXrtjLiF5ac) | 2:56 | 2025-11-14 |  |
 | [Busy](https://open.spotify.com/track/1DVdbIySidKt0RdRrh7gg1) | [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Busy](https://open.spotify.com/album/6M9oPmqJzL4j4rQ2kZPPzu) | 2:35 | 2025-07-14 |  |
-| [Bóra](https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [Bóra](https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv) | 3:55 | 2024-04-05 |  |
+| [Bóra](https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [Bóra](https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv) | 3:55 | 2024-04-05 | 2026-01-25 |
 | [Cabeza](https://open.spotify.com/track/5y6IrzbBkHqV0E0Dzg2DkZ) | [Karl Wine](https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [Cabeza](https://open.spotify.com/album/5OYa7DkVEnROKwcKybrBdl) | 2:49 | 2023-10-27 | 2023-11-25 |
 | [Cabo Verde](https://open.spotify.com/track/3Fg2CQSsb4ltRakh7KWmG9) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [O Veneno do Escorpião V.2](https://open.spotify.com/album/6pm74umdTVp42BxkbDJbu4) | 2:20 | 2025-02-14 | 2025-07-15 |
 | [Calma](https://open.spotify.com/track/2XjHq66MOjqO51SxnwecnT) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [D\-Hit](https://open.spotify.com/artist/2ykrmidRrayttblvRHx30p), [Jaca Beats](https://open.spotify.com/artist/0GNm0Tq6BRwavnzheRcRWl) | [Calma](https://open.spotify.com/album/1WMGcN4qIb0ui7ZkljLkWi) | 1:56 | 2024-02-16 | 2024-04-19 |
@@ -65,6 +65,7 @@
 | [Corpo Nu](https://open.spotify.com/track/7MJPdQG7vz2LanUrsVuyJN) | [Rare G](https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Corpo Nu](https://open.spotify.com/album/34yxeyLDLdBXvd3iCl35Ec) | 3:11 | 2023-09-15 | 2023-11-25 |
 | [Corrente](https://open.spotify.com/track/58slFsFwosSTeALLiPxIkI) | [Lz da França](https://open.spotify.com/artist/5wwIfBhmmcRChkLfFKxcu3), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb) | [Corrente](https://open.spotify.com/album/5D15hBPxJW8nm119i0T5cz) | 2:56 | 2024-08-30 | 2025-02-22 |
 | [Cria das ruas](https://open.spotify.com/track/02LSyOIhNOV9NZkuvBlxg9) | [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [MC JSP](https://open.spotify.com/artist/0lRhmQvg5nTo85aoHeDWNE), [Vinex](https://open.spotify.com/artist/3QiKNSMhR18TwE4JRv8yQK) | [Cria das ruas](https://open.spotify.com/album/3jDh9zY7sPxAY630A5pADv) | 3:07 | 2025-07-04 | 2025-08-23 |
+| [Cê Decide](https://open.spotify.com/track/74Xa1p6kyCTyTtidZOPAUZ) | [Scardinni](https://open.spotify.com/artist/18LTJax6PTlio8utZE2YLO) | [Cê Decide](https://open.spotify.com/album/4oZMdfYEB5sTsJlwRFuwDX) | 1:56 | 2026-01-09 |  |
 | [Deixa Acender](https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Deixa Acender](https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8) | 2:35 | 2023-12-01 | 2023-12-23 |
 | [Deixa Eu Mostrar](https://open.spotify.com/track/28dzpx9Sn1jmAvCNLoKqd8) | [Danny](https://open.spotify.com/artist/7hD5x2RknluqTntIyuxzSa) | [Deixa Eu Mostrar](https://open.spotify.com/album/54aMRwjpAThmHSElGPvYQB) | 2:18 | 2023-09-15 | 2023-11-11 |
 | [Deixa Eu Te Contar](https://open.spotify.com/track/0CGngLP2gLZZqWKjq4QW6K) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [Deixa Eu Te Contar](https://open.spotify.com/album/4PfsmNH1ZnmOXgqTrEMjgY) | 3:13 | 2024-04-19 | 2025-02-15 |

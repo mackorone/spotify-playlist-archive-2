@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: YoungBoy Never Broke Again
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,632 likes - 78 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,623 likes - 78 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

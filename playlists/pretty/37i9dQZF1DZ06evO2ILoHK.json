@@ -1,12 +1,12 @@
 {
   "description": "This is Basement. The essential tracks, all in one playlist.",
-  "num_followers": 12341,
+  "num_followers": 12343,
   "original_name": "This Is Basement",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXFogAAAAAChsoxK/v9hY2qUgJqhgVA1",
+  "snapshot_id": "aXK6AAAAAADxh6cyYFFI1X1bcENVFuGV",
   "tracks": [
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 37421,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/6HQazh5h0nLMuKR3R6lauX"
+      "duration_ms": 124977,
+      "name": "1104 Porter St",
+      "url": "https://open.spotify.com/track/11Cf39LSlZmTUBGLoP8jCx"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 124977,
-      "name": "1104 Porter St",
-      "url": "https://open.spotify.com/track/11Cf39LSlZmTUBGLoP8jCx"
+      "duration_ms": 37421,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/6HQazh5h0nLMuKR3R6lauX"
     }
   ],
   "unique_name": "This Is Basement",

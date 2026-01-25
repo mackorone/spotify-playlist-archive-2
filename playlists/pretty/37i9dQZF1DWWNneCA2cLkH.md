@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 
 > These are the eclectic sounds of now\. Cover: Oxis
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,439 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,437 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 | 99 | [Falter](https://open.spotify.com/track/4XA4JcVAs6IQZZYhg8iEPa) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Falter](https://open.spotify.com/album/6lzkQ9IjpbhF58gQLDthCc) | 2:41 |
 | 100 | [BABY BABY](https://open.spotify.com/track/37RNy61lMUr4NoYmSOroHJ) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [BABY BABY](https://open.spotify.com/album/0JxcpQDSe6M0TLo5N0l9P1) | 3:17 |
 
-Snapshot ID: `AAAAADQU8swmCuVG2HGcfPo9rEuhlExd`
+Snapshot ID: `AAAAAIS6LJi8ih2i3gcWkoQC6fUiokX3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > aquí está la nueva ola 🌊  EMJAY en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,829 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,828 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 99 | [Sal de mi Cabeza](https://open.spotify.com/track/0jCoDcCVoomnAmwqY5VFzT) | [PPMARI](https://open.spotify.com/artist/6FA353e9NUHzoa0z1r9bbq), [Ritorukai](https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8), [morayta](https://open.spotify.com/artist/02u6AGkKNHT3s5ObHPrMuB) | [Sal de mi Cabeza](https://open.spotify.com/album/6woHAYRBkPrcntqOJC4gax) | 2:44 |
 | 100 | [Dismorfia](https://open.spotify.com/track/6MxToHOYmYuNVMQiUtQxPX) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Dismorfia](https://open.spotify.com/album/4zKIkjiwEzaHZ2ndAHVAC4) | 2:59 |
 
-Snapshot ID: `AAAAABVbYUr3aF52fDcFqWNsGnY2YxwS`
+Snapshot ID: `AAAAALiJ6Ulzt6Jso+Xepps7HZYzJJmQ`

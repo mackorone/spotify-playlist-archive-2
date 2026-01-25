@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Yandel
 
-[Spotify](https://open.spotify.com/user/spotify) - 855,825 likes - 53 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 855,718 likes - 53 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 36 | [Solo Tú](https://open.spotify.com/track/6Y4joG0tgPxEiG6bf62zl6) | [JUANMA](https://open.spotify.com/artist/2KLh47Uxg5FDeDLDJ7Fz5h), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Solo Tú](https://open.spotify.com/album/7KWeAPjoIndMaLIXiMuB6C) | 3:15 |
 | 37 | [Le mete](https://open.spotify.com/track/4gZeICYlGgaRWhS82sS24r) | [Atomic Otro Way](https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ) | [Le mete](https://open.spotify.com/album/6aiLWGYJDujEZFyavyXPkB) | 2:31 |
 | 38 | [El Amor Es Más Grande Que Yo](https://open.spotify.com/track/4WbGZ2LdXJaQRmfEcdcLux) | [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3), [Los de Juancho](https://open.spotify.com/artist/0siN6HqX23qhrmnGZZvJLi) | [El Amor Es Más Grande Que Yo](https://open.spotify.com/album/2Cwqt0EVwlblSBp6PvXLGh) | 5:02 |
-| 39 | [QUÉ MÁS](https://open.spotify.com/track/3yHPO5pOJS1cOcYdPkGV6y) | [Dímelo Hard](https://open.spotify.com/artist/0jyngo1UVKrfGEIxtgbwrh), [ERA](https://open.spotify.com/artist/4D0CepDROoLM09ht1sM5cu) | [QUÉ MÁS](https://open.spotify.com/album/31fVgrqvXATTyKxFZGURkY) | 2:30 |
+| 39 | [QUÉ MÁS](https://open.spotify.com/track/3yHPO5pOJS1cOcYdPkGV6y) | [Dímelo Hard](https://open.spotify.com/artist/0jyngo1UVKrfGEIxtgbwrh), [ERA](https://open.spotify.com/artist/72E1efzGo19ESPHWVBK65t) | [QUÉ MÁS](https://open.spotify.com/album/31fVgrqvXATTyKxFZGURkY) | 2:30 |
 | 40 | [Todos Regresan](https://open.spotify.com/track/2xDgmNTLIQrvaaznJGbUXh) | [Estibaliz Badiola](https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK) | [Todos Regresan](https://open.spotify.com/album/6O7luGWvXSIzvmGcJrkiit) | 2:47 |
 | 41 | [bebe](https://open.spotify.com/track/73YCfe06Hq68MmS5GFIf0m) | [Cobuz & Bustta](https://open.spotify.com/artist/3m7M07iLR1ragTqZ1Wm1NX) | [bebe](https://open.spotify.com/album/5TMjQ1nkCdafJ2KXxSLOKj) | 2:24 |
 | 42 | [Si Estuvieras Aquí](https://open.spotify.com/track/1ZthdulxOUHCiPtPs8UIDB) | [Los Hermanos Medina](https://open.spotify.com/artist/2QUO2NrRwGIaC1MLnzbfIh), [Pipe Calderón](https://open.spotify.com/artist/50TqpjP2iRI4hR1wCfVj3w) | [Si Estuvieras Aquí](https://open.spotify.com/album/5D52xaMHzqCROFT6fHZbiz) | 3:23 |

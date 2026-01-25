@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 22058,
+  "num_followers": 22059,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXFogAAAAAB/RueLwdkQjGt4TZbxe83d",
+  "snapshot_id": "aXK6AAAAAAArqL1rCbhabZ/m8SVggITM",
   "tracks": [
     {
       "added_at": null,
@@ -526,11 +526,15 @@
         {
           "name": "Ali Farka Tour\u00e9",
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Nitin Sawhney",
+          "url": "https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ"
         }
       ],
-      "duration_ms": 384266,
-      "name": "Goye Kur",
-      "url": "https://open.spotify.com/track/5rffixu4E5Ry8vcBZNSV2c"
+      "duration_ms": 313760,
+      "name": "Inchana Massina - feat. Nitin Sawhney",
+      "url": "https://open.spotify.com/track/75M7JOHhgvLzu4TzcP54W9"
     },
     {
       "added_at": null,
@@ -594,15 +598,11 @@
         {
           "name": "Ali Farka Tour\u00e9",
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        },
-        {
-          "name": "Nitin Sawhney",
-          "url": "https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ"
         }
       ],
-      "duration_ms": 313760,
-      "name": "Inchana Massina - feat. Nitin Sawhney",
-      "url": "https://open.spotify.com/track/75M7JOHhgvLzu4TzcP54W9"
+      "duration_ms": 384266,
+      "name": "Goye Kur",
+      "url": "https://open.spotify.com/track/5rffixu4E5Ry8vcBZNSV2c"
     },
     {
       "added_at": null,

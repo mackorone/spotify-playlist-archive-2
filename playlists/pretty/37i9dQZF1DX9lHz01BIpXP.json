@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: Ziggy4x",
-  "num_followers": 3218,
+  "num_followers": 3220,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -919,6 +919,22 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
+        "name": "Nikes & Jordans (Original)",
+        "url": "https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ"
+      },
+      "artists": [
+        {
+          "name": "Bigbforever",
+          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
+        }
+      ],
+      "duration_ms": 194037,
+      "name": "Nikes & Jordans (Original)",
+      "url": "https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
         "name": "Don",
         "url": "https://open.spotify.com/album/1Mc6atryEO6LZZAhVlwgS5"
       },
@@ -939,34 +955,18 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Nikes & Jordans (Original)",
-        "url": "https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ"
+        "name": "Die dog",
+        "url": "https://open.spotify.com/album/6hJ8q2qVzqDwhaj5m5Y5Rv"
       },
       "artists": [
         {
-          "name": "Bigbforever",
-          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
+          "name": "Ama vrant",
+          "url": "https://open.spotify.com/artist/6VMxeGjGUjqqhfIzcvPfSm"
         }
       ],
-      "duration_ms": 194037,
-      "name": "Nikes & Jordans (Original)",
-      "url": "https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/0sFwGNvf4lZIBqWDrcUWlb"
-      },
-      "artists": [
-        {
-          "name": "EAZY CPT",
-          "url": "https://open.spotify.com/artist/6J5gjRHi3E9eLTKtsvT0cm"
-        }
-      ],
-      "duration_ms": 181183,
-      "name": "My Pain",
-      "url": "https://open.spotify.com/track/0hK0kxCb7TJ4ZNMe6x2o4H"
+      "duration_ms": 165172,
+      "name": "Die dog",
+      "url": "https://open.spotify.com/track/3joOWQZLziJIIv1ZnFUncm"
     }
   ],
   "unique_name": "Afrikaanse Hip Hop",

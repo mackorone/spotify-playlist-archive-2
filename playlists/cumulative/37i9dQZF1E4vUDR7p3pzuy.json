@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Rob Harrowven, JUST LIZZY, Splitter Conspiracy and more",
+  "description": "With Rob Harrowven, Splitter Conspiracy, Evil Level Live and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 177230,
       "name": "a short term effect",
       "url": "https://open.spotify.com/track/1BFfuqkmcRqkouAYuXTnNf"
@@ -797,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Endless Sky",
+        "url": "https://open.spotify.com/album/4tyU5fxu2oSevl3XfDhwPN"
+      },
+      "artists": [
+        {
+          "name": "Mild Blue Days",
+          "url": "https://open.spotify.com/artist/5UryruvM4QVI2JoEKj1Ys1"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223855,
+      "name": "Chasing Rainbows",
+      "url": "https://open.spotify.com/track/4GDJIXNXvOycf2iMkyfE9h"
+    },
+    {
+      "album": {
         "name": "Puppets Know",
         "url": "https://open.spotify.com/album/5wmSnx6DHERdTs3YBS1gFy"
       },
@@ -1198,7 +1216,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Discipline",
       "url": "https://open.spotify.com/track/3ZAcW4sUc92H8QnoNs5Ai9"
@@ -1809,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "Got a Letter",
+        "url": "https://open.spotify.com/album/5IWVUlWAawImDdoHIc3Xss"
+      },
+      "artists": [
+        {
+          "name": "Adam Patten",
+          "url": "https://open.spotify.com/artist/0uGYj6q7di6EZ52NBd3SAD"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Got a Letter",
+      "url": "https://open.spotify.com/track/4AeTNIe8ncxsCSOiY94JGn"
+    },
+    {
+      "album": {
         "name": "Grown",
         "url": "https://open.spotify.com/album/0uiwvGwSs9y8QGGzHXh6dU"
       },
@@ -2102,7 +2138,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 203128,
       "name": "How To Be Dead",
       "url": "https://open.spotify.com/track/0YjyTuJy9GtNzDYzthd0Gm"
@@ -2372,7 +2408,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 301639,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/1KMdBomB8g7qQtPu5ZfpAO"
@@ -2896,7 +2932,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 197555,
       "name": "Lost Control",
       "url": "https://open.spotify.com/track/0OW9VBWdWaW5JTxtU1pgC9"
@@ -3322,7 +3358,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 292800,
       "name": "No Music No Hope",
       "url": "https://open.spotify.com/track/3hDiwWQ2dAzYPq9rPRzvxF"
@@ -3434,7 +3470,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 180456,
       "name": "Orange Juice",
       "url": "https://open.spotify.com/track/6lkUfXe7LMYv6HgXCCI77e"
@@ -3524,7 +3560,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 228048,
       "name": "Perfect in Design",
       "url": "https://open.spotify.com/track/1VIzQmcHwk1kmynaNMHA89"
@@ -3600,7 +3636,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 183613,
       "name": "Plowjob",
       "url": "https://open.spotify.com/track/4vOKuH7gOHQqKv6YVhajoP"
@@ -3876,7 +3912,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 256777,
       "name": "Red and Gold",
       "url": "https://open.spotify.com/track/0FDQYEOZpOerg4dFVgjvP9"
@@ -4908,7 +4944,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 278779,
       "name": "THEREISAMOON",
       "url": "https://open.spotify.com/track/3hJssZi5Bx6KWSOHFUwAcF"
@@ -4926,7 +4962,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 193480,
       "name": "Thin Skin",
       "url": "https://open.spotify.com/track/5jWlIjv49XpkmxoOoHVi4A"
@@ -5132,7 +5168,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Tr\u00e4nen Aus Blut",
       "url": "https://open.spotify.com/track/0sXugNYXjDsLXzc5X8bpQi"
@@ -5230,6 +5266,24 @@
       "duration_ms": 345000,
       "name": "Vamp - Freaky Mind Remix",
       "url": "https://open.spotify.com/track/3aaAXgfnrqMDged56UyFGA"
+    },
+    {
+      "album": {
+        "name": "Vanity Fair",
+        "url": "https://open.spotify.com/album/5uWB6c30Yhi9nfgyQ6qFq0"
+      },
+      "artists": [
+        {
+          "name": "Open Secrets",
+          "url": "https://open.spotify.com/artist/5XGl2YH3Gqvs8J4Vb60bJX"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243740,
+      "name": "Vanity Fair",
+      "url": "https://open.spotify.com/track/5Y8akQ5fenTPjYLs0MA04x"
     },
     {
       "album": {
@@ -5389,6 +5443,24 @@
     },
     {
       "album": {
+        "name": "Naked Rat Dance",
+        "url": "https://open.spotify.com/album/4tUzffWuxTYlapD7EgFJhU"
+      },
+      "artists": [
+        {
+          "name": "The Guilt",
+          "url": "https://open.spotify.com/artist/5UlgkihcxCXPOqnkcSpdPH"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Weaponry",
+      "url": "https://open.spotify.com/track/64byd64mWqDoRIjgNFdFXR"
+    },
+    {
+      "album": {
         "name": "WHORE",
         "url": "https://open.spotify.com/album/65rlGSMKmjvWU3Tyl6J5BM"
       },
@@ -5498,7 +5570,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 196171,
       "name": "Whomever You Need",
       "url": "https://open.spotify.com/track/3CSv43GAVspGJ281rrkb0M"

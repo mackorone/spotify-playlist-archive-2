@@ -1,6 +1,6 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 444522,
+  "num_followers": 444587,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
+        "name": "Straight Outta Compton",
+        "url": "https://open.spotify.com/album/0PHwgJuLLRZP99sEvkkQUd"
+      },
+      "artists": [
+        {
+          "name": "N.W.A.",
+          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
+        }
+      ],
+      "duration_ms": 258687,
+      "name": "Straight Outta Compton",
+      "url": "https://open.spotify.com/track/1CNvz3a8C4t9Ex2fedcu4n"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
         "name": "Grandmaster Flash, Grandmaster Melle-Mel & The Furious Five: The Greatest Hits",
         "url": "https://open.spotify.com/album/40o5zHSxes3t5JFLcQwoa9"
       },
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "The Message (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6hrwAx3KoigDlYJx2TCAwC"
-      },
-      "artists": [
-        {
-          "name": "Grandmaster Flash & The Furious Five",
-          "url": "https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop"
-        }
-      ],
-      "duration_ms": 430013,
-      "name": "The Message - Extended Version",
-      "url": "https://open.spotify.com/track/5isA9icHWl2651hvfr1EOV"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
         "name": "Sir Vicious: The Best of Just-Ice",
         "url": "https://open.spotify.com/album/400dfNwNSiUjJoNlxVIEeS"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 303933,
       "name": "Going Way Back",
       "url": "https://open.spotify.com/track/0BXKyFXlqi7s2qC7Jvr1Um"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
+        "name": "The Message (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6hrwAx3KoigDlYJx2TCAwC"
+      },
+      "artists": [
+        {
+          "name": "Grandmaster Flash & The Furious Five",
+          "url": "https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop"
+        }
+      ],
+      "duration_ms": 430013,
+      "name": "The Message - Extended Version",
+      "url": "https://open.spotify.com/track/5isA9icHWl2651hvfr1EOV"
     },
     {
       "added_at": "2024-06-28 10:06:16",
@@ -1131,22 +1147,6 @@
       "duration_ms": 263573,
       "name": "Wild Thing",
       "url": "https://open.spotify.com/track/0vWfG7GSc177F1EitfBYkG"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
-        "name": "Straight Outta Compton",
-        "url": "https://open.spotify.com/album/0PHwgJuLLRZP99sEvkkQUd"
-      },
-      "artists": [
-        {
-          "name": "N.W.A.",
-          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
-        }
-      ],
-      "duration_ms": 258687,
-      "name": "Straight Outta Compton",
-      "url": "https://open.spotify.com/track/1CNvz3a8C4t9Ex2fedcu4n"
     }
   ],
   "unique_name": "I Love My '80s Hip-Hop",

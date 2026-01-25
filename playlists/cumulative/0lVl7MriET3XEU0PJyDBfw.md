@@ -4,7 +4,7 @@
 
 > House Music\. Period.
 
-906 songs - 1 day 23 hr 58 min
+908 songs - 2 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [Hypnotized](https://open.spotify.com/track/5hDt0PaWpcCwgRtxW31I6e) | [Galoski](https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB), [YAKSA](https://open.spotify.com/artist/74UHQxfQtHHY7FgP7qkRzR) | [Hypnotized](https://open.spotify.com/album/0SWT2Yp1noly9h12a3rq1h) | 2:33 | 2024-08-19 | 2024-09-29 |
 | [Hypnotized \(feat\. Ellie Goulding\) \- John Summit Remix](https://open.spotify.com/track/1VAVEYZlzBp7d8UlWJvaDD) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Hypnotized \(John Summit Remix\)](https://open.spotify.com/album/2eZyOgXmahrzJwNeYiilwQ) | 2:50 | 2025-03-16 | 2025-05-19 |
 | [Hypnotized \- Silvertone Remix](https://open.spotify.com/track/6v2aedoEtDNtNJAtzBLkst) | [Avenue](https://open.spotify.com/artist/593tl1pc0kps0wJkyn08O3), [NITESHADE](https://open.spotify.com/artist/2h7uU1pt1WBAywsJevzjDa), [Silvertone \(US\)](https://open.spotify.com/artist/2bWv7KRP44Qlh9kBEGyKYI) | [Hypnotized \(Silvertone Remix\)](https://open.spotify.com/album/54055l0tqp7mOFMxE7Efcb) | 2:30 | 2024-10-28 | 2025-01-13 |
+| [I Don't Need Nobody](https://open.spotify.com/track/2BjzxYjpBoqTHhaHzw3UpF) | [Mauro Venti](https://open.spotify.com/artist/1EYRcS75munXqQbWsZ0HVd) | [Vision](https://open.spotify.com/album/2BljeTjli1GnHXkJthTPee) | 2:45 | 2026-01-24 |  |
 | [I Don't Remember](https://open.spotify.com/track/0hi0udQ5ZXTKRcZ9t0e4TF) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [I Don't Remember](https://open.spotify.com/album/0J7RfuS72drryFxcc3SvD8) | 3:15 | 2024-01-29 | 2024-06-24 |
 | [I Found God](https://open.spotify.com/track/3yVTZCRo3TK5j5Sio35b7o) | [Spencer Arnold](https://open.spotify.com/artist/0021eUtLLUzezMdRezE4gB), [EMSKI](https://open.spotify.com/artist/3UqDUfl2fG8ygrFRlgHVZK) | [I Found God](https://open.spotify.com/album/7rwwFOyFaq4dFji6Og3fxn) | 3:26 | 2025-01-26 | 2025-04-06 |
 | [I Got Feelings](https://open.spotify.com/track/3f5LJiAEHHZtW8bzF4qpNr) | [Twin Diplomacy](https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq) | [I Got Feelings](https://open.spotify.com/album/5VA1Nehnfdr4ao3Tr2XCrK) | 2:33 | 2025-07-27 | 2025-10-07 |
@@ -655,6 +656,7 @@
 | [Rebaixado](https://open.spotify.com/track/5Vgjfoe3uNcWuW91AOl8xO) | [Mike Epsse](https://open.spotify.com/artist/7sLCily4K5uTgTA8iOTHPd) | [Rebaixado](https://open.spotify.com/album/4v0PuFcjpicEewZUJwWGaJ) | 3:14 | 2025-11-08 |  |
 | [Receipts \(feat\. Gunna\)](https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Receipts \(feat\. Gunna\)](https://open.spotify.com/album/44hwz3eFAgDFt5NzOtBaqd) | 3:54 | 2024-08-25 | 2024-10-14 |
 | [Reload](https://open.spotify.com/track/0B6twHJlRxSM9Q68NpGCKg) | [1997](https://open.spotify.com/artist/6MSe5IjGtnDLfKyAuofPo2), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [Reload](https://open.spotify.com/album/5PbhhWEN3BsplhcFBTDIAH) | 3:52 | 2023-12-31 | 2024-01-09 |
+| [Repent](https://open.spotify.com/track/6kSzovQcMFwA78j7iag0Rt) | [Thomas Anthony](https://open.spotify.com/artist/2Kipffvr3gbA2BpMFe0RsI), [Avi Sic](https://open.spotify.com/artist/2zkKco91JEZWEnIYrWHZNe) | [Repent](https://open.spotify.com/album/5Cyutd3i612HRgojodezDn) | 3:59 | 2026-01-24 |  |
 | [Reposado](https://open.spotify.com/track/2r3odpOpap9UydV0pmvLi3) | [OKAYVAL](https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ) | [Reposado](https://open.spotify.com/album/1LzroJg1OlUwdzlmFmNFXS) | 3:02 | 2025-07-18 | 2025-10-05 |
 | [RFM](https://open.spotify.com/track/2Vde6V7qHe3SocuyQu3Nvt) | [TDave](https://open.spotify.com/artist/3L1sunhKFWixf990PoD8un) | [RFM](https://open.spotify.com/album/7DUm1G5VJqPxJaLzTCpqsm) | 2:37 | 2024-01-15 | 2024-01-30 |
 | [Rhythm Machine](https://open.spotify.com/track/7qhYyXBbL12mPyj93PyUBb) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Rhythm Machine](https://open.spotify.com/album/0K0ttvuvuaeNPKF9bQ8GmV) | 3:07 | 2024-01-21 | 2024-02-06 |

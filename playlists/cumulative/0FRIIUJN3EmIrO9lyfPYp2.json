@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "1",
+        "url": "https://open.spotify.com/album/19USokxs9VSo2dPuUfGab7"
+      },
+      "artists": [
+        {
+          "name": "d2s1",
+          "url": "https://open.spotify.com/artist/0l6f9cXGE0K2QbcK1ZBgCY"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62500,
+      "name": "1",
+      "url": "https://open.spotify.com/track/4HJ2Twd9r4ArZH4ZBUi6M5"
+    },
+    {
+      "album": {
         "name": "10-24-analogue-loop.wav",
         "url": "https://open.spotify.com/album/0sbyHkmW5wasWukZ7P3r6m"
       },
@@ -1543,6 +1561,28 @@
     },
     {
       "album": {
+        "name": "believe",
+        "url": "https://open.spotify.com/album/4wMxTunIPnwNCjXQceBrgE"
+      },
+      "artists": [
+        {
+          "name": "athan",
+          "url": "https://open.spotify.com/artist/6s1gzGO7T3KUQlQcDl74e5"
+        },
+        {
+          "name": "insensible",
+          "url": "https://open.spotify.com/artist/1LBYQTeBctR6bK847DqAVU"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161798,
+      "name": "believe",
+      "url": "https://open.spotify.com/track/11ejdHGKb7sl6I3EoEjJWJ"
+    },
+    {
+      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/6lBHEqeOJiUWaI1b86m20h"
       },
@@ -2130,6 +2170,28 @@
       "duration_ms": 148366,
       "name": "by the sea",
       "url": "https://open.spotify.com/track/1MTbfnevJJWUNmly68uxmh"
+    },
+    {
+      "album": {
+        "name": "by your side",
+        "url": "https://open.spotify.com/album/1iqA915LJWTusMCQK8r8Zg"
+      },
+      "artists": [
+        {
+          "name": "SanelliX",
+          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
+        },
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103384,
+      "name": "by your side",
+      "url": "https://open.spotify.com/track/0dsi92ZkHhd0zRwhtgxvM3"
     },
     {
       "album": {
@@ -6381,6 +6443,28 @@
     },
     {
       "album": {
+        "name": "i should've been there",
+        "url": "https://open.spotify.com/album/138lGAvg6O6aI29u3Lri4q"
+      },
+      "artists": [
+        {
+          "name": "am i enough?",
+          "url": "https://open.spotify.com/artist/3M0I86wB1L5uM8YW2T6gHz"
+        },
+        {
+          "name": "nohssiwi",
+          "url": "https://open.spotify.com/artist/4CVCzMtPgCV07un7s3Ehbt"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125714,
+      "name": "i should've been there",
+      "url": "https://open.spotify.com/track/6NSR8XrvQiU8QGFNr9kmuE"
+    },
+    {
+      "album": {
         "name": "i sleep so that we can meet",
         "url": "https://open.spotify.com/album/7rwRNwmMD7lUUHht2L0Vbk"
       },
@@ -7350,7 +7434,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-25",
       "duration_ms": 165334,
       "name": "last time",
       "url": "https://open.spotify.com/track/4055OgA7NHdgGN1dOx8oEk"
@@ -9005,6 +9089,60 @@
     },
     {
       "album": {
+        "name": "nostalgia \u201995 (remixes)",
+        "url": "https://open.spotify.com/album/6IeenX2vnFMLGZgJJfwfww"
+      },
+      "artists": [
+        {
+          "name": "Unnholy",
+          "url": "https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101147,
+      "name": "nostalgia \u201895",
+      "url": "https://open.spotify.com/track/0SM78rWh06BzemTeJ0kJII"
+    },
+    {
+      "album": {
+        "name": "nostalgia \u201995 (remixes)",
+        "url": "https://open.spotify.com/album/6IeenX2vnFMLGZgJJfwfww"
+      },
+      "artists": [
+        {
+          "name": "Unnholy",
+          "url": "https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118423,
+      "name": "nostalgia \u201895 (slowed)",
+      "url": "https://open.spotify.com/track/03d6dlS5rFzgIiEA3Yi7Ms"
+    },
+    {
+      "album": {
+        "name": "nostalgia \u201995 (remixes)",
+        "url": "https://open.spotify.com/album/6IeenX2vnFMLGZgJJfwfww"
+      },
+      "artists": [
+        {
+          "name": "Unnholy",
+          "url": "https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90111,
+      "name": "nostalgia \u201895 (sped up)",
+      "url": "https://open.spotify.com/track/5fiFprVo6B8LSLYRCutTb3"
+    },
+    {
+      "album": {
         "name": "Nostalsick",
         "url": "https://open.spotify.com/album/1rJZGwByOEFqnGadox01GE"
       },
@@ -9472,6 +9610,24 @@
       "duration_ms": 118626,
       "name": "patterns",
       "url": "https://open.spotify.com/track/2eSYXYr7KHuD8apXHUw2Ja"
+    },
+    {
+      "album": {
+        "name": "peace",
+        "url": "https://open.spotify.com/album/3DfJMMS4X7z9QQp3z3YLbG"
+      },
+      "artists": [
+        {
+          "name": "alixe.",
+          "url": "https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "peace",
+      "url": "https://open.spotify.com/track/0T8DeyIpDSVQbFdnWldlfr"
     },
     {
       "album": {
@@ -10688,6 +10844,28 @@
       "duration_ms": 156079,
       "name": "serenity",
       "url": "https://open.spotify.com/track/7CuC9rBwlGatYhO5wZTX9y"
+    },
+    {
+      "album": {
+        "name": "severance",
+        "url": "https://open.spotify.com/album/11drOFL7ASYRVFPcSGsYGP"
+      },
+      "artists": [
+        {
+          "name": "Bluegaze",
+          "url": "https://open.spotify.com/artist/01pwFek4TL5JjzczP9lriM"
+        },
+        {
+          "name": "mbynt",
+          "url": "https://open.spotify.com/artist/2mTgGSvHiCy6WNAIBQNOZo"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107208,
+      "name": "severance",
+      "url": "https://open.spotify.com/track/5W2t0zY2QacBuyHDAr5sCa"
     },
     {
       "album": {
@@ -12554,6 +12732,24 @@
       "duration_ms": 132000,
       "name": "under the rising sun",
       "url": "https://open.spotify.com/track/0PTKv7osuG3wjl5Nuw1ZLC"
+    },
+    {
+      "album": {
+        "name": "unforseen",
+        "url": "https://open.spotify.com/album/3ftN9NMBP0WB80Uou8yPCS"
+      },
+      "artists": [
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142288,
+      "name": "unforseen",
+      "url": "https://open.spotify.com/track/6hTWYVcjMxsvmp1jjCwNgl"
     },
     {
       "album": {

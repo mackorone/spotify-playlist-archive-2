@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Big Ole Fancy House",
+        "url": "https://open.spotify.com/album/0T1po3gtIUONgzpdM2BRYG"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243506,
+      "name": "Big Ole Fancy House",
+      "url": "https://open.spotify.com/track/2O6518EoFdYebARB4PCEjH"
+    },
+    {
+      "album": {
         "name": "Big Sky",
         "url": "https://open.spotify.com/album/4sbFij3rJCbuzDUbGiOlae"
       },

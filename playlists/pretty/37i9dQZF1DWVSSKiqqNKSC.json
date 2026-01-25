@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 525584,
+  "num_followers": 525615,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "\u00bfDe Qu\u00e9 Estamos Hablando?",
+        "url": "https://open.spotify.com/album/1rxujYMjuCYbaiU3AWFNQy"
+      },
+      "artists": [
+        {
+          "name": "Elito Rev\u00e9 y su Charang\u00f3n",
+          "url": "https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z"
+        }
+      ],
+      "duration_ms": 323453,
+      "name": "Agua Pa'yemay\u00e1",
+      "url": "https://open.spotify.com/track/5IAyGQsiGj4AkCIjetvVsu"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Me Dicen Cuba / Rosa la Peligrosa",
         "url": "https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 358480,
       "name": "Rosa la Peligrosa",
       "url": "https://open.spotify.com/track/0hpDDynkRmnH6BeW2IuLCE"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "\u00bfDe Qu\u00e9 Estamos Hablando?",
-        "url": "https://open.spotify.com/album/1rxujYMjuCYbaiU3AWFNQy"
-      },
-      "artists": [
-        {
-          "name": "Elito Rev\u00e9 y su Charang\u00f3n",
-          "url": "https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z"
-        }
-      ],
-      "duration_ms": 323453,
-      "name": "Agua Pa'yemay\u00e1",
-      "url": "https://open.spotify.com/track/5IAyGQsiGj4AkCIjetvVsu"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Recoge y Vete",
-        "url": "https://open.spotify.com/album/5mLkOShl9aG9Ikyj38AQVU"
-      },
-      "artists": [
-        {
-          "name": "Maykel Blanco Y Su Salsa Mayor",
-          "url": "https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp"
-        }
-      ],
-      "duration_ms": 351506,
-      "name": "Esto Est\u00e1",
-      "url": "https://open.spotify.com/track/6aOj5462zikA3VwXxv2fQb"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "La Salsa Tiene mi Son",
         "url": "https://open.spotify.com/album/1cyF9OgODjh488BmdN1xmH"
       },
@@ -655,22 +639,18 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Pasaporte",
-        "url": "https://open.spotify.com/album/55bxux5NGwsurOUlXfT2cv"
+        "name": "Recoge y Vete",
+        "url": "https://open.spotify.com/album/5mLkOShl9aG9Ikyj38AQVU"
       },
       "artists": [
         {
-          "name": "Alexander Abreu",
-          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        },
-        {
-          "name": "Havana D\u2019Primera",
-          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
+          "name": "Maykel Blanco Y Su Salsa Mayor",
+          "url": "https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp"
         }
       ],
-      "duration_ms": 300451,
-      "name": "Pasaporte",
-      "url": "https://open.spotify.com/track/14JmB4k9tBUcS5MYbi8y1M"
+      "duration_ms": 351506,
+      "name": "Esto Est\u00e1",
+      "url": "https://open.spotify.com/track/6aOj5462zikA3VwXxv2fQb"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -707,18 +687,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Que Tiene Que Te Mueve",
-        "url": "https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P"
+        "name": "Pasaporte",
+        "url": "https://open.spotify.com/album/55bxux5NGwsurOUlXfT2cv"
       },
       "artists": [
         {
-          "name": "Maykel Blanco Y Su Salsa Mayor",
-          "url": "https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp"
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        },
+        {
+          "name": "Havana D\u2019Primera",
+          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
         }
       ],
-      "duration_ms": 332706,
-      "name": "Que Tiene Que Te Mueve",
-      "url": "https://open.spotify.com/track/5DYdF6YsSaXFdnrLe4XSUS"
+      "duration_ms": 300451,
+      "name": "Pasaporte",
+      "url": "https://open.spotify.com/track/14JmB4k9tBUcS5MYbi8y1M"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -739,18 +723,18 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Prohibido",
-        "url": "https://open.spotify.com/album/2Uq6ubk7GvBestQXFmCPgM"
+        "name": "Que Tiene Que Te Mueve",
+        "url": "https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P"
       },
       "artists": [
         {
-          "name": "Alexander Abreu",
-          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+          "name": "Maykel Blanco Y Su Salsa Mayor",
+          "url": "https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp"
         }
       ],
-      "duration_ms": 265639,
-      "name": "Prohibido",
-      "url": "https://open.spotify.com/track/6M645F7LHVaWGSrEbbt0wK"
+      "duration_ms": 332706,
+      "name": "Que Tiene Que Te Mueve",
+      "url": "https://open.spotify.com/track/5DYdF6YsSaXFdnrLe4XSUS"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -787,6 +771,22 @@
       "duration_ms": 330666,
       "name": "Havana City",
       "url": "https://open.spotify.com/track/6yYNnSuF2xbCpWq7yPq8KF"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Prohibido",
+        "url": "https://open.spotify.com/album/2Uq6ubk7GvBestQXFmCPgM"
+      },
+      "artists": [
+        {
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        }
+      ],
+      "duration_ms": 265639,
+      "name": "Prohibido",
+      "url": "https://open.spotify.com/track/6M645F7LHVaWGSrEbbt0wK"
     },
     {
       "added_at": "2025-03-07 06:00:25",

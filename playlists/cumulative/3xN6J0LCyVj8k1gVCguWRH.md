@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-5,653 songs - 13 day 4 hr 3 min
+5,655 songs - 13 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1160,6 +1160,7 @@
 | [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 | 2025-05-21 | 2025-12-19 |
 | [Darkest Part](https://open.spotify.com/track/31rfoBYP5pek7hY6dOYlBg) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Darkest Part](https://open.spotify.com/album/6LMTYy4jXacgnAEuqospfh) | 3:15 | 2024-04-26 | 2024-05-09 |
 | [Darling](https://open.spotify.com/track/1qap3tXCmqgx979Osjy7ln) | [Intergalactic C](https://open.spotify.com/artist/2qqvQRHFMPXZas3dFoMOm1) | [Sweet Girls Singin](https://open.spotify.com/album/5UOsQBRzxjLpVLeodYhtT2) | 3:57 | 2021-12-10 | 2021-12-27 |
+| [Darling](https://open.spotify.com/track/1nf18Zh3meLSUjRQH4Zc6L) | [Lynndigo](https://open.spotify.com/artist/1AFlJFCgGkFiqjZBtRuZvY) | [Darling](https://open.spotify.com/album/4QAsc3z8SPZAPUjrYRLHeD) | 2:48 | 2026-01-24 |  |
 | [Darte Saoco](https://open.spotify.com/track/046Fp2row608s8J408CLA8) | [JEii Dalereplay](https://open.spotify.com/artist/15lcATkJiQ7RK1y3fcwKn9) | [Darte Saoco](https://open.spotify.com/album/5R8fa5tt6TzGbngm4vmCR4) | 3:34 | 2023-03-03 | 2023-03-29 |
 | [Das Risiko](https://open.spotify.com/track/64ul0VBFy9Kxjsarl31euG) | [Family Time](https://open.spotify.com/artist/352Sj3QLwdoQXj3eLhwMHZ) | [Das Risiko](https://open.spotify.com/album/4lw5LjxSCuh61WM9xX5Btr) | 3:13 | 2022-05-27 | 2022-06-12 |
 | [Dash Me](https://open.spotify.com/track/5oMD4uaWVxvqcJDj3db7dl) | [Sheni](https://open.spotify.com/artist/6gkfOKtjKkKeztY4Pv0VNu) | [Twenty8](https://open.spotify.com/album/67torLULPsK0ewhHstEq2F) | 2:50 | 2024-06-12 | 2024-06-24 |
@@ -3484,6 +3485,7 @@
 | [Nothing But A Smile](https://open.spotify.com/track/0PMMB4J1eYN8x2grckDi44) | [Rubberband Girl](https://open.spotify.com/artist/6qOThA4u1cN1OIn0sxHabV), [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU) | [Nothing But A Smile](https://open.spotify.com/album/3cM1qKjxgP3Vu4n5HrnM1J) | 3:55 | 2024-07-23 | 2024-08-04 |
 | [Nothing But Us](https://open.spotify.com/track/3MGZqpmoMwFnaysQylGDM7) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Nothing But Us](https://open.spotify.com/album/64TUFeo3MNaE2sBaCRb0jG) | 2:17 | 2024-11-22 | 2024-12-12 |
 | [Nothing Else Mattered](https://open.spotify.com/track/0qN1Yxku0zHwfJU7kASYLj) | [Calista Del Toro](https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc) | [Nothing Else Mattered](https://open.spotify.com/album/1DW2BKBJEVD8zWMabr1Y2G) | 3:23 | 2021-12-18 | 2022-01-19 |
+| [Nothing Is Impossible With You](https://open.spotify.com/track/1jP8sjGxTpkQz13WzS1fpw) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Nothing Is Impossible With You](https://open.spotify.com/album/5RJnjSC3fLOiC3NpZ7z5vW) | 4:14 | 2026-01-24 |  |
 | [Nothing New \(feat\. the Fame Riot\)](https://open.spotify.com/track/7yBlRDQym5EHJ64dgvynb5) | [Back Talk](https://open.spotify.com/artist/7rTfJoe4FkV7lkbS83vNdF), [Dance Yourself Clean](https://open.spotify.com/artist/6Cj1snEd81rwhRQgFormQc), [The Fame Riot](https://open.spotify.com/artist/1BuJYwafbXyUE1sj1WY50f) | [Nothing New \(feat\. the Fame Riot\)](https://open.spotify.com/album/0aevdFoYYULtVZuxRTnKPD) | 3:32 | 2019-12-16 | 2019-12-27 |
 | [Nothing To Do \(Deja Vu\)](https://open.spotify.com/track/1TADQ4m8zCn89xlaWMl4Ij) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Nothing To Do \(Deja Vu\)](https://open.spotify.com/album/3gqR0CgKXq5Tu5W6vYbdU9) | 3:25 | 2022-06-29 | 2022-07-16 |
 | [Nothing Was Easy](https://open.spotify.com/track/60Reo9vYJN13KWlpjIgz6C) | [LEF.](https://open.spotify.com/artist/67LSzTtpsWFKuHP656FsCV) | [Mirrors Gaze](https://open.spotify.com/album/4jQ3qjK8QbfH1svryQ9Wmi) | 3:35 | 2024-10-04 | 2024-10-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Kalsey Kulyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,585 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,601 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 5 | [enabling](https://open.spotify.com/track/0qYEfg6RftcrQoSVQn4fKw) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [enabling](https://open.spotify.com/album/2wUsvgaVMbVWJulBNAROWC) | 3:18 |
 | 6 | [Always Be The One](https://open.spotify.com/track/6e9QzC16F6Lq2dXtpbf5ml) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Always Be The One](https://open.spotify.com/album/4lr4Mosc7nogwInirByGPG) | 3:06 |
 | 7 | [Born Again](https://open.spotify.com/track/5hEsOCXxKpxn5n96Hzs4oV) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Born Again](https://open.spotify.com/album/4m8X1dy1NKN2R46GUBFpBh) | 3:31 |
-| 8 | [Quittin' you](https://open.spotify.com/track/4EkMstq9AYcjX6GCScaSBB) | [Flaysher](https://open.spotify.com/artist/5k9kGNpX4gbXMBZmlwd1ST) | [Quittin' you](https://open.spotify.com/album/1j7XDKAWGtUlToULDkcFbL) | 3:27 |
+| 8 | [Quittin' You](https://open.spotify.com/track/4EkMstq9AYcjX6GCScaSBB) | [Flaysher](https://open.spotify.com/artist/5k9kGNpX4gbXMBZmlwd1ST) | [Quittin' You](https://open.spotify.com/album/1j7XDKAWGtUlToULDkcFbL) | 3:27 |
 | 9 | [Safe Place To Break](https://open.spotify.com/track/2JiAYxUToEPSOLMe1qm5BA) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Golden Child \(The Final Chapter\)](https://open.spotify.com/album/0HqvCRbmTmx7liSWmFhI6m) | 3:52 |
 | 10 | [I Don't Shine](https://open.spotify.com/track/2fGiIwttSIJ9KFee1r3Fw2) | [Antonio Larosa](https://open.spotify.com/artist/6Dq03yxvWqvZPoZR7OWbZX) | [I Don't Shine](https://open.spotify.com/album/7xBSkVO3JfVGDatf8oimDy) | 3:08 |
 | 11 | [Half Hearted](https://open.spotify.com/track/7sZkWXjTJYjzeZj9DVLmOV) | [Angelica Appelman](https://open.spotify.com/artist/5MP0qg1tME82lHjl75bmfM) | [Half Hearted](https://open.spotify.com/album/5xiYfE43Czli5iC0QVF6eU) | 3:01 |

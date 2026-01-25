@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 752658,
+  "num_followers": 752977,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -435,26 +435,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Seven Cities",
-        "url": "https://open.spotify.com/album/4GpHU6W6cPUa8tIk8EwBbY"
-      },
-      "artists": [
-        {
-          "name": "Solarstone",
-          "url": "https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90"
-        },
-        {
-          "name": "Andy Bury",
-          "url": "https://open.spotify.com/artist/7eJRumzcr8tEQBi3JqyWjU"
-        }
-      ],
-      "duration_ms": 211333,
-      "name": "Seven Cities - Solarstone's Atlantis Mix",
-      "url": "https://open.spotify.com/track/1Tz10EYl3RFRItgJU8bJWu"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "I Believe / Follow Me",
         "url": "https://open.spotify.com/album/41iR854h1WcUuLHSHh6BAv"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 392560,
       "name": "Follow Me - Lange's Club Mix",
       "url": "https://open.spotify.com/track/7bbY135gafWRikvA2f9jjA"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Seven Cities",
+        "url": "https://open.spotify.com/album/4GpHU6W6cPUa8tIk8EwBbY"
+      },
+      "artists": [
+        {
+          "name": "Solarstone",
+          "url": "https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90"
+        },
+        {
+          "name": "Andy Bury",
+          "url": "https://open.spotify.com/artist/7eJRumzcr8tEQBi3JqyWjU"
+        }
+      ],
+      "duration_ms": 211333,
+      "name": "Seven Cities - Solarstone's Atlantis Mix",
+      "url": "https://open.spotify.com/track/1Tz10EYl3RFRItgJU8bJWu"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -843,26 +843,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Brave New World (The Opera Song)",
-        "url": "https://open.spotify.com/album/2SMRBYdW58eRRemc4oCZdX"
-      },
-      "artists": [
-        {
-          "name": "Jurgen Vries",
-          "url": "https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg"
-        },
-        {
-          "name": "CMC",
-          "url": "https://open.spotify.com/artist/6AqyB5I1Cm0tWZkDFrZZFm"
-        }
-      ],
-      "duration_ms": 212658,
-      "name": "The Opera Song (Brave New World)",
-      "url": "https://open.spotify.com/track/5bdmsMmb8uYt7TKrfNYEdy"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "The Club Mix Collection",
         "url": "https://open.spotify.com/album/0RkRavz2FtCFuFe3U9iEZE"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 188099,
       "name": "Sun & Moon - Above & Beyond Club Mix",
       "url": "https://open.spotify.com/track/5uwnXVq6NrQDvIlVZznVaC"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Brave New World (The Opera Song)",
+        "url": "https://open.spotify.com/album/2SMRBYdW58eRRemc4oCZdX"
+      },
+      "artists": [
+        {
+          "name": "Jurgen Vries",
+          "url": "https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg"
+        },
+        {
+          "name": "CMC",
+          "url": "https://open.spotify.com/artist/6AqyB5I1Cm0tWZkDFrZZFm"
+        }
+      ],
+      "duration_ms": 212658,
+      "name": "The Opera Song (Brave New World)",
+      "url": "https://open.spotify.com/track/5bdmsMmb8uYt7TKrfNYEdy"
     },
     {
       "added_at": "2024-07-23 09:55:55",

@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 299065,
+  "num_followers": 299050,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-01-22 23:00:33",
       "album": {
+        "name": "Jupiter and Mars",
+        "url": "https://open.spotify.com/album/3tjShrUyBljsaAdh7Wfhtz"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "duration_ms": 193604,
+      "name": "Jupiter and Mars",
+      "url": "https://open.spotify.com/track/16t5EAiyN5QoxAi17KIR88"
+    },
+    {
+      "added_at": "2026-01-22 23:00:33",
+      "album": {
         "name": "Kick Out of You",
         "url": "https://open.spotify.com/album/0jEYKbsEzz4s3xK65hBhq5"
       },
@@ -839,30 +855,6 @@
       "duration_ms": 199520,
       "name": "Kick Out of You",
       "url": "https://open.spotify.com/track/6xynry0TYIlyClA93a1rJt"
-    },
-    {
-      "added_at": "2026-01-22 23:00:33",
-      "album": {
-        "name": "All There Is To Know",
-        "url": "https://open.spotify.com/album/17bsFu3ODuF2kS5ux4ybYC"
-      },
-      "artists": [
-        {
-          "name": "Tonique & Man",
-          "url": "https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq"
-        },
-        {
-          "name": "Jean Tonique",
-          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
-        },
-        {
-          "name": "Mi Man",
-          "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "All There Is To Know",
-      "url": "https://open.spotify.com/track/7q0NUpOU9j2DZFyHxTEaN4"
     }
   ],
   "unique_name": "Feel Good",

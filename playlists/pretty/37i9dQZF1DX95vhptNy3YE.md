@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Grupo Benzadeus, J.Eskine e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,189 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,151 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 46 | [Maldito Papel](https://open.spotify.com/track/7wTdWHYMM8YLLTCEWTtpyR) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [Dj KLJay](https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV) | [A Cara do Enquadro](https://open.spotify.com/album/37Ofg8E2cjJL5B4yrrmRjn) | 2:57 |
 | 47 | [No Meu Club](https://open.spotify.com/track/7K9SL09rkjRVbORQULf2Qq) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [SIX.](https://open.spotify.com/album/0ulBRtM6uEMBKFbq1NI9mr) | 1:57 |
 | 48 | [Banjo E Boné \- Ao Vivo](https://open.spotify.com/track/3n9qVrN5kbErDCj51tJvEE) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Banjo E Boné \(Ao Vivo\)](https://open.spotify.com/album/02yzZwEiWu5iGYoLDFyFVd) | 3:49 |
-| 49 | [Desabafo 2](https://open.spotify.com/track/4fcl3bHKtrVcrygIZk8Zfw) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [Desabafo 2](https://open.spotify.com/album/0lcel8WZounsmaTOL2Awg9) | 2:30 |
-| 50 | [Modo Ioiô \- Ao Vivo](https://open.spotify.com/track/0M5ovYsmdVt69UdXMxv8gF) | [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy), [Olodum](https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw) | [Modo Ioiô \(Ao Vivo\)](https://open.spotify.com/album/2lXLc2tCia4GlTs0J92j0z) | 2:41 |
+| 49 | [Doce, Dengosa, Polida](https://open.spotify.com/track/00pQrAbEfRDCFbkCe9NsGM) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Tudo Que Eu Sinto Faz Barulho](https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5) | 3:25 |
+| 50 | [Desabafo 2](https://open.spotify.com/track/4fcl3bHKtrVcrygIZk8Zfw) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [Desabafo 2](https://open.spotify.com/album/0lcel8WZounsmaTOL2Awg9) | 2:30 |
 
 Snapshot ID: `AAAAAM7tOoXnxhkfshk5ai+NBMwUCTCC`

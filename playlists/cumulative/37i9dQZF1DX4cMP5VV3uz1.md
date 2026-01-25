@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-582 songs - 1 day 9 hr 32 min
+583 songs - 1 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,7 +404,7 @@
 | [Pressure](https://open.spotify.com/track/3R4WdX1bQ5S8QPZankvZxa) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j), [Ekko & Sidetrack](https://open.spotify.com/artist/7IVvHpo698q6w0VadlUxCL) | [Pressure](https://open.spotify.com/album/0UzMLcEabs37Ba6XC5X8Ij) | 3:46 | 2025-01-17 | 2025-08-23 |
 | [Pulverturm \- DJ Tomcraft Remix](https://open.spotify.com/track/3AiWNYHODUJJzx0UVPANBr) | [Niels Van Gogh](https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl), [Tomcraft](https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp) | [Pulverturm](https://open.spotify.com/album/4M5IhzDex16tGtC9u5EZ9g) | 9:14 | 2023-12-27 | 2024-01-12 |
 | [PURPOSE](https://open.spotify.com/track/35mele207P8xoKXOsTh52L) | [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [PURPOSE](https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU) | 2:47 | 2025-05-22 | 2026-01-23 |
-| [Push It Up Selecta](https://open.spotify.com/track/00TyTDR9NDG04clCgYIPk5) | [Drumsound & Bassline Smith](https://open.spotify.com/artist/1f6TTocyaqNFvwD4xsrDTh) | [Push It Up Selecta](https://open.spotify.com/album/59wNH1Hu4OpQZKDSJZmwI3) | 3:24 | 2025-11-14 |  |
+| [Push It Up Selecta](https://open.spotify.com/track/00TyTDR9NDG04clCgYIPk5) | [Drumsound & Bassline Smith](https://open.spotify.com/artist/1f6TTocyaqNFvwD4xsrDTh) | [Push It Up Selecta](https://open.spotify.com/album/59wNH1Hu4OpQZKDSJZmwI3) | 3:24 | 2025-11-14 | 2026-01-25 |
 | [Races \(feat\. Blanco\)](https://open.spotify.com/track/346F7P0kUbfsnVDjoNuBIo) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Races \(feat\. Blanco\)](https://open.spotify.com/album/54hfDrQUz2ALn962NVjkdj) | 2:20 | 2024-03-29 | 2024-10-04 |
 | [Radio \- Remix](https://open.spotify.com/track/68kvypOTqfhvq4Se0HUIjN) | [James Hiraeth](https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2), [BSEARL](https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi) | [Radio Remix](https://open.spotify.com/album/5t0y40M7XhW0V5PgYsKpXP) | 3:14 | 2024-03-22 | 2024-09-20 |
 | [Rage](https://open.spotify.com/track/4pDMigVe00CtmHeqSD0Yvy) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Rage](https://open.spotify.com/album/3Fm13iU479MJh6ePRdYU35) | 2:38 | 2024-02-23 | 2024-03-02 |
@@ -519,6 +519,7 @@
 | [Talk To Me](https://open.spotify.com/track/7rPaFoaK4CjcFujFhIWMcO) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Talk To Me](https://open.spotify.com/album/2GcGH4Ad6HLvI8Vr1Pu54K) | 4:26 | 2022-09-30 | 2024-02-23 |
 | [TANK IT](https://open.spotify.com/track/4ubO4kObhIGP6kHN1QPE3r) | [Sentimento](https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa) | [TANK IT](https://open.spotify.com/album/081KqR46idkIxhnf5TgQLD) | 2:37 | 2025-06-12 | 2026-01-23 |
 | [Tazer](https://open.spotify.com/track/4NoAfAf5k9AmQ64jSCRTlB) | [Ed Solo](https://open.spotify.com/artist/7jnJgk7LLLdpPhXrOOZXCa), [Tanz](https://open.spotify.com/artist/4deMqiVXeSVYpVnf9RtEgj) | [Tazer](https://open.spotify.com/album/5umGTAwdM64WcOkF2rLsmP) | 2:26 | 2024-09-19 | 2024-10-19 |
+| [Techno](https://open.spotify.com/track/1hqcJqPsCqWFxYmwTS6ldS) | [Document One](https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu) | [Machine Learning](https://open.spotify.com/album/0vzOqWspRmC3J9ofLmvVh1) | 4:35 | 2026-01-23 |  |
 | [TEK \(feat.Killa P\)](https://open.spotify.com/track/3erxcHJ61TSb6eewzR1pAU) | [Nasser UK](https://open.spotify.com/artist/0OKtqx9di2GqRpRqA3eFpD), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ), [Addicted](https://open.spotify.com/artist/29Z2ip6vZO0MhEynUazeWy) | [TEK](https://open.spotify.com/album/474HNg0vy4i1r6ZRTkyaIo) | 3:02 | 2025-10-02 |  |
 | [Tekkers Riddim \(feat\. Harry Shotta & Mr Traumatik\)](https://open.spotify.com/track/0qmQbxSIt10XDEw90Bqvhx) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545), [Harry Shotta](https://open.spotify.com/artist/1KDOjuXZPd8XA3YBakakMb), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z) | [Tekkers Riddim](https://open.spotify.com/album/3BtA05Srx1Fz46MVvcHI1X) | 4:00 | 2022-09-30 | 2023-01-24 |
 | [Tell Me](https://open.spotify.com/track/5hPEbc55N3nDpE9GV5EIjW) | [Burt Cope](https://open.spotify.com/artist/4zA0baLXvrcMcAVsUlOKcs) | [Giddy Up](https://open.spotify.com/album/5pnyf8ifiPzv3i8Bf6uV3M) | 3:32 | 2025-07-03 | 2025-10-03 |

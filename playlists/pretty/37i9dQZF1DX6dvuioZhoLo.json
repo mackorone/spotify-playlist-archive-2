@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Orville Peck",
-  "num_followers": 313171,
+  "num_followers": 313159,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2025-09-26 04:00:20",
       "album": {
-        "name": "Playing Old Games",
-        "url": "https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP"
-      },
-      "artists": [
-        {
-          "name": "Erin Rae",
-          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
-        },
-        {
-          "name": "Pete Lindberg",
-          "url": "https://open.spotify.com/artist/5q3AaH8E8mWMOJZ5Neirm6"
-        }
-      ],
-      "duration_ms": 209880,
-      "name": "Playing Old Games",
-      "url": "https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1"
-    },
-    {
-      "added_at": "2025-09-26 04:00:20",
-      "album": {
         "name": "Swimming Alone",
         "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 187466,
       "name": "Same Devil (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC"
+    },
+    {
+      "added_at": "2025-09-26 04:00:20",
+      "album": {
+        "name": "Playing Old Games",
+        "url": "https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP"
+      },
+      "artists": [
+        {
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+        },
+        {
+          "name": "Pete Lindberg",
+          "url": "https://open.spotify.com/artist/5q3AaH8E8mWMOJZ5Neirm6"
+        }
+      ],
+      "duration_ms": 209880,
+      "name": "Playing Old Games",
+      "url": "https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1"
     },
     {
       "added_at": "2025-09-26 04:00:20",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-09-26 04:00:20",
       "album": {
-        "name": "Margo",
-        "url": "https://open.spotify.com/album/4tSX4JSEeC1bedmrv0KjJk"
-      },
-      "artists": [
-        {
-          "name": "Haroula Rose",
-          "url": "https://open.spotify.com/artist/7AhCTepWX7n4dQFh3Ro3YG"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "Margo",
-      "url": "https://open.spotify.com/track/5Mn82vItGPWekMoCE4GrhU"
-    },
-    {
-      "added_at": "2025-09-26 04:00:20",
-      "album": {
         "name": "True Love's Face",
         "url": "https://open.spotify.com/album/1cHnfarRGbvB6PjVvq35dK"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 200480,
       "name": "True Love's Face",
       "url": "https://open.spotify.com/track/2NYYOnTEAIG6LXA8GjFmvd"
+    },
+    {
+      "added_at": "2025-09-26 04:00:20",
+      "album": {
+        "name": "Margo",
+        "url": "https://open.spotify.com/album/4tSX4JSEeC1bedmrv0KjJk"
+      },
+      "artists": [
+        {
+          "name": "Haroula Rose",
+          "url": "https://open.spotify.com/artist/7AhCTepWX7n4dQFh3Ro3YG"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "Margo",
+      "url": "https://open.spotify.com/track/5Mn82vItGPWekMoCE4GrhU"
     },
     {
       "added_at": "2025-09-26 04:00:20",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2025-09-26 04:00:20",
       "album": {
-        "name": "Comeback",
-        "url": "https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb"
+        "name": "You Don't Own Me",
+        "url": "https://open.spotify.com/album/7BOSDXG0al6FLZZyUqGIBe"
       },
       "artists": [
         {
-          "name": "The Reckless Electric",
-          "url": "https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM"
+          "name": "Whitney Rose",
+          "url": "https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx"
         }
       ],
-      "duration_ms": 206729,
-      "name": "Ice Cream and Liquor",
-      "url": "https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO"
+      "duration_ms": 168648,
+      "name": "You Don't Own Me",
+      "url": "https://open.spotify.com/track/6ZVCTPK8A83OogGsI0Dxjl"
     },
     {
       "added_at": "2025-09-26 04:00:20",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2025-09-26 04:00:20",
       "album": {
-        "name": "You Don't Own Me",
-        "url": "https://open.spotify.com/album/7BOSDXG0al6FLZZyUqGIBe"
+        "name": "Comeback",
+        "url": "https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb"
       },
       "artists": [
         {
-          "name": "Whitney Rose",
-          "url": "https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx"
+          "name": "The Reckless Electric",
+          "url": "https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM"
         }
       ],
-      "duration_ms": 168648,
-      "name": "You Don't Own Me",
-      "url": "https://open.spotify.com/track/6ZVCTPK8A83OogGsI0Dxjl"
+      "duration_ms": 206729,
+      "name": "Ice Cream and Liquor",
+      "url": "https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO"
     },
     {
       "added_at": "2025-09-26 04:00:20",

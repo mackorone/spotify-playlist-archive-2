@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Searows
 
-[Spotify](https://open.spotify.com/user/spotify) - 865,960 likes - 150 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 866,118 likes - 150 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 11 | [Airpark](https://open.spotify.com/track/0EhC9Gs7lTaptKF92NR40k) | [Clover County](https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2) | [Finer Things \(Deluxe\)](https://open.spotify.com/album/43bUaUU5d1eVj6bo2yqH4W) | 2:40 |
 | 12 | [FICTION](https://open.spotify.com/track/7IY4M3WEpr2LLZUETkcVIR) | [Adam Klobi](https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI) | [FICTION](https://open.spotify.com/album/1beFAyrk1kXl23nA0oUJDU) | 4:07 |
 | 13 | [hate me too](https://open.spotify.com/track/0tUlhKNeSosXCmzMG8H5Zd) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2), [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [hate me too](https://open.spotify.com/album/049FuqHfjsiNlLfARnGQZ7) | 3:06 |
-| 14 | [I Envy The Wind](https://open.spotify.com/track/1Ms7Gac09KbhtpaIptsxFC) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5), [Kevin Dailey](https://open.spotify.com/artist/2HLinx4VEku8k4qX9qH3Au) | [I Envy The Wind](https://open.spotify.com/album/4MhtHLLGLCm1mLKkYZflGL) | 3:51 |
+| 14 | [I Envy The Wind](https://open.spotify.com/track/1Ms7Gac09KbhtpaIptsxFC) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5), [Kevin Dailey](https://open.spotify.com/artist/3geQKP47AYIUVopa4204OU) | [I Envy The Wind](https://open.spotify.com/album/4MhtHLLGLCm1mLKkYZflGL) | 3:51 |
 | 15 | [little love](https://open.spotify.com/track/4pkTPnM1S09o1xMEqRp0U9) | [Anna Hamilton](https://open.spotify.com/artist/5l81swbnEwWXCTQiEYmATF) | [Collarbones](https://open.spotify.com/album/43iVBw8E2AabTXAWelrxmR) | 2:02 |
 | 16 | [Joy and Despair](https://open.spotify.com/track/1viACvU6BoSNO0VEziw9QT) | [Charlie Noordewier](https://open.spotify.com/artist/0SDfEluak7Z8ML7o1K2Ljk) | [Joy and Despair](https://open.spotify.com/album/3PGbpvjDxnIdiTLbfcNYJy) | 4:00 |
 | 17 | [Think Twice](https://open.spotify.com/track/2lLtw3h6cRKc9711qNeYNg) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Think Twice](https://open.spotify.com/album/7BO5iLc2jcVc06AFPlXTaS) | 2:22 |
