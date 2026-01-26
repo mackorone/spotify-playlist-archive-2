@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: DAY6(\ub370\uc774\uc2dd\uc2a4))",
-  "num_followers": 156314,
+  "num_followers": 156279,
   "original_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -227,26 +227,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "When it snows(Feat.Heize)",
-        "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
-      },
-      "artists": [
-        {
-          "name": "LEE MU JIN",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
-        },
-        {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 232026,
-      "name": "When it snows(Feat.Heize)",
-      "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 3",
         "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 236500,
       "name": "NOT SORRY (Feat. pH-1) (Prod. by Slom)",
       "url": "https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "When it snows(Feat.Heize)",
+        "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
+      },
+      "artists": [
+        {
+          "name": "LEE MU JIN",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        },
+        {
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 232026,
+      "name": "When it snows(Feat.Heize)",
+      "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "This Christmas \u2013 Winter is Coming",
-        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 267250,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/6eAMa0e7WCbjM7ivbAhvkq"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 3",
         "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 234839,
       "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
       "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "This Christmas \u2013 Winter is Coming",
+        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 267250,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/6eAMa0e7WCbjM7ivbAhvkq"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -783,6 +783,42 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
+        "name": "NOI MAS",
+        "url": "https://open.spotify.com/album/2lLUXuBMZZWb8NdSd3BIwm"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 216601,
+      "name": "Never Leave Me (Feat. pH-1)",
+      "url": "https://open.spotify.com/track/3t0jz1RuFVgLHb0E5rG8TI"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "This Christmas \u2013 Winter is Coming",
+        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 259339,
+      "name": "Christmas without You",
+      "url": "https://open.spotify.com/track/617cDTzVRFEwYPzi3FKaXT"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
         "name": "STARSHIP PLANET 2018",
         "url": "https://open.spotify.com/album/6UPvFQ3Lhi5x6W7vCq0Zaq"
       },
@@ -831,42 +867,6 @@
       "duration_ms": 241550,
       "name": "Christmas Time",
       "url": "https://open.spotify.com/track/0vDKTkWeDQETxVlr23XkkC"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "This Christmas \u2013 Winter is Coming",
-        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 259339,
-      "name": "Christmas without You",
-      "url": "https://open.spotify.com/track/617cDTzVRFEwYPzi3FKaXT"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "NOI MAS",
-        "url": "https://open.spotify.com/album/2lLUXuBMZZWb8NdSd3BIwm"
-      },
-      "artists": [
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 216601,
-      "name": "Never Leave Me (Feat. pH-1)",
-      "url": "https://open.spotify.com/track/3t0jz1RuFVgLHb0E5rG8TI"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -987,18 +987,18 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "5 Christmas Languages",
-        "url": "https://open.spotify.com/album/2iI6CpAodkzQyYxFbxHApH"
+        "name": "merry merry",
+        "url": "https://open.spotify.com/album/0u4kQYJsfOrpnew817qr5q"
       },
       "artists": [
         {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
         }
       ],
-      "duration_ms": 204906,
-      "name": "5 Christmas Languages",
-      "url": "https://open.spotify.com/track/5wy21ZeTCwveMpA5cktc7S"
+      "duration_ms": 165693,
+      "name": "merry merry",
+      "url": "https://open.spotify.com/track/2kGIo9vbpdBnRnOJlPAtNb"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "merry merry",
-        "url": "https://open.spotify.com/album/0u4kQYJsfOrpnew817qr5q"
+        "name": "5 Christmas Languages",
+        "url": "https://open.spotify.com/album/2iI6CpAodkzQyYxFbxHApH"
       },
       "artists": [
         {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
         }
       ],
-      "duration_ms": 165693,
-      "name": "merry merry",
-      "url": "https://open.spotify.com/track/2kGIo9vbpdBnRnOJlPAtNb"
+      "duration_ms": 204906,
+      "name": "5 Christmas Languages",
+      "url": "https://open.spotify.com/track/5wy21ZeTCwveMpA5cktc7S"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Letters to Santa",
-        "url": "https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0"
+        "name": "My Winter Trip",
+        "url": "https://open.spotify.com/album/4VVH0BD7z9Cs4iORPbZ2Ci"
       },
       "artists": [
         {
-          "name": "DeVita",
-          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
         }
       ],
-      "duration_ms": 159616,
-      "name": "I Still Believe in Santa",
-      "url": "https://open.spotify.com/track/3QzRFgACehCoVpE4jRkQCE"
+      "duration_ms": 251617,
+      "name": "My Winter Trip",
+      "url": "https://open.spotify.com/track/1SDRgU2C81CcOhaOvTOBCk"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "My Winter Trip",
-        "url": "https://open.spotify.com/album/4VVH0BD7z9Cs4iORPbZ2Ci"
+        "name": "Letters to Santa",
+        "url": "https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0"
       },
       "artists": [
         {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
         }
       ],
-      "duration_ms": 251617,
-      "name": "My Winter Trip",
-      "url": "https://open.spotify.com/track/1SDRgU2C81CcOhaOvTOBCk"
+      "duration_ms": 159616,
+      "name": "I Still Believe in Santa",
+      "url": "https://open.spotify.com/track/3QzRFgACehCoVpE4jRkQCE"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1319,38 +1319,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "C9 Single Album '2022 C9 Christmas'",
-        "url": "https://open.spotify.com/album/01q9YVreuTo2O0KrCgG9hr"
-      },
-      "artists": [
-        {
-          "name": "Lee Seok Hoon",
-          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
-        },
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        },
-        {
-          "name": "CIX",
-          "url": "https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd"
-        },
-        {
-          "name": "cignature",
-          "url": "https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ"
-        },
-        {
-          "name": "EPEX",
-          "url": "https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT"
-        }
-      ],
-      "duration_ms": 207880,
-      "name": "Merry Merry Christmas",
-      "url": "https://open.spotify.com/track/4PrwSC5G3C9xZsmDBHV5FE"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "Maybe Christmas (Orchestra Version)",
         "url": "https://open.spotify.com/album/45v0kfxliXgedtXPVCtqr2"
       },
@@ -1379,6 +1347,38 @@
       "duration_ms": 195466,
       "name": "FIRST SNOW",
       "url": "https://open.spotify.com/track/2gAeC9cZY154LvRWhCck04"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "C9 Single Album '2022 C9 Christmas'",
+        "url": "https://open.spotify.com/album/01q9YVreuTo2O0KrCgG9hr"
+      },
+      "artists": [
+        {
+          "name": "Lee Seok Hoon",
+          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
+        },
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        },
+        {
+          "name": "CIX",
+          "url": "https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd"
+        },
+        {
+          "name": "cignature",
+          "url": "https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ"
+        },
+        {
+          "name": "EPEX",
+          "url": "https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT"
+        }
+      ],
+      "duration_ms": 207880,
+      "name": "Merry Merry Christmas",
+      "url": "https://open.spotify.com/track/4PrwSC5G3C9xZsmDBHV5FE"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "The Christmas Number 12",
-        "url": "https://open.spotify.com/album/5jVCZws60QZ11TP2nWjxOZ"
-      },
-      "artists": [
-        {
-          "name": "OoOo",
-          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
-        }
-      ],
-      "duration_ms": 159835,
-      "name": "The Christmas Number 12",
-      "url": "https://open.spotify.com/track/1VgEdXPGiCizL6DfIUDGok"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "The Present",
         "url": "https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 222560,
       "name": "PRESENT",
       "url": "https://open.spotify.com/track/4aHFpcusnNCEfwZLiItfrt"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "The Christmas Number 12",
+        "url": "https://open.spotify.com/album/5jVCZws60QZ11TP2nWjxOZ"
+      },
+      "artists": [
+        {
+          "name": "OoOo",
+          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
+        }
+      ],
+      "duration_ms": 159835,
+      "name": "The Christmas Number 12",
+      "url": "https://open.spotify.com/track/1VgEdXPGiCizL6DfIUDGok"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Christmas Love",
-        "url": "https://open.spotify.com/album/7iTnFSQCuTl8j5XenUsOu3"
-      },
-      "artists": [
-        {
-          "name": "A.C.E",
-          "url": "https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi"
-        }
-      ],
-      "duration_ms": 192533,
-      "name": "Christmas Love",
-      "url": "https://open.spotify.com/track/07RqTH1eogXDP6lvfkpTgr"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "First Snow",
         "url": "https://open.spotify.com/album/2JuP76Opbf43B50FPS6qbb"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 187653,
       "name": "First Snow",
       "url": "https://open.spotify.com/track/6pSkZpm2o1n7UEKivekdkn"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "Christmas Love",
+        "url": "https://open.spotify.com/album/7iTnFSQCuTl8j5XenUsOu3"
+      },
+      "artists": [
+        {
+          "name": "A.C.E",
+          "url": "https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi"
+        }
+      ],
+      "duration_ms": 192533,
+      "name": "Christmas Love",
+      "url": "https://open.spotify.com/track/07RqTH1eogXDP6lvfkpTgr"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "SECRET SANTA",
-        "url": "https://open.spotify.com/album/6oaSE8X5SdxnuQlXpLkttH"
+        "name": "FOCUS",
+        "url": "https://open.spotify.com/album/2HYomfaNdOTYlOftTbE7Af"
       },
       "artists": [
         {
-          "name": "ONEWE",
-          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+          "name": "DAHEE",
+          "url": "https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT"
         }
       ],
-      "duration_ms": 228933,
-      "name": "WE X MAS",
-      "url": "https://open.spotify.com/track/0TiyQwSeqLubY97007Adg4"
+      "duration_ms": 146962,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/0Nh6t7DEzAARTHHufhPc1Q"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "FOCUS",
-        "url": "https://open.spotify.com/album/2HYomfaNdOTYlOftTbE7Af"
+        "name": "SECRET SANTA",
+        "url": "https://open.spotify.com/album/6oaSE8X5SdxnuQlXpLkttH"
       },
       "artists": [
         {
-          "name": "DAHEE",
-          "url": "https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT"
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
         }
       ],
-      "duration_ms": 146962,
-      "name": "FOCUS",
-      "url": "https://open.spotify.com/track/0Nh6t7DEzAARTHHufhPc1Q"
+      "duration_ms": 228933,
+      "name": "WE X MAS",
+      "url": "https://open.spotify.com/track/0TiyQwSeqLubY97007Adg4"
     }
   ],
   "unique_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",

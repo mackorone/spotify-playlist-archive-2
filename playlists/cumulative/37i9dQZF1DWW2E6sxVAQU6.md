@@ -2,7 +2,7 @@
 
 ### [Sanremo: Schegge Impazzite](https://open.spotify.com/playlist/37i9dQZF1DWW2E6sxVAQU6)
 
-> Italia amore mio 🇮🇹🇮🇹🇮🇹 😍😍😍
+> Dedicata a chi non ha rischiato ed è sempre andato al massimo  ⚡️
 
 52 songs - 3 hr 9 min
 

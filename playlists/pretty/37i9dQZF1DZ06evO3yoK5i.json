@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 247729,
+  "num_followers": 247758,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXK6AAAAAACiziAg+VcR4ZlWWPlI1sg3",
+  "snapshot_id": "aXQLgAAAAADVXWaoXGpM1/tr4M6VgnBn",
   "tracks": [
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dietro Le Apparenze",
-        "url": "https://open.spotify.com/album/2rOZXRaWqDzbGdISSDQXjC"
-      },
-      "artists": [
-        {
-          "name": "Giorgia",
-          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
-        },
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 234920,
-      "name": "Inevitabile (feat. Eros Ramazzotti)",
-      "url": "https://open.spotify.com/track/2ZMNdZoaXrGjwPjSxRvw1H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alas Y Raices",
         "url": "https://open.spotify.com/album/69KJ3ywyhqcAI0Ai2FE5vN"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 281253,
       "name": "Estrella Gemela - Remastered 2021",
       "url": "https://open.spotify.com/track/0CEjdxDzT7Yl5KW1nsuhcS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dietro Le Apparenze",
+        "url": "https://open.spotify.com/album/2rOZXRaWqDzbGdISSDQXjC"
+      },
+      "artists": [
+        {
+          "name": "Giorgia",
+          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
+        },
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 234920,
+      "name": "Inevitabile (feat. Eros Ramazzotti)",
+      "url": "https://open.spotify.com/track/2ZMNdZoaXrGjwPjSxRvw1H"
     },
     {
       "added_at": null,

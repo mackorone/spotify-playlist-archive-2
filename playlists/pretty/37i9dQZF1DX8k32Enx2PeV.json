@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 15395,
+  "num_followers": 15402,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEjbsRItvMci+tCRY7xhQBlGkxSc",
+  "snapshot_id": "AAAAAHCyawz3ooljbM+WAN4F9ljim2+N",
   "tracks": [
     {
       "added_at": "2026-01-16 21:48:02",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-01-16 21:48:02",
       "album": {
-        "name": "EMDDMV",
-        "url": "https://open.spotify.com/album/6ziWmkk7khSe5U5QstUNtV"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "EMDDMV",
-      "url": "https://open.spotify.com/track/7iR2INATAqjNsevyTqojre"
-    },
-    {
-      "added_at": "2026-01-16 21:48:02",
-      "album": {
         "name": "Coco Loco",
         "url": "https://open.spotify.com/album/2PYrIOVfAfAShyZ8jOBkQp"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 198373,
       "name": "Coco Loco",
       "url": "https://open.spotify.com/track/6wbGvckYnAeRk6qxGZoIom"
+    },
+    {
+      "added_at": "2026-01-16 21:48:02",
+      "album": {
+        "name": "EMDDMV",
+        "url": "https://open.spotify.com/album/6ziWmkk7khSe5U5QstUNtV"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "EMDDMV",
+      "url": "https://open.spotify.com/track/7iR2INATAqjNsevyTqojre"
     },
     {
       "added_at": "2026-01-16 21:48:02",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-01-16 21:48:02",
       "album": {
-        "name": "Cuando Te Vi",
-        "url": "https://open.spotify.com/album/2sWS0Uj1NaGk4ak0HOZBac"
-      },
-      "artists": [
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 177115,
-      "name": "Cuando Te Vi",
-      "url": "https://open.spotify.com/track/7AWfDw5YsBDHNDYBjXoemo"
-    },
-    {
-      "added_at": "2026-01-16 21:48:02",
-      "album": {
         "name": "Ahomale",
         "url": "https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 298520,
       "name": "Esto Es Real (8100mg)",
       "url": "https://open.spotify.com/track/5FWW3dZqsqN3ryZqBpsmFS"
+    },
+    {
+      "added_at": "2026-01-16 21:48:02",
+      "album": {
+        "name": "Cuando Te Vi",
+        "url": "https://open.spotify.com/album/2sWS0Uj1NaGk4ak0HOZBac"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 177115,
+      "name": "Cuando Te Vi",
+      "url": "https://open.spotify.com/track/7AWfDw5YsBDHNDYBjXoemo"
     },
     {
       "added_at": "2026-01-16 21:48:02",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-01-16 21:48:02",
       "album": {
-        "name": "Sun a Shine",
-        "url": "https://open.spotify.com/album/1ZAfskHXkdsJUDS2qYG0X3"
-      },
-      "artists": [
-        {
-          "name": "Elkin Robinson",
-          "url": "https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO"
-        }
-      ],
-      "duration_ms": 172069,
-      "name": "Sun a Shine",
-      "url": "https://open.spotify.com/track/5pj9GnIvHNfoTevSH8z8Uv"
-    },
-    {
-      "added_at": "2026-01-16 21:48:02",
-      "album": {
         "name": "All Inclusive",
         "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 155613,
       "name": "All Inclusive",
       "url": "https://open.spotify.com/track/3RRVyOLUHTqPfCKr03Gdhm"
+    },
+    {
+      "added_at": "2026-01-16 21:48:02",
+      "album": {
+        "name": "Sun a Shine",
+        "url": "https://open.spotify.com/album/1ZAfskHXkdsJUDS2qYG0X3"
+      },
+      "artists": [
+        {
+          "name": "Elkin Robinson",
+          "url": "https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO"
+        }
+      ],
+      "duration_ms": 172069,
+      "name": "Sun a Shine",
+      "url": "https://open.spotify.com/track/5pj9GnIvHNfoTevSH8z8Uv"
     },
     {
       "added_at": "2026-01-16 21:48:02",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-01-16 21:48:02",
       "album": {
-        "name": "Un Poco Menos Idiota",
-        "url": "https://open.spotify.com/album/4SxeVZBPipJvVadnhgtkkI"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        }
-      ],
-      "duration_ms": 225547,
-      "name": "Un Poco Menos Idiota",
-      "url": "https://open.spotify.com/track/7hvtbGqnRyMKTY1jaSGUsp"
-    },
-    {
-      "added_at": "2026-01-16 21:48:02",
-      "album": {
         "name": "Losken Roland",
         "url": "https://open.spotify.com/album/5l3NRWcHqyP72oYv6Xe3j6"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 140955,
       "name": "Losken Roland",
       "url": "https://open.spotify.com/track/5Inucz20QjnA1sPbpsXj49"
+    },
+    {
+      "added_at": "2026-01-16 21:48:02",
+      "album": {
+        "name": "Un Poco Menos Idiota",
+        "url": "https://open.spotify.com/album/4SxeVZBPipJvVadnhgtkkI"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 225547,
+      "name": "Un Poco Menos Idiota",
+      "url": "https://open.spotify.com/track/7hvtbGqnRyMKTY1jaSGUsp"
     },
     {
       "added_at": "2026-01-16 21:48:02",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2026-01-16 21:48:02",
       "album": {
-        "name": "Caribe\u00f1a",
-        "url": "https://open.spotify.com/album/6pqif5AJYmhoYERQhbHVyM"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        },
-        {
-          "name": "Paz Court",
-          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
-        }
-      ],
-      "duration_ms": 191141,
-      "name": "Caribe\u00f1a",
-      "url": "https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3"
-    },
-    {
-      "added_at": "2026-01-16 21:48:02",
-      "album": {
         "name": "Museo",
         "url": "https://open.spotify.com/album/0Dsu1o55jtnkwt1BxKnCGB"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 165923,
       "name": "Museo",
       "url": "https://open.spotify.com/track/2cos8mfUgNxpBKZBWj0fvg"
+    },
+    {
+      "added_at": "2026-01-16 21:48:02",
+      "album": {
+        "name": "Caribe\u00f1a",
+        "url": "https://open.spotify.com/album/6pqif5AJYmhoYERQhbHVyM"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        },
+        {
+          "name": "Paz Court",
+          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
+        }
+      ],
+      "duration_ms": 191141,
+      "name": "Caribe\u00f1a",
+      "url": "https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3"
     },
     {
       "added_at": "2026-01-16 21:48:02",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-01-16 21:48:02",
       "album": {
-        "name": "Quiz\u00e1s (La Historia de Nosotros)",
-        "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
-      },
-      "artists": [
-        {
-          "name": "Alex Eugenio",
-          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
-        }
-      ],
-      "duration_ms": 203761,
-      "name": "Quiz\u00e1s (La Historia de Nosotros)",
-      "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
-    },
-    {
-      "added_at": "2026-01-16 21:48:02",
-      "album": {
         "name": "Pasatiempo",
         "url": "https://open.spotify.com/album/2gj0XvFtwo0NTDARtj1I39"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 202344,
       "name": "Pasatiempo",
       "url": "https://open.spotify.com/track/0zTrBn533RlwK9EpQToLRV"
+    },
+    {
+      "added_at": "2026-01-16 21:48:02",
+      "album": {
+        "name": "Quiz\u00e1s (La Historia de Nosotros)",
+        "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
+      },
+      "artists": [
+        {
+          "name": "Alex Eugenio",
+          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
+        }
+      ],
+      "duration_ms": 203761,
+      "name": "Quiz\u00e1s (La Historia de Nosotros)",
+      "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
     },
     {
       "added_at": "2026-01-16 21:48:02",

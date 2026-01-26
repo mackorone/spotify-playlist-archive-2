@@ -1,6 +1,6 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 81446,
+  "num_followers": 81448,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-01-15 13:01:34",
       "album": {
-        "name": "Charm",
-        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 205263,
-      "name": "Add Up My Love",
-      "url": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
-    },
-    {
-      "added_at": "2026-01-15 13:01:34",
-      "album": {
         "name": "Love Hangover (feat. Dominic Fike)",
         "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 185000,
       "name": "peach eyes",
       "url": "https://open.spotify.com/track/72UVMFjUAL6KJvwi36VBiz"
+    },
+    {
+      "added_at": "2026-01-15 13:01:34",
+      "album": {
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 205263,
+      "name": "Add Up My Love",
+      "url": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
     },
     {
       "added_at": "2026-01-15 13:01:34",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-01-15 13:01:34",
       "album": {
-        "name": "Twin Flame",
-        "url": "https://open.spotify.com/album/73A0KaDyV4R6Qnsy6ewoJd"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 186089,
-      "name": "Twin Flame",
-      "url": "https://open.spotify.com/track/1J315Sfz0otWt1JDyaNlaF"
-    },
-    {
-      "added_at": "2026-01-15 13:01:34",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 183293,
       "name": "Lady",
       "url": "https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu"
+    },
+    {
+      "added_at": "2026-01-15 13:01:34",
+      "album": {
+        "name": "Twin Flame",
+        "url": "https://open.spotify.com/album/73A0KaDyV4R6Qnsy6ewoJd"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 186089,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/1J315Sfz0otWt1JDyaNlaF"
     },
     {
       "added_at": "2026-01-15 13:01:34",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-01-15 13:01:34",
       "album": {
-        "name": "Unplanned",
-        "url": "https://open.spotify.com/album/7dp5n5J2pWVXxivK0LDFEc"
-      },
-      "artists": [
-        {
-          "name": "Clara La San",
-          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Unplanned",
-      "url": "https://open.spotify.com/track/6TzsR37ZfLTEiJbK0rNaBd"
-    },
-    {
-      "added_at": "2026-01-15 13:01:34",
-      "album": {
         "name": "Endless Night",
         "url": "https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 207900,
       "name": "Endless Night",
       "url": "https://open.spotify.com/track/0YQ3pxSWszXRbPHZHSvlqU"
+    },
+    {
+      "added_at": "2026-01-15 13:01:34",
+      "album": {
+        "name": "Unplanned",
+        "url": "https://open.spotify.com/album/7dp5n5J2pWVXxivK0LDFEc"
+      },
+      "artists": [
+        {
+          "name": "Clara La San",
+          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Unplanned",
+      "url": "https://open.spotify.com/track/6TzsR37ZfLTEiJbK0rNaBd"
     },
     {
       "added_at": "2026-01-15 13:01:34",

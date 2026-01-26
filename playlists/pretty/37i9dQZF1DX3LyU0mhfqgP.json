@@ -1,6 +1,6 @@
 {
   "description": "Songs from LGBTQIA+ artists. Cover: Luna Ki",
-  "num_followers": 1075132,
+  "num_followers": 1075070,
   "original_name": "GLOW",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-01-20 14:38:25",
       "album": {
-        "name": "Never Give Up On Loving You",
-        "url": "https://open.spotify.com/album/6bAPrs5Jw78jM9G318v2Ba"
-      },
-      "artists": [
-        {
-          "name": "KU\u010cKA",
-          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
-        }
-      ],
-      "duration_ms": 216239,
-      "name": "Never Give Up On Loving You",
-      "url": "https://open.spotify.com/track/3cd2zbZkfxt4olZ7ajzqe7"
-    },
-    {
-      "added_at": "2026-01-20 14:38:25",
-      "album": {
         "name": "Arthouse",
         "url": "https://open.spotify.com/album/7II243HQI2I0gvCSOLsWN2"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 171389,
       "name": "God\u2019s A Raver",
       "url": "https://open.spotify.com/track/5iYZvfyws18ttpfJFXkq83"
+    },
+    {
+      "added_at": "2026-01-20 14:38:25",
+      "album": {
+        "name": "Never Give Up On Loving You",
+        "url": "https://open.spotify.com/album/6bAPrs5Jw78jM9G318v2Ba"
+      },
+      "artists": [
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "duration_ms": 216239,
+      "name": "Never Give Up On Loving You",
+      "url": "https://open.spotify.com/track/3cd2zbZkfxt4olZ7ajzqe7"
     },
     {
       "added_at": "2026-01-20 14:38:25",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-01-20 14:38:25",
       "album": {
-        "name": "watermelon juice",
-        "url": "https://open.spotify.com/album/3RamU4y1Wz9FlgsoJpOnA9"
-      },
-      "artists": [
-        {
-          "name": "PA777IENCE",
-          "url": "https://open.spotify.com/artist/2uUBytPvcqMfHrmqmNwM5t"
-        }
-      ],
-      "duration_ms": 149437,
-      "name": "watermelon juice",
-      "url": "https://open.spotify.com/track/13yacPP35Xx7VNXE6yuSG5"
-    },
-    {
-      "added_at": "2026-01-20 14:38:25",
-      "album": {
         "name": "MONARCH",
         "url": "https://open.spotify.com/album/4zISc7rQ93tgBp3Htxc2vO"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 160880,
       "name": "Signed, Sealed, Delivered",
       "url": "https://open.spotify.com/track/1PEeKPfHjQgsTx646vXVy8"
+    },
+    {
+      "added_at": "2026-01-20 14:38:25",
+      "album": {
+        "name": "watermelon juice",
+        "url": "https://open.spotify.com/album/3RamU4y1Wz9FlgsoJpOnA9"
+      },
+      "artists": [
+        {
+          "name": "PA777IENCE",
+          "url": "https://open.spotify.com/artist/2uUBytPvcqMfHrmqmNwM5t"
+        }
+      ],
+      "duration_ms": 149437,
+      "name": "watermelon juice",
+      "url": "https://open.spotify.com/track/13yacPP35Xx7VNXE6yuSG5"
     }
   ],
   "unique_name": "GLOW",

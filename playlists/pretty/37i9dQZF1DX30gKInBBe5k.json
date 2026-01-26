@@ -1,6 +1,6 @@
 {
   "description": "a hardcore home for slowcore fans.",
-  "num_followers": 212340,
+  "num_followers": 212316,
   "original_name": "slowcore",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "So Tonight That I Might See",
-        "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
-      },
-      "artists": [
-        {
-          "name": "Mazzy Star",
-          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
-        }
-      ],
-      "duration_ms": 336760,
-      "name": "Into Dust",
-      "url": "https://open.spotify.com/track/7l5nkTZpoD93OkynN0gcon"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Down Colorful Hill",
         "url": "https://open.spotify.com/album/31toyxx4NeSixf47lJBNbt"
       },
@@ -119,22 +103,6 @@
       "duration_ms": 589440,
       "name": "Medicine Bottle",
       "url": "https://open.spotify.com/track/0HtTmvEzJVpEDkg7mARpxD"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
-        "name": "Magic Of The Sale",
-        "url": "https://open.spotify.com/album/73OcSorYBJgQW0vXa53Lye"
-      },
-      "artists": [
-        {
-          "name": "Teethe",
-          "url": "https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI"
-        }
-      ],
-      "duration_ms": 207026,
-      "name": "Iron Wine",
-      "url": "https://open.spotify.com/track/1ukTxyB0zGtrgsUqkR6yZp"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -155,6 +123,22 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
+        "name": "Magic Of The Sale",
+        "url": "https://open.spotify.com/album/73OcSorYBJgQW0vXa53Lye"
+      },
+      "artists": [
+        {
+          "name": "Teethe",
+          "url": "https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI"
+        }
+      ],
+      "duration_ms": 207026,
+      "name": "Iron Wine",
+      "url": "https://open.spotify.com/track/1ukTxyB0zGtrgsUqkR6yZp"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
         "name": "For Sure",
         "url": "https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 593346,
       "name": "For Sure",
       "url": "https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "So Tonight That I Might See",
+        "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
+      },
+      "artists": [
+        {
+          "name": "Mazzy Star",
+          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
+        }
+      ],
+      "duration_ms": 336760,
+      "name": "Into Dust",
+      "url": "https://open.spotify.com/track/7l5nkTZpoD93OkynN0gcon"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Heavy Black Frame",
-        "url": "https://open.spotify.com/album/4iEJq1LRPTy6q2kNUDKV3o"
-      },
-      "artists": [
-        {
-          "name": "Tram",
-          "url": "https://open.spotify.com/artist/5koTBxO31TIzxRzBvsxzwH"
-        }
-      ],
-      "duration_ms": 271306,
-      "name": "Nothing Left to Say",
-      "url": "https://open.spotify.com/track/0MZmVxSYtBphmi5mrgTLXp"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "And Then Nothing Turned Itself Inside-Out",
         "url": "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 258426,
       "name": "Our Way to Fall",
       "url": "https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Heavy Black Frame",
+        "url": "https://open.spotify.com/album/4iEJq1LRPTy6q2kNUDKV3o"
+      },
+      "artists": [
+        {
+          "name": "Tram",
+          "url": "https://open.spotify.com/artist/5koTBxO31TIzxRzBvsxzwH"
+        }
+      ],
+      "duration_ms": 271306,
+      "name": "Nothing Left to Say",
+      "url": "https://open.spotify.com/track/0MZmVxSYtBphmi5mrgTLXp"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -283,38 +283,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Paradise Valley",
-        "url": "https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 304460,
-      "name": "Headache",
-      "url": "https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
-        "name": "I Could Live In Hope",
-        "url": "https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
-        }
-      ],
-      "duration_ms": 348800,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "The Blue Moods Of Spain",
         "url": "https://open.spotify.com/album/47FyvCCghOqYY6VQyyixNC"
       },
@@ -343,6 +311,38 @@
       "duration_ms": 347769,
       "name": "Putting The Dog To Sleep",
       "url": "https://open.spotify.com/track/3pUoLeK4j2XHIuuqU8FECt"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 304460,
+      "name": "Headache",
+      "url": "https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "I Could Live In Hope",
+        "url": "https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
+        }
+      ],
+      "duration_ms": 348800,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -395,6 +395,22 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
+        "name": "Hex",
+        "url": "https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP"
+      },
+      "artists": [
+        {
+          "name": "Bark Psychosis",
+          "url": "https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi"
+        }
+      ],
+      "duration_ms": 500066,
+      "name": "Absent Friend",
+      "url": "https://open.spotify.com/track/6CqmencKN0UsB67DzZAP8f"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
         "name": "i'm not a violent dog, i don't know why i bite",
         "url": "https://open.spotify.com/album/0S2hBpEIxwy70VcRuqHa9P"
       },
@@ -411,18 +427,18 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Hex",
-        "url": "https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP"
+        "name": "Things We Lost in the Fire",
+        "url": "https://open.spotify.com/album/3YWmAFuOtr9YIDdqJ2Gius"
       },
       "artists": [
         {
-          "name": "Bark Psychosis",
-          "url": "https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi"
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
         }
       ],
-      "duration_ms": 500066,
-      "name": "Absent Friend",
-      "url": "https://open.spotify.com/track/6CqmencKN0UsB67DzZAP8f"
+      "duration_ms": 279066,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/5MLBottNJ4s4yL6t9sIryD"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -459,54 +475,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Things We Lost in the Fire",
-        "url": "https://open.spotify.com/album/3YWmAFuOtr9YIDdqJ2Gius"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
-        }
-      ],
-      "duration_ms": 279066,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/5MLBottNJ4s4yL6t9sIryD"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
-        "name": "Today",
-        "url": "https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ"
-      },
-      "artists": [
-        {
-          "name": "Galaxie 500",
-          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
-        }
-      ],
-      "duration_ms": 269946,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1tDI5qw1b8hOLVOazlECo2"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
-        "name": "Hex",
-        "url": "https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP"
-      },
-      "artists": [
-        {
-          "name": "Bark Psychosis",
-          "url": "https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi"
-        }
-      ],
-      "duration_ms": 315666,
-      "name": "The Loom",
-      "url": "https://open.spotify.com/track/5GbOaR6pcywF3y60jnN36Z"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Millions Now Living Will Never Die",
         "url": "https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh"
       },
@@ -539,6 +507,22 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
+        "name": "Hex",
+        "url": "https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP"
+      },
+      "artists": [
+        {
+          "name": "Bark Psychosis",
+          "url": "https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi"
+        }
+      ],
+      "duration_ms": 315666,
+      "name": "The Loom",
+      "url": "https://open.spotify.com/track/5GbOaR6pcywF3y60jnN36Z"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 344160,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/10dTTsgL5hPujRahg22tan"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ"
+      },
+      "artists": [
+        {
+          "name": "Galaxie 500",
+          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
+        }
+      ],
+      "duration_ms": 269946,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1tDI5qw1b8hOLVOazlECo2"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "On Fire",
-        "url": "https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M"
-      },
-      "artists": [
-        {
-          "name": "Galaxie 500",
-          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
-        }
-      ],
-      "duration_ms": 314560,
-      "name": "Snowstorm",
-      "url": "https://open.spotify.com/track/5s5uy4gguOtt5DZcsqxVsu"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Things We Lost in the Fire",
         "url": "https://open.spotify.com/album/71I6DvVoUfYmszlwb6is18"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 446986,
       "name": "Black Fly",
       "url": "https://open.spotify.com/track/3AXcnekPeKzjol7iQlM0Xx"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "On Fire",
+        "url": "https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M"
+      },
+      "artists": [
+        {
+          "name": "Galaxie 500",
+          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
+        }
+      ],
+      "duration_ms": 314560,
+      "name": "Snowstorm",
+      "url": "https://open.spotify.com/track/5s5uy4gguOtt5DZcsqxVsu"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -863,8 +863,8 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Kid A",
-        "url": "https://open.spotify.com/album/19RUXBFyM4PpmrLRdtqWbp"
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn"
       },
       "artists": [
         {
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 356333,
-      "name": "How To Disappear Completely",
-      "url": "https://open.spotify.com/track/69pwmeyvQMuHMtkCmpEWhQ"
+      "duration_ms": 267186,
+      "name": "Exit Music (For a Film)",
+      "url": "https://open.spotify.com/track/4Na0siMtWOW9pJoWJ1Ponv"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -891,6 +891,22 @@
       "duration_ms": 362973,
       "name": "Stop Waiting",
       "url": "https://open.spotify.com/track/5nSWSCnhIgUDlxK4TX2wtT"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Stratosphere",
+        "url": "https://open.spotify.com/album/35QrvQ2SlbEwZD8oq2yxBH"
+      },
+      "artists": [
+        {
+          "name": "Duster",
+          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
+        }
+      ],
+      "duration_ms": 141040,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/2gZ6I0MB9XaKmWOPwNJuqt"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -975,18 +991,18 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "OK Computer",
-        "url": "https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn"
+        "name": "1992 - 2001",
+        "url": "https://open.spotify.com/album/6vUZbXDPOX59fKA8hacgyW"
       },
       "artists": [
         {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+          "name": "Acetone",
+          "url": "https://open.spotify.com/artist/7DnDHNnkHER4ompBXz1ibL"
         }
       ],
-      "duration_ms": 267186,
-      "name": "Exit Music (For a Film)",
-      "url": "https://open.spotify.com/track/4Na0siMtWOW9pJoWJ1Ponv"
+      "duration_ms": 319640,
+      "name": "Return From The Ice",
+      "url": "https://open.spotify.com/track/3vtMKnsC5A2Sk8ylRxyU10"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -1000,25 +1016,25 @@
           "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
         }
       ],
-      "duration_ms": 141040,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/2gZ6I0MB9XaKmWOPwNJuqt"
+      "duration_ms": 300893,
+      "name": "Topical Solution",
+      "url": "https://open.spotify.com/track/1DrJC3J11DolsHxVd8cAmq"
     },
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "1992 - 2001",
-        "url": "https://open.spotify.com/album/6vUZbXDPOX59fKA8hacgyW"
+        "name": "Kid A",
+        "url": "https://open.spotify.com/album/19RUXBFyM4PpmrLRdtqWbp"
       },
       "artists": [
         {
-          "name": "Acetone",
-          "url": "https://open.spotify.com/artist/7DnDHNnkHER4ompBXz1ibL"
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 319640,
-      "name": "Return From The Ice",
-      "url": "https://open.spotify.com/track/3vtMKnsC5A2Sk8ylRxyU10"
+      "duration_ms": 356333,
+      "name": "How To Disappear Completely",
+      "url": "https://open.spotify.com/track/69pwmeyvQMuHMtkCmpEWhQ"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -1135,38 +1151,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Stratosphere",
-        "url": "https://open.spotify.com/album/35QrvQ2SlbEwZD8oq2yxBH"
-      },
-      "artists": [
-        {
-          "name": "Duster",
-          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
-        }
-      ],
-      "duration_ms": 300893,
-      "name": "Topical Solution",
-      "url": "https://open.spotify.com/track/1DrJC3J11DolsHxVd8cAmq"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
-        "name": "Didn't It Rain (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1pcDNDsUKweDsbxF5aFLvM"
-      },
-      "artists": [
-        {
-          "name": "Songs: Ohia",
-          "url": "https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z"
-        }
-      ],
-      "duration_ms": 472613,
-      "name": "Didn't It Rain",
-      "url": "https://open.spotify.com/track/7LVRbiFiUi1XwxcGy7rFdS"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "On Fire",
         "url": "https://open.spotify.com/album/4XcXyoxuSTavad15AaOTIp"
       },
@@ -1199,22 +1183,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Spiderland",
-        "url": "https://open.spotify.com/album/0cp3HJ6szImZfnVSPHDqAU"
-      },
-      "artists": [
-        {
-          "name": "Slint",
-          "url": "https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC"
-        }
-      ],
-      "duration_ms": 459333,
-      "name": "Good Morning, Captain",
-      "url": "https://open.spotify.com/track/154qGmayKVoKeeqv8Yy0QC"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "At The Cut",
         "url": "https://open.spotify.com/album/5vsxgGRWQkDiUQlcD0csyu"
       },
@@ -1227,22 +1195,6 @@
       "duration_ms": 316173,
       "name": "Coward",
       "url": "https://open.spotify.com/track/11XhGYbYtuh2bKv3DXtjA2"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
-        "name": "WhatFunLifeWas",
-        "url": "https://open.spotify.com/album/2IpqDJKaf7873tRUmxuxae"
-      },
-      "artists": [
-        {
-          "name": "Bedhead",
-          "url": "https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe"
-        }
-      ],
-      "duration_ms": 284301,
-      "name": "Bedside Table",
-      "url": "https://open.spotify.com/track/7EdM33TRHCYTfjsYqtagKp"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -1263,6 +1215,22 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
+        "name": "Didn't It Rain (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1pcDNDsUKweDsbxF5aFLvM"
+      },
+      "artists": [
+        {
+          "name": "Songs: Ohia",
+          "url": "https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z"
+        }
+      ],
+      "duration_ms": 472613,
+      "name": "Didn't It Rain",
+      "url": "https://open.spotify.com/track/7LVRbiFiUi1XwxcGy7rFdS"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
         "name": "Excuses for Travellers",
         "url": "https://open.spotify.com/album/3v7tUWRIJsQ0BaYGntOJbZ"
       },
@@ -1275,6 +1243,38 @@
       "duration_ms": 441173,
       "name": "My Life in Art",
       "url": "https://open.spotify.com/track/6kh7ySeueeG6ojSbChAAo2"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "WhatFunLifeWas",
+        "url": "https://open.spotify.com/album/2IpqDJKaf7873tRUmxuxae"
+      },
+      "artists": [
+        {
+          "name": "Bedhead",
+          "url": "https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe"
+        }
+      ],
+      "duration_ms": 284301,
+      "name": "Bedside Table",
+      "url": "https://open.spotify.com/track/7EdM33TRHCYTfjsYqtagKp"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Spiderland",
+        "url": "https://open.spotify.com/album/0cp3HJ6szImZfnVSPHDqAU"
+      },
+      "artists": [
+        {
+          "name": "Slint",
+          "url": "https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC"
+        }
+      ],
+      "duration_ms": 459333,
+      "name": "Good Morning, Captain",
+      "url": "https://open.spotify.com/track/154qGmayKVoKeeqv8Yy0QC"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "The Lioness",
-        "url": "https://open.spotify.com/album/0rCkgwhPyKJqoDkmxkFHTn"
-      },
-      "artists": [
-        {
-          "name": "Songs: Ohia",
-          "url": "https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z"
-        }
-      ],
-      "duration_ms": 436240,
-      "name": "The Black Crow",
-      "url": "https://open.spotify.com/track/3dqmRMwJaCymso6NXGPnyi"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Different Stars",
         "url": "https://open.spotify.com/album/0FYhVNeOcfTLgtHISgpsb5"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 342653,
       "name": "Lie In The Sound",
       "url": "https://open.spotify.com/track/4DPJgYReY3KMPPzR1jQ2VP"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Good morning (red)",
+        "url": "https://open.spotify.com/album/5Eg3oUty6ZMa6vkgb0zolB"
+      },
+      "artists": [
+        {
+          "name": "caroline",
+          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
+        }
+      ],
+      "duration_ms": 347506,
+      "name": "Good morning (red)",
+      "url": "https://open.spotify.com/track/5SQrKo2846AcYSt0YFOTJf"
     }
   ],
   "unique_name": "slowcore",

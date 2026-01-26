@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > Our picks for the best global hip\-hop songs this year\. Cover: Dave 🇬🇧
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,881 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,951 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 59 | [Alles oder Nix](https://open.spotify.com/track/46blMHWBntl39gPyCRkWfz) | [SSIO](https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2) | [Alles oder Nix](https://open.spotify.com/album/2Ka6ZgzImEXyFSUh5tY1kg) | 4:12 |
 | 60 | [Chapter 16 \(feat\. Kano\)](https://open.spotify.com/track/1Vn4C8zBO7b2pZPQ8L0oZO) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 6:20 |
 
-Snapshot ID: `AAAAAAok3asjU19ItV581uYHZEihLr5g`
+Snapshot ID: `AAAAAB2EJ7o9BX4ydMX66ifqulHuMBgv`

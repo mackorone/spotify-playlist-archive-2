@@ -4,7 +4,7 @@
 
 > Cutting\-edge dance music emerging from Japan.
 
-69 songs - 4 hr 59 min
+70 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [glowing arcade](https://open.spotify.com/track/4QD3PW1ziWyTbduNcIznEG) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [glowing arcade](https://open.spotify.com/album/5JQaDQbsFfYOO27LqAdJS2) | 2:48 | 2025-10-24 | 2026-01-15 |
 | [go!](https://open.spotify.com/track/5t2y268snYiNava21XWxMZ) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq) | [TRUE MAGIC](https://open.spotify.com/album/0K7hOcNhAGs54ANFnXw6uM) | 2:11 | 2025-10-24 |  |
 | [GORILLA](https://open.spotify.com/track/1mCOIZ9bgvXOC0PDsTzqE2) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [DONGURI ZOO](https://open.spotify.com/album/6oyRi1OJMpPhUtvNGd3zNL) | 2:19 | 2026-01-23 |  |
+| [HI!GA!MI!](https://open.spotify.com/track/5yxDNvvXmkM2fkQSlLfxJR) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [F!C!O!](https://open.spotify.com/artist/2UvrlpMklmgamhimBlX9iw), [Fellsius](https://open.spotify.com/artist/1uYT5SJBJW3fqKniEPjleE), [Carpainter](https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa), [ONJUICY](https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD) | [HI!GA!MI!](https://open.spotify.com/album/7LCTafhxWY92qtbfPqBZE3) | 3:09 | 2026-01-23 |  |
 | [HYPNOTIZE](https://open.spotify.com/track/5r2FAkZaMsO5SsHwcywQTi) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/07J0T7JwhvJaX6ky1PiyM6) | 2:50 | 2026-01-23 |  |
 | [I SYNC](https://open.spotify.com/track/51aSWkFg6MHg2ciLjcnFRw) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [ROMP](https://open.spotify.com/album/1aVH41SAin716xpep2O53d) | 4:19 | 2026-01-09 |  |
 | [IN THE RAIN x XDM](https://open.spotify.com/track/1V33peoBd9zVqKX5xUIjuh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IN THE RAIN](https://open.spotify.com/album/6ny2h77H2ss1kMCsxtY22L) | 3:14 | 2025-10-24 |  |
@@ -59,7 +60,7 @@
 | [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SOMETHING AIN'T RIGHT](https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh) | 3:10 | 2025-10-24 |  |
 | [Sounds Good](https://open.spotify.com/track/4S8RV91Hrlwl835t0372QU) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Sounds Good](https://open.spotify.com/album/5FLunA52rATXNpp7eVk9fo) | 3:32 | 2025-10-24 |  |
 | [Sunset Girls](https://open.spotify.com/track/4IH5Ner6ZZw7kY8u0OrG3z) | [Guchon](https://open.spotify.com/artist/1Xa4Ob475n3X1O1kkpgw99) | [Summer Cutz](https://open.spotify.com/album/4h3n3omyc1zrm5ZZJHJGie) | 3:42 | 2025-10-24 | 2026-01-24 |
-| [SynthScale](https://open.spotify.com/track/1rrMHKwuQxT5X0x1jKRi5b) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [SynthScale](https://open.spotify.com/album/4nfP0U9mL528oLcrNrJZBg) | 5:19 | 2025-10-24 |  |
+| [SynthScale](https://open.spotify.com/track/1rrMHKwuQxT5X0x1jKRi5b) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [SynthScale](https://open.spotify.com/album/4nfP0U9mL528oLcrNrJZBg) | 5:19 | 2025-10-24 | 2026-01-26 |
 | [TECHNOPOLIS](https://open.spotify.com/track/4NB8NwHewxGOPgjThiBnP0) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE), [吉沢典夫](https://open.spotify.com/artist/1i8hb3SegIZOYl2av3jGSO) | [ソリッド・ステイト・サヴァイヴァー](https://open.spotify.com/album/4uBi6IKL7Wsz895MNmpbIU) | 4:14 | 2025-10-24 |  |
 | [The Endless Lovers \- Pasocom Music Club Remix](https://open.spotify.com/track/53tuINhmAtikGpXPmNlUQO) | [CHERRYBOY FUNCTION](https://open.spotify.com/artist/5XekZo5tIoBmrTb0dsEXx0), [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [suggested function EP\#5](https://open.spotify.com/album/06hsjkU7SE0WktfQskjDPX) | 5:54 | 2025-10-24 | 2025-11-08 |
 | [TOKYO](https://open.spotify.com/track/4asW0vZmvIWmqp2ueazpeQ) | [Nakajin](https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk) | [TOKYO](https://open.spotify.com/album/3ichHRNhN8dHWctJ4mTCsH) | 3:01 | 2025-10-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,179 likes - 343 songs - 18 hr 57 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,182 likes - 347 songs - 19 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -351,5 +351,9 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 341 | [IDLU](https://open.spotify.com/track/2ejlWsRx89pU3A38vjhWPU) | [TEll A ViSiON](https://open.spotify.com/artist/0o4PC35iPXR3eK4CPkl353) | [IDLU](https://open.spotify.com/album/6n9xdt2ktAQsBydfZeHEQK) | 3:19 |
 | 342 | [Darkness Wins](https://open.spotify.com/track/4gzSTvDdlr7WiSzqBBG223) | [Buzzard](https://open.spotify.com/artist/4lPV2Ks4kacVTCX9EEJ62u) | [Mean Bone](https://open.spotify.com/album/1V9rzvDvLAPdmQ2msZU9wq) | 3:35 |
 | 343 | [Lost Inside](https://open.spotify.com/track/7suVrAMEIuY74fFwMwMkqO) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [Lost Inside](https://open.spotify.com/album/1dTObo08E1qoOuwynwuIUL) | 3:05 |
+| 344 | [Can't Stop Won't Stop](https://open.spotify.com/track/3fF4VrbvsSf8rqz7m1OCZX) | [Cupp](https://open.spotify.com/artist/0TUYzuNtOTqWXXW1xVGiB8) | [One the Beginning](https://open.spotify.com/album/4kdnk2M9nTdtOZnLeSqma4) | 2:32 |
+| 345 | [Mad Puppies](https://open.spotify.com/track/1BCF3qP2Tm8YL9Lo1VmcHA) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Mad Puppies](https://open.spotify.com/album/08M39olgNPLTRMjpa6pf0u) | 2:08 |
+| 346 | [This Machine](https://open.spotify.com/track/3vpK71WrTIZLXsmWuT6Qg2) | [Hat Pin Panic](https://open.spotify.com/artist/77f1HkjJ9kj51sNjprGklj) | [Turn Past Tomorrow](https://open.spotify.com/album/3jWcJlU5XrV1b381It9xUw) | 5:10 |
+| 347 | [Walking Filth](https://open.spotify.com/track/4Is5kHqgxB7VeIByWyv62G) | [OUTWORLD](https://open.spotify.com/artist/4eAqOKh1IrkICoFv8NXjnn) | [EP](https://open.spotify.com/album/4b880Bbla3ITm00f4LpLzh) | 2:28 |
 
-Snapshot ID: `AAAKbqYXgWgo0iAnqeqmfyqtmVlDmmOv`
+Snapshot ID: `AAAKcjTXeZaxFMe/rgzlhFKB7VBgUq0R`

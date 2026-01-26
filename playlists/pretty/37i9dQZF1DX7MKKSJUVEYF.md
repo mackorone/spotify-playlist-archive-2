@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MKKSJUVEYF.md) - [plain]
 
 ### [Sanremo: La Voce delle Donne](https://open.spotify.com/playlist/37i9dQZF1DX7MKKSJUVEYF)
 
-> Sanremo queens unite 🤝
+> 👯‍♀️ Sanremo queens unite 👯‍♀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,710 likes - 65 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,711 likes - 65 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MKKSJUVEYF.md) - [plain]
 | 64 | [Zingara](https://open.spotify.com/track/4kzOYNpDNmkSGs9w6Z7dVB) | [Iva Zanicchi](https://open.spotify.com/artist/06WyIm2la1sB8sKdfWAvU9) | [Italian Classics: Iva Zanicchi Collection, Vol\. 1](https://open.spotify.com/album/5wJwNAENAfgsAecab15bIh) | 2:33 |
 | 65 | [Chi Non Lavora Non Fa L'Amore \- Remastered 2009](https://open.spotify.com/track/5QNEUi7oFTKcOrEMzLA9uV) | [Claudia Mori](https://open.spotify.com/artist/0c5nXKT37cYsbaXiw5mFVk) | [Claudiamoricollection](https://open.spotify.com/album/4Gt6wfxjDhC6W1eu21hunV) | 2:58 |
 
-Snapshot ID: `AAAAAO/l8A+mpOdVMEOBCmfHYzHoiDqR`
+Snapshot ID: `AAAAAPWaaTnGVvB2Vuwm7Hcfc5BpK+m+`

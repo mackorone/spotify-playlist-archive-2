@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 44892,
+  "num_followers": 44891,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXK6AAAAAAAQ65qzVWcpMI8dGipiCPNf",
+  "snapshot_id": "aXQLgAAAAAC7R/SncqXE6OavHCDSDdKO",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "XTENDED",
-        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 166863,
-      "name": "Shoot",
-      "url": "https://open.spotify.com/track/54dqQJpIq0QUd2vBl5KzTJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SONY",
         "url": "https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 130129,
       "name": "RICK OWENS (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XTENDED",
+        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 166863,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/54dqQJpIq0QUd2vBl5KzTJ"
     },
     {
       "added_at": null,
@@ -663,26 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "President (feat. Ken Carson)",
-        "url": "https://open.spotify.com/album/6iTOKqu4Vl8q7oPzusfOB8"
+        "name": "Pink Heartz",
+        "url": "https://open.spotify.com/album/1POWgdYTzfFt9rhKlXFwsU"
       },
       "artists": [
         {
-          "name": "Southside",
-          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
-        },
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
         },
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 187496,
-      "name": "President (feat. Ken Carson)",
-      "url": "https://open.spotify.com/track/3wHQwZC88fNttgEGinZ34Z"
+      "duration_ms": 168160,
+      "name": "Hell Yeah",
+      "url": "https://open.spotify.com/track/3QHGfxhjexLaMKGHXagfRs"
     },
     {
       "added_at": null,
@@ -703,22 +699,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Heartz",
-        "url": "https://open.spotify.com/album/1POWgdYTzfFt9rhKlXFwsU"
+        "name": "President (feat. Ken Carson)",
+        "url": "https://open.spotify.com/album/6iTOKqu4Vl8q7oPzusfOB8"
       },
       "artists": [
         {
-          "name": "SoFaygo",
-          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+        },
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         },
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 168160,
-      "name": "Hell Yeah",
-      "url": "https://open.spotify.com/track/3QHGfxhjexLaMKGHXagfRs"
+      "duration_ms": 187496,
+      "name": "President (feat. Ken Carson)",
+      "url": "https://open.spotify.com/track/3wHQwZC88fNttgEGinZ34Z"
     },
     {
       "added_at": null,
@@ -775,22 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homixide Lifestyle 2",
-        "url": "https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk"
+        "name": "X",
+        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
       },
       "artists": [
         {
-          "name": "HXG",
-          "url": "https://open.spotify.com/artist/6N2Q9haXoRiIiSQTRv9MSb"
-        },
-        {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "HXG",
+          "url": "https://open.spotify.com/artist/6N2Q9haXoRiIiSQTRv9MSb"
         }
       ],
-      "duration_ms": 149594,
-      "name": "PB&J (with Ken Carson)",
-      "url": "https://open.spotify.com/track/1uJiHxYj2jMgbSTNiuf6zV"
+      "duration_ms": 165411,
+      "name": "Delinquent (feat. Homixide Gang)",
+      "url": "https://open.spotify.com/track/1PUwCOtQUOZrjAp8ljxGhE"
     },
     {
       "added_at": null,
@@ -847,22 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
+        "name": "Homixide Lifestyle 2",
+        "url": "https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk"
       },
       "artists": [
         {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
           "name": "HXG",
           "url": "https://open.spotify.com/artist/6N2Q9haXoRiIiSQTRv9MSb"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 165411,
-      "name": "Delinquent (feat. Homixide Gang)",
-      "url": "https://open.spotify.com/track/1PUwCOtQUOZrjAp8ljxGhE"
+      "duration_ms": 149594,
+      "name": "PB&J (with Ken Carson)",
+      "url": "https://open.spotify.com/track/1uJiHxYj2jMgbSTNiuf6zV"
     },
     {
       "added_at": null,

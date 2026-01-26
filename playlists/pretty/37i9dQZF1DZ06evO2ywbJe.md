@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 
 > This is Zlatan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,257 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,266 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 | 49 | [Lock up](https://open.spotify.com/track/1mlNCvGpnoYL7D01U9g3vx) | [Davolee](https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Lock up](https://open.spotify.com/album/0L1CwOjfxxtrVmubuDGQnR) | 3:55 |
 | 50 | [El Sucio Guapo](https://open.spotify.com/track/4q81vRYZVQnL818YhWghzn) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [The Flowolf](https://open.spotify.com/artist/1mcBWQVnnsPhMLCUB6iISP) | [SABALI](https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs) | 3:47 |
 
-Snapshot ID: `aXK6AAAAAADDpJFHxyOutWZgM3Zj/uZv`
+Snapshot ID: `aXQLgAAAAAB4me9cnFhqPPGRUNf/7mbk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSvQ8kha4pT.md) - [plain]
 
 > tú y yo, bebé, haciendo de todo 🧜🏼‍♀️ 🔥 😎 Foto: Feid, KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,920 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,919 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

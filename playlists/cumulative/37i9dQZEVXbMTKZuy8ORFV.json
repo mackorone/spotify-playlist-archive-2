@@ -2277,6 +2277,24 @@
     },
     {
       "album": {
+        "name": "Amor Joven",
+        "url": "https://open.spotify.com/album/3tXQ4KB2iMNNA0NulO6nc5"
+      },
+      "artists": [
+        {
+          "name": "Wayra Marka",
+          "url": "https://open.spotify.com/artist/2BY5sH6a6QsMdvLBULr9H5"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "Amor Joven",
+      "url": "https://open.spotify.com/track/1sYYo38zOx1PjlnBe3PWn2"
+    },
+    {
+      "album": {
         "name": "PITADA",
         "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
       },
@@ -4668,7 +4686,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 150733,
       "name": "Big Guy - from \"The SpongeBob Movie: Search for SquarePants\u201d",
       "url": "https://open.spotify.com/track/3HiCAjMaPfM4vnbhLhADBp"
@@ -22378,7 +22396,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-25",
+      "date_removed": null,
       "duration_ms": 201186,
       "name": "LOVE YOU LESS",
       "url": "https://open.spotify.com/track/5bhTUxSNkAZ4H3uFjSJRTY"
@@ -28200,7 +28218,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 185786,
       "name": "No Way Back (Feat. So!YoON!)",
       "url": "https://open.spotify.com/track/6u7J7OH56kiN2A7Pfv5D0i"
@@ -30040,6 +30058,24 @@
       "duration_ms": 115533,
       "name": "Paint The Town Blue (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx"
+    },
+    {
+      "album": {
+        "name": "How Did I Get Here?",
+        "url": "https://open.spotify.com/album/5Ihp8gEWnduyUdUqcxqkzB"
+      },
+      "artists": [
+        {
+          "name": "Louis Tomlinson",
+          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167747,
+      "name": "Palaces",
+      "url": "https://open.spotify.com/track/6Asusvso8663OBJJI5BQzF"
     },
     {
       "album": {
@@ -34406,7 +34442,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 173041,
       "name": "Saucin'",
       "url": "https://open.spotify.com/track/7jVr1ZipYJJR4qHxZcQjqa"
@@ -34874,7 +34910,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 120494,
       "name": "SENDA BELLAKONA",
       "url": "https://open.spotify.com/track/6g1u7IdhcA9rZUV3Pizsj8"
@@ -40048,7 +40084,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-25",
+      "date_removed": null,
       "duration_ms": 150802,
       "name": "Treme o Bumbum",
       "url": "https://open.spotify.com/track/4FhcXIwLE370GCMWe0FL0g"

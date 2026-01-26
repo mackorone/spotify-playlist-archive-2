@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 
 > This is Nicholas Craven\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 701 likes - 42 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 701 likes - 43 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 | 33 | [Meal Prepping](https://open.spotify.com/track/1miszn27p0hfXYkwVRWj5v) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Late to My Own Funeral](https://open.spotify.com/album/2oDcX1gb5edT6qXISrRw8W) | 2:46 |
 | 34 | [Formal Invite](https://open.spotify.com/track/6JAVPIgZPynxA3xKtd8WW0) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Penalty of Leadership](https://open.spotify.com/album/3jGa3xK9xpXMWpAN8JJ8NL) | 3:05 |
 | 35 | [Wit out a Question](https://open.spotify.com/track/0luxbKG9tGZuAuMaN6g4Tg) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Dump Gawd: Shot Clock King](https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs) | 2:26 |
-| 36 | [Anchor](https://open.spotify.com/track/6Zxwx0alt2Afe2N2h67xMa) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 2:41 |
-| 37 | [Wolfing Down](https://open.spotify.com/track/114lH2FW6ptiIv3MPwvRV3) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [Craven N](https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP) | 2:15 |
+| 36 | [Wolfing Down](https://open.spotify.com/track/114lH2FW6ptiIv3MPwvRV3) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [Craven N](https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP) | 2:15 |
+| 37 | [Anchor](https://open.spotify.com/track/6Zxwx0alt2Afe2N2h67xMa) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 2:41 |
 | 38 | [Early Worms Get Birds](https://open.spotify.com/track/2Jhku0aj90zNf1d1S8HECm) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Double Dee](https://open.spotify.com/artist/0VCa5LsylPVCUo93jxHCYe) | [Penalty of Leadership](https://open.spotify.com/album/3jGa3xK9xpXMWpAN8JJ8NL) | 3:02 |
 | 39 | [Hyperbolic Time Chamber Rap 3](https://open.spotify.com/track/1bxorwwnZ6GSWPrTJUGYaY) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Ultimate Dump Gawd](https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP) | 2:19 |
 | 40 | [Final Destination](https://open.spotify.com/track/4OAEMH3QS3o69ww6wKrNQS) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Deleted Scenes](https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5) | 3:08 |
 | 41 | [Opulence](https://open.spotify.com/track/0CQpw44VyarpOO0YPZm37A) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 3:42 |
-| 42 | [Deliver Us from Evil](https://open.spotify.com/track/1M96cEfrbRbrOG5XuLaHn7) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Deleted Scenes](https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5) | 2:07 |
+| 42 | [Tha Riddle of Steel](https://open.spotify.com/track/54Ok7I4CgsfiMQ7NgtHUHj) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Ultimate Dump Gawd](https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP) | 2:18 |
+| 43 | [Deliver Us from Evil](https://open.spotify.com/track/1M96cEfrbRbrOG5XuLaHn7) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Deleted Scenes](https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5) | 2:07 |
 
-Snapshot ID: `aXK6AAAAAACSdhDQIl0l2ialk2lJ7e3s`
+Snapshot ID: `aXQLgAAAAADUG5GpolUkm9oVRk5lxAA6`

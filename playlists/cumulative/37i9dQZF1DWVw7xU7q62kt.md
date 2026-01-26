@@ -4,13 +4,13 @@
 
 > Beats with a flavour of Jazz.
 
-751 songs - 1 day 8 hr 12 min
+752 songs - 1 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [27](https://open.spotify.com/track/346Hiyp2wyMN08fl0z7t79) | [Jerk](https://open.spotify.com/artist/47fuoUqgL8n7eSQsSdaCQf) | [27](https://open.spotify.com/album/56hNC7GNHedAE0YRApsJXI) | 3:03 | 2024-03-08 | 2024-10-02 |
 | [2Am](https://open.spotify.com/track/6dUqAgH7Ea6fqQUWnaMOPE) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [2Am](https://open.spotify.com/album/3ZVitlJ8CbhRnGHcQpqxyy) | 2:29 | 2025-11-14 |  |
-| [360](https://open.spotify.com/track/4QGfdVijQI9cagDfWoJD5i) | [Intoku](https://open.spotify.com/artist/0Eoy1XlOfZ0xiHKayBoJbi) | [360](https://open.spotify.com/album/3Jz14bSCFU3f56kef6Oasy) | 2:33 | 2025-09-12 |  |
+| [360](https://open.spotify.com/track/4QGfdVijQI9cagDfWoJD5i) | [Intoku](https://open.spotify.com/artist/0Eoy1XlOfZ0xiHKayBoJbi) | [360](https://open.spotify.com/album/3Jz14bSCFU3f56kef6Oasy) | 2:33 | 2025-09-12 | 2026-01-26 |
 | [4:16am \(45\)](https://open.spotify.com/track/5GYgzN1P8vDy7BoqPOeQAi) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [30/108](https://open.spotify.com/album/3AJCY0q66jb1ItviCx4wnQ) | 2:33 | 2024-08-23 | 2025-04-12 |
 | [4AM](https://open.spotify.com/track/1NfA2flJzq8n6OOyu1bBhY) | [Bomshi](https://open.spotify.com/artist/6s7sxozM3KaMc1b6MKjAWz), [minimog](https://open.spotify.com/artist/0fBNLX3OVz4zGbZNFuOiwf) | [4AM](https://open.spotify.com/album/2o4kD6y4DZEYZy2MgXHNRI) | 1:42 | 2025-12-05 | 2026-01-15 |
 | [713](https://open.spotify.com/track/5EWPXmBa949HMMe3s611CW) | [James Francies](https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX) | [713](https://open.spotify.com/album/14TEvd0noEV6MVNlAmjbWf) | 5:21 | 2023-08-22 | 2024-09-07 |
@@ -402,6 +402,7 @@
 | [Mocuba](https://open.spotify.com/track/4MKLZY1A7sTZBJjgRe6DJt) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Mocuba](https://open.spotify.com/album/77okibn84VPQ1fJ2bYBAgc) | 1:49 | 2025-07-11 |  |
 | [Mojave](https://open.spotify.com/track/3JoDvIn0bE0PAO6ICKpDOT) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Mojave](https://open.spotify.com/album/4D8rZuw0TU2n4I34bretGk) | 1:56 | 2024-10-18 | 2025-03-04 |
 | [Mollo](https://open.spotify.com/track/2zAW1pqECiIMWZ9CvqpdS2) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Galerie](https://open.spotify.com/album/1F7A1rsVd20Rpa4x8Hb5gJ) | 1:54 | 2023-08-22 | 2025-04-12 |
+| [Momentum Flow](https://open.spotify.com/track/06SUlIhPXkbxHB0Wg7Mnzi) | [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Coloured Rocks](https://open.spotify.com/artist/4CMUg0w1aGMdiWjfl3zI8t), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Momentum Flow](https://open.spotify.com/album/2KqtMvnseloaL11MsQndYg) | 2:32 | 2026-01-24 |  |
 | [Mont Kiara](https://open.spotify.com/track/2V5QRfFA9DdwfEf3pdNCle) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Mont Kiara](https://open.spotify.com/album/76D4vg3NOaJAL4vbl5KIxw) | 2:15 | 2024-12-13 |  |
 | [Montrose Forest featuring Nicholas Payton](https://open.spotify.com/track/5KDVm18IS8nave70ihVFqN) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Montrose Forest featuring Nicholas Payton](https://open.spotify.com/album/712rPLxjRtWqRjLgKOlMp8) | 4:04 | 2024-11-08 | 2025-01-25 |
 | [Moon Over The Sea](https://open.spotify.com/track/0CW2CierRaSZ1T4zB2VuvA) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Paxkalito](https://open.spotify.com/artist/3GzNXHI7uiWVe0TnkUvP0f) | [Moon Over The Sea](https://open.spotify.com/album/1OaRUJ0SYlGfOetqTsy3vg) | 2:14 | 2025-05-23 | 2025-06-14 |

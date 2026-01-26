@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Where faith meets R&B\. Cover: SONDAE
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,083 likes - 99 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,172 likes - 99 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 98 | [In Christ Alone](https://open.spotify.com/track/781KXCX8oa31Rldiq8at2l) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [In Christ Alone](https://open.spotify.com/album/18GgBg1cy64vPbAMB074DH) | 2:12 |
 | 99 | [Look What God Did](https://open.spotify.com/track/1vnwGGophH803Bz1B83nQr) | [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk) | [Look What God Did](https://open.spotify.com/album/1M8gr70b67T3bEbe1H1aIH) | 1:51 |
 
-Snapshot ID: `AAAAAMTLq9JJh8NMWoOOYzvErklxSJx1`
+Snapshot ID: `AAAAANAUIxQrFgvSxv5RM+Gi9mwJtcv7`

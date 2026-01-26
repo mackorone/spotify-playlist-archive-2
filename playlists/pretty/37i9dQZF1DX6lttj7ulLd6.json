@@ -1,6 +1,6 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 372119,
+  "num_followers": 372391,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-01-21 15:00:25",
       "album": {
-        "name": "Chill Factor",
-        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 276360,
-      "name": "Deep Touch",
-      "url": "https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW"
-    },
-    {
-      "added_at": "2026-01-21 15:00:25",
-      "album": {
         "name": "Divine Morning",
         "url": "https://open.spotify.com/album/4sR1UNCsD2Q8wrNPCh80jS"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 213813,
       "name": "Divine Morning",
       "url": "https://open.spotify.com/track/76NCiXYW0Be1Cxgi6tXXX7"
+    },
+    {
+      "added_at": "2026-01-21 15:00:25",
+      "album": {
+        "name": "Chill Factor",
+        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 276360,
+      "name": "Deep Touch",
+      "url": "https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW"
     },
     {
       "added_at": "2026-01-21 15:00:25",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-01-21 15:00:25",
       "album": {
-        "name": "Smooth Creations the Album, Pt. 1",
-        "url": "https://open.spotify.com/album/5NRxQH0cNTSE9JsssWVYDI"
-      },
-      "artists": [
-        {
-          "name": "Jeffery Smith",
-          "url": "https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2"
-        }
-      ],
-      "duration_ms": 376000,
-      "name": "Let's Get It Started",
-      "url": "https://open.spotify.com/track/27ALXHt5hgiu3iAUyStMcx"
-    },
-    {
-      "added_at": "2026-01-21 15:00:25",
-      "album": {
         "name": "Whisper",
         "url": "https://open.spotify.com/album/6DD1eTmqLTQ3v3XzVCTj8g"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 256295,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/69JjWeUmsarsFqxkIROVuY"
+    },
+    {
+      "added_at": "2026-01-21 15:00:25",
+      "album": {
+        "name": "Smooth Creations the Album, Pt. 1",
+        "url": "https://open.spotify.com/album/5NRxQH0cNTSE9JsssWVYDI"
+      },
+      "artists": [
+        {
+          "name": "Jeffery Smith",
+          "url": "https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2"
+        }
+      ],
+      "duration_ms": 376000,
+      "name": "Let's Get It Started",
+      "url": "https://open.spotify.com/track/27ALXHt5hgiu3iAUyStMcx"
     },
     {
       "added_at": "2026-01-21 15:00:25",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2026-01-21 15:00:25",
       "album": {
-        "name": "Pearls",
-        "url": "https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF"
-      },
-      "artists": [
-        {
-          "name": "Gail Jhonson",
-          "url": "https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc"
-        },
-        {
-          "name": "Nelson Braxton",
-          "url": "https://open.spotify.com/artist/3Jd4iNOHLWDkR3hAER3GLt"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "Pacific Breeze",
-      "url": "https://open.spotify.com/track/2dYkPKqJHjz9GIQ33grJaN"
-    },
-    {
-      "added_at": "2026-01-21 15:00:25",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 236960,
       "name": "Two of a Kind (feat. Chuck Loeb)",
       "url": "https://open.spotify.com/track/0rG2XJ2nMojj2dFMkpfSJ7"
+    },
+    {
+      "added_at": "2026-01-21 15:00:25",
+      "album": {
+        "name": "Pearls",
+        "url": "https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF"
+      },
+      "artists": [
+        {
+          "name": "Gail Jhonson",
+          "url": "https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc"
+        },
+        {
+          "name": "Nelson Braxton",
+          "url": "https://open.spotify.com/artist/3Jd4iNOHLWDkR3hAER3GLt"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Pacific Breeze",
+      "url": "https://open.spotify.com/track/2dYkPKqJHjz9GIQ33grJaN"
     },
     {
       "added_at": "2026-01-21 15:00:25",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-01-21 15:00:25",
       "album": {
+        "name": "Paks",
+        "url": "https://open.spotify.com/album/1gIvY2Q98QNFO4oLsC37jW"
+      },
+      "artists": [
+        {
+          "name": "Lndoner",
+          "url": "https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7"
+        }
+      ],
+      "duration_ms": 168888,
+      "name": "Paks",
+      "url": "https://open.spotify.com/track/3f526KslwaHSuamZFabgvk"
+    },
+    {
+      "added_at": "2026-01-21 15:00:25",
+      "album": {
         "name": "Club 1600",
         "url": "https://open.spotify.com/album/6iUHScjeLYf1SiN2WmRM3z"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 283000,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2q0sURcwpuIIZ9CIcivt6x"
-    },
-    {
-      "added_at": "2026-01-21 15:00:25",
-      "album": {
-        "name": "Paks",
-        "url": "https://open.spotify.com/album/1gIvY2Q98QNFO4oLsC37jW"
-      },
-      "artists": [
-        {
-          "name": "Lndoner",
-          "url": "https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7"
-        }
-      ],
-      "duration_ms": 168888,
-      "name": "Paks",
-      "url": "https://open.spotify.com/track/3f526KslwaHSuamZFabgvk"
     },
     {
       "added_at": "2026-01-21 15:00:25",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-01-21 15:00:25",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 262666,
-      "name": "Lost and Found",
-      "url": "https://open.spotify.com/track/58bVhACMXuFvNVfojvvDKC"
-    },
-    {
-      "added_at": "2026-01-21 15:00:25",
-      "album": {
         "name": "Chesterfield",
         "url": "https://open.spotify.com/album/3t0D1c9i4CSbrI0d02PdTE"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 183969,
       "name": "Chesterfield",
       "url": "https://open.spotify.com/track/6hNgsrHsGMeeN9BOGXZX8X"
+    },
+    {
+      "added_at": "2026-01-21 15:00:25",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 262666,
+      "name": "Lost and Found",
+      "url": "https://open.spotify.com/track/58bVhACMXuFvNVfojvvDKC"
     },
     {
       "added_at": "2026-01-21 15:00:25",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-01-21 15:00:25",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 414834,
-      "name": "Squeeze Me",
-      "url": "https://open.spotify.com/track/6dSzZ1ll6LwJ7OG5U1w7RG"
-    },
-    {
-      "added_at": "2026-01-21 15:00:25",
-      "album": {
         "name": "Influences",
         "url": "https://open.spotify.com/album/7pJZjU3feX0JRmJsyNMUKk"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 264440,
       "name": "When You Love Somebody",
       "url": "https://open.spotify.com/track/7AeS3Lkmps2klORaU65IMq"
+    },
+    {
+      "added_at": "2026-01-21 15:00:25",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 414834,
+      "name": "Squeeze Me",
+      "url": "https://open.spotify.com/track/6dSzZ1ll6LwJ7OG5U1w7RG"
     },
     {
       "added_at": "2026-01-21 15:00:25",

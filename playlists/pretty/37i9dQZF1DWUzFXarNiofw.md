@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Joyce Wrice
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,113,109 likes - 199 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,113,106 likes - 199 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

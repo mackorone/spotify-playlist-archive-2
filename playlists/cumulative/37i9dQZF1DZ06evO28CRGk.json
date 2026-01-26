@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 234466,
       "name": "Don't Touch That Phone",
       "url": "https://open.spotify.com/track/5XweTODWq5Fp93bcXVLYMq"
@@ -3720,6 +3720,24 @@
       "duration_ms": 185853,
       "name": "The Veteran",
       "url": "https://open.spotify.com/track/0BgDyBZxY6Co2J1W7yf0a1"
+    },
+    {
+      "album": {
+        "name": "Canned Goods",
+        "url": "https://open.spotify.com/album/5jEiB3VnjRFD1sOTpChayh"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180986,
+      "name": "Think Of U Now",
+      "url": "https://open.spotify.com/track/1JSbCqvKPjtJ2uQNzfIeiY"
     },
     {
       "album": {

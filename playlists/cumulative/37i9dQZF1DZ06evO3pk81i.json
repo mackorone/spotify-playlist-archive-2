@@ -1233,6 +1233,28 @@
     },
     {
       "album": {
+        "name": "Luna De Miel",
+        "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174210,
+      "name": "Que Vas a Hacer (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/4TQQ4KWBUDhhP6QhbzgJdy"
+    },
+    {
+      "album": {
         "name": "Que Vas a Hacer (Version Norte\u00f1a)",
         "url": "https://open.spotify.com/album/25aRwgpKOnQHqOj6HJvQiz"
       },
@@ -1248,7 +1270,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 174210,
       "name": "Que Vas a Hacer (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/6BqyOf8ofcTaeSEuPDntIc"
@@ -1386,7 +1408,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 227213,
       "name": "Soy Aquel",
       "url": "https://open.spotify.com/track/05ADejXF6OzAvOT32K7r7a"
@@ -1448,7 +1470,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 201706,
       "name": "Te Quiero a Ti (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/1iu43Iufwvx3tk4svcNKxZ"

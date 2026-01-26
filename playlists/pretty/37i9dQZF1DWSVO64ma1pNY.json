@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 300808,
+  "num_followers": 300813,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt"
-      },
-      "artists": [
-        {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Why Worry",
-      "url": "https://open.spotify.com/track/39ShyO1yBCiEoEXHX9ie0F"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Cry Wolf",
         "url": "https://open.spotify.com/album/2mSsjlndP7hegCkRi8udPm"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 264403,
       "name": "Cry Wolf",
       "url": "https://open.spotify.com/track/2d1HZ8HtdvqI5oqt7gpnB8"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "Why Worry",
+      "url": "https://open.spotify.com/track/39ShyO1yBCiEoEXHX9ie0F"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -971,8 +971,8 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "But Here We Are",
-        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+        "name": "Rescued",
+        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
       },
       "artists": [
         {
@@ -980,9 +980,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 283469,
-      "name": "But Here We Are",
-      "url": "https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H"
+      "duration_ms": 258648,
+      "name": "Rescued",
+      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 283469,
+      "name": "But Here We Are",
+      "url": "https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
         "name": "Pulling Teeth",
         "url": "https://open.spotify.com/album/2lZr3iSgftGuE3AqAs9l1x"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 211117,
       "name": "Pulling Teeth",
       "url": "https://open.spotify.com/track/4a3nl8VK9ookqco7tAB2h5"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
-        "name": "Rescued",
-        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 258648,
-      "name": "Rescued",
-      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
+        "name": "Medicine At Midnight",
+        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 261511,
+      "name": "Love Dies Young",
+      "url": "https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
         "name": "Times Like These",
         "url": "https://open.spotify.com/album/6Z5yJdtzpyuZoZ6Pv9batS"
       },
@@ -1211,18 +1227,18 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Medicine At Midnight",
-        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+        "name": "Life Under The Gun",
+        "url": "https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
         }
       ],
-      "duration_ms": 261511,
-      "name": "Love Dies Young",
-      "url": "https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ"
+      "duration_ms": 140027,
+      "name": "Never Fucked Up Once",
+      "url": "https://open.spotify.com/track/1PaGbgK8KEwtaukD0YzGsi"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1239,22 +1255,6 @@
       "duration_ms": 185769,
       "name": "hot girl bummer",
       "url": "https://open.spotify.com/track/1GIofMbTz83fXqNrEuf4bA"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
-        "name": "Life Under The Gun",
-        "url": "https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi"
-      },
-      "artists": [
-        {
-          "name": "Militarie Gun",
-          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
-        }
-      ],
-      "duration_ms": 140027,
-      "name": "Never Fucked Up Once",
-      "url": "https://open.spotify.com/track/1PaGbgK8KEwtaukD0YzGsi"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Poison The Parish",
-        "url": "https://open.spotify.com/album/4tCocFTR2QupxCkk9EMY58"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 250213,
-      "name": "Let You Down",
-      "url": "https://open.spotify.com/track/2UcXM8xEP95IYz7rguHSnA"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Fail You",
         "url": "https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 186052,
       "name": "Fail You",
       "url": "https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Poison The Parish",
+        "url": "https://open.spotify.com/album/4tCocFTR2QupxCkk9EMY58"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 250213,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/2UcXM8xEP95IYz7rguHSnA"
     },
     {
       "added_at": "2024-12-03 09:27:47",

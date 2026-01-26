@@ -2,9 +2,9 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: STARGLOW
+> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: Stray Kids
 
-868 songs - 1 day 23 hr 32 min
+871 songs - 1 day 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [365](https://open.spotify.com/track/4SbqbV7PNm5JNurMFHfVlG) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [365](https://open.spotify.com/album/0raiWiXNjAYJHjilr3DJAS) | 3:33 | 2025-06-17 | 2025-08-30 |
 | [366日](https://open.spotify.com/track/66NAy1FnkkF7Phkpkg52nA) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM), [與那城奨](https://open.spotify.com/artist/3e8u8G5lYrmLijn9JcG2Ly) | [366日](https://open.spotify.com/album/58WW9mLbx7C8G2Ob90ormT) | 5:50 | 2024-04-23 | 2025-03-07 |
 | [366日](https://open.spotify.com/track/1ZqhXy7BcjqNYgWWRTm04v) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM), [藤牧京介](https://open.spotify.com/artist/6aSXOB3rXi0nLXVmmC4jhz) | [366日](https://open.spotify.com/album/52mNHSoryRNd6DRndTwg6V) | 5:50 | 2024-05-07 | 2024-05-22 |
+| [3XL](https://open.spotify.com/track/2wPyVJ04PfumGZQ5bJEVVj) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [3XL](https://open.spotify.com/album/56V9F6bbdFCm9GI2UocOcN) | 2:45 | 2026-01-25 |  |
 | [5, 4, 3 \(Pretty woman\) \(feat\. Lay Bankz\)](https://open.spotify.com/track/4eTDkRxOmm4llv4Yr1bteq) | [CxM](https://open.spotify.com/artist/7kjuLdYbtTkWBToMu2ebZN), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [CxM 1st Mini Album ‘HYPE VIBES’](https://open.spotify.com/album/4PxPsw7YFuzBaJZ3dHUV55) | 2:46 | 2025-09-30 |  |
 | [7](https://open.spotify.com/track/4mC89qjoyPrT39oRKNX9Lt) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [7](https://open.spotify.com/album/6kvndxfdqrM13ConnAR0ve) | 3:13 | 2024-10-16 | 2024-11-06 |
 | [96ers](https://open.spotify.com/track/6AvxOYstG9cCD4RVQp4aJz) | [HxW](https://open.spotify.com/artist/1EReYiseDwE51FzGm7EK9n) | [HxW 1st Single Album 'BEAM'](https://open.spotify.com/album/4SOFnzIWYI2JU9ypuQX2E4) | 2:45 | 2025-03-09 | 2025-06-13 |
@@ -124,7 +125,7 @@
 | [Calendar](https://open.spotify.com/track/4A0QbCROQJ6AdGc9SGyzxu) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Calendar](https://open.spotify.com/album/4B6DzQsVrjXtZmxYUlJ9SE) | 3:38 | 2023-12-19 | 2024-01-17 |
 | [Call Me](https://open.spotify.com/track/6lmEozWswCzaSr6SS3Klsq) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [FREQUENCY \- The 6th Mini Album](https://open.spotify.com/album/6PmkuHFyelDURr3QlbFY3K) | 3:40 | 2025-03-06 | 2025-04-05 |
 | [CALL ME BACK](https://open.spotify.com/track/7EaR2YLNoIDFgmEBdTh1NS) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [CALL ME BACK](https://open.spotify.com/album/4x65qm15EE2YTLUIJLX4b5) | 3:10 | 2026-01-22 |  |
-| [Can't Stop](https://open.spotify.com/track/0bhKpG1BqJnZiBPxPkKTkH) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Starkissed](https://open.spotify.com/album/6iPNWX9dibeWPMaVuhRKEw) | 2:24 | 2025-10-20 |  |
+| [Can't Stop](https://open.spotify.com/track/0bhKpG1BqJnZiBPxPkKTkH) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Starkissed](https://open.spotify.com/album/6iPNWX9dibeWPMaVuhRKEw) | 2:24 | 2025-10-20 | 2026-01-26 |
 | [Candle](https://open.spotify.com/track/74lbuos2VK1VChqCTkaSx8) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [KAIRYU](https://open.spotify.com/artist/7HEUaKo6XaZ3UZtD9TuWi9), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [TYOISM Vol.1 \(Deluxe Edition\)](https://open.spotify.com/album/7J24SqIYUkolU56WoIOwTM) | 2:51 | 2025-04-29 | 2025-05-28 |
 | [Candy House](https://open.spotify.com/track/4w91Af7ajtaWaKBFEzs9eE) | [SW:C](https://open.spotify.com/artist/17kzjtrmZ96anZT250z1Nr) | [1st Single album : Sweet Day](https://open.spotify.com/album/5hcOx3fLiB7gc8DJvQ4DzJ) | 2:58 | 2025-04-21 | 2025-07-23 |
 | [Candy Kiss](https://open.spotify.com/track/6xRRLIrxljDrTkPKrI97B1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Candy Kiss](https://open.spotify.com/album/16NHuaRilxZNcZ8OdJD3pK) | 3:19 | 2023-11-23 | 2024-01-23 |
@@ -375,7 +376,7 @@
 | [Last Festival](https://open.spotify.com/track/4eDednnc8XIGpOmRNcho66) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Single 'Last Bell'](https://open.spotify.com/album/1wDhFS3mm7PlF93J6tu8My) | 3:11 | 2025-03-06 | 2025-04-03 |
 | [Last Forever](https://open.spotify.com/track/0MoeICxt3WhCE4WN6y5XS3) | [Last Forever from BATTLE BOYS](https://open.spotify.com/artist/56N4RRJO3XMpJdFo2hhWpn) | [Last Forever](https://open.spotify.com/album/2WQamz2EQH2hxjsAPAwSL9) | 3:33 | 2024-07-30 | 2024-08-23 |
 | [Last Kiss](https://open.spotify.com/track/40YRfhvs1XDqQmjljboKqR) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single \[Last Kiss\]](https://open.spotify.com/album/0L01Rni8NhUiM7e6jQt5oJ) | 3:28 | 2025-03-06 | 2025-03-18 |
-| [LAVALAVA](https://open.spotify.com/track/0JZCdHGFgJ3GaYIWMQXOyw) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅱ \(Deluxe\)](https://open.spotify.com/album/0fgCO7l43wg9ebODXb7Pw2) | 3:12 | 2025-11-30 |  |
+| [LAVALAVA](https://open.spotify.com/track/0JZCdHGFgJ3GaYIWMQXOyw) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅱ \(Deluxe\)](https://open.spotify.com/album/0fgCO7l43wg9ebODXb7Pw2) | 3:12 | 2025-11-30 | 2026-01-26 |
 | [Legend](https://open.spotify.com/track/0MJDZx2w1yY9gJuIfRkCOp) | [SUPER★DRAGON](https://open.spotify.com/artist/2O86rYMEuvyrkOhyooK87W) | [Dreamland](https://open.spotify.com/album/0MHDXlAXTqCzxHOHQQPjXi) | 3:12 | 2025-03-26 | 2025-04-30 |
 | [LEGGO](https://open.spotify.com/track/0Etk5PtxW6m3zDYR9Eb7W2) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [LEGGO](https://open.spotify.com/album/1Q7A27EREoht3InaYb51VP) | 2:48 | 2025-03-06 | 2025-05-26 |
 | [LEGIT](https://open.spotify.com/track/4I8UCCTQMhCV1tUo6V2KmW) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [LEGIT](https://open.spotify.com/album/5nCj3iJFyQRysLH46vIySh) | 3:34 | 2024-02-06 | 2024-05-13 |
@@ -623,6 +624,7 @@
 | [Spacecraft](https://open.spotify.com/track/0zSghGGFtB2riQEwUUrU96) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Spacecraft](https://open.spotify.com/album/2NOfMu6QwFqseghQm1OMEw) | 3:13 | 2025-02-04 | 2025-04-24 |
 | [Sparkle Summer](https://open.spotify.com/track/69dL4ZFvQFW0Aq0OHnMkTu) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Sparkle Summer](https://open.spotify.com/album/4jA7yKF3SEALY8YmmCPzw1) | 3:10 | 2025-07-08 | 2025-07-15 |
 | [SPICE feat\. F.HERO & BEAR KNUCKLE](https://open.spotify.com/track/3DBD5ycENXcDM3D86h7G5K) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Bear Knuckle](https://open.spotify.com/artist/2NebavOcCJEGrt0wFUjDnO) | [SPICE feat\. F.HERO & BEAR KNUCKLE](https://open.spotify.com/album/4OVmL13BgYxXgsH2ruGGNz) | 4:01 | 2023-12-21 | 2024-01-20 |
+| [SSS \(Sending Secret Signals\) feat\. HYDE](https://open.spotify.com/track/6dlZBdjZKDrm94ukNDQAs4) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [SSS \(Sending Secret Signals\) feat\. HYDE](https://open.spotify.com/album/13MAyPPM3zdF5B1ywBWPm8) | 3:07 | 2026-01-25 |  |
 | [Stage of the Universe](https://open.spotify.com/track/1fICTXN9i47EpvMKvVDILq) | [EBiDAN \(恵比寿学園男子部\)](https://open.spotify.com/artist/4jtwvvkDVrBZosFsvbSLXm) | [Stage of the Universe](https://open.spotify.com/album/75LIHQCfDT4otXAhczkn9z) | 3:33 | 2024-01-02 | 2024-01-10 |
 | [Star Wish](https://open.spotify.com/track/7932DENhO9bz8Hf7RQDqln) | [STARGLOW](https://open.spotify.com/artist/1iw2iFU0Tpq7xvkX4VZyfZ) | [Star Wish](https://open.spotify.com/album/5ODIAdS7VHHBbMLHyyFsEw) | 3:09 | 2026-01-19 |  |
 | [STARBOYS](https://open.spotify.com/track/1t4pem876QGWXXaBKLktMR) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [STARBOYS](https://open.spotify.com/album/5Q33AkiYXkiY7wqRq2MmeY) | 3:28 | 2023-11-23 | 2023-12-06 |
@@ -845,6 +847,7 @@
 | [存在証明](https://open.spotify.com/track/5r155xSpSZOrYZett0N7hX) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [PHENOMENON](https://open.spotify.com/album/0zXQvdFAbXpptoCqBliBjB) | 3:25 | 2025-03-06 | 2025-04-03 |
 | [存在証明](https://open.spotify.com/track/0r1o3u1hfslfqiAu5ZA51O) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [存在証明](https://open.spotify.com/album/5ltpF1aQJAWeuEIBgpU6dK) | 3:27 | 2023-11-23 | 2024-01-31 |
 | [宵々祭](https://open.spotify.com/track/3GAp2jMYYULw04YMRVFxKF) | [手島章斗](https://open.spotify.com/artist/7mCzkv3ev49sg1PRtegoH9) | [宵々祭](https://open.spotify.com/album/5UCin9zq9mkLqFwGAXnDf5) | 3:24 | 2024-06-12 | 2024-07-10 |
+| [宿命](https://open.spotify.com/track/4VwkODja7853Fz1FWzp126) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Hollow](https://open.spotify.com/album/3gWYgYUqqyz7BZgGiIGDql) | 3:00 | 2026-01-25 |  |
 | [心盗夜](https://open.spotify.com/track/0r8o7thnwGB9xFbdesiebK) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [心盗夜](https://open.spotify.com/album/2WDl6ec11JYqKSDAUlo0u0) | 2:53 | 2025-11-05 | 2026-01-15 |
 | [悪戯な天使 \- Itazurana Tenshi](https://open.spotify.com/track/5OScYgWsvZ5jgbDascFV6F) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [悪戯な天使 \(Itazurana Tenshi\)](https://open.spotify.com/album/6fkeAdFCBSQRF4Wb8KBfTO) | 4:30 | 2025-10-24 | 2025-12-13 |
 | [愛が通り過ぎた跡](https://open.spotify.com/track/6lYyAMPOD6XXVNrVyxakAL) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [愛が通り過ぎた跡](https://open.spotify.com/album/1IprJ7zbzRu4w0OhmBc14n) | 3:04 | 2025-07-13 | 2025-09-01 |

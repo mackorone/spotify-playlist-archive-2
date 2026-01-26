@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 70239,
+  "num_followers": 70242,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXK6AAAAAAB0STgofKkKq3n4AcDFhaon",
+  "snapshot_id": "aXQLgAAAAACCxAEEt8An1FNEW4rYwJy3",
   "tracks": [
     {
       "added_at": null,
@@ -927,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palmeras",
-        "url": "https://open.spotify.com/album/44T0wt9lD2FnxPg5d2qXJL"
-      },
-      "artists": [
-        {
-          "name": "India Martinez",
-          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Besos Escond\u00edos (feat. Pedro Cap\u00f3)",
-      "url": "https://open.spotify.com/track/2GzZdNShX80JKeeGSwYtCu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Quito el Sombrero (En Vivo Desde Guanajuato)",
         "url": "https://open.spotify.com/album/7cT5blE7IUCgqb20TzbQiJ"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 263640,
       "name": "El Aprendiz (with Pedro Cap\u00f3) - En Vivo Desde Guanajuato",
       "url": "https://open.spotify.com/track/6wC2vAyhQo40HeENRI23aq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palmeras",
+        "url": "https://open.spotify.com/album/44T0wt9lD2FnxPg5d2qXJL"
+      },
+      "artists": [
+        {
+          "name": "India Martinez",
+          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Besos Escond\u00edos (feat. Pedro Cap\u00f3)",
+      "url": "https://open.spotify.com/track/2GzZdNShX80JKeeGSwYtCu"
     },
     {
       "added_at": null,

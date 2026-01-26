@@ -790,7 +790,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 187125,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/5Fr4RpT1YVZHJ5L7CkCDfn"
@@ -5392,6 +5392,24 @@
       "duration_ms": 188725,
       "name": "River on Strings",
       "url": "https://open.spotify.com/track/4KPxKVV0wKUbEi2D08RStc"
+    },
+    {
+      "album": {
+        "name": "River Tales",
+        "url": "https://open.spotify.com/album/7wrZMqzlcdbZI6x0qvv9eM"
+      },
+      "artists": [
+        {
+          "name": "The Nature Within",
+          "url": "https://open.spotify.com/artist/4LgA06Jj6GDhOcZYAWFeJ0"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155705,
+      "name": "River Tales",
+      "url": "https://open.spotify.com/track/6HxUTe2fY3WiHJDh3ZjH7Y"
     },
     {
       "album": {

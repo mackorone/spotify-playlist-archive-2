@@ -1,6 +1,6 @@
 {
   "description": "\u604b\u3057\u3066\u308b\u3042\u306a\u305f\u306b\u5bc4\u308a\u6dfb\u3046\u3001\u7d20\u6575\u306a\u30e9\u30d6\u30bd\u30f3\u30b0\u3092\u96c6\u3081\u307e\u3057\u305f\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 187410,
+  "num_followers": 187475,
   "original_name": "\u604b\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-01-21 01:18:20",
       "album": {
-        "name": "I believe in you",
-        "url": "https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL"
-      },
-      "artists": [
-        {
-          "name": "\u5ddd\u5d0e\u9df9\u4e5f",
-          "url": "https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k"
-        }
-      ],
-      "duration_ms": 313877,
-      "name": "\u541b\u306e\u70ba\u306e\u30ad\u30df\u30ce\u30a6\u30bf",
-      "url": "https://open.spotify.com/track/56Cdqx7BdhEsUUMctdORvU"
-    },
-    {
-      "added_at": "2026-01-21 01:18:20",
-      "album": {
         "name": "BABY",
         "url": "https://open.spotify.com/album/2dp6XnYilNlELoSnGzSIdG"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 230751,
       "name": "BABY",
       "url": "https://open.spotify.com/track/7j0fGg4xd1Lo1zPcUDV1T6"
+    },
+    {
+      "added_at": "2026-01-21 01:18:20",
+      "album": {
+        "name": "I believe in you",
+        "url": "https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL"
+      },
+      "artists": [
+        {
+          "name": "\u5ddd\u5d0e\u9df9\u4e5f",
+          "url": "https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k"
+        }
+      ],
+      "duration_ms": 313877,
+      "name": "\u541b\u306e\u70ba\u306e\u30ad\u30df\u30ce\u30a6\u30bf",
+      "url": "https://open.spotify.com/track/56Cdqx7BdhEsUUMctdORvU"
     },
     {
       "added_at": "2026-01-21 01:18:20",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-01-21 01:18:20",
       "album": {
-        "name": "\u6ce3\u304d\u305f\u304f\u306a\u308b\u307b\u3069\u5b09\u3057\u3044\u65e5\u3005\u306b",
-        "url": "https://open.spotify.com/album/4uSVHc1t7GkuQOdAm7mcXq"
-      },
-      "artists": [
-        {
-          "name": "Creep Hyp",
-          "url": "https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8"
-        }
-      ],
-      "duration_ms": 261546,
-      "name": "\u681e",
-      "url": "https://open.spotify.com/track/2Bsg6EfrmEx0x0eC8v4vuG"
-    },
-    {
-      "added_at": "2026-01-21 01:18:20",
-      "album": {
         "name": "\u602a\u76d7",
         "url": "https://open.spotify.com/album/4WQ8gG1ItkCzFBnG7P20YR"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 196226,
       "name": "\u602a\u76d7",
       "url": "https://open.spotify.com/track/10Eyo4juZQFthKqlJgGMdp"
+    },
+    {
+      "added_at": "2026-01-21 01:18:20",
+      "album": {
+        "name": "\u6ce3\u304d\u305f\u304f\u306a\u308b\u307b\u3069\u5b09\u3057\u3044\u65e5\u3005\u306b",
+        "url": "https://open.spotify.com/album/4uSVHc1t7GkuQOdAm7mcXq"
+      },
+      "artists": [
+        {
+          "name": "Creep Hyp",
+          "url": "https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8"
+        }
+      ],
+      "duration_ms": 261546,
+      "name": "\u681e",
+      "url": "https://open.spotify.com/track/2Bsg6EfrmEx0x0eC8v4vuG"
     },
     {
       "added_at": "2026-01-21 01:18:20",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-01-21 01:18:20",
       "album": {
+        "name": "\u4e16\u754c\u304c\u7d42\u308f\u308a\u307e\u3057\u305f",
+        "url": "https://open.spotify.com/album/1Ztds5OynOrMcfkPLi47Ps"
+      },
+      "artists": [
+        {
+          "name": "Yuuri",
+          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+        }
+      ],
+      "duration_ms": 254626,
+      "name": "\u4e16\u754c\u304c\u7d42\u308f\u308a\u307e\u3057\u305f",
+      "url": "https://open.spotify.com/track/5XyD56RYaj2XGxfyc34jQD"
+    },
+    {
+      "added_at": "2026-01-21 01:18:20",
+      "album": {
         "name": "\u3068\u304d\u3081\u304d\u30eb\u30fc\u30eb\u30d6\u30c3\u30af",
         "url": "https://open.spotify.com/album/33nAHJehmLBpYd7bbqPDNR"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 166640,
       "name": "Topping",
       "url": "https://open.spotify.com/track/59vn9z2EUT8GStAdmDNf3y"
-    },
-    {
-      "added_at": "2026-01-21 01:18:20",
-      "album": {
-        "name": "\u4e16\u754c\u304c\u7d42\u308f\u308a\u307e\u3057\u305f",
-        "url": "https://open.spotify.com/album/1Ztds5OynOrMcfkPLi47Ps"
-      },
-      "artists": [
-        {
-          "name": "Yuuri",
-          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
-        }
-      ],
-      "duration_ms": 254626,
-      "name": "\u4e16\u754c\u304c\u7d42\u308f\u308a\u307e\u3057\u305f",
-      "url": "https://open.spotify.com/track/5XyD56RYaj2XGxfyc34jQD"
     },
     {
       "added_at": "2026-01-21 01:18:20",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-01-21 01:18:20",
       "album": {
+        "name": "\u6700\u4f4e\u306a\u541b\u306b\u8d08\u308b\u6b4c",
+        "url": "https://open.spotify.com/album/6tSyFozZFoCFkdHbM1oq5z"
+      },
+      "artists": [
+        {
+          "name": "Yuuri",
+          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+        }
+      ],
+      "duration_ms": 252040,
+      "name": "\u6700\u4f4e\u306a\u541b\u306b\u8d08\u308b\u6b4c",
+      "url": "https://open.spotify.com/track/1i11aYHrGaX16sh7Mi1cQm"
+    },
+    {
+      "added_at": "2026-01-21 01:18:20",
+      "album": {
         "name": "\u7b11\u3063\u305f\u308a\u8ee2\u3093\u3060\u308a",
         "url": "https://open.spotify.com/album/2rsFO81AwLT53Z1ZqlVr2V"
       },
@@ -1075,18 +1091,18 @@
     {
       "added_at": "2026-01-21 01:18:20",
       "album": {
-        "name": "\u6700\u4f4e\u306a\u541b\u306b\u8d08\u308b\u6b4c",
-        "url": "https://open.spotify.com/album/6tSyFozZFoCFkdHbM1oq5z"
+        "name": "\u6b4c\u306b\u3057\u3066\u3057\u307e\u3048\u3070\u3001\u3069\u3093\u306a\u3053\u3068\u3067\u3082\u8a31\u3055\u308c\u308b\u3068\u601d\u3063\u3066\u3044\u305f",
+        "url": "https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e"
       },
       "artists": [
         {
-          "name": "Yuuri",
-          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
         }
       ],
-      "duration_ms": 252040,
-      "name": "\u6700\u4f4e\u306a\u541b\u306b\u8d08\u308b\u6b4c",
-      "url": "https://open.spotify.com/track/1i11aYHrGaX16sh7Mi1cQm"
+      "duration_ms": 201973,
+      "name": "\u672c\u5f53\u306f\u306d\u3001",
+      "url": "https://open.spotify.com/track/16yajBS7lk0QAa5CZnTHo9"
     },
     {
       "added_at": "2026-01-21 01:18:20",
@@ -1103,22 +1119,6 @@
       "duration_ms": 265292,
       "name": "TRUE LOVE",
       "url": "https://open.spotify.com/track/0wnjaknKCvliLDwsrTiAYz"
-    },
-    {
-      "added_at": "2026-01-21 01:18:20",
-      "album": {
-        "name": "\u6b4c\u306b\u3057\u3066\u3057\u307e\u3048\u3070\u3001\u3069\u3093\u306a\u3053\u3068\u3067\u3082\u8a31\u3055\u308c\u308b\u3068\u601d\u3063\u3066\u3044\u305f",
-        "url": "https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e"
-      },
-      "artists": [
-        {
-          "name": "yangskinny",
-          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
-        }
-      ],
-      "duration_ms": 201973,
-      "name": "\u672c\u5f53\u306f\u306d\u3001",
-      "url": "https://open.spotify.com/track/16yajBS7lk0QAa5CZnTHo9"
     },
     {
       "added_at": "2026-01-21 01:18:20",

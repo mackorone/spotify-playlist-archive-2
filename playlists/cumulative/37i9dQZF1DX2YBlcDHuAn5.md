@@ -4,11 +4,12 @@
 
 > De mooiste muziek: Americana \| Country
 
-280 songs - 16 hr 29 min
+281 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [365](https://open.spotify.com/track/1QCkXXmlsduoitdYRT9HD6) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [365](https://open.spotify.com/album/66IzG6BBgOOTIwyTGZlIcU) | 3:07 | 2025-02-03 | 2025-02-28 |
+| [A Beautiful Life](https://open.spotify.com/track/08tISrq05HwXHhSHG0ABbQ) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [A Beautiful Life](https://open.spotify.com/album/79aSUbgxr9M52YmWOeNzz8) | 3:16 | 2026-01-22 |  |
 | [A Lot More Free](https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:18 | 2024-11-08 | 2025-02-21 |
 | [About Heartaches And Being Blue](https://open.spotify.com/track/6L9HQyvVHToVbjtXMjJqxw) | [Timo de Jong](https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x) | [About Heartaches And Being Blue](https://open.spotify.com/album/3br2mgNzpyHDkqpqTyINuG) | 2:33 | 2025-02-27 | 2025-03-14 |
 | [Aiming High](https://open.spotify.com/track/2awmxdY36BxGuK80wxHIFE) | [Quinty van der Geest](https://open.spotify.com/artist/2A2lTcBiJUYRfbMVtdtwW2) | [Aiming High](https://open.spotify.com/album/1oTL2vaBXveBK8KbrOfbzY) | 3:21 | 2025-02-20 | 2025-05-16 |
@@ -124,7 +125,7 @@
 | [Honky Tonk Hell](https://open.spotify.com/track/1Z2ZQbixCYNl8bKywACXRO) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a), [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [Honky Tonk Hell](https://open.spotify.com/album/4TWWDRkvu8VIgt6nb2TbK3) | 3:15 | 2025-12-18 |  |
 | [How Did We Get To Goodbye](https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [How Did We Get To Goodbye](https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq) | 4:39 | 2023-12-01 | 2025-05-23 |
 | [Huddle by the Fire](https://open.spotify.com/track/5cmp99VIIXksQZGdDIf5sB) | [Them Dirty Dimes](https://open.spotify.com/artist/5ALoTX7C68nChnuiz2loRP) | [Huddle by the Fire](https://open.spotify.com/album/56cOKNhTkIwryEvl3QQNOq) | 2:41 | 2023-10-05 | 2025-01-17 |
-| [Human Mind](https://open.spotify.com/track/3lD9Y6X1tNME5o5x8KoTEd) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Human Mind](https://open.spotify.com/album/2nuUkgLqKZnDg9Abj22MTc) | 3:12 | 2025-11-06 |  |
+| [Human Mind](https://open.spotify.com/track/3lD9Y6X1tNME5o5x8KoTEd) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Human Mind](https://open.spotify.com/album/2nuUkgLqKZnDg9Abj22MTc) | 3:12 | 2025-11-06 | 2026-01-26 |
 | [I Believe](https://open.spotify.com/track/2OWWVJ4aCJfaATMozLKkQz) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [I Believe](https://open.spotify.com/album/3cZYZeskSVIYAUdBYarTCE) | 2:59 | 2024-08-29 | 2025-05-16 |
 | [I Cry Alone](https://open.spotify.com/track/2KLXKaVVPN5JEQao4EX6aw) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a) | [I Cry Alone](https://open.spotify.com/album/1TuR4n1YDtRMgJhORKN5Na) | 3:31 | 2025-01-16 | 2025-04-09 |
 | [I Feel for You](https://open.spotify.com/track/6XOWuyehpI0CEDYr7EQQun) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [I Feel for You](https://open.spotify.com/album/1T7prrdakLyU8Nk7AlXEgb) | 3:03 | 2023-02-23 | 2023-06-01 |
@@ -137,7 +138,7 @@
 | [I'll Wait Till You're Really Gone](https://open.spotify.com/track/0uJjN27rqC2cJKkBxv4Ivf) | [The Road](https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA), [JW Roy](https://open.spotify.com/artist/3i31y6LSpJEgV5ny8fw66d) | [I'll Wait Till You're Really Gone](https://open.spotify.com/album/0sDgSlEMGFQrGo5FoXPkCe) | 3:49 | 2024-03-07 | 2024-10-23 |
 | [I'm The Problem](https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I'm The Problem](https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD) | 2:57 | 2025-04-17 |  |
 | [In Between](https://open.spotify.com/track/3ff9CeRsa0eIyVqHwcmUSi) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [In Between](https://open.spotify.com/album/2Ppz3Hw0YEXsKuC5PCisjT) | 3:08 | 2024-07-19 | 2025-01-17 |
-| [In The Middle Of It](https://open.spotify.com/track/1RwZ3acl6fKP04Yv3zWtPW) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [In The Middle Of It](https://open.spotify.com/album/2JOSogTvcer7AY1zZLRSIE) | 4:00 | 2025-09-18 |  |
+| [In The Middle Of It](https://open.spotify.com/track/1RwZ3acl6fKP04Yv3zWtPW) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [In The Middle Of It](https://open.spotify.com/album/2JOSogTvcer7AY1zZLRSIE) | 4:00 | 2025-09-18 | 2026-01-26 |
 | [Inconsolable](https://open.spotify.com/track/2iF3DCqqC0tUzaqJp4EQ93) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [Inconsolable](https://open.spotify.com/album/5ZU7CTzoZzvji3RgLRr7tl) | 3:32 | 2024-09-26 | 2025-02-08 |
 | [Indigo \(feat\. Avery Anna\)](https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 4:46 | 2025-01-16 |  |
 | [Into The Wild](https://open.spotify.com/track/2Fu4lrs00YKBQ1sIHUT4Kl) | [Jennifer Ewbank](https://open.spotify.com/artist/4u4FMpLyYiyJzP3AULKdO8) | [Into The Wild](https://open.spotify.com/album/10JOoOnHzsKLifj0g1DTJy) | 2:45 | 2023-08-24 | 2025-01-17 |
@@ -176,7 +177,7 @@
 | [My Love Is On The Run](https://open.spotify.com/track/1HUPYoXCbnhQnwsKbZBwzQ) | [Damiën Van Elburg](https://open.spotify.com/artist/5AfiMBS3lNh5qbmqpTgMmO) | [Peace of Mind](https://open.spotify.com/album/6npPpBrnnwLpUJwbFULGjs) | 3:21 | 2023-05-11 | 2023-06-16 |
 | [New Country \(feat\. Blake Shelton\)](https://open.spotify.com/track/3zgZgaTkhrEhP8isvTw4Fr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [New Country \(feat\. Blake Shelton\)](https://open.spotify.com/album/71i26TrPiwqS2VQ0gTxbX8) | 3:18 | 2025-06-19 |  |
 | [Nighttime Walk](https://open.spotify.com/track/4xWwLMuE6SfoqvtWpSgoyO) | [Mercy John](https://open.spotify.com/artist/1zJU6SWc4fzECllRZbixhJ) | [Nighttime Walk](https://open.spotify.com/album/6B3IT89Ihbf3s3SPkLlz48) | 5:36 | 2023-10-05 | 2024-08-02 |
-| [Not Cause I Wanted To](https://open.spotify.com/track/6rDHCMfDbnn3cWmPhea9ef) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Not Cause I Wanted To](https://open.spotify.com/album/6eZygmRQkhCOX8ShR5uXmU) | 3:33 | 2025-03-20 | 2026-01-23 |
+| [Not Cause I Wanted To](https://open.spotify.com/track/6rDHCMfDbnn3cWmPhea9ef) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Not Cause I Wanted To](https://open.spotify.com/album/6eZygmRQkhCOX8ShR5uXmU) | 3:33 | 2025-03-20 |  |
 | [Not So Precious Memories](https://open.spotify.com/track/2NVtDHMYLzw5jQUShn9gDd) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K), [Blue Grass Boogiemen](https://open.spotify.com/artist/0sP3ip1gi7QdAqpYiA4ZlA) | [Not So Precious Memories](https://open.spotify.com/album/5dho5K7jU61eQfwdsgAk9f) | 2:48 | 2025-01-16 | 2025-02-04 |
 | [Nothing Can Hurt Me Today](https://open.spotify.com/track/3SaDPZcQByxcTCRVP5dwiE) | [Nomden](https://open.spotify.com/artist/3gcuehaPKk7YQiNG19k4fX) | [Nothing Can Hurt Me Today](https://open.spotify.com/album/1u2dRTYzBBiuPszo2LZfV2) | 2:58 | 2024-07-19 | 2025-02-04 |
 | [O.D.](https://open.spotify.com/track/2E6HksJPriDYu6thbR6xrV) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Til The Sun Goes Down](https://open.spotify.com/album/4hGNvSjAbNPDni4TS22HIM) | 2:49 | 2025-02-03 |  |

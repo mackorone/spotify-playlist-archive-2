@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 25 Jan 23:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 25 Jan 04:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -20125,6 +20125,24 @@
     },
     {
       "album": {
+        "name": "CLOUD CORE",
+        "url": "https://open.spotify.com/album/6htcWlRCuSWxRnbSrMdnHr"
+      },
+      "artists": [
+        {
+          "name": "Lightning Bolt",
+          "url": "https://open.spotify.com/artist/2og3FOCLYXT9H7IYE6QPUq"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281886,
+      "name": "CLOUD CORE",
+      "url": "https://open.spotify.com/track/4Ib0PEx6jncDWDBDIhgw7C"
+    },
+    {
+      "album": {
         "name": "cLOUDs",
         "url": "https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex"
       },
@@ -37808,7 +37826,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 112798,
       "name": "FUMO Y DESPUES EXISTO",
       "url": "https://open.spotify.com/track/066atkDkmqjGlLz7wx4wKO"

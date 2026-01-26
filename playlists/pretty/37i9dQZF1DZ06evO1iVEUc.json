@@ -1,12 +1,12 @@
 {
   "description": "This is Angie Stone. The essential tracks, all in one playlist.",
-  "num_followers": 25771,
+  "num_followers": 25769,
   "original_name": "This Is Angie Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXK6AAAAAAAs3tNfqYEHkXtqB6bXMCyF",
+  "snapshot_id": "aXQLgAAAAACYAgWc0tSDfUb8OI9JC8sg",
   "tracks": [
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Language",
-        "url": "https://open.spotify.com/album/3SjkXnXu8tjg9Xg9bXPOuM"
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 227293,
-      "name": "High",
-      "url": "https://open.spotify.com/track/7nwy7u1NxzbUEOmpzo6KWT"
+      "duration_ms": 237569,
+      "name": "2 Bad Habits",
+      "url": "https://open.spotify.com/track/5YXh6QYjQTKDkT6pK1XNPh"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/3SjkXnXu8tjg9Xg9bXPOuM"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 237569,
-      "name": "2 Bad Habits",
-      "url": "https://open.spotify.com/track/5YXh6QYjQTKDkT6pK1XNPh"
+      "duration_ms": 227293,
+      "name": "High",
+      "url": "https://open.spotify.com/track/7nwy7u1NxzbUEOmpzo6KWT"
     },
     {
       "added_at": null,
@@ -639,50 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets - Love & Soul",
-        "url": "https://open.spotify.com/album/69XGRDK4bcb0pSEgIV05tC"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        },
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 289271,
-      "name": "Love TKO",
-      "url": "https://open.spotify.com/track/37ap6nCrkAew8dPVsGj1QD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All I'm Missing",
-        "url": "https://open.spotify.com/album/3M7VnecvQM1KkxnjG6SeUD"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "J. Brown",
-          "url": "https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb"
-        },
-        {
-          "name": "Jaunita Wynn",
-          "url": "https://open.spotify.com/artist/3vKi2uBWTFZHOUbBkimu69"
-        }
-      ],
-      "duration_ms": 160671,
-      "name": "All I'm Missing",
-      "url": "https://open.spotify.com/track/4NCxTroOuhZBC3ZMciQLLT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stone Love",
         "url": "https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB"
       },
@@ -719,6 +675,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Duets - Love & Soul",
+        "url": "https://open.spotify.com/album/69XGRDK4bcb0pSEgIV05tC"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        },
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 289271,
+      "name": "Love TKO",
+      "url": "https://open.spotify.com/track/37ap6nCrkAew8dPVsGj1QD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Human Stone (feat. Angie Stone)",
         "url": "https://open.spotify.com/album/5JDtdJsp89vm1wldP6Qwro"
       },
@@ -735,6 +711,46 @@
       "duration_ms": 207656,
       "name": "The Human Stone (feat. Angie Stone)",
       "url": "https://open.spotify.com/track/2zhgYDsj5s9ucveGRlEr9F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stone Love",
+        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "You Don't Love Me",
+      "url": "https://open.spotify.com/track/6LgeYzc85nIiOg9ZcaRjRu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All I'm Missing",
+        "url": "https://open.spotify.com/album/3M7VnecvQM1KkxnjG6SeUD"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "J. Brown",
+          "url": "https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb"
+        },
+        {
+          "name": "Jaunita Wynn",
+          "url": "https://open.spotify.com/artist/3vKi2uBWTFZHOUbBkimu69"
+        }
+      ],
+      "duration_ms": 160671,
+      "name": "All I'm Missing",
+      "url": "https://open.spotify.com/track/4NCxTroOuhZBC3ZMciQLLT"
     },
     {
       "added_at": null,
@@ -759,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stone Love",
-        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "You Don't Love Me",
-      "url": "https://open.spotify.com/track/6LgeYzc85nIiOg9ZcaRjRu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Art of Love & War",
         "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
       },
@@ -787,26 +787,6 @@
       "duration_ms": 212306,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/4v4ICmsY42M8sc0iI8w1I8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Angie Stone - Wish I Didn't Miss You (IQ Musique House Remix)",
-        "url": "https://open.spotify.com/album/3Z2NITd0S3mGilLdnwliFI"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "IQ Musique",
-          "url": "https://open.spotify.com/artist/3RUiLqDKEMyFxlyGBS4h38"
-        }
-      ],
-      "duration_ms": 321295,
-      "name": "Angie Stone - IQ Musique House Mix",
-      "url": "https://open.spotify.com/track/2kTjQIfVwzwaMCtQGFF9Lz"
     },
     {
       "added_at": null,
@@ -831,6 +811,26 @@
       "duration_ms": 295266,
       "name": "My Nutmeg Phantasy (featuring Angie Stone & Mos Def) (feat. Angie Stone & Mos Def)",
       "url": "https://open.spotify.com/track/5YlIN4hkyrCUrNlYw09KA0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Angie Stone - Wish I Didn't Miss You (IQ Musique House Remix)",
+        "url": "https://open.spotify.com/album/3Z2NITd0S3mGilLdnwliFI"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "IQ Musique",
+          "url": "https://open.spotify.com/artist/3RUiLqDKEMyFxlyGBS4h38"
+        }
+      ],
+      "duration_ms": 321295,
+      "name": "Angie Stone - IQ Musique House Mix",
+      "url": "https://open.spotify.com/track/2kTjQIfVwzwaMCtQGFF9Lz"
     },
     {
       "added_at": null,
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 82866,
-      "name": "Go Back To Your Life",
-      "url": "https://open.spotify.com/track/4bId2ICKxum3Y2fZXJjCpy"
+      "duration_ms": 271493,
+      "name": "Sit Down",
+      "url": "https://open.spotify.com/track/1FK3aV8VFowrZh9xanIerZ"
     },
     {
       "added_at": null,

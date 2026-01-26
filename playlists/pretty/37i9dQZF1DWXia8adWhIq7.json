@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Gui Neris",
-  "num_followers": 111986,
+  "num_followers": 112001,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,18 @@
     {
       "added_at": "2025-12-15 18:47:45",
       "album": {
-        "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
-        "url": "https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc"
+        "name": "At\u00e9 Sermos Um",
+        "url": "https://open.spotify.com/album/24PZIfsN50tPldnbkdBnlG"
       },
       "artists": [
         {
-          "name": "Gabriel Vilhena",
-          "url": "https://open.spotify.com/artist/3kESgd3zPQ4efT8GXipQjc"
-        },
-        {
-          "name": "Purples",
-          "url": "https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B"
+          "name": "Leo Schiappadini",
+          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
         }
       ],
-      "duration_ms": 249444,
-      "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
-      "url": "https://open.spotify.com/track/60kFRHVNT35Eh2tMBxtaqo"
+      "duration_ms": 178446,
+      "name": "At\u00e9 Sermos Um",
+      "url": "https://open.spotify.com/track/4zlRBI3oN4CcqjS0LJnn41"
     },
     {
       "added_at": "2025-12-15 18:47:45",
@@ -603,18 +599,22 @@
     {
       "added_at": "2025-12-15 18:47:45",
       "album": {
-        "name": "At\u00e9 Sermos Um",
-        "url": "https://open.spotify.com/album/24PZIfsN50tPldnbkdBnlG"
+        "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
+        "url": "https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc"
       },
       "artists": [
         {
-          "name": "Leo Schiappadini",
-          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
+          "name": "Gabriel Vilhena",
+          "url": "https://open.spotify.com/artist/3kESgd3zPQ4efT8GXipQjc"
+        },
+        {
+          "name": "Purples",
+          "url": "https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B"
         }
       ],
-      "duration_ms": 178446,
-      "name": "At\u00e9 Sermos Um",
-      "url": "https://open.spotify.com/track/4zlRBI3oN4CcqjS0LJnn41"
+      "duration_ms": 249444,
+      "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
+      "url": "https://open.spotify.com/track/60kFRHVNT35Eh2tMBxtaqo"
     },
     {
       "added_at": "2025-12-15 18:47:45",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2025-12-15 18:47:45",
       "album": {
+        "name": "A Gente Aprende a Ser",
+        "url": "https://open.spotify.com/album/6itU1pUMHCd6d98B9AOjdz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Versos",
+          "url": "https://open.spotify.com/artist/3R4RUXjmQuMktdO8CHCCPk"
+        },
+        {
+          "name": "Julia Costa",
+          "url": "https://open.spotify.com/artist/5aLsHlPCjfRhvBlCTLBe24"
+        }
+      ],
+      "duration_ms": 248601,
+      "name": "A Gente Aprende a Ser",
+      "url": "https://open.spotify.com/track/3Icpn3LFDFf2jKYZujlntR"
+    },
+    {
+      "added_at": "2025-12-15 18:47:45",
+      "album": {
         "name": "Amor Perfeito",
         "url": "https://open.spotify.com/album/5hMUO0OGBZZ2JB25RwMmWK"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 155789,
       "name": "Amor Perfeito",
       "url": "https://open.spotify.com/track/0obHBNT5xglQUlQxfMElRx"
-    },
-    {
-      "added_at": "2025-12-15 18:47:45",
-      "album": {
-        "name": "A Gente Aprende a Ser",
-        "url": "https://open.spotify.com/album/6itU1pUMHCd6d98B9AOjdz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Versos",
-          "url": "https://open.spotify.com/artist/3R4RUXjmQuMktdO8CHCCPk"
-        },
-        {
-          "name": "Julia Costa",
-          "url": "https://open.spotify.com/artist/5aLsHlPCjfRhvBlCTLBe24"
-        }
-      ],
-      "duration_ms": 248601,
-      "name": "A Gente Aprende a Ser",
-      "url": "https://open.spotify.com/track/3Icpn3LFDFf2jKYZujlntR"
     },
     {
       "added_at": "2025-12-15 18:47:45",

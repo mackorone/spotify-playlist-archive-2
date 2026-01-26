@@ -1,6 +1,6 @@
 {
   "description": "Os indicados na maior celebra\u00e7\u00e3o da m\u00fasica latina em 2025.",
-  "num_followers": 77975,
+  "num_followers": 77972,
   "original_name": "Os Indicados",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "Coisas Naturais",
+        "url": "https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 239779,
+      "name": "Coisas Naturais",
+      "url": "https://open.spotify.com/track/0MAc9pefRKSDEjq8Q85Mky"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Querida Yo",
         "url": "https://open.spotify.com/album/2n3f9KNVpIQ1z3rnwtahB7"
       },
@@ -307,18 +323,18 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Coisas Naturais",
-        "url": "https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE"
+        "name": "No Escuro, Quem \u00c9 Voc\u00ea?",
+        "url": "https://open.spotify.com/album/5RibeqZd7ps8S6bhOVHuDk"
       },
       "artists": [
         {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
         }
       ],
-      "duration_ms": 239779,
-      "name": "Coisas Naturais",
-      "url": "https://open.spotify.com/track/0MAc9pefRKSDEjq8Q85Mky"
+      "duration_ms": 148411,
+      "name": "Dilemas da vida moderna",
+      "url": "https://open.spotify.com/track/6TKBDgjEsyB2AGprNMpZyy"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -335,22 +351,6 @@
       "duration_ms": 219949,
       "name": "Otra Noche de Llorar",
       "url": "https://open.spotify.com/track/5F8pOPLxQBJK6am1pNcN79"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "No Escuro, Quem \u00c9 Voc\u00ea?",
-        "url": "https://open.spotify.com/album/5RibeqZd7ps8S6bhOVHuDk"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 148411,
-      "name": "Dilemas da vida moderna",
-      "url": "https://open.spotify.com/track/6TKBDgjEsyB2AGprNMpZyy"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -607,6 +607,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "AFIM",
+        "url": "https://open.spotify.com/album/4gtQPnisgFKDkNEKTU74YJ"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+        }
+      ],
+      "duration_ms": 190092,
+      "name": "Transe",
+      "url": "https://open.spotify.com/track/6GagMYkmbSakx79Eta9RIh"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
         "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 169546,
       "name": "S\u00f3 Quero Ver",
       "url": "https://open.spotify.com/track/18z8Px2zIsaQrtszgWdVZn"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "AFIM",
-        "url": "https://open.spotify.com/album/4gtQPnisgFKDkNEKTU74YJ"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
-        }
-      ],
-      "duration_ms": 190092,
-      "name": "Transe",
-      "url": "https://open.spotify.com/track/6GagMYkmbSakx79Eta9RIh"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -955,6 +955,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "Transespacial",
+        "url": "https://open.spotify.com/album/5ad60ItCkVWina53xajH4n"
+      },
+      "artists": [
+        {
+          "name": "Fitti",
+          "url": "https://open.spotify.com/artist/4WMPe7u3avpvbGO9wzVdhk"
+        }
+      ],
+      "duration_ms": 175053,
+      "name": "Feliz e Triste",
+      "url": "https://open.spotify.com/track/32fsC0Q4bHACkTOja30D8A"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "CAJU",
         "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 431494,
       "name": "AO TEU LADO",
       "url": "https://open.spotify.com/track/5veL5yeni75MC7zZ8ne1gS"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "Transespacial",
-        "url": "https://open.spotify.com/album/5ad60ItCkVWina53xajH4n"
-      },
-      "artists": [
-        {
-          "name": "Fitti",
-          "url": "https://open.spotify.com/artist/4WMPe7u3avpvbGO9wzVdhk"
-        }
-      ],
-      "duration_ms": 175053,
-      "name": "Feliz e Triste",
-      "url": "https://open.spotify.com/track/32fsC0Q4bHACkTOja30D8A"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "MARAVILHOSAMENTE BEM",
-        "url": "https://open.spotify.com/album/6hKQF3IhyBlr6LE5K2nkYY"
+        "name": "Caman\u00e9 Ao Vivo No CCB - Homenagem a Jos\u00e9 M\u00e1rio Branco",
+        "url": "https://open.spotify.com/album/6nMDZpZ7j1AjZ5oQqNg074"
       },
       "artists": [
         {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+          "name": "Caman\u00e9",
+          "url": "https://open.spotify.com/artist/3MLPFTe4BrpEV2eOVG0gLK"
         }
       ],
-      "duration_ms": 226484,
-      "name": "Maravilhosamente Bem",
-      "url": "https://open.spotify.com/track/5wQCF8OhRCj747qSsTI23I"
+      "duration_ms": 314680,
+      "name": "Queixa das almas jovens censuradas - Ao Vivo",
+      "url": "https://open.spotify.com/track/5u1OOYi33ZxZ5eXWJKOhDo"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Caman\u00e9 Ao Vivo No CCB - Homenagem a Jos\u00e9 M\u00e1rio Branco",
-        "url": "https://open.spotify.com/album/6nMDZpZ7j1AjZ5oQqNg074"
+        "name": "MARAVILHOSAMENTE BEM",
+        "url": "https://open.spotify.com/album/6hKQF3IhyBlr6LE5K2nkYY"
       },
       "artists": [
         {
-          "name": "Caman\u00e9",
-          "url": "https://open.spotify.com/artist/3MLPFTe4BrpEV2eOVG0gLK"
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
         }
       ],
-      "duration_ms": 314680,
-      "name": "Queixa das almas jovens censuradas - Ao Vivo",
-      "url": "https://open.spotify.com/track/5u1OOYi33ZxZ5eXWJKOhDo"
+      "duration_ms": 226484,
+      "name": "Maravilhosamente Bem",
+      "url": "https://open.spotify.com/track/5wQCF8OhRCj747qSsTI23I"
     },
     {
       "added_at": "2025-09-17 15:00:09",

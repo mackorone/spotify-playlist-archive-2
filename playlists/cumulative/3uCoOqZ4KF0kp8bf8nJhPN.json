@@ -4055,6 +4055,24 @@
     },
     {
       "album": {
+        "name": "PINK HAIR!",
+        "url": "https://open.spotify.com/album/2AvVihuwf4zWDOnnsaWUNQ"
+      },
+      "artists": [
+        {
+          "name": "ISSBROKIE",
+          "url": "https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181207,
+      "name": "stuck in my room.",
+      "url": "https://open.spotify.com/track/6AG0U6Mp9V8lo0uRuAgGzZ"
+    },
+    {
+      "album": {
         "name": "stuckk on you",
         "url": "https://open.spotify.com/album/3ouWk2kW2bEtX2zz2neUaL"
       },

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- United Kingdom.
 
-368 songs - 19 hr 2 min
+369 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Breathe Again](https://open.spotify.com/track/63aYFTVJyBKPdkUGqoAxTL) | [Sienna Rose](https://open.spotify.com/artist/6wq8iklwcF2dj0jtMpPvOJ) | [Soft Echoes](https://open.spotify.com/album/2pSUXMvtm2I5VowwSgzenx) | 3:39 | 2025-12-21 | 2026-01-21 |
 | [Brighter](https://open.spotify.com/track/0l6JC8K9Z4n9Gj4KBfgSvA) | [Hazbin Hotel](https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l), [Christian Borle](https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay) | [Hazbin Hotel: Season Two \(Original Soundtrack\)](https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm) | 2:38 | 2025-12-09 | 2025-12-17 |
 | [Buckle](https://open.spotify.com/track/0JAaTG7sEjukCjC8X58puq) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 3:23 | 2025-11-18 | 2025-11-26 |
-| [California Rain](https://open.spotify.com/track/0HjL890CF6dyZIW4EEdxyh) | [James Marriott](https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL) | [California Rain](https://open.spotify.com/album/1onNrFOtcFj3bdHpBS6Zi7) | 3:03 | 2026-01-20 |  |
+| [California Rain](https://open.spotify.com/track/0HjL890CF6dyZIW4EEdxyh) | [James Marriott](https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL) | [California Rain](https://open.spotify.com/album/1onNrFOtcFj3bdHpBS6Zi7) | 3:03 | 2026-01-20 | 2026-01-26 |
 | [Card Declined \(Brimful of Asha\)](https://open.spotify.com/track/1KCtSFsSn9khPDhM4cdGm9) | [INDI](https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Card Declined \(Brimful of Asha\)](https://open.spotify.com/album/0TU7fkJIagDONaPvWu3DE1) | 2:32 | 2025-10-27 | 2025-11-02 |
 | [Carnival](https://open.spotify.com/track/4TfmXkmAqtiq1ixe5PT5kX) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [Carnival](https://open.spotify.com/album/7rbWFdSpf8wyUpkOb7vvD6) | 1:44 | 2025-12-24 | 2025-12-31 |
 | [Century](https://open.spotify.com/track/1lJOLxDS8kS2rihrqezMcv) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Century](https://open.spotify.com/album/3iEInaFAamSTND6sovehX7) | 1:49 | 2025-11-18 | 2026-01-15 |
@@ -95,6 +95,7 @@
 | [Fendi 2](https://open.spotify.com/track/4CdFhK8D7bn5Qe6wvmuEwH) | [Rakhim](https://open.spotify.com/artist/78G8FdUykcn02tsgMLi3q0), [Khim](https://open.spotify.com/artist/1TDYyvzorLvXWMBjHg3B9l), [ayv1o](https://open.spotify.com/artist/2CeSBZrsPySr5XwmdoiGzv) | [Fendi 2](https://open.spotify.com/album/65K3PJuqDDFu40Tk93vvxU) | 1:30 | 2026-01-15 | 2026-01-21 |
 | [Fever](https://open.spotify.com/track/09xhawlPUifhftf8zuie7w) | [Buckshot](https://open.spotify.com/artist/0HPG2EIdGCP6gjXW0KzrJq), [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Fever](https://open.spotify.com/album/0ULd6WFTpdtoBl7eBgH2oo) | 2:24 | 2025-10-27 | 2026-01-15 |
 | [Fidelio](https://open.spotify.com/track/4IBTU8b4bM3ycYYrvwcURk) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Fidelio](https://open.spotify.com/album/7pQWc2Fpk4E79bbwIk5DSN) | 2:34 | 2025-11-08 | 2025-11-10 |
+| [FIGURED YOU OUT](https://open.spotify.com/track/7bLm3Wjv9zQF7Sc2PpDCvR) | [Devkota](https://open.spotify.com/artist/5e48iUv2r7DgotDwhI9Ulm) | [FIGURED YOU OUT](https://open.spotify.com/album/1vVgp9NEKp3kM3tR4h5DYX) | 2:11 | 2026-01-25 |  |
 | [Fire In My Heart](https://open.spotify.com/track/3xyZpb0MDiEv5hOpNjKN5z) | [Escape from New York](https://open.spotify.com/artist/1xSJPHGAj5EOrbeUCbbUD9) | [Fire in My Heart](https://open.spotify.com/album/2NOWqz17MC7S7NmvA2CWy8) | 5:13 | 2026-01-15 |  |
 | [Fool's Gold](https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Fool's Gold](https://open.spotify.com/album/5v8FMiboqfjBxM7UgkIgtG) | 3:17 | 2025-10-27 |  |
 | [For Good](https://open.spotify.com/track/5shGj5OOnpmg4tQlFjyzZY) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: For Good – The Soundtrack](https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk) | 6:17 | 2025-12-09 | 2025-12-14 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Gerardo Coronel \ud83d\udcf8",
-  "num_followers": 1289081,
+  "num_followers": 1289200,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,22 @@
     {
       "added_at": "2026-01-23 06:00:08",
       "album": {
-        "name": "Ctrl + Z (En Vivo)",
-        "url": "https://open.spotify.com/album/0evVM9Y8MYKfSJWNGVbaiF"
+        "name": "Arriba La Moyombiza (En Vivo)",
+        "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Moy Bobadilla",
+          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
         },
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 161480,
-      "name": "Ctrl + Z (En Vivo)",
-      "url": "https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s"
+      "duration_ms": 176000,
+      "name": "Coraz\u00f3n (En Vivo)",
+      "url": "https://open.spotify.com/track/1DXl17aTwuvzZ9T2AXiKZM"
     },
     {
       "added_at": "2026-01-23 06:00:08",
@@ -175,22 +175,22 @@
     {
       "added_at": "2026-01-23 06:00:08",
       "album": {
-        "name": "Arriba La Moyombiza (En Vivo)",
-        "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
+        "name": "Ctrl + Z (En Vivo)",
+        "url": "https://open.spotify.com/album/0evVM9Y8MYKfSJWNGVbaiF"
       },
       "artists": [
         {
-          "name": "Moy Bobadilla",
-          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
-        },
-        {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Coraz\u00f3n (En Vivo)",
-      "url": "https://open.spotify.com/track/1DXl17aTwuvzZ9T2AXiKZM"
+      "duration_ms": 161480,
+      "name": "Ctrl + Z (En Vivo)",
+      "url": "https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s"
     },
     {
       "added_at": "2026-01-23 06:00:08",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2026-01-23 06:00:08",
       "album": {
-        "name": "Llora Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6bXcXZ5khN7Nr696kNobCG"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        },
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        }
-      ],
-      "duration_ms": 216930,
-      "name": "Llora Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7KizzILawBFV7p22x4NwPe"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
         "name": "Me Odias, Me amas",
         "url": "https://open.spotify.com/album/1Zqn4h4O5WjigMMr4J8laX"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 185429,
       "name": "Me Odias, Me Amas",
       "url": "https://open.spotify.com/track/0wg7D7tP3RP00y2usvzGzh"
+    },
+    {
+      "added_at": "2026-01-23 06:00:08",
+      "album": {
+        "name": "Llora Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6bXcXZ5khN7Nr696kNobCG"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        },
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        }
+      ],
+      "duration_ms": 216930,
+      "name": "Llora Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7KizzILawBFV7p22x4NwPe"
     },
     {
       "added_at": "2026-01-23 06:00:08",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-01-23 06:00:08",
       "album": {
-        "name": "Me Toc\u00f3 Perder",
-        "url": "https://open.spotify.com/album/6TeZsimOWmBTL2zK6tFYUr"
-      },
-      "artists": [
-        {
-          "name": "Roberto Tapia",
-          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "Me Toc\u00f3 Perder",
-      "url": "https://open.spotify.com/track/78l0L3supCGgyrVDOz3CsD"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
         "name": "En eso no quedamos / Lo callar\u00e9 / Una p\u00e1gina m\u00e1s (En vivo)",
         "url": "https://open.spotify.com/album/0u2KYv85qj5dWv42kFfgvm"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 319085,
       "name": "En eso no quedamos / Lo callar\u00e9 / Una p\u00e1gina m\u00e1s - En vivo",
       "url": "https://open.spotify.com/track/2lT5IknctipMB6oyZ1eo0x"
+    },
+    {
+      "added_at": "2026-01-23 06:00:08",
+      "album": {
+        "name": "Me Toc\u00f3 Perder",
+        "url": "https://open.spotify.com/album/6TeZsimOWmBTL2zK6tFYUr"
+      },
+      "artists": [
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "Me Toc\u00f3 Perder",
+      "url": "https://open.spotify.com/track/78l0L3supCGgyrVDOz3CsD"
     },
     {
       "added_at": "2026-01-23 06:00:08",

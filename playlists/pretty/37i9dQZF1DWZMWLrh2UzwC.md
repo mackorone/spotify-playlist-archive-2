@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Harry Styles, Joji, Tomok, Siti Nordiana, Apit Tearra, ChronicalZ, Noh Salleh, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,322 likes - 82 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,320 likes - 82 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

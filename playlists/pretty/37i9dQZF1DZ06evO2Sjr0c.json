@@ -1,12 +1,12 @@
 {
   "description": "This is Grateful Dead. The essential tracks, all in one playlist.",
-  "num_followers": 178280,
+  "num_followers": 178306,
   "original_name": "This Is Grateful Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXK6AAAAAABQN6ATcDpefCz/i6W54pHI",
+  "snapshot_id": "aXQLgAAAAAChYrxam2CxvpvC2pbF/TgV",
   "tracks": [
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grateful Dead (Skull & Roses) [Live]",
+        "url": "https://open.spotify.com/album/0ObxRAQTpVO1u7bT3VxrIN"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 511306,
+      "name": "Wharf Rat - Live at Fillmore East, New York, NY, April 26, 1971",
+      "url": "https://open.spotify.com/track/0JKWRYAxDyWqS14WmtLFOf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Grateful Dead",
         "url": "https://open.spotify.com/album/2Qkp6ALKO8kcONs4zq1t2D"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 216569,
       "name": "Alabama Getaway - 2013 Remaster",
       "url": "https://open.spotify.com/track/5WVF1Ftv5oxspRac9km99R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grateful Dead (Skull & Roses) [Live]",
-        "url": "https://open.spotify.com/album/0ObxRAQTpVO1u7bT3VxrIN"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 511306,
-      "name": "Wharf Rat - Live at Fillmore East, New York, NY, April 26, 1971",
-      "url": "https://open.spotify.com/track/0JKWRYAxDyWqS14WmtLFOf"
     },
     {
       "added_at": null,

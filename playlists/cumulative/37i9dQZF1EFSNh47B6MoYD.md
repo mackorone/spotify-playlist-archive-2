@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-178 songs - 10 hr 59 min
+179 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Medley Puerto Rico: Amar a Dos / La Pasión Tiene Memoria / No Queda Nada / Alguien Más / No Me Interesa / Mi Mujer Es un Policía](https://open.spotify.com/track/1AAhNdnCEkIyRQfUmbbDhs) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq), [Diana Reyes](https://open.spotify.com/artist/7fXi334mk8LIrBDzleM8Qz) | [Erika Músika](https://open.spotify.com/album/718iVK5qShRrlc1ESGXu8Q) | 8:35 | 2023-03-09 |  |
 | [Mejor Con Ella](https://open.spotify.com/track/42ABF5T4ARHBKOf5MNLN0u) | [Áaron Emanuel](https://open.spotify.com/artist/0q3zPjmbWZBCxePVcT6iue) | [Espectacular](https://open.spotify.com/album/4MBaCsoX2HKPr9ERbTylJb) | 4:08 | 2023-03-09 |  |
 | [Mentiritas Blancas \- En Vivo](https://open.spotify.com/track/5NW0PdnHrLg7FYH1ys1x5s) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 4:09 | 2023-03-09 |  |
+| [Meu Amor](https://open.spotify.com/track/25k02inHB7AGGLx3oLVc66) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Absoluta](https://open.spotify.com/album/2uAQno6CdQFoQyEjrGJX8b) | 4:02 | 2026-01-25 |  |
 | [Mi Canal](https://open.spotify.com/track/1eCG7oAPgfmzB3vVCj9dNN) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Panamá Mía](https://open.spotify.com/album/11NwW5Y133MwLsll261Lzv) | 3:55 | 2023-03-09 |  |
 | [Mi Mejor Mitad](https://open.spotify.com/track/5TDPTAgxdp3i3tWr3v50Xu) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:23 | 2023-03-09 |  |
 | [Mi Mujer Es un Policia](https://open.spotify.com/track/0W9DlZs84KztEtex3eHg99) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Tranquilo y Tropical](https://open.spotify.com/album/1gYTKWdnL1Cb5AAoJUL1NY) | 4:34 | 2023-03-09 |  |

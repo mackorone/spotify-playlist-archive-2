@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Elmer",
-  "num_followers": 11177,
+  "num_followers": 11181,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,26 @@
     {
       "added_at": "2026-01-12 09:51:56",
       "album": {
+        "name": "Frok en Stien",
+        "url": "https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ"
+      },
+      "artists": [
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        },
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "duration_ms": 182301,
+      "name": "Misschien",
+      "url": "https://open.spotify.com/track/6jUQSSH5nisDUcVFFBFZIn"
+    },
+    {
+      "added_at": "2026-01-12 09:51:56",
+      "album": {
         "name": "Platonisch",
         "url": "https://open.spotify.com/album/57jpp3Qa9F5qEBfpXViX6m"
       },
@@ -183,26 +203,6 @@
     {
       "added_at": "2026-01-12 09:51:56",
       "album": {
-        "name": "Frok en Stien",
-        "url": "https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ"
-      },
-      "artists": [
-        {
-          "name": "Froukje",
-          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
-        },
-        {
-          "name": "S10",
-          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
-        }
-      ],
-      "duration_ms": 182301,
-      "name": "Misschien",
-      "url": "https://open.spotify.com/track/6jUQSSH5nisDUcVFFBFZIn"
-    },
-    {
-      "added_at": "2026-01-12 09:51:56",
-      "album": {
         "name": "Giftig",
         "url": "https://open.spotify.com/album/6XjQOyWXlcCjgKzivTgUl2"
       },
@@ -219,26 +219,6 @@
       "duration_ms": 172941,
       "name": "Giftig",
       "url": "https://open.spotify.com/track/0KfzPMMjRQw9Vh3J8rzTDK"
-    },
-    {
-      "added_at": "2026-01-12 09:51:56",
-      "album": {
-        "name": "YAYO HARTJE JIMMY",
-        "url": "https://open.spotify.com/album/4KQi6IZPWkdWJs6QD32I3v"
-      },
-      "artists": [
-        {
-          "name": "Gotu Jim",
-          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
-        },
-        {
-          "name": "Faberyayo",
-          "url": "https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0"
-        }
-      ],
-      "duration_ms": 189648,
-      "name": "Ze Wil",
-      "url": "https://open.spotify.com/track/1bFZsGUtQZvYgEKzFmBRpB"
     },
     {
       "added_at": "2026-01-12 09:51:56",
@@ -279,6 +259,26 @@
     {
       "added_at": "2026-01-12 09:51:56",
       "album": {
+        "name": "Frok en Stien",
+        "url": "https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ"
+      },
+      "artists": [
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        },
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "duration_ms": 149767,
+      "name": "Offline",
+      "url": "https://open.spotify.com/track/7BG9Fh8c3swsY2auGk0Q9E"
+    },
+    {
+      "added_at": "2026-01-12 09:51:56",
+      "album": {
         "name": "Vlijmscherp",
         "url": "https://open.spotify.com/album/1RTQqQrsiaNvJdCdTMBfhb"
       },
@@ -291,6 +291,42 @@
       "duration_ms": 271717,
       "name": "Vlijmscherp",
       "url": "https://open.spotify.com/track/2z8ic05oQ1YZgV3nWE6f2a"
+    },
+    {
+      "added_at": "2026-01-12 09:51:56",
+      "album": {
+        "name": "YAYO HARTJE JIMMY",
+        "url": "https://open.spotify.com/album/4KQi6IZPWkdWJs6QD32I3v"
+      },
+      "artists": [
+        {
+          "name": "Gotu Jim",
+          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
+        },
+        {
+          "name": "Faberyayo",
+          "url": "https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0"
+        }
+      ],
+      "duration_ms": 189648,
+      "name": "Ze Wil",
+      "url": "https://open.spotify.com/track/1bFZsGUtQZvYgEKzFmBRpB"
+    },
+    {
+      "added_at": "2026-01-12 09:51:56",
+      "album": {
+        "name": "Praat Te Veel",
+        "url": "https://open.spotify.com/album/5fcW10KqULqNexBgtsehXY"
+      },
+      "artists": [
+        {
+          "name": "jet van der steen",
+          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
+        }
+      ],
+      "duration_ms": 142560,
+      "name": "Praat Te Veel",
+      "url": "https://open.spotify.com/track/1U5e0L9t9393QN0FrzPa6h"
     },
     {
       "added_at": "2026-01-12 09:51:56",
@@ -363,22 +399,50 @@
     {
       "added_at": "2026-01-12 09:51:56",
       "album": {
-        "name": "Frok en Stien",
-        "url": "https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ"
+        "name": "Skinroutine Bikinilijn",
+        "url": "https://open.spotify.com/album/6Gxagh1mE6Z9Mipof5thLQ"
       },
       "artists": [
         {
-          "name": "Froukje",
-          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
-        },
-        {
-          "name": "S10",
-          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
         }
       ],
-      "duration_ms": 149767,
-      "name": "Offline",
-      "url": "https://open.spotify.com/track/7BG9Fh8c3swsY2auGk0Q9E"
+      "duration_ms": 183333,
+      "name": "Skinroutine Bikinilijn",
+      "url": "https://open.spotify.com/track/6Q0MNS8ZNeEKDnLgDgoZe2"
+    },
+    {
+      "added_at": "2026-01-12 09:51:56",
+      "album": {
+        "name": "Kubus In Een Ballenbak",
+        "url": "https://open.spotify.com/album/2qCMxawxzGP2g3dJ8q0eNR"
+      },
+      "artists": [
+        {
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
+        }
+      ],
+      "duration_ms": 153428,
+      "name": "Komt Goed",
+      "url": "https://open.spotify.com/track/1vw8hWQB4iST0TzmjNYCM2"
+    },
+    {
+      "added_at": "2026-01-12 09:51:56",
+      "album": {
+        "name": "Rondjes",
+        "url": "https://open.spotify.com/album/0AOklMhFa8PHsfrdqzvLDk"
+      },
+      "artists": [
+        {
+          "name": "jet van der steen",
+          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
+        }
+      ],
+      "duration_ms": 190541,
+      "name": "Rondjes",
+      "url": "https://open.spotify.com/track/6cQWHhI9gJ44kZG0vNofsZ"
     },
     {
       "added_at": "2026-01-12 09:51:56",
@@ -403,34 +467,18 @@
     {
       "added_at": "2026-01-12 09:51:56",
       "album": {
-        "name": "Skinroutine Bikinilijn",
-        "url": "https://open.spotify.com/album/6Gxagh1mE6Z9Mipof5thLQ"
+        "name": "Ik Weet Hoe Het Werkt",
+        "url": "https://open.spotify.com/album/0nv3Dbn34pGSHXHCqS2mJV"
       },
       "artists": [
         {
-          "name": "MEROL",
-          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+          "name": "Kaat Van Stralen",
+          "url": "https://open.spotify.com/artist/4iJk7vDVSLy3X0lBdOKKuF"
         }
       ],
-      "duration_ms": 183333,
-      "name": "Skinroutine Bikinilijn",
-      "url": "https://open.spotify.com/track/6Q0MNS8ZNeEKDnLgDgoZe2"
-    },
-    {
-      "added_at": "2026-01-12 09:51:56",
-      "album": {
-        "name": "Praat Te Veel",
-        "url": "https://open.spotify.com/album/5fcW10KqULqNexBgtsehXY"
-      },
-      "artists": [
-        {
-          "name": "jet van der steen",
-          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
-        }
-      ],
-      "duration_ms": 142560,
-      "name": "Praat Te Veel",
-      "url": "https://open.spotify.com/track/1U5e0L9t9393QN0FrzPa6h"
+      "duration_ms": 141051,
+      "name": "Ik Weet Hoe Het Werkt",
+      "url": "https://open.spotify.com/track/16fQhhumwwRVJjQydsxP9W"
     },
     {
       "added_at": "2026-01-12 09:51:56",
@@ -455,38 +503,6 @@
     {
       "added_at": "2026-01-12 09:51:56",
       "album": {
-        "name": "Ik Weet Hoe Het Werkt",
-        "url": "https://open.spotify.com/album/0nv3Dbn34pGSHXHCqS2mJV"
-      },
-      "artists": [
-        {
-          "name": "Kaat Van Stralen",
-          "url": "https://open.spotify.com/artist/4iJk7vDVSLy3X0lBdOKKuF"
-        }
-      ],
-      "duration_ms": 141051,
-      "name": "Ik Weet Hoe Het Werkt",
-      "url": "https://open.spotify.com/track/16fQhhumwwRVJjQydsxP9W"
-    },
-    {
-      "added_at": "2026-01-12 09:51:56",
-      "album": {
-        "name": "Kubus In Een Ballenbak",
-        "url": "https://open.spotify.com/album/2qCMxawxzGP2g3dJ8q0eNR"
-      },
-      "artists": [
-        {
-          "name": "IDA",
-          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
-        }
-      ],
-      "duration_ms": 153428,
-      "name": "Komt Goed",
-      "url": "https://open.spotify.com/track/1vw8hWQB4iST0TzmjNYCM2"
-    },
-    {
-      "added_at": "2026-01-12 09:51:56",
-      "album": {
         "name": "Normaal Toen",
         "url": "https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 194454,
       "name": "Normaal Toen",
       "url": "https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1"
-    },
-    {
-      "added_at": "2026-01-12 09:51:56",
-      "album": {
-        "name": "Rondjes",
-        "url": "https://open.spotify.com/album/0AOklMhFa8PHsfrdqzvLDk"
-      },
-      "artists": [
-        {
-          "name": "jet van der steen",
-          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
-        }
-      ],
-      "duration_ms": 190541,
-      "name": "Rondjes",
-      "url": "https://open.spotify.com/track/6cQWHhI9gJ44kZG0vNofsZ"
     },
     {
       "added_at": "2026-01-12 09:51:56",
@@ -587,8 +587,8 @@
     {
       "added_at": "2026-01-12 09:51:56",
       "album": {
-        "name": "Normale gevoelens",
-        "url": "https://open.spotify.com/album/657RbF1AvwQ6hLaf7sOAUc"
+        "name": "Toen kwam jij",
+        "url": "https://open.spotify.com/album/5Q3aWVbxIB5xWybBklr0HQ"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm"
         }
       ],
-      "duration_ms": 166852,
-      "name": "Normale gevoelens",
-      "url": "https://open.spotify.com/track/0Tl0dPMsR1CHYLJRNYFuov"
+      "duration_ms": 254935,
+      "name": "Toen kwam jij",
+      "url": "https://open.spotify.com/track/3b7ZWOmR2AnOGl06qqE41N"
     },
     {
       "added_at": "2026-01-12 09:51:56",
@@ -687,38 +687,6 @@
     {
       "added_at": "2026-01-12 09:51:56",
       "album": {
-        "name": "Zachter",
-        "url": "https://open.spotify.com/album/74Ykd7VHFyzI5b3rNeautA"
-      },
-      "artists": [
-        {
-          "name": "Chibi Ichigo",
-          "url": "https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Zachter",
-      "url": "https://open.spotify.com/track/35L5RWfwYaoE1KEP8QWzRZ"
-    },
-    {
-      "added_at": "2026-01-12 09:51:56",
-      "album": {
-        "name": "Toen kwam jij",
-        "url": "https://open.spotify.com/album/5Q3aWVbxIB5xWybBklr0HQ"
-      },
-      "artists": [
-        {
-          "name": "Lucky Fonz III",
-          "url": "https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm"
-        }
-      ],
-      "duration_ms": 254935,
-      "name": "Toen kwam jij",
-      "url": "https://open.spotify.com/track/3b7ZWOmR2AnOGl06qqE41N"
-    },
-    {
-      "added_at": "2026-01-12 09:51:56",
-      "album": {
         "name": "God Los",
         "url": "https://open.spotify.com/album/2jZgFBqWNfZSlBMneFoQXS"
       },
@@ -735,18 +703,18 @@
     {
       "added_at": "2026-01-12 09:51:56",
       "album": {
-        "name": "narcose",
-        "url": "https://open.spotify.com/album/41ptO0ldtOqretw3ZE7RHa"
+        "name": "Normale gevoelens",
+        "url": "https://open.spotify.com/album/657RbF1AvwQ6hLaf7sOAUc"
       },
       "artists": [
         {
-          "name": "Sef",
-          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+          "name": "Lucky Fonz III",
+          "url": "https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm"
         }
       ],
-      "duration_ms": 173816,
-      "name": "narcose",
-      "url": "https://open.spotify.com/track/2im7VTECz19mDtYI5NkVg6"
+      "duration_ms": 166852,
+      "name": "Normale gevoelens",
+      "url": "https://open.spotify.com/track/0Tl0dPMsR1CHYLJRNYFuov"
     },
     {
       "added_at": "2026-01-12 09:51:56",
@@ -767,6 +735,38 @@
     {
       "added_at": "2026-01-12 09:51:56",
       "album": {
+        "name": "Zachter",
+        "url": "https://open.spotify.com/album/74Ykd7VHFyzI5b3rNeautA"
+      },
+      "artists": [
+        {
+          "name": "Chibi Ichigo",
+          "url": "https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Zachter",
+      "url": "https://open.spotify.com/track/35L5RWfwYaoE1KEP8QWzRZ"
+    },
+    {
+      "added_at": "2026-01-12 09:51:56",
+      "album": {
+        "name": "narcose",
+        "url": "https://open.spotify.com/album/41ptO0ldtOqretw3ZE7RHa"
+      },
+      "artists": [
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        }
+      ],
+      "duration_ms": 173816,
+      "name": "narcose",
+      "url": "https://open.spotify.com/track/2im7VTECz19mDtYI5NkVg6"
+    },
+    {
+      "added_at": "2026-01-12 09:51:56",
+      "album": {
         "name": "Sneeuw In De Zomer",
         "url": "https://open.spotify.com/album/4zC1d11lBfFH4GWwDD1U32"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-01-12 09:51:56",
       "album": {
-        "name": "In De Steek",
-        "url": "https://open.spotify.com/album/2Jvbvn7AR50xO9qSSIrkNw"
-      },
-      "artists": [
-        {
-          "name": "IDA",
-          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
-        }
-      ],
-      "duration_ms": 168224,
-      "name": "In De Steek",
-      "url": "https://open.spotify.com/track/2PxSFsy3GGJzLDPF4cVkDj"
-    },
-    {
-      "added_at": "2026-01-12 09:51:56",
-      "album": {
         "name": "Abrikoos",
         "url": "https://open.spotify.com/album/1jsfvYCbmoHGgO6HYToDMp"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 169750,
       "name": "Abrikoos",
       "url": "https://open.spotify.com/track/12iqaBDMEkAdaUgBmxqGJO"
+    },
+    {
+      "added_at": "2026-01-12 09:51:56",
+      "album": {
+        "name": "In De Steek",
+        "url": "https://open.spotify.com/album/2Jvbvn7AR50xO9qSSIrkNw"
+      },
+      "artists": [
+        {
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
+        }
+      ],
+      "duration_ms": 168224,
+      "name": "In De Steek",
+      "url": "https://open.spotify.com/track/2PxSFsy3GGJzLDPF4cVkDj"
     },
     {
       "added_at": "2026-01-12 09:51:56",

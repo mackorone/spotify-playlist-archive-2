@@ -4092,7 +4092,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 264000,
       "name": "Change",
       "url": "https://open.spotify.com/track/1xVUu2AbjTJTEvQI2rpEpp"
@@ -6686,7 +6686,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 278110,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/4V9iqsS5CwQeZgSCXnpD6i"
@@ -11325,6 +11325,24 @@
     },
     {
       "album": {
+        "name": "I'll Remember (Positively Yours X Onestar) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/1gqguyrI9YN91IIGknC38q"
+      },
+      "artists": [
+        {
+          "name": "Onestar",
+          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "I'll Remember",
+      "url": "https://open.spotify.com/track/7oArq8xkRKeRDOnOv45PmS"
+    },
+    {
+      "album": {
         "name": "Desperate Mrs. Seonju OST Part.2 (Soundtrack)",
         "url": "https://open.spotify.com/album/7aJgHL2YMqpsLBscOyD40M"
       },
@@ -13508,7 +13526,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 199941,
       "name": "Last Scene",
       "url": "https://open.spotify.com/track/5bFhOadvcNkK8hLgCEb3lB"
@@ -20373,6 +20391,24 @@
     },
     {
       "album": {
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/1SNgh1tR8hdHrIwnsKy1pK"
+      },
+      "artists": [
+        {
+          "name": "JEONG HYO BEAN",
+          "url": "https://open.spotify.com/artist/39mNLQ2I1Al3Ewrr9tTxhB"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Sail",
+      "url": "https://open.spotify.com/track/18VqjfMIdKa3Co07tmzNdI"
+    },
+    {
+      "album": {
         "name": "Same as Your Ex (Marriage Or Death X Leehwamyeong)",
         "url": "https://open.spotify.com/album/3vjIEUPuHBfWmp7CBXPSzq"
       },
@@ -25582,6 +25618,24 @@
       "duration_ms": 231280,
       "name": "Trace",
       "url": "https://open.spotify.com/track/6qcNxQOnG0XIJTBJ4dj20S"
+    },
+    {
+      "album": {
+        "name": "Trace",
+        "url": "https://open.spotify.com/album/2Dfsq1imLWUNAjhcScwk4H"
+      },
+      "artists": [
+        {
+          "name": "CHOSNG",
+          "url": "https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261462,
+      "name": "Trace",
+      "url": "https://open.spotify.com/track/4NisfxvLivDgaosC7s6ejt"
     },
     {
       "album": {

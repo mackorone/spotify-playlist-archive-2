@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Crash Out",
+        "url": "https://open.spotify.com/album/1JbvNRdQMbIdaOOyTwF3oA"
+      },
+      "artists": [
+        {
+          "name": "Scilence",
+          "url": "https://open.spotify.com/artist/2TXsHSIhrbcGHL0sWUzdnp"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252222,
+      "name": "Crash Out",
+      "url": "https://open.spotify.com/track/3kVUVbCU7gVR6EQU0BCT9v"
+    },
+    {
+      "album": {
         "name": "Language.Sex.Violence.Other?",
         "url": "https://open.spotify.com/album/1DwcGY8AK9RS0IgmozyvyP"
       },

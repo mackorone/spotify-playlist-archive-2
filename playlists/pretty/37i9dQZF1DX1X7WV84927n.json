@@ -1,6 +1,6 @@
 {
   "description": "For full-volume lovers. Cover: Def Leppard",
-  "num_followers": 438238,
+  "num_followers": 438281,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-01-23 05:00:33",
       "album": {
+        "name": "nail polish",
+        "url": "https://open.spotify.com/album/2LyLtyiyURMTqx0C4wFOE7"
+      },
+      "artists": [
+        {
+          "name": "Holywatr",
+          "url": "https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB"
+        }
+      ],
+      "duration_ms": 226771,
+      "name": "nail polish",
+      "url": "https://open.spotify.com/track/5UtL2WBVPySPhiNsmrBbTv"
+    },
+    {
+      "added_at": "2026-01-23 05:00:33",
+      "album": {
         "name": "The Great Unknown",
         "url": "https://open.spotify.com/album/6fE894gRLhqsRjiW2sgLTP"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 222785,
       "name": "CHASING SHADOWS",
       "url": "https://open.spotify.com/track/4sb2DpH2pMeSuAK9x04fON"
-    },
-    {
-      "added_at": "2026-01-23 05:00:33",
-      "album": {
-        "name": "nail polish",
-        "url": "https://open.spotify.com/album/2LyLtyiyURMTqx0C4wFOE7"
-      },
-      "artists": [
-        {
-          "name": "Holywatr",
-          "url": "https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB"
-        }
-      ],
-      "duration_ms": 226771,
-      "name": "nail polish",
-      "url": "https://open.spotify.com/track/5UtL2WBVPySPhiNsmrBbTv"
     },
     {
       "added_at": "2026-01-23 05:00:33",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-01-23 05:00:33",
       "album": {
-        "name": "Guardian",
-        "url": "https://open.spotify.com/album/0Wm5jDuL2Ph5ce9WqjXNM8"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 194631,
-      "name": "Guardian",
-      "url": "https://open.spotify.com/track/1nrj6SI6yvfkP8tWwaoLsb"
-    },
-    {
-      "added_at": "2026-01-23 05:00:33",
-      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/4m0Ki8UBZSIhxz0VoRrq2U"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 185294,
       "name": "HELLBOUND",
       "url": "https://open.spotify.com/track/7DVRzkx3RMQBKOuuDRCYxl"
+    },
+    {
+      "added_at": "2026-01-23 05:00:33",
+      "album": {
+        "name": "Guardian",
+        "url": "https://open.spotify.com/album/0Wm5jDuL2Ph5ce9WqjXNM8"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 194631,
+      "name": "Guardian",
+      "url": "https://open.spotify.com/track/1nrj6SI6yvfkP8tWwaoLsb"
     },
     {
       "added_at": "2026-01-23 05:00:33",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2026-01-23 05:00:33",
       "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/5vB2OnIv8zle6vhuS3O0a3"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 203264,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/1i1VgyiM9ZiPBu8EoxhFw5"
+    },
+    {
+      "added_at": "2026-01-23 05:00:33",
+      "album": {
         "name": "Violent Nature",
         "url": "https://open.spotify.com/album/7r72bICF1RIxeNOKCGDP6U"
       },
@@ -1263,18 +1279,18 @@
     {
       "added_at": "2026-01-23 05:00:33",
       "album": {
-        "name": "Everything Is Fine",
-        "url": "https://open.spotify.com/album/1nXFy9tqZLTLsKLBK9cWtT"
+        "name": "Things Are Different Now",
+        "url": "https://open.spotify.com/album/4NcoXQa5SMjILciWjMpHZg"
       },
       "artists": [
         {
-          "name": "Paleface Swiss",
-          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+          "name": "Rain City Drive",
+          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
         }
       ],
-      "duration_ms": 217189,
-      "name": "Everything Is Fine",
-      "url": "https://open.spotify.com/track/6BerQ9av2hnOFNAYJnl704"
+      "duration_ms": 174428,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/1MtgVw093BemZtwbDZyHqj"
     },
     {
       "added_at": "2026-01-23 05:00:33",
@@ -1295,18 +1311,18 @@
     {
       "added_at": "2026-01-23 05:00:33",
       "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/5vB2OnIv8zle6vhuS3O0a3"
+        "name": "Everything Is Fine",
+        "url": "https://open.spotify.com/album/1nXFy9tqZLTLsKLBK9cWtT"
       },
       "artists": [
         {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
         }
       ],
-      "duration_ms": 203264,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/1i1VgyiM9ZiPBu8EoxhFw5"
+      "duration_ms": 217189,
+      "name": "Everything Is Fine",
+      "url": "https://open.spotify.com/track/6BerQ9av2hnOFNAYJnl704"
     },
     {
       "added_at": "2026-01-23 05:00:33",
@@ -1327,22 +1343,6 @@
       "duration_ms": 222500,
       "name": "The End (feat. BABYMETAL) - 2025 VERSION",
       "url": "https://open.spotify.com/track/7yvUwUbPeQBtf3313SNw85"
-    },
-    {
-      "added_at": "2026-01-23 05:00:33",
-      "album": {
-        "name": "Things Are Different Now",
-        "url": "https://open.spotify.com/album/4NcoXQa5SMjILciWjMpHZg"
-      },
-      "artists": [
-        {
-          "name": "Rain City Drive",
-          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
-        }
-      ],
-      "duration_ms": 174428,
-      "name": "Wish You The Best",
-      "url": "https://open.spotify.com/track/1MtgVw093BemZtwbDZyHqj"
     },
     {
       "added_at": "2026-01-23 05:00:33",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-01-23 05:00:33",
       "album": {
-        "name": "zero.point.genesis",
-        "url": "https://open.spotify.com/album/3TCuGF2Cbnu9vP64Wzz30f"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Wild",
-          "url": "https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm"
-        }
-      ],
-      "duration_ms": 211682,
-      "name": "zero.point.genesis",
-      "url": "https://open.spotify.com/track/0pP30F9ruAX0d0Gr7xj8Sh"
-    },
-    {
-      "added_at": "2026-01-23 05:00:33",
-      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/53FUi5ofeISRwJleGHQ6eV"
       },
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2026-01-23 05:00:33",
       "album": {
+        "name": "zero.point.genesis",
+        "url": "https://open.spotify.com/album/3TCuGF2Cbnu9vP64Wzz30f"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Wild",
+          "url": "https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm"
+        }
+      ],
+      "duration_ms": 211682,
+      "name": "zero.point.genesis",
+      "url": "https://open.spotify.com/track/0pP30F9ruAX0d0Gr7xj8Sh"
+    },
+    {
+      "added_at": "2026-01-23 05:00:33",
+      "album": {
         "name": "I Don't Belong Here",
         "url": "https://open.spotify.com/album/7qYZEoFXuB2AAK99y98l2N"
       },
@@ -1531,6 +1531,22 @@
       "duration_ms": 204500,
       "name": "Hereditary",
       "url": "https://open.spotify.com/track/4j4NCpKg0dZKqepfdwL1KH"
+    },
+    {
+      "added_at": "2026-01-23 05:00:33",
+      "album": {
+        "name": "Cyanide",
+        "url": "https://open.spotify.com/album/1SWpPqdd3fVxPMntRUcW7s"
+      },
+      "artists": [
+        {
+          "name": "Normandie",
+          "url": "https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6"
+        }
+      ],
+      "duration_ms": 213562,
+      "name": "Cyanide",
+      "url": "https://open.spotify.com/track/6oyjVwdaKB9FsAYR6FybmS"
     },
     {
       "added_at": "2026-01-23 05:00:33",
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2026-01-23 05:00:33",
       "album": {
-        "name": "ANTIDOTE",
-        "url": "https://open.spotify.com/album/4Uc2ErLyAbWIK9qPqHMj5n"
+        "name": "Precious Space",
+        "url": "https://open.spotify.com/album/62bSzTXBWIfTZoCOtf2cgV"
       },
       "artists": [
         {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+          "name": "Archers",
+          "url": "https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire"
         }
       ],
-      "duration_ms": 183965,
-      "name": "ANTIDOTE",
-      "url": "https://open.spotify.com/track/0PvlSVpiDLnJbI1wmApqqQ"
+      "duration_ms": 161016,
+      "name": "Perfect Strangers",
+      "url": "https://open.spotify.com/track/1UUIQlzikG5RI9J93lNjCS"
     },
     {
       "added_at": "2026-01-23 05:00:33",
@@ -1603,34 +1619,50 @@
     {
       "added_at": "2026-01-23 05:00:33",
       "album": {
-        "name": "Precious Space",
-        "url": "https://open.spotify.com/album/62bSzTXBWIfTZoCOtf2cgV"
+        "name": "ANTIDOTE",
+        "url": "https://open.spotify.com/album/4Uc2ErLyAbWIK9qPqHMj5n"
       },
       "artists": [
         {
-          "name": "Archers",
-          "url": "https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire"
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
         }
       ],
-      "duration_ms": 161016,
-      "name": "Perfect Strangers",
-      "url": "https://open.spotify.com/track/1UUIQlzikG5RI9J93lNjCS"
+      "duration_ms": 183965,
+      "name": "ANTIDOTE",
+      "url": "https://open.spotify.com/track/0PvlSVpiDLnJbI1wmApqqQ"
     },
     {
       "added_at": "2026-01-23 05:00:33",
       "album": {
-        "name": "Cyanide",
-        "url": "https://open.spotify.com/album/1SWpPqdd3fVxPMntRUcW7s"
+        "name": "Feel Something, Great.",
+        "url": "https://open.spotify.com/album/1s63AbCuvbrYCcPAm358Cq"
       },
       "artists": [
         {
-          "name": "Normandie",
-          "url": "https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6"
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
         }
       ],
-      "duration_ms": 213562,
-      "name": "Cyanide",
-      "url": "https://open.spotify.com/track/6oyjVwdaKB9FsAYR6FybmS"
+      "duration_ms": 201787,
+      "name": "Feel Something, Great.",
+      "url": "https://open.spotify.com/track/7twRJwGWZC147R6QkE4s7f"
+    },
+    {
+      "added_at": "2026-01-23 05:00:33",
+      "album": {
+        "name": "SILOS",
+        "url": "https://open.spotify.com/album/5OvVvOZpu1OH1SzcYYgvry"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "duration_ms": 275987,
+      "name": "AD ASTRA",
+      "url": "https://open.spotify.com/track/1dcywVLqlThchSWBGtXcpV"
     },
     {
       "added_at": "2026-01-23 05:00:33",
@@ -1655,50 +1687,18 @@
     {
       "added_at": "2026-01-23 05:00:33",
       "album": {
-        "name": "Feel Something, Great.",
-        "url": "https://open.spotify.com/album/1s63AbCuvbrYCcPAm358Cq"
+        "name": "I Will Not Break",
+        "url": "https://open.spotify.com/album/3tstswhmigzOMuCWC4rpwr"
       },
       "artists": [
         {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
         }
       ],
-      "duration_ms": 201787,
-      "name": "Feel Something, Great.",
-      "url": "https://open.spotify.com/track/7twRJwGWZC147R6QkE4s7f"
-    },
-    {
-      "added_at": "2026-01-23 05:00:33",
-      "album": {
-        "name": "Playing Aces",
-        "url": "https://open.spotify.com/album/5AnND0iv1nJeZUnqwzqqOl"
-      },
-      "artists": [
-        {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-        }
-      ],
-      "duration_ms": 244183,
-      "name": "Playing Aces",
-      "url": "https://open.spotify.com/track/7mEFQ2zsu27VkVB9ncNRB2"
-    },
-    {
-      "added_at": "2026-01-23 05:00:33",
-      "album": {
-        "name": "SILOS",
-        "url": "https://open.spotify.com/album/5OvVvOZpu1OH1SzcYYgvry"
-      },
-      "artists": [
-        {
-          "name": "STARSET",
-          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
-        }
-      ],
-      "duration_ms": 275987,
-      "name": "AD ASTRA",
-      "url": "https://open.spotify.com/track/1dcywVLqlThchSWBGtXcpV"
+      "duration_ms": 292058,
+      "name": "I Will Not Break",
+      "url": "https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ"
     },
     {
       "added_at": "2026-01-23 05:00:33",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2026-01-23 05:00:33",
       "album": {
-        "name": "I Will Not Break",
-        "url": "https://open.spotify.com/album/3tstswhmigzOMuCWC4rpwr"
+        "name": "Playing Aces",
+        "url": "https://open.spotify.com/album/5AnND0iv1nJeZUnqwzqqOl"
       },
       "artists": [
         {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
         }
       ],
-      "duration_ms": 292058,
-      "name": "I Will Not Break",
-      "url": "https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ"
+      "duration_ms": 244183,
+      "name": "Playing Aces",
+      "url": "https://open.spotify.com/track/7mEFQ2zsu27VkVB9ncNRB2"
     },
     {
       "added_at": "2026-01-23 05:00:33",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2026-01-23 05:00:33",
       "album": {
-        "name": "Make It Make Sense",
-        "url": "https://open.spotify.com/album/3TBw5z9f7WZ6Per1aTNkuC"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 188607,
-      "name": "Make It Make Sense",
-      "url": "https://open.spotify.com/track/4KFGxkAAP5D1HIBSwMv7d1"
-    },
-    {
-      "added_at": "2026-01-23 05:00:33",
-      "album": {
         "name": "God Of Angels Trust",
         "url": "https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC"
       },
@@ -1907,6 +1891,22 @@
     {
       "added_at": "2026-01-23 05:00:33",
       "album": {
+        "name": "Make It Make Sense",
+        "url": "https://open.spotify.com/album/3TBw5z9f7WZ6Per1aTNkuC"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 188607,
+      "name": "Make It Make Sense",
+      "url": "https://open.spotify.com/track/4KFGxkAAP5D1HIBSwMv7d1"
+    },
+    {
+      "added_at": "2026-01-23 05:00:33",
+      "album": {
         "name": "Donkey Flats",
         "url": "https://open.spotify.com/album/0lTEWDVwOaO9btbJBfuc7C"
       },
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2026-01-23 05:00:33",
       "album": {
-        "name": "Scales Are Falling",
-        "url": "https://open.spotify.com/album/4r9bwqnjDl2oKbQHBWybNv"
-      },
-      "artists": [
-        {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-        }
-      ],
-      "duration_ms": 352839,
-      "name": "Scales Are Falling",
-      "url": "https://open.spotify.com/track/2Wb33vEP4HJiPpI5J7s4Ha"
-    },
-    {
-      "added_at": "2026-01-23 05:00:33",
-      "album": {
         "name": "Say It To My Face",
         "url": "https://open.spotify.com/album/6k6blSkAQz9DlMfJzqsS6f"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 188731,
       "name": "Say It To My Face",
       "url": "https://open.spotify.com/track/6LJCYaK4xE3WAGjEs547Yr"
+    },
+    {
+      "added_at": "2026-01-23 05:00:33",
+      "album": {
+        "name": "Scales Are Falling",
+        "url": "https://open.spotify.com/album/4r9bwqnjDl2oKbQHBWybNv"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "duration_ms": 352839,
+      "name": "Scales Are Falling",
+      "url": "https://open.spotify.com/track/2Wb33vEP4HJiPpI5J7s4Ha"
     },
     {
       "added_at": "2026-01-23 05:00:33",
@@ -2115,26 +2115,6 @@
     {
       "added_at": "2026-01-23 05:00:33",
       "album": {
-        "name": "They Were Always Here",
-        "url": "https://open.spotify.com/album/6qL50fXDRthHQTp9O24say"
-      },
-      "artists": [
-        {
-          "name": "Zero 9:36",
-          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
-        },
-        {
-          "name": "No Love For The Middle Child",
-          "url": "https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX"
-        }
-      ],
-      "duration_ms": 190428,
-      "name": "Make a Mess",
-      "url": "https://open.spotify.com/track/0crhkNZJhowGwML5s7TYGp"
-    },
-    {
-      "added_at": "2026-01-23 05:00:33",
-      "album": {
         "name": "Bad Dreams (feat. Of Virtue)",
         "url": "https://open.spotify.com/album/2CIZQKBEuZJrs6LEY7bW31"
       },
@@ -2155,6 +2135,22 @@
     {
       "added_at": "2026-01-23 05:00:33",
       "album": {
+        "name": "Worst in You",
+        "url": "https://open.spotify.com/album/1vtNfw2wx3CYEenhVJHkU6"
+      },
+      "artists": [
+        {
+          "name": "Versus Me",
+          "url": "https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9"
+        }
+      ],
+      "duration_ms": 206672,
+      "name": "Worst in You",
+      "url": "https://open.spotify.com/track/7HhLrUGNVM0mHMoFwHYINb"
+    },
+    {
+      "added_at": "2026-01-23 05:00:33",
+      "album": {
         "name": "Darkness Always Wins",
         "url": "https://open.spotify.com/album/6WWNTFaiCuC8rQvDRVIQWr"
       },
@@ -2167,6 +2163,26 @@
       "duration_ms": 290309,
       "name": "Darkness Always Wins",
       "url": "https://open.spotify.com/track/7wBKXbleeJQuQDnfKlOOGe"
+    },
+    {
+      "added_at": "2026-01-23 05:00:33",
+      "album": {
+        "name": "They Were Always Here",
+        "url": "https://open.spotify.com/album/6qL50fXDRthHQTp9O24say"
+      },
+      "artists": [
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        },
+        {
+          "name": "No Love For The Middle Child",
+          "url": "https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX"
+        }
+      ],
+      "duration_ms": 190428,
+      "name": "Make a Mess",
+      "url": "https://open.spotify.com/track/0crhkNZJhowGwML5s7TYGp"
     },
     {
       "added_at": "2026-01-23 05:00:33",
@@ -2211,22 +2227,6 @@
     {
       "added_at": "2026-01-23 05:00:33",
       "album": {
-        "name": "Worst in You",
-        "url": "https://open.spotify.com/album/1vtNfw2wx3CYEenhVJHkU6"
-      },
-      "artists": [
-        {
-          "name": "Versus Me",
-          "url": "https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9"
-        }
-      ],
-      "duration_ms": 206672,
-      "name": "Worst in You",
-      "url": "https://open.spotify.com/track/7HhLrUGNVM0mHMoFwHYINb"
-    },
-    {
-      "added_at": "2026-01-23 05:00:33",
-      "album": {
         "name": "GUTSY",
         "url": "https://open.spotify.com/album/1cSEktYGDM94FlEfAKNOiZ"
       },
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2026-01-23 05:00:33",
       "album": {
-        "name": "A Pure Expression",
-        "url": "https://open.spotify.com/album/5Epd7YN5aMt7VUOqteapKs"
-      },
-      "artists": [
-        {
-          "name": " I Promised The World",
-          "url": "https://open.spotify.com/artist/2JolAkglUjazbqQetBefGk"
-        }
-      ],
-      "duration_ms": 243638,
-      "name": "A Pure Expression",
-      "url": "https://open.spotify.com/track/6Mn8iXyjC8cVBy3dCdDGEu"
-    },
-    {
-      "added_at": "2026-01-23 05:00:33",
-      "album": {
         "name": "The Only Heaven You'll Know",
         "url": "https://open.spotify.com/album/7rBKkQ3Vz9D6jbPwoEWRnI"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 251542,
       "name": "ANTIDOTE - FULL MIX",
       "url": "https://open.spotify.com/track/4Wnr11ZrETXAK9xQu0q7iQ"
+    },
+    {
+      "added_at": "2026-01-23 05:00:33",
+      "album": {
+        "name": "A Pure Expression",
+        "url": "https://open.spotify.com/album/5Epd7YN5aMt7VUOqteapKs"
+      },
+      "artists": [
+        {
+          "name": " I Promised The World",
+          "url": "https://open.spotify.com/artist/2JolAkglUjazbqQetBefGk"
+        }
+      ],
+      "duration_ms": 243638,
+      "name": "A Pure Expression",
+      "url": "https://open.spotify.com/track/6Mn8iXyjC8cVBy3dCdDGEu"
     },
     {
       "added_at": "2026-01-23 05:00:33",
@@ -2403,26 +2403,6 @@
     {
       "added_at": "2026-01-23 05:00:33",
       "album": {
-        "name": "Never Gonna Quit",
-        "url": "https://open.spotify.com/album/390SgOsbr8mH0P7D2DDgmm"
-      },
-      "artists": [
-        {
-          "name": "Sterling Elza",
-          "url": "https://open.spotify.com/artist/4KKiX98Tb5MRPiPnTmPgP0"
-        },
-        {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
-        }
-      ],
-      "duration_ms": 170847,
-      "name": "Never Gonna Quit",
-      "url": "https://open.spotify.com/track/6YHtgaBZsEDCCL408Uokuu"
-    },
-    {
-      "added_at": "2026-01-23 05:00:33",
-      "album": {
         "name": "Black Heart",
         "url": "https://open.spotify.com/album/08HRdajbOfZQfoVsDmy9vj"
       },
@@ -2443,18 +2423,22 @@
     {
       "added_at": "2026-01-23 05:00:33",
       "album": {
-        "name": "Devil in my Head",
-        "url": "https://open.spotify.com/album/00Ql3MLPTUfQetuJ7SVo22"
+        "name": "Never Gonna Quit",
+        "url": "https://open.spotify.com/album/390SgOsbr8mH0P7D2DDgmm"
       },
       "artists": [
         {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+          "name": "Sterling Elza",
+          "url": "https://open.spotify.com/artist/4KKiX98Tb5MRPiPnTmPgP0"
+        },
+        {
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
         }
       ],
-      "duration_ms": 201049,
-      "name": "Devil in my Head",
-      "url": "https://open.spotify.com/track/04yrU3ucUOpWIzY7AG9CCj"
+      "duration_ms": 170847,
+      "name": "Never Gonna Quit",
+      "url": "https://open.spotify.com/track/6YHtgaBZsEDCCL408Uokuu"
     },
     {
       "added_at": "2026-01-23 05:00:33",
@@ -2471,6 +2455,22 @@
       "duration_ms": 169133,
       "name": "Enough Is Enough",
       "url": "https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF"
+    },
+    {
+      "added_at": "2026-01-23 05:00:33",
+      "album": {
+        "name": "Devil in my Head",
+        "url": "https://open.spotify.com/album/00Ql3MLPTUfQetuJ7SVo22"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "duration_ms": 201049,
+      "name": "Devil in my Head",
+      "url": "https://open.spotify.com/track/04yrU3ucUOpWIzY7AG9CCj"
     },
     {
       "added_at": "2026-01-23 05:00:33",

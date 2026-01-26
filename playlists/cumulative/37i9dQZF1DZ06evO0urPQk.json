@@ -995,6 +995,24 @@
     },
     {
       "album": {
+        "name": "THE MUSEUM \u2163",
+        "url": "https://open.spotify.com/album/3eKRZi4vdqPRKIaykrR6n4"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259466,
+      "name": "NEVER SURRENDER",
+      "url": "https://open.spotify.com/track/27wURUxMmJ969ur5DBzhfD"
+    },
+    {
+      "album": {
         "name": "NEVER SURRENDER",
         "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
       },
@@ -1734,7 +1752,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 266080,
       "name": "Trinity Cross",
       "url": "https://open.spotify.com/track/1fDNrXuIKfZ2PhIKcbbwa3"
@@ -1885,6 +1903,24 @@
     },
     {
       "album": {
+        "name": "IMPACT EXCITER",
+        "url": "https://open.spotify.com/album/7eRju7cXN0JfW34mqwVeUA"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249640,
+      "name": "Young Alive!",
+      "url": "https://open.spotify.com/track/70q05FPF89GwqGnyCLs9ds"
+    },
+    {
+      "album": {
         "name": "SUPERNAL LIBERTY",
         "url": "https://open.spotify.com/album/3JZgRA7BTYogkdQu8OboVt"
       },
@@ -1932,7 +1968,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 287493,
       "name": "\u30a8\u30c7\u30f3",
       "url": "https://open.spotify.com/track/6Qvrb0s2x3wwa5JrjyiFp8"

@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 253379,
+  "num_followers": 253445,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2025-12-19 00:00:34",
       "album": {
-        "name": "Fast",
-        "url": "https://open.spotify.com/album/5JBVZcU7tXcXl8W8YIcqxf"
-      },
-      "artists": [
-        {
-          "name": "FUNFUN",
-          "url": "https://open.spotify.com/artist/0O4aXwpWk4Jy52PQwhbyV6"
-        },
-        {
-          "name": "Dallien",
-          "url": "https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ"
-        }
-      ],
-      "duration_ms": 198688,
-      "name": "Fast",
-      "url": "https://open.spotify.com/track/0ffGqnq8C2E2GdJjZLTg5I"
-    },
-    {
-      "added_at": "2025-12-19 00:00:34",
-      "album": {
         "name": "Dreamscapes",
         "url": "https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo"
       },
@@ -1115,26 +1095,22 @@
     {
       "added_at": "2025-12-19 00:00:34",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3"
+        "name": "Fast",
+        "url": "https://open.spotify.com/album/5JBVZcU7tXcXl8W8YIcqxf"
       },
       "artists": [
         {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+          "name": "FUNFUN",
+          "url": "https://open.spotify.com/artist/0O4aXwpWk4Jy52PQwhbyV6"
         },
         {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        },
-        {
-          "name": "Tigerblind",
-          "url": "https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA"
+          "name": "Dallien",
+          "url": "https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ"
         }
       ],
-      "duration_ms": 258644,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL"
+      "duration_ms": 198688,
+      "name": "Fast",
+      "url": "https://open.spotify.com/track/0ffGqnq8C2E2GdJjZLTg5I"
     },
     {
       "added_at": "2025-12-19 00:00:34",
@@ -1163,22 +1139,26 @@
     {
       "added_at": "2025-12-19 00:00:34",
       "album": {
-        "name": "Keep Dancing",
-        "url": "https://open.spotify.com/album/7478dTxcx2Gg9zuoKLF3RG"
+        "name": "Control",
+        "url": "https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3"
       },
       "artists": [
         {
-          "name": "heylucas",
-          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
         },
         {
-          "name": "Lily Denning",
-          "url": "https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX"
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        },
+        {
+          "name": "Tigerblind",
+          "url": "https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA"
         }
       ],
-      "duration_ms": 180480,
-      "name": "Keep Dancing",
-      "url": "https://open.spotify.com/track/0WYihY6WRZeHYixHV6cMSP"
+      "duration_ms": 258644,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL"
     },
     {
       "added_at": "2025-12-19 00:00:34",
@@ -1215,6 +1195,26 @@
       "duration_ms": 305235,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo"
+    },
+    {
+      "added_at": "2025-12-19 00:00:34",
+      "album": {
+        "name": "Keep Dancing",
+        "url": "https://open.spotify.com/album/7478dTxcx2Gg9zuoKLF3RG"
+      },
+      "artists": [
+        {
+          "name": "heylucas",
+          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
+        },
+        {
+          "name": "Lily Denning",
+          "url": "https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Keep Dancing",
+      "url": "https://open.spotify.com/track/0WYihY6WRZeHYixHV6cMSP"
     }
   ],
   "unique_name": "Melodic & Euphoric",

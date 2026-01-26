@@ -895,6 +895,24 @@
     },
     {
       "album": {
+        "name": "El Cabro Curao",
+        "url": "https://open.spotify.com/album/4K0oyBxGYlW7jEpTre1yOj"
+      },
+      "artists": [
+        {
+          "name": "Los Villanos de Coltauco",
+          "url": "https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186936,
+      "name": "El Cabro Curao",
+      "url": "https://open.spotify.com/track/0f9eUTpRbz2KxLN6ZzEXCF"
+    },
+    {
+      "album": {
         "name": "La Banda Ranchera Femenina de Chile",
         "url": "https://open.spotify.com/album/3Nmtvl4Y9aY50xATCoMVdX"
       },
@@ -2432,7 +2450,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 191920,
       "name": "Sufriendo por Tu Amor",
       "url": "https://open.spotify.com/track/2Nyi9cEtUdRvtxJ3WG09ik"

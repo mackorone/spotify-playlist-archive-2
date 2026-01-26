@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 二階堂和美 Kazumi Nikaido
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,262 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,266 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,25 +63,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 53 | [okay, okay](https://open.spotify.com/track/2jU5rn89JNXT3U2sTN1qJ3) | [flip\-flops](https://open.spotify.com/artist/0kIWft47tbC7DorFdGEDWz) | [okay, okay](https://open.spotify.com/album/0zdM2hIDHV0NM57Rp6n3LI) | 2:59 |
 | 54 | [ドミノのお告げ](https://open.spotify.com/track/5G9RWqRyJtp6uzsCx1ZtlF) | [Österreich](https://open.spotify.com/artist/16gEZTmX8wNpdWCgD28LRx) | [ドミノのお告げ](https://open.spotify.com/album/0HGBLHuXS6I8okqdwmycCM) | 3:46 |
 | 55 | [日常](https://open.spotify.com/track/3JJkbpH9DNne3WuiU2EVJB) | [みらん](https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX) | [日常](https://open.spotify.com/album/79Uy7BwndVjzYxrlvPvdn4) | 4:24 |
-| 56 | [Starfish](https://open.spotify.com/track/5GboUNyrRZi985auGkVqUC) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Starfish](https://open.spotify.com/album/0PV0es0tNhOxWsLE9IxGCA) | 3:07 |
-| 57 | [トロイメライ](https://open.spotify.com/track/1tgFqpP0oc3kyEwvgDIhJK) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [トロイメライ](https://open.spotify.com/album/3IBBEcKGqpaPqnjRyxrSbl) | 4:02 |
-| 58 | [雨に打たれて](https://open.spotify.com/track/55HMKYZOKMYc58naFdvCMc) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [雨に打たれて](https://open.spotify.com/album/7FnpL2blQQRVKEIiY8gC7c) | 3:18 |
-| 59 | [走馬灯](https://open.spotify.com/track/78xKdtdcxkOedPTxeRCJpL) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [走馬灯](https://open.spotify.com/album/4D62Xo6sbsBymHPAQ5v0fV) | 5:14 |
-| 60 | [第二心 \(Dainishin\)](https://open.spotify.com/track/1nnl5SqTlN9PNY9xFcSC26) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [第二心 \(Dainishin\)](https://open.spotify.com/album/78oTBSWxd86gNnwNf4XOTi) | 3:50 |
-| 61 | [White Chocolate](https://open.spotify.com/track/7N2ziBCRxWB1ulFxUUD74a) | [the BL00M](https://open.spotify.com/artist/6K70Hpx3VPRd2DzJ9CQ76x), [RINA](https://open.spotify.com/artist/5pIXhOHmNVlgv5K2BoKRuN) | [White Chocolate](https://open.spotify.com/album/0dql0NQrX9rPQ5ykCWQI2B) | 3:06 |
+| 56 | [第二心 \(Dainishin\)](https://open.spotify.com/track/1nnl5SqTlN9PNY9xFcSC26) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [第二心 \(Dainishin\)](https://open.spotify.com/album/78oTBSWxd86gNnwNf4XOTi) | 3:50 |
+| 57 | [Starfish](https://open.spotify.com/track/5GboUNyrRZi985auGkVqUC) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Starfish](https://open.spotify.com/album/0PV0es0tNhOxWsLE9IxGCA) | 3:07 |
+| 58 | [トロイメライ](https://open.spotify.com/track/1tgFqpP0oc3kyEwvgDIhJK) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [トロイメライ](https://open.spotify.com/album/3IBBEcKGqpaPqnjRyxrSbl) | 4:02 |
+| 59 | [BITTERSWEET](https://open.spotify.com/track/0LHBidxCBlOCzsCe2VICZx) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw) | [BITTERSWEET](https://open.spotify.com/album/5iT4t4tsexjyInZ7G0Tfdq) | 3:17 |
+| 60 | [雨に打たれて](https://open.spotify.com/track/55HMKYZOKMYc58naFdvCMc) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [雨に打たれて](https://open.spotify.com/album/7FnpL2blQQRVKEIiY8gC7c) | 3:18 |
+| 61 | [走馬灯](https://open.spotify.com/track/78xKdtdcxkOedPTxeRCJpL) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [走馬灯](https://open.spotify.com/album/4D62Xo6sbsBymHPAQ5v0fV) | 5:14 |
 | 62 | [“You're the Best Person in This World”](https://open.spotify.com/track/0vb4RHCjcytUzXJF2Vwykh) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [LOST AND FOUND](https://open.spotify.com/album/26ZgfJUzodn8bwZNmY6xhu) | 4:05 |
 | 63 | [BAND A](https://open.spotify.com/track/6h9kCwUpd3hKWZ5Huioi3M) | [FCO.](https://open.spotify.com/artist/4J9kLpFakm3b9gYfdFfkAq) | [Inc](https://open.spotify.com/album/05DGT91gvVgf8lUdkUzAPV) | 3:21 |
-| 64 | [BITTERSWEET](https://open.spotify.com/track/0LHBidxCBlOCzsCe2VICZx) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw) | [BITTERSWEET](https://open.spotify.com/album/5iT4t4tsexjyInZ7G0Tfdq) | 3:17 |
-| 65 | [星の下](https://open.spotify.com/track/5CJha8pwdV4XJhWGa7b2EA) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [星の下](https://open.spotify.com/album/3PqW5RaycVsciS9BQhUSV6) | 3:26 |
-| 66 | [Brutalist](https://open.spotify.com/track/6rWMUmCe2TQyG46glwRWRK) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Fibril](https://open.spotify.com/album/3Vh81JC3iRRG8UTOMkTT6P) | 2:54 |
-| 67 | [Indifference](https://open.spotify.com/track/21SGNokBaoQ93tRWjtL13u) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Indifference](https://open.spotify.com/album/16qdb0jBUQb3ounDinB3Y8) | 3:23 |
+| 64 | [Brutalist](https://open.spotify.com/track/6rWMUmCe2TQyG46glwRWRK) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Fibril](https://open.spotify.com/album/3Vh81JC3iRRG8UTOMkTT6P) | 2:54 |
+| 65 | [White Chocolate](https://open.spotify.com/track/7N2ziBCRxWB1ulFxUUD74a) | [the BL00M](https://open.spotify.com/artist/6K70Hpx3VPRd2DzJ9CQ76x), [RINA](https://open.spotify.com/artist/5pIXhOHmNVlgv5K2BoKRuN) | [White Chocolate](https://open.spotify.com/album/0dql0NQrX9rPQ5ykCWQI2B) | 3:06 |
+| 66 | [星の下](https://open.spotify.com/track/5CJha8pwdV4XJhWGa7b2EA) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [星の下](https://open.spotify.com/album/3PqW5RaycVsciS9BQhUSV6) | 3:26 |
+| 67 | [一縷](https://open.spotify.com/track/0Ha0Jamuh0OyS9q65t9c0N) | [UNIDOTS](https://open.spotify.com/artist/2uByNuOCgzpdf1JOf1M3LZ) | [一縷](https://open.spotify.com/album/004hVSOMsD3ryx7iMugGGJ) | 3:34 |
 | 68 | [異物混入](https://open.spotify.com/track/4AD5vjzHeG7gqoxS357joP) | [FCO.](https://open.spotify.com/artist/4J9kLpFakm3b9gYfdFfkAq) | [異物混入](https://open.spotify.com/album/3eGwlLkrbtbutag5RU8nPa) | 2:31 |
-| 69 | [Dear Grandpa](https://open.spotify.com/track/0DaamS0punYAGkjmczFPWE) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Dear Grandpa](https://open.spotify.com/album/6Oxnod1lXbclb2DaCxUCP3) | 2:58 |
-| 70 | [一縷](https://open.spotify.com/track/0Ha0Jamuh0OyS9q65t9c0N) | [UNIDOTS](https://open.spotify.com/artist/2uByNuOCgzpdf1JOf1M3LZ) | [一縷](https://open.spotify.com/album/004hVSOMsD3ryx7iMugGGJ) | 3:34 |
+| 69 | [Indifference](https://open.spotify.com/track/21SGNokBaoQ93tRWjtL13u) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Indifference](https://open.spotify.com/album/16qdb0jBUQb3ounDinB3Y8) | 3:23 |
+| 70 | [Dear Grandpa](https://open.spotify.com/track/0DaamS0punYAGkjmczFPWE) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Dear Grandpa](https://open.spotify.com/album/6Oxnod1lXbclb2DaCxUCP3) | 2:58 |
 | 71 | [Sentimental Journey](https://open.spotify.com/track/2SQ8cSa0qW495Gw1mmvMGz) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [MUNI](https://open.spotify.com/album/3VPIqh2pDnTVTpw8igR1w2) | 3:40 |
 | 72 | [9,it slowly hovers](https://open.spotify.com/track/4alBLDDDYgdzcJC9PdVT4F) | [Geloomy](https://open.spotify.com/artist/21NKv3DBcDuDjOCxipK7KK) | [9,it slowly hovers](https://open.spotify.com/album/1YKDkKpx4DkTFfAOceBlOG) | 3:39 |
 | 73 | [HEBITORA](https://open.spotify.com/track/2PgtHgI0v78ELADdsWoXDs) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC) | [HEBITORA](https://open.spotify.com/album/7uGRLS4ZTCPASN8NoOsDky) | 4:17 |
-| 74 | [BILLIE](https://open.spotify.com/track/1xWY4vdMMjXgiEsQSi8krp) | [Kazumi Nikaido](https://open.spotify.com/artist/0bbguXjnV68XM0aFeR7S6I) | [BILLIE](https://open.spotify.com/album/55JLbSgp21qzXwKlulo1Rc) | 3:51 |
-| 75 | [Hold Me Tight](https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Hold Me Tight](https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X) | 3:08 |
+| 74 | [Hold Me Tight](https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Hold Me Tight](https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X) | 3:08 |
+| 75 | [BILLIE](https://open.spotify.com/track/1xWY4vdMMjXgiEsQSi8krp) | [Kazumi Nikaido](https://open.spotify.com/artist/0bbguXjnV68XM0aFeR7S6I) | [BILLIE](https://open.spotify.com/album/55JLbSgp21qzXwKlulo1Rc) | 3:51 |
 
 Snapshot ID: `AAAAALcY+gD13aZE0Qv/yXnPtlOokAyX`

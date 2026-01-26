@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-765 songs - 1 day 19 hr 53 min
+769 songs - 1 day 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Buy My T\-Shirts](https://open.spotify.com/track/1Dans0sBCW3F7oxUbGHbXH) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc), [Davenola](https://open.spotify.com/artist/1bZPqoTxPcCaTMVZOe3kvT) | [Buy My T\-Shirts](https://open.spotify.com/album/60ZuOwqdV2W9DgOxvVG1VB) | 1:04 | 2025-08-03 |  |
 | [Can We Still Be Friends?!](https://open.spotify.com/track/0mtrYWz97kLSnAGEIlK4Ga) | [Danny Vista](https://open.spotify.com/artist/5yARrCRb9gvoytlip8ybRt) | [Can We Still Be Friends?!](https://open.spotify.com/album/2ra43CKUL3REMQ7MhS60gj) | 2:46 | 2026-01-12 |  |
 | [Can't Get You Out of My Head \- Audio Pulleys Remix](https://open.spotify.com/track/0TizK9mGVoFiRebj7JP3AP) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc), [Audio Pulleys](https://open.spotify.com/artist/6R1MH58VI4crgVPxnlxK7t) | [Can't Get You Out of My Head \(Audio Pulleys Remix\)](https://open.spotify.com/album/4QoRaGoXtHZueTqvhzOXQU) | 3:05 | 2025-08-03 |  |
+| [Can't Stop Won't Stop](https://open.spotify.com/track/3fF4VrbvsSf8rqz7m1OCZX) | [Cupp](https://open.spotify.com/artist/0TUYzuNtOTqWXXW1xVGiB8) | [One the Beginning](https://open.spotify.com/album/4kdnk2M9nTdtOZnLeSqma4) | 2:32 | 2026-01-25 |  |
 | [Cancer Rising](https://open.spotify.com/track/2J1uNKuBbq2HK2w48PnyQ2) | [Nine 9](https://open.spotify.com/artist/1uB2kdO0TQb3q0DRBTCcaV) | [Cancer Rising](https://open.spotify.com/album/0h7V3DCNwo7jbiNu06UncE) | 5:46 | 2025-08-03 |  |
 | [Carbonic Acid](https://open.spotify.com/track/0MBnIaokH39NLwo8vtcClZ) | [Schwimmbad](https://open.spotify.com/artist/3huQYnrNPMahn6aYRNJgc9) | [Reibregal](https://open.spotify.com/album/4dBKiXCD2Bj8Ap2KFLasK5) | 3:18 | 2025-12-23 | 2026-01-15 |
 | [Castaway](https://open.spotify.com/track/7oEXp5pzlZIGafGaAM3ibD) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [Castaway](https://open.spotify.com/album/5omwhRrrco9U57TmhEu1D9) | 3:49 | 2026-01-19 |  |
@@ -396,6 +397,7 @@
 | [Lycoris](https://open.spotify.com/track/1gL1QvP17ZY5JJDjDi1q1N) | [Reflection of Flesh](https://open.spotify.com/artist/0Rs07zaVCdgBdjxQQEBAOh) | [We Are Legion](https://open.spotify.com/album/0SkYNxbu2XwUkfdIy6Wyuc) | 5:00 | 2025-12-16 | 2026-01-06 |
 | [Lykkeland](https://open.spotify.com/track/65VqFJa0WStL5umZ3k0Mmw) | [Lysne](https://open.spotify.com/artist/4RsfxkBO6jZw4qHNEJp5xm) | [Lykkeland](https://open.spotify.com/album/4Ew3xeUtj2zLVJyq2IKioi) | 2:14 | 2026-01-14 |  |
 | [Mad People](https://open.spotify.com/track/3QVIGA3R10hucV3BTehZTU) | [Supersonic Boy](https://open.spotify.com/artist/6LnpFqRCx2Mmq6ceDatTj3) | [Mad People](https://open.spotify.com/album/3i5bIj8w0fzi5gvc7j1RMV) | 3:04 | 2026-01-15 |  |
+| [Mad Puppies](https://open.spotify.com/track/1BCF3qP2Tm8YL9Lo1VmcHA) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Mad Puppies](https://open.spotify.com/album/08M39olgNPLTRMjpa6pf0u) | 2:08 | 2026-01-25 |  |
 | [Magic Dots](https://open.spotify.com/track/3yGrz2tZ6y8MwnD7lHaucI) | [Cupp](https://open.spotify.com/artist/0TUYzuNtOTqWXXW1xVGiB8) | [Magic Dots](https://open.spotify.com/album/2g8U7447dCSIWIZ4B0a2r2) | 2:49 | 2026-01-23 |  |
 | [Magika](https://open.spotify.com/track/1AMefkhOd7ZVYfKH1IGuPu) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 3:25 | 2026-01-17 |  |
 | [Make Those Eyes](https://open.spotify.com/track/4j9vc99u7Oza7DGXbE8goh) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [Nothing To Say](https://open.spotify.com/album/5NeEmefGoLWrjXzzKrU7dF) | 3:01 | 2025-08-03 | 2026-01-15 |
@@ -679,6 +681,7 @@
 | [They Say/Honest](https://open.spotify.com/track/1BFySPO6JOLLM6g0T2WY8a) | [Snugsworth](https://open.spotify.com/artist/38PIRv5SnPsCwlQzoL1ec4) | [They Say/Honest](https://open.spotify.com/album/3D2qk5YQmfUcC7ascblRR5) | 2:21 | 2026-01-20 |  |
 | [Thick 'N Thin](https://open.spotify.com/track/6BTiiTIYAfjfktUzy3tzYg) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 5:27 | 2025-09-16 |  |
 | [This Is War](https://open.spotify.com/track/5xHb6LAV5YmTauShzQINtZ) | [A Small Madness](https://open.spotify.com/artist/6F0GRN52TubFymPaF7NpSS) | [This Is War](https://open.spotify.com/album/1qkMeLSTl7fY9aNzh81twf) | 4:00 | 2025-12-04 | 2025-12-24 |
+| [This Machine](https://open.spotify.com/track/3vpK71WrTIZLXsmWuT6Qg2) | [Hat Pin Panic](https://open.spotify.com/artist/77f1HkjJ9kj51sNjprGklj) | [Turn Past Tomorrow](https://open.spotify.com/album/3jWcJlU5XrV1b381It9xUw) | 5:10 | 2026-01-25 |  |
 | [This One Is for Free](https://open.spotify.com/track/2eXhn1zYO6WXsBFyiPTWOB) | [Poor Bambi](https://open.spotify.com/artist/4GvgWv8CdOC1wDhLx78N7T) | [This One Is for Free](https://open.spotify.com/album/3btpkO8OgHri2VNnSYIayz) | 2:15 | 2026-01-10 |  |
 | [Time](https://open.spotify.com/track/2rHVVmB9ZmvHeLXIzApXsT) | [Rocketmonkey Lovemachine](https://open.spotify.com/artist/2de9uHlJsqASrZoofVPQAh) | [Rmlm](https://open.spotify.com/album/3yTDjfwFEPYFaZbSuPLQQa) | 3:03 | 2025-12-28 | 2026-01-22 |
 | [Time To Party \(David CAA Remix\) \- Time To Party \(David CAA Remix\)](https://open.spotify.com/track/3Ho2kSzDG46DfariaETHDt) | [Calling All Astronauts](https://open.spotify.com/artist/0xqglBsPF9COYj64LNl85t) | [Time To Party \(David CAA Remix\)](https://open.spotify.com/album/2KuzLIsm1OOl48rWRRTFXb) | 4:48 | 2025-11-13 | 2025-12-10 |
@@ -708,6 +711,7 @@
 | [Voyages](https://open.spotify.com/track/1tvo8JlXBQh7cD6Nf96lmV) | [REFORMIST](https://open.spotify.com/artist/6xFMODZuwYPuLeILtpuOqI) | [Voyages](https://open.spotify.com/album/6WMbMHvvLjLFvRMxM6KxSn) | 4:27 | 2026-01-19 |  |
 | [Wake Up Call \(feat\. F R E D U A of Bad Rabbits\)](https://open.spotify.com/track/1gx2AOizi4LUrSgFySLEM7) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR), [F R E D U A](https://open.spotify.com/artist/6QEn6c2h9fzN7TTGdUSxGs), [Bad Rabbits](https://open.spotify.com/artist/534rgZ76LDMlM7xLt9xSGR) | [GUTS](https://open.spotify.com/album/3F5Oy8DHLFQxqnfvwkOnS7) | 4:03 | 2025-12-10 | 2026-01-06 |
 | [Walk With Me](https://open.spotify.com/track/4SY4BgJEk2cYGA5Q8IJzMY) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 4:12 | 2025-09-16 |  |
+| [Walking Filth](https://open.spotify.com/track/4Is5kHqgxB7VeIByWyv62G) | [OUTWORLD](https://open.spotify.com/artist/4eAqOKh1IrkICoFv8NXjnn) | [EP](https://open.spotify.com/album/4b880Bbla3ITm00f4LpLzh) | 2:28 | 2026-01-25 |  |
 | [Wash](https://open.spotify.com/track/4r7ML0PiZkZBk6VQxQP5hz) | [Darkness Is My Canvas](https://open.spotify.com/artist/4KLsuw8MtGdxOw8Mx9hwYH) | [The End Of Times](https://open.spotify.com/album/1kAyzmSHintJnWxeLIMqAY) | 3:10 | 2025-11-23 | 2025-12-24 |
 | [Wasn't Born To Follow](https://open.spotify.com/track/0Rx5hdjmYdBeaYDvSsCOeR) | [Silverbird](https://open.spotify.com/artist/035EbN0ZDZgyxcR2nzZUvW) | [Wasn't Born To Follow](https://open.spotify.com/album/73KhJvGUfv9oRYbHlYp4xa) | 3:21 | 2025-12-16 | 2026-01-06 |
 | [Waste My Time](https://open.spotify.com/track/2KfOZHMkNuHiNI96bwcVHl) | [The Black Mariah Theater](https://open.spotify.com/artist/3lNGw2cEjnrWOXiJoeNhfS) | [Waste My Time](https://open.spotify.com/album/1wlx15K8jxITPW0yeeWYS7) | 3:15 | 2026-01-24 |  |

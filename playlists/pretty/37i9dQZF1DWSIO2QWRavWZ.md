@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Nija
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,324 likes - 140 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,341 likes - 140 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

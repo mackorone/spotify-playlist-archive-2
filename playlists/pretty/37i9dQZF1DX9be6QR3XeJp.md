@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Lucky Iris
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,572 likes - 264 songs - 13 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,569 likes - 264 songs - 13 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

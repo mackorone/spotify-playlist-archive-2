@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 22728,
+  "num_followers": 22740,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -911,22 +911,26 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
-        "name": "Gingado",
-        "url": "https://open.spotify.com/album/3FEL97ooyFfpzxruDM6HBI"
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/7pDIW45Fh8ILGQ8lvxqYNH"
       },
       "artists": [
         {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
+          "name": "Tha\u00edde",
+          "url": "https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe"
         },
         {
-          "name": "DIMELLABS",
-          "url": "https://open.spotify.com/artist/3jhKiT3Vs47GPa03YxJyG9"
+          "name": "Fat Family",
+          "url": "https://open.spotify.com/artist/41alNIXrgEbMoz7bBgA3h2"
+        },
+        {
+          "name": "DJ Maxnosbeatz",
+          "url": "https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN"
         }
       ],
-      "duration_ms": 147125,
-      "name": "Gingado",
-      "url": "https://open.spotify.com/track/2f1WwFtdxF8QoJBetGSwq2"
+      "duration_ms": 176647,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4OHE1G5oqOF40LPcbduw6P"
     },
     {
       "added_at": "2025-12-11 16:00:17",
@@ -951,26 +955,22 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/7pDIW45Fh8ILGQ8lvxqYNH"
+        "name": "Gingado",
+        "url": "https://open.spotify.com/album/3FEL97ooyFfpzxruDM6HBI"
       },
       "artists": [
         {
-          "name": "Tha\u00edde",
-          "url": "https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe"
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
         },
         {
-          "name": "Fat Family",
-          "url": "https://open.spotify.com/artist/41alNIXrgEbMoz7bBgA3h2"
-        },
-        {
-          "name": "DJ Maxnosbeatz",
-          "url": "https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN"
+          "name": "DIMELLABS",
+          "url": "https://open.spotify.com/artist/3jhKiT3Vs47GPa03YxJyG9"
         }
       ],
-      "duration_ms": 176647,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/4OHE1G5oqOF40LPcbduw6P"
+      "duration_ms": 147125,
+      "name": "Gingado",
+      "url": "https://open.spotify.com/track/2f1WwFtdxF8QoJBetGSwq2"
     },
     {
       "added_at": "2025-12-11 16:00:17",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
+        "name": "Fatal",
+        "url": "https://open.spotify.com/album/0gCVzdKjphVLTqb4BPyqt4"
+      },
+      "artists": [
+        {
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+        }
+      ],
+      "duration_ms": 144940,
+      "name": "Fatal",
+      "url": "https://open.spotify.com/track/72UUzIwp3WFPB23xrfPQWS"
+    },
+    {
+      "added_at": "2025-12-11 16:00:17",
+      "album": {
         "name": "P\u00f4kas / Mfalme",
         "url": "https://open.spotify.com/album/3NSNBHp6tJvSswP4TIagVh"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 345022,
       "name": "P\u00f4kas",
       "url": "https://open.spotify.com/track/7rxlGOl1BGVdCcV3uC0KQN"
-    },
-    {
-      "added_at": "2025-12-11 16:00:17",
-      "album": {
-        "name": "Fatal",
-        "url": "https://open.spotify.com/album/0gCVzdKjphVLTqb4BPyqt4"
-      },
-      "artists": [
-        {
-          "name": "Juniper",
-          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
-        }
-      ],
-      "duration_ms": 144940,
-      "name": "Fatal",
-      "url": "https://open.spotify.com/track/72UUzIwp3WFPB23xrfPQWS"
     },
     {
       "added_at": "2025-12-11 16:00:17",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
-        "name": "Atitude",
-        "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
-      },
-      "artists": [
-        {
-          "name": "RUBY",
-          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
-        },
-        {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
-        }
-      ],
-      "duration_ms": 185741,
-      "name": "Brinca Comigo",
-      "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
-    },
-    {
-      "added_at": "2025-12-11 16:00:17",
-      "album": {
         "name": "Doce Veneno",
         "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 135693,
       "name": "Doce Veneno",
       "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
+    },
+    {
+      "added_at": "2025-12-11 16:00:17",
+      "album": {
+        "name": "Atitude",
+        "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
+      },
+      "artists": [
+        {
+          "name": "RUBY",
+          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
+        },
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        }
+      ],
+      "duration_ms": 185741,
+      "name": "Brinca Comigo",
+      "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
     },
     {
       "added_at": "2025-12-11 16:00:17",

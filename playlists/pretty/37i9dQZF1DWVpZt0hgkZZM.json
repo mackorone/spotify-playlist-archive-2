@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 44001,
+  "num_followers": 44014,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "The Reventon: 30 Pegaditas",
-        "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "El Baile del Perrito",
-      "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Rebotando",
         "url": "https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 263493,
       "name": "El Taqui Taqui - Original Mix",
       "url": "https://open.spotify.com/track/20jvgYvnqySWnNCsHQZnXk"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "The Reventon: 30 Pegaditas",
+        "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "El Baile del Perrito",
+      "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -471,18 +471,18 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Exitos De Billo's Caracas Boys",
-        "url": "https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n"
+        "name": "Nosotros",
+        "url": "https://open.spotify.com/album/4phrVJzqEfnreKBtuChFfQ"
       },
       "artists": [
         {
-          "name": "Billo's Caracas Boys",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+          "name": "Rhapsodia",
+          "url": "https://open.spotify.com/artist/01FLuh7tSq1kKhA9rWsKJL"
         }
       ],
-      "duration_ms": 183228,
-      "name": "Cumbia Caletera",
-      "url": "https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe"
+      "duration_ms": 410070,
+      "name": "Nuestro Amor Ser\u00e1",
+      "url": "https://open.spotify.com/track/3jir1kbvad3O8pqHtSIqgx"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -503,18 +503,18 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Nosotros",
-        "url": "https://open.spotify.com/album/4phrVJzqEfnreKBtuChFfQ"
+        "name": "Exitos De Billo's Caracas Boys",
+        "url": "https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n"
       },
       "artists": [
         {
-          "name": "Rhapsodia",
-          "url": "https://open.spotify.com/artist/01FLuh7tSq1kKhA9rWsKJL"
+          "name": "Billo's Caracas Boys",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
         }
       ],
-      "duration_ms": 410070,
-      "name": "Nuestro Amor Ser\u00e1",
-      "url": "https://open.spotify.com/track/3jir1kbvad3O8pqHtSIqgx"
+      "duration_ms": 183228,
+      "name": "Cumbia Caletera",
+      "url": "https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Costa Alegre",
-        "url": "https://open.spotify.com/album/6nkQ2IWo8ftFhbionv8sdo"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Salamanca",
-          "url": "https://open.spotify.com/artist/5MMzd4zFRwCc1gyTaWPhiI"
-        }
-      ],
-      "duration_ms": 163108,
-      "name": "El Escorpi\u00f3n",
-      "url": "https://open.spotify.com/track/5CKWokUI2JIgROo61Rhh4Q"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Paradas Continuas",
         "url": "https://open.spotify.com/album/3r4KvV3xbEN0VAHthWYnAE"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 157106,
       "name": "Se Me Perdio La Cadenita",
       "url": "https://open.spotify.com/track/5VUR4MhJWAbp2ZHtSDvwJ7"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Costa Alegre",
+        "url": "https://open.spotify.com/album/6nkQ2IWo8ftFhbionv8sdo"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Salamanca",
+          "url": "https://open.spotify.com/artist/5MMzd4zFRwCc1gyTaWPhiI"
+        }
+      ],
+      "duration_ms": 163108,
+      "name": "El Escorpi\u00f3n",
+      "url": "https://open.spotify.com/track/5CKWokUI2JIgROo61Rhh4Q"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de Calixto Ochoa: 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/2m8Ca1G3Hq1biWbYIkjDkE"
-      },
-      "artists": [
-        {
-          "name": "Calixto Ochoa",
-          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
-        }
-      ],
-      "duration_ms": 158727,
-      "name": "Charanga Campesina",
-      "url": "https://open.spotify.com/track/7kgjH9TT0cZOUI4mHA1CNI"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de la Sonora Dinamita: 40 \u00c9xitos",
         "url": "https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 155946,
       "name": "Se Me Perdi\u00f3 la Cadenita",
       "url": "https://open.spotify.com/track/3GHagaqsSRMhMG8XjUXnKR"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de Calixto Ochoa: 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2m8Ca1G3Hq1biWbYIkjDkE"
+      },
+      "artists": [
+        {
+          "name": "Calixto Ochoa",
+          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
+        }
+      ],
+      "duration_ms": 158727,
+      "name": "Charanga Campesina",
+      "url": "https://open.spotify.com/track/7kgjH9TT0cZOUI4mHA1CNI"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de Calixto Ochoa: 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/2m8Ca1G3Hq1biWbYIkjDkE"
-      },
-      "artists": [
-        {
-          "name": "Calixto Ochoa",
-          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
-        }
-      ],
-      "duration_ms": 230706,
-      "name": "La Empanadita",
-      "url": "https://open.spotify.com/track/2YGjLZYNypW8aKRVM8fIDZ"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical 14 Ca\u00f1onazos (1971 - 1980)",
         "url": "https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 342959,
       "name": "Qui\u00e9reme, Qui\u00e9reme",
       "url": "https://open.spotify.com/track/3QHHdtpkiTicUcixCw7A22"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de Calixto Ochoa: 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2m8Ca1G3Hq1biWbYIkjDkE"
+      },
+      "artists": [
+        {
+          "name": "Calixto Ochoa",
+          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
+        }
+      ],
+      "duration_ms": 230706,
+      "name": "La Empanadita",
+      "url": "https://open.spotify.com/track/2YGjLZYNypW8aKRVM8fIDZ"
     },
     {
       "added_at": "2024-07-12 23:11:55",

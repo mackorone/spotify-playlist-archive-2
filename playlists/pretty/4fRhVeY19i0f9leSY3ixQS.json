@@ -1,12 +1,12 @@
 {
   "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added DAILY :) www.avondalerecords.com",
-  "num_followers": 1179,
+  "num_followers": 1182,
   "original_name": "Shuffle Roulette",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAKbqYXgWgo0iAnqeqmfyqtmVlDmmOv",
+  "snapshot_id": "AAAKcjTXeZaxFMe/rgzlhFKB7VBgUq0R",
   "tracks": [
     {
       "added_at": "2025-08-03 07:05:37",
@@ -5579,6 +5579,70 @@
       "duration_ms": 185500,
       "name": "Lost Inside",
       "url": "https://open.spotify.com/track/7suVrAMEIuY74fFwMwMkqO"
+    },
+    {
+      "added_at": "2026-01-25 21:57:35",
+      "album": {
+        "name": "One the Beginning",
+        "url": "https://open.spotify.com/album/4kdnk2M9nTdtOZnLeSqma4"
+      },
+      "artists": [
+        {
+          "name": "Cupp",
+          "url": "https://open.spotify.com/artist/0TUYzuNtOTqWXXW1xVGiB8"
+        }
+      ],
+      "duration_ms": 152879,
+      "name": "Can't Stop Won't Stop",
+      "url": "https://open.spotify.com/track/3fF4VrbvsSf8rqz7m1OCZX"
+    },
+    {
+      "added_at": "2026-01-25 12:58:05",
+      "album": {
+        "name": "Mad Puppies",
+        "url": "https://open.spotify.com/album/08M39olgNPLTRMjpa6pf0u"
+      },
+      "artists": [
+        {
+          "name": "Bit Commander",
+          "url": "https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF"
+        }
+      ],
+      "duration_ms": 128425,
+      "name": "Mad Puppies",
+      "url": "https://open.spotify.com/track/1BCF3qP2Tm8YL9Lo1VmcHA"
+    },
+    {
+      "added_at": "2026-01-25 12:59:11",
+      "album": {
+        "name": "Turn Past Tomorrow",
+        "url": "https://open.spotify.com/album/3jWcJlU5XrV1b381It9xUw"
+      },
+      "artists": [
+        {
+          "name": "Hat Pin Panic",
+          "url": "https://open.spotify.com/artist/77f1HkjJ9kj51sNjprGklj"
+        }
+      ],
+      "duration_ms": 310838,
+      "name": "This Machine",
+      "url": "https://open.spotify.com/track/3vpK71WrTIZLXsmWuT6Qg2"
+    },
+    {
+      "added_at": "2026-01-25 12:59:32",
+      "album": {
+        "name": "EP",
+        "url": "https://open.spotify.com/album/4b880Bbla3ITm00f4LpLzh"
+      },
+      "artists": [
+        {
+          "name": "OUTWORLD",
+          "url": "https://open.spotify.com/artist/4eAqOKh1IrkICoFv8NXjnn"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Walking Filth",
+      "url": "https://open.spotify.com/track/4Is5kHqgxB7VeIByWyv62G"
     }
   ],
   "unique_name": "Shuffle Roulette",

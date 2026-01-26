@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-287 songs - 17 hr 40 min
+290 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Alone \- Cover](https://open.spotify.com/track/6WApzR1hWPqV4BQSyr5ETL) | [GONGPATI](https://open.spotify.com/artist/3EcoH1mk7EzGfHUYtk4Zq8) | [Alone \(Cover\)](https://open.spotify.com/album/5B5G82hCzSMXhA5szT7Lez) | 3:39 | 2026-01-13 |  |
 | [Altisuono in Vibro](https://open.spotify.com/track/4za819jKTj1J19tNGaN5Zu) | [Bekruud](https://open.spotify.com/artist/5chx6Kbsyug2xjG91C6eay) | [Dal Buio alla Luce](https://open.spotify.com/album/73rsW9rQKkJZTkchN6QLko) | 3:25 | 2026-01-22 |  |
 | [Americana Coast](https://open.spotify.com/track/6BpQBUwter4qGrZ4iYgRbf) | [Bill Filipiak](https://open.spotify.com/artist/2xdtTND1CviwJbO8j2wvpM) | [Americana Coast](https://open.spotify.com/album/4xfZpPgxxxWPxOQjeR1x5Q) | 3:03 | 2025-09-28 | 2025-12-17 |
+| [Anaconda](https://open.spotify.com/track/6uF9EXY8NveGo9gvIFLxT5) | [Viva Los Villains](https://open.spotify.com/artist/0gU9Wj53y2a5ufEPhdhnJJ) | [Viva Los Villains](https://open.spotify.com/album/2Dui44Gfszog7oXQwhDocC) | 4:10 | 2026-01-25 |  |
 | [And so It Goes](https://open.spotify.com/track/63Se5wwHJtZyr4aEb3WZn2) | [Erik Knear](https://open.spotify.com/artist/4cqX5xi0OBk2rvpwhq8gLV) | [Melodia: Ch.5\-6](https://open.spotify.com/album/2hQrBV27jVEfYnFkAaGLiO) | 3:38 | 2025-12-31 |  |
 | [Angel Can You Hear Me](https://open.spotify.com/track/7zC97ICTUUdzfDRvlbtu6Y) | [Sam Wilson](https://open.spotify.com/artist/2HLoEJMRPOYaumUCslXOIW) | [Optimist](https://open.spotify.com/album/5A5PiRlBXDmIr7XhXoEBln) | 3:32 | 2025-09-03 |  |
 | [Aquella mirada](https://open.spotify.com/track/3KnPS50cVLvfJhaN8CGQUo) | [Exilio a Plutón](https://open.spotify.com/artist/0RDcwUWOCSUSxJe3mMNhqh) | [Aquella Mirada](https://open.spotify.com/album/61EmKeW5ZlfiO1Q5PI7Yw7) | 4:01 | 2025-10-06 | 2025-11-28 |
@@ -27,6 +28,7 @@
 | [BABY GO](https://open.spotify.com/track/5PsTxRwyKfx1S9vsCM1ouT) | [blacknova](https://open.spotify.com/artist/2oiCextt5oQWllMgsAYBNC) | [ORTO / TEMPO \(frequenze\)](https://open.spotify.com/album/5AikHoo7zXd2G33dcx9kyQ) | 2:55 | 2025-11-13 | 2025-12-17 |
 | [Baby!](https://open.spotify.com/track/00bSBI6AygGAYnfgkaxume) | [En Man & En Kvinna](https://open.spotify.com/artist/71ImAICJS2JHrnhQhyCFNX), [Mathijs Van Woerkum](https://open.spotify.com/artist/2SPEwMEX1f3kBWrtIeFxFj) | [Baby!](https://open.spotify.com/album/5ugD2jsFmarYmQd0vAgdw1) | 4:55 | 2025-11-05 | 2025-12-17 |
 | [Baby, Baby](https://open.spotify.com/track/0wae77jUSKOJdYghFVlQ62) | [Groggo](https://open.spotify.com/artist/1jxmTvI6HBS28XCNPTe1ct) | [Baby, Baby](https://open.spotify.com/album/2NAqI3y48TftFhYt5wgMgI) | 2:59 | 2025-09-23 | 2025-12-17 |
+| [Back To Echoes](https://open.spotify.com/track/24cfvqW3Y74zR82aIoOmvA) | [Alessandro Del Sole](https://open.spotify.com/artist/4RtSBm2fYcMFBpqTCKrin7) | [Back To Echoes](https://open.spotify.com/album/0tdImFUbq2HC1bmanKxaoo) | 3:18 | 2026-01-25 |  |
 | [Back to the start](https://open.spotify.com/track/3udu8nAbzIPcIxzd0vGFIu) | [Danny Burbank Music](https://open.spotify.com/artist/0G7ynrTB2fLLfshHTm1ExK), [wil bruninga](https://open.spotify.com/artist/6W39Y8jM6A71i3wrmFYSGq), [chuck lopez](https://open.spotify.com/artist/6BGoZ1lniBMWMRu5Fe1cT2) | [Back to the start](https://open.spotify.com/album/4yEUJSkoOGDZIUqCfmnM15) | 3:48 | 2025-09-29 | 2025-12-17 |
 | [Bad Vibes](https://open.spotify.com/track/3jvM9MKz7ykupfSVjqPVAW) | [Bottom Shelf](https://open.spotify.com/artist/5oe17JXV0rx6w21hy7bddG) | [Bad Vibes](https://open.spotify.com/album/3rPl8OuIjXtZiLTBnULfM1) | 1:07 | 2025-12-16 |  |
 | [Badclown](https://open.spotify.com/track/5kWwICLRj4mSYYcAlxus8v) | [HELLIPSYS](https://open.spotify.com/artist/4BNGDq3fwPHY9QpGdqrAML) | [B.o.t.](https://open.spotify.com/album/3Sse1MujegzywJElFcX4x6) | 4:36 | 2025-09-21 | 2025-11-28 |
@@ -235,6 +237,7 @@
 | [Song of a Hooligan](https://open.spotify.com/track/3Ew5FF6YJfXre7pT2JaJZA) | [Anton](https://open.spotify.com/artist/5ZwvlOmddwRvA3nwQXY13r) | [Song of a Hooligan](https://open.spotify.com/album/3Z9FfksgrxLlXKPhTbobfJ) | 2:52 | 2025-10-27 | 2025-11-28 |
 | [Sons of Gondor](https://open.spotify.com/track/6hqcv7K8f3QaoQF8acXZMP) | [Echoes & Wine](https://open.spotify.com/artist/3CETJ19bzJyAxO7Alv7Xp7) | [Sons of Gondor](https://open.spotify.com/album/79niMGbAoMuNwF4iJS2idh) | 4:47 | 2025-12-31 |  |
 | [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 | 2026-01-13 |  |
+| [Spine](https://open.spotify.com/track/23DvAjrBATcWGDy6U9CqDB) | [Les Hommes Crabes](https://open.spotify.com/artist/4ULwrrKmZDTybXbNDC3xGL) | [GALAK 51](https://open.spotify.com/album/5advJux4HnBDXaLvUovkq6) | 4:29 | 2026-01-25 |  |
 | [Still Wearing the Ring](https://open.spotify.com/track/2XNl2KSoD0tNlTghYp8hK6) | [Hakuten](https://open.spotify.com/artist/38xM2PuRgJ0CKk9vTzHoG7) | [Death Bound Heart](https://open.spotify.com/album/3LfOyNG8IwFZiV6SF1FUVT) | 4:49 | 2026-01-05 |  |
 | [Stoner](https://open.spotify.com/track/2dOiAm5I3PFizdsj77ywI5) | [Thought Fox](https://open.spotify.com/artist/0oJtH8Mmh8JAoC8nVpro0h) | [Stoner](https://open.spotify.com/album/0oT9O2PT0bHFcHAhcoPRXB) | 3:50 | 2025-12-08 |  |
 | [Strange Addiction](https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Strange Addiction](https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R) | 4:15 | 2025-09-23 | 2025-12-17 |

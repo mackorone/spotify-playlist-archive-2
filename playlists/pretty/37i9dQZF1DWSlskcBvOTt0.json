@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 578794,
+  "num_followers": 578928,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1351,30 +1351,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Lioness (Francis Mercier Remix)",
-        "url": "https://open.spotify.com/album/3M4JloqZM4lhiM2TTEaeNf"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Niki & The Dove",
-          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
-        },
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        }
-      ],
-      "duration_ms": 193278,
-      "name": "Lioness - Francis Mercier Remix",
-      "url": "https://open.spotify.com/track/6TgpTpkYneftsKfovhWQiq"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "PROVENZA (Sistek Remix)",
         "url": "https://open.spotify.com/album/2pbds46rDlZp6BjwcOi7vl"
       },
@@ -1415,6 +1391,30 @@
       "duration_ms": 213250,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/1FA0Adwe8FnRNpja1KYyT5"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Lioness (Francis Mercier Remix)",
+        "url": "https://open.spotify.com/album/3M4JloqZM4lhiM2TTEaeNf"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Niki & The Dove",
+          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
+        },
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        }
+      ],
+      "duration_ms": 193278,
+      "name": "Lioness - Francis Mercier Remix",
+      "url": "https://open.spotify.com/track/6TgpTpkYneftsKfovhWQiq"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1583,6 +1583,26 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
+        "name": "Try",
+        "url": "https://open.spotify.com/album/78gnHm6vFBc1JoJABAtOeD"
+      },
+      "artists": [
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        },
+        {
+          "name": "Jamek Ortega",
+          "url": "https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem"
+        }
+      ],
+      "duration_ms": 224385,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/2PkcJdAVlbQCnqoZjYo8JC"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
         "name": "Finding Home",
         "url": "https://open.spotify.com/album/3CRJaVRt0ni52xagPsekyk"
       },
@@ -1607,26 +1627,6 @@
       "duration_ms": 300487,
       "name": "Magic",
       "url": "https://open.spotify.com/track/3q8D7O6GOuiNMBX8SJSt8K"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
-        "name": "Try",
-        "url": "https://open.spotify.com/album/78gnHm6vFBc1JoJABAtOeD"
-      },
-      "artists": [
-        {
-          "name": "WITH U",
-          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
-        },
-        {
-          "name": "Jamek Ortega",
-          "url": "https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem"
-        }
-      ],
-      "duration_ms": 224385,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/2PkcJdAVlbQCnqoZjYo8JC"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1667,6 +1667,26 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/4v7sdSDS2iMcdSCHPY62TG"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Mark Borino",
+          "url": "https://open.spotify.com/artist/3bI0TiF0GpCbG9oBZqbX6U"
+        }
+      ],
+      "duration_ms": 207804,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/0fFRFFCiaZaExkXRfQyCJE"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
         "name": "LOW",
         "url": "https://open.spotify.com/album/5yVW2lirxVrpemK2mj6K43"
       },
@@ -1687,26 +1707,6 @@
       "duration_ms": 185000,
       "name": "LOW",
       "url": "https://open.spotify.com/track/6haDUN6avkD3hgIalNJkyt"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/4v7sdSDS2iMcdSCHPY62TG"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Mark Borino",
-          "url": "https://open.spotify.com/artist/3bI0TiF0GpCbG9oBZqbX6U"
-        }
-      ],
-      "duration_ms": 207804,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/0fFRFFCiaZaExkXRfQyCJE"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Gotta Move",
-        "url": "https://open.spotify.com/album/0ateZxJtP3B6zMX0zpMa9x"
-      },
-      "artists": [
-        {
-          "name": "Bless You",
-          "url": "https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9"
-        }
-      ],
-      "duration_ms": 179125,
-      "name": "Gotta Move",
-      "url": "https://open.spotify.com/track/1Q2d7NGkaxhwMnWQll7HL3"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Like Dat",
         "url": "https://open.spotify.com/album/6ee6CcsF6D44Kv7LJDgrtX"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 178516,
       "name": "Like Dat",
       "url": "https://open.spotify.com/track/27C2ZFkZL7ylL4bAcHwLOd"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Gotta Move",
+        "url": "https://open.spotify.com/album/0ateZxJtP3B6zMX0zpMa9x"
+      },
+      "artists": [
+        {
+          "name": "Bless You",
+          "url": "https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9"
+        }
+      ],
+      "duration_ms": 179125,
+      "name": "Gotta Move",
+      "url": "https://open.spotify.com/track/1Q2d7NGkaxhwMnWQll7HL3"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1811,22 +1811,22 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Mayana",
-        "url": "https://open.spotify.com/album/7jX7fxxYewIXCfqIyz4bSy"
+        "name": "Skill Of Love",
+        "url": "https://open.spotify.com/album/3ftzMiu27n3wyDLAuFQZiR"
       },
       "artists": [
         {
-          "name": "MoBlack",
-          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
         },
         {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
         }
       ],
-      "duration_ms": 212500,
-      "name": "Mayana",
-      "url": "https://open.spotify.com/track/46fdi4VtT9vhfNsw7NGBNX"
+      "duration_ms": 238015,
+      "name": "Skill Of Love",
+      "url": "https://open.spotify.com/track/28YQJfxcZyuvdsNrDLDbik"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1859,22 +1859,22 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Skill Of Love",
-        "url": "https://open.spotify.com/album/3ftzMiu27n3wyDLAuFQZiR"
+        "name": "Mayana",
+        "url": "https://open.spotify.com/album/7jX7fxxYewIXCfqIyz4bSy"
       },
       "artists": [
         {
-          "name": "Alex Wann",
-          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
         },
         {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
         }
       ],
-      "duration_ms": 238015,
-      "name": "Skill Of Love",
-      "url": "https://open.spotify.com/track/28YQJfxcZyuvdsNrDLDbik"
+      "duration_ms": 212500,
+      "name": "Mayana",
+      "url": "https://open.spotify.com/track/46fdi4VtT9vhfNsw7NGBNX"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -2087,18 +2087,22 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Do It Again",
-        "url": "https://open.spotify.com/album/6RiHDRcWWtwCOxVBgeNIdL"
+        "name": "Take It Easy on Me",
+        "url": "https://open.spotify.com/album/61t1NrQrjIvnOozh9h212U"
       },
       "artists": [
         {
-          "name": "Betical",
-          "url": "https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z"
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Michael Ekow",
+          "url": "https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ"
         }
       ],
-      "duration_ms": 185293,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/78meGCiKB1nIzkfz7zm37u"
+      "duration_ms": 159636,
+      "name": "Take It Easy on Me",
+      "url": "https://open.spotify.com/track/62aj6pzjrfimmXIMWHMYiU"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -2123,26 +2127,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Take It Easy on Me",
-        "url": "https://open.spotify.com/album/61t1NrQrjIvnOozh9h212U"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Michael Ekow",
-          "url": "https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ"
-        }
-      ],
-      "duration_ms": 159636,
-      "name": "Take It Easy on Me",
-      "url": "https://open.spotify.com/track/62aj6pzjrfimmXIMWHMYiU"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/6rfW8Ur00M44ftAONPPvY1"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 232000,
       "name": "111",
       "url": "https://open.spotify.com/track/1wisB4DtmmPiuLrA188XmR"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/6RiHDRcWWtwCOxVBgeNIdL"
+      },
+      "artists": [
+        {
+          "name": "Betical",
+          "url": "https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/78meGCiKB1nIzkfz7zm37u"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -2211,6 +2211,26 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
+        "name": "Bilmirem",
+        "url": "https://open.spotify.com/album/43ZP1eMhyK58ki4mGeEuy0"
+      },
+      "artists": [
+        {
+          "name": "Ilkay Sencan",
+          "url": "https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w"
+        },
+        {
+          "name": "Metty",
+          "url": "https://open.spotify.com/artist/0vsssjIOJPKcAfG0oUjHVs"
+        }
+      ],
+      "duration_ms": 162937,
+      "name": "Bilmirem",
+      "url": "https://open.spotify.com/track/1V0mY5kWhCbUJYil8PVGUJ"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
         "name": "Abandoned",
         "url": "https://open.spotify.com/album/4uRtT3rPcGU7qwovvVSXwo"
       },
@@ -2251,46 +2271,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "I Don't Know",
-        "url": "https://open.spotify.com/album/269aLKNdaU2S3kbh5jCHPP"
-      },
-      "artists": [
-        {
-          "name": "AV\u00d6",
-          "url": "https://open.spotify.com/artist/1YHoYxvG5RWfGN3pt3vuMb"
-        },
-        {
-          "name": "Jawora",
-          "url": "https://open.spotify.com/artist/610qedjOLqxXFnZJcV9ktg"
-        }
-      ],
-      "duration_ms": 195371,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/4EvinQrLxLUvtHpntEeftx"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
-        "name": "Bilmirem",
-        "url": "https://open.spotify.com/album/43ZP1eMhyK58ki4mGeEuy0"
-      },
-      "artists": [
-        {
-          "name": "Ilkay Sencan",
-          "url": "https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w"
-        },
-        {
-          "name": "Metty",
-          "url": "https://open.spotify.com/artist/0vsssjIOJPKcAfG0oUjHVs"
-        }
-      ],
-      "duration_ms": 162937,
-      "name": "Bilmirem",
-      "url": "https://open.spotify.com/track/1V0mY5kWhCbUJYil8PVGUJ"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Born In Blue",
         "url": "https://open.spotify.com/album/1dCSXGLRWwfnBwWaadLv0v"
       },
@@ -2327,6 +2307,26 @@
       "duration_ms": 315371,
       "name": "Riga",
       "url": "https://open.spotify.com/track/4J0gDIw2chzeWkzkOZphHX"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "I Don't Know",
+        "url": "https://open.spotify.com/album/269aLKNdaU2S3kbh5jCHPP"
+      },
+      "artists": [
+        {
+          "name": "AV\u00d6",
+          "url": "https://open.spotify.com/artist/1YHoYxvG5RWfGN3pt3vuMb"
+        },
+        {
+          "name": "Jawora",
+          "url": "https://open.spotify.com/artist/610qedjOLqxXFnZJcV9ktg"
+        }
+      ],
+      "duration_ms": 195371,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/4EvinQrLxLUvtHpntEeftx"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "ROOTS",
-        "url": "https://open.spotify.com/album/7zBtA9nV22Xkz776jcA8Rh"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        }
-      ],
-      "duration_ms": 249999,
-      "name": "ROOTS",
-      "url": "https://open.spotify.com/track/78i4GOdyumIDNV5gVSB1ra"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Sound Of The Sunrise",
         "url": "https://open.spotify.com/album/2edg227641w0qF8GX65k0R"
       },
@@ -2491,6 +2475,22 @@
       "duration_ms": 193548,
       "name": "Sound Of The Sunrise",
       "url": "https://open.spotify.com/track/6m5LSzsU466ynNvEkxoctM"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "ROOTS",
+        "url": "https://open.spotify.com/album/7zBtA9nV22Xkz776jcA8Rh"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "duration_ms": 249999,
+      "name": "ROOTS",
+      "url": "https://open.spotify.com/track/78i4GOdyumIDNV5gVSB1ra"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -2543,6 +2543,30 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
+        "name": "Hold It (feat. ZenTola)",
+        "url": "https://open.spotify.com/album/5L4nArWXeaa9kLWXuGNPzW"
+      },
+      "artists": [
+        {
+          "name": "Maesic",
+          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
+        },
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        },
+        {
+          "name": "ZenTola",
+          "url": "https://open.spotify.com/artist/3tLl7yUdX8XVzSAnAk27Lm"
+        }
+      ],
+      "duration_ms": 185820,
+      "name": "Hold It (feat. ZenTola)",
+      "url": "https://open.spotify.com/track/5ZYDjHYSe9IOE5MqkqOzuk"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/77rQVGYB6ZuwjAKo6Q2Qbh"
       },
@@ -2559,6 +2583,42 @@
       "duration_ms": 180014,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/4ncYt6zcpeT7TdKy5XQ8Mu"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Kuwe",
+        "url": "https://open.spotify.com/album/1mM1J5FQo1vohr5fPkYc6u"
+      },
+      "artists": [
+        {
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+        },
+        {
+          "name": "Nana Atta",
+          "url": "https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Kuwe",
+      "url": "https://open.spotify.com/track/0ORWrNURhLN2MghAwUWJD9"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0un2xX5yJkl6Yjri9yMXJU"
+      },
+      "artists": [
+        {
+          "name": "Bontan",
+          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4JRLxf6sMSOcQQP75m3QZh"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -2595,42 +2655,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0un2xX5yJkl6Yjri9yMXJU"
-      },
-      "artists": [
-        {
-          "name": "Bontan",
-          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/4JRLxf6sMSOcQQP75m3QZh"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
-        "name": "Kuwe",
-        "url": "https://open.spotify.com/album/1mM1J5FQo1vohr5fPkYc6u"
-      },
-      "artists": [
-        {
-          "name": "MoBlack",
-          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
-        },
-        {
-          "name": "Nana Atta",
-          "url": "https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Kuwe",
-      "url": "https://open.spotify.com/track/0ORWrNURhLN2MghAwUWJD9"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Buschtaxi",
         "url": "https://open.spotify.com/album/18mW0faz1AHDsTHNdtxAih"
       },
@@ -2643,26 +2667,6 @@
       "duration_ms": 516815,
       "name": "Buschtaxi",
       "url": "https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
-        "name": "Rolling Thunder",
-        "url": "https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        }
-      ],
-      "duration_ms": 166451,
-      "name": "Rolling Thunder",
-      "url": "https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db"
     }
   ],
   "unique_name": "Tantra",

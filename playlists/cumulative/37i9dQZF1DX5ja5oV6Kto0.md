@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Zaylevelten
 
-1,005 songs - 2 day 0 hr 45 min
+1,006 songs - 2 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -726,6 +726,7 @@
 | [RASTAMAN DREADS](https://open.spotify.com/track/1MSWJn48CNMSMShwUGC4xY) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J), [Ronehi](https://open.spotify.com/artist/41h99u87ioeyoCZh7XTshv), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [I Know You Miss Me](https://open.spotify.com/album/3UZ8eKlCaYcPbUoowG9SM5) | 3:02 | 2023-05-25 | 2023-06-23 |
 | [Ready or Not](https://open.spotify.com/track/2yuhKACSCgHU54RUavAdlv) | [Saszy Afroshii](https://open.spotify.com/artist/3GCGKZBN2CYCrkyuXAIgHx), [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Ready or Not](https://open.spotify.com/album/3ArMZR497c1Pih3W2TAmEX) | 2:07 | 2025-11-14 | 2025-12-22 |
 | [Real](https://open.spotify.com/track/0cgIQxMjFoxP2lpV21f4RO) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Real](https://open.spotify.com/album/1gyzgy5h5zBL4KlcKDTyX2) | 4:07 | 2021-07-30 | 2022-06-24 |
+| [Real One](https://open.spotify.com/track/2YpJDMZrgfqUFNOn9ocJHe) | [Damare YK](https://open.spotify.com/artist/4elUk2W9Rax90tFNC9TUDz), [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ) | [Real One](https://open.spotify.com/album/7351sYtk4c8YGx2ZZRC0MW) | 2:50 | 2026-01-23 |  |
 | [Realign](https://open.spotify.com/track/7yLYmP8jdEuTQiJD2qlDch) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Realign](https://open.spotify.com/album/650zxNU9Z5rX6IKhRoaXqu) | 3:40 | 2025-12-12 | 2026-01-15 |
 | [Realign](https://open.spotify.com/track/0W7c81V1fyE3dXySeuKZIM) | [King Kerby](https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z) | [Realign](https://open.spotify.com/album/5XrqZDhOi4gx0L0mzeKwWi) | 2:45 | 2023-12-08 | 2024-06-21 |
 | [REALLY NEED](https://open.spotify.com/track/4GAks9f8yY8OVTChkfmHev) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 2:57 | 2023-02-16 | 2023-06-17 |
@@ -758,7 +759,7 @@
 | [Rude](https://open.spotify.com/track/7f83o6VIhOcIcHxzr7Cj4a) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Savage Bitch Juice](https://open.spotify.com/album/5la6d2QxYKs6N2KWDCNmhr) | 2:32 | 2021-11-04 | 2022-08-06 |
 | [Rudia](https://open.spotify.com/track/5i1nYNLXTFnYWpYeo9ueTf) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Rudia](https://open.spotify.com/album/7o3R7th50E1lL9gmmOfMJk) | 3:20 | 2025-08-29 |  |
 | [Run To](https://open.spotify.com/track/7jLWKyNaNlHEzWO1snweWW) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg) | [RETRO](https://open.spotify.com/album/0J4RKLs1BTCtxLDtzqflJL) | 2:06 | 2025-11-27 | 2026-01-15 |
-| [Runaway](https://open.spotify.com/track/7MhwICkzmhuWWdsNn082c8) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Seyyoh](https://open.spotify.com/artist/28Olo730ChJyyW7acJkW3h) | [In Pursuit Of Happiness](https://open.spotify.com/album/7cR90I8NPn64HTVjcDHQpb) | 2:39 | 2024-11-15 |  |
+| [Runaway](https://open.spotify.com/track/7MhwICkzmhuWWdsNn082c8) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Seyyoh](https://open.spotify.com/artist/28Olo730ChJyyW7acJkW3h) | [In Pursuit Of Happiness](https://open.spotify.com/album/7cR90I8NPn64HTVjcDHQpb) | 2:39 | 2024-11-15 | 2026-01-26 |
 | [Runaway](https://open.spotify.com/track/4vHVukKtQOkJNX5TwjRaBm) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Runaway](https://open.spotify.com/album/2r1ln8Z5prTPO5qGQkBA4T) | 3:40 | 2022-04-07 | 2023-05-05 |
 | [Running](https://open.spotify.com/track/21MSFhrfJzZOYUnKqNdkQr) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M), [Haeven](https://open.spotify.com/artist/5JTZ0MKURW6cUUT2y18w5H) | [Running](https://open.spotify.com/album/1EbYyDICzqwkKP79qtnERw) | 3:12 | 2023-10-13 | 2023-11-03 |
 | [S.M.O.](https://open.spotify.com/track/7v5VghHzM0iIoSQXGuZNzb) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [S.M.O.](https://open.spotify.com/album/7ilhlxCjjjIXwlpnJ8xuUy) | 4:30 | 2025-06-20 | 2025-11-22 |

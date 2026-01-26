@@ -1,12 +1,12 @@
 {
   "description": "This is Santa Fe Klan. The essential tracks, all in one playlist.",
-  "num_followers": 566542,
+  "num_followers": 566550,
   "original_name": "This Is Santa Fe Klan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXK6AAAAAABD8r/bH7uuA0CK8RdEai3Q",
+  "snapshot_id": "aXQLgAAAAAA2nxBfv9843Dqb2fLsoinx",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Y Yo",
+        "url": "https://open.spotify.com/album/2cgLHk1dyzjE2lQYTuYY8E"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 161985,
+      "name": "Tu Y Yo",
+      "url": "https://open.spotify.com/track/5PsPtFfCkmkROnhEW9piqR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AMOR (Remix)",
         "url": "https://open.spotify.com/album/4QTWMcbaCU5HeaB1vMR3IR"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 200631,
       "name": "AMOR - Remix",
       "url": "https://open.spotify.com/track/16KUzRCczhBzuaa2DkgFN2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Y Yo",
-        "url": "https://open.spotify.com/album/2cgLHk1dyzjE2lQYTuYY8E"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 161985,
-      "name": "Tu Y Yo",
-      "url": "https://open.spotify.com/track/5PsPtFfCkmkROnhEW9piqR"
     },
     {
       "added_at": null,
@@ -723,18 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "TODO",
-        "url": "https://open.spotify.com/album/1ga2yneTMtHivfc7wDKl1W"
+        "name": "Planta Medicinal",
+        "url": "https://open.spotify.com/album/34IUdftCspXWGfSQXIvu5E"
       },
       "artists": [
         {
           "name": "Santa Fe Klan",
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Bubaseta",
+          "url": "https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Algo m\u00e1s",
-      "url": "https://open.spotify.com/track/6FE1NAMYwkuNJDNPEZ8xez"
+      "duration_ms": 227735,
+      "name": "Planta Medicinal",
+      "url": "https://open.spotify.com/track/1UpJMfx6fGd6HvZxz9fFjt"
     },
     {
       "added_at": null,
@@ -755,22 +759,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planta Medicinal",
-        "url": "https://open.spotify.com/album/34IUdftCspXWGfSQXIvu5E"
+        "name": "TODO",
+        "url": "https://open.spotify.com/album/1ga2yneTMtHivfc7wDKl1W"
       },
       "artists": [
         {
           "name": "Santa Fe Klan",
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Bubaseta",
-          "url": "https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik"
         }
       ],
-      "duration_ms": 227735,
-      "name": "Planta Medicinal",
-      "url": "https://open.spotify.com/track/1UpJMfx6fGd6HvZxz9fFjt"
+      "duration_ms": 192000,
+      "name": "Algo m\u00e1s",
+      "url": "https://open.spotify.com/track/6FE1NAMYwkuNJDNPEZ8xez"
     },
     {
       "added_at": null,
@@ -919,26 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMOR DE SUBIDA",
-        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 176809,
-      "name": "30 D\u00cdAS",
-      "url": "https://open.spotify.com/track/06MQn3HC4hzNpvkgSUHVmi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NO SON KLLE",
         "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 223586,
       "name": "NO SON KLLE",
       "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMOR DE SUBIDA",
+        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 176809,
+      "name": "30 D\u00cdAS",
+      "url": "https://open.spotify.com/track/06MQn3HC4hzNpvkgSUHVmi"
     },
     {
       "added_at": null,
@@ -1143,6 +1143,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sangre Malandra",
+        "url": "https://open.spotify.com/album/0MZA8dGCq9F494Au3Vyf5S"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "THR Cru2",
+          "url": "https://open.spotify.com/artist/7qfeRXz0fErzIordtUUxYn"
+        }
+      ],
+      "duration_ms": 376000,
+      "name": "Sangre Malandra",
+      "url": "https://open.spotify.com/track/10NKRSt1URrU1zabH4rM61"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si Preguntan por M\u00ed",
         "url": "https://open.spotify.com/album/4POHA2ZskfSfw9s2zqRtKY"
       },
@@ -1179,30 +1203,6 @@
       "duration_ms": 228500,
       "name": "Si Preguntan por M\u00ed",
       "url": "https://open.spotify.com/track/4BHysBnR9QD9cSDlx0hC5s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sangre Malandra",
-        "url": "https://open.spotify.com/album/0MZA8dGCq9F494Au3Vyf5S"
-      },
-      "artists": [
-        {
-          "name": "Under Side 821",
-          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "THR Cru2",
-          "url": "https://open.spotify.com/artist/7qfeRXz0fErzIordtUUxYn"
-        }
-      ],
-      "duration_ms": 376000,
-      "name": "Sangre Malandra",
-      "url": "https://open.spotify.com/track/10NKRSt1URrU1zabH4rM61"
     }
   ],
   "unique_name": "This Is Santa Fe Klan",

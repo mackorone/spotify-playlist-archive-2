@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 3,920 songs - 8 day 16 hr 3 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 3,920 songs - 8 day 16 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Whetting \- Acoustic](https://open.spotify.com/track/3yA0HQDLXr6OuwrphBdEWh) | [Apex4X](https://open.spotify.com/artist/0c6BktWlA4O1hrPy6q1JHA) | [Reflections](https://open.spotify.com/album/2rQqY2rEA2iOyKgCu5uF5o) | 4:55 |
-| 2 | [Follow You](https://open.spotify.com/track/4ElvUEDrfa5O2fMIOafDdI) | [J.C\. Maru](https://open.spotify.com/artist/0P9mdqeeWfIG1jyBSsLUC7) | [Follow You](https://open.spotify.com/album/4U8GAhOShNYQE6YuhdmK2D) | 3:21 |
-| 3 | [Signal Lost](https://open.spotify.com/track/4VptXFAq9u0CYJ5enpKBGW) | [Analog Future](https://open.spotify.com/artist/5FW4eXdqhOZepr0vX57iVJ) | [BOOT SEQUENCE](https://open.spotify.com/album/1yP3P0aSvDzhOegG7dZPCg) | 3:00 |
-| 4 | [Still Human](https://open.spotify.com/track/0oiFmhtY6O8VlQ5PCtmjY2) | [Analog Future](https://open.spotify.com/artist/5FW4eXdqhOZepr0vX57iVJ) | [BOOT SEQUENCE](https://open.spotify.com/album/1yP3P0aSvDzhOegG7dZPCg) | 2:35 |
-| 5 | [Early Late Night](https://open.spotify.com/track/1Qxa2kN473Lo0xw7uWcMLR) | [Nosie Katzmann](https://open.spotify.com/artist/7BrkzGmCl8LM18udHQihhn) | [Early Late Night](https://open.spotify.com/album/0wAU31m7rHGrYv7AUECEvr) | 1:55 |
-| 6 | [CROCEVIA](https://open.spotify.com/track/2A9VIY7bgdG8A7nor3w9Ae) | [EDY](https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV) | [CROCEVIA](https://open.spotify.com/album/6khi0zbmXz59UOzVgczZYv) | 2:24 |
-| 7 | [JUST WAIT](https://open.spotify.com/track/0jn4pFs4qJhAILTDIIUlSb) | [BB](https://open.spotify.com/artist/79IIXXtsmNkpN2btrkbIot) | [MICHAEL 2](https://open.spotify.com/album/4voAERiKo3EYGvhKXJqz5U) | 2:08 |
-| 8 | [Interval](https://open.spotify.com/track/7vPtwSlExgXZv9QoSYAySi) | [Popgang](https://open.spotify.com/artist/69jNhtjLutxw7rGbsiqcGS) | [Interval](https://open.spotify.com/album/1eHBowrHCdbfR3TgrFr0wK) | 5:13 |
-| 9 | [Zigga‑Zigga Night Bite](https://open.spotify.com/track/0RLb9JlWVTqVyXg9jz0AbA) | [NEON VIPERS](https://open.spotify.com/artist/3cjnOyasWuvHhm4ULWKbyg) | [Zigga‑Zigga Night Bite](https://open.spotify.com/album/51swdvcBBbPEzRWtKz9OMo) | 3:45 |
-| 10 | [Senza punto di fuga](https://open.spotify.com/track/67UTK6sgaBw20sW0H8f3O6) | [Pietro Contenti \(Montecristo\)](https://open.spotify.com/artist/1hElnwNn7P1EbfblsN7SWA) | [Senza punto di fuga](https://open.spotify.com/album/6Av5fDmC2fc88KswFpbzr3) | 4:04 |
-| 11 | [Ira](https://open.spotify.com/track/4f1U7j1XN4m584jeRYDmwp) | [Luca Taglioni](https://open.spotify.com/artist/3u3GahUlmZTKMyfTwUby8U) | [7even // System Error!](https://open.spotify.com/album/1H3lwu2xarqYog8RAtqLhQ) | 2:15 |
-| 12 | [Resti addosso e poi scompari](https://open.spotify.com/track/0agxfqN1nPIXw72KDMl78t) | [Gin Ozz](https://open.spotify.com/artist/6Mt0M4SfhEqzg7Jkxoee54) | [Resti addosso e poi scompari](https://open.spotify.com/album/3ICdbjJ7OIouie81R0cD4P) | 3:08 |
-| 13 | [Peacemakers](https://open.spotify.com/track/7K8F1C4dcNao9gJOUiR8mc) | [Miguel De La Wiest](https://open.spotify.com/artist/26hbbPnAg9VCscmcsIGXY6) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/1k7DZX3OogiMcHFOjTOtFQ) | 4:38 |
+| 1 | [SCAPPA AL PIGNETO CON ME](https://open.spotify.com/track/0T7XzcrGUy1kEMn5jAZ6IZ) | [EDY](https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV) | [SCAPPA AL PIGNETO CON ME](https://open.spotify.com/album/7deV32wgW562hlmDmbY99h) | 3:12 |
+| 2 | [The Whetting \- Acoustic](https://open.spotify.com/track/3yA0HQDLXr6OuwrphBdEWh) | [Apex4X](https://open.spotify.com/artist/0c6BktWlA4O1hrPy6q1JHA) | [Reflections](https://open.spotify.com/album/2rQqY2rEA2iOyKgCu5uF5o) | 4:55 |
+| 3 | [Follow You](https://open.spotify.com/track/4ElvUEDrfa5O2fMIOafDdI) | [J.C\. Maru](https://open.spotify.com/artist/0P9mdqeeWfIG1jyBSsLUC7) | [Follow You](https://open.spotify.com/album/4U8GAhOShNYQE6YuhdmK2D) | 3:21 |
+| 4 | [Signal Lost](https://open.spotify.com/track/4VptXFAq9u0CYJ5enpKBGW) | [Analog Future](https://open.spotify.com/artist/5FW4eXdqhOZepr0vX57iVJ) | [BOOT SEQUENCE](https://open.spotify.com/album/1yP3P0aSvDzhOegG7dZPCg) | 3:00 |
+| 5 | [Still Human](https://open.spotify.com/track/0oiFmhtY6O8VlQ5PCtmjY2) | [Analog Future](https://open.spotify.com/artist/5FW4eXdqhOZepr0vX57iVJ) | [BOOT SEQUENCE](https://open.spotify.com/album/1yP3P0aSvDzhOegG7dZPCg) | 2:35 |
+| 6 | [Early Late Night](https://open.spotify.com/track/1Qxa2kN473Lo0xw7uWcMLR) | [Nosie Katzmann](https://open.spotify.com/artist/7BrkzGmCl8LM18udHQihhn) | [Early Late Night](https://open.spotify.com/album/0wAU31m7rHGrYv7AUECEvr) | 1:55 |
+| 7 | [CROCEVIA](https://open.spotify.com/track/2A9VIY7bgdG8A7nor3w9Ae) | [EDY](https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV) | [CROCEVIA](https://open.spotify.com/album/6khi0zbmXz59UOzVgczZYv) | 2:24 |
+| 8 | [JUST WAIT](https://open.spotify.com/track/0jn4pFs4qJhAILTDIIUlSb) | [BB](https://open.spotify.com/artist/79IIXXtsmNkpN2btrkbIot) | [MICHAEL 2](https://open.spotify.com/album/4voAERiKo3EYGvhKXJqz5U) | 2:08 |
+| 9 | [Interval](https://open.spotify.com/track/7vPtwSlExgXZv9QoSYAySi) | [Popgang](https://open.spotify.com/artist/69jNhtjLutxw7rGbsiqcGS) | [Interval](https://open.spotify.com/album/1eHBowrHCdbfR3TgrFr0wK) | 5:13 |
+| 10 | [Zigga‑Zigga Night Bite](https://open.spotify.com/track/0RLb9JlWVTqVyXg9jz0AbA) | [NEON VIPERS](https://open.spotify.com/artist/3cjnOyasWuvHhm4ULWKbyg) | [Zigga‑Zigga Night Bite](https://open.spotify.com/album/51swdvcBBbPEzRWtKz9OMo) | 3:45 |
+| 11 | [Senza punto di fuga](https://open.spotify.com/track/67UTK6sgaBw20sW0H8f3O6) | [Pietro Contenti \(Montecristo\)](https://open.spotify.com/artist/1hElnwNn7P1EbfblsN7SWA) | [Senza punto di fuga](https://open.spotify.com/album/6Av5fDmC2fc88KswFpbzr3) | 4:04 |
+| 12 | [Ira](https://open.spotify.com/track/4f1U7j1XN4m584jeRYDmwp) | [Luca Taglioni](https://open.spotify.com/artist/3u3GahUlmZTKMyfTwUby8U) | [7even // System Error!](https://open.spotify.com/album/1H3lwu2xarqYog8RAtqLhQ) | 2:15 |
+| 13 | [Resti addosso e poi scompari](https://open.spotify.com/track/0agxfqN1nPIXw72KDMl78t) | [Gin Ozz](https://open.spotify.com/artist/6Mt0M4SfhEqzg7Jkxoee54) | [Resti addosso e poi scompari](https://open.spotify.com/album/3ICdbjJ7OIouie81R0cD4P) | 3:08 |
 | 14 | [One Day at a Time](https://open.spotify.com/track/7l77vgHFap2UbzxXEm27Dt) | [Caleb Sample](https://open.spotify.com/artist/4xQ9vYmHgIhjX57pDbIC96) | [In Training](https://open.spotify.com/album/263UBnTGtpwkrwjIZ0bp3V) | 3:33 |
 | 15 | [What About Us?](https://open.spotify.com/track/0knAZRU1iJZP3gaFwdCs8b) | [TSIMECA](https://open.spotify.com/artist/3qjKbpkDNtLc6X7xEScpKy) | [Forbidden Woods](https://open.spotify.com/album/3HT4YfGFtwwGn2KfYZi41h) | 4:25 |
 | 16 | [I Feel Good](https://open.spotify.com/track/7c4xH2X2ht6LN26G7TRa3S) | [Brian Grey](https://open.spotify.com/artist/3pPN42kSubPiCcWQfuCHF2) | [I Feel Good](https://open.spotify.com/album/4g9E1R8MCCsiisYAjQ7t4q) | 2:43 |
@@ -3929,4 +3929,4 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3919 | [Mit deiner Stimme](https://open.spotify.com/track/5HBNvAu2ZApr2E4aLH2WZX) | [gebi.sounds](https://open.spotify.com/artist/3fJr7wKHIl9wPDKvQE9B5a) | [Mit deiner Stimme](https://open.spotify.com/album/56vwqYlCD6CjzGzzbuqT9T) | 2:55 |
 | 3920 | [Dolomiti Soul](https://open.spotify.com/track/5Cv5soORtinC12J1ruavkG) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Dolomiti Soul](https://open.spotify.com/album/543B54L2yjcDlvxZQZCJfR) | 3:52 |
 
-Snapshot ID: `AAAG4B4QtzN+m6R8BX/c6mTnMp3JLqSI`
+Snapshot ID: `AAAG4wbjfBv6QKtfU3J14jyWgf4XwW44`

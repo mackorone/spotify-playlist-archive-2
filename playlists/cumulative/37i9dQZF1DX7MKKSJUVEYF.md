@@ -2,7 +2,7 @@
 
 ### [Sanremo: La Voce delle Donne](https://open.spotify.com/playlist/37i9dQZF1DX7MKKSJUVEYF)
 
-> Sanremo queens unite 🤝
+> 👯‍♀️ Sanremo queens unite 👯‍♀️
 
 65 songs - 4 hr 0 min
 

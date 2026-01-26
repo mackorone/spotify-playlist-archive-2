@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAfp6BuP7XeZtq+QE1mx3sRyKGHBWmF",
+  "snapshot_id": "AAAfrPZpOzkY2+cOFGaBNpxU3gBb0SGM",
   "tracks": [
     {
       "added_at": "2022-04-09 13:30:58",
@@ -8571,6 +8571,94 @@
       "duration_ms": 274013,
       "name": "Funkin' Around",
       "url": "https://open.spotify.com/track/049tw2MgDBdrtzZQjqtcdh"
+    },
+    {
+      "added_at": "2026-01-25 16:15:26",
+      "album": {
+        "name": "Beg For Mercy",
+        "url": "https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy"
+      },
+      "artists": [
+        {
+          "name": "G-Unit",
+          "url": "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/2hzKxuc2LwqMnkoVRMkV0B"
+    },
+    {
+      "added_at": "2026-01-25 16:18:57",
+      "album": {
+        "name": "Southernplayalisticadillacmuzik",
+        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 309866,
+      "name": "Crumblin' Erb",
+      "url": "https://open.spotify.com/track/3T790QTg0ebUUk5tCRbtbN"
+    },
+    {
+      "added_at": "2026-01-25 20:12:53",
+      "album": {
+        "name": "The Genie Of The Lamp",
+        "url": "https://open.spotify.com/album/6ApNrGRDjrm0qzQfQHbTOg"
+      },
+      "artists": [
+        {
+          "name": "Mac Dre",
+          "url": "https://open.spotify.com/artist/4sv6VJ2QZlaSosz3kFlxQH"
+        }
+      ],
+      "duration_ms": 241360,
+      "name": "She Neva Seen",
+      "url": "https://open.spotify.com/track/6B6CyOTrIzhRbT39QQSd60"
+    },
+    {
+      "added_at": "2026-01-25 20:19:53",
+      "album": {
+        "name": "Take A Look Over Your Shoulder (Reality)",
+        "url": "https://open.spotify.com/album/1dtEMJ2YoZtw6vPkUnqMK1"
+      },
+      "artists": [
+        {
+          "name": "Warren G",
+          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+        },
+        {
+          "name": "Reel Tight",
+          "url": "https://open.spotify.com/artist/3PeB6KzaIJW8NnVlU2OcmW"
+        }
+      ],
+      "duration_ms": 209397,
+      "name": "Relax Ya Mind",
+      "url": "https://open.spotify.com/track/1dhN2eqowk5LSAKk8GW7S5"
+    },
+    {
+      "added_at": "2026-01-25 20:24:45",
+      "album": {
+        "name": "Kush & Orange Juice",
+        "url": "https://open.spotify.com/album/7aqnaqbRYSb6UU2RZo55fT"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Killa Kyleon",
+          "url": "https://open.spotify.com/artist/0uzlfGNw35ha8bszBDhKy7"
+        }
+      ],
+      "duration_ms": 252760,
+      "name": "Spotlight (feat. Killa Kyleon)",
+      "url": "https://open.spotify.com/track/6rjq9q1mJQRJinUyt4Z0tx"
     }
   ],
   "unique_name": "main ",

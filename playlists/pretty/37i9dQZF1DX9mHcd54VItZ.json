@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: JaeXlynne",
-  "num_followers": 26613,
+  "num_followers": 26632,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-12-19 05:44:49",
       "album": {
+        "name": "Nou Toer Ons!",
+        "url": "https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89"
+      },
+      "artists": [
+        {
+          "name": "Die Beste Band In Die W\u00eareld ...Ooit, Ek Sweer",
+          "url": "https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd"
+        }
+      ],
+      "duration_ms": 178813,
+      "name": "Doen Sy Bes",
+      "url": "https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
         "name": "Kies",
         "url": "https://open.spotify.com/album/3SjkIeXyLQ4lkpc85KslZs"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 208366,
       "name": "Kies",
       "url": "https://open.spotify.com/track/3pVRMjiLei68ZftaCnAHXH"
-    },
-    {
-      "added_at": "2025-12-19 05:44:49",
-      "album": {
-        "name": "Hey Jack",
-        "url": "https://open.spotify.com/album/220IRwEjL95kR3Qxi0HV8W"
-      },
-      "artists": [
-        {
-          "name": "Babette",
-          "url": "https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Hey Jack",
-      "url": "https://open.spotify.com/track/4NOH87zWncLh9FvLDzq7K9"
     },
     {
       "added_at": "2026-01-22 22:00:18",
@@ -619,18 +619,18 @@
     {
       "added_at": "2025-12-19 05:44:49",
       "album": {
-        "name": "Nou Toer Ons!",
-        "url": "https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89"
+        "name": "Hey Jack",
+        "url": "https://open.spotify.com/album/220IRwEjL95kR3Qxi0HV8W"
       },
       "artists": [
         {
-          "name": "Die Beste Band In Die W\u00eareld ...Ooit, Ek Sweer",
-          "url": "https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd"
+          "name": "Babette",
+          "url": "https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa"
         }
       ],
-      "duration_ms": 178813,
-      "name": "Doen Sy Bes",
-      "url": "https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS"
+      "duration_ms": 174000,
+      "name": "Hey Jack",
+      "url": "https://open.spotify.com/track/4NOH87zWncLh9FvLDzq7K9"
     },
     {
       "added_at": "2025-12-19 05:44:49",

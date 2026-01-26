@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-390 songs - 18 hr 26 min
+391 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Bubbling Waters](https://open.spotify.com/track/1zaF9aOvpI9FXLY4vmqzSn) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Bubbling Waters](https://open.spotify.com/album/44zvhAbyyWLmQPlVaZAEFE) | 3:10 | 2024-03-05 |  |
 | [By the Creek](https://open.spotify.com/track/2wNyMwLskL0yAYyipYOdyI) | [Between Worlds](https://open.spotify.com/artist/0HBncYc0ljDrJAqog1F1Qi) | [By the Creek](https://open.spotify.com/album/3T9saIz1K5izcdTVJt3ohu) | 2:23 | 2025-04-29 |  |
 | [By The River](https://open.spotify.com/track/2PMTTEuXOznRQEZubxiPrd) | [I thought about time](https://open.spotify.com/artist/6wzgGTV6WrSvWxzNIpvSd8) | [By The River](https://open.spotify.com/album/4zd6B4p1VWTVpM0i2Pww4V) | 3:07 | 2023-12-18 |  |
-| [By Your Side](https://open.spotify.com/track/5Fr4RpT1YVZHJ5L7CkCDfn) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [By Your Side](https://open.spotify.com/album/05oAUZkTZCoE8vaJjIeaEy) | 3:07 | 2024-09-06 |  |
+| [By Your Side](https://open.spotify.com/track/5Fr4RpT1YVZHJ5L7CkCDfn) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [By Your Side](https://open.spotify.com/album/05oAUZkTZCoE8vaJjIeaEy) | 3:07 | 2024-09-06 | 2026-01-26 |
 | [Caelum Aqua](https://open.spotify.com/track/0pyfGww35DJV75icw9b3zD) | [Maja Balder](https://open.spotify.com/artist/2HxNtfNbAA1Pxjx9BHu1GB) | [Caelum Aqua](https://open.spotify.com/album/4obMeYnz4UrSyXqiuVybSI) | 2:34 | 2024-04-01 | 2025-10-02 |
 | [Calling](https://open.spotify.com/track/7KooASXXdp3fKGWGbp7CBE) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Calling](https://open.spotify.com/album/7zQFpHbJgeMcJPAK0pnStL) | 3:23 | 2023-05-19 | 2025-03-20 |
 | [Calm Mind](https://open.spotify.com/track/6Gt0dkoMbaXGkHegYj9mXC) | [Orbit Of Zen](https://open.spotify.com/artist/75twMG8C6XM6AK3Q13MAFs) | [Calm Mind](https://open.spotify.com/album/4hQSRlCnpDXUoeqguI05tc) | 2:29 | 2025-10-24 |  |
@@ -307,6 +307,7 @@
 | [River Hymn](https://open.spotify.com/track/0G6qOjR6sbdx3f812Jf6m3) | [Melatonement](https://open.spotify.com/artist/1ZlMvBVYhelNe23PPk4mBN) | [River Hymn](https://open.spotify.com/album/1JeUE7z5MzGdlRVSeWcMLv) | 2:56 | 2024-03-05 | 2025-07-02 |
 | [River Of Dreams](https://open.spotify.com/track/45jab7CY7ZsjQGUrhGzAKR) | [Spiritualizer](https://open.spotify.com/artist/608axORAeMj8OmGsz5eu8C) | [Natural Spirit](https://open.spotify.com/album/3oDBpldNDHsvRAoFcMAkNo) | 2:51 | 2023-02-22 | 2024-10-04 |
 | [River on Strings](https://open.spotify.com/track/4KPxKVV0wKUbEi2D08RStc) | [Nerea Vallée](https://open.spotify.com/artist/4y63TWHzQ5P62UUfmYUnnl) | [River on Strings](https://open.spotify.com/album/2ms4F8UTNdM6JaXhCH83SK) | 3:08 | 2024-04-01 |  |
+| [River Tales](https://open.spotify.com/track/6HxUTe2fY3WiHJDh3ZjH7Y) | [The Nature Within](https://open.spotify.com/artist/4LgA06Jj6GDhOcZYAWFeJ0) | [River Tales](https://open.spotify.com/album/7wrZMqzlcdbZI6x0qvv9eM) | 2:35 | 2026-01-21 |  |
 | [Rivulet](https://open.spotify.com/track/5g3Yz3pnKESzTApUUhwV5U) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Rivulet](https://open.spotify.com/album/6VZUTEpAcrttetZxwcDrBa) | 2:41 | 2025-04-29 |  |
 | [Sacred](https://open.spotify.com/track/48ApntXh9irnvS6aBo4jaV) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Sacred](https://open.spotify.com/album/1rDWZjU82es1bcBmXzuCx3) | 2:29 | 2023-09-28 | 2025-04-30 |
 | [Sanare](https://open.spotify.com/track/7qjuGqempfRgK5czZIheLn) | [Kai Stellar](https://open.spotify.com/artist/5Ni9tbQ9r28mw5RS8AyGQr) | [Sanare](https://open.spotify.com/album/4LuiLAqAxCysmYYYEcr0SC) | 3:03 | 2025-10-24 |  |

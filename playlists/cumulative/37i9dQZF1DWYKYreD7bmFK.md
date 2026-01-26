@@ -2,7 +2,7 @@
 
 ### [Sanremo Giovani 2025](https://open.spotify.com/playlist/37i9dQZF1DWYKYreD7bmFK)
 
-> Tutti i brani di Sanremo Giovani 2025 🎧
+> Tutti i brani di Sanremo Giovani 2025 🎧 Hanno vinto Angelica Bove e Nicolò Filippucci
 
 50 songs - 2 hr 24 min
 

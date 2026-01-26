@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 92155,
+  "num_followers": 92166,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "VYZEE",
+        "url": "https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 202531,
+      "name": "VYZEE",
+      "url": "https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "1000 gecs",
         "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 114460,
       "name": "money machine",
       "url": "https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "VYZEE",
-        "url": "https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 202531,
-      "name": "VYZEE",
-      "url": "https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -231,6 +231,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "fantasize",
+        "url": "https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 150612,
+      "name": "fantasize",
+      "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "1000 gecs",
         "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 126616,
       "name": "hand crushed by a mallet",
       "url": "https://open.spotify.com/track/7CUkeiG7QtB7tPU9f8SANS"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "fantasize",
-        "url": "https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 150612,
-      "name": "fantasize",
-      "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -327,6 +327,26 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "you don't love me",
+        "url": "https://open.spotify.com/album/16Ed3EtdYHhasSdABo7g6m"
+      },
+      "artists": [
+        {
+          "name": "Rebzyyx",
+          "url": "https://open.spotify.com/artist/6FfFBKjNgYYhHBiot04z1I"
+        },
+        {
+          "name": "Xaxanity",
+          "url": "https://open.spotify.com/artist/10m6Fvz501byHhoObkMPVy"
+        }
+      ],
+      "duration_ms": 122227,
+      "name": "you don't love me",
+      "url": "https://open.spotify.com/track/4GdFtfWORB3JQvsjjWvE4y"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "1000 gecs",
         "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 121681,
       "name": "stupid horse",
       "url": "https://open.spotify.com/track/23Dapn8107GgxvXDIsPwWm"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "you don't love me",
-        "url": "https://open.spotify.com/album/16Ed3EtdYHhasSdABo7g6m"
-      },
-      "artists": [
-        {
-          "name": "Rebzyyx",
-          "url": "https://open.spotify.com/artist/6FfFBKjNgYYhHBiot04z1I"
-        },
-        {
-          "name": "Xaxanity",
-          "url": "https://open.spotify.com/artist/10m6Fvz501byHhoObkMPVy"
-        }
-      ],
-      "duration_ms": 122227,
-      "name": "you don't love me",
-      "url": "https://open.spotify.com/track/4GdFtfWORB3JQvsjjWvE4y"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "punk2",
-        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 137751,
-      "name": "fwb",
-      "url": "https://open.spotify.com/track/1XnnLXcvFd21B25H4IHEIY"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "bleh",
         "url": "https://open.spotify.com/album/0TadkQAZl1xvNIiguJ9nDi"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 167235,
       "name": "ok im cool",
       "url": "https://open.spotify.com/track/2pDjxMXn7PLMIbd526fhRb"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "punk2",
+        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 137751,
+      "name": "fwb",
+      "url": "https://open.spotify.com/track/1XnnLXcvFd21B25H4IHEIY"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "punk2",
-        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 222493,
-      "name": "rosier/punk2",
-      "url": "https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "things with wings",
         "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 108363,
       "name": "cheap liquor",
       "url": "https://open.spotify.com/track/7sLmMWLm9Egbs68NRcFvjY"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "punk2",
+        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 222493,
+      "name": "rosier/punk2",
+      "url": "https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "punk2",
-        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 157903,
-      "name": "fuckboy",
-      "url": "https://open.spotify.com/track/7cELheBXF3jIShGuewCy44"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "1000 gecs",
         "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 140183,
       "name": "800 db cloud",
       "url": "https://open.spotify.com/track/2MLuFz9Y3Vg3PF0Yf93M5c"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "punk2",
+        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 157903,
+      "name": "fuckboy",
+      "url": "https://open.spotify.com/track/7cELheBXF3jIShGuewCy44"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "PC Music, Vol. 1",
-        "url": "https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32"
-      },
-      "artists": [
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        }
-      ],
-      "duration_ms": 227750,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/0YAywhODGdHhWxuvFFhjE3"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "detest me",
         "url": "https://open.spotify.com/album/4HeO25Tx14zJgMwiDO8NkV"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 118930,
       "name": "detest me",
       "url": "https://open.spotify.com/track/0XZ5gv6EBByIEuSOIiYaon"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "PC Music, Vol. 1",
+        "url": "https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "duration_ms": 227750,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/0YAywhODGdHhWxuvFFhjE3"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "PC Music, Vol. 1",
-        "url": "https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32"
-      },
-      "artists": [
-        {
-          "name": "GFOTY",
-          "url": "https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC"
-        }
-      ],
-      "duration_ms": 143693,
-      "name": "USA",
-      "url": "https://open.spotify.com/track/5hffVao6FPPK7xqk8yJwZQ"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "RUBBER",
         "url": "https://open.spotify.com/album/0Qs20YY6v8ktvJP1RP84hC"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 184437,
       "name": "FARAWAY199X/TAPE 2",
       "url": "https://open.spotify.com/track/4zOfSQJhPaHVdNIPrOJJVl"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "PC Music, Vol. 1",
+        "url": "https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32"
+      },
+      "artists": [
+        {
+          "name": "GFOTY",
+          "url": "https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC"
+        }
+      ],
+      "duration_ms": 143693,
+      "name": "USA",
+      "url": "https://open.spotify.com/track/5hffVao6FPPK7xqk8yJwZQ"
     },
     {
       "added_at": "2024-10-09 21:55:22",

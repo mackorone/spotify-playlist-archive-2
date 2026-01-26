@@ -6,7 +6,7 @@
     "name": "newfoundsound",
     "url": "https://open.spotify.com/user/newfoundsound"
   },
-  "snapshot_id": "AABvMQMCyyNQMAZOmrAD13fGXfU3bGkx",
+  "snapshot_id": "AABvM5cIhLl3oe4epKXGydV7R3FoRxdW",
   "tracks": [
     {
       "added_at": "2026-01-16 11:21:11",
@@ -3015,6 +3015,38 @@
       "duration_ms": 278625,
       "name": "Summa",
       "url": "https://open.spotify.com/track/34PHwc6XsMuhUj2YULvW07"
+    },
+    {
+      "added_at": "2026-01-25 11:20:50",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/7DVDJeDFjoafoFF3E70NV4"
+      },
+      "artists": [
+        {
+          "name": "Quiet Man",
+          "url": "https://open.spotify.com/artist/3iR41vQVaeF8kXhOWjAv3J"
+        }
+      ],
+      "duration_ms": 264616,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2VNl1ygvFfGN4TW1U1UFhR"
+    },
+    {
+      "added_at": "2026-01-25 11:21:07",
+      "album": {
+        "name": "Treading Water",
+        "url": "https://open.spotify.com/album/7fNigTSU9ARHBXSxWlYZzi"
+      },
+      "artists": [
+        {
+          "name": "Quiet Man",
+          "url": "https://open.spotify.com/artist/3iR41vQVaeF8kXhOWjAv3J"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Treading Water",
+      "url": "https://open.spotify.com/track/3hS9yNUGVXPll9amXpxiV1"
     }
   ],
   "unique_name": "Off Axis Gigs . com",

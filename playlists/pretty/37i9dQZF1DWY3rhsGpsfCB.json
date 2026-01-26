@@ -1,6 +1,6 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 45903,
+  "num_followers": 46033,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,22 @@
     {
       "added_at": "2026-01-23 00:01:25",
       "album": {
+        "name": "TYLA +",
+        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 156825,
+      "name": "PUSH 2 START",
+      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
+    },
+    {
+      "added_at": "2026-01-23 00:01:25",
+      "album": {
         "name": "with all due respect",
         "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 160000,
       "name": "Hot Body",
       "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
-    },
-    {
-      "added_at": "2026-01-23 00:01:25",
-      "album": {
-        "name": "TYLA +",
-        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 156825,
-      "name": "PUSH 2 START",
-      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
     },
     {
       "added_at": "2026-01-23 00:01:25",
@@ -255,26 +255,6 @@
     {
       "added_at": "2026-01-23 00:01:25",
       "album": {
-        "name": "The Year I Turned 21",
-        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 149677,
-      "name": "Last Heartbreak Song (feat. Giveon)",
-      "url": "https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT"
-    },
-    {
-      "added_at": "2026-01-23 00:01:25",
-      "album": {
         "name": "catharsis",
         "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
       },
@@ -311,26 +291,6 @@
     {
       "added_at": "2026-01-23 00:01:25",
       "album": {
-        "name": "worst behaviour (feat. Kehlani)",
-        "url": "https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 213571,
-      "name": "worst behaviour (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl"
-    },
-    {
-      "added_at": "2026-01-23 00:01:25",
-      "album": {
         "name": "Heart Of A Woman",
         "url": "https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh"
       },
@@ -363,6 +323,26 @@
     {
       "added_at": "2026-01-23 00:01:25",
       "album": {
+        "name": "The Year I Turned 21",
+        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 149677,
+      "name": "Last Heartbreak Song (feat. Giveon)",
+      "url": "https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT"
+    },
+    {
+      "added_at": "2026-01-23 00:01:25",
+      "album": {
         "name": "MUTT (CB REMIX)",
         "url": "https://open.spotify.com/album/3aWAm4NZkp9kxSqOZ51h5s"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 199786,
       "name": "MUTT (feat. Chris Brown) [CB REMIX]",
       "url": "https://open.spotify.com/track/3riRdhyMDfEQz5nKrxfbwv"
+    },
+    {
+      "added_at": "2026-01-23 00:01:25",
+      "album": {
+        "name": "worst behaviour (feat. Kehlani)",
+        "url": "https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 213571,
+      "name": "worst behaviour (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl"
     },
     {
       "added_at": "2026-01-23 00:01:25",
@@ -415,6 +415,22 @@
       "duration_ms": 205373,
       "name": "Slow (feat. Ana\u00efs Cardot)",
       "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
+    },
+    {
+      "added_at": "2026-01-23 00:01:25",
+      "album": {
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 160111,
+      "name": "BLISS",
+      "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
     },
     {
       "added_at": "2026-01-23 00:01:25",
@@ -503,22 +519,6 @@
     {
       "added_at": "2026-01-23 00:01:25",
       "album": {
-        "name": "BLISS",
-        "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 160111,
-      "name": "BLISS",
-      "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
-    },
-    {
-      "added_at": "2026-01-23 00:01:25",
-      "album": {
         "name": "To Dry a Tear",
         "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
       },
@@ -535,18 +535,18 @@
     {
       "added_at": "2026-01-23 00:01:25",
       "album": {
-        "name": "WHY",
-        "url": "https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR"
+        "name": "Il s'appelait Tayc",
+        "url": "https://open.spotify.com/album/5J0faaooCsZuiFkF7s18we"
       },
       "artists": [
         {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         }
       ],
-      "duration_ms": 179594,
-      "name": "WHY",
-      "url": "https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg"
+      "duration_ms": 220490,
+      "name": "Il s'appelait Tayc",
+      "url": "https://open.spotify.com/track/2BXseQq9ypAA6Bp1urAbM4"
     },
     {
       "added_at": "2026-01-23 00:01:25",
@@ -571,18 +571,18 @@
     {
       "added_at": "2026-01-23 00:01:25",
       "album": {
-        "name": "Il s'appelait Tayc",
-        "url": "https://open.spotify.com/album/5J0faaooCsZuiFkF7s18we"
+        "name": "WHY",
+        "url": "https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR"
       },
       "artists": [
         {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
         }
       ],
-      "duration_ms": 220490,
-      "name": "Il s'appelait Tayc",
-      "url": "https://open.spotify.com/track/2BXseQq9ypAA6Bp1urAbM4"
+      "duration_ms": 179594,
+      "name": "WHY",
+      "url": "https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg"
     },
     {
       "added_at": "2026-01-23 00:01:25",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-01-23 00:01:25",
       "album": {
-        "name": "Sex on the Beach",
-        "url": "https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 171205,
-      "name": "Sex on the Beach",
-      "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
-    },
-    {
-      "added_at": "2026-01-23 00:01:25",
-      "album": {
         "name": "So Much Sense",
         "url": "https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 155695,
       "name": "Lagos Love Story",
       "url": "https://open.spotify.com/track/2Q2QZJlhGcGPV1XAdvcqob"
+    },
+    {
+      "added_at": "2026-01-23 00:01:25",
+      "album": {
+        "name": "Sex on the Beach",
+        "url": "https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 171205,
+      "name": "Sex on the Beach",
+      "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
     },
     {
       "added_at": "2026-01-23 00:01:25",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-01-23 00:01:25",
       "album": {
-        "name": "TO CRY A FLOOD",
-        "url": "https://open.spotify.com/album/3V5H8pPQw8O6Emv3pt9rva"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "DROWN",
-      "url": "https://open.spotify.com/track/1DN2qki2ftNNQ9xHcN8boW"
-    },
-    {
-      "added_at": "2026-01-23 00:01:25",
-      "album": {
         "name": "Dive In",
         "url": "https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos"
       },
@@ -955,6 +939,22 @@
     {
       "added_at": "2026-01-23 00:01:25",
       "album": {
+        "name": "TO CRY A FLOOD",
+        "url": "https://open.spotify.com/album/3V5H8pPQw8O6Emv3pt9rva"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "DROWN",
+      "url": "https://open.spotify.com/track/1DN2qki2ftNNQ9xHcN8boW"
+    },
+    {
+      "added_at": "2026-01-23 00:01:25",
+      "album": {
         "name": "adedamola",
         "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
       },
@@ -971,30 +971,6 @@
       "duration_ms": 212107,
       "name": "ecstasy",
       "url": "https://open.spotify.com/track/1hBvCXXnLsXwlS7Qx2xdAh"
-    },
-    {
-      "added_at": "2026-01-23 00:01:25",
-      "album": {
-        "name": "GOLD II",
-        "url": "https://open.spotify.com/album/7gLdGJsMu7LdkvLrzRfBXn"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        },
-        {
-          "name": "Le Mav",
-          "url": "https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL"
-        },
-        {
-          "name": "GOLD",
-          "url": "https://open.spotify.com/artist/3G7vnr4LuKUuDU3hgIZSMM"
-        }
-      ],
-      "duration_ms": 191658,
-      "name": "Rock Steady",
-      "url": "https://open.spotify.com/track/2ntw401pdhJCTDKRBAT2ZP"
     },
     {
       "added_at": "2026-01-23 00:01:25",
@@ -1027,6 +1003,30 @@
       "duration_ms": 166285,
       "name": "Ouu wee (brown)",
       "url": "https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi"
+    },
+    {
+      "added_at": "2026-01-23 00:01:25",
+      "album": {
+        "name": "GOLD II",
+        "url": "https://open.spotify.com/album/7gLdGJsMu7LdkvLrzRfBXn"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Le Mav",
+          "url": "https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL"
+        },
+        {
+          "name": "GOLD",
+          "url": "https://open.spotify.com/artist/3G7vnr4LuKUuDU3hgIZSMM"
+        }
+      ],
+      "duration_ms": 191658,
+      "name": "Rock Steady",
+      "url": "https://open.spotify.com/track/2ntw401pdhJCTDKRBAT2ZP"
     },
     {
       "added_at": "2026-01-23 00:01:25",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-01-23 00:01:25",
       "album": {
-        "name": "Looking for God",
-        "url": "https://open.spotify.com/album/6mPOuVIBfjt3Qj8DySayjZ"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Looking for God",
-      "url": "https://open.spotify.com/track/3QLYMOcolTK2pn7D0aA94M"
-    },
-    {
-      "added_at": "2026-01-23 00:01:25",
-      "album": {
         "name": "Vision Remix (feat. Chl\u00f6e)",
         "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
       },
@@ -1175,6 +1159,42 @@
       "duration_ms": 173023,
       "name": "Somebody Like You",
       "url": "https://open.spotify.com/track/0dEnWro42n8g51OVojqFSX"
+    },
+    {
+      "added_at": "2026-01-23 00:01:25",
+      "album": {
+        "name": "Looking for God",
+        "url": "https://open.spotify.com/album/6mPOuVIBfjt3Qj8DySayjZ"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Looking for God",
+      "url": "https://open.spotify.com/track/3QLYMOcolTK2pn7D0aA94M"
+    },
+    {
+      "added_at": "2026-01-23 00:01:25",
+      "album": {
+        "name": "keepsake",
+        "url": "https://open.spotify.com/album/7qbYXzYoWTnlzDTHbs0oCS"
+      },
+      "artists": [
+        {
+          "name": "Ragz Originale",
+          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
+        },
+        {
+          "name": "Budgie",
+          "url": "https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89"
+        }
+      ],
+      "duration_ms": 155036,
+      "name": "same bed",
+      "url": "https://open.spotify.com/track/4hipQPwuLqq9RFxlpVAJET"
     },
     {
       "added_at": "2026-01-23 00:01:25",
@@ -1235,26 +1255,6 @@
     {
       "added_at": "2026-01-23 00:01:25",
       "album": {
-        "name": "keepsake",
-        "url": "https://open.spotify.com/album/7qbYXzYoWTnlzDTHbs0oCS"
-      },
-      "artists": [
-        {
-          "name": "Ragz Originale",
-          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
-        },
-        {
-          "name": "Budgie",
-          "url": "https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89"
-        }
-      ],
-      "duration_ms": 155036,
-      "name": "same bed",
-      "url": "https://open.spotify.com/track/4hipQPwuLqq9RFxlpVAJET"
-    },
-    {
-      "added_at": "2026-01-23 00:01:25",
-      "album": {
         "name": "Reflection Station",
         "url": "https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk"
       },
@@ -1291,6 +1291,22 @@
       "duration_ms": 211934,
       "name": "Soft Prayer",
       "url": "https://open.spotify.com/track/7BIkcr2aqUPUuRXCL75L6z"
+    },
+    {
+      "added_at": "2026-01-23 00:01:25",
+      "album": {
+        "name": "Clear Mind",
+        "url": "https://open.spotify.com/album/5FacPr0HFLxZwXo49lhK2g"
+      },
+      "artists": [
+        {
+          "name": "Bolu Ajibade",
+          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Clear Mind",
+      "url": "https://open.spotify.com/track/1LW3d8wiel1KrGM8MgxIXy"
     },
     {
       "added_at": "2026-01-23 00:01:25",
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2026-01-23 00:01:25",
       "album": {
-        "name": "Embody",
-        "url": "https://open.spotify.com/album/5hxgKbNDHmb6jxu0P6jQgz"
-      },
-      "artists": [
-        {
-          "name": "Tessi Nandi",
-          "url": "https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ"
-        }
-      ],
-      "duration_ms": 167339,
-      "name": "Embody",
-      "url": "https://open.spotify.com/track/25Hpfo0rsaClCFsZNdiGrN"
-    },
-    {
-      "added_at": "2026-01-23 00:01:25",
-      "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/6uHC38yfv6s3RI8Lv0Vm2Z"
       },
@@ -1387,6 +1387,22 @@
       "duration_ms": 178775,
       "name": "Wait",
       "url": "https://open.spotify.com/track/2jbGtizHpszkUJnMJOAj64"
+    },
+    {
+      "added_at": "2026-01-23 00:01:25",
+      "album": {
+        "name": "Embody",
+        "url": "https://open.spotify.com/album/5hxgKbNDHmb6jxu0P6jQgz"
+      },
+      "artists": [
+        {
+          "name": "Tessi Nandi",
+          "url": "https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ"
+        }
+      ],
+      "duration_ms": 167339,
+      "name": "Embody",
+      "url": "https://open.spotify.com/track/25Hpfo0rsaClCFsZNdiGrN"
     },
     {
       "added_at": "2026-01-23 00:01:25",
@@ -1423,38 +1439,22 @@
     {
       "added_at": "2026-01-23 00:01:25",
       "album": {
-        "name": "MAYBE II",
-        "url": "https://open.spotify.com/album/4K0D8MTYjNyE4okLV7m6Dv"
+        "name": "Energy (Chak Dum Dum)",
+        "url": "https://open.spotify.com/album/6mu7e9PA8NTtWWU3A6CvyT"
       },
       "artists": [
         {
-          "name": "Ukweli",
-          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
+          "name": "BombayMami",
+          "url": "https://open.spotify.com/artist/6GssnSoFCEFhN0sdsaDbzT"
         },
         {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
         }
       ],
-      "duration_ms": 222750,
-      "name": "Options",
-      "url": "https://open.spotify.com/track/1cR14AgXA3tA0GOpCTpX0x"
-    },
-    {
-      "added_at": "2026-01-23 00:01:25",
-      "album": {
-        "name": "Clear Mind",
-        "url": "https://open.spotify.com/album/5FacPr0HFLxZwXo49lhK2g"
-      },
-      "artists": [
-        {
-          "name": "Bolu Ajibade",
-          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Clear Mind",
-      "url": "https://open.spotify.com/track/1LW3d8wiel1KrGM8MgxIXy"
+      "duration_ms": 176603,
+      "name": "Energy (Chak Dum Dum)",
+      "url": "https://open.spotify.com/track/49aE6NlCu0g1EcDl3xkTN9"
     }
   ],
   "unique_name": "Cocoa Butter ",

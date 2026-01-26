@@ -4,7 +4,7 @@
 
 > The latest straight bars and Afro\-Trap\. Cover:  Kweku Smoke
 
-395 songs - 20 hr 26 min
+396 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Gimme My Money](https://open.spotify.com/track/7iY8FiYAwk1B1HM9tGXl4J) | [Money Badoo](https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba), [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras) | [MSRYLUV$CMPNY](https://open.spotify.com/album/49LGouxaKBJxFRHqiEvVTg) | 1:44 | 2025-03-07 | 2025-03-15 |
 | [Go Crazy](https://open.spotify.com/track/1lWcw1YdBbYbFzJ9BKyDqc) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Go Crazy](https://open.spotify.com/album/5uE4icrIPuWXaMFcCGyC1y) | 2:14 | 2025-07-04 |  |
 | [Gold](https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Gold](https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM) | 3:08 | 2025-06-27 |  |
+| [Golden Boy 2](https://open.spotify.com/track/6HqtDBTRdLKHJJlz3LpQLz) | [TRK.](https://open.spotify.com/artist/1n8sswL2m5gBFjC6JQF1b7) | [Golden Boy 2](https://open.spotify.com/album/4Bzxe4QbF5q3NQ0tz7AD94) | 2:44 | 2026-01-23 |  |
 | [Grandad](https://open.spotify.com/track/35Q5ldq74wOaAErCmL9OQZ) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Roots](https://open.spotify.com/album/7HaPTdLL3KcYuQkMcVQfRx) | 3:11 | 2021-10-14 | 2022-06-10 |
 | [Guess Who's Back](https://open.spotify.com/track/1nauB495vIr268pQ78didh) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Guess Who's Back](https://open.spotify.com/album/68OdKbJF8V3Hnsg2JJyr2G) | 2:52 | 2025-07-18 | 2025-07-30 |
 | [Guestlist](https://open.spotify.com/track/46yplRp7xn26QkDe8AdgaB) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Guestlist](https://open.spotify.com/album/5D89rT4XKSkoOCLJewdiB4) | 3:54 | 2021-10-14 | 2022-10-21 |
@@ -364,7 +365,7 @@
 | [This Life](https://open.spotify.com/track/7apKD9mYK4mD1qR0lHgxAF) | [Imadh](https://open.spotify.com/artist/0TOKFUBpQUqy5njsggfDUb), [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl) | [This Life](https://open.spotify.com/album/7Jpo8hdYQsZWsjpMv8UXRx) | 4:00 | 2022-06-30 | 2022-07-22 |
 | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY) | 3:03 | 2023-11-10 | 2025-09-29 |
 | [Time Of My life](https://open.spotify.com/track/0GVWa6o5Kfai286WCKB1d0) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Time Of My Life](https://open.spotify.com/album/68LmZVzRuCex2vfwAYar5J) | 2:35 | 2024-09-27 | 2025-10-24 |
-| [Tontonte](https://open.spotify.com/track/2joZgmbvHfeypuPFBysocT) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Tontonte](https://open.spotify.com/album/5njbyZ86SDLuOJoHJekpsV) | 4:20 | 2025-09-26 |  |
+| [Tontonte](https://open.spotify.com/track/2joZgmbvHfeypuPFBysocT) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Tontonte](https://open.spotify.com/album/5njbyZ86SDLuOJoHJekpsV) | 4:20 | 2025-09-26 | 2026-01-26 |
 | [Too Late for Mama](https://open.spotify.com/track/1Xp4Cy2DSnghxhXDriDKrr) | [Stogie T](https://open.spotify.com/artist/7tB6fzororeAvyt9RzKePs), [BONJ](https://open.spotify.com/artist/06U2Jp2afTGxkxA9LMluDL) | [Shallow](https://open.spotify.com/album/0pChf8s46kdE5dS7eLv88S) | 3:32 | 2024-05-24 | 2024-09-07 |
 | [Trap Waltz](https://open.spotify.com/track/5qqO0DePrhF3xttj0Nfm3v) | [LuNo Da ViNci](https://open.spotify.com/artist/2QL5zMgCw5o1bkMttMbdzx), [The Renaissance Man](https://open.spotify.com/artist/6nszgkJNXu8EhZdEzaYqWi), [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN), [WillX BOY](https://open.spotify.com/artist/24uRj76SdihKvLzrWvmE8e) | [Trap Waltz](https://open.spotify.com/album/45FiQ6iEu5XOS6Uf580Gyk) | 2:48 | 2025-08-01 | 2025-11-28 |
 | [TRAUMA](https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 2:48 | 2024-05-24 |  |

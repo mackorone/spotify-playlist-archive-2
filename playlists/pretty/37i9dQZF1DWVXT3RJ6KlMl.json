@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 70's! Cover: Rob de Nijs",
-  "num_followers": 35929,
+  "num_followers": 35941,
   "original_name": "70's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-07-09 16:51:18",
       "album": {
-        "name": "Teddybeer",
-        "url": "https://open.spotify.com/album/67xn5qDdvyhwB4PBeLNbuo"
-      },
-      "artists": [
-        {
-          "name": "Gerard De Vries",
-          "url": "https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP"
-        }
-      ],
-      "duration_ms": 258906,
-      "name": "Teddybeer",
-      "url": "https://open.spotify.com/track/2h3A48Ho17v0jlSo9MzpKY"
-    },
-    {
-      "added_at": "2024-07-09 16:51:18",
-      "album": {
         "name": "Wilma",
         "url": "https://open.spotify.com/album/092vpDBtbC8iFyV5VVUSpq"
       },
@@ -367,6 +351,38 @@
       "duration_ms": 242526,
       "name": "Zou Het Erg Zijn, Lieve Opa",
       "url": "https://open.spotify.com/track/0tA70v8mUkJfhSQrmyIjYJ"
+    },
+    {
+      "added_at": "2024-07-09 16:51:18",
+      "album": {
+        "name": "Teddybeer",
+        "url": "https://open.spotify.com/album/67xn5qDdvyhwB4PBeLNbuo"
+      },
+      "artists": [
+        {
+          "name": "Gerard De Vries",
+          "url": "https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP"
+        }
+      ],
+      "duration_ms": 258906,
+      "name": "Teddybeer",
+      "url": "https://open.spotify.com/track/2h3A48Ho17v0jlSo9MzpKY"
+    },
+    {
+      "added_at": "2024-07-09 16:51:18",
+      "album": {
+        "name": "Die Goeie Ouwe Tijd Top 100",
+        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
+      },
+      "artists": [
+        {
+          "name": "Herman van Keeken",
+          "url": "https://open.spotify.com/artist/2oEuZEl53FlgyJ6dCol41J"
+        }
+      ],
+      "duration_ms": 133560,
+      "name": "Pappie Loop Toch Niet Zo Snel",
+      "url": "https://open.spotify.com/track/3G2y07M6B6LagRQmJJRhaF"
     },
     {
       "added_at": "2024-07-09 16:51:18",
@@ -399,22 +415,6 @@
       "duration_ms": 200496,
       "name": "De Liefde Van De Man Gaat Door De Maag (Worstjes Op M'n Borstjes)",
       "url": "https://open.spotify.com/track/1qR1XT5nIXhdkxTsYsxO2c"
-    },
-    {
-      "added_at": "2024-07-09 16:51:18",
-      "album": {
-        "name": "Die Goeie Ouwe Tijd Top 100",
-        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
-      },
-      "artists": [
-        {
-          "name": "Herman van Keeken",
-          "url": "https://open.spotify.com/artist/2oEuZEl53FlgyJ6dCol41J"
-        }
-      ],
-      "duration_ms": 133560,
-      "name": "Pappie Loop Toch Niet Zo Snel",
-      "url": "https://open.spotify.com/track/3G2y07M6B6LagRQmJJRhaF"
     },
     {
       "added_at": "2024-07-09 16:51:18",

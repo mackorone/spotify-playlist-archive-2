@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 35538,
+  "num_followers": 35536,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXK6AAAAAAA1ZCV4mxxS9zi0f3P4NiZ6",
+  "snapshot_id": "aXQLgAAAAACN8GcfMIfgOg5ymGj6P4lE",
   "tracks": [
     {
       "added_at": null,
@@ -479,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gangsta Graduation (feat. G Herbo)",
-        "url": "https://open.spotify.com/album/0BIEOSPu0veroLyMxxFGAR"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 201586,
-      "name": "Gangsta Graduation (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/57KbQMnqfP3U5RsjqA1Rum"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SLICK ALMIGHTY",
         "url": "https://open.spotify.com/album/7z89XFe47HxS51U6cF6tMp"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 204750,
       "name": "Drench Gang",
       "url": "https://open.spotify.com/track/0ylEKSeI0KEbDrWz33bIAP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gangsta Graduation (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/0BIEOSPu0veroLyMxxFGAR"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 201586,
+      "name": "Gangsta Graduation (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/57KbQMnqfP3U5RsjqA1Rum"
     },
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Survivor\u2019s Guilt (feat. G Herbo)",
-        "url": "https://open.spotify.com/album/5LmyrJlTv5zRJm2CiyxHSS"
-      },
-      "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 183703,
-      "name": "Survivor\u2019s Guilt (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/6nCWE96dbCCeWig5TZu4jv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stress Relief (with G Herbo)",
         "url": "https://open.spotify.com/album/0Ghj6XiK4n9JPvZO61NHaq"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 160145,
       "name": "Stress Relief (with G Herbo)",
       "url": "https://open.spotify.com/track/7GsiWWr0TlgnehdkgAg3Yq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Survivor\u2019s Guilt (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/5LmyrJlTv5zRJm2CiyxHSS"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 183703,
+      "name": "Survivor\u2019s Guilt (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6nCWE96dbCCeWig5TZu4jv"
     },
     {
       "added_at": null,

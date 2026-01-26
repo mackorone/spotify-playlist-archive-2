@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 578 likes - 467 songs - 22 hr 44 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 581 likes - 469 songs - 22 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -475,5 +475,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 465 | [Smooth Operator](https://open.spotify.com/track/2jg0rXK2K9n3FvHNW6j6IT) | [Sir Gladis](https://open.spotify.com/artist/0LEqbOy9JAIvDyHePlaI19) | [Smooth Operator](https://open.spotify.com/album/4GtTnxqgc0yeMmlWOkf6LH) | 4:52 |
 | 466 | [What Happens When We Die?](https://open.spotify.com/track/0vzSRZuwogXh11G498bQW3) | [Tommy Snow](https://open.spotify.com/artist/7MD1sZsn15FxxsklgG5bNq) | [What Happens When We Die?](https://open.spotify.com/album/6o2z2D5mjubKDzXvkrfwaj) | 4:32 |
 | 467 | [JANE GOODALL](https://open.spotify.com/track/0zdrvHfEwtIEB5McVRw9XP) | [Rolo](https://open.spotify.com/artist/7KGGo3dYH0hGs2JWllqI1I) | [JANE GOODALL](https://open.spotify.com/album/2qIQggwIpzjsP0k7tsG7SY) | 1:33 |
+| 468 | [Golpe de Locura \- Acústico](https://open.spotify.com/track/29UcZZnHoCLAlUnDrafQLv) | [Alfa Mental](https://open.spotify.com/artist/4KYCZqSLE3AbaFYm3rQeK2), [Bob Sandax](https://open.spotify.com/artist/27z4BX6gHwpl3kU7mRK8F5), [CreatorM](https://open.spotify.com/artist/3gZCwPAk8hQOYLQT6Sj1SO), [Crisyan](https://open.spotify.com/artist/3hwpZEvlRfuYS4z2yHOSl2) | [Golpe de Locura \(Acústico\)](https://open.spotify.com/album/5IUF9gGzXcI2B6JgAGCNUH) | 3:07 |
+| 469 | [COMPLICADO](https://open.spotify.com/track/4lu4tVLVkmo85xt060ArxH) | [LuisEnrique NR](https://open.spotify.com/artist/4n8ZCRYPCJshSuomDy6HIz) | [COMPLICADO](https://open.spotify.com/album/3oe8HHqY1SpLeHuh4gpsXJ) | 1:34 |
 
-Snapshot ID: `AAABc1UtLabe6nTzrBj5bHd2HbrHBTOG`
+Snapshot ID: `AAABdXxQWFnmghg5mg1f1Sbohdt+wkse`

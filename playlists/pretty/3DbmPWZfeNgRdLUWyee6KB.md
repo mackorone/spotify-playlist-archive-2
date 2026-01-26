@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,191 likes - 129 songs - 7 hr 18 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,191 likes - 130 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,5 +137,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 127 | [Still Here](https://open.spotify.com/track/7quxO8PrT7IYnPTEm7nkcf) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [Still Here](https://open.spotify.com/album/6i25XsJZ3D312hgyVSyGgq) | 3:56 |
 | 128 | [Sogno di follia](https://open.spotify.com/track/2ed0HYFVbRBW3EQm8dxF2B) | [Steve](https://open.spotify.com/artist/5pNVhuDEajMOmhHU9maIqy) | [Sogno di follia](https://open.spotify.com/album/133A99qb7KhTn1XoZjwJT3) | 3:06 |
 | 129 | [para la niña que un día fui](https://open.spotify.com/track/02kulGMAiGlCqFvoPq2FqY) | [SISSIE](https://open.spotify.com/artist/1eJKvBgKswZlJd4N0j3Nar) | [para el lugar que me vio crecer](https://open.spotify.com/album/0VSwRX6zQRkhIECkP0huhH) | 2:19 |
+| 130 | [Showers Bring Flowers](https://open.spotify.com/track/0iVmUQRJOeOLgnYkpMbhyh) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:58 |
 
-Snapshot ID: `AAAPsrM8PbFTbluipsU9Fr3hIL2jHXJ5`
+Snapshot ID: `AAAPs888oom9JPAJStIvJxVDQp2HNamH`

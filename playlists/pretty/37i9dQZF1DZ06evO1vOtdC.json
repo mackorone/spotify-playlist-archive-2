@@ -1,12 +1,12 @@
 {
   "description": "This is Jennifer Lopez. The essential tracks, all in one playlist.",
-  "num_followers": 469384,
+  "num_followers": 469382,
   "original_name": "This Is Jennifer Lopez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXK6AAAAAACkrfon3vmpFyGXdUbumfXg",
+  "snapshot_id": "aXQLgAAAAAA+xkF6v0fuyQ6cbTutz9+6",
   "tracks": [
     {
       "added_at": null,
@@ -315,26 +315,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Regreso del Sobreviviente (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO"
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
       "artists": [
         {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
           "name": "Jennifer Lopez",
           "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         }
       ],
-      "duration_ms": 235920,
-      "name": "Adrenalina (feat. Jennifer Lopez & Ricky Martin)",
-      "url": "https://open.spotify.com/track/2eqDUxbd0JPEhNrJdPlHLs"
+      "duration_ms": 266000,
+      "name": "If You Had My Love",
+      "url": "https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn"
     },
     {
       "added_at": null,
@@ -355,18 +347,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+        "name": "El Regreso del Sobreviviente (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO"
       },
       "artists": [
         {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
           "name": "Jennifer Lopez",
           "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         }
       ],
-      "duration_ms": 266000,
-      "name": "If You Had My Love",
-      "url": "https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn"
+      "duration_ms": 235920,
+      "name": "Adrenalina (feat. Jennifer Lopez & Ricky Martin)",
+      "url": "https://open.spotify.com/track/2eqDUxbd0JPEhNrJdPlHLs"
     },
     {
       "added_at": null,

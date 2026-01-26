@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain]
 
 > La lista donde viven los hits más grandes de la Isla del Encanto\. Cover: Clarent
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,123 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,213 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain]
 | 49 | [Rose](https://open.spotify.com/track/0zY6VwcJajbJdXdTaIKfb8) | [yovngmanota](https://open.spotify.com/artist/6EDVu3xVa0VFfMhxKbBxuJ) | [Rose](https://open.spotify.com/album/5WOmHHQ1SHgLHaG4LrwgmK) | 2:26 |
 | 50 | [⁠LUCES DE COLORES](https://open.spotify.com/track/5dDlknAL9imbXXl7uG7oqe) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:36 |
 
-Snapshot ID: `AAAAAI3chkuWblQY7kv/xsAJPZPTuzeS`
+Snapshot ID: `AAAAAIhzXv/LhR746AyTVe9ZewZmaJdO`

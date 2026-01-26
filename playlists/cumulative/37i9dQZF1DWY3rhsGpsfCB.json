@@ -4103,6 +4103,28 @@
     },
     {
       "album": {
+        "name": "Energy (Chak Dum Dum)",
+        "url": "https://open.spotify.com/album/6mu7e9PA8NTtWWU3A6CvyT"
+      },
+      "artists": [
+        {
+          "name": "BombayMami",
+          "url": "https://open.spotify.com/artist/6GssnSoFCEFhN0sdsaDbzT"
+        },
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176603,
+      "name": "Energy (Chak Dum Dum)",
+      "url": "https://open.spotify.com/track/49aE6NlCu0g1EcDl3xkTN9"
+    },
+    {
+      "album": {
         "name": "Escapade",
         "url": "https://open.spotify.com/album/5Crdlhgl0QFmuOGxfTvjke"
       },
@@ -11122,7 +11144,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 222750,
       "name": "Options",
       "url": "https://open.spotify.com/track/1cR14AgXA3tA0GOpCTpX0x"

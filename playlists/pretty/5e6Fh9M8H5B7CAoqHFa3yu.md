@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 246 likes - 1,816 songs - 4 day 13 hr 53 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 247 likes - 1,818 songs - 4 day 14 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1824,5 +1824,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1814 | [pó da saudade](https://open.spotify.com/track/2IwP3z7WcpWPF3LevFUXLP) | [MC NEMINHO](https://open.spotify.com/artist/5kwiiAZRW2ngQmkrglNTYR) | [BRILHO DE OURO](https://open.spotify.com/album/0dolXPcE9GU6vtZnV6TdBC) | 3:25 |
 | 1815 | [vida de patrão](https://open.spotify.com/track/19lVNgRsYOw2QmNKCWu2gp) | [MC NEMINHO](https://open.spotify.com/artist/5kwiiAZRW2ngQmkrglNTYR) | [BRILHO DE OURO](https://open.spotify.com/album/0dolXPcE9GU6vtZnV6TdBC) | 2:55 |
 | 1816 | [princesa linda](https://open.spotify.com/track/33dkGzUeemaEftYZMhhipn) | [MC NEMINHO](https://open.spotify.com/artist/5kwiiAZRW2ngQmkrglNTYR) | [BRILHO DE OURO](https://open.spotify.com/album/0dolXPcE9GU6vtZnV6TdBC) | 3:01 |
+| 1817 | [Mister Music](https://open.spotify.com/track/0xQ0wZd59dUP6gszXb9kVy) | [Brimstonereceiver](https://open.spotify.com/artist/3E9CTSMuEYpVFK1775pdwh) | [Mister Music](https://open.spotify.com/album/0wNDdv3hN0a00tFxjqPtgX) | 4:30 |
+| 1818 | [Tu Alma](https://open.spotify.com/track/5wrWG4D0EtdwY7LBy5J16X) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Tu Alma](https://open.spotify.com/album/05jP4DHgPJyvhnbmLcGo5q) | 2:50 |
 
-Snapshot ID: `AAAH7e8otzXLjzNXmnO/I9QtmqMRGjCh`
+Snapshot ID: `AAAH74el2nH6tDHyjHR8c7MjETgDsjq0`

@@ -1,12 +1,12 @@
 {
   "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
-  "num_followers": 79984,
+  "num_followers": 79991,
   "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXK6AAAAAADcxOh63wLrJ/Vaz3HTC/7T",
+  "snapshot_id": "aXQLgAAAAAAsyvJFv+Q3qm0IskT2a5JF",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 241300,
-      "name": "Moths",
-      "url": "https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz"
+      "duration_ms": 267666,
+      "name": "Break the Spell",
+      "url": "https://open.spotify.com/track/0mEjyPMcqIxeqYFIOeAQib"
     },
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Break the Spell",
-        "url": "https://open.spotify.com/album/3Fjjxc5rAZr8xw0gl25crI"
+        "name": "Doomsday Machine",
+        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
       },
       "artists": [
         {
@@ -148,9 +148,25 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 267666,
-      "name": "Break the Spell",
-      "url": "https://open.spotify.com/track/2XLfNFUKxi1er33lMTa34m"
+      "duration_ms": 325586,
+      "name": "My Apocalypse",
+      "url": "https://open.spotify.com/track/7ak5dWy0Vee6yhR5dwQWO5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood Dynasty (Expanded Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 241300,
+      "name": "Moths",
+      "url": "https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz"
     },
     {
       "added_at": null,
@@ -167,22 +183,6 @@
       "duration_ms": 269853,
       "name": "Dream Stealer",
       "url": "https://open.spotify.com/track/2AQfPVnLvzvOYJbUDdGK5v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doomsday Machine",
-        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 325586,
-      "name": "My Apocalypse",
-      "url": "https://open.spotify.com/track/7ak5dWy0Vee6yhR5dwQWO5"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Dynasty",
-        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "Paper Tiger",
-      "url": "https://open.spotify.com/track/7dNg8khl5uESWTskg2ddNX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Khaos Legions",
         "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 254653,
       "name": "No Gods, No Masters",
       "url": "https://open.spotify.com/track/2SR0CHOWgkVt0nLI9YwYti"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood Dynasty",
+        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Paper Tiger",
+      "url": "https://open.spotify.com/track/7dNg8khl5uESWTskg2ddNX"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Dynasty",
-        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 231186,
-      "name": "Blood Dynasty",
-      "url": "https://open.spotify.com/track/6QO8o6bGA3bR056Rsm3bVk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blood Dynasty (Expanded Deluxe Edition)",
         "url": "https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 230891,
       "name": "Lachrymatory",
       "url": "https://open.spotify.com/track/0vMSFxhahDAwVnnPDO8Oas"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood Dynasty",
+        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 231186,
+      "name": "Blood Dynasty",
+      "url": "https://open.spotify.com/track/6QO8o6bGA3bR056Rsm3bVk"
     },
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "War Eternal",
+        "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 241160,
+      "name": "As the Pages Burn",
+      "url": "https://open.spotify.com/track/3BkqtdD3Vc90C3JFtTTVqI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blood Dynasty",
         "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 247693,
       "name": "Don't Look Down",
       "url": "https://open.spotify.com/track/4gMYkfOztdTywqnakbBtpQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "War Eternal",
-        "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 241160,
-      "name": "As the Pages Burn",
-      "url": "https://open.spotify.com/track/3BkqtdD3Vc90C3JFtTTVqI"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Dynasty (Expanded Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 289586,
-      "name": "March of the Miscreants",
-      "url": "https://open.spotify.com/track/145Uavh1IEvv1xyG8AWAU8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "War Eternal",
         "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 278666,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/5N9O4qRT4FJudc5m632T45"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood Dynasty (Expanded Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 289586,
+      "name": "March of the Miscreants",
+      "url": "https://open.spotify.com/track/145Uavh1IEvv1xyG8AWAU8"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Dynasty (Expanded Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 47893,
-      "name": "Presage",
-      "url": "https://open.spotify.com/track/25HZHTKy9gkPwSCJMsmzpy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "War Eternal",
         "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 245666,
       "name": "No More Regrets",
       "url": "https://open.spotify.com/track/6U4PnLCxvpipBXCffkdHNo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood Dynasty (Expanded Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 47893,
+      "name": "Presage",
+      "url": "https://open.spotify.com/track/25HZHTKy9gkPwSCJMsmzpy"
     },
     {
       "added_at": null,

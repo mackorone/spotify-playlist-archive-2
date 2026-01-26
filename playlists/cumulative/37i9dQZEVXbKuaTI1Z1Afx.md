@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-4,732 songs - 10 day 14 hr 15 min
+4,733 songs - 10 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1356,6 +1356,7 @@
 | [Feels So Good](https://open.spotify.com/track/2M7EflZCPCqqRLB9hy5MDy) | [Chuck Mangione](https://open.spotify.com/artist/2MMaIlHd8UvDW0mVRAncD6) | [Feels So Good](https://open.spotify.com/album/5w0p1F0Q1wBqsX2UiX6CCD) | 9:42 | 2025-07-29 | 2025-07-31 |
 | [Fell In Love](https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fell In Love](https://open.spotify.com/album/4AkiEkHlDW2ZyPsO7iJct8) | 2:01 | 2023-06-01 | 2023-06-05 |
 | [Femininomenon](https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:39 | 2023-09-29 | 2024-08-25 |
+| [Fernando](https://open.spotify.com/track/4BM8yJ0PzBi2ZewpMTOxtx) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 4:12 | 2026-01-25 |  |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-04-27 | 2022-07-04 |
 | [Fever](https://open.spotify.com/track/09xhawlPUifhftf8zuie7w) | [Buckshot](https://open.spotify.com/artist/0HPG2EIdGCP6gjXW0KzrJq), [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Fever](https://open.spotify.com/album/0ULd6WFTpdtoBl7eBgH2oo) | 2:24 | 2025-11-13 | 2026-01-05 |
 | [FEVER](https://open.spotify.com/track/0jozeU0kGN3J0pOcBlxSs8) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [THE RUSH](https://open.spotify.com/album/0O0aTGnPVuMvW3s20u2jW1) | 2:10 | 2024-05-05 | 2024-05-14 |
@@ -4400,7 +4401,7 @@
 | [Wake Up \(feat\. Chris Brown\)](https://open.spotify.com/track/6pMHL7A5CEPzHHKDRAAMEM) | [Skylar Blatt](https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Wake Up \(feat\. Chris Brown\)](https://open.spotify.com/album/6GxAhYaeBYubxjZn0KkpZY) | 2:53 | 2024-05-14 | 2024-05-22 |
 | [Walk Around](https://open.spotify.com/track/6WFW82dzsdevDzS2zAle04) | [Double A\-Ron](https://open.spotify.com/artist/4F2fO13keDtQ3zYtKpxlua), [Jdillon](https://open.spotify.com/artist/5eNYvtpRb5v6pA7cAj6EeT) | [Walk Around](https://open.spotify.com/album/6UUugVOt7WnPXz3Oy1357L) | 2:12 | 2022-06-16 | 2022-07-24 |
 | [Walk Home](https://open.spotify.com/track/4rxStMhSPuwm1QfXwp5zUA) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:46 | 2025-04-14 | 2025-04-21 |
-| [Walk My Walk](https://open.spotify.com/track/17HsyeI0Eq06n3XRntZ4DT) | [Breaking Rust](https://open.spotify.com/artist/3h9rLaviiFj1TeEhdIRpP5) | [Resilient](https://open.spotify.com/album/4a51ZNJXb5Psq3YmBBAn0i) | 3:33 | 2025-11-04 |  |
+| [Walk My Walk](https://open.spotify.com/track/17HsyeI0Eq06n3XRntZ4DT) | [Breaking Rust](https://open.spotify.com/artist/3h9rLaviiFj1TeEhdIRpP5) | [Resilient](https://open.spotify.com/album/4a51ZNJXb5Psq3YmBBAn0i) | 3:33 | 2025-11-04 | 2026-01-26 |
 | [Walk Thru \(feat\. Problem\)](https://open.spotify.com/track/5259GVdvIOBkcqo6L2i9qw) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I Promise I Will Never Stop Going In \(Deluxe Edition\)](https://open.spotify.com/album/2swWrUelezIoSdBWStNisb) | 3:07 | 2024-09-07 | 2024-09-15 |
 | [Walkin](https://open.spotify.com/track/1q8DwZtQen5fvyB7cKbShC) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 4:40 | 2022-03-26 | 2022-04-10 |
 | [Walkin](https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Walkin](https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO) | 4:40 | 2022-02-15 | 2022-03-09 |

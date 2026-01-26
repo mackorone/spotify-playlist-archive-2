@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 216566,
       "name": "Copacabana",
       "url": "https://open.spotify.com/track/4hTXeWayUVMwoz6v1CviSN"
@@ -1870,6 +1870,28 @@
       "duration_ms": 207000,
       "name": "El Card\u00f3n",
       "url": "https://open.spotify.com/track/2L5z9XcA1PCxUOJ3W24tnX"
+    },
+    {
+      "album": {
+        "name": "Franco (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1KwfATAKqo1JKJtlflgkGj"
+      },
+      "artists": [
+        {
+          "name": "Francisca y Los Exploradores",
+          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
+        },
+        {
+          "name": "Adrian Dargelos",
+          "url": "https://open.spotify.com/artist/4F55zi79SZIr5PPOLTJ6cg"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204888,
+      "name": "El Destino",
+      "url": "https://open.spotify.com/track/7deEXsuLC8Teu0MHiwr3V0"
     },
     {
       "album": {

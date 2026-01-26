@@ -2116,7 +2116,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 218266,
       "name": "The First Time",
       "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
@@ -4492,6 +4492,28 @@
       "duration_ms": 167218,
       "name": "\u05ea\u05df \u05dc\u05d9 \u05d0\u05ea \u05d4\u05d0\u05e9\u05e9\u05e9",
       "url": "https://open.spotify.com/track/2v8ZRDPqR7s7KDt1QQ57hx"
+    },
+    {
+      "album": {
+        "name": "\u05ea\u05e7\u05dc\u05d9\u05d8 \u05d6\u05d4\u05d1",
+        "url": "https://open.spotify.com/album/43NJSfiyzp8yak9wBRUS7o"
+      },
+      "artists": [
+        {
+          "name": "Gil Vain",
+          "url": "https://open.spotify.com/artist/7LYtqxi8Le9d8KvQhzpcjj"
+        },
+        {
+          "name": "Bar Tzabary",
+          "url": "https://open.spotify.com/artist/3lDTgudSVNR05wyiJ1RptF"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212142,
+      "name": "\u05ea\u05e7\u05dc\u05d9\u05d8 \u05d6\u05d4\u05d1",
+      "url": "https://open.spotify.com/track/5q5j10lw64WVnuYJOvvQnk"
     },
     {
       "album": {

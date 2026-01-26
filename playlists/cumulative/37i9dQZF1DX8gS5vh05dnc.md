@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-403 songs - 21 hr 31 min
+404 songs - 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2022-07-25 |  |
 | [concussion](https://open.spotify.com/track/4A6kIX7Rvw7xZRbc4Sqb4q) | [southernwade](https://open.spotify.com/artist/4AhmVfS4VIU9vQzElhRu2R) | [concussion](https://open.spotify.com/album/7uXoid8zeG7Wgk71kjveo4) | 2:58 | 2022-11-07 | 2022-11-15 |
 | [CooCool](https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [CooCool](https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F) | 4:31 | 2023-03-14 | 2023-03-21 |
+| [Cool, Boy](https://open.spotify.com/track/1qzSriNzypG0Y1VJmQji4I) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Cool, Boy](https://open.spotify.com/album/2NbCNPhcg1cLBGsmyqrzZq) | 2:47 | 2026-01-25 |  |
 | [Coolest Coward](https://open.spotify.com/track/0WiclOyyuYPOfxXPGI1SD7) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [It's okay, U're only 17](https://open.spotify.com/album/0Jqc47mm8odLr6bzsFbDtu) | 2:55 | 2024-10-14 | 2024-10-29 |
 | [Count on Me](https://open.spotify.com/track/3B5UbSndRz907IZhhmUfLi) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:17 | 2024-04-08 |  |
 | [Count on Me](https://open.spotify.com/track/7l1qvxWjxcKpB9PCtBuTbU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:17 | 2022-07-25 | 2024-04-19 |
@@ -322,7 +323,7 @@
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-10-12 |  |
 | [so fire](https://open.spotify.com/track/48laemm4yRLl6OAAUoAPiJ) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [so fire](https://open.spotify.com/album/3fSD8ylQNPfUx1fGEAZLb8) | 2:35 | 2023-05-15 | 2023-05-23 |
 | [so good](https://open.spotify.com/track/5viDyBHBnJHCF1XTcROFkF) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [so good](https://open.spotify.com/album/37KP5nrRhwvBAD8QDqMYWe) | 2:31 | 2022-06-06 | 2022-07-29 |
-| [So Many Days](https://open.spotify.com/track/3thr1gl0sDyirwmjHU8vuO) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [Stay Awake](https://open.spotify.com/album/2N8xjA84dmuw4NZz6BADbB) | 4:20 | 2026-01-18 |  |
+| [So Many Days](https://open.spotify.com/track/3thr1gl0sDyirwmjHU8vuO) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [Stay Awake](https://open.spotify.com/album/2N8xjA84dmuw4NZz6BADbB) | 4:20 | 2026-01-18 | 2026-01-26 |
 | [Sober](https://open.spotify.com/track/7gEVqV2uGyP34Mklu7jYr5) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Sober](https://open.spotify.com/album/3Uk1j4TxLk0ylBR4k8icmp) | 3:45 | 2023-01-23 | 2023-02-01 |
 | [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 | 2023-04-03 | 2023-07-18 |
 | [some days](https://open.spotify.com/track/5JIkh281D7WEwWZNmIC5aW) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [some days](https://open.spotify.com/album/1UbgSoMftakwqLl0jJC5K0) | 3:17 | 2025-09-14 | 2025-10-13 |

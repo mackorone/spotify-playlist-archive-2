@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with EsDeeKid, Lil Uzi Vert, A$AP Rocky, 21 Savage, French Montana and Tkandz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 806,837 likes - 51 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 806,788 likes - 51 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

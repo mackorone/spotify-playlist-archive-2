@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65M5cZ23zHB.md) - [plain]
 
 > A collection of timeless queer love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,223 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,232 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65M5cZ23zHB.md) - [plain]
 | 44 | [Power of Love](https://open.spotify.com/track/1KI50zrJFiJ8GgJMmi4EI8) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Call Me](https://open.spotify.com/album/4KKh9HkIgvLZWaMpsF200Y) | 5:25 |
 | 45 | [John & Joe](https://open.spotify.com/track/4WAC6mosPEmNANxBATKDdC) | [Paxton](https://open.spotify.com/artist/20s9zlqU2bhwkhfUQsKSik) | [Paxton](https://open.spotify.com/album/7aToO8WdlovzS8oAlLHqxy) | 4:46 |
 | 46 | [I Love You Madly](https://open.spotify.com/track/72HNKYCAqZMJ6ghiPbl9ss) | [Charlie & Ray](https://open.spotify.com/artist/3GVXGMy3vsCClPJQs6r3bS) | [I Love You Madly](https://open.spotify.com/album/1FRtpKS6cNTCf0tVPrxIMx) | 1:59 |
-| 47 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/3vCHmbyOgc6pgwLUWfU4pF) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(2011 Remaster\)](https://open.spotify.com/album/0QRlYlrBuP7eGpEMZvZiaQ) | 4:56 |
-| 48 | [A Little Respect](https://open.spotify.com/track/4zCBOd2TO8rW1zRvfFxLOh) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [Singles: EBX2](https://open.spotify.com/album/2BWgBA3j2V3P57FLB1p29V) | 3:27 |
+| 47 | [A Little Respect](https://open.spotify.com/track/4zCBOd2TO8rW1zRvfFxLOh) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [Singles: EBX2](https://open.spotify.com/album/2BWgBA3j2V3P57FLB1p29V) | 3:27 |
+| 48 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/3vCHmbyOgc6pgwLUWfU4pF) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(2011 Remaster\)](https://open.spotify.com/album/0QRlYlrBuP7eGpEMZvZiaQ) | 4:56 |
 | 49 | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/track/3j1fs2X0ibiihnM4Fd4A2D) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Step II](https://open.spotify.com/album/0yltJZ7nTGw97P0Fm7VhX8) | 6:35 |
 | 50 | [Rainbow](https://open.spotify.com/track/5mGChT2miDApqXTNlejoZY) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Rainbow](https://open.spotify.com/album/1LYeiB1jH9liog9Ji1vL49) | 3:51 |
 

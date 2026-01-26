@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Budd. The essential tracks, all in one playlist.",
-  "num_followers": 5784,
+  "num_followers": 5786,
   "original_name": "This Is Harold Budd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXK6AAAAAADq+MepsU0Uks/tVsPPgYjM",
+  "snapshot_id": "aXQLgAAAAAB1O8kYKeUL01VryFN66nRt",
   "tracks": [
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 195186,
-      "name": "Sunlit Silhouette",
-      "url": "https://open.spotify.com/track/4QkV3lZCbf9SoQXbYjefMR"
+      "duration_ms": 434733,
+      "name": "A Delicate Romance",
+      "url": "https://open.spotify.com/track/481dttcKW8GzhMJ56EDdyP"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 360333,
-      "name": "Nove Alberi",
-      "url": "https://open.spotify.com/track/4J71YFDSr1yyrKKSyKSunw"
+      "duration_ms": 284426,
+      "name": "The White Arcades",
+      "url": "https://open.spotify.com/track/6SaAlS4GrkIlYl5YeRilEA"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 434733,
-      "name": "A Delicate Romance",
-      "url": "https://open.spotify.com/track/481dttcKW8GzhMJ56EDdyP"
+      "duration_ms": 195186,
+      "name": "Sunlit Silhouette",
+      "url": "https://open.spotify.com/track/4QkV3lZCbf9SoQXbYjefMR"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 284426,
-      "name": "The White Arcades",
-      "url": "https://open.spotify.com/track/6SaAlS4GrkIlYl5YeRilEA"
+      "duration_ms": 360333,
+      "name": "Nove Alberi",
+      "url": "https://open.spotify.com/track/4J71YFDSr1yyrKKSyKSunw"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bordeaux",
-        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 231480,
-      "name": "Deva C",
-      "url": "https://open.spotify.com/track/7EOEdgx7Gv98yNCIGlpVKq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jane 12-21",
         "url": "https://open.spotify.com/album/6RIxSz62ARCq1iXXqMRtTT"
       },
@@ -803,18 +783,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jane 1-11",
-        "url": "https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft"
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
       },
       "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
         {
           "name": "Harold Budd",
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 296800,
-      "name": "Jane 2",
-      "url": "https://open.spotify.com/track/5ninNGGy8iR9tv3USENLKb"
+      "duration_ms": 231480,
+      "name": "Deva C",
+      "url": "https://open.spotify.com/track/7EOEdgx7Gv98yNCIGlpVKq"
     },
     {
       "added_at": null,
@@ -839,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Avalon Sutra (2013 Remaster)",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 180760,
+      "name": "Arabesque 2 - 2013 Remaster",
+      "url": "https://open.spotify.com/track/47mi8afxLPHP0SzRgYhZQr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Pavilion Of Dreams",
         "url": "https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN"
       },
@@ -855,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avalon Sutra (2013 Remaster)",
-        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
+        "name": "Jane 1-11",
+        "url": "https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 180760,
-      "name": "Arabesque 2 - 2013 Remaster",
-      "url": "https://open.spotify.com/track/47mi8afxLPHP0SzRgYhZQr"
+      "duration_ms": 296800,
+      "name": "Jane 2",
+      "url": "https://open.spotify.com/track/5ninNGGy8iR9tv3USENLKb"
     },
     {
       "added_at": null,
@@ -944,9 +944,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 323733,
-      "name": "Rue Casimir Delavigne (For Daniel Lentz) - 2013 Remaster",
-      "url": "https://open.spotify.com/track/2VviNEVTRzsA8La6QA0ryg"
+      "duration_ms": 133386,
+      "name": "L'enfant Perdu - 2013 Remaster",
+      "url": "https://open.spotify.com/track/28D8V8CbAC4hXYRTU2ljeW"
     }
   ],
   "unique_name": "This Is Harold Budd",

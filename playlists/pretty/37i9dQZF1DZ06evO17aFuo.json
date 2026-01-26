@@ -1,12 +1,12 @@
 {
   "description": "This is Megadeth. The essential tracks, all in one playlist.",
-  "num_followers": 315085,
+  "num_followers": 315159,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXK6AAAAAAB5BKqjJWBxM+TRNMBzRniD",
+  "snapshot_id": "aXQLgAAAAAB4eOR0DtPcMxhKMfvm4zh7",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
       "duration_ms": 241906,
       "name": "Symphony Of Destruction - Remastered 2012",
       "url": "https://open.spotify.com/track/5mR858YsHYG761aUqZoGkD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Megadeth",
+        "url": "https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 208510,
+      "name": "Hey God?!",
+      "url": "https://open.spotify.com/track/2vwrGgIy5cUeU375P6w8aL"
     },
     {
       "added_at": null,
@@ -116,9 +132,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 208510,
-      "name": "Hey God?!",
-      "url": "https://open.spotify.com/track/2vwrGgIy5cUeU375P6w8aL"
+      "duration_ms": 241312,
+      "name": "Made To Kill",
+      "url": "https://open.spotify.com/track/3Fe8aHkMgdG4fjoo1Oa3XF"
     },
     {
       "added_at": null,
@@ -139,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tipping Point",
-        "url": "https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa"
+        "name": "Peace Sells...But Who's Buying (Deluxe Edition - Remastered)",
+        "url": "https://open.spotify.com/album/4PqSk2iBHnsYQK0ecXjS9k"
       },
       "artists": [
         {
@@ -148,9 +164,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 268828,
-      "name": "Tipping Point",
-      "url": "https://open.spotify.com/track/6jhxeGvYuGY6KHHmUDj8Sv"
+      "duration_ms": 244160,
+      "name": "Peace Sells - Remastered",
+      "url": "https://open.spotify.com/track/5a2hIQWInPjqkkFiUEgxoX"
     },
     {
       "added_at": null,
@@ -180,15 +196,15 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 241312,
-      "name": "Made To Kill",
-      "url": "https://open.spotify.com/track/3Fe8aHkMgdG4fjoo1Oa3XF"
+      "duration_ms": 217413,
+      "name": "Another Bad Day",
+      "url": "https://open.spotify.com/track/7vuvPHgxMbc72D67uZ2wfv"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Peace Sells...But Who's Buying (Deluxe Edition - Remastered)",
-        "url": "https://open.spotify.com/album/4PqSk2iBHnsYQK0ecXjS9k"
+        "name": "Tipping Point",
+        "url": "https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa"
       },
       "artists": [
         {
@@ -196,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 244160,
-      "name": "Peace Sells - Remastered",
-      "url": "https://open.spotify.com/track/5a2hIQWInPjqkkFiUEgxoX"
+      "duration_ms": 268828,
+      "name": "Tipping Point",
+      "url": "https://open.spotify.com/track/6jhxeGvYuGY6KHHmUDj8Sv"
     },
     {
       "added_at": null,
@@ -244,25 +260,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 217413,
-      "name": "Another Bad Day",
-      "url": "https://open.spotify.com/track/7vuvPHgxMbc72D67uZ2wfv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Don't Care",
-        "url": "https://open.spotify.com/album/37paWn9y19J9WzdB3tZ0mz"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 189915,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/75lwu2RtEifLzaSLkbFcNe"
+      "duration_ms": 260173,
+      "name": "Obey The Call",
+      "url": "https://open.spotify.com/track/5fUkdHb8nfDajvDJIG7Oxd"
     },
     {
       "added_at": null,
@@ -279,6 +279,22 @@
       "duration_ms": 311533,
       "name": "Trust - Remastered 2004 / Remixed",
       "url": "https://open.spotify.com/track/5emb8RDOZtpXlw6D0eEQbz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/37paWn9y19J9WzdB3tZ0mz"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 189915,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/75lwu2RtEifLzaSLkbFcNe"
     },
     {
       "added_at": null,
@@ -308,25 +324,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 260173,
-      "name": "Obey The Call",
-      "url": "https://open.spotify.com/track/5fUkdHb8nfDajvDJIG7Oxd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The World Needs a Hero",
-        "url": "https://open.spotify.com/album/1BbQ01oDFvVK4aHdgvsBB9"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 265133,
-      "name": "Dread and the Fugitive Mind",
-      "url": "https://open.spotify.com/track/5ThljNlaUX5zNgNWBmanmG"
+      "duration_ms": 226345,
+      "name": "I Am War",
+      "url": "https://open.spotify.com/track/78VOb8LNH1pMs0vEXrCzfS"
     },
     {
       "added_at": null,
@@ -343,6 +343,22 @@
       "duration_ms": 217800,
       "name": "She-Wolf - Remastered 2004 / Remixed",
       "url": "https://open.spotify.com/track/5MhNgheI9IjDxQS5XQ3Ojo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The World Needs a Hero",
+        "url": "https://open.spotify.com/album/1BbQ01oDFvVK4aHdgvsBB9"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 265133,
+      "name": "Dread and the Fugitive Mind",
+      "url": "https://open.spotify.com/track/5ThljNlaUX5zNgNWBmanmG"
     },
     {
       "added_at": null,
@@ -372,25 +388,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 226345,
-      "name": "I Am War",
-      "url": "https://open.spotify.com/track/78VOb8LNH1pMs0vEXrCzfS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The World Needs a Hero",
-        "url": "https://open.spotify.com/album/1BbQ01oDFvVK4aHdgvsBB9"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/196rNjJkKTjsk2NTEtJKLq"
+      "duration_ms": 330787,
+      "name": "The Last Note",
+      "url": "https://open.spotify.com/track/489IDdoKZIipgQPawHfqub"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The World Needs a Hero",
+        "url": "https://open.spotify.com/album/1BbQ01oDFvVK4aHdgvsBB9"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 268706,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/196rNjJkKTjsk2NTEtJKLq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Countdown To Extinction (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 259226,
       "name": "Countdown To Extinction",
       "url": "https://open.spotify.com/track/1Mt6BsusgJJln2FMyGFLg1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Megadeth",
-        "url": "https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 330787,
-      "name": "The Last Note",
-      "url": "https://open.spotify.com/track/489IDdoKZIipgQPawHfqub"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Sick, The Dying\u2026 And The Dead!",
+        "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 304053,
+      "name": "The Sick, The Dying\u2026 And The Dead!",
+      "url": "https://open.spotify.com/track/6RzK7XvwxnRq6AKDklJS6L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Countdown To Extinction (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
@@ -491,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sick, The Dying\u2026 And The Dead!",
-        "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
       },
       "artists": [
         {
@@ -500,9 +516,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 304053,
-      "name": "The Sick, The Dying\u2026 And The Dead!",
-      "url": "https://open.spotify.com/track/6RzK7XvwxnRq6AKDklJS6L"
+      "duration_ms": 214013,
+      "name": "Lying In State",
+      "url": "https://open.spotify.com/track/6gQ0syotEbHeDIYTC4EoSf"
     },
     {
       "added_at": null,
@@ -539,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 262026,
-      "name": "The Threat Is Real",
-      "url": "https://open.spotify.com/track/5qrlMOwqunICbaOZaKAoBN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Youthanasia (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 211226,
       "name": "Train Of Consequences - Remastered 2004",
       "url": "https://open.spotify.com/track/03Yv8adIIOsRACDHLUYS9l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 262026,
+      "name": "The Threat Is Real",
+      "url": "https://open.spotify.com/track/5qrlMOwqunICbaOZaKAoBN"
     },
     {
       "added_at": null,
@@ -603,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Lying In State",
-      "url": "https://open.spotify.com/track/6gQ0syotEbHeDIYTC4EoSf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sick, The Dying\u2026 And The Dead!",
         "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warchest",
-        "url": "https://open.spotify.com/album/0hjcoB3dyY4BNonhEqdoRq"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 224080,
-      "name": "Kill The King",
-      "url": "https://open.spotify.com/track/3S9DHHYpM6KW1oqvrN8Lix"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Killing Is My Business...And Business Is Good!",
         "url": "https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 187573,
       "name": "Killing Is My Business...And Business Is Good!",
       "url": "https://open.spotify.com/track/7ouSZGlGdhFjgbQpB7TZ1m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Warchest",
+        "url": "https://open.spotify.com/album/0hjcoB3dyY4BNonhEqdoRq"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 224080,
+      "name": "Kill The King",
+      "url": "https://open.spotify.com/track/3S9DHHYpM6KW1oqvrN8Lix"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 110533,
-      "name": "Dawn Patrol",
-      "url": "https://open.spotify.com/track/4b2GAM5mE3K0btATdsi0UO"
+      "duration_ms": 336760,
+      "name": "Rust In Peace...Polaris",
+      "url": "https://open.spotify.com/track/1A9bOtUg91RLO9nGzXF8ao"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rust In Peace (2004 Remix / Expanded Edition)",
-        "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
+        "name": "Cryptic Writings (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 344066,
-      "name": "Rust In Peace...Polaris - 2004 Remix",
-      "url": "https://open.spotify.com/track/0803SWqmIJGvZ15B8zsewn"
+      "duration_ms": 248560,
+      "name": "Almost Honest - Remastered 2004 / Remixed",
+      "url": "https://open.spotify.com/track/2uw3kbepHeeeLTykdUeOtI"
     },
     {
       "added_at": null,

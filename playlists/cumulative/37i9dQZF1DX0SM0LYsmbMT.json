@@ -42881,6 +42881,24 @@
     },
     {
       "album": {
+        "name": "Libertalia",
+        "url": "https://open.spotify.com/album/0edAXZZWd9MVeBBRpQ7A4N"
+      },
+      "artists": [
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "Libertalia",
+      "url": "https://open.spotify.com/track/6BFdQJ1QnjoNpIOmSCkRSk"
+    },
+    {
+      "album": {
         "name": "Libra",
         "url": "https://open.spotify.com/album/11kO2FpIvQtGXuxxhTQSfb"
       },
@@ -68326,7 +68344,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 120000,
       "name": "Showtime",
       "url": "https://open.spotify.com/track/5u95NsXeEC3yt1O2BbdFJ9"

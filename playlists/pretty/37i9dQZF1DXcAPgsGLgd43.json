@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 107595,
+  "num_followers": 107651,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1071,26 +1071,22 @@
     {
       "added_at": "2026-01-23 05:00:23",
       "album": {
-        "name": "una noche con hugel",
-        "url": "https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT"
+        "name": "Olvidarte (feat. Emilia)",
+        "url": "https://open.spotify.com/album/6uanfipX4dnLaQ0PIvaj5K"
       },
       "artists": [
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
         },
         {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 191475,
-      "name": "una noche con hugel",
-      "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"
+      "duration_ms": 157500,
+      "name": "Olvidarte (feat. Emilia)",
+      "url": "https://open.spotify.com/track/7yif9yIhSCxhcPExFOktCp"
     },
     {
       "added_at": "2026-01-23 05:00:23",
@@ -1127,22 +1123,26 @@
     {
       "added_at": "2026-01-23 05:00:23",
       "album": {
-        "name": "Olvidarte (feat. Emilia)",
-        "url": "https://open.spotify.com/album/6uanfipX4dnLaQ0PIvaj5K"
+        "name": "una noche con hugel",
+        "url": "https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT"
       },
       "artists": [
         {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Olvidarte (feat. Emilia)",
-      "url": "https://open.spotify.com/track/7yif9yIhSCxhcPExFOktCp"
+      "duration_ms": 191475,
+      "name": "una noche con hugel",
+      "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"
     },
     {
       "added_at": "2026-01-23 05:00:23",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-01-23 05:00:23",
       "album": {
-        "name": "Una Velita",
-        "url": "https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "Una Velita",
-      "url": "https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT"
-    },
-    {
-      "added_at": "2026-01-23 05:00:23",
-      "album": {
         "name": "La Musa (with Miluhska)",
         "url": "https://open.spotify.com/album/0rOYlzsSZ13P4SToVCMgZt"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 183830,
       "name": "La Musa (with Miluhska)",
       "url": "https://open.spotify.com/track/5IGqDVkK8bDHuQqsYvUvMt"
+    },
+    {
+      "added_at": "2026-01-23 05:00:23",
+      "album": {
+        "name": "Una Velita",
+        "url": "https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Una Velita",
+      "url": "https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT"
     },
     {
       "added_at": "2026-01-23 05:00:23",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2026-01-23 05:00:23",
       "album": {
+        "name": "Sensual Disguise EP",
+        "url": "https://open.spotify.com/album/5a4tu8Yr8PQDN9fOooSBmA"
+      },
+      "artists": [
+        {
+          "name": "Blackchild (ITA)",
+          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+        }
+      ],
+      "duration_ms": 190656,
+      "name": "Te Conoci",
+      "url": "https://open.spotify.com/track/15YgNVANAkLbiNligewd1R"
+    },
+    {
+      "added_at": "2026-01-23 05:00:23",
+      "album": {
         "name": "Cuando Te Veo",
         "url": "https://open.spotify.com/album/5v4xJxxhOVXof3Qtk8Vh0e"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 223731,
       "name": "Cuando Te Veo",
       "url": "https://open.spotify.com/track/1Pv8HWSBMiKmeRWnq1ZzeH"
-    },
-    {
-      "added_at": "2026-01-23 05:00:23",
-      "album": {
-        "name": "Sensual Disguise EP",
-        "url": "https://open.spotify.com/album/5a4tu8Yr8PQDN9fOooSBmA"
-      },
-      "artists": [
-        {
-          "name": "Blackchild (ITA)",
-          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
-        }
-      ],
-      "duration_ms": 190656,
-      "name": "Te Conoci",
-      "url": "https://open.spotify.com/track/15YgNVANAkLbiNligewd1R"
     },
     {
       "added_at": "2026-01-23 05:00:23",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2026-01-23 05:00:23",
       "album": {
-        "name": "Pegao",
-        "url": "https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 218813,
-      "name": "Pegao",
-      "url": "https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02"
-    },
-    {
-      "added_at": "2026-01-23 05:00:23",
-      "album": {
         "name": "Reflection",
         "url": "https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh"
       },
@@ -1691,6 +1671,26 @@
       "duration_ms": 170953,
       "name": "Lo Que Soy",
       "url": "https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ"
+    },
+    {
+      "added_at": "2026-01-23 05:00:23",
+      "album": {
+        "name": "Pegao",
+        "url": "https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 218813,
+      "name": "Pegao",
+      "url": "https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02"
     },
     {
       "added_at": "2026-01-23 05:00:23",
@@ -1907,30 +1907,6 @@
     {
       "added_at": "2026-01-23 05:00:23",
       "album": {
-        "name": "Coco Loco",
-        "url": "https://open.spotify.com/album/7eBEzXHye7PEHwVQcpYRis"
-      },
-      "artists": [
-        {
-          "name": "Eran Hersh",
-          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
-        },
-        {
-          "name": "Tekkman",
-          "url": "https://open.spotify.com/artist/4amut0vklLIj9lY81yEHtj"
-        },
-        {
-          "name": "Juany Bravo",
-          "url": "https://open.spotify.com/artist/7FWTTxJZ35ZNqhFCLOE3zm"
-        }
-      ],
-      "duration_ms": 156768,
-      "name": "Coco Loco",
-      "url": "https://open.spotify.com/track/32lsePQmdOSRrbeUlcqQm0"
-    },
-    {
-      "added_at": "2026-01-23 05:00:23",
-      "album": {
         "name": "Piquete Cabron",
         "url": "https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq"
       },
@@ -1967,6 +1943,30 @@
       "duration_ms": 142258,
       "name": "Marrakesh",
       "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
+    },
+    {
+      "added_at": "2026-01-23 05:00:23",
+      "album": {
+        "name": "Coco Loco",
+        "url": "https://open.spotify.com/album/7eBEzXHye7PEHwVQcpYRis"
+      },
+      "artists": [
+        {
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+        },
+        {
+          "name": "Tekkman",
+          "url": "https://open.spotify.com/artist/4amut0vklLIj9lY81yEHtj"
+        },
+        {
+          "name": "Juany Bravo",
+          "url": "https://open.spotify.com/artist/7FWTTxJZ35ZNqhFCLOE3zm"
+        }
+      ],
+      "duration_ms": 156768,
+      "name": "Coco Loco",
+      "url": "https://open.spotify.com/track/32lsePQmdOSRrbeUlcqQm0"
     },
     {
       "added_at": "2026-01-23 05:00:23",

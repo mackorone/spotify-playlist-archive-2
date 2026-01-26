@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Zo\u00e9",
-  "num_followers": 296505,
+  "num_followers": 296469,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-01-16 05:27:49",
       "album": {
-        "name": "Nuestro A\u00f1o",
-        "url": "https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 171945,
-      "name": "\u00bfQu\u00e9 Hora Es All\u00e1?",
-      "url": "https://open.spotify.com/track/2tQeoo0c6jTGqRIgzEFyqh"
-    },
-    {
-      "added_at": "2026-01-16 05:27:49",
-      "album": {
         "name": "Vidas Felices",
         "url": "https://open.spotify.com/album/4SUAXW008wgv6Rgk4kaet7"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 234933,
       "name": "Vidas Felices",
       "url": "https://open.spotify.com/track/0f8GPONRZHrP6mOrxswCfW"
+    },
+    {
+      "added_at": "2026-01-16 05:27:49",
+      "album": {
+        "name": "Nuestro A\u00f1o",
+        "url": "https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 171945,
+      "name": "\u00bfQu\u00e9 Hora Es All\u00e1?",
+      "url": "https://open.spotify.com/track/2tQeoo0c6jTGqRIgzEFyqh"
     },
     {
       "added_at": "2026-01-16 05:27:49",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-01-16 05:27:49",
       "album": {
-        "name": "Por Si Ma\u00f1ana No Estoy",
-        "url": "https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 154509,
-      "name": "Por Si Ma\u00f1ana No Estoy",
-      "url": "https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q"
-    },
-    {
-      "added_at": "2026-01-16 05:27:49",
-      "album": {
         "name": "She\u2019s So Cool (with Pale Waves)",
         "url": "https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 146250,
       "name": "She\u2019s So Cool (with Pale Waves)",
       "url": "https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60"
+    },
+    {
+      "added_at": "2026-01-16 05:27:49",
+      "album": {
+        "name": "Por Si Ma\u00f1ana No Estoy",
+        "url": "https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 154509,
+      "name": "Por Si Ma\u00f1ana No Estoy",
+      "url": "https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q"
     },
     {
       "added_at": "2026-01-16 05:27:49",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-01-16 05:27:49",
       "album": {
-        "name": "Historia de Amor",
-        "url": "https://open.spotify.com/album/4OGa3bFsQKnnbrPhHCa3lr"
-      },
-      "artists": [
-        {
-          "name": "Franno",
-          "url": "https://open.spotify.com/artist/7fa9Sn6fQo3OztdDjOMQBW"
-        }
-      ],
-      "duration_ms": 214990,
-      "name": "Vuelve con \u00c9l",
-      "url": "https://open.spotify.com/track/6J0EiR87CyBeAUnHH05yKn"
-    },
-    {
-      "added_at": "2026-01-16 05:27:49",
-      "album": {
         "name": "Qu\u00e9date un Momento",
         "url": "https://open.spotify.com/album/5kbmefnSNwoRa6H8fGe4C1"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 183441,
       "name": "Qu\u00e9date un Momento",
       "url": "https://open.spotify.com/track/4wP3CULcMp6YIWJnEw4SVA"
+    },
+    {
+      "added_at": "2026-01-16 05:27:49",
+      "album": {
+        "name": "Historia de Amor",
+        "url": "https://open.spotify.com/album/4OGa3bFsQKnnbrPhHCa3lr"
+      },
+      "artists": [
+        {
+          "name": "Franno",
+          "url": "https://open.spotify.com/artist/7fa9Sn6fQo3OztdDjOMQBW"
+        }
+      ],
+      "duration_ms": 214990,
+      "name": "Vuelve con \u00c9l",
+      "url": "https://open.spotify.com/track/6J0EiR87CyBeAUnHH05yKn"
     },
     {
       "added_at": "2026-01-16 05:27:49",

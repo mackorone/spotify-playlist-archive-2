@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists. <a href=\"spotify:artist:2gSV6FsMxBBH01LLNgx6HU\">Babau</a> on cover. Artwork by Thami Nabil, photo by Stefania Zanetti",
-  "num_followers": 192190,
+  "num_followers": 192187,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,26 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
+        "name": "Purity",
+        "url": "https://open.spotify.com/album/0yD5XUsXIt11XZhTJH8xgG"
+      },
+      "artists": [
+        {
+          "name": "Anysia Kym",
+          "url": "https://open.spotify.com/artist/03546gvcoicKs6C10YdXvk"
+        },
+        {
+          "name": "Tony Seltzer",
+          "url": "https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl"
+        }
+      ],
+      "duration_ms": 82547,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/3B8ozK6655EMpVkiHtGMns"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
         "name": "Another Version of You",
         "url": "https://open.spotify.com/album/0Ksc08PxB1ev3DwvUKI8TX"
       },
@@ -327,38 +347,6 @@
       "duration_ms": 133980,
       "name": "Another Version of You",
       "url": "https://open.spotify.com/track/2wj12tINYjAXHMzTX8yQ28"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
-        "name": "My Goddess",
-        "url": "https://open.spotify.com/album/2mssMFJJ4A9RFsdf50TF0X"
-      },
-      "artists": [
-        {
-          "name": "Etyen",
-          "url": "https://open.spotify.com/artist/1QpBNgqTcCpBJvm4hecQPk"
-        }
-      ],
-      "duration_ms": 250209,
-      "name": "My Goddess",
-      "url": "https://open.spotify.com/track/2eodSefe9eTElhTNuFGyKy"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
-      },
-      "artists": [
-        {
-          "name": "Marta Del Grandi",
-          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
-        }
-      ],
-      "duration_ms": 192283,
-      "name": "Snapdragon",
-      "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -379,22 +367,34 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Purity",
-        "url": "https://open.spotify.com/album/0yD5XUsXIt11XZhTJH8xgG"
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
       },
       "artists": [
         {
-          "name": "Anysia Kym",
-          "url": "https://open.spotify.com/artist/03546gvcoicKs6C10YdXvk"
-        },
-        {
-          "name": "Tony Seltzer",
-          "url": "https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl"
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
         }
       ],
-      "duration_ms": 82547,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/3B8ozK6655EMpVkiHtGMns"
+      "duration_ms": 192283,
+      "name": "Snapdragon",
+      "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "My Goddess",
+        "url": "https://open.spotify.com/album/2mssMFJJ4A9RFsdf50TF0X"
+      },
+      "artists": [
+        {
+          "name": "Etyen",
+          "url": "https://open.spotify.com/artist/1QpBNgqTcCpBJvm4hecQPk"
+        }
+      ],
+      "duration_ms": 250209,
+      "name": "My Goddess",
+      "url": "https://open.spotify.com/track/2eodSefe9eTElhTNuFGyKy"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Belly Up",
-        "url": "https://open.spotify.com/album/0ONmkhgJogbSp5Y76aNIfa"
-      },
-      "artists": [
-        {
-          "name": "Moin",
-          "url": "https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e"
-        }
-      ],
-      "duration_ms": 174959,
-      "name": "You Leave Me Breathless",
-      "url": "https://open.spotify.com/track/27L3epE6bPso0M1B3BTeZj"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "SHE",
         "url": "https://open.spotify.com/album/04E1DZvgKUNoY7jkV4d3Ne"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 240407,
       "name": "SHE",
       "url": "https://open.spotify.com/track/5qnRuL9oYnrVz5bgjJ5Ytm"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Belly Up",
+        "url": "https://open.spotify.com/album/0ONmkhgJogbSp5Y76aNIfa"
+      },
+      "artists": [
+        {
+          "name": "Moin",
+          "url": "https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e"
+        }
+      ],
+      "duration_ms": 174959,
+      "name": "You Leave Me Breathless",
+      "url": "https://open.spotify.com/track/27L3epE6bPso0M1B3BTeZj"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "HM2BB",
-        "url": "https://open.spotify.com/album/4chfyR1rKNlVBKMxt6l8IN"
-      },
-      "artists": [
-        {
-          "name": "Indira Elias",
-          "url": "https://open.spotify.com/artist/6ILJ4BFUKsb3ocmlBrDMcZ"
-        }
-      ],
-      "duration_ms": 133848,
-      "name": "HM2BB",
-      "url": "https://open.spotify.com/track/6k0UIowj3aOOJq7yHwYBL9"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
         "url": "https://open.spotify.com/album/6m01hmvzFV2dr8tZepEaD0"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 238652,
       "name": "Cosplayer (export per Guido)",
       "url": "https://open.spotify.com/track/0C0VnUtQ9OMDyp9pt1bZf3"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "HM2BB",
+        "url": "https://open.spotify.com/album/4chfyR1rKNlVBKMxt6l8IN"
+      },
+      "artists": [
+        {
+          "name": "Indira Elias",
+          "url": "https://open.spotify.com/artist/6ILJ4BFUKsb3ocmlBrDMcZ"
+        }
+      ],
+      "duration_ms": 133848,
+      "name": "HM2BB",
+      "url": "https://open.spotify.com/track/6k0UIowj3aOOJq7yHwYBL9"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Summer Rain (Keep on Dancing Rework)",
-        "url": "https://open.spotify.com/album/4LriIWQ4kyswqYNH54IPyW"
-      },
-      "artists": [
-        {
-          "name": "Le Parody",
-          "url": "https://open.spotify.com/artist/7ls2WeFdaXVNgCq5zWKDjF"
-        }
-      ],
-      "duration_ms": 271701,
-      "name": "Summer Rain - Keep on Dancing Rework",
-      "url": "https://open.spotify.com/track/6RlCY03rdTbNWon5HNCBkq"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "In Space",
         "url": "https://open.spotify.com/album/32Akdj56jKKGz6bHsGGjZl"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 651303,
       "name": "In Space",
       "url": "https://open.spotify.com/track/159PzHyX3tZQ5p3GWcKnZJ"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Summer Rain (Keep on Dancing Rework)",
+        "url": "https://open.spotify.com/album/4LriIWQ4kyswqYNH54IPyW"
+      },
+      "artists": [
+        {
+          "name": "Le Parody",
+          "url": "https://open.spotify.com/artist/7ls2WeFdaXVNgCq5zWKDjF"
+        }
+      ],
+      "duration_ms": 271701,
+      "name": "Summer Rain - Keep on Dancing Rework",
+      "url": "https://open.spotify.com/track/6RlCY03rdTbNWon5HNCBkq"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Too Close to Call",
-        "url": "https://open.spotify.com/album/4GRuolM8ty3ahWoKE56Z0b"
-      },
-      "artists": [
-        {
-          "name": "Tom Kinsella",
-          "url": "https://open.spotify.com/artist/3zmBYWcupp9ux1zvBDub8K"
-        }
-      ],
-      "duration_ms": 278630,
-      "name": "Too Close to Call",
-      "url": "https://open.spotify.com/track/0n6icrUXzDFyrNJFPGjX0w"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Hand To Mouth",
         "url": "https://open.spotify.com/album/3wGORzE4SH5K6toBJhzGnX"
       },
@@ -1187,6 +1171,66 @@
       "duration_ms": 218962,
       "name": "Consider This",
       "url": "https://open.spotify.com/track/7ibTbfuTYaIUbcGAJlpyzB"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Too Close to Call",
+        "url": "https://open.spotify.com/album/4GRuolM8ty3ahWoKE56Z0b"
+      },
+      "artists": [
+        {
+          "name": "Tom Kinsella",
+          "url": "https://open.spotify.com/artist/3zmBYWcupp9ux1zvBDub8K"
+        }
+      ],
+      "duration_ms": 278630,
+      "name": "Too Close to Call",
+      "url": "https://open.spotify.com/track/0n6icrUXzDFyrNJFPGjX0w"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "BLKHISTORY",
+        "url": "https://open.spotify.com/album/3eR1jIxNYSwmN85ut0yjYO"
+      },
+      "artists": [
+        {
+          "name": "Swami Sound",
+          "url": "https://open.spotify.com/artist/67lCxLQeby3EZcCpig3rII"
+        },
+        {
+          "name": "gum.mp3",
+          "url": "https://open.spotify.com/artist/3ENnUCpAIcPmffEj736hNa"
+        },
+        {
+          "name": "kamaal",
+          "url": "https://open.spotify.com/artist/7p1dP0ZcGOH8IzsXV3V5o1"
+        }
+      ],
+      "duration_ms": 185992,
+      "name": "BLKHISTORY",
+      "url": "https://open.spotify.com/track/3XU7Lxuep5g6VBrmtXmjTD"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Thinking about you",
+        "url": "https://open.spotify.com/album/72gqbn4daD7B6rCmT3U6mG"
+      },
+      "artists": [
+        {
+          "name": "EXUM",
+          "url": "https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0"
+        },
+        {
+          "name": "Maxi",
+          "url": "https://open.spotify.com/artist/2MWn1cRYRIhMXTe6U2LPQC"
+        }
+      ],
+      "duration_ms": 196340,
+      "name": "Thinking about you",
+      "url": "https://open.spotify.com/track/1I0uK1t1GX7a8H8zbqKRma"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1219,50 +1263,6 @@
       "duration_ms": 262945,
       "name": "F\u00fcr Therese",
       "url": "https://open.spotify.com/track/6QKc9mKUnRwpqrbkZHzc18"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
-        "name": "Thinking about you",
-        "url": "https://open.spotify.com/album/72gqbn4daD7B6rCmT3U6mG"
-      },
-      "artists": [
-        {
-          "name": "EXUM",
-          "url": "https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0"
-        },
-        {
-          "name": "Maxi",
-          "url": "https://open.spotify.com/artist/2MWn1cRYRIhMXTe6U2LPQC"
-        }
-      ],
-      "duration_ms": 196340,
-      "name": "Thinking about you",
-      "url": "https://open.spotify.com/track/1I0uK1t1GX7a8H8zbqKRma"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
-        "name": "BLKHISTORY",
-        "url": "https://open.spotify.com/album/3eR1jIxNYSwmN85ut0yjYO"
-      },
-      "artists": [
-        {
-          "name": "Swami Sound",
-          "url": "https://open.spotify.com/artist/67lCxLQeby3EZcCpig3rII"
-        },
-        {
-          "name": "gum.mp3",
-          "url": "https://open.spotify.com/artist/3ENnUCpAIcPmffEj736hNa"
-        },
-        {
-          "name": "kamaal",
-          "url": "https://open.spotify.com/artist/7p1dP0ZcGOH8IzsXV3V5o1"
-        }
-      ],
-      "duration_ms": 185992,
-      "name": "BLKHISTORY",
-      "url": "https://open.spotify.com/track/3XU7Lxuep5g6VBrmtXmjTD"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Neptune Anteater",
-        "url": "https://open.spotify.com/album/4N23iLAHXRJ0uq4NL84kfU"
+        "name": "Hold the Edges",
+        "url": "https://open.spotify.com/album/6DLJ126k5YfhEzHp3uLM3c"
       },
       "artists": [
         {
-          "name": "The Dwarfs of East Agouza",
-          "url": "https://open.spotify.com/artist/4hOby8V5qAcpSDTMxKchiR"
+          "name": "Kitba",
+          "url": "https://open.spotify.com/artist/3n8KzsjhAfQXapgZG4N1Ax"
         }
       ],
-      "duration_ms": 238948,
-      "name": "Neptune Anteater",
-      "url": "https://open.spotify.com/track/21G0z6uwYJ6ry6btg4H9uX"
+      "duration_ms": 213160,
+      "name": "Hold the Edges",
+      "url": "https://open.spotify.com/track/3xScwoXWtndJkA4h1Nsh1S"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Hold the Edges",
-        "url": "https://open.spotify.com/album/6DLJ126k5YfhEzHp3uLM3c"
+        "name": "Neptune Anteater",
+        "url": "https://open.spotify.com/album/4N23iLAHXRJ0uq4NL84kfU"
       },
       "artists": [
         {
-          "name": "Kitba",
-          "url": "https://open.spotify.com/artist/3n8KzsjhAfQXapgZG4N1Ax"
+          "name": "The Dwarfs of East Agouza",
+          "url": "https://open.spotify.com/artist/4hOby8V5qAcpSDTMxKchiR"
         }
       ],
-      "duration_ms": 213160,
-      "name": "Hold the Edges",
-      "url": "https://open.spotify.com/track/3xScwoXWtndJkA4h1Nsh1S"
+      "duration_ms": 238948,
+      "name": "Neptune Anteater",
+      "url": "https://open.spotify.com/track/21G0z6uwYJ6ry6btg4H9uX"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Galactic Jazz Night Pt.1: Nella regione della notte infinita",
-        "url": "https://open.spotify.com/album/054JUIRHDfoDZnCgSGQ8aD"
+        "name": "The Big E",
+        "url": "https://open.spotify.com/album/4873pITj5PQrxzNqYf7CPk"
       },
       "artists": [
         {
-          "name": "Festa del Perdono",
-          "url": "https://open.spotify.com/artist/0GXRolWpwHyGYUrclouuX5"
+          "name": "Editrix",
+          "url": "https://open.spotify.com/artist/114Z5iDTpNa5tbPNSUMCre"
         }
       ],
-      "duration_ms": 152239,
-      "name": "Nella regione della notte infinita",
-      "url": "https://open.spotify.com/track/6ue9LNm3XGMtpR2Xprqc8y"
+      "duration_ms": 166528,
+      "name": "The Big E",
+      "url": "https://open.spotify.com/track/4CIGIijEyrDgrLeS1TWvXp"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

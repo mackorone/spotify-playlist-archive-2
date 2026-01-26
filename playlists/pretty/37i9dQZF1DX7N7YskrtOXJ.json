@@ -1,6 +1,6 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 122478,
+  "num_followers": 122531,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Lo Mejor de Lo Mejor",
-        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 161239,
-      "name": "Yo Tomo Licor",
-      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Si Me Tomo una Cerveza",
         "url": "https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 182198,
       "name": "Si Me Tomo Una Cerveza",
       "url": "https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 161239,
+      "name": "Yo Tomo Licor",
+      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Mi \u00danico Amor",
-        "url": "https://open.spotify.com/album/1bc0MLEqmNIXBPrSwkyN2j"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 214264,
-      "name": "Una Calle Nos Separa",
-      "url": "https://open.spotify.com/track/1TvjOTe5HcnzxnlvQ8JRy8"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Grandes \u00c9xitos Regrabados",
         "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 242242,
       "name": "Iluminar\u00e1",
       "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Mi \u00danico Amor",
+        "url": "https://open.spotify.com/album/1bc0MLEqmNIXBPrSwkyN2j"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 214264,
+      "name": "Una Calle Nos Separa",
+      "url": "https://open.spotify.com/track/1TvjOTe5HcnzxnlvQ8JRy8"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Amor Entre S\u00e1banas",
-        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
-      },
-      "artists": [
-        {
-          "name": "La Noche",
-          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
-        }
-      ],
-      "duration_ms": 219358,
-      "name": "L\u00e1stima",
-      "url": "https://open.spotify.com/track/2ndgJ8HW0gqQnJwKUCJdm6"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Cumbia Nena",
         "url": "https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 186986,
       "name": "Explicale",
       "url": "https://open.spotify.com/track/3lTKmLEuJl8rj68ojwjoK5"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Amor Entre S\u00e1banas",
+        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
+      },
+      "artists": [
+        {
+          "name": "La Noche",
+          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
+        }
+      ],
+      "duration_ms": 219358,
+      "name": "L\u00e1stima",
+      "url": "https://open.spotify.com/track/2ndgJ8HW0gqQnJwKUCJdm6"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "En Tu Cuarto",
-        "url": "https://open.spotify.com/album/1gxuJDFiKPibw5TAZ9NXqJ"
-      },
-      "artists": [
-        {
-          "name": "La Noche",
-          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
-        }
-      ],
-      "duration_ms": 220266,
-      "name": "Quiero Ser Libre",
-      "url": "https://open.spotify.com/track/5IYYyNV4ly1IFNBFLQO6ge"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Una Cerveza RMX",
         "url": "https://open.spotify.com/album/38AGkC9ZE88AFQCSeFjqjX"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 181619,
       "name": "Una Cerveza RMX",
       "url": "https://open.spotify.com/track/0DaZGaU25mPJZEnrNuloLc"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "En Tu Cuarto",
+        "url": "https://open.spotify.com/album/1gxuJDFiKPibw5TAZ9NXqJ"
+      },
+      "artists": [
+        {
+          "name": "La Noche",
+          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
+        }
+      ],
+      "duration_ms": 220266,
+      "name": "Quiero Ser Libre",
+      "url": "https://open.spotify.com/track/5IYYyNV4ly1IFNBFLQO6ge"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Amor Entre S\u00e1banas",
-        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
-      },
-      "artists": [
-        {
-          "name": "La Noche",
-          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
-        }
-      ],
-      "duration_ms": 201827,
-      "name": "Amor Sobre 4 Ruedas",
-      "url": "https://open.spotify.com/track/2ITePMEKaSYFFoD9Lc3z4f"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Una Cerveza",
         "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 213293,
       "name": "Muero De Fr\u00edo",
       "url": "https://open.spotify.com/track/3omcI65X80XkY0MqtQmZ73"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Amor Entre S\u00e1banas",
+        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
+      },
+      "artists": [
+        {
+          "name": "La Noche",
+          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
+        }
+      ],
+      "duration_ms": 201827,
+      "name": "Amor Sobre 4 Ruedas",
+      "url": "https://open.spotify.com/track/2ITePMEKaSYFFoD9Lc3z4f"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
+        "name": "El Sonido Inconfundible",
+        "url": "https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr"
+      },
+      "artists": [
+        {
+          "name": "D'Latin Sound",
+          "url": "https://open.spotify.com/artist/3yiRkpXCOrmggFKe5I8FDU"
+        }
+      ],
+      "duration_ms": 224560,
+      "name": "Chiquilla Bonita",
+      "url": "https://open.spotify.com/track/2vQVZ8NkPTkKnRNa69107H"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 221601,
       "name": "OJITOS ROJOS",
       "url": "https://open.spotify.com/track/11PV8CaPqlto9Uejx92C35"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
-        "name": "El Sonido Inconfundible",
-        "url": "https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr"
-      },
-      "artists": [
-        {
-          "name": "D'Latin Sound",
-          "url": "https://open.spotify.com/artist/3yiRkpXCOrmggFKe5I8FDU"
-        }
-      ],
-      "duration_ms": 224560,
-      "name": "Chiquilla Bonita",
-      "url": "https://open.spotify.com/track/2vQVZ8NkPTkKnRNa69107H"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Qui\u00e9reme",
-        "url": "https://open.spotify.com/album/4M0d3bxdMp3u48eEpbxPoU"
-      },
-      "artists": [
-        {
-          "name": "Amerika'n Sound",
-          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
-        }
-      ],
-      "duration_ms": 224960,
-      "name": "Haciendo el Amor",
-      "url": "https://open.spotify.com/track/5lIWfnNZSSm4BA5xggmwVY"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "El Sonido Inconfundible",
         "url": "https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 190600,
       "name": "Ritmo Loco",
       "url": "https://open.spotify.com/track/2j8FwsqiF5QkfxjOszg9G0"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Qui\u00e9reme",
+        "url": "https://open.spotify.com/album/4M0d3bxdMp3u48eEpbxPoU"
+      },
+      "artists": [
+        {
+          "name": "Amerika'n Sound",
+          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
+        }
+      ],
+      "duration_ms": 224960,
+      "name": "Haciendo el Amor",
+      "url": "https://open.spotify.com/track/5lIWfnNZSSm4BA5xggmwVY"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Onda Tropical",
-        "url": "https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu"
-      },
-      "artists": [
-        {
-          "name": "Amerika'n Sound",
-          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Acercate MI Amor",
-      "url": "https://open.spotify.com/track/0drMB4P0bjoRrSQTKKlpkx"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Cuerpo Repartido",
         "url": "https://open.spotify.com/album/6nInC3tIJkiTcnw0gWeCi5"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 154226,
       "name": "El Casorio",
       "url": "https://open.spotify.com/track/2S8HP57phymdKP3rzMoZRr"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Onda Tropical",
+        "url": "https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu"
+      },
+      "artists": [
+        {
+          "name": "Amerika'n Sound",
+          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
+        }
+      ],
+      "duration_ms": 255160,
+      "name": "Acercate MI Amor",
+      "url": "https://open.spotify.com/track/0drMB4P0bjoRrSQTKKlpkx"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Onda Tropical",
-        "url": "https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu"
-      },
-      "artists": [
-        {
-          "name": "Amerika'n Sound",
-          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
-        }
-      ],
-      "duration_ms": 143640,
-      "name": "Ni Que Estuviera Loco",
-      "url": "https://open.spotify.com/track/4l4uqVLKzGt7icoCj8ycZG"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Me Emborrachar\u00e9",
         "url": "https://open.spotify.com/album/5YfG3oN7ijMQljJo7Z3gBI"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 242718,
       "name": "Me Emborrachare",
       "url": "https://open.spotify.com/track/6UmL7VOgbpvvRCGeqJnKrK"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Onda Tropical",
+        "url": "https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu"
+      },
+      "artists": [
+        {
+          "name": "Amerika'n Sound",
+          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
+        }
+      ],
+      "duration_ms": 143640,
+      "name": "Ni Que Estuviera Loco",
+      "url": "https://open.spotify.com/track/4l4uqVLKzGt7icoCj8ycZG"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Digan Lo Que Digan",
-        "url": "https://open.spotify.com/album/4FCdQWYqbvztVZEB7YVsGu"
-      },
-      "artists": [
-        {
-          "name": "Amerika'n Sound",
-          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
-        }
-      ],
-      "duration_ms": 174889,
-      "name": "Ritmo Sabroso",
-      "url": "https://open.spotify.com/track/6nwIqQv2JXDahVTXZitzXQ"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "C\u00f3mo Olvidarte",
         "url": "https://open.spotify.com/album/0y2Bzf65Y7PVczvoMhR66G"
       },
@@ -1403,18 +1387,34 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Sue\u00f1o Su Boca",
-        "url": "https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr"
+        "name": "Digan Lo Que Digan",
+        "url": "https://open.spotify.com/album/4FCdQWYqbvztVZEB7YVsGu"
       },
       "artists": [
         {
-          "name": "Peregrinos del Amor",
-          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
+          "name": "Amerika'n Sound",
+          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
         }
       ],
-      "duration_ms": 356938,
-      "name": "La Santa Diabla",
-      "url": "https://open.spotify.com/track/4FeUB6lhoT0Z3e43IHD4F8"
+      "duration_ms": 174889,
+      "name": "Ritmo Sabroso",
+      "url": "https://open.spotify.com/track/6nwIqQv2JXDahVTXZitzXQ"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Bailantero y Parrandero",
+        "url": "https://open.spotify.com/album/6odLqxtmdID7FQtwlajjdc"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sixx",
+          "url": "https://open.spotify.com/artist/5tjVTwiojga74Vm263lGwF"
+        }
+      ],
+      "duration_ms": 199160,
+      "name": "Bailantero y Parrandero",
+      "url": "https://open.spotify.com/track/4UlqjeL20B01ATFJH2c9vK"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Bailantero y Parrandero",
-        "url": "https://open.spotify.com/album/6odLqxtmdID7FQtwlajjdc"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sixx",
-          "url": "https://open.spotify.com/artist/5tjVTwiojga74Vm263lGwF"
-        }
-      ],
-      "duration_ms": 199160,
-      "name": "Bailantero y Parrandero",
-      "url": "https://open.spotify.com/track/4UlqjeL20B01ATFJH2c9vK"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "No Te Creas Tan Importante",
         "url": "https://open.spotify.com/album/2jcXcf2sDbK3w6YsFhxhOj"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 226882,
       "name": "No Te Creas Tan Importante",
       "url": "https://open.spotify.com/track/6EEDCnXpC745TnDPSeRjGl"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Sue\u00f1o Su Boca",
+        "url": "https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr"
+      },
+      "artists": [
+        {
+          "name": "Peregrinos del Amor",
+          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
+        }
+      ],
+      "duration_ms": 356938,
+      "name": "La Santa Diabla",
+      "url": "https://open.spotify.com/track/4FeUB6lhoT0Z3e43IHD4F8"
     },
     {
       "added_at": "2025-11-20 11:23:04",

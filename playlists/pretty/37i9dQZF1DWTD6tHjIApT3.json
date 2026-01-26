@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u306b\u3057\u306a nishina",
-  "num_followers": 134592,
+  "num_followers": 134584,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-01-21 04:43:57",
       "album": {
-        "name": "What the Ripple Sees",
-        "url": "https://open.spotify.com/album/78fhnG5ADzOETko64kqGtW"
-      },
-      "artists": [
-        {
-          "name": "Mili",
-          "url": "https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs"
-        }
-      ],
-      "duration_ms": 239106,
-      "name": "What the Ripple Sees",
-      "url": "https://open.spotify.com/track/2VEM6i965SAXK5A59lXmHa"
-    },
-    {
-      "added_at": "2026-01-21 04:43:57",
-      "album": {
         "name": "\u65e5\u9670",
         "url": "https://open.spotify.com/album/4dNOcPtSueHQCjKx8FeOjK"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2026-01-21 04:43:57",
       "album": {
-        "name": "Laugh",
-        "url": "https://open.spotify.com/album/0QmujzTxQFdS9zYbfJznnJ"
+        "name": "What the Ripple Sees",
+        "url": "https://open.spotify.com/album/78fhnG5ADzOETko64kqGtW"
       },
       "artists": [
         {
-          "name": "Lilas",
-          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+          "name": "Mili",
+          "url": "https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs"
         }
       ],
-      "duration_ms": 186573,
-      "name": "Latata",
-      "url": "https://open.spotify.com/track/53x4Fe0j0X5Nxo1UKsJNTX"
+      "duration_ms": 239106,
+      "name": "What the Ripple Sees",
+      "url": "https://open.spotify.com/track/2VEM6i965SAXK5A59lXmHa"
     },
     {
       "added_at": "2026-01-21 04:43:57",
@@ -987,6 +971,22 @@
     {
       "added_at": "2026-01-21 04:43:57",
       "album": {
+        "name": "Laugh",
+        "url": "https://open.spotify.com/album/0QmujzTxQFdS9zYbfJznnJ"
+      },
+      "artists": [
+        {
+          "name": "Lilas",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "duration_ms": 186573,
+      "name": "Latata",
+      "url": "https://open.spotify.com/track/53x4Fe0j0X5Nxo1UKsJNTX"
+    },
+    {
+      "added_at": "2026-01-21 04:43:57",
+      "album": {
         "name": "\u30e0\u30ea\u30e0\u30ea\u9032\u5316\u8ad6",
         "url": "https://open.spotify.com/album/2Vfs0CtkNRPZx79hu7N3cf"
       },
@@ -999,6 +999,26 @@
       "duration_ms": 194933,
       "name": "\u30e0\u30ea\u30e0\u30ea\u9032\u5316\u8ad6",
       "url": "https://open.spotify.com/track/50palGbYA85jbX8y79aqRK"
+    },
+    {
+      "added_at": "2026-01-21 04:43:57",
+      "album": {
+        "name": "\u5d16\u3063\u3077\u3061\u30eb\u30d3\u30fc (VS. \u30a2\u30a4\u30ca\u30fb\u30b8\u30fb\u30a8\u30f3\u30c9)",
+        "url": "https://open.spotify.com/album/7HjRgi9qbWdYzteTDPvNow"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "duration_ms": 262766,
+      "name": "\u5d16\u3063\u3077\u3061\u30eb\u30d3\u30fc (VS. \u30a2\u30a4\u30ca\u30fb\u30b8\u30fb\u30a8\u30f3\u30c9)",
+      "url": "https://open.spotify.com/track/7HXZCDmWVLC3ygAcXw5I6q"
     },
     {
       "added_at": "2026-01-21 04:43:57",
@@ -1031,26 +1051,6 @@
       "duration_ms": 245065,
       "name": "Pastoral",
       "url": "https://open.spotify.com/track/3RbQ3XXydlQsimEB1jcQlO"
-    },
-    {
-      "added_at": "2026-01-21 04:43:57",
-      "album": {
-        "name": "\u5d16\u3063\u3077\u3061\u30eb\u30d3\u30fc (VS. \u30a2\u30a4\u30ca\u30fb\u30b8\u30fb\u30a8\u30f3\u30c9)",
-        "url": "https://open.spotify.com/album/7HjRgi9qbWdYzteTDPvNow"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
-        {
-          "name": "AiNA THE END",
-          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
-        }
-      ],
-      "duration_ms": 262766,
-      "name": "\u5d16\u3063\u3077\u3061\u30eb\u30d3\u30fc (VS. \u30a2\u30a4\u30ca\u30fb\u30b8\u30fb\u30a8\u30f3\u30c9)",
-      "url": "https://open.spotify.com/track/7HXZCDmWVLC3ygAcXw5I6q"
     },
     {
       "added_at": "2026-01-21 04:43:57",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-01-21 04:43:57",
       "album": {
-        "name": "Voyage",
-        "url": "https://open.spotify.com/album/3qUKioXfUeLyuzPtsYCNnL"
-      },
-      "artists": [
-        {
-          "name": "Lilas",
-          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
-        }
-      ],
-      "duration_ms": 218283,
-      "name": "Voyage",
-      "url": "https://open.spotify.com/track/0djEHfacrcMs3DKuBba00C"
-    },
-    {
-      "added_at": "2026-01-21 04:43:57",
-      "album": {
         "name": "\u30d1\u30f3\u30c0\u30ac\u30fc\u30eb",
         "url": "https://open.spotify.com/album/4PdLITdvYrIyNXQiGseajR"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 214770,
       "name": "\u30d1\u30f3\u30c0\u30ac\u30fc\u30eb",
       "url": "https://open.spotify.com/track/6762PO2mmGDxT5llosCDPI"
+    },
+    {
+      "added_at": "2026-01-21 04:43:57",
+      "album": {
+        "name": "Voyage",
+        "url": "https://open.spotify.com/album/3qUKioXfUeLyuzPtsYCNnL"
+      },
+      "artists": [
+        {
+          "name": "Lilas",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "duration_ms": 218283,
+      "name": "Voyage",
+      "url": "https://open.spotify.com/track/0djEHfacrcMs3DKuBba00C"
     },
     {
       "added_at": "2026-01-21 04:43:57",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-01-21 04:43:57",
       "album": {
-        "name": "\u304a\u3068\u3081\u306e\u8096\u50cf",
-        "url": "https://open.spotify.com/album/3abSkOFoNQtxxIJ8GhLwy8"
-      },
-      "artists": [
-        {
-          "name": "Reol",
-          "url": "https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ"
-        }
-      ],
-      "duration_ms": 206440,
-      "name": "\u304a\u3068\u3081\u306e\u8096\u50cf",
-      "url": "https://open.spotify.com/track/2cpQtKvfgzNQE8MGhOuM7v"
-    },
-    {
-      "added_at": "2026-01-21 04:43:57",
-      "album": {
         "name": "Thinking of You",
         "url": "https://open.spotify.com/album/548AzNIS7caaO926qVC4Ob"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 179654,
       "name": "Thinking of You",
       "url": "https://open.spotify.com/track/5eIP2BdEEtv4EWIWGlJQV1"
+    },
+    {
+      "added_at": "2026-01-21 04:43:57",
+      "album": {
+        "name": "\u304a\u3068\u3081\u306e\u8096\u50cf",
+        "url": "https://open.spotify.com/album/3abSkOFoNQtxxIJ8GhLwy8"
+      },
+      "artists": [
+        {
+          "name": "Reol",
+          "url": "https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "\u304a\u3068\u3081\u306e\u8096\u50cf",
+      "url": "https://open.spotify.com/track/2cpQtKvfgzNQE8MGhOuM7v"
     },
     {
       "added_at": "2026-01-21 04:43:57",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-01-21 04:43:57",
       "album": {
-        "name": "\u30df\u30ae\u30d2\u30c0\u30ea",
-        "url": "https://open.spotify.com/album/67AqcAoP7jxo0pe4iEKP0z"
-      },
-      "artists": [
-        {
-          "name": "Yuka Nagase",
-          "url": "https://open.spotify.com/artist/4eEVWfAuVUPgwMXWQiD4zX"
-        }
-      ],
-      "duration_ms": 184891,
-      "name": "\u30df\u30ae\u30d2\u30c0\u30ea",
-      "url": "https://open.spotify.com/track/6oapMHhwhvjN0iQISpORq9"
-    },
-    {
-      "added_at": "2026-01-21 04:43:57",
-      "album": {
         "name": "\u5947\u8de1\u306e\u3088\u3046\u306a\u3053\u3068",
         "url": "https://open.spotify.com/album/7ucHTv7k6HRCHXEZ2db7YB"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 307804,
       "name": "\u5947\u8de1\u306e\u3088\u3046\u306a\u3053\u3068",
       "url": "https://open.spotify.com/track/01sKD9SmQPM1rwN8Sc1cx5"
+    },
+    {
+      "added_at": "2026-01-21 04:43:57",
+      "album": {
+        "name": "\u30df\u30ae\u30d2\u30c0\u30ea",
+        "url": "https://open.spotify.com/album/67AqcAoP7jxo0pe4iEKP0z"
+      },
+      "artists": [
+        {
+          "name": "Yuka Nagase",
+          "url": "https://open.spotify.com/artist/4eEVWfAuVUPgwMXWQiD4zX"
+        }
+      ],
+      "duration_ms": 184891,
+      "name": "\u30df\u30ae\u30d2\u30c0\u30ea",
+      "url": "https://open.spotify.com/track/6oapMHhwhvjN0iQISpORq9"
     },
     {
       "added_at": "2026-01-21 04:43:57",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2026-01-21 04:43:57",
       "album": {
+        "name": "\u221e",
+        "url": "https://open.spotify.com/album/43tk1aJAbtbnlIPDtrKIJ9"
+      },
+      "artists": [
+        {
+          "name": "HACHI",
+          "url": "https://open.spotify.com/artist/2ksMoRs5T9ErEe5H7gxv7C"
+        }
+      ],
+      "duration_ms": 237316,
+      "name": "\u221e",
+      "url": "https://open.spotify.com/track/6ZrX2IRdkDrYwLT2uwnllG"
+    },
+    {
+      "added_at": "2026-01-21 04:43:57",
+      "album": {
         "name": "\u30ad\u30df\u304c\u3044\u306a\u3044\u3068",
         "url": "https://open.spotify.com/album/0uT3czZrsT57vsb4R9KPG5"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 227538,
       "name": "\u3061\u3087\u3046\u3069\u3044\u3044 (feels just right)",
       "url": "https://open.spotify.com/track/2oTAoZQX2fpb5lPBseqI9r"
-    },
-    {
-      "added_at": "2026-01-21 04:43:57",
-      "album": {
-        "name": "\u221e",
-        "url": "https://open.spotify.com/album/43tk1aJAbtbnlIPDtrKIJ9"
-      },
-      "artists": [
-        {
-          "name": "HACHI",
-          "url": "https://open.spotify.com/artist/2ksMoRs5T9ErEe5H7gxv7C"
-        }
-      ],
-      "duration_ms": 237316,
-      "name": "\u221e",
-      "url": "https://open.spotify.com/track/6ZrX2IRdkDrYwLT2uwnllG"
     },
     {
       "added_at": "2026-01-21 04:43:57",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-01-21 04:43:57",
       "album": {
-        "name": "Calling",
-        "url": "https://open.spotify.com/album/14cpZqduLlAIOhIVaRTn3m"
-      },
-      "artists": [
-        {
-          "name": "Foi",
-          "url": "https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB"
-        }
-      ],
-      "duration_ms": 195473,
-      "name": "Calling",
-      "url": "https://open.spotify.com/track/5uE61Hgy7nIiLvVVczJRl6"
-    },
-    {
-      "added_at": "2026-01-21 04:43:57",
-      "album": {
         "name": "Happy Ever After",
         "url": "https://open.spotify.com/album/6gvgtKoAbqP46vLw46Hrlg"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 225533,
       "name": "Happy Ever After",
       "url": "https://open.spotify.com/track/6ht5QWPzQSQInoRN2v87Ac"
+    },
+    {
+      "added_at": "2026-01-21 04:43:57",
+      "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/14cpZqduLlAIOhIVaRTn3m"
+      },
+      "artists": [
+        {
+          "name": "Foi",
+          "url": "https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB"
+        }
+      ],
+      "duration_ms": 195473,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/5uE61Hgy7nIiLvVVczJRl6"
     },
     {
       "added_at": "2026-01-21 04:43:57",

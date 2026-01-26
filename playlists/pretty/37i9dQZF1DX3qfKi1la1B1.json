@@ -1,6 +1,6 @@
 {
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
-  "num_followers": 127071,
+  "num_followers": 127065,
   "original_name": "Midnight Chill",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,26 @@
     {
       "added_at": "2026-01-23 10:28:00",
       "album": {
+        "name": "Chala (My Soul Is On A Loop)",
+        "url": "https://open.spotify.com/album/5jKKCOqvjQl0bdJhN2gEh2"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "Aster Aweke",
+          "url": "https://open.spotify.com/artist/6oCxgUP6Vdx3YIJb59Ia0L"
+        }
+      ],
+      "duration_ms": 162793,
+      "name": "Chala (My Soul Is On A Loop)",
+      "url": "https://open.spotify.com/track/2TidiXg42kktDIl8WhNPWk"
+    },
+    {
+      "added_at": "2026-01-23 10:28:00",
+      "album": {
         "name": "A LA SALA",
         "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
       },
@@ -775,42 +795,6 @@
     {
       "added_at": "2026-01-23 10:28:00",
       "album": {
-        "name": "Chala (My Soul Is On A Loop)",
-        "url": "https://open.spotify.com/album/5jKKCOqvjQl0bdJhN2gEh2"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        },
-        {
-          "name": "Aster Aweke",
-          "url": "https://open.spotify.com/artist/6oCxgUP6Vdx3YIJb59Ia0L"
-        }
-      ],
-      "duration_ms": 162793,
-      "name": "Chala (My Soul Is On A Loop)",
-      "url": "https://open.spotify.com/track/2TidiXg42kktDIl8WhNPWk"
-    },
-    {
-      "added_at": "2026-01-23 10:28:00",
-      "album": {
-        "name": "Endlessness",
-        "url": "https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE"
-      },
-      "artists": [
-        {
-          "name": "Nala Sinephro",
-          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
-        }
-      ],
-      "duration_ms": 247538,
-      "name": "Continuum 3",
-      "url": "https://open.spotify.com/track/0AXfx8KBcjY3TlrHmApvNr"
-    },
-    {
-      "added_at": "2026-01-23 10:28:00",
-      "album": {
         "name": "Ostentatious",
         "url": "https://open.spotify.com/album/0Y0OQfgW9cFQHrKpZvicX2"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 224000,
       "name": "Ostentatious",
       "url": "https://open.spotify.com/track/0buN3nIjGOmj2boRh7zNrz"
+    },
+    {
+      "added_at": "2026-01-23 10:28:00",
+      "album": {
+        "name": "Endlessness",
+        "url": "https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE"
+      },
+      "artists": [
+        {
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
+        }
+      ],
+      "duration_ms": 247538,
+      "name": "Continuum 3",
+      "url": "https://open.spotify.com/track/0AXfx8KBcjY3TlrHmApvNr"
     },
     {
       "added_at": "2026-01-23 10:28:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-01-23 10:28:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4jvWaSlb6sOQ3QWYegTDJv"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 242533,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3TWLXrA7eWPFdXC52JK9IX"
-    },
-    {
-      "added_at": "2026-01-23 10:28:00",
-      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -991,6 +975,22 @@
     {
       "added_at": "2026-01-23 10:28:00",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4jvWaSlb6sOQ3QWYegTDJv"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 242533,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3TWLXrA7eWPFdXC52JK9IX"
+    },
+    {
+      "added_at": "2026-01-23 10:28:00",
+      "album": {
         "name": "Marty Supreme (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4ACAVXXQYUTmlZgdg0aG8U"
       },
@@ -1003,6 +1003,22 @@
       "duration_ms": 162757,
       "name": "Force Of Life",
       "url": "https://open.spotify.com/track/5p2OeKfFaKVKd6wEPjUYBy"
+    },
+    {
+      "added_at": "2026-01-23 10:28:00",
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 168562,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
     },
     {
       "added_at": "2026-01-23 10:28:00",
@@ -1023,22 +1039,6 @@
       "duration_ms": 262876,
       "name": "Bewitched - Rework",
       "url": "https://open.spotify.com/track/5pdc3oeoqidUv0pem5xenZ"
-    },
-    {
-      "added_at": "2026-01-23 10:28:00",
-      "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 168562,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
     },
     {
       "added_at": "2026-01-23 10:28:00",

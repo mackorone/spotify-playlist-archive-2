@@ -1,6 +1,6 @@
 {
   "description": "Holiday classics from your favourite punks. ",
-  "num_followers": 91831,
+  "num_followers": 91820,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 215293,
+      "name": "Deadbeat Holiday",
+      "url": "https://open.spotify.com/track/02COSjkOwyoMNW30Tge9Gu"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "Christmas (Baby Please Come Home)",
         "url": "https://open.spotify.com/album/2rFjx4qhTiyQwCAnNSnJQs"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 226019,
       "name": "Christmas Every Day",
       "url": "https://open.spotify.com/track/1VFXTsoR3uHlu9tBAAlElO"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "Deadbeat Holiday",
-      "url": "https://open.spotify.com/track/02COSjkOwyoMNW30Tge9Gu"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1271,6 +1271,54 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "Dirty Work (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2ZF3l2HMjlP7KR2Na2ClY7"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "Merry Christmas, Kiss My Ass",
+      "url": "https://open.spotify.com/track/4rZ0E41vSsttJd2AzaI4Y1"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "... And A Happy New Year - EP",
+        "url": "https://open.spotify.com/album/5gp50OwT4ocLFYjY0yGKoK"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 201640,
+      "name": "Mr. Winter",
+      "url": "https://open.spotify.com/track/4DhKi9aSu9cEf5HnHSAdSE"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "When Snow Falls",
+        "url": "https://open.spotify.com/album/3MqWiO7dkWBrIbFzH93hXP"
+      },
+      "artists": [
+        {
+          "name": "SayWeCanFly",
+          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
+        }
+      ],
+      "duration_ms": 190017,
+      "name": "When Snow Falls",
+      "url": "https://open.spotify.com/track/1KWYSmOPmxFczG4iiWA1nV"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "Santa Baby",
         "url": "https://open.spotify.com/album/0LIJnUqnGXu85JBSVwioNH"
       },
@@ -1287,6 +1335,38 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "Tis The Season to Be Fearless",
+        "url": "https://open.spotify.com/album/1aunad4duE4Okwq8ATBy2j"
+      },
+      "artists": [
+        {
+          "name": "Amely",
+          "url": "https://open.spotify.com/artist/6AjPiGacexlUKYQ3dePBjv"
+        }
+      ],
+      "duration_ms": 243946,
+      "name": "Christmas Time Again",
+      "url": "https://open.spotify.com/track/6IhdxymP4sDVwgBXCB4dOs"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Punk Goes Christmas",
+        "url": "https://open.spotify.com/album/63J37R8ysZjLGpXMsJhRh3"
+      },
+      "artists": [
+        {
+          "name": "The Summer Set",
+          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
+        }
+      ],
+      "duration_ms": 183433,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/3rdKklYgxjaLegndPcetBW"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "I'm Going Surfing for Xmas",
         "url": "https://open.spotify.com/album/1Lwokr9Nxk6cyAUGYgnePf"
       },
@@ -1299,6 +1379,22 @@
       "duration_ms": 135110,
       "name": "I'm Going Surfing for Xmas",
       "url": "https://open.spotify.com/track/4Rfapwi4NNQjw2PJO7WTmo"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/47nwtVeih4vDxqTlNbk0U8"
+      },
+      "artists": [
+        {
+          "name": "SayWeCanFly",
+          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/1uocpg15Pa1lKYUufHayI5"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1335,38 +1431,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Dirty Work (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2ZF3l2HMjlP7KR2Na2ClY7"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "Merry Christmas, Kiss My Ass",
-      "url": "https://open.spotify.com/track/4rZ0E41vSsttJd2AzaI4Y1"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "... And A Happy New Year - EP",
-        "url": "https://open.spotify.com/album/5gp50OwT4ocLFYjY0yGKoK"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 201640,
-      "name": "Mr. Winter",
-      "url": "https://open.spotify.com/track/4DhKi9aSu9cEf5HnHSAdSE"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Ruin Jonny's Bar Mitzvah",
         "url": "https://open.spotify.com/album/2ghotUjHKIAK4g2FYb316n"
       },
@@ -1379,22 +1443,6 @@
       "duration_ms": 221040,
       "name": "Hava Nagila",
       "url": "https://open.spotify.com/track/7ybZEUwDsHGMkWGoNSgmCg"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "When Snow Falls",
-        "url": "https://open.spotify.com/album/3MqWiO7dkWBrIbFzH93hXP"
-      },
-      "artists": [
-        {
-          "name": "SayWeCanFly",
-          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
-        }
-      ],
-      "duration_ms": 190017,
-      "name": "When Snow Falls",
-      "url": "https://open.spotify.com/track/1KWYSmOPmxFczG4iiWA1nV"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1587,54 +1635,6 @@
       "duration_ms": 223978,
       "name": "X-Mas in Texas",
       "url": "https://open.spotify.com/track/5UkZgMr850fF5mSzJXaGil"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "Happy Skalidays",
-        "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 228868,
-      "name": "Skank For Christmas",
-      "url": "https://open.spotify.com/track/3VblSLAooy2B3mFwHbApLy"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "Punk Goes Christmas",
-        "url": "https://open.spotify.com/album/63J37R8ysZjLGpXMsJhRh3"
-      },
-      "artists": [
-        {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
-        }
-      ],
-      "duration_ms": 207279,
-      "name": "This Christmas (I'll Burn It to the Ground)",
-      "url": "https://open.spotify.com/track/6fCw2dWI97mTUCNWuLanFf"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "Played In Space: The Best of Something Corporate",
-        "url": "https://open.spotify.com/album/4AfLkc5or1PPiT8z4Pas40"
-      },
-      "artists": [
-        {
-          "name": "Something Corporate",
-          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
-        }
-      ],
-      "duration_ms": 192226,
-      "name": "Forget December",
-      "url": "https://open.spotify.com/track/3uxpzGzJmLSprnHJw6PYnO"
     }
   ],
   "unique_name": "Punk Christmas",

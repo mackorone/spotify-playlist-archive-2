@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39iJO9NeCvA.md) - [plain]
 
 > Listen to soundtracks from SF anime series "TRIGUN".「トライガン」シリーズの楽曲を1つのプレイリストで。© 2026 内藤泰弘・少年画報社／「TRIGUN STARGAZE」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,285 likes - 82 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,294 likes - 82 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

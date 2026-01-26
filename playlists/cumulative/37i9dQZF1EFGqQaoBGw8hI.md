@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-687 songs - 1 day 23 hr 38 min
+689 songs - 1 day 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Black Icy Stare](https://open.spotify.com/track/0f7MOangrvhpeIHoOJVSJL) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night \(Deluxe Version\)](https://open.spotify.com/album/76FICX0aWAIMjWJEdtf3J3) | 3:11 | 2022-09-08 |  |
 | [Blessed](https://open.spotify.com/track/4rKsQBxDysJWqXpY5TAekd) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH) | 5:02 | 2022-09-08 |  |
 | [Blue Avenue](https://open.spotify.com/track/6CK7N5K49iTzBnReWF89Nj) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 4:18 | 2022-09-08 |  |
-| [Blue Eyes \- Remastered 2003](https://open.spotify.com/track/4PFhHd7DsNg0ke9Nmlxms5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 3:26 | 2022-09-08 |  |
+| [Blue Eyes \- Remastered 2003](https://open.spotify.com/track/4PFhHd7DsNg0ke9Nmlxms5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 3:26 | 2022-09-08 | 2026-01-26 |
 | [Blue Wonderful](https://open.spotify.com/track/5goFdE9LTs1r0JgVvOdMZ8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 3:37 | 2022-09-08 |  |
 | [Blues For Baby And Me](https://open.spotify.com/track/2MaW82qnGVIVTDi4KeA4Y8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 5:38 | 2022-09-08 |  |
 | [Blues Never Fade Away](https://open.spotify.com/track/4gdH8mfTgmEgFyts0eq2a6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 4:45 | 2022-09-08 |  |
@@ -89,7 +89,8 @@
 | [Breaking Hearts \(Ain't What It Used To Be\)](https://open.spotify.com/track/4fBCtdSAeJHMhWlXxTGoEB) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts](https://open.spotify.com/album/572Rt1N8EW6yMEEQ298qQJ) | 3:33 | 2022-09-08 |  |
 | [Burn Down The Mission](https://open.spotify.com/track/3ggTCH9i9dJ0sRdAxFGzcr) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 6:22 | 2022-09-08 |  |
 | [Burning Buildings](https://open.spotify.com/track/4hgId8WzUQkUV5mpu6vB9P) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts](https://open.spotify.com/album/572Rt1N8EW6yMEEQ298qQJ) | 4:01 | 2022-09-08 |  |
-| [C'est ta chanson](https://open.spotify.com/track/6hiMle7MaA0Om0oZNfNGi1) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [5000 Kilomètres](https://open.spotify.com/album/3fRS6PFv2eGFOfhyZl71oz) | 3:58 | 2022-09-08 |  |
+| [C'est ta chanson](https://open.spotify.com/track/6hiMle7MaA0Om0oZNfNGi1) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [5000 Kilomètres](https://open.spotify.com/album/3fRS6PFv2eGFOfhyZl71oz) | 3:58 | 2022-09-08 | 2026-01-26 |
+| [C'est ta chanson](https://open.spotify.com/track/1ZQEhSGUyGppKFEaajAidT) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [5000 Kilomètres](https://open.spotify.com/album/4g4mOeLTfAlcTg2e5zXmrJ) | 4:01 | 2026-01-25 |  |
 | [Cage The Songbird](https://open.spotify.com/track/1tep8bEj4iyuvVNugiv7OO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 3:25 | 2022-09-08 |  |
 | [Calling It Christmas \- Radio Edit](https://open.spotify.com/track/0XpApJu5havzspIyIVe2ut) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Mind Body & Soul \(Special Edition\)](https://open.spotify.com/album/6rEYIfMefUM2leNQNoBdu2) | 4:16 | 2022-09-08 | 2022-11-26 |
 | [Calling It Christmas \- Radio Edit](https://open.spotify.com/track/5L8lTSu1qpYvaHQkqzdUGh) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Step Into Christmas](https://open.spotify.com/album/6qXYjhnacPdM4QT0aYrFuJ) | 4:16 | 2022-11-25 |  |
@@ -134,7 +135,8 @@
 | [Cry To Heaven](https://open.spotify.com/track/6XOoAqdkeebLjIy2b8zTvG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 4:16 | 2022-09-08 |  |
 | [Crystal](https://open.spotify.com/track/4bpNHxM2QdnG4p7ZtUb86M) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 5:05 | 2022-09-08 |  |
 | [Dam wam znak](https://open.spotify.com/track/3CJ7Pv6VqKMpmHOxdRhwbN) | [Artur Zmijewski](https://open.spotify.com/artist/2xp0UH29O0hdWs2WMRQXsW) | [Król Lew \(Ścieżka Dźwiękowa z Filmu\)](https://open.spotify.com/album/2JBq570cXuZRg5eg6l7WWM) | 2:03 | 2022-09-08 |  |
-| [Dame de la ville basse](https://open.spotify.com/track/3UpWO91m2pBHinwisCYkjP) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [5000 Kilomètres](https://open.spotify.com/album/3fRS6PFv2eGFOfhyZl71oz) | 3:54 | 2023-05-26 |  |
+| [Dame de la ville basse](https://open.spotify.com/track/3UpWO91m2pBHinwisCYkjP) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [5000 Kilomètres](https://open.spotify.com/album/3fRS6PFv2eGFOfhyZl71oz) | 3:54 | 2023-05-26 | 2026-01-26 |
+| [Dame de la ville basse](https://open.spotify.com/track/4pSoHAZzzTwQlKVu53c38D) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [5000 Kilomètres](https://open.spotify.com/album/4g4mOeLTfAlcTg2e5zXmrJ) | 3:55 | 2026-01-25 |  |
 | [Dan Dare \(Pilot Of The Future\)](https://open.spotify.com/track/1IP1ymL87BtfZqCsJTyp4C) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 3:29 | 2024-01-19 |  |
 | [Dan Dare \(Pilot Of The Future\)](https://open.spotify.com/track/41lz4BHdOQ5MDyvQ9lwz5f) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/5S44NdVlcSkXL9AqJg4iJh) | 3:29 | 2022-09-08 | 2024-01-20 |
 | [Dancing In The End Zone](https://open.spotify.com/track/2aLIDPBCq47lT0NI2AUblB) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 3:53 | 2022-09-08 |  |

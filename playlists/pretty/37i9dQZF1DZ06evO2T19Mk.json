@@ -1,12 +1,12 @@
 {
   "description": "This is Fall Out Boy. The essential tracks, all in one playlist.",
-  "num_followers": 595553,
+  "num_followers": 595569,
   "original_name": "This Is Fall Out Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXK6AAAAAAB40oAfVd2Bb4iPW6oxYLpc",
+  "snapshot_id": "aXQLgAAAAADJDqRWVfhkFozPkqMl7bI1",
   "tracks": [
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 224360,
-      "name": "Fourth Of July",
-      "url": "https://open.spotify.com/track/1vrjcPplEuenckUzGGp2UR"
+      "duration_ms": 226866,
+      "name": "Novocaine",
+      "url": "https://open.spotify.com/track/5F0bmCjKUufNz1bHXfgRwe"
     },
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 226866,
-      "name": "Novocaine",
-      "url": "https://open.spotify.com/track/5F0bmCjKUufNz1bHXfgRwe"
+      "duration_ms": 224360,
+      "name": "Fourth Of July",
+      "url": "https://open.spotify.com/track/1vrjcPplEuenckUzGGp2UR"
     },
     {
       "added_at": null,

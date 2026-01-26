@@ -219,6 +219,24 @@
     },
     {
       "album": {
+        "name": "Viva Los Villains",
+        "url": "https://open.spotify.com/album/2Dui44Gfszog7oXQwhDocC"
+      },
+      "artists": [
+        {
+          "name": "Viva Los Villains",
+          "url": "https://open.spotify.com/artist/0gU9Wj53y2a5ufEPhdhnJJ"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250921,
+      "name": "Anaconda",
+      "url": "https://open.spotify.com/track/6uF9EXY8NveGo9gvIFLxT5"
+    },
+    {
+      "album": {
         "name": "Melodia: Ch.5-6",
         "url": "https://open.spotify.com/album/2hQrBV27jVEfYnFkAaGLiO"
       },
@@ -364,6 +382,24 @@
       "duration_ms": 179399,
       "name": "Baby, Baby",
       "url": "https://open.spotify.com/track/0wae77jUSKOJdYghFVlQ62"
+    },
+    {
+      "album": {
+        "name": "Back To Echoes",
+        "url": "https://open.spotify.com/album/0tdImFUbq2HC1bmanKxaoo"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Del Sole",
+          "url": "https://open.spotify.com/artist/4RtSBm2fYcMFBpqTCKrin7"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198888,
+      "name": "Back To Echoes",
+      "url": "https://open.spotify.com/track/24cfvqW3Y74zR82aIoOmvA"
     },
     {
       "album": {
@@ -4192,6 +4228,24 @@
       "duration_ms": 221858,
       "name": "Sorry Not Sorry",
       "url": "https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g"
+    },
+    {
+      "album": {
+        "name": "GALAK 51",
+        "url": "https://open.spotify.com/album/5advJux4HnBDXaLvUovkq6"
+      },
+      "artists": [
+        {
+          "name": "Les Hommes Crabes",
+          "url": "https://open.spotify.com/artist/4ULwrrKmZDTybXbNDC3xGL"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269154,
+      "name": "Spine",
+      "url": "https://open.spotify.com/track/23DvAjrBATcWGDy6U9CqDB"
     },
     {
       "album": {

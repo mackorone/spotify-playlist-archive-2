@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Musa Yende
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,824 likes - 97 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,857 likes - 97 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

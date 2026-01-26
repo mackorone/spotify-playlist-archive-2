@@ -2157,6 +2157,28 @@
     },
     {
       "album": {
+        "name": "Che Fine Hai Fatto Fibra? (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/54aMJQ88Vyua8UeKijirW1"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        },
+        {
+          "name": "Zef",
+          "url": "https://open.spotify.com/artist/7JL4DyVnKVldvwWoSnLtCM"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193043,
+      "name": "Che Fine Hai Fatto Fibra? (Red Bull 64 Bars)",
+      "url": "https://open.spotify.com/track/7yhNfdwemomRUQjgSOcgw8"
+    },
+    {
+      "album": {
         "name": "Hashishinz Sound, Vol. 1",
         "url": "https://open.spotify.com/album/686o277ou2T3uWQ2LBiJAP"
       },
@@ -11300,7 +11322,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 230360,
       "name": "Scattano Le Indagini",
       "url": "https://open.spotify.com/track/0FeJBn5QuPRTuWyaSNu2aE"

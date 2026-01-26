@@ -2131,6 +2131,24 @@
     },
     {
       "album": {
+        "name": "Can You Hear It? (The Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6P1L2PKg7pE5GJa5Yy1x89"
+      },
+      "artists": [
+        {
+          "name": "The American Hotel System",
+          "url": "https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266635,
+      "name": "Tripping",
+      "url": "https://open.spotify.com/track/7dX84JjRtlN2M7dVWHFlei"
+    },
+    {
+      "album": {
         "name": "Truth for Lies",
         "url": "https://open.spotify.com/album/1EccCV6oBwVfTDojfNZ8qh"
       },

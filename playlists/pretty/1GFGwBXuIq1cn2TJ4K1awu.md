@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Ten or eleven songs a week\. Updated every Sunday\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 30 likes - 11 songs - 44 min 33 sec
+[royva06](https://open.spotify.com/user/royva06) - 30 likes - 11 songs - 40 min 17 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Chasing Pavements](https://open.spotify.com/track/56pHllZT7QOacB0bP56ofx) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:30 |
-| 2 | [Just A Little Misunderstanding](https://open.spotify.com/track/1InDOw4oVTBET4mAjHxP4O) | [The Contours](https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1) | [The Complete Motown Singles, Vol\. 6: 1966](https://open.spotify.com/album/1wUSibkXjghcjOYv3ZPeIA) | 2:40 |
-| 3 | [Before the Sun](https://open.spotify.com/track/78HuLtyQOVbjlCBdScBnNq) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Appaloosa Bones](https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM) | 2:48 |
-| 4 | [Whooped If You Will](https://open.spotify.com/track/7w2xLKBswCeggLpAVnNmgf) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [All Bad](https://open.spotify.com/album/42yDMOCSnkUZwbH0tmt3WR) | 4:00 |
-| 5 | [Cycles of Existential Rhyme](https://open.spotify.com/track/6rpi77GqamZNoltbZ5ksdi) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Cycles of Existential Rhyme](https://open.spotify.com/album/5Jm8y8nnjMIUrsxZ6KjFe3) | 4:15 |
-| 6 | [Mary Boone](https://open.spotify.com/track/6OjwIdLlkjCLuOThOwODEY) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:26 |
-| 7 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
-| 8 | [By and By](https://open.spotify.com/track/6T4eTkoARLnJIzWjAtyQe0) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/1wohWQ8y4RpdANgxZDa4MF) | 4:40 |
-| 9 | [Sarah](https://open.spotify.com/track/4HuiEuJ7ZW8jewUuZBg6sk) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH) | 2:56 |
-| 10 | [x w x](https://open.spotify.com/track/23M9FijuZP9MsVQrCLdqct) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH) | 2:25 |
-| 11 | [baba louie](https://open.spotify.com/track/3LtEyviereyQZsnUIBSMGI) | [Jaimie Branch](https://open.spotify.com/artist/54T6Gso8zGPk4czyWlnUw5) | [Fly or Die Fly or Die Fly or Die \(\(world war\)\)](https://open.spotify.com/album/2JVEwFxlm2BcTtEeYnB5zr) | 9:07 |
+| 1 | [Jeannie Becomes A Mom](https://open.spotify.com/track/5iEOCpoeZDAGae1IycuPxh) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [LONER](https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr) | 4:21 |
+| 2 | [Long Way Down](https://open.spotify.com/track/0brsE4TsZc6yyj9BVnrYpm) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 4:33 |
+| 3 | [A Lingering Love](https://open.spotify.com/track/1vX5qdTsxb0Gedzmyc8UV2) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:36 |
+| 4 | [Slow Sipper](https://open.spotify.com/track/3GQbKZxmRv1mbrKBMCe8sK) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm) | 3:00 |
+| 5 | [Lucky Man](https://open.spotify.com/track/4XBN0BNKaePeANSEcrs8vw) | [Courtney John](https://open.spotify.com/artist/53uGQ1amGHHb0Tzn2A6Oc0) | [Made In Jamaica](https://open.spotify.com/album/02a2wsjmtlcOn3mLbJuHb4) | 3:14 |
+| 6 | [Hold On To Your Genre](https://open.spotify.com/track/5RpAOKSrXhrNT82Myi7KA3) | [Les Savy Fav](https://open.spotify.com/artist/5DZBnxCYzs32O2bbqK8KNg) | [Inches](https://open.spotify.com/album/3HIvaDIxZHRFZsc6UkvoBV) | 5:16 |
+| 7 | [Loud Bark](https://open.spotify.com/track/4iaSz388a4iRMNRJZSClVG) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 3:03 |
+| 8 | [It's A Good Day](https://open.spotify.com/track/5knMSrK8zrY8H5pGO05WJf) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Rendezvous With Peggy Lee](https://open.spotify.com/album/60o8Pe8VkIKmZjrPS1y65S) | 2:50 |
+| 9 | [Talking to the Moon](https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:37 |
+| 10 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
+| 11 | [Call Box](https://open.spotify.com/track/4bbtDbf7FH2LuQXlaGQdnI) | [The Districts](https://open.spotify.com/artist/3HZgaiR960RFqx9d4LPraD) | [Telephone](https://open.spotify.com/album/1sov6hSVlWUZBcjlnluLpE) | 3:50 |
 
-Snapshot ID: `AAAJOn8xOA7yHbYCmwxPjSVButSBQQT0`
+Snapshot ID: `AAAJUIZW0INMKcchN47Y+PKKtx5tu+Sb`

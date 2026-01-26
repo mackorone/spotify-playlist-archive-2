@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "EPIPHANY at Tokyo Dome 2025.06.15",
+        "url": "https://open.spotify.com/album/1f018h8BBE9PAXJoWBqlRR"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188055,
+      "name": "Don't Think.Feel EPIPHANY at Tokyo Dome 2025.06.15 - Live Version",
+      "url": "https://open.spotify.com/track/07BrwKzp6Jnz7qkQnpNTRK"
+    },
+    {
+      "album": {
         "name": "ENIGMASIS",
         "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
       },
@@ -1336,7 +1354,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 267893,
       "name": "OXYMORON",
       "url": "https://open.spotify.com/track/23Wc7OK7cvKfwsnplGBi0u"

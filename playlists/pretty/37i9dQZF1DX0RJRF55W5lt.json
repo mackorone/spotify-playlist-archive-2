@@ -1,6 +1,6 @@
 {
   "description": "Classic anthems from a classic era. Cover: DJ EZ at Drumsheds",
-  "num_followers": 661971,
+  "num_followers": 662016,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Summer Heat",
-        "url": "https://open.spotify.com/album/46QSMAy6Q1fX9IirJpFDPH"
-      },
-      "artists": [
-        {
-          "name": "Jaheim",
-          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
-        }
-      ],
-      "duration_ms": 219626,
-      "name": "Just In Case - Dub-A-Holics Roller's Revival Mix Edit",
-      "url": "https://open.spotify.com/track/6wzw5660L5NK8WAMRORDOg"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "R U Sleeping",
         "url": "https://open.spotify.com/album/2nRTDFUgW236bepQTOA5ST"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 304360,
       "name": "R U Sleeping - Bump 'N' Flex Remix",
       "url": "https://open.spotify.com/track/1iNeRmlqIPPcxyCAuCOi3m"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
+        "name": "Summer Heat",
+        "url": "https://open.spotify.com/album/46QSMAy6Q1fX9IirJpFDPH"
+      },
+      "artists": [
+        {
+          "name": "Jaheim",
+          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
+        }
+      ],
+      "duration_ms": 219626,
+      "name": "Just In Case - Dub-A-Holics Roller's Revival Mix Edit",
+      "url": "https://open.spotify.com/track/6wzw5660L5NK8WAMRORDOg"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Let Yourself Go",
-        "url": "https://open.spotify.com/album/58iuajzHYoeJJsbD0HBD67"
-      },
-      "artists": [
-        {
-          "name": "95 North",
-          "url": "https://open.spotify.com/artist/7GgRGnImx1cLLS73bDnpFV"
-        }
-      ],
-      "duration_ms": 439746,
-      "name": "Let Yourself Go - Capitol Mix",
-      "url": "https://open.spotify.com/track/67arHtJfnuyN5LuxqqFT9A"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "Smack Da House Vol.2",
         "url": "https://open.spotify.com/album/0UTxSDZxgcVhltuXOUT0uT"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 329866,
       "name": "Joy",
       "url": "https://open.spotify.com/track/36xCum3i0EQyr2mw02X3U0"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
+        "name": "Let Yourself Go",
+        "url": "https://open.spotify.com/album/58iuajzHYoeJJsbD0HBD67"
+      },
+      "artists": [
+        {
+          "name": "95 North",
+          "url": "https://open.spotify.com/artist/7GgRGnImx1cLLS73bDnpFV"
+        }
+      ],
+      "duration_ms": 439746,
+      "name": "Let Yourself Go - Capitol Mix",
+      "url": "https://open.spotify.com/track/67arHtJfnuyN5LuxqqFT9A"
     },
     {
       "added_at": "2024-10-06 08:09:55",

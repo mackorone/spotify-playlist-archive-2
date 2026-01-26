@@ -2041,6 +2041,28 @@
     },
     {
       "album": {
+        "name": "Absoluta",
+        "url": "https://open.spotify.com/album/2uAQno6CdQFoQyEjrGJX8b"
+      },
+      "artists": [
+        {
+          "name": "Solange Almeida",
+          "url": "https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq"
+        },
+        {
+          "name": "Erika Ender",
+          "url": "https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242142,
+      "name": "Meu Amor",
+      "url": "https://open.spotify.com/track/25k02inHB7AGGLx3oLVc66"
+    },
+    {
+      "album": {
         "name": "Panam\u00e1 M\u00eda",
         "url": "https://open.spotify.com/album/11NwW5Y133MwLsll261Lzv"
       },

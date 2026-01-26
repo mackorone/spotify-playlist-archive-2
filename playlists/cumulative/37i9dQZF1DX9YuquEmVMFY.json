@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-09-07",
-  "description": "GIVEON [DEAR BELOVED THE TOUR] in Seoul 2026.01.18-19 @ \uba85\ud654\ub77c\uc774\ube0c\ud640",
-  "name": "On Tour Korea: GIV\u0112ON",
+  "description": "[THE MARCHING OF AG! TOUR IN SEOUL] 2026.01.31 @ YES24\ub77c\uc774\ube0c\ud640",
+  "name": "On Tour Korea: ATARASHII GAKKO!",
   "tracks": [
     {
       "album": {
@@ -659,6 +659,28 @@
     },
     {
       "album": {
+        "name": "wakage ga itaru",
+        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        },
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251866,
+      "name": "amayo no seppun",
+      "url": "https://open.spotify.com/track/6a8v2Mef7VdpFEpS04TSzM"
+    },
+    {
+      "album": {
         "name": "Long Way Down (Deluxe)",
         "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
       },
@@ -808,7 +830,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 150179,
       "name": "AVALANCHE",
       "url": "https://open.spotify.com/track/2mOIjRSeiRRNVBv8PpoYUC"
@@ -862,7 +884,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 190412,
       "name": "BACKUP PLAN",
       "url": "https://open.spotify.com/track/4ZHRQhbfmZ2wHEqCICm3bs"
@@ -1801,6 +1823,24 @@
     },
     {
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/6tf7wrgiVsVPoiI6wTUwnl"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191194,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/3ioX4MCteVUN8LjbtlOC0c"
+    },
+    {
+      "album": {
         "name": "Changed Man",
         "url": "https://open.spotify.com/album/6jFqKZRGCD555oRRotQ0nK"
       },
@@ -2366,7 +2406,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 73209,
       "name": "dec 11th",
       "url": "https://open.spotify.com/track/5svK1ysz8yk6sLC3bhxUGt"
@@ -2420,7 +2460,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 88425,
       "name": "DIAMONDS FOR YOUR PAIN",
       "url": "https://open.spotify.com/track/6QBQ8IiJC47SHuG7omEub0"
@@ -2510,7 +2550,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 208226,
       "name": "DON'T LEAVE",
       "url": "https://open.spotify.com/track/5gXD4exv3XSwYh4BFQ0phf"
@@ -3216,7 +3256,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 172907,
       "name": "Favorite Mistake",
       "url": "https://open.spotify.com/track/3RVPyPf55ceoDjsshTWG1a"
@@ -3503,6 +3543,24 @@
     },
     {
       "album": {
+        "name": "AG! Calling",
+        "url": "https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183186,
+      "name": "Fly High",
+      "url": "https://open.spotify.com/track/7BFgL3I4BB3gYrxfQsBF5t"
+    },
+    {
+      "album": {
         "name": "For Granted",
         "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
       },
@@ -3532,7 +3590,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 193821,
       "name": "For Tonight",
       "url": "https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y"
@@ -3620,6 +3678,32 @@
       "duration_ms": 202794,
       "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
       "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
+    },
+    {
+      "album": {
+        "name": "Freaks",
+        "url": "https://open.spotify.com/album/5Z2m5xN45b5OvINBkhaUBE"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        },
+        {
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133802,
+      "name": "Freaks",
+      "url": "https://open.spotify.com/track/33uyQcKrKlGSOQSO3hrtpj"
     },
     {
       "album": {
@@ -3728,7 +3812,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 195405,
       "name": "Garden Kisses",
       "url": "https://open.spotify.com/track/62d6YXEYxmMWAuLpw1EysL"
@@ -3870,6 +3954,24 @@
       "duration_ms": 189293,
       "name": "Given Up",
       "url": "https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5"
+    },
+    {
+      "album": {
+        "name": "Go Wild / Miyao",
+        "url": "https://open.spotify.com/album/2yyNpA4jsXUoVatcIBuI7W"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164267,
+      "name": "Go Wild",
+      "url": "https://open.spotify.com/track/7k0S7glb0p9AX7jj4a6w0J"
     },
     {
       "album": {
@@ -4229,6 +4331,24 @@
     },
     {
       "album": {
+        "name": "HANAKO",
+        "url": "https://open.spotify.com/album/2MXf1qZI37A3nfCt9VFyhV"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221676,
+      "name": "HANAKO",
+      "url": "https://open.spotify.com/track/6Eu4wGgfcXwiVxu6FSmJ2K"
+    },
+    {
+      "album": {
         "name": "With A Hammer",
         "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
       },
@@ -4262,7 +4382,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 196794,
       "name": "Heartbreak Anniversary",
       "url": "https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T"
@@ -4576,7 +4696,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 195869,
       "name": "I CAN TELL",
       "url": "https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt"
@@ -5538,7 +5658,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 222530,
       "name": "KEEPER",
       "url": "https://open.spotify.com/track/0oG6bJKzXgqzsaaEy1M510"
@@ -5986,7 +6106,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 260776,
       "name": "Like I Want You",
       "url": "https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd"
@@ -6204,7 +6324,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 180953,
       "name": "Lost Me",
       "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
@@ -6731,6 +6851,24 @@
     },
     {
       "album": {
+        "name": "Go Wild / Miyao",
+        "url": "https://open.spotify.com/album/2yyNpA4jsXUoVatcIBuI7W"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251840,
+      "name": "Miyao - 10th Anniversary Version",
+      "url": "https://open.spotify.com/track/0nrGBAKiFYqvPgEvlyEIDI"
+    },
+    {
+      "album": {
         "name": "~how i'm feeling~",
         "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
       },
@@ -6760,7 +6898,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 133571,
       "name": "MUD",
       "url": "https://open.spotify.com/track/0BWJp4pLRHFVKJmDEIlrVn"
@@ -6920,6 +7058,24 @@
       "duration_ms": 263120,
       "name": "M\u516b\u4e03",
       "url": "https://open.spotify.com/track/3sFdaHo9D3hfiFt2wVi6a5"
+    },
+    {
+      "album": {
+        "name": "NAINAINAI",
+        "url": "https://open.spotify.com/album/2oPLzwhrlQP7twoamxxlhN"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193877,
+      "name": "NAINAINAI",
+      "url": "https://open.spotify.com/track/4tkhZR7YJfvpvD5D8o2MUY"
     },
     {
       "album": {
@@ -7242,7 +7398,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 198847,
       "name": "NUMB",
       "url": "https://open.spotify.com/track/7g2S8dvcdpeRUs38L6dbZs"
@@ -7329,6 +7485,24 @@
     },
     {
       "album": {
+        "name": "AG! Calling",
+        "url": "https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165960,
+      "name": "Omakase",
+      "url": "https://open.spotify.com/track/40FFG6wi7mFGRJ5YR5ZoFJ"
+    },
+    {
+      "album": {
         "name": "On My Mind (Jorja Smith X Preditah)",
         "url": "https://open.spotify.com/album/471LijcvJ7tV7ePoX4S0RE"
       },
@@ -7366,6 +7540,24 @@
       "duration_ms": 121695,
       "name": "Once More",
       "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
+    },
+    {
+      "album": {
+        "name": "One Heart",
+        "url": "https://open.spotify.com/album/2GDMGlqGHyx9w6wRMXUrPL"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242250,
+      "name": "One Heart",
+      "url": "https://open.spotify.com/track/6ArjJicjIjgcbKOzBtcBkh"
     },
     {
       "album": {
@@ -7514,6 +7706,24 @@
       "duration_ms": 197533,
       "name": "Orphans",
       "url": "https://open.spotify.com/track/6YQlCOZnlFmqeciAh58fDE"
+    },
+    {
+      "album": {
+        "name": "ICHIJIKIKOKU",
+        "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184773,
+      "name": "OTONABLUE",
+      "url": "https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV"
     },
     {
       "album": {
@@ -7803,6 +8013,24 @@
     },
     {
       "album": {
+        "name": "Pineapple Kryptonite",
+        "url": "https://open.spotify.com/album/4chAdxjlW2ooOyUj9tR0DF"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195653,
+      "name": "Pineapple Kryptonite",
+      "url": "https://open.spotify.com/track/7tG1O21NOvOHS18RLVifyb"
+    },
+    {
+      "album": {
         "name": "UY SCUTI",
         "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
       },
@@ -8085,6 +8313,24 @@
     },
     {
       "album": {
+        "name": "Quesera sera",
+        "url": "https://open.spotify.com/album/43su6eToqJrox4wuAoaJJd"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213066,
+      "name": "Quesera sera",
+      "url": "https://open.spotify.com/track/3pyU7up8u5Fnx9RF3BFhOa"
+    },
+    {
+      "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
@@ -8154,7 +8400,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 171596,
       "name": "RATHER BE",
       "url": "https://open.spotify.com/track/4AUVtLD85OUgUROBzsCP2e"
@@ -8585,6 +8831,24 @@
     },
     {
       "album": {
+        "name": "Sailor, Sail On",
+        "url": "https://open.spotify.com/album/0g1wpbQB9haZyszl7tZ55P"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248136,
+      "name": "Sailor, Sail On",
+      "url": "https://open.spotify.com/track/3yYUOGWkDELvc3jelvPBsC"
+    },
+    {
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -8999,6 +9263,28 @@
     },
     {
       "album": {
+        "name": "Some Type Of Skin (Ft. ATARASHII GAKKO!)",
+        "url": "https://open.spotify.com/album/5ssnfj7TGiqSmgGbUMfroM"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216160,
+      "name": "Some Type Of Skin (Ft. ATARASHII GAKKO!)",
+      "url": "https://open.spotify.com/track/0XosFVK1iMaeVKSRoUWTVK"
+    },
+    {
+      "album": {
         "name": "love is not dying",
         "url": "https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF"
       },
@@ -9402,7 +9688,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 177445,
       "name": "Still Your Best",
       "url": "https://open.spotify.com/track/6qvtoU0gbkaOcTx6mnVDgV"
@@ -9474,7 +9760,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 213791,
       "name": "STRANGERS",
       "url": "https://open.spotify.com/track/7jF5V0KISfBLyVO5eF4D1w"
@@ -9528,7 +9814,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 205205,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/3LBM25IgxI9y549SiYxtSi"
@@ -9990,7 +10276,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 205663,
       "name": "The Beach",
       "url": "https://open.spotify.com/track/1QRpKIlwwqXxDgQEXSvR92"
@@ -10407,6 +10693,24 @@
     },
     {
       "album": {
+        "name": "AG! Calling",
+        "url": "https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191186,
+      "name": "Tokyo Calling",
+      "url": "https://open.spotify.com/track/7Gke62gU7kbBjQ7ucS4bLF"
+    },
+    {
+      "album": {
         "name": "tonight",
         "url": "https://open.spotify.com/album/6S99rpqeEMctqNEs43xmOW"
       },
@@ -10422,6 +10726,24 @@
       "duration_ms": 200212,
       "name": "tonight",
       "url": "https://open.spotify.com/track/4WGFnr5oQ7JzIORYDWwA4S"
+    },
+    {
+      "album": {
+        "name": "AG! Calling",
+        "url": "https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156560,
+      "name": "Toryanse",
+      "url": "https://open.spotify.com/track/4i48TEB2wcgSF3QKbbeBCt"
     },
     {
       "album": {
@@ -10640,7 +10962,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 171741,
       "name": "TWENTIES",
       "url": "https://open.spotify.com/track/3HYUSkSJ0iQfocqdJmJqKw"
@@ -11494,6 +11816,24 @@
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+    },
+    {
+      "album": {
+        "name": "WOO! GO!",
+        "url": "https://open.spotify.com/album/7pmx3ituzMLw4RqbBouUCQ"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199413,
+      "name": "WOO! GO!",
+      "url": "https://open.spotify.com/track/2kJ8ITd6fyRrRW6N8xvFtc"
     },
     {
       "album": {
@@ -12537,6 +12877,28 @@
     },
     {
       "album": {
+        "name": "\u9752\u6625\u6c38\u9060",
+        "url": "https://open.spotify.com/album/4klpOxb4XO8sEHQ7Ngv1gF"
+      },
+      "artists": [
+        {
+          "name": "Shonan No Kaze",
+          "url": "https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p"
+        },
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265053,
+      "name": "\u9752\u6625\u6c38\u9060",
+      "url": "https://open.spotify.com/track/1aO9Nxg1ImfpEs70YLAiuT"
+    },
+    {
+      "album": {
         "name": "\u99ac\u9e7f\u306e\u4e00\u3064\u899a\u3048",
         "url": "https://open.spotify.com/album/642fgL8oxHNZtNOsB2ZRBK"
       },
@@ -12642,6 +13004,28 @@
       "duration_ms": 228635,
       "name": "\uae30\uc5b5\ud574\uc918\uc694 \ub0b4 \ubaa8\ub4e0 \ub0a0\uacfc \uadf8\ub54c\ub97c",
       "url": "https://open.spotify.com/track/3OqE4AVDie6l1gjoXGAQQR"
+    },
+    {
+      "album": {
+        "name": "\ub098\ub780\ud788 \ub098\ub780\ud788 (feat. ATARASHII GAKKO!)",
+        "url": "https://open.spotify.com/album/1rlMLLKihzjtrNCmSZ5eyH"
+      },
+      "artists": [
+        {
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+        },
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224297,
+      "name": "\ub098\ub780\ud788 \ub098\ub780\ud788 (feat. ATARASHII GAKKO!)",
+      "url": "https://open.spotify.com/track/33UW0S5w5bBTaB5GD96RW7"
     },
     {
       "album": {

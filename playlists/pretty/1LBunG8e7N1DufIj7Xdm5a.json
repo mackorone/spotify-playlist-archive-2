@@ -6,8 +6,24 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAG4B4QtzN+m6R8BX/c6mTnMp3JLqSI",
+  "snapshot_id": "AAAG4wbjfBv6QKtfU3J14jyWgf4XwW44",
   "tracks": [
+    {
+      "added_at": "2026-01-25 01:50:01",
+      "album": {
+        "name": "SCAPPA AL PIGNETO CON ME",
+        "url": "https://open.spotify.com/album/7deV32wgW562hlmDmbY99h"
+      },
+      "artists": [
+        {
+          "name": "EDY",
+          "url": "https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV"
+        }
+      ],
+      "duration_ms": 192626,
+      "name": "SCAPPA AL PIGNETO CON ME",
+      "url": "https://open.spotify.com/track/0T7XzcrGUy1kEMn5jAZ6IZ"
+    },
     {
       "added_at": "2026-01-24 06:28:39",
       "album": {
@@ -199,22 +215,6 @@
       "duration_ms": 188000,
       "name": "Resti addosso e poi scompari",
       "url": "https://open.spotify.com/track/0agxfqN1nPIXw72KDMl78t"
-    },
-    {
-      "added_at": "2026-01-12 10:39:08",
-      "album": {
-        "name": "Greatest Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/1k7DZX3OogiMcHFOjTOtFQ"
-      },
-      "artists": [
-        {
-          "name": "Miguel De La Wiest",
-          "url": "https://open.spotify.com/artist/26hbbPnAg9VCscmcsIGXY6"
-        }
-      ],
-      "duration_ms": 278528,
-      "name": "Peacemakers",
-      "url": "https://open.spotify.com/track/7K8F1C4dcNao9gJOUiR8mc"
     },
     {
       "added_at": "2026-01-10 23:52:02",

@@ -243,6 +243,32 @@
     },
     {
       "album": {
+        "name": "TECH DOGZ II",
+        "url": "https://open.spotify.com/album/1Hlu9Yleh8ozXFgAHxYYiz"
+      },
+      "artists": [
+        {
+          "name": "Ame 2.0",
+          "url": "https://open.spotify.com/artist/1XlwE6XhQCFKpTmZWEDY96"
+        },
+        {
+          "name": "Reaven",
+          "url": "https://open.spotify.com/artist/5AnTcvE6arU9JZIUSelJV1"
+        },
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139353,
+      "name": "ADRENALINA (feat. Nerone)",
+      "url": "https://open.spotify.com/track/7I45z4AJ3HncPk4OBGWPyJ"
+    },
+    {
+      "album": {
         "name": "LISTA 47",
         "url": "https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4"
       },
@@ -2774,7 +2800,7 @@
       ],
       "date_added": "2025-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 148105,
       "name": "G Class",
       "url": "https://open.spotify.com/track/4XcQdx9CH6hjwBkgsZNGIh"

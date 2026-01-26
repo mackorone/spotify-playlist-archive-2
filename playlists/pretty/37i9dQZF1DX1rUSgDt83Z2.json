@@ -1,6 +1,6 @@
 {
   "description": "Fijn voor thuis of op werk. Helemaal van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 44389,
+  "num_followers": 44412,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -859,26 +859,6 @@
     {
       "added_at": "2026-01-08 23:00:13",
       "album": {
-        "name": "Oog van de Orkaan",
-        "url": "https://open.spotify.com/album/7cSCqm3G9fVViBjTEh3YAT"
-      },
-      "artists": [
-        {
-          "name": "Bart Voncken",
-          "url": "https://open.spotify.com/artist/313iy3CDtL0MAqtm6ObDTa"
-        },
-        {
-          "name": "Dwight Dissels",
-          "url": "https://open.spotify.com/artist/6mJqqz8Dra13cr75NGhC7f"
-        }
-      ],
-      "duration_ms": 178837,
-      "name": "Oog van de Orkaan",
-      "url": "https://open.spotify.com/track/4Q2nXiRdHJotWpLrtYQhlw"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
         "name": "Wegwerpliefde",
         "url": "https://open.spotify.com/album/4nF1DWMvzLvI8LIx3UUrdn"
       },
@@ -891,6 +871,22 @@
       "duration_ms": 181823,
       "name": "Ik Heb Je Gemist",
       "url": "https://open.spotify.com/track/3cHSCDCPYczMfKrSOLChKM"
+    },
+    {
+      "added_at": "2026-01-08 23:00:13",
+      "album": {
+        "name": "Zij Bij Mij",
+        "url": "https://open.spotify.com/album/3suqFdXc38laVrVYAD5PiD"
+      },
+      "artists": [
+        {
+          "name": "Leev",
+          "url": "https://open.spotify.com/artist/7FKzn9rRpQYeNSouksgMzy"
+        }
+      ],
+      "duration_ms": 132754,
+      "name": "Zij Bij Mij",
+      "url": "https://open.spotify.com/track/1HQyIisTd4Q3F0wLaGCijN"
     }
   ],
   "unique_name": "Helemaal NL",

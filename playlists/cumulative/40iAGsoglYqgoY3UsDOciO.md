@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-467 songs - 22 hr 44 min
+469 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Clarity](https://open.spotify.com/track/7BcPGHMy13w7PUg7BGOByO) | [Zarius](https://open.spotify.com/artist/2Q20E4muR026ErmtLCdkaD) | [Clarity](https://open.spotify.com/album/79DX18dJbTqZHdlodMJhXP) | 2:54 | 2024-11-17 |  |
 | [Cold Feet](https://open.spotify.com/track/4r8NdMHuOBNGEWrDCC9cHX) | [GZO](https://open.spotify.com/artist/789DyDVxb4jGQhG77USlEu), [LUXX](https://open.spotify.com/artist/2DvjJt2WyzJUQKn1WN3B7p) | [Cold Feet](https://open.spotify.com/album/38ZHX4KUz8zyL3KQZhXdJb) | 2:34 | 2024-07-30 |  |
 | [Cold In The Ends](https://open.spotify.com/track/7bd3rKVP2Oa6wymNgQ3Pml) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [Furkan Salihoğlu](https://open.spotify.com/artist/57GkQqYr6Oz8u25XMzZCm4), [BMG $WAY](https://open.spotify.com/artist/23KAGGIw9VGyoI2o4TZcZG), [Bobby Trixx](https://open.spotify.com/artist/0ehM0eNl0o2Dzf4PNtiWBo) | [Cold In The Ends](https://open.spotify.com/album/5g7GDLA3mS66xffaLrteVB) | 2:46 | 2024-12-13 |  |
+| [COMPLICADO](https://open.spotify.com/track/4lu4tVLVkmo85xt060ArxH) | [LuisEnrique NR](https://open.spotify.com/artist/4n8ZCRYPCJshSuomDy6HIz) | [COMPLICADO](https://open.spotify.com/album/3oe8HHqY1SpLeHuh4gpsXJ) | 1:34 | 2026-01-25 |  |
 | [confession](https://open.spotify.com/track/5djCXxJkPh9kQglP1AybZ0) | [Skyl Panameraa](https://open.spotify.com/artist/0QW6dSzw0EqIIBQJrGq1Kd) | [confession](https://open.spotify.com/album/6R7EPOzMfXa0hbRtBZCMr4) | 2:26 | 2025-06-10 |  |
 | [Consciente](https://open.spotify.com/track/2jYPMZYfyQW6JDFRvAZ6bj) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Consciente](https://open.spotify.com/album/0SspSM2x2p8KuSVgsfJ1vR) | 3:05 | 2024-06-26 |  |
 | [Coping Method](https://open.spotify.com/track/1ZCC8zhSau26UetbqPq6RR) | [Street Da ' Villan](https://open.spotify.com/artist/1lrsVkhRGZJrjrigLMfewg), [Traumabeats](https://open.spotify.com/artist/3Zb8cqffpFIy8LLDo5YBA4) | [Coping Method](https://open.spotify.com/album/2jwzIgkaMQoVgkqaLuoAIz) | 3:36 | 2024-11-20 |  |
@@ -162,6 +163,7 @@
 | [Gentle](https://open.spotify.com/track/0oKs72KHd2wP8A0ZFG2ka5) | [Alexander Y](https://open.spotify.com/artist/5DGwBUmCk8vssAO6l85Qt1) | [Memories Advice](https://open.spotify.com/album/6hWGGkFYDM3NPPjbig6XrL) | 3:44 | 2024-06-06 |  |
 | [GET IT RIGHT](https://open.spotify.com/track/4SBFa6XBCqhFCAuQYfJmop) | [808 Corari](https://open.spotify.com/artist/5INzhTZDn49qwwLnavz9Hi) | [GET IT RIGHT](https://open.spotify.com/album/5m8KkCdJHYwEfu9NCou5Gf) | 1:45 | 2025-10-08 |  |
 | [GHOST, Pt\. 2 \- Original Mix](https://open.spotify.com/track/6KHP5Uz4H9QcbqZM3n84x6) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [RedAlertBeatz](https://open.spotify.com/artist/0biOieKR7dekHHdJdPn0yY) | [GHOST, Pt\. 2 \(Original Mix\)](https://open.spotify.com/album/1HMxdJ6F51gRGACWmZxnej) | 2:39 | 2024-11-17 |  |
+| [Golpe de Locura \- Acústico](https://open.spotify.com/track/29UcZZnHoCLAlUnDrafQLv) | [Alfa Mental](https://open.spotify.com/artist/4KYCZqSLE3AbaFYm3rQeK2), [Bob Sandax](https://open.spotify.com/artist/27z4BX6gHwpl3kU7mRK8F5), [CreatorM](https://open.spotify.com/artist/3gZCwPAk8hQOYLQT6Sj1SO), [Crisyan](https://open.spotify.com/artist/3hwpZEvlRfuYS4z2yHOSl2) | [Golpe de Locura \(Acústico\)](https://open.spotify.com/album/5IUF9gGzXcI2B6JgAGCNUH) | 3:07 | 2026-01-25 |  |
 | [Good Investment](https://open.spotify.com/track/0LC2d8Y9mMmn8UNcFpJ9wy) | [GoodGuy](https://open.spotify.com/artist/18SvuiHWFjBbnS32hD7yrf), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Good Investment](https://open.spotify.com/album/6dFt0Ek41cpYYy5qKZKiru) | 2:48 | 2024-06-28 |  |
 | [Gossip](https://open.spotify.com/track/10yVyXUnYPVOFszlBHdtZF) | [Monte Hershkowitz](https://open.spotify.com/artist/0iSr1a8fTjXfB5La1Ds1y7) | [Bad Habits](https://open.spotify.com/album/6K8Ev7z2EtcFiZKqzNXZCj) | 1:58 | 2024-06-03 |  |
 | [Got It All](https://open.spotify.com/track/61AVvUrUzIlojOnollk1Ny) | [Ashton Adams](https://open.spotify.com/artist/0f5SnZVfjAD68hcPFGOsJz) | [Got It All](https://open.spotify.com/album/0HvVGX1OrdkQJB6mnlibUF) | 2:26 | 2024-09-10 |  |

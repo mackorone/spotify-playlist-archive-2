@@ -724,7 +724,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 183517,
       "name": "California Rain",
       "url": "https://open.spotify.com/track/0HjL890CF6dyZIW4EEdxyh"
@@ -1836,6 +1836,24 @@
       "duration_ms": 154366,
       "name": "Fidelio",
       "url": "https://open.spotify.com/track/4IBTU8b4bM3ycYYrvwcURk"
+    },
+    {
+      "album": {
+        "name": "FIGURED YOU OUT",
+        "url": "https://open.spotify.com/album/1vVgp9NEKp3kM3tR4h5DYX"
+      },
+      "artists": [
+        {
+          "name": "Devkota",
+          "url": "https://open.spotify.com/artist/5e48iUv2r7DgotDwhI9Ulm"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131198,
+      "name": "FIGURED YOU OUT",
+      "url": "https://open.spotify.com/track/7bLm3Wjv9zQF7Sc2PpDCvR"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is The Jones Girls. The essential tracks, all in one playlist.",
-  "num_followers": 3527,
+  "num_followers": 3530,
   "original_name": "This Is The Jones Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXK6AAAAAACxeG0aqqMfwZiCfuTWdiUH",
+  "snapshot_id": "aXQLgAAAAADFMOBGwun2weQBI5fQAM3q",
   "tracks": [
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 275920,
-      "name": "Love Don't Ever Say Goodbye",
-      "url": "https://open.spotify.com/track/4bAEG1ZYfkMCT3SdDRqTzw"
+      "duration_ms": 249426,
+      "name": "(I Found) That Man of Mine",
+      "url": "https://open.spotify.com/track/4ykwkuk4VAGCCF82pMadSE"
     },
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 249426,
-      "name": "(I Found) That Man of Mine",
-      "url": "https://open.spotify.com/track/4ykwkuk4VAGCCF82pMadSE"
+      "duration_ms": 275920,
+      "name": "Love Don't Ever Say Goodbye",
+      "url": "https://open.spotify.com/track/4bAEG1ZYfkMCT3SdDRqTzw"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 270666,
-      "name": "You Threw Our Love Away",
-      "url": "https://open.spotify.com/track/2VeJDRAffO2knNj1RuUYAI"
+      "duration_ms": 245600,
+      "name": "Somewhere Alone Tonight",
+      "url": "https://open.spotify.com/track/7p8yn1qom6ABw7zFTYvM6b"
     },
     {
       "added_at": null,
@@ -860,25 +860,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 245600,
-      "name": "Somewhere Alone Tonight",
-      "url": "https://open.spotify.com/track/7p8yn1qom6ABw7zFTYvM6b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music Merchant A-Sides (The Holland Dozier Holland 45s)",
-        "url": "https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 155186,
-      "name": "Come Back",
-      "url": "https://open.spotify.com/track/4iVah9x9HIl1Zpo54O4uec"
+      "duration_ms": 270666,
+      "name": "You Threw Our Love Away",
+      "url": "https://open.spotify.com/track/2VeJDRAffO2knNj1RuUYAI"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes us feel interesting, featuring TTSSFU.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,928 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,919 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 79 | [Far Away So Close \- Radio Edit](https://open.spotify.com/track/4dpMSYudYsJR1nPQfkcuPe) | [Why Horses?](https://open.spotify.com/artist/1R0IeELEhgNJjMfuXPHYjy) | [Far Away So Close \(Radio Edit\)](https://open.spotify.com/album/1F8X82Xvo6PPVZdoAgGWf2) | 3:13 |
 | 80 | [Kraut](https://open.spotify.com/track/29pzCVABjlBFfMLlgg3AKd) | [Clutter](https://open.spotify.com/artist/5HnivENHHPzXpjX0SIRVGq) | [Kraut](https://open.spotify.com/album/1JAoPZrG9rUe9o55VpjNaa) | 2:53 |
 
-Snapshot ID: `AAAAAMtas/VojzwxvY2II7ht8vKFd+26`
+Snapshot ID: `AAAAALyANOLi888v0yXrzy/hVh4OU/bH`

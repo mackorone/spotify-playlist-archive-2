@@ -1451,6 +1451,24 @@
     },
     {
       "album": {
+        "name": "Cool, Boy",
+        "url": "https://open.spotify.com/album/2NbCNPhcg1cLBGsmyqrzZq"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167560,
+      "name": "Cool, Boy",
+      "url": "https://open.spotify.com/track/1qzSriNzypG0Y1VJmQji4I"
+    },
+    {
+      "album": {
         "name": "It's okay, U're only 17",
         "url": "https://open.spotify.com/album/0Jqc47mm8odLr6bzsFbDtu"
       },
@@ -6164,7 +6182,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 260318,
       "name": "So Many Days",
       "url": "https://open.spotify.com/track/3thr1gl0sDyirwmjHU8vuO"

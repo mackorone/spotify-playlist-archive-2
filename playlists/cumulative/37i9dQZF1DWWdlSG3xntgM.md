@@ -2,7 +2,7 @@
 
 ### [Bolero Tuyệt Phẩm](https://open.spotify.com/playlist/37i9dQZF1DWWdlSG3xntgM)
 
-> Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
+> Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Lệ Quyên
 
 342 songs - 1 day 5 hr 50 min
 
@@ -30,7 +30,7 @@
 | [Cho Vừa Lòng Em](https://open.spotify.com/track/6GNpeqpRmnw1vd7Qwikxur) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Đêm Tâm Sự \(Khúc Tình Xưa 3\)](https://open.spotify.com/album/1u3z4jXHWQlbn6as6GECjV) | 5:18 | 2025-05-23 |  |
 | [Cho Vừa Lòng Em](https://open.spotify.com/track/1YKdd2qGWbHTlUPICTZ9b8) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Tuấn Vũ \- Tuyệt Phẩm Để Đời](https://open.spotify.com/album/7dXRbsTyd3zxiA931DSi6k) | 5:49 | 2023-10-06 | 2023-10-13 |
 | [Cho Vừa Lòng Em](https://open.spotify.com/track/6UD98g4tbiLzjas9m81jpo) | [Đàm Vĩnh Hưng](https://open.spotify.com/artist/4ht0wODL01ELRxlDYvsFad) | [Qua Cơn Mê](https://open.spotify.com/album/5e8L4OFh0PSEKzWYKY9uAK) | 5:31 | 2022-03-11 | 2022-07-28 |
-| [Chuyen Tinh Khong Di Vang](https://open.spotify.com/track/5ygjBNNPEdVjmUmWxzEJ7V) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Chuyen Doi Toi Tuan Vu, Vol\. 6](https://open.spotify.com/album/5p3HfLsl5TsfCABDfvh9VY) | 5:29 | 2024-05-27 |  |
+| [Chuyen Tinh Khong Di Vang](https://open.spotify.com/track/5ygjBNNPEdVjmUmWxzEJ7V) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Chuyen Doi Toi Tuan Vu, Vol\. 6](https://open.spotify.com/album/5p3HfLsl5TsfCABDfvh9VY) | 5:29 | 2024-05-27 | 2026-01-26 |
 | [Chuyen Tinh Nguoi Dan Ao](https://open.spotify.com/track/4ySMmjCyJvFt3eMbIjFyv7) | [Thái Châu](https://open.spotify.com/artist/5AnqQwU6JkgU0dFmFKI6dM) | [Hoang Vu](https://open.spotify.com/album/3mbToXjyHoSaiHnFweVJuJ) | 6:01 | 2025-06-03 | 2025-11-07 |
 | [Chuyến tàu hoàng hôn](https://open.spotify.com/track/1Cx6Fu7TJGFUlly9wLGgwN) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn) | [Thương Về Miền Trung](https://open.spotify.com/album/3N6nwHtcPzuxlnwWFj4jYA) | 5:36 | 2022-03-11 |  |
 | [Chuyến Tàu Hoàng Hôn](https://open.spotify.com/track/1MypNXhY8KUMLdRxeQNmPO) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Bolero Edition](https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL) | 4:55 | 2022-03-11 |  |
@@ -55,7 +55,7 @@
 | [Con Đường Xưa Em Đi](https://open.spotify.com/track/1EUto6KDh02A83gyKMtKcn) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Song Ca Nhạc Vàng Bolero Và Remix Phần 1](https://open.spotify.com/album/6Hagz8ylcRuUBQx3gd357q) | 5:00 | 2022-03-11 | 2024-03-31 |
 | [Con Đường Xưa Em Đi](https://open.spotify.com/track/6CqHwBAS6vfFTIOn32rXBx) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Song Ca Nhạc Vàng Bolero Và Remix Phần 1](https://open.spotify.com/album/2NBPdegSd3xTTGWCergkHv) | 5:00 | 2022-03-11 | 2022-07-28 |
 | [Cánh Thiệp Đầu Xuân](https://open.spotify.com/track/3beFADyq1haT57xOWdJ7cp) | [Hương Lan](https://open.spotify.com/artist/7KOMoBXp30tI5E6SA0NQVn) | [Cánh Thiệp Đầu Xuân](https://open.spotify.com/album/67n4hM18Uq3U44IF2hAgk5) | 7:02 | 2024-02-09 | 2024-02-22 |
-| [Cánh thiệp đầu xuân](https://open.spotify.com/track/4nkHIoot7Wc5JipAwybMKP) | [Thanh Thúy](https://open.spotify.com/artist/6oO3gusjsenDOQn8RDr5JS) | [Tôi Chưa Có Mùa Xuân](https://open.spotify.com/album/7fHOU3HrRkkIMcAnzfHI6U) | 5:15 | 2024-01-05 | 2026-01-25 |
+| [Cánh thiệp đầu xuân](https://open.spotify.com/track/4nkHIoot7Wc5JipAwybMKP) | [Thanh Thúy](https://open.spotify.com/artist/6oO3gusjsenDOQn8RDr5JS) | [Tôi Chưa Có Mùa Xuân](https://open.spotify.com/album/7fHOU3HrRkkIMcAnzfHI6U) | 5:15 | 2024-01-05 |  |
 | [Câu Chuyện Đầu Năm](https://open.spotify.com/track/4GuZ4SLagYyqoAD9jdpWjS) | [Trúc Anh](https://open.spotify.com/artist/2dcasicpv6Bx12Vd2IfqnH) | [Nhạc Xuân Bolero Trữ Tình](https://open.spotify.com/album/2PKdm4KxE5Ajr6HUkdBVZd) | 5:28 | 2024-01-23 | 2024-02-22 |
 | [Câu Hẹn Câu Thề](https://open.spotify.com/track/1l2O6oQQtaexyYc96pCLWS) | [Hồ Phương Liên](https://open.spotify.com/artist/1xqw6I7JGeyBPQNJIwYaXU) | [Đừng Hẹn Kiếp Sau](https://open.spotify.com/album/7tVwaqiEYcsgc91i4cFzBh) | 5:25 | 2022-03-11 | 2023-06-17 |
 | [Cô hàng xóm](https://open.spotify.com/track/41QWHc2i7wfWdJAvTw0372) | [Duy Khanh](https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O) | [Bao giờ em quên \- Duy Khánh \- Hương Lan](https://open.spotify.com/album/5RvpBRgkklLKc05rL3TmKV) | 4:59 | 2023-10-06 | 2023-10-13 |

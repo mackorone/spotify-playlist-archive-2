@@ -1,12 +1,12 @@
 {
   "description": "This is Phoenix. The essential tracks, all in one playlist.",
-  "num_followers": 97394,
+  "num_followers": 97398,
   "original_name": "This Is Phoenix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXK6AAAAAAAcDaYabjzfj/ZSH4NclkYf",
+  "snapshot_id": "aXQLgAAAAAAgzGdzm3ayzxw+81o3rl/8",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 172040,
+      "name": "Alpha Zulu",
+      "url": "https://open.spotify.com/track/3cczdpndCyT8IpH5cm1IbJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 232680,
+      "name": "Tuttifrutti",
+      "url": "https://open.spotify.com/track/4WVvyh5TyJVoC51NX2kFyW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Winter Solstice (Braxe + Falcon Remix)",
         "url": "https://open.spotify.com/album/7ivaa2qMMkk1RfF1TDkcYz"
       },
@@ -423,38 +455,6 @@
       "duration_ms": 240156,
       "name": "Winter Solstice - Braxe + Falcon Remix",
       "url": "https://open.spotify.com/track/5Wa4A6bu00160DzJWdyiC7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ti Amo",
-        "url": "https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 232680,
-      "name": "Tuttifrutti",
-      "url": "https://open.spotify.com/track/4WVvyh5TyJVoC51NX2kFyW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alpha Zulu",
-        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 172040,
-      "name": "Alpha Zulu",
-      "url": "https://open.spotify.com/track/3cczdpndCyT8IpH5cm1IbJ"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 235773,
-      "name": "Goodbye Soleil",
-      "url": "https://open.spotify.com/track/1HENaoJQR9wPP97goBwQsX"
+      "duration_ms": 243733,
+      "name": "Fior di Latte",
+      "url": "https://open.spotify.com/track/7rYI7SpOhyz5nVvp0w994V"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 243733,
-      "name": "Fior di Latte",
-      "url": "https://open.spotify.com/track/7rYI7SpOhyz5nVvp0w994V"
+      "duration_ms": 235773,
+      "name": "Goodbye Soleil",
+      "url": "https://open.spotify.com/track/1HENaoJQR9wPP97goBwQsX"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 184120,
-      "name": "All Eyes on Me",
-      "url": "https://open.spotify.com/track/3xOj709WgIHbwiwvgjAHLg"
+      "duration_ms": 209093,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/3jGODTQ4xpSLp8zOby4H63"
     },
     {
       "added_at": null,
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 209093,
-      "name": "The Only One",
-      "url": "https://open.spotify.com/track/3jGODTQ4xpSLp8zOby4H63"
+      "duration_ms": 184120,
+      "name": "All Eyes on Me",
+      "url": "https://open.spotify.com/track/3xOj709WgIHbwiwvgjAHLg"
     },
     {
       "added_at": null,

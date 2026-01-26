@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > Fresh from the recording to your ears\. Latest Hindi music, right here\. Cover \- Border 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 898,827 likes - 76 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 898,980 likes - 76 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

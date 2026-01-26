@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos de Trap Latino  📸 LIT Killah.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,124,060 likes - 102 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,124,008 likes - 102 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

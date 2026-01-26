@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Tiger JK & Yoon Mirae\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,098 likes - 81 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,130 likes - 81 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

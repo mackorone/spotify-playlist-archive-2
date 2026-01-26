@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXK6AAAAAAC0JsKHVbwq+Y4ESLzwVrRM",
+  "snapshot_id": "aXQLgAAAAABY3+FloszDBfWYk8Tx5ygp",
   "tracks": [
     {
       "added_at": null,
@@ -515,6 +515,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
+        "url": "https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "BC Kingdom",
+          "url": "https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP"
+        }
+      ],
+      "duration_ms": 251189,
+      "name": "Pony Whip",
+      "url": "https://open.spotify.com/track/1ORL2w9mpbWLUT6lHcqOgs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/5HR24TLfeGpDT860C7qka9"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 272524,
       "name": "9 (After Coachella) (feat. M\u00d8 & SOPHIE)",
       "url": "https://open.spotify.com/track/66QK2ov3jneXmdquV0JpZ1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
-        "url": "https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "BC Kingdom",
-          "url": "https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP"
-        }
-      ],
-      "duration_ms": 251189,
-      "name": "Pony Whip",
-      "url": "https://open.spotify.com/track/1ORL2w9mpbWLUT6lHcqOgs"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
+        "url": "https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 191949,
+      "name": "XTC Acid",
+      "url": "https://open.spotify.com/track/3OEWAz5xzGYEBdXhnP65KI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CHEETAH BEND",
         "url": "https://open.spotify.com/album/2kVNzMqVeQItTdeebUtWnb"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 200287,
       "name": "METAL",
       "url": "https://open.spotify.com/track/7afPjxQevZSbFzo77zDO2G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
-        "url": "https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 191949,
-      "name": "XTC Acid",
-      "url": "https://open.spotify.com/track/3OEWAz5xzGYEBdXhnP65KI"
     },
     {
       "added_at": null,

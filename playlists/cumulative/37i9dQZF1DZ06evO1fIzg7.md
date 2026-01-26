@@ -4,7 +4,7 @@
 
 > This is Sophie Ellis\-Bextor\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 27 min
+57 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Get Over You](https://open.spotify.com/track/0r8U4M18cn9WGWWlVIfQ7i) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips \(Deluxe Version\)](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:15 | 2025-10-28 |  |
 | [Glamorous](https://open.spotify.com/track/21phwdMQD03XnSLUD9MRBg) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 3:21 | 2025-10-28 |  |
 | [Groovejet \(If This Ain't Love\)](https://open.spotify.com/track/1o2QXBJvkXTgDDM6EvjU9I) | [Spiller](https://open.spotify.com/artist/4bmymFwDu9zLCiTRUmrewb), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Groovejet \(If This Ain't Love\)](https://open.spotify.com/album/5zReRXnW4GnxbcHKsvMcHW) | 3:47 | 2025-10-28 |  |
-| [Heartbreak \(Make Me a Dancer\)](https://open.spotify.com/track/4By3KHnU2rwtFyIJXLrjFj) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Freemasons](https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR) | [Songs from the Kitchen Disco: Sophie Ellis\-Bextor's Greatest Hits](https://open.spotify.com/album/1Ow8exCwrgZjMEyKo53sKV) | 3:26 | 2025-10-28 |  |
+| [Heartbreak \(Make Me a Dancer\)](https://open.spotify.com/track/4By3KHnU2rwtFyIJXLrjFj) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Freemasons](https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR) | [Songs from the Kitchen Disco: Sophie Ellis\-Bextor's Greatest Hits](https://open.spotify.com/album/1Ow8exCwrgZjMEyKo53sKV) | 3:26 | 2025-10-28 | 2026-01-26 |
+| [Heartbreak \(Make Me a Dancer\) \- feat\. Sophie Ellis\-Bextor](https://open.spotify.com/track/0msTapnGIxP9dLS0h5TCvO) | [Freemasons](https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Heartbreak \(Make Me a Dancer\) \[feat\. Sophie Ellis\-Bextor\]](https://open.spotify.com/album/3Yw7GfdW8sMnJ57xZqYwFv) | 3:29 | 2026-01-26 |  |
 | [Hypnotized](https://open.spotify.com/track/5Ika1wiAaVETLx29jvWTTb) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Wuh Oh](https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8) | [Hypnotized](https://open.spotify.com/album/2XQSL4TRLtFvJhEKoLnY5U) | 3:02 | 2025-10-28 |  |
 | [I Won't Change You](https://open.spotify.com/track/08T5Bx6CoJS45Q5qDXmM9M) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Shoot From The Hip](https://open.spotify.com/album/75XTG3xz1tGYh2nAiNcs1P) | 3:39 | 2025-10-28 |  |
 | [If I Can't Dance](https://open.spotify.com/track/1FBPdXaWvaAOsoZxAkzDEz) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 3:23 | 2025-10-28 |  |

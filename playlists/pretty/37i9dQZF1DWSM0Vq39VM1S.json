@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388687,
+  "num_followers": 388757,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2026-01-15 23:00:37",
       "album": {
-        "name": "After the First Kiss",
-        "url": "https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 214756,
-      "name": "After the First Kiss",
-      "url": "https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0"
-    },
-    {
-      "added_at": "2026-01-15 23:00:37",
-      "album": {
         "name": "Pale Blue Eyes",
         "url": "https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 189905,
       "name": "Pale Blue Eyes",
       "url": "https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE"
+    },
+    {
+      "added_at": "2026-01-15 23:00:37",
+      "album": {
+        "name": "After the First Kiss",
+        "url": "https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 214756,
+      "name": "After the First Kiss",
+      "url": "https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0"
     },
     {
       "added_at": "2026-01-15 23:00:37",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-01-15 23:00:37",
       "album": {
+        "name": "Against The Current",
+        "url": "https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 216426,
+      "name": "Against The Current",
+      "url": "https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ"
+    },
+    {
+      "added_at": "2026-01-15 23:00:37",
+      "album": {
         "name": "BIG MONEY",
         "url": "https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 197116,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
-    },
-    {
-      "added_at": "2026-01-15 23:00:37",
-      "album": {
-        "name": "Against The Current",
-        "url": "https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 216426,
-      "name": "Against The Current",
-      "url": "https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ"
     },
     {
       "added_at": "2026-01-15 23:00:37",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-01-15 23:00:37",
       "album": {
-        "name": "That's What I Love",
-        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "That's What I Love",
-      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
-    },
-    {
-      "added_at": "2026-01-15 23:00:37",
-      "album": {
         "name": "Celebrate",
         "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
       },
@@ -507,22 +491,6 @@
     {
       "added_at": "2026-01-15 23:00:37",
       "album": {
-        "name": "A Couple Minutes (A COLORS SHOW)",
-        "url": "https://open.spotify.com/album/0Y8PvUegqIXcmldHdcIZy8"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 213120,
-      "name": "A Couple Minutes - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3LTaQFxe5oMgzS8wGkL5iy"
-    },
-    {
-      "added_at": "2026-01-15 23:00:37",
-      "album": {
         "name": "Back on the Road",
         "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
       },
@@ -539,18 +507,34 @@
     {
       "added_at": "2026-01-15 23:00:37",
       "album": {
-        "name": "Ridin'",
-        "url": "https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O"
+        "name": "A Couple Minutes (A COLORS SHOW)",
+        "url": "https://open.spotify.com/album/0Y8PvUegqIXcmldHdcIZy8"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 191244,
-      "name": "Walk The Way",
-      "url": "https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2"
+      "duration_ms": 213120,
+      "name": "A Couple Minutes - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3LTaQFxe5oMgzS8wGkL5iy"
+    },
+    {
+      "added_at": "2026-01-15 23:00:37",
+      "album": {
+        "name": "That's What I Love",
+        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "That's What I Love",
+      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
     },
     {
       "added_at": "2026-01-15 23:00:37",
@@ -571,22 +555,18 @@
     {
       "added_at": "2026-01-15 23:00:37",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4A1R2s1aeGoz8LoATTNNwH"
+        "name": "Ridin'",
+        "url": "https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O"
       },
       "artists": [
         {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        },
-        {
-          "name": "Boyish",
-          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 119140,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/232RM3E3HNMDxuLcXLSaYq"
+      "duration_ms": 191244,
+      "name": "Walk The Way",
+      "url": "https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2"
     },
     {
       "added_at": "2026-01-15 23:00:37",
@@ -639,6 +619,26 @@
       "duration_ms": 158546,
       "name": "you chose this",
       "url": "https://open.spotify.com/track/12CcA3RDkKo5U0lbNsCbSX"
+    },
+    {
+      "added_at": "2026-01-15 23:00:37",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4A1R2s1aeGoz8LoATTNNwH"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        },
+        {
+          "name": "Boyish",
+          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
+        }
+      ],
+      "duration_ms": 119140,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/232RM3E3HNMDxuLcXLSaYq"
     },
     {
       "added_at": "2026-01-15 23:00:37",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-01-15 23:00:37",
       "album": {
-        "name": "Flower of the soul (full bloom)",
-        "url": "https://open.spotify.com/album/0o2x4f45z6FIxPTC1ZkDcE"
-      },
-      "artists": [
-        {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
-        }
-      ],
-      "duration_ms": 143268,
-      "name": "Borrow mine",
-      "url": "https://open.spotify.com/track/3IB7RouchQngKLsY3ZWSS5"
-    },
-    {
-      "added_at": "2026-01-15 23:00:37",
-      "album": {
         "name": "Yours Or Mine",
         "url": "https://open.spotify.com/album/4TeFGNjeEzZytPpGiw81M2"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": "2026-01-15 23:00:37",
       "album": {
+        "name": "Flower of the soul (full bloom)",
+        "url": "https://open.spotify.com/album/0o2x4f45z6FIxPTC1ZkDcE"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "duration_ms": 143268,
+      "name": "Borrow mine",
+      "url": "https://open.spotify.com/track/3IB7RouchQngKLsY3ZWSS5"
+    },
+    {
+      "added_at": "2026-01-15 23:00:37",
+      "album": {
         "name": "Una lunghissima ombra",
         "url": "https://open.spotify.com/album/53VuM2XxkSpzalMQqmM7Jb"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 389173,
       "name": "Ricordo tattile",
       "url": "https://open.spotify.com/track/3Gk1uoZYoQ3dq3UqCEHdDC"
-    },
-    {
-      "added_at": "2026-01-15 23:00:37",
-      "album": {
-        "name": "Archwood (the playlist)",
-        "url": "https://open.spotify.com/album/3wvpoyNZog5TJ2RxK4euJz"
-      },
-      "artists": [
-        {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
-        }
-      ],
-      "duration_ms": 149546,
-      "name": "Wonderful World",
-      "url": "https://open.spotify.com/track/6nu3IwpAso6DJT3bXDwEiW"
     },
     {
       "added_at": "2026-01-15 23:00:37",
@@ -803,6 +787,22 @@
     {
       "added_at": "2026-01-15 23:00:37",
       "album": {
+        "name": "Archwood (the playlist)",
+        "url": "https://open.spotify.com/album/3wvpoyNZog5TJ2RxK4euJz"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "duration_ms": 149546,
+      "name": "Wonderful World",
+      "url": "https://open.spotify.com/track/6nu3IwpAso6DJT3bXDwEiW"
+    },
+    {
+      "added_at": "2026-01-15 23:00:37",
+      "album": {
         "name": "The Eyes Of C\u00e9cilia",
         "url": "https://open.spotify.com/album/0jNSfn0ePvYRkY3AofwJSt"
       },
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-01-15 23:00:37",
       "album": {
-        "name": "The Long Way Round (Deluxe)",
-        "url": "https://open.spotify.com/album/0dnzHJaJXNEEgpBvpe4J0A"
-      },
-      "artists": [
-        {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
-        }
-      ],
-      "duration_ms": 211844,
-      "name": "I Love You, But",
-      "url": "https://open.spotify.com/track/4JXugjlzGFW1TALHNfTqOp"
-    },
-    {
-      "added_at": "2026-01-15 23:00:37",
-      "album": {
         "name": "V I N C E N T",
         "url": "https://open.spotify.com/album/0trDWegHEv7XseWBMfZapf"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 236346,
       "name": "Us",
       "url": "https://open.spotify.com/track/7FW2ySkiy0xaE9GdZAFOxy"
+    },
+    {
+      "added_at": "2026-01-15 23:00:37",
+      "album": {
+        "name": "The Long Way Round (Deluxe)",
+        "url": "https://open.spotify.com/album/0dnzHJaJXNEEgpBvpe4J0A"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 211844,
+      "name": "I Love You, But",
+      "url": "https://open.spotify.com/track/4JXugjlzGFW1TALHNfTqOp"
     },
     {
       "added_at": "2026-01-15 23:00:37",
@@ -883,26 +883,6 @@
       "duration_ms": 186836,
       "name": "Pegasus (ft. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
-    },
-    {
-      "added_at": "2026-01-15 23:00:37",
-      "album": {
-        "name": "Make It Work",
-        "url": "https://open.spotify.com/album/4VC97qyEvXilPylVXxhcCB"
-      },
-      "artists": [
-        {
-          "name": "Papooz",
-          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
-        },
-        {
-          "name": "Erlend \u00d8ye",
-          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
-        }
-      ],
-      "duration_ms": 255877,
-      "name": "Make It Work",
-      "url": "https://open.spotify.com/track/7AgPGHkeXpj8yETLvBn3Kb"
     },
     {
       "added_at": "2026-01-15 23:00:37",
@@ -939,18 +919,22 @@
     {
       "added_at": "2026-01-15 23:00:37",
       "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC"
+        "name": "Make It Work",
+        "url": "https://open.spotify.com/album/4VC97qyEvXilPylVXxhcCB"
       },
       "artists": [
         {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+          "name": "Papooz",
+          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
+        },
+        {
+          "name": "Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
         }
       ],
-      "duration_ms": 146079,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD"
+      "duration_ms": 255877,
+      "name": "Make It Work",
+      "url": "https://open.spotify.com/track/7AgPGHkeXpj8yETLvBn3Kb"
     },
     {
       "added_at": "2026-01-15 23:00:37",
@@ -967,6 +951,22 @@
       "duration_ms": 213263,
       "name": "Slow Steps in the Snow",
       "url": "https://open.spotify.com/track/5OlRXnce75LJjS29TGnY3Z"
+    },
+    {
+      "added_at": "2026-01-15 23:00:37",
+      "album": {
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 146079,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD"
     },
     {
       "added_at": "2026-01-15 23:00:37",

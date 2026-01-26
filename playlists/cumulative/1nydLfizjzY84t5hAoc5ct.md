@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-127 songs - 7 hr 44 min
+129 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Bryan, Texas](https://open.spotify.com/track/6xOOo5A7IY0v6xM51YsWpr) | [Mike West](https://open.spotify.com/artist/4tTpvmcly5XOlMrMkx9RpF), [Myshkin](https://open.spotify.com/artist/6m0XoeEadMkDHRFSwjPMAM) | [Econoline](https://open.spotify.com/album/2qxqx6hKvsq8bORLJY2fwf) | 4:03 | 2025-12-14 |  |
 | [Catch Up](https://open.spotify.com/track/1JjF2sYadaF15UdqzMEdBT) | [Mike West](https://open.spotify.com/artist/4tTpvmcly5XOlMrMkx9RpF), [Myshkin](https://open.spotify.com/artist/6m0XoeEadMkDHRFSwjPMAM) | [Econoline](https://open.spotify.com/album/2qxqx6hKvsq8bORLJY2fwf) | 3:14 | 2025-12-14 |  |
 | [City Lights](https://open.spotify.com/track/6VqhEypvw8BUBzkQbDqQKR) | [Flair](https://open.spotify.com/artist/2FDBZdGWn8G6927XKL6cd4) | [City Lights](https://open.spotify.com/album/2vYOzOS4pOoEmiL2Iapli8) | 5:02 | 2025-11-16 | 2025-11-24 |
+| [Closer](https://open.spotify.com/track/2VNl1ygvFfGN4TW1U1UFhR) | [Quiet Man](https://open.spotify.com/artist/3iR41vQVaeF8kXhOWjAv3J) | [Closer](https://open.spotify.com/album/7DVDJeDFjoafoFF3E70NV4) | 4:24 | 2026-01-25 |  |
 | [Coffee Stain](https://open.spotify.com/track/2UR0P3gysmMEZ9SfntwlG0) | [Florence Jack](https://open.spotify.com/artist/4pmpDqVKHxD5w8lCH7vCvv) | [Coffee Stain](https://open.spotify.com/album/6hW4QKW2Bmzhtkrx4D28di) | 3:28 | 2025-11-16 | 2025-11-24 |
 | [Come Back Around](https://open.spotify.com/track/29mGQH5IRnERFVZvFYEVge) | [The Marches](https://open.spotify.com/artist/33CBupe8XtMytDavmFsAYK) | [Come Back Around](https://open.spotify.com/album/7bOtfDgtntSJT7pEpjUI1s) | 3:55 | 2025-11-16 | 2025-12-08 |
 | [Come To The Coast](https://open.spotify.com/track/5dDWYcW8wGU8LMwz49kmA4) | [Lewis Wiles](https://open.spotify.com/artist/5NE6yiNIyVj0T8tWCFbT4G) | [Come To The Coast](https://open.spotify.com/album/6aZm3sTKuN89opXSzY1GCY) | 3:39 | 2025-11-16 |  |
@@ -123,6 +124,7 @@
 | [The Mullets are Moving in](https://open.spotify.com/track/4HSQG4ln6ybxEup2PKwfHh) | [Doss](https://open.spotify.com/artist/3csu8AxiaJammKmr2EPtSe) | [The Mullets are Moving in](https://open.spotify.com/album/61Qwp1DqiJ3WcgsdfnsxZV) | 2:58 | 2026-01-11 |  |
 | [Too Wild To Last, Too Rare To Die](https://open.spotify.com/track/1DoOr5SQmYMisdMcUy0MtE) | [FAEDA](https://open.spotify.com/artist/5fC6wqfNjhmkVh6cYB4Gru) | [Too Wild To Last, Too Rare To Die](https://open.spotify.com/album/0BCU1vqSSANQ0IDqBw0DR1) | 2:07 | 2025-11-16 |  |
 | [Top \(I can see for miles\)](https://open.spotify.com/track/0kNruf2wYPoJHAzBiZIJT7) | [Delirium](https://open.spotify.com/artist/3OYzwHHHkiMSRo0bwhx8pO) | [Delirium \(home recordings\)](https://open.spotify.com/album/7KmenobD65pgvvV07IhcPl) | 4:48 | 2025-11-16 | 2025-11-24 |
+| [Treading Water](https://open.spotify.com/track/3hS9yNUGVXPll9amXpxiV1) | [Quiet Man](https://open.spotify.com/artist/3iR41vQVaeF8kXhOWjAv3J) | [Treading Water](https://open.spotify.com/album/7fNigTSU9ARHBXSxWlYZzi) | 4:12 | 2026-01-25 |  |
 | [TURN AROUND](https://open.spotify.com/track/3uUP0YYjP04xMBIRJ2dtrp) | [MOG](https://open.spotify.com/artist/1PeU4PsYtNaksLeuMOJM6n), [Roo Geddes](https://open.spotify.com/artist/6XDO2rklQELJT2IVlbVMO5), [Neil Sutcliffe](https://open.spotify.com/artist/6jX2zm5LaKgwIaWyjoxpVp), [Ewan Hastie](https://open.spotify.com/artist/03ajVwie49KhJaWvSg17ES) | [Lab Raps](https://open.spotify.com/album/3XLtGJwNwsFBrGSCVBnOlA) | 3:15 | 2025-12-28 |  |
 | [Unconditionally](https://open.spotify.com/track/36OMuCJLDppFYMpAiz02gP) | [Mossy](https://open.spotify.com/artist/3GoyRMYwSPCEPmqwXxvWr5) | [Unconditionally](https://open.spotify.com/album/5tDK0NIN6lhhu3K9eadq3J) | 3:46 | 2026-01-09 |  |
 | [Unstable Mabel](https://open.spotify.com/track/24tdhaAqsJUcHCue6iApD8) | [MANTEL](https://open.spotify.com/artist/5lrF1CXXspB352ZwLhO62d) | [Unstable Mabel](https://open.spotify.com/album/5H7MalTOtPa3uAbCdoaUeY) | 4:07 | 2025-11-23 |  |

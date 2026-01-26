@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 594508,
+  "num_followers": 594555,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXK6AAAAAACWoqCCYt0xJuRTtzKhnw9d",
+  "snapshot_id": "aXQLgAAAAAA82GHTpBiUetuQPGYw84x8",
   "tracks": [
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0BGTV9xi9NFdUjA3erGs1T"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 253333,
-      "name": "Charlotte Sometimes - Single Version",
-      "url": "https://open.spotify.com/track/1rs7lqaXBlcw1N9wuHiQyJ"
+      "duration_ms": 250653,
+      "name": "Cut Here",
+      "url": "https://open.spotify.com/track/1SuAd1VNCDpM2ovs1ic9tN"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap"
+        "name": "Faith (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0BGTV9xi9NFdUjA3erGs1T"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 250653,
-      "name": "Cut Here",
-      "url": "https://open.spotify.com/track/1SuAd1VNCDpM2ovs1ic9tN"
+      "duration_ms": 253333,
+      "name": "Charlotte Sometimes - Single Version",
+      "url": "https://open.spotify.com/track/1rs7lqaXBlcw1N9wuHiQyJ"
     },
     {
       "added_at": null,

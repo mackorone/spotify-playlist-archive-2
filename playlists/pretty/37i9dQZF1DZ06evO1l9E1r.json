@@ -1,12 +1,12 @@
 {
   "description": "This is Hildur Gu\u00f0nad\u00f3ttir. The essential tracks, all in one playlist.",
-  "num_followers": 2980,
+  "num_followers": 2982,
   "original_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXK6AAAAAAB/vw0bn9NRmwwPBrvglCV8",
+  "snapshot_id": "aXQLgAAAAAAqQbaQui/dr3b/MqGfAw3s",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "28 Years Later: The Bone Temple (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5R2yxwksIZvO0H4Pjw3nzy"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 195302,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/7IiCY7BuSZN8p2BxauLjZG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 159266,
+      "name": "Defeated Clown",
+      "url": "https://open.spotify.com/track/2S2ASICVK0L1LtjaysKsel"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Last And First Men",
         "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
       },
@@ -251,38 +283,6 @@
       "duration_ms": 199114,
       "name": "The Last Men",
       "url": "https://open.spotify.com/track/4uPeLt3BnHdxF9Wd9wjPZT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 159266,
-      "name": "Defeated Clown",
-      "url": "https://open.spotify.com/track/2S2ASICVK0L1LtjaysKsel"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "28 Years Later: The Bone Temple (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5R2yxwksIZvO0H4Pjw3nzy"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 195302,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/7IiCY7BuSZN8p2BxauLjZG"
     },
     {
       "added_at": null,
@@ -908,9 +908,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 181680,
-      "name": "Rennur Upp",
-      "url": "https://open.spotify.com/track/3aadTYskcptJckrvN1v8lo"
+      "duration_ms": 187853,
+      "name": "\u00deoka",
+      "url": "https://open.spotify.com/track/31WEeGxoifswtkt9sC7ajh"
     },
     {
       "added_at": null,
@@ -963,22 +963,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hedda (Music from the Original Motion Picture)",
-        "url": "https://open.spotify.com/album/4kvsPjFkVAyLMCLuYo3Bke"
+        "name": "Ser\u00eda II",
+        "url": "https://open.spotify.com/album/0m7wFViFP7uJh6UzL6YmDz"
       },
       "artists": [
+        {
+          "name": "Sk\u00fali Sverrisson",
+          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+        },
+        {
+          "name": "Eyvind Kang",
+          "url": "https://open.spotify.com/artist/2aNAAza1OIE1qrfLBlhLaV"
+        },
+        {
+          "name": "David Thor",
+          "url": "https://open.spotify.com/artist/5jOisMHFaDrZbEll6RFIZu"
+        },
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         },
         {
-          "name": "Hedda Cast",
-          "url": "https://open.spotify.com/artist/37RhMDib5XoGxV0dfEMtp1"
+          "name": "Amedeo",
+          "url": "https://open.spotify.com/artist/1tfE9aaX3ZUZa42ed0sbkT"
+        },
+        {
+          "name": "\u00d3l\u00f6f Arnalds",
+          "url": "https://open.spotify.com/artist/4S3XJRZ2bToEYIH1slOdl5"
+        },
+        {
+          "name": "Anthony Burr",
+          "url": "https://open.spotify.com/artist/16mJA7H6WaFvpuo24EIJXU"
         }
       ],
-      "duration_ms": 88624,
-      "name": "Crazy He Calls Me",
-      "url": "https://open.spotify.com/track/2BDpA0OUiL3GWODuKQxmDo"
+      "duration_ms": 238973,
+      "name": "The Sound of Snow",
+      "url": "https://open.spotify.com/track/3ZTtUYunsTuwaYTsGBEpsM"
     }
   ],
   "unique_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",

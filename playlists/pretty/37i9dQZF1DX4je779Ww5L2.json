@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 191373,
+  "num_followers": 191387,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,22 @@
     {
       "added_at": "2026-01-23 15:18:51",
       "album": {
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 211027,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2"
+    },
+    {
+      "added_at": "2026-01-23 15:18:51",
+      "album": {
         "name": "Son Of Spergy",
         "url": "https://open.spotify.com/album/2xyVcW7Xab4ITjIQ98ewZJ"
       },
@@ -87,22 +103,6 @@
     {
       "added_at": "2026-01-23 15:18:51",
       "album": {
-        "name": "Opening Night",
-        "url": "https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 211027,
-      "name": "Opening Night",
-      "url": "https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2"
-    },
-    {
-      "added_at": "2026-01-23 15:18:51",
-      "album": {
         "name": "Wither",
         "url": "https://open.spotify.com/album/67cUnpKyp9JRjQXOuXfvCM"
       },
@@ -115,6 +115,22 @@
       "duration_ms": 180173,
       "name": "Wither",
       "url": "https://open.spotify.com/track/75tuLoo93ovd5lSDWrTdpi"
+    },
+    {
+      "added_at": "2026-01-23 15:18:51",
+      "album": {
+        "name": "The Truth Can Wait",
+        "url": "https://open.spotify.com/album/65WxuSDxI1t7CsChCPUGlh"
+      },
+      "artists": [
+        {
+          "name": "Lum\u00ef",
+          "url": "https://open.spotify.com/artist/4YVmec1RYeLcalC4yvHv2T"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "The Truth Can Wait",
+      "url": "https://open.spotify.com/track/1gDi26EdEsBA6P9XqMODAb"
     },
     {
       "added_at": "2026-01-23 15:18:51",
@@ -135,22 +151,6 @@
       "duration_ms": 195999,
       "name": "Gown",
       "url": "https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh"
-    },
-    {
-      "added_at": "2026-01-23 15:18:51",
-      "album": {
-        "name": "The Truth Can Wait",
-        "url": "https://open.spotify.com/album/65WxuSDxI1t7CsChCPUGlh"
-      },
-      "artists": [
-        {
-          "name": "Lum\u00ef",
-          "url": "https://open.spotify.com/artist/4YVmec1RYeLcalC4yvHv2T"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "The Truth Can Wait",
-      "url": "https://open.spotify.com/track/1gDi26EdEsBA6P9XqMODAb"
     },
     {
       "added_at": "2026-01-23 15:18:51",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-01-23 15:18:51",
       "album": {
-        "name": "Bird Song (Acoustic)",
-        "url": "https://open.spotify.com/album/47UIzMPuChT62FODlRH5sF"
-      },
-      "artists": [
-        {
-          "name": "Celine Cairo",
-          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
-        }
-      ],
-      "duration_ms": 193038,
-      "name": "Bird Song - Acoustic",
-      "url": "https://open.spotify.com/track/6mqy5To9aDKB7pNLFwMQms"
-    },
-    {
-      "added_at": "2026-01-23 15:18:51",
-      "album": {
         "name": "Trigger",
         "url": "https://open.spotify.com/album/5PdcLSkMkoAU7GRGwyRflK"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 203615,
       "name": "Trigger",
       "url": "https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E"
+    },
+    {
+      "added_at": "2026-01-23 15:18:51",
+      "album": {
+        "name": "Bird Song (Acoustic)",
+        "url": "https://open.spotify.com/album/47UIzMPuChT62FODlRH5sF"
+      },
+      "artists": [
+        {
+          "name": "Celine Cairo",
+          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
+        }
+      ],
+      "duration_ms": 193038,
+      "name": "Bird Song - Acoustic",
+      "url": "https://open.spotify.com/track/6mqy5To9aDKB7pNLFwMQms"
     },
     {
       "added_at": "2026-01-23 15:18:51",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-01-23 15:18:51",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3XMCVhIHXHKrKaI2YL88Qy"
-      },
-      "artists": [
-        {
-          "name": "Sam De Nef",
-          "url": "https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/5DRhpU3EnIGQFqyUCNBHZP"
-    },
-    {
-      "added_at": "2026-01-23 15:18:51",
-      "album": {
         "name": "At The Party",
         "url": "https://open.spotify.com/album/5vnuxacWPnc7oQ1UZtNfSm"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 215000,
       "name": "At The Party",
       "url": "https://open.spotify.com/track/0eD9nDx3ZdZt5wzLOOUtxy"
+    },
+    {
+      "added_at": "2026-01-23 15:18:51",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3XMCVhIHXHKrKaI2YL88Qy"
+      },
+      "artists": [
+        {
+          "name": "Sam De Nef",
+          "url": "https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/5DRhpU3EnIGQFqyUCNBHZP"
     },
     {
       "added_at": "2026-01-23 15:18:51",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-01-23 15:18:51",
       "album": {
-        "name": "Leaving - Reminisce",
-        "url": "https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ"
-      },
-      "artists": [
-        {
-          "name": "Annelie",
-          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
-        }
-      ],
-      "duration_ms": 324453,
-      "name": "Leaving",
-      "url": "https://open.spotify.com/track/2BlK3gDtP5pgK11lVk3MsE"
-    },
-    {
-      "added_at": "2026-01-23 15:18:51",
-      "album": {
         "name": "Bleeding Colours",
         "url": "https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 220543,
       "name": "You",
       "url": "https://open.spotify.com/track/4iyMFaZq5EYehqeZo0VPhJ"
+    },
+    {
+      "added_at": "2026-01-23 15:18:51",
+      "album": {
+        "name": "Leaving - Reminisce",
+        "url": "https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ"
+      },
+      "artists": [
+        {
+          "name": "Annelie",
+          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
+        }
+      ],
+      "duration_ms": 324453,
+      "name": "Leaving",
+      "url": "https://open.spotify.com/track/2BlK3gDtP5pgK11lVk3MsE"
     },
     {
       "added_at": "2026-01-23 15:18:51",

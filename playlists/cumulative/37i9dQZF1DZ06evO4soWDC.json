@@ -718,10 +718,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 180229,
       "name": "Quicksand",
       "url": "https://open.spotify.com/track/1z8Cfz8TBBZHDeiDwZs2Xd"
+    },
+    {
+      "album": {
+        "name": "Loose Threads",
+        "url": "https://open.spotify.com/album/1icrFP0zNoQmzukq41iea0"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180229,
+      "name": "Quicksand",
+      "url": "https://open.spotify.com/track/52GXxByzG2G6fpo9b2zvpY"
     },
     {
       "album": {
@@ -754,7 +772,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 187101,
       "name": "Remiss of Me",
       "url": "https://open.spotify.com/track/3qQxv1BBsSnDtJE82pcLnR"
@@ -1064,7 +1082,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 199144,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/6VUcZGP4WHMArWaTwCqeRG"

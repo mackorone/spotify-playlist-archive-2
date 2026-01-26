@@ -7602,7 +7602,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 165015,
       "name": "back in that summer",
       "url": "https://open.spotify.com/track/5ES5eVjCtRw5DXQ87CDuKB"
@@ -17725,6 +17725,28 @@
     },
     {
       "album": {
+        "name": "Closer than the sky",
+        "url": "https://open.spotify.com/album/7k6BcY2jbUrVOhWF4E2ltd"
+      },
+      "artists": [
+        {
+          "name": "ChrisGCol",
+          "url": "https://open.spotify.com/artist/0w5xIHnOStrQPWy6BNWIFL"
+        },
+        {
+          "name": "Paula B",
+          "url": "https://open.spotify.com/artist/6Ir0G4hBaP4gT5Y2ritrnx"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Closer than the sky",
+      "url": "https://open.spotify.com/track/3yeC1HoVGJxk5KGAX4595T"
+    },
+    {
+      "album": {
         "name": "Closer to Myself",
         "url": "https://open.spotify.com/album/1NRZYUrqlO5JuUhADLh4sc"
       },
@@ -20748,7 +20770,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 192705,
       "name": "CRYING",
       "url": "https://open.spotify.com/track/4S3iO8Fhk4s6Jt0rE9zZ8B"
@@ -33454,7 +33476,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 224170,
       "name": "Fragments",
       "url": "https://open.spotify.com/track/5MtFKgN0y2xhrPxqTRvSaq"
@@ -47372,6 +47394,24 @@
       "duration_ms": 201202,
       "name": "Intuition",
       "url": "https://open.spotify.com/track/4laRXYXMuAsRmSzFFtSf7n"
+    },
+    {
+      "album": {
+        "name": "Int\u2019l Party",
+        "url": "https://open.spotify.com/album/3qz5xeWTSEdkBgRMk0Qxvh"
+      },
+      "artists": [
+        {
+          "name": "Adaorah",
+          "url": "https://open.spotify.com/artist/471qbXz9E4x8plVhUAKkmM"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155897,
+      "name": "Int\u2019l Party",
+      "url": "https://open.spotify.com/track/3eFn8wx9I80PliBsZeTt9q"
     },
     {
       "album": {
@@ -92152,7 +92192,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 144683,
       "name": "The Mad and Well Behaved",
       "url": "https://open.spotify.com/track/0pUtm3oEKSU9qZDWgJCNTs"

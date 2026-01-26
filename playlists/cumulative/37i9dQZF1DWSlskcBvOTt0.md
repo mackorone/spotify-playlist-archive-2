@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,054 songs - 3 day 15 hr 24 min
+1,055 songs - 3 day 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,6 +373,7 @@
 | [Hey Hey \- Jack Back Remix](https://open.spotify.com/track/1MLxfMNuBOYnCbZDMhb1Zl) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Hey Hey \(Jack Back Remix\)](https://open.spotify.com/album/28B0sfg0u9x74Z7gT6CLJD) | 2:29 | 2024-02-02 | 2024-11-09 |
 | [Hideaway](https://open.spotify.com/track/56efA4flKJ3mW9tGfIgcbD) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Never Tried](https://open.spotify.com/album/6otZKRIImjhnbP3cOcJPbF) | 4:29 | 2024-05-10 | 2024-08-17 |
 | [Hit the Ground](https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa) | [Texture](https://open.spotify.com/artist/1K3a2VWnyszfzzdnT8iu0e) | [Hit the Ground](https://open.spotify.com/album/7yD02x73angL1C9H4dfjCV) | 2:25 | 2025-06-06 |  |
+| [Hold It \(feat\. ZenTola\)](https://open.spotify.com/track/5ZYDjHYSe9IOE5MqkqOzuk) | [Maesic](https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [ZenTola](https://open.spotify.com/artist/3tLl7yUdX8XVzSAnAk27Lm) | [Hold It \(feat\. ZenTola\)](https://open.spotify.com/album/5L4nArWXeaa9kLWXuGNPzW) | 3:05 | 2026-01-23 |  |
 | [Hold Me](https://open.spotify.com/track/2zVvXkIvGus2Q1jjNGR0T2) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [ARA](https://open.spotify.com/artist/2hhItOB9DuMhxXkU26wgZK) | [Hold Me](https://open.spotify.com/album/3G2phCWDzdCXGUrUzgzIEB) | 4:18 | 2025-02-07 | 2025-11-08 |
 | [Holding On](https://open.spotify.com/track/4XZk8j2tyVDMoXjmblznuu) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Holding On](https://open.spotify.com/album/7eWioRNyXGjl0KnIeZIeHI) | 3:58 | 2024-02-23 | 2024-07-16 |
 | [Holding You](https://open.spotify.com/track/69IGLjobHJWBQUotPlqcsx) | [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Holding You](https://open.spotify.com/album/6VBIkxNYQ3dW1o6KVJMI8v) | 5:28 | 2024-12-20 | 2025-04-26 |
@@ -782,7 +783,7 @@
 | [Riga](https://open.spotify.com/track/4J0gDIw2chzeWkzkOZphHX) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW), [Marc Werner](https://open.spotify.com/artist/3LzUh1HW5SPWW2vElaLenr) | [Riga](https://open.spotify.com/album/3puESyF040eq4WYWJPSG4S) | 5:15 | 2025-01-17 |  |
 | [Rintintin](https://open.spotify.com/track/1VZup2QEUlkzPTfQ08S371) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Rintintin](https://open.spotify.com/album/1I4YDAPuikk1BrhVJRmV73) | 2:43 | 2025-08-22 | 2026-01-17 |
 | [Roads Of Gold](https://open.spotify.com/track/0QNzmM3G7YUm81329OwCHF) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Redward Martin](https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2) | [Roads Of Gold](https://open.spotify.com/album/6buk9gBgZX5FGqLc1PIvXo) | 8:58 | 2023-08-25 | 2023-11-09 |
-| [Rolling Thunder](https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Rolling Thunder](https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu) | 2:46 | 2025-07-11 |  |
+| [Rolling Thunder](https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Rolling Thunder](https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu) | 2:46 | 2025-07-11 | 2026-01-26 |
 | [Romance](https://open.spotify.com/track/0j17YePnS81vgykhzZuz1B) | [ARYMÉ](https://open.spotify.com/artist/5zdOlKWTERNvDJXkwMYRX6), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Romance](https://open.spotify.com/album/46U5yGeTP1Gl406GQLJ2dT) | 4:36 | 2025-09-05 | 2025-11-15 |
 | [Ronaparde](https://open.spotify.com/track/2NXEzL65lzjOTfMztPa3h1) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Ronaparde](https://open.spotify.com/album/0LkJgzIaYoBcjmr7rj131J) | 6:57 | 2022-09-16 | 2022-10-20 |
 | [ronju](https://open.spotify.com/track/26LNp0rYhFNLNh1I2fpaEA) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK), [Black Culture](https://open.spotify.com/artist/2331I1TOUrGnlIbG8Vs1gp), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [INÓ](https://open.spotify.com/album/5dKIhVTuAY4nhSDXroKMbw) | 3:18 | 2024-11-15 | 2024-12-12 |

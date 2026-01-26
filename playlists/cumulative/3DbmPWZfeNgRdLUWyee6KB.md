@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-522 songs - 1 day 7 hr 16 min
+523 songs - 1 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,6 +382,7 @@
 | [Set Me Free](https://open.spotify.com/track/1vMqPyUqPNh3OLIfVncwbq) | [Ann\-Cathrin](https://open.spotify.com/artist/09jiC9LTOdLtVGfEcjMO5t) | [Set Me Free](https://open.spotify.com/album/6kPhXCOUlM3ISPqo031y2W) | 3:13 | 2026-01-06 |  |
 | [Shadow](https://open.spotify.com/track/3tDLdShqj7TznUapECPj1R) | [Nick McKerl](https://open.spotify.com/artist/0CC7zycAVnJGnQgj3jPIeR) | [Shadow](https://open.spotify.com/album/2zF7oQgZ12NPariEMMRupj) | 3:00 | 2025-11-24 | 2026-01-05 |
 | [Show the money](https://open.spotify.com/track/6GpoqbpzjLMIl5DLfpreU3) | [Renato Genestra](https://open.spotify.com/artist/3FBOoPApjegYcmKgmULxs4) | [Show the money](https://open.spotify.com/album/5HzSVKP4s4VJHm2lP11Ctd) | 3:37 | 2023-10-26 | 2025-11-29 |
+| [Showers Bring Flowers](https://open.spotify.com/track/0iVmUQRJOeOLgnYkpMbhyh) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:58 | 2026-01-25 |  |
 | [Si Loin](https://open.spotify.com/track/1SpBAk7WSEgWTAwuHS7ahH) | [Dominique Daumann](https://open.spotify.com/artist/1Nm0cvOQp7njIOVzZ3Wqe6) | [La parade des loups\-garous](https://open.spotify.com/album/4EYMdV25eZul4vWVEQ9I98) | 3:32 | 2025-11-21 | 2026-01-05 |
 | [Sibyl Vane](https://open.spotify.com/track/2sUYJQ9js6rUM2T3awf604) | [Beato Angelico](https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG) | [Sibyl Vane](https://open.spotify.com/album/69RoooyiAqzyyH74sv4q0I) | 2:27 | 2023-07-06 | 2025-11-29 |
 | [Sicilia Luntana \(Live\) \[feat\. Gregorio Caimi, Dario Li Voti, Giacomo Buffa, Natale Montalto, Aldo Bertolino & Guglielmo Lentini\]](https://open.spotify.com/track/1MYeUN7Ypd7tjBXRYmSJEw) | [I Musicanti di Gregorio Caimi](https://open.spotify.com/artist/4FdC3GeTxEwmOLyg9bgYnp), [Aldo Bertolino](https://open.spotify.com/artist/4LFWoWuO0NgUNNsqe8xKVe), [Dario Li Voti](https://open.spotify.com/artist/5bket0QkDAVSDCPkIK5Usq), [Giacomo Buffa](https://open.spotify.com/artist/31JUfeizTiU0XyvxMP4ain), [Gregorio Caimi](https://open.spotify.com/artist/2bxPYh5xhc4Bb6F2GQXlpT), [Guglielmo Lentini](https://open.spotify.com/artist/2I87uoqouYedsp0sSWzQJ5), [Natale Montalto](https://open.spotify.com/artist/3Bh0o4sqKg8gigYxUkjE2D) | [Dieci Live](https://open.spotify.com/album/5vX1PXH1ILW7G5TBKVPSZ1) | 2:51 | 2023-04-20 | 2025-11-29 |

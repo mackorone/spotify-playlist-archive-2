@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,170 likes - 48 songs - 2 hr 54 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,170 likes - 49 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,5 +56,6 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 46 | [The Battlefield](https://open.spotify.com/track/6ZsI0iTfApqX1fFczChBrk) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Archive](https://open.spotify.com/album/1fG3rsdIsT9i2ysubVZQAH) | 4:42 |
 | 47 | [Lot 6](https://open.spotify.com/track/1nFBLa9z3aNQReOtonsTFY) | [Mavis](https://open.spotify.com/artist/2qpx3DGtYPLO2upKev1nxG) | [Lot 6](https://open.spotify.com/album/2xlOHmTUeDsLd1p6oED4jO) | 6:40 |
 | 48 | [Hardly Know Her](https://open.spotify.com/track/2UaCdxvJaX7lmezW3YiGIf) | [Lipstick](https://open.spotify.com/artist/7uFXs2KLMId1XYKLSbQlzv) | [Hardly Know Her](https://open.spotify.com/album/5kpOB3QejOEIWHmcJ8nZlE) | 3:09 |
+| 49 | [Tripping](https://open.spotify.com/track/7dX84JjRtlN2M7dVWHFlei) | [The American Hotel System](https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ) | [Can You Hear It? \(The Deluxe Edition\)](https://open.spotify.com/album/6P1L2PKg7pE5GJa5Yy1x89) | 4:26 |
 
-Snapshot ID: `AAAM+OH07TOdT+prKp8YXu3VtAh0FOZr`
+Snapshot ID: `AAAM+a5jqMHDhSSMtKCME3x49vYvquzT`

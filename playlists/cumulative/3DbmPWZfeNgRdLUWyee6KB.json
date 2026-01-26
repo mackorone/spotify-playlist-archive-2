@@ -7353,6 +7353,24 @@
     },
     {
       "album": {
+        "name": "MMXXII",
+        "url": "https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN"
+      },
+      "artists": [
+        {
+          "name": "Roses!Hands!",
+          "url": "https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Showers Bring Flowers",
+      "url": "https://open.spotify.com/track/0iVmUQRJOeOLgnYkpMbhyh"
+    },
+    {
+      "album": {
         "name": "La parade des loups-garous",
         "url": "https://open.spotify.com/album/4EYMdV25eZul4vWVEQ9I98"
       },

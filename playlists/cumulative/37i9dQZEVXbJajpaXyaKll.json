@@ -8892,7 +8892,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 243070,
       "name": "Dardos",
       "url": "https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ"
@@ -13886,7 +13886,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 90526,
       "name": "Fendi 2",
       "url": "https://open.spotify.com/track/4CdFhK8D7bn5Qe6wvmuEwH"
@@ -19451,6 +19451,24 @@
     },
     {
       "album": {
+        "name": "La Vi Techengue",
+        "url": "https://open.spotify.com/album/7Lz19AGjHN7Uztt6JCbEDf"
+      },
+      "artists": [
+        {
+          "name": "CLANDEYAFTER",
+          "url": "https://open.spotify.com/artist/2qCalsHGTcPHZOPal30mc9"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113543,
+      "name": "La Vi Techengue",
+      "url": "https://open.spotify.com/track/4d3nNm5cqJ2f2g44C7aP6P"
+    },
+    {
+      "album": {
         "name": "La Vida Era M\u00e1s Corta",
         "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
       },
@@ -21092,7 +21110,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 219023,
       "name": "Lost",
       "url": "https://open.spotify.com/track/1OeW24Ek3LEthuQz1UyYCj"

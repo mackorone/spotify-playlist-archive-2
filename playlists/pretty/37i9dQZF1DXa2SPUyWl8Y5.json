@@ -1,6 +1,6 @@
 {
   "description": "Focus with melodic house and techno. ",
-  "num_followers": 555412,
+  "num_followers": 555489,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-01-23 15:53:43",
       "album": {
-        "name": "Multi",
-        "url": "https://open.spotify.com/album/1aXp1HaEuIckogbF9f0Jgi"
-      },
-      "artists": [
-        {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
-        }
-      ],
-      "duration_ms": 177243,
-      "name": "Multi",
-      "url": "https://open.spotify.com/track/69VMojKtg3NtfmFmFc64IH"
-    },
-    {
-      "added_at": "2026-01-23 15:53:43",
-      "album": {
         "name": "Nanika",
         "url": "https://open.spotify.com/album/0qhhw4Wid63IKH8TSLDNXs"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 184918,
       "name": "Nanika",
       "url": "https://open.spotify.com/track/5u57URyodAApYRUT7VTO6g"
+    },
+    {
+      "added_at": "2026-01-23 15:53:43",
+      "album": {
+        "name": "Multi",
+        "url": "https://open.spotify.com/album/1aXp1HaEuIckogbF9f0Jgi"
+      },
+      "artists": [
+        {
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        }
+      ],
+      "duration_ms": 177243,
+      "name": "Multi",
+      "url": "https://open.spotify.com/track/69VMojKtg3NtfmFmFc64IH"
     },
     {
       "added_at": "2026-01-23 15:53:43",
@@ -367,6 +367,22 @@
     {
       "added_at": "2026-01-23 15:53:43",
       "album": {
+        "name": "Reminiscing",
+        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 258536,
+      "name": "Reminiscing",
+      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
+    },
+    {
+      "added_at": "2026-01-23 15:53:43",
+      "album": {
         "name": "Infinity (Deluxe Edition)",
         "url": "https://open.spotify.com/album/64Z7e0YTTtoa7dRhpQb6kv"
       },
@@ -379,6 +395,22 @@
       "duration_ms": 329032,
       "name": "Find You Again",
       "url": "https://open.spotify.com/track/5BIYQro4nYhTcTEfMLhZZB"
+    },
+    {
+      "added_at": "2026-01-23 15:53:43",
+      "album": {
+        "name": "Millenium (Edit)",
+        "url": "https://open.spotify.com/album/3Iz0Ry755mM73t5s4h6iWf"
+      },
+      "artists": [
+        {
+          "name": "Philipp Wolf",
+          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
+        }
+      ],
+      "duration_ms": 220659,
+      "name": "Millenium - Edit",
+      "url": "https://open.spotify.com/track/2MCpIMRHhdN7ua7RlDWKFm"
     },
     {
       "added_at": "2026-01-23 15:53:43",
@@ -415,38 +447,6 @@
       "duration_ms": 479075,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
-    },
-    {
-      "added_at": "2026-01-23 15:53:43",
-      "album": {
-        "name": "Reminiscing",
-        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 258536,
-      "name": "Reminiscing",
-      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
-    },
-    {
-      "added_at": "2026-01-23 15:53:43",
-      "album": {
-        "name": "Millenium (Edit)",
-        "url": "https://open.spotify.com/album/3Iz0Ry755mM73t5s4h6iWf"
-      },
-      "artists": [
-        {
-          "name": "Philipp Wolf",
-          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
-        }
-      ],
-      "duration_ms": 220659,
-      "name": "Millenium - Edit",
-      "url": "https://open.spotify.com/track/2MCpIMRHhdN7ua7RlDWKFm"
     },
     {
       "added_at": "2026-01-23 15:53:43",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-01-23 15:53:43",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
-      },
-      "artists": [
-        {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
-        }
-      ],
-      "duration_ms": 424979,
-      "name": "Unlocked",
-      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
-    },
-    {
-      "added_at": "2026-01-23 15:53:43",
-      "album": {
         "name": "Petroleum (Fabio Vanore Remix)",
         "url": "https://open.spotify.com/album/0RzfoJA1VVeYENvFuXLsUq"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 530979,
       "name": "Dea Dia",
       "url": "https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s"
+    },
+    {
+      "added_at": "2026-01-23 15:53:43",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
+      },
+      "artists": [
+        {
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        }
+      ],
+      "duration_ms": 424979,
+      "name": "Unlocked",
+      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
     },
     {
       "added_at": "2026-01-23 15:53:43",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-01-23 15:53:43",
       "album": {
-        "name": "Lyra",
-        "url": "https://open.spotify.com/album/10EVZVgK0jaOVuIW1A8GSy"
-      },
-      "artists": [
-        {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
-        }
-      ],
-      "duration_ms": 437891,
-      "name": "Lyra",
-      "url": "https://open.spotify.com/track/1Y4nxwSQr5jTMXKaQwiLOA"
-    },
-    {
-      "added_at": "2026-01-23 15:53:43",
-      "album": {
         "name": "Purple Days & Purple Nights",
         "url": "https://open.spotify.com/album/7oKLl9fSeBhHl4XYIBJADm"
       },
@@ -651,22 +635,6 @@
     {
       "added_at": "2026-01-23 15:53:43",
       "album": {
-        "name": "Unfold Voices EP",
-        "url": "https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T"
-      },
-      "artists": [
-        {
-          "name": "JAMIIE",
-          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
-        }
-      ],
-      "duration_ms": 391577,
-      "name": "Unfold Me",
-      "url": "https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis"
-    },
-    {
-      "added_at": "2026-01-23 15:53:43",
-      "album": {
         "name": "Songs of Silence",
         "url": "https://open.spotify.com/album/31pmASRti6IjbYo67KbrJi"
       },
@@ -679,6 +647,22 @@
       "duration_ms": 227033,
       "name": "Scarper",
       "url": "https://open.spotify.com/track/4RJz6UMktOxRng1j0mvrY1"
+    },
+    {
+      "added_at": "2026-01-23 15:53:43",
+      "album": {
+        "name": "Unfold Voices EP",
+        "url": "https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T"
+      },
+      "artists": [
+        {
+          "name": "JAMIIE",
+          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
+        }
+      ],
+      "duration_ms": 391577,
+      "name": "Unfold Me",
+      "url": "https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis"
     },
     {
       "added_at": "2026-01-23 15:53:43",
@@ -699,18 +683,18 @@
     {
       "added_at": "2026-01-23 15:53:43",
       "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7"
+        "name": "Lyra",
+        "url": "https://open.spotify.com/album/10EVZVgK0jaOVuIW1A8GSy"
       },
       "artists": [
         {
-          "name": "Daniel Portman",
-          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
         }
       ],
-      "duration_ms": 257903,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/7jw452od74FzquMBqkUXiY"
+      "duration_ms": 437891,
+      "name": "Lyra",
+      "url": "https://open.spotify.com/track/1Y4nxwSQr5jTMXKaQwiLOA"
     },
     {
       "added_at": "2026-01-23 15:53:43",
@@ -775,6 +759,22 @@
       "duration_ms": 364810,
       "name": "Pulses",
       "url": "https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p"
+    },
+    {
+      "added_at": "2026-01-23 15:53:43",
+      "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7"
+      },
+      "artists": [
+        {
+          "name": "Daniel Portman",
+          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
+        }
+      ],
+      "duration_ms": 257903,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/7jw452od74FzquMBqkUXiY"
     },
     {
       "added_at": "2026-01-23 15:53:43",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-01-23 15:53:43",
       "album": {
-        "name": "Lu | Sal Amander | Tesseract",
-        "url": "https://open.spotify.com/album/6ONMieARnYppdv9PZJ5ugm"
-      },
-      "artists": [
-        {
-          "name": "Nors Kode",
-          "url": "https://open.spotify.com/artist/4YBFnWJNrVZoUU6U30LaLY"
-        }
-      ],
-      "duration_ms": 397377,
-      "name": "Tesseract",
-      "url": "https://open.spotify.com/track/5qn2rZD76ZBusD5WqMtVOM"
-    },
-    {
-      "added_at": "2026-01-23 15:53:43",
-      "album": {
         "name": "Equinox",
         "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 413658,
       "name": "Equinox",
       "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
+    },
+    {
+      "added_at": "2026-01-23 15:53:43",
+      "album": {
+        "name": "Lu | Sal Amander | Tesseract",
+        "url": "https://open.spotify.com/album/6ONMieARnYppdv9PZJ5ugm"
+      },
+      "artists": [
+        {
+          "name": "Nors Kode",
+          "url": "https://open.spotify.com/artist/4YBFnWJNrVZoUU6U30LaLY"
+        }
+      ],
+      "duration_ms": 397377,
+      "name": "Tesseract",
+      "url": "https://open.spotify.com/track/5qn2rZD76ZBusD5WqMtVOM"
     },
     {
       "added_at": "2026-01-23 15:53:43",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-01-23 15:53:43",
       "album": {
-        "name": "Solid",
-        "url": "https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy"
-      },
-      "artists": [
-        {
-          "name": "Benzsoul",
-          "url": "https://open.spotify.com/artist/0XXC5Wa9jqrU83q3lwGAhf"
-        }
-      ],
-      "duration_ms": 404532,
-      "name": "Solid",
-      "url": "https://open.spotify.com/track/62DY8pd5ZcJSgytchGNuzP"
-    },
-    {
-      "added_at": "2026-01-23 15:53:43",
-      "album": {
         "name": "Hailstorm (Ann Clue Remix)",
         "url": "https://open.spotify.com/album/54LvPkBHCUXjuKIfFC3e76"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 382486,
       "name": "Hailstorm - Ann Clue Remix",
       "url": "https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t"
+    },
+    {
+      "added_at": "2026-01-23 15:53:43",
+      "album": {
+        "name": "Solid",
+        "url": "https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy"
+      },
+      "artists": [
+        {
+          "name": "Benzsoul",
+          "url": "https://open.spotify.com/artist/0XXC5Wa9jqrU83q3lwGAhf"
+        }
+      ],
+      "duration_ms": 404532,
+      "name": "Solid",
+      "url": "https://open.spotify.com/track/62DY8pd5ZcJSgytchGNuzP"
     },
     {
       "added_at": "2026-01-23 15:53:43",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-01-23 15:53:43",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y"
-      },
-      "artists": [
-        {
-          "name": "Mainterm",
-          "url": "https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI"
-        }
-      ],
-      "duration_ms": 358144,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp"
-    },
-    {
-      "added_at": "2026-01-23 15:53:43",
-      "album": {
         "name": "Revolt",
         "url": "https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 284187,
       "name": "Revolt",
       "url": "https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R"
+    },
+    {
+      "added_at": "2026-01-23 15:53:43",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y"
+      },
+      "artists": [
+        {
+          "name": "Mainterm",
+          "url": "https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI"
+        }
+      ],
+      "duration_ms": 358144,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp"
     },
     {
       "added_at": "2026-01-23 15:53:43",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-01-23 15:53:43",
       "album": {
-        "name": "Night",
-        "url": "https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX"
-      },
-      "artists": [
-        {
-          "name": "AKZENTH",
-          "url": "https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Night",
-      "url": "https://open.spotify.com/track/253xpyhXIk9zrOveyC1i0D"
-    },
-    {
-      "added_at": "2026-01-23 15:53:43",
-      "album": {
         "name": "Rapture EP",
         "url": "https://open.spotify.com/album/7etJjUMyK9hUkIGcp9hxN5"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 269153,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/1PjFPRW9tBjjNUrUy7hX2T"
+    },
+    {
+      "added_at": "2026-01-23 15:53:43",
+      "album": {
+        "name": "Night",
+        "url": "https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX"
+      },
+      "artists": [
+        {
+          "name": "AKZENTH",
+          "url": "https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Night",
+      "url": "https://open.spotify.com/track/253xpyhXIk9zrOveyC1i0D"
     },
     {
       "added_at": "2026-01-23 15:53:43",

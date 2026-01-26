@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Les nouveautés rap franco sans frontières\. Photo: PLK
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,608 likes - 88 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,620 likes - 88 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: \u795e\u4fdd\u5f70",
-  "num_followers": 32429,
+  "num_followers": 32430,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-01-21 03:25:20",
       "album": {
-        "name": "Living Message",
-        "url": "https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2"
-      },
-      "artists": [
-        {
-          "name": "Hidefumi Ino",
-          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
-        }
-      ],
-      "duration_ms": 211253,
-      "name": "Blood is thicker than water",
-      "url": "https://open.spotify.com/track/75EKP06FTKQt0lzKQrRf1z"
-    },
-    {
-      "added_at": "2026-01-21 03:25:20",
-      "album": {
         "name": "SET FREE",
         "url": "https://open.spotify.com/album/1OLNstuStcm7aDvh47GsmZ"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 228106,
       "name": "The Piano",
       "url": "https://open.spotify.com/track/0VIXQNx9EqGq65L6E7Xdg7"
+    },
+    {
+      "added_at": "2026-01-21 03:25:20",
+      "album": {
+        "name": "Living Message",
+        "url": "https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2"
+      },
+      "artists": [
+        {
+          "name": "Hidefumi Ino",
+          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
+        }
+      ],
+      "duration_ms": 211253,
+      "name": "Blood is thicker than water",
+      "url": "https://open.spotify.com/track/75EKP06FTKQt0lzKQrRf1z"
     },
     {
       "added_at": "2026-01-21 03:25:20",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-01-21 03:25:20",
       "album": {
-        "name": "Susanna",
-        "url": "https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF"
-      },
-      "artists": [
-        {
-          "name": "Kan Sano",
-          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "On My Way Home",
-      "url": "https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx"
-    },
-    {
-      "added_at": "2026-01-21 03:25:20",
-      "album": {
         "name": "PIANO CRAZE",
         "url": "https://open.spotify.com/album/0thPD1TTASYc8eMaf7sS9B"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 350680,
       "name": "Dancing in the mood",
       "url": "https://open.spotify.com/track/0cZ9z3UbPMflJet2ecMzPn"
+    },
+    {
+      "added_at": "2026-01-21 03:25:20",
+      "album": {
+        "name": "Susanna",
+        "url": "https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF"
+      },
+      "artists": [
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "On My Way Home",
+      "url": "https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx"
     },
     {
       "added_at": "2026-01-21 03:25:20",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-01-21 03:25:20",
       "album": {
-        "name": "qualia",
-        "url": "https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP"
-      },
-      "artists": [
-        {
-          "name": "PRIMITIVE ART ORCHESTRA",
-          "url": "https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0"
-        }
-      ],
-      "duration_ms": 204306,
-      "name": "qualia",
-      "url": "https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh"
-    },
-    {
-      "added_at": "2026-01-21 03:25:20",
-      "album": {
         "name": "Elastic Afterwords (Instrumental)",
         "url": "https://open.spotify.com/album/1iXHDPgsCFPAT6TGdQ9DIm"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 268425,
       "name": "Never Let Go - Instrumental",
       "url": "https://open.spotify.com/track/6HHlEdo81pmNuapvkEPQZl"
+    },
+    {
+      "added_at": "2026-01-21 03:25:20",
+      "album": {
+        "name": "qualia",
+        "url": "https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP"
+      },
+      "artists": [
+        {
+          "name": "PRIMITIVE ART ORCHESTRA",
+          "url": "https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0"
+        }
+      ],
+      "duration_ms": 204306,
+      "name": "qualia",
+      "url": "https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh"
     },
     {
       "added_at": "2026-01-21 03:25:20",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-01-21 03:25:20",
       "album": {
-        "name": "Re:Tokage",
-        "url": "https://open.spotify.com/album/7gDYCILM2T9dpDulYxPl0c"
-      },
-      "artists": [
-        {
-          "name": "Gecko&Tokage Parade",
-          "url": "https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF"
-        }
-      ],
-      "duration_ms": 265731,
-      "name": "Nica's Dream",
-      "url": "https://open.spotify.com/track/6DfUkofhWGzAxkJcsTVAOz"
-    },
-    {
-      "added_at": "2026-01-21 03:25:20",
-      "album": {
         "name": "BEATS+PIECES 2",
         "url": "https://open.spotify.com/album/6wNDoHX8SrmdzHAKKmTfzt"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 247613,
       "name": "Flowery Flat",
       "url": "https://open.spotify.com/track/0biW20fBvcGbZ2pRf9PrSH"
+    },
+    {
+      "added_at": "2026-01-21 03:25:20",
+      "album": {
+        "name": "Re:Tokage",
+        "url": "https://open.spotify.com/album/7gDYCILM2T9dpDulYxPl0c"
+      },
+      "artists": [
+        {
+          "name": "Gecko&Tokage Parade",
+          "url": "https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF"
+        }
+      ],
+      "duration_ms": 265731,
+      "name": "Nica's Dream",
+      "url": "https://open.spotify.com/track/6DfUkofhWGzAxkJcsTVAOz"
     },
     {
       "added_at": "2026-01-21 03:25:20",
@@ -839,18 +839,18 @@
     {
       "added_at": "2026-01-21 03:25:20",
       "album": {
-        "name": "MOMENTS",
-        "url": "https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD"
+        "name": "Relativity",
+        "url": "https://open.spotify.com/album/1QpQgtUdTzW2ythTOV0AWG"
       },
       "artists": [
         {
-          "name": "bohemianvoodoo",
-          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
+          "name": "Soundtype",
+          "url": "https://open.spotify.com/artist/0IDzcMfdL7OKZNhFjjH4Te"
         }
       ],
-      "duration_ms": 277840,
-      "name": "\u77f3\u306e\u6559\u4f1a",
-      "url": "https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK"
+      "duration_ms": 268660,
+      "name": "Relativity",
+      "url": "https://open.spotify.com/track/0aXrbIWN1d1HeTpUeGypAT"
     }
   ],
   "unique_name": "Jazz Fusion Japan",

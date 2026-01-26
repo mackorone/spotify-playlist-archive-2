@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan 🔥 Cover: Asim Azhar
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,890 likes - 91 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,991 likes - 91 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

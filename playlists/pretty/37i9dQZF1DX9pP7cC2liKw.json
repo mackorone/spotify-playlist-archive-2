@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 423087,
+  "num_followers": 423297,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -625,22 +625,6 @@
       "url": "https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr"
     },
     {
-      "added_at": "2024-02-02 04:40:19",
-      "album": {
-        "name": "intentos",
-        "url": "https://open.spotify.com/album/1WCOuQJEvzFmDg4bZvqkgu"
-      },
-      "artists": [
-        {
-          "name": "ataquemos",
-          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
-        }
-      ],
-      "duration_ms": 122331,
-      "name": "quiz\u00e1s en otra vida",
-      "url": "https://open.spotify.com/track/4mozAEJ8Gb7LOF5cX68LYh"
-    },
-    {
       "added_at": "2022-09-02 05:59:31",
       "album": {
         "name": "La Matanza",
@@ -659,6 +643,22 @@
       "duration_ms": 201562,
       "name": "La Matanza",
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
+    },
+    {
+      "added_at": "2024-02-02 04:40:19",
+      "album": {
+        "name": "intentos",
+        "url": "https://open.spotify.com/album/1WCOuQJEvzFmDg4bZvqkgu"
+      },
+      "artists": [
+        {
+          "name": "ataquemos",
+          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
+        }
+      ],
+      "duration_ms": 122331,
+      "name": "quiz\u00e1s en otra vida",
+      "url": "https://open.spotify.com/track/4mozAEJ8Gb7LOF5cX68LYh"
     },
     {
       "added_at": "2024-01-05 06:00:00",
@@ -869,22 +869,6 @@
       "url": "https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap"
     },
     {
-      "added_at": "2024-07-20 14:57:35",
-      "album": {
-        "name": "Macro",
-        "url": "https://open.spotify.com/album/1iAqfn9vawMhkRuQQzP3qj"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 234182,
-      "name": "Euphoric Avenue",
-      "url": "https://open.spotify.com/track/0krvVcQqfZTltbCNEOmw5d"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Grind / Prelims",
@@ -899,6 +883,22 @@
       "duration_ms": 318014,
       "name": "Grind",
       "url": "https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc"
+    },
+    {
+      "added_at": "2024-07-20 14:57:35",
+      "album": {
+        "name": "Macro",
+        "url": "https://open.spotify.com/album/1iAqfn9vawMhkRuQQzP3qj"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 234182,
+      "name": "Euphoric Avenue",
+      "url": "https://open.spotify.com/track/0krvVcQqfZTltbCNEOmw5d"
     },
     {
       "added_at": "2023-03-24 19:15:37",

@@ -1,6 +1,6 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 862469,
+  "num_followers": 862505,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Ferida Curada",
-        "url": "https://open.spotify.com/album/4S428p1Dl0B5QShuR6FBMu"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 159164,
-      "name": "Ferida Curada",
-      "url": "https://open.spotify.com/track/1U3tv41tFRgOfbytpuYQrR"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Numanice #2",
         "url": "https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 181930,
       "name": "Cheirosa - Ao Vivo",
       "url": "https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Ferida Curada",
+        "url": "https://open.spotify.com/album/4S428p1Dl0B5QShuR6FBMu"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 159164,
+      "name": "Ferida Curada",
+      "url": "https://open.spotify.com/track/1U3tv41tFRgOfbytpuYQrR"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "Eu e Voc\u00ea Sempre",
+        "url": "https://open.spotify.com/album/3pdKrwCCvPYI1o9liG2OMF"
+      },
+      "artists": [
+        {
+          "name": "Exaltasamba",
+          "url": "https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw"
+        }
+      ],
+      "duration_ms": 208173,
+      "name": "Me Apaixonei Pela Pessoa Errada",
+      "url": "https://open.spotify.com/track/3IbQGxLsZfV8EzA7ILNDwB"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "Dona Maria",
         "url": "https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 187998,
       "name": "Dona Maria",
       "url": "https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "Eu e Voc\u00ea Sempre",
-        "url": "https://open.spotify.com/album/3pdKrwCCvPYI1o9liG2OMF"
-      },
-      "artists": [
-        {
-          "name": "Exaltasamba",
-          "url": "https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw"
-        }
-      ],
-      "duration_ms": 208173,
-      "name": "Me Apaixonei Pela Pessoa Errada",
-      "url": "https://open.spotify.com/track/3IbQGxLsZfV8EzA7ILNDwB"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Aonde Quer Chegar",
-        "url": "https://open.spotify.com/album/4OgqLEkwazzYv1snqUOQlo"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 191641,
-      "name": "Aonde Quer Chegar",
-      "url": "https://open.spotify.com/track/6bcvIgM2W5kaMozN2L9e0k"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Cobaia",
         "url": "https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 219442,
       "name": "Cobaia",
       "url": "https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Aonde Quer Chegar",
+        "url": "https://open.spotify.com/album/4OgqLEkwazzYv1snqUOQlo"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 191641,
+      "name": "Aonde Quer Chegar",
+      "url": "https://open.spotify.com/track/6bcvIgM2W5kaMozN2L9e0k"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Cansar Voc\u00ea",
-        "url": "https://open.spotify.com/album/5rYR4E0SwxglAChee36uVK"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 176298,
-      "name": "Cansar Voc\u00ea",
-      "url": "https://open.spotify.com/track/5N1usnMTqmMtmRJTfgn1kJ"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Pisadinha (Ao Vivo)",
         "url": "https://open.spotify.com/album/2Ir3JLRBTe6UNagIu9CsYV"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 158661,
       "name": "Pisadinha - Ao Vivo",
       "url": "https://open.spotify.com/track/36P6ptTyxOggYgR2aoZiAl"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Cansar Voc\u00ea",
+        "url": "https://open.spotify.com/album/5rYR4E0SwxglAChee36uVK"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 176298,
+      "name": "Cansar Voc\u00ea",
+      "url": "https://open.spotify.com/track/5N1usnMTqmMtmRJTfgn1kJ"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1535,22 +1535,18 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Duetos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/659HNwQlvbAt8vGOPDJspp"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
       },
       "artists": [
         {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        },
-        {
-          "name": "Marcos & Belutti",
-          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 176426,
-      "name": "Aquele 1% - Ao Vivo",
-      "url": "https://open.spotify.com/track/0Eu1DRLKILhNqsYh48a2DP"
+      "duration_ms": 189005,
+      "name": "Mil Anos - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1571,18 +1567,22 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
+        "name": "Duetos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/659HNwQlvbAt8vGOPDJspp"
       },
       "artists": [
         {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        },
+        {
+          "name": "Marcos & Belutti",
+          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
         }
       ],
-      "duration_ms": 189005,
-      "name": "Mil Anos - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1"
+      "duration_ms": 176426,
+      "name": "Aquele 1% - Ao Vivo",
+      "url": "https://open.spotify.com/track/0Eu1DRLKILhNqsYh48a2DP"
     },
     {
       "added_at": "2024-07-09 12:43:17",

@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-583 songs - 1 day 9 hr 36 min
+584 songs - 1 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Bittersweet Goodbye \- Lens Remix](https://open.spotify.com/track/3wkuynG4GwBd8LLNDeKTE5) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz) | [Bittersweet Goodbye \(Lens Remix\)](https://open.spotify.com/album/6tp5KT9JEffGYt5iXzqOnY) | 3:21 | 2023-07-27 | 2024-07-27 |
 | [BK2U](https://open.spotify.com/track/3TRvpDW7AhcJ48Mr3OnFj6) | [Levela](https://open.spotify.com/artist/0sDeXbVK3kNuzYQlVib9ib) | [BK2U](https://open.spotify.com/album/7ISmKso4dzcfSrh790GvMq) | 3:00 | 2026-01-23 |  |
 | [Blinded By The Lights 23](https://open.spotify.com/track/7qSeLqSb07k8qtL8LfMokD) | [Mixtress](https://open.spotify.com/artist/1Eviv9wjS232W0w0Sqy7Il), [Pete Cannon](https://open.spotify.com/artist/61S6bNsMZYtmojqjL43MkA) | [Blinded By The Lights 23](https://open.spotify.com/album/4RKZ3J38GOtJ76Br91HkwZ) | 3:14 | 2023-09-01 | 2024-07-27 |
+| [Blindspot](https://open.spotify.com/track/2oiGdzswferiaVunkD2C62) | [Formula](https://open.spotify.com/artist/6GkcKgyIKaZxmZGcKdJDxL) | [Blindspot / Impact Response](https://open.spotify.com/album/6HaImXzg6TPyW18gbhF5KB) | 3:20 | 2026-01-23 |  |
 | [Block & Delete \(Edit\)](https://open.spotify.com/track/4kTina9NiDbq9uFNQnRyOZ) | [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9), [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Block & Delete \(Edit\)](https://open.spotify.com/album/0l8t431pUG4ZHMqn7aFn6S) | 2:55 | 2024-01-26 | 2024-02-23 |
 | [Body](https://open.spotify.com/track/67k9vsfLokbNrOWXLIOxPh) | [Georgie Riot](https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi) | [Body](https://open.spotify.com/album/1tsHo3JZ2AQrHdQczM812B) | 2:17 | 2025-05-08 | 2025-08-29 |
 | [BODY DROP \(Won't Stop\)](https://open.spotify.com/track/6k65tpDYrP39jUPQcxvhmy) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [BODY DROP \(Won't Stop\)](https://open.spotify.com/album/02YJzamF4j3mvuxsKHaq5A) | 3:44 | 2025-07-03 | 2026-01-23 |
@@ -243,7 +244,7 @@
 | [I Feel Love \- Dj Isaac Remix](https://open.spotify.com/track/1z0cwkGFR10hEgQ5XxqHOe) | [CRW](https://open.spotify.com/artist/14tToftzUXlFOnrR5ojQxu), [DJ Isaac](https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq) | [I Feel Love \(DJ Isaac Remix\)](https://open.spotify.com/album/1r6QAaRaT7fGO7jB2LUtEu) | 6:47 | 2023-12-27 | 2024-01-12 |
 | [I Got You](https://open.spotify.com/track/2FAik0wCT2bEcXMeYhoTkj) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [I Got You](https://open.spotify.com/album/0h9Si8hhyqG2TRm61mNUnv) | 2:44 | 2023-12-27 | 2024-01-12 |
 | [I Miss The Old Macky](https://open.spotify.com/track/3QwJmwvUKOnlmoeHDn8MVN) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [I Miss The Old Macky](https://open.spotify.com/album/1dWGmCM3soNePkWxM0Saca) | 2:35 | 2024-09-05 | 2025-05-09 |
-| [I Want U](https://open.spotify.com/track/7jKhJz76Mn74qYRIupU8Gb) | [Bish](https://open.spotify.com/artist/2GLSSqktVGvagcLgGJvFjj) | [I Want U](https://open.spotify.com/album/6EN5SAQyLwYYJezKi5QxMo) | 4:06 | 2026-01-23 |  |
+| [I Want U](https://open.spotify.com/track/7jKhJz76Mn74qYRIupU8Gb) | [Bish](https://open.spotify.com/artist/2GLSSqktVGvagcLgGJvFjj) | [I Want U](https://open.spotify.com/album/6EN5SAQyLwYYJezKi5QxMo) | 4:06 | 2026-01-23 | 2026-01-26 |
 | [I'll Be Good](https://open.spotify.com/track/7z7KWEjCMJh0V6oenkmeqq) | [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby) | [I'll Be Good](https://open.spotify.com/album/72TVWYXcYfunh4HFLdKYt3) | 2:42 | 2024-09-05 | 2024-09-24 |
 | [I've Got Feelings](https://open.spotify.com/track/63OmWSc19gAlsObR0H8RjK) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl), [skantia](https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M) | [I've Got Feelings](https://open.spotify.com/album/1S8uNZtJU3lJojsXXb7jFK) | 2:37 | 2025-06-12 | 2025-10-14 |
 | [Ice Wall](https://open.spotify.com/track/0NEpdgSFUdgLP4euqvDePI) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Isometrik](https://open.spotify.com/artist/0pnYVHnPczkOfsy9SZNwv4), [Exo Avatar](https://open.spotify.com/artist/0BbRYK4TrggV7KTeqgQcRx) | [Ice Wall](https://open.spotify.com/album/1fZwpsRKDB3tUxraZr1RSL) | 4:43 | 2023-05-19 | 2023-07-28 |

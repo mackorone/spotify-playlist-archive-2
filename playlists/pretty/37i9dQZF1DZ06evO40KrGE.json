@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 37622,
+  "num_followers": 37626,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXK6AAAAAAAj3TSQxR67cCkRC2RXkcYv",
+  "snapshot_id": "aXQLgAAAAACLzfPvbGkoYz2vTZUstW+B",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sementes da F\u00e9",
-        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 364692,
-      "name": "Sementes da F\u00e9",
-      "url": "https://open.spotify.com/track/3w53peQOx3fcgcLRQrJjdc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Cura",
         "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 325218,
       "name": "Tremendo e Santo",
       "url": "https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sementes da F\u00e9",
+        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 364692,
+      "name": "Sementes da F\u00e9",
+      "url": "https://open.spotify.com/track/3w53peQOx3fcgcLRQrJjdc"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sementes da F\u00e9",
-        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 446937,
-      "name": "O Abra\u00e7o do Noivo",
-      "url": "https://open.spotify.com/track/5y9uzQPYBVicXcQaWY6L9q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harpa Vol.2",
         "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
       },
@@ -647,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sementes da F\u00e9",
+        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 446937,
+      "name": "O Abra\u00e7o do Noivo",
+      "url": "https://open.spotify.com/track/5y9uzQPYBVicXcQaWY6L9q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Cura",
         "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
       },
@@ -659,6 +659,26 @@
       "duration_ms": 411364,
       "name": "A Cura",
       "url": "https://open.spotify.com/track/7hX6Ctm6PJiAJdOBMoryJl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tome Posse da Vit\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4FqY2NSYlpamvnQosMuwVJ"
+      },
+      "artists": [
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 271586,
+      "name": "Tome Posse da Vit\u00f3ria (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0dPhAYC73cQPAfCDg9yj5T"
     },
     {
       "added_at": null,
@@ -711,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tome Posse da Vit\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4FqY2NSYlpamvnQosMuwVJ"
-      },
-      "artists": [
-        {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        },
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 271586,
-      "name": "Tome Posse da Vit\u00f3ria (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0dPhAYC73cQPAfCDg9yj5T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recompensa",
         "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fa\u00e7a Diferen\u00e7a",
-        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 237586,
-      "name": "Ele Tem Poder",
-      "url": "https://open.spotify.com/track/0fzmCMwvPCJKLWK7oyvJuY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Segredo (Ao Vivo)",
         "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
       },
@@ -807,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harpa Vol.1",
-        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
+        "name": "Fa\u00e7a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
       },
       "artists": [
         {
@@ -816,9 +800,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 247942,
-      "name": "A Alma Abatida",
-      "url": "https://open.spotify.com/track/512xriilWCODMzkyhFaR4O"
+      "duration_ms": 237586,
+      "name": "Ele Tem Poder",
+      "url": "https://open.spotify.com/track/0fzmCMwvPCJKLWK7oyvJuY"
     },
     {
       "added_at": null,
@@ -855,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Harpa Vol.1",
+        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 247942,
+      "name": "A Alma Abatida",
+      "url": "https://open.spotify.com/track/512xriilWCODMzkyhFaR4O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00e3o Pare Agora",
         "url": "https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harpa Vol.1",
-        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 227509,
-      "name": "Campe\u00f5es da Luz",
-      "url": "https://open.spotify.com/track/2zLqUAhjORZnQHjZYIbZxL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Cura",
         "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 290899,
       "name": "Contigo Est\u00e1",
       "url": "https://open.spotify.com/track/0vkZn9FT5xohaQgqm7QkvL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harpa Vol.1",
+        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 227509,
+      "name": "Campe\u00f5es da Luz",
+      "url": "https://open.spotify.com/track/2zLqUAhjORZnQHjZYIbZxL"
     },
     {
       "added_at": null,

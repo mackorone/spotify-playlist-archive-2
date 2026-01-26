@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 53603,
+  "num_followers": 53613,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXK6AAAAAADcPKn0aXrW0owKLZLCtU/W",
+  "snapshot_id": "aXQLgAAAAABmB8bmlz8nBGy4R2pLKmHJ",
   "tracks": [
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gung Ho",
-        "url": "https://open.spotify.com/album/6H6ntLDDo8dC7dHKg1UYSE"
+        "name": "Gone Again",
+        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 183289,
-      "name": "Glitter In Their Eyes",
-      "url": "https://open.spotify.com/track/3XGLnUh9XzH1KiAobnpzsv"
+      "duration_ms": 235810,
+      "name": "Farewell Reel",
+      "url": "https://open.spotify.com/track/7AkwMCk98VbcsYqy9EzlG6"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gone Again",
-        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
+        "name": "Gung Ho",
+        "url": "https://open.spotify.com/album/6H6ntLDDo8dC7dHKg1UYSE"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 196346,
-      "name": "Gone Again",
-      "url": "https://open.spotify.com/track/2lkuP38GN1VvwfGJvANUei"
+      "duration_ms": 183289,
+      "name": "Glitter In Their Eyes",
+      "url": "https://open.spotify.com/track/3XGLnUh9XzH1KiAobnpzsv"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
+        "name": "Gone Again",
+        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 275829,
-      "name": "Amerigo",
-      "url": "https://open.spotify.com/track/1tZ4JHHtnELQC3smRIkJ2q"
+      "duration_ms": 196346,
+      "name": "Gone Again",
+      "url": "https://open.spotify.com/track/2lkuP38GN1VvwfGJvANUei"
     }
   ],
   "unique_name": "This Is Patti Smith",

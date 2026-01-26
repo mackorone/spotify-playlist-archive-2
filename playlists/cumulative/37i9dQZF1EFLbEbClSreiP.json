@@ -875,6 +875,24 @@
     },
     {
       "album": {
+        "name": "Thought About You",
+        "url": "https://open.spotify.com/album/4yk2w4x41gsrJC1b0jmJB4"
+      },
+      "artists": [
+        {
+          "name": "Nate Haller",
+          "url": "https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204922,
+      "name": "Thought About You",
+      "url": "https://open.spotify.com/track/2qYDfRv9ESW4mw4XNwQDiD"
+    },
+    {
+      "album": {
         "name": "The Good Witch (Deluxe)",
         "url": "https://open.spotify.com/album/0YniOccoeVuymVK8Lpb7VR"
       },

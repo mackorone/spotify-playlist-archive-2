@@ -1,6 +1,6 @@
 {
   "description": "Las mujeres que la rompieron este a\u00f1o con su m\u00fasica. Mon Laferte en portada.",
-  "num_followers": 349226,
+  "num_followers": 349203,
   "original_name": "Mujeres latinas del 2025",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-12-03 13:14:43",
       "album": {
-        "name": "No Escuro, Quem \u00c9 Voc\u00ea?",
-        "url": "https://open.spotify.com/album/5RibeqZd7ps8S6bhOVHuDk"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 148411,
-      "name": "Dilemas da vida moderna",
-      "url": "https://open.spotify.com/track/6TKBDgjEsyB2AGprNMpZyy"
-    },
-    {
-      "added_at": "2025-12-03 13:14:43",
-      "album": {
         "name": "CUARTO AZUL",
         "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 181500,
       "name": "EX EX EX",
       "url": "https://open.spotify.com/track/0JblMDDZxhwEVAH65UeLBc"
+    },
+    {
+      "added_at": "2025-12-03 13:14:43",
+      "album": {
+        "name": "No Escuro, Quem \u00c9 Voc\u00ea?",
+        "url": "https://open.spotify.com/album/5RibeqZd7ps8S6bhOVHuDk"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 148411,
+      "name": "Dilemas da vida moderna",
+      "url": "https://open.spotify.com/track/6TKBDgjEsyB2AGprNMpZyy"
     },
     {
       "added_at": "2025-12-03 13:14:43",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2025-12-03 13:14:43",
       "album": {
-        "name": "GRANADA",
-        "url": "https://open.spotify.com/album/5LlrIYufVG0v5C8dEYmf81"
+        "name": "Indecisa",
+        "url": "https://open.spotify.com/album/5dPuGA5JVHtbrGvenykZNl"
       },
       "artists": [
         {
-          "name": "Let\u00f3n P\u00e9",
-          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
         }
       ],
-      "duration_ms": 139136,
-      "name": "GRANADA",
-      "url": "https://open.spotify.com/track/5STqdnPzPB9EgFtoACYPzP"
+      "duration_ms": 142750,
+      "name": "Indecisa",
+      "url": "https://open.spotify.com/track/6J3LSNRHLDxHTZRXiRhRIf"
     }
   ],
   "unique_name": "Mujeres latinas del 2025",

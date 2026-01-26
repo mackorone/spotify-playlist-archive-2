@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 546260,
+  "num_followers": 546248,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Dead Roots Stirring",
-        "url": "https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp"
-      },
-      "artists": [
-        {
-          "name": "Elder",
-          "url": "https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT"
-        }
-      ],
-      "duration_ms": 580237,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Blood Lust",
         "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 301493,
       "name": "I'll Cut You Down",
       "url": "https://open.spotify.com/track/3tBbcuulKDC1o2odykT18R"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Dead Roots Stirring",
+        "url": "https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp"
+      },
+      "artists": [
+        {
+          "name": "Elder",
+          "url": "https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT"
+        }
+      ],
+      "duration_ms": 580237,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Dopesmoker",
-        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
-      },
-      "artists": [
-        {
-          "name": "Sleep",
-          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
-        }
-      ],
-      "duration_ms": 3809026,
-      "name": "Dopesmoker - 2022 Remastered Version",
-      "url": "https://open.spotify.com/track/0m3NuZiabJ4wl4HmXONyIP"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Blood Lust",
         "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
       },
@@ -603,22 +587,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "King of Cowards",
-        "url": "https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS"
-      },
-      "artists": [
-        {
-          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
-          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
-        }
-      ],
-      "duration_ms": 349330,
-      "name": "GNT",
-      "url": "https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Samsara",
         "url": "https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C"
       },
@@ -631,6 +599,38 @@
       "duration_ms": 331468,
       "name": "Mortal Bones",
       "url": "https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Dopesmoker",
+        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
+      },
+      "artists": [
+        {
+          "name": "Sleep",
+          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
+        }
+      ],
+      "duration_ms": 3809026,
+      "name": "Dopesmoker - 2022 Remastered Version",
+      "url": "https://open.spotify.com/track/0m3NuZiabJ4wl4HmXONyIP"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "King of Cowards",
+        "url": "https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS"
+      },
+      "artists": [
+        {
+          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
+          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
+        }
+      ],
+      "duration_ms": 349330,
+      "name": "GNT",
+      "url": "https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Dopesmoker",
-        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
-      },
-      "artists": [
-        {
-          "name": "Sleep",
-          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
-        }
-      ],
-      "duration_ms": 505196,
-      "name": "Hot Lava Man",
-      "url": "https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Groovy",
         "url": "https://open.spotify.com/album/30arspiTdQmIXFL43YuiC1"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 257093,
       "name": "Drowning on Empty",
       "url": "https://open.spotify.com/track/3g6cNWmxjtHv3cq1v8V3Lg"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Dopesmoker",
+        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
+      },
+      "artists": [
+        {
+          "name": "Sleep",
+          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
+        }
+      ],
+      "duration_ms": 505196,
+      "name": "Hot Lava Man",
+      "url": "https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Desert Cold",
-        "url": "https://open.spotify.com/album/57zrgsfZAV7Y7TZOZxBJJY"
-      },
-      "artists": [
-        {
-          "name": "Snowy Dunes",
-          "url": "https://open.spotify.com/artist/10do1FRShQdKPJ4RuIY4LX"
-        }
-      ],
-      "duration_ms": 373133,
-      "name": "Desert Cold",
-      "url": "https://open.spotify.com/track/6wEShs17sQIlaaWfeJylLE"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "6",
         "url": "https://open.spotify.com/album/7wv7I672qgjQABJ7SM2zi4"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 233599,
       "name": "Bright Lights",
       "url": "https://open.spotify.com/track/34vd6m1U66lnoSXZtC4fyI"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Desert Cold",
+        "url": "https://open.spotify.com/album/57zrgsfZAV7Y7TZOZxBJJY"
+      },
+      "artists": [
+        {
+          "name": "Snowy Dunes",
+          "url": "https://open.spotify.com/artist/10do1FRShQdKPJ4RuIY4LX"
+        }
+      ],
+      "duration_ms": 373133,
+      "name": "Desert Cold",
+      "url": "https://open.spotify.com/track/6wEShs17sQIlaaWfeJylLE"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Get What You Deserve",
-        "url": "https://open.spotify.com/album/7EYbyvtr4Bxu2JaNr3gI9f"
-      },
-      "artists": [
-        {
-          "name": "Stoned Jesus",
-          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
-        }
-      ],
-      "duration_ms": 550665,
-      "name": "Get What You Deserve",
-      "url": "https://open.spotify.com/track/7yJLpY537kdnfqW1lAerP3"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Arise",
         "url": "https://open.spotify.com/album/2aXbEHQTfNI4xQ4jLoMy4d"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 362800,
       "name": "Arise",
       "url": "https://open.spotify.com/track/6Sq8Tkk3piqcxTzkrWiZao"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Get What You Deserve",
+        "url": "https://open.spotify.com/album/7EYbyvtr4Bxu2JaNr3gI9f"
+      },
+      "artists": [
+        {
+          "name": "Stoned Jesus",
+          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
+        }
+      ],
+      "duration_ms": 550665,
+      "name": "Get What You Deserve",
+      "url": "https://open.spotify.com/track/7yJLpY537kdnfqW1lAerP3"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "The Chosen One",
-        "url": "https://open.spotify.com/album/47Tc6iYguZWmz4TcfNivUU"
-      },
-      "artists": [
-        {
-          "name": "Dopelord",
-          "url": "https://open.spotify.com/artist/1B1b2jSXksHwmmorhmQ8AF"
-        }
-      ],
-      "duration_ms": 416000,
-      "name": "The Chosen One",
-      "url": "https://open.spotify.com/track/2It4BlXp7uTl9xZPYLyqWy"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Emerald Liquid Odyssey",
         "url": "https://open.spotify.com/album/0oHLdnN5Wcpo4bBC3WUb5O"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 189946,
       "name": "Rockin' Course",
       "url": "https://open.spotify.com/track/6zpn0NmeEhm6n4qpmNtKFY"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "The Chosen One",
+        "url": "https://open.spotify.com/album/47Tc6iYguZWmz4TcfNivUU"
+      },
+      "artists": [
+        {
+          "name": "Dopelord",
+          "url": "https://open.spotify.com/artist/1B1b2jSXksHwmmorhmQ8AF"
+        }
+      ],
+      "duration_ms": 416000,
+      "name": "The Chosen One",
+      "url": "https://open.spotify.com/track/2It4BlXp7uTl9xZPYLyqWy"
     },
     {
       "added_at": "2024-07-19 04:00:00",

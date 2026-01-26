@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: なとり \*👉 <a href="https://spice.eplus.jp/articles/343472">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,742 likes - 88 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,744 likes - 88 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. ",
-  "num_followers": 195864,
+  "num_followers": 195854,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2026-01-22 23:00:50",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
-    },
-    {
-      "added_at": "2026-01-22 23:00:50",
-      "album": {
         "name": "Inombords",
         "url": "https://open.spotify.com/album/042ZowqJbaddqs1S1knF8g"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 145650,
       "name": "Inombords",
       "url": "https://open.spotify.com/track/5QMnvHrkUdJ86rPwZHAkYe"
+    },
+    {
+      "added_at": "2026-01-22 23:00:50",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
     },
     {
       "added_at": "2026-01-22 23:00:50",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-01-22 23:00:50",
       "album": {
-        "name": "Horses",
-        "url": "https://open.spotify.com/album/2J4A0g6M4TwFyPeE3S1SQ9"
-      },
-      "artists": [
-        {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
-        }
-      ],
-      "duration_ms": 182715,
-      "name": "Horses",
-      "url": "https://open.spotify.com/track/3cfcXcHx15uP9zuZVU9CAO"
-    },
-    {
-      "added_at": "2026-01-22 23:00:50",
-      "album": {
         "name": "\u00c4ldsta Barnet (Deluxe)",
         "url": "https://open.spotify.com/album/67CKq9Y8yeFXZ0yWQGj7Ga"
       },
@@ -407,18 +391,18 @@
     {
       "added_at": "2026-01-22 23:00:50",
       "album": {
-        "name": "Prayer",
-        "url": "https://open.spotify.com/album/4DkMUoCLqAKVOBDEoItt4Q"
+        "name": "Horses",
+        "url": "https://open.spotify.com/album/2J4A0g6M4TwFyPeE3S1SQ9"
       },
       "artists": [
         {
-          "name": "Tove Styrke",
-          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
         }
       ],
-      "duration_ms": 326068,
-      "name": "Prayer",
-      "url": "https://open.spotify.com/track/0Ckx0xDsZIstBX0YMamLc5"
+      "duration_ms": 182715,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/3cfcXcHx15uP9zuZVU9CAO"
     },
     {
       "added_at": "2026-01-22 23:00:50",
@@ -439,18 +423,18 @@
     {
       "added_at": "2026-01-22 23:00:50",
       "album": {
-        "name": "SPELMANSLAG",
-        "url": "https://open.spotify.com/album/5cAO2cDXZhGxOo3W9AL02J"
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/4DkMUoCLqAKVOBDEoItt4Q"
       },
       "artists": [
         {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
         }
       ],
-      "duration_ms": 121050,
-      "name": "SPELMANSLAG",
-      "url": "https://open.spotify.com/track/6Tk1xbCBSG0i6gW9L4NaPk"
+      "duration_ms": 326068,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/0Ckx0xDsZIstBX0YMamLc5"
     },
     {
       "added_at": "2026-01-22 23:00:50",
@@ -483,6 +467,22 @@
       "duration_ms": 151888,
       "name": "Det f\u00e5r v\u00e4rlden aldrig veta",
       "url": "https://open.spotify.com/track/5gvf3tnmRlEacNJ5XmaKJV"
+    },
+    {
+      "added_at": "2026-01-22 23:00:50",
+      "album": {
+        "name": "SPELMANSLAG",
+        "url": "https://open.spotify.com/album/5cAO2cDXZhGxOo3W9AL02J"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "duration_ms": 121050,
+      "name": "SPELMANSLAG",
+      "url": "https://open.spotify.com/track/6Tk1xbCBSG0i6gW9L4NaPk"
     },
     {
       "added_at": "2026-01-22 23:00:50",
@@ -663,38 +663,6 @@
     {
       "added_at": "2026-01-22 23:00:50",
       "album": {
-        "name": "RANSOMS",
-        "url": "https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7"
-      },
-      "artists": [
-        {
-          "name": "Amanda Jenssen",
-          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
-        }
-      ],
-      "duration_ms": 183278,
-      "name": "RANSOMS",
-      "url": "https://open.spotify.com/track/1yamHSXDy6ECyHqESGbrQN"
-    },
-    {
-      "added_at": "2026-01-22 23:00:50",
-      "album": {
-        "name": "isby sessions",
-        "url": "https://open.spotify.com/album/5LojPgU3MLaPLbD200sVSx"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 162703,
-      "name": "inte tillsammans (find you) - isby sessions",
-      "url": "https://open.spotify.com/track/0zP0wKwZQOTSu8wnMwSuhH"
-    },
-    {
-      "added_at": "2026-01-22 23:00:50",
-      "album": {
         "name": "Hos dig \u00e4r jag stark",
         "url": "https://open.spotify.com/album/71CzIZ2fzyriXJf5kVI9Tj"
       },
@@ -719,34 +687,34 @@
     {
       "added_at": "2026-01-22 23:00:50",
       "album": {
-        "name": "Do You Hate Me Now",
-        "url": "https://open.spotify.com/album/5ShprgDId2y63ncajPVS8s"
+        "name": "isby sessions",
+        "url": "https://open.spotify.com/album/5LojPgU3MLaPLbD200sVSx"
       },
       "artists": [
         {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
         }
       ],
-      "duration_ms": 207752,
-      "name": "Do You Hate Me Now",
-      "url": "https://open.spotify.com/track/34qYoMxmCRJL19n0nnJEA2"
+      "duration_ms": 162703,
+      "name": "inte tillsammans (find you) - isby sessions",
+      "url": "https://open.spotify.com/track/0zP0wKwZQOTSu8wnMwSuhH"
     },
     {
       "added_at": "2026-01-22 23:00:50",
       "album": {
-        "name": "I Need To Sleep",
-        "url": "https://open.spotify.com/album/2BlLzVPNvLCgGl1bxfOJUL"
+        "name": "RANSOMS",
+        "url": "https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7"
       },
       "artists": [
         {
-          "name": "Elise Elvira",
-          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
+          "name": "Amanda Jenssen",
+          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
         }
       ],
-      "duration_ms": 179731,
-      "name": "I Need To Sleep",
-      "url": "https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK"
+      "duration_ms": 183278,
+      "name": "RANSOMS",
+      "url": "https://open.spotify.com/track/1yamHSXDy6ECyHqESGbrQN"
     },
     {
       "added_at": "2026-01-22 23:00:50",
@@ -763,6 +731,54 @@
       "duration_ms": 217560,
       "name": "groby",
       "url": "https://open.spotify.com/track/1MdhtHbpepgG5b88ZPWX0s"
+    },
+    {
+      "added_at": "2026-01-22 23:00:50",
+      "album": {
+        "name": "Do You Hate Me Now",
+        "url": "https://open.spotify.com/album/5ShprgDId2y63ncajPVS8s"
+      },
+      "artists": [
+        {
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+        }
+      ],
+      "duration_ms": 207752,
+      "name": "Do You Hate Me Now",
+      "url": "https://open.spotify.com/track/34qYoMxmCRJL19n0nnJEA2"
+    },
+    {
+      "added_at": "2026-01-22 23:00:50",
+      "album": {
+        "name": "BL\u00c5TANDSSN\u00c4CKA",
+        "url": "https://open.spotify.com/album/23KJh81mDeOY4KzpE1ISOT"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "BL\u00c5TANDSSN\u00c4CKA",
+      "url": "https://open.spotify.com/track/71hki9Cz2BEI3D0fLYtCLc"
+    },
+    {
+      "added_at": "2026-01-22 23:00:50",
+      "album": {
+        "name": "I Need To Sleep",
+        "url": "https://open.spotify.com/album/2BlLzVPNvLCgGl1bxfOJUL"
+      },
+      "artists": [
+        {
+          "name": "Elise Elvira",
+          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
+        }
+      ],
+      "duration_ms": 179731,
+      "name": "I Need To Sleep",
+      "url": "https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK"
     },
     {
       "added_at": "2026-01-22 23:00:50",
@@ -787,38 +803,6 @@
     {
       "added_at": "2026-01-22 23:00:50",
       "album": {
-        "name": "K\u00e4nslostyrd",
-        "url": "https://open.spotify.com/album/1XBacOnNOR4BkbBRAPCxoe"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Lara",
-          "url": "https://open.spotify.com/artist/1gK6bR7fr8AfgfdZfGPyB0"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "K\u00e4nslostyrd",
-      "url": "https://open.spotify.com/track/2uehAVAiwspd3OlukIw100"
-    },
-    {
-      "added_at": "2026-01-22 23:00:50",
-      "album": {
-        "name": "Hazy Eyes",
-        "url": "https://open.spotify.com/album/2UrQrExipPqMumIA5bzYOc"
-      },
-      "artists": [
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "Hazy Eyes",
-      "url": "https://open.spotify.com/track/6LC1blcEVm5CcChPJlMuhA"
-    },
-    {
-      "added_at": "2026-01-22 23:00:50",
-      "album": {
         "name": "Det skulle varit jag (feat. Emilia Pantic)",
         "url": "https://open.spotify.com/album/44D1ohN2GIIhoxZEoZFfjb"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2026-01-22 23:00:50",
       "album": {
+        "name": "K\u00e4nslostyrd",
+        "url": "https://open.spotify.com/album/1XBacOnNOR4BkbBRAPCxoe"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Lara",
+          "url": "https://open.spotify.com/artist/1gK6bR7fr8AfgfdZfGPyB0"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "K\u00e4nslostyrd",
+      "url": "https://open.spotify.com/track/2uehAVAiwspd3OlukIw100"
+    },
+    {
+      "added_at": "2026-01-22 23:00:50",
+      "album": {
         "name": "Hon e 32 oktober",
         "url": "https://open.spotify.com/album/0eUYDZ5GoXIbicmUKxHCQm"
       },
@@ -851,6 +851,22 @@
       "duration_ms": 228614,
       "name": "Hon e 32 oktober",
       "url": "https://open.spotify.com/track/3bGNmdSOhTRc0swbqfW4gv"
+    },
+    {
+      "added_at": "2026-01-22 23:00:50",
+      "album": {
+        "name": "Hazy Eyes",
+        "url": "https://open.spotify.com/album/2UrQrExipPqMumIA5bzYOc"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "duration_ms": 190066,
+      "name": "Hazy Eyes",
+      "url": "https://open.spotify.com/track/6LC1blcEVm5CcChPJlMuhA"
     },
     {
       "added_at": "2026-01-22 23:00:50",
@@ -871,6 +887,22 @@
     {
       "added_at": "2026-01-22 23:00:50",
       "album": {
+        "name": "Vi som \u00e4r natten",
+        "url": "https://open.spotify.com/album/5SDri3EpV6HYCoyPLdtyeL"
+      },
+      "artists": [
+        {
+          "name": "Oscar Zia",
+          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
+        }
+      ],
+      "duration_ms": 135978,
+      "name": "Vi som \u00e4r natten",
+      "url": "https://open.spotify.com/track/4uScN8eKZWScsM20u2YwUq"
+    },
+    {
+      "added_at": "2026-01-22 23:00:50",
+      "album": {
         "name": "Get It Over",
         "url": "https://open.spotify.com/album/5o7I5gyXLPgw0uPP1zpvy8"
       },
@@ -887,22 +919,6 @@
       "duration_ms": 196314,
       "name": "Get It Over",
       "url": "https://open.spotify.com/track/5sJUrTiOlAdoKO8V81spAv"
-    },
-    {
-      "added_at": "2026-01-22 23:00:50",
-      "album": {
-        "name": "Vi som \u00e4r natten",
-        "url": "https://open.spotify.com/album/5SDri3EpV6HYCoyPLdtyeL"
-      },
-      "artists": [
-        {
-          "name": "Oscar Zia",
-          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
-        }
-      ],
-      "duration_ms": 135978,
-      "name": "Vi som \u00e4r natten",
-      "url": "https://open.spotify.com/track/4uScN8eKZWScsM20u2YwUq"
     },
     {
       "added_at": "2026-01-22 23:00:50",
@@ -955,22 +971,6 @@
     {
       "added_at": "2026-01-22 23:00:50",
       "album": {
-        "name": "Fumbling",
-        "url": "https://open.spotify.com/album/1yQnL9bEmohv6UQwiRTBko"
-      },
-      "artists": [
-        {
-          "name": "Augustine",
-          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
-        }
-      ],
-      "duration_ms": 200057,
-      "name": "Fumbling",
-      "url": "https://open.spotify.com/track/30gu79HBDubdcbhmUJOjIy"
-    },
-    {
-      "added_at": "2026-01-22 23:00:50",
-      "album": {
         "name": "Haunted Disco",
         "url": "https://open.spotify.com/album/1n9r7bEikcyEqGbMenMySZ"
       },
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-01-22 23:00:50",
       "album": {
+        "name": "Fumbling",
+        "url": "https://open.spotify.com/album/1yQnL9bEmohv6UQwiRTBko"
+      },
+      "artists": [
+        {
+          "name": "Augustine",
+          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
+        }
+      ],
+      "duration_ms": 200057,
+      "name": "Fumbling",
+      "url": "https://open.spotify.com/track/30gu79HBDubdcbhmUJOjIy"
+    },
+    {
+      "added_at": "2026-01-22 23:00:50",
+      "album": {
         "name": "Du & jag & mera tid",
         "url": "https://open.spotify.com/album/5DoYxoIibcFRIraBQ8TGQ6"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 174101,
       "name": "Bara kom",
       "url": "https://open.spotify.com/track/7CcrqmPUhnFAOWG1Y9ogp8"
-    },
-    {
-      "added_at": "2026-01-22 23:00:50",
-      "album": {
-        "name": "BL\u00c5TANDSSN\u00c4CKA",
-        "url": "https://open.spotify.com/album/23KJh81mDeOY4KzpE1ISOT"
-      },
-      "artists": [
-        {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "BL\u00c5TANDSSN\u00c4CKA",
-      "url": "https://open.spotify.com/track/71hki9Cz2BEI3D0fLYtCLc"
     },
     {
       "added_at": "2026-01-22 23:00:50",
@@ -1111,18 +1111,22 @@
     {
       "added_at": "2026-01-22 23:00:50",
       "album": {
-        "name": "M\u00e4nniskobarn",
-        "url": "https://open.spotify.com/album/11cjyNBwd0KWKHcAsrQhS7"
+        "name": "Vintersaga (feat. Erik Lundin)",
+        "url": "https://open.spotify.com/album/2AUyGofzojnDNVclq5IaM8"
       },
       "artists": [
         {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+          "name": "Deportees",
+          "url": "https://open.spotify.com/artist/64WsK4rMjSwnyuzTPFHVH4"
+        },
+        {
+          "name": "Erik Lundin",
+          "url": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
         }
       ],
-      "duration_ms": 218487,
-      "name": "M\u00e4nniskobarn",
-      "url": "https://open.spotify.com/track/0VaIs3pVGqAeXidW86x7Nc"
+      "duration_ms": 179000,
+      "name": "Vintersaga (feat. Erik Lundin)",
+      "url": "https://open.spotify.com/track/10UCosnyAKb33FIpMLCK20"
     },
     {
       "added_at": "2026-01-22 23:00:50",
@@ -1175,26 +1179,6 @@
     {
       "added_at": "2026-01-22 23:00:50",
       "album": {
-        "name": "Vintersaga (feat. Erik Lundin)",
-        "url": "https://open.spotify.com/album/2AUyGofzojnDNVclq5IaM8"
-      },
-      "artists": [
-        {
-          "name": "Deportees",
-          "url": "https://open.spotify.com/artist/64WsK4rMjSwnyuzTPFHVH4"
-        },
-        {
-          "name": "Erik Lundin",
-          "url": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Vintersaga (feat. Erik Lundin)",
-      "url": "https://open.spotify.com/track/10UCosnyAKb33FIpMLCK20"
-    },
-    {
-      "added_at": "2026-01-22 23:00:50",
-      "album": {
         "name": "V\u00e4xtv\u00e4rk",
         "url": "https://open.spotify.com/album/2dGH45FriITKuSDiYDhp46"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 209533,
       "name": "V\u00e4xtv\u00e4rk",
       "url": "https://open.spotify.com/track/71YshPURU1bulv8OuF9d94"
+    },
+    {
+      "added_at": "2026-01-22 23:00:50",
+      "album": {
+        "name": "M\u00e4nniskobarn",
+        "url": "https://open.spotify.com/album/11cjyNBwd0KWKHcAsrQhS7"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 218487,
+      "name": "M\u00e4nniskobarn",
+      "url": "https://open.spotify.com/track/0VaIs3pVGqAeXidW86x7Nc"
     },
     {
       "added_at": "2026-01-22 23:00:50",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-01-22 23:00:50",
       "album": {
-        "name": "Edge of the Earth",
-        "url": "https://open.spotify.com/album/1WljWKt77EMsgjRdnMfUHN"
-      },
-      "artists": [
-        {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
-        }
-      ],
-      "duration_ms": 220348,
-      "name": "Edge of the Earth",
-      "url": "https://open.spotify.com/track/3GzhyEkF7m89mVv3BUJh8N"
-    },
-    {
-      "added_at": "2026-01-22 23:00:50",
-      "album": {
         "name": "Sciura",
         "url": "https://open.spotify.com/album/1hFIfwfxnj8psJygCamspI"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 281213,
       "name": "H\u00e4mta mer",
       "url": "https://open.spotify.com/track/5LcaQhfIrbt38NAeile7VL"
+    },
+    {
+      "added_at": "2026-01-22 23:00:50",
+      "album": {
+        "name": "Edge of the Earth",
+        "url": "https://open.spotify.com/album/1WljWKt77EMsgjRdnMfUHN"
+      },
+      "artists": [
+        {
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+        }
+      ],
+      "duration_ms": 220348,
+      "name": "Edge of the Earth",
+      "url": "https://open.spotify.com/track/3GzhyEkF7m89mVv3BUJh8N"
     },
     {
       "added_at": "2026-01-22 23:00:50",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-01-22 23:00:50",
       "album": {
-        "name": "M\u00f6rka himlar",
-        "url": "https://open.spotify.com/album/5PHec3lpUQZGeuT1BTSojU"
-      },
-      "artists": [
-        {
-          "name": "Ida-Lova",
-          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
-        }
-      ],
-      "duration_ms": 216750,
-      "name": "M\u00f6rka himlar",
-      "url": "https://open.spotify.com/track/7FPj2OBT6fKMgVCX2uT8f4"
-    },
-    {
-      "added_at": "2026-01-22 23:00:50",
-      "album": {
         "name": "V\u00e4xtv\u00e4rk",
         "url": "https://open.spotify.com/album/3PGVSKT85RTFpkavKDVpFm"
       },
@@ -1379,18 +1363,18 @@
     {
       "added_at": "2026-01-22 23:00:50",
       "album": {
-        "name": "mexico / is this how you said you'd be gone",
-        "url": "https://open.spotify.com/album/0iLHHCTA7n8iZyJHjiNKLA"
+        "name": "M\u00f6rka himlar",
+        "url": "https://open.spotify.com/album/5PHec3lpUQZGeuT1BTSojU"
       },
       "artists": [
         {
-          "name": "Amanda Bergman",
-          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
         }
       ],
-      "duration_ms": 247920,
-      "name": "is this how you said you\u2019d be gone",
-      "url": "https://open.spotify.com/track/1zM1XKfkjVooLnszVfO6nq"
+      "duration_ms": 216750,
+      "name": "M\u00f6rka himlar",
+      "url": "https://open.spotify.com/track/7FPj2OBT6fKMgVCX2uT8f4"
     },
     {
       "added_at": "2026-01-22 23:00:50",
@@ -1411,38 +1395,18 @@
     {
       "added_at": "2026-01-22 23:00:50",
       "album": {
-        "name": "Saltvatten",
-        "url": "https://open.spotify.com/album/20vHV2i2Xsq1fKZ7WwKMZz"
+        "name": "mexico / is this how you said you'd be gone",
+        "url": "https://open.spotify.com/album/0iLHHCTA7n8iZyJHjiNKLA"
       },
       "artists": [
         {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
-        },
-        {
-          "name": "Kasino",
-          "url": "https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2"
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
         }
       ],
-      "duration_ms": 226520,
-      "name": "Saltvatten",
-      "url": "https://open.spotify.com/track/3HSGRCxQNn67uVhtjFMnju"
-    },
-    {
-      "added_at": "2026-01-22 23:00:50",
-      "album": {
-        "name": "Margaretas s\u00e5ng",
-        "url": "https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 252629,
-      "name": "Margaretas s\u00e5ng",
-      "url": "https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h"
+      "duration_ms": 247920,
+      "name": "is this how you said you\u2019d be gone",
+      "url": "https://open.spotify.com/track/1zM1XKfkjVooLnszVfO6nq"
     },
     {
       "added_at": "2026-01-22 23:00:50",
@@ -1463,6 +1427,42 @@
       "duration_ms": 190666,
       "name": "N\u00e5n annan",
       "url": "https://open.spotify.com/track/2n1gnIR1hIqcEZ5AdtTHTq"
+    },
+    {
+      "added_at": "2026-01-22 23:00:50",
+      "album": {
+        "name": "Margaretas s\u00e5ng",
+        "url": "https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 252629,
+      "name": "Margaretas s\u00e5ng",
+      "url": "https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h"
+    },
+    {
+      "added_at": "2026-01-22 23:00:50",
+      "album": {
+        "name": "Saltvatten",
+        "url": "https://open.spotify.com/album/20vHV2i2Xsq1fKZ7WwKMZz"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        },
+        {
+          "name": "Kasino",
+          "url": "https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2"
+        }
+      ],
+      "duration_ms": 226520,
+      "name": "Saltvatten",
+      "url": "https://open.spotify.com/track/3HSGRCxQNn67uVhtjFMnju"
     },
     {
       "added_at": "2026-01-22 23:00:50",
@@ -1535,6 +1535,22 @@
       "duration_ms": 190573,
       "name": "Baba Life",
       "url": "https://open.spotify.com/track/2PE4NQTuR3u8MQZJSE5sLw"
+    },
+    {
+      "added_at": "2026-01-22 23:00:50",
+      "album": {
+        "name": "Du tappa d\u00e4",
+        "url": "https://open.spotify.com/album/1ss3TtK9plwjIBeEUkZkzo"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 191132,
+      "name": "Du tappa d\u00e4",
+      "url": "https://open.spotify.com/track/3xBZH1auLQJOA40qmew7Wv"
     },
     {
       "added_at": "2026-01-22 23:00:50",
@@ -1635,22 +1651,6 @@
     {
       "added_at": "2026-01-22 23:00:50",
       "album": {
-        "name": "Mistakes",
-        "url": "https://open.spotify.com/album/0Hwfl9l8bI0CPBLxU8H5AT"
-      },
-      "artists": [
-        {
-          "name": "Scout",
-          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
-        }
-      ],
-      "duration_ms": 215298,
-      "name": "Mistakes",
-      "url": "https://open.spotify.com/track/2r3OmINnuBrxP5VXuIlUeR"
-    },
-    {
-      "added_at": "2026-01-22 23:00:50",
-      "album": {
         "name": "Dag 1",
         "url": "https://open.spotify.com/album/7xte7lrGFkhOv3lvN4zyIp"
       },
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2026-01-22 23:00:50",
       "album": {
-        "name": "Du tappa d\u00e4",
-        "url": "https://open.spotify.com/album/1ss3TtK9plwjIBeEUkZkzo"
+        "name": "Mistakes",
+        "url": "https://open.spotify.com/album/0Hwfl9l8bI0CPBLxU8H5AT"
       },
       "artists": [
         {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+          "name": "Scout",
+          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
         }
       ],
-      "duration_ms": 191132,
-      "name": "Du tappa d\u00e4",
-      "url": "https://open.spotify.com/track/3xBZH1auLQJOA40qmew7Wv"
+      "duration_ms": 215298,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/2r3OmINnuBrxP5VXuIlUeR"
     },
     {
       "added_at": "2026-01-22 23:00:50",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2026-01-22 23:00:50",
       "album": {
-        "name": "...fifteen",
-        "url": "https://open.spotify.com/album/3QaQ8Rd9HiAcrpj8cl4RLI"
+        "name": "Krig",
+        "url": "https://open.spotify.com/album/182MDeWuLgGIFOxRA077d4"
       },
       "artists": [
         {
-          "name": "Jackie Mere",
-          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
+          "name": "Labyrint",
+          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
         }
       ],
-      "duration_ms": 167050,
-      "name": "...fifteen",
-      "url": "https://open.spotify.com/track/403P5EnZmnK3InEidAmXpS"
+      "duration_ms": 133608,
+      "name": "Krig",
+      "url": "https://open.spotify.com/track/3ZjS9KHqg94sTPnPy2HB26"
     },
     {
       "added_at": "2026-01-22 23:00:50",
@@ -1763,6 +1763,22 @@
       "duration_ms": 188695,
       "name": "B\u00e4ttre h\u00e4r",
       "url": "https://open.spotify.com/track/3zqfcyKhCA4STL9qI4NmAL"
+    },
+    {
+      "added_at": "2026-01-22 23:00:50",
+      "album": {
+        "name": "...fifteen",
+        "url": "https://open.spotify.com/album/3QaQ8Rd9HiAcrpj8cl4RLI"
+      },
+      "artists": [
+        {
+          "name": "Jackie Mere",
+          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
+        }
+      ],
+      "duration_ms": 167050,
+      "name": "...fifteen",
+      "url": "https://open.spotify.com/track/403P5EnZmnK3InEidAmXpS"
     },
     {
       "added_at": "2026-01-22 23:00:50",
@@ -1787,38 +1803,6 @@
     {
       "added_at": "2026-01-22 23:00:50",
       "album": {
-        "name": "Evergreen min v\u00e4n evergreen",
-        "url": "https://open.spotify.com/album/2Ge4FZk4hqlX6snqKj2GKX"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 183253,
-      "name": "Evergreen min v\u00e4n evergreen",
-      "url": "https://open.spotify.com/track/2nn5Cj8bFekSz45yo666T5"
-    },
-    {
-      "added_at": "2026-01-22 23:00:50",
-      "album": {
-        "name": "Krig",
-        "url": "https://open.spotify.com/album/182MDeWuLgGIFOxRA077d4"
-      },
-      "artists": [
-        {
-          "name": "Labyrint",
-          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
-        }
-      ],
-      "duration_ms": 133608,
-      "name": "Krig",
-      "url": "https://open.spotify.com/track/3ZjS9KHqg94sTPnPy2HB26"
-    },
-    {
-      "added_at": "2026-01-22 23:00:50",
-      "album": {
         "name": "MIG/DIG (feat. Klaudy)",
         "url": "https://open.spotify.com/album/4xeizK2EHs4GlbDezTmR5S"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 176672,
       "name": "MIG/DIG (feat. Klaudy)",
       "url": "https://open.spotify.com/track/5vOWUz65ez7ctQQLBpbgvc"
+    },
+    {
+      "added_at": "2026-01-22 23:00:50",
+      "album": {
+        "name": "Evergreen min v\u00e4n evergreen",
+        "url": "https://open.spotify.com/album/2Ge4FZk4hqlX6snqKj2GKX"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 183253,
+      "name": "Evergreen min v\u00e4n evergreen",
+      "url": "https://open.spotify.com/track/2nn5Cj8bFekSz45yo666T5"
     },
     {
       "added_at": "2026-01-22 23:00:50",

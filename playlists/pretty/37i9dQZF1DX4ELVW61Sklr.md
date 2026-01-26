@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,242 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,214 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 41 | [Jingle Bells](https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu) | [Bebe & Cece Winans](https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs) | [First Christmas](https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl) | 4:23 |
 | 42 | [A Timeless Christmas](https://open.spotify.com/track/39UYaCYN5NtZQjWsdsWsqF) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [A Timeless Christmas](https://open.spotify.com/album/5IBq0A7yHPkYX9xf6tAEsi) | 3:35 |
 | 43 | [Christmas Special](https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Christmas Special](https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl) | 3:08 |
-| 44 | [Soul Holidays](https://open.spotify.com/track/30eM8EUY1RvHSAzWoIegml) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [The Very Best Of Sounds Of Blackness & Ann Nesby](https://open.spotify.com/album/6Hf7mK9rJuoZ0VTMkdkWsM) | 6:00 |
-| 45 | [The First Noel](https://open.spotify.com/track/6IM1eCKlyY660wLgjDRIZC) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The First Noel](https://open.spotify.com/album/3GFK7c17BBOJeUT9XZ91VX) | 2:32 |
+| 44 | [The First Noel](https://open.spotify.com/track/6IM1eCKlyY660wLgjDRIZC) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The First Noel](https://open.spotify.com/album/3GFK7c17BBOJeUT9XZ91VX) | 2:32 |
+| 45 | [Soul Holidays](https://open.spotify.com/track/30eM8EUY1RvHSAzWoIegml) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [The Very Best Of Sounds Of Blackness & Ann Nesby](https://open.spotify.com/album/6Hf7mK9rJuoZ0VTMkdkWsM) | 6:00 |
 | 46 | [What Christmas Means to Me \- from "The Best Man Holiday Original Motion Picture Soundtrack"](https://open.spotify.com/track/6fjsIxSPXnOjQleb11AYNU) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [The Best Man Holiday: Original Motion Picture Soundtrack](https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt) | 2:24 |
 | 47 | [Litmas](https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Litmas](https://open.spotify.com/album/5L8tVPZGpNSuPprmu7gqIR) | 3:08 |
 | 48 | [Give Love On Christmas Day](https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 3:54 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 66 | [Christmas All Year](https://open.spotify.com/track/27d6hPrn21lrr9l91d4L4I) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Christmas All Year](https://open.spotify.com/album/4esMIO29tsDdDEyV2eZJkl) | 2:53 |
 | 67 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/7nWvhavXdp87bFQYrMXr9y) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [The Best Man Holiday: Original Motion Picture Soundtrack](https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt) | 2:45 |
 | 68 | [Merry Like This](https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Merry Like This](https://open.spotify.com/album/3n9bv3VnbOhJQu6KG2XM4c) | 3:00 |
-| 69 | [Let it Snow](https://open.spotify.com/track/40YWflAnC2hb8Ohz19YfUY) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [Let it Snow](https://open.spotify.com/album/2cSUo8xgm6TmYfsLH4HVgm) | 3:22 |
+| 69 | [Ghetto Christmas \(with 6LACK & Summer Walker\)](https://open.spotify.com/track/5ycUatWaShR7L5aXhW4uf2) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Home For The Holidays](https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4) | 2:35 |
 | 70 | [Let it Snow](https://open.spotify.com/track/0k1F8zsS5dMzHhG12c0VSf) | [Alexia Jayy](https://open.spotify.com/artist/13qhBGFWNzC29m0Cq2inta) | [Let it Snow](https://open.spotify.com/album/0yeuE7D7HRe0XTrTn6kSm7) | 2:41 |
-| 71 | [Ghetto Christmas \(with 6LACK & Summer Walker\)](https://open.spotify.com/track/5ycUatWaShR7L5aXhW4uf2) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Home For The Holidays](https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4) | 2:35 |
+| 71 | [Let it Snow](https://open.spotify.com/track/40YWflAnC2hb8Ohz19YfUY) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [Let it Snow](https://open.spotify.com/album/2cSUo8xgm6TmYfsLH4HVgm) | 3:22 |
 | 72 | [Somebody's Waiting](https://open.spotify.com/track/7MeJ8GQz5nUxjrai6tEf3J) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Christmas With Brandy](https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk) | 3:01 |
 | 73 | [Here \(For Christmas\)](https://open.spotify.com/track/21jVByCWeQAlt3xB5XtNfl) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K) | [Here \(For Christmas\)](https://open.spotify.com/album/6wnQgfOYDXcrI4CcI8I0pw) | 4:13 |
 | 74 | [Christmas, Love, and You](https://open.spotify.com/track/7Inmp1hBrwS1PnV0zCxYwX) | [Will Downing](https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY) | [Christmas, Love And You](https://open.spotify.com/album/55oTFa7qZbJW50tVnrJpN8) | 4:21 |

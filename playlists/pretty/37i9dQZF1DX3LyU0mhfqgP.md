@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Songs from LGBTQIA+ artists\. Cover: Luna Ki
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,075,132 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,075,070 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 26 | [Time](https://open.spotify.com/track/6BRFVQwbscJLhJeqVEc7ln) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Time](https://open.spotify.com/album/1Z38qSdjA1F9KqgKWsYxFQ) | 2:54 |
 | 27 | [Planos](https://open.spotify.com/track/49cUQeHqB29Pf3DahEOsD8) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Planos](https://open.spotify.com/album/5OQujsjg6AsgHiybmw4nhb) | 3:39 |
 | 28 | [Jag har förlorat](https://open.spotify.com/track/3CGAR7UtTiFLo4vAe769OV) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Jag har förlorat](https://open.spotify.com/album/52AFXBDfUYZZ9fm7NnUahq) | 2:56 |
-| 29 | [Never Give Up On Loving You](https://open.spotify.com/track/3cd2zbZkfxt4olZ7ajzqe7) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Never Give Up On Loving You](https://open.spotify.com/album/6bAPrs5Jw78jM9G318v2Ba) | 3:36 |
-| 30 | [God’s A Raver](https://open.spotify.com/track/5iYZvfyws18ttpfJFXkq83) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Arthouse](https://open.spotify.com/album/7II243HQI2I0gvCSOLsWN2) | 2:51 |
+| 29 | [God’s A Raver](https://open.spotify.com/track/5iYZvfyws18ttpfJFXkq83) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Arthouse](https://open.spotify.com/album/7II243HQI2I0gvCSOLsWN2) | 2:51 |
+| 30 | [Never Give Up On Loving You](https://open.spotify.com/track/3cd2zbZkfxt4olZ7ajzqe7) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Never Give Up On Loving You](https://open.spotify.com/album/6bAPrs5Jw78jM9G318v2Ba) | 3:36 |
 | 31 | [Pity Party](https://open.spotify.com/track/5dt3P1BESu104KhUtVMIV4) | [Lydia Night](https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l) | [Parody Of Pleasure](https://open.spotify.com/album/7k2AzBz7mFQAnKPYSzRwV7) | 3:17 |
 | 32 | [Dearly Missed](https://open.spotify.com/track/1N5MjhXcJmjKuaeLsuFpA9) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Photograph of a Cyclone](https://open.spotify.com/album/1izRdreIuynbBHrzp9gS5u) | 6:00 |
 | 33 | [Weekend Special \(with Brenda Fassie\) \- USA Remix](https://open.spotify.com/track/3Uy4yCyO4Yfc9JfifokpJG) | [Brenda & The Big Dudes](https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ) | [Weekend Special \(USA Remixes\)](https://open.spotify.com/album/5npwhnt8Jnv7KQgHqR6OJv) | 4:48 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 46 | [Una llamada de Satanás](https://open.spotify.com/track/6SIPTnMUIIzXnPTP3VZFmH) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [Una llamada de Satanás](https://open.spotify.com/album/1U0QuUzdyj9pxK5fIaweaC) | 4:19 |
 | 47 | [Orrore!](https://open.spotify.com/track/02BsuUGEo4dNbzioXbEhjJ) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf) | [Orrore!](https://open.spotify.com/album/6HlAOxR2wMWbjEmbZRw7gQ) | 2:38 |
 | 48 | [Peripheral Lover](https://open.spotify.com/track/6XxpwjLMDCb1szRBJgfMYe) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Like Plasticine](https://open.spotify.com/album/2lyFN2NEqihYP1tD3zISzt) | 3:15 |
-| 49 | [watermelon juice](https://open.spotify.com/track/13yacPP35Xx7VNXE6yuSG5) | [PA777IENCE](https://open.spotify.com/artist/2uUBytPvcqMfHrmqmNwM5t) | [watermelon juice](https://open.spotify.com/album/3RamU4y1Wz9FlgsoJpOnA9) | 2:29 |
-| 50 | [Signed, Sealed, Delivered](https://open.spotify.com/track/1PEeKPfHjQgsTx646vXVy8) | [Maria\-Therese](https://open.spotify.com/artist/5G7CkGWwTk7l36L6vw0ftK) | [MONARCH](https://open.spotify.com/album/4zISc7rQ93tgBp3Htxc2vO) | 2:40 |
+| 49 | [Signed, Sealed, Delivered](https://open.spotify.com/track/1PEeKPfHjQgsTx646vXVy8) | [Maria\-Therese](https://open.spotify.com/artist/5G7CkGWwTk7l36L6vw0ftK) | [MONARCH](https://open.spotify.com/album/4zISc7rQ93tgBp3Htxc2vO) | 2:40 |
+| 50 | [watermelon juice](https://open.spotify.com/track/13yacPP35Xx7VNXE6yuSG5) | [PA777IENCE](https://open.spotify.com/artist/2uUBytPvcqMfHrmqmNwM5t) | [watermelon juice](https://open.spotify.com/album/3RamU4y1Wz9FlgsoJpOnA9) | 2:29 |
 
 Snapshot ID: `AAAAAGEKXSfEevJ3Tc7QHDoEfyej88Ry`

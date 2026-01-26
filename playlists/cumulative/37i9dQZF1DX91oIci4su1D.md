@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with the one & only Tiësto
 
-1,237 songs - 3 day 2 hr 7 min
+1,238 songs - 3 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Artefact](https://open.spotify.com/track/4s5YiAfgPWyq37WukmceRI) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Fuenka](https://open.spotify.com/artist/20LsNbfhofBFByG5kuRKvK) | [Artefact](https://open.spotify.com/album/3JygQ7vwR0sa8OEXEN1Rj3) | 3:40 | 2022-08-12 | 2023-06-10 |
 | [Artemis](https://open.spotify.com/track/37VTqZNklXxzXdbOqeC9HC) | [Ralphie B](https://open.spotify.com/artist/5KZ8bXnO1Q3nGWP2UqmQ3f) | [Artemis](https://open.spotify.com/album/3vNnhqclfPzpVBBkzhHE4h) | 4:06 | 2023-07-14 | 2024-07-13 |
 | [As the Sun Breaks](https://open.spotify.com/track/1KJZZ7GNTJ6AYPUtKYIeX3) | [Temple One](https://open.spotify.com/artist/04d81XptQA11pLPxMXLxC9) | [As the Sun Breaks](https://open.spotify.com/album/3yZlpDiuZYgIprZsl1VC2P) | 3:58 | 2023-12-08 | 2025-05-17 |
-| [Ascend](https://open.spotify.com/track/52QYnyhOTbk9ICVCSQkUBd) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Ascend](https://open.spotify.com/album/1lbWbT7G4YUQAN7TUIsWMq) | 3:23 | 2025-08-15 |  |
+| [Ascend](https://open.spotify.com/track/52QYnyhOTbk9ICVCSQkUBd) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Ascend](https://open.spotify.com/album/1lbWbT7G4YUQAN7TUIsWMq) | 3:23 | 2025-08-15 | 2026-01-26 |
 | [Ascend](https://open.spotify.com/track/6MGTRiIoovwhas2yLFv1NE) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM) | [Ascend](https://open.spotify.com/album/1eOd6pPjaUdoKqY39dhxch) | 2:49 | 2022-08-12 | 2023-06-10 |
 | [Ask Me Anything \- Album Mix](https://open.spotify.com/track/5rN7rDTkNneqW9Q5Dshsqc) | [Aurosonic](https://open.spotify.com/artist/1UkK91RiLw3FonVedbAVA1), [Ana Criado](https://open.spotify.com/artist/74wwiRVGGmTpYiU2l1olVU) | [Euphoria](https://open.spotify.com/album/7Et9aUqQ8jnwIiZ49ka1ck) | 4:59 | 2021-12-17 | 2023-02-25 |
 | [Astro](https://open.spotify.com/track/4PrtVFZouroQZGMzjVat8d) | [Justus](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Astro](https://open.spotify.com/album/78Gqsy8a716SrHnhkgy4sw) | 3:00 | 2021-12-17 | 2022-02-26 |
@@ -607,6 +607,7 @@
 | [Liberty](https://open.spotify.com/track/2Jng2wv19QsV83DvdNVfJ7) | [Paul Denton](https://open.spotify.com/artist/2fKsd61swALXCOUa8q89U2), [Will Rees](https://open.spotify.com/artist/1dlEz2w0VlP9NSzM6YA1Cm), [Parallel Worlds](https://open.spotify.com/artist/5e6m194uDjuqFdHeq8BpaX) | [Liberty](https://open.spotify.com/album/6bq5y7hpYR3zr7TfD1nZ4a) | 3:44 | 2025-02-07 | 2025-03-08 |
 | [Life](https://open.spotify.com/track/2UEmLEXlkJo1Agp1Ci7894) | [Norni](https://open.spotify.com/artist/6huxF5zlE1RX4sKRUWlEeW) | [Life](https://open.spotify.com/album/31Rfe4nu8yfzwNt8uUNYOY) | 3:15 | 2023-07-21 | 2023-08-20 |
 | [Life's Unfair](https://open.spotify.com/track/1u6yM18TWzdsGpf9UsUrL6) | [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Life's Unfair](https://open.spotify.com/album/5dKXVw6fK5vhmycDsTje7Z) | 3:34 | 2022-02-25 | 2022-07-20 |
+| [Lifeline](https://open.spotify.com/track/6RcemUDuHKPPGO5BTm6CsG) | [Ahmed Helmy](https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m), [Cari](https://open.spotify.com/artist/6UAL6sAn9OZc6VQGOOp3re) | [Lifeline](https://open.spotify.com/album/6OIEacqHqXdcKmS3m5PJIz) | 3:49 | 2026-01-23 |  |
 | [Lifeline](https://open.spotify.com/track/4tvDQfaM3ZJMrQbLA13RNm) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Lifeline](https://open.spotify.com/album/3TgepwNI0HXrFMPfQom2B7) | 3:38 | 2022-09-23 | 2023-05-20 |
 | [Lifeline \- Fisherman Remix](https://open.spotify.com/track/1GuVsKyXDotOBc7k1ZsQHZ) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Fisherman](https://open.spotify.com/artist/0vykncECxuxH5RqOMt6IIg) | [Lifeline \(Fisherman Remix\)](https://open.spotify.com/album/3RcHIST3XzCyqc5wOTxmPZ) | 3:34 | 2023-05-19 | 2023-11-11 |
 | [Light & Shade](https://open.spotify.com/track/1YBg8ylGKiTrq4Sniw6UdB) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C), [re:boot](https://open.spotify.com/artist/1HBB7Pn85JrPzx4PwRWIWH), [Adrian Alexander](https://open.spotify.com/artist/5msCUDk1PeADCytZ4lw5D6), [Nikhil Prakash](https://open.spotify.com/artist/3StDV7dbuu968KpgOAnsnT) | [Fatum's Anjunabeats Worldwide 10 Collaborations EP](https://open.spotify.com/album/32hWfoag5Fg80aC1oa6398) | 2:58 | 2022-07-29 | 2023-05-20 |

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Beautiful Life",
+        "url": "https://open.spotify.com/album/79aSUbgxr9M52YmWOeNzz8"
+      },
+      "artists": [
+        {
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196304,
+      "name": "A Beautiful Life",
+      "url": "https://open.spotify.com/track/08tISrq05HwXHhSHG0ABbQ"
+    },
+    {
+      "album": {
         "name": "A Lot More Free",
         "url": "https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47"
       },
@@ -2196,7 +2214,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 192459,
       "name": "Human Mind",
       "url": "https://open.spotify.com/track/3lD9Y6X1tNME5o5x8KoTEd"
@@ -2438,7 +2456,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 240381,
       "name": "In The Middle Of It",
       "url": "https://open.spotify.com/track/1RwZ3acl6fKP04Yv3zWtPW"
@@ -3168,7 +3186,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 213131,
       "name": "Not Cause I Wanted To",
       "url": "https://open.spotify.com/track/6rDHCMfDbnn3cWmPhea9ef"

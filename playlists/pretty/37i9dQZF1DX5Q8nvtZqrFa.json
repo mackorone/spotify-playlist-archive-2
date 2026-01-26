@@ -1,6 +1,6 @@
 {
   "description": "\u7dba\u9e97\u4e8b\u306f\u805e\u304d\u305f\u304f\u306a\u3044\u3002\u672c\u97f3\u3067\u3064\u3065\u3089\u308c\u305f\u5504\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 22398,
+  "num_followers": 22397,
   "original_name": "\u305b\u304d\u3089\u3089",
   "owner": {
     "name": "Spotify",
@@ -547,18 +547,18 @@
     {
       "added_at": "2026-01-20 15:00:14",
       "album": {
-        "name": "\u3082\u3046\u4e00\u5ea6",
-        "url": "https://open.spotify.com/album/1DceuvwdLYSdS4V50pg2ey"
+        "name": "\u8a98\u62d0 / \u30e9\u30f3\u30c7\u30f4\u30fc",
+        "url": "https://open.spotify.com/album/02DXAukxsFb2emkKok8l3n"
       },
       "artists": [
         {
-          "name": "Tani Yuuki",
-          "url": "https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX"
+          "name": "shytaupe",
+          "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
         }
       ],
-      "duration_ms": 250766,
-      "name": "\u3082\u3046\u4e00\u5ea6",
-      "url": "https://open.spotify.com/track/1RChlirFdgtS1ZPH45dJX0"
+      "duration_ms": 237739,
+      "name": "\u30e9\u30f3\u30c7\u30f4\u30fc",
+      "url": "https://open.spotify.com/track/7gSiIKxphi5BGr7SDrSKod"
     },
     {
       "added_at": "2026-01-20 15:00:14",
@@ -579,18 +579,18 @@
     {
       "added_at": "2026-01-20 15:00:14",
       "album": {
-        "name": "\u8a98\u62d0 / \u30e9\u30f3\u30c7\u30f4\u30fc",
-        "url": "https://open.spotify.com/album/02DXAukxsFb2emkKok8l3n"
+        "name": "\u3082\u3046\u4e00\u5ea6",
+        "url": "https://open.spotify.com/album/1DceuvwdLYSdS4V50pg2ey"
       },
       "artists": [
         {
-          "name": "shytaupe",
-          "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
+          "name": "Tani Yuuki",
+          "url": "https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX"
         }
       ],
-      "duration_ms": 237739,
-      "name": "\u30e9\u30f3\u30c7\u30f4\u30fc",
-      "url": "https://open.spotify.com/track/7gSiIKxphi5BGr7SDrSKod"
+      "duration_ms": 250766,
+      "name": "\u3082\u3046\u4e00\u5ea6",
+      "url": "https://open.spotify.com/track/1RChlirFdgtS1ZPH45dJX0"
     },
     {
       "added_at": "2026-01-20 15:00:14",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-01-20 15:00:14",
       "album": {
-        "name": "\u30ec\u30a4\u30b8\u30fc\u30b5\u30f3\u30c7\u30fc",
-        "url": "https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr"
-      },
-      "artists": [
-        {
-          "name": "Saucy Dog",
-          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
-        }
-      ],
-      "duration_ms": 234323,
-      "name": "\u30b7\u30f3\u30c7\u30ec\u30e9\u30dc\u30fc\u30a4",
-      "url": "https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V"
-    },
-    {
-      "added_at": "2026-01-20 15:00:14",
-      "album": {
         "name": "\u50d5\u3089\u307e\u305f",
         "url": "https://open.spotify.com/album/3MxWmcrVWQeZznHKjhpiiE"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 197307,
       "name": "\u50d5\u3089\u307e\u305f",
       "url": "https://open.spotify.com/track/5hzOyvCqy8sb39xGXUEdpb"
+    },
+    {
+      "added_at": "2026-01-20 15:00:14",
+      "album": {
+        "name": "\u30ec\u30a4\u30b8\u30fc\u30b5\u30f3\u30c7\u30fc",
+        "url": "https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr"
+      },
+      "artists": [
+        {
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+        }
+      ],
+      "duration_ms": 234323,
+      "name": "\u30b7\u30f3\u30c7\u30ec\u30e9\u30dc\u30fc\u30a4",
+      "url": "https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V"
     },
     {
       "added_at": "2026-01-20 15:00:14",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-01-20 15:00:14",
       "album": {
-        "name": "\u30c6\u30a4\u30af\u30df\u30fc",
-        "url": "https://open.spotify.com/album/2qCqF1AZxEyriDxXfmLieh"
-      },
-      "artists": [
-        {
-          "name": "Saucy Dog",
-          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "\u4eca\u66f4\u3060\u3063\u3066\u50d5\u306f\u8a00\u3046\u304b\u306a",
-      "url": "https://open.spotify.com/track/6NsZYSKBD30LvrB25yAZ2v"
-    },
-    {
-      "added_at": "2026-01-20 15:00:14",
-      "album": {
         "name": "\u30af\u30ed\u30ce\u30b9\u30bf\u30b7\u30b9",
         "url": "https://open.spotify.com/album/4upctURy2F1F2rVfltc2P6"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 339870,
       "name": "\u30af\u30ed\u30ce\u30b9\u30bf\u30b7\u30b9",
       "url": "https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp"
+    },
+    {
+      "added_at": "2026-01-20 15:00:14",
+      "album": {
+        "name": "\u30c6\u30a4\u30af\u30df\u30fc",
+        "url": "https://open.spotify.com/album/2qCqF1AZxEyriDxXfmLieh"
+      },
+      "artists": [
+        {
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "\u4eca\u66f4\u3060\u3063\u3066\u50d5\u306f\u8a00\u3046\u304b\u306a",
+      "url": "https://open.spotify.com/track/6NsZYSKBD30LvrB25yAZ2v"
     },
     {
       "added_at": "2026-01-20 15:00:14",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-01-20 15:00:14",
       "album": {
-        "name": "\u30bc\u30a4\u30bf\u30af\u30d3\u30e7\u30a6",
-        "url": "https://open.spotify.com/album/46tj8YcIiWYdrkS8QcDNrP"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "\u6b32\u671b\u306b\u6e80\u3061\u305f\u9752\u5e74\u56e3",
-      "url": "https://open.spotify.com/track/6D6Pybzey0shI8U9ttRAPx"
-    },
-    {
-      "added_at": "2026-01-20 15:00:14",
-      "album": {
         "name": "\u672c\u5f53\u306a\u3093\u3066\u3076\u3063\u98db\u3070\u3057\u3066\u3088",
         "url": "https://open.spotify.com/album/7wORMIt9AD7HhN5FJTV9tG"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 196000,
       "name": "\u672c\u5f53\u306a\u3093\u3066\u3076\u3063\u98db\u3070\u3057\u3066\u3088",
       "url": "https://open.spotify.com/track/7wHtfzKFqvr6fUkKzhMr1c"
+    },
+    {
+      "added_at": "2026-01-20 15:00:14",
+      "album": {
+        "name": "\u30bc\u30a4\u30bf\u30af\u30d3\u30e7\u30a6",
+        "url": "https://open.spotify.com/album/46tj8YcIiWYdrkS8QcDNrP"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "\u6b32\u671b\u306b\u6e80\u3061\u305f\u9752\u5e74\u56e3",
+      "url": "https://open.spotify.com/track/6D6Pybzey0shI8U9ttRAPx"
     }
   ],
   "unique_name": "\u305b\u304d\u3089\u3089",

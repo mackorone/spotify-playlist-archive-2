@@ -1,12 +1,12 @@
 {
   "description": "Mellow vibrations for green leaves, green thumbs and green ears.",
-  "num_followers": 269034,
+  "num_followers": 269110,
   "original_name": "Music for Plants",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKjGAFwsJhwWbjX0e9R+/k4Z6mKH",
+  "snapshot_id": "AAAAAPAUSKvs8JSAwuX1cIQ3M7CZ9ReB",
   "tracks": [
     {
       "added_at": "2026-01-16 08:12:20",
@@ -691,26 +691,6 @@
     {
       "added_at": "2026-01-16 08:12:20",
       "album": {
-        "name": "searching",
-        "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
-      },
-      "artists": [
-        {
-          "name": "Cephas Azariah",
-          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 279935,
-      "name": "searching",
-      "url": "https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm"
-    },
-    {
-      "added_at": "2026-01-16 08:12:20",
-      "album": {
         "name": "The Box Tree",
         "url": "https://open.spotify.com/album/0GLlwTGHxAZpOTPLMFFaCH"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 235973,
       "name": "For Seconds at a Time",
       "url": "https://open.spotify.com/track/6dSo66w4jxsSL7d8bWHR33"
+    },
+    {
+      "added_at": "2026-01-16 08:12:20",
+      "album": {
+        "name": "searching",
+        "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 279935,
+      "name": "searching",
+      "url": "https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm"
     },
     {
       "added_at": "2026-01-16 08:12:20",
@@ -1091,18 +1091,22 @@
     {
       "added_at": "2026-01-16 08:12:20",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
+        "name": "Aves del Sur",
+        "url": "https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe"
       },
       "artists": [
         {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+          "name": "Baco Beats",
+          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
+        },
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
         }
       ],
-      "duration_ms": 195136,
-      "name": "First Defeat",
-      "url": "https://open.spotify.com/track/3wUYmc0vGveoD4ltYeOdZt"
+      "duration_ms": 189811,
+      "name": "Aves del Sur",
+      "url": "https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg"
     },
     {
       "added_at": "2026-01-16 08:12:20",
@@ -1123,22 +1127,18 @@
     {
       "added_at": "2026-01-16 08:12:20",
       "album": {
-        "name": "Aves del Sur",
-        "url": "https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe"
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
       },
       "artists": [
         {
-          "name": "Baco Beats",
-          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
-        },
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
         }
       ],
-      "duration_ms": 189811,
-      "name": "Aves del Sur",
-      "url": "https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg"
+      "duration_ms": 195136,
+      "name": "First Defeat",
+      "url": "https://open.spotify.com/track/3wUYmc0vGveoD4ltYeOdZt"
     },
     {
       "added_at": "2026-01-16 08:12:20",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-01-16 08:12:20",
       "album": {
-        "name": "Hornworm Metamorphosis",
-        "url": "https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 104000,
-      "name": "Hornworm Metamorphosis",
-      "url": "https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq"
-    },
-    {
-      "added_at": "2026-01-16 08:12:20",
-      "album": {
         "name": "Music for Tomato Plants",
         "url": "https://open.spotify.com/album/4UvdKF7LlJmxCh3U3VWjKb"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 266277,
       "name": "Orizzontale Verticale",
       "url": "https://open.spotify.com/track/0rpFR0DN8k47KPO4q1hT02"
+    },
+    {
+      "added_at": "2026-01-16 08:12:20",
+      "album": {
+        "name": "Hornworm Metamorphosis",
+        "url": "https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Hornworm Metamorphosis",
+      "url": "https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq"
     },
     {
       "added_at": "2026-01-16 08:12:20",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-01-16 08:12:20",
       "album": {
-        "name": "Good Places",
-        "url": "https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 266526,
-      "name": "Good Places",
-      "url": "https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g"
-    },
-    {
-      "added_at": "2026-01-16 08:12:20",
-      "album": {
         "name": "Doff",
         "url": "https://open.spotify.com/album/2PBu3e1YFNWRZHLdozFIyL"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 184120,
       "name": "Doff",
       "url": "https://open.spotify.com/track/0gitxF5eauet5HwgtSiLjB"
+    },
+    {
+      "added_at": "2026-01-16 08:12:20",
+      "album": {
+        "name": "Good Places",
+        "url": "https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 266526,
+      "name": "Good Places",
+      "url": "https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g"
     },
     {
       "added_at": "2026-01-16 08:12:20",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-01-16 08:12:20",
       "album": {
-        "name": "Kakashi",
-        "url": "https://open.spotify.com/album/0ZVkkcvhUWQ4hIeoC8Y5Kb"
-      },
-      "artists": [
-        {
-          "name": "Yasuaki Shimizu",
-          "url": "https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e"
-        }
-      ],
-      "duration_ms": 140226,
-      "name": "Kono Yoni Yomeri (Sono 2)",
-      "url": "https://open.spotify.com/track/0nByarxBnlqMBH5tWvBuTG"
-    },
-    {
-      "added_at": "2026-01-16 08:12:20",
-      "album": {
         "name": "Infinite Present",
         "url": "https://open.spotify.com/album/6Gx1dNtc2JOmqio0hi3f9q"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 226965,
       "name": "Europe",
       "url": "https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq"
+    },
+    {
+      "added_at": "2026-01-16 08:12:20",
+      "album": {
+        "name": "Kakashi",
+        "url": "https://open.spotify.com/album/0ZVkkcvhUWQ4hIeoC8Y5Kb"
+      },
+      "artists": [
+        {
+          "name": "Yasuaki Shimizu",
+          "url": "https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e"
+        }
+      ],
+      "duration_ms": 140226,
+      "name": "Kono Yoni Yomeri (Sono 2)",
+      "url": "https://open.spotify.com/track/0nByarxBnlqMBH5tWvBuTG"
     },
     {
       "added_at": "2026-01-16 08:12:20",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2026-01-16 08:12:20",
       "album": {
+        "name": "Northern Spirit",
+        "url": "https://open.spotify.com/album/3z9ysNmG6n81nNSaziusQL"
+      },
+      "artists": [
+        {
+          "name": "Alyas",
+          "url": "https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Northern Spirit",
+      "url": "https://open.spotify.com/track/723CVJbxvyZCQlGCVQkXCJ"
+    },
+    {
+      "added_at": "2026-01-16 08:12:20",
+      "album": {
         "name": "Nausea",
         "url": "https://open.spotify.com/album/4nwc9ShqSEBItmnmiJkDtj"
       },
@@ -1591,6 +1607,22 @@
     {
       "added_at": "2026-01-16 08:12:20",
       "album": {
+        "name": "Hoshi No Koe",
+        "url": "https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb"
+      },
+      "artists": [
+        {
+          "name": "Nobukazu Takemura",
+          "url": "https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9"
+        }
+      ],
+      "duration_ms": 103360,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
+    },
+    {
+      "added_at": "2026-01-16 08:12:20",
+      "album": {
         "name": "Two",
         "url": "https://open.spotify.com/album/1XE0ohBl8Wfml1KJUzzNtF"
       },
@@ -1611,38 +1643,6 @@
     {
       "added_at": "2026-01-16 08:12:20",
       "album": {
-        "name": "Hoshi No Koe",
-        "url": "https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb"
-      },
-      "artists": [
-        {
-          "name": "Nobukazu Takemura",
-          "url": "https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9"
-        }
-      ],
-      "duration_ms": 103360,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
-    },
-    {
-      "added_at": "2026-01-16 08:12:20",
-      "album": {
-        "name": "Northern Spirit",
-        "url": "https://open.spotify.com/album/3z9ysNmG6n81nNSaziusQL"
-      },
-      "artists": [
-        {
-          "name": "Alyas",
-          "url": "https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Northern Spirit",
-      "url": "https://open.spotify.com/track/723CVJbxvyZCQlGCVQkXCJ"
-    },
-    {
-      "added_at": "2026-01-16 08:12:20",
-      "album": {
         "name": "Breath",
         "url": "https://open.spotify.com/album/4C2zeEXXBDgrV95B7UQEmZ"
       },
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2026-01-16 08:12:20",
       "album": {
+        "name": "Healing Music for Plants \u2013 Soothing Sounds for Deep Stimulation, Health & Strength, Ambient Serenity, Blooming Flowers",
+        "url": "https://open.spotify.com/album/2WPReIZqUbSUThvlChFQIE"
+      },
+      "artists": [
+        {
+          "name": "Leona Hollin",
+          "url": "https://open.spotify.com/artist/7EEniQMVIxPUW91MhAHi6J"
+        }
+      ],
+      "duration_ms": 205662,
+      "name": "Spiritual Power",
+      "url": "https://open.spotify.com/track/6EHx08pPJzvOD5xv9K3VQv"
+    },
+    {
+      "added_at": "2026-01-16 08:12:20",
+      "album": {
         "name": "Whispering Ln",
         "url": "https://open.spotify.com/album/1f7GOOEzx2OfD2TLT2n951"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 320044,
       "name": "Moonlit Whispers",
       "url": "https://open.spotify.com/track/4lxrnbNCqFxywcO2hC5pbD"
-    },
-    {
-      "added_at": "2026-01-16 08:12:20",
-      "album": {
-        "name": "Cape Cira",
-        "url": "https://open.spotify.com/album/3u3jFYNTOIEyc5mqB6txFv"
-      },
-      "artists": [
-        {
-          "name": "K-Lone",
-          "url": "https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU"
-        }
-      ],
-      "duration_ms": 377200,
-      "name": "Cape Cira",
-      "url": "https://open.spotify.com/track/0nFjW7EVhopM2mfMDJjcOq"
     }
   ],
   "unique_name": "Music for Plants",

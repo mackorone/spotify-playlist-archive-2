@@ -1,6 +1,6 @@
 {
   "description": "Ranging from your new favorites to familiar classics, let these songs bless you as you're on the road!",
-  "num_followers": 246858,
+  "num_followers": 246938,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2025-12-12 22:21:53",
       "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 193091,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD"
+    },
+    {
+      "added_at": "2025-12-12 22:21:53",
+      "album": {
         "name": "God Is For Me",
         "url": "https://open.spotify.com/album/6f8eCGU8Pf9rI0OTP6HTAU"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 203450,
       "name": "Heaven On My Mind",
       "url": "https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq"
-    },
-    {
-      "added_at": "2025-12-12 22:21:53",
-      "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 193091,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD"
     },
     {
       "added_at": "2025-12-12 22:21:53",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-12-12 22:21:53",
       "album": {
-        "name": "Nothin' Sweeter",
-        "url": "https://open.spotify.com/album/6oYpqdXHLXt9tKRpc7KVlU"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 176929,
-      "name": "Nothin' Sweeter",
-      "url": "https://open.spotify.com/track/2MCjqcZLDI9SCJ4MnsYFS1"
-    },
-    {
-      "added_at": "2025-12-12 22:21:53",
-      "album": {
         "name": "I Still Believe",
         "url": "https://open.spotify.com/album/1qTrw1O98qVzSXZiGwv6ub"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 192250,
       "name": "I Still Believe",
       "url": "https://open.spotify.com/track/1ZMyK6IkXfEaRDpzQvBGNZ"
+    },
+    {
+      "added_at": "2025-12-12 22:21:53",
+      "album": {
+        "name": "Nothin' Sweeter",
+        "url": "https://open.spotify.com/album/6oYpqdXHLXt9tKRpc7KVlU"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 176929,
+      "name": "Nothin' Sweeter",
+      "url": "https://open.spotify.com/track/2MCjqcZLDI9SCJ4MnsYFS1"
     },
     {
       "added_at": "2025-12-12 22:21:53",

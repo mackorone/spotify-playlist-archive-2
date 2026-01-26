@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYHdtUb7Wil.md) - [plain]
 
 > Kick back to these chilled out essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,045 likes - 90 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,038 likes - 90 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYHdtUb7Wil.md) - [plain]
 | 89 | [Leave](https://open.spotify.com/track/39WIyVtD3MSKopbQpkrAQR) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Leave](https://open.spotify.com/album/3XOEU693kFWRGUmoOQNGM0) | 4:06 |
 | 90 | [Only You](https://open.spotify.com/track/6RnK69iWbnoCZ1vW4lCr36) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [Only You](https://open.spotify.com/album/5EAKyTe7nOvmozisIdMU2C) | 3:06 |
 
-Snapshot ID: `AAAAANrG/HfJGP4oLK5NO9vs9T6lmCS4`
+Snapshot ID: `AAAAAEVdBtNvr6CeSnJoFXr4HwS7iEn5`

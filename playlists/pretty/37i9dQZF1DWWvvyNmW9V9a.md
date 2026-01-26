@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > but what if Joe Keery's next move was to join Heated Rivalry season 2?
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,095,399 likes - 104 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,095,225 likes - 104 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

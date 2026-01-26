@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Harry Styles, Dimitri Vegas & Like Mike, Gazo, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,183 likes - 88 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,180 likes - 88 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

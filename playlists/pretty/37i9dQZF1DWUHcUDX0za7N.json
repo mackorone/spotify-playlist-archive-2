@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:NO11",
-  "num_followers": 76446,
+  "num_followers": 76489,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2026-01-23 00:01:22",
       "album": {
-        "name": "THE MACHINE IS COMING",
-        "url": "https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 169285,
-      "name": "LEGOLAS",
-      "url": "https://open.spotify.com/track/0OWPr4POCQ7iH9BGmTxOZV"
-    },
-    {
-      "added_at": "2026-01-23 00:01:22",
-      "album": {
         "name": "HEIS",
         "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 137684,
       "name": "OZEBA",
       "url": "https://open.spotify.com/track/7ySC0IjVS1PMEdsZOvsUK2"
+    },
+    {
+      "added_at": "2026-01-23 00:01:22",
+      "album": {
+        "name": "THE MACHINE IS COMING",
+        "url": "https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 169285,
+      "name": "LEGOLAS",
+      "url": "https://open.spotify.com/track/0OWPr4POCQ7iH9BGmTxOZV"
     },
     {
       "added_at": "2026-01-23 00:01:22",
@@ -271,18 +271,18 @@
     {
       "added_at": "2026-01-23 00:01:22",
       "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+        "name": "2:02PM IN LONDON (FREESTYLE)",
+        "url": "https://open.spotify.com/album/1Tn7MQ77vIlV8aXIVYLxqR"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 140527,
-      "name": "SHAOLIN",
-      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
+      "duration_ms": 223689,
+      "name": "2:02PM IN LONDON (FREESTYLE)",
+      "url": "https://open.spotify.com/track/7fkCiUlTXr6AAHXXtrIRd4"
     },
     {
       "added_at": "2026-01-23 00:01:22",
@@ -303,18 +303,18 @@
     {
       "added_at": "2026-01-23 00:01:22",
       "album": {
-        "name": "2:02PM IN LONDON (FREESTYLE)",
-        "url": "https://open.spotify.com/album/1Tn7MQ77vIlV8aXIVYLxqR"
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 223689,
-      "name": "2:02PM IN LONDON (FREESTYLE)",
-      "url": "https://open.spotify.com/track/7fkCiUlTXr6AAHXXtrIRd4"
+      "duration_ms": 140527,
+      "name": "SHAOLIN",
+      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
     },
     {
       "added_at": "2026-01-23 00:01:22",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-01-23 00:01:22",
       "album": {
-        "name": "Hat-Trick",
-        "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
-      },
-      "artists": [
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        }
-      ],
-      "duration_ms": 137892,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT"
-    },
-    {
-      "added_at": "2026-01-23 00:01:22",
-      "album": {
         "name": "No Excuses",
         "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 165000,
       "name": "PITY THIS BOY (with Victony)",
       "url": "https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6"
+    },
+    {
+      "added_at": "2026-01-23 00:01:22",
+      "album": {
+        "name": "Hat-Trick",
+        "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
+      },
+      "artists": [
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        }
+      ],
+      "duration_ms": 137892,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT"
     },
     {
       "added_at": "2026-01-23 00:01:22",
@@ -647,6 +647,30 @@
     {
       "added_at": "2026-01-23 00:01:22",
       "album": {
+        "name": "PAY ME",
+        "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 210574,
+      "name": "PAY ME (feat. Stormzy and Zlatan)",
+      "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
+    },
+    {
+      "added_at": "2026-01-23 00:01:22",
+      "album": {
         "name": "My Amigo",
         "url": "https://open.spotify.com/album/4qoO1TD2bb8DHOeB2EArUj"
       },
@@ -679,50 +703,6 @@
     {
       "added_at": "2026-01-23 00:01:22",
       "album": {
-        "name": "PAY ME",
-        "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 210574,
-      "name": "PAY ME (feat. Stormzy and Zlatan)",
-      "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
-    },
-    {
-      "added_at": "2026-01-23 00:01:22",
-      "album": {
-        "name": "NBA",
-        "url": "https://open.spotify.com/album/2ALybwwwe9YvLxFV7Ok5nK"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 169043,
-      "name": "NBA",
-      "url": "https://open.spotify.com/track/6SYSI5Fol8vWUexnGsCY0E"
-    },
-    {
-      "added_at": "2026-01-23 00:01:22",
-      "album": {
         "name": "Anytime (feat. Ayo Maff)",
         "url": "https://open.spotify.com/album/0tlsC4tKamKTl9PYoMuPTY"
       },
@@ -751,6 +731,26 @@
     {
       "added_at": "2026-01-23 00:01:22",
       "album": {
+        "name": "NBA",
+        "url": "https://open.spotify.com/album/2ALybwwwe9YvLxFV7Ok5nK"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 169043,
+      "name": "NBA",
+      "url": "https://open.spotify.com/track/6SYSI5Fol8vWUexnGsCY0E"
+    },
+    {
+      "added_at": "2026-01-23 00:01:22",
+      "album": {
         "name": "A Street Kid's Diary",
         "url": "https://open.spotify.com/album/03CVM99wc5g02qpBGKgfYM"
       },
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-01-23 00:01:22",
       "album": {
+        "name": "Go Crazy",
+        "url": "https://open.spotify.com/album/5uE4icrIPuWXaMFcCGyC1y"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 134237,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/1lWcw1YdBbYbFzJ9BKyDqc"
+    },
+    {
+      "added_at": "2026-01-23 00:01:22",
+      "album": {
         "name": "Type Sh*t",
         "url": "https://open.spotify.com/album/67pWb0xvEAFSaKPRnG98ep"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 151034,
       "name": "Type Sh*t",
       "url": "https://open.spotify.com/track/2sTjJbgPuWC5dYY7xtJm7j"
-    },
-    {
-      "added_at": "2026-01-23 00:01:22",
-      "album": {
-        "name": "Go Crazy",
-        "url": "https://open.spotify.com/album/5uE4icrIPuWXaMFcCGyC1y"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 134237,
-      "name": "Go Crazy",
-      "url": "https://open.spotify.com/track/1lWcw1YdBbYbFzJ9BKyDqc"
     },
     {
       "added_at": "2026-01-23 00:01:22",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2026-01-23 00:01:22",
       "album": {
+        "name": "JONBU",
+        "url": "https://open.spotify.com/album/5N84TrhEsfEvJwVdJwIwzP"
+      },
+      "artists": [
+        {
+          "name": "Ruhdee",
+          "url": "https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp"
+        },
+        {
+          "name": "DJ Enimoney",
+          "url": "https://open.spotify.com/artist/7nEYJ01WxrTl3kAklzEC61"
+        }
+      ],
+      "duration_ms": 158195,
+      "name": "JONBU",
+      "url": "https://open.spotify.com/track/6ljpoEvVqHtKsakkSvo5hQ"
+    },
+    {
+      "added_at": "2026-01-23 00:01:22",
+      "album": {
         "name": "Lifestyle",
         "url": "https://open.spotify.com/album/3i6iYJyQpFNpsvFRr7a3o5"
       },
@@ -1195,22 +1215,38 @@
     {
       "added_at": "2026-01-23 00:01:22",
       "album": {
-        "name": "JONBU",
-        "url": "https://open.spotify.com/album/5N84TrhEsfEvJwVdJwIwzP"
+        "name": "PRESS AM",
+        "url": "https://open.spotify.com/album/1EBWwV4ediQjVLCZfqgCyj"
       },
       "artists": [
         {
-          "name": "Ruhdee",
-          "url": "https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp"
+          "name": "Egertton",
+          "url": "https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV"
         },
         {
-          "name": "DJ Enimoney",
-          "url": "https://open.spotify.com/artist/7nEYJ01WxrTl3kAklzEC61"
+          "name": "ARTSALGHUL",
+          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
         }
       ],
-      "duration_ms": 158195,
-      "name": "JONBU",
-      "url": "https://open.spotify.com/track/6ljpoEvVqHtKsakkSvo5hQ"
+      "duration_ms": 123750,
+      "name": "PRESS AM",
+      "url": "https://open.spotify.com/track/1HGAkDrQS4SAjGO1wUUEJ8"
+    },
+    {
+      "added_at": "2026-01-23 00:01:22",
+      "album": {
+        "name": "Folasade",
+        "url": "https://open.spotify.com/album/1M6bYAJ0BlpTvH9GpJBvPN"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "duration_ms": 168648,
+      "name": "Folasade",
+      "url": "https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5"
     },
     {
       "added_at": "2026-01-23 00:01:22",
@@ -1247,26 +1283,6 @@
       "duration_ms": 181589,
       "name": "Cutesy",
       "url": "https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn"
-    },
-    {
-      "added_at": "2026-01-23 00:01:22",
-      "album": {
-        "name": "PRESS AM",
-        "url": "https://open.spotify.com/album/1EBWwV4ediQjVLCZfqgCyj"
-      },
-      "artists": [
-        {
-          "name": "Egertton",
-          "url": "https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV"
-        },
-        {
-          "name": "ARTSALGHUL",
-          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
-        }
-      ],
-      "duration_ms": 123750,
-      "name": "PRESS AM",
-      "url": "https://open.spotify.com/track/1HGAkDrQS4SAjGO1wUUEJ8"
     },
     {
       "added_at": "2026-01-23 00:01:22",
@@ -1311,22 +1327,6 @@
       "duration_ms": 211934,
       "name": "Soft Prayer",
       "url": "https://open.spotify.com/track/7BIkcr2aqUPUuRXCL75L6z"
-    },
-    {
-      "added_at": "2026-01-23 00:01:22",
-      "album": {
-        "name": "Folasade",
-        "url": "https://open.spotify.com/album/1M6bYAJ0BlpTvH9GpJBvPN"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        }
-      ],
-      "duration_ms": 168648,
-      "name": "Folasade",
-      "url": "https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5"
     }
   ],
   "unique_name": "Naija Bars ",

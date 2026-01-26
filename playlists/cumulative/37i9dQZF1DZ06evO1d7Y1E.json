@@ -762,6 +762,40 @@
     {
       "album": {
         "name": "Liberdade (Deluxe)",
+        "url": "https://open.spotify.com/album/7zw5XT3YDZs9pIPqtyA1NN"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Elow",
+          "url": "https://open.spotify.com/artist/4kwNNzG6OKspwezw3Exfyk"
+        },
+        {
+          "name": "Maurin",
+          "url": "https://open.spotify.com/artist/3tczhGs2LfnH9mwrmG9cRI"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192475,
+      "name": "Diretamente do Rj",
+      "url": "https://open.spotify.com/track/1C3iWqyzLYmMs1p5FdXOBp"
+    },
+    {
+      "album": {
+        "name": "Liberdade (Deluxe)",
         "url": "https://open.spotify.com/album/72UAM9YXaUyl4iT8crtq2p"
       },
       "artists": [
@@ -788,7 +822,7 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 192475,
       "name": "Diretamente do RJ",
       "url": "https://open.spotify.com/track/2wElVsZNrywo37wbmHzCj7"

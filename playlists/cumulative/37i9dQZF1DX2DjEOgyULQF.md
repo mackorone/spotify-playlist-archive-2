@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-323 songs - 15 hr 28 min
+324 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Fortune Teller](https://open.spotify.com/track/2jf6qaFGfXR2avaQ2QkmEf) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [The whim of fate](https://open.spotify.com/album/7kQKxaXSaBjKr2lBFgJrru) | 3:11 | 2023-04-28 | 2024-11-04 |
 | [Found the Moon](https://open.spotify.com/track/5WM0O39UIuTPYaGsGN77Tt) | [Glacial Patience](https://open.spotify.com/artist/3Ep6YPlzSx1J4CkQG4Fqav) | [Found the Moon](https://open.spotify.com/album/2jEcuWPdfuxdg71KTw0DbA) | 3:02 | 2025-05-21 |  |
 | [Foundations](https://open.spotify.com/track/6o03zXm9s8B33VjZAS6C6U) | [Oaktale](https://open.spotify.com/artist/4IuzTmSlbUNhhIcAK5fBiQ) | [Foundations](https://open.spotify.com/album/2LVmqp2bxTJsCWQs2pELTC) | 2:58 | 2025-09-10 |  |
-| [Fresco](https://open.spotify.com/track/0uVIvH7SSS85MKai9W4wEA) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Fresco](https://open.spotify.com/album/03zoFQS69y1JshsZyFRkvD) | 2:26 | 2024-04-01 |  |
+| [Fresco](https://open.spotify.com/track/0uVIvH7SSS85MKai9W4wEA) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Fresco](https://open.spotify.com/album/03zoFQS69y1JshsZyFRkvD) | 2:26 | 2024-04-01 | 2026-01-26 |
 | [From Sharavati](https://open.spotify.com/track/3zLjHmnEHwc9bt1EsuqRDK) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [From Sharavati](https://open.spotify.com/album/5PuJEOW1ZbJVvuzLY5sJsm) | 3:23 | 2023-04-28 | 2025-05-22 |
 | [Garden of Calm](https://open.spotify.com/track/3G70KNuG1MIjALKJhLl7Vr) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Garden of Calm](https://open.spotify.com/album/7E65aQYqv6QXHQEw2sXcsq) | 2:58 | 2025-03-19 |  |
 | [Gentle Awakening](https://open.spotify.com/track/2Ic1x3G8n6VusjdfiMpbd5) | [Cosmic Embrace](https://open.spotify.com/artist/4Ol24ExBEtGVwQiIGwK2c6) | [Gentle Awakening](https://open.spotify.com/album/7LAOipW1fwh42MHfQx2ZH0) | 3:15 | 2025-12-17 |  |
@@ -175,6 +175,7 @@
 | [Liora](https://open.spotify.com/track/5zJtd9HHO0K1s0itagJpJA) | [Delayed Dreams](https://open.spotify.com/artist/67psE9BkYf2rCpo8zZHQmZ) | [Liora](https://open.spotify.com/album/1pxslN8y8JWJ9TmbPUU0SR) | 4:27 | 2025-07-22 |  |
 | [Little Creek](https://open.spotify.com/track/243ZkbrvYLMB7i1ni3sxlo) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Little Creek](https://open.spotify.com/album/2JrZeRYzlInaQwWbbkU3ZB) | 2:49 | 2023-10-06 |  |
 | [Lost The Gold](https://open.spotify.com/track/3qy47p0s3klKhxJ6rbsBJH) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Lost The Gold](https://open.spotify.com/album/5u9YptlLPTlCdq3uwfWtip) | 3:05 | 2024-05-01 |  |
+| [Manipura](https://open.spotify.com/track/6aIwo3IbhqllcTWPDBsnYY) | [Elijah Edwards](https://open.spotify.com/artist/33e4XNrceV0ftUpzWWJWqS) | [Manipura](https://open.spotify.com/album/7HEjtDjMGvbkHm7mr0RQNR) | 2:45 | 2026-01-08 |  |
 | [Meadow’s Fountain](https://open.spotify.com/track/4MqoLh3a6mT77Qea8mj0bW) | [Uffe Jörgensen](https://open.spotify.com/artist/56b0WToubUkYRbbBq6ZV9G) | [OHM](https://open.spotify.com/album/0CJf54j8fZnvDTYyDuhveb) | 3:00 | 2023-04-28 | 2025-05-22 |
 | [Meas](https://open.spotify.com/track/6KoQyTkDaxANLiB1K7a8Jw) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [Meas](https://open.spotify.com/album/7F5cog28FZOo0gz0fIuNhz) | 3:24 | 2023-04-28 | 2025-05-22 |
 | [Meditation birds](https://open.spotify.com/track/3JceqUgXQPaX6RYakFUy4X) | [Tom Vode](https://open.spotify.com/artist/6MIexSldcIatPBYa5pWHsw) | [Meditation birds](https://open.spotify.com/album/3xTpSrfiyRnMBVjQZ7EvtU) | 2:33 | 2023-09-22 |  |

@@ -1,6 +1,6 @@
 {
   "description": "indie folk latino de estaci\u00f3n. Foto: Diosque y Juliana Gattas",
-  "num_followers": 61491,
+  "num_followers": 61487,
   "original_name": "folk & primavera",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "Abril",
-        "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
-      },
-      "artists": [
-        {
-          "name": "Abril Olivera",
-          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
-        }
-      ],
-      "duration_ms": 159741,
-      "name": "Por el Bien de los Dos",
-      "url": "https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
         "name": "M\u00edstica",
         "url": "https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 232693,
       "name": "M\u00edstica",
       "url": "https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
+        "name": "Abril",
+        "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
+      },
+      "artists": [
+        {
+          "name": "Abril Olivera",
+          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
+        }
+      ],
+      "duration_ms": 159741,
+      "name": "Por el Bien de los Dos",
+      "url": "https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -275,22 +275,6 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "Entr\u00e9gate",
-        "url": "https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 191232,
-      "name": "Entr\u00e9gate",
-      "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
         "name": "T\u00c1",
         "url": "https://open.spotify.com/album/2jqMX5VF39iN4Jgm1SSh03"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 140500,
       "name": "Ana Mar\u00eda",
       "url": "https://open.spotify.com/track/56frUZQsbNRY22EyjcuCrH"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
+        "name": "Entr\u00e9gate",
+        "url": "https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 191232,
+      "name": "Entr\u00e9gate",
+      "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -583,26 +583,6 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "Suerte para m\u00ed",
-        "url": "https://open.spotify.com/album/6CW5eGVqBR2o3EmF7Ti8iX"
-      },
-      "artists": [
-        {
-          "name": "Roki Fernandez",
-          "url": "https://open.spotify.com/artist/2MCfICN62faLf6aDJZhlx6"
-        },
-        {
-          "name": "Mailen Pankonin",
-          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
-        }
-      ],
-      "duration_ms": 183786,
-      "name": "Suerte para m\u00ed",
-      "url": "https://open.spotify.com/track/464idwypVzujFVCo6XdgeI"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
         "name": "Chao (Remix Reversiones)",
         "url": "https://open.spotify.com/album/2zZmuHTWDf1TRgiTt4DigW"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 248573,
       "name": "Casa - Reversi\u00f3n",
       "url": "https://open.spotify.com/track/74GJTdXb7EoftKV913OHfE"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
+        "name": "Suerte para m\u00ed",
+        "url": "https://open.spotify.com/album/6CW5eGVqBR2o3EmF7Ti8iX"
+      },
+      "artists": [
+        {
+          "name": "Roki Fernandez",
+          "url": "https://open.spotify.com/artist/2MCfICN62faLf6aDJZhlx6"
+        },
+        {
+          "name": "Mailen Pankonin",
+          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
+        }
+      ],
+      "duration_ms": 183786,
+      "name": "Suerte para m\u00ed",
+      "url": "https://open.spotify.com/track/464idwypVzujFVCo6XdgeI"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
+        "name": "Dolor",
+        "url": "https://open.spotify.com/album/6zB720K3Qqm1dpiZPJB60h"
+      },
+      "artists": [
+        {
+          "name": "Maria Campos",
+          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
+        }
+      ],
+      "duration_ms": 168037,
+      "name": "Dolor",
+      "url": "https://open.spotify.com/track/0chHnBvvMZPlYhu9zng97m"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
         "name": "Me Gustas Tanto (Remix)",
         "url": "https://open.spotify.com/album/76AkbUyhoc5LgqeroxLXw4"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 208213,
       "name": "Me Gustas Tanto - Remix",
       "url": "https://open.spotify.com/track/6cJfur2fUVukLfgZdDJbAC"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
-        "name": "Dolor",
-        "url": "https://open.spotify.com/album/6zB720K3Qqm1dpiZPJB60h"
-      },
-      "artists": [
-        {
-          "name": "Maria Campos",
-          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
-        }
-      ],
-      "duration_ms": 168037,
-      "name": "Dolor",
-      "url": "https://open.spotify.com/track/0chHnBvvMZPlYhu9zng97m"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1367,22 +1367,18 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "Madre",
-        "url": "https://open.spotify.com/album/3tCum4uYwoeZQKS6MF5Huj"
+        "name": "D\u00eda tras d\u00eda",
+        "url": "https://open.spotify.com/album/7gjf7o3gThjzGzpQmwNeMF"
       },
       "artists": [
         {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        },
-        {
-          "name": "Raly Barrionuevo",
-          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+          "name": "El Tio Valen",
+          "url": "https://open.spotify.com/artist/6wmJ0G1rcbo6NkDqFy7is8"
         }
       ],
-      "duration_ms": 187088,
-      "name": "Madre",
-      "url": "https://open.spotify.com/track/3aC7Zr43bVLQU9s2d12enq"
+      "duration_ms": 177750,
+      "name": "D\u00eda tras d\u00eda",
+      "url": "https://open.spotify.com/track/17lwA5owqNicBFJynjKIDd"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1407,18 +1403,22 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "D\u00eda tras d\u00eda",
-        "url": "https://open.spotify.com/album/7gjf7o3gThjzGzpQmwNeMF"
+        "name": "Madre",
+        "url": "https://open.spotify.com/album/3tCum4uYwoeZQKS6MF5Huj"
       },
       "artists": [
         {
-          "name": "El Tio Valen",
-          "url": "https://open.spotify.com/artist/6wmJ0G1rcbo6NkDqFy7is8"
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        },
+        {
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
         }
       ],
-      "duration_ms": 177750,
-      "name": "D\u00eda tras d\u00eda",
-      "url": "https://open.spotify.com/track/17lwA5owqNicBFJynjKIDd"
+      "duration_ms": 187088,
+      "name": "Madre",
+      "url": "https://open.spotify.com/track/3aC7Zr43bVLQU9s2d12enq"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "Me Fui",
-        "url": "https://open.spotify.com/album/0iIH3rlW6AknjzD3mnIm5w"
-      },
-      "artists": [
-        {
-          "name": "Velo Vela",
-          "url": "https://open.spotify.com/artist/6cu1BLrPH1CkWeouSim02K"
-        }
-      ],
-      "duration_ms": 285953,
-      "name": "Me Fui",
-      "url": "https://open.spotify.com/track/1rn45Ad3hTSwcXxoghZwsE"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
         "name": "Un Nuevo Refugio (Dulce Cuarto Sesiones) [En Vivo]",
         "url": "https://open.spotify.com/album/4ieBAdvt0JDhrGCsCyMHCJ"
       },
@@ -1511,22 +1495,18 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "volver a verme",
-        "url": "https://open.spotify.com/album/7dZ5pvDh0rHaMavQ6RBkl9"
+        "name": "Me Fui",
+        "url": "https://open.spotify.com/album/0iIH3rlW6AknjzD3mnIm5w"
       },
       "artists": [
         {
-          "name": "Franco Masciarelli",
-          "url": "https://open.spotify.com/artist/39cpIJ07VfRgvfiPq3pk0c"
-        },
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+          "name": "Velo Vela",
+          "url": "https://open.spotify.com/artist/6cu1BLrPH1CkWeouSim02K"
         }
       ],
-      "duration_ms": 228363,
-      "name": "volver a verme",
-      "url": "https://open.spotify.com/track/1j5SV3GIztoQRptqrn6ZFZ"
+      "duration_ms": 285953,
+      "name": "Me Fui",
+      "url": "https://open.spotify.com/track/1rn45Ad3hTSwcXxoghZwsE"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1587,6 +1567,26 @@
       "duration_ms": 222721,
       "name": "Marcas",
       "url": "https://open.spotify.com/track/0gMJWL100Hky7I4awRPAof"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
+        "name": "volver a verme",
+        "url": "https://open.spotify.com/album/7dZ5pvDh0rHaMavQ6RBkl9"
+      },
+      "artists": [
+        {
+          "name": "Franco Masciarelli",
+          "url": "https://open.spotify.com/artist/39cpIJ07VfRgvfiPq3pk0c"
+        },
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "duration_ms": 228363,
+      "name": "volver a verme",
+      "url": "https://open.spotify.com/track/1j5SV3GIztoQRptqrn6ZFZ"
     },
     {
       "added_at": "2025-10-27 16:45:31",

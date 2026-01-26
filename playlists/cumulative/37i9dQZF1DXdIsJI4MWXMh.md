@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Zúmbale Primo, & Corazón Serrano.
 
-159 songs - 10 hr 42 min
+160 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [El Aguacero](https://open.spotify.com/track/5BnQ8e4HVxTUmcnCn9ktFX) | [Los Lumaquinos Alegres](https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [La Nueva Cumbia del Pueblo](https://open.spotify.com/album/2kzejhpjHj1v40pl7m72h2) | 3:35 | 2023-03-03 | 2026-01-06 |
 | [El Amante Apasionado](https://open.spotify.com/track/72zI9fJ5NLz9TG7Q0XTXXS) | [Los Reales del Valle](https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO) | [Éxitos Inolvidables](https://open.spotify.com/album/750F3BvETRBIM13YvhQXpq) | 3:33 | 2023-03-03 | 2026-01-17 |
 | [El Buque Con Mas Potencia](https://open.spotify.com/track/0g31ngzmsfUgvAjE1e0nQ4) | [Los Lobos del Sur](https://open.spotify.com/artist/3FCBnIlgoRwCdoWpUN85ck) | [Un Lobo Está Llorando](https://open.spotify.com/album/6Geby7blTCI2vcP1Pm2DGR) | 4:41 | 2023-03-03 | 2024-04-19 |
+| [El Cabro Curao](https://open.spotify.com/track/0f9eUTpRbz2KxLN6ZzEXCF) | [Los Villanos de Coltauco](https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk) | [El Cabro Curao](https://open.spotify.com/album/4K0oyBxGYlW7jEpTre1yOj) | 3:06 | 2025-09-18 |  |
 | [El Camión del Amor](https://open.spotify.com/track/17mzvXFTqCIePOiqGVz7Tk) | [Reina Isabel](https://open.spotify.com/artist/6w67n5aSfExuuvgE4CBSru) | [La Banda Ranchera Femenina de Chile](https://open.spotify.com/album/3Nmtvl4Y9aY50xATCoMVdX) | 2:54 | 2024-06-12 | 2025-10-09 |
 | [El Chorito de Violeta](https://open.spotify.com/track/3vNVMRiqxnmrUobBOMpzaW) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU), [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Cumbias](https://open.spotify.com/album/3mPPWnzitqTU3DnKj6njLY) | 3:55 | 2023-10-05 |  |
 | [El Cocho](https://open.spotify.com/track/1GHIKA3KDtjCJ8zzaK1QMk) | [LOS FLORES DE YUNGAY](https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD) | [El Cocho](https://open.spotify.com/album/6YQ0XxcdYNnxGqg303Rebl) | 3:15 | 2025-09-18 |  |
@@ -136,7 +137,7 @@
 | [Somos Infieles](https://open.spotify.com/track/0xxqACHxwwhP4r51GmnRrU) | [Grupo el duelo](https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv) | [Somos Infieles](https://open.spotify.com/album/4vNNb74WGZJl9cCWQjmrpC) | 3:19 | 2023-03-03 |  |
 | [Son Solo Palabritas](https://open.spotify.com/track/0Hi28eLBFZNmtXFsdqd4Es) | [Los Charros de Luchito y Rafael](https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq) | [Para Nuestra Gente](https://open.spotify.com/album/15HAfwDUkpyOBdYGFmce2N) | 3:31 | 2023-03-03 | 2025-09-12 |
 | [Soy Adicto a Ti](https://open.spotify.com/track/559VSAiv3rFTDrmkfv7nQd) | [LOS HUASOS DEL SUR](https://open.spotify.com/artist/4HA64bodqMjAmWg1Eud5yq), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Soy Adicto a Ti](https://open.spotify.com/album/4tbMDw4jqlV2ENzdLz7Hid) | 4:22 | 2025-08-01 |  |
-| [Sufriendo por Tu Amor](https://open.spotify.com/track/2Nyi9cEtUdRvtxJ3WG09ik) | [Los Lumaquinos Alegres](https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [La Nueva Cumbia del Pueblo](https://open.spotify.com/album/2kzejhpjHj1v40pl7m72h2) | 3:11 | 2023-05-29 |  |
+| [Sufriendo por Tu Amor](https://open.spotify.com/track/2Nyi9cEtUdRvtxJ3WG09ik) | [Los Lumaquinos Alegres](https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [La Nueva Cumbia del Pueblo](https://open.spotify.com/album/2kzejhpjHj1v40pl7m72h2) | 3:11 | 2023-05-29 | 2026-01-26 |
 | [Sácale Leche a la Vaca](https://open.spotify.com/track/1VfOAcpdLVMd5M1FdyA6XO) | [Alex y el Clan Azabache](https://open.spotify.com/artist/1Czzz8yLK9B2CvVvwGvpZr) | [Alex y el Clan Azabache](https://open.spotify.com/album/1Xk4fcTkrVsPHbtSHlaYWJ) | 3:00 | 2023-03-03 | 2025-11-09 |
 | [Tarjetita de Invitacion](https://open.spotify.com/track/07sdL3bIRtYBlkPIvN1OYo) | [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Tarjetita de Invitación](https://open.spotify.com/album/3lXii5UGE1r740O1ipWbmU) | 3:44 | 2023-03-03 |  |
 | [Tattoo](https://open.spotify.com/track/0vfPiExVUcECwzpQ3vfV0R) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Tattoo](https://open.spotify.com/album/3EYAbEV8gM0VvHPqF3asP4) | 3:21 | 2024-10-14 |  |

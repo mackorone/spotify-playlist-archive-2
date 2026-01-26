@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Listen to the best songs from faith\-based indie artists\.  Cover: <br/>Tekoa
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,753 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,766 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 74 | [Calling Me Home](https://open.spotify.com/track/6M31tD9sFCe7Myvo3iQHJZ) | [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Calling Me Home](https://open.spotify.com/album/1Q8ZPBPyPK1Kz3jDVb04Ru) | 3:00 |
 | 75 | [Cascade View](https://open.spotify.com/track/6hzt50r5ZdUsQWXwMEsDcR) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Cascade View](https://open.spotify.com/album/4dDCw9RcW3cbVfj02qA6MW) | 2:45 |
 
-Snapshot ID: `AAAAABIGX8/j/9HQelhn1cT4yXARTv0o`
+Snapshot ID: `AAAAAA9B31DsBzFv5bxu2fEStliRpVQo`

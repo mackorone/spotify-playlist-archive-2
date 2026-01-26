@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,873 songs - 8 day 13 hr 40 min
+3,874 songs - 8 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2543,7 +2543,7 @@
 | [Passacaglia](https://open.spotify.com/track/6v8J04r5YMwizn1vDsZUeR) | [Mauro Tudino](https://open.spotify.com/artist/1oeoZXpqKTC8Y62yrALSC9) | [Passacaglia](https://open.spotify.com/album/2TkoialBdfIRVNP1tjWDsi) | 1:31 | 2025-06-04 |  |
 | [Passion for the past](https://open.spotify.com/track/6uax7VhWFGN2xzpWVH6i8k) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [80's music inspired](https://open.spotify.com/album/52EpTauHULa82DwbMx0Pdh) | 3:49 | 2025-08-28 |  |
 | [PCC](https://open.spotify.com/track/0pbJZFqKWVBmpqqeta8yCg) | [Osah](https://open.spotify.com/artist/1AeKlQFE3f4jMoiJyuhyM1), [ROM D\. ODSU](https://open.spotify.com/artist/3bHFJ6BT2BeXUSYq9Bqi2u) | [PCC](https://open.spotify.com/album/1rpolSpCnwHA214aX8RJGr) | 2:51 | 2025-06-05 |  |
-| [Peacemakers](https://open.spotify.com/track/7K8F1C4dcNao9gJOUiR8mc) | [Miguel De La Wiest](https://open.spotify.com/artist/26hbbPnAg9VCscmcsIGXY6) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/1k7DZX3OogiMcHFOjTOtFQ) | 4:38 | 2026-01-12 |  |
+| [Peacemakers](https://open.spotify.com/track/7K8F1C4dcNao9gJOUiR8mc) | [Miguel De La Wiest](https://open.spotify.com/artist/26hbbPnAg9VCscmcsIGXY6) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/1k7DZX3OogiMcHFOjTOtFQ) | 4:38 | 2026-01-12 | 2026-01-26 |
 | [PEGGIOXTE](https://open.spotify.com/track/0bA7T5mSWQrpk9Pmml2UFD) | [Klaudia DG](https://open.spotify.com/artist/0WyWixivFk2XT2nn8WTJRZ) | [PEGGIOXTE](https://open.spotify.com/album/5sqbsO1hpRKfaTtpvS1ufc) | 3:18 | 2025-06-24 |  |
 | [Pensiero Vivo](https://open.spotify.com/track/6qxw0D9vC46xpHGuk6VkTa) | [Il Vagabondo Detto Houston](https://open.spotify.com/artist/6fwDkK7Yrv6HvR2qApLthG) | [Pensiero Vivo](https://open.spotify.com/album/0reGMJaOEya8IxVz3dRyL9) | 3:34 | 2025-05-05 |  |
 | [People = Shit](https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa \(10th Anniversary Edition\)](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 3:35 | 2025-04-09 |  |
@@ -2804,6 +2804,7 @@
 | [Sbronza e Rivoluzione](https://open.spotify.com/track/5Mjq4ehLoF7QqeLtsN4MzF) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Punk rock italiano, Vol\. 2](https://open.spotify.com/album/4Yp8DTiAygh1xmsyajQFeo) | 2:42 | 2025-09-14 |  |
 | [Sbronza e Rivoluzione \(another\)](https://open.spotify.com/track/4bV6pqRV9R5o1llBjHtScm) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Punk rock italiano, Vol\. 2](https://open.spotify.com/album/4Yp8DTiAygh1xmsyajQFeo) | 2:10 | 2025-09-14 |  |
 | [Scab Pimple](https://open.spotify.com/track/6n3ZMemV8s1mkEij7ffkEU) | [Adnauseam](https://open.spotify.com/artist/7Dv3WWrnA38McJtifLoMlw) | [Adnauseam](https://open.spotify.com/album/42zTo7lYOuJ7AF42obSwhR) | 2:36 | 2025-08-08 |  |
+| [SCAPPA AL PIGNETO CON ME](https://open.spotify.com/track/0T7XzcrGUy1kEMn5jAZ6IZ) | [EDY](https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV) | [SCAPPA AL PIGNETO CON ME](https://open.spotify.com/album/7deV32wgW562hlmDmbY99h) | 3:12 | 2026-01-25 |  |
 | [scared in my dreams](https://open.spotify.com/track/5dA9FTHvhbBDKZ3knbUyqd) | [Hundaes](https://open.spotify.com/artist/2O4wIpuUgy3A2JvIYdDuGt) | [scared in my dreams](https://open.spotify.com/album/3yEKWH7w2mHxMj2l5OXo3m) | 2:11 | 2025-05-16 |  |
 | [SCATOLE CINESI](https://open.spotify.com/track/7x8Y0faXt3j3p31B75XTHb) | [VENDANT](https://open.spotify.com/artist/33KF3I4XUnQuS1RvwdtPWX) | [SCATOLE CINESI](https://open.spotify.com/album/2iXAZw3y2Bua43wiH9aiA3) | 3:36 | 2025-05-27 |  |
 | [Scemo](https://open.spotify.com/track/2juZ6cCodSoqt4F5ejvv0m) | [Zio Pecos](https://open.spotify.com/artist/6n8DoLti7AKKWzhnPaiDn6) | [Scemo](https://open.spotify.com/album/0aUjvK4la2knbCy3d9CjJp) | 2:54 | 2025-06-05 |  |

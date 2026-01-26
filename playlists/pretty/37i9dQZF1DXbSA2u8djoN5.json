@@ -1,12 +1,12 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: DZWS, Vali Miron ",
-  "num_followers": 22429,
+  "num_followers": 22430,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABNHAFuykDW6pEdxnPhp2JdjSn4P",
+  "snapshot_id": "AAAAALOms8zYOs5UHke7gmmgqKtsq2x2",
   "tracks": [
     {
       "added_at": "2026-01-15 22:00:28",
@@ -163,6 +163,22 @@
     {
       "added_at": "2026-01-15 22:00:28",
       "album": {
+        "name": "Sa MM Care Pleaca",
+        "url": "https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds"
+      },
+      "artists": [
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        }
+      ],
+      "duration_ms": 119343,
+      "name": "Sa MM Care Pleaca",
+      "url": "https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6"
+    },
+    {
+      "added_at": "2026-01-15 22:00:28",
+      "album": {
         "name": "TOXIC",
         "url": "https://open.spotify.com/album/7nbbmG8UY3xKGom4pHzAvk"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 169787,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/67bPAkhACf3ITaexxCodJr"
-    },
-    {
-      "added_at": "2026-01-15 22:00:28",
-      "album": {
-        "name": "Sa MM Care Pleaca",
-        "url": "https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds"
-      },
-      "artists": [
-        {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
-        }
-      ],
-      "duration_ms": 119343,
-      "name": "Sa MM Care Pleaca",
-      "url": "https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6"
     },
     {
       "added_at": "2026-01-15 22:00:28",
@@ -239,22 +239,22 @@
     {
       "added_at": "2026-01-15 22:00:28",
       "album": {
-        "name": "Poti Sa-mi Iei Tot (Doamna si Vagabondu)",
-        "url": "https://open.spotify.com/album/5VeMNO8D7StyEC3YYKbz9B"
+        "name": "ANGELINA JOLIE",
+        "url": "https://open.spotify.com/album/6b6tDxSxIkIf8XP6p3PUNQ"
       },
       "artists": [
         {
-          "name": "POLLY",
-          "url": "https://open.spotify.com/artist/5kX69Jx93xDc0lRKWmxnlo"
+          "name": "NOUA UNSPE",
+          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
         },
         {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
         }
       ],
-      "duration_ms": 193481,
-      "name": "Poti Sa-mi Iei Tot - Doamna si Vagabondu",
-      "url": "https://open.spotify.com/track/0fq0NieyTdydUQJ0FWrtTy"
+      "duration_ms": 187659,
+      "name": "ANGELINA JOLIE",
+      "url": "https://open.spotify.com/track/14NwdA5jpFrLI4LCs2GBtp"
     },
     {
       "added_at": "2026-01-15 22:00:28",
@@ -279,22 +279,22 @@
     {
       "added_at": "2026-01-15 22:00:28",
       "album": {
-        "name": "ANGELINA JOLIE",
-        "url": "https://open.spotify.com/album/6b6tDxSxIkIf8XP6p3PUNQ"
+        "name": "Poti Sa-mi Iei Tot (Doamna si Vagabondu)",
+        "url": "https://open.spotify.com/album/5VeMNO8D7StyEC3YYKbz9B"
       },
       "artists": [
         {
-          "name": "NOUA UNSPE",
-          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
+          "name": "POLLY",
+          "url": "https://open.spotify.com/artist/5kX69Jx93xDc0lRKWmxnlo"
         },
         {
-          "name": "Oscar",
-          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
         }
       ],
-      "duration_ms": 187659,
-      "name": "ANGELINA JOLIE",
-      "url": "https://open.spotify.com/track/14NwdA5jpFrLI4LCs2GBtp"
+      "duration_ms": 193481,
+      "name": "Poti Sa-mi Iei Tot - Doamna si Vagabondu",
+      "url": "https://open.spotify.com/track/0fq0NieyTdydUQJ0FWrtTy"
     },
     {
       "added_at": "2026-01-15 22:00:28",
@@ -311,6 +311,42 @@
       "duration_ms": 179340,
       "name": "Ne vedem acas\u0103",
       "url": "https://open.spotify.com/track/03YZNYucckHvgYTO2yQe83"
+    },
+    {
+      "added_at": "2026-01-15 22:00:28",
+      "album": {
+        "name": "ultima (noapte)",
+        "url": "https://open.spotify.com/album/6rlFAvwB2e8ye7JeQZkxZC"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        },
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "ultima (noapte)",
+      "url": "https://open.spotify.com/track/2CGaabfPeMsfEUpYN7gOti"
+    },
+    {
+      "added_at": "2026-01-15 22:00:28",
+      "album": {
+        "name": "Acasa",
+        "url": "https://open.spotify.com/album/2KP4jjvTTakCQ6ExzkCV3F"
+      },
+      "artists": [
+        {
+          "name": "Criss Blaziny",
+          "url": "https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Acasa",
+      "url": "https://open.spotify.com/track/7xfAwfLFy8ObH0oHkxZ7hV"
     },
     {
       "added_at": "2026-01-15 22:00:28",
@@ -335,42 +371,6 @@
       "duration_ms": 186000,
       "name": "PLOAIA",
       "url": "https://open.spotify.com/track/7j0IVHEgklnA3TjfZSuMBs"
-    },
-    {
-      "added_at": "2026-01-15 22:00:28",
-      "album": {
-        "name": "Acasa",
-        "url": "https://open.spotify.com/album/2KP4jjvTTakCQ6ExzkCV3F"
-      },
-      "artists": [
-        {
-          "name": "Criss Blaziny",
-          "url": "https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Acasa",
-      "url": "https://open.spotify.com/track/7xfAwfLFy8ObH0oHkxZ7hV"
-    },
-    {
-      "added_at": "2026-01-15 22:00:28",
-      "album": {
-        "name": "ultima (noapte)",
-        "url": "https://open.spotify.com/album/6rlFAvwB2e8ye7JeQZkxZC"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
-        },
-        {
-          "name": "Oscar",
-          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "ultima (noapte)",
-      "url": "https://open.spotify.com/track/2CGaabfPeMsfEUpYN7gOti"
     },
     {
       "added_at": "2026-01-15 22:00:28",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-01-15 22:00:28",
       "album": {
-        "name": "X6",
-        "url": "https://open.spotify.com/album/6CMkTshSmtSl4FGTn5aIU3"
-      },
-      "artists": [
-        {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "X6",
-      "url": "https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF"
-    },
-    {
-      "added_at": "2026-01-15 22:00:28",
-      "album": {
         "name": "Direct din Tei",
         "url": "https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 159244,
       "name": "Sunt fratii tai",
       "url": "https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a"
+    },
+    {
+      "added_at": "2026-01-15 22:00:28",
+      "album": {
+        "name": "X6",
+        "url": "https://open.spotify.com/album/6CMkTshSmtSl4FGTn5aIU3"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "X6",
+      "url": "https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF"
     },
     {
       "added_at": "2026-01-15 22:00:28",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-01-15 22:00:28",
       "album": {
-        "name": "Ofiter la pamant",
-        "url": "https://open.spotify.com/album/2N2IwwEhBAOvLnaf12XWTl"
-      },
-      "artists": [
-        {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Ofiter la pamant",
-      "url": "https://open.spotify.com/track/1BbXHat6Zlcg4bpFL2qEBE"
-    },
-    {
-      "added_at": "2026-01-15 22:00:28",
-      "album": {
         "name": "OCHI ALBA\u0218TRI",
         "url": "https://open.spotify.com/album/6ZhrWAL2jz0MqctVKSayK3"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 232000,
       "name": "OCHI ALBA\u0218TRI",
       "url": "https://open.spotify.com/track/2TPCbtaXlKvgyBOedKQ3yX"
+    },
+    {
+      "added_at": "2026-01-15 22:00:28",
+      "album": {
+        "name": "Ofiter la pamant",
+        "url": "https://open.spotify.com/album/2N2IwwEhBAOvLnaf12XWTl"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Ofiter la pamant",
+      "url": "https://open.spotify.com/track/1BbXHat6Zlcg4bpFL2qEBE"
     },
     {
       "added_at": "2026-01-15 22:00:28",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-01-15 22:00:28",
       "album": {
-        "name": "Toata lumea moare",
-        "url": "https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2"
-      },
-      "artists": [
-        {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Operatiunea GhostGun",
-      "url": "https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4"
-    },
-    {
-      "added_at": "2026-01-15 22:00:28",
-      "album": {
         "name": "Corina",
         "url": "https://open.spotify.com/album/5MX0exAUTVQQ7gbctilaUi"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 221250,
       "name": "Corina",
       "url": "https://open.spotify.com/track/2XQKtN6XwzVBYqJdtjn4zD"
+    },
+    {
+      "added_at": "2026-01-15 22:00:28",
+      "album": {
+        "name": "Toata lumea moare",
+        "url": "https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Operatiunea GhostGun",
+      "url": "https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4"
     },
     {
       "added_at": "2026-01-15 22:00:28",
@@ -703,26 +703,6 @@
     {
       "added_at": "2026-01-15 22:00:28",
       "album": {
-        "name": "Grinch",
-        "url": "https://open.spotify.com/album/2QN6om23DL5Gwek4PCTGx6"
-      },
-      "artists": [
-        {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
-        },
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Grinch",
-      "url": "https://open.spotify.com/track/0RCOFsv0uaHhIwjZXJJ5yk"
-    },
-    {
-      "added_at": "2026-01-15 22:00:28",
-      "album": {
         "name": "\u0218tefan IV",
         "url": "https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 194936,
       "name": "inexplicabil",
       "url": "https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5"
+    },
+    {
+      "added_at": "2026-01-15 22:00:28",
+      "album": {
+        "name": "Grinch",
+        "url": "https://open.spotify.com/album/2QN6om23DL5Gwek4PCTGx6"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        },
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Grinch",
+      "url": "https://open.spotify.com/track/0RCOFsv0uaHhIwjZXJJ5yk"
     },
     {
       "added_at": "2026-01-15 22:00:28",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-01-15 22:00:28",
       "album": {
-        "name": "Morgana",
-        "url": "https://open.spotify.com/album/7rGsaNzNAN4DjjeRRKInj9"
-      },
-      "artists": [
-        {
-          "name": "F.Charm",
-          "url": "https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I"
-        }
-      ],
-      "duration_ms": 192890,
-      "name": "Morgana",
-      "url": "https://open.spotify.com/track/1AdA4NpknwbWImnnZMrAcq"
-    },
-    {
-      "added_at": "2026-01-15 22:00:28",
-      "album": {
         "name": "ALTCEVA",
         "url": "https://open.spotify.com/album/6ARByzuJLUgx9fCecZ3PJo"
       },
@@ -903,6 +887,38 @@
       "duration_ms": 186300,
       "name": "ALTCEVA",
       "url": "https://open.spotify.com/track/4ukqJjrUjNiKAKRGeuOy79"
+    },
+    {
+      "added_at": "2026-01-15 22:00:28",
+      "album": {
+        "name": "\u0218mecher",
+        "url": "https://open.spotify.com/album/2y0W7bqPbV8D7gSKJIDuCX"
+      },
+      "artists": [
+        {
+          "name": "Badd G",
+          "url": "https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl"
+        }
+      ],
+      "duration_ms": 156562,
+      "name": "\u0218mecher",
+      "url": "https://open.spotify.com/track/047EZz6lObOJGbisz9BQ1V"
+    },
+    {
+      "added_at": "2026-01-15 22:00:28",
+      "album": {
+        "name": "Morgana",
+        "url": "https://open.spotify.com/album/7rGsaNzNAN4DjjeRRKInj9"
+      },
+      "artists": [
+        {
+          "name": "F.Charm",
+          "url": "https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I"
+        }
+      ],
+      "duration_ms": 192890,
+      "name": "Morgana",
+      "url": "https://open.spotify.com/track/1AdA4NpknwbWImnnZMrAcq"
     },
     {
       "added_at": "2026-01-15 22:00:28",
@@ -939,22 +955,6 @@
       "duration_ms": 181714,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/4B7LGlce3KhmzIbGtgyVWx"
-    },
-    {
-      "added_at": "2026-01-15 22:00:28",
-      "album": {
-        "name": "\u0218mecher",
-        "url": "https://open.spotify.com/album/2y0W7bqPbV8D7gSKJIDuCX"
-      },
-      "artists": [
-        {
-          "name": "Badd G",
-          "url": "https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl"
-        }
-      ],
-      "duration_ms": 156562,
-      "name": "\u0218mecher",
-      "url": "https://open.spotify.com/track/047EZz6lObOJGbisz9BQ1V"
     },
     {
       "added_at": "2026-01-15 22:00:28",

@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of Harry Styles, Arctic Monkeys,  Bubbi Morthens og m\u00f6rgum fleiri!",
-  "num_followers": 9585,
+  "num_followers": 9586,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -111,18 +111,18 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/2VoAHTnvBelhAFvUPN1Ghm"
+        "name": "THE CORE - \u6838",
+        "url": "https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw"
       },
       "artists": [
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         }
       ],
-      "duration_ms": 243667,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/3KcmK26eTYJ3Rz1Vb8qs5Z"
+      "duration_ms": 170625,
+      "name": "HYPNOTIZE",
+      "url": "https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -163,6 +163,22 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/2VoAHTnvBelhAFvUPN1Ghm"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 243667,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/3KcmK26eTYJ3Rz1Vb8qs5Z"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
         "name": "Locked In (feat. Trippie Redd)",
         "url": "https://open.spotify.com/album/2fG4Abi890K7fZ9MnEsq9p"
       },
@@ -187,18 +203,18 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
-        "name": "THE CORE - \u6838",
-        "url": "https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw"
+        "name": "On The Ground",
+        "url": "https://open.spotify.com/album/61jk5gIaj4QKKgJxHeA8xX"
       },
       "artists": [
         {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
         }
       ],
-      "duration_ms": 170625,
-      "name": "HYPNOTIZE",
-      "url": "https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo"
+      "duration_ms": 134244,
+      "name": "On The Ground",
+      "url": "https://open.spotify.com/track/331bJRuzgiksWvFiuVKhmH"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -215,22 +231,6 @@
       "duration_ms": 221586,
       "name": "I Could Get Used To This",
       "url": "https://open.spotify.com/track/4m9uyukaB0AEC5BKZb5Svw"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
-        "name": "On The Ground",
-        "url": "https://open.spotify.com/album/61jk5gIaj4QKKgJxHeA8xX"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 134244,
-      "name": "On The Ground",
-      "url": "https://open.spotify.com/track/331bJRuzgiksWvFiuVKhmH"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
+        "name": "work",
+        "url": "https://open.spotify.com/album/0PrpxrMj10YkptkVb1wHza"
+      },
+      "artists": [
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        }
+      ],
+      "duration_ms": 145756,
+      "name": "work",
+      "url": "https://open.spotify.com/track/3ISiRKaCo6JzoKRjNJlvQA"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
         "name": "Dansa med mig sj\u00e4lv",
         "url": "https://open.spotify.com/album/69N1nO4Tc8Xcyp3MKJU0xc"
       },
@@ -371,22 +387,6 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
-        "name": "work",
-        "url": "https://open.spotify.com/album/0PrpxrMj10YkptkVb1wHza"
-      },
-      "artists": [
-        {
-          "name": "no na",
-          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
-        }
-      ],
-      "duration_ms": 145756,
-      "name": "work",
-      "url": "https://open.spotify.com/track/3ISiRKaCo6JzoKRjNJlvQA"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
         "name": "IT\u2019S NOT REAL",
         "url": "https://open.spotify.com/album/4CgtqiWC5y8aKhZkCFZsqT"
       },
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
-        "name": "You Could Have It",
-        "url": "https://open.spotify.com/album/3QYStaiTa85i7UOFQEst2f"
-      },
-      "artists": [
-        {
-          "name": "Horse Vision",
-          "url": "https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "You Could Have It",
-      "url": "https://open.spotify.com/track/2ndh30vZhrfL0Zpq8wRbvl"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
         "name": "soft prn",
         "url": "https://open.spotify.com/album/4ni9Y0IHtsDXzTqG4fPatp"
       },
@@ -459,34 +443,18 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
-        "name": "fall in love with the dj",
-        "url": "https://open.spotify.com/album/3JOCWksM1JNapygyn8tQPJ"
+        "name": "You Could Have It",
+        "url": "https://open.spotify.com/album/3QYStaiTa85i7UOFQEst2f"
       },
       "artists": [
         {
-          "name": "Lucky Iris",
-          "url": "https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC"
+          "name": "Horse Vision",
+          "url": "https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM"
         }
       ],
-      "duration_ms": 180778,
-      "name": "fall in love with the dj",
-      "url": "https://open.spotify.com/track/56ZQHgh0SB0fefzS7BbT2E"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
-        "name": "Touch My Love And Die",
-        "url": "https://open.spotify.com/album/0JSdCZkGz9xUGAxDzS4AFE"
-      },
-      "artists": [
-        {
-          "name": "Myrkur",
-          "url": "https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa"
-        }
-      ],
-      "duration_ms": 177132,
-      "name": "Touch My Love And Die",
-      "url": "https://open.spotify.com/track/4I0bWdDpEsRVwcTYsa0rNj"
+      "duration_ms": 167272,
+      "name": "You Could Have It",
+      "url": "https://open.spotify.com/track/2ndh30vZhrfL0Zpq8wRbvl"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -503,6 +471,38 @@
       "duration_ms": 156874,
       "name": "crybby blue",
       "url": "https://open.spotify.com/track/6VvLMqlEMs3BOzBc2YOnXs"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
+        "name": "Mona Lisa",
+        "url": "https://open.spotify.com/album/4po7ado9LJDka8wf7LcXCI"
+      },
+      "artists": [
+        {
+          "name": "K-391",
+          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
+        }
+      ],
+      "duration_ms": 191651,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/5hGpk0C8Ns9LGhPwQkEBrK"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/2a5MsRZUtPXQoDG2Cl7hJ3"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Cohen",
+          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
+        }
+      ],
+      "duration_ms": 248624,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/0tywJeGs2psw0knvSJdHZS"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -531,34 +531,34 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
-        "name": "Carolina",
-        "url": "https://open.spotify.com/album/2a5MsRZUtPXQoDG2Cl7hJ3"
+        "name": "Touch My Love And Die",
+        "url": "https://open.spotify.com/album/0JSdCZkGz9xUGAxDzS4AFE"
       },
       "artists": [
         {
-          "name": "Kaleb Cohen",
-          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
+          "name": "Myrkur",
+          "url": "https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa"
         }
       ],
-      "duration_ms": 248624,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/0tywJeGs2psw0knvSJdHZS"
+      "duration_ms": 177132,
+      "name": "Touch My Love And Die",
+      "url": "https://open.spotify.com/track/4I0bWdDpEsRVwcTYsa0rNj"
     },
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
-        "name": "Mona Lisa",
-        "url": "https://open.spotify.com/album/4po7ado9LJDka8wf7LcXCI"
+        "name": "fall in love with the dj",
+        "url": "https://open.spotify.com/album/3JOCWksM1JNapygyn8tQPJ"
       },
       "artists": [
         {
-          "name": "K-391",
-          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
+          "name": "Lucky Iris",
+          "url": "https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC"
         }
       ],
-      "duration_ms": 191651,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/5hGpk0C8Ns9LGhPwQkEBrK"
+      "duration_ms": 180778,
+      "name": "fall in love with the dj",
+      "url": "https://open.spotify.com/track/56ZQHgh0SB0fefzS7BbT2E"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -643,6 +643,26 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
+        "name": "Can't Frame the Moonlight",
+        "url": "https://open.spotify.com/album/6D3Pzr2mWkMoMVSBf0RUWP"
+      },
+      "artists": [
+        {
+          "name": "Petra Marklund",
+          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
+        },
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "duration_ms": 205896,
+      "name": "Can't Frame the Moonlight",
+      "url": "https://open.spotify.com/track/0o7TU4ysA7q39FChpwVv0G"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
         "name": "YOUNG: Part 1 & 2",
         "url": "https://open.spotify.com/album/1fgSrvKpIkI49fAy6SFHPV"
       },
@@ -675,22 +695,38 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
-        "name": "Can't Frame the Moonlight",
-        "url": "https://open.spotify.com/album/6D3Pzr2mWkMoMVSBf0RUWP"
+        "name": "Serious (feat. The Teenagers)",
+        "url": "https://open.spotify.com/album/28p2nPkSV5JUEJGzEpmHWs"
       },
       "artists": [
         {
-          "name": "Petra Marklund",
-          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
         },
         {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+          "name": "The Teenagers",
+          "url": "https://open.spotify.com/artist/6EU3ei9Aim1yaX6hTJrjXE"
         }
       ],
-      "duration_ms": 205896,
-      "name": "Can't Frame the Moonlight",
-      "url": "https://open.spotify.com/track/0o7TU4ysA7q39FChpwVv0G"
+      "duration_ms": 162917,
+      "name": "Serious (feat. The Teenagers)",
+      "url": "https://open.spotify.com/track/2CcSPtMgQrDK9Hr4Al0wYT"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
+        "name": "29",
+        "url": "https://open.spotify.com/album/7zE8WryMg0RpDh2VUISZSn"
+      },
+      "artists": [
+        {
+          "name": "BL\u00dc EYES",
+          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+        }
+      ],
+      "duration_ms": 194474,
+      "name": "29",
+      "url": "https://open.spotify.com/track/7dNqvoB3wIUp4w60Lo8r2Y"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -727,22 +763,18 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
-        "name": "Serious (feat. The Teenagers)",
-        "url": "https://open.spotify.com/album/28p2nPkSV5JUEJGzEpmHWs"
+        "name": "Phone Sex",
+        "url": "https://open.spotify.com/album/2Efrfi4RLliavLPQsOCkbJ"
       },
       "artists": [
         {
-          "name": "FILLY",
-          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
-        },
-        {
-          "name": "The Teenagers",
-          "url": "https://open.spotify.com/artist/6EU3ei9Aim1yaX6hTJrjXE"
+          "name": "Mulaa Joans",
+          "url": "https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs"
         }
       ],
-      "duration_ms": 162917,
-      "name": "Serious (feat. The Teenagers)",
-      "url": "https://open.spotify.com/track/2CcSPtMgQrDK9Hr4Al0wYT"
+      "duration_ms": 178641,
+      "name": "Phone Sex",
+      "url": "https://open.spotify.com/track/3TKGJXVhxqyDYFkTGvWdpw"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -763,38 +795,6 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
-        "name": "29",
-        "url": "https://open.spotify.com/album/7zE8WryMg0RpDh2VUISZSn"
-      },
-      "artists": [
-        {
-          "name": "BL\u00dc EYES",
-          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
-        }
-      ],
-      "duration_ms": 194474,
-      "name": "29",
-      "url": "https://open.spotify.com/track/7dNqvoB3wIUp4w60Lo8r2Y"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
-        "name": "Phone Sex",
-        "url": "https://open.spotify.com/album/2Efrfi4RLliavLPQsOCkbJ"
-      },
-      "artists": [
-        {
-          "name": "Mulaa Joans",
-          "url": "https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs"
-        }
-      ],
-      "duration_ms": 178641,
-      "name": "Phone Sex",
-      "url": "https://open.spotify.com/track/3TKGJXVhxqyDYFkTGvWdpw"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/5uQ7wGkeiE2czGZ9YirI0z"
       },
@@ -807,22 +807,6 @@
       "duration_ms": 192786,
       "name": "Naked",
       "url": "https://open.spotify.com/track/2mbLW5bfq7kwwGJfU8Zd6c"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
-        "name": "garden green eyes",
-        "url": "https://open.spotify.com/album/5pH4FPzMU4Wnuo2g5pv2jn"
-      },
-      "artists": [
-        {
-          "name": "Orange Oak",
-          "url": "https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy"
-        }
-      ],
-      "duration_ms": 178775,
-      "name": "garden green eyes",
-      "url": "https://open.spotify.com/track/76ubvikrOTzDV73Wvi4mkA"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -843,6 +827,22 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
+        "name": "garden green eyes",
+        "url": "https://open.spotify.com/album/5pH4FPzMU4Wnuo2g5pv2jn"
+      },
+      "artists": [
+        {
+          "name": "Orange Oak",
+          "url": "https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy"
+        }
+      ],
+      "duration_ms": 178775,
+      "name": "garden green eyes",
+      "url": "https://open.spotify.com/track/76ubvikrOTzDV73Wvi4mkA"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
         "name": "S.O.B (Standing On Business)",
         "url": "https://open.spotify.com/album/27OaKWyTTYALWx5YMxDOW0"
       },
@@ -855,22 +855,6 @@
       "duration_ms": 157636,
       "name": "S.O.B (Standing On Business)",
       "url": "https://open.spotify.com/track/18X6ohepwYSRwzcsjfs7E4"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
-        "name": "Two Spirits",
-        "url": "https://open.spotify.com/album/1RmgQ9YbCdCVAB4Cu9sRJ9"
-      },
-      "artists": [
-        {
-          "name": "Sander Sanchez",
-          "url": "https://open.spotify.com/artist/6pVYHSuDyZDlmaUtOhx9HF"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Two Spirits",
-      "url": "https://open.spotify.com/track/23KKh1xQnTNyKz6YPTn2yM"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -915,6 +899,42 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
+        "name": "Two Spirits",
+        "url": "https://open.spotify.com/album/1RmgQ9YbCdCVAB4Cu9sRJ9"
+      },
+      "artists": [
+        {
+          "name": "Sander Sanchez",
+          "url": "https://open.spotify.com/artist/6pVYHSuDyZDlmaUtOhx9HF"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Two Spirits",
+      "url": "https://open.spotify.com/track/23KKh1xQnTNyKz6YPTn2yM"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
+        "name": "Now That I Got You",
+        "url": "https://open.spotify.com/album/4L4FuUA8V3YEGaLB6KBIFa"
+      },
+      "artists": [
+        {
+          "name": "Moscoman",
+          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
+        },
+        {
+          "name": "TATYANA",
+          "url": "https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP"
+        }
+      ],
+      "duration_ms": 209577,
+      "name": "Now That I Got You",
+      "url": "https://open.spotify.com/track/4OXAFxJjeHjkg0wElaVPtT"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
         "name": "Right Here",
         "url": "https://open.spotify.com/album/1kpSftsDEXk4MP9xhAumxZ"
       },
@@ -947,38 +967,18 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
-        "name": "Now That I Got You",
-        "url": "https://open.spotify.com/album/4L4FuUA8V3YEGaLB6KBIFa"
+        "name": "moving in",
+        "url": "https://open.spotify.com/album/1E6E9b6Do9vazfKNHzJnpk"
       },
       "artists": [
         {
-          "name": "Moscoman",
-          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
-        },
-        {
-          "name": "TATYANA",
-          "url": "https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP"
+          "name": "miaw",
+          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
         }
       ],
-      "duration_ms": 209577,
-      "name": "Now That I Got You",
-      "url": "https://open.spotify.com/track/4OXAFxJjeHjkg0wElaVPtT"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
-        "name": "Can U Feel It?",
-        "url": "https://open.spotify.com/album/74rbR50L8xMo0WJvSIyFr8"
-      },
-      "artists": [
-        {
-          "name": "Late Runner",
-          "url": "https://open.spotify.com/artist/3ZKGo3DUcA4zOmIqXOM7xN"
-        }
-      ],
-      "duration_ms": 182276,
-      "name": "Can U Feel It?",
-      "url": "https://open.spotify.com/track/6E5up0ZG92pnVPp43nX80c"
+      "duration_ms": 245342,
+      "name": "moving in",
+      "url": "https://open.spotify.com/track/6V68DOoiw4Z8iPPDIxtgWY"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -999,18 +999,54 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
-        "name": "moving in",
-        "url": "https://open.spotify.com/album/1E6E9b6Do9vazfKNHzJnpk"
+        "name": "Can U Feel It?",
+        "url": "https://open.spotify.com/album/74rbR50L8xMo0WJvSIyFr8"
       },
       "artists": [
         {
-          "name": "miaw",
-          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
+          "name": "Late Runner",
+          "url": "https://open.spotify.com/artist/3ZKGo3DUcA4zOmIqXOM7xN"
         }
       ],
-      "duration_ms": 245342,
-      "name": "moving in",
-      "url": "https://open.spotify.com/track/6V68DOoiw4Z8iPPDIxtgWY"
+      "duration_ms": 182276,
+      "name": "Can U Feel It?",
+      "url": "https://open.spotify.com/track/6E5up0ZG92pnVPp43nX80c"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/5OHNXTbV4gixUZjm7KhDXl"
+      },
+      "artists": [
+        {
+          "name": "Kook Joey",
+          "url": "https://open.spotify.com/artist/4yThQioYJaP6WS1fvTYeV8"
+        }
+      ],
+      "duration_ms": 225461,
+      "name": "Just Another Day",
+      "url": "https://open.spotify.com/track/2X1h5j0KNJnRwoq3LOmeCX"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
+        "name": "MONEY IN THE BANK",
+        "url": "https://open.spotify.com/album/7kWrHQb4ORQ5mRBeoVuR4a"
+      },
+      "artists": [
+        {
+          "name": "BOABOA",
+          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
+        },
+        {
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+        }
+      ],
+      "duration_ms": 132874,
+      "name": "MONEY IN THE BANK",
+      "url": "https://open.spotify.com/track/2H6CCiKG6pEQm6mPEmNSsf"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -1047,22 +1083,6 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/5OHNXTbV4gixUZjm7KhDXl"
-      },
-      "artists": [
-        {
-          "name": "Kook Joey",
-          "url": "https://open.spotify.com/artist/4yThQioYJaP6WS1fvTYeV8"
-        }
-      ],
-      "duration_ms": 225461,
-      "name": "Just Another Day",
-      "url": "https://open.spotify.com/track/2X1h5j0KNJnRwoq3LOmeCX"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
         "name": "hot but depressive",
         "url": "https://open.spotify.com/album/5Ay0BAktKkO9l7dUQSmTbU"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 164870,
       "name": "hot but depressive",
       "url": "https://open.spotify.com/track/4kRAn2ZrWPzN0bQiLmtLUq"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
-        "name": "MONEY IN THE BANK",
-        "url": "https://open.spotify.com/album/7kWrHQb4ORQ5mRBeoVuR4a"
-      },
-      "artists": [
-        {
-          "name": "BOABOA",
-          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
-        },
-        {
-          "name": "Capo Lee",
-          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
-        }
-      ],
-      "duration_ms": 132874,
-      "name": "MONEY IN THE BANK",
-      "url": "https://open.spotify.com/track/2H6CCiKG6pEQm6mPEmNSsf"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
+        "name": "Washing Machine",
+        "url": "https://open.spotify.com/album/1aXoAz7HuqXMixFvuRWlOE"
+      },
+      "artists": [
+        {
+          "name": "Bibi Club",
+          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Washing Machine",
+      "url": "https://open.spotify.com/track/0kOabZwPutJdHljJirchwP"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
         "name": "Bar Helsinki",
         "url": "https://open.spotify.com/album/0xJm106T1P3D3DFthbgsuk"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 281270,
       "name": "Bar Helsinki",
       "url": "https://open.spotify.com/track/6VIis1eBr7lXT8w0kMY5mk"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
-        "name": "Washing Machine",
-        "url": "https://open.spotify.com/album/1aXoAz7HuqXMixFvuRWlOE"
-      },
-      "artists": [
-        {
-          "name": "Bibi Club",
-          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "Washing Machine",
-      "url": "https://open.spotify.com/track/0kOabZwPutJdHljJirchwP"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
+        "name": ".stuck in a loop...",
+        "url": "https://open.spotify.com/album/4g7oUikSwfG9rXyZkioqqK"
+      },
+      "artists": [
+        {
+          "name": "grasior",
+          "url": "https://open.spotify.com/artist/7oaXjpcBZDUaomAVAKgUly"
+        }
+      ],
+      "duration_ms": 213559,
+      "name": ".stuck in a loop...",
+      "url": "https://open.spotify.com/track/1M0oSfp84MZMjYFJEiduBm"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
         "name": "(Just Like) Arcadia",
         "url": "https://open.spotify.com/album/2PftNM0PoJ64R0BYqCWDH1"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 142285,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/3Bt8GRcmSs9nMcYoPu5Mth"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
-        "name": ".stuck in a loop...",
-        "url": "https://open.spotify.com/album/4g7oUikSwfG9rXyZkioqqK"
-      },
-      "artists": [
-        {
-          "name": "grasior",
-          "url": "https://open.spotify.com/artist/7oaXjpcBZDUaomAVAKgUly"
-        }
-      ],
-      "duration_ms": 213559,
-      "name": ".stuck in a loop...",
-      "url": "https://open.spotify.com/track/1M0oSfp84MZMjYFJEiduBm"
     },
     {
       "added_at": "2026-01-23 00:00:43",

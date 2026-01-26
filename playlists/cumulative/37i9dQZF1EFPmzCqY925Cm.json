@@ -942,10 +942,28 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 139689,
       "name": "Party Animal",
       "url": "https://open.spotify.com/track/4YVoPRtD3oIZzLIDoQ4h3B"
+    },
+    {
+      "album": {
+        "name": "IT\u2019S NOT REAL",
+        "url": "https://open.spotify.com/album/4CgtqiWC5y8aKhZkCFZsqT"
+      },
+      "artists": [
+        {
+          "name": "Ella Red",
+          "url": "https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139689,
+      "name": "Party Animal",
+      "url": "https://open.spotify.com/track/6sJTWMkC1UKeIJFfREvUYQ"
     },
     {
       "album": {

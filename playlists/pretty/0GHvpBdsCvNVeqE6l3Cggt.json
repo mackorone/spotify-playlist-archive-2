@@ -6,7 +6,7 @@
     "name": "Chris",
     "url": "https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg"
   },
-  "snapshot_id": "AAAj0lH98tleesks4bWxBE4AKBaHu2Pe",
+  "snapshot_id": "AAAj08whuhb5B5JEYwUULFAWkjg/6b33",
   "tracks": [
     {
       "added_at": "2021-03-29 15:46:58",
@@ -311,6 +311,22 @@
       "duration_ms": 302400,
       "name": "The Sun Always Shines on T.V.",
       "url": "https://open.spotify.com/track/0HoaLXRp7jJtdQFunUyUGc"
+    },
+    {
+      "added_at": "2026-01-25 09:08:28",
+      "album": {
+        "name": "Crash Out",
+        "url": "https://open.spotify.com/album/1JbvNRdQMbIdaOOyTwF3oA"
+      },
+      "artists": [
+        {
+          "name": "Scilence",
+          "url": "https://open.spotify.com/artist/2TXsHSIhrbcGHL0sWUzdnp"
+        }
+      ],
+      "duration_ms": 252222,
+      "name": "Crash Out",
+      "url": "https://open.spotify.com/track/3kVUVbCU7gVR6EQU0BCT9v"
     },
     {
       "added_at": "2025-10-13 13:16:24",

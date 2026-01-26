@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Arctic Monkeys
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,760 likes - 89 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,751 likes - 89 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

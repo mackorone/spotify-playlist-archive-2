@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0N2psSxKwz0licgMefLKx2.md) - [plain]
 
 > The biggest Country hits of the year! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Kalsey Kulyk
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 10,962 likes - 80 songs - 4 hr 18 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 10,963 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

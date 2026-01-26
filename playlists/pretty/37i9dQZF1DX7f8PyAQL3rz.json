@@ -1,6 +1,6 @@
 {
   "description": "ISSO AQUI \u00c9 \ud83c\udf34 \ud83c\udf79 \u2600\ufe0f \ud83c\udde7\ud83c\uddf7",
-  "num_followers": 1413901,
+  "num_followers": 1413790,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -1419,30 +1419,6 @@
     {
       "added_at": "2026-01-23 03:01:11",
       "album": {
-        "name": "\u00c1rea de Risco",
-        "url": "https://open.spotify.com/album/1GmwM4nchLSfQeXgGdyR9b"
-      },
-      "artists": [
-        {
-          "name": "Tchelo",
-          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
-        },
-        {
-          "name": "LPT Zlatan",
-          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
-        },
-        {
-          "name": "retroboy",
-          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
-        }
-      ],
-      "duration_ms": 158965,
-      "name": "\u00c1rea de Risco",
-      "url": "https://open.spotify.com/track/2sQALYsMKzAQkx1JWDkokz"
-    },
-    {
-      "added_at": "2026-01-23 03:01:11",
-      "album": {
         "name": "Atemporal",
         "url": "https://open.spotify.com/album/4jVbhRMai46SmT4c9a33VD"
       },
@@ -1463,6 +1439,30 @@
       "duration_ms": 133064,
       "name": "Atemporal",
       "url": "https://open.spotify.com/track/38AHdqDWceFNMeSuU0TxiE"
+    },
+    {
+      "added_at": "2026-01-23 03:01:11",
+      "album": {
+        "name": "\u00c1rea de Risco",
+        "url": "https://open.spotify.com/album/1GmwM4nchLSfQeXgGdyR9b"
+      },
+      "artists": [
+        {
+          "name": "Tchelo",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "retroboy",
+          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+        }
+      ],
+      "duration_ms": 158965,
+      "name": "\u00c1rea de Risco",
+      "url": "https://open.spotify.com/track/2sQALYsMKzAQkx1JWDkokz"
     },
     {
       "added_at": "2026-01-23 03:01:11",

@@ -1,6 +1,6 @@
 {
   "description": "Pop to fuel your gaming. Cover: KATSEYE",
-  "num_followers": 453343,
+  "num_followers": 453404,
   "original_name": "Ultimate Pop Gaming",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,26 @@
     {
       "added_at": "2024-09-06 04:01:00",
       "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 212352,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
+    },
+    {
+      "added_at": "2024-09-06 04:01:00",
+      "album": {
         "name": "Boss Bitch",
         "url": "https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 184447,
       "name": "MIDDLE OF THE NIGHT",
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
-    },
-    {
-      "added_at": "2024-09-06 04:01:00",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 212352,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -905,6 +905,22 @@
       "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
     },
     {
+      "added_at": "2024-09-06 04:01:00",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 137704,
+      "name": "MONTERO (Call Me By Your Name)",
+      "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
+    },
+    {
       "added_at": "2024-12-13 05:00:12",
       "album": {
         "name": "Mantra",
@@ -935,22 +951,6 @@
       "duration_ms": 168227,
       "name": "MONEY",
       "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
-    },
-    {
-      "added_at": "2024-09-06 04:01:00",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 137704,
-      "name": "MONTERO (Call Me By Your Name)",
-      "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -1077,26 +1077,6 @@
       "url": "https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo"
     },
     {
-      "added_at": "2025-02-07 05:00:25",
-      "album": {
-        "name": "PRETTY PLEASE",
-        "url": "https://open.spotify.com/album/3RfIyFTT3h03PqTtFbiZR8"
-      },
-      "artists": [
-        {
-          "name": "Dutch Melrose",
-          "url": "https://open.spotify.com/artist/6NRSfOnXw4qaypEfIV2QXn"
-        },
-        {
-          "name": "benny mayne",
-          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
-        }
-      ],
-      "duration_ms": 166721,
-      "name": "PRETTY PLEASE",
-      "url": "https://open.spotify.com/track/6kOdk29M8h6ZfHz4byVG0t"
-    },
-    {
       "added_at": "2024-09-06 04:01:00",
       "album": {
         "name": "Tell Em",
@@ -1115,6 +1095,26 @@
       "duration_ms": 180379,
       "name": "Tell Em",
       "url": "https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8"
+    },
+    {
+      "added_at": "2025-02-07 05:00:25",
+      "album": {
+        "name": "PRETTY PLEASE",
+        "url": "https://open.spotify.com/album/3RfIyFTT3h03PqTtFbiZR8"
+      },
+      "artists": [
+        {
+          "name": "Dutch Melrose",
+          "url": "https://open.spotify.com/artist/6NRSfOnXw4qaypEfIV2QXn"
+        },
+        {
+          "name": "benny mayne",
+          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
+        }
+      ],
+      "duration_ms": 166721,
+      "name": "PRETTY PLEASE",
+      "url": "https://open.spotify.com/track/6kOdk29M8h6ZfHz4byVG0t"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -1705,22 +1705,6 @@
       "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
     },
     {
-      "added_at": "2024-09-06 04:01:00",
-      "album": {
-        "name": "Fight Back: The Collection",
-        "url": "https://open.spotify.com/album/5DkR7Wn2rUWY5Hw9csN0ui"
-      },
-      "artists": [
-        {
-          "name": "NEFFEX",
-          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
-        }
-      ],
-      "duration_ms": 200571,
-      "name": "Fight Back",
-      "url": "https://open.spotify.com/track/6KigD0mlF4VGDYiSEzAyYw"
-    },
-    {
       "added_at": "2025-11-07 05:01:48",
       "album": {
         "name": "Too Much Part 1",
@@ -1735,6 +1719,22 @@
       "duration_ms": 163000,
       "name": "\uac00\uc704\ubc14\uc704\ubcf4 Eeny meeny miny moe",
       "url": "https://open.spotify.com/track/5hy45ZHbIypFH2NsiEyc0Z"
+    },
+    {
+      "added_at": "2024-09-06 04:01:00",
+      "album": {
+        "name": "Fight Back: The Collection",
+        "url": "https://open.spotify.com/album/5DkR7Wn2rUWY5Hw9csN0ui"
+      },
+      "artists": [
+        {
+          "name": "NEFFEX",
+          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
+        }
+      ],
+      "duration_ms": 200571,
+      "name": "Fight Back",
+      "url": "https://open.spotify.com/track/6KigD0mlF4VGDYiSEzAyYw"
     },
     {
       "added_at": "2025-09-12 04:00:21",

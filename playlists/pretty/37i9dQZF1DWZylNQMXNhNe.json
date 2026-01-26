@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Bixarte",
-  "num_followers": 221592,
+  "num_followers": 221588,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-11-22 12:14:14",
       "album": {
+        "name": "NOVA ERA Part. I",
+        "url": "https://open.spotify.com/album/1hxPeJO5L6WOH1QFz3Pnwr"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "duration_ms": 188976,
+      "name": "Mal\u00edcia",
+      "url": "https://open.spotify.com/track/2QZ1rsYyn93YttD5SlybTh"
+    },
+    {
+      "added_at": "2025-11-22 12:14:14",
+      "album": {
         "name": "De Quinta A Domingo",
         "url": "https://open.spotify.com/album/0UFiIp4aj71h2CEAymFy7T"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 197100,
       "name": "De Quinta A Domingo",
       "url": "https://open.spotify.com/track/3DPpnsH5S0269NXaD2uZ3v"
-    },
-    {
-      "added_at": "2025-11-22 12:14:14",
-      "album": {
-        "name": "NOVA ERA Part. I",
-        "url": "https://open.spotify.com/album/1hxPeJO5L6WOH1QFz3Pnwr"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        }
-      ],
-      "duration_ms": 188976,
-      "name": "Mal\u00edcia",
-      "url": "https://open.spotify.com/track/2QZ1rsYyn93YttD5SlybTh"
     },
     {
       "added_at": "2025-11-22 12:14:14",
@@ -947,18 +947,22 @@
     {
       "added_at": "2025-11-22 12:14:14",
       "album": {
-        "name": "\"bb, que tal?\"",
-        "url": "https://open.spotify.com/album/5SpFsFkCPoLkW2a5VzqAQN"
+        "name": "Amor Fati",
+        "url": "https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy"
       },
       "artists": [
         {
-          "name": "Gavi",
-          "url": "https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw"
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        },
+        {
+          "name": "Tagua Tagua",
+          "url": "https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt"
         }
       ],
-      "duration_ms": 161285,
-      "name": "\"bb, que tal?\"",
-      "url": "https://open.spotify.com/track/1JuDwpr7FHzVIePuQ6U9wj"
+      "duration_ms": 211549,
+      "name": "Sem Necessidade",
+      "url": "https://open.spotify.com/track/3QzAkwsDY420mcBIeZh2mC"
     },
     {
       "added_at": "2025-11-22 12:14:14",
@@ -979,22 +983,18 @@
     {
       "added_at": "2025-11-22 12:14:14",
       "album": {
-        "name": "Amor Fati",
-        "url": "https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy"
+        "name": "\"bb, que tal?\"",
+        "url": "https://open.spotify.com/album/5SpFsFkCPoLkW2a5VzqAQN"
       },
       "artists": [
         {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        },
-        {
-          "name": "Tagua Tagua",
-          "url": "https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt"
+          "name": "Gavi",
+          "url": "https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw"
         }
       ],
-      "duration_ms": 211549,
-      "name": "Sem Necessidade",
-      "url": "https://open.spotify.com/track/3QzAkwsDY420mcBIeZh2mC"
+      "duration_ms": 161285,
+      "name": "\"bb, que tal?\"",
+      "url": "https://open.spotify.com/track/1JuDwpr7FHzVIePuQ6U9wj"
     },
     {
       "added_at": "2025-11-22 12:14:14",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2025-11-22 12:14:14",
       "album": {
+        "name": "Perigosa",
+        "url": "https://open.spotify.com/album/2VLa74bSqlJA1CS4gEhzQe"
+      },
+      "artists": [
+        {
+          "name": "AMANDONA!",
+          "url": "https://open.spotify.com/artist/3QsIywlgq5eS0jprFxuDmd"
+        }
+      ],
+      "duration_ms": 186122,
+      "name": "Perigosa",
+      "url": "https://open.spotify.com/track/3CpZ0pZ79sPHE1oxrmGPhS"
+    },
+    {
+      "added_at": "2025-11-22 12:14:14",
+      "album": {
         "name": "Put\u00edfero Pro Max",
         "url": "https://open.spotify.com/album/7nrYxHELVPbJWxKuXrcFZv"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 126515,
       "name": "Put\u00edfero Pro Max",
       "url": "https://open.spotify.com/track/5Raqxm1zg9Kd5gm9MXiRw5"
-    },
-    {
-      "added_at": "2025-11-22 12:14:14",
-      "album": {
-        "name": "Perigosa",
-        "url": "https://open.spotify.com/album/2VLa74bSqlJA1CS4gEhzQe"
-      },
-      "artists": [
-        {
-          "name": "AMANDONA!",
-          "url": "https://open.spotify.com/artist/3QsIywlgq5eS0jprFxuDmd"
-        }
-      ],
-      "duration_ms": 186122,
-      "name": "Perigosa",
-      "url": "https://open.spotify.com/track/3CpZ0pZ79sPHE1oxrmGPhS"
     },
     {
       "added_at": "2025-11-22 12:14:14",

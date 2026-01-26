@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,495 songs - 7 day 2 hr 48 min
+4,496 songs - 7 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2130,6 +2130,7 @@
 | [Levitate Interlude](https://open.spotify.com/track/0e0ox39T7ePziUepsEJVhQ) | [Dentist](https://open.spotify.com/artist/53z9A5LmoNT72JhgxsMCLb) | [Levitate Interlude](https://open.spotify.com/album/7zHglrgCB7F7Y9oFlJgNqm) | 1:29 | 2022-11-24 | 2023-02-26 |
 | [Lexington Avenue](https://open.spotify.com/track/68SSt8cTKZWzv357pAbhF0) | [C.enci](https://open.spotify.com/artist/7lJYQPfPvuVkG97RkAcPM1), [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf) | [Lexington Avenue](https://open.spotify.com/album/0R1i0Nrn4IqRn0aLPIKV7Z) | 2:07 | 2023-12-01 | 2024-02-16 |
 | [Libertad](https://open.spotify.com/track/73LsYkYuiFbTS7j3vafP1l) | [Papi Churro](https://open.spotify.com/artist/4igGvshE0R9UvpobsKOsSK), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Libertad](https://open.spotify.com/album/2UthBbRXepUeWD12NHw1XK) | 2:22 | 2020-09-30 | 2021-01-29 |
+| [Libertalia](https://open.spotify.com/track/6BFdQJ1QnjoNpIOmSCkRSk) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Libertalia](https://open.spotify.com/album/0edAXZZWd9MVeBBRpQ7A4N) | 1:55 | 2026-01-23 |  |
 | [Libra](https://open.spotify.com/track/3LnEtphQ01Be4wWYwhKWiC) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Guavas](https://open.spotify.com/artist/2gg2qNLYW3EN6T1PYZ1LvI) | [Libra](https://open.spotify.com/album/11kO2FpIvQtGXuxxhTQSfb) | 1:44 | 2021-03-19 | 2021-07-02 |
 | [Libration](https://open.spotify.com/track/2VoDSrBiAJLuz7wtulZut6) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [MENACE ‘5’](https://open.spotify.com/album/0gTP034DQRukq0Ww71MFJj) | 3:04 | 2020-12-11 | 2021-01-29 |
 | [Libre](https://open.spotify.com/track/7rNefvFQ4Gxt4yCq3a7r6P) | [Jokujekku](https://open.spotify.com/artist/0L1eY5MVRiGxxfMa77yy3n), [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Libre](https://open.spotify.com/album/0QTH0feDaR1QCe2J5GhaP8) | 2:14 | 2022-07-21 | 2025-10-17 |
@@ -3381,7 +3382,7 @@
 | [Shorebreak](https://open.spotify.com/track/7nOB52izsr8QCUP6IdvMZF) | [Brenky](https://open.spotify.com/artist/3U6rNiL0weudbwLofMicVq) | [Shorebreak](https://open.spotify.com/album/04cnaZIcMfSDc5EKbqOOdE) | 1:21 | 2022-08-04 | 2022-09-23 |
 | [Short Nap](https://open.spotify.com/track/3wpsrPokpTVnWF96tKhiVz) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y) | [Short Nap](https://open.spotify.com/album/6vMhkwv9W0OQ3CJidAJ0Ks) | 2:00 | 2023-10-19 |  |
 | [Show Me Happiness](https://open.spotify.com/track/36IEUB6k3V3XmZpbdm2Jwk) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Show Me Happiness](https://open.spotify.com/album/0bfsCbaYNQFljzk2fJ92hF) | 2:11 | 2021-08-14 | 2021-11-26 |
-| [Showtime](https://open.spotify.com/track/5u95NsXeEC3yt1O2BbdFJ9) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Showtime](https://open.spotify.com/album/0fvdSCouB8h89JTmAr7rm4) | 2:00 | 2025-06-13 |  |
+| [Showtime](https://open.spotify.com/track/5u95NsXeEC3yt1O2BbdFJ9) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Showtime](https://open.spotify.com/album/0fvdSCouB8h89JTmAr7rm4) | 2:00 | 2025-06-13 | 2026-01-26 |
 | [Sidewalk Serenade](https://open.spotify.com/track/3uR0aMn2F74InlapOBKtIi) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA), [Sabato Scola](https://open.spotify.com/artist/6gy4Fsc3iuNQ5qkYdOzF7h) | [Sidewalk Serenade](https://open.spotify.com/album/0zzKLjkFoAbmcycEXRRQPT) | 2:23 | 2024-01-11 | 2024-03-08 |
 | [Siesta](https://open.spotify.com/track/7hoffiDjviMT3MKHzRjJ8r) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Siesta](https://open.spotify.com/album/4quzoBrFK8aKVuoQlMkSeW) | 2:04 | 2022-12-22 | 2023-04-07 |
 | [Signal](https://open.spotify.com/track/5lJ5yLyU2tpN7Y2fvEgN3a) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Signal](https://open.spotify.com/album/6MbqxLIUE4O6SMpRXWX1dw) | 2:36 | 2021-03-27 | 2021-08-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: El Mató a un Policía Motorizado.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,030 likes - 100 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,044 likes - 100 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 53 | [La Leyenda del Hada y el Mago \- En Vivo](https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Rata Blanca: Luna Park 2019 \(En Vivo\)](https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE) | 5:39 |
 | 54 | [Ven Aquí \- MTV Unplugged](https://open.spotify.com/track/2AUYlk6vKwvvIuzHJCh1v0) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Ven Aquí \(MTV Unplugged\)](https://open.spotify.com/album/5eWMfcwxg7jJrftdArP8xu) | 4:26 |
 | 55 | [Pasos al Costado \- En Vivo en el Teatro Ópera](https://open.spotify.com/track/2hHQqvhYtA37U75p49nC4d) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [En Vivo en el Teatro Ópera](https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6) | 4:45 |
-| 56 | [Irresponsables \- En Vivo](https://open.spotify.com/track/27CiyWWdkSAM6mWfaNYaxt) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Repuesto de Fe \(En Vivo\)](https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc) | 2:44 |
-| 57 | [La Rueda Mágica \- En Vivo](https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después Del Amor 20 Años \( En Vivo \)](https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj) | 4:07 |
+| 56 | [La Rueda Mágica \- En Vivo](https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después Del Amor 20 Años \( En Vivo \)](https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj) | 4:07 |
+| 57 | [Irresponsables \- En Vivo](https://open.spotify.com/track/27CiyWWdkSAM6mWfaNYaxt) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Repuesto de Fe \(En Vivo\)](https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc) | 2:44 |
 | 58 | [Solo Aqui \- En Vivo](https://open.spotify.com/track/1pIjHr3eZygWJ2DSisk7nJ) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Solo Aquí \(En Vivo\)](https://open.spotify.com/album/3vzJeKwWUT44LdPCQrUki0) | 4:07 |
 | 59 | [Cosa Linda/Clara \- En Vivo](https://open.spotify.com/track/48JNsIQ07dqVwpOdjjN8yu) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Sebastián Teysera](https://open.spotify.com/artist/4TidDyz02XtlA9d32j1ZYK) | [MVD/05/03/05 \(En Vivo\)](https://open.spotify.com/album/3fV0us97rc1lbhjWVWQO2U) | 6:38 |
 | 60 | [Magia Blanca \- En Vivo en el Teatro Ópera](https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [En Vivo en el Teatro Ópera](https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6) | 5:04 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 94 | [Niño Abuelo \- Vivo en Obras 20/12/2024](https://open.spotify.com/track/4Lk0Y7rY5tlE5C89aBpK56) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Niño Abuelo \(Vivo en Obras 20/12/2024\)](https://open.spotify.com/album/3CaxPS84kJiMTUWuK2GYiC) | 4:40 |
 | 95 | [Difícil De Entender \- En Vivo](https://open.spotify.com/track/6j213IFF8ae9gA8lQb6s8o) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Difícil De Entender \(En Vivo\)](https://open.spotify.com/album/4vNwIgcdszi9DH3IOjsoD8) | 5:38 |
 | 96 | [Frágil \- En Vivo](https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Frágil \(En Vivo\)](https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq) | 3:20 |
-| 97 | [Hasta Estallar \(En Vivo\)](https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Hasta Estallar \(En Vivo\)](https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd) | 4:40 |
-| 98 | [Carretera Perdida \- En Vivo](https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Carretera Perdida \(En Vivo\)](https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3) | 4:50 |
+| 97 | [Carretera Perdida \- En Vivo](https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Carretera Perdida \(En Vivo\)](https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3) | 4:50 |
+| 98 | [Hasta Estallar \(En Vivo\)](https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Hasta Estallar \(En Vivo\)](https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd) | 4:40 |
 | 99 | [Ella Vendrá](https://open.spotify.com/track/6kz39g8jRUQlnOpCZG5LpU) | [Palo Pandolfo](https://open.spotify.com/artist/01wwxIe4Qgb0a4PCfzBjsf) | [El Vuelo del Dragón, Pt\. 3](https://open.spotify.com/album/1IyfurpAggpzBi4oDwgR6x) | 4:49 |
 | 100 | [Música Del Alma \- En Vivo](https://open.spotify.com/track/5lN4LRhNSCnYtfj8R8Guce) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Música del Alma \(En Vivo\)](https://open.spotify.com/album/0cMlhfS9ybqoQf8o463m5X) | 4:11 |
 

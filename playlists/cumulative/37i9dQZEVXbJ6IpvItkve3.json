@@ -684,7 +684,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 311733,
       "name": "Aperture",
       "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -5064,7 +5064,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
@@ -8354,6 +8354,28 @@
       "duration_ms": 165412,
       "name": "Rah Tah Tah",
       "url": "https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK"
+    },
+    {
+      "album": {
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219743,
+      "name": "Raindance (feat. Tems)",
+      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
       "album": {
@@ -11798,7 +11820,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 202408,
       "name": "\u05d0\u05d1\u05d0",
       "url": "https://open.spotify.com/track/3DTHsQnfuQVESYAYv0fybQ"
@@ -11968,6 +11990,24 @@
       "duration_ms": 228293,
       "name": "\u05d0\u05d4\u05d1\u05d4 \u05e7\u05e6\u05e8\u05d4",
       "url": "https://open.spotify.com/track/2JgH4aj4Afie8gZa4T6vmG"
+    },
+    {
+      "album": {
+        "name": "\u05de\u05e2\u05dc \u05d4\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/6Q3omzaKTo5xT39LJqUEfb"
+      },
+      "artists": [
+        {
+          "name": "Noam Bettan",
+          "url": "https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185446,
+      "name": "\u05d0\u05d4\u05d1\u05d5\u05ea \u05dc\u05d9\u05d5\u05dd \u05d0\u05d7\u05d3",
+      "url": "https://open.spotify.com/track/5N9I2p1Z9K4hi6Rs6FmgNF"
     },
     {
       "album": {
@@ -21488,7 +21528,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 178950,
       "name": "\u05e0\u05d7\u05dc\u05ea \u05d1\u05e0\u05d9\u05de\u05d9\u05df",
       "url": "https://open.spotify.com/track/2H84mdRphvQn5QniG3v07a"
@@ -25432,7 +25472,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-25",
+      "date_removed": null,
       "duration_ms": 294093,
       "name": "\u05e9\u05de\u05e9 \u05e9\u05d6\u05d5\u05e8\u05d7\u05ea \u05e2\u05dc\u05d9\u05d9",
       "url": "https://open.spotify.com/track/5xzBjwCJLdIKtIXQZ06RXj"

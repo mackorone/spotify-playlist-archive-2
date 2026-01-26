@@ -4307,6 +4307,28 @@
     },
     {
       "album": {
+        "name": "L'adresse",
+        "url": "https://open.spotify.com/album/186lJPIiwQ6wsKxIHRtNgN"
+      },
+      "artists": [
+        {
+          "name": "Abduh",
+          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
+        },
+        {
+          "name": "Najm",
+          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183475,
+      "name": "L'adresse",
+      "url": "https://open.spotify.com/track/2JyZg2ZTWewdYavDVETj1I"
+    },
+    {
+      "album": {
         "name": "L'APPEL",
         "url": "https://open.spotify.com/album/21Dvjv5hriQ8x8b3O2HY3V"
       },
@@ -4996,7 +5018,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 202442,
       "name": "MACHI HAKA",
       "url": "https://open.spotify.com/track/46vZZCyBcvlABmEF57PLBc"

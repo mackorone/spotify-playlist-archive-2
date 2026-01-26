@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 25 Jan 23:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 25 Jan 04:03 UTC.
 
-6,085 songs - 14 day 2 hr 34 min
+6,086 songs - 14 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1064,6 +1064,7 @@
 | [Closer to the moon](https://open.spotify.com/track/2PBpKrVVmbnrV91i56zT1I) | [Anya Nami](https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h) | [Closer to the moon](https://open.spotify.com/album/2Akcv0BSbX9D1CjsaT0Ndl) | 3:59 | 2024-12-20 | 2025-01-03 |
 | [Closure \(with Cash Cobain\)](https://open.spotify.com/track/5RXnHx69EemG0EXsmhtfki) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Closure](https://open.spotify.com/album/4nDtOJHPxI43ZaBoWRHSx6) | 2:58 | 2024-10-25 | 2024-10-29 |
 | [cloud 11](https://open.spotify.com/track/6sPUQOYM3gPHt6V6tUOGPD) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [cloud 11](https://open.spotify.com/album/77XSyzmCy40q7rNihXkGU7) | 2:33 | 2024-08-30 | 2024-09-04 |
+| [CLOUD CORE](https://open.spotify.com/track/4Ib0PEx6jncDWDBDIhgw7C) | [Lightning Bolt](https://open.spotify.com/artist/2og3FOCLYXT9H7IYE6QPUq) | [CLOUD CORE](https://open.spotify.com/album/6htcWlRCuSWxRnbSrMdnHr) | 4:41 | 2026-01-25 |  |
 | [cLOUDs](https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [cLOUDs](https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex) | 4:02 | 2025-02-22 | 2025-03-03 |
 | [Clover Paradise](https://open.spotify.com/track/3WT0j8yvZHAM6HVArq1LX0) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Clover Paradise](https://open.spotify.com/album/2suW4wxHSdhU0uK4gGuMui) | 5:09 | 2024-09-05 | 2024-09-07 |
 | [Club Husband](https://open.spotify.com/track/6Wnr4kk9nZvkZ24QomLnaE) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Club Husband](https://open.spotify.com/album/4RBedmc8bF4DEio4BO4dlD) | 3:39 | 2025-10-23 | 2025-10-31 |
@@ -1992,7 +1993,7 @@
 | [FUKOUNA GIRL \- REMIX](https://open.spotify.com/track/37cJ1qkWTw3c7xvDHaR9pB) | [STOMACH BOOK](https://open.spotify.com/artist/079cEjjSpv5dOLH5xsGdvN), [Girls Rituals](https://open.spotify.com/artist/5HdEsw8d1ZGm49Aw7GWTuD), [JOHNNASCUS](https://open.spotify.com/artist/1Kvu06TxgDMSFkoYQEj6Rv) | [FUKOUNA GIRL \(REMIX\)](https://open.spotify.com/album/4CzlyXXOI3kvMr890ZHjJk) | 4:38 | 2025-06-21 | 2025-06-28 |
 | [FULL BLOOM](https://open.spotify.com/track/0GZ9DdMtc4h8g3I3o6wlwt) | [Rav](https://open.spotify.com/artist/6oeSQ4qmDQ7n89Rdt6tLLn) | [FULL BLOOM](https://open.spotify.com/album/2XIq5YepQCOHD6bjeQ8RS9) | 3:56 | 2025-01-04 | 2025-01-13 |
 | [Full Of Emptiness](https://open.spotify.com/track/3FXm6xBVfTY6LQHZQGImpo) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Full Of Emptiness](https://open.spotify.com/album/7BtiR6ixeY4NBQzhYu5Sxa) | 2:54 | 2024-08-09 | 2024-08-14 |
-| [FUMO Y DESPUES EXISTO](https://open.spotify.com/track/066atkDkmqjGlLz7wx4wKO) | [AgusFortnite2008](https://open.spotify.com/artist/6S0NgDvO6FINUMYschvqZe) | [FUMO Y DESPUES EXISTO](https://open.spotify.com/album/50QKpMiuEkplpaEDvDwALS) | 1:52 | 2026-01-21 |  |
+| [FUMO Y DESPUES EXISTO](https://open.spotify.com/track/066atkDkmqjGlLz7wx4wKO) | [AgusFortnite2008](https://open.spotify.com/artist/6S0NgDvO6FINUMYschvqZe) | [FUMO Y DESPUES EXISTO](https://open.spotify.com/album/50QKpMiuEkplpaEDvDwALS) | 1:52 | 2026-01-21 | 2026-01-26 |
 | [Funny Man](https://open.spotify.com/track/2sIz8tMsAfyXyQVsGTBQcN) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [Funny Man](https://open.spotify.com/album/4slAkUCsu5WtFoxo5TCZWd) | 3:30 | 2024-09-24 | 2024-09-27 |
 | [fuorilegge](https://open.spotify.com/track/2C46EwfXY2ijlt7BfBY5mi) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [fuorilegge](https://open.spotify.com/album/0AUY58T6LbtiJ0CuY4E7qu) | 3:41 | 2025-02-12 | 2025-02-20 |
 | [Further Away](https://open.spotify.com/track/5qvIU1bz2TMh6NBvWTQvAR) | [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok) | [Kaley / Further Away](https://open.spotify.com/album/0JvLLE7WcXbUiuJrAnnBkG) | 2:37 | 2024-06-24 | 2024-06-26 |

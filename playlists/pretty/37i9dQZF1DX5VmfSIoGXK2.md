@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 
 > Our favorite Jazz House selections 🤲 featuring Godblesscomputers
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,581 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,630 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 | 99 | [Unity Jazz](https://open.spotify.com/track/3ucM5eRZYNIzJTlUPI9i4T) | [Sajmoonn](https://open.spotify.com/artist/7Jui0pv7zs0Pmbfaqx2Sjh) | [Don't You Dare / Unity Jazz](https://open.spotify.com/album/5PoSz4P2VT2RCHQ5eAwu3S) | 4:15 |
 | 100 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 |
 
-Snapshot ID: `AAAAALEzBwxG/Tf8EPcaxBXXpeiJqXEc`
+Snapshot ID: `AAAAAFvvszk7zeQagIHunzSFwtdh9hyR`

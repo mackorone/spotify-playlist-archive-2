@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 41129,
+  "num_followers": 41131,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXK6AAAAAAB39JgaGV7DyW3EvIiYb/fO",
+  "snapshot_id": "aXQLgAAAAADhQZ3lSL8/jggx0hnw770A",
   "tracks": [
     {
       "added_at": null,
@@ -643,22 +643,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
+        "name": "Sangue de Free",
+        "url": "https://open.spotify.com/album/1cseH3sATZXHYOAJlZuSd1"
       },
       "artists": [
-        {
-          "name": "Planet Hemp",
-          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
-        },
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 175945,
-      "name": "QUEIMANDO TUDO - Ao Vivo",
-      "url": "https://open.spotify.com/track/4PJ8X3IJx0DmBT5soPDI6a"
+      "duration_ms": 210959,
+      "name": "Sangue de Free",
+      "url": "https://open.spotify.com/track/1yplC5zrM528Ie26S85zGM"
     },
     {
       "added_at": null,
@@ -695,18 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sangue de Free",
-        "url": "https://open.spotify.com/album/1cseH3sATZXHYOAJlZuSd1"
+        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
       },
       "artists": [
+        {
+          "name": "Planet Hemp",
+          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
+        },
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 210959,
-      "name": "Sangue de Free",
-      "url": "https://open.spotify.com/track/1yplC5zrM528Ie26S85zGM"
+      "duration_ms": 175945,
+      "name": "QUEIMANDO TUDO - Ao Vivo",
+      "url": "https://open.spotify.com/track/4PJ8X3IJx0DmBT5soPDI6a"
     },
     {
       "added_at": null,
@@ -723,26 +723,6 @@
       "duration_ms": 191981,
       "name": "Rolo Compressor",
       "url": "https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
-      },
-      "artists": [
-        {
-          "name": "Planet Hemp",
-          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 245741,
-      "name": "CONTEXTO - Ao Vivo",
-      "url": "https://open.spotify.com/track/6tV1Y71b01jjIFpXhnvmUE"
     },
     {
       "added_at": null,
@@ -787,6 +767,26 @@
       "duration_ms": 214187,
       "name": "Black Belt (feat. Black Alien & Bi Ribeiro)",
       "url": "https://open.spotify.com/track/2UtZyVQIghFcIvm1MxpRd6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
+      },
+      "artists": [
+        {
+          "name": "Planet Hemp",
+          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 245741,
+      "name": "CONTEXTO - Ao Vivo",
+      "url": "https://open.spotify.com/track/6tV1Y71b01jjIFpXhnvmUE"
     },
     {
       "added_at": null,

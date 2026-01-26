@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Israel Salazar, Klebson Kollins, Jhonas Serra, Gabriell Júnior, Flavio Vasquez
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,470 likes - 48 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,505 likes - 48 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

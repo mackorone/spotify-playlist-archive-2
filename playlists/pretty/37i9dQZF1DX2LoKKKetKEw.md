@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,120 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,159 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 79 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 |
 | 80 | [Blessings](https://open.spotify.com/track/3m1IlCSwbnUhwL0CPDrZYk) | [Orlumuzik](https://open.spotify.com/artist/52ubZZNtBSx1UNUtSqC1Av), [Bawa ALA](https://open.spotify.com/artist/1Q98mSTvrmCOEzRZhlMUz1) | [Blessings](https://open.spotify.com/album/7eOpjqmHfIaMkPPJVW63gZ) | 2:24 |
 
-Snapshot ID: `AAAAAIGUZ/In1v2UHzS0FOsrRHjhpk35`
+Snapshot ID: `AAAAAP09BTym2fs6MK1PbpkbfpwNH2px`

@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 281508,
+  "num_followers": 281587,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
+        "name": "Playing Robots Into Heaven",
+        "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 284551,
+      "name": "Loading",
+      "url": "https://open.spotify.com/track/0GQW2gDyxgT5IsNEM4osbJ"
+    },
+    {
+      "added_at": "2026-01-16 05:00:24",
+      "album": {
         "name": "Time Spent Away From U",
         "url": "https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 287720,
       "name": "Eyes Be Closed",
       "url": "https://open.spotify.com/track/3Qp1ja1oYotWn5K0XBRrUV"
-    },
-    {
-      "added_at": "2026-01-16 05:00:24",
-      "album": {
-        "name": "Playing Robots Into Heaven",
-        "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 284551,
-      "name": "Loading",
-      "url": "https://open.spotify.com/track/0GQW2gDyxgT5IsNEM4osbJ"
     },
     {
       "added_at": "2026-01-16 05:00:24",
@@ -771,18 +771,18 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
-        "name": "Vital Loop",
-        "url": "https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3"
+        "name": "Gone To Earth (Remastered 2003)",
+        "url": "https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc"
       },
       "artists": [
         {
-          "name": "Kelbin",
-          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
+          "name": "David Sylvian",
+          "url": "https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw"
         }
       ],
-      "duration_ms": 236659,
-      "name": "Vital Loop",
-      "url": "https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht"
+      "duration_ms": 141120,
+      "name": "Silver Moon Over Sleeping Steeples",
+      "url": "https://open.spotify.com/track/7h7wT4LgpdWMuR2t3kmQAI"
     },
     {
       "added_at": "2026-01-16 05:00:24",
@@ -803,18 +803,18 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
-        "name": "Gone To Earth (Remastered 2003)",
-        "url": "https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc"
+        "name": "Vital Loop",
+        "url": "https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3"
       },
       "artists": [
         {
-          "name": "David Sylvian",
-          "url": "https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw"
+          "name": "Kelbin",
+          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
         }
       ],
-      "duration_ms": 141120,
-      "name": "Silver Moon Over Sleeping Steeples",
-      "url": "https://open.spotify.com/track/7h7wT4LgpdWMuR2t3kmQAI"
+      "duration_ms": 236659,
+      "name": "Vital Loop",
+      "url": "https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht"
     },
     {
       "added_at": "2026-01-16 05:00:24",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
-        "name": "So Far South",
-        "url": "https://open.spotify.com/album/351KmID7SmIWJOw8YmlSZj"
-      },
-      "artists": [
-        {
-          "name": "Oscar Farrell",
-          "url": "https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX"
-        }
-      ],
-      "duration_ms": 221848,
-      "name": "So Far South",
-      "url": "https://open.spotify.com/track/5WV7YLYSsle4BYQwz613L2"
-    },
-    {
-      "added_at": "2026-01-16 05:00:24",
-      "album": {
         "name": "Because of a Flower",
         "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 304144,
       "name": "Camille",
       "url": "https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4"
+    },
+    {
+      "added_at": "2026-01-16 05:00:24",
+      "album": {
+        "name": "So Far South",
+        "url": "https://open.spotify.com/album/351KmID7SmIWJOw8YmlSZj"
+      },
+      "artists": [
+        {
+          "name": "Oscar Farrell",
+          "url": "https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX"
+        }
+      ],
+      "duration_ms": 221848,
+      "name": "So Far South",
+      "url": "https://open.spotify.com/track/5WV7YLYSsle4BYQwz613L2"
     },
     {
       "added_at": "2026-01-16 05:00:24",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
+        "name": "Sun_3hd",
+        "url": "https://open.spotify.com/album/1h9XUarVfrkzHUk350s4K1"
+      },
+      "artists": [
+        {
+          "name": "Rein",
+          "url": "https://open.spotify.com/artist/5RUjaQZcU0IX0ayjFQrQQt"
+        }
+      ],
+      "duration_ms": 376000,
+      "name": "Sun_3hd",
+      "url": "https://open.spotify.com/track/3SZNh86XYkpDumjfWaV1b0"
+    },
+    {
+      "added_at": "2026-01-16 05:00:24",
+      "album": {
         "name": "Flowerdrum",
         "url": "https://open.spotify.com/album/2nTAmXD5n7KSDEWTpdtXCk"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 136320,
       "name": "locket",
       "url": "https://open.spotify.com/track/1jXxhzjFxH8hN1xmcnYhjs"
-    },
-    {
-      "added_at": "2026-01-16 05:00:24",
-      "album": {
-        "name": "Sun_3hd",
-        "url": "https://open.spotify.com/album/1h9XUarVfrkzHUk350s4K1"
-      },
-      "artists": [
-        {
-          "name": "Rein",
-          "url": "https://open.spotify.com/artist/5RUjaQZcU0IX0ayjFQrQQt"
-        }
-      ],
-      "duration_ms": 376000,
-      "name": "Sun_3hd",
-      "url": "https://open.spotify.com/track/3SZNh86XYkpDumjfWaV1b0"
     },
     {
       "added_at": "2026-01-16 05:00:24",
@@ -1695,22 +1695,18 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
-        "name": "Not For Threes",
-        "url": "https://open.spotify.com/album/5O4LYrdtTr4nMnkn2GwP74"
+        "name": "Bad Vibes",
+        "url": "https://open.spotify.com/album/3VpOUMVf32y2WQasgqmGPn"
       },
       "artists": [
         {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
-        },
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+          "name": "Shlohmo",
+          "url": "https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725"
         }
       ],
-      "duration_ms": 278933,
-      "name": "Lilith",
-      "url": "https://open.spotify.com/track/3nSfJkSb7xRtrtJMKohXGc"
+      "duration_ms": 302210,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/3oGqaG8lbdMzw4kgRb0CYz"
     }
   ],
   "unique_name": "Electronica Romantica",

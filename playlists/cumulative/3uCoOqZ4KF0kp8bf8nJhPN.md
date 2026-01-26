@@ -4,7 +4,7 @@
 
 > 
 
-307 songs - 11 hr 59 min
+308 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2025-07-13 |  |
 | [stay the night pluggnb](https://open.spotify.com/track/7mAhxVbneXAvOLv7dyG2NM) | [cadenkala](https://open.spotify.com/artist/2rzk5yjCatuGzQLDawKsXe), [tabris](https://open.spotify.com/artist/4lGxmCxpRK0pHo7EuakiFH) | [stay the night pluggnb](https://open.spotify.com/album/3dzg55rvSePS00QhW1p4sX) | 2:07 | 2025-05-22 |  |
 | [stfu.](https://open.spotify.com/track/78oBJ5afRt9xibIv5Tsfnq) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [stfu.](https://open.spotify.com/album/0SRYzffT84QwJv5LCeluhL) | 1:43 | 2024-11-21 |  |
+| [stuck in my room.](https://open.spotify.com/track/6AG0U6Mp9V8lo0uRuAgGzZ) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [PINK HAIR!](https://open.spotify.com/album/2AvVihuwf4zWDOnnsaWUNQ) | 3:01 | 2026-01-25 |  |
 | [stuckk on you](https://open.spotify.com/track/4Es5Ngl8ETnV5EXzbsxMWM) | [otuka](https://open.spotify.com/artist/2VxINnkFPw2Sd6MiyKxN4B) | [stuckk on you](https://open.spotify.com/album/3ouWk2kW2bEtX2zz2neUaL) | 2:03 | 2024-12-25 |  |
 | [Summer Dub](https://open.spotify.com/track/0MaCHDp2w5kM0fPuYQpDGh) | [Wez Devine](https://open.spotify.com/artist/30tYWjGZbGNowjOI0bl6XG) | [Summer Motion](https://open.spotify.com/album/48oNciJNJ5a6Ut0d5PbpL0) | 3:21 | 2025-04-14 |  |
 | [Sunday](https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:18 | 2025-03-11 |  |

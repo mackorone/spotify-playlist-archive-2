@@ -4,7 +4,7 @@
 
 > This is Charlie Monttana\. The essential tracks, all in one playlist.
 
-75 songs - 5 hr 0 min
+76 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,13 +30,14 @@
 | [Estoy Ardiendo](https://open.spotify.com/track/2B473hcOdYC3PiwOz8SNVK) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 3:16 | 2023-01-14 |  |
 | [Estoy Tan Solo](https://open.spotify.com/track/4qvkfmC8UVHxECR9y61z3s) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Pares y Duetos: Disco 2](https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY) | 3:12 | 2023-01-14 | 2025-12-24 |
 | [Hipócrita](https://open.spotify.com/track/5Ct7MKwBBOuBr8uTh8uisv) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 4:11 | 2023-01-14 |  |
+| [Historias de Rock & Roll](https://open.spotify.com/track/6hYLlylb5O4YAG9OMnbA0k) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 2](https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5) | 3:34 | 2026-01-26 |  |
 | [Hotel](https://open.spotify.com/track/3dYIbbqwLf6WpnnfhqriCG) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 3:54 | 2023-01-14 |  |
 | [Intro + 4 de Febrero \- En Vivo](https://open.spotify.com/track/4aLRC12MxcILsD7ohiY4Ff) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo, Vol\. 1 \(En el Teatro Isabela Corona\)](https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue) | 4:26 | 2023-05-22 | 2025-12-31 |
 | [La Cita](https://open.spotify.com/track/2ndf2BC45Q69FCa4rPJXX0) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 3:23 | 2023-01-14 | 2025-03-08 |
 | [La Niña del Acordeón](https://open.spotify.com/track/5RUjpiH4aVDzpCJ5GQfE4p) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Rockin' And Rollin'](https://open.spotify.com/album/2NSURyToNLKlRwUM1AS3x0) | 3:40 | 2024-01-28 | 2024-01-30 |
 | [La Rubia](https://open.spotify.com/track/2RO5Hsd5RjsjNTPZ9KP8Y5) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 2:55 | 2023-01-14 |  |
 | [La Rubia](https://open.spotify.com/track/0MgAK8JWtBooPwMECwZOGh) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Seguimos Perdiendo](https://open.spotify.com/artist/5Hp12BdkneIJpn6hvxaoHr) | [Pares y Duetos: Disco 1](https://open.spotify.com/album/41FihoRRlBH8E1xHgfkhpV) | 3:04 | 2025-03-01 | 2025-03-08 |
-| [La Última Carta](https://open.spotify.com/track/5YBgsFJou4PLqaBSuO9YSJ) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Rock Star](https://open.spotify.com/album/0W1YVfPwlRyB1WpkptmtbA) | 5:13 | 2023-09-15 |  |
+| [La Última Carta](https://open.spotify.com/track/5YBgsFJou4PLqaBSuO9YSJ) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Rock Star](https://open.spotify.com/album/0W1YVfPwlRyB1WpkptmtbA) | 5:13 | 2023-09-15 | 2026-01-26 |
 | [Las Encueradas](https://open.spotify.com/track/5gDCTbJPowVyZUn3LTDADg) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 3:26 | 2023-01-14 |  |
 | [Llévatela pa Tu Casa](https://open.spotify.com/track/2r4bXPcsTPTrPeFqaSVM5r) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Montamorfosis](https://open.spotify.com/album/7ALgl4x4459Wn1yFaotbkT) | 3:27 | 2023-01-14 |  |
 | [Me Gusta Tu Chava](https://open.spotify.com/track/3WG2OHf4oB8eyuVEnyaD6K) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Presente: Mi Legado](https://open.spotify.com/album/3s3Dr7yuFo8ogmJ8If3uN5) | 3:26 | 2023-01-14 |  |

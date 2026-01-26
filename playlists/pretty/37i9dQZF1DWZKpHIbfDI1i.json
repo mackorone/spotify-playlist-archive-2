@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Yandel & LATIN MAFIA en portada ",
-  "num_followers": 824721,
+  "num_followers": 824769,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-01-21 00:21:17",
       "album": {
-        "name": "Pasta",
-        "url": "https://open.spotify.com/album/0EOkVu6Sp54EakQ5B0af0P"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 194858,
-      "name": "Pasta",
-      "url": "https://open.spotify.com/track/5m6bsa7qhZXjSDDqwRRfTD"
-    },
-    {
-      "added_at": "2026-01-21 00:21:17",
-      "album": {
         "name": "Evoluci\u00f3n",
         "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 208000,
       "name": "Al\u00e9gale Al Umpire",
       "url": "https://open.spotify.com/track/3KQwuuHarLTIZIUXtwDmPN"
+    },
+    {
+      "added_at": "2026-01-21 00:21:17",
+      "album": {
+        "name": "Pasta",
+        "url": "https://open.spotify.com/album/0EOkVu6Sp54EakQ5B0af0P"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 194858,
+      "name": "Pasta",
+      "url": "https://open.spotify.com/track/5m6bsa7qhZXjSDDqwRRfTD"
     },
     {
       "added_at": "2026-01-21 00:21:17",
@@ -551,6 +551,26 @@
     {
       "added_at": "2026-01-21 00:21:17",
       "album": {
+        "name": "La Morrita",
+        "url": "https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 154951,
+      "name": "La Morrita",
+      "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
+    },
+    {
+      "added_at": "2026-01-21 00:21:17",
+      "album": {
         "name": "Noches De Cantina",
         "url": "https://open.spotify.com/album/7s4iqJ8ygSoGZJuKm21v1g"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 233306,
       "name": "Vivir Sin Aire",
       "url": "https://open.spotify.com/track/5cPfJH1aUu9kIZyvZS7Ps7"
-    },
-    {
-      "added_at": "2026-01-21 00:21:17",
-      "album": {
-        "name": "Cartier",
-        "url": "https://open.spotify.com/album/1Dc6mH1teFQDQQXlgpl8pB"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 186494,
-      "name": "Cartier",
-      "url": "https://open.spotify.com/track/5xAikCeFXqHpVUuRKxBg4V"
     },
     {
       "added_at": "2026-01-21 00:21:17",
@@ -647,6 +647,26 @@
     {
       "added_at": "2026-01-21 00:21:17",
       "album": {
+        "name": "Cartier",
+        "url": "https://open.spotify.com/album/1Dc6mH1teFQDQQXlgpl8pB"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 186494,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/5xAikCeFXqHpVUuRKxBg4V"
+    },
+    {
+      "added_at": "2026-01-21 00:21:17",
+      "album": {
         "name": "YO NO TE OLVIDO",
         "url": "https://open.spotify.com/album/0KQ0bzSutmIK3yaVnGKsdP"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 200707,
       "name": "YO NO TE OLVIDO",
       "url": "https://open.spotify.com/track/641M1deHD4Y0X74pt8csik"
-    },
-    {
-      "added_at": "2026-01-21 00:21:17",
-      "album": {
-        "name": "La Morrita",
-        "url": "https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 154951,
-      "name": "La Morrita",
-      "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
     },
     {
       "added_at": "2026-01-21 00:21:17",
@@ -923,22 +923,18 @@
     {
       "added_at": "2026-01-21 00:21:17",
       "album": {
-        "name": "Dejame Dormir",
-        "url": "https://open.spotify.com/album/37NVXUpFk44riPjvqtFQlh"
+        "name": "Me Enamor\u00e9 Solo",
+        "url": "https://open.spotify.com/album/4QuqWX0Gniy5l01FwZVxO1"
       },
       "artists": [
         {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 160500,
-      "name": "Dejame Dormir",
-      "url": "https://open.spotify.com/track/1ylPYGLrhUEkKsaawdizaD"
+      "duration_ms": 185246,
+      "name": "Me Enamor\u00e9 Solo",
+      "url": "https://open.spotify.com/track/1p8ktN7uVGq04LIYYyveRQ"
     },
     {
       "added_at": "2026-01-21 00:21:17",
@@ -983,18 +979,22 @@
     {
       "added_at": "2026-01-21 00:21:17",
       "album": {
-        "name": "Me Enamor\u00e9 Solo",
-        "url": "https://open.spotify.com/album/4QuqWX0Gniy5l01FwZVxO1"
+        "name": "Dejame Dormir",
+        "url": "https://open.spotify.com/album/37NVXUpFk44riPjvqtFQlh"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 185246,
-      "name": "Me Enamor\u00e9 Solo",
-      "url": "https://open.spotify.com/track/1p8ktN7uVGq04LIYYyveRQ"
+      "duration_ms": 160500,
+      "name": "Dejame Dormir",
+      "url": "https://open.spotify.com/track/1ylPYGLrhUEkKsaawdizaD"
     },
     {
       "added_at": "2026-01-21 00:21:17",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-01-21 00:21:17",
       "album": {
+        "name": "SOY GRACIAS A DIOS",
+        "url": "https://open.spotify.com/album/7nCy9Z4VJYjvyObsEwPDL4"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 163979,
+      "name": "SOY GRACIAS A DIOS",
+      "url": "https://open.spotify.com/track/7GQfk7tJpiI63QSAOzDiNV"
+    },
+    {
+      "added_at": "2026-01-21 00:21:17",
+      "album": {
         "name": "Amarre",
         "url": "https://open.spotify.com/album/1BeOknqcvlpCNhFDdc3E14"
       },
@@ -1167,22 +1183,6 @@
     {
       "added_at": "2026-01-21 00:21:17",
       "album": {
-        "name": "SOY GRACIAS A DIOS",
-        "url": "https://open.spotify.com/album/7nCy9Z4VJYjvyObsEwPDL4"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 163979,
-      "name": "SOY GRACIAS A DIOS",
-      "url": "https://open.spotify.com/track/7GQfk7tJpiI63QSAOzDiNV"
-    },
-    {
-      "added_at": "2026-01-21 00:21:17",
-      "album": {
         "name": "La del Primer Puesto",
         "url": "https://open.spotify.com/album/17i5gpmOgTjDDHlgnqa5ua"
       },
@@ -1199,22 +1199,6 @@
       "duration_ms": 194080,
       "name": "La del Primer Puesto",
       "url": "https://open.spotify.com/track/6sbE3hkY1kRT4CmmdOJDJC"
-    },
-    {
-      "added_at": "2026-01-21 00:21:17",
-      "album": {
-        "name": "Chapayeka (Puro Chucky) (En Vivo)",
-        "url": "https://open.spotify.com/album/3yOll80cJzqzR0X6xnbX3h"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 182750,
-      "name": "Mi \u00danico Camino (En Vivo)",
-      "url": "https://open.spotify.com/track/0VCu0JDkHoFpuRTvZ9Bbr3"
     },
     {
       "added_at": "2026-01-21 00:21:17",
@@ -1247,6 +1231,22 @@
       "duration_ms": 186454,
       "name": "Cada D\u00eda M\u00e1s",
       "url": "https://open.spotify.com/track/3nS0cXZqC3xWHD53gLOLD0"
+    },
+    {
+      "added_at": "2026-01-21 00:21:17",
+      "album": {
+        "name": "Chapayeka (Puro Chucky) (En Vivo)",
+        "url": "https://open.spotify.com/album/3yOll80cJzqzR0X6xnbX3h"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 182750,
+      "name": "Mi \u00danico Camino (En Vivo)",
+      "url": "https://open.spotify.com/track/0VCu0JDkHoFpuRTvZ9Bbr3"
     },
     {
       "added_at": "2026-01-21 00:21:17",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-01-21 00:21:17",
       "album": {
-        "name": "La Derrota",
-        "url": "https://open.spotify.com/album/28epQovRBOBAoGg6ZxZU1D"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 206899,
-      "name": "La Derrota",
-      "url": "https://open.spotify.com/track/2QSyrdeBBNnNdvHLd0qnYm"
-    },
-    {
-      "added_at": "2026-01-21 00:21:17",
-      "album": {
         "name": "Y SI TE VAS",
         "url": "https://open.spotify.com/album/5TgDIHQBUUuFbsdCMEOyrL"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 177376,
       "name": "Y SI TE VAS",
       "url": "https://open.spotify.com/track/20L8fUsTo0eK1cdzTyH7v9"
+    },
+    {
+      "added_at": "2026-01-21 00:21:17",
+      "album": {
+        "name": "La Derrota",
+        "url": "https://open.spotify.com/album/28epQovRBOBAoGg6ZxZU1D"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 206899,
+      "name": "La Derrota",
+      "url": "https://open.spotify.com/track/2QSyrdeBBNnNdvHLd0qnYm"
     },
     {
       "added_at": "2026-01-21 00:21:17",

@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,751 songs - 4 day 9 hr 53 min
+1,753 songs - 4 day 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -973,6 +973,7 @@
 | [Miss America](https://open.spotify.com/track/3VbDzAvT4Sw8HAEt6uCyv4) | [Norman Leonides](https://open.spotify.com/artist/3WbChO1LvpeVzeF2JQptHO) | [Miss America](https://open.spotify.com/album/1MqlMxpR6UcVu8qPh9kJFh) | 3:39 | 2025-07-26 |  |
 | [Miss Malibu](https://open.spotify.com/track/0v9wkZyUWru0rqPlgJRT4E) | [Vizi](https://open.spotify.com/artist/3V1gOrbofuLiTrwPzZLp8g) | [Life.](https://open.spotify.com/album/7AjLA1EmVnV6MiLibZPz1Z) | 3:14 | 2025-05-06 |  |
 | [Miss Take](https://open.spotify.com/track/4ooN58vt6HJdTH5QxPzQ5y) | [Horrorpops](https://open.spotify.com/artist/7MvgOAoxA9ZgOxtRBYxLWJ) | [Hell Yeah!](https://open.spotify.com/album/0VOcNE4u7ADFpWm5AG7gDC) | 3:58 | 2025-04-24 |  |
+| [Mister Music](https://open.spotify.com/track/0xQ0wZd59dUP6gszXb9kVy) | [Brimstonereceiver](https://open.spotify.com/artist/3E9CTSMuEYpVFK1775pdwh) | [Mister Music](https://open.spotify.com/album/0wNDdv3hN0a00tFxjqPtgX) | 4:30 | 2026-01-25 |  |
 | [Mji Mkongwe](https://open.spotify.com/track/1RWyIIGNOHd2o5vjvavFOc) | [DubRaJah](https://open.spotify.com/artist/4c5I4mGasi5eQMN0alj1Bu) | [Nilotic](https://open.spotify.com/album/0OneUMefZhkNGrEglUrcrh) | 3:08 | 2024-05-03 |  |
 | [Moc](https://open.spotify.com/track/1XKkaKuic2XJW0Gport289) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Muflon Man](https://open.spotify.com/artist/0VeWs0QhnTT7hKeo5D0DlV), [Karolina](https://open.spotify.com/artist/5UCcU04GZsZJY2g2qmisNp) | [Moc](https://open.spotify.com/album/0ujTermjf1TD2P0Ea9GoEE) | 5:15 | 2024-05-04 |  |
 | [Moc Dub](https://open.spotify.com/track/42JRwJRZKBDEH5mySMjxMW) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Karolina](https://open.spotify.com/artist/5UCcU04GZsZJY2g2qmisNp), [Muflon Man](https://open.spotify.com/artist/0VeWs0QhnTT7hKeo5D0DlV) | [Moc](https://open.spotify.com/album/0ujTermjf1TD2P0Ea9GoEE) | 4:16 | 2024-03-10 |  |
@@ -1583,6 +1584,7 @@
 | [True Horns](https://open.spotify.com/track/2Rtl8Hmnodorp7fapLniBl) | [Culture Horn](https://open.spotify.com/artist/2YIGsoR46Dn9gnVTnDTScd) | [Dublaboratory, Vol​.​ 1](https://open.spotify.com/album/1qJg2mlB24zMwNtTl39jXx) | 3:29 | 2024-03-25 |  |
 | [Trying](https://open.spotify.com/track/3AADaJc0V9aXGI7GI7oHfT) | [Ejunior EDM](https://open.spotify.com/artist/5ZXXytASfiohw5jSI47b7B), [Dimex OT](https://open.spotify.com/artist/4g5Xd4Umkm2uHmRSxMSqSY) | [Trying](https://open.spotify.com/album/24KWNQqsktZrSGxY6KzeKG) | 2:44 | 2025-09-21 |  |
 | [Tsunami Dub](https://open.spotify.com/track/3nZsRviwGz01cxVH4l9oSO) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [The Wing Chun Album](https://open.spotify.com/album/4Ev2WLIu3iZJp3rWGYVh5m) | 4:42 | 2024-03-25 |  |
+| [Tu Alma](https://open.spotify.com/track/5wrWG4D0EtdwY7LBy5J16X) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Tu Alma](https://open.spotify.com/album/05jP4DHgPJyvhnbmLcGo5q) | 2:50 | 2026-01-25 |  |
 | [Tu Mirada](https://open.spotify.com/track/6MLXi2xmDabq9sWi0xzqLs) | [Jane Riascos](https://open.spotify.com/artist/5JTl6HjmqGYBPMsTzkn7On) | [Las Que No Iban a Salir](https://open.spotify.com/album/3lUyQwmKVxwfHv5Iay4Wv6) | 3:36 | 2025-10-19 |  |
 | [Tu Silencio \- Remastered](https://open.spotify.com/track/19ROBN6XmatCMeqWpaAhJe) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Tu Silencio](https://open.spotify.com/album/1JmsZxCxmvPl4Kssr3kYr5) | 2:54 | 2025-12-07 |  |
 | [TU Y YO </3](https://open.spotify.com/track/3WAdNltwhgApGZ97cjRIoQ) | [ADRELL](https://open.spotify.com/artist/0J8QEZG5IIqwLnS3gABCMt) | [TU Y YO </3](https://open.spotify.com/album/3PtR0uDlMQFLCeB40Jshv8) | 3:11 | 2025-05-11 |  |

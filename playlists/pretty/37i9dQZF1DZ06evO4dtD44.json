@@ -1,12 +1,12 @@
 {
   "description": "This is Jo\u00e3o Gilberto. The essential tracks, all in one playlist.",
-  "num_followers": 62508,
+  "num_followers": 62515,
   "original_name": "This Is Jo\u00e3o Gilberto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXK6AAAAAAAfQKeAUJB8ZrJxkuKqWN28",
+  "snapshot_id": "aXQLgAAAAAAkp9O2N2fHv1SqqBEQEMPA",
   "tracks": [
     {
       "added_at": null,
@@ -151,8 +151,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Tokyo",
-        "url": "https://open.spotify.com/album/3h9Gwb6SajuppTujI3Rxlf"
+        "name": "Bossa Nova Caf\u00e9",
+        "url": "https://open.spotify.com/album/2umykbaUStNVXKLtbGclUz"
       },
       "artists": [
         {
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 361106,
-      "name": "Pra Que Discutir Com Madame?",
-      "url": "https://open.spotify.com/track/4qZ6Jm9bvQSxcacHe6qT0w"
+      "duration_ms": 72671,
+      "name": "Bim Bom",
+      "url": "https://open.spotify.com/track/2v9LGwYybWMNhO0xZXpo6M"
     },
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bossa Nova Caf\u00e9",
-        "url": "https://open.spotify.com/album/2umykbaUStNVXKLtbGclUz"
+        "name": "In Tokyo",
+        "url": "https://open.spotify.com/album/3h9Gwb6SajuppTujI3Rxlf"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 72671,
-      "name": "Bim Bom",
-      "url": "https://open.spotify.com/track/2v9LGwYybWMNhO0xZXpo6M"
+      "duration_ms": 361106,
+      "name": "Pra Que Discutir Com Madame?",
+      "url": "https://open.spotify.com/track/4qZ6Jm9bvQSxcacHe6qT0w"
     },
     {
       "added_at": null,
@@ -320,13 +320,17 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         },
         {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        },
+        {
           "name": "Ant\u00f4nio Carlos Jobim",
           "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 166400,
-      "name": "Doralice - Stereo Version",
-      "url": "https://open.spotify.com/track/2s9UFO4G23DGzo8kYBkZcT"
+      "duration_ms": 167533,
+      "name": "The Girl From Ipanema - Single Version",
+      "url": "https://open.spotify.com/track/4qGfJb2KByjvzrwo8HNibg"
     },
     {
       "added_at": null,
@@ -392,17 +396,13 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         },
         {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        },
-        {
           "name": "Ant\u00f4nio Carlos Jobim",
           "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 167533,
-      "name": "The Girl From Ipanema - Single Version",
-      "url": "https://open.spotify.com/track/4qGfJb2KByjvzrwo8HNibg"
+      "duration_ms": 166400,
+      "name": "Doralice - Stereo Version",
+      "url": "https://open.spotify.com/track/2s9UFO4G23DGzo8kYBkZcT"
     },
     {
       "added_at": null,

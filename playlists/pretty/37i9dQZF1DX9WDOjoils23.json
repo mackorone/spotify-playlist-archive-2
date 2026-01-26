@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 36234,
+  "num_followers": 36278,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-01-23 14:14:10",
       "album": {
+        "name": "Big Boss Of Sufi Nusrat Fateh Ali Khan",
+        "url": "https://open.spotify.com/album/3cYWUr0ckFlYZVLPnWkVoN"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "duration_ms": 919654,
+      "name": "Nit Khair Manga Sohneya",
+      "url": "https://open.spotify.com/track/3VQlzO0MEsIhO4XiDGPpbu"
+    },
+    {
+      "added_at": "2026-01-23 14:14:10",
+      "album": {
         "name": "Punjabi Mehfil",
         "url": "https://open.spotify.com/album/2G0aJaQ7NgRl1U0FAD3Usu"
       },
@@ -759,18 +775,18 @@
     {
       "added_at": "2026-01-23 14:14:10",
       "album": {
-        "name": "Big Boss Of Sufi Nusrat Fateh Ali Khan",
-        "url": "https://open.spotify.com/album/3cYWUr0ckFlYZVLPnWkVoN"
+        "name": "Liberation",
+        "url": "https://open.spotify.com/album/1ISsucOxZU3HPncDNOd4rz"
       },
       "artists": [
         {
-          "name": "Nusrat Fateh Ali Khan",
-          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
         }
       ],
-      "duration_ms": 919654,
-      "name": "Nit Khair Manga Sohneya",
-      "url": "https://open.spotify.com/track/3VQlzO0MEsIhO4XiDGPpbu"
+      "duration_ms": 222631,
+      "name": "19 ton 21",
+      "url": "https://open.spotify.com/track/4ehvrW0P9iy8CmdB1AsT9W"
     },
     {
       "added_at": "2026-01-23 14:14:10",
@@ -787,22 +803,6 @@
       "duration_ms": 919273,
       "name": "Terian Mithian Gallan Da",
       "url": "https://open.spotify.com/track/5Nckv5qoGtvamODagm81P8"
-    },
-    {
-      "added_at": "2026-01-23 14:14:10",
-      "album": {
-        "name": "Liberation",
-        "url": "https://open.spotify.com/album/1ISsucOxZU3HPncDNOd4rz"
-      },
-      "artists": [
-        {
-          "name": "Satinder Sartaaj",
-          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
-        }
-      ],
-      "duration_ms": 222631,
-      "name": "19 ton 21",
-      "url": "https://open.spotify.com/track/4ehvrW0P9iy8CmdB1AsT9W"
     },
     {
       "added_at": "2026-01-23 14:14:10",
@@ -855,6 +855,26 @@
     {
       "added_at": "2026-01-23 14:14:10",
       "album": {
+        "name": "Imtehan (From \"Shayar\")",
+        "url": "https://open.spotify.com/album/4MpMjGViVxxeHpqjVHP4bo"
+      },
+      "artists": [
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        },
+        {
+          "name": "Gag Studioz",
+          "url": "https://open.spotify.com/artist/1rXD7gKuyN5XcsIXE60UQ3"
+        }
+      ],
+      "duration_ms": 365992,
+      "name": "Imtehan (From \"Shayar\")",
+      "url": "https://open.spotify.com/track/3yAGKvxeSklXAkfvm9ArdJ"
+    },
+    {
+      "added_at": "2026-01-23 14:14:10",
+      "album": {
         "name": "Chhadd Balle Balle Nu (From \"Hoshiar Singh\")",
         "url": "https://open.spotify.com/album/5m9hCPOrY8zgLUOFlbGKza"
       },
@@ -871,22 +891,6 @@
       "duration_ms": 188595,
       "name": "Chhadd Balle Balle Nu (From \"Hoshiar Singh\")",
       "url": "https://open.spotify.com/track/4kxI1XJtu7ftTRsvM4kmEj"
-    },
-    {
-      "added_at": "2026-01-23 14:14:10",
-      "album": {
-        "name": "Sartaaj",
-        "url": "https://open.spotify.com/album/0VUrwBn8uYyR7tM8tLDOto"
-      },
-      "artists": [
-        {
-          "name": "Satinder Sartaaj",
-          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
-        }
-      ],
-      "duration_ms": 455000,
-      "name": "Meri Heeriye Fakiriye",
-      "url": "https://open.spotify.com/track/2hkr7JCiGMuZLG8gotQj5t"
     }
   ],
   "unique_name": "Punjabi Ghazals & Qawwalis",

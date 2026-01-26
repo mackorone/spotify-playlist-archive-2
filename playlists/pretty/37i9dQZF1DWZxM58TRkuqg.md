@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Maudy Ayunda
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,958 likes - 123 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,940 likes - 123 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

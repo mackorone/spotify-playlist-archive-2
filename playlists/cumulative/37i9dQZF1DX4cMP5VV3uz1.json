@@ -1281,6 +1281,24 @@
     },
     {
       "album": {
+        "name": "Blindspot / Impact Response",
+        "url": "https://open.spotify.com/album/6HaImXzg6TPyW18gbhF5KB"
+      },
+      "artists": [
+        {
+          "name": "Formula",
+          "url": "https://open.spotify.com/artist/6GkcKgyIKaZxmZGcKdJDxL"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200344,
+      "name": "Blindspot",
+      "url": "https://open.spotify.com/track/2oiGdzswferiaVunkD2C62"
+    },
+    {
+      "album": {
         "name": "Block & Delete (Edit)",
         "url": "https://open.spotify.com/album/0l8t431pUG4ZHMqn7aFn6S"
       },
@@ -5154,7 +5172,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 246165,
       "name": "I Want U",
       "url": "https://open.spotify.com/track/7jKhJz76Mn74qYRIupU8Gb"

@@ -1,12 +1,12 @@
 {
   "description": "This is Lang Lang. The essential tracks, all in one playlist.",
-  "num_followers": 29272,
+  "num_followers": 29277,
   "original_name": "This Is Lang Lang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXK6AAAAAADi2bBpSlzGUzm3PFYMC0I8",
+  "snapshot_id": "aXQLgAAAAAA6Q/zbcOtbA/jnVbBPObnv",
   "tracks": [
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bach: Goldberg Variations (Extended Edt.)",
-        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 321066,
-      "name": "Goldberg Variations, BWV 988: Aria",
-      "url": "https://open.spotify.com/track/4GFuyvrYOQYDS497hffJXT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liszt - My Piano Hero",
         "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 185493,
       "name": "Romance \"O pourquoi donc\" in E Minor, S. 169",
       "url": "https://open.spotify.com/track/4wKGetA5crT9tZhjqTLTka"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bach: Goldberg Variations (Extended Edt.)",
+        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 321066,
+      "name": "Goldberg Variations, BWV 988: Aria",
+      "url": "https://open.spotify.com/track/4GFuyvrYOQYDS497hffJXT"
     },
     {
       "added_at": null,
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Book 2",
-        "url": "https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx"
-      },
-      "artists": [
-        {
-          "name": "Justin Hurwitz",
-          "url": "https://open.spotify.com/artist/4fF2rf04AM1Rrj6WtIOva9"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 195733,
-      "name": "Mia & Sebastian's Theme (From \"La La Land\") [Arr. Kerber for Solo Piano]",
-      "url": "https://open.spotify.com/track/639ClXUegVz2aAPb8Mf35Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kung Fu Panda 3 (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/35vf79jnOBG3WZHQTzIl6a"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 120720,
       "name": "Oogway's Legacy",
       "url": "https://open.spotify.com/track/669yRYY5pluCp5dYOcDMDD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Book 2",
+        "url": "https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx"
+      },
+      "artists": [
+        {
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/4fF2rf04AM1Rrj6WtIOva9"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 195733,
+      "name": "Mia & Sebastian's Theme (From \"La La Land\") [Arr. Kerber for Solo Piano]",
+      "url": "https://open.spotify.com/track/639ClXUegVz2aAPb8Mf35Y"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saint-Sa\u00ebns",
-        "url": "https://open.spotify.com/album/3923ndf9zKgvppYaawmuIO"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 372653,
-      "name": "Pavane, Op. 50 (Version for Piano)",
-      "url": "https://open.spotify.com/track/349KIIngrzk0ObXRz3pqlG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clementi: Sonatina No. 1 in C Major, Op. 36",
         "url": "https://open.spotify.com/album/5kgoUIpuqAhaLQvQYjvySr"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 89280,
       "name": "Piano Sonatina in C Major, Op. 36 No. 1: II. Andante",
       "url": "https://open.spotify.com/track/22h3ELV6U6g0gRcLTB6VY3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saint-Sa\u00ebns",
+        "url": "https://open.spotify.com/album/3923ndf9zKgvppYaawmuIO"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 372653,
+      "name": "Pavane, Op. 50 (Version for Piano)",
+      "url": "https://open.spotify.com/track/349KIIngrzk0ObXRz3pqlG"
     },
     {
       "added_at": null,
@@ -726,11 +726,19 @@
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
         }
       ],
-      "duration_ms": 160356,
-      "name": "The Bare Necessities - From \"The Jungle Book\"",
-      "url": "https://open.spotify.com/track/6aDmy1Tf35ee4rr6VTRbV1"
+      "duration_ms": 249342,
+      "name": "Beauty and the Beast - From \"Beauty and the Beast\"",
+      "url": "https://open.spotify.com/track/4D8lQriIxEzw7JKboShO2X"
     },
     {
       "added_at": null,
@@ -748,9 +756,9 @@
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 35826,
-      "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 3",
-      "url": "https://open.spotify.com/track/01krwPhJ04YilFViTRPU1O"
+      "duration_ms": 33453,
+      "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 7",
+      "url": "https://open.spotify.com/track/0y646OrSYbBZ202ScoCbAL"
     },
     {
       "added_at": null,
@@ -802,19 +810,11 @@
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        },
-        {
-          "name": "Robert Ziegler",
-          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
         }
       ],
-      "duration_ms": 249342,
-      "name": "Beauty and the Beast - From \"Beauty and the Beast\"",
-      "url": "https://open.spotify.com/track/4D8lQriIxEzw7JKboShO2X"
+      "duration_ms": 160356,
+      "name": "The Bare Necessities - From \"The Jungle Book\"",
+      "url": "https://open.spotify.com/track/6aDmy1Tf35ee4rr6VTRbV1"
     },
     {
       "added_at": null,
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 31493,
-      "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 1",
-      "url": "https://open.spotify.com/track/3ESuJaKignCDNOFqtELl5p"
+      "duration_ms": 35826,
+      "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 3",
+      "url": "https://open.spotify.com/track/01krwPhJ04YilFViTRPU1O"
     },
     {
       "added_at": null,
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 33453,
-      "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 7",
-      "url": "https://open.spotify.com/track/0y646OrSYbBZ202ScoCbAL"
+      "duration_ms": 31493,
+      "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 1",
+      "url": "https://open.spotify.com/track/3ESuJaKignCDNOFqtELl5p"
     },
     {
       "added_at": null,
@@ -959,6 +959,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rainbow Connection (From \"The Muppet Movie\")",
+        "url": "https://open.spotify.com/album/3LU9IHeZtf8OknOkm0tkXv"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 250828,
+      "name": "Rainbow Connection - From \"The Muppet Movie\"",
+      "url": "https://open.spotify.com/track/2zDcsFEQTjCTxl4Efod6Ml"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Book (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
+      },
+      "artists": [
+        {
+          "name": "Elena Kats-Chernin",
+          "url": "https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "Wild Swans Suite: II. Eliza Aria (Version for Piano)",
+      "url": "https://open.spotify.com/track/1eaETfQqYI5YBDq5zj7O5Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Mozart Album",
         "url": "https://open.spotify.com/album/0frnbBKctMDOscUIz5dAt4"
       },
@@ -987,58 +1023,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Book (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
+        "name": "Piano Book 2",
+        "url": "https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx"
       },
       "artists": [
         {
-          "name": "Elena Kats-Chernin",
-          "url": "https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk"
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
         },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 190626,
-      "name": "Wild Swans Suite: II. Eliza Aria (Version for Piano)",
-      "url": "https://open.spotify.com/track/1eaETfQqYI5YBDq5zj7O5Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rainbow Connection (From \"The Muppet Movie\")",
-        "url": "https://open.spotify.com/album/3LU9IHeZtf8OknOkm0tkXv"
-      },
-      "artists": [
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 250828,
-      "name": "Rainbow Connection - From \"The Muppet Movie\"",
-      "url": "https://open.spotify.com/track/2zDcsFEQTjCTxl4Efod6Ml"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Musashi Project: Sadness and Sorrow (From \"Naruto\") [Arr. Telleria for Solo Piano]",
-        "url": "https://open.spotify.com/album/3TmBPM55IvngAgpcbVwqtF"
-      },
-      "artists": [
-        {
-          "name": "Musashi Project",
-          "url": "https://open.spotify.com/artist/2bL7ZcBPDwacizfKd5YEsy"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 169040,
-      "name": "Sadness and Sorrow (From \"Naruto\") [Arr. Telleria for Solo Piano]",
-      "url": "https://open.spotify.com/track/4E1vizWEoCH1IPFuWJAJ4h"
+      "duration_ms": 175786,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/7DVpQtGT0ut0NZYeanywwl"
     }
   ],
   "unique_name": "This Is Lang Lang",

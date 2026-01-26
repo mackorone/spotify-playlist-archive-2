@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of gentle instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,657,199 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,657,348 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 99 | [That's All](https://open.spotify.com/track/79MOPpvNSagTPcwnx4Ct2b) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Pick Yourself Up](https://open.spotify.com/album/5kdCmgqTuAvaIcjh46usah) | 4:53 |
 | 100 | [Old Folks](https://open.spotify.com/track/41bXzDVMnCCqmeILLvcEby) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA), [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6) | [Old Folks](https://open.spotify.com/album/6YT9ySUntyPD7E8abxlRH6) | 4:51 |
 
-Snapshot ID: `AAAAAN6uBCYq0dmSih9Ur/zr0X6v8H9Z`
+Snapshot ID: `AAAAAHrjx8LQOMIJ/GyU+RpgeuO9qP1/`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > L’alternatif québécois à plein volume\. Photo: blesse
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,586 likes - 74 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,614 likes - 74 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

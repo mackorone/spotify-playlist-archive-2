@@ -4,7 +4,7 @@
 
 > This is Outkast\. The essential tracks, all in one playlist.
 
-53 songs - 3 hr 48 min
+54 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Ms\. Jackson](https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:30 | 2025-11-11 |  |
 | [Player's Ball](https://open.spotify.com/track/1RXEb6UTxJ05RffnAWfUOE) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 4:21 | 2025-11-11 |  |
 | [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 | 2025-11-11 |  |
-| [Return of the "G"](https://open.spotify.com/track/1wYp8ISMvX8qrflPrBU9Yo) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 4:49 | 2025-11-11 |  |
+| [Return of the "G"](https://open.spotify.com/track/1wYp8ISMvX8qrflPrBU9Yo) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 4:49 | 2025-11-11 | 2026-01-26 |
 | [Rosa Parks](https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 5:24 | 2025-11-11 |  |
 | [Roses](https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 6:09 | 2025-11-11 |  |
 | [She Lives in My Lap \(feat\. Rosario Dawson\)](https://open.spotify.com/track/6vV1NDCjh2afFgQ9Vb7i86) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Rosario Dawson](https://open.spotify.com/artist/5gGhRZgP9BJL9fsFdvTzeX) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 4:27 | 2025-11-11 |  |
@@ -60,6 +60,7 @@
 | [Two Dope Boyz \(In a Cadillac\)](https://open.spotify.com/track/2q8lHMMso6wx6pb5uwqzOs) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 2:42 | 2025-11-11 |  |
 | [Walk It Out](https://open.spotify.com/track/1Zk1RUC3Lazme2erBiixIS) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Unk](https://open.spotify.com/artist/0PGtMx1bsqoCHCy3MB3gXA) | [Street Swag, Vol\. 2](https://open.spotify.com/album/2A89rexB6sUic5498mls4J) | 3:20 | 2025-11-11 |  |
 | [Walk It Out \- Remix](https://open.spotify.com/track/2FC0wf2DyEq16TouxXJCxJ) | [Unk](https://open.spotify.com/artist/0PGtMx1bsqoCHCy3MB3gXA), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Beat'n Down Yo Block \(Deluxe Edition\)](https://open.spotify.com/album/5C7NyeW6pFBCwyBvu9nu05) | 4:54 | 2025-11-11 |  |
+| [West Savannah](https://open.spotify.com/track/5yTQ7Vy6EwKwB64Vho90LI) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 4:06 | 2026-01-26 |  |
 | [Wheelz of Steel](https://open.spotify.com/track/5qKqRkWnRTXNVWbEOOmGxk) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 4:03 | 2025-11-11 |  |
 
 \*This playlist was first scraped on 2025-11-11. Prior content cannot be recovered.

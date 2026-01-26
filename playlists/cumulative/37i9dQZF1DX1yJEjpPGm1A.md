@@ -4,7 +4,7 @@
 
 > 하나 뿐인 내 사랑을 정하는 날\. 따뜻하고 낭만적인 국내 가요와 마음 가득 행복함을 느껴보세요\. \(The day I decide on my one and only love\. Feel the happiness in your heart with warm and romantic domestic songs.\)
 
-92 songs - 6 hr 4 min
+93 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [HONEYMOON](https://open.spotify.com/track/5iGdQsgIGDSlxJKlsCv62L) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [HONEYMOON](https://open.spotify.com/album/3Ms7sWhlT637M6uDqxLbTF) | 3:32 | 2024-12-19 |  |
 | [I Knew I Love](https://open.spotify.com/track/6heT4iobgbs6RSYnen31L6) | [JEON MI DO](https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 11](https://open.spotify.com/album/7BZMREZrMu97xEWX45kMPf) | 4:21 | 2024-12-19 |  |
 | [I meet you who are infinitely beautiful](https://open.spotify.com/track/2XiDJ5LIke4IeosYWZk8rZ) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [I meet you who are infinitely beautiful](https://open.spotify.com/album/4tO82fvns6ThsiQvZ1AKNO) | 4:07 | 2025-09-30 |  |
+| [I'll Remember](https://open.spotify.com/track/7oArq8xkRKeRDOnOv45PmS) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [I'll Remember \(Positively Yours X Onestar\) \[Original Soundtrack\]](https://open.spotify.com/album/1gqguyrI9YN91IIGknC38q) | 3:48 | 2026-01-26 |  |
 | [I'm In Love](https://open.spotify.com/track/5xv9DhjYckZoZwXifGrkQw) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [I'm In Love](https://open.spotify.com/album/4BP1h4PNLuOIVaYF2azTgF) | 3:17 | 2024-12-19 | 2025-05-21 |
 | [Je T'aime](https://open.spotify.com/track/18m3QugKZFaKjoMbe8CyjL) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Hello \- Special Album](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) | 4:21 | 2024-12-19 | 2025-06-24 |
 | [Just the way we love](https://open.spotify.com/track/04dATUKqjH6pmWpgZaB2Ec) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92), [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Reply 1997 \- Love Story \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/0puPQBUgmK9l1mWQYWKsdz) | 4:18 | 2025-04-22 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Carolina Ross \ud83d\udcf8",
-  "num_followers": 366673,
+  "num_followers": 366682,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -523,18 +523,18 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "Eterno",
-        "url": "https://open.spotify.com/album/2yuJ3dc5YyHvdifiZFjJJe"
+        "name": "La Nostalgia",
+        "url": "https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 180624,
-      "name": "Enamorado Y Feliz",
-      "url": "https://open.spotify.com/track/3XJfknzRtzAez7JtmtCVNw"
+      "duration_ms": 149569,
+      "name": "\u2060Cuatro Caminos",
+      "url": "https://open.spotify.com/track/1yVjUAt8Jn2ZCwXpWJ8Ohp"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -559,18 +559,18 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "La Nostalgia",
-        "url": "https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr"
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/2yuJ3dc5YyHvdifiZFjJJe"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 149569,
-      "name": "\u2060Cuatro Caminos",
-      "url": "https://open.spotify.com/track/1yVjUAt8Jn2ZCwXpWJ8Ohp"
+      "duration_ms": 180624,
+      "name": "Enamorado Y Feliz",
+      "url": "https://open.spotify.com/track/3XJfknzRtzAez7JtmtCVNw"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
+        "name": "Cuando Yo Quiera Has De Volver",
+        "url": "https://open.spotify.com/album/3mcq4piDeCm7V7ehaXf5nw"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 212126,
+      "name": "Cuando Yo Quiera Has De Volver",
+      "url": "https://open.spotify.com/track/5wOLNXLmwy3Ki5mAMXH4hu"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
         "name": "Se Me Hizo Tarde",
         "url": "https://open.spotify.com/album/4TNC1cYv2cql3D8SCubOcl"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 223250,
       "name": "Se Me Hizo Tarde",
       "url": "https://open.spotify.com/track/0fEFBzcDGKh8YoYuS67TzG"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
-        "name": "Cuando Yo Quiera Has De Volver",
-        "url": "https://open.spotify.com/album/3mcq4piDeCm7V7ehaXf5nw"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 212126,
-      "name": "Cuando Yo Quiera Has De Volver",
-      "url": "https://open.spotify.com/track/5wOLNXLmwy3Ki5mAMXH4hu"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "As\u00ed Son Las Cosas",
-        "url": "https://open.spotify.com/album/3lKiOwzv44vFdJgkKLKRCv"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 171529,
-      "name": "As\u00ed Son Las Cosas",
-      "url": "https://open.spotify.com/track/7K0saaGY6hqR1nSnktfDwm"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
         "name": "Me Gustas Mucho",
         "url": "https://open.spotify.com/album/24Ge3AMJsD5cp00yuCjdI5"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 177060,
       "name": "Me Gustas Mucho",
       "url": "https://open.spotify.com/track/4tZFURLYKJum3XY0WwbwEW"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
+        "name": "As\u00ed Son Las Cosas",
+        "url": "https://open.spotify.com/album/3lKiOwzv44vFdJgkKLKRCv"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 171529,
+      "name": "As\u00ed Son Las Cosas",
+      "url": "https://open.spotify.com/track/7K0saaGY6hqR1nSnktfDwm"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "Ebrio de Amor",
-        "url": "https://open.spotify.com/album/0wceLScJ01XKGDkHFctkuc"
-      },
-      "artists": [
-        {
-          "name": "Emiliano Zahena",
-          "url": "https://open.spotify.com/artist/1ENJx96DOgvkeWTzhR0gf6"
-        }
-      ],
-      "duration_ms": 173291,
-      "name": "Le Hace Falta un Beso",
-      "url": "https://open.spotify.com/track/28zdZevsnKflm8GL4z1uwB"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
         "name": "Costumbres",
         "url": "https://open.spotify.com/album/3bIJ5PRH3frAvwjgRKVCTT"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 259144,
       "name": "Costumbres",
       "url": "https://open.spotify.com/track/625ReH2UV67Qc466BptoAI"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
+        "name": "Ebrio de Amor",
+        "url": "https://open.spotify.com/album/0wceLScJ01XKGDkHFctkuc"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Zahena",
+          "url": "https://open.spotify.com/artist/1ENJx96DOgvkeWTzhR0gf6"
+        }
+      ],
+      "duration_ms": 173291,
+      "name": "Le Hace Falta un Beso",
+      "url": "https://open.spotify.com/track/28zdZevsnKflm8GL4z1uwB"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "Despecho Puro (En Vivo)",
-        "url": "https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW"
-      },
-      "artists": [
-        {
-          "name": "Dayanara",
-          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
-        }
-      ],
-      "duration_ms": 173173,
-      "name": "\u00bfPOR QU\u00c9 ME HACES LLORAR? - En Vivo",
-      "url": "https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
         "name": "Le Voy a Pedir a Dios",
         "url": "https://open.spotify.com/album/3OqCZhGf702YCmmPtjjGic"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 174329,
       "name": "Le Voy a Pedir a Dios",
       "url": "https://open.spotify.com/track/410VSzuFrKfWUTwgO6c6Qi"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
+        "name": "Despecho Puro (En Vivo)",
+        "url": "https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW"
+      },
+      "artists": [
+        {
+          "name": "Dayanara",
+          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
+        }
+      ],
+      "duration_ms": 173173,
+      "name": "\u00bfPOR QU\u00c9 ME HACES LLORAR? - En Vivo",
+      "url": "https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "Se\u00f1or Dios",
-        "url": "https://open.spotify.com/album/4QwsLyZcwyK1OOJg6MVOMe"
-      },
-      "artists": [
-        {
-          "name": "Roberto Tapia",
-          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
-        }
-      ],
-      "duration_ms": 189162,
-      "name": "Se\u00f1or Dios",
-      "url": "https://open.spotify.com/track/5jUZFbRbGaTwoOXjUQP0na"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
         "name": "Me Nace Del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0p1YpGbcw2bKllgY6Fc8Dr"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 164117,
       "name": "Me Nace Del Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3oGiGhavASAxgYT4RjISIa"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
+        "name": "Se\u00f1or Dios",
+        "url": "https://open.spotify.com/album/4QwsLyZcwyK1OOJg6MVOMe"
+      },
+      "artists": [
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        }
+      ],
+      "duration_ms": 189162,
+      "name": "Se\u00f1or Dios",
+      "url": "https://open.spotify.com/track/5jUZFbRbGaTwoOXjUQP0na"
     },
     {
       "added_at": "2026-01-16 06:00:26",

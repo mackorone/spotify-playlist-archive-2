@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 782,610 likes - 80 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 782,704 likes - 80 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 77 | [Paid In Full \- Seven Minutes Of Madness \- The Coldcut Remix](https://open.spotify.com/track/7vaGequwI1SWTKGJes1ey7) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [12" 80s Classics](https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb) | 7:08 |
 | 78 | [Uncertain Smile \- 12" Remix](https://open.spotify.com/track/4XpHQQLQRrkpx92NqejUxV) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [45 RPM \- The Singles Of The The](https://open.spotify.com/album/5OCyAuTGiuGmrxL58zWpfa) | 9:59 |
 | 79 | [Ain't Nothin' Goin' On But The Rent \- 12" Club Mix](https://open.spotify.com/track/1i0az2pG8teXklaM7jYy1j) | [Gwen Guthrie](https://open.spotify.com/artist/77HthcNFa6SbicRaQKdhyy) | [Music For Groovin'](https://open.spotify.com/album/2kGXFgIy6EBmYZRrQjTtON) | 3:26 |
-| 80 | [Nothing's Gonna Stop Me Now \- Extended Version](https://open.spotify.com/track/39JJXTZlj0CuzSA6DxRLKB) | [Samantha Fox](https://open.spotify.com/artist/0ym94xKp2PIOJtTZKpxbAa) | [Samantha Fox \(Deluxe Edition\)](https://open.spotify.com/album/12CMr3rPSq2al1lF4uK3Ev) | 7:02 |
+| 80 | [Keep On Movin' \(New York Mix\) \[feat\. Caron Wheeler\]](https://open.spotify.com/track/6mgHYrQ7c6pMYmdNVR3FQq) | [Soul II Soul featuring Caron Wheeler](https://open.spotify.com/artist/3ryTd3phphtFSZ7gBE7SiB), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [80s 12'' Party](https://open.spotify.com/album/3lYh9EYOXTV2JxmpQ0nhV2) | 6:57 |
 
 Snapshot ID: `AAAAAIvvS8TAilSIop9INTfm+jsicxrb`

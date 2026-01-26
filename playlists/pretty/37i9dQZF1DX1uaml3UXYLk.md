@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 
 > Electronic music with caffeine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,478 likes - 222 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,587 likes - 222 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -231,4 +231,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 | 221 | [Only U](https://open.spotify.com/track/1QsHWsHzWiqMFKwNojRZx9) | [LeDorean](https://open.spotify.com/artist/33m7VtP8WxR5FhUKIMOB46) | [Only U](https://open.spotify.com/album/4RyKiSWAAV4uUaLFH0YDsX) | 3:05 |
 | 222 | [Case Two](https://open.spotify.com/track/0g9FXyhUrPYpfVX8jlm96z) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Case Two](https://open.spotify.com/album/14wvWuirJ76q6z3Wwx8Zr5) | 3:36 |
 
-Snapshot ID: `AAAAAPW6wW8arEJMAv+pBILw1jwvY1/+`
+Snapshot ID: `AAAAAF26y6DeC8qA7MO0RzVlHT8F8S7e`

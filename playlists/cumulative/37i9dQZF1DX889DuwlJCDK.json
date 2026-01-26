@@ -16567,6 +16567,24 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30d4\u30ab",
+        "url": "https://open.spotify.com/album/0Q3KAcVAVo2HyanbDhhLBk"
+      },
+      "artists": [
+        {
+          "name": "\u5e30\u308a\u306e\u4f1a",
+          "url": "https://open.spotify.com/artist/5YXzV93qLK8xNqNy5OKVkJ"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213456,
+      "name": "\u30b9\u30d4\u30ab",
+      "url": "https://open.spotify.com/track/0txI0uDofmnAXqbZraQRYn"
+    },
+    {
+      "album": {
         "name": "\u30b9\u30d4\u30fc\u30c9 - Speed",
         "url": "https://open.spotify.com/album/1b468g18LpNbntgka81SCM"
       },
@@ -24294,7 +24312,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-26",
       "duration_ms": 200626,
       "name": "\u671d\u51ea",
       "url": "https://open.spotify.com/track/6CUbPRA9vVWqBc7ncQ8sfY"
