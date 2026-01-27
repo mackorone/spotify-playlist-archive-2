@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover:Shintaro Sakamoto \(Japan\)
 
-2,375 songs - 6 day 0 hr 8 min
+2,376 songs - 6 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1308,6 +1308,7 @@
 | [Nice Guy's Song](https://open.spotify.com/track/2LkA9LSYzXMEc1U25u9nUj) | [YEP MAY YEP](https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga) | [Nice Guy's Song](https://open.spotify.com/album/5uxQVxdWdxhNa4AFbfUUqB) | 2:59 | 2023-02-09 | 2023-03-18 |
 | [Night Crawlin'](https://open.spotify.com/track/0IyOcFSic2MLImq9y4n0MO) | [downy](https://open.spotify.com/artist/4Y3ctZWgKkurt1T1D7RYyv) | [第八作品集『無題』](https://open.spotify.com/album/56oudFcHR5axk94kl0A011) | 5:49 | 2025-03-06 | 2025-03-14 |
 | [Night Diver](https://open.spotify.com/track/6vE45sAtqcXVHIUksYxBy9) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [Night Diver](https://open.spotify.com/album/3xQGDeaA2scHgcaHJ0GWAA) | 3:48 | 2022-03-24 | 2022-04-08 |
+| [Night Drive](https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Night Drive](https://open.spotify.com/album/2ewjJwbolSuFdspnL2xhRw) | 3:26 | 2026-01-26 |  |
 | [Night Fear](https://open.spotify.com/track/1NQ9FY7DHgzwiykuI6Z5If) | [Vietra](https://open.spotify.com/artist/7zH3OdQnl7ujWSiMtQ46hG) | [Pseudofloral](https://open.spotify.com/album/0Intsh0H4ILUNaByRSzCns) | 3:24 | 2022-05-12 | 2022-06-10 |
 | [Night On Earth](https://open.spotify.com/track/1zHzIoKAvXhel5VmzukPLf) | [GYMV](https://open.spotify.com/artist/5xOJz1R1Gcm16mg0V8iukc) | [Night On Earth](https://open.spotify.com/album/3XMF5ii77sTYjhqMTKSrbc) | 3:14 | 2025-05-15 | 2025-09-26 |
 | [Night Swimming](https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78) | [sunwashere](https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx) | [Night Swimming](https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5) | 4:09 | 2022-07-07 | 2022-07-29 |
@@ -2193,7 +2194,7 @@
 | [⁠“THE\_MORE,the\_less” \(Enola ver.\)](https://open.spotify.com/track/79C6clV5dEqCgDVjVxuPxV) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t), [Enola](https://open.spotify.com/artist/0RQlp5k4SaE2zbx7mGlU7r) | [so:LOUD+MORE,less](https://open.spotify.com/album/1EvTyK5ZbKakkCdCPdXKnE) | 12:04 | 2025-02-20 | 2025-03-07 |
 | [いけない](https://open.spotify.com/track/4r90XRT74vCHams9LxZBaW) | [Kaede](https://open.spotify.com/artist/0KZ83Y1bF24W54rmvP2qxr) | [いけない](https://open.spotify.com/album/6ijZiPgas24NAko4hHKdPW) | 4:03 | 2024-09-19 | 2024-10-04 |
 | [いちごミルク](https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [いちごミルク](https://open.spotify.com/album/6FLvaoPDHbhvl3bYfLpLa5) | 2:37 | 2023-04-13 | 2023-07-28 |
-| [いとおしい日々](https://open.spotify.com/track/0QeD68D7Up78qybkCsGFBI) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [D o n’ t ‌ ‌ ‌L a u g h ‌ ‌ ‌I t ‌ ‌ ‌O f f](https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P) | 2:32 | 2025-10-09 |  |
+| [いとおしい日々](https://open.spotify.com/track/0QeD68D7Up78qybkCsGFBI) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [D o n’ t ‌ ‌ ‌L a u g h ‌ ‌ ‌I t ‌ ‌ ‌O f f](https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P) | 2:32 | 2025-10-09 | 2026-01-27 |
 | [きかいにおまかせ](https://open.spotify.com/track/60nxFrHUdwZQNOKG4CbiyG) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [きかいにおまかせ](https://open.spotify.com/album/1gR91YmF2tqpExx7B2bAeK) | 2:58 | 2023-07-14 | 2023-07-28 |
 | [こんにちは](https://open.spotify.com/track/46ffXVe06tGBKlfwWRig2z) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [Impossible Isle](https://open.spotify.com/album/02USyfjHAF5ISwxoM1uCgZ) | 2:52 | 2022-08-11 | 2022-09-23 |
 | [たぶん悪魔が](https://open.spotify.com/track/5b0g5HwI78H21tN7sTq5zS) | [ゆうらん船](https://open.spotify.com/artist/4SDLL3cZT6a7CKfcOreWZm) | [MY CHEMICAL ROMANCE](https://open.spotify.com/album/2Rsi3rsTQuOZTJECcFh2zn) | 3:57 | 2025-07-03 | 2025-07-25 |

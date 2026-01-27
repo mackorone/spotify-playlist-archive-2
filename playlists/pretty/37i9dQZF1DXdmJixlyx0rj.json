@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: The Deep)",
-  "num_followers": 34662,
+  "num_followers": 34712,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "Pondeggi",
-        "url": "https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "E Wata",
-          "url": "https://open.spotify.com/artist/2me33xonIRaOkg980kntBy"
-        }
-      ],
-      "duration_ms": 279400,
-      "name": "Pondeggi",
-      "url": "https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj"
-    },
-    {
-      "added_at": "2026-01-23 02:07:01",
-      "album": {
         "name": "iScreaM Vol.12 : Bad Boy Remixes",
         "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 214400,
       "name": "Bad Boy - Slom Remix",
       "url": "https://open.spotify.com/track/2MgGwRwnTJnQ8qEljY1T0D"
+    },
+    {
+      "added_at": "2026-01-23 02:07:01",
+      "album": {
+        "name": "Pondeggi",
+        "url": "https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "E Wata",
+          "url": "https://open.spotify.com/artist/2me33xonIRaOkg980kntBy"
+        }
+      ],
+      "duration_ms": 279400,
+      "name": "Pondeggi",
+      "url": "https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj"
     },
     {
       "added_at": "2026-01-23 02:07:01",
@@ -1927,22 +1927,22 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "iScreaM Vol.6 : Make A Wish / 90's Love Remix",
-        "url": "https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd"
+        "name": "iScreaM Vol.25 : Red Flavor Remix",
+        "url": "https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn"
       },
       "artists": [
         {
-          "name": "NCT U",
-          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         },
         {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+          "name": "MAR VISTA",
+          "url": "https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo"
         }
       ],
-      "duration_ms": 194146,
-      "name": "Make A Wish (Birthday Song) - Wuki Remix",
-      "url": "https://open.spotify.com/track/1Dou4w33Ne9kkjBvk0CbLW"
+      "duration_ms": 216386,
+      "name": "Red Flavor - Mar Vista Remix",
+      "url": "https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX"
     }
   ],
   "unique_name": "Electronii[K]",

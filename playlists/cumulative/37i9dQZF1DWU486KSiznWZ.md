@@ -2,7 +2,7 @@
 
 ### [Hits خليجي](https://open.spotify.com/playlist/37i9dQZF1DWU486KSiznWZ)
 
-> أفضل الأغاني الخليجية\. الغلاف: عايض
+> نخبة الأغاني الخليجية\. الغلاف: عايض
 
 228 songs - 16 hr 24 min
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 24794,
+  "num_followers": 24795,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXQLgAAAAABM9zMezShYH+bMPWPkjee8",
+  "snapshot_id": "aXVdAAAAAAB9LTrYB3oK/g0qQylnBwEk",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truth - The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 176425,
-      "name": "Papillon - Solo Piano Version",
-      "url": "https://open.spotify.com/track/0R4HTYUjrBvDwxilINNwYZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Secret Piano",
         "url": "https://open.spotify.com/album/7axzWd20YVmQ4BVmOA6TpA"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 115227,
       "name": "Last Song",
       "url": "https://open.spotify.com/track/5YfZknxIgQayJKaMn5Z11G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Truth - The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 176425,
+      "name": "Papillon - Solo Piano Version",
+      "url": "https://open.spotify.com/track/0R4HTYUjrBvDwxilINNwYZ"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Karma",
-        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 191445,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/5nzGqdxOAopeh7KLI9Sy6m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 181758,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/7qUR44mhbatVB3p4OPw3Qd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Karma",
+        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 191445,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5nzGqdxOAopeh7KLI9Sy6m"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 181952,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/0aHTww4G1siCKZu7ewNpsd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 133647,
       "name": "The Promise",
       "url": "https://open.spotify.com/track/0SaUNOXFFmziEOyn0Gyi9E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 181952,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/0aHTww4G1siCKZu7ewNpsd"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 190308,
-      "name": "Shine - Solo Piano Version",
-      "url": "https://open.spotify.com/track/0RSGM4UB0H4OfS7DqC06qi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stolen Lullabies",
         "url": "https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 134040,
       "name": "The Journey",
       "url": "https://open.spotify.com/track/0GErrpZaCNudZ4tzImWndx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 190308,
+      "name": "Shine - Solo Piano Version",
+      "url": "https://open.spotify.com/track/0RSGM4UB0H4OfS7DqC06qi"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 275087,
+  "num_followers": 275147,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,22 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
-        "name": "When You Come Back - Speed Garage",
-        "url": "https://open.spotify.com/album/0JjWi5fTj8GdEQppjmIGEc"
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0LaIuYL7mFn8DoECEnacBM"
       },
       "artists": [
         {
-          "name": "Strn.",
-          "url": "https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH"
+          "name": "ManLikeTwin",
+          "url": "https://open.spotify.com/artist/1fb2GnIxzoYYSCKsm6DCqV"
         },
         {
-          "name": "ALEXYS",
-          "url": "https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT"
+          "name": "Samira",
+          "url": "https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT"
         }
       ],
-      "duration_ms": 184402,
-      "name": "When You Come Back - Speed Garage",
-      "url": "https://open.spotify.com/track/4auBmpVOuYs2gqOnS4bZhF"
+      "duration_ms": 154098,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/2Bul2Aw2gRNEUpJN3ofQYl"
     },
     {
       "added_at": "2026-01-16 00:00:17",
@@ -371,6 +371,26 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
+        "name": "When You Come Back - Speed Garage",
+        "url": "https://open.spotify.com/album/0JjWi5fTj8GdEQppjmIGEc"
+      },
+      "artists": [
+        {
+          "name": "Strn.",
+          "url": "https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH"
+        },
+        {
+          "name": "ALEXYS",
+          "url": "https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT"
+        }
+      ],
+      "duration_ms": 184402,
+      "name": "When You Come Back - Speed Garage",
+      "url": "https://open.spotify.com/track/4auBmpVOuYs2gqOnS4bZhF"
+    },
+    {
+      "added_at": "2026-01-16 00:00:17",
+      "album": {
         "name": "Fallin",
         "url": "https://open.spotify.com/album/4CWuwshxlc0fplo8JjyMSm"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 182276,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/7efJW4yGZrj2j3Vhfr3Ylw"
-    },
-    {
-      "added_at": "2026-01-16 00:00:17",
-      "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/0LaIuYL7mFn8DoECEnacBM"
-      },
-      "artists": [
-        {
-          "name": "ManLikeTwin",
-          "url": "https://open.spotify.com/artist/1fb2GnIxzoYYSCKsm6DCqV"
-        },
-        {
-          "name": "Samira",
-          "url": "https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT"
-        }
-      ],
-      "duration_ms": 154098,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/2Bul2Aw2gRNEUpJN3ofQYl"
     },
     {
       "added_at": "2026-01-16 00:00:17",
@@ -491,26 +491,6 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
-        "name": "Moment (feat. Charlotte Plank)",
-        "url": "https://open.spotify.com/album/4oRA0Sfdp22VFn86dEBqFV"
-      },
-      "artists": [
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 123242,
-      "name": "Moment (feat. Charlotte Plank)",
-      "url": "https://open.spotify.com/track/7BDPFIpiwHggWmuGLyaRzf"
-    },
-    {
-      "added_at": "2026-01-16 00:00:17",
-      "album": {
         "name": "I Would Like (J Fado Remix)",
         "url": "https://open.spotify.com/album/7gb3aTSQyXWTRYJRBfuJKu"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 138600,
       "name": "I Would Like - J Fado Remix",
       "url": "https://open.spotify.com/track/36re6sfRZDkHynDCqE4pJN"
+    },
+    {
+      "added_at": "2026-01-16 00:00:17",
+      "album": {
+        "name": "Moment (feat. Charlotte Plank)",
+        "url": "https://open.spotify.com/album/4oRA0Sfdp22VFn86dEBqFV"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 123242,
+      "name": "Moment (feat. Charlotte Plank)",
+      "url": "https://open.spotify.com/track/7BDPFIpiwHggWmuGLyaRzf"
     },
     {
       "added_at": "2026-01-16 00:00:17",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
+        "name": "Take No Chat",
+        "url": "https://open.spotify.com/album/7tH3andBJgsnN90hfATsQp"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "duration_ms": 214285,
+      "name": "Take No Chat",
+      "url": "https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus"
+    },
+    {
+      "added_at": "2026-01-16 00:00:17",
+      "album": {
         "name": "No Bad Vibes (Denon Reed Remix)",
         "url": "https://open.spotify.com/album/0a9IivRuZVKAoxJUdlssq3"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 164994,
       "name": "No Bad Vibes - Denon Reed Remix",
       "url": "https://open.spotify.com/track/2CVARGo9Awb6cOWvz970fl"
-    },
-    {
-      "added_at": "2026-01-16 00:00:17",
-      "album": {
-        "name": "Take No Chat",
-        "url": "https://open.spotify.com/album/7tH3andBJgsnN90hfATsQp"
-      },
-      "artists": [
-        {
-          "name": "Bushbaby",
-          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
-        }
-      ],
-      "duration_ms": 214285,
-      "name": "Take No Chat",
-      "url": "https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus"
     },
     {
       "added_at": "2026-01-16 00:00:17",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
-        "name": "See Thru",
-        "url": "https://open.spotify.com/album/0Dgr5QpgjUOa45upuXnCXO"
-      },
-      "artists": [
-        {
-          "name": "Megan Wroe",
-          "url": "https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "See Thru",
-      "url": "https://open.spotify.com/track/5bt6nQxl5CP7gfz4JSqGR5"
-    },
-    {
-      "added_at": "2026-01-16 00:00:17",
-      "album": {
         "name": "Fallin",
         "url": "https://open.spotify.com/album/1TX16n2fknSoxjg4vLNElA"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 235500,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/4eABAb9LRPORxqPAHcbvMw"
+    },
+    {
+      "added_at": "2026-01-16 00:00:17",
+      "album": {
+        "name": "See Thru",
+        "url": "https://open.spotify.com/album/0Dgr5QpgjUOa45upuXnCXO"
+      },
+      "artists": [
+        {
+          "name": "Megan Wroe",
+          "url": "https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "See Thru",
+      "url": "https://open.spotify.com/track/5bt6nQxl5CP7gfz4JSqGR5"
     },
     {
       "added_at": "2026-01-16 00:00:17",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
-        "name": "Inside The Rider (Darkzy Remix)",
-        "url": "https://open.spotify.com/album/0jeNTBGFj5lcFIdPEgTgXD"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Inside The Rider - Darkzy Remix",
-      "url": "https://open.spotify.com/track/1OgyH85fktvryf3sxD1X6g"
-    },
-    {
-      "added_at": "2026-01-16 00:00:17",
-      "album": {
         "name": "somebody else (Denon Reed Remix)",
         "url": "https://open.spotify.com/album/5wz4qBXL0AvKwn6DP7nWxF"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 140704,
       "name": "somebody else - Denon Reed Remix",
       "url": "https://open.spotify.com/track/3vfKENQeEa4zGtyWXub7fc"
+    },
+    {
+      "added_at": "2026-01-16 00:00:17",
+      "album": {
+        "name": "Inside The Rider (Darkzy Remix)",
+        "url": "https://open.spotify.com/album/0jeNTBGFj5lcFIdPEgTgXD"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Inside The Rider - Darkzy Remix",
+      "url": "https://open.spotify.com/track/1OgyH85fktvryf3sxD1X6g"
     },
     {
       "added_at": "2026-01-16 00:00:17",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
-        "name": "My Gyal / Packs",
-        "url": "https://open.spotify.com/album/5QgDPi59TfQ7GY994tIa2t"
-      },
-      "artists": [
-        {
-          "name": "Michael Sparks",
-          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
-        }
-      ],
-      "duration_ms": 166192,
-      "name": "My Gyal",
-      "url": "https://open.spotify.com/track/7DdM16wmlB0kskxJWGQwvl"
-    },
-    {
-      "added_at": "2026-01-16 00:00:17",
-      "album": {
         "name": "Round eyaa",
         "url": "https://open.spotify.com/album/74qD1b1AhPHVKG2qZVdW7S"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 166285,
       "name": "Round eyaa",
       "url": "https://open.spotify.com/track/41rY2m91ihx5J5juMTJ7Iz"
+    },
+    {
+      "added_at": "2026-01-16 00:00:17",
+      "album": {
+        "name": "My Gyal / Packs",
+        "url": "https://open.spotify.com/album/5QgDPi59TfQ7GY994tIa2t"
+      },
+      "artists": [
+        {
+          "name": "Michael Sparks",
+          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
+        }
+      ],
+      "duration_ms": 166192,
+      "name": "My Gyal",
+      "url": "https://open.spotify.com/track/7DdM16wmlB0kskxJWGQwvl"
     }
   ],
   "unique_name": "Bassline Bangers",

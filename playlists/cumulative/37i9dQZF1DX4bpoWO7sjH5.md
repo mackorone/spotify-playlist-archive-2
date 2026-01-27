@@ -2,7 +2,7 @@
 
 ### [Navidad Cristiana](https://open.spotify.com/playlist/37i9dQZF1DX4bpoWO7sjH5)
 
-> Música navideña para celebrar el nacimiento de nuestro Salvador\. Portada: Marcos Witt
+> Música navideña para celebrar el nacimiento de nuestro Salvador\. Portada: Israel & New Breed, Unified Sound, Adrienne Bailon\-Houghton, Claudette Bailon, Diana Marie, Travy Joe, Aaron Moses, & Nate Diaz
 
 270 songs - 17 hr 39 min
 

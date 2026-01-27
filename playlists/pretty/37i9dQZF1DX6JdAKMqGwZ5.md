@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: mori y AMORE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,020 likes - 120 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,996 likes - 120 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 108 | [no me queda energía](https://open.spotify.com/track/1X8bOg3XDK38V0rN9sbKxY) | [Carmen Lancho](https://open.spotify.com/artist/4Axkq7hPn8hlKLQSBE3rd4) | [no me queda energía](https://open.spotify.com/album/5jxnCejWk26GOqYxq4HG7D) | 1:05 |
 | 109 | [Nunca Me Parece Suficiente](https://open.spotify.com/track/1ivUBQ0Y3djdGAF5jbNcUJ) | [Maren](https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L) | [Nunca Me Parece Suficiente](https://open.spotify.com/album/5lYGZ7HW3KEIhmax7KE3lz) | 2:52 |
 | 110 | [Paris Hilton](https://open.spotify.com/track/4X0mNzqvErzoXWqAllTozS) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Paris Hilton](https://open.spotify.com/album/1GixI3bHkUq3WEtPXnDkQT) | 3:35 |
-| 111 | [phill collinX](https://open.spotify.com/track/5RsoxOhMh2wcjeQyxavwLP) | [Blaya](https://open.spotify.com/artist/5lVc7UgSfLe0ysWNaZRBWm) | [phill collinX](https://open.spotify.com/album/5DFV7IU0SZuGPE2dbUqNDX) | 2:32 |
+| 111 | [phill collinX](https://open.spotify.com/track/5RsoxOhMh2wcjeQyxavwLP) | [BLAYA](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75) | [phill collinX](https://open.spotify.com/album/5DFV7IU0SZuGPE2dbUqNDX) | 2:32 |
 | 112 | [voy a pedirte a ti \(esta navidad\)](https://open.spotify.com/track/7dziPQ5f3Qek1rHouGzsrM) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [voy a pedirte a ti \(esta navidad\)](https://open.spotify.com/album/6908QdGAaGa7S4qMDHwXVG) | 2:42 |
 | 113 | [¿Todo esto para qué?](https://open.spotify.com/track/5hpLys2nnIiYN8Xe6cUoqg) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [Alberdi](https://open.spotify.com/artist/0zO7bdIGAHVCPq2rjQKhoK) | [¿Todo esto para qué?](https://open.spotify.com/album/4iv52ufl7nHmxJD2rSrnlZ) | 3:05 |
 | 114 | [El mejor verano de la vida](https://open.spotify.com/track/4T2kuozefT58bTo3l1XYaL) | [Smile](https://open.spotify.com/artist/47IdumnUeVozInz0gfdk6o) | [El mejor verano de la vida](https://open.spotify.com/album/1gTXbQtT1bSiEUpvm7GmhJ) | 3:26 |

@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-399 songs - 22 hr 10 min
+400 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Bridges](https://open.spotify.com/track/5GiEgcvmqbD1WgHzICDvOb) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [Bridges](https://open.spotify.com/album/1iMu7CCrDIfXnQggRXNLq9) | 3:41 | 2021-01-15 | 2021-03-18 |
 | [Bright Morning](https://open.spotify.com/track/7tXgHTkGacOBktzEMsqvbv) | [Eline Moss](https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA) | [Bright Morning](https://open.spotify.com/album/0TaZGDp9e9UfjpmrmTKRNb) | 3:24 | 2020-12-08\* | 2025-07-16 |
 | [Brightest Star](https://open.spotify.com/track/6PRosknEATsCworPrmpYZa) | [Sam Joe Gahn/Xi Lautman](https://open.spotify.com/artist/7BfuZulgRgW4feIsVxjzyB) | [Change of Mindset](https://open.spotify.com/album/76u2AWUsHjupzCFUNaMCsM) | 3:10 | 2020-12-08\* | 2021-09-22 |
-| [Bring in the Sun](https://open.spotify.com/track/1XuZoGfRIZyUvvHnzPG1Yg) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [A Refreshing Dimension](https://open.spotify.com/album/3OtvM6ApQUDxd09LZMbUj5) | 4:00 | 2022-08-15 |  |
+| [Bring in the Sun](https://open.spotify.com/track/1XuZoGfRIZyUvvHnzPG1Yg) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [A Refreshing Dimension](https://open.spotify.com/album/3OtvM6ApQUDxd09LZMbUj5) | 4:00 | 2022-08-15 | 2026-01-27 |
 | [Brooding](https://open.spotify.com/track/0oCRt1aONzpz97nMTSCvTe) | [Enchanted Candlestick](https://open.spotify.com/artist/3jAFYmyMpB3O7LD8zRiRae) | [Brooding](https://open.spotify.com/album/6swTHBD1IWDd3yKUSbfIXL) | 2:28 | 2021-09-17 | 2025-07-16 |
 | [Butterfly Waltz](https://open.spotify.com/track/3IJrQE24xD4buW3KCQ6ChA) | [Facing the Void](https://open.spotify.com/artist/0IcjbbwIRynJJg25UP2nzt) | [Butterfly Waltz](https://open.spotify.com/album/1Hlur9p4ZS1xkkpooBOgIs) | 2:54 | 2020-12-08\* | 2021-05-27 |
 | [Calm Essence](https://open.spotify.com/track/21I5P7i7NOb6qoUTwttb2E) | [Dreamweavers](https://open.spotify.com/artist/7oX6DZ1QAvDb4TbSFPYq3I) | [Calm Essence](https://open.spotify.com/album/485ZOj1OlOoF7DhlZ6AXj2) | 3:15 | 2024-09-19 |  |
@@ -120,6 +120,7 @@
 | [Doorways](https://open.spotify.com/track/1XY8MZaDrG873CbAlwrQSd) | [lucen](https://open.spotify.com/artist/6UlxeucXP4ODooKUwGZUNj) | [Doorways](https://open.spotify.com/album/2VdwWQREipL22ZfWYhCX7m) | 1:49 | 2025-07-15 |  |
 | [Dormio](https://open.spotify.com/track/5KrtsbUaDBPE0aFpxw4I0T) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Dormio](https://open.spotify.com/album/3yYe7uQZsi7NsACNFzItNh) | 2:39 | 2021-10-14 | 2024-09-29 |
 | [Dream Traveler](https://open.spotify.com/track/4qq5zkuRXq17ycXLBiFqC5) | [Eline Moss](https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA) | [Dream Traveler](https://open.spotify.com/album/1pF8o1asO5oWDoCG0DZZdZ) | 2:20 | 2024-05-10 |  |
+| [Dreams Collide](https://open.spotify.com/track/52sZSQY4NoNXg6VWjfG547) | [Light Matter](https://open.spotify.com/artist/6qmxb5iOHCQSSGHEONImae) | [Dreams Collide](https://open.spotify.com/album/6Xqn10OHNm1nJa4Lnvh866) | 3:00 | 2025-12-10 |  |
 | [Dreamsurf](https://open.spotify.com/track/0zUsN77HWaBujNAcMD4GUW) | [DIYFi](https://open.spotify.com/artist/1X177snoetl4cpyQ34snta) | [Dreamsurf](https://open.spotify.com/album/5moBUjTC86nclsprlXZRf8) | 2:56 | 2025-10-01 |  |
 | [Dreamswept EMDR](https://open.spotify.com/track/1pm2NByStw6o5v0nSGxHDz) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Dreamswept EMDR](https://open.spotify.com/album/3Tka75HuqaHbF12ZCkfoF7) | 3:32 | 2025-05-14 |  |
 | [Dreamt](https://open.spotify.com/track/5oseLW3JhRqLLyTmqmyghU) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/5z1mF6xLNvsKp132hNxqZ3) | 3:59 | 2022-07-22 | 2024-04-19 |

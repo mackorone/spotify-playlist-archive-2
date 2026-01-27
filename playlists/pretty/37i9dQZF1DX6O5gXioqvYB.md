@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Tutti Fenomeni + Tutti gli altri nuovi pezzi indie 👔
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,515 likes - 117 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,518 likes - 117 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

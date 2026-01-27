@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-470 songs - 1 day 0 hr 49 min
+471 songs - 1 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,6 +427,7 @@
 | [THE KILL](https://open.spotify.com/track/5UZgQsvQ9LVca5XqDRFbOb) | [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [THE KILL](https://open.spotify.com/album/14fINCadFpJCCbREk6JVLf) | 3:11 | 2024-08-15 |  |
 | [the largest boy \(ever\)](https://open.spotify.com/track/6pfzmolYBWEEGGCDuCo4Bi) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [Data Soup Demos](https://open.spotify.com/album/5CWYFxQJrUcIJGCCyLVszB) | 1:44 | 2024-11-18 |  |
 | [the life im living](https://open.spotify.com/track/2iFM2U5yL9mjlCXp0zi4PS) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [cheap guitar, cheap songs.](https://open.spotify.com/album/33Fzs7KelOKWDsxvYT9P8x) | 1:46 | 2025-10-27 |  |
+| [The Mix\-Stir Bar V2](https://open.spotify.com/track/6nd5Zai4IyFDXigvA6fzsD) | [Kamex](https://open.spotify.com/artist/2boudDTnAlzb00NFNXTkad) | [The Mix\-Stir Bar V2](https://open.spotify.com/album/4cDCAy44vGoS129GOO5ZBy) | 4:16 | 2026-01-26 |  |
 | [the power of manipulation](https://open.spotify.com/track/5kwdyWSTgvkyCvE2E1dp4t) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ) | [the power of manipulation](https://open.spotify.com/album/11Dc7hF7oPmH9ulwn8oIxL) | 3:34 | 2025-09-15 |  |
 | [THE RINGMASTER](https://open.spotify.com/track/6j3GHqe8aOdXk2HjQ8BdOL) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [OodleZz](https://open.spotify.com/artist/2eCpXBK9mnqr6o9TydXu98) | [THE RINGMASTER](https://open.spotify.com/album/0GEWu5SM7yfdnUjqwA3Tu1) | 3:44 | 2025-06-13 |  |
 | [The Tail Song](https://open.spotify.com/track/6nijsxzA8n8oi9kq29Mvdb) | [OkayDonuts](https://open.spotify.com/artist/0Bhx3Xk2I9klcpopBSCcpc) | [The Tail Song](https://open.spotify.com/album/5s9BAlQaGBsonEJQ0B62Wi) | 1:36 | 2023-09-05 | 2025-12-18 |

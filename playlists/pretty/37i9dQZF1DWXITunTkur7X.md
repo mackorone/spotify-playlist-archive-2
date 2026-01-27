@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 
 > Beste Nederlandstaligs songs uit de 10's! Cover: BLØF
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,462 likes - 65 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,467 likes - 65 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 | 39 | [Wit Licht](https://open.spotify.com/track/3x5ygBPL7i81nixEiGzxAW) | [Jeroen van Koningsbrugge](https://open.spotify.com/artist/1UlDLNnYZHKZJZC5Sb4GiX) | [Glitterjurk + Glitterjurk Live](https://open.spotify.com/album/1EaA0Ax8AcoxFwBTPIkDDP) | 3:32 |
 | 40 | [Kijk Me Na](https://open.spotify.com/track/7egSu6lfBYVfz8NhCF7xqX) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2), [Paul de Munnik](https://open.spotify.com/artist/1HFg9B0Jvwqzqiuqg9cASk) | ['t Heerst](https://open.spotify.com/album/2DWidcIfxmV4ZOJCVwOYjM) | 3:22 |
 | 41 | [Hey Meisje](https://open.spotify.com/track/1c7Kh2uMMxG7k4QqNjjg95) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Hansie](https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl) | [Beats By Esko](https://open.spotify.com/album/3E7PWkWtbaTtwvgw89Qm8a) | 3:17 |
-| 42 | [Reünie](https://open.spotify.com/track/0C9JPibPAdaBvt60rbwEsJ) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Reünie](https://open.spotify.com/album/7kY8OqgHbBOQwkF7vpFjTS) | 2:52 |
-| 43 | [De Bestemming](https://open.spotify.com/track/0T8ofZVbNQ60J9J9aK4ZIW) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD) | [\#1](https://open.spotify.com/album/6P8MGrO5WKfHnrXOw45jfR) | 4:26 |
+| 42 | [De Bestemming](https://open.spotify.com/track/0T8ofZVbNQ60J9J9aK4ZIW) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD) | [\#1](https://open.spotify.com/album/6P8MGrO5WKfHnrXOw45jfR) | 4:26 |
+| 43 | [Reünie](https://open.spotify.com/track/0C9JPibPAdaBvt60rbwEsJ) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Reünie](https://open.spotify.com/album/7kY8OqgHbBOQwkF7vpFjTS) | 2:52 |
 | 44 | [Voorbij](https://open.spotify.com/track/5fNrm4tC6DyhfbkzQIDiDd) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Beste Zangers Seizoen 11](https://open.spotify.com/album/4mX49XL3W7DGaF0vykfhui) | 4:01 |
 | 45 | [Ik Was Toch Je Meisje](https://open.spotify.com/track/7Gr210vstN2K0wL0BZlsp0) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Ik Was Toch Je Meisje](https://open.spotify.com/album/6gVjlMBtptGdZJpHfvW5Wz) | 3:23 |
 | 46 | [Het Kan Hier Zo Mooi Zijn](https://open.spotify.com/track/5P2KHDiu3aEwhMbelyZMQO) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Het Kan Hier Zo Mooi Zijn](https://open.spotify.com/album/5RwvkMbkoo5q9w7oqL70Nq) | 4:18 |

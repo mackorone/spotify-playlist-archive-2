@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,785 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,863 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 47 | [Czemu pozwoliłeś kochać?](https://open.spotify.com/track/00ITfmQnKbU69YUMimdI1U) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Czemu pozwoliłeś kochać?](https://open.spotify.com/album/4iz3J2ypdRCNHmF406gHOx) | 2:30 |
 | 48 | [teeth](https://open.spotify.com/track/7sPPN3NNDLhQY1Eu6Ot0Da) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [\(my world is an\) oyster](https://open.spotify.com/album/5KmSOOkB1iNgd3ZBhMgmB2) | 2:58 |
 | 49 | [płuca](https://open.spotify.com/track/2TxsC8ggcshcT7ldo9Oj0f) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [płuca](https://open.spotify.com/album/2nleTUCQmlHT1NFDgCL8LN) | 4:00 |
-| 50 | [Selfridges](https://open.spotify.com/track/2lL17X7tPp6rhdlJ5lg5hd) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Selfridges](https://open.spotify.com/album/7qCeRMzv4oGpUeMgV6ko4f) | 2:35 |
-| 51 | [Wczorajszy tlen](https://open.spotify.com/track/6hDAg8JGPWcdryzQJm1CuO) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Wczorajszy tlen](https://open.spotify.com/album/3q0HA6dlmep1lommlVGyql) | 3:00 |
+| 50 | [Wczorajszy tlen](https://open.spotify.com/track/6hDAg8JGPWcdryzQJm1CuO) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Wczorajszy tlen](https://open.spotify.com/album/3q0HA6dlmep1lommlVGyql) | 3:00 |
+| 51 | [Selfridges](https://open.spotify.com/track/2lL17X7tPp6rhdlJ5lg5hd) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Selfridges](https://open.spotify.com/album/7qCeRMzv4oGpUeMgV6ko4f) | 2:35 |
 | 52 | [Beznamiętnie](https://open.spotify.com/track/5QJfW0S7fUJQUcKOZGtrth) | [Natalia Muianga](https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4) | [Beznamiętnie](https://open.spotify.com/album/2jPRaXK8k8v9QqCoGuO42l) | 2:44 |
 | 53 | [warszawska fantazja](https://open.spotify.com/track/3kmiK0nFMkIRBpU9tQdd32) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [warszawska fantazja](https://open.spotify.com/album/638cXSDmgC9JSmxev4heIT) | 3:23 |
 | 54 | [Pyszny](https://open.spotify.com/track/62HzWhYc6gFKFxw65riAvt) | [Ofelia](https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [SAFE](https://open.spotify.com/album/0QwkQLmsLskXfYDtLO7H9Z) | 4:20 |
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 60 | [Soft Spot](https://open.spotify.com/track/7Aa9FEamkbgxZW3coKeYGs) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Soft Spot](https://open.spotify.com/album/7n3LUPt33YfsquSAgzvcU3) | 4:02 |
 | 61 | [Miasto](https://open.spotify.com/track/2knk9eGNdMPy4kgJC3olvv) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Miasto](https://open.spotify.com/album/6MD6VMlJ1Rd70BdCkbHr5m) | 2:36 |
 | 62 | [Jeśli ma się skończyć świat](https://open.spotify.com/track/5JGNvqBlOUb256Wa587RQr) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Jeśli ma się skończyć świat](https://open.spotify.com/album/7KJsWMtM5jpPulsi70oFCj) | 3:16 |
-| 63 | [I OWE IT TO YOU](https://open.spotify.com/track/31NCU7wSIerIAlbpdNBFI7) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [I OWE IT TO YOU](https://open.spotify.com/album/6O622GKMA9zpqTLxQ7vyZt) | 3:10 |
-| 64 | [Będę twoją Sylvią Plath](https://open.spotify.com/track/0Bfe03aAJYC2avYUkyljxs) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [Będę twoją Sylvią Plath](https://open.spotify.com/album/3mPq4OEZQGcqtDe6lYHX3y) | 3:10 |
+| 63 | [Będę twoją Sylvią Plath](https://open.spotify.com/track/0Bfe03aAJYC2avYUkyljxs) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [Będę twoją Sylvią Plath](https://open.spotify.com/album/3mPq4OEZQGcqtDe6lYHX3y) | 3:10 |
+| 64 | [I OWE IT TO YOU](https://open.spotify.com/track/31NCU7wSIerIAlbpdNBFI7) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [I OWE IT TO YOU](https://open.spotify.com/album/6O622GKMA9zpqTLxQ7vyZt) | 3:10 |
 | 65 | [Ostatni dzień lata](https://open.spotify.com/track/4WF2CXSyL1vgcNohuSC9XT) | [Ralph Kaminski](https://open.spotify.com/artist/7l1IUcuGTEXMuD1aN3wFqw) | [Ostatni dzień lata](https://open.spotify.com/album/0YcboQK6yPH31Qj3dOtKS6) | 3:19 |
 | 66 | [GODSPEED](https://open.spotify.com/track/4cYDTIDr19K7eHfVD9zMJA) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG), [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6) | [GODSPEED](https://open.spotify.com/album/4V8nHlud02hz69Cqwoah2q) | 3:13 |
 | 67 | [grudzień](https://open.spotify.com/track/0HFAnKwahoPraQZdVv0nXk) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [grudzień](https://open.spotify.com/album/2IEZYZnUxlIfIIizQzq8HE) | 2:22 |
 | 68 | [KATHARSIS](https://open.spotify.com/track/2EmeOCb1NohemsNva1SQZx) | [ARS LATRANS Orchestra](https://open.spotify.com/artist/1LzVOPgsaVzyFmXDqIPOCT), [irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U), [Kuba Folwarczny](https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il), [waterbody](https://open.spotify.com/artist/3KuudbK2QPuIFChpr6tCGb), [tim\_badel](https://open.spotify.com/artist/6bOiXcPbJZM9mBV7o8nM6A), [Szymon Paciora](https://open.spotify.com/artist/59NAlbFgu39Mr337r8ttkx), [low lab](https://open.spotify.com/artist/7nLBtOwJ0hhhO70jIZbGKF), [Alina Łapińska](https://open.spotify.com/artist/6ARISnFdGIlWiX3DFPFuWN) | [KATHARSIS](https://open.spotify.com/album/1aEzsCOQaGQLgz9CADG59A) | 4:25 |
 | 69 | [Bari](https://open.spotify.com/track/7aEkY1cxvwT0WrdtSrLLaT) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Bari](https://open.spotify.com/album/55v8tKw33eA5RH2CPR10pT) | 5:06 |
-| 70 | [Kamakura](https://open.spotify.com/track/6oMnfqRJiv3T0vTrrFD3ux) | [Youth Novels](https://open.spotify.com/artist/3Mnsk5N6fdCc5svXTunb3D) | [Kamakura](https://open.spotify.com/album/3NbroNNSDmYESLq8IHlgEV) | 5:16 |
+| 70 | [Yeyeye](https://open.spotify.com/track/27JgqGnbH9hfTF1hy7GOCl) | [Sonbird](https://open.spotify.com/artist/2zaVOOnzM7kPPCh0BIar3A) | [Yeyeye](https://open.spotify.com/album/7Gi09hgQl5l2CoHBaa8oW7) | 3:02 |
 
 Snapshot ID: `AAAAAJPsiU8Vpqp9PQrYK7vu7yU7D3DK`

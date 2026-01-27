@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmJixlyx0rj.md) - [plain]
 
 > New & best K\-Electronic music is here\. \(Cover: The Deep\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,662 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,712 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmJixlyx0rj.md) - [plain]
 | 67 | [Bad B\*\*ch \(Feat\. Sik\-K\)](https://open.spotify.com/track/5adaDy3RlstXNVvniuBkRX) | [Kimmy gone](https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [BLUSH](https://open.spotify.com/album/7sglyvDA3F3q0YBmgAz1Jg) | 2:32 |
 | 68 | [Ash](https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs) | [iiso](https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v) | [Ash](https://open.spotify.com/album/5S3Feym29lGQY8YJd8UTgu) | 2:24 |
 | 69 | [My Bad \(feat\. SHAUN\)](https://open.spotify.com/track/7dQFzMYhTXTtIYyoiiHdr8) | [Advanced](https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY), [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [My Bad \(feat\. SHAUN\)](https://open.spotify.com/album/2L22h8Oxq7vbnKTv5SDfUu) | 3:29 |
-| 70 | [Pondeggi](https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [E Wata](https://open.spotify.com/artist/2me33xonIRaOkg980kntBy) | [Pondeggi](https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT) | 4:39 |
-| 71 | [Bad Boy \- Slom Remix](https://open.spotify.com/track/2MgGwRwnTJnQ8qEljY1T0D) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD) | [iScreaM Vol.12 : Bad Boy Remixes](https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2) | 3:34 |
+| 70 | [Bad Boy \- Slom Remix](https://open.spotify.com/track/2MgGwRwnTJnQ8qEljY1T0D) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD) | [iScreaM Vol.12 : Bad Boy Remixes](https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2) | 3:34 |
+| 71 | [Pondeggi](https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [E Wata](https://open.spotify.com/artist/2me33xonIRaOkg980kntBy) | [Pondeggi](https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT) | 4:39 |
 | 72 | [Back for More \(with Anitta\) \(House Remix\)](https://open.spotify.com/track/7KK7A6niqD66y0duJ6iupC) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(More Edition\)](https://open.spotify.com/album/3InBiuGXecuwXqG81YrB1E) | 2:19 |
 | 73 | [The Feels \(Benny Benassi Remix\)](https://open.spotify.com/track/2uIgQIrUIy57d1jngcOODC) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [The Feels](https://open.spotify.com/album/5kaDKzyrE5Cx9c4mLQZ6b1) | 3:05 |
 | 74 | [Perfume \- Jafunk Remix](https://open.spotify.com/track/6l0ak0PKqf4DOLnlrhgIe9) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [iScreaM Vol.24 : Perfume Remixes](https://open.spotify.com/album/3skTjLZNSAmGdEMY1qSRhc) | 2:48 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmJixlyx0rj.md) - [plain]
 | 97 | [Eternity](https://open.spotify.com/track/21aWaqbf26P6EFLXRL8NlV) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS), [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq) | [Eternity](https://open.spotify.com/album/4CUPFwbH6LkM6jo2aEVAcg) | 2:14 |
 | 98 | [Kind of Love \(feat\. Ina Bravo\)](https://open.spotify.com/track/7B7RcNZ804nKRXLir2yS7r) | [SakaZan](https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM), [Ina Bravo](https://open.spotify.com/artist/2ToVGBAU5JEE6mTdgTmGpx) | [Kind of Love \(feat\. Ina Bravo\)](https://open.spotify.com/album/4OcyPubs6iPrCqw2LJCAUd) | 3:20 |
 | 99 | [Good Night Good Morning \(GNGM\) \- minlee Remix](https://open.spotify.com/track/5lC6Y8j5AZw9eZOIH832dS) | [minlee](https://open.spotify.com/artist/72Gqg5WgtKqaOXWYNEYsJ4), [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7), [Hardy](https://open.spotify.com/artist/213y7dSJCI5M9S4cOA6vju) | [Good Night Good Morning \(GNGM\) \[minlee Remix\]](https://open.spotify.com/album/6Gms2D8W5M7060RkTQchjO) | 2:05 |
-| 100 | [Make A Wish \(Birthday Song\) \- Wuki Remix](https://open.spotify.com/track/1Dou4w33Ne9kkjBvk0CbLW) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ), [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [iScreaM Vol.6 : Make A Wish / 90's Love Remix](https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd) | 3:14 |
+| 100 | [Red Flavor \- Mar Vista Remix](https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [MAR VISTA](https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo) | [iScreaM Vol.25 : Red Flavor Remix](https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn) | 3:36 |
 
 Snapshot ID: `AAAAAPkhyRcg7IXy9rIYTKDEIfqeFGPW`

@@ -1,6 +1,6 @@
 {
   "description": "Emotional and powerful - let your feelings out with these rock power ballads. Cover: Tina Turner",
-  "num_followers": 1227449,
+  "num_followers": 1227488,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Bat Out Of Hell",
-        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
-      },
-      "artists": [
-        {
-          "name": "Meat Loaf",
-          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
-        }
-      ],
-      "duration_ms": 509315,
-      "name": "Paradise By the Dashboard Light",
-      "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
         "name": "Third Stage",
         "url": "https://open.spotify.com/album/3ZjhhUHc4jFc6ZOTchjXsv"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 256200,
       "name": "Amanda",
       "url": "https://open.spotify.com/track/4gpext9x0CbdD9NWaa4nDj"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
+        "name": "Bat Out Of Hell",
+        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "duration_ms": 509315,
+      "name": "Paradise By the Dashboard Light",
+      "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "The Great Radio Controversy",
-        "url": "https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM"
-      },
-      "artists": [
-        {
-          "name": "Tesla",
-          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
-        }
-      ],
-      "duration_ms": 298360,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/48lLr0blWNLIl6hPoF3Ex1"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
         "name": "MSG",
         "url": "https://open.spotify.com/album/4l2Iw0TA4oIqP8yWrfiM27"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 289440,
       "name": "When I'm Gone",
       "url": "https://open.spotify.com/track/66jTfbDdDYnV6fvb85WU25"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
+        "name": "The Great Radio Controversy",
+        "url": "https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM"
+      },
+      "artists": [
+        {
+          "name": "Tesla",
+          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
+        }
+      ],
+      "duration_ms": 298360,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/48lLr0blWNLIl6hPoF3Ex1"
     },
     {
       "added_at": "2024-06-26 02:22:53",

@@ -1,6 +1,6 @@
 {
   "description": "todos pro alto, cada um com o seu. Foto: F\u00faria, Muse Maya",
-  "num_followers": 134730,
+  "num_followers": 134716,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,26 @@
     {
       "added_at": "2026-01-23 15:10:27",
       "album": {
+        "name": "loira de medicina",
+        "url": "https://open.spotify.com/album/155LCmJKAVr0ZMGd9pHNdf"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 153472,
+      "name": "loira de medicina",
+      "url": "https://open.spotify.com/track/5TZ5h31NOjUyv5Dfol47bg"
+    },
+    {
+      "added_at": "2026-01-23 15:10:27",
+      "album": {
         "name": "Vulgo FK On The Radar (Feat. Bay Swag) [Remix]",
         "url": "https://open.spotify.com/album/57UV6SDNUMgcEoyjudJl31"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 127769,
       "name": "Vulgo FK On The Radar (Feat. Bay Swag) - Remix",
       "url": "https://open.spotify.com/track/2IcUSPvlysvRyHdZnUJMhi"
-    },
-    {
-      "added_at": "2026-01-23 15:10:27",
-      "album": {
-        "name": "loira de medicina",
-        "url": "https://open.spotify.com/album/155LCmJKAVr0ZMGd9pHNdf"
-      },
-      "artists": [
-        {
-          "name": "G.A",
-          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 153472,
-      "name": "loira de medicina",
-      "url": "https://open.spotify.com/track/5TZ5h31NOjUyv5Dfol47bg"
     },
     {
       "added_at": "2026-01-23 15:10:27",
@@ -683,22 +683,6 @@
       "duration_ms": 144000,
       "name": "PIXAD\u00c3O NO BAILE",
       "url": "https://open.spotify.com/track/7m0VqTlGjyR123V2VhBXKk"
-    },
-    {
-      "added_at": "2026-01-23 15:10:27",
-      "album": {
-        "name": "O Rei da Vibe",
-        "url": "https://open.spotify.com/album/2c9jdnVblDS8gQDVPZAezo"
-      },
-      "artists": [
-        {
-          "name": "Akashi Cruz",
-          "url": "https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2"
-        }
-      ],
-      "duration_ms": 132765,
-      "name": "O Dono da Madrugada",
-      "url": "https://open.spotify.com/track/4dyyzyya4tpauvpHvRK7aN"
     },
     {
       "added_at": "2026-01-23 15:10:27",
@@ -751,6 +735,22 @@
       "duration_ms": 198101,
       "name": "Mistura de Sotaque",
       "url": "https://open.spotify.com/track/3yVoGXUXkexPJKoXN9mBq8"
+    },
+    {
+      "added_at": "2026-01-23 15:10:27",
+      "album": {
+        "name": "O Rei da Vibe",
+        "url": "https://open.spotify.com/album/2c9jdnVblDS8gQDVPZAezo"
+      },
+      "artists": [
+        {
+          "name": "Akashi Cruz",
+          "url": "https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2"
+        }
+      ],
+      "duration_ms": 132765,
+      "name": "O Dono da Madrugada",
+      "url": "https://open.spotify.com/track/4dyyzyya4tpauvpHvRK7aN"
     },
     {
       "added_at": "2026-01-23 15:10:27",
@@ -815,26 +815,6 @@
     {
       "added_at": "2026-01-23 15:10:27",
       "album": {
-        "name": "Congelado",
-        "url": "https://open.spotify.com/album/5miBfk7sbs8B8I8keKO719"
-      },
-      "artists": [
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Dj Herculano",
-          "url": "https://open.spotify.com/artist/3MKTBehlfl8npR15s9GaGv"
-        }
-      ],
-      "duration_ms": 257142,
-      "name": "Congelado",
-      "url": "https://open.spotify.com/track/6isKHPmLTVivlrS7ywADqr"
-    },
-    {
-      "added_at": "2026-01-23 15:10:27",
-      "album": {
         "name": "O Tempo \u00e9 Ouro",
         "url": "https://open.spotify.com/album/72F8mAIr3KwTTvhBmA28s3"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 183285,
       "name": "O Tempo \u00e9 Ouro",
       "url": "https://open.spotify.com/track/42zLfiSnZ1rCdSywazHqv9"
+    },
+    {
+      "added_at": "2026-01-23 15:10:27",
+      "album": {
+        "name": "Congelado",
+        "url": "https://open.spotify.com/album/5miBfk7sbs8B8I8keKO719"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Dj Herculano",
+          "url": "https://open.spotify.com/artist/3MKTBehlfl8npR15s9GaGv"
+        }
+      ],
+      "duration_ms": 257142,
+      "name": "Congelado",
+      "url": "https://open.spotify.com/track/6isKHPmLTVivlrS7ywADqr"
     },
     {
       "added_at": "2026-01-23 15:10:27",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2026-01-23 15:10:27",
       "album": {
-        "name": "Hiphop X Funk",
-        "url": "https://open.spotify.com/album/6gMKkI5T5xBMg54RZvOsJ8"
-      },
-      "artists": [
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "DJ Yas",
-          "url": "https://open.spotify.com/artist/7BSj39Ch2fiZWCGJqak1WS"
-        }
-      ],
-      "duration_ms": 149176,
-      "name": "Hiphop X Funk",
-      "url": "https://open.spotify.com/track/1OnGlV8JcdoEsCevpAAz84"
-    },
-    {
-      "added_at": "2026-01-23 15:10:27",
-      "album": {
         "name": "PR\u00d3LOGO DE AGOSTO",
         "url": "https://open.spotify.com/album/1BKEwv3QWxYWUUeIV1tXLp"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 136884,
       "name": "A VIDA \u00c9 ASSIM",
       "url": "https://open.spotify.com/track/5PVfTlAsz7eaIKEz1OcWS0"
+    },
+    {
+      "added_at": "2026-01-23 15:10:27",
+      "album": {
+        "name": "Hiphop X Funk",
+        "url": "https://open.spotify.com/album/6gMKkI5T5xBMg54RZvOsJ8"
+      },
+      "artists": [
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "DJ Yas",
+          "url": "https://open.spotify.com/artist/7BSj39Ch2fiZWCGJqak1WS"
+        }
+      ],
+      "duration_ms": 149176,
+      "name": "Hiphop X Funk",
+      "url": "https://open.spotify.com/track/1OnGlV8JcdoEsCevpAAz84"
     },
     {
       "added_at": "2026-01-23 15:10:27",

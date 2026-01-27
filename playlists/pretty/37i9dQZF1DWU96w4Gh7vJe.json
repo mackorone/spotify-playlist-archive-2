@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 578996,
+  "num_followers": 578969,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-01-19 10:00:31",
       "album": {
-        "name": "Cafe Bossa",
-        "url": "https://open.spotify.com/album/0JPSXvzFg02DSytNE16MSw"
-      },
-      "artists": [
-        {
-          "name": "Sitti",
-          "url": "https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Para Sa Akin",
-      "url": "https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR"
-    },
-    {
-      "added_at": "2026-01-19 10:00:31",
-      "album": {
         "name": "Pag-Ibig (Meron Ba?)",
         "url": "https://open.spotify.com/album/5INHCPcl1iCJl01rOt8vGI"
       },
@@ -787,34 +771,18 @@
     {
       "added_at": "2026-01-19 10:00:31",
       "album": {
-        "name": "Piliin",
-        "url": "https://open.spotify.com/album/5BwCXtMXzUlqM80zsqoFyJ"
+        "name": "Cafe Bossa",
+        "url": "https://open.spotify.com/album/0JPSXvzFg02DSytNE16MSw"
       },
       "artists": [
         {
-          "name": "Adie",
-          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+          "name": "Sitti",
+          "url": "https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA"
         }
       ],
-      "duration_ms": 279399,
-      "name": "Piliin",
-      "url": "https://open.spotify.com/track/6NTsYsrWYtsXhTPNZAV0Dp"
-    },
-    {
-      "added_at": "2026-01-19 10:00:31",
-      "album": {
-        "name": "Andalucia",
-        "url": "https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh"
-      },
-      "artists": [
-        {
-          "name": "IV OF SPADES",
-          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
-        }
-      ],
-      "duration_ms": 201168,
-      "name": "Paru-Paro",
-      "url": "https://open.spotify.com/track/4vJoaI1445sreRuSYAdaLW"
+      "duration_ms": 186240,
+      "name": "Para Sa Akin",
+      "url": "https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR"
     },
     {
       "added_at": "2026-01-19 10:00:31",
@@ -835,6 +803,38 @@
       "duration_ms": 294000,
       "name": "Sabik",
       "url": "https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz"
+    },
+    {
+      "added_at": "2026-01-19 10:00:31",
+      "album": {
+        "name": "Andalucia",
+        "url": "https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh"
+      },
+      "artists": [
+        {
+          "name": "IV OF SPADES",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        }
+      ],
+      "duration_ms": 201168,
+      "name": "Paru-Paro",
+      "url": "https://open.spotify.com/track/4vJoaI1445sreRuSYAdaLW"
+    },
+    {
+      "added_at": "2026-01-19 10:00:31",
+      "album": {
+        "name": "Piliin",
+        "url": "https://open.spotify.com/album/5BwCXtMXzUlqM80zsqoFyJ"
+      },
+      "artists": [
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        }
+      ],
+      "duration_ms": 279399,
+      "name": "Piliin",
+      "url": "https://open.spotify.com/track/6NTsYsrWYtsXhTPNZAV0Dp"
     },
     {
       "added_at": "2026-01-19 10:00:31",

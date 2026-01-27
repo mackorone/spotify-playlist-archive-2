@@ -8231,6 +8231,24 @@
     },
     {
       "album": {
+        "name": "The Mix-Stir Bar V2",
+        "url": "https://open.spotify.com/album/4cDCAy44vGoS129GOO5ZBy"
+      },
+      "artists": [
+        {
+          "name": "Kamex",
+          "url": "https://open.spotify.com/artist/2boudDTnAlzb00NFNXTkad"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "The Mix-Stir Bar V2",
+      "url": "https://open.spotify.com/track/6nd5Zai4IyFDXigvA6fzsD"
+    },
+    {
+      "album": {
         "name": "the power of manipulation",
         "url": "https://open.spotify.com/album/11Dc7hF7oPmH9ulwn8oIxL"
       },

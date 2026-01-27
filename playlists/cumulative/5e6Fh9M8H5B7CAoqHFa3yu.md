@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,753 songs - 4 day 10 hr 0 min
+1,754 songs - 4 day 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1636,6 +1636,7 @@
 | [Viajando](https://open.spotify.com/track/0uAveBsjd9FEQvCfrEokCM) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Tornasol](https://open.spotify.com/album/0LPohpqvg6wkGEioAs7aaC) | 3:59 | 2025-12-28 |  |
 | [Vicky](https://open.spotify.com/track/4CFl9apNEnVSUGJyXWE4R6) | [Marzena Majcher](https://open.spotify.com/artist/6sHN6iLyhZVMg5w5t7Kdsj) | [Amateurs \(Original motion picture soundtrack\)](https://open.spotify.com/album/4Z8t4Qv9a3l39Nkq5HsoBa) | 2:44 | 2025-09-10 |  |
 | [vida de patrão](https://open.spotify.com/track/19lVNgRsYOw2QmNKCWu2gp) | [MC NEMINHO](https://open.spotify.com/artist/5kwiiAZRW2ngQmkrglNTYR) | [BRILHO DE OURO](https://open.spotify.com/album/0dolXPcE9GU6vtZnV6TdBC) | 2:55 | 2026-01-25 |  |
+| [Vienna](https://open.spotify.com/track/0PCzNRFKGyraIzhkmMKHrJ) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Vienna](https://open.spotify.com/album/37LrPY0zy6GPUWWKwVCGHq) | 2:26 | 2026-01-26 |  |
 | [Vindicta](https://open.spotify.com/track/5J45NNA2HrWzwnWJG3IsAG) | [Release the Captive](https://open.spotify.com/artist/1v6EAnmC8SD44ntg7OT7uj) | [Vindicta](https://open.spotify.com/album/2Vn5fMsQhKkKOnkJisvOtA) | 4:23 | 2024-04-10 |  |
 | [Violent Pornography](https://open.spotify.com/track/249Z7XT6mf8B2zuI0RaeS0) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Mezmerize](https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o) | 3:31 | 2024-03-04 |  |
 | [Virago \- Remastered Version](https://open.spotify.com/track/36AeehZX25Cg82s1cM2fQN) | [Eufrocina Manigos and Eyvind Bilstad](https://open.spotify.com/artist/31q4JP429LpIl1OEibwldo) | [Virago \(Remastered Version\)](https://open.spotify.com/album/2ETaMu5kSsy7N3nAfwm0Si) | 2:32 | 2025-06-13 |  |

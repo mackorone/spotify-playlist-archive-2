@@ -16437,6 +16437,24 @@
     },
     {
       "album": {
+        "name": "shining.",
+        "url": "https://open.spotify.com/album/7alBVFv3w8aOaSJYLIw8nD"
+      },
+      "artists": [
+        {
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191278,
+      "name": "sway",
+      "url": "https://open.spotify.com/track/78KWPtzyxqY36h1Z4OcgbJ"
+    },
+    {
+      "album": {
         "name": "The Book of Us : Entropy",
         "url": "https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h"
       },
@@ -19196,7 +19214,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 187000,
       "name": "Wish",
       "url": "https://open.spotify.com/track/28GGqZ2M6bEQEvKSRhnniw"

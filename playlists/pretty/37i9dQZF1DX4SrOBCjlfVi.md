@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring 42 Dugg, Flo Milli, The Scythe and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,470 likes - 48 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,538 likes - 48 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 23 | [Shoulders](https://open.spotify.com/track/6RljOa6X5wHjSWAAroxNVS) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [Shoulders](https://open.spotify.com/album/4QPWlnb8r4fql21FK40BEJ) | 2:51 |
 | 24 | [Murda Man](https://open.spotify.com/track/602I9kvPLEIDwe9HthtWxa) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Murda Man](https://open.spotify.com/album/0KxlEjlpy7EcUsMaJTIcjM) | 1:36 |
 | 25 | [ATREVIDA](https://open.spotify.com/track/5qt2HUermMUYEqdSZJXgHn) | [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [ATREVIDA](https://open.spotify.com/album/7lD1OZMJgax1AcEwcuZgRy) | 2:54 |
-| 26 | [YAYA \(feat\. Natalie Nunn & India Love\) \- SheMix](https://open.spotify.com/track/42t8jsXFmVTQGJWNjj98cR) | [Compton Av](https://open.spotify.com/artist/4ifWa8uYjvbxB4ouf9XbW5), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Natalie Nunn](https://open.spotify.com/artist/2I8embWRZZ0LSLvEIqx6wU), [India Love](https://open.spotify.com/artist/1MPZNrquXblzv9Oc2TyhzG) | [YAYA \(feat\. Natalie Nunn & India Love\) \[SheMix\]](https://open.spotify.com/album/4DHNxaSLk2G15Pxlkgqs5O) | 3:44 |
+| 26 | [YAYA \(feat\. Blueface & India Love\) \- SheMix](https://open.spotify.com/track/42t8jsXFmVTQGJWNjj98cR) | [Compton Av](https://open.spotify.com/artist/4ifWa8uYjvbxB4ouf9XbW5), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM), [Natalie Nunn](https://open.spotify.com/artist/2I8embWRZZ0LSLvEIqx6wU), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [India Love](https://open.spotify.com/artist/1MPZNrquXblzv9Oc2TyhzG) | [YAYA \(feat\. Blueface & India Love\) \[SheMix\]](https://open.spotify.com/album/4DHNxaSLk2G15Pxlkgqs5O) | 3:44 |
 | 27 | [Area Codes \- 94589 Remix](https://open.spotify.com/track/5Ve5g4qM9dO6v27erSxU2b) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [NandoSTL](https://open.spotify.com/artist/0er9UL2h7qz1iGYSRNJcGN) | [Area Codes \(94589 Remix\)](https://open.spotify.com/album/2jslPvLJz0YWGdoSqimM2i) | 2:19 |
 | 28 | [Dranc Wars](https://open.spotify.com/track/28MdxSMiZJKriOlt8cplDx) | [Rx Papi](https://open.spotify.com/artist/56gMovAlFdnmrDk2BcfUlJ) | [Dranc Wars](https://open.spotify.com/album/1MxKA3jirzzsEugiGvFDUq) | 2:48 |
 | 29 | [She Said](https://open.spotify.com/track/13FoVXNngsRooEvUvUNy4v) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [She Said](https://open.spotify.com/album/3fZ891A7PhKjBUO7fz7vYE) | 3:03 |

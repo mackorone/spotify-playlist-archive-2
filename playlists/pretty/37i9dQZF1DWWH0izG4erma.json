@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Chris Stapleton",
-  "num_followers": 649919,
+  "num_followers": 649992,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "Searchlight",
-        "url": "https://open.spotify.com/album/4O3TIz80IlOC5Ya0PbfUlJ"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 215268,
-      "name": "Searchlight",
-      "url": "https://open.spotify.com/track/20fm2tV8FUuonX96Db1bGo"
-    },
-    {
-      "added_at": "2026-01-16 05:00:44",
-      "album": {
         "name": "From A Room: Volume 2",
         "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 222653,
       "name": "Midnight Train To Memphis",
       "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
+    },
+    {
+      "added_at": "2026-01-16 05:00:44",
+      "album": {
+        "name": "Searchlight",
+        "url": "https://open.spotify.com/album/4O3TIz80IlOC5Ya0PbfUlJ"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 215268,
+      "name": "Searchlight",
+      "url": "https://open.spotify.com/track/20fm2tV8FUuonX96Db1bGo"
     },
     {
       "added_at": "2026-01-16 05:00:44",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "I HATE ME TOO",
-        "url": "https://open.spotify.com/album/7mhU3F2Qk5PryU0KHv9lqy"
-      },
-      "artists": [
-        {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
-        }
-      ],
-      "duration_ms": 185569,
-      "name": "I HATE ME TOO",
-      "url": "https://open.spotify.com/track/5rgZbwCHPZKP32NG0g66ar"
-    },
-    {
-      "added_at": "2026-01-16 05:00:44",
-      "album": {
         "name": "That Lonesome Song",
         "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 251960,
       "name": "Between Jennings And Jones",
       "url": "https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d"
+    },
+    {
+      "added_at": "2026-01-16 05:00:44",
+      "album": {
+        "name": "I HATE ME TOO",
+        "url": "https://open.spotify.com/album/7mhU3F2Qk5PryU0KHv9lqy"
+      },
+      "artists": [
+        {
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+        }
+      ],
+      "duration_ms": 185569,
+      "name": "I HATE ME TOO",
+      "url": "https://open.spotify.com/track/5rgZbwCHPZKP32NG0g66ar"
     },
     {
       "added_at": "2026-01-16 05:00:44",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "Time Bomb",
-        "url": "https://open.spotify.com/album/5uX7PE5xWt9RQHofF3wCLH"
+        "name": "Fire On Wheels",
+        "url": "https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7"
       },
       "artists": [
         {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
         }
       ],
-      "duration_ms": 215760,
-      "name": "Time Bomb",
-      "url": "https://open.spotify.com/track/4wYzsmAN7BPgNl422OkzIY"
+      "duration_ms": 156973,
+      "name": "Fire On Wheels",
+      "url": "https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO"
     },
     {
       "added_at": "2026-01-16 05:00:44",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "Fire On Wheels",
-        "url": "https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7"
+        "name": "Time Bomb",
+        "url": "https://open.spotify.com/album/5uX7PE5xWt9RQHofF3wCLH"
       },
       "artists": [
         {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
         }
       ],
-      "duration_ms": 156973,
-      "name": "Fire On Wheels",
-      "url": "https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO"
+      "duration_ms": 215760,
+      "name": "Time Bomb",
+      "url": "https://open.spotify.com/track/4wYzsmAN7BPgNl422OkzIY"
     },
     {
       "added_at": "2026-01-16 05:00:44",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "Alexis Texas",
-        "url": "https://open.spotify.com/album/5IvBLBjl0fY6pVsQoTpKTP"
-      },
-      "artists": [
-        {
-          "name": "Eddie And The Getaway",
-          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
-        }
-      ],
-      "duration_ms": 164441,
-      "name": "Alexis Texas",
-      "url": "https://open.spotify.com/track/4s62FMj60Tvtf6NtFZvuuK"
-    },
-    {
-      "added_at": "2026-01-16 05:00:44",
-      "album": {
         "name": "Tabasco & Sweet Tea",
         "url": "https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 280065,
       "name": "Tabasco & Sweet Tea",
       "url": "https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B"
+    },
+    {
+      "added_at": "2026-01-16 05:00:44",
+      "album": {
+        "name": "Alexis Texas",
+        "url": "https://open.spotify.com/album/5IvBLBjl0fY6pVsQoTpKTP"
+      },
+      "artists": [
+        {
+          "name": "Eddie And The Getaway",
+          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
+        }
+      ],
+      "duration_ms": 164441,
+      "name": "Alexis Texas",
+      "url": "https://open.spotify.com/track/4s62FMj60Tvtf6NtFZvuuK"
     },
     {
       "added_at": "2026-01-16 05:00:44",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "Middle Finger Motto",
-        "url": "https://open.spotify.com/album/788rbiHAOAvbo26RzsdyOU"
+        "name": "World On Fire",
+        "url": "https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7"
       },
       "artists": [
         {
-          "name": "Eddie And The Getaway",
-          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 171937,
-      "name": "Middle Finger Motto",
-      "url": "https://open.spotify.com/track/4SflMtWx9gjZ4lT7qcU871"
+      "duration_ms": 261269,
+      "name": "World On Fire",
+      "url": "https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4"
     }
   ],
   "unique_name": "Country Rocks",

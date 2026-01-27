@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Liz Loyo",
-  "num_followers": 580641,
+  "num_followers": 580630,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "Bebiendo L\u00e1grimas",
-        "url": "https://open.spotify.com/album/2i72xNirRiPj96mYHBXSiE"
-      },
-      "artists": [
-        {
-          "name": "Mar Sol\u00eds",
-          "url": "https://open.spotify.com/artist/4UgSSRfTxP1W7niOOa4bwl"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Bebiendo L\u00e1grimas",
-      "url": "https://open.spotify.com/track/1JLc36BPeiaB0JM16JG0MC"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
         "name": "La Competencia",
         "url": "https://open.spotify.com/album/0H8nE43nDhqMZraIKli5BY"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 209160,
       "name": "La Competencia",
       "url": "https://open.spotify.com/track/2PtN8j46BwZtlbJxyZFamd"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
+        "name": "Bebiendo L\u00e1grimas",
+        "url": "https://open.spotify.com/album/2i72xNirRiPj96mYHBXSiE"
+      },
+      "artists": [
+        {
+          "name": "Mar Sol\u00eds",
+          "url": "https://open.spotify.com/artist/4UgSSRfTxP1W7niOOa4bwl"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Bebiendo L\u00e1grimas",
+      "url": "https://open.spotify.com/track/1JLc36BPeiaB0JM16JG0MC"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "Te So\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/7EZYD3MAbyV2njuuQN4Qb3"
-      },
-      "artists": [
-        {
-          "name": "Mia Salinas",
-          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
-        }
-      ],
-      "duration_ms": 164798,
-      "name": "Te So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/5sLQhakJ9v2dKMlxB2Fewm"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
         "name": "Bruja",
         "url": "https://open.spotify.com/album/3vEE0iDumS43v1DyGyZSAS"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 191020,
       "name": "Bruja",
       "url": "https://open.spotify.com/track/4VLWNKMVtSKCdpZIiUuzAf"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/7EZYD3MAbyV2njuuQN4Qb3"
+      },
+      "artists": [
+        {
+          "name": "Mia Salinas",
+          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
+        }
+      ],
+      "duration_ms": 164798,
+      "name": "Te So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/5sLQhakJ9v2dKMlxB2Fewm"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -999,26 +999,6 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "Ahora Te Aguantas",
-        "url": "https://open.spotify.com/album/2vzjM97QfvPxG9tm2Ys2Dm"
-      },
-      "artists": [
-        {
-          "name": "Estibaliz Badiola",
-          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
-        },
-        {
-          "name": "Miranda Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Ahora Te Aguantas",
-      "url": "https://open.spotify.com/track/6zB7NJW1QfOMN85gJteqfm"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
         "name": "De Mi Enam\u00f3rate",
         "url": "https://open.spotify.com/album/1Uuwm9dLAENLFkQcXhEGfL"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 266379,
       "name": "De Mi Enam\u00f3rate",
       "url": "https://open.spotify.com/track/5yV9MNJ54l58QaHqm5lrHP"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
+        "name": "Ahora Te Aguantas",
+        "url": "https://open.spotify.com/album/2vzjM97QfvPxG9tm2Ys2Dm"
+      },
+      "artists": [
+        {
+          "name": "Estibaliz Badiola",
+          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
+        },
+        {
+          "name": "Miranda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Ahora Te Aguantas",
+      "url": "https://open.spotify.com/track/6zB7NJW1QfOMN85gJteqfm"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "Se Me Murio El Amor",
-        "url": "https://open.spotify.com/album/0PYRebe16fABfeqQuWaQzW"
-      },
-      "artists": [
-        {
-          "name": "Brenda Michel",
-          "url": "https://open.spotify.com/artist/2jN4BFSFkOvTcwc28ouzbG"
-        }
-      ],
-      "duration_ms": 188832,
-      "name": "Se Me Murio El Amor",
-      "url": "https://open.spotify.com/track/2devADTH1QWZYlRShKZE6j"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
         "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER (EN VIVO)",
         "url": "https://open.spotify.com/album/4YnzTMA71h2DvfNSGhPk3w"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 233898,
       "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER - EN VIVO",
       "url": "https://open.spotify.com/track/0E2Nw0aA2F5cHRybVGHhNP"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
+        "name": "Se Me Murio El Amor",
+        "url": "https://open.spotify.com/album/0PYRebe16fABfeqQuWaQzW"
+      },
+      "artists": [
+        {
+          "name": "Brenda Michel",
+          "url": "https://open.spotify.com/artist/2jN4BFSFkOvTcwc28ouzbG"
+        }
+      ],
+      "duration_ms": 188832,
+      "name": "Se Me Murio El Amor",
+      "url": "https://open.spotify.com/track/2devADTH1QWZYlRShKZE6j"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "Puerto Vallarta",
-        "url": "https://open.spotify.com/album/3hJkB9v08nfpilXVYcdm3O"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Rojo",
-          "url": "https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN"
-        }
-      ],
-      "duration_ms": 145584,
-      "name": "Puerto Vallarta",
-      "url": "https://open.spotify.com/track/55VkXZ8ItTchyGX7g4g0Jj"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
         "name": "El Cigarrillo",
         "url": "https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 219411,
       "name": "El Cigarrillo",
       "url": "https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
+        "name": "Puerto Vallarta",
+        "url": "https://open.spotify.com/album/3hJkB9v08nfpilXVYcdm3O"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Rojo",
+          "url": "https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN"
+        }
+      ],
+      "duration_ms": 145584,
+      "name": "Puerto Vallarta",
+      "url": "https://open.spotify.com/track/55VkXZ8ItTchyGX7g4g0Jj"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "Mor\u00ed",
-        "url": "https://open.spotify.com/album/5hfajor7a8h94UvEeIsbQd"
-      },
-      "artists": [
-        {
-          "name": "Mildred Feuchter",
-          "url": "https://open.spotify.com/artist/2IvVdu1hyp120X5TIzNeKP"
-        }
-      ],
-      "duration_ms": 213701,
-      "name": "Mor\u00ed",
-      "url": "https://open.spotify.com/track/7y6AeEz1yfkdagSUUEIB0m"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
         "name": "De Jim\u00e9nez a Jim\u00e9nez (En Vivo)",
         "url": "https://open.spotify.com/album/6LFdHay9D3Vw0749WQeBXw"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 150282,
       "name": "Si Nos Dejan - En Vivo",
       "url": "https://open.spotify.com/track/6Po9vSryLwYSaU3blZQdbo"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
+        "name": "Mor\u00ed",
+        "url": "https://open.spotify.com/album/5hfajor7a8h94UvEeIsbQd"
+      },
+      "artists": [
+        {
+          "name": "Mildred Feuchter",
+          "url": "https://open.spotify.com/artist/2IvVdu1hyp120X5TIzNeKP"
+        }
+      ],
+      "duration_ms": 213701,
+      "name": "Mor\u00ed",
+      "url": "https://open.spotify.com/track/7y6AeEz1yfkdagSUUEIB0m"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "En Otra Vida",
-        "url": "https://open.spotify.com/album/3TJFoKzARj4Zoz8BaTDqR8"
-      },
-      "artists": [
-        {
-          "name": "Jacqie Rivera",
-          "url": "https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB"
-        }
-      ],
-      "duration_ms": 181077,
-      "name": "Ya Fue",
-      "url": "https://open.spotify.com/track/2p6dXo3gJKsLTkfg03DXmq"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
         "name": "Desde El Comienzo",
         "url": "https://open.spotify.com/album/0MhDjk87DWTAmYYiyoBjJ6"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 168344,
       "name": "Me Vale Perderte",
       "url": "https://open.spotify.com/track/2xv1Qn9FQtgMgApA8HVkie"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
+        "name": "En Otra Vida",
+        "url": "https://open.spotify.com/album/3TJFoKzARj4Zoz8BaTDqR8"
+      },
+      "artists": [
+        {
+          "name": "Jacqie Rivera",
+          "url": "https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB"
+        }
+      ],
+      "duration_ms": 181077,
+      "name": "Ya Fue",
+      "url": "https://open.spotify.com/track/2p6dXo3gJKsLTkfg03DXmq"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "Que Te Cambie La Suerte",
-        "url": "https://open.spotify.com/album/2duxFBKEQTlUXKLwqM3fpZ"
-      },
-      "artists": [
-        {
-          "name": "Briseyda Solis",
-          "url": "https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi"
-        }
-      ],
-      "duration_ms": 207614,
-      "name": "Que Te Cambie La Suerte",
-      "url": "https://open.spotify.com/track/6Nizs15mTJ4fpYmBW2MIV2"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
         "name": "No Me Pregunten Por \u00c9l",
         "url": "https://open.spotify.com/album/3tF7QyTPnYypPP9LXAG5cm"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 191146,
       "name": "No Me Pregunten Por \u00c9l",
       "url": "https://open.spotify.com/track/5N3UilPh2Nsk5tx1VeotXs"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
+        "name": "Que Te Cambie La Suerte",
+        "url": "https://open.spotify.com/album/2duxFBKEQTlUXKLwqM3fpZ"
+      },
+      "artists": [
+        {
+          "name": "Briseyda Solis",
+          "url": "https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi"
+        }
+      ],
+      "duration_ms": 207614,
+      "name": "Que Te Cambie La Suerte",
+      "url": "https://open.spotify.com/track/6Nizs15mTJ4fpYmBW2MIV2"
     },
     {
       "added_at": "2026-01-24 00:44:05",

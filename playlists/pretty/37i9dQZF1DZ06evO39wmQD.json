@@ -1,12 +1,12 @@
 {
   "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
-  "num_followers": 3285,
+  "num_followers": 3287,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXQLgAAAAABkVwylBJfkTvBLlFj0/3SP",
+  "snapshot_id": "aXVdAAAAAABXo27bQ7xPAvXD5EGw4gCl",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mighty Nein (Prime Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1QmjGCBvoF3o3VuXC4dHum"
+        "name": "The Little Mermaid Live!",
+        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
       },
       "artists": [
         {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
         },
         {
-          "name": "Habib",
-          "url": "https://open.spotify.com/artist/5s4yKsjfxsyBtIOCufluoU"
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         }
       ],
-      "duration_ms": 69293,
-      "name": "Toya, The Vivid Voice",
-      "url": "https://open.spotify.com/track/2FAzZRueBka2OXAcAW4Iky"
+      "duration_ms": 181089,
+      "name": "Under the Sea - From \"The Little Mermaid Live!\"",
+      "url": "https://open.spotify.com/track/0W3JkGTUP2XFCNCIeKDEOX"
     },
     {
       "added_at": null,
@@ -263,22 +263,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Little Mermaid Live!",
-        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
+        "name": "The Mighty Nein (Prime Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1QmjGCBvoF3o3VuXC4dHum"
       },
       "artists": [
         {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        },
-        {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Habib",
+          "url": "https://open.spotify.com/artist/5s4yKsjfxsyBtIOCufluoU"
         }
       ],
-      "duration_ms": 181089,
-      "name": "Under the Sea - From \"The Little Mermaid Live!\"",
-      "url": "https://open.spotify.com/track/0W3JkGTUP2XFCNCIeKDEOX"
+      "duration_ms": 69293,
+      "name": "Toya, The Vivid Voice",
+      "url": "https://open.spotify.com/track/2FAzZRueBka2OXAcAW4Iky"
     },
     {
       "added_at": null,

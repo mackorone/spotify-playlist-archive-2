@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Melissa Helser of Cageless Birds
 
-[Spotify](https://open.spotify.com/user/spotify) - 947,555 likes - 70 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 947,677 likes - 70 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

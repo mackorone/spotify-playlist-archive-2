@@ -2,7 +2,7 @@
 
 ### [PEGAO](https://open.spotify.com/playlist/37i9dQZF1DX1HCSfq0nSal)
 
-> Si está pegao, está aquí\. Feat\. Juseph, SAIKO
+> Si está pegao, está aquí\. Feat\. Clarent
 
 909 songs - 2 day 2 hr 11 min
 

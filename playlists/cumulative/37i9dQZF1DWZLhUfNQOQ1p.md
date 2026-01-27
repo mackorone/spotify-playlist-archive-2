@@ -4,7 +4,7 @@
 
 > Musica da ascoltare con un drink in mano 🥃
 
-449 songs - 1 day 6 hr 6 min
+450 songs - 1 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-05-14 | 2023-05-30 |
 | [Il fait chaud](https://open.spotify.com/track/1Rbs9bGBcx5AkcGYNqXhoO) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ) | [Un air de fête](https://open.spotify.com/album/6aC1mqsvVn1bDIwzCkg6xG) | 2:45 | 2023-05-14 | 2023-05-30 |
 | [Il Sogno \- House Mix](https://open.spotify.com/track/4dR5z9BXbCWYeicagTa93o) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Delicatronic](https://open.spotify.com/album/0y0WuBWXMPAFcdfl3ohav7) | 2:41 | 2024-12-19 |  |
+| [In Search of Yang](https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [Yatta!](https://open.spotify.com/album/14miHHQBXPPlt61Ax0SK2W) | 4:31 | 2026-01-23 |  |
 | [In The Rain](https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G) | [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [The Very Best Of The Dramatics](https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7) | 3:29 | 2024-05-19 | 2024-06-03 |
 | [Instant Need](https://open.spotify.com/track/6obKvh06VvBZP98oqU6YR7) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Time for a Change](https://open.spotify.com/album/5NPQ3KFdwLrZKuOebTAIzb) | 4:30 | 2023-05-30 |  |
 | [Io Lei e Tu](https://open.spotify.com/track/7pcC48RUsxkIupldSKSdsM) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Io Lei e Tu](https://open.spotify.com/album/3FzRrTX6IGSL7V9xebPvyz) | 3:18 | 2023-05-14 | 2023-05-30 |
@@ -240,7 +241,7 @@
 | [Long Train Running](https://open.spotify.com/track/0iDJKnBMKCT6hRI7P5pce7) | [Traks](https://open.spotify.com/artist/4wkojVzWMNyrH7cQ3GJp6K) | [Long Train Running](https://open.spotify.com/album/6KTBqS65ZPz6M9lw98RXVl) | 7:02 | 2024-05-19 | 2024-06-03 |
 | [Lost in Music](https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9) | [Maulisé](https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1) | [Lost in Music](https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG) | 3:28 | 2021-08-05 | 2023-05-31 |
 | [Lost Lake](https://open.spotify.com/track/0ZFrmkdubhTMeKduvJiLMW) | [Boomo](https://open.spotify.com/artist/7JI9PRTGOQVzLkWnbJtwo6) | [Lost Lake](https://open.spotify.com/album/5rr18WFY7nHLPCibLnL9O1) | 3:30 | 2021-08-05 | 2022-06-17 |
-| [Love Is Real](https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Is Real](https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X) | 3:17 | 2023-06-22 |  |
+| [Love Is Real](https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Is Real](https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X) | 3:17 | 2023-06-22 | 2026-01-27 |
 | [Love Me \(Don't Worry\)](https://open.spotify.com/track/6pi7j1y3hVecCmLsYwSLUx) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC), [Tullio](https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD) | [Love Me \(Don't Worry\)](https://open.spotify.com/album/1XCgs6q5reDYnPAC7pNF7l) | 2:42 | 2021-08-05 | 2023-05-31 |
 | [Love Me \- GAMPER & DADONI Remix](https://open.spotify.com/track/3EbedhPLDbDyRbdI0UoOh6) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc), [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J) | [Love Me \(GAMPER & DADONI Remix\)](https://open.spotify.com/album/5QRNgCoAaI2dlRMXnlKfz6) | 2:44 | 2021-08-05 | 2022-07-17 |
 | [Love You Tonight](https://open.spotify.com/track/5BbMKYskxFCCp7kacFBdRw) | [Martin Zandt](https://open.spotify.com/artist/3HVIhaXyOOKizvzcO9C1Mk) | [Love You Tonight](https://open.spotify.com/album/4oFF7Oh66kN9JT0DyjUW46) | 3:06 | 2021-08-05 | 2022-07-29 |

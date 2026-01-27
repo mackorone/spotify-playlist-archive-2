@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Memory One",
+        "url": "https://open.spotify.com/album/0avo6QxBGhdIPxc9PTn2sG"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263622,
+      "name": "Memory One",
+      "url": "https://open.spotify.com/track/0P50q9EN9dWgsevY832RR2"
+    },
+    {
+      "album": {
         "name": "Islands - Essential Einaudi (Deluxe Version)",
         "url": "https://open.spotify.com/album/0Evwg6qRqIUgGDTs82Gbea"
       },

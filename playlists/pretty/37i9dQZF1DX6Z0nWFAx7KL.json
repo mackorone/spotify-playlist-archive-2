@@ -1,6 +1,6 @@
 {
   "description": "easy breezy music \u2600\ufe0f\u263a\ufe0f",
-  "num_followers": 168568,
+  "num_followers": 168565,
   "original_name": "Chill Dance",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,26 @@
     {
       "added_at": "2026-01-19 08:52:47",
       "album": {
+        "name": "Rest Of My Life",
+        "url": "https://open.spotify.com/album/4LD7R2xePKw9LGjjIe8Urq"
+      },
+      "artists": [
+        {
+          "name": "Dela Utca",
+          "url": "https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X"
+        },
+        {
+          "name": "SEM",
+          "url": "https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Rest Of My Life",
+      "url": "https://open.spotify.com/track/4dq1p7vkO0hSUpcdfspqrK"
+    },
+    {
+      "added_at": "2026-01-19 08:52:47",
+      "album": {
         "name": "Alone With You",
         "url": "https://open.spotify.com/album/7Jq86ZKuOyQSRTEI0UzAhe"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 142956,
       "name": "Wait No More",
       "url": "https://open.spotify.com/track/0BNQCaSPM57wT2UsaoiyCC"
-    },
-    {
-      "added_at": "2026-01-19 08:52:47",
-      "album": {
-        "name": "Rest Of My Life",
-        "url": "https://open.spotify.com/album/4LD7R2xePKw9LGjjIe8Urq"
-      },
-      "artists": [
-        {
-          "name": "Dela Utca",
-          "url": "https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X"
-        },
-        {
-          "name": "SEM",
-          "url": "https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Rest Of My Life",
-      "url": "https://open.spotify.com/track/4dq1p7vkO0hSUpcdfspqrK"
     },
     {
       "added_at": "2026-01-19 08:52:47",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-01-19 08:52:47",
       "album": {
-        "name": "Trampolines",
-        "url": "https://open.spotify.com/album/6P3wd3aFVwuwF3tYbzCskk"
-      },
-      "artists": [
-        {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "The Sun Will Come Again",
-      "url": "https://open.spotify.com/track/77sqWKCdxGlxjEmJn3fg9F"
-    },
-    {
-      "added_at": "2026-01-19 08:52:47",
-      "album": {
         "name": "Thinking About Us",
         "url": "https://open.spotify.com/album/3lQeHi7NWwG79z3YPBS23V"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 173500,
       "name": "Thinking About Us",
       "url": "https://open.spotify.com/track/1mgUDuwZU1tXbnWKKALx6m"
+    },
+    {
+      "added_at": "2026-01-19 08:52:47",
+      "album": {
+        "name": "Trampolines",
+        "url": "https://open.spotify.com/album/6P3wd3aFVwuwF3tYbzCskk"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "The Sun Will Come Again",
+      "url": "https://open.spotify.com/track/77sqWKCdxGlxjEmJn3fg9F"
     },
     {
       "added_at": "2026-01-19 08:52:47",
@@ -635,26 +635,6 @@
     {
       "added_at": "2026-01-19 08:52:47",
       "album": {
-        "name": "Electric",
-        "url": "https://open.spotify.com/album/2UNpZByJYcRTCNRSeUqst0"
-      },
-      "artists": [
-        {
-          "name": "Dela Utca",
-          "url": "https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X"
-        },
-        {
-          "name": "chameleon",
-          "url": "https://open.spotify.com/artist/5H61giTnrSTMQd1Pl0tKNB"
-        }
-      ],
-      "duration_ms": 133565,
-      "name": "Electric",
-      "url": "https://open.spotify.com/track/51FFmeDLNlJUkueFkjtzxY"
-    },
-    {
-      "added_at": "2026-01-19 08:52:47",
-      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/2gfGTqZZLEmn9ATxYef7Xa"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 138305,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4JZ6Elf98LpgS4zgK4vGqT"
+    },
+    {
+      "added_at": "2026-01-19 08:52:47",
+      "album": {
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/2UNpZByJYcRTCNRSeUqst0"
+      },
+      "artists": [
+        {
+          "name": "Dela Utca",
+          "url": "https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X"
+        },
+        {
+          "name": "chameleon",
+          "url": "https://open.spotify.com/artist/5H61giTnrSTMQd1Pl0tKNB"
+        }
+      ],
+      "duration_ms": 133565,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/51FFmeDLNlJUkueFkjtzxY"
     },
     {
       "added_at": "2026-01-19 08:52:47",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-01-19 08:52:47",
       "album": {
+        "name": "Locked In Paradise",
+        "url": "https://open.spotify.com/album/3ruNkQX7OX7lXxhkiFiGzd"
+      },
+      "artists": [
+        {
+          "name": "KNJA",
+          "url": "https://open.spotify.com/artist/74hLdAwpDYOY02e9vw71f6"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Locked In Paradise",
+      "url": "https://open.spotify.com/track/6z6Wyf1By6TZEXs5aBiU9U"
+    },
+    {
+      "added_at": "2026-01-19 08:52:47",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/59T2jCjBGnIFlizQggbrSd"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 152000,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1KO6Kk23aYLrkmaDIjA4jf"
-    },
-    {
-      "added_at": "2026-01-19 08:52:47",
-      "album": {
-        "name": "Locked In Paradise",
-        "url": "https://open.spotify.com/album/3ruNkQX7OX7lXxhkiFiGzd"
-      },
-      "artists": [
-        {
-          "name": "KNJA",
-          "url": "https://open.spotify.com/artist/74hLdAwpDYOY02e9vw71f6"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Locked In Paradise",
-      "url": "https://open.spotify.com/track/6z6Wyf1By6TZEXs5aBiU9U"
     },
     {
       "added_at": "2026-01-19 08:52:47",
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-01-19 08:52:47",
       "album": {
+        "name": "Where You Are",
+        "url": "https://open.spotify.com/album/4N5E0IH90NAZbxKVc1n5Sb"
+      },
+      "artists": [
+        {
+          "name": "Jochem Hamerling",
+          "url": "https://open.spotify.com/artist/0NmoVS5ceviB7ewXjElO2p"
+        }
+      ],
+      "duration_ms": 148064,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/1E1ZsFKUzgfOfGsIpkbpSo"
+    },
+    {
+      "added_at": "2026-01-19 08:52:47",
+      "album": {
         "name": "Sleeping Satellite",
         "url": "https://open.spotify.com/album/3Vbxs6cu8QJus0XeXFAmfY"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 175200,
       "name": "Sleeping Satellite",
       "url": "https://open.spotify.com/track/6CWPaj0n9mCcYtuSY8mHcT"
-    },
-    {
-      "added_at": "2026-01-19 08:52:47",
-      "album": {
-        "name": "Where You Are",
-        "url": "https://open.spotify.com/album/4N5E0IH90NAZbxKVc1n5Sb"
-      },
-      "artists": [
-        {
-          "name": "Jochem Hamerling",
-          "url": "https://open.spotify.com/artist/0NmoVS5ceviB7ewXjElO2p"
-        }
-      ],
-      "duration_ms": 148064,
-      "name": "Where You Are",
-      "url": "https://open.spotify.com/track/1E1ZsFKUzgfOfGsIpkbpSo"
     },
     {
       "added_at": "2026-01-19 08:52:47",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-01-19 08:52:47",
       "album": {
-        "name": "Radiant EP",
-        "url": "https://open.spotify.com/album/43ZuCqtg7zu8dhpvZTJVf2"
-      },
-      "artists": [
-        {
-          "name": "Marc Brauner",
-          "url": "https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "It's Alright - Original Mix",
-      "url": "https://open.spotify.com/track/3ABPEz0ASeocrzXOHZix5D"
-    },
-    {
-      "added_at": "2026-01-19 08:52:47",
-      "album": {
         "name": "You Have To Have A Goal",
         "url": "https://open.spotify.com/album/5lOT9PhbKreAqABpYg8mVX"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 133924,
       "name": "You Have To Have A Goal",
       "url": "https://open.spotify.com/track/1C7Vnu1mLDXALJyDwGOW1E"
+    },
+    {
+      "added_at": "2026-01-19 08:52:47",
+      "album": {
+        "name": "Radiant EP",
+        "url": "https://open.spotify.com/album/43ZuCqtg7zu8dhpvZTJVf2"
+      },
+      "artists": [
+        {
+          "name": "Marc Brauner",
+          "url": "https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "It's Alright - Original Mix",
+      "url": "https://open.spotify.com/track/3ABPEz0ASeocrzXOHZix5D"
     },
     {
       "added_at": "2026-01-19 08:52:47",
@@ -1211,22 +1211,18 @@
     {
       "added_at": "2026-01-19 08:52:47",
       "album": {
-        "name": "Magnetic",
-        "url": "https://open.spotify.com/album/2GmPo1t1eRB47964nvvJAl"
+        "name": "Taking It Slowly",
+        "url": "https://open.spotify.com/album/5dnZeCPifLReZQrKMtRBbc"
       },
       "artists": [
         {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        },
-        {
-          "name": "Belle Doron",
-          "url": "https://open.spotify.com/artist/0vG28tQeh1adA0xHmdUTVQ"
+          "name": "Janieck",
+          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
         }
       ],
-      "duration_ms": 182862,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/4HEggPhcyKQGzHLsgfs9my"
+      "duration_ms": 154909,
+      "name": "Taking It Slowly",
+      "url": "https://open.spotify.com/track/37hjpeTAswbMzp978oGBg5"
     }
   ],
   "unique_name": "Chill Dance",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: ALEXSUCKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,093 likes - 107 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,149 likes - 107 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 103 | [Picto](https://open.spotify.com/track/4WcvzX139qMLYTlPcCUoAn) | [Ulrika Spacek](https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu) | [Picto](https://open.spotify.com/album/3HF6TUNZTfQ9Sv6lprcVfN) | 5:09 |
 | 104 | [Ur Girlfriend’s a Lawyer](https://open.spotify.com/track/0lD4Mt5cjFM6ul4NxxgFau) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Ur Girlfriend’s a Lawyer](https://open.spotify.com/album/0552jIKdLEVqPviE5jIs22) | 2:59 |
 | 105 | [Scars](https://open.spotify.com/track/1XxbCCDX1NtoajhOONMtEj) | [Heavywave](https://open.spotify.com/artist/2BJRTglavnA0W6OI2zLapV) | [Scars](https://open.spotify.com/album/18EkNu9avHekSyygEtqfl9) | 5:00 |
-| 106 | [I See Big Changes](https://open.spotify.com/track/6Q93EHUI6mdVSbYrAXzclZ) | [Evita Polidoro](https://open.spotify.com/artist/6lT4Zkd7Ade51RwbRsONaX), [Lee Ranaldo](https://open.spotify.com/artist/4tXPSo0qk91VMP3wFxL0Fo) | [comelecosechenonvogliofare + i see big changes](https://open.spotify.com/album/5Q9jGY9paif2vzZBIJPTxn) | 2:53 |
+| 106 | [i see big changes](https://open.spotify.com/track/6Q93EHUI6mdVSbYrAXzclZ) | [Evita Polidoro](https://open.spotify.com/artist/6lT4Zkd7Ade51RwbRsONaX), [Lee Ranaldo](https://open.spotify.com/artist/4tXPSo0qk91VMP3wFxL0Fo) | [comelecosechenonvogliofare + i see big changes](https://open.spotify.com/album/5Q9jGY9paif2vzZBIJPTxn) | 2:53 |
 | 107 | [Thunder](https://open.spotify.com/track/5JAep5rCtwuk3LjYfKMCdX) | [The Scurbats](https://open.spotify.com/artist/4d8AvpY3Yxd7OitgKNnqGw) | [Thunder](https://open.spotify.com/album/5agN1ThYCdAW5PKIWCK8xx) | 3:40 |
 
 Snapshot ID: `AAAAAOOKk6eqvvRUttAtngdfQrsomknM`

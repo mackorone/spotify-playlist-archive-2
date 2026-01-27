@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Netherlands.
 
-750 songs - 1 day 14 hr 37 min
+752 songs - 1 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Better](https://open.spotify.com/track/6oUgmZK0McW4706SLJlfDh) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Manta](https://open.spotify.com/artist/6AGlSGZh0z7CwUXEnFYXyJ) | [Better](https://open.spotify.com/album/5yHLIte1CKJLMMjOrexXqX) | 3:58 | 2025-09-27 | 2025-10-05 |
 | [Beuk De Ballen Uit De Boom](https://open.spotify.com/track/7i96Jqt7qSIvlwyYgHQm68) | [Snollebollekes](https://open.spotify.com/artist/2DbTbUZFWbi3U3QzgJqU0V) | [Total Loss](https://open.spotify.com/album/6uTi5j5ePZql5LU4fsr82U) | 2:36 | 2025-12-18 | 2026-01-03 |
 | [Bienderen](https://open.spotify.com/track/37qT7EYqoTjDNH5hVUzWsR) | [Lil Saint](https://open.spotify.com/artist/32nKrlbSIPvgVTcd4LKJor) | [Wereld Van Sosa 2](https://open.spotify.com/album/0QABh43APLzaww6N0igdYp) | 2:47 | 2025-11-18 | 2025-12-21 |
-| [Big Guy \- from "The SpongeBob Movie: Search for SquarePants”](https://open.spotify.com/track/3HiCAjMaPfM4vnbhLhADBp) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Big Guy \(from "The SpongeBob Movie: Search for SquarePants”\)](https://open.spotify.com/album/7aQIxnvryoIKLMZ8wsydpz) | 2:30 | 2025-12-22 |  |
+| [Big Guy \- from "The SpongeBob Movie: Search for SquarePants”](https://open.spotify.com/track/3HiCAjMaPfM4vnbhLhADBp) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Big Guy \(from "The SpongeBob Movie: Search for SquarePants”\)](https://open.spotify.com/album/7aQIxnvryoIKLMZ8wsydpz) | 2:30 | 2025-12-22 | 2026-01-27 |
 | [Bij Jou Zijn](https://open.spotify.com/track/2U1eZ2q36yoKktda6NIqrH) | [Roy van Nuland](https://open.spotify.com/artist/0rnA333PgkP9joLU7KM3qy) | [Bij Jou Zijn](https://open.spotify.com/album/325ZEU60AqpElp1J9LyrOJ) | 2:13 | 2025-08-05 | 2025-08-27 |
 | [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 | 2025-10-28 | 2025-11-05 |
 | [BKJN](https://open.spotify.com/track/653ZGubEVdZzrjVDVTYWCo) | [Lekkerfaces](https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349) | [BKJN](https://open.spotify.com/album/7qicoPdBSFqDoc1Za3Lwmv) | 2:18 | 2025-12-30 | 2026-01-15 |
@@ -341,6 +341,7 @@
 | [Juiste Tijd](https://open.spotify.com/track/4ofupeTg5BvtffEfHik3bw) | [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [Juiste Tijd](https://open.spotify.com/album/4GbfSuA9en9lo3SnzVYtCK) | 2:25 | 2025-10-07 | 2025-10-14 |
 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-29 | 2025-09-30 |
 | [Jus d’Orange](https://open.spotify.com/track/0sNlD2ghk6jQX0vhhMSnIc) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [Jus d’Orange](https://open.spotify.com/album/2eg03f8XRz79sEFoSrv44v) | 4:24 | 2025-09-16 | 2025-09-19 |
+| [Just The Way You Are](https://open.spotify.com/track/2kJo0J02qdTsD1omMouIro) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw) | [Star 2008](https://open.spotify.com/album/5y263lsrcaKgIF6rWV3uXX) | 3:30 | 2026-01-26 |  |
 | [Kan Je Me Zien](https://open.spotify.com/track/1jKuRFbCCTkzSC119cXcLd) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Kan Je Me Zien](https://open.spotify.com/album/2IZ7K8sB1gKaGkUswemFlU) | 3:27 | 2025-09-16 | 2025-11-10 |
 | [Kan Je Me Zien](https://open.spotify.com/track/64AHcDRBv2AvS3NZ6BkIk3) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Kan Je Me Zien](https://open.spotify.com/album/0z0NYIBkyWdg7JbEy3TyNT) | 3:27 | 2025-10-15 | 2025-10-31 |
 | [Kaolo Beat \- Ruthless & The Darkraver Remix](https://open.spotify.com/track/0UdqFFxBcDih7f75sLnj5n) | [Freddy Moreira](https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [Ruthless](https://open.spotify.com/artist/0xMCuSqF7uPefaatWnEx7F), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv) | [Kaolo Beat \(Ruthless & The Darkraver Remix\)](https://open.spotify.com/album/6kmMj4iWhG6CiGY5QKDJtK) | 1:39 | 2025-08-17 | 2025-08-19 |
@@ -621,6 +622,7 @@
 | [Thong Song](https://open.spotify.com/track/7n8k3HG3oMuvrH4ZDTgG1l) | [Unjaps](https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi) | [Thong Song](https://open.spotify.com/album/0eQlpC6WQL54WMvWz8LmQu) | 3:00 | 2025-12-31 | 2026-01-02 |
 | [Thong Song](https://open.spotify.com/track/4V66RQKxLhRdAFKJgTCJFa) | [Unjaps](https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi), [PhantomGroove](https://open.spotify.com/artist/0DBQWShpauFZ7rKL7Y7mFq) | [Thong Song](https://open.spotify.com/album/14fp5d210YyURy64na6bpe) | 3:00 | 2026-01-01 | 2026-01-21 |
 | [Thong Song x Poker Face](https://open.spotify.com/track/07K8skqONaGHHXb8roY4u3) | [Momba$](https://open.spotify.com/artist/0TNArpRa3fnGeMkBKceLnR) | [Thong Song x Poker Face](https://open.spotify.com/album/5LoqqNBTxOpaTveOF5mv6X) | 3:17 | 2026-01-20 | 2026-01-26 |
+| [Thong Song X Poker Face](https://open.spotify.com/track/74hIKHOwoTdumgiTHm1lzd) | [Orion7](https://open.spotify.com/artist/5xq85p5vUAcHW9qjlJ2Hle), [DJ RITA](https://open.spotify.com/artist/0kDDAQOW7U6RtZCT88dNGd) | [Thong Song X Poker Face](https://open.spotify.com/album/55m1UMV6W7L0RAlo49IlcT) | 3:17 | 2026-01-26 |  |
 | [Thootie \(feat\. Tokischa\)](https://open.spotify.com/track/6mHIYI9coRzaIlqE6rPNN5) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Thootie \(feat\. Tokischa\)](https://open.spotify.com/album/0TodY9XIuBX1k3DUhigXuG) | 2:31 | 2025-12-23 | 2026-01-01 |
 | [Through My Soul](https://open.spotify.com/track/7mSydMVoNUM2N3UzZvmeoC) | [Enlly Blue](https://open.spotify.com/artist/28W1qq34TByUcLOtkceRxp) | [Shadows & Soul](https://open.spotify.com/album/3p4PFOpeBSQ8A1sNGqtX2O) | 3:30 | 2025-09-19 | 2025-09-30 |
 | [Through My Soul](https://open.spotify.com/track/7Gw9le1yw6MTSzqugtc6E0) | [Enlly Blue](https://open.spotify.com/artist/28W1qq34TByUcLOtkceRxp) | [Shadows & Soul](https://open.spotify.com/album/1PihbFD5ixzRI790bozyzx) | 3:30 | 2025-09-29 | 2025-11-01 |

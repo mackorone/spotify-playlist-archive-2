@@ -1,15 +1,15 @@
 {
   "description": "Altijd frisse hits! Cover: Qlas",
-  "num_followers": 34878,
+  "num_followers": 34875,
   "original_name": "Fresh Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI4nYnnVShvptBHGTgdbtRvkZL/A",
+  "snapshot_id": "AAAAAKNxIco7wce0+PJsvVKMB1rWYe4t",
   "tracks": [
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "Waar Was Je?",
         "url": "https://open.spotify.com/album/4kEeqiqqWBO8Uh1KSInTeC"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7GLBgrDPai2M459NKWMAMf"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "Aperture",
         "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "CD van mij",
         "url": "https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "Tot Het Eind Van Mij",
         "url": "https://open.spotify.com/album/5j5NTP6nC9pSNzmxkyaARU"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/1JA5D5dsSgVn9cSr7ogzfC"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "Harder Dan Ik Spenden Kan",
         "url": "https://open.spotify.com/album/4XBRKKStjsSQpRzdtm2Oe6"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/4M5df297Jy9j5eMb5smzNz"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "Droom Jij Over Mij Vannacht",
         "url": "https://open.spotify.com/album/7F3QzxZYm1dXmhjHctzsDy"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/4VqkzNrCmkv31nd7POoHWL"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "NOW OR NEVER",
         "url": "https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM"
@@ -149,7 +149,23 @@
       "url": "https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/42tGduNh3nIT5NGsUDqcKY"
+      },
+      "artists": [
+        {
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        }
+      ],
+      "duration_ms": 170445,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/0fy5enlfWgIP2ojLZjUcwA"
+    },
+    {
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "White Keys",
         "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
@@ -165,7 +181,27 @@
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
+      "album": {
+        "name": "Reset",
+        "url": "https://open.spotify.com/album/01YPoXB22upTPnELbZ1UBw"
+      },
+      "artists": [
+        {
+          "name": "KA",
+          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
+        },
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Nachten Wakker",
+      "url": "https://open.spotify.com/track/0aF8AteBjXo1mh3Yrc8ge4"
+    },
+    {
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "girl, get up. (feat. SZA)",
         "url": "https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS"
@@ -185,7 +221,7 @@
       "url": "https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "NO DAYS OFF",
         "url": "https://open.spotify.com/album/2SXwIw8beU1KHJvIZ266Gc"
@@ -205,7 +241,7 @@
       "url": "https://open.spotify.com/track/2wNNAvXTcn1CvjcBdD32bB"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "Dans Gewoon",
         "url": "https://open.spotify.com/album/3PvUWA9XY1FQhKikmc5NK6"
@@ -229,7 +265,7 @@
       "url": "https://open.spotify.com/track/3YrzQVu7wdv1d5MO2DvVdl"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "De Ene Hand Wast De Ander (Deluxe)",
         "url": "https://open.spotify.com/album/4kiNumKo95FBrtwmIC6uF5"
@@ -245,7 +281,7 @@
       "url": "https://open.spotify.com/track/1jP8mOe5joQg5isHUTukcg"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "Bad Bitches Luisteren Def",
         "url": "https://open.spotify.com/album/28dmgMrhKpJmGNPlfvcaOI"
@@ -261,7 +297,31 @@
       "url": "https://open.spotify.com/track/2EIyJASJ9P8cVUV3J33mc9"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
+      "album": {
+        "name": "Bare Minimum (Starboy)",
+        "url": "https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Bare Minimum (Starboy)",
+      "url": "https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR"
+    },
+    {
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "SO CLOSE TO WHAT??? (deluxe)",
         "url": "https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ"
@@ -277,7 +337,7 @@
       "url": "https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "Winterbanden",
         "url": "https://open.spotify.com/album/1iGu5Gm0mCfwJ1eO6chiza"
@@ -293,7 +353,7 @@
       "url": "https://open.spotify.com/track/0S1jSwK33ilIaRwmPlWnvV"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "Afterparty",
         "url": "https://open.spotify.com/album/0G2EyFZBx9YTCx1BAOknTU"
@@ -313,7 +373,7 @@
       "url": "https://open.spotify.com/track/3DsLjf29C93KN8Fu9rlrHW"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "Private Party",
         "url": "https://open.spotify.com/album/0YhnjhkoSSVrXu0jphHtuI"
@@ -329,7 +389,7 @@
       "url": "https://open.spotify.com/track/53fXpvHCU7XZLs0mqCIDNR"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "Echte Liefde Is Te Koop - Spotify Singles",
         "url": "https://open.spotify.com/album/64rWacyCKAYaSne3DqIUS9"
@@ -345,7 +405,7 @@
       "url": "https://open.spotify.com/track/5lTy97S8T5KglpeEKpCuKE"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "She",
         "url": "https://open.spotify.com/album/5ctwYNecOlD65X81p0RHhl"
@@ -361,7 +421,7 @@
       "url": "https://open.spotify.com/track/4nidpqxJxWkpI1J1cQYIjX"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "If Not Now Then When",
         "url": "https://open.spotify.com/album/4BK0XMjnJQfMWgQWgyii8b"
@@ -377,7 +437,7 @@
       "url": "https://open.spotify.com/track/4bVs6e8fpoS9sVPDHp7oo9"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "What You Saying",
         "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
@@ -393,7 +453,7 @@
       "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "Last Goodbyes",
         "url": "https://open.spotify.com/album/7wpFdJabvBuM8z934d1nuk"
@@ -409,7 +469,7 @@
       "url": "https://open.spotify.com/track/6b9lBTcHz4nZzBPJiE1XDM"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
@@ -425,7 +485,7 @@
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "Te Laat",
         "url": "https://open.spotify.com/album/6yiJCRKHqOcVrPFfBh2wqf"
@@ -445,7 +505,7 @@
       "url": "https://open.spotify.com/track/1QQAb1GolryJk3F9tvf7mY"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "BEND OVA",
         "url": "https://open.spotify.com/album/5tOsyH5JHocaAJBojCyCNL"
@@ -465,7 +525,7 @@
       "url": "https://open.spotify.com/track/05wK2fpzjb29klShjaamxJ"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "Kroegentocht",
         "url": "https://open.spotify.com/album/1wl7El00tpdFrdCqC8kPMP"
@@ -489,7 +549,7 @@
       "url": "https://open.spotify.com/track/4La3UzkRZnOUmF4b5Dfton"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "Talk of the Town",
         "url": "https://open.spotify.com/album/7qjrNDFT178bazNZiASRBU"
@@ -513,7 +573,7 @@
       "url": "https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "MON B\u00c9B\u00c9",
         "url": "https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8"
@@ -529,23 +589,27 @@
       "url": "https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/42tGduNh3nIT5NGsUDqcKY"
+        "name": "OMG YES",
+        "url": "https://open.spotify.com/album/5KibFCQ6DTeayb6N11EUSc"
       },
       "artists": [
         {
-          "name": "Douwe Bob",
-          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+          "name": "Milolaathetlukken",
+          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
+        },
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
         }
       ],
-      "duration_ms": 170445,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/0fy5enlfWgIP2ojLZjUcwA"
+      "duration_ms": 154029,
+      "name": "HDP",
+      "url": "https://open.spotify.com/track/3t85nUPCmSq3O4bJXK0qhT"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "Hey Son",
         "url": "https://open.spotify.com/album/6wKpxhTWl6HtdreIFPSbpq"
@@ -573,7 +637,7 @@
       "url": "https://open.spotify.com/track/0OiNRfziXYdxP5I3ysqeuz"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "SE9 Part 1",
         "url": "https://open.spotify.com/album/4Wz7yb00TiEUqMrd3gzVtz"
@@ -589,7 +653,7 @@
       "url": "https://open.spotify.com/track/2UfNSV1Fwz4gGJf42ZX1Pu"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "You Stole The Show",
         "url": "https://open.spotify.com/album/1K7SMm8IvVx0hT40q1tfTh"
@@ -605,71 +669,23 @@
       "url": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
-        "name": "silent treatment",
-        "url": "https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt"
+        "name": "Dark Before The Dawn",
+        "url": "https://open.spotify.com/album/5IDysKWEasAmRL0GtLQaLb"
       },
       "artists": [
         {
-          "name": "Freya Skye",
-          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+          "name": "Son Mieux",
+          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
         }
       ],
-      "duration_ms": 142030,
-      "name": "silent treatment",
-      "url": "https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN"
+      "duration_ms": 215584,
+      "name": "Dark Before The Dawn",
+      "url": "https://open.spotify.com/track/7p1zQqPlC3gju243x8BTYZ"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
-      "album": {
-        "name": "Meisje Uit De Klas",
-        "url": "https://open.spotify.com/album/6Ae8zbMgk5k3GByZV0sUP3"
-      },
-      "artists": [
-        {
-          "name": "Emma Heesters",
-          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
-        }
-      ],
-      "duration_ms": 190443,
-      "name": "Meisje Uit De Klas",
-      "url": "https://open.spotify.com/track/03Grq5CXpufuCb15u4gAe5"
-    },
-    {
-      "added_at": "2026-01-23 00:00:35",
-      "album": {
-        "name": "FEAR",
-        "url": "https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 268519,
-      "name": "FEAR",
-      "url": "https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz"
-    },
-    {
-      "added_at": "2026-01-23 00:00:35",
-      "album": {
-        "name": "West End Girl",
-        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 241693,
-      "name": "Pussy Palace",
-      "url": "https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO"
-    },
-    {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "Que Pasa",
         "url": "https://open.spotify.com/album/6SQv5uvddG0nI0kiw58QaE"
@@ -693,7 +709,55 @@
       "url": "https://open.spotify.com/track/0Py8IrDCJMTeor03YPe1ln"
     },
     {
-      "added_at": "2026-01-23 00:00:35",
+      "added_at": "2026-01-26 13:00:01",
+      "album": {
+        "name": "silent treatment",
+        "url": "https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        }
+      ],
+      "duration_ms": 142030,
+      "name": "silent treatment",
+      "url": "https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN"
+    },
+    {
+      "added_at": "2026-01-26 13:00:01",
+      "album": {
+        "name": "Meisje Uit De Klas",
+        "url": "https://open.spotify.com/album/6Ae8zbMgk5k3GByZV0sUP3"
+      },
+      "artists": [
+        {
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+        }
+      ],
+      "duration_ms": 190443,
+      "name": "Meisje Uit De Klas",
+      "url": "https://open.spotify.com/track/03Grq5CXpufuCb15u4gAe5"
+    },
+    {
+      "added_at": "2026-01-26 13:00:01",
+      "album": {
+        "name": "FEAR",
+        "url": "https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "duration_ms": 268519,
+      "name": "FEAR",
+      "url": "https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz"
+    },
+    {
+      "added_at": "2026-01-26 13:00:01",
       "album": {
         "name": "First Rodeo",
         "url": "https://open.spotify.com/album/0tMYQo9n5L7w1uRknqg7Qj"
@@ -707,62 +771,6 @@
       "duration_ms": 223985,
       "name": "Call You Home",
       "url": "https://open.spotify.com/track/6asKWJ9heYSpUUlN77lgnc"
-    },
-    {
-      "added_at": "2026-01-23 00:00:35",
-      "album": {
-        "name": "1 Dag",
-        "url": "https://open.spotify.com/album/1SIgkWVynAWhGZ1s5wyME6"
-      },
-      "artists": [
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        },
-        {
-          "name": "Re-Play",
-          "url": "https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd"
-        }
-      ],
-      "duration_ms": 204474,
-      "name": "1 Dag",
-      "url": "https://open.spotify.com/track/4zQh8F0jxyUsKBdKjVvy2x"
-    },
-    {
-      "added_at": "2026-01-23 00:00:35",
-      "album": {
-        "name": "OMG YES",
-        "url": "https://open.spotify.com/album/5KibFCQ6DTeayb6N11EUSc"
-      },
-      "artists": [
-        {
-          "name": "Milolaathetlukken",
-          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
-        },
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        }
-      ],
-      "duration_ms": 154029,
-      "name": "HDP",
-      "url": "https://open.spotify.com/track/3t85nUPCmSq3O4bJXK0qhT"
-    },
-    {
-      "added_at": "2026-01-23 00:00:35",
-      "album": {
-        "name": "bittersweet",
-        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 202795,
-      "name": "bittersweet",
-      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
     }
   ],
   "unique_name": "Fresh Hits",

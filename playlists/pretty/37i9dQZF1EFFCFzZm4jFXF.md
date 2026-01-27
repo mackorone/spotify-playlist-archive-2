@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102 likes - 124 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 103 likes - 124 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,11 +126,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 116 | [Before You](https://open.spotify.com/track/5PmctfM9V5l4oWj95mUGYB) | [Anna Pancaldi](https://open.spotify.com/artist/6om1oTl0iSZGBRs52bJEqI) | [Before You](https://open.spotify.com/album/6FcWwxN9S3rYzCbXNcWDgu) | 4:06 |
 | 117 | [Safety Net](https://open.spotify.com/track/2yTeagHV2X462W98YqMc4f) | [Ilona](https://open.spotify.com/artist/3hZb8S0Th3L3DlmMHZRNyM) | [Safety Net](https://open.spotify.com/album/03uCMCwmveI9lCeAhIEElX) | 4:38 |
 | 118 | [Scars](https://open.spotify.com/track/2SJv1I0qy3IGEERTcqRg2E) | [Bailey M](https://open.spotify.com/artist/1TIhisrXfEN9NqdalMWRn3) | [Scars](https://open.spotify.com/album/23hXENovDVDuaMyn3iDwFT) | 2:35 |
-| 119 | [Your Twilight](https://open.spotify.com/track/7HsrGGDmZrMfnbRyA2XMkr) | [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Your Twilight](https://open.spotify.com/album/5sIMic3WTMBZCwVGinynif) | 2:50 |
-| 120 | [Bury Me](https://open.spotify.com/track/2KJctb7dOOZtYPpNVeXhSx) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [The Fallout](https://open.spotify.com/album/47SL3rIIK8GLwpBJgJkGJD) | 3:38 |
-| 121 | [Enemy](https://open.spotify.com/track/68zwz4GQzRqu4ShtVRQlJk) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [The Fallout](https://open.spotify.com/album/47SL3rIIK8GLwpBJgJkGJD) | 2:34 |
+| 119 | [Bury Me](https://open.spotify.com/track/2KJctb7dOOZtYPpNVeXhSx) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [The Fallout](https://open.spotify.com/album/47SL3rIIK8GLwpBJgJkGJD) | 3:38 |
+| 120 | [Enemy](https://open.spotify.com/track/68zwz4GQzRqu4ShtVRQlJk) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [The Fallout](https://open.spotify.com/album/47SL3rIIK8GLwpBJgJkGJD) | 2:34 |
+| 121 | [Your Twilight](https://open.spotify.com/track/7HsrGGDmZrMfnbRyA2XMkr) | [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Your Twilight](https://open.spotify.com/album/5sIMic3WTMBZCwVGinynif) | 2:50 |
 | 122 | [Bring You Back To Life](https://open.spotify.com/track/41OUAgxqe5ZbmujCERvsVK) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:46 |
 | 123 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 124 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `AcH7CgAAAABe+H44ImN5hH6zmLKnYLQh`
+Snapshot ID: `AcIAqgAAAADvALAM5O9pt3Za51pOMlDt`

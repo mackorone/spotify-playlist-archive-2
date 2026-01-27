@@ -1,12 +1,12 @@
 {
   "description": "Turn this playlist all the way up! Featuring, JaYy Wick, Money Man, Blxst &amp; Mozzy.",
-  "num_followers": 34264,
+  "num_followers": 34256,
   "original_name": "All The Way Up",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAb6xicY0vD9XjR7oMV5qWZHK2It4uh",
+  "snapshot_id": "AAAb9JOxEOLFP0PUzSpiHc8ZD5zruUO9",
   "tracks": [
     {
       "added_at": "2026-01-12 18:13:08",
@@ -25,10 +25,10 @@
       "url": "https://open.spotify.com/track/5QhE6GG1i6tnLaPSv203Dx"
     },
     {
-      "added_at": "2026-01-21 00:39:43",
+      "added_at": "2026-01-26 19:03:14",
       "album": {
-        "name": "Jogodo",
-        "url": "https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx"
+        "name": "REAL, Vol. 1",
+        "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
       },
       "artists": [
         {
@@ -40,9 +40,25 @@
           "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 188861,
-      "name": "Jogodo",
-      "url": "https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62"
+      "duration_ms": 145492,
+      "name": "Turbulence",
+      "url": "https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK"
+    },
+    {
+      "added_at": "2026-01-26 19:55:56",
+      "album": {
+        "name": "LET 'EM KNOW",
+        "url": "https://open.spotify.com/album/7MmMz1SDFpAustlXwduMFa"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 179924,
+      "name": "LET 'EM KNOW",
+      "url": "https://open.spotify.com/track/6AXf9n3qazR1bE1dngnqxi"
     },
     {
       "added_at": "2026-01-21 00:40:04",
@@ -67,6 +83,90 @@
       "duration_ms": 160391,
       "name": "Fake Jeezy",
       "url": "https://open.spotify.com/track/4fhgwk5dCgOZUh8LyxBk9r"
+    },
+    {
+      "added_at": "2026-01-26 19:03:23",
+      "album": {
+        "name": "YAYA (Remix)",
+        "url": "https://open.spotify.com/album/6AO2thq0bHuVb984p1DsYJ"
+      },
+      "artists": [
+        {
+          "name": "Compton Av",
+          "url": "https://open.spotify.com/artist/4ifWa8uYjvbxB4ouf9XbW5"
+        },
+        {
+          "name": "Steelz",
+          "url": "https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        }
+      ],
+      "duration_ms": 194693,
+      "name": "YAYA - Remix",
+      "url": "https://open.spotify.com/track/6qHrLC17ZY2ZA6b7udhPps"
+    },
+    {
+      "added_at": "2026-01-26 19:04:07",
+      "album": {
+        "name": "Out The Box",
+        "url": "https://open.spotify.com/album/3tJqpSeV4fXw2wZS1Yc28S"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 162804,
+      "name": "Out The Box",
+      "url": "https://open.spotify.com/track/2E8AxnMhRi71GN6eLS2HEq"
+    },
+    {
+      "added_at": "2026-01-21 00:39:43",
+      "album": {
+        "name": "Jogodo",
+        "url": "https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 188861,
+      "name": "Jogodo",
+      "url": "https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62"
+    },
+    {
+      "added_at": "2026-01-26 19:04:18",
+      "album": {
+        "name": "Better (feat. Stunna Girl)",
+        "url": "https://open.spotify.com/album/2MPcIDppCYsMxt01XLuYM3"
+      },
+      "artists": [
+        {
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+        },
+        {
+          "name": "Stunna Girl",
+          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
+        }
+      ],
+      "duration_ms": 120048,
+      "name": "Better (feat. Stunna Girl)",
+      "url": "https://open.spotify.com/track/55Ro0MUVIKVND18vKg7EF8"
     },
     {
       "added_at": "2026-01-21 00:40:11",

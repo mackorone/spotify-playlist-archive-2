@@ -1,15 +1,39 @@
 {
   "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Ivan Greko, Michalis Karagkounis, Sin Laurent",
-  "num_followers": 285992,
+  "num_followers": 285968,
   "original_name": "Hot Hits Greece",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFMSsikdZtedzCJ2mwHsngDEVsP4",
+  "snapshot_id": "AAAAAFA8ZnkpdPR+yCOj9RUiZW+MnK70",
   "tracks": [
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
+      "album": {
+        "name": "WHY ALWAYS ME?",
+        "url": "https://open.spotify.com/album/0hkVhoK0vtaJhRoxBQ6Xca"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "CHEKKIS",
+          "url": "https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/6AICejWzqrCsNSi6vBabb5"
+    },
+    {
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "DIO KARDIES",
         "url": "https://open.spotify.com/album/6IhmTZhE9F91ozgvQULr6Z"
@@ -33,7 +57,23 @@
       "url": "https://open.spotify.com/track/6aWGBnKRmgH7pBpEhRMnPy"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
+      "album": {
+        "name": "Logariasmos",
+        "url": "https://open.spotify.com/album/0Mesq5mYk1HClW7ecjungg"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        }
+      ],
+      "duration_ms": 220714,
+      "name": "Logariasmos",
+      "url": "https://open.spotify.com/track/6qShG16XTy1emd18WVPZlh"
+    },
+    {
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/4PzGHLAWauBPBPfJx9ZAbk"
@@ -49,7 +89,7 @@
       "url": "https://open.spotify.com/track/7tRutCwvwteHMWaxtHUKsj"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "Hey Shawty",
         "url": "https://open.spotify.com/album/183mB58gA6j6qUdoFBOHcC"
@@ -73,7 +113,7 @@
       "url": "https://open.spotify.com/track/2wqdEi1mkHWBgkkFWcZuFe"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "TE QUIERO",
         "url": "https://open.spotify.com/album/2a0hMD2XGea5eYLL7lOlYv"
@@ -93,7 +133,7 @@
       "url": "https://open.spotify.com/track/3vw2KhRx62NVY8cMPTLVsl"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "Lete Lete",
         "url": "https://open.spotify.com/album/0GAUs5okKyONukvSDhXSjS"
@@ -117,7 +157,7 @@
       "url": "https://open.spotify.com/track/676OyMHIOfootgShTPbJgC"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "CAPO DEI CAPI (Deluxe)",
         "url": "https://open.spotify.com/album/6NQgPcrGdGbR07dq2CYl50"
@@ -137,7 +177,7 @@
       "url": "https://open.spotify.com/track/1FmrVwzwIBnd2DEcWL9XkW"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "Margarita",
         "url": "https://open.spotify.com/album/5fcZGl6OLbQGTIoroV6PbZ"
@@ -157,7 +197,7 @@
       "url": "https://open.spotify.com/track/1n80QsVmclzh7ETsMO03FR"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "CHOCO FRESH",
         "url": "https://open.spotify.com/album/0KiLceIAWD6fFxbU2c0BNv"
@@ -181,7 +221,7 @@
       "url": "https://open.spotify.com/track/7Ku2O5h0e3NH1qGcuZvGWT"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
@@ -201,7 +241,7 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "GYALINOS KOSMOS",
         "url": "https://open.spotify.com/album/6l9neRDoThD9loGS7iwBDJ"
@@ -225,7 +265,7 @@
       "url": "https://open.spotify.com/track/42Nz6Td19soH4iG6objKdm"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "Ntolia",
         "url": "https://open.spotify.com/album/6cH39Zi7CawLCDlxRd8GFs"
@@ -241,7 +281,7 @@
       "url": "https://open.spotify.com/track/74VIwjiUa111jjrDesaq5l"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "PALI",
         "url": "https://open.spotify.com/album/3FDTzSFy37xMGR7VgYPRaa"
@@ -257,7 +297,7 @@
       "url": "https://open.spotify.com/track/48tcwflLj2v1mDsPQnjxN7"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "90th FLOOR",
         "url": "https://open.spotify.com/album/37cgHuOdcftkybzls2h1Sq"
@@ -281,7 +321,7 @@
       "url": "https://open.spotify.com/track/7wnD6XeAzdJXshrdTeuTis"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "Tetrada",
         "url": "https://open.spotify.com/album/1QZfnnTwgXjkiny0LpiBeq"
@@ -305,7 +345,7 @@
       "url": "https://open.spotify.com/track/5SlXa2m9Tk4Iv0wqNmIrdV"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "CPR",
         "url": "https://open.spotify.com/album/4fZZTVcjxiFfBxz3uXPRUL"
@@ -325,7 +365,7 @@
       "url": "https://open.spotify.com/track/2nMUwsXvnKJBd1NB073nrp"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "SUPERSTAR",
         "url": "https://open.spotify.com/album/0H0yH3OAMyV7ukvJu9iWLE"
@@ -345,7 +385,7 @@
       "url": "https://open.spotify.com/track/4oT1BiDu0b2P4dDWng62VB"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "KSANTHIA",
         "url": "https://open.spotify.com/album/2rqnONdnq9qrYU3FPSHRZH"
@@ -365,7 +405,7 @@
       "url": "https://open.spotify.com/track/7xvPDojWymRUdPqQQsVEYC"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "3REE",
         "url": "https://open.spotify.com/album/5Y4tdyHQsBDqjAqYUfUEBb"
@@ -385,7 +425,7 @@
       "url": "https://open.spotify.com/track/014dwyKWiCUjInYCQQTXNG"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "Alkoolikes I Nihtes",
         "url": "https://open.spotify.com/album/2DhTZJ7uoABIuwAceeBWq4"
@@ -401,7 +441,7 @@
       "url": "https://open.spotify.com/track/3wXwptbzcV60VOzQz0ODG4"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "BRO X3",
         "url": "https://open.spotify.com/album/5IdbiH01dKi84gpquKXvA4"
@@ -425,7 +465,7 @@
       "url": "https://open.spotify.com/track/77VGUR3e39LMnXDbRTEmIB"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "MONO ESY",
         "url": "https://open.spotify.com/album/3gJ7HsKlhfaChj2TK86ZQM"
@@ -441,7 +481,7 @@
       "url": "https://open.spotify.com/track/23OOJ61oprS8Kcaj6WmUgJ"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "APOTIPOMATA",
         "url": "https://open.spotify.com/album/13fA1U9jizHnA17kxIOhtX"
@@ -465,7 +505,7 @@
       "url": "https://open.spotify.com/track/39rpODqvEPrixgNfsZtNVT"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "PES KAI THA RTHW",
         "url": "https://open.spotify.com/album/2LArog9P5cIveHydpRkcHv"
@@ -481,7 +521,7 @@
       "url": "https://open.spotify.com/track/0K6yas608Uqs2odowPedYS"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "Eipes",
         "url": "https://open.spotify.com/album/0MrlOOB8R7ACMmnTjlVEAB"
@@ -497,7 +537,7 @@
       "url": "https://open.spotify.com/track/1w8p0vuFJ8PZBJka6jS6oA"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "HOME ALONE",
         "url": "https://open.spotify.com/album/6d59OazyuQRkHOzjWNukCa"
@@ -525,7 +565,7 @@
       "url": "https://open.spotify.com/track/11dvIukD3Xmk1WbDuisL82"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "BABA",
         "url": "https://open.spotify.com/album/5xf1dRIxVDVBeFIJfSj2fu"
@@ -549,7 +589,7 @@
       "url": "https://open.spotify.com/track/1UXaMpCNb3fCNVShUeILSC"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "Prezi",
         "url": "https://open.spotify.com/album/25W0wFI9LqcziSkZob1Smn"
@@ -573,7 +613,7 @@
       "url": "https://open.spotify.com/track/7pm3I8p2MWYcjEyZKoVMcd"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "CAPO DEI CAPI (Deluxe)",
         "url": "https://open.spotify.com/album/6NQgPcrGdGbR07dq2CYl50"
@@ -593,7 +633,7 @@
       "url": "https://open.spotify.com/track/0ZqNMrrAz4BgkUpF9iERib"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "Non Stop",
         "url": "https://open.spotify.com/album/3oMrx0MbZAI3J7zF2DxqlL"
@@ -617,7 +657,7 @@
       "url": "https://open.spotify.com/track/2yy5z25y213U4NiSrCs0tW"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "OLA GYRNANE",
         "url": "https://open.spotify.com/album/0q6aT0ze14Va7UuTDSI82I"
@@ -637,7 +677,7 @@
       "url": "https://open.spotify.com/track/5BVgJNCCdehaMG51MC7xme"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "ICE C.R.E.A.M.",
         "url": "https://open.spotify.com/album/2kdQSVWNpmSFk1y4g2DQDl"
@@ -657,7 +697,7 @@
       "url": "https://open.spotify.com/track/24lFkOGD335Gqix1VDFHYH"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "PARADISO",
         "url": "https://open.spotify.com/album/0K9I0a6MdMq7wvJUWfOY5B"
@@ -689,7 +729,7 @@
       "url": "https://open.spotify.com/track/74eCVhPx2IXqqrqLxGLiPN"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "GHOSTBUSTERS",
         "url": "https://open.spotify.com/album/4iDMzmEMKz6eM2Y4UfC3k3"
@@ -709,7 +749,7 @@
       "url": "https://open.spotify.com/track/4Z3ey55mT83QaU0wGXJ9OJ"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "INEBONUS",
         "url": "https://open.spotify.com/album/7dgZbBtC1lPFYyTW0liY1R"
@@ -729,7 +769,7 @@
       "url": "https://open.spotify.com/track/0FKY8MHOsg7pY8pRP4M8ma"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "XWRA TOU POTE",
         "url": "https://open.spotify.com/album/0xek4EZBuAPeNmkVzM3gSs"
@@ -749,7 +789,7 @@
       "url": "https://open.spotify.com/track/2OtlJi8vzajxp51W9gYwCO"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "PANW MOU",
         "url": "https://open.spotify.com/album/51JcjN99mn92eLhTwcVdcq"
@@ -769,7 +809,7 @@
       "url": "https://open.spotify.com/track/4Qa689Cg9mB9iaO9PT5cIO"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "COMERCIO",
         "url": "https://open.spotify.com/album/4GnNeMtDe5LLSs0kYwZyXI"
@@ -793,7 +833,7 @@
       "url": "https://open.spotify.com/track/5yaBUyYf6ZRn3SngG0qyBu"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "HOME ALONE",
         "url": "https://open.spotify.com/album/6d59OazyuQRkHOzjWNukCa"
@@ -817,7 +857,7 @@
       "url": "https://open.spotify.com/track/3E65jZP7aoEUhyKrKFEdHi"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "Alleluia",
         "url": "https://open.spotify.com/album/7oE6M8hUkUlze17Ygx4eA5"
@@ -837,7 +877,7 @@
       "url": "https://open.spotify.com/track/0qToKOjoIshAsxGuSJ7DhY"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "PEP TALK",
         "url": "https://open.spotify.com/album/2O45RCak2BNFtEi402p0RC"
@@ -857,7 +897,7 @@
       "url": "https://open.spotify.com/track/7d0gRGbTVISrcNNazqcpxZ"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "KAKO",
         "url": "https://open.spotify.com/album/6BKBBxMICtMDMsER47ZjXe"
@@ -877,7 +917,7 @@
       "url": "https://open.spotify.com/track/28kpCoILnxmKUc6AMO6NEu"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "5 AM",
         "url": "https://open.spotify.com/album/18LPhQUpQbp4QkoX27LyfZ"
@@ -893,7 +933,7 @@
       "url": "https://open.spotify.com/track/1JGntUi9e8Oe2N5lBdXYGU"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "Fthina Tricks 3",
         "url": "https://open.spotify.com/album/7KA4oKgG0mzJ62dzs9SlyK"
@@ -913,7 +953,7 @@
       "url": "https://open.spotify.com/track/3lS1r65AbkPdljhDrRQEyV"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "SOSA",
         "url": "https://open.spotify.com/album/6810zgdbl1djlk13WXQOFx"
@@ -929,7 +969,7 @@
       "url": "https://open.spotify.com/track/1j8aRXVJFYkDWEUpZeGrdc"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "G.T.K.",
         "url": "https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la"
@@ -949,23 +989,7 @@
       "url": "https://open.spotify.com/track/5RquJn4F0DjTTzroC5pQRY"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou (Medley)",
         "url": "https://open.spotify.com/album/7uQPoxmw3bL1K7c8viJCM0"
@@ -981,7 +1005,7 @@
       "url": "https://open.spotify.com/track/5MateRIsXSsdRHYVVOcZpx"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "BAD BOY 3",
         "url": "https://open.spotify.com/album/4DXYeuH5LDPoN8MA8ZOO31"
@@ -997,7 +1021,7 @@
       "url": "https://open.spotify.com/track/00Kgg0HjZyeIDTWGWHw3kp"
     },
     {
-      "added_at": "2026-01-19 12:50:10",
+      "added_at": "2026-01-26 09:26:47",
       "album": {
         "name": "EGEFALIKO",
         "url": "https://open.spotify.com/album/2P8Wse74JI6ohaxhKdaKcp"
@@ -1015,22 +1039,6 @@
       "duration_ms": 138000,
       "name": "EGEFALIKO",
       "url": "https://open.spotify.com/track/6jhNVmFLWD5LPGrpLfCw67"
-    },
-    {
-      "added_at": "2026-01-19 12:50:10",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     }
   ],
   "unique_name": "Hot Hits Greece",

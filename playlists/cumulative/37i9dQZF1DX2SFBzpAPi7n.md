@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 인성 \(INSEONG\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,111 songs - 2 day 19 hr 33 min
+1,112 songs - 2 day 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -896,6 +896,7 @@
 | [surf.](https://open.spotify.com/track/0pqEMHCA4VXzoaVQq7uskF) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [surf.](https://open.spotify.com/album/4Npp7OOIPSZYl0t82P6mjv) | 3:45 | 2023-07-07 | 2023-11-16 |
 | [surf.](https://open.spotify.com/track/6fhtB9Qf8vkJLPL88WMylY) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [surf.](https://open.spotify.com/album/0ZbnD6CJpKcj0m4Zde5XFm) | 3:45 | 2022-04-21 | 2022-07-26 |
 | [SURREAL \- Alternative Rock Mix](https://open.spotify.com/track/7MzEUfY3N6Uw8umnwMkaq0) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:37 | 2022-05-11 | 2022-05-18 |
+| [sway](https://open.spotify.com/track/78KWPtzyxqY36h1Z4OcgbJ) | [Tokai](https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT) | [shining.](https://open.spotify.com/album/7alBVFv3w8aOaSJYLIw8nD) | 3:11 | 2026-01-26 |  |
 | [Sweet Chaos](https://open.spotify.com/track/499qjESUqiZjlNI7XQhyLp) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h) | 3:47 | 2022-04-22 | 2023-06-07 |
 | [Sweet Chaos](https://open.spotify.com/track/52Dx3quiQ9ZmtCg2Y2jqkm) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/3k0QCw6Cpvq6hIEXUf6qAr) | 3:47 | 2023-07-07 | 2023-09-07 |
 | [Sweet Serenade \(Feat\. Park Jiyoon\)](https://open.spotify.com/track/0tQy8qtHKnlCWcHHtGCkar) | [DEVSISTERS](https://open.spotify.com/artist/7cf0ByqyHXCghj6gC5axcX), [Park Ji Yoon](https://open.spotify.com/artist/1iF0bgDBIthP30VjBK3KUO) | [Cookie Run: Kingdom OST Summer Soda Rock Festa](https://open.spotify.com/album/5YDDSItmnh83Y7bTKHCOpG) | 4:02 | 2023-07-12 | 2023-07-29 |
@@ -1046,7 +1047,7 @@
 | [winter dance](https://open.spotify.com/track/2Mx0neWJtuAfBy830NavHa) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [winter dance](https://open.spotify.com/album/6rUp3SNTFjtPD9dRtwreYJ) | 3:22 | 2024-12-02 | 2025-01-31 |
 | [WINTER FLOWER\(Feat.RM\)](https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [UNSTABLE MINDSET](https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s) | 3:41 | 2022-04-12 | 2025-12-16 |
 | [Wish](https://open.spotify.com/track/0gQZQVfbC3sYddHIrnidp4) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Wish](https://open.spotify.com/album/7ncMzzIhPqCPaAVRwtrgkl) | 3:51 | 2025-05-20 | 2025-06-10 |
-| [Wish](https://open.spotify.com/track/28GGqZ2M6bEQEvKSRhnniw) | [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Wish](https://open.spotify.com/album/7pRxHjR74IRAoQzlNdpCYf) | 3:07 | 2026-01-15 |  |
+| [Wish](https://open.spotify.com/track/28GGqZ2M6bEQEvKSRhnniw) | [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Wish](https://open.spotify.com/album/7pRxHjR74IRAoQzlNdpCYf) | 3:07 | 2026-01-15 | 2026-01-27 |
 | [Wish You Luck](https://open.spotify.com/track/4QZgdQ4CILVuz6NNDAkwns) | [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [clover \#2](https://open.spotify.com/album/7ze7Ge9MMVxBZmEZPosVQ2) | 3:34 | 2025-01-30 | 2025-03-18 |
 | [Wishlist](https://open.spotify.com/track/4A6f3zMLDDAUgkGTLtpMc3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:11 | 2022-04-12 | 2024-11-07 |
 | [Wolf](https://open.spotify.com/track/3UcdoC9ncaGdjzgpNaQivP) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [idealism](https://open.spotify.com/album/0l2WXPOSbRWAjAOhnONchi) | 4:07 | 2022-04-22 | 2022-07-23 |

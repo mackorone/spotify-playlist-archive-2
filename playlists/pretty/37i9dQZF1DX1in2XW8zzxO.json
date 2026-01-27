@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 96531,
+  "num_followers": 96573,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -1243,6 +1243,34 @@
     {
       "added_at": "2025-12-05 02:54:31",
       "album": {
+        "name": "IV PARK : The Dawn",
+        "url": "https://open.spotify.com/album/3On8ksd851l6tL28JNr49t"
+      },
+      "artists": [
+        {
+          "name": "Azraq IV",
+          "url": "https://open.spotify.com/artist/5HLGheiugGtnztbfDhlqFp"
+        },
+        {
+          "name": "Jauza814",
+          "url": "https://open.spotify.com/artist/2kfr2RQhet71X5DXL3bH2C"
+        },
+        {
+          "name": "Owami de dj",
+          "url": "https://open.spotify.com/artist/1SV8dhUayxUzTXNahw5GkU"
+        },
+        {
+          "name": "Tyfam",
+          "url": "https://open.spotify.com/artist/1XCetFbPLtLxsDWWC9bSk2"
+        }
+      ],
+      "duration_ms": 385758,
+      "name": "Dubai (feat. Owami de dj & Tyfam)",
+      "url": "https://open.spotify.com/track/63T2k5Wht1B6MqtLk8tV5j"
+    },
+    {
+      "added_at": "2025-12-05 02:54:31",
+      "album": {
         "name": "Sihamba Sonke",
         "url": "https://open.spotify.com/album/4ghwUAsbM38i8zcDRiflmX"
       },
@@ -1271,34 +1299,6 @@
       "duration_ms": 416653,
       "name": "Sihamba Sonke",
       "url": "https://open.spotify.com/track/79lSg4HBwmulMQmKieeCU6"
-    },
-    {
-      "added_at": "2025-12-05 02:54:31",
-      "album": {
-        "name": "IV PARK : The Dawn",
-        "url": "https://open.spotify.com/album/3On8ksd851l6tL28JNr49t"
-      },
-      "artists": [
-        {
-          "name": "Azraq IV",
-          "url": "https://open.spotify.com/artist/5HLGheiugGtnztbfDhlqFp"
-        },
-        {
-          "name": "Jauza814",
-          "url": "https://open.spotify.com/artist/2kfr2RQhet71X5DXL3bH2C"
-        },
-        {
-          "name": "Owami de dj",
-          "url": "https://open.spotify.com/artist/1SV8dhUayxUzTXNahw5GkU"
-        },
-        {
-          "name": "Tyfam",
-          "url": "https://open.spotify.com/artist/1XCetFbPLtLxsDWWC9bSk2"
-        }
-      ],
-      "duration_ms": 385758,
-      "name": "Dubai (feat. Owami de dj & Tyfam)",
-      "url": "https://open.spotify.com/track/63T2k5Wht1B6MqtLk8tV5j"
     },
     {
       "added_at": "2025-12-05 02:54:31",

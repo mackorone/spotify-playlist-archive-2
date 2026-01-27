@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-469 songs - 22 hr 49 min
+472 songs - 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Baby](https://open.spotify.com/track/5O85fuESIU0t0NhfZudNnw) | [Aziznlife](https://open.spotify.com/artist/0aBchr7f8qspdDfW3jE2Vy) | [Baby](https://open.spotify.com/album/30JVzxVrbwfTCvF3u1d2PB) | 3:48 | 2024-07-21 |  |
 | [Back to It](https://open.spotify.com/track/3J4liUgPvHfrT7lxFdKIXV) | [Trippy Ja](https://open.spotify.com/artist/6Yuam5XUh4MNMrmykzYjmP), [Dizzy Wright](https://open.spotify.com/artist/1LrWZc2qPhRCHyr6XtpBxq), [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p), [Werdplay](https://open.spotify.com/artist/7rtwC0CnSiquLlICYKO3lE) | [Back to It](https://open.spotify.com/album/6vuUNKeJFUdjSwkYYJZLCZ) | 2:56 | 2024-06-27 |  |
 | [Back To Life](https://open.spotify.com/track/0GABFy0Kss7Ajk9VSvoqdC) | [One Aphelion](https://open.spotify.com/artist/7belGTuWSvvmxxQF6et8xO) | [Back To Life](https://open.spotify.com/album/3bKRS6633kPaCFufZZeNly) | 3:23 | 2024-08-26 |  |
+| [Back to You](https://open.spotify.com/track/5CLFupLl2NPAwVl9Q6M7xc) | [LMonko](https://open.spotify.com/artist/224OHndFf8m41yMVW3UMpB) | [I Never Listen](https://open.spotify.com/album/0PJpaD4ZtD1IuFB4a3upz8) | 1:40 | 2026-01-26 |  |
 | [BAGS](https://open.spotify.com/track/5lPs4J1Sxos7xk9rTMF2Z4) | [Muna](https://open.spotify.com/artist/0Iv6KWyZ6NdOLO5j9TCnrh) | [BAGS / INVOLVED](https://open.spotify.com/album/4gtI29cKzs2xSUXCMk67uE) | 2:31 | 2025-10-08 |  |
 | [Bam Bam](https://open.spotify.com/track/3tVJg0d42IEEfGLT6Sre7k) | [Sweet Strings](https://open.spotify.com/artist/7EjtlZUiHcqkeGSrolQABK) | [Bam Bam](https://open.spotify.com/album/7eP4kNqiMv83qNMEo1iJGq) | 3:45 | 2025-12-03 |  |
 | [Bandana](https://open.spotify.com/track/62MIk0NHmW4txQL03vQIT8) | [BongoBandana](https://open.spotify.com/artist/4KsIwqXDv48tmyrRLenFDO) | [Bandana](https://open.spotify.com/album/3gC81BrScXPBiSe4DbK6CE) | 1:18 | 2024-07-20 |  |
@@ -113,6 +114,7 @@
 | [Difícil](https://open.spotify.com/track/2VLRJ3nsHHIZMpSs5LDbFE) | [Lil Jalo](https://open.spotify.com/artist/0IlLM23J15bHYcESRX6kOL), [LK Ness](https://open.spotify.com/artist/5vG9zOxo7HVZVHqR5EbqXj) | [Difícil](https://open.spotify.com/album/0ybnYQecvo86IKrpwrMkwN) | 1:58 | 2024-05-23 |  |
 | [Dis moi](https://open.spotify.com/track/53cpfPf40yxBVKhzTWOb4V) | [SELKA](https://open.spotify.com/artist/37wnPF622kB2IIa8kmTayV) | [WOOZDIS \#4 : Nouveau printemps](https://open.spotify.com/album/2y33E7ViDNbeies1GDdZqQ) | 2:18 | 2024-05-21 |  |
 | [Do U Really ?](https://open.spotify.com/track/2n6DPOMf8EIl6HUhYu0Msc) | [Que K](https://open.spotify.com/artist/7dcJm2exRKPpt1j6Pk91ML) | [Do U Really ?](https://open.spotify.com/album/6lQclYpv8SwwwmPQT7qgQI) | 2:51 | 2024-11-17 |  |
+| [Do You Want Me](https://open.spotify.com/track/0mPlRoWozVrwoJXKGJ8KV2) | [Beau Audio](https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0) | [Do You Want Me](https://open.spotify.com/album/7GJrSnO6AcA9MPeKIpfnW2) | 2:10 | 2026-01-26 |  |
 | [Don't Count Me Out \- Juise Remix](https://open.spotify.com/track/34Gp4rRkg0pFMgAhTHIggK) | [Jesse Lee Smith](https://open.spotify.com/artist/4bvC48Yls5GRDe3Xh1j7ya), [Juise](https://open.spotify.com/artist/5urRpA8fAANZnEIFUaEtL9) | [Don't Count Me Out \(Juise Remix\)](https://open.spotify.com/album/5SYpRLG8CHa2ik8aF92A3R) | 2:39 | 2024-08-13 |  |
 | [Don't Get Too Comfortable, Pt\. 1](https://open.spotify.com/track/1Ua0PCDOJcJ0csokgImdN6) | [Freezjoe](https://open.spotify.com/artist/5QnuGjL0Cbrqlf1zk09jrM) | [Don't Get Too Comfortable, Pt\. 1](https://open.spotify.com/album/12pk9ORT48Fmo6Vv6wo36u) | 3:44 | 2024-12-07 |  |
 | [Don't Get Too Comfortable, Pt\. 1 \- Sped Up](https://open.spotify.com/track/3PuDq2lXtHGhg06zUPxFEu) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [Freezjoe](https://open.spotify.com/artist/5QnuGjL0Cbrqlf1zk09jrM), [shxrx](https://open.spotify.com/artist/1XaSRnxmV07bLRvTMF5hZ2) | [Don't Get Too Comfortable, Pt\. 1 \(Sped Up\)](https://open.spotify.com/album/3RNYj44v4eIGGdnD3iiR1X) | 3:03 | 2024-10-17 |  |
@@ -365,6 +367,7 @@
 | [Shut Em up Shut Em Down](https://open.spotify.com/track/05ZHS798j4VnvEtlYYuVyn) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [Shut Em up Shut Em Down](https://open.spotify.com/album/0HCzCP0XK95hs3z9g6CIq3) | 2:00 | 2024-05-28 |  |
 | [Silence](https://open.spotify.com/track/3tEJl3yjBkIZijdUtm6GB7) | [Wowa](https://open.spotify.com/artist/3294idWcuMNPzGHcdszsA7), [sparklez](https://open.spotify.com/artist/4D7AZCKWkiGK2DiD5zjuny) | [Silence](https://open.spotify.com/album/3Tkk0MU9tkNtWLNyjqM8AP) | 5:02 | 2024-11-20 |  |
 | [SIMP FOR YOU](https://open.spotify.com/track/6f0CMWj1hgBwskGeutUHLO) | [Tony WRN](https://open.spotify.com/artist/3AbBBdwLhNl9XayH37zMnF) | [SIMP FOR YOU](https://open.spotify.com/album/6pYAvrBtwM7smnMwFO9n5M) | 2:25 | 2025-10-23 |  |
+| [sinisterIntentions](https://open.spotify.com/track/145cB9YpyrfsDTGxh3tTOP) | [Young Rebillionaire](https://open.spotify.com/artist/4dbmUc24ekKqfjwbpuGiRx) | [sinisterIntentions](https://open.spotify.com/album/6DqZntyUnsK62T91VZqu7N) | 1:30 | 2026-01-26 |  |
 | [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 | 2023-07-26 |  |
 | [SLAM](https://open.spotify.com/track/1S47LMCjF4WL0RwOltDcHP) | [BE4N](https://open.spotify.com/artist/05Gd3YKIx417Tlc5bpWPfC), [InnerMars!](https://open.spotify.com/artist/4LZJOaX0ucwoIDnZFVwoxk) | [SLAM](https://open.spotify.com/album/6XsOf4Qm9XC5LOGuybWBP4) | 1:46 | 2025-10-08 |  |
 | [Slowed Down](https://open.spotify.com/track/74Vw1RhXNUTFt1X0rmuRZa) | [bananaxbrainz](https://open.spotify.com/artist/213rSssfcYfuQ0vYZGYiVO) | [Slowed Down](https://open.spotify.com/album/12ElruNyxI3vmg4utGkHdW) | 2:39 | 2024-05-30 |  |

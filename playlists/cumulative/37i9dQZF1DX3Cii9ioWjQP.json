@@ -1887,6 +1887,28 @@
     },
     {
       "album": {
+        "name": "Love Songs from Moon",
+        "url": "https://open.spotify.com/album/7yoxhKaLJeRwbbCHdZGSUL"
+      },
+      "artists": [
+        {
+          "name": "Haewon Moon",
+          "url": "https://open.spotify.com/artist/5vRXwK3TSQ2mZgw9ZLIS7q"
+        },
+        {
+          "name": "Tsuyoshi Yamamoto",
+          "url": "https://open.spotify.com/artist/4Le6xcHzz9CpoxAmXgtZP5"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237345,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/4rhLBG85sLSiz0N6JVzj71"
+    },
+    {
+      "album": {
         "name": "Who Stole the Skies",
         "url": "https://open.spotify.com/album/3vBepxBq8Ik2Tsn5Yu1uML"
       },
@@ -3686,7 +3708,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 154639,
       "name": "SoftSwing",
       "url": "https://open.spotify.com/track/5OobhUbz1chveKKwUwwhYO"

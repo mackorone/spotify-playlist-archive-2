@@ -355,22 +355,6 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
-        "name": "BLINDERS",
-        "url": "https://open.spotify.com/album/7bdkWRYBMgIlWEhWlQCEJp"
-      },
-      "artists": [
-        {
-          "name": "Ruby Waters",
-          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
-        }
-      ],
-      "duration_ms": 214133,
-      "name": "BLINDERS",
-      "url": "https://open.spotify.com/track/5yGRA06uJvK0KLgeZAAYb7"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/5map5mUcTARef4QIKuj8Hf"
       },
@@ -387,6 +371,22 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
+        "name": "BLINDERS",
+        "url": "https://open.spotify.com/album/7bdkWRYBMgIlWEhWlQCEJp"
+      },
+      "artists": [
+        {
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+        }
+      ],
+      "duration_ms": 214133,
+      "name": "BLINDERS",
+      "url": "https://open.spotify.com/track/5yGRA06uJvK0KLgeZAAYb7"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
         "name": "IT\u2019S NOT REAL",
         "url": "https://open.spotify.com/album/4CgtqiWC5y8aKhZkCFZsqT"
       },
@@ -399,6 +399,22 @@
       "duration_ms": 189515,
       "name": "IT'S NOT REAL",
       "url": "https://open.spotify.com/track/0cd7ASGGuQOpprgdm4n2wt"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
+        "name": "You Could Have It",
+        "url": "https://open.spotify.com/album/3QYStaiTa85i7UOFQEst2f"
+      },
+      "artists": [
+        {
+          "name": "Horse Vision",
+          "url": "https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "You Could Have It",
+      "url": "https://open.spotify.com/track/2ndh30vZhrfL0Zpq8wRbvl"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -427,6 +443,22 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
+        "name": "Mona Lisa",
+        "url": "https://open.spotify.com/album/4po7ado9LJDka8wf7LcXCI"
+      },
+      "artists": [
+        {
+          "name": "K-391",
+          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
+        }
+      ],
+      "duration_ms": 191651,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/5hGpk0C8Ns9LGhPwQkEBrK"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
         "name": "soft prn",
         "url": "https://open.spotify.com/album/4ni9Y0IHtsDXzTqG4fPatp"
       },
@@ -439,22 +471,6 @@
       "duration_ms": 145678,
       "name": "soft prn",
       "url": "https://open.spotify.com/track/19KtAWkvjC37sWGIDf76CH"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
-        "name": "You Could Have It",
-        "url": "https://open.spotify.com/album/3QYStaiTa85i7UOFQEst2f"
-      },
-      "artists": [
-        {
-          "name": "Horse Vision",
-          "url": "https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "You Could Have It",
-      "url": "https://open.spotify.com/track/2ndh30vZhrfL0Zpq8wRbvl"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -475,22 +491,6 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
-        "name": "Mona Lisa",
-        "url": "https://open.spotify.com/album/4po7ado9LJDka8wf7LcXCI"
-      },
-      "artists": [
-        {
-          "name": "K-391",
-          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
-        }
-      ],
-      "duration_ms": 191651,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/5hGpk0C8Ns9LGhPwQkEBrK"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
         "name": "Carolina",
         "url": "https://open.spotify.com/album/2a5MsRZUtPXQoDG2Cl7hJ3"
       },
@@ -503,6 +503,22 @@
       "duration_ms": 248624,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/0tywJeGs2psw0knvSJdHZS"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
+        "name": "Touch My Love And Die",
+        "url": "https://open.spotify.com/album/0JSdCZkGz9xUGAxDzS4AFE"
+      },
+      "artists": [
+        {
+          "name": "Myrkur",
+          "url": "https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa"
+        }
+      ],
+      "duration_ms": 177132,
+      "name": "Touch My Love And Die",
+      "url": "https://open.spotify.com/track/4I0bWdDpEsRVwcTYsa0rNj"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -527,22 +543,6 @@
       "duration_ms": 185820,
       "name": "Hold It (feat. ZenTola)",
       "url": "https://open.spotify.com/track/5ZYDjHYSe9IOE5MqkqOzuk"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
-        "name": "Touch My Love And Die",
-        "url": "https://open.spotify.com/album/0JSdCZkGz9xUGAxDzS4AFE"
-      },
-      "artists": [
-        {
-          "name": "Myrkur",
-          "url": "https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa"
-        }
-      ],
-      "duration_ms": 177132,
-      "name": "Touch My Love And Die",
-      "url": "https://open.spotify.com/track/4I0bWdDpEsRVwcTYsa0rNj"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
+        "name": "moving in",
+        "url": "https://open.spotify.com/album/1E6E9b6Do9vazfKNHzJnpk"
+      },
+      "artists": [
+        {
+          "name": "miaw",
+          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
+        }
+      ],
+      "duration_ms": 245342,
+      "name": "moving in",
+      "url": "https://open.spotify.com/track/6V68DOoiw4Z8iPPDIxtgWY"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
         "name": "This Is The Place",
         "url": "https://open.spotify.com/album/3XPTdlBTpXlwP4ZdU9dgMN"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 196407,
       "name": "This Is The Place",
       "url": "https://open.spotify.com/track/2CNUFN8wwtwX39rRlPD3Kk"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
-        "name": "Du tappa d\u00e4",
-        "url": "https://open.spotify.com/album/1ss3TtK9plwjIBeEUkZkzo"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 191132,
-      "name": "Du tappa d\u00e4",
-      "url": "https://open.spotify.com/track/3xBZH1auLQJOA40qmew7Wv"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -639,6 +639,38 @@
       "duration_ms": 248280,
       "name": "After All (feat. Mac Ayres, Braxton Cook)",
       "url": "https://open.spotify.com/track/1dKs1cUWl57GpEW20FAw0h"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
+        "name": "Du tappa d\u00e4",
+        "url": "https://open.spotify.com/album/1ss3TtK9plwjIBeEUkZkzo"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 191132,
+      "name": "Du tappa d\u00e4",
+      "url": "https://open.spotify.com/track/3xBZH1auLQJOA40qmew7Wv"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
+        "name": "29",
+        "url": "https://open.spotify.com/album/7zE8WryMg0RpDh2VUISZSn"
+      },
+      "artists": [
+        {
+          "name": "BL\u00dc EYES",
+          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+        }
+      ],
+      "duration_ms": 194474,
+      "name": "29",
+      "url": "https://open.spotify.com/track/7dNqvoB3wIUp4w60Lo8r2Y"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -715,18 +747,18 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
-        "name": "29",
-        "url": "https://open.spotify.com/album/7zE8WryMg0RpDh2VUISZSn"
+        "name": "Phone Sex",
+        "url": "https://open.spotify.com/album/2Efrfi4RLliavLPQsOCkbJ"
       },
       "artists": [
         {
-          "name": "BL\u00dc EYES",
-          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+          "name": "Mulaa Joans",
+          "url": "https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs"
         }
       ],
-      "duration_ms": 194474,
-      "name": "29",
-      "url": "https://open.spotify.com/track/7dNqvoB3wIUp4w60Lo8r2Y"
+      "duration_ms": 178641,
+      "name": "Phone Sex",
+      "url": "https://open.spotify.com/track/3TKGJXVhxqyDYFkTGvWdpw"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -759,22 +791,6 @@
       "duration_ms": 183045,
       "name": "Roaring Heart",
       "url": "https://open.spotify.com/track/0HrEAbXFCH0pBUtVlRvG9f"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
-        "name": "Phone Sex",
-        "url": "https://open.spotify.com/album/2Efrfi4RLliavLPQsOCkbJ"
-      },
-      "artists": [
-        {
-          "name": "Mulaa Joans",
-          "url": "https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs"
-        }
-      ],
-      "duration_ms": 178641,
-      "name": "Phone Sex",
-      "url": "https://open.spotify.com/track/3TKGJXVhxqyDYFkTGvWdpw"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -843,22 +859,6 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
-        "name": "S.O.B (Standing On Business)",
-        "url": "https://open.spotify.com/album/27OaKWyTTYALWx5YMxDOW0"
-      },
-      "artists": [
-        {
-          "name": "OMI",
-          "url": "https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh"
-        }
-      ],
-      "duration_ms": 157636,
-      "name": "S.O.B (Standing On Business)",
-      "url": "https://open.spotify.com/track/18X6ohepwYSRwzcsjfs7E4"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
         "name": "Naomi (feat. MingTing)",
         "url": "https://open.spotify.com/album/6GMwnYL8ggVZDA2TAy9TGq"
       },
@@ -875,6 +875,54 @@
       "duration_ms": 130258,
       "name": "Naomi (feat. MingTing)",
       "url": "https://open.spotify.com/track/7b8vrWG6bEN2UtnmqN6WmQ"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
+        "name": "S.O.B (Standing On Business)",
+        "url": "https://open.spotify.com/album/27OaKWyTTYALWx5YMxDOW0"
+      },
+      "artists": [
+        {
+          "name": "OMI",
+          "url": "https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh"
+        }
+      ],
+      "duration_ms": 157636,
+      "name": "S.O.B (Standing On Business)",
+      "url": "https://open.spotify.com/track/18X6ohepwYSRwzcsjfs7E4"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/1kpSftsDEXk4MP9xhAumxZ"
+      },
+      "artists": [
+        {
+          "name": "Miso Extra",
+          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
+        }
+      ],
+      "duration_ms": 149962,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/6GGGEbj4uAslHYUyjxVyBR"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
+        "name": "Two Spirits",
+        "url": "https://open.spotify.com/album/1RmgQ9YbCdCVAB4Cu9sRJ9"
+      },
+      "artists": [
+        {
+          "name": "Sander Sanchez",
+          "url": "https://open.spotify.com/artist/6pVYHSuDyZDlmaUtOhx9HF"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Two Spirits",
+      "url": "https://open.spotify.com/track/23KKh1xQnTNyKz6YPTn2yM"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -899,22 +947,6 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
-        "name": "Two Spirits",
-        "url": "https://open.spotify.com/album/1RmgQ9YbCdCVAB4Cu9sRJ9"
-      },
-      "artists": [
-        {
-          "name": "Sander Sanchez",
-          "url": "https://open.spotify.com/artist/6pVYHSuDyZDlmaUtOhx9HF"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Two Spirits",
-      "url": "https://open.spotify.com/track/23KKh1xQnTNyKz6YPTn2yM"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
         "name": "Now That I Got You",
         "url": "https://open.spotify.com/album/4L4FuUA8V3YEGaLB6KBIFa"
       },
@@ -935,22 +967,6 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
-        "name": "Right Here",
-        "url": "https://open.spotify.com/album/1kpSftsDEXk4MP9xhAumxZ"
-      },
-      "artists": [
-        {
-          "name": "Miso Extra",
-          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
-        }
-      ],
-      "duration_ms": 149962,
-      "name": "Right Here",
-      "url": "https://open.spotify.com/track/6GGGEbj4uAslHYUyjxVyBR"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
         "name": "Girly Girl",
         "url": "https://open.spotify.com/album/4ez4b73nHE5m9CqMXaGS6U"
       },
@@ -963,70 +979,6 @@
       "duration_ms": 177077,
       "name": "Girly Girl",
       "url": "https://open.spotify.com/track/0z23AxOVVgmTCi7zFc5OPG"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
-        "name": "moving in",
-        "url": "https://open.spotify.com/album/1E6E9b6Do9vazfKNHzJnpk"
-      },
-      "artists": [
-        {
-          "name": "miaw",
-          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
-        }
-      ],
-      "duration_ms": 245342,
-      "name": "moving in",
-      "url": "https://open.spotify.com/track/6V68DOoiw4Z8iPPDIxtgWY"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
-        "name": "Yoo-hoo",
-        "url": "https://open.spotify.com/album/2ovdkF5kkDDWfjJgk9rHtu"
-      },
-      "artists": [
-        {
-          "name": "Shintaro Sakamoto",
-          "url": "https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq"
-        }
-      ],
-      "duration_ms": 324735,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/5kfgWXn6YD9ed6pPNsrcgY"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
-        "name": "Can U Feel It?",
-        "url": "https://open.spotify.com/album/74rbR50L8xMo0WJvSIyFr8"
-      },
-      "artists": [
-        {
-          "name": "Late Runner",
-          "url": "https://open.spotify.com/artist/3ZKGo3DUcA4zOmIqXOM7xN"
-        }
-      ],
-      "duration_ms": 182276,
-      "name": "Can U Feel It?",
-      "url": "https://open.spotify.com/track/6E5up0ZG92pnVPp43nX80c"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/5OHNXTbV4gixUZjm7KhDXl"
-      },
-      "artists": [
-        {
-          "name": "Kook Joey",
-          "url": "https://open.spotify.com/artist/4yThQioYJaP6WS1fvTYeV8"
-        }
-      ],
-      "duration_ms": 225461,
-      "name": "Just Another Day",
-      "url": "https://open.spotify.com/track/2X1h5j0KNJnRwoq3LOmeCX"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -1047,6 +999,54 @@
       "duration_ms": 132874,
       "name": "MONEY IN THE BANK",
       "url": "https://open.spotify.com/track/2H6CCiKG6pEQm6mPEmNSsf"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
+        "name": "Yoo-hoo",
+        "url": "https://open.spotify.com/album/2ovdkF5kkDDWfjJgk9rHtu"
+      },
+      "artists": [
+        {
+          "name": "Shintaro Sakamoto",
+          "url": "https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq"
+        }
+      ],
+      "duration_ms": 324735,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/5kfgWXn6YD9ed6pPNsrcgY"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/5OHNXTbV4gixUZjm7KhDXl"
+      },
+      "artists": [
+        {
+          "name": "Kook Joey",
+          "url": "https://open.spotify.com/artist/4yThQioYJaP6WS1fvTYeV8"
+        }
+      ],
+      "duration_ms": 225461,
+      "name": "Just Another Day",
+      "url": "https://open.spotify.com/track/2X1h5j0KNJnRwoq3LOmeCX"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
+        "name": "Can U Feel It?",
+        "url": "https://open.spotify.com/album/74rbR50L8xMo0WJvSIyFr8"
+      },
+      "artists": [
+        {
+          "name": "Late Runner",
+          "url": "https://open.spotify.com/artist/3ZKGo3DUcA4zOmIqXOM7xN"
+        }
+      ],
+      "duration_ms": 182276,
+      "name": "Can U Feel It?",
+      "url": "https://open.spotify.com/track/6E5up0ZG92pnVPp43nX80c"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
+        "name": "High On You",
+        "url": "https://open.spotify.com/album/3KhmmfJf1mqsl04DzwJKMX"
+      },
+      "artists": [
+        {
+          "name": "Ashibah",
+          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
+        }
+      ],
+      "duration_ms": 191500,
+      "name": "High On You",
+      "url": "https://open.spotify.com/track/4B9KPPA4Nm4HKDynyuoRZe"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
         "name": "hot but depressive",
         "url": "https://open.spotify.com/album/5Ay0BAktKkO9l7dUQSmTbU"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 139451,
       "name": "FLY",
       "url": "https://open.spotify.com/track/4DKjdm5HFmqP26WiZWxHmS"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
-        "name": "High On You",
-        "url": "https://open.spotify.com/album/3KhmmfJf1mqsl04DzwJKMX"
-      },
-      "artists": [
-        {
-          "name": "Ashibah",
-          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
-        }
-      ],
-      "duration_ms": 191500,
-      "name": "High On You",
-      "url": "https://open.spotify.com/track/4B9KPPA4Nm4HKDynyuoRZe"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-01-23 00:00:43",
       "album": {
-        "name": "Could Be Us",
-        "url": "https://open.spotify.com/album/7mdtrUiVfSAJqU5hqvWLl7"
-      },
-      "artists": [
-        {
-          "name": "Rino",
-          "url": "https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s"
-        }
-      ],
-      "duration_ms": 168927,
-      "name": "Could Be Us",
-      "url": "https://open.spotify.com/track/2uaavMJEdha8CM9cSDCd2m"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
         "name": "STEPH CURRY",
         "url": "https://open.spotify.com/album/6tnzi9ptj3t0dYBOeD3EbV"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 164714,
       "name": "STEPH CURRY",
       "url": "https://open.spotify.com/track/2AO8Oef8LQoytgolw1CQlB"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
+        "name": "Could Be Us",
+        "url": "https://open.spotify.com/album/7mdtrUiVfSAJqU5hqvWLl7"
+      },
+      "artists": [
+        {
+          "name": "Rino",
+          "url": "https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s"
+        }
+      ],
+      "duration_ms": 168927,
+      "name": "Could Be Us",
+      "url": "https://open.spotify.com/track/2uaavMJEdha8CM9cSDCd2m"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -1259,6 +1259,22 @@
       "duration_ms": 198260,
       "name": "Coniunctio Solis et Lunae",
       "url": "https://open.spotify.com/track/6FY1ADE5jqHWa8wRvnwsdR"
+    },
+    {
+      "added_at": "2026-01-23 00:00:43",
+      "album": {
+        "name": ".stuck in a loop...",
+        "url": "https://open.spotify.com/album/4g7oUikSwfG9rXyZkioqqK"
+      },
+      "artists": [
+        {
+          "name": "grasior",
+          "url": "https://open.spotify.com/artist/7oaXjpcBZDUaomAVAKgUly"
+        }
+      ],
+      "duration_ms": 213559,
+      "name": ".stuck in a loop...",
+      "url": "https://open.spotify.com/track/1M0oSfp84MZMjYFJEiduBm"
     },
     {
       "added_at": "2026-01-23 00:00:43",
@@ -1299,22 +1315,6 @@
       "duration_ms": 134857,
       "name": "BRAVO",
       "url": "https://open.spotify.com/track/2ZhWz4ZbCALY755X9fVOwj"
-    },
-    {
-      "added_at": "2026-01-23 00:00:43",
-      "album": {
-        "name": ".stuck in a loop...",
-        "url": "https://open.spotify.com/album/4g7oUikSwfG9rXyZkioqqK"
-      },
-      "artists": [
-        {
-          "name": "grasior",
-          "url": "https://open.spotify.com/artist/7oaXjpcBZDUaomAVAKgUly"
-        }
-      ],
-      "duration_ms": 213559,
-      "name": ".stuck in a loop...",
-      "url": "https://open.spotify.com/track/1M0oSfp84MZMjYFJEiduBm"
     },
     {
       "added_at": "2026-01-23 00:00:43",

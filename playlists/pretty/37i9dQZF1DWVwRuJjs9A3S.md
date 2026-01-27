@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie, med Kasino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,747 likes - 184 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,750 likes - 184 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

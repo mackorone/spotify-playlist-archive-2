@@ -1,12 +1,12 @@
 {
   "description": "This is Gautier Capu\u00e7on. The essential tracks, all in one playlist.",
-  "num_followers": 1851,
+  "num_followers": 1854,
   "original_name": "This Is Gautier Capu\u00e7on",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXQLgAAAAACjJH/159SHQWtamEU+rJBf",
+  "snapshot_id": "aXVdAAAAAACPQG4VHv1qzUmQ65KXH4FM",
   "tracks": [
     {
       "added_at": null,
@@ -407,6 +407,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Faur\u00e9: Complete Chamber Music for Strings",
+        "url": "https://open.spotify.com/album/0J7ufiXuDy70tuH63bTV6y"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Michel Dalberto",
+          "url": "https://open.spotify.com/artist/1hzIjeYlO245tJ5hS50dUJ"
+        }
+      ],
+      "duration_ms": 232995,
+      "name": "Faur\u00e9: Sicilienne, Op. 78",
+      "url": "https://open.spotify.com/track/67PSa2ZYjTtS01UWrxkKAy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
       },
@@ -435,30 +459,6 @@
       "duration_ms": 221626,
       "name": "Monnot / Orch. Ducros: Hymne \u00e0 l'amour",
       "url": "https://open.spotify.com/track/1WKImzCKO0BKKxEFNzEzND"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Faur\u00e9: Complete Chamber Music for Strings",
-        "url": "https://open.spotify.com/album/0J7ufiXuDy70tuH63bTV6y"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Michel Dalberto",
-          "url": "https://open.spotify.com/artist/1hzIjeYlO245tJ5hS50dUJ"
-        }
-      ],
-      "duration_ms": 232995,
-      "name": "Faur\u00e9: Sicilienne, Op. 78",
-      "url": "https://open.spotify.com/track/67PSa2ZYjTtS01UWrxkKAy"
     },
     {
       "added_at": null,
@@ -519,38 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/15Tm3klxsizQAnp0vkRjZE"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        },
-        {
-          "name": "Adrien Perruchon",
-          "url": "https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N"
-        },
-        {
-          "name": "Orchestre de chambre de Paris",
-          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
-        }
-      ],
-      "duration_ms": 214408,
-      "name": "Richter: The Leftovers: She Remembers",
-      "url": "https://open.spotify.com/track/2t3FchceIZnHEbLzssgBTc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brahms: Clarinet Trio in A Minor, Op. 114: I. Allegro",
         "url": "https://open.spotify.com/album/67VKbmP2eGc7npbd3F2e5j"
       },
@@ -575,6 +543,38 @@
       "duration_ms": 459213,
       "name": "Clarinet Trio in A Minor, Op. 114: I. Allegro",
       "url": "https://open.spotify.com/track/3XscpxBMDGN1Jhm9ZL3Wsg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/5ifgF58jMhB3lZAXh9bfm6"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        },
+        {
+          "name": "Adrien Perruchon",
+          "url": "https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        }
+      ],
+      "duration_ms": 214408,
+      "name": "Richter: The Leftovers: She Remembers",
+      "url": "https://open.spotify.com/track/2t3FchceIZnHEbLzssgBTc"
     },
     {
       "added_at": null,
@@ -631,6 +631,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Destination Paris",
+        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
+      },
+      "artists": [
+        {
+          "name": "Franz Leh\u00e1r",
+          "url": "https://open.spotify.com/artist/3O3SOoPYtUSjajTdIag0nT"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        },
+        {
+          "name": "Lionel Bringuier",
+          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
+        }
+      ],
+      "duration_ms": 152600,
+      "name": "Heure exquise (From La Veuve joyeuse)",
+      "url": "https://open.spotify.com/track/1IFmCwbuHbyIHGJ4VYlux9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
       },
@@ -675,34 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destination Paris",
-        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
-      },
-      "artists": [
-        {
-          "name": "Franz Leh\u00e1r",
-          "url": "https://open.spotify.com/artist/3O3SOoPYtUSjajTdIag0nT"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Orchestre de chambre de Paris",
-          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
-        },
-        {
-          "name": "Lionel Bringuier",
-          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
-        }
-      ],
-      "duration_ms": 152600,
-      "name": "Heure exquise (From La Veuve joyeuse)",
-      "url": "https://open.spotify.com/track/1IFmCwbuHbyIHGJ4VYlux9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sensations - Gabriel's Oboe (From \"The Mission\")",
         "url": "https://open.spotify.com/album/1T3ZpS8nQm9mJHveoJveUX"
       },
@@ -727,6 +727,34 @@
       "duration_ms": 149293,
       "name": "Morricone: Gabriel's Oboe (From \"The Mission\")",
       "url": "https://open.spotify.com/track/4tkOrMjWuEhL5yMyfXUek0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back to School - Classics for Studying",
+        "url": "https://open.spotify.com/album/4mMWiVXzpLOZhAXIlIojSF"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Adrien Perruchon",
+          "url": "https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        }
+      ],
+      "duration_ms": 293640,
+      "name": "Debussy / Orch. Ducros: Suite bergamasque, CD 82, L. 75: III. Clair de lune",
+      "url": "https://open.spotify.com/track/6kzGRVhKWOW8eziWZXtsTc"
     },
     {
       "added_at": null,
@@ -759,34 +787,6 @@
       "duration_ms": 181197,
       "name": "Cohen / Orch. Ducros: Hallelujah",
       "url": "https://open.spotify.com/track/5LVKR4ytJ1vn9H4dD5GwhL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back to School - Classics for Studying",
-        "url": "https://open.spotify.com/album/4mMWiVXzpLOZhAXIlIojSF"
-      },
-      "artists": [
-        {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Adrien Perruchon",
-          "url": "https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N"
-        },
-        {
-          "name": "Orchestre de chambre de Paris",
-          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
-        }
-      ],
-      "duration_ms": 293640,
-      "name": "Debussy / Orch. Ducros: Suite bergamasque, CD 82, L. 75: III. Clair de lune",
-      "url": "https://open.spotify.com/track/6kzGRVhKWOW8eziWZXtsTc"
     },
     {
       "added_at": null,
@@ -927,34 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shostakovich: Cello Concertos Nos. 1 & 2",
-        "url": "https://open.spotify.com/album/1Jv7SlayRJhHSO8IYDDh5D"
-      },
-      "artists": [
-        {
-          "name": "Dmitri Shostakovich",
-          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Valery Gergiev",
-          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
-        },
-        {
-          "name": "Mariinsky Orchestra",
-          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
-        }
-      ],
-      "duration_ms": 387440,
-      "name": "Shostakovich: Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto",
-      "url": "https://open.spotify.com/track/0EFVPhrcAJxu4r65BjkveH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Winter Adagios",
         "url": "https://open.spotify.com/album/3Phjf597zfyPvLrIvEsaeF"
       },
@@ -979,6 +951,34 @@
       "duration_ms": 358466,
       "name": "Arensky: Piano Trio No. 1 in D Minor, Op. 32: III. Elegia. Adagio",
       "url": "https://open.spotify.com/track/68C1CY56K7WDzEcs1YGxsF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shostakovich: Cello Concertos Nos. 1 & 2",
+        "url": "https://open.spotify.com/album/1Jv7SlayRJhHSO8IYDDh5D"
+      },
+      "artists": [
+        {
+          "name": "Dmitri Shostakovich",
+          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "Mariinsky Orchestra",
+          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
+        }
+      ],
+      "duration_ms": 387440,
+      "name": "Shostakovich: Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto",
+      "url": "https://open.spotify.com/track/0EFVPhrcAJxu4r65BjkveH"
     },
     {
       "added_at": null,
@@ -1039,54 +1039,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Schubert: String Quintet, Op. 163 & Lieder",
-        "url": "https://open.spotify.com/album/72zb4wpILnZEVoUfnhnDVg"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Quatuor \u00c9b\u00e8ne",
-          "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        }
-      ],
-      "duration_ms": 913335,
-      "name": "Schubert: String Quintet in C Major, Op. 163, D. 956: II. Adagio",
-      "url": "https://open.spotify.com/track/25mDxI046ioWDZZgSF2MYT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"Adagietto\" - Soft and Relaxing Music",
-        "url": "https://open.spotify.com/album/49RLVp155M89DFefilrbIG"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        }
-      ],
-      "duration_ms": 91093,
-      "name": "Bach, JS: The Well-Tempered Clavier, Book I, Prelude and Fugue No. 5 in D Major, BWV 850: Prelude (Transcr. Neumann for Violin and Cello)",
-      "url": "https://open.spotify.com/track/7EQenLjNIhHZKFvsmpzyVs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ga\u00efa",
         "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
       },
@@ -1111,6 +1063,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Schubert: String Quintet, Op. 163 & Lieder",
+        "url": "https://open.spotify.com/album/72zb4wpILnZEVoUfnhnDVg"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Quatuor \u00c9b\u00e8ne",
+          "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        }
+      ],
+      "duration_ms": 913335,
+      "name": "Schubert: String Quintet in C Major, Op. 163, D. 956: II. Adagio",
+      "url": "https://open.spotify.com/track/25mDxI046ioWDZZgSF2MYT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beethoven: Complete Works for Cello & Piano",
         "url": "https://open.spotify.com/album/6blwiBm6Jzrk0ho1U1pyLx"
       },
@@ -1131,6 +1107,30 @@
       "duration_ms": 406146,
       "name": "Beethoven: Cello Sonata No. 1 in F Major, Op. 5 No. 1: II. Rondo - Allegro vivace",
       "url": "https://open.spotify.com/track/4mJAeByWSQgfpEVfWCg8eg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"Adagietto\" - Soft and Relaxing Music",
+        "url": "https://open.spotify.com/album/49RLVp155M89DFefilrbIG"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        }
+      ],
+      "duration_ms": 91093,
+      "name": "Bach, JS: The Well-Tempered Clavier, Book I, Prelude and Fugue No. 5 in D Major, BWV 850: Prelude (Transcr. Neumann for Violin and Cello)",
+      "url": "https://open.spotify.com/track/7EQenLjNIhHZKFvsmpzyVs"
     },
     {
       "added_at": null,
@@ -1167,30 +1167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Studying with Relaxing Classical Music",
-        "url": "https://open.spotify.com/album/6wOT3uLx11ITi5lsdICEWk"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        }
-      ],
-      "duration_ms": 82306,
-      "name": "Bach, JS: French Suite No. 2 in C Minor, BWV 813: V. Menuet (Transcr. Neumann for Violin and Cello)",
-      "url": "https://open.spotify.com/track/0KpCsWZBwGh3f4zTUjqTF3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ga\u00efa",
         "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
       },
@@ -1215,6 +1191,30 @@
       "duration_ms": 342626,
       "name": "Boreas",
       "url": "https://open.spotify.com/track/6O6Iob4qr6tj1AmdECgLUU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Studying with Relaxing Classical Music",
+        "url": "https://open.spotify.com/album/6wOT3uLx11ITi5lsdICEWk"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        }
+      ],
+      "duration_ms": 82306,
+      "name": "Bach, JS: French Suite No. 2 in C Minor, BWV 813: V. Menuet (Transcr. Neumann for Violin and Cello)",
+      "url": "https://open.spotify.com/track/0KpCsWZBwGh3f4zTUjqTF3"
     },
     {
       "added_at": null,
@@ -1275,30 +1275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destination Paris",
-        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
-      },
-      "artists": [
-        {
-          "name": "Philippe Sarde",
-          "url": "https://open.spotify.com/artist/4bYBV1q22KJiyT0z1pxFLK"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        }
-      ],
-      "duration_ms": 162600,
-      "name": "La chanson d\u2019H\u00e9l\u00e8ne",
-      "url": "https://open.spotify.com/track/1QUHxreR506sMhPpeoI13E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ga\u00efa",
         "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
       },
@@ -1319,6 +1295,30 @@
       "duration_ms": 277106,
       "name": "Sur le lac du Bourget",
       "url": "https://open.spotify.com/track/74jW9U0xz7KWj7CLe4JONb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Destination Paris",
+        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
+      },
+      "artists": [
+        {
+          "name": "Philippe Sarde",
+          "url": "https://open.spotify.com/artist/4bYBV1q22KJiyT0z1pxFLK"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        }
+      ],
+      "duration_ms": 162600,
+      "name": "La chanson d\u2019H\u00e9l\u00e8ne",
+      "url": "https://open.spotify.com/track/1QUHxreR506sMhPpeoI13E"
     },
     {
       "added_at": null,

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 Evita Polidoro in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,170 likes - 105 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,167 likes - 105 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I See Big Changes](https://open.spotify.com/track/6Q93EHUI6mdVSbYrAXzclZ) | [Evita Polidoro](https://open.spotify.com/artist/6lT4Zkd7Ade51RwbRsONaX), [Lee Ranaldo](https://open.spotify.com/artist/4tXPSo0qk91VMP3wFxL0Fo) | [comelecosechenonvogliofare + i see big changes](https://open.spotify.com/album/5Q9jGY9paif2vzZBIJPTxn) | 2:53 |
+| 1 | [i see big changes](https://open.spotify.com/track/6Q93EHUI6mdVSbYrAXzclZ) | [Evita Polidoro](https://open.spotify.com/artist/6lT4Zkd7Ade51RwbRsONaX), [Lee Ranaldo](https://open.spotify.com/artist/4tXPSo0qk91VMP3wFxL0Fo) | [comelecosechenonvogliofare + i see big changes](https://open.spotify.com/album/5Q9jGY9paif2vzZBIJPTxn) | 2:53 |
 | 2 | [SANTI NUMERI](https://open.spotify.com/track/6A9PEiqbaVTfHys6mHz8O1) | [SI! BOOM! VOILÀ!](https://open.spotify.com/artist/2hZ2DLQrRl33Oa4GzUubEy) | [SI! BOOM! VOILÀ!](https://open.spotify.com/album/6i3zqXEY6iw3lyvTOuTJaQ) | 3:19 |
 | 3 | [Un canto nuovo](https://open.spotify.com/track/6klTNJfsHwkbMTs5SuRG62) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Un canto nuovo](https://open.spotify.com/album/4S3f6gj42VpHBja4qNoOaV) | 3:47 |
 | 4 | [Nerorgasmo](https://open.spotify.com/track/6BmajVWQNfk7ZB0cGJncpT) | [ALLERTA!](https://open.spotify.com/artist/0hKvP3aJhzfrFwABgGJHUI) | [Nerorgasmo](https://open.spotify.com/album/7w5fmnH00zbvBmbu1UZ6RB) | 2:56 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 21 | [La Cattedrale Nel Deserto](https://open.spotify.com/track/71kg30dxjWGKKc0rDngJkq) | [ESERA](https://open.spotify.com/artist/2Dwv2D7ndjkXjjimaM5UyX) | [Levia Gravia](https://open.spotify.com/album/78DFPCuRoZxj68xkT5GxPi) | 3:01 |
 | 22 | [Vorrei](https://open.spotify.com/track/1F2MhenVool2wWoeUykTC7) | [Crema](https://open.spotify.com/artist/4GtBX42yjYsNPVBjinHUpP) | [Wowo](https://open.spotify.com/album/1pAWsW0ybSDIdFtegs1QyI) | 3:03 |
 | 23 | [Scars](https://open.spotify.com/track/1XxbCCDX1NtoajhOONMtEj) | [Heavywave](https://open.spotify.com/artist/2BJRTglavnA0W6OI2zLapV) | [Scars](https://open.spotify.com/album/18EkNu9avHekSyygEtqfl9) | 5:00 |
-| 24 | [IL TEMPO IN ME](https://open.spotify.com/track/3gEiSGfcgXtKKGmfIkUGbX) | [Subsonica](https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK) | [IL TEMPO IN ME](https://open.spotify.com/album/6NRgfIZXblIPjMeUxreY7k) | 4:08 |
+| 24 | [Il Tempo in Me](https://open.spotify.com/track/3gEiSGfcgXtKKGmfIkUGbX) | [Subsonica](https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK) | [Il Tempo in Me](https://open.spotify.com/album/6NRgfIZXblIPjMeUxreY7k) | 4:08 |
 | 25 | [FORTE](https://open.spotify.com/track/4oJyldfMmBIDZhVH5AyiIq) | [Karakaz](https://open.spotify.com/artist/5bGf7yGh4gz8vn6azMKq4u) | [FORTE](https://open.spotify.com/album/5rKFhPSi0xEmZR24eZVfxw) | 3:13 |
 | 26 | [VOILÀ!](https://open.spotify.com/track/553v6j5YxnuiGPtoUHuI2D) | [SI! BOOM! VOILÀ!](https://open.spotify.com/artist/2hZ2DLQrRl33Oa4GzUubEy) | [VOILÀ!](https://open.spotify.com/album/69rTszItyhHXdGtjQzTfNm) | 2:36 |
 | 27 | [X\-Ray](https://open.spotify.com/track/4t3CRfsV9wL4ZSiqSe7PSx) | [Fight Pausa](https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU) | [X\-Ray / Clumsy](https://open.spotify.com/album/032sW7ZlFR7Q5beC3Ppcqq) | 2:34 |

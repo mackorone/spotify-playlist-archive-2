@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2012. Cover: Flume",
-  "num_followers": 108797,
+  "num_followers": 108845,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Jake Bugg",
-        "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
-      },
-      "artists": [
-        {
-          "name": "Jake Bugg",
-          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "Simple As This",
-      "url": "https://open.spotify.com/track/59xYAblNy1Xr4U1IsJ3gZb"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "Dark Eyes",
         "url": "https://open.spotify.com/album/1h0JzrOSEyEldBJOBMj9Ge"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 181760,
       "name": "Full Circle",
       "url": "https://open.spotify.com/track/0gr60jINHbKdcGlQ83rmaH"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Jake Bugg",
+        "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
+      },
+      "artists": [
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "Simple As This",
+      "url": "https://open.spotify.com/track/59xYAblNy1Xr4U1IsJ3gZb"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Babel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 276720,
-      "name": "I Will Wait",
-      "url": "https://open.spotify.com/track/4kbYevkszYmMhoQcwnR7cZ"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/600BVck2XflTAsEo0KhIfm"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 301866,
       "name": "Lazuli",
       "url": "https://open.spotify.com/track/2TIJiqr72Qe9tGd26fStIN"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 276720,
+      "name": "I Will Wait",
+      "url": "https://open.spotify.com/track/4kbYevkszYmMhoQcwnR7cZ"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1316,9 +1316,9 @@
           "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
-      "duration_ms": 173888,
-      "name": "Freaking Out the Neighborhood",
-      "url": "https://open.spotify.com/track/25SJaCCPiosugnlY53VhRG"
+      "duration_ms": 190845,
+      "name": "My Kind of Woman",
+      "url": "https://open.spotify.com/track/2OFrAsP5Vrcb0DtsPNsm54"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1396,9 +1396,9 @@
           "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
-      "duration_ms": 190845,
-      "name": "My Kind of Woman",
-      "url": "https://open.spotify.com/track/2OFrAsP5Vrcb0DtsPNsm54"
+      "duration_ms": 173888,
+      "name": "Freaking Out the Neighborhood",
+      "url": "https://open.spotify.com/track/25SJaCCPiosugnlY53VhRG"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/3Lx8YDSuswGCfV8Tsb6i4E"
+      },
+      "artists": [
+        {
+          "name": "Vacationer",
+          "url": "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
+        }
+      ],
+      "duration_ms": 204031,
+      "name": "Good As New",
+      "url": "https://open.spotify.com/track/0XIHRIerpIPFLCjlgeLHbN"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
         "name": "Synthetica",
         "url": "https://open.spotify.com/album/1WDdaw9niyv06kRmspU1U4"
       },
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "The John Wayne",
-        "url": "https://open.spotify.com/album/3DmeelYEmVIPtB9qOLNyMG"
-      },
-      "artists": [
-        {
-          "name": "Little Green Cars",
-          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
-        }
-      ],
-      "duration_ms": 291636,
-      "name": "The John Wayne",
-      "url": "https://open.spotify.com/track/3oGxLwyJ7oU2kepx0z5S18"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "An Awesome Wave",
         "url": "https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL"
       },
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/3Lx8YDSuswGCfV8Tsb6i4E"
+        "name": "The John Wayne",
+        "url": "https://open.spotify.com/album/3DmeelYEmVIPtB9qOLNyMG"
       },
       "artists": [
         {
-          "name": "Vacationer",
-          "url": "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
+          "name": "Little Green Cars",
+          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
         }
       ],
-      "duration_ms": 204031,
-      "name": "Good As New",
-      "url": "https://open.spotify.com/track/0XIHRIerpIPFLCjlgeLHbN"
+      "duration_ms": 291636,
+      "name": "The John Wayne",
+      "url": "https://open.spotify.com/track/3oGxLwyJ7oU2kepx0z5S18"
     }
   ],
   "unique_name": "Best of Indie 2012",

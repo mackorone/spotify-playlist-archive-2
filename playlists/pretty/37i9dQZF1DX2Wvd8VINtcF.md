@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨A$AP Rocky✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,671 likes - 220 songs - 12 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,659 likes - 220 songs - 12 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 2 | [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 |
 | 3 | [Death of Love](https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Death of Love](https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH) | 3:26 |
 | 4 | [Sexistential](https://open.spotify.com/track/4OLgQczN5Watwb6QI0tXeS) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential / Talk To Me](https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk) | 2:20 |
-| 5 | [This Is The Place](https://open.spotify.com/track/2CNUFN8wwtwX39rRlPD3Kk) | [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [This Is The Place](https://open.spotify.com/album/3XPTdlBTpXlwP4ZdU9dgMN) | 3:16 |
-| 6 | [MONEY IN THE BANK](https://open.spotify.com/track/2H6CCiKG6pEQm6mPEmNSsf) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [MONEY IN THE BANK](https://open.spotify.com/album/7kWrHQb4ORQ5mRBeoVuR4a) | 2:12 |
-| 7 | [SuperDrug](https://open.spotify.com/track/5Bb8e5gqXUvfoZzilDIQqO) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [SuperDrug](https://open.spotify.com/album/3y7FO9rrvqLJaO1PHaaA9d) | 3:06 |
-| 8 | [Prayer](https://open.spotify.com/track/0Ckx0xDsZIstBX0YMamLc5) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Prayer](https://open.spotify.com/album/4DkMUoCLqAKVOBDEoItt4Q) | 5:26 |
+| 5 | [MONEY IN THE BANK](https://open.spotify.com/track/2H6CCiKG6pEQm6mPEmNSsf) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [MONEY IN THE BANK](https://open.spotify.com/album/7kWrHQb4ORQ5mRBeoVuR4a) | 2:12 |
+| 6 | [This Is The Place](https://open.spotify.com/track/2CNUFN8wwtwX39rRlPD3Kk) | [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [This Is The Place](https://open.spotify.com/album/3XPTdlBTpXlwP4ZdU9dgMN) | 3:16 |
+| 7 | [Prayer](https://open.spotify.com/track/0Ckx0xDsZIstBX0YMamLc5) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Prayer](https://open.spotify.com/album/4DkMUoCLqAKVOBDEoItt4Q) | 5:26 |
+| 8 | [SuperDrug](https://open.spotify.com/track/5Bb8e5gqXUvfoZzilDIQqO) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [SuperDrug](https://open.spotify.com/album/3y7FO9rrvqLJaO1PHaaA9d) | 3:06 |
 | 9 | [Girly Girl](https://open.spotify.com/track/0z23AxOVVgmTCi7zFc5OPG) | [Phoebe Isobel](https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN) | [Girly Girl](https://open.spotify.com/album/4ez4b73nHE5m9CqMXaGS6U) | 2:57 |
 | 10 | [Fear Me](https://open.spotify.com/track/62QKkCiulzm9UA877jP7wW) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [Fear Me](https://open.spotify.com/album/5JBBbhfRmaTMdXHGoPmoML) | 2:46 |
 | 11 | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS) | 3:08 |
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 219 | [where I've been](https://open.spotify.com/track/52vZKMsSxSi2ubk4TOy8bK) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [where I've been](https://open.spotify.com/album/001b5pgV7pD9pFjglUHxtd) | 3:00 |
 | 220 | [Wish](https://open.spotify.com/track/4SDclRHhC2Nf2qoYjeyvtk) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Wish](https://open.spotify.com/album/3D4uWbaadwTFrOgddwKnGW) | 3:19 |
 
-Snapshot ID: `AAAAAMP5w7nDFqGXu3q1BLEqhHFjjw6t`
+Snapshot ID: `AAAAAMLgKNQNvXG5i2numxe8dm8QXBI3`

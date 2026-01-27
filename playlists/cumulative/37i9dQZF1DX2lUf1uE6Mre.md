@@ -4,7 +4,7 @@
 
 > Die Playlist zur Wasserpfeife\. Cover: Amo, Aymen
 
-424 songs - 17 hr 58 min
+425 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Eurosport](https://open.spotify.com/track/1IncGnjnnKmBkFw0vIf0lV) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [Eurosport](https://open.spotify.com/album/6jGAdXROnVnPKtncSr7jj8) | 2:42 | 2024-06-28 | 2024-10-25 |
 | [ex und so](https://open.spotify.com/track/2qGCbovPihUJFbaRlGsFLL) | [IBRA](https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb) | [ex und so](https://open.spotify.com/album/5a1RQxsWXpvWrB1cuFvtnl) | 2:15 | 2024-08-26 |  |
 | [Fantasia](https://open.spotify.com/track/5xypiIRm7ILzbz0kze92u6) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Devito](https://open.spotify.com/artist/0JQ4vokBBqHxHzRb36fSWN) | [Fantasia](https://open.spotify.com/album/5NXVPkMBEozDLKI25LCrtu) | 2:20 | 2024-07-25 | 2024-09-10 |
+| [Farbenblind](https://open.spotify.com/track/6jnslZYy0L9PUx41LhY2rS) | [Vokuz](https://open.spotify.com/artist/6doXiwnEk5F9MToIeEy2uS), [Ché Salah](https://open.spotify.com/artist/6WOkXoxrbPnZXLHVcNqJCT), [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U) | [Farbenblind](https://open.spotify.com/album/0cB4YgrmaAZFALlJrGuaqv) | 2:25 | 2026-01-22 |  |
 | [Favela](https://open.spotify.com/track/75lcLViAJrnKsQTVgn1ZBp) | [Zuna](https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e) | [Favela](https://open.spotify.com/album/3qtjEZ0ULgJaKjf5eIhapK) | 2:12 | 2024-08-21 | 2024-10-11 |
 | [Favela Type Beat](https://open.spotify.com/track/0yfe4whuXtjif5WQt4uXGu) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl) | [Favela Type Beat](https://open.spotify.com/album/6Jy1my0Y51UIeZSmp37P9K) | 2:27 | 2024-06-28 | 2024-12-17 |
 | [Fiona](https://open.spotify.com/track/3SM5bLdiELoAWycAy7dD2J) | [BENSH47](https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw) | [Fiona](https://open.spotify.com/album/6ytRAacYIXoohTPj6RshfF) | 2:52 | 2025-09-18 | 2025-10-03 |
@@ -307,7 +308,7 @@
 | [Plug](https://open.spotify.com/track/5XlJP2J81wF20QariDKRJW) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Plug](https://open.spotify.com/album/62eD2OVzhG6S8jZtHR4D2z) | 2:32 | 2025-04-10 | 2025-07-29 |
 | [Plug](https://open.spotify.com/track/1apdrrO6QhgdZ5IFPsrXwl) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw), [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Plug](https://open.spotify.com/album/1T5ftJvgOHmUnaXw5GLwoK) | 2:55 | 2025-11-20 |  |
 | [Pretty Privilege](https://open.spotify.com/track/1Q4AqPiUPR6jic2vYV5swy) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd) | [Pretty Privilege](https://open.spotify.com/album/4QGZ7HTJRHRecQdOmLF5H5) | 2:25 | 2025-12-19 |  |
-| [Primetime](https://open.spotify.com/track/5TTd6963bC2bAFPuz4uGEm) | [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [Primetime](https://open.spotify.com/album/0FWsRTPxkb74BQwZc6MfZc) | 2:03 | 2025-05-27 |  |
+| [Primetime](https://open.spotify.com/track/5TTd6963bC2bAFPuz4uGEm) | [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [Primetime](https://open.spotify.com/album/0FWsRTPxkb74BQwZc6MfZc) | 2:03 | 2025-05-27 | 2026-01-27 |
 | [Pse](https://open.spotify.com/track/3r7sw5soVrbMM5jX6ScvYX) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Pse](https://open.spotify.com/album/7p4AEWKPGmkwHyKxqtQ2zl) | 2:45 | 2024-06-28 | 2024-07-27 |
 | [Push Push](https://open.spotify.com/track/5j0rJRSqtQ5Tue5l7pllfF) | [Soyhan](https://open.spotify.com/artist/168ZE6n9A3S3s9143vMOEa) | [Push Push](https://open.spotify.com/album/12nqzQ7KDN476Io0KOEDwj) | 2:34 | 2026-01-16 |  |
 | [Rabona](https://open.spotify.com/track/0Ysom9A3PT4NlpJ379ULN4) | [SadiQ](https://open.spotify.com/artist/2cbnuG01tV93pqdfr4OBqL), [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe) | [Rabona](https://open.spotify.com/album/3QlyzBi2sdJtlH63MTEqeo) | 2:24 | 2024-06-28 | 2024-09-10 |

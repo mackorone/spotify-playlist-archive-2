@@ -2843,6 +2843,32 @@
     },
     {
       "album": {
+        "name": "Farbenblind",
+        "url": "https://open.spotify.com/album/0cB4YgrmaAZFALlJrGuaqv"
+      },
+      "artists": [
+        {
+          "name": "Vokuz",
+          "url": "https://open.spotify.com/artist/6doXiwnEk5F9MToIeEy2uS"
+        },
+        {
+          "name": "Ch\u00e9 Salah",
+          "url": "https://open.spotify.com/artist/6WOkXoxrbPnZXLHVcNqJCT"
+        },
+        {
+          "name": "Ataypapi",
+          "url": "https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145793,
+      "name": "Farbenblind",
+      "url": "https://open.spotify.com/track/6jnslZYy0L9PUx41LhY2rS"
+    },
+    {
+      "album": {
         "name": "Favela",
         "url": "https://open.spotify.com/album/3qtjEZ0ULgJaKjf5eIhapK"
       },
@@ -6330,7 +6356,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 123529,
       "name": "Primetime",
       "url": "https://open.spotify.com/track/5TTd6963bC2bAFPuz4uGEm"

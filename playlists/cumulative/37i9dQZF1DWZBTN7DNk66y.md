@@ -4,7 +4,7 @@
 
 > El nuevo sonido de la canción sudamericana de la mano de Rosario Alfonso y San Pedro Bonfim.
 
-230 songs - 13 hr 23 min
+231 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,10 +78,11 @@
 | [El Plan Mayor](https://open.spotify.com/track/7JlpH2WqjABcFULmtNIMeM) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht), [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7) | [El Plan Mayor](https://open.spotify.com/album/3gwoxCZpCCpcWlmuoR0efY) | 2:52 | 2024-06-28 | 2024-08-24 |
 | [El rey del yuyal](https://open.spotify.com/track/37q1oUFGyp0Uh8L8kArkym) | [Pensé que era viernes](https://open.spotify.com/artist/4ItV8u3CWrnoo4D8JEHXk1) | [El rey del yuyal](https://open.spotify.com/album/3YmKNf3CiCG381ZvxJwkCk) | 2:54 | 2024-08-23 |  |
 | [El Sol Está Mojado](https://open.spotify.com/track/0S5X7mezP843brjI9SfQr2) | [Inés Errandonea](https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk), [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [El Sol Está Mojado](https://open.spotify.com/album/4qIKaK2QH6RHfRdTItl4zY) | 4:15 | 2024-09-06 | 2025-02-08 |
-| [El Tambor](https://open.spotify.com/track/6Ohp9GIMDh0mvDGo87KWY8) | [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd), [Juan Campodónico](https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN), [Matías Rada](https://open.spotify.com/artist/5e5vdboKmw4s7QAMPRUI1N) | [Candombe](https://open.spotify.com/album/02tFQcbgaxEs6RRiGs6qCl) | 2:53 | 2024-10-25 |  |
+| [El Tambor](https://open.spotify.com/track/6Ohp9GIMDh0mvDGo87KWY8) | [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd), [Juan Campodónico](https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN), [Matías Rada](https://open.spotify.com/artist/5e5vdboKmw4s7QAMPRUI1N) | [Candombe](https://open.spotify.com/album/02tFQcbgaxEs6RRiGs6qCl) | 2:53 | 2024-10-25 | 2026-01-27 |
 | [El Vals](https://open.spotify.com/track/6zx183cKNh2ws2k9ikLK1Q) | [Felix Alvarez](https://open.spotify.com/artist/7uiyWjLynl8bhyxDuKphXA) | [El Vals](https://open.spotify.com/album/1I0GlSP3diYHVYtDaXFyrN) | 3:20 | 2024-06-28 | 2024-08-17 |
 | [El Viejo](https://open.spotify.com/track/3ugyzwRwTTIKGkfKPFbmD5) | [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb), [Sebastián Teysera](https://open.spotify.com/artist/4TidDyz02XtlA9d32j1ZYK) | [El Viejo](https://open.spotify.com/album/5p7kLopaRQvub9x68Tk8Bk) | 3:29 | 2024-06-28 |  |
 | [El Último Mate](https://open.spotify.com/track/6WWXNlIRqZ3tYCzJo20mJD) | [Patuco López](https://open.spotify.com/artist/2bq9ody02kVhFK3RQ8THRy), [Santiago Moraes](https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld) | [Hunde](https://open.spotify.com/album/2wzVHWdzz15E9nuZ63ZtKJ) | 3:54 | 2024-08-23 |  |
+| [Empezá](https://open.spotify.com/track/5IeeKP9RuykyaPwK3dAL0H) | [Martina Pérez Cabrera](https://open.spotify.com/artist/7pUWJxIzYbGScodFyWco4d), [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Jerónimo Verdún](https://open.spotify.com/artist/3TmRLOd6WcO1FcYVEuHmoR) | [Empezá](https://open.spotify.com/album/4UiDQjquvgXAKNNceTZldp) | 3:19 | 2026-01-09 |  |
 | [Entrada Liberada](https://open.spotify.com/track/4lXdEl2Mq9mCMi8GDdDq2n) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Entrada Liberada](https://open.spotify.com/album/4xweB2KJ83gx2p2qkBeIRE) | 2:39 | 2024-06-28 | 2025-02-25 |
 | [Escorpio \- Acoustic Version](https://open.spotify.com/track/571JXQi27kn8wl87BfZgz6) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD) | [Escorpio \(Acoustic Version\)](https://open.spotify.com/album/5sU9af4bNsE96gZVXrXBjl) | 3:23 | 2024-08-23 | 2024-10-26 |
 | [Esperanza](https://open.spotify.com/track/3udpGRMgZkvml2wsDUoSNL) | [bambu](https://open.spotify.com/artist/33gHNq944vAjJT986rp1TZ), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Esperanza](https://open.spotify.com/album/0SRelqWjmVPD1Y4nslmyB6) | 3:51 | 2024-10-25 |  |

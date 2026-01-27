@@ -2651,6 +2651,24 @@
     },
     {
       "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/099BTOPRjbK5l6bCNfx4bM"
+      },
+      "artists": [
+        {
+          "name": "Lone",
+          "url": "https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198648,
+      "name": "Alpha Wheel",
+      "url": "https://open.spotify.com/track/3s3FAfyclFcd4Z5VJFXyyf"
+    },
+    {
+      "album": {
         "name": "Cry Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY"
       },

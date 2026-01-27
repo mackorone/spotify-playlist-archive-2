@@ -5242,7 +5242,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 166779,
       "name": "AWGAZI",
       "url": "https://open.spotify.com/track/2D9coh76MCXNqDEUCHl5vl"
@@ -19900,7 +19900,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -30224,10 +30224,28 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 171599,
       "name": "Hyperbaiter Disstrack",
       "url": "https://open.spotify.com/track/2p1DODTjdaMbARn6H8HuvS"
+    },
+    {
+      "album": {
+        "name": "Hyperbaiter Disstrack",
+        "url": "https://open.spotify.com/album/02AaGsIjQ7GuOkQpD35B5N"
+      },
+      "artists": [
+        {
+          "name": "HaVexy",
+          "url": "https://open.spotify.com/artist/5HyFjzFkbuemY0v56tPYMn"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171605,
+      "name": "Hyperbaiter Disstrack",
+      "url": "https://open.spotify.com/track/1VGtdmj4Kr7gijTZnJ5A8x"
     },
     {
       "album": {
@@ -43676,7 +43694,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-26",
+      "date_removed": null,
       "duration_ms": 214479,
       "name": "MOMENT - DEEP HOUSE REMIX",
       "url": "https://open.spotify.com/track/5sUCXZAnSkCdBLY5uItJlO"
@@ -49102,7 +49120,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 185786,
       "name": "No Way Back (Feat. So!YoON!)",
       "url": "https://open.spotify.com/track/6u7J7OH56kiN2A7Pfv5D0i"
@@ -69618,6 +69636,28 @@
       "duration_ms": 197625,
       "name": "Thong Song x Poker Face",
       "url": "https://open.spotify.com/track/07K8skqONaGHHXb8roY4u3"
+    },
+    {
+      "album": {
+        "name": "Thong Song X Poker Face",
+        "url": "https://open.spotify.com/album/55m1UMV6W7L0RAlo49IlcT"
+      },
+      "artists": [
+        {
+          "name": "Orion7",
+          "url": "https://open.spotify.com/artist/5xq85p5vUAcHW9qjlJ2Hle"
+        },
+        {
+          "name": "DJ RITA",
+          "url": "https://open.spotify.com/artist/0kDDAQOW7U6RtZCT88dNGd"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197610,
+      "name": "Thong Song X Poker Face",
+      "url": "https://open.spotify.com/track/74hIKHOwoTdumgiTHm1lzd"
     },
     {
       "album": {

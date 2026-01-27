@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.substack.com/pub/loremandfriends/p/25-year-end-reflections-from-turnstile?r=ge875&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\">Check out our Substack here!!!!!!!</a> Cover: Harry Styles \ud83e\udea9",
-  "num_followers": 1185882,
+  "num_followers": 1185857,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGIVQRs4HXdOlI7k//7fhDCBbiZ3",
+  "snapshot_id": "AAAAAAdRZOHqbcBWUaQNPJ51eiY+mSgx",
   "tracks": [
     {
       "added_at": "2026-01-23 05:00:30",
@@ -171,6 +171,22 @@
       "duration_ms": 221066,
       "name": "Memory Be a Blade",
       "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
+    },
+    {
+      "added_at": "2026-01-26 18:57:30",
+      "album": {
+        "name": "Even Mountains Erode / Heaven2",
+        "url": "https://open.spotify.com/album/1EwoSCmnicLldfw3IXW9Su"
+      },
+      "artists": [
+        {
+          "name": "Lala Lala",
+          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Even Mountains Erode",
+      "url": "https://open.spotify.com/track/58kHTh4O40lBfpVAZNdaAW"
     },
     {
       "added_at": "2026-01-05 17:05:04",
@@ -3251,22 +3267,6 @@
       "duration_ms": 196302,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/2ykiSY1uHTHCBVpbym4Uff"
-    },
-    {
-      "added_at": "2025-04-25 14:40:29",
-      "album": {
-        "name": "I Heard That Noise",
-        "url": "https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR"
-      },
-      "artists": [
-        {
-          "name": "quickly, quickly",
-          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
-        }
-      ],
-      "duration_ms": 188256,
-      "name": "I Punched Through The Wall",
-      "url": "https://open.spotify.com/track/49lYeNtjK2w2gErCYz2ljk"
     },
     {
       "added_at": "2025-04-24 04:00:31",

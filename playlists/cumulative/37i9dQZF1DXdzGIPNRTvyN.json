@@ -5507,6 +5507,24 @@
     },
     {
       "album": {
+        "name": "Seemless",
+        "url": "https://open.spotify.com/album/4oUaVe49OQ9PxMznXvrT1d"
+      },
+      "artists": [
+        {
+          "name": "Jack Allenson",
+          "url": "https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143083,
+      "name": "Seemless",
+      "url": "https://open.spotify.com/track/3OD50TNyouO8VJHnKrrrRz"
+    },
+    {
+      "album": {
         "name": "Sequoia Peace (Forest)",
         "url": "https://open.spotify.com/album/02rCoQAI3AFIJIsG4Cx8u7"
       },
@@ -6274,7 +6292,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 156641,
       "name": "Taigara",
       "url": "https://open.spotify.com/track/7K7ZAr3k3yiDTkBbYjTn3r"

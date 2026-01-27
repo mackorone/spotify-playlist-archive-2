@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 37158,
+  "num_followers": 37159,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXQLgAAAAABpuVT1MF4UasYfV0BSS8zb",
+  "snapshot_id": "aXVdAAAAAAAwPylOIGp0rdQ8FD3Cki5I",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mali",
-        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
+        "name": "Legends",
+        "url": "https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 374106,
-      "name": "My Baby",
-      "url": "https://open.spotify.com/track/6fWKHcXxJQHV2xCiQCSTWu"
+      "duration_ms": 239800,
+      "name": "Wedding Day",
+      "url": "https://open.spotify.com/track/26e8Qw2ABeMtVbYxIYIkMr"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legends",
-        "url": "https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO"
+        "name": "Mali",
+        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 239800,
-      "name": "Wedding Day",
-      "url": "https://open.spotify.com/track/26e8Qw2ABeMtVbYxIYIkMr"
+      "duration_ms": 374106,
+      "name": "My Baby",
+      "url": "https://open.spotify.com/track/6fWKHcXxJQHV2xCiQCSTWu"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mina Nawe",
-        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 288213,
-      "name": "Wewe (African Wedding)",
-      "url": "https://open.spotify.com/track/26vfNVp3EkjxMZv9ix1vXw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piano Republik",
         "url": "https://open.spotify.com/album/4EPyqparNEvWk2gbHgXPzO"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 294746,
       "name": "Monate",
       "url": "https://open.spotify.com/track/3xP06xjR4drFbWNXarAbGk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mina Nawe",
+        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 288213,
+      "name": "Wewe (African Wedding)",
+      "url": "https://open.spotify.com/track/26vfNVp3EkjxMZv9ix1vXw"
     },
     {
       "added_at": null,
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 240640,
-      "name": "Zola Budd",
-      "url": "https://open.spotify.com/track/2YAaOJ86NNPFq70QrMNc4g"
+      "duration_ms": 244400,
+      "name": "Boipatong",
+      "url": "https://open.spotify.com/track/0RjRoE7GPfLq0hs51lhIPN"
     },
     {
       "added_at": null,

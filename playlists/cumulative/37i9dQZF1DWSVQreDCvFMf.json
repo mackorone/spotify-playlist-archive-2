@@ -2597,6 +2597,32 @@
     },
     {
       "album": {
+        "name": "don't wanna",
+        "url": "https://open.spotify.com/album/6V0pKsArUJjdz1X0aAkkQV"
+      },
+      "artists": [
+        {
+          "name": "Alys",
+          "url": "https://open.spotify.com/artist/4cS8r9JlwhqLafUWAXkzHx"
+        },
+        {
+          "name": "fcj",
+          "url": "https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js"
+        },
+        {
+          "name": "Cat Naps",
+          "url": "https://open.spotify.com/artist/1XbzIeVSWEQ2ul2DDj8PNe"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170454,
+      "name": "don't wanna",
+      "url": "https://open.spotify.com/track/45VVb6x93vBDXet5W6oz5s"
+    },
+    {
+      "album": {
         "name": "Meet Me There",
         "url": "https://open.spotify.com/album/4TfJneYLsoxAiuGlAZuG2b"
       },
@@ -3618,7 +3644,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 264000,
       "name": "Handa Na Akong Sumugal",
       "url": "https://open.spotify.com/track/2DrmHtlsnDVy7nCh69nrWX"
@@ -3690,7 +3716,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 177209,
       "name": "Hapag",
       "url": "https://open.spotify.com/track/3XTtXM3opfJyYmNE23CkOp"
@@ -3886,7 +3912,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 199743,
       "name": "Heartbroken Christmas",
       "url": "https://open.spotify.com/track/4uMr7jGGx3oaNYYdjgo2rK"
@@ -6705,6 +6731,24 @@
     },
     {
       "album": {
+        "name": "Malapit Na",
+        "url": "https://open.spotify.com/album/574CeND3FeTYCKXZRvyYFf"
+      },
+      "artists": [
+        {
+          "name": "Jana Garcia",
+          "url": "https://open.spotify.com/artist/2M4mQMnLHQQXsFsRmTTqsR"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Malapit Na",
+      "url": "https://open.spotify.com/track/2aPdExbxR7CbZk5vaEP9Uh"
+    },
+    {
+      "album": {
         "name": "malinaw",
         "url": "https://open.spotify.com/album/0w1tJ2IBj1VEHK2pSwQ3iD"
       },
@@ -8508,7 +8552,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 181032,
       "name": "Pagitan",
       "url": "https://open.spotify.com/track/09l7DSBPUiqqyDEeQ2au3o"
@@ -9192,7 +9236,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 211862,
       "name": "Paruparo",
       "url": "https://open.spotify.com/track/0waZh26XErLP0Za4Dgc3T0"
@@ -9933,6 +9977,24 @@
     },
     {
       "album": {
+        "name": "Romantiko",
+        "url": "https://open.spotify.com/album/6vBSyX9ujgNu68nOBJR0FX"
+      },
+      "artists": [
+        {
+          "name": "The Cohens",
+          "url": "https://open.spotify.com/artist/5x3ZUgvYdLryFxvI4n1F1G"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229695,
+      "name": "Romantiko",
+      "url": "https://open.spotify.com/track/1gAGL09rhgsEH3d03Swko5"
+    },
+    {
+      "album": {
         "name": "Room",
         "url": "https://open.spotify.com/album/3yyf40UEKCP9sZbAxYdGih"
       },
@@ -10478,7 +10540,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 231157,
       "name": "Sapat",
       "url": "https://open.spotify.com/track/16DOniUplo7e5jpPuf5Y7q"
@@ -11135,6 +11197,24 @@
     },
     {
       "album": {
+        "name": "Summa Cum Laude",
+        "url": "https://open.spotify.com/album/5lHWVk8A2xtU2xgiG2KyP5"
+      },
+      "artists": [
+        {
+          "name": "Matt Wilson",
+          "url": "https://open.spotify.com/artist/5xPS5Chr0YYtb1VmZJqz38"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202306,
+      "name": "Summa Cum Laude",
+      "url": "https://open.spotify.com/track/4xnPpy340UhTzo9JdwF5s0"
+    },
+    {
+      "album": {
         "name": "Sumpa",
         "url": "https://open.spotify.com/album/7xbollYnpZJ5iMSFhWrbI1"
       },
@@ -11422,6 +11502,24 @@
       "duration_ms": 302727,
       "name": "Tahan",
       "url": "https://open.spotify.com/track/4BB6XuY1lffZ3GAyuWBxi3"
+    },
+    {
+      "album": {
+        "name": "Tahan",
+        "url": "https://open.spotify.com/album/2PaTqF2WRQ5u9q5enj5Vcg"
+      },
+      "artists": [
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/4m8hsULyuiNkAqHweun8he"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223319,
+      "name": "Tahan",
+      "url": "https://open.spotify.com/track/6apXJLEw1CQHDD8CoDJr5Q"
     },
     {
       "album": {
@@ -12254,6 +12352,24 @@
       "duration_ms": 218936,
       "name": "Tumalon",
       "url": "https://open.spotify.com/track/3jY7hKSQ1Iqm8GXgs8lYHb"
+    },
+    {
+      "album": {
+        "name": "Tumaya",
+        "url": "https://open.spotify.com/album/3AY8kdUZXjy0AX7GA4GwwH"
+      },
+      "artists": [
+        {
+          "name": "Bert Symoun",
+          "url": "https://open.spotify.com/artist/1WeeTm0Wd9QYP65MGIsUgz"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207661,
+      "name": "Tumaya",
+      "url": "https://open.spotify.com/track/5bXkfZuaIcNe64TsZKBQ7y"
     },
     {
       "album": {

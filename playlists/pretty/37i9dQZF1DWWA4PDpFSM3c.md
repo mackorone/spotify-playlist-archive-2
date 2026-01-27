@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,239 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,304 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 34 | [Seethakaalam](https://open.spotify.com/track/2C72bOiY3kbCgDBBznoejk) | [YAZIN](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Son Of Satyamurthy](https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d) | 4:22 |
 | 35 | [Choosi Chudangane](https://open.spotify.com/track/0fYTkcBMtjtP4hzoOxGgSF) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Chalo](https://open.spotify.com/album/4OM6femr6U4dYJwxByQMKX) | 3:22 |
 | 36 | [Vellipomaake](https://open.spotify.com/track/6z15tFRtCyiSorSGaKLJeu) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj) | [Saahasam Swaasaga Saagipo](https://open.spotify.com/album/4Y48mLFqW5aJ7LRoUUMx6J) | 4:21 |
-| 37 | [Chandrullo Unde](https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Nuvvostanante Nenoddantana](https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO) | 4:15 |
-| 38 | [Don't Know Why \(From "Magic"\)](https://open.spotify.com/track/4L1x42K4MYwWL0xgm5rand) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [worldofaugust](https://open.spotify.com/artist/6UFFM6ADuQQcNW8oWhijmO), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Don't Know Why \(From "Magic"\)](https://open.spotify.com/album/6hIddP0EOCBuJrsoU4GNpV) | 3:44 |
+| 37 | [Don't Know Why \(From "Magic"\)](https://open.spotify.com/track/4L1x42K4MYwWL0xgm5rand) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [worldofaugust](https://open.spotify.com/artist/6UFFM6ADuQQcNW8oWhijmO), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Don't Know Why \(From "Magic"\)](https://open.spotify.com/album/6hIddP0EOCBuJrsoU4GNpV) | 3:44 |
+| 38 | [Chandrullo Unde](https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Nuvvostanante Nenoddantana](https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO) | 4:15 |
 | 39 | [Neeve](https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP) | [YAZIN](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Neeve](https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V) | 5:07 |
 | 40 | [Gala Gala Paruthunna](https://open.spotify.com/track/6E2MIXNryG2WcVb9sh1I8L) | [Nihal](https://open.spotify.com/artist/7DX2CLnA9ajgQuNf5jqEXl) | [Pokiri](https://open.spotify.com/album/4CO4EDT6CLK1TC6n4yJNUX) | 4:33 |
 | 41 | [Mella Mellagaa](https://open.spotify.com/track/4vX7VKZYx1wGAq5DKBTfAF) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [ABCD \- American Born Confused Desi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19kRwbWwLuNJduIg7G7mnt) | 4:03 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 47 | [Pachchadanamey](https://open.spotify.com/track/6Au5A9YR9koo7bkyG4ucYf) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Clinton](https://open.spotify.com/artist/0kEZTiAxUemQeqP06npWMG) | [Sakhi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63A8OAjGyffPyMhZOMhoSG) | 6:01 |
 | 48 | [Chali Gaali Chuudduu](https://open.spotify.com/track/3QsM6YG0DqtqQ3jPxTIFlW) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk), [Malavika \(U.S\)](https://open.spotify.com/artist/3sGIKvw53mzsyXuhjxkKTC) | [Gentleman](https://open.spotify.com/album/5pDP183RRSwga8C5XNtRCL) | 4:27 |
 | 49 | [Dhim Thana](https://open.spotify.com/track/6bbSwo7GyM7DWjzicUerR9) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Kick](https://open.spotify.com/album/0AWdfmWDjXwMbeGI0so1dR) | 5:01 |
-| 50 | [Waiting For You](https://open.spotify.com/track/42XgH6kQAvTOiKODWMuD9p) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 5:54 |
+| 50 | [Hey Radha](https://open.spotify.com/track/3NT8OV19NUe4szO6OL0OEu) | [Amar Dudam](https://open.spotify.com/artist/6whKgtgFVbXg8VxPF22go2) | [Hey Radha \- Single](https://open.spotify.com/album/2t3bQJvaw1iG9mPah8mBRG) | 4:03 |
 
 Snapshot ID: `AAAAAC1KGddQMgCRXoqrTsIphHXwyiQS`

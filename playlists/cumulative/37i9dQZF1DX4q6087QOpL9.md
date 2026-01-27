@@ -4,7 +4,7 @@
 
 > That real soulful house sound.
 
-391 songs - 1 day 16 hr 45 min
+392 songs - 1 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Backfired \- Dave Lee Club Mix](https://open.spotify.com/track/2RsSPUTNQ147dUCQyC4toz) | [MAW](https://open.spotify.com/artist/3oFo7b0W6IxvcjcMnPBxAx), [India](https://open.spotify.com/artist/7mGxCINUVtKdYJGqlT9hSt), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Backfired](https://open.spotify.com/album/6ny1UzeTKJ9iR4e7t6SHVz) | 8:39 | 2022-09-13 | 2024-04-19 |
 | [Bad Habit \- feat\. Lisa Millett](https://open.spotify.com/track/2WlL39aheJp01hsbVtZPcZ) | [ATFC](https://open.spotify.com/artist/0KxW5WlV8dK7xm6NHbRnZq) | [Bad Habit](https://open.spotify.com/album/2zMznSDvdN7F0J32yNZeBL) | 6:46 | 2022-09-13 | 2025-02-09 |
 | [Be Free](https://open.spotify.com/track/7c48NsnACcNlYgkOltbFdn) | [Spiritchaser](https://open.spotify.com/artist/05FYF8i0eXeZjLLLcgc8HJ), [Terry Grant](https://open.spotify.com/artist/6msfT26DWbAopZgHC6M9VL) | [Be Free](https://open.spotify.com/album/7z4tUYpkqZXsAw4pu8CSaX) | 3:58 | 2024-04-18 |  |
+| [Bear With Me \- Husky's Beach Club Mix](https://open.spotify.com/track/7LoX4zwi8ozAHXI8WjFGGG) | [Dave Mayer](https://open.spotify.com/artist/0WCGrh6RDVagRm473Iwlan), [Husky](https://open.spotify.com/artist/1BQ5NhlyhxAO1CdRYGHmQe), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [Bear With Me](https://open.spotify.com/album/45BTsoSeM77xyriqTCL7Pc) | 4:30 | 2026-01-23 |  |
 | [Beautiful](https://open.spotify.com/track/7nLIq6GdouHfHmCKNRcTSZ) | [Scott Wozniak](https://open.spotify.com/artist/4X5MbMRy7w6vmcUZDaKa2O) | [Beautiful](https://open.spotify.com/album/1N5tjhcRUQ11jGPwQd7eEq) | 8:17 | 2025-05-08 |  |
 | [Beautiful \- John Beltran Remix](https://open.spotify.com/track/7Mhq9EfVly0iAymWLr9Zsr) | [Ezel](https://open.spotify.com/artist/3QABEE2hggcdeYHN7K8an5), [Earl W\. Green](https://open.spotify.com/artist/3ycMWKEvLBwpFB7kQo9nOM), [John Beltran](https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd) | [Beautiful](https://open.spotify.com/album/6hpQ6Ve3E6uyn0OAkJpPv9) | 5:28 | 2024-04-18 |  |
 | [Beautifull \- Kerri Chandler Vocal Mix](https://open.spotify.com/track/0emR0YB9BPQpkcto54KKfR) | [Devon Miles](https://open.spotify.com/artist/4PdjujFNWfXyeCHGo2Uhv3), [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Beautifull](https://open.spotify.com/album/4JnFpyALSYA6Tlfbwl4uUP) | 6:10 | 2024-08-30 |  |
@@ -154,7 +155,7 @@
 | [Heat Up \- Radio Edit](https://open.spotify.com/track/1gJvChg4l4OfnOhN1K8DrX) | [Peven Everett](https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY) | [Heat Up](https://open.spotify.com/album/47ZNHA2NLqAZTT7ZcWPVVS) | 3:55 | 2022-09-13 | 2024-04-19 |
 | [Heaven \(feat\. Andreya Triana\) \- Danny Krivit Edit](https://open.spotify.com/track/5Re8DUUAt9ui1Yr6WdNwFm) | [The Vision](https://open.spotify.com/artist/33nwA09TKiO0nWmUrI3E1I), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2), [Danny Krivit](https://open.spotify.com/artist/0Y5z4slenWMoTz3sg8N6xD) | [Edits by Mr\. K](https://open.spotify.com/album/0cRgDZNg8D4w80HYA3wbkX) | 6:21 | 2022-09-13 | 2025-02-09 |
 | [Heaven \- Marlon D\. & G.A\. Club Mix](https://open.spotify.com/track/6jNo9oEFfOBOm8DtmqOApe) | [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [Jellybean Soul Presents: Feel the Spirit, Vol\. 1](https://open.spotify.com/album/4cHdkMOIVkTEK3NbTpYICk) | 8:14 | 2022-09-13 | 2024-09-27 |
-| [Heaven Knows](https://open.spotify.com/track/22kvzIUCs0oua1K4f1NyWf) | [Rea Blaque](https://open.spotify.com/artist/4ChfQqwjcdXcY1ByUc5Ama), [MoreSoul](https://open.spotify.com/artist/2NnJ40aRQwcTggABFZLhTQ) | [Heaven Knows](https://open.spotify.com/album/63VP59FutIeq6x2VBXGTV7) | 6:08 | 2025-02-08 |  |
+| [Heaven Knows](https://open.spotify.com/track/22kvzIUCs0oua1K4f1NyWf) | [Rea Blaque](https://open.spotify.com/artist/4ChfQqwjcdXcY1ByUc5Ama), [MoreSoul](https://open.spotify.com/artist/2NnJ40aRQwcTggABFZLhTQ) | [Heaven Knows](https://open.spotify.com/album/63VP59FutIeq6x2VBXGTV7) | 6:08 | 2025-02-08 | 2026-01-27 |
 | [Here We Go](https://open.spotify.com/track/5ysvcQAzheQErRhz7FjOqm) | [Ken@Work](https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj) | [Here We Go](https://open.spotify.com/album/3nH3tGTMP6OyyfEUS0SQge) | 4:46 | 2024-06-04 |  |
 | [Highways \- Dave Lee Medusa Mix](https://open.spotify.com/track/5b2Mjf5TQ7ZqlMHik968cn) | [Akabu](https://open.spotify.com/artist/1wLsQhBKNjZOd8NdXY4kTC), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f), [Jinadu](https://open.spotify.com/artist/0o9k6CmDuy07gP28ov82wp) | [Highways](https://open.spotify.com/album/1iICsAza05q2fnEm4aHezr) | 6:49 | 2023-11-04 | 2024-04-14 |
 | [History Repeating](https://open.spotify.com/track/1HxspvM1G4sLwQJjHFHfUl) | [Ezel](https://open.spotify.com/artist/3QABEE2hggcdeYHN7K8an5), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [Take Me Home](https://open.spotify.com/album/6Ycua7QnNMNkfEKm8vsi6Z) | 7:29 | 2024-09-26 |  |

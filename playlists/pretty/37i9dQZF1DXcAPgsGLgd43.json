@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 107651,
+  "num_followers": 107715,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2026-01-23 05:00:23",
       "album": {
+        "name": "Sensual Disguise EP",
+        "url": "https://open.spotify.com/album/5a4tu8Yr8PQDN9fOooSBmA"
+      },
+      "artists": [
+        {
+          "name": "Blackchild (ITA)",
+          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+        }
+      ],
+      "duration_ms": 190656,
+      "name": "Te Conoci",
+      "url": "https://open.spotify.com/track/15YgNVANAkLbiNligewd1R"
+    },
+    {
+      "added_at": "2026-01-23 05:00:23",
+      "album": {
         "name": "Coroa",
         "url": "https://open.spotify.com/album/2VyoPPR34XZhvgzEqSVQ6a"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 136088,
       "name": "Coroa",
       "url": "https://open.spotify.com/track/7tgVdw3YmgZe2JyFHxpmq3"
-    },
-    {
-      "added_at": "2026-01-23 05:00:23",
-      "album": {
-        "name": "Sensual Disguise EP",
-        "url": "https://open.spotify.com/album/5a4tu8Yr8PQDN9fOooSBmA"
-      },
-      "artists": [
-        {
-          "name": "Blackchild (ITA)",
-          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
-        }
-      ],
-      "duration_ms": 190656,
-      "name": "Te Conoci",
-      "url": "https://open.spotify.com/track/15YgNVANAkLbiNligewd1R"
     },
     {
       "added_at": "2026-01-23 05:00:23",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2026-01-23 05:00:23",
       "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
-    },
-    {
-      "added_at": "2026-01-23 05:00:23",
-      "album": {
         "name": "Se Va (feat. Cumbiafrica)",
         "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 196750,
       "name": "Se Va (feat. Cumbiafrica)",
       "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
+    },
+    {
+      "added_at": "2026-01-23 05:00:23",
+      "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
     },
     {
       "added_at": "2026-01-23 05:00:23",
@@ -1907,6 +1907,30 @@
     {
       "added_at": "2026-01-23 05:00:23",
       "album": {
+        "name": "Coco Loco",
+        "url": "https://open.spotify.com/album/7eBEzXHye7PEHwVQcpYRis"
+      },
+      "artists": [
+        {
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+        },
+        {
+          "name": "Tekkman",
+          "url": "https://open.spotify.com/artist/4amut0vklLIj9lY81yEHtj"
+        },
+        {
+          "name": "Juany Bravo",
+          "url": "https://open.spotify.com/artist/7FWTTxJZ35ZNqhFCLOE3zm"
+        }
+      ],
+      "duration_ms": 156768,
+      "name": "Coco Loco",
+      "url": "https://open.spotify.com/track/32lsePQmdOSRrbeUlcqQm0"
+    },
+    {
+      "added_at": "2026-01-23 05:00:23",
+      "album": {
         "name": "Piquete Cabron",
         "url": "https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq"
       },
@@ -1943,30 +1967,6 @@
       "duration_ms": 142258,
       "name": "Marrakesh",
       "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
-    },
-    {
-      "added_at": "2026-01-23 05:00:23",
-      "album": {
-        "name": "Coco Loco",
-        "url": "https://open.spotify.com/album/7eBEzXHye7PEHwVQcpYRis"
-      },
-      "artists": [
-        {
-          "name": "Eran Hersh",
-          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
-        },
-        {
-          "name": "Tekkman",
-          "url": "https://open.spotify.com/artist/4amut0vklLIj9lY81yEHtj"
-        },
-        {
-          "name": "Juany Bravo",
-          "url": "https://open.spotify.com/artist/7FWTTxJZ35ZNqhFCLOE3zm"
-        }
-      ],
-      "duration_ms": 156768,
-      "name": "Coco Loco",
-      "url": "https://open.spotify.com/track/32lsePQmdOSRrbeUlcqQm0"
     },
     {
       "added_at": "2026-01-23 05:00:23",
@@ -2011,30 +2011,26 @@
     {
       "added_at": "2026-01-23 05:00:23",
       "album": {
-        "name": "Coketea (feat. Dean Walker)",
-        "url": "https://open.spotify.com/album/6vw66EvhvToEv490yZTtnT"
+        "name": "El Baile",
+        "url": "https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM"
       },
       "artists": [
         {
-          "name": "Kastelo",
-          "url": "https://open.spotify.com/artist/2KmU3cHtzAMUFFEQPHF8ON"
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
         },
         {
-          "name": "Maahez",
-          "url": "https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ"
+          "name": "Novak",
+          "url": "https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy"
         },
         {
-          "name": "Sael Quinn",
-          "url": "https://open.spotify.com/artist/1u4OxkwNI4kCwcjTeFE0bj"
-        },
-        {
-          "name": "Dean Walker",
-          "url": "https://open.spotify.com/artist/2yu2cq17ts76sjEjRMKqkN"
+          "name": "Fonsa",
+          "url": "https://open.spotify.com/artist/74HgHiHyAfNJkfJlIk6uAU"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Coketea (feat. Dean Walker)",
-      "url": "https://open.spotify.com/track/28L7bvWJkW1aXwAkjg5GaF"
+      "duration_ms": 174880,
+      "name": "El Baile",
+      "url": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb"
     }
   ],
   "unique_name": "Latin House",

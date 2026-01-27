@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillery rozdane! Posłuchaj zwycięzców i wszystkich nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,601 likes - 61 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,596 likes - 61 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 31 | [INTRODESTRUKCJA](https://open.spotify.com/track/1T4n3A9KWa2Gno5tJlMqwf) | [Macias](https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho), [White Widow](https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0) | [INTRODESTRUKCJA](https://open.spotify.com/album/2Ww21uhTbsK2Z3b6yb9GRA) | 2:14 |
 | 32 | [MADONNA](https://open.spotify.com/track/4fyuRAFi2Zigy7kgk5Sq4v) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [TRAP OR DIE](https://open.spotify.com/album/1HU76pMBDYXhvPr8IwviVS) | 2:39 |
 | 33 | [Znachor](https://open.spotify.com/track/39l5Izu23Frq6l8PE0JtaO) | [KęKę](https://open.spotify.com/artist/11ohMXkA2KIq5F1DoWH2jj), [Nody Beats](https://open.spotify.com/artist/1yAGqHfZiNmD5XFqJJEXUI) | [04:01](https://open.spotify.com/album/0rMY6sS2J58oeblsjSWx1G) | 3:00 |
-| 34 | [Królowie Demolki](https://open.spotify.com/track/1VrkYX7OUcfbBKA6PN3mbK) | [Donguralesko](https://open.spotify.com/artist/7kaEEK2cQh07aEfEEBd4Hn), [Fokus](https://open.spotify.com/artist/2h2nL9Hk4GQNcFm7fYV5ck), [The Returners](https://open.spotify.com/artist/4zO6WqG8mu49ek0ZDIptTk) | [MIEJSKIE PTAKI](https://open.spotify.com/album/1vcnO1M72SNnU1Ctsc9nyk) | 3:50 |
-| 35 | [Offwhite](https://open.spotify.com/track/75rO8VUFuUUsuLmpf1p6rk) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT), [DKanee](https://open.spotify.com/artist/4ixbLtejEaAWMmgOxKKew6) | [Offwhite](https://open.spotify.com/album/3FhUHjFhhWguRwjfoq68x1) | 2:22 |
+| 34 | [Offwhite](https://open.spotify.com/track/75rO8VUFuUUsuLmpf1p6rk) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT), [DKanee](https://open.spotify.com/artist/4ixbLtejEaAWMmgOxKKew6) | [Offwhite](https://open.spotify.com/album/3FhUHjFhhWguRwjfoq68x1) | 2:22 |
+| 35 | [Królowie Demolki](https://open.spotify.com/track/1VrkYX7OUcfbBKA6PN3mbK) | [Donguralesko](https://open.spotify.com/artist/7kaEEK2cQh07aEfEEBd4Hn), [Fokus](https://open.spotify.com/artist/2h2nL9Hk4GQNcFm7fYV5ck), [The Returners](https://open.spotify.com/artist/4zO6WqG8mu49ek0ZDIptTk) | [MIEJSKIE PTAKI](https://open.spotify.com/album/1vcnO1M72SNnU1Ctsc9nyk) | 3:50 |
 | 36 | [Nie obiecam](https://open.spotify.com/track/6oWYMN1M7M97LTvlRkWfVv) | [Małach](https://open.spotify.com/artist/1s4U0KH826DemEVZgc4Iuu), [Rufuz](https://open.spotify.com/artist/0rYYnTxFACR9nj0pwBpD9n), [Bonson](https://open.spotify.com/artist/2kJ63OVxHAPMMu0AfKa22d), [Małach/Rufuz](https://open.spotify.com/artist/78Rgi3QpIvPGecr69F0D64) | [MATERIAŁ](https://open.spotify.com/album/4xCUeIAuaKwPm3FtbsZBYa) | 3:31 |
 | 37 | [LV Parano](https://open.spotify.com/track/6J7a6S2F6yMGVlNIfEq2P6) | [Louis Villain](https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv) | [LV Parano](https://open.spotify.com/album/3ekTeWvVUxFxgFhuVL4fm1) | 2:41 |
 | 38 | [młody gandolfini](https://open.spotify.com/track/3tf8gSdD6Ch9Rz4H2uJKOO) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [młody gandolfini](https://open.spotify.com/album/3hzZqUcymHfXpnuo9Czhig) | 2:32 |

@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d0\u05e1\u05e3 \u05d0\u05de\u05d3\u05d5\u05e8\u05e1\u05e7\u05d9 ",
-  "num_followers": 33184,
+  "num_followers": 33186,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-01-22 23:01:35",
       "album": {
+        "name": "\u05d0\u05d5\u05dc\u05d9 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05d9\u05d5\u05ea\u05e8",
+        "url": "https://open.spotify.com/album/3o2QYnNyEY2u8u0h4uNNqh"
+      },
+      "artists": [
+        {
+          "name": "Ninet Tayeb",
+          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
+        }
+      ],
+      "duration_ms": 241046,
+      "name": "\u05d0\u05d5\u05dc\u05d9 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05d9\u05d5\u05ea\u05e8",
+      "url": "https://open.spotify.com/track/4XfuFnOvQv7FsKdSlmrCUy"
+    },
+    {
+      "added_at": "2026-01-22 23:01:35",
+      "album": {
         "name": "\u05de\u05d6\u05dc \u05e9\u05d9\u05e9 \u05dc\u05d9 \u05de\u05d5\u05d6\u05d9\u05e7\u05d4",
         "url": "https://open.spotify.com/album/24yew2vDaykmrWYYaz92jM"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 174452,
       "name": "\u05d4\u05db\u05d9 \u05d9\u05e4\u05d4 \u05d1\u05d3\u05d9\u05e1\u05e7\u05d5",
       "url": "https://open.spotify.com/track/5P2Jj9F8jXWvbflKao1Fjg"
-    },
-    {
-      "added_at": "2026-01-22 23:01:35",
-      "album": {
-        "name": "\u05d0\u05d5\u05dc\u05d9 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05d9\u05d5\u05ea\u05e8",
-        "url": "https://open.spotify.com/album/3o2QYnNyEY2u8u0h4uNNqh"
-      },
-      "artists": [
-        {
-          "name": "Ninet Tayeb",
-          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
-        }
-      ],
-      "duration_ms": 241046,
-      "name": "\u05d0\u05d5\u05dc\u05d9 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05d9\u05d5\u05ea\u05e8",
-      "url": "https://open.spotify.com/track/4XfuFnOvQv7FsKdSlmrCUy"
     },
     {
       "added_at": "2026-01-22 23:01:35",
@@ -767,18 +767,22 @@
     {
       "added_at": "2026-01-22 23:01:35",
       "album": {
-        "name": "Midnight Blue",
-        "url": "https://open.spotify.com/album/6d9kdw3DKd8821NezRmK6Q"
+        "name": "\u05dc\u05d9 \u05e2\u05d5\u05d3 \u05d9\u05e9 \u05d9\u05dd \u05d1\u05ea\u05d5\u05db\u05d9",
+        "url": "https://open.spotify.com/album/1A7LZitYPUfoTPnvCeztKb"
       },
       "artists": [
         {
-          "name": "Omer Netzer",
-          "url": "https://open.spotify.com/artist/6yCGdZHId0vWEO5NxS4g8d"
+          "name": "\u05d9\u05d5\u05d2\u05d1 \u05d2\u05dc\u05d5\u05e1\u05de\u05df",
+          "url": "https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO"
+        },
+        {
+          "name": "Maor Alush",
+          "url": "https://open.spotify.com/artist/0nrgbCy8BaY0tQzE87Ikal"
         }
       ],
-      "duration_ms": 229099,
-      "name": "Midnight Blue",
-      "url": "https://open.spotify.com/track/60qwBKu1GnzJmfbISwAl3T"
+      "duration_ms": 205496,
+      "name": "\u05d4\u05d1\u05e0\u05d9\u05d9\u05df \u05d4\u05d0\u05d7\u05e8\u05d5\u05df \u05d1\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
+      "url": "https://open.spotify.com/track/0CFizxIBQmArw9wLFDxpeE"
     },
     {
       "added_at": "2026-01-22 23:01:35",
@@ -815,22 +819,18 @@
     {
       "added_at": "2026-01-22 23:01:35",
       "album": {
-        "name": "\u05dc\u05d9 \u05e2\u05d5\u05d3 \u05d9\u05e9 \u05d9\u05dd \u05d1\u05ea\u05d5\u05db\u05d9",
-        "url": "https://open.spotify.com/album/1A7LZitYPUfoTPnvCeztKb"
+        "name": "Midnight Blue",
+        "url": "https://open.spotify.com/album/6d9kdw3DKd8821NezRmK6Q"
       },
       "artists": [
         {
-          "name": "\u05d9\u05d5\u05d2\u05d1 \u05d2\u05dc\u05d5\u05e1\u05de\u05df",
-          "url": "https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO"
-        },
-        {
-          "name": "Maor Alush",
-          "url": "https://open.spotify.com/artist/0nrgbCy8BaY0tQzE87Ikal"
+          "name": "Omer Netzer",
+          "url": "https://open.spotify.com/artist/6yCGdZHId0vWEO5NxS4g8d"
         }
       ],
-      "duration_ms": 205496,
-      "name": "\u05d4\u05d1\u05e0\u05d9\u05d9\u05df \u05d4\u05d0\u05d7\u05e8\u05d5\u05df \u05d1\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
-      "url": "https://open.spotify.com/track/0CFizxIBQmArw9wLFDxpeE"
+      "duration_ms": 229099,
+      "name": "Midnight Blue",
+      "url": "https://open.spotify.com/track/60qwBKu1GnzJmfbISwAl3T"
     },
     {
       "added_at": "2026-01-22 23:01:35",
@@ -879,18 +879,22 @@
     {
       "added_at": "2026-01-22 23:01:35",
       "album": {
-        "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9"
+        "name": "\u05de\u05e0\u05d2\u05d1 \u05dc\u05da \u05d0\u05ea \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3"
       },
       "artists": [
         {
-          "name": "\u05d9\u05d5\u05e9\u05d9",
-          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        },
+        {
+          "name": "\u05d1\u05d9\u05ea \u05d0\u05d1\u05d9 \u05d7\u05d9",
+          "url": "https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH"
         }
       ],
-      "duration_ms": 197045,
-      "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn"
+      "duration_ms": 159665,
+      "name": "\u05de\u05e0\u05d2\u05d1 \u05dc\u05da \u05d0\u05ea \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

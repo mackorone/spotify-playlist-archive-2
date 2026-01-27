@@ -4,12 +4,13 @@
 
 > Lmao \-.\-
 
-438 songs - 1 day 1 hr 29 min
+441 songs - 1 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [''''''](https://open.spotify.com/track/2IdCKcMOO5FuAGvYqsZ6p3) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [''''''](https://open.spotify.com/album/5uhEQY2SM46YFVt0KTBqTu) | 2:32 | 2025-06-01 |  |
 | [......](https://open.spotify.com/track/0hZcG4Uw0sieOgwi4E0WbM) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [......](https://open.spotify.com/album/4PjasvlU6CzI86k1yQlSON) | 2:26 | 2023-10-23 |  |
+| [.....\. \- MARETU Remix](https://open.spotify.com/track/37TZpH55FF8LxIDShZuLLp) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz), [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [人形](https://open.spotify.com/album/6OiLP3mN9ntclPFqqyIS0c) | 2:40 | 2026-01-26 |  |
 | [/ / // / /](https://open.spotify.com/track/3gCPs1TDRH9v9QlF5h3zD5) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [/ / // / /](https://open.spotify.com/album/1MYxlVGsq3RBe5O3Em3xnz) | 2:13 | 2023-10-30 |  |
 | [4nim0sity \[99.999999999%\]](https://open.spotify.com/track/2u2kyKAf9mpQegLo9IedWA) | [ICHI](https://open.spotify.com/artist/305bMWyRhzAMV0PmrqYTC4) | [4nim0sity \[99.999999999%\]](https://open.spotify.com/album/30E43p3UUNrMZypGdgLmzU) | 3:36 | 2025-09-12 |  |
 | [<<<<<<](https://open.spotify.com/track/7q1XJApEsIjsztIG9aFR5h) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [<<<<<<](https://open.spotify.com/album/6jMvyuEcOtMBUUzp2uijzg) | 4:34 | 2025-09-30 |  |
@@ -109,6 +110,7 @@
 | [Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Haru wo Tsugeru](https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ) | 3:16 | 2022-11-25 |  |
 | [Hatsukoisou \- Selfcover](https://open.spotify.com/track/10FzsPAEgBULrpWLyEoOzO) | [FLG4](https://open.spotify.com/artist/63MKBngdiEGvCJhGfCDjMD) | [Hatsukoisou \(Selfcover\)](https://open.spotify.com/album/3an0xFEBWz03yNv8tON518) | 2:51 | 2024-07-29 |  |
 | [Haunted Dance](https://open.spotify.com/track/6NuW5D8GFwVAVgc7Z3Wlv2) | [Mr.Asyu](https://open.spotify.com/artist/2x76aeXcs6SJ32Sjn2stDh) | [Tone Sphere Ultra Service](https://open.spotify.com/album/3isscH1UZ9yzIzXRCahtdz) | 3:32 | 2024-12-08 |  |
+| [Heavenly You \(feat\. REML\)](https://open.spotify.com/track/5DUKpelrahdO3Zuoi89lkd) | [LonePi](https://open.spotify.com/artist/0FtyTvAiyb0IS8qTfGOaxb), [REML](https://open.spotify.com/artist/7qAvJuLIr1uEt2iad9myrO) | [Heavenly You \(feat\. REML\)](https://open.spotify.com/album/1gIJekdZgsQizLp2G3aLT0) | 3:53 | 2026-01-26 |  |
 | [HELP](https://open.spotify.com/track/5fTk6RfTbySiEyjRnrpHNV) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [HELP](https://open.spotify.com/album/2hJ603Bso9KCAAHwQD606w) | 3:47 | 2024-03-11 |  |
 | [HELP!!](https://open.spotify.com/track/2sb0MPuym9pDaru5M2DHsU) | [Kobo Kanaeru](https://open.spotify.com/artist/6AjW1aE0OlIoRGdnwbHgP2) | [HELP!!](https://open.spotify.com/album/3iIHNCs8dWlSSqXRzM00IB) | 3:07 | 2024-04-08 |  |
 | [hikikomori rock](https://open.spotify.com/track/5XO5F5m9ji7Rpz6qvy57JO) | [Haze](https://open.spotify.com/artist/6v19P1N5sEhOnyVK6zasl1) | [hikikomori rock](https://open.spotify.com/album/63CfE3uTFJxSsnw9tkf2ct) | 3:00 | 2023-01-02 |  |
@@ -281,6 +283,7 @@
 | [Young Girl A](https://open.spotify.com/track/5sPKAEb7afrIMtdqEnI6H6) | [Siinamota](https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD) | [Alive](https://open.spotify.com/album/0JzdeLGqbDXPBlDbV4Y0c3) | 3:41 | 2022-03-16 |  |
 | [Your Name](https://open.spotify.com/track/1SnZeUGRKqK1exANKeqhlk) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Journey](https://open.spotify.com/album/1TXZLZHDHFSq0ckd8bZoIh) | 3:38 | 2024-01-31 |  |
 | [Yuguleoneroom \(feat\. Chano\)](https://open.spotify.com/track/1QVZWK1ozjaK9uz3lvqQRv) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O), [Chano](https://open.spotify.com/artist/49MtPwwkVyamUmJ4oVtOCy) | [Utakatarelation CHUNITHM Original Sound Track](https://open.spotify.com/album/3sXgqO3oAGrAlEVzwQn6lF) | 2:25 | 2023-12-25 |  |
+| [ZEKKOU](https://open.spotify.com/track/7nlj9QwWHCmDPq89CkebOs) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [ZEKKOU](https://open.spotify.com/album/0aT6OYiBjgEMfA92jWmoeE) | 1:53 | 2026-01-26 |  |
 | [「Crazy ∞ nighT」 feat.いかさん\(カバー\)](https://open.spotify.com/track/0a64sJhQS80cXPWHR7QhdA) | [HitoshizukuP](https://open.spotify.com/artist/5Vozl7NL075bgJOe1iSlcP), [やま△](https://open.spotify.com/artist/5iw5VPMwEb9vomcLBDwFPK) | [ボクらの最終定理](https://open.spotify.com/album/0iFf8I1UnP7pzBtbsyYeij) | 3:22 | 2024-03-10 |  |
 | [「THE KINKY」](https://open.spotify.com/track/1qwUmmAIB2jdkX4trCXz9P) | [DADAROMA](https://open.spotify.com/artist/65u1WZsa68wCWFOexGZuz1) | [「This is ”LIVE”」](https://open.spotify.com/album/6ihgmiFs9vVhmeMya8039J) | 3:26 | 2025-11-04 |  |
 | [あいして。](https://open.spotify.com/track/0AnVedOnc3RvcJHvXzLc2o) | [巡巡](https://open.spotify.com/artist/37gq7KFHsAIEuEuRFT8RNl) | [あいして。](https://open.spotify.com/album/5kEv9TrX05FKkrrQdkWEdf) | 2:14 | 2024-08-19 |  |

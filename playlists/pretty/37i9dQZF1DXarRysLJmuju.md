@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 ### [Pop All Day](https://open.spotify.com/playlist/37i9dQZF1DXarRysLJmuju)
 
-> Today’s pop, plugged into the culture\. Cover: Louis Tomlison
+> Today’s pop, plugged into the culture\. Cover: Louis Tomlinson
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,958 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,904 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [Type \- Radio Edit](https://open.spotify.com/track/3PrSPMHooHIx9vTOaxinCK) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [Type](https://open.spotify.com/album/6vBv82o0TEGGwRX9nYnBAX) | 2:59 |
 | 100 | [Glitter](https://open.spotify.com/track/0y9S3dw1MBzHqmTpMTTd0M) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Glitter](https://open.spotify.com/album/3ISicmxJuaKEZEbKDJuOdo) | 3:11 |
 
-Snapshot ID: `AAAAAEPyHRJCZmrUXnptYvlmW9OS5zdU`
+Snapshot ID: `AAAAAPPELgphEhGdqIhEjyRM3c9gqROh`

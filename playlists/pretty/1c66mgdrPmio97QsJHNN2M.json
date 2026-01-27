@@ -1,12 +1,12 @@
 {
   "description": "FREE SUBMISSIONS - Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music. Just submit via my linktree: https:&#x2F;&#x2F;linktr.ee&#x2F;Anythings.Possible.Music",
-  "num_followers": 4935,
+  "num_followers": 4938,
   "original_name": "30 Days of New Unsigned Music",
   "owner": {
     "name": "Anything's Possible Music",
     "url": "https://open.spotify.com/user/ashdown1981"
   },
-  "snapshot_id": "AAAz/xthV2ljX1RxOY//YysvYLr+wWmQ",
+  "snapshot_id": "AAA0BJNESYQPvs3mTLg3UQ5ao0Frt/oY",
   "tracks": [
     {
       "added_at": "2025-12-27 18:36:22",
@@ -171,6 +171,42 @@
       "duration_ms": 207322,
       "name": "Since I've Been Gone.",
       "url": "https://open.spotify.com/track/3JWFXsJjOfwqWGZtBBQ08h"
+    },
+    {
+      "added_at": "2026-01-26 12:30:56",
+      "album": {
+        "name": "Frayed Edges",
+        "url": "https://open.spotify.com/album/0UFo7PsOzm5R2fX4eR8QxS"
+      },
+      "artists": [
+        {
+          "name": "Elle Gee",
+          "url": "https://open.spotify.com/artist/2y3v0be3sxtxdsBmIDCGFf"
+        },
+        {
+          "name": "Vin",
+          "url": "https://open.spotify.com/artist/3BWBXl8rNC6nUozBkVF9BJ"
+        }
+      ],
+      "duration_ms": 190780,
+      "name": "Frayed Edges",
+      "url": "https://open.spotify.com/track/16Vl5jE1fu5J1o4gQ8dl1r"
+    },
+    {
+      "added_at": "2026-01-26 08:54:12",
+      "album": {
+        "name": "Teacher Teach Me",
+        "url": "https://open.spotify.com/album/7jvhdOWCxtYBRvfEcTS8GG"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Datman",
+          "url": "https://open.spotify.com/artist/599EH2iNWc47EKgNMpFqvw"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Teacher Teach Me",
+      "url": "https://open.spotify.com/track/4WpcT6H2c7h0DolObTbaDE"
     },
     {
       "added_at": "2026-01-25 14:24:06",
@@ -4623,6 +4659,54 @@
       "duration_ms": 134959,
       "name": "The Older Me",
       "url": "https://open.spotify.com/track/4vXJcBQaVfDr5n0n9wqMOd"
+    },
+    {
+      "added_at": "2026-01-26 08:44:12",
+      "album": {
+        "name": "Dear X (Acoustic)",
+        "url": "https://open.spotify.com/album/5vDMnPvS72yhtFzzd9BNcC"
+      },
+      "artists": [
+        {
+          "name": "WORSHIPER",
+          "url": "https://open.spotify.com/artist/6MyopTP1JJDKkwooQaE1Dk"
+        }
+      ],
+      "duration_ms": 122156,
+      "name": "Dear X - Acoustic",
+      "url": "https://open.spotify.com/track/2EzZoCJWjgrTDypksr4gKo"
+    },
+    {
+      "added_at": "2026-01-26 08:44:29",
+      "album": {
+        "name": "Do You Want Me",
+        "url": "https://open.spotify.com/album/7GJrSnO6AcA9MPeKIpfnW2"
+      },
+      "artists": [
+        {
+          "name": "Beau Audio",
+          "url": "https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0"
+        }
+      ],
+      "duration_ms": 130434,
+      "name": "Do You Want Me",
+      "url": "https://open.spotify.com/track/0mPlRoWozVrwoJXKGJ8KV2"
+    },
+    {
+      "added_at": "2026-01-26 08:44:51",
+      "album": {
+        "name": "Rain Hides My Tears Tonight",
+        "url": "https://open.spotify.com/album/5pxDGZK0zJvYlwa9igNYVN"
+      },
+      "artists": [
+        {
+          "name": "Popvibe Nations",
+          "url": "https://open.spotify.com/artist/1x9lRK1WRdatGKx1VjK9s1"
+        }
+      ],
+      "duration_ms": 191584,
+      "name": "Rain Hides My Tears Tonight",
+      "url": "https://open.spotify.com/track/7EgGEYInzw8Ltpbig88YnO"
     }
   ],
   "unique_name": "30 Days of New Unsigned Music",

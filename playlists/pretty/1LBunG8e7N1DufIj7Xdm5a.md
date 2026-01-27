@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 3,920 songs - 8 day 16 hr 2 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 3,922 songs - 8 day 16 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3928,5 +3928,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3918 | [Nuove Rotte](https://open.spotify.com/track/59nbSqtxgppRtUVa65xwHk) | [Lorenzo Colucci](https://open.spotify.com/artist/4BRWgyOnIuVwX5T3yEpE6c) | [Nuove Rotte](https://open.spotify.com/album/3bMnU5S6r8mhq7Rt9sXkcd) | 3:15 |
 | 3919 | [Mit deiner Stimme](https://open.spotify.com/track/5HBNvAu2ZApr2E4aLH2WZX) | [gebi.sounds](https://open.spotify.com/artist/3fJr7wKHIl9wPDKvQE9B5a) | [Mit deiner Stimme](https://open.spotify.com/album/56vwqYlCD6CjzGzzbuqT9T) | 2:55 |
 | 3920 | [Dolomiti Soul](https://open.spotify.com/track/5Cv5soORtinC12J1ruavkG) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Dolomiti Soul](https://open.spotify.com/album/543B54L2yjcDlvxZQZCJfR) | 3:52 |
+| 3921 | [Dimensiones Paralelas](https://open.spotify.com/track/0cZfAhCMGOWbnD2zzkECVU) | [Nauj Project](https://open.spotify.com/artist/4g6e6FnWWi0oQGhHxkn9Jd) | [Dimensiones Paralelas](https://open.spotify.com/album/5e1cntrq6rg9B5Gmhi0p5w) | 2:49 |
+| 3922 | [Half\-Empty Soul](https://open.spotify.com/track/3itcmtHSqMpcPLcNcsbvqC) | [Bass\_Plus](https://open.spotify.com/artist/0uYsvadSSfd6FUaBB9syyb) | [Half\-Empty Soul](https://open.spotify.com/album/2Bo6gMb6cMRKnP2fh87b9U) | 3:00 |
 
-Snapshot ID: `AAAG4wbjfBv6QKtfU3J14jyWgf4XwW44`
+Snapshot ID: `AAAG5Qiw/IBi1qfLHjKUVOQxb9tlqTHS`

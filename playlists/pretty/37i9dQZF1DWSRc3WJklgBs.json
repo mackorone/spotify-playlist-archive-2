@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance music</a> for the heart <3",
-  "num_followers": 1258568,
+  "num_followers": 1258547,
   "original_name": "Heart Beats",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-01-23 05:00:14",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        }
-      ],
-      "duration_ms": 218440,
-      "name": "The Cure",
-      "url": "https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM"
-    },
-    {
-      "added_at": "2026-01-23 05:00:14",
-      "album": {
         "name": "Inhale / Exhale",
         "url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 243760,
       "name": "Levitating",
       "url": "https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj"
+    },
+    {
+      "added_at": "2026-01-23 05:00:14",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "The Cure",
+      "url": "https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM"
     },
     {
       "added_at": "2026-01-23 05:00:14",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-01-23 05:00:14",
       "album": {
+        "name": "Everywhere (I wanna be with you)",
+        "url": "https://open.spotify.com/album/79PJhpCEtArNZ9paa2jOjw"
+      },
+      "artists": [
+        {
+          "name": "Lyrah",
+          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+        }
+      ],
+      "duration_ms": 140625,
+      "name": "Everywhere (I wanna be with you)",
+      "url": "https://open.spotify.com/track/2lh1prYnrU9tL843C6rzSq"
+    },
+    {
+      "added_at": "2026-01-23 05:00:14",
+      "album": {
         "name": "Postcard (All I Need Is You)",
         "url": "https://open.spotify.com/album/66Wb8qYgqeVHPrx9suY0Us"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 320640,
       "name": "Stay Still, A Little While",
       "url": "https://open.spotify.com/track/6qbdnKNznLiwqplr35yb1n"
-    },
-    {
-      "added_at": "2026-01-23 05:00:14",
-      "album": {
-        "name": "Everywhere (I wanna be with you)",
-        "url": "https://open.spotify.com/album/79PJhpCEtArNZ9paa2jOjw"
-      },
-      "artists": [
-        {
-          "name": "Lyrah",
-          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
-        }
-      ],
-      "duration_ms": 140625,
-      "name": "Everywhere (I wanna be with you)",
-      "url": "https://open.spotify.com/track/2lh1prYnrU9tL843C6rzSq"
     },
     {
       "added_at": "2026-01-23 05:00:14",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-01-23 05:00:14",
       "album": {
-        "name": "Shivers",
-        "url": "https://open.spotify.com/album/5UNCKKmrFhunNqn8GJo0Yj"
-      },
-      "artists": [
-        {
-          "name": "unfazed",
-          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/2Aaq0FavPjpJHA17Ux488k"
-    },
-    {
-      "added_at": "2026-01-23 05:00:14",
-      "album": {
         "name": "Hold Me",
         "url": "https://open.spotify.com/album/0xq1Ug8C06g4znM3QizelQ"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 152571,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/2uxRNIseE14NHEh38SaEeZ"
+    },
+    {
+      "added_at": "2026-01-23 05:00:14",
+      "album": {
+        "name": "Shivers",
+        "url": "https://open.spotify.com/album/5UNCKKmrFhunNqn8GJo0Yj"
+      },
+      "artists": [
+        {
+          "name": "unfazed",
+          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/2Aaq0FavPjpJHA17Ux488k"
     },
     {
       "added_at": "2026-01-23 05:00:14",
@@ -1563,42 +1563,6 @@
     {
       "added_at": "2026-01-23 05:00:14",
       "album": {
-        "name": "To The World",
-        "url": "https://open.spotify.com/album/465mvLX0RMXAvsz9KtcSRa"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "MarcLo",
-          "url": "https://open.spotify.com/artist/3Aa8vv6PuVakY8yP8tpi2X"
-        }
-      ],
-      "duration_ms": 139836,
-      "name": "Before I Let You Go (feat. MarcLo)",
-      "url": "https://open.spotify.com/track/0MBE2aSvZdmDxmAG9O2Fhs"
-    },
-    {
-      "added_at": "2026-01-23 05:00:14",
-      "album": {
-        "name": "Savannah",
-        "url": "https://open.spotify.com/album/4Xrt7GJzfGVZ9pyuskuIWp"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 208467,
-      "name": "Savannah",
-      "url": "https://open.spotify.com/track/0BnlKkuszP6iIQBtMXeV48"
-    },
-    {
-      "added_at": "2026-01-23 05:00:14",
-      "album": {
         "name": "Pure Shores",
         "url": "https://open.spotify.com/album/2ExKBieLvOEDmm3gjlTGn2"
       },
@@ -1631,6 +1595,42 @@
       "duration_ms": 209696,
       "name": "Call You Mine",
       "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
+    },
+    {
+      "added_at": "2026-01-23 05:00:14",
+      "album": {
+        "name": "To The World",
+        "url": "https://open.spotify.com/album/465mvLX0RMXAvsz9KtcSRa"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "MarcLo",
+          "url": "https://open.spotify.com/artist/3Aa8vv6PuVakY8yP8tpi2X"
+        }
+      ],
+      "duration_ms": 139836,
+      "name": "Before I Let You Go (feat. MarcLo)",
+      "url": "https://open.spotify.com/track/0MBE2aSvZdmDxmAG9O2Fhs"
+    },
+    {
+      "added_at": "2026-01-23 05:00:14",
+      "album": {
+        "name": "Savannah",
+        "url": "https://open.spotify.com/album/4Xrt7GJzfGVZ9pyuskuIWp"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 208467,
+      "name": "Savannah",
+      "url": "https://open.spotify.com/track/0BnlKkuszP6iIQBtMXeV48"
     },
     {
       "added_at": "2026-01-23 05:00:14",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2026-01-23 05:00:14",
       "album": {
-        "name": "Hold You EP",
-        "url": "https://open.spotify.com/album/1MMSYCvxazCIppC38xNlRt"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 265960,
-      "name": "Hold You",
-      "url": "https://open.spotify.com/track/4gRrOMSqIVWH3og9uuIk3l"
-    },
-    {
-      "added_at": "2026-01-23 05:00:14",
-      "album": {
         "name": "Comfort In Chaos",
         "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 131294,
       "name": "palm of my hands",
       "url": "https://open.spotify.com/track/6y5HLopYu7Uu0hYwVBj4T6"
+    },
+    {
+      "added_at": "2026-01-23 05:00:14",
+      "album": {
+        "name": "Hold You EP",
+        "url": "https://open.spotify.com/album/1MMSYCvxazCIppC38xNlRt"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 265960,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/4gRrOMSqIVWH3og9uuIk3l"
     },
     {
       "added_at": "2026-01-23 05:00:14",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2026-01-23 05:00:14",
       "album": {
-        "name": "ON&ON",
-        "url": "https://open.spotify.com/album/5XqHP80OsGrUtaaQuIvyNh"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 243677,
-      "name": "ON&ON",
-      "url": "https://open.spotify.com/track/69UYgpv6dhNOA5Ld8vjD9l"
-    },
-    {
-      "added_at": "2026-01-23 05:00:14",
-      "album": {
         "name": "two more days",
         "url": "https://open.spotify.com/album/0tMLTrwCaJcqioPLMwxZBc"
       },
@@ -2287,6 +2271,22 @@
     {
       "added_at": "2026-01-23 05:00:14",
       "album": {
+        "name": "ON&ON",
+        "url": "https://open.spotify.com/album/5XqHP80OsGrUtaaQuIvyNh"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 243677,
+      "name": "ON&ON",
+      "url": "https://open.spotify.com/track/69UYgpv6dhNOA5Ld8vjD9l"
+    },
+    {
+      "added_at": "2026-01-23 05:00:14",
+      "album": {
         "name": "Higher Resolution (Side B)",
         "url": "https://open.spotify.com/album/563knKl2SpuK7z9TCbIhdG"
       },
@@ -2299,6 +2299,22 @@
       "duration_ms": 205209,
       "name": "Touch",
       "url": "https://open.spotify.com/track/36TtItSt1Y2V5TGLi7gYD0"
+    },
+    {
+      "added_at": "2026-01-23 05:00:14",
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/7bnnpEQmYtIM2LjAwkDqhb"
+      },
+      "artists": [
+        {
+          "name": "Drove",
+          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/5XwpEXhwjkSpJAXpONekxA"
     },
     {
       "added_at": "2026-01-23 05:00:14",
@@ -2319,22 +2335,6 @@
       "duration_ms": 287266,
       "name": "Follow",
       "url": "https://open.spotify.com/track/5ZQNoHS5dOGWjIhoXKW7Zt"
-    },
-    {
-      "added_at": "2026-01-23 05:00:14",
-      "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/7bnnpEQmYtIM2LjAwkDqhb"
-      },
-      "artists": [
-        {
-          "name": "Drove",
-          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/5XwpEXhwjkSpJAXpONekxA"
     },
     {
       "added_at": "2026-01-23 05:00:14",
@@ -2931,6 +2931,26 @@
     {
       "added_at": "2026-01-23 05:00:14",
       "album": {
+        "name": "Champagne (feat. Dia Frampton)",
+        "url": "https://open.spotify.com/album/5VnfM3oQTV3OEC2Uq7ssUc"
+      },
+      "artists": [
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "Dia Frampton",
+          "url": "https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7"
+        }
+      ],
+      "duration_ms": 218978,
+      "name": "Champagne (feat. Dia Frampton)",
+      "url": "https://open.spotify.com/track/1kuTUxdFGSPkcVx08BYcvV"
+    },
+    {
+      "added_at": "2026-01-23 05:00:14",
+      "album": {
         "name": "Love Yourself",
         "url": "https://open.spotify.com/album/3EcBEvsqJw3naDNXY1VwDq"
       },
@@ -2955,26 +2975,6 @@
     {
       "added_at": "2026-01-23 05:00:14",
       "album": {
-        "name": "Champagne (feat. Dia Frampton)",
-        "url": "https://open.spotify.com/album/5VnfM3oQTV3OEC2Uq7ssUc"
-      },
-      "artists": [
-        {
-          "name": "yetep",
-          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
-        },
-        {
-          "name": "Dia Frampton",
-          "url": "https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7"
-        }
-      ],
-      "duration_ms": 218978,
-      "name": "Champagne (feat. Dia Frampton)",
-      "url": "https://open.spotify.com/track/1kuTUxdFGSPkcVx08BYcvV"
-    },
-    {
-      "added_at": "2026-01-23 05:00:14",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/0g7gJ3pJdy0O61GMgVQcqO"
       },
@@ -2991,6 +2991,22 @@
       "duration_ms": 180624,
       "name": "Home",
       "url": "https://open.spotify.com/track/5PdA08FFRf8LaufbO0kQdv"
+    },
+    {
+      "added_at": "2026-01-23 05:00:14",
+      "album": {
+        "name": "High On You",
+        "url": "https://open.spotify.com/album/3KhmmfJf1mqsl04DzwJKMX"
+      },
+      "artists": [
+        {
+          "name": "Ashibah",
+          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
+        }
+      ],
+      "duration_ms": 191500,
+      "name": "High On You",
+      "url": "https://open.spotify.com/track/4B9KPPA4Nm4HKDynyuoRZe"
     },
     {
       "added_at": "2026-01-23 05:00:14",
@@ -3127,22 +3143,6 @@
       "duration_ms": 265132,
       "name": "Bittersweet Love (Hey Oh)",
       "url": "https://open.spotify.com/track/0RVKiAxra7NF8dCugGfYWu"
-    },
-    {
-      "added_at": "2026-01-23 05:00:14",
-      "album": {
-        "name": "High On You",
-        "url": "https://open.spotify.com/album/3KhmmfJf1mqsl04DzwJKMX"
-      },
-      "artists": [
-        {
-          "name": "Ashibah",
-          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
-        }
-      ],
-      "duration_ms": 191500,
-      "name": "High On You",
-      "url": "https://open.spotify.com/track/4B9KPPA4Nm4HKDynyuoRZe"
     },
     {
       "added_at": "2026-01-23 05:00:14",
@@ -3379,22 +3379,6 @@
     {
       "added_at": "2026-01-23 05:00:14",
       "album": {
-        "name": "Colour",
-        "url": "https://open.spotify.com/album/4FjwOPZNcZPAktK4OKDFHf"
-      },
-      "artists": [
-        {
-          "name": "Stresshead",
-          "url": "https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs"
-        }
-      ],
-      "duration_ms": 157608,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/4Q1alc9pSrymg1ntmocKl8"
-    },
-    {
-      "added_at": "2026-01-23 05:00:14",
-      "album": {
         "name": "Rely On Me",
         "url": "https://open.spotify.com/album/44OIx0KOXof9FAgDE4PXks"
       },
@@ -3411,6 +3395,22 @@
       "duration_ms": 205799,
       "name": "Rely On Me",
       "url": "https://open.spotify.com/track/73ESZmsTYNChN3z1x2nhy8"
+    },
+    {
+      "added_at": "2026-01-23 05:00:14",
+      "album": {
+        "name": "Colour",
+        "url": "https://open.spotify.com/album/4FjwOPZNcZPAktK4OKDFHf"
+      },
+      "artists": [
+        {
+          "name": "Stresshead",
+          "url": "https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs"
+        }
+      ],
+      "duration_ms": 157608,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/4Q1alc9pSrymg1ntmocKl8"
     },
     {
       "added_at": "2026-01-23 05:00:14",
@@ -3543,22 +3543,6 @@
     {
       "added_at": "2026-01-23 05:00:14",
       "album": {
-        "name": "Lost In Time",
-        "url": "https://open.spotify.com/album/7k6BzEe7PQlixQJJbmTKUO"
-      },
-      "artists": [
-        {
-          "name": "Adrian Knows",
-          "url": "https://open.spotify.com/artist/7tzhTKYUV6uWR4BskFhzB9"
-        }
-      ],
-      "duration_ms": 136695,
-      "name": "Lost In Time",
-      "url": "https://open.spotify.com/track/0aHUTp6y31Fr6F7p99edHp"
-    },
-    {
-      "added_at": "2026-01-23 05:00:14",
-      "album": {
         "name": "Noise Pollution",
         "url": "https://open.spotify.com/album/2Bj2CNQUurTkMIhy4gero9"
       },
@@ -3579,6 +3563,22 @@
       "duration_ms": 160601,
       "name": "Waiting For You",
       "url": "https://open.spotify.com/track/32I1ZqwrF0J9IOmlGWFzUG"
+    },
+    {
+      "added_at": "2026-01-23 05:00:14",
+      "album": {
+        "name": "Lost In Time",
+        "url": "https://open.spotify.com/album/7k6BzEe7PQlixQJJbmTKUO"
+      },
+      "artists": [
+        {
+          "name": "Adrian Knows",
+          "url": "https://open.spotify.com/artist/7tzhTKYUV6uWR4BskFhzB9"
+        }
+      ],
+      "duration_ms": 136695,
+      "name": "Lost In Time",
+      "url": "https://open.spotify.com/track/0aHUTp6y31Fr6F7p99edHp"
     },
     {
       "added_at": "2026-01-23 05:00:14",

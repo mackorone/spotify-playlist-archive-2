@@ -8311,6 +8311,24 @@
     },
     {
       "album": {
+        "name": "Deganti \u017demel\u0117",
+        "url": "https://open.spotify.com/album/6dkY32lH57B0Vtktzg0T1p"
+      },
+      "artists": [
+        {
+          "name": "Atikin",
+          "url": "https://open.spotify.com/artist/58BADoEHrq32o5aErljhBP"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "Deganti \u017demel\u0117",
+      "url": "https://open.spotify.com/track/2RXrj6d1hydggdW5GSFVLq"
+    },
+    {
+      "album": {
         "name": "Sutemos",
         "url": "https://open.spotify.com/album/74FyZptrNJEkUd2r2lkv5A"
       },
@@ -11432,7 +11450,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-25",
+      "date_removed": null,
       "duration_ms": 183237,
       "name": "Fame is a Gun",
       "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk"
@@ -16872,7 +16890,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 170333,
       "name": "I Thought I Saw Your Face Today",
       "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
@@ -21088,7 +21106,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 233795,
       "name": "Leisk Sau",
       "url": "https://open.spotify.com/track/5LJrNC0KRZEtqlrTYCusbl"
@@ -30114,7 +30132,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 159500,
       "name": "Pa\u017e\u012fstamas Jausmas",
       "url": "https://open.spotify.com/track/2Aia5C9jB7r2sy6mZzfArP"
@@ -30336,7 +30354,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 234000,
       "name": "Perlai",
       "url": "https://open.spotify.com/track/2riBo7Y0x7MoFCN6fv5yue"

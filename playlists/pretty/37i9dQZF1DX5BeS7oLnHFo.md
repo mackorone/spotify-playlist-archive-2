@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BeS7oLnHFo.md) - [plain]
 
 > كافيار الراب المحلّي
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,512 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,540 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ego](https://open.spotify.com/track/4dTXktFpSZC6remucId05v) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN) | [Mission Impossible](https://open.spotify.com/album/3XmfpNqMTVw1htr6lv1RgR) | 1:45 |
 | 2 | [FTRA](https://open.spotify.com/track/5NC1zZGyIHnXNiOfZslM62) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv) | [FTRA](https://open.spotify.com/album/5iOJ9VwsEJZBj4fN4MFCvZ) | 3:02 |
-| 3 | [Theeb](https://open.spotify.com/track/7e7XGcxSyirmCyxsGYvyQT) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Batn Al Shaer](https://open.spotify.com/album/3TJe6YsGmLSZSsoQKLdcM8) | 2:06 |
-| 4 | [Armalat Al\-Alpha](https://open.spotify.com/track/7paqmrCBmNEM6frYHCd8GL) | [Klash](https://open.spotify.com/artist/576Qg5nTQ5fVCFaSYrvKdw) | [Armalat Al\-Alpha](https://open.spotify.com/album/4DQ6r2s7uCG9I1Xfy2RAtG) | 6:06 |
+| 3 | [Ala El Hadi](https://open.spotify.com/track/59RJkigbf7igBzNQJ56NQF) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu), [Warchieff](https://open.spotify.com/artist/0rKBPvNmQMHFGNf8RCYLt8), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Ala El Hadi](https://open.spotify.com/album/2rRFYwugXgccV96X5OlzzH) | 2:38 |
+| 4 | [NASEHAT MUSHFIQ](https://open.spotify.com/track/607JmfmWDTOgacXpWYFmNW) | [Klash](https://open.spotify.com/artist/576Qg5nTQ5fVCFaSYrvKdw) | [NASEHAT MUSHFIQ](https://open.spotify.com/album/23zOEXioEzkBPCRc8gTznD) | 2:52 |
 | 5 | [Esmaa Alhagega](https://open.spotify.com/track/2wtF7gIR51J7ZFfsuDISjb) | [Slow Moe](https://open.spotify.com/artist/5ws4gBwkGLUzjVxhvw4Kwd) | [Esmaa Alhagega](https://open.spotify.com/album/3t6JQ82i9tw9Stm3rLHs4U) | 4:19 |
 | 6 | [Dabbaba](https://open.spotify.com/track/2m4BGrqCUVV73BAK3FdnVh) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Dabbaba](https://open.spotify.com/album/4DDutVKDyQFI7Hq0MV6Nyv) | 2:09 |
 | 7 | [جولاتي](https://open.spotify.com/track/0M28xWD3YAydVlZU5K1OAG) | [Barry](https://open.spotify.com/artist/0BatFhnuo1dJ632u37igwo) | [جولاتي](https://open.spotify.com/album/5LFqbT78b7K4S8ARXlZZdh) | 2:38 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BeS7oLnHFo.md) - [plain]
 | 35 | [Influenza](https://open.spotify.com/track/2UMihK8hP5rBZjw4iXDrvi) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [Influenza](https://open.spotify.com/album/0cfaz8h3V5bYOFcvFYaY7M) | 3:34 |
 | 36 | [Mshmashi](https://open.spotify.com/track/23DUn6f2TWzzc1JGuswwfB) | [Big Bo](https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0), [Bobilal](https://open.spotify.com/artist/7swpe4e2vzQ5p46ChS0gDH) | [Mshmashi](https://open.spotify.com/album/38pYJTpi4i4UPCWcRkmrUu) | 3:29 |
 | 37 | [نور و ظلمة](https://open.spotify.com/track/7Ch8thcNJEUIPZX607DNtu) | [Lil Eazy](https://open.spotify.com/artist/7g2LNiqq1JAYSf1OcZY8NS), [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C) | [نور و ظلمة](https://open.spotify.com/album/2RBEKWZkAz61GIKJCKG8fz) | 2:44 |
-| 38 | [Ala El Hadi](https://open.spotify.com/track/59RJkigbf7igBzNQJ56NQF) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu), [Warchieff](https://open.spotify.com/artist/0rKBPvNmQMHFGNf8RCYLt8), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Ala El Hadi](https://open.spotify.com/album/2rRFYwugXgccV96X5OlzzH) | 2:38 |
-| 39 | [Eshara](https://open.spotify.com/track/4uWwdosghKo3SrsTACvvFc) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN) | [Memento](https://open.spotify.com/album/5TxnFtqYxSTOjh7B5SKaZH) | 2:21 |
-| 40 | [SHOOTA](https://open.spotify.com/track/3nfWzTTxqbjHvALssUUKGb) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP) | [SHOOTA](https://open.spotify.com/album/2pSwKpprTbV2QveOywXmjy) | 2:29 |
+| 38 | [Eshara](https://open.spotify.com/track/4uWwdosghKo3SrsTACvvFc) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN) | [Memento](https://open.spotify.com/album/5TxnFtqYxSTOjh7B5SKaZH) | 2:21 |
+| 39 | [SHOOTA](https://open.spotify.com/track/3nfWzTTxqbjHvALssUUKGb) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP) | [SHOOTA](https://open.spotify.com/album/2pSwKpprTbV2QveOywXmjy) | 2:29 |
+| 40 | [Theeb](https://open.spotify.com/track/7e7XGcxSyirmCyxsGYvyQT) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Batn Al Shaer](https://open.spotify.com/album/3TJe6YsGmLSZSsoQKLdcM8) | 2:06 |
 
-Snapshot ID: `AAAAAFa+107VM/Pxe7mHkzGyvscXA91b`
+Snapshot ID: `AAAAAF7pnyPOkTNu1pmvkf6QUm5/52M/`

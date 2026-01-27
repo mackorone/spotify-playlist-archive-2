@@ -2400,7 +2400,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 704453,
       "name": "Digno de Tudo/ Nada Mais Satisfaz/ At\u00e9 Que Nada Mais Importe - Ao Vivo",
       "url": "https://open.spotify.com/track/3aEa2l3IM0Uzw7SseltnZh"
@@ -7032,7 +7032,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 386385,
       "name": "Pela Gra\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/5DOElICehd0dGvkWqYGfTB"
@@ -9694,6 +9694,10 @@
         {
           "name": "Alessandro Vilas Boas",
           "url": "https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7"
+        },
+        {
+          "name": "ONE-Sounds",
+          "url": "https://open.spotify.com/artist/71awyf4ddRgZM3UXc9s7ki"
         }
       ],
       "date_added": "2025-08-22",

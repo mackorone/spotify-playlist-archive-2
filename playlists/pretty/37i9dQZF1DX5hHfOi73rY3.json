@@ -1,6 +1,6 @@
 {
   "description": "Dance anthems from the club to your ears! ",
-  "num_followers": 321152,
+  "num_followers": 321160,
   "original_name": "Warehouse Party",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2025-11-28 00:00:05",
       "album": {
+        "name": "We Do What We Want (Edit)",
+        "url": "https://open.spotify.com/album/5WzbzjfI0AeLlYwyZ1rHOa"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        }
+      ],
+      "duration_ms": 188095,
+      "name": "We Do What We Want - Edit",
+      "url": "https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M"
+    },
+    {
+      "added_at": "2025-11-28 00:00:05",
+      "album": {
         "name": "Groove Thang",
         "url": "https://open.spotify.com/album/1PPPSHY19tixIaMCbDJihZ"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 221339,
       "name": "COLLECT THE COMMAS",
       "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
-    },
-    {
-      "added_at": "2025-11-28 00:00:05",
-      "album": {
-        "name": "We Do What We Want (Edit)",
-        "url": "https://open.spotify.com/album/5WzbzjfI0AeLlYwyZ1rHOa"
-      },
-      "artists": [
-        {
-          "name": "Alan Fitzpatrick",
-          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
-        }
-      ],
-      "duration_ms": 188095,
-      "name": "We Do What We Want - Edit",
-      "url": "https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M"
     },
     {
       "added_at": "2025-11-28 00:00:05",

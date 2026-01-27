@@ -1,6 +1,6 @@
 {
   "description": "Los temas que prenden las fiestas navide\u00f1as y de fin de a\u00f1o en Colombia. Foto: Lisandro Meza",
-  "num_followers": 129481,
+  "num_followers": 129480,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-12-17 19:57:52",
       "album": {
-        "name": "50 A\u00f1os De Fiesta",
-        "url": "https://open.spotify.com/album/6ypapHwVMUIcPHnCsmI3uF"
-      },
-      "artists": [
-        {
-          "name": "Los Wawanco",
-          "url": "https://open.spotify.com/artist/0WSHVLqlPkVePCFIUiDuC6"
-        }
-      ],
-      "duration_ms": 172106,
-      "name": "El Cuartetazo",
-      "url": "https://open.spotify.com/track/5iMKKoKwGrVCDBQsSr2ffl"
-    },
-    {
-      "added_at": "2025-12-17 19:57:52",
-      "album": {
         "name": "Parrandero y Contentoso",
         "url": "https://open.spotify.com/album/7t3NeXK9jFRK42Z8dab5Tm"
       },
@@ -631,22 +615,18 @@
     {
       "added_at": "2025-12-17 19:57:52",
       "album": {
-        "name": "Sobredosis de Amor y Salsa",
-        "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
+        "name": "50 A\u00f1os De Fiesta",
+        "url": "https://open.spotify.com/album/6ypapHwVMUIcPHnCsmI3uF"
       },
       "artists": [
         {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
-        },
-        {
-          "name": "\u00d3scar Quesada",
-          "url": "https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9"
+          "name": "Los Wawanco",
+          "url": "https://open.spotify.com/artist/0WSHVLqlPkVePCFIUiDuC6"
         }
       ],
-      "duration_ms": 249878,
-      "name": "Sobredosis",
-      "url": "https://open.spotify.com/track/1DseLejlPOK5qrzArl7b8A"
+      "duration_ms": 172106,
+      "name": "El Cuartetazo",
+      "url": "https://open.spotify.com/track/5iMKKoKwGrVCDBQsSr2ffl"
     },
     {
       "added_at": "2025-12-17 19:57:52",
@@ -663,6 +643,26 @@
       "duration_ms": 278826,
       "name": "Quien Piensa En Ti",
       "url": "https://open.spotify.com/track/2P5dxRJ7BZLwffgIs0DQOX"
+    },
+    {
+      "added_at": "2025-12-17 19:57:52",
+      "album": {
+        "name": "Sobredosis de Amor y Salsa",
+        "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        },
+        {
+          "name": "\u00d3scar Quesada",
+          "url": "https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9"
+        }
+      ],
+      "duration_ms": 249878,
+      "name": "Sobredosis",
+      "url": "https://open.spotify.com/track/1DseLejlPOK5qrzArl7b8A"
     },
     {
       "added_at": "2025-12-17 19:57:52",
@@ -747,18 +747,22 @@
     {
       "added_at": "2025-12-17 19:57:52",
       "album": {
-        "name": "Marca Registrada del Binomio de Oro",
-        "url": "https://open.spotify.com/album/7aDqowxLLL5VH6M9R9zEHa"
+        "name": "Las Pilanderas",
+        "url": "https://open.spotify.com/album/2kvrc2ZZCGcmjOxgrX44Ma"
       },
       "artists": [
         {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 270293,
-      "name": "Me Sobran las Palabras",
-      "url": "https://open.spotify.com/track/0zIERn4aP7d0eVBIhwyPwW"
+      "duration_ms": 199666,
+      "name": "Las Pilanderas",
+      "url": "https://open.spotify.com/track/7xXOh3KqSjkTmO2h9SjGWJ"
     },
     {
       "added_at": "2025-12-17 19:57:52",
@@ -779,22 +783,18 @@
     {
       "added_at": "2025-12-17 19:57:52",
       "album": {
-        "name": "Las Pilanderas",
-        "url": "https://open.spotify.com/album/2kvrc2ZZCGcmjOxgrX44Ma"
+        "name": "Marca Registrada del Binomio de Oro",
+        "url": "https://open.spotify.com/album/7aDqowxLLL5VH6M9R9zEHa"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 199666,
-      "name": "Las Pilanderas",
-      "url": "https://open.spotify.com/track/7xXOh3KqSjkTmO2h9SjGWJ"
+      "duration_ms": 270293,
+      "name": "Me Sobran las Palabras",
+      "url": "https://open.spotify.com/track/0zIERn4aP7d0eVBIhwyPwW"
     },
     {
       "added_at": "2025-12-17 19:57:52",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-12-17 19:57:52",
       "album": {
+        "name": "La Sonora Matancera y sus voces de oro, Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/6uFvAQZBCx1ZMWLxMO35iM"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 153414,
+      "name": "El negrito del Batey - Remastered",
+      "url": "https://open.spotify.com/track/5l3zT77F4kGXeBKs4FO2pH"
+    },
+    {
+      "added_at": "2025-12-17 19:57:52",
+      "album": {
         "name": "Sobredosis de Amor y Salsa",
         "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 287459,
       "name": "Por Retenerte",
       "url": "https://open.spotify.com/track/6ADkHioGKvBpqDkXVhMZKr"
-    },
-    {
-      "added_at": "2025-12-17 19:57:52",
-      "album": {
-        "name": "La Sonora Matancera y sus voces de oro, Vol. 1 (Remastered)",
-        "url": "https://open.spotify.com/album/6uFvAQZBCx1ZMWLxMO35iM"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 153414,
-      "name": "El negrito del Batey - Remastered",
-      "url": "https://open.spotify.com/track/5l3zT77F4kGXeBKs4FO2pH"
     },
     {
       "added_at": "2025-12-17 19:57:52",
@@ -971,6 +971,22 @@
     {
       "added_at": "2025-12-17 19:57:52",
       "album": {
+        "name": "A Los 30 A\u00f1os de Victor Pi\u00f1ero",
+        "url": "https://open.spotify.com/album/2LaCWLjqjIkbUlk46RGJ0G"
+      },
+      "artists": [
+        {
+          "name": "Victor Pi\u00f1ero",
+          "url": "https://open.spotify.com/artist/6O5nkHt0QsqTMNaHkWNXmx"
+        }
+      ],
+      "duration_ms": 151626,
+      "name": "Chipi Chipi",
+      "url": "https://open.spotify.com/track/0mKerpg4ZxmC8uLmD70JZ8"
+    },
+    {
+      "added_at": "2025-12-17 19:57:52",
+      "album": {
         "name": "Listos para Bailar",
         "url": "https://open.spotify.com/album/6fxDh3ZygNQVsqNvnj6oYM"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 226730,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/7t13B1tMcF74fp7fYYVcud"
-    },
-    {
-      "added_at": "2025-12-17 19:57:52",
-      "album": {
-        "name": "A Los 30 A\u00f1os de Victor Pi\u00f1ero",
-        "url": "https://open.spotify.com/album/2LaCWLjqjIkbUlk46RGJ0G"
-      },
-      "artists": [
-        {
-          "name": "Victor Pi\u00f1ero",
-          "url": "https://open.spotify.com/artist/6O5nkHt0QsqTMNaHkWNXmx"
-        }
-      ],
-      "duration_ms": 151626,
-      "name": "Chipi Chipi",
-      "url": "https://open.spotify.com/track/0mKerpg4ZxmC8uLmD70JZ8"
     },
     {
       "added_at": "2025-12-17 19:57:52",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2025-12-17 19:57:52",
       "album": {
+        "name": "A Mover el Esqueleto Con 3 Grandes",
+        "url": "https://open.spotify.com/album/0YWIrrISo3DyXAXsjKheUy"
+      },
+      "artists": [
+        {
+          "name": "Los Hispanos",
+          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
+        }
+      ],
+      "duration_ms": 140920,
+      "name": "Olvidemos el Pasado",
+      "url": "https://open.spotify.com/track/3GWfCPsJ0MwZkqS6Tw2IHJ"
+    },
+    {
+      "added_at": "2025-12-17 19:57:52",
+      "album": {
         "name": "En Acci\u00f3n",
         "url": "https://open.spotify.com/album/0QQG7YEkrJ7FVTHXmWTmHW"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 257642,
       "name": "Muchacha Encantadora",
       "url": "https://open.spotify.com/track/5ZsIeVJdQ0d4Xk6mjRz2Cz"
-    },
-    {
-      "added_at": "2025-12-17 19:57:52",
-      "album": {
-        "name": "A Mover el Esqueleto Con 3 Grandes",
-        "url": "https://open.spotify.com/album/0YWIrrISo3DyXAXsjKheUy"
-      },
-      "artists": [
-        {
-          "name": "Los Hispanos",
-          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
-        }
-      ],
-      "duration_ms": 140920,
-      "name": "Olvidemos el Pasado",
-      "url": "https://open.spotify.com/track/3GWfCPsJ0MwZkqS6Tw2IHJ"
     },
     {
       "added_at": "2025-12-17 19:57:52",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2025-12-17 19:57:52",
       "album": {
-        "name": "Picoteando por Ah\u00ed y Otros \u00c9xitos",
-        "url": "https://open.spotify.com/album/5QrcL2jTqliHd8O563vBbQ"
-      },
-      "artists": [
-        {
-          "name": "La Gran Banda Cale\u00f1a",
-          "url": "https://open.spotify.com/artist/4mSjsAYIPvfiRHmNmNH8a2"
-        },
-        {
-          "name": "Jorge Sol\u00eds",
-          "url": "https://open.spotify.com/artist/1reY0a17u02VndROtflcB7"
-        }
-      ],
-      "duration_ms": 228408,
-      "name": "As\u00ed Te Quiero Yo",
-      "url": "https://open.spotify.com/track/0yRCIDuZfg6eXy3Tg9B7iU"
-    },
-    {
-      "added_at": "2025-12-17 19:57:52",
-      "album": {
         "name": "La Carrasca",
         "url": "https://open.spotify.com/album/0Vhp2cry5kU2blv6ZhRSZi"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 165184,
       "name": "La Carrasca",
       "url": "https://open.spotify.com/track/4aTmc4hk31uZx9Y9DBmK02"
+    },
+    {
+      "added_at": "2025-12-17 19:57:52",
+      "album": {
+        "name": "Picoteando por Ah\u00ed y Otros \u00c9xitos",
+        "url": "https://open.spotify.com/album/5QrcL2jTqliHd8O563vBbQ"
+      },
+      "artists": [
+        {
+          "name": "La Gran Banda Cale\u00f1a",
+          "url": "https://open.spotify.com/artist/4mSjsAYIPvfiRHmNmNH8a2"
+        },
+        {
+          "name": "Jorge Sol\u00eds",
+          "url": "https://open.spotify.com/artist/1reY0a17u02VndROtflcB7"
+        }
+      ],
+      "duration_ms": 228408,
+      "name": "As\u00ed Te Quiero Yo",
+      "url": "https://open.spotify.com/track/0yRCIDuZfg6eXy3Tg9B7iU"
     },
     {
       "added_at": "2025-12-17 19:57:52",

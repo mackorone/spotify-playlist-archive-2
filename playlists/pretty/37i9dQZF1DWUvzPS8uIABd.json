@@ -1,6 +1,6 @@
 {
   "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. ",
-  "num_followers": 132684,
+  "num_followers": 132678,
   "original_name": "#vainsuomihitit",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-01-23 07:23:15",
       "album": {
-        "name": "VIIVI (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
-        "url": "https://open.spotify.com/album/4Kf4e2oaoT9VmhW3wpyit5"
-      },
-      "artists": [
-        {
-          "name": "VIIVI",
-          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
-        }
-      ],
-      "duration_ms": 191119,
-      "name": "Aamun kuiskaus (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
-      "url": "https://open.spotify.com/track/7jvoAK64yth4VDSr51lkQW"
-    },
-    {
-      "added_at": "2026-01-23 07:23:15",
-      "album": {
         "name": "Lululai",
         "url": "https://open.spotify.com/album/59sdjIA1D5cyfXaM7nCAzp"
       },
@@ -339,18 +323,18 @@
     {
       "added_at": "2026-01-23 07:23:15",
       "album": {
-        "name": "Jos m\u00e4 oisin rehellinen",
-        "url": "https://open.spotify.com/album/1E7KbNui75iGvJirJOWlJy"
+        "name": "VIIVI (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+        "url": "https://open.spotify.com/album/4Kf4e2oaoT9VmhW3wpyit5"
       },
       "artists": [
         {
-          "name": "emma & matilda",
-          "url": "https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV"
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
         }
       ],
-      "duration_ms": 225210,
-      "name": "Ei kulu p\u00e4iv\u00e4\u00e4k\u00e4\u00e4n",
-      "url": "https://open.spotify.com/track/0Q3f5sp2j2NESNeyH8YeC2"
+      "duration_ms": 191119,
+      "name": "Aamun kuiskaus (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+      "url": "https://open.spotify.com/track/7jvoAK64yth4VDSr51lkQW"
     },
     {
       "added_at": "2026-01-23 07:23:15",
@@ -367,6 +351,22 @@
       "duration_ms": 169500,
       "name": "Takatukka",
       "url": "https://open.spotify.com/track/4ZC9E410eX5fMNWI5ITnHd"
+    },
+    {
+      "added_at": "2026-01-23 07:23:15",
+      "album": {
+        "name": "Jos m\u00e4 oisin rehellinen",
+        "url": "https://open.spotify.com/album/1E7KbNui75iGvJirJOWlJy"
+      },
+      "artists": [
+        {
+          "name": "emma & matilda",
+          "url": "https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV"
+        }
+      ],
+      "duration_ms": 225210,
+      "name": "Ei kulu p\u00e4iv\u00e4\u00e4k\u00e4\u00e4n",
+      "url": "https://open.spotify.com/track/0Q3f5sp2j2NESNeyH8YeC2"
     },
     {
       "added_at": "2026-01-23 07:23:15",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-01-23 07:23:15",
       "album": {
+        "name": "Crash Out",
+        "url": "https://open.spotify.com/album/4KpoZTlC632iMa30PBsy3l"
+      },
+      "artists": [
+        {
+          "name": "Senya",
+          "url": "https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO"
+        }
+      ],
+      "duration_ms": 176002,
+      "name": "Kill4Me",
+      "url": "https://open.spotify.com/track/65rl6bTeV4tTZw7qMeGGFw"
+    },
+    {
+      "added_at": "2026-01-23 07:23:15",
+      "album": {
         "name": "Alkemia / Showbisn\u20acs",
         "url": "https://open.spotify.com/album/6EMVXMLTJAujvHB6LwiCmk"
       },
@@ -455,18 +471,38 @@
     {
       "added_at": "2026-01-23 07:23:15",
       "album": {
-        "name": "Crash Out",
-        "url": "https://open.spotify.com/album/4KpoZTlC632iMa30PBsy3l"
+        "name": "Aris",
+        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
       },
       "artists": [
         {
-          "name": "Senya",
-          "url": "https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO"
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "Vesala",
+          "url": "https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP"
         }
       ],
-      "duration_ms": 176002,
-      "name": "Kill4Me",
-      "url": "https://open.spotify.com/track/65rl6bTeV4tTZw7qMeGGFw"
+      "duration_ms": 170343,
+      "name": "Se ei mennyt niin",
+      "url": "https://open.spotify.com/track/1oEOPyKoBkdn5QYHWIOBJW"
+    },
+    {
+      "added_at": "2026-01-23 07:23:15",
+      "album": {
+        "name": "Rakkaudenkipee",
+        "url": "https://open.spotify.com/album/2GojwnBicLHPaakAexrwG7"
+      },
+      "artists": [
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF"
+        }
+      ],
+      "duration_ms": 174044,
+      "name": "Rakkaudenkipee",
+      "url": "https://open.spotify.com/track/2aWi2TIoTMu83w6zagrnzx"
     },
     {
       "added_at": "2026-01-23 07:23:15",
@@ -503,6 +539,22 @@
     {
       "added_at": "2026-01-23 07:23:15",
       "album": {
+        "name": "Ready To Leave",
+        "url": "https://open.spotify.com/album/42bZeoJyztvoPtI5YOiQQg"
+      },
+      "artists": [
+        {
+          "name": "Sinikka Monte",
+          "url": "https://open.spotify.com/artist/4DdESeB3YoWHEh2v5jxSok"
+        }
+      ],
+      "duration_ms": 178815,
+      "name": "Ready To Leave",
+      "url": "https://open.spotify.com/track/0ZTknywhGMhRcPijHC3aiD"
+    },
+    {
+      "added_at": "2026-01-23 07:23:15",
+      "album": {
         "name": "Voiko enkelitkin eksy\u00e4",
         "url": "https://open.spotify.com/album/6ZawkhQLo031iW3evZzeUr"
       },
@@ -515,30 +567,6 @@
       "duration_ms": 240720,
       "name": "Voiko enkelitkin eksy\u00e4",
       "url": "https://open.spotify.com/track/0p2JegDOnAHal6tyUqcsbW"
-    },
-    {
-      "added_at": "2026-01-23 07:23:15",
-      "album": {
-        "name": "Tello Tape",
-        "url": "https://open.spotify.com/album/5b69Boqtt3RD37IieDSoBB"
-      },
-      "artists": [
-        {
-          "name": "Danitello",
-          "url": "https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE"
-        },
-        {
-          "name": "Alina Burnet",
-          "url": "https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J"
-        },
-        {
-          "name": "JVG",
-          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
-        }
-      ],
-      "duration_ms": 196915,
-      "name": "Onks se v\u00e4\u00e4rin (feat. Alina Burnet & JVG)",
-      "url": "https://open.spotify.com/track/4KLDps1W298pw97KmTL17p"
     },
     {
       "added_at": "2026-01-23 07:23:15",
@@ -579,18 +607,26 @@
     {
       "added_at": "2026-01-23 07:23:15",
       "album": {
-        "name": "Ready To Leave",
-        "url": "https://open.spotify.com/album/42bZeoJyztvoPtI5YOiQQg"
+        "name": "Tello Tape",
+        "url": "https://open.spotify.com/album/5b69Boqtt3RD37IieDSoBB"
       },
       "artists": [
         {
-          "name": "Sinikka Monte",
-          "url": "https://open.spotify.com/artist/4DdESeB3YoWHEh2v5jxSok"
+          "name": "Danitello",
+          "url": "https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE"
+        },
+        {
+          "name": "Alina Burnet",
+          "url": "https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J"
+        },
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
         }
       ],
-      "duration_ms": 178815,
-      "name": "Ready To Leave",
-      "url": "https://open.spotify.com/track/0ZTknywhGMhRcPijHC3aiD"
+      "duration_ms": 196915,
+      "name": "Onks se v\u00e4\u00e4rin (feat. Alina Burnet & JVG)",
+      "url": "https://open.spotify.com/track/4KLDps1W298pw97KmTL17p"
     },
     {
       "added_at": "2026-01-23 07:23:15",
@@ -623,42 +659,6 @@
       "duration_ms": 173880,
       "name": "M\u00e4 oon se tytt\u00f6",
       "url": "https://open.spotify.com/track/1yPXRZYJcZpi3SUQcT2Yro"
-    },
-    {
-      "added_at": "2026-01-23 07:23:15",
-      "album": {
-        "name": "Aris",
-        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
-      },
-      "artists": [
-        {
-          "name": "Ares",
-          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
-        },
-        {
-          "name": "Vesala",
-          "url": "https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP"
-        }
-      ],
-      "duration_ms": 170343,
-      "name": "Se ei mennyt niin",
-      "url": "https://open.spotify.com/track/1oEOPyKoBkdn5QYHWIOBJW"
-    },
-    {
-      "added_at": "2026-01-23 07:23:15",
-      "album": {
-        "name": "Rakkaudenkipee",
-        "url": "https://open.spotify.com/album/2GojwnBicLHPaakAexrwG7"
-      },
-      "artists": [
-        {
-          "name": "KIKI",
-          "url": "https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF"
-        }
-      ],
-      "duration_ms": 174044,
-      "name": "Rakkaudenkipee",
-      "url": "https://open.spotify.com/track/2aWi2TIoTMu83w6zagrnzx"
     },
     {
       "added_at": "2026-01-23 07:23:15",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-01-23 07:23:15",
       "album": {
+        "name": "Uus ikuisuus",
+        "url": "https://open.spotify.com/album/5sJ7kXJARagnnxyPaKrNXc"
+      },
+      "artists": [
+        {
+          "name": "Nelli Matula",
+          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
+        }
+      ],
+      "duration_ms": 176754,
+      "name": "Uus ikuisuus",
+      "url": "https://open.spotify.com/track/7KCwlgnSizc7FT7z8irVWk"
+    },
+    {
+      "added_at": "2026-01-23 07:23:15",
+      "album": {
         "name": "Traagista mut maagista",
         "url": "https://open.spotify.com/album/05UgN2Oat0R7y87VGSpTU2"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 172150,
       "name": "7 synti\u00e4 (feat. AHTI)",
       "url": "https://open.spotify.com/track/1y1iqCHLIIqdlD83TbUPS8"
-    },
-    {
-      "added_at": "2026-01-23 07:23:15",
-      "album": {
-        "name": "Uus ikuisuus",
-        "url": "https://open.spotify.com/album/5sJ7kXJARagnnxyPaKrNXc"
-      },
-      "artists": [
-        {
-          "name": "Nelli Matula",
-          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
-        }
-      ],
-      "duration_ms": 176754,
-      "name": "Uus ikuisuus",
-      "url": "https://open.spotify.com/track/7KCwlgnSizc7FT7z8irVWk"
     },
     {
       "added_at": "2026-01-23 07:23:15",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-01-23 07:23:15",
       "album": {
-        "name": "Teht\u00e4v\u00e4 t\u00e4\u00e4",
-        "url": "https://open.spotify.com/album/3vqp9wreCwyvswPt92cprd"
-      },
-      "artists": [
-        {
-          "name": "Jore & Zpoppa",
-          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
-        }
-      ],
-      "duration_ms": 193437,
-      "name": "Teht\u00e4v\u00e4 t\u00e4\u00e4",
-      "url": "https://open.spotify.com/track/2vaFrvauevJtiY6HXk84YH"
-    },
-    {
-      "added_at": "2026-01-23 07:23:15",
-      "album": {
         "name": "Jos viel t\u00e4n\u00e4\u00e4n (feat. AHTI)",
         "url": "https://open.spotify.com/album/36m9kmhRSZLRp1N9AwdqYz"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 150353,
       "name": "Jos viel t\u00e4n\u00e4\u00e4n (feat. AHTI)",
       "url": "https://open.spotify.com/track/14WphbjwdiMZNkT0YhcnkW"
+    },
+    {
+      "added_at": "2026-01-23 07:23:15",
+      "album": {
+        "name": "Teht\u00e4v\u00e4 t\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/3vqp9wreCwyvswPt92cprd"
+      },
+      "artists": [
+        {
+          "name": "Jore & Zpoppa",
+          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
+        }
+      ],
+      "duration_ms": 193437,
+      "name": "Teht\u00e4v\u00e4 t\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/2vaFrvauevJtiY6HXk84YH"
     },
     {
       "added_at": "2026-01-23 07:23:15",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2026-01-23 07:23:15",
       "album": {
+        "name": "N\u00e4\u00e4 pirut on mun kavereit",
+        "url": "https://open.spotify.com/album/3qfGZ2Tk9Y3SmS0p7BPjO7"
+      },
+      "artists": [
+        {
+          "name": "costee",
+          "url": "https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji"
+        },
+        {
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
+        }
+      ],
+      "duration_ms": 191814,
+      "name": "K\u00f6yh\u00e4 ja kipee (feat. BESS)",
+      "url": "https://open.spotify.com/track/4N1xl85zvCN21lRpz5aEZQ"
+    },
+    {
+      "added_at": "2026-01-23 07:23:15",
+      "album": {
         "name": "Autiomaa (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
         "url": "https://open.spotify.com/album/7jLSDdDKjyVENj0chrbTh7"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 168385,
       "name": "Autiomaa - Vain el\u00e4m\u00e4\u00e4 kausi 16",
       "url": "https://open.spotify.com/track/2xMaGPMw5YroV8i32HAMX0"
-    },
-    {
-      "added_at": "2026-01-23 07:23:15",
-      "album": {
-        "name": "N\u00e4\u00e4 pirut on mun kavereit",
-        "url": "https://open.spotify.com/album/3qfGZ2Tk9Y3SmS0p7BPjO7"
-      },
-      "artists": [
-        {
-          "name": "costee",
-          "url": "https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji"
-        },
-        {
-          "name": "BESS",
-          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
-        }
-      ],
-      "duration_ms": 191814,
-      "name": "K\u00f6yh\u00e4 ja kipee (feat. BESS)",
-      "url": "https://open.spotify.com/track/4N1xl85zvCN21lRpz5aEZQ"
     }
   ],
   "unique_name": "#vainsuomihitit",

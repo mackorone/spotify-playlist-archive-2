@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,874 songs - 8 day 13 hr 43 min
+3,876 songs - 8 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -883,6 +883,7 @@
 | [Digital Stardust](https://open.spotify.com/track/5PTFBdlod2bi5Jxv7U9SYM) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Glitchy hyperpop pop electronic music](https://open.spotify.com/album/4UIMT4cWfdIo2ryLabHXYo) | 2:47 | 2025-09-12 |  |
 | [Digital Stardust \(another\)](https://open.spotify.com/track/1HiQzQgt8Gh9a3G0Hun3JN) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Glitchy hyperpop pop electronic music](https://open.spotify.com/album/4UIMT4cWfdIo2ryLabHXYo) | 3:03 | 2025-09-12 |  |
 | [Diluvio universale](https://open.spotify.com/track/6msU8Qt2FZ2HRuaLp51iAW) | [Artika](https://open.spotify.com/artist/0nhv8t4yAqnGrqQkeMyVh6) | [Diluvio universale](https://open.spotify.com/album/20LNSwv0uUgxQEJJWqQaIm) | 3:00 | 2025-01-27 |  |
+| [Dimensiones Paralelas](https://open.spotify.com/track/0cZfAhCMGOWbnD2zzkECVU) | [Nauj Project](https://open.spotify.com/artist/4g6e6FnWWi0oQGhHxkn9Jd) | [Dimensiones Paralelas](https://open.spotify.com/album/5e1cntrq6rg9B5Gmhi0p5w) | 2:49 | 2026-01-26 |  |
 | [Dimentica](https://open.spotify.com/track/2YFOpn4AQh66qARZX3TEEH) | [MadEleine](https://open.spotify.com/artist/0qecsDJMNlyALgNFKoTtpi) | [Dimentica](https://open.spotify.com/album/5g8TgvubwwzztZa9d85ZZI) | 3:05 | 2025-03-20 |  |
 | [Dimmelo Tu](https://open.spotify.com/track/1GHuNcPHDFNWVt2Y5setJ1) | [Igor Mulas](https://open.spotify.com/artist/5uPMZlA6DEKw4Q3sSDGPdb) | [Dimmelo Tu](https://open.spotify.com/album/3tP2ltVgLs70geQrpb8xtc) | 3:34 | 2025-06-06 |  |
 | [Dinamite Pura](https://open.spotify.com/track/4ARbF1CEeym7FlbkxhTm7n) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Dinamite Pura](https://open.spotify.com/album/5KuPFU5QLrMr3ixqYTaa3d) | 2:59 | 2025-12-10 |  |
@@ -1467,6 +1468,7 @@
 | [Gyatt](https://open.spotify.com/track/1s229wXdCqJ6efrURPrxYj) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Le 20 Parole in Slang Più Virali del 2025 \(Se Non Le Usi, Sei Fuori!\)](https://open.spotify.com/album/69RjNyMSGbTMcHDf8psNgs) | 2:22 | 2025-09-17 |  |
 | [Gymnopedie 808](https://open.spotify.com/track/71rWZ230q67GoOxcxbHFuc) | [Mauro Tudino](https://open.spotify.com/artist/1oeoZXpqKTC8Y62yrALSC9) | [Gymnopedie 808](https://open.spotify.com/album/3E84jMszdCtyVoEAL3twmv) | 2:43 | 2025-06-04 |  |
 | [Hai capito male](https://open.spotify.com/track/5W03BU7J8vzkOdHoJ4Q7xb) | [Ell](https://open.spotify.com/artist/02DsArEaXklbGbfOQeCdzN) | [Hai capito male](https://open.spotify.com/album/7D4bfcDP5mMKtU8AkRBGF7) | 3:15 | 2025-06-24 |  |
+| [Half\-Empty Soul](https://open.spotify.com/track/3itcmtHSqMpcPLcNcsbvqC) | [Bass\_Plus](https://open.spotify.com/artist/0uYsvadSSfd6FUaBB9syyb) | [Half\-Empty Soul](https://open.spotify.com/album/2Bo6gMb6cMRKnP2fh87b9U) | 3:00 | 2026-01-26 |  |
 | [Halfless Souls](https://open.spotify.com/track/4rzpcgpoOaCHCudaOfjrQl) | [Amedeo Orlandi](https://open.spotify.com/artist/0AjSSKpvPNGbs4MpUi3MXH) | [Halfless Souls](https://open.spotify.com/album/3Exqy2GkyiPbrUlIakn719) | 3:28 | 2025-10-07 |  |
 | [Hallow Tales \- 2025 Remaster](https://open.spotify.com/track/6pJBr7i4ZZz6UeBgq30hYv) | [Robert80z](https://open.spotify.com/artist/3N0C6tFumt18qCNENY5WHB) | [The Dividing Line \(2025 Remaster\)](https://open.spotify.com/album/3MzgPxLIEpeiZJWqqdd8p0) | 3:48 | 2025-05-05 |  |
 | [Halloween Every Day](https://open.spotify.com/track/05GeKjRj0xlF6XYgFzuPQ8) | [Brenso](https://open.spotify.com/artist/56W6bwD2W4blOzdXURs1DE) | [Halloween Every Day](https://open.spotify.com/album/7GE4Fj5k4OewpL4PMgylwA) | 2:38 | 2025-09-29 |  |

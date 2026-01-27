@@ -1,13 +1,29 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 945,
+  "num_followers": 948,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAEzN9NixGOFGvyiXqFF9NUp/ppDnCP",
+  "snapshot_id": "AAAEzdz1RrPisDrooALt4NgnMxTmLA9J",
   "tracks": [
+    {
+      "added_at": "2026-01-26 07:33:04",
+      "album": {
+        "name": "The Mix-Stir Bar V2",
+        "url": "https://open.spotify.com/album/4cDCAy44vGoS129GOO5ZBy"
+      },
+      "artists": [
+        {
+          "name": "Kamex",
+          "url": "https://open.spotify.com/artist/2boudDTnAlzb00NFNXTkad"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "The Mix-Stir Bar V2",
+      "url": "https://open.spotify.com/track/6nd5Zai4IyFDXigvA6fzsD"
+    },
     {
       "added_at": "2026-01-24 02:23:37",
       "album": {

@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,046 songs - 1 day 17 hr 14 min
+2,049 songs - 1 day 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -753,6 +753,7 @@
 | [Gazing at the Universe](https://open.spotify.com/track/78san9vKKucgdUjkBGN44x) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Nocturnal](https://open.spotify.com/album/4TMcXG9vuGb5jDRLdcEhhF) | 1:49 | 2024-01-29 |  |
 | [Gazing Towards The Sky](https://open.spotify.com/track/4awAMEKytUSE7r5j4d5XXs) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Gazing Towards The Sky](https://open.spotify.com/album/11AvT7xDlcFEwP50VQqRfU) | 1:00 | 2022-06-18 |  |
 | [Gazing Up](https://open.spotify.com/track/65BrSKwNrvW8jADQQSWpMg) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Loving State](https://open.spotify.com/album/1n19RPtityGMv4cjOOOXLl) | 1:00 | 2023-07-05 |  |
+| [Gentle](https://open.spotify.com/track/6taZcGynNdfig41XfD0Edp) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Gentle](https://open.spotify.com/album/3Xm9oEdyZ4N8HLfZGWV1pu) | 1:00 | 2026-01-26 |  |
 | [Gentle Breath](https://open.spotify.com/track/7Ct5htZuLBzmiZAhh5XBVU) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Gentle Breath](https://open.spotify.com/album/3hP5URaSBhPmG3X5EBx9aC) | 1:00 | 2024-09-21 |  |
 | [Gentle Fall](https://open.spotify.com/track/0uNJhJw62KQf8yPqBEH10w) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Ambient Trios](https://open.spotify.com/album/3W0i0ISKNweZGXfbsCwJRH) | 1:16 | 2024-01-29 |  |
 | [Gentle Fall \- Strings Version](https://open.spotify.com/track/7IV4JK8YpM3bLSBkSVEzzC) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Gentle Fall \(Strings Version\)](https://open.spotify.com/album/6Kib3hpGjGZWR1gDYA7OJj) | 1:00 | 2023-01-29 | 2024-02-13 |
@@ -1241,6 +1242,7 @@
 | [Nuage](https://open.spotify.com/track/7tPWJrIrQ8R3T9lI3EegZi) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Soulful Treasures](https://open.spotify.com/album/59cxCCKChUXYJIIDUdxafC) | 1:04 | 2022-03-08 |  |
 | [O Come Little Children Arr\. For Cello](https://open.spotify.com/track/5bPZN2xau9EpoZhBYVT9k1) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [O Come Little Children Arr\. For Cello](https://open.spotify.com/album/59F0jHQro8t9RkiQQsUGO7) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [O Perfect Love Arr\. For Cello And Grand Piano](https://open.spotify.com/track/1U0W2syoVP3p8AWqKJBsab) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [O Perfect Love Arr\. For Cello And Grand Piano](https://open.spotify.com/album/0pWi2aKpQ8hj1YPGg2dUL1) | 1:02 | 2024-02-09 | 2024-02-13 |
+| [Ocean](https://open.spotify.com/track/2quwOJ2fLzuyLJHGpvVvak) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Ocean](https://open.spotify.com/album/3LpVxd2liTlnCdbwFobDlQ) | 1:00 | 2026-01-26 |  |
 | [Ocean Sun](https://open.spotify.com/track/70GJew4WjijqzebMYGakf1) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Ocean Sun](https://open.spotify.com/album/4mtlFh19wZhnpvUpLTdnUQ) | 1:00 | 2025-03-15 |  |
 | [Ode To Joy Arr\. For Cello](https://open.spotify.com/track/7asRESdQhxZQVlDE6f1BgP) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Ode To Joy Arr\. For Cello](https://open.spotify.com/album/3l1aAFUd411EBxuInAlT95) | 1:06 | 2024-02-09 | 2024-02-13 |
 | [Ode To Joy Arr\. For Cello And Felt Piano](https://open.spotify.com/track/0WSWRFKjkamxwYnMc3hcoJ) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Ode To Joy Arr\. For Cello And Felt Piano](https://open.spotify.com/album/3ddLYQhRcp89OkZZrvfCIz) | 1:01 | 2024-02-09 | 2024-02-13 |
@@ -2029,6 +2031,7 @@
 | [Wonderful Morning](https://open.spotify.com/track/05ABFqBySEaFvOI3K9KYGh) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Wonderful Morning](https://open.spotify.com/album/6JnE8rSaUHTaDAvX2z6car) | 1:05 | 2022-10-14 | 2024-01-30 |
 | [Wonderful Morning Light](https://open.spotify.com/track/2hNTeqq58MpH1nB30pV7iO) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Wonderful Morning Light](https://open.spotify.com/album/4qx2uTzSfX4fl6VzfE47mh) | 1:04 | 2024-02-09 | 2024-02-13 |
 | [Wonderful Peace](https://open.spotify.com/track/2y1WSXO7Bkg86MH7yxFD50) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Daydreaming](https://open.spotify.com/album/72T026EJN1ZCBM10yJ6Nb8) | 1:27 | 2024-01-29 |  |
+| [Wondering](https://open.spotify.com/track/5EojRapmQne09wd3tXuEIa) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Wondering](https://open.spotify.com/album/7z8GN4R5YcDQWMNOJt7StB) | 1:00 | 2026-01-26 |  |
 | [Wondering](https://open.spotify.com/track/6xeXeb4l8gJBILgbWj8c2H) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Stillness](https://open.spotify.com/album/7eegP3dh7y7zGSuvwCOTFv) | 1:24 | 2024-01-29 |  |
 | [Wonderland](https://open.spotify.com/track/124HZk1PljgBVFTBeJczM6) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Wonderland](https://open.spotify.com/album/2zUt0TAi7tYeptoXl2AC8G) | 1:12 | 2024-02-09 | 2024-02-13 |
 | [Wonderland At Midnight](https://open.spotify.com/track/3EsbXTVKb8ZN7iQlyEvgnc) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Orange Glow](https://open.spotify.com/album/1UZ3SSDvDCCQQKUxZjIzLk) | 1:01 | 2022-02-11 |  |

@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Derrick Rose
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Jaxon Smith\-Njigba
 
 879 songs - 1 day 20 hr 48 min
 

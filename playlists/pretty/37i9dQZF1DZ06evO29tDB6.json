@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 144024,
+  "num_followers": 144034,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXQLgAAAAABQIgwgGYuOUO/9eN200cm+",
+  "snapshot_id": "aXVdAAAAAAD7WferWwsQ6ydJSvIykrmf",
   "tracks": [
     {
       "added_at": null,
@@ -267,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 145093,
+      "name": "Vicioso",
+      "url": "https://open.spotify.com/track/1Dye6w5HIVXAzaECtHMNFo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Never Give Up (Todo Venceremos)",
         "url": "https://open.spotify.com/album/6ulRZCEENJFpgoVZ6knMLY"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 245760,
       "name": "We Never Give Up (Todo Venceremos)",
       "url": "https://open.spotify.com/track/77CnYt4OBz9RcScXtagsC0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Simplemente",
-        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 145093,
-      "name": "Vicioso",
-      "url": "https://open.spotify.com/track/1Dye6w5HIVXAzaECtHMNFo"
     },
     {
       "added_at": null,
@@ -731,38 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tri Sinf\u00f3nico II",
-        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 283906,
-      "name": "Perdedor",
-      "url": "https://open.spotify.com/track/0ksTXUvXqsn0ujFwArYWQP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
-        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 329773,
-      "name": "Encuentros cercanos del tercer sexo",
-      "url": "https://open.spotify.com/track/34eXshPC2pco8joDvXjduQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hard to Handle",
         "url": "https://open.spotify.com/album/1Yo2UcThBF6NFySQAWrJSX"
       },
@@ -783,6 +751,38 @@
       "duration_ms": 190632,
       "name": "Hard to Handle",
       "url": "https://open.spotify.com/track/2c6xK3rRQQT95DaTnjQYCF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
+        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 329773,
+      "name": "Encuentros cercanos del tercer sexo",
+      "url": "https://open.spotify.com/track/34eXshPC2pco8joDvXjduQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tri Sinf\u00f3nico II",
+        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 283906,
+      "name": "Perdedor",
+      "url": "https://open.spotify.com/track/0ksTXUvXqsn0ujFwArYWQP"
     },
     {
       "added_at": null,

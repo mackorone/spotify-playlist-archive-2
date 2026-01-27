@@ -1,6 +1,6 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. DANNY DUARTE en cover.",
-  "num_followers": 818524,
+  "num_followers": 818598,
   "original_name": "Sierre\u00f1o 2025",
   "owner": {
     "name": "Spotify",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2026-01-09 18:26:53",
       "album": {
+        "name": "Mala Novia",
+        "url": "https://open.spotify.com/album/2LPbqvMciJHYmfhLDlpBQ4"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Mala Novia",
+      "url": "https://open.spotify.com/track/2srlEFBReTn4tsKJzT3vkk"
+    },
+    {
+      "added_at": "2026-01-09 18:26:53",
+      "album": {
         "name": "Si Estuviera el G\u00fcero",
         "url": "https://open.spotify.com/album/1nlJJxuK9NlGUVwOCvLkee"
       },
@@ -1767,38 +1783,6 @@
     {
       "added_at": "2026-01-09 18:26:53",
       "album": {
-        "name": "Mala Novia",
-        "url": "https://open.spotify.com/album/2LPbqvMciJHYmfhLDlpBQ4"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "Mala Novia",
-      "url": "https://open.spotify.com/track/2srlEFBReTn4tsKJzT3vkk"
-    },
-    {
-      "added_at": "2026-01-09 18:26:53",
-      "album": {
-        "name": "Hoy la Vi Con \u00c9l (En Vivo)",
-        "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Hoy la Vi Con \u00c9l - En Vivo",
-      "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
-    },
-    {
-      "added_at": "2026-01-09 18:26:53",
-      "album": {
         "name": "La Bestia",
         "url": "https://open.spotify.com/album/1MVzuXnt954MHjpUhvsjqS"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 186368,
       "name": "La Bestia",
       "url": "https://open.spotify.com/track/59BnHrWc6ZBIscPQSBnuYn"
+    },
+    {
+      "added_at": "2026-01-09 18:26:53",
+      "album": {
+        "name": "Hoy la Vi Con \u00c9l (En Vivo)",
+        "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Hoy la Vi Con \u00c9l - En Vivo",
+      "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
     },
     {
       "added_at": "2026-01-09 18:26:53",

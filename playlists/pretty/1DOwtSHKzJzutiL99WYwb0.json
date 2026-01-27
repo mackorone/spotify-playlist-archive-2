@@ -1,13 +1,45 @@
 {
-  "description": "Collections made with EVERY kind of newly released 'K-Pop Bias' all over the world. Cover: CHA EUN-WOO",
+  "description": "Collections made with EVERY kind of newly released 'K-Pop Bias' all over the world. Cover: KiiiKiii",
   "num_followers": 767,
   "original_name": "K-Pop Bias : KPOP ESSENTIAL",
   "owner": {
     "name": "K-Pop Bias",
     "url": "https://open.spotify.com/user/fo9j3i5p2w7xubdtzqpd4h0ta"
   },
-  "snapshot_id": "AAAH4Mx8LdMyoFrHe2xfNcvVzext35fw",
+  "snapshot_id": "AAAH5+aj2UbdelCjXTHGsZ/L6UN1vbLb",
   "tracks": [
+    {
+      "added_at": "2026-01-27 01:09:59",
+      "album": {
+        "name": "Delulu Pack",
+        "url": "https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "404 (New Era)",
+      "url": "https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh"
+    },
+    {
+      "added_at": "2026-01-26 06:09:27",
+      "album": {
+        "name": "REVERXE - The 8th Album",
+        "url": "https://open.spotify.com/album/4ZXDMoZKLnkxFyqRGmCLnB"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/4iu11uPXYHUJaq5vr9cLwW"
+    },
     {
       "added_at": "2026-01-16 07:57:46",
       "album": {
@@ -1587,46 +1619,6 @@
       "duration_ms": 192466,
       "name": "Like A Flower",
       "url": "https://open.spotify.com/track/2ivhjourUwztR3kmz575KV"
-    },
-    {
-      "added_at": "2024-12-02 07:44:19",
-      "album": {
-        "name": "FREQUENCY - The 6th Mini Album",
-        "url": "https://open.spotify.com/album/6PmkuHFyelDURr3QlbFY3K"
-      },
-      "artists": [
-        {
-          "name": "WayV",
-          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
-        }
-      ],
-      "duration_ms": 160146,
-      "name": "FREQUENCY - Korean Version",
-      "url": "https://open.spotify.com/track/6a6jytQm8K7FNgPM1xrwEb"
-    },
-    {
-      "added_at": "2024-12-02 07:44:31",
-      "album": {
-        "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
-        "url": "https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq"
-      },
-      "artists": [
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        },
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        },
-        {
-          "name": "DAESUNG",
-          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
-        }
-      ],
-      "duration_ms": 211330,
-      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
-      "url": "https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH"
     }
   ],
   "unique_name": "K-Pop Bias : KPOP ESSENTIAL",

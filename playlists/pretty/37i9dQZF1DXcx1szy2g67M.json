@@ -1,13 +1,29 @@
 {
-  "description": "Z\u00f3 klinkt de winter van 2026! \u2744\ufe0f\ud83e\udde3\u26c4\ufe0f",
-  "num_followers": 657815,
+  "description": "Z\u00f3 klinkt de winter van 2026! \ud83c\udf2c\ufe0f\ud83e\udde3",
+  "num_followers": 657774,
   "original_name": "Winter 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOSRZ3AerPIyaeKJ2+etO7sPI690",
+  "snapshot_id": "AAAAAPRQp+LYMpiPgknVdzFwz2fuHv61",
   "tracks": [
+    {
+      "added_at": "2026-01-22 23:00:44",
+      "album": {
+        "name": "Dark Before The Dawn",
+        "url": "https://open.spotify.com/album/5IDysKWEasAmRL0GtLQaLb"
+      },
+      "artists": [
+        {
+          "name": "Son Mieux",
+          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
+        }
+      ],
+      "duration_ms": 215584,
+      "name": "Dark Before The Dawn",
+      "url": "https://open.spotify.com/track/7p1zQqPlC3gju243x8BTYZ"
+    },
     {
       "added_at": "2026-01-22 23:00:44",
       "album": {
@@ -155,22 +171,6 @@
       "duration_ms": 191830,
       "name": "Heartbreak Melody",
       "url": "https://open.spotify.com/track/2ZKm0cv6n9G0u0mNNadw8V"
-    },
-    {
-      "added_at": "2026-01-22 23:00:44",
-      "album": {
-        "name": "Dark Before The Dawn",
-        "url": "https://open.spotify.com/album/5IDysKWEasAmRL0GtLQaLb"
-      },
-      "artists": [
-        {
-          "name": "Son Mieux",
-          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
-        }
-      ],
-      "duration_ms": 215584,
-      "name": "Dark Before The Dawn",
-      "url": "https://open.spotify.com/track/7p1zQqPlC3gju243x8BTYZ"
     },
     {
       "added_at": "2026-01-22 23:00:44",

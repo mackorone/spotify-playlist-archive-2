@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,245 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,241 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 95 | [Navidad , Navidad](https://open.spotify.com/track/6HbzRvIncheZaMjHVaZOge) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Navidad en Merengue \(Versión Editada\)](https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M) | 3:51 |
 | 96 | [Diciembre \(feat\. Ismael Miranda & Oscar Serrano\)](https://open.spotify.com/track/62tBftJvdBsJWnF7FRJYts) | [Julio César Sanabria](https://open.spotify.com/artist/7mSNsfodgXzpuYNl7qucXN), [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq), [Oscar Serrano](https://open.spotify.com/artist/3JVWQ7QMUhs9WZW6dC3Fqc) | [Navidad a Lo Boricua](https://open.spotify.com/album/5wfv8V9nRCajVyBNKXp0nM) | 3:09 |
 | 97 | [Porque Me Gusta la Rumba](https://open.spotify.com/track/1QwC66ulIsyJhHg1kTw1ms) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [Fiesta en Navidad, Vol\. 2 \(39 Éxitos\)](https://open.spotify.com/album/2KU53YYpSADLNINuYxGqfG) | 3:54 |
-| 98 | [Aguinaldo Antillano](https://open.spotify.com/track/4cSb2YhIADVMTrJPjxIPBp) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Rumbón Navideño](https://open.spotify.com/album/1uhQN6sBgd4dB7CiPofhNp) | 3:56 |
-| 99 | [El Aguinaldo de Doña Elena](https://open.spotify.com/track/3rQIGx2oxTI9DUFHTjRGTG) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Navidad a Mi Estilo](https://open.spotify.com/album/1VUH7FLhnfscPhy36p8m8H) | 4:14 |
+| 98 | [El Aguinaldo de Doña Elena](https://open.spotify.com/track/3rQIGx2oxTI9DUFHTjRGTG) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Navidad a Mi Estilo](https://open.spotify.com/album/1VUH7FLhnfscPhy36p8m8H) | 4:14 |
+| 99 | [Aguinaldo Antillano](https://open.spotify.com/track/4cSb2YhIADVMTrJPjxIPBp) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Rumbón Navideño](https://open.spotify.com/album/1uhQN6sBgd4dB7CiPofhNp) | 3:56 |
 | 100 | [Joy to the World](https://open.spotify.com/track/31NXIjQatVVF4J94tj6PAS) | [Tropical Fantasia](https://open.spotify.com/artist/0O0yOSJ6q8u6k3L15EmsEf) | [Salsa Christmas](https://open.spotify.com/album/3UCpUhi8mg7mXSyaLtMbSG) | 5:16 |
 
 Snapshot ID: `AAAAALJPltAq0tELvohcQr9s/hHLW73j`

@@ -4,7 +4,7 @@
 
 > Jadi lebih produktif ditemani musik terkini
 
-436 songs - 1 day 2 hr 4 min
+441 songs - 1 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Beranjak Dewasa](https://open.spotify.com/track/3FPlY1uqTe1oFfIgI0BnoA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Selamat Ulang Tahun](https://open.spotify.com/album/75KyCmWatZRvlMcMRed9BG) | 4:57 | 2023-03-22 | 2024-10-16 |
 | [Berbunga\-bunga](https://open.spotify.com/track/0nJJr1PPDsezNGkJ1AtLkj) | [SOIN](https://open.spotify.com/artist/7DivToHdmrlnjxG1iKqfMx), [Faith](https://open.spotify.com/artist/51ChTfIJLjhAf8vd09W35d) | [Berbunga\-bunga](https://open.spotify.com/album/4gCyxB5ixZUx3aQGEzrNcE) | 3:21 | 2024-12-09 | 2025-05-20 |
 | [bergema sampai selamanya](https://open.spotify.com/track/0ql6fgz8qk0pAEKrGeSppJ) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif \(laman berikutnya\)](https://open.spotify.com/album/6QNFAeSYHkbEuTUtQMhlnC) | 3:18 | 2025-09-24 |  |
-| [bergema sampai selamanya](https://open.spotify.com/track/1RaJdXCj61oSRUUciGKoWe) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [bergema sampai selamanya](https://open.spotify.com/album/0kHOWC0D1GUQmvIz2nK1Mc) | 3:18 | 2025-04-14 |  |
+| [bergema sampai selamanya](https://open.spotify.com/track/1RaJdXCj61oSRUUciGKoWe) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [bergema sampai selamanya](https://open.spotify.com/album/0kHOWC0D1GUQmvIz2nK1Mc) | 3:18 | 2025-04-14 | 2026-01-27 |
+| [Bersenja Gurau](https://open.spotify.com/track/1rRLrcbn5JQIwsDrJFLdTx) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Bersenja Gurau](https://open.spotify.com/album/5MYGKGPicCeukkpkDEdVX3) | 3:14 | 2026-01-26 |  |
 | [Bila Kau Tak Disampingku](https://open.spotify.com/track/1ylY6UrF7cmOZ9GDOxrfk8) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Kisah Klasik Untuk Masa Depan](https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm) | 4:16 | 2025-05-06 |  |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-05-27 | 2025-08-05 |
 | [Bisa Apa?](https://open.spotify.com/track/0OObcN3lVpYRUFWI5hanxu) | [Amanda Citra](https://open.spotify.com/artist/4Jrl3wADhbdxxuYvYAjT6t) | [Bisa Apa?](https://open.spotify.com/album/0giohrzZRm4XnZpWxVpgDA) | 3:47 | 2025-01-07 | 2025-05-20 |
@@ -116,6 +117,7 @@
 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 | 2025-03-17 | 2025-04-11 |
 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-06-26 | 2025-02-04 |
 | [Ferris wheel \(feat\. Heize\)](https://open.spotify.com/track/7MbtHBj17NTiuk6jYJGExd) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [WONDERLAND](https://open.spotify.com/album/6kAIg4on5PAYArTdNvywdV) | 3:01 | 2025-07-28 | 2025-08-05 |
+| [Firasat](https://open.spotify.com/track/3cHjFfvxo7ZIz9Px32V9aA) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [Marcell](https://open.spotify.com/album/5hSfmtI2yqt541RTjuC8TU) | 4:07 | 2026-01-26 |  |
 | [First Love](https://open.spotify.com/track/39HrUxcvKF3jtLz7fUDWXc) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love](https://open.spotify.com/album/29U9LtzSF0ftWiLNNw1CP6) | 4:17 | 2023-03-22 | 2023-12-07 |
 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 | 2025-06-23 |  |
 | [For the Rest of My Life](https://open.spotify.com/track/3OohydwTMW65eZKOrX5MPY) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Thank You Allah \(Turkish Version\)](https://open.spotify.com/album/1Wul1gjulHQkgnZ1aZMgne) | 3:51 | 2024-03-21 | 2024-04-24 |
@@ -239,6 +241,7 @@
 | [MENACE](https://open.spotify.com/track/3h0AyBKSA7fHWanQzv00Nb) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [MENACE](https://open.spotify.com/album/1myy2Uyu72ydZYlXydekjN) | 2:34 | 2025-07-07 | 2025-07-28 |
 | [Menarilah dengan Jiwamu](https://open.spotify.com/track/64AhTEtMOkiTPybwkuv7TY) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [Mamiu](https://open.spotify.com/album/2LGwwFntQoPzu17MlS2QvE) | 4:34 | 2025-09-29 |  |
 | [Menata](https://open.spotify.com/track/43Vb3aaYTpfhicyhf3B2AC) | [Ify Alyssa](https://open.spotify.com/artist/2Up8d4glQCL5t90Fq9aGp4) | [Menata](https://open.spotify.com/album/1YnC9MS79GmZqLQ7YHElCW) | 4:07 | 2025-02-18 | 2025-06-17 |
+| [Menerima Luka](https://open.spotify.com/track/6Twf2B2IGXAN0YDJeTxkt2) | [Natasya Sabella](https://open.spotify.com/artist/2w2xKlumnOzCf5eVTkmNXn) | [Menerima Luka](https://open.spotify.com/album/7vXq8kRSMngRUfSTUty19Q) | 3:48 | 2026-01-26 |  |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-12-30 | 2025-08-12 |
 | [Monolog](https://open.spotify.com/track/1zu5ZpnrSArdoaT6Qq3yo9) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Walk the Talk](https://open.spotify.com/album/6CYiVTU1drHMvGHgMHmLQZ) | 3:27 | 2025-05-19 |  |
 | [Move](https://open.spotify.com/track/2ZzHR2sOKAOKyN8efCa69E) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Move](https://open.spotify.com/album/5ZNjMUOLzjsQRDbAdtHial) | 2:36 | 2023-03-22 | 2023-06-08 |
@@ -355,6 +358,7 @@
 | [Somebody's Pleasure \(Extended Version\)](https://open.spotify.com/track/4y5HTa0xfMGORsMhy26n3X) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure \(Extended Version\)](https://open.spotify.com/album/2XgJC0WVIe0cyDvdIQO19u) | 4:41 | 2025-02-18 |  |
 | [Soulmate](https://open.spotify.com/track/1rwGbGLDE0AkaH1UgUbufL) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7) | [Soulmate](https://open.spotify.com/album/12UUzKlYnWUZtmlX41geSZ) | 3:31 | 2025-02-12 |  |
 | [spelling bee](https://open.spotify.com/track/33OStqVx8yvu6egc2WBt6F) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [he's still just not that into you!](https://open.spotify.com/album/1AFQW8SO3gppdkZC8XPxP8) | 3:04 | 2025-06-02 | 2025-08-12 |
+| [SPONTAN \( tanpa \) UHUY!](https://open.spotify.com/track/1d5ZCpPVFKWsJOWUzrfiwj) | [DEABDIL](https://open.spotify.com/artist/0DdKmEBoSQuTWY9Mo2EQm2) | [SPONTAN \( tanpa \) UHUY!](https://open.spotify.com/album/1OH1yq8hp3a50rbeoU2t8m) | 4:00 | 2026-01-26 |  |
 | [SPOT!](https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SPOT!](https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI) | 2:47 | 2024-05-08 | 2025-02-12 |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2024-01-03 | 2024-06-25 |
 | [Still](https://open.spotify.com/track/6sv7ZmasB6qSiF8hWJNpDG) | [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u) | [She Loves Me Not](https://open.spotify.com/album/5WBPlbri33vyF3cNmJIxH5) | 3:46 | 2024-01-17 | 2024-02-19 |
@@ -423,6 +427,7 @@
 | [VITAMIN U](https://open.spotify.com/track/74ZYK9G0ILDEJ00LfN9rmJ) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [VITAMIN U](https://open.spotify.com/album/0pO2flwlHFvDoyP0Ty0C1F) | 3:58 | 2025-01-06 | 2025-01-08 |
 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2023-05-17 | 2025-02-04 |
 | [Vodka Cranberry](https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Vodka Cranberry](https://open.spotify.com/album/0Z5FaBjNQ1sZ2Udunf17Jt) | 4:05 | 2025-08-11 | 2025-09-25 |
+| [wait a while](https://open.spotify.com/track/0604KZj4wib0UOceHyQISd) | [Alex Teh](https://open.spotify.com/artist/0RO08FqySaEmUQMwVC5N36) | [in my twenties](https://open.spotify.com/album/3JwZWTu2OgSyuNDIYNQiTh) | 3:49 | 2026-01-26 |  |
 | [Wanting You Is Not a Crime \- Acoustic](https://open.spotify.com/track/2Ly9Woxy0J5MdZMzds4JSi) | [Mario A](https://open.spotify.com/artist/0pK3DbYFYBuw9mBYzPcPj6) | [Grey Simplicity](https://open.spotify.com/album/5FATC8sduBjf9IG3r4b0dh) | 3:46 | 2025-07-15 |  |
 | [Watak Utama](https://open.spotify.com/track/6lyWbnQ85nWXJt6SYQgQW6) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Watak Utama](https://open.spotify.com/album/0bEfwNHBmyoUUYjMYRPl5D) | 2:57 | 2024-10-07 | 2024-10-15 |
 | [watch](https://open.spotify.com/track/7eB1V5LvAdxCc7brfGhRRo) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 2:57 | 2025-08-04 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Herrison Pontes, Jessica Dias",
-  "num_followers": 369401,
+  "num_followers": 369478,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2025-12-15 18:39:43",
       "album": {
+        "name": "Cheiro de Rosas",
+        "url": "https://open.spotify.com/album/49TJc13HQdIadmP3e7hbnY"
+      },
+      "artists": [
+        {
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+        }
+      ],
+      "duration_ms": 279835,
+      "name": "Cheiro de Rosas",
+      "url": "https://open.spotify.com/track/3lGX7tLWbcvDay0Ya0PFF7"
+    },
+    {
+      "added_at": "2025-12-15 18:39:43",
+      "album": {
         "name": "UM - Origem",
         "url": "https://open.spotify.com/album/4eowyg64oQCHdhDM8GF5c0"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 294658,
       "name": "Ainda Bem",
       "url": "https://open.spotify.com/track/1wmJX9qbdcx6uzVn9YAlQ0"
-    },
-    {
-      "added_at": "2025-12-15 18:39:43",
-      "album": {
-        "name": "Cheiro de Rosas",
-        "url": "https://open.spotify.com/album/49TJc13HQdIadmP3e7hbnY"
-      },
-      "artists": [
-        {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
-        }
-      ],
-      "duration_ms": 279835,
-      "name": "Cheiro de Rosas",
-      "url": "https://open.spotify.com/track/3lGX7tLWbcvDay0Ya0PFF7"
     },
     {
       "added_at": "2025-12-15 18:39:43",

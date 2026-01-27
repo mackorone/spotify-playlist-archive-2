@@ -218,7 +218,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 230040,
       "name": "Ale",
       "url": "https://open.spotify.com/track/2jWcAQf0CYiZCxGfTGx1hd"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 225360,
       "name": "Ang Pag-Ibig Kong Ito",
       "url": "https://open.spotify.com/track/2M4fBSlTOSsMjkSON97mZR"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 269760,
       "name": "Ang Panata",
       "url": "https://open.spotify.com/track/17TmaYfxGQWg6VPZCk9s5x"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 240000,
       "name": "Ayaw Mo Na",
       "url": "https://open.spotify.com/track/1hZsKR2qyml8tb9qF1ZGyw"
@@ -854,6 +854,24 @@
       "duration_ms": 175461,
       "name": "Cherry On Top",
       "url": "https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07"
+    },
+    {
+      "album": {
+        "name": "Chubby Girly",
+        "url": "https://open.spotify.com/album/6bF3jh2QtD3cHlXgJ9lvw4"
+      },
+      "artists": [
+        {
+          "name": "Yobab",
+          "url": "https://open.spotify.com/artist/75PHCclkaR3VxjwS4tJNBT"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131553,
+      "name": "Chubby Girly",
+      "url": "https://open.spotify.com/track/6yIVJiuZLfzqKc5ieUpWqP"
     },
     {
       "album": {
@@ -1240,10 +1258,36 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 164571,
       "name": "Do What She Wanna",
       "url": "https://open.spotify.com/track/5F5eberTTCphTF0PxkvBRL"
+    },
+    {
+      "album": {
+        "name": "don't wanna",
+        "url": "https://open.spotify.com/album/6V0pKsArUJjdz1X0aAkkQV"
+      },
+      "artists": [
+        {
+          "name": "Alys",
+          "url": "https://open.spotify.com/artist/4cS8r9JlwhqLafUWAXkzHx"
+        },
+        {
+          "name": "fcj",
+          "url": "https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js"
+        },
+        {
+          "name": "Cat Naps",
+          "url": "https://open.spotify.com/artist/1XbzIeVSWEQ2ul2DDj8PNe"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170454,
+      "name": "don't wanna",
+      "url": "https://open.spotify.com/track/45VVb6x93vBDXet5W6oz5s"
     },
     {
       "album": {
@@ -1262,6 +1306,24 @@
       "duration_ms": 273000,
       "name": "Dulo",
       "url": "https://open.spotify.com/track/43v06l03KMsOITOSyIYV91"
+    },
+    {
+      "album": {
+        "name": "Duyan",
+        "url": "https://open.spotify.com/album/1BS12C5PNcVlIQ2EQFoaGx"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298484,
+      "name": "Duyan",
+      "url": "https://open.spotify.com/track/4YyVQYnnzEO3y7hHNSn6sg"
     },
     {
       "album": {
@@ -1688,7 +1750,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 246857,
       "name": "Himawari",
       "url": "https://open.spotify.com/track/3N34C1hW2ACkTGZ3HViieR"
@@ -2161,6 +2223,24 @@
     },
     {
       "album": {
+        "name": "Ikaw Talaga.",
+        "url": "https://open.spotify.com/album/0Y0Fyzchhk3AlCZ8AX9Yhv"
+      },
+      "artists": [
+        {
+          "name": "Patrick Kristoffer",
+          "url": "https://open.spotify.com/artist/35WK3gcFIjOhmYF3AK6ZyL"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188741,
+      "name": "Ikaw Talaga.",
+      "url": "https://open.spotify.com/track/4QCWlicxD9Jacap6CTW2hs"
+    },
+    {
+      "album": {
         "name": "ikaw, ikaw, ikaw",
         "url": "https://open.spotify.com/album/7FxiQz4Hk6ihjr7ypYnEtP"
       },
@@ -2230,7 +2310,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 253695,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/09JLlQH8ZeqalIPmjP3BcX"
@@ -2284,7 +2364,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 235161,
       "name": "Janice",
       "url": "https://open.spotify.com/track/0BewsYUbEIKdJmdap9oI7V"
@@ -2418,6 +2498,28 @@
       "duration_ms": 239873,
       "name": "Kalawakan",
       "url": "https://open.spotify.com/track/4L1cUWMpmGgfD5t6s5V5Wy"
+    },
+    {
+      "album": {
+        "name": "Kamusta Ka Na",
+        "url": "https://open.spotify.com/album/0UfhB7hJ5o7p80fs063hv6"
+      },
+      "artists": [
+        {
+          "name": "Jason Marvin",
+          "url": "https://open.spotify.com/artist/4eK6vQqh6wpgldKVWm7560"
+        },
+        {
+          "name": "Kayla",
+          "url": "https://open.spotify.com/artist/0FneqzLCMxc6iSKtPxkUzW"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Kamusta Ka Na",
+      "url": "https://open.spotify.com/track/1aJmDO2fZ4049C4VBhUHb4"
     },
     {
       "album": {
@@ -2695,6 +2797,24 @@
     },
     {
       "album": {
+        "name": "Kung Magugunaw ang Mundo",
+        "url": "https://open.spotify.com/album/1geXyQplbxyXhpCcbRyjzs"
+      },
+      "artists": [
+        {
+          "name": "LEYO",
+          "url": "https://open.spotify.com/artist/4u5AQvOTwv3AxWAJxjt2Fg"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231391,
+      "name": "Kung Magugunaw ang Mundo",
+      "url": "https://open.spotify.com/track/0lDhTznSyQ4QwDdAM4LFHN"
+    },
+    {
+      "album": {
         "name": "kung para sa 'yo",
         "url": "https://open.spotify.com/album/1wHubkZiZKfoBqKEgB3nOM"
       },
@@ -2706,7 +2826,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 279248,
       "name": "kung para sa 'yo",
       "url": "https://open.spotify.com/track/78n4nnldHAH1GawfHlvy2m"
@@ -3052,7 +3172,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 241684,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2HlJwsf2ItbQoUd6QlIcxY"
@@ -3204,10 +3324,28 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 208200,
       "name": "Malabo",
       "url": "https://open.spotify.com/track/3da177OlgQtJx6IF3Ivrz0"
+    },
+    {
+      "album": {
+        "name": "Malapit Na",
+        "url": "https://open.spotify.com/album/574CeND3FeTYCKXZRvyYFf"
+      },
+      "artists": [
+        {
+          "name": "Jana Garcia",
+          "url": "https://open.spotify.com/artist/2M4mQMnLHQQXsFsRmTTqsR"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Malapit Na",
+      "url": "https://open.spotify.com/track/2aPdExbxR7CbZk5vaEP9Uh"
     },
     {
       "album": {
@@ -3280,7 +3418,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 207727,
       "name": "Masunog Man",
       "url": "https://open.spotify.com/track/1DlJsnh0xE51pkSAWXz4W3"
@@ -3439,6 +3577,28 @@
     },
     {
       "album": {
+        "name": "Moved on Last",
+        "url": "https://open.spotify.com/album/2eIk0YhI4vTYOaaAdBFc2f"
+      },
+      "artists": [
+        {
+          "name": "Angela Ken",
+          "url": "https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH"
+        },
+        {
+          "name": "Over October",
+          "url": "https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173888,
+      "name": "Moved on Last",
+      "url": "https://open.spotify.com/track/38DWGFGbCNgdUnG29ibpff"
+    },
+    {
+      "album": {
         "name": "Moving Closer",
         "url": "https://open.spotify.com/album/4MVrOj7WGuYoq3CA8c5A9T"
       },
@@ -3558,7 +3718,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 253800,
       "name": "Nagpalinlang",
       "url": "https://open.spotify.com/track/4lUKOt3hFKC2xBT7UCNrB8"
@@ -5128,7 +5288,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 288189,
       "name": "Sa Susunod na Habang Buhay",
       "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
@@ -5200,7 +5360,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 180588,
       "name": "Sabihin Mo Lang",
       "url": "https://open.spotify.com/track/7JGChCgGGxVdPMxopSTzzN"
@@ -5417,6 +5577,24 @@
     },
     {
       "album": {
+        "name": "Sasabay",
+        "url": "https://open.spotify.com/album/3uy5RyIOkqaFhAK0dnkaXh"
+      },
+      "artists": [
+        {
+          "name": "Keanna Mag",
+          "url": "https://open.spotify.com/artist/2af9UwNUXwDozd9eCCwB2v"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236836,
+      "name": "Sasabay",
+      "url": "https://open.spotify.com/track/6fAZOYfjNR1qEcHez1LnJm"
+    },
+    {
+      "album": {
         "name": "Sayo Lamang",
         "url": "https://open.spotify.com/album/1BE5KW5Pk2Y6Xz7qzhRvyh"
       },
@@ -5536,7 +5714,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 264512,
       "name": "Sikulo (2)",
       "url": "https://open.spotify.com/track/2rxQZN0LewHscJf1gSwSue"
@@ -5612,7 +5790,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 215249,
       "name": "so right",
       "url": "https://open.spotify.com/track/56rGGuag0aKuLAw7aj7VXW"
@@ -5692,6 +5870,24 @@
       "duration_ms": 255652,
       "name": "Sulitin",
       "url": "https://open.spotify.com/track/6P6kqSItGVs18oP1OXxGJP"
+    },
+    {
+      "album": {
+        "name": "Summa Cum Laude",
+        "url": "https://open.spotify.com/album/5lHWVk8A2xtU2xgiG2KyP5"
+      },
+      "artists": [
+        {
+          "name": "Matt Wilson",
+          "url": "https://open.spotify.com/artist/5xPS5Chr0YYtb1VmZJqz38"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202306,
+      "name": "Summa Cum Laude",
+      "url": "https://open.spotify.com/track/4xnPpy340UhTzo9JdwF5s0"
     },
     {
       "album": {
@@ -5902,6 +6098,24 @@
       "duration_ms": 302727,
       "name": "Tahan",
       "url": "https://open.spotify.com/track/4BB6XuY1lffZ3GAyuWBxi3"
+    },
+    {
+      "album": {
+        "name": "Tahan",
+        "url": "https://open.spotify.com/album/2PaTqF2WRQ5u9q5enj5Vcg"
+      },
+      "artists": [
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/4m8hsULyuiNkAqHweun8he"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223319,
+      "name": "Tahan",
+      "url": "https://open.spotify.com/track/6apXJLEw1CQHDD8CoDJr5Q"
     },
     {
       "album": {
@@ -6291,6 +6505,24 @@
     },
     {
       "album": {
+        "name": "Tinatangi",
+        "url": "https://open.spotify.com/album/0yNSLsg0CkWoBIzggQ2pRJ"
+      },
+      "artists": [
+        {
+          "name": "Kevin Montillano",
+          "url": "https://open.spotify.com/artist/7Ef2aO3yFTcUnkv3Se81Ju"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204669,
+      "name": "Tinatangi",
+      "url": "https://open.spotify.com/track/07k9FJcGxOPSt6i6as8HnU"
+    },
+    {
+      "album": {
         "name": "TORPE",
         "url": "https://open.spotify.com/album/5OPsL7uBEZtbHg0ZV2eUti"
       },
@@ -6306,6 +6538,24 @@
       "duration_ms": 173500,
       "name": "TORPE",
       "url": "https://open.spotify.com/track/2nlD5OnCCotJVhOY2gGkEw"
+    },
+    {
+      "album": {
+        "name": "Tumaya",
+        "url": "https://open.spotify.com/album/3AY8kdUZXjy0AX7GA4GwwH"
+      },
+      "artists": [
+        {
+          "name": "Bert Symoun",
+          "url": "https://open.spotify.com/artist/1WeeTm0Wd9QYP65MGIsUgz"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207661,
+      "name": "Tumaya",
+      "url": "https://open.spotify.com/track/5bXkfZuaIcNe64TsZKBQ7y"
     },
     {
       "album": {

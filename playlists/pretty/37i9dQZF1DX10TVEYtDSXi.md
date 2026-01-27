@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 
 > Öll bestu lögin í augnablikinu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,131 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,132 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 | 33 | [Ferris Wheel](https://open.spotify.com/track/63HPIbP11nHHlcC2gKxLcA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Ferris Wheel](https://open.spotify.com/album/3PBgZgV4CjAeBSTMvC5rkp) | 3:25 |
 | 34 | [Þarft að vita](https://open.spotify.com/track/6PtlJ55rxv8mI1YHC9Y7M9) | [Maron Birnir](https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK), [ELVAR](https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY) | [Þarft að vita](https://open.spotify.com/album/2dmWvkkqgLoU5s5LjiPBBD) | 2:02 |
 | 35 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
-| 36 | [Stórir Strákar](https://open.spotify.com/track/7Lnklp5hNqusyupGsyBbaE) | [Izleifur](https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6), [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4) | [Stórir Strákar](https://open.spotify.com/album/63tO5mZENF526DHAbrrjoj) | 2:28 |
+| 36 | [Stórir strákar](https://open.spotify.com/track/7Lnklp5hNqusyupGsyBbaE) | [Izleifur](https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6), [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4) | [Stórir strákar](https://open.spotify.com/album/63tO5mZENF526DHAbrrjoj) | 2:28 |
 | 37 | [Vitamin](https://open.spotify.com/track/2bk8MeKPbwWc9Iwv4qjz7U) | [ISSI](https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL), [Emilia Hugrun](https://open.spotify.com/artist/0AiC3SnI4tn1XTyVCuF6A3) | [Vitamin](https://open.spotify.com/album/5sFMfwuYslfFAH4PgJ30br) | 2:49 |
 | 38 | [Langar Í](https://open.spotify.com/track/6Op0vTc3e1Dh1kkH1qkbHu) | [Daniil](https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU), [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4) | [Brat](https://open.spotify.com/album/705ULz5Chxa6TFQOIH14Ae) | 2:10 |
 | 39 | [Dream Team](https://open.spotify.com/track/5ztSnpPMlfPUQqZs38Yscn) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Dream Team](https://open.spotify.com/album/2LRJ42zLV2WvZbQ5T8dIrQ) | 3:08 |

@@ -864,7 +864,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 265997,
       "name": "dichtbij, veraf",
       "url": "https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF"
@@ -994,7 +994,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 201981,
       "name": "Doe Het Voor Het Geld",
       "url": "https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P"
@@ -2167,6 +2167,24 @@
     },
     {
       "album": {
+        "name": "Intergeneratie",
+        "url": "https://open.spotify.com/album/5D5UDX6XptnLPrzfDZx29w"
+      },
+      "artists": [
+        {
+          "name": "Lucky Fonz III",
+          "url": "https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162984,
+      "name": "Intergeneratie - Single Edit",
+      "url": "https://open.spotify.com/track/21JMJOw8TTaUkiBjTXuMLo"
+    },
+    {
+      "album": {
         "name": "Is dit echt",
         "url": "https://open.spotify.com/album/4eLuerkEYnJ6z69SYvBhVi"
       },
@@ -2254,6 +2272,24 @@
       "duration_ms": 169961,
       "name": "Jouw Stem",
       "url": "https://open.spotify.com/track/3GcUzRNG5LrUYktawq8PzU"
+    },
+    {
+      "album": {
+        "name": "Kan Je Niet Blijven?",
+        "url": "https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI"
+      },
+      "artists": [
+        {
+          "name": "Politie Warnsveld",
+          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215199,
+      "name": "Kan Je Niet Blijven?",
+      "url": "https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8"
     },
     {
       "album": {
@@ -2520,7 +2556,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 196675,
       "name": "Leonie",
       "url": "https://open.spotify.com/track/2HNMx0HXsZRbOMzaCGh3dP"
@@ -2538,7 +2574,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 248544,
       "name": "Levelen",
       "url": "https://open.spotify.com/track/5MXXpCDntWrVeiEzF0gED0"
@@ -2622,6 +2658,24 @@
       "duration_ms": 153000,
       "name": "Madeliefje",
       "url": "https://open.spotify.com/track/3A2dIRZrzkQp4GeYOJADpr"
+    },
+    {
+      "album": {
+        "name": "Magneten",
+        "url": "https://open.spotify.com/album/41tDTfgCQ1Ybl7TAAERFIw"
+      },
+      "artists": [
+        {
+          "name": "WIES",
+          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190704,
+      "name": "Magneten",
+      "url": "https://open.spotify.com/track/5OHgSlszGzcqsmcIGigxkD"
     },
     {
       "album": {
@@ -2934,6 +2988,24 @@
       "duration_ms": 160678,
       "name": "Moe Van Jezelf",
       "url": "https://open.spotify.com/track/3gsHFY5eFCkanac1hMUjOo"
+    },
+    {
+      "album": {
+        "name": "Mommy",
+        "url": "https://open.spotify.com/album/4SbZYtl7lHyPGrG7OuXpaU"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174352,
+      "name": "Mommy",
+      "url": "https://open.spotify.com/track/0GGkVcWMpldFL1LXWPEvjD"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Todos los miércoles, lo nuevo de la escena independiente española\. Foto: Carmen Lillo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,759 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,757 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 13 | [Cucharada cerebral](https://open.spotify.com/track/2qgGuD7es9Ke6y4B5I8aDJ) | [Capros](https://open.spotify.com/artist/5MdESkM2kJYOoUckMNi2HM) | [Cucharada cerebral](https://open.spotify.com/album/4upXe6k9WFncEAVTzPQTzP) | 1:49 |
 | 14 | [PARAFINA](https://open.spotify.com/track/30uFiDtvEziJHWxFrHgSis) | [Marina Daza](https://open.spotify.com/artist/1ycbxfYzNEBabFjFAv85u8) | [PARAFINA](https://open.spotify.com/album/4koerl6xQ0E4IZtyUrszIx) | 2:20 |
 | 15 | [LA SAMARA](https://open.spotify.com/track/1oDKc0F4yogzX8z3OOEUef) | [Ciervoss](https://open.spotify.com/artist/1CAML4WFHPiDUjW2uByMu3) | [LA SAMARA](https://open.spotify.com/album/5uREyFaXuzW3ftXop01HOx) | 1:35 |
-| 16 | [phill collinX](https://open.spotify.com/track/5RsoxOhMh2wcjeQyxavwLP) | [Blaya](https://open.spotify.com/artist/5lVc7UgSfLe0ysWNaZRBWm) | [phill collinX](https://open.spotify.com/album/5DFV7IU0SZuGPE2dbUqNDX) | 2:32 |
+| 16 | [phill collinX](https://open.spotify.com/track/5RsoxOhMh2wcjeQyxavwLP) | [BLAYA](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75) | [phill collinX](https://open.spotify.com/album/5DFV7IU0SZuGPE2dbUqNDX) | 2:32 |
 | 17 | [No Quiero Ser Mayor](https://open.spotify.com/track/3wSFGCRqDxjSrDljyJjmbd) | [rumbos](https://open.spotify.com/artist/7qNftOu0DUIDh1Gd6Gy8LQ) | [No Quiero Ser Mayor](https://open.spotify.com/album/0ZsSz2KWMDTlgsM4ScbAjg) | 3:09 |
 | 18 | [Amigos que estén siempre](https://open.spotify.com/track/6FCm6zZEspcq90zq9bQaxm) | [Paco Moreno](https://open.spotify.com/artist/1yLrA8a9c6qikBV0THGnux) | [Amigos que estén siempre](https://open.spotify.com/album/662MXULxW86EqC3ecfuFsJ) | 1:27 |
 | 19 | [Noche de Casino \(This Gambling Man\)](https://open.spotify.com/track/5z1qOTwU2nCaGEv6zVsAUQ) | [Mala Gestión](https://open.spotify.com/artist/7qJkLxM6Q2meXrGz2cUkpP) | [Noche de Casino \(This Gambling Man\)](https://open.spotify.com/album/3Zyt72JMHaOMjU5UIbkcAV) | 3:42 |

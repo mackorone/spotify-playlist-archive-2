@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: Sara Landry + Shl\u00f8mo",
-  "num_followers": 464933,
+  "num_followers": 465299,
   "original_name": "Hard Techno",
   "owner": {
     "name": "Spotify",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-01-16 00:01:32",
       "album": {
+        "name": "Unleash The Radical",
+        "url": "https://open.spotify.com/album/2lTKoROAtpjvEf1kztIGeT"
+      },
+      "artists": [
+        {
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Unleash The Radical",
+      "url": "https://open.spotify.com/track/2OUMwV66DZ1sXkTW2S38p6"
+    },
+    {
+      "added_at": "2026-01-16 00:01:32",
+      "album": {
         "name": "Renegade Master",
         "url": "https://open.spotify.com/album/3UiuvnjVYYx3Noe0CR7lJN"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 127241,
       "name": "Renegade Master",
       "url": "https://open.spotify.com/track/57oprc6Ilu0qJdidmTKCDg"
-    },
-    {
-      "added_at": "2026-01-16 00:01:32",
-      "album": {
-        "name": "Unleash The Radical",
-        "url": "https://open.spotify.com/album/2lTKoROAtpjvEf1kztIGeT"
-      },
-      "artists": [
-        {
-          "name": "Radical Redemption",
-          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Unleash The Radical",
-      "url": "https://open.spotify.com/track/2OUMwV66DZ1sXkTW2S38p6"
     },
     {
       "added_at": "2026-01-16 00:01:32",

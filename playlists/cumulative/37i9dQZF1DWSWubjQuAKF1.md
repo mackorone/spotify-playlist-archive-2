@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Krystian Embradora
 
-703 songs - 1 day 10 hr 22 min
+704 songs - 1 day 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -547,6 +547,7 @@
 | [SOS](https://open.spotify.com/track/3jGIqKgMsSAx7KAdDqWvjF) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [SOS](https://open.spotify.com/album/5IynLYV3MapaGkcVNAezlt) | 2:51 | 2025-05-15 | 2025-09-17 |
 | [Spadające gwiazdy](https://open.spotify.com/track/4ggf5e1R9ksMB2m58ouAQa) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Michał Smajdor](https://open.spotify.com/artist/3sdRA1BQYDShj19NPYUJ5k), [wojtman.fm](https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo) | [NA KONIEC LATA](https://open.spotify.com/album/3hxzY5TxqTx83i2KHQrVOZ) | 3:00 | 2025-10-21 |  |
 | [Spark to Die](https://open.spotify.com/track/3yXOWLxU2vXdAFgKQ5wYSB) | [Juno Willo](https://open.spotify.com/artist/6nPeloQYD2WuhzUJawHZke) | [Spark to Die](https://open.spotify.com/album/29j9hbLfr1F4FpHdcxSKQc) | 3:32 | 2025-02-06 | 2025-02-08 |
+| [Spokój](https://open.spotify.com/track/6BTtrMQBtosUyr8b3IA4Sq) | [Treehouse](https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi) | [Spokój](https://open.spotify.com/album/1D870fGc91HzECZ8Qkimnt) | 3:19 | 2026-01-22 |  |
 | [spokój w ciele](https://open.spotify.com/track/1g1KaSYXkfQ8hhZYDsLTK0) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | [spokój w ciele](https://open.spotify.com/album/2kwYX1EuiZXzFEImvpX2H3) | 3:15 | 2024-09-27 | 2025-01-24 |
 | [spotkam](https://open.spotify.com/track/6GlT7Qb3yDddhgzP7I5JfB) | [Michał Anioł](https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS) | [spotkam](https://open.spotify.com/album/5BfZSp6kyBhkPS4cnX6D7c) | 3:50 | 2025-04-24 | 2025-05-07 |
 | [sprzedałam się?](https://open.spotify.com/track/5L1lLGaluYqVyWLH3uuBB3) | [microdawka](https://open.spotify.com/artist/01LgAoYLLXrA67ELEhKF3y) | [sprzedałam się?](https://open.spotify.com/album/7sXiUfbzjqc5NMSxv7H8TE) | 2:52 | 2025-10-21 | 2025-11-05 |
@@ -698,7 +699,7 @@
 | [znów patrzysz tak](https://open.spotify.com/track/39d5agbwOlaEMFA04UnaOu) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2) | [znów patrzysz tak](https://open.spotify.com/album/4eHhOzhzyKKr4kyIm79oDK) | 3:11 | 2024-07-25 | 2025-01-24 |
 | [ZORZE POLARNE](https://open.spotify.com/track/4JNdDbvLlsAWhrMGYiqIFW) | [młody podago](https://open.spotify.com/artist/36a1D1m5xIlco1bKlirhZX) | [ZORZE POLARNE](https://open.spotify.com/album/0PB5Z0hgBToVQMK60MenFE) | 2:34 | 2024-06-28 | 2024-07-12 |
 | [Zostaniesz na zawsze?](https://open.spotify.com/track/5uXyJ2mYb4LHQ0gKEMXtEL) | [MDOPE](https://open.spotify.com/artist/6Z7uS8MOrEyM04JjnBf3R9) | [Zostaniesz na zawsze?](https://open.spotify.com/album/22ItEEmozmJHs3P7mgvdnV) | 2:54 | 2024-08-30 | 2025-01-24 |
-| [zostań](https://open.spotify.com/track/2jQlVcDnyiMjmrQ7XrK70X) | [Treehouse](https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi) | [zostań](https://open.spotify.com/album/1aVf5Yed3eNAGJ0kRgao2J) | 2:18 | 2025-10-21 |  |
+| [zostań](https://open.spotify.com/track/2jQlVcDnyiMjmrQ7XrK70X) | [Treehouse](https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi) | [zostań](https://open.spotify.com/album/1aVf5Yed3eNAGJ0kRgao2J) | 2:18 | 2025-10-21 | 2026-01-27 |
 | [Zła Pamięć](https://open.spotify.com/track/4rx96iXf1XqGC38y9oBRKW) | [Gaba Kościug](https://open.spotify.com/artist/2YjBfW9J5WxnoYKDuYyj5D), [Bufu](https://open.spotify.com/artist/3cBVvhuwwURFlIcWjR1TIa), [DeadWN](https://open.spotify.com/artist/5xaYosGhmJBTfrvOM2eGCi) | [Zła Pamięć](https://open.spotify.com/album/2aIH2zKWihdD2GMu2DEuz8) | 2:51 | 2025-10-21 | 2025-11-05 |
 | [ZŁY](https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [lekko](https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ) | 2:38 | 2025-06-27 | 2025-11-05 |
 | [Ćma](https://open.spotify.com/track/4TsUpBDBZQLGaSEjNrgCKX) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Ćma](https://open.spotify.com/album/0bmxGp8qMZcfKrKFR6wJMz) | 4:39 | 2025-01-23 | 2025-03-14 |

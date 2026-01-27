@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3923496,
+  "num_followers": 3923426,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,18 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
-        "name": "BLINK",
-        "url": "https://open.spotify.com/album/208DpMdWSWLhr1J0vvvkPF"
+        "name": "Threads",
+        "url": "https://open.spotify.com/album/0pqpfxmoT9HhcZMmMPraRE"
       },
       "artists": [
         {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        },
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
         }
       ],
-      "duration_ms": 237938,
-      "name": "Keep Love Waiting",
-      "url": "https://open.spotify.com/track/4hPyD1hj9UI0aUXsgJx0uh"
+      "duration_ms": 313152,
+      "name": "Threads",
+      "url": "https://open.spotify.com/track/6uDOlnBhgzWqfYD4BZctJL"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -455,18 +451,22 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
-        "name": "Threads",
-        "url": "https://open.spotify.com/album/0pqpfxmoT9HhcZMmMPraRE"
+        "name": "BLINK",
+        "url": "https://open.spotify.com/album/208DpMdWSWLhr1J0vvvkPF"
       },
       "artists": [
         {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        },
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
         }
       ],
-      "duration_ms": 313152,
-      "name": "Threads",
-      "url": "https://open.spotify.com/track/6uDOlnBhgzWqfYD4BZctJL"
+      "duration_ms": 237938,
+      "name": "Keep Love Waiting",
+      "url": "https://open.spotify.com/track/4hPyD1hj9UI0aUXsgJx0uh"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
+        "name": "Say You Want To Fly",
+        "url": "https://open.spotify.com/album/2YXYd4ZoEjEPIwAuGQlTce"
+      },
+      "artists": [
+        {
+          "name": "Otherwish",
+          "url": "https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Say You Want To Fly",
+      "url": "https://open.spotify.com/track/3NxRqLhqJFNybOEHMoXI8W"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
         "name": "Heal",
         "url": "https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 273442,
       "name": "Heal",
       "url": "https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
-        "name": "Say You Want To Fly",
-        "url": "https://open.spotify.com/album/2YXYd4ZoEjEPIwAuGQlTce"
-      },
-      "artists": [
-        {
-          "name": "Otherwish",
-          "url": "https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Say You Want To Fly",
-      "url": "https://open.spotify.com/track/3NxRqLhqJFNybOEHMoXI8W"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
+        "name": "Go On",
+        "url": "https://open.spotify.com/album/3pkakTNCfg5k54UgUCDZG4"
+      },
+      "artists": [
+        {
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+        },
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "duration_ms": 204960,
+      "name": "Go On",
+      "url": "https://open.spotify.com/track/2Z42ydA0ORCroYInk2PLTi"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3"
       },
@@ -1319,26 +1339,6 @@
       "duration_ms": 258644,
       "name": "Control",
       "url": "https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
-        "name": "Go On",
-        "url": "https://open.spotify.com/album/3pkakTNCfg5k54UgUCDZG4"
-      },
-      "artists": [
-        {
-          "name": "Massane",
-          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
-        },
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 204960,
-      "name": "Go On",
-      "url": "https://open.spotify.com/track/2Z42ydA0ORCroYInk2PLTi"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
-        "name": "Belong",
-        "url": "https://open.spotify.com/album/0dGe34n6w8qQAFLcjgypKr"
-      },
-      "artists": [
-        {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
-        },
-        {
-          "name": "Thaylo",
-          "url": "https://open.spotify.com/artist/56kaKCBAUCPViDb5XvdTaB"
-        }
-      ],
-      "duration_ms": 329084,
-      "name": "Belong",
-      "url": "https://open.spotify.com/track/13BcrP8f9jpxbI2vCD7dg7"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
         "name": "Visage 8 (Steps)",
         "url": "https://open.spotify.com/album/2kb4wuBoAlLU8lPLZMSU0u"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 200640,
       "name": "Steps",
       "url": "https://open.spotify.com/track/3Dn8jGRCvVOtAIaG0pY6we"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/0dGe34n6w8qQAFLcjgypKr"
+      },
+      "artists": [
+        {
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        },
+        {
+          "name": "Thaylo",
+          "url": "https://open.spotify.com/artist/56kaKCBAUCPViDb5XvdTaB"
+        }
+      ],
+      "duration_ms": 329084,
+      "name": "Belong",
+      "url": "https://open.spotify.com/track/13BcrP8f9jpxbI2vCD7dg7"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -1651,6 +1651,30 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
+        "name": "Love Pains",
+        "url": "https://open.spotify.com/album/1ZvlhFHnqn8ktyV1UzGNx9"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        },
+        {
+          "name": "Freddie Elmberg",
+          "url": "https://open.spotify.com/artist/2HAhqKaUVbYDq0rTlwo1md"
+        },
+        {
+          "name": "FLORES",
+          "url": "https://open.spotify.com/artist/6ijryPR4MbExatvDQD1AhY"
+        }
+      ],
+      "duration_ms": 265161,
+      "name": "Love Pains",
+      "url": "https://open.spotify.com/track/6juK43DmhqHK7FsAecv92Q"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
         "name": "Scared Of The Dark",
         "url": "https://open.spotify.com/album/0C7XqnzLWmXC09HRpn6BfH"
       },
@@ -1703,26 +1727,6 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
-        "name": "Give It A Try (Why Don't We)",
-        "url": "https://open.spotify.com/album/43t8HuPAt7aHP2K2PrRPjU"
-      },
-      "artists": [
-        {
-          "name": "Freyer",
-          "url": "https://open.spotify.com/artist/5rWDaIemV0O8diTTcitrZ4"
-        },
-        {
-          "name": "Idun Nicoline",
-          "url": "https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr"
-        }
-      ],
-      "duration_ms": 131803,
-      "name": "Give It A Try (Why Don't We)",
-      "url": "https://open.spotify.com/track/0zd56qb1rPeB5kyWZKGZbX"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
         "name": "&",
         "url": "https://open.spotify.com/album/43MzTlGpALzesMotOzNDih"
       },
@@ -1759,6 +1763,26 @@
       "duration_ms": 266880,
       "name": "Promise Me",
       "url": "https://open.spotify.com/track/6kNNnAq3m0H8zgz5vd8umB"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
+        "name": "Give It A Try (Why Don't We)",
+        "url": "https://open.spotify.com/album/43t8HuPAt7aHP2K2PrRPjU"
+      },
+      "artists": [
+        {
+          "name": "Freyer",
+          "url": "https://open.spotify.com/artist/5rWDaIemV0O8diTTcitrZ4"
+        },
+        {
+          "name": "Idun Nicoline",
+          "url": "https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr"
+        }
+      ],
+      "duration_ms": 131803,
+      "name": "Give It A Try (Why Don't We)",
+      "url": "https://open.spotify.com/track/0zd56qb1rPeB5kyWZKGZbX"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -1815,30 +1839,6 @@
       "duration_ms": 310560,
       "name": "Devices",
       "url": "https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
-        "name": "Love Pains",
-        "url": "https://open.spotify.com/album/1ZvlhFHnqn8ktyV1UzGNx9"
-      },
-      "artists": [
-        {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        },
-        {
-          "name": "Freddie Elmberg",
-          "url": "https://open.spotify.com/artist/2HAhqKaUVbYDq0rTlwo1md"
-        },
-        {
-          "name": "FLORES",
-          "url": "https://open.spotify.com/artist/6ijryPR4MbExatvDQD1AhY"
-        }
-      ],
-      "duration_ms": 265161,
-      "name": "Love Pains",
-      "url": "https://open.spotify.com/track/6juK43DmhqHK7FsAecv92Q"
     },
     {
       "added_at": "2026-01-23 05:00:17",

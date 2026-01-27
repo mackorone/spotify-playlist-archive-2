@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Jackson. The essential tracks, all in one playlist.",
-  "num_followers": 3042276,
+  "num_followers": 3042517,
   "original_name": "This Is Michael Jackson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXQLgAAAAAAIRJcJ0CULc0fBwlCjagtM",
+  "snapshot_id": "aXVdAAAAAABzyntoluSlQTpBA/Q8ybX1",
   "tracks": [
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
+        "name": "XSCAPE",
+        "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 296560,
-      "name": "Whatever Happens",
-      "url": "https://open.spotify.com/track/4fK6bgzyKt4EIv3R1wrUtl"
+      "duration_ms": 253826,
+      "name": "Blue Gangsta",
+      "url": "https://open.spotify.com/track/36lVpg8hgy37iZEazTOJBb"
     }
   ],
   "unique_name": "This Is Michael Jackson",

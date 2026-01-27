@@ -1,6 +1,6 @@
 {
   "description": "Sommer f\u00fcr immer!",
-  "num_followers": 428515,
+  "num_followers": 428482,
   "original_name": "Sommerklassiker",
   "owner": {
     "name": "Spotify",
@@ -871,6 +871,22 @@
     {
       "added_at": "2025-07-08 16:22:28",
       "album": {
+        "name": "Eterno Agosto",
+        "url": "https://open.spotify.com/album/5jJXDZo4k8z4eMWB9ZxjDX"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "Sofia",
+      "url": "https://open.spotify.com/track/5vj59ONIVbyhcrI8ZSwoRo"
+    },
+    {
+      "added_at": "2025-07-08 16:22:28",
+      "album": {
         "name": "Savage Love (Laxed - Siren Beat)",
         "url": "https://open.spotify.com/album/1XMw3pBrYeXzNXZXc84DNw"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 211666,
       "name": "Cheap Thrills",
       "url": "https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu"
-    },
-    {
-      "added_at": "2025-07-08 16:22:28",
-      "album": {
-        "name": "Eterno Agosto",
-        "url": "https://open.spotify.com/album/5jJXDZo4k8z4eMWB9ZxjDX"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Soler",
-          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
-        }
-      ],
-      "duration_ms": 210466,
-      "name": "Sofia",
-      "url": "https://open.spotify.com/track/5vj59ONIVbyhcrI8ZSwoRo"
     },
     {
       "added_at": "2025-07-08 16:22:28",

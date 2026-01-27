@@ -1,31 +1,15 @@
 {
   "description": "Les plus belles chansons d'amour.",
-  "num_followers": 154416,
+  "num_followers": 154404,
   "original_name": "je t'aime",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANUPbIerPbCMdLPUe7BqxEpcHtpm",
+  "snapshot_id": "AAAAAJ6/oiNT+7DzSfSqnddq/AnPHJew",
   "tracks": [
     {
-      "added_at": "2025-02-03 17:53:13",
-      "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
-    },
-    {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "I AM...SASHA FIERCE",
         "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
@@ -41,23 +25,39 @@
       "url": "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
-        "name": "Elton John (Remastered Version)",
-        "url": "https://open.spotify.com/album/7dtLYwLOdYQa2S8Vjeuxci"
+        "name": "Hymne \u00e0 l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
+        "url": "https://open.spotify.com/album/1ymDzkdTXIvBCeMiA3XIX2"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
         }
       ],
-      "duration_ms": 244226,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/17VegeBoHvMlIByrdu64KR"
+      "duration_ms": 229939,
+      "name": "Hymne \u00e0 l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
+      "url": "https://open.spotify.com/track/4hPz8nqYC8yG7X29imHEv5"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
+      "album": {
+        "name": "Agent Provocateur",
+        "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 304786,
+      "name": "I Want to Know What Love Is - 1999 Remaster",
+      "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
+    },
+    {
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "A Star Is Born Soundtrack (Without Dialogue)",
         "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
@@ -77,103 +77,7 @@
       "url": "https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
-      "album": {
-        "name": "Hymne \u00e0 l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
-        "url": "https://open.spotify.com/album/1ymDzkdTXIvBCeMiA3XIX2"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 229939,
-      "name": "Hymne \u00e0 l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
-      "url": "https://open.spotify.com/track/4hPz8nqYC8yG7X29imHEv5"
-    },
-    {
-      "added_at": "2025-02-03 17:53:13",
-      "album": {
-        "name": "Artificial Animals Riding On Neverland",
-        "url": "https://open.spotify.com/album/42kxusCjJOVKlEfx0H5z35"
-      },
-      "artists": [
-        {
-          "name": "AaRON",
-          "url": "https://open.spotify.com/artist/6q8cNe6Wif1WvM97vcFD8O"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "U-turn (Lili)",
-      "url": "https://open.spotify.com/track/1qPkQp5Q9R0kZYy4qcvRPw"
-    },
-    {
-      "added_at": "2025-02-03 17:53:13",
-      "album": {
-        "name": "Agent Provocateur",
-        "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 304786,
-      "name": "I Want to Know What Love Is - 1999 Remaster",
-      "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
-    },
-    {
-      "added_at": "2025-02-03 17:53:13",
-      "album": {
-        "name": "Non homologu\u00e9",
-        "url": "https://open.spotify.com/album/3svVRotnkGO3jhrPcCeeCA"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Goldman",
-          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
-        }
-      ],
-      "duration_ms": 331800,
-      "name": "Pas toi",
-      "url": "https://open.spotify.com/track/0UcPuBlICvhGbCjnGOHyHj"
-    },
-    {
-      "added_at": "2025-02-03 17:53:13",
-      "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 271093,
-      "name": "I Will Always Love You",
-      "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
-    },
-    {
-      "added_at": "2025-02-03 17:53:13",
-      "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
-    },
-    {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
@@ -193,7 +97,55 @@
       "url": "https://open.spotify.com/track/0GNI8K3VATWBABQFAzBAYe"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
+      "album": {
+        "name": "Love In The Future (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 269556,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
+    },
+    {
+      "added_at": "2026-01-26 20:13:36",
+      "album": {
+        "name": "Elton John (Remastered Version)",
+        "url": "https://open.spotify.com/album/7dtLYwLOdYQa2S8Vjeuxci"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 244226,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/17VegeBoHvMlIByrdu64KR"
+    },
+    {
+      "added_at": "2026-01-26 20:13:36",
+      "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 271093,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
+    },
+    {
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Les Dix Commandements (L'int\u00e9grale)",
         "url": "https://open.spotify.com/album/79qNGzwU1l9vh3nw6GeY8l"
@@ -213,7 +165,39 @@
       "url": "https://open.spotify.com/track/5H9PjygodoXzyX45g7Pm6n"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt"
+    },
+    {
+      "added_at": "2026-01-26 20:13:36",
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+    },
+    {
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "I Do Not Want What I Haven't Got",
         "url": "https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01"
@@ -229,23 +213,75 @@
       "url": "https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
-        "name": "Love In The Future (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
+        "name": "Nellyville",
+        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
         }
       ],
-      "duration_ms": 269556,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
+      "duration_ms": 289160,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
+      "album": {
+        "name": "Non homologu\u00e9",
+        "url": "https://open.spotify.com/album/3svVRotnkGO3jhrPcCeeCA"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+        }
+      ],
+      "duration_ms": 331800,
+      "name": "Pas toi",
+      "url": "https://open.spotify.com/track/0UcPuBlICvhGbCjnGOHyHj"
+    },
+    {
+      "added_at": "2026-01-26 20:13:36",
+      "album": {
+        "name": "Artificial Animals Riding On Neverland",
+        "url": "https://open.spotify.com/album/42kxusCjJOVKlEfx0H5z35"
+      },
+      "artists": [
+        {
+          "name": "AaRON",
+          "url": "https://open.spotify.com/artist/6q8cNe6Wif1WvM97vcFD8O"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "U-turn (Lili)",
+      "url": "https://open.spotify.com/track/1qPkQp5Q9R0kZYy4qcvRPw"
+    },
+    {
+      "added_at": "2026-01-26 20:13:36",
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
+    },
+    {
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "I love you",
         "url": "https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6"
@@ -265,7 +301,7 @@
       "url": "https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
@@ -281,23 +317,7 @@
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
-      "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt"
-    },
-    {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Comeblack",
         "url": "https://open.spotify.com/album/18pd7kQMiCqyz0001xg4xV"
@@ -313,7 +333,7 @@
       "url": "https://open.spotify.com/track/0qlZQGo9f7Ea24PPLnXq2R"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Les mots bleus",
         "url": "https://open.spotify.com/album/5lDOYOhBNt7NHvDMtjcIOf"
@@ -329,7 +349,7 @@
       "url": "https://open.spotify.com/track/2Desf0YgquK9YrSkRhkvDN"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8"
@@ -345,7 +365,7 @@
       "url": "https://open.spotify.com/track/6QPKYGnAW9QozVz2dSWqRg"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "a thousand years",
         "url": "https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo"
@@ -361,7 +381,7 @@
       "url": "https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "TOP GUN/SOUNDTRACK",
         "url": "https://open.spotify.com/album/0aAtSw6p6dKW33Azdc0Ihq"
@@ -377,7 +397,7 @@
       "url": "https://open.spotify.com/track/77Oww6V7jooOd7aNEMnFJ3"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "VersuS",
         "url": "https://open.spotify.com/album/5DD7BStcOFBl3i9z1fyr7e"
@@ -397,7 +417,7 @@
       "url": "https://open.spotify.com/track/4iNPp0BZ4lBu7bipdWLcWk"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
@@ -417,7 +437,7 @@
       "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Killing Me Softly",
         "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
@@ -433,7 +453,7 @@
       "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "The Final",
         "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
@@ -449,7 +469,7 @@
       "url": "https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Les chemins de traverse (Remastered)",
         "url": "https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x"
@@ -465,7 +485,7 @@
       "url": "https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Say Yes, Say No",
         "url": "https://open.spotify.com/album/1gqXX51DCiNoe0Xt9RHUIT"
@@ -481,7 +501,7 @@
       "url": "https://open.spotify.com/track/3PqAQRlPl0yOnqqcB6Y5Cw"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Purple Rain",
         "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
@@ -497,7 +517,7 @@
       "url": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Laundry Service",
         "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
@@ -513,7 +533,7 @@
       "url": "https://open.spotify.com/track/15f8Cv8RXUlOOCIf2oaceN"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
         "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
@@ -529,7 +549,7 @@
       "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Marc Lavoine",
         "url": "https://open.spotify.com/album/1kGhulcVIZIB3TYTce9TDc"
@@ -545,7 +565,7 @@
       "url": "https://open.spotify.com/track/1fU9wVDi3yZrawv1Rc4vcS"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Can't Slow Down",
         "url": "https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T"
@@ -561,7 +581,7 @@
       "url": "https://open.spotify.com/track/6HMvJcdw6qLsyV1b5x29sa"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Let's Talk About Love",
         "url": "https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs"
@@ -577,7 +597,7 @@
       "url": "https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
@@ -593,7 +613,7 @@
       "url": "https://open.spotify.com/track/6SKwQghsR8AISlxhcwyA9R"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
@@ -613,7 +633,7 @@
       "url": "https://open.spotify.com/track/7BdXRaSlGAzhySfuW3y8h5"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "MESDAMES deluxe",
         "url": "https://open.spotify.com/album/6lZU65hX50fImkVKlSUdLh"
@@ -633,7 +653,7 @@
       "url": "https://open.spotify.com/track/17NQyo1HsqDX7mbzsTWMuX"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
@@ -649,7 +669,7 @@
       "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Die For You",
         "url": "https://open.spotify.com/album/0YF085Qdh4HgdhZ8zjWkpo"
@@ -669,7 +689,7 @@
       "url": "https://open.spotify.com/track/4JNdwEfqwFRiAeEISC8RU8"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Tracy Chapman",
         "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
@@ -685,7 +705,7 @@
       "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Gang",
         "url": "https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg"
@@ -701,7 +721,7 @@
       "url": "https://open.spotify.com/track/3cqLrAhTy0JYcYmGe6Dvje"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "The Joshua Tree",
         "url": "https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3"
@@ -717,7 +737,7 @@
       "url": "https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Breakaway",
         "url": "https://open.spotify.com/album/3xkK5tqB1kP84ZzWPnJ1x3"
@@ -733,7 +753,7 @@
       "url": "https://open.spotify.com/track/3PHYPaguCDKLK1a9cp3uXZ"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "The Diary Of Alicia Keys",
         "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
@@ -749,7 +769,7 @@
       "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Long Way Down (Deluxe)",
         "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
@@ -765,7 +785,7 @@
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
         "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
@@ -781,7 +801,7 @@
       "url": "https://open.spotify.com/track/6qbieXHVuCIIlzi55j6E5i"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Music Box",
         "url": "https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl"
@@ -797,7 +817,7 @@
       "url": "https://open.spotify.com/track/4FCb4CUbFCMNRkI6lYc1zI"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "France Gall (Remasteris\u00e9 en 2004)",
         "url": "https://open.spotify.com/album/33HVMY47BnuQPkkPcXIytd"
@@ -813,7 +833,7 @@
       "url": "https://open.spotify.com/track/76SXRuctCDXlL82Mkh5yJm"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "I've Been Expecting You",
         "url": "https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs"
@@ -829,7 +849,7 @@
       "url": "https://open.spotify.com/track/4lO57zZGFcj7vSY4QhfVDq"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Brol",
         "url": "https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC"
@@ -845,7 +865,7 @@
       "url": "https://open.spotify.com/track/3iXhLi33EpUfcOwasC8un1"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Now in a Minute",
         "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
@@ -861,7 +881,7 @@
       "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Amoureuse (Edition Deluxe)",
         "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
@@ -877,7 +897,7 @@
       "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -893,7 +913,7 @@
       "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Mini World",
         "url": "https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH"
@@ -909,55 +929,7 @@
       "url": "https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
-      "album": {
-        "name": "Undiscovered (International Version)",
-        "url": "https://open.spotify.com/album/0cHXj1g4NdFEQinwxj4soZ"
-      },
-      "artists": [
-        {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
-        }
-      ],
-      "duration_ms": 213173,
-      "name": "You Give Me Something",
-      "url": "https://open.spotify.com/track/6bFsQ6yOp3z5mGNkhWP0P1"
-    },
-    {
-      "added_at": "2025-02-03 17:53:13",
-      "album": {
-        "name": "C\u0153ur De Pirate",
-        "url": "https://open.spotify.com/album/71fry0hY8cte1dlWqIhPM3"
-      },
-      "artists": [
-        {
-          "name": "C\u0153ur De Pirate",
-          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
-        }
-      ],
-      "duration_ms": 166013,
-      "name": "Comme des enfants",
-      "url": "https://open.spotify.com/track/3xuGzgRYAXHmj0dT1EOtzv"
-    },
-    {
-      "added_at": "2025-02-03 17:53:13",
-      "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "You're Still The One",
-      "url": "https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n"
-    },
-    {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "Un jour, je",
         "url": "https://open.spotify.com/album/6behht7b5iDD8CRpTWMWrI"
@@ -973,7 +945,39 @@
       "url": "https://open.spotify.com/track/5EWPzyWm0b9McPS5Qyaijp"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
+      "album": {
+        "name": "C\u0153ur De Pirate",
+        "url": "https://open.spotify.com/album/71fry0hY8cte1dlWqIhPM3"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "duration_ms": 166013,
+      "name": "Comme des enfants",
+      "url": "https://open.spotify.com/track/3xuGzgRYAXHmj0dT1EOtzv"
+    },
+    {
+      "added_at": "2026-01-26 20:13:36",
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 212200,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n"
+    },
+    {
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "When a Man Loves a Woman",
         "url": "https://open.spotify.com/album/5I9u0kRfmLLzTHneycOwFA"
@@ -989,7 +993,7 @@
       "url": "https://open.spotify.com/track/0GVxSbigOiKlGfI30Uw00X"
     },
     {
-      "added_at": "2025-02-03 17:53:13",
+      "added_at": "2026-01-26 20:13:36",
       "album": {
         "name": "La symphonie des \u00e9clairs",
         "url": "https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW"

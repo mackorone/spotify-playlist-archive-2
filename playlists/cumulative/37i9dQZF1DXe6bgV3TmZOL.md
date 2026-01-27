@@ -4,10 +4,11 @@
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-510 songs - 1 day 8 hr 22 min
+511 songs - 1 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(I'm a\) Rock "N" Roller](https://open.spotify.com/track/1GxE8KmP1PRhLsh0ttixvf) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [\(I'm a\) Rock "N" Roller](https://open.spotify.com/album/3kNZlzBdkvkscSUmz7Mg9p) | 3:32 | 2026-01-23 |  |
 | [11:11](https://open.spotify.com/track/2Uz3IrR8c3ay9mnk3IPk4B) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 4:04 | 2022-07-13 | 2022-07-20 |
 | [1234](https://open.spotify.com/track/19T79JA6PgqCbYOYZ3e1bV) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1), [Benjamin Kowalewicz](https://open.spotify.com/artist/1ysul2Zu0lQs8JMWXSnEa9) | [A Million Degrees](https://open.spotify.com/album/1aqmmK0ORKz719r7MLMHQO) | 3:22 | 2022-06-17 | 2023-05-06 |
 | [1234](https://open.spotify.com/track/4Mbj2NKklmBRfs0ekO6cQ5) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1), [Benjamin Kowalewicz](https://open.spotify.com/artist/1ysul2Zu0lQs8JMWXSnEa9) | [1234](https://open.spotify.com/album/55qWVcSQBFn5odd33hc1Ie) | 3:22 | 2021-11-12 | 2022-07-27 |
@@ -366,7 +367,7 @@
 | [Rational Gaze](https://open.spotify.com/track/5uqr3lCMWkyQx6yTvoMl4F) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Nothing](https://open.spotify.com/album/4ucDcX8iPgBKY9zAJyHOjy) | 5:04 | 2022-11-02 | 2023-02-02 |
 | [READY TO DIE](https://open.spotify.com/track/0FnsGa4AZ9XlW92BHfz8yg) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [READY TO DIE](https://open.spotify.com/album/45uDqpJtxEdoiQFDkmYnjM) | 4:06 | 2022-07-13 | 2022-07-29 |
 | [Remedy](https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Karma and Effect](https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3) | 3:27 | 2022-07-13 | 2022-11-03 |
-| [Remember We Die](https://open.spotify.com/track/2iQoaliksvoEBhldqjYPgL) | [Gemini Syndrome](https://open.spotify.com/artist/5plcM0NxqZcnAWQVECcjWN) | [Memento Mori](https://open.spotify.com/album/3R8iA3RLV2cS2rxTvEn4Kn) | 3:45 | 2021-11-12 |  |
+| [Remember We Die](https://open.spotify.com/track/2iQoaliksvoEBhldqjYPgL) | [Gemini Syndrome](https://open.spotify.com/artist/5plcM0NxqZcnAWQVECcjWN) | [Memento Mori](https://open.spotify.com/album/3R8iA3RLV2cS2rxTvEn4Kn) | 3:45 | 2021-11-12 | 2026-01-27 |
 | [Resentment](https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Resentment](https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO) | 3:47 | 2021-11-12 | 2026-01-24 |
 | [Resentment](https://open.spotify.com/track/7pK1CcGiz41Bi0qZ1cIXft) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Resentment](https://open.spotify.com/album/01K6XMRFJFP3lfQOkGjCnd) | 3:28 | 2021-11-12 | 2022-07-29 |
 | [Revery](https://open.spotify.com/track/0Vn099e0jlAgV0TE5sOre1) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Revery](https://open.spotify.com/album/5yNd7mpvNnQWDHUr9WvKPE) | 3:12 | 2025-05-23 |  |

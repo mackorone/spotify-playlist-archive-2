@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Harry Styles, Luis Fonsi & Feid, Ana Mena y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,907 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,899 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 6 | [Hagamos Que](https://open.spotify.com/track/6dERO18avM16kki5aCjTkb) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Hagamos Que](https://open.spotify.com/album/1LzepHC5JM2kXvL5Fv7CgC) | 2:58 |
 | 7 | [Más De Lo Que Te Quiero](https://open.spotify.com/track/0kbqNGwmIANbVjwXPGg4ou) | [Antonio Carmona](https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo) | [Más De Lo Que Te Quiero](https://open.spotify.com/album/07W07SYPoOLjHOFtkRClTJ) | 3:29 |
 | 8 | [PERDIENDO LA FE](https://open.spotify.com/track/3zkwhhqwD0cQVflnuAuR5H) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [PERDIENDO LA FE](https://open.spotify.com/album/3n9EzGc9xUORuDpZKoUDTI) | 2:48 |
-| 9 | [Masones](https://open.spotify.com/track/3YQcNXE24EoTADxiSJXud2) | [8belial](https://open.spotify.com/artist/3GMBcFbI21Tbi1POVBmCwb), [Stiffy](https://open.spotify.com/artist/7g7N6cRr5izWiIWvffgwWO) | [Masones](https://open.spotify.com/album/0iSLtHimEY6qAxIFgDB0kp) | 4:09 |
+| 9 | [Masones](https://open.spotify.com/track/3YQcNXE24EoTADxiSJXud2) | [8belial](https://open.spotify.com/artist/3GMBcFbI21Tbi1POVBmCwb), [Stiffy](https://open.spotify.com/artist/7g7N6cRr5izWiIWvffgwWO), [El WiWi](https://open.spotify.com/artist/3e4VIuUh5gw0CVP1E17oiZ) | [Masones](https://open.spotify.com/album/0iSLtHimEY6qAxIFgDB0kp) | 4:09 |
 | 10 | [Nadie](https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [La vida de Nadie](https://open.spotify.com/album/3zzUdNCdGCDobDktA3v6yi) | 2:47 |
 | 11 | [El que no sabe estar con nadie](https://open.spotify.com/track/0crnyLuJ6EwLZ7AxPMp30t) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Una mudanza](https://open.spotify.com/album/4fgEM9EzEXoQQwx1xX3V4p) | 3:18 |
 | 12 | [scared](https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [USB](https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT) | 3:46 |

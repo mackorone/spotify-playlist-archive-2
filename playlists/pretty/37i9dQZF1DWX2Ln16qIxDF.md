@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 > Canciones que tenés que escuchar, edición verano  📸  Big One, Katteyes & DobleP
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,193,340 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,193,740 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LA VILLA](https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Gangsta](https://open.spotify.com/artist/6eJgkjqBphZi6C9CuyuC9U) | [HOPI SENDÉ](https://open.spotify.com/album/0Xe21PnOMP2JbgaUXZkyNM) | 3:12 |
+| 1 | [LA VILLA](https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Gangsta](https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3) | [HOPI SENDÉ](https://open.spotify.com/album/0Xe21PnOMP2JbgaUXZkyNM) | 3:12 |
 | 2 | [Botellas Vacías](https://open.spotify.com/track/1Io4jpqBGbeae1mIXQHu5c) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [Botellas Vacías](https://open.spotify.com/album/0Zu5oqYuCbWa4a9ENNxyG5) | 2:59 |
 | 3 | [Favorita del Ghetto \| CROSSOVER \#12](https://open.spotify.com/track/3y3ylOBgmuM19xR177J0eb) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036) | [Favorita del Ghetto \| CROSSOVER \#12](https://open.spotify.com/album/5h66DxQNQGntf7Z2CCeDrv) | 2:23 |
 | 4 | [LADRON](https://open.spotify.com/track/2NMctdE1VuUUc4VctEqamB) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [RAMKY EN LOS CONTROLES](https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd) | [LADRON](https://open.spotify.com/album/4rhn6ysDub2uGc0HJq4AF2) | 1:54 |

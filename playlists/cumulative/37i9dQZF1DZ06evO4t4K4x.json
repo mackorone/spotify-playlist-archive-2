@@ -118,7 +118,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 1274745,
       "name": "Circle of Light, Pt. 1",
       "url": "https://open.spotify.com/track/7lAXvqRchSNaXGDVJZXkeN"
@@ -1186,10 +1186,32 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 46946,
       "name": "Hannett and Delia synth exchanges track 1",
       "url": "https://open.spotify.com/track/1BhubvIhpbae9mlwxFAQce"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/7qV3mWdKcPJRXlQXnONvti"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297120,
+      "name": "Hannett and Delia synth exchanges track 10",
+      "url": "https://open.spotify.com/track/0e9EACwLWnZqJkDRgpfskN"
     },
     {
       "album": {
@@ -2364,10 +2386,28 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 564706,
       "name": "The Sea (1969)",
       "url": "https://open.spotify.com/track/0UmTJH6MMIoCZSkiYa5Z5Q"
+    },
+    {
+      "album": {
+        "name": "The Empire",
+        "url": "https://open.spotify.com/album/0t5Hbzaq9DJy0W1gVgadKP"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 564706,
+      "name": "The Sea (1969)",
+      "url": "https://open.spotify.com/track/7elCIDkw8vFK1dJMwFMf1s"
     },
     {
       "album": {

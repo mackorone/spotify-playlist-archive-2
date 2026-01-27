@@ -1,12 +1,12 @@
 {
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 36120,
+  "num_followers": 36129,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXQLgAAAAADeSgh5AYI+LfqrPT8LY6Eb",
+  "snapshot_id": "aXVdAAAAAABicU9XCrC92WTc/HGwskpb",
   "tracks": [
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obras de Violeta Parra",
-        "url": "https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D"
+        "name": "Hijos de la Tierra",
+        "url": "https://open.spotify.com/album/6F4aiBPbgSgnZIoZUL3sv0"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 314000,
-      "name": "Run Run Se Fue Pa'l Norte",
-      "url": "https://open.spotify.com/track/6m49CvvCsitRLdWrOCH7hx"
+      "duration_ms": 270200,
+      "name": "En el Tren a Paisand\u00fa",
+      "url": "https://open.spotify.com/track/08EO6H3uRCjmHkLlPPjP4o"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hijos de la Tierra",
-        "url": "https://open.spotify.com/album/6F4aiBPbgSgnZIoZUL3sv0"
+        "name": "Obras de Violeta Parra",
+        "url": "https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 270200,
-      "name": "En el Tren a Paisand\u00fa",
-      "url": "https://open.spotify.com/track/08EO6H3uRCjmHkLlPPjP4o"
+      "duration_ms": 314000,
+      "name": "Run Run Se Fue Pa'l Norte",
+      "url": "https://open.spotify.com/track/6m49CvvCsitRLdWrOCH7hx"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Volant\u00edn",
-        "url": "https://open.spotify.com/album/4IJANQACPQiCxER0gaUPpn"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Que o la Tumba Ser\u00e1s",
-      "url": "https://open.spotify.com/track/75jBptGrKXfCoaZlE6wg2R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Ventana (Remasterizado 2020)",
         "url": "https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 283189,
       "name": "La Quebr\u00e1 del Aj\u00ed - 2020 Remasterizado",
       "url": "https://open.spotify.com/track/4DcL14AtBwYVpCKq5Lvz2a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 225093,
+      "name": "Si T\u00fa No Est\u00e1s",
+      "url": "https://open.spotify.com/track/32R26AXFfke6v6eSEive5q"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si T\u00fa No Est\u00e1s",
-        "url": "https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv"
+        "name": "El Volant\u00edn",
+        "url": "https://open.spotify.com/album/4IJANQACPQiCxER0gaUPpn"
       },
       "artists": [
         {
@@ -644,25 +644,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 225093,
-      "name": "Si T\u00fa No Est\u00e1s",
-      "url": "https://open.spotify.com/track/32R26AXFfke6v6eSEive5q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mamalluca: Obras Sinf\u00f3nicas, Vol. 1",
-        "url": "https://open.spotify.com/album/0ZPChiwu8RZKzNfCDSvku2"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 415653,
-      "name": "Cerro de la Virgen",
-      "url": "https://open.spotify.com/track/0CuG0Bt2h6mrmAggYbYdAT"
+      "duration_ms": 202000,
+      "name": "Que o la Tumba Ser\u00e1s",
+      "url": "https://open.spotify.com/track/75jBptGrKXfCoaZlE6wg2R"
     },
     {
       "added_at": null,
@@ -683,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Volant\u00edn",
-        "url": "https://open.spotify.com/album/4IJANQACPQiCxER0gaUPpn"
+        "name": "Mamalluca: Obras Sinf\u00f3nicas, Vol. 1",
+        "url": "https://open.spotify.com/album/0ZPChiwu8RZKzNfCDSvku2"
       },
       "artists": [
         {
@@ -692,9 +676,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 394573,
-      "name": "Foto de Primera Comuni\u00f3n",
-      "url": "https://open.spotify.com/track/6dHcWANJCRmNPqMquhllp8"
+      "duration_ms": 415653,
+      "name": "Cerro de la Virgen",
+      "url": "https://open.spotify.com/track/0CuG0Bt2h6mrmAggYbYdAT"
     },
     {
       "added_at": null,
@@ -711,6 +695,22 @@
       "duration_ms": 223266,
       "name": "Sue\u00f1o Del Inca",
       "url": "https://open.spotify.com/track/3y0BB4Af1j5F4AcE5BNCN0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Volant\u00edn",
+        "url": "https://open.spotify.com/album/4IJANQACPQiCxER0gaUPpn"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 394573,
+      "name": "Foto de Primera Comuni\u00f3n",
+      "url": "https://open.spotify.com/track/6dHcWANJCRmNPqMquhllp8"
     },
     {
       "added_at": null,

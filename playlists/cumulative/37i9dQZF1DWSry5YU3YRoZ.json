@@ -230,7 +230,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 166385,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/7h16KR0lAOlVgTn7xD9tsK"
@@ -360,7 +360,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 246874,
       "name": "dear heart",
       "url": "https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d"
@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-28",
+      "date_removed": null,
       "duration_ms": 227142,
       "name": "Meet us in a dream",
       "url": "https://open.spotify.com/track/053u42YOHacJCMmN3W8KCJ"
@@ -1847,6 +1847,24 @@
     },
     {
       "album": {
+        "name": "ONGI (Warmth)",
+        "url": "https://open.spotify.com/album/4CqQGQCrm0S9iHFhTwHYeD"
+      },
+      "artists": [
+        {
+          "name": "Kim Boogyeong",
+          "url": "https://open.spotify.com/artist/0C7Ij4sLjSJFlbOUq8POVs"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292276,
+      "name": "ONGI (Warmth)",
+      "url": "https://open.spotify.com/track/3MEaqIYpWxPO30o87Pq8AG"
+    },
+    {
+      "album": {
         "name": "Perhaps here",
         "url": "https://open.spotify.com/album/48H2QWLMT5SmjwoL0k5LIs"
       },
@@ -1858,7 +1876,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 169500,
       "name": "Perhaps here",
       "url": "https://open.spotify.com/track/7DyJ2hn51jaHlmEm3ik5rQ"
@@ -2100,6 +2118,24 @@
       "duration_ms": 247000,
       "name": "Sparkling Sunshine",
       "url": "https://open.spotify.com/track/6DHFVQmd2y2yQVfKGMo03g"
+    },
+    {
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/7Ht7kJByAKQhnnqZSqLxzO"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199714,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/6h7pTcDLNo5Pc8Lu1w2Qo9"
     },
     {
       "album": {
@@ -2355,6 +2391,24 @@
     },
     {
       "album": {
+        "name": "The Two Words",
+        "url": "https://open.spotify.com/album/6kynmkcBqVJzfbnT2CdW6z"
+      },
+      "artists": [
+        {
+          "name": "Yebit",
+          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180830,
+      "name": "The Two Words",
+      "url": "https://open.spotify.com/track/7lSoXYQ3kWspAaiOC2kJUJ"
+    },
+    {
+      "album": {
         "name": "Knock",
         "url": "https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm"
       },
@@ -2546,7 +2600,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 216360,
       "name": "Youth",
       "url": "https://open.spotify.com/track/7pdrLAo29KaqUTO3iD1O4z"

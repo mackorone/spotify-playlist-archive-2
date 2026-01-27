@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 24115,
+  "num_followers": 24159,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2026-01-22 06:26:39",
       "album": {
-        "name": "Ghosts of the Floating World",
-        "url": "https://open.spotify.com/album/3eZvLeVJrxO4eA8CUogkZS"
-      },
-      "artists": [
-        {
-          "name": "Kalaido",
-          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
-        }
-      ],
-      "duration_ms": 220805,
-      "name": "Teahouse Spirits",
-      "url": "https://open.spotify.com/track/32DttoRpK9pJW79WPpVevv"
-    },
-    {
-      "added_at": "2026-01-22 06:26:39",
-      "album": {
         "name": "When I Dreamt of You",
         "url": "https://open.spotify.com/album/3kDHlVhPnYyo6qFvhWOyzr"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 155951,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/34qshfO0PEUioprn00x3YW"
+    },
+    {
+      "added_at": "2026-01-22 06:26:39",
+      "album": {
+        "name": "Ghosts of the Floating World",
+        "url": "https://open.spotify.com/album/3eZvLeVJrxO4eA8CUogkZS"
+      },
+      "artists": [
+        {
+          "name": "Kalaido",
+          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
+        }
+      ],
+      "duration_ms": 220805,
+      "name": "Teahouse Spirits",
+      "url": "https://open.spotify.com/track/32DttoRpK9pJW79WPpVevv"
     },
     {
       "added_at": "2026-01-22 06:26:39",
@@ -647,26 +647,6 @@
     {
       "added_at": "2026-01-22 06:26:39",
       "album": {
-        "name": "rest & be thankful",
-        "url": "https://open.spotify.com/album/1KnlzGpydfNw0XXyyVUdV8"
-      },
-      "artists": [
-        {
-          "name": "j'san",
-          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
-        },
-        {
-          "name": "I Eat Plants for a Living",
-          "url": "https://open.spotify.com/artist/5EevHNEa1e2YvcJgksJpRK"
-        }
-      ],
-      "duration_ms": 126430,
-      "name": "rest & be thankful",
-      "url": "https://open.spotify.com/track/1qObLobp2GhmwXJYzrJ7u1"
-    },
-    {
-      "added_at": "2026-01-22 06:26:39",
-      "album": {
         "name": "Motorbikes in Sapa",
         "url": "https://open.spotify.com/album/4onanIVOs3bvuBSm5G3Xeo"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 172564,
       "name": "one day in japan",
       "url": "https://open.spotify.com/track/3d5sFXzamm1Bak74pl1eU9"
+    },
+    {
+      "added_at": "2026-01-22 06:26:39",
+      "album": {
+        "name": "rest & be thankful",
+        "url": "https://open.spotify.com/album/1KnlzGpydfNw0XXyyVUdV8"
+      },
+      "artists": [
+        {
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
+        },
+        {
+          "name": "I Eat Plants for a Living",
+          "url": "https://open.spotify.com/artist/5EevHNEa1e2YvcJgksJpRK"
+        }
+      ],
+      "duration_ms": 126430,
+      "name": "rest & be thankful",
+      "url": "https://open.spotify.com/track/1qObLobp2GhmwXJYzrJ7u1"
     },
     {
       "added_at": "2026-01-22 06:26:39",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-01-22 06:26:39",
       "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/05lFHzwRQLVQpBfaJGgrpt"
-      },
-      "artists": [
-        {
-          "name": "R\u016eDE",
-          "url": "https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq"
-        }
-      ],
-      "duration_ms": 192407,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/2XmEDW2SUbYYt5o2cxSEz4"
-    },
-    {
-      "added_at": "2026-01-22 06:26:39",
-      "album": {
         "name": "Moonlit Tales",
         "url": "https://open.spotify.com/album/6Meo6NJgk9I5t4SwKJ0r0h"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 198254,
       "name": "In the Roses",
       "url": "https://open.spotify.com/track/45xP2REQXM1uz8HhuPxJmO"
+    },
+    {
+      "added_at": "2026-01-22 06:26:39",
+      "album": {
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/05lFHzwRQLVQpBfaJGgrpt"
+      },
+      "artists": [
+        {
+          "name": "R\u016eDE",
+          "url": "https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq"
+        }
+      ],
+      "duration_ms": 192407,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/2XmEDW2SUbYYt5o2cxSEz4"
     },
     {
       "added_at": "2026-01-22 06:26:39",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-01-22 06:26:39",
       "album": {
-        "name": "Harmony",
-        "url": "https://open.spotify.com/album/7biuWedEj1S1VAkVovjzX1"
-      },
-      "artists": [
-        {
-          "name": "CloZee",
-          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
-        }
-      ],
-      "duration_ms": 267024,
-      "name": "Secret Place",
-      "url": "https://open.spotify.com/track/7nYSThKhGZuaOQ8zeKSm1X"
-    },
-    {
-      "added_at": "2026-01-22 06:26:39",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/3YSKRZj2fgC56dEaUkSeMV"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 228857,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/6T2O4OFeCTr8BwHrWwugLr"
+    },
+    {
+      "added_at": "2026-01-22 06:26:39",
+      "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/7biuWedEj1S1VAkVovjzX1"
+      },
+      "artists": [
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        }
+      ],
+      "duration_ms": 267024,
+      "name": "Secret Place",
+      "url": "https://open.spotify.com/track/7nYSThKhGZuaOQ8zeKSm1X"
     },
     {
       "added_at": "2026-01-22 06:26:39",
@@ -847,8 +847,8 @@
     {
       "added_at": "2026-01-22 06:26:39",
       "album": {
-        "name": "Yugen",
-        "url": "https://open.spotify.com/album/7KCwE6FNoDVt1vul0jQyUl"
+        "name": "Tokyo Skyline",
+        "url": "https://open.spotify.com/album/27XjDTqr7TNHKFazcl1WKO"
       },
       "artists": [
         {
@@ -856,17 +856,13 @@
           "url": "https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3"
         },
         {
-          "name": "Picture Talk",
-          "url": "https://open.spotify.com/artist/2ERrGspEfSe1sycxXBU48l"
-        },
-        {
-          "name": "Lucifurr",
-          "url": "https://open.spotify.com/artist/1DFuldQROQAcq0eNiilcUm"
+          "name": "Symoo",
+          "url": "https://open.spotify.com/artist/12CDwi9HyJtyPRBqat24LV"
         }
       ],
-      "duration_ms": 145054,
-      "name": "Yugen",
-      "url": "https://open.spotify.com/track/0StrXVWeTBblvc2gPTcHdR"
+      "duration_ms": 174111,
+      "name": "Silk Road",
+      "url": "https://open.spotify.com/track/4DhAaZSA1kE2dg0voGh5nm"
     },
     {
       "added_at": "2026-01-22 06:26:39",
@@ -935,8 +931,8 @@
     {
       "added_at": "2026-01-22 06:26:39",
       "album": {
-        "name": "Tokyo Skyline",
-        "url": "https://open.spotify.com/album/27XjDTqr7TNHKFazcl1WKO"
+        "name": "Yugen",
+        "url": "https://open.spotify.com/album/7KCwE6FNoDVt1vul0jQyUl"
       },
       "artists": [
         {
@@ -944,13 +940,17 @@
           "url": "https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3"
         },
         {
-          "name": "Symoo",
-          "url": "https://open.spotify.com/artist/12CDwi9HyJtyPRBqat24LV"
+          "name": "Picture Talk",
+          "url": "https://open.spotify.com/artist/2ERrGspEfSe1sycxXBU48l"
+        },
+        {
+          "name": "Lucifurr",
+          "url": "https://open.spotify.com/artist/1DFuldQROQAcq0eNiilcUm"
         }
       ],
-      "duration_ms": 174111,
-      "name": "Silk Road",
-      "url": "https://open.spotify.com/track/4DhAaZSA1kE2dg0voGh5nm"
+      "duration_ms": 145054,
+      "name": "Yugen",
+      "url": "https://open.spotify.com/track/0StrXVWeTBblvc2gPTcHdR"
     },
     {
       "added_at": "2026-01-22 06:26:39",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-01-22 06:26:39",
       "album": {
+        "name": "Sunday Vibes",
+        "url": "https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf"
+      },
+      "artists": [
+        {
+          "name": "W\u00fcnsche",
+          "url": "https://open.spotify.com/artist/6la2xjnhxnRYP3iZ3suP9H"
+        }
+      ],
+      "duration_ms": 133668,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/036lPK1hs7BhEIznZ1OGBy"
+    },
+    {
+      "added_at": "2026-01-22 06:26:39",
+      "album": {
         "name": "Journey To Osaka",
         "url": "https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 139650,
       "name": "Yakamoz",
       "url": "https://open.spotify.com/track/5dhK3ux1ocYcxICMKtUwg1"
-    },
-    {
-      "added_at": "2026-01-22 06:26:39",
-      "album": {
-        "name": "Sunday Vibes",
-        "url": "https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf"
-      },
-      "artists": [
-        {
-          "name": "W\u00fcnsche",
-          "url": "https://open.spotify.com/artist/6la2xjnhxnRYP3iZ3suP9H"
-        }
-      ],
-      "duration_ms": 133668,
-      "name": "Birds",
-      "url": "https://open.spotify.com/track/036lPK1hs7BhEIznZ1OGBy"
     },
     {
       "added_at": "2026-01-22 06:26:39",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-01-22 06:26:39",
       "album": {
-        "name": "Around the World",
-        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 219112,
-      "name": "Yu Garden",
-      "url": "https://open.spotify.com/track/5cdYg4l2l34xNKY5IUDBp4"
-    },
-    {
-      "added_at": "2026-01-22 06:26:39",
-      "album": {
         "name": "Maiko",
         "url": "https://open.spotify.com/album/20CT67v0oJI13iOsNPj5O0"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2026-01-22 06:26:39",
       "album": {
-        "name": "Kodama",
-        "url": "https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG"
+        "name": "Around the World",
+        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
       },
       "artists": [
         {
-          "name": "Nogymx",
-          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
         }
       ],
-      "duration_ms": 186268,
-      "name": "Kodama",
-      "url": "https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8"
+      "duration_ms": 219112,
+      "name": "Yu Garden",
+      "url": "https://open.spotify.com/track/5cdYg4l2l34xNKY5IUDBp4"
     },
     {
       "added_at": "2026-01-22 06:26:39",
@@ -1139,6 +1123,22 @@
       "duration_ms": 116841,
       "name": "Mt Fuji",
       "url": "https://open.spotify.com/track/3lAqbZuoUooBSSbsSJvyOb"
+    },
+    {
+      "added_at": "2026-01-22 06:26:39",
+      "album": {
+        "name": "Kodama",
+        "url": "https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG"
+      },
+      "artists": [
+        {
+          "name": "Nogymx",
+          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
+        }
+      ],
+      "duration_ms": 186268,
+      "name": "Kodama",
+      "url": "https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8"
     },
     {
       "added_at": "2026-01-22 06:26:39",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-01-22 06:26:39",
       "album": {
-        "name": "Dozing",
-        "url": "https://open.spotify.com/album/06xj5eksSF8gpAggo7Upfg"
-      },
-      "artists": [
-        {
-          "name": "Chris Mazuera",
-          "url": "https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE"
-        }
-      ],
-      "duration_ms": 146090,
-      "name": "Dozing",
-      "url": "https://open.spotify.com/track/0uonkgrfmCAsKYSKiwXMZX"
-    },
-    {
-      "added_at": "2026-01-22 06:26:39",
-      "album": {
         "name": "Yamete",
         "url": "https://open.spotify.com/album/5RUEyH0Wj84oBzjEvjuDKi"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 195829,
       "name": "Yamete",
       "url": "https://open.spotify.com/track/42xuMGQNL4hCTQHBzkZVU1"
+    },
+    {
+      "added_at": "2026-01-22 06:26:39",
+      "album": {
+        "name": "Dozing",
+        "url": "https://open.spotify.com/album/06xj5eksSF8gpAggo7Upfg"
+      },
+      "artists": [
+        {
+          "name": "Chris Mazuera",
+          "url": "https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE"
+        }
+      ],
+      "duration_ms": 146090,
+      "name": "Dozing",
+      "url": "https://open.spotify.com/track/0uonkgrfmCAsKYSKiwXMZX"
     },
     {
       "added_at": "2026-01-22 06:26:39",
@@ -1255,6 +1255,26 @@
       "duration_ms": 140678,
       "name": "Jade Temple",
       "url": "https://open.spotify.com/track/6Tsgy9lJRMPDf6WOdclWUv"
+    },
+    {
+      "added_at": "2026-01-22 06:26:39",
+      "album": {
+        "name": "Red Lamps.",
+        "url": "https://open.spotify.com/album/754cKk6njePm3Wx8zJ1Pyi"
+      },
+      "artists": [
+        {
+          "name": "greenface",
+          "url": "https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL"
+        },
+        {
+          "name": "Refeeld",
+          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
+        }
+      ],
+      "duration_ms": 131294,
+      "name": "Red Lamps.",
+      "url": "https://open.spotify.com/track/1IkGsJo1MkPXHTC4rvdBTd"
     },
     {
       "added_at": "2026-01-22 06:26:39",
@@ -1287,26 +1307,6 @@
       "duration_ms": 160000,
       "name": "Arisa",
       "url": "https://open.spotify.com/track/3yGVIzliF0fcy6pcjO02hS"
-    },
-    {
-      "added_at": "2026-01-22 06:26:39",
-      "album": {
-        "name": "Red Lamps.",
-        "url": "https://open.spotify.com/album/754cKk6njePm3Wx8zJ1Pyi"
-      },
-      "artists": [
-        {
-          "name": "greenface",
-          "url": "https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL"
-        },
-        {
-          "name": "Refeeld",
-          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
-        }
-      ],
-      "duration_ms": 131294,
-      "name": "Red Lamps.",
-      "url": "https://open.spotify.com/track/1IkGsJo1MkPXHTC4rvdBTd"
     },
     {
       "added_at": "2026-01-22 06:26:39",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-01-22 06:26:39",
       "album": {
-        "name": "Lost in Japan II",
-        "url": "https://open.spotify.com/album/4ouEJG6RaGAKTB6CwhnBtT"
-      },
-      "artists": [
-        {
-          "name": "Elijah Nang",
-          "url": "https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU"
-        }
-      ],
-      "duration_ms": 211304,
-      "name": "Song of the Samurai",
-      "url": "https://open.spotify.com/track/5nG6besfk5Aoa24OBSdREv"
-    },
-    {
-      "added_at": "2026-01-22 06:26:39",
-      "album": {
         "name": "Torimichi",
         "url": "https://open.spotify.com/album/5quOu1BA0FTj6KgtcoYltV"
       },
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2026-01-22 06:26:39",
       "album": {
-        "name": "Forest Floor",
-        "url": "https://open.spotify.com/album/00v392qfhp0HVJoP5MhiWD"
+        "name": "Lost in Japan II",
+        "url": "https://open.spotify.com/album/4ouEJG6RaGAKTB6CwhnBtT"
       },
       "artists": [
         {
-          "name": "Cold Glow",
-          "url": "https://open.spotify.com/artist/1C6Kb7WSJp2BKP2caUy0qw"
+          "name": "Elijah Nang",
+          "url": "https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU"
         }
       ],
-      "duration_ms": 156004,
-      "name": "Tailwind",
-      "url": "https://open.spotify.com/track/3rQZGlwfrevlb78TY6y87U"
+      "duration_ms": 211304,
+      "name": "Song of the Samurai",
+      "url": "https://open.spotify.com/track/5nG6besfk5Aoa24OBSdREv"
     },
     {
       "added_at": "2026-01-22 06:26:39",
@@ -1519,6 +1503,22 @@
       "duration_ms": 139200,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/7aRXwYkC9v7jFLjs72PrDS"
+    },
+    {
+      "added_at": "2026-01-22 06:26:39",
+      "album": {
+        "name": "Forest Floor",
+        "url": "https://open.spotify.com/album/00v392qfhp0HVJoP5MhiWD"
+      },
+      "artists": [
+        {
+          "name": "Cold Glow",
+          "url": "https://open.spotify.com/artist/1C6Kb7WSJp2BKP2caUy0qw"
+        }
+      ],
+      "duration_ms": 156004,
+      "name": "Tailwind",
+      "url": "https://open.spotify.com/track/3rQZGlwfrevlb78TY6y87U"
     },
     {
       "added_at": "2026-01-22 06:26:39",

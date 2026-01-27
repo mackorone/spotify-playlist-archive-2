@@ -1,13 +1,45 @@
 {
   "description": "\u062a\u062f\u0648\u0651\u0631 \u0623\u062c\u062f\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629\u061f \u0648\u0635\u0644\u062a \u062e\u064a\u0631",
-  "num_followers": 44388,
+  "num_followers": 44400,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPFZ8g2YfIl1/ECvQlQ+jFqHFz5c",
+  "snapshot_id": "AAAAADzGkUaEkh0qDt43xDqq5dz+dTo2",
   "tracks": [
+    {
+      "added_at": "2026-01-26 08:13:40",
+      "album": {
+        "name": "Sabeh Saadat",
+        "url": "https://open.spotify.com/album/2dzJleLreTP2QDxVp9otvJ"
+      },
+      "artists": [
+        {
+          "name": "Rahma Riad",
+          "url": "https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx"
+        }
+      ],
+      "duration_ms": 208215,
+      "name": "\u0633\u0628\u0639 \u0633\u0639\u0627\u062f\u0627\u062a",
+      "url": "https://open.spotify.com/track/56SrW6um9oCiv1VGbLeWS0"
+    },
+    {
+      "added_at": "2026-01-26 08:13:40",
+      "album": {
+        "name": "\u0639\u064a\u0648\u0646 \u0637\u0628\u0639\u0647",
+        "url": "https://open.spotify.com/album/5A5WIQitjOs9zw0OT9N7N7"
+      },
+      "artists": [
+        {
+          "name": "Bandar Abdulaziz",
+          "url": "https://open.spotify.com/artist/4QnEgid1Wuxlr1vHgyzUXw"
+        }
+      ],
+      "duration_ms": 207597,
+      "name": "\u0639\u064a\u0648\u0646 \u0637\u0628\u0639\u0647",
+      "url": "https://open.spotify.com/track/5Pwo31TU96rueCTItC9f7v"
+    },
     {
       "added_at": "2026-01-21 07:13:52",
       "album": {
@@ -619,38 +651,6 @@
       "duration_ms": 150326,
       "name": "\u063a\u0635\u0646 \u0631\u0645\u0627\u0646",
       "url": "https://open.spotify.com/track/1ix4JCBW5VtnniwREmyVnv"
-    },
-    {
-      "added_at": "2025-06-18 10:16:45",
-      "album": {
-        "name": "Kul Hesabati",
-        "url": "https://open.spotify.com/album/7K8Pe0cHG3LXQ4q1hHJ4xv"
-      },
-      "artists": [
-        {
-          "name": "Dalia",
-          "url": "https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD"
-        }
-      ],
-      "duration_ms": 188900,
-      "name": "Kul Hesabati",
-      "url": "https://open.spotify.com/track/472ToJjQLy6ofCS3txLhLt"
-    },
-    {
-      "added_at": "2025-06-18 10:16:45",
-      "album": {
-        "name": "Hd Nafsak",
-        "url": "https://open.spotify.com/album/5tript2PgGKjRq05Tje4NR"
-      },
-      "artists": [
-        {
-          "name": "Fahad Alamri",
-          "url": "https://open.spotify.com/artist/5NUJZVaGD6S8osJn80Vt3P"
-        }
-      ],
-      "duration_ms": 219989,
-      "name": "Hd Nafsak",
-      "url": "https://open.spotify.com/track/4MQWHpsOtIv1F89wUxCR2Y"
     }
   ],
   "unique_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",

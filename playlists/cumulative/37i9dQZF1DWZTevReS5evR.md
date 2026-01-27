@@ -4,7 +4,7 @@
 
 > I really wish your real name is my last name 🤡
 
-300 songs - 18 hr 20 min
+302 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 | 2025-07-08 |  |
 | [Ingin Mencintai & Dicintai](https://open.spotify.com/track/5l4g0R0SsOmkCmnsQz4DHz) | [Leya Princy](https://open.spotify.com/artist/2O3HjLfKHefXk85dOpAr9x) | [Ingin Mencintai & Dicintai](https://open.spotify.com/album/25HMMZyrb6ivb9C2Th9MCc) | 3:05 | 2025-10-08 |  |
 | [intentions](https://open.spotify.com/track/1sczjXEYHpbpCsaA25ZzPv) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [alone tonight](https://open.spotify.com/album/5WQjKVRI7Kb6RyeAeS16UY) | 3:45 | 2024-10-10 | 2025-04-30 |
+| [It's You \- from "Heated Rivalry"](https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Rivalry / It's You \(from "Heated Rivalry" Original Series Soundtrack\)](https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s) | 4:00 | 2026-01-26 |  |
 | [Jadikan Aku Yang Kedua](https://open.spotify.com/track/3sDrAxYdVtrduFmTEu6K0n) | [Alessa](https://open.spotify.com/artist/6KPOKd7taNna1xLsfpalli) | [Jadikan Aku Yang Kedua](https://open.spotify.com/album/2QXZh0ONgicCZHSloy6t2M) | 4:04 | 2024-09-09 | 2024-09-28 |
 | [Jalan Tengah](https://open.spotify.com/track/4QgumLhe9bOEiyKwazYNer) | [Naura Ayu](https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2) | [Jalan Tengah](https://open.spotify.com/album/6WqoW3CKWU3lPyBDhcDzgn) | 4:50 | 2023-08-29 | 2025-03-04 |
 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 | 2024-10-10 |  |
@@ -282,6 +283,7 @@
 | [Those Eyes](https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/4iRLB4gc24HFvjwRc8hDdg) | 3:40 | 2024-04-17 | 2025-05-20 |
 | [Those Eyes](https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Based On A True Story...](https://open.spotify.com/album/6I5Pf71uQzQC0IcJOrh8Rz) | 3:40 | 2023-10-19 | 2024-04-19 |
 | [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 | 2023-03-24 | 2023-10-24 |
+| [Tomorrow And Tomorrow \(I Love You\)](https://open.spotify.com/track/7ctjgt6JxTwIEgZomTQprc) | [HOA](https://open.spotify.com/artist/2oz9zN3Vtp4RnFZOlsGNCu) | [Tomorrow And Tomorrow \(I Love You\)](https://open.spotify.com/album/4bqw5pP2tTe77BsCAfUtCZ) | 2:09 | 2026-01-26 |  |
 | [Tsunami](https://open.spotify.com/track/7fZ9GpxwteD6R1SNL8OPZa) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 3:51 | 2024-09-09 | 2025-10-08 |
 | [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/track/0n8UJLCCEu2cF0Zm2luIvn) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/album/0mz4JRi48KjxAbltvPTZIx) | 4:35 | 2025-12-16 |  |
 | [Tukar Lalu](https://open.spotify.com/track/6iVQIRPVzCUZwWI0Z3BJXp) | [bungareyza](https://open.spotify.com/artist/6HvcThrt4sOkqXk5oXb2QQ), [Dimansyah Laitupa](https://open.spotify.com/artist/6WrP3SWOhy8mjiONxXFEuB) | [Tukar Lalu](https://open.spotify.com/album/1sBuoGfIJ1AsnTqbodaKGw) | 4:06 | 2024-01-17 | 2024-09-13 |

@@ -17196,7 +17196,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 170509,
       "name": "I Wish I Knew",
       "url": "https://open.spotify.com/track/4h3Jv1QUjLLDoTRK5L72vt"
@@ -22668,6 +22668,24 @@
       "duration_ms": 146031,
       "name": "Monsieur Dior",
       "url": "https://open.spotify.com/track/47993TulzIDIq2Bgs5JqOz"
+    },
+    {
+      "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/5DgpaHyWM6B89XbJF4xD0K"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192700,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/5CaEp6RzYjqM6u45aG4Xa5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJQjo66KwDYO.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4md41gWw4iHeQrueXkPBmc">Dyo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27 likes - 62 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 28 likes - 62 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJQjo66KwDYO.md) - [plain]
 | 61 | [TRU RIDDIM](https://open.spotify.com/track/62pCWKXxzz85jX9lZ8cxAB) | [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Kenny Allstar](https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV) | [MOREFIRE 2](https://open.spotify.com/album/3ddg45dZCiS99mmdepomv4) | 2:28 |
 | 62 | [Never Speak \(feat\. Dyo & Moelogo\)](https://open.spotify.com/track/0IxYapIhhD1ofLxT2q46Dp) | [Kevin The Bear](https://open.spotify.com/artist/7csX8zBobpO7iDI59JfY3C), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Never Speak \(feat\. Dyo & Moelogo\)](https://open.spotify.com/album/5KPvNHiy9PiKkNQggvWtx2) | 1:51 |
 
-Snapshot ID: `AcH69gAAAAA46UAeqlE3foMmMs0Dr+z7`
+Snapshot ID: `AcIAoAAAAAA55uR4QCOK/XTYJBRhs3lc`

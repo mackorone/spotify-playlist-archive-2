@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: can’t be blue \(캔트비블루\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: JEONG HYO BEAN \(정효빈\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,219 songs - 3 day 1 hr 54 min
+1,222 songs - 3 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,6 +370,7 @@
 | [Gasoline](https://open.spotify.com/track/034saLwfjgOw6b1ZJoXcVF) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Gasoline](https://open.spotify.com/album/2dHJ1KKaHPxsn0N2snubdP) | 3:19 | 2024-07-16 | 2024-12-07 |
 | [Gentle Breeze](https://open.spotify.com/track/0gywQujjcGhh1XAjMkjhwd) | [OLIVER](https://open.spotify.com/artist/4WzpqecdwnCeWATK2UpssH) | [Gentle Breeze](https://open.spotify.com/album/5Cvj2fZ0NE49eYxq51UBvk) | 3:11 | 2021-12-21 | 2022-07-06 |
 | [GET LUCKY!](https://open.spotify.com/track/6dkx7yryrVpYxP75lNsy6j) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [GET LUCKY!](https://open.spotify.com/album/52sUuTeemfkKHHqwfMMzcm) | 3:40 | 2025-05-19 | 2025-06-05 |
+| [Getting Better Little By Little](https://open.spotify.com/track/4pGcdHIkxbuBkbLgE9TVh8) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [Our time that was flowing calmly Vol.2](https://open.spotify.com/album/7E0bbatgoKoATgfnrXiwMr) | 4:06 | 2026-01-26 |  |
 | [Getting the Season](https://open.spotify.com/track/66ZCqYrneHDfVoxE3cE5O0) | [Ryoni](https://open.spotify.com/artist/4i9PKdDoAnZi9xC9VhqbdM) | [Getting the Season](https://open.spotify.com/album/77DQNQ0pscdJwCI0uz9RtW) | 4:14 | 2022-03-31 | 2022-04-15 |
 | [Ghost](https://open.spotify.com/track/0q5MmAFd4oXY6vWeVsb8YE) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Ghost](https://open.spotify.com/album/2Snl4Z0vZx5hBaAwVP4dHf) | 3:15 | 2025-06-30 | 2025-07-05 |
 | [Ghost](https://open.spotify.com/track/5a2y94Llhp3q8geoPIMRzY) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Ghost](https://open.spotify.com/album/10Ya3OB3RQaayMRBkccptG) | 3:02 | 2024-12-19 | 2025-03-05 |
@@ -378,7 +379,7 @@
 | [girl in red](https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [girl in red](https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC) | 2:39 | 2022-07-08 | 2022-08-05 |
 | [Girl Scout](https://open.spotify.com/track/3S4u5vm5ThxB68vevwDDMH) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Good Luck To You, Girl Scout!](https://open.spotify.com/album/00DOgIzvYICsW0Wjc4UJGR) | 3:57 | 2021-12-21 | 2022-07-06 |
 | [Girl to a Bride](https://open.spotify.com/track/77oYxuIZpbKKRQC2DUtwkt) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [XOXO: Your Wedding Song](https://open.spotify.com/album/1VQ38HctrDL20BpOUHvf0y) | 3:26 | 2022-05-11 | 2022-06-09 |
-| [Girls](https://open.spotify.com/track/6lEc9x1r1AOxH5gltRUuLX) | [Naked Tapes](https://open.spotify.com/artist/0oivAG6IziMRhcAASDbP7p) | [Naked Tapes](https://open.spotify.com/album/1rY30zLb2loNmK4VpzouEY) | 3:11 | 2025-10-23 |  |
+| [Girls](https://open.spotify.com/track/6lEc9x1r1AOxH5gltRUuLX) | [Naked Tapes](https://open.spotify.com/artist/0oivAG6IziMRhcAASDbP7p) | [Naked Tapes](https://open.spotify.com/album/1rY30zLb2loNmK4VpzouEY) | 3:11 | 2025-10-23 | 2026-01-27 |
 | [Glass](https://open.spotify.com/track/6BDq5XtSslhP4at0eQwgOu) | [Coker](https://open.spotify.com/artist/1JIM8VyYhmiC1QzmBf2hUG) | [Glass](https://open.spotify.com/album/4rbNo5Zm3TLpKKZ4CawxLJ) | 3:56 | 2023-02-28 | 2023-03-28 |
 | [Gloomy melody](https://open.spotify.com/track/15iuJrhlEUDBjmeOyQsUTC) | [Wine Loop](https://open.spotify.com/artist/4z2d0OklqGzcncmNereISj) | [Gloomy melody](https://open.spotify.com/album/5Ir0Ou7xH6smsOdvdelFYo) | 2:38 | 2024-04-30 | 2024-05-10 |
 | [glow](https://open.spotify.com/track/5mZo3Q91x343f30VaNGN5q) | [ddbb](https://open.spotify.com/artist/1E4s0fq7husnFP7LVQCtPm) | [glow](https://open.spotify.com/album/4lVFscTohMpTPU2DLT0gyo) | 2:58 | 2025-06-23 | 2025-07-05 |
@@ -586,7 +587,7 @@
 | [Light \(Feat\. Junguk\)](https://open.spotify.com/track/77SWtlPS2Y4ijijx4Ucgbp) | [minzunki](https://open.spotify.com/artist/6gj5VZHLST9DF4D5LTek65), [Junguk](https://open.spotify.com/artist/0r0UiX83K8j121ilLGAX8k) | [Light \(Feat\. Junguk\)](https://open.spotify.com/album/5QqP080KIO26a5XvDNX2F5) | 3:49 | 2024-04-30 | 2024-05-10 |
 | [Lighthouse](https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Calibrate](https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y) | 3:45 | 2021-12-21 | 2025-08-27 |
 | [Like A Bird](https://open.spotify.com/track/6gFIpK79s3aMiJM2riCNw5) | [Kim Hyo Rin](https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp) | [Like A Bird](https://open.spotify.com/album/6cQzqYWaTGg6VLbb435eNg) | 3:00 | 2025-01-15 | 2025-03-15 |
-| [Like me, Love me, and](https://open.spotify.com/track/6nTdhFncoiNoJ0eCSoI3s1) | [DADADA](https://open.spotify.com/artist/2QJ3Y9xgZFulkgbDnteypu) | [Love me please](https://open.spotify.com/album/4SYPc5CQpm9ER2mzBNGYsi) | 3:52 | 2025-12-04 |  |
+| [Like me, Love me, and](https://open.spotify.com/track/6nTdhFncoiNoJ0eCSoI3s1) | [DADADA](https://open.spotify.com/artist/2QJ3Y9xgZFulkgbDnteypu) | [Love me please](https://open.spotify.com/album/4SYPc5CQpm9ER2mzBNGYsi) | 3:52 | 2025-12-04 | 2026-01-27 |
 | [Like my groove](https://open.spotify.com/track/2LpUmnpyrdsrGwjxFkUBVp) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx), [the orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Like my groove](https://open.spotify.com/album/7kcDdPNGDvR88xrU41QWlz) | 3:07 | 2022-08-18 | 2022-09-06 |
 | [Like the Sea, Like the River](https://open.spotify.com/track/4qZvldWN1IT5Y2rZ2QYbJX) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Like the Sea, Like the River](https://open.spotify.com/album/0nbyji1ac3ZqZ3aDFDirod) | 4:09 | 2025-11-19 | 2026-01-19 |
 | [Like today \(feat\. untell\)](https://open.spotify.com/track/10vUa2rFZmfA3WKmML7qye) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH), [untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8) | [MINGLE: 'Like today'](https://open.spotify.com/album/4xoSoQdnLy4DSwYR2vmZoG) | 2:28 | 2025-04-30 | 2025-05-19 |
@@ -852,6 +853,7 @@
 | [RUNAWAY \(feat\. Ha Hyun Sang\)](https://open.spotify.com/track/71Hn3PaliOazhlNKvig9MI) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y), [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [RUNAWAY \(feat\. Ha Hyun Sang\)](https://open.spotify.com/album/2nUctvyrurwUj4h5etWwNq) | 3:30 | 2024-06-12 | 2024-11-30 |
 | [S G T A P E \- 02](https://open.spotify.com/track/7jkdHQiiYHhBNAvZeKAeRA) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [S G T A P E \- 02](https://open.spotify.com/album/4ngTgk3EulbfnBvCKz1C0N) | 18:41 | 2025-01-02 | 2025-01-16 |
 | [Safety Distance](https://open.spotify.com/track/513DfQz8PCkHlnWcn1QeLJ) | [휘슬 \(Whistle\)](https://open.spotify.com/artist/6zZR8DsPLAROAhjBYRGROH) | [Safety Distance](https://open.spotify.com/album/2z1r6akTAwpd3f6bTWmJr9) | 3:47 | 2022-05-02 | 2022-05-12 |
+| [Sail](https://open.spotify.com/track/18VqjfMIdKa3Co07tmzNdI) | [JEONG HYO BEAN](https://open.spotify.com/artist/39mNLQ2I1Al3Ewrr9tTxhB) | [Marigold](https://open.spotify.com/album/1SNgh1tR8hdHrIwnsKy1pK) | 4:08 | 2026-01-26 |  |
 | [salty](https://open.spotify.com/track/6iFhant40mG0SZF1WBofEC) | [ddbb](https://open.spotify.com/artist/1E4s0fq7husnFP7LVQCtPm) | [salty heart](https://open.spotify.com/album/7zb17rxkTyZ5mHtGNs7ZS0) | 4:00 | 2025-01-30 | 2025-04-11 |
 | [Same Constellation 같은 별자리](https://open.spotify.com/track/3k8C88CZl8AP8fKysgS4Ug) | [lalasweet](https://open.spotify.com/artist/5i8AqrrtbwtPqzkavePQy1) | [Same Constellation 같은 별자리](https://open.spotify.com/album/5C5GOjn5IV3cz1VZiZZMWq) | 4:15 | 2022-03-31 | 2022-04-02 |
 | [Same 같아 \(With Marvin\)](https://open.spotify.com/track/3EsRJZrf0y1HUMywkQ85nW) | [Woo Chan Yang](https://open.spotify.com/artist/0qYNg9bwLffe5akdCzkGRj), [Marvin](https://open.spotify.com/artist/363B8ECJtLIGgkXrSPwPNr) | [EQUAL](https://open.spotify.com/album/5ZqIdPhee05PccRIL0fsux) | 3:26 | 2022-03-31 | 2022-04-18 |
@@ -884,7 +886,7 @@
 | [Should be you](https://open.spotify.com/track/2SJeAcqIJA2lSZldU4q27z) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [Prussian Blue](https://open.spotify.com/album/72ZbIoAzhg0ZRa9GIV2PkD) | 3:02 | 2026-01-19 |  |
 | [showtime](https://open.spotify.com/track/11Wb2mNcp7nKa2ZNpAuwoy) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [showtime](https://open.spotify.com/album/7vdRCKCLy1I5jGxyxFD0vl) | 3:12 | 2022-03-31 | 2022-04-19 |
 | [Shut Up & Dance](https://open.spotify.com/track/1SpYWY2oiXLGGhSaSjFV3t) | [Rock N Roll Radio](https://open.spotify.com/artist/5q8sAgfqjje2cq1taWtRK6) | [Shut Up and Dance](https://open.spotify.com/album/4jI7dsFQlBra0Jqu0Xd2OO) | 4:45 | 2025-07-23 | 2025-08-02 |
-| [Side by side](https://open.spotify.com/track/4sMRRM73otAmc4NjNiqJmE) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [VOL.08](https://open.spotify.com/album/7v7LGUgrXQibAVw7HTFZl2) | 5:06 | 2025-12-04 |  |
+| [Side by side](https://open.spotify.com/track/4sMRRM73otAmc4NjNiqJmE) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [VOL.08](https://open.spotify.com/album/7v7LGUgrXQibAVw7HTFZl2) | 5:06 | 2025-12-04 | 2026-01-27 |
 | [Silence](https://open.spotify.com/track/5bkf1sw9gqCNIFcRK7n4fu) | [PARKJIWOO](https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER) | [Silence](https://open.spotify.com/album/07E288F6ZcERFlP91gEGLQ) | 2:33 | 2022-03-31 | 2022-04-16 |
 | [Silk](https://open.spotify.com/track/0bBz0h34GjbI3qHepq3V8b) | [Shin Yujin](https://open.spotify.com/artist/47zMycCO60ysrkORth8xw6) | [흥](https://open.spotify.com/album/6Lhs9JUf9s36ln1m4pq9gp) | 4:08 | 2024-04-30 | 2024-05-10 |
 | [Silk Shirts](https://open.spotify.com/track/3bl93mbQhNgi1IIeqGoGtT) | [위댄스 Wedance](https://open.spotify.com/artist/70GGUtoiE6D1EAgpsbntuG) | [Silk Shirts](https://open.spotify.com/album/7noNduIlKshv6sSpWiB9st) | 4:54 | 2023-07-27 | 2023-08-25 |
@@ -986,6 +988,7 @@
 | [Surface](https://open.spotify.com/track/36ZlbORJkCV4wcC36IS6Zy) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Animation](https://open.spotify.com/album/678QsdsjapDnh9N9iCeFyp) | 3:46 | 2022-03-31 | 2022-04-07 |
 | [SURFER](https://open.spotify.com/track/394SLvh7rICTQKep7FnH5d) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [SURFER](https://open.spotify.com/album/1Vc4GVDQojuTTOXwoxu4T5) | 2:52 | 2021-12-21 | 2022-05-16 |
 | [Swan](https://open.spotify.com/track/6G0Kl2Fi4DalbsfbzuzMcD) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd), [I love you Orchestra Swing Style](https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls) | [Swan](https://open.spotify.com/album/0piGRjplHKONEbDxiHtdH2) | 3:27 | 2021-12-12 | 2022-07-29 |
+| [sway](https://open.spotify.com/track/78KWPtzyxqY36h1Z4OcgbJ) | [Tokai](https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT) | [shining.](https://open.spotify.com/album/7alBVFv3w8aOaSJYLIw8nD) | 3:11 | 2026-01-26 |  |
 | [Swim \- Virus Edit](https://open.spotify.com/track/5A2p3ewIaFMGpJN3P3L2hl) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Virus Mix](https://open.spotify.com/album/3eSzJfr41r54E9HS3AJXAV) | 3:27 | 2022-03-31 | 2022-04-20 |
 | [Swim In The Ocean](https://open.spotify.com/track/0UKegdEEbAmNYw1NMIGlwi) | [라라 Lara](https://open.spotify.com/artist/1FKYTUBCKMWh2JDdYdWObW) | [Swim In The Ocean](https://open.spotify.com/album/6XA4hSAXBT13DKgBowNZ26) | 4:01 | 2022-02-10 | 2022-04-05 |
 | [SWIMMING](https://open.spotify.com/track/5kBbwUU7azLeOlZl4pEsZG) | [HYEEUN](https://open.spotify.com/artist/1w2W3b2Z93RMJlygXigbNL) | [SWIMMING](https://open.spotify.com/album/4GcS4r0YR5LAuUoD5NMOTu) | 3:05 | 2021-12-21 | 2022-04-16 |

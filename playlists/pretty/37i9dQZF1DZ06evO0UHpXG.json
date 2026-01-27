@@ -1,12 +1,12 @@
 {
   "description": "This is Mot\u00f6rhead. The essential tracks, all in one playlist.",
-  "num_followers": 210237,
+  "num_followers": 210254,
   "original_name": "This Is Mot\u00f6rhead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXQLgAAAAABVfYqjOOy2Rt7ydPdkvaJC",
+  "snapshot_id": "aXVdAAAAAAAspxjpAZ6zA2FFbDumRzz5",
   "tracks": [
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "1916",
-        "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
+        "name": "Bad Magic",
+        "url": "https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 224640,
-      "name": "1916",
-      "url": "https://open.spotify.com/track/5gp9UXTiUKw0EbKdmdln9O"
+      "duration_ms": 186013,
+      "name": "Thunder & Lightning",
+      "url": "https://open.spotify.com/track/6qcdpwb8HuELdtekAB4v4c"
     },
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Magic",
-        "url": "https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ"
+        "name": "1916",
+        "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 186013,
-      "name": "Thunder & Lightning",
-      "url": "https://open.spotify.com/track/6qcdpwb8HuELdtekAB4v4c"
+      "duration_ms": 224640,
+      "name": "1916",
+      "url": "https://open.spotify.com/track/5gp9UXTiUKw0EbKdmdln9O"
     },
     {
       "added_at": null,

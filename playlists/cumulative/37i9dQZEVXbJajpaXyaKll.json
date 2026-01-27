@@ -8588,6 +8588,24 @@
     {
       "album": {
         "name": "Cuentame",
+        "url": "https://open.spotify.com/album/7bGyRGftGtG980UgmSJqQl"
+      },
+      "artists": [
+        {
+          "name": "Felix Record",
+          "url": "https://open.spotify.com/artist/1Agqp73nARz3vFG9HPogts"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212558,
+      "name": "Cuentame",
+      "url": "https://open.spotify.com/track/2lg4MDfkK2ya3dEAFu6Wh8"
+    },
+    {
+      "album": {
+        "name": "Cuentame",
         "url": "https://open.spotify.com/album/5Jwk906UhPr0ITtnkYXATX"
       },
       "artists": [
@@ -8598,7 +8616,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 212558,
       "name": "Cuentame",
       "url": "https://open.spotify.com/track/6eUUoqd1pGQKbJSRIolaIq"
@@ -12406,6 +12424,32 @@
       "duration_ms": 158441,
       "name": "Es Mi Culpa - Versi\u00f3n Cumbia",
       "url": "https://open.spotify.com/track/78OOLg1XsVW0QQkfHP2VEV"
+    },
+    {
+      "album": {
+        "name": "SPDV",
+        "url": "https://open.spotify.com/album/1B3MzLfXVeGPIhnqiEsuJt"
+      },
+      "artists": [
+        {
+          "name": "CLUB HATS",
+          "url": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
+        },
+        {
+          "name": "enzocerobulto",
+          "url": "https://open.spotify.com/artist/50AgI9ZGvGksnc7XcVmpSx"
+        },
+        {
+          "name": "Cl\u00faster",
+          "url": "https://open.spotify.com/artist/77T5XlEwCRjlmRIioW5OXB"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197031,
+      "name": "ES MIO",
+      "url": "https://open.spotify.com/track/0GSetWzuSciGAtvZVOmkCt"
     },
     {
       "album": {
@@ -18411,6 +18455,28 @@
     },
     {
       "album": {
+        "name": "kemujer",
+        "url": "https://open.spotify.com/album/5zUUfURgZfeogHRtIuFQRg"
+      },
+      "artists": [
+        {
+          "name": "One Flyt",
+          "url": "https://open.spotify.com/artist/2DB4gqzMQy1kvcHWgrNUgp"
+        },
+        {
+          "name": "Vasti Yan",
+          "url": "https://open.spotify.com/artist/0tE3bhmaIAbZugKSe1FTsX"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "kemujer",
+      "url": "https://open.spotify.com/track/0M329YMNtJagZn2pnnT0ua"
+    },
+    {
+      "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
@@ -19462,7 +19528,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 113543,
       "name": "La Vi Techengue",
       "url": "https://open.spotify.com/track/4d3nNm5cqJ2f2g44C7aP6P"
@@ -19541,7 +19607,7 @@
         },
         {
           "name": "Gangsta",
-          "url": "https://open.spotify.com/artist/6eJgkjqBphZi6C9CuyuC9U"
+          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
         }
       ],
       "date_added": "2025-12-29",
@@ -26116,7 +26182,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 210533,
       "name": "Ni\u00f1o",
       "url": "https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac"

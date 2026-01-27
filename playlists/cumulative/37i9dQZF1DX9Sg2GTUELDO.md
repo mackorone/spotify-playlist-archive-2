@@ -4,7 +4,7 @@
 
 > 感受女聲力量。Cover: Feanna 黃淑蔓
 
-626 songs - 1 day 13 hr 16 min
+627 songs - 1 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [不眠遊戲](https://open.spotify.com/track/6PfGFBlK0QaDqKMsKkPu7w) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [不眠遊戲](https://open.spotify.com/album/1enzZ6bT5hAGYKgY8yvalu) | 3:00 | 2024-06-27 | 2025-09-12 |
 | [不知從何說起](https://open.spotify.com/track/34KtBPByEHl33pIl2sv6vw) | [Miriam Yeung](https://open.spotify.com/artist/1rxk3vAYWeiBD2Q6FCezcl) | [不知從何說起](https://open.spotify.com/album/1QLMmF6LL3VKEs5DjNDItL) | 4:20 | 2025-12-18 |  |
 | [不羈](https://open.spotify.com/track/2ZIL1PtThR5tydXRb9cyJ3) | [CK 黃斯琪](https://open.spotify.com/artist/71nFssyAK21hrZo32OWnkX), [dorothy 劉君冬](https://open.spotify.com/artist/1qjsjBF6F451KY2MB5tSKQ) | [不羈](https://open.spotify.com/album/7A5B51z3ZBY8PGcXWV63cH) | 3:08 | 2024-06-27 | 2025-09-12 |
+| [不設底線](https://open.spotify.com/track/5TfPpQnakWggAh89odqMyM) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [不設底線](https://open.spotify.com/album/51bvqMRqKyAoJYWFQ9aBDD) | 3:37 | 2026-01-22 |  |
 | [不配](https://open.spotify.com/track/6GxZx3gflxPl8MHnJ0mcuc) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [不配](https://open.spotify.com/album/1vf0j6LdTJTJpaiAOoowXy) | 4:32 | 2024-06-27 | 2025-09-12 |
 | [世界上最爛的人](https://open.spotify.com/track/59ND4QiEy8N1b6lk7N1UJb) | [潘釗彤 Chiutung](https://open.spotify.com/artist/2Px5jRmWVyVOwuThsEW9DD) | [世界上最爛的人](https://open.spotify.com/album/01cV1F30pN7FEgqIVYhLMG) | 3:39 | 2025-10-16 |  |
 | [世界以痛吻我而我歌唱 \- Blooming Underwater Live 2023](https://open.spotify.com/track/4xppAcBGump7jNZRG9A75C) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [Blooming Underwater Live 2023](https://open.spotify.com/album/0BvkIZ2SL9gKirC5oKM1bx) | 4:13 | 2024-06-27 | 2025-09-12 |

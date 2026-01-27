@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: DAY LIMNS, Giana Mello",
-  "num_followers": 364845,
+  "num_followers": 364811,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2026-01-23 03:00:01",
       "album": {
+        "name": "antes que voc\u00ea v\u00e1",
+        "url": "https://open.spotify.com/album/6mDrodmxlJCr9iAFnEnDxD"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 160284,
+      "name": "antes que voc\u00ea v\u00e1",
+      "url": "https://open.spotify.com/track/4tM0ZCycym90cD9Xi4iVtD"
+    },
+    {
+      "added_at": "2026-01-23 03:00:01",
+      "album": {
         "name": "Perfumes e Cigarros",
         "url": "https://open.spotify.com/album/5oZDe1sGUZ2cLaMH0FuIVa"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 145237,
       "name": "Body Splash",
       "url": "https://open.spotify.com/track/04z79Yu5AMvCcxqZYJnmVf"
-    },
-    {
-      "added_at": "2026-01-23 03:00:01",
-      "album": {
-        "name": "Impostor",
-        "url": "https://open.spotify.com/album/77iNyQNV3cyrZLoaSUCJri"
-      },
-      "artists": [
-        {
-          "name": "CHAMELEO",
-          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "Impostor",
-      "url": "https://open.spotify.com/track/0jR7gMaE3Ohza0i2c463WU"
     },
     {
       "added_at": "2026-01-23 03:00:01",
@@ -431,18 +431,18 @@
     {
       "added_at": "2026-01-23 03:00:01",
       "album": {
-        "name": "antes que voc\u00ea v\u00e1",
-        "url": "https://open.spotify.com/album/6mDrodmxlJCr9iAFnEnDxD"
+        "name": "Impostor",
+        "url": "https://open.spotify.com/album/77iNyQNV3cyrZLoaSUCJri"
       },
       "artists": [
         {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
         }
       ],
-      "duration_ms": 160284,
-      "name": "antes que voc\u00ea v\u00e1",
-      "url": "https://open.spotify.com/track/4tM0ZCycym90cD9Xi4iVtD"
+      "duration_ms": 189600,
+      "name": "Impostor",
+      "url": "https://open.spotify.com/track/0jR7gMaE3Ohza0i2c463WU"
     },
     {
       "added_at": "2026-01-23 03:00:01",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-01-23 03:00:01",
       "album": {
-        "name": "Agarradinho - Spotify Singles",
-        "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
-      },
-      "artists": [
-        {
-          "name": "Enme",
-          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
-        }
-      ],
-      "duration_ms": 164494,
-      "name": "Agarradinho - Spotify Singles",
-      "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
-    },
-    {
-      "added_at": "2026-01-23 03:00:01",
-      "album": {
         "name": "N\u00e3o estou l\u00e1",
         "url": "https://open.spotify.com/album/2iQgYSXYdxXadFPmqEcX9L"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 163236,
       "name": "celebridade",
       "url": "https://open.spotify.com/track/4XsyZnz8hM3oa1MCXZlfFi"
+    },
+    {
+      "added_at": "2026-01-23 03:00:01",
+      "album": {
+        "name": "Agarradinho - Spotify Singles",
+        "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
+      },
+      "artists": [
+        {
+          "name": "Enme",
+          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
+        }
+      ],
+      "duration_ms": 164494,
+      "name": "Agarradinho - Spotify Singles",
+      "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
     },
     {
       "added_at": "2026-01-23 03:00:01",
@@ -683,6 +683,26 @@
       "duration_ms": 186461,
       "name": "Dilema",
       "url": "https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A"
+    },
+    {
+      "added_at": "2026-01-23 03:00:01",
+      "album": {
+        "name": "Quase",
+        "url": "https://open.spotify.com/album/60yKZCX7criKmfmYIblG4Z"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        },
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "duration_ms": 160016,
+      "name": "Quase",
+      "url": "https://open.spotify.com/track/59etIptmwHHugnoAAsNxvi"
     },
     {
       "added_at": "2026-01-23 03:00:01",
@@ -795,26 +815,6 @@
       "duration_ms": 194760,
       "name": "viciado em mim",
       "url": "https://open.spotify.com/track/7wEtrxQRf2BAWCCOuAPHVj"
-    },
-    {
-      "added_at": "2026-01-23 03:00:01",
-      "album": {
-        "name": "Quase",
-        "url": "https://open.spotify.com/album/60yKZCX7criKmfmYIblG4Z"
-      },
-      "artists": [
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        },
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        }
-      ],
-      "duration_ms": 160016,
-      "name": "Quase",
-      "url": "https://open.spotify.com/track/59etIptmwHHugnoAAsNxvi"
     },
     {
       "added_at": "2026-01-23 03:00:01",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-01-23 03:00:01",
       "album": {
+        "name": "Rota",
+        "url": "https://open.spotify.com/album/13o9DKnXs54uIwP1Rpv51S"
+      },
+      "artists": [
+        {
+          "name": "Hiosaki",
+          "url": "https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY"
+        }
+      ],
+      "duration_ms": 179256,
+      "name": "Rota",
+      "url": "https://open.spotify.com/track/4j15iyB0zfr6GVapJRJreF"
+    },
+    {
+      "added_at": "2026-01-23 03:00:01",
+      "album": {
         "name": "AMOR PROIBIDO",
         "url": "https://open.spotify.com/album/0yx6KV0T94PNSOyq4aYILS"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 142926,
       "name": "AMOR PROIBIDO",
       "url": "https://open.spotify.com/track/0IYpbxDn2SzqblvhHFYlgH"
-    },
-    {
-      "added_at": "2026-01-23 03:00:01",
-      "album": {
-        "name": "Rota",
-        "url": "https://open.spotify.com/album/13o9DKnXs54uIwP1Rpv51S"
-      },
-      "artists": [
-        {
-          "name": "Hiosaki",
-          "url": "https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY"
-        }
-      ],
-      "duration_ms": 179256,
-      "name": "Rota",
-      "url": "https://open.spotify.com/track/4j15iyB0zfr6GVapJRJreF"
     },
     {
       "added_at": "2026-01-23 03:00:01",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-01-23 03:00:01",
       "album": {
-        "name": "Fanfic de Ver\u00e3o",
-        "url": "https://open.spotify.com/album/5aBTrhLMY6qJSd8EuMrHvu"
-      },
-      "artists": [
-        {
-          "name": "GIOLI",
-          "url": "https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Fanfic de Ver\u00e3o",
-      "url": "https://open.spotify.com/track/6YWRrDa4bfEWL2Byx4Iwmm"
-    },
-    {
-      "added_at": "2026-01-23 03:00:01",
-      "album": {
         "name": "Vim de Longe",
         "url": "https://open.spotify.com/album/30Rtx6bJX8i9jPoYc48HJh"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2026-01-23 03:00:01",
       "album": {
-        "name": "Ecos do Desejo",
-        "url": "https://open.spotify.com/album/1D3f4CkQe0gklHKKxffj9C"
+        "name": "Fanfic de Ver\u00e3o",
+        "url": "https://open.spotify.com/album/5aBTrhLMY6qJSd8EuMrHvu"
       },
       "artists": [
         {
-          "name": "Mariana Coelho",
-          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
+          "name": "GIOLI",
+          "url": "https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd"
         }
       ],
-      "duration_ms": 146538,
-      "name": "Noites de Neon",
-      "url": "https://open.spotify.com/track/427JHB9CmpmxSten7B2isW"
+      "duration_ms": 160000,
+      "name": "Fanfic de Ver\u00e3o",
+      "url": "https://open.spotify.com/track/6YWRrDa4bfEWL2Byx4Iwmm"
     },
     {
       "added_at": "2026-01-23 03:00:01",
@@ -1427,6 +1411,22 @@
       "duration_ms": 146125,
       "name": "Seu Her\u00f3i",
       "url": "https://open.spotify.com/track/2SYg5OXAYvCkpJUsImBsnc"
+    },
+    {
+      "added_at": "2026-01-23 03:00:01",
+      "album": {
+        "name": "Ecos do Desejo",
+        "url": "https://open.spotify.com/album/1D3f4CkQe0gklHKKxffj9C"
+      },
+      "artists": [
+        {
+          "name": "Mariana Coelho",
+          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
+        }
+      ],
+      "duration_ms": 146538,
+      "name": "Noites de Neon",
+      "url": "https://open.spotify.com/track/427JHB9CmpmxSten7B2isW"
     },
     {
       "added_at": "2026-01-23 03:00:01",

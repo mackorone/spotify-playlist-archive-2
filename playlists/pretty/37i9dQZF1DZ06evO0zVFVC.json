@@ -1,12 +1,12 @@
 {
   "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
-  "num_followers": 112160,
+  "num_followers": 112167,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXQLgAAAAABz2l7Y4+K8s8qTCp1yKcbT",
+  "snapshot_id": "aXVdAAAAAAACubMy6r7qrqtITxiY8Ws7",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viva The Underdogs",
-        "url": "https://open.spotify.com/album/5wLd53vzbBM0TIa0NmwxGb"
+        "name": "Ire",
+        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
       },
       "artists": [
         {
           "name": "Parkway Drive",
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        },
-        {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
         }
       ],
-      "duration_ms": 230364,
-      "name": "Schattenboxen",
-      "url": "https://open.spotify.com/track/0fP3R18uL3KgJabqm5Crja"
+      "duration_ms": 287340,
+      "name": "Destroyer",
+      "url": "https://open.spotify.com/track/19STBV8KgQ5TqoYbio5Ewm"
     },
     {
       "added_at": null,
@@ -483,18 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ire",
-        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
+        "name": "Viva The Underdogs",
+        "url": "https://open.spotify.com/album/5wLd53vzbBM0TIa0NmwxGb"
       },
       "artists": [
         {
           "name": "Parkway Drive",
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        },
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
         }
       ],
-      "duration_ms": 287340,
-      "name": "Destroyer",
-      "url": "https://open.spotify.com/track/19STBV8KgQ5TqoYbio5Ewm"
+      "duration_ms": 230364,
+      "name": "Schattenboxen",
+      "url": "https://open.spotify.com/track/0fP3R18uL3KgJabqm5Crja"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
       "duration_ms": 248453,
       "name": "Home Is For The Heartless",
       "url": "https://open.spotify.com/track/2mvi7qtDNLuh25oOcHVEOk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ire",
+        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 263962,
+      "name": "Writings on the Wall",
+      "url": "https://open.spotify.com/track/4gkl7JKIBa2aM18Vm6tfAp"
     },
     {
       "added_at": null,
@@ -543,22 +559,6 @@
       "duration_ms": 206374,
       "name": "Devil's Calling",
       "url": "https://open.spotify.com/track/3ysvcWkYJfyA51ieNhiKA8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ire",
-        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 263962,
-      "name": "Writings on the Wall",
-      "url": "https://open.spotify.com/track/4gkl7JKIBa2aM18Vm6tfAp"
     },
     {
       "added_at": null,

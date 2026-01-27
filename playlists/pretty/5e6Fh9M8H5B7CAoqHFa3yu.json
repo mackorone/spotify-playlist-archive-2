@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 247,
+  "num_followers": 249,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAH74el2nH6tDHyjHR8c7MjETgDsjq0",
+  "snapshot_id": "AAAH8o0p3PeR0hq8ZntVH+qiz8fBLRZY",
   "tracks": [
     {
       "added_at": "2026-01-21 01:10:56",
@@ -31063,6 +31063,22 @@
       "duration_ms": 170898,
       "name": "Tu Alma",
       "url": "https://open.spotify.com/track/5wrWG4D0EtdwY7LBy5J16X"
+    },
+    {
+      "added_at": "2026-01-26 19:32:00",
+      "album": {
+        "name": "Vienna",
+        "url": "https://open.spotify.com/album/37LrPY0zy6GPUWWKwVCGHq"
+      },
+      "artists": [
+        {
+          "name": "Teezee",
+          "url": "https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D"
+        }
+      ],
+      "duration_ms": 146461,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/0PCzNRFKGyraIzhkmMKHrJ"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

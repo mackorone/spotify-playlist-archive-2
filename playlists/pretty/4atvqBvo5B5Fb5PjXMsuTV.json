@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 25 Jan 04:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 26 Jan 19:03 UTC.",
   "num_followers": 104,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAXWRYRfyHhrHCtPRsckDWx26To7TXS",
+  "snapshot_id": "AAAXYefJlETDdU8O4xFz4TbkIelJtupb",
   "tracks": [
     {
       "added_at": "2026-01-23 19:04:28",
@@ -137,6 +137,22 @@
       "url": "https://open.spotify.com/track/6jQvu4OsiBg3NXQFQI3r1B"
     },
     {
+      "added_at": "2026-01-26 04:03:44",
+      "album": {
+        "name": "Rivals and Equals",
+        "url": "https://open.spotify.com/album/1DZRcae6Y7l75XoPqj0eYh"
+      },
+      "artists": [
+        {
+          "name": "Mori Calliope",
+          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
+        }
+      ],
+      "duration_ms": 151533,
+      "name": "Rivals and Equals",
+      "url": "https://open.spotify.com/track/1pUcAjkI2SDa81ky3g7bAD"
+    },
+    {
       "added_at": "2026-01-23 09:05:48",
       "album": {
         "name": "To Love Somebody",
@@ -153,6 +169,26 @@
       "url": "https://open.spotify.com/track/3vzGF0Wj2cnUPPRaDq9sHO"
     },
     {
+      "added_at": "2026-01-26 19:03:31",
+      "album": {
+        "name": "Puddles (Zero 7 Remix)",
+        "url": "https://open.spotify.com/album/5nFqFdG8YfUPg5GMgDPIET"
+      },
+      "artists": [
+        {
+          "name": "Not for Radio",
+          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
+        },
+        {
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+        }
+      ],
+      "duration_ms": 361662,
+      "name": "Puddles - Zero 7 Remix",
+      "url": "https://open.spotify.com/track/5gKZloxCvhFXNuLSZYryIU"
+    },
+    {
       "added_at": "2026-01-23 09:05:48",
       "album": {
         "name": "iPhone 16",
@@ -167,6 +203,22 @@
       "duration_ms": 231728,
       "name": "iPhone 16",
       "url": "https://open.spotify.com/track/1m2uFz0LKl3jyniLBrUzGq"
+    },
+    {
+      "added_at": "2026-01-26 04:03:44",
+      "album": {
+        "name": "Break Me In",
+        "url": "https://open.spotify.com/album/3qAQ2awAKHXsu0SKTKR0Wg"
+      },
+      "artists": [
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        }
+      ],
+      "duration_ms": 172506,
+      "name": "Break Me In",
+      "url": "https://open.spotify.com/track/6cIvHcpTltaYZP2FkbQWMr"
     },
     {
       "added_at": "2026-01-23 09:05:48",
@@ -273,6 +325,22 @@
       "url": "https://open.spotify.com/track/1jWjsj9YKDoYhTVoZnSivY"
     },
     {
+      "added_at": "2026-01-26 14:03:42",
+      "album": {
+        "name": "Rakkaudenkipee",
+        "url": "https://open.spotify.com/album/2GojwnBicLHPaakAexrwG7"
+      },
+      "artists": [
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF"
+        }
+      ],
+      "duration_ms": 174044,
+      "name": "Rakkaudenkipee",
+      "url": "https://open.spotify.com/track/2aWi2TIoTMu83w6zagrnzx"
+    },
+    {
       "added_at": "2026-01-23 14:04:22",
       "album": {
         "name": "Flo Jackson",
@@ -303,6 +371,22 @@
       "duration_ms": 281886,
       "name": "CLOUD CORE",
       "url": "https://open.spotify.com/track/4Ib0PEx6jncDWDBDIhgw7C"
+    },
+    {
+      "added_at": "2026-01-26 14:03:42",
+      "album": {
+        "name": "SiiMP",
+        "url": "https://open.spotify.com/album/2lDZpLP9gatrBqPwM8wBMO"
+      },
+      "artists": [
+        {
+          "name": "SEBii",
+          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
+        }
+      ],
+      "duration_ms": 135103,
+      "name": "SiiMP",
+      "url": "https://open.spotify.com/track/67QBCvKf89W0L84beo3beo"
     },
     {
       "added_at": "2026-01-24 19:03:47",
@@ -387,6 +471,22 @@
       "duration_ms": 245358,
       "name": "Dead End",
       "url": "https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4"
+    },
+    {
+      "added_at": "2026-01-26 09:04:16",
+      "album": {
+        "name": "WAP",
+        "url": "https://open.spotify.com/album/31MEsn4KWtE3df8NrV8zqz"
+      },
+      "artists": [
+        {
+          "name": "The Claypool Lennon Delirium",
+          "url": "https://open.spotify.com/artist/2yUsje7CszKGu4g1f4ih3b"
+        }
+      ],
+      "duration_ms": 302080,
+      "name": "WAP",
+      "url": "https://open.spotify.com/track/24c9lTKJpHjHOkFr6FLrkU"
     },
     {
       "added_at": "2026-01-19 23:05:01",
@@ -743,102 +843,6 @@
       "duration_ms": 212674,
       "name": "Belladona",
       "url": "https://open.spotify.com/track/065QdMHr2KoPSxtcli0fGC"
-    },
-    {
-      "added_at": "2026-01-18 14:04:08",
-      "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/1yz0XQiokSATLkqDCqgBnO"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/3E1R7Y8GnRHJcLPelaiiWI"
-    },
-    {
-      "added_at": "2026-01-16 04:02:59",
-      "album": {
-        "name": "Roommates",
-        "url": "https://open.spotify.com/album/2nNElH8jprrtk67FtK0I2v"
-      },
-      "artists": [
-        {
-          "name": "Hilary Duff",
-          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
-        }
-      ],
-      "duration_ms": 172749,
-      "name": "Roommates",
-      "url": "https://open.spotify.com/track/41NPpWsUgF7D6t3jNQcEz5"
-    },
-    {
-      "added_at": "2026-01-16 04:02:59",
-      "album": {
-        "name": "Into Oblivion",
-        "url": "https://open.spotify.com/album/5SVfHoZLhj58lAJzl2iD9g"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 214723,
-      "name": "Into Oblivion",
-      "url": "https://open.spotify.com/track/0bUxpdWMazVZv1f7TSNSCW"
-    },
-    {
-      "added_at": "2026-01-16 04:02:59",
-      "album": {
-        "name": "Not Enough",
-        "url": "https://open.spotify.com/album/4iPdqqlQoDwpsarVVgGmHu"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 191240,
-      "name": "Not Enough",
-      "url": "https://open.spotify.com/track/1GgAQK7vuuydUdSn7uJFFT"
-    },
-    {
-      "added_at": "2026-01-15 19:03:40",
-      "album": {
-        "name": "w-w-w-w-w",
-        "url": "https://open.spotify.com/album/5wICjFM6k0RJow9l8anfuk"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 266906,
-      "name": "w-w-w-w-w",
-      "url": "https://open.spotify.com/track/65ELRFojRCRWHEyYDA5AQd"
-    },
-    {
-      "added_at": "2026-01-20 19:04:16",
-      "album": {
-        "name": "Prayer",
-        "url": "https://open.spotify.com/album/4DkMUoCLqAKVOBDEoItt4Q"
-      },
-      "artists": [
-        {
-          "name": "Tove Styrke",
-          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
-        }
-      ],
-      "duration_ms": 326068,
-      "name": "Prayer",
-      "url": "https://open.spotify.com/track/0Ckx0xDsZIstBX0YMamLc5"
     }
   ],
   "unique_name": "New Singles Now",

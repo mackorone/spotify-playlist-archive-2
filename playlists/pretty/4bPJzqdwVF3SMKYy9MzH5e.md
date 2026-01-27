@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,304 songs - 5 day 3 hr 30 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,305 songs - 5 day 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2312,5 +2312,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2302 | [ps \(jinxed\)](https://open.spotify.com/track/6ZdVHLj96I98LWvGPRAz0S) | [deathpharmacy](https://open.spotify.com/artist/7L7iCykLVCs6c7Ryeb2ZcB) | [symphonic](https://open.spotify.com/album/0giTt8zHvxCPAYgATfhaw2) | 2:13 |
 | 2303 | [A Nigga Bleed Kush](https://open.spotify.com/track/6eGOWU1vszBPkR8n6LYFsr) | [Ruben Slikk](https://open.spotify.com/artist/3eA5bk40aoRHxAyywgOaOa) | [King Astro Slikk The Magnificent](https://open.spotify.com/album/61MJzlDp5y4fFbsqmLpis7) | 2:37 |
 | 2304 | [think of you](https://open.spotify.com/track/0phoyYg8cCu9nQfrjuIyxX) | [NEW YORK](https://open.spotify.com/artist/6SLzOcVFLuSRuJ0DNOpz0Z) | [think of you / 2am](https://open.spotify.com/album/4z6TTItKzcy42zvgdarCX7) | 4:07 |
+| 2305 | [Alpha Wheel](https://open.spotify.com/track/3s3FAfyclFcd4Z5VJFXyyf) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Levitate](https://open.spotify.com/album/099BTOPRjbK5l6bCNfx4bM) | 3:18 |
 
-Snapshot ID: `AAAE/Sq7bGivo56Cqp/BCC+1X8e+cU06`
+Snapshot ID: `AAAE/pLVsmeCfobdS3zndfN6fOJsxzuE`

@@ -2,7 +2,7 @@
 
 ### [Pop All Day](https://open.spotify.com/playlist/37i9dQZF1DXarRysLJmuju)
 
-> Today’s pop, plugged into the culture\. Cover: Louis Tomlison
+> Today’s pop, plugged into the culture\. Cover: Louis Tomlinson
 
 2,728 songs - 5 day 18 hr 1 min
 

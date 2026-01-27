@@ -1,12 +1,12 @@
 {
   "description": "This is Laufey. The essential tracks, all in one playlist.",
-  "num_followers": 347170,
+  "num_followers": 347262,
   "original_name": "This Is Laufey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXQLgAAAAAASPI+5jygamjSxVWowml3/",
+  "snapshot_id": "aXVdAAAAAAAO9SI/F4BvDYwjx6YkQRwg",
   "tracks": [
     {
       "added_at": null,
@@ -471,18 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Someone New",
-        "url": "https://open.spotify.com/album/1OdANZQlB2kBHw4dFjIiii"
+        "name": "Love Flew Away",
+        "url": "https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k"
       },
       "artists": [
         {
           "name": "Laufey",
           "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/1trLEhC9nDvvj36MfnlwcJ"
+      "duration_ms": 147346,
+      "name": "Love Flew Away",
+      "url": "https://open.spotify.com/track/5Uro6tis4oexrT4Po1q71H"
     },
     {
       "added_at": null,
@@ -503,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Flew Away",
-        "url": "https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k"
+        "name": "Someone New",
+        "url": "https://open.spotify.com/album/1OdANZQlB2kBHw4dFjIiii"
       },
       "artists": [
         {
           "name": "Laufey",
           "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
         }
       ],
-      "duration_ms": 147346,
-      "name": "Love Flew Away",
-      "url": "https://open.spotify.com/track/5Uro6tis4oexrT4Po1q71H"
+      "duration_ms": 198000,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/1trLEhC9nDvvj36MfnlwcJ"
     },
     {
       "added_at": null,

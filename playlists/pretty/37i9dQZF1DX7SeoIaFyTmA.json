@@ -1,6 +1,6 @@
 {
   "description": "Timeless Salsa from your favorite legends.",
-  "num_followers": 1486544,
+  "num_followers": 1486722,
   "original_name": "Salsa Classics",
   "owner": {
     "name": "Spotify",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2025-03-07 05:00:25",
       "album": {
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 351813,
+      "name": "Esa Mujer",
+      "url": "https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI"
+    },
+    {
+      "added_at": "2025-03-07 05:00:25",
+      "album": {
         "name": "Este Negro Si Es Sabroso",
         "url": "https://open.spotify.com/album/6A51mg1zfnQj0aTLfh9uZy"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 284653,
       "name": "Fuego En El 23",
       "url": "https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el"
-    },
-    {
-      "added_at": "2025-03-07 05:00:25",
-      "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 351813,
-      "name": "Esa Mujer",
-      "url": "https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI"
     },
     {
       "added_at": "2025-03-07 05:00:25",

@@ -7013,6 +7013,44 @@
     },
     {
       "album": {
+        "name": "Chat\u00e3o",
+        "url": "https://open.spotify.com/album/6qtdLyhX199LWgKEBLwgkc"
+      },
+      "artists": [
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "DJ Oreia",
+          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
+        },
+        {
+          "name": "Mc DR",
+          "url": "https://open.spotify.com/artist/02RhvXTIhg46MyWF8yN6GG"
+        },
+        {
+          "name": "Gubeatz",
+          "url": "https://open.spotify.com/artist/3onpHCaIChS7saQn7fYncx"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314880,
+      "name": "Chat\u00e3o",
+      "url": "https://open.spotify.com/track/5jXXQY6LLlEtEWMDL6XcaP"
+    },
+    {
+      "album": {
         "name": "Chega E Senta (Ao Vivo)",
         "url": "https://open.spotify.com/album/0eziIhq1gZZXL7sfS5E1aS"
       },
@@ -32662,7 +32700,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 126800,
       "name": "Talvez voc\u00ea precise de mim",
       "url": "https://open.spotify.com/track/2De1EHbIhepIVLHZ16bySE"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CT4e4.md) - [plain]
 
 > This is Arvo Pärt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,349 likes - 50 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,352 likes - 50 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CT4e4.md) - [plain]
 | 45 | [2 Sonatinas for Piano, Op\. 1 No\. 1: II\. Larghetto](https://open.spotify.com/track/22PAROCzns7nT8CIOnW4JA) | [Georgijs Osokins](https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO), [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg) | [For Arvo](https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6) | 3:14 |
 | 46 | [Vater Unser \(Arr\. for trombone & string ensemble\)](https://open.spotify.com/track/0mslCUgV2EULxe5BhwYHaU) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Camerata RCO](https://open.spotify.com/artist/7oeMiCBtLMf4mMrqezpyVj) | [Silentium](https://open.spotify.com/album/0yy8tXDKjL8JG9AD99MDwQ) | 3:30 |
 | 47 | [Summa](https://open.spotify.com/track/3QhZeB8kHijuxEMcWdVA5C) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF), [Nigel Short](https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN) | [Serenity \- The Beauty Of Arvo Pärt](https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY) | 5:00 |
-| 48 | [Spiegel im Spiegel \(Version for Viola and Piano\)](https://open.spotify.com/track/3MAnojiEATIIumGcGs4scv) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1) | [Pärt: Spiegel im Spiegel \(Version for Viola and Piano\)](https://open.spotify.com/album/0T8bDngTQL8ZEatwhEbtRZ) | 12:30 |
-| 49 | [Kanon Pokajanen: Ode VI](https://open.spotify.com/track/2PNEEvDHAGdslbD03Mjj4i) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Estonian Philharmonic Chamber Choir](https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a), [Tõnu Kaljuste](https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT) | [Arvo Pärt: Kanon Pokajanen](https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy) | 8:18 |
+| 48 | [Kanon Pokajanen: Ode VI](https://open.spotify.com/track/2PNEEvDHAGdslbD03Mjj4i) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Estonian Philharmonic Chamber Choir](https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a), [Tõnu Kaljuste](https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT) | [Arvo Pärt: Kanon Pokajanen](https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy) | 8:18 |
+| 49 | [Spiegel im Spiegel \(Version for Viola and Piano\)](https://open.spotify.com/track/3MAnojiEATIIumGcGs4scv) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1) | [Pärt: Spiegel im Spiegel \(Version for Viola and Piano\)](https://open.spotify.com/album/0T8bDngTQL8ZEatwhEbtRZ) | 12:30 |
 | 50 | [Symphony No\. 4 "Los Angeles": III\. Insistentemente – Con intimo sentimento – Deciso](https://open.spotify.com/track/0BYRoMmBnczcHdhOwHqyAq) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [NFM Wrocław Philharmonic](https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h), [Tõnu Kaljuste](https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT) | [Arvo Pärt: The Symphonies](https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF) | 8:08 |
 
-Snapshot ID: `aXQLgAAAAADoGIkVUFvmGpvuStRTVjGe`
+Snapshot ID: `aXVdAAAAAAAibmJb9F/o/LgNPoscevsE`

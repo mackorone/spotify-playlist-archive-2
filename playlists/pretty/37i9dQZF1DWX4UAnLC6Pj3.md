@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Gerardo Coronel 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,289,200 likes - 95 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,289,299 likes - 95 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 55 | [La Cuca](https://open.spotify.com/track/3HxaNhXgyvGeWy23l6kqS8) | [COSME TADEO](https://open.spotify.com/artist/5QdiBib4DcTwhC2ayhRyK6) | [La Cuca](https://open.spotify.com/album/7G90dGVQT5axRxHM9zUN3p) | 2:54 |
 | 56 | [Me la Pelan](https://open.spotify.com/track/3uKB59qvKbrZDF7mcusl0i) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk), [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG) | [Me la Pelan](https://open.spotify.com/album/3gWvHNH1bjOjeENNQRhg93) | 3:06 |
 | 57 | [De Nuestro Amor No Queda Nada](https://open.spotify.com/track/3DvFmNLmpfBNxe1CC7uOGj) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [De Nuestro Amor No Queda Nada](https://open.spotify.com/album/2Djiz5Ch5BEDfK8TwNpLEt) | 3:35 |
-| 58 | [Te amo y te amaré](https://open.spotify.com/track/6jDO7AeD5w2YlRqrH0ONVy) | [Decibel Norteño](https://open.spotify.com/artist/2CADP4a67sWx3GN3lJ9Wgu) | [Te amo y te amaré](https://open.spotify.com/album/4m7YV1cz8QGOegGkHZVGr3) | 4:13 |
-| 59 | [El Amor De Mi Vida](https://open.spotify.com/track/1hmB7TppstlMpwQLUsdbDB) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [60 Aniversario: El Legado Continúa](https://open.spotify.com/album/0dIogYaSGCLU5fiVJMin26) | 2:12 |
-| 60 | [Un Ramo de Rosas](https://open.spotify.com/track/0h8fz27ck5IyqAcUQXo9XP) | [Toño Lizarraga](https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv) | [Un Ramo de Rosas](https://open.spotify.com/album/3vhWVRgFPG5OeaZ9hPbuGV) | 2:20 |
+| 58 | [Un Ramo de Rosas](https://open.spotify.com/track/0h8fz27ck5IyqAcUQXo9XP) | [Toño Lizarraga](https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv) | [Un Ramo de Rosas](https://open.spotify.com/album/3vhWVRgFPG5OeaZ9hPbuGV) | 2:20 |
+| 59 | [Te amo y te amaré](https://open.spotify.com/track/6jDO7AeD5w2YlRqrH0ONVy) | [Decibel Norteño](https://open.spotify.com/artist/2CADP4a67sWx3GN3lJ9Wgu) | [Te amo y te amaré](https://open.spotify.com/album/4m7YV1cz8QGOegGkHZVGr3) | 4:13 |
+| 60 | [El Amor De Mi Vida](https://open.spotify.com/track/1hmB7TppstlMpwQLUsdbDB) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [60 Aniversario: El Legado Continúa](https://open.spotify.com/album/0dIogYaSGCLU5fiVJMin26) | 2:12 |
 | 61 | [Mi Eterno Amor Secreto \- En Vivo](https://open.spotify.com/track/4sgnaYVRuB5zB3kb8BlR5o) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3) | [El Flaco y Sus Amigos: Auditorios \(En Vivo\)](https://open.spotify.com/album/2Pn0XWh0ElBVOAf8GpypOs) | 3:39 |
 | 62 | [Me Odias, Me Amas](https://open.spotify.com/track/0wg7D7tP3RP00y2usvzGzh) | [Banda la Prendida de Mazatlán Sinaloa](https://open.spotify.com/artist/5OYx5L5lbYz1TsmQJQe1S9), [Juan Pablo González](https://open.spotify.com/artist/3DXP2XosGddRWF8Z3vR9bJ) | [Me Odias, Me amas](https://open.spotify.com/album/1Zqn4h4O5WjigMMr4J8laX) | 3:05 |
 | 63 | [Llora Mi Corazón](https://open.spotify.com/track/7KizzILawBFV7p22x4NwPe) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Llora Mi Corazón](https://open.spotify.com/album/6bXcXZ5khN7Nr696kNobCG) | 3:36 |

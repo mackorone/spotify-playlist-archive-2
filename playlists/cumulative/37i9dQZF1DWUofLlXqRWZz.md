@@ -4,7 +4,7 @@
 
 > This is Ludovico Einaudi\. The essential tracks, all in one playlist.
 
-84 songs - 6 hr 50 min
+85 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Luminous](https://open.spotify.com/track/0UOMGdqvwCRGoEhXEJp78U) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 4:43 | 2025-01-10 |  |
 | [Main Theme \- From “The Third Murder” / Remastered 2020](https://open.spotify.com/track/5DnGfYbDeSBgO0FsKxbap9) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Undiscovered](https://open.spotify.com/album/13N7JjBSjtRhNZwf6FpsLn) | 4:15 | 2025-01-10 |  |
 | [Mali Sajio \- Remastered 2020](https://open.spotify.com/track/4eahzSYAV6C8h97j4HDFqq) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [Undiscovered](https://open.spotify.com/album/13N7JjBSjtRhNZwf6FpsLn) | 7:55 | 2025-01-10 |  |
+| [Memory One](https://open.spotify.com/track/0P50q9EN9dWgsevY832RR2) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Memory One](https://open.spotify.com/album/0avo6QxBGhdIPxc9PTn2sG) | 4:23 | 2026-01-26 |  |
 | [Monday](https://open.spotify.com/track/0HP4vsKq0Scd09VmxTAV83) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Islands \- Essential Einaudi \(Deluxe Version\)](https://open.spotify.com/album/0Evwg6qRqIUgGDTs82Gbea) | 5:55 | 2025-01-10 |  |
 | [Natural Light](https://open.spotify.com/track/1kKbVnjBHvRSMJUsNOQp2h) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 5:35 | 2025-01-10 |  |
 | [Nefeli](https://open.spotify.com/track/7e8LqJVVKrXFYd4vj9jYdu) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Islands \- Essential Einaudi](https://open.spotify.com/album/7k1Ki5pYinGM3lME2Tv3AM) | 4:30 | 2025-01-10 |  |

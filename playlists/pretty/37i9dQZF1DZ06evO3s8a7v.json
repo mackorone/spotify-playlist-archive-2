@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXQLgAAAAABsaMJZUkhXchYb8V6pvAx/",
+  "snapshot_id": "aXVdAAAAAABGZrBhfq5+TVEglEmTjfPs",
   "tracks": [
     {
       "added_at": null,
@@ -311,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAL DE AMOR",
-        "url": "https://open.spotify.com/album/1PJGPDQCUfl18e5C3to1Uk"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 221270,
-      "name": "MAL DE AMOR",
-      "url": "https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Insta (Remix)",
         "url": "https://open.spotify.com/album/6MZFJuzRUr28x1Fxs3sJxp"
       },
@@ -359,6 +339,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MAL DE AMOR",
+        "url": "https://open.spotify.com/album/1PJGPDQCUfl18e5C3to1Uk"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 221270,
+      "name": "MAL DE AMOR",
+      "url": "https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BIKINI",
         "url": "https://open.spotify.com/album/5tEiAxgDVpRsvWPNbq3l4E"
       },
@@ -383,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiero Llorar",
-        "url": "https://open.spotify.com/album/5hRIZ1HQpBJIuU1x0FQPJP"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 201722,
-      "name": "Quiero Llorar",
-      "url": "https://open.spotify.com/track/2GYNtFzTPxPDvDGpaaRrQs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUENA MYA!",
         "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 210000,
       "name": "Te Quiero X Eso",
       "url": "https://open.spotify.com/track/6NoQKWwnt1abnNqEnFtHmi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiero Llorar",
+        "url": "https://open.spotify.com/album/5hRIZ1HQpBJIuU1x0FQPJP"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 201722,
+      "name": "Quiero Llorar",
+      "url": "https://open.spotify.com/track/2GYNtFzTPxPDvDGpaaRrQs"
     },
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuiste M\u00eda",
-        "url": "https://open.spotify.com/album/3GRdrDwDPTg8jNjejST5ZW"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 224098,
-      "name": "Fuiste M\u00eda",
-      "url": "https://open.spotify.com/track/1Nf60AnYxFl1xvZo12FZOV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MYA LIVE P1: Chanel de Coco",
         "url": "https://open.spotify.com/album/6nHqLPHzm3hCdj7ptJArlZ"
       },
@@ -555,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLANCO Y NEGRO",
-        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
+        "name": "Fuiste M\u00eda",
+        "url": "https://open.spotify.com/album/3GRdrDwDPTg8jNjejST5ZW"
       },
       "artists": [
         {
@@ -564,17 +544,13 @@
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         },
         {
-          "name": "Agus Bernasconi",
-          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
-        },
-        {
-          "name": "Maxi Espindola",
-          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
         }
       ],
-      "duration_ms": 170020,
-      "name": "BLANCO Y NEGRO",
-      "url": "https://open.spotify.com/track/0JOlK42EFo4ulGEQQzAPVC"
+      "duration_ms": 224098,
+      "name": "Fuiste M\u00eda",
+      "url": "https://open.spotify.com/track/1Nf60AnYxFl1xvZo12FZOV"
     },
     {
       "added_at": null,
@@ -619,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legendaria",
-        "url": "https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Legendaria",
-      "url": "https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BLANCO Y NEGRO",
         "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
       },
@@ -656,9 +612,29 @@
           "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
-      "duration_ms": 186787,
-      "name": "LUNAR",
-      "url": "https://open.spotify.com/track/23D1x2HJbnNEXrkWhxRoB6"
+      "duration_ms": 170020,
+      "name": "BLANCO Y NEGRO",
+      "url": "https://open.spotify.com/track/0JOlK42EFo4ulGEQQzAPVC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legendaria",
+        "url": "https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Legendaria",
+      "url": "https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ"
     },
     {
       "added_at": null,
@@ -707,6 +683,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "BLANCO Y NEGRO",
+        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
+        }
+      ],
+      "duration_ms": 186787,
+      "name": "LUNAR",
+      "url": "https://open.spotify.com/track/23D1x2HJbnNEXrkWhxRoB6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Bailo Pa Ti",
         "url": "https://open.spotify.com/album/2qzobqLuiyFRIMF9FyRHip"
       },
@@ -727,30 +727,6 @@
       "duration_ms": 171816,
       "name": "No Bailo Pa Ti",
       "url": "https://open.spotify.com/track/5tCWZXTFstxYy1BoF7q6J6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLANCO Y NEGRO",
-        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Agus Bernasconi",
-          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
-        },
-        {
-          "name": "Maxi Espindola",
-          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
-        }
-      ],
-      "duration_ms": 171504,
-      "name": "SI PUDIERA",
-      "url": "https://open.spotify.com/track/4kUvzZDRjf8rCbZZ9ieoGB"
     },
     {
       "added_at": null,
@@ -799,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apenas Son Las 12",
-        "url": "https://open.spotify.com/album/6z64zBqAHQNgsY45m84GdX"
-      },
-      "artists": [
-        {
-          "name": "RUGGERO",
-          "url": "https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz"
-        },
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 178912,
-      "name": "Apenas Son Las 12",
-      "url": "https://open.spotify.com/track/0HZOsiHrGJ8F1VEe6yCGr7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BLANCO Y NEGRO",
         "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
       },
@@ -836,9 +792,29 @@
           "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
-      "duration_ms": 156812,
-      "name": "EL PROCESO",
-      "url": "https://open.spotify.com/track/08wWsajr5heXuF9vFYX92f"
+      "duration_ms": 171504,
+      "name": "SI PUDIERA",
+      "url": "https://open.spotify.com/track/4kUvzZDRjf8rCbZZ9ieoGB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apenas Son Las 12",
+        "url": "https://open.spotify.com/album/6z64zBqAHQNgsY45m84GdX"
+      },
+      "artists": [
+        {
+          "name": "RUGGERO",
+          "url": "https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 178912,
+      "name": "Apenas Son Las 12",
+      "url": "https://open.spotify.com/track/0HZOsiHrGJ8F1VEe6yCGr7"
     },
     {
       "added_at": null,
@@ -891,6 +867,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "BLANCO Y NEGRO",
+        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
+        }
+      ],
+      "duration_ms": 156812,
+      "name": "EL PROCESO",
+      "url": "https://open.spotify.com/track/08wWsajr5heXuF9vFYX92f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como + Nadie",
         "url": "https://open.spotify.com/album/4XRO8YfOaX2SxrjiYnnS8C"
       },
@@ -911,22 +911,6 @@
       "duration_ms": 183956,
       "name": "Como + Nadie",
       "url": "https://open.spotify.com/track/3TSB6v3t9nmizD5PzyiiFv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLANCO Y NEGRO",
-        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 204069,
-      "name": "ME HACES FALTA",
-      "url": "https://open.spotify.com/track/1x9h7goaKtNPfB8CXZ8zqb"
     },
     {
       "added_at": null,
@@ -975,6 +959,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BLANCO Y NEGRO",
+        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 204069,
+      "name": "ME HACES FALTA",
+      "url": "https://open.spotify.com/track/1x9h7goaKtNPfB8CXZ8zqb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
       },
@@ -991,30 +991,6 @@
       "duration_ms": 202893,
       "name": "Pi\u00e9nsalo (feat. Rombai)",
       "url": "https://open.spotify.com/track/72FJxkwyBde4oyntw4m66u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLANCO Y NEGRO",
-        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Agus Bernasconi",
-          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
-        },
-        {
-          "name": "Maxi Espindola",
-          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
-        }
-      ],
-      "duration_ms": 174231,
-      "name": "SOY",
-      "url": "https://open.spotify.com/track/00ttoo0g0Ze9JBSKVrNCD4"
     },
     {
       "added_at": null,
@@ -1067,6 +1043,30 @@
       "duration_ms": 222080,
       "name": "Calle 2 - Remix",
       "url": "https://open.spotify.com/track/45qpVdZAbONKliwh1ZD8nK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLANCO Y NEGRO",
+        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
+        }
+      ],
+      "duration_ms": 174231,
+      "name": "SOY",
+      "url": "https://open.spotify.com/track/00ttoo0g0Ze9JBSKVrNCD4"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 444807,
+  "num_followers": 444828,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -607,26 +607,6 @@
     {
       "added_at": "2025-10-06 18:09:09",
       "album": {
-        "name": "Meu Mestre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1CfuJQp4qFRKK4p9ojHQ35"
-      },
-      "artists": [
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        },
-        {
-          "name": "Isabela Agustinho",
-          "url": "https://open.spotify.com/artist/3JX73Mj715yHnSXe6DOwSt"
-        }
-      ],
-      "duration_ms": 286680,
-      "name": "Meu Mestre - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Znhv9B3Vq3KiNr09L7YrU"
-    },
-    {
-      "added_at": "2025-10-06 18:09:09",
-      "album": {
         "name": "Tuas \u00c1guas",
         "url": "https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 310200,
       "name": "Tuas \u00c1guas",
       "url": "https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge"
+    },
+    {
+      "added_at": "2025-10-06 18:09:09",
+      "album": {
+        "name": "Meu Mestre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1CfuJQp4qFRKK4p9ojHQ35"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        },
+        {
+          "name": "Isabela Agustinho",
+          "url": "https://open.spotify.com/artist/3JX73Mj715yHnSXe6DOwSt"
+        }
+      ],
+      "duration_ms": 286680,
+      "name": "Meu Mestre - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Znhv9B3Vq3KiNr09L7YrU"
     },
     {
       "added_at": "2025-10-06 18:09:09",

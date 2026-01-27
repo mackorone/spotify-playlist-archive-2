@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 来日公演『NCT WISH 1st CONCERT TOUR INTO THE WISH : Our WISH in JAPAN』のセットリストを公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,685 likes - 28 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,675 likes - 28 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 | 27 | [P.O.V](https://open.spotify.com/track/735o24zZtDtVXfETHmcii5) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHFUL](https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3) | 3:01 |
 | 28 | [Our Adventures](https://open.spotify.com/track/5Y93XMH6dJ4Yy8ImAdMewa) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHFUL](https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3) | 2:52 |
 
-Snapshot ID: `AAAAAGmyzHWcKOVLaRdvwhrfhGhPvyFr`
+Snapshot ID: `AAAAAOjqv0zHoicZiyqHQno0giNjixYo`

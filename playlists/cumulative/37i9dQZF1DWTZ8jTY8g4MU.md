@@ -2,15 +2,16 @@
 
 ### [ شيلات](https://open.spotify.com/playlist/37i9dQZF1DWTZ8jTY8g4MU)
 
-> شيلات تشيل الليلة\. الغلاف: بدر العزي
+> شيلات تشيل الليلة\. الغلاف: محمد بن غرمان
 
-281 songs - 18 hr 45 min
+282 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Agblt Bghala](https://open.spotify.com/track/3HISZkVKGdicqfeytw8WRL) | [Ziyad Al Zahem](https://open.spotify.com/artist/6X48LcVZiaJrHUdyhikE08) | [Agblt Bghala](https://open.spotify.com/album/6ovX8eybx62I2LQe9Va6Jh) | 4:16 | 2023-02-22 | 2024-05-10 |
 | [Alek Akhaf](https://open.spotify.com/track/2BRQStJtGN03JujyZd2faL) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Alek Akhaf](https://open.spotify.com/album/7e0KX9hQhk5VIFo3YoTPSA) | 3:28 | 2024-02-29 |  |
 | [Argeb Lega](https://open.spotify.com/track/2p47AbcWY2wDKC1RjEX4jA) | [Zayed Bin Saber](https://open.spotify.com/artist/0TNuRg9zAJbDy4chgGD4Cs) | [Argeb Lega](https://open.spotify.com/album/20pQj78Ek0kM2clAVKCPsi) | 3:45 | 2023-11-17 | 2023-12-06 |
+| [Arjaa Ant](https://open.spotify.com/track/0GzSAq6B9D4A3olcU1HVsM) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Arjaa Ant](https://open.spotify.com/album/3SUUhb8d6mTWgOyteHMygk) | 4:27 | 2026-01-26 |  |
 | [Atmna Shoftak](https://open.spotify.com/track/5XARFcDeJmdjBTZXGDmUNJ) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Atmna Shoftak](https://open.spotify.com/album/1zu44llZrXAdX0XQgTDSxF) | 2:52 | 2023-02-22 |  |
 | [Bas Wenh](https://open.spotify.com/track/50b8yDKb6RDZtaxMYN3PUe) | [Zayed Bin Saber](https://open.spotify.com/artist/0TNuRg9zAJbDy4chgGD4Cs) | [Bas Wenh](https://open.spotify.com/album/4esCyXD8PmyQ2ctfE0asUA) | 4:47 | 2022-08-31 | 2024-02-02 |
 | [Basmetak Lee](https://open.spotify.com/track/5Yf4UF6cYLsoG6ePHDC1ec) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Basmetak Lee](https://open.spotify.com/album/73clqKMKrQ3WZOBZbqPYOU) | 3:37 | 2023-02-22 | 2024-02-02 |
@@ -283,7 +284,7 @@
 | [ياليل ياجامع على الود قلبين](https://open.spotify.com/track/1Rl0s8Gml6nvsZ8xesHqzu) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm), [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [ياليل ياجامع على الود قلبين](https://open.spotify.com/album/40D2y8kNdSFLkR9JNbHrGU) | 6:03 | 2023-06-15 | 2023-09-02 |
 | [يامبتسم](https://open.spotify.com/track/3H4tPFqBvuSYLhrB57KPuf) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [يامبتسم](https://open.spotify.com/album/3Y7UMujGkIv7IyyYd0ki9y) | 3:25 | 2023-05-10 | 2023-09-07 |
 | [يامجرمة](https://open.spotify.com/track/1ZsJGnLQ6Dz8IKGdjlwsz6) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [يامجرمة](https://open.spotify.com/album/3qGwl0Gu4UGJqjekXuGs6S) | 2:55 | 2023-02-22 | 2023-09-22 |
-| [يامرحبا والفن هلا](https://open.spotify.com/track/1gEUyMIXZW4UgiYSAs1yvB) | [عمر الشراري](https://open.spotify.com/artist/09tFkOSMCVZWp5TELEi0iz) | [يامرحبا والفن هلا](https://open.spotify.com/album/4E4ookkpGCRux266b6g9XM) | 2:44 | 2024-02-01 |  |
+| [يامرحبا والفن هلا](https://open.spotify.com/track/1gEUyMIXZW4UgiYSAs1yvB) | [عمر الشراري](https://open.spotify.com/artist/09tFkOSMCVZWp5TELEi0iz) | [يامرحبا والفن هلا](https://open.spotify.com/album/4E4ookkpGCRux266b6g9XM) | 2:44 | 2024-02-01 | 2026-01-27 |
 | [ياوقت](https://open.spotify.com/track/639jQrPyDSLttOX5wym9zk) | [فلاح المسردي](https://open.spotify.com/artist/21Thm4pTSbEQCsFEbausED) | [ياوقت](https://open.spotify.com/album/78hVLUZy6yTNZwSnshEJyj) | 6:07 | 2023-03-28 | 2023-09-02 |
 | [يحبك قلبي](https://open.spotify.com/track/5418ozmjWY7SLsRHfviqk1) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [يحبك قلبي](https://open.spotify.com/album/3kqxJyn6LoM7rL3BUUpPbx) | 3:59 | 2024-08-01 |  |
 | [يرد الروح](https://open.spotify.com/track/5579TUnu8gaeE19Gv6A1Jx) | [عبدالله الصخابرة](https://open.spotify.com/artist/25X99KPCcqOuOC8FaBtTwV) | [يرد الروح](https://open.spotify.com/album/6OLXCf1A1LmbGJWM4R7eWC) | 3:55 | 2024-01-05 | 2025-09-23 |

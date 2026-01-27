@@ -2,7 +2,7 @@
 
 ### [Winter 2026](https://open.spotify.com/playlist/37i9dQZF1DXcx1szy2g67M)
 
-> Zó klinkt de winter van 2026! ❄️🧣⛄️
+> Zó klinkt de winter van 2026! 🌬️🧣
 
 819 songs - 1 day 17 hr 22 min
 

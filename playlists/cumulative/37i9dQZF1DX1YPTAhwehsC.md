@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: A$AP Rocky
 
-1,905 songs - 3 day 14 hr 20 min
+1,906 songs - 3 day 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -830,7 +830,7 @@
 | [I Love You, But...](https://open.spotify.com/track/2tdubVE0KJolFEz4iKnmg4) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS) | [HH5](https://open.spotify.com/album/63loU5wOJuZfUymxLVwwxX) | 2:50 | 2022-11-04 | 2023-02-18 |
 | [I Should've Known \(feat\. Kyle Richh\)](https://open.spotify.com/track/02WbmXcfVEPDOZH91K8OtL) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [I Should've Known \(feat\. Kyle Richh\)](https://open.spotify.com/album/1VKYrgULdVHSutxuU2SXgJ) | 2:27 | 2023-10-20 | 2023-12-23 |
 | [I Wish Heaven Had a Facetime](https://open.spotify.com/track/6oVKzN5pIyNX1Qxl13ClBw) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [I Wish Heaven Had a Facetime](https://open.spotify.com/album/0nXEPSaS7hPSS3eX20h2lD) | 1:50 | 2022-09-30 | 2022-10-15 |
-| [I Wish I Knew](https://open.spotify.com/track/4h3Jv1QUjLLDoTRK5L72vt) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [ADHD 2](https://open.spotify.com/album/6CdUv4PQeizXqsV1dsTegM) | 2:50 | 2025-07-18 |  |
+| [I Wish I Knew](https://open.spotify.com/track/4h3Jv1QUjLLDoTRK5L72vt) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [ADHD 2](https://open.spotify.com/album/6CdUv4PQeizXqsV1dsTegM) | 2:50 | 2025-07-18 | 2026-01-27 |
 | [I'm Back](https://open.spotify.com/track/2DNWgFBDphkRVpMMxGfInW) | [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj) | [I'm Back](https://open.spotify.com/album/4UYkjiSBotywZsgvaWhdvt) | 2:28 | 2022-05-13 | 2022-06-04 |
 | [I'M THAT BITCH](https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [I'M THAT BITCH](https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp) | 2:32 | 2023-03-24 | 2023-07-01 |
 | [ICE](https://open.spotify.com/track/5IWox3mpmUSCswCQJJCtRR) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT) | [STABBED & SHOT 2 \(Deluxe Edition\)](https://open.spotify.com/album/3Nj9UgUHxCk8sQxi0u2J0G) | 2:27 | 2025-03-14 | 2025-03-22 |
@@ -1103,6 +1103,7 @@
 | [Moment](https://open.spotify.com/track/2uy9NaLzl0wGILhoGVortZ) | [Slump6s](https://open.spotify.com/artist/63ELR8SMfqu8EH9eXqCt9j) | [Origin](https://open.spotify.com/album/0axOc2iyVVq7R5sFl5h6H5) | 3:06 | 2021-11-19 | 2022-02-05 |
 | [Money Ain't A Thing](https://open.spotify.com/track/46JdWbIn4Pqz5MnRELOjSX) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Mac & Cheese 5](https://open.spotify.com/album/5eNbrlazXci6OR5uQeFfV3) | 3:13 | 2024-02-23 | 2024-02-28 |
 | [Monsieur Dior](https://open.spotify.com/track/47993TulzIDIq2Bgs5JqOz) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Monsieur Dior](https://open.spotify.com/album/2NZnmicnIq9lnVtMhyc1bP) | 2:26 | 2022-10-28 | 2023-02-18 |
+| [Monsters](https://open.spotify.com/track/5CaEp6RzYjqM6u45aG4Xa5) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Monsters](https://open.spotify.com/album/5DgpaHyWM6B89XbJF4xD0K) | 3:12 | 2026-01-26 |  |
 | [Months](https://open.spotify.com/track/4Qkhg5hNRmU6xVUDaMHzyA) | [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Months](https://open.spotify.com/album/1B8kSsEftA0S6XpNliAFdQ) | 1:56 | 2025-09-12 | 2025-09-20 |
 | [MOOD SWING](https://open.spotify.com/track/5UYi5ZBJR1rnEyNjOkOdMD) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [WORLD WIDE WHACK](https://open.spotify.com/album/128kgBRYqmfY4EjTOhiDWq) | 1:12 | 2024-03-15 | 2024-03-23 |
 | [Moonwalking \(feat\. DJ Drama & Ron Suno\)](https://open.spotify.com/track/4uYDoLcUEAKhy9cLEECtzw) | [Badda TD](https://open.spotify.com/artist/57GHC729HxFYHl1vGe1qaX), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9) | [Moonwalking \(feat\. DJ Drama & Ron Suno\)](https://open.spotify.com/album/1DNweKGpzInFXs1FgsIjy1) | 3:33 | 2022-05-06 | 2022-07-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Yandel, LATIN MAFIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 659,294 likes - 200 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 659,248 likes - 200 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Arvo P\u00e4rt. The essential tracks, all in one playlist.",
-  "num_followers": 10349,
+  "num_followers": 10352,
   "original_name": "This Is Arvo P\u00e4rt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXQLgAAAAADoGIkVUFvmGpvuStRTVjGe",
+  "snapshot_id": "aXVdAAAAAAAibmJb9F/o/LgNPoscevsE",
   "tracks": [
     {
       "added_at": null,
@@ -1111,26 +1111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e4rt: Spiegel im Spiegel (Version for Viola and Piano)",
-        "url": "https://open.spotify.com/album/0T8bDngTQL8ZEatwhEbtRZ"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Viktor Orri \u00c1rnason",
-          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
-        }
-      ],
-      "duration_ms": 750080,
-      "name": "Spiegel im Spiegel (Version for Viola and Piano)",
-      "url": "https://open.spotify.com/track/3MAnojiEATIIumGcGs4scv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: Kanon Pokajanen",
         "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 498573,
       "name": "Kanon Pokajanen: Ode VI",
       "url": "https://open.spotify.com/track/2PNEEvDHAGdslbD03Mjj4i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e4rt: Spiegel im Spiegel (Version for Viola and Piano)",
+        "url": "https://open.spotify.com/album/0T8bDngTQL8ZEatwhEbtRZ"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Viktor Orri \u00c1rnason",
+          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
+        }
+      ],
+      "duration_ms": 750080,
+      "name": "Spiegel im Spiegel (Version for Viola and Piano)",
+      "url": "https://open.spotify.com/track/3MAnojiEATIIumGcGs4scv"
     },
     {
       "added_at": null,

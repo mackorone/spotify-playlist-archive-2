@@ -1,6 +1,6 @@
 {
   "description": "A new world of alternative electronic music.",
-  "num_followers": 130450,
+  "num_followers": 130442,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,26 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
+        "name": "Badder",
+        "url": "https://open.spotify.com/album/4xq8NcQXxBMezVM937XYHo"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        },
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        }
+      ],
+      "duration_ms": 170909,
+      "name": "Badder",
+      "url": "https://open.spotify.com/track/6HnnU52OLpINwucbbiXy5v"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
         "name": "the floor",
         "url": "https://open.spotify.com/album/6z6zEs1UJmGMxPCT0E5C1L"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 234428,
       "name": "the floor - skin on skin remix",
       "url": "https://open.spotify.com/track/3fdaWWHmFhQgAXsgRUkOrZ"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "Badder",
-        "url": "https://open.spotify.com/album/4xq8NcQXxBMezVM937XYHo"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        },
-        {
-          "name": "Champion",
-          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
-        }
-      ],
-      "duration_ms": 170909,
-      "name": "Badder",
-      "url": "https://open.spotify.com/track/6HnnU52OLpINwucbbiXy5v"
     },
     {
       "added_at": "2025-10-16 13:00:01",

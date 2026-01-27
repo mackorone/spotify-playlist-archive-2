@@ -1,6 +1,6 @@
 {
   "description": "Al mil para entrenar sin parar.",
-  "num_followers": 214135,
+  "num_followers": 214209,
   "original_name": "Modo: Al Mil",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2026-01-19 08:27:42",
       "album": {
+        "name": "Lo logre",
+        "url": "https://open.spotify.com/album/6YqUR5CZ41mFCMDQd2E3a4"
+      },
+      "artists": [
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        }
+      ],
+      "duration_ms": 194078,
+      "name": "Lo logre",
+      "url": "https://open.spotify.com/track/5VCwxSMbHdXr22LxROFgyA"
+    },
+    {
+      "added_at": "2026-01-19 08:27:42",
+      "album": {
         "name": "Rico o Muerto, Vol. 1",
         "url": "https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 195314,
       "name": "Asquerosamente Rico",
       "url": "https://open.spotify.com/track/27aWzQn0uCuEwHkNlKi1jP"
-    },
-    {
-      "added_at": "2026-01-19 08:27:42",
-      "album": {
-        "name": "Lo logre",
-        "url": "https://open.spotify.com/album/6YqUR5CZ41mFCMDQd2E3a4"
-      },
-      "artists": [
-        {
-          "name": "Kane Rodriguez",
-          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
-        }
-      ],
-      "duration_ms": 194078,
-      "name": "Lo logre",
-      "url": "https://open.spotify.com/track/5VCwxSMbHdXr22LxROFgyA"
     },
     {
       "added_at": "2026-01-19 08:27:42",
@@ -499,6 +499,26 @@
     {
       "added_at": "2026-01-19 08:27:42",
       "album": {
+        "name": "La Morrita",
+        "url": "https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 154951,
+      "name": "La Morrita",
+      "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
+    },
+    {
+      "added_at": "2026-01-19 08:27:42",
+      "album": {
         "name": "Patrullon",
         "url": "https://open.spotify.com/album/5xj5BZBQvm6wcXf5iFrDiP"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 158517,
       "name": "Patrullon",
       "url": "https://open.spotify.com/track/54AkMJKLhLmw8lQTYiLh8g"
-    },
-    {
-      "added_at": "2026-01-19 08:27:42",
-      "album": {
-        "name": "Yo Vengo De La Nada",
-        "url": "https://open.spotify.com/album/39jS5Ka1i5dykkd5bm06Iq"
-      },
-      "artists": [
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
-        },
-        {
-          "name": "miguel cornejo",
-          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
-        }
-      ],
-      "duration_ms": 156807,
-      "name": "Yo Vengo De La Nada",
-      "url": "https://open.spotify.com/track/2JJdNXpiCQoAeLQvVMpIEh"
     },
     {
       "added_at": "2026-01-19 08:27:42",
@@ -559,22 +559,22 @@
     {
       "added_at": "2026-01-19 08:27:42",
       "album": {
-        "name": "La Morrita",
-        "url": "https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev"
+        "name": "Yo Vengo De La Nada",
+        "url": "https://open.spotify.com/album/39jS5Ka1i5dykkd5bm06Iq"
       },
       "artists": [
         {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
         },
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
         }
       ],
-      "duration_ms": 154951,
-      "name": "La Morrita",
-      "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
+      "duration_ms": 156807,
+      "name": "Yo Vengo De La Nada",
+      "url": "https://open.spotify.com/track/2JJdNXpiCQoAeLQvVMpIEh"
     },
     {
       "added_at": "2026-01-19 08:27:42",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-01-19 08:27:42",
       "album": {
-        "name": "4 Decadas 20 Boleros",
-        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "No Hay Novedad",
-      "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
-    },
-    {
-      "added_at": "2026-01-19 08:27:42",
-      "album": {
         "name": "OTRO DESMADRE",
         "url": "https://open.spotify.com/album/7dJxUcebpGJnaDJdXoYCIO"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 182061,
       "name": "OTRO DESMADRE",
       "url": "https://open.spotify.com/track/4nrdgjTiyuDhT7oCWr2YKg"
+    },
+    {
+      "added_at": "2026-01-19 08:27:42",
+      "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "No Hay Novedad",
+      "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
     },
     {
       "added_at": "2026-01-19 08:27:42",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-01-19 08:27:42",
       "album": {
-        "name": "EP",
-        "url": "https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 177621,
-      "name": "Lo Pude Lograr",
-      "url": "https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6"
-    },
-    {
-      "added_at": "2026-01-19 08:27:42",
-      "album": {
         "name": "Si Lo Digo Es Porque Puedo",
         "url": "https://open.spotify.com/album/36T7295UHRjUmh2HxKNkDR"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 172297,
       "name": "Gente De Accionar",
       "url": "https://open.spotify.com/track/3ZpajXo0KgjHw5WSMMIDfy"
+    },
+    {
+      "added_at": "2026-01-19 08:27:42",
+      "album": {
+        "name": "EP",
+        "url": "https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 177621,
+      "name": "Lo Pude Lograr",
+      "url": "https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6"
     },
     {
       "added_at": "2026-01-19 08:27:42",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-01-19 08:27:42",
       "album": {
-        "name": "DINOSAURIOS",
-        "url": "https://open.spotify.com/album/3NLtSDlkdK9bV3HLKz2Lkb"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        }
-      ],
-      "duration_ms": 198935,
-      "name": "DINOSAURIOS",
-      "url": "https://open.spotify.com/track/3tFdpPz7H9VHCKj01xlqVY"
-    },
-    {
-      "added_at": "2026-01-19 08:27:42",
-      "album": {
         "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol. 4",
         "url": "https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 200161,
       "name": "Sigo Chambeando",
       "url": "https://open.spotify.com/track/4PR0r2us3a64lTew6TVlF2"
+    },
+    {
+      "added_at": "2026-01-19 08:27:42",
+      "album": {
+        "name": "DINOSAURIOS",
+        "url": "https://open.spotify.com/album/3NLtSDlkdK9bV3HLKz2Lkb"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "duration_ms": 198935,
+      "name": "DINOSAURIOS",
+      "url": "https://open.spotify.com/track/3tFdpPz7H9VHCKj01xlqVY"
     },
     {
       "added_at": "2026-01-19 08:27:42",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-01-19 08:27:42",
       "album": {
-        "name": "Todo Es Diferente",
-        "url": "https://open.spotify.com/album/0ECIYdy6byWnFYoY6Bn8CN"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 128893,
-      "name": "El de La Codeina",
-      "url": "https://open.spotify.com/track/7K2JfvcKhIMwOndE6QBodf"
-    },
-    {
-      "added_at": "2026-01-19 08:27:42",
-      "album": {
         "name": "El Capo",
         "url": "https://open.spotify.com/album/6iapJcyMNDXQeapRUz7knk"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 142435,
       "name": "El Capo",
       "url": "https://open.spotify.com/track/1G6UuYgVNFi54L0wXQfMhO"
+    },
+    {
+      "added_at": "2026-01-19 08:27:42",
+      "album": {
+        "name": "Todo Es Diferente",
+        "url": "https://open.spotify.com/album/0ECIYdy6byWnFYoY6Bn8CN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 128893,
+      "name": "El de La Codeina",
+      "url": "https://open.spotify.com/track/7K2JfvcKhIMwOndE6QBodf"
     },
     {
       "added_at": "2026-01-19 08:27:42",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-01-19 08:27:42",
       "album": {
-        "name": "D\u00e9cimo Aniversario",
-        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 164360,
-      "name": "Tranquilito",
-      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
-    },
-    {
-      "added_at": "2026-01-19 08:27:42",
-      "album": {
         "name": "CUANDO SE ACABE EL TIEMPO",
         "url": "https://open.spotify.com/album/6HGYuGJSPyusItg6CnOBM4"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 212678,
       "name": "CUANDO SE ACABE EL TIEMPO",
       "url": "https://open.spotify.com/track/7wHVwHUYy2IPQjele1yTV8"
+    },
+    {
+      "added_at": "2026-01-19 08:27:42",
+      "album": {
+        "name": "D\u00e9cimo Aniversario",
+        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 164360,
+      "name": "Tranquilito",
+      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
     },
     {
       "added_at": "2026-01-19 08:27:42",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-01-19 08:27:42",
       "album": {
+        "name": "3 Doritos Despu\u00e9s",
+        "url": "https://open.spotify.com/album/4IWa6UUmfpsaSap5BUDNmC"
+      },
+      "artists": [
+        {
+          "name": "LENCHO",
+          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
+        }
+      ],
+      "duration_ms": 145516,
+      "name": "3 Doritos Despu\u00e9s",
+      "url": "https://open.spotify.com/track/6tqgBtpij8t3pTpbrxFXbl"
+    },
+    {
+      "added_at": "2026-01-19 08:27:42",
+      "album": {
         "name": "TRR TAC TAC",
         "url": "https://open.spotify.com/album/412ep8ZENWHQs1LjXoiepT"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 187000,
       "name": "TRR TAC TAC",
       "url": "https://open.spotify.com/track/4BmSms8iycKEFP8HVL1mlu"
-    },
-    {
-      "added_at": "2026-01-19 08:27:42",
-      "album": {
-        "name": "3 Doritos Despu\u00e9s",
-        "url": "https://open.spotify.com/album/4IWa6UUmfpsaSap5BUDNmC"
-      },
-      "artists": [
-        {
-          "name": "LENCHO",
-          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
-        }
-      ],
-      "duration_ms": 145516,
-      "name": "3 Doritos Despu\u00e9s",
-      "url": "https://open.spotify.com/track/6tqgBtpij8t3pTpbrxFXbl"
     },
     {
       "added_at": "2026-01-19 08:27:42",
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2026-01-19 08:27:42",
       "album": {
-        "name": "EVOLUZION\u00c9",
-        "url": "https://open.spotify.com/album/6GOumSWtPIA2CftFTsL2mj"
+        "name": "Escuela De Rancho",
+        "url": "https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T"
       },
       "artists": [
         {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 215032,
-      "name": "EVOLUZION\u00c9",
-      "url": "https://open.spotify.com/track/2dollsa47aEK6VYQm51B1X"
+      "duration_ms": 139186,
+      "name": "El Mech\u00f3n",
+      "url": "https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU"
     }
   ],
   "unique_name": "Modo: Al Mil",

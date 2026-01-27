@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 534956,
+  "num_followers": 535116,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
@@ -573,6 +573,22 @@
       "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
     },
     {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 194044,
+      "name": "Scarborough Fair / Canticle",
+      "url": "https://open.spotify.com/track/3g2fYZW5v2od8KIF7VktT0"
+    },
+    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Oogum Boogum",
@@ -591,22 +607,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Parsley, Sage, Rosemary And Thyme",
-        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 194044,
-      "name": "Scarborough Fair / Canticle",
-      "url": "https://open.spotify.com/track/3g2fYZW5v2od8KIF7VktT0"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Platinum - A Life In Music",
         "url": "https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 186666,
       "name": "Are You Lonesome Tonight?",
       "url": "https://open.spotify.com/track/4xUqqie4bBKufHtlMuZS3k"
-    },
-    {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "Pet Sounds (Original Mono & Stereo Mix)",
-        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 173040,
-      "name": "God Only Knows - Mono",
-      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -651,6 +635,22 @@
       "duration_ms": 147759,
       "name": "Only the Lonely",
       "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "Pet Sounds (Original Mono & Stereo Mix)",
+        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "God Only Knows - Mono",
+      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Best Of Bobby Vinton",
-        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
-        }
-      ],
-      "duration_ms": 168093,
-      "name": "Blue Velvet",
-      "url": "https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 175626,
       "name": "All I Could Do Was Cry",
       "url": "https://open.spotify.com/track/7Ca3Zb8wejNYCoei3tlJ9e"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Best Of Bobby Vinton",
+        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+        }
+      ],
+      "duration_ms": 168093,
+      "name": "Blue Velvet",
+      "url": "https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "In Dreams",
-        "url": "https://open.spotify.com/album/5OpNbQPffWNtVhWCF6GziB"
-      },
-      "artists": [
-        {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "In Dreams",
-      "url": "https://open.spotify.com/track/44pN9jfSqY3d3lrKuv3QeN"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Presenting Rosie & the Originals",
         "url": "https://open.spotify.com/album/76X16nVTLk9S8FrLrAP8ff"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 227600,
       "name": "Angel Baby",
       "url": "https://open.spotify.com/track/1HzfcOcxJeGmxgf5a6MK0W"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "In Dreams",
+        "url": "https://open.spotify.com/album/5OpNbQPffWNtVhWCF6GziB"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "duration_ms": 169160,
+      "name": "In Dreams",
+      "url": "https://open.spotify.com/track/44pN9jfSqY3d3lrKuv3QeN"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1525,22 +1525,6 @@
       "url": "https://open.spotify.com/track/5MimWt53Ukh0gcv7mC0Rnx"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/3bi87ndwfdokCp0Km4fxoJ"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
-        }
-      ],
-      "duration_ms": 160066,
-      "name": "Mr. Lonely",
-      "url": "https://open.spotify.com/track/6x8xIapc9xcZlJ9HpCkrm9"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "The Lost Album",
@@ -1555,6 +1539,22 @@
       "duration_ms": 287720,
       "name": "Where Do You Go To (My Lovely) - Re-Recorded",
       "url": "https://open.spotify.com/track/6M665tf7ZKQzUFA5yOrUE4"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/3bi87ndwfdokCp0Km4fxoJ"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+        }
+      ],
+      "duration_ms": 160066,
+      "name": "Mr. Lonely",
+      "url": "https://open.spotify.com/track/6x8xIapc9xcZlJ9HpCkrm9"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1753,6 +1753,22 @@
       "url": "https://open.spotify.com/track/3KIlJMknWs4rgVztAoWUbY"
     },
     {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5B9weDFlXPPdoxM5HRyreL"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Where The Boys Are",
+      "url": "https://open.spotify.com/track/1plEmsH26pWSX0WzPchcz1"
+    },
+    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Doo Wop Classics Vol. 1",
@@ -1771,22 +1787,6 @@
       "duration_ms": 174200,
       "name": "Daddy's Home",
       "url": "https://open.spotify.com/track/6pLYCkA0j6dcjMSP4IrgxW"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5B9weDFlXPPdoxM5HRyreL"
-      },
-      "artists": [
-        {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Where The Boys Are",
-      "url": "https://open.spotify.com/track/1plEmsH26pWSX0WzPchcz1"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -1873,22 +1873,6 @@
       "url": "https://open.spotify.com/track/66EcsKLusAz7ydla0ENGkg"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "If You Can Believe Your Eyes And Ears",
-        "url": "https://open.spotify.com/album/6zK7GV2JCqLknAdTeIhooB"
-      },
-      "artists": [
-        {
-          "name": "The Mamas & The Papas",
-          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
-        }
-      ],
-      "duration_ms": 157960,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/63rva3TBizr6x1Yp5uwKfD"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Ketty Lester Presenting Love Letters",
@@ -1903,6 +1887,22 @@
       "duration_ms": 162840,
       "name": "Love Letters (Alternate Take)",
       "url": "https://open.spotify.com/track/3DDV3CsZan0GcUVZAtvs7N"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "If You Can Believe Your Eyes And Ears",
+        "url": "https://open.spotify.com/album/6zK7GV2JCqLknAdTeIhooB"
+      },
+      "artists": [
+        {
+          "name": "The Mamas & The Papas",
+          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+        }
+      ],
+      "duration_ms": 157960,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/63rva3TBizr6x1Yp5uwKfD"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -1953,22 +1953,6 @@
       "url": "https://open.spotify.com/track/1paWReMsPIqKGEOxdlHT2D"
     },
     {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "Chess Pieces: The Very Best Of Chess Records",
-        "url": "https://open.spotify.com/album/0EGMBB51mdmWPgG0inOYlv"
-      },
-      "artists": [
-        {
-          "name": "Billy Stewart",
-          "url": "https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J"
-        }
-      ],
-      "duration_ms": 195960,
-      "name": "Sitting In The Park - Single Version",
-      "url": "https://open.spotify.com/track/2DW26fhI4XCVUmR0ong4Nn"
-    },
-    {
       "added_at": "2022-05-30 13:00:37",
       "album": {
         "name": "You Can Have Him: Ketty Lester Sings Love Letters and Other Greats",
@@ -1983,6 +1967,22 @@
       "duration_ms": 156734,
       "name": "Love Letters",
       "url": "https://open.spotify.com/track/770bUE65sXIhYuLNGm4CIL"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "Chess Pieces: The Very Best Of Chess Records",
+        "url": "https://open.spotify.com/album/0EGMBB51mdmWPgG0inOYlv"
+      },
+      "artists": [
+        {
+          "name": "Billy Stewart",
+          "url": "https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J"
+        }
+      ],
+      "duration_ms": 195960,
+      "name": "Sitting In The Park - Single Version",
+      "url": "https://open.spotify.com/track/2DW26fhI4XCVUmR0ong4Nn"
     },
     {
       "added_at": "2022-05-30 13:00:37",

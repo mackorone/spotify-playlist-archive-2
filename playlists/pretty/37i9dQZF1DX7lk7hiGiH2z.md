@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,381 likes - 56 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,378 likes - 56 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 38 | [Heut Nacht hat's geschneit](https://open.spotify.com/track/0SpVxx8P0b28qNDuNFmg1g) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 2:48 |
 | 39 | [Ich will Schnee](https://open.spotify.com/track/45c5OmNGQCZd0c6RIn9H61) | [Deniz & Ove](https://open.spotify.com/artist/6mExL2mzC5cf1JsQz0MA9X), [WIM](https://open.spotify.com/artist/5jCFF91eZDDh1NS9gfQW4F) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:11 |
 | 40 | [Lametta](https://open.spotify.com/track/2h40veh7G3sIpaRJgWMcFD) | [Pauken und Planeten](https://open.spotify.com/artist/60mnI2b1MwVTA6q5EZ2iMT) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 2:55 |
-| 41 | [Die Schlittenfahrt](https://open.spotify.com/track/0Gy5ko2FkfuTlLHfXD6IhS) | [Pettersson und Findus](https://open.spotify.com/artist/3YZqnPKdtP5qP4LSvrgx9i) | [Winterzauberlieder](https://open.spotify.com/album/5Xhwclz0kD81yrmXZxOpFw) | 3:29 |
-| 42 | [Backe, Backe Kuchen](https://open.spotify.com/track/4joHBph6qNwf5IiB9LmeaQ) | [Schnabi Schnabel](https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Tanzbare Weihnachtslieder für Kinder](https://open.spotify.com/album/3BNlUuy3J6zs1ZIJ6Cykzw) | 2:09 |
+| 41 | [Backe, Backe Kuchen](https://open.spotify.com/track/4joHBph6qNwf5IiB9LmeaQ) | [Schnabi Schnabel](https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Tanzbare Weihnachtslieder für Kinder](https://open.spotify.com/album/3BNlUuy3J6zs1ZIJ6Cykzw) | 2:09 |
+| 42 | [Die Schlittenfahrt](https://open.spotify.com/track/0Gy5ko2FkfuTlLHfXD6IhS) | [Pettersson und Findus](https://open.spotify.com/artist/3YZqnPKdtP5qP4LSvrgx9i) | [Winterzauberlieder](https://open.spotify.com/album/5Xhwclz0kD81yrmXZxOpFw) | 3:29 |
 | 43 | [Zootierpolka](https://open.spotify.com/track/1io4s7JvWnyyteet2kh5K0) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Zootierpolka](https://open.spotify.com/album/29XwB0xxAzrWLdlfgKweoh) | 2:24 |
 | 44 | [Pingpong im Dezember](https://open.spotify.com/track/0h7kmWkVXYcWD1PrcWLCQO) | [Sebastian Krämer](https://open.spotify.com/artist/1qgGiKd6ht1mBHj1CuaiFq) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 2:36 |
 | 45 | [Der Baum ist schief](https://open.spotify.com/track/7eZRqdj8xOigSLusYhXL7F) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 3:03 |

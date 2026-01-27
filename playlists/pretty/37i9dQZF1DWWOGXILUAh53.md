@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Slayyyter
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,092 likes - 79 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,223 likes - 79 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 26 | [5am](https://open.spotify.com/track/0MmNX3D3nEUYmbP58vhuG2) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [5am](https://open.spotify.com/album/4bMW89opKwxPi1j09k4ipM) | 2:56 |
 | 27 | [Hold On For Heaven](https://open.spotify.com/track/1waqydZwGSMhDFfUJdzKjA) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Hold On For Heaven](https://open.spotify.com/album/2mUJTDa5AzLNqSXxwbsF8r) | 3:34 |
 | 28 | [All My Life](https://open.spotify.com/track/1rNn697bQaCtH9Y9oniJpV) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [WHAT EVA](https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3) | [All My Life](https://open.spotify.com/album/6ZcbkuL5NC5v7jAkm1VjlQ) | 2:17 |
-| 29 | [Dive Into The Ocean \(Prod\. By Alok\)](https://open.spotify.com/track/1QUE9sIUcCA2uvcieOQ2uJ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dive Into The Ocean \(Prod\. By Alok\)](https://open.spotify.com/album/3wNI7uuXR8S3PKVjjJ6JMA) | 3:38 |
+| 29 | [Dive Into The Ocean \(Prod\. By Alok\)](https://open.spotify.com/track/1QUE9sIUcCA2uvcieOQ2uJ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dive Into The Ocean](https://open.spotify.com/album/3wNI7uuXR8S3PKVjjJ6JMA) | 3:38 |
 | 30 | [5 Minutes](https://open.spotify.com/track/5FY5bSkPdugbE0i1psTU86) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [5 Minutes](https://open.spotify.com/album/2J2mY0YdMoofsAaFGLkAqQ) | 3:13 |
 | 31 | [Phantom Feelings \(Feat\. Frankie Grande\)](https://open.spotify.com/track/6MCjYReoo8piMjsINP3NAJ) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT), [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK) | [Phantom Feelings \(Feat\. Frankie Grande\)](https://open.spotify.com/album/7qGgHffb271Vyz38yUlDIb) | 3:03 |
 | 32 | [wontletgo](https://open.spotify.com/track/7y6j2nYVmypBeAZWIi8aqU) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [wontletgo](https://open.spotify.com/album/2cblawQRJj9sWlxmqrYJCi) | 2:52 |

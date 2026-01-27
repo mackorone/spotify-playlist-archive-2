@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-133 songs - 7 hr 45 min
+134 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [let me down](https://open.spotify.com/track/3GNrt3MEs5gaHGJRVuuoDr) | [Pixie Cola](https://open.spotify.com/artist/50vL1eTCa1R40d6BMCkX4G) | [let me down](https://open.spotify.com/album/1zbr6mwb5gTnPWHqQnCYrm) | 3:41 | 2025-10-30 | 2026-01-17 |
 | [Little Self\-Indulgent](https://open.spotify.com/track/6MIEwxpFDX4AeOhYJejFPv) | [Western Jaguar](https://open.spotify.com/artist/71axwQvFwcRQJmwodhoGR3) | [Kaleidoscope](https://open.spotify.com/album/2wkD37IBLLNRoCPfXEMY53) | 3:00 | 2026-01-20 |  |
 | [Look at me](https://open.spotify.com/track/59O07Sj5VVQ8SXeuHCltN7) | [LOOSER](https://open.spotify.com/artist/74MOUfrsLMzoBLl5ssKkGk) | [Look at me](https://open.spotify.com/album/65GQNjC1rd9j7mc4rflmQg) | 4:05 | 2025-11-11 | 2026-01-17 |
+| [lost my love](https://open.spotify.com/track/3nh18o0W0aAoXn0SmDec5E) | [Mustafa!](https://open.spotify.com/artist/5pcPIjWVjazBClmhAp7mr4) | [lost my love](https://open.spotify.com/album/7oQ2JJdkZ2enJhA8muW4Cw) | 3:21 | 2026-01-26 |  |
 | [Lot 6](https://open.spotify.com/track/1nFBLa9z3aNQReOtonsTFY) | [Mavis](https://open.spotify.com/artist/2qpx3DGtYPLO2upKev1nxG) | [Lot 6](https://open.spotify.com/album/2xlOHmTUeDsLd1p6oED4jO) | 6:40 | 2026-01-23 |  |
 | [Love Leave Your Mark on Me](https://open.spotify.com/track/6JF4J1iAfWbQzrPC24U1jm) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Postcards in Real Time](https://open.spotify.com/album/3Fvr14rluzBR0ztgtUSxDx) | 3:43 | 2025-12-19 |  |
 | [LUV STRUCK](https://open.spotify.com/track/27lMGJ24Ry90rS18akyYnT) | [Hxtra](https://open.spotify.com/artist/5UWCbi9dD4BzERjl7b3Neb) | [9 2 5](https://open.spotify.com/album/3trknleJinlGnyzjZRTi40) | 2:24 | 2026-01-03 |  |

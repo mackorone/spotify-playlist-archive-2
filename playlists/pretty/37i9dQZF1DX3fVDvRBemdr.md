@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste releases Hollands & Volks\. Cover: Afro Bros, Billy Dans, Brace & Jeffrey Heesen
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,551 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,597 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Meisje](https://open.spotify.com/track/0rRmWgbfX5My6XY0gTa6TF) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG), [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Meisje](https://open.spotify.com/album/3RddC9RIBIrGeS5VIGgRZS) | 2:08 |
-| 2 | [Moët Dat Nou](https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE) | [Moët Dat Nou](https://open.spotify.com/album/7F5D4dM8ANyl1zY5V7knze) | 2:34 |
-| 3 | [Droom Jij Over Mij Vannacht](https://open.spotify.com/track/4VqkzNrCmkv31nd7POoHWL) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Droom Jij Over Mij Vannacht](https://open.spotify.com/album/7F3QzxZYm1dXmhjHctzsDy) | 3:10 |
-| 4 | [Als Jij Liegt En Bedriegt](https://open.spotify.com/track/5BGoVSGmuyJPOi8bdSOdGb) | [Wesley Ponsen](https://open.spotify.com/artist/4xxuGsLzFh24K7Nom9QZvO) | [Als Jij Liegt En Bedriegt](https://open.spotify.com/album/7wwbZQ4AVzPoZz9tzyp9TY) | 2:54 |
-| 5 | [De Tapster Uit Tijuana](https://open.spotify.com/track/3VKUZemyzO52vCdZrXl7A9) | [Sander Kwarten](https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn) | [De Tapster Uit Tijuana](https://open.spotify.com/album/43Xdl2v1kht5oRtsp8a6qL) | 3:06 |
-| 6 | [Alles of niets](https://open.spotify.com/track/1WOQlzRXJVHhDSxejGrvZj) | [Delano Duncker](https://open.spotify.com/artist/0x1eqIicXXo77uqFTHSrCv) | [Alles of niets](https://open.spotify.com/album/0R2sOopMeg0bWwIuzQfZbE) | 2:38 |
-| 7 | [Avond Om Nooit Te Vergeten](https://open.spotify.com/track/2tTB0L8u6pEjMQ1mdL1dLO) | [Dennis van Dam](https://open.spotify.com/artist/4raBuWSzk2K1qAnymk7Ypz) | [Avond Om Nooit Te Vergeten](https://open.spotify.com/album/6dRVAY0HwzhQ3aGoPRA5gJ) | 2:38 |
-| 8 | [Spijt](https://open.spotify.com/track/146feoWoNIhrAtPWfShQaS) | [Gerrit Schneider](https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u), [SHQQ](https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr) | [Spijt](https://open.spotify.com/album/1oJnhUDpKzf2y4uNIsQU7F) | 2:48 |
-| 9 | [Gekke Makelaar](https://open.spotify.com/track/1619tucbCv9JfHFHrglvaN) | [Richell](https://open.spotify.com/artist/7aLeCI1mEhWe4jOJRjADV2) | [Gekke Makelaar](https://open.spotify.com/album/6aZp52KbGn66Dy1gb0TItf) | 2:11 |
-| 10 | [Aan alle mooie meiden](https://open.spotify.com/track/3R38jxs9G6mXXwEMXq8Df8) | [Helemaal Hollands](https://open.spotify.com/artist/0VTDgLvqZBSYXBE5d8ouhE) | [Aan alle mooie meiden](https://open.spotify.com/album/61EAzTsWri7nqIAk67oaUN) | 2:47 |
-| 11 | [In Mijn Hart \(Kroegversie\)](https://open.spotify.com/track/4z8HbFg43M9B2e1gU64ixE) | [Opgeblazen](https://open.spotify.com/artist/1wLKrslSkMPt0GjK2PFQng), [Roosy](https://open.spotify.com/artist/3ZxaiXxGpiqIWX6zoyRF1U) | [In Mijn Hart \(Kroegversie\)](https://open.spotify.com/album/1troD6T0nGN6eOR9C30Sti) | 2:27 |
+| 2 | [Spijt](https://open.spotify.com/track/146feoWoNIhrAtPWfShQaS) | [Gerrit Schneider](https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u), [SHQQ](https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr) | [Spijt](https://open.spotify.com/album/1oJnhUDpKzf2y4uNIsQU7F) | 2:48 |
+| 3 | [De Tapster Uit Tijuana](https://open.spotify.com/track/3VKUZemyzO52vCdZrXl7A9) | [Sander Kwarten](https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn) | [De Tapster Uit Tijuana](https://open.spotify.com/album/43Xdl2v1kht5oRtsp8a6qL) | 3:06 |
+| 4 | [Moët Dat Nou](https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE) | [Moët Dat Nou](https://open.spotify.com/album/7F5D4dM8ANyl1zY5V7knze) | 2:34 |
+| 5 | [Droom Jij Over Mij Vannacht](https://open.spotify.com/track/4VqkzNrCmkv31nd7POoHWL) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Droom Jij Over Mij Vannacht](https://open.spotify.com/album/7F3QzxZYm1dXmhjHctzsDy) | 3:10 |
+| 6 | [Als Jij Liegt En Bedriegt](https://open.spotify.com/track/5BGoVSGmuyJPOi8bdSOdGb) | [Wesley Ponsen](https://open.spotify.com/artist/4xxuGsLzFh24K7Nom9QZvO) | [Als Jij Liegt En Bedriegt](https://open.spotify.com/album/7wwbZQ4AVzPoZz9tzyp9TY) | 2:54 |
+| 7 | [In Mijn Hart \(Kroegversie\)](https://open.spotify.com/track/4z8HbFg43M9B2e1gU64ixE) | [Opgeblazen](https://open.spotify.com/artist/1wLKrslSkMPt0GjK2PFQng), [Roosy](https://open.spotify.com/artist/3ZxaiXxGpiqIWX6zoyRF1U) | [In Mijn Hart \(Kroegversie\)](https://open.spotify.com/album/1troD6T0nGN6eOR9C30Sti) | 2:27 |
+| 8 | [Alles of niets](https://open.spotify.com/track/1WOQlzRXJVHhDSxejGrvZj) | [Delano Duncker](https://open.spotify.com/artist/0x1eqIicXXo77uqFTHSrCv) | [Alles of niets](https://open.spotify.com/album/0R2sOopMeg0bWwIuzQfZbE) | 2:38 |
+| 9 | [Avond Om Nooit Te Vergeten](https://open.spotify.com/track/2tTB0L8u6pEjMQ1mdL1dLO) | [Dennis van Dam](https://open.spotify.com/artist/4raBuWSzk2K1qAnymk7Ypz) | [Avond Om Nooit Te Vergeten](https://open.spotify.com/album/6dRVAY0HwzhQ3aGoPRA5gJ) | 2:38 |
+| 10 | [Gekke Makelaar](https://open.spotify.com/track/1619tucbCv9JfHFHrglvaN) | [Richell](https://open.spotify.com/artist/7aLeCI1mEhWe4jOJRjADV2) | [Gekke Makelaar](https://open.spotify.com/album/6aZp52KbGn66Dy1gb0TItf) | 2:11 |
+| 11 | [Aan alle mooie meiden](https://open.spotify.com/track/3R38jxs9G6mXXwEMXq8Df8) | [Helemaal Hollands](https://open.spotify.com/artist/0VTDgLvqZBSYXBE5d8ouhE) | [Aan alle mooie meiden](https://open.spotify.com/album/61EAzTsWri7nqIAk67oaUN) | 2:47 |
 | 12 | [Ik Kan Niet Zonder Jou](https://open.spotify.com/track/1tR3n0WLdSBWcmRnkwNCP9) | [Bryan Stricker](https://open.spotify.com/artist/3tdgnZyx1pSSe4XrLg7RnB) | [Ik Kan Niet Zonder Jou](https://open.spotify.com/album/3pidvIjA9VGuaBonE9x2d4) | 3:23 |
 | 13 | [Zullen We Nog Één Keer](https://open.spotify.com/track/49G3wD1wQh7xbHO84VYFvW) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Zullen We Nog Één Keer](https://open.spotify.com/album/4kADNJHR2kIlFDaIwd2e38) | 2:32 |
 | 14 | [Wij](https://open.spotify.com/track/3aPf6fW1ChtzDLSUZ5oIbf) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [Wij](https://open.spotify.com/album/4IPN4T6UCwQOYBc6l2MtLn) | 2:56 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 79 | [Kom Terug Bij Mij](https://open.spotify.com/track/3Uy37WwVdix4fdmJSpvVTU) | [Wesley Boes](https://open.spotify.com/artist/4PfOrm0osG8Wy6jDCM9jMe) | [Kom Terug Bij Mij](https://open.spotify.com/album/2vZsIcPjW87vMW7kWxdRUQ) | 3:30 |
 | 80 | [Avond 2.0](https://open.spotify.com/track/0UPpBlT845lAeL3shnNL0o) | [Martijn Stam](https://open.spotify.com/artist/08us5J8eRdUoGifsSIOMa1) | [Avond 2.0](https://open.spotify.com/album/0BVSguaWW08ymbT39URufK) | 3:27 |
 
-Snapshot ID: `AAAAAAPqhP3q19l7nW/+f1WfSiuV4LkV`
+Snapshot ID: `AAAAAG5K8fnJ+IGf6+3/eqPcoh9QI6r2`

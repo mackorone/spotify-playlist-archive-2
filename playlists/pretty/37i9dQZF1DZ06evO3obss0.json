@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 163648,
+  "num_followers": 163884,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXQLgAAAAAAvMNAFiGmDvYA55sj+shhR",
+  "snapshot_id": "aXVdAAAAAAD+t21g0IvE/Ei6v4kC2Dbv",
   "tracks": [
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Genesis.",
+        "url": "https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 420000,
+      "name": "Genesis.",
+      "url": "https://open.spotify.com/track/7CJhEUFMNrUWSwcOAqTzPT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Of My Love",
         "url": "https://open.spotify.com/album/3MZrIHZmBFXkHT898Y1XgQ"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 196853,
       "name": "All Of My Love",
       "url": "https://open.spotify.com/track/1fuOQttSZc7ztlH42OK8VC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Genesis.",
-        "url": "https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 420000,
-      "name": "Genesis.",
-      "url": "https://open.spotify.com/track/7CJhEUFMNrUWSwcOAqTzPT"
     },
     {
       "added_at": null,
@@ -727,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Decline",
+        "url": "https://open.spotify.com/album/17Fwkmg4UJ9ORmuOfqb1ud"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 188172,
+      "name": "Decline",
+      "url": "https://open.spotify.com/track/4qCc2AVDeJYIpAHi9AX1N0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tipsy (feat. RAYE)",
         "url": "https://open.spotify.com/album/5vTEYsgyE0C0ADqZo0Qy3F"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 190240,
       "name": "I Don't Want You",
       "url": "https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Decline",
-        "url": "https://open.spotify.com/album/17Fwkmg4UJ9ORmuOfqb1ud"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 188172,
-      "name": "Decline",
-      "url": "https://open.spotify.com/track/4qCc2AVDeJYIpAHi9AX1N0"
     },
     {
       "added_at": null,
@@ -903,6 +903,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "To Love Somebody",
+        "url": "https://open.spotify.com/album/5mjfq6PQcF4RIDw9X30Zm1"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 241574,
+      "name": "Perfect Day - featuring RAYE",
+      "url": "https://open.spotify.com/track/2c9sIf5jLjqItQovMOZxqe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BED (David Guetta Festival Mix)",
         "url": "https://open.spotify.com/album/25SO6nYRYrNwBngu5UwThd"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 235200,
       "name": "BED - David Guetta Festival Mix",
       "url": "https://open.spotify.com/track/7ft8GUKMIuFnH4lueyOTQi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "To Love Somebody",
-        "url": "https://open.spotify.com/album/5mjfq6PQcF4RIDw9X30Zm1"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 241574,
-      "name": "Perfect Day - featuring RAYE",
-      "url": "https://open.spotify.com/track/2c9sIf5jLjqItQovMOZxqe"
     },
     {
       "added_at": null,

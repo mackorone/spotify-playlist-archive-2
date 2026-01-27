@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 281587,
+  "num_followers": 281661,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
-        "name": "Good Night Baby",
-        "url": "https://open.spotify.com/album/0iErsEaQiVVJCLhsNpBeo4"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 261884,
-      "name": "Good Night Baby",
-      "url": "https://open.spotify.com/track/1z6yilqnpti2GGdKzQgKMB"
-    },
-    {
-      "added_at": "2026-01-16 05:00:24",
-      "album": {
         "name": "Kindness",
         "url": "https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 156069,
       "name": "Kindness",
       "url": "https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl"
+    },
+    {
+      "added_at": "2026-01-16 05:00:24",
+      "album": {
+        "name": "Good Night Baby",
+        "url": "https://open.spotify.com/album/0iErsEaQiVVJCLhsNpBeo4"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 261884,
+      "name": "Good Night Baby",
+      "url": "https://open.spotify.com/track/1z6yilqnpti2GGdKzQgKMB"
     },
     {
       "added_at": "2026-01-16 05:00:24",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
+        "name": "There Is Love in You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1HSe7aUzdxkRSZy7gucJpr"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 281303,
+      "name": "She Just Likes to Fight",
+      "url": "https://open.spotify.com/track/2dxtGo6FGs3Hxyv73tDsx7"
+    },
+    {
+      "added_at": "2026-01-16 05:00:24",
+      "album": {
         "name": "Flown",
         "url": "https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 235702,
       "name": "Flown",
       "url": "https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH"
-    },
-    {
-      "added_at": "2026-01-16 05:00:24",
-      "album": {
-        "name": "There Is Love in You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1HSe7aUzdxkRSZy7gucJpr"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 281303,
-      "name": "She Just Likes to Fight",
-      "url": "https://open.spotify.com/track/2dxtGo6FGs3Hxyv73tDsx7"
     },
     {
       "added_at": "2026-01-16 05:00:24",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
-        "name": "Views/Octopus EP",
-        "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
-      },
-      "artists": [
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Aquarium",
-      "url": "https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE"
-    },
-    {
-      "added_at": "2026-01-16 05:00:24",
-      "album": {
         "name": "A flame my love, a frequency",
         "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 314441,
       "name": "The stars vs creatures",
       "url": "https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4"
+    },
+    {
+      "added_at": "2026-01-16 05:00:24",
+      "album": {
+        "name": "Views/Octopus EP",
+        "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Aquarium",
+      "url": "https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE"
     },
     {
       "added_at": "2026-01-16 05:00:24",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
-        "name": "Flowerdrum",
-        "url": "https://open.spotify.com/album/2nTAmXD5n7KSDEWTpdtXCk"
-      },
-      "artists": [
-        {
-          "name": "Juno Mamba",
-          "url": "https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL"
-        },
-        {
-          "name": "Rino",
-          "url": "https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s"
-        }
-      ],
-      "duration_ms": 248015,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/4XE1zWdwAyTxmzOom1wM3h"
-    },
-    {
-      "added_at": "2026-01-16 05:00:24",
-      "album": {
         "name": "keepsakeFM",
         "url": "https://open.spotify.com/album/2i1cIbR3OSxc6Mwx1UDgyH"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 136320,
       "name": "locket",
       "url": "https://open.spotify.com/track/1jXxhzjFxH8hN1xmcnYhjs"
+    },
+    {
+      "added_at": "2026-01-16 05:00:24",
+      "album": {
+        "name": "Flowerdrum",
+        "url": "https://open.spotify.com/album/2nTAmXD5n7KSDEWTpdtXCk"
+      },
+      "artists": [
+        {
+          "name": "Juno Mamba",
+          "url": "https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL"
+        },
+        {
+          "name": "Rino",
+          "url": "https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s"
+        }
+      ],
+      "duration_ms": 248015,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/4XE1zWdwAyTxmzOom1wM3h"
     },
     {
       "added_at": "2026-01-16 05:00:24",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
+        "name": "The Tunnel and the Clearing",
+        "url": "https://open.spotify.com/album/0D9pj1z6nbPPfJipQGeMfo"
+      },
+      "artists": [
+        {
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+        }
+      ],
+      "duration_ms": 333706,
+      "name": "Implosion-Explosion",
+      "url": "https://open.spotify.com/track/5teWqTjZx7kMto0UUKGCZK"
+    },
+    {
+      "added_at": "2026-01-16 05:00:24",
+      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/4OiAIm1kS30F3QOgmmfC3L"
       },
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
-        "name": "The Tunnel and the Clearing",
-        "url": "https://open.spotify.com/album/0D9pj1z6nbPPfJipQGeMfo"
-      },
-      "artists": [
-        {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
-        }
-      ],
-      "duration_ms": 333706,
-      "name": "Implosion-Explosion",
-      "url": "https://open.spotify.com/track/5teWqTjZx7kMto0UUKGCZK"
-    },
-    {
-      "added_at": "2026-01-16 05:00:24",
-      "album": {
         "name": "The Universe Smiles Upon You",
         "url": "https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3"
       },
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
-        "name": "Call",
-        "url": "https://open.spotify.com/album/0BtlgWzegBTP0xtKgLteJP"
-      },
-      "artists": [
-        {
-          "name": "Mascolo",
-          "url": "https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp"
-        }
-      ],
-      "duration_ms": 236260,
-      "name": "Call",
-      "url": "https://open.spotify.com/track/0NKMIeCLz6FhoziY1HjhtO"
-    },
-    {
-      "added_at": "2026-01-16 05:00:24",
-      "album": {
         "name": "Slowdive",
         "url": "https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 270918,
       "name": "Sugar for the Pill",
       "url": "https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V"
+    },
+    {
+      "added_at": "2026-01-16 05:00:24",
+      "album": {
+        "name": "Call",
+        "url": "https://open.spotify.com/album/0BtlgWzegBTP0xtKgLteJP"
+      },
+      "artists": [
+        {
+          "name": "Mascolo",
+          "url": "https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp"
+        }
+      ],
+      "duration_ms": 236260,
+      "name": "Call",
+      "url": "https://open.spotify.com/track/0NKMIeCLz6FhoziY1HjhtO"
     },
     {
       "added_at": "2026-01-16 05:00:24",

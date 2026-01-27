@@ -1,6 +1,6 @@
 {
   "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Babble Hume",
-  "num_followers": 5215,
+  "num_followers": 5224,
   "original_name": "Afro Indie",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-12-11 22:00:30",
       "album": {
-        "name": "Embody",
-        "url": "https://open.spotify.com/album/5hxgKbNDHmb6jxu0P6jQgz"
-      },
-      "artists": [
-        {
-          "name": "Tessi Nandi",
-          "url": "https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ"
-        }
-      ],
-      "duration_ms": 167339,
-      "name": "Embody",
-      "url": "https://open.spotify.com/track/25Hpfo0rsaClCFsZNdiGrN"
-    },
-    {
-      "added_at": "2025-12-11 22:00:30",
-      "album": {
         "name": "LUCKY UU",
         "url": "https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 186818,
       "name": "The Midnight Wanderer",
       "url": "https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4"
+    },
+    {
+      "added_at": "2025-12-11 22:00:30",
+      "album": {
+        "name": "Embody",
+        "url": "https://open.spotify.com/album/5hxgKbNDHmb6jxu0P6jQgz"
+      },
+      "artists": [
+        {
+          "name": "Tessi Nandi",
+          "url": "https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ"
+        }
+      ],
+      "duration_ms": 167339,
+      "name": "Embody",
+      "url": "https://open.spotify.com/track/25Hpfo0rsaClCFsZNdiGrN"
     },
     {
       "added_at": "2025-12-11 22:00:30",
@@ -975,6 +975,22 @@
     {
       "added_at": "2025-12-11 22:00:30",
       "album": {
+        "name": "Goodbyes",
+        "url": "https://open.spotify.com/album/2WrsY0gAVrCmzd2PtlDydT"
+      },
+      "artists": [
+        {
+          "name": "Nic van Graan",
+          "url": "https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "Goodbyes",
+      "url": "https://open.spotify.com/track/6Gf8lW8YOh7OmEMUSG5OM6"
+    },
+    {
+      "added_at": "2025-12-11 22:00:30",
+      "album": {
         "name": "My Hide & Seek",
         "url": "https://open.spotify.com/album/3Qr51I7jQ14yMwRYrb58rg"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 252216,
       "name": "Broda Kevwe",
       "url": "https://open.spotify.com/track/1C8JvIKdcn7J4JGFTIFTJ2"
-    },
-    {
-      "added_at": "2025-12-11 22:00:30",
-      "album": {
-        "name": "Goodbyes",
-        "url": "https://open.spotify.com/album/2WrsY0gAVrCmzd2PtlDydT"
-      },
-      "artists": [
-        {
-          "name": "Nic van Graan",
-          "url": "https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "Goodbyes",
-      "url": "https://open.spotify.com/track/6Gf8lW8YOh7OmEMUSG5OM6"
     },
     {
       "added_at": "2025-12-11 22:00:30",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2025-12-11 22:00:30",
       "album": {
+        "name": "something new",
+        "url": "https://open.spotify.com/album/5KG7J4OfVqAnxqO830MFZ0"
+      },
+      "artists": [
+        {
+          "name": "ZUBIN",
+          "url": "https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E"
+        }
+      ],
+      "duration_ms": 125323,
+      "name": "something new",
+      "url": "https://open.spotify.com/track/15UK95JS3f9VvW3raRHADk"
+    },
+    {
+      "added_at": "2025-12-11 22:00:30",
+      "album": {
         "name": "How Dare You",
         "url": "https://open.spotify.com/album/5m3yTfB7TPF4ZEH45jEkL4"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 219605,
       "name": "How Dare You",
       "url": "https://open.spotify.com/track/3NxnFgg4YKQkqzNPQqAKRX"
-    },
-    {
-      "added_at": "2025-12-11 22:00:30",
-      "album": {
-        "name": "something new",
-        "url": "https://open.spotify.com/album/5KG7J4OfVqAnxqO830MFZ0"
-      },
-      "artists": [
-        {
-          "name": "ZUBIN",
-          "url": "https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E"
-        }
-      ],
-      "duration_ms": 125323,
-      "name": "something new",
-      "url": "https://open.spotify.com/track/15UK95JS3f9VvW3raRHADk"
     },
     {
       "added_at": "2025-12-11 22:00:30",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2025-12-11 22:00:30",
       "album": {
-        "name": "SNOWDOME",
-        "url": "https://open.spotify.com/album/1KnrKclfD8d1x6RAMYZ8FX"
+        "name": "29m2",
+        "url": "https://open.spotify.com/album/2o603LEnohudybAip7xJvO"
       },
       "artists": [
         {
-          "name": "WAYNE SNOW",
-          "url": "https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC"
+          "name": "Nic van Graan",
+          "url": "https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt"
         }
       ],
-      "duration_ms": 210386,
-      "name": "Cold Zone",
-      "url": "https://open.spotify.com/track/0SU1P7VuVWc9BsMv98o7Lf"
+      "duration_ms": 186486,
+      "name": "29m2",
+      "url": "https://open.spotify.com/track/6EhDkKFQfiLmjURsinPxsH"
     },
     {
       "added_at": "2025-12-11 22:00:30",
@@ -1243,6 +1243,22 @@
       "duration_ms": 351900,
       "name": "K\u00fa y\u00e2k \u00f1tu\u00e0 \u00e9y\u00e9t",
       "url": "https://open.spotify.com/track/54kVmozEcghsPjSXk8uHvm"
+    },
+    {
+      "added_at": "2025-12-11 22:00:30",
+      "album": {
+        "name": "SNOWDOME",
+        "url": "https://open.spotify.com/album/1KnrKclfD8d1x6RAMYZ8FX"
+      },
+      "artists": [
+        {
+          "name": "WAYNE SNOW",
+          "url": "https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC"
+        }
+      ],
+      "duration_ms": 210386,
+      "name": "Cold Zone",
+      "url": "https://open.spotify.com/track/0SU1P7VuVWc9BsMv98o7Lf"
     },
     {
       "added_at": "2025-12-11 22:00:30",
@@ -1279,22 +1295,6 @@
       "duration_ms": 145263,
       "name": "The Adults Are Talking",
       "url": "https://open.spotify.com/track/2nTNClRzELryaGpbFBSJHK"
-    },
-    {
-      "added_at": "2025-12-11 22:00:30",
-      "album": {
-        "name": "29m2",
-        "url": "https://open.spotify.com/album/2o603LEnohudybAip7xJvO"
-      },
-      "artists": [
-        {
-          "name": "Nic van Graan",
-          "url": "https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt"
-        }
-      ],
-      "duration_ms": 186486,
-      "name": "29m2",
-      "url": "https://open.spotify.com/track/6EhDkKFQfiLmjURsinPxsH"
     },
     {
       "added_at": "2025-12-11 22:00:30",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-12-11 22:00:30",
       "album": {
-        "name": "Beach Uniform",
-        "url": "https://open.spotify.com/album/1NYh7mmW97T2poHSbO3TyU"
-      },
-      "artists": [
-        {
-          "name": "Second House",
-          "url": "https://open.spotify.com/artist/3T45Gk2rlZuajL50HYD0eB"
-        }
-      ],
-      "duration_ms": 141975,
-      "name": "Beach Uniform",
-      "url": "https://open.spotify.com/track/1S0XDSYMauoLf1kUp8fBEx"
-    },
-    {
-      "added_at": "2025-12-11 22:00:30",
-      "album": {
         "name": "Standing in the Light",
         "url": "https://open.spotify.com/album/1vE7JqcDUHQHkaeAe0mvlf"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 187000,
       "name": "Standing in the Light",
       "url": "https://open.spotify.com/track/5jM3yT6eltDp3uR7bbjnx0"
+    },
+    {
+      "added_at": "2025-12-11 22:00:30",
+      "album": {
+        "name": "Beach Uniform",
+        "url": "https://open.spotify.com/album/1NYh7mmW97T2poHSbO3TyU"
+      },
+      "artists": [
+        {
+          "name": "Second House",
+          "url": "https://open.spotify.com/artist/3T45Gk2rlZuajL50HYD0eB"
+        }
+      ],
+      "duration_ms": 141975,
+      "name": "Beach Uniform",
+      "url": "https://open.spotify.com/track/1S0XDSYMauoLf1kUp8fBEx"
     },
     {
       "added_at": "2025-12-11 22:00:30",

@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste releases Hollands & Volks. Cover: Afro Bros, Billy Dans, Brace & Jeffrey Heesen",
-  "num_followers": 154551,
+  "num_followers": 154597,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAPqhP3q19l7nW/+f1WfSiuV4LkV",
+  "snapshot_id": "AAAAAG5K8fnJ+IGf6+3/eqPcoh9QI6r2",
   "tracks": [
     {
       "added_at": "2026-01-22 23:00:51",
@@ -35,6 +35,42 @@
       "duration_ms": 128014,
       "name": "Meisje",
       "url": "https://open.spotify.com/track/0rRmWgbfX5My6XY0gTa6TF"
+    },
+    {
+      "added_at": "2026-01-22 23:00:51",
+      "album": {
+        "name": "Spijt",
+        "url": "https://open.spotify.com/album/1oJnhUDpKzf2y4uNIsQU7F"
+      },
+      "artists": [
+        {
+          "name": "Gerrit Schneider",
+          "url": "https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u"
+        },
+        {
+          "name": "SHQQ",
+          "url": "https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Spijt",
+      "url": "https://open.spotify.com/track/146feoWoNIhrAtPWfShQaS"
+    },
+    {
+      "added_at": "2026-01-22 23:00:51",
+      "album": {
+        "name": "De Tapster Uit Tijuana",
+        "url": "https://open.spotify.com/album/43Xdl2v1kht5oRtsp8a6qL"
+      },
+      "artists": [
+        {
+          "name": "Sander Kwarten",
+          "url": "https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn"
+        }
+      ],
+      "duration_ms": 186911,
+      "name": "De Tapster Uit Tijuana",
+      "url": "https://open.spotify.com/track/3VKUZemyzO52vCdZrXl7A9"
     },
     {
       "added_at": "2026-01-22 23:00:51",
@@ -91,18 +127,22 @@
     {
       "added_at": "2026-01-22 23:00:51",
       "album": {
-        "name": "De Tapster Uit Tijuana",
-        "url": "https://open.spotify.com/album/43Xdl2v1kht5oRtsp8a6qL"
+        "name": "In Mijn Hart (Kroegversie)",
+        "url": "https://open.spotify.com/album/1troD6T0nGN6eOR9C30Sti"
       },
       "artists": [
         {
-          "name": "Sander Kwarten",
-          "url": "https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn"
+          "name": "Opgeblazen",
+          "url": "https://open.spotify.com/artist/1wLKrslSkMPt0GjK2PFQng"
+        },
+        {
+          "name": "Roosy",
+          "url": "https://open.spotify.com/artist/3ZxaiXxGpiqIWX6zoyRF1U"
         }
       ],
-      "duration_ms": 186911,
-      "name": "De Tapster Uit Tijuana",
-      "url": "https://open.spotify.com/track/3VKUZemyzO52vCdZrXl7A9"
+      "duration_ms": 147000,
+      "name": "In Mijn Hart (Kroegversie)",
+      "url": "https://open.spotify.com/track/4z8HbFg43M9B2e1gU64ixE"
     },
     {
       "added_at": "2026-01-22 23:00:51",
@@ -139,26 +179,6 @@
     {
       "added_at": "2026-01-22 23:00:51",
       "album": {
-        "name": "Spijt",
-        "url": "https://open.spotify.com/album/1oJnhUDpKzf2y4uNIsQU7F"
-      },
-      "artists": [
-        {
-          "name": "Gerrit Schneider",
-          "url": "https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u"
-        },
-        {
-          "name": "SHQQ",
-          "url": "https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Spijt",
-      "url": "https://open.spotify.com/track/146feoWoNIhrAtPWfShQaS"
-    },
-    {
-      "added_at": "2026-01-22 23:00:51",
-      "album": {
         "name": "Gekke Makelaar",
         "url": "https://open.spotify.com/album/6aZp52KbGn66Dy1gb0TItf"
       },
@@ -187,26 +207,6 @@
       "duration_ms": 167586,
       "name": "Aan alle mooie meiden",
       "url": "https://open.spotify.com/track/3R38jxs9G6mXXwEMXq8Df8"
-    },
-    {
-      "added_at": "2026-01-22 23:00:51",
-      "album": {
-        "name": "In Mijn Hart (Kroegversie)",
-        "url": "https://open.spotify.com/album/1troD6T0nGN6eOR9C30Sti"
-      },
-      "artists": [
-        {
-          "name": "Opgeblazen",
-          "url": "https://open.spotify.com/artist/1wLKrslSkMPt0GjK2PFQng"
-        },
-        {
-          "name": "Roosy",
-          "url": "https://open.spotify.com/artist/3ZxaiXxGpiqIWX6zoyRF1U"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "In Mijn Hart (Kroegversie)",
-      "url": "https://open.spotify.com/track/4z8HbFg43M9B2e1gU64ixE"
     },
     {
       "added_at": "2026-01-22 23:00:51",

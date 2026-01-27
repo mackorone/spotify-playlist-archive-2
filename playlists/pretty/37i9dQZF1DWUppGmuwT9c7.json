@@ -1,13 +1,33 @@
 {
   "description": "De grootste hits uit de kroeg in \u00e9\u00e9n playlist.",
-  "num_followers": 261987,
+  "num_followers": 262038,
   "original_name": "Kroegenhits 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGjTwA+wcrZ1L2vRZtG9SaWSdjdZ",
+  "snapshot_id": "AAAAAKBdz3ThqA7EIjHHEqMxC6mPcZ/L",
   "tracks": [
+    {
+      "added_at": "2026-01-22 23:00:51",
+      "album": {
+        "name": "Nachtenlang",
+        "url": "https://open.spotify.com/album/4OBRKixGsaU3xxK0tAZKkh"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "duration_ms": 175614,
+      "name": "Nachtenlang",
+      "url": "https://open.spotify.com/track/2Z3zbhR3DuwzXKoG5aN936"
+    },
     {
       "added_at": "2026-01-22 23:00:51",
       "album": {
@@ -67,26 +87,6 @@
       "duration_ms": 209090,
       "name": "Blikkendag",
       "url": "https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT"
-    },
-    {
-      "added_at": "2026-01-22 23:00:51",
-      "album": {
-        "name": "Nachtenlang",
-        "url": "https://open.spotify.com/album/4OBRKixGsaU3xxK0tAZKkh"
-      },
-      "artists": [
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        }
-      ],
-      "duration_ms": 175614,
-      "name": "Nachtenlang",
-      "url": "https://open.spotify.com/track/2Z3zbhR3DuwzXKoG5aN936"
     },
     {
       "added_at": "2026-01-22 23:00:51",
@@ -183,6 +183,34 @@
       "duration_ms": 147367,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB"
+    },
+    {
+      "added_at": "2026-01-22 23:00:51",
+      "album": {
+        "name": "Meisje",
+        "url": "https://open.spotify.com/album/3RddC9RIBIrGeS5VIGgRZS"
+      },
+      "artists": [
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        },
+        {
+          "name": "Brace",
+          "url": "https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG"
+        },
+        {
+          "name": "Jeffrey Heesen",
+          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
+        }
+      ],
+      "duration_ms": 128014,
+      "name": "Meisje",
+      "url": "https://open.spotify.com/track/0rRmWgbfX5My6XY0gTa6TF"
     },
     {
       "added_at": "2026-01-22 23:00:51",
@@ -287,34 +315,6 @@
       "duration_ms": 154691,
       "name": "Mo\u00ebt Dat Nou",
       "url": "https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8"
-    },
-    {
-      "added_at": "2026-01-22 23:00:51",
-      "album": {
-        "name": "Meisje",
-        "url": "https://open.spotify.com/album/3RddC9RIBIrGeS5VIGgRZS"
-      },
-      "artists": [
-        {
-          "name": "Afro Bros",
-          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
-        },
-        {
-          "name": "Billy Dans",
-          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
-        },
-        {
-          "name": "Brace",
-          "url": "https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG"
-        },
-        {
-          "name": "Jeffrey Heesen",
-          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
-        }
-      ],
-      "duration_ms": 128014,
-      "name": "Meisje",
-      "url": "https://open.spotify.com/track/0rRmWgbfX5My6XY0gTa6TF"
     },
     {
       "added_at": "2026-01-22 23:00:51",

@@ -1,29 +1,13 @@
 {
   "description": "Lagu-lagu positif untuk mengawali harimu.",
-  "num_followers": 253695,
+  "num_followers": 253700,
   "original_name": "Semangat Pagi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADJie9hoaBeQnydAIY7bEc+pRg+b",
+  "snapshot_id": "AAAAACSKOTWRVHqNItOjhPZ0AMoYQ5Y/",
   "tracks": [
-    {
-      "added_at": "2026-01-19 07:43:01",
-      "album": {
-        "name": "Belia",
-        "url": "https://open.spotify.com/album/1eu5CqoUQqQvYm3TDDRINa"
-      },
-      "artists": [
-        {
-          "name": "Rio Clappy",
-          "url": "https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe"
-        }
-      ],
-      "duration_ms": 305614,
-      "name": "Belia",
-      "url": "https://open.spotify.com/track/7zIx12pGZl51rAxO03Fxi1"
-    },
     {
       "added_at": "2025-09-25 10:34:58",
       "album": {
@@ -39,6 +23,38 @@
       "duration_ms": 223012,
       "name": "Senja Sudut Kota",
       "url": "https://open.spotify.com/track/27JBYWc4xN7OY4NJQ68pni"
+    },
+    {
+      "added_at": "2026-01-26 15:03:03",
+      "album": {
+        "name": "Scenery",
+        "url": "https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6"
+      },
+      "artists": [
+        {
+          "name": "Rafi Sudirman",
+          "url": "https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk"
+        }
+      ],
+      "duration_ms": 283311,
+      "name": "That Somebody",
+      "url": "https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz"
+    },
+    {
+      "added_at": "2026-01-19 07:43:01",
+      "album": {
+        "name": "Belia",
+        "url": "https://open.spotify.com/album/1eu5CqoUQqQvYm3TDDRINa"
+      },
+      "artists": [
+        {
+          "name": "Rio Clappy",
+          "url": "https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe"
+        }
+      ],
+      "duration_ms": 305614,
+      "name": "Belia",
+      "url": "https://open.spotify.com/track/7zIx12pGZl51rAxO03Fxi1"
     },
     {
       "added_at": "2025-03-03 12:33:50",
@@ -57,6 +73,22 @@
       "url": "https://open.spotify.com/track/5Lckue0qhDiqTBKAp72BL2"
     },
     {
+      "added_at": "2026-01-26 15:03:03",
+      "album": {
+        "name": "Cegil",
+        "url": "https://open.spotify.com/album/3lxXnNeKdTgQrGiuZtIo5s"
+      },
+      "artists": [
+        {
+          "name": "Nabila Taqiyyah",
+          "url": "https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe"
+        }
+      ],
+      "duration_ms": 176169,
+      "name": "Cegil",
+      "url": "https://open.spotify.com/track/1hfSoyfUsiIYQrB9LJrRN1"
+    },
+    {
       "added_at": "2026-01-19 07:43:01",
       "album": {
         "name": "Ya Sudahlah",
@@ -73,50 +105,6 @@
       "url": "https://open.spotify.com/track/2mKzrX1HgyZpp1hkg912hA"
     },
     {
-      "added_at": "2025-07-17 17:00:12",
-      "album": {
-        "name": "TEATER NESTAPA",
-        "url": "https://open.spotify.com/album/6z3bQ2C26jxl3sSCRJgNUf"
-      },
-      "artists": [
-        {
-          "name": "RAN",
-          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
-        }
-      ],
-      "duration_ms": 208500,
-      "name": "Masih Takut Mencinta",
-      "url": "https://open.spotify.com/track/4E6iWEsfOAkrT4OpluseK1"
-    },
-    {
-      "added_at": "2026-01-19 07:43:01",
-      "album": {
-        "name": "TAGULING-GULING",
-        "url": "https://open.spotify.com/album/2PEL4HwjE2RMwLCnqZvjna"
-      },
-      "artists": [
-        {
-          "name": "Silet Open Up",
-          "url": "https://open.spotify.com/artist/5naPJsWUJ6y22yKXA6dX36"
-        },
-        {
-          "name": "Jacson Zeran",
-          "url": "https://open.spotify.com/artist/5YAtyYCXXQ7YPuowGWuqPp"
-        },
-        {
-          "name": "Ecko Show",
-          "url": "https://open.spotify.com/artist/3oh5PUaDZkd57Yp1jsA6gp"
-        },
-        {
-          "name": "Diva Aurel",
-          "url": "https://open.spotify.com/artist/5aOpLMYo7aOOxoXBFkiJ4u"
-        }
-      ],
-      "duration_ms": 281856,
-      "name": "TAGULING-GULING",
-      "url": "https://open.spotify.com/track/3kpyfir8JelHtZosulYtBm"
-    },
-    {
       "added_at": "2025-05-09 07:33:16",
       "album": {
         "name": "Rahasia Pertama",
@@ -131,6 +119,22 @@
       "duration_ms": 191079,
       "name": "Tak Ada Yang Sepertimu",
       "url": "https://open.spotify.com/track/5Yh1sTQAU3BTIKMp3K5ZOX"
+    },
+    {
+      "added_at": "2025-07-17 17:00:12",
+      "album": {
+        "name": "TEATER NESTAPA",
+        "url": "https://open.spotify.com/album/6z3bQ2C26jxl3sSCRJgNUf"
+      },
+      "artists": [
+        {
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+        }
+      ],
+      "duration_ms": 208500,
+      "name": "Masih Takut Mencinta",
+      "url": "https://open.spotify.com/track/4E6iWEsfOAkrT4OpluseK1"
     },
     {
       "added_at": "2025-06-23 05:08:05",
@@ -255,6 +259,38 @@
       "duration_ms": 197963,
       "name": "Well, dadah",
       "url": "https://open.spotify.com/track/5qxbLTQzhm8pDTbS2W9kyp"
+    },
+    {
+      "added_at": "2026-01-26 15:03:03",
+      "album": {
+        "name": "Latihan Bahagia",
+        "url": "https://open.spotify.com/album/7gEVjoeEEfG5hwTy5NxTCv"
+      },
+      "artists": [
+        {
+          "name": "Valent Duga",
+          "url": "https://open.spotify.com/artist/6Hkx3ewDN37sXxkHDyebUC"
+        }
+      ],
+      "duration_ms": 233058,
+      "name": "Untukmu yang Masih Bertahan",
+      "url": "https://open.spotify.com/track/2Zj8XXGpxdO9gsb9djjMuv"
+    },
+    {
+      "added_at": "2026-01-26 15:03:03",
+      "album": {
+        "name": "Pemula",
+        "url": "https://open.spotify.com/album/2q8cHBvnDPg1x8xEvof4Lt"
+      },
+      "artists": [
+        {
+          "name": "Jinan Laetitia",
+          "url": "https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Pemula",
+      "url": "https://open.spotify.com/track/0vAL8i68jrL5Y5L7jHgShZ"
     },
     {
       "added_at": "2025-09-29 06:20:31",
@@ -547,22 +583,6 @@
     {
       "added_at": "2025-07-07 07:40:42",
       "album": {
-        "name": "New World",
-        "url": "https://open.spotify.com/album/5cxaftDAyQHs0aJSPFpZar"
-      },
-      "artists": [
-        {
-          "name": "Kohi Sekai",
-          "url": "https://open.spotify.com/artist/2bt858ji7ugrpjuNUEChED"
-        }
-      ],
-      "duration_ms": 273473,
-      "name": "New World",
-      "url": "https://open.spotify.com/track/0Rmx4lwrpcKw1P65ol1Wdq"
-    },
-    {
-      "added_at": "2025-07-07 07:40:42",
-      "album": {
         "name": "For All",
         "url": "https://open.spotify.com/album/0LTNM8p3hEvAPbidxNtg7Q"
       },
@@ -613,30 +633,6 @@
       "url": "https://open.spotify.com/track/2mWNTjU0DCB0QNHEkucRXF"
     },
     {
-      "added_at": "2025-06-23 05:45:10",
-      "album": {
-        "name": "Bawa Daku Pergi",
-        "url": "https://open.spotify.com/album/15CnCIgyXksZs7sZBS8o0h"
-      },
-      "artists": [
-        {
-          "name": "Soundwave",
-          "url": "https://open.spotify.com/artist/2KMR8kfHQCPYJ2SatjkIEu"
-        },
-        {
-          "name": "RINNI",
-          "url": "https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh"
-        },
-        {
-          "name": "Jevin Julian",
-          "url": "https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O"
-        }
-      ],
-      "duration_ms": 191707,
-      "name": "Bawa Daku Pergi",
-      "url": "https://open.spotify.com/track/7mZOZpsfwVOnLjznR8XtiR"
-    },
-    {
       "added_at": "2025-03-03 12:33:50",
       "album": {
         "name": "Nina",
@@ -651,26 +647,6 @@
       "duration_ms": 277944,
       "name": "Nina",
       "url": "https://open.spotify.com/track/1zFaLYA10ImwEejge3F5nm"
-    },
-    {
-      "added_at": "2025-03-03 12:33:50",
-      "album": {
-        "name": "Magnet",
-        "url": "https://open.spotify.com/album/1DvGtGi6iUv4QHQIueLWYk"
-      },
-      "artists": [
-        {
-          "name": "KIM",
-          "url": "https://open.spotify.com/artist/1ltPgn4r3rgK3NcpJZScIp"
-        },
-        {
-          "name": "Marion Jola",
-          "url": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
-        }
-      ],
-      "duration_ms": 216959,
-      "name": "Magnet",
-      "url": "https://open.spotify.com/track/1xmR2idNjgxB8MTkBFh47L"
     },
     {
       "added_at": "2025-06-23 05:08:05",

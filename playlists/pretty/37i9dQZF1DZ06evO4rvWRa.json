@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1638663,
+  "num_followers": 1638627,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXQLgAAAAAD7WoZjf1bmgOdYr6qUQ7Sh",
+  "snapshot_id": "aXVdAAAAAABUiWtw92x5jyX3Gg813OxV",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quantum Beats",
-        "url": "https://open.spotify.com/album/6awmWsdndqljxHc1nzUTdu"
+        "name": "Ignite",
+        "url": "https://open.spotify.com/album/6Rg9tJW4DSAUyNp59VXzu1"
       },
       "artists": [
         {
@@ -292,21 +292,21 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "Julie Bergan",
+          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
         },
         {
-          "name": "Lonely Club",
-          "url": "https://open.spotify.com/artist/1tPJP9nWEM6mQK295zgp2K"
+          "name": "K-391",
+          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
         },
         {
-          "name": "Arash",
-          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
+          "name": "SEUNGRI",
+          "url": "https://open.spotify.com/artist/20j1uz7iDOtIvIzCr5S8nx"
         }
       ],
-      "duration_ms": 171200,
-      "name": "Broken Angel (This is Lonely Club)",
-      "url": "https://open.spotify.com/track/56PCJsbp8S0MTSMEbeGnnr"
+      "duration_ms": 210288,
+      "name": "Ignite",
+      "url": "https://open.spotify.com/track/1jLsirPDkUS2g4gnkYua58"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ignite",
-        "url": "https://open.spotify.com/album/6Rg9tJW4DSAUyNp59VXzu1"
+        "name": "Quantum Beats",
+        "url": "https://open.spotify.com/album/6awmWsdndqljxHc1nzUTdu"
       },
       "artists": [
         {
@@ -344,21 +344,21 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Julie Bergan",
-          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         },
         {
-          "name": "K-391",
-          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
+          "name": "Lonely Club",
+          "url": "https://open.spotify.com/artist/1tPJP9nWEM6mQK295zgp2K"
         },
         {
-          "name": "SEUNGRI",
-          "url": "https://open.spotify.com/artist/20j1uz7iDOtIvIzCr5S8nx"
+          "name": "Arash",
+          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
         }
       ],
-      "duration_ms": 210288,
-      "name": "Ignite",
-      "url": "https://open.spotify.com/track/1jLsirPDkUS2g4gnkYua58"
+      "duration_ms": 171200,
+      "name": "Broken Angel (This is Lonely Club)",
+      "url": "https://open.spotify.com/track/56PCJsbp8S0MTSMEbeGnnr"
     },
     {
       "added_at": null,

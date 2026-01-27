@@ -248,7 +248,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 170000,
       "name": "Avenida Brasil",
       "url": "https://open.spotify.com/track/7eIfnbitmJPHXbSeyjzVlC"
@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 138290,
       "name": "Lince Parda",
       "url": "https://open.spotify.com/track/6R43rsA9EMFH4qU25Y0XNJ"
@@ -2027,6 +2027,40 @@
     },
     {
       "album": {
+        "name": "Resenha da Dia",
+        "url": "https://open.spotify.com/album/728PEzET5fMkbN0hYehgUP"
+      },
+      "artists": [
+        {
+          "name": "DJ DIA",
+          "url": "https://open.spotify.com/artist/1tPAYPPNWuSw0zcBhE2SxP"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Dj Bel Bertinelli",
+          "url": "https://open.spotify.com/artist/7M4wGNG2NYHUBFHOMKeg2V"
+        },
+        {
+          "name": "DJ L Mark",
+          "url": "https://open.spotify.com/artist/0gauNc5NXwUW9GwcH7QwFe"
+        },
+        {
+          "name": "+44 Studio",
+          "url": "https://open.spotify.com/artist/4B5yovfsKzZgWI9NDRuxbE"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131700,
+      "name": "Resenha da Dia",
+      "url": "https://open.spotify.com/track/4dMfMK7pMA8y0f0LWrbJgG"
+    },
+    {
+      "album": {
         "name": "RomantiDog",
         "url": "https://open.spotify.com/album/00kVv1eVa8WDdhUrGg9yAW"
       },
@@ -2164,7 +2198,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 157000,
       "name": "Salto Alto",
       "url": "https://open.spotify.com/track/5tJm7qkKmiwt2iHZBLR02c"

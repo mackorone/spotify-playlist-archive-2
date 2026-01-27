@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: can\u2019t be blue (\uce94\ud2b8\ube44\ube14\ub8e8)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: JEONG HYO BEAN (\uc815\ud6a8\ube48)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -6793,6 +6793,24 @@
     },
     {
       "album": {
+        "name": "Our time that was flowing calmly Vol.2",
+        "url": "https://open.spotify.com/album/7E0bbatgoKoATgfnrXiwMr"
+      },
+      "artists": [
+        {
+          "name": "Bily Acoustie",
+          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Getting Better Little By Little",
+      "url": "https://open.spotify.com/track/4pGcdHIkxbuBkbLgE9TVh8"
+    },
+    {
+      "album": {
         "name": "Getting the Season",
         "url": "https://open.spotify.com/album/77DQNQ0pscdJwCI0uz9RtW"
       },
@@ -6948,7 +6966,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 191428,
       "name": "Girls",
       "url": "https://open.spotify.com/track/6lEc9x1r1AOxH5gltRUuLX"
@@ -10864,7 +10882,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 232573,
       "name": "Like me, Love me, and",
       "url": "https://open.spotify.com/track/6nTdhFncoiNoJ0eCSoI3s1"
@@ -15809,6 +15827,24 @@
     },
     {
       "album": {
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/1SNgh1tR8hdHrIwnsKy1pK"
+      },
+      "artists": [
+        {
+          "name": "JEONG HYO BEAN",
+          "url": "https://open.spotify.com/artist/39mNLQ2I1Al3Ewrr9tTxhB"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Sail",
+      "url": "https://open.spotify.com/track/18VqjfMIdKa3Co07tmzNdI"
+    },
+    {
+      "album": {
         "name": "salty heart",
         "url": "https://open.spotify.com/album/7zb17rxkTyZ5mHtGNs7ZS0"
       },
@@ -16428,7 +16464,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 306629,
       "name": "Side by side",
       "url": "https://open.spotify.com/track/4sMRRM73otAmc4NjNiqJmE"
@@ -18342,6 +18378,24 @@
       "duration_ms": 207850,
       "name": "Swan",
       "url": "https://open.spotify.com/track/6G0Kl2Fi4DalbsfbzuzMcD"
+    },
+    {
+      "album": {
+        "name": "shining.",
+        "url": "https://open.spotify.com/album/7alBVFv3w8aOaSJYLIw8nD"
+      },
+      "artists": [
+        {
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191278,
+      "name": "sway",
+      "url": "https://open.spotify.com/track/78KWPtzyxqY36h1Z4OcgbJ"
     },
     {
       "album": {

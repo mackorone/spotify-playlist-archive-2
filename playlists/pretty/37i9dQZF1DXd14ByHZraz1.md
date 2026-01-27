@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Alok, Gui Boratto, House of EL
 
-[Spotify](https://open.spotify.com/user/spotify) - 923,058 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,054 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 13 | [EYES](https://open.spotify.com/track/77UBLe8jlRIxn8AsouUtS1) | [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx) | [EYES](https://open.spotify.com/album/02vJlON5DhAy9I73azuKcx) | 3:33 |
 | 14 | [Portal 1111](https://open.spotify.com/track/29nyLx7artdrrOaDyjFjqL) | [Chemical Disco](https://open.spotify.com/artist/4maPOgU5vs4qwlVrd5Q5Ha), [Hegregora](https://open.spotify.com/artist/5V2c8tb0g2HXpQqVQNk4ww) | [Portal 1111](https://open.spotify.com/album/7uJgHC3tb61i6cC3W65ima) | 3:32 |
 | 15 | [Pill](https://open.spotify.com/track/0CP12bH6ES84AyycXYp1Si) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX) | [O Novo Testamento](https://open.spotify.com/album/6Ry6vnrPB1r5l60AOOT8G2) | 3:29 |
-| 16 | [Machine](https://open.spotify.com/track/4qHCsEA7EtRKUQVf00tybz) | [Riro](https://open.spotify.com/artist/4NqnlCPDCBgLdVOY8lDark) | [Human Experience](https://open.spotify.com/album/4Gv0T3z8IBCxGaohWJvoBf) | 2:55 |
+| 16 | [Machine](https://open.spotify.com/track/4qHCsEA7EtRKUQVf00tybz) | [Riro](https://open.spotify.com/artist/4NqnlCPDCBgLdVOY8lDark), [Kalicrono](https://open.spotify.com/artist/3c3icpqkMCfsEjCufMHQdE) | [Human Experience](https://open.spotify.com/album/4Gv0T3z8IBCxGaohWJvoBf) | 2:55 |
 | 17 | [Lost](https://open.spotify.com/track/1OeW24Ek3LEthuQz1UyYCj) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Gabss](https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq) | [Lost](https://open.spotify.com/album/7w2dkzNW5zi8gWcgifhR8D) | 3:39 |
 | 18 | [Evil](https://open.spotify.com/track/3I82UgyI4rzaXSwAGJvvfw) | [TAWWA](https://open.spotify.com/artist/6yBHf0snZYUKr4CWZC50N6), [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn) | [Evil](https://open.spotify.com/album/6LmICPiQ7WCGs2KnJHXfQ1) | 2:30 |
 | 19 | [I Don't Care](https://open.spotify.com/track/3o7B0xq8v84PnuSmi54ixW) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [THECAP](https://open.spotify.com/artist/1hPbiOxL86lKFEXSgSPkSt), [Zenith](https://open.spotify.com/artist/58rRhmvBlhJ10X5uiVpMzo) | [I Don't Care](https://open.spotify.com/album/1l3uUVYKdqfpDu4jd65TUs) | 2:22 |

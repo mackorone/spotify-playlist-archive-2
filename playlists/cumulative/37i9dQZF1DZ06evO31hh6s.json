@@ -1123,6 +1123,28 @@
     },
     {
       "album": {
+        "name": "Fast Life",
+        "url": "https://open.spotify.com/album/7tmndkdFtmXBdciskOp4xG"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Deuce Deuce",
+          "url": "https://open.spotify.com/artist/076I9mh0LL6igSU0alHNzF"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183640,
+      "name": "Go Back",
+      "url": "https://open.spotify.com/track/67ijEoJiRMM3Cu1xcy7IQ0"
+    },
+    {
+      "album": {
         "name": "Positive Vibes Only",
         "url": "https://open.spotify.com/album/3Zo7beAfN4fusdgeAWedjd"
       },
@@ -2002,7 +2024,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 316442,
       "name": "Nasty New Street",
       "url": "https://open.spotify.com/track/1ww3wxdRpwqdpkZ8BWYhvC"
@@ -2090,6 +2112,28 @@
       "duration_ms": 200200,
       "name": "One Take",
       "url": "https://open.spotify.com/track/2tXN3CGLzK4utMp2wDyROo"
+    },
+    {
+      "album": {
+        "name": "Outlaw Culture: The Official Mixtape",
+        "url": "https://open.spotify.com/album/1Gh3K7HwadnjhEJSnbSxgB"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "DJ Rip",
+          "url": "https://open.spotify.com/artist/1jcu601MrPV3mE3hN7ffmZ"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177493,
+      "name": "Outlaw 4 Life",
+      "url": "https://open.spotify.com/track/27mx0SkWbXpw1iKqp26m1H"
     },
     {
       "album": {
@@ -2450,7 +2494,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 159652,
       "name": "Priceless",
       "url": "https://open.spotify.com/track/1nAi14myaAe4grCnvZVvhk"
@@ -2584,7 +2628,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 152759,
       "name": "Reality (feat. Young Noble & Black C)",
       "url": "https://open.spotify.com/track/4VQ64nltSngqNnYD9qqjXe"
@@ -3348,7 +3392,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 240014,
       "name": "Ungrateful (feat. Paris Roze & Tony Atlanta)",
       "url": "https://open.spotify.com/track/1tMtQwxPmYVELaHheAo4GA"

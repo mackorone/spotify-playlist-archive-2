@@ -1151,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "lost my love",
+        "url": "https://open.spotify.com/album/7oQ2JJdkZ2enJhA8muW4Cw"
+      },
+      "artists": [
+        {
+          "name": "Mustafa!",
+          "url": "https://open.spotify.com/artist/5pcPIjWVjazBClmhAp7mr4"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201578,
+      "name": "lost my love",
+      "url": "https://open.spotify.com/track/3nh18o0W0aAoXn0SmDec5E"
+    },
+    {
+      "album": {
         "name": "Lot 6",
         "url": "https://open.spotify.com/album/2xlOHmTUeDsLd1p6oED4jO"
       },

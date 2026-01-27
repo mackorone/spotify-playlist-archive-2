@@ -14013,6 +14013,24 @@
     },
     {
       "album": {
+        "name": "Jamie MacDonald",
+        "url": "https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp"
+      },
+      "artists": [
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214935,
+      "name": "Who He Is",
+      "url": "https://open.spotify.com/track/5gn9wcB1UYSOlwMJOCkE2B"
+    },
+    {
+      "album": {
         "name": "Who Is Like You",
         "url": "https://open.spotify.com/album/42HN6Vo3MNDXUvFbIzvy5d"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
-  "num_followers": 2950558,
+  "num_followers": 2950502,
   "original_name": "This Is XXXTENTACION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXQLgAAAAAAKmNv9onJ2b0ZVlu3lE2qh",
+  "snapshot_id": "aXVdAAAAAACYN+AM55yZBUo0Zq1LTEJg",
   "tracks": [
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Will Regret (Reloaded)",
-        "url": "https://open.spotify.com/album/2pTyjuQ1d1d79Chhknoa2h"
-      },
-      "artists": [
-        {
-          "name": "Ski Mask The Slump God",
-          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
-        },
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 210386,
-      "name": "Take A Step Back",
-      "url": "https://open.spotify.com/track/2gQYziDV5cSTRSqr6akzi5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tha Carter V",
         "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 249450,
       "name": "Don't Cry (feat. XXXTENTACION)",
       "url": "https://open.spotify.com/track/5BQrp63SHCVf4bzCzJePne"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Will Regret (Reloaded)",
+        "url": "https://open.spotify.com/album/2pTyjuQ1d1d79Chhknoa2h"
+      },
+      "artists": [
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 210386,
+      "name": "Take A Step Back",
+      "url": "https://open.spotify.com/track/2gQYziDV5cSTRSqr6akzi5"
     },
     {
       "added_at": null,

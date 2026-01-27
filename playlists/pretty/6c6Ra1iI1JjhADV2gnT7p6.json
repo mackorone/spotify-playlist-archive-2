@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of indie, dreampop and lofi vibes. Updated every week, save your favorites \ud83d\udc9c",
-  "num_followers": 59629,
+  "num_followers": 59634,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAAtHieZKCm8CK67iHsiDWeXcrhFknUX",
+  "snapshot_id": "AAAtJdeQtveJ4F3l5HenKKCtvG6Tyhbj",
   "tracks": [
     {
       "added_at": "2026-01-25 04:13:07",
@@ -1979,6 +1979,54 @@
     {
       "added_at": "2026-01-25 04:13:07",
       "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/42anN0kSbYKQgoqFOikCG3"
+      },
+      "artists": [
+        {
+          "name": "Beaks",
+          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
+        }
+      ],
+      "duration_ms": 169853,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/6tUYkdVkxwPVuFWhR6Bv1J"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
+        "name": "Promotion Tendencies",
+        "url": "https://open.spotify.com/album/4ZQvWOYfmmkdyel8bRaZ3P"
+      },
+      "artists": [
+        {
+          "name": "That Graduate",
+          "url": "https://open.spotify.com/artist/1PN5OVSTnGQdzHFASmnZxp"
+        }
+      ],
+      "duration_ms": 240095,
+      "name": "Self-Doubt",
+      "url": "https://open.spotify.com/track/1JJQQwu4MnRlampCbRXseS"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
+        "name": "little world",
+        "url": "https://open.spotify.com/album/53tgAEv58HnP36XLuUa0Qj"
+      },
+      "artists": [
+        {
+          "name": "The Flamingo Years",
+          "url": "https://open.spotify.com/artist/6uFb30We9gUzsagzjPdmzQ"
+        }
+      ],
+      "duration_ms": 286400,
+      "name": "little world",
+      "url": "https://open.spotify.com/track/40lfjDowFCwUbR3ar9bxnl"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
         "name": "Missing Hearts",
         "url": "https://open.spotify.com/album/0WrDGQ4qnHQSZEN4WI1vp2"
       },
@@ -2007,6 +2055,26 @@
       "duration_ms": 160050,
       "name": "Say the Words (Tell Me I\u2019m Yours)",
       "url": "https://open.spotify.com/track/6xxd2cSU3C3hyxQNgKMrsC"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
+        "name": "last call",
+        "url": "https://open.spotify.com/album/1sMON7VgGwuitqhW2vmjR6"
+      },
+      "artists": [
+        {
+          "name": "campthehills",
+          "url": "https://open.spotify.com/artist/01Xh6d2xRTGEpxZw0Khyrs"
+        },
+        {
+          "name": "Rio Leyva",
+          "url": "https://open.spotify.com/artist/152gjMYGXqUF9Lq9bYgx2I"
+        }
+      ],
+      "duration_ms": 150394,
+      "name": "last call",
+      "url": "https://open.spotify.com/track/3MpcWh1xYuUwsq6KOsZmK3"
     },
     {
       "added_at": "2026-01-25 04:13:07",
@@ -3927,54 +3995,6 @@
     {
       "added_at": "2026-01-25 04:13:07",
       "album": {
-        "name": "Venom",
-        "url": "https://open.spotify.com/album/42anN0kSbYKQgoqFOikCG3"
-      },
-      "artists": [
-        {
-          "name": "Beaks",
-          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
-        }
-      ],
-      "duration_ms": 169853,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/6tUYkdVkxwPVuFWhR6Bv1J"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
-        "name": "Promotion Tendencies",
-        "url": "https://open.spotify.com/album/4ZQvWOYfmmkdyel8bRaZ3P"
-      },
-      "artists": [
-        {
-          "name": "That Graduate",
-          "url": "https://open.spotify.com/artist/1PN5OVSTnGQdzHFASmnZxp"
-        }
-      ],
-      "duration_ms": 240095,
-      "name": "Self-Doubt",
-      "url": "https://open.spotify.com/track/1JJQQwu4MnRlampCbRXseS"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
-        "name": "little world",
-        "url": "https://open.spotify.com/album/53tgAEv58HnP36XLuUa0Qj"
-      },
-      "artists": [
-        {
-          "name": "The Flamingo Years",
-          "url": "https://open.spotify.com/artist/6uFb30We9gUzsagzjPdmzQ"
-        }
-      ],
-      "duration_ms": 286400,
-      "name": "little world",
-      "url": "https://open.spotify.com/track/40lfjDowFCwUbR3ar9bxnl"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
         "name": "Seller's Remorse",
         "url": "https://open.spotify.com/album/3nlBGLr652Mz6ObYx2EPFb"
       },
@@ -4135,26 +4155,6 @@
     {
       "added_at": "2026-01-25 04:13:07",
       "album": {
-        "name": "last call",
-        "url": "https://open.spotify.com/album/1sMON7VgGwuitqhW2vmjR6"
-      },
-      "artists": [
-        {
-          "name": "campthehills",
-          "url": "https://open.spotify.com/artist/01Xh6d2xRTGEpxZw0Khyrs"
-        },
-        {
-          "name": "Rio Leyva",
-          "url": "https://open.spotify.com/artist/152gjMYGXqUF9Lq9bYgx2I"
-        }
-      ],
-      "duration_ms": 150394,
-      "name": "last call",
-      "url": "https://open.spotify.com/track/3MpcWh1xYuUwsq6KOsZmK3"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
         "name": "LU/CY",
         "url": "https://open.spotify.com/album/2TdSnKF1HfAcFoTl7FoPwW"
       },
@@ -4255,22 +4255,6 @@
     {
       "added_at": "2026-01-25 04:13:07",
       "album": {
-        "name": "Where the Earth Bends",
-        "url": "https://open.spotify.com/album/5suU0AKcOonLRnyN0tAPrk"
-      },
-      "artists": [
-        {
-          "name": "Daffo",
-          "url": "https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp"
-        }
-      ],
-      "duration_ms": 146799,
-      "name": "When I\u2019m In Hell",
-      "url": "https://open.spotify.com/track/0vjYhoSbzHYad7p6vEaGTp"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
         "name": "Jinx!",
         "url": "https://open.spotify.com/album/3NDGtUVF67oIqnrGAMqxxx"
       },
@@ -4283,38 +4267,6 @@
       "duration_ms": 246000,
       "name": "Jinx!",
       "url": "https://open.spotify.com/track/5Fc3812H3m8GqMS2pJYCNK"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
-        "name": "Return",
-        "url": "https://open.spotify.com/album/2MEIAI8ldOUBT4qaRRkW8y"
-      },
-      "artists": [
-        {
-          "name": "No Windows",
-          "url": "https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr"
-        }
-      ],
-      "duration_ms": 182757,
-      "name": "Return",
-      "url": "https://open.spotify.com/track/3481DrT3d5MZXjo5sa11TO"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
-        "name": "Party Punisher",
-        "url": "https://open.spotify.com/album/6PgQxNm2PqhxVZ6lYW5A2h"
-      },
-      "artists": [
-        {
-          "name": "Cool Sounds",
-          "url": "https://open.spotify.com/artist/0soSU9eC31tES3VthvCLtU"
-        }
-      ],
-      "duration_ms": 173873,
-      "name": "And That's How I Got The Congas",
-      "url": "https://open.spotify.com/track/7y8cMPcaKiCbq4p7488xZb"
     },
     {
       "added_at": "2026-01-25 04:13:07",
@@ -4339,22 +4291,34 @@
     {
       "added_at": "2026-01-25 04:13:07",
       "album": {
-        "name": "Vice City Magic",
-        "url": "https://open.spotify.com/album/4nYVLUVhQb9bD7l1QlYoFS"
+        "name": "Return",
+        "url": "https://open.spotify.com/album/2MEIAI8ldOUBT4qaRRkW8y"
       },
       "artists": [
         {
-          "name": "Mustard Service",
-          "url": "https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns"
-        },
-        {
-          "name": "JW Francis",
-          "url": "https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6"
+          "name": "No Windows",
+          "url": "https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr"
         }
       ],
-      "duration_ms": 156579,
-      "name": "How Come",
-      "url": "https://open.spotify.com/track/5nAklhyFwZJ8DocphucsJv"
+      "duration_ms": 182757,
+      "name": "Return",
+      "url": "https://open.spotify.com/track/3481DrT3d5MZXjo5sa11TO"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/249QbpxixlVUcNUwTxc51s"
+      },
+      "artists": [
+        {
+          "name": "Beauty Queen",
+          "url": "https://open.spotify.com/artist/2ddlG5nlorHHTqIt5ag8Ep"
+        }
+      ],
+      "duration_ms": 171125,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/301Ku0qR3bOfP5Oq6fRVx7"
     },
     {
       "added_at": "2026-01-25 04:13:07",
@@ -4379,18 +4343,54 @@
     {
       "added_at": "2026-01-25 04:13:07",
       "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/249QbpxixlVUcNUwTxc51s"
+        "name": "Where the Earth Bends",
+        "url": "https://open.spotify.com/album/5suU0AKcOonLRnyN0tAPrk"
       },
       "artists": [
         {
-          "name": "Beauty Queen",
-          "url": "https://open.spotify.com/artist/2ddlG5nlorHHTqIt5ag8Ep"
+          "name": "Daffo",
+          "url": "https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp"
         }
       ],
-      "duration_ms": 171125,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/301Ku0qR3bOfP5Oq6fRVx7"
+      "duration_ms": 146799,
+      "name": "When I\u2019m In Hell",
+      "url": "https://open.spotify.com/track/0vjYhoSbzHYad7p6vEaGTp"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
+        "name": "Party Punisher",
+        "url": "https://open.spotify.com/album/6PgQxNm2PqhxVZ6lYW5A2h"
+      },
+      "artists": [
+        {
+          "name": "Cool Sounds",
+          "url": "https://open.spotify.com/artist/0soSU9eC31tES3VthvCLtU"
+        }
+      ],
+      "duration_ms": 173873,
+      "name": "And That's How I Got The Congas",
+      "url": "https://open.spotify.com/track/7y8cMPcaKiCbq4p7488xZb"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
+        "name": "Vice City Magic",
+        "url": "https://open.spotify.com/album/4nYVLUVhQb9bD7l1QlYoFS"
+      },
+      "artists": [
+        {
+          "name": "Mustard Service",
+          "url": "https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns"
+        },
+        {
+          "name": "JW Francis",
+          "url": "https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6"
+        }
+      ],
+      "duration_ms": 156579,
+      "name": "How Come",
+      "url": "https://open.spotify.com/track/5nAklhyFwZJ8DocphucsJv"
     },
     {
       "added_at": "2026-01-25 04:13:07",

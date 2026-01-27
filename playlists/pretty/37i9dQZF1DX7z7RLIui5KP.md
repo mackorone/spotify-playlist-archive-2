@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 
 > Proudly Kenyan gems made for the entire family\. Cover: Tuku Kantu
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,683 likes - 59 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,696 likes - 59 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

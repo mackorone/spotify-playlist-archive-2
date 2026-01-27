@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 525656,
+  "num_followers": 525702,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -575,26 +575,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Me Dicen Cuba / Rosa la Peligrosa",
-        "url": "https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN"
-      },
-      "artists": [
-        {
-          "name": "Alexander Abreu",
-          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        },
-        {
-          "name": "Havana D\u2019Primera",
-          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
-        }
-      ],
-      "duration_ms": 358480,
-      "name": "Rosa la Peligrosa",
-      "url": "https://open.spotify.com/track/0hpDDynkRmnH6BeW2IuLCE"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "Latin Trumpets - Bolero",
         "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 168866,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Me Dicen Cuba / Rosa la Peligrosa",
+        "url": "https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN"
+      },
+      "artists": [
+        {
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        },
+        {
+          "name": "Havana D\u2019Primera",
+          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
+        }
+      ],
+      "duration_ms": 358480,
+      "name": "Rosa la Peligrosa",
+      "url": "https://open.spotify.com/track/0hpDDynkRmnH6BeW2IuLCE"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -791,8 +791,8 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Lo Mejor de la Charanga",
-        "url": "https://open.spotify.com/album/17BU5qXTnzlNo6ETqkBY2S"
+        "name": "Olvida Que Te Olvide",
+        "url": "https://open.spotify.com/album/6EwixuIBcRFYSZPoxeS0ng"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw"
         }
       ],
-      "duration_ms": 324493,
-      "name": "\u00a1Ay! Ay Amor",
-      "url": "https://open.spotify.com/track/5FxtsZEiJqNn9mCl4lAJKp"
+      "duration_ms": 226000,
+      "name": "Olvida Que Te Olvide",
+      "url": "https://open.spotify.com/track/7f9kaG29f9CfyIwHpNJGOH"
     },
     {
       "added_at": "2025-03-07 06:00:25",

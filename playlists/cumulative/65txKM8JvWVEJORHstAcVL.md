@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md) - cumulative - [plain](/playlists/plain/65txKM8JvWVEJORHstAcVL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/65txKM8JvWVEJORHstAcVL)
 
-### [LA LLISTA DE FLAIXBAC \(18/01/2026\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
+### [LA LLISTA DE FLAIXBAC \(25/01/2026\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-225 songs - 11 hr 14 min
+227 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,12 +154,13 @@
 | [Ohnana](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Ohnana](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 | 2024-09-08 | 2025-03-18 |
 | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 | 2024-10-20 | 2025-03-10 |
 | [On t'has ficat aquesta nit?](https://open.spotify.com/track/07STk0CsYrCkhYalbL0bVG) | [La Ludwig Band](https://open.spotify.com/artist/1hOwyBjBzD71G76KApDEy5) | [On t'has ficat aquesta nit?](https://open.spotify.com/album/0CRI1sYFgajuz1EOh1tMui) | 3:18 | 2025-11-17 |  |
-| [on volíem estar](https://open.spotify.com/track/5BsGayJf3faiOKs3iSDJTh) | [dani6ix & IZZKID](https://open.spotify.com/artist/3uvPbZvw5KBjF8WRkMsjcz) | [on volíem estar](https://open.spotify.com/album/5pPuIySbI0Y28w6flcMupf) | 2:05 | 2025-10-15 |  |
+| [on volíem estar](https://open.spotify.com/track/5BsGayJf3faiOKs3iSDJTh) | [dani6ix & IZZKID](https://open.spotify.com/artist/3uvPbZvw5KBjF8WRkMsjcz) | [on volíem estar](https://open.spotify.com/album/5pPuIySbI0Y28w6flcMupf) | 2:05 | 2025-10-15 | 2026-01-27 |
 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-04-15 |  |
 | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg) | 2:35 | 2023-12-24 | 2024-06-10 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-10-15 | 2024-04-08 |
 | [Papallones](https://open.spotify.com/track/0fnoCJwwsYzBeYB4tsjTGM) | [JULS](https://open.spotify.com/artist/63h9kiR97eiLOwDCBOyvzZ) | [Papallones](https://open.spotify.com/album/578xETaBKvOEn6bX6GzdFB) | 2:48 | 2024-11-17 | 2025-01-20 |
 | [Passen coses](https://open.spotify.com/track/2zCFH8oIRZnk0NLbMGYPqH) | [Suu](https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA) | [Passen coses](https://open.spotify.com/album/6v7R079cecpwRJjUwVwJou) | 2:47 | 2024-06-23 | 2024-11-18 |
+| [PECAT ORIGINAL](https://open.spotify.com/track/7niTcci4hQxzcKrLUDoIOi) | [NAINA](https://open.spotify.com/artist/7gRLhBBDqymilvP1W2GIqR), [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3) | [PECAT ORIGINAL](https://open.spotify.com/album/5fEU24jwGH12gEd8YmLUU8) | 2:45 | 2026-01-26 |  |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-30 | 2024-10-21 |
 | [Poquet a Poquet](https://open.spotify.com/track/6yoiXEkArH3S2b2fU34hIK) | [Flashy Ice Cream](https://open.spotify.com/artist/24yN33FZM27S4x4EJCFsjR) | [Poquet a Poquet](https://open.spotify.com/album/48WQLL3k3832YJhs9Bvoj1) | 2:43 | 2025-08-11 | 2025-10-16 |
 | [Puntería](https://open.spotify.com/track/6pW82dtuBNNpI1ytFasNgr) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Puntería](https://open.spotify.com/album/5TFRrSuyYMoRsVb4MA8dUp) | 3:01 | 2024-03-31 | 2024-09-09 |
@@ -212,6 +213,7 @@
 | [TOTA LA VIDA](https://open.spotify.com/track/7ofUma7jeWAAc7AWMnvagX) | [Iglú](https://open.spotify.com/artist/4Wfi7bsHCX2jfKgYvwl4gO) | [TOTA LA VIDA](https://open.spotify.com/album/0rwWliQB70qlXeDgSE8lnJ) | 2:52 | 2024-02-11 | 2024-04-29 |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-25 | 2024-10-07 |
 | [TUTA GOLD](https://open.spotify.com/track/654Jxp6rUFgPckixlIusRJ) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [TUTA GOLD](https://open.spotify.com/album/298TPucavaqMuiInBsW7jX) | 2:58 | 2024-02-25 | 2024-06-17 |
+| [Tutu Turú](https://open.spotify.com/track/0nMNmyhAnUSNNJ8YjzCnWA) | [Siderland](https://open.spotify.com/artist/0J4ED5b2q2T3B6OhOvNFru) | [Tutu Turú](https://open.spotify.com/album/25FmNHtKx0dSxHgDiEOyFT) | 3:02 | 2026-01-26 |  |
 | [Tàndem](https://open.spotify.com/track/0dMUu2aq0c7H1Axfo41bHZ) | [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [Tàndem](https://open.spotify.com/album/5c4zkjuL3XBfYs04f3czAU) | 2:19 | 2025-07-14 | 2025-10-28 |
 | [Tòpics \- Cap\. I: Ràbia](https://open.spotify.com/track/7aFKLY3GPC5fQ7nnRTKMqo) | [Aina Reig](https://open.spotify.com/artist/2Ij9EybzTRRk2u4IZ5kwdM) | [Tòpics \- Cap\. I: Ràbia](https://open.spotify.com/album/0xXbC43rDqh27wSjhCgrxN) | 3:00 | 2024-04-14 | 2024-05-06 |
 | [Un petonet](https://open.spotify.com/track/778GQ3Md4lKITSgMPdHU1l) | [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Cafè pels més cafeteros](https://open.spotify.com/album/0tFOdwJIPhSkiHilK2lmb7) | 2:29 | 2025-06-25 | 2025-10-08 |
@@ -221,7 +223,7 @@
 | [Vitamina de l'amor](https://open.spotify.com/track/3u3w9X0EZe5kn70By9P41Q) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo) | [Vitamina de l'amor](https://open.spotify.com/album/3FPUJWnVTGCPClnw3U5sMr) | 2:34 | 2025-06-30 | 2026-01-15 |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-10-22 | 2024-06-24 |
 | [Volver a Nacer](https://open.spotify.com/track/5HS8yqY8W31MNoOiW4hbz9) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Noctalgia](https://open.spotify.com/album/1SfEsuqAuE1cEfLrpysQrE) | 3:16 | 2024-08-25 | 2024-10-14 |
-| [Vulgar Drummer](https://open.spotify.com/track/7cCoJCoxZGVBb1GM9GvYdl) | [MAKUKA](https://open.spotify.com/artist/3t67jRLXzr6mic9EAh9dfE) | [Vulgar Drummer](https://open.spotify.com/album/4UKK5G8abhNLUsfhYfhWAl) | 3:02 | 2025-11-17 |  |
+| [Vulgar Drummer](https://open.spotify.com/track/7cCoJCoxZGVBb1GM9GvYdl) | [MAKUKA](https://open.spotify.com/artist/3t67jRLXzr6mic9EAh9dfE) | [Vulgar Drummer](https://open.spotify.com/album/4UKK5G8abhNLUsfhYfhWAl) | 3:02 | 2025-11-17 | 2026-01-27 |
 | [Vull estar amb tu](https://open.spotify.com/track/6hlg2g54ixRhEMlcbiWiqX) | [Els Catarres](https://open.spotify.com/artist/0InCPtI0kadS7s3cZrcbbY), [Stay Homas](https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU), [ZOO](https://open.spotify.com/artist/7a3ryRcO3alwbqaX4RagzM) | [Vull estar amb tu](https://open.spotify.com/album/0JNlqzvLCSmOtN5kL9Ysev) | 3:08 | 2023-10-15 | 2024-05-20 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2024-02-18 | 2024-04-22 |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 | 2024-03-24 | 2024-07-22 |

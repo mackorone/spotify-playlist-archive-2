@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,891 likes - 170 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,883 likes - 170 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,20 +13,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 3 | [Annan Galax](https://open.spotify.com/track/1Ww5ki6FR0Ym3edCsfaKhy) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Annan Galax](https://open.spotify.com/album/7ET0GMBEhmYYdNrzXz0u1z) | 2:35 |
 | 4 | [Omerta](https://open.spotify.com/track/4Etlo3kxRw41oMpQb0Q02a) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Omerta](https://open.spotify.com/album/6x5hOSvftVUcCHEOxrOkY8) | 2:42 |
 | 5 | [P.T.H](https://open.spotify.com/track/4N8XCwUZOhXnc4HBNimPFQ) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [Guld Utav Sand 2](https://open.spotify.com/album/2BNPX89yccIcZBuClfeYZz) | 2:31 |
-| 6 | [STHLM STATE OF MIND](https://open.spotify.com/track/5rUutdkNQmw1HB3jo0tX0W) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [STHLM STATE OF MIND](https://open.spotify.com/album/6LTBLe37Few0ie14dRGbZz) | 2:45 |
-| 7 | [Mercedes](https://open.spotify.com/track/2ujnWvQCnK2ePZIBqsJTSZ) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Mercedes](https://open.spotify.com/album/18BVEUTH9Efxkx8qdOlsly) | 2:14 |
-| 8 | [TERAPI](https://open.spotify.com/track/69GARmi1BM4FCccBEmlqJk) | [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3) | [TERAPI](https://open.spotify.com/album/5ZI7gjZgkvidiOAj5AOzNj) | 2:38 |
-| 9 | [TOKYO DRIFT](https://open.spotify.com/track/0bVun5N1QhG4Ajxgo854Y1) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [TOKYO DRIFT](https://open.spotify.com/album/4qALmspCM0jvI4bj1XEFsr) | 3:08 |
-| 10 | [12345](https://open.spotify.com/track/7wO7OImdTw5LykPtcjDlbL) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [Ceasar DD](https://open.spotify.com/artist/2b9daIUUiOJEbStrT2chg4) | [12345](https://open.spotify.com/album/0EbtLrLNo4hECE9up04FT6) | 2:39 |
-| 11 | [Hem \(Firawii Remix\)](https://open.spotify.com/track/1ZHliy9lZHDntId0a8WOuq) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Firawii](https://open.spotify.com/artist/4brOAaYRExjmIo0GZm7h1W) | [Hem \(Firawii Remix\)](https://open.spotify.com/album/1oE0wb1RvtsDEijyqv4NAe) | 2:02 |
-| 12 | [Tack](https://open.spotify.com/track/350QmK8Nspka8CeoQNWs9O) | [Ison & Fille](https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk) | [Tack](https://open.spotify.com/album/0gZeurQseu2dkOG8Xjz9S9) | 2:16 |
-| 13 | [Dont Stop](https://open.spotify.com/track/43cKERe8r48weKSswLFm6L) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [Dont Stop](https://open.spotify.com/album/0TZevyx9qW3q4k6qg4IKA2) | 2:14 |
-| 14 | [Priceless](https://open.spotify.com/track/6d1w0l1afodsaHwivuN9RV) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Ladies & Gentlemen](https://open.spotify.com/album/0e9xHx3eej1r3qemB8wNlf) | 2:34 |
-| 15 | [Allt handlar om dig](https://open.spotify.com/track/4Dqde6fWMl4JlBNw058EEq) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU), [Sofijah](https://open.spotify.com/artist/6fMbyqT4Iqi8hMs9w4tpPD) | [Allt handlar om dig](https://open.spotify.com/album/5r3xxWNy6lFaYOALR0mVAG) | 2:59 |
-| 16 | [Smutsiga Tankar](https://open.spotify.com/track/3FGjcrMU2Ocrn99AJJ9Kil) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Smutsiga Tankar](https://open.spotify.com/album/6EJ8lf1o9Fhyv3MeHVQwRE) | 2:00 |
-| 17 | [Se Mig](https://open.spotify.com/track/6dPxsq7Pd9dEBtYq4QaznU) | [Zius](https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA) | [Fint & Förstört](https://open.spotify.com/album/5R8D9EhjnsjJCT8YQgREc7) | 2:30 |
-| 18 | [MODUS OPERANDI](https://open.spotify.com/track/2CfWCtGmuA1g0zHbTPjHn6) | [LB](https://open.spotify.com/artist/3jaXGj5Sjt07nAhZ2b70yv) | [MODUS OPERANDI](https://open.spotify.com/album/2x3nkWxM81znnlrj4H7epw) | 2:27 |
-| 19 | [4REAL](https://open.spotify.com/track/4ahLKX8gVToKrQ1V7N6zlK) | [R10](https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m) | [4REAL](https://open.spotify.com/album/4K1C8qe1jywabXkZOzaYTi) | 2:10 |
+| 6 | [Mercedes](https://open.spotify.com/track/2ujnWvQCnK2ePZIBqsJTSZ) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Mercedes](https://open.spotify.com/album/18BVEUTH9Efxkx8qdOlsly) | 2:14 |
+| 7 | [TERAPI](https://open.spotify.com/track/69GARmi1BM4FCccBEmlqJk) | [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3) | [TERAPI](https://open.spotify.com/album/5ZI7gjZgkvidiOAj5AOzNj) | 2:38 |
+| 8 | [Hem \(Firawii Remix\)](https://open.spotify.com/track/1ZHliy9lZHDntId0a8WOuq) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Firawii](https://open.spotify.com/artist/4brOAaYRExjmIo0GZm7h1W) | [Hem \(Firawii Remix\)](https://open.spotify.com/album/1oE0wb1RvtsDEijyqv4NAe) | 2:02 |
+| 9 | [Dont Stop](https://open.spotify.com/track/43cKERe8r48weKSswLFm6L) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [Dont Stop](https://open.spotify.com/album/0TZevyx9qW3q4k6qg4IKA2) | 2:14 |
+| 10 | [STHLM STATE OF MIND](https://open.spotify.com/track/5rUutdkNQmw1HB3jo0tX0W) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [STHLM STATE OF MIND](https://open.spotify.com/album/6LTBLe37Few0ie14dRGbZz) | 2:45 |
+| 11 | [TOKYO DRIFT](https://open.spotify.com/track/0bVun5N1QhG4Ajxgo854Y1) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [TOKYO DRIFT](https://open.spotify.com/album/4qALmspCM0jvI4bj1XEFsr) | 3:08 |
+| 12 | [12345](https://open.spotify.com/track/7wO7OImdTw5LykPtcjDlbL) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [Ceasar DD](https://open.spotify.com/artist/2b9daIUUiOJEbStrT2chg4) | [12345](https://open.spotify.com/album/0EbtLrLNo4hECE9up04FT6) | 2:39 |
+| 13 | [Tack](https://open.spotify.com/track/350QmK8Nspka8CeoQNWs9O) | [Ison & Fille](https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk) | [Tack](https://open.spotify.com/album/0gZeurQseu2dkOG8Xjz9S9) | 2:16 |
+| 14 | [Smutsiga Tankar](https://open.spotify.com/track/3FGjcrMU2Ocrn99AJJ9Kil) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Smutsiga Tankar](https://open.spotify.com/album/6EJ8lf1o9Fhyv3MeHVQwRE) | 2:00 |
+| 15 | [Priceless](https://open.spotify.com/track/6d1w0l1afodsaHwivuN9RV) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Ladies & Gentlemen](https://open.spotify.com/album/0e9xHx3eej1r3qemB8wNlf) | 2:34 |
+| 16 | [Allt handlar om dig](https://open.spotify.com/track/4Dqde6fWMl4JlBNw058EEq) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU), [Sofijah](https://open.spotify.com/artist/6fMbyqT4Iqi8hMs9w4tpPD) | [Allt handlar om dig](https://open.spotify.com/album/5r3xxWNy6lFaYOALR0mVAG) | 2:59 |
+| 17 | [MODUS OPERANDI](https://open.spotify.com/track/2CfWCtGmuA1g0zHbTPjHn6) | [LB](https://open.spotify.com/artist/3jaXGj5Sjt07nAhZ2b70yv) | [MODUS OPERANDI](https://open.spotify.com/album/2x3nkWxM81znnlrj4H7epw) | 2:27 |
+| 18 | [4REAL](https://open.spotify.com/track/4ahLKX8gVToKrQ1V7N6zlK) | [R10](https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m) | [4REAL](https://open.spotify.com/album/4K1C8qe1jywabXkZOzaYTi) | 2:10 |
+| 19 | [Se Mig](https://open.spotify.com/track/6dPxsq7Pd9dEBtYq4QaznU) | [Zius](https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA) | [Fint & Förstört](https://open.spotify.com/album/5R8D9EhjnsjJCT8YQgREc7) | 2:30 |
 | 20 | [SEEKING](https://open.spotify.com/track/3ZvWtOAPFccnCITBuTVYvO) | [Kristian Mecha](https://open.spotify.com/artist/32wC2fDzN3i3p4gc0ORGzl) | [SEEKING](https://open.spotify.com/album/5rmKEtjm2lmTTmcVx7B5ru) | 2:44 |
 | 21 | [NEED 4 SPEED](https://open.spotify.com/track/0DhMaTtLqIsytd6JnA3RTn) | [Malik](https://open.spotify.com/artist/2qsoFMht5lDvaEfjM84Zew), [LLoke](https://open.spotify.com/artist/6ng8zL1LSR6gntI00mGS2Z) | [NEED 4 SPEED](https://open.spotify.com/album/3J6sAxOR13llUx1Vy4dVZp) | 2:27 |
 | 22 | [Spola tillbaks](https://open.spotify.com/track/2SeWCyfAqcNuRzEIjsKOIo) | [Rio](https://open.spotify.com/artist/4WXYemaE9nfL2Gb4Uz3Xbs) | [Spola tillbaks](https://open.spotify.com/album/1WfLwJyNkuiEXOQWOrzOBr) | 2:15 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 169 | [Vinnande Koncept](https://open.spotify.com/track/1oI0ZeW94TruyBLA7CJUPE) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Nya Skolans Ledare](https://open.spotify.com/album/1ptguIZWJepEbkOFyZ05SJ) | 2:11 |
 | 170 | [Tragiskt](https://open.spotify.com/track/1P2xQUXFfI0wFPiCOfFmQu) | [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv), [Valentin](https://open.spotify.com/artist/4wyiRaOaZMbqROCIEJjcPs) | [Tragiskt](https://open.spotify.com/album/7qe775N3IIC6b9gLEWQYos) | 2:19 |
 
-Snapshot ID: `AAAAAE9dY7UUDV8sciipwAjoDiyWhZwk`
+Snapshot ID: `AAAAAJ5v6GqrfZ0uY6Rrn6PyuHAoOuKs`

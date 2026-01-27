@@ -2231,6 +2231,28 @@
     },
     {
       "album": {
+        "name": "B\u0131rak",
+        "url": "https://open.spotify.com/album/52iyAQgL30kvdU9CNUshsT"
+      },
+      "artists": [
+        {
+          "name": "Tekir",
+          "url": "https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P"
+        },
+        {
+          "name": "G\u00fclden",
+          "url": "https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202317,
+      "name": "B\u0131rak",
+      "url": "https://open.spotify.com/track/4ajtMU2DLjZJ3E4Qd3Efqo"
+    },
+    {
+      "album": {
         "name": "B\u0131rak\u0131n Aras\u0131n",
         "url": "https://open.spotify.com/album/19E7lRqhUcUGyMXtfPNgaA"
       },
@@ -3564,7 +3586,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 133762,
       "name": "G\u00f6nl\u00fcn Arkada Kald\u0131",
       "url": "https://open.spotify.com/track/6jhyTPqRdjOCKKWDQnIlA0"
@@ -6680,7 +6702,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 210978,
       "name": "senden ba\u015fka",
       "url": "https://open.spotify.com/track/1VQU6ewApPAVS6wTtxF321"
@@ -9040,6 +9062,28 @@
       "duration_ms": 241333,
       "name": "\u00dczg\u00fcn\u00fcm",
       "url": "https://open.spotify.com/track/0B8qH6UPs4dwXAVOBLhpsV"
+    },
+    {
+      "album": {
+        "name": "\u00dczg\u00fcn\u00fcm",
+        "url": "https://open.spotify.com/album/4wYg0nesrlhwHUdTSs3lq4"
+      },
+      "artists": [
+        {
+          "name": "S\u0131la \u015eahin",
+          "url": "https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC"
+        },
+        {
+          "name": "Samet Karde\u015fler",
+          "url": "https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177091,
+      "name": "\u00dczg\u00fcn\u00fcm",
+      "url": "https://open.spotify.com/track/0hhfaytUvJM5ouXayoEuPc"
     },
     {
       "album": {

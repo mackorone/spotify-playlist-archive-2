@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: Youn Sun Nah \(나윤선\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-278 songs - 19 hr 21 min
+279 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [I Can't Sleep](https://open.spotify.com/track/0c5D3qXQ1WfyDspBrS8SRV) | [Youn Sun Nah](https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj) | [I Can't Sleep](https://open.spotify.com/album/3yg5h8iww29SsQwjUCl7P9) | 3:05 | 2025-12-01 |  |
 | [I Will Never Fall In Love](https://open.spotify.com/track/3q0ASOCaqKj4ESgjx8wucp) | [SHUYA](https://open.spotify.com/artist/3Ss3Yg9vwMxwUZ0ViaJvFV) | [I Will Never Fall In Love](https://open.spotify.com/album/3UXU5KaF2nWski3HG5SyBb) | 3:02 | 2023-12-12 | 2024-08-11 |
 | [I Wished On The Moon](https://open.spotify.com/track/608er1MSoN0BFXdvEP6X1C) | [MIHYANG MOON](https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD) | [I Wished On The Moon](https://open.spotify.com/album/5ZdhKqmiyAHWMTKxljrK8d) | 4:15 | 2023-10-11 | 2024-11-07 |
+| [I'll Be Seeing You](https://open.spotify.com/track/4rhLBG85sLSiz0N6JVzj71) | [Haewon Moon](https://open.spotify.com/artist/5vRXwK3TSQ2mZgw9ZLIS7q), [Tsuyoshi Yamamoto](https://open.spotify.com/artist/4Le6xcHzz9CpoxAmXgtZP5) | [Love Songs from Moon](https://open.spotify.com/album/7yoxhKaLJeRwbbCHdZGSUL) | 3:57 | 2026-01-26 |  |
 | [I'm Not a Butterfly](https://open.spotify.com/track/4RcuqGcL9G95s6qdZzKoqb) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Who Stole the Skies](https://open.spotify.com/album/3vBepxBq8Ik2Tsn5Yu1uML) | 5:13 | 2022-09-26 | 2023-02-08 |
 | [Impatient](https://open.spotify.com/track/7odKBZr3NcHzff5ZEEZpCl) | [정상헌](https://open.spotify.com/artist/3UI0f7gP8Er2mE79EBlqsx) | [Impatient](https://open.spotify.com/album/3qBZXH0Exl3yFx6Ue2w9pn) | 2:20 | 2024-11-07 | 2025-09-10 |
 | [Inflexible Chess Pieces](https://open.spotify.com/track/0IBsuihyvthkFXRqDXOOAg) | [Junbeom Sim](https://open.spotify.com/artist/3LNX9HVfbM5u3IdJ44IVwL) | [Inflexible Chess Pieces](https://open.spotify.com/album/2OrJbRm23LFDbvg4J2P072) | 10:54 | 2022-05-03 | 2024-08-11 |
@@ -203,7 +204,7 @@
 | [Skylark](https://open.spotify.com/track/7JwIhlzMnaDVhPP2ss6cc0) | [MIHYANG MOON](https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD) | [I Wished On The Moon](https://open.spotify.com/album/5ZdhKqmiyAHWMTKxljrK8d) | 4:51 | 2023-10-11 | 2024-12-18 |
 | [Sleepy \(Feat\. paulkyte\)](https://open.spotify.com/track/5d57dsBRU85OiDkJnPktgw) | [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR), [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x) | [Park's Mood](https://open.spotify.com/album/6WePQz4TECRBySr3pldSwe) | 3:19 | 2025-09-11 |  |
 | [Soft Serenade](https://open.spotify.com/track/2kakhlsfdppnzXRGgZuRGf) | [Green Pulse](https://open.spotify.com/artist/4GdPbBDa4FCCyWWVxeoO0P) | [Soft Serenade](https://open.spotify.com/album/5QWLLTpUyVUjXqJV19wicG) | 3:11 | 2025-05-07 |  |
-| [SoftSwing](https://open.spotify.com/track/5OobhUbz1chveKKwUwwhYO) | [LeoSky](https://open.spotify.com/artist/2fz0R4dgBTTnSR3G7nrO0G) | [Soft Swing Jazz Piano](https://open.spotify.com/album/3S4bCzZKDnDykoadEVoA7S) | 2:34 | 2024-10-27 |  |
+| [SoftSwing](https://open.spotify.com/track/5OobhUbz1chveKKwUwwhYO) | [LeoSky](https://open.spotify.com/artist/2fz0R4dgBTTnSR3G7nrO0G) | [Soft Swing Jazz Piano](https://open.spotify.com/album/3S4bCzZKDnDykoadEVoA7S) | 2:34 | 2024-10-27 | 2026-01-27 |
 | [Sonny](https://open.spotify.com/track/3Y8iNszws9u6tTSvCrTPae) | [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Sonny](https://open.spotify.com/album/6ZOZBe9jNHKFwe4XyU38uY) | 3:24 | 2022-05-03 | 2022-05-19 |
 | [Sorcery Soup](https://open.spotify.com/track/1ddVTVxABHqds436IzH004) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Mandong](https://open.spotify.com/artist/2Wk4Orq6UQ5KPunF9WHiyd) | [The Vibe is a Chance](https://open.spotify.com/album/0aFwg3Fy4dTUexmtm1cu3N) | 3:37 | 2022-11-23 | 2024-09-20 |
 | [Space Ladder \(Lofi\)](https://open.spotify.com/track/75a2ekPIAlAkiwMuByY6Zd) | [JOONGWOO](https://open.spotify.com/artist/5cHu4c788lUFSujfRbG00O) | [Space Ladder \(Lofi\)](https://open.spotify.com/album/2NqyLxvNOCIxDw1jAgoVXQ) | 4:00 | 2023-03-31 | 2024-11-07 |

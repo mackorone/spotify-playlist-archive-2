@@ -2836,7 +2836,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 219989,
       "name": "Hd Nafsak",
       "url": "https://open.spotify.com/track/4MQWHpsOtIv1F89wUxCR2Y"
@@ -3358,7 +3358,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 188900,
       "name": "Kul Hesabati",
       "url": "https://open.spotify.com/track/472ToJjQLy6ofCS3txLhLt"
@@ -7011,6 +7011,24 @@
     },
     {
       "album": {
+        "name": "Sabeh Saadat",
+        "url": "https://open.spotify.com/album/2dzJleLreTP2QDxVp9otvJ"
+      },
+      "artists": [
+        {
+          "name": "Rahma Riad",
+          "url": "https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208215,
+      "name": "\u0633\u0628\u0639 \u0633\u0639\u0627\u062f\u0627\u062a",
+      "url": "https://open.spotify.com/track/56SrW6um9oCiv1VGbLeWS0"
+    },
+    {
+      "album": {
         "name": "\u062f\u064a\u0627\u0631 \u0644\u064a\u0644\u0649",
         "url": "https://open.spotify.com/album/2nMSi3FKbTdgEygD6X1N7l"
       },
@@ -7290,6 +7308,24 @@
       "duration_ms": 219111,
       "name": "\u0639\u0646\u062f\u064a \u0623\u0647\u0645",
       "url": "https://open.spotify.com/track/2pDNrMSCAiKGQbN0kPUZZS"
+    },
+    {
+      "album": {
+        "name": "\u0639\u064a\u0648\u0646 \u0637\u0628\u0639\u0647",
+        "url": "https://open.spotify.com/album/5A5WIQitjOs9zw0OT9N7N7"
+      },
+      "artists": [
+        {
+          "name": "Bandar Abdulaziz",
+          "url": "https://open.spotify.com/artist/4QnEgid1Wuxlr1vHgyzUXw"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207597,
+      "name": "\u0639\u064a\u0648\u0646 \u0637\u0628\u0639\u0647",
+      "url": "https://open.spotify.com/track/5Pwo31TU96rueCTItC9f7v"
     },
     {
       "album": {

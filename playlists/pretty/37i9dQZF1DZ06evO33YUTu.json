@@ -1,12 +1,12 @@
 {
   "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 131407,
+  "num_followers": 131416,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXQLgAAAAAAqcupfcW4NihOSy7ycjgkI",
+  "snapshot_id": "aXVdAAAAAACj8dJcm1dmEXyEa1fcUm4h",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Carta",
+        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "Los Consejos",
+      "url": "https://open.spotify.com/track/54KqP2AoCRcEMTfooOI5nK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LE PED\u00cd A DIOS",
         "url": "https://open.spotify.com/album/21YunxamBw6fwTRzuDx3Ik"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 214668,
       "name": "LE PED\u00cd A DIOS",
       "url": "https://open.spotify.com/track/0u5j4aF91HDisFFExlgtdi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Carta",
-        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "Los Consejos",
-      "url": "https://open.spotify.com/track/54KqP2AoCRcEMTfooOI5nK"
     },
     {
       "added_at": null,
@@ -343,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todav\u00eda",
-        "url": "https://open.spotify.com/album/3z66QImSBHBA1V3gxYDbfx"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 183278,
-      "name": "todav\u00edA",
-      "url": "https://open.spotify.com/track/570Q5CgBICftKsge5bPBDx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Carta",
         "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 175853,
       "name": "Lejos Conmigo",
       "url": "https://open.spotify.com/track/4c1gXSj2oEYywSfN6iOwGu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todav\u00eda",
+        "url": "https://open.spotify.com/album/3z66QImSBHBA1V3gxYDbfx"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 183278,
+      "name": "todav\u00edA",
+      "url": "https://open.spotify.com/track/570Q5CgBICftKsge5bPBDx"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Espejo",
-        "url": "https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 158373,
-      "name": "Espejo",
-      "url": "https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Carta",
         "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 242413,
       "name": "Te Cre\u00ed",
       "url": "https://open.spotify.com/track/60c5SSCLMt13B27d6Df4dP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Espejo",
+        "url": "https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "Espejo",
+      "url": "https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 206320,
+      "name": "Ya Para Qu\u00e9",
+      "url": "https://open.spotify.com/track/5jX5LKsgCcM2GMSLfVYn78"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Est\u00e1s Enamorando de M\u00ed (Fiesta Remix)",
         "url": "https://open.spotify.com/album/7gLrC5Ix8bZCFAX2U28tzh"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 135586,
       "name": "Te Est\u00e1s Enamorando de M\u00ed - Fiesta Remix",
       "url": "https://open.spotify.com/track/2DBrWAfbqHmyX8iYYm2HLD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baila",
-        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 206320,
-      "name": "Ya Para Qu\u00e9",
-      "url": "https://open.spotify.com/track/5jX5LKsgCcM2GMSLfVYn78"
     },
     {
       "added_at": null,
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Magia de Tus Ojos (Versi\u00f3n Pop)",
-        "url": "https://open.spotify.com/album/1CpCyWZRRyqOGAGIahFbph"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "La Magia de Tus Ojos - Versi\u00f3n Pop",
-      "url": "https://open.spotify.com/track/3GhOpiYR8x3fSTohVMHOWD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perd\u00f3n",
         "url": "https://open.spotify.com/album/3mS6qSzJvfbFkhLsp6hO8P"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 206497,
       "name": "Perd\u00f3n",
       "url": "https://open.spotify.com/track/4iCJFRTRsFlj4UWoEd7bS9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Magia de Tus Ojos (Versi\u00f3n Pop)",
+        "url": "https://open.spotify.com/album/1CpCyWZRRyqOGAGIahFbph"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "La Magia de Tus Ojos - Versi\u00f3n Pop",
+      "url": "https://open.spotify.com/track/3GhOpiYR8x3fSTohVMHOWD"
     },
     {
       "added_at": null,
@@ -919,6 +919,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alta Fidelidad",
+        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 172852,
+      "name": "Si Superamos Esta Noche",
+      "url": "https://open.spotify.com/track/6bzOf2vhI5j3KAnOtDhd8X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Malo (Remix)",
         "url": "https://open.spotify.com/album/35NdeKuRZ9zxd21lvngNxf"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 216413,
       "name": "Ganas",
       "url": "https://open.spotify.com/track/5Olgt8adke15M1zpzja0Ao"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alta Fidelidad",
-        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 172852,
-      "name": "Si Superamos Esta Noche",
-      "url": "https://open.spotify.com/track/6bzOf2vhI5j3KAnOtDhd8X"
     }
   ],
   "unique_name": "This Is Greeicy",

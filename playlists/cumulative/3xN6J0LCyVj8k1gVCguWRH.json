@@ -45517,6 +45517,24 @@
     },
     {
       "album": {
+        "name": "Ice Burg",
+        "url": "https://open.spotify.com/album/13DARqSVXtK9HPCenx50AZ"
+      },
+      "artists": [
+        {
+          "name": "Mei",
+          "url": "https://open.spotify.com/artist/1rkjqTmDnjth9FsEXG57zH"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164326,
+      "name": "Ice Burg",
+      "url": "https://open.spotify.com/track/5k5XMJfrUZiK2VCt5UeF8l"
+    },
+    {
+      "album": {
         "name": "Live For Me",
         "url": "https://open.spotify.com/album/4CBFkLLUglKClajY5weXhY"
       },
@@ -45698,6 +45716,24 @@
       "duration_ms": 150983,
       "name": "If Pretty Was A Contest",
       "url": "https://open.spotify.com/track/2EG7MWiRGL3zLjV7Axg9vM"
+    },
+    {
+      "album": {
+        "name": "If We Meet Again",
+        "url": "https://open.spotify.com/album/26EDiVq0zCDskOWbhLKazQ"
+      },
+      "artists": [
+        {
+          "name": "Makinna Givens",
+          "url": "https://open.spotify.com/artist/44hmXLU7hXqCpt11b14RTd"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272796,
+      "name": "If We Meet Again",
+      "url": "https://open.spotify.com/track/04v0r8SMaLILEzNPPfL393"
     },
     {
       "album": {
@@ -88709,6 +88745,24 @@
     },
     {
       "album": {
+        "name": "CATCH!",
+        "url": "https://open.spotify.com/album/2qjm4Sjhcm4Qyz67JeqiWe"
+      },
+      "artists": [
+        {
+          "name": "Cameron Dallas",
+          "url": "https://open.spotify.com/artist/5s3rUylqooMyGsFE0rOFJT"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139199,
+      "name": "Sweat, Sweaty Dreams",
+      "url": "https://open.spotify.com/track/3Apx14xS5IpHTbcdpS4mZp"
+    },
+    {
+      "album": {
         "name": "Sweden: Gold Dust",
         "url": "https://open.spotify.com/album/36cuYXCs5ITUFd2WdfJSxl"
       },
@@ -96147,6 +96201,24 @@
     },
     {
       "album": {
+        "name": "Tres Volcanes",
+        "url": "https://open.spotify.com/album/717OjM7n93r1XPqyF9qo7V"
+      },
+      "artists": [
+        {
+          "name": "Anndel",
+          "url": "https://open.spotify.com/artist/0lfGhsRQLa0qwBZB5gO5EL"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170634,
+      "name": "Tres Volcanes",
+      "url": "https://open.spotify.com/track/1HAOOnYCfrIt31khUb6JsT"
+    },
+    {
+      "album": {
         "name": "Triangle",
         "url": "https://open.spotify.com/album/5ywDAyJXRg6xmQm8rfB1mb"
       },
@@ -102760,7 +102832,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 274999,
       "name": "When the night feels heavy",
       "url": "https://open.spotify.com/track/3DQA6FfE24rS2iyUMYq99A"

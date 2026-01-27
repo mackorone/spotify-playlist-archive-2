@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 428 songs - 1 day 0 hr 46 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 431 songs - 1 day 0 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -436,5 +436,8 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 426 | [Magical Doctor](https://open.spotify.com/track/0tLcKkZqfylGoG5JcXOXvL) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [SIU](https://open.spotify.com/album/3H4KputrhYs3q5Dm8hC7DQ) | 3:40 |
 | 427 | [Looping the Rooms \(feat\. HATSUNE MIKU\)](https://open.spotify.com/track/3wmzZRtm6hwqXX3KndOtSI) | [rusino](https://open.spotify.com/artist/2p6kVvES1aPMkHsz22JukH), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Looping the Rooms / Lambent Aria](https://open.spotify.com/album/6MyiYxY7PsY0aHp1PjA5KM) | 2:14 |
 | 428 | [My bread was Burnt to a Crisp](https://open.spotify.com/track/1Sv11p7ViXK4hwgioiQIOE) | [picdo](https://open.spotify.com/artist/0OZLgdMz8IijJ4zJofCM5L), [Rei Adachi](https://open.spotify.com/artist/7vbAMAwQcKX1LHv2QAI7Re) | [My bread was Burnt to a Crisp](https://open.spotify.com/album/5tCpuVqeBgh3hlbrwlKrRO) | 0:44 |
+| 429 | [Heavenly You \(feat\. REML\)](https://open.spotify.com/track/5DUKpelrahdO3Zuoi89lkd) | [LonePi](https://open.spotify.com/artist/0FtyTvAiyb0IS8qTfGOaxb), [REML](https://open.spotify.com/artist/7qAvJuLIr1uEt2iad9myrO) | [Heavenly You \(feat\. REML\)](https://open.spotify.com/album/1gIJekdZgsQizLp2G3aLT0) | 3:53 |
+| 430 | [ZEKKOU](https://open.spotify.com/track/7nlj9QwWHCmDPq89CkebOs) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [ZEKKOU](https://open.spotify.com/album/0aT6OYiBjgEMfA92jWmoeE) | 1:53 |
+| 431 | [.....\. \- MARETU Remix](https://open.spotify.com/track/37TZpH55FF8LxIDShZuLLp) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz), [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [人形](https://open.spotify.com/album/6OiLP3mN9ntclPFqqyIS0c) | 2:40 |
 
-Snapshot ID: `AAAJ2KYYOdZjF5DvdehTfn9t3JGpwLoE`
+Snapshot ID: `AAAJ2/uRz6PPWQsXLVNw/XM8Aor2ztgU`

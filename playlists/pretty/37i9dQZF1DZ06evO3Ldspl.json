@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXQLgAAAAAAS4spPfevTRsXgIewAvgai",
+  "snapshot_id": "aXVdAAAAAACpkE5s5+o6x1wRpfPIVs5S",
   "tracks": [
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Internacional",
+        "url": "https://open.spotify.com/album/7eAMaa3wNUuI2NBVeeaRB0"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 277266,
+      "name": "Qu\u00e9 Sera de M\u00ed",
+      "url": "https://open.spotify.com/track/2YO7dZYb0jsf93BH2GtlNY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los 30 Mejores",
         "url": "https://open.spotify.com/album/13DgbOsMXrslPXmZ9WC2JS"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 256293,
       "name": "El Higuer\u00f3n",
       "url": "https://open.spotify.com/track/1b48TVGxCLfPBHF0F2RRgN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Internacional",
-        "url": "https://open.spotify.com/album/7eAMaa3wNUuI2NBVeeaRB0"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 277266,
-      "name": "Qu\u00e9 Sera de M\u00ed",
-      "url": "https://open.spotify.com/track/2YO7dZYb0jsf93BH2GtlNY"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 235733,
-      "name": "D\u00e9jame Quererte",
-      "url": "https://open.spotify.com/track/2pdx5eLAspXwzUxAmENhKO"
+      "duration_ms": 317626,
+      "name": "Estar Enamorado",
+      "url": "https://open.spotify.com/track/6iFBpJWQqo8Vv9HV6No2Rf"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 317626,
-      "name": "Estar Enamorado",
-      "url": "https://open.spotify.com/track/6iFBpJWQqo8Vv9HV6No2Rf"
+      "duration_ms": 235733,
+      "name": "D\u00e9jame Quererte",
+      "url": "https://open.spotify.com/track/2pdx5eLAspXwzUxAmENhKO"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/4gqisRMcza9F6WHiN2jtff"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Azuquita, Azuquita",
+      "url": "https://open.spotify.com/track/2OpvPXJvZZjTOeA784yhLs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Internacional",
         "url": "https://open.spotify.com/album/7eAMaa3wNUuI2NBVeeaRB0"
       },
@@ -775,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/4gqisRMcza9F6WHiN2jtff"
+        "name": "Enamorado Como Siempre",
+        "url": "https://open.spotify.com/album/3OhlAnWNEYUiSah3Qwer4z"
       },
       "artists": [
         {
@@ -784,9 +800,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 265000,
-      "name": "Azuquita, Azuquita",
-      "url": "https://open.spotify.com/track/2OpvPXJvZZjTOeA784yhLs"
+      "duration_ms": 234440,
+      "name": "Mi Mejor Canci\u00f3n",
+      "url": "https://open.spotify.com/track/2i7SWI1bVRznjvyjlW53t6"
     },
     {
       "added_at": null,
@@ -807,28 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los 30 Mejores",
-        "url": "https://open.spotify.com/album/13DgbOsMXrslPXmZ9WC2JS"
-      },
-      "artists": [
-        {
-          "name": "Rafael Orozco",
-          "url": "https://open.spotify.com/artist/5EQkvkaE9pNbtp3vrWBLh8"
-        },
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Juro Que Te Amo",
-      "url": "https://open.spotify.com/track/79c4saLiw95dwN0D8UHgoW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Enamorado Como Siempre",
-        "url": "https://open.spotify.com/album/3OhlAnWNEYUiSah3Qwer4z"
+        "name": "Los Elegidos",
+        "url": "https://open.spotify.com/album/4HDMMTKwuOko0HVcXK5gne"
       },
       "artists": [
         {
@@ -836,9 +832,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 234440,
-      "name": "Mi Mejor Canci\u00f3n",
-      "url": "https://open.spotify.com/track/2i7SWI1bVRznjvyjlW53t6"
+      "duration_ms": 223293,
+      "name": "Campana",
+      "url": "https://open.spotify.com/track/1lgSdPP75qkN4CUZvbZILI"
     }
   ],
   "unique_name": "This Is Binomio de Oro",

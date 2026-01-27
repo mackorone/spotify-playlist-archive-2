@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 555264,
+  "num_followers": 555510,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXQLgAAAAAD6EWRLSmWDfrr/jh7d3/6e",
+  "snapshot_id": "aXVdAAAAAAA2yVWrTiPFjIOK8R95X6A7",
   "tracks": [
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LO QUE ME FALTA POR LLORAR",
-        "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 218353,
-      "name": "monterrey",
-      "url": "https://open.spotify.com/track/4WK3s6BZwopY5tdJLcXlBg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -759,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "no lo ves",
-        "url": "https://open.spotify.com/album/7hpcGYh5e59jKEu5bby13Q"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 149797,
-      "name": "no lo ves",
-      "url": "https://open.spotify.com/track/7qCMCckflYXyt518lLIWbb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LO QUE ME FALTA POR LLORAR",
         "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
       },
@@ -786,15 +750,11 @@
         {
           "name": "Grupo Frontera",
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
-      "duration_ms": 145658,
-      "name": "\u00e9chame la mano",
-      "url": "https://open.spotify.com/track/7nkPTFte8HROvVfvaKfRsD"
+      "duration_ms": 218353,
+      "name": "monterrey",
+      "url": "https://open.spotify.com/track/4WK3s6BZwopY5tdJLcXlBg"
     },
     {
       "added_at": null,
@@ -819,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "no lo ves",
+        "url": "https://open.spotify.com/album/7hpcGYh5e59jKEu5bby13Q"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 149797,
+      "name": "no lo ves",
+      "url": "https://open.spotify.com/track/7qCMCckflYXyt518lLIWbb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JUGANDO A QUE NO PASA NADA",
         "url": "https://open.spotify.com/album/5UeZ5HFbQAsSev59aKCWKq"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 193258,
       "name": "QU\u00c9DATE BEB\u00c9",
       "url": "https://open.spotify.com/track/6VMpSP88kS8Rxc68BAgwAd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LO QUE ME FALTA POR LLORAR",
+        "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 145658,
+      "name": "\u00e9chame la mano",
+      "url": "https://open.spotify.com/track/7nkPTFte8HROvVfvaKfRsD"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
       "duration_ms": 160752,
       "name": "Quedate Conmigo",
       "url": "https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LO QUE ME FALTA POR LLORAR",
-        "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 190730,
-      "name": "Lalala",
-      "url": "https://open.spotify.com/track/18xsbKZzR4MDG39Hv8bcNO"
     },
     {
       "added_at": null,
@@ -911,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LO QUE ME FALTA POR LLORAR",
+        "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 190730,
+      "name": "Lalala",
+      "url": "https://open.spotify.com/track/18xsbKZzR4MDG39Hv8bcNO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
         "url": "https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg"
       },
@@ -931,8 +931,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LO QUE ME FALTA POR LLORAR",
-        "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
+        "name": "Pienso En Ella",
+        "url": "https://open.spotify.com/album/7cHJ27ODl19jWx14kWMPMT"
       },
       "artists": [
         {
@@ -940,17 +940,13 @@
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         },
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Cris MJ",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 205044,
-      "name": "tu favorito",
-      "url": "https://open.spotify.com/track/3pRGHJs44yC68rQU9hAWa9"
+      "duration_ms": 159552,
+      "name": "Pienso En Ella",
+      "url": "https://open.spotify.com/track/1JLN3lX1fFAJoFPjUhp4ZR"
     },
     {
       "added_at": null,
@@ -975,8 +971,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pienso En Ella",
-        "url": "https://open.spotify.com/album/7cHJ27ODl19jWx14kWMPMT"
+        "name": "LO QUE ME FALTA POR LLORAR",
+        "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
       },
       "artists": [
         {
@@ -984,13 +980,17 @@
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         },
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         }
       ],
-      "duration_ms": 159552,
-      "name": "Pienso En Ella",
-      "url": "https://open.spotify.com/track/1JLN3lX1fFAJoFPjUhp4ZR"
+      "duration_ms": 205044,
+      "name": "tu favorito",
+      "url": "https://open.spotify.com/track/3pRGHJs44yC68rQU9hAWa9"
     }
   ],
   "unique_name": "This Is Grupo Frontera",

@@ -1724,7 +1724,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 245750,
       "name": "Anh \u0110\u00e3 Kh\u00f4ng Bi\u1ebft C\u00e1ch Y\u00eau Em",
       "url": "https://open.spotify.com/track/1hPbWyZnUPaeAWbOSKwkXJ"
@@ -17256,7 +17256,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-26",
+      "date_removed": null,
       "duration_ms": 206139,
       "name": "N\u00f3i D\u1ed1i",
       "url": "https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0"
@@ -21490,7 +21490,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
@@ -23536,7 +23536,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 269021,
       "name": "Th\u1ee9c Gi\u1ea5c",
       "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"
@@ -23944,7 +23944,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 172500,
       "name": "Tr\u00e0n B\u1ed9 Nh\u1edb",
       "url": "https://open.spotify.com/track/0669gFIK8dYK9GGQ0K0QNF"
@@ -25482,7 +25482,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 241919,
       "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
       "url": "https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn"
@@ -27509,6 +27509,32 @@
     },
     {
       "album": {
+        "name": "\u0110\u00e1ng L\u00fd Ra Ph\u1ea3i L\u00e0 Anh",
+        "url": "https://open.spotify.com/album/2sWo1pnzbyA0or9TnZC8KZ"
+      },
+      "artists": [
+        {
+          "name": "\u0110\u1ee9c Tr\u01b0\u1eddng",
+          "url": "https://open.spotify.com/artist/4R2engiAed6QeIV63PDAz0"
+        },
+        {
+          "name": "BMZ",
+          "url": "https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m"
+        },
+        {
+          "name": "Kun",
+          "url": "https://open.spotify.com/artist/0Wk1HnqgITK5L6UIR6h3pM"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254400,
+      "name": "\u0110\u00e1ng L\u00fd Ra Ph\u1ea3i L\u00e0 Anh",
+      "url": "https://open.spotify.com/track/7HoAJ6Hc1P91eoOrn1WY5d"
+    },
+    {
+      "album": {
         "name": "\u0110\u00e1nh \u0110\u1ed5i",
         "url": "https://open.spotify.com/album/03ZYR4zwCrkSsXTROnK2d0"
       },
@@ -27594,7 +27620,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 261105,
       "name": "\u0110\u00e3 L\u1ee1 Y\u00eau Em Nhi\u1ec1u",
       "url": "https://open.spotify.com/track/3J3nv18iIrOhca1ZWNeuyW"

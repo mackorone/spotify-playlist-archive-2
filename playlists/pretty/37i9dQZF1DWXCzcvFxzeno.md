@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry + Shlømo
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,933 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,299 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 | 69 | [All I Wanna](https://open.spotify.com/track/7BenhguFkOw1irlhoOkvoq) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [Lex Ledu](https://open.spotify.com/artist/4F0a2Vk6M0lPjpzxWl2POl) | [All I Wanna](https://open.spotify.com/album/6QPTz9BSRPmmztADxFINCu) | 2:10 |
 | 70 | [Die Tonight](https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Die Tonight](https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF) | 3:47 |
 | 71 | [Hype Boy](https://open.spotify.com/track/4I4LIjM7gHmIFQ210Ycx2j) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hype Boy](https://open.spotify.com/album/1SPxEjHts5HlArNh5saCm2) | 3:16 |
-| 72 | [Renegade Master](https://open.spotify.com/track/57oprc6Ilu0qJdidmTKCDg) | [SP3CTRUM](https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN), [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY) | [Renegade Master](https://open.spotify.com/album/3UiuvnjVYYx3Noe0CR7lJN) | 2:07 |
-| 73 | [Unleash The Radical](https://open.spotify.com/track/2OUMwV66DZ1sXkTW2S38p6) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Unleash The Radical](https://open.spotify.com/album/2lTKoROAtpjvEf1kztIGeT) | 3:12 |
+| 72 | [Unleash The Radical](https://open.spotify.com/track/2OUMwV66DZ1sXkTW2S38p6) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Unleash The Radical](https://open.spotify.com/album/2lTKoROAtpjvEf1kztIGeT) | 3:12 |
+| 73 | [Renegade Master](https://open.spotify.com/track/57oprc6Ilu0qJdidmTKCDg) | [SP3CTRUM](https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN), [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY) | [Renegade Master](https://open.spotify.com/album/3UiuvnjVYYx3Noe0CR7lJN) | 2:07 |
 | 74 | [Play With Me](https://open.spotify.com/track/25KQKt7whpeqcj5LsttRP7) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Play With Me](https://open.spotify.com/album/3drDrRF9zabJYjYs04DI98) | 2:13 |
 | 75 | [Devils Got My Back](https://open.spotify.com/track/0PItAl4HEXoEfK5NMRCAQW) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk) | [Devils Got My Back](https://open.spotify.com/album/2aSrnAjieDsZl8nbKdTk2n) | 2:25 |
 | 76 | [It's A Fine Day \- Hard Techno Remix](https://open.spotify.com/track/1uQOD5XGbPMBVRFcwJ12RY) | [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8), [Grym](https://open.spotify.com/artist/4EyLyiExN1bAKQYWnVok4k), [Moxius](https://open.spotify.com/artist/6JISEm4WN6a2LzWRi8KCrR) | [It's A Fine Day \(Hard Techno Remix\)](https://open.spotify.com/album/2PyTSZ0M98vDF3bwnBKcDM) | 2:33 |

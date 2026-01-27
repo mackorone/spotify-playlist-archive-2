@@ -1,6 +1,6 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Yandel y LATIN MAFIA en portada.",
-  "num_followers": 39989,
+  "num_followers": 39987,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,26 @@
     {
       "added_at": "2026-01-16 06:00:20",
       "album": {
+        "name": "Qualquer Canto",
+        "url": "https://open.spotify.com/album/257ZClpDD4cyOplPlv2JVU"
+      },
+      "artists": [
+        {
+          "name": "Abacaxepa",
+          "url": "https://open.spotify.com/artist/37YBTVhchsMr6ekdUHEKRy"
+        },
+        {
+          "name": "Alessandra Le\u00e3o",
+          "url": "https://open.spotify.com/artist/37m97yyap5ftH0sx3IHqno"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Qualquer Canto",
+      "url": "https://open.spotify.com/track/6cTMZoxnb9b6cneBK8eTf8"
+    },
+    {
+      "added_at": "2026-01-16 06:00:20",
+      "album": {
         "name": "Ella",
         "url": "https://open.spotify.com/album/25Pah4zBOkhKHi50Z31FvJ"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 184264,
       "name": "Ella",
       "url": "https://open.spotify.com/track/5JA1R6ex7F9ZpQNEB8tTGZ"
-    },
-    {
-      "added_at": "2026-01-16 06:00:20",
-      "album": {
-        "name": "Qualquer Canto",
-        "url": "https://open.spotify.com/album/257ZClpDD4cyOplPlv2JVU"
-      },
-      "artists": [
-        {
-          "name": "Abacaxepa",
-          "url": "https://open.spotify.com/artist/37YBTVhchsMr6ekdUHEKRy"
-        },
-        {
-          "name": "Alessandra Le\u00e3o",
-          "url": "https://open.spotify.com/artist/37m97yyap5ftH0sx3IHqno"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Qualquer Canto",
-      "url": "https://open.spotify.com/track/6cTMZoxnb9b6cneBK8eTf8"
     },
     {
       "added_at": "2026-01-16 06:00:20",

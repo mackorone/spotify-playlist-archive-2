@@ -3612,7 +3612,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 228000,
       "name": "Koko",
       "url": "https://open.spotify.com/track/66PFcWSVV5PUvwYNZfbd08"
@@ -5027,6 +5027,28 @@
     },
     {
       "album": {
+        "name": "One-way Love (Feat. h3hyeon)",
+        "url": "https://open.spotify.com/album/3xWjFuxEduU4dC5pFDKPvX"
+      },
+      "artists": [
+        {
+          "name": "Ryeojin",
+          "url": "https://open.spotify.com/artist/54HLAGvxNZ89emaGdlf6Tr"
+        },
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156976,
+      "name": "One-way Love (Feat. h3hyeon)",
+      "url": "https://open.spotify.com/track/6MmTxJOXZW3OKgQZ7a7nkn"
+    },
+    {
+      "album": {
         "name": "Only U",
         "url": "https://open.spotify.com/album/2olAsLaKHRckNVhmB8xTI0"
       },
@@ -5816,7 +5838,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 206781,
       "name": "Secret of Ours",
       "url": "https://open.spotify.com/track/5vdof8S2t9P5FnCfAjieVH"
@@ -6136,6 +6158,24 @@
       "duration_ms": 250986,
       "name": "Starry",
       "url": "https://open.spotify.com/track/3eL9Wg5EORwn6ceGzBU7gL"
+    },
+    {
+      "album": {
+        "name": "Spring Blossom",
+        "url": "https://open.spotify.com/album/6qSBrNgY0Yepd5SiBsFCXc"
+      },
+      "artists": [
+        {
+          "name": "krnb",
+          "url": "https://open.spotify.com/artist/5kW21xTx9kCwijRQ3nCYYS"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173608,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1gjF56rGrCdHJY5iUI4yNk"
     },
     {
       "album": {
@@ -7552,7 +7592,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 173000,
       "name": "white",
       "url": "https://open.spotify.com/track/6Cst6IKYpH2PKi2wp4K85V"
@@ -7690,6 +7730,24 @@
       "duration_ms": 217510,
       "name": "Winter Blossom (feat. SAAY) (Prod. by 0channel)",
       "url": "https://open.spotify.com/track/5BVjsCcDlYgJG2bB2jsOeI"
+    },
+    {
+      "album": {
+        "name": "5.1",
+        "url": "https://open.spotify.com/album/31dcCepdYt1N1Neap8OqWP"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232893,
+      "name": "Winter Breath",
+      "url": "https://open.spotify.com/track/4iza1MCmcJMvbYs9i0gLYD"
     },
     {
       "album": {

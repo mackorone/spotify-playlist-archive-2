@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-391 songs - 18 hr 29 min
+392 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Sanare](https://open.spotify.com/track/7qjuGqempfRgK5czZIheLn) | [Kai Stellar](https://open.spotify.com/artist/5Ni9tbQ9r28mw5RS8AyGQr) | [Sanare](https://open.spotify.com/album/4LuiLAqAxCysmYYYEcr0SC) | 3:03 | 2025-10-24 |  |
 | [Sauntering Dream](https://open.spotify.com/track/0c2FezsbQQHPFWgtlyGACF) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [Jonathan Warman](https://open.spotify.com/artist/4rOuVyfJluPW9tHKjL2FWf) | [Wandering Mind](https://open.spotify.com/album/5xdnfDa5waDfIgSu7M6KGF) | 3:19 | 2023-03-13 | 2023-05-20 |
 | [Seasonal](https://open.spotify.com/track/4H4IsE65mrXvEq0C141s11) | [Ellisar Dalana](https://open.spotify.com/artist/0VJq4X2fazAijd0hB6Nmab) | [Seasonal](https://open.spotify.com/album/6AOfXfTdIbeiFjmVZ1PaiY) | 2:43 | 2024-07-16 |  |
+| [Seemless](https://open.spotify.com/track/3OD50TNyouO8VJHnKrrrRz) | [Jack Allenson](https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb) | [Seemless](https://open.spotify.com/album/4oUaVe49OQ9PxMznXvrT1d) | 2:23 | 2026-01-21 |  |
 | [Sequoia Peace \(Forest\)](https://open.spotify.com/track/733XPsgLvmxXbBvGmtHbc0) | [Cypress West](https://open.spotify.com/artist/1hDe9iKiHylj0C0wdXz3ZL) | [Sequoia Peace \(Forest\)](https://open.spotify.com/album/02rCoQAI3AFIJIsG4Cx8u7) | 2:54 | 2024-04-01 | 2025-10-02 |
 | [Seraphina Woods](https://open.spotify.com/track/1Lr6cJOM3mN15AsGox2k5I) | [Bed of Flowers](https://open.spotify.com/artist/01TxUc4gaIBQGYZ6LsTsFp) | [Seraphina Woods](https://open.spotify.com/album/37Cby65UbMz5qWGaay3ABk) | 2:22 | 2025-03-14 |  |
 | [Seraphyne](https://open.spotify.com/track/7bbgZ5R0Uju35KTpXGDcuW) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Seraphyne](https://open.spotify.com/album/6WTzBM0MQ94K7gQXxZqbFK) | 3:21 | 2024-11-28 |  |
@@ -355,7 +356,7 @@
 | [Sun\-drenched Greenery](https://open.spotify.com/track/3NNQpaLBsVHJrumz9inhFf) | [Mhino](https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8) | [Sun\-drenched Greenery](https://open.spotify.com/album/0mF5YSe2ziMY1EpNX4im50) | 3:24 | 2023-09-05 | 2025-10-02 |
 | [Sunrise](https://open.spotify.com/track/08x0lo9qXTPOHpmJXOIUGV) | [Constant Future](https://open.spotify.com/artist/0MhUXfJGaHfNudsEeha6iA) | [Sunrise](https://open.spotify.com/album/32ag8xH70wLTbKDS6Rcq7Q) | 3:11 | 2024-12-04 |  |
 | [Swells of Peace](https://open.spotify.com/track/2dIc6DpyULpWApOIcfrJ9R) | [Beyond Observable](https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq) | [Swells of Peace](https://open.spotify.com/album/0JdcL1uvu23PI3A0pdYEPF) | 2:23 | 2024-01-30 | 2025-07-02 |
-| [Taigara](https://open.spotify.com/track/7K7ZAr3k3yiDTkBbYjTn3r) | [Pristeen](https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj) | [Taigara](https://open.spotify.com/album/4vDUobGl0tDNkhC45JOZYD) | 2:36 | 2026-01-21 |  |
+| [Taigara](https://open.spotify.com/track/7K7ZAr3k3yiDTkBbYjTn3r) | [Pristeen](https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj) | [Taigara](https://open.spotify.com/album/4vDUobGl0tDNkhC45JOZYD) | 2:36 | 2026-01-21 | 2026-01-27 |
 | [Take A Breath](https://open.spotify.com/track/5mBJ1WB5syIHpn9LAh53hl) | [Moderato Aredo](https://open.spotify.com/artist/74G3pWoGCFymwyQUPn8rsj) | [Take A Breath](https://open.spotify.com/album/2AjcwMmxfCdh0siTZOOdJw) | 2:21 | 2023-09-05 |  |
 | [Taledra](https://open.spotify.com/track/4p63wTrHhA2L5ik5hSMx3M) | [Lux Alba](https://open.spotify.com/artist/18NVPzP15IyNqKnkShIdVz) | [Taledra](https://open.spotify.com/album/0bYVlFv5nKN4cIYgfFMvdt) | 2:41 | 2025-10-01 |  |
 | [Tall Signs](https://open.spotify.com/track/1sfIqjgvXMyek71Oq86kD7) | [Faux Moon](https://open.spotify.com/artist/6nDHxcxzE1HEYG9PYmuVQW) | [Tall Signs](https://open.spotify.com/album/6cxw4V46E77PerOomIH8oP) | 2:38 | 2025-09-18 |  |

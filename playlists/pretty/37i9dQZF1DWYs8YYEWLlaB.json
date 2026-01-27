@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler.  Kapak: Emre Fel ",
-  "num_followers": 571887,
+  "num_followers": 571918,
   "original_name": "trend 2026",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,26 @@
     {
       "added_at": "2026-01-08 21:00:29",
       "album": {
+        "name": "Aldan\u0131r\u0131m",
+        "url": "https://open.spotify.com/album/1nQJBqp4xqBPEv5MU2qxHt"
+      },
+      "artists": [
+        {
+          "name": "S\u0131la \u015eahin",
+          "url": "https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC"
+        },
+        {
+          "name": "Samet Karde\u015fler",
+          "url": "https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp"
+        }
+      ],
+      "duration_ms": 201231,
+      "name": "Aldan\u0131r\u0131m",
+      "url": "https://open.spotify.com/track/1I7iW0f42qRNJMvpyERRmo"
+    },
+    {
+      "added_at": "2026-01-08 21:00:29",
+      "album": {
         "name": "manifestival (deluxe)",
         "url": "https://open.spotify.com/album/0MpedZcfZuHSMgIHacjRFL"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 232215,
       "name": "Zehir - Motive Remix",
       "url": "https://open.spotify.com/track/2OCqhgRAssguuVopUMfGL8"
-    },
-    {
-      "added_at": "2026-01-08 21:00:29",
-      "album": {
-        "name": "Aldan\u0131r\u0131m",
-        "url": "https://open.spotify.com/album/1nQJBqp4xqBPEv5MU2qxHt"
-      },
-      "artists": [
-        {
-          "name": "S\u0131la \u015eahin",
-          "url": "https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC"
-        },
-        {
-          "name": "Samet Karde\u015fler",
-          "url": "https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp"
-        }
-      ],
-      "duration_ms": 201231,
-      "name": "Aldan\u0131r\u0131m",
-      "url": "https://open.spotify.com/track/1I7iW0f42qRNJMvpyERRmo"
     },
     {
       "added_at": "2026-01-08 21:00:29",

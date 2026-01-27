@@ -4,7 +4,7 @@
 
 > J\-Rock acts who have broken the border and are making global impact\.   Cover: Tatsuya Kitani キタニタツヤ
 
-1,476 songs - 4 day 0 hr 35 min
+1,477 songs - 4 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [Koino Mega Lover](https://open.spotify.com/track/2FGJsygiQplOyghzm99BWZ) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [Bu\-ikikaesu](https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K) | 5:27 | 2024-04-23 | 2024-10-01 |
 | [Kon! Kon! \(feat\. Bloodywood\)](https://open.spotify.com/track/7uCQ2yvHQxZtTrvdDLA1Cz) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9) | [Kon! Kon! \(feat\. Bloodywood\)](https://open.spotify.com/album/15RUsiYzHzWFxCZqKjnW4T) | 3:55 | 2025-07-15 | 2025-09-17 |
 | [Kowareso](https://open.spotify.com/track/3Z3RDXIcMsCQ3GJB32Q5qg) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [DOKI DOKI](https://open.spotify.com/album/0ahFITufRRpuHUXx2REpDq) | 3:55 | 2022-11-01 | 2024-01-24 |
+| [KUCHUBURANKO](https://open.spotify.com/track/1c2CyIh5XLIxbJv0s3z8MI) | [Plastic Tree](https://open.spotify.com/artist/5O4DsTkJ6z2eTSvIHZ6sDo) | [KUCHUBURANKO](https://open.spotify.com/album/2fy2QRd4TmqZyM1cYSVRTN) | 5:24 | 2026-01-26 |  |
 | [Kujira no Stage](https://open.spotify.com/track/4QYow0TygMiFEJYyQbewak) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Kujira no Stage](https://open.spotify.com/album/6i1bkPuMVk0eSbBpmQK3NL) | 5:24 | 2023-02-07 | 2023-02-15 |
 | [kurayamisaka yori ai wo komete](https://open.spotify.com/track/15hpvTLNSvSMOHby6SSBGt) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/1dcM74wiEAmeUhlSJVJJrO) | 3:13 | 2025-08-26 | 2025-09-17 |
 | [Kyo no Tsuzuki o](https://open.spotify.com/track/3GUxnsyhw0sBlHB5w0Y01o) | [SCOOBIE DO](https://open.spotify.com/artist/5W6Mi5J8L2fUefI1Krcacu) | [Tough Layer](https://open.spotify.com/album/7g8uOemIk4xT5HqaKEtPX5) | 3:32 | 2022-08-23 | 2022-09-07 |
@@ -770,7 +771,7 @@
 | [THE GREAT ESCAPE](https://open.spotify.com/track/529hG2KRGHFeZoVg9fe20G) | [トライセラトップス](https://open.spotify.com/artist/00J5DWQel4eH9qQnDS6qrn) | [THE GREAT ESCAPE](https://open.spotify.com/album/5KXP25lpqzX9MZ7xIG3CBn) | 3:46 | 2022-05-19 | 2022-06-09 |
 | [The Great Time Killer](https://open.spotify.com/track/2TWxpuIdzsvYwC4WsJBMAZ) | [Lovely Summer Chan](https://open.spotify.com/artist/4nA0WP72lQ6494sT3xbips) | [Music For Walking \(Out Of The Woods\)](https://open.spotify.com/album/5BOrVVQthtuBSqxaduFAkx) | 3:45 | 2025-01-28 | 2025-02-19 |
 | [The Haunted](https://open.spotify.com/track/0onxAgb0IFzPdzZh947SWj) | [METAFIVE](https://open.spotify.com/artist/5bIZrkukT53Jqrc4Vl4dvI) | [METAATEM](https://open.spotify.com/album/1qURL5FFneLcsfIMwIYWO2) | 4:22 | 2022-09-13 | 2022-11-02 |
-| [The IIIRD Eye](https://open.spotify.com/track/6RcnoVEUeKJUjvEzUcRfFI) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [FYOP](https://open.spotify.com/album/1YcrCGi9NDl9EI0bZPC0on) | 4:14 | 2025-11-25 |  |
+| [The IIIRD Eye](https://open.spotify.com/track/6RcnoVEUeKJUjvEzUcRfFI) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [FYOP](https://open.spotify.com/album/1YcrCGi9NDl9EI0bZPC0on) | 4:14 | 2025-11-25 | 2026-01-27 |
 | [THE KEBABSを抱きしめて](https://open.spotify.com/track/4vLkPISde2wc7vcFdBMB4a) | [THE KEBABS](https://open.spotify.com/artist/59RHw8mybzyMx2euAXycie) | [幸せにしてくれいーぴー](https://open.spotify.com/album/2q37HtYAlyNvkGvKSeojsZ) | 3:33 | 2023-03-14 | 2023-05-10 |
 | [THE LAST ROCKSTARS \(PARIS MIX\)](https://open.spotify.com/track/3V3BVSPAsXD3keTsZTXF4k) | [The Last Rockstars](https://open.spotify.com/artist/4tCAdCQzODk8RI5LvTfujz) | [THE LAST ROCKSTARS \(PARIS MIX\)](https://open.spotify.com/album/4tofpZnaMxN2eFbS6aBBor) | 4:45 | 2022-12-31 | 2023-06-28 |
 | [The Perfume of Sins \(Radio Edit Ver.\)](https://open.spotify.com/track/30iV9AL1mSkP1j9vKe4li7) | [DIR EN GREY](https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA) | [The Perfume of Sins \(Radio Edit Ver.\)](https://open.spotify.com/album/1BQkjRsbHYI1tlPWzuzlww) | 3:19 | 2022-06-14 | 2022-07-06 |

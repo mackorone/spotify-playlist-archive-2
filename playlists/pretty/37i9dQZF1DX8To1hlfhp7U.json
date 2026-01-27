@@ -1,6 +1,6 @@
 {
   "description": "Get ready for a full-body workout",
-  "num_followers": 90848,
+  "num_followers": 90851,
   "original_name": "Workout Bhangra",
   "owner": {
     "name": "Spotify",
@@ -735,26 +735,6 @@
     {
       "added_at": "2026-01-23 14:30:44",
       "album": {
-        "name": "Four You",
-        "url": "https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        },
-        {
-          "name": "Ikky",
-          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
-        }
-      ],
-      "duration_ms": 210361,
-      "name": "Take It Easy",
-      "url": "https://open.spotify.com/track/5si4xdFplkXAydKfFe1xXa"
-    },
-    {
-      "added_at": "2026-01-23 14:30:44",
-      "album": {
         "name": "Panjeban",
         "url": "https://open.spotify.com/album/05IH45QvIWWy7g77Cd9uzB"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 200883,
       "name": "Panjeban",
       "url": "https://open.spotify.com/track/5UpDw777uj0nvw6dtDRjw7"
+    },
+    {
+      "added_at": "2026-01-23 14:30:44",
+      "album": {
+        "name": "Four You",
+        "url": "https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "duration_ms": 210361,
+      "name": "Take It Easy",
+      "url": "https://open.spotify.com/track/5si4xdFplkXAydKfFe1xXa"
     },
     {
       "added_at": "2026-01-23 14:30:44",

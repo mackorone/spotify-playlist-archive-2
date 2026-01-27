@@ -1,6 +1,6 @@
 {
   "description": "\u2744\ufe0f\u2744\ufe0f\u2744\ufe0f\n",
-  "num_followers": 159522,
+  "num_followers": 159567,
   "original_name": "vintertid",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-01-22 23:00:36",
       "album": {
-        "name": "Milk and Honey",
-        "url": "https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf"
-      },
-      "artists": [
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
-        }
-      ],
-      "duration_ms": 210807,
-      "name": "Milk and Honey",
-      "url": "https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK"
-    },
-    {
-      "added_at": "2026-01-22 23:00:36",
-      "album": {
         "name": "Tjue \u00e5r",
         "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 176808,
       "name": "F\u00f8r han for",
       "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
+    },
+    {
+      "added_at": "2026-01-22 23:00:36",
+      "album": {
+        "name": "Milk and Honey",
+        "url": "https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf"
+      },
+      "artists": [
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 210807,
+      "name": "Milk and Honey",
+      "url": "https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK"
     },
     {
       "added_at": "2026-01-22 23:00:36",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-01-22 23:00:36",
       "album": {
+        "name": "Eli",
+        "url": "https://open.spotify.com/album/3ERn5HfbvgJ4shmGx5Pw7w"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 205454,
+      "name": "Eli",
+      "url": "https://open.spotify.com/track/3SZ2ts1QHO3rXYMkAhIOq8"
+    },
+    {
+      "added_at": "2026-01-22 23:00:36",
+      "album": {
         "name": "Venter du",
         "url": "https://open.spotify.com/album/33rnPbG5uBGM1klUO46Arc"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 157360,
       "name": "Venter du",
       "url": "https://open.spotify.com/track/4MWldeK06AisUkSYARj8YD"
-    },
-    {
-      "added_at": "2026-01-22 23:00:36",
-      "album": {
-        "name": "Eli",
-        "url": "https://open.spotify.com/album/3ERn5HfbvgJ4shmGx5Pw7w"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 205454,
-      "name": "Eli",
-      "url": "https://open.spotify.com/track/3SZ2ts1QHO3rXYMkAhIOq8"
     },
     {
       "added_at": "2026-01-22 23:00:36",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-01-22 23:00:36",
       "album": {
+        "name": "G\u00e5 bli lykkelig, du",
+        "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "duration_ms": 187281,
+      "name": "G\u00e5 bli lykkelig, du",
+      "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
+    },
+    {
+      "added_at": "2026-01-22 23:00:36",
+      "album": {
         "name": "What Happened To The Heart? (Deluxe)",
         "url": "https://open.spotify.com/album/7GnH4NzxlsMd5EijCfUAkM"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 175360,
       "name": "Hva vi kunne bli",
       "url": "https://open.spotify.com/track/11A6wBoTeemgHHuCotUL3u"
-    },
-    {
-      "added_at": "2026-01-22 23:00:36",
-      "album": {
-        "name": "G\u00e5 bli lykkelig, du",
-        "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
-      },
-      "artists": [
-        {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
-        }
-      ],
-      "duration_ms": 187281,
-      "name": "G\u00e5 bli lykkelig, du",
-      "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
     },
     {
       "added_at": "2026-01-22 23:00:36",
@@ -991,18 +991,18 @@
     {
       "added_at": "2026-01-22 23:00:36",
       "album": {
-        "name": "05050",
-        "url": "https://open.spotify.com/album/78Y7RCEFDKdDWfQ62prVwx"
+        "name": "Fargepalett",
+        "url": "https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6"
       },
       "artists": [
         {
-          "name": "Ram\u00f3n",
-          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+          "name": "Nessi",
+          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
         }
       ],
-      "duration_ms": 186739,
-      "name": "DESPU\u00c9S DE LA FERIA",
-      "url": "https://open.spotify.com/track/0gi0UeiivFSkgrc8Bw7m4x"
+      "duration_ms": 141335,
+      "name": "Fargepalett",
+      "url": "https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc"
     },
     {
       "added_at": "2026-01-22 23:00:36",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2026-01-22 23:00:36",
       "album": {
-        "name": "Fargepalett",
-        "url": "https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6"
+        "name": "05050",
+        "url": "https://open.spotify.com/album/78Y7RCEFDKdDWfQ62prVwx"
       },
       "artists": [
         {
-          "name": "Nessi",
-          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
         }
       ],
-      "duration_ms": 141335,
-      "name": "Fargepalett",
-      "url": "https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc"
+      "duration_ms": 186739,
+      "name": "DESPU\u00c9S DE LA FERIA",
+      "url": "https://open.spotify.com/track/0gi0UeiivFSkgrc8Bw7m4x"
     },
     {
       "added_at": "2026-01-22 23:00:36",
@@ -1135,6 +1135,22 @@
       "duration_ms": 201774,
       "name": "Oh Love - Acoustic",
       "url": "https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur"
+    },
+    {
+      "added_at": "2026-01-22 23:00:36",
+      "album": {
+        "name": "YOUNG: Part 1 & 2",
+        "url": "https://open.spotify.com/album/1fgSrvKpIkI49fAy6SFHPV"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "duration_ms": 137160,
+      "name": "If I'm So Bad",
+      "url": "https://open.spotify.com/track/3qOFI6kpf9FqZ2GxKCJV3M"
     },
     {
       "added_at": "2026-01-22 23:00:36",
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2026-01-22 23:00:36",
       "album": {
-        "name": "YOUNG: Part 1 & 2",
-        "url": "https://open.spotify.com/album/1fgSrvKpIkI49fAy6SFHPV"
-      },
-      "artists": [
-        {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
-        }
-      ],
-      "duration_ms": 137160,
-      "name": "If I'm So Bad",
-      "url": "https://open.spotify.com/track/3qOFI6kpf9FqZ2GxKCJV3M"
-    },
-    {
-      "added_at": "2026-01-22 23:00:36",
-      "album": {
         "name": "Jeg vil ikke st\u00e5 i ro lenger",
         "url": "https://open.spotify.com/album/5tOX3r3JMbo4tCYOuExN8A"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-01-22 23:00:36",
       "album": {
-        "name": "Mira",
-        "url": "https://open.spotify.com/album/2OBxw92JrtGREndgAnWkCz"
-      },
-      "artists": [
-        {
-          "name": "Aden Foyer",
-          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
-        }
-      ],
-      "duration_ms": 223399,
-      "name": "Mira",
-      "url": "https://open.spotify.com/track/3xbSexiVMsTaqlWW2tyt8s"
-    },
-    {
-      "added_at": "2026-01-22 23:00:36",
-      "album": {
         "name": "Half Decade Addiction",
         "url": "https://open.spotify.com/album/1FXRSeOagN6b4lsOdvH1ZP"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 190826,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/0XtHlGLkAmQBPTOLvMxqy2"
+    },
+    {
+      "added_at": "2026-01-22 23:00:36",
+      "album": {
+        "name": "Mira",
+        "url": "https://open.spotify.com/album/2OBxw92JrtGREndgAnWkCz"
+      },
+      "artists": [
+        {
+          "name": "Aden Foyer",
+          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+        }
+      ],
+      "duration_ms": 223399,
+      "name": "Mira",
+      "url": "https://open.spotify.com/track/3xbSexiVMsTaqlWW2tyt8s"
     },
     {
       "added_at": "2026-01-22 23:00:36",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-01-22 23:00:36",
       "album": {
-        "name": "VERDENS BESTE ALBUM",
-        "url": "https://open.spotify.com/album/7KXuM7PAkPanN5WfYEtgx1"
-      },
-      "artists": [
-        {
-          "name": "Jon Ranes",
-          "url": "https://open.spotify.com/artist/1bSA2Bzn7yZHPifJQ2EK6t"
-        }
-      ],
-      "duration_ms": 183568,
-      "name": "Kunstig intelligens",
-      "url": "https://open.spotify.com/track/3wfH49f022FFqpLCuZbqOe"
-    },
-    {
-      "added_at": "2026-01-22 23:00:36",
-      "album": {
         "name": "Movie Star",
         "url": "https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR"
       },
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2026-01-22 23:00:36",
       "album": {
-        "name": "M\u00e5nen",
-        "url": "https://open.spotify.com/album/2fRdT0ii5ti8TCPQ0072uD"
+        "name": "VERDENS BESTE ALBUM",
+        "url": "https://open.spotify.com/album/7KXuM7PAkPanN5WfYEtgx1"
       },
       "artists": [
         {
-          "name": "Erika Norwich",
-          "url": "https://open.spotify.com/artist/1FsZYh8RTfafSEVmoVxWeK"
+          "name": "Jon Ranes",
+          "url": "https://open.spotify.com/artist/1bSA2Bzn7yZHPifJQ2EK6t"
         }
       ],
-      "duration_ms": 177717,
-      "name": "M\u00e5nen",
-      "url": "https://open.spotify.com/track/6dwd8GYLeFP1sfDWUKD9ol"
+      "duration_ms": 183568,
+      "name": "Kunstig intelligens",
+      "url": "https://open.spotify.com/track/3wfH49f022FFqpLCuZbqOe"
     },
     {
       "added_at": "2026-01-22 23:00:36",
@@ -1471,6 +1455,22 @@
       "duration_ms": 176000,
       "name": "It\u00b4s Ok If You Forget Me (feat. Emma Jensen)",
       "url": "https://open.spotify.com/track/61g5DDHobx9aPCBsKgKiqP"
+    },
+    {
+      "added_at": "2026-01-22 23:00:36",
+      "album": {
+        "name": "M\u00e5nen",
+        "url": "https://open.spotify.com/album/2fRdT0ii5ti8TCPQ0072uD"
+      },
+      "artists": [
+        {
+          "name": "Erika Norwich",
+          "url": "https://open.spotify.com/artist/1FsZYh8RTfafSEVmoVxWeK"
+        }
+      ],
+      "duration_ms": 177717,
+      "name": "M\u00e5nen",
+      "url": "https://open.spotify.com/track/6dwd8GYLeFP1sfDWUKD9ol"
     }
   ],
   "unique_name": "vintertid",

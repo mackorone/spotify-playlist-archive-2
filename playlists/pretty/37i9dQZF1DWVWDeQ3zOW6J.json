@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 52807,
+  "num_followers": 52818,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
+        "name": "De Ti Depende",
+        "url": "https://open.spotify.com/album/79ww1pmfO8Y9fvZeSlSHFy"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 407373,
+      "name": "Periodico De Ayer",
+      "url": "https://open.spotify.com/track/3Hv1DCU3Z0mPJa7UjqD0IG"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
         "name": "Old Love Dies Hard",
         "url": "https://open.spotify.com/album/3TMmBldOjrRCwxJd2czJ1B"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 327360,
       "name": "No No No",
       "url": "https://open.spotify.com/track/7o7IBUZOUdmvd7rOhHuFiM"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
-        "name": "Fuego En El 23",
-        "url": "https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f"
-      },
-      "artists": [
-        {
-          "name": "Sonora Ponce\u00f1a",
-          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
-        }
-      ],
-      "duration_ms": 284653,
-      "name": "Fuego En El 23",
-      "url": "https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el"
     },
     {
       "added_at": "2024-09-24 21:05:36",

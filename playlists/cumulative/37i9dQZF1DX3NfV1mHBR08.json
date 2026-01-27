@@ -158,7 +158,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 229066,
       "name": "be",
       "url": "https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1"
@@ -989,6 +989,24 @@
     },
     {
       "album": {
+        "name": "GO FOR IT",
+        "url": "https://open.spotify.com/album/4z3TLVNdST1A1awgGGxl07"
+      },
+      "artists": [
+        {
+          "name": "HYNN",
+          "url": "https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196093,
+      "name": "GO FOR IT",
+      "url": "https://open.spotify.com/track/3yAQgYaPG6OjgV7Aej0C5G"
+    },
+    {
+      "album": {
         "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
         "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
       },
@@ -1290,7 +1308,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 191000,
       "name": "I am",
       "url": "https://open.spotify.com/track/4AHhXbooNnHULGK8F38xt1"
@@ -1506,7 +1524,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 210000,
       "name": "Lean On Me",
       "url": "https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0"
@@ -2375,6 +2393,24 @@
     },
     {
       "album": {
+        "name": "To Me From Me (Prod. TABLO)",
+        "url": "https://open.spotify.com/album/45M61dR59iKzmL7wMfOK6G"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "To Me From Me (Prod. TABLO)",
+      "url": "https://open.spotify.com/track/5qnKbP6x2SyUbsLem897iL"
+    },
+    {
+      "album": {
         "name": "Red Diary Page.1",
         "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
       },
@@ -2708,7 +2744,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 222195,
       "name": "Wings",
       "url": "https://open.spotify.com/track/7pADYTP4U0LAMRbWigXGXn"
@@ -2827,6 +2863,24 @@
     },
     {
       "album": {
+        "name": "Merry Summer",
+        "url": "https://open.spotify.com/album/5KgEgjxSu2knfGZBj4XQgN"
+      },
+      "artists": [
+        {
+          "name": "ROCOBERRY",
+          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172396,
+      "name": "\uad1c\ucc2e\uc544, \uccad\ucd98",
+      "url": "https://open.spotify.com/track/1gFmuw6p4udOcvo8JdAMxX"
+    },
+    {
+      "album": {
         "name": "MOONRISE",
         "url": "https://open.spotify.com/album/1zqzCp8Fa4R4IpYKN4wIkV"
       },
@@ -2936,7 +2990,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-05",
+      "date_removed": null,
       "duration_ms": 179026,
       "name": "\uc218\uace0\ud588\uc5b4, \uc624\ub298\ub3c4 Cheer Up",
       "url": "https://open.spotify.com/track/74S870utHcrils7QiOw0Jh"

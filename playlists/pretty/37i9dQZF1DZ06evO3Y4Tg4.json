@@ -1,12 +1,12 @@
 {
   "description": "This is Dave. The essential tracks, all in one playlist.",
-  "num_followers": 260054,
+  "num_followers": 260139,
   "original_name": "This Is Dave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXQLgAAAAACDiOi37i/nPeSeodgrSTvw",
+  "snapshot_id": "aXVdAAAAAAAWmyJMQSixCfbT4rDXmZp2",
   "tracks": [
     {
       "added_at": null,
@@ -618,11 +618,15 @@
         {
           "name": "Dave",
           "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "MoStack",
+          "url": "https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP"
         }
       ],
-      "duration_ms": 445349,
-      "name": "How I Met My Ex",
-      "url": "https://open.spotify.com/track/2nO7YG8CFXSZOpvxSFUzgJ"
+      "duration_ms": 210904,
+      "name": "No Words",
+      "url": "https://open.spotify.com/track/4USHZ3omhEBGjHLD9BIJYs"
     },
     {
       "added_at": null,
@@ -690,15 +694,11 @@
         {
           "name": "Dave",
           "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "MoStack",
-          "url": "https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP"
         }
       ],
-      "duration_ms": 210904,
-      "name": "No Words",
-      "url": "https://open.spotify.com/track/4USHZ3omhEBGjHLD9BIJYs"
+      "duration_ms": 445349,
+      "name": "How I Met My Ex",
+      "url": "https://open.spotify.com/track/2nO7YG8CFXSZOpvxSFUzgJ"
     },
     {
       "added_at": null,

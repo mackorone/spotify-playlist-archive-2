@@ -4333,6 +4333,24 @@
     },
     {
       "album": {
+        "name": "\u4e0d\u8a2d\u5e95\u7dda",
+        "url": "https://open.spotify.com/album/51bvqMRqKyAoJYWFQ9aBDD"
+      },
+      "artists": [
+        {
+          "name": "Gigi Cheung",
+          "url": "https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217976,
+      "name": "\u4e0d\u8a2d\u5e95\u7dda",
+      "url": "https://open.spotify.com/track/5TfPpQnakWggAh89odqMyM"
+    },
+    {
+      "album": {
         "name": "\u4e0d\u914d",
         "url": "https://open.spotify.com/album/1vf0j6LdTJTJpaiAOoowXy"
       },

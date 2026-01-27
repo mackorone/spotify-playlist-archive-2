@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Gerardo Coronel \ud83d\udcf8",
-  "num_followers": 1289200,
+  "num_followers": 1289299,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-01-23 06:00:08",
       "album": {
+        "name": "Un Ramo de Rosas",
+        "url": "https://open.spotify.com/album/3vhWVRgFPG5OeaZ9hPbuGV"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Lizarraga",
+          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
+        }
+      ],
+      "duration_ms": 140893,
+      "name": "Un Ramo de Rosas",
+      "url": "https://open.spotify.com/track/0h8fz27ck5IyqAcUQXo9XP"
+    },
+    {
+      "added_at": "2026-01-23 06:00:08",
+      "album": {
         "name": "Te amo y te amar\u00e9",
         "url": "https://open.spotify.com/album/4m7YV1cz8QGOegGkHZVGr3"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 132864,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/1hmB7TppstlMpwQLUsdbDB"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
-        "name": "Un Ramo de Rosas",
-        "url": "https://open.spotify.com/album/3vhWVRgFPG5OeaZ9hPbuGV"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Lizarraga",
-          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
-        }
-      ],
-      "duration_ms": 140893,
-      "name": "Un Ramo de Rosas",
-      "url": "https://open.spotify.com/track/0h8fz27ck5IyqAcUQXo9XP"
     },
     {
       "added_at": "2026-01-23 06:00:08",

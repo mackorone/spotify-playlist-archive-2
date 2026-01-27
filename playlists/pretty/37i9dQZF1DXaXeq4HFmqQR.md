@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. Curada por  Masquemusica 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,881 likes - 26 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,880 likes - 26 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-988 songs - 2 day 6 hr 40 min
+993 songs - 2 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Days Go By](https://open.spotify.com/track/1J1gh4SlZViM3dbI6yksuK) | [REWL](https://open.spotify.com/artist/1jk3vHOzuNEFKUCPIwrswh) | [Days Go By](https://open.spotify.com/album/0GmqvawyGxMLIddFjcmdOs) | 3:00 | 2026-01-01 |  |
 | [Days Like This](https://open.spotify.com/track/3mf54V3ZB3xPP7HE2AHYJ5) | [Marley Merz](https://open.spotify.com/artist/13DsETisptRjIHLlag0aWM) | [Days Like This](https://open.spotify.com/album/1ZLTlOONPvIc6lWTh5qZ5z) | 1:49 | 2026-01-21 |  |
 | [Dear X](https://open.spotify.com/track/7efe0ilRZeshgQpASqG1mG) | [WORSHIPER](https://open.spotify.com/artist/6MyopTP1JJDKkwooQaE1Dk) | [Dear X](https://open.spotify.com/album/2zz4UKgmhWGsUQ9C16pQAJ) | 2:34 | 2025-12-15 | 2026-01-17 |
+| [Dear X \- Acoustic](https://open.spotify.com/track/2EzZoCJWjgrTDypksr4gKo) | [WORSHIPER](https://open.spotify.com/artist/6MyopTP1JJDKkwooQaE1Dk) | [Dear X \(Acoustic\)](https://open.spotify.com/album/5vDMnPvS72yhtFzzd9BNcC) | 2:02 | 2026-01-26 |  |
 | [Dec 31st](https://open.spotify.com/track/5TejL2F3Cntqsd6gr6LoEa) | [420 Vision](https://open.spotify.com/artist/0Jfa0ovGl8yKOxqRCzXmcr) | [Dec 31st](https://open.spotify.com/album/1LL05t05ellb7nYuJqqaFi) | 2:33 | 2026-01-23 |  |
 | [December List](https://open.spotify.com/track/1bjT5RiSuziSvtiuZoxBlI) | [SubPersona](https://open.spotify.com/artist/6bEyGSxcQRd8JUrCsq22aD) | [December List](https://open.spotify.com/album/7oJzcFMFxAEHB5oV9YVMDW) | 2:38 | 2025-12-27 |  |
 | [Delay](https://open.spotify.com/track/6SY5BLYfK4mmb9fcU7q38X) | [Barrie Johnson](https://open.spotify.com/artist/1Y5kb8pZVSA6CH12qTROX4) | [Delay](https://open.spotify.com/album/6tfhd6qt2y9QhbBaOQeq8N) | 3:14 | 2025-12-08 | 2026-01-15 |
@@ -203,6 +204,7 @@
 | [do you hear me now ?](https://open.spotify.com/track/3DMEf8nufaIsYKUs44cCHs) | [LOST PAIN](https://open.spotify.com/artist/2NgDo9eUU3j7TtYt9XKrBW) | [do you hear me now ?](https://open.spotify.com/album/4F1c5GSA7rHwqhDty7d0Yj) | 3:30 | 2025-10-27 | 2025-11-29 |
 | [Do You Know](https://open.spotify.com/track/5CTgUx3Dxg0BDBpLjyCE4Q) | [Arlie Nuth](https://open.spotify.com/artist/4FV14KQ59bNf6u2FnB4xgg) | [Do You Know](https://open.spotify.com/album/5gRxAPS2RFRGMz5GfLmQE7) | 2:21 | 2025-11-04 | 2025-12-07 |
 | [Do You Wanna Dance \- Single Version](https://open.spotify.com/track/4vixfgaJefJPIgFap4NrnB) | [Ian Barras](https://open.spotify.com/artist/2KKqzZ7cG7s5fIlAj0HgmV), [Kelly Page](https://open.spotify.com/artist/3lcYKIZxTM4iUysdaIw9pM), [Young Sims](https://open.spotify.com/artist/10HxnlgewgvRWdyakhL0oJ) | [Do You Wanna Dance](https://open.spotify.com/album/38K7BHIpooTbncjVGTlvhk) | 2:23 | 2025-10-19 | 2025-11-23 |
+| [Do You Want Me](https://open.spotify.com/track/0mPlRoWozVrwoJXKGJ8KV2) | [Beau Audio](https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0) | [Do You Want Me](https://open.spotify.com/album/7GJrSnO6AcA9MPeKIpfnW2) | 2:10 | 2026-01-26 |  |
 | [DOES IT HURT?](https://open.spotify.com/track/45EwN6Bq7p92QrmNRRkfrw) | [Lany Cruz](https://open.spotify.com/artist/5KAMVzfPogcys0IbrOa8jK) | [DOES IT HURT?](https://open.spotify.com/album/7BJU2HVWzfnRew6gWlhV4Y) | 3:16 | 2025-11-26 | 2025-12-28 |
 | [Don't ever go](https://open.spotify.com/track/4ffjbEFePaJNXLDrKUwqTg) | [Sayora](https://open.spotify.com/artist/1C4NY7sDv2kdQRU9CTHGzX) | [Don't ever go](https://open.spotify.com/album/6FHMSjUbNcIzDmj0KC7hyC) | 2:53 | 2025-12-08 | 2026-01-15 |
 | [Don't Get Stuck on Yourself, Pt 7](https://open.spotify.com/track/3fqaEbb1OUnsblm0zZEz6v) | [Nada UV](https://open.spotify.com/artist/4musO8DBvt9mUrWmR3PUQc) | [Don't Get Stuck on Yourself](https://open.spotify.com/album/1uB3maO8CKYXhT2WZvHPiW) | 3:43 | 2025-11-30 | 2026-01-01 |
@@ -309,6 +311,7 @@
 | [Fortress \(Psalm 46\)](https://open.spotify.com/track/4awzeNhX4Mq2q1ctbGdSx6) | [We Who Wrestle](https://open.spotify.com/artist/1pfYB0WLqhlbIBWBp0lR0m) | [Every Breath](https://open.spotify.com/album/49IyajfL869H1mcKFyO4kd) | 3:05 | 2025-10-27 | 2025-11-30 |
 | [Fragment](https://open.spotify.com/track/6D2bkwEqE6PKpfKmt2BqiI) | [eadoin](https://open.spotify.com/artist/7wmVzeY2EM1JKKxRj32n66) | [Fragment](https://open.spotify.com/album/7EtIPFvsepIT2H3EElJRf3) | 1:31 | 2025-11-06 | 2025-12-07 |
 | [Fragments](https://open.spotify.com/track/5JXKqpttHgeMFvRxlJiNZm) | [ARKAD1A](https://open.spotify.com/artist/7EdtSbHEp0JDWdlbQD44nk) | [Fragments](https://open.spotify.com/album/0mxfDbg7spvCnnJWFmXw6n) | 4:24 | 2025-11-20 | 2025-12-21 |
+| [Frayed Edges](https://open.spotify.com/track/16Vl5jE1fu5J1o4gQ8dl1r) | [Elle Gee](https://open.spotify.com/artist/2y3v0be3sxtxdsBmIDCGFf), [Vin](https://open.spotify.com/artist/3BWBXl8rNC6nUozBkVF9BJ) | [Frayed Edges](https://open.spotify.com/album/0UFo7PsOzm5R2fX4eR8QxS) | 3:10 | 2026-01-26 |  |
 | [Free To Be Me](https://open.spotify.com/track/2BR7K14jzGCa03JwknWE4o) | [VALORÉ](https://open.spotify.com/artist/2CLXmx11PQ9aUkXfjaSyYo) | [Free To Be Me](https://open.spotify.com/album/2mf6avsFsYtT9FaFDNBuQE) | 3:57 | 2025-11-30 | 2026-01-01 |
 | [Friday night](https://open.spotify.com/track/4nJwcHhJhXIxaEKmEqckpJ) | [Urban Tigers](https://open.spotify.com/artist/1fUXsw0764C9xb024Y8Ym5) | [The life i love](https://open.spotify.com/album/616ag23KwZpT7mbjfDlziA) | 2:44 | 2025-11-28 | 2025-12-31 |
 | [Friendly Fire](https://open.spotify.com/track/1IR9nzcaFwMIOA1rOQGCkd) | [Sami Harb](https://open.spotify.com/artist/0Feu623vncypK1hIvGfUBi) | [Friendly Fire](https://open.spotify.com/album/2fPD8YlC0LpZyTjjUqcpsy) | 3:24 | 2025-10-26 | 2025-11-29 |
@@ -684,6 +687,7 @@
 | [Radio Humming](https://open.spotify.com/track/1k0NrJMiCrQ38zs7FyUZP8) | [Aella Moon](https://open.spotify.com/artist/3NTYDGHWKfrCl4fpJnkApo) | [Radio Humming](https://open.spotify.com/album/6VcHolQbb47IeVRZ9NGiai) | 2:27 | 2025-10-20 | 2025-11-23 |
 | [Radio Silence](https://open.spotify.com/track/2pYRR2kmClRQfY13gJf7v8) | [The Savage Hearts](https://open.spotify.com/artist/0P9ejp1MT9rNQaufi5Rvq0) | [Radio Silence](https://open.spotify.com/album/0M3o34t4JsGiCei4LtzKlk) | 3:22 | 2026-01-06 |  |
 | [Rain](https://open.spotify.com/track/13XK1nYPylUfYF0FtxCvVB) | [Zoe Tedeschi](https://open.spotify.com/artist/1SJpmtRt9oC0NU3R9cqNc3) | [Rain](https://open.spotify.com/album/3Z3sd1x32IUjs4u9dkMevk) | 3:03 | 2026-01-04 |  |
+| [Rain Hides My Tears Tonight](https://open.spotify.com/track/7EgGEYInzw8Ltpbig88YnO) | [Popvibe Nations](https://open.spotify.com/artist/1x9lRK1WRdatGKx1VjK9s1) | [Rain Hides My Tears Tonight](https://open.spotify.com/album/5pxDGZK0zJvYlwa9igNYVN) | 3:11 | 2026-01-26 |  |
 | [Rainbow Eyes](https://open.spotify.com/track/0MfSlR26pT9XLhfOCopd6Q) | [WUHA](https://open.spotify.com/artist/2Xa5A0dIwmZt8OBZrTv4qQ) | [Rainbow Eyes](https://open.spotify.com/album/0CkBTvg99uxGiUUSiNbb2h) | 3:42 | 2025-10-20 | 2025-11-23 |
 | [Rainlight](https://open.spotify.com/track/1UnLlenOIo7a2NQbDF9ACa) | [Gliss](https://open.spotify.com/artist/49BVYCTwKB9sADS8tO2Tc5) | [Rainlight](https://open.spotify.com/album/1rGZvzIU1JroxM8Zc8gUGx) | 3:21 | 2025-11-06 | 2025-12-07 |
 | [Rainy Daze \- Sped and Reverbed](https://open.spotify.com/track/5bGLkTWNYkfGQwyiMkTZPM) | [Freddy Angel](https://open.spotify.com/artist/59JcUEGuPvu186HbTEOFPd), [Nu Décor](https://open.spotify.com/artist/4kms45n332DYrkjsUuoLrY) | [ASMR](https://open.spotify.com/album/55WfeH0X0xsujv7doK5Nae) | 2:46 | 2025-11-18 | 2025-12-20 |
@@ -822,6 +826,7 @@
 | [Tamarisk Shade](https://open.spotify.com/track/7kZGpUqsG99llKyBT7hYGa) | [Even the Stones](https://open.spotify.com/artist/61fz1O255Ugkef2PIhI2gB) | [Tamarisk Shade](https://open.spotify.com/album/0A5ZkaXVAUUhLewxD2Njf8) | 4:19 | 2025-10-31 | 2025-12-03 |
 | [Tangled](https://open.spotify.com/track/2Hsr98aM6wikvSOuqb4fv9) | [A\-C Leonte](https://open.spotify.com/artist/5IbQeVtelOe0CyCTUrKWgt) | [Now to Now](https://open.spotify.com/album/0RjTXmsNVea4Jne0Vob5zI) | 4:10 | 2025-12-16 | 2026-01-17 |
 | [Tau Neutrino](https://open.spotify.com/track/2baRIWyOx7rzjpGYSYzBMc) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Ambient Darkness \- Vol\. 3 \- Particles](https://open.spotify.com/album/6jWjAa20Z5ILkE9yQSRjtn) | 3:24 | 2026-01-23 |  |
+| [Teacher Teach Me](https://open.spotify.com/track/4WpcT6H2c7h0DolObTbaDE) | [Alexandra Datman](https://open.spotify.com/artist/599EH2iNWc47EKgNMpFqvw) | [Teacher Teach Me](https://open.spotify.com/album/7jvhdOWCxtYBRvfEcTS8GG) | 2:55 | 2026-01-26 |  |
 | [Tearing me apart](https://open.spotify.com/track/5aVwu0xfBj3NQ1ZVGyEFnb) | [Dan Jakob Pedersen](https://open.spotify.com/artist/5PeMuqmoA5XnlTaFoZA1zG) | [Tearing me apart](https://open.spotify.com/album/0BRrQJpNtuNClUMZ32DOv1) | 3:58 | 2025-11-27 | 2025-12-31 |
 | [Tears In The Rearview](https://open.spotify.com/track/32nyj1SvyO4rIFzKPiNz8p) | [Even Y](https://open.spotify.com/artist/2LEvhFJcAneAcY6SWXDIBk) | [Tears In The Rearview](https://open.spotify.com/album/4CWH09lE8ZS5D5aEG8JOMo) | 3:32 | 2025-11-11 | 2025-12-13 |
 | [Teeth On The Pavement](https://open.spotify.com/track/5QZpQqTpgnKJ1vo3vbQmZM) | [Ann Helene Hagen](https://open.spotify.com/artist/7aXFGhNg982wa7TzhTp2fj) | [Teeth On The Pavement](https://open.spotify.com/album/2uSeIqZx7x7kidVB3PoZvU) | 3:18 | 2026-01-16 |  |

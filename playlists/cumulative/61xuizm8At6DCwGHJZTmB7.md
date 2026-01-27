@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2026 \| Happy New Year 2026! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>
 
-685 songs - 2 day 18 hr 17 min
+686 songs - 2 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -660,6 +660,7 @@
 | [Who Else \- Live](https://open.spotify.com/track/2hUVIsZyLfy4xs35CHTlmN) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Claire Smith](https://open.spotify.com/artist/1WX879kYCO2MoFKwSZ2e50) | [Crowns Down \(Live\)](https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre) | 4:50 | 2023-12-01 | 2025-03-21 |
 | [Who Else \- Live](https://open.spotify.com/track/7gNM9aohgou9HSYbm7QU7H) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Claire Smith](https://open.spotify.com/artist/1WX879kYCO2MoFKwSZ2e50) | [Who Else \(Live\)](https://open.spotify.com/album/3CqhQB1z0nVAmVHlqFSClB) | 4:50 | 2023-08-04 | 2023-12-14 |
 | [Who Else \- Live at Gateway Conference](https://open.spotify.com/track/1mBH77kFrD96YMow8bm5cb) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Who Else \(Live\)](https://open.spotify.com/album/4PB1BxZTtyxqkihYYYK3pd) | 5:31 | 2024-01-19 | 2025-03-21 |
+| [Who He Is](https://open.spotify.com/track/5gn9wcB1UYSOlwMJOCkE2B) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Jamie MacDonald](https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp) | 3:34 | 2026-01-26 |  |
 | [Who Is Like You](https://open.spotify.com/track/3Gr7zPy6KiLaa6vfK4SYOR) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw), [Kyndall Cowart](https://open.spotify.com/artist/7zUb977dmkv4BOJirMsCwK) | [Who Is Like You](https://open.spotify.com/album/42HN6Vo3MNDXUvFbIzvy5d) | 5:40 | 2024-09-13 |  |
 | [Who Is This Man](https://open.spotify.com/track/06dAYamTh14bnWQ7UDj9TN) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Who Is This Man](https://open.spotify.com/album/1CgKtmZIU9ttrNToJxfPRp) | 3:30 | 2022-07-01 | 2022-07-14 |
 | [Who Is This Man \- Live](https://open.spotify.com/track/4ZyKugiffVoGadDGowUQKv) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Who Is This Man \(Live\)](https://open.spotify.com/album/5iZ73RpnTvE3s952j9oAwK) | 9:59 | 2023-03-17 | 2024-04-19 |

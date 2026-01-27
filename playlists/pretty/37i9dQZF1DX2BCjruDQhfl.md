@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > It's giving those vibes\. Cover: Gio
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,011 likes - 80 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,993 likes - 80 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gemaakt Voor Mij](https://open.spotify.com/track/2FOegrUT1zY66GX91oQ6Bn) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS) | [Gemaakt Voor Mij](https://open.spotify.com/album/2dDIq7YyMNlTDXoIyYFu4w) | 3:26 |
-| 2 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
-| 3 | [Pick Up](https://open.spotify.com/track/4sRXnH3B7eZzAvq70tP58O) | [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ) | [Pick Up](https://open.spotify.com/album/2yCU6e0wqZQoFtphtxT3KX) | 2:04 |
-| 4 | [Never Leave Me](https://open.spotify.com/track/5n3H5B5gWOLzxY0w1GF7b6) | [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Never Leave Me](https://open.spotify.com/album/5byQdsrgBIzBTsmFCMNH4W) | 2:04 |
+| 2 | [Never Leave Me](https://open.spotify.com/track/5n3H5B5gWOLzxY0w1GF7b6) | [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Never Leave Me](https://open.spotify.com/album/5byQdsrgBIzBTsmFCMNH4W) | 2:04 |
+| 3 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
+| 4 | [Pick Up](https://open.spotify.com/track/4sRXnH3B7eZzAvq70tP58O) | [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ) | [Pick Up](https://open.spotify.com/album/2yCU6e0wqZQoFtphtxT3KX) | 2:04 |
 | 5 | [Outside](https://open.spotify.com/track/5g4iF0EyHKtuduFzbnDqyV) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Half Clip](https://open.spotify.com/album/6Cuez4Hqqqxm3uZC0DnTor) | 2:47 |
 | 6 | [My Life](https://open.spotify.com/track/0B7kAhSMO9iR18kgy400F5) | [Roxy Rosa](https://open.spotify.com/artist/6q7SnYRWQncKrWYoZj4ILg) | [My Life](https://open.spotify.com/album/4yqZcI4ZeX3utV8w5Cq4Xh) | 2:37 |
 | 7 | [bad fkn habits](https://open.spotify.com/track/61tCmoJNiTJgaXj1UOc2Va) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [INSOMNIA](https://open.spotify.com/album/3l4ZN4bsXuGGzpnPt1czlW) | 2:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 79 | [Bambi](https://open.spotify.com/track/0XLOhjJBDxpcL47b1pTShu) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [Bambi](https://open.spotify.com/album/48gDv65vyvEszJB79hJEwc) | 1:48 |
 | 80 | [Babyboo](https://open.spotify.com/track/7Mxbp0DtUpTetgfBVmWr1j) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [De Ene Hand Wast De Ander](https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX) | 3:14 |
 
-Snapshot ID: `AAAAAA49CYfW3t8/z0UkAYaGMBIiz7S1`
+Snapshot ID: `AAAAAGTBwvshADpUjNMst2bEYzbdAIcZ`

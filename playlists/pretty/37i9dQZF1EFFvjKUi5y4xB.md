@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 | 104 | [Suga](https://open.spotify.com/track/6hxXriaJ6Uf3riLxQsN3CA) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Code Red](https://open.spotify.com/album/6swMxrdIwr5SMa2R3Zfqp9) | 3:21 |
 | 105 | [Replay](https://open.spotify.com/track/7LENqRaHiHacJvpQcuuTJt) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs For Women, Free Game For Niggas \(Deluxe Edition\)](https://open.spotify.com/album/1IjQ0pJkd3F5w7OSylMaJY) | 3:23 |
 | 106 | [Push Thru](https://open.spotify.com/track/0rkvjZuAO56gvlFdsokv5w) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Push Thru](https://open.spotify.com/album/3yAVmXJQVOjtoE2npitBaS) | 3:49 |
-| 107 | [Knife](https://open.spotify.com/track/5E9baT9kS0AZryjOQKwHDi) | [Skinnyfromthe9](https://open.spotify.com/artist/5yJ8UM2G0BWZpvplnY4iln) | [It's an Evil World](https://open.spotify.com/album/7uWkmDHhumFMMNOe0XpEX5) | 2:40 |
-| 108 | [Freedom](https://open.spotify.com/track/0szaILbfBYQ8rO5h8bHLLv) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Freedom](https://open.spotify.com/album/3zltPmOeb6jwbDxwE8yd2z) | 3:03 |
+| 107 | [Freedom](https://open.spotify.com/track/0szaILbfBYQ8rO5h8bHLLv) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Freedom](https://open.spotify.com/album/3zltPmOeb6jwbDxwE8yd2z) | 3:03 |
+| 108 | [Knife](https://open.spotify.com/track/5E9baT9kS0AZryjOQKwHDi) | [Skinnyfromthe9](https://open.spotify.com/artist/5yJ8UM2G0BWZpvplnY4iln) | [It's an Evil World](https://open.spotify.com/album/7uWkmDHhumFMMNOe0XpEX5) | 2:40 |
 | 109 | [Popular](https://open.spotify.com/track/2fWS8C0jDYqP0eSF7cKwrY) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Popular](https://open.spotify.com/album/4ZUvFLlyJfIvJUPhMHPo8A) | 3:15 |
 | 110 | [She Asked Me](https://open.spotify.com/track/4UWx61fJ2lmA6TcXOqsRtq) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs For Women, Free Game For Niggas \(Deluxe Edition\)](https://open.spotify.com/album/1IjQ0pJkd3F5w7OSylMaJY) | 3:12 |
 | 111 | [Feel So Good](https://open.spotify.com/track/25ceDA7wDxIo60C1FuPiKJ) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Feel So Good](https://open.spotify.com/album/4O4kBKYlGvIXdDGuE0mNs7) | 2:48 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 | 113 | [Songs for Women](https://open.spotify.com/track/5gRUEMbzjBYe146BYIUlXK) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs for Women, Free Game for Niggas \- EP](https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1) | 3:28 |
 | 114 | [Funny Friends](https://open.spotify.com/track/7pdXnEdEPcYjWFq03RpFdx) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Funny Friends](https://open.spotify.com/album/5i41XIJIKOfqqVN4uCsctr) | 2:12 |
 
-Snapshot ID: `AcH69gAAAACp5OQEQWn9UbKDkAGDVP48`
+Snapshot ID: `AcIAoAAAAABziWgma97dB66RfAkRksnS`

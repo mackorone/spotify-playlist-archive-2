@@ -1,15 +1,63 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 49560,
+  "num_followers": 49559,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABzOBRWm5wIX3vVYTEvwvkLVOmu3",
+  "snapshot_id": "AAAAAIJeBQpKEIHRwalSSESW52Gp1Erf",
   "tracks": [
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
+      "album": {
+        "name": "GO FOR IT",
+        "url": "https://open.spotify.com/album/4z3TLVNdST1A1awgGGxl07"
+      },
+      "artists": [
+        {
+          "name": "HYNN",
+          "url": "https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "GO FOR IT",
+      "url": "https://open.spotify.com/track/3yAQgYaPG6OjgV7Aej0C5G"
+    },
+    {
+      "added_at": "2026-01-26 07:20:48",
+      "album": {
+        "name": "To Me From Me (Prod. TABLO)",
+        "url": "https://open.spotify.com/album/45M61dR59iKzmL7wMfOK6G"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "To Me From Me (Prod. TABLO)",
+      "url": "https://open.spotify.com/track/5qnKbP6x2SyUbsLem897iL"
+    },
+    {
+      "added_at": "2026-01-26 07:20:48",
+      "album": {
+        "name": "Merry Summer",
+        "url": "https://open.spotify.com/album/5KgEgjxSu2knfGZBj4XQgN"
+      },
+      "artists": [
+        {
+          "name": "ROCOBERRY",
+          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
+        }
+      ],
+      "duration_ms": 172396,
+      "name": "\uad1c\ucc2e\uc544, \uccad\ucd98",
+      "url": "https://open.spotify.com/track/1gFmuw6p4udOcvo8JdAMxX"
+    },
+    {
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "Life is a Drama Prelude3",
         "url": "https://open.spotify.com/album/65DEU4VXqQaDO7qeuOAV6D"
@@ -25,39 +73,7 @@
       "url": "https://open.spotify.com/track/3doz1ZA13QjszPBEgze1pn"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
-      "album": {
-        "name": "Running to Future",
-        "url": "https://open.spotify.com/album/26SNqrN1ngsW5AaLpcgkEa"
-      },
-      "artists": [
-        {
-          "name": "ZEROBASEONE",
-          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Running to Future",
-      "url": "https://open.spotify.com/track/6tn8DOizEPVGwqgqdXsYYN"
-    },
-    {
-      "added_at": "2026-01-12 05:25:24",
-      "album": {
-        "name": "Typhoon Family, Pt. 7 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6Bf3rU6pU4XceCrk5pGKKg"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "The Moments",
-      "url": "https://open.spotify.com/track/464diat2OMMnSutMSOuQXU"
-    },
-    {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "ALL FOR YOU, 2027",
         "url": "https://open.spotify.com/album/1N9oFEpIgZZoOkZZI0FFFg"
@@ -73,39 +89,39 @@
       "url": "https://open.spotify.com/track/7i3A3RHpnqoOBEX9GcP1Ms"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
-        "name": "TIME CAPSULE",
-        "url": "https://open.spotify.com/album/4rBya5shYbNkTLfc1IhRq2"
+        "name": "28",
+        "url": "https://open.spotify.com/album/4zNdM3E1IkGKMHObzUCull"
       },
       "artists": [
         {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+          "name": "OKDAL",
+          "url": "https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE"
         }
       ],
-      "duration_ms": 252000,
-      "name": "TIME CAPSULE",
-      "url": "https://open.spotify.com/track/3CQw6HqsBu12wUj89vUQ5M"
+      "duration_ms": 179026,
+      "name": "\uc218\uace0\ud588\uc5b4, \uc624\ub298\ub3c4 Cheer Up",
+      "url": "https://open.spotify.com/track/74S870utHcrils7QiOw0Jh"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
-        "name": "I am",
-        "url": "https://open.spotify.com/album/1SWC7utZl9UrFcInjcxEDS"
+        "name": "Running to Future",
+        "url": "https://open.spotify.com/album/26SNqrN1ngsW5AaLpcgkEa"
       },
       "artists": [
         {
-          "name": "Moonbit",
-          "url": "https://open.spotify.com/artist/5rwDc7dGKrtZg9TN1vsSPx"
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
         }
       ],
-      "duration_ms": 191000,
-      "name": "I am",
-      "url": "https://open.spotify.com/track/4AHhXbooNnHULGK8F38xt1"
+      "duration_ms": 199000,
+      "name": "Running to Future",
+      "url": "https://open.spotify.com/track/6tn8DOizEPVGwqgqdXsYYN"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "Let Me Love My Youth",
         "url": "https://open.spotify.com/album/3wRgzgnqcva5unpKKmgZ57"
@@ -121,7 +137,7 @@
       "url": "https://open.spotify.com/track/4qdBPJta3BVPXCS0wJZ6yO"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "BBIBBI",
         "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
@@ -137,23 +153,7 @@
       "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
-      "album": {
-        "name": "YOUTH - The 1st Album",
-        "url": "https://open.spotify.com/album/06VXjmfFLNhkSLEe94ROXj"
-      },
-      "artists": [
-        {
-          "name": "DOYOUNG",
-          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
-        }
-      ],
-      "duration_ms": 220506,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/5dJ4XoRa9FzSHWUzCpnk2W"
-    },
-    {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "That's okay",
         "url": "https://open.spotify.com/album/6EzpktNa8oT04yXVfQieJf"
@@ -169,23 +169,7 @@
       "url": "https://open.spotify.com/track/2Ghu1DdMwxS3VAyB7i38Wo"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
-      "album": {
-        "name": "Like A Flower - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/7wf9YjsrbjqPq8orPOW2Rw"
-      },
-      "artists": [
-        {
-          "name": "IRENE",
-          "url": "https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj"
-        }
-      ],
-      "duration_ms": 178253,
-      "name": "Start Line",
-      "url": "https://open.spotify.com/track/1DAG3QIXTHl4UQZmYqlJAI"
-    },
-    {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "Still Life",
         "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
@@ -201,39 +185,7 @@
       "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
-      "album": {
-        "name": "AFTEREFFECT",
-        "url": "https://open.spotify.com/album/4jogTxUefvshTl4NuNyxjN"
-      },
-      "artists": [
-        {
-          "name": "CHANMIN",
-          "url": "https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi"
-        }
-      ],
-      "duration_ms": 222195,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/7pADYTP4U0LAMRbWigXGXn"
-    },
-    {
-      "added_at": "2026-01-12 05:25:24",
-      "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Through the Night",
-      "url": "https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd"
-    },
-    {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "Either Way",
         "url": "https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV"
@@ -249,7 +201,39 @@
       "url": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
+      "album": {
+        "name": "TIME CAPSULE",
+        "url": "https://open.spotify.com/album/4rBya5shYbNkTLfc1IhRq2"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "TIME CAPSULE",
+      "url": "https://open.spotify.com/track/3CQw6HqsBu12wUj89vUQ5M"
+    },
+    {
+      "added_at": "2026-01-26 07:20:48",
+      "album": {
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Through the Night",
+      "url": "https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd"
+    },
+    {
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "WHO WE ARE",
         "url": "https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz"
@@ -265,7 +249,7 @@
       "url": "https://open.spotify.com/track/5SQFdiZM3xEwPjRVrZqXpm"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "Red Moon: To You My Light",
         "url": "https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO"
@@ -285,7 +269,7 @@
       "url": "https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "Kim Cheolsu Story",
         "url": "https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2"
@@ -301,23 +285,7 @@
       "url": "https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
-      "album": {
-        "name": "Love poem",
-        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 258238,
-      "name": "Love poem",
-      "url": "https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0"
-    },
-    {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "Dear My All",
         "url": "https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf"
@@ -333,7 +301,23 @@
       "url": "https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
+      "album": {
+        "name": "Love poem",
+        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 258238,
+      "name": "Love poem",
+      "url": "https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0"
+    },
+    {
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "Take-off",
         "url": "https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV"
@@ -349,7 +333,7 @@
       "url": "https://open.spotify.com/track/3Qfjzd5Rd7xjlQBm5pGcuM"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "Like Water - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
@@ -365,7 +349,7 @@
       "url": "https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "HOSPITAL PLAYLIST Season2, Pt. 6 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1cpmFMRuxjqfwNqzsG7UTi"
@@ -381,7 +365,7 @@
       "url": "https://open.spotify.com/track/20BE9EAAuma1el03cT4bH6"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "ERROR",
         "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
@@ -397,7 +381,7 @@
       "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "BLOSSOM - THE 3RD MINI ALBUM",
         "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
@@ -413,7 +397,7 @@
       "url": "https://open.spotify.com/track/4UeyAaK7d1nxuW5kFjZAlw"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "The Compass",
         "url": "https://open.spotify.com/album/4UdFLMCOkjD1sv9zUIiFoW"
@@ -429,7 +413,7 @@
       "url": "https://open.spotify.com/track/3GNKwOjDJlqgAA85lgYTCC"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "CHAT-SHIRE",
         "url": "https://open.spotify.com/album/3rMvAe0zU0pJRnRa7Rfc1U"
@@ -445,7 +429,7 @@
       "url": "https://open.spotify.com/track/3Sc3OHN2EnhsKwzt7hMFKQ"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "Fermata",
         "url": "https://open.spotify.com/album/3v1d74UUOHYRVZV01vvuhX"
@@ -461,7 +445,7 @@
       "url": "https://open.spotify.com/track/4TpP0C0g138XLBytuduE0m"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "SHOW ME THE MONEY 11 Final",
         "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
@@ -485,7 +469,7 @@
       "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "Resident Playbook (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7scrnEA8acHOJr2BhWwKgb"
@@ -513,7 +497,7 @@
       "url": "https://open.spotify.com/track/2XIxIDXxuE9d97TqjQPwQy"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/2RhEisiqycAq2YrXJcUL4r"
@@ -529,7 +513,7 @@
       "url": "https://open.spotify.com/track/3bHE2Q0boauLBF8iJLUIga"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "Love poem",
         "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
@@ -545,7 +529,7 @@
       "url": "https://open.spotify.com/track/7BUtoP9NXEe7MgWvIG2KGE"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "Take You Home - SM STATION",
         "url": "https://open.spotify.com/album/35xEwaC2WlMzkllTa3XwhK"
@@ -561,7 +545,7 @@
       "url": "https://open.spotify.com/track/54Nx0KMNIIA0tAPewmd69X"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "2nd Mini Album 'Algorithm's Blossom'",
         "url": "https://open.spotify.com/album/4i0rZXe1lgKDzJ8LkueifT"
@@ -577,7 +561,7 @@
       "url": "https://open.spotify.com/track/7BoC7eEStVxZSBeLtLSoHv"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "Who Are You : School 2015 (Original Television Soundtrack), Pt.3",
         "url": "https://open.spotify.com/album/5rbk6PfoQk7m9KB6iaC6eG"
@@ -593,7 +577,7 @@
       "url": "https://open.spotify.com/track/5Ny8dTK7mUgpL04RV07gee"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "Reply 1988 (Original Television Soundtrack), Pt. 7",
         "url": "https://open.spotify.com/album/54P1MSGvQt3Hq1UpsijMgA"
@@ -609,7 +593,7 @@
       "url": "https://open.spotify.com/track/3dQxjLOKLUUpZOwHYYdvyo"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "Resident Playbook, Pt. 4 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/022Jz3R8RUtbFmxsH0Vj0l"
@@ -625,7 +609,23 @@
       "url": "https://open.spotify.com/track/6lUpyKNgcksg3w9HPq2p3m"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
+      "album": {
+        "name": "Typhoon Family, Pt. 7 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6Bf3rU6pU4XceCrk5pGKKg"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "The Moments",
+      "url": "https://open.spotify.com/track/464diat2OMMnSutMSOuQXU"
+    },
+    {
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "She Gonna Stop",
         "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
@@ -645,7 +645,7 @@
       "url": "https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "Stars",
         "url": "https://open.spotify.com/album/0Kjrj9VlwLkuAWb1FugHoi"
@@ -661,7 +661,7 @@
       "url": "https://open.spotify.com/track/5vMmRDWrRsogNA6xm916nq"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "Soar - The 2nd Album",
         "url": "https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9"
@@ -677,7 +677,7 @@
       "url": "https://open.spotify.com/track/3vHXdq1OnJRynfeic4jOCP"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "Maybe Tomorrow",
         "url": "https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6"
@@ -693,7 +693,23 @@
       "url": "https://open.spotify.com/track/0zreBeNWNaM1t0YLP7IB2b"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
+      "album": {
+        "name": "Like A Flower - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/7wf9YjsrbjqPq8orPOW2Rw"
+      },
+      "artists": [
+        {
+          "name": "IRENE",
+          "url": "https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj"
+        }
+      ],
+      "duration_ms": 178253,
+      "name": "Start Line",
+      "url": "https://open.spotify.com/track/1DAG3QIXTHl4UQZmYqlJAI"
+    },
+    {
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "GOOD BOY (Original Television Soundtrack), Pt. 7",
         "url": "https://open.spotify.com/album/1EZbKSF8GxSnqNVtsYdRjm"
@@ -709,7 +725,7 @@
       "url": "https://open.spotify.com/track/4HQ8ZB2ZKBhdhTZPzgqRJU"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "Still the Same",
         "url": "https://open.spotify.com/album/5nWOkQmzmE5erjdAY6S2Gu"
@@ -725,7 +741,7 @@
       "url": "https://open.spotify.com/track/6haDjNEwTRlmBlIQ5wxeML"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "THINKING Part.1",
         "url": "https://open.spotify.com/album/0yRTfpYIoHqPmmijU9GZGd"
@@ -741,7 +757,23 @@
       "url": "https://open.spotify.com/track/58DqPqnPOrXEIU7Lj0s5PW"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
+      "album": {
+        "name": "YOUTH - The 1st Album",
+        "url": "https://open.spotify.com/album/06VXjmfFLNhkSLEe94ROXj"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "duration_ms": 220506,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/5dJ4XoRa9FzSHWUzCpnk2W"
+    },
+    {
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "Resident Playbook, Pt. 5 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1JToGfIzudNvACOhEzDk6P"
@@ -757,7 +789,7 @@
       "url": "https://open.spotify.com/track/5r3nfTCyrc3KzNexD5pXyU"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "Being an Adult",
         "url": "https://open.spotify.com/album/73GAMGtPKswNL17lAv92jH"
@@ -773,7 +805,7 @@
       "url": "https://open.spotify.com/track/0OatopllsqPHbb7RQiJ1No"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "Bluebird",
         "url": "https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj"
@@ -789,7 +821,7 @@
       "url": "https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM"
     },
     {
-      "added_at": "2026-01-12 05:25:24",
+      "added_at": "2026-01-26 07:20:48",
       "album": {
         "name": "Journey",
         "url": "https://open.spotify.com/album/2ZiNV3uCWEno9JIDtCaSaP"
@@ -803,38 +835,6 @@
       "duration_ms": 223933,
       "name": "Life goes on",
       "url": "https://open.spotify.com/track/2svtm7O8mhNGflEdsxsZtt"
-    },
-    {
-      "added_at": "2026-01-12 05:25:24",
-      "album": {
-        "name": "A-TEEN2 Part.1",
-        "url": "https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Lean On Me",
-      "url": "https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0"
-    },
-    {
-      "added_at": "2026-01-12 05:25:24",
-      "album": {
-        "name": "be",
-        "url": "https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2"
-      },
-      "artists": [
-        {
-          "name": "EUNHYUK",
-          "url": "https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX"
-        }
-      ],
-      "duration_ms": 229066,
-      "name": "be",
-      "url": "https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1"
     }
   ],
   "unique_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",

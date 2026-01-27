@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Z\u00fambale Primo, & Coraz\u00f3n Serrano.",
-  "num_followers": 78959,
+  "num_followers": 78976,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Sue\u00f1o Su Boca",
-        "url": "https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr"
-      },
-      "artists": [
-        {
-          "name": "Peregrinos del Amor",
-          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
-        }
-      ],
-      "duration_ms": 217375,
-      "name": "Ya No Siento Nada",
-      "url": "https://open.spotify.com/track/4p1jnv8tDRg7e3XvQuesbX"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "A Trav\u00e9s del Vaso (Remix)",
         "url": "https://open.spotify.com/album/34BUoxHKkDIPjrfjJWLS84"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 256346,
       "name": "Amor Traicionero",
       "url": "https://open.spotify.com/track/0wR0jWstWqLdQvjdalQIKM"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "Sue\u00f1o Su Boca",
+        "url": "https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr"
+      },
+      "artists": [
+        {
+          "name": "Peregrinos del Amor",
+          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
+        }
+      ],
+      "duration_ms": 217375,
+      "name": "Ya No Siento Nada",
+      "url": "https://open.spotify.com/track/4p1jnv8tDRg7e3XvQuesbX"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
+        "name": "Entre el Amor y el Odio",
+        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
+      },
+      "artists": [
+        {
+          "name": "Lupita Aguilar",
+          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
+        }
+      ],
+      "duration_ms": 188577,
+      "name": "Mi Complice",
+      "url": "https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
         "name": "C\u00f3mo Quisiera",
         "url": "https://open.spotify.com/album/1eHjkkwOksQhKl0HQc8jBL"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 221680,
       "name": "Charros para Rato",
       "url": "https://open.spotify.com/track/2zVkQBc220Acc5Ie41uR40"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
-        "name": "Entre el Amor y el Odio",
-        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
-      },
-      "artists": [
-        {
-          "name": "Lupita Aguilar",
-          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
-        }
-      ],
-      "duration_ms": 188577,
-      "name": "Mi Complice",
-      "url": "https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "La Nueva Fiesta de los Charros",
-        "url": "https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv"
-      },
-      "artists": [
-        {
-          "name": "Los Charros De Lumaco",
-          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
-        }
-      ],
-      "duration_ms": 316240,
-      "name": "C\u00f3mo Dejar de Amarte y Otros",
-      "url": "https://open.spotify.com/track/53u3hNXGUNCYLjKnnC3Sji"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "Me Voy a Lanzar",
         "url": "https://open.spotify.com/album/6C290sB6hyH66rNUqu70jt"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 177363,
       "name": "Me Voy a Lanzar",
       "url": "https://open.spotify.com/track/6AS0noGYYnY35moMZw1SdH"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "La Nueva Fiesta de los Charros",
+        "url": "https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv"
+      },
+      "artists": [
+        {
+          "name": "Los Charros De Lumaco",
+          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
+        }
+      ],
+      "duration_ms": 316240,
+      "name": "C\u00f3mo Dejar de Amarte y Otros",
+      "url": "https://open.spotify.com/track/53u3hNXGUNCYLjKnnC3Sji"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Con M\u00e1s Sed, Sed, Sed",
-        "url": "https://open.spotify.com/album/36JZENel0gYjI758f7wdDL"
-      },
-      "artists": [
-        {
-          "name": "La Banda Tropikal de Vallenar",
-          "url": "https://open.spotify.com/artist/61S5D7HbBCFMHFV77354nD"
-        }
-      ],
-      "duration_ms": 211022,
-      "name": "Tenemos Sed",
-      "url": "https://open.spotify.com/track/3tUZSfOxeROwCicMofYeew"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "Me Voy a Emborrachar",
         "url": "https://open.spotify.com/album/6TnjtS7lx7GB4Ku22NX8ZW"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 160000,
       "name": "El \u00daltimo Trago",
       "url": "https://open.spotify.com/track/3jQOI7vNZXMWy3ETXHVCGR"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "Con M\u00e1s Sed, Sed, Sed",
+        "url": "https://open.spotify.com/album/36JZENel0gYjI758f7wdDL"
+      },
+      "artists": [
+        {
+          "name": "La Banda Tropikal de Vallenar",
+          "url": "https://open.spotify.com/artist/61S5D7HbBCFMHFV77354nD"
+        }
+      ],
+      "duration_ms": 211022,
+      "name": "Tenemos Sed",
+      "url": "https://open.spotify.com/track/3tUZSfOxeROwCicMofYeew"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Yo Lo Canto y Tu Lo Bailas",
-        "url": "https://open.spotify.com/album/3UW6tbYhtJYrYVGR0U85W1"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres de Parral",
-          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
-        }
-      ],
-      "duration_ms": 231393,
-      "name": "Matalas",
-      "url": "https://open.spotify.com/track/7pSYLS1okWaevRLU2oXCqa"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "El Cocho",
         "url": "https://open.spotify.com/album/6YQ0XxcdYNnxGqg303Rebl"
       },
@@ -1219,22 +1203,6 @@
       "duration_ms": 195353,
       "name": "El Cocho",
       "url": "https://open.spotify.com/track/1GHIKA3KDtjCJ8zzaK1QMk"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
-        "name": "Puro Sur Puro Chile",
-        "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
-      },
-      "artists": [
-        {
-          "name": "Los Pincheira del sur Oficial",
-          "url": "https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "Tatuaje",
-      "url": "https://open.spotify.com/track/04iJD3f7nwF1wuM8b8FPmk"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1259,6 +1227,38 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
+        "name": "Yo Lo Canto y Tu Lo Bailas",
+        "url": "https://open.spotify.com/album/3UW6tbYhtJYrYVGR0U85W1"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres de Parral",
+          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
+        }
+      ],
+      "duration_ms": 231393,
+      "name": "Matalas",
+      "url": "https://open.spotify.com/track/7pSYLS1okWaevRLU2oXCqa"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "Puro Sur Puro Chile",
+        "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
+      },
+      "artists": [
+        {
+          "name": "Los Pincheira del sur Oficial",
+          "url": "https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "Tatuaje",
+      "url": "https://open.spotify.com/track/04iJD3f7nwF1wuM8b8FPmk"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
         "name": "18 Exitos",
         "url": "https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c"
       },
@@ -1271,22 +1271,6 @@
       "duration_ms": 254733,
       "name": "De Paisano a Paisano",
       "url": "https://open.spotify.com/track/7Efl38yKPpMdl5mxFTrvpE"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
-        "name": "De Fiesta Con los Braos",
-        "url": "https://open.spotify.com/album/2VeiRxdUOwogVqJJ35yMzX"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres de Parral",
-          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
-        }
-      ],
-      "duration_ms": 267335,
-      "name": "Abrazado de un Poste",
-      "url": "https://open.spotify.com/track/1XruxMWn7b7WjTiw6ItLDG"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1319,6 +1303,22 @@
       "duration_ms": 234466,
       "name": "Por Andar de Patas Negras",
       "url": "https://open.spotify.com/track/6Bm88gtarbeSbIcILdoe7K"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "De Fiesta Con los Braos",
+        "url": "https://open.spotify.com/album/2VeiRxdUOwogVqJJ35yMzX"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres de Parral",
+          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
+        }
+      ],
+      "duration_ms": 267335,
+      "name": "Abrazado de un Poste",
+      "url": "https://open.spotify.com/track/1XruxMWn7b7WjTiw6ItLDG"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
+        "name": "Quisiera y No Quisiera",
+        "url": "https://open.spotify.com/album/3nd1fYlZYfOeuliXL5Lwat"
+      },
+      "artists": [
+        {
+          "name": "Los Infieles de Santa Barbara",
+          "url": "https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs"
+        }
+      ],
+      "duration_ms": 154511,
+      "name": "Quisiera y No Quisiera",
+      "url": "https://open.spotify.com/track/4WADI81zhZC8YQGKLYeb76"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
         "name": "Vuelve la Mezcla Perfecta",
         "url": "https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 143413,
       "name": "La Fotograf\u00eda",
       "url": "https://open.spotify.com/track/5goxogFSwtXWkbNnpz6iqW"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
-        "name": "Quisiera y No Quisiera",
-        "url": "https://open.spotify.com/album/3nd1fYlZYfOeuliXL5Lwat"
-      },
-      "artists": [
-        {
-          "name": "Los Infieles de Santa Barbara",
-          "url": "https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs"
-        }
-      ],
-      "duration_ms": 154511,
-      "name": "Quisiera y No Quisiera",
-      "url": "https://open.spotify.com/track/4WADI81zhZC8YQGKLYeb76"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
+        "name": "Mix del Recuerdo",
+        "url": "https://open.spotify.com/album/0wqOsDjQf1WsBqOKYjI1bt"
+      },
+      "artists": [
+        {
+          "name": "Grupo el duelo",
+          "url": "https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv"
+        }
+      ],
+      "duration_ms": 303345,
+      "name": "Mix del Recuerdo - Que de Raro Tiene/El T\u00edo Borrachales /Tragos de Amargo Licor / El Mil Amores 1",
+      "url": "https://open.spotify.com/track/0RTPEIJqt0hcGMzwjQ6CrT"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
         "name": "Puro Sur Puro Chile",
         "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
       },
@@ -1619,18 +1635,18 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Mix del Recuerdo",
-        "url": "https://open.spotify.com/album/0wqOsDjQf1WsBqOKYjI1bt"
+        "name": "De los Besos Que Te Di",
+        "url": "https://open.spotify.com/album/7C6m8Ksv2KePPs31KhrWpD"
       },
       "artists": [
         {
-          "name": "Grupo el duelo",
-          "url": "https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv"
+          "name": "Alexia Lillo",
+          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
         }
       ],
-      "duration_ms": 303345,
-      "name": "Mix del Recuerdo - Que de Raro Tiene/El T\u00edo Borrachales /Tragos de Amargo Licor / El Mil Amores 1",
-      "url": "https://open.spotify.com/track/0RTPEIJqt0hcGMzwjQ6CrT"
+      "duration_ms": 163790,
+      "name": "De los Besos Que Te Di",
+      "url": "https://open.spotify.com/track/4LUaS5jz52YHteRwv6HClW"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1651,22 +1667,6 @@
       "duration_ms": 202400,
       "name": "Mar\u00eda Elena",
       "url": "https://open.spotify.com/track/4ZfLKMRWeAIhPhPlkIDLNv"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
-        "name": "De los Besos Que Te Di",
-        "url": "https://open.spotify.com/album/7C6m8Ksv2KePPs31KhrWpD"
-      },
-      "artists": [
-        {
-          "name": "Alexia Lillo",
-          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
-        }
-      ],
-      "duration_ms": 163790,
-      "name": "De los Besos Que Te Di",
-      "url": "https://open.spotify.com/track/4LUaS5jz52YHteRwv6HClW"
     },
     {
       "added_at": "2025-09-18 20:11:00",

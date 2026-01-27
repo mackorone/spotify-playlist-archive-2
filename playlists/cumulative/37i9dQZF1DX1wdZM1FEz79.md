@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 적재\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-647 songs - 1 day 14 hr 4 min
+649 songs - 1 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [11:11](https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album \(Deluxe Edition\)](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) | 3:43 | 2022-07-08 | 2024-04-19 |
 | [20](https://open.spotify.com/track/6F15OzRN9KfU0fQuWTlEc9) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [One Strange Night](https://open.spotify.com/album/2P48xP9nTAIJrd0jwDUusc) | 3:42 | 2022-03-31 | 2022-04-19 |
 | [31](https://open.spotify.com/track/4oBmGC76HpltDdr0mx2h2i) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [31](https://open.spotify.com/album/1gG4FphDb3kinYZ4oaEtu0) | 3:06 | 2021-12-10 | 2022-07-15 |
-| [40 Something](https://open.spotify.com/track/3Yh8bCr87YilTxwCpUd1gi) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [40 Something / Those Unready Years](https://open.spotify.com/album/0FS5czCk4kQGqovOzd9qTg) | 4:07 | 2025-12-04 |  |
+| [40 Something](https://open.spotify.com/track/3Yh8bCr87YilTxwCpUd1gi) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [40 Something / Those Unready Years](https://open.spotify.com/album/0FS5czCk4kQGqovOzd9qTg) | 4:07 | 2025-12-04 | 2026-01-27 |
 | [42](https://open.spotify.com/track/5nYaUKKyENQ7EmiXxRTq4b) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [42](https://open.spotify.com/album/0b8ic9Uuk1hhhRTihimPYc) | 2:32 | 2024-10-16 |  |
 | [4Life](https://open.spotify.com/track/0rG2HaZzBT4ZzaXFPRir7Z) | [KWACA](https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF) | [4Life](https://open.spotify.com/album/2recKAfTygy8DvSrJKxJac) | 2:51 | 2024-08-22 | 2024-09-04 |
 | [4Seasons](https://open.spotify.com/track/6HnloutgoztTP3JihNhWIH) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [4Seasons](https://open.spotify.com/album/2MoILlgDR44UdKEh5UAEjL) | 2:39 | 2025-04-28 |  |
@@ -138,6 +138,7 @@
 | [Easy](https://open.spotify.com/track/54WyhCKBQAgubhuobEliX2) | [SUZANNE](https://open.spotify.com/artist/0NMJPa0Btok67TyE8Vxngc) | [The Lonely Witch \(Original Soundtrack\), Pt\. 1](https://open.spotify.com/album/2tQiJLbffDCBzNZWluNqNA) | 3:40 | 2022-03-31 | 2022-04-18 |
 | [Eiffel Tower effect](https://open.spotify.com/track/5dZNgQob4V5O1MPMahNKqB) | [Today's hot song](https://open.spotify.com/artist/11qpyBQPfAaKnNQY43Mj0O) | [Eiffel Tower effect](https://open.spotify.com/album/5Ee0f9SUslVEGLld3PqIO0) | 3:14 | 2022-03-31 | 2022-04-20 |
 | [EMPTY ROAD](https://open.spotify.com/track/22ujj7oolbVcxbkXE1wZiQ) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [WHITE NIGHT](https://open.spotify.com/album/6eFAxaoZhy1KBYuYHCfnDg) | 3:29 | 2022-01-13 | 2022-05-21 |
+| [Endlessly](https://open.spotify.com/track/1EJ0D4WvCfdU0U0I5T0XaR) | [Jcob \(THE BOYZ\)](https://open.spotify.com/artist/6oFeRDy5gmaP90kgHUf2h2) | [Undercover Miss Hong OST Part.3](https://open.spotify.com/album/61yVr17ptFdMzkW5CTliOb) | 3:00 | 2026-01-26 |  |
 | [Envy you](https://open.spotify.com/track/533qJgO1JRlJLL6F0mC0jd) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Envy you](https://open.spotify.com/album/6rdUdeXkuaPHdZb4igsQ2S) | 3:34 | 2022-12-13 | 2022-12-20 |
 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 | 2021-12-10 |  |
 | [EVEREST \(with Sam Kim\)](https://open.spotify.com/track/1c3WMOE7Q0dCFN6bjT8KWo) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:15 | 2021-12-10 | 2025-01-18 |
@@ -236,6 +237,7 @@
 | [I want to be a pillow](https://open.spotify.com/track/5lDeH3wAzJ1YnBYDPL6NYk) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [H\_ello?](https://open.spotify.com/album/6jfjO5f2SuzkXZHlE7pH4B) | 3:43 | 2022-07-08 | 2024-04-19 |
 | [I want to love](https://open.spotify.com/track/5D63fftBm3Haj5laapgWl2) | [Park Jaewoo](https://open.spotify.com/artist/2WIOofcSewAuVXBSMuQ2dD) | [I want to love](https://open.spotify.com/album/5K5TZWuzj0p4LJwH7jTFug) | 3:31 | 2022-08-18 | 2022-09-03 |
 | [I Will Remember](https://open.spotify.com/track/2FV04bwFqfJyOLDZL2vx7C) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Five Love Stories](https://open.spotify.com/album/7lBSwclU4wPfktweIkfQxH) | 3:08 | 2022-03-31 | 2022-04-07 |
+| [I wonder](https://open.spotify.com/track/6eD6vxYmarjBHMvh7H16Sj) | [BAK CHANG GEUN](https://open.spotify.com/artist/4Gan2DEelDmjPv6jMaSYG9) | [I wonder](https://open.spotify.com/album/5sCytTeu47edSY09lW4dKK) | 3:48 | 2026-01-26 |  |
 | [I Wonder](https://open.spotify.com/track/0WLjUv41NxxFZnNnn0Ra9W) | [EDEN](https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49) | [Let's Eat! 3 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/535nRzc7dhjietZuqgHfQr) | 3:39 | 2021-12-10 | 2022-05-31 |
 | [I Wonder \(PROD\. Joombas\)](https://open.spotify.com/track/2d1WKw2q9z7CwwqwQGxXYC) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [ANOTHER](https://open.spotify.com/album/1x45vQjY21GuaouM2BA9xq) | 3:24 | 2022-03-31 | 2022-04-21 |
 | [I'll be by your side, you'll be by my side \(Feat\. Morning Coffee\)](https://open.spotify.com/track/7ihmKfltRTBX5Ol48V3XEX) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [morning coffee](https://open.spotify.com/artist/0LHfA50RG8DSCk4divJea4) | [I'll be by your side, you'll be by my side](https://open.spotify.com/album/0qm1jTUO7eC2Qg4gNiCPoT) | 3:21 | 2022-01-13 | 2022-01-19 |
@@ -269,7 +271,7 @@
 | [It’s Okay To Cry](https://open.spotify.com/track/5JxWTxU8trBOfLmeHReKHZ) | [LIM HEON IL](https://open.spotify.com/artist/1NaPFRqmf4eMTGfIR3eXwR), [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [It’s Okay To Cry](https://open.spotify.com/album/3fcD3HSeakYnWjFc1wNoXy) | 4:26 | 2022-03-31 | 2022-04-09 |
 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 | 2021-12-10 | 2025-09-08 |
 | [I′m Coming Home](https://open.spotify.com/track/0dfK89MvMnBQcpdbW5f9tx) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Jirisan \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/77YNd9Ym3wycCakmOaKfAp) | 4:06 | 2022-04-12 | 2022-06-12 |
-| [Jealousy on the Rocks](https://open.spotify.com/track/2WujsWis0VgMAVuvP9GX8i) | [본하](https://open.spotify.com/artist/26oPZPY5H08ViuL52JDqKS) | [Half jokes, Half Truth](https://open.spotify.com/album/3pCIwwk2QQiIWc8LVYHhVz) | 3:24 | 2026-01-15 |  |
+| [Jealousy on the Rocks](https://open.spotify.com/track/2WujsWis0VgMAVuvP9GX8i) | [본하](https://open.spotify.com/artist/26oPZPY5H08ViuL52JDqKS) | [Half jokes, Half Truth](https://open.spotify.com/album/3pCIwwk2QQiIWc8LVYHhVz) | 3:24 | 2026-01-15 | 2026-01-27 |
 | [Jellyfish](https://open.spotify.com/track/4Jp9U1LmOOAFMDbHp0Yjj9) | [Son Hyeeun](https://open.spotify.com/artist/1ymkZBkFqc6sOP2d84mWAJ) | [Jellyfish](https://open.spotify.com/album/7lApor8Z92h8yzTE5SgvLu) | 3:43 | 2025-11-14 | 2025-12-19 |
 | [joe](https://open.spotify.com/track/5xK6rTa5KDTIbmWDnat1O9) | [kimujoo](https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf) | [joe](https://open.spotify.com/album/0zNgEt5hOx9QdyteuMjw7G) | 3:11 | 2023-06-13 | 2023-07-08 |
 | [Journey](https://open.spotify.com/track/3A2DT3EiyTm6RuB1nfmqBQ) | [Lilynote](https://open.spotify.com/artist/4QcKjUGzgENQ612RgZHjQH) | [Journey](https://open.spotify.com/album/35yc9Ib7M8Gy0KrFI67SdO) | 4:00 | 2022-03-31 | 2022-04-18 |

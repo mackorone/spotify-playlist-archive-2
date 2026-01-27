@@ -1442,10 +1442,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 242186,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/0t3xQekyHgbt0iSzPb45Ut"
+    },
+    {
+      "album": {
+        "name": "Resurrection",
+        "url": "https://open.spotify.com/album/2rIc6zUjncktcIqFl6fQYR"
+      },
+      "artists": [
+        {
+          "name": "Anastacia",
+          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242186,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/2SFf5ffUHHaEztE6cOqsPk"
     },
     {
       "album": {

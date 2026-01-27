@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de música mexicana del 2026\. Hit shuffle for a mixed listening experience\. Cover: Oscar Ortiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,095 likes - 18 songs - 57 min 12 sec
+[Spotify](https://open.spotify.com/user/spotify) - 23,099 likes - 18 songs - 57 min 12 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

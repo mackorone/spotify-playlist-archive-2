@@ -394,7 +394,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-26",
+      "date_removed": null,
       "duration_ms": 110533,
       "name": "Dawn Patrol",
       "url": "https://open.spotify.com/track/4b2GAM5mE3K0btATdsi0UO"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 287493,
       "name": "Death From Within",
       "url": "https://open.spotify.com/track/7IcKHPLfhvdfSBYTPMAbga"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 262426,
       "name": "Foreclosure Of A Dream - 2004 Remastered",
       "url": "https://open.spotify.com/track/4goJhfQRbNfYybpYf9xmbL"
@@ -797,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Megadeth",
+        "url": "https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189915,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/6NsNlkOOVpuJ0ibq0KDJ74"
+    },
+    {
+      "album": {
         "name": "I Don't Care",
         "url": "https://open.spotify.com/album/37paWn9y19J9WzdB3tZ0mz"
       },
@@ -808,7 +826,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 189915,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/75lwu2RtEifLzaSLkbFcNe"
@@ -1886,7 +1904,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 330787,
       "name": "The Last Note",
       "url": "https://open.spotify.com/track/489IDdoKZIipgQPawHfqub"

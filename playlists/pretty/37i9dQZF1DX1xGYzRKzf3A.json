@@ -1,6 +1,6 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 168342,
+  "num_followers": 168369,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Sincopa",
-        "url": "https://open.spotify.com/album/4u16vv7jUXm8XTdvd2szGH"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 292160,
-      "name": "Bombos y Tarolas",
-      "url": "https://open.spotify.com/track/5HxcRTUT0X0X7WzwPoj0cm"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Guaro (Remix)",
         "url": "https://open.spotify.com/album/1YiKQVj2jiaNCmuOjGASsq"
       },
@@ -243,6 +227,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Sincopa",
+        "url": "https://open.spotify.com/album/4u16vv7jUXm8XTdvd2szGH"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 292160,
+      "name": "Bombos y Tarolas",
+      "url": "https://open.spotify.com/track/5HxcRTUT0X0X7WzwPoj0cm"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "Un Suspir\u00f3",
         "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
       },
@@ -255,6 +255,26 @@
       "duration_ms": 184411,
       "name": "Un Suspir\u00f3",
       "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Hasta La Madre",
+        "url": "https://open.spotify.com/album/0eLaG1dlbjNnPX5nKDM1wR"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        },
+        {
+          "name": "Pasabordo",
+          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
+        }
+      ],
+      "duration_ms": 158160,
+      "name": "Hasta La Madre",
+      "url": "https://open.spotify.com/track/1nDvFYTsaQwxt5CTk7LJ5E"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -295,42 +315,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Hasta La Madre",
-        "url": "https://open.spotify.com/album/0eLaG1dlbjNnPX5nKDM1wR"
-      },
-      "artists": [
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        },
-        {
-          "name": "Pasabordo",
-          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
-        }
-      ],
-      "duration_ms": 158160,
-      "name": "Hasta La Madre",
-      "url": "https://open.spotify.com/track/1nDvFYTsaQwxt5CTk7LJ5E"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Vol. 4",
-        "url": "https://open.spotify.com/album/7LP8ofOXYH2AGzc8ZCt0Oe"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Vato Sencillo",
-      "url": "https://open.spotify.com/track/1QkDbaPjLHycyBsJzOHexj"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "El Gavil\u00e1n",
         "url": "https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 175295,
       "name": "El Gavil\u00e1n",
       "url": "https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Vol. 4",
+        "url": "https://open.spotify.com/album/7LP8ofOXYH2AGzc8ZCt0Oe"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Vato Sencillo",
+      "url": "https://open.spotify.com/track/1QkDbaPjLHycyBsJzOHexj"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Amor a la Antigua",
-        "url": "https://open.spotify.com/album/2NiTukmXgBBs5FeFOx6yj7"
-      },
-      "artists": [
-        {
-          "name": "Mia Salinas",
-          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
-        }
-      ],
-      "duration_ms": 232073,
-      "name": "Amor a la Antigua",
-      "url": "https://open.spotify.com/track/49uhcCBeHGJDcoaX9VZqKf"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Alucina2",
         "url": "https://open.spotify.com/album/3ZNQvcoa9WX9HTgUxeQI1o"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 142802,
       "name": "EXCESO",
       "url": "https://open.spotify.com/track/4L0ezHukewSynWMb37L2PO"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Amor a la Antigua",
+        "url": "https://open.spotify.com/album/2NiTukmXgBBs5FeFOx6yj7"
+      },
+      "artists": [
+        {
+          "name": "Mia Salinas",
+          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
+        }
+      ],
+      "duration_ms": 232073,
+      "name": "Amor a la Antigua",
+      "url": "https://open.spotify.com/track/49uhcCBeHGJDcoaX9VZqKf"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1607,6 +1607,30 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Que Suene El Sax",
+        "url": "https://open.spotify.com/album/10lxeg4bMWez6UK7BRrNrE"
+      },
+      "artists": [
+        {
+          "name": "DJ Morphius",
+          "url": "https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN"
+        },
+        {
+          "name": "DJ Hazel Mty",
+          "url": "https://open.spotify.com/artist/40t9WzNauTKHjLkG6ok3rG"
+        },
+        {
+          "name": "Muzik Junkies",
+          "url": "https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja"
+        }
+      ],
+      "duration_ms": 179121,
+      "name": "Que Suene El Sax",
+      "url": "https://open.spotify.com/track/6hUm6iDAaWWTCIOdmgBLHG"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "Malvivientes",
         "url": "https://open.spotify.com/album/5avfygcAoK3LQ0vGSXWrVI"
       },
@@ -1631,30 +1655,6 @@
       "duration_ms": 294545,
       "name": "Malvivientes",
       "url": "https://open.spotify.com/track/5xl0AxAVWP8Css33vu2j9P"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Que Suene El Sax",
-        "url": "https://open.spotify.com/album/10lxeg4bMWez6UK7BRrNrE"
-      },
-      "artists": [
-        {
-          "name": "DJ Morphius",
-          "url": "https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN"
-        },
-        {
-          "name": "DJ Hazel Mty",
-          "url": "https://open.spotify.com/artist/40t9WzNauTKHjLkG6ok3rG"
-        },
-        {
-          "name": "Muzik Junkies",
-          "url": "https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja"
-        }
-      ],
-      "duration_ms": 179121,
-      "name": "Que Suene El Sax",
-      "url": "https://open.spotify.com/track/6hUm6iDAaWWTCIOdmgBLHG"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "donde qued\u00e9 yo?",
+        "url": "https://open.spotify.com/album/1UYFv9czF3faJyHqPZyNGB"
+      },
+      "artists": [
+        {
+          "name": "Ana Sofi W.",
+          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
+        }
+      ],
+      "duration_ms": 152721,
+      "name": "lo que no sabes",
+      "url": "https://open.spotify.com/track/2UN7Bjfn8SfWxKB6GkrWmo"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "El Rosario (Bonus Track)",
         "url": "https://open.spotify.com/album/75TfeAsBWBy2qZ5azTcHUg"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 234000,
       "name": "El Rosario - Bonus Track",
       "url": "https://open.spotify.com/track/4l0hk9ZTlp86BTJFJO9xB3"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "donde qued\u00e9 yo?",
-        "url": "https://open.spotify.com/album/1UYFv9czF3faJyHqPZyNGB"
-      },
-      "artists": [
-        {
-          "name": "Ana Sofi W.",
-          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
-        }
-      ],
-      "duration_ms": 152721,
-      "name": "lo que no sabes",
-      "url": "https://open.spotify.com/track/2UN7Bjfn8SfWxKB6GkrWmo"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1815,26 +1815,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Beso de Novela",
-        "url": "https://open.spotify.com/album/59fdDCsawh4fwKGTqfECbD"
-      },
-      "artists": [
-        {
-          "name": "Rivs",
-          "url": "https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 166480,
-      "name": "Beso de Novela",
-      "url": "https://open.spotify.com/track/4TOIbly1a3G25HrrPWZRRB"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Palabras",
         "url": "https://open.spotify.com/album/2kikqYVbL6j7V6S8cCsH9L"
       },
@@ -1863,6 +1843,26 @@
       "duration_ms": 156659,
       "name": "La Fiesta De Mi Rancho",
       "url": "https://open.spotify.com/track/3sTzAbbRNLFBcAirOxYZBb"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Beso de Novela",
+        "url": "https://open.spotify.com/album/59fdDCsawh4fwKGTqfECbD"
+      },
+      "artists": [
+        {
+          "name": "Rivs",
+          "url": "https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 166480,
+      "name": "Beso de Novela",
+      "url": "https://open.spotify.com/track/4TOIbly1a3G25HrrPWZRRB"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Cama",
-        "url": "https://open.spotify.com/album/36RFDrvSWOYTNKu26t8kvO"
-      },
-      "artists": [
-        {
-          "name": "SERBIA",
-          "url": "https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj"
-        }
-      ],
-      "duration_ms": 250480,
-      "name": "Cama",
-      "url": "https://open.spotify.com/track/2tgxXENuQNFhxMuhhlcogC"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "EMILIANO",
         "url": "https://open.spotify.com/album/3TQ4j44ZbMGtoPigfLTh6R"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 200597,
       "name": "el afortunado",
       "url": "https://open.spotify.com/track/3FRHIzYjG3xiK9VFTaBaqi"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Cama",
+        "url": "https://open.spotify.com/album/36RFDrvSWOYTNKu26t8kvO"
+      },
+      "artists": [
+        {
+          "name": "SERBIA",
+          "url": "https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj"
+        }
+      ],
+      "duration_ms": 250480,
+      "name": "Cama",
+      "url": "https://open.spotify.com/track/2tgxXENuQNFhxMuhhlcogC"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "#El Regreso",
-        "url": "https://open.spotify.com/album/65Jli3h6cwCimwjpsMDwOe"
-      },
-      "artists": [
-        {
-          "name": "Alberto Y Roberto",
-          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
-        }
-      ],
-      "duration_ms": 226965,
-      "name": "Tu Forma De Ser",
-      "url": "https://open.spotify.com/track/2B6Iw4NVbrLhguZ9pVpVGq"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/4spOiFzbH5Q2ORqtPcREG5"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 184736,
       "name": "24/7",
       "url": "https://open.spotify.com/track/4K4ks2NpTorYdGIitosc5U"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "#El Regreso",
+        "url": "https://open.spotify.com/album/65Jli3h6cwCimwjpsMDwOe"
+      },
+      "artists": [
+        {
+          "name": "Alberto Y Roberto",
+          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
+        }
+      ],
+      "duration_ms": 226965,
+      "name": "Tu Forma De Ser",
+      "url": "https://open.spotify.com/track/2B6Iw4NVbrLhguZ9pVpVGq"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Me Haces Falta",
-        "url": "https://open.spotify.com/album/1nwnsqrVtE7wP8SZf344hc"
-      },
-      "artists": [
-        {
-          "name": "Alberto Y Roberto",
-          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Indispensable",
-      "url": "https://open.spotify.com/track/05TjvPiZoIpGsv47cEFn7w"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Heartbreak",
         "url": "https://open.spotify.com/album/5mS2VooMYaBTuxqm9siExC"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 203555,
       "name": "Heartbreak",
       "url": "https://open.spotify.com/track/78MlxXcdUIYlYH5TNSjEut"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Me Haces Falta",
+        "url": "https://open.spotify.com/album/1nwnsqrVtE7wP8SZf344hc"
+      },
+      "artists": [
+        {
+          "name": "Alberto Y Roberto",
+          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Indispensable",
+      "url": "https://open.spotify.com/track/05TjvPiZoIpGsv47cEFn7w"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2379,6 +2379,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "SaD </3 VaLENTIN",
+        "url": "https://open.spotify.com/album/2qBckyoECTiIXjvxugEnkw"
+      },
+      "artists": [
+        {
+          "name": "Valdo Rodriguez",
+          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
+        }
+      ],
+      "duration_ms": 179594,
+      "name": "Sexo Con Tu Ex",
+      "url": "https://open.spotify.com/track/5DxDTVexCtiHtSk0GQCybW"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "El Morro Que Hace M\u00fasica",
         "url": "https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3"
       },
@@ -2411,22 +2427,6 @@
       "duration_ms": 237333,
       "name": "Gitana (feat. Jeis, Pao Alvarado & Charly Romero)",
       "url": "https://open.spotify.com/track/36sCyXGpgGVkiPaTObxvVT"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "SaD </3 VaLENTIN",
-        "url": "https://open.spotify.com/album/2qBckyoECTiIXjvxugEnkw"
-      },
-      "artists": [
-        {
-          "name": "Valdo Rodriguez",
-          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
-        }
-      ],
-      "duration_ms": 179594,
-      "name": "Sexo Con Tu Ex",
-      "url": "https://open.spotify.com/track/5DxDTVexCtiHtSk0GQCybW"
     },
     {
       "added_at": "2025-11-09 06:50:57",

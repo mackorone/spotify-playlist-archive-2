@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-610 songs - 1 day 10 hr 42 min
+612 songs - 1 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [FU & UF](https://open.spotify.com/track/2UfNSV1Fwz4gGJf42ZX1Pu) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [SE9 Part 1](https://open.spotify.com/album/4Wz7yb00TiEUqMrd3gzVtz) | 2:39 | 2025-12-11 |  |
 | [Funeral \- Acoustic](https://open.spotify.com/track/45dAd4OmYSHUn7F5BqTneE) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Funeral](https://open.spotify.com/album/0cIxQUX3RTIxUBhXh5MBRB) | 3:58 | 2024-08-29 |  |
 | [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 | 2023-02-23 | 2023-04-26 |
+| [Get It Right](https://open.spotify.com/track/4eycOJZ9ofGW7iqm1QEaDJ) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Get It Right](https://open.spotify.com/album/6qHejAKDb0fEkUvAax5nHs) | 2:52 | 2026-01-26 |  |
 | [get older](https://open.spotify.com/track/2uu7LrCxYJ5WvtyzdxLiPC) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [get older](https://open.spotify.com/album/0WBPBQuEfYJcRmIA3OdJmq) | 2:57 | 2023-02-23 |  |
 | [Get There When I Get There](https://open.spotify.com/track/3A8glnhkz52eDkT5e52xSm) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Left on McKinney](https://open.spotify.com/album/2ALcWB26JayXG3kCosC8F9) | 2:56 | 2024-10-03 |  |
 | [Ghost Of Me](https://open.spotify.com/track/2xmsvPkZ67YgQ4p2ABrnzT) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Ghost Of Me](https://open.spotify.com/album/4N4vgV1soaj7LbakmNfwvB) | 3:04 | 2024-11-08 |  |
@@ -195,7 +196,7 @@
 | [Goodbye Never Felt So Bad](https://open.spotify.com/track/0yLNWToE0zigyg3aqYrwdL) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Goodbye Never Felt So Bad](https://open.spotify.com/album/1oxbrgjKFu46YXY6zVZf9G) | 4:10 | 2023-08-17 | 2023-12-30 |
 | [Gravity](https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:05 | 2023-02-23 | 2025-10-09 |
 | [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:53 | 2023-02-23 |  |
-| [Greatest Hits \- Acoustic](https://open.spotify.com/track/29nQhFJZAQdxZqrwh8H1Ak) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Greatest Hits \(Acoustic\)](https://open.spotify.com/album/50Bra1PwyvsuYrsYVAY0fc) | 3:23 | 2024-11-08 |  |
+| [Greatest Hits \- Acoustic](https://open.spotify.com/track/29nQhFJZAQdxZqrwh8H1Ak) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Greatest Hits \(Acoustic\)](https://open.spotify.com/album/50Bra1PwyvsuYrsYVAY0fc) | 3:23 | 2024-11-08 | 2026-01-27 |
 | [Greatest Hits \- Acoustic](https://open.spotify.com/track/7cmzUKQfJCevlugn6m6M3Q) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Greatest Hits \(Acoustic\)](https://open.spotify.com/album/6RLWl6RTIjQMgf4kdKhn62) | 3:23 | 2023-04-25 | 2024-01-29 |
 | [Greenblueviolet](https://open.spotify.com/track/25bUC6HUONOmzHDDhuVzrG) | [Babet](https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh) | [Greenblueviolet](https://open.spotify.com/album/4EgIdufjpX2WXIHe3vYZYE) | 3:38 | 2025-01-23 | 2025-09-12 |
 | [Half a Man](https://open.spotify.com/track/2eUC6tKYCfIvXyZJ5k9F8n) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Half a Man](https://open.spotify.com/album/5XM1KXwrQkexM7Zm6WLrx4) | 2:56 | 2024-11-04 | 2025-10-17 |
@@ -535,6 +536,7 @@
 | [These Nights](https://open.spotify.com/track/5769eZb8t1ufXgk2Iq5ZMZ) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [These Nights](https://open.spotify.com/album/7LivGxiTjQCQAau5AsMfbN) | 2:57 | 2025-04-28 |  |
 | [These Tears](https://open.spotify.com/track/1Nt4hDwC9bGT8P9NU5TuFX) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [These Tears](https://open.spotify.com/album/60fN3YpVgSWbGeJ1REe2zO) | 2:49 | 2024-03-19 |  |
 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-07-18 | 2024-11-21 |
+| [Thick Skin](https://open.spotify.com/track/4wPS8JGKj8iNV8zNrmwtam) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Thick Skin](https://open.spotify.com/album/6ykkVXarEYsrH8G56v1FRI) | 2:32 | 2026-01-26 |  |
 | [This Girl \(Kungs Vs\. Cookin' On 3 Burners\)](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Layers](https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB) | 3:15 | 2024-03-21 | 2024-04-10 |
 | [This Is For The Ones](https://open.spotify.com/track/2ROYTksKBDPlBzI5JEKKF7) | [Pineapple Kid](https://open.spotify.com/artist/5zHT9PaNk6vjos9Xu44dqG) | [This Is For The Ones](https://open.spotify.com/album/49vhTXDSj6b0zXzJiFEkPg) | 3:17 | 2023-05-01 |  |
 | [This Is What It Feels Like \- John Ewbank Classical Remix](https://open.spotify.com/track/1MTHcjq2LmrQDYDuLentyu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [John Ewbank](https://open.spotify.com/artist/0P8SMwZkYqLW4ts4BNlP79), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [Armada Acoustic 2017](https://open.spotify.com/album/1vaZZiBeoQO0QvzcDyxfHr) | 3:12 | 2023-02-23 |  |
@@ -551,7 +553,7 @@
 | [Tonight](https://open.spotify.com/track/3v2dHPoXhfVVZ6HQBfjQOh) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tonight](https://open.spotify.com/album/6z8SVwxBPHJMEI6jv95m8X) | 4:32 | 2025-08-28 | 2025-09-26 |
 | [Tonight Tonight](https://open.spotify.com/track/1lk1AQ4NL2F5INzLcCWa1u) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 3:39 | 2024-03-19 | 2025-06-03 |
 | [Took a Hit](https://open.spotify.com/track/1pxHrvGMP01htMXg1RcaEy) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Liverpool Rain](https://open.spotify.com/album/5M1RrcD206EhfQzzXlDym8) | 3:44 | 2023-02-23 | 2023-07-15 |
-| [Trade it for the Night](https://open.spotify.com/track/5FdxCyHx8CSiP9TOS7oM0i) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Holy Ground](https://open.spotify.com/album/3QRCCcpdWHmAQ6YSq4nbQd) | 4:50 | 2024-04-11 |  |
+| [Trade it for the Night](https://open.spotify.com/track/5FdxCyHx8CSiP9TOS7oM0i) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Holy Ground](https://open.spotify.com/album/3QRCCcpdWHmAQ6YSq4nbQd) | 4:50 | 2024-04-11 | 2026-01-27 |
 | [Trade it for the Night](https://open.spotify.com/track/5eTeLVyJv5PT9SVFuOmycc) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Trade it for the Night](https://open.spotify.com/album/1TUyTfzAhejrdz4I4pymgp) | 4:50 | 2024-01-16 | 2024-04-19 |
 | [Tropical Commotion](https://open.spotify.com/track/2Z1PLz4doUUmo18lIqFmry) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces \(EP\)](https://open.spotify.com/album/40DNbdaTg3zjgf9pDCMhPw) | 3:47 | 2023-02-23 | 2023-04-13 |
 | [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 | 2024-07-15 | 2024-09-28 |

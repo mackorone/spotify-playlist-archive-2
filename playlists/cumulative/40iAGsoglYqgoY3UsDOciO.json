@@ -629,6 +629,24 @@
     },
     {
       "album": {
+        "name": "I Never Listen",
+        "url": "https://open.spotify.com/album/0PJpaD4ZtD1IuFB4a3upz8"
+      },
+      "artists": [
+        {
+          "name": "LMonko",
+          "url": "https://open.spotify.com/artist/224OHndFf8m41yMVW3UMpB"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100324,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/5CLFupLl2NPAwVl9Q6M7xc"
+    },
+    {
+      "album": {
         "name": "BAGS / INVOLVED",
         "url": "https://open.spotify.com/album/4gtI29cKzs2xSUXCMk67uE"
       },
@@ -2080,6 +2098,24 @@
       "duration_ms": 171532,
       "name": "Do U Really ?",
       "url": "https://open.spotify.com/track/2n6DPOMf8EIl6HUhYu0Msc"
+    },
+    {
+      "album": {
+        "name": "Do You Want Me",
+        "url": "https://open.spotify.com/album/7GJrSnO6AcA9MPeKIpfnW2"
+      },
+      "artists": [
+        {
+          "name": "Beau Audio",
+          "url": "https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130434,
+      "name": "Do You Want Me",
+      "url": "https://open.spotify.com/track/0mPlRoWozVrwoJXKGJ8KV2"
     },
     {
       "album": {
@@ -7164,6 +7200,24 @@
       "duration_ms": 145007,
       "name": "SIMP FOR YOU",
       "url": "https://open.spotify.com/track/6f0CMWj1hgBwskGeutUHLO"
+    },
+    {
+      "album": {
+        "name": "sinisterIntentions",
+        "url": "https://open.spotify.com/album/6DqZntyUnsK62T91VZqu7N"
+      },
+      "artists": [
+        {
+          "name": "Young Rebillionaire",
+          "url": "https://open.spotify.com/artist/4dbmUc24ekKqfjwbpuGiRx"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90352,
+      "name": "sinisterIntentions",
+      "url": "https://open.spotify.com/track/145cB9YpyrfsDTGxh3tTOP"
     },
     {
       "album": {

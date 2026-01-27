@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ⚡️ qui un sacco di musica giovane ⚡️ Cover: 22simba e Rkomi
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,903 likes - 86 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,884 likes - 86 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Girasole \(feat\. Rkomi\)](https://open.spotify.com/track/6QYSy0nHV8WoBRLqtz6Oa2) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [La Cura, in nome di Miria](https://open.spotify.com/album/2jbeoamHqIQwfQuzKuDo7s) | 3:21 |
-| 2 | [Anche a vent’anni si muore](https://open.spotify.com/track/59Awynpg4oFhSwb5F8lQQ1) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Anche a vent’anni si muore](https://open.spotify.com/album/5ia2NfmJrcmFBZcX5GVloM) | 3:40 |
+| 1 | [Anche a vent’anni si muore](https://open.spotify.com/track/59Awynpg4oFhSwb5F8lQQ1) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Anche a vent’anni si muore](https://open.spotify.com/album/5ia2NfmJrcmFBZcX5GVloM) | 3:40 |
+| 2 | [Girasole \(feat\. Rkomi\)](https://open.spotify.com/track/6QYSy0nHV8WoBRLqtz6Oa2) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [La Cura, in nome di Miria](https://open.spotify.com/album/2jbeoamHqIQwfQuzKuDo7s) | 3:21 |
 | 3 | [ACQUARIO](https://open.spotify.com/track/0P0GZSQTYSdCPzQar8Rbqf) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [ACQUARIO](https://open.spotify.com/album/4Kb07sqP1OQ9xkfazOi7C3) | 3:13 |
 | 4 | [URAGANI](https://open.spotify.com/track/2v0nUjtFhY0VujLTEgGSBm) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [URAGANI](https://open.spotify.com/album/2fPVbFkyMsLMfLjodpZ1yC) | 2:49 |
-| 5 | [odio il caffè](https://open.spotify.com/track/3hyuPHawN2prZddVclTOYu) | [eroCaddeo](https://open.spotify.com/artist/20Ue9Vj12Xs29OCe0WCTV5) | [scrivimi quando arrivi \(punto\)](https://open.spotify.com/album/1ajPW1fVFohYyGgJIBBsco) | 2:36 |
-| 6 | [Canzone D'Amore](https://open.spotify.com/track/0Ufi0vac6DDTUAkgEAkb7B) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Canzone D'Amore](https://open.spotify.com/album/3IgaAZrMsLvmNEuJph8nnA) | 2:45 |
-| 7 | [Zero](https://open.spotify.com/track/1VuQnyUvKCe7ydmdBP8mxW) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Zero](https://open.spotify.com/album/7aImQtFJjjWSO8kh9Vk15C) | 3:11 |
-| 8 | [CANZONE D'AMORE](https://open.spotify.com/track/4oAmcoWAsnEKF47gYNryAc) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:00 |
-| 9 | [Dai che fai](https://open.spotify.com/track/21KdF0KGmSXmDBcif3XZd4) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Mediterraneo](https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd) | 3:20 |
-| 10 | [Non è mica te](https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Amarsi è la rivoluzione](https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP) | 3:07 |
-| 11 | [Parcheggio a ore](https://open.spotify.com/track/5KmTqT6ge16FNylMiKzNXK) | [Trigno](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R) | [Parcheggio a ore](https://open.spotify.com/album/0UOu5Bp9LL93TvfDYUEnys) | 3:23 |
+| 5 | [Canzone D'Amore](https://open.spotify.com/track/0Ufi0vac6DDTUAkgEAkb7B) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Canzone D'Amore](https://open.spotify.com/album/3IgaAZrMsLvmNEuJph8nnA) | 2:45 |
+| 6 | [CANZONE D'AMORE](https://open.spotify.com/track/4oAmcoWAsnEKF47gYNryAc) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:00 |
+| 7 | [Dai che fai](https://open.spotify.com/track/21KdF0KGmSXmDBcif3XZd4) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Mediterraneo](https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd) | 3:20 |
+| 8 | [Non è mica te](https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Amarsi è la rivoluzione](https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP) | 3:07 |
+| 9 | [Parcheggio a ore](https://open.spotify.com/track/5KmTqT6ge16FNylMiKzNXK) | [Trigno](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R) | [Parcheggio a ore](https://open.spotify.com/album/0UOu5Bp9LL93TvfDYUEnys) | 3:23 |
+| 10 | [odio il caffè](https://open.spotify.com/track/3hyuPHawN2prZddVclTOYu) | [eroCaddeo](https://open.spotify.com/artist/20Ue9Vj12Xs29OCe0WCTV5) | [scrivimi quando arrivi \(punto\)](https://open.spotify.com/album/1ajPW1fVFohYyGgJIBBsco) | 2:36 |
+| 11 | [Zero](https://open.spotify.com/track/1VuQnyUvKCe7ydmdBP8mxW) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Zero](https://open.spotify.com/album/7aImQtFJjjWSO8kh9Vk15C) | 3:11 |
 | 12 | [2 GIORNI DI FILA \(feat\. Sfera Ebbasta, ANNA\)](https://open.spotify.com/track/5CqjSq1ZJFPWxonCeZPyRk) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:31 |
 | 13 | [Semplicemente \(from the Netflix Series "RIV4LI"\)](https://open.spotify.com/track/1jRhY5sLzAf3d683tbOVr7) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5), [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Semplicemente \(from the Netflix Series "RIV4LI"\)](https://open.spotify.com/album/4daX0ZBBuoXqr2GIpfe2P5) | 3:07 |
 | 14 | [punto](https://open.spotify.com/track/1WLfItpqW8NNP6VanqRKy0) | [eroCaddeo](https://open.spotify.com/artist/20Ue9Vj12Xs29OCe0WCTV5) | [punto](https://open.spotify.com/album/2G73CooRfo1Ly5YFpCuhrI) | 2:16 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 85 | [ESTREMO](https://open.spotify.com/track/6Q7DveRtCfLSMSg4p6VL82) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [ESTREMO](https://open.spotify.com/album/7c05tr49abSfQZgJ0N3nDu) | 2:53 |
 | 86 | [CIÒ CHE SARÀ](https://open.spotify.com/track/54HHNMAmehfJVOizKZ9p4r) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [CIÒ CHE SARÀ](https://open.spotify.com/album/4AULQG6nryDoZz9hOPU3Lj) | 2:59 |
 
-Snapshot ID: `AAAAAAo6VXho3ucGj+cULIfEEym7RpIr`
+Snapshot ID: `AAAAAC2UGAeTl7S/wD7ZG9QthYoUnz2k`

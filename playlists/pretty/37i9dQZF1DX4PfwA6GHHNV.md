@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > afrobeats daqui, de fora, de todos os cantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,740 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,748 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 66 | [Doce Veneno](https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0) | [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Doce Veneno](https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm) | 2:15 |
 | 67 | [Brinca Comigo](https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd) | [RUBY](https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1), [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Atitude](https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ) | 3:05 |
 | 68 | [BIG BIG](https://open.spotify.com/track/3m7Wos4ti36KvO0RIcfMKQ) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [Mya Akoma](https://open.spotify.com/artist/5E23K9Xg1OT6rfo0SUWzQy), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [BIG BIG](https://open.spotify.com/album/75UTRhSeMt6NVE8d0Ghd0I) | 3:02 |
-| 69 | [12 de Junho](https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [12 de Junho](https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4) | 3:10 |
-| 70 | [Cê Decide](https://open.spotify.com/track/74Xa1p6kyCTyTtidZOPAUZ) | [Scardinni](https://open.spotify.com/artist/18LTJax6PTlio8utZE2YLO) | [Cê Decide](https://open.spotify.com/album/4oZMdfYEB5sTsJlwRFuwDX) | 1:56 |
+| 69 | [Cê Decide](https://open.spotify.com/track/74Xa1p6kyCTyTtidZOPAUZ) | [Scardinni](https://open.spotify.com/artist/18LTJax6PTlio8utZE2YLO) | [Cê Decide](https://open.spotify.com/album/4oZMdfYEB5sTsJlwRFuwDX) | 1:56 |
+| 70 | [12 de Junho](https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [12 de Junho](https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4) | 3:10 |
 
 Snapshot ID: `AAAAAFNcPv7QeUxrNYFwGzBYMXwu42Zm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: WILL K
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,402 likes - 99 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,405 likes - 99 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 30 | [Overdrive](https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [This isn’t what you think it is \(EP\)](https://open.spotify.com/album/4OcCeiJxG51PNH2Eh1rz8u) | 3:19 |
 | 31 | [Crazy](https://open.spotify.com/track/4a1UArX9uL4trMks4wu8LZ) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Amira Eldine](https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst) | [Crazy](https://open.spotify.com/album/4xQKZ1vTOvkaPJWaA0AFEg) | 2:05 |
 | 32 | [Greedy](https://open.spotify.com/track/5Lud9rYTBNnTkt4FMoNYPG) | [bradeazy](https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI), [Mike Renza](https://open.spotify.com/artist/144ouiKO7kLKKiX1qyCkBI) | [Greedy](https://open.spotify.com/album/4TupQBftGajUoFQrw9Z0CS) | 3:03 |
-| 33 | [I Wanna Know](https://open.spotify.com/track/4291wVeV1PR771cBvbSVNA) | [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Ashee](https://open.spotify.com/artist/20NZhZk0qrMO7jImyuR3hz) | [I Wanna Know](https://open.spotify.com/album/5jn84FTQ7eWfJNqsiZt4mE) | 4:00 |
+| 33 | [I Wanna Know](https://open.spotify.com/track/4291wVeV1PR771cBvbSVNA) | [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [ashee](https://open.spotify.com/artist/1yzdg7tn88FZln32FyhmVl) | [I Wanna Know](https://open.spotify.com/album/5jn84FTQ7eWfJNqsiZt4mE) | 4:00 |
 | 34 | [ROLL OUT](https://open.spotify.com/track/6wTWdrWYSPURvUb9MqcN18) | [DON'T THINK](https://open.spotify.com/artist/0JkeEwbkFQLU4C5voqbjFG) | [ROLL OUT](https://open.spotify.com/album/4pnquavbACgHeudpf9zhgR) | 2:41 |
 | 35 | [Movement](https://open.spotify.com/track/067IEhIunxUD5RghUdz5eI) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [Movement](https://open.spotify.com/album/5WBIhywZ9n8DnfhNRo8nXQ) | 5:32 |
 | 36 | [ALL NIGHT \- VIP](https://open.spotify.com/track/5BuSrZ9PCfE5nY6TRj1tpK) | [ZEKE BEATS](https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl) | [ALL NIGHT \(VIP\)](https://open.spotify.com/album/2DybS5mTHQFhzLMy8xS4nr) | 2:22 |

@@ -1,12 +1,12 @@
 {
   "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Cam Stockman",
-  "num_followers": 71951,
+  "num_followers": 71989,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC+PKABw34Pv1jfMJFAt2mzk4DeT",
+  "snapshot_id": "AAAAAAdlePVS8N83F7m7z3Q+Skfj7Cmo",
   "tracks": [
     {
       "added_at": "2026-01-23 05:00:22",
@@ -91,18 +91,18 @@
     {
       "added_at": "2026-01-23 15:20:38",
       "album": {
-        "name": "Back n' Forth",
-        "url": "https://open.spotify.com/album/0PjY1JVZYZJeC39YHJgbZV"
+        "name": "For The Night",
+        "url": "https://open.spotify.com/album/2QnJK2my2hW7IMmf4MoLpT"
       },
       "artists": [
         {
-          "name": "Crewcutz",
-          "url": "https://open.spotify.com/artist/3wRmWPRKhXTatAYGQUsC4E"
+          "name": "Mitch Freeman",
+          "url": "https://open.spotify.com/artist/3Z9cpCACRQX3FR4DzoFOiG"
         }
       ],
-      "duration_ms": 217674,
-      "name": "Back n' Forth",
-      "url": "https://open.spotify.com/track/5SLLAmfYuVM5WlOoxFl4Qa"
+      "duration_ms": 261363,
+      "name": "For The Night",
+      "url": "https://open.spotify.com/track/2CHZ0FcivKxDfW0TBfw6ng"
     },
     {
       "added_at": "2025-11-28 05:09:48",
@@ -153,22 +153,6 @@
       "url": "https://open.spotify.com/track/76e2lc0sV8N1jLFlw2CS5x"
     },
     {
-      "added_at": "2026-01-23 15:20:38",
-      "album": {
-        "name": "For The Night",
-        "url": "https://open.spotify.com/album/2QnJK2my2hW7IMmf4MoLpT"
-      },
-      "artists": [
-        {
-          "name": "Mitch Freeman",
-          "url": "https://open.spotify.com/artist/3Z9cpCACRQX3FR4DzoFOiG"
-        }
-      ],
-      "duration_ms": 261363,
-      "name": "For The Night",
-      "url": "https://open.spotify.com/track/2CHZ0FcivKxDfW0TBfw6ng"
-    },
-    {
       "added_at": "2026-01-16 05:00:33",
       "album": {
         "name": "House FC",
@@ -199,6 +183,22 @@
       "duration_ms": 242790,
       "name": "Touched",
       "url": "https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa"
+    },
+    {
+      "added_at": "2026-01-23 15:20:38",
+      "album": {
+        "name": "Back n' Forth",
+        "url": "https://open.spotify.com/album/0PjY1JVZYZJeC39YHJgbZV"
+      },
+      "artists": [
+        {
+          "name": "Crewcutz",
+          "url": "https://open.spotify.com/artist/3wRmWPRKhXTatAYGQUsC4E"
+        }
+      ],
+      "duration_ms": 217674,
+      "name": "Back n' Forth",
+      "url": "https://open.spotify.com/track/5SLLAmfYuVM5WlOoxFl4Qa"
     },
     {
       "added_at": "2025-12-30 18:07:37",

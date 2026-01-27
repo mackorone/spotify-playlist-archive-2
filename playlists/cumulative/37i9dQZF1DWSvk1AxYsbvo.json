@@ -409,6 +409,24 @@
     },
     {
       "album": {
+        "name": "on the edge of (\u3000\u3000)",
+        "url": "https://open.spotify.com/album/7uIZtaogrfDnzHvvGvaANO"
+      },
+      "artists": [
+        {
+          "name": "Hello Ga-Young",
+          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201693,
+      "name": "Believe in love",
+      "url": "https://open.spotify.com/track/7ooq8bXTacRKlGcxoLOxwX"
+    },
+    {
+      "album": {
         "name": "Beside you (Better Days X Jang Hye-Jin)",
         "url": "https://open.spotify.com/album/0oYOZG7WYvU20dqqqmmKOD"
       },
@@ -460,7 +478,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 204373,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB"
@@ -706,7 +724,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 191331,
       "name": "Cheer Up - Acoustic Version",
       "url": "https://open.spotify.com/track/6kBb78hkYvUu5jllXys9vQ"
@@ -1358,6 +1376,24 @@
       "duration_ms": 246455,
       "name": "Forest",
       "url": "https://open.spotify.com/track/7uSWaPPonJDQtAFgDByFvR"
+    },
+    {
+      "album": {
+        "name": "forevermore",
+        "url": "https://open.spotify.com/album/6m164XNbKX32JztcdUpPYp"
+      },
+      "artists": [
+        {
+          "name": "Sweden Laundry",
+          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "forevermore",
+      "url": "https://open.spotify.com/track/293NQ732MJvaNPAWyhrCia"
     },
     {
       "album": {
@@ -2943,6 +2979,24 @@
     },
     {
       "album": {
+        "name": "ONGI (Warmth)",
+        "url": "https://open.spotify.com/album/4CqQGQCrm0S9iHFhTwHYeD"
+      },
+      "artists": [
+        {
+          "name": "Kim Boogyeong",
+          "url": "https://open.spotify.com/artist/0C7Ij4sLjSJFlbOUq8POVs"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292276,
+      "name": "ONGI (Warmth)",
+      "url": "https://open.spotify.com/track/3MEaqIYpWxPO30o87Pq8AG"
+    },
+    {
+      "album": {
         "name": "Orange Splash",
         "url": "https://open.spotify.com/album/1TN2cAe1oAZW2eJkUxpZ2C"
       },
@@ -4034,7 +4088,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 210840,
       "name": "To My Friend",
       "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"

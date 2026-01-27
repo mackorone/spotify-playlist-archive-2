@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Tiger JK & Yoon Mirae\)
 
-1,750 songs - 3 day 21 hr 30 min
+1,751 songs - 3 day 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1588,6 +1588,7 @@
 | [W](https://open.spotify.com/track/5b7uyBXn294DZjvnJqsKfA) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [RAP:PUBLIC MASK OFF Special](https://open.spotify.com/album/41NJ14BEkm5HjQlJRrS4JT) | 1:55 | 2024-10-30 | 2025-03-19 |
 | [W GANG UP \(SAIKOU!\)](https://open.spotify.com/track/6qEpXArD0cBKkaB42NdZht) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [MARNI](https://open.spotify.com/album/5Jc65PONU8FqRCeZEjVJMj) | 1:30 | 2024-04-12 | 2024-06-29 |
 | [W.G.C](https://open.spotify.com/track/7vxrsVk3u02QAepkhGRfrH) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [W.G.C](https://open.spotify.com/album/3mfAoElvNGipmw10H80wBf) | 2:58 | 2021-12-18 | 2022-06-29 |
+| [WABANGA](https://open.spotify.com/track/64GH5EZ3fksNMDzPxPe9ak) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [STXXCH](https://open.spotify.com/artist/4eKUJWxR4ycmScb1XoymzS) | [HOWANMAMA](https://open.spotify.com/album/7Mus65g9jkeG5iUY3B0VRC) | 3:18 | 2026-01-26 |  |
 | [Wait! \(Feat\. Pullik, HOTCHKISS\)](https://open.spotify.com/track/0PATQFHgL6Ia7iRfolt5mL) | [BanggerDope](https://open.spotify.com/artist/4LPB4af7uKBu5RrRaZLb15), [PULLIK](https://open.spotify.com/artist/6vhLgVqFLRdTEilwzSs98z), [HOTCHKISS](https://open.spotify.com/artist/4ang1laReM5X7wATItbxwQ) | [Wait!](https://open.spotify.com/album/64irzmwxbSHOmVRzJw6fjY) | 2:52 | 2022-03-29 | 2022-06-30 |
 | [Waiting For The Food \(Feat\. Minyoung\)](https://open.spotify.com/track/4AfL5CEbV15dr9nyEzdbj4) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Minyoung](https://open.spotify.com/artist/0gU1NkYObAFL1pPgubu0IG) | [K\-XY : INFP](https://open.spotify.com/album/2wnWRNfQin1JbNKLvFVOxp) | 3:05 | 2023-09-07 | 2024-01-24 |
 | [Waiting For You \(feat\. Jay Park\)](https://open.spotify.com/track/0nC94WBww2j23UVqWCIq12) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Pressure Makes Diamonds](https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc) | 3:02 | 2023-02-23 | 2023-03-07 |

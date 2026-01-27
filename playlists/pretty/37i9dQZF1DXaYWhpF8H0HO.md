@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Kris Dayanti
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,711 likes - 109 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,713 likes - 109 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

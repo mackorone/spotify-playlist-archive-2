@@ -4,7 +4,7 @@
 
 > كافيار الراب المحلّي
 
-84 songs - 4 hr 2 min
+85 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Alhamdullah](https://open.spotify.com/track/2SPbO7VAo7JPHV1aQVNNn4) | [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randar](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [Alhamdullah](https://open.spotify.com/album/3Gs23JBSqQR7YIXzsyTg6Y) | 3:05 | 2024-06-24 |  |
 | [Ama Ba'ad \(Shathar Mathar\)](https://open.spotify.com/track/2WMGvPpnSOk3YW8AjwkWiv) | [Klash](https://open.spotify.com/artist/576Qg5nTQ5fVCFaSYrvKdw) | [Ama Ba'ad \(Shathar Mathar\)](https://open.spotify.com/album/1oOFKHuth7o9cNeAZp3ms0) | 4:16 | 2024-06-24 |  |
 | [Apocalypto](https://open.spotify.com/track/3RTdo0zHATe4q1FI6iPTng) | [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [Apocalypto](https://open.spotify.com/album/7c84xKcwZ06RQgsd3HoOl2) | 2:57 | 2025-10-02 |  |
-| [Armalat Al\-Alpha](https://open.spotify.com/track/7paqmrCBmNEM6frYHCd8GL) | [Klash](https://open.spotify.com/artist/576Qg5nTQ5fVCFaSYrvKdw) | [Armalat Al\-Alpha](https://open.spotify.com/album/4DQ6r2s7uCG9I1Xfy2RAtG) | 6:06 | 2025-11-05 |  |
+| [Armalat Al\-Alpha](https://open.spotify.com/track/7paqmrCBmNEM6frYHCd8GL) | [Klash](https://open.spotify.com/artist/576Qg5nTQ5fVCFaSYrvKdw) | [Armalat Al\-Alpha](https://open.spotify.com/album/4DQ6r2s7uCG9I1Xfy2RAtG) | 6:06 | 2025-11-05 | 2026-01-27 |
 | [Aswat \(feat\. Walgz\)](https://open.spotify.com/track/3wSS3x6klMRqgXzhufL5my) | [Tmsa7](https://open.spotify.com/artist/1eUb0Yqoxg2MgUuHyYfM4e), [Walgz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT) | [Aswat \(feat\. Walgz\)](https://open.spotify.com/album/3hu5RGsbSyrodAy2asW2Mv) | 2:31 | 2025-10-02 |  |
 | [Barcelona \(Freedom Music\)](https://open.spotify.com/track/2KoOkiq0tNszGh8QcpP6ES) | [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randar](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [Barcelona \(Freedom Music\)](https://open.spotify.com/album/22TUuXdegJvCmxNbDMuxls) | 3:14 | 2024-07-10 |  |
 | [Bashkatib](https://open.spotify.com/track/5t7c62O8KkO9pdcBS6OpLQ) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Kitab](https://open.spotify.com/album/1ao9V5no6rbr7QGNFUE5LI) | 2:15 | 2025-10-02 |  |
@@ -56,6 +56,7 @@
 | [Mercedes Benz](https://open.spotify.com/track/5KIDoiS20Gm0DDTDMyTPgt) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN) | [Mercedes Benz](https://open.spotify.com/album/3Um5hfjMHDs6V2nIVP546g) | 1:57 | 2025-10-02 |  |
 | [Miyat 3een](https://open.spotify.com/track/3Jg5wpauPWxfXA0uP2XJ8B) | [Blvxb](https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT), [Ruhmvn](https://open.spotify.com/artist/5cRscGfILoBPh338Cmikjn) | [Valhalla](https://open.spotify.com/album/6P2ujZCQky3YyrACFXBUfH) | 2:12 | 2024-06-24 |  |
 | [Mshmashi](https://open.spotify.com/track/23DUn6f2TWzzc1JGuswwfB) | [Big Bo](https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0), [Bobilal](https://open.spotify.com/artist/7swpe4e2vzQ5p46ChS0gDH) | [Mshmashi](https://open.spotify.com/album/38pYJTpi4i4UPCWcRkmrUu) | 3:29 | 2024-06-24 |  |
+| [NASEHAT MUSHFIQ](https://open.spotify.com/track/607JmfmWDTOgacXpWYFmNW) | [Klash](https://open.spotify.com/artist/576Qg5nTQ5fVCFaSYrvKdw) | [NASEHAT MUSHFIQ](https://open.spotify.com/album/23zOEXioEzkBPCRc8gTznD) | 2:52 | 2026-01-26 |  |
 | [Ola'la](https://open.spotify.com/track/1wqTfg4UMAQel3GcHFwLSA) | [Walgz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT) | [Ola'la](https://open.spotify.com/album/3BBE6OidTsZ5PWPXinBxf3) | 2:30 | 2025-10-02 |  |
 | [Oss](https://open.spotify.com/track/2n3TIdIXujwIEsyaOVHshS) | [Mar1](https://open.spotify.com/artist/66flQtRHiDvvBSQHq3LHDp), [Queen G](https://open.spotify.com/artist/6rrCiJnPcTKkALHfG8bpAi), [Klash](https://open.spotify.com/artist/576Qg5nTQ5fVCFaSYrvKdw) | [Oss](https://open.spotify.com/album/3QGmyRGSJl9i4NpGuSs7Kj) | 3:05 | 2024-06-24 |  |
 | [PETROL ALFAN \(feat\. Alshaikh\)](https://open.spotify.com/track/6Ng41Z45QiJ88KmEuFpS0N) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu), [Alshaikh](https://open.spotify.com/artist/7MgFtgGEvXlgQOVw07qHJ2) | [PETROL ALFAN \(feat\. Alshaikh\)](https://open.spotify.com/album/009Fnoj0mfiihyzxg1ZjyZ) | 2:47 | 2025-04-29 | 2025-10-03 |

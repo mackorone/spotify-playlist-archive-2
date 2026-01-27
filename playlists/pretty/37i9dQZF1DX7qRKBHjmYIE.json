@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Judeline.",
-  "num_followers": 747807,
+  "num_followers": 747823,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -363,26 +363,6 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "com voc\u00ea",
-        "url": "https://open.spotify.com/album/2BuF1d5TBvEiD83KxRkeRR"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        },
-        {
-          "name": "Amaia",
-          "url": "https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX"
-        }
-      ],
-      "duration_ms": 154768,
-      "name": "com voc\u00ea",
-      "url": "https://open.spotify.com/track/2UJsRfzFkeNtDncKvFDXr0"
-    },
-    {
-      "added_at": "2026-01-16 05:00:44",
-      "album": {
         "name": "BBY ROMEO",
         "url": "https://open.spotify.com/album/6MNveBkoPPQgHQfM560Zcz"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 198715,
       "name": "BBY ROMEO",
       "url": "https://open.spotify.com/track/1QwfEonEHRjLItRU7kISSe"
+    },
+    {
+      "added_at": "2026-01-16 05:00:44",
+      "album": {
+        "name": "com voc\u00ea",
+        "url": "https://open.spotify.com/album/2BuF1d5TBvEiD83KxRkeRR"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        },
+        {
+          "name": "Amaia",
+          "url": "https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX"
+        }
+      ],
+      "duration_ms": 154768,
+      "name": "com voc\u00ea",
+      "url": "https://open.spotify.com/track/2UJsRfzFkeNtDncKvFDXr0"
     },
     {
       "added_at": "2026-01-16 05:00:44",
@@ -435,26 +435,6 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "Cry about it! (feat. Ravyn Lenae)",
-        "url": "https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 171507,
-      "name": "Cry about it! (feat. Ravyn Lenae)",
-      "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
-    },
-    {
-      "added_at": "2026-01-16 05:00:44",
-      "album": {
         "name": "PA K",
         "url": "https://open.spotify.com/album/1tBbZo85SaUh3jMkoKjOnv"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 221856,
       "name": "PA K",
       "url": "https://open.spotify.com/track/3YOKeu2skm73rfn4bGPQHz"
+    },
+    {
+      "added_at": "2026-01-16 05:00:44",
+      "album": {
+        "name": "Cry about it! (feat. Ravyn Lenae)",
+        "url": "https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 171507,
+      "name": "Cry about it! (feat. Ravyn Lenae)",
+      "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
     },
     {
       "added_at": "2026-01-16 05:00:44",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "Sunshine & Rain...",
-        "url": "https://open.spotify.com/album/6sBXKaeFQdGtpDMoW5TAU4"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 197796,
-      "name": "Sunshine & Rain...",
-      "url": "https://open.spotify.com/track/0XNZ6zY9qwJVu9JypWUcvo"
-    },
-    {
-      "added_at": "2026-01-16 05:00:44",
-      "album": {
         "name": "PIRRI",
         "url": "https://open.spotify.com/album/4DWUUTlu2iKVG56uK3WIhB"
       },
@@ -643,6 +627,22 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
+        "name": "Sunshine & Rain...",
+        "url": "https://open.spotify.com/album/6sBXKaeFQdGtpDMoW5TAU4"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 197796,
+      "name": "Sunshine & Rain...",
+      "url": "https://open.spotify.com/track/0XNZ6zY9qwJVu9JypWUcvo"
+    },
+    {
+      "added_at": "2026-01-16 05:00:44",
+      "album": {
         "name": "midsummer pipe dream",
         "url": "https://open.spotify.com/album/6HQsc7j2EyHMh5ph8tNbfH"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "Volver",
-        "url": "https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 252929,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ"
-    },
-    {
-      "added_at": "2026-01-16 05:00:44",
-      "album": {
         "name": "aunquetelopida",
         "url": "https://open.spotify.com/album/2HvFECGJfDZjGjCj4yUGsA"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 180631,
       "name": "aunquetelopida",
       "url": "https://open.spotify.com/track/5OszUdNFVSsd3lGIHWGRpi"
+    },
+    {
+      "added_at": "2026-01-16 05:00:44",
+      "album": {
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 252929,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ"
     },
     {
       "added_at": "2026-01-16 05:00:44",
@@ -895,22 +895,18 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "no voy a estar ma\u00f1ana",
-        "url": "https://open.spotify.com/album/1wFTNFddZkNd2XXceMvMbX"
+        "name": "Canciones en Mi",
+        "url": "https://open.spotify.com/album/4l7m9k9na3sm2sR3BYSTsE"
       },
       "artists": [
         {
-          "name": "FaceBrooklyn",
-          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
         }
       ],
-      "duration_ms": 177773,
-      "name": "no voy a estar ma\u00f1ana",
-      "url": "https://open.spotify.com/track/0MOKVcgy5F8WwYfQ62Py4c"
+      "duration_ms": 142724,
+      "name": "D\u00f3nde Est\u00e1s!",
+      "url": "https://open.spotify.com/track/42hWyKlSWHMLPcvl8nkrfC"
     },
     {
       "added_at": "2026-01-16 05:00:44",
@@ -931,18 +927,22 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "Canciones en Mi",
-        "url": "https://open.spotify.com/album/4l7m9k9na3sm2sR3BYSTsE"
+        "name": "no voy a estar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/1wFTNFddZkNd2XXceMvMbX"
       },
       "artists": [
         {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+          "name": "FaceBrooklyn",
+          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 142724,
-      "name": "D\u00f3nde Est\u00e1s!",
-      "url": "https://open.spotify.com/track/42hWyKlSWHMLPcvl8nkrfC"
+      "duration_ms": 177773,
+      "name": "no voy a estar ma\u00f1ana",
+      "url": "https://open.spotify.com/track/0MOKVcgy5F8WwYfQ62Py4c"
     },
     {
       "added_at": "2026-01-16 05:00:44",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "tqm <3",
-        "url": "https://open.spotify.com/album/20BjmopTQQu5ZnbOF2vZhZ"
-      },
-      "artists": [
-        {
-          "name": "ZTVZ",
-          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
-        }
-      ],
-      "duration_ms": 156426,
-      "name": "tqm <3",
-      "url": "https://open.spotify.com/track/1fUykOjW543mgut3D5fwjG"
-    },
-    {
-      "added_at": "2026-01-16 05:00:44",
-      "album": {
         "name": "me cuesta hablar",
         "url": "https://open.spotify.com/album/4spdgnGkbsTubgVbkhdKfa"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 180225,
       "name": "me cuesta hablar",
       "url": "https://open.spotify.com/track/7J2yiSiENs7Yexe08XW9h6"
+    },
+    {
+      "added_at": "2026-01-16 05:00:44",
+      "album": {
+        "name": "tqm <3",
+        "url": "https://open.spotify.com/album/20BjmopTQQu5ZnbOF2vZhZ"
+      },
+      "artists": [
+        {
+          "name": "ZTVZ",
+          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
+        }
+      ],
+      "duration_ms": 156426,
+      "name": "tqm <3",
+      "url": "https://open.spotify.com/track/1fUykOjW543mgut3D5fwjG"
     },
     {
       "added_at": "2026-01-16 05:00:44",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
+        "name": "miau",
+        "url": "https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts"
+      },
+      "artists": [
+        {
+          "name": "Nina del R\u00edo",
+          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
+        }
+      ],
+      "duration_ms": 206366,
+      "name": "miau",
+      "url": "https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq"
+    },
+    {
+      "added_at": "2026-01-16 05:00:44",
+      "album": {
         "name": "Un Castigo",
         "url": "https://open.spotify.com/album/73hHOb8aSNjaKjgxp2n57h"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 189580,
       "name": "Un Castigo",
       "url": "https://open.spotify.com/track/7EmcbgQbWJhn06t8gHckgX"
-    },
-    {
-      "added_at": "2026-01-16 05:00:44",
-      "album": {
-        "name": "miau",
-        "url": "https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts"
-      },
-      "artists": [
-        {
-          "name": "Nina del R\u00edo",
-          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
-        }
-      ],
-      "duration_ms": 206366,
-      "name": "miau",
-      "url": "https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq"
     },
     {
       "added_at": "2026-01-16 05:00:44",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "N\u00edtido",
-        "url": "https://open.spotify.com/album/4jvLDuUoWJRUWcMc6VZk41"
+        "name": "ColdS3x",
+        "url": "https://open.spotify.com/album/7s1ODT1foSajGhpwGAslFA"
       },
       "artists": [
         {
-          "name": "Soultade",
-          "url": "https://open.spotify.com/artist/6W7QkdmLk3AtXkfrKH5ZDV"
+          "name": "LA GURU",
+          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
         }
       ],
-      "duration_ms": 165529,
-      "name": "Ecos",
-      "url": "https://open.spotify.com/track/6OcofGGF5dzeql46GJbG3k"
+      "duration_ms": 190084,
+      "name": "ColdS3x",
+      "url": "https://open.spotify.com/track/7uiCWibg26j4fe51KUa0ZZ"
     },
     {
       "added_at": "2026-01-16 05:00:44",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "ColdS3x",
-        "url": "https://open.spotify.com/album/7s1ODT1foSajGhpwGAslFA"
-      },
-      "artists": [
-        {
-          "name": "LA GURU",
-          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
-        }
-      ],
-      "duration_ms": 190084,
-      "name": "ColdS3x",
-      "url": "https://open.spotify.com/track/7uiCWibg26j4fe51KUa0ZZ"
-    },
-    {
-      "added_at": "2026-01-16 05:00:44",
-      "album": {
         "name": "Se Amaba As\u00ed",
         "url": "https://open.spotify.com/album/6oH9zF3t0iy2WhxLXwHrZK"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 194973,
       "name": "Miraverah\u00ed",
       "url": "https://open.spotify.com/track/1SAXS6YuktTyNF39cADeU9"
+    },
+    {
+      "added_at": "2026-01-16 05:00:44",
+      "album": {
+        "name": "N\u00edtido",
+        "url": "https://open.spotify.com/album/4jvLDuUoWJRUWcMc6VZk41"
+      },
+      "artists": [
+        {
+          "name": "Soultade",
+          "url": "https://open.spotify.com/artist/6W7QkdmLk3AtXkfrKH5ZDV"
+        }
+      ],
+      "duration_ms": 165529,
+      "name": "Ecos",
+      "url": "https://open.spotify.com/track/6OcofGGF5dzeql46GJbG3k"
     },
     {
       "added_at": "2026-01-16 05:00:44",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "el tiempo pasa r\u00e1pido",
-        "url": "https://open.spotify.com/album/2AGTJDPd2mTqTsQikhlhkM"
-      },
-      "artists": [
-        {
-          "name": "Greccia",
-          "url": "https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K"
-        }
-      ],
-      "duration_ms": 247043,
-      "name": "el tiempo pasa r\u00e1pido",
-      "url": "https://open.spotify.com/track/3679bCH5CErBhzAfYR2Cf1"
-    },
-    {
-      "added_at": "2026-01-16 05:00:44",
-      "album": {
         "name": "Demian",
         "url": "https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 270250,
       "name": "La Espiral",
       "url": "https://open.spotify.com/track/7iZDzYOsICnDgAIY4wTlxf"
+    },
+    {
+      "added_at": "2026-01-16 05:00:44",
+      "album": {
+        "name": "el tiempo pasa r\u00e1pido",
+        "url": "https://open.spotify.com/album/2AGTJDPd2mTqTsQikhlhkM"
+      },
+      "artists": [
+        {
+          "name": "Greccia",
+          "url": "https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K"
+        }
+      ],
+      "duration_ms": 247043,
+      "name": "el tiempo pasa r\u00e1pido",
+      "url": "https://open.spotify.com/track/3679bCH5CErBhzAfYR2Cf1"
     },
     {
       "added_at": "2026-01-16 05:00:44",

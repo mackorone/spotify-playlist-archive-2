@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: Nashwa Zahira
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,262 likes - 87 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,261 likes - 87 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

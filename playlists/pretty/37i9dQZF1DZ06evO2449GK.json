@@ -1,12 +1,12 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 62075,
+  "num_followers": 62087,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXQLgAAAAAAXv6U/QR7tjw47Ry1KrAhb",
+  "snapshot_id": "aXVdAAAAAAC+RQAfVte8sInifPlgBzWy",
   "tracks": [
     {
       "added_at": null,
@@ -111,18 +111,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ba\u00f1o de Ruda",
-        "url": "https://open.spotify.com/album/6dlkv3zp2mKTfDaoaAAV7h"
+        "name": "El Remate",
+        "url": "https://open.spotify.com/album/1gz8DR3AQVGHmjIMBkIgR5"
       },
       "artists": [
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Armando Hernandez",
+          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
         }
       ],
-      "duration_ms": 189278,
-      "name": "Ba\u00f1o de Ruda",
-      "url": "https://open.spotify.com/track/1RonotN63dWXzprapZyw3w"
+      "duration_ms": 244137,
+      "name": "El Remate",
+      "url": "https://open.spotify.com/track/5ACjsEe2LIsR3EeXQ8ln7j"
     },
     {
       "added_at": null,
@@ -143,22 +147,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Remate",
-        "url": "https://open.spotify.com/album/1gz8DR3AQVGHmjIMBkIgR5"
+        "name": "Ba\u00f1o de Ruda",
+        "url": "https://open.spotify.com/album/6dlkv3zp2mKTfDaoaAAV7h"
       },
       "artists": [
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Armando Hernandez",
-          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
         }
       ],
-      "duration_ms": 244137,
-      "name": "El Remate",
-      "url": "https://open.spotify.com/track/5ACjsEe2LIsR3EeXQ8ln7j"
+      "duration_ms": 189278,
+      "name": "Ba\u00f1o de Ruda",
+      "url": "https://open.spotify.com/track/1RonotN63dWXzprapZyw3w"
     },
     {
       "added_at": null,

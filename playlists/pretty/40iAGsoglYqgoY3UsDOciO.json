@@ -1,12 +1,12 @@
 {
   "description": "A frequently updated playlist with brand-new songs from new &amp;amp; established artists. \ud83e\udd16\ud83d\udeab&#x2F;&#x2F; Cover: $NOT | pitch.playlistd@gmail.com",
-  "num_followers": 581,
+  "num_followers": 586,
   "original_name": "New Music Daily",
   "owner": {
     "name": "Finnster the curator",
     "url": "https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi"
   },
-  "snapshot_id": "AAABdXxQWFnmghg5mg1f1Sbohdt+wkse",
+  "snapshot_id": "AAABeKOoA0qa7VBcOZwGTnIh+5UlMrPE",
   "tracks": [
     {
       "added_at": "2023-07-26 06:40:03",
@@ -8471,6 +8471,54 @@
       "duration_ms": 94244,
       "name": "COMPLICADO",
       "url": "https://open.spotify.com/track/4lu4tVLVkmo85xt060ArxH"
+    },
+    {
+      "added_at": "2026-01-26 20:09:33",
+      "album": {
+        "name": "sinisterIntentions",
+        "url": "https://open.spotify.com/album/6DqZntyUnsK62T91VZqu7N"
+      },
+      "artists": [
+        {
+          "name": "Young Rebillionaire",
+          "url": "https://open.spotify.com/artist/4dbmUc24ekKqfjwbpuGiRx"
+        }
+      ],
+      "duration_ms": 90352,
+      "name": "sinisterIntentions",
+      "url": "https://open.spotify.com/track/145cB9YpyrfsDTGxh3tTOP"
+    },
+    {
+      "added_at": "2026-01-26 20:09:42",
+      "album": {
+        "name": "I Never Listen",
+        "url": "https://open.spotify.com/album/0PJpaD4ZtD1IuFB4a3upz8"
+      },
+      "artists": [
+        {
+          "name": "LMonko",
+          "url": "https://open.spotify.com/artist/224OHndFf8m41yMVW3UMpB"
+        }
+      ],
+      "duration_ms": 100324,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/5CLFupLl2NPAwVl9Q6M7xc"
+    },
+    {
+      "added_at": "2026-01-26 20:09:45",
+      "album": {
+        "name": "Do You Want Me",
+        "url": "https://open.spotify.com/album/7GJrSnO6AcA9MPeKIpfnW2"
+      },
+      "artists": [
+        {
+          "name": "Beau Audio",
+          "url": "https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0"
+        }
+      ],
+      "duration_ms": 130434,
+      "name": "Do You Want Me",
+      "url": "https://open.spotify.com/track/0mPlRoWozVrwoJXKGJ8KV2"
     }
   ],
   "unique_name": "New Music Daily",

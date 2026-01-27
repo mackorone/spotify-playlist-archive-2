@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Natalia Tsupryk",
-  "num_followers": 135314,
+  "num_followers": 135344,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Vanities",
-        "url": "https://open.spotify.com/album/7ePZ3EZLrbIXyms6fc9hJd"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        }
-      ],
-      "duration_ms": 203990,
-      "name": "Lactonic Crush",
-      "url": "https://open.spotify.com/track/78Iq4xyM1OvTDeaagFVtlt"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "Lucid Dreams",
         "url": "https://open.spotify.com/album/1T612bJ0MZhsHIyXX6MZ7A"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 247324,
       "name": "Dance Of The Ghosts",
       "url": "https://open.spotify.com/track/7IZtkfX0jSVlbzVzK88aq8"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "Vanities",
+        "url": "https://open.spotify.com/album/7ePZ3EZLrbIXyms6fc9hJd"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        }
+      ],
+      "duration_ms": 203990,
+      "name": "Lactonic Crush",
+      "url": "https://open.spotify.com/track/78Iq4xyM1OvTDeaagFVtlt"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Redwood Resonance",
-        "url": "https://open.spotify.com/album/5hr45RQZOrpK63LuIP6dgX"
-      },
-      "artists": [
-        {
-          "name": "Dianna Lopez",
-          "url": "https://open.spotify.com/artist/5C7POGyWtwj98P9yaabh4T"
-        }
-      ],
-      "duration_ms": 332000,
-      "name": "Redwood Resonance",
-      "url": "https://open.spotify.com/track/4yyZnLXwIcoAILsFL3OaHr"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "Leave It",
         "url": "https://open.spotify.com/album/3ApfRuo0QxOtf5so9VZCXK"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 326878,
       "name": "Leave It",
       "url": "https://open.spotify.com/track/6gdByDB178DwDJvlwouoGZ"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "Redwood Resonance",
+        "url": "https://open.spotify.com/album/5hr45RQZOrpK63LuIP6dgX"
+      },
+      "artists": [
+        {
+          "name": "Dianna Lopez",
+          "url": "https://open.spotify.com/artist/5C7POGyWtwj98P9yaabh4T"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "Redwood Resonance",
+      "url": "https://open.spotify.com/track/4yyZnLXwIcoAILsFL3OaHr"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -503,22 +503,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Collected Pieces",
-        "url": "https://open.spotify.com/album/3895niIXqzuC7o9NMmG7ao"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 628736,
-      "name": "Wawa by the Ocean",
-      "url": "https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
         "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 287913,
       "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
       "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "Collected Pieces",
+        "url": "https://open.spotify.com/album/3895niIXqzuC7o9NMmG7ao"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 628736,
+      "name": "Wawa by the Ocean",
+      "url": "https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "@0 EP1",
-        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 300747,
-      "name": "Morning Spring",
-      "url": "https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "Impossible Light",
         "url": "https://open.spotify.com/album/1ZwJMEEaBifkdvQl793ek3"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 350968,
       "name": "Endocrine Disruptor",
       "url": "https://open.spotify.com/track/2PF6906ULwsP3InXPZ2gPc"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "@0 EP1",
+        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 300747,
+      "name": "Morning Spring",
+      "url": "https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "RELUCESCO I",
-        "url": "https://open.spotify.com/album/1aTlHOpugpBr2K7IWTb2hg"
-      },
-      "artists": [
-        {
-          "name": "Sarah Pag\u00e9",
-          "url": "https://open.spotify.com/artist/045JYB2I42fQLnNRJQSvdN"
-        }
-      ],
-      "duration_ms": 419549,
-      "name": "RELUCESCO I",
-      "url": "https://open.spotify.com/track/0fRDySUoyDdS1Erd73lztX"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "Memories of Log",
         "url": "https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 400248,
       "name": "Falling Water Lullaby",
       "url": "https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "RELUCESCO I",
+        "url": "https://open.spotify.com/album/1aTlHOpugpBr2K7IWTb2hg"
+      },
+      "artists": [
+        {
+          "name": "Sarah Pag\u00e9",
+          "url": "https://open.spotify.com/artist/045JYB2I42fQLnNRJQSvdN"
+        }
+      ],
+      "duration_ms": 419549,
+      "name": "RELUCESCO I",
+      "url": "https://open.spotify.com/track/0fRDySUoyDdS1Erd73lztX"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -987,26 +987,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Virga (feat. Darlingside)",
-        "url": "https://open.spotify.com/album/4Atmmk5jUaQVGxd0XtvsfG"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Williams",
-          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
-        },
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 382867,
-      "name": "Virga (feat. Darlingside)",
-      "url": "https://open.spotify.com/track/3hhJFk8PZEb0h3aAMbQRcM"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "Deep Listening",
         "url": "https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 1496133,
       "name": "Lear",
       "url": "https://open.spotify.com/track/58tXLPg2DQsrg5ts5CqWrR"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "Virga (feat. Darlingside)",
+        "url": "https://open.spotify.com/album/4Atmmk5jUaQVGxd0XtvsfG"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Williams",
+          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
+        },
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 382867,
+      "name": "Virga (feat. Darlingside)",
+      "url": "https://open.spotify.com/track/3hhJFk8PZEb0h3aAMbQRcM"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Micro Macro",
-        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
-      },
-      "artists": [
-        {
-          "name": "Clariloops",
-          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Absolution",
-      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "Duality Pt 2 Peace",
         "url": "https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 265480,
       "name": "Let Love Be",
       "url": "https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "Micro Macro",
+        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
+      },
+      "artists": [
+        {
+          "name": "Clariloops",
+          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Absolution",
+      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1147,6 +1147,22 @@
       "duration_ms": 360193,
       "name": "Nana (Like A Star Made For Me) - Julianna Barwick remix",
       "url": "https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "OUT I",
+        "url": "https://open.spotify.com/album/0J9olnu3NCQGDgEPQqXaOE"
+      },
+      "artists": [
+        {
+          "name": "Violeta Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ"
+        }
+      ],
+      "duration_ms": 281565,
+      "name": "OUT I",
+      "url": "https://open.spotify.com/track/4jmNHn52MHjuLr6H9J0pBK"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1183,22 +1199,6 @@
       "duration_ms": 183192,
       "name": "Holding Moments",
       "url": "https://open.spotify.com/track/5eKvPgmm9AGChNGQQyKyZs"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
-        "name": "OUT I",
-        "url": "https://open.spotify.com/album/0J9olnu3NCQGDgEPQqXaOE"
-      },
-      "artists": [
-        {
-          "name": "Violeta Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ"
-        }
-      ],
-      "duration_ms": 281565,
-      "name": "OUT I",
-      "url": "https://open.spotify.com/track/4jmNHn52MHjuLr6H9J0pBK"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
+        "name": "O, Dark Mother",
+        "url": "https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6"
+      },
+      "artists": [
+        {
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+        }
+      ],
+      "duration_ms": 331774,
+      "name": "O, Dark Mother",
+      "url": "https://open.spotify.com/track/15JnGovP4ZAh3CWFRhRAYz"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
         "name": "Silence (K Theory Flip)",
         "url": "https://open.spotify.com/album/0XHlfd6piMXgybsdru9HO6"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 158571,
       "name": "Silence - K Theory Flip",
       "url": "https://open.spotify.com/track/0PLxhkXDZk3Cp1kRI8md4q"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
-        "name": "O, Dark Mother",
-        "url": "https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6"
-      },
-      "artists": [
-        {
-          "name": "Masma Dream World",
-          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
-        }
-      ],
-      "duration_ms": 331774,
-      "name": "O, Dark Mother",
-      "url": "https://open.spotify.com/track/15JnGovP4ZAh3CWFRhRAYz"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Healing Is A Miracle - Extended Versions",
-        "url": "https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d"
-      },
-      "artists": [
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 640034,
-      "name": "Inspirit - Extended Version",
-      "url": "https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "PLEASE COME TO ME",
         "url": "https://open.spotify.com/album/3VZPSY3Ep8pU5yksopW1z2"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 344491,
       "name": "Only Wish",
       "url": "https://open.spotify.com/track/6B8AXZ6YJI9xMYrCzb9DbE"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "Healing Is A Miracle - Extended Versions",
+        "url": "https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d"
+      },
+      "artists": [
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 640034,
+      "name": "Inspirit - Extended Version",
+      "url": "https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Sleep",
-        "url": "https://open.spotify.com/album/5PWPXuYf4tFbW09yLqzJed"
-      },
-      "artists": [
-        {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
-        }
-      ],
-      "duration_ms": 229521,
-      "name": "Sleep",
-      "url": "https://open.spotify.com/track/1TnEVTlFobaQCRYIXr1Ctc"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "Tempora",
         "url": "https://open.spotify.com/album/5eKKhjC5MpsgaEACmSD17U"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 482771,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/636q74X2qVCv5fBdE95woF"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/5PWPXuYf4tFbW09yLqzJed"
+      },
+      "artists": [
+        {
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+        }
+      ],
+      "duration_ms": 229521,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/1TnEVTlFobaQCRYIXr1Ctc"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "After its own death / Walking in a spiral towards the house",
-        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
+        "name": "Selected Works II",
+        "url": "https://open.spotify.com/album/7CmKlPQINCMTdeJtQfxEgB"
       },
       "artists": [
         {
-          "name": "Nivhek",
-          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
         }
       ],
-      "duration_ms": 517151,
-      "name": "Walking in a spiral towards the house: Side C",
-      "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
+      "duration_ms": 335402,
+      "name": "A Woman Escapes Cue 4",
+      "url": "https://open.spotify.com/track/74LZ5NilKIbI1Xf9eMpuXz"
     }
   ],
   "unique_name": "Women of Ambient",

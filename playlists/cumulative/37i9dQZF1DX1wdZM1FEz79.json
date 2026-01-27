@@ -132,7 +132,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 247981,
       "name": "40 Something",
       "url": "https://open.spotify.com/track/3Yh8bCr87YilTxwCpUd1gi"
@@ -2425,6 +2425,24 @@
     },
     {
       "album": {
+        "name": "Undercover Miss Hong OST Part.3",
+        "url": "https://open.spotify.com/album/61yVr17ptFdMzkW5CTliOb"
+      },
+      "artists": [
+        {
+          "name": "Jcob (THE BOYZ)",
+          "url": "https://open.spotify.com/artist/6oFeRDy5gmaP90kgHUf2h2"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/1EJ0D4WvCfdU0U0I5T0XaR"
+    },
+    {
+      "album": {
         "name": "Envy you",
         "url": "https://open.spotify.com/album/6rdUdeXkuaPHdZb4igsQ2S"
       },
@@ -4253,6 +4271,24 @@
     },
     {
       "album": {
+        "name": "I wonder",
+        "url": "https://open.spotify.com/album/5sCytTeu47edSY09lW4dKK"
+      },
+      "artists": [
+        {
+          "name": "BAK CHANG GEUN",
+          "url": "https://open.spotify.com/artist/4Gan2DEelDmjPv6jMaSYG9"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228802,
+      "name": "I wonder",
+      "url": "https://open.spotify.com/track/6eD6vxYmarjBHMvh7H16Sj"
+    },
+    {
+      "album": {
         "name": "Let's Eat! 3 (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/535nRzc7dhjietZuqgHfQr"
       },
@@ -4890,7 +4926,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 204181,
       "name": "Jealousy on the Rocks",
       "url": "https://open.spotify.com/track/2WujsWis0VgMAVuvP9GX8i"

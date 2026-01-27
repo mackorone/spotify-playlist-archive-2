@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 84331,
+  "num_followers": 84337,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXQLgAAAAACpPZ4x8DJiqyoYPNp+jkxq",
+  "snapshot_id": "aXVdAAAAAAAIcuH7Brz86G5VRnT8HZpX",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Against The Grain",
-        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+        "name": "Age Of Unreason",
+        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 117333,
-      "name": "Modern Man",
-      "url": "https://open.spotify.com/track/4OPFX9TRHlEz1M5JGCvoiL"
+      "duration_ms": 178449,
+      "name": "My Sanity",
+      "url": "https://open.spotify.com/track/0KNKU0I1iNOydBWTjbfJVx"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Age Of Unreason",
-        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
+        "name": "Against The Grain",
+        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 178449,
-      "name": "My Sanity",
-      "url": "https://open.spotify.com/track/0KNKU0I1iNOydBWTjbfJVx"
+      "duration_ms": 117333,
+      "name": "Modern Man",
+      "url": "https://open.spotify.com/track/4OPFX9TRHlEz1M5JGCvoiL"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Against The Grain",
-        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 141720,
-      "name": "Flat Earth Society",
-      "url": "https://open.spotify.com/track/1Oi1eyyLNTEj7nkWNlW898"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Age Of Unreason",
         "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 177693,
       "name": "Let Them Eat War",
       "url": "https://open.spotify.com/track/0734v426krcGYoB7d3763w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Against The Grain",
+        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 141720,
+      "name": "Flat Earth Society",
+      "url": "https://open.spotify.com/track/1Oi1eyyLNTEj7nkWNlW898"
     },
     {
       "added_at": null,

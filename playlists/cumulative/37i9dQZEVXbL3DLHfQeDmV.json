@@ -724,7 +724,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-26",
+      "date_removed": null,
       "duration_ms": 183517,
       "name": "California Rain",
       "url": "https://open.spotify.com/track/0HjL890CF6dyZIW4EEdxyh"
@@ -1701,6 +1701,24 @@
     },
     {
       "album": {
+        "name": "Velvet Embrace",
+        "url": "https://open.spotify.com/album/3089DTFGUlcMRefJTAsM70"
+      },
+      "artists": [
+        {
+          "name": "Sienna Rose",
+          "url": "https://open.spotify.com/artist/6wq8iklwcF2dj0jtMpPvOJ"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218960,
+      "name": "Falling Slow",
+      "url": "https://open.spotify.com/track/7GIn0rqyXLGXePQJChyzMU"
+    },
+    {
+      "album": {
         "name": "Famous Girl",
         "url": "https://open.spotify.com/album/3mKDWLSxPG9d0qGtXRlsKL"
       },
@@ -1770,6 +1788,28 @@
       "duration_ms": 268519,
       "name": "FEAR",
       "url": "https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz"
+    },
+    {
+      "album": {
+        "name": "Champion Classics (35th Anniversary Album) Part 1 mixed & compiled by StoneBridge",
+        "url": "https://open.spotify.com/album/6KWVViKxrLMGZE3PRbwkJN"
+      },
+      "artists": [
+        {
+          "name": "Kristine W",
+          "url": "https://open.spotify.com/artist/3tY3dHLP0MmkYwPhNVOU0x"
+        },
+        {
+          "name": "Our Tribe",
+          "url": "https://open.spotify.com/artist/6yjXAxk6PPY0a917KobNNu"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328839,
+      "name": "Feel What You Want (2020 Remaster) - Our Tribe Vocal Mix",
+      "url": "https://open.spotify.com/track/0qaLvkeb8ZLN7CB1ReQ6Oi"
     },
     {
       "album": {
@@ -3970,7 +4010,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 196512,
       "name": "Mad About Beckton",
       "url": "https://open.spotify.com/track/38CGhaXyKlyP9qWAdKGeCG"
@@ -4612,7 +4652,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 185786,
       "name": "No Way Back (Feat. So!YoON!)",
       "url": "https://open.spotify.com/track/6u7J7OH56kiN2A7Pfv5D0i"
@@ -7308,7 +7348,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 189880,
       "name": "Where Your Warmth Begins",
       "url": "https://open.spotify.com/track/2SQPpr2F8aSav3ipoZCyc0"

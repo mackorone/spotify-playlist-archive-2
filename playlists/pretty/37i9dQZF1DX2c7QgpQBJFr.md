@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹  cover: fluente
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,642 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,647 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [digiorno](https://open.spotify.com/track/4G7ZLAef0J5VbqxQ4cQwKF) | [fluente](https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9) | [femmina](https://open.spotify.com/album/4oH51jOoRbeLmhk6uLfIUw) | 2:46 |
-| 2 | [Introvabile](https://open.spotify.com/track/1qzPNHULYNqlTDxZoOIytn) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Introvabile](https://open.spotify.com/album/1afcyvrWTSivDef7JDO0ot) | 2:55 |
-| 3 | [Anche a vent’anni si muore](https://open.spotify.com/track/59Awynpg4oFhSwb5F8lQQ1) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Anche a vent’anni si muore](https://open.spotify.com/album/5ia2NfmJrcmFBZcX5GVloM) | 3:40 |
+| 1 | [Introvabile](https://open.spotify.com/track/1qzPNHULYNqlTDxZoOIytn) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Introvabile](https://open.spotify.com/album/1afcyvrWTSivDef7JDO0ot) | 2:55 |
+| 2 | [Anche a vent’anni si muore](https://open.spotify.com/track/59Awynpg4oFhSwb5F8lQQ1) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Anche a vent’anni si muore](https://open.spotify.com/album/5ia2NfmJrcmFBZcX5GVloM) | 3:40 |
+| 3 | [digiorno](https://open.spotify.com/track/4G7ZLAef0J5VbqxQ4cQwKF) | [fluente](https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9) | [femmina](https://open.spotify.com/album/4oH51jOoRbeLmhk6uLfIUw) | 2:46 |
 | 4 | [Canzone D'Amore](https://open.spotify.com/track/0Ufi0vac6DDTUAkgEAkb7B) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Canzone D'Amore](https://open.spotify.com/album/3IgaAZrMsLvmNEuJph8nnA) | 2:45 |
 | 5 | [Facciamo a metà](https://open.spotify.com/track/2PAZ4v3LrSLjEUdE9CAuJP) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [L'amore è tutto](https://open.spotify.com/album/161wzAhcVaxA9SipWiTF6n) | 3:33 |
 | 6 | [Questa domenica](https://open.spotify.com/track/1OzmC9yrffo4samDgOzg27) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Questa domenica](https://open.spotify.com/album/2MAslE3CpEJAIvLG8EW1Gh) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 99 | [Maledetto Ti Amo](https://open.spotify.com/track/2R2J0hUuHHJiMoenqhoaV2) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [MET GALA](https://open.spotify.com/album/4kS1yg2jnfGJEq0cKiZ7rh) | 2:49 |
 | 100 | [quando nessuno ci vede](https://open.spotify.com/track/04QySOhnsckQQbzDRyJXDQ) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [quando nessuno ci vede](https://open.spotify.com/album/7b5L66twDwW0ESfwpFtho8) | 2:48 |
 
-Snapshot ID: `AAAAAJ7WtFNd+XUirFTx7k/rc7UVswUl`
+Snapshot ID: `AAAAADsorvHlGARYP3qCVy7jYlQWDOrH`

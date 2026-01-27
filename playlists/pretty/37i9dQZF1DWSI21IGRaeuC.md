@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring Cam Stockman
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,951 likes - 115 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,989 likes - 115 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 2 | [The Way I Are \- Max Dean Remix](https://open.spotify.com/track/1hl81ThWpsoVYylBPaWedn) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [D.O.E.](https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww), [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [The Way I Are \(Max Dean Remix\)](https://open.spotify.com/album/2PGg01PDpfS5pJqUj7iaEj) | 3:03 |
 | 3 | [Positive](https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB) | [Positive](https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI) | 2:49 |
 | 4 | [The Fix](https://open.spotify.com/track/6Gic5rohR6m7h5869PpIgi) | [Funk Cartel](https://open.spotify.com/artist/5CTZ9x42i9fZmlzm3AEyX0) | [The Fix](https://open.spotify.com/album/2BAJVd0LXR1Lv3niX2o6vC) | 3:00 |
-| 5 | [Back n' Forth](https://open.spotify.com/track/5SLLAmfYuVM5WlOoxFl4Qa) | [Crewcutz](https://open.spotify.com/artist/3wRmWPRKhXTatAYGQUsC4E) | [Back n' Forth](https://open.spotify.com/album/0PjY1JVZYZJeC39YHJgbZV) | 3:37 |
+| 5 | [For The Night](https://open.spotify.com/track/2CHZ0FcivKxDfW0TBfw6ng) | [Mitch Freeman](https://open.spotify.com/artist/3Z9cpCACRQX3FR4DzoFOiG) | [For The Night](https://open.spotify.com/album/2QnJK2my2hW7IMmf4MoLpT) | 4:21 |
 | 6 | [Look Good](https://open.spotify.com/track/6ksxe4Kmq9hdqqti0EFhOk) | [Ethan Walsh](https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT) | [Look Good](https://open.spotify.com/album/71DApqhcYDfibOT9unRwuf) | 2:14 |
 | 7 | [Frequency](https://open.spotify.com/track/65xDnHGrbUPYDcVZxr8swb) | [Beave](https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS) | [Frequency](https://open.spotify.com/album/6yDLLrovlQGJzie4ZPpzsc) | 2:32 |
 | 8 | [Point Zero](https://open.spotify.com/track/76e2lc0sV8N1jLFlw2CS5x) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Point Zero / Lift Me Up](https://open.spotify.com/album/49IPEHPL1alOTzFgXfVTl7) | 3:11 |
-| 9 | [For The Night](https://open.spotify.com/track/2CHZ0FcivKxDfW0TBfw6ng) | [Mitch Freeman](https://open.spotify.com/artist/3Z9cpCACRQX3FR4DzoFOiG) | [For The Night](https://open.spotify.com/album/2QnJK2my2hW7IMmf4MoLpT) | 4:21 |
-| 10 | [Just Be Good To Me](https://open.spotify.com/track/1j2rvXJXrFwzT8JXHTHFFJ) | [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [House FC](https://open.spotify.com/album/26hpMQzEN8ozoQEMythwP0) | 4:19 |
-| 11 | [Touched](https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa) | [Louis Millne](https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb) | [Touched EP](https://open.spotify.com/album/3H8xdwZmthfEKUIFxb29Mu) | 4:02 |
+| 9 | [Just Be Good To Me](https://open.spotify.com/track/1j2rvXJXrFwzT8JXHTHFFJ) | [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [House FC](https://open.spotify.com/album/26hpMQzEN8ozoQEMythwP0) | 4:19 |
+| 10 | [Touched](https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa) | [Louis Millne](https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb) | [Touched EP](https://open.spotify.com/album/3H8xdwZmthfEKUIFxb29Mu) | 4:02 |
+| 11 | [Back n' Forth](https://open.spotify.com/track/5SLLAmfYuVM5WlOoxFl4Qa) | [Crewcutz](https://open.spotify.com/artist/3wRmWPRKhXTatAYGQUsC4E) | [Back n' Forth](https://open.spotify.com/album/0PjY1JVZYZJeC39YHJgbZV) | 3:37 |
 | 12 | [Going To London](https://open.spotify.com/track/3XwNVpJCF4d2yLtXSffnds) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [2025 Archive](https://open.spotify.com/album/2CpaWF7T14pNheIzANE02v) | 4:00 |
 | 13 | [Keep the Crowd Moving \- Radio Edit](https://open.spotify.com/track/4Hbvn1hhO0ccCwrSo4BTBN) | [Boss Priester](https://open.spotify.com/artist/0aut7mlvs8CZUwZKn5e3ZE) | [Keep the Crowd Moving \(Radio Edit\)](https://open.spotify.com/album/775ieS2GBegPteo2qKWGOs) | 3:30 |
 | 14 | [So Fine](https://open.spotify.com/track/3QGO7gVHnSW0vpEaRWO4kT) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM) | [So Fine](https://open.spotify.com/album/6bIDdNvG1xs6fOCoXMDA6m) | 2:28 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 114 | [Baile De Fantome](https://open.spotify.com/track/0q3HI1pBWomC3MiAEciBkF) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Baile De Fantome EP](https://open.spotify.com/album/2nRQyfyyHQL2E69yDNBuWx) | 4:00 |
 | 115 | [I Remember \- Tommy Phillips Remix](https://open.spotify.com/track/5qaBH4UBmWeidfGSQfnW51) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Tommy Phillips](https://open.spotify.com/artist/3Z1hS6haFjSDvQc8TORkIW) | [I Remember \(Tommy Phillips Remix\)](https://open.spotify.com/album/0jkSuitxQSLXjXAkFOJacT) | 3:32 |
 
-Snapshot ID: `AAAAAC+PKABw34Pv1jfMJFAt2mzk4DeT`
+Snapshot ID: `AAAAAAdlePVS8N83F7m7z3Q+Skfj7Cmo`

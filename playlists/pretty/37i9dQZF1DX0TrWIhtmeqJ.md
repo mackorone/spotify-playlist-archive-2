@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: F3miii
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,729 likes - 79 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,731 likes - 79 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 4 | [Black Jeep](https://open.spotify.com/track/3JadDlLa2L3vrGs8DXsWao) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [Black Jeep](https://open.spotify.com/album/0GapUYcDxeItfst1KafpmB) | 1:48 |
 | 5 | [Sofa Joy](https://open.spotify.com/track/2ZRYbR8vVS1utxEtXFmawD) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Feline's Return](https://open.spotify.com/album/2Mk8d4jvxyyNYbVZcY98hR) | 3:44 |
 | 6 | [gotta go](https://open.spotify.com/track/4vemNtc49DTOC9msYE5wge) | [Pozzy](https://open.spotify.com/artist/4QmxfpwoGK3BHPGCfZ3A5G) | [it's all up in the air.](https://open.spotify.com/album/3B3C3UznoLakeONA1ulfbW) | 2:59 |
-| 7 | [12 Car Convoy](https://open.spotify.com/track/5sj2QAjQFAGWXDsIxVEhtP) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [12 CAR CONVOY.](https://open.spotify.com/album/5mjK8j5GD8IfzCyiqhDrWA) | 2:34 |
+| 7 | [12 CAR CONVOY.](https://open.spotify.com/track/5sj2QAjQFAGWXDsIxVEhtP) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [12 CAR CONVOY.](https://open.spotify.com/album/5mjK8j5GD8IfzCyiqhDrWA) | 2:34 |
 | 8 | [rectangles](https://open.spotify.com/track/25roMo7yEbFbyt6vlbUlQ4) | [Pozzy](https://open.spotify.com/artist/4QmxfpwoGK3BHPGCfZ3A5G) | [rectangles](https://open.spotify.com/album/6J3ygrQ3WnVyiQEb6hcQKm) | 2:32 |
 | 9 | [T.O.X.I.C](https://open.spotify.com/track/7v6auYXDg9PW13j184wIZP) | [Twenty'8](https://open.spotify.com/artist/0rQFPuJq7wkvQny90lguiu), [prod\. otis](https://open.spotify.com/artist/2AaJiT6ubwdNcRqDzcXzY2) | [T.O.X.I.C](https://open.spotify.com/album/33GLxYrnocW7ZWqSxMwmUV) | 2:01 |
 | 10 | [the gospel \(as according to tony blair\)](https://open.spotify.com/track/0cH4xuc2UOGWg2wpTxj77y) | [Ceebo](https://open.spotify.com/artist/4wtelmF043mIcSEjNs7wWB) | [blair babies](https://open.spotify.com/album/5o7UOnKJFoPn38FPH4HNZL) | 3:31 |

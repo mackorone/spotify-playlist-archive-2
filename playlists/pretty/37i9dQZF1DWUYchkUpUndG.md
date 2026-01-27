@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Musa Yende
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,857 likes - 97 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,884 likes - 97 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 55 | [Hosanna My Strength](https://open.spotify.com/track/06aYJFw4XACwcNguPJtmpl) | [Broda Harrison](https://open.spotify.com/artist/1Jcdhjzaz05RRGus6usY5t), [Harrys Beatz](https://open.spotify.com/artist/2UJWkw1Fpq7r7ATmS5vNtD) | [Hosanna My Strength](https://open.spotify.com/album/7lf7ow8tLxXuvIzPveTsLs) | 2:39 |
 | 56 | [Wetin Be This](https://open.spotify.com/track/5qJ70ibHlHDPNPQN6ZDmqW) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX), [Jerrywine](https://open.spotify.com/artist/4nw6sgVNWtJA3wiMHEaXYG) | [Wetin Be This](https://open.spotify.com/album/5ieOpoe0d8AhTUXRD1hM0R) | 2:17 |
 | 57 | [Grateful](https://open.spotify.com/track/6LpCFvnMavPbR5mgKIY497) | [Ezekiel Okesola](https://open.spotify.com/artist/1UVWelRHKzIEOm4n6jhTcU), [Wole Isaiah](https://open.spotify.com/artist/7eTXw4sDCHCyWuPVwhmtLp) | [Grateful](https://open.spotify.com/album/2q6qSnyyhcofI7Mqd8I1X3) | 7:20 |
-| 58 | [Security \(Live\) \- Remastered 2025](https://open.spotify.com/track/1KeoH3IklY84R3TD1Tf86x) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Security \(Live\) \[Remastered 2025\]](https://open.spotify.com/album/0N8AxAC0waqHqTMkw6vaIs) | 6:12 |
+| 58 | [Security \(Live\) \- Remix](https://open.spotify.com/track/1KeoH3IklY84R3TD1Tf86x) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Security \(Live\) \[Remix\]](https://open.spotify.com/album/0N8AxAC0waqHqTMkw6vaIs) | 6:12 |
 | 59 | [Cuida](https://open.spotify.com/track/7zeiUtj73H2LPXW8F2f9LH) | [Kid MC](https://open.spotify.com/artist/5BuucVZTsUszJm7SA9HRuX) | [Cuida](https://open.spotify.com/album/4j3YrGhOAJdKAxGDaIylSS) | 3:26 |
 | 60 | [Hymn Medley \(Live\)](https://open.spotify.com/track/7qPLxgv19VhR96AimEDjcI) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0) | [Hymn Medley \(Live\)](https://open.spotify.com/album/5IVjbBCUujAIwoTpILKfGQ) | 10:07 |
 | 61 | [Nagode](https://open.spotify.com/track/3t7kFP4ikfYMFcibr5Focf) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Nagode](https://open.spotify.com/album/6FxOEc0Hc6vzLW7PId77Cu) | 2:54 |

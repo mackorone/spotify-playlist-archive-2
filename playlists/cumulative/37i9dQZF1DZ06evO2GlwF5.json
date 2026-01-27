@@ -962,7 +962,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 332466,
       "name": "Tokei",
       "url": "https://open.spotify.com/track/3kEvtzKpxW6LlwwyG8f8BE"
@@ -2502,6 +2502,24 @@
       "duration_ms": 341373,
       "name": "\u661f\u3068\u661f\u306e\u3042\u3044\u3060 feat. \u4e95\u4e0a\u82b3\u96c4",
       "url": "https://open.spotify.com/track/5HC8y3hscSTp1opwRGwdTc"
+    },
+    {
+      "album": {
+        "name": "\u6642\u8a08",
+        "url": "https://open.spotify.com/album/6vlyRYZQr8p4qV427WCvoB"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332466,
+      "name": "\u6642\u8a08",
+      "url": "https://open.spotify.com/track/1SlsW4Hi7PMimyhuMueUjQ"
     },
     {
       "album": {

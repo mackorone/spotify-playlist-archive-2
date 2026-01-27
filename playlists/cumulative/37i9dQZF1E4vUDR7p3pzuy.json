@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Rob Harrowven, Evil Level Live, JUST LIZZY and more",
+  "description": "With Rob Harrowven, Splitter Conspiracy, Evil Level Live and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -826,7 +826,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 269538,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/66Utp40WE7272VaS384fo8"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 259700,
       "name": "Crashed and Burned",
       "url": "https://open.spotify.com/track/38aguYMaq8u41OSpyhk5UQ"
@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 231231,
       "name": "Deliria",
       "url": "https://open.spotify.com/track/5lLmmiT3mRddBFXBFjMLUF"
@@ -1332,6 +1332,24 @@
       "duration_ms": 230632,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/3BK1JxQdTgK1gMzsFRFJNP"
+    },
+    {
+      "album": {
+        "name": "VII",
+        "url": "https://open.spotify.com/album/23ga2lot03LoNJx7BUtRkj"
+      },
+      "artists": [
+        {
+          "name": "Sister May",
+          "url": "https://open.spotify.com/artist/5F0tJ7xaH82xK4nkT60LEN"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230632,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/40Y5xwUpxzWqTJKOVjfaI5"
     },
     {
       "album": {
@@ -1685,6 +1703,24 @@
     },
     {
       "album": {
+        "name": "Galactic Tides",
+        "url": "https://open.spotify.com/album/5W9fcZZeGA4AZiZOsuyH5R"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n Feeny",
+          "url": "https://open.spotify.com/artist/42s0MlnzsGGGYb7tKbb0cI"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229573,
+      "name": "Galactic Tides",
+      "url": "https://open.spotify.com/track/4iR5tmTE8GsxaH0PjYsJIN"
+    },
+    {
+      "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/4aAyiTpuJbD5ydadcEh2ti"
       },
@@ -1838,7 +1874,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 231000,
       "name": "Got a Letter",
       "url": "https://open.spotify.com/track/4AeTNIe8ncxsCSOiY94JGn"
@@ -1940,7 +1976,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 199709,
       "name": "Happy Song (Single Edit)",
       "url": "https://open.spotify.com/track/5Mu2uPodFAD1WhKfndU9Hx"
@@ -3358,7 +3394,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-25",
+      "date_removed": null,
       "duration_ms": 292800,
       "name": "No Music No Hope",
       "url": "https://open.spotify.com/track/3hDiwWQ2dAzYPq9rPRzvxF"
@@ -3818,7 +3854,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-26",
+      "date_removed": null,
       "duration_ms": 190480,
       "name": "Quiet Ones",
       "url": "https://open.spotify.com/track/3g3i3u2CY5DFNDEc5BNHnH"
@@ -3912,7 +3948,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-25",
+      "date_removed": null,
       "duration_ms": 256777,
       "name": "Red and Gold",
       "url": "https://open.spotify.com/track/0FDQYEOZpOerg4dFVgjvP9"
@@ -4042,7 +4078,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 215250,
       "name": "Say Something - 2025",
       "url": "https://open.spotify.com/track/67OMaD4imBm8uAnZheZ8bD"
@@ -4980,7 +5016,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 234320,
       "name": "Things Have Changed - Radio Edit",
       "url": "https://open.spotify.com/track/0LmikJOYvaLdWcQCZWNHUU"
@@ -5360,7 +5396,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 266853,
       "name": "Wait for a Day",
       "url": "https://open.spotify.com/track/79WwDikRFMbWwdYiW8uvzk"
@@ -5421,6 +5457,24 @@
     },
     {
       "album": {
+        "name": "We Are Coming For You",
+        "url": "https://open.spotify.com/album/1n7VkevSx6n4rQauWwKYm7"
+      },
+      "artists": [
+        {
+          "name": "Delay",
+          "url": "https://open.spotify.com/artist/46VHwOKaivOW3QiEsrayPB"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224664,
+      "name": "We Are Coming For You",
+      "url": "https://open.spotify.com/track/3bjWpL7lhDtUeG2rPuP1gc"
+    },
+    {
+      "album": {
         "name": "Some of It All",
         "url": "https://open.spotify.com/album/37jwnvMWiGTz4LkySSY4oN"
       },
@@ -5472,7 +5526,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 160000,
       "name": "Weaponry",
       "url": "https://open.spotify.com/track/64byd64mWqDoRIjgNFdFXR"
@@ -5588,7 +5642,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-25",
+      "date_removed": null,
       "duration_ms": 196171,
       "name": "Whomever You Need",
       "url": "https://open.spotify.com/track/3CSv43GAVspGJ281rrkb0M"

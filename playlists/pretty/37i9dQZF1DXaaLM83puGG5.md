@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going with <a href="https://www.instagram.com/spiritmas?igsh=MXdkbHZkaDlrdG91dw==">Spirit Mas</a>! Get your tickets for HOME <a href="https://www.mokotickets.com/event/home">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,434 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,423 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

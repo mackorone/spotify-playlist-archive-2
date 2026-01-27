@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Robin Zoot",
+  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: 13Many",
   "name": "Hot Hits \u010cesk\u00e1 republika",
   "tracks": [
     {
@@ -214,6 +214,24 @@
       "duration_ms": 249302,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
+    },
+    {
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
     },
     {
       "album": {
@@ -2288,7 +2306,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 140540,
       "name": "Nem\u00e1m dost",
       "url": "https://open.spotify.com/track/35TaRseWVfrcAtY18K2X8Q"
@@ -2416,6 +2434,28 @@
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
+    {
+      "album": {
+        "name": "BIG PROBLEM",
+        "url": "https://open.spotify.com/album/6NsKlfSL4np64YrQsmSh8R"
+      },
+      "artists": [
+        {
+          "name": "13Many",
+          "url": "https://open.spotify.com/artist/3j3xobDzxD2HDTvHpkZLKi"
+        },
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162462,
+      "name": "N\u00c1S NEZASTAV\u00cd (feat. Hard Rico)",
+      "url": "https://open.spotify.com/track/48l2ey9095iFLzL4MzWiGo"
     },
     {
       "album": {
@@ -3126,7 +3166,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 236800,
       "name": "studen\u00e9 srdce",
       "url": "https://open.spotify.com/track/6GwekXZF2LdRWQ8IebcoQn"

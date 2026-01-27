@@ -340,7 +340,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 145773,
       "name": "Beyond the Trees",
       "url": "https://open.spotify.com/track/14fQdcdoIkXx0Xdga2hFOZ"
@@ -1713,6 +1713,24 @@
     },
     {
       "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/42VPMfRzW2st3wxkRnXFkz"
+      },
+      "artists": [
+        {
+          "name": "Mind Explorer",
+          "url": "https://open.spotify.com/artist/22v0hyVYFwW9gLflr83IF8"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183795,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/0lyWURYgdUo2PB5xsDWctS"
+    },
+    {
+      "album": {
         "name": "Energy Flow",
         "url": "https://open.spotify.com/album/0ZUfjeHh0e0iCjoRDNn7Dm"
       },
@@ -3002,7 +3020,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 146956,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/3hT41wMM3PTDoibR6g86Aa"
@@ -5396,7 +5414,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 159925,
       "name": "Unreality",
       "url": "https://open.spotify.com/track/5HAFJMvMoePbA8UwHCyYnv"

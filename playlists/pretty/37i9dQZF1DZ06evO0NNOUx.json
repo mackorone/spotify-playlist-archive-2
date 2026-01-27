@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 181426,
+  "num_followers": 181561,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXQLgAAAAABPyuolrb40PVld3KQZiAi0",
+  "snapshot_id": "aXVdAAAAAADXk93xSE/EGCKGgxWRiQ6Q",
   "tracks": [
     {
       "added_at": null,
@@ -599,18 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD II (BACK TO BACK)",
-        "url": "https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI"
+        "name": "LEMONADE (FOLK)",
+        "url": "https://open.spotify.com/album/3d30N3D4MZguQ2aAJ0g7MJ"
       },
       "artists": [
+        {
+          "name": "The Figs",
+          "url": "https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF"
+        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 164754,
-      "name": "THROUGH THE NIGHT",
-      "url": "https://open.spotify.com/track/7wxU8ucEqL7Mtf8IBjXdmE"
+      "duration_ms": 183532,
+      "name": "LEMONADE (FOLK)",
+      "url": "https://open.spotify.com/track/6JM6fmIDkRckUrKmnCeT1a"
     },
     {
       "added_at": null,
@@ -631,22 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEMONADE (FOLK)",
-        "url": "https://open.spotify.com/album/3d30N3D4MZguQ2aAJ0g7MJ"
+        "name": "CHILD OF GOD II (BACK TO BACK)",
+        "url": "https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI"
       },
       "artists": [
-        {
-          "name": "The Figs",
-          "url": "https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF"
-        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 183532,
-      "name": "LEMONADE (FOLK)",
-      "url": "https://open.spotify.com/track/6JM6fmIDkRckUrKmnCeT1a"
+      "duration_ms": 164754,
+      "name": "THROUGH THE NIGHT",
+      "url": "https://open.spotify.com/track/7wxU8ucEqL7Mtf8IBjXdmE"
     },
     {
       "added_at": null,
@@ -687,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD II (BACK TO BACK)",
-        "url": "https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 230197,
-      "name": "MISUNDERSTOOD",
-      "url": "https://open.spotify.com/track/1uUNLURuVaDpCbhlTM2IDz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHILD OF GOD (DELUXE)",
         "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 152750,
       "name": "CRAZY",
       "url": "https://open.spotify.com/track/6EAuqHM3lqLmiqqHAiF9Qq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILD OF GOD II (BACK TO BACK)",
+        "url": "https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 230197,
+      "name": "MISUNDERSTOOD",
+      "url": "https://open.spotify.com/track/1uUNLURuVaDpCbhlTM2IDz"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "California Cowboy",
-        "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 151905,
-      "name": "Hey DJ",
-      "url": "https://open.spotify.com/track/6oknlBDl8nwMkmSXWsvViN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHILD OF GOD (DELUXE)",
         "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 181374,
       "name": "ALIVE",
       "url": "https://open.spotify.com/track/7BQQqUAn7arwd5cbifdZcd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "California Cowboy",
+        "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 151905,
+      "name": "Hey DJ",
+      "url": "https://open.spotify.com/track/6oknlBDl8nwMkmSXWsvViN"
     },
     {
       "added_at": null,

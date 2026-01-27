@@ -194,7 +194,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 177777,
       "name": "3NAP",
       "url": "https://open.spotify.com/track/6tW69dfzZ5gxRoCyGI010b"
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 191687,
       "name": "Boldog igaz\u00e1n",
       "url": "https://open.spotify.com/track/335Wifss6mmpkiypUEnsIA"
@@ -1788,7 +1788,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 155750,
       "name": "CSEREPAD",
       "url": "https://open.spotify.com/track/3Mie7Yrg5XVRC7RLqEjL6M"
@@ -2528,7 +2528,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 171368,
       "name": "Eur\u00f3pa",
       "url": "https://open.spotify.com/track/0CEYA0nBjOfObFnTyGLyw0"
@@ -2710,6 +2710,24 @@
       "duration_ms": 147000,
       "name": "Fekete p\u00f3l\u00f3",
       "url": "https://open.spotify.com/track/5IqwixOifT0Rz6xT8OUDos"
+    },
+    {
+      "album": {
+        "name": "Fekete T\u00f6vis",
+        "url": "https://open.spotify.com/album/2aLawcOVCNy0g2CHMjqMPl"
+      },
+      "artists": [
+        {
+          "name": "P\u00e1pai Joci",
+          "url": "https://open.spotify.com/artist/1xYRrfmh7NjIUY6XuJhvVm"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Fekete T\u00f6vis",
+      "url": "https://open.spotify.com/track/1QvUOhJ3uEGL3R0dxRxCmL"
     },
     {
       "album": {
@@ -3728,7 +3746,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 183296,
       "name": "HOL A P\u00c9NZEM - Refreshed",
       "url": "https://open.spotify.com/track/0j0WwR1sDRxvnfDJFfjAk1"
@@ -4380,7 +4398,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 154571,
       "name": "J\u00e9gsz\u00edv\u0171 l\u00e1ny",
       "url": "https://open.spotify.com/track/167o6hXLQAvk4b4R6kXh3U"
@@ -4726,7 +4744,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 178666,
       "name": "kir\u00e1ly a t\u00e1rc\u00e1mban",
       "url": "https://open.spotify.com/track/6qAf9vKHyWrtan7Gooy3Dw"
@@ -4874,7 +4892,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 157688,
       "name": "LEV\u00c9L",
       "url": "https://open.spotify.com/track/1wYyJvMvmVUpCi7MA41HB8"
@@ -5653,6 +5671,28 @@
     },
     {
       "album": {
+        "name": "mindig szomor\u00fa",
+        "url": "https://open.spotify.com/album/55JbMGfwZBDXVTU73vA2V7"
+      },
+      "artists": [
+        {
+          "name": "cserihanna",
+          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
+        },
+        {
+          "name": "Bark\u00f3czi No\u00e9mi",
+          "url": "https://open.spotify.com/artist/5adSMdxhX0VhydAkpiaOSc"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "mindig szomor\u00fa",
+      "url": "https://open.spotify.com/track/1SiknHrLImQSDrI8wskLva"
+    },
+    {
+      "album": {
         "name": "Minek Feln\u0151ni",
         "url": "https://open.spotify.com/album/5CxZ57xEKkRmsH4PwrvpyW"
       },
@@ -6032,6 +6072,28 @@
       "duration_ms": 174691,
       "name": "Naplemente",
       "url": "https://open.spotify.com/track/6JAzGbu68HThRHdjJSFsDC"
+    },
+    {
+      "album": {
+        "name": "Ne s\u00edrj\u00e1l \u00e9rtem any\u00e1m",
+        "url": "https://open.spotify.com/album/7JmxHAwfDNgGYz2i3i9PvI"
+      },
+      "artists": [
+        {
+          "name": "Parno Graszt",
+          "url": "https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL"
+        },
+        {
+          "name": "D\u00c1NIELFY",
+          "url": "https://open.spotify.com/artist/4imSxhDqtkiuKUamV1AL2l"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209805,
+      "name": "Ne s\u00edrj\u00e1l \u00e9rtem any\u00e1m",
+      "url": "https://open.spotify.com/track/4LPTriHOHMluOh2M4Gl5Vw"
     },
     {
       "album": {
@@ -6940,7 +7002,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 185783,
       "name": "POKOL",
       "url": "https://open.spotify.com/track/7lIfQpi27wkoNeNJ6qtt3p"
@@ -7256,6 +7318,28 @@
       "duration_ms": 150714,
       "name": "Rabmad\u00e1r - Remix",
       "url": "https://open.spotify.com/track/52sdW6IuaiLVRDtxKXucUN"
+    },
+    {
+      "album": {
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219743,
+      "name": "Raindance (feat. Tems)",
+      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
       "album": {
@@ -7596,7 +7680,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 184663,
       "name": "R\u00e1ntott sajt",
       "url": "https://open.spotify.com/track/09O7MNRhjnY2MXZeJd6ldR"
@@ -7820,7 +7904,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 170000,
       "name": "SENKI NEM SZ\u00d3L R\u00c1NK",
       "url": "https://open.spotify.com/track/2vE3ycwf1fDcPt5v8RykaT"
@@ -9180,7 +9264,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 151636,
       "name": "tulip\u00e1n tetk\u00f3",
       "url": "https://open.spotify.com/track/4ZIyiu3vckFHjAHbXgSvNP"

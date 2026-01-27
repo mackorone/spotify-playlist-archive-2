@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover:  Lupambo",
-  "num_followers": 240698,
+  "num_followers": 240715,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -487,26 +487,6 @@
     {
       "added_at": "2026-01-23 00:00:36",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/2Y3M8GGPlGUR6zT0Rm8Fkr"
-      },
-      "artists": [
-        {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
-        },
-        {
-          "name": "Noninho Navarro",
-          "url": "https://open.spotify.com/artist/4Upsc5DYZ209aRDVIAgbrm"
-        }
-      ],
-      "duration_ms": 199396,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/2OTVKuQcr2PnW2O1b99WJL"
-    },
-    {
-      "added_at": "2026-01-23 00:00:36",
-      "album": {
         "name": "Lobo da Labo",
         "url": "https://open.spotify.com/album/2ZFqRM7JIZZWT1awS0NQZ9"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 183396,
       "name": "Boss",
       "url": "https://open.spotify.com/track/7KvpAuRJ0Mk7V69FR5578v"
+    },
+    {
+      "added_at": "2026-01-23 00:00:36",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2Y3M8GGPlGUR6zT0Rm8Fkr"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        },
+        {
+          "name": "Noninho Navarro",
+          "url": "https://open.spotify.com/artist/4Upsc5DYZ209aRDVIAgbrm"
+        }
+      ],
+      "duration_ms": 199396,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2OTVKuQcr2PnW2O1b99WJL"
     },
     {
       "added_at": "2026-01-23 00:00:36",
@@ -643,26 +643,6 @@
     {
       "added_at": "2026-01-23 00:00:36",
       "album": {
-        "name": "BONITO (feat. Nelson Freitas)",
-        "url": "https://open.spotify.com/album/1ouBXmHjEBEgOapQFI7BBI"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        },
-        {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        }
-      ],
-      "duration_ms": 166588,
-      "name": "BONITO (feat. Nelson Freitas)",
-      "url": "https://open.spotify.com/track/1H9KcHMX76G2CmcxpQKjR5"
-    },
-    {
-      "added_at": "2026-01-23 00:00:36",
-      "album": {
         "name": "Mawa",
         "url": "https://open.spotify.com/album/19CtRy9IijP7sPMIhlW2ul"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 174000,
       "name": "Mawa",
       "url": "https://open.spotify.com/track/5bXvjd7qb3DTgEiHgxPMZH"
+    },
+    {
+      "added_at": "2026-01-23 00:00:36",
+      "album": {
+        "name": "BONITO (feat. Nelson Freitas)",
+        "url": "https://open.spotify.com/album/1ouBXmHjEBEgOapQFI7BBI"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        },
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        }
+      ],
+      "duration_ms": 166588,
+      "name": "BONITO (feat. Nelson Freitas)",
+      "url": "https://open.spotify.com/track/1H9KcHMX76G2CmcxpQKjR5"
     },
     {
       "added_at": "2026-01-23 00:00:36",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-01-23 00:00:36",
       "album": {
+        "name": "Magui",
+        "url": "https://open.spotify.com/album/3RU3fQ1GCm1o4tpWviIUrf"
+      },
+      "artists": [
+        {
+          "name": "Matias Dam\u00e1sio",
+          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
+        }
+      ],
+      "duration_ms": 217853,
+      "name": "Magui",
+      "url": "https://open.spotify.com/track/63DKLdGdgOCxrf8oIPbKnb"
+    },
+    {
+      "added_at": "2026-01-23 00:00:36",
+      "album": {
         "name": "Bom Dia",
         "url": "https://open.spotify.com/album/5yMkVXNyaa2AA9RqDuAqzX"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 195529,
       "name": "Bom Dia",
       "url": "https://open.spotify.com/track/0I2KjbYEBm2mE8Dc9KbIYB"
-    },
-    {
-      "added_at": "2026-01-23 00:00:36",
-      "album": {
-        "name": "Magui",
-        "url": "https://open.spotify.com/album/3RU3fQ1GCm1o4tpWviIUrf"
-      },
-      "artists": [
-        {
-          "name": "Matias Dam\u00e1sio",
-          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
-        }
-      ],
-      "duration_ms": 217853,
-      "name": "Magui",
-      "url": "https://open.spotify.com/track/63DKLdGdgOCxrf8oIPbKnb"
     },
     {
       "added_at": "2026-01-23 00:00:36",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-01-23 00:00:36",
       "album": {
-        "name": "\u00c9s S\u00f3 Tu",
-        "url": "https://open.spotify.com/album/7j7Wms0KNvccZAR7LQbUaz"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 174174,
-      "name": "\u00c9s S\u00f3 Tu",
-      "url": "https://open.spotify.com/track/6iPtPVekBPpDc3okcrpreo"
-    },
-    {
-      "added_at": "2026-01-23 00:00:36",
-      "album": {
         "name": "Nha Preta",
         "url": "https://open.spotify.com/album/1Bq46oN238vBDzOl6VHUza"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 236000,
       "name": "Nha Preta",
       "url": "https://open.spotify.com/track/0JjHBA5DGZx80PS6TMuzAp"
+    },
+    {
+      "added_at": "2026-01-23 00:00:36",
+      "album": {
+        "name": "\u00c9s S\u00f3 Tu",
+        "url": "https://open.spotify.com/album/7j7Wms0KNvccZAR7LQbUaz"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 174174,
+      "name": "\u00c9s S\u00f3 Tu",
+      "url": "https://open.spotify.com/track/6iPtPVekBPpDc3okcrpreo"
     },
     {
       "added_at": "2026-01-23 00:00:36",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2026-01-23 00:00:36",
       "album": {
-        "name": "N\u00e3o Me Importa",
-        "url": "https://open.spotify.com/album/2TNkYEnb4blSgibisFfSUE"
-      },
-      "artists": [
-        {
-          "name": "Afro Connexion",
-          "url": "https://open.spotify.com/artist/0JruE4kOBZvm512ggXVwkD"
-        },
-        {
-          "name": "Tommy Guitar",
-          "url": "https://open.spotify.com/artist/4ryhVAm919tcFgnws5ddti"
-        }
-      ],
-      "duration_ms": 195417,
-      "name": "N\u00e3o Me Importa",
-      "url": "https://open.spotify.com/track/25kY6gmdHHbBNaMFvu2pnP"
-    },
-    {
-      "added_at": "2026-01-23 00:00:36",
-      "album": {
         "name": "Vida Linda",
         "url": "https://open.spotify.com/album/7dB9tIZsUxMfgyeWgUGCkH"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 175346,
       "name": "Vida Linda",
       "url": "https://open.spotify.com/track/6PFCS07ThHLVYlOM5LeJFP"
+    },
+    {
+      "added_at": "2026-01-23 00:00:36",
+      "album": {
+        "name": "N\u00e3o Me Importa",
+        "url": "https://open.spotify.com/album/2TNkYEnb4blSgibisFfSUE"
+      },
+      "artists": [
+        {
+          "name": "Afro Connexion",
+          "url": "https://open.spotify.com/artist/0JruE4kOBZvm512ggXVwkD"
+        },
+        {
+          "name": "Tommy Guitar",
+          "url": "https://open.spotify.com/artist/4ryhVAm919tcFgnws5ddti"
+        }
+      ],
+      "duration_ms": 195417,
+      "name": "N\u00e3o Me Importa",
+      "url": "https://open.spotify.com/track/25kY6gmdHHbBNaMFvu2pnP"
     },
     {
       "added_at": "2026-01-23 00:00:36",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2026-01-23 00:00:36",
       "album": {
-        "name": "\u00c9 MEMO ESSE",
-        "url": "https://open.spotify.com/album/1qoPmHhWMokEMlexO3nY0P"
-      },
-      "artists": [
-        {
-          "name": "C4 Pedro",
-          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
-        },
-        {
-          "name": "Telminho",
-          "url": "https://open.spotify.com/artist/2PiR7s9Qe7ZB0gWcjKc9d1"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "\u00c9 MEMO ESSE",
-      "url": "https://open.spotify.com/track/6y6f8Vo7ZAFaUkq4w4jjaO"
-    },
-    {
-      "added_at": "2026-01-23 00:00:36",
-      "album": {
         "name": "Versos & Poesias #7: Onda Passageira",
         "url": "https://open.spotify.com/album/1c5RGsct11j9rxqi6BBlxA"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 424716,
       "name": "Versos & Poesias #7: Onda Passageira",
       "url": "https://open.spotify.com/track/4KAn1ENtf2U6bqyF5Mpoaj"
+    },
+    {
+      "added_at": "2026-01-23 00:00:36",
+      "album": {
+        "name": "\u00c9 MEMO ESSE",
+        "url": "https://open.spotify.com/album/1qoPmHhWMokEMlexO3nY0P"
+      },
+      "artists": [
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        },
+        {
+          "name": "Telminho",
+          "url": "https://open.spotify.com/artist/2PiR7s9Qe7ZB0gWcjKc9d1"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "\u00c9 MEMO ESSE",
+      "url": "https://open.spotify.com/track/6y6f8Vo7ZAFaUkq4w4jjaO"
     },
     {
       "added_at": "2026-01-23 00:00:36",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2026-01-23 00:00:36",
       "album": {
-        "name": "Borboleta",
-        "url": "https://open.spotify.com/album/6gophRB4MNtz8N76v5RLnI"
-      },
-      "artists": [
-        {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
-        }
-      ],
-      "duration_ms": 200976,
-      "name": "Borboleta",
-      "url": "https://open.spotify.com/track/21a6vJwFlcR20It6ZGLQGa"
-    },
-    {
-      "added_at": "2026-01-23 00:00:36",
-      "album": {
         "name": "T\u00e1 Na Moda",
         "url": "https://open.spotify.com/album/5hyonNjyw1rM4AWPkOAsDX"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 151423,
       "name": "T\u00e1 Na Moda",
       "url": "https://open.spotify.com/track/3jJlb1Q5xrZjcCVhf1UnJP"
+    },
+    {
+      "added_at": "2026-01-23 00:00:36",
+      "album": {
+        "name": "Borboleta",
+        "url": "https://open.spotify.com/album/6gophRB4MNtz8N76v5RLnI"
+      },
+      "artists": [
+        {
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+        }
+      ],
+      "duration_ms": 200976,
+      "name": "Borboleta",
+      "url": "https://open.spotify.com/track/21a6vJwFlcR20It6ZGLQGa"
     },
     {
       "added_at": "2026-01-23 00:00:36",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2026-01-23 00:00:36",
       "album": {
-        "name": "Mentira",
-        "url": "https://open.spotify.com/album/1k39SuSj88m1zPHwdSKj8h"
-      },
-      "artists": [
-        {
-          "name": "Jey V",
-          "url": "https://open.spotify.com/artist/02aXxScVRfbF0xFjGvi1mu"
-        }
-      ],
-      "duration_ms": 195610,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/6Zn0rZeWpHTPLVGGXZbMnB"
-    },
-    {
-      "added_at": "2026-01-23 00:00:36",
-      "album": {
         "name": "TROMPETE",
         "url": "https://open.spotify.com/album/6xGbYgroEdQLyEMdSeQqeS"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 211584,
       "name": "Buqu\u00ea",
       "url": "https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7"
+    },
+    {
+      "added_at": "2026-01-23 00:00:36",
+      "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/1k39SuSj88m1zPHwdSKj8h"
+      },
+      "artists": [
+        {
+          "name": "Jey V",
+          "url": "https://open.spotify.com/artist/02aXxScVRfbF0xFjGvi1mu"
+        }
+      ],
+      "duration_ms": 195610,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/6Zn0rZeWpHTPLVGGXZbMnB"
     }
   ],
   "unique_name": "Dancing Kizomba",

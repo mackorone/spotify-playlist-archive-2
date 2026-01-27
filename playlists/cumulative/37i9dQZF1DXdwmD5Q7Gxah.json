@@ -18723,6 +18723,24 @@
     },
     {
       "album": {
+        "name": "Even Mountains Erode / Heaven2",
+        "url": "https://open.spotify.com/album/1EwoSCmnicLldfw3IXW9Su"
+      },
+      "artists": [
+        {
+          "name": "Lala Lala",
+          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Even Mountains Erode",
+      "url": "https://open.spotify.com/track/58kHTh4O40lBfpVAZNdaAW"
+    },
+    {
+      "album": {
         "name": "Even When The Sun is Dead",
         "url": "https://open.spotify.com/album/0aIrTtrBqrEHggWVEtErqb"
       },
@@ -29306,7 +29324,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 188256,
       "name": "I Punched Through The Wall",
       "url": "https://open.spotify.com/track/49lYeNtjK2w2gErCYz2ljk"

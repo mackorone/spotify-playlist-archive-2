@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-769 songs - 1 day 20 hr 5 min
+774 songs - 1 day 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Head Things](https://open.spotify.com/track/5LNndZWKlI8pB5xLMn6rko) | [Verticoli](https://open.spotify.com/artist/6i3DIimW7UJE7I5sVu0bTq) | [Punching Bag](https://open.spotify.com/album/5duz8Sa8pdhJIQ9p00DpBU) | 2:55 | 2025-10-23 | 2025-12-10 |
 | [HEADHUNTER GIRL](https://open.spotify.com/track/3kKvRp3asw5ZNBUPluQDV0) | [DWoods](https://open.spotify.com/artist/4Vw1sn9EvRXvRkrIqGwXIC), [Joe Elbee](https://open.spotify.com/artist/5CzGcbfWrYyTO6T2dqmOom), [Daniel King](https://open.spotify.com/artist/3SoXaUfrWUM1DZJJC3ws9P) | [TORN DOWN](https://open.spotify.com/album/2x5Bz3uIQ0iZt9rwlTCq8k) | 3:21 | 2025-12-08 | 2026-01-06 |
 | [Headrush](https://open.spotify.com/track/0YfyjWkn6cAvWXokmeu77R) | [Lunar Chain](https://open.spotify.com/artist/6esnKS6lev7QYCZAL0y8bW) | [Headrush](https://open.spotify.com/album/1xawMxWDShlnHZgENk0Y5W) | 3:25 | 2025-12-26 |  |
+| [Hel](https://open.spotify.com/track/0mYseVaf4nUrUY68qlSKMW) | [Soundgrinder](https://open.spotify.com/artist/2wh9ymLvwhoOrAmBhY1Jvp) | [Augnaráð til Ásgarðs](https://open.spotify.com/album/3IOL48MomV7VcUR31jj0P6) | 5:48 | 2026-01-26 |  |
 | [Hell in Me](https://open.spotify.com/track/6l2vpMomP0oYkyrgru539R) | [Diametral](https://open.spotify.com/artist/0fb1AtENNaAJXuxlCyRHnd) | [Hell in Me](https://open.spotify.com/album/5CAmQ0mNQ4y01QF3AK7hbg) | 4:31 | 2025-11-27 | 2025-12-24 |
 | [Hello You](https://open.spotify.com/track/58Mps9U6HpzFBzIm6FvVYu) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [Nothing To Say](https://open.spotify.com/album/5NeEmefGoLWrjXzzKrU7dF) | 2:14 | 2025-08-03 |  |
 | [Hello, Beautiful](https://open.spotify.com/track/231rZMis3ipEk8M7UPFPYd) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [LOUD NOISES](https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM) | 5:45 | 2025-08-03 |  |
@@ -298,6 +299,7 @@
 | [Holder Meg På Toppen](https://open.spotify.com/track/71pkN9tahoUcvZt3z2oatt) | [DJ Lampe](https://open.spotify.com/artist/4wB8qI42VP5vR3J41lerWX), [Pinned Comment](https://open.spotify.com/artist/7qGO6E5AG3eiCwdeop9VpV) | [Holder Meg På Toppen](https://open.spotify.com/album/0L7YfEH6Fh67ZbqQyq4WEe) | 2:30 | 2026-01-03 | 2026-01-22 |
 | [Hole](https://open.spotify.com/track/7E1lQnTyKkUVWLMysiAomV) | [Black Reuss](https://open.spotify.com/artist/1XOqNj1Cvo0DtJUv7TGa6R) | [Journey](https://open.spotify.com/album/7zcZjxKJPjtnwlaxfWPAKA) | 4:20 | 2025-10-27 | 2025-12-10 |
 | [Hollow](https://open.spotify.com/track/0uhGLwuCMClw1JXDj6HXTb) | [Sunkeeper](https://open.spotify.com/artist/7fzEHUb9cy0LIwlWXMZfUY) | [Hollow](https://open.spotify.com/album/0RVddq3xxMv7nyMPX7sMiP) | 4:12 | 2026-01-14 |  |
+| [Hollow Sun](https://open.spotify.com/track/7pR4pIdtqjey4YdfGzQMZx) | [Tyson Dickert](https://open.spotify.com/artist/7DzMrRXO3rUkDzR32YaB2p) | [Hollow Sun](https://open.spotify.com/album/1LnVYOaVOONBK3Cl8wCs5n) | 5:06 | 2026-01-26 |  |
 | [Homework Forever](https://open.spotify.com/track/5EBAcYsLz8yVFBjzNirEt7) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Homework Forever](https://open.spotify.com/album/4ZV5lF2tPgdP36xQH1lLSQ) | 2:56 | 2025-12-23 | 2026-01-22 |
 | [Hungry For The Prize \- Edit](https://open.spotify.com/track/1CH36VOisDb0vdW3Q8XBxI) | [KEELEY](https://open.spotify.com/artist/5H98N76pS5eRu8bWuh2ric) | [Hungry For The Prize \(Edit\)](https://open.spotify.com/album/5C7g4RQ8nKPHu3tFZBB86G) | 4:08 | 2026-01-24 |  |
 | [I Am The Reckoning](https://open.spotify.com/track/5rl2DsX3ILgGuy9i4dZ4vn) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [I Am The Reckoning](https://open.spotify.com/album/6RgkFI8kvfCWuWeRifJLEP) | 3:49 | 2025-12-15 | 2026-01-06 |
@@ -345,6 +347,7 @@
 | [Iza Bella](https://open.spotify.com/track/2m33TemOMBEDzRpw1TsLhd) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Haze](https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn) | 3:24 | 2025-11-21 | 2025-12-10 |
 | [J'veux sniffer d'la colle maintenant](https://open.spotify.com/track/6IRB61HiZQbpzEE96krGh9) | [RIPÉ](https://open.spotify.com/artist/25l7DdTgRMz1LnUqDULsad) | [Zoo 10](https://open.spotify.com/album/14TfT3BbStPjflfqqqIGbV) | 1:34 | 2025-12-23 | 2026-01-24 |
 | [Jack Knife](https://open.spotify.com/track/3JtUFvdXBL4HCYKcT1FkIb) | [New Dawn Temple](https://open.spotify.com/artist/7et3VECrETlysOEp6RrPIj) | [Jack Knife](https://open.spotify.com/album/631Lc5z3nO9T7M0GUIwdxv) | 3:18 | 2026-01-06 |  |
+| [Jaded Son](https://open.spotify.com/track/7Bbg46bDdlb4wmbmRiKWfJ) | [Bandana Sons](https://open.spotify.com/artist/5ZtCpzKBvWl7hr0RijnrUH) | [Jaded Son](https://open.spotify.com/album/4ynwas1gNy3V0ydmgvIBEg) | 5:10 | 2026-01-26 |  |
 | [JinXXX](https://open.spotify.com/track/2grH4gOFNCt6mbV1e2TVyt) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 5:18 | 2025-09-16 |  |
 | [Just A Normal Kid](https://open.spotify.com/track/2dTl4AJExRokk6n9Ne5gNx) | [The Borough](https://open.spotify.com/artist/4FyzVfbimb2frgwzpe3mJg) | [Contradictions](https://open.spotify.com/album/1HLDzOH302g8hagglm769G) | 4:10 | 2025-12-15 | 2026-01-22 |
 | [Just Like My Cigarette](https://open.spotify.com/track/0We3cwg2ldHPYxi4pzZp1U) | [The Attached Outsiders](https://open.spotify.com/artist/2ODLB4yIO5qLuSD3H33nVs) | [Just Like My Cigarette](https://open.spotify.com/album/25UGBCpbNS7MZuRu7GXc8U) | 6:38 | 2025-11-23 | 2025-12-24 |
@@ -422,6 +425,7 @@
 | [misfit](https://open.spotify.com/track/3cZGoKYmu86ATSBA2uBNYr) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [misfit](https://open.spotify.com/album/05LVSFM0UJf9sGSfD81cOo) | 4:01 | 2025-12-27 | 2026-01-22 |
 | [MMA Rooky](https://open.spotify.com/track/4X3UDaLkq8RpXhSiClheX0) | [32 Ohm](https://open.spotify.com/artist/1vgzRUPEZ8l3fszpEET43S) | [MMA Rooky](https://open.spotify.com/album/5rMyxWrIEFLf8boJPLa5PU) | 3:05 | 2025-11-10 | 2026-01-06 |
 | [Mod 3 \- Hardspace Mix](https://open.spotify.com/track/3m5v1XHf8K1QPL6vwPJxcT) | [dubspeeka](https://open.spotify.com/artist/5dWCjjvY1CC0flR91Fatsi), [Hardspace](https://open.spotify.com/artist/5oI2WY5wdZNuEl7mKOxqPz), [Len Faki](https://open.spotify.com/artist/3fI3Z6NnYoeSQjcqPQDbM4) | [H005](https://open.spotify.com/album/51loR7mAxktMYS3084VSnt) | 5:57 | 2026-01-12 |  |
+| [Monkey business](https://open.spotify.com/track/3mwu3BZI4IdscN75HqRMDq) | [Black Albino](https://open.spotify.com/artist/0dbkMULRQRMASdSu2xIssb) | [Monkey business](https://open.spotify.com/album/0w3VzPSFsWYGkYxOn1uIUF) | 2:21 | 2026-01-26 |  |
 | [More Yeah Yeahs \(Reprise\)](https://open.spotify.com/track/52xUY06GCYvmErno04HAUZ) | [Supercobra](https://open.spotify.com/artist/4LbNYssAfDd0Boqpnolt7x) | [Nothing But Lies](https://open.spotify.com/album/3kdG4q8MJWNG7nX65TMGav) | 3:03 | 2026-01-06 |  |
 | [Mosh Pit](https://open.spotify.com/track/4Altxk4i8D6xIdkuySj5UO) | [Angelo](https://open.spotify.com/artist/1jBGWZRphBTMVcPLjxEuzC) | [Hellhound](https://open.spotify.com/album/0thfiUsL5V6uRLFA9bIOMj) | 2:14 | 2025-11-16 | 2025-12-10 |
 | [Mountain](https://open.spotify.com/track/2A2pYqIPyE3GWk0KvtFrfd) | [Gaijin Smash](https://open.spotify.com/artist/4sYkX5HPSjeZARJQQeS5Nk) | [Mountain](https://open.spotify.com/album/3qzYcQe196bG9Ec12M6qxs) | 3:58 | 2026-01-15 |  |
@@ -522,6 +526,7 @@
 | [Real Woman \(Alternate Mix\)](https://open.spotify.com/track/4TsFSZhRCJfNc1bgkFdz2b) | [Dan Tanas](https://open.spotify.com/artist/2yzyxkgMmo3NHftdGfhXui) | [Real Woman \(Alternate Mix\)](https://open.spotify.com/album/3qeJzn5YhNZmyXk0gi5Yh6) | 5:12 | 2026-01-15 |  |
 | [Red Light, Danger!](https://open.spotify.com/track/62y4Ymu5RGcFzl9VyjWe2N) | [The Borough](https://open.spotify.com/artist/4FyzVfbimb2frgwzpe3mJg) | [Red Light, Danger!](https://open.spotify.com/album/29CA8Ld2mCKoeazUqbdCOO) | 4:05 | 2026-01-01 | 2026-01-22 |
 | [Red On You](https://open.spotify.com/track/1NqEnJemvYdbGsFlYDNTgq) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 2:33 | 2025-08-03 |  |
+| [Regular Piece Of Shit](https://open.spotify.com/track/27zQNRkLR1kfhIuyfTcMic) | [Hugo Daniel](https://open.spotify.com/artist/4glxVBzWyLru4qpAJh0weA) | [Regular Piece Of Shit](https://open.spotify.com/album/6B5lAhbdRmNihTZ2OqZd9e) | 2:43 | 2026-01-26 |  |
 | [Reloaded](https://open.spotify.com/track/6cvpx4nJPQ9JcX4OmAWjM7) | [K.W.E.S.I.](https://open.spotify.com/artist/1JQNmDKu1o2W8MPGDnBiCy) | [SHEESH!](https://open.spotify.com/album/3GuFTVum5qr45HkbPtveqx) | 2:06 | 2025-11-07 | 2025-12-10 |
 | [Reluctantly Obedient](https://open.spotify.com/track/16sJgOaLZvcOwdM7H30vfz) | [Dazed Pilots](https://open.spotify.com/artist/0fEDLTnhPxRCSUUVwWIjjV) | [Here's to Me EP](https://open.spotify.com/album/19UnyRigrkHVXvLMYqMDz7) | 2:11 | 2026-01-15 |  |
 | [Remember Lady](https://open.spotify.com/track/4BO9dmX7Yuh5gF9vA1KWW8) | [Slothy Toves](https://open.spotify.com/artist/3qtPhXbUx1XkBZVnY9vdxp) | [Let's Greet the Sunrise](https://open.spotify.com/album/5XlQowlA1XmId9UjzxhS4K) | 3:15 | 2025-12-01 | 2025-12-24 |

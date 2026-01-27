@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1191,
+  "num_followers": 1203,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAPs888oom9JPAJStIvJxVDQp2HNamH",
+  "snapshot_id": "AAAPzp4f1wXtxrLZtMMQmhFNRGtSZ8Nb",
   "tracks": [
     {
       "added_at": "2026-01-15 08:27:53",
@@ -105,6 +105,22 @@
       "url": "https://open.spotify.com/track/7yxTfhAdHajAjEZD6Vin5V"
     },
     {
+      "added_at": "2026-01-26 12:00:59",
+      "album": {
+        "name": "Rugido na Estrada",
+        "url": "https://open.spotify.com/album/1r76L7sEgHPZtRBRXT4apm"
+      },
+      "artists": [
+        {
+          "name": "De Santtis",
+          "url": "https://open.spotify.com/artist/2HnzHLy6N3v8egi2chpYmN"
+        }
+      ],
+      "duration_ms": 174999,
+      "name": "Rugido na Estrada",
+      "url": "https://open.spotify.com/track/3FTaWZD7qUbb6ScM9YjbG1"
+    },
+    {
       "added_at": "2026-01-16 08:00:20",
       "album": {
         "name": "Julience",
@@ -183,22 +199,6 @@
       "duration_ms": 143125,
       "name": "YOU SHOULD KNOW",
       "url": "https://open.spotify.com/track/0sPPHtsOUhgGZP7vC366rP"
-    },
-    {
-      "added_at": "2026-01-11 12:26:03",
-      "album": {
-        "name": "Shiny Silvery Things",
-        "url": "https://open.spotify.com/album/7x9gKK4KX0B1Vg7zJXv41k"
-      },
-      "artists": [
-        {
-          "name": "Cormac O Caoimh",
-          "url": "https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Second Hand Clothes",
-      "url": "https://open.spotify.com/track/19fycOjyjBShEGCCq7c7ZU"
     },
     {
       "added_at": "2026-01-12 20:47:31",
@@ -341,6 +341,38 @@
       "url": "https://open.spotify.com/track/0c5W6OR57xVOkeqAnhWron"
     },
     {
+      "added_at": "2026-01-26 17:38:25",
+      "album": {
+        "name": "you accommodate my apprehensions",
+        "url": "https://open.spotify.com/album/4Hse10Gucm3iSkrBWUUpCT"
+      },
+      "artists": [
+        {
+          "name": "pato",
+          "url": "https://open.spotify.com/artist/287WS6RoocMlJfeVu5GiCg"
+        }
+      ],
+      "duration_ms": 210705,
+      "name": "you accommodate my apprehensions",
+      "url": "https://open.spotify.com/track/0Z16iELCJ6NeglcntvvzeY"
+    },
+    {
+      "added_at": "2026-01-26 17:38:11",
+      "album": {
+        "name": "Standing My Ground",
+        "url": "https://open.spotify.com/album/1VbywbT11NRNsEYYSG8Bm5"
+      },
+      "artists": [
+        {
+          "name": "Matthew Mettias",
+          "url": "https://open.spotify.com/artist/4ucQ2IJMrnXJ17ntrWXiqh"
+        }
+      ],
+      "duration_ms": 203881,
+      "name": "Standing My Ground",
+      "url": "https://open.spotify.com/track/0nnmESoxPpEO1yC1T48hpd"
+    },
+    {
       "added_at": "2025-12-23 09:21:42",
       "album": {
         "name": "Haze",
@@ -355,22 +387,6 @@
       "duration_ms": 217206,
       "name": "Candor",
       "url": "https://open.spotify.com/track/2BZQf1SaFOQvgcEru7euV2"
-    },
-    {
-      "added_at": "2025-12-23 09:21:07",
-      "album": {
-        "name": "WHERE'S MY HEAD",
-        "url": "https://open.spotify.com/album/6Lm4bi8UvsymJhezlHnV0x"
-      },
-      "artists": [
-        {
-          "name": "Yung Beathoven",
-          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
-        }
-      ],
-      "duration_ms": 117000,
-      "name": "WHERE'S MY HEAD",
-      "url": "https://open.spotify.com/track/1Z6tkAoBUKel5pywbdJHOR"
     },
     {
       "added_at": "2025-10-17 11:13:05",
@@ -389,22 +405,6 @@
       "url": "https://open.spotify.com/track/1O1xN7gqn6EiJsvVu1iwlc"
     },
     {
-      "added_at": "2025-12-20 16:57:36",
-      "album": {
-        "name": "The Captains",
-        "url": "https://open.spotify.com/album/0FzNiMxsvNVX9TXpQL4oMZ"
-      },
-      "artists": [
-        {
-          "name": "Older Future",
-          "url": "https://open.spotify.com/artist/3uG3YTzjXh9q8AZQM66bKa"
-        }
-      ],
-      "duration_ms": 178444,
-      "name": "Mitch",
-      "url": "https://open.spotify.com/track/4ywimcJa2DVRV4WYX4FJq7"
-    },
-    {
       "added_at": "2025-10-02 20:16:47",
       "album": {
         "name": "Hiera",
@@ -419,70 +419,6 @@
       "duration_ms": 184024,
       "name": "Hiera",
       "url": "https://open.spotify.com/track/0a9gOCvUzQBstABF9iVDCQ"
-    },
-    {
-      "added_at": "2025-12-26 09:33:10",
-      "album": {
-        "name": "Move On",
-        "url": "https://open.spotify.com/album/6wEE7ONTk649bbsv5DdpCG"
-      },
-      "artists": [
-        {
-          "name": "Kamar Jay",
-          "url": "https://open.spotify.com/artist/5MJa7l5xlyf9N6G6R5AcnN"
-        }
-      ],
-      "duration_ms": 207156,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/1EPqUZPqydfMgpQq6GSZQz"
-    },
-    {
-      "added_at": "2025-12-26 09:32:39",
-      "album": {
-        "name": "Move On",
-        "url": "https://open.spotify.com/album/6wEE7ONTk649bbsv5DdpCG"
-      },
-      "artists": [
-        {
-          "name": "Kamar Jay",
-          "url": "https://open.spotify.com/artist/5MJa7l5xlyf9N6G6R5AcnN"
-        }
-      ],
-      "duration_ms": 207156,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/1EPqUZPqydfMgpQq6GSZQz"
-    },
-    {
-      "added_at": "2025-12-26 09:32:58",
-      "album": {
-        "name": "Bluegrass Baby!",
-        "url": "https://open.spotify.com/album/5Pkh9xLBSHUnquT3LIa4d5"
-      },
-      "artists": [
-        {
-          "name": "Chris Melas",
-          "url": "https://open.spotify.com/artist/1nIm7kOpjILOVfNxdh0qGy"
-        }
-      ],
-      "duration_ms": 197812,
-      "name": "Old Home Place",
-      "url": "https://open.spotify.com/track/3PyYrm3Y1Xvy7DiX5ZEyuN"
-    },
-    {
-      "added_at": "2025-12-22 21:17:48",
-      "album": {
-        "name": "Ad Astra",
-        "url": "https://open.spotify.com/album/4JEGhzddPLseDCfKqGhKnj"
-      },
-      "artists": [
-        {
-          "name": "Constant Vertex",
-          "url": "https://open.spotify.com/artist/5EL7W7lWmcIk3jhTIoPNoM"
-        }
-      ],
-      "duration_ms": 178989,
-      "name": "Quiet Mirror",
-      "url": "https://open.spotify.com/track/1bbHzu8CmoQABeNdYHPR2z"
     },
     {
       "added_at": "2026-01-07 09:03:15",
@@ -2159,6 +2095,286 @@
       "duration_ms": 238000,
       "name": "Showers Bring Flowers",
       "url": "https://open.spotify.com/track/0iVmUQRJOeOLgnYkpMbhyh"
+    },
+    {
+      "added_at": "2026-01-26 11:58:39",
+      "album": {
+        "name": "Frequency Rising",
+        "url": "https://open.spotify.com/album/7h1P6bCGqQYfrpu6kNGLfJ"
+      },
+      "artists": [
+        {
+          "name": "VANYRA X",
+          "url": "https://open.spotify.com/artist/3rWPyQgHJ9pvXOK7KtBX1Z"
+        }
+      ],
+      "duration_ms": 189199,
+      "name": "Frequency Rising",
+      "url": "https://open.spotify.com/track/2Ixz3zGp3oSOz0XaCwKQzG"
+    },
+    {
+      "added_at": "2026-01-26 11:58:48",
+      "album": {
+        "name": "Raise It Up",
+        "url": "https://open.spotify.com/album/17lgFajGXTTrexHfQ3mTXt"
+      },
+      "artists": [
+        {
+          "name": "Raida M",
+          "url": "https://open.spotify.com/artist/0Daw8dqrPbm3kyvk3XN4em"
+        }
+      ],
+      "duration_ms": 186480,
+      "name": "Raise It Up",
+      "url": "https://open.spotify.com/track/69JLjSYJUQ2uwkQmI4mMtU"
+    },
+    {
+      "added_at": "2026-01-26 11:58:54",
+      "album": {
+        "name": "Rising Sun",
+        "url": "https://open.spotify.com/album/3DJOo5uHEAiXdbgLYzAZwk"
+      },
+      "artists": [
+        {
+          "name": "Raida M",
+          "url": "https://open.spotify.com/artist/0Daw8dqrPbm3kyvk3XN4em"
+        }
+      ],
+      "duration_ms": 194784,
+      "name": "Rising Sun",
+      "url": "https://open.spotify.com/track/0P6x0ReQrQHHpl88QOMAHZ"
+    },
+    {
+      "added_at": "2026-01-26 11:59:21",
+      "album": {
+        "name": "Dear X (Acoustic)",
+        "url": "https://open.spotify.com/album/5vDMnPvS72yhtFzzd9BNcC"
+      },
+      "artists": [
+        {
+          "name": "WORSHIPER",
+          "url": "https://open.spotify.com/artist/6MyopTP1JJDKkwooQaE1Dk"
+        }
+      ],
+      "duration_ms": 122156,
+      "name": "Dear X - Acoustic",
+      "url": "https://open.spotify.com/track/2EzZoCJWjgrTDypksr4gKo"
+    },
+    {
+      "added_at": "2026-01-26 12:01:28",
+      "album": {
+        "name": "Are We Done",
+        "url": "https://open.spotify.com/album/5P3XNaZLZM5nxjkRAUHoy5"
+      },
+      "artists": [
+        {
+          "name": "Jane Marie",
+          "url": "https://open.spotify.com/artist/4RjRKI0bYrhNIiUX0qzKf3"
+        },
+        {
+          "name": "Jessica Mia",
+          "url": "https://open.spotify.com/artist/1EEnRNZ0QEgzpSGRj957B5"
+        }
+      ],
+      "duration_ms": 202719,
+      "name": "Are We Done",
+      "url": "https://open.spotify.com/track/5kUB6dU77aA60LB7Eg0Mlf"
+    },
+    {
+      "added_at": "2026-01-26 17:31:54",
+      "album": {
+        "name": "Golden Coast",
+        "url": "https://open.spotify.com/album/0eAyfwqQjt4qpLZhEcXyMx"
+      },
+      "artists": [
+        {
+          "name": "M Official",
+          "url": "https://open.spotify.com/artist/4jveQgGPqSFjYWxjNrZhkY"
+        }
+      ],
+      "duration_ms": 199319,
+      "name": "Coastline",
+      "url": "https://open.spotify.com/track/1RxAKnCromdMCDZcIv4ohk"
+    },
+    {
+      "added_at": "2026-01-26 17:32:00",
+      "album": {
+        "name": "JEANS DE CONTREBANDE",
+        "url": "https://open.spotify.com/album/04tzyndXtPMjAlJpWMso0h"
+      },
+      "artists": [
+        {
+          "name": "Franc White",
+          "url": "https://open.spotify.com/artist/3xom0dL6ZYUpVSZAnGs9EE"
+        }
+      ],
+      "duration_ms": 105826,
+      "name": "JEANS DE CONTREBANDE",
+      "url": "https://open.spotify.com/track/6cDa8GkU1IsZj0A8fSvGjW"
+    },
+    {
+      "added_at": "2026-01-26 17:37:10",
+      "album": {
+        "name": "POSSESSED GIRL",
+        "url": "https://open.spotify.com/album/1j8WlP6PQR4lWw70YQGEMq"
+      },
+      "artists": [
+        {
+          "name": "Exorcisor",
+          "url": "https://open.spotify.com/artist/0WFguk3ZC20eLKXcM70rOT"
+        }
+      ],
+      "duration_ms": 225235,
+      "name": "POSSESSED GIRL",
+      "url": "https://open.spotify.com/track/1hOFHg2ssRGWTZL0IHQ06z"
+    },
+    {
+      "added_at": "2026-01-26 17:37:42",
+      "album": {
+        "name": "La calle de la alegr\u00eda",
+        "url": "https://open.spotify.com/album/4WaspnySUvKQXHtGrnjIom"
+      },
+      "artists": [
+        {
+          "name": "Javi Cobo",
+          "url": "https://open.spotify.com/artist/3LCeawe313weY7jgIYBzkQ"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "La calle de la alegr\u00eda",
+      "url": "https://open.spotify.com/track/37LUExe8QBouKJhLAyeuTt"
+    },
+    {
+      "added_at": "2026-01-26 17:38:51",
+      "album": {
+        "name": "Tere Ishq Mai",
+        "url": "https://open.spotify.com/album/08kUqXUD2VATh2vKUcn6JT"
+      },
+      "artists": [
+        {
+          "name": "DrXHassan",
+          "url": "https://open.spotify.com/artist/7IYdWmzwMltrg8VhYrnvKJ"
+        }
+      ],
+      "duration_ms": 234839,
+      "name": "Tere Ishq Mai",
+      "url": "https://open.spotify.com/track/6noYEFKEF9mYBVsBbMXhKU"
+    },
+    {
+      "added_at": "2026-01-26 17:39:13",
+      "album": {
+        "name": "Tin Zelkova",
+        "url": "https://open.spotify.com/album/30tP41z2vLygy8SEe42pM3"
+      },
+      "artists": [
+        {
+          "name": "Tin Zelkova",
+          "url": "https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu"
+        }
+      ],
+      "duration_ms": 236066,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/4Y21eeDE3adB2k1e9vzwQa"
+    },
+    {
+      "added_at": "2026-01-26 17:40:03",
+      "album": {
+        "name": "Everlasting",
+        "url": "https://open.spotify.com/album/4wy80FBOPHmdNe08Su752v"
+      },
+      "artists": [
+        {
+          "name": "ALRIGHT",
+          "url": "https://open.spotify.com/artist/6wsLLtTC30cVoWIpjFX8xx"
+        }
+      ],
+      "duration_ms": 226071,
+      "name": "Everlasting",
+      "url": "https://open.spotify.com/track/1PkxoTKPCNdn38xZ4vrRYU"
+    },
+    {
+      "added_at": "2026-01-26 17:40:48",
+      "album": {
+        "name": "O Trem",
+        "url": "https://open.spotify.com/album/7to52ejPeUd8tMeQ1an0p6"
+      },
+      "artists": [
+        {
+          "name": "Rod Montenegro",
+          "url": "https://open.spotify.com/artist/0bdyMHoyw7ikqYXjwEdlt7"
+        }
+      ],
+      "duration_ms": 167697,
+      "name": "O Trem",
+      "url": "https://open.spotify.com/track/1QV9CBitaoB6ko0wwXrfD5"
+    },
+    {
+      "added_at": "2026-01-26 17:42:36",
+      "album": {
+        "name": "Main Chahun (From \"Loopd\")",
+        "url": "https://open.spotify.com/album/1KEL2S4BApReKb0pp0Xo9e"
+      },
+      "artists": [
+        {
+          "name": "Giesel",
+          "url": "https://open.spotify.com/artist/5NepTnAdzgR8EdjwN4Em3Y"
+        },
+        {
+          "name": "ThatOneGuy",
+          "url": "https://open.spotify.com/artist/3sWobsz7KLworwEaXdw3iP"
+        }
+      ],
+      "duration_ms": 185509,
+      "name": "Main Chahun (From \"Loopd\")",
+      "url": "https://open.spotify.com/track/2eHhLPOUFKTS1fIOeFPkdv"
+    },
+    {
+      "added_at": "2026-01-26 17:44:33",
+      "album": {
+        "name": "Daiquiris and Sandy Knees",
+        "url": "https://open.spotify.com/album/73iwb1DaCm4T15RTf77lAj"
+      },
+      "artists": [
+        {
+          "name": "The Florida Shipwreckers",
+          "url": "https://open.spotify.com/artist/1BMsaOL5sPmOIbec8WUFl4"
+        }
+      ],
+      "duration_ms": 244604,
+      "name": "Teal Waves And Rum Nights",
+      "url": "https://open.spotify.com/track/0mLFAl3zHncCDtAhjF3Pjh"
+    },
+    {
+      "added_at": "2026-01-26 17:45:01",
+      "album": {
+        "name": "The Lottery",
+        "url": "https://open.spotify.com/album/6JLm6Wn7ykrxTm1KqNWgJ9"
+      },
+      "artists": [
+        {
+          "name": "Katherine Winston",
+          "url": "https://open.spotify.com/artist/3EEDivClbmPwyqrMpTaRIP"
+        }
+      ],
+      "duration_ms": 235923,
+      "name": "The Lottery",
+      "url": "https://open.spotify.com/track/0Q7VZP58L8UD0qIjWUCAtN"
+    },
+    {
+      "added_at": "2026-01-26 17:45:11",
+      "album": {
+        "name": "LOVE ME",
+        "url": "https://open.spotify.com/album/2LEh61RefUHEAvh0dM7R11"
+      },
+      "artists": [
+        {
+          "name": "Leona Del Mar",
+          "url": "https://open.spotify.com/artist/2js3VfJYcTZMRyuUEkIW6R"
+        }
+      ],
+      "duration_ms": 270999,
+      "name": "LOVE ME",
+      "url": "https://open.spotify.com/track/1Rqo7ZyC69YMBDwMPhAhRq"
     }
   ],
   "unique_name": "New Indie Music",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Kapo, Ryan Castro",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Manuel Turizo",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -220,7 +220,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 173195,
       "name": "36 Vidas",
       "url": "https://open.spotify.com/track/7zfvPN6Rth5yp1u0QbOglc"
@@ -4767,6 +4767,24 @@
     },
     {
       "album": {
+        "name": "Una mudanza",
+        "url": "https://open.spotify.com/album/4fgEM9EzEXoQQwx1xX3V4p"
+      },
+      "artists": [
+        {
+          "name": "Hens",
+          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198733,
+      "name": "El que no sabe estar con nadie",
+      "url": "https://open.spotify.com/track/0crnyLuJ6EwLZ7AxPMp30t"
+    },
+    {
+      "album": {
         "name": "EL RELOJ (con Maluma)",
         "url": "https://open.spotify.com/album/7cw2HqGRaimaXNcTfHxMhR"
       },
@@ -6727,6 +6745,28 @@
     },
     {
       "album": {
+        "name": "\u00bfD\u00f3nde Es El After?",
+        "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202386,
+      "name": "Ingl\u00e9s En Miami",
+      "url": "https://open.spotify.com/track/3Y1xjjepdqMP141ipYCAqA"
+    },
+    {
+      "album": {
         "name": "Los Cobardes Viven Siempre",
         "url": "https://open.spotify.com/album/3XlG8WaWzdjhDXuaRmOlaC"
       },
@@ -7739,7 +7779,7 @@
         },
         {
           "name": "Gangsta",
-          "url": "https://open.spotify.com/artist/6eJgkjqBphZi6C9CuyuC9U"
+          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
         }
       ],
       "date_added": "2026-01-13",
@@ -10207,6 +10247,24 @@
     },
     {
       "album": {
+        "name": "La vida de Nadie",
+        "url": "https://open.spotify.com/album/3zzUdNCdGCDobDktA3v6yi"
+      },
+      "artists": [
+        {
+          "name": "Besmaya",
+          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167943,
+      "name": "Nadie",
+      "url": "https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5"
+    },
+    {
+      "album": {
         "name": "NADIE ME HA PREGUNTADO",
         "url": "https://open.spotify.com/album/15Z0uBEHEw1huJlm0mHQro"
       },
@@ -11912,7 +11970,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 204099,
       "name": "Pikito",
       "url": "https://open.spotify.com/track/61AeiFmmwjlCC4P5To6cCi"
@@ -15376,7 +15434,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 248127,
       "name": "Todos Estamos Bailando La Misma Canci\u00f3n",
       "url": "https://open.spotify.com/track/6j23hE057HmBxUErUjoEt9"

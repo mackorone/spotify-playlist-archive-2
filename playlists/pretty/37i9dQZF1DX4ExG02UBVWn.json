@@ -1,6 +1,6 @@
 {
   "description": "for the late nights",
-  "num_followers": 20563,
+  "num_followers": 20559,
   "original_name": "the night bus",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/064hBjcisLBkT8aP1gGrNe"
+      },
+      "artists": [
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        }
+      ],
+      "duration_ms": 175291,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2LZIdTKnsxQPXCLmSPdc9p"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "overcast.",
         "url": "https://open.spotify.com/album/3tmyZ0mfZnt0PcppHQZtnN"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 208995,
       "name": "with u.",
       "url": "https://open.spotify.com/track/1Ny8RoE9nPqyM3xfMjwR81"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/064hBjcisLBkT8aP1gGrNe"
-      },
-      "artists": [
-        {
-          "name": "Debbie",
-          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
-        }
-      ],
-      "duration_ms": 175291,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2LZIdTKnsxQPXCLmSPdc9p"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Champagne Problems",
-        "url": "https://open.spotify.com/album/3SVAsjIqaP3EwqAEiTJXjF"
-      },
-      "artists": [
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        }
-      ],
-      "duration_ms": 142941,
-      "name": "Champagne Problems",
-      "url": "https://open.spotify.com/track/7pfx2xxO3rAQPVUIdQYwtM"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "The Invisible Man",
         "url": "https://open.spotify.com/album/6dxjNrYNXkEVTIhjypB0nQ"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 365656,
       "name": "The Invisible Man",
       "url": "https://open.spotify.com/track/5yojQqvfXYyUu4NnYbFrjW"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Champagne Problems",
+        "url": "https://open.spotify.com/album/3SVAsjIqaP3EwqAEiTJXjF"
+      },
+      "artists": [
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "duration_ms": 142941,
+      "name": "Champagne Problems",
+      "url": "https://open.spotify.com/track/7pfx2xxO3rAQPVUIdQYwtM"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -503,18 +503,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "COMING DOWN",
-        "url": "https://open.spotify.com/album/4w2NbxPIchUvu7u7xMwx5Z"
+        "name": "money",
+        "url": "https://open.spotify.com/album/0bz7KBDpiGvM5eY8dz5xAS"
       },
       "artists": [
         {
-          "name": "Jeshi",
-          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
         }
       ],
-      "duration_ms": 199453,
-      "name": "COMING DOWN",
-      "url": "https://open.spotify.com/track/09Z3vqWLXnpCytqf3vZfEy"
+      "duration_ms": 178536,
+      "name": "money",
+      "url": "https://open.spotify.com/track/3ElHyG624YgOJWnT4vhI1o"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -535,18 +535,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "money",
-        "url": "https://open.spotify.com/album/0bz7KBDpiGvM5eY8dz5xAS"
+        "name": "COMING DOWN",
+        "url": "https://open.spotify.com/album/4w2NbxPIchUvu7u7xMwx5Z"
       },
       "artists": [
         {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+          "name": "Jeshi",
+          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
         }
       ],
-      "duration_ms": 178536,
-      "name": "money",
-      "url": "https://open.spotify.com/track/3ElHyG624YgOJWnT4vhI1o"
+      "duration_ms": 199453,
+      "name": "COMING DOWN",
+      "url": "https://open.spotify.com/track/09Z3vqWLXnpCytqf3vZfEy"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -591,26 +591,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "BAD TASTE",
-        "url": "https://open.spotify.com/album/6LLp1IJkmp1LD8xyQ9FOLc"
-      },
-      "artists": [
-        {
-          "name": "Jeshi",
-          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
-        },
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 211240,
-      "name": "30,000 FEET",
-      "url": "https://open.spotify.com/track/1McWbNIuEPiA5gMo4PafS0"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Mac Wetha & Friends",
         "url": "https://open.spotify.com/album/7ujjNbAACA0oxsQUjsLCuK"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 284386,
       "name": "Marching Band (feat. Masego)",
       "url": "https://open.spotify.com/track/1wWGkPC7eBVvDZoEhROvGv"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "BAD TASTE",
+        "url": "https://open.spotify.com/album/6LLp1IJkmp1LD8xyQ9FOLc"
+      },
+      "artists": [
+        {
+          "name": "Jeshi",
+          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
+        },
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 211240,
+      "name": "30,000 FEET",
+      "url": "https://open.spotify.com/track/1McWbNIuEPiA5gMo4PafS0"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "KIWI",
-        "url": "https://open.spotify.com/album/7dOOMeWVNE6NnabKNXx6jB"
-      },
-      "artists": [
-        {
-          "name": "EF\u00c9",
-          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
-        }
-      ],
-      "duration_ms": 219433,
-      "name": "KIWI",
-      "url": "https://open.spotify.com/track/0dgzCsOCKDVFxCIHRb8z14"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "At What Cost",
         "url": "https://open.spotify.com/album/0EMkOcbLfE9zCeDVjxLqsL"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 181161,
       "name": "Summer 17",
       "url": "https://open.spotify.com/track/7t1Oz20dDYMjyvyrbIKqI5"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "KIWI",
+        "url": "https://open.spotify.com/album/7dOOMeWVNE6NnabKNXx6jB"
+      },
+      "artists": [
+        {
+          "name": "EF\u00c9",
+          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
+        }
+      ],
+      "duration_ms": 219433,
+      "name": "KIWI",
+      "url": "https://open.spotify.com/track/0dgzCsOCKDVFxCIHRb8z14"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Trouble Sleeping",
-        "url": "https://open.spotify.com/album/1RAYi3l2RC6gpbp0gMVVb7"
-      },
-      "artists": [
-        {
-          "name": "Ross Carlo",
-          "url": "https://open.spotify.com/artist/1V8iNXoBHwRc9774nQxSR4"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Trouble Sleeping",
-      "url": "https://open.spotify.com/track/4Ev6olpuoQQeNxyhOaI503"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "The Way/A While Now",
         "url": "https://open.spotify.com/album/0oNzjicO5Ygztg07WOKh1s"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "A Lot",
-        "url": "https://open.spotify.com/album/4gqebsvvLe0YDGpgArclZ0"
+        "name": "Trouble Sleeping",
+        "url": "https://open.spotify.com/album/1RAYi3l2RC6gpbp0gMVVb7"
       },
       "artists": [
         {
-          "name": "0RACL3",
-          "url": "https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc"
+          "name": "Ross Carlo",
+          "url": "https://open.spotify.com/artist/1V8iNXoBHwRc9774nQxSR4"
         }
       ],
-      "duration_ms": 167507,
-      "name": "A Lot",
-      "url": "https://open.spotify.com/track/1KKoEoTZOJT0M6urH5eNip"
+      "duration_ms": 215172,
+      "name": "Trouble Sleeping",
+      "url": "https://open.spotify.com/track/4Ev6olpuoQQeNxyhOaI503"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "No Place for Patience, Vol. 3",
-        "url": "https://open.spotify.com/album/2f00nWEhHTMrVChhzz0T4l"
+        "name": "A Lot",
+        "url": "https://open.spotify.com/album/4gqebsvvLe0YDGpgArclZ0"
       },
       "artists": [
         {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+          "name": "0RACL3",
+          "url": "https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc"
         }
       ],
-      "duration_ms": 162120,
-      "name": "Pingu",
-      "url": "https://open.spotify.com/track/6CQd0kMTyZXpnLdgT43vhd"
+      "duration_ms": 167507,
+      "name": "A Lot",
+      "url": "https://open.spotify.com/track/1KKoEoTZOJT0M6urH5eNip"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1243,26 +1227,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Jet Plane 5000",
-        "url": "https://open.spotify.com/album/3noTnaZZqXuflfPKDokgfJ"
+        "name": "No Place for Patience, Vol. 3",
+        "url": "https://open.spotify.com/album/2f00nWEhHTMrVChhzz0T4l"
       },
       "artists": [
         {
-          "name": "j.flowers.mp3",
-          "url": "https://open.spotify.com/artist/4jwygfSZd43Dd8vemguwH3"
-        },
-        {
-          "name": "Ralph Taylor",
-          "url": "https://open.spotify.com/artist/7lyYVCbqJocjkyoYwWYgwK"
-        },
-        {
-          "name": "Rebekah Fitch",
-          "url": "https://open.spotify.com/artist/3okhrC6DbZJOUhPTiUkwM6"
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Jet Plane 5000",
-      "url": "https://open.spotify.com/track/0YOVGM1hQKI3ulmWFxBYSO"
+      "duration_ms": 162120,
+      "name": "Pingu",
+      "url": "https://open.spotify.com/track/6CQd0kMTyZXpnLdgT43vhd"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1307,6 +1283,30 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Jet Plane 5000",
+        "url": "https://open.spotify.com/album/3noTnaZZqXuflfPKDokgfJ"
+      },
+      "artists": [
+        {
+          "name": "j.flowers.mp3",
+          "url": "https://open.spotify.com/artist/4jwygfSZd43Dd8vemguwH3"
+        },
+        {
+          "name": "Ralph Taylor",
+          "url": "https://open.spotify.com/artist/7lyYVCbqJocjkyoYwWYgwK"
+        },
+        {
+          "name": "Rebekah Fitch",
+          "url": "https://open.spotify.com/artist/3okhrC6DbZJOUhPTiUkwM6"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Jet Plane 5000",
+      "url": "https://open.spotify.com/track/0YOVGM1hQKI3ulmWFxBYSO"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "West End",
         "url": "https://open.spotify.com/album/4Loru0xZI5PfOd3ntrImBa"
       },
@@ -1347,6 +1347,38 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "The South's Got Something To Say",
+        "url": "https://open.spotify.com/album/1An5auoLzBQA5LoiSbqi8I"
+      },
+      "artists": [
+        {
+          "name": "Frankie Stew and Harvey Gunn",
+          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
+        }
+      ],
+      "duration_ms": 191641,
+      "name": "Comfort Zone",
+      "url": "https://open.spotify.com/track/2N6oB5yih6TDfM4rknncYl"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Now That I Know You",
+        "url": "https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7"
+      },
+      "artists": [
+        {
+          "name": "Connie Campsie",
+          "url": "https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Now That I Know You",
+      "url": "https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Coffee",
         "url": "https://open.spotify.com/album/0nK9CHDXm14WIlRssT2ifO"
       },
@@ -1363,22 +1395,6 @@
       "duration_ms": 151000,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/4l9kdmAOpO7Y0wCc4PnhzI"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "The South's Got Something To Say",
-        "url": "https://open.spotify.com/album/1An5auoLzBQA5LoiSbqi8I"
-      },
-      "artists": [
-        {
-          "name": "Frankie Stew and Harvey Gunn",
-          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
-        }
-      ],
-      "duration_ms": 191641,
-      "name": "Comfort Zone",
-      "url": "https://open.spotify.com/track/2N6oB5yih6TDfM4rknncYl"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1403,22 +1419,6 @@
       "duration_ms": 288000,
       "name": "Lagoon",
       "url": "https://open.spotify.com/track/6AukzxLBWmUJ6F5anYkQDu"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Now That I Know You",
-        "url": "https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7"
-      },
-      "artists": [
-        {
-          "name": "Connie Campsie",
-          "url": "https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Now That I Know You",
-      "url": "https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Be My Friend",
-        "url": "https://open.spotify.com/album/3qYZIoemyV20j52tqzzCQt"
-      },
-      "artists": [
-        {
-          "name": "Sol Paradise",
-          "url": "https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII"
-        }
-      ],
-      "duration_ms": 207759,
-      "name": "Be My Friend",
-      "url": "https://open.spotify.com/track/016H24eTEQ04lmhskkGAQX"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "\u2605SLEEPY\u2605",
         "url": "https://open.spotify.com/album/4u7Gq7p97RbhmMutnehapG"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 134437,
       "name": "\u2605SLEEPY\u2605",
       "url": "https://open.spotify.com/track/5lEnU2eOQkmHogLRUV77LV"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Be My Friend",
+        "url": "https://open.spotify.com/album/3qYZIoemyV20j52tqzzCQt"
+      },
+      "artists": [
+        {
+          "name": "Sol Paradise",
+          "url": "https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII"
+        }
+      ],
+      "duration_ms": 207759,
+      "name": "Be My Friend",
+      "url": "https://open.spotify.com/track/016H24eTEQ04lmhskkGAQX"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1619,6 +1619,26 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Makin' You Mine/WHATCHUNEED",
+        "url": "https://open.spotify.com/album/72ClCgc8F8cRHJLOBCqRin"
+      },
+      "artists": [
+        {
+          "name": "Kaesu",
+          "url": "https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ"
+        },
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/5ZBtrWITNv3gkwPIZnt0X9"
+        }
+      ],
+      "duration_ms": 138916,
+      "name": "Makin' You Mine",
+      "url": "https://open.spotify.com/track/1yz8X1KWCrwgqaICAkG9FV"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "honey lemon tea",
         "url": "https://open.spotify.com/album/694WwGLnOXDg8Mh44e4FbT"
       },
@@ -1659,26 +1679,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Makin' You Mine/WHATCHUNEED",
-        "url": "https://open.spotify.com/album/72ClCgc8F8cRHJLOBCqRin"
-      },
-      "artists": [
-        {
-          "name": "Kaesu",
-          "url": "https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ"
-        },
-        {
-          "name": "KYA",
-          "url": "https://open.spotify.com/artist/5ZBtrWITNv3gkwPIZnt0X9"
-        }
-      ],
-      "duration_ms": 138916,
-      "name": "Makin' You Mine",
-      "url": "https://open.spotify.com/track/1yz8X1KWCrwgqaICAkG9FV"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Take Two",
         "url": "https://open.spotify.com/album/4h4Qdr8JqB24QhrfL98Rym"
       },
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Negro Impacto",
+        "url": "https://open.spotify.com/album/78N4g5LjH2YYjiVlg8jlW3"
+      },
+      "artists": [
+        {
+          "name": "Negro Impacto",
+          "url": "https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw"
+        }
+      ],
+      "duration_ms": 187400,
+      "name": "Mini Excursion",
+      "url": "https://open.spotify.com/track/41vPgM81KFafqEaJSzx6SE"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Losing You",
         "url": "https://open.spotify.com/album/3MYehd7LTXflbdYn3y4CoX"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 207857,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/4umLhAXqcyQ2ZTcdsfipYG"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Negro Impacto",
-        "url": "https://open.spotify.com/album/78N4g5LjH2YYjiVlg8jlW3"
-      },
-      "artists": [
-        {
-          "name": "Negro Impacto",
-          "url": "https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw"
-        }
-      ],
-      "duration_ms": 187400,
-      "name": "Mini Excursion",
-      "url": "https://open.spotify.com/track/41vPgM81KFafqEaJSzx6SE"
     },
     {
       "added_at": "2025-08-07 15:52:15",

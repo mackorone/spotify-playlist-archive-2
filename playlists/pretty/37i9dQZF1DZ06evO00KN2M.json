@@ -1,12 +1,12 @@
 {
   "description": "This is Fleetwood Mac. The essential tracks, all in one playlist.",
-  "num_followers": 1147289,
+  "num_followers": 1147424,
   "original_name": "This Is Fleetwood Mac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXQLgAAAAAAXHLJjQ98rHGsXRCx8eHFf",
+  "snapshot_id": "aXVdAAAAAABTyXtcraGu9rDDHuEEkii+",
   "tracks": [
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tusk (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
+        "name": "Say You Will",
+        "url": "https://open.spotify.com/album/6dMdadS6Ng71pD9As93ufx"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 274666,
-      "name": "Over & Over - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4SUF4kyuSX9siVjzpjEibr"
+      "duration_ms": 245626,
+      "name": "Bleed to Love Her",
+      "url": "https://open.spotify.com/track/2hl6XZ8nztFfVDv2qHPnwt"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say You Will",
-        "url": "https://open.spotify.com/album/6dMdadS6Ng71pD9As93ufx"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 245626,
-      "name": "Bleed to Love Her",
-      "url": "https://open.spotify.com/track/2hl6XZ8nztFfVDv2qHPnwt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tusk (2015 Remaster)",
         "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
       },
@@ -628,9 +612,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 294053,
-      "name": "Angel - 2015 Remaster",
-      "url": "https://open.spotify.com/track/6HKx5ERVgH7NYmYo9iAlMH"
+      "duration_ms": 274666,
+      "name": "Over & Over - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4SUF4kyuSX9siVjzpjEibr"
     },
     {
       "added_at": null,
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tusk (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 294053,
+      "name": "Angel - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6HKx5ERVgH7NYmYo9iAlMH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mystery to Me",
         "url": "https://open.spotify.com/album/7MprjyJe4SD8Sq9Nn7oYD5"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Dance",
-        "url": "https://open.spotify.com/album/70MrKoi2AdCFBxKqeXDPHZ"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 268200,
-      "name": "Landslide - Live at Warner Brothers Studios in Burbank, CA 5/23/97",
-      "url": "https://open.spotify.com/track/06h9kk12VjJ2bqcBc6IScR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tusk (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 164333,
       "name": "Think About Me - 2015 Remaster",
       "url": "https://open.spotify.com/track/1Q5kDGREVR7mcTjhvuFLm1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Dance",
+        "url": "https://open.spotify.com/album/70MrKoi2AdCFBxKqeXDPHZ"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 268200,
+      "name": "Landslide - Live at Warner Brothers Studios in Burbank, CA 5/23/97",
+      "url": "https://open.spotify.com/track/06h9kk12VjJ2bqcBc6IScR"
     },
     {
       "added_at": null,

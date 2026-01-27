@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Harold",
-  "num_followers": 53217,
+  "num_followers": 53216,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2026-01-16 00:00:19",
       "album": {
+        "name": "COR D'\u00c1GUA",
+        "url": "https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 272637,
+      "name": "TA TUDO BEM",
+      "url": "https://open.spotify.com/track/15ERxM3x0D2HzqdhPxsbd2"
+    },
+    {
+      "added_at": "2026-01-16 00:00:19",
+      "album": {
         "name": "Reservado",
         "url": "https://open.spotify.com/album/1fv3j4QZFpWTljyn1Ay6sM"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 158326,
       "name": "Cacau",
       "url": "https://open.spotify.com/track/4jq69Jq3ZxYXTeXu9JhmIO"
-    },
-    {
-      "added_at": "2026-01-16 00:00:19",
-      "album": {
-        "name": "COR D'\u00c1GUA",
-        "url": "https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 272637,
-      "name": "TA TUDO BEM",
-      "url": "https://open.spotify.com/track/15ERxM3x0D2HzqdhPxsbd2"
     },
     {
       "added_at": "2026-01-16 00:00:19",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-01-16 00:00:19",
       "album": {
+        "name": "Gota D'Espa\u00e7o",
+        "url": "https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 236571,
+      "name": "Ar",
+      "url": "https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn"
+    },
+    {
+      "added_at": "2026-01-16 00:00:19",
+      "album": {
         "name": "WONDER",
         "url": "https://open.spotify.com/album/4euL5ozDT7eXHQuZ7EU6Tb"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 193601,
       "name": "\u00a1 S\u00d3 N\u00d3S ! (feat. Carla Prata)",
       "url": "https://open.spotify.com/track/6gJF4kTu4cQDklJMnd0ZkQ"
-    },
-    {
-      "added_at": "2026-01-16 00:00:19",
-      "album": {
-        "name": "Gota D'Espa\u00e7o",
-        "url": "https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 236571,
-      "name": "Ar",
-      "url": "https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn"
     },
     {
       "added_at": "2026-01-16 00:00:19",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-01-16 00:00:19",
       "album": {
-        "name": "Violetta",
-        "url": "https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58"
-      },
-      "artists": [
-        {
-          "name": "Lhast",
-          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
-        }
-      ],
-      "duration_ms": 152470,
-      "name": "\u00c0 Procura",
-      "url": "https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa"
-    },
-    {
-      "added_at": "2026-01-16 00:00:19",
-      "album": {
         "name": "Sei-te de Cor",
         "url": "https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 219692,
       "name": "Sei-te de Cor",
       "url": "https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv"
+    },
+    {
+      "added_at": "2026-01-16 00:00:19",
+      "album": {
+        "name": "Violetta",
+        "url": "https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58"
+      },
+      "artists": [
+        {
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "\u00c0 Procura",
+      "url": "https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa"
     },
     {
       "added_at": "2026-01-16 00:00:19",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-01-16 00:00:19",
       "album": {
-        "name": "Ontem, Hoje e Para Sempre",
-        "url": "https://open.spotify.com/album/2D88HCLSxFHKChO48qihfv"
-      },
-      "artists": [
-        {
-          "name": "Guga",
-          "url": "https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP"
-        }
-      ],
-      "duration_ms": 224100,
-      "name": "Eternamente",
-      "url": "https://open.spotify.com/track/6JHNHK8t0dYMhgKuw45pzL"
-    },
-    {
-      "added_at": "2026-01-16 00:00:19",
-      "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/1mtgjUorJd70MSgv6wbeMr"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 155000,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/7oEJbRgRbjx55mojjcNmRs"
+    },
+    {
+      "added_at": "2026-01-16 00:00:19",
+      "album": {
+        "name": "Ontem, Hoje e Para Sempre",
+        "url": "https://open.spotify.com/album/2D88HCLSxFHKChO48qihfv"
+      },
+      "artists": [
+        {
+          "name": "Guga",
+          "url": "https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP"
+        }
+      ],
+      "duration_ms": 224100,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/6JHNHK8t0dYMhgKuw45pzL"
     },
     {
       "added_at": "2026-01-16 00:00:19",

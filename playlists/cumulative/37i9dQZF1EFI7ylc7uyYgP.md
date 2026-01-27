@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LTWvs1eqq4r0Qln13AssN">Phil Bentley</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-140 songs - 6 hr 51 min
+141 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Just Keep Believing](https://open.spotify.com/track/01FzOXaX2WKhUfYsMV1enw) | [Majesty](https://open.spotify.com/artist/7wFryXeiMbqt0vDuoUwetX) | [Just Keep Believing](https://open.spotify.com/album/1BpJ6xwEsb0sfJHCdrUYGx) | 3:38 | 2024-01-29 |  |
 | [Lately](https://open.spotify.com/track/2HsFmrxcKiIFUWq4aHdYMF) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Lately](https://open.spotify.com/album/2GwaCjC2SiEqOYv0T4zSDW) | 5:09 | 2024-01-29 |  |
 | [Lessons](https://open.spotify.com/track/1iq0LXM121PVmfvbzrm3Mw) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Inside a Dream EP](https://open.spotify.com/album/2SCuRnCq7JsvZc2tlAFiVV) | 4:15 | 2024-01-29 |  |
-| [Lifeline](https://open.spotify.com/track/0t3xQekyHgbt0iSzPb45Ut) | [Anastacia](https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH) | [Resurrection](https://open.spotify.com/album/31DU93E850ubglsKC1DbK6) | 4:02 | 2024-01-29 |  |
+| [Lifeline](https://open.spotify.com/track/0t3xQekyHgbt0iSzPb45Ut) | [Anastacia](https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH) | [Resurrection](https://open.spotify.com/album/31DU93E850ubglsKC1DbK6) | 4:02 | 2024-01-29 | 2026-01-27 |
+| [Lifeline](https://open.spotify.com/track/2SFf5ffUHHaEztE6cOqsPk) | [Anastacia](https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH) | [Resurrection](https://open.spotify.com/album/2rIc6zUjncktcIqFl6fQYR) | 4:02 | 2026-01-26 |  |
 | [Light](https://open.spotify.com/track/34nN3nXu5CQL9nA2ulkAWm) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [Umbra](https://open.spotify.com/album/0qX4vF8IZ3BA3waaKMdcvc) | 2:38 | 2024-01-29 |  |
 | [Like a Maniac \(Les stars font leur cinéma\) \(feat\. Maska\)](https://open.spotify.com/track/18KVRzkCnaXQKqODx4sOcb) | [Tenny](https://open.spotify.com/artist/0kQl5oSY4dr7XBEc6tLemr), [Maska](https://open.spotify.com/artist/4s7lub6OTMblNwFn9wXClR) | [Yin & Yang](https://open.spotify.com/album/2fAVNindeBHQ0s3NudnzwW) | 3:22 | 2024-01-29 |  |
 | [Lion's Den](https://open.spotify.com/track/1E94YM2HPqbRdVP8gW7s42) | [Punch !nc](https://open.spotify.com/artist/0iRdgcSMVRBHPqEXWdqMkl) | [The High L!fe](https://open.spotify.com/album/6AkxONHcB8l41HvWInyF7q) | 3:52 | 2024-01-29 |  |

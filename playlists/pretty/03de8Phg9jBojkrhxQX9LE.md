@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,801 likes - 96 songs - 5 hr 15 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,800 likes - 96 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 55 | [AIN'T STOPPIN](https://open.spotify.com/track/7pOWu7gsHa21GfDykFgjZN) | [Jacknife](https://open.spotify.com/artist/28YvCT7aJv6DMie7ltTeqo), [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [AIN'T STOPPIN](https://open.spotify.com/album/2OxMBvP8CfK4TbSjica1WY) | 3:02 |
 | 56 | [Reset \(feat\. Killa P\)](https://open.spotify.com/track/55CMFV6MyOXW845UQeIDeu) | [msft](https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [Reset](https://open.spotify.com/album/4IXCHMfLTPBvntSY0wAtJo) | 2:51 |
 | 57 | [Wreck It](https://open.spotify.com/track/2waFCELdaCc13CnQX591wz) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k), [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye) | [Wreck It](https://open.spotify.com/album/3OLzasKYlvBwCnJTeeNLVK) | 4:14 |
-| 58 | [I Wanna Know](https://open.spotify.com/track/4291wVeV1PR771cBvbSVNA) | [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Ashee](https://open.spotify.com/artist/20NZhZk0qrMO7jImyuR3hz) | [I Wanna Know](https://open.spotify.com/album/5jn84FTQ7eWfJNqsiZt4mE) | 4:00 |
+| 58 | [I Wanna Know](https://open.spotify.com/track/4291wVeV1PR771cBvbSVNA) | [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [ashee](https://open.spotify.com/artist/1yzdg7tn88FZln32FyhmVl) | [I Wanna Know](https://open.spotify.com/album/5jn84FTQ7eWfJNqsiZt4mE) | 4:00 |
 | 59 | [Surrender \- Bebi Remix](https://open.spotify.com/track/0b2BxKFZWCsVXWFcw9hYLP) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Next to Neon](https://open.spotify.com/artist/4pooXkYjBxl4t18gUeTQxa), [A:M](https://open.spotify.com/artist/5UJgrwCcL7SIbiGMFmFbb0), [Bebi](https://open.spotify.com/artist/0b4D8JhfYU970qE77UNKSg) | [Surrender \(Bebi Remix\)](https://open.spotify.com/album/2kP8DWOdMVmFondvMsp6yZ) | 3:08 |
 | 60 | [Borehole](https://open.spotify.com/track/2B4OQq13pgIqrud53V7NvZ) | [Casey Club](https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj) | [Borehole](https://open.spotify.com/album/4vukaa71YhJMu00m4Oy8hV) | 2:44 |
 | 61 | [love \(unconditionally\)](https://open.spotify.com/track/16VNYYhSSpUZSS1Cg74LfC) | [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [Where Everything Collides](https://open.spotify.com/album/5TqNL4rMc1D0y643RGkIvZ) | 2:40 |

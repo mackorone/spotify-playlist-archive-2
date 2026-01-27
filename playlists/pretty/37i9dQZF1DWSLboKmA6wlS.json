@@ -1,6 +1,6 @@
 {
   "description": "\u0e1f\u0e31\u0e07\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Poppy Chatchaya. Artwork: Isu Kim",
-  "num_followers": 11816,
+  "num_followers": 11819,
   "original_name": "Fresh Finds Thailand",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2026-01-23 12:04:33",
       "album": {
+        "name": "\u0e1b\u0e34\u0e4a\u0e07\u0e1b\u0e48\u0e2d\u0e07 (PINGPONG)",
+        "url": "https://open.spotify.com/album/20Wb8C3O2RvgfSsf2NdhQz"
+      },
+      "artists": [
+        {
+          "name": "ily",
+          "url": "https://open.spotify.com/artist/5q4T1AsSVEUkeglFsIAvre"
+        }
+      ],
+      "duration_ms": 166250,
+      "name": "\u0e1b\u0e34\u0e4a\u0e07\u0e1b\u0e48\u0e2d\u0e07 (PINGPONG)",
+      "url": "https://open.spotify.com/track/221ak6YvhYMeDkE6ZD7iLl"
+    },
+    {
+      "added_at": "2026-01-23 12:04:33",
+      "album": {
         "name": "\u0e09\u0e31\u0e19\u0e44\u0e1b\u0e01\u0e48\u0e2d\u0e19\u0e19\u0e30",
         "url": "https://open.spotify.com/album/2L8KYM4xhSaty6c0Vdzumk"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 282352,
       "name": "\u0e41\u0e14\u0e19\u0e1d\u0e31\u0e19 (Dreaming)",
       "url": "https://open.spotify.com/track/3HSXxWAE4UjeUCa7rl8rgv"
-    },
-    {
-      "added_at": "2026-01-23 12:04:33",
-      "album": {
-        "name": "\u0e1b\u0e34\u0e4a\u0e07\u0e1b\u0e48\u0e2d\u0e07 (PINGPONG)",
-        "url": "https://open.spotify.com/album/20Wb8C3O2RvgfSsf2NdhQz"
-      },
-      "artists": [
-        {
-          "name": "ily",
-          "url": "https://open.spotify.com/artist/5q4T1AsSVEUkeglFsIAvre"
-        }
-      ],
-      "duration_ms": 166250,
-      "name": "\u0e1b\u0e34\u0e4a\u0e07\u0e1b\u0e48\u0e2d\u0e07 (PINGPONG)",
-      "url": "https://open.spotify.com/track/221ak6YvhYMeDkE6ZD7iLl"
     },
     {
       "added_at": "2026-01-23 12:04:33",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-01-23 12:04:33",
       "album": {
-        "name": "\u0e1f\u0e49\u0e32 (Destined)",
-        "url": "https://open.spotify.com/album/4hxc65p49Qy6MlMeVvY6eY"
-      },
-      "artists": [
-        {
-          "name": "Jeng Phuchit",
-          "url": "https://open.spotify.com/artist/2saV0130LBJE6YoQ1YrDbi"
-        }
-      ],
-      "duration_ms": 267500,
-      "name": "\u0e1f\u0e49\u0e32 (Destined)",
-      "url": "https://open.spotify.com/track/3gyVEjU5Ci6rafjix6473l"
-    },
-    {
-      "added_at": "2026-01-23 12:04:33",
-      "album": {
         "name": "\u0e08\u0e30\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d\u0e43\u0e0a\u0e48\u0e44\u0e2b\u0e21 (Childish)",
         "url": "https://open.spotify.com/album/5vaYFcgmYuiwo8n6kQ5srY"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 218821,
       "name": "\u0e08\u0e30\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d\u0e43\u0e0a\u0e48\u0e44\u0e2b\u0e21 (Childish)",
       "url": "https://open.spotify.com/track/66GaGy5M98QcerWdWBDrZF"
+    },
+    {
+      "added_at": "2026-01-23 12:04:33",
+      "album": {
+        "name": "\u0e1f\u0e49\u0e32 (Destined)",
+        "url": "https://open.spotify.com/album/4hxc65p49Qy6MlMeVvY6eY"
+      },
+      "artists": [
+        {
+          "name": "Jeng Phuchit",
+          "url": "https://open.spotify.com/artist/2saV0130LBJE6YoQ1YrDbi"
+        }
+      ],
+      "duration_ms": 267500,
+      "name": "\u0e1f\u0e49\u0e32 (Destined)",
+      "url": "https://open.spotify.com/track/3gyVEjU5Ci6rafjix6473l"
     },
     {
       "added_at": "2026-01-23 12:04:33",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-01-23 12:04:33",
       "album": {
+        "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27 (It'S Over)",
+        "url": "https://open.spotify.com/album/0BgYshQYyjo1A0JjKPzUpE"
+      },
+      "artists": [
+        {
+          "name": "mita.",
+          "url": "https://open.spotify.com/artist/1hE0l1qfYybuufwViZiQKs"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27 - It'S Over",
+      "url": "https://open.spotify.com/track/5RmRUCyASmrKbqCeAczOfB"
+    },
+    {
+      "added_at": "2026-01-23 12:04:33",
+      "album": {
         "name": "\u0e2b\u0e19\u0e49\u0e32\u0e2b\u0e19\u0e32\u0e27\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e2d\u0e35\u0e01\u0e41\u0e25\u0e49\u0e27",
         "url": "https://open.spotify.com/album/2as6VxkIr64nV6iLAxzSJu"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 241978,
       "name": "\u0e2b\u0e19\u0e49\u0e32\u0e2b\u0e19\u0e32\u0e27\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e2d\u0e35\u0e01\u0e41\u0e25\u0e49\u0e27",
       "url": "https://open.spotify.com/track/5tuPUaPMjfw8GHxIFt1Fr8"
-    },
-    {
-      "added_at": "2026-01-23 12:04:33",
-      "album": {
-        "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27 (It'S Over)",
-        "url": "https://open.spotify.com/album/0BgYshQYyjo1A0JjKPzUpE"
-      },
-      "artists": [
-        {
-          "name": "mita.",
-          "url": "https://open.spotify.com/artist/1hE0l1qfYybuufwViZiQKs"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27 - It'S Over",
-      "url": "https://open.spotify.com/track/5RmRUCyASmrKbqCeAczOfB"
     },
     {
       "added_at": "2026-01-23 12:04:33",
@@ -431,6 +431,22 @@
     {
       "added_at": "2026-01-23 12:04:33",
       "album": {
+        "name": "\u0e1d\u0e31\u0e19\u0e15\u0e48\u0e2d\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27",
+        "url": "https://open.spotify.com/album/4oORbkvGNGvqmV72ganEn2"
+      },
+      "artists": [
+        {
+          "name": "Chiraaaaaaaaa",
+          "url": "https://open.spotify.com/artist/1WXD1W2cwKdlFt3RdWNZqL"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "\u0e1d\u0e31\u0e19\u0e15\u0e48\u0e2d\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27",
+      "url": "https://open.spotify.com/track/4E2YMgZHYchmYqjvwc8nlE"
+    },
+    {
+      "added_at": "2026-01-23 12:04:33",
+      "album": {
         "name": "\u0e02\u0e35\u0e14\u0e2d\u0e31\u0e19\u0e15\u0e23\u0e32\u0e22",
         "url": "https://open.spotify.com/album/6QiCSfE4mnyqhiyUSAeLxE"
       },
@@ -479,22 +495,6 @@
     {
       "added_at": "2026-01-23 12:04:33",
       "album": {
-        "name": "\u0e1d\u0e31\u0e19\u0e15\u0e48\u0e2d\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27",
-        "url": "https://open.spotify.com/album/4oORbkvGNGvqmV72ganEn2"
-      },
-      "artists": [
-        {
-          "name": "Chiraaaaaaaaa",
-          "url": "https://open.spotify.com/artist/1WXD1W2cwKdlFt3RdWNZqL"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "\u0e1d\u0e31\u0e19\u0e15\u0e48\u0e2d\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27",
-      "url": "https://open.spotify.com/track/4E2YMgZHYchmYqjvwc8nlE"
-    },
-    {
-      "added_at": "2026-01-23 12:04:33",
-      "album": {
         "name": "No.2 (Underdog)",
         "url": "https://open.spotify.com/album/0yp3SiQlp1R3uXFqOth9rs"
       },
@@ -507,6 +507,22 @@
       "duration_ms": 194810,
       "name": "No.2 (Underdog)",
       "url": "https://open.spotify.com/track/1DHiT3MmTTr2nSOdQNUwxD"
+    },
+    {
+      "added_at": "2026-01-23 12:04:33",
+      "album": {
+        "name": "\u0e08\u0e30\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32\u0e40\u0e14\u0e34\u0e21",
+        "url": "https://open.spotify.com/album/3TAyz9HaDGqsZ1msdGjjuN"
+      },
+      "artists": [
+        {
+          "name": "Ohmchom",
+          "url": "https://open.spotify.com/artist/4ImLDxx5rGj4jaXUMg10V9"
+        }
+      ],
+      "duration_ms": 120369,
+      "name": "\u0e08\u0e30\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32\u0e40\u0e14\u0e34\u0e21",
+      "url": "https://open.spotify.com/track/4phUpziIYbWDXytcL83NEw"
     },
     {
       "added_at": "2026-01-23 12:04:33",
@@ -559,18 +575,18 @@
     {
       "added_at": "2026-01-23 12:04:33",
       "album": {
-        "name": "\u0e08\u0e30\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32\u0e40\u0e14\u0e34\u0e21",
-        "url": "https://open.spotify.com/album/3TAyz9HaDGqsZ1msdGjjuN"
+        "name": "\u0e17\u0e38\u0e48\u0e21\u0e40\u0e17 \u0e17\u0e38\u0e48\u0e21\u0e17\u0e34\u0e49\u0e07 (Why)",
+        "url": "https://open.spotify.com/album/7wAYZ7cphOmh8lXYJ5Ow4H"
       },
       "artists": [
         {
-          "name": "Ohmchom",
-          "url": "https://open.spotify.com/artist/4ImLDxx5rGj4jaXUMg10V9"
+          "name": "CONFUSE",
+          "url": "https://open.spotify.com/artist/3dZcqi57QvlvGrMUPPork4"
         }
       ],
-      "duration_ms": 120369,
-      "name": "\u0e08\u0e30\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32\u0e40\u0e14\u0e34\u0e21",
-      "url": "https://open.spotify.com/track/4phUpziIYbWDXytcL83NEw"
+      "duration_ms": 178750,
+      "name": "\u0e17\u0e38\u0e48\u0e21\u0e40\u0e17 \u0e17\u0e38\u0e48\u0e21\u0e17\u0e34\u0e49\u0e07 (Why)",
+      "url": "https://open.spotify.com/track/5eeUiLti4hP9J9GK4dbJoS"
     },
     {
       "added_at": "2026-01-23 12:04:33",
@@ -607,50 +623,18 @@
     {
       "added_at": "2026-01-23 12:04:33",
       "album": {
-        "name": "\u0e17\u0e38\u0e48\u0e21\u0e40\u0e17 \u0e17\u0e38\u0e48\u0e21\u0e17\u0e34\u0e49\u0e07 (Why)",
-        "url": "https://open.spotify.com/album/7wAYZ7cphOmh8lXYJ5Ow4H"
+        "name": "\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e40\u0e01\u0e34\u0e19\u0e01\u0e0f\u0e2b\u0e21\u0e32\u0e22\u0e01\u0e33\u0e2b\u0e19\u0e14",
+        "url": "https://open.spotify.com/album/2gnmLixPZNUNl2nkRr7mNX"
       },
       "artists": [
         {
-          "name": "CONFUSE",
-          "url": "https://open.spotify.com/artist/3dZcqi57QvlvGrMUPPork4"
+          "name": "Baramee",
+          "url": "https://open.spotify.com/artist/09hKKwE42dwRfbWcbz0OH4"
         }
       ],
-      "duration_ms": 178750,
-      "name": "\u0e17\u0e38\u0e48\u0e21\u0e40\u0e17 \u0e17\u0e38\u0e48\u0e21\u0e17\u0e34\u0e49\u0e07 (Why)",
-      "url": "https://open.spotify.com/track/5eeUiLti4hP9J9GK4dbJoS"
-    },
-    {
-      "added_at": "2026-01-23 12:04:33",
-      "album": {
-        "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e19\u0e34\u0e14\u0e2b\u0e19\u0e48\u0e2d\u0e22 \u0e41\u0e15\u0e48\u0e1a\u0e48\u0e2d\u0e22\u0e19\u0e34\u0e14\u0e19\u0e36\u0e07",
-        "url": "https://open.spotify.com/album/4PnrIYZbSqMG1asFVBaHbz"
-      },
-      "artists": [
-        {
-          "name": "PINGPING PANPAN",
-          "url": "https://open.spotify.com/artist/0HbyB0bcBi3sgdB2NMktrz"
-        }
-      ],
-      "duration_ms": 180555,
-      "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e19\u0e34\u0e14\u0e2b\u0e19\u0e48\u0e2d\u0e22 \u0e41\u0e15\u0e48\u0e1a\u0e48\u0e2d\u0e22\u0e19\u0e34\u0e14\u0e19\u0e36\u0e07",
-      "url": "https://open.spotify.com/track/5MIPqwpbTlzGmGrrNRhTI7"
-    },
-    {
-      "added_at": "2026-01-23 12:04:33",
-      "album": {
-        "name": "\u0e40\u0e18\u0e2d\u0e0a\u0e48\u0e27\u0e22\u0e21\u0e2d\u0e07\u0e1a\u0e48\u0e2d\u0e22\u0e46 (capture)",
-        "url": "https://open.spotify.com/album/1rz60S5bk1lwu02hjL6zpu"
-      },
-      "artists": [
-        {
-          "name": "amnotlion",
-          "url": "https://open.spotify.com/artist/2GkOuW2y2bC3TxV45Rz9pJ"
-        }
-      ],
-      "duration_ms": 192989,
-      "name": "\u0e40\u0e18\u0e2d\u0e0a\u0e48\u0e27\u0e22\u0e21\u0e2d\u0e07\u0e1a\u0e48\u0e2d\u0e22\u0e46 (capture)",
-      "url": "https://open.spotify.com/track/0xEaxZdDAoYO4ckyTfh1S6"
+      "duration_ms": 221428,
+      "name": "\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e40\u0e01\u0e34\u0e19\u0e01\u0e0f\u0e2b\u0e21\u0e32\u0e22\u0e01\u0e33\u0e2b\u0e19\u0e14",
+      "url": "https://open.spotify.com/track/50NUvhWIm12zI81GLjboWo"
     },
     {
       "added_at": "2026-01-23 12:04:33",
@@ -671,34 +655,18 @@
     {
       "added_at": "2026-01-23 12:04:33",
       "album": {
-        "name": "\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e40\u0e01\u0e34\u0e19\u0e01\u0e0f\u0e2b\u0e21\u0e32\u0e22\u0e01\u0e33\u0e2b\u0e19\u0e14",
-        "url": "https://open.spotify.com/album/2gnmLixPZNUNl2nkRr7mNX"
+        "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e19\u0e34\u0e14\u0e2b\u0e19\u0e48\u0e2d\u0e22 \u0e41\u0e15\u0e48\u0e1a\u0e48\u0e2d\u0e22\u0e19\u0e34\u0e14\u0e19\u0e36\u0e07",
+        "url": "https://open.spotify.com/album/4PnrIYZbSqMG1asFVBaHbz"
       },
       "artists": [
         {
-          "name": "Baramee",
-          "url": "https://open.spotify.com/artist/09hKKwE42dwRfbWcbz0OH4"
+          "name": "PINGPING PANPAN",
+          "url": "https://open.spotify.com/artist/0HbyB0bcBi3sgdB2NMktrz"
         }
       ],
-      "duration_ms": 221428,
-      "name": "\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e40\u0e01\u0e34\u0e19\u0e01\u0e0f\u0e2b\u0e21\u0e32\u0e22\u0e01\u0e33\u0e2b\u0e19\u0e14",
-      "url": "https://open.spotify.com/track/50NUvhWIm12zI81GLjboWo"
-    },
-    {
-      "added_at": "2026-01-23 12:04:33",
-      "album": {
-        "name": "\u0e02\u0e2d\u0e40\u0e01\u0e47\u0e1a\u0e40\u0e18\u0e2d\u0e44\u0e27\u0e49\u0e43\u0e19\u0e43\u0e08 (Soft Memory)",
-        "url": "https://open.spotify.com/album/7lEd1r7qFkQQEogDRnsRzJ"
-      },
-      "artists": [
-        {
-          "name": "Fah Naritsa",
-          "url": "https://open.spotify.com/artist/3McyFK0pD7IHHLLlk2O20J"
-        }
-      ],
-      "duration_ms": 261120,
-      "name": "\u0e02\u0e2d\u0e40\u0e01\u0e47\u0e1a\u0e40\u0e18\u0e2d\u0e44\u0e27\u0e49\u0e43\u0e19\u0e43\u0e08 (Soft Memory)",
-      "url": "https://open.spotify.com/track/60NmldNDsOjzjaF8Ye0hCc"
+      "duration_ms": 180555,
+      "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e19\u0e34\u0e14\u0e2b\u0e19\u0e48\u0e2d\u0e22 \u0e41\u0e15\u0e48\u0e1a\u0e48\u0e2d\u0e22\u0e19\u0e34\u0e14\u0e19\u0e36\u0e07",
+      "url": "https://open.spotify.com/track/5MIPqwpbTlzGmGrrNRhTI7"
     },
     {
       "added_at": "2026-01-23 12:04:33",
@@ -715,6 +683,38 @@
       "duration_ms": 271578,
       "name": "\u0e40\u0e1c\u0e25\u0e2d\u0e17\u0e31\u0e01\u0e44\u0e1b",
       "url": "https://open.spotify.com/track/0H7ey7sBM9jkznYFKnRc7W"
+    },
+    {
+      "added_at": "2026-01-23 12:04:33",
+      "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e0a\u0e48\u0e27\u0e22\u0e21\u0e2d\u0e07\u0e1a\u0e48\u0e2d\u0e22\u0e46 (capture)",
+        "url": "https://open.spotify.com/album/1rz60S5bk1lwu02hjL6zpu"
+      },
+      "artists": [
+        {
+          "name": "amnotlion",
+          "url": "https://open.spotify.com/artist/2GkOuW2y2bC3TxV45Rz9pJ"
+        }
+      ],
+      "duration_ms": 192989,
+      "name": "\u0e40\u0e18\u0e2d\u0e0a\u0e48\u0e27\u0e22\u0e21\u0e2d\u0e07\u0e1a\u0e48\u0e2d\u0e22\u0e46 (capture)",
+      "url": "https://open.spotify.com/track/0xEaxZdDAoYO4ckyTfh1S6"
+    },
+    {
+      "added_at": "2026-01-23 12:04:33",
+      "album": {
+        "name": "\u0e02\u0e2d\u0e40\u0e01\u0e47\u0e1a\u0e40\u0e18\u0e2d\u0e44\u0e27\u0e49\u0e43\u0e19\u0e43\u0e08 (Soft Memory)",
+        "url": "https://open.spotify.com/album/7lEd1r7qFkQQEogDRnsRzJ"
+      },
+      "artists": [
+        {
+          "name": "Fah Naritsa",
+          "url": "https://open.spotify.com/artist/3McyFK0pD7IHHLLlk2O20J"
+        }
+      ],
+      "duration_ms": 261120,
+      "name": "\u0e02\u0e2d\u0e40\u0e01\u0e47\u0e1a\u0e40\u0e18\u0e2d\u0e44\u0e27\u0e49\u0e43\u0e19\u0e43\u0e08 (Soft Memory)",
+      "url": "https://open.spotify.com/track/60NmldNDsOjzjaF8Ye0hCc"
     },
     {
       "added_at": "2026-01-23 12:04:33",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-01-23 12:04:33",
       "album": {
-        "name": "\u0e40\u0e08\u0e49\u0e32\u0e0a\u0e39\u0e49 (girls)",
-        "url": "https://open.spotify.com/album/3lRuStEZrwXVQ61DdvSCqx"
-      },
-      "artists": [
-        {
-          "name": "phufa",
-          "url": "https://open.spotify.com/artist/5DBzB5LBcjhLch039hzb2y"
-        }
-      ],
-      "duration_ms": 168305,
-      "name": "\u0e40\u0e08\u0e49\u0e32\u0e0a\u0e39\u0e49 (girls)",
-      "url": "https://open.spotify.com/track/208ytupDO4G0s7YARJwndO"
-    },
-    {
-      "added_at": "2026-01-23 12:04:33",
-      "album": {
         "name": "\u0e23\u0e31\u0e01\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07 (Self Love)",
         "url": "https://open.spotify.com/album/4EFOE5FMusLGMbW3lVajpv"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 245853,
       "name": "\u0e23\u0e31\u0e01\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07 (Self Love)",
       "url": "https://open.spotify.com/track/1ZwCvuANDaQhG0aZxJKWYW"
+    },
+    {
+      "added_at": "2026-01-23 12:04:33",
+      "album": {
+        "name": "\u0e40\u0e08\u0e49\u0e32\u0e0a\u0e39\u0e49 (girls)",
+        "url": "https://open.spotify.com/album/3lRuStEZrwXVQ61DdvSCqx"
+      },
+      "artists": [
+        {
+          "name": "phufa",
+          "url": "https://open.spotify.com/artist/5DBzB5LBcjhLch039hzb2y"
+        }
+      ],
+      "duration_ms": 168305,
+      "name": "\u0e40\u0e08\u0e49\u0e32\u0e0a\u0e39\u0e49 (girls)",
+      "url": "https://open.spotify.com/track/208ytupDO4G0s7YARJwndO"
     },
     {
       "added_at": "2026-01-23 12:04:33",

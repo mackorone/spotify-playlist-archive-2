@@ -4,7 +4,7 @@
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: Carol Biazin, Léo Foguete
 
-447 songs - 21 hr 16 min
+448 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Melhor Assunto](https://open.spotify.com/track/02Z6GIcuJJy2Q29vveZqpD) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [Melhor Assunto](https://open.spotify.com/album/4FfCVmFmOOBFwuVCYwrDff) | 2:39 | 2022-01-14 | 2022-02-09 |
 | [Melhor Não](https://open.spotify.com/track/0HaI4Im8kE1YuZQRB7Kuaa) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Frio e Vento](https://open.spotify.com/album/2iUn2X1RgWoNH0XYR88W4Z) | 3:33 | 2024-10-18 | 2025-02-01 |
 | [melhor sozinha :\-\)\-:](https://open.spotify.com/track/0gpZ8zy9OAE98nNBVIxWvi) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [melhor sozinha :\-\)\-:](https://open.spotify.com/album/2v9lUQunZBqGCZ6qUiWvuO) | 3:47 | 2022-01-14 | 2022-02-12 |
+| [Menina](https://open.spotify.com/track/1BKs3X4E6Oc0iM3BxnzyXQ) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Menina](https://open.spotify.com/album/1AhiTTbdGAym3xzYflP3fa) | 2:38 | 2026-01-26 |  |
 | [Meninos e Meninas](https://open.spotify.com/track/5B1skkpiljQOQLAmANiaDa) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 2:41 | 2022-08-05 | 2025-11-29 |
 | [Mensagem](https://open.spotify.com/track/27su4WAMySZobigAAuXdHt) | [Bea Duarte](https://open.spotify.com/artist/5LwfyJYVJBnqzbueSiWQqe) | [Mensagem](https://open.spotify.com/album/4ftEmz8W1OXaaD6WuJsC8D) | 3:31 | 2025-01-31 | 2025-04-26 |
 | [MENTA COM CHÁ](https://open.spotify.com/track/6eIH1kXMmK1jcc1H2P5YF2) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/46flJXmb1UBv1jvP6lAMoj) | 2:30 | 2023-03-31 | 2023-08-16 |
@@ -352,7 +353,7 @@
 | [Raio X \- Ao Vivo](https://open.spotify.com/track/3iGwvlMJT1GAH9WcRKHwMi) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 3:00 | 2024-03-01 | 2025-12-13 |
 | [Raridade](https://open.spotify.com/track/3u89ugK8QORSu1A7ZgpvV5) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Ato 3: TODAMANHÃ](https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw) | 2:53 | 2023-10-23 | 2023-11-18 |
 | [raro mas sempre acontece](https://open.spotify.com/track/0toACsp778zlNwQjTlxrMI) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [raro mas sempre acontece](https://open.spotify.com/album/3NWPq3LiDg3F9bsicGId1X) | 2:46 | 2025-01-10 | 2025-07-12 |
-| [real valor](https://open.spotify.com/track/78wYB2vQHXCGW5UwKlFlob) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [REVERSA \[in\]ato](https://open.spotify.com/album/6N8AgBQAGm79BZLojct5J7) | 3:40 | 2023-12-15 |  |
+| [real valor](https://open.spotify.com/track/78wYB2vQHXCGW5UwKlFlob) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [REVERSA \[in\]ato](https://open.spotify.com/album/6N8AgBQAGm79BZLojct5J7) | 3:40 | 2023-12-15 | 2026-01-27 |
 | [recadin no espelho](https://open.spotify.com/track/1snE820RBNNYwpqZO8ItYf) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [recadin no espelho](https://open.spotify.com/album/6KKAWpqYTZ9ptx7Eq4VpmT) | 2:04 | 2024-03-01 | 2025-12-13 |
 | [Recaída](https://open.spotify.com/track/75XqGeWAYcC0Z69T04zDYM) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN) | [Recaída](https://open.spotify.com/album/2e5eqvR4bgZoPEuJzS2w02) | 2:28 | 2025-11-28 |  |
 | [Receita](https://open.spotify.com/track/2oVWlKVMpnwgMst98oAeQh) | [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa), [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP), [Madre Beatz](https://open.spotify.com/artist/4GU1CeOF51IJbREWohSNBj), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Receita](https://open.spotify.com/album/7cbSSJogZZiNcjjyYriIud) | 2:03 | 2025-07-11 | 2025-08-02 |

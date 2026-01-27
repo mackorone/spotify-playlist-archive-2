@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2gEu1155ig.md) - [plain]
 
 > Cumbias tropicales para ponerse de buen humor 🌴🥳
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,806 likes - 174 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,843 likes - 174 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

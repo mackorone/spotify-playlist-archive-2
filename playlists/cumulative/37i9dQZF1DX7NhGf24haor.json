@@ -2127,6 +2127,24 @@
     },
     {
       "album": {
+        "name": "Awaken The Titan",
+        "url": "https://open.spotify.com/album/5vtJwtPls0GNLK8Lq7LXgn"
+      },
+      "artists": [
+        {
+          "name": "Titan",
+          "url": "https://open.spotify.com/artist/0FfiqpPNuyhma9Sc4nF3U5"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186379,
+      "name": "Awaken The Titan",
+      "url": "https://open.spotify.com/track/5gXl0Y2xZpgcvhDpcU8owc"
+    },
+    {
+      "album": {
         "name": "The RED Race 2025 EP",
         "url": "https://open.spotify.com/album/2qbiDYSBFDG2X8SeACHwQj"
       },
@@ -7220,7 +7238,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 241545,
       "name": "Dance With Madness",
       "url": "https://open.spotify.com/track/2IwzdVJnPs4sptS1wkfya3"
@@ -7242,6 +7260,24 @@
       "duration_ms": 222519,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/5dJuzfjAdIWjhmwDbenBwh"
+    },
+    {
+      "album": {
+        "name": "Dancing On The Bar",
+        "url": "https://open.spotify.com/album/3ogMFMv00gkRdzuRUCPHOv"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211539,
+      "name": "Dancing On The Bar",
+      "url": "https://open.spotify.com/track/2hx1ZGH1ZHkMWazyhDeaUP"
     },
     {
       "album": {
@@ -11962,7 +11998,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 185250,
       "name": "Forever Lost",
       "url": "https://open.spotify.com/track/6gf2L7fOQOfc9MYJlCPmKi"
@@ -12406,6 +12442,32 @@
       "duration_ms": 160503,
       "name": "FUNKY",
       "url": "https://open.spotify.com/track/5CPJaealDo0IDlZcECF0rw"
+    },
+    {
+      "album": {
+        "name": "Live Edit EP Vol. 3",
+        "url": "https://open.spotify.com/album/5HSaXHn2oxaik6ZaVD56Yn"
+      },
+      "artists": [
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        },
+        {
+          "name": "The Straikerz",
+          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+        },
+        {
+          "name": "MC Focus",
+          "url": "https://open.spotify.com/artist/2WZK4ltsxqMCsLbsjzfGyY"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81015,
+      "name": "FUNKY - Live Edit",
+      "url": "https://open.spotify.com/track/3q6g6u0TbOAGEYOc5PC7Wr"
     },
     {
       "album": {
@@ -13280,7 +13342,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 188766,
       "name": "Good Vibes Only",
       "url": "https://open.spotify.com/track/2A1M7acWrGIsDVb2vyoB0N"
@@ -14590,7 +14652,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 189000,
       "name": "Highway To Heaven",
       "url": "https://open.spotify.com/track/41UL3OFdkQnF4rZmbCMoF3"
@@ -16941,6 +17003,28 @@
     },
     {
       "album": {
+        "name": "Japan",
+        "url": "https://open.spotify.com/album/5rqHw9XEod6GWejIaDJdkE"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Japan",
+      "url": "https://open.spotify.com/track/5F3FImLl0zAXiSRy2SLf9c"
+    },
+    {
+      "album": {
         "name": "Join The Madness",
         "url": "https://open.spotify.com/album/0qLIqozcMvbeKO8GqVvleL"
       },
@@ -16964,6 +17048,24 @@
       "duration_ms": 193875,
       "name": "Join The Madness",
       "url": "https://open.spotify.com/track/5dvcdoVygPhEgtyy0rPhdk"
+    },
+    {
+      "album": {
+        "name": "Journey Through Sound",
+        "url": "https://open.spotify.com/album/7gkZOkyID0R09lwlp9ri0i"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222732,
+      "name": "Journey Through Sound",
+      "url": "https://open.spotify.com/track/2SZLJfxcEzwtahQmvVoi7V"
     },
     {
       "album": {
@@ -22503,6 +22605,24 @@
     },
     {
       "album": {
+        "name": "Never Coming Down",
+        "url": "https://open.spotify.com/album/7ABAY9YdESYg7WWYkPwzuH"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183889,
+      "name": "Never Coming Down",
+      "url": "https://open.spotify.com/track/4SHkx6ZqqWYFYFJHemDLKK"
+    },
+    {
+      "album": {
         "name": "Never Coming Down (feat. Amanda Collis)",
         "url": "https://open.spotify.com/album/0cDAuF8MquZiG58tvWb6UK"
       },
@@ -24622,6 +24742,46 @@
       "duration_ms": 253500,
       "name": "Other Side of the World - Hixxy Remix",
       "url": "https://open.spotify.com/track/71gi9OEXEB5eQaa37YuaJz"
+    },
+    {
+      "album": {
+        "name": "Our Last Hope",
+        "url": "https://open.spotify.com/album/0LvY1QzZQDglak6vE4RfaM"
+      },
+      "artists": [
+        {
+          "name": "Wolv",
+          "url": "https://open.spotify.com/artist/3rG76jpMKtnTFp9pOuKIYX"
+        },
+        {
+          "name": "RAVEWALKER",
+          "url": "https://open.spotify.com/artist/15INytnL1COSphok1s4pC9"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Our Last Hope",
+      "url": "https://open.spotify.com/track/65xW5vu1SPZ88jx9Ks5vp9"
+    },
+    {
+      "album": {
+        "name": "Our Legacy",
+        "url": "https://open.spotify.com/album/7nXSxV1ggfDmjHmP8wfO2Q"
+      },
+      "artists": [
+        {
+          "name": "D\u00c2VIN\u00d8",
+          "url": "https://open.spotify.com/artist/5S7oiAcfKX87nwd1kqgvfh"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190515,
+      "name": "Our Legacy",
+      "url": "https://open.spotify.com/track/3gauZI8yKDUCDVZDrm0tOz"
     },
     {
       "album": {
@@ -29494,7 +29654,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 174375,
       "name": "Shirt Off & Twist It (Dancehall Version)",
       "url": "https://open.spotify.com/track/2rk3w0CoqVLg4LLhrmIMpe"
@@ -30092,7 +30252,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 124500,
       "name": "Souls Lost",
       "url": "https://open.spotify.com/track/5v84TPuqf5idbE8HyDY5OG"
@@ -32786,7 +32946,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 151741,
       "name": "The Craziest",
       "url": "https://open.spotify.com/track/5celewcciciIXplKZ1c9TS"
@@ -38486,7 +38646,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-27",
       "duration_ms": 152250,
       "name": "Where The Party At",
       "url": "https://open.spotify.com/track/0ZnCh9IpjGukcjPLv7uq2K"

@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "\u4eba\u5f62",
+        "url": "https://open.spotify.com/album/6OiLP3mN9ntclPFqqyIS0c"
+      },
+      "artists": [
+        {
+          "name": "x0o0x_",
+          "url": "https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz"
+        },
+        {
+          "name": "Maretu",
+          "url": "https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160841,
+      "name": "...... - MARETU Remix",
+      "url": "https://open.spotify.com/track/37TZpH55FF8LxIDShZuLLp"
+    },
+    {
+      "album": {
         "name": "/ / // / /",
         "url": "https://open.spotify.com/album/1MYxlVGsq3RBe5O3Em3xnz"
       },
@@ -1992,6 +2014,28 @@
       "duration_ms": 212500,
       "name": "Haunted Dance",
       "url": "https://open.spotify.com/track/6NuW5D8GFwVAVgc7Z3Wlv2"
+    },
+    {
+      "album": {
+        "name": "Heavenly You (feat. REML)",
+        "url": "https://open.spotify.com/album/1gIJekdZgsQizLp2G3aLT0"
+      },
+      "artists": [
+        {
+          "name": "LonePi",
+          "url": "https://open.spotify.com/artist/0FtyTvAiyb0IS8qTfGOaxb"
+        },
+        {
+          "name": "REML",
+          "url": "https://open.spotify.com/artist/7qAvJuLIr1uEt2iad9myrO"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233454,
+      "name": "Heavenly You (feat. REML)",
+      "url": "https://open.spotify.com/track/5DUKpelrahdO3Zuoi89lkd"
     },
     {
       "album": {
@@ -5272,6 +5316,24 @@
       "duration_ms": 145653,
       "name": "Yuguleoneroom (feat. Chano)",
       "url": "https://open.spotify.com/track/1QVZWK1ozjaK9uz3lvqQRv"
+    },
+    {
+      "album": {
+        "name": "ZEKKOU",
+        "url": "https://open.spotify.com/album/0aT6OYiBjgEMfA92jWmoeE"
+      },
+      "artists": [
+        {
+          "name": "NAKISO",
+          "url": "https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113217,
+      "name": "ZEKKOU",
+      "url": "https://open.spotify.com/track/7nlj9QwWHCmDPq89CkebOs"
     },
     {
       "album": {
