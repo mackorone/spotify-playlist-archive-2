@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Rob Harrowven, Splitter Conspiracy, Evil Level Live and more",
+  "description": "With Rob Harrowven, Evil Level Live, Splitter Conspiracy and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -24,6 +24,24 @@
       "duration_ms": 227258,
       "name": "#1 Crush",
       "url": "https://open.spotify.com/track/7nI32tjGZmL54z1CUfAXj0"
+    },
+    {
+      "album": {
+        "name": "(Just Like) Arcadia",
+        "url": "https://open.spotify.com/album/2PftNM0PoJ64R0BYqCWDH1"
+      },
+      "artists": [
+        {
+          "name": "Stiggenasty",
+          "url": "https://open.spotify.com/artist/3l49rk8pU2rOzFztgW65tp"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200640,
+      "name": "(Just Like) Arcadia",
+      "url": "https://open.spotify.com/track/52GaMDUrRxzTpd1r7VYqCl"
     },
     {
       "album": {
@@ -168,7 +186,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 209536,
       "name": "A song for the broken",
       "url": "https://open.spotify.com/track/0DMPMjuPkq7jfRuqpgNYXx"
@@ -826,7 +844,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 269538,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/66Utp40WE7272VaS384fo8"
@@ -1028,7 +1046,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 259700,
       "name": "Crashed and Burned",
       "url": "https://open.spotify.com/track/38aguYMaq8u41OSpyhk5UQ"
@@ -1176,7 +1194,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 231231,
       "name": "Deliria",
       "url": "https://open.spotify.com/track/5lLmmiT3mRddBFXBFjMLUF"
@@ -1714,7 +1732,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 229573,
       "name": "Galactic Tides",
       "url": "https://open.spotify.com/track/4iR5tmTE8GsxaH0PjYsJIN"
@@ -2361,6 +2379,24 @@
     },
     {
       "album": {
+        "name": "Puppets Know",
+        "url": "https://open.spotify.com/album/5wmSnx6DHERdTs3YBS1gFy"
+      },
+      "artists": [
+        {
+          "name": "Evil Level Live",
+          "url": "https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281500,
+      "name": "I'm made for more",
+      "url": "https://open.spotify.com/track/43qb7qNNuxjUq6Kq0APvcR"
+    },
+    {
+      "album": {
         "name": "What if I'm right",
         "url": "https://open.spotify.com/album/4sszFYVaE4gBtx3hrtMZIM"
       },
@@ -2372,7 +2408,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 243840,
       "name": "If it isn't about YOU",
       "url": "https://open.spotify.com/track/1vqNhV7zSbbOFqqCzHT4pS"
@@ -2787,6 +2823,24 @@
     },
     {
       "album": {
+        "name": "Thanks, I Hate It.",
+        "url": "https://open.spotify.com/album/2KBbLAxHjWnHih4sabqYOn"
+      },
+      "artists": [
+        {
+          "name": "Gavial",
+          "url": "https://open.spotify.com/artist/1M4hHh8vikAujqefBnBqlq"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215666,
+      "name": "Koru Mindset",
+      "url": "https://open.spotify.com/track/2NZK6ruSrACvOr4gZDUTah"
+    },
+    {
+      "album": {
         "name": "The Thirteenth Hour",
         "url": "https://open.spotify.com/album/2Y1pCIhpIlHpf1jJR2gkwD"
       },
@@ -2834,7 +2888,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 240000,
       "name": "Lena",
       "url": "https://open.spotify.com/track/1GP8hd4auBi1Uvg5q0Ng9h"
@@ -2914,7 +2968,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 213682,
       "name": "Lifetime after Lifetime",
       "url": "https://open.spotify.com/track/0vTyD8HiKwyRn6e5xq37Jm"
@@ -2968,7 +3022,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 197555,
       "name": "Lost Control",
       "url": "https://open.spotify.com/track/0OW9VBWdWaW5JTxtU1pgC9"
@@ -3394,7 +3448,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 292800,
       "name": "No Music No Hope",
       "url": "https://open.spotify.com/track/3hDiwWQ2dAzYPq9rPRzvxF"
@@ -3952,6 +4006,28 @@
       "duration_ms": 256777,
       "name": "Red and Gold",
       "url": "https://open.spotify.com/track/0FDQYEOZpOerg4dFVgjvP9"
+    },
+    {
+      "album": {
+        "name": "Remember The Exit Might Be Right Behind You",
+        "url": "https://open.spotify.com/album/4c0WhY4PjjFy0QyAFLrJgM"
+      },
+      "artists": [
+        {
+          "name": "Frozen Inertia",
+          "url": "https://open.spotify.com/artist/40QP5PeaGtO30oeEZ5VhHP"
+        },
+        {
+          "name": "Nastassia Moore",
+          "url": "https://open.spotify.com/artist/23G0dTisQZ9rUkDDkRLfnj"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187401,
+      "name": "Red Sky at Noon - Dandysounds Mix",
+      "url": "https://open.spotify.com/track/3JtLK1sccvAaKdhPKotx4P"
     },
     {
       "album": {
@@ -5396,7 +5472,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 266853,
       "name": "Wait for a Day",
       "url": "https://open.spotify.com/track/79WwDikRFMbWwdYiW8uvzk"
@@ -5468,7 +5544,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 224664,
       "name": "We Are Coming For You",
       "url": "https://open.spotify.com/track/3bjWpL7lhDtUeG2rPuP1gc"

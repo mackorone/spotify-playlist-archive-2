@@ -193,6 +193,28 @@
     },
     {
       "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/38I9qOuRg17eRs0b8bgZCz"
+      },
+      "artists": [
+        {
+          "name": "PAS TASTA",
+          "url": "https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS"
+        },
+        {
+          "name": "\u6a4b\u672c\u7d75\u8389\u5b50",
+          "url": "https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200731,
+      "name": "Pure (feat. Eriko Hashimoto)",
+      "url": "https://open.spotify.com/track/0qI9slgq5TJxNnkPFZcryt"
+    },
+    {
+      "album": {
         "name": "sakura",
         "url": "https://open.spotify.com/album/6rCZW9dqxsTecPKY8TD25h"
       },

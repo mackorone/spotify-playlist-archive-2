@@ -317,6 +317,28 @@
     },
     {
       "album": {
+        "name": "Evanescent",
+        "url": "https://open.spotify.com/album/0okwPc8KUnt25Z7gMC95nq"
+      },
+      "artists": [
+        {
+          "name": "Lucevitous",
+          "url": "https://open.spotify.com/artist/2zMppC7MK20J3LX5lwQNvo"
+        },
+        {
+          "name": "\u30e1\u30b0\u30c3\u30dd\u30a4\u30c9",
+          "url": "https://open.spotify.com/artist/36JmKF8ae9cmpYmbL5fZXD"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "Evanescent (feat. \u30e1\u30b0\u30c3\u30dd\u30a4\u30c9&\u304c\u304f\u3063\u307d\u3044\u3069)",
+      "url": "https://open.spotify.com/track/0XBlpYmuLYZPs9UrNd1S08"
+    },
+    {
+      "album": {
         "name": "Everything Is Missing",
         "url": "https://open.spotify.com/album/6q0yDtLRGApMobj7MtOulx"
       },
@@ -1296,7 +1318,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 150620,
       "name": "Smell The Rat (feat. \u521d\u97f3\u30df\u30af&\u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/3QF26drkYQv8qrpknrp4DV"
@@ -3475,6 +3497,28 @@
     },
     {
       "album": {
+        "name": "\u30ad\u30fc\u30d7\u30a2\u30a6\u30c8",
+        "url": "https://open.spotify.com/album/31bdi9yzlaEbSLbxegSQ5i"
+      },
+      "artists": [
+        {
+          "name": "\u6cb9\u6027",
+          "url": "https://open.spotify.com/artist/0AxUCpQCsjgVZaMOcsgbcj"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203550,
+      "name": "\u30ad\u30fc\u30d7\u30a2\u30a6\u30c8 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/01CGF3QSbWv1vq49RKoREV"
+    },
+    {
+      "album": {
         "name": "P\u2234Rhythmatiq Floor:01",
         "url": "https://open.spotify.com/album/1tEo7buUJt9HkcOj9ljjaJ"
       },
@@ -4422,7 +4466,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 216320,
       "name": "\u30c9\u30ad\u30c9\u30ad\uff01 (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ec\u30f3)",
       "url": "https://open.spotify.com/track/74qnE87s1xhS5kJ6StFMXw"
@@ -6817,6 +6861,32 @@
     },
     {
       "album": {
+        "name": "\u5927\u4eba\u306b\u306a\u308b\u3053\u3068\u306f\u7d42\u308f\u308a\u3067\u306f\u306a\u3044",
+        "url": "https://open.spotify.com/album/3CGIqDkoY9C7wLdeWs1ko5"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u30e1\u30eb\u30c4P",
+          "url": "https://open.spotify.com/artist/69PSxkMSs4XP1kRezRs5EY"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192635,
+      "name": "\u5927\u4eba\u306b\u306a\u308b\u3053\u3068\u306f\u7d42\u308f\u308a\u3067\u306f\u306a\u3044 (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/6H9X8bDMOru1W4izgVMahG"
+    },
+    {
+      "album": {
         "name": "\u5927\u597d\u304d\u306a\u30b9\u30ad\u304c\u5927\u597d\u304d!!",
         "url": "https://open.spotify.com/album/7B8rxzJW7F7kDnWODdxbPd"
       },
@@ -6836,6 +6906,28 @@
       "duration_ms": 163699,
       "name": "\u5927\u597d\u304d\u306a\u30b9\u30ad\u304c\u5927\u597d\u304d!!",
       "url": "https://open.spotify.com/track/1f7rAUaDCSKJxE3cQFRKue"
+    },
+    {
+      "album": {
+        "name": "\u5927\u8ca7\u6c11",
+        "url": "https://open.spotify.com/album/2FSMm5oC3QjM9VyFof3u6C"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30ed\u30e2\u30c8 \u30d2\u30e9\u30a4\u30b7\u30f3",
+          "url": "https://open.spotify.com/artist/1LkJol7BsMqy9OPQTPuUbD"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242853,
+      "name": "\u5927\u8ca7\u6c11 (feat. \u91cd\u97f3\u30c6\u30c8SV)",
+      "url": "https://open.spotify.com/track/3NWJGKJA3A5QjzXksdP88g"
     },
     {
       "album": {
@@ -7042,7 +7134,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 144926,
       "name": "\u5e95\u8a18\u5e78\u6bd2 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6K38ItPoah6Z9YCm6NH2QI"
@@ -8043,6 +8135,24 @@
     },
     {
       "album": {
+        "name": "DEcorAtion boX",
+        "url": "https://open.spotify.com/album/1QPXz7wVLOqTCLqBzYm4Yp"
+      },
+      "artists": [
+        {
+          "name": "\u30e1\u30c9\u30df\u30a2",
+          "url": "https://open.spotify.com/artist/1o2y1QAdMMp0qLp6m267KP"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179293,
+      "name": "\u76ee\u7dda\u3082\u304f\u3060\u3055\u3044\u304a\u59eb\u69d8\uff01",
+      "url": "https://open.spotify.com/track/0Dql3OBrwPr8R9Tu9qbONP"
+    },
+    {
+      "album": {
         "name": "\u771f\u3063\u767d\u306a\u30da\u30fc\u30b8\u306b\u900f\u304b\u3057\u305f\u7a7a",
         "url": "https://open.spotify.com/album/5cXXeIG3NmhqALDxXf5mvD"
       },
@@ -8124,7 +8234,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 270782,
       "name": "\u78a7\u708e (feat. \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/1WfubP4lYiJN3MHwQWrbqx"
@@ -8190,7 +8300,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 176043,
       "name": "\u7a7a\u594f\u30b8\u30e3\u30f3\u30d7 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/13vxiJvPxuhmvDuVP41Wxb"

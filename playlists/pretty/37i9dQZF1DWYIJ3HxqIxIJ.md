@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Local artists you need to watch, handpicked by our editors\. Cover: MAY\-A
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,336 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,370 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 59 | [WHATEVERWHATEVER](https://open.spotify.com/track/5HiyqL9aXOxGn0ORd6ua13) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [WHATEVERWHATEVER](https://open.spotify.com/album/5nCl0anzakUn8ycOHqYFne) | 2:28 |
 | 60 | [Girlfriend](https://open.spotify.com/track/53lh1N2XntXWKXYCIyTniO) | [Darcie Haven](https://open.spotify.com/artist/4z5Ea2f21AVA18kbjWp0Ni) | [Girlfriend](https://open.spotify.com/album/3hiqNDirWqhevI3Q9hoq1h) | 3:50 |
 
-Snapshot ID: `AAAAAOB184oehSKMl3JdkqgC2JeGMtvP`
+Snapshot ID: `AAAAAGOGMH0bYmn6EGinkBvBwt/PVZSJ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Pop bops for the saints!  Cover: Sarah Juers
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,763 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,789 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 8 | [Already On The Way](https://open.spotify.com/track/5BiB8P7GtRhU5qXhfUVraS) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Already On The Way](https://open.spotify.com/album/5XEkfQjUdUlyleyG4uc0yo) | 4:12 |
 | 9 | [THANK YOU JESUS](https://open.spotify.com/track/3YLX1VjbWgtAd44hD8T5I8) | [Edgar Sandoval Jr](https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4) | [THANK YOU JESUS](https://open.spotify.com/album/0AHsfQAqgpOVQs4dJkgkMO) | 2:48 |
 | 10 | [oxygen \- H3nry Thr!ll Version](https://open.spotify.com/track/0m66iu9iCSTEspCzVsbrLA) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl), [H3nry Thr!ll](https://open.spotify.com/artist/2GKIFC9wCaMs2vohojNLk5) | [oxygen \(H3nry Thr!ll Version\)](https://open.spotify.com/album/0rSbx6nUiWRtbmm0YR8oPa) | 2:00 |
-| 11 | [Gunpowder](https://open.spotify.com/track/27A0b6I98O6Y47FVyvYNz4) | [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n), [gracie](https://open.spotify.com/artist/5cEucK6zCdSeFyB5899bKC) | [Gunpowder](https://open.spotify.com/album/0jlQXYdBpHw0C5VwATIv35) | 3:33 |
+| 11 | [Gunpowder](https://open.spotify.com/track/27A0b6I98O6Y47FVyvYNz4) | [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n), [Gracie](https://open.spotify.com/artist/1kRAfMPD0sNjqJSWlhtzUt) | [Gunpowder](https://open.spotify.com/album/0jlQXYdBpHw0C5VwATIv35) | 3:33 |
 | 12 | [STAND STRONG](https://open.spotify.com/track/5CIWMOtUlrW9XWddgClI4U) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [War Cry](https://open.spotify.com/album/3bfUa5skv4g2TZ7Ro2Slks) | 3:09 |
 | 13 | [Perfect](https://open.spotify.com/track/7uOKp6a6Vw6qrBA4ct3TJx) | [Mackenzie Phillips](https://open.spotify.com/artist/0Sw7CtJQ5uo1DL8XgQChLY), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Perfect](https://open.spotify.com/album/1LBfbkF1i6ikTkAQNIaQEH) | 3:07 |
 | 14 | [Bloodline](https://open.spotify.com/track/1Y1s6jQ2ypxlf0RLSIdIcl) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Welcome To The Bloodline](https://open.spotify.com/album/6uzfnOsa8YCptMbOJoMM1M) | 4:32 |

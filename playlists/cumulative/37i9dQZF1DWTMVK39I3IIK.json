@@ -2691,6 +2691,24 @@
     },
     {
       "album": {
+        "name": "hot but depressive",
+        "url": "https://open.spotify.com/album/5Ay0BAktKkO9l7dUQSmTbU"
+      },
+      "artists": [
+        {
+          "name": "Elliot",
+          "url": "https://open.spotify.com/artist/1GUGqjD5UliyQ31rYo7JBd"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164870,
+      "name": "hot but depressive",
+      "url": "https://open.spotify.com/track/4kRAn2ZrWPzN0bQiLmtLUq"
+    },
+    {
+      "album": {
         "name": "How Does It Make U Feel",
         "url": "https://open.spotify.com/album/0IqDhsXRrfVOGsOT3J4Bzg"
       },
@@ -4330,7 +4348,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 208430,
       "name": "nothing at all",
       "url": "https://open.spotify.com/track/4R8nC9Xq3alkz4piaQd34S"

@@ -32935,6 +32935,28 @@
     },
     {
       "album": {
+        "name": "HU4D",
+        "url": "https://open.spotify.com/album/0hgyPBuj4JvRQ6adRvkkAP"
+      },
+      "artists": [
+        {
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+        },
+        {
+          "name": "Matthew Dear",
+          "url": "https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230202,
+      "name": "HU4D",
+      "url": "https://open.spotify.com/track/5MPZyHWn8YpxQEw4KqQ8FR"
+    },
+    {
+      "album": {
         "name": "Hungover (with Camden Cox)",
         "url": "https://open.spotify.com/album/0zmoJBEhLPoiKBzXMeFjAm"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 
 > Άκου τα πιο χοτ trends στην Ελλάδα αυτή τη στιγμή!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,188 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,194 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 | 59 | [Kale..\. Poios Einai Autos?](https://open.spotify.com/track/3RS5AmoANjZz0PXsOUjovL) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [Kale..\. Poios Einai Autos?](https://open.spotify.com/album/1p6wochIG0XNOunIdKHdh7) | 2:26 |
 | 60 | [PARADISO](https://open.spotify.com/track/74eCVhPx2IXqqrqLxGLiPN) | [Sicario](https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV), [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7), [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP), [Màdu](https://open.spotify.com/artist/6atzjQLN3Lki197lQuscOI) | [PARADISO](https://open.spotify.com/album/0K9I0a6MdMq7wvJUWfOY5B) | 3:28 |
 
-Snapshot ID: `AAAAAF4YAZIlT2lBEW2RX9pso3zoCPGw`
+Snapshot ID: `AAAAAGh955yhM6wesAcoHVg4YL8pn5gw`

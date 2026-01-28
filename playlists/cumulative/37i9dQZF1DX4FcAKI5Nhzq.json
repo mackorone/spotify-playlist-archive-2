@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: LNGSHOT)",
+  "description": "Future K-Pop hits! (Cover: YOUNG POSSE)",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -522,6 +522,24 @@
       "duration_ms": 213000,
       "name": "A Chance Encounter",
       "url": "https://open.spotify.com/track/0lGPKB9g7qVCs5vMzZMGe2"
+    },
+    {
+      "album": {
+        "name": "A Minute, A Second",
+        "url": "https://open.spotify.com/album/72jVNugN4j3KraXGzGEki2"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192474,
+      "name": "A Minute, A Second",
+      "url": "https://open.spotify.com/track/5QB4UqWDiTnKdmW4QXHj70"
     },
     {
       "album": {
@@ -2806,7 +2824,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 176000,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/6yyjU86kQpxVW9RMUdgGfv"
@@ -5136,6 +5154,24 @@
       "duration_ms": 142213,
       "name": "CLOUD 9",
       "url": "https://open.spotify.com/track/1EV5az9KISodiYS8CmfRY0"
+    },
+    {
+      "album": {
+        "name": "cloud palace ~ false awakening",
+        "url": "https://open.spotify.com/album/5tWqAvfjjRelNvWFNrV8hK"
+      },
+      "artists": [
+        {
+          "name": "Billlie",
+          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201771,
+      "name": "cloud palace",
+      "url": "https://open.spotify.com/track/1dsuEyZ0ZPgL7Z1HAaFSek"
     },
     {
       "album": {
@@ -8318,7 +8354,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 176847,
       "name": "Fame",
       "url": "https://open.spotify.com/track/1nEhhkEidrTOtc46fCvRFp"
@@ -12266,7 +12302,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 199867,
       "name": "I DONT CARE",
       "url": "https://open.spotify.com/track/7h6DJy4HspkjUtOdYtfqv4"
@@ -16813,6 +16849,28 @@
     },
     {
       "album": {
+        "name": "Mono (Feat. skaiwater)",
+        "url": "https://open.spotify.com/album/5DxK3xKAeE2h66JGxZYKAC"
+      },
+      "artists": [
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        },
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170653,
+      "name": "Mono (Feat. skaiwater)",
+      "url": "https://open.spotify.com/track/2KYKOG5dNgY4sZHWf5hr3g"
+    },
+    {
+      "album": {
         "name": "Monster - The 1st Mini Album",
         "url": "https://open.spotify.com/album/4DFheSBXhfewjz7SSe4Kyc"
       },
@@ -20626,7 +20684,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 160000,
       "name": "RED (Beggin\u2019)",
       "url": "https://open.spotify.com/track/03ZcDObLhvSeadqOg0gsiP"
@@ -23801,6 +23859,24 @@
     },
     {
       "album": {
+        "name": "Spring Fever, Pt. 7 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3EhkvrtYTudwpxtOnxvWuW"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173732,
+      "name": "Still In Time",
+      "url": "https://open.spotify.com/track/2AId5fDE2y1UUbagfZVzIQ"
+    },
+    {
+      "album": {
         "name": "\u5149 (INSANITY)",
         "url": "https://open.spotify.com/album/7tZx0RBXbIsbrW1UwAH6sy"
       },
@@ -24068,7 +24144,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 177000,
       "name": "SUGAR",
       "url": "https://open.spotify.com/track/7gXRZ5iYvLgW92DOYxyrD5"
@@ -26970,6 +27046,24 @@
       "duration_ms": 205720,
       "name": "Virus",
       "url": "https://open.spotify.com/track/6Cl4pfI7IDhX1zEfiBP8KR"
+    },
+    {
+      "album": {
+        "name": "VISA / Pilot3",
+        "url": "https://open.spotify.com/album/7BYBKfbZxXgJkZ82GYp3MI"
+      },
+      "artists": [
+        {
+          "name": "YOUNG POSSE",
+          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247312,
+      "name": "VISA",
+      "url": "https://open.spotify.com/track/3rLQaj0aIBRBEsSwHGY0HP"
     },
     {
       "album": {

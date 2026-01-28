@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything ⚔️ cover: hemlocke springs
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,266 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,261 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 30 | [Everybody Talks](https://open.spotify.com/track/7mqTdRDE6VeMJBKAiHyef2) | [Eaves Wilder](https://open.spotify.com/artist/41NfVLegTOApdhejdXt4jQ) | [Everybody Talks](https://open.spotify.com/album/1AbF6gvhSMeNKgPuj2XTMP) | 5:22 |
 | 31 | [Croak Dream](https://open.spotify.com/track/206C76r5reCLqy0cP2heL3) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Croak Dream](https://open.spotify.com/album/3GYv2LHunmOdSrBy5SdGta) | 5:46 |
 | 32 | [IMPLOSION](https://open.spotify.com/track/5v64rhcXYgkQhdTp2tlVD8) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [IMPLOSION](https://open.spotify.com/album/02uOUfa2VRpL4MMGH9fxU2) | 3:20 |
-| 33 | [floater friend](https://open.spotify.com/track/2LOgNm6SUXZBiucfL3dBeT) | [Cathrine Fornæss](https://open.spotify.com/artist/3JVWX2LmyzRNlcNMtOV5dV) | [floater friend](https://open.spotify.com/album/2T9SFX98jcl7690IzVok08) | 3:34 |
+| 33 | [floater friend](https://open.spotify.com/track/2LOgNm6SUXZBiucfL3dBeT) | [cathrine doll](https://open.spotify.com/artist/34IHawqPllizVsoq3udkZE) | [floater friend](https://open.spotify.com/album/2T9SFX98jcl7690IzVok08) | 3:34 |
 | 34 | [White Rabbit](https://open.spotify.com/track/6ByihEGX73B1cMlcw78bvO) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [White Rabbit](https://open.spotify.com/album/4weZHDdUsAriOiu5b1273N) | 3:05 |
 | 35 | [Sick Of It](https://open.spotify.com/track/367AQlJCgsxSJv0MYRQXCh) | [Harlen](https://open.spotify.com/artist/2k1NNKMVa0VXuUMsnUbvKj) | [Sick Of It](https://open.spotify.com/album/6durImFignj6kEwj1nxp7d) | 1:59 |
 | 36 | [Mirrors](https://open.spotify.com/track/1HEYW4REh7DLbv5aE5vqkI) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Mirrors](https://open.spotify.com/album/5klQzXGzwq3yxUhLuHehkd) | 2:08 |

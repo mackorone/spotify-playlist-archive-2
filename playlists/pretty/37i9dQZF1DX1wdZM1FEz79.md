@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 적재\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 박창근 \(BAK CHANG GEUN\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,778 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,773 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Romance, That Night](https://open.spotify.com/track/3RHnrd8EXoa8sNIJdson0Y) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Romance, That Night \(Original Soundtrack from Even if This Love Disappears Tonight\)](https://open.spotify.com/album/10TxbJvek1C51DB8Cnmhix) | 3:23 |
-| 2 | [I wonder](https://open.spotify.com/track/6eD6vxYmarjBHMvh7H16Sj) | [BAK CHANG GEUN](https://open.spotify.com/artist/4Gan2DEelDmjPv6jMaSYG9) | [I wonder](https://open.spotify.com/album/5sCytTeu47edSY09lW4dKK) | 3:48 |
+| 1 | [I wonder](https://open.spotify.com/track/6eD6vxYmarjBHMvh7H16Sj) | [BAK CHANG GEUN](https://open.spotify.com/artist/4Gan2DEelDmjPv6jMaSYG9) | [I wonder](https://open.spotify.com/album/5sCytTeu47edSY09lW4dKK) | 3:48 |
+| 2 | [Romance, That Night](https://open.spotify.com/track/3RHnrd8EXoa8sNIJdson0Y) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Romance, That Night \(Original Soundtrack from Even if This Love Disappears Tonight\)](https://open.spotify.com/album/10TxbJvek1C51DB8Cnmhix) | 3:23 |
 | 3 | [Endlessly](https://open.spotify.com/track/1EJ0D4WvCfdU0U0I5T0XaR) | [Jcob \(THE BOYZ\)](https://open.spotify.com/artist/6oFeRDy5gmaP90kgHUf2h2) | [Undercover Miss Hong OST Part.3](https://open.spotify.com/album/61yVr17ptFdMzkW5CTliOb) | 3:00 |
-| 4 | [Chestnut](https://open.spotify.com/track/1wtH3UhUDKvxCbt6gqB2Nb) | [JINHO](https://open.spotify.com/artist/3hFLEV38JDeNr3L0HIkeG0) | [Chestnut](https://open.spotify.com/album/6rklAYvv1lmGRRr29DdZBK) | 2:41 |
+| 4 | [We will sing](https://open.spotify.com/track/2eYRLrg0QxV4D43UVQ1lOg) | [SOBO](https://open.spotify.com/artist/2tNollCrlC9RSDKyw98N4k), [Sung Haebin](https://open.spotify.com/artist/0tq4WWL39Wk9b1xIKAhS86) | [We will sing](https://open.spotify.com/album/7wIuVFuJBwpA10bmy02nCX) | 4:02 |
 | 5 | [No Worry Salon](https://open.spotify.com/track/0qTny0XZx8NOzJLjiOLQoU) | [sanha](https://open.spotify.com/artist/3SSkfDFsKDXm5gwMK47uBR) | [No Worry Salon](https://open.spotify.com/album/6gTnFa78SoCnX1yRFn7leu) | 4:11 |
 | 6 | [서로 사랑하는 마음](https://open.spotify.com/track/64GCpxU4PsAX7a2A96niEN) | [찰리빈웍스](https://open.spotify.com/artist/1aoo4BsnCKdH4feovaFNcF) | [서로 사랑하는 마음](https://open.spotify.com/album/4AUjsrzL4QHLPcqbKgwHMn) | 3:15 |
 | 7 | [Fine](https://open.spotify.com/track/6CdUgvL597jWmW4w8P5kHs) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 49 | [4Seasons](https://open.spotify.com/track/6HnloutgoztTP3JihNhWIH) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [4Seasons](https://open.spotify.com/album/2MoILlgDR44UdKEh5UAEjL) | 2:39 |
 | 50 | [Stupid love song \(with Crush\)](https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:08 |
 
-Snapshot ID: `AAAAAO2z+wSdzUn7zaT/gIM44pvAXdFv`
+Snapshot ID: `AAAAAAfJ6H/1ETedhb15k6l8lsY7t1SE`

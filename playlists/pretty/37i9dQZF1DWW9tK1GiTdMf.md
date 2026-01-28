@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per un inverno non proprio felice \(ottobre in cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,911 likes - 111 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,910 likes - 111 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,15 +12,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 2 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
 | 3 | [ragni](https://open.spotify.com/track/50pdIXnMcKjbDDBJq6WeZ5) | [OTTOBRE](https://open.spotify.com/artist/5X5IPqmCHjrWRShSmQ60Sp) | [ragni](https://open.spotify.com/album/37AexxtwnxdVEP2B9nPhyb) | 2:38 |
 | 4 | [LIBERTÀ](https://open.spotify.com/track/5FYBw3MoIwlTlsMKDO9Rve) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Re lucertola tiranna](https://open.spotify.com/album/6jr88gNttvHXfJdHpTDqfr) | 3:31 |
-| 5 | [Ballando Con Te](https://open.spotify.com/track/2i80maftqYWVSRst3reXCo) | [Chicoboyah](https://open.spotify.com/artist/1fBkKzgI3Bl1R2ePXRAcTW) | [Ballando Con Te](https://open.spotify.com/album/7wP30X1uVRN1yEjKO4DfRo) | 3:19 |
-| 6 | [Non è mica te](https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Amarsi è la rivoluzione](https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP) | 3:07 |
-| 7 | [NON MI RICONOSCO ≠ \(con centomilacarie, Salmo\)](https://open.spotify.com/track/49Z7NyXeCgUTPRFJaUkoVG) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [MĀYĀ](https://open.spotify.com/album/5wByaEbAmxIlQCDdicFJry) | 3:36 |
-| 8 | [Io non sento niente](https://open.spotify.com/track/5Iust9wFkcYrCJuFagdFpn) | [CHANDIE](https://open.spotify.com/artist/7x7GichhdGuPorBJYghR5S) | [Io non sento niente](https://open.spotify.com/album/7fv13X0AXKpJqaQ5vQgTUE) | 3:36 |
-| 9 | [Come ti voglio](https://open.spotify.com/track/4Pnkgp0UW07tGo59g8dpJJ) | [GIIN](https://open.spotify.com/artist/5FqDKPJK3RSwGTW4rlBJFM) | [Come ti voglio](https://open.spotify.com/album/0ObiXMrEa1dQ17EUAH1Yfd) | 2:43 |
-| 10 | [Un fiore per coltello](https://open.spotify.com/track/3zb9a4NOpoSLuDZv6dmQzT) | [L'Officina Della Camomilla](https://open.spotify.com/artist/3E0AdQIPzFjiMFto5NiKuM) | [Senontipiacefalostesso Uno](https://open.spotify.com/album/0GBlyMkQzvjYhOC0RTTQVW) | 4:14 |
-| 11 | [Maledetta Rabbia](https://open.spotify.com/track/0GeIXUfthmnfMLfPRdDiVt) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Maledetta Rabbia](https://open.spotify.com/album/5hJ80aNRyLVqXoQhN4qMmy) | 2:35 |
-| 12 | [Eii](https://open.spotify.com/track/4WiXdkbsYfeGZKF7pnqken) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Eii](https://open.spotify.com/album/2DIUrFaBndxT7h1k8tfPAw) | 2:20 |
-| 13 | [IN BILICO \(feat\. Giaime\)](https://open.spotify.com/track/30I701J61Fx1Brg48DUTWe) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd), [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k) | [IN BILICO \(feat\. Giaime\)](https://open.spotify.com/album/3VGlTHfBT68qj5QjuEjthv) | 2:22 |
+| 5 | [Non è mica te](https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Amarsi è la rivoluzione](https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP) | 3:07 |
+| 6 | [NON MI RICONOSCO ≠ \(con centomilacarie, Salmo\)](https://open.spotify.com/track/49Z7NyXeCgUTPRFJaUkoVG) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [MĀYĀ](https://open.spotify.com/album/5wByaEbAmxIlQCDdicFJry) | 3:36 |
+| 7 | [Io non sento niente](https://open.spotify.com/track/5Iust9wFkcYrCJuFagdFpn) | [CHANDIE](https://open.spotify.com/artist/7x7GichhdGuPorBJYghR5S) | [Io non sento niente](https://open.spotify.com/album/7fv13X0AXKpJqaQ5vQgTUE) | 3:36 |
+| 8 | [Come ti voglio](https://open.spotify.com/track/4Pnkgp0UW07tGo59g8dpJJ) | [GIIN](https://open.spotify.com/artist/5FqDKPJK3RSwGTW4rlBJFM) | [Come ti voglio](https://open.spotify.com/album/0ObiXMrEa1dQ17EUAH1Yfd) | 2:43 |
+| 9 | [Un fiore per coltello](https://open.spotify.com/track/3zb9a4NOpoSLuDZv6dmQzT) | [L'Officina Della Camomilla](https://open.spotify.com/artist/3E0AdQIPzFjiMFto5NiKuM) | [Senontipiacefalostesso Uno](https://open.spotify.com/album/0GBlyMkQzvjYhOC0RTTQVW) | 4:14 |
+| 10 | [Maledetta Rabbia](https://open.spotify.com/track/0GeIXUfthmnfMLfPRdDiVt) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Maledetta Rabbia](https://open.spotify.com/album/5hJ80aNRyLVqXoQhN4qMmy) | 2:35 |
+| 11 | [Eii](https://open.spotify.com/track/4WiXdkbsYfeGZKF7pnqken) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Eii](https://open.spotify.com/album/2DIUrFaBndxT7h1k8tfPAw) | 2:20 |
+| 12 | [IN BILICO \(feat\. Giaime\)](https://open.spotify.com/track/30I701J61Fx1Brg48DUTWe) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd), [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k) | [IN BILICO \(feat\. Giaime\)](https://open.spotify.com/album/3VGlTHfBT68qj5QjuEjthv) | 2:22 |
+| 13 | [Ballando Con Te](https://open.spotify.com/track/2i80maftqYWVSRst3reXCo) | [Chicoboyah](https://open.spotify.com/artist/1fBkKzgI3Bl1R2ePXRAcTW) | [Ballando Con Te](https://open.spotify.com/album/7wP30X1uVRN1yEjKO4DfRo) | 3:19 |
 | 14 | [Pillole](https://open.spotify.com/track/02awCaNU1SgRt1ol80wRDP) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Spazio](https://open.spotify.com/album/1rF5ezgSerqkUK1Nc9Ft6p) | 3:16 |
 | 15 | [Rock 'N Roll Queen](https://open.spotify.com/track/1EunUYSnYIL2Td0rZmzh7w) | [Danien & Theø](https://open.spotify.com/artist/0UyLfzwH9SXflwWW7GDHfa) | [La dolce vita](https://open.spotify.com/album/17v3aLjI654A1gpSp5Uf4D) | 2:26 |
 | 16 | [Favola](https://open.spotify.com/track/4hibXjoxoVQueVeBY3b3NU) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Favola](https://open.spotify.com/album/00JtOxPVWh6DtrBYUIZeT8) | 2:37 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 110 | [SPA CABARET](https://open.spotify.com/track/4VNVRdDCmLMbduC0V5GKeU) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [SPA CABARET](https://open.spotify.com/album/1aw7rRwfDqyKGHcGcsOrXQ) | 3:31 |
 | 111 | [:PiLLoLe '22](https://open.spotify.com/track/3NOE2Av0zTMTb5vHQoMDSN) | [EMMA](https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq) | [:PiLLoLe '22](https://open.spotify.com/album/6p78avkge1RNSXmbucDRBU) | 3:43 |
 
-Snapshot ID: `AAAAAG+jfttFY816BfHm8vRz94S0X8A/`
+Snapshot ID: `AAAAAEz/vPk1Axotx6jDfoS4OkHG3pAg`

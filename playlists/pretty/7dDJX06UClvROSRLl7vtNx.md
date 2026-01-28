@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 103,090 likes - 203 songs - 8 hr 44 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 103,105 likes - 203 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 9 | [Every Night](https://open.spotify.com/track/64O22PBIITfHsF5Lfq19yj) | [The kid in blue](https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS) | [Every Night](https://open.spotify.com/album/3aQSYBt49ImLqpdP5Eve6r) | 2:03 |
 | 10 | [Hold Me Close](https://open.spotify.com/track/4KN6yCPfmEqutksaM3Pg0p) | [M2chael](https://open.spotify.com/artist/2ciGImEu29l0qk6LCRjg5G), [FRIDA](https://open.spotify.com/artist/0Yl3oq30sTn7nopIGWW53p), [James Lacey](https://open.spotify.com/artist/1aT67zKHExe9eCqc0Ny0GG) | [Hold Me Close](https://open.spotify.com/album/00mtE4QrwiBj2GqTZWxsBp) | 2:26 |
 | 11 | [Was It A Dream](https://open.spotify.com/track/0dSAUKyLQN2MjZMSYkIjoR) | [Maynørr](https://open.spotify.com/artist/7hTaKNOFsEi4VlXr0KJMHo), [Manunt](https://open.spotify.com/artist/52x5hsgXNzjmWUV1SkdkII), [sunsett.](https://open.spotify.com/artist/5YoAuObMlm022Z0tDOYXsB) | [Was It A Dream](https://open.spotify.com/album/3ztsRrUeM8gm5KDDDuTM2a) | 2:40 |
-| 12 | [Love Again](https://open.spotify.com/track/3P9nkueQdx2WU8n7Ts8bSk) | [DIMEO](https://open.spotify.com/artist/1X1F9k3gK7L5WkPkGN9XEu), [3ric](https://open.spotify.com/artist/7fAAXa1KA8vJUN28jjLwAg), [simplesun](https://open.spotify.com/artist/1WxW90xSu4iYzfw9fg5fb3) | [Love Again](https://open.spotify.com/album/41KvaLv7S0xA2kq1e2WZpi) | 2:49 |
+| 12 | [Love Again](https://open.spotify.com/track/3P9nkueQdx2WU8n7Ts8bSk) | [DIMEO](https://open.spotify.com/artist/5OBm2KxB9JIw4o9msXkeNQ), [3ric](https://open.spotify.com/artist/7fAAXa1KA8vJUN28jjLwAg), [simplesun](https://open.spotify.com/artist/1WxW90xSu4iYzfw9fg5fb3) | [Love Again](https://open.spotify.com/album/41KvaLv7S0xA2kq1e2WZpi) | 2:49 |
 | 13 | [Drifted Away](https://open.spotify.com/track/4eEfeI0DvBdLwOP5SDLCCH) | [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [Feel On Eel](https://open.spotify.com/artist/2QfgJI9B4SE5PKdQfOIjjL) | [Drifted Away](https://open.spotify.com/album/4McNWdsCQ0xXUur2jEMpoB) | 2:10 |
 | 14 | [Dancing On The Edge](https://open.spotify.com/track/0PBPhW4ABlgEQLvDkj5Ioc) | [Daniel Santoro](https://open.spotify.com/artist/2LwSighkNo49filvTvJmBz) | [Dancing On The Edge](https://open.spotify.com/album/2R3GWmzz33CjB9nv1qofPM) | 2:46 |
 | 15 | [Without You](https://open.spotify.com/track/6sTRRES1pZTUPbQtAYR5SW) | [RUSSI](https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U) | [Without You](https://open.spotify.com/album/1EAdonVaTPxAuT6pk1XdJw) | 2:52 |

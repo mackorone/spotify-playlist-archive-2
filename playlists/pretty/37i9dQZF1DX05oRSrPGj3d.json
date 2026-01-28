@@ -1,6 +1,6 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Cover: Willie Nelson",
-  "num_followers": 286555,
+  "num_followers": 286570,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-11-03 22:12:55",
       "album": {
-        "name": "Live at Billy Bob's Texas",
-        "url": "https://open.spotify.com/album/6csMrzyN5ZpLcwxBWH9XeQ"
-      },
-      "artists": [
-        {
-          "name": "Stoney LaRue",
-          "url": "https://open.spotify.com/artist/0T7J61YgErxSH8yuyggHJO"
-        }
-      ],
-      "duration_ms": 248586,
-      "name": "Feet Don't Touch the Ground",
-      "url": "https://open.spotify.com/track/5jlKg466AQEoBSPJ8y8wyY"
-    },
-    {
-      "added_at": "2025-11-03 22:12:55",
-      "album": {
         "name": "Blink You'll Miss It",
         "url": "https://open.spotify.com/album/3fWz8gQUrBBsf7y7q1znTq"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 212819,
       "name": "Damn Good Goodbye",
       "url": "https://open.spotify.com/track/1tPAhtdVRtRexRdH9QXOSP"
+    },
+    {
+      "added_at": "2025-11-03 22:12:55",
+      "album": {
+        "name": "Live at Billy Bob's Texas",
+        "url": "https://open.spotify.com/album/6csMrzyN5ZpLcwxBWH9XeQ"
+      },
+      "artists": [
+        {
+          "name": "Stoney LaRue",
+          "url": "https://open.spotify.com/artist/0T7J61YgErxSH8yuyggHJO"
+        }
+      ],
+      "duration_ms": 248586,
+      "name": "Feet Don't Touch the Ground",
+      "url": "https://open.spotify.com/track/5jlKg466AQEoBSPJ8y8wyY"
     },
     {
       "added_at": "2025-11-03 22:12:55",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-11-03 22:12:55",
       "album": {
-        "name": "Three Days",
-        "url": "https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4"
-      },
-      "artists": [
-        {
-          "name": "Pat Green",
-          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
-        }
-      ],
-      "duration_ms": 297493,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/2HieRfsSSwQA1JUtfmRNgo"
-    },
-    {
-      "added_at": "2025-11-03 22:12:55",
-      "album": {
         "name": "Mr. Bojangles",
         "url": "https://open.spotify.com/album/48Pyc7crme2ofMCDnhsDwW"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 328146,
       "name": "Mr. Bojangles",
       "url": "https://open.spotify.com/track/51DLN9R1dIqkKnlRsz1kpg"
+    },
+    {
+      "added_at": "2025-11-03 22:12:55",
+      "album": {
+        "name": "Three Days",
+        "url": "https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4"
+      },
+      "artists": [
+        {
+          "name": "Pat Green",
+          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
+        }
+      ],
+      "duration_ms": 297493,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/2HieRfsSSwQA1JUtfmRNgo"
     },
     {
       "added_at": "2025-11-03 22:12:55",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-11-03 22:12:55",
       "album": {
-        "name": "Three Days",
-        "url": "https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4"
-      },
-      "artists": [
-        {
-          "name": "Pat Green",
-          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Texas On My Mind",
-      "url": "https://open.spotify.com/track/1q2lZdxH80D9UwM57J4pzX"
-    },
-    {
-      "added_at": "2025-11-03 22:12:55",
-      "album": {
         "name": "Rest Of My Life",
         "url": "https://open.spotify.com/album/3fOdo5NTgvDRnGtw70Eekp"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 174453,
       "name": "Rest Of My Life",
       "url": "https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn"
+    },
+    {
+      "added_at": "2025-11-03 22:12:55",
+      "album": {
+        "name": "Three Days",
+        "url": "https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4"
+      },
+      "artists": [
+        {
+          "name": "Pat Green",
+          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Texas On My Mind",
+      "url": "https://open.spotify.com/track/1q2lZdxH80D9UwM57J4pzX"
     },
     {
       "added_at": "2025-11-03 22:12:55",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2025-11-03 22:12:55",
       "album": {
-        "name": "Texas Cookin",
-        "url": "https://open.spotify.com/album/2NPT5jU2CNKwU1f8IdaAMF"
+        "name": "Tails I Lose",
+        "url": "https://open.spotify.com/album/3goaHaBpCfkyHLcw5ReS8b"
       },
       "artists": [
         {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 234506,
-      "name": "Anyhow, I Love You",
-      "url": "https://open.spotify.com/track/0SAi0kuzDwXPdQSHbEGfEt"
+      "duration_ms": 225801,
+      "name": "Tails I Lose",
+      "url": "https://open.spotify.com/track/0onu3vmyPJNYC8ARE81uGe"
     },
     {
       "added_at": "2025-11-03 22:12:55",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2025-11-03 22:12:55",
       "album": {
-        "name": "Tails I Lose",
-        "url": "https://open.spotify.com/album/3goaHaBpCfkyHLcw5ReS8b"
+        "name": "Texas Cookin",
+        "url": "https://open.spotify.com/album/2NPT5jU2CNKwU1f8IdaAMF"
       },
       "artists": [
         {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
         }
       ],
-      "duration_ms": 225801,
-      "name": "Tails I Lose",
-      "url": "https://open.spotify.com/track/0onu3vmyPJNYC8ARE81uGe"
+      "duration_ms": 234506,
+      "name": "Anyhow, I Love You",
+      "url": "https://open.spotify.com/track/0SAi0kuzDwXPdQSHbEGfEt"
     },
     {
       "added_at": "2025-11-03 22:12:55",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-11-03 22:12:55",
       "album": {
-        "name": "Brand New Me",
-        "url": "https://open.spotify.com/album/7A1EmHofXwlpTXu8w7xVsk"
-      },
-      "artists": [
-        {
-          "name": "Cory Morrow",
-          "url": "https://open.spotify.com/artist/0XRBwgqB24RnxXi7BFYNxC"
-        }
-      ],
-      "duration_ms": 189413,
-      "name": "Lonesome",
-      "url": "https://open.spotify.com/track/6Ca9qN2UcEgenWa5px1HyR"
-    },
-    {
-      "added_at": "2025-11-03 22:12:55",
-      "album": {
         "name": "The Waiting",
         "url": "https://open.spotify.com/album/0n6zxAXMLA2dDZx4bLs6IG"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 275523,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/3dlM0Jy0cLRzAOeBxMt7Mw"
+    },
+    {
+      "added_at": "2025-11-03 22:12:55",
+      "album": {
+        "name": "Brand New Me",
+        "url": "https://open.spotify.com/album/7A1EmHofXwlpTXu8w7xVsk"
+      },
+      "artists": [
+        {
+          "name": "Cory Morrow",
+          "url": "https://open.spotify.com/artist/0XRBwgqB24RnxXi7BFYNxC"
+        }
+      ],
+      "duration_ms": 189413,
+      "name": "Lonesome",
+      "url": "https://open.spotify.com/track/6Ca9qN2UcEgenWa5px1HyR"
     },
     {
       "added_at": "2025-11-03 22:12:55",

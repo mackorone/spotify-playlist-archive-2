@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 484337,
+  "num_followers": 484315,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "L.S.D",
-        "url": "https://open.spotify.com/album/3KWf6OTB2pXT7hVGh1DP2W"
-      },
-      "artists": [
-        {
-          "name": "Skegss",
-          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
-        }
-      ],
-      "duration_ms": 217538,
-      "name": "L.S.D",
-      "url": "https://open.spotify.com/track/6dhaX8fxmnXNZuOxmxyrvD"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Talking In My Sleep",
         "url": "https://open.spotify.com/album/4SEbfKk3d8pmyWTvdmJWBS"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 200482,
       "name": "Talking In My Sleep",
       "url": "https://open.spotify.com/track/3KCu4QHTMPAxkUFPnScNQl"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "L.S.D",
+        "url": "https://open.spotify.com/album/3KWf6OTB2pXT7hVGh1DP2W"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "duration_ms": 217538,
+      "name": "L.S.D",
+      "url": "https://open.spotify.com/track/6dhaX8fxmnXNZuOxmxyrvD"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Oily Heart",
-        "url": "https://open.spotify.com/album/6C1mqifjEehsmLTMTuYwWC"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 134266,
-      "name": "Oily Heart",
-      "url": "https://open.spotify.com/track/066xsSchUAaztnetPLMlVG"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Fish on the Sand",
         "url": "https://open.spotify.com/album/4nlrPQBvNN2iygMNk46lCJ"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 218019,
       "name": "Fish on the Sand",
       "url": "https://open.spotify.com/track/3Zd1APgfAFCQXpXYsz5rT5"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Oily Heart",
+        "url": "https://open.spotify.com/album/6C1mqifjEehsmLTMTuYwWC"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 134266,
+      "name": "Oily Heart",
+      "url": "https://open.spotify.com/track/066xsSchUAaztnetPLMlVG"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
+        "name": "So Excited",
+        "url": "https://open.spotify.com/album/2wFLtPEYR56o8ng2gvZIi8"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "duration_ms": 240486,
+      "name": "So Excited",
+      "url": "https://open.spotify.com/track/3H3Iz6PAfenrPKRq0tS4oN"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
         "name": "For The Dreams",
         "url": "https://open.spotify.com/album/408SgNp6BOa0lUetUrnkT1"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 243840,
       "name": "Mystic Rabbit",
       "url": "https://open.spotify.com/track/4g0e1m76WY9MLq5gDZ5OLI"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
-        "name": "So Excited",
-        "url": "https://open.spotify.com/album/2wFLtPEYR56o8ng2gvZIi8"
-      },
-      "artists": [
-        {
-          "name": "Skegss",
-          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
-        }
-      ],
-      "duration_ms": 240486,
-      "name": "So Excited",
-      "url": "https://open.spotify.com/track/3H3Iz6PAfenrPKRq0tS4oN"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -619,18 +619,18 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "State Of Hawaii",
-        "url": "https://open.spotify.com/album/5541RSz3RaWpTrymgn7c9h"
+        "name": "Read My Mind",
+        "url": "https://open.spotify.com/album/2zkiJVltIWQUHL5UDOzntc"
       },
       "artists": [
         {
-          "name": "Skegss",
-          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+          "name": "LAZY GHOST",
+          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
         }
       ],
-      "duration_ms": 255883,
-      "name": "State Of Hawaii",
-      "url": "https://open.spotify.com/track/1HSDvM0DRdNOqtx0kOfa3M"
+      "duration_ms": 212490,
+      "name": "Read My Mind",
+      "url": "https://open.spotify.com/track/6L0BqIVT6KY4QhgDeexcrY"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -651,34 +651,18 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Read My Mind",
-        "url": "https://open.spotify.com/album/2zkiJVltIWQUHL5UDOzntc"
+        "name": "State Of Hawaii",
+        "url": "https://open.spotify.com/album/5541RSz3RaWpTrymgn7c9h"
       },
       "artists": [
         {
-          "name": "LAZY GHOST",
-          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
         }
       ],
-      "duration_ms": 212490,
-      "name": "Read My Mind",
-      "url": "https://open.spotify.com/track/6L0BqIVT6KY4QhgDeexcrY"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/4UevxgkjqAx6rBhGlA28Yl"
-      },
-      "artists": [
-        {
-          "name": "flipturn",
-          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
-        }
-      ],
-      "duration_ms": 231950,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/7nH4MetArjcIwGgZ4TBLYj"
+      "duration_ms": 255883,
+      "name": "State Of Hawaii",
+      "url": "https://open.spotify.com/track/1HSDvM0DRdNOqtx0kOfa3M"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -699,18 +683,18 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Thrift Store",
-        "url": "https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ"
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/4UevxgkjqAx6rBhGlA28Yl"
       },
       "artists": [
         {
-          "name": "Arcy Drive",
-          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
         }
       ],
-      "duration_ms": 134408,
-      "name": "Thrift Store",
-      "url": "https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH"
+      "duration_ms": 231950,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/7nH4MetArjcIwGgZ4TBLYj"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -727,6 +711,22 @@
       "duration_ms": 134386,
       "name": "always learning not what to do",
       "url": "https://open.spotify.com/track/4Haicfh6o86Q0vjsKimZvt"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Thrift Store",
+        "url": "https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ"
+      },
+      "artists": [
+        {
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+        }
+      ],
+      "duration_ms": 134408,
+      "name": "Thrift Store",
+      "url": "https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Sunday Scaries",
-        "url": "https://open.spotify.com/album/3LqdEUjaPqXbzqlcIQufLY"
-      },
-      "artists": [
-        {
-          "name": "LAZY GHOST",
-          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
-        }
-      ],
-      "duration_ms": 172228,
-      "name": "Sunday Scaries",
-      "url": "https://open.spotify.com/track/67b2q2wgvtlWxiG6ldoJNz"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Middleman / Do The Sloth",
         "url": "https://open.spotify.com/album/3e6CnNkVhZoVFNUASCmFRl"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 143947,
       "name": "Middleman",
       "url": "https://open.spotify.com/track/4dqWPuDUgq2LNNUQRaf2JX"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Sunday Scaries",
+        "url": "https://open.spotify.com/album/3LqdEUjaPqXbzqlcIQufLY"
+      },
+      "artists": [
+        {
+          "name": "LAZY GHOST",
+          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
+        }
+      ],
+      "duration_ms": 172228,
+      "name": "Sunday Scaries",
+      "url": "https://open.spotify.com/track/67b2q2wgvtlWxiG6ldoJNz"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "The Way You Talk",
-        "url": "https://open.spotify.com/album/4Awmos0hQb07Xwdacie1Oq"
-      },
-      "artists": [
-        {
-          "name": "The Red Pears",
-          "url": "https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT"
-        }
-      ],
-      "duration_ms": 198420,
-      "name": "The Way You Talk",
-      "url": "https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "LCD",
         "url": "https://open.spotify.com/album/7JiblL6oSzGZfiTAin8t4Y"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 211705,
       "name": "LCD",
       "url": "https://open.spotify.com/track/2uR01tcAXfzD99eaKQJvBT"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "The Way You Talk",
+        "url": "https://open.spotify.com/album/4Awmos0hQb07Xwdacie1Oq"
+      },
+      "artists": [
+        {
+          "name": "The Red Pears",
+          "url": "https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT"
+        }
+      ],
+      "duration_ms": 198420,
+      "name": "The Way You Talk",
+      "url": "https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Cigarettes In Space",
-        "url": "https://open.spotify.com/album/6j0YmnGZ7Qm2ZdtPMT1Gxu"
-      },
-      "artists": [
-        {
-          "name": "Summer Thieves",
-          "url": "https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W"
-        }
-      ],
-      "duration_ms": 210640,
-      "name": "Bali Nights",
-      "url": "https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Just Give In / Never Going Home",
         "url": "https://open.spotify.com/album/0WkcZDizu9ugjmFldcxO3C"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 236666,
       "name": "Never Going Home",
       "url": "https://open.spotify.com/track/0lc5eQRMfsJxV457Yw5GvN"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Cigarettes In Space",
+        "url": "https://open.spotify.com/album/6j0YmnGZ7Qm2ZdtPMT1Gxu"
+      },
+      "artists": [
+        {
+          "name": "Summer Thieves",
+          "url": "https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W"
+        }
+      ],
+      "duration_ms": 210640,
+      "name": "Bali Nights",
+      "url": "https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP"
     },
     {
       "added_at": "2026-01-23 05:00:19",

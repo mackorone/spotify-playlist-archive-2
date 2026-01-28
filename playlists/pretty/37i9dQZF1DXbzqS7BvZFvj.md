@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: YoungBoy Never Broke Again
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,621 likes - 78 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,625 likes - 78 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 15 | [LiFE 4 A LiFE](https://open.spotify.com/track/6CrpAztWyhMb4Ve2kcg5sK) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [LiFE 4 A LiFE](https://open.spotify.com/album/64i9QChgaRNAJVHVBSl6wQ) | 2:59 |
 | 16 | [MARCH](https://open.spotify.com/track/7zPqfEr2mvXfDbPYaJhaJd) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [MARCH](https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE) | 2:50 |
 | 17 | [Down South \(feat\. Key Glock\)](https://open.spotify.com/track/70sjcC1GLyYfcHntiZ16cN) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Down South](https://open.spotify.com/album/23amY0Ns9L31zVNhG9BRZO) | 2:19 |
-| 18 | [LIT EFFECT \[Feat\. Bktherula & LAZER DIM 700\]](https://open.spotify.com/track/4sJFW6APhXl5v7idGF3QWd) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [The Scythe](https://open.spotify.com/artist/0OOyJ3DDSb7oivwvRYnpGF), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [LIT EFFECT \[Feat\. Bktherula & LAZER DIM 700\]](https://open.spotify.com/album/5v8hMYYnZgU0xx8y2ALGnZ) | 3:27 |
+| 18 | [LIT EFFECT \[Feat\. Bktherula & LAZER DIM 700\]](https://open.spotify.com/track/4sJFW6APhXl5v7idGF3QWd) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [LIT EFFECT \[Feat\. Bktherula & LAZER DIM 700\]](https://open.spotify.com/album/5v8hMYYnZgU0xx8y2ALGnZ) | 3:27 |
 | 19 | [FLIP PHONE ANTHEM](https://open.spotify.com/track/3vuHCqpCm8hOpxWxAahuck) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [FLIP PHONE SHORTY \- STRICTLY FOR DA STREETZ VOL\. 1](https://open.spotify.com/album/0zg1LBiJQ2X8MHdaVqjKUw) | 3:05 |
 | 20 | [VIBES](https://open.spotify.com/track/0XKjxLy23wMZ3zNNluXw0A) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [VIBES](https://open.spotify.com/album/0JDx8253dyuMQ1DdXGYzUJ) | 3:42 |
 | 21 | [THE ONE \(FEAT\. PHARRELL WILLIAMS\)](https://open.spotify.com/track/0FhJlX7tfC1FPkRxu5vaPa) | [Voices of Fire](https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [THE ONE \(FEAT\. PHARRELL WILLIAMS\)](https://open.spotify.com/album/5tV2bocoFi3meMBfiK2JjU) | 3:06 |

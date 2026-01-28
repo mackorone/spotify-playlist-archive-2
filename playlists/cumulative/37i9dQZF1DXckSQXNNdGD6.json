@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 188429,
       "name": "CUCHILLO Y DIOS",
       "url": "https://open.spotify.com/track/3Hs8EMkxEuM9hd9X7GSnrw"
@@ -2972,7 +2972,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 126538,
       "name": "MADRE",
       "url": "https://open.spotify.com/track/4j2e7idC7I4WOsHkp365aO"
@@ -4623,6 +4623,24 @@
     },
     {
       "album": {
+        "name": "ROADTRIP",
+        "url": "https://open.spotify.com/album/2pJoTyNXajAzNvSomoodOJ"
+      },
+      "artists": [
+        {
+          "name": "Lapili",
+          "url": "https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161059,
+      "name": "ROADTRIP",
+      "url": "https://open.spotify.com/track/1WZfs7Pl5zlvsqv8yH3RGC"
+    },
+    {
+      "album": {
         "name": "Rutina",
         "url": "https://open.spotify.com/album/4veGlDXexNE2cbOSIfQ5vC"
       },
@@ -5366,6 +5384,28 @@
       "duration_ms": 271383,
       "name": "Un Mundo Feliz",
       "url": "https://open.spotify.com/track/1UwbvBUt2EZYpP5pM6dzfH"
+    },
+    {
+      "album": {
+        "name": "JANE DOE IN THE DREAM HOUSE",
+        "url": "https://open.spotify.com/album/0cJtrnTkhdinnjnScKVLF2"
+      },
+      "artists": [
+        {
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        },
+        {
+          "name": "D.Basto",
+          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135019,
+      "name": "UNA BIMBO POR MADRID",
+      "url": "https://open.spotify.com/track/6ccAIVGiwh5DsVMEdc14oS"
     },
     {
       "album": {

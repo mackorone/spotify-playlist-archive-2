@@ -529,6 +529,24 @@
     },
     {
       "album": {
+        "name": "Angelseek",
+        "url": "https://open.spotify.com/album/1FHrSsOvsfP1YdidikH1xw"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229399,
+      "name": "Angelseek",
+      "url": "https://open.spotify.com/track/1MEjwcB4LYKiCq0dsFGckD"
+    },
+    {
+      "album": {
         "name": "Angel\u2019s Fake",
         "url": "https://open.spotify.com/album/7bSE2p3wyC1vnOtn9vgXxw"
       },
@@ -14098,7 +14116,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 182400,
       "name": "\u30a2\u30c0\u30eb\u30c8\u30c1\u30c3\u30af\u30c1\u30eb\u30c9\u30ec\u30f3",
       "url": "https://open.spotify.com/track/4szCibdelqTfe8XzGlBT8u"
@@ -15050,6 +15068,24 @@
       "duration_ms": 164093,
       "name": "\u30aa\u30c8\u30ba\u30ec",
       "url": "https://open.spotify.com/track/05AFt9UzXwm9aCHaE2ID33"
+    },
+    {
+      "album": {
+        "name": "\u30aa\u30c8\u30ca\u30ab\u30bc",
+        "url": "https://open.spotify.com/album/7iSrgcrzF3CYFwvCQ6SSL6"
+      },
+      "artists": [
+        {
+          "name": "AONOTE",
+          "url": "https://open.spotify.com/artist/2WOntmthOjhxOXdwwyIyuR"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171678,
+      "name": "\u30aa\u30c8\u30ca\u30ab\u30bc",
+      "url": "https://open.spotify.com/track/0PtiCGH0JvOoYBt0xmAuID"
     },
     {
       "album": {
@@ -16508,7 +16544,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 240000,
       "name": "\u30b7\u30fc\u30b0\u30e9\u30b9",
       "url": "https://open.spotify.com/track/5GzVRXs8B9SqIceiMgAaLO"
@@ -19804,7 +19840,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 189000,
       "name": "\u30e1\u30fc\u30d9\u30eb",
       "url": "https://open.spotify.com/track/2O7HF4q4GbBOwZ5qKdN1yB"
@@ -27984,6 +28020,24 @@
       "duration_ms": 185883,
       "name": "\u7dba\u9e97\u3067\u75db\u3044 - From \u30e8\u30e0\u30aa\u30c8",
       "url": "https://open.spotify.com/track/6NSbPZjRYr51hyatWaqpFa"
+    },
+    {
+      "album": {
+        "name": "\u7f8a\u306f\u7720\u3089\u306a\u3044",
+        "url": "https://open.spotify.com/album/3NH73cCRrJiYHhjgK3de2S"
+      },
+      "artists": [
+        {
+          "name": "susumu.",
+          "url": "https://open.spotify.com/artist/1MNhL3vOZZu1179Z031OF5"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "\u7f8a\u306f\u7720\u3089\u306a\u3044",
+      "url": "https://open.spotify.com/track/30y5fJvrOHq5DSvfaXZSgI"
     },
     {
       "album": {

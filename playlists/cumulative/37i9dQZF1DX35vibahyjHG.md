@@ -4,7 +4,7 @@
 
 > Listen to women at full volume.<br/>Cover: <a href="https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK?si=9Y35PBX5R467eG2Yvm3Sww">Moliy</a>
 
-561 songs - 1 day 7 hr 48 min
+562 songs - 1 day 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Little \(Love I Love\)](https://open.spotify.com/track/6GUMUz1H9nIxo1UiEXYQS0) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [LITTLE & LEGENDARY](https://open.spotify.com/album/4oHJ6JejDytkQ5b9GUSohI) | 2:31 | 2022-07-05 | 2022-11-03 |
 | [Live Life](https://open.spotify.com/track/4NzbGHVNyLIkZHEbMFiKkp) | [Africaine](https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7) | [Live Life](https://open.spotify.com/album/1JftrszwVgXopSa9EbxSJL) | 2:03 | 2025-05-12 | 2025-07-03 |
 | [Longer](https://open.spotify.com/track/4X7ahjs0dWbCaKnezoECyZ) | [Zawadi Mukami](https://open.spotify.com/artist/49UnEPh42EMERfMtt6jf6v) | [Longer](https://open.spotify.com/album/2JHNPRZBRNh3jRQUDNuVq7) | 3:04 | 2025-07-02 | 2025-07-12 |
+| [lost!](https://open.spotify.com/track/7IlLy4MsAc5bEtAMxwJLHV) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8) | [lost!](https://open.spotify.com/album/5yKkfPitOl4rUQTlNABSto) | 2:47 | 2026-01-09 |  |
 | [Love \(feat\. Adekunle Gold\)](https://open.spotify.com/track/6bNPaXLR7BRZbg28hNgiBi) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Love \(feat\. Adekunle Gold\)](https://open.spotify.com/album/44zzNErcfsYL8RYQaQ8uEw) | 3:08 | 2022-10-04 | 2022-12-01 |
 | [Love Ballad No.6](https://open.spotify.com/track/1tCzBDnOACQQxwM1YYKw3d) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Love Ballad No.6](https://open.spotify.com/album/2T2zu2SlQVmfzBGcgsV4qh) | 4:45 | 2025-07-02 | 2025-07-12 |
 | [Love Doc](https://open.spotify.com/track/3bpkRl4IHT49fNn0GOqUfE) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Honey Doom](https://open.spotify.com/album/3TvKmSxLeUCvQpNRgnVgN3) | 2:49 | 2022-11-30 | 2023-02-01 |

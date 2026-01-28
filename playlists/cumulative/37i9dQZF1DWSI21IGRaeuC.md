@@ -4,7 +4,7 @@
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring Cam Stockman
 
-952 songs - 2 day 20 hr 15 min
+953 songs - 2 day 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,6 +468,7 @@
 | [Lezzgo](https://open.spotify.com/track/1NwKx6qj7QbWjFmQ7QlpkE) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [One Hundred](https://open.spotify.com/album/5VTEH3n6YgqcFL5EyxxHRQ) | 5:03 | 2024-04-12 | 2024-11-30 |
 | [Lick It](https://open.spotify.com/track/7F2eNxJ5ZrGAwd83sIhBud) | [J.K\. Rollin](https://open.spotify.com/artist/0q0fGcIwNUT2MrDT9HIdZZ) | [Put Your Hands Up For Cologne](https://open.spotify.com/album/3M6t0CRcKMGlGVHYDoEKQT) | 6:48 | 2024-11-13 | 2025-09-20 |
 | [Lift Me Up](https://open.spotify.com/track/0b7PbH7jnPDx9cZ77nc6Fe) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Point Zero / Lift Me Up](https://open.spotify.com/album/49IPEHPL1alOTzFgXfVTl7) | 3:34 | 2025-12-08 |  |
+| [Lightless Dream](https://open.spotify.com/track/5OiFqjhqNsTfXsFSifbsDI) | [Di Chiara Brothers](https://open.spotify.com/artist/5JywRcVtRJR2yVvjCb2O5H) | [Lightless Dream EP](https://open.spotify.com/album/5KtS1ESWxa0wiThdK9fA4t) | 3:04 | 2026-01-27 |  |
 | [Lightspeed](https://open.spotify.com/track/36PkmbHlfH1JYwoFJS1S0q) | [Sorley](https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj), [GOUX](https://open.spotify.com/artist/1YANF2Clk0VpRNG3HPu5B1) | [Lightspeed](https://open.spotify.com/album/4NnuKQveWvoRFjl3A0IZqe) | 6:22 | 2022-06-24 | 2022-07-21 |
 | [Like Dat](https://open.spotify.com/track/4X6RJDR65ntTziCrgkcLfj) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Like Dat](https://open.spotify.com/album/2k6hw2VG0XdQLqmas3JQFf) | 3:44 | 2024-02-02 | 2024-06-21 |
 | [Like It Deep](https://open.spotify.com/track/3JYDWORVlXjHQWf5M92BiR) | [Braydon Terzo](https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq) | [Like It Deep](https://open.spotify.com/album/3T6ONNtu8CCBFrfGWpWs3W) | 3:23 | 2025-04-11 | 2025-08-30 |
@@ -902,7 +903,7 @@
 | [Wake Up](https://open.spotify.com/track/6QtKYHsFWJvBUBmoxHabsD) | [Bastian Bux](https://open.spotify.com/artist/6K6JhQaED2RUjMyhBtR9eD), [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [Wake Up](https://open.spotify.com/album/25f1FggBA5ONTSmjJGTvxf) | 3:27 | 2024-01-05 | 2025-01-31 |
 | [Walk The Line \- Radio Edit](https://open.spotify.com/track/4xt43vcfXajgYbcDdOjOgI) | [Jesse Jonez](https://open.spotify.com/artist/4uRQ0KBoYFYkziR9SIZW3i) | [Walk The Line \(Radio Edit\)](https://open.spotify.com/album/16VndWG1tn0N7Qpp7sz51Z) | 3:21 | 2023-03-24 | 2023-04-29 |
 | [Wanna C U \- Radio Edit](https://open.spotify.com/track/6KjzfHZd7KEAnUo3ViOl9p) | [Jamie Aramayo](https://open.spotify.com/artist/5N7iEEpdeCJfWPSLvSUHKE), [DXNBY](https://open.spotify.com/artist/7mLmGgoUfP8HHIRj1pIQP8) | [Wanna C U \(Radio Edit\)](https://open.spotify.com/album/07hicjIcYkyyBkmYhJRUuR) | 3:10 | 2025-08-20 | 2025-09-27 |
-| [Wanna Party \(feat\. Dennis G\)](https://open.spotify.com/track/7ww9dHtVXHoJEbGGLSH7m2) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Wideboys](https://open.spotify.com/artist/2fLCjXwadBsnYmn05uxFpi), [Dennis G.](https://open.spotify.com/artist/1DlMYV41CeNcwmNZ3wc9SW) | [Wanna Party \(feat\. Dennis G\)](https://open.spotify.com/album/4YVg92vxNbOUMyTxjW4QwI) | 3:01 | 2025-11-21 |  |
+| [Wanna Party \(feat\. Dennis G\)](https://open.spotify.com/track/7ww9dHtVXHoJEbGGLSH7m2) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Wideboys](https://open.spotify.com/artist/2fLCjXwadBsnYmn05uxFpi), [Dennis G.](https://open.spotify.com/artist/1DlMYV41CeNcwmNZ3wc9SW) | [Wanna Party \(feat\. Dennis G\)](https://open.spotify.com/album/4YVg92vxNbOUMyTxjW4QwI) | 3:01 | 2025-11-21 | 2026-01-28 |
 | [Want You \- Radio Edit](https://open.spotify.com/track/59voV2rMQFCSBuuT5894Xi) | [GIGSTA](https://open.spotify.com/artist/36l9HLDiaCw6E5qmLusL9a) | [Want You EP](https://open.spotify.com/album/4T0AtHkpum0TmZBD5nqaNh) | 3:43 | 2025-08-29 | 2025-09-27 |
 | [wants and needs](https://open.spotify.com/track/5W0MG8q8pKaMS2TAiSQXBN) | [Jake Antonio](https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC) | [wants and needs](https://open.spotify.com/album/7ekXaFXySyHzm6KhFMKarl) | 4:40 | 2025-02-21 | 2025-06-14 |
 | [Warehouse Music](https://open.spotify.com/track/3P73QG2DNw3JVZmxZ0Po8r) | [GIGSTA](https://open.spotify.com/artist/36l9HLDiaCw6E5qmLusL9a) | [Warehouse Music EP](https://open.spotify.com/album/1TIE9wf1B3Z7rdONUzVIA1) | 6:45 | 2024-05-03 | 2024-05-18 |

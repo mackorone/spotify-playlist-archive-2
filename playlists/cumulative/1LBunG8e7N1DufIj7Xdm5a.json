@@ -33731,6 +33731,24 @@
     },
     {
       "album": {
+        "name": "landed in nyc",
+        "url": "https://open.spotify.com/album/1bR1HCxHv9onaYxqJKR5b9"
+      },
+      "artists": [
+        {
+          "name": "Oxdead",
+          "url": "https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110085,
+      "name": "landed in nyc",
+      "url": "https://open.spotify.com/track/7bkJhvHFUNWkGiO9wi1dyJ"
+    },
+    {
+      "album": {
         "name": "Lasciamo Sempre Un Segno",
         "url": "https://open.spotify.com/album/6xoxoj6MGwMERppznY7ds2"
       },

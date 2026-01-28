@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Harry Styles, Joji, Tomok, Siti Nordiana, Apit Tearra, ChronicalZ, Noh Salleh, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,317 likes - 82 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,316 likes - 82 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 48 | [骑Bike去拜年](https://open.spotify.com/track/0mBJExu1kdMp90wUJ7J6bH) | [张少林](https://open.spotify.com/artist/3bdRKtOZ5m66poG4sQOk8z), [Skipper 邱妍](https://open.spotify.com/artist/627sbZhhOW9nBAKlK8FsWx), [Uncle Chin](https://open.spotify.com/artist/1HvXdUz9mgQ1uQoAOP9MRC), [Dato Seri Calven Loke](https://open.spotify.com/artist/16SrmYZ94MqJPPkwU2DNgc) | [骑Bike去拜年](https://open.spotify.com/album/2qkhOJQ9nnXiI2bkLHnTRe) | 3:34 |
 | 49 | [MAMAMIA 妈妈咪呀](https://open.spotify.com/track/5cgRpXL3nyRB7YqnrYF9K2) | [JTalent](https://open.spotify.com/artist/1Y2yftmt7igDP7XcdjLn41) | [MAMAMIA 妈妈咪呀](https://open.spotify.com/album/6O9cK4TNBXF26eSNkx7Jo8) | 2:50 |
 | 50 | [WokeUpFromANap](https://open.spotify.com/track/3eGjQcOepaVikm1jnSz8ES) | [UHMEAN](https://open.spotify.com/artist/2uxiMdx0OLOeNzt2kWJtID), [AiZack](https://open.spotify.com/artist/1GG45fl2LYpdywitayCzGs) | [WokeUpFromANap](https://open.spotify.com/album/1SkORth4Ta96Mv8ikDBIMd) | 2:00 |
-| 51 | [Stay With It](https://open.spotify.com/track/3NehMjtApc0LxsOz5IIf5U) | [Good Luck Chuck](https://open.spotify.com/artist/6zgQqfZ8mYlQOhpsGjok96), [Perk Pietrek](https://open.spotify.com/artist/7gVaS1q03Q8Dliy2lDXLx3), [Direwulf](https://open.spotify.com/artist/77xnTyfSeDkHZ2tufyeAIP) | [Stay With It](https://open.spotify.com/album/69FoQwBqxFcOU7dkRnkksW) | 3:58 |
+| 51 | [Stay With It](https://open.spotify.com/track/3NehMjtApc0LxsOz5IIf5U) | [Good Luck Chuck](https://open.spotify.com/artist/6zgQqfZ8mYlQOhpsGjok96) | [Stay With It](https://open.spotify.com/album/69FoQwBqxFcOU7dkRnkksW) | 3:58 |
 | 52 | [bleed out !](https://open.spotify.com/track/1xCJAhxb5AJ2glLD8RiJvT) | [daystar](https://open.spotify.com/artist/3ILIaSsV4kXXvqqFcvyeCC) | [bleed out !](https://open.spotify.com/album/4fbhGA34na1kN4PGkNSKGG) | 3:03 |
 | 53 | [Reality](https://open.spotify.com/track/0UhZ4v08EQC0HrlSvGYqdf) | [Lyla Ng](https://open.spotify.com/artist/7wOQgkxfPi0YPCKzco63CC) | [Reality](https://open.spotify.com/album/1cDAZbK5pPRzRIbDoXGVtA) | 3:26 |
 | 54 | [Adrenaline Rush](https://open.spotify.com/track/3SfVCmC8vDuQfdiJHFjNkR) | [Boey](https://open.spotify.com/artist/6rgGhhquiyHRb9IodAYGYU), [Jemerine Chan](https://open.spotify.com/artist/0KCmbIfMchkbS92OvDH5HL) | [Adrenaline Rush](https://open.spotify.com/album/2vbymob5GMqHHiRcC9NRBR) | 3:00 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 78 | [Mona Lisa](https://open.spotify.com/track/5hGpk0C8Ns9LGhPwQkEBrK) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr) | [Mona Lisa](https://open.spotify.com/album/4po7ado9LJDka8wf7LcXCI) | 3:11 |
 | 79 | [456](https://open.spotify.com/track/5z4NC6tMp8jFo3esiB8cf3) | [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Wataru](https://open.spotify.com/album/6gfdpeoCwQlU5zrGaJ9mMx) | 2:16 |
 | 80 | [If Only](https://open.spotify.com/track/10senvCSUmMPgm4Yg6rbZF) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O) | [BUT, IT'S OKAY.](https://open.spotify.com/album/6RHRp63nNfQIspQxRtLj7s) | 3:46 |
-| 81 | [Stay.](https://open.spotify.com/track/18c3HOwfP9I5N2NSbxVYBf) | [Beck](https://open.spotify.com/artist/43rF0ezbI0BApStNet2EWk) | [Stay.](https://open.spotify.com/album/3HUvptv1Vb4JubvBgY1nWF) | 2:47 |
+| 81 | [Stay.](https://open.spotify.com/track/18c3HOwfP9I5N2NSbxVYBf) | [Beck](https://open.spotify.com/artist/43rF0ezbI0BApStNet2EWk) | [Stay.](https://open.spotify.com/album/3HUvptv1Vb4JubvBgY1nWF) | 2:48 |
 | 82 | [lost](https://open.spotify.com/track/7LKD6LKTziLqv8oXo6iv3e) | [aoni](https://open.spotify.com/artist/3AcR5cfA2SMdwm5v0FPvvn) | [Kuroi Echoes](https://open.spotify.com/album/6YQ5zvaQ8gsB076SoL9ZhS) | 2:55 |
 
 Snapshot ID: `AAAAAONQsEO64bwqcOonGUFOt3QLsW1L`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: Matt Crocker
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,924 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,962 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 74 | [Where Oh Where](https://open.spotify.com/track/03zlFzKWT8YwVNYMUL32Bq) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Victory Lap](https://open.spotify.com/album/1HLdraTS3m3PgDkbJdFNXh) | 4:01 |
 | 75 | [No Greater Love](https://open.spotify.com/track/4ARfwrL2OHsmBBBg0AVqag) | [John Van Deusen](https://open.spotify.com/artist/6DLId1szBt6BlrTp5NELXK) | [As Long As I Am In The Tent of This Body I Will Make A Joyful Noise Pt\. 1](https://open.spotify.com/album/6rdN8JNF1tCmEMr1o5KS16) | 3:28 |
 
-Snapshot ID: `AAAAALFLfop4zHDwq/XLUzVdPh5Wy9yi`
+Snapshot ID: `AAAAANN3ht3x5U4dXXccCFTsMsbQECLt`

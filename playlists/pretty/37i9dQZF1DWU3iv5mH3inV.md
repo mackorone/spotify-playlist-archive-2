@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > Dembow de to el mundo pa to el mundo\. Foto: Arlene MC
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,147 likes - 110 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,144 likes - 110 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

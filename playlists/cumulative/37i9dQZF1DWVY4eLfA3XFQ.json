@@ -1909,6 +1909,24 @@
     },
     {
       "album": {
+        "name": "Picture: Volkoder Part 1",
+        "url": "https://open.spotify.com/album/5AA55B0S08IQx9qp4BPVq1"
+      },
+      "artists": [
+        {
+          "name": "Volkoder",
+          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181874,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/7nboixHsDQbJkHHjz72pIY"
+    },
+    {
+      "album": {
         "name": "All Over U",
         "url": "https://open.spotify.com/album/1fORBKzArhL3rMlkJqHKor"
       },
@@ -39932,7 +39950,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 200930,
       "name": "Scream!",
       "url": "https://open.spotify.com/track/4tuImZXjEWmnJ8deyfQ4mq"
@@ -50910,7 +50928,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 168281,
       "name": "We Like It Raw",
       "url": "https://open.spotify.com/track/4XzlX2q4NrVNLkUnCQu3Ea"
@@ -51996,6 +52014,32 @@
       "duration_ms": 170625,
       "name": "Wildstyle",
       "url": "https://open.spotify.com/track/64Wl8uuA3p0uHhYlSQFAeu"
+    },
+    {
+      "album": {
+        "name": "Witch Doctor (Hot Since 82 Remix)",
+        "url": "https://open.spotify.com/album/3ZfdHJv0RTmvKM52mKsTAs"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        },
+        {
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Witch Doctor - Hot Since 82 Remix",
+      "url": "https://open.spotify.com/track/0ZFqqr5USoYxuojSD2Onrb"
     },
     {
       "album": {

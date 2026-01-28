@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-4,735 songs - 10 day 18 hr 56 min
+4,736 songs - 10 day 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2746,6 +2746,7 @@
 | [Mothership](https://open.spotify.com/track/2K2EVLhu00pjtfwMqDeEcH) | [Rakiri](https://open.spotify.com/artist/0OzW6VVLMa2kEzCUcGEfbK) | [Mothership](https://open.spotify.com/album/6hK5BuRlRNsN3lgn2nSYSD) | 3:28 | 2025-02-10 | 2025-02-14 |
 | [Mountains \- KC Lights Remix](https://open.spotify.com/track/5zA7emEc20y8GcpELc0xxo) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS), [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Mountains \(KC Lights Remix\)](https://open.spotify.com/album/6selXqqvxNVpdBjYD05BHs) | 2:49 | 2024-06-28 | 2024-07-06 |
 | [Move](https://open.spotify.com/track/1zR99sAbPNjVnO7v9Q5IiP) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Move](https://open.spotify.com/album/07tfndkMlsS8WpEDU8oFDx) | 2:59 | 2024-06-07 | 2024-06-17 |
+| [Move \(feat\. Anella\)](https://open.spotify.com/track/2G8sdxn4INZb41kr4vmWMO) | [Logan Garrett](https://open.spotify.com/artist/5TdsDxoHWub575sY58UWLn), [Anella](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Move \(feat\. Anella\)](https://open.spotify.com/album/4enKgmPZVCuTE899eftuX5) | 2:42 | 2026-01-27 |  |
 | [Move \(feat\. Camila Cabello\)](https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC) | [Move \(feat\. Camila Cabello\)](https://open.spotify.com/album/1Jo5dOD8bFEWnPIXKlORVp) | 3:00 | 2024-10-11 | 2024-10-22 |
 | [Move \(To The Beat\)](https://open.spotify.com/track/3zVtX40kcmkgb5yhlXP79W) | [Amaru Klein](https://open.spotify.com/artist/2gf0K1kRVU64CGyiaDyLAW) | [Move \(To The Beat\)](https://open.spotify.com/album/6YoRJepTkKwLqfZ1kQlNg4) | 2:38 | 2024-08-02 | 2024-08-09 |
 | [Move It \(Rapidin\)](https://open.spotify.com/track/6bCMF1MSZ66MvLR1vy3TBS) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [GIACOBBI](https://open.spotify.com/artist/0c9xS57yx2KCaaEJ3e7qzo), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Move It \(Rapidin\)](https://open.spotify.com/album/2uhhsCLGQatdRgvQ2EUHDq) | 2:33 | 2025-04-24 | 2025-05-03 |

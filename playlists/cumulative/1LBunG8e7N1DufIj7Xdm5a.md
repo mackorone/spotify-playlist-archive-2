@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,876 songs - 8 day 13 hr 49 min
+3,877 songs - 8 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1851,6 +1851,7 @@
 | [Lacrime Sprecate](https://open.spotify.com/track/6qUg1mK5FnQJKLUzm0o9pf) | [Frànzua](https://open.spotify.com/artist/07dNEL5MvebzhuO7ChHZCU) | [Lacrime Sprecate](https://open.spotify.com/album/26hatVEWGkOorLIGi1TrFX) | 3:11 | 2025-06-12 |  |
 | [Lake Street Is For Lovers](https://open.spotify.com/track/1oOAMNRgXgqNf0QI7jV2WA) | [Lifter Puller](https://open.spotify.com/artist/5ln57CgiNtmgrZFbBWKsSK) | [Fiestas & Fiascos \(Deluxe Reissue\)](https://open.spotify.com/album/0qn7qQHcouAL3b4fhRnjts) | 1:04 | 2025-11-05 |  |
 | [landed in nyc](https://open.spotify.com/track/2RxZUa0095In8FgovWtqUs) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [landed in nyc](https://open.spotify.com/album/0L3vAXtiD36Zklu9DW1Seg) | 1:51 | 2025-10-24 |  |
+| [landed in nyc](https://open.spotify.com/track/7bkJhvHFUNWkGiO9wi1dyJ) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [landed in nyc](https://open.spotify.com/album/1bR1HCxHv9onaYxqJKR5b9) | 1:50 | 2026-01-27 |  |
 | [Lasciamo Sempre Un Segno](https://open.spotify.com/track/1Jvykqnwzae9A8162J4NJC) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [Lasciamo Sempre Un Segno](https://open.spotify.com/album/6xoxoj6MGwMERppznY7ds2) | 4:24 | 2025-08-19 |  |
 | [Last of the English Roses](https://open.spotify.com/track/3tpYQ3zyobC87sDsJ75s6k) | [Peter Doherty](https://open.spotify.com/artist/0ikiOZC4SDG6OrgHLESydg) | [Grace/Wastelands](https://open.spotify.com/album/61RmMONNMRavBaWiAJSu3z) | 4:59 | 2025-11-05 |  |
 | [Last Post on the Bugle](https://open.spotify.com/track/4P1ypKiVXhfFMbcEmtQ0Js) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j) | 2:32 | 2025-11-05 |  |

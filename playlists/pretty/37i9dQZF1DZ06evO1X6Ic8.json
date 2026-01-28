@@ -1,12 +1,12 @@
 {
   "description": "This is The 1975. The essential tracks, all in one playlist.",
-  "num_followers": 827114,
+  "num_followers": 827159,
   "original_name": "This Is The 1975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXVdAAAAAABQjFxyWGmCwjsaHirYKL0h",
+  "snapshot_id": "aXaugAAAAACo0rgnU4vZETwGOcuOu+6B",
   "tracks": [
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/03v3s0EfBKb1PPViZGOyyY"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 295151,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/6VKX7rGnHoHJ4bECP12OOG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -663,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still... At Their Very Best (Live From The AO Arena, Manchester, 17.02.24)",
-        "url": "https://open.spotify.com/album/2YXTt0mcAXUSfBcstBn38I"
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/03v3s0EfBKb1PPViZGOyyY"
       },
       "artists": [
         {
@@ -672,25 +656,9 @@
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 291440,
-      "name": "You (Live From The AO Arena, Manchester, 17.02.24)",
-      "url": "https://open.spotify.com/track/7rh90hM86pRt4vavJb6Mnu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Notes On A Conditional Form",
-        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 285833,
-      "name": "The Birthday Party",
-      "url": "https://open.spotify.com/track/3wFPsw1WQJevCFoKpoLyTF"
+      "duration_ms": 295151,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/6VKX7rGnHoHJ4bECP12OOG"
     },
     {
       "added_at": null,
@@ -707,6 +675,22 @@
       "duration_ms": 240109,
       "name": "So Far (It's Alright)",
       "url": "https://open.spotify.com/track/0iFktIoaM3qNeguIibIEyB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Notes On A Conditional Form",
+        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 285833,
+      "name": "The Birthday Party",
+      "url": "https://open.spotify.com/track/3wFPsw1WQJevCFoKpoLyTF"
     },
     {
       "added_at": null,

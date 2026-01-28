@@ -4,7 +4,7 @@
 
 > Your weekly dose of new dance\. Cover: WILL K
 
-3,726 songs - 8 day 12 hr 15 min
+3,727 songs - 8 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1569,6 +1569,7 @@
 | [How I Like It](https://open.spotify.com/track/1sJ4nhnygOzSqDXqObbweD) | [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY) | [How I Like It](https://open.spotify.com/album/3bYHBEbMs2B0v3uadisq4C) | 3:11 | 2022-12-08 | 2023-02-03 |
 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 | 2023-08-24 | 2023-09-08 |
 | [Howlin' At The New Moon \(feat\. Mayer Hawthorne\)](https://open.spotify.com/track/6FXqJmgSKka0NRlrxfhSrv) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2), [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Howlin' At The New Moon \(feat\. Mayer Hawthorne\)](https://open.spotify.com/album/6KaaEX144VYrAUJNU5RrtJ) | 3:24 | 2023-06-22 | 2023-07-21 |
+| [HU4D](https://open.spotify.com/track/5MPZyHWn8YpxQEw4KqQ8FR) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ), [Matthew Dear](https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto) | [HU4D](https://open.spotify.com/album/0hgyPBuj4JvRQ6adRvkkAP) | 3:50 | 2026-01-22 |  |
 | [Hungover \(with Camden Cox\)](https://open.spotify.com/track/1HmeANWuuCP6ldvGgKwTLi) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Hungover \(with Camden Cox\)](https://open.spotify.com/album/0zmoJBEhLPoiKBzXMeFjAm) | 3:40 | 2023-12-19 | 2024-01-26 |
 | [Hungry](https://open.spotify.com/track/056T63KLCl58dExo02cg8a) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [The Gardener & The Tree](https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN) | [Hungry](https://open.spotify.com/album/08CIJINxSqpQcW50LsMzHl) | 2:22 | 2024-09-26 | 2024-11-08 |
 | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu) | 3:02 | 2023-03-03 | 2023-03-18 |

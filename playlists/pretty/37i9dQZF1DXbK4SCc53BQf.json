@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 105948,
+  "num_followers": 105972,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,26 @@
     {
       "added_at": "2026-01-23 11:50:23",
       "album": {
+        "name": "La Locura",
+        "url": "https://open.spotify.com/album/1AguLemBSNC0YQzR2tTAHK"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        },
+        {
+          "name": "MR. Yeison",
+          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "Plan Plan",
+      "url": "https://open.spotify.com/track/4oGqUN7kHte9mUzkGDdeOL"
+    },
+    {
+      "added_at": "2026-01-23 11:50:23",
+      "album": {
         "name": "Bajo la Luna",
         "url": "https://open.spotify.com/album/16gdetmIdSQmGsOBN6YhfY"
       },
@@ -247,26 +267,6 @@
       "duration_ms": 229040,
       "name": "Bajo la Luna",
       "url": "https://open.spotify.com/track/2Cox3krXGo7Fs1YiVAsn0Q"
-    },
-    {
-      "added_at": "2026-01-23 11:50:23",
-      "album": {
-        "name": "PR24SIETE Soy de Aqu\u00ed",
-        "url": "https://open.spotify.com/album/15gMI3J7lxW9ZBPTNVy4vz"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        },
-        {
-          "name": "Genio La Musa",
-          "url": "https://open.spotify.com/artist/3qcl8ck0RTpenPbFmZa2p5"
-        }
-      ],
-      "duration_ms": 164516,
-      "name": "QUIERO A MI PUEBLO (PR24SIETE)",
-      "url": "https://open.spotify.com/track/7tty3poKASR5Wp6sXI3Kf9"
     },
     {
       "added_at": "2026-01-23 11:50:23",
@@ -291,6 +291,26 @@
     {
       "added_at": "2026-01-23 11:50:23",
       "album": {
+        "name": "PR24SIETE Soy de Aqu\u00ed",
+        "url": "https://open.spotify.com/album/15gMI3J7lxW9ZBPTNVy4vz"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        },
+        {
+          "name": "Genio La Musa",
+          "url": "https://open.spotify.com/artist/3qcl8ck0RTpenPbFmZa2p5"
+        }
+      ],
+      "duration_ms": 164516,
+      "name": "QUIERO A MI PUEBLO (PR24SIETE)",
+      "url": "https://open.spotify.com/track/7tty3poKASR5Wp6sXI3Kf9"
+    },
+    {
+      "added_at": "2026-01-23 11:50:23",
+      "album": {
         "name": "Merengueton",
         "url": "https://open.spotify.com/album/6cQdkMoB6vqMU4orFz2WeP"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 161803,
       "name": "Merengueton",
       "url": "https://open.spotify.com/track/72VmExJKcEzxCJZJo5f7HO"
-    },
-    {
-      "added_at": "2026-01-23 11:50:23",
-      "album": {
-        "name": "La Locura",
-        "url": "https://open.spotify.com/album/1AguLemBSNC0YQzR2tTAHK"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        },
-        {
-          "name": "MR. Yeison",
-          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "Plan Plan",
-      "url": "https://open.spotify.com/track/4oGqUN7kHte9mUzkGDdeOL"
     },
     {
       "added_at": "2026-01-23 11:50:23",
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-01-23 11:50:23",
       "album": {
+        "name": "Mi Canto",
+        "url": "https://open.spotify.com/album/3g50FSDPFIWq8faoEtUyKx"
+      },
+      "artists": [
+        {
+          "name": "Antonio y Joel Con Labranza",
+          "url": "https://open.spotify.com/artist/3UDEikwpkDlVfELpX7kM6z"
+        }
+      ],
+      "duration_ms": 225870,
+      "name": "Que Estes Presente",
+      "url": "https://open.spotify.com/track/6RYEaMxLgyopcSMR98exqu"
+    },
+    {
+      "added_at": "2026-01-23 11:50:23",
+      "album": {
         "name": "M\u00e1s Que Ayer",
         "url": "https://open.spotify.com/album/49E7AN21BhiUQ1t366FqYH"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 210058,
       "name": "M\u00e1s Que Ayer",
       "url": "https://open.spotify.com/track/2PUqm44YdZFxDvFEM04xyH"
-    },
-    {
-      "added_at": "2026-01-23 11:50:23",
-      "album": {
-        "name": "Mi Canto",
-        "url": "https://open.spotify.com/album/3g50FSDPFIWq8faoEtUyKx"
-      },
-      "artists": [
-        {
-          "name": "Antonio y Joel Con Labranza",
-          "url": "https://open.spotify.com/artist/3UDEikwpkDlVfELpX7kM6z"
-        }
-      ],
-      "duration_ms": 225870,
-      "name": "Que Estes Presente",
-      "url": "https://open.spotify.com/track/6RYEaMxLgyopcSMR98exqu"
     },
     {
       "added_at": "2026-01-23 11:50:23",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-01-23 11:50:23",
       "album": {
-        "name": "Prende La Moto",
-        "url": "https://open.spotify.com/album/124x29480ASQ28sibsSykf"
-      },
-      "artists": [
-        {
-          "name": "La Reforma",
-          "url": "https://open.spotify.com/artist/509gHoIVkSYOOWxcpKyfRf"
-        }
-      ],
-      "duration_ms": 166421,
-      "name": "Prende La Moto",
-      "url": "https://open.spotify.com/track/149fDWoj2wnxg7eKxBc5yd"
-    },
-    {
-      "added_at": "2026-01-23 11:50:23",
-      "album": {
         "name": "R\u00edo",
         "url": "https://open.spotify.com/album/3Vffp6zBqad0Lvs73NvXmj"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 172560,
       "name": "Abr\u00e1zame M\u00e1s",
       "url": "https://open.spotify.com/track/1x8TSwFJ3UGBt4UcDJXtLh"
+    },
+    {
+      "added_at": "2026-01-23 11:50:23",
+      "album": {
+        "name": "Prende La Moto",
+        "url": "https://open.spotify.com/album/124x29480ASQ28sibsSykf"
+      },
+      "artists": [
+        {
+          "name": "La Reforma",
+          "url": "https://open.spotify.com/artist/509gHoIVkSYOOWxcpKyfRf"
+        }
+      ],
+      "duration_ms": 166421,
+      "name": "Prende La Moto",
+      "url": "https://open.spotify.com/track/149fDWoj2wnxg7eKxBc5yd"
     },
     {
       "added_at": "2026-01-23 11:50:23",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-01-23 11:50:23",
       "album": {
-        "name": "El Gozo Que Yo Queria",
-        "url": "https://open.spotify.com/album/1mnea2dZLEZCUmYP4KYW0t"
-      },
-      "artists": [
-        {
-          "name": "Altar Vivo",
-          "url": "https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr"
-        }
-      ],
-      "duration_ms": 200650,
-      "name": "El Gozo Que Yo Queria",
-      "url": "https://open.spotify.com/track/6lf0U3BKM3i0wPc6jr3SQ6"
-    },
-    {
-      "added_at": "2026-01-23 11:50:23",
-      "album": {
         "name": "Yo la Tengo",
         "url": "https://open.spotify.com/album/4OskArflNrMkkkrFi7cv7e"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 202525,
       "name": "Yo la Tengo",
       "url": "https://open.spotify.com/track/71SVOiLqzoTGtI8P90Pt8Q"
+    },
+    {
+      "added_at": "2026-01-23 11:50:23",
+      "album": {
+        "name": "El Gozo Que Yo Queria",
+        "url": "https://open.spotify.com/album/1mnea2dZLEZCUmYP4KYW0t"
+      },
+      "artists": [
+        {
+          "name": "Altar Vivo",
+          "url": "https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr"
+        }
+      ],
+      "duration_ms": 200650,
+      "name": "El Gozo Que Yo Queria",
+      "url": "https://open.spotify.com/track/6lf0U3BKM3i0wPc6jr3SQ6"
     },
     {
       "added_at": "2026-01-23 11:50:23",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-01-23 11:50:23",
       "album": {
-        "name": "Esposa M\u00eda",
-        "url": "https://open.spotify.com/album/060GsIY1ZDNFwiK2om5J2S"
-      },
-      "artists": [
-        {
-          "name": "Sergio Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Esposa M\u00eda",
-      "url": "https://open.spotify.com/track/5oJU90vfKSvzZrT6g49xK8"
-    },
-    {
-      "added_at": "2026-01-23 11:50:23",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 147672,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X"
+    },
+    {
+      "added_at": "2026-01-23 11:50:23",
+      "album": {
+        "name": "Esposa M\u00eda",
+        "url": "https://open.spotify.com/album/060GsIY1ZDNFwiK2om5J2S"
+      },
+      "artists": [
+        {
+          "name": "Sergio Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Esposa M\u00eda",
+      "url": "https://open.spotify.com/track/5oJU90vfKSvzZrT6g49xK8"
     },
     {
       "added_at": "2026-01-23 11:50:23",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-01-23 11:50:23",
       "album": {
-        "name": "M\u00e1s de Una Vez",
-        "url": "https://open.spotify.com/album/5BZAv2tmF7d1m6iRx31OBG"
-      },
-      "artists": [
-        {
-          "name": "Soly",
-          "url": "https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ"
-        }
-      ],
-      "duration_ms": 173332,
-      "name": "M\u00e1s de Una Vez",
-      "url": "https://open.spotify.com/track/67mNCKyJeruy19jjXzmdVm"
-    },
-    {
-      "added_at": "2026-01-23 11:50:23",
-      "album": {
         "name": "Diez Mil Razones",
         "url": "https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 180069,
       "name": "Diez Mil Razones",
       "url": "https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b"
+    },
+    {
+      "added_at": "2026-01-23 11:50:23",
+      "album": {
+        "name": "M\u00e1s de Una Vez",
+        "url": "https://open.spotify.com/album/5BZAv2tmF7d1m6iRx31OBG"
+      },
+      "artists": [
+        {
+          "name": "Soly",
+          "url": "https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ"
+        }
+      ],
+      "duration_ms": 173332,
+      "name": "M\u00e1s de Una Vez",
+      "url": "https://open.spotify.com/track/67mNCKyJeruy19jjXzmdVm"
     },
     {
       "added_at": "2026-01-23 11:50:23",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2026-01-23 11:50:23",
       "album": {
-        "name": "Baila",
-        "url": "https://open.spotify.com/album/2DDQ42rZLhCHGkzyI56lHB"
-      },
-      "artists": [
-        {
-          "name": "Common Hymnal",
-          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
-        },
-        {
-          "name": "JonCarlos + Gabriella",
-          "url": "https://open.spotify.com/artist/6QluT3zLHLfjZZNcWvpL47"
-        }
-      ],
-      "duration_ms": 209837,
-      "name": "Baila",
-      "url": "https://open.spotify.com/track/1JDkqv7ry2RPAbK18JEllb"
-    },
-    {
-      "added_at": "2026-01-23 11:50:23",
-      "album": {
         "name": "Agarra La Bendici\u00f3n",
         "url": "https://open.spotify.com/album/1tFLoCCwpnvd4IzbeO9syJ"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 191447,
       "name": "Agarra La Bendici\u00f3n",
       "url": "https://open.spotify.com/track/5YaiFwIsbm1m1bB9dFwMMh"
+    },
+    {
+      "added_at": "2026-01-23 11:50:23",
+      "album": {
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/2DDQ42rZLhCHGkzyI56lHB"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "JonCarlos + Gabriella",
+          "url": "https://open.spotify.com/artist/6QluT3zLHLfjZZNcWvpL47"
+        }
+      ],
+      "duration_ms": 209837,
+      "name": "Baila",
+      "url": "https://open.spotify.com/track/1JDkqv7ry2RPAbK18JEllb"
     },
     {
       "added_at": "2026-01-23 11:50:23",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2026-01-23 11:50:23",
       "album": {
-        "name": "Mi Creador",
-        "url": "https://open.spotify.com/album/16X429nrjpTB4Slqplq98d"
-      },
-      "artists": [
-        {
-          "name": "Destiny Marko",
-          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 176038,
-      "name": "Mi Creador",
-      "url": "https://open.spotify.com/track/5VIG2ergnmxEFEU3is0dMj"
-    },
-    {
-      "added_at": "2026-01-23 11:50:23",
-      "album": {
         "name": "SOL",
         "url": "https://open.spotify.com/album/05XeZ32oWQ7sBFZRCkWSOr"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 178909,
       "name": "SOL",
       "url": "https://open.spotify.com/track/6cky0fBq1ZS7VvTX8pmUCK"
+    },
+    {
+      "added_at": "2026-01-23 11:50:23",
+      "album": {
+        "name": "Mi Creador",
+        "url": "https://open.spotify.com/album/16X429nrjpTB4Slqplq98d"
+      },
+      "artists": [
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 176038,
+      "name": "Mi Creador",
+      "url": "https://open.spotify.com/track/5VIG2ergnmxEFEU3is0dMj"
     },
     {
       "added_at": "2026-01-23 11:50:23",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-01-23 11:50:23",
       "album": {
-        "name": "Hay Una Fuente en M\u00ed",
-        "url": "https://open.spotify.com/album/3BDABEty1E3KBpE3GjXgiY"
-      },
-      "artists": [
-        {
-          "name": "Jose \"Papo\" Rivera",
-          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
-        }
-      ],
-      "duration_ms": 232320,
-      "name": "Hay Una Fuente en M\u00ed",
-      "url": "https://open.spotify.com/track/4740Eg06Z9xOZg39sI345N"
-    },
-    {
-      "added_at": "2026-01-23 11:50:23",
-      "album": {
         "name": "No Hay Otro",
         "url": "https://open.spotify.com/album/1HmpOYUfu1GByycGrR9grk"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 161000,
       "name": "Me Dejo Llevar",
       "url": "https://open.spotify.com/track/02GImCAVTR7qOfzBpT7qIj"
+    },
+    {
+      "added_at": "2026-01-23 11:50:23",
+      "album": {
+        "name": "Hay Una Fuente en M\u00ed",
+        "url": "https://open.spotify.com/album/3BDABEty1E3KBpE3GjXgiY"
+      },
+      "artists": [
+        {
+          "name": "Jose \"Papo\" Rivera",
+          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
+        }
+      ],
+      "duration_ms": 232320,
+      "name": "Hay Una Fuente en M\u00ed",
+      "url": "https://open.spotify.com/track/4740Eg06Z9xOZg39sI345N"
     },
     {
       "added_at": "2026-01-23 11:50:23",

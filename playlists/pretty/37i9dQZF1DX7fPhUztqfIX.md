@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: CityAlight
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,533 likes - 74 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,559 likes - 74 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 73 | [Emmanuel](https://open.spotify.com/track/2buHz6hpCv5tnk1TTKbY2Y) | [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq), [Ryan Kennedy](https://open.spotify.com/artist/79GBRmCCcohvXbXLvsv3nO) | [Emmanuel](https://open.spotify.com/album/1GIoxbb81T0OXD9pv8tXRV) | 5:52 |
 | 74 | [Jesus Be The Name \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/50irUgP4UUg2s90ULqMGxe) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Jesus Be The Name](https://open.spotify.com/album/21G0r4XKJfMmOSvpzaZ38T) | 8:59 |
 
-Snapshot ID: `AAAAANDAA6sFEXu9GS3oBoFWbh5UFYI+`
+Snapshot ID: `AAAAAG+mKQ7sAuBnes9SnWwWBXyb3qZ+`

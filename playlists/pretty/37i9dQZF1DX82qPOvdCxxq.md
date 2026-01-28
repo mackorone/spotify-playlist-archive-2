@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: Hunter Plake
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,104 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,126 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 99 | [breathe](https://open.spotify.com/track/08VXkdk6N04xCE7uaAw3Th) | [Tommy Iceland](https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU) | [breathe](https://open.spotify.com/album/68CPLbCotc1fnN24OeJ5RB) | 5:55 |
 | 100 | [Running Back Home](https://open.spotify.com/track/2ZsmKIzfufS6z2KeJpw5wG) | [Ethan Beer](https://open.spotify.com/artist/5hE9hHrQbGqtLypxH1KyYM) | [Running Back Home](https://open.spotify.com/album/6wWQz2dOHN2g5P008Yqe9J) | 2:21 |
 
-Snapshot ID: `AAAAAPt4AKjlUkTz/dJa/Sy9n+0i/t/K`
+Snapshot ID: `AAAAAKlZgd3XXW+3Z+OR4CF/aLo6yQmW`

@@ -5227,6 +5227,24 @@
     },
     {
       "album": {
+        "name": "lost!",
+        "url": "https://open.spotify.com/album/5yKkfPitOl4rUQTlNABSto"
+      },
+      "artists": [
+        {
+          "name": "Kold AF",
+          "url": "https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167767,
+      "name": "lost!",
+      "url": "https://open.spotify.com/track/7IlLy4MsAc5bEtAMxwJLHV"
+    },
+    {
+      "album": {
         "name": "Love (feat. Adekunle Gold)",
         "url": "https://open.spotify.com/album/44zzNErcfsYL8RYQaQ8uEw"
       },

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,160 songs - 2 day 16 hr 51 min
+1,161 songs - 2 day 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -584,7 +584,7 @@
 | [Lights](https://open.spotify.com/track/1bI70ChgVQeRFWPlcf8Mjz) | [Melchi](https://open.spotify.com/artist/7LG5EbBmbQORP6SG9BDzSA) | [Lights](https://open.spotify.com/album/29OJjQm5SnnJqguRFVVvwi) | 3:51 | 2022-06-03 | 2022-08-13 |
 | [Lights Out](https://open.spotify.com/track/75QDpUx2auLj2WBmq4D4DO) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Lights Out](https://open.spotify.com/album/1O3Pne76S6foaWI0eLw3BJ) | 2:55 | 2022-04-04 | 2022-06-15 |
 | [LIGHTSHOW](https://open.spotify.com/track/4adPSM4awRZkMR24DmZ3gj) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [LIGHTSHOW](https://open.spotify.com/album/79ZaRE4ev6xGaY1p4Tl5sn) | 2:25 | 2025-05-20 | 2025-08-16 |
-| [Lightweight](https://open.spotify.com/track/3tao5fIRVOmNroDmagFwTs) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Lightweight](https://open.spotify.com/album/3xCfH06zHPBX1Hj930l2bF) | 9:29 | 2025-10-24 |  |
+| [Lightweight](https://open.spotify.com/track/3tao5fIRVOmNroDmagFwTs) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Lightweight](https://open.spotify.com/album/3xCfH06zHPBX1Hj930l2bF) | 9:29 | 2025-10-24 | 2026-01-28 |
 | [LIKE THAT](https://open.spotify.com/track/27cN2bkTUkmG8X3Gp98G0z) | [YUSSI](https://open.spotify.com/artist/1IwkSL4i4wIu40Cej0a997), [MÆDM](https://open.spotify.com/artist/3f2JHeVMJvkFQbH8O81178) | [LIKE THAT](https://open.spotify.com/album/6HKkzxHYCtsn7hgXvEJlmC) | 2:59 | 2026-01-14 |  |
 | [Lily Garden](https://open.spotify.com/track/7wRqT3udwo3luOmcQhYpzB) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi), [Oliver River](https://open.spotify.com/artist/38xDMgRyJXkmnsp3Q4Q9wv) | [Lily Garden](https://open.spotify.com/album/5tplUNgqHpTQkv086mPPIm) | 3:18 | 2024-08-13 | 2024-11-05 |
 | [Liminal](https://open.spotify.com/track/10tif34C0hcgqdDgsvQLQG) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [Convexity](https://open.spotify.com/artist/5yyqKaR2sQiuMm2gC83f31) | [Liminal](https://open.spotify.com/album/5aQuFD0k2AvweTvB4NWsL7) | 3:38 | 2024-01-19 | 2024-04-10 |
@@ -1099,6 +1099,7 @@
 | [Wake Up](https://open.spotify.com/track/4oQVLOACv9GfeB9KcDRIo8) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Wake Up](https://open.spotify.com/album/7lFLWyaqcHEeFANruOXadS) | 2:53 | 2024-07-31 | 2024-10-23 |
 | [Wake Up](https://open.spotify.com/track/5S8QwjM8mrw3E5hk03PiJY) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Wake Up](https://open.spotify.com/album/6WgfCROBO4a8fovO886AZ0) | 3:09 | 2024-08-15 | 2024-11-07 |
 | [Wake Up](https://open.spotify.com/track/5hoyYgWURD3d68sZAECzwB) | [Oliverse](https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp), [ILLAMAN](https://open.spotify.com/artist/5Sbyn27Dwdsp9XtsFICpRu) | [Illusions](https://open.spotify.com/album/33jVgupLOP3SgVTAPj4eWv) | 3:10 | 2025-05-23 | 2025-08-16 |
+| [Walk The Line](https://open.spotify.com/track/4cyHh0gbmXfdm00WNNLzao) | [Alex Baker](https://open.spotify.com/artist/0U6Adu2ODsqB9urN7BslVo), [bailey](https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM) | [Walk The Line](https://open.spotify.com/album/3ut8uhbZiwN06XYseEizgO) | 3:18 | 2026-01-27 |  |
 | [Walk Thru Fire \- Sped Up](https://open.spotify.com/track/3lBW2k1bH1JtuS7wU7rd3x) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Walk Thru Fire](https://open.spotify.com/album/62xVNyBohReR2PQmF4cFVs) | 2:52 | 2024-05-07 | 2024-07-27 |
 | [Walking Away](https://open.spotify.com/track/7rIfZw9MyKIDWz0OKeet6L) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM), [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk), [Elliot Vast](https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA) | [Walking Away](https://open.spotify.com/album/5Q3vDdZZSwQtuSk9Z82kD8) | 2:50 | 2025-11-25 |  |
 | [WAR](https://open.spotify.com/track/4lb8Lp96diNynBi5yri1dC) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [WAR](https://open.spotify.com/album/7vtYc3w0egjBboxXiKArmD) | 2:37 | 2023-09-28 | 2024-01-16 |

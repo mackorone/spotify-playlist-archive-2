@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With MIK's Reaction, Jon Drake, AlligatorX and more",
+  "description": "With MIK's Reaction, AlligatorX, Jyri Kannisto and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -362,7 +362,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 308360,
       "name": "Below the Leaves",
       "url": "https://open.spotify.com/track/0KpRF7xfd4Cy9z7AvoXQNR"
@@ -420,6 +420,24 @@
       "duration_ms": 246500,
       "name": "Black Mirror",
       "url": "https://open.spotify.com/track/1n2fazb6APKC1wW2XcfPPK"
+    },
+    {
+      "album": {
+        "name": "Liebe Krise",
+        "url": "https://open.spotify.com/album/1XmoDEjk3nfdjjGn6pzVSt"
+      },
+      "artists": [
+        {
+          "name": "Fede",
+          "url": "https://open.spotify.com/artist/3qcxx0fX4kMXtTlwWUMtLP"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249297,
+      "name": "Blau",
+      "url": "https://open.spotify.com/track/2bXwmzlSSo7QoP1YqDC7Jz"
     },
     {
       "album": {
@@ -852,7 +870,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 226758,
       "name": "Days and Roses",
       "url": "https://open.spotify.com/track/3zpfjxjnfosCaGLfJeZdEf"
@@ -1018,7 +1036,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 167076,
       "name": "Dirty Stripper",
       "url": "https://open.spotify.com/track/4wTVlDT3sqvZmrwvaqQ7Rz"
@@ -1116,7 +1134,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 249000,
       "name": "Dopey Smile",
       "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
@@ -1678,7 +1696,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 248451,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
@@ -2266,7 +2284,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 191525,
       "name": "It's Just A Photograph",
       "url": "https://open.spotify.com/track/5xGHNR6pRld5A2hC0ZpQT8"
@@ -2504,7 +2522,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 193000,
       "name": "Lessons",
       "url": "https://open.spotify.com/track/2nWIIAhtejQ3dr5mR7WHWg"
@@ -2656,7 +2674,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 188840,
       "name": "Lonely Man",
       "url": "https://open.spotify.com/track/68gksng0zweehO0LLVw6ba"
@@ -2782,7 +2800,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-25",
+      "date_removed": null,
       "duration_ms": 200377,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/6jIKNLyG16eIHXnCtthNoU"
@@ -3078,7 +3096,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-25",
+      "date_removed": null,
       "duration_ms": 351000,
       "name": "Mr. Record Man",
       "url": "https://open.spotify.com/track/1DXOaD84OMVvwL2oaTuGiM"
@@ -3114,7 +3132,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 193069,
       "name": "My Love Fits You Like A Glove",
       "url": "https://open.spotify.com/track/5Nq4kmJAas2txvKjXWOvun"
@@ -3154,7 +3172,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -3208,7 +3226,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 125261,
       "name": "Never the Same (Orchestral Part 2)",
       "url": "https://open.spotify.com/track/2sfc7RKi9OQlg4nFSiJbIv"
@@ -3630,7 +3648,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 209986,
       "name": "Pav",
       "url": "https://open.spotify.com/track/1HHBk3iIoFmwSH7CE6DmfD"
@@ -3652,7 +3670,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 173500,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/0xIqTXXmN9xyR7SVFwVrnj"
@@ -3778,7 +3796,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 183080,
       "name": "Quick, Fast And In A Hurry",
       "url": "https://open.spotify.com/track/7kYt80QO4Pficzg8OdogNP"
@@ -4063,6 +4081,24 @@
     },
     {
       "album": {
+        "name": "Shadows of Tomorrow",
+        "url": "https://open.spotify.com/album/1wRbeibLg7gh4nJa2e2jUr"
+      },
+      "artists": [
+        {
+          "name": "Dystopian X Vision",
+          "url": "https://open.spotify.com/artist/4dzYz9IgWJQApnTmbBiGQM"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164829,
+      "name": "Shadows of Tomorrow",
+      "url": "https://open.spotify.com/track/6QIGBSPAtC2Bg6Ccl72TZy"
+    },
+    {
+      "album": {
         "name": "Skansen",
         "url": "https://open.spotify.com/album/1mL506SGcKCdWrbSJRMocB"
       },
@@ -4272,7 +4308,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 161036,
       "name": "Song For The Hanged Man - 2023 Remaster",
       "url": "https://open.spotify.com/track/4SN0uYAxfgbKyruepzAvEs"
@@ -4460,7 +4496,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 331440,
       "name": "Stranden",
       "url": "https://open.spotify.com/track/7v05GxuaQtCW32RuhPThPa"
@@ -4514,7 +4550,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-26",
+      "date_removed": null,
       "duration_ms": 233600,
       "name": "Sunswept",
       "url": "https://open.spotify.com/track/3ycubEbm00kreSdRc14BCi"
@@ -4734,7 +4770,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 232013,
       "name": "The Dominant",
       "url": "https://open.spotify.com/track/5DyPJUyAEp8eLArKIre10m"
@@ -4752,7 +4788,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 107586,
       "name": "The End",
       "url": "https://open.spotify.com/track/3XP2fgY72feUbo3jG5bOjS"
@@ -4774,6 +4810,24 @@
       "duration_ms": 424585,
       "name": "The Fate",
       "url": "https://open.spotify.com/track/11D0OdRH2XHmst8sps2tZm"
+    },
+    {
+      "album": {
+        "name": "The Girl With The Blue Hat",
+        "url": "https://open.spotify.com/album/0b5pgD417j6yCiabyEAVel"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Dayz",
+          "url": "https://open.spotify.com/artist/36ALrlLDFxVNR9OMwfJX46"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250146,
+      "name": "The Girl With The Blue Hat",
+      "url": "https://open.spotify.com/track/5Ra5F82U6bYLW3EZp4RU43"
     },
     {
       "album": {
@@ -4824,7 +4878,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 230991,
       "name": "The Key Is You",
       "url": "https://open.spotify.com/track/6FsO938pNcZGUn8P3uJSWE"
@@ -5394,7 +5448,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 282985,
       "name": "Verschworen",
       "url": "https://open.spotify.com/track/71a4a9s2PKSlVuxNhJnx3K"
@@ -5448,7 +5502,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 223629,
       "name": "VoidWalker",
       "url": "https://open.spotify.com/track/56JNUY9KsCIEge6C3wKCWo"
@@ -5524,6 +5578,24 @@
       "duration_ms": 248000,
       "name": "Warning Shot",
       "url": "https://open.spotify.com/track/5uPYPoyjkLQnMHUl6Q5Ys9"
+    },
+    {
+      "album": {
+        "name": "You Know Me",
+        "url": "https://open.spotify.com/album/7LQ8PBWRS2turKeKxX0ymw"
+      },
+      "artists": [
+        {
+          "name": "Eden Robert",
+          "url": "https://open.spotify.com/artist/4kUtsLlzvMUEMmIr6zrS0R"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255779,
+      "name": "Wash You Clean",
+      "url": "https://open.spotify.com/track/7HkeAjIxpO7GukNw7xBEHx"
     },
     {
       "album": {
@@ -5650,7 +5722,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 231000,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/2YgcnK6aotnzoRkGdHHM18"
@@ -5834,7 +5906,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 301336,
       "name": "Zulu Alpha",
       "url": "https://open.spotify.com/track/7FYleU9JYGSACXn0ODPd3l"

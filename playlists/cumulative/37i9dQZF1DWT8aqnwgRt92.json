@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 195360,
       "name": "Answer",
       "url": "https://open.spotify.com/track/0MjSBRe2cE2sNx1ZLpnwdh"
@@ -8582,7 +8582,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 251826,
       "name": "HAPPY LUCKY JET!!",
       "url": "https://open.spotify.com/track/4B0RrEDCfjavLt5vRjh6oX"
@@ -10252,6 +10252,24 @@
       "duration_ms": 199486,
       "name": "INERTIA",
       "url": "https://open.spotify.com/track/2joT0CjcGqc1fr8Fvk7itj"
+    },
+    {
+      "album": {
+        "name": "Infinite Future ([DRAGON BALL] 40th Anniversary Special Video - Theme)",
+        "url": "https://open.spotify.com/album/4VUXHY9GzgP0z7j1mPlMVo"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302466,
+      "name": "Infinite Future - [DRAGON BALL] 40th Anniversary Special Video - Theme",
+      "url": "https://open.spotify.com/track/2upKJVt2gQ9dWYd6lCLB74"
     },
     {
       "album": {
@@ -14284,7 +14302,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 91960,
       "name": "Mischief Time",
       "url": "https://open.spotify.com/track/7c6SSuTdm0mrkNHVFrq5xU"
@@ -17538,6 +17556,28 @@
       "duration_ms": 235525,
       "name": "PUNKS",
       "url": "https://open.spotify.com/track/3KCvdwzkUI1iyLWfhWws0o"
+    },
+    {
+      "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/38I9qOuRg17eRs0b8bgZCz"
+      },
+      "artists": [
+        {
+          "name": "PAS TASTA",
+          "url": "https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS"
+        },
+        {
+          "name": "\u6a4b\u672c\u7d75\u8389\u5b50",
+          "url": "https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200731,
+      "name": "Pure (feat. Eriko Hashimoto)",
+      "url": "https://open.spotify.com/track/0qI9slgq5TJxNnkPFZcryt"
     },
     {
       "album": {
@@ -23133,6 +23173,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "\u4e9c\u54b2\u82b1",
+          "url": "https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/73oo1IrzIOkmjMCeQFg4jw"
+    },
+    {
+      "album": {
         "name": "TRANSFORMERS-Earthspark!!",
         "url": "https://open.spotify.com/album/3OBm1szR6Iqe7M4BAG4Ub8"
       },
@@ -24794,6 +24852,28 @@
       "duration_ms": 216848,
       "name": "WE WILL!!",
       "url": "https://open.spotify.com/track/1LJhBOJ0WD4n28K8Tp9AOg"
+    },
+    {
+      "album": {
+        "name": "We'll be one\uff01",
+        "url": "https://open.spotify.com/album/23OYjqPTykTLRDtyCc8jrS"
+      },
+      "artists": [
+        {
+          "name": "\u30a6\u30eb\u30c8\u30e9\u30de\u30f3\u30bc\u30c3\u30c8(CV\uff1a\u7560\u4e2d\u7950)",
+          "url": "https://open.spotify.com/artist/6Ds0K5oeaba9yHeb2njbDR"
+        },
+        {
+          "name": "VOYAGER",
+          "url": "https://open.spotify.com/artist/2XoTco4srcftDxkskvcb0L"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223320,
+      "name": "We'll be one\uff01",
+      "url": "https://open.spotify.com/track/7HiMzp7rGn8Xk65uFu0m14"
     },
     {
       "album": {
@@ -32604,7 +32684,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 90433,
       "name": "\u30bb\u30c4\u30caBlossom - TVsize",
       "url": "https://open.spotify.com/track/22PyaiG4Br5x5LYwYa7FFH"
@@ -38414,6 +38494,24 @@
       "duration_ms": 267106,
       "name": "\u58f0\u306e\u30ab\u30b1\u30e9",
       "url": "https://open.spotify.com/track/2EECO3bJL0t5ebyKPD6ydV"
+    },
+    {
+      "album": {
+        "name": "\u58f0\u306e\u8ecc\u8de1",
+        "url": "https://open.spotify.com/album/4n2Fbv9J5fqFbLnjBt5PTi"
+      },
+      "artists": [
+        {
+          "name": "Soala",
+          "url": "https://open.spotify.com/artist/5MBWJMHvKch5TJxUPNOVer"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199080,
+      "name": "\u58f0\u306e\u8ecc\u8de1",
+      "url": "https://open.spotify.com/track/0N5YLuTIySy1APi9rmSGfj"
     },
     {
       "album": {
@@ -44600,7 +44698,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 238124,
       "name": "\u8d64\u3068\u9752",
       "url": "https://open.spotify.com/track/0TWgH1UWUPj3FCycsSmSt9"

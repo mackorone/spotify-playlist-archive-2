@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXVdAAAAAACbYp58QRUxqhFQLkb/3QeK",
+  "snapshot_id": "aXaugAAAAABDLThGZ9p775DYZ5hPTXhO",
   "tracks": [
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 249426,
-      "name": "(I Found) That Man of Mine",
-      "url": "https://open.spotify.com/track/4ykwkuk4VAGCCF82pMadSE"
+      "duration_ms": 275920,
+      "name": "Love Don't Ever Say Goodbye",
+      "url": "https://open.spotify.com/track/4bAEG1ZYfkMCT3SdDRqTzw"
     },
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 275920,
-      "name": "Love Don't Ever Say Goodbye",
-      "url": "https://open.spotify.com/track/4bAEG1ZYfkMCT3SdDRqTzw"
+      "duration_ms": 249426,
+      "name": "(I Found) That Man of Mine",
+      "url": "https://open.spotify.com/track/4ykwkuk4VAGCCF82pMadSE"
     },
     {
       "added_at": null,
@@ -907,6 +907,50 @@
       "duration_ms": 301000,
       "name": "Is It True?",
       "url": "https://open.spotify.com/track/2P3rUI2tEIlBo5YXcGrOuf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soul Central, Vol. 1",
+        "url": "https://open.spotify.com/album/4oXW0hCOrPBqaKPFAViRya"
+      },
+      "artists": [
+        {
+          "name": "Richard Anthony Davis",
+          "url": "https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL"
+        },
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/5YBzrGR5OgC9pU4Dl5eU8o"
+        },
+        {
+          "name": "Chris Ballin",
+          "url": "https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W"
+        },
+        {
+          "name": "Dean Edwards",
+          "url": "https://open.spotify.com/artist/6r4TeQ52Om1xWryPSGW4tI"
+        },
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        },
+        {
+          "name": "Anthony Drakes",
+          "url": "https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza"
+        },
+        {
+          "name": "Julianne",
+          "url": "https://open.spotify.com/artist/0ZEOoQA1tnEAnEbObq8YIR"
+        },
+        {
+          "name": "The Sound Principle",
+          "url": "https://open.spotify.com/artist/6vBm0kFy8xndqPZRY8zpYw"
+        }
+      ],
+      "duration_ms": 271120,
+      "name": "The More I Get To Know You",
+      "url": "https://open.spotify.com/track/69VxpJEzI5FQnsMi9oKx4Y"
     }
   ],
   "unique_name": "This Is The Jones Girls",

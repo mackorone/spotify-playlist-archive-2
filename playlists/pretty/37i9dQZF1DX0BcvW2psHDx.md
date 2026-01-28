@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcvW2psHDx.md) - [plain]
 
 > T1 오피셜 플레이리스트와 함께 매드무비 게임 플레이를 즐겨보세요! \(Enjoy Mad Movie gameplay with T1 Official Playlist!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,274 likes - 200 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,288 likes - 200 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,7 +159,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcvW2psHDx.md) - [plain]
 | 149 | [Turn It Up](https://open.spotify.com/track/7gqGNavkG1gSQsgRtSuRpU) | [Anikdote](https://open.spotify.com/artist/41LqrhKD3Hs6MOOFPhb59G) | [Turn It Up](https://open.spotify.com/album/7aV2vjtDW4pJy3tOm8a5xW) | 4:07 |
 | 150 | [Ark](https://open.spotify.com/track/1HsSyi5yPKIStnaZmqKDz6) | [Shipwrek](https://open.spotify.com/artist/43YktMNP4HYAKCcyRGVjNs), [Zookeepers](https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC) | [Pandorica \(Motion Picture Soundtrack\)](https://open.spotify.com/album/2e3RZe9qgriDIGMivx68Hb) | 3:00 |
 | 151 | [Tropic Love](https://open.spotify.com/track/5HHd6ozaXMES9r7shdPaaz) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [Contacreast](https://open.spotify.com/artist/6rE6zv0dhFUVh35QwO9UyP) | [Tropic Love](https://open.spotify.com/album/4Xl8mv9MCSqStihzjxFqFx) | 4:59 |
-| 152 | [Rubik](https://open.spotify.com/track/7bn6unu3BYN96dktpUi9ZB) | [Distrion](https://open.spotify.com/artist/01amjyTlohCQrBLbM1scoO), [Electro\-Light](https://open.spotify.com/artist/1rpHb27OjM9LHmYm2zjnk5) | [Rubik](https://open.spotify.com/album/5L2d5v8llBmJj1uHPct7Ko) | 3:33 |
+| 152 | [Rubik](https://open.spotify.com/track/7bn6unu3BYN96dktpUi9ZB) | [Electro\-Light](https://open.spotify.com/artist/1rpHb27OjM9LHmYm2zjnk5), [Distrion](https://open.spotify.com/artist/01amjyTlohCQrBLbM1scoO) | [Rubik](https://open.spotify.com/album/5L2d5v8llBmJj1uHPct7Ko) | 3:33 |
 | 153 | [C U Again](https://open.spotify.com/track/5B2KdpqWRwcnO2Cfxh7MSX) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Mikk Mäe](https://open.spotify.com/artist/5VwaZFgNvI1CNujMKYTqPs), [Futuristik](https://open.spotify.com/artist/5QNnf6MKpahSmcbfLpPgzF) | [NCS: The Best of 2016](https://open.spotify.com/album/2PbNOsRy7jYiiljcig1xeQ) | 3:22 |
 | 154 | [rescue me](https://open.spotify.com/track/7Hu76PELAMLHoBaAEVeQ9L) | [silvershore](https://open.spotify.com/artist/5ugiiDMswZlkI97yinhvEt) | [happier, Pt\. 1](https://open.spotify.com/album/5w4OhbzRkcu2Hf4j3Cdj8x) | 3:58 |
 | 155 | [Go With You](https://open.spotify.com/track/6vZci9j26lXFSiJtn0XEeJ) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC) | [Operation: Overload](https://open.spotify.com/album/37pygoLYPwFUNO9RR24AcE) | 3:00 |

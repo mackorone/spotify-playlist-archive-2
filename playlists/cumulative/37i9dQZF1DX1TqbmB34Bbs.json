@@ -1466,7 +1466,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 179142,
       "name": "ABC",
       "url": "https://open.spotify.com/track/5FTHf3GtEJE8G0zoRyzZvz"
@@ -27332,7 +27332,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 275400,
       "name": "UP (Feat. Jay Park, Woo) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/4NgBGkkjK006wySQL4IaBA"
@@ -27894,6 +27894,28 @@
       "duration_ms": 349120,
       "name": "VVS - H1GHR Remix",
       "url": "https://open.spotify.com/track/5rf4kHX7sqmTSgc49YVWAI"
+    },
+    {
+      "album": {
+        "name": "HOWANMAMA",
+        "url": "https://open.spotify.com/album/7Mus65g9jkeG5iUY3B0VRC"
+      },
+      "artists": [
+        {
+          "name": "Khundi Panda",
+          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
+        },
+        {
+          "name": "STXXCH",
+          "url": "https://open.spotify.com/artist/4eKUJWxR4ycmScb1XoymzS"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198823,
+      "name": "WABANGA",
+      "url": "https://open.spotify.com/track/64GH5EZ3fksNMDzPxPe9ak"
     },
     {
       "album": {
@@ -31106,6 +31128,32 @@
       "duration_ms": 235000,
       "name": "\ub69d\ub69d\ub69d",
       "url": "https://open.spotify.com/track/6qqOz5LS19krVTFAvcSD3A"
+    },
+    {
+      "album": {
+        "name": "\ud76c / \ub178 / \uc560 / \ub77d",
+        "url": "https://open.spotify.com/album/2q4GpFI6Ytc0apj7VnUgvf"
+      },
+      "artists": [
+        {
+          "name": "kimj",
+          "url": "https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw"
+        },
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        },
+        {
+          "name": "audiogothh",
+          "url": "https://open.spotify.com/artist/1WJKWpQ5iEZoCZAKVTZjMM"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113684,
+      "name": "\ub77d (party rock)",
+      "url": "https://open.spotify.com/track/2n6k3cmhn9H7oFl757VaCU"
     },
     {
       "album": {

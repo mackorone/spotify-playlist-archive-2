@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcela Gandara",
-  "num_followers": 496938,
+  "num_followers": 497038,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-12-12 06:18:40",
       "album": {
-        "name": "Agnus Dei",
-        "url": "https://open.spotify.com/album/5P3RnPvWsPZemalJKpbVRx"
-      },
-      "artists": [
-        {
-          "name": "Salida 7",
-          "url": "https://open.spotify.com/artist/75JfkurB5mkbatZL5xrsiv"
-        }
-      ],
-      "duration_ms": 229176,
-      "name": "Agnus Dei",
-      "url": "https://open.spotify.com/track/6qcqrsTclFz9XJJoezAHOL"
-    },
-    {
-      "added_at": "2025-12-12 06:18:40",
-      "album": {
         "name": "Dios de Lo Imposible",
         "url": "https://open.spotify.com/album/56F3pXYyl8HDFvgfazVAFo"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 472946,
       "name": "Dios de Lo Imposible",
       "url": "https://open.spotify.com/track/39BnqwYj7f8hzrbVP7GZ5L"
+    },
+    {
+      "added_at": "2025-12-12 06:18:40",
+      "album": {
+        "name": "Agnus Dei",
+        "url": "https://open.spotify.com/album/5P3RnPvWsPZemalJKpbVRx"
+      },
+      "artists": [
+        {
+          "name": "Salida 7",
+          "url": "https://open.spotify.com/artist/75JfkurB5mkbatZL5xrsiv"
+        }
+      ],
+      "duration_ms": 229176,
+      "name": "Agnus Dei",
+      "url": "https://open.spotify.com/track/6qcqrsTclFz9XJJoezAHOL"
     },
     {
       "added_at": "2025-12-12 06:18:40",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-12-12 06:18:40",
       "album": {
-        "name": "Atracci\u00f3n",
-        "url": "https://open.spotify.com/album/5mDp9HC1usq8FW44X3lVQ2"
-      },
-      "artists": [
-        {
-          "name": "Daniel Piedra Soto",
-          "url": "https://open.spotify.com/artist/5S85r4Nr3HMIhM1HQqkSzF"
-        }
-      ],
-      "duration_ms": 372640,
-      "name": "Nuestro Encuentro",
-      "url": "https://open.spotify.com/track/1yX45HBn6NYXFANlxOTugx"
-    },
-    {
-      "added_at": "2025-12-12 06:18:40",
-      "album": {
         "name": "Tu Luz",
         "url": "https://open.spotify.com/album/39BhWVKo2v4AqtnIn2q3Ad"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 230377,
       "name": "Tu Luz",
       "url": "https://open.spotify.com/track/0xBHLeeNrqMXDcxDyCCiO8"
+    },
+    {
+      "added_at": "2025-12-12 06:18:40",
+      "album": {
+        "name": "Atracci\u00f3n",
+        "url": "https://open.spotify.com/album/5mDp9HC1usq8FW44X3lVQ2"
+      },
+      "artists": [
+        {
+          "name": "Daniel Piedra Soto",
+          "url": "https://open.spotify.com/artist/5S85r4Nr3HMIhM1HQqkSzF"
+        }
+      ],
+      "duration_ms": 372640,
+      "name": "Nuestro Encuentro",
+      "url": "https://open.spotify.com/track/1yX45HBn6NYXFANlxOTugx"
     },
     {
       "added_at": "2025-12-12 06:18:40",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-12-12 06:18:40",
       "album": {
-        "name": "Santo es el que Vive",
-        "url": "https://open.spotify.com/album/1nAqjj54iiVCesUX9jA47V"
-      },
-      "artists": [
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        }
-      ],
-      "duration_ms": 634551,
-      "name": "Santo es el que Vive",
-      "url": "https://open.spotify.com/track/2zEIWex7Tqy4zOgD68VAen"
-    },
-    {
-      "added_at": "2025-12-12 06:18:40",
-      "album": {
         "name": "Sin Ti",
         "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 264800,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
+    },
+    {
+      "added_at": "2025-12-12 06:18:40",
+      "album": {
+        "name": "Santo es el que Vive",
+        "url": "https://open.spotify.com/album/1nAqjj54iiVCesUX9jA47V"
+      },
+      "artists": [
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "duration_ms": 634551,
+      "name": "Santo es el que Vive",
+      "url": "https://open.spotify.com/track/2zEIWex7Tqy4zOgD68VAen"
     },
     {
       "added_at": "2025-12-12 06:18:40",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2025-12-12 06:18:40",
       "album": {
-        "name": "Fiesta en el desierto (la la la)",
-        "url": "https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ"
-      },
-      "artists": [
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        }
-      ],
-      "duration_ms": 338015,
-      "name": "Fiesta en el desierto (la la la)",
-      "url": "https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa"
-    },
-    {
-      "added_at": "2025-12-12 06:18:40",
-      "album": {
         "name": "Creo en Ti",
         "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 423173,
       "name": "Creo En Ti",
       "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
+    },
+    {
+      "added_at": "2025-12-12 06:18:40",
+      "album": {
+        "name": "Fiesta en el desierto (la la la)",
+        "url": "https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ"
+      },
+      "artists": [
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "duration_ms": 338015,
+      "name": "Fiesta en el desierto (la la la)",
+      "url": "https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa"
     },
     {
       "added_at": "2025-12-12 06:18:40",

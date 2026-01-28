@@ -319,6 +319,22 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
+        "name": "Dla zasady",
+        "url": "https://open.spotify.com/album/3vOiQmpWuGfaQrRumJosm8"
+      },
+      "artists": [
+        {
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        }
+      ],
+      "duration_ms": 183214,
+      "name": "Dla zasady",
+      "url": "https://open.spotify.com/track/6NvJYTxaftqf7Rif5zE2ym"
+    },
+    {
+      "added_at": "2026-01-22 23:00:53",
+      "album": {
         "name": "Before",
         "url": "https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre"
       },
@@ -335,18 +351,18 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
-        "name": "Dla zasady",
-        "url": "https://open.spotify.com/album/3vOiQmpWuGfaQrRumJosm8"
+        "name": "Wol\u0119 Ci\u0119 kocha\u0107, ni\u017c mie\u0107",
+        "url": "https://open.spotify.com/album/751UQhysLprUGTXrhTrHvP"
       },
       "artists": [
         {
-          "name": "Nita",
-          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+          "name": "Marta Bijan",
+          "url": "https://open.spotify.com/artist/6H38O4b9x7V56MfLOpfNZt"
         }
       ],
-      "duration_ms": 183214,
-      "name": "Dla zasady",
-      "url": "https://open.spotify.com/track/6NvJYTxaftqf7Rif5zE2ym"
+      "duration_ms": 177864,
+      "name": "Wol\u0119 Ci\u0119 kocha\u0107, ni\u017c mie\u0107",
+      "url": "https://open.spotify.com/track/2KMoi0vQU6xVUZ05atEOSe"
     },
     {
       "added_at": "2026-01-22 23:00:53",
@@ -399,18 +415,18 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
-        "name": "Wol\u0119 Ci\u0119 kocha\u0107, ni\u017c mie\u0107",
-        "url": "https://open.spotify.com/album/751UQhysLprUGTXrhTrHvP"
+        "name": "Nic nie p\u0142onie",
+        "url": "https://open.spotify.com/album/5y7ZttStHIgf34N5zJlWNB"
       },
       "artists": [
         {
-          "name": "Marta Bijan",
-          "url": "https://open.spotify.com/artist/6H38O4b9x7V56MfLOpfNZt"
+          "name": "metro",
+          "url": "https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0"
         }
       ],
-      "duration_ms": 177864,
-      "name": "Wol\u0119 Ci\u0119 kocha\u0107, ni\u017c mie\u0107",
-      "url": "https://open.spotify.com/track/2KMoi0vQU6xVUZ05atEOSe"
+      "duration_ms": 177272,
+      "name": "Nic nie p\u0142onie",
+      "url": "https://open.spotify.com/track/6fEbkXBEE4aQXZf6B9Eh1m"
     },
     {
       "added_at": "2026-01-22 23:00:53",
@@ -435,18 +451,22 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
-        "name": "Nic nie p\u0142onie",
-        "url": "https://open.spotify.com/album/5y7ZttStHIgf34N5zJlWNB"
+        "name": "WARM UP",
+        "url": "https://open.spotify.com/album/4aAFN9ics0Z5JKVfBeahxV"
       },
       "artists": [
         {
-          "name": "metro",
-          "url": "https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0"
+          "name": "zuziula",
+          "url": "https://open.spotify.com/artist/4QlrRdWN1OxIPPK5tWWang"
+        },
+        {
+          "name": "Propz",
+          "url": "https://open.spotify.com/artist/5WMX13N5anFvDkErB379U2"
         }
       ],
-      "duration_ms": 177272,
-      "name": "Nic nie p\u0142onie",
-      "url": "https://open.spotify.com/track/6fEbkXBEE4aQXZf6B9Eh1m"
+      "duration_ms": 175094,
+      "name": "B\u0118D\u0118 KIM\u015a",
+      "url": "https://open.spotify.com/track/52yBm3Q1A8DxOf5EMr4RMp"
     },
     {
       "added_at": "2026-01-22 23:00:53",
@@ -471,38 +491,18 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
-        "name": "WARM UP",
-        "url": "https://open.spotify.com/album/4aAFN9ics0Z5JKVfBeahxV"
+        "name": "MILCZ",
+        "url": "https://open.spotify.com/album/72vc2D3brHNtwxuBlylJTG"
       },
       "artists": [
         {
-          "name": "zuziula",
-          "url": "https://open.spotify.com/artist/4QlrRdWN1OxIPPK5tWWang"
-        },
-        {
-          "name": "Propz",
-          "url": "https://open.spotify.com/artist/5WMX13N5anFvDkErB379U2"
+          "name": "HELA",
+          "url": "https://open.spotify.com/artist/0kDheRc8ZXm7cEBSIcb3dj"
         }
       ],
-      "duration_ms": 175094,
-      "name": "B\u0118D\u0118 KIM\u015a",
-      "url": "https://open.spotify.com/track/52yBm3Q1A8DxOf5EMr4RMp"
-    },
-    {
-      "added_at": "2026-01-22 23:00:53",
-      "album": {
-        "name": "obud\u017a mnie",
-        "url": "https://open.spotify.com/album/4UprozxKHOIrYFolUxOIK5"
-      },
-      "artists": [
-        {
-          "name": "emi",
-          "url": "https://open.spotify.com/artist/1cIGr563sge3dInoMsn0Cu"
-        }
-      ],
-      "duration_ms": 173544,
-      "name": "obud\u017a mnie",
-      "url": "https://open.spotify.com/track/6FRFJi35UTtGEYvF71Xl0J"
+      "duration_ms": 148818,
+      "name": "MILCZ",
+      "url": "https://open.spotify.com/track/089Hm491O6KqdCU53oDLoU"
     },
     {
       "added_at": "2026-01-22 23:00:53",
@@ -527,18 +527,18 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
-        "name": "MILCZ",
-        "url": "https://open.spotify.com/album/72vc2D3brHNtwxuBlylJTG"
+        "name": "obud\u017a mnie",
+        "url": "https://open.spotify.com/album/4UprozxKHOIrYFolUxOIK5"
       },
       "artists": [
         {
-          "name": "HELA",
-          "url": "https://open.spotify.com/artist/0kDheRc8ZXm7cEBSIcb3dj"
+          "name": "emi",
+          "url": "https://open.spotify.com/artist/1cIGr563sge3dInoMsn0Cu"
         }
       ],
-      "duration_ms": 148818,
-      "name": "MILCZ",
-      "url": "https://open.spotify.com/track/089Hm491O6KqdCU53oDLoU"
+      "duration_ms": 173544,
+      "name": "obud\u017a mnie",
+      "url": "https://open.spotify.com/track/6FRFJi35UTtGEYvF71Xl0J"
     },
     {
       "added_at": "2026-01-22 23:00:53",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
+        "name": "Cienie Przesz\u0142o\u015bci",
+        "url": "https://open.spotify.com/album/5ZrpZyPmuPY9nkhTivObsX"
+      },
+      "artists": [
+        {
+          "name": "Jeremi Sikorski",
+          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "Cienie Przesz\u0142o\u015bci",
+      "url": "https://open.spotify.com/track/6hoBYZ9kZiBWrwMGWrBdqo"
+    },
+    {
+      "added_at": "2026-01-22 23:00:53",
+      "album": {
         "name": "BOJ\u0118 SI\u0118",
         "url": "https://open.spotify.com/album/3Buzwi4LOfjQ9ziFS2M5qY"
       },
@@ -583,22 +599,6 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
-        "name": "Happy End",
-        "url": "https://open.spotify.com/album/3mX7EsVUFJWupywxSmmOVa"
-      },
-      "artists": [
-        {
-          "name": "Aria Martelle",
-          "url": "https://open.spotify.com/artist/4eD0JcSnBvEtyvY3QF2U0K"
-        }
-      ],
-      "duration_ms": 146068,
-      "name": "Happy End",
-      "url": "https://open.spotify.com/track/0HkaC7DTxaRhYZToZBK0lc"
-    },
-    {
-      "added_at": "2026-01-22 23:00:53",
-      "album": {
         "name": "Nie pozwol\u0119 Ci wyj\u015b\u0107",
         "url": "https://open.spotify.com/album/1ERBMG7BItkG9tFx13JHYd"
       },
@@ -615,18 +615,18 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
-        "name": "Cienie Przesz\u0142o\u015bci",
-        "url": "https://open.spotify.com/album/5ZrpZyPmuPY9nkhTivObsX"
+        "name": "Happy End",
+        "url": "https://open.spotify.com/album/3mX7EsVUFJWupywxSmmOVa"
       },
       "artists": [
         {
-          "name": "Jeremi Sikorski",
-          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
+          "name": "Aria Martelle",
+          "url": "https://open.spotify.com/artist/4eD0JcSnBvEtyvY3QF2U0K"
         }
       ],
-      "duration_ms": 166956,
-      "name": "Cienie Przesz\u0142o\u015bci",
-      "url": "https://open.spotify.com/track/6hoBYZ9kZiBWrwMGWrBdqo"
+      "duration_ms": 146068,
+      "name": "Happy End",
+      "url": "https://open.spotify.com/track/0HkaC7DTxaRhYZToZBK0lc"
     },
     {
       "added_at": "2026-01-22 23:00:53",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
-        "name": "Wyjmij mnie",
-        "url": "https://open.spotify.com/album/5jm4PXSEak02Eknn9Iimfj"
-      },
-      "artists": [
-        {
-          "name": "Pola Maj",
-          "url": "https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T"
-        }
-      ],
-      "duration_ms": 198882,
-      "name": "Wyjmij mnie",
-      "url": "https://open.spotify.com/track/0FUOOxJ6kydMmzJeoqfUqc"
-    },
-    {
-      "added_at": "2026-01-22 23:00:53",
-      "album": {
         "name": "My\u015bli",
         "url": "https://open.spotify.com/album/6lIAyrOV9NPUqdHpZtQ3vS"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 159047,
       "name": "7 nieszcz\u0119\u015b\u0107",
       "url": "https://open.spotify.com/track/4dBS6UpUxCevc83JrzktiM"
+    },
+    {
+      "added_at": "2026-01-22 23:00:53",
+      "album": {
+        "name": "Wyjmij mnie",
+        "url": "https://open.spotify.com/album/5jm4PXSEak02Eknn9Iimfj"
+      },
+      "artists": [
+        {
+          "name": "Pola Maj",
+          "url": "https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T"
+        }
+      ],
+      "duration_ms": 198882,
+      "name": "Wyjmij mnie",
+      "url": "https://open.spotify.com/track/0FUOOxJ6kydMmzJeoqfUqc"
     },
     {
       "added_at": "2026-01-22 23:00:53",
@@ -803,22 +803,18 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
-        "name": "Dotkni\u0119ta przez s\u0142o\u0144ce",
-        "url": "https://open.spotify.com/album/6NhKBbD2p8ZxiYzYbcKwFE"
+        "name": "Serce",
+        "url": "https://open.spotify.com/album/3glWhyUYAF0ofKNjHQLSRi"
       },
       "artists": [
         {
-          "name": "Kachus",
-          "url": "https://open.spotify.com/artist/3Ya5NT5vLex3mCIt2DTmkJ"
-        },
-        {
-          "name": "ZORZA",
-          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
+          "name": "Martyna Baranowska",
+          "url": "https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b"
         }
       ],
-      "duration_ms": 281200,
-      "name": "Dotkni\u0119ta przez s\u0142o\u0144ce",
-      "url": "https://open.spotify.com/track/1UXLbKlNgAHbPvjGHDY639"
+      "duration_ms": 193500,
+      "name": "Serce",
+      "url": "https://open.spotify.com/track/1ox1cmqXrGCuakXoJFPR8v"
     },
     {
       "added_at": "2026-01-22 23:00:53",
@@ -847,6 +843,26 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
+        "name": "Dotkni\u0119ta przez s\u0142o\u0144ce",
+        "url": "https://open.spotify.com/album/6NhKBbD2p8ZxiYzYbcKwFE"
+      },
+      "artists": [
+        {
+          "name": "Kachus",
+          "url": "https://open.spotify.com/artist/3Ya5NT5vLex3mCIt2DTmkJ"
+        },
+        {
+          "name": "ZORZA",
+          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
+        }
+      ],
+      "duration_ms": 281200,
+      "name": "Dotkni\u0119ta przez s\u0142o\u0144ce",
+      "url": "https://open.spotify.com/track/1UXLbKlNgAHbPvjGHDY639"
+    },
+    {
+      "added_at": "2026-01-22 23:00:53",
+      "album": {
         "name": "Umiem kocha\u0107 Ci\u0119 tak ca\u0142kiem na powa\u017cnie",
         "url": "https://open.spotify.com/album/3hSt7QkmnsUPgl8zkr9Pom"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 161519,
       "name": "Za kulisami",
       "url": "https://open.spotify.com/track/1tlywl3igNTLsJGdZ1pTJf"
-    },
-    {
-      "added_at": "2026-01-22 23:00:53",
-      "album": {
-        "name": "Serce",
-        "url": "https://open.spotify.com/album/3glWhyUYAF0ofKNjHQLSRi"
-      },
-      "artists": [
-        {
-          "name": "Martyna Baranowska",
-          "url": "https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Serce",
-      "url": "https://open.spotify.com/track/1ox1cmqXrGCuakXoJFPR8v"
     },
     {
       "added_at": "2026-01-22 23:00:53",
@@ -895,6 +895,22 @@
       "duration_ms": 317013,
       "name": "Czerwiec",
       "url": "https://open.spotify.com/track/5DOmpafBNAJrBoZZHigYfX"
+    },
+    {
+      "added_at": "2026-01-22 23:00:53",
+      "album": {
+        "name": "Spok\u00f3j",
+        "url": "https://open.spotify.com/album/1D870fGc91HzECZ8Qkimnt"
+      },
+      "artists": [
+        {
+          "name": "Treehouse",
+          "url": "https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi"
+        }
+      ],
+      "duration_ms": 199149,
+      "name": "Spok\u00f3j",
+      "url": "https://open.spotify.com/track/6BTtrMQBtosUyr8b3IA4Sq"
     },
     {
       "added_at": "2026-01-22 23:00:53",
@@ -1019,6 +1035,22 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
+        "name": "Kwiaty",
+        "url": "https://open.spotify.com/album/2pMNIDatMHgxf3T5CdjiTB"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0142osz Skierski",
+          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
+        }
+      ],
+      "duration_ms": 168661,
+      "name": "Kwiaty",
+      "url": "https://open.spotify.com/track/17oIHzuMJopfkzLuvSHzSR"
+    },
+    {
+      "added_at": "2026-01-22 23:00:53",
+      "album": {
         "name": "Niby to wiem",
         "url": "https://open.spotify.com/album/5NGVIouWnsDoi0kWFwpjOg"
       },
@@ -1035,22 +1067,6 @@
       "duration_ms": 205375,
       "name": "Niby to wiem",
       "url": "https://open.spotify.com/track/1TGP53EWadwAcMCQDzUBL8"
-    },
-    {
-      "added_at": "2026-01-22 23:00:53",
-      "album": {
-        "name": "Kwiaty",
-        "url": "https://open.spotify.com/album/2pMNIDatMHgxf3T5CdjiTB"
-      },
-      "artists": [
-        {
-          "name": "Mi\u0142osz Skierski",
-          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
-        }
-      ],
-      "duration_ms": 168661,
-      "name": "Kwiaty",
-      "url": "https://open.spotify.com/track/17oIHzuMJopfkzLuvSHzSR"
     },
     {
       "added_at": "2026-01-22 23:00:53",
@@ -1095,8 +1111,24 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
-        "name": "Spok\u00f3j",
-        "url": "https://open.spotify.com/album/1D870fGc91HzECZ8Qkimnt"
+        "name": "Czy zapomnisz mnie?",
+        "url": "https://open.spotify.com/album/2K3NYCZU6qE3z0NMrdAMEQ"
+      },
+      "artists": [
+        {
+          "name": "Stan Zapalny",
+          "url": "https://open.spotify.com/artist/15BJ0ipMSdHELUOqJZ7Xmr"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "Czy zapomnisz mnie?",
+      "url": "https://open.spotify.com/track/0yPVmPz0kXh1exTZUxo2MK"
+    },
+    {
+      "added_at": "2026-01-22 23:00:53",
+      "album": {
+        "name": "zosta\u0144",
+        "url": "https://open.spotify.com/album/1aVf5Yed3eNAGJ0kRgao2J"
       },
       "artists": [
         {
@@ -1104,49 +1136,9 @@
           "url": "https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi"
         }
       ],
-      "duration_ms": 199149,
-      "name": "Spok\u00f3j",
-      "url": "https://open.spotify.com/track/6BTtrMQBtosUyr8b3IA4Sq"
-    },
-    {
-      "added_at": "2026-01-22 23:00:53",
-      "album": {
-        "name": "kto poda?",
-        "url": "https://open.spotify.com/album/09GIXfaNkq1C8osMq0JYFD"
-      },
-      "artists": [
-        {
-          "name": "nat cichocka",
-          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
-        },
-        {
-          "name": "papablessbeatz",
-          "url": "https://open.spotify.com/artist/162AzTq1o7CUVQP8Rn52pY"
-        }
-      ],
-      "duration_ms": 205384,
-      "name": "kto poda?",
-      "url": "https://open.spotify.com/track/2LBUBOvOf1RjiPhvFpg76J"
-    },
-    {
-      "added_at": "2026-01-22 23:00:53",
-      "album": {
-        "name": "Boisz si\u0119",
-        "url": "https://open.spotify.com/album/5O7WpfdyHWZiqzIVclkOwX"
-      },
-      "artists": [
-        {
-          "name": "Sad Smiles",
-          "url": "https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo"
-        },
-        {
-          "name": "Arek K\u0142usowski",
-          "url": "https://open.spotify.com/artist/34wHojIYy5Nrua9isD46O6"
-        }
-      ],
-      "duration_ms": 181052,
-      "name": "Boisz si\u0119",
-      "url": "https://open.spotify.com/track/5OPDVu8yGItlFz8BsVQkF4"
+      "duration_ms": 138094,
+      "name": "zosta\u0144",
+      "url": "https://open.spotify.com/track/2jQlVcDnyiMjmrQ7XrK70X"
     }
   ],
   "unique_name": "up next",

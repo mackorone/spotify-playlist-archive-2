@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover:Shintaro Sakamoto \(Japan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,330 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,369 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Numb](https://open.spotify.com/track/5kfgWXn6YD9ed6pPNsrcgY) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Yoo\-hoo](https://open.spotify.com/album/2ovdkF5kkDDWfjJgk9rHtu) | 5:24 |
 | 2 | [lost](https://open.spotify.com/track/7LKD6LKTziLqv8oXo6iv3e) | [aoni](https://open.spotify.com/artist/3AcR5cfA2SMdwm5v0FPvvn) | [Kuroi Echoes](https://open.spotify.com/album/6YQ5zvaQ8gsB076SoL9ZhS) | 2:55 |
 | 3 | [Hong Kong Siren](https://open.spotify.com/track/7IanxNunEPsThyG95SWvnW) | [GYMV](https://open.spotify.com/artist/5xOJz1R1Gcm16mg0V8iukc) | [Hong Kong Siren](https://open.spotify.com/album/0wfgQxfKBl167BJEcH2xP8) | 4:02 |
-| 4 | [Stay With It](https://open.spotify.com/track/3NehMjtApc0LxsOz5IIf5U) | [Good Luck Chuck](https://open.spotify.com/artist/6zgQqfZ8mYlQOhpsGjok96), [Perk Pietrek](https://open.spotify.com/artist/7gVaS1q03Q8Dliy2lDXLx3), [Direwulf](https://open.spotify.com/artist/77xnTyfSeDkHZ2tufyeAIP) | [Stay With It](https://open.spotify.com/album/69FoQwBqxFcOU7dkRnkksW) | 3:58 |
+| 4 | [Stay With It](https://open.spotify.com/track/3NehMjtApc0LxsOz5IIf5U) | [Good Luck Chuck](https://open.spotify.com/artist/6zgQqfZ8mYlQOhpsGjok96) | [Stay With It](https://open.spotify.com/album/69FoQwBqxFcOU7dkRnkksW) | 3:58 |
 | 5 | [BIG VOID](https://open.spotify.com/track/1TpkuGrFjVAooL2fbCJ0i8) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [BIG VOID](https://open.spotify.com/album/1C9Woc2ay1qbA316hZgwjL) | 3:41 |
 | 6 | [Eclipse](https://open.spotify.com/track/29J9ZL6bj20BOvJJsjrBE2) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Eclipse](https://open.spotify.com/album/3dMBBRvltr8Z1KBzQcJuQS) | 3:56 |
 | 7 | [IDK](https://open.spotify.com/track/6lICgc3vK1QkbcHv3mAJo8) | [DOOR PLANT](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [IDK](https://open.spotify.com/album/17Zgvhn2Vcxna3qcf8s5Ps) | 3:20 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 13 | [Tenggelam](https://open.spotify.com/track/1SZMxDGWDiKa9Jb5van3nA) | [Flowr Pit](https://open.spotify.com/artist/3FOqYio7C8ihO8MciypqLv) | [Super Possible](https://open.spotify.com/album/28y4KlQklqbpzWvjJtTmUU) | 4:02 |
 | 14 | [So Many Days](https://open.spotify.com/track/3thr1gl0sDyirwmjHU8vuO) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [Stay Awake](https://open.spotify.com/album/2N8xjA84dmuw4NZz6BADbB) | 4:20 |
 | 15 | [Maaf \(Pada Diriku\)](https://open.spotify.com/track/3t2e7Pf3UfZj5HwqVfjPgZ) | [Biru Baru](https://open.spotify.com/artist/2zuPyFAXSFyGQJrNk2iy6V) | [BIRU BARU](https://open.spotify.com/album/3F6ab0kzrpxTmUrfCkcehU) | 3:55 |
-| 16 | [Stay.](https://open.spotify.com/track/18c3HOwfP9I5N2NSbxVYBf) | [Beck](https://open.spotify.com/artist/43rF0ezbI0BApStNet2EWk) | [Stay.](https://open.spotify.com/album/3HUvptv1Vb4JubvBgY1nWF) | 2:47 |
+| 16 | [Stay.](https://open.spotify.com/track/18c3HOwfP9I5N2NSbxVYBf) | [Beck](https://open.spotify.com/artist/43rF0ezbI0BApStNet2EWk) | [Stay.](https://open.spotify.com/album/3HUvptv1Vb4JubvBgY1nWF) | 2:48 |
 | 17 | [止められないっ！](https://open.spotify.com/track/6MBvcLeY3cpOyrt5VeDgvP) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [止められないっ！](https://open.spotify.com/album/5dGO0J2kQ9sF9pyvqrTFzq) | 2:45 |
 | 18 | [Too comfortable](https://open.spotify.com/track/45M1P0zbhrCeHfAx6XK7im) | [GYOJUNG](https://open.spotify.com/artist/7dA33I3Wp5XmRXxMkWQ6YM) | [Failed reality](https://open.spotify.com/album/0v1VZ7pwQsdMRRUxqosILM) | 2:20 |
 | 19 | [Brahma](https://open.spotify.com/track/4mTlUVzVHicfuQ1GSCncZE) | [ngaiman 蟻民](https://open.spotify.com/artist/4b25p4ksXbbN1vpIp5cvgw) | [Psychedelic Eton Mess](https://open.spotify.com/album/07mR5U5IQvYxwOdeCEW25k) | 4:40 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Maudy Ayunda
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,969 likes - 123 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,041 likes - 123 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,7 +128,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 118 | [Makin Aku Cinta](https://open.spotify.com/track/5CtyREB80zdg676XLxgqEb) | [Glenn Samuel](https://open.spotify.com/artist/26ez0LOxJMgy1GkkXhZiCV), [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [GLENN](https://open.spotify.com/album/38JgbBDqJCfyUkuzBmzreB) | 4:28 |
 | 119 | [Sampai Jumpa](https://open.spotify.com/track/3CXqXWbNmGRTCXMOErn1HD) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Retrospektif](https://open.spotify.com/album/4q233Wt4IHRAjJzkjVhooL) | 4:13 |
 | 120 | [Mau Jadi Apa?](https://open.spotify.com/track/20Vgi9sX3rOnoUFGaPLQXX) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Mau Jadi Apa?](https://open.spotify.com/album/4J0OIjbX95tZ97392u8OeI) | 3:49 |
-| 121 | [Untungnya, Hidup Harus Tetap Berjalan \- Babak Penutup: Untungnya, untungnya \- Live](https://open.spotify.com/track/1zkyWDokMlZnyNANahOEIk) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Babak Penutup: Untungnya, Untungnya \(Live\)](https://open.spotify.com/album/3iDSNry5Y7yIuFGNqsdEod) | 3:41 |
+| 121 | [Untungnya, Hidup Harus Tetap Berjalan \- Babak Penutup: Untungnya, untungnya \- Live](https://open.spotify.com/track/1zkyWDokMlZnyNANahOEIk) | [Bernadya Ribka](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Babak Penutup: Untungnya, Untungnya \(Live\)](https://open.spotify.com/album/3iDSNry5Y7yIuFGNqsdEod) | 3:41 |
 | 122 | [Langitku Sendiri](https://open.spotify.com/track/5ZOD0ABSES4COP7WNVXKIT) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Lune](https://open.spotify.com/album/4FZP8ilZixYhGiF17JQaz9) | 4:29 |
 | 123 | [Hari Paling Spe\(sial\)](https://open.spotify.com/track/3BFw9sEMPNS7sF6TNoneR2) | [Barsena Bestandhi](https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i) | [Hari Paling Spe\(sial\)](https://open.spotify.com/album/0S5FhC43M9RkSVEkco5yny) | 4:43 |
 

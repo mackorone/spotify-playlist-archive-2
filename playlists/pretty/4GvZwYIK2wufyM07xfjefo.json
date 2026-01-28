@@ -6,8 +6,104 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAGMgzRkrm70ptKmW9Xa+bUS2HTvlJW",
+  "snapshot_id": "AAAGQfHPmIMEZKnXR4UWIiGHgo9OW2AT",
   "tracks": [
+    {
+      "added_at": "2026-01-27 08:06:48",
+      "album": {
+        "name": "Garakuta Archives Vol.1",
+        "url": "https://open.spotify.com/album/75h1EzGYdTjuRbCMTAe5wq"
+      },
+      "artists": [
+        {
+          "name": "No.D",
+          "url": "https://open.spotify.com/artist/66f1Bt9HrVpwNOPZvm2ysl"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "moon night (feat. \u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/45QT4yJFpsdFmY1Ids5ooF"
+    },
+    {
+      "added_at": "2026-01-27 08:07:04",
+      "album": {
+        "name": "\u7bb1\u5ead\u30d1\u30ec\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/4LNjzProXO8C8AKwSwLoQZ"
+      },
+      "artists": [
+        {
+          "name": "GYU P",
+          "url": "https://open.spotify.com/artist/7BNncSIn0Str7aLcmrv3HU"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 161818,
+      "name": "\u7bb1\u5ead\u30d1\u30ec\u30fc\u30c9 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/1x1lx8HXDMdekv49Qk12EQ"
+    },
+    {
+      "added_at": "2026-01-27 08:07:19",
+      "album": {
+        "name": "\u3053\u306e\u307e\u307e\u547d\u304c\u304a\u308f\u308b\u306a\u3089",
+        "url": "https://open.spotify.com/album/56n3EvKKzBpqkX9X75zjr9"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30b7\u30c9",
+          "url": "https://open.spotify.com/artist/7eg5X3kd4WuiLhPmufCNdI"
+        },
+        {
+          "name": "\u6b4c\u611b\u30e6\u30ad",
+          "url": "https://open.spotify.com/artist/5NB3uGRtuXv54usQyxe60r"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "\u3053\u306e\u307e\u307e\u547d\u304c\u304a\u308f\u308b\u306a\u3089 (feat. \u6b4c\u611b\u30e6\u30ad)",
+      "url": "https://open.spotify.com/track/61nCom6HUMjhAQx1oygttB"
+    },
+    {
+      "added_at": "2026-01-27 08:07:34",
+      "album": {
+        "name": "\u661f\u964d\u308b\u591c\u3092\u65c5\u3059\u308b\u5c11\u5973",
+        "url": "https://open.spotify.com/album/2v0TmhuXCvUqQgedXp6rDo"
+      },
+      "artists": [
+        {
+          "name": "D.S.L",
+          "url": "https://open.spotify.com/artist/0MO0zo8BlkKl3EDuazBlYt"
+        }
+      ],
+      "duration_ms": 265562,
+      "name": "\u661f\u964d\u308b\u591c\u3092\u65c5\u3059\u308b\u5c11\u5973",
+      "url": "https://open.spotify.com/track/0aONroQe05CjLBnMW4JISZ"
+    },
+    {
+      "added_at": "2026-01-27 08:07:45",
+      "album": {
+        "name": "Dazzling Star",
+        "url": "https://open.spotify.com/album/1Rbkl36mjDHYtz9JMQpE4v"
+      },
+      "artists": [
+        {
+          "name": "Amamori P",
+          "url": "https://open.spotify.com/artist/1tlY9pasYap8HnzVQrCe1B"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Bottle Ship (feat. Kagamine Rin)",
+      "url": "https://open.spotify.com/track/5xmJqSG6I7OXR6Db6rZTL0"
+    },
     {
       "added_at": "2026-01-20 08:06:28",
       "album": {
@@ -57,7 +153,7 @@
       "artists": [
         {
           "name": "Shani",
-          "url": "https://open.spotify.com/artist/2bK9wgxu8za6wDhz7QtWfQ"
+          "url": "https://open.spotify.com/artist/2ofuy6UInGLr6ERFR5GEF7"
         },
         {
           "name": "Hatsune Miku",
@@ -667,106 +763,6 @@
       "duration_ms": 252000,
       "name": "\u3055\u3088\u306a\u3089\u30d1\u30f3\u30c0 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/4M1jDqXOhu55MTKVl6Mf7i"
-    },
-    {
-      "added_at": "2025-10-28 08:20:57",
-      "album": {
-        "name": "\u5d29\u308c\u5f80\u304f\u8c8c",
-        "url": "https://open.spotify.com/album/4fUSu1a5EdbLdgIfyD4Z07"
-      },
-      "artists": [
-        {
-          "name": "\u3042\u5b50",
-          "url": "https://open.spotify.com/artist/0dRTohab8XeVhAB7Xb0mPK"
-        },
-        {
-          "name": "\u3050\u3061\u308a",
-          "url": "https://open.spotify.com/artist/7AhWr9uwljlOcqY6eiX7ww"
-        },
-        {
-          "name": "KAITO",
-          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
-        }
-      ],
-      "duration_ms": 175842,
-      "name": "\u5d29\u308c\u5f80\u304f\u8c8c (feat. KAITO)",
-      "url": "https://open.spotify.com/track/73B0ZMgsFLBed7lhxoXlLN"
-    },
-    {
-      "added_at": "2025-10-28 08:21:12",
-      "album": {
-        "name": "\u7a7a\u8272\u306b\u67d3\u3081\u308b\u8fc4\u3002",
-        "url": "https://open.spotify.com/album/2RaPOydzwxuc9Gn5GSx0IN"
-      },
-      "artists": [
-        {
-          "name": "Glue",
-          "url": "https://open.spotify.com/artist/4RYgfACpO30g7D88VWvk85"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 225950,
-      "name": "\u30aa\u30ec\u30f3\u30b8\u30a4\u30ec\u30a8\u30eb (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/3ICXiSUa1JJFIv9kKQGpnS"
-    },
-    {
-      "added_at": "2025-10-28 08:21:30",
-      "album": {
-        "name": "liner_liner",
-        "url": "https://open.spotify.com/album/59DCrfBF8QIxTzATWAiUFX"
-      },
-      "artists": [
-        {
-          "name": "note@L-tone",
-          "url": "https://open.spotify.com/artist/2BC8Ygeb8tJLxGzOUjMkdo"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "\u79cb\u98a8\u3001\u51ac\u306b\u5e30\u3059\u3002",
-      "url": "https://open.spotify.com/track/4ZlbjLoeYUqbHCVAGVqe2a"
-    },
-    {
-      "added_at": "2025-10-28 08:21:43",
-      "album": {
-        "name": "BEST OF DIVA3",
-        "url": "https://open.spotify.com/album/2cqKqaiCVqsFD0xiF3gyW4"
-      },
-      "artists": [
-        {
-          "name": "\u306d\u3058\u5f0f",
-          "url": "https://open.spotify.com/artist/2WMWyRVZHCzEv713ZSdjAT"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 286600,
-      "name": "\u565b\u3093\u3060\u3063\u3066\u3044\u3044\u3088 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/4WWmlD1Un4faOcmI38OXAN"
-    },
-    {
-      "added_at": "2025-10-28 08:21:59",
-      "album": {
-        "name": "prototype",
-        "url": "https://open.spotify.com/album/7nmU6rpBWa56ym4G3nrPZh"
-      },
-      "artists": [
-        {
-          "name": "\u30e9\u30a4\u30af\u30a2",
-          "url": "https://open.spotify.com/artist/1IPsi5qSsqd9edA8u35S9Z"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 68571,
-      "name": "\u7070\u96ea\u3068\u30b7\u30f3\u30c7\u30ec\u30e9 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/5333tdsHwDo4cuBBxROO0S"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",

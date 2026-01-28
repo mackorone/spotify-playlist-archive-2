@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > roots run deep with Kashus Culpepper
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,263 likes - 185 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,224 likes - 185 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

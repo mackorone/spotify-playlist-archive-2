@@ -4232,16 +4232,12 @@
         {
           "name": "Marr\u00f3n",
           "url": "https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5"
-        },
-        {
-          "name": "The Acapulco Express",
-          "url": "https://open.spotify.com/artist/398DySP5d4MCX9UJFkng6N"
         }
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
-      "duration_ms": 255860,
+      "date_removed": null,
+      "duration_ms": 257002,
       "name": "Reencontrarnos",
       "url": "https://open.spotify.com/track/7kqw8vYKO1ApxwpQXaivRy"
     },
@@ -4914,7 +4910,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 242000,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/1f6HNRgWZQL1wz99z1GWCy"

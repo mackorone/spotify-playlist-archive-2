@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2g4BXAxk7ikowminzP82SC.md) - [plain]
 
 > 
 
-[VALORANT](https://open.spotify.com/user/y1l6o99xay9vxht58lt0mpnho) - 30,195 likes - 24 songs - 1 hr 17 min
+[VALORANT](https://open.spotify.com/user/y1l6o99xay9vxht58lt0mpnho) - 30,190 likes - 24 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

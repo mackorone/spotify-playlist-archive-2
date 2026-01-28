@@ -257,6 +257,42 @@
     },
     {
       "album": {
+        "name": "Amarythiel",
+        "url": "https://open.spotify.com/album/4FKrwAUZJXa1wRmfsdydGz"
+      },
+      "artists": [
+        {
+          "name": "Alma Tranquilo",
+          "url": "https://open.spotify.com/artist/7yUPH32eGSMdpgc2hi4pHo"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "Amarythiel",
+      "url": "https://open.spotify.com/track/1GpHvXgzDNlRiTemnjFPeK"
+    },
+    {
+      "album": {
+        "name": "Amber Haze",
+        "url": "https://open.spotify.com/album/47zP4Pzcn8wv6nnXOZV8KU"
+      },
+      "artists": [
+        {
+          "name": "Nimara",
+          "url": "https://open.spotify.com/artist/7CXl2o7bsSWCVfw670J1TZ"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "Amber Haze",
+      "url": "https://open.spotify.com/track/3XIkkoJULNq8FmURxOhDpU"
+    },
+    {
+      "album": {
         "name": "Amethyst",
         "url": "https://open.spotify.com/album/4UQuwrnHta01hf9yg4mouy"
       },
@@ -308,6 +344,24 @@
       "duration_ms": 227608,
       "name": "Ancient Writers",
       "url": "https://open.spotify.com/track/1KoNWHvuEL30AGYooTewa3"
+    },
+    {
+      "album": {
+        "name": "Anechoic",
+        "url": "https://open.spotify.com/album/6QM3d861qJquRheT1flU2o"
+      },
+      "artists": [
+        {
+          "name": "Stillgarden",
+          "url": "https://open.spotify.com/artist/6NKUqC8TcyhtHenPgTRTvt"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176213,
+      "name": "Anechoic",
+      "url": "https://open.spotify.com/track/2KA8vxzX8AtYbXD1wcgsnv"
     },
     {
       "album": {
@@ -1197,6 +1251,28 @@
     },
     {
       "album": {
+        "name": "Dusklight",
+        "url": "https://open.spotify.com/album/52lnDu5VPNBN0wVnWvnR7g"
+      },
+      "artists": [
+        {
+          "name": "Seventh Sojourn",
+          "url": "https://open.spotify.com/artist/2OMyc21Mxe5nKy82tbaE0D"
+        },
+        {
+          "name": "Between Pages",
+          "url": "https://open.spotify.com/artist/5cfEtlt3DAdiHabSH75X7l"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "Dusklight",
+      "url": "https://open.spotify.com/track/5OcQLUocjqO4QI4hSILGc1"
+    },
+    {
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/5n9X5YEKK4Z6zWdra8RWmj"
       },
@@ -1536,6 +1612,24 @@
       "duration_ms": 160078,
       "name": "Evanescent",
       "url": "https://open.spotify.com/track/0bfnzSiA5zQA4TccKZX8Ri"
+    },
+    {
+      "album": {
+        "name": "Evening Breeze",
+        "url": "https://open.spotify.com/album/5C3MlgXyxB4qXxORIefdhx"
+      },
+      "artists": [
+        {
+          "name": "Fourth Eye",
+          "url": "https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143500,
+      "name": "Evening Breeze",
+      "url": "https://open.spotify.com/track/6RrR0hcDMaexOPIpLG128s"
     },
     {
       "album": {
@@ -1935,6 +2029,42 @@
     },
     {
       "album": {
+        "name": "Gradient",
+        "url": "https://open.spotify.com/album/06KUFZxCRdkEmceKHDFKMC"
+      },
+      "artists": [
+        {
+          "name": "Lunabae",
+          "url": "https://open.spotify.com/artist/7yYEiQ59ecj1ZaKyse42Tc"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154349,
+      "name": "Gradient",
+      "url": "https://open.spotify.com/track/1XAH1s20v2hBj8H6tJQ42p"
+    },
+    {
+      "album": {
+        "name": "Grain of Dawn",
+        "url": "https://open.spotify.com/album/0kVWyYgfD1Sv1JGl3ToWCh"
+      },
+      "artists": [
+        {
+          "name": "Sol Sagewood",
+          "url": "https://open.spotify.com/artist/1kNDHlOteyieJuK7EBqsce"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Grain of Dawn",
+      "url": "https://open.spotify.com/track/1ecEUvdmN8tS0EfmutKM1c"
+    },
+    {
+      "album": {
         "name": "Grounding",
         "url": "https://open.spotify.com/album/5Do97UOdHnE2zG1IGsesZ6"
       },
@@ -1968,6 +2098,42 @@
       "duration_ms": 158000,
       "name": "Haga",
       "url": "https://open.spotify.com/track/3cn0l0j6gErAtcLxDy6H2u"
+    },
+    {
+      "album": {
+        "name": "Hjartans",
+        "url": "https://open.spotify.com/album/64CrNkUbmZOQHYM6omPvz2"
+      },
+      "artists": [
+        {
+          "name": "Arnkatla",
+          "url": "https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Hjartans",
+      "url": "https://open.spotify.com/track/1KNKlkvY3OyQ4V7GUsPmt5"
+    },
+    {
+      "album": {
+        "name": "Hollow Sky",
+        "url": "https://open.spotify.com/album/2F9Owc9cJGQsPlF4ZUmiKX"
+      },
+      "artists": [
+        {
+          "name": "Avanora",
+          "url": "https://open.spotify.com/artist/5KOsgFRcxt2YFFmDqtKUs8"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139459,
+      "name": "Hollow Sky",
+      "url": "https://open.spotify.com/track/7zyRxRL8FfFOkDfPYmPNC9"
     },
     {
       "album": {
@@ -2040,6 +2206,24 @@
       "duration_ms": 166000,
       "name": "In Ether",
       "url": "https://open.spotify.com/track/08JyiystzBP00f3boEYPKS"
+    },
+    {
+      "album": {
+        "name": "In The Balance",
+        "url": "https://open.spotify.com/album/22ubXYUmRV5uO5XiP4CWdz"
+      },
+      "artists": [
+        {
+          "name": "Naara Constellation",
+          "url": "https://open.spotify.com/artist/2hBWR8hVlBRuM7Zuoe3vKM"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "In The Balance",
+      "url": "https://open.spotify.com/track/3wTgvHbkd0JR8zJgNayjLw"
     },
     {
       "album": {
@@ -2691,6 +2875,42 @@
     },
     {
       "album": {
+        "name": "Nautica",
+        "url": "https://open.spotify.com/album/044563qAgzVJj4SDJ8pHqv"
+      },
+      "artists": [
+        {
+          "name": "Rombos Aran",
+          "url": "https://open.spotify.com/artist/5urp8Oh8Gq6I7H53TgRjpi"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Nautica",
+      "url": "https://open.spotify.com/track/0s7hEeVUom8sXW4tbexSUy"
+    },
+    {
+      "album": {
+        "name": "New pathways",
+        "url": "https://open.spotify.com/album/0brXpfWDDbJPmTTUiFI8ao"
+      },
+      "artists": [
+        {
+          "name": "Escape Velocity",
+          "url": "https://open.spotify.com/artist/2tb72keD7ZfOudHYldg84Z"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166387,
+      "name": "New pathways",
+      "url": "https://open.spotify.com/track/7zumRMNxiOKZfWfFQAGvKv"
+    },
+    {
+      "album": {
         "name": "No Gravity",
         "url": "https://open.spotify.com/album/1d9biZOVOqDQlvVo2Vdiv7"
       },
@@ -2709,6 +2929,24 @@
     },
     {
       "album": {
+        "name": "Noble Kind",
+        "url": "https://open.spotify.com/album/08xVN1ULK0i0bEOTe6hEm3"
+      },
+      "artists": [
+        {
+          "name": "Lysavine",
+          "url": "https://open.spotify.com/artist/48AAVUnh1OYjvq6f0fLjNA"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Noble Kind",
+      "url": "https://open.spotify.com/track/68QvCn8K2dVOceJblOU6Xq"
+    },
+    {
+      "album": {
         "name": "Novela",
         "url": "https://open.spotify.com/album/45XWRStH7Eg4CJc8GZQgNS"
       },
@@ -2724,6 +2962,24 @@
       "duration_ms": 234400,
       "name": "Novela",
       "url": "https://open.spotify.com/track/5niLpTfr4mjTpRZZReAuSZ"
+    },
+    {
+      "album": {
+        "name": "Novus",
+        "url": "https://open.spotify.com/album/0Cx73bfoegR1ORH59c64mK"
+      },
+      "artists": [
+        {
+          "name": "Dreamstate",
+          "url": "https://open.spotify.com/artist/3gktbUXJVICbJRhF90GeN3"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Novus",
+      "url": "https://open.spotify.com/track/5eKXkzUFx8lmOYehKv8K9J"
     },
     {
       "album": {
@@ -2904,6 +3160,24 @@
       "duration_ms": 160000,
       "name": "Penumbral",
       "url": "https://open.spotify.com/track/2uKqjLDJLqjmKAL477zq3h"
+    },
+    {
+      "album": {
+        "name": "Phantasie Cosmique",
+        "url": "https://open.spotify.com/album/5zc3CVuKn8dJiXOOUOcGrg"
+      },
+      "artists": [
+        {
+          "name": "Deep Enormo",
+          "url": "https://open.spotify.com/artist/5WPDgFz2Kcisbx0Esczaf5"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160633,
+      "name": "Phantasie Cosmique",
+      "url": "https://open.spotify.com/track/5Sa3IhZS4KYwWCCW20VRcJ"
     },
     {
       "album": {

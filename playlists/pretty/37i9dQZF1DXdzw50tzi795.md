@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 
 > พลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: ASIA7, ปลาย กนกพร
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,954 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,069 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

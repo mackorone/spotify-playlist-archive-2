@@ -6,7 +6,7 @@
     "name": "Chris",
     "url": "https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg"
   },
-  "snapshot_id": "AAAj08whuhb5B5JEYwUULFAWkjg/6b33",
+  "snapshot_id": "AAAj1DANHZ94rmfCDwQKcoyS6VgR6bA6",
   "tracks": [
     {
       "added_at": "2021-03-29 15:46:58",
@@ -839,6 +839,22 @@
       "duration_ms": 197946,
       "name": "A Blast From The Past",
       "url": "https://open.spotify.com/track/3eDJVt2Rlhns5HIwBE8iLu"
+    },
+    {
+      "added_at": "2026-01-27 08:32:32",
+      "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/6ZMr3nj1g6MKbNmexo4KcB"
+      },
+      "artists": [
+        {
+          "name": "Monkey The Dog",
+          "url": "https://open.spotify.com/artist/1la7SQE26l6ZhwpOLx5QiC"
+        }
+      ],
+      "duration_ms": 197796,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/4UM6wTL92CDDHpN3dzaVBu"
     }
   ],
   "unique_name": "Alternative Pop Archive",

@@ -1,12 +1,12 @@
 {
   "description": "This is Sly & The Family Stone. The essential tracks, all in one playlist.",
-  "num_followers": 30101,
+  "num_followers": 30110,
   "original_name": "This Is Sly & The Family Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXVdAAAAAAAAVpde8Ma60w4CIJbeJRam",
+  "snapshot_id": "aXaugAAAAABK57wRomJCfNTeHVVTdG/z",
   "tracks": [
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 115733,
-      "name": "Turn Me Loose",
-      "url": "https://open.spotify.com/track/5min27LLty1G9R270gS0p4"
+      "duration_ms": 140773,
+      "name": "Advice",
+      "url": "https://open.spotify.com/track/5bwmCTaOgGZ24HSlBksFWc"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 140773,
-      "name": "Advice",
-      "url": "https://open.spotify.com/track/5bwmCTaOgGZ24HSlBksFWc"
+      "duration_ms": 115733,
+      "name": "Turn Me Loose",
+      "url": "https://open.spotify.com/track/5min27LLty1G9R270gS0p4"
     },
     {
       "added_at": null,

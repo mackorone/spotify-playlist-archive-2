@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of indie, dreampop and lofi vibes. Updated every week, save your favorites \ud83d\udc9c",
-  "num_followers": 59634,
+  "num_followers": 59636,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAAtJdeQtveJ4F3l5HenKKCtvG6Tyhbj",
+  "snapshot_id": "AAAtNb9fZRYoHCtoxhd426AHcdkw9oAV",
   "tracks": [
     {
       "added_at": "2026-01-25 04:13:07",
@@ -523,6 +523,22 @@
     {
       "added_at": "2026-01-25 04:13:07",
       "album": {
+        "name": "Middle Child",
+        "url": "https://open.spotify.com/album/2hs6fSeVsAmyIZ85omiv6J"
+      },
+      "artists": [
+        {
+          "name": "Qozy",
+          "url": "https://open.spotify.com/artist/3LGjZxZ3jr5Cx9M4oj66Mh"
+        }
+      ],
+      "duration_ms": 155825,
+      "name": "Middle Child",
+      "url": "https://open.spotify.com/track/6jBaQrw30BwBiQltRNS5tN"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
         "name": "God in the Middle",
         "url": "https://open.spotify.com/album/2mS0mtmCeaL4anmimEFJiA"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 220677,
       "name": "Mid-October",
       "url": "https://open.spotify.com/track/1sbZzhMpAkFLGdZOAgwVQk"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
-        "name": "Middle Child",
-        "url": "https://open.spotify.com/album/2hs6fSeVsAmyIZ85omiv6J"
-      },
-      "artists": [
-        {
-          "name": "Qozy",
-          "url": "https://open.spotify.com/artist/3LGjZxZ3jr5Cx9M4oj66Mh"
-        }
-      ],
-      "duration_ms": 155825,
-      "name": "Middle Child",
-      "url": "https://open.spotify.com/track/6jBaQrw30BwBiQltRNS5tN"
     },
     {
       "added_at": "2026-01-25 04:13:07",
@@ -951,6 +951,22 @@
       "duration_ms": 140679,
       "name": "Wade",
       "url": "https://open.spotify.com/track/6dCLXCB2WT1arqjPs9To4a"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
+        "name": "Routine",
+        "url": "https://open.spotify.com/album/5ZdwN5zP6JCkCkTEgNAnWl"
+      },
+      "artists": [
+        {
+          "name": "Claire Ozmun",
+          "url": "https://open.spotify.com/artist/0UYdFXykT1UQhg86dyrOHk"
+        }
+      ],
+      "duration_ms": 227758,
+      "name": "Routine",
+      "url": "https://open.spotify.com/track/41fpiElVTkOxUWp7lytQTK"
     },
     {
       "added_at": "2026-01-25 04:13:07",
@@ -1615,6 +1631,22 @@
     {
       "added_at": "2026-01-25 04:13:07",
       "album": {
+        "name": "Leather",
+        "url": "https://open.spotify.com/album/00gQ9cNX2gDaQ0kuxqyFZL"
+      },
+      "artists": [
+        {
+          "name": "Rome Evers",
+          "url": "https://open.spotify.com/artist/0NtWidoACahnrYWC5SBXZS"
+        }
+      ],
+      "duration_ms": 172975,
+      "name": "Leather",
+      "url": "https://open.spotify.com/track/4PCvXnBO7xA7aQl0SJIpoy"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
         "name": "man oh man !",
         "url": "https://open.spotify.com/album/3ceQB5KZjY2EI7F2b9h1pQ"
       },
@@ -1711,6 +1743,22 @@
       "duration_ms": 180840,
       "name": "Marathon",
       "url": "https://open.spotify.com/track/3Ih1zVBSI4mRngFw3xI4Qi"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
+        "name": "Pleasure Drives",
+        "url": "https://open.spotify.com/album/1U7RsvrXFCFncmpL84RvFi"
+      },
+      "artists": [
+        {
+          "name": "Tim Carr",
+          "url": "https://open.spotify.com/artist/67cH5nZMWo6kEHH2EGtrfa"
+        }
+      ],
+      "duration_ms": 245781,
+      "name": "Looking at Houses",
+      "url": "https://open.spotify.com/track/3xcLSGRBIfEOy301fQWTEo"
     },
     {
       "added_at": "2026-01-25 04:13:07",
@@ -2387,22 +2435,6 @@
       "duration_ms": 228756,
       "name": "Catch",
       "url": "https://open.spotify.com/track/5hMqIrs5HtIey8YeNB4unQ"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
-        "name": "Routine",
-        "url": "https://open.spotify.com/album/5ZdwN5zP6JCkCkTEgNAnWl"
-      },
-      "artists": [
-        {
-          "name": "Claire Ozmun",
-          "url": "https://open.spotify.com/artist/0UYdFXykT1UQhg86dyrOHk"
-        }
-      ],
-      "duration_ms": 227758,
-      "name": "Routine",
-      "url": "https://open.spotify.com/track/41fpiElVTkOxUWp7lytQTK"
     },
     {
       "added_at": "2026-01-25 04:13:07",
@@ -3579,22 +3611,6 @@
     {
       "added_at": "2026-01-25 04:13:07",
       "album": {
-        "name": "Never Guess",
-        "url": "https://open.spotify.com/album/2skoFrx8RCASVHka4pJPDb"
-      },
-      "artists": [
-        {
-          "name": "MONT LOSER",
-          "url": "https://open.spotify.com/artist/6XEe8U9ScsdFEYG0EvM9cA"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "Never Guess",
-      "url": "https://open.spotify.com/track/1NKUODqRcokguJTtOuI3tk"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
         "name": "IDFK",
         "url": "https://open.spotify.com/album/5hIsB40rJgWX7D4p8STlgH"
       },
@@ -3607,6 +3623,70 @@
       "duration_ms": 268146,
       "name": "New Day",
       "url": "https://open.spotify.com/track/6NKlOoRxoQeU8Hc2a0cjDy"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/73oXwYKn7SWXBHCsDlQyLc"
+      },
+      "artists": [
+        {
+          "name": "Emily Hines",
+          "url": "https://open.spotify.com/artist/2ickW99aviSnUfDMsxpIOX"
+        }
+      ],
+      "duration_ms": 296200,
+      "name": "All Of Our Friends",
+      "url": "https://open.spotify.com/track/7LDPJapt5Y0ugPR9ysUHw2"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
+        "name": "Blue Lagoon",
+        "url": "https://open.spotify.com/album/7FiwcveyjTrUFk4chU2aFf"
+      },
+      "artists": [
+        {
+          "name": "PAWWS",
+          "url": "https://open.spotify.com/artist/7oTof0LWYf6S0mGq8K02CT"
+        }
+      ],
+      "duration_ms": 177025,
+      "name": "Blue Lagoon",
+      "url": "https://open.spotify.com/track/3t5nTLIDZqxsNi1wAeLvFy"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
+        "name": "Free Energy",
+        "url": "https://open.spotify.com/album/65xYYnCJh3cuM2OWFlKrN3"
+      },
+      "artists": [
+        {
+          "name": "Dummy",
+          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
+        }
+      ],
+      "duration_ms": 230826,
+      "name": "Nine Clean Nails",
+      "url": "https://open.spotify.com/track/2TxrxTDFNzWR0wTs1auyaz"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
+        "name": "Skate Story: Vol. I",
+        "url": "https://open.spotify.com/album/3T3hC14iSrsNd3fd5UD3wH"
+      },
+      "artists": [
+        {
+          "name": "Blood Cultures",
+          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
+        }
+      ],
+      "duration_ms": 322093,
+      "name": "Overlord",
+      "url": "https://open.spotify.com/track/38wI1s6U6jKTO58OZMXN02"
     },
     {
       "added_at": "2026-01-25 04:13:07",
@@ -3707,6 +3787,22 @@
       "duration_ms": 138706,
       "name": "L.U.C.K.Y",
       "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
+        "name": "Ethereal",
+        "url": "https://open.spotify.com/album/0OxXwTZP8FOrjMUC84WGAi"
+      },
+      "artists": [
+        {
+          "name": "D'Leesa",
+          "url": "https://open.spotify.com/artist/0G1rpAGzZYHuIf8X0VFF2a"
+        }
+      ],
+      "duration_ms": 273459,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/5K7QHksNklW7E5PBfUuklq"
     },
     {
       "added_at": "2026-01-25 04:13:07",
@@ -5103,22 +5199,6 @@
     {
       "added_at": "2026-01-25 04:13:07",
       "album": {
-        "name": "Cane Trash",
-        "url": "https://open.spotify.com/album/6bTrWBNNL578hbaFN9Ugkm"
-      },
-      "artists": [
-        {
-          "name": "People Mover",
-          "url": "https://open.spotify.com/artist/3nZaIiVE8u0temaos0b6Ki"
-        }
-      ],
-      "duration_ms": 251453,
-      "name": "Been a While",
-      "url": "https://open.spotify.com/track/09NrI2Vaglhq4UizZtSzYT"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
         "name": "Telephoning from Safari",
         "url": "https://open.spotify.com/album/3ZuSJqiZI3trIcISJxm0iY"
       },
@@ -5131,38 +5211,6 @@
       "duration_ms": 203285,
       "name": "Telephoning from Safari",
       "url": "https://open.spotify.com/track/6bZkrUb3kNQG5XCCcWZOt5"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
-        "name": "Pleasure Drives",
-        "url": "https://open.spotify.com/album/1U7RsvrXFCFncmpL84RvFi"
-      },
-      "artists": [
-        {
-          "name": "Tim Carr",
-          "url": "https://open.spotify.com/artist/67cH5nZMWo6kEHH2EGtrfa"
-        }
-      ],
-      "duration_ms": 245781,
-      "name": "Looking at Houses",
-      "url": "https://open.spotify.com/track/3xcLSGRBIfEOy301fQWTEo"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
-        "name": "Leather",
-        "url": "https://open.spotify.com/album/00gQ9cNX2gDaQ0kuxqyFZL"
-      },
-      "artists": [
-        {
-          "name": "Rome Evers",
-          "url": "https://open.spotify.com/artist/0NtWidoACahnrYWC5SBXZS"
-        }
-      ],
-      "duration_ms": 172975,
-      "name": "Leather",
-      "url": "https://open.spotify.com/track/4PCvXnBO7xA7aQl0SJIpoy"
     },
     {
       "added_at": "2026-01-25 04:13:07",
@@ -5439,82 +5487,34 @@
     {
       "added_at": "2026-01-25 04:13:07",
       "album": {
-        "name": "Ethereal",
-        "url": "https://open.spotify.com/album/0OxXwTZP8FOrjMUC84WGAi"
+        "name": "Cane Trash",
+        "url": "https://open.spotify.com/album/6bTrWBNNL578hbaFN9Ugkm"
       },
       "artists": [
         {
-          "name": "D'Leesa",
-          "url": "https://open.spotify.com/artist/0G1rpAGzZYHuIf8X0VFF2a"
+          "name": "People Mover",
+          "url": "https://open.spotify.com/artist/3nZaIiVE8u0temaos0b6Ki"
         }
       ],
-      "duration_ms": 273459,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/5K7QHksNklW7E5PBfUuklq"
+      "duration_ms": 251453,
+      "name": "Been a While",
+      "url": "https://open.spotify.com/track/09NrI2Vaglhq4UizZtSzYT"
     },
     {
       "added_at": "2026-01-25 04:13:07",
       "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/73oXwYKn7SWXBHCsDlQyLc"
+        "name": "Never Guess",
+        "url": "https://open.spotify.com/album/2skoFrx8RCASVHka4pJPDb"
       },
       "artists": [
         {
-          "name": "Emily Hines",
-          "url": "https://open.spotify.com/artist/2ickW99aviSnUfDMsxpIOX"
+          "name": "MONT LOSER",
+          "url": "https://open.spotify.com/artist/6XEe8U9ScsdFEYG0EvM9cA"
         }
       ],
-      "duration_ms": 296200,
-      "name": "All Of Our Friends",
-      "url": "https://open.spotify.com/track/7LDPJapt5Y0ugPR9ysUHw2"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
-        "name": "Blue Lagoon",
-        "url": "https://open.spotify.com/album/7FiwcveyjTrUFk4chU2aFf"
-      },
-      "artists": [
-        {
-          "name": "PAWWS",
-          "url": "https://open.spotify.com/artist/7oTof0LWYf6S0mGq8K02CT"
-        }
-      ],
-      "duration_ms": 177025,
-      "name": "Blue Lagoon",
-      "url": "https://open.spotify.com/track/3t5nTLIDZqxsNi1wAeLvFy"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
-        "name": "Free Energy",
-        "url": "https://open.spotify.com/album/65xYYnCJh3cuM2OWFlKrN3"
-      },
-      "artists": [
-        {
-          "name": "Dummy",
-          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
-        }
-      ],
-      "duration_ms": 230826,
-      "name": "Nine Clean Nails",
-      "url": "https://open.spotify.com/track/2TxrxTDFNzWR0wTs1auyaz"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
-        "name": "Skate Story: Vol. I",
-        "url": "https://open.spotify.com/album/3T3hC14iSrsNd3fd5UD3wH"
-      },
-      "artists": [
-        {
-          "name": "Blood Cultures",
-          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
-        }
-      ],
-      "duration_ms": 322093,
-      "name": "Overlord",
-      "url": "https://open.spotify.com/track/38wI1s6U6jKTO58OZMXN02"
+      "duration_ms": 211573,
+      "name": "Never Guess",
+      "url": "https://open.spotify.com/track/1NKUODqRcokguJTtOuI3tk"
     },
     {
       "added_at": "2026-01-25 04:13:07",

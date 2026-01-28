@@ -271,6 +271,32 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 01 (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/1YvIPbEswjzNJcTBD1S5EA"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30da\u30b7\u30e3\u30eb\u30a6\u30a3\u30fc\u30af (CV. \u548c\u6c23\u3042\u305a\u672a)",
+          "url": "https://open.spotify.com/artist/7pjDXnwr8n3sxNCJbSQ5f2"
+        },
+        {
+          "name": "\u30b5\u30a4\u30ec\u30f3\u30b9\u30b9\u30ba\u30ab (CV. \u9ad8\u91ce\u9ebb\u91cc\u4f73)",
+          "url": "https://open.spotify.com/artist/4pYvIklxg2YALG0A8MLUXD"
+        },
+        {
+          "name": "\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc (CV. Machico)",
+          "url": "https://open.spotify.com/artist/4iZfTlw1wAe7i8If4Bku1O"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247426,
+      "name": "Fanfare for Future! - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/7h0V3fJKjrIbmKQmKErnfx"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fANIMATION DERBY 03 Special Record!/Find My Only Way (2021 Remastered Version)",
         "url": "https://open.spotify.com/album/7qZYX02Gz8iJwQp2wRC6WK"
       },
@@ -1120,7 +1146,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-29",
+      "date_removed": null,
       "duration_ms": 277613,
       "name": "U.M.A. NEW WORLD!!",
       "url": "https://open.spotify.com/track/4U3PW92efRw3m4v5dUeLiy"
@@ -1362,7 +1388,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 241226,
       "name": "winning the soul",
       "url": "https://open.spotify.com/track/50dvGK4H1d20wa6dm96MCz"
@@ -2762,7 +2788,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 211880,
       "name": "\u8d70\u308c\u30a6\u30de\u5a18",
       "url": "https://open.spotify.com/track/56i47wuMuHeiwwtcNvoMVL"

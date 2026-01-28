@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: ALEXSUCKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,149 likes - 107 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,204 likes - 107 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

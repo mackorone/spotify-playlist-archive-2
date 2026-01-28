@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Tiga & Boys Noize
 
-940 songs - 2 day 2 hr 47 min
+941 songs - 2 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,8 +500,9 @@
 | [Lockdown](https://open.spotify.com/track/6EdnmlpuR9O7ZpUwonIih4) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Lockdown](https://open.spotify.com/album/6C2ezhjaFoS7V1GdHD3gbK) | 3:05 | 2023-11-17 | 2024-04-06 |
 | [Look In My Eyes](https://open.spotify.com/track/5pRZVUGi1Z9QteqfEAFNw0) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Look In My Eyes](https://open.spotify.com/album/2u1wqzI86mTpqylQPJ3iHm) | 3:25 | 2022-08-19 | 2022-10-29 |
 | [Looking For Something](https://open.spotify.com/track/7MpDsggmJaTIUGtQmoFizN) | [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Looking For Something EP](https://open.spotify.com/album/7if5jDOZzdfL6LLrl95xG0) | 3:26 | 2022-10-14 | 2023-01-06 |
+| [Loose Pt\. 3](https://open.spotify.com/track/2Hg1IXJ36JXi40dmTqJ5T4) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Loose Pt\. 3](https://open.spotify.com/album/21BkFek37rkAQcrALu8uk2) | 2:49 | 2026-01-26 |  |
 | [Lose Control](https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Lose Control](https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE) | 2:53 | 2023-05-12 | 2025-07-19 |
-| [Lose Control](https://open.spotify.com/track/52LWiiRlohdA6DQ0PvIwgX) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Lose Control](https://open.spotify.com/album/1JbGw9go12vT4vLUjQTnBm) | 2:56 | 2025-09-19 |  |
+| [Lose Control](https://open.spotify.com/track/52LWiiRlohdA6DQ0PvIwgX) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Lose Control](https://open.spotify.com/album/1JbGw9go12vT4vLUjQTnBm) | 2:56 | 2025-09-19 | 2026-01-28 |
 | [Lose My Mind](https://open.spotify.com/track/0b1Hl2o1a1Z2ScSvImmVDE) | [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m), [Strobez](https://open.spotify.com/artist/1af1aCeFBW4yyWUbGAC6mO) | [Lose My Mind](https://open.spotify.com/album/0RZWXjXZDItdGJkTGgc7OE) | 2:44 | 2025-08-29 | 2025-11-13 |
 | [Losing](https://open.spotify.com/track/5fXAhP6h0oEd4vkQ93c0hi) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [Losing](https://open.spotify.com/album/0DBKauq7473ZXa49DN6Mad) | 2:41 | 2022-12-09 | 2023-04-28 |
 | [Losing Control](https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy) | [Losing Control](https://open.spotify.com/album/3eKGADmjALWfFIXHDak5DB) | 2:45 | 2023-09-22 | 2025-04-05 |

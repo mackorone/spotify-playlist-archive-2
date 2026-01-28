@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto:  Criolo, Amaro Freitas, Dino d'Santiago
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,425 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,411 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 4 | [Farol Pra Cego \(TypeDalsa\)](https://open.spotify.com/track/0LNxZ3OnR5FlKdrIbVSihd) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Gioprod](https://open.spotify.com/artist/7wSJDGjIeffNmJg8pge4fH) | [Farol Pra Cego \(TypeDalsa\)](https://open.spotify.com/album/7tD8gFXuz0nI0II6EhFEEK) | 3:01 |
 | 5 | [ISSO AQUI É BRASIL](https://open.spotify.com/track/02peqoxG8Z0Avbn6l5mzSf) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0) | [ISSO AQUI É BRASIL](https://open.spotify.com/album/59OA3HDl9xSnvRbjeaACLz) | 2:18 |
 | 6 | [Oq que Tem](https://open.spotify.com/track/0FuppAU9LmGvKPxMh25Dhi) | [Mascotin](https://open.spotify.com/artist/7gL4bnl9hW3yzHmvDzKEj8), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [ESSA PRR É MASCOTIN](https://open.spotify.com/album/0BfF1E3Zrqa84v8u1tnlQz) | 3:16 |
-| 7 | [Se Eu Não Te Cantar \(Ao Vivo no Sonastério\)](https://open.spotify.com/track/3YguWw2cywMfmxqIxqw6NE) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [FBC ilumina Sonastério \(Ao Vivo\)](https://open.spotify.com/album/0aZFk9qj9KoNQb4EQfPEpy) | 3:43 |
+| 7 | [Se Eu Não Te Cantar \(Ao Vivo no Sonastério\)](https://open.spotify.com/track/3YguWw2cywMfmxqIxqw6NE) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [FBC ilumina Sonastério](https://open.spotify.com/album/0aZFk9qj9KoNQb4EQfPEpy) | 3:43 |
 | 8 | [Bandida chata](https://open.spotify.com/track/5JcEzg4pdWcr76G0MXTqeY) | [Ana Rima](https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk), [VITOR VRIL](https://open.spotify.com/artist/1r4Ur6C9ZTPQQQXrgY1BM8) | [bandida chata \(original\)](https://open.spotify.com/album/1WiJNCtZ8MVQ2Bh7gZztEq) | 3:20 |
 | 9 | [SOM DO ANO](https://open.spotify.com/track/23sb8Y3huuGBQCmNUzcl70) | [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT), [FRESH](https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh), [GNÃO](https://open.spotify.com/artist/0ycYlmEYkF0bruyr6vWKWM), [Tigas](https://open.spotify.com/artist/2f0DX9WMcwdUOB8nYwqGcb), [D4ren](https://open.spotify.com/artist/2HwM6w7RPrgvP8Zw4qXYei) | [SOM DO ANO](https://open.spotify.com/album/4ABbHpu7C4r8jXWtoXTl58) | 5:48 |
 | 10 | [Os 100](https://open.spotify.com/track/0a5B0NLxHmV0p0uK3IWqYV) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Os 100](https://open.spotify.com/album/5pKR7QsvIbyVQig07l8MFO) | 4:08 |

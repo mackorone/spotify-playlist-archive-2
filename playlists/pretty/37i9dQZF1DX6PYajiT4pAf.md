@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Harry Styles, Luis Fonsi & Feid, Ana Mena y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,899 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,882 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 34 | [BATMAN](https://open.spotify.com/track/2bNp6WJVzU0H6Ittq08eVf) | [Baby Loud](https://open.spotify.com/artist/6VSlGCOiyCqCRfFsThtvA7) | [BATMAN](https://open.spotify.com/album/5rlREvYgzbOjLGc8fbGcDS) | 2:33 |
 | 35 | [Tequilas](https://open.spotify.com/track/59yr7QrJqjoIrma26Ql7iX) | [Adexe & Nau](https://open.spotify.com/artist/0ndVqPlOidgsJ4yB3Fc5ec) | [Tequilas](https://open.spotify.com/album/2ZI9fGGtZBCAKUh6ocVPuD) | 2:01 |
 | 36 | [TKM CNT XFA](https://open.spotify.com/track/3kHxYzvottpn4pmV5GBADA) | [Ladilla Rusa](https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF) | [TKM CNT XFA](https://open.spotify.com/album/7E3vNnKm7alB2ayeYuaO3Q) | 3:32 |
-| 37 | [ROADTRIP](https://open.spotify.com/track/1WZfs7Pl5zlvsqv8yH3RGC) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN), [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU) | [ROADTRIP](https://open.spotify.com/album/2pJoTyNXajAzNvSomoodOJ) | 2:41 |
+| 37 | [ROADTRIP](https://open.spotify.com/track/1WZfs7Pl5zlvsqv8yH3RGC) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN) | [ROADTRIP](https://open.spotify.com/album/2pJoTyNXajAzNvSomoodOJ) | 2:41 |
 | 38 | [Mi pequeña bestia](https://open.spotify.com/track/0hneq9Kl23zSPGVKfjHgb4) | [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Mi pequeña bestia](https://open.spotify.com/album/0NYScj3xCqoBai4WSSrChh) | 3:09 |
 | 39 | [Carretera o trueno](https://open.spotify.com/track/1o2OthooX1z28pRNR3zT3C) | [Ángel Stanich](https://open.spotify.com/artist/1S3qoq3uXtDOYVrohpcsKY) | [Por La Hierba](https://open.spotify.com/album/0tuPflke7JHWNpM436nzqs) | 7:25 |
 | 40 | [Una y Otra Vez](https://open.spotify.com/track/01Jau2dvxahy6s00VFFB0n) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Una y Otra Vez](https://open.spotify.com/album/2mIRZwtWJfTMXb9IlD92WT) | 3:02 |

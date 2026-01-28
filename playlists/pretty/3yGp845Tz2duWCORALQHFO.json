@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 26084,
+  "num_followers": 26082,
   "original_name": "NEW EDM 2026\u26a1 EDM HITS 2026 \u26a1 MUSICA ELECTRONICA 2026",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABlFiVRlXT8nrjZ2wPg6tcAkeje31ip",
+  "snapshot_id": "AABlF/Uo38umP/NygNkQLkqHwIe2cVbV",
   "tracks": [
     {
       "added_at": "2026-01-23 13:19:40",
@@ -191,6 +191,26 @@
       "duration_ms": 173538,
       "name": "Lavender Town",
       "url": "https://open.spotify.com/track/47e1s0cxP19dr4l3dOAcqv"
+    },
+    {
+      "added_at": "2026-01-27 18:45:51",
+      "album": {
+        "name": "Move (feat. Anella)",
+        "url": "https://open.spotify.com/album/4enKgmPZVCuTE899eftuX5"
+      },
+      "artists": [
+        {
+          "name": "Logan Garrett",
+          "url": "https://open.spotify.com/artist/5TdsDxoHWub575sY58UWLn"
+        },
+        {
+          "name": "Anella",
+          "url": "https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN"
+        }
+      ],
+      "duration_ms": 162187,
+      "name": "Move (feat. Anella)",
+      "url": "https://open.spotify.com/track/2G8sdxn4INZb41kr4vmWMO"
     },
     {
       "added_at": "2026-01-23 13:19:40",

@@ -4,7 +4,7 @@
 
 > This is Kelli\-Leigh\. The essential tracks, all in one playlist.
 
-95 songs - 4 hr 56 min
+96 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [This Time of Year](https://open.spotify.com/track/1ylGE5n6bq4FkZLuYYAkiz) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Unwrap My Heart](https://open.spotify.com/album/0NNFk8ELkHpYQXodDvMSiC) | 3:40 | 2024-12-06 | 2025-01-11 |
 | [Touch Me](https://open.spotify.com/track/704qdWVSyxrFhoGTB0QWag) | [Malifoo](https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5), [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Touch Me](https://open.spotify.com/album/380Y40ZOSIWlIWEWjalnkQ) | 2:29 | 2024-05-14 |  |
 | [U Got A Friend \- Radio Edit](https://open.spotify.com/track/65vfNxJOeSEfWBiprx22P1) | [Inpetto](https://open.spotify.com/artist/0WDjOCmlubUVdRozCz46sM), [Johnny Bravo](https://open.spotify.com/artist/3JIIoIyMtOyG0Z4DcsDOpk), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [U Got A Friend \(Radio Edit\)](https://open.spotify.com/album/4qmA61atcUT9HJxqvL32js) | 3:11 | 2024-05-14 | 2025-08-12 |
-| [Unconditional](https://open.spotify.com/track/1926sS8UyXlm06zVDA3drx) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Unconditional](https://open.spotify.com/album/7nRrREFeaUpxuDmClni2Mu) | 3:04 | 2024-06-27 |  |
+| [Unconditional](https://open.spotify.com/track/1lzcX94a7KQAHpNotjgrf6) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [LEGACY](https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP) | 3:03 | 2026-01-28 |  |
+| [Unconditional](https://open.spotify.com/track/1926sS8UyXlm06zVDA3drx) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Unconditional](https://open.spotify.com/album/7nRrREFeaUpxuDmClni2Mu) | 3:04 | 2024-06-27 | 2026-01-28 |
 | [Unconditional](https://open.spotify.com/track/7vzHvUDu54lnqcC9fB315l) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Unconditional](https://open.spotify.com/album/02UTbY9xBxoKjiM9mDh529) | 3:04 | 2024-05-19 | 2024-06-27 |
 | [Unconditional \- Club Edit](https://open.spotify.com/track/4xcwaflj6AZnR3s6d9a3fR) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Unconditional](https://open.spotify.com/album/2TkKDcE0X9qWjqDtddsZD7) | 3:28 | 2024-05-14 | 2024-05-19 |
 | [Underneath the Tree](https://open.spotify.com/track/5lDZ2wHKdOA2nz48gCiNkd) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Underneath the Tree](https://open.spotify.com/album/4QR9NBs2MpQcJJizlzYHsi) | 3:19 | 2024-09-05 | 2025-02-15 |

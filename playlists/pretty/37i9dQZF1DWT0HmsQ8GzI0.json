@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: imago mundi",
-  "num_followers": 16193,
+  "num_followers": 16194,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-01-23 12:55:00",
       "album": {
-        "name": "T\u00e9lbe \u00e1t",
-        "url": "https://open.spotify.com/album/1zXzbm4fRPft8o8rJBruSQ"
-      },
-      "artists": [
-        {
-          "name": "Kolibri",
-          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
-        }
-      ],
-      "duration_ms": 161280,
-      "name": "T\u00e9lbe \u00e1t",
-      "url": "https://open.spotify.com/track/2yhLSp2tSxQsKdaYBJ1vNl"
-    },
-    {
-      "added_at": "2026-01-23 12:55:00",
-      "album": {
         "name": "Elsz\u00e1lln\u00e9k",
         "url": "https://open.spotify.com/album/4k5jW5VJ4LyfFjo4QWYagM"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 162000,
       "name": "Jerik\u00f3",
       "url": "https://open.spotify.com/track/2buK5D1SetmgAPAl10tCq3"
+    },
+    {
+      "added_at": "2026-01-23 12:55:00",
+      "album": {
+        "name": "T\u00e9lbe \u00e1t",
+        "url": "https://open.spotify.com/album/1zXzbm4fRPft8o8rJBruSQ"
+      },
+      "artists": [
+        {
+          "name": "Kolibri",
+          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
+        }
+      ],
+      "duration_ms": 161280,
+      "name": "T\u00e9lbe \u00e1t",
+      "url": "https://open.spotify.com/track/2yhLSp2tSxQsKdaYBJ1vNl"
     },
     {
       "added_at": "2026-01-23 12:55:00",
@@ -883,26 +883,6 @@
     {
       "added_at": "2026-01-23 12:55:00",
       "album": {
-        "name": "Sose halok meg",
-        "url": "https://open.spotify.com/album/2jjL8YIaoo22mtpWKsq1jR"
-      },
-      "artists": [
-        {
-          "name": "Sol\u00e9re",
-          "url": "https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP"
-        },
-        {
-          "name": "\u00d3tvar Pestis",
-          "url": "https://open.spotify.com/artist/1AyF8iJgMe4LMNe8bUM1Yo"
-        }
-      ],
-      "duration_ms": 128578,
-      "name": "Sose halok meg",
-      "url": "https://open.spotify.com/track/5IXSSKNUW3v7ewkQWXgcNx"
-    },
-    {
-      "added_at": "2026-01-23 12:55:00",
-      "album": {
         "name": "A sz\u00edv vezet",
         "url": "https://open.spotify.com/album/5kVYf3Gm7wgk1F7Jjcm3Lm"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 166000,
       "name": "A sz\u00edv vezet",
       "url": "https://open.spotify.com/track/4DYbJ4osRQVvzr5Stzq22q"
+    },
+    {
+      "added_at": "2026-01-23 12:55:00",
+      "album": {
+        "name": "Sose halok meg",
+        "url": "https://open.spotify.com/album/2jjL8YIaoo22mtpWKsq1jR"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00e9re",
+          "url": "https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP"
+        },
+        {
+          "name": "\u00d3tvar Pestis",
+          "url": "https://open.spotify.com/artist/1AyF8iJgMe4LMNe8bUM1Yo"
+        }
+      ],
+      "duration_ms": 128578,
+      "name": "Sose halok meg",
+      "url": "https://open.spotify.com/track/5IXSSKNUW3v7ewkQWXgcNx"
     },
     {
       "added_at": "2026-01-23 12:55:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-01-23 12:55:00",
       "album": {
+        "name": "Szeressetek",
+        "url": "https://open.spotify.com/album/7ncsXh9pjUQibmO2L7tnto"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Szeressetek",
+      "url": "https://open.spotify.com/track/1BYWwi0ELFixwltwVVizoQ"
+    },
+    {
+      "added_at": "2026-01-23 12:55:00",
+      "album": {
         "name": "HIPERKARMA",
         "url": "https://open.spotify.com/album/35jFL1Uohqn5YN1WS0ao6D"
       },
@@ -1015,38 +1031,6 @@
     {
       "added_at": "2026-01-23 12:55:00",
       "album": {
-        "name": "Szeressetek",
-        "url": "https://open.spotify.com/album/7ncsXh9pjUQibmO2L7tnto"
-      },
-      "artists": [
-        {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Szeressetek",
-      "url": "https://open.spotify.com/track/1BYWwi0ELFixwltwVVizoQ"
-    },
-    {
-      "added_at": "2026-01-23 12:55:00",
-      "album": {
-        "name": "Ci\u00e1n",
-        "url": "https://open.spotify.com/album/2ZvKVx7H8EUBgRHZM6hBvL"
-      },
-      "artists": [
-        {
-          "name": "Waiting Room",
-          "url": "https://open.spotify.com/artist/6AkIWFj7J1rzYkGRgqZndc"
-        }
-      ],
-      "duration_ms": 220368,
-      "name": "Ci\u00e1n",
-      "url": "https://open.spotify.com/track/2ZO6w6CoOSfW4d7bOB1s1c"
-    },
-    {
-      "added_at": "2026-01-23 12:55:00",
-      "album": {
         "name": "Szob\u00e1k felett",
         "url": "https://open.spotify.com/album/5LiXOFGCIm4rXVEclWrsmB"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2026-01-23 12:55:00",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/0wXhrHl6OrfNBTSRia2eV2"
+        "name": "Ci\u00e1n",
+        "url": "https://open.spotify.com/album/2ZvKVx7H8EUBgRHZM6hBvL"
       },
       "artists": [
         {
-          "name": "Samurai Drive",
-          "url": "https://open.spotify.com/artist/3KJXAVUBjcuGGU7A7ExedX"
+          "name": "Waiting Room",
+          "url": "https://open.spotify.com/artist/6AkIWFj7J1rzYkGRgqZndc"
         }
       ],
-      "duration_ms": 232874,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/0MvQKd4qZb8ng7svhz5QlI"
+      "duration_ms": 220368,
+      "name": "Ci\u00e1n",
+      "url": "https://open.spotify.com/track/2ZO6w6CoOSfW4d7bOB1s1c"
     },
     {
       "added_at": "2026-01-23 12:55:00",
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2026-01-23 12:55:00",
       "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/0wXhrHl6OrfNBTSRia2eV2"
+      },
+      "artists": [
+        {
+          "name": "Samurai Drive",
+          "url": "https://open.spotify.com/artist/3KJXAVUBjcuGGU7A7ExedX"
+        }
+      ],
+      "duration_ms": 232874,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/0MvQKd4qZb8ng7svhz5QlI"
+    },
+    {
+      "added_at": "2026-01-23 12:55:00",
+      "album": {
         "name": "Takarj el",
         "url": "https://open.spotify.com/album/1hwaiR1jJDFJ2WeH2cVr01"
       },
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-01-23 12:55:00",
       "album": {
-        "name": "Boh\u00e9m Himnusz",
-        "url": "https://open.spotify.com/album/1XOL9ld2JEiXfuMp9oKtn6"
-      },
-      "artists": [
-        {
-          "name": "ajsa luna",
-          "url": "https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "Boh\u00e9m Himnusz",
-      "url": "https://open.spotify.com/track/1efQhXRuD8NvlWjGrBl1X7"
-    },
-    {
-      "added_at": "2026-01-23 12:55:00",
-      "album": {
         "name": "Porcel\u00e1n",
         "url": "https://open.spotify.com/album/2GuTg0jTvXKFyVMk6VregQ"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 240000,
       "name": "Porcel\u00e1n",
       "url": "https://open.spotify.com/track/0FNjdCG1BYCOH2YjStCH9P"
+    },
+    {
+      "added_at": "2026-01-23 12:55:00",
+      "album": {
+        "name": "Boh\u00e9m Himnusz",
+        "url": "https://open.spotify.com/album/1XOL9ld2JEiXfuMp9oKtn6"
+      },
+      "artists": [
+        {
+          "name": "ajsa luna",
+          "url": "https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "Boh\u00e9m Himnusz",
+      "url": "https://open.spotify.com/track/1efQhXRuD8NvlWjGrBl1X7"
     },
     {
       "added_at": "2026-01-23 12:55:00",
@@ -1191,22 +1191,6 @@
       "duration_ms": 205440,
       "name": "Aludn\u00e9k (de nem lehet)",
       "url": "https://open.spotify.com/track/0lZZSC7y64zbFqY8WnPLB3"
-    },
-    {
-      "added_at": "2026-01-23 12:55:00",
-      "album": {
-        "name": "M\u00e9g egy kedd",
-        "url": "https://open.spotify.com/album/4YuesaUvQd43akrqDFbIAT"
-      },
-      "artists": [
-        {
-          "name": "Anna and The Barbies",
-          "url": "https://open.spotify.com/artist/1c8vsLWY82GMwKdHwXlEBV"
-        }
-      ],
-      "duration_ms": 137093,
-      "name": "M\u00e9g egy kedd",
-      "url": "https://open.spotify.com/track/1ZtvcSrcAqkOSi85bJf9GS"
     },
     {
       "added_at": "2026-01-23 12:55:00",
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2026-01-23 12:55:00",
       "album": {
-        "name": "\u00cdRD \u00c9S MONDD!",
-        "url": "https://open.spotify.com/album/2gksqqUvlxfp5sqephMSTC"
+        "name": "M\u00e9g egy kedd",
+        "url": "https://open.spotify.com/album/4YuesaUvQd43akrqDFbIAT"
       },
       "artists": [
         {
-          "name": "HIPERKARMA",
-          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
+          "name": "Anna and The Barbies",
+          "url": "https://open.spotify.com/artist/1c8vsLWY82GMwKdHwXlEBV"
         }
       ],
-      "duration_ms": 217496,
-      "name": "\u00c9LEK",
-      "url": "https://open.spotify.com/track/6sttYMGxhalSlGfLWVgYle"
+      "duration_ms": 137093,
+      "name": "M\u00e9g egy kedd",
+      "url": "https://open.spotify.com/track/1ZtvcSrcAqkOSi85bJf9GS"
     },
     {
       "added_at": "2026-01-23 12:55:00",
@@ -1271,6 +1255,22 @@
       "duration_ms": 182827,
       "name": "B\u00e1natszalonna",
       "url": "https://open.spotify.com/track/0w0Ym7FLmk00KLPj9E6gFD"
+    },
+    {
+      "added_at": "2026-01-23 12:55:00",
+      "album": {
+        "name": "\u00cdRD \u00c9S MONDD!",
+        "url": "https://open.spotify.com/album/2gksqqUvlxfp5sqephMSTC"
+      },
+      "artists": [
+        {
+          "name": "HIPERKARMA",
+          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
+        }
+      ],
+      "duration_ms": 217496,
+      "name": "\u00c9LEK",
+      "url": "https://open.spotify.com/track/6sttYMGxhalSlGfLWVgYle"
     },
     {
       "added_at": "2026-01-23 12:55:00",

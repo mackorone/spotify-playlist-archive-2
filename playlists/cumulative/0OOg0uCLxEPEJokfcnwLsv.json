@@ -1461,6 +1461,24 @@
     },
     {
       "album": {
+        "name": "Encoded Message",
+        "url": "https://open.spotify.com/album/5zl6g4TatJkS3cjy9CYCMu"
+      },
+      "artists": [
+        {
+          "name": "Eyesores",
+          "url": "https://open.spotify.com/artist/1ZX6BVHmO2euWv2YrcHPks"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149160,
+      "name": "Encoded Message",
+      "url": "https://open.spotify.com/track/0U1cuM8We74nr19QVSBcdW"
+    },
+    {
+      "album": {
         "name": "EQUINOCCIO",
         "url": "https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw"
       },
@@ -3972,6 +3990,24 @@
       "duration_ms": 228726,
       "name": "This is under control.",
       "url": "https://open.spotify.com/track/600eSAScJN873sbh9virWp"
+    },
+    {
+      "album": {
+        "name": "Turn Past Tomorrow",
+        "url": "https://open.spotify.com/album/3jWcJlU5XrV1b381It9xUw"
+      },
+      "artists": [
+        {
+          "name": "Hat Pin Panic",
+          "url": "https://open.spotify.com/artist/77f1HkjJ9kj51sNjprGklj"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310838,
+      "name": "This Machine",
+      "url": "https://open.spotify.com/track/3vpK71WrTIZLXsmWuT6Qg2"
     },
     {
       "album": {

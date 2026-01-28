@@ -3700,7 +3700,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 191013,
       "name": "D-DAY",
       "url": "https://open.spotify.com/track/6NmLAub5n0Ol4hwYlGVdiw"
@@ -4716,7 +4716,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 146253,
       "name": "Eve",
       "url": "https://open.spotify.com/track/4lUWMmp3VraOLVaz6odamW"
@@ -14905,6 +14905,24 @@
     },
     {
       "album": {
+        "name": "To My Beloved Thief, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7hYH2EhcKNNEmp1nSz7ml6"
+      },
+      "artists": [
+        {
+          "name": "Ha Hyun Sang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Seen the Scene",
+      "url": "https://open.spotify.com/track/2ZnRfvoWohat4nrdkTz5Da"
+    },
+    {
+      "album": {
         "name": "Beautiful Now (Original Television Soundtrack) Pt. 10",
         "url": "https://open.spotify.com/album/0pazoqMfChhTpwsbqaDS9P"
       },
@@ -16226,6 +16244,24 @@
       "duration_ms": 231435,
       "name": "Still here",
       "url": "https://open.spotify.com/track/69r9DFmi5uStx44buSi0sm"
+    },
+    {
+      "album": {
+        "name": "Spring Fever, Pt. 7 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3EhkvrtYTudwpxtOnxvWuW"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173732,
+      "name": "Still In Time",
+      "url": "https://open.spotify.com/track/2AId5fDE2y1UUbagfZVzIQ"
     },
     {
       "album": {
@@ -17682,7 +17718,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 240026,
       "name": "The Way You Look at Me",
       "url": "https://open.spotify.com/track/0409qxBQ43TmzaJTBeTSyM"
@@ -20196,6 +20232,24 @@
       "duration_ms": 183998,
       "name": "You are my soul",
       "url": "https://open.spotify.com/track/6VDZHXq2dn9Uj44uak2Xsg"
+    },
+    {
+      "album": {
+        "name": "Spring Fever, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0pvUvyCFRyYzFPXLAuZQcN"
+      },
+      "artists": [
+        {
+          "name": "SUNG HAN BIN",
+          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "You Are Spring",
+      "url": "https://open.spotify.com/track/0LaFsGJoSqJtrwFeuytslG"
     },
     {
       "album": {

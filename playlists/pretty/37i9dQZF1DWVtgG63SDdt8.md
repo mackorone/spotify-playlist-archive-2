@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Gracie Binion
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,506 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,531 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 28 | [On & On](https://open.spotify.com/track/4cuEDrUs35Xufb1n0pK9ox) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI), [James Poyser](https://open.spotify.com/artist/5IxPIZq4NEpRSShL8rRBII) | [On & On](https://open.spotify.com/album/5UaOXHjQT8fUvjrvCbiNQM) | 3:44 |
 | 29 | [Fortress](https://open.spotify.com/track/6UVu48178Ean6ymEL1nWBi) | [Ochaè](https://open.spotify.com/artist/3BQA6DkdnDx5Gd07dFgFeI) | [Fortress](https://open.spotify.com/album/6sBffTAx1wTAk10j8oNZiX) | 4:12 |
 | 30 | [Shine On Me](https://open.spotify.com/track/3ilA9oCTZqYUb4RX0FD1K1) | [Will Ngonga](https://open.spotify.com/artist/6IRwmt9e2PKz2uTmCOzme7) | [Shine On Me](https://open.spotify.com/album/0zjerkNvx6bJwtQTSCmbxA) | 2:37 |
-| 31 | [So Far Next](https://open.spotify.com/track/12OM91E3E2yMc2iwO7xa08) | [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf), [Fvturistic](https://open.spotify.com/artist/0HGQAjDpEhPZOxY0ZFuaX5) | [So Far Next](https://open.spotify.com/album/4BqBOlxA2kAtCQ528A7fx2) | 2:48 |
+| 31 | [So Far Next](https://open.spotify.com/track/12OM91E3E2yMc2iwO7xa08) | [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf), [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p) | [So Far Next](https://open.spotify.com/album/4BqBOlxA2kAtCQ528A7fx2) | 2:48 |
 | 32 | [Movie Star](https://open.spotify.com/track/7Jog4oLDP1ls1gqEBsaBkf) | [DeAngelo](https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE), [Kai Uriah](https://open.spotify.com/artist/6IdKInshEI8ywJ99v6gVKM) | [This Is a Winter EP](https://open.spotify.com/album/4C63x0vvIMgqdx2ZdIdjRa) | 3:28 |
 | 33 | [Marvelous](https://open.spotify.com/track/1Oc6ppQE9vxsyPYm2tFKnK) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB) | [Marvelous](https://open.spotify.com/album/7fHkqLiwsnz8fOygfj2uzS) | 2:36 |
 | 34 | [CRY](https://open.spotify.com/track/06mGKaqWqR2Q69e5pYmfl0) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN) | [CRY](https://open.spotify.com/album/3M6humtO6MGezuOPi18JoH) | 2:45 |

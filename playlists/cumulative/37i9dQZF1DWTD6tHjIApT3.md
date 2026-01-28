@@ -2,9 +2,9 @@
 
 ### [Women's Voice](https://open.spotify.com/playlist/37i9dQZF1DWTD6tHjIApT3)
 
-> 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: にしな nishina
+> 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 茉ひる Mahiru
 
-3,584 songs - 9 day 12 hr 26 min
+3,585 songs - 9 day 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1763,7 +1763,7 @@
 | [Sweetener](https://open.spotify.com/track/3PvQc3mZHTjA0q79Rs1EfQ) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [Sweetener](https://open.spotify.com/album/0WAwmVEyepy4jbL1lv3x1y) | 3:12 | 2023-11-14 | 2023-11-22 |
 | [Swim](https://open.spotify.com/track/1B9IotUsdKzHZYRdmc99fn) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Swim](https://open.spotify.com/album/6KTZ7NAPmZP64DN0Mh9b6M) | 3:23 | 2025-04-22 | 2025-11-12 |
 | [Swimmy](https://open.spotify.com/track/3reOxGqUCxSFziVFnVkT1S) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Swimmy](https://open.spotify.com/album/0lh6RdtUpsCMn8Ci3LpQvU) | 3:28 | 2023-05-18 | 2023-05-24 |
-| [Swing Swing Heart](https://open.spotify.com/track/3sk0eT30FYPi2oYnb2psKX) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM) | [Swing Swing Heart](https://open.spotify.com/album/3AYHeU3Nz5yohUc48SEThk) | 3:27 | 2026-01-20 |  |
+| [Swing Swing Heart](https://open.spotify.com/track/3sk0eT30FYPi2oYnb2psKX) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM) | [Swing Swing Heart](https://open.spotify.com/album/3AYHeU3Nz5yohUc48SEThk) | 3:27 | 2026-01-20 | 2026-01-28 |
 | [Sympathy](https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Hikare Inochi](https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas) | 3:30 | 2022-07-28 | 2023-02-14 |
 | [Synergy](https://open.spotify.com/track/0qpw1DaobgqEb1w89zU37U) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Synergy](https://open.spotify.com/album/4XxZJsBbE0O0hUhNUvvKHt) | 3:17 | 2023-09-26 | 2023-10-04 |
 | [T.H.E\. feat.JUDY.](https://open.spotify.com/track/0Y5wlmlSkc375C3vpCkFzh) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I), [JUDY.](https://open.spotify.com/artist/2xOqpYBe41hnQErih2JNkb) | [T.H.E\. feat.JUDY.](https://open.spotify.com/album/0nh30eJAa2ic96ORf5YeZK) | 4:45 | 2023-05-23 | 2023-05-31 |
@@ -2623,7 +2623,7 @@
 | [ピンクブルー](https://open.spotify.com/track/1VRwCezjpvjnCrab92b1dk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [pink blue](https://open.spotify.com/album/07kXEBPM0KuSkMTr73giQ0) | 3:56 | 2023-05-16 | 2024-02-18 |
 | [ピーターパンしんどローム](https://open.spotify.com/track/5Zm6jOBdL8mGHC0gdo258P) | [WON](https://open.spotify.com/artist/1w5kguKKWpMp9eoEVUQrbf) | [ピーターパンしんどローム](https://open.spotify.com/album/3U4j26JV1FevAtdnAculn4) | 2:10 | 2024-04-09 | 2024-04-24 |
 | [ピーチジュース](https://open.spotify.com/track/06mgp5YsfIVcUXZJVYjHaN) | [ELAIZA](https://open.spotify.com/artist/45dMXQSIdhCQd5RUqDSpka) | [ピーチジュース](https://open.spotify.com/album/1tlsVdFtDEM54Iq4O9m9Zx) | 3:03 | 2023-12-19 | 2023-12-27 |
-| [ピーナッツ](https://open.spotify.com/track/00QH9y1MZx8M9iH8mP2uXv) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [ピーナッツ](https://open.spotify.com/album/7GdwuOmkuyax7HImgAeOWo) | 2:26 | 2026-01-20 |  |
+| [ピーナッツ](https://open.spotify.com/track/00QH9y1MZx8M9iH8mP2uXv) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [ピーナッツ](https://open.spotify.com/album/7GdwuOmkuyax7HImgAeOWo) | 2:26 | 2026-01-20 | 2026-01-28 |
 | [ファンtaboo](https://open.spotify.com/track/08FQfnwq18luiMG4jvdUMc) | [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo) | [ファンtaboo](https://open.spotify.com/album/0odF3UJZeNdF3ute22579H) | 3:13 | 2024-02-29 | 2024-03-06 |
 | [ファンタジー](https://open.spotify.com/track/2jhVNef2cwn9fWaltdNUIx) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [ファンタジー](https://open.spotify.com/album/5M8u7W7hux33amwQ8ltxii) | 4:50 | 2023-06-27 | 2023-06-29 |
 | [フィナーレ。](https://open.spotify.com/track/2hL8ESlWIwfXPHgPaTYTWk) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [プレロマンス / フィナーレ。](https://open.spotify.com/album/6qDviOzqffV998821vlnWL) | 4:02 | 2022-09-06 | 2022-09-09 |
@@ -3326,6 +3326,7 @@
 | [白色蜉蝣](https://open.spotify.com/track/6g4LVUmjflm93R0T8GkvtF) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [白色蜉蝣](https://open.spotify.com/album/1QZOlZ7LLH6QVmFxVGWk7X) | 3:11 | 2023-10-03 | 2024-04-19 |
 | [白銀の少女](https://open.spotify.com/track/3RDsxI9zbRgsM5sfr3zASF) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [白銀の少女](https://open.spotify.com/album/6hsya9OOMQOeQU6JYKdppW) | 3:10 | 2023-09-05 | 2023-09-13 |
 | [百年十色](https://open.spotify.com/track/1wj370kj3muqbT0xejvX0S) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [LOVE CYCLE](https://open.spotify.com/album/3TPp964EZEVeZNoMspMZKK) | 4:46 | 2022-05-29 | 2022-07-29 |
+| [百日草](https://open.spotify.com/track/2jPX3IZxD7y9gMKW7KhfAu) | [茉ひる](https://open.spotify.com/artist/5bWP5BvE7omi0VcYqs2S5R) | [百日草](https://open.spotify.com/album/0U3TaCiy5hLI2urzi74CDG) | 5:17 | 2026-01-27 |  |
 | [百花繚乱](https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [百花繚乱](https://open.spotify.com/album/3LDV2xGL9HiqCsQujEPQLb) | 2:59 | 2025-01-14 | 2025-07-09 |
 | [百面相](https://open.spotify.com/track/2yr0m1ru5oyu2shdvDGqe1) | [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy) | [百面相](https://open.spotify.com/album/7lPTsNjQmjIhsJakrEh4tJ) | 2:45 | 2025-09-30 | 2025-12-24 |
 | [目覚め](https://open.spotify.com/track/0q8g8WKC30aYKLzagg0A1v) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [neon](https://open.spotify.com/album/6MFq8UGpeyZW8dxFR6PNMp) | 4:05 | 2022-05-29 | 2022-07-26 |
@@ -3473,7 +3474,7 @@
 | [赤いスイートピー \- English Jazz Ver.](https://open.spotify.com/track/7sZvxchusFfJalUdKXxxsU) | [Seiko Matsuda](https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h) | [赤いスイートピー \(English Jazz Ver.\)](https://open.spotify.com/album/3yDsynLI0UyD2U8tVp5A2Q) | 4:25 | 2023-12-14 | 2024-01-10 |
 | [赤いワインに涙が・・・](https://open.spotify.com/track/48N4QmxXPEzt3J9nDMaGP0) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [赤いワインに涙が・・・](https://open.spotify.com/album/3bsUrgtonRDuRrwKbdDBtx) | 3:59 | 2025-08-05 | 2026-01-15 |
 | [赤ずきん](https://open.spotify.com/track/1vone5YS9zGooFsnUml2LI) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [赤ずきん](https://open.spotify.com/album/3KPeXKwDGaWZz6Ue3ovPdK) | 3:15 | 2023-01-24 | 2023-01-28 |
-| [超ありがとう](https://open.spotify.com/track/035vNuv1kda8lkINP8jjzc) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [超ありがとう](https://open.spotify.com/album/5qTACJpLavLBeGhsg9P7b1) | 6:05 | 2026-01-14 | 2026-01-25 |
+| [超ありがとう](https://open.spotify.com/track/035vNuv1kda8lkINP8jjzc) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [超ありがとう](https://open.spotify.com/album/5qTACJpLavLBeGhsg9P7b1) | 6:05 | 2026-01-14 |  |
 | [超天獄](https://open.spotify.com/track/0rT5dClklXHjNPKFy970ZV) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [超天獄](https://open.spotify.com/album/1bQdf81b8Akd262qhyd1xo) | 4:29 | 2022-10-11 | 2022-10-19 |
 | [超最強](https://open.spotify.com/track/0bcZS6ifbiPHNFZNX71fiK) | [Cho Tokimeki Sendenbu](https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT) | [ときめきルールブック](https://open.spotify.com/album/33nAHJehmLBpYd7bbqPDNR) | 3:19 | 2025-07-01 | 2025-12-03 |
 | [超最悪](https://open.spotify.com/track/4yxY92AAlRIlu22ZNjUaVo) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [超最悪](https://open.spotify.com/album/7g1qyIxwtT6TmuHlu5mhcK) | 2:58 | 2022-11-29 | 2023-01-13 |

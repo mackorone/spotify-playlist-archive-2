@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,163 songs - 20 day 18 hr 7 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,168 songs - 20 day 18 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7740,7 +7740,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7730 | [I Just Love the 50s!!!](https://open.spotify.com/track/1At66VMSGx03JwOrHEGMXj) | [Omori](https://open.spotify.com/artist/4DoTDDfW3gkeyb06XrIHlg) | [Omori \(Original Game Soundtrack\), Pt\. 2](https://open.spotify.com/album/7pmuSRFBvY0D0tce5dpqdY) | 1:17 |
 | 7731 | [Storytellers](https://open.spotify.com/track/4dLNyPz58eSwVQz6K1JmDQ) | [Foreground Eclipse](https://open.spotify.com/artist/133ZFcHur9ckcKLnJ0XNJS) | [Stories That Last Through The Sleepless Nights](https://open.spotify.com/album/3QWB22qBGpDSwALq5mxnvQ) | 3:57 |
 | 7732 | [Say Goodbye](https://open.spotify.com/track/3RnkPoduHhQX4FY9x2rEeY) | [Kado](https://open.spotify.com/artist/3hBvETCf1HBhhZSv9kc1Tb), [Maiza](https://open.spotify.com/artist/4VV9icF9SRufglMKhsDDrf) | [Say Goodbye](https://open.spotify.com/album/5VzYQ9BHrTI6HPV5sk4R79) | 3:12 |
-| 7733 | [Royalty](https://open.spotify.com/track/7kUljt0NM5sISL3OGNVxYd) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/5fNgtPuw6QFGW7M9FdOX5x) | 3:43 |
+| 7733 | [Royalty](https://open.spotify.com/track/7kUljt0NM5sISL3OGNVxYd) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs) | [Royalty](https://open.spotify.com/album/5fNgtPuw6QFGW7M9FdOX5x) | 3:43 |
 | 7734 | [내가 아는 한가지](https://open.spotify.com/track/53iFKBJcbwBRzFaQu4xIpm) | [Lee Deok jin](https://open.spotify.com/artist/3Id17s1H3y7xbvn02m9t7u) | [Sad Wings Of Destiny](https://open.spotify.com/album/7oUlIe0dzJ4aUHZGaHyLav) | 4:23 |
 | 7735 | [Love Me Back](https://open.spotify.com/track/2IMPPA9UZpqTnnVIy9lDHU) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Love Me Back \(From "Operation: True Love"\)](https://open.spotify.com/album/27pVj89kJGZkJfgNbGqGY9) | 3:06 |
 | 7736 | [Nobody New](https://open.spotify.com/track/3BUc2A0MJ53FHwiy3eohBt) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Nobody New](https://open.spotify.com/album/0CHEK7iHmeB7bZ8lqAsbS3) | 3:35 |
@@ -8171,5 +8171,10 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8161 | [Ms\. VICTORIA](https://open.spotify.com/track/6dax9Hnzxu66YXGVv3irqm) | [トウカイテイオー \(CV\. Machico\)](https://open.spotify.com/artist/4iZfTlw1wAe7i8If4Bku1O), [オグリキャップ \(CV\. 高柳知葉\)](https://open.spotify.com/artist/1Ns24VB4EsllIc7ulSh4JU), [ウオッカ \(CV\. 大橋彩香\)](https://open.spotify.com/artist/2QVtvjv7GbWbGBTzrW4270), [タイキシャトル \(CV\. 大坪由佳\)](https://open.spotify.com/artist/4b4Zo2hI74NGdyCto74mlz), [エルコンドルパサー \(CV\. 髙橋ミナミ\)](https://open.spotify.com/artist/3ktP294BIdJ2gnSfiy8IrE), [テイエムオペラオー \(CV\. 徳井青空\)](https://open.spotify.com/artist/0HmlG1tmStQxv3UhMNUpXP), [ナリタブライアン \(CV\. 衣川里佳\)](https://open.spotify.com/artist/68SOpX4lz1qAQoQsyvKvXO), [エアグルーヴ \(CV\. 青木瑠璃子\)](https://open.spotify.com/artist/5nKLtpb9d7l5i097fKZYnO), [タマモクロス \(CV\. 大空直美\)](https://open.spotify.com/artist/5y5uFO7RHMPXukXpN3A2r1), [ビワハヤヒデ \(CV\. 近藤 唯\)](https://open.spotify.com/artist/5GEuPNsUURPOE08y11MZJk), [マヤノトップガン \(CV\. 星谷美緒\)](https://open.spotify.com/artist/6Qi7KuRGCkHX22OAEFq3vn), [ミホノブルボン \(CV\. 長谷川育美\)](https://open.spotify.com/artist/4640XyVEeNXwxenpk8Ilmt), [イナリワン \(CV\. 井上遥乃\)](https://open.spotify.com/artist/7pxU6wxauuxXXdsY05TbZc), [キタサンブラック \(CV\. 矢野妃菜喜\)](https://open.spotify.com/artist/7e2p9zUCmJM0LAbWMawUhS) | [『ウマ娘 プリティーダービー』WINNING LIVE 09](https://open.spotify.com/album/0Zb8pDItXQHTLLugnls14B) | 4:47 |
 | 8162 | [Freestyle](https://open.spotify.com/track/33YwdmM6I1hBOT0ZQHSQW6) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Flyest Nigga In Charge, Vol\. 1](https://open.spotify.com/album/0h7HHLlC9uaaxhJOaKBLvr) | 3:29 |
 | 8163 | [Sincerely](https://open.spotify.com/track/5jbyIE6sWRViOHJDJvaZLs) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Sincerely](https://open.spotify.com/album/4GYGq80GvCynlEZzXmhZKD) | 4:36 |
+| 8164 | [나에게로 떠나는 여행](https://open.spotify.com/track/4K35mmvZKAq3ue2TyXisMW) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Buzz Effect](https://open.spotify.com/album/5x4zrXuHdIusSB0umnih8n) | 3:28 |
+| 8165 | [Make It Better \- Instrumental](https://open.spotify.com/track/3MDE1vCeIzkn9J90A8tblW) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Ventura \(Instrumentals\)](https://open.spotify.com/album/4a6u9TUkH1MW2zZkFUYlV0) | 3:38 |
+| 8166 | [Remember Me](https://open.spotify.com/track/3WIDl36fLnnhoLrw9EGAcq) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Break and Cross the Walls Ⅰ](https://open.spotify.com/album/4CNuDNkR09yVWSzhbTNLv6) | 4:50 |
+| 8167 | [Dark Crow](https://open.spotify.com/track/5aJg39ukLHsiCtCwoIHcF3) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Dark Crow](https://open.spotify.com/album/1Rny5KOdByNfkZ9ww76NfT) | 4:38 |
+| 8168 | [Raise your flag](https://open.spotify.com/track/0zz23sDNfQ0onyVh80GwqF) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [The World's On Fire](https://open.spotify.com/album/3YrPHd8CGlPBfLG4FgmQVy) | 4:07 |
 
-Snapshot ID: `AAAKchlmseHMe/1tZnrZ9TIkSsay+B4C`
+Snapshot ID: `AAAKdOUBx2b91eJkxSqlKrwitPL5MIci`

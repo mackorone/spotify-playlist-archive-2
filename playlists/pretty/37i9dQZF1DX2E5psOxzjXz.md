@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene 🔥 Cover: Zoha Zuberi
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,765 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,770 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 17 | [asra](https://open.spotify.com/track/69qum2btpInkYmCPXWDY4V) | [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP), [prod\. Azlan](https://open.spotify.com/artist/6KmPXJIN3kpZx5dPL39Nxt) | [asra](https://open.spotify.com/album/6xw8Z1GLVFtokEPnduIIva) | 4:27 |
 | 18 | [Khataa](https://open.spotify.com/track/6ysZDePWB7PJkGPclwdVeB) | [Belaal](https://open.spotify.com/artist/43yRI94YNMeWDCF0FLX8m2), [Bilal Ali](https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX) | [Khataa](https://open.spotify.com/album/7ep6Huprsc2uWwMhQ35Pr5) | 2:37 |
 | 19 | [Iraaday](https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Iraaday](https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy) | 2:13 |
-| 20 | [Afsanay](https://open.spotify.com/track/4UUmDCvTg3WO0qpMHPZYdq) | [Alex Shahbaz](https://open.spotify.com/artist/2ozQBz0oMeKqW2xSomWVwp), [Alycia Dias](https://open.spotify.com/artist/69EG46nu7SNft0lDeI46Z1), [Zaheer Abbas](https://open.spotify.com/artist/6ofqXFiMGMj8ALWuHs6ONA) | [Afsanay](https://open.spotify.com/album/3FHrEBAwQ6ivt8QuyLqQLQ) | 1:24 |
+| 20 | [Afsanay](https://open.spotify.com/track/4UUmDCvTg3WO0qpMHPZYdq) | [Alex Shahbaz](https://open.spotify.com/artist/2ozQBz0oMeKqW2xSomWVwp), [Alycia Dias](https://open.spotify.com/artist/69EG46nu7SNft0lDeI46Z1), [Zaheer Abbas](https://open.spotify.com/artist/50RzgKJrxvSyYi2IeCHdmr) | [Afsanay](https://open.spotify.com/album/3FHrEBAwQ6ivt8QuyLqQLQ) | 1:24 |
 | 21 | [Teray Naal](https://open.spotify.com/track/6ZkFBPYesUv0PzI8V3PZH6) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Teray Naal](https://open.spotify.com/album/4JsZodknDILTDTnswlIYIf) | 3:28 |
 | 22 | [Farda](https://open.spotify.com/track/6z9YgNd6u3k7eSLAR7Nsom) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 4:29 |
 | 23 | [Runway](https://open.spotify.com/track/2NLcqznWuHrzuifJlGI0Ca) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Runway](https://open.spotify.com/album/2aDTEntkuIzNx5TAjiLfKb) | 2:54 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,183 likes - 355 songs - 19 hr 41 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,187 likes - 356 songs - 19 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -363,5 +363,6 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 353 | [Hollow Sun](https://open.spotify.com/track/7pR4pIdtqjey4YdfGzQMZx) | [Tyson Dickert](https://open.spotify.com/artist/7DzMrRXO3rUkDzR32YaB2p) | [Hollow Sun](https://open.spotify.com/album/1LnVYOaVOONBK3Cl8wCs5n) | 5:06 |
 | 354 | [You Can't Spell "Failure" Without U & I](https://open.spotify.com/track/1nqns95SIoOYhKgj7JAdk7) | [Scott Middlin](https://open.spotify.com/artist/5xQHsYgEBOprSATYk7ygPH) | [You Can't Spell "Failure" Without U & I](https://open.spotify.com/album/2h38RTqdIk2LKSIMjlgBRU) | 2:32 |
 | 355 | [Comisery](https://open.spotify.com/track/2lDOspc5bBM493KJT7r6it) | [Scott Middlin](https://open.spotify.com/artist/5xQHsYgEBOprSATYk7ygPH) | [Comisery](https://open.spotify.com/album/46AwsxHKeMcmF4ebkExLuC) | 3:13 |
+| 356 | [Echoes of a Scream](https://open.spotify.com/track/0wu7MRbBXcUDgYsfLfc9aT) | [The Ginger Twins](https://open.spotify.com/artist/2gjKEs7JL8SZxFCyDWWQiV) | [Echoes of a Scream](https://open.spotify.com/album/1Fn5k5nnwikeYzzQZFPizS) | 3:42 |
 
-Snapshot ID: `AAAKfQfwuewppQBfLBw/1QC6leiVTeaG`
+Snapshot ID: `AAAKfmB97YnCIYlbdoS+ShmkCy//caDq`

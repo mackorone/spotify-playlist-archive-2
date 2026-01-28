@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "AudioVisual",
+        "url": "https://open.spotify.com/album/0JdcjgsOJ1ybVEmHuFhfBD"
+      },
+      "artists": [
+        {
+          "name": "Joel Hunt",
+          "url": "https://open.spotify.com/artist/57j07A2nkEk1CDE4BJVuy8"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Adrift",
+      "url": "https://open.spotify.com/track/649n923Nb1uamTFlRmpKrT"
+    },
+    {
+      "album": {
         "name": "Pale Ontology",
         "url": "https://open.spotify.com/album/7xDRFDBkIeinYvAGc5ctT6"
       },
@@ -892,6 +910,28 @@
       "duration_ms": 221666,
       "name": "Drugstore Cowboy",
       "url": "https://open.spotify.com/track/232OmR6gGYDi94gCDHFLGI"
+    },
+    {
+      "album": {
+        "name": "Space & Time",
+        "url": "https://open.spotify.com/album/0QHaA065L5kdg9UWcfqv8D"
+      },
+      "artists": [
+        {
+          "name": "Joel Hunt",
+          "url": "https://open.spotify.com/artist/57j07A2nkEk1CDE4BJVuy8"
+        },
+        {
+          "name": "Norm Stockton",
+          "url": "https://open.spotify.com/artist/59P8FStgQ946nzfFSc7aMP"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293379,
+      "name": "Edge of Reality",
+      "url": "https://open.spotify.com/track/0P8Jiz2SFpfEwH1dNxT90q"
     },
     {
       "album": {
@@ -2521,6 +2561,24 @@
     },
     {
       "album": {
+        "name": "See You In The Wind",
+        "url": "https://open.spotify.com/album/3lJRKYhDtNEI2rcDP3q4Do"
+      },
+      "artists": [
+        {
+          "name": "Ashstone",
+          "url": "https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182834,
+      "name": "See You In The Wind",
+      "url": "https://open.spotify.com/track/4zV9OGWWiW64XkdwvV8GYD"
+    },
+    {
+      "album": {
         "name": "sela",
         "url": "https://open.spotify.com/album/4KP0bhanb1yZNRinZkd65I"
       },
@@ -2890,6 +2948,24 @@
       "duration_ms": 415380,
       "name": "This Is How We Say Goodbye",
       "url": "https://open.spotify.com/track/6NbzdZrZwTzPvMySmzsdPU"
+    },
+    {
+      "album": {
+        "name": "Time Is A Weapon",
+        "url": "https://open.spotify.com/album/46wy0eBBTvxxI3llxxWkAE"
+      },
+      "artists": [
+        {
+          "name": "Julience",
+          "url": "https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210180,
+      "name": "Time Is A Weapon",
+      "url": "https://open.spotify.com/track/7F0rYUVBoEV4wEFeXG070e"
     },
     {
       "album": {

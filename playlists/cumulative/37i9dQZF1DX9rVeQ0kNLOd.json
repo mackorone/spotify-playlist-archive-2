@@ -3151,6 +3151,28 @@
     },
     {
       "album": {
+        "name": "Ride Remix (feat. IO)",
+        "url": "https://open.spotify.com/album/2napSCAGTjs7byXHfCWjOr"
+      },
+      "artists": [
+        {
+          "name": "SWEE",
+          "url": "https://open.spotify.com/artist/01rnISQaxa1W2jWpzzS8yx"
+        },
+        {
+          "name": "IO",
+          "url": "https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273325,
+      "name": "Ride Remix (feat. IO)",
+      "url": "https://open.spotify.com/track/17m0eoXqIgtgb1BmjGepBx"
+    },
+    {
+      "album": {
         "name": "Seek",
         "url": "https://open.spotify.com/album/47Z1qRZDvj74CCIJxRNgsf"
       },
@@ -4504,7 +4526,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 173299,
       "name": "Won't ever",
       "url": "https://open.spotify.com/track/7uXbeSZqwSHEvi3fIfl4DO"
@@ -5496,7 +5518,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 158888,
       "name": "\u30ab\u30bf\u30b3\u30c8",
       "url": "https://open.spotify.com/track/3ck6DbwKM4maTik8s7j3s4"
@@ -5665,6 +5687,24 @@
     },
     {
       "album": {
+        "name": "\u30c9\u30ec\u30b9\u30b3\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/2eUg1Ua42nP4VkqADbbFgL"
+      },
+      "artists": [
+        {
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241133,
+      "name": "\u30c9\u30ec\u30b9\u30b3\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/6vOOQuIrxAxSnHlEr0W5jy"
+    },
+    {
+      "album": {
         "name": "the youth night",
         "url": "https://open.spotify.com/album/1ctyQFj7yDRDwU7dwcd43c"
       },
@@ -5734,7 +5774,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 233250,
       "name": "\u30cf\u30c3\u30d4\u30fc\u30a2\u30ef\u30fc",
       "url": "https://open.spotify.com/track/4nL8jwv3UC2QnwU58mCmRS"
@@ -7198,6 +7238,24 @@
       "duration_ms": 265728,
       "name": "\u7fbd\u3092\u5bbf\u3057\u3066",
       "url": "https://open.spotify.com/track/2rJQPhZ6N0XADGm2UGrN7l"
+    },
+    {
+      "album": {
+        "name": "\u82b1\u3068\u671b\u307f",
+        "url": "https://open.spotify.com/album/2jk1eb98lYl4ObAi8dlLrd"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u7530\u5948\u90fd\u7f8e",
+          "url": "https://open.spotify.com/artist/5evvUVk68oUVaG4ugqe0KP"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245776,
+      "name": "\u82b1\u3068\u671b\u307f",
+      "url": "https://open.spotify.com/track/0lxj8WdbaiEeoGNkrncoXT"
     },
     {
       "album": {

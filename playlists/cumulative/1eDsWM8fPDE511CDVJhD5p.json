@@ -419,6 +419,28 @@
     },
     {
       "album": {
+        "name": "BAD@ENGLISH",
+        "url": "https://open.spotify.com/album/5bjm6ladWbEPZhnptDJD68"
+      },
+      "artists": [
+        {
+          "name": "Ani Meida",
+          "url": "https://open.spotify.com/artist/6Aq4cC5sy8GwRuGbJwDqw3"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209454,
+      "name": "BAD@ENGLISH (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/2D6xlWkr5jYQHG5gd2bOpc"
+    },
+    {
+      "album": {
         "name": "Reincarnation",
         "url": "https://open.spotify.com/album/7sm4Y41OeQBBArV7DidyUq"
       },
@@ -478,6 +500,28 @@
       "duration_ms": 319398,
       "name": "Blue Tourmaline",
       "url": "https://open.spotify.com/track/4SnMwshON3ZHoKUQwZz58J"
+    },
+    {
+      "album": {
+        "name": "Breathless Silence",
+        "url": "https://open.spotify.com/album/68Uzlivhx0QWMyt3ZfWLAy"
+      },
+      "artists": [
+        {
+          "name": "\u5e02\u702c\u308b\u307d",
+          "url": "https://open.spotify.com/artist/4JPnxsMo1F3QOkh9KGDWz1"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "Breathless Silence (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4Z1sfWQApns0g0AJUERoB5"
     },
     {
       "album": {
@@ -826,7 +870,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 139384,
       "name": "Day by Day (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/4S0VquF8r6FOVV8WtACURv"
@@ -2284,7 +2328,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 184477,
       "name": "MONSTRO (feat. \u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/61FzrKPx8wWdEs8ngTTaJH"
@@ -3553,6 +3597,24 @@
     },
     {
       "album": {
+        "name": "Tokyo Future Girl",
+        "url": "https://open.spotify.com/album/3T4C13Fndki4SxN1qpmSVl"
+      },
+      "artists": [
+        {
+          "name": "picco",
+          "url": "https://open.spotify.com/artist/5Ag3wuPOl3y5hJgqhhqVVM"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191305,
+      "name": "Tokyo Future Girl (feat. Hatsune Miku)",
+      "url": "https://open.spotify.com/track/4jVRXPKONZDHOEo65E1yVx"
+    },
+    {
+      "album": {
         "name": "Lovelism",
         "url": "https://open.spotify.com/album/5SEePtCGlDAsxV0UwnJmOr"
       },
@@ -4310,7 +4372,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 143555,
       "name": "\u307e\u305f\u904a\u3093\u3067\u306d (feat. \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/0PtF9GLITTVkHIxMt3nG4x"
@@ -4710,6 +4772,28 @@
       "duration_ms": 172800,
       "name": "\u30a2\u30ef\u30bb\u30ab\u30ac\u30df (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
       "url": "https://open.spotify.com/track/3WqBS8rdDpDvyfUyU4VHp1"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30f3\u30c0\u30fc\u30c9\u30c3\u30b0",
+        "url": "https://open.spotify.com/album/5Yn0n0rxPHcOUlsxXeJv4A"
+      },
+      "artists": [
+        {
+          "name": "Somari",
+          "url": "https://open.spotify.com/artist/36VqkoWKdKnzUpzLQam8Xx"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "\u30a2\u30f3\u30c0\u30fc\u30c9\u30c3\u30b0 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/0EV9WDrLmk5d8zdyYgHQwv"
     },
     {
       "album": {
@@ -5858,7 +5942,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 159000,
       "name": "\u30cf\u30f3\u30b0\u30ea\u30fc\u30b4\u30fc\u30b9\u30c8 (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
       "url": "https://open.spotify.com/track/4QOpctSDxbj460IaAOiB5D"
@@ -7387,6 +7471,28 @@
     },
     {
       "album": {
+        "name": "\u5f69\u3063\u3066\u304f\u3002",
+        "url": "https://open.spotify.com/album/4eeBQYn6QzGDBSKghCVIpK"
+      },
+      "artists": [
+        {
+          "name": "\u307c\u3049\u306e",
+          "url": "https://open.spotify.com/artist/0H7AxvwZUM92HEP6l50xhz"
+        },
+        {
+          "name": "IA",
+          "url": "https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "\u5f69\u3063\u3066\u304f\u3002 (feat. IA)",
+      "url": "https://open.spotify.com/track/2rneTvdIV6hfSn5E7YJ1y5"
+    },
+    {
+      "album": {
         "name": "\u604b\u3059\u308b\u2606\u30d3\u30fc\u30e0",
         "url": "https://open.spotify.com/album/0rrn2S4QMRyWEEAGAQB6Tx"
       },
@@ -7908,7 +8014,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 174857,
       "name": "\u7b2cn\u6b21\u5143 (feat. \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/3V6jUQ6qOCNpkzmmMlmS97"

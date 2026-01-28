@@ -1,12 +1,12 @@
 {
   "description": "This is Fleetwood Mac. The essential tracks, all in one playlist.",
-  "num_followers": 1147424,
+  "num_followers": 1147581,
   "original_name": "This Is Fleetwood Mac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXVdAAAAAABTyXtcraGu9rDDHuEEkii+",
+  "snapshot_id": "aXaugAAAAABP9fdeeEIMkoAk3cHV8aDf",
   "tracks": [
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tusk (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn"
+        "name": "Tusk (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 217573,
-      "name": "Tusk - 2015 Remaster",
-      "url": "https://open.spotify.com/track/0iINibMKtoS8duvexsqnm5"
+      "duration_ms": 330746,
+      "name": "Storms - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3h9T2wLTy4FEKulLDkUjlX"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tusk (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
+        "name": "Tusk (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 330746,
-      "name": "Storms - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3h9T2wLTy4FEKulLDkUjlX"
+      "duration_ms": 217573,
+      "name": "Tusk - 2015 Remaster",
+      "url": "https://open.spotify.com/track/0iINibMKtoS8duvexsqnm5"
     },
     {
       "added_at": null,

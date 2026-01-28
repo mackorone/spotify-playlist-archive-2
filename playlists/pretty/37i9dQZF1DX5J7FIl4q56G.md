@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Poppy
 
-[Spotify](https://open.spotify.com/user/spotify) - 782,634 likes - 102 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 782,659 likes - 102 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/6ZMr3nj1g6MKbNmexo4KcB"
+      },
+      "artists": [
+        {
+          "name": "Monkey The Dog",
+          "url": "https://open.spotify.com/artist/1la7SQE26l6ZhwpOLx5QiC"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197796,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/4UM6wTL92CDDHpN3dzaVBu"
+    },
+    {
+      "album": {
         "name": "Ju\u017c",
         "url": "https://open.spotify.com/album/73fjgrSMpL4uvl6CtvLmwi"
       },

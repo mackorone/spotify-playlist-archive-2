@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Savera, OAFF and other exciting artists.
 
-1,314 songs - 2 day 23 hr 50 min
+1,315 songs - 2 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [Chal Bhool Ja](https://open.spotify.com/track/48tLTRTLXGx9nj9RHgal6S) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Chal Bhool Ja](https://open.spotify.com/album/2JOUKg6FMICnKDlQS5D6pg) | 2:28 | 2023-06-16 | 2023-07-22 |
 | [Chal Pada](https://open.spotify.com/track/3oyzb1Hn3x202SwPUZO7lf) | [Rawnaq](https://open.spotify.com/artist/4zS0AxuZ0IKFBGb1hdTS3S) | [Chal Pada](https://open.spotify.com/album/5n5sA4koDtPoCqTOBooZO6) | 3:23 | 2023-04-14 | 2023-06-17 |
 | [Chali Aa](https://open.spotify.com/track/137G1XonNMheqR56AHKjO6) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [Chali Aa](https://open.spotify.com/album/0Scrgj7ZxJi5rDOpGzrvMV) | 4:13 | 2024-02-02 | 2024-03-02 |
-| [Chalo Kahin Door](https://open.spotify.com/track/3Y84FkQyqE1Y1rKHnNYI6W) | [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH) | [Chalo Kahin Door](https://open.spotify.com/album/1AlSnWJkH1ZmOpJSvW46KL) | 2:25 | 2026-01-16 |  |
+| [Chalo Kahin Door](https://open.spotify.com/track/3Y84FkQyqE1Y1rKHnNYI6W) | [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH) | [Chalo Kahin Door](https://open.spotify.com/album/1AlSnWJkH1ZmOpJSvW46KL) | 2:25 | 2026-01-16 | 2026-01-28 |
 | [Chalte Huye](https://open.spotify.com/track/1KRGKsQNO6G6txFQsGCzls) | [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd) | [Neo Nazmein](https://open.spotify.com/album/3MPiSA9coEf9hpZCi4EiOS) | 3:49 | 2024-02-16 | 2024-03-16 |
 | [Chameli](https://open.spotify.com/track/3qtvgK1IdAnqxGCYfxekBT) | [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz), [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi), [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd) | [Chameli](https://open.spotify.com/album/5qjyXpuyhcvYmT2ruEez16) | 3:30 | 2024-11-22 | 2025-03-08 |
 | [Chandni](https://open.spotify.com/track/0k4MaE3r8qucVkFeJZPzwG) | [Anmol A](https://open.spotify.com/artist/4K60fhzI6KgrXpVsPwxuJb) | [Chandni](https://open.spotify.com/album/6NNdw1bjy6Z3BHfd5S9Fbp) | 3:24 | 2025-08-15 | 2025-08-30 |
@@ -1144,6 +1144,7 @@
 | [Tere Bina](https://open.spotify.com/track/3KQPMpUrA1hN2QGlFCNihh) | [Himangshu Bharali](https://open.spotify.com/artist/00dY65h6flKlnEsjSnVek7), [Mayukh](https://open.spotify.com/artist/19I0L8PB44SSGiPhpIjdmr) | [Tere Bina](https://open.spotify.com/album/7l5NVy7P8IqNrT0JZPm7Pp) | 2:20 | 2024-07-05 | 2024-08-10 |
 | [Tere Bina](https://open.spotify.com/track/4kJ6jb1QL8vQbkwhNZFsLQ) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Tere Bina](https://open.spotify.com/album/1eZuo2SoysHA1TvBfkRsZA) | 2:49 | 2024-01-19 | 2024-02-17 |
 | [Tere Gaon](https://open.spotify.com/track/3YNWnHvYHjFLQgjayEdhB9) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Stay Vol\. 1](https://open.spotify.com/album/4pwc2Zic2F7VYloJi1cpql) | 2:54 | 2025-10-03 | 2026-01-15 |
+| [Tere Hi Ho Gaye](https://open.spotify.com/track/5eLxew7YHYs4NgXhMsthCD) | [Yash Pathak](https://open.spotify.com/artist/6rCwcxRLPFehKZWB41woJW), [Soumyadeep Sarkar](https://open.spotify.com/artist/5PwsbCGrapQnteQhVZod7L), [Navjot Godara](https://open.spotify.com/artist/0c0qpnbcYeEhumUo9u8C2u), [Deepanshi Nagar](https://open.spotify.com/artist/3rRSuKh0igtO8J7uHz2AgQ) | [Tere Hi Ho Gaye](https://open.spotify.com/album/1qK2a68VrGwh0Lb3a040SZ) | 3:22 | 2026-01-16 |  |
 | [Tere Ishq Mein](https://open.spotify.com/track/2C9tjgeVMeExRKa3ARMaxq) | [Shubham Agrawal](https://open.spotify.com/artist/0hXmRbCfPzmsKcTkYy0jev), [Yash Tiwari](https://open.spotify.com/artist/76plYToYq5yM781ELsIvj5) | [Tere Ishq Mein](https://open.spotify.com/album/23MPCMqLkNWOApKsPYMqm7) | 2:42 | 2025-10-10 | 2025-11-24 |
 | [Tere Janey Ke Baad \- Revisit](https://open.spotify.com/track/7s97JrbMpXfV1ob6YthFAO) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Tere Janey Ke Baad \(Revisit\)](https://open.spotify.com/album/1s0hXS5PnrGzuCgkS3hv9I) | 3:00 | 2024-07-12 | 2024-08-17 |
 | [Tere Layi/ For You](https://open.spotify.com/track/7IFjJRwjmwGdsVIdltugtB) | [Savneet Singh](https://open.spotify.com/artist/3y7E2LWleEorGmUfFQ5qfY) | [Tere Layi / For you](https://open.spotify.com/album/69Nn5zn89TCCUyfWPOSBzm) | 3:42 | 2023-04-14 | 2023-06-24 |

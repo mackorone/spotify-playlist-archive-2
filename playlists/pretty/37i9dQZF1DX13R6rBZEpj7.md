@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,147 likes - 69 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,242 likes - 69 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,14 +68,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 58 | [somebody else \- Denon Reed Remix](https://open.spotify.com/track/3vfKENQeEa4zGtyWXub7fc) | [e.motion](https://open.spotify.com/artist/1LXlu1Blu2l9pgaIMaD3DZ), [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE) | [somebody else \(Denon Reed Remix\)](https://open.spotify.com/album/5wz4qBXL0AvKwn6DP7nWxF) | 2:20 |
 | 59 | [Inside The Rider \- Darkzy Remix](https://open.spotify.com/track/1OgyH85fktvryf3sxD1X6g) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [Inside The Rider \(Darkzy Remix\)](https://open.spotify.com/album/0jeNTBGFj5lcFIdPEgTgXD) | 2:52 |
 | 60 | [Loca](https://open.spotify.com/track/0QbrC79RH2z5DAramKLDrE) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Loca](https://open.spotify.com/album/3zDD4cySzEQjL8L8Z85Tw6) | 3:57 |
-| 61 | [Ur Number](https://open.spotify.com/track/3xijz9hc74Negf2y3QgjWn) | [N3RD](https://open.spotify.com/artist/5iBLTo15GS9kbESDXrC3pR), [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38), [Marky B](https://open.spotify.com/artist/15k1qXazWMXAuvcYb59XFj) | [Ur Number](https://open.spotify.com/album/4uTybjyrLbp6zCrENn0bKN) | 2:35 |
+| 61 | [Excuses](https://open.spotify.com/track/4cNwGH7jW3oXpu4ZLxyF2X) | [DJ Pantha](https://open.spotify.com/artist/4E0sJWY67kmUAJHtu4ZcEL), [AMEENAH](https://open.spotify.com/artist/7ocz03yDMOh5NOWuoSgg6r) | [Excuses / Dem Ones](https://open.spotify.com/album/0zxktwa5kjbYbfI0PZFf4K) | 4:37 |
 | 62 | [NO MORE PAIN](https://open.spotify.com/track/0C6zxAQJzd8VN8gV9mBYbW) | [BSEARL](https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi) | [NO MORE PAIN](https://open.spotify.com/album/1o1nkytV9caZFcfKOAR5RI) | 3:27 |
-| 63 | [Cheat Code](https://open.spotify.com/track/6a8EYMszSDhQV65yQiZn40) | [SHOSH](https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH), [Subten](https://open.spotify.com/artist/1D7TdByuV3l9cpOf6bGV3n) | [Cheat Code](https://open.spotify.com/album/0pPpPEkkUO8QX7OHT3xcRE) | 2:41 |
-| 64 | [Excuses](https://open.spotify.com/track/4cNwGH7jW3oXpu4ZLxyF2X) | [DJ Pantha](https://open.spotify.com/artist/4E0sJWY67kmUAJHtu4ZcEL), [AMEENAH](https://open.spotify.com/artist/7ocz03yDMOh5NOWuoSgg6r) | [Excuses / Dem Ones](https://open.spotify.com/album/0zxktwa5kjbYbfI0PZFf4K) | 4:37 |
+| 63 | [Ur Number](https://open.spotify.com/track/3xijz9hc74Negf2y3QgjWn) | [N3RD](https://open.spotify.com/artist/5iBLTo15GS9kbESDXrC3pR), [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38), [Marky B](https://open.spotify.com/artist/15k1qXazWMXAuvcYb59XFj) | [Ur Number](https://open.spotify.com/album/4uTybjyrLbp6zCrENn0bKN) | 2:35 |
+| 64 | [Cheat Code](https://open.spotify.com/track/6a8EYMszSDhQV65yQiZn40) | [SHOSH](https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH), [Subten](https://open.spotify.com/artist/1D7TdByuV3l9cpOf6bGV3n) | [Cheat Code](https://open.spotify.com/album/0pPpPEkkUO8QX7OHT3xcRE) | 2:41 |
 | 65 | [I Just Want U](https://open.spotify.com/track/5B8uSlQlHH8XTQLrK4hJDk) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [I Just Want U](https://open.spotify.com/album/0cT99LxUk6j20kOlTurhnD) | 3:28 |
 | 66 | [Oh My Gosh](https://open.spotify.com/track/2UsR4KZpVColypYnCCLLpB) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C), [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ), [IsGwan](https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk) | [Take No Chat \(EP\)](https://open.spotify.com/album/6DY9FDwvEnaBVoDu6gkPxF) | 3:28 |
 | 67 | [Higher](https://open.spotify.com/track/6BSQNP60x1gUBToCF66S6r) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [msft](https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx) | [Higher](https://open.spotify.com/album/2GcTWVCHl9KR00vBbMv7Uj) | 2:33 |
 | 68 | [Round eyaa](https://open.spotify.com/track/41rY2m91ihx5J5juMTJ7Iz) | [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38), [KAV](https://open.spotify.com/artist/1wj92TXbOIJAhbgA2WH7ZE), [mush\_uk](https://open.spotify.com/artist/3eZBlLZmZc3b2B5iruwyqS) | [Round eyaa](https://open.spotify.com/album/74qD1b1AhPHVKG2qZVdW7S) | 2:46 |
-| 69 | [My Gyal](https://open.spotify.com/track/7DdM16wmlB0kskxJWGQwvl) | [Michael Sparks](https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87) | [My Gyal / Packs](https://open.spotify.com/album/5QgDPi59TfQ7GY994tIa2t) | 2:46 |
+| 69 | [U](https://open.spotify.com/track/1yBIVECGDfhoebR6QnwWxo) | [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1), [mush\_uk](https://open.spotify.com/artist/3eZBlLZmZc3b2B5iruwyqS), [R2R](https://open.spotify.com/artist/36pnL1Ts2jHf8FprmL6LtH) | [U](https://open.spotify.com/album/1fc7h41ZALPCGGv3t1hrPI) | 3:00 |
 
 Snapshot ID: `AAAAAATX8wSWXkQfsKFBHm8BE47czcU7`

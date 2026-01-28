@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL4ybW0RHS6K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/27oxH68ZhwZ4Td6jZztQqs">Caza</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70 likes - 93 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 71 likes - 93 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL4ybW0RHS6K.md) - [plain]
 | 28 | [Verrader](https://open.spotify.com/track/41ftob2dyXVwsrC3Q5oNIq) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Verrader](https://open.spotify.com/album/3LxnX0bz2R5b5CWsUE3PN6) | 2:42 |
 | 29 | [Even](https://open.spotify.com/track/62Gd2nl9KsgAIluub9tm3X) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Jongen Van De Straat](https://open.spotify.com/album/4CdHokdfzbzZYoJGLAvQ8T) | 4:18 |
 | 30 | [Ik Strooi](https://open.spotify.com/track/3Kn5CCM5IWzUB2FK2ibDoD) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Jongen Van De Straat](https://open.spotify.com/album/4CdHokdfzbzZYoJGLAvQ8T) | 2:45 |
-| 31 | [Suicide](https://open.spotify.com/track/5Rh1kj5d8akHLO6a7OSfWr) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [SDL 1](https://open.spotify.com/album/73xmQcgQYxMRXsL2aLE6I7) | 3:16 |
-| 32 | [Dopamine](https://open.spotify.com/track/7LtXEqKBYfgRgUaxuPlZRq) | [Freddy Moreira](https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [Trafassi](https://open.spotify.com/artist/2Vf41WkCUjjGaAuCF3cd9O) | [Dopamine](https://open.spotify.com/album/7FDxW4VGBaB2csF8gzEItE) | 2:44 |
+| 31 | [Dopamine](https://open.spotify.com/track/7LtXEqKBYfgRgUaxuPlZRq) | [Freddy Moreira](https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [Trafassi](https://open.spotify.com/artist/2Vf41WkCUjjGaAuCF3cd9O) | [Dopamine](https://open.spotify.com/album/7FDxW4VGBaB2csF8gzEItE) | 2:44 |
+| 32 | [Suicide](https://open.spotify.com/track/5Rh1kj5d8akHLO6a7OSfWr) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [SDL 1](https://open.spotify.com/album/73xmQcgQYxMRXsL2aLE6I7) | 3:16 |
 | 33 | [Pony](https://open.spotify.com/track/5vMJ1Cm1UilRWUB61juU2g) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Jongen Van De Straat](https://open.spotify.com/album/4CdHokdfzbzZYoJGLAvQ8T) | 3:04 |
 | 34 | [Timer](https://open.spotify.com/track/4Yl58FfvAErT4p7fLTJUsh) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [SXTEEN](https://open.spotify.com/artist/3vioxUBsBBi7pmXx4KG5Vg) | [Timer](https://open.spotify.com/album/1Rv2Nfm9uDn5G3g4sXqYfq) | 2:01 |
 | 35 | [Banana](https://open.spotify.com/track/6IbHxN543uDJ31Y8wpiHgZ) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [Banana](https://open.spotify.com/album/76cChFmTxUn0kQVX7Asimp) | 2:21 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL4ybW0RHS6K.md) - [plain]
 | 92 | [No Crown \(feat\. Caza\)](https://open.spotify.com/track/1Cen6JcfsfSiYE1hN84EDC) | [Vlado](https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Trap Phone](https://open.spotify.com/album/74AVyCfx2HgawZ84ZT1ULq) | 2:33 |
 | 93 | [Rudebwoy \(feat\. Kempi & Caza\) \- Instrumental](https://open.spotify.com/track/7gfwWdXbcjAfsOjqFhpHDG) | [Jiri11](https://open.spotify.com/artist/6RxMqY900Xpza3Kh9j86Mn), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [TRIFECTA Type Beat Volume 4](https://open.spotify.com/album/0N0MHtP27q7nwH0PVrqByX) | 3:09 |
 
-Snapshot ID: `AcIAoAAAAADrcmxRU5AczYKiHJrFKxd9`
+Snapshot ID: `AcIGQAAAAADAQyyjuy8R7QeVUzd89ssE`

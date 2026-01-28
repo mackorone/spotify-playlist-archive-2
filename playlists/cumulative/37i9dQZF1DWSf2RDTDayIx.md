@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-504 songs - 1 day 2 hr 42 min
+505 songs - 1 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [If There is Love](https://open.spotify.com/track/5ngkOLKzDPNoYEXN0snzq3) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [If There is Love](https://open.spotify.com/album/5pfpy8N2przMVV6cOqiDAe) | 2:35 | 2021-12-03 | 2023-02-19 |
 | [If There is Love](https://open.spotify.com/track/6bzpgL7Swq2Yszt1gt5D5k) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [If There is Love](https://open.spotify.com/album/1WJaZh7DJ6KBHSjUb8Quzb) | 2:35 | 2023-03-10 | 2023-05-13 |
 | [If We’ll Ever Be Remembered](https://open.spotify.com/track/6wnzt59p7i8cAyuWl1avwr) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [If We’ll Ever Be Remembered](https://open.spotify.com/album/39oISAQPcYRNjQqKvYroME) | 3:30 | 2022-05-27 | 2024-09-07 |
-| [In It](https://open.spotify.com/track/6doi1FwFmq4eroLXAM4TyO) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [In It](https://open.spotify.com/album/0tywyauEJceUMimBQfTe7w) | 3:10 | 2025-11-28 |  |
+| [In It](https://open.spotify.com/track/6doi1FwFmq4eroLXAM4TyO) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [In It](https://open.spotify.com/album/0tywyauEJceUMimBQfTe7w) | 3:10 | 2025-11-28 | 2026-01-28 |
 | [In My Zone](https://open.spotify.com/track/3LR2EPyj36gxYgCYbC0au0) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [In My Zone](https://open.spotify.com/album/78t3QrtBcUZhthPk0ROf2r) | 2:41 | 2022-01-28 | 2024-09-21 |
 | [In The Dark](https://open.spotify.com/track/0IAFmrpi9KF0PP3LONJonm) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Aldae](https://open.spotify.com/artist/15SHURx3CnODWKpjmNcxgO) | [In The Dark](https://open.spotify.com/album/34XrK5yFLziX15BSjDDiyO) | 2:28 | 2024-07-12 |  |
 | [Infinity](https://open.spotify.com/track/5ZOHDJ5u6pHTvw1gT2SBRn) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp), [Kastra](https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC), [Luxtides](https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe) | [Infinity](https://open.spotify.com/album/0hDRdaNZPdfRDWbThYA8LI) | 3:10 | 2022-05-06 | 2022-10-13 |
@@ -336,6 +336,7 @@
 | [Our Home](https://open.spotify.com/track/5r29ub7D58nOi0vZbnvWGv) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Mydnight](https://open.spotify.com/album/2MVB6MztUF4iFQCcbBYmOe) | 3:33 | 2025-08-29 |  |
 | [Over You](https://open.spotify.com/track/4FpbkwsFcWACH49QWaMKs7) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Carly Paige](https://open.spotify.com/artist/047WXnK2tIG3FGth7FyXaK) | [Over You](https://open.spotify.com/album/5FXjUY7ksOG6sos0uGgK9I) | 2:51 | 2021-12-03 | 2022-01-08 |
 | [Panic](https://open.spotify.com/track/3r7GgRegpst8F5jjDmfD6W) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Corbyn Besson](https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj) | [Panic](https://open.spotify.com/album/7wrFawWVd9g2UeOuj0rOfU) | 2:53 | 2024-08-02 | 2024-11-16 |
+| [PARTY NEVER STOPS](https://open.spotify.com/track/5aFi8YUPnBS7Z32QtbnIbE) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy) | [PARTY NEVER STOPS](https://open.spotify.com/album/6By7ZkDoYPdCb4w508giWs) | 4:52 | 2026-01-23 |  |
 | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 | 2024-03-22 |  |
 | [Payback \(feat\. Icona Pop\)](https://open.spotify.com/track/6VcpaoEQRxc9wrAtYBqKwz) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Payback \(feat\. Icona Pop\)](https://open.spotify.com/album/7xerYbkUGD5BazNdP6OaZW) | 3:23 | 2022-03-04 | 2022-07-29 |
 | [Payback \(feat\. Icona Pop\)](https://open.spotify.com/track/7KoFHvEScguiEnD06xYtSt) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Payback \(feat\. Icona Pop\)](https://open.spotify.com/album/2oYzECiQezxZV6d6LOKuw0) | 3:23 | 2022-07-22 | 2023-05-24 |

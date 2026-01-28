@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-471 songs - 1 day 0 hr 53 min
+472 songs - 1 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Birdbrain!](https://open.spotify.com/track/40UHPOWIPMkI5jUnRJ81jl) | [Twilike Wonder](https://open.spotify.com/artist/0p6U88EWoDuBHtA2r7jtXV) | [Birdbrain!](https://open.spotify.com/album/1ATnijcOqHEqtPn1IRoMlN) | 4:19 | 2025-12-20 |  |
 | [bleed4U!](https://open.spotify.com/track/3G6aBHc7NWoKXerTO7Bino) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U), [ghostsocial](https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN) | [bleed4U!](https://open.spotify.com/album/3UjWCa0836Hwj5hYNwfQMQ) | 2:00 | 2026-01-12 |  |
 | [Blood // Water](https://open.spotify.com/track/4AyS2onxBbtArFwc6lXCTt) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ) | [Songs From A Broken Mind](https://open.spotify.com/album/7I7NrdgIIqrol4fyBMOr0A) | 3:28 | 2023-06-14 |  |
+| [Blood Debt](https://open.spotify.com/track/6S0kAXCMEs0ysXHG2Ev2b4) | [Loprov](https://open.spotify.com/artist/3Zv31lkrOJ7HPBWmXOjiwJ), [Daratomic](https://open.spotify.com/artist/19NwIIQXJ70524wDFURjHM), [Moleigh](https://open.spotify.com/artist/7kUEA4RRzFlUBJLE9cW0T3) | [Blood Debt](https://open.spotify.com/album/6GIGtAIDzdZSpgqVkMVE4x) | 3:34 | 2026-01-27 |  |
 | [Blue Bird](https://open.spotify.com/track/1p22iYZzkbVdjKhVjWPnNk) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Moka](https://open.spotify.com/artist/4W6v3SkHwSbsdCkJrzQLXl), [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Blue Bird](https://open.spotify.com/album/1KouYdQgreczfMEKX3gotS) | 4:01 | 2024-10-21 |  |
 | [BOGOS BINTED](https://open.spotify.com/track/5YGCBEMw5M687kDntOnVYX) | [Ida Deerz](https://open.spotify.com/artist/5sfvNysQqGIyLAyd2CxHnO), [Kaj Strife](https://open.spotify.com/artist/0wywVUxVDUc9Z45Xzq6k2w), [2a03fox](https://open.spotify.com/artist/5O9Kn8XmhZnYIhOL3lT5I9) | [idaidaida](https://open.spotify.com/album/2MH0snsDzFgboLpkp3eKyI) | 2:53 | 2024-07-22 |  |
 | [BONNIE](https://open.spotify.com/track/21Y9F54jhNFQK7A0D9LZHu) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [CUTIEMARKS \(And the Things That Bind Us\)](https://open.spotify.com/album/5gm9CpZupuvq1cFVvdvdPB) | 4:21 | 2025-07-04 |  |

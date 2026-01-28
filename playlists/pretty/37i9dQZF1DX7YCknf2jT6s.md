@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Julian Lage
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,639 likes - 99 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,635 likes - 99 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Ghanaian Highlife Classics",
-  "num_followers": 7472,
+  "num_followers": 7478,
   "original_name": " Ghana Highlife Party",
   "owner": {
     "name": "Spotify",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-07-19 09:38:31",
       "album": {
-        "name": "Love & Death",
-        "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
-      },
-      "artists": [
-        {
-          "name": "Ebo Taylor",
-          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
-        }
-      ],
-      "duration_ms": 415090,
-      "name": "Love and Death",
-      "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
-    },
-    {
-      "added_at": "2024-07-19 09:38:31",
-      "album": {
         "name": "Rakia",
         "url": "https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T"
       },
@@ -1024,9 +1008,25 @@
           "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
         }
       ],
-      "duration_ms": 357346,
-      "name": "Odo nwom",
-      "url": "https://open.spotify.com/track/7oTOQksidsMI5biGbCS0hB"
+      "duration_ms": 338720,
+      "name": "Rakia",
+      "url": "https://open.spotify.com/track/2f7Vzsx9i4xJMxqg7X0axj"
+    },
+    {
+      "added_at": "2024-07-19 09:38:31",
+      "album": {
+        "name": "Love & Death",
+        "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
+      },
+      "artists": [
+        {
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+        }
+      ],
+      "duration_ms": 415090,
+      "name": "Love and Death",
+      "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
     },
     {
       "added_at": "2024-07-19 09:38:31",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-07-19 09:38:31",
       "album": {
-        "name": "Dompe",
-        "url": "https://open.spotify.com/album/3IjgTD6lXJ2hSmHePnDYZ5"
-      },
-      "artists": [
-        {
-          "name": "Adane Best",
-          "url": "https://open.spotify.com/artist/0iHoxGhjygQ3WczfHVuYyn"
-        }
-      ],
-      "duration_ms": 345887,
-      "name": "Zamunyamunya Mu",
-      "url": "https://open.spotify.com/track/4pMXc5qYuBOEIUWpAMUOdo"
-    },
-    {
-      "added_at": "2024-07-19 09:38:31",
-      "album": {
         "name": "Rakia",
         "url": "https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T"
       },
@@ -1108,9 +1092,25 @@
           "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
         }
       ],
-      "duration_ms": 306906,
-      "name": "Atweetan",
-      "url": "https://open.spotify.com/track/5RUySragatyT0s0BZZbh7b"
+      "duration_ms": 357346,
+      "name": "Odo nwom",
+      "url": "https://open.spotify.com/track/7oTOQksidsMI5biGbCS0hB"
+    },
+    {
+      "added_at": "2024-07-19 09:38:31",
+      "album": {
+        "name": "Dompe",
+        "url": "https://open.spotify.com/album/3IjgTD6lXJ2hSmHePnDYZ5"
+      },
+      "artists": [
+        {
+          "name": "Adane Best",
+          "url": "https://open.spotify.com/artist/0iHoxGhjygQ3WczfHVuYyn"
+        }
+      ],
+      "duration_ms": 345887,
+      "name": "Zamunyamunya Mu",
+      "url": "https://open.spotify.com/track/4pMXc5qYuBOEIUWpAMUOdo"
     },
     {
       "added_at": "2024-07-19 09:38:31",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2024-07-19 09:38:31",
       "album": {
+        "name": "Rakia",
+        "url": "https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T"
+      },
+      "artists": [
+        {
+          "name": "Kofi Nti",
+          "url": "https://open.spotify.com/artist/2ms1z7qBF4uLM8hzdjGhL9"
+        },
+        {
+          "name": "Ofori Amponsah",
+          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
+        }
+      ],
+      "duration_ms": 306906,
+      "name": "Atweetan",
+      "url": "https://open.spotify.com/track/5RUySragatyT0s0BZZbh7b"
+    },
+    {
+      "added_at": "2024-07-19 09:38:31",
+      "album": {
         "name": "The Return of Kofi B",
         "url": "https://open.spotify.com/album/5zNJB9e8rs4sQeCmQqz99n"
       },
@@ -1183,22 +1203,6 @@
     {
       "added_at": "2024-07-19 09:38:31",
       "album": {
-        "name": "Iron Boy",
-        "url": "https://open.spotify.com/album/4lmhSuZqCz9VzA8vOfZdR3"
-      },
-      "artists": [
-        {
-          "name": "Amakye Dede",
-          "url": "https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj"
-        }
-      ],
-      "duration_ms": 317040,
-      "name": "Odo Da Baabi",
-      "url": "https://open.spotify.com/track/0SJ1NANtFCj6cNbyPXCOdZ"
-    },
-    {
-      "added_at": "2024-07-19 09:38:31",
-      "album": {
         "name": "Krokro Me",
         "url": "https://open.spotify.com/album/6qF170KcaSLqamwReuuIh2"
       },
@@ -1211,6 +1215,22 @@
       "duration_ms": 239570,
       "name": "Krokro Me",
       "url": "https://open.spotify.com/track/6wnBL3qBxt0PagpBEsluUb"
+    },
+    {
+      "added_at": "2024-07-19 09:38:31",
+      "album": {
+        "name": "Iron Boy",
+        "url": "https://open.spotify.com/album/4lmhSuZqCz9VzA8vOfZdR3"
+      },
+      "artists": [
+        {
+          "name": "Amakye Dede",
+          "url": "https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj"
+        }
+      ],
+      "duration_ms": 317040,
+      "name": "Odo Da Baabi",
+      "url": "https://open.spotify.com/track/0SJ1NANtFCj6cNbyPXCOdZ"
     },
     {
       "added_at": "2024-07-19 09:38:31",
@@ -1247,26 +1267,6 @@
       "duration_ms": 389666,
       "name": "Me Nko Meda",
       "url": "https://open.spotify.com/track/2s0eloIGarvn2AyPBCBNRc"
-    },
-    {
-      "added_at": "2024-07-19 09:38:31",
-      "album": {
-        "name": "Rakia",
-        "url": "https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T"
-      },
-      "artists": [
-        {
-          "name": "Kofi Nti",
-          "url": "https://open.spotify.com/artist/2ms1z7qBF4uLM8hzdjGhL9"
-        },
-        {
-          "name": "Ofori Amponsah",
-          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
-        }
-      ],
-      "duration_ms": 338720,
-      "name": "Rakia",
-      "url": "https://open.spotify.com/track/2f7Vzsx9i4xJMxqg7X0axj"
     },
     {
       "added_at": "2024-07-19 09:38:31",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2024-07-19 09:38:31",
       "album": {
-        "name": "REPPAGh: Best Ghana Hi-life Hits, Vol.2",
-        "url": "https://open.spotify.com/album/4SGjQC9czsIde9sgKq5DwR"
+        "name": "Demara",
+        "url": "https://open.spotify.com/album/4Kida7vEurh2GHNtc9QiUm"
       },
       "artists": [
         {
-          "name": "K. Frimpong",
-          "url": "https://open.spotify.com/artist/2LDOr6fxXh2JPduLAHzztr"
+          "name": "Amanzeba",
+          "url": "https://open.spotify.com/artist/4ZTPfIzBBjPkpCuVRTUr6m"
         }
       ],
-      "duration_ms": 403693,
-      "name": "Kyenkyen Bi Adi Mawu",
-      "url": "https://open.spotify.com/track/6FOZU2YaZfRPPLBXbjKSbl"
+      "duration_ms": 308600,
+      "name": "Dede",
+      "url": "https://open.spotify.com/track/2oillBSPKCEb9Gl30znjFU"
     }
   ],
   "unique_name": " Ghana Highlife Party",

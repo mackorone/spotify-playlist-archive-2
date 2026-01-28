@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-18",
-  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  EMJAY en cover ",
+  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  GRTSCH en cover ",
   "name": "neo m\u00e9xico ",
   "tracks": [
     {
@@ -784,6 +784,24 @@
       "duration_ms": 278792,
       "name": "Auroras Boreales",
       "url": "https://open.spotify.com/track/0eOLIMZOZw0DjgZKwttmlg"
+    },
+    {
+      "album": {
+        "name": "autobus",
+        "url": "https://open.spotify.com/album/6VaTBtFbwV7bvNZ9M9udUa"
+      },
+      "artists": [
+        {
+          "name": "vestigio",
+          "url": "https://open.spotify.com/artist/3aYtF0V0wYXBwmZ6aY3YWf"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "autobus",
+      "url": "https://open.spotify.com/track/0Wu0TH4AawIPzacHvmO9p0"
     },
     {
       "album": {
@@ -1576,7 +1594,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 216941,
       "name": "choque ascensor",
       "url": "https://open.spotify.com/track/2uIvUT6LM62NPTEKrOLBGt"
@@ -2160,7 +2178,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 179200,
       "name": "Dismorfia",
       "url": "https://open.spotify.com/track/6MxToHOYmYuNVMQiUtQxPX"
@@ -4471,6 +4489,28 @@
     },
     {
       "album": {
+        "name": "LLUVIA",
+        "url": "https://open.spotify.com/album/0FtB0rq1WIiKjr8eBDoxwy"
+      },
+      "artists": [
+        {
+          "name": "GRTSCH",
+          "url": "https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK"
+        },
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221033,
+      "name": "LLUVIA",
+      "url": "https://open.spotify.com/track/6Rd4gsyAv0VmhzK89dU5Yj"
+    },
+    {
+      "album": {
         "name": "Lo dejamos pasar",
         "url": "https://open.spotify.com/album/4WPHAAexMMYcF4O4KZK8yq"
       },
@@ -5383,6 +5423,24 @@
     },
     {
       "album": {
+        "name": "Mortal",
+        "url": "https://open.spotify.com/album/4gLVnfmlXBr4Tu03a7I1YJ"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180030,
+      "name": "Mortal",
+      "url": "https://open.spotify.com/track/6rSDfuX1u4ppgpuUvrNYMI"
+    },
+    {
+      "album": {
         "name": "Mr. Wells",
         "url": "https://open.spotify.com/album/270OSQn41T2ghmNR2fn98e"
       },
@@ -5550,7 +5608,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 222640,
       "name": "nada puedo hacer",
       "url": "https://open.spotify.com/track/4tJTksjnkBc6ZTkLznfyCI"
@@ -5808,6 +5866,24 @@
       "duration_ms": 224000,
       "name": "No Puedo Mas",
       "url": "https://open.spotify.com/track/6eKPUKVSVUbvUnHj2I2tJ8"
+    },
+    {
+      "album": {
+        "name": "no s\u00e9",
+        "url": "https://open.spotify.com/album/6z44re4pwE8Ye6YFOgJw7D"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60857,
+      "name": "no s\u00e9",
+      "url": "https://open.spotify.com/track/2TGuIQbw62MSxJzBkpF8dC"
     },
     {
       "album": {
@@ -6214,6 +6290,24 @@
       "duration_ms": 171692,
       "name": "Para tii",
       "url": "https://open.spotify.com/track/3Omr8bcHAZtQoxJeaWCamU"
+    },
+    {
+      "album": {
+        "name": "Par\u00eds (Junto a Ti)",
+        "url": "https://open.spotify.com/album/1qcti4BO471pTYWMFzS7J3"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156160,
+      "name": "Par\u00eds (Junto a Ti)",
+      "url": "https://open.spotify.com/track/60OhKzwpGr8zNuMij0mbk1"
     },
     {
       "album": {
@@ -7268,7 +7362,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 164000,
       "name": "Sal de mi Cabeza",
       "url": "https://open.spotify.com/track/0jCoDcCVoomnAmwqY5VFzT"
@@ -7544,7 +7638,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 212564,
       "name": "Si Nuestros Lazos",
       "url": "https://open.spotify.com/track/1zeeKyRxOHHc2z9CDrMSpT"

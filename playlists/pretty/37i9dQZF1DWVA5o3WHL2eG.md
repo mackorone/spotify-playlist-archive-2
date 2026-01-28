@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Magda
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,117 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,111 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 27 | [Brich mich](https://open.spotify.com/track/6Dvm3ZzyF7fXeHg4KBNJUB) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Pflaster](https://open.spotify.com/album/7iZAC44rL0HrhYyl74iIck) | 2:45 |
 | 28 | [Meteor](https://open.spotify.com/track/2OkB8iSkiFPgKuDKT5Bara) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [Everybody Loves](https://open.spotify.com/album/2pr4jK4HNc7ESD1TrcK3UX) | 2:26 |
 | 29 | [mein zimmer](https://open.spotify.com/track/1qlkKk4dEb9paErnBL4bAd) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [mein zimmer](https://open.spotify.com/album/3VwUQRuzAq3tza5OVCpse5) | 3:09 |
-| 30 | [Shoulders](https://open.spotify.com/track/25YhlblobWyjLS07Y1fMuj) | [Jo The Man The Music](https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ) | [Shoulders](https://open.spotify.com/album/0ZihHAPgNbyZdiW4SzIoET) | 3:24 |
-| 31 | [gute mädchen gehen dumm](https://open.spotify.com/track/46cJoNpnQOJP89gpK2NSwx) | [arella](https://open.spotify.com/artist/3Rhzf8qzrQb7yr0qUMEahd), [REEZA](https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e) | [gute mädchen gehen dumm](https://open.spotify.com/album/7e61nKNj1sbmKB0XLVpihU) | 2:38 |
+| 30 | [gute mädchen gehen dumm](https://open.spotify.com/track/46cJoNpnQOJP89gpK2NSwx) | [arella](https://open.spotify.com/artist/3Rhzf8qzrQb7yr0qUMEahd), [REEZA](https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e) | [gute mädchen gehen dumm](https://open.spotify.com/album/7e61nKNj1sbmKB0XLVpihU) | 2:38 |
+| 31 | [Shoulders](https://open.spotify.com/track/25YhlblobWyjLS07Y1fMuj) | [Jo The Man The Music](https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ) | [Shoulders](https://open.spotify.com/album/0ZihHAPgNbyZdiW4SzIoET) | 3:24 |
 | 32 | [Somebody Prayed For Me](https://open.spotify.com/track/2kAUqVkcNAtpvJsz4SabHB) | [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj) | [Somebody Prayed For Me](https://open.spotify.com/album/2JhIMSAnn399fFe7UttLKT) | 2:43 |
 | 33 | [Rush Hour Traffic](https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Rush Hour Traffic](https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y) | 4:24 |
 | 34 | [Keiner ist wie du](https://open.spotify.com/track/38JY4M2jAEFoq2fAQlGR1m) | [AVY](https://open.spotify.com/artist/1QtJHKvmKyBtgZjAbhADM6) | [Keiner ist wie du](https://open.spotify.com/album/6uZXJ2w3u8a1LCX4p2BIFr) | 2:54 |

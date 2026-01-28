@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,962 likes - 150 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,964 likes - 150 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 | 85 | [Reeds](https://open.spotify.com/track/569xsJRzYIWE6u8X9gAQRp) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Reeds](https://open.spotify.com/album/3cOBBX5eqMBl6WCQh9rFm1) | 1:48 |
 | 86 | [Later than Expected](https://open.spotify.com/track/6HgEAcfg947yBIDa4363gK) | [Taffey](https://open.spotify.com/artist/4MWmf6kH27GnNMCv2qTu0h) | [Later Than Expected](https://open.spotify.com/album/4sqMz9sqZ0Rvawoc4Bcvan) | 2:32 |
 | 87 | [Laundry Tessomancy](https://open.spotify.com/track/043xe58AMUGPJgCnRJynj9) | [Violet Blanca](https://open.spotify.com/artist/2CeqZvB8v9HCGr2tVb42rj) | [Laundry Tessomancy](https://open.spotify.com/album/0EJbkfTfesTIJYAPoInRKG) | 2:01 |
-| 88 | [Sweet Harmonies](https://open.spotify.com/track/6I0ri5qtbwAl0STxMXuMZo) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu) | [Sweet Harmonies](https://open.spotify.com/album/6hmAw4vIvPFP6n6u7kndCh) | 2:58 |
+| 88 | [Sweet Harmonies](https://open.spotify.com/track/6I0ri5qtbwAl0STxMXuMZo) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Cosmic Koala](https://open.spotify.com/artist/7d79IVUXdwHak8JhGMf8ef) | [Sweet Harmonies](https://open.spotify.com/album/6hmAw4vIvPFP6n6u7kndCh) | 2:58 |
 | 89 | [PIXEL DREAM](https://open.spotify.com/track/6ARebyz5EFvoNIVbNNyC6U) | [sleen.](https://open.spotify.com/artist/3X4HJ5umPM7L9AdqSwBEjh), [MOOD boy](https://open.spotify.com/artist/2YCuSc5zthk5gzM054mLOf) | [PIXEL DREAM](https://open.spotify.com/album/0oys9mx2oQOwMnIfBDkSSS) | 2:24 |
 | 90 | [Breathe](https://open.spotify.com/track/03fAshlHVXZ030E0iaUyHM) | [awaikaze](https://open.spotify.com/artist/4IOOoTGIXuV3J7jxOJTQh1), [Hanni](https://open.spotify.com/artist/14E7RzXOsb9iMithqexVOd), [Psylone](https://open.spotify.com/artist/1VsZq5rWtH7U1E3M2lpud2) | [Breathe](https://open.spotify.com/album/1izD2hg9LrbKaee9Cd5WWQ) | 2:05 |
 | 91 | [Butternut Cake](https://open.spotify.com/track/6jaeklBeX4iRE3YO1Nsk4U) | [Wruce Billis](https://open.spotify.com/artist/4EhDrnqEaFfNnjJkljUmRx) | [Butternut Cake](https://open.spotify.com/album/4pHMXFrovfUgJcbGmeHVYf) | 2:13 |

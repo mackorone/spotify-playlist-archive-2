@@ -1568,7 +1568,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 324638,
       "name": "By the Light of the Moon",
       "url": "https://open.spotify.com/track/3Z5mBurlk3jbE7dAUBkptf"
@@ -7600,6 +7600,24 @@
       "duration_ms": 274625,
       "name": "Song of Singers",
       "url": "https://open.spotify.com/track/318053hJDlClbgtcdjnjWU"
+    },
+    {
+      "album": {
+        "name": "Soul Seeker",
+        "url": "https://open.spotify.com/album/4Fm9TGaxqrQFe9gF5TIsUq"
+      },
+      "artists": [
+        {
+          "name": "Polygonia",
+          "url": "https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315043,
+      "name": "Soul Seeker",
+      "url": "https://open.spotify.com/track/02YpqXX1eHR1eYjxIdFR0A"
     },
     {
       "album": {

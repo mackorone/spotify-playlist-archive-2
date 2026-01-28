@@ -1,12 +1,12 @@
 {
   "description": "This is Neck Deep. The essential tracks, all in one playlist.",
-  "num_followers": 72278,
+  "num_followers": 72287,
   "original_name": "This Is Neck Deep",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXVdAAAAAAArOeZV/dSK+BJ4QF8YVDGo",
+  "snapshot_id": "aXaugAAAAAAme8KHq5VPU6mZY6/GHSqY",
   "tracks": [
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neck Deep (Dumbfuck Edition)",
-        "url": "https://open.spotify.com/album/3xBppdCksi42RQpNGaCnCa"
+        "name": "The Peace And The Panic",
+        "url": "https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 172480,
-      "name": "STFU",
-      "url": "https://open.spotify.com/track/5gzy2eJn42ED4WoKd9Gpsn"
+      "duration_ms": 218252,
+      "name": "Where Do We Go When We Go",
+      "url": "https://open.spotify.com/track/1MpimPh4legrECmPHcdofR"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Peace And The Panic",
-        "url": "https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3"
+        "name": "Neck Deep (Dumbfuck Edition)",
+        "url": "https://open.spotify.com/album/3xBppdCksi42RQpNGaCnCa"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 218252,
-      "name": "Where Do We Go When We Go",
-      "url": "https://open.spotify.com/track/1MpimPh4legrECmPHcdofR"
+      "duration_ms": 172480,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/5gzy2eJn42ED4WoKd9Gpsn"
     },
     {
       "added_at": null,

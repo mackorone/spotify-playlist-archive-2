@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:1b6d3fFLaHyLRs114XalaA">Kromow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,197 likes - 105 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,220 likes - 105 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

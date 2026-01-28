@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: JEONG HYO BEAN \(정효빈\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,222 songs - 3 day 2 hr 5 min
+1,223 songs - 3 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,7 +488,7 @@
 | [I Want You Too](https://open.spotify.com/track/0AWUDCy7FkbX4X8YhEyeJl) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [I Want You Too](https://open.spotify.com/album/12c2y4YcySOaEyG3BjohiI) | 3:45 | 2026-01-05 |  |
 | [I was wrong](https://open.spotify.com/track/2Nudb9hCRVGqePHBBedTic) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Songs from a bed](https://open.spotify.com/album/3d8OKUqQ7KBBK7iFMnK1ZE) | 4:30 | 2021-12-12 | 2022-06-25 |
 | [I Will Give You Everything](https://open.spotify.com/track/2pW1y2KEOrgSFJyzgU8LvZ) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [\[Vol.48\] You Hee yul's Sketchbook : 26th Voice 'Sketchbook X Jannabi'](https://open.spotify.com/album/1mzynYOm6D6r6hAOUEFjIv) | 3:32 | 2021-12-21 | 2022-06-23 |
-| [I Wonder \(feat\. SHIN YE CHAN of LUCY\)](https://open.spotify.com/track/7cr801LVaq0SUOxF8VnbOE) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj), [SHIN YE CHAN](https://open.spotify.com/artist/4ZvGSB96XtyOLpHMCBuc2p) | [Antiguo Trunk](https://open.spotify.com/album/5EWIHx3EGfOlcYWVhlNIfH) | 4:25 | 2025-11-28 |  |
+| [I Wonder \(feat\. SHIN YE CHAN of LUCY\)](https://open.spotify.com/track/7cr801LVaq0SUOxF8VnbOE) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj), [SHIN YE CHAN](https://open.spotify.com/artist/4ZvGSB96XtyOLpHMCBuc2p) | [Antiguo Trunk](https://open.spotify.com/album/5EWIHx3EGfOlcYWVhlNIfH) | 4:25 | 2025-11-28 | 2026-01-28 |
 | [I'll Eat Up Your Darkness](https://open.spotify.com/track/4NKa7tW2N6mCdQSJKCP2hF) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [Be Trapped In A Picture](https://open.spotify.com/album/6fhEPy3mHzSdp87i48Yono) | 3:35 | 2023-07-17 | 2023-07-28 |
 | [I'll Get Off](https://open.spotify.com/track/5benJ7SrT8nDWv5folm7bi) | [Im DAI](https://open.spotify.com/artist/09wVtuZNFaYTjO4bDX8fKE) | [I'll Get Off](https://open.spotify.com/album/0GlIcMH98qVp8K8UmbuS0h) | 3:22 | 2024-01-05 | 2024-01-16 |
 | [I'm Going](https://open.spotify.com/track/1Mj5qNzOaOJRRJZc5tA3KP) | [손예지](https://open.spotify.com/artist/5aNEtOd2W7WCBb0HtZ53B8) | [I'm Going](https://open.spotify.com/album/7f1FVjcvBUGQ99p5rkB1nQ) | 2:53 | 2024-04-30 | 2024-05-10 |
@@ -597,6 +597,7 @@
 | [Lock me up](https://open.spotify.com/track/0PDYx9zpcOnzIW4Epfk2Bb) | [GooNight](https://open.spotify.com/artist/6HeK6beIohZ8q4L8me1iId) | [Lock me up](https://open.spotify.com/album/3TjzPxoh0SfQSdxAq9GMfn) | 3:12 | 2022-07-08 | 2022-08-05 |
 | [Lone](https://open.spotify.com/track/1AF2rcwvxpkUCjicFY4dSd) | [evenif](https://open.spotify.com/artist/26sLRymbW9mmoW9g74o0AF) | [AoB Compilation Album Vol.1 : Mutant](https://open.spotify.com/album/6mZZ2aLUeB9zoCWpapzbRb) | 3:10 | 2025-01-30 | 2025-04-11 |
 | [Look At Me Look At Me](https://open.spotify.com/track/5t2XHhWwKqgE3ZRmj8vVJ7) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [Lesser Gods And Chimeras](https://open.spotify.com/album/7Gb4evIU7fNgPd3Gp7tXaC) | 3:24 | 2024-11-06 | 2024-11-21 |
+| [Look at us falling](https://open.spotify.com/track/50hwSapyIoaGiqfQSR9ocj) | [2danji](https://open.spotify.com/artist/3eAafmKFLEYAq6y9ZrWXtS) | [a public walk](https://open.spotify.com/album/1PEy98fZ5FmI2R71CCK2zt) | 1:09 | 2026-01-27 |  |
 | [Loser \(with LEE DO of ONEUS\)](https://open.spotify.com/track/1bBuZZJacnkfvPQoQznjZk) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [LEE DO of ONEUS](https://open.spotify.com/artist/39r6KaYmPsgtidLS2YItV1) | [Loser, Game Over, You're the Champion](https://open.spotify.com/album/4G7tZZIl0gis3TVcYSips2) | 3:27 | 2025-01-30 | 2025-04-11 |
 | [lost](https://open.spotify.com/track/53zgUNqd4DCRSRQUn4J4aJ) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [lost](https://open.spotify.com/album/3IAAhPOt3Ui36lJQ93Y7x8) | 3:50 | 2022-03-31 | 2022-07-27 |
 | [lost](https://open.spotify.com/track/26niEovvgyaq9po2KubsJI) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [lost](https://open.spotify.com/album/131Eo9LOhFcv05gClAIpCT) | 4:34 | 2022-06-08 | 2022-10-16 |

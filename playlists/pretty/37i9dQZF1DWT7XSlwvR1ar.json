@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2120158,
+  "num_followers": 2120133,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-01-20 15:28:32",
       "album": {
+        "name": "I'm Not Bothered By The Rain",
+        "url": "https://open.spotify.com/album/44X5MVji24cTnNUGK1aZnO"
+      },
+      "artists": [
+        {
+          "name": "Eric McEntee",
+          "url": "https://open.spotify.com/artist/1bUcNo5RZtVzBDATua2Xxz"
+        }
+      ],
+      "duration_ms": 225867,
+      "name": "I'm Not Bothered By The Rain",
+      "url": "https://open.spotify.com/track/2nCuMRAYJ85Ee1GBeASEti"
+    },
+    {
+      "added_at": "2026-01-20 15:28:32",
+      "album": {
         "name": "Bear Creek",
         "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 191647,
       "name": "One Step Ahead",
       "url": "https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo"
-    },
-    {
-      "added_at": "2026-01-20 15:28:32",
-      "album": {
-        "name": "I'm Not Bothered By The Rain",
-        "url": "https://open.spotify.com/album/44X5MVji24cTnNUGK1aZnO"
-      },
-      "artists": [
-        {
-          "name": "Eric McEntee",
-          "url": "https://open.spotify.com/artist/1bUcNo5RZtVzBDATua2Xxz"
-        }
-      ],
-      "duration_ms": 225867,
-      "name": "I'm Not Bothered By The Rain",
-      "url": "https://open.spotify.com/track/2nCuMRAYJ85Ee1GBeASEti"
     },
     {
       "added_at": "2026-01-20 15:28:32",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-01-20 15:28:32",
       "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 253613,
-      "name": "Sunblind",
-      "url": "https://open.spotify.com/track/308prODCCD0O660tIktbUi"
-    },
-    {
-      "added_at": "2026-01-20 15:28:32",
-      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/7MMCqgxXaZkGvmSYSl4hp7"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 217983,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/0T4SSmBlTtKAvcqZo8LT6i"
+    },
+    {
+      "added_at": "2026-01-20 15:28:32",
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 253613,
+      "name": "Sunblind",
+      "url": "https://open.spotify.com/track/308prODCCD0O660tIktbUi"
     },
     {
       "added_at": "2026-01-20 15:28:32",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2026-01-20 15:28:32",
       "album": {
+        "name": "Brighter Day",
+        "url": "https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Brighter Day",
+      "url": "https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9"
+    },
+    {
+      "added_at": "2026-01-20 15:28:32",
+      "album": {
         "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 246506,
       "name": "Dare You To Move (Ryan Tedder from OneRepublic Version)",
       "url": "https://open.spotify.com/track/3JPUOM88K8XjImQiZixdhy"
-    },
-    {
-      "added_at": "2026-01-20 15:28:32",
-      "album": {
-        "name": "Brighter Day",
-        "url": "https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT"
-      },
-      "artists": [
-        {
-          "name": "Michael Franti & Spearhead",
-          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "Brighter Day",
-      "url": "https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9"
     },
     {
       "added_at": "2026-01-20 15:28:32",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-01-20 15:28:32",
       "album": {
-        "name": "Forget About Us",
-        "url": "https://open.spotify.com/album/3da8kVluRdfiDuS2XP4E8i"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 196359,
-      "name": "Forget About Us",
-      "url": "https://open.spotify.com/track/5jvwQYcagkSTkpMkZlk9cC"
-    },
-    {
-      "added_at": "2026-01-20 15:28:32",
-      "album": {
         "name": "Sweet Unknown",
         "url": "https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 238933,
       "name": "Sweet Unknown",
       "url": "https://open.spotify.com/track/6ypf8ClLV8sPrJPp2WwFoh"
+    },
+    {
+      "added_at": "2026-01-20 15:28:32",
+      "album": {
+        "name": "Forget About Us",
+        "url": "https://open.spotify.com/album/3da8kVluRdfiDuS2XP4E8i"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "duration_ms": 196359,
+      "name": "Forget About Us",
+      "url": "https://open.spotify.com/track/5jvwQYcagkSTkpMkZlk9cC"
     },
     {
       "added_at": "2026-01-20 15:28:32",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-01-20 15:28:32",
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/6zP9AZREIcUvAjpX2lKRIl"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 235240,
-      "name": "Expectations",
-      "url": "https://open.spotify.com/track/7sIONDBUsDWYUll2uwnjY9"
-    },
-    {
-      "added_at": "2026-01-20 15:28:32",
-      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 181706,
       "name": "Go In Light",
       "url": "https://open.spotify.com/track/1mUZTXHmvSUR7Hv3g5NXYq"
+    },
+    {
+      "added_at": "2026-01-20 15:28:32",
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/6zP9AZREIcUvAjpX2lKRIl"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 235240,
+      "name": "Expectations",
+      "url": "https://open.spotify.com/track/7sIONDBUsDWYUll2uwnjY9"
     },
     {
       "added_at": "2026-01-20 15:28:32",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-01-20 15:28:32",
       "album": {
-        "name": "Special Occasion",
-        "url": "https://open.spotify.com/album/0VseNTH5jew2laWAJ0mKuX"
-      },
-      "artists": [
-        {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
-        }
-      ],
-      "duration_ms": 194575,
-      "name": "This Year",
-      "url": "https://open.spotify.com/track/0uk2K61goFiYbajsFToXU8"
-    },
-    {
-      "added_at": "2026-01-20 15:28:32",
-      "album": {
         "name": "Can You Handle My Love??",
         "url": "https://open.spotify.com/album/5HuxJH43h3FTR8W258lhps"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 256326,
       "name": "Can You Handle My Love??",
       "url": "https://open.spotify.com/track/7GKMstqz3UYkFvlX93qCyz"
+    },
+    {
+      "added_at": "2026-01-20 15:28:32",
+      "album": {
+        "name": "Special Occasion",
+        "url": "https://open.spotify.com/album/0VseNTH5jew2laWAJ0mKuX"
+      },
+      "artists": [
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        }
+      ],
+      "duration_ms": 194575,
+      "name": "This Year",
+      "url": "https://open.spotify.com/track/0uk2K61goFiYbajsFToXU8"
     },
     {
       "added_at": "2026-01-20 15:28:32",
@@ -2091,18 +2091,18 @@
     {
       "added_at": "2026-01-20 15:28:32",
       "album": {
-        "name": "Black Jeans",
-        "url": "https://open.spotify.com/album/1CVxayI7MG3L73PgA1DCz6"
+        "name": "My Own",
+        "url": "https://open.spotify.com/album/5Kz5Dir1rDiLh9g0A5SwRC"
       },
       "artists": [
         {
-          "name": "Lucie Silvas",
-          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
         }
       ],
-      "duration_ms": 306600,
-      "name": "Black Jeans",
-      "url": "https://open.spotify.com/track/2vBnxZkr6K0Py6iTxHXUKS"
+      "duration_ms": 210608,
+      "name": "My Own",
+      "url": "https://open.spotify.com/track/7pQMGkL6LImxSxHHuqgvpe"
     }
   ],
   "unique_name": "Totally Stress Free",

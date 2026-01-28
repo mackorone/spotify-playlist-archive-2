@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 
 > The best from Britain's vibrant scene\. Cover: <br/>Amy Gadiaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,264 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,266 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 23 | [GREEN LIGHT](https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [GREEN LIGHT](https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA) | 2:55 |
 | 24 | [The Feels](https://open.spotify.com/track/70UDDqd7iNr8oEEkIRsPBe) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [The Feels](https://open.spotify.com/album/5ykVDy6GFzq8KhpKaUoFQa) | 2:56 |
 | 25 | [I'm The Greatest Star](https://open.spotify.com/track/4V06hk4ozch7R6pmHruhHk) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [I'm The Greatest Star](https://open.spotify.com/album/3gOAdcPP8ict0JEsxdKyw1) | 2:38 |
-| 26 | [Old Devil Moon](https://open.spotify.com/track/593JQgGYODUwv0Es7H847C) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Old Devil Moon](https://open.spotify.com/album/0P5UfQqY9ZiL3YxDv0MigW) | 2:54 |
-| 27 | [No Others](https://open.spotify.com/track/3xuYB0Utwmn2KFxAWrKDe7) | [Momoko Gill](https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF) | [No Others / When Palestine Is Free](https://open.spotify.com/album/3YREK1AXnlQLgmgt9kmRwW) | 4:26 |
+| 26 | [No Others](https://open.spotify.com/track/3xuYB0Utwmn2KFxAWrKDe7) | [Momoko Gill](https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF) | [No Others / When Palestine Is Free](https://open.spotify.com/album/3YREK1AXnlQLgmgt9kmRwW) | 4:26 |
+| 27 | [Old Devil Moon](https://open.spotify.com/track/593JQgGYODUwv0Es7H847C) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Old Devil Moon](https://open.spotify.com/album/0P5UfQqY9ZiL3YxDv0MigW) | 2:54 |
 | 28 | [Sure](https://open.spotify.com/track/6FfNMWBpPWrUUfrg5Jstym) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Sure](https://open.spotify.com/album/7uMJzHFEizcVMUMDJtkoxW) | 4:08 |
 | 29 | [DON’T LISTEN](https://open.spotify.com/track/6T7XVB4A3sDkcD22DgzeqJ) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [DON’T LISTEN](https://open.spotify.com/album/7KXlRAmcindMlfpXMZskIN) | 2:57 |
 | 30 | [Different Kind of Lonely](https://open.spotify.com/track/5rwDjyEiyz9RJQS71uJ6pN) | [Amber Burgoyne](https://open.spotify.com/artist/6ywsm0W8iqUXa55S06iJq9) | [Different Kind of Lonely](https://open.spotify.com/album/2TzZEKSM0sgG3goO2CN2rd) | 3:16 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 46 | [How We Roll \- feat\. Jazzie B](https://open.spotify.com/track/4jOiGv9ckEKPpL6ETVVqhm) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG), [Jazzie B.](https://open.spotify.com/artist/2Bohv14bNCQi67Ft5pWI0g) | [How We Roll \(feat\. Jazzie B\)](https://open.spotify.com/album/3Gnu7ZvEKnqB2WqvXe5lua) | 7:57 |
 | 47 | [Pink](https://open.spotify.com/track/3q1uWf6BulnqldbYrDJ45U) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pink](https://open.spotify.com/album/0utv7DeJSHoEHBYu0kol5R) | 3:18 |
 | 48 | [Butter](https://open.spotify.com/track/64FLB8me1Fb0XV0YO8ntqC) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Butter](https://open.spotify.com/album/0kHYxQbKPKpWYSDwY3kjOo) | 3:01 |
-| 49 | [Don Gino](https://open.spotify.com/track/5ly0JKbOvlmkyIww75EBeQ) | [oreglo](https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt) | [THE WHIRR](https://open.spotify.com/album/5Ub4eoURboM3hSweAvLLqx) | 5:30 |
-| 50 | [Winter Sun](https://open.spotify.com/track/0DyL1sl00wNYaYA8gqdHEp) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [FIELDNOTES: COMPLETE](https://open.spotify.com/album/4wIkfYdTESbJgntZt1M108) | 2:59 |
+| 49 | [Winter Sun](https://open.spotify.com/track/0DyL1sl00wNYaYA8gqdHEp) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [FIELDNOTES: COMPLETE](https://open.spotify.com/album/4wIkfYdTESbJgntZt1M108) | 2:59 |
+| 50 | [Don Gino](https://open.spotify.com/track/5ly0JKbOvlmkyIww75EBeQ) | [oreglo](https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt) | [THE WHIRR](https://open.spotify.com/album/5Ub4eoURboM3hSweAvLLqx) | 5:30 |
 | 51 | [Lifetones](https://open.spotify.com/track/0gouDswj0R5jne7YUUrlIO) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [All The Quiet \(Part I\)](https://open.spotify.com/album/0efFrXZr98tY3O5qkAGQB7) | 8:07 |
 | 52 | [I Get Along Without You Very Well](https://open.spotify.com/track/0FSv96L0MHQLsqNqz4FSAA) | [Hohnen Ford](https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW) | [I Get Along Without You Very Well](https://open.spotify.com/album/0TalkBjr8BLBQdfDYPgbMh) | 2:58 |
 | 53 | [Give Me Time](https://open.spotify.com/track/3p1bQx6kqm8p9PCFELKkNG) | [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [Give Me Time](https://open.spotify.com/album/6yIT2IQGECZ0BWl3krrL3J) | 3:39 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 55 | [We Have Each Other \- Marla Kether Remix](https://open.spotify.com/track/24ZAd38hq1QWkbvu5UMfbW) | [TC & the Groove Family](https://open.spotify.com/artist/47DpSgD00hWJA970gp7nlZ), [Plumm](https://open.spotify.com/artist/17goxueRDomjijRHKaaQpT), [Marla Kether](https://open.spotify.com/artist/6FkMrtFxVIbhdx0y62sTCU) | [We Have Each Other: Remixed](https://open.spotify.com/album/3PsNU2NkYqaAOYqlCChIHu) | 3:48 |
 | 56 | [Landlord blues](https://open.spotify.com/track/4wiIAWolI7HefrUgehfAx6) | [SELL EVERYTHING](https://open.spotify.com/artist/3U5BOUTIws5YtSMemhKY87) | [Landlord blues](https://open.spotify.com/album/5RPLrYO2Xvp9r3jpquJilH) | 2:03 |
 | 57 | [Dau Funud](https://open.spotify.com/track/6tag4CtLEjOzBiC8rIguhv) | [Malan](https://open.spotify.com/artist/4lTwsxnU59QAenYUzJteBl) | [Dau Funud](https://open.spotify.com/album/7kjY3gcsD6sBFw9iqz9FGc) | 3:54 |
-| 58 | [Pinch](https://open.spotify.com/track/2oBc2lx30NnvvNmRsm8J2f) | [St\. Barbe](https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v), [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Pinch](https://open.spotify.com/album/4dcQ7NEJlOUFp5mkYnP8QD) | 4:37 |
-| 59 | [Love Is Like A Movie](https://open.spotify.com/track/5va9bIPu28T4tBERLnmc3M) | [Ashley Henry](https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw), [Judi Jackson](https://open.spotify.com/artist/6cc4nTPbOmmi0oWqMKL6fU) | [Who We Are](https://open.spotify.com/album/1104vnzxmRlJSJplPf25Xz) | 4:34 |
+| 58 | [Love Is Like A Movie](https://open.spotify.com/track/5va9bIPu28T4tBERLnmc3M) | [Ashley Henry](https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw), [Judi Jackson](https://open.spotify.com/artist/6cc4nTPbOmmi0oWqMKL6fU) | [Who We Are](https://open.spotify.com/album/1104vnzxmRlJSJplPf25Xz) | 4:34 |
+| 59 | [Pinch](https://open.spotify.com/track/2oBc2lx30NnvvNmRsm8J2f) | [St\. Barbe](https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v), [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Pinch](https://open.spotify.com/album/4dcQ7NEJlOUFp5mkYnP8QD) | 4:37 |
 | 60 | [BabyGoated](https://open.spotify.com/track/11rX5L5m4Bjn3sJ6xAQg6W) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [BabyGoated](https://open.spotify.com/album/3PhOU4yafgKTKWOYM0k0yH) | 3:58 |
 | 61 | [Yearning](https://open.spotify.com/track/6f1jwxWoobdY2q9zrq28nY) | [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [Yearning](https://open.spotify.com/album/1PexTdqHu6pScyHcvDrFyZ) | 3:27 |
 | 62 | [It Could Be](https://open.spotify.com/track/65k36tJQgts8gqSMnWx47m) | [Amanda Whiting](https://open.spotify.com/artist/6PGBkPJLeNHQQTM3wvlVv5) | [Can You See Me Now?](https://open.spotify.com/album/4NuVAezhA18lt3V9wG75qs) | 3:17 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 69 | [Old Friend; The Sea](https://open.spotify.com/track/6GBvm9H1J9pIIfDWcaF3Pp) | [Vega Trails](https://open.spotify.com/artist/0gbsttCxz1wkYMjN64WCgR) | [Sierra Tracks](https://open.spotify.com/album/7HLOgO7dhpJ3gQYQnbczKJ) | 4:37 |
 | 70 | [We're Not Free](https://open.spotify.com/track/715GdTHoLH2FOLfZ3GCvi9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [We're Not Free](https://open.spotify.com/album/7nsFzOZtsC433KokTp75Hm) | 4:51 |
 | 71 | [9 Months](https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Avoid The Drones & 9 Months](https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc) | 3:34 |
-| 72 | [Let Go](https://open.spotify.com/track/5BoznWsDzJJrqjoqZZ2qiN) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Let It Unfold](https://open.spotify.com/album/0jPTgYOgxpyQkrjLxfAe5O) | 4:13 |
-| 73 | [Alchemy](https://open.spotify.com/track/1UuwA62t7oWjSj7RYewQ04) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Alchemy](https://open.spotify.com/album/2x9XPuXjxl9e3nJratHeGF) | 4:10 |
-| 74 | [Higher Spirit](https://open.spotify.com/track/0DNIOOSHcqdZLe9v1DlZCq) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Higher Spirit](https://open.spotify.com/album/79QWCx9INcnPfwoR2qRKPL) | 4:06 |
-| 75 | [Got a Lil Luv](https://open.spotify.com/track/0RS89gLDcUVs441ZUAVuA0) | [Isabelle Mettle](https://open.spotify.com/artist/0wzicZBrVg1SpiMsZzNmFC) | [Changes Deluxe](https://open.spotify.com/album/0nIMJVYQ41dBMDASeQ3mWc) | 2:32 |
+| 72 | [Alchemy](https://open.spotify.com/track/1UuwA62t7oWjSj7RYewQ04) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Alchemy](https://open.spotify.com/album/2x9XPuXjxl9e3nJratHeGF) | 4:10 |
+| 73 | [Let Go](https://open.spotify.com/track/5BoznWsDzJJrqjoqZZ2qiN) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Let It Unfold](https://open.spotify.com/album/0jPTgYOgxpyQkrjLxfAe5O) | 4:13 |
+| 74 | [Got a Lil Luv](https://open.spotify.com/track/0RS89gLDcUVs441ZUAVuA0) | [Isabelle Mettle](https://open.spotify.com/artist/0wzicZBrVg1SpiMsZzNmFC) | [Changes Deluxe](https://open.spotify.com/album/0nIMJVYQ41dBMDASeQ3mWc) | 2:32 |
+| 75 | [Higher Spirit](https://open.spotify.com/track/0DNIOOSHcqdZLe9v1DlZCq) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Higher Spirit](https://open.spotify.com/album/79QWCx9INcnPfwoR2qRKPL) | 4:06 |
 
 Snapshot ID: `AAAAAOtebxdN9uGP7GSJClSt9r1y2m7Y`

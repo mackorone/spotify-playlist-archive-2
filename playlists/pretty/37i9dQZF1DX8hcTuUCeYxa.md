@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Arctic Monkeys
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,739 likes - 89 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,740 likes - 89 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 38 | [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 |
 | 39 | [Mescalero Ranger \- Single Edit](https://open.spotify.com/track/1oX3WaGQLv8kG3Yu0YKfe0) | [Reverend Stomp](https://open.spotify.com/artist/6mYJ0jLo07rUZV1E9QdUCP) | [Mescalero Ranger](https://open.spotify.com/album/0pMGlQgiknQYlt1JPuDlKH) | 2:58 |
 | 40 | [Horses](https://open.spotify.com/track/7HqfjNxdfiagGuIrIVBiqS) | [Mink](https://open.spotify.com/artist/021q1fOEcfqxtlCtJs868v) | [Horses](https://open.spotify.com/album/4KZLbvjHKjqvVnOjpAPBY7) | 4:20 |
-| 41 | [Against the Dying of the Light](https://open.spotify.com/track/1PaWcBii4kigvhEG46a7QP) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Against the Dying of the Light](https://open.spotify.com/album/7cTCFQBgZ7ywhyp44I82FI) | 2:28 |
+| 41 | [Against The Dying Of The Light](https://open.spotify.com/track/1PaWcBii4kigvhEG46a7QP) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Against The Dying Of The Light](https://open.spotify.com/album/7cTCFQBgZ7ywhyp44I82FI) | 2:28 |
 | 42 | [Popo](https://open.spotify.com/track/78EYjBI1NZZ4EHsPDk0RQ1) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT), [Joe Kaptein](https://open.spotify.com/artist/7FOtz77QG8IybeuiPvfOdE) | [Popo](https://open.spotify.com/album/1IkfJZp49ajbXZiYT2BUoa) | 5:05 |
 | 43 | [How the Story Ends](https://open.spotify.com/track/5PSLg6pRv8oKvjTArGsay0) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha) | [How the Story Ends](https://open.spotify.com/album/58xiEv2a7ni0ShWJ7cToRX) | 3:56 |
 | 44 | [Elitest G.O.A.T.](https://open.spotify.com/track/2p9VQReMQ1yHLMEdH3KrWc) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Elitest G.O.A.T.](https://open.spotify.com/album/2wgsMdq9nZr7YhHjrcjSKF) | 3:25 |

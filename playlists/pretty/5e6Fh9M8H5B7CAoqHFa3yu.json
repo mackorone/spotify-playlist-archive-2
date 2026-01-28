@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 249,
+  "num_followers": 250,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAH8o0p3PeR0hq8ZntVH+qiz8fBLRZY",
+  "snapshot_id": "AAAH86ROgdVdps40RTUkhE2RxOoMmw9g",
   "tracks": [
     {
       "added_at": "2026-01-21 01:10:56",
@@ -31079,6 +31079,26 @@
       "duration_ms": 146461,
       "name": "Vienna",
       "url": "https://open.spotify.com/track/0PCzNRFKGyraIzhkmMKHrJ"
+    },
+    {
+      "added_at": "2026-01-28 00:37:19",
+      "album": {
+        "name": "Dementia",
+        "url": "https://open.spotify.com/album/3KY2uEhWMJchHmNo5Vae84"
+      },
+      "artists": [
+        {
+          "name": "Sunshine Riot Commune",
+          "url": "https://open.spotify.com/artist/1sAEqe2vPCiXX10D3wI6HE"
+        },
+        {
+          "name": "Mia Grace",
+          "url": "https://open.spotify.com/artist/5AECGqaYMI5T8p1DOa4TRS"
+        }
+      ],
+      "duration_ms": 243062,
+      "name": "Dementia",
+      "url": "https://open.spotify.com/track/5IHb39NmNczAve6KhtAVrX"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

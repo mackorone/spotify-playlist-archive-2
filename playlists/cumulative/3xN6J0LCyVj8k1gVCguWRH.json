@@ -21395,6 +21395,24 @@
     },
     {
       "album": {
+        "name": "damned if I don't",
+        "url": "https://open.spotify.com/album/0tTDc034bd5tLqiKS01onX"
+      },
+      "artists": [
+        {
+          "name": "Salyce",
+          "url": "https://open.spotify.com/artist/4PzHn82i1s9iFayUh4m1t6"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128341,
+      "name": "damned if I don't",
+      "url": "https://open.spotify.com/track/6tt4NEl8jZ0krrSpRsSq9O"
+    },
+    {
+      "album": {
         "name": "Danca",
         "url": "https://open.spotify.com/album/5OPIgDtCyFRayVMFBGmk2I"
       },
@@ -37208,7 +37226,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 229086,
       "name": "Good Grief",
       "url": "https://open.spotify.com/track/0OFOf0vAz1EL18MtIPRoOo"
@@ -80742,6 +80760,24 @@
     {
       "album": {
         "name": "Shake",
+        "url": "https://open.spotify.com/album/05cMpKkrVzkNlhqDMo1wgj"
+      },
+      "artists": [
+        {
+          "name": "Flo Naegeli",
+          "url": "https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149992,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/6mjCoSQMt4wPHQ0OfyBlH2"
+    },
+    {
+      "album": {
+        "name": "Shake",
         "url": "https://open.spotify.com/album/3dI7Nme7IkKWwdWJzYQafK"
       },
       "artists": [
@@ -88745,24 +88781,6 @@
     },
     {
       "album": {
-        "name": "CATCH!",
-        "url": "https://open.spotify.com/album/2qjm4Sjhcm4Qyz67JeqiWe"
-      },
-      "artists": [
-        {
-          "name": "Cameron Dallas",
-          "url": "https://open.spotify.com/artist/5s3rUylqooMyGsFE0rOFJT"
-        }
-      ],
-      "date_added": "2026-01-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 139199,
-      "name": "Sweat, Sweaty Dreams",
-      "url": "https://open.spotify.com/track/3Apx14xS5IpHTbcdpS4mZp"
-    },
-    {
-      "album": {
         "name": "Sweden: Gold Dust",
         "url": "https://open.spotify.com/album/36cuYXCs5ITUFd2WdfJSxl"
       },
@@ -88988,6 +89006,24 @@
       "duration_ms": 187009,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/6nBx84udC1ObHokN7gGf35"
+    },
+    {
+      "album": {
+        "name": "CATCH!",
+        "url": "https://open.spotify.com/album/2qjm4Sjhcm4Qyz67JeqiWe"
+      },
+      "artists": [
+        {
+          "name": "Cameron Dallas",
+          "url": "https://open.spotify.com/artist/5s3rUylqooMyGsFE0rOFJT"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139199,
+      "name": "Sweet, Sweaty Dreams",
+      "url": "https://open.spotify.com/track/3Apx14xS5IpHTbcdpS4mZp"
     },
     {
       "album": {
@@ -98178,7 +98214,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 234000,
       "name": "Untitled (Body and Soul)",
       "url": "https://open.spotify.com/track/0JsyJnT08uumD5tELi548v"

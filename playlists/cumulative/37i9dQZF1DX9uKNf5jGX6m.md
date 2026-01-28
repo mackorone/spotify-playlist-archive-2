@@ -4,7 +4,7 @@
 
 > New age music for balancing mind and body.
 
-968 songs - 1 day 23 hr 34 min
+973 songs - 1 day 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,6 +340,7 @@
 | [Flor Espina](https://open.spotify.com/track/166sXNEu8LOKQeMmqWo7SA) | [Iridaceae Fields](https://open.spotify.com/artist/6pmTFeAL5pQmrE3jZ3HMW1) | [Flor Espina](https://open.spotify.com/album/6BOeH3ak5BXocqzHkDq9fL) | 2:35 | 2022-10-03 | 2024-07-27 |
 | [Flow State](https://open.spotify.com/track/3pUQApLLT0iAnxGbe1IC8q) | [Somaya Kudri](https://open.spotify.com/artist/09RcU7Ss356i0nOIe9Mqys) | [Flow State](https://open.spotify.com/album/2JgRSgWb6qxviNI3SN0B6W) | 2:37 | 2022-10-15 | 2025-01-08 |
 | [Fly Among Clouds](https://open.spotify.com/track/6Kf6iSevn3QqANd6SHHHOk) | [Taylor Dawson](https://open.spotify.com/artist/7triIHgYSjbQ6ahcPBgicy) | [Stillness of Mind](https://open.spotify.com/album/479Isl9ZcoSHeZtKPB8bX4) | 3:18 | 2021-12-21 | 2023-08-11 |
+| [Foldlight](https://open.spotify.com/track/084sF0a4BzMG6CM1TIvdGC) | [Solen Taylor](https://open.spotify.com/artist/4p9by6GGMfgVGEBqiYhXqB) | [Foldlight](https://open.spotify.com/album/154AjL2xhWUk2Y0iwwVhlX) | 2:34 | 2026-01-27 |  |
 | [Following](https://open.spotify.com/track/61oaJ6eADhj3d59FwZXYPh) | [St/llar](https://open.spotify.com/artist/1gfLjawL26XCWfHI8lyi5B) | [Guiding Light](https://open.spotify.com/album/2A2B37rbYWXaHP7RqSBgHr) | 2:31 | 2022-11-25 | 2024-12-13 |
 | [Fondo](https://open.spotify.com/track/3YsadWxIYFPZY3D4LmXqZO) | [Cthulhu Ramón](https://open.spotify.com/artist/74jJkqez2clBfaCi76V7CW) | [Fondo](https://open.spotify.com/album/7jLqHed1TjbDIlIicn8jt9) | 2:53 | 2022-11-25 | 2023-08-11 |
 | [For A While](https://open.spotify.com/track/5Tjrn34j1dJWe3LUpul75B) | [Astrid Whitlock](https://open.spotify.com/artist/2CJRRtlFgGB0RXblglfayQ) | [For A While](https://open.spotify.com/album/7b9wbQZHYq0R0LU7R7Q9NV) | 3:12 | 2023-06-20 | 2024-09-07 |
@@ -370,6 +371,7 @@
 | [Glowing](https://open.spotify.com/track/2caSMfpQAY2wTvb3kgYirk) | [Ilumina](https://open.spotify.com/artist/7nvOsk2E0bUlBJ0R4sakht) | [Glowing](https://open.spotify.com/album/4DitEOWiNtUc6kl4KOUk5l) | 2:13 | 2022-10-15 | 2025-05-08 |
 | [Glänta](https://open.spotify.com/track/75w6qH6tVL9yij3NrcLrys) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Glänta](https://open.spotify.com/album/5QCFXzAomqb6o4WcdsSIFJ) | 3:04 | 2025-02-26 |  |
 | [Going Back](https://open.spotify.com/track/0QCWhIYVGx3ousdsUZgy84) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Going Back](https://open.spotify.com/album/5dLs93ATW8WYVlszbtKKRa) | 3:48 | 2021-12-21 | 2023-08-11 |
+| [Grace Descending](https://open.spotify.com/track/1NcDZu6k6kxs142HA8IdYo) | [OmniBrain](https://open.spotify.com/artist/5OIg5Mtsl62IziXx0cGh06) | [Grace Descending](https://open.spotify.com/album/2oEK5rj0076u01gUoDrTK1) | 2:30 | 2026-01-27 |  |
 | [Grateful Minds](https://open.spotify.com/track/1nwYsdWElwCywLZiY3J1g9) | [Mehdi Teyt & Rehla X](https://open.spotify.com/artist/0UfCWBHRcFM2ZqmnjkmJV9) | [The Enlightened](https://open.spotify.com/album/5urCmlMjwzQzpi0ER6sTNE) | 2:47 | 2021-12-21 | 2022-08-12 |
 | [Gravity’s Lullaby](https://open.spotify.com/track/6bYAdSHt0WeWkr5us2uCm1) | [Kai Monroe](https://open.spotify.com/artist/1TLvs6pMDwN18Ziridx7Ht) | [Gravity’s Lullaby](https://open.spotify.com/album/3hL1YCsusA69gaXGllKWyu) | 2:10 | 2025-01-29 |  |
 | [Growing](https://open.spotify.com/track/0ztSmqmTwO1zbLgiDTrYMX) | [Polaria](https://open.spotify.com/artist/4bnzugdxmIaM1LHUuAdoig) | [Growing](https://open.spotify.com/album/5hJM2S0YiqDHlLnC35mDOZ) | 3:00 | 2024-06-10 |  |
@@ -626,6 +628,7 @@
 | [Pathway](https://open.spotify.com/track/7dbha6Yw3WdhyMCeCiPW0v) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Pathway](https://open.spotify.com/album/2niggcmzXvxZLnQbM0kpc5) | 3:01 | 2022-08-11 | 2022-12-15 |
 | [Pathways](https://open.spotify.com/track/67hrn4W0iAgUWwkVpmplTW) | [Chime Dolma](https://open.spotify.com/artist/0ndav6EeWFjk6gBztWytIo) | [Pathways](https://open.spotify.com/album/0Vs8OpWzBEXUQ3ImjwQKZ7) | 2:00 | 2021-12-21 | 2022-09-23 |
 | [Peaceful Garden](https://open.spotify.com/track/109Az5ZRvRYKE6UU9Rdnf0) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Peaceful Garden](https://open.spotify.com/album/26UPIsHGsD24Si9M186oYK) | 6:17 | 2022-09-01 | 2022-10-04 |
+| [Peaceful Mind](https://open.spotify.com/track/4Fow5w3c7Z01kK21kKBPVI) | [Lake Nebula](https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU) | [Peaceful Mind](https://open.spotify.com/album/2jH7ri21hMiaoaCkJ23mmc) | 2:38 | 2026-01-27 |  |
 | [Peaceful Movement](https://open.spotify.com/track/6OQzGwdsy5ny1HRsNzkUth) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Peaceful Movement](https://open.spotify.com/album/6WhbkTG9bSpcHmP01t2P87) | 2:53 | 2022-05-31 | 2024-09-19 |
 | [Peaceful Path](https://open.spotify.com/track/5SmMMVSJqtYcgMSesqnYqr) | [Saige Kasey](https://open.spotify.com/artist/52UDsMZhmDnjEWtynTRVeV) | [Peaceful Path](https://open.spotify.com/album/0XBvNvgDBZJzhnXA6CB1nU) | 2:52 | 2023-01-03 | 2025-01-30 |
 | [Peaceful Patterns](https://open.spotify.com/track/0EGpuh2uzSDi5mnMIvgFui) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Peaceful Patterns](https://open.spotify.com/album/2Mrq6DXobLAj2feyv0h59J) | 2:49 | 2022-09-01 | 2022-12-15 |
@@ -636,6 +639,7 @@
 | [Pelagus](https://open.spotify.com/track/66EH3IBazFrTjGB3wSOpxx) | [Solitary Sun](https://open.spotify.com/artist/04SEbGYbxfXBnXj8kvXyVg) | [Pelagus](https://open.spotify.com/album/3S1GJJSv5w6cYVzoRayrcr) | 2:44 | 2024-04-29 |  |
 | [Pembebasan](https://open.spotify.com/track/6hdh7SrQIAckKv5hvGSI3L) | [Waneesa](https://open.spotify.com/artist/62IrHmSFccbsuwIFWQKEgg) | [Pembebasan](https://open.spotify.com/album/6fh5o9FMvelucYo3ov7g0M) | 2:41 | 2023-11-10 | 2025-01-08 |
 | [Pensamiento](https://open.spotify.com/track/1JHA7IWr53uuJ0TOOldoEA) | [Anabel Rioja](https://open.spotify.com/artist/0sSPiLUffeBfqSeStJDTHf) | [Pensamiento](https://open.spotify.com/album/0YTZXjgqOPCK3wkG68FiMt) | 2:47 | 2022-07-28 | 2023-01-21 |
+| [Per Aspera](https://open.spotify.com/track/76W1zhfMbEj41uBAjxNiel) | [Sono Aetheris](https://open.spotify.com/artist/5JTc4ZlpWj0vKnQImAENJT) | [Per Aspera](https://open.spotify.com/album/06w3Wx1lSusKTDtGxuf8Bf) | 2:50 | 2026-01-27 |  |
 | [Per Me](https://open.spotify.com/track/6km83BJ2tedUp9R0RDTz9N) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [Per Me](https://open.spotify.com/album/1kg1n715SGQCmmS741iP7F) | 3:17 | 2022-09-22 | 2023-01-21 |
 | [Perfection](https://open.spotify.com/track/1b6zd9iiSYGSCz5tYW14l6) | [Mundo Suave](https://open.spotify.com/artist/7mpuCc5RJrH5047X6M7Rcd) | [Perfection](https://open.spotify.com/album/25nMYJeMnGslko2C1Id5ps) | 2:54 | 2022-11-25 | 2024-10-25 |
 | [Perpetuality](https://open.spotify.com/track/6Kt4t76FWnzPESRiKYPdSx) | [Parker Woods](https://open.spotify.com/artist/1eNbVzydYSYdXyjnVSMypX) | [Perpetuality](https://open.spotify.com/album/4Q6TErWBcAFskWp665tW4D) | 2:43 | 2022-11-25 | 2023-08-11 |
@@ -906,6 +910,7 @@
 | [Tranquillo](https://open.spotify.com/track/7A1uziu96JlZBqgbYnx3VE) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Tranquillo](https://open.spotify.com/album/7k1q8f3yoyw9rRa85wBAR3) | 2:27 | 2024-07-25 |  |
 | [Transcendence](https://open.spotify.com/track/4E1jg7m6rq4ofqfoKQ16LN) | [Amber Virena](https://open.spotify.com/artist/5OtQEaDqWy4oDqhgPAETSA) | [Transcendence](https://open.spotify.com/album/0AwlDOSsp2rvCfUEFIpJEy) | 3:53 | 2021-12-21 | 2022-08-12 |
 | [Transpiration](https://open.spotify.com/track/3Koh8Xr3jVE6CpvScHeoa0) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [Transpiration](https://open.spotify.com/album/6mK9hZXchfrJhX1249on2o) | 2:52 | 2021-12-21 | 2022-12-15 |
+| [Tropes](https://open.spotify.com/track/0YbhElIjnaAEeDioAnUo2i) | [Vestigency](https://open.spotify.com/artist/7u5l7mW9E5nAgwRI2MnPZq) | [Tropes](https://open.spotify.com/album/4j9rd9m3BdfT1jLoxDuS8F) | 2:34 | 2026-01-27 |  |
 | [True Calm Trees](https://open.spotify.com/track/76HJiGoSk8VHXxfrAkyErG) | [Sleep Cyclone](https://open.spotify.com/artist/1J7K4Jr0deYSXtXoUtyp1D) | [Into The Beyond](https://open.spotify.com/album/7J76ftvW2bI69RTAJdSt74) | 3:09 | 2022-10-15 | 2024-11-19 |
 | [Trøst](https://open.spotify.com/track/7hGSRZJoxgma7KKZS1h4oq) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Trøst](https://open.spotify.com/album/1nC4PKrObPkSJYg7RyTgEn) | 2:23 | 2022-10-15 | 2025-01-08 |
 | [Tum Somnum](https://open.spotify.com/track/5a02D8HngkNPXN7D30qxBQ) | [Bonum Somno](https://open.spotify.com/artist/0kERbf96dBhKRnHrbQi9Vt) | [Angeli](https://open.spotify.com/album/6OoQpJ0IBsYB4Alh0DdyeX) | 3:06 | 2021-12-21 | 2022-10-04 |

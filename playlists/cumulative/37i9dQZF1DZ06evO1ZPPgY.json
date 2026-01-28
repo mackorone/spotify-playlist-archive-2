@@ -1152,10 +1152,28 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 239306,
       "name": "Practice What You Preach",
       "url": "https://open.spotify.com/track/5PaTu8aN7ozpFbEb0DwEbt"
+    },
+    {
+      "album": {
+        "name": "The Icon Is Love",
+        "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358866,
+      "name": "Practice What You Preach",
+      "url": "https://open.spotify.com/track/6sXG1eN73jcuEcBN3f5W9s"
     },
     {
       "album": {

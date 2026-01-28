@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味廠牌出身，創作就是音樂自主，唱作表現清清楚楚！Cover: 魏如萱 \(Waa Wei\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,044 likes - 121 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,045 likes - 121 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [普通的日子 \- 電影「深度安靜」宣傳曲](https://open.spotify.com/track/7IAqfUGpYcjogbhi02eSw8) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [普通的日子 \(電影「深度安靜」宣傳曲\)](https://open.spotify.com/album/7Fc78qJrKRIJ6ctEawZrk0) | 3:59 |
 | 2 | [入夜之前](https://open.spotify.com/track/2uUuE8G32AXyeEVTecu6cv) | [Suming](https://open.spotify.com/artist/3jV6Ro12GySf82kJiksE7D) | [入夜之前](https://open.spotify.com/album/3h0MEvQtxW3s4fLbzR0mNv) | 3:42 |
 | 3 | [寫一首歌 APRIL 5, 1969 \- 滾石撞樂隊2 \(原唱:順子\)](https://open.spotify.com/track/4kRzR5ViYRiZdNWK8aZ4t5) | [163 braces](https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ) | [滾石撞樂隊2 \- 寫一首歌 APRIL 5, 1969](https://open.spotify.com/album/5ztnrUrtZw5AwSvJzdZ6JN) | 4:19 |
-| 4 | [聖日耳曼大道](https://open.spotify.com/track/3EI5NBD492eG4KPHg8fXuA) | [RIKI](https://open.spotify.com/artist/03sz3uNFikpSX6YtwtXz1z), [CHING](https://open.spotify.com/artist/1n8GV92HML0rSK9jYJ04F8) | [聖日耳曼大道](https://open.spotify.com/album/7qXrbcQjfu0RDA9YXmtkJH) | 2:39 |
+| 4 | [聖日耳曼大道](https://open.spotify.com/track/3EI5NBD492eG4KPHg8fXuA) | [RIKI](https://open.spotify.com/artist/03sz3uNFikpSX6YtwtXz1z), [CHING](https://open.spotify.com/artist/1Q8ZUXuVOaH5uORQrfEo1U) | [聖日耳曼大道](https://open.spotify.com/album/7qXrbcQjfu0RDA9YXmtkJH) | 2:39 |
 | 5 | [Night Drive](https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Night Drive](https://open.spotify.com/album/2ewjJwbolSuFdspnL2xhRw) | 3:26 |
 | 6 | [BELLAVITA](https://open.spotify.com/track/6TH5KtNXviZG1zFQJrLdXa) | [新時代進香團](https://open.spotify.com/artist/40uRi3zgwkY9Y9ViORdVjo), [STACO](https://open.spotify.com/artist/2zztZu8VnEsHm25yTJfof9), [謝青燁Eric](https://open.spotify.com/artist/14oZ0wuwtWNmoegX9VwxDn) | [BELLAVITA](https://open.spotify.com/album/07fQouFt0PGLjsnSjNioO9) | 2:58 |
 | 7 | [好勢](https://open.spotify.com/track/3RauooYGAaOaZqgG2mT8SN) | [Finesse'Boy](https://open.spotify.com/artist/3qS2lXfLasuWpBEaLn1bbt), [Teezy](https://open.spotify.com/artist/5P4IE6bIqsXDKHf5Z7vmeA), [八口8uck](https://open.spotify.com/artist/7mB3ob7Tx8w7UPykPKbZTP) | [好勢](https://open.spotify.com/album/2DiUzykXOM0Frua27fr8Vm) | 2:22 |

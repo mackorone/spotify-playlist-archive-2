@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-[ig @godmodearc](https://open.spotify.com/user/shihu) - 48,990 likes - 238 songs - 11 hr 40 min
+[ig @godmodearc](https://open.spotify.com/user/shihu) - 48,982 likes - 238 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 | 56 | [DISGUSTING!](https://open.spotify.com/track/00Vy5lKB6e40kKZONUCATl) | [Undead Papi](https://open.spotify.com/artist/0oahYd3VWxnAka5gHpY3D0), [Saush](https://open.spotify.com/artist/0NUiVNeyctDYZBPasa8w2J) | [DISGUSTING!](https://open.spotify.com/album/0LQ4gSVHZbFSAQMpZMZX1d) | 2:08 |
 | 57 | [We Are the Reason You Run and Hide](https://open.spotify.com/track/6cVi4NQqX4cT8TQLkSzgxK) | [Hatred City](https://open.spotify.com/artist/65jFZpzCwgyhmI0HPswalI) | [We Are the Reason You Run and Hide](https://open.spotify.com/album/1pnLhbXbP112zOzDQubXoV) | 3:28 |
 | 58 | [HEART ERROR](https://open.spotify.com/track/6cALZOQjyK5yGbK48LABp8) | [ANTICXLTXRE](https://open.spotify.com/artist/7aKPljkfMF8UF2r7m28tuT) | [HEART ERROR](https://open.spotify.com/album/0R8TZyz46VVaXZ1fCsZPUI) | 3:19 |
-| 59 | [Alucard](https://open.spotify.com/track/20foGhmqyjTyHMVIgELLCo) | [Manny Force](https://open.spotify.com/artist/2Jv94ffHaw54qIhVAQp7KU), [Gravity in Space](https://open.spotify.com/artist/3R4wOxBYTNKIw48JzCFLIZ), [ONIEIGHT](https://open.spotify.com/artist/5rVuLxCcmw7Wu7rZljefdq) | [Alucard](https://open.spotify.com/album/7mgmq6iPdy9wU5Fq400Ho2) | 2:08 |
+| 59 | [Alucard](https://open.spotify.com/track/20foGhmqyjTyHMVIgELLCo) | [Manny Force](https://open.spotify.com/artist/2Jv94ffHaw54qIhVAQp7KU), [Gravity in Space](https://open.spotify.com/artist/3R4wOxBYTNKIw48JzCFLIZ), [ONIEIGHT](https://open.spotify.com/artist/4kZhu8InVMWucU2cPe6qox) | [Alucard](https://open.spotify.com/album/7mgmq6iPdy9wU5Fq400Ho2) | 2:08 |
 | 60 | [AVOID ME 2](https://open.spotify.com/track/7IO5xKQcN4X1XTkvsNccqD) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [AVOID ME 2](https://open.spotify.com/album/1NvhQk0D0encAyEKZFETkx) | 1:45 |
 | 61 | [Bring Me the Wolves](https://open.spotify.com/track/7yck8dYP4dyvc13NlJw1Aw) | [Eternal Raijin](https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe) | [Jingle JIN VOL\. II](https://open.spotify.com/album/2x3ICVits7igxOFuhfWYmg) | 2:34 |
 | 62 | [akatsuki.exe \- Remix](https://open.spotify.com/track/27Y5mRGHTn6klxTy5b1QYN) | [JAY DVRDEN](https://open.spotify.com/artist/3mZ0TiDpjzDJU5qttTDHXq), [Prompto](https://open.spotify.com/artist/55l8XOO8frgVTbpedazbWo) | [akatsuki.exe \(Remix\)](https://open.spotify.com/album/0tvJRRoODCo8LzaxMd5kBU) | 4:24 |

@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Conway The Machine
 
-898 songs - 1 day 23 hr 58 min
+899 songs - 2 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [CHANNEL No3](https://open.spotify.com/track/6UIMNszTQOvYchYqswBR17) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [CHANNEL No3](https://open.spotify.com/album/1WfB6HK3LNQh3TLoDv3Msw) | 3:46 | 2023-07-07 | 2023-10-03 |
 | [Checkmate](https://open.spotify.com/track/3KYTIo9pu84SbLL53iGew4) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Checkmate](https://open.spotify.com/album/092m8BBfQD4WLKfZXkD2PI) | 2:50 | 2022-09-16 | 2022-11-12 |
 | [Chicken N Dumplins](https://open.spotify.com/track/0d6nLPB8mwKp2qYJupyPuY) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP) | [Chicken N Dumplins](https://open.spotify.com/album/3eJJmcOAr0FVxGgQM5nUJi) | 3:46 | 2021-09-03 | 2022-03-18 |
+| [Childish Things](https://open.spotify.com/track/5sAooo0RyhX44ds11hi5Cs) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [656](https://open.spotify.com/album/3InmPui8pj47JAOOu1e4GR) | 3:33 | 2026-01-23 |  |
 | [Chop Chop](https://open.spotify.com/track/5YqRmwcYhyEaC4OnSahUEX) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [10/15](https://open.spotify.com/album/0G1LhCJaL190zHcyU8NZsx) | 3:22 | 2025-10-17 | 2025-10-25 |
 | [Chops on the Blade](https://open.spotify.com/track/74Fqn1olHLrMlL6deu4ExE) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Chops on the Blade](https://open.spotify.com/album/1W8rO7SBVNsjB2v197I0bk) | 3:32 | 2023-10-13 | 2024-01-21 |
 | [Chopstick](https://open.spotify.com/track/2MDqwQHCP4wELHzWn9DntV) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Chopstick](https://open.spotify.com/album/2fKIl2b2zUW17YU7WjBCEi) | 2:41 | 2024-12-13 | 2025-02-08 |
@@ -233,7 +234,7 @@
 | [Don't Let The Devil \[Feat\. thankugoodsir\] \- Single Version](https://open.spotify.com/track/2LBwRP4HSUTJiLobjhaaXp) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [thankugoodsir](https://open.spotify.com/artist/64wFZ5RSArS1MwJ0N0nJhN) | [Don't Let The Devil \[Feat\. thankugoodsir\]](https://open.spotify.com/album/60rpMY5zgymbCEn7ICfi8M) | 2:44 | 2023-04-21 | 2023-08-12 |
 | [Don't Play With My Heart](https://open.spotify.com/track/3fqBsUKvgkkkpqUhu1pTVE) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Don't Play With My Heart](https://open.spotify.com/album/5kqM6ufz5al24SwGb5sLax) | 1:49 | 2026-01-09 |  |
 | [Don't Remind Me](https://open.spotify.com/track/55KBOq8fdOWrYWYWBCKxLh) | [Wale the Sage](https://open.spotify.com/artist/4alndwWPbM9ApMYLjg19oD) | [Running From Time](https://open.spotify.com/album/38KIbLeS8hv57czsB0REq7) | 3:23 | 2023-02-17 | 2023-05-13 |
-| [Dont Wanna C Me Rich](https://open.spotify.com/track/2yIg0KHEuXzagLIDNS2I0s) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Muddy Waters Too](https://open.spotify.com/album/5aahGTQnyEzNwR8Wy2lEpi) | 2:17 | 2025-01-17 |  |
+| [Dont Wanna C Me Rich](https://open.spotify.com/track/2yIg0KHEuXzagLIDNS2I0s) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Muddy Waters Too](https://open.spotify.com/album/5aahGTQnyEzNwR8Wy2lEpi) | 2:17 | 2025-01-17 | 2026-01-28 |
 | [DON’T BE GONE](https://open.spotify.com/track/0E0cP3se7canDtzIm8Sy1V) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [THEODORE & ANDRE](https://open.spotify.com/album/1JBRIRH3jc4VUHI9UjfQPj) | 3:13 | 2024-02-03 | 2024-04-11 |
 | [Doomsday \(with Juice WRLD & Cordae\)](https://open.spotify.com/track/3bkpVSoNvBkvt9LJMFT5at) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Doomsday](https://open.spotify.com/album/0uGrHjpQjFttH2ztKbouyb) | 2:30 | 2023-06-23 | 2023-11-04 |
 | [DOPE](https://open.spotify.com/track/0TdNgLC0GuxmWDy2Vwp426) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT), [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI), [K.A.A.N.](https://open.spotify.com/artist/6WSTevYt4rGwm8QPKQr7dU) | [DOPE](https://open.spotify.com/album/1G8R5Rho6D2b05MvRxn8zW) | 3:12 | 2023-05-19 | 2023-06-03 |

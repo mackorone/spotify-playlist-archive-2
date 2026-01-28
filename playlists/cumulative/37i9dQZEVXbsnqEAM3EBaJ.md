@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-3,046 songs - 8 day 12 hr 18 min
+3,047 songs - 8 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2421,6 +2421,7 @@
 | [Swan Lake, Op\. 20: Dance of the Four Swans \(Arr\. Wild for Piano\)](https://open.spotify.com/track/3StysTPY6u60aPKxaT01sx) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Bruce Liu](https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9) | [Tchaikovsky: Swan Lake, Op\. 20: Dance of the Four Swans \(Arr\. Wild for Piano\)](https://open.spotify.com/album/4sIbyfOUmbWR6KhcxXM31c) | 1:29 | 2024-12-27 | 2025-01-03 |
 | [Sweet As Sin](https://open.spotify.com/track/01090WTrigkKGJuLeRJ6eR) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Listen Like Thieves \(40th Anniversary Deluxe\)](https://open.spotify.com/album/1jYuoUc2IizEt2iG9Qexr5) | 2:20 | 2025-05-09 | 2025-06-08 |
 | [Sweet Dreams](https://open.spotify.com/track/34cdCSNJBuctt5KKC1ch2k) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/5lHtH6O6mCnVx1MNuPPBQK) | 3:09 | 2024-08-02 | 2024-08-25 |
+| [Sweet Palm Wine](https://open.spotify.com/track/7cKn7oqphz5lz4kGz3kMbq) | [Noendo](https://open.spotify.com/artist/3LZSkU8cE6VWax2eImyxTY), [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Sweet Palm Wine](https://open.spotify.com/album/2h3Qyy2nF36atsBcrPbcYB) | 4:18 | 2026-01-23 |  |
 | [Sweet Sounds Of Heaven \(feat\. Lady Gaga & Stevie Wonder\)](https://open.spotify.com/track/5YW7oSt4jHBO7yE9XER2Be) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Sweet Sounds Of Heaven](https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK) | 7:22 | 2023-09-29 | 2023-10-21 |
 | [Sweet Sounds Of Heaven \(feat\. Lady Gaga & Stevie Wonder\)](https://open.spotify.com/track/0MeSCMwHMJHZrcYwqrWJIX) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Hackney Diamonds](https://open.spotify.com/album/3j0kAPRr52jZmyIy4olRK9) | 7:22 | 2023-10-20 | 2023-10-28 |
 | [Sweet Sounds Of Heaven \(feat\. Lady Gaga & Stevie Wonder\) \- Edit](https://open.spotify.com/track/6HCUMOcGa4LyjcBXjl7z0Y) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Sweet Sounds Of Heaven](https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK) | 5:06 | 2023-09-29 | 2023-10-22 |

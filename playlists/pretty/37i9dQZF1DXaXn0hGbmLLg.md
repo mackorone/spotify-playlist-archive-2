@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > EQUAL x ESNS: 38 Benelux\-women that play at <a href="spotify:playlist:37i9dQZF1DWYBTcEG5KFeA">ESNS</a> 2026! January ambassador: <a href="spotify:artist:4U9nsRTH2mr9L4UXEWqG5e">Bente</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,890 likes - 125 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,889 likes - 125 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

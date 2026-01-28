@@ -1,12 +1,12 @@
 {
   "description": "The Magna Carta was a royal charter issued in 1215 that established that the king was not above the law",
-  "num_followers": 490077,
+  "num_followers": 490165,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFWeZUaR8eafD18edoGdbqFfoVfs",
+  "snapshot_id": "AAAAABToozl7NouGoX07NnSQYAw+N74T",
   "tracks": [
     {
       "added_at": "2026-01-16 05:00:36",
@@ -43,6 +43,22 @@
       "duration_ms": 197298,
       "name": "Do It (Yves Remix)",
       "url": "https://open.spotify.com/track/27v8QdBidbC5idqWHqPBBj"
+    },
+    {
+      "added_at": "2026-01-27 19:35:33",
+      "album": {
+        "name": "SiiMP",
+        "url": "https://open.spotify.com/album/2lDZpLP9gatrBqPwM8wBMO"
+      },
+      "artists": [
+        {
+          "name": "SEBii",
+          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
+        }
+      ],
+      "duration_ms": 135103,
+      "name": "SiiMP",
+      "url": "https://open.spotify.com/track/67QBCvKf89W0L84beo3beo"
     },
     {
       "added_at": "2025-11-21 05:00:35",
@@ -217,6 +233,26 @@
       "url": "https://open.spotify.com/track/56ZQHgh0SB0fefzS7BbT2E"
     },
     {
+      "added_at": "2026-01-27 19:35:33",
+      "album": {
+        "name": "Kwik Trip",
+        "url": "https://open.spotify.com/album/2OTLmSlcjFarrF4ipPWLp4"
+      },
+      "artists": [
+        {
+          "name": "Lightris",
+          "url": "https://open.spotify.com/artist/1BTzfMY27qhCFQpTeTUbCi"
+        },
+        {
+          "name": "sero",
+          "url": "https://open.spotify.com/artist/2xGz6oQCMhoh3gMJSq0vDE"
+        }
+      ],
+      "duration_ms": 205500,
+      "name": "Kwik Trip",
+      "url": "https://open.spotify.com/track/4A3WcbBuUQMpcBIgmUzLBY"
+    },
+    {
       "added_at": "2026-01-16 05:00:36",
       "album": {
         "name": "Dance Dance Dance",
@@ -341,6 +377,22 @@
       "url": "https://open.spotify.com/track/0H03dWs6Z1RkvDsbmmuDFl"
     },
     {
+      "added_at": "2026-01-23 05:00:24",
+      "album": {
+        "name": "UP TO MY NECK IN U",
+        "url": "https://open.spotify.com/album/0RXNiEjTJiYafYlOMo6KkV"
+      },
+      "artists": [
+        {
+          "name": "Ledbyher",
+          "url": "https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s"
+        }
+      ],
+      "duration_ms": 137440,
+      "name": "UP TO MY NECK IN U",
+      "url": "https://open.spotify.com/track/6Gcf36dXcnt1QE9s1hmzfF"
+    },
+    {
       "added_at": "2026-01-16 05:00:36",
       "album": {
         "name": "I Didn\u2019t Run This Time",
@@ -391,22 +443,6 @@
       "duration_ms": 168800,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/7HQqlyTnavA97mX9h8TNRy"
-    },
-    {
-      "added_at": "2026-01-23 05:00:24",
-      "album": {
-        "name": "UP TO MY NECK IN U",
-        "url": "https://open.spotify.com/album/0RXNiEjTJiYafYlOMo6KkV"
-      },
-      "artists": [
-        {
-          "name": "Ledbyher",
-          "url": "https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s"
-        }
-      ],
-      "duration_ms": 137440,
-      "name": "UP TO MY NECK IN U",
-      "url": "https://open.spotify.com/track/6Gcf36dXcnt1QE9s1hmzfF"
     },
     {
       "added_at": "2025-11-28 20:55:54",
@@ -1881,22 +1917,6 @@
       "url": "https://open.spotify.com/track/5rg66yM2srFONrhJFFLpCk"
     },
     {
-      "added_at": "2025-09-19 04:00:38",
-      "album": {
-        "name": "A TRUE CRIME!",
-        "url": "https://open.spotify.com/album/3UrZHI342ajUhbPcHjsZq2"
-      },
-      "artists": [
-        {
-          "name": "Hadren",
-          "url": "https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln"
-        }
-      ],
-      "duration_ms": 167212,
-      "name": "A TRUE CRIME!",
-      "url": "https://open.spotify.com/track/66w8Qra21xeyPueAVCKBO0"
-    },
-    {
       "added_at": "2025-09-12 04:00:15",
       "album": {
         "name": "Falling",
@@ -1995,22 +2015,6 @@
       "duration_ms": 185172,
       "name": "Freak It",
       "url": "https://open.spotify.com/track/1e8DRAVSxGDPd9hgxcppP2"
-    },
-    {
-      "added_at": "2025-09-12 04:00:15",
-      "album": {
-        "name": "huntersblood",
-        "url": "https://open.spotify.com/album/4DHkzWgCF2oukRQUzJEcd6"
-      },
-      "artists": [
-        {
-          "name": "murdermart",
-          "url": "https://open.spotify.com/artist/29mB5AIM7WGd2tZLIuDmUi"
-        }
-      ],
-      "duration_ms": 203636,
-      "name": "huntersblood",
-      "url": "https://open.spotify.com/track/4fFHtVaLNp7tZx1RtTazpU"
     },
     {
       "added_at": "2025-09-12 04:00:15",

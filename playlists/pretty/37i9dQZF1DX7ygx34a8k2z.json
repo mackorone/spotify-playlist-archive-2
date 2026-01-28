@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 304706,
+  "num_followers": 304795,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Whatever And Ever Amen (Remastered Edition)",
-        "url": "https://open.spotify.com/album/3oz8kworUyU7oXjaEVhDsZ"
-      },
-      "artists": [
-        {
-          "name": "Ben Folds Five",
-          "url": "https://open.spotify.com/artist/44gRHbEm4Uqa0ykW0rDTNk"
-        }
-      ],
-      "duration_ms": 271720,
-      "name": "Brick",
-      "url": "https://open.spotify.com/track/4jKq1e80xAYixkIwt6YyV1"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Ladies and gentlemen we are floating in space",
         "url": "https://open.spotify.com/album/56YzQ0dhmRMDryZsrjdHun"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 234053,
       "name": "Ladies and gentlemen we are floating in space",
       "url": "https://open.spotify.com/track/0fOjUafaAhJV16oRBgCtz7"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Whatever And Ever Amen (Remastered Edition)",
+        "url": "https://open.spotify.com/album/3oz8kworUyU7oXjaEVhDsZ"
+      },
+      "artists": [
+        {
+          "name": "Ben Folds Five",
+          "url": "https://open.spotify.com/artist/44gRHbEm4Uqa0ykW0rDTNk"
+        }
+      ],
+      "duration_ms": 271720,
+      "name": "Brick",
+      "url": "https://open.spotify.com/track/4jKq1e80xAYixkIwt6YyV1"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/2b5r3YRZYwSAeXd7aWZjWp"
-      },
-      "artists": [
-        {
-          "name": "Belly",
-          "url": "https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Feed the Tree",
-      "url": "https://open.spotify.com/track/3L19vBWH4jTHNXbuBaHbUN"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Bubble & Scrape",
         "url": "https://open.spotify.com/album/541PK5WDS4QQL2yqT1ic6H"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 214120,
       "name": "I'm Shakin'",
       "url": "https://open.spotify.com/track/6pfdB0WcH6y22C3enLfFrq"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/2b5r3YRZYwSAeXd7aWZjWp"
+      },
+      "artists": [
+        {
+          "name": "Belly",
+          "url": "https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Feed the Tree",
+      "url": "https://open.spotify.com/track/3L19vBWH4jTHNXbuBaHbUN"
     },
     {
       "added_at": "2025-01-15 04:11:50",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Matilda Lyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,392 likes - 143 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,405 likes - 143 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 90 | [Be Your Girl](https://open.spotify.com/track/5qvIcb2x0658BlBZL56NI0) | [FRANKIE OCTOBER](https://open.spotify.com/artist/40DZ0XYPJCrVu76o6nzyHw), [Sandra Bang](https://open.spotify.com/artist/1ZCaTWIXiOInl8pjzcDImE), [Marbrolite](https://open.spotify.com/artist/5UBvUlH2o7Dld0sUT8zIb9) | [Be Your Girl](https://open.spotify.com/album/20oE705MeySNdlL8FmIseg) | 3:16 |
 | 91 | [Weight Of The World](https://open.spotify.com/track/7DSd2T750UHvm8UdAUrDep) | [Veneda Terry](https://open.spotify.com/artist/6zGtbySTcFcwW2bm9rUgsy) | [Weight Of The World](https://open.spotify.com/album/4Ir0KvelGyFGsNfiuSLp1U) | 2:42 |
 | 92 | [Forever](https://open.spotify.com/track/7CKezpSNVpITPZFjkExDqF) | [Coria](https://open.spotify.com/artist/4wdtB6s3W9H46b7ESavill) | [Forever](https://open.spotify.com/album/1qayBwEN5Sbw14v31aPjhK) | 3:33 |
-| 93 | [floater friend](https://open.spotify.com/track/2LOgNm6SUXZBiucfL3dBeT) | [Cathrine Fornæss](https://open.spotify.com/artist/3JVWX2LmyzRNlcNMtOV5dV) | [floater friend](https://open.spotify.com/album/2T9SFX98jcl7690IzVok08) | 3:34 |
+| 93 | [floater friend](https://open.spotify.com/track/2LOgNm6SUXZBiucfL3dBeT) | [cathrine doll](https://open.spotify.com/artist/34IHawqPllizVsoq3udkZE) | [floater friend](https://open.spotify.com/album/2T9SFX98jcl7690IzVok08) | 3:34 |
 | 94 | [I Do](https://open.spotify.com/track/1Eoz0T0HjhFFVJDdWW3SlC) | [Paria](https://open.spotify.com/artist/7tBuWTC4AL48W3dWjdNnFQ) | [Love Don´t Come Easy](https://open.spotify.com/album/6fYCJ1UHrMqDCSi5jgzSOf) | 3:35 |
 | 95 | [Please Don't Say It](https://open.spotify.com/track/3o7hMlgm0zOUax6RsE7fkv) | [SKAYA](https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC), [Luke Alvin](https://open.spotify.com/artist/484n5top8RJk6NL3mGasDc) | [Please Don't Say It](https://open.spotify.com/album/0PkrQZeJg2i7Z4VytiRqBm) | 3:03 |
 | 96 | [Dizzy](https://open.spotify.com/track/3bQauMq5WHGvVKO5rXPbUg) | [Willone](https://open.spotify.com/artist/0HHPiYhrH0UvwKgUC4Lwpf), [Neon Priest](https://open.spotify.com/artist/2ABpmoGVflrSQ8thdBjyrU) | [Dizzy](https://open.spotify.com/album/0zCgMNEmxbqwGMx3iFZlUf) | 2:48 |

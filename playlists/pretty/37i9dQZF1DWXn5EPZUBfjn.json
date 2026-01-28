@@ -1,15 +1,15 @@
 {
   "description": "Hip-hop hits only. Music videos only available on Premium.",
-  "num_followers": 1078,
+  "num_followers": 1100,
   "original_name": "Hip-Hop Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHR+Iajw0DExPccdzuagDblmkDKg",
+  "snapshot_id": "AAAAACdqE/7qORyC8Gd/uOd9KlF8ajvF",
   "tracks": [
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "We Paid",
         "url": "https://open.spotify.com/album/1e7HDR2EjP9bi8MhRLBlfn"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/1uswvX7LasHQdeKkak8N6A"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "Type Shit",
         "url": "https://open.spotify.com/album/0NMIfCHCYNn0McVG8xTnDr"
@@ -57,7 +57,35 @@
       "url": "https://open.spotify.com/track/4nG0l8KeTFnFTXFowR21bv"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
+      "album": {
+        "name": "Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)",
+        "url": "https://open.spotify.com/album/4DZYlatBClcLGjYAJpIAm4"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 298709,
+      "name": "Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)",
+      "url": "https://open.spotify.com/track/7ikD332H3gwLTnX8mlmfe6"
+    },
+    {
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/0PfbItXP9ZeQ4P7QuODYX5"
@@ -77,7 +105,7 @@
       "url": "https://open.spotify.com/track/1GBzfoHf4FfustFKKMI5gM"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "No Idea",
         "url": "https://open.spotify.com/album/5kOXQsc47kkPkMe0CnLoAu"
@@ -93,7 +121,7 @@
       "url": "https://open.spotify.com/track/1UMh84TkkryEyu0ECwpyhw"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "FE!N (feat. Playboi Carti)",
         "url": "https://open.spotify.com/album/58IXBNmISFmgW3HAIpFx4E"
@@ -113,7 +141,7 @@
       "url": "https://open.spotify.com/track/4eG0td3dsAxFjqMF6qzXZE"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "Back In Blood (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/6V2iFN7PR1HtBXZ9Agyr7u"
@@ -133,7 +161,7 @@
       "url": "https://open.spotify.com/track/6wbYBNZOMIC5hqsnX0DEDv"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "SkeeYee",
         "url": "https://open.spotify.com/album/5dsb2MEXRCZkZAdqQ3olcl"
@@ -149,7 +177,7 @@
       "url": "https://open.spotify.com/track/6muHHIwOi1mGGcqV8b34Gj"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "WAP (feat. Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/6xhy7X4d0T8JOi3wpx1wGq"
@@ -169,7 +197,23 @@
       "url": "https://open.spotify.com/track/1uPGsobwX264YbGnxCScyY"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
+      "album": {
+        "name": "So Be It",
+        "url": "https://open.spotify.com/album/4QhX24n7J1Xjc5Joh6GTF5"
+      },
+      "artists": [
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        }
+      ],
+      "duration_ms": 198250,
+      "name": "So Be It",
+      "url": "https://open.spotify.com/track/2FqmvgPLashbibERULndOv"
+    },
+    {
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "Runnin",
         "url": "https://open.spotify.com/album/37UihOA0sVJ9gXRc3Jh5G5"
@@ -189,7 +233,7 @@
       "url": "https://open.spotify.com/track/3hqfHOXBfmwj1vTP3S4wnq"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "Pardon Me",
         "url": "https://open.spotify.com/album/5MWJ2bnY7FWVIUYoCS5X25"
@@ -213,7 +257,7 @@
       "url": "https://open.spotify.com/track/3Gc86rk4uOa6263vdxMxhT"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
         "url": "https://open.spotify.com/album/7rEM3N9B7RX6ESWUqkCzZI"
@@ -237,7 +281,27 @@
       "url": "https://open.spotify.com/track/5rFb63vP8ftwxVBBoomh4o"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
+      "album": {
+        "name": "wgft (feat. Burna Boy)",
+        "url": "https://open.spotify.com/album/5LgGFj0CG4iJ1MynD791hi"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 184440,
+      "name": "wgft (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/4kCkgD1ITALBjzBwGsf6tW"
+    },
+    {
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "luther",
         "url": "https://open.spotify.com/album/1015FLq4dfE55BwjmLZnVN"
@@ -257,7 +321,7 @@
       "url": "https://open.spotify.com/track/4WCLVsNdUhoq5Ue66YXTHb"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "ROCKSTAR",
         "url": "https://open.spotify.com/album/34P8deDnbdqeWbtYOTZbbi"
@@ -277,7 +341,7 @@
       "url": "https://open.spotify.com/track/5hXq7UFMtyRRb4VZdTOGgI"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "Did It First",
         "url": "https://open.spotify.com/album/1u4jMFc5cdBFgRVSVOFCel"
@@ -297,7 +361,7 @@
       "url": "https://open.spotify.com/track/5UXg5G7hJqeeKdCX0zbKsp"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "Dark Thoughts",
         "url": "https://open.spotify.com/album/2bvBRbbDepD3vl8FMX2kDd"
@@ -313,7 +377,7 @@
       "url": "https://open.spotify.com/track/0dPRqFuiUV32vDdNDby3TX"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "NISSAN ALTIMA",
         "url": "https://open.spotify.com/album/7b9vrdtS34R289wwRJmC1A"
@@ -329,7 +393,7 @@
       "url": "https://open.spotify.com/track/3FyZuf7Lmi5vf1Af3SM1VB"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/2A4NQQ1eRAPaX6f2z3SqYc"
@@ -345,7 +409,7 @@
       "url": "https://open.spotify.com/track/0M68GE694Iyzearl93bIhV"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "Sugar On My Tongue",
         "url": "https://open.spotify.com/album/7vqUPziG3E5XenIIiRoJvQ"
@@ -361,7 +425,7 @@
       "url": "https://open.spotify.com/track/5NUHcOdBIhbq9K2ksWEjhh"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "Laugh Now Cry Later",
         "url": "https://open.spotify.com/album/3GhJYDQIkSHGEXYp9TMcnB"
@@ -381,7 +445,23 @@
       "url": "https://open.spotify.com/track/4c78oL1P2Zqeh1fwm0I9h4"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
+      "album": {
+        "name": "No Pole",
+        "url": "https://open.spotify.com/album/1TzqwaIgWaZ0x15gdjlcAD"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 257258,
+      "name": "No Pole",
+      "url": "https://open.spotify.com/track/6RJTQlCfG4K5wDhZB47Dg6"
+    },
+    {
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "Super Freaky Girl",
         "url": "https://open.spotify.com/album/1fNEdMjkD1VmcoqpHXGode"
@@ -397,7 +477,7 @@
       "url": "https://open.spotify.com/track/2gJjdDDe0LYCNUrhxEERrC"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "Big Energy",
         "url": "https://open.spotify.com/album/5MrU5xtIT0a7LZYDxDClR0"
@@ -413,7 +493,7 @@
       "url": "https://open.spotify.com/track/2SVaLNAPb15vnkwv40u5sc"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "Paint The Town Red",
         "url": "https://open.spotify.com/album/2YllXSbf2UqKcQ3LGiUUIk"
@@ -429,7 +509,27 @@
       "url": "https://open.spotify.com/track/6FZSpeskRlhogcrGqPA76w"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
+      "album": {
+        "name": "That's It",
+        "url": "https://open.spotify.com/album/4cGPk71AX7uoamfY7pcpMC"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 224277,
+      "name": "That's It",
+      "url": "https://open.spotify.com/track/5VKZOBY98yt802BXnHCle6"
+    },
+    {
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "Won't Stop",
         "url": "https://open.spotify.com/album/3y5V9tsoJrIh2MvZleDK74"
@@ -445,7 +545,7 @@
       "url": "https://open.spotify.com/track/2derO4RmKVWp7CrM7CxmQa"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "What Happened To Virgil",
         "url": "https://open.spotify.com/album/4sC3bqiJguqEZl6W8VZub7"
@@ -461,7 +561,7 @@
       "url": "https://open.spotify.com/track/4EWDBFywMfRBuEbfZY9Mz1"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/4NNjS9CmnHwFjVlKn7ILka"
@@ -477,7 +577,7 @@
       "url": "https://open.spotify.com/track/0C6SJd1VY35GjQJvmp1F1S"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "Mamushi (feat. Yuki Chiba)",
         "url": "https://open.spotify.com/album/0qsLKDxkzN3QPmUOiPfj6G"
@@ -497,7 +597,7 @@
       "url": "https://open.spotify.com/track/2waNQQtch8ekijVeMddfBX"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "Miss The Rage (feat. Playboi Carti)",
         "url": "https://open.spotify.com/album/5zcUsqSVdEVKdc84zJ3ntC"
@@ -517,7 +617,7 @@
       "url": "https://open.spotify.com/track/3yphxnO37iuiyAjZBu0lb0"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
         "url": "https://open.spotify.com/album/5Bm8CkD6T48QPQsfRh9SsH"
@@ -541,7 +641,7 @@
       "url": "https://open.spotify.com/track/3fJiZmc81mcjdO2URCpKCI"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/0uSwIF5VDu0GBRTf7JYbzd"
@@ -557,7 +657,7 @@
       "url": "https://open.spotify.com/track/5La5RH6MdDgT6fkBdb0RD4"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "Rags2Riches 2 (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/488pZDqs0wI32NhlWXciQg"
@@ -577,7 +677,7 @@
       "url": "https://open.spotify.com/track/0WbcKUAQS6B9sNEkD4IYhR"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "The Woo",
         "url": "https://open.spotify.com/album/4I8Xrgbh2ECSvdmEB0i72e"
@@ -601,7 +701,7 @@
       "url": "https://open.spotify.com/track/3JsHyN9yWEoh9IfuwhlC1e"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "BEAUTIFUL (feat. Future & SZA)",
         "url": "https://open.spotify.com/album/1b825Q8yszg4rJlIR7umjD"
@@ -625,7 +725,7 @@
       "url": "https://open.spotify.com/track/1apDWwmMa4F5jG91oJFMOi"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "Lick Or Sum",
         "url": "https://open.spotify.com/album/5q6jmPdh6K3SzvaW5lpCo3"
@@ -641,7 +741,7 @@
       "url": "https://open.spotify.com/track/35aMkiQStUB9OBw4UJotEI"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "Yeern 101",
         "url": "https://open.spotify.com/album/0I4omafD3dFPIeYg39BNdQ"
@@ -657,7 +757,7 @@
       "url": "https://open.spotify.com/track/5VAsIIKmItUqLx3y1dbcSL"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "Finesse (feat. GloRilla)",
         "url": "https://open.spotify.com/album/2d8zxXLlLbBLSHoW14D05Y"
@@ -677,7 +777,7 @@
       "url": "https://open.spotify.com/track/4vmEbuUJFTIN9hZjS5RePe"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "Walk Em Down (feat. Roddy Ricch)",
         "url": "https://open.spotify.com/album/5R5YekZX1QOp3d0kTKE3SZ"
@@ -697,7 +797,7 @@
       "url": "https://open.spotify.com/track/2cPYRpVV8AjFZANOafnuEv"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "Blick Blick",
         "url": "https://open.spotify.com/album/6etIolgwICygZOazhrRLnj"
@@ -717,7 +817,7 @@
       "url": "https://open.spotify.com/track/6v4pVSkyOXL3nOXzPJ8r8O"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6wkd68ryjF7uuUrMTG9iY5"
@@ -737,7 +837,7 @@
       "url": "https://open.spotify.com/track/6u94evMWCToFG9pwEPZ3gI"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/04w6RcU0V2pGnBderEqWiN"
@@ -753,7 +853,7 @@
       "url": "https://open.spotify.com/track/2y1HLZTajHZEnqpIFZ2AJc"
     },
     {
-      "added_at": "2025-12-09 14:00:34",
+      "added_at": "2026-01-27 18:33:24",
       "album": {
         "name": "Come & Go",
         "url": "https://open.spotify.com/album/28i9LjqRXyudh3hYRkxuJP"

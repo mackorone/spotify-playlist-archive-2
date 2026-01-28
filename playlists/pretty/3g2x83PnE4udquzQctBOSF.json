@@ -1,13 +1,89 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2673,
+  "num_followers": 2674,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARTg3d2/xhvZYe5rugHl+zc0q3f1+H",
+  "snapshot_id": "AAARUtxH4y4dJN7QwmIcVkBXnN0vQie3",
   "tracks": [
+    {
+      "added_at": "2026-01-27 21:42:09",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/1FxRJ4weq5Ef3tFzJC2ksj"
+      },
+      "artists": [
+        {
+          "name": "KeepNoise",
+          "url": "https://open.spotify.com/artist/6iMok0Y9VLcNLkjuUi3sS9"
+        },
+        {
+          "name": "Junma",
+          "url": "https://open.spotify.com/artist/6UsobN5stHRIivSBvIhN42"
+        }
+      ],
+      "duration_ms": 389038,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/5pdstqABC40snE5WVv4m31"
+    },
+    {
+      "added_at": "2026-01-27 20:50:20",
+      "album": {
+        "name": "OLD SYNTH",
+        "url": "https://open.spotify.com/album/7rW2c90KeYeTNAu11D5KVA"
+      },
+      "artists": [
+        {
+          "name": "PakoLP",
+          "url": "https://open.spotify.com/artist/7hXA9Gsz23oiXjZ25UyZta"
+        },
+        {
+          "name": "Pasquale Licito",
+          "url": "https://open.spotify.com/artist/4gtyf1Bf2sFWTQH1HdtEiU"
+        }
+      ],
+      "duration_ms": 302785,
+      "name": "OLD SYNTH",
+      "url": "https://open.spotify.com/track/3quOoZcZIjbutAAgUwcof7"
+    },
+    {
+      "added_at": "2026-01-27 19:07:30",
+      "album": {
+        "name": "You Got it , Movin' On",
+        "url": "https://open.spotify.com/album/4xT1oDTRkVjlI0Fbb495tx"
+      },
+      "artists": [
+        {
+          "name": "Pasquale Licito",
+          "url": "https://open.spotify.com/artist/4gtyf1Bf2sFWTQH1HdtEiU"
+        },
+        {
+          "name": "PakoLP",
+          "url": "https://open.spotify.com/artist/7hXA9Gsz23oiXjZ25UyZta"
+        }
+      ],
+      "duration_ms": 264960,
+      "name": "You Got it , Movin' On",
+      "url": "https://open.spotify.com/track/39XmzekLzqIANFCusL27tm"
+    },
+    {
+      "added_at": "2026-01-27 09:56:52",
+      "album": {
+        "name": "Forbiten",
+        "url": "https://open.spotify.com/album/37Nr0tgS9TULHQXu9HM73J"
+      },
+      "artists": [
+        {
+          "name": "Bruno Costa",
+          "url": "https://open.spotify.com/artist/3yxmvN8rSmNEfyTCC7FaA2"
+        }
+      ],
+      "duration_ms": 173760,
+      "name": "In side skin",
+      "url": "https://open.spotify.com/track/6JIivXWodaHrTBzlUVuIr2"
+    },
     {
       "added_at": "2026-01-24 22:52:18",
       "album": {

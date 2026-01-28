@@ -1,13 +1,37 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 948,
+  "num_followers": 949,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAEzdz1RrPisDrooALt4NgnMxTmLA9J",
+  "snapshot_id": "AAAEzlh5MKG8NfN+LkBOCEfS8yrWaFgs",
   "tracks": [
+    {
+      "added_at": "2026-01-27 13:35:27",
+      "album": {
+        "name": "Blood Debt",
+        "url": "https://open.spotify.com/album/6GIGtAIDzdZSpgqVkMVE4x"
+      },
+      "artists": [
+        {
+          "name": "Loprov",
+          "url": "https://open.spotify.com/artist/3Zv31lkrOJ7HPBWmXOjiwJ"
+        },
+        {
+          "name": "Daratomic",
+          "url": "https://open.spotify.com/artist/19NwIIQXJ70524wDFURjHM"
+        },
+        {
+          "name": "Moleigh",
+          "url": "https://open.spotify.com/artist/7kUEA4RRzFlUBJLE9cW0T3"
+        }
+      ],
+      "duration_ms": 214090,
+      "name": "Blood Debt",
+      "url": "https://open.spotify.com/track/6S0kAXCMEs0ysXHG2Ev2b4"
+    },
     {
       "added_at": "2026-01-26 07:33:04",
       "album": {

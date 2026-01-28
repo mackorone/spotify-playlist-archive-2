@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,857 likes - 75 songs - 3 hr 58 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,858 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 44 | [EN EL AIRE](https://open.spotify.com/track/6QWgJuTkmGGQuouXdF5PnL) | [Antony Z](https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc) | [EN EL AIRE](https://open.spotify.com/album/58CVFJ0DNUNek4JbcUG0qF) | 3:00 |
 | 45 | [Devuélveme Berlín](https://open.spotify.com/track/394gU0ahM6vCQajiPZwYdK) | [Nueva Tragedia](https://open.spotify.com/artist/7dS1OS0EFn4bJUaCA7oU82) | [Devuélveme Berlín](https://open.spotify.com/album/3eqGtv0DWBU1pLfCrjm0Ci) | 2:52 |
 | 46 | [Pa Devorarte Lento](https://open.spotify.com/track/4X3sxnfj2oYwnNSAAvnRuy) | [Cocco Lexa](https://open.spotify.com/artist/5WMoWNq8DuL9pob4qu7mau) | [Pa Devorarte Lento](https://open.spotify.com/album/5wb1ifHsgGy8fYI0PwmCiT) | 2:25 |
-| 47 | [ROADTRIP](https://open.spotify.com/track/1WZfs7Pl5zlvsqv8yH3RGC) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN), [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU) | [ROADTRIP](https://open.spotify.com/album/2pJoTyNXajAzNvSomoodOJ) | 2:41 |
+| 47 | [ROADTRIP](https://open.spotify.com/track/1WZfs7Pl5zlvsqv8yH3RGC) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN) | [ROADTRIP](https://open.spotify.com/album/2pJoTyNXajAzNvSomoodOJ) | 2:41 |
 | 48 | [Carretera o trueno](https://open.spotify.com/track/1o2OthooX1z28pRNR3zT3C) | [Ángel Stanich](https://open.spotify.com/artist/1S3qoq3uXtDOYVrohpcsKY) | [Por La Hierba](https://open.spotify.com/album/0tuPflke7JHWNpM436nzqs) | 7:25 |
 | 49 | [Rollitos de Papel](https://open.spotify.com/track/2In4JKhdvDXXszMTh6PlnN) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Rollitos de Papel](https://open.spotify.com/album/7eZ9SGcuTyYH6tHeLFhuu1) | 3:02 |
 | 50 | [Como mamá no hay nadie](https://open.spotify.com/track/0w0JFaVKjYpNPNyH4DsbEV) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Como mamá no hay nadie](https://open.spotify.com/album/1tc9L3fPeQA36Yosp3iUjc) | 3:23 |

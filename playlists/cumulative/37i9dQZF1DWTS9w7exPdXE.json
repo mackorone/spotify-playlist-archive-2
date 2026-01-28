@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Volkspop | Nederpop. Cover: Yves Berendse",
+  "description": "Samuel Welten genomineerd voor Edison Pop 2026: Nieuwkomer en Hollands \ud83d\udd25",
   "name": "Hollandse Meezingers",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-22",
+      "date_removed": null,
       "duration_ms": 187611,
       "name": "5 In De Klok",
       "url": "https://open.spotify.com/track/7fOoETcG8UZb1dxzZpntQG"
@@ -60,6 +60,24 @@
       "duration_ms": 193694,
       "name": "Alleen Met Jou",
       "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
+    },
+    {
+      "album": {
+        "name": "Alles Kan Kapot",
+        "url": "https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT"
+      },
+      "artists": [
+        {
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172211,
+      "name": "Alles Kan Kapot",
+      "url": "https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA"
     },
     {
       "album": {
@@ -306,7 +324,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 192521,
       "name": "Doe mij 'n rondje",
       "url": "https://open.spotify.com/track/36mfPdmT0HORyDrswBxDBQ"
@@ -371,6 +389,24 @@
     },
     {
       "album": {
+        "name": "Echte Liefde Is Te Koop",
+        "url": "https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR"
+      },
+      "artists": [
+        {
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152659,
+      "name": "Echte Liefde Is Te Koop",
+      "url": "https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4"
+    },
+    {
+      "album": {
         "name": "Echte Mannen",
         "url": "https://open.spotify.com/album/7j19gpFj0fFgofGpzKBxIA"
       },
@@ -382,7 +418,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 151923,
       "name": "Echte Mannen",
       "url": "https://open.spotify.com/track/4o9157hDlVkI3yB6VlftO2"
@@ -1036,7 +1072,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-26",
+      "date_removed": null,
       "duration_ms": 200779,
       "name": "Jij Krijgt Die Lach Niet Van Mijn Gezicht",
       "url": "https://open.spotify.com/track/60VvE1ktlRQSS1RW6CSzoV"
@@ -1090,7 +1126,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-25",
+      "date_removed": null,
       "duration_ms": 206400,
       "name": "Kali - Kali",
       "url": "https://open.spotify.com/track/4eyGhxR256IUS9BQbuGEGb"
@@ -1188,7 +1224,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 175415,
       "name": "Laat Me",
       "url": "https://open.spotify.com/track/76R6fJE47MpXBpAGjkj0Tf"
@@ -1492,7 +1528,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 159843,
       "name": "Nog Geen Si\u00ebsta",
       "url": "https://open.spotify.com/track/2G82CkBfptmOqnGevZDrfM"
@@ -1714,7 +1750,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 133000,
       "name": "Stapje",
       "url": "https://open.spotify.com/track/49BzgE7lD0hPwN8ixEK85c"

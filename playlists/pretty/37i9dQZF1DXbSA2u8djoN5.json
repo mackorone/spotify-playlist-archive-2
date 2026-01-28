@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: DZWS, Vali Miron ",
-  "num_followers": 22438,
+  "num_followers": 22441,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -279,78 +279,6 @@
     {
       "added_at": "2026-01-15 22:00:28",
       "album": {
-        "name": "Poti Sa-mi Iei Tot (Doamna si Vagabondu)",
-        "url": "https://open.spotify.com/album/5VeMNO8D7StyEC3YYKbz9B"
-      },
-      "artists": [
-        {
-          "name": "POLLY",
-          "url": "https://open.spotify.com/artist/5kX69Jx93xDc0lRKWmxnlo"
-        },
-        {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
-        }
-      ],
-      "duration_ms": 193481,
-      "name": "Poti Sa-mi Iei Tot - Doamna si Vagabondu",
-      "url": "https://open.spotify.com/track/0fq0NieyTdydUQJ0FWrtTy"
-    },
-    {
-      "added_at": "2026-01-15 22:00:28",
-      "album": {
-        "name": "Ne vedem acas\u0103",
-        "url": "https://open.spotify.com/album/3KXsYqkmp8SbmCzScrOs1G"
-      },
-      "artists": [
-        {
-          "name": "Cortes",
-          "url": "https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF"
-        }
-      ],
-      "duration_ms": 179340,
-      "name": "Ne vedem acas\u0103",
-      "url": "https://open.spotify.com/track/03YZNYucckHvgYTO2yQe83"
-    },
-    {
-      "added_at": "2026-01-15 22:00:28",
-      "album": {
-        "name": "ultima (noapte)",
-        "url": "https://open.spotify.com/album/6rlFAvwB2e8ye7JeQZkxZC"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
-        },
-        {
-          "name": "Oscar",
-          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "ultima (noapte)",
-      "url": "https://open.spotify.com/track/2CGaabfPeMsfEUpYN7gOti"
-    },
-    {
-      "added_at": "2026-01-15 22:00:28",
-      "album": {
-        "name": "Acasa",
-        "url": "https://open.spotify.com/album/2KP4jjvTTakCQ6ExzkCV3F"
-      },
-      "artists": [
-        {
-          "name": "Criss Blaziny",
-          "url": "https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Acasa",
-      "url": "https://open.spotify.com/track/7xfAwfLFy8ObH0oHkxZ7hV"
-    },
-    {
-      "added_at": "2026-01-15 22:00:28",
-      "album": {
         "name": "LUCIFER",
         "url": "https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS"
       },
@@ -375,6 +303,78 @@
     {
       "added_at": "2026-01-15 22:00:28",
       "album": {
+        "name": "Ne vedem acas\u0103",
+        "url": "https://open.spotify.com/album/3KXsYqkmp8SbmCzScrOs1G"
+      },
+      "artists": [
+        {
+          "name": "Cortes",
+          "url": "https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF"
+        }
+      ],
+      "duration_ms": 179340,
+      "name": "Ne vedem acas\u0103",
+      "url": "https://open.spotify.com/track/03YZNYucckHvgYTO2yQe83"
+    },
+    {
+      "added_at": "2026-01-15 22:00:28",
+      "album": {
+        "name": "Poti Sa-mi Iei Tot (Doamna si Vagabondu)",
+        "url": "https://open.spotify.com/album/5VeMNO8D7StyEC3YYKbz9B"
+      },
+      "artists": [
+        {
+          "name": "POLLY",
+          "url": "https://open.spotify.com/artist/5kX69Jx93xDc0lRKWmxnlo"
+        },
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        }
+      ],
+      "duration_ms": 193481,
+      "name": "Poti Sa-mi Iei Tot - Doamna si Vagabondu",
+      "url": "https://open.spotify.com/track/0fq0NieyTdydUQJ0FWrtTy"
+    },
+    {
+      "added_at": "2026-01-15 22:00:28",
+      "album": {
+        "name": "Acasa",
+        "url": "https://open.spotify.com/album/2KP4jjvTTakCQ6ExzkCV3F"
+      },
+      "artists": [
+        {
+          "name": "Criss Blaziny",
+          "url": "https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Acasa",
+      "url": "https://open.spotify.com/track/7xfAwfLFy8ObH0oHkxZ7hV"
+    },
+    {
+      "added_at": "2026-01-15 22:00:28",
+      "album": {
+        "name": "ultima (noapte)",
+        "url": "https://open.spotify.com/album/6rlFAvwB2e8ye7JeQZkxZC"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        },
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "ultima (noapte)",
+      "url": "https://open.spotify.com/track/2CGaabfPeMsfEUpYN7gOti"
+    },
+    {
+      "added_at": "2026-01-15 22:00:28",
+      "album": {
         "name": "Nexus",
         "url": "https://open.spotify.com/album/22jhpvStxovmSD07CVNqAu"
       },
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-01-15 22:00:28",
       "album": {
+        "name": "Direct din Tei",
+        "url": "https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr"
+      },
+      "artists": [
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        }
+      ],
+      "duration_ms": 159244,
+      "name": "Sunt fratii tai",
+      "url": "https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a"
+    },
+    {
+      "added_at": "2026-01-15 22:00:28",
+      "album": {
         "name": "Arunca-ma La Lei",
         "url": "https://open.spotify.com/album/4rQF7AMYBWW1zDGoVZ6on7"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 152144,
       "name": "Arunca-ma La Lei",
       "url": "https://open.spotify.com/track/7ey9WXRJsnb9Bgsg7U41xb"
-    },
-    {
-      "added_at": "2026-01-15 22:00:28",
-      "album": {
-        "name": "Direct din Tei",
-        "url": "https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr"
-      },
-      "artists": [
-        {
-          "name": "Petre Stefan",
-          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
-        }
-      ],
-      "duration_ms": 159244,
-      "name": "Sunt fratii tai",
-      "url": "https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a"
     },
     {
       "added_at": "2026-01-15 22:00:28",
@@ -887,22 +887,22 @@
     {
       "added_at": "2026-01-15 22:00:28",
       "album": {
-        "name": "ALTCEVA",
-        "url": "https://open.spotify.com/album/6ARByzuJLUgx9fCecZ3PJo"
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV"
       },
       "artists": [
         {
-          "name": "Simiz",
-          "url": "https://open.spotify.com/artist/5E8nbRGMr541TMSF7bH3lD"
+          "name": "Endru",
+          "url": "https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l"
         },
         {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
         }
       ],
-      "duration_ms": 186300,
-      "name": "ALTCEVA",
-      "url": "https://open.spotify.com/track/4ukqJjrUjNiKAKRGeuOy79"
+      "duration_ms": 152000,
+      "name": "Poate",
+      "url": "https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu"
     },
     {
       "added_at": "2026-01-15 22:00:28",
@@ -943,22 +943,22 @@
     {
       "added_at": "2026-01-15 22:00:28",
       "album": {
-        "name": "Blur",
-        "url": "https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV"
+        "name": "ALTCEVA",
+        "url": "https://open.spotify.com/album/6ARByzuJLUgx9fCecZ3PJo"
       },
       "artists": [
         {
-          "name": "Endru",
-          "url": "https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l"
+          "name": "Simiz",
+          "url": "https://open.spotify.com/artist/5E8nbRGMr541TMSF7bH3lD"
         },
         {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Poate",
-      "url": "https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu"
+      "duration_ms": 186300,
+      "name": "ALTCEVA",
+      "url": "https://open.spotify.com/track/4ukqJjrUjNiKAKRGeuOy79"
     },
     {
       "added_at": "2026-01-15 22:00:28",

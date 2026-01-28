@@ -1,12 +1,12 @@
 {
   "description": "Mellow down the mood with these Telugu tracks\nCover: Dear Comrade",
-  "num_followers": 99304,
+  "num_followers": 99366,
   "original_name": "Mellow Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC1KGddQMgCRXoqrTsIphHXwyiQS",
+  "snapshot_id": "AAAAAGqgcCO0hLDxw/fbf0aw/Vqj9X68",
   "tracks": [
     {
       "added_at": "2021-05-18 09:57:44",
@@ -581,6 +581,26 @@
       "url": "https://open.spotify.com/track/4IXvddnjRVwgZ62EnWR6dy"
     },
     {
+      "added_at": "2026-01-27 11:14:07",
+      "album": {
+        "name": "It's Ok Guru (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0b6Z3XgIc3mhFPo7bmmhtC"
+      },
+      "artists": [
+        {
+          "name": "Lakshmi Priyanka",
+          "url": "https://open.spotify.com/artist/2K08CRxFYB4vypKb79x62A"
+        },
+        {
+          "name": "Ranjith",
+          "url": "https://open.spotify.com/artist/7kzQY1HruUiBsVJxDPcgiy"
+        }
+      ],
+      "duration_ms": 252911,
+      "name": "Naalo Neene",
+      "url": "https://open.spotify.com/track/5AHEkJZ2RmgSLx3w7bRttv"
+    },
+    {
       "added_at": "2021-05-18 09:57:44",
       "album": {
         "name": "Mirchi",
@@ -899,26 +919,6 @@
     {
       "added_at": "2022-09-02 08:32:31",
       "album": {
-        "name": "Nuvvu Nenu Prema",
-        "url": "https://open.spotify.com/album/7wzrO24y9VOsAd5P4FjdxP"
-      },
-      "artists": [
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Naresh Ayar",
-          "url": "https://open.spotify.com/artist/1khqNmFNMQ1SME1rAV4ZCl"
-        }
-      ],
-      "duration_ms": 354368,
-      "name": "Preminche Premava",
-      "url": "https://open.spotify.com/track/1FtRJTH2uCemK3N2qUOb3U"
-    },
-    {
-      "added_at": "2022-09-02 08:32:31",
-      "album": {
         "name": "Sakhi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/63A8OAjGyffPyMhZOMhoSG"
       },
@@ -935,6 +935,26 @@
       "duration_ms": 361666,
       "name": "Pachchadanamey",
       "url": "https://open.spotify.com/track/6Au5A9YR9koo7bkyG4ucYf"
+    },
+    {
+      "added_at": "2022-09-02 08:32:31",
+      "album": {
+        "name": "Nuvvu Nenu Prema",
+        "url": "https://open.spotify.com/album/7wzrO24y9VOsAd5P4FjdxP"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Naresh Ayar",
+          "url": "https://open.spotify.com/artist/1khqNmFNMQ1SME1rAV4ZCl"
+        }
+      ],
+      "duration_ms": 354368,
+      "name": "Preminche Premava",
+      "url": "https://open.spotify.com/track/1FtRJTH2uCemK3N2qUOb3U"
     },
     {
       "added_at": "2022-09-02 08:32:31",
@@ -979,22 +999,6 @@
       "duration_ms": 301557,
       "name": "Dhim Thana",
       "url": "https://open.spotify.com/track/6bbSwo7GyM7DWjzicUerR9"
-    },
-    {
-      "added_at": "2025-09-22 10:53:22",
-      "album": {
-        "name": "Hey Radha - Single",
-        "url": "https://open.spotify.com/album/2t3bQJvaw1iG9mPah8mBRG"
-      },
-      "artists": [
-        {
-          "name": "Amar Dudam",
-          "url": "https://open.spotify.com/artist/6whKgtgFVbXg8VxPF22go2"
-        }
-      ],
-      "duration_ms": 243809,
-      "name": "Hey Radha",
-      "url": "https://open.spotify.com/track/3NT8OV19NUe4szO6OL0OEu"
     }
   ],
   "unique_name": "Mellow Telugu",

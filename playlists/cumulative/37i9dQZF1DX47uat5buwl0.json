@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "\ud83d\udd25\ud83c\udf89",
+  "description": "Miloolaathetlukken genomineerd voor Edison Pop 2026: Nieuwkomer. HDP \ud83d\udd25\ud83c\udf89",
   "name": "Studenten Hits 2026",
   "tracks": [
     {
@@ -611,6 +611,24 @@
     },
     {
       "album": {
+        "name": "Dansvloer Dilemma",
+        "url": "https://open.spotify.com/album/4NMMzxRCxS2ndNubwAznAF"
+      },
+      "artists": [
+        {
+          "name": "Roeland Beelen",
+          "url": "https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128780,
+      "name": "Dansvloer Dilemma",
+      "url": "https://open.spotify.com/track/5hm19T0tQzMHTnC3lZA8PC"
+    },
+    {
+      "album": {
         "name": "De Liefde",
         "url": "https://open.spotify.com/album/61mnvmeJ8RTpN5bXDq6AXy"
       },
@@ -662,6 +680,28 @@
       "duration_ms": 136406,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK"
+    },
+    {
+      "album": {
+        "name": "Diamanten 2026",
+        "url": "https://open.spotify.com/album/0gOmmwZebd7qsHjSXWrtO9"
+      },
+      "artists": [
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        },
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126187,
+      "name": "Diamanten 2026",
+      "url": "https://open.spotify.com/track/44BiqiikZbn2FOz0iI48a5"
     },
     {
       "album": {
@@ -1316,7 +1356,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 213040,
       "name": "I Surrender (feat. Lange Frans) - Remix",
       "url": "https://open.spotify.com/track/5v9RI8UmSTgDSsZ8cKENc5"
@@ -2360,6 +2400,32 @@
       "duration_ms": 155590,
       "name": "Sukkel",
       "url": "https://open.spotify.com/track/7zYGIaIvLBtrrEfJxTuAUS"
+    },
+    {
+      "album": {
+        "name": "Take Me Up (Gotta Get Up)",
+        "url": "https://open.spotify.com/album/45kSt9lcncbWs2HVUnG0qo"
+      },
+      "artists": [
+        {
+          "name": "Ralphi Rosario",
+          "url": "https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh"
+        },
+        {
+          "name": "Donna Blakely",
+          "url": "https://open.spotify.com/artist/5l4zJlT301p3IPrAx94iqw"
+        },
+        {
+          "name": "Lego",
+          "url": "https://open.spotify.com/artist/0GDPEEALVh9alIcGtM9SBE"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202926,
+      "name": "Take Me Up (Gotta Get Up) - Lego Edit",
+      "url": "https://open.spotify.com/track/1ovbcaNgLbOp71RbF4pvng"
     },
     {
       "album": {

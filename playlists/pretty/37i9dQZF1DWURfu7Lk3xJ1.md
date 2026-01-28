@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,356 likes - 150 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,371 likes - 150 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,7 +151,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 141 | [Dough](https://open.spotify.com/track/3uluGjjaD6kGBCT6MmjtqJ) | [Qommodity](https://open.spotify.com/artist/5Pts11yzPI5Qsl7PmTed5P) | [Dough](https://open.spotify.com/album/5KwP50V6r6CfEzHdD0ShHw) | 2:30 |
 | 142 | [Encounter](https://open.spotify.com/track/10Q6Zi067V35REvI9w40hm) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [Encounter](https://open.spotify.com/album/1Y5GeinuQQrEwocF29Svy0) | 2:26 |
 | 143 | [Deep In The Fog](https://open.spotify.com/track/7bE2lnAsVdWTVb11wRjgOO) | [snowmeadow](https://open.spotify.com/artist/2X1uKCWnxuVLMW9iRG9Buw) | [Deep In The Fog](https://open.spotify.com/album/6O8WI1fmKoTEsXtE9T4xbT) | 2:35 |
-| 144 | [Wishing](https://open.spotify.com/track/29GXrg61hnt8e8q0nLRzmN) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Chalm](https://open.spotify.com/artist/0QD7NOgkoDdwmAsq6Vg0xf) | [Wishing](https://open.spotify.com/album/1GQwguVGpwxgdwYI6SxTTJ) | 2:22 |
+| 144 | [Wishing](https://open.spotify.com/track/29GXrg61hnt8e8q0nLRzmN) | [Bcalm](https://open.spotify.com/artist/6l8nDqJSAe6PuMkkHTFTEG), [Chalm](https://open.spotify.com/artist/3UN1zZownSW847yiauB09O) | [Wishing](https://open.spotify.com/album/1GQwguVGpwxgdwYI6SxTTJ) | 2:22 |
 | 145 | [dreamescapes](https://open.spotify.com/track/43qUMv8cu8aNTY72z4l10v) | [redknobs](https://open.spotify.com/artist/69cokHbMaS4QTveywGMSUN) | [dreamescapes](https://open.spotify.com/album/4ZYVMC1EfWl9zk1CREvBCK) | 4:17 |
 | 146 | [Yours](https://open.spotify.com/track/2k6nINDNfSvdnF2cSmBt2S) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [afterthought](https://open.spotify.com/album/5PMYxpXf5gtKt1hTthAaB0) | 2:45 |
 | 147 | [Floating Stones](https://open.spotify.com/track/0ZotW8k8AHAkFpkJjp7BZL) | [stella light](https://open.spotify.com/artist/2WxlX59yWZg3hi99qQ8nch) | [Floating Stones](https://open.spotify.com/album/2eZZotBSXmgv3Bnoh4fKov) | 2:03 |

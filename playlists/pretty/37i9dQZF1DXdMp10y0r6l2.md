@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 
 > AAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHH\. Poppy en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,958 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,948 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

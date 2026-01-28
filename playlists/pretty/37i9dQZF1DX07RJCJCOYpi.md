@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: RØZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,814,555 likes - 110 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,814,287 likes - 110 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 19 | [Apaga la luz](https://open.spotify.com/track/45ewyxF625HzqLCKgZU0tp) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Apaga la luz](https://open.spotify.com/album/2lG9UbKlWrurlbT6GDZJCf) | 3:23 |
 | 20 | [Revolu](https://open.spotify.com/track/1yDUEtPpsEYzM3eM2wI72t) | [Mr\. Pauer](https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ), [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [Revolu](https://open.spotify.com/album/4fG7T74X5cICSV4tGPBmBp) | 2:51 |
 | 21 | [Bitch](https://open.spotify.com/track/6CB9r4IC3iHpKjowIVinOV) | [Private Music](https://open.spotify.com/artist/1eKjyHjZxxy9jt85oWnF1L), [Joonyes](https://open.spotify.com/artist/3blefdKESIFMEPBM11UYw9), [Sr APG](https://open.spotify.com/artist/0UBaYKoVQ3ICB5vPKe14mp) | [Bitch](https://open.spotify.com/album/2lfxXTo48Acq4YZXO4wkSJ) | 3:45 |
-| 22 | [Amazonas Tic Tic Tac](https://open.spotify.com/track/3Umr6JkfbUhDQdfGOSVSq9) | [Gaia Music](https://open.spotify.com/artist/4plmCc0XXDEHO2MF0mNpgp) | [Amazonas Tic Tic Tac](https://open.spotify.com/album/0UZLUDSyq90prpzxAMMu8C) | 4:07 |
+| 22 | [Amazonas Tic Tic Tac](https://open.spotify.com/track/3Umr6JkfbUhDQdfGOSVSq9) | [Gaia Music](https://open.spotify.com/artist/4plmCc0XXDEHO2MF0mNpgp), [Sr APG](https://open.spotify.com/artist/0UBaYKoVQ3ICB5vPKe14mp) | [Amazonas Tic Tic Tac](https://open.spotify.com/album/0UZLUDSyq90prpzxAMMu8C) | 4:07 |
 | 23 | [Como Tú](https://open.spotify.com/track/0B579r7pTXXfLY4bP90rOA) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [For Siempre, Pt\. 1](https://open.spotify.com/album/47ckEmuDKYDwnwIFgb05iY) | 1:44 |
 | 24 | [Baile Bounce](https://open.spotify.com/track/4JAi6fdEddk9XpW23KYq2E) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U), [BOLO THE DJ](https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7), [CASA AMIGOS](https://open.spotify.com/artist/1GfmUaYy7OeBPTwqDrjiE3) | [Baile Bounce](https://open.spotify.com/album/7BTKwaSJQBJvzMxVb82sVE) | 2:14 |
 | 25 | [Papi](https://open.spotify.com/track/4wYTybPU1G7ZuXKjMdrn54) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [GeezLy](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc) | [Papi](https://open.spotify.com/album/21T52MdMD1iecNLNbMvBhg) | 3:03 |

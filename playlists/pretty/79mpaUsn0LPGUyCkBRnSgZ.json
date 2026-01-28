@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAIgdnay99bI1kD0Ql+UgGoyFtKm5e3",
+  "snapshot_id": "AAAIhAc2Nb1XRkur2iHi586LP/zeWwzh",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -11043,6 +11043,38 @@
       "duration_ms": 254760,
       "name": "Pure Morning",
       "url": "https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr"
+    },
+    {
+      "added_at": "2026-01-27 15:42:46",
+      "album": {
+        "name": "Dusk at Cubist Castle",
+        "url": "https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh"
+      },
+      "artists": [
+        {
+          "name": "The Olivia Tremor Control",
+          "url": "https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB"
+        }
+      ],
+      "duration_ms": 192666,
+      "name": "The Opera House",
+      "url": "https://open.spotify.com/track/3zKJpbuKNuDKH0jjLzG6dL"
+    },
+    {
+      "added_at": "2026-01-27 21:24:16",
+      "album": {
+        "name": "Radial Gate",
+        "url": "https://open.spotify.com/album/71rikQrO1rt7hMQlDBBliD"
+      },
+      "artists": [
+        {
+          "name": "Sluice",
+          "url": "https://open.spotify.com/artist/2G2lzG0hD7813EiPyiCC4j"
+        }
+      ],
+      "duration_ms": 139166,
+      "name": "Ostern",
+      "url": "https://open.spotify.com/track/0Ohx8aU9KdLnvg36zY4SA5"
     }
   ],
   "unique_name": "Zacklog",

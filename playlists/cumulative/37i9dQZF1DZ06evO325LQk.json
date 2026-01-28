@@ -461,6 +461,24 @@
     },
     {
       "album": {
+        "name": "SOPHIE",
+        "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272249,
+      "name": "Intro (The Full Horror)",
+      "url": "https://open.spotify.com/track/3YPfxc8VgXcRWLjyjNNJ96"
+    },
+    {
+      "album": {
         "name": "OIL OF EVERY PEARL'S UN-INSIDES",
         "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
       },
@@ -1012,7 +1030,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 259045,
       "name": "Why Lies (feat. BC Kingdom and LIZ)",
       "url": "https://open.spotify.com/track/3Jo0w1uct8LO8vY7z21hLi"

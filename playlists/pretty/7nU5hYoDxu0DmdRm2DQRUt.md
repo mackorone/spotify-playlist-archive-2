@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7nU5hYoDxu0DmdRm2DQRUt.md) - [plain]
 
 > New Arrivals keeps you posted on the latest records arriving in our record store and online shop &\#x2F; kompakt.fm
 
-[Kompakt Records](https://open.spotify.com/user/kompaktrecords) - 7,856 likes - 213 songs - 19 hr 59 min
+[Kompakt Records](https://open.spotify.com/user/kompaktrecords) - 7,855 likes - 213 songs - 19 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/7nU5hYoDxu0DmdRm2DQRUt.md) - [plain]
 | 40 | [Patch 2](https://open.spotify.com/track/7MmbZIwm9yLCh2nTerZmaJ) | [Andy Ash](https://open.spotify.com/artist/1fZXR3qMqZ7trS0735fcQi) | [Silent Planet Ep](https://open.spotify.com/album/1ofXmzQQtT3uRt95c4Ul1c) | 6:37 |
 | 41 | [City Heat \- Work](https://open.spotify.com/track/3orGgDBB0jDO8VY3qj3Woi) | [Mr\. G](https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN) | [Work](https://open.spotify.com/album/2dZXEn3DLzrc5tfzjVMepR) | 5:58 |
 | 42 | [Replica](https://open.spotify.com/track/1zwyhkjQ00QTC731IRJXD2) | [Asa Tate](https://open.spotify.com/artist/2m6WH0HJcjDrjqEljgQQN7) | [Replica](https://open.spotify.com/album/2lUDDhOsbn4YaJ678DXxtx) | 6:25 |
-| 43 | [Mystery \- Daniel Monaco Remix](https://open.spotify.com/track/4S0vr8Ny7rkXKLa5Ddbidc) | [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH), [Daniel Monaco](https://open.spotify.com/artist/0XH2zyfKSIvX51AkRD16iC), [GUINNY](https://open.spotify.com/artist/2We5sHePj1UqVLOFNU6IOK) | [Mystery \(Daniel Monaco Remix\)](https://open.spotify.com/album/1wwnUw0PCQaPdU4Ibjx2R4) | 4:39 |
+| 43 | [Mystery \- Daniel Monaco Remix](https://open.spotify.com/track/4S0vr8Ny7rkXKLa5Ddbidc) | [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH), [Daniel Monaco](https://open.spotify.com/artist/0XH2zyfKSIvX51AkRD16iC) | [Mystery \(Daniel Monaco Remix\)](https://open.spotify.com/album/1wwnUw0PCQaPdU4Ibjx2R4) | 4:39 |
 | 44 | [Cerebral Waves](https://open.spotify.com/track/5d9iDYEQUi0iZ43N2FAwDV) | [Otherend](https://open.spotify.com/artist/2P5gn2MUiiZyCaN2ZfGYDY) | [Cerebral Waves](https://open.spotify.com/album/2KWM7CUM9LtBUQXf3wu5fy) | 6:54 |
 | 45 | [Grosser Schillerfalter](https://open.spotify.com/track/5na58yd36ypQIEmcaRINoY) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Lepidoptera](https://open.spotify.com/album/5BjwpMKsHSq6S6ftWekq8k) | 4:42 |
 | 46 | [Signal to Noise](https://open.spotify.com/track/2Ceqh11ZEaxh092hTd8SJl) | [efdemin](https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G) | [Poly](https://open.spotify.com/album/0l7zF0wmKvo2smjzhOBzHh) | 4:39 |

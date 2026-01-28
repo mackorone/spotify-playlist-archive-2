@@ -1,12 +1,12 @@
 {
   "description": "This is Outsiders. The essential tracks, all in one playlist.",
-  "num_followers": 23857,
+  "num_followers": 23868,
   "original_name": "This Is Outsiders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXVdAAAAAADNz0drBE9LKekfwnTwQ55k",
+  "snapshot_id": "aXaugAAAAACFec/3p/yjt3+rQEWVl8MK",
   "tracks": [
     {
       "added_at": null,
@@ -579,6 +579,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zo Mooi (feat. Nienke Plas) [Outsiders Remix]",
+        "url": "https://open.spotify.com/album/6fJTqLijxMdr26VfQ2KwGN"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Nienke Plas",
+          "url": "https://open.spotify.com/artist/2R2mPd6EjU9Qpbpgmzpd5w"
+        }
+      ],
+      "duration_ms": 182787,
+      "name": "Zo Mooi (feat. Nienke Plas) - Outsiders Remix",
+      "url": "https://open.spotify.com/track/5qdldVe5utAJBIzwcVGaF5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hardcore Junky (One With The Bass)",
         "url": "https://open.spotify.com/album/06U5ViOnS9ZeVT4tZQFq8q"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 146647,
       "name": "Hardcore Junky (One With The Bass)",
       "url": "https://open.spotify.com/track/71zqC71ELEnE5Byl25FzTj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zo Mooi (feat. Nienke Plas) [Outsiders Remix]",
-        "url": "https://open.spotify.com/album/6fJTqLijxMdr26VfQ2KwGN"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Nienke Plas",
-          "url": "https://open.spotify.com/artist/2R2mPd6EjU9Qpbpgmzpd5w"
-        }
-      ],
-      "duration_ms": 182787,
-      "name": "Zo Mooi (feat. Nienke Plas) - Outsiders Remix",
-      "url": "https://open.spotify.com/track/5qdldVe5utAJBIzwcVGaF5"
     },
     {
       "added_at": null,
@@ -759,30 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Magnifico (Jump Remix)",
-        "url": "https://open.spotify.com/album/17fsAHAovXmpHcXuESaJfh"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "K-Liber",
-          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
-        },
-        {
-          "name": "The Darkraver",
-          "url": "https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv"
-        }
-      ],
-      "duration_ms": 159774,
-      "name": "Magnifico - Jump Remix",
-      "url": "https://open.spotify.com/track/3sFZe3Y4rvMmIdxpektQfV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ons Leven (X-Qlusive Holland 2022 Anthem)",
         "url": "https://open.spotify.com/album/4L2xR6YByNlTTzjG8BeXDH"
       },
@@ -803,6 +779,30 @@
       "duration_ms": 253500,
       "name": "Ons Leven (X-Qlusive Holland 2022 Anthem)",
       "url": "https://open.spotify.com/track/3CTb9BtKXGsnhVtR65I0PP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Magnifico (Jump Remix)",
+        "url": "https://open.spotify.com/album/17fsAHAovXmpHcXuESaJfh"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "K-Liber",
+          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
+        },
+        {
+          "name": "The Darkraver",
+          "url": "https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv"
+        }
+      ],
+      "duration_ms": 159774,
+      "name": "Magnifico - Jump Remix",
+      "url": "https://open.spotify.com/track/3sFZe3Y4rvMmIdxpektQfV"
     },
     {
       "added_at": null,
@@ -871,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Break The Rules",
-        "url": "https://open.spotify.com/album/2e0jHlBzOby8CWE025x6I2"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Partyraiser",
-          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
-        }
-      ],
-      "duration_ms": 231157,
-      "name": "Break The Rules",
-      "url": "https://open.spotify.com/track/1DI9mNWrW3LdQVWPprPRvm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cocaina (feat. Emy Perez)",
         "url": "https://open.spotify.com/album/0wgY2mP9qbxTodGmOraclu"
       },
@@ -915,8 +895,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KUTMUZIEK",
-        "url": "https://open.spotify.com/album/1LvdeBpWj05dDC4Xh7zd3o"
+        "name": "Break The Rules",
+        "url": "https://open.spotify.com/album/2e0jHlBzOby8CWE025x6I2"
       },
       "artists": [
         {
@@ -924,13 +904,13 @@
           "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
         },
         {
-          "name": "NZG\u00dbL",
-          "url": "https://open.spotify.com/artist/0dgxigpP5eh4WUaIxXBYgH"
+          "name": "Partyraiser",
+          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
         }
       ],
-      "duration_ms": 150000,
-      "name": "KUTMUZIEK",
-      "url": "https://open.spotify.com/track/12hnvrted7ORllAafrUiao"
+      "duration_ms": 231157,
+      "name": "Break The Rules",
+      "url": "https://open.spotify.com/track/1DI9mNWrW3LdQVWPprPRvm"
     },
     {
       "added_at": null,
@@ -955,6 +935,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "KUTMUZIEK",
+        "url": "https://open.spotify.com/album/1LvdeBpWj05dDC4Xh7zd3o"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "NZG\u00dbL",
+          "url": "https://open.spotify.com/artist/0dgxigpP5eh4WUaIxXBYgH"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "KUTMUZIEK",
+      "url": "https://open.spotify.com/track/12hnvrted7ORllAafrUiao"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pullover (feat. J.D.A.)",
         "url": "https://open.spotify.com/album/0ehvryl4ZSycpdBU54I5Ak"
       },
@@ -975,26 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Das Armas",
-        "url": "https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc"
-      },
-      "artists": [
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 182709,
-      "name": "Das Armas",
-      "url": "https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Die",
         "url": "https://open.spotify.com/album/0nMvTctnNySXjBarPW4zeu"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 200620,
       "name": "Never Die",
       "url": "https://open.spotify.com/track/3HlfIAAzfqRsAfaRwt85PF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Das Armas",
+        "url": "https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 182709,
+      "name": "Das Armas",
+      "url": "https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC"
     },
     {
       "added_at": null,

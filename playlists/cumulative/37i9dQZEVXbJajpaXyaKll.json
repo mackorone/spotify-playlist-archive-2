@@ -742,7 +742,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 146666,
       "name": "4 Raws",
       "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
@@ -3984,7 +3984,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
@@ -6682,7 +6682,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 145714,
       "name": "CHIKA HIPPIE",
       "url": "https://open.spotify.com/track/45ib6YOsvuza6oIgt7r5d8"
@@ -8356,7 +8356,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC"
@@ -8954,7 +8954,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 125118,
       "name": "DE AFTER",
       "url": "https://open.spotify.com/track/7HeF2Ohd38Xlgq9aXYWB0H"
@@ -11103,6 +11103,24 @@
     },
     {
       "album": {
+        "name": "El Hombre Que Yo Amo (Demo)",
+        "url": "https://open.spotify.com/album/09j6MAxG7AluWTQJcXIJyJ"
+      },
+      "artists": [
+        {
+          "name": "Mara Tamagnini",
+          "url": "https://open.spotify.com/artist/6z0soIuXjuXH2KunYAtz0q"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153160,
+      "name": "El Hombre Que Yo Amo - Demo",
+      "url": "https://open.spotify.com/track/0BUXZKKEnlIxVO9QgHe2u9"
+    },
+    {
+      "album": {
         "name": "LA CIUDAD",
         "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
       },
@@ -12446,7 +12464,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 197031,
       "name": "ES MIO",
       "url": "https://open.spotify.com/track/0GSetWzuSciGAtvZVOmkCt"
@@ -15579,6 +15597,32 @@
     },
     {
       "album": {
+        "name": "HACELA CORTA MOROCHO REMIX",
+        "url": "https://open.spotify.com/album/364VJ4HsSgJc2lLfGHjVAy"
+      },
+      "artists": [
+        {
+          "name": "PALO",
+          "url": "https://open.spotify.com/artist/32ErYjGxv6oBxX1KCMZmtk"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205377,
+      "name": "HACELA CORTA MOROCHO REMIX",
+      "url": "https://open.spotify.com/track/2IoMXdV1pjOTHKyhQNmiA7"
+    },
+    {
+      "album": {
         "name": "D-DAY",
         "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
       },
@@ -17202,6 +17246,24 @@
       "duration_ms": 243875,
       "name": "I Hate It Here",
       "url": "https://open.spotify.com/track/3hlGuz3loYoLfI3bpwieWq"
+    },
+    {
+      "album": {
+        "name": "I Just Might",
+        "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212973,
+      "name": "I Just Might",
+      "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
     },
     {
       "album": {
@@ -20128,6 +20190,24 @@
       "duration_ms": 163290,
       "name": "LET THE WORLD BURN",
       "url": "https://open.spotify.com/track/1De425SCFJULIHbcmeebUw"
+    },
+    {
+      "album": {
+        "name": "Megadeth",
+        "url": "https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238276,
+      "name": "Let There Be Shred",
+      "url": "https://open.spotify.com/track/0E6gLYpXfDt5auRoCKHvD0"
     },
     {
       "album": {
@@ -25446,6 +25526,28 @@
       "duration_ms": 194026,
       "name": "My Valentine",
       "url": "https://open.spotify.com/track/0LJrw4m55mJcLB8X2IPwpB"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s linda que ayer",
+        "url": "https://open.spotify.com/album/0iJWibzUMRznu5AYJUQeDp"
+      },
+      "artists": [
+        {
+          "name": "Lauta",
+          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
+        },
+        {
+          "name": "Tote",
+          "url": "https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "M\u00e1s linda que ayer",
+      "url": "https://open.spotify.com/track/4mmg0bHtwihahCotqiqx7T"
     },
     {
       "album": {
@@ -32863,6 +32965,28 @@
     },
     {
       "album": {
+        "name": "Salame y Pan",
+        "url": "https://open.spotify.com/album/1OTjN2hb0EXCyay71ewIuz"
+      },
+      "artists": [
+        {
+          "name": "Martin Moreno",
+          "url": "https://open.spotify.com/artist/59h2d6LEgTjC8LUySW54EA"
+        },
+        {
+          "name": "Gonzalo Falc\u00f3n",
+          "url": "https://open.spotify.com/artist/3hRYDv2u2yGNJx6q4TCrtw"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168096,
+      "name": "Salame y Pan",
+      "url": "https://open.spotify.com/track/4UokrCmVYWuLWUoZUABO4x"
+    },
+    {
+      "album": {
         "name": "SALE SOLA",
         "url": "https://open.spotify.com/album/5mWt90aqfwx2SoepYXeOuk"
       },
@@ -37238,7 +37362,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 140087,
       "name": "Te Lo Doy - Remix",
       "url": "https://open.spotify.com/track/7cRSsZ2iM0AtWSPPYu1LZy"
@@ -39360,7 +39484,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 248159,
       "name": "Tu Nombre en la Oscuridad",
       "url": "https://open.spotify.com/track/13XTDTngvvkb3b2FpBOQXU"
@@ -40779,6 +40903,24 @@
     },
     {
       "album": {
+        "name": "Vengo De Abajo",
+        "url": "https://open.spotify.com/album/4ZshkFagWrw3swMYIPW2uH"
+      },
+      "artists": [
+        {
+          "name": "DJ MacGyver",
+          "url": "https://open.spotify.com/artist/04WMIxuWe0tDLUe2DSvuTq"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117159,
+      "name": "Vengo De Abajo",
+      "url": "https://open.spotify.com/track/7AqNqbzj0q9g6GxT9mBDPI"
+    },
+    {
+      "album": {
         "name": "Veo Veo",
         "url": "https://open.spotify.com/album/24t1jTlCwVs2wtvVRAy48G"
       },
@@ -42046,6 +42188,32 @@
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p"
+    },
+    {
+      "album": {
+        "name": "WHISCOLA",
+        "url": "https://open.spotify.com/album/4yV6n2IuSRYOSSvnRBkhG5"
+      },
+      "artists": [
+        {
+          "name": "Lucauy",
+          "url": "https://open.spotify.com/artist/5bm3h7dBIpjofczY1v8jD4"
+        },
+        {
+          "name": "Valentino",
+          "url": "https://open.spotify.com/artist/66zTXQMReYmzijyuktvV27"
+        },
+        {
+          "name": "Miqueas Tabor",
+          "url": "https://open.spotify.com/artist/2s0y3W9RWgnrlpcNJ40UP2"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181165,
+      "name": "WHISCOLA",
+      "url": "https://open.spotify.com/track/4R3N5ih3Sht7y25hpdtAGn"
     },
     {
       "album": {

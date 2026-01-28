@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Larry June
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,771 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,769 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 21 | [Sidewalk](https://open.spotify.com/track/0TaDKZLfvxRiK7YPYI6Fac) | [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Sidewalk](https://open.spotify.com/album/2WrDAT2L0l0xKeTaCuMYhw) | 1:59 |
 | 22 | [Vamonos](https://open.spotify.com/track/0OAmeNsVSFh8Eh2Nuq2cId) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [Vamonos](https://open.spotify.com/album/4ofayh5ykOEekd7Ei1SyH9) | 2:06 |
 | 23 | [Highlights](https://open.spotify.com/track/6c1M70ITWUXrVxmQeFoBus) | [Joe Maynor](https://open.spotify.com/artist/1PCPY2XwqDjKWiPEUJuQYf) | [Highlights](https://open.spotify.com/album/6YnZydO6zNHeaQczPrDlKn) | 2:18 |
-| 24 | [Baller Blockin \(feat\. ALLBLACK & Zaybang\)](https://open.spotify.com/track/0yZmUchFp5qtvPD89zzTB7) | [One Umbrella](https://open.spotify.com/artist/2KgAvy3nNfdR0tWMBZpOrl), [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef), [Lil Yee](https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i), [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [ZayBang](https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG) | [Baller Blockin \(feat\. ALLBLACK & Zaybang\)](https://open.spotify.com/album/76eHmXqD3cS3jbsPpATqcC) | 3:01 |
+| 24 | [Baller Blockin \(feat\. ALLBLACK & Zaybang\)](https://open.spotify.com/track/0yZmUchFp5qtvPD89zzTB7) | [1 Umbrella](https://open.spotify.com/artist/2KgAvy3nNfdR0tWMBZpOrl), [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef), [Lil Yee](https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i), [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [ZayBang](https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG) | [Baller Blockin \(feat\. ALLBLACK & Zaybang\)](https://open.spotify.com/album/76eHmXqD3cS3jbsPpATqcC) | 3:01 |
 | 25 | [Ass Match The Legs](https://open.spotify.com/track/0h2jIyHrcK0cBymMj568Ob) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [KEY!](https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP), [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ) | [Ass Match The Legs](https://open.spotify.com/album/1sNHtQFhH4f5dSdQiFwIzz) | 3:09 |
 | 26 | [Disappear \(feat\. Cypress Moreno & Zoe Osama\)](https://open.spotify.com/track/6FBldckQVOuNPFCtylOz7m) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Parkside Santa 2](https://open.spotify.com/album/1HHbbDTaC4QR1yiVTGCmxO) | 2:24 |
 | 27 | [Back Hooping](https://open.spotify.com/track/3MoyibT0PjHL4V4lB0gRd2) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [End Of The World](https://open.spotify.com/album/0Xtc69JM321f5Mlse9x2cK) | 2:21 |

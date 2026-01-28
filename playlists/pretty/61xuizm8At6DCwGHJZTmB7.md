@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 ### [Top Christian Worship 2026](https://open.spotify.com/playlist/61xuizm8At6DCwGHJZTmB7)
 
-> Top Christian Worship 2026 \| Happy New Year 2026! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>
+> Top Christian Worship 2026 \| Happy New Year 2026! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! 2016 \| Winter storm \| snow storm 2026 \| new year hits \| cozy
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,503 likes - 165 songs - 14 hr 53 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,495 likes - 165 songs - 14 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 164 | [Approach, My Soul \- Live](https://open.spotify.com/track/3jME2qiOyKUkWo6GTSj827) | [Jordan Kauflin](https://open.spotify.com/artist/693dfM3T8ebvdxPrqLAjqt), [Sing!](https://open.spotify.com/artist/4yLrqCnweM5i52DkFUkTl9), [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [Sing! Songs of the Bible \- Live At The Getty Music Worship Conference](https://open.spotify.com/album/2usUfbrN8pqkH5u1g6B9rG) | 3:52 |
 | 165 | [In You \(Acoustic\) \[Live at Albert St\]](https://open.spotify.com/track/3JjkgECEmDpSidE7wPNxMa) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc), [Jessie\-Rose Rayner](https://open.spotify.com/artist/3fQGORRT8xvQCPMniaGgEU), [Brett Shaw](https://open.spotify.com/artist/0cPXxP2NntqpqKvXqRjbfP) | [In You \(Acoustic\) \[Live at Albert St\]](https://open.spotify.com/album/0lj6YLFAwfr6fXGbN8TRLr) | 4:44 |
 
-Snapshot ID: `AAAhDRypRQXdJE3PKkXIS0A7ZparUrYW`
+Snapshot ID: `AAAhDs305Fz8oifrsrMnakJGdXcxDV/j`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,203 likes - 143 songs - 8 hr 8 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,207 likes - 151 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 98 | [My Rest of My Time \- Live](https://open.spotify.com/track/6LPAdIpXndFkUrkGi5eCzz) | [ELSHANO](https://open.spotify.com/artist/02on3cnkxntynubz0QscYr) | [Simple Way](https://open.spotify.com/album/64pXgsLVLz94hUgLlZApAn) | 4:13 |
 | 99 | [Main Hi Gunehgaar](https://open.spotify.com/track/0ttt1lFFT3kofohNousB5a) | [Yash Singh](https://open.spotify.com/artist/4ZWtaGozXetsojQDui1a9R) | [Main Hi Gunehgaar](https://open.spotify.com/album/7uqFf7WbbXPNi7kxqSpGTc) | 5:39 |
 | 100 | [Una vuelta y otra vuelta](https://open.spotify.com/track/6rih8Qvk2LiFtUXEt6BfSe) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Un instante en el Universo](https://open.spotify.com/album/6c52Siwl8gupGfEyPehVBs) | 2:32 |
-| 101 | [Jealousy](https://open.spotify.com/track/0X11L2HZ1WId5DyLlwVwhu) | [Paiton Brooke](https://open.spotify.com/artist/60i0J12QjuqPG8EI4kqW4z) | [Jealousy](https://open.spotify.com/album/26FzcNokBj3XK1g6cnveEv) | 3:58 |
+| 101 | [Jealousy](https://open.spotify.com/track/0X11L2HZ1WId5DyLlwVwhu) | [Liatris](https://open.spotify.com/artist/4RraAVSR8PVm4fdCDoeM8m) | [Jealousy](https://open.spotify.com/album/26FzcNokBj3XK1g6cnveEv) | 3:58 |
 | 102 | [Ithaca](https://open.spotify.com/track/1vAACesNNPk8WAv26SmVUf) | [South August](https://open.spotify.com/artist/0xIi0tD6QNXv9Oq0lEw2Bl) | [Itching Through the Permafrost](https://open.spotify.com/album/21aFPA1VXrE7OtKVCBNPyY) | 3:07 |
 | 103 | [Atardece](https://open.spotify.com/track/6ZoIVFXievvmKj8Mjz0dai) | [SONORAMiCOS](https://open.spotify.com/artist/5I0mPJBSGW6E9sbrwOfKCE) | [Atardece / Beben Sangre](https://open.spotify.com/album/2oE9ftWsPX9rumd8LuIBuq) | 4:05 |
 | 104 | [Three woman in jail](https://open.spotify.com/track/47Hbxy6DYS21ZjwcujRtMh) | [Aton O'Cat](https://open.spotify.com/artist/7ieJ9uNgDXeg3GzVcI1oMm), [Goran Vedriš](https://open.spotify.com/artist/3o1XYZQEkAhsOaYuz87ojd) | [Three woman in jail](https://open.spotify.com/album/35tCEptF8FdvmYdza8vIWx) | 2:55 |
@@ -151,5 +151,13 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 141 | [Teal Waves And Rum Nights](https://open.spotify.com/track/0mLFAl3zHncCDtAhjF3Pjh) | [The Florida Shipwreckers](https://open.spotify.com/artist/1BMsaOL5sPmOIbec8WUFl4) | [Daiquiris and Sandy Knees](https://open.spotify.com/album/73iwb1DaCm4T15RTf77lAj) | 4:04 |
 | 142 | [The Lottery](https://open.spotify.com/track/0Q7VZP58L8UD0qIjWUCAtN) | [Katherine Winston](https://open.spotify.com/artist/3EEDivClbmPwyqrMpTaRIP) | [The Lottery](https://open.spotify.com/album/6JLm6Wn7ykrxTm1KqNWgJ9) | 3:55 |
 | 143 | [LOVE ME](https://open.spotify.com/track/1Rqo7ZyC69YMBDwMPhAhRq) | [Leona Del Mar](https://open.spotify.com/artist/2js3VfJYcTZMRyuUEkIW6R) | [LOVE ME](https://open.spotify.com/album/2LEh61RefUHEAvh0dM7R11) | 4:30 |
+| 144 | [SWEET NIGHTMARE](https://open.spotify.com/track/0ln2EyNXSX3QVnn0GEUqrD) | [NAMUT](https://open.spotify.com/artist/1kTGu1IKWqHRaCxx3RpzyH), [JULYX](https://open.spotify.com/artist/1uXd5rYQ8uoTxNEfwuvZX0) | [SWEET NIGHTMARE](https://open.spotify.com/album/2EXnFLTtlpycQAlvRh7ytz) | 2:53 |
+| 145 | [Lost in Loving You](https://open.spotify.com/track/41HNTTQLlhNeIbcD93t7xP) | [Just Thomas](https://open.spotify.com/artist/4EL8mW6C6JKAMh5pulKZFK) | [Lost in Loving You](https://open.spotify.com/album/2jsJ6Zb1iazT2ZvkTHTBrh) | 3:15 |
+| 146 | [Nuestro cielo](https://open.spotify.com/track/7mx5FacYX14sdove4ngb64) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Esfera](https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R) | 3:47 |
+| 147 | [Estrella de luna](https://open.spotify.com/track/5NjudslnouGdwlYfJFyTU6) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Esfera](https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R) | 2:29 |
+| 148 | [The Beach In December](https://open.spotify.com/track/4Tce0rxXK3cQcxNzp9XGU7) | [Austel](https://open.spotify.com/artist/7jMnfga7535wl3kJmUlRvq) | [The Beach In December](https://open.spotify.com/album/44H4XhFRDrvaZt2T8bTjdQ) | 3:55 |
+| 149 | [That Smile](https://open.spotify.com/track/1NObtMTvbDsSMCt8L59PL9) | [Lazy Shades](https://open.spotify.com/artist/608g4cifhC4HRIOb3GkKm6) | [That Smile](https://open.spotify.com/album/04hjWXlo3PK3FJwdlPjtfI) | 4:32 |
+| 150 | [Beautiful Fear](https://open.spotify.com/track/2Q5xpVC50J31TqReHVIWk0) | [Lillibet](https://open.spotify.com/artist/5y9NYCtVotuZjlA8wkPoDe) | [Beautiful Fear](https://open.spotify.com/album/2sAtb468bjoRr9YJsvSnpD) | 3:52 |
+| 151 | [Love Her More](https://open.spotify.com/track/4p1VQaTKVZ9xiFIrJp6r6l) | [Lillibet](https://open.spotify.com/artist/5y9NYCtVotuZjlA8wkPoDe) | [Love Her More](https://open.spotify.com/album/1cl88xbBUhyzAS41UF6Obp) | 4:11 |
 
-Snapshot ID: `AAAPzp4f1wXtxrLZtMMQmhFNRGtSZ8Nb`
+Snapshot ID: `AAAP1txSSVMqlkUcFZpGOryr+e5Xt4h4`

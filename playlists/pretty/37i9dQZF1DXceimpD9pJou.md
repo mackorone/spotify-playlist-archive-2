@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Secretto, Tommy Royale, y  SamASH
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,932 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,957 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 30 | [Mi Guardián](https://open.spotify.com/track/4SsH7TPxUt4GFsjhuj98Yq) | [MARA](https://open.spotify.com/artist/6307XBA1jRaFXENDAWsMKP), [Jonatan Narváez](https://open.spotify.com/artist/6zExHD2vcmZruZAiO6YvcY) | [Mi Guardián](https://open.spotify.com/album/0m6Ct1r5yGrr4Bw8E34I3U) | 3:02 |
 | 31 | [Marta](https://open.spotify.com/track/75OFJwQq8f7KvIICQKsoST) | [Servus Mariae](https://open.spotify.com/artist/6thKC60LXlVflqw2MZeyKN) | [Marta](https://open.spotify.com/album/3lSb9lHbiEHtXKbkfSpwAS) | 3:25 |
 | 32 | [Eres Mi Todo](https://open.spotify.com/track/0kBeJIprClcdrqN5eiblSD) | [Regina Reznick](https://open.spotify.com/artist/39zYId0ufQkBZyqT9OMauP), [Suri Cruz](https://open.spotify.com/artist/4GZsftEmJC20QJPJ3FGR3H) | [Eres Mi Todo](https://open.spotify.com/album/6gZTfapck4RxRXspIaqbXf) | 2:31 |
-| 33 | [Hay Fuego](https://open.spotify.com/track/0pjz3zCKiojC5NcumOtzJt) | [Milton Valle](https://open.spotify.com/artist/3yvt5r21iRpWEJzVUFldm4), [Álvaro López](https://open.spotify.com/artist/5LrqAMICjuzUZXr8AqQhMv) | [Hay Fuego](https://open.spotify.com/album/0TBO9O1uF40l9idG1LwZMN) | 6:28 |
+| 33 | [Hay Fuego](https://open.spotify.com/track/0pjz3zCKiojC5NcumOtzJt) | [Milton Valle](https://open.spotify.com/artist/3yvt5r21iRpWEJzVUFldm4), [Álvaro López](https://open.spotify.com/artist/7wCAUps4y2gT9jK3zF1EyL) | [Hay Fuego](https://open.spotify.com/album/0TBO9O1uF40l9idG1LwZMN) | 6:28 |
 | 34 | [Mi Oración](https://open.spotify.com/track/2bfGm684lCNoJm3vSYIGdF) | [Rito Rivera](https://open.spotify.com/artist/7hGJ7vewbsI9unzLD523Fv) | [Mi Oración](https://open.spotify.com/album/4VUQTI0UxFb5hbw0Je7jII) | 2:13 |
 | 35 | [Otra Vez](https://open.spotify.com/track/3YHpydS1WKh2qsmKKPeRE1) | [Pepe Lopez Band](https://open.spotify.com/artist/26jcTakzCqPX0KGJth8aiz) | [Otra Vez](https://open.spotify.com/album/0f5blMxAxpKDsPCNHww9da) | 3:20 |
 | 36 | [FUEGO](https://open.spotify.com/track/2leVNsiTuckKtGV0SwVWtE) | [Jae Bermeo](https://open.spotify.com/artist/4zrkNkivNRU14qMihEDsR4) | [FUEGO](https://open.spotify.com/album/10RFhUkTMwtaJPNQkS0t9w) | 2:50 |

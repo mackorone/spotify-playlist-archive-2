@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-25",
+      "date_removed": null,
       "duration_ms": 393533,
       "name": "Silver",
       "url": "https://open.spotify.com/track/5LB8Xop5SuozvPINeSSMf5"
@@ -1992,6 +1992,24 @@
     {
       "album": {
         "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/4psgSpLnll4b6Ad0VVVqaR"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279933,
+      "name": "Terrapin",
+      "url": "https://open.spotify.com/track/4aOTdl3J8hcF4iwvDWI0PH"
+    },
+    {
+      "album": {
+        "name": "Animal Magic",
         "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
       },
       "artists": [
@@ -2002,7 +2020,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 279933,
       "name": "Terrapin",
       "url": "https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv"

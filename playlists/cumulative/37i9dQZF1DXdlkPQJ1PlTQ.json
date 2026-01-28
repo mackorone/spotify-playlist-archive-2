@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "2022's must hear episodes, hand-picked by Spotify Podcast Editorial",
-  "name": "Best Episodes of 2022",
+  "description": "The best podcast episodes released this month, curated by Spotify editors.",
+  "name": "Best Episodes of the Month",
   "tracks": [
+    {
+      "album": {
+        "name": "The Track Star Podcast",
+        "url": "https://open.spotify.com/album/1d5i6AQX4dZaO4MDCbdhjR"
+      },
+      "artists": [
+        {
+          "name": "The Track Star Podcast",
+          "url": "https://open.spotify.com/show/1d5i6AQX4dZaO4MDCbdhjR"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 883562,
+      "name": " Testing Maya Rudolph's Music Knowledge | The Track Star Podcast",
+      "url": "https://open.spotify.com/episode/6I9Nd73YPCaRCOh2lJBqir"
+    },
     {
       "album": {
         "name": "Book of Basketball 2.0",
@@ -92,6 +110,42 @@
       "duration_ms": 2098964,
       "name": "Episode 1 - Life & Death",
       "url": "https://open.spotify.com/episode/73bMC7mNYOfKXejbtzKEAo"
+    },
+    {
+      "album": {
+        "name": "Huberman Lab",
+        "url": "https://open.spotify.com/album/79CkJF3UJTHFV8Dse3Oy0P"
+      },
+      "artists": [
+        {
+          "name": "Huberman Lab",
+          "url": "https://open.spotify.com/show/79CkJF3UJTHFV8Dse3Oy0P"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2457322,
+      "name": "Essentials: Tools to Boost Attention & Memory | Dr. Wendy Suzuki",
+      "url": "https://open.spotify.com/episode/4QjNdfEH97Z6xR73MjBLLx"
+    },
+    {
+      "album": {
+        "name": "Funky Friday with Cam Newton",
+        "url": "https://open.spotify.com/album/6oxukxp2ioyyCFtIAFE7AO"
+      },
+      "artists": [
+        {
+          "name": "Funky Friday with Cam Newton",
+          "url": "https://open.spotify.com/show/6oxukxp2ioyyCFtIAFE7AO"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3553941,
+      "name": "Lady London on Intelligence, Industry Politics, and Staying True to Herself",
+      "url": "https://open.spotify.com/episode/4TpUndWtZhM7D67fiZZFKg"
     },
     {
       "album": {
@@ -185,6 +239,24 @@
     },
     {
       "album": {
+        "name": "IMO with Michelle Obama and Craig Robinson",
+        "url": "https://open.spotify.com/album/71mvGXupfKcmO6jlmOJQTP"
+      },
+      "artists": [
+        {
+          "name": "IMO with Michelle Obama and Craig Robinson",
+          "url": "https://open.spotify.com/show/71mvGXupfKcmO6jlmOJQTP"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3901312,
+      "name": "Support Your Village with Regina and Reina King",
+      "url": "https://open.spotify.com/episode/1cPYX3bG4AjoWO73uQVOMV"
+    },
+    {
+      "album": {
         "name": "Serial Killers",
         "url": "https://open.spotify.com/show/4ruq7mH0jg1sFi8KQhnGb8"
       },
@@ -218,6 +290,42 @@
       "duration_ms": 3881717,
       "name": "The Cult of Taylor Swift",
       "url": "https://open.spotify.com/episode/5yMUPSoX46ArUPYJNNx4nm"
+    },
+    {
+      "album": {
+        "name": "Search Engine",
+        "url": "https://open.spotify.com/album/76VOmPpOHaTyA1OaRc4BDv"
+      },
+      "artists": [
+        {
+          "name": "Search Engine",
+          "url": "https://open.spotify.com/show/76VOmPpOHaTyA1OaRc4BDv"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4418586,
+      "name": "The Venezuelan Curse (Part 1)",
+      "url": "https://open.spotify.com/episode/64a1W3mYPk4SzlbK8L9oh3"
+    },
+    {
+      "album": {
+        "name": "Radiolab",
+        "url": "https://open.spotify.com/album/2hmkzUtix0qTqvtpPcMzEL"
+      },
+      "artists": [
+        {
+          "name": "Radiolab",
+          "url": "https://open.spotify.com/show/2hmkzUtix0qTqvtpPcMzEL"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4673097,
+      "name": "You and Me and Mr. Self-Esteem",
+      "url": "https://open.spotify.com/episode/7nP4No5aKjqmK6rP7eGm7c"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdlkPQJ1PlTQ"

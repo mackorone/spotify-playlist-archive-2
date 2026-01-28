@@ -522,7 +522,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 285426,
       "name": "Alley (with SUNG SI KYUNG)",
       "url": "https://open.spotify.com/track/2Qp3RHSP5f9csqFhhFgPrC"
@@ -2667,6 +2667,24 @@
     },
     {
       "album": {
+        "name": "Even If This Love Disappears Tonight",
+        "url": "https://open.spotify.com/album/2kjmJMg1P4XbOZfTpH9PoF"
+      },
+      "artists": [
+        {
+          "name": "Jeon Sang Keun",
+          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Even If This Love Disappears Tonight",
+      "url": "https://open.spotify.com/track/00KY9LKV7KJM53zByjtmiE"
+    },
+    {
+      "album": {
         "name": "Everyday waiting you",
         "url": "https://open.spotify.com/album/0uxFRF63oTtQZIfiWkdAnb"
       },
@@ -4484,6 +4502,24 @@
       "duration_ms": 216013,
       "name": "I'll Always Be With You",
       "url": "https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7"
+    },
+    {
+      "album": {
+        "name": "I'll Remember (Positively Yours X Onestar) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/1gqguyrI9YN91IIGknC38q"
+      },
+      "artists": [
+        {
+          "name": "Onestar",
+          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "I'll Remember",
+      "url": "https://open.spotify.com/track/7oArq8xkRKeRDOnOv45PmS"
     },
     {
       "album": {
@@ -7068,7 +7104,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 282853,
       "name": "Ode To The Stars",
       "url": "https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK"
@@ -10004,7 +10040,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 221000,
       "name": "Waiting For You (feat. Danny Koo)",
       "url": "https://open.spotify.com/track/2upF0nACk3Afl8njq0zunH"
@@ -10232,6 +10268,24 @@
       "duration_ms": 232026,
       "name": "When it snows(Feat.Heize)",
       "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
+    },
+    {
+      "album": {
+        "name": "When the First Snow Falls",
+        "url": "https://open.spotify.com/album/0eYhEXajnaZa28Fn6TlkcF"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "When the First Snow Falls",
+      "url": "https://open.spotify.com/track/74e4D8f76A1nTPkWceb1Pj"
     },
     {
       "album": {

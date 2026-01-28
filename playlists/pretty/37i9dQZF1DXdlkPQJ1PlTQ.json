@@ -1,13 +1,110 @@
 {
-  "description": "2022's must hear episodes, hand-picked by Spotify Podcast Editorial",
-  "num_followers": 75129,
-  "original_name": "Best Episodes of 2022",
+  "description": "The best podcast episodes released this month, curated by Spotify editors.",
+  "num_followers": 74317,
+  "original_name": "Best Episodes of the Month",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDY3M2E0NGYxM2IyZjI1YjU2ZWUxOGQ5NWE1YTQ0OWQ0OTc0MmRi",
-  "tracks": [],
-  "unique_name": "Best Episodes of 2022",
+  "snapshot_id": "AAAAAFduHdtEM7nKMqJl863qw9Jr8ADM",
+  "tracks": [
+    {
+      "added_at": "2026-01-27 17:38:05",
+      "album": {
+        "name": "IMO with Michelle Obama and Craig Robinson",
+        "url": "https://open.spotify.com/album/71mvGXupfKcmO6jlmOJQTP"
+      },
+      "artists": [
+        {
+          "name": "IMO with Michelle Obama and Craig Robinson",
+          "url": "https://open.spotify.com/show/71mvGXupfKcmO6jlmOJQTP"
+        }
+      ],
+      "duration_ms": 3901312,
+      "name": "Support Your Village with Regina and Reina King",
+      "url": "https://open.spotify.com/episode/1cPYX3bG4AjoWO73uQVOMV"
+    },
+    {
+      "added_at": "2026-01-27 16:16:54",
+      "album": {
+        "name": "Radiolab",
+        "url": "https://open.spotify.com/album/2hmkzUtix0qTqvtpPcMzEL"
+      },
+      "artists": [
+        {
+          "name": "Radiolab",
+          "url": "https://open.spotify.com/show/2hmkzUtix0qTqvtpPcMzEL"
+        }
+      ],
+      "duration_ms": 4673097,
+      "name": "You and Me and Mr. Self-Esteem",
+      "url": "https://open.spotify.com/episode/7nP4No5aKjqmK6rP7eGm7c"
+    },
+    {
+      "added_at": "2026-01-27 16:16:54",
+      "album": {
+        "name": "The Track Star Podcast",
+        "url": "https://open.spotify.com/album/1d5i6AQX4dZaO4MDCbdhjR"
+      },
+      "artists": [
+        {
+          "name": "The Track Star Podcast",
+          "url": "https://open.spotify.com/show/1d5i6AQX4dZaO4MDCbdhjR"
+        }
+      ],
+      "duration_ms": 883562,
+      "name": " Testing Maya Rudolph's Music Knowledge | The Track Star Podcast",
+      "url": "https://open.spotify.com/episode/6I9Nd73YPCaRCOh2lJBqir"
+    },
+    {
+      "added_at": "2026-01-27 16:16:54",
+      "album": {
+        "name": "Search Engine",
+        "url": "https://open.spotify.com/album/76VOmPpOHaTyA1OaRc4BDv"
+      },
+      "artists": [
+        {
+          "name": "Search Engine",
+          "url": "https://open.spotify.com/show/76VOmPpOHaTyA1OaRc4BDv"
+        }
+      ],
+      "duration_ms": 4418586,
+      "name": "The Venezuelan Curse (Part 1)",
+      "url": "https://open.spotify.com/episode/64a1W3mYPk4SzlbK8L9oh3"
+    },
+    {
+      "added_at": "2026-01-27 16:16:54",
+      "album": {
+        "name": "Funky Friday with Cam Newton",
+        "url": "https://open.spotify.com/album/6oxukxp2ioyyCFtIAFE7AO"
+      },
+      "artists": [
+        {
+          "name": "Funky Friday with Cam Newton",
+          "url": "https://open.spotify.com/show/6oxukxp2ioyyCFtIAFE7AO"
+        }
+      ],
+      "duration_ms": 3553941,
+      "name": "Lady London on Intelligence, Industry Politics, and Staying True to Herself",
+      "url": "https://open.spotify.com/episode/4TpUndWtZhM7D67fiZZFKg"
+    },
+    {
+      "added_at": "2026-01-27 16:16:54",
+      "album": {
+        "name": "Huberman Lab",
+        "url": "https://open.spotify.com/album/79CkJF3UJTHFV8Dse3Oy0P"
+      },
+      "artists": [
+        {
+          "name": "Huberman Lab",
+          "url": "https://open.spotify.com/show/79CkJF3UJTHFV8Dse3Oy0P"
+        }
+      ],
+      "duration_ms": 2457322,
+      "name": "Essentials: Tools to Boost Attention & Memory | Dr. Wendy Suzuki",
+      "url": "https://open.spotify.com/episode/4QjNdfEH97Z6xR73MjBLLx"
+    }
+  ],
+  "unique_name": "Best Episodes of the Month",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdlkPQJ1PlTQ"
 }

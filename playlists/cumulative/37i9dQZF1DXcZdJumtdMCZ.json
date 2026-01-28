@@ -111,6 +111,28 @@
     },
     {
       "album": {
+        "name": "aadra",
+        "url": "https://open.spotify.com/album/6RMwuxhRcZDQWRyP5ke0Or"
+      },
+      "artists": [
+        {
+          "name": "San T",
+          "url": "https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb"
+        },
+        {
+          "name": "4 Staan",
+          "url": "https://open.spotify.com/artist/2KQ10TEdPA3oyH9GvjVN31"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181503,
+      "name": "aadra",
+      "url": "https://open.spotify.com/track/3fgLLbE7gvAsk6c3NpVxpm"
+    },
+    {
+      "album": {
         "name": "Aalavidra Saami",
         "url": "https://open.spotify.com/album/3ywXYViqym2qfiN68xwrMG"
       },
@@ -308,6 +330,24 @@
       "duration_ms": 231803,
       "name": "Akkrinai Naan - From \"Captain\"",
       "url": "https://open.spotify.com/track/7CRrENz4lVWe1kFYxn1WgQ"
+    },
+    {
+      "album": {
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/2drIyNd5kl5ypgSWGdtRYu"
+      },
+      "artists": [
+        {
+          "name": "JAXK",
+          "url": "https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140689,
+      "name": "AMA",
+      "url": "https://open.spotify.com/track/31KxXEIfbCaKRAm4MG0k1l"
     },
     {
       "album": {
@@ -3156,7 +3196,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 167031,
       "name": "MICA Govindan",
       "url": "https://open.spotify.com/track/4xmBoXCxZ8Udwella3Z3tW"
@@ -4876,7 +4916,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 187951,
       "name": "Sollisai Haters",
       "url": "https://open.spotify.com/track/1mh0E5vVsDwSEkeziK7Z3H"

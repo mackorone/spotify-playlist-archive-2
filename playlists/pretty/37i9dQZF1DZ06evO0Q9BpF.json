@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 49957,
+  "num_followers": 49968,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXVdAAAAAADncAq+VyD3bpT6l83knoWh",
+  "snapshot_id": "aXaugAAAAACs/tbiE7J+Dm/ZSuCaDtag",
   "tracks": [
     {
       "added_at": null,
@@ -859,26 +859,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luz del Mundo",
-        "url": "https://open.spotify.com/album/0FKlwPwfguK6k4zMFcBSDz"
+        "name": "Somos Uno",
+        "url": "https://open.spotify.com/album/2xhmLlf28IZ58xDRTlpBxK"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        },
-        {
-          "name": "Sof\u00eda Mancipe",
-          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
         }
       ],
-      "duration_ms": 285040,
-      "name": "Luz del Mundo",
-      "url": "https://open.spotify.com/track/4N10bpkWzctkXPdTrTfe5H"
+      "duration_ms": 411453,
+      "name": "Eres Santo",
+      "url": "https://open.spotify.com/track/4OpANv2p61Sse26MHscq6p"
     },
     {
       "added_at": null,
@@ -931,18 +923,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos Uno",
-        "url": "https://open.spotify.com/album/2xhmLlf28IZ58xDRTlpBxK"
+        "name": "Luz del Mundo",
+        "url": "https://open.spotify.com/album/0FKlwPwfguK6k4zMFcBSDz"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        },
+        {
+          "name": "Sof\u00eda Mancipe",
+          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
         }
       ],
-      "duration_ms": 411453,
-      "name": "Eres Santo",
-      "url": "https://open.spotify.com/track/4OpANv2p61Sse26MHscq6p"
+      "duration_ms": 285040,
+      "name": "Luz del Mundo",
+      "url": "https://open.spotify.com/track/4N10bpkWzctkXPdTrTfe5H"
     },
     {
       "added_at": null,

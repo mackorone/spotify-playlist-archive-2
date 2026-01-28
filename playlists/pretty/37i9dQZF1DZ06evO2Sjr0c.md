@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 
 > This is Grateful Dead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,315 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,340 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 | 39 | [Good Lovin' \- 2013 Remaster](https://open.spotify.com/track/3ARngx4lU4zYSWTiXm4Yag) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Shakedown Street](https://open.spotify.com/album/0MLCxvyIfAuh5xwPORv8p6) | 4:51 |
 | 40 | [Ship of Fools \- 2013 Remaster](https://open.spotify.com/track/5ks4ht7EDua6UsaI4Dk7Lz) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [From the Mars Hotel](https://open.spotify.com/album/68jAZmtRB51enSAufOJBtJ) | 5:28 |
 | 41 | [Hell in a Bucket \- 2013 Remaster](https://open.spotify.com/track/2T2bhluy0slS4CZIMiAvYE) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [In the Dark](https://open.spotify.com/album/1KytsXm6VQcyX5B5m8HBNa) | 5:37 |
-| 42 | [Help on the Way / Slipknot! \- 2013 Remaster](https://open.spotify.com/track/5mWhyozge9IIMdfIboHgGI) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Blues for Allah \(2013 Remaster\)](https://open.spotify.com/album/5BwjVdVJ4aOmbIYomznfCv) | 7:21 |
-| 43 | [You Win Again \- Live in England, 1972; 2001 Remaster](https://open.spotify.com/track/2UdeTflun7YLrJOVRMtlNG) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT), [David Nelson](https://open.spotify.com/artist/6qoEKjPZFZjv9kIzGNLlxO), [Debbie Eisenberg](https://open.spotify.com/artist/58RFoUxMW1bvyj5SB7SVmx), [Marma\-Duke](https://open.spotify.com/artist/6uU5g1lLEfJM9BnUQCUCXr), [Merle Saunders](https://open.spotify.com/artist/09uBVu0MVp8f1NO2LI12O9), [Mouse](https://open.spotify.com/artist/6ajYY1loyKdWGmGlqCUeo3), [Pete Grant](https://open.spotify.com/artist/5yUtkqTCExz039AeK2Zy8j), [WENDY](https://open.spotify.com/artist/6s5SwRJbzC8r9yo7CUiapA) | [Europe '72 \(Live; 2001 Remaster\)](https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9) | 4:00 |
+| 42 | [You Win Again \- Live in England, 1972; 2001 Remaster](https://open.spotify.com/track/2UdeTflun7YLrJOVRMtlNG) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT), [David Nelson](https://open.spotify.com/artist/6qoEKjPZFZjv9kIzGNLlxO), [Debbie Eisenberg](https://open.spotify.com/artist/58RFoUxMW1bvyj5SB7SVmx), [Marma\-Duke](https://open.spotify.com/artist/6uU5g1lLEfJM9BnUQCUCXr), [Merle Saunders](https://open.spotify.com/artist/09uBVu0MVp8f1NO2LI12O9), [Mouse](https://open.spotify.com/artist/6ajYY1loyKdWGmGlqCUeo3), [Pete Grant](https://open.spotify.com/artist/5yUtkqTCExz039AeK2Zy8j), [WENDY](https://open.spotify.com/artist/6s5SwRJbzC8r9yo7CUiapA) | [Europe '72 \(Live; 2001 Remaster\)](https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9) | 4:00 |
+| 43 | [Help on the Way / Slipknot! \- 2013 Remaster](https://open.spotify.com/track/5mWhyozge9IIMdfIboHgGI) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Blues for Allah \(2013 Remaster\)](https://open.spotify.com/album/5BwjVdVJ4aOmbIYomznfCv) | 7:21 |
 | 44 | [Wharf Rat \- Live at Fillmore East, New York, NY, April 26, 1971](https://open.spotify.com/track/0JKWRYAxDyWqS14WmtLFOf) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Grateful Dead \(Skull & Roses\) \[Live\]](https://open.spotify.com/album/0ObxRAQTpVO1u7bT3VxrIN) | 8:31 |
 | 45 | [The Golden Road \- 2013 Remaster](https://open.spotify.com/track/22W574PUUECix1yNCWalgx) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [The Grateful Dead](https://open.spotify.com/album/2Qkp6ALKO8kcONs4zq1t2D) | 2:12 |
 | 46 | [Alabama Getaway \- 2013 Remaster](https://open.spotify.com/track/5WVF1Ftv5oxspRac9km99R) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Go to Heaven](https://open.spotify.com/album/6x3mttp1a5pLHj8rDDSEbT) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 | 49 | [Mississippi Half\-Step Uptown Toodeloo \- 2013 Remaster](https://open.spotify.com/track/6AobkjMl8MdQwFOOmgzEaC) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Wake of the Flood \(2013 Remaster\)](https://open.spotify.com/album/4wIEQMHtdye4aeSc2FYxI0) | 5:44 |
 | 50 | [Slow Train \- Live at Sullivan Stadium, Foxborough, MA \- July 1987](https://open.spotify.com/track/6kpqaDEznzrlLFhPDwjNNY) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Dylan & The Dead \(Live\)](https://open.spotify.com/album/2H8oXIOkww0RuVckCa6Scw) | 4:56 |
 
-Snapshot ID: `aXVdAAAAAAA9vSeVnEyBk0GHpmdXdarY`
+Snapshot ID: `aXaugAAAAACRfgGqXHJYS/NrqxRvmGVf`

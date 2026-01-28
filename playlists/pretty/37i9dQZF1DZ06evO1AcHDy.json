@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXVdAAAAAAA90IYbiG6sm/Bnu6xtM7wf",
+  "snapshot_id": "aXaugAAAAAAYy9jy0yg86pNTPPyjMyjf",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,6 @@
       "duration_ms": 207355,
       "name": "Valentine (What's It Gonna Be)",
       "url": "https://open.spotify.com/track/2Cqnn3kIApkW3UUn12qnDr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flicker",
-        "url": "https://open.spotify.com/album/35qs3QuYq3vXwTOwwEH4mx"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 180270,
-      "name": "Flicker",
-      "url": "https://open.spotify.com/track/7uvz3nIyTAJJJcBOcjtFyr"
     }
   ],
   "unique_name": "This Is Rina Sawayama",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-14",
-  "description": "With UrvTek, STYXVII, Joshua Lanuarii and more",
+  "description": "With STYXVII, Joshua Lanuarii, UrvTek and more",
   "name": "Kittydog Radio",
   "tracks": [
     {
@@ -276,7 +276,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-26",
+      "date_removed": null,
       "duration_ms": 153575,
       "name": "AlterHuman",
       "url": "https://open.spotify.com/track/5iFc7qq3RJDAvyGSHFm27Z"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 109594,
       "name": "choke it out!",
       "url": "https://open.spotify.com/track/6e7XkfLsy4LrjwDGaVNXkh"
@@ -1246,7 +1246,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 109557,
       "name": "COPE",
       "url": "https://open.spotify.com/track/5nZuC9gQvzHxPnbZWihQ0M"
@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 132359,
       "name": "destruction",
       "url": "https://open.spotify.com/track/6IP1eZ0wac2kgEKPDDH3Ro"
@@ -1568,7 +1568,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 168428,
       "name": "Dumbass of the Century",
       "url": "https://open.spotify.com/track/45Ad16HqTlyWwfbehEu6OI"
@@ -1633,6 +1633,28 @@
     },
     {
       "album": {
+        "name": "EDGE PLAY (FURRY RAVER REMIX)",
+        "url": "https://open.spotify.com/album/0KM1JlCbomdxUyMCwEv31M"
+      },
+      "artists": [
+        {
+          "name": "Pent Up Pup",
+          "url": "https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy"
+        },
+        {
+          "name": "theSpackster",
+          "url": "https://open.spotify.com/artist/7lxDzdUasFvfuMwNGU55Sg"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97426,
+      "name": "EDGE PLAY - theSpackster Remix Instrumental",
+      "url": "https://open.spotify.com/track/70cuOORNpDMSvSXO2M2Tgu"
+    },
+    {
+      "album": {
         "name": "Sparkle Signal",
         "url": "https://open.spotify.com/album/3dyEzOmrM1UortWaIMorky"
       },
@@ -1670,7 +1692,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-25",
+      "date_removed": null,
       "duration_ms": 152423,
       "name": "Ena MIX (Allergic to People MIX)",
       "url": "https://open.spotify.com/track/34jDexIVNRb3E12CMkQwlZ"
@@ -2040,7 +2062,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 166303,
       "name": "Happy Heartcore",
       "url": "https://open.spotify.com/track/0vYvVMT7Q667znq6qbJxiE"
@@ -2134,7 +2156,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 163392,
       "name": "Hollywood Yeen",
       "url": "https://open.spotify.com/track/0V6tfonIgu4cExDWY78A6o"
@@ -2188,7 +2210,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 166891,
       "name": "i love u vro!",
       "url": "https://open.spotify.com/track/3az3CmGD2sWLsoIQZrVZi5"
@@ -2286,7 +2308,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-25",
+      "date_removed": null,
       "duration_ms": 140020,
       "name": "i talk to the stars",
       "url": "https://open.spotify.com/track/1l3ZxNNw5rtuYa4mI3laJ0"
@@ -2896,7 +2918,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 198000,
       "name": "LESBIAN PONIES WITH WEAPONS",
       "url": "https://open.spotify.com/track/3fqzrSXBp4mynyuU5cR6p1"
@@ -3894,7 +3916,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 85500,
       "name": "PUPPY TF",
       "url": "https://open.spotify.com/track/7Mf4WiQGRUBhWhDjiYjbLt"
@@ -4086,7 +4108,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 194693,
       "name": "rose tints",
       "url": "https://open.spotify.com/track/5PcC91JT46zbmpSXO4htwO"

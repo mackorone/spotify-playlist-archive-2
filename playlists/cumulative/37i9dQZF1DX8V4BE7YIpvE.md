@@ -4,7 +4,7 @@
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-212 songs - 10 hr 36 min
+214 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Dreaming In Digital](https://open.spotify.com/track/6qlN8LGUnSsQp3fAzzyry0) | [Babbage](https://open.spotify.com/artist/0T8qVnPB5nOuzTVncV4RWg) | [Dreaming In Digital](https://open.spotify.com/album/4K1j2dOWSsJ7WWk11hPg4l) | 2:26 | 2024-08-30 | 2025-07-12 |
 | [Drift](https://open.spotify.com/track/2kwIEGhwRDoVcXX5QLUxft) | [Axl Rhodes](https://open.spotify.com/artist/5nlgdELJT2bvwCgU1ZCNf4), [Nightflyer](https://open.spotify.com/artist/1QoMEICpXIL1cNck2dWHIh) | [Drift](https://open.spotify.com/album/3xeoeiLfxVZ3P1QQlByPV7) | 3:50 | 2024-09-05 |  |
 | [Drift \- slowed](https://open.spotify.com/track/2GlNSEWLhfJa6NlSCghTZM) | [Mellow Fields](https://open.spotify.com/artist/4LXaqntarVcHPpcLpRj8fr) | [Drift](https://open.spotify.com/album/3gI1g8OX11EyMeKnK5cenO) | 3:27 | 2024-09-05 |  |
-| [Duplicated](https://open.spotify.com/track/6ZVxBC5euluubh2iVLKPs6) | [Future Talent Club](https://open.spotify.com/artist/4ccMTOGlE7Y9KBitpUsfCK) | [Duplicated](https://open.spotify.com/album/3iPfXlUbmsSVIJz8OvUfWR) | 2:43 | 2024-06-06 |  |
+| [Duplicated](https://open.spotify.com/track/6ZVxBC5euluubh2iVLKPs6) | [Future Talent Club](https://open.spotify.com/artist/4ccMTOGlE7Y9KBitpUsfCK) | [Duplicated](https://open.spotify.com/album/3iPfXlUbmsSVIJz8OvUfWR) | 2:43 | 2024-06-06 | 2026-01-28 |
 | [Dynasty of Lights](https://open.spotify.com/track/6OOyl4PwytyCI9ITgWy07o) | [Azure Rooms](https://open.spotify.com/artist/6wOyatkq0K10g7yVdniobk) | [Dynasty of Lights](https://open.spotify.com/album/5sqpOYhZVKYdLnbfOSOekh) | 3:36 | 2025-11-07 |  |
 | [E Tron](https://open.spotify.com/track/086PhXSS2W1pyVCdxUAZOA) | [Mad Dog Madison](https://open.spotify.com/artist/1rUERPSlva0MeB9K7P8CZQ) | [E Tron](https://open.spotify.com/album/7zzfQgNPmhqGTxZYCc6KBD) | 3:43 | 2024-09-13 | 2025-09-23 |
 | [Echoes](https://open.spotify.com/track/1sY1DdJYF00a0K5cRm41Zj) | [c152](https://open.spotify.com/artist/61ldkgdUuSCTWorEjwAIeB) | [Echoes](https://open.spotify.com/album/27QCm8YwHWILiXFyrp5S4f) | 2:16 | 2024-09-13 | 2025-09-23 |
@@ -97,6 +97,7 @@
 | [Impact](https://open.spotify.com/track/13nnw50CpsLGQItGP5X2fP) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Impact](https://open.spotify.com/album/4YGzCDmw1Z7kBTPSxSELFi) | 2:35 | 2024-06-06 | 2025-05-10 |
 | [In the Dark](https://open.spotify.com/track/2NpTkuYal66mwh3s36tHVE) | [Purple Dive](https://open.spotify.com/artist/1e8fzmX4tpKKjWoPk7tW7n) | [In the Dark](https://open.spotify.com/album/6i7CeVJanxewX9rODf7pJT) | 3:52 | 2024-08-16 | 2025-12-13 |
 | [Infrared](https://open.spotify.com/track/4vgXBdJJ9jCEnAKFhVgCmN) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [Infrared](https://open.spotify.com/album/1KcHt65UCtPC8lAY7ytLUt) | 3:08 | 2024-07-16 |  |
+| [Infrared](https://open.spotify.com/track/3QptYtzJiY58eQ2LLPlTGI) | [RetroStrike](https://open.spotify.com/artist/02P3vvY3sPom79sSRoYqkD) | [Infrared](https://open.spotify.com/album/1NJmvyARz74cUsVT4zwtyc) | 3:18 | 2026-01-27 |  |
 | [Infused](https://open.spotify.com/track/5jDyIR1AjD26N3HgkjN4ff) | [Retrophoria](https://open.spotify.com/artist/0NkBsV2lsvsJJXOMx1zRgf) | [Infused](https://open.spotify.com/album/5FHrBGZCtaYxsiPJ8vZlFG) | 3:14 | 2024-10-07 | 2025-08-28 |
 | [Interference](https://open.spotify.com/track/1ujDKIyb8DvN7bzY6dQm9m) | [Faulty Lights](https://open.spotify.com/artist/5YLg2WIm6xedzi2tUGOSU6), [Mezhdunami](https://open.spotify.com/artist/5lnkuYjOkuB93OzYdbkDkw) | [Interference](https://open.spotify.com/album/3tmGHT5YWB8YfwjIIOa2M1) | 2:50 | 2024-06-06 | 2024-07-17 |
 | [It’s a fine day](https://open.spotify.com/track/6idKDtuG7xRdQty9xnGMSA) | [VXLLAIN](https://open.spotify.com/artist/3nmIhdaIgxDQCaUiw6k3PP), [iGRES](https://open.spotify.com/artist/3wT3SbXXtM07UH850EV4aO) | [It’s a fine day](https://open.spotify.com/album/28oQFduQix5yPMBzhtyPRQ) | 3:28 | 2025-11-25 | 2026-01-17 |
@@ -124,7 +125,7 @@
 | [Metrogate](https://open.spotify.com/track/5xSxWpL9NhkR2B4lwKIK5v) | [Nocora](https://open.spotify.com/artist/5Lip3pKcScdUFzpJ4fJpHh) | [Metrogate](https://open.spotify.com/album/4Q5fTmh7p1FC2cO6G8vz1u) | 2:02 | 2026-01-16 |  |
 | [Midnight Confessions](https://open.spotify.com/track/4i7luRkhTFCe4qvQnG0mw6) | [Night Shapes](https://open.spotify.com/artist/6PRP1lwrRpqb8gfYERsnhV) | [Midnight Confessions](https://open.spotify.com/album/2tpmIDsiovwLaod1O5M46t) | 2:08 | 2025-12-12 |  |
 | [Midnight Frequencies](https://open.spotify.com/track/65W1mWYwuxYPSNxTJ55FVE) | [After Dark](https://open.spotify.com/artist/01oXEIT0WHf08pPiMUuY9k) | [Midnight Frequencies](https://open.spotify.com/album/1l4ILCX4ZK0ccytTAHmVHX) | 2:26 | 2025-11-25 |  |
-| [Midnight Tide](https://open.spotify.com/track/2bCUEbjiYmPvLWaSrGdD92) | [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5), [Mellow Fields](https://open.spotify.com/artist/4LXaqntarVcHPpcLpRj8fr) | [Midnight Tide](https://open.spotify.com/album/3bZ1IBAU6FU59iHar4OZ76) | 3:10 | 2024-09-27 |  |
+| [Midnight Tide](https://open.spotify.com/track/2bCUEbjiYmPvLWaSrGdD92) | [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5), [Mellow Fields](https://open.spotify.com/artist/4LXaqntarVcHPpcLpRj8fr) | [Midnight Tide](https://open.spotify.com/album/3bZ1IBAU6FU59iHar4OZ76) | 3:10 | 2024-09-27 | 2026-01-28 |
 | [Mistline](https://open.spotify.com/track/6Tsjt5Z1rPyYHpUT0rtimv) | [Night Shapes](https://open.spotify.com/artist/6PRP1lwrRpqb8gfYERsnhV) | [Mistline](https://open.spotify.com/album/5q7UFqrJAgGZ9aNrrjEX3F) | 2:10 | 2026-01-16 |  |
 | [Monsoon](https://open.spotify.com/track/5cHwfc2s4OtfuQMSY033B7) | [gelowler](https://open.spotify.com/artist/2KOltraKOgOrYb9o4ctyJO) | [Monsoon](https://open.spotify.com/album/0UDzzY8lgXd0PAZZoVTPFB) | 2:40 | 2026-01-16 |  |
 | [Moonlake](https://open.spotify.com/track/5YVgRhi9e7S0DG1kCvkruK) | [Azure Rooms](https://open.spotify.com/artist/6wOyatkq0K10g7yVdniobk) | [Moonlake](https://open.spotify.com/album/706DexETStSK2srKqdVbrt) | 2:21 | 2025-11-25 |  |
@@ -135,6 +136,7 @@
 | [Neon Spring](https://open.spotify.com/track/2sV4dOSTjbG8NbprCHpXJe) | [Celestial Wave](https://open.spotify.com/artist/4DdhfucMY0fRicsWYQPJwQ) | [Neon Spring](https://open.spotify.com/album/1I9f5bCL2d6VBXetLQ3OpH) | 2:39 | 2024-12-03 |  |
 | [New Frontier](https://open.spotify.com/track/5J2lcvpwYZNtpKaKi3KTQd) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Darkwave](https://open.spotify.com/album/5GBXBeG59ekMEGyeJ2HXOd) | 3:05 | 2024-06-06 | 2024-06-21 |
 | [New Passenger](https://open.spotify.com/track/1lkBLaxwo4uh6y5IrudKC1) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Passengers](https://open.spotify.com/album/1FdQQYcNnrWlywWDnYmVpn) | 3:23 | 2024-08-10 | 2025-08-28 |
+| [Night in Slow Frames](https://open.spotify.com/track/1IUQNu0RBVUfyWUTTVnt4p) | [Crystal Motel](https://open.spotify.com/artist/6UD8pS3KW4GX4PPxza4OW3) | [Night in Slow Frames](https://open.spotify.com/album/2QW0DolFPK0w5TRnwYL5Ce) | 2:34 | 2026-01-27 |  |
 | [Night Rider](https://open.spotify.com/track/6G9Y1OxEadkafkHyHUaMBa) | [Syntax Slayer](https://open.spotify.com/artist/2xWs54kbNWraaT946rbx0B) | [Night Rider](https://open.spotify.com/album/50C1rgce9clCwpR0P6XPXn) | 2:44 | 2024-06-06 | 2024-12-14 |
 | [No Limits \- slowed](https://open.spotify.com/track/4zvgNCOCMOW9OVYIr8zFoD) | [Dopamine](https://open.spotify.com/artist/4awW7iQuJoBoEMSaeYslIk) | [No Limits \(slowed\)](https://open.spotify.com/album/69STeZxEEJiIjZLboYn0BC) | 4:12 | 2026-01-16 |  |
 | [Noon Without Shadows](https://open.spotify.com/track/1JoQNIZVtvqxtKub4GDCwR) | [Interwave](https://open.spotify.com/artist/56oS99WDufkuJs4yV85vPM) | [Noon Without Shadows](https://open.spotify.com/album/2mXNnYIOP7YntzOakYDqpo) | 1:52 | 2025-08-27 |  |

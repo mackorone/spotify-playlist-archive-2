@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-538 songs - 1 day 19 hr 11 min
+539 songs - 1 day 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [BSMR](https://open.spotify.com/track/2PVA5M1EWqzbwyfPVBSqpA) | [Tom Marvin](https://open.spotify.com/artist/49YMNaFUcHthWqmQ4adbyH) | [The Archives, Vol\. 1](https://open.spotify.com/album/5SH33m7iBZovqeUwFIeqo1) | 4:09 | 2026-01-09 |  |
 | [Bundeena](https://open.spotify.com/track/1sBhHX5W5qmYbMBxvCuzd1) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/4JDu9Wp3oVqBc18hIau11s) | 4:22 | 2021-10-06 | 2025-07-17 |
 | [Bundeena](https://open.spotify.com/track/1QNgUvacqzNDdMOkXFtMlN) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1) | 4:22 | 2021-10-06 | 2024-04-19 |
-| [By the Light of the Moon](https://open.spotify.com/track/3Z5mBurlk3jbE7dAUBkptf) | [Eusebeia](https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD) | [The Wyrding Way](https://open.spotify.com/album/1NgfMA8jjeUpSZ7bZaINjm) | 5:24 | 2025-10-17 |  |
+| [By the Light of the Moon](https://open.spotify.com/track/3Z5mBurlk3jbE7dAUBkptf) | [Eusebeia](https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD) | [The Wyrding Way](https://open.spotify.com/album/1NgfMA8jjeUpSZ7bZaINjm) | 5:24 | 2025-10-17 | 2026-01-28 |
 | [C.A.](https://open.spotify.com/track/0Ep1pV0KhVvSof5eGN8803) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [C.A.](https://open.spotify.com/album/5UguzHZtztr352RQ9froFT) | 3:06 | 2022-09-21 | 2025-07-17 |
 | [C.A.](https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Feorm Falorx](https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME) | 3:06 | 2022-09-21 | 2024-04-19 |
 | [Cactomuzik](https://open.spotify.com/track/3PPqYHkGBUAEdAuQLsbwex) | [Grosskopof & Amezcua](https://open.spotify.com/artist/3C2S50mhsAz2PknUWUxMlf) | [Quetzalkrautl](https://open.spotify.com/album/5icq9aVdOKj7HQRU71jW6O) | 5:58 | 2021-10-06 | 2025-07-17 |
@@ -411,6 +411,7 @@
 | [Some Way](https://open.spotify.com/track/0WBycRtItbpOgbxura7SJR) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Some Way](https://open.spotify.com/album/439OHyChz5bHWMVzU2YnSv) | 3:37 | 2022-01-21 | 2025-07-17 |
 | [Some Way](https://open.spotify.com/track/6kRLQTgIr9LSudbn03qIMN) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Some Way](https://open.spotify.com/album/2dpL1I201z6H3710toHacQ) | 3:37 | 2022-01-21 | 2024-04-01 |
 | [Song of Singers](https://open.spotify.com/track/318053hJDlClbgtcdjnjWU) | [Kelpe](https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl) | [Song of Singers](https://open.spotify.com/album/0VqES90kJLItAtZ48OGdDf) | 4:34 | 2021-10-06 | 2025-06-14 |
+| [Soul Seeker](https://open.spotify.com/track/02YpqXX1eHR1eYjxIdFR0A) | [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm) | [Soul Seeker](https://open.spotify.com/album/4Fm9TGaxqrQFe9gF5TIsUq) | 5:15 | 2026-01-27 |  |
 | [Spider Ballad](https://open.spotify.com/track/2om8q3alq2Fl5fLIpKy55k) | [Kieran Hebden](https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E), [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Spider Ballad](https://open.spotify.com/album/5DIsD0YTxK5K98uTT2I8kD) | 7:35 | 2025-07-23 |  |
 | [Split Second](https://open.spotify.com/track/3Q92wSRE08dOBNDKQHuF4Q) | [Ken Ishii](https://open.spotify.com/artist/0Jb1cpfG4GB6pZfroFhAw0), [Yuada](https://open.spotify.com/artist/0FF4GvpiC3VwColbz5k2jJ) | [Split Second](https://open.spotify.com/album/1GTXGMsfJKBZxthNLhVQvO) | 5:22 | 2025-06-28 | 2025-10-18 |
 | [sssssmilinggggg](https://open.spotify.com/track/6yTewVjFHvPBNyRliPdQOs) | [Kaho Matsui](https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU) | [sssssmilinggggg](https://open.spotify.com/album/2gC9JUs5tlGBgopNouIg7v) | 6:44 | 2022-11-09 | 2025-07-17 |

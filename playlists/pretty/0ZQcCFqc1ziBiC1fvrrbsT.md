@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 12,914 likes - 24 songs - 1 hr 22 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 12,917 likes - 24 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 11 | [P.O](https://open.spotify.com/track/3gU6MhOyZLnTOb5QbVMSDa) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [P.O](https://open.spotify.com/album/1k5S2qY0AEwD2jZ0UsHbhK) | 2:58 |
 | 12 | [Trick Bag](https://open.spotify.com/track/0vkHbe9uADwTXx1ti9IthA) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [656](https://open.spotify.com/album/3InmPui8pj47JAOOu1e4GR) | 3:05 |
 | 13 | [Jupiter and Mars](https://open.spotify.com/track/16t5EAiyN5QoxAi17KIR88) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Jupiter and Mars](https://open.spotify.com/album/3tjShrUyBljsaAdh7Wfhtz) | 3:13 |
-| 14 | [LIT EFFECT \[Feat\. Bktherula & LAZER DIM 700\]](https://open.spotify.com/track/4sJFW6APhXl5v7idGF3QWd) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [The Scythe](https://open.spotify.com/artist/0OOyJ3DDSb7oivwvRYnpGF), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [LIT EFFECT \[Feat\. Bktherula & LAZER DIM 700\]](https://open.spotify.com/album/5v8hMYYnZgU0xx8y2ALGnZ) | 3:27 |
+| 14 | [LIT EFFECT \[Feat\. Bktherula & LAZER DIM 700\]](https://open.spotify.com/track/4sJFW6APhXl5v7idGF3QWd) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [LIT EFFECT \[Feat\. Bktherula & LAZER DIM 700\]](https://open.spotify.com/album/5v8hMYYnZgU0xx8y2ALGnZ) | 3:27 |
 | 15 | [Fade Away](https://open.spotify.com/track/4WsMjwH6Pq6F8NcAwJPj9T) | [Knumears](https://open.spotify.com/artist/5oEizTkT6mRlggZPdxWmjk) | [Fade Away](https://open.spotify.com/album/0N3fn6OZ1LqIpMXEvVgPk6) | 1:46 |
 | 16 | [Two Candles](https://open.spotify.com/track/6FBFv2KQafEwbwHdgFsLzL) | [The Silver](https://open.spotify.com/artist/5QiZcvaXvmysudyL8pUIDQ) | [Two Candles](https://open.spotify.com/album/4736bnOavlS6qDHT3US9lR) | 8:57 |
 | 17 | [Tha Source Wall](https://open.spotify.com/track/3DF5HkZhtUjp0U4pKce00B) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77) | [Tha Source Wall](https://open.spotify.com/album/6x8YLxWxnSiXNg53QbKSuU) | 1:55 |

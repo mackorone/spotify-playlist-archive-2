@@ -4644,7 +4644,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 145813,
       "name": "Chalo Kahin Door",
       "url": "https://open.spotify.com/track/3Y84FkQyqE1Y1rKHnNYI6W"
@@ -23842,6 +23842,36 @@
       "duration_ms": 174773,
       "name": "Tere Gaon",
       "url": "https://open.spotify.com/track/3YNWnHvYHjFLQgjayEdhB9"
+    },
+    {
+      "album": {
+        "name": "Tere Hi Ho Gaye",
+        "url": "https://open.spotify.com/album/1qK2a68VrGwh0Lb3a040SZ"
+      },
+      "artists": [
+        {
+          "name": "Yash Pathak",
+          "url": "https://open.spotify.com/artist/6rCwcxRLPFehKZWB41woJW"
+        },
+        {
+          "name": "Soumyadeep Sarkar",
+          "url": "https://open.spotify.com/artist/5PwsbCGrapQnteQhVZod7L"
+        },
+        {
+          "name": "Navjot Godara",
+          "url": "https://open.spotify.com/artist/0c0qpnbcYeEhumUo9u8C2u"
+        },
+        {
+          "name": "Deepanshi Nagar",
+          "url": "https://open.spotify.com/artist/3rRSuKh0igtO8J7uHz2AgQ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202628,
+      "name": "Tere Hi Ho Gaye",
+      "url": "https://open.spotify.com/track/5eLxew7YHYs4NgXhMsthCD"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuwe tracks elke week! Nieuw: Oykie, Rz, MRD en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,513 likes - 51 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,507 likes - 51 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

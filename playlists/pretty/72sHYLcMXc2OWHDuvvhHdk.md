@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 554 likes - 2,233 songs - 5 day 10 hr 44 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 554 likes - 2,240 songs - 5 day 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2241,5 +2241,12 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2231 | [These City Streets](https://open.spotify.com/track/3ZocmxFRkWcx2hLp0hce18) | [VaterSon](https://open.spotify.com/artist/3NqBT0IASKLOBA3yjWh7kl) | [These City Streets](https://open.spotify.com/album/2tnlxcijFM3RZP3yj2sGqE) | 4:48 |
 | 2232 | [Time](https://open.spotify.com/track/0ahKZz6SjzCYHsJ6O3pXOx) | [ZachTVincent](https://open.spotify.com/artist/4pv9NhXj4qOgBwXCOje7s7) | [The Overtly Complex Dichotomy Of Simultaneously Hurting While Healing](https://open.spotify.com/album/7zvGTyKl9BgkVIFretrA5o) | 2:48 |
 | 2233 | [over and over](https://open.spotify.com/track/6tSm3QnFEJoDeBwb9Bekjt) | [t.d.g](https://open.spotify.com/artist/37gNMdgAhvOLH8jmkd4OcP) | [over and over](https://open.spotify.com/album/6mIrzko1EbZrZG3kzSZNHD) | 2:29 |
+| 2234 | [Sarna Pra me Coçar](https://open.spotify.com/track/3E8wzPPv6OZkkAhpBHaMsQ) | [OfreireMusic](https://open.spotify.com/artist/7COHUq8hkL4209cVunKPhJ) | [Manias do Amor](https://open.spotify.com/album/0zd3K2IoHNl7wSgKSOisph) | 2:43 |
+| 2235 | [Blessed Assurance](https://open.spotify.com/track/3F6Vfc6hIfpywkgsyT8In1) | [René](https://open.spotify.com/artist/7u0aDggOvAD7pdRuW75CjG) | [The Greatest Gospel Songs](https://open.spotify.com/album/0O5wNrodwyG46E7AkfZV3V) | 3:59 |
+| 2236 | [TUM HI TUM](https://open.spotify.com/track/3wP4PvLH9HmIxLAcB4FAN0) | [SillyMafia](https://open.spotify.com/artist/7hwIYVjIZDSBWjv7nmGzot) | [TUM HI TUM](https://open.spotify.com/album/4gXJxeEDkvEeo7lrOkUNBn) | 3:08 |
+| 2237 | [I DON´T WANNA WORK](https://open.spotify.com/track/3L3BwVldv7DV7Htk4BHHMd) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [I DON´T WANNA WORK](https://open.spotify.com/album/0l4EpsXzxsBtbf85eQFaX3) | 2:59 |
+| 2238 | [Believe \(If You Feel\) \- Spotify Exclusive](https://open.spotify.com/track/4Vy3fIkIRJgW4HnGpcv6zZ) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Believe \(If You Feel\) \- Spotify Exclusive](https://open.spotify.com/album/01x3mjTfAcdyEWa4uK9QAW) | 3:30 |
+| 2239 | [Corvette](https://open.spotify.com/track/2f00jSGdTKm1YE8BxQWcBj) | [Dunkan](https://open.spotify.com/artist/6P9VaNZCHkUT18kxHx1uky) | [Corvette](https://open.spotify.com/album/3C09GULk61FzBBdHWW6ylt) | 2:50 |
+| 2240 | [The One I've Never Met Who I Long For](https://open.spotify.com/track/5gJiUz1Zvsdg3uxTSmfff2) | [Jont](https://open.spotify.com/artist/27PAZpDiy0LBXUVkQ7D2UY) | [The One I've Never Met Who I Long For](https://open.spotify.com/album/0wMwzqtR7WwKnTe9HJtRyH) | 2:59 |
 
-Snapshot ID: `AAAJUCEU8rza0axI9MLg3Y6oswbgN6ze`
+Snapshot ID: `AAAJV7T9kDEHXdi7FeqDoL/G5JmtwXQL`

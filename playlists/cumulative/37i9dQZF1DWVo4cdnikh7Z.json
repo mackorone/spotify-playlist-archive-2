@@ -2468,7 +2468,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 201921,
       "name": "AFRO TAPAANG",
       "url": "https://open.spotify.com/track/4Doz7teSej5yAEmiOF4G9R"
@@ -17700,6 +17700,24 @@
       "duration_ms": 238264,
       "name": "KaaLainga Poal Annanmaaroa (From \"KD\") - Tamil Version",
       "url": "https://open.spotify.com/track/4Nx6DP2gRNolNvH4TkPL0y"
+    },
+    {
+      "album": {
+        "name": "Kaalam Neram (From \"MM Originals\") (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0QSIo68566ptRfAn1Za3ry"
+      },
+      "artists": [
+        {
+          "name": "Sam Vishal",
+          "url": "https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183944,
+      "name": "Kaalam Neram (From \"MM Originals\") (Original Soundtrack)",
+      "url": "https://open.spotify.com/track/4reJxn5fEju74xRPpRdUPm"
     },
     {
       "album": {
@@ -55140,6 +55158,36 @@
       "duration_ms": 235479,
       "name": "Yeno Yeno (From \"Azadi\")",
       "url": "https://open.spotify.com/track/3On7jKMjzBcUm4sM55jba4"
+    },
+    {
+      "album": {
+        "name": "Yetho Yetho (From \"Gandhi Talks\") (Tamil)",
+        "url": "https://open.spotify.com/album/430nX1MFMrR6M6pnr05T9i"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Amina Rafiq",
+          "url": "https://open.spotify.com/artist/5MeaQZAAyaP41gzU4FOGMu"
+        },
+        {
+          "name": "Shridhar Ramesh",
+          "url": "https://open.spotify.com/artist/5IvPVTWTxfqev2qJ2Ti00Y"
+        },
+        {
+          "name": "Pa. Vijay",
+          "url": "https://open.spotify.com/artist/1dg4azP3LshEhi3moXgJQv"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254354,
+      "name": "Yetho Yetho (From \"Gandhi Talks\") (Tamil)",
+      "url": "https://open.spotify.com/track/1G3bz6YER5qTKxcAu2N4j0"
     },
     {
       "album": {

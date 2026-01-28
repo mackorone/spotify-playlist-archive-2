@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,072 songs - 2 day 7 hr 12 min
+1,073 songs - 2 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -985,6 +985,7 @@
 | [Underground](https://open.spotify.com/track/4LGm8vygHnOdvoATybWmaW) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Underground](https://open.spotify.com/album/3xjnO30PBWtbz6CuaMn3gg) | 3:41 | 2023-07-20 | 2023-12-23 |
 | [Underwater](https://open.spotify.com/track/6pOSx27uLkZBE75JBEWFiE) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Underwater](https://open.spotify.com/album/4OZkLa9YRSDHvL0jQ8jwyv) | 3:00 | 2024-03-08 | 2024-04-13 |
 | [Until the Sun Comes Up](https://open.spotify.com/track/00k3lrbOLXvQB8JJAzvAtw) | [Pansil](https://open.spotify.com/artist/0jPFnkOW02ogcNH6PWnhUT) | [Until the Sun Comes Up](https://open.spotify.com/album/3A0Cf24xiJ2K1dpu7OWBWL) | 3:29 | 2024-06-07 |  |
+| [Up](https://open.spotify.com/track/7K0aaR2SgjeXGJ8gmNDshu) | [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C) | [Up](https://open.spotify.com/album/3kZ2UMInCRfjNFUaNvjwK9) | 2:36 | 2026-01-27 |  |
 | [Up To No Good](https://open.spotify.com/track/6Dxvw735HPuIEHkmhc6r9M) | [ManyFew](https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL), [PBH & JACK](https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl) | [Up To No Good](https://open.spotify.com/album/4g4jrbnodImR4dcwN4yv9s) | 2:32 | 2023-02-12 | 2023-04-13 |
 | [Upside Down](https://open.spotify.com/track/4ZNA8hdIIfWwBVK1Z8yRcm) | [Galo](https://open.spotify.com/artist/4v0KJDTlY8yFHSZAFmMj3L) | [Upside Down](https://open.spotify.com/album/2mjB05VGs7jTFcZ55qE6t4) | 2:50 | 2025-10-10 |  |
 | [Us \(What About\)](https://open.spotify.com/track/06oAzRyGawRparvGWs6Or5) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt) | [Us \(What About\)](https://open.spotify.com/album/3PEjdyGOrGVMMH6nAUcM8F) | 2:16 | 2024-03-08 | 2024-04-13 |

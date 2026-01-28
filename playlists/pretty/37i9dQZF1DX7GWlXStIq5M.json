@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: DAY LIMNS, Giana Mello",
-  "num_followers": 364811,
+  "num_followers": 364773,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2026-01-23 03:00:01",
       "album": {
+        "name": "antes que voc\u00ea v\u00e1",
+        "url": "https://open.spotify.com/album/6mDrodmxlJCr9iAFnEnDxD"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 160284,
+      "name": "antes que voc\u00ea v\u00e1",
+      "url": "https://open.spotify.com/track/4tM0ZCycym90cD9Xi4iVtD"
+    },
+    {
+      "added_at": "2026-01-23 03:00:01",
+      "album": {
         "name": "Me Deixa Partir",
         "url": "https://open.spotify.com/album/6oq4OgPFbtPi11mDFP0xlk"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 194000,
       "name": "409",
       "url": "https://open.spotify.com/track/60lpe6EiExjWpccXNI9urx"
-    },
-    {
-      "added_at": "2026-01-23 03:00:01",
-      "album": {
-        "name": "antes que voc\u00ea v\u00e1",
-        "url": "https://open.spotify.com/album/6mDrodmxlJCr9iAFnEnDxD"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 160284,
-      "name": "antes que voc\u00ea v\u00e1",
-      "url": "https://open.spotify.com/track/4tM0ZCycym90cD9Xi4iVtD"
     },
     {
       "added_at": "2026-01-23 03:00:01",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-01-23 03:00:01",
       "album": {
-        "name": "quanto tempo tem o tempo?",
-        "url": "https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 206037,
-      "name": "quanto tempo tem o tempo?",
-      "url": "https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER"
-    },
-    {
-      "added_at": "2026-01-23 03:00:01",
-      "album": {
         "name": "N\u00e3o estou l\u00e1",
         "url": "https://open.spotify.com/album/2iQgYSXYdxXadFPmqEcX9L"
       },
@@ -583,6 +567,42 @@
       "duration_ms": 163236,
       "name": "celebridade",
       "url": "https://open.spotify.com/track/4XsyZnz8hM3oa1MCXZlfFi"
+    },
+    {
+      "added_at": "2026-01-23 03:00:01",
+      "album": {
+        "name": "quanto tempo tem o tempo?",
+        "url": "https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 206037,
+      "name": "quanto tempo tem o tempo?",
+      "url": "https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER"
+    },
+    {
+      "added_at": "2026-01-23 03:00:01",
+      "album": {
+        "name": "Quase",
+        "url": "https://open.spotify.com/album/60yKZCX7criKmfmYIblG4Z"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        },
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "duration_ms": 160016,
+      "name": "Quase",
+      "url": "https://open.spotify.com/track/59etIptmwHHugnoAAsNxvi"
     },
     {
       "added_at": "2026-01-23 03:00:01",
@@ -687,26 +707,6 @@
     {
       "added_at": "2026-01-23 03:00:01",
       "album": {
-        "name": "Quase",
-        "url": "https://open.spotify.com/album/60yKZCX7criKmfmYIblG4Z"
-      },
-      "artists": [
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        },
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        }
-      ],
-      "duration_ms": 160016,
-      "name": "Quase",
-      "url": "https://open.spotify.com/track/59etIptmwHHugnoAAsNxvi"
-    },
-    {
-      "added_at": "2026-01-23 03:00:01",
-      "album": {
         "name": "G\u00caMEOS EM G\u00caMEOS",
         "url": "https://open.spotify.com/album/7mV6fLMgnTZkBQQ8e7PfcB"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-01-23 03:00:01",
       "album": {
-        "name": "Ainda N\u00e3o Te Amo",
-        "url": "https://open.spotify.com/album/14z2FIsB6rBLG8nBD266cD"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        }
-      ],
-      "duration_ms": 187370,
-      "name": "Ainda N\u00e3o Te Amo",
-      "url": "https://open.spotify.com/track/5VeiOt8ht6Itb2gGXkI9zH"
-    },
-    {
-      "added_at": "2026-01-23 03:00:01",
-      "album": {
         "name": "Vivi",
         "url": "https://open.spotify.com/album/51pNtto5OEDHobez6PoXTI"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 183032,
       "name": "Noites em Miami",
       "url": "https://open.spotify.com/track/6KQ0cjaECXJy5TohPYqkQl"
+    },
+    {
+      "added_at": "2026-01-23 03:00:01",
+      "album": {
+        "name": "Ainda N\u00e3o Te Amo",
+        "url": "https://open.spotify.com/album/14z2FIsB6rBLG8nBD266cD"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "duration_ms": 187370,
+      "name": "Ainda N\u00e3o Te Amo",
+      "url": "https://open.spotify.com/track/5VeiOt8ht6Itb2gGXkI9zH"
     },
     {
       "added_at": "2026-01-23 03:00:01",
@@ -835,26 +835,6 @@
     {
       "added_at": "2026-01-23 03:00:01",
       "album": {
-        "name": "Caos e Poesia",
-        "url": "https://open.spotify.com/album/4m5nhpMytU1z7QRb0GpUrD"
-      },
-      "artists": [
-        {
-          "name": "Isix",
-          "url": "https://open.spotify.com/artist/4iU2XqRFAxIFelgbns2fug"
-        },
-        {
-          "name": "Dreicon",
-          "url": "https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv"
-        }
-      ],
-      "duration_ms": 145927,
-      "name": "Caos e Poesia",
-      "url": "https://open.spotify.com/track/4svS7oKMhBXNZKriEdqvVo"
-    },
-    {
-      "added_at": "2026-01-23 03:00:01",
-      "album": {
         "name": "Mar de Rosas",
         "url": "https://open.spotify.com/album/3ZWi0l4tbZgHmIt4vhrPxN"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 165000,
       "name": "Mar de Rosas",
       "url": "https://open.spotify.com/track/0jqfLFMPSPXpWWDyJaErVP"
+    },
+    {
+      "added_at": "2026-01-23 03:00:01",
+      "album": {
+        "name": "Caos e Poesia",
+        "url": "https://open.spotify.com/album/4m5nhpMytU1z7QRb0GpUrD"
+      },
+      "artists": [
+        {
+          "name": "Isix",
+          "url": "https://open.spotify.com/artist/4iU2XqRFAxIFelgbns2fug"
+        },
+        {
+          "name": "Dreicon",
+          "url": "https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv"
+        }
+      ],
+      "duration_ms": 145927,
+      "name": "Caos e Poesia",
+      "url": "https://open.spotify.com/track/4svS7oKMhBXNZKriEdqvVo"
     },
     {
       "added_at": "2026-01-23 03:00:01",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-01-23 03:00:01",
       "album": {
+        "name": "PARECE OUTRA VIDA",
+        "url": "https://open.spotify.com/album/6VRtXcvR70svm0jT4mahtM"
+      },
+      "artists": [
+        {
+          "name": "Marco Baptista",
+          "url": "https://open.spotify.com/artist/4z72Rq6ZmZ4tIP1kY2CtmF"
+        }
+      ],
+      "duration_ms": 161754,
+      "name": "PARECE OUTRA VIDA",
+      "url": "https://open.spotify.com/track/49k1W5UyAoAn9aoFoQTUzO"
+    },
+    {
+      "added_at": "2026-01-23 03:00:01",
+      "album": {
         "name": "O Motivo",
         "url": "https://open.spotify.com/album/5j7Wfy6vxuPgjN1b1PY7SW"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 184019,
       "name": "O Motivo",
       "url": "https://open.spotify.com/track/1U3GnZsLzer0Rihu5Xljvt"
-    },
-    {
-      "added_at": "2026-01-23 03:00:01",
-      "album": {
-        "name": "PARECE OUTRA VIDA",
-        "url": "https://open.spotify.com/album/6VRtXcvR70svm0jT4mahtM"
-      },
-      "artists": [
-        {
-          "name": "Marco Baptista",
-          "url": "https://open.spotify.com/artist/4z72Rq6ZmZ4tIP1kY2CtmF"
-        }
-      ],
-      "duration_ms": 161754,
-      "name": "PARECE OUTRA VIDA",
-      "url": "https://open.spotify.com/track/49k1W5UyAoAn9aoFoQTUzO"
     },
     {
       "added_at": "2026-01-23 03:00:01",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-01-23 03:00:01",
       "album": {
-        "name": "Fanfic de Ver\u00e3o",
-        "url": "https://open.spotify.com/album/5aBTrhLMY6qJSd8EuMrHvu"
-      },
-      "artists": [
-        {
-          "name": "GIOLI",
-          "url": "https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Fanfic de Ver\u00e3o",
-      "url": "https://open.spotify.com/track/6YWRrDa4bfEWL2Byx4Iwmm"
-    },
-    {
-      "added_at": "2026-01-23 03:00:01",
-      "album": {
         "name": "Uma Nova Hist\u00f3ria",
         "url": "https://open.spotify.com/album/1z7Wa5c7djeu9k157UPKlg"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 146125,
       "name": "Seu Her\u00f3i",
       "url": "https://open.spotify.com/track/2SYg5OXAYvCkpJUsImBsnc"
+    },
+    {
+      "added_at": "2026-01-23 03:00:01",
+      "album": {
+        "name": "Fanfic de Ver\u00e3o",
+        "url": "https://open.spotify.com/album/5aBTrhLMY6qJSd8EuMrHvu"
+      },
+      "artists": [
+        {
+          "name": "GIOLI",
+          "url": "https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Fanfic de Ver\u00e3o",
+      "url": "https://open.spotify.com/track/6YWRrDa4bfEWL2Byx4Iwmm"
     },
     {
       "added_at": "2026-01-23 03:00:01",

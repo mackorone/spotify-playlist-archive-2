@@ -811,6 +811,32 @@
     },
     {
       "album": {
+        "name": "Blood Debt",
+        "url": "https://open.spotify.com/album/6GIGtAIDzdZSpgqVkMVE4x"
+      },
+      "artists": [
+        {
+          "name": "Loprov",
+          "url": "https://open.spotify.com/artist/3Zv31lkrOJ7HPBWmXOjiwJ"
+        },
+        {
+          "name": "Daratomic",
+          "url": "https://open.spotify.com/artist/19NwIIQXJ70524wDFURjHM"
+        },
+        {
+          "name": "Moleigh",
+          "url": "https://open.spotify.com/artist/7kUEA4RRzFlUBJLE9cW0T3"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214090,
+      "name": "Blood Debt",
+      "url": "https://open.spotify.com/track/6S0kAXCMEs0ysXHG2Ev2b4"
+    },
+    {
+      "album": {
         "name": "Blue Bird",
         "url": "https://open.spotify.com/album/1KouYdQgreczfMEKX3gotS"
       },

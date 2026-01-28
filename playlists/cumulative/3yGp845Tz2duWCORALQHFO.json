@@ -58933,6 +58933,28 @@
     },
     {
       "album": {
+        "name": "Move (feat. Anella)",
+        "url": "https://open.spotify.com/album/4enKgmPZVCuTE899eftuX5"
+      },
+      "artists": [
+        {
+          "name": "Logan Garrett",
+          "url": "https://open.spotify.com/artist/5TdsDxoHWub575sY58UWLn"
+        },
+        {
+          "name": "Anella",
+          "url": "https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162187,
+      "name": "Move (feat. Anella)",
+      "url": "https://open.spotify.com/track/2G8sdxn4INZb41kr4vmWMO"
+    },
+    {
+      "album": {
         "name": "Move (feat. Camila Cabello)",
         "url": "https://open.spotify.com/album/1Jo5dOD8bFEWnPIXKlORVp"
       },

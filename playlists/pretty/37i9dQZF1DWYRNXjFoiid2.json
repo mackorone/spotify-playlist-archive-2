@@ -1,6 +1,6 @@
 {
   "description": "Pop to fuel your gaming. Cover: KATSEYE",
-  "num_followers": 453458,
+  "num_followers": 453514,
   "original_name": "Ultimate Pop Gaming",
   "owner": {
     "name": "Spotify",
@@ -1077,26 +1077,6 @@
       "url": "https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo"
     },
     {
-      "added_at": "2025-02-07 05:00:25",
-      "album": {
-        "name": "PRETTY PLEASE",
-        "url": "https://open.spotify.com/album/3RfIyFTT3h03PqTtFbiZR8"
-      },
-      "artists": [
-        {
-          "name": "Dutch Melrose",
-          "url": "https://open.spotify.com/artist/6NRSfOnXw4qaypEfIV2QXn"
-        },
-        {
-          "name": "benny mayne",
-          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
-        }
-      ],
-      "duration_ms": 166721,
-      "name": "PRETTY PLEASE",
-      "url": "https://open.spotify.com/track/6kOdk29M8h6ZfHz4byVG0t"
-    },
-    {
       "added_at": "2024-09-06 04:01:00",
       "album": {
         "name": "Tell Em",
@@ -1115,6 +1095,26 @@
       "duration_ms": 180379,
       "name": "Tell Em",
       "url": "https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8"
+    },
+    {
+      "added_at": "2025-02-07 05:00:25",
+      "album": {
+        "name": "PRETTY PLEASE",
+        "url": "https://open.spotify.com/album/3RfIyFTT3h03PqTtFbiZR8"
+      },
+      "artists": [
+        {
+          "name": "Dutch Melrose",
+          "url": "https://open.spotify.com/artist/6NRSfOnXw4qaypEfIV2QXn"
+        },
+        {
+          "name": "benny mayne",
+          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
+        }
+      ],
+      "duration_ms": 166721,
+      "name": "PRETTY PLEASE",
+      "url": "https://open.spotify.com/track/6kOdk29M8h6ZfHz4byVG0t"
     },
     {
       "added_at": "2024-09-06 04:01:00",

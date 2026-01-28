@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-774 songs - 1 day 20 hr 27 min
+775 songs - 1 day 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Easy Tiger \- Live](https://open.spotify.com/track/2pczCxdV30ODAjDEsu8OTW) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [CAN'T STOP TALKING \(Live at The George Tavern\)](https://open.spotify.com/album/2pxj0W2BBXYFXiA3QePOJj) | 3:32 | 2025-11-08 | 2026-01-15 |
 | [Echo Chambers](https://open.spotify.com/track/0QPdGdupsEmBguX9QSOQYA) | [Universe 25](https://open.spotify.com/artist/61MdTyU5sZjonNarb3DhMW) | [Echo Chambers](https://open.spotify.com/album/1UnXilvdjhrObk9GajzhCU) | 5:33 | 2025-08-03 |  |
 | [Echo Chambers \- Radio Edit](https://open.spotify.com/track/7io4vhWULhZDLHmPBcnrPi) | [Universe 25](https://open.spotify.com/artist/61MdTyU5sZjonNarb3DhMW) | [Cleopatra Does The Nasty](https://open.spotify.com/album/6MFW4hr1KMuHHi1CFZUcSa) | 3:38 | 2026-01-08 | 2026-01-17 |
+| [Echoes of a Scream](https://open.spotify.com/track/0wu7MRbBXcUDgYsfLfc9aT) | [The Ginger Twins](https://open.spotify.com/artist/2gjKEs7JL8SZxFCyDWWQiV) | [Echoes of a Scream](https://open.spotify.com/album/1Fn5k5nnwikeYzzQZFPizS) | 3:42 | 2026-01-27 |  |
 | [Echoes Of Nowhere](https://open.spotify.com/track/3SzGqxO8yV08UiST2L49ZY) | [Desert Lily](https://open.spotify.com/artist/4PhaxISQScCigU6Tt33Rdd) | [How Did We Get Here](https://open.spotify.com/album/1P5hKWwxb4NHb8X8PwChSp) | 3:16 | 2025-11-16 | 2025-12-10 |
 | [ego +](https://open.spotify.com/track/2NvZTOntxXFORfVK2eZqaF) | [marȼh](https://open.spotify.com/artist/6Vrp8TrWbYOIW7ErVD3mYf) | [ego +](https://open.spotify.com/album/6HB1GhSOGUp852lQCfnwFw) | 1:40 | 2026-01-18 |  |
 | [Eighty\-Six](https://open.spotify.com/track/5qx78NNc9QLN0PeWXgveUf) | [Lake Point Drive](https://open.spotify.com/artist/0gcWzPRyPbChJiJ4kTWivn) | [Eighty\-Six](https://open.spotify.com/album/1iJgSclWGAiQWpwCZvlcrG) | 3:43 | 2025-11-30 | 2025-12-24 |

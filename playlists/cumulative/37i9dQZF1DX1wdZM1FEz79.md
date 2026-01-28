@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 적재\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 박창근 \(BAK CHANG GEUN\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-649 songs - 1 day 14 hr 11 min
+650 songs - 1 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Changing Seasons](https://open.spotify.com/track/31zwd5SqzByO40OvwyW5fA) | [Son Hyeeun](https://open.spotify.com/artist/1ymkZBkFqc6sOP2d84mWAJ) | [Mosaic](https://open.spotify.com/album/0wBXXN9fvO9RKhcsqtNzmf) | 3:26 | 2025-03-28 | 2025-05-15 |
 | [Chapter of our love](https://open.spotify.com/track/0xqij7BqOzbnwcjmNqWMIG) | [Microdot](https://open.spotify.com/artist/1ToWoFmtIc9NTPFy7lR690), [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [PROPHET](https://open.spotify.com/album/6llFy3B9EZt3H0QQTVzLxA) | 4:23 | 2022-03-31 | 2022-04-21 |
 | [Cherish](https://open.spotify.com/track/5xX9WHM9qn7zsYFKcTGTD1) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Cherish](https://open.spotify.com/album/2rIyU9oLnV4ap127MYOjL7) | 2:52 | 2025-03-14 | 2025-04-02 |
-| [Chestnut](https://open.spotify.com/track/1wtH3UhUDKvxCbt6gqB2Nb) | [JINHO](https://open.spotify.com/artist/3hFLEV38JDeNr3L0HIkeG0) | [Chestnut](https://open.spotify.com/album/6rklAYvv1lmGRRr29DdZBK) | 2:41 | 2026-01-15 |  |
+| [Chestnut](https://open.spotify.com/track/1wtH3UhUDKvxCbt6gqB2Nb) | [JINHO](https://open.spotify.com/artist/3hFLEV38JDeNr3L0HIkeG0) | [Chestnut](https://open.spotify.com/album/6rklAYvv1lmGRRr29DdZBK) | 2:41 | 2026-01-15 | 2026-01-28 |
 | [Chilly Weather](https://open.spotify.com/track/7JWODJwvHmmTUsvr0YypZS) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3) | [Chilly Weather](https://open.spotify.com/album/3QAqYe4w6LlWJBg1svzIhG) | 3:39 | 2022-03-31 | 2022-04-02 |
 | [Close To You](https://open.spotify.com/track/6vvIG5bhPay9ewgS9I8h8t) | [Joo Yein](https://open.spotify.com/artist/3aSFvFghagKF9tdjluIkAT) | [Social Savvy Class 101 OST Part.5](https://open.spotify.com/album/1JGlWwjZflilU8AbBiPL2b) | 3:51 | 2024-11-20 | 2024-12-06 |
 | [Close Your Eyes](https://open.spotify.com/track/7Lf3MxufBeAg6ZSKlut8wZ) | [Bam Soo Sung](https://open.spotify.com/artist/2iijjkoVBe57TcHnsR3sOy) | [Close Your Eyes](https://open.spotify.com/album/5D8tcWOfpWfIoLG075ptmG) | 3:32 | 2022-03-31 | 2022-04-14 |
@@ -567,6 +567,7 @@
 | [Waves of Us](https://open.spotify.com/track/7FU9WSFyMQAnCV3QfBZdqp) | [JeongSaebyeok](https://open.spotify.com/artist/4IGJKsSWf3d8o5Qd1NyOs7) | [Waves of Us](https://open.spotify.com/album/6mmeTQmTLGhTA3zhlUtGiS) | 3:23 | 2025-10-10 | 2025-11-14 |
 | [Way Back Home](https://open.spotify.com/track/4M13QYXUbkv5cWYqw7m88u) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [T\_wo, First](https://open.spotify.com/album/2VTq68lUwuwceZbQdrPj6V) | 3:30 | 2021-12-10 | 2025-01-13 |
 | [We loved each other so much](https://open.spotify.com/track/2AX4ZtamEjVF2j8Ujt9AQ5) | [Savina & Drones](https://open.spotify.com/artist/15sNY2hbxc4Vu8hI96mDt7) | [We loved each other so much](https://open.spotify.com/album/0iTcaeKTHyPEawNCHukYa2) | 3:47 | 2022-06-18 | 2022-07-16 |
+| [We will sing](https://open.spotify.com/track/2eYRLrg0QxV4D43UVQ1lOg) | [SOBO](https://open.spotify.com/artist/2tNollCrlC9RSDKyw98N4k), [Sung Haebin](https://open.spotify.com/artist/0tq4WWL39Wk9b1xIKAhS86) | [We will sing](https://open.spotify.com/album/7wIuVFuJBwpA10bmy02nCX) | 4:02 | 2026-01-27 |  |
 | [We're Already](https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Nevertheless, \(Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG) | 3:58 | 2021-12-10 |  |
 | [We, the young](https://open.spotify.com/track/3noAY4OKq9ZbR78s65UJ9J) | [SUNGHWI](https://open.spotify.com/artist/7rlrjdWClWXnQ0flmhBMXR) | [We, the young](https://open.spotify.com/album/43LOnMWEXJJDUpHPN64m31) | 3:25 | 2025-10-10 | 2025-10-14 |
 | [What are you doing this evening](https://open.spotify.com/track/1BWKZ94ognDAUXWxQjHQza) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Girl's World \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3AfjZrMs5QewjUSPHfklgL) | 3:14 | 2022-04-12 | 2022-04-21 |

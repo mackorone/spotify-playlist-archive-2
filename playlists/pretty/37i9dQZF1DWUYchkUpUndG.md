@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Musa Yende
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,884 likes - 97 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,936 likes - 97 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 74 | [Agbara Olorun Po](https://open.spotify.com/track/520Z4tRsVEalKRJ3zbqupq) | [Joseph Gospel](https://open.spotify.com/artist/3pxnfXdhLmanKK2XPQM4TL) | [Agbara Olorun Po](https://open.spotify.com/album/7IiQXnz6pjurRU3HJfEUPi) | 1:29 |
 | 75 | [You Never Fail](https://open.spotify.com/track/2ALxAg6dy5gMXi9wM7wARA) | [Toprock Gospel](https://open.spotify.com/artist/4nQb0Zq2NyUUgRn93Bh9lp) | [You Never Fail](https://open.spotify.com/album/73lKwOMBTYPnigrUm5Dztu) | 3:12 |
 | 76 | [Earthen Vessel](https://open.spotify.com/track/4wVdW32IgLBbbCa0L5weDv) | [Steady Worship](https://open.spotify.com/artist/17ni7x7OVAYDsxQyKUp1DJ) | [Earthen Vessel](https://open.spotify.com/album/4xbLwNlEyNaQG3TN8FnNCf) | 11:08 |
-| 77 | [Goodness and Mercy \(Psalm 23:6\)](https://open.spotify.com/track/7AhBOTQMG9qYYRJqBjnljZ) | [MIN.ADEOLUWA](https://open.spotify.com/artist/64uDlOscS1ksKOxDqjXcRz) | [Goodness and Mercy \(Psalm 23:6\)](https://open.spotify.com/album/1pwmDIxD7tU5jFY1Mgjn6n) | 5:22 |
+| 77 | [Goodness and Mercy\-Live \(Psalm 23:6\)](https://open.spotify.com/track/7AhBOTQMG9qYYRJqBjnljZ) | [MIN.ADEOLUWA](https://open.spotify.com/artist/64uDlOscS1ksKOxDqjXcRz) | [Goodness and Mercy\-Live \(Psalm 23:6\)](https://open.spotify.com/album/1pwmDIxD7tU5jFY1Mgjn6n) | 5:22 |
 | 78 | [Daily Bread](https://open.spotify.com/track/4Drb2FjnL796JxqenP546s) | [Olabayo](https://open.spotify.com/artist/5fwsRZi2lECkP2rqK74aaC) | [Daily Bread](https://open.spotify.com/album/41VDjNcEImibKkNehMPvNI) | 2:16 |
 | 79 | [Papa est là](https://open.spotify.com/track/3vzi8xaqqqjGqjVLtlaWHE) | [Marina kouassi](https://open.spotify.com/artist/5Pbc9jAONybyQWXdrkhZZ1) | [Papa est là](https://open.spotify.com/album/3nMYpiSSEAowCtlSrr5MJM) | 3:07 |
 | 80 | [You Covered Me](https://open.spotify.com/track/3TrFmztL0fT2RTaFIafew5) | [Mac Roc](https://open.spotify.com/artist/2PjoWoM7ATPPJ7xoUy5tyb), [Tryphena](https://open.spotify.com/artist/2YLax85sS5OfWUlg8lbcub) | [Mac Roc Sessions \(Home Editions\)](https://open.spotify.com/album/6iqnXJiTu1w0DYBRbEQJKO) | 2:51 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 86 | [Jesus Is Enough](https://open.spotify.com/track/1IdZniHLqbHBjwh4TL8Vxn) | [Davesings Ade](https://open.spotify.com/artist/1Hbu2Z6iyYPEi8k3y3BXL4), [Ola musique](https://open.spotify.com/artist/00UvfoYuZgHBvXHba8wvO1) | [Jesus Is Enough](https://open.spotify.com/album/6zfED4pwJfo4CIAoqaAwh4) | 2:56 |
 | 87 | [Alive](https://open.spotify.com/track/6PSnOhidP6bjHuiFS3l3AV) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO), [FIDEL E\. William](https://open.spotify.com/artist/3ZtLx9dt1d6OMirAEMMToe) | [Alive](https://open.spotify.com/album/7hQTCJrXZTRFUqjSMndW67) | 2:24 |
 | 88 | [Ku Zo Muje](https://open.spotify.com/track/0GVB0QoaGizZbF502FeafI) | [Tklex](https://open.spotify.com/artist/3nqqTSStDMepotlsMSnbvL) | [Ku Zo Muje](https://open.spotify.com/album/33zVATJ1Kfme8DW37L7nHZ) | 2:08 |
-| 89 | [Thank You](https://open.spotify.com/track/171S8fdZ2iCJGUB2XIjS04) | [The SandBox Ug](https://open.spotify.com/artist/5xPuytk2jpNmbWUL63FOj0), [Isaiah Ish](https://open.spotify.com/artist/1YH2QlTJW1A6qXtHsmf8Gv), [JNH](https://open.spotify.com/artist/25BsnR5jxmZBtiWGCyGM4v) | [Thank You](https://open.spotify.com/album/3zrbXJIrJkpAgCKgu8tXo2) | 2:25 |
+| 89 | [Thank You](https://open.spotify.com/track/171S8fdZ2iCJGUB2XIjS04) | [The SandBox Ug](https://open.spotify.com/artist/5xPuytk2jpNmbWUL63FOj0), [Isaiah Ish](https://open.spotify.com/artist/1YH2QlTJW1A6qXtHsmf8Gv), [JNH](https://open.spotify.com/artist/2i65iSEnUACKVYPdCpF2t0) | [Thank You](https://open.spotify.com/album/3zrbXJIrJkpAgCKgu8tXo2) | 2:25 |
 | 90 | [Shakanna](https://open.spotify.com/track/54YHjzzeNfda5LTp7h7ilE) | [Sikaflames](https://open.spotify.com/artist/1g45lpGTrdvpcNlQ3ZQnRg) | [Shakanna](https://open.spotify.com/album/2SNPfnnhGGq0Bf6PQ5Q9VH) | 3:33 |
 | 91 | [Dwell](https://open.spotify.com/track/0rg06MCj7g6BgpD4aP68fm) | [Chinma Umeh](https://open.spotify.com/artist/4jQNPCc1U8hzqLT5QJmw6e) | [Dwell](https://open.spotify.com/album/4cmj81mjVoQs3UeqsVXdjc) | 4:57 |
 | 92 | [Gbope Mi \(Live\)](https://open.spotify.com/track/2ZHAaraotmmXc13Ir9DOVy) | [Ethan Otedola](https://open.spotify.com/artist/68wbSl6oNKgoiTZm7vN0UK) | [Gbope Mi \(Live\)](https://open.spotify.com/album/6xAjLrGrMyXKMHfwpW880A) | 3:14 |

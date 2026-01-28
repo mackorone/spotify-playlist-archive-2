@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Delaney Bailey
 
-2,254 songs - 4 day 23 hr 43 min
+2,255 songs - 4 day 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -690,7 +690,7 @@
 | [Far Away](https://open.spotify.com/track/0HKzYLiNdTdGFfgStbfpQV) | [Peter Fenn](https://open.spotify.com/artist/6gMyLqdBGrHjR8TdCutVIP) | [Far Away](https://open.spotify.com/album/6ebG7C6aLeVRnhWfFxdZHi) | 2:11 | 2021-03-14 | 2021-05-25 |
 | [Fast Track to Heaven](https://open.spotify.com/track/1RdCFZlGa5JUMmv9O5wNxO) | [Hearts <3](https://open.spotify.com/artist/32gTQwEODaNCVu6SdNko3z) | [Fast Track to Heaven / JACKASS](https://open.spotify.com/album/1mmN7ucScgLGkIQ2ckwf1t) | 3:32 | 2021-03-22 | 2021-10-16 |
 | [Favor \- A COLORS SHOW](https://open.spotify.com/track/7mfNHi6BFeZoKUiylX45tl) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Favor \- A COLORS SHOW](https://open.spotify.com/album/7lRzvykyqAtgrjnypx2Usy) | 2:45 | 2025-08-01 | 2025-09-20 |
-| [Favorite Fear](https://open.spotify.com/track/3Vqcx4fajH02dyRuY99szQ) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Goldie Boutilier Presents..\. Goldie Montana](https://open.spotify.com/album/7ztYs1cGt5EkHppMFcvNtN) | 3:09 | 2025-12-12 |  |
+| [Favorite Fear](https://open.spotify.com/track/3Vqcx4fajH02dyRuY99szQ) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Goldie Boutilier Presents..\. Goldie Montana](https://open.spotify.com/album/7ztYs1cGt5EkHppMFcvNtN) | 3:09 | 2025-12-12 | 2026-01-28 |
 | [Favorite Liar](https://open.spotify.com/track/2w8MNUWzvE2ri20qia3jEI) | [Makk Mikkael](https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs) | [Favorite Liar](https://open.spotify.com/album/7yJff2hlRQQbGBcwnqY2nG) | 3:19 | 2022-01-14 | 2022-04-20 |
 | [Favorite Nightmare](https://open.spotify.com/track/3C2iUQ6S34tW7C6BKt8der) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [cheap sodas and ice cream kisses](https://open.spotify.com/album/38sApMoA6rSg4ScXjRkJHk) | 2:55 | 2020-10-13\* | 2021-05-30 |
 | [Fck Love](https://open.spotify.com/track/7KlssVnhed74ecry9mB1RW) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Fck Love](https://open.spotify.com/album/4Yb0MEAmnTb6uMxL6cvSK5) | 2:31 | 2022-06-17 | 2022-08-06 |
@@ -1032,6 +1032,7 @@
 | [IF YOU WANT IT](https://open.spotify.com/track/2ZZ0ITwRqitCvddi2CGfgq) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:07 | 2022-03-18 | 2022-04-20 |
 | [If You’re Too Shy \(Let Me Know\)](https://open.spotify.com/track/1n4vgMWmmNlXrvyxQFhUEl) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [If You’re Too Shy \(Let Me Know\)](https://open.spotify.com/album/3yP8qjvxER61axf20pFfAP) | 5:19 | 2020-10-20 | 2022-06-15 |
 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 | 2025-05-09 |  |
+| [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 | 2026-01-27 |  |
 | [Image](https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Image](https://open.spotify.com/album/7JnlRfxpLRDdeYOPuNcklD) | 3:32 | 2024-07-12 | 2025-01-09 |
 | [Images of Love \(with Dominic Fike\)](https://open.spotify.com/track/1Vj11Vm95STtBEL7hSB5Sh) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Images of Love \(with Dominic Fike\)](https://open.spotify.com/album/2Fwe7dJvmbzU3m2gJKXn2D) | 3:29 | 2025-12-12 |  |
 | [Imaginary Friends \- St\. Lucia Remix](https://open.spotify.com/track/2PXbkeD7oyMJwpKd0HoiB6) | [Japanese Wallpaper](https://open.spotify.com/artist/2xUsnfrcs3h2FzdRQvGmGM), [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Imaginary Friends \(St\. Lucia Remix\)](https://open.spotify.com/album/2TNQueYbu3esjJRLaZyiWy) | 4:26 | 2021-02-23 | 2021-05-24 |

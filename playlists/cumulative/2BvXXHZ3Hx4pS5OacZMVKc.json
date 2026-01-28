@@ -1016,6 +1016,10 @@
         {
           "name": "Polygon",
           "url": "https://open.spotify.com/artist/5BGIoAtF2cwgcydpnUyFkF"
+        },
+        {
+          "name": "NoCopyrightSounds",
+          "url": "https://open.spotify.com/artist/36Ve2b7MJrdzGi3mzu5kX2"
         }
       ],
       "date_added": "2023-02-24",
@@ -3221,7 +3225,7 @@
     },
     {
       "album": {
-        "name": "Give It To Me",
+        "name": "Give It To Me (NCS)",
         "url": "https://open.spotify.com/album/4ZF80hXHTGvFwFDa9wyOIL"
       },
       "artists": [
@@ -3238,7 +3242,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 166400,
-      "name": "Give It To Me",
+      "name": "Give It To Me (NCS)",
       "url": "https://open.spotify.com/track/5J5lXkB6oycwehvBJBmaUc"
     },
     {
@@ -4325,7 +4329,7 @@
         },
         {
           "name": "JJL",
-          "url": "https://open.spotify.com/artist/41QZ7uWNkyqF0PbJsd5nXv"
+          "url": "https://open.spotify.com/artist/5LroXuJrtGub3hrJvhGAMo"
         }
       ],
       "date_added": "2023-08-10",
@@ -5096,6 +5100,10 @@
         {
           "name": "Koven",
           "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        },
+        {
+          "name": "NoCopyrightSounds",
+          "url": "https://open.spotify.com/artist/36Ve2b7MJrdzGi3mzu5kX2"
         }
       ],
       "date_added": "2023-10-27",
@@ -6091,7 +6099,7 @@
     },
     {
       "album": {
-        "name": "PSYCHOPATHIC",
+        "name": "PSYCHOPATHIC (NCS)",
         "url": "https://open.spotify.com/album/4vnHN3hA7BbQ7KUAafUG03"
       },
       "artists": [
@@ -6104,7 +6112,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 148969,
-      "name": "PSYCHOPATHIC",
+      "name": "PSYCHOPATHIC (NCS)",
       "url": "https://open.spotify.com/track/4AnxczKtQaEjTO4fQpOdXd"
     },
     {
@@ -8857,7 +8865,7 @@
     },
     {
       "album": {
-        "name": "WHAT",
+        "name": "WHAT (NCS)",
         "url": "https://open.spotify.com/album/05K4uCusOkFEIGFCdfQYvo"
       },
       "artists": [

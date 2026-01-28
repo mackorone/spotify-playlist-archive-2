@@ -1,6 +1,6 @@
 {
   "description": "Ghazals for the rapture and passion of intense love and longing. Cover - Pankaj Udhas",
-  "num_followers": 137308,
+  "num_followers": 137343,
   "original_name": "Golden Ghazals",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,30 @@
     {
       "added_at": "2026-01-22 09:18:41",
       "album": {
+        "name": "Heeramandi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6b2vHhEysVp1gXn7WMrBFy"
+      },
+      "artists": [
+        {
+          "name": "Sanjay Leela Bhansali",
+          "url": "https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "A.M. Turaz",
+          "url": "https://open.spotify.com/artist/7uvFUOwVvse3izyeVufnl9"
+        }
+      ],
+      "duration_ms": 243792,
+      "name": "Chaudhavi Shab",
+      "url": "https://open.spotify.com/track/7p87RATknowYjH1siFCC3P"
+    },
+    {
+      "added_at": "2026-01-22 09:18:41",
+      "album": {
         "name": "Metro ... In Dino (Side B)",
         "url": "https://open.spotify.com/album/0Xenz5qY7LXiUVHvEQDoWr"
       },
@@ -199,30 +223,6 @@
       "duration_ms": 223317,
       "name": "Zamaana Lage - Mood Shift",
       "url": "https://open.spotify.com/track/2KiPZtDxNXfiCuEFE2G1Co"
-    },
-    {
-      "added_at": "2026-01-22 09:18:41",
-      "album": {
-        "name": "Heeramandi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6b2vHhEysVp1gXn7WMrBFy"
-      },
-      "artists": [
-        {
-          "name": "Sanjay Leela Bhansali",
-          "url": "https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "A.M. Turaz",
-          "url": "https://open.spotify.com/artist/7uvFUOwVvse3izyeVufnl9"
-        }
-      ],
-      "duration_ms": 243792,
-      "name": "Chaudhavi Shab",
-      "url": "https://open.spotify.com/track/7p87RATknowYjH1siFCC3P"
     },
     {
       "added_at": "2026-01-22 09:18:41",
@@ -299,26 +299,6 @@
     {
       "added_at": "2026-01-22 09:18:41",
       "album": {
-        "name": "Ghazal Lounge",
-        "url": "https://open.spotify.com/album/0650SIztpEIyUkoQUIFflW"
-      },
-      "artists": [
-        {
-          "name": "Roop Kumar Rathod",
-          "url": "https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa"
-        },
-        {
-          "name": "Abhijit Pohankar",
-          "url": "https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY"
-        }
-      ],
-      "duration_ms": 400720,
-      "name": "Aaj Jaane Ki Zid Na Karo",
-      "url": "https://open.spotify.com/track/2KYqJSqEcFKtFmcSf5574E"
-    },
-    {
-      "added_at": "2026-01-22 09:18:41",
-      "album": {
         "name": "Heeramandi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6b2vHhEysVp1gXn7WMrBFy"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 313631,
       "name": "Saiyaan Hatto Jaao",
       "url": "https://open.spotify.com/track/647uP7tkpOUIdaDNz0YX1Q"
+    },
+    {
+      "added_at": "2026-01-22 09:18:41",
+      "album": {
+        "name": "Ghazal Lounge",
+        "url": "https://open.spotify.com/album/0650SIztpEIyUkoQUIFflW"
+      },
+      "artists": [
+        {
+          "name": "Roop Kumar Rathod",
+          "url": "https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa"
+        },
+        {
+          "name": "Abhijit Pohankar",
+          "url": "https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY"
+        }
+      ],
+      "duration_ms": 400720,
+      "name": "Aaj Jaane Ki Zid Na Karo",
+      "url": "https://open.spotify.com/track/2KYqJSqEcFKtFmcSf5574E"
     },
     {
       "added_at": "2026-01-22 09:18:41",
@@ -379,22 +379,18 @@
     {
       "added_at": "2026-01-22 09:18:41",
       "album": {
-        "name": "Naazuq",
-        "url": "https://open.spotify.com/album/15wbfopg3HtIz4xRq42T56"
+        "name": "Marasim",
+        "url": "https://open.spotify.com/album/1LDrTnu0ogosWf5UyVpnlz"
       },
       "artists": [
         {
           "name": "Jagjit Singh",
           "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
-        },
-        {
-          "name": "Ajjay Gosswami",
-          "url": "https://open.spotify.com/artist/1KZgM0Js1oDUJN0mYLtrPT"
         }
       ],
-      "duration_ms": 290666,
-      "name": "Naazuq",
-      "url": "https://open.spotify.com/track/0PSDrXAeolJHyDFMXEBHPu"
+      "duration_ms": 376200,
+      "name": "Ek Purana Mausam Lauta",
+      "url": "https://open.spotify.com/track/1F3BM9e09myeUXSyj5czjr"
     },
     {
       "added_at": "2026-01-22 09:18:41",
@@ -483,18 +479,22 @@
     {
       "added_at": "2026-01-22 09:18:41",
       "album": {
-        "name": "Marasim",
-        "url": "https://open.spotify.com/album/1LDrTnu0ogosWf5UyVpnlz"
+        "name": "Naazuq",
+        "url": "https://open.spotify.com/album/15wbfopg3HtIz4xRq42T56"
       },
       "artists": [
         {
           "name": "Jagjit Singh",
           "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
+        },
+        {
+          "name": "Ajjay Gosswami",
+          "url": "https://open.spotify.com/artist/1KZgM0Js1oDUJN0mYLtrPT"
         }
       ],
-      "duration_ms": 376200,
-      "name": "Ek Purana Mausam Lauta",
-      "url": "https://open.spotify.com/track/1F3BM9e09myeUXSyj5czjr"
+      "duration_ms": 290666,
+      "name": "Naazuq",
+      "url": "https://open.spotify.com/track/0PSDrXAeolJHyDFMXEBHPu"
     },
     {
       "added_at": "2026-01-22 09:18:41",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-01-22 09:18:41",
       "album": {
-        "name": "Stolen Moments",
-        "url": "https://open.spotify.com/album/1rH4PEQvD7A4PcXcuc05K9"
-      },
-      "artists": [
-        {
-          "name": "Pankaj Udhas",
-          "url": "https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw"
-        }
-      ],
-      "duration_ms": 334173,
-      "name": "Naam",
-      "url": "https://open.spotify.com/track/1aL1wNSXuYg8iVphuMQDaW"
-    },
-    {
-      "added_at": "2026-01-22 09:18:41",
-      "album": {
         "name": "Sunset Point",
         "url": "https://open.spotify.com/album/21LwESMM1kqVnuhxuArokv"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 361733,
       "name": "Tere Jane Se",
       "url": "https://open.spotify.com/track/5zfKHMv3fIwCdaz4H3f6Uz"
+    },
+    {
+      "added_at": "2026-01-22 09:18:41",
+      "album": {
+        "name": "Stolen Moments",
+        "url": "https://open.spotify.com/album/1rH4PEQvD7A4PcXcuc05K9"
+      },
+      "artists": [
+        {
+          "name": "Pankaj Udhas",
+          "url": "https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw"
+        }
+      ],
+      "duration_ms": 334173,
+      "name": "Naam",
+      "url": "https://open.spotify.com/track/1aL1wNSXuYg8iVphuMQDaW"
     },
     {
       "added_at": "2026-01-22 09:18:41",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-01-22 09:18:41",
       "album": {
+        "name": "Marasim",
+        "url": "https://open.spotify.com/album/1LDrTnu0ogosWf5UyVpnlz"
+      },
+      "artists": [
+        {
+          "name": "Gulzar",
+          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+        }
+      ],
+      "duration_ms": 46293,
+      "name": "Gulzar Speaks - Tarkieb",
+      "url": "https://open.spotify.com/track/5OsYSM0LuBtYxJk2DqpZPn"
+    },
+    {
+      "added_at": "2026-01-22 09:18:41",
+      "album": {
         "name": "Soulful Ghazals",
         "url": "https://open.spotify.com/album/5npeS4QWzh2ONX9p1zOYxe"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 534825,
       "name": "Rang Rasiya - Film Version",
       "url": "https://open.spotify.com/track/3JwTaFbO6HlMFyD0UvEtOM"
-    },
-    {
-      "added_at": "2026-01-22 09:18:41",
-      "album": {
-        "name": "Marasim",
-        "url": "https://open.spotify.com/album/1LDrTnu0ogosWf5UyVpnlz"
-      },
-      "artists": [
-        {
-          "name": "Gulzar",
-          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
-        }
-      ],
-      "duration_ms": 46293,
-      "name": "Gulzar Speaks - Tarkieb",
-      "url": "https://open.spotify.com/track/5OsYSM0LuBtYxJk2DqpZPn"
     },
     {
       "added_at": "2026-01-22 09:18:41",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-01-22 09:18:41",
       "album": {
-        "name": "Dil Ke Behlane Ki",
-        "url": "https://open.spotify.com/album/48AZkKOndaRtYysnmyWqnl"
-      },
-      "artists": [
-        {
-          "name": "Gayatri Asokan",
-          "url": "https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK"
-        }
-      ],
-      "duration_ms": 224874,
-      "name": "Dil Ke Behlane Ki",
-      "url": "https://open.spotify.com/track/0j8bQyja91hw3OM4GaTx37"
-    },
-    {
-      "added_at": "2026-01-22 09:18:41",
-      "album": {
         "name": "Rooh",
         "url": "https://open.spotify.com/album/7p6PpWdahXJb6XQaR8ly2e"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 317636,
       "name": "Rooh",
       "url": "https://open.spotify.com/track/7zCpzTtENhE68RFR6IqMEK"
+    },
+    {
+      "added_at": "2026-01-22 09:18:41",
+      "album": {
+        "name": "Dil Ke Behlane Ki",
+        "url": "https://open.spotify.com/album/48AZkKOndaRtYysnmyWqnl"
+      },
+      "artists": [
+        {
+          "name": "Gayatri Asokan",
+          "url": "https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK"
+        }
+      ],
+      "duration_ms": 224874,
+      "name": "Dil Ke Behlane Ki",
+      "url": "https://open.spotify.com/track/0j8bQyja91hw3OM4GaTx37"
     },
     {
       "added_at": "2026-01-22 09:18:41",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-01-22 09:18:41",
       "album": {
-        "name": "Zikr Hamara Hai Magar (From - Izhaar-E-Ishq)",
-        "url": "https://open.spotify.com/album/210Xmg0WOxgQ17S1eJJY83"
-      },
-      "artists": [
-        {
-          "name": "Hemant Brijwasi",
-          "url": "https://open.spotify.com/artist/11BXjsOWoC85qAKxr1h0NX"
-        }
-      ],
-      "duration_ms": 343360,
-      "name": "Zikr Hamara Hai Magar (From - Izhaar-E-Ishq)",
-      "url": "https://open.spotify.com/track/5raBN9JYslOZsjZjQ0UgjA"
-    },
-    {
-      "added_at": "2026-01-22 09:18:41",
-      "album": {
         "name": "Ab Ke Tajdeed",
         "url": "https://open.spotify.com/album/5Uquc5yiGw4Tgp1bRcilG3"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 288157,
       "name": "Ab Ke Tajdeed",
       "url": "https://open.spotify.com/track/0PCZxQpYkk493Apz9oBOXG"
+    },
+    {
+      "added_at": "2026-01-22 09:18:41",
+      "album": {
+        "name": "Zikr Hamara Hai Magar (From - Izhaar-E-Ishq)",
+        "url": "https://open.spotify.com/album/210Xmg0WOxgQ17S1eJJY83"
+      },
+      "artists": [
+        {
+          "name": "Hemant Brijwasi",
+          "url": "https://open.spotify.com/artist/11BXjsOWoC85qAKxr1h0NX"
+        }
+      ],
+      "duration_ms": 343360,
+      "name": "Zikr Hamara Hai Magar (From - Izhaar-E-Ishq)",
+      "url": "https://open.spotify.com/track/5raBN9JYslOZsjZjQ0UgjA"
     },
     {
       "added_at": "2026-01-22 09:18:41",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-01-22 09:18:41",
       "album": {
-        "name": "Mehsoos (From \"Jashn -E- Ghazal\")",
-        "url": "https://open.spotify.com/album/6H2TfegbAjHwzxmGz0WFqX"
-      },
-      "artists": [
-        {
-          "name": "Papon",
-          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
-        }
-      ],
-      "duration_ms": 306268,
-      "name": "Mehsoos - From \"Jashn -E- Ghazal\"",
-      "url": "https://open.spotify.com/track/4SjQXhdYTX6jca8YVzWn7O"
-    },
-    {
-      "added_at": "2026-01-22 09:18:41",
-      "album": {
         "name": "Aasman",
         "url": "https://open.spotify.com/album/7McEMB3Dpdx5aq1vv9GuVg"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 384110,
       "name": "Aasman",
       "url": "https://open.spotify.com/track/4UoghtpFglvrv1UwOiYiz3"
+    },
+    {
+      "added_at": "2026-01-22 09:18:41",
+      "album": {
+        "name": "Mehsoos (From \"Jashn -E- Ghazal\")",
+        "url": "https://open.spotify.com/album/6H2TfegbAjHwzxmGz0WFqX"
+      },
+      "artists": [
+        {
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
+        }
+      ],
+      "duration_ms": 306268,
+      "name": "Mehsoos - From \"Jashn -E- Ghazal\"",
+      "url": "https://open.spotify.com/track/4SjQXhdYTX6jca8YVzWn7O"
     },
     {
       "added_at": "2026-01-22 09:18:41",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-01-22 09:18:41",
       "album": {
-        "name": "Guzra Hua Ye Waqt",
-        "url": "https://open.spotify.com/album/5Nuh0UAq2yKV2rpQMvGmWt"
-      },
-      "artists": [
-        {
-          "name": "Pamela Jain",
-          "url": "https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE"
-        }
-      ],
-      "duration_ms": 286657,
-      "name": "Guzra Hua Ye Waqt",
-      "url": "https://open.spotify.com/track/79vqORwAkk9oNEiXJ3ZRsG"
-    },
-    {
-      "added_at": "2026-01-22 09:18:41",
-      "album": {
         "name": "Pahle Dil Ko (From - Izhaar-E-Ishq)",
         "url": "https://open.spotify.com/album/3xTZsfjAsnNnELuRQYYFFZ"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 292028,
       "name": "Pahle Dil Ko (From - Izhaar-E-Ishq)",
       "url": "https://open.spotify.com/track/3h6BgkcUhYK28dBs6Ta7iw"
+    },
+    {
+      "added_at": "2026-01-22 09:18:41",
+      "album": {
+        "name": "Guzra Hua Ye Waqt",
+        "url": "https://open.spotify.com/album/5Nuh0UAq2yKV2rpQMvGmWt"
+      },
+      "artists": [
+        {
+          "name": "Pamela Jain",
+          "url": "https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE"
+        }
+      ],
+      "duration_ms": 286657,
+      "name": "Guzra Hua Ye Waqt",
+      "url": "https://open.spotify.com/track/79vqORwAkk9oNEiXJ3ZRsG"
     }
   ],
   "unique_name": "Golden Ghazals",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: K.S.Harisankar, Salim Sulaiman
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,275 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,341 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 28 | [Jaalame](https://open.spotify.com/track/1SEe6PB3qJipGcbtJQS5db) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Jai Matt](https://open.spotify.com/artist/2sC8JDQrhhEjnpeHrTYzjf), [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW), [J2K](https://open.spotify.com/artist/6Um66wxKM0pGG4HIoLacTM) | [Jaalame](https://open.spotify.com/album/4PtCiq8SiO8Ve8bWUT9OiT) | 3:20 |
 | 29 | [Majnu \- From "Saina Music Indie"](https://open.spotify.com/track/61HtS9NSAxJ7oLZBzX0lTU) | [SAMJU ZAG](https://open.spotify.com/artist/6UmqznGDf6FWjpZBJEfiKO), [Hanye West](https://open.spotify.com/artist/11mRvInQ8wMCKHHJyFYUGk) | [Majnu \(From "Saina Music Indie"\)](https://open.spotify.com/album/70tSQlDyf6ns1Mh4Ey7UB9) | 3:08 |
 | 30 | [Mayatheeram](https://open.spotify.com/track/5Ox3gerw8gatalUBOQdumf) | [Bhadra Rajin](https://open.spotify.com/artist/2Z8xrdU7UXKkHgtJ3U4HZn), [Sreeranjini Kodampally](https://open.spotify.com/artist/4LJRTEt0rKZfEwMWSTGJM5) | [Mayatheeram](https://open.spotify.com/album/2ahKKTbwW8CnpTE6Lnu8dH) | 3:56 |
-| 31 | [Chidambaram](https://open.spotify.com/track/6iL7mjYViLK2A6zEDL0IZ5) | [Envu](https://open.spotify.com/artist/1NZ5Zm3aCfS8QcyxZa3R5K) | [Chidambaram](https://open.spotify.com/album/6aTCaYfd6yQJLkbwXzZWph) | 4:06 |
+| 31 | [Chidambaram](https://open.spotify.com/track/6iL7mjYViLK2A6zEDL0IZ5) | [ENVU](https://open.spotify.com/artist/1NZ5Zm3aCfS8QcyxZa3R5K) | [Chidambaram](https://open.spotify.com/album/6aTCaYfd6yQJLkbwXzZWph) | 4:06 |
 | 32 | [Eerezhu Lokam](https://open.spotify.com/track/4pcDQb8DG551RbYB6jrw9i) | [Pranav Das](https://open.spotify.com/artist/6OwdhjSwx9S20xgIhe8DYI), [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB) | [Eerezhu Lokam](https://open.spotify.com/album/1Nk19vcDcaQtdAfVSU1hl0) | 4:25 |
 | 33 | [KALI](https://open.spotify.com/track/7FcseZRZKS7zIiJUpz3z4S) | [Alex Prince](https://open.spotify.com/artist/5A8fS3Hs0K8PwrNcT5kkYo), [Christo George](https://open.spotify.com/artist/3nk6fSGeJuNHxRGIbauxTx) | [KALI](https://open.spotify.com/album/6ilkoFQfSBGccgth1cxtqh) | 1:18 |
 | 34 | [Chenthamara](https://open.spotify.com/track/3W4P7DX7sdN3jB8YZTiLPz) | [Jeffin Jestin](https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC) | [Chenthamara](https://open.spotify.com/album/7iyQY7szblMfCZYgZyhGLY) | 2:23 |

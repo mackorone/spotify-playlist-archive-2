@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your bias K-Pop boy group? (Cover: KickFlip(\ud0a5\ud50c\ub9bd)) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
+  "description": "Is it your bias K-Pop boy group? (Cover: AB6IX (\uc5d0\uc774\ube44\uc2dd\uc2a4)) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
   "name": "BIASBOYS",
   "tracks": [
     {
@@ -352,6 +352,24 @@
       "duration_ms": 178453,
       "name": "_WORLD",
       "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
+    },
+    {
+      "album": {
+        "name": "A Minute, A Second",
+        "url": "https://open.spotify.com/album/72jVNugN4j3KraXGzGEki2"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192474,
+      "name": "A Minute, A Second",
+      "url": "https://open.spotify.com/track/5QB4UqWDiTnKdmW4QXHj70"
     },
     {
       "album": {
@@ -4620,7 +4638,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 188000,
       "name": "FREAK ALARM",
       "url": "https://open.spotify.com/track/4LYM1IwuTq6b5vqTdQTbag"
@@ -9393,6 +9411,24 @@
     },
     {
       "album": {
+        "name": "Obsession (\u60c5\u7d50)",
+        "url": "https://open.spotify.com/album/3dI9colFC68q8M59OandSD"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230380,
+      "name": "Obsession (\u60c5\u7d50)",
+      "url": "https://open.spotify.com/track/1IseFrw8ahoiSeqmAtkBWu"
+    },
+    {
+      "album": {
         "name": "SEVENTEEN 5TH MINI ALBUM 'YOU MAKE MY DAY'",
         "url": "https://open.spotify.com/album/7ayq6V3xwXGOScUqhvIyFl"
       },
@@ -13470,7 +13506,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 192092,
       "name": "VERY NICE",
       "url": "https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w"

@@ -2213,6 +2213,24 @@
     },
     {
       "album": {
+        "name": "AIZO",
+        "url": "https://open.spotify.com/album/7BAFUXup2XFZpcnCmLjXmM"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215858,
+      "name": "AIZO",
+      "url": "https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9"
+    },
+    {
+      "album": {
         "name": "Akhirah",
         "url": "https://open.spotify.com/album/03FgDDOodv6plMesbVdF2c"
       },
@@ -2816,7 +2834,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 242066,
       "name": "Always Have a Choice",
       "url": "https://open.spotify.com/track/4zX9Pbxjp1nbf3MlNb6Mcd"
@@ -5352,7 +5370,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 189960,
       "name": "Beast",
       "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
@@ -6098,7 +6116,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 150733,
       "name": "Big Guy - from \"The SpongeBob Movie: Search for SquarePants\u201d",
       "url": "https://open.spotify.com/track/3HiCAjMaPfM4vnbhLhADBp"
@@ -10821,6 +10839,36 @@
     },
     {
       "album": {
+        "name": "Cry For Me (WA WA WA)",
+        "url": "https://open.spotify.com/album/5NWbNz7c261wCZsUfYOKuY"
+      },
+      "artists": [
+        {
+          "name": "Ironmouse",
+          "url": "https://open.spotify.com/artist/3rkwWB8rbBCNTrSvVUBa6C"
+        },
+        {
+          "name": "shirobeats",
+          "url": "https://open.spotify.com/artist/6ikl2mKOYsek2fUhMj2CTW"
+        },
+        {
+          "name": "HalaCG",
+          "url": "https://open.spotify.com/artist/0Tbadays3Z2K3BxmvjL34J"
+        },
+        {
+          "name": "Bubi",
+          "url": "https://open.spotify.com/artist/2LlDXTSoqYFe1viQSb3zw7"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160645,
+      "name": "Cry For Me WA WA WA",
+      "url": "https://open.spotify.com/track/30C4LSxZHCWNtUjnZUxEoJ"
+    },
+    {
+      "album": {
         "name": "Club Ironmouse",
         "url": "https://open.spotify.com/album/009MgrZZmMCGmeZdkxwnZ4"
       },
@@ -12102,7 +12150,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 217008,
       "name": "Die On This Hill",
       "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
@@ -14498,7 +14546,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 231960,
       "name": "Erika",
       "url": "https://open.spotify.com/track/5F073WaIn6pAi8BJWohIWt"
@@ -20847,6 +20895,24 @@
     },
     {
       "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160966,
+      "name": "HELICOPTER",
+      "url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
+    },
+    {
+      "album": {
         "name": "Hazbin Hotel Original Soundtrack (Part 1)",
         "url": "https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy"
       },
@@ -22466,7 +22532,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 171605,
       "name": "Hyperbaiter Disstrack",
       "url": "https://open.spotify.com/track/1VGtdmj4Kr7gijTZnJ5A8x"
@@ -22912,6 +22978,24 @@
       "duration_ms": 178205,
       "name": "I Had Some Help (Feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
+    },
+    {
+      "album": {
+        "name": "I Just Might",
+        "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212973,
+      "name": "I Just Might",
+      "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
     },
     {
       "album": {
@@ -24138,6 +24222,24 @@
       "duration_ms": 149666,
       "name": "Illegal",
       "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
+    },
+    {
+      "album": {
+        "name": "iloveitiloveitiloveit",
+        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
       "album": {
@@ -28860,7 +28962,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 131086,
       "name": "Lionceau - Afro Soul",
       "url": "https://open.spotify.com/track/2lHPAQBcsLPFZwwdT7V20h"
@@ -34235,6 +34337,28 @@
     },
     {
       "album": {
+        "name": "Nevada (Agartha)",
+        "url": "https://open.spotify.com/album/53rlHwbaI3Ay9BaTdg48xg"
+      },
+      "artists": [
+        {
+          "name": "PANTHEON",
+          "url": "https://open.spotify.com/artist/0OXY2XGtXjLNnVZjoaSODw"
+        },
+        {
+          "name": "deprezz",
+          "url": "https://open.spotify.com/artist/6fL5VGL0vinKQ5HOviw6iX"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200807,
+      "name": "Nevada (Agartha Slowd & Reverb)",
+      "url": "https://open.spotify.com/track/297dBQdAmcxpREaXkQ7V36"
+    },
+    {
+      "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Original Series, Season 3",
         "url": "https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP"
       },
@@ -34632,7 +34756,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 89745,
       "name": "NO BATID\u00c3O",
       "url": "https://open.spotify.com/track/7vg9noSnFEyPfwLiaCW4vi"
@@ -36361,6 +36485,24 @@
     },
     {
       "album": {
+        "name": "Ova macka do mene",
+        "url": "https://open.spotify.com/album/2WOIhY5sp280JzIIURJdCB"
+      },
+      "artists": [
+        {
+          "name": "Emir Djulovic",
+          "url": "https://open.spotify.com/artist/2AgeyJEV0OuzIKsYPpFDnw"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109360,
+      "name": "Ova macka do mene - Live",
+      "url": "https://open.spotify.com/track/5PCIxOXnHeLQNVNQaB6zDJ"
+    },
+    {
+      "album": {
         "name": "From Zero",
         "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
       },
@@ -36704,7 +36846,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-25",
+      "date_removed": null,
       "duration_ms": 279962,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/76952ZbAHlgMqrIEMqYkgB"
@@ -36730,7 +36872,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 279962,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/7qbqG0UWOdpsYE2G6ckXSb"
@@ -36930,6 +37072,24 @@
       "duration_ms": 164250,
       "name": "Party in Billstedt",
       "url": "https://open.spotify.com/track/09MUcej3BQqz4AetYwT3wb"
+    },
+    {
+      "album": {
+        "name": "Party nur f\u00fcr mich",
+        "url": "https://open.spotify.com/album/2Xjy2Hk2Baz1kDOH3ZSsZt"
+      },
+      "artists": [
+        {
+          "name": "VICKY",
+          "url": "https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157201,
+      "name": "Party nur f\u00fcr mich",
+      "url": "https://open.spotify.com/track/4cUr4zVICnnqfh6TzfM81k"
     },
     {
       "album": {
@@ -40292,7 +40452,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 162755,
       "name": "Rumors",
       "url": "https://open.spotify.com/track/4AHW7Q2TGKwfndbbQvjXmF"
@@ -44073,6 +44233,24 @@
     },
     {
       "album": {
+        "name": "Stamp On The Ground",
+        "url": "https://open.spotify.com/album/7IJR6fqTt4oZjZPnQ2DLz2"
+      },
+      "artists": [
+        {
+          "name": "Septum",
+          "url": "https://open.spotify.com/artist/5zeN5UUPeAzIZDBtSmjGTl"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Stamp On The Ground",
+      "url": "https://open.spotify.com/track/4Q5SMNyWydPAHZ51qc6M2E"
+    },
+    {
+      "album": {
         "name": "Starburster",
         "url": "https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o"
       },
@@ -46517,6 +46695,24 @@
     },
     {
       "album": {
+        "name": "Teneriffa",
+        "url": "https://open.spotify.com/album/3d0CeuIZJ53NsPDeTzB1fZ"
+      },
+      "artists": [
+        {
+          "name": "Cordoba78",
+          "url": "https://open.spotify.com/artist/2GNQkf6PWF0octGR2XzpQt"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177093,
+      "name": "Teneriffa",
+      "url": "https://open.spotify.com/track/7ysK1mhW5lARHZzH2A8wp8"
+    },
+    {
+      "album": {
         "name": "Teresa & Maria",
         "url": "https://open.spotify.com/album/0Q3a4oVaiaVAQeq9WPz5aB"
       },
@@ -47678,7 +47874,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-26",
+      "date_removed": null,
       "duration_ms": 197625,
       "name": "Thong Song x Poker Face",
       "url": "https://open.spotify.com/track/07K8skqONaGHHXb8roY4u3"
@@ -47700,7 +47896,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 197610,
       "name": "Thong Song X Poker Face",
       "url": "https://open.spotify.com/track/74hIKHOwoTdumgiTHm1lzd"
@@ -48550,7 +48746,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 177386,
       "name": "Turn The Lights Off",
       "url": "https://open.spotify.com/track/0wHayguZd1CeQDLYohXNMS"
@@ -48892,7 +49088,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 342099,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/53qdXiuRiFr7ubXB4S7Ir1"
@@ -49808,6 +50004,24 @@
       "duration_ms": 166222,
       "name": "Veronika",
       "url": "https://open.spotify.com/track/5M2L5RqF8zRvFwPUrQ1tX6"
+    },
+    {
+      "album": {
+        "name": "Versatile (Dark Triad Slowed)",
+        "url": "https://open.spotify.com/album/5TejopyPdu3PiKDjr8ul8q"
+      },
+      "artists": [
+        {
+          "name": "PROBLEMATIC PILLZ",
+          "url": "https://open.spotify.com/artist/3tK1pKczB8xAD1np6ITgoQ"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132934,
+      "name": "Versatile (Dark Triad Slowed)",
+      "url": "https://open.spotify.com/track/3mgKkH8qXF7nurKX50II45"
     },
     {
       "album": {
@@ -54422,7 +54636,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"
@@ -54720,6 +54934,28 @@
       "duration_ms": 182090,
       "name": "\u00d6z\u00fcnl\u0259 Apar",
       "url": "https://open.spotify.com/track/6EwXG9cPjesjehN0kw30xs"
+    },
+    {
+      "album": {
+        "name": "Das Schwarze Album",
+        "url": "https://open.spotify.com/album/5byJvup7AsTKCCEBufbenC"
+      },
+      "artists": [
+        {
+          "name": "The Butcher Sisters",
+          "url": "https://open.spotify.com/artist/6j8vGWE3wKAFEn0ngreusM"
+        },
+        {
+          "name": "H\u00e4matom",
+          "url": "https://open.spotify.com/artist/6vg9BW5gHSjidGbypXQku2"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224560,
+      "name": "\u00dc30",
+      "url": "https://open.spotify.com/track/5K55rh2C73pHCNsy6TNfMM"
     },
     {
       "album": {

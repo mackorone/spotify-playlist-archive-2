@@ -236,7 +236,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 137142,
       "name": "BLEACHERS",
       "url": "https://open.spotify.com/track/3rInIavPYEfe9ljP732aFk"
@@ -360,7 +360,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 97012,
       "name": "can i get a kiss?",
       "url": "https://open.spotify.com/track/1zwiH0mNMsGXUAPAHc9bij"
@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 202520,
       "name": "OUTRO",
       "url": "https://open.spotify.com/track/0VIkfu39eJ3BBmmHvt6bQ5"
@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 138017,
       "name": "P!NK GUN",
       "url": "https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg"
@@ -1920,10 +1920,32 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 110545,
       "name": "Spectacular 2",
       "url": "https://open.spotify.com/track/7cRSJZxsujmH1FENsQySBf"
+    },
+    {
+      "album": {
+        "name": "OVERBOUND",
+        "url": "https://open.spotify.com/album/5HU8CFHafkvdblQjj6ZwQy"
+      },
+      "artists": [
+        {
+          "name": "tobe kobe",
+          "url": "https://open.spotify.com/artist/7zmDKG0cSfFIdQVz8O30wf"
+        },
+        {
+          "name": "Gigi Da Badger",
+          "url": "https://open.spotify.com/artist/6frA3HcM894vN8M6tLx350"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124667,
+      "name": "Spend It All",
+      "url": "https://open.spotify.com/track/58BiPG2b1V8XYxWvcond3S"
     },
     {
       "album": {
@@ -2170,7 +2192,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 139364,
       "name": "Tokyo Drift",
       "url": "https://open.spotify.com/track/6av4npT3aqya3VdgSsgarJ"
@@ -2188,7 +2210,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 211931,
       "name": "Trifling",
       "url": "https://open.spotify.com/track/3wMUXSD6foKvnl9asEbEA4"

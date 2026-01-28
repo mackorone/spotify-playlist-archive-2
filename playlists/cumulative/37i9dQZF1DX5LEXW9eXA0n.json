@@ -18306,7 +18306,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 219000,
       "name": "On That Day",
       "url": "https://open.spotify.com/track/5opGTlCl24NOTRyrYjUYQ8"
@@ -20846,7 +20846,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 221000,
       "name": "She Was",
       "url": "https://open.spotify.com/track/2ffxxd36FqURTTvksfDPEa"
@@ -21962,6 +21962,24 @@
       "duration_ms": 229946,
       "name": "Sorry doesn't cut it",
       "url": "https://open.spotify.com/track/5uHVu9UKbkDbG0JwtHuiVl"
+    },
+    {
+      "album": {
+        "name": "Sorry for Crying",
+        "url": "https://open.spotify.com/album/2EZd8xV8l8F9ZEoAnE7sW2"
+      },
+      "artists": [
+        {
+          "name": "ROCOBERRY",
+          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Sorry for Crying",
+      "url": "https://open.spotify.com/track/7G82cGh3BQKnuPOLPHfUDl"
     },
     {
       "album": {
@@ -29816,6 +29834,24 @@
       "duration_ms": 289999,
       "name": "\ube44\ubc00\uc758 \ud654\uc6d0 the secret garden",
       "url": "https://open.spotify.com/track/37oNX55SMkw6bWjv8BL07C"
+    },
+    {
+      "album": {
+        "name": "\uc0ac\uacc4(Always)",
+        "url": "https://open.spotify.com/album/7EpmyESabuBhOt6CBErubi"
+      },
+      "artists": [
+        {
+          "name": "LEE JUNHO",
+          "url": "https://open.spotify.com/artist/1nEFr6pWrot80eRuOkZQxg"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240980,
+      "name": "\uc0ac\uacc4(Always)",
+      "url": "https://open.spotify.com/track/5nQgn6RGGRUUiGFFXsdkGI"
     },
     {
       "album": {

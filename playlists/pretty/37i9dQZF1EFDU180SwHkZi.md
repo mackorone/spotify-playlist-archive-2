@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 68 | [Jealous](https://open.spotify.com/track/5wXX1UkC8iX4fD1WIkcXdn) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Double Standards](https://open.spotify.com/album/3ffSkoeLJWwuX3GdrTfcpy) | 3:16 |
 | 69 | [for Christmas](https://open.spotify.com/track/3kxnX9hlQSv1ahtXG9kleN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [for Christmas](https://open.spotify.com/album/4p51pGMOGcFpoaohQ2yMbZ) | 3:26 |
 | 70 | [One Fine Day](https://open.spotify.com/track/0cAcuLGXhCIR5aCMlkmGJc) | [Maitreyi Ramakrishnan](https://open.spotify.com/artist/0syHMgSCCIb3v7ngXtXHg0), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Freakier Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21GEjVF1Rr389EmT0pEedm) | 2:58 |
-| 71 | [50/50](https://open.spotify.com/track/22hfS6XgllEJyBcAX9s7BM) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Saanvarey](https://open.spotify.com/album/69rceaPY8Gc7nutstZ4oI5) | 2:32 |
-| 72 | [All Ways](https://open.spotify.com/track/5DH635Kh0z9A0uLaj9eugX) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [All Ways](https://open.spotify.com/album/7JkhCAperaUpB0LxtI51Z3) | 2:17 |
+| 71 | [All Ways](https://open.spotify.com/track/5DH635Kh0z9A0uLaj9eugX) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [All Ways](https://open.spotify.com/album/7JkhCAperaUpB0LxtI51Z3) | 2:17 |
+| 72 | [50/50](https://open.spotify.com/track/22hfS6XgllEJyBcAX9s7BM) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Saanvarey](https://open.spotify.com/album/69rceaPY8Gc7nutstZ4oI5) | 2:32 |
 | 73 | [Time](https://open.spotify.com/track/2xib6dJD5peIhTI1gI4zmI) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Time](https://open.spotify.com/album/7wgty91e77sAvyj7AIWiHz) | 2:09 |
 | 74 | [Senti](https://open.spotify.com/track/6xaOFO19zFLxW4KUFz28qa) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ) | [Senti](https://open.spotify.com/album/68WgGqVSEBVEDZJ7x9HMg4) | 2:53 |
 | 75 | [fund$](https://open.spotify.com/track/0kSl3WjIB3A1u6aYvsphfU) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Pain/Pleasure](https://open.spotify.com/album/2HpqpXC3OKIQ6zfnwJ9qIf) | 2:32 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 136 | [Get Dat](https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:43 |
 | 137 | [Get It Done](https://open.spotify.com/track/5J9WaXYErqUTZoNmk7ebG6) | [Saint Bodhi](https://open.spotify.com/artist/6X7nWsfLVq8lo1qePztyu5) | [Get It Done](https://open.spotify.com/album/1MVJomsYj2fjYDtA5QzEk3) | 2:16 |
 
-Snapshot ID: `AcIAoAAAAAAH0O6F+gSiNu9HqSzorNZM`
+Snapshot ID: `AcIGQAAAAAA/nMvAWXlDDSJHuTpNXl4z`

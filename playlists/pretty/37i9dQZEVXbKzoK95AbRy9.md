@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,691 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,711 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Passa o Teu Bigode](https://open.spotify.com/track/4oDxxFLVQMOdiSKf3YGgEq) | [Lukão Mec](https://open.spotify.com/artist/1Ils6k71OZSgIuDPdgZwsg), [Dj Adah](https://open.spotify.com/artist/2AsiMvIZTg9c36hjw3eWLr), [Lado Sul](https://open.spotify.com/artist/0uZFRGwRv2x81BFQjPxzDu) | [Passa o Teu Bigode](https://open.spotify.com/album/6ayGn3yxeJq1dfrH8bqZxR) | 1:59 |
 | 50 | [Talvez você precise de mim](https://open.spotify.com/track/2De1EHbIhepIVLHZ16bySE) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Eu Venci o Mundo](https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT) | 2:06 |
 
-Snapshot ID: `MQrM6AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MQweaAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > \[THE MARCHING OF AG! TOUR IN SEOUL\] 2026.01.31 @ YES24라이브홀
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,642 likes - 20 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,618 likes - 20 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

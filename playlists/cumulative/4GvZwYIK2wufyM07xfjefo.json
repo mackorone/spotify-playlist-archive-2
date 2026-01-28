@@ -371,6 +371,28 @@
     },
     {
       "album": {
+        "name": "Dazzling Star",
+        "url": "https://open.spotify.com/album/1Rbkl36mjDHYtz9JMQpE4v"
+      },
+      "artists": [
+        {
+          "name": "Amamori P",
+          "url": "https://open.spotify.com/artist/1tlY9pasYap8HnzVQrCe1B"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Bottle Ship (feat. Kagamine Rin)",
+      "url": "https://open.spotify.com/track/5xmJqSG6I7OXR6Db6rZTL0"
+    },
+    {
+      "album": {
         "name": "Flag",
         "url": "https://open.spotify.com/album/5u27kHGyHFSHn5zgxvEDCN"
       },
@@ -1160,6 +1182,28 @@
       "duration_ms": 222385,
       "name": "MIRROR (feat. MEIKO)",
       "url": "https://open.spotify.com/track/4u19Wvj6HYKv0HDn4EyFR7"
+    },
+    {
+      "album": {
+        "name": "Garakuta Archives Vol.1",
+        "url": "https://open.spotify.com/album/75h1EzGYdTjuRbCMTAe5wq"
+      },
+      "artists": [
+        {
+          "name": "No.D",
+          "url": "https://open.spotify.com/artist/66f1Bt9HrVpwNOPZvm2ysl"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "moon night (feat. \u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/45QT4yJFpsdFmY1Ids5ooF"
     },
     {
       "album": {
@@ -2011,7 +2055,7 @@
       "artists": [
         {
           "name": "Shani",
-          "url": "https://open.spotify.com/artist/2bK9wgxu8za6wDhz7QtWfQ"
+          "url": "https://open.spotify.com/artist/2ofuy6UInGLr6ERFR5GEF7"
         },
         {
           "name": "Hatsune Miku",
@@ -2436,6 +2480,28 @@
       "duration_ms": 258500,
       "name": "\u3053\u306e\u307e\u307e",
       "url": "https://open.spotify.com/track/55SZYGNQCwlaIFWf5NRUYx"
+    },
+    {
+      "album": {
+        "name": "\u3053\u306e\u307e\u307e\u547d\u304c\u304a\u308f\u308b\u306a\u3089",
+        "url": "https://open.spotify.com/album/56n3EvKKzBpqkX9X75zjr9"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30b7\u30c9",
+          "url": "https://open.spotify.com/artist/7eg5X3kd4WuiLhPmufCNdI"
+        },
+        {
+          "name": "\u6b4c\u611b\u30e6\u30ad",
+          "url": "https://open.spotify.com/artist/5NB3uGRtuXv54usQyxe60r"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "\u3053\u306e\u307e\u307e\u547d\u304c\u304a\u308f\u308b\u306a\u3089 (feat. \u6b4c\u611b\u30e6\u30ad)",
+      "url": "https://open.spotify.com/track/61nCom6HUMjhAQx1oygttB"
     },
     {
       "album": {
@@ -3502,7 +3568,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 225950,
       "name": "\u30aa\u30ec\u30f3\u30b8\u30a4\u30ec\u30a8\u30eb (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/3ICXiSUa1JJFIv9kKQGpnS"
@@ -5388,7 +5454,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 286600,
       "name": "\u565b\u3093\u3060\u3063\u3066\u3044\u3044\u3088 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/4WWmlD1Un4faOcmI38OXAN"
@@ -5804,7 +5870,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 175842,
       "name": "\u5d29\u308c\u5f80\u304f\u8c8c (feat. KAITO)",
       "url": "https://open.spotify.com/track/73B0ZMgsFLBed7lhxoXlLN"
@@ -6192,6 +6258,24 @@
       "duration_ms": 264000,
       "name": "\u661f\u5c51\u65c5\u6101 (feat. \u77e5\u58f0&v4 flower&\u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/7J6LUb8jiWmQSOXwnDPUfA"
+    },
+    {
+      "album": {
+        "name": "\u661f\u964d\u308b\u591c\u3092\u65c5\u3059\u308b\u5c11\u5973",
+        "url": "https://open.spotify.com/album/2v0TmhuXCvUqQgedXp6rDo"
+      },
+      "artists": [
+        {
+          "name": "D.S.L",
+          "url": "https://open.spotify.com/artist/0MO0zo8BlkKl3EDuazBlYt"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265562,
+      "name": "\u661f\u964d\u308b\u591c\u3092\u65c5\u3059\u308b\u5c11\u5973",
+      "url": "https://open.spotify.com/track/0aONroQe05CjLBnMW4JISZ"
     },
     {
       "album": {
@@ -6734,7 +6818,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 68571,
       "name": "\u7070\u96ea\u3068\u30b7\u30f3\u30c7\u30ec\u30e9 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5333tdsHwDo4cuBBxROO0S"
@@ -6956,7 +7040,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 198500,
       "name": "\u79cb\u98a8\u3001\u51ac\u306b\u5e30\u3059\u3002",
       "url": "https://open.spotify.com/track/4ZlbjLoeYUqbHCVAGVqe2a"
@@ -7000,6 +7084,28 @@
       "duration_ms": 219893,
       "name": "\u7a7a\u6d1e\u306e\u307e\u307e (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5XnGiUsDKEnddWupFmlEb8"
+    },
+    {
+      "album": {
+        "name": "\u7bb1\u5ead\u30d1\u30ec\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/4LNjzProXO8C8AKwSwLoQZ"
+      },
+      "artists": [
+        {
+          "name": "GYU P",
+          "url": "https://open.spotify.com/artist/7BNncSIn0Str7aLcmrv3HU"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161818,
+      "name": "\u7bb1\u5ead\u30d1\u30ec\u30fc\u30c9 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/1x1lx8HXDMdekv49Qk12EQ"
     },
     {
       "album": {

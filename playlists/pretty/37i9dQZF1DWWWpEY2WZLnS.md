@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 
 > Los éxitos del Dembow\. Portada: El Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,400 likes - 50 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,442 likes - 50 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 | 9 | [La Tengo De Vaceo](https://open.spotify.com/track/0lvrZEPXXGY4tAvBJzWVzu) | [Papa Jeison](https://open.spotify.com/artist/4BtCo7zwiMbbsQMAHHwTby) | [La Tengo De Vaceo](https://open.spotify.com/album/1TglFiGVDDdHTawcAda3WT) | 2:37 |
 | 10 | [SINSENTI](https://open.spotify.com/track/6YGb9NqR0wp9nFj9n5h3W8) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu) | [NO A LA DELINCUENCIA](https://open.spotify.com/album/5iSajsi3eaEZzQou6VVclw) | 2:06 |
 | 11 | [Hagan De To Meno Daño](https://open.spotify.com/track/708q7FVfLLHwipRUYeKTbD) | [Ezzy R](https://open.spotify.com/artist/0DiYoKuXAI3xAA5JiU5UFX), [KiK1 STW](https://open.spotify.com/artist/2NkusP1gjrUcyOQsfHhx5k), [Ronny GTA](https://open.spotify.com/artist/4cnOWlaCqpRNGiLvsxgKgu) | [Hagan De To Meno Daño](https://open.spotify.com/album/5gBMwGbeab8zellCdzWi8r) | 1:54 |
-| 12 | [PANTI Y COLALE](https://open.spotify.com/track/3eyEIpmHHTANgXZQ6i4csM) | [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [DJ Chulo NYC](https://open.spotify.com/artist/6c6C4zF0PwHiS5EdDQbrLC), [La Greña](https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX) | [PANTI Y COLALE](https://open.spotify.com/album/3gufpvtEIFABgDJZjAvgzw) | 2:32 |
+| 12 | [PANTI Y COLALE](https://open.spotify.com/track/3eyEIpmHHTANgXZQ6i4csM) | [DJ Chulo NYC](https://open.spotify.com/artist/6c6C4zF0PwHiS5EdDQbrLC), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [La Greña](https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX) | [PANTI Y COLALE](https://open.spotify.com/album/3gufpvtEIFABgDJZjAvgzw) | 2:32 |
 | 13 | [HAY LUPITA](https://open.spotify.com/track/1ciCd4tjOBZMu3CcXkOAed) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY LUPITA](https://open.spotify.com/album/1gGvVUNqBHKn1ct3FX5EVM) | 1:45 |
 | 14 | [4K](https://open.spotify.com/track/1BIXs6CdkPRLytuqoXs6XN) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [4K](https://open.spotify.com/album/4C4pswO5xUzT3S2pN94LNk) | 3:21 |
 | 15 | [Doble Cara](https://open.spotify.com/track/19uTZiUsjbvSpZZeHLGMAz) | [Megadivo Produce](https://open.spotify.com/artist/0fDsWL50lXtP2fc8ayi4KN), [Ronny GTA](https://open.spotify.com/artist/4cnOWlaCqpRNGiLvsxgKgu) | [Doble Cara](https://open.spotify.com/album/5qNKXX21843wFzwVdYZXoL) | 1:21 |

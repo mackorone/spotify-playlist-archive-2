@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: yanaco
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,632 likes - 166 songs - 12 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,705 likes - 166 songs - 12 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

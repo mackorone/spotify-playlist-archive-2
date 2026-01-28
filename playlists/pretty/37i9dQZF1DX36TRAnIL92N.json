@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 465994,
+  "num_followers": 466176,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -535,26 +535,6 @@
     {
       "added_at": "2026-01-16 05:00:26",
       "album": {
-        "name": "CONTROL YOUR BODY",
-        "url": "https://open.spotify.com/album/61k2pkPgF5ky2mjy7ZrBBa"
-      },
-      "artists": [
-        {
-          "name": "Shl\u00f8mo",
-          "url": "https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF"
-        },
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "CONTROL YOUR BODY",
-      "url": "https://open.spotify.com/track/3xTwHPwWKMWrWgyN22Qk2h"
-    },
-    {
-      "added_at": "2026-01-16 05:00:26",
-      "album": {
         "name": "One Mind EP",
         "url": "https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 345605,
       "name": "One Mind",
       "url": "https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh"
+    },
+    {
+      "added_at": "2026-01-16 05:00:26",
+      "album": {
+        "name": "CONTROL YOUR BODY",
+        "url": "https://open.spotify.com/album/61k2pkPgF5ky2mjy7ZrBBa"
+      },
+      "artists": [
+        {
+          "name": "Shl\u00f8mo",
+          "url": "https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF"
+        },
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "CONTROL YOUR BODY",
+      "url": "https://open.spotify.com/track/3xTwHPwWKMWrWgyN22Qk2h"
     },
     {
       "added_at": "2026-01-16 05:00:26",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-01-16 05:00:26",
       "album": {
+        "name": "DIE TONIGHT EP",
+        "url": "https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg"
+      },
+      "artists": [
+        {
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+        }
+      ],
+      "duration_ms": 194509,
+      "name": "Kummer",
+      "url": "https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM"
+    },
+    {
+      "added_at": "2026-01-16 05:00:26",
+      "album": {
         "name": "YKSI",
         "url": "https://open.spotify.com/album/4YEzU9BML2f64xUlFfJEfD"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 233059,
       "name": "YKSI",
       "url": "https://open.spotify.com/track/7nsd1DNX2HrZQEDPdTSMQg"
-    },
-    {
-      "added_at": "2026-01-16 05:00:26",
-      "album": {
-        "name": "DIE TONIGHT EP",
-        "url": "https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg"
-      },
-      "artists": [
-        {
-          "name": "KUKO",
-          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
-        }
-      ],
-      "duration_ms": 194509,
-      "name": "Kummer",
-      "url": "https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM"
     }
   ],
   "unique_name": "Techno Workout",

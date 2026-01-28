@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33833,
+  "num_followers": 33832,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2026-01-22 23:00:42",
       "album": {
+        "name": "Get It Right",
+        "url": "https://open.spotify.com/album/6qHejAKDb0fEkUvAax5nHs"
+      },
+      "artists": [
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "duration_ms": 172533,
+      "name": "Get It Right",
+      "url": "https://open.spotify.com/track/4eycOJZ9ofGW7iqm1QEaDJ"
+    },
+    {
+      "added_at": "2026-01-22 23:00:42",
+      "album": {
         "name": "Like It Always Was",
         "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 200113,
       "name": "Like It Always Was",
       "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
-    },
-    {
-      "added_at": "2026-01-22 23:00:42",
-      "album": {
-        "name": "Back on the Road",
-        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 144901,
-      "name": "Back on the Road",
-      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
     },
     {
       "added_at": "2026-01-22 23:00:42",
@@ -283,18 +283,18 @@
     {
       "added_at": "2026-01-22 23:00:42",
       "album": {
-        "name": "Get It Right",
-        "url": "https://open.spotify.com/album/6qHejAKDb0fEkUvAax5nHs"
+        "name": "Back on the Road",
+        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
       },
       "artists": [
         {
-          "name": "Ilse DeLange",
-          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
         }
       ],
-      "duration_ms": 172533,
-      "name": "Get It Right",
-      "url": "https://open.spotify.com/track/4eycOJZ9ofGW7iqm1QEaDJ"
+      "duration_ms": 144901,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
     },
     {
       "added_at": "2026-01-22 23:00:42",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-01-22 23:00:42",
       "album": {
-        "name": "Can't Take My Story Away",
-        "url": "https://open.spotify.com/album/54HjJF318NtJtvz7FIwmLI"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 251566,
-      "name": "Can't Take My Story Away",
-      "url": "https://open.spotify.com/track/6q55IN85ubuUeVu1tFEFWM"
-    },
-    {
-      "added_at": "2026-01-22 23:00:42",
-      "album": {
         "name": "Sugar in the Tank",
         "url": "https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 222654,
       "name": "Sugar in the Tank",
       "url": "https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj"
+    },
+    {
+      "added_at": "2026-01-22 23:00:42",
+      "album": {
+        "name": "Can't Take My Story Away",
+        "url": "https://open.spotify.com/album/54HjJF318NtJtvz7FIwmLI"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 251566,
+      "name": "Can't Take My Story Away",
+      "url": "https://open.spotify.com/track/6q55IN85ubuUeVu1tFEFWM"
     },
     {
       "added_at": "2026-01-22 23:00:42",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-01-22 23:00:42",
       "album": {
+        "name": "A Beautiful Life",
+        "url": "https://open.spotify.com/album/79aSUbgxr9M52YmWOeNzz8"
+      },
+      "artists": [
+        {
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+        }
+      ],
+      "duration_ms": 196304,
+      "name": "A Beautiful Life",
+      "url": "https://open.spotify.com/track/08tISrq05HwXHhSHG0ABbQ"
+    },
+    {
+      "added_at": "2026-01-22 23:00:42",
+      "album": {
         "name": "May",
         "url": "https://open.spotify.com/album/0zL7IkhuOdQtIKp999gDv6"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": "2026-01-22 23:00:42",
       "album": {
-        "name": "A Beautiful Life",
-        "url": "https://open.spotify.com/album/79aSUbgxr9M52YmWOeNzz8"
-      },
-      "artists": [
-        {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
-        }
-      ],
-      "duration_ms": 196304,
-      "name": "A Beautiful Life",
-      "url": "https://open.spotify.com/track/08tISrq05HwXHhSHG0ABbQ"
-    },
-    {
-      "added_at": "2026-01-22 23:00:42",
-      "album": {
         "name": "Midwest Kid",
         "url": "https://open.spotify.com/album/1TLaGao4Yqe6Qb2uRsXRXx"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 157333,
       "name": "Wish I Never Met You",
       "url": "https://open.spotify.com/track/3CAuBM6hYu7mJi8WZkZ8aO"
+    },
+    {
+      "added_at": "2026-01-22 23:00:42",
+      "album": {
+        "name": "The Fire Inside",
+        "url": "https://open.spotify.com/album/0IcuQe8xyjgDFN22o5jcBp"
+      },
+      "artists": [
+        {
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+        }
+      ],
+      "duration_ms": 215483,
+      "name": "The Fire Inside",
+      "url": "https://open.spotify.com/track/7fUIsy72KNco1BUC5LqtSc"
     },
     {
       "added_at": "2026-01-22 23:00:42",
@@ -807,22 +823,6 @@
     {
       "added_at": "2026-01-22 23:00:42",
       "album": {
-        "name": "The Fire Inside",
-        "url": "https://open.spotify.com/album/0IcuQe8xyjgDFN22o5jcBp"
-      },
-      "artists": [
-        {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
-        }
-      ],
-      "duration_ms": 215483,
-      "name": "The Fire Inside",
-      "url": "https://open.spotify.com/track/7fUIsy72KNco1BUC5LqtSc"
-    },
-    {
-      "added_at": "2026-01-22 23:00:42",
-      "album": {
         "name": "Hold Your Fire",
         "url": "https://open.spotify.com/album/3AMaRXx8JHkgraFE2koTaY"
       },
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-01-22 23:00:42",
       "album": {
+        "name": "In The Middle Of It",
+        "url": "https://open.spotify.com/album/2JOSogTvcer7AY1zZLRSIE"
+      },
+      "artists": [
+        {
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+        }
+      ],
+      "duration_ms": 240381,
+      "name": "In The Middle Of It",
+      "url": "https://open.spotify.com/track/1RwZ3acl6fKP04Yv3zWtPW"
+    },
+    {
+      "added_at": "2026-01-22 23:00:42",
+      "album": {
         "name": "Scary Movie",
         "url": "https://open.spotify.com/album/4HAbJtpr5QJobYQoveKLvd"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 183374,
       "name": "Scary Movie",
       "url": "https://open.spotify.com/track/3Z3icAo1sqdhqHQIVEDIJ0"
-    },
-    {
-      "added_at": "2026-01-22 23:00:42",
-      "album": {
-        "name": "Not Cause I Wanted To",
-        "url": "https://open.spotify.com/album/6eZygmRQkhCOX8ShR5uXmU"
-      },
-      "artists": [
-        {
-          "name": "MELL VF",
-          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
-        }
-      ],
-      "duration_ms": 213131,
-      "name": "Not Cause I Wanted To",
-      "url": "https://open.spotify.com/track/6rDHCMfDbnn3cWmPhea9ef"
     }
   ],
   "unique_name": "Country & Americana",

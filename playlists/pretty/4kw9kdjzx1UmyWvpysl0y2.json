@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124437,
+  "num_followers": 124431,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVC3tPy3X/3FByD7w1cDOangUdspvP",
+  "snapshot_id": "AAAVDfnH/C/su7kNSsv6chOSUcgBjPzi",
   "tracks": [
+    {
+      "added_at": "2026-01-27 16:31:36",
+      "album": {
+        "name": "Walk The Line",
+        "url": "https://open.spotify.com/album/3ut8uhbZiwN06XYseEizgO"
+      },
+      "artists": [
+        {
+          "name": "Alex Baker",
+          "url": "https://open.spotify.com/artist/0U6Adu2ODsqB9urN7BslVo"
+        },
+        {
+          "name": "bailey",
+          "url": "https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM"
+        }
+      ],
+      "duration_ms": 198812,
+      "name": "Walk The Line",
+      "url": "https://open.spotify.com/track/4cyHh0gbmXfdm00WNNLzao"
+    },
     {
       "added_at": "2026-01-26 15:38:48",
       "album": {
@@ -1095,22 +1115,6 @@
       "duration_ms": 262971,
       "name": "The Future",
       "url": "https://open.spotify.com/track/6k7pq4LF7pLq7rgAqwgYGt"
-    },
-    {
-      "added_at": "2025-10-24 14:04:41",
-      "album": {
-        "name": "Lightweight",
-        "url": "https://open.spotify.com/album/3xCfH06zHPBX1Hj930l2bF"
-      },
-      "artists": [
-        {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
-        }
-      ],
-      "duration_ms": 569379,
-      "name": "Lightweight",
-      "url": "https://open.spotify.com/track/3tao5fIRVOmNroDmagFwTs"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 167212,
       "name": "A TRUE CRIME!",
       "url": "https://open.spotify.com/track/66w8Qra21xeyPueAVCKBO0"
@@ -21650,7 +21650,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 203636,
       "name": "huntersblood",
       "url": "https://open.spotify.com/track/4fFHtVaLNp7tZx1RtTazpU"
@@ -26086,6 +26086,28 @@
       "duration_ms": 182505,
       "name": "kutna hora",
       "url": "https://open.spotify.com/track/312w1yQem0YU0WBDn8RR4q"
+    },
+    {
+      "album": {
+        "name": "Kwik Trip",
+        "url": "https://open.spotify.com/album/2OTLmSlcjFarrF4ipPWLp4"
+      },
+      "artists": [
+        {
+          "name": "Lightris",
+          "url": "https://open.spotify.com/artist/1BTzfMY27qhCFQpTeTUbCi"
+        },
+        {
+          "name": "sero",
+          "url": "https://open.spotify.com/artist/2xGz6oQCMhoh3gMJSq0vDE"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Kwik Trip",
+      "url": "https://open.spotify.com/track/4A3WcbBuUQMpcBIgmUzLBY"
     },
     {
       "album": {
@@ -40738,6 +40760,24 @@
       "duration_ms": 64453,
       "name": "Signatune",
       "url": "https://open.spotify.com/track/1Fbup4lGb1trmwL5uyju9V"
+    },
+    {
+      "album": {
+        "name": "SiiMP",
+        "url": "https://open.spotify.com/album/2lDZpLP9gatrBqPwM8wBMO"
+      },
+      "artists": [
+        {
+          "name": "SEBii",
+          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135103,
+      "name": "SiiMP",
+      "url": "https://open.spotify.com/track/67QBCvKf89W0L84beo3beo"
     },
     {
       "album": {

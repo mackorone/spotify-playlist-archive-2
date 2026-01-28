@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Rowli, Edb
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,544 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,509 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tanz](https://open.spotify.com/track/1nkfgSVuYolXFq8OEj2Y7K) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3), [Edb](https://open.spotify.com/artist/6HsOYlhc6djdiv6ikVfrGE) | [Tanz](https://open.spotify.com/album/6LsH8DF5BbuPUKavpdlw70) | 1:58 |
-| 2 | [Homeoffice](https://open.spotify.com/track/3NpyAqRGkJDVZheN2TjrZC) | [RIAN](https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f) | [Homeoffice](https://open.spotify.com/album/5tEkdC6uH9xeHXfffxwt4d) | 2:40 |
-| 3 | [Lärm](https://open.spotify.com/track/1DT9aoFj8NaU030v0ulEqf) | [Haus F](https://open.spotify.com/artist/29oAnuHTt0nstMUpXooF6R) | [Lärm](https://open.spotify.com/album/34c0s3KnxOt1kejKFHBLQZ) | 2:34 |
-| 4 | [Manchmal](https://open.spotify.com/track/5br8BWCW8il8CKtysx9qLH) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT), [Karina Rose](https://open.spotify.com/artist/3ucTACZuBlt5HPmpH6QOmI) | [Manchmal](https://open.spotify.com/album/3dLpsXrqZHIzNgPA2IVPMs) | 2:51 |
-| 5 | [Nie gleich](https://open.spotify.com/track/2L4a3LqX1r5PPAVvHREKBR) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [Nie gleich](https://open.spotify.com/album/5vNAPI9zz7ezRiW0fHirIk) | 3:01 |
-| 6 | [fremdknutschen](https://open.spotify.com/track/74jHaJ6g2IVxQtwchMLVxN) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [wünsch dir was ep](https://open.spotify.com/album/3CmUJUponEobaD7etkPeB1) | 2:16 |
-| 7 | [hundertmal](https://open.spotify.com/track/588NRYHtOiBb2ERT0KIUGf) | [George JR](https://open.spotify.com/artist/1DEiVfNJKnAbTDbhKy1h3t) | [hundertmal](https://open.spotify.com/album/1jpokMXofqPwMYAVrU8I1x) | 2:45 |
+| 2 | [Lärm](https://open.spotify.com/track/1DT9aoFj8NaU030v0ulEqf) | [Haus F](https://open.spotify.com/artist/29oAnuHTt0nstMUpXooF6R) | [Lärm](https://open.spotify.com/album/34c0s3KnxOt1kejKFHBLQZ) | 2:34 |
+| 3 | [Manchmal](https://open.spotify.com/track/5br8BWCW8il8CKtysx9qLH) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT), [Karina Rose](https://open.spotify.com/artist/3ucTACZuBlt5HPmpH6QOmI) | [Manchmal](https://open.spotify.com/album/3dLpsXrqZHIzNgPA2IVPMs) | 2:51 |
+| 4 | [fremdknutschen](https://open.spotify.com/track/74jHaJ6g2IVxQtwchMLVxN) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [wünsch dir was ep](https://open.spotify.com/album/3CmUJUponEobaD7etkPeB1) | 2:16 |
+| 5 | [Homeoffice](https://open.spotify.com/track/3NpyAqRGkJDVZheN2TjrZC) | [RIAN](https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f) | [Homeoffice](https://open.spotify.com/album/5tEkdC6uH9xeHXfffxwt4d) | 2:40 |
+| 6 | [hundertmal](https://open.spotify.com/track/588NRYHtOiBb2ERT0KIUGf) | [George JR](https://open.spotify.com/artist/1DEiVfNJKnAbTDbhKy1h3t) | [hundertmal](https://open.spotify.com/album/1jpokMXofqPwMYAVrU8I1x) | 2:45 |
+| 7 | [Nie gleich](https://open.spotify.com/track/2L4a3LqX1r5PPAVvHREKBR) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [Nie gleich](https://open.spotify.com/album/5vNAPI9zz7ezRiW0fHirIk) | 3:01 |
 | 8 | [Halb So Schön Wie Du](https://open.spotify.com/track/0aFDcdFXQDju2mUpcZGFhQ) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Halb So Schön Wie Du](https://open.spotify.com/album/4RVp5nMug7J4xhvUVSP6kS) | 3:25 |
 | 9 | [blume \(aus dem garten gegenüber\)](https://open.spotify.com/track/2vQowEF3P6bCrZpaVeCdy8) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK) | [blume \(aus dem garten gegenüber\)](https://open.spotify.com/album/5OV8UFxZEcdG410WlP44zD) | 3:00 |
 | 10 | [Wiener Tauben](https://open.spotify.com/track/24zXIkVezsfxchAQwkT7Dn) | [CHURRO64](https://open.spotify.com/artist/6klhPZOfMdj8KF0FK4ZAjy), [luisa schweig](https://open.spotify.com/artist/0xh4h2jM3Iv58jGpeTGj5I) | [Wiener Tauben](https://open.spotify.com/album/3PYtGy75BSze40TPy0KJyM) | 2:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Wenn du dich entfernst](https://open.spotify.com/track/6IChA2LdURD4N87VcwKrc7) | [Jaq](https://open.spotify.com/artist/3TCdAIcdvtyQVN5nI7VwLV) | [Wenn du dich entfernst](https://open.spotify.com/album/6PwvDkM35yaGj7p7lKbs2M) | 2:43 |
 | 75 | [Haifischbecken](https://open.spotify.com/track/2ppiU0ulKCsMTbA72tUa5k) | [Yasola](https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS) | [Haifischbecken](https://open.spotify.com/album/6rfaLEpqZaRoEIg1Q8JP27) | 3:12 |
 
-Snapshot ID: `AAAAACvVAH2/HglBCeDG+0zBIl+/V/ty`
+Snapshot ID: `AAAAAMk0e6Mv5kCb/fUpR7SGitY1f6d+`

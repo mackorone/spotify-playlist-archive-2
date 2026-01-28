@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover:  Lupambo",
-  "num_followers": 240715,
+  "num_followers": 240726,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -245,7 +245,7 @@
         }
       ],
       "duration_ms": 222000,
-      "name": "Deus N\u00e3o Falha",
+      "name": "Angola avan\u00e7a",
       "url": "https://open.spotify.com/track/4GqUgLpymjUTjlUPIh8pAL"
     },
     {
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-01-23 00:00:36",
       "album": {
-        "name": "Boss",
-        "url": "https://open.spotify.com/album/6fqxi82on9spYcoqiQ5mRl"
-      },
-      "artists": [
-        {
-          "name": "Anderson M\u00e1rio",
-          "url": "https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO"
-        }
-      ],
-      "duration_ms": 183396,
-      "name": "Boss",
-      "url": "https://open.spotify.com/track/7KvpAuRJ0Mk7V69FR5578v"
-    },
-    {
-      "added_at": "2026-01-23 00:00:36",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/2Y3M8GGPlGUR6zT0Rm8Fkr"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 199396,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/2OTVKuQcr2PnW2O1b99WJL"
+    },
+    {
+      "added_at": "2026-01-23 00:00:36",
+      "album": {
+        "name": "Boss",
+        "url": "https://open.spotify.com/album/6fqxi82on9spYcoqiQ5mRl"
+      },
+      "artists": [
+        {
+          "name": "Anderson M\u00e1rio",
+          "url": "https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO"
+        }
+      ],
+      "duration_ms": 183396,
+      "name": "Boss",
+      "url": "https://open.spotify.com/track/7KvpAuRJ0Mk7V69FR5578v"
     },
     {
       "added_at": "2026-01-23 00:00:36",
@@ -963,26 +963,6 @@
     {
       "added_at": "2026-01-23 00:00:36",
       "album": {
-        "name": "Lei 14",
-        "url": "https://open.spotify.com/album/3Vismvbrwae1A8YrhbTciO"
-      },
-      "artists": [
-        {
-          "name": "CEF Tanzy",
-          "url": "https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G"
-        },
-        {
-          "name": "P\u00e9rola",
-          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
-        }
-      ],
-      "duration_ms": 195239,
-      "name": "Lei 14",
-      "url": "https://open.spotify.com/track/1M6WPpdJZSnvZcuXXVfodu"
-    },
-    {
-      "added_at": "2026-01-23 00:00:36",
-      "album": {
         "name": "PARADOXO",
         "url": "https://open.spotify.com/album/6hALZ42Qn0pTqx7KIv7zsc"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 216957,
       "name": "MEIA NOITE",
       "url": "https://open.spotify.com/track/63MWRE7Y134ZOr2l6VhgdY"
+    },
+    {
+      "added_at": "2026-01-23 00:00:36",
+      "album": {
+        "name": "Lei 14",
+        "url": "https://open.spotify.com/album/3Vismvbrwae1A8YrhbTciO"
+      },
+      "artists": [
+        {
+          "name": "CEF Tanzy",
+          "url": "https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G"
+        },
+        {
+          "name": "P\u00e9rola",
+          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
+        }
+      ],
+      "duration_ms": 195239,
+      "name": "Lei 14",
+      "url": "https://open.spotify.com/track/1M6WPpdJZSnvZcuXXVfodu"
     },
     {
       "added_at": "2026-01-23 00:00:36",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2026-01-23 00:00:36",
       "album": {
+        "name": "Nha Preta",
+        "url": "https://open.spotify.com/album/1Bq46oN238vBDzOl6VHUza"
+      },
+      "artists": [
+        {
+          "name": "Helio Batalha",
+          "url": "https://open.spotify.com/artist/08ukYp96CtGT1te37kfVoz"
+        },
+        {
+          "name": "Garry",
+          "url": "https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Nha Preta",
+      "url": "https://open.spotify.com/track/0JjHBA5DGZx80PS6TMuzAp"
+    },
+    {
+      "added_at": "2026-01-23 00:00:36",
+      "album": {
         "name": "Ilus\u00e3o",
         "url": "https://open.spotify.com/album/7KZ5tJxMCnxWo2pqyUN5Mm"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 181764,
       "name": "Ilus\u00e3o",
       "url": "https://open.spotify.com/track/795GBlhlnKl1LQvO7kYAVv"
-    },
-    {
-      "added_at": "2026-01-23 00:00:36",
-      "album": {
-        "name": "Nha Preta",
-        "url": "https://open.spotify.com/album/1Bq46oN238vBDzOl6VHUza"
-      },
-      "artists": [
-        {
-          "name": "Helio Batalha",
-          "url": "https://open.spotify.com/artist/08ukYp96CtGT1te37kfVoz"
-        },
-        {
-          "name": "Garry",
-          "url": "https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Nha Preta",
-      "url": "https://open.spotify.com/track/0JjHBA5DGZx80PS6TMuzAp"
     },
     {
       "added_at": "2026-01-23 00:00:36",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-01-23 00:00:36",
       "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "duration_ms": 219712,
+      "name": "365",
+      "url": "https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q"
+    },
+    {
+      "added_at": "2026-01-23 00:00:36",
+      "album": {
         "name": "AROMA INSANO",
         "url": "https://open.spotify.com/album/4573oxJeE9rb62dTFdn8yV"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 218426,
       "name": "Simbiose",
       "url": "https://open.spotify.com/track/681Mye7rtRNdAgb4zYAxDe"
-    },
-    {
-      "added_at": "2026-01-23 00:00:36",
-      "album": {
-        "name": "Hey Odja",
-        "url": "https://open.spotify.com/album/7HKI7EfF4p7zD5sUyfi6SU"
-      },
-      "artists": [
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 167180,
-      "name": "Hey Odja",
-      "url": "https://open.spotify.com/track/1QhtXQu9c9HJsGUmuJf4yd"
     },
     {
       "added_at": "2026-01-23 00:00:36",
@@ -1267,38 +1267,18 @@
     {
       "added_at": "2026-01-23 00:00:36",
       "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT"
+        "name": "Hey Odja",
+        "url": "https://open.spotify.com/album/7HKI7EfF4p7zD5sUyfi6SU"
       },
       "artists": [
         {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
         }
       ],
-      "duration_ms": 219712,
-      "name": "365",
-      "url": "https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q"
-    },
-    {
-      "added_at": "2026-01-23 00:00:36",
-      "album": {
-        "name": "Vida Linda",
-        "url": "https://open.spotify.com/album/7dB9tIZsUxMfgyeWgUGCkH"
-      },
-      "artists": [
-        {
-          "name": "William Araujo",
-          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 175346,
-      "name": "Vida Linda",
-      "url": "https://open.spotify.com/track/6PFCS07ThHLVYlOM5LeJFP"
+      "duration_ms": 167180,
+      "name": "Hey Odja",
+      "url": "https://open.spotify.com/track/1QhtXQu9c9HJsGUmuJf4yd"
     },
     {
       "added_at": "2026-01-23 00:00:36",
@@ -1319,6 +1299,26 @@
       "duration_ms": 195417,
       "name": "N\u00e3o Me Importa",
       "url": "https://open.spotify.com/track/25kY6gmdHHbBNaMFvu2pnP"
+    },
+    {
+      "added_at": "2026-01-23 00:00:36",
+      "album": {
+        "name": "Vida Linda",
+        "url": "https://open.spotify.com/album/7dB9tIZsUxMfgyeWgUGCkH"
+      },
+      "artists": [
+        {
+          "name": "William Araujo",
+          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 175346,
+      "name": "Vida Linda",
+      "url": "https://open.spotify.com/track/6PFCS07ThHLVYlOM5LeJFP"
     },
     {
       "added_at": "2026-01-23 00:00:36",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2026-01-23 00:00:36",
       "album": {
-        "name": "Teu Ego",
-        "url": "https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa"
-      },
-      "artists": [
-        {
-          "name": "Ivan Alekxei",
-          "url": "https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC"
-        },
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 286093,
-      "name": "Teu Ego",
-      "url": "https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ"
-    },
-    {
-      "added_at": "2026-01-23 00:00:36",
-      "album": {
         "name": "Versos & Poesias #7: Onda Passageira",
         "url": "https://open.spotify.com/album/1c5RGsct11j9rxqi6BBlxA"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 424716,
       "name": "Versos & Poesias #7: Onda Passageira",
       "url": "https://open.spotify.com/track/4KAn1ENtf2U6bqyF5Mpoaj"
+    },
+    {
+      "added_at": "2026-01-23 00:00:36",
+      "album": {
+        "name": "Teu Ego",
+        "url": "https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa"
+      },
+      "artists": [
+        {
+          "name": "Ivan Alekxei",
+          "url": "https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC"
+        },
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "duration_ms": 286093,
+      "name": "Teu Ego",
+      "url": "https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ"
     },
     {
       "added_at": "2026-01-23 00:00:36",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2026-01-23 00:00:36",
       "album": {
+        "name": "Borboleta",
+        "url": "https://open.spotify.com/album/6gophRB4MNtz8N76v5RLnI"
+      },
+      "artists": [
+        {
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+        }
+      ],
+      "duration_ms": 200976,
+      "name": "Borboleta",
+      "url": "https://open.spotify.com/track/21a6vJwFlcR20It6ZGLQGa"
+    },
+    {
+      "added_at": "2026-01-23 00:00:36",
+      "album": {
         "name": "T\u00e1 Na Moda",
         "url": "https://open.spotify.com/album/5hyonNjyw1rM4AWPkOAsDX"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 151423,
       "name": "T\u00e1 Na Moda",
       "url": "https://open.spotify.com/track/3jJlb1Q5xrZjcCVhf1UnJP"
-    },
-    {
-      "added_at": "2026-01-23 00:00:36",
-      "album": {
-        "name": "Borboleta",
-        "url": "https://open.spotify.com/album/6gophRB4MNtz8N76v5RLnI"
-      },
-      "artists": [
-        {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
-        }
-      ],
-      "duration_ms": 200976,
-      "name": "Borboleta",
-      "url": "https://open.spotify.com/track/21a6vJwFlcR20It6ZGLQGa"
     },
     {
       "added_at": "2026-01-23 00:00:36",
@@ -1871,18 +1871,18 @@
     {
       "added_at": "2026-01-23 00:00:36",
       "album": {
-        "name": "Mentira",
-        "url": "https://open.spotify.com/album/1k39SuSj88m1zPHwdSKj8h"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/5jUjS2T7cQaGWQXKHJP72b"
       },
       "artists": [
         {
-          "name": "Jey V",
-          "url": "https://open.spotify.com/artist/02aXxScVRfbF0xFjGvi1mu"
+          "name": "Halison Paix\u00e3o",
+          "url": "https://open.spotify.com/artist/1lNVs3gqrX6Qw01FqnP12N"
         }
       ],
-      "duration_ms": 195610,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/6Zn0rZeWpHTPLVGGXZbMnB"
+      "duration_ms": 164636,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/0iSoRQn44pm6j5JOM1LKww"
     }
   ],
   "unique_name": "Dancing Kizomba",

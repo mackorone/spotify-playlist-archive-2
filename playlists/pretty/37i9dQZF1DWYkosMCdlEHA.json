@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 152498,
+  "num_followers": 152532,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2025-09-26 03:01:17",
       "album": {
-        "name": "Casinha",
-        "url": "https://open.spotify.com/album/4LEeNDHmnXsM04yoJARCYu"
-      },
-      "artists": [
-        {
-          "name": "Armandinho",
-          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "Pescador",
-      "url": "https://open.spotify.com/track/5yQW46XPWdGqkX2PyMegLD"
-    },
-    {
-      "added_at": "2025-09-26 03:01:17",
-      "album": {
         "name": "Papas Da L\u00edngua",
         "url": "https://open.spotify.com/album/4z5x9CgcV35w6akZkl9H4q"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 232120,
       "name": "Eu Sei",
       "url": "https://open.spotify.com/track/5YQPOIAt3U7DMAswTVvzax"
+    },
+    {
+      "added_at": "2025-09-26 03:01:17",
+      "album": {
+        "name": "Casinha",
+        "url": "https://open.spotify.com/album/4LEeNDHmnXsM04yoJARCYu"
+      },
+      "artists": [
+        {
+          "name": "Armandinho",
+          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "Pescador",
+      "url": "https://open.spotify.com/track/5yQW46XPWdGqkX2PyMegLD"
     },
     {
       "added_at": "2025-09-26 03:01:17",
@@ -603,8 +603,8 @@
     {
       "added_at": "2025-09-26 03:01:17",
       "album": {
-        "name": "Divide",
-        "url": "https://open.spotify.com/album/4r3b7z6iqWKvPGLOAN9k1H"
+        "name": "Mar\u00e9 Cheia",
+        "url": "https://open.spotify.com/album/05CKBbHojCcLRBz4X96ik8"
       },
       "artists": [
         {
@@ -612,13 +612,13 @@
           "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
         },
         {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Chimarruts",
+          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
         }
       ],
-      "duration_ms": 198938,
-      "name": "Divide - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3V02Z8lFX5ppPMIXTLFwKf"
+      "duration_ms": 197121,
+      "name": "Mar\u00e9 Cheia - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3oByoGmRulhrK0h9Il19w0"
     },
     {
       "added_at": "2025-09-26 03:01:17",
@@ -691,8 +691,8 @@
     {
       "added_at": "2025-09-26 03:01:17",
       "album": {
-        "name": "Mar\u00e9 Cheia",
-        "url": "https://open.spotify.com/album/05CKBbHojCcLRBz4X96ik8"
+        "name": "Divide",
+        "url": "https://open.spotify.com/album/4r3b7z6iqWKvPGLOAN9k1H"
       },
       "artists": [
         {
@@ -700,13 +700,13 @@
           "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
         },
         {
-          "name": "Chimarruts",
-          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 197121,
-      "name": "Mar\u00e9 Cheia - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3oByoGmRulhrK0h9Il19w0"
+      "duration_ms": 198938,
+      "name": "Divide - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3V02Z8lFX5ppPMIXTLFwKf"
     },
     {
       "added_at": "2025-09-26 03:01:17",

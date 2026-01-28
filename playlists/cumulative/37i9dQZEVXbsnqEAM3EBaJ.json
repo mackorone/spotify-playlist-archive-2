@@ -50107,6 +50107,28 @@
     },
     {
       "album": {
+        "name": "Sweet Palm Wine",
+        "url": "https://open.spotify.com/album/2h3Qyy2nF36atsBcrPbcYB"
+      },
+      "artists": [
+        {
+          "name": "Noendo",
+          "url": "https://open.spotify.com/artist/3LZSkU8cE6VWax2eImyxTY"
+        },
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258552,
+      "name": "Sweet Palm Wine",
+      "url": "https://open.spotify.com/track/7cKn7oqphz5lz4kGz3kMbq"
+    },
+    {
+      "album": {
         "name": "Sweet Sounds Of Heaven",
         "url": "https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK"
       },

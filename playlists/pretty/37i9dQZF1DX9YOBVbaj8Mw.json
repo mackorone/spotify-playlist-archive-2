@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19297,
+  "num_followers": 19296,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -1187,42 +1187,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "A statek p\u0142ynie",
-        "url": "https://open.spotify.com/album/1FDmrBj9fm34SRd5F8qxlj"
-      },
-      "artists": [
-        {
-          "name": "Teatr Muzyczny Capitol",
-          "url": "https://open.spotify.com/artist/7gjxnDfYKbNzgqZkr5PM0A"
-        },
-        {
-          "name": "Micha\u0142 J. Bajor",
-          "url": "https://open.spotify.com/artist/6ty7zyJoZllSUbzm8rzg63"
-        },
-        {
-          "name": "Zofia Banasik",
-          "url": "https://open.spotify.com/artist/31WHrYc00gd1K4QdGyrLvJ"
-        },
-        {
-          "name": "Wiktoria \u0141ukowicz",
-          "url": "https://open.spotify.com/artist/3fBCVI2pZfQ8KKk59encqN"
-        },
-        {
-          "name": "Justyna Wo\u017aniak",
-          "url": "https://open.spotify.com/artist/44apJcbit2kkogE1kipEU8"
-        },
-        {
-          "name": "Jan Kowalewski",
-          "url": "https://open.spotify.com/artist/5t8kMVIUklWWHjdOMdM4AX"
-        }
-      ],
-      "duration_ms": 188187,
-      "name": "Serbowie",
-      "url": "https://open.spotify.com/track/6f4Z4mZA5XdO0DXZjoIxJc"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Universum",
         "url": "https://open.spotify.com/album/17Qo6bWw8mWnnkcS5WacFu"
       },
@@ -1259,6 +1223,42 @@
       "duration_ms": 865922,
       "name": "Critique of Swing in Two Parts, Pt. 1",
       "url": "https://open.spotify.com/track/6otl8jyQ2wV1UoweSV7bj2"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "A statek p\u0142ynie",
+        "url": "https://open.spotify.com/album/1FDmrBj9fm34SRd5F8qxlj"
+      },
+      "artists": [
+        {
+          "name": "Teatr Muzyczny Capitol",
+          "url": "https://open.spotify.com/artist/7gjxnDfYKbNzgqZkr5PM0A"
+        },
+        {
+          "name": "Micha\u0142 J. Bajor",
+          "url": "https://open.spotify.com/artist/6ty7zyJoZllSUbzm8rzg63"
+        },
+        {
+          "name": "Zofia Banasik",
+          "url": "https://open.spotify.com/artist/31WHrYc00gd1K4QdGyrLvJ"
+        },
+        {
+          "name": "Wiktoria \u0141ukowicz",
+          "url": "https://open.spotify.com/artist/3fBCVI2pZfQ8KKk59encqN"
+        },
+        {
+          "name": "Justyna Wo\u017aniak",
+          "url": "https://open.spotify.com/artist/44apJcbit2kkogE1kipEU8"
+        },
+        {
+          "name": "Jan Kowalewski",
+          "url": "https://open.spotify.com/artist/5t8kMVIUklWWHjdOMdM4AX"
+        }
+      ],
+      "duration_ms": 188187,
+      "name": "Serbowie",
+      "url": "https://open.spotify.com/track/6f4Z4mZA5XdO0DXZjoIxJc"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/37WwjUUkxJBDrXovXBvmao"
-      },
-      "artists": [
-        {
-          "name": "Tomasz D\u0105browski",
-          "url": "https://open.spotify.com/artist/4cMrE5WUrsp0aWwGk7s2RC"
-        },
-        {
-          "name": "The Individual Beings",
-          "url": "https://open.spotify.com/artist/7KrJJz5yz5HoJlK7j7M6Gz"
-        }
-      ],
-      "duration_ms": 361016,
-      "name": "F Jak Samolot",
-      "url": "https://open.spotify.com/track/3Nd5ppPsA2Tl1fMNG1jy7q"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "W\u0119druj\u0105cy Ptak",
         "url": "https://open.spotify.com/album/6rIbLAAY1oh8fniB0cStlA"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 157780,
       "name": "Letila zozula czerez moju chatu",
       "url": "https://open.spotify.com/track/5kVJA3uPz9HJn2ZaQBosoT"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/37WwjUUkxJBDrXovXBvmao"
+      },
+      "artists": [
+        {
+          "name": "Tomasz D\u0105browski",
+          "url": "https://open.spotify.com/artist/4cMrE5WUrsp0aWwGk7s2RC"
+        },
+        {
+          "name": "The Individual Beings",
+          "url": "https://open.spotify.com/artist/7KrJJz5yz5HoJlK7j7M6Gz"
+        }
+      ],
+      "duration_ms": 361016,
+      "name": "F Jak Samolot",
+      "url": "https://open.spotify.com/track/3Nd5ppPsA2Tl1fMNG1jy7q"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "No Soloing, Please",
+        "url": "https://open.spotify.com/album/54eQWeBDLsC5mkI6mpu4oe"
+      },
+      "artists": [
+        {
+          "name": "Adam J\u0119drysik",
+          "url": "https://open.spotify.com/artist/4UB7oFDHh91VBCGpwOB9lV"
+        }
+      ],
+      "duration_ms": 125412,
+      "name": "the right place to be (dzieksa)",
+      "url": "https://open.spotify.com/track/2Ya7ynzASMMMKNdKoCDfKM"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/37WwjUUkxJBDrXovXBvmao"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 338031,
       "name": "Bonzer",
       "url": "https://open.spotify.com/track/1914NxEjaK9z3xQgw228Rc"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "No Soloing, Please",
-        "url": "https://open.spotify.com/album/54eQWeBDLsC5mkI6mpu4oe"
-      },
-      "artists": [
-        {
-          "name": "Adam J\u0119drysik",
-          "url": "https://open.spotify.com/artist/4UB7oFDHh91VBCGpwOB9lV"
-        }
-      ],
-      "duration_ms": 125412,
-      "name": "the right place to be (dzieksa)",
-      "url": "https://open.spotify.com/track/2Ya7ynzASMMMKNdKoCDfKM"
     },
     {
       "added_at": "2025-04-06 08:27:45",

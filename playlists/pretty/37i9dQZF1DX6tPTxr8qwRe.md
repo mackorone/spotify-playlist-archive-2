@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > sweet\. sharp\. unbothered \- Precious Pepala on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,865 likes - 59 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,843 likes - 59 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

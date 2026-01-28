@@ -4,7 +4,7 @@
 
 > 主題歌アーティストが選出する、TVアニメ「正反対な君と僕」にインスパイヤされた、青春ラブコメのプレイリスト。Highschool rom\-com playlist inspired by "You and I Are Polar Opposites"\.  Tracks selected by the OPED Artists.
 
-31 songs - 2 hr 2 min
+32 songs - 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [My Mutant Ride \(feat\. 柴田聡子 & TAKU INOUE\)](https://open.spotify.com/track/2jXy46Txmlx5cSzKrTHzna) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU), [TAKU INOUE](https://open.spotify.com/artist/1XR2SfRwBXboS4s1rOSYA0) | [GRAND POP](https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H) | 3:03 | 2025-12-12 |  |
 | [Petal Dance](https://open.spotify.com/track/46vgDiuWNiZ7aFeizTbRiC) | [gingerbee](https://open.spotify.com/artist/4Qbxl6JsnUViVB7QmNjoH0) | [Petal Dance](https://open.spotify.com/album/3bP0V1osNptjLTx7AqlP96) | 3:39 | 2025-12-12 |  |
 | [Pray Pray Pray](https://open.spotify.com/track/365LQqYSlscSglYNrabEIO) | [甘神三姉妹](https://open.spotify.com/artist/15fHmyfDRxxhaI4dQBlbVW) | [Pray Pray Pray](https://open.spotify.com/album/54LFDgIOXP4mcP38NdM4sM) | 3:47 | 2025-12-12 |  |
+| [Pure \(feat\. Eriko Hashimoto\)](https://open.spotify.com/track/0qI9slgq5TJxNnkPFZcryt) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [橋本絵莉子](https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM) | [Pure](https://open.spotify.com/album/38I9qOuRg17eRs0b8bgZCz) | 3:20 | 2026-01-27 |  |
 | [sakura\(cherry blossom\)](https://open.spotify.com/track/4ebXmkHj2GVLhSvI48DVXH) | [Nirgilis](https://open.spotify.com/artist/6kkPATxNypgTOflsy6D3LT) | [sakura](https://open.spotify.com/album/6rCZW9dqxsTecPKY8TD25h) | 4:35 | 2025-12-12 |  |
 | [Talk](https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:38 | 2025-12-12 |  |
 | [ここだけの話](https://open.spotify.com/track/4aSjoXBzSeT1ZgzYeYa0Ka) | [Chatmonchy](https://open.spotify.com/artist/0GtBUVp1cWdIUKwm2GHTHc) | [Awa Come](https://open.spotify.com/album/4Nt3jsCN2AvpzBZ4URoqkv) | 3:21 | 2025-12-12 |  |

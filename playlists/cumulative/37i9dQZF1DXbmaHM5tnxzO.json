@@ -119,6 +119,24 @@
     },
     {
       "album": {
+        "name": "Monsters, Inc. (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz"
+      },
+      "artists": [
+        {
+          "name": "Randy Newman",
+          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213386,
+      "name": "Boo's Going Home",
+      "url": "https://open.spotify.com/track/5H2HoE7EQjHaBbRK05Ezy8"
+    },
+    {
+      "album": {
         "name": "Soul (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
       },
@@ -362,7 +380,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 311253,
       "name": "Elio Suite",
       "url": "https://open.spotify.com/track/1jS12MqRHGl8jllD06znkn"
@@ -690,7 +708,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-28",
       "duration_ms": 143910,
       "name": "Key To Life",
       "url": "https://open.spotify.com/track/0CYSUcMcGBsMsxA6pEPT0V"

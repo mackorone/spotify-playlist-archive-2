@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1203,
+  "num_followers": 1207,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAPzp4f1wXtxrLZtMMQmhFNRGtSZ8Nb",
+  "snapshot_id": "AAAP1txSSVMqlkUcFZpGOryr+e5Xt4h4",
   "tracks": [
     {
       "added_at": "2026-01-15 08:27:53",
@@ -1684,8 +1684,8 @@
       },
       "artists": [
         {
-          "name": "Paiton Brooke",
-          "url": "https://open.spotify.com/artist/60i0J12QjuqPG8EI4kqW4z"
+          "name": "Liatris",
+          "url": "https://open.spotify.com/artist/4RraAVSR8PVm4fdCDoeM8m"
         }
       ],
       "duration_ms": 238932,
@@ -2375,6 +2375,138 @@
       "duration_ms": 270999,
       "name": "LOVE ME",
       "url": "https://open.spotify.com/track/1Rqo7ZyC69YMBDwMPhAhRq"
+    },
+    {
+      "added_at": "2026-01-27 08:11:25",
+      "album": {
+        "name": "SWEET NIGHTMARE",
+        "url": "https://open.spotify.com/album/2EXnFLTtlpycQAlvRh7ytz"
+      },
+      "artists": [
+        {
+          "name": "NAMUT",
+          "url": "https://open.spotify.com/artist/1kTGu1IKWqHRaCxx3RpzyH"
+        },
+        {
+          "name": "JULYX",
+          "url": "https://open.spotify.com/artist/1uXd5rYQ8uoTxNEfwuvZX0"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "SWEET NIGHTMARE",
+      "url": "https://open.spotify.com/track/0ln2EyNXSX3QVnn0GEUqrD"
+    },
+    {
+      "added_at": "2026-01-27 08:11:34",
+      "album": {
+        "name": "Lost in Loving You",
+        "url": "https://open.spotify.com/album/2jsJ6Zb1iazT2ZvkTHTBrh"
+      },
+      "artists": [
+        {
+          "name": "Just Thomas",
+          "url": "https://open.spotify.com/artist/4EL8mW6C6JKAMh5pulKZFK"
+        }
+      ],
+      "duration_ms": 195919,
+      "name": "Lost in Loving You",
+      "url": "https://open.spotify.com/track/41HNTTQLlhNeIbcD93t7xP"
+    },
+    {
+      "added_at": "2026-01-27 08:11:46",
+      "album": {
+        "name": "Esfera",
+        "url": "https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 227393,
+      "name": "Nuestro cielo",
+      "url": "https://open.spotify.com/track/7mx5FacYX14sdove4ngb64"
+    },
+    {
+      "added_at": "2026-01-27 08:11:55",
+      "album": {
+        "name": "Esfera",
+        "url": "https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 149438,
+      "name": "Estrella de luna",
+      "url": "https://open.spotify.com/track/5NjudslnouGdwlYfJFyTU6"
+    },
+    {
+      "added_at": "2026-01-27 08:12:08",
+      "album": {
+        "name": "The Beach In December",
+        "url": "https://open.spotify.com/album/44H4XhFRDrvaZt2T8bTjdQ"
+      },
+      "artists": [
+        {
+          "name": "Austel",
+          "url": "https://open.spotify.com/artist/7jMnfga7535wl3kJmUlRvq"
+        }
+      ],
+      "duration_ms": 235597,
+      "name": "The Beach In December",
+      "url": "https://open.spotify.com/track/4Tce0rxXK3cQcxNzp9XGU7"
+    },
+    {
+      "added_at": "2026-01-27 10:37:46",
+      "album": {
+        "name": "That Smile",
+        "url": "https://open.spotify.com/album/04hjWXlo3PK3FJwdlPjtfI"
+      },
+      "artists": [
+        {
+          "name": "Lazy Shades",
+          "url": "https://open.spotify.com/artist/608g4cifhC4HRIOb3GkKm6"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "That Smile",
+      "url": "https://open.spotify.com/track/1NObtMTvbDsSMCt8L59PL9"
+    },
+    {
+      "added_at": "2026-01-27 10:42:22",
+      "album": {
+        "name": "Beautiful Fear",
+        "url": "https://open.spotify.com/album/2sAtb468bjoRr9YJsvSnpD"
+      },
+      "artists": [
+        {
+          "name": "Lillibet",
+          "url": "https://open.spotify.com/artist/5y9NYCtVotuZjlA8wkPoDe"
+        }
+      ],
+      "duration_ms": 232656,
+      "name": "Beautiful Fear",
+      "url": "https://open.spotify.com/track/2Q5xpVC50J31TqReHVIWk0"
+    },
+    {
+      "added_at": "2026-01-27 10:42:29",
+      "album": {
+        "name": "Love Her More",
+        "url": "https://open.spotify.com/album/1cl88xbBUhyzAS41UF6Obp"
+      },
+      "artists": [
+        {
+          "name": "Lillibet",
+          "url": "https://open.spotify.com/artist/5y9NYCtVotuZjlA8wkPoDe"
+        }
+      ],
+      "duration_ms": 251360,
+      "name": "Love Her More",
+      "url": "https://open.spotify.com/track/4p1VQaTKVZ9xiFIrJp6r6l"
     }
   ],
   "unique_name": "New Indie Music",
