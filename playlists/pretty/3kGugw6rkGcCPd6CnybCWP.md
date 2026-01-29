@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,169 likes - 50 songs - 3 hr 2 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,169 likes - 54 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,5 +58,9 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 48 | [Hardly Know Her](https://open.spotify.com/track/2UaCdxvJaX7lmezW3YiGIf) | [Lipstick](https://open.spotify.com/artist/7uFXs2KLMId1XYKLSbQlzv) | [Hardly Know Her](https://open.spotify.com/album/5kpOB3QejOEIWHmcJ8nZlE) | 3:09 |
 | 49 | [Tripping](https://open.spotify.com/track/7dX84JjRtlN2M7dVWHFlei) | [The American Hotel System](https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ) | [Can You Hear It? \(The Deluxe Edition\)](https://open.spotify.com/album/6P1L2PKg7pE5GJa5Yy1x89) | 4:26 |
 | 50 | [lost my love](https://open.spotify.com/track/3nh18o0W0aAoXn0SmDec5E) | [Mustafa!](https://open.spotify.com/artist/5pcPIjWVjazBClmhAp7mr4) | [lost my love](https://open.spotify.com/album/7oQ2JJdkZ2enJhA8muW4Cw) | 3:21 |
+| 51 | [Comisery](https://open.spotify.com/track/2lDOspc5bBM493KJT7r6it) | [Scott Middlin](https://open.spotify.com/artist/5xQHsYgEBOprSATYk7ygPH) | [Comisery](https://open.spotify.com/album/46AwsxHKeMcmF4ebkExLuC) | 3:13 |
+| 52 | [Rooted on the Road](https://open.spotify.com/track/2yD1l6lXuQvvaSyj2Onuip) | [CLANDESTINA](https://open.spotify.com/artist/0fCGnCJsfojMmsEi3v27TX) | [Rooted on the Road](https://open.spotify.com/album/1S1DoC1rXsONURycia5on5) | 2:56 |
+| 53 | [La Ciudad de las Estrellas](https://open.spotify.com/track/677GnwOJwoEG51xaRdYMe4) | [Pablopatodo](https://open.spotify.com/artist/14owTErTcmgIPS30z27tBA) | [La Ciudad de las Estrellas](https://open.spotify.com/album/7GSkEzkfsVnoy4uIykt7XE) | 3:48 |
+| 54 | [Beautiful Fear](https://open.spotify.com/track/2Q5xpVC50J31TqReHVIWk0) | [Lillibet](https://open.spotify.com/artist/5y9NYCtVotuZjlA8wkPoDe) | [Beautiful Fear](https://open.spotify.com/album/2sAtb468bjoRr9YJsvSnpD) | 3:52 |
 
-Snapshot ID: `AAAM+pcEZg+G4hpoHGdaPMeyqapuUUl9`
+Snapshot ID: `AAAM/o6pFMinZPO4yH1rC9+n8AnrHqos`

@@ -11031,6 +11031,24 @@
     },
     {
       "album": {
+        "name": "quiet glow",
+        "url": "https://open.spotify.com/album/6syPFFM8ixds490jS4oK3Q"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89690,
+      "name": "quiet glow",
+      "url": "https://open.spotify.com/track/1Kdc5lwTIUlYRGm5j76EeR"
+    },
+    {
+      "album": {
         "name": "quiet nights",
         "url": "https://open.spotify.com/album/29M0mIYmNZk1oKzlZp6WN1"
       },

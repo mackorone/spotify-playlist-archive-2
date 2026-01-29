@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "639 Hz Compassion",
+        "url": "https://open.spotify.com/album/01oSV7pzXDvsACSbXryXqB"
+      },
+      "artists": [
+        {
+          "name": "Hertz Harmony",
+          "url": "https://open.spotify.com/artist/1LQ6dIMZP4sNgA9hoE1PBT"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170602,
+      "name": "639 Hz Compassion",
+      "url": "https://open.spotify.com/track/1dUEOImbqBBnzIJYmZSJQn"
+    },
+    {
+      "album": {
         "name": "A Beautiful New World",
         "url": "https://open.spotify.com/album/3oz4bPGE1O0pJBhrU221Tp"
       },
@@ -1512,6 +1530,24 @@
       "duration_ms": 192000,
       "name": "Is Not All One",
       "url": "https://open.spotify.com/track/1bqkk2hP7oUQiaSSAxKIPs"
+    },
+    {
+      "album": {
+        "name": "Ishi",
+        "url": "https://open.spotify.com/album/2XJfGbF75RMIQv39UnlwAH"
+      },
+      "artists": [
+        {
+          "name": "Slow Eye Movement",
+          "url": "https://open.spotify.com/artist/2rPSJJgb2iDgkFUGY4NHoZ"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Ishi",
+      "url": "https://open.spotify.com/track/1jO1y3fvH7ggpK7tFdr7BB"
     },
     {
       "album": {

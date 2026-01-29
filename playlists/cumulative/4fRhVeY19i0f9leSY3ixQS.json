@@ -106,7 +106,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 229973,
       "name": "27",
       "url": "https://open.spotify.com/track/6B8KXfNXvHHjFIIWMkOx0c"
@@ -214,10 +214,28 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 220736,
       "name": "A Perfect Lie",
       "url": "https://open.spotify.com/track/4p9PHyzfGtugOfdbik0i8b"
+    },
+    {
+      "album": {
+        "name": "Devil in Me",
+        "url": "https://open.spotify.com/album/1OWGmwdcaj1EQB0M77m4fG"
+      },
+      "artists": [
+        {
+          "name": "Trusting Nolan",
+          "url": "https://open.spotify.com/artist/5ENJXdQ0HgfKvFAqdKwIHD"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220925,
+      "name": "A quiet V\u00f8id in the N\u00f8ise",
+      "url": "https://open.spotify.com/track/7dPHBvvKYkl54XNkw8VFdr"
     },
     {
       "album": {
@@ -434,7 +452,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 132616,
       "name": "Aksjon P\u00e5 \u00c5l",
       "url": "https://open.spotify.com/track/3N7HOKfCnzcxZver8NPfDg"
@@ -838,7 +856,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 93921,
       "name": "Attitude",
       "url": "https://open.spotify.com/track/1WcTPszzTvppbjku9UCBNf"
@@ -892,7 +910,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 152716,
       "name": "Autumn in the Storm",
       "url": "https://open.spotify.com/track/0tB90dlegD2EegT7EE2Bii"
@@ -928,7 +946,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 222679,
       "name": "Awake",
       "url": "https://open.spotify.com/track/5Am6CIarSZhrRekBzNgONx"
@@ -1908,7 +1926,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 210973,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/6PeePM62VCME64vXtK9feK"
@@ -2683,6 +2701,24 @@
     },
     {
       "album": {
+        "name": "Darkest Days",
+        "url": "https://open.spotify.com/album/3KGLrm8i9ofq9JUlSqT5DH"
+      },
+      "artists": [
+        {
+          "name": "SucculentSantana",
+          "url": "https://open.spotify.com/artist/3bGOZbj9UqjRRRAcZIwpQw"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154347,
+      "name": "Darkest Days",
+      "url": "https://open.spotify.com/track/5J1uPPobS3ZpxMrt9lrMsX"
+    },
+    {
+      "album": {
         "name": "Darkest Kiss",
         "url": "https://open.spotify.com/album/4hckKYarI91XyKRb4i8Kiu"
       },
@@ -2730,7 +2766,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 191328,
       "name": "De-Evolution (The Monkey Song) - Live",
       "url": "https://open.spotify.com/track/0Dn0jERufaB3y1rbK1e7en"
@@ -2928,7 +2964,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 164000,
       "name": "Deportation Disco",
       "url": "https://open.spotify.com/track/2P0uV6J1i0bzHAra1z3e8m"
@@ -3130,7 +3166,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 202285,
       "name": "Dictators",
       "url": "https://open.spotify.com/track/4UHP30FNADwdL4PyfojcaK"
@@ -3256,7 +3292,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 206373,
       "name": "Doctor Nic",
       "url": "https://open.spotify.com/track/4XYU90isBsinHacvaUtV1g"
@@ -3278,7 +3314,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 194000,
       "name": "Dog Daze Haze",
       "url": "https://open.spotify.com/track/5UfjfOt3mwzpaGeO1Hwgdw"
@@ -3856,7 +3892,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 200864,
       "name": "Endless Tragedy",
       "url": "https://open.spotify.com/track/6p9iXwWBpUz3AOmE8fnRkE"
@@ -3874,7 +3910,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 163246,
       "name": "erase me",
       "url": "https://open.spotify.com/track/1PTCtThHKKKngrJLzDduQ4"
@@ -4422,7 +4458,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 148726,
       "name": "Friends Till The End (Roadtripping)",
       "url": "https://open.spotify.com/track/79BybXVjL9BYHwEahyjR8O"
@@ -4746,7 +4782,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 132293,
       "name": "Godspeed",
       "url": "https://open.spotify.com/track/7JF7vxgcdm4zA9VsBxxzxI"
@@ -4800,7 +4836,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 204119,
       "name": "Gone Too Soon",
       "url": "https://open.spotify.com/track/2glrpjHHKqK4sb96yMYwaw"
@@ -5760,7 +5796,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 233000,
       "name": "Idiocracy",
       "url": "https://open.spotify.com/track/2qnDiSilUTv5Eciy99uYD8"
@@ -5868,7 +5904,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 181826,
       "name": "Impostor",
       "url": "https://open.spotify.com/track/5M2Xbywtmoe2wdhHy7gMHe"
@@ -6110,6 +6146,24 @@
       "duration_ms": 155106,
       "name": "It's Inside",
       "url": "https://open.spotify.com/track/5H7NtbhuEfMQdLWwMrlEh5"
+    },
+    {
+      "album": {
+        "name": "It's Not a Costume",
+        "url": "https://open.spotify.com/album/7uL8FZ1UUmNhIvE5uFbgXz"
+      },
+      "artists": [
+        {
+          "name": "El Chavito",
+          "url": "https://open.spotify.com/artist/7LYglsbl5OU5h5aEKAEuBc"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108833,
+      "name": "It's Not a Costume",
+      "url": "https://open.spotify.com/track/0a5EnEZetMFbTQlQPq7u4Y"
     },
     {
       "album": {
@@ -6779,6 +6833,24 @@
     },
     {
       "album": {
+        "name": "liftoff",
+        "url": "https://open.spotify.com/album/7vymN5eKNB6aKTZgSIfAAi"
+      },
+      "artists": [
+        {
+          "name": "Luis Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/17XrhAKCGNeA99zwuutEP8"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338400,
+      "name": "liftoff",
+      "url": "https://open.spotify.com/track/0x3YdPvjKfNOMRwuuNJ04G"
+    },
+    {
+      "album": {
         "name": "Purple Roses",
         "url": "https://open.spotify.com/album/6Qz29HKxGWZd8yEAKUDiqi"
       },
@@ -7120,7 +7192,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 189113,
       "name": "Love Sick",
       "url": "https://open.spotify.com/track/38mEcwQRFjWFlNQaP1YF2k"
@@ -7412,7 +7484,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 209379,
       "name": "Megaloman\u00edacos",
       "url": "https://open.spotify.com/track/58HYvjRyjxKlxgFB2HlVqc"
@@ -7888,7 +7960,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 230253,
       "name": "My Own World",
       "url": "https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC"
@@ -7906,7 +7978,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 164227,
       "name": "MY SONG",
       "url": "https://open.spotify.com/track/0sE1TOUHEfOuMBdyZxLlhk"
@@ -8584,7 +8656,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 170828,
       "name": "ostracized myself",
       "url": "https://open.spotify.com/track/4kedkU5YfOg9aP3Rhaqh8Y"
@@ -8660,7 +8732,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 212986,
       "name": "Out of Deep Waters",
       "url": "https://open.spotify.com/track/4ypopxCsejZafILZq7wnDq"
@@ -8682,6 +8754,24 @@
       "duration_ms": 225668,
       "name": "Out Of My Halo",
       "url": "https://open.spotify.com/track/3HsYUctD2qPFDDIV5imE5b"
+    },
+    {
+      "album": {
+        "name": "Revolution Will Eat Itself",
+        "url": "https://open.spotify.com/album/5N4MJy0un9XlNiUpv0wT8D"
+      },
+      "artists": [
+        {
+          "name": "Casual Drag",
+          "url": "https://open.spotify.com/artist/3z9XFpIci19AIOf8QdK07N"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237542,
+      "name": "Out of Sight",
+      "url": "https://open.spotify.com/track/2ZWhP6xzlkiPXxvk6aap1a"
     },
     {
       "album": {
@@ -9024,7 +9114,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 96000,
       "name": "Polumrak",
       "url": "https://open.spotify.com/track/5sQyHEWXd54pWJjs25g0CE"
@@ -9060,7 +9150,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 196386,
       "name": "Popgymnastik",
       "url": "https://open.spotify.com/track/6A9ZCLBd1m9Lh5njCWX2io"
@@ -9096,7 +9186,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 209348,
       "name": "Porcelain Rock",
       "url": "https://open.spotify.com/track/37gUrRnnPipQMrKiqjdCIP"
@@ -9168,7 +9258,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 258082,
       "name": "Pretty, Pretty Wasted",
       "url": "https://open.spotify.com/track/4Y8Br3p37qix7eUNbSlXoS"
@@ -9334,7 +9424,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 208132,
       "name": "P\u00e1nta Rhe\u00ee",
       "url": "https://open.spotify.com/track/6aTAAksUXVX0NuTEXu8lgm"
@@ -9406,7 +9496,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 202316,
       "name": "Radio Silence",
       "url": "https://open.spotify.com/track/2pYRR2kmClRQfY13gJf7v8"
@@ -9784,7 +9874,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 181706,
       "name": "Rising Tide",
       "url": "https://open.spotify.com/track/2bChQMM8FuWSin6rjxiPLw"
@@ -10180,7 +10270,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 192000,
       "name": "Sertralineless Summers",
       "url": "https://open.spotify.com/track/61szQwMRcdzfI85Y6Kw3iH"
@@ -10306,7 +10396,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 208258,
       "name": "Shallow End",
       "url": "https://open.spotify.com/track/6DJChk81zSNNKBV2gC9KPL"
@@ -10432,7 +10522,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 230285,
       "name": "shoes",
       "url": "https://open.spotify.com/track/3ArDIn5jS9zudfbT54fdeW"
@@ -10866,7 +10956,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 150729,
       "name": "SOME RANDOM GIRL THAT NEVER MADE IT ON THE INTERNET",
       "url": "https://open.spotify.com/track/3BbhQpgtyldLVqlTv8AxdI"
@@ -11274,7 +11364,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 131424,
       "name": "Stay Strong",
       "url": "https://open.spotify.com/track/786r3M66JjV31as4xj2UJT"
@@ -11782,7 +11872,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 253601,
       "name": "Tempestad",
       "url": "https://open.spotify.com/track/1lrnxzUrCXwWXBkTrdeOBM"
@@ -11920,7 +12010,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 210870,
       "name": "The Blurred Lens",
       "url": "https://open.spotify.com/track/4epa0njWcPYJxJinWothpt"
@@ -12118,7 +12208,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 240441,
       "name": "The Mechanist",
       "url": "https://open.spotify.com/track/7BL9gJl9rAyV2zTkHYhulz"
@@ -12306,7 +12396,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 260487,
       "name": "The Wheel Of Slaughter",
       "url": "https://open.spotify.com/track/63QcDodoU46kLzFCE7LRU3"
@@ -12702,7 +12792,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 180738,
       "name": "Two for Diving",
       "url": "https://open.spotify.com/track/0LjsGoGad9uFIhyUIYDwj9"
@@ -12774,7 +12864,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 210995,
       "name": "Unleash The Madness",
       "url": "https://open.spotify.com/track/2lpGgY8sW4PEIRwFUYBERJ"
@@ -12828,7 +12918,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 212919,
       "name": "useless",
       "url": "https://open.spotify.com/track/1z7CZwKoET1NjbNdI6czPb"
@@ -13200,7 +13290,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 129000,
       "name": "We Should Form a Band",
       "url": "https://open.spotify.com/track/3r9hh8plFZKWymWRPswVXX"
@@ -14026,7 +14116,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 173793,
       "name": "You're Old!",
       "url": "https://open.spotify.com/track/5UTKDSPf9mS3EGUXcUICSf"
@@ -14098,7 +14188,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 304385,
       "name": "\u0410\u043d\u0442\u0438\u0443\u0442\u043e\u043f\u0438\u044f",
       "url": "https://open.spotify.com/track/3PQHp59QfxgIwuHbpdda7F"

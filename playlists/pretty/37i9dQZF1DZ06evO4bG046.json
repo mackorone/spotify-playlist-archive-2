@@ -1,12 +1,12 @@
 {
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 36136,
+  "num_followers": 36144,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXaugAAAAAC6kAIWE123KAnJszslpCJE",
+  "snapshot_id": "aXgAAAAAAABkoKvtVwdVyjKh3JelEsGy",
   "tracks": [
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si T\u00fa No Est\u00e1s",
-        "url": "https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv"
+        "name": "El Volant\u00edn",
+        "url": "https://open.spotify.com/album/4IJANQACPQiCxER0gaUPpn"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 225093,
-      "name": "Si T\u00fa No Est\u00e1s",
-      "url": "https://open.spotify.com/track/32R26AXFfke6v6eSEive5q"
+      "duration_ms": 202000,
+      "name": "Que o la Tumba Ser\u00e1s",
+      "url": "https://open.spotify.com/track/75jBptGrKXfCoaZlE6wg2R"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Volant\u00edn",
-        "url": "https://open.spotify.com/album/4IJANQACPQiCxER0gaUPpn"
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Que o la Tumba Ser\u00e1s",
-      "url": "https://open.spotify.com/track/75jBptGrKXfCoaZlE6wg2R"
+      "duration_ms": 225093,
+      "name": "Si T\u00fa No Est\u00e1s",
+      "url": "https://open.spotify.com/track/32R26AXFfke6v6eSEive5q"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/7A7yT68R727jeKLxPOAiRj"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "Sue\u00f1o Del Inca",
-      "url": "https://open.spotify.com/track/3y0BB4Af1j5F4AcE5BNCN0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Volant\u00edn",
         "url": "https://open.spotify.com/album/4IJANQACPQiCxER0gaUPpn"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 394573,
       "name": "Foto de Primera Comuni\u00f3n",
       "url": "https://open.spotify.com/track/6dHcWANJCRmNPqMquhllp8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/7A7yT68R727jeKLxPOAiRj"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "Sue\u00f1o Del Inca",
+      "url": "https://open.spotify.com/track/3y0BB4Af1j5F4AcE5BNCN0"
     },
     {
       "added_at": null,

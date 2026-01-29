@@ -1,6 +1,6 @@
 {
   "description": "The best in every corner of modern punk rock. Cover: Sn\u00f5\u00f5per",
-  "num_followers": 471672,
+  "num_followers": 471683,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "LOOK OUT FOR ME",
-        "url": "https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 403520,
-      "name": "LOOK OUT FOR ME",
-      "url": "https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
         "name": "Negative Spaces",
         "url": "https://open.spotify.com/album/0YIOpXQvcbiDNPusSqi5Ew"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 175240,
       "name": "negative spaces",
       "url": "https://open.spotify.com/track/3SowkNXvDoTa2qhqmYB3SZ"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
+        "name": "LOOK OUT FOR ME",
+        "url": "https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 403520,
+      "name": "LOOK OUT FOR ME",
+      "url": "https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -707,18 +707,18 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "You Should See Me Now",
-        "url": "https://open.spotify.com/album/45Hi3e8WGVcpjTiYx8vvth"
+        "name": "Hablame Bonito",
+        "url": "https://open.spotify.com/album/0Xshxl3jl5UWJCCHm4R29y"
       },
       "artists": [
         {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
         }
       ],
-      "duration_ms": 224004,
-      "name": "You Should See Me Now",
-      "url": "https://open.spotify.com/track/2F9c0gRcMvPm8AinfcuJek"
+      "duration_ms": 175793,
+      "name": "Hablame Bonito",
+      "url": "https://open.spotify.com/track/4iu0dsOOKLsjyjMiT0WyLP"
     },
     {
       "added_at": "2025-10-03 13:40:04",
@@ -739,18 +739,18 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "Hablame Bonito",
-        "url": "https://open.spotify.com/album/0Xshxl3jl5UWJCCHm4R29y"
+        "name": "You Should See Me Now",
+        "url": "https://open.spotify.com/album/45Hi3e8WGVcpjTiYx8vvth"
       },
       "artists": [
         {
-          "name": "Blnko",
-          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 175793,
-      "name": "Hablame Bonito",
-      "url": "https://open.spotify.com/track/4iu0dsOOKLsjyjMiT0WyLP"
+      "duration_ms": 224004,
+      "name": "You Should See Me Now",
+      "url": "https://open.spotify.com/track/2F9c0gRcMvPm8AinfcuJek"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "Nod",
-        "url": "https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 182494,
-      "name": "Nod",
-      "url": "https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
         "name": "Swing and Sway",
         "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 178253,
       "name": "Swing and Sway",
       "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
+        "name": "Nod",
+        "url": "https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 182494,
+      "name": "Nod",
+      "url": "https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
+        "name": "TREK",
+        "url": "https://open.spotify.com/album/6VtFpPd45wcQZwhmWiKiEZ"
+      },
+      "artists": [
+        {
+          "name": "Shady Nasty",
+          "url": "https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "SCREWDRIVA",
+      "url": "https://open.spotify.com/track/0zxrrou9Dq47FyRZhPNR51"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
         "name": "S2L",
         "url": "https://open.spotify.com/album/3qiGxtR72UMbFBI1nzlKUi"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 164773,
       "name": "Isaac Is Typing\u2026",
       "url": "https://open.spotify.com/track/0mIekgyAGvn5vzt0wns4iP"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
-        "name": "TREK",
-        "url": "https://open.spotify.com/album/6VtFpPd45wcQZwhmWiKiEZ"
-      },
-      "artists": [
-        {
-          "name": "Shady Nasty",
-          "url": "https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "SCREWDRIVA",
-      "url": "https://open.spotify.com/track/0zxrrou9Dq47FyRZhPNR51"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "TREK",
-        "url": "https://open.spotify.com/album/6VtFpPd45wcQZwhmWiKiEZ"
-      },
-      "artists": [
-        {
-          "name": "Shady Nasty",
-          "url": "https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "HARDSTYLE",
-      "url": "https://open.spotify.com/track/5GmH8zSn6ri8ftbJDR8rE7"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
         "name": "I\u2019ve Felt Better",
         "url": "https://open.spotify.com/album/3kqpYEw1S1qRzA2TPgzx1z"
       },
@@ -1063,22 +1047,6 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "Cult Classic",
-        "url": "https://open.spotify.com/album/1lDhJzS7NYP0SWQYKWQIPG"
-      },
-      "artists": [
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
-        }
-      ],
-      "duration_ms": 222317,
-      "name": "You",
-      "url": "https://open.spotify.com/track/2hZsXCd4yjv04usMf4chII"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
         "name": "U Should Not Be Doing That / Facts",
         "url": "https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs"
       },
@@ -1095,6 +1063,22 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
+        "name": "TREK",
+        "url": "https://open.spotify.com/album/6VtFpPd45wcQZwhmWiKiEZ"
+      },
+      "artists": [
+        {
+          "name": "Shady Nasty",
+          "url": "https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "HARDSTYLE",
+      "url": "https://open.spotify.com/track/5GmH8zSn6ri8ftbJDR8rE7"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
         "name": "Lose Your Way & Find Yourself",
         "url": "https://open.spotify.com/album/2uK8FWZRtauDSnYvWWmD3A"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 193776,
       "name": "Lose Your Way & Find Yourself",
       "url": "https://open.spotify.com/track/1YQ8XXekRidvp3AqQ8ihmM"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
+        "name": "Cult Classic",
+        "url": "https://open.spotify.com/album/1lDhJzS7NYP0SWQYKWQIPG"
+      },
+      "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "duration_ms": 222317,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2hZsXCd4yjv04usMf4chII"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
+        "name": "Thameslink",
+        "url": "https://open.spotify.com/album/5GYdpToNRvYnXG3ob4aGEn"
+      },
+      "artists": [
+        {
+          "name": "PLAY DEAD",
+          "url": "https://open.spotify.com/artist/2XQ4KK7Ol8gTUBBLAkIF2j"
+        }
+      ],
+      "duration_ms": 178189,
+      "name": "Thameslink",
+      "url": "https://open.spotify.com/track/2HghPvscCDfcGWp56y6SRP"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
         "name": "Stepper",
         "url": "https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 199866,
       "name": "GROWING UP ON THE INTERNET",
       "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
-        "name": "Thameslink",
-        "url": "https://open.spotify.com/album/5GYdpToNRvYnXG3ob4aGEn"
-      },
-      "artists": [
-        {
-          "name": "PLAY DEAD",
-          "url": "https://open.spotify.com/artist/2XQ4KK7Ol8gTUBBLAkIF2j"
-        }
-      ],
-      "duration_ms": 178189,
-      "name": "Thameslink",
-      "url": "https://open.spotify.com/track/2HghPvscCDfcGWp56y6SRP"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL"
-      },
-      "artists": [
-        {
-          "name": "Fat Dog",
-          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
-        }
-      ],
-      "duration_ms": 317467,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
         "name": "Hypocrite",
         "url": "https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 108650,
       "name": "Hypocrite",
       "url": "https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "duration_ms": 317467,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp"
     },
     {
       "added_at": "2025-09-11 23:00:08",

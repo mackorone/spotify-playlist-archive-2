@@ -21632,7 +21632,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -45298,7 +45298,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 269879,
       "name": "No Me Sofoco",
       "url": "https://open.spotify.com/track/3X0JPpWypjuxQA9Aqg481j"
@@ -48906,7 +48906,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 279962,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/76952ZbAHlgMqrIEMqYkgB"
@@ -48932,7 +48932,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 279962,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/7qbqG0UWOdpsYE2G6ckXSb"
@@ -52754,7 +52754,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 234151,
       "name": "PUNK ROCKY",
       "url": "https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T"
@@ -55164,7 +55164,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 202320,
       "name": "Reyimiller",
       "url": "https://open.spotify.com/track/2wBrtYgA27EDPE7Fpyzpdx"
@@ -55900,6 +55900,28 @@
       "duration_ms": 248768,
       "name": "RUMBAT\u00d3N",
       "url": "https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm"
+    },
+    {
+      "album": {
+        "name": "GTA NAMA",
+        "url": "https://open.spotify.com/album/58vnOxMEBFvXxy7QZ0gMiV"
+      },
+      "artists": [
+        {
+          "name": "Ronny GTA",
+          "url": "https://open.spotify.com/artist/4cnOWlaCqpRNGiLvsxgKgu"
+        },
+        {
+          "name": "Megadivo Produce",
+          "url": "https://open.spotify.com/artist/0fDsWL50lXtP2fc8ayi4KN"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97113,
+      "name": "Rumores",
+      "url": "https://open.spotify.com/track/7Do74VwW9un48Z6hrPLraE"
     },
     {
       "album": {
@@ -57036,7 +57058,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 130677,
       "name": "Se Dejo Del Novio",
       "url": "https://open.spotify.com/track/1Xr3x1zElsBYlFzTvS60c8"
@@ -66946,7 +66968,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 165682,
       "name": "tu con el",
       "url": "https://open.spotify.com/track/2A2x5MZB5OrnnKkVOxx5dp"
@@ -67146,7 +67168,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 248159,
       "name": "Tu Nombre en la Oscuridad",
       "url": "https://open.spotify.com/track/13XTDTngvvkb3b2FpBOQXU"

@@ -1,12 +1,12 @@
 {
   "description": "Dreamy melodies and hushed vocals. Cover: Men I Trust",
-  "num_followers": 1142564,
+  "num_followers": 1142598,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMeA8X6+cd6UGeQXkA0eI8UzFrQY",
+  "snapshot_id": "AAAAAH6HATx8czrEZ77ULkxhZ8mtmkuC",
   "tracks": [
     {
       "added_at": "2026-01-19 19:45:50",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-01-19 19:45:50",
       "album": {
-        "name": "OUTTA MY MIND",
-        "url": "https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL"
-      },
-      "artists": [
-        {
-          "name": "Monsune",
-          "url": "https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF"
-        }
-      ],
-      "duration_ms": 226005,
-      "name": "OUTTA MY MIND",
-      "url": "https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr"
-    },
-    {
-      "added_at": "2026-01-19 19:45:50",
-      "album": {
         "name": "Shy",
         "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 201697,
       "name": "Shy",
       "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
+    },
+    {
+      "added_at": "2026-01-19 19:45:50",
+      "album": {
+        "name": "OUTTA MY MIND",
+        "url": "https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL"
+      },
+      "artists": [
+        {
+          "name": "Monsune",
+          "url": "https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF"
+        }
+      ],
+      "duration_ms": 226005,
+      "name": "OUTTA MY MIND",
+      "url": "https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr"
     },
     {
       "added_at": "2026-01-19 19:45:50",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-01-19 19:45:50",
       "album": {
-        "name": "Lie",
-        "url": "https://open.spotify.com/album/6EGjjJwGEqPTZnVcTXoFHA"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 177777,
-      "name": "Lie",
-      "url": "https://open.spotify.com/track/1iq34aL9nrL4qb8MjB1Kxn"
-    },
-    {
-      "added_at": "2026-01-19 19:45:50",
-      "album": {
         "name": "Op Shop Lover",
         "url": "https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 150421,
       "name": "Op Shop Lover",
       "url": "https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq"
+    },
+    {
+      "added_at": "2026-01-19 19:45:50",
+      "album": {
+        "name": "Lie",
+        "url": "https://open.spotify.com/album/6EGjjJwGEqPTZnVcTXoFHA"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 177777,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/1iq34aL9nrL4qb8MjB1Kxn"
     },
     {
       "added_at": "2026-01-19 19:45:50",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-01-19 19:45:50",
       "album": {
-        "name": "Untitled '91",
-        "url": "https://open.spotify.com/album/17YZ462PRpLKH87XkxSZGu"
-      },
-      "artists": [
-        {
-          "name": "Hector Gachan",
-          "url": "https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM"
-        }
-      ],
-      "duration_ms": 87966,
-      "name": "Flook",
-      "url": "https://open.spotify.com/track/4uJygJrv9ZRqkxfDijPxod"
-    },
-    {
-      "added_at": "2026-01-19 19:45:50",
-      "album": {
         "name": "You Tear Me Apart",
         "url": "https://open.spotify.com/album/3R9q0veyA51VYC6w6VMDQt"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 177957,
       "name": "You Tear Me Apart",
       "url": "https://open.spotify.com/track/1KbCFCEee8ox0OHFH08nbG"
+    },
+    {
+      "added_at": "2026-01-19 19:45:50",
+      "album": {
+        "name": "Untitled '91",
+        "url": "https://open.spotify.com/album/17YZ462PRpLKH87XkxSZGu"
+      },
+      "artists": [
+        {
+          "name": "Hector Gachan",
+          "url": "https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM"
+        }
+      ],
+      "duration_ms": 87966,
+      "name": "Flook",
+      "url": "https://open.spotify.com/track/4uJygJrv9ZRqkxfDijPxod"
     },
     {
       "added_at": "2026-01-19 19:45:50",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-01-19 19:45:50",
       "album": {
-        "name": "July",
-        "url": "https://open.spotify.com/album/75vfYFwRYjlUagRN8mRrb9"
-      },
-      "artists": [
-        {
-          "name": "SALES",
-          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
-        }
-      ],
-      "duration_ms": 193478,
-      "name": "July",
-      "url": "https://open.spotify.com/track/3cNdCwWCyHfjEd7J51sSne"
-    },
-    {
-      "added_at": "2026-01-19 19:45:50",
-      "album": {
         "name": "honey",
         "url": "https://open.spotify.com/album/0o57RzFlG0Xn7tY4PEAizg"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 180181,
       "name": "honey",
       "url": "https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt"
+    },
+    {
+      "added_at": "2026-01-19 19:45:50",
+      "album": {
+        "name": "July",
+        "url": "https://open.spotify.com/album/75vfYFwRYjlUagRN8mRrb9"
+      },
+      "artists": [
+        {
+          "name": "SALES",
+          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
+        }
+      ],
+      "duration_ms": 193478,
+      "name": "July",
+      "url": "https://open.spotify.com/track/3cNdCwWCyHfjEd7J51sSne"
     },
     {
       "added_at": "2026-01-19 19:45:50",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-01-19 19:45:50",
       "album": {
-        "name": "Superfan",
-        "url": "https://open.spotify.com/album/3dHWsC1UPlK52bUS4sVlKV"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 268801,
-      "name": "Superfan",
-      "url": "https://open.spotify.com/track/4DM5CmW7odKbUlMDAQC1ci"
-    },
-    {
-      "added_at": "2026-01-19 19:45:50",
-      "album": {
         "name": "Her and All of My Friends",
         "url": "https://open.spotify.com/album/0TeYGtUrx1OcGrP8uT3gtK"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 179748,
       "name": "Wormwood",
       "url": "https://open.spotify.com/track/3W89enABhR4P2BFYvARctH"
+    },
+    {
+      "added_at": "2026-01-19 19:45:50",
+      "album": {
+        "name": "Superfan",
+        "url": "https://open.spotify.com/album/3dHWsC1UPlK52bUS4sVlKV"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 268801,
+      "name": "Superfan",
+      "url": "https://open.spotify.com/track/4DM5CmW7odKbUlMDAQC1ci"
     },
     {
       "added_at": "2026-01-19 19:45:50",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-01-19 19:45:50",
       "album": {
-        "name": "Please",
-        "url": "https://open.spotify.com/album/7D5FN6JVYSzYfHTGWSx5zy"
-      },
-      "artists": [
-        {
-          "name": "Esbie Fonte",
-          "url": "https://open.spotify.com/artist/6Sh3ahSTQD6LqMh1wMaSLY"
-        }
-      ],
-      "duration_ms": 216651,
-      "name": "Please",
-      "url": "https://open.spotify.com/track/1JYpAqXg2HwCfTMKzr6VXK"
-    },
-    {
-      "added_at": "2026-01-19 19:45:50",
-      "album": {
         "name": "Off and On",
         "url": "https://open.spotify.com/album/5VO20TLoge9jkK4SXKPbWU"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 250909,
       "name": "Off and On",
       "url": "https://open.spotify.com/track/40zaUOTsugX2NEBuJ6905s"
+    },
+    {
+      "added_at": "2026-01-19 19:45:50",
+      "album": {
+        "name": "Please",
+        "url": "https://open.spotify.com/album/7D5FN6JVYSzYfHTGWSx5zy"
+      },
+      "artists": [
+        {
+          "name": "Esbie Fonte",
+          "url": "https://open.spotify.com/artist/6Sh3ahSTQD6LqMh1wMaSLY"
+        }
+      ],
+      "duration_ms": 216651,
+      "name": "Please",
+      "url": "https://open.spotify.com/track/1JYpAqXg2HwCfTMKzr6VXK"
     },
     {
       "added_at": "2026-01-19 19:45:50",

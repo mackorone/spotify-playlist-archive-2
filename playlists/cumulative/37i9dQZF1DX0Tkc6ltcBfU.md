@@ -4,7 +4,7 @@
 
 > The hottest out the South\. Cover: NBA YoungBoy
 
-2,508 songs - 4 day 21 hr 10 min
+2,509 songs - 4 day 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -935,7 +935,7 @@
 | [H.Y.B\. \(feat\. Bas & Central Cee\)](https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:54 | 2024-04-05 | 2025-03-08 |
 | [Ha Ha](https://open.spotify.com/track/04nIar50ZE8iDeAFIjPgGt) | [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS) | [Ha Ha](https://open.spotify.com/album/7poHvtpbpCyQPqJsqd7BWo) | 2:55 | 2023-09-01 | 2023-11-11 |
 | [Ha Ha Ha Ha](https://open.spotify.com/track/1w4rNrGx0wma36pUiZGJyr) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6) | [Ha Ha Ha Ha](https://open.spotify.com/album/2nI2NLgIRedSw5UnPPKiKF) | 3:34 | 2022-04-08 | 2022-04-29 |
-| [Habits](https://open.spotify.com/track/2XMwyntBTC3OgWE2N2wXoX) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [psykotic](https://open.spotify.com/album/1jlNLn16ksXKSVGSFGCeDQ) | 3:19 | 2025-10-24 |  |
+| [Habits](https://open.spotify.com/track/2XMwyntBTC3OgWE2N2wXoX) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [psykotic](https://open.spotify.com/album/1jlNLn16ksXKSVGSFGCeDQ) | 3:19 | 2025-10-24 | 2026-01-29 |
 | [HAHA](https://open.spotify.com/track/6QKsXlPrbg39EHLGoXGRsr) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [HAHA](https://open.spotify.com/album/0nLPy1MZOTSsDaY76gdMJI) | 3:09 | 2024-10-25 | 2024-11-09 |
 | [Haitian Scarface](https://open.spotify.com/track/6HW0HSK7j7FHeFlxqNdKR4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Scarface](https://open.spotify.com/album/0Dvd4RQ44MBoK0eslFXDpP) | 2:25 | 2022-08-12 | 2022-10-08 |
 | [hakuna matata](https://open.spotify.com/track/32TTewBmtmhUmYxS1ajqaJ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:07 | 2024-05-17 | 2024-06-29 |
@@ -1253,6 +1253,7 @@
 | [Lego Piece](https://open.spotify.com/track/3gXREn2wbztk8KCEkEf13g) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8) | [Lego Piece](https://open.spotify.com/album/3c7WOVJ5Ul66qqDXZfmlHq) | 2:48 | 2025-08-08 | 2025-08-16 |
 | [Lemme See](https://open.spotify.com/track/24yqhl33zaZf84naREO04L) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead \(Original Version\)](https://open.spotify.com/album/706gbProQVkQA9pAz5aSjc) | 2:45 | 2023-11-10 | 2024-07-13 |
 | [Lemme See](https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead](https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR) | 2:45 | 2023-11-17 | 2024-04-19 |
+| [LET 'EM KNOW](https://open.spotify.com/track/6AXf9n3qazR1bE1dngnqxi) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [LET 'EM KNOW](https://open.spotify.com/album/7MmMz1SDFpAustlXwduMFa) | 2:59 | 2026-01-28 |  |
 | [Let Go of My Cup \(feat\. That Mexican OT\)](https://open.spotify.com/track/0QJ7MUdSemxAvC1nLXxCaW) | [RNB.FOEMOB](https://open.spotify.com/artist/3YrSdCCaG11xDOpXYJdGl3), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Square Bidnez](https://open.spotify.com/album/0ZZXvaxfAh7KSw7sNkpo8s) | 3:35 | 2025-11-14 |  |
 | [LET HER COOK](https://open.spotify.com/track/1nF1SpkNfgPPozcXh2hvGU) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:35 | 2024-10-25 | 2024-11-09 |
 | [Let Me Know \(with Peezy\)](https://open.spotify.com/track/1F1DlkapLnm4b5EFeSWueV) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [Let Me Know \(with Peezy\)](https://open.spotify.com/album/7En0ShBylucogTX6pXwJUe) | 3:00 | 2023-03-10 | 2023-03-28 |

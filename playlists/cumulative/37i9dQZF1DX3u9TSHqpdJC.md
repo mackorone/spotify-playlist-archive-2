@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best pop songs from new, independent artists as chosen by our editors\.  Cover: ili\. Artwork by Paola Saliby
+> The best pop songs from new, independent artists as chosen by our editors\.  Cover: Mira Housey\. Artwork by Paola Saliby
 
-4,376 songs - 9 day 6 hr 55 min
+4,381 songs - 9 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [33 bushwick](https://open.spotify.com/track/03G69dCK7y0n8XBfl7vICM) | [pink roses](https://open.spotify.com/artist/4KPrvW0HmBDFKs8PsXRwyp) | [33 bushwick](https://open.spotify.com/album/5qgCESazgTrkCHEBQmtTPa) | 3:44 | 2022-03-09 | 2022-04-07 |
 | [3AM](https://open.spotify.com/track/5cETeA9Fi1wyPXcWRjLlaE) | [Amber Ais](https://open.spotify.com/artist/3vPpiUL0ow9hQfhDMyGxle) | [3AM](https://open.spotify.com/album/1HAOlIxcReAfHXyXk94QnJ) | 3:46 | 2022-08-03 | 2022-09-29 |
 | [3am](https://open.spotify.com/track/6m8ol2L3I3dCkF1AVcpvGb) | [Oliver Keane](https://open.spotify.com/artist/5ZkAOoZPehfyH4V00NYVb8) | [3am](https://open.spotify.com/album/3U5siYxgEeeiptWXsrrg1Y) | 3:25 | 2022-01-19 | 2022-03-03 |
+| [3AM](https://open.spotify.com/track/5grvZwzUi8UUPqkNdUfCq2) | [Sadie Fine](https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc) | [3AM](https://open.spotify.com/album/3UezsvZOCyGkCzZrJ4OAUb) | 3:12 | 2026-01-28 |  |
 | [3days](https://open.spotify.com/track/3fjlEMZ2enkbZdRZm4neFW) | [Niall Tarmey](https://open.spotify.com/artist/0mkGsPDIeYwlu3AphfXLmJ) | [3days](https://open.spotify.com/album/03eVrBkkSvTx6gHEj42R7X) | 3:01 | 2026-01-14 |  |
 | [3DM](https://open.spotify.com/track/6xMUlD4v4cSSjk3h1JdMvp) | [Geo Jordan](https://open.spotify.com/artist/6k11DSLFQUOXSROSDqQwBy) | [3DM](https://open.spotify.com/album/7EUwXADzq1k2T5yZyqAOZy) | 3:33 | 2023-03-01 | 2023-06-08 |
 | [40 Wishes](https://open.spotify.com/track/15bPfygzNpAGFm787vWC83) | [cultgabe](https://open.spotify.com/artist/4W0wogc0XoxtUpxLIyZkyi) | [40 Wishes](https://open.spotify.com/album/1MIo2oN2pvdbJsHyWtH8DW) | 4:31 | 2021-07-24 | 2021-08-20 |
@@ -1898,6 +1899,7 @@
 | [I SEE IT COMING](https://open.spotify.com/track/4qDVck33icBULgnvP6WmPh) | [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [I SEE IT COMING](https://open.spotify.com/album/71O6TEo8R5qHRNuoMXfeDo) | 3:04 | 2021-07-29 | 2021-08-26 |
 | [I See You](https://open.spotify.com/track/35MdtrnG6m0RiYpQ0LOD8W) | [Random Chance](https://open.spotify.com/artist/4g016POLki9LoNd5eMsVpY) | [I See You](https://open.spotify.com/album/5ETawageyvGD6MhKFuEgND) | 1:44 | 2024-01-10 | 2024-01-25 |
 | [I Should've Told You](https://open.spotify.com/track/7FNfzTdPSOA7jzlQQ7gZK2) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [I Should've Told You](https://open.spotify.com/album/1N4ACWnpLSrpXokSWcsh9j) | 3:17 | 2020-10-13\* | 2020-12-08 |
+| [I Still Miss You](https://open.spotify.com/track/6KXobSGgzFxjHrljTre5oe) | [Sarah Nimmo](https://open.spotify.com/artist/2U6enUXvLRB7L29djdKqJO) | [I Still Miss You](https://open.spotify.com/album/2sfzVUbUanspYI3WKrnWAn) | 4:24 | 2026-01-28 |  |
 | [i still think that i could love you](https://open.spotify.com/track/2e8L3446UE96UmeDxn72SO) | [andrews'](https://open.spotify.com/artist/2ewCBpOqoOPqQR5uBh5taJ) | [lost in pst](https://open.spotify.com/album/7wWaXt0Zg9Wh8imsC6T5UC) | 2:42 | 2022-11-09 | 2022-12-01 |
 | [I Surrender](https://open.spotify.com/track/2k1JTvBe4O340al5KOOcEw) | [Blake Ruby](https://open.spotify.com/artist/6t2qGTjfjde2jbklcpoF3Z) | [I Surrender](https://open.spotify.com/album/72ho0GT7Nn9wNOUrxfWit2) | 3:34 | 2021-07-16 | 2021-08-20 |
 | [i think i like your girlfriend](https://open.spotify.com/track/4vfqtTA2gCEgorXHfay7XV) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [i think i like your girlfriend](https://open.spotify.com/album/4V9hYFIzK5hLLmxNEjyu2t) | 2:46 | 2023-08-09 | 2024-01-11 |
@@ -1963,6 +1965,7 @@
 | [Ice Cold](https://open.spotify.com/track/7n1kmYMdmhMPXxMNRfXfTy) | [Crybabyamy](https://open.spotify.com/artist/6dHqmYlpk4oGwRwSxGmc6e) | [Ice Cold](https://open.spotify.com/album/56LDkwR6QPFUQIsjhBUNPy) | 2:49 | 2025-06-25 | 2025-08-21 |
 | [Ice Cream](https://open.spotify.com/track/0fvYMrtY2l6usRfmdHc8Hy) | [Shaker Neon](https://open.spotify.com/artist/0wheL2zSPxoMcEbdTIGDn9), [Elyar](https://open.spotify.com/artist/5hf1zTbOSEKfGOisavBELf) | [Ice Cream](https://open.spotify.com/album/5m6TLJZr5GQEXnLE8J7Gei) | 3:49 | 2021-07-29 | 2021-08-26 |
 | [ice cream for dinner](https://open.spotify.com/track/6RXal50nepLNEbDkY3Iuli) | [Siena Bella](https://open.spotify.com/artist/2YLY2wTMVd6FwFqFLWwP7C) | [ice cream for dinner](https://open.spotify.com/album/6nXN0ee7JFV5IxnkQfwVj0) | 2:48 | 2023-05-24 | 2023-08-03 |
+| [Ice Floes](https://open.spotify.com/track/4qDXAsGj2MAGn3TLU2mvH5) | [Conor Burns](https://open.spotify.com/artist/2ZoDOJ7d8rchLJwYU42x2J) | [Ice Floes](https://open.spotify.com/album/0GjnbJYWcos6wLU5g2d9IG) | 3:16 | 2026-01-28 |  |
 | [Iced Coffee](https://open.spotify.com/track/0zH2HR19fqhvxCBzBPi6H2) | [Arthur Hill](https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg) | [Iced Coffee](https://open.spotify.com/album/4eWF5c0nAas9soMtcpP3sj) | 2:35 | 2022-10-19 | 2022-12-01 |
 | [Iced Tea](https://open.spotify.com/track/4fQLvor4RZmo9DF6z1aAnA) | [Wuwon](https://open.spotify.com/artist/402k9yDyihbZVtUsDWpAff) | [Iced Tea](https://open.spotify.com/album/6QkBswqifB83kdIbhrJZQk) | 2:05 | 2021-07-16 | 2021-09-16 |
 | [Icon](https://open.spotify.com/track/0PZCXMrYcGYXhX3wCrkaL1) | [Shuba](https://open.spotify.com/artist/3Uios5Yyv4i8EBs9H3DUY5) | [Icon](https://open.spotify.com/album/3H0LSJXc4oJl1XrHJjN0gn) | 3:32 | 2022-03-23 | 2022-04-28 |
@@ -4184,6 +4187,7 @@
 | [What If](https://open.spotify.com/track/0XVcpooR7lSpkOYSEC68OM) | [whateve](https://open.spotify.com/artist/7zjWcziyuEgaHLtUjb0ikG) | [What If](https://open.spotify.com/album/1prtOtzHE5LnqkZBpx3jas) | 3:36 | 2025-04-09 | 2025-05-22 |
 | [What Is A Feeling](https://open.spotify.com/track/0zQHLEpZqB6rVdLKM7ytza) | [Glüme](https://open.spotify.com/artist/1WyJbOc1Ws2vWLUZu36jla) | [What Is A Feeling](https://open.spotify.com/album/1vCWO98B4P24JNj3DsAygb) | 4:00 | 2021-03-25 | 2021-04-29 |
 | [what it \(do do do\)](https://open.spotify.com/track/2pRtqDTb7YpkEHW7cOX3ao) | [Ni/Co](https://open.spotify.com/artist/2IR0GSCHsTo7gSw8HHLBnr) | [What it \(do do do\)](https://open.spotify.com/album/7utRpdQtWPCyqOTHdtiAst) | 2:54 | 2023-01-11 | 2023-02-23 |
+| [What Kind of Man](https://open.spotify.com/track/0MID0fQyT7ExP2U0jXv3cO) | [Ingrid](https://open.spotify.com/artist/2hgF3e8mroWl4JbVP7zdjO) | [What Kind of Man](https://open.spotify.com/album/76GNBPdGwlWEZqpZwMO26W) | 3:22 | 2026-01-28 |  |
 | [What Love's Like](https://open.spotify.com/track/0DOmgO2gJPePAaaBsKXRjm) | [Andon](https://open.spotify.com/artist/2FoBUF7cnaR8q2slzcnCJi) | [What Love's Like](https://open.spotify.com/album/5HCQgAtKRZtd3kB8W9bH4N) | 2:44 | 2023-03-01 | 2023-04-20 |
 | [What The Other Boys Do](https://open.spotify.com/track/1Ar1fav43KUvT2edPNWZVf) | [NOAH](https://open.spotify.com/artist/58lgLdFw6PV6sqU22PnUTF) | [What The Other Boys Do](https://open.spotify.com/album/6Sm18mZWE5Yd6iRHpgYJWD) | 3:07 | 2022-04-27 | 2022-05-26 |
 | [What Then](https://open.spotify.com/track/7LzRh6rSeOwIfluOllUvxk) | [McCall](https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT) | [What Then](https://open.spotify.com/album/5xd8cRFKCQSeuJkPKtpjCv) | 2:37 | 2022-04-13 | 2022-05-12 |
@@ -4370,6 +4374,7 @@
 | [Younger](https://open.spotify.com/track/3YF3WkYkHyiEk8sqhyE2VQ) | [Kayla Thompson](https://open.spotify.com/artist/0Sflq5MAqI4tTFfqIOpar3) | [Younger](https://open.spotify.com/album/592eABOwz4EtzLKV0KgUKF) | 3:32 | 2022-03-16 | 2022-04-28 |
 | [Youniverse](https://open.spotify.com/track/7leBNpRPcy10AxJCG8UesN) | [Gabi Sklar](https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj) | [Youniverse](https://open.spotify.com/album/0S5HUfsYHiWndYT4uGY4pz) | 2:40 | 2024-02-21 | 2024-03-14 |
 | [Your Church](https://open.spotify.com/track/22FdRSyO4wP5WjiJGP957u) | [Emma Jayne](https://open.spotify.com/artist/7ubWjhhe5vngwLTDrd2PEF), [Rabbi Jericho Vincent](https://open.spotify.com/artist/6gX6Z5EEShw1t9IIkwfdt3) | [Your Church](https://open.spotify.com/album/4aRQMu09wxEnhjzextiCex) | 2:16 | 2024-03-13 | 2024-07-11 |
+| [Your Dog](https://open.spotify.com/track/0cchMP4Dr7S64OLkvJXf7T) | [Joely June](https://open.spotify.com/artist/3Zjp1y6YgPwFDX3PlTJd1j) | [Your Dog](https://open.spotify.com/album/22vFekxUdyc0p7YZP9dPsh) | 3:43 | 2026-01-28 |  |
 | [Your New Girlfriend](https://open.spotify.com/track/11PtLWTILZ7htNJd6hwSI2) | [Leah Sykes](https://open.spotify.com/artist/3OYYN1sVAjeYS6sRlCH19H) | [Your New Girlfriend](https://open.spotify.com/album/3S09y6fXnzBY52CsFv1OVT) | 1:58 | 2023-02-08 | 2023-03-29 |
 | [your person](https://open.spotify.com/track/0f9wp0OIGLlCfyEdAlS2wv) | [Jake Clark](https://open.spotify.com/artist/5fPvc8tIZfLbEm3GsbFHgd) | [your person](https://open.spotify.com/album/1Ces5YhJPOOgDJA24KIahz) | 3:21 | 2023-09-27 | 2023-11-30 |
 | [Your Song](https://open.spotify.com/track/1iM2bxBN9FJjzEzzViHirm) | [Segöya](https://open.spotify.com/artist/3UGfiyptKkWoSoONr4WINb) | [Your Song](https://open.spotify.com/album/1TsTEztNvP7gtrdWl6N8Qp) | 3:59 | 2022-01-26 | 2022-03-24 |

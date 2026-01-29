@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,161 songs - 2 day 16 hr 54 min
+1,162 songs - 2 day 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [D.E.A.L](https://open.spotify.com/track/4NC86WqrkTKQjs4JqXpyml) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [D.E.A.L](https://open.spotify.com/album/38aBdx79uHAy2Wn9aNw2Y9) | 3:20 | 2021-11-19 | 2022-02-11 |
 | [DABADABADABADABA](https://open.spotify.com/track/3VxkYtmVCInFfhkbsaMg0B) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [DABADABADABADABA](https://open.spotify.com/album/4JGsUCVSHp0G9UESD2eH8g) | 2:24 | 2024-11-04 | 2025-02-11 |
 | [Daisies](https://open.spotify.com/track/67k9neQm9nlnMnejMpRXSN) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Olmos](https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV) | [Daisies](https://open.spotify.com/album/37kDHVg9VwJgW5fbKkwzls) | 3:39 | 2022-07-05 | 2022-09-17 |
+| [Dale Earnhardt](https://open.spotify.com/track/1zg7wzuyq12v7beYiMjZNX) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Proppa](https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68), [Big Baby Scumbag](https://open.spotify.com/artist/3WjxW7xt0RCSotYoQBzEXB) | [Dale Earnhardt](https://open.spotify.com/album/3NnsFhinUf7kLcHHC6T06t) | 2:58 | 2026-01-28 |  |
 | [Damage](https://open.spotify.com/track/6S0nRvCvWPpYg07vDqf1gM) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [Damage](https://open.spotify.com/album/4NqxRinZeiR45um7j2AHC1) | 3:21 | 2024-05-13 | 2024-08-02 |
 | [DAMAGE](https://open.spotify.com/track/0afxbRf1Xy7IwYuzoJtDZy) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q) | [DAMAGE](https://open.spotify.com/album/6aCtnpIFYQIzSbH8suxXYR) | 3:33 | 2022-09-06 | 2022-11-05 |
 | [Damage](https://open.spotify.com/track/4uwscfpPs3qMpswueaKISw) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [DJ DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Damage](https://open.spotify.com/album/1nYaZZovs0DuMxyYn79XP9) | 3:15 | 2025-02-03 | 2025-05-01 |

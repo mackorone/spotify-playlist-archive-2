@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: STUTS, Julia Wu & Phum Viphurit
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,659 likes - 101 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,653 likes - 101 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 39 | [Ego](https://open.spotify.com/track/6qWLeDClhAZYyshdF3y45Y) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Ego](https://open.spotify.com/album/7obtmvKbzq38Uw45UeOpa4) | 3:00 |
 | 40 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 |
 | 41 | [tenk\(e\)i](https://open.spotify.com/track/4ZxjpVTJfPfPr40IqbCOPj) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [tenk\(e\)i](https://open.spotify.com/album/5y0dNiCxiZ4l3x8BWbJMjq) | 4:56 |
-| 42 | [INVISIBLE \- Tesh Remix](https://open.spotify.com/track/3MwHiptJX7hU1HRgt2gLMa) | [SHIMA](https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI), [tesh](https://open.spotify.com/artist/4bnUfGrlUSrYBRajJnAhDX) | [INVISIBLE \(Tesh Remix\)](https://open.spotify.com/album/4dW1XRThBN6WebkWVXBGSL) | 3:17 |
+| 42 | [INVISIBLE \- tesh Remix](https://open.spotify.com/track/3MwHiptJX7hU1HRgt2gLMa) | [SHIMA](https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI), [tesh](https://open.spotify.com/artist/4bnUfGrlUSrYBRajJnAhDX) | [INVISIBLE \(tesh Remix\)](https://open.spotify.com/album/4dW1XRThBN6WebkWVXBGSL) | 3:17 |
 | 43 | [Time After Time](https://open.spotify.com/track/4ZP6WPdLgbP9z1N4JifxYA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Time After Time](https://open.spotify.com/album/4p3XDEvo4wScVOk5liCo0x) | 3:39 |
 | 44 | [Worth Your Summer](https://open.spotify.com/track/2XrzeucK3QId09Ct0rUBEt) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [Worth Your Summer](https://open.spotify.com/album/7LyqReHSOXbiUVwg1Qp52j) | 2:36 |
 | 45 | [terrible4u](https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl) | [Luke Chiang](https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj) | [terrible4u](https://open.spotify.com/album/2HUHCPVbtnaN77LoUrzutn) | 3:18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 
 > bailando en el antro con DENNIS, L7NNON y Beéle hasta el amanecer
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,312 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,311 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 55 | [Flashing Lights](https://open.spotify.com/track/7vTkeUEwAW5BiOOvwTwu8W) | [VV Brujo](https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR), [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl), [Jay Oc](https://open.spotify.com/artist/4xfAJoeFObf1ny2nj3sgMS) | [Flashing Lights](https://open.spotify.com/album/3zh3pDdopN6xrftjHi6SzB) | 3:04 |
 | 56 | [Off White](https://open.spotify.com/track/4sj7tghP47QWsae9SP6rBU) | [Ibarra](https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY), [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m) | [Off White](https://open.spotify.com/album/5FKN5jNpd4K8VLE2PFIoFc) | 2:18 |
 | 57 | [CUANDO LLUEVA](https://open.spotify.com/track/5iLFWbFDC4UVVNRHNhIqQE) | [Blo](https://open.spotify.com/artist/0KUh8oxldeWuZ8pKAvvet4) | [CUANDO LLUEVA](https://open.spotify.com/album/4wSnDrKuZ4JShcIO6QIXRe) | 3:01 |
-| 58 | [BANDIDO](https://open.spotify.com/track/0ipaxkftHTQ8tlOh3OYW59) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK), [Jencko el Shinobi](https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf) | [BANDIDO](https://open.spotify.com/album/4THyYcXm5vqpxl6vo5UBqa) | 3:14 |
+| 58 | [POV](https://open.spotify.com/track/1AUfXpLXwRWlqt6P2QmDUY) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [POV](https://open.spotify.com/album/1fsYaTXO92NsgRl6idUfYS) | 2:21 |
 | 59 | [otravezmepusemal](https://open.spotify.com/track/5ZFKptR2zvSWsdULKgkRSU) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [otravezmepusemal](https://open.spotify.com/album/7M9VI5fEgbOCfuPZHDjyAN) | 2:46 |
-| 60 | [POV](https://open.spotify.com/track/1AUfXpLXwRWlqt6P2QmDUY) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [POV](https://open.spotify.com/album/1fsYaTXO92NsgRl6idUfYS) | 2:21 |
+| 60 | [BANDIDO](https://open.spotify.com/track/0ipaxkftHTQ8tlOh3OYW59) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK), [Jencko el Shinobi](https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf) | [BANDIDO](https://open.spotify.com/album/4THyYcXm5vqpxl6vo5UBqa) | 3:14 |
 | 61 | [techno s3x!](https://open.spotify.com/track/3TWPapEzNeVlkPqCIMDxpe) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn) | [techno s3x!](https://open.spotify.com/album/2PVldRuU7VY5l29EHD4FBc) | 2:25 |
 | 62 | [AMOR JOVEN](https://open.spotify.com/track/1boSamCDUGe6D4etgGGiXD) | [B.Costa](https://open.spotify.com/artist/01fNG660iLmip7E4Q2sW0i), [Zavalah](https://open.spotify.com/artist/0AjXdLsgBphKgddIFUKgUX) | [AMOR JOVEN](https://open.spotify.com/album/6RAXUHFdev1lj6xR3YH5CI) | 3:26 |
-| 63 | [FOLEN ENYELS](https://open.spotify.com/track/0JSuQuNITcNEYYJfJwJpeA) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [2AT](https://open.spotify.com/artist/2caaLhxVxlELPUOEI9TrcL) | [ANGELA \(Deluxe\)](https://open.spotify.com/album/2CYVt3PAiW3vQ4gcrOUfJx) | 2:56 |
-| 64 | [TAKA](https://open.spotify.com/track/7KRNnoQRleJrZ51uBtPOHo) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Lucca](https://open.spotify.com/artist/3Sw5QsqUV0ADRkBYpLcxAs) | [TAKA](https://open.spotify.com/album/4ozvNAAJnOag9nIQl4VPlF) | 1:26 |
+| 63 | [TAKA](https://open.spotify.com/track/7KRNnoQRleJrZ51uBtPOHo) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Lucca](https://open.spotify.com/artist/3Sw5QsqUV0ADRkBYpLcxAs) | [TAKA](https://open.spotify.com/album/4ozvNAAJnOag9nIQl4VPlF) | 1:26 |
+| 64 | [FOLEN ENYELS](https://open.spotify.com/track/0JSuQuNITcNEYYJfJwJpeA) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [2AT](https://open.spotify.com/artist/2caaLhxVxlELPUOEI9TrcL) | [ANGELA \(Deluxe\)](https://open.spotify.com/album/2CYVt3PAiW3vQ4gcrOUfJx) | 2:56 |
 | 65 | [Icono](https://open.spotify.com/track/6nEfUHrjohafrLeq884vyr) | [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk) | [YNQNPQSD](https://open.spotify.com/album/69BYUcITBBHyuki8YHssg9) | 2:32 |
 | 66 | [sistemu](https://open.spotify.com/track/2eZ4UueTIiww52lJSUFHCE) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam), [Valuki](https://open.spotify.com/artist/2p1E3XmJHxVf0eeR1RReZ5), [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5) | [sistemu](https://open.spotify.com/album/2SUfo7fFqTi6ZXITvJWrvc) | 3:04 |
 | 67 | [\#Nanana](https://open.spotify.com/track/5RmiDnfQfVYNP3sGAvGOso) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47), [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3) | [\#TECHNOMAMI](https://open.spotify.com/album/4noMklQI4rRXjsLJQxyDfb) | 3:04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > as gigas da net
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,626,355 likes - 70 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,626,828 likes - 70 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 69 | [MTG PASSA PASSA PRA EU SARRAR](https://open.spotify.com/track/5G0kKNRYFCoORvJ2VzwvrY) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP) | [MTG PASSA PASSA PRA EU SARRAR](https://open.spotify.com/album/0oIoNUs6nCleWflBj6tSPY) | 2:21 |
 | 70 | [Não Sirvo](https://open.spotify.com/track/6pscx2XMC2ZcE13WOQ082K) | [Eduardinho dos Teclados](https://open.spotify.com/artist/1quJu43mKzxzA3WxItCYvx) | [É Diferente](https://open.spotify.com/album/1kmgqBrxtN00b4fb1aX6A4) | 3:09 |
 
-Snapshot ID: `AAAAAJTTwglbEMB5BPH4Eo+FHW8VdJTj`
+Snapshot ID: `AAAAANmgEEi6bGuszZNOdvDBok+QhOeg`

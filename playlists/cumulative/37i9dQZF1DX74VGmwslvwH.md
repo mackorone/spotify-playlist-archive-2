@@ -4,7 +4,7 @@
 
 > Energy flow from root to crown\. Balance your doshas with gentle sounds inspired by India.
 
-209 songs - 13 hr 6 min
+211 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Focus Ten](https://open.spotify.com/track/6rtxEcszeVD0j86GJc2ZvQ) | [Yoro Kobuto](https://open.spotify.com/artist/21TAVdB21U8rAixr2sANtf) | [Focus Ten](https://open.spotify.com/album/0KBrHAUFZ5cmLuu5jx65xM) | 2:50 | 2025-06-18 |  |
 | [Follow The River](https://open.spotify.com/track/0azFg6hzd0om8ElqnuGN53) | [Varanasi Sunrise](https://open.spotify.com/artist/785euUD04UBt0l80YyYFVS) | [Follow The River](https://open.spotify.com/album/16e2Q6s3CJxdjfhChjrMRp) | 3:15 | 2024-03-08 |  |
 | [Foreign Lands](https://open.spotify.com/track/2yLYQyrHlcgfC9k6gXRAbt) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Foreign Lands](https://open.spotify.com/album/1a8cUiV7todjPrXu4jqowW) | 2:26 | 2024-08-30 |  |
+| [Forest Gong](https://open.spotify.com/track/6gxBjEGooDV7iLB6DmJAYr) | [Rag Nally](https://open.spotify.com/artist/2uSPSc1IHPt7fv6ve5jRQK) | [Forest Gong](https://open.spotify.com/album/4LoafUz92NoRvToNTx1ERl) | 1:40 | 2026-01-28 |  |
 | [Golden Night](https://open.spotify.com/track/6mJfau3oJvpYztXxW1fxKi) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Raat ki Hawa](https://open.spotify.com/album/2M9KRROg3X52wfBWWDlkmu) | 3:18 | 2022-05-13 |  |
 | [Golden Rhythms](https://open.spotify.com/track/6PvRIrT27GneDwiQ8ogiYs) | [Suntam](https://open.spotify.com/artist/102ZisJTB3o3NFyOaDMXGP) | [Golden Rhythms](https://open.spotify.com/album/2L1nu8hFPfF5b7cBw0NtlI) | 3:12 | 2024-03-08 |  |
 | [golden star](https://open.spotify.com/track/4MSIW7QmQMnELi5powItVK) | [fresh from the moon](https://open.spotify.com/artist/3i0x5wTZo4kRfN75ESlhqJ) | [golden star](https://open.spotify.com/album/345XHvm4MDeogHOsvGOh4a) | 3:30 | 2023-03-07 |  |
@@ -213,6 +214,7 @@
 | [Ustrasana](https://open.spotify.com/track/7q0YjCUbiMjkZdpRUTkorT) | [Nepenthesis](https://open.spotify.com/artist/5eCkBm1UK2IpA92JiNoMV6) | [Ustrasana](https://open.spotify.com/album/5Y3PXDGxOTzYqNZ8fvJJDm) | 5:31 | 2022-12-16 |  |
 | [Vishram](https://open.spotify.com/track/14uHrpJDryglZGbZ00E25V) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Vishram](https://open.spotify.com/album/0eRoacAVuWXpwGjuawLvDI) | 3:24 | 2022-05-13 | 2024-03-27 |
 | [Warm Showers](https://open.spotify.com/track/2912FSrpfP5O9nzuwSPlDa) | [Oceans Cry](https://open.spotify.com/artist/174Q4UvaXNdNt4KSRrglKi) | [Warm Showers](https://open.spotify.com/album/59jT8Zj0DbyKbF703easKX) | 3:04 | 2022-05-13 |  |
+| [Waves of Shanti](https://open.spotify.com/track/6ONdzHJjPB6z42eNnGWrqg) | [Shanti Soma](https://open.spotify.com/artist/1iRH0CvdGqurka08WJqSe4) | [Waves of Shanti](https://open.spotify.com/album/1Lhkpgh31J7MzTUp7an7PO) | 3:39 | 2026-01-28 |  |
 | [Well of Hope](https://open.spotify.com/track/1nL2bxBSNHt8tFI9T80XWn) | [KunDharma](https://open.spotify.com/artist/3NhCohtDbc2pjX9myuU2YJ) | [Well Of Hope](https://open.spotify.com/album/53dEbBBAkicA0G4mBDPkxc) | 3:08 | 2022-12-16 | 2024-12-21 |
 | [Who We Are](https://open.spotify.com/track/7o0fPw3ZlzfWREnTHBCCnU) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Who We Are](https://open.spotify.com/album/75mPPbdsfWEmFzMhZ9B6qU) | 4:31 | 2024-03-08 |  |
 | [ZenZephyr](https://open.spotify.com/track/12NW28rpQpQtS6vcHJYYQi) | [Surya](https://open.spotify.com/artist/35cfF1k6EkenA6CvqrhneD) | [ZenZephyr](https://open.spotify.com/album/5EYJACzBpoBxZxgC9EZU62) | 3:36 | 2023-02-10 |  |

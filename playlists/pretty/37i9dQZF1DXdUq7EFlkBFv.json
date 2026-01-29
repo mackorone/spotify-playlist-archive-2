@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 25157,
+  "num_followers": 25162,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "No Time For Sleep (Freestyle)",
+        "url": "https://open.spotify.com/album/2SUNTv6iT4DwTmrNlqCqmi"
+      },
+      "artists": [
+        {
+          "name": "Bobby Shmurda",
+          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
+        }
+      ],
+      "duration_ms": 375652,
+      "name": "No Time For Sleep (Freestyle)",
+      "url": "https://open.spotify.com/track/50xlqNticOjNCnR192H1YJ"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "Clash (feat. Stormzy)",
         "url": "https://open.spotify.com/album/58GjA2xPMQ8PjNKyddHIqP"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 251733,
       "name": "Clash (feat. Stormzy)",
       "url": "https://open.spotify.com/track/2oUwMN5VfdGX10XeQJLBBi"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "No Time For Sleep (Freestyle)",
-        "url": "https://open.spotify.com/album/2SUNTv6iT4DwTmrNlqCqmi"
-      },
-      "artists": [
-        {
-          "name": "Bobby Shmurda",
-          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
-        }
-      ],
-      "duration_ms": 375652,
-      "name": "No Time For Sleep (Freestyle)",
-      "url": "https://open.spotify.com/track/50xlqNticOjNCnR192H1YJ"
     },
     {
       "added_at": "2022-10-01 16:17:17",

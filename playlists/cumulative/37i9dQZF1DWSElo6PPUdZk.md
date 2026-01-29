@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Nimrat Khaira
 
-253 songs - 12 hr 48 min
+254 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Aise Des](https://open.spotify.com/track/5jxzK1xMJZwgFrSA8Jn1gk) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Aise Des](https://open.spotify.com/album/0brmFtDiy4DbpKZNzmqqiK) | 3:12 | 2026-01-23 |  |
 | [AKH](https://open.spotify.com/track/2XQK4hKhcSsloYMteu9RbZ) | [Jaswinder Brar](https://open.spotify.com/artist/6r2i43KR94c0Q0fm7OyJEJ), [Sachin Ahuja](https://open.spotify.com/artist/4QTKE90lhb8DlGKB9QqK3h) | [AKH](https://open.spotify.com/album/6B3afVYGezFl6PPl2qJXqB) | 3:35 | 2024-09-09 | 2024-10-23 |
 | [Akh Kashni](https://open.spotify.com/track/2LN3oyAgxcSQf44Yn8T8bF) | [Dhrriti Saharan](https://open.spotify.com/artist/3CfM61zeuztKppkmj0CggJ) | [Akh Kashni](https://open.spotify.com/album/0GyMIEnGd9HZW43GSdLdSW) | 2:27 | 2026-01-20 |  |
-| [All About Me](https://open.spotify.com/track/5z0TMApul2gljzU7D5wdSe) | [Sarika Gill](https://open.spotify.com/artist/2gzKmku9ZYUmTrqgWeMDVc) | [All About Me](https://open.spotify.com/album/7b0LyWJWBL5logHL9J00hL) | 2:16 | 2025-10-15 |  |
+| [All About Me](https://open.spotify.com/track/5z0TMApul2gljzU7D5wdSe) | [Sarika Gill](https://open.spotify.com/artist/2gzKmku9ZYUmTrqgWeMDVc) | [All About Me](https://open.spotify.com/album/7b0LyWJWBL5logHL9J00hL) | 2:16 | 2025-10-15 | 2026-01-29 |
 | [All Black](https://open.spotify.com/track/4kr7yzaL36BRmzPrVq2g6o) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Rxmbo](https://open.spotify.com/artist/7HWxXTkowZibw1PRWWEkqL) | [All Black](https://open.spotify.com/album/1vFe1kx7abbJlEeqFmKGf7) | 3:02 | 2025-11-17 |  |
 | [All Of Me](https://open.spotify.com/track/0A2zRkxaVs0pBEphesliW9) | [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [All Of Me](https://open.spotify.com/album/7HWwodmqi6yfhLjwCrwAl3) | 3:13 | 2023-03-18 | 2023-11-21 |
 | [All Of You](https://open.spotify.com/track/1QCU59QRGh7vkgSIAM9NNx) | [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [All Of You](https://open.spotify.com/album/3uvubadrqzODiqtkV5fsQR) | 2:19 | 2024-09-13 |  |
@@ -51,6 +51,7 @@
 | [Chandigarh Ka Chokra](https://open.spotify.com/track/0n2LpEAixGBWK8mwUSGtGb) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Guri Nimana](https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f) | [Chandigarh Ka Chokra](https://open.spotify.com/album/3VWQigEYk4sOaiLNileTP4) | 2:24 | 2023-11-17 |  |
 | [Chann Diggeya Ve](https://open.spotify.com/track/6OnQeuKgLWYTpHve6PGkC0) | [Akshay & IP](https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Chann Diggeya Ve](https://open.spotify.com/album/2r7IPJkMgpCLrYyFEVCg6o) | 3:12 | 2025-09-16 | 2025-10-15 |
 | [Chori Chori](https://open.spotify.com/track/0XJxjocvgG75ixFM66qxuv) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Chori Chori](https://open.spotify.com/album/1kBvmOFJyTfZTg4cfGHSUS) | 2:51 | 2023-03-18 | 2024-12-23 |
+| [Dangeyaa \- Dangeyaa](https://open.spotify.com/track/2cznhWoWHi1LGTi7aJM6NX) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Pannu Maan](https://open.spotify.com/artist/6Uahqqf56uJl0XXAxGC74p) | [Dangeyaa](https://open.spotify.com/album/02oTFRfvda71AUB3lHiekJ) | 2:47 | 2026-01-28 |  |
 | [Defaulter](https://open.spotify.com/track/260lfDzVnZHXmIXIvKUNVz) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Defaulter](https://open.spotify.com/album/4iGipyYHimj6ZMsAzkhQDQ) | 3:21 | 2023-03-18 | 2024-10-04 |
 | [Dhill](https://open.spotify.com/track/0r2wxY718iQRndDklGbt21) | [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [Dhill](https://open.spotify.com/album/1MDXzIwFBqaNm3VsW7kQ0Q) | 2:57 | 2024-10-03 | 2025-01-06 |
 | [Dhola](https://open.spotify.com/track/0ozR2yQS7gY27fywJkaOb1) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Saggi Nexuss](https://open.spotify.com/artist/5dMJiBJVkicivaHCgRKadi), [Khan Mallan Wala](https://open.spotify.com/artist/7Hs5OBCr72yssKFxWws6MN), [Ranjha Rajan](https://open.spotify.com/artist/4dHeX7BNfbSKdO8qAs555N) | [Dhola](https://open.spotify.com/album/7EHkKYRXhXNiKDGU07Z7Xv) | 3:15 | 2024-10-01 | 2025-09-16 |

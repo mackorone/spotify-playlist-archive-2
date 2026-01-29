@@ -1,6 +1,6 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 54740,
+  "num_followers": 54750,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Night Walk",
+        "url": "https://open.spotify.com/album/3Y6dLdTnXxiIhDKFmlTPYw"
+      },
+      "artists": [
+        {
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+        }
+      ],
+      "duration_ms": 140585,
+      "name": "Night Walk",
+      "url": "https://open.spotify.com/track/0ePG8cXgoLfOqVYVX8Ju6a"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Divine",
         "url": "https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 163684,
       "name": "Endless Sleep",
       "url": "https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Night Walk",
-        "url": "https://open.spotify.com/album/3Y6dLdTnXxiIhDKFmlTPYw"
-      },
-      "artists": [
-        {
-          "name": "Gavin Luke",
-          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
-        }
-      ],
-      "duration_ms": 140585,
-      "name": "Night Walk",
-      "url": "https://open.spotify.com/track/0ePG8cXgoLfOqVYVX8Ju6a"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -643,22 +643,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm"
-      },
-      "artists": [
-        {
-          "name": "Eva Slott",
-          "url": "https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe"
-        }
-      ],
-      "duration_ms": 139593,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Envision",
         "url": "https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 143000,
       "name": "Vague",
       "url": "https://open.spotify.com/track/3IOXceWmoCrTyl5TXFDzWu"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm"
+      },
+      "artists": [
+        {
+          "name": "Eva Slott",
+          "url": "https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe"
+        }
+      ],
+      "duration_ms": 139593,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -755,22 +755,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF"
-      },
-      "artists": [
-        {
-          "name": "Berlioz",
-          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
-        }
-      ],
-      "duration_ms": 106050,
-      "name": "Origami",
-      "url": "https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Anjali",
         "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
       },
@@ -787,26 +771,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Calm Moments Piano Music",
-        "url": "https://open.spotify.com/album/7cLo3vzpHmCHghvtwtZoXn"
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF"
       },
       "artists": [
         {
-          "name": "Musica Relajante",
-          "url": "https://open.spotify.com/artist/5tLcSmEpxduAsr5nLUeJ7D"
-        },
-        {
-          "name": "Entspannungsmusik",
-          "url": "https://open.spotify.com/artist/3xeIqGEgOD8QQstyUXSz4J"
-        },
-        {
-          "name": "Relaxing Music Therapy",
-          "url": "https://open.spotify.com/artist/7xbVj2U2bY22gyZnh04TlN"
+          "name": "Berlioz",
+          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
         }
       ],
-      "duration_ms": 130688,
-      "name": "Symphony Of Heaven",
-      "url": "https://open.spotify.com/track/4QObDKYxh0rquU3njQ7rGi"
+      "duration_ms": 106050,
+      "name": "Origami",
+      "url": "https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -839,6 +815,30 @@
       "duration_ms": 278797,
       "name": "Buenas Noches",
       "url": "https://open.spotify.com/track/72kIC2q0kaOleQ3uCWU6eN"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Calm Moments Piano Music",
+        "url": "https://open.spotify.com/album/7cLo3vzpHmCHghvtwtZoXn"
+      },
+      "artists": [
+        {
+          "name": "Musica Relajante",
+          "url": "https://open.spotify.com/artist/5tLcSmEpxduAsr5nLUeJ7D"
+        },
+        {
+          "name": "Entspannungsmusik",
+          "url": "https://open.spotify.com/artist/3xeIqGEgOD8QQstyUXSz4J"
+        },
+        {
+          "name": "Relaxing Music Therapy",
+          "url": "https://open.spotify.com/artist/7xbVj2U2bY22gyZnh04TlN"
+        }
+      ],
+      "duration_ms": 130688,
+      "name": "Symphony Of Heaven",
+      "url": "https://open.spotify.com/track/4QObDKYxh0rquU3njQ7rGi"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Close your eyes",
-        "url": "https://open.spotify.com/album/7n60AHGWLfjBq8eEdTbja0"
-      },
-      "artists": [
-        {
-          "name": "Koby Laver",
-          "url": "https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Close your eyes",
-      "url": "https://open.spotify.com/track/53Mz4V3XL02YupbVnJKfMl"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Dulces Sue\u00f1os",
         "url": "https://open.spotify.com/album/1QlQTmNJSAroXlf82gRaAA"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 245514,
       "name": "Dulces Sue\u00f1os",
       "url": "https://open.spotify.com/track/4xYu3ms4RRPwYjoZV7qEPl"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Close your eyes",
+        "url": "https://open.spotify.com/album/7n60AHGWLfjBq8eEdTbja0"
+      },
+      "artists": [
+        {
+          "name": "Koby Laver",
+          "url": "https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Close your eyes",
+      "url": "https://open.spotify.com/track/53Mz4V3XL02YupbVnJKfMl"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -955,22 +955,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Dream Voucher",
-        "url": "https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ"
-      },
-      "artists": [
-        {
-          "name": "Rannar Sillard",
-          "url": "https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5"
-        }
-      ],
-      "duration_ms": 155039,
-      "name": "Dream Voucher",
-      "url": "https://open.spotify.com/track/2T6wyxLBkQ4Y2ZjTbpuYfr"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 146624,
       "name": "Violin Lullaby",
       "url": "https://open.spotify.com/track/4j48DHJh8QgMeLJyScpRAd"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Dream Voucher",
+        "url": "https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ"
+      },
+      "artists": [
+        {
+          "name": "Rannar Sillard",
+          "url": "https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5"
+        }
+      ],
+      "duration_ms": 155039,
+      "name": "Dream Voucher",
+      "url": "https://open.spotify.com/track/2T6wyxLBkQ4Y2ZjTbpuYfr"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Mandala Spirit",
-        "url": "https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z"
-      },
-      "artists": [
-        {
-          "name": "Danyel Varda",
-          "url": "https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB"
-        }
-      ],
-      "duration_ms": 219716,
-      "name": "Bloom Bliss",
-      "url": "https://open.spotify.com/track/2ejyYxHNXikzuncD5akHGo"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "A Missing Piece",
         "url": "https://open.spotify.com/album/5N4as2iSANQpt1HIUa0wYv"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 160500,
       "name": "\u68a6\u8776 - Dream to be a butterfly",
       "url": "https://open.spotify.com/track/2hkPUEsERVGoI4DxfZjUj5"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Mandala Spirit",
+        "url": "https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z"
+      },
+      "artists": [
+        {
+          "name": "Danyel Varda",
+          "url": "https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB"
+        }
+      ],
+      "duration_ms": 219716,
+      "name": "Bloom Bliss",
+      "url": "https://open.spotify.com/track/2ejyYxHNXikzuncD5akHGo"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "unspoken",
-        "url": "https://open.spotify.com/album/13YgCo3QU3MKCB5d75wpAI"
-      },
-      "artists": [
-        {
-          "name": "Rosetta Arroyo",
-          "url": "https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "anywhere",
-      "url": "https://open.spotify.com/track/72vxTKMDAc9eh7Nb8wgpHU"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Monument",
         "url": "https://open.spotify.com/album/05oo8Bv67GY4iClgCrG6jv"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 195428,
       "name": "As She Awakens",
       "url": "https://open.spotify.com/track/1tZxzyEBPmsMTOpc6t005r"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "unspoken",
+        "url": "https://open.spotify.com/album/13YgCo3QU3MKCB5d75wpAI"
+      },
+      "artists": [
+        {
+          "name": "Rosetta Arroyo",
+          "url": "https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "anywhere",
+      "url": "https://open.spotify.com/track/72vxTKMDAc9eh7Nb8wgpHU"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1592,9 +1592,9 @@
           "url": "https://open.spotify.com/artist/34fDpfsOWv8Z8r7A1goy8N"
         }
       ],
-      "duration_ms": 540266,
-      "name": "I Found Me",
-      "url": "https://open.spotify.com/track/4Kq5Ot6UX0b1TRZ3w7k45I"
+      "duration_ms": 490263,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/61IRuGBTbIXT1yl2OtAUwu"
     },
     {
       "added_at": "2021-06-24 10:58:44",

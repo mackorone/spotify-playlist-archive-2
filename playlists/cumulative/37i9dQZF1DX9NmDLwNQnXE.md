@@ -4,7 +4,7 @@
 
 > Relax to the sound of a storm setting in.
 
-451 songs - 20 hr 21 min
+452 songs - 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,10 +168,11 @@
 | [Lightning](https://open.spotify.com/track/17T1PhUwVor4Q4ZdqhkVL7) | [Polar Night](https://open.spotify.com/artist/58Xze2XUNJqUmL3oCmLPcR) | [Rumbling Storm](https://open.spotify.com/album/4Lc0u3AHqUcO9d9gSx9wak) | 3:36 | 2021-11-10 |  |
 | [Lightning And Thunder](https://open.spotify.com/track/1lkHaXezlWJshqGMM4guvZ) | [Attono](https://open.spotify.com/artist/4t29lXsw1uTqtI0Gzj00Cu) | [Storm Lures](https://open.spotify.com/album/4qXurMTFdoRNa9AcYnH7V6) | 3:36 | 2021-11-10 | 2026-01-24 |
 | [Lightning in the Rain](https://open.spotify.com/track/6d0kV5XiW515IZ0TFYeN7W) | [Tornadoez](https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM) | [Rainy Day Reflections](https://open.spotify.com/album/7ie9f4EfydmH3rmTg049vx) | 2:51 | 2023-06-15 |  |
+| [Lightning Road](https://open.spotify.com/track/4mT0IoosbHPTZUOGKjYEEk) | [Exotic Thunder & Rain](https://open.spotify.com/artist/6AEnJuV30ZBpEn1UqSLAHF) | [Lightning Road](https://open.spotify.com/album/1AEQdbBhRAjuT2HD9gsTBC) | 2:59 | 2025-12-19 |  |
 | [Lincoln Way Rain](https://open.spotify.com/track/1JWlvNpLfNzUADfdGxIWeV) | [Granular FX](https://open.spotify.com/artist/6SVaii2FdnEI4ssRydFvmu) | [San Fran Rain](https://open.spotify.com/album/6lYjuIVLa2ZpjUtNO6qwWR) | 2:35 | 2021-11-10 |  |
 | [Lit up Sky](https://open.spotify.com/track/7gqGg9Fax0OdHyOcpatuL3) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2023-02-13 | 2024-03-09 |
 | [Lluvia torrencial](https://open.spotify.com/track/4Y7LiWeExsPhEzmwI4Wh8p) | [Artipico](https://open.spotify.com/artist/2skwHFBBbBoFXMN5Nl4hyi) | [Lluvia intensa y truenos](https://open.spotify.com/album/0LSAa0GT0nTjOE3HH6ohpr) | 2:38 | 2021-11-10 |  |
-| [Longing for rain](https://open.spotify.com/track/3UGkG7AQidJX6tZs61sO15) | [Zuni](https://open.spotify.com/artist/4im5G9baIDRzJa4xpPdDz6) | [Longing for rain](https://open.spotify.com/album/3UfahjT8MpQBn96FWzGN53) | 2:27 | 2021-11-10 |  |
+| [Longing for rain](https://open.spotify.com/track/3UGkG7AQidJX6tZs61sO15) | [Zuni](https://open.spotify.com/artist/4im5G9baIDRzJa4xpPdDz6) | [Longing for rain](https://open.spotify.com/album/3UfahjT8MpQBn96FWzGN53) | 2:27 | 2021-11-10 | 2026-01-29 |
 | [Lost Storm](https://open.spotify.com/track/2JkbVtxphbwx8NbUM0LbDy) | [Tropopauss](https://open.spotify.com/artist/39slw3vmpTEUxDG0HtkA01) | [Forest Storm](https://open.spotify.com/album/5Ub4jWgsvXx7z5LxvBXW1D) | 1:39 | 2021-11-10 | 2023-06-16 |
 | [Lotus Rain](https://open.spotify.com/track/0cYf8BBWyP83Q6uxqjkSel) | [Adio](https://open.spotify.com/artist/1u9z4r9MRMjVc4t2bI2z4W) | [Lotus Rain](https://open.spotify.com/album/6SeFBqjQUAF0s2JVaoU8eJ) | 2:04 | 2021-11-10 |  |
 | [Low Rumble of Rain and Thunder](https://open.spotify.com/track/1xxD524mnciVxvx1xQK3bJ) | [Leonard Poole](https://open.spotify.com/artist/4GKxXMgOwnbnvJN797HsDO) | [Hard Patio Rain with Thunder](https://open.spotify.com/album/6InpReae8r9WVfr0Z1I4wY) | 2:35 | 2023-02-13 |  |

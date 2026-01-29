@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1YHDlXYlFX.md) - [plain]
 
 > enjoy the BROWN EYED SOUL CONCERT \[SOUL Tricycle\] LIVE SET including the voices of them on stage! \(브라운 아이드 소울의 무대 멘트와 목소리가 포함된 \[SOUL Tricycle\]  콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 376 likes - 26 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 474 likes - 26 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

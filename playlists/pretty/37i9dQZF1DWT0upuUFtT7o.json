@@ -1,13 +1,321 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Mackeeper\n",
-  "num_followers": 254277,
+  "num_followers": 254300,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAxz5aurHFjEL0KuqtLlbAc1UMmH",
+  "snapshot_id": "AAAAAD7bpZPQ0kJYWSzWzw0LEmUTRV5N",
   "tracks": [
+    {
+      "added_at": "2026-01-28 17:00:07",
+      "album": {
+        "name": "Kiss&Tell",
+        "url": "https://open.spotify.com/album/5CgOkBTj7cHrqC6r5O3SzR"
+      },
+      "artists": [
+        {
+          "name": "GUINEVERE",
+          "url": "https://open.spotify.com/artist/1aLFv51RG1QPZfYtlF8ood"
+        }
+      ],
+      "duration_ms": 225477,
+      "name": "Kiss&Tell",
+      "url": "https://open.spotify.com/track/0yXTpkFo1pZbyC5kavCgq9"
+    },
+    {
+      "added_at": "2026-01-28 17:00:07",
+      "album": {
+        "name": "IDIED",
+        "url": "https://open.spotify.com/album/6xfGkbJGN9P8a79I6lNxXU"
+      },
+      "artists": [
+        {
+          "name": "willoh",
+          "url": "https://open.spotify.com/artist/6v2hMJj6ubSkm1Moc8zhTy"
+        }
+      ],
+      "duration_ms": 130243,
+      "name": "IDIED",
+      "url": "https://open.spotify.com/track/27EndTXJMq8cxMbqAGtCuR"
+    },
+    {
+      "added_at": "2026-01-28 17:00:07",
+      "album": {
+        "name": "feeling",
+        "url": "https://open.spotify.com/album/21woMWD0gB23EkVvdPruJJ"
+      },
+      "artists": [
+        {
+          "name": "heartbleeder",
+          "url": "https://open.spotify.com/artist/50ILRM1ASU9bh0NxSCiLih"
+        }
+      ],
+      "duration_ms": 186552,
+      "name": "feeling",
+      "url": "https://open.spotify.com/track/67uSWA86IXxTdTMm6psIJm"
+    },
+    {
+      "added_at": "2026-01-28 17:00:07",
+      "album": {
+        "name": "Hibiscus",
+        "url": "https://open.spotify.com/album/16xUaFfdxnpmb17DzzJPzn"
+      },
+      "artists": [
+        {
+          "name": "Carr\u00e9",
+          "url": "https://open.spotify.com/artist/4OvPiX5d1CRMoTuqvoq202"
+        },
+        {
+          "name": "Bbyafricka",
+          "url": "https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W"
+        }
+      ],
+      "duration_ms": 179808,
+      "name": "Hibiscus",
+      "url": "https://open.spotify.com/track/3DAkxGV8Wk1QCrmBnl9m5R"
+    },
+    {
+      "added_at": "2026-01-21 17:00:04",
+      "album": {
+        "name": "When england comes",
+        "url": "https://open.spotify.com/album/5GHoySgrasrewtuUWFlDAX"
+      },
+      "artists": [
+        {
+          "name": "Pollyfromthedirt",
+          "url": "https://open.spotify.com/artist/3mNIIIyyVyJvCeO3ZpqlpM"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "When england comes",
+      "url": "https://open.spotify.com/track/2TcUaZUxjRv2Iwo0BVhKSF"
+    },
+    {
+      "added_at": "2026-01-28 17:00:07",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/06PUnJyQYyhVD8zxBesltR"
+      },
+      "artists": [
+        {
+          "name": "Freddie Perfect",
+          "url": "https://open.spotify.com/artist/52dKvcWBo89XwpOKcoDCJW"
+        }
+      ],
+      "duration_ms": 196861,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/3ioWK5a9iVHOfcOnELrdWV"
+    },
+    {
+      "added_at": "2026-01-28 17:00:07",
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/26rQT8rF76BUqddeqISZ74"
+      },
+      "artists": [
+        {
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+        }
+      ],
+      "duration_ms": 200275,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/5qmASqXmHpe3dDQPhigjC4"
+    },
+    {
+      "added_at": "2026-01-21 17:00:04",
+      "album": {
+        "name": "Thought of You",
+        "url": "https://open.spotify.com/album/21987lXhmCn3CovoWKDU88"
+      },
+      "artists": [
+        {
+          "name": "Wulfer",
+          "url": "https://open.spotify.com/artist/0YBx9RunjSU2iPXSgj4GiN"
+        }
+      ],
+      "duration_ms": 137684,
+      "name": "Thought of You",
+      "url": "https://open.spotify.com/track/3euwmPkA6UHBKmuBjO7iXF"
+    },
+    {
+      "added_at": "2026-01-28 17:00:07",
+      "album": {
+        "name": "Beadie",
+        "url": "https://open.spotify.com/album/07OLVwgWErQyUnhavirYQy"
+      },
+      "artists": [
+        {
+          "name": "Sluice",
+          "url": "https://open.spotify.com/artist/2G2lzG0hD7813EiPyiCC4j"
+        }
+      ],
+      "duration_ms": 240752,
+      "name": "Beadie",
+      "url": "https://open.spotify.com/track/2epCOFnQDllhDFAaxO3mx2"
+    },
+    {
+      "added_at": "2026-01-28 17:00:07",
+      "album": {
+        "name": "American Road In New Jersey",
+        "url": "https://open.spotify.com/album/5QJpKz8endSwMmGRS6uXc2"
+      },
+      "artists": [
+        {
+          "name": "American Road In New Jersey",
+          "url": "https://open.spotify.com/artist/3klEuYX9zLbx9N3acT774Y"
+        }
+      ],
+      "duration_ms": 288012,
+      "name": "Traces Of Blue",
+      "url": "https://open.spotify.com/track/50sfk0qPotJei0sFDCzbzA"
+    },
+    {
+      "added_at": "2026-01-28 20:36:55",
+      "album": {
+        "name": "Texas Relation",
+        "url": "https://open.spotify.com/album/7IzxJFc9anPRTHPg8NffUP"
+      },
+      "artists": [
+        {
+          "name": "TV Star",
+          "url": "https://open.spotify.com/artist/4Rx3d0YJRjp5JDiCptaora"
+        }
+      ],
+      "duration_ms": 181626,
+      "name": "Texas Relation",
+      "url": "https://open.spotify.com/track/4DfnE16NoQSEnbIhfsYlKh"
+    },
+    {
+      "added_at": "2026-01-14 17:37:13",
+      "album": {
+        "name": "Pants on fire",
+        "url": "https://open.spotify.com/album/0ninOohrgxxcpkCKfozNjc"
+      },
+      "artists": [
+        {
+          "name": "the sound chalk makes",
+          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
+        }
+      ],
+      "duration_ms": 97500,
+      "name": "4wheelpharmacy",
+      "url": "https://open.spotify.com/track/0LMlZRkPE804SQSQDCHyz1"
+    },
+    {
+      "added_at": "2026-01-14 17:37:13",
+      "album": {
+        "name": "Centralia",
+        "url": "https://open.spotify.com/album/0ovV2Ev2jH4e5MuBgA0XBE"
+      },
+      "artists": [
+        {
+          "name": "Mackeeper",
+          "url": "https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Centralia",
+      "url": "https://open.spotify.com/track/253g0G4Hvl2xVvmlsjkRV5"
+    },
+    {
+      "added_at": "2026-01-28 17:00:07",
+      "album": {
+        "name": "places",
+        "url": "https://open.spotify.com/album/5uCT1Ur7IhnT2AlPVrTWBE"
+      },
+      "artists": [
+        {
+          "name": "backyardaughter",
+          "url": "https://open.spotify.com/artist/0cxWOtF4A8OGrziwQa3wtR"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "places",
+      "url": "https://open.spotify.com/track/3TywLVNKOfT9tkG6Z855G6"
+    },
+    {
+      "added_at": "2026-01-28 17:00:07",
+      "album": {
+        "name": "Others",
+        "url": "https://open.spotify.com/album/43iVpdb7rQis7mkwN8UgcJ"
+      },
+      "artists": [
+        {
+          "name": "aoif3",
+          "url": "https://open.spotify.com/artist/4r4x3dgCX2GkiNdarvSbst"
+        }
+      ],
+      "duration_ms": 199610,
+      "name": "Others",
+      "url": "https://open.spotify.com/track/4a4xlgAyDbt8nw3BDgEyvQ"
+    },
+    {
+      "added_at": "2026-01-28 17:00:07",
+      "album": {
+        "name": "Watchdog",
+        "url": "https://open.spotify.com/album/7qZDd6Eogm98HLniECz0dF"
+      },
+      "artists": [
+        {
+          "name": "Caroline Carter",
+          "url": "https://open.spotify.com/artist/3pQCTq5sPCkRV8yOD5dzvR"
+        }
+      ],
+      "duration_ms": 217231,
+      "name": "Watchdog",
+      "url": "https://open.spotify.com/track/5yNAVvK6Xy8ugiPwGB36Si"
+    },
+    {
+      "added_at": "2026-01-28 17:00:07",
+      "album": {
+        "name": "What Kind of Man",
+        "url": "https://open.spotify.com/album/76GNBPdGwlWEZqpZwMO26W"
+      },
+      "artists": [
+        {
+          "name": "Ingrid",
+          "url": "https://open.spotify.com/artist/2hgF3e8mroWl4JbVP7zdjO"
+        }
+      ],
+      "duration_ms": 202282,
+      "name": "What Kind of Man",
+      "url": "https://open.spotify.com/track/0MID0fQyT7ExP2U0jXv3cO"
+    },
+    {
+      "added_at": "2026-01-28 17:00:07",
+      "album": {
+        "name": "Burnout/Boys",
+        "url": "https://open.spotify.com/album/5l4cd4KdvAg1MtfW1KqOwz"
+      },
+      "artists": [
+        {
+          "name": "Ski Team",
+          "url": "https://open.spotify.com/artist/7CAWVNv92kzOn5HvsHzaxO"
+        }
+      ],
+      "duration_ms": 251780,
+      "name": "Gilroy",
+      "url": "https://open.spotify.com/track/3nXCPJXBfSbsrU6o3ZWYaB"
+    },
+    {
+      "added_at": "2026-01-28 17:00:07",
+      "album": {
+        "name": "Broken in Bold",
+        "url": "https://open.spotify.com/album/6QNthe4txoU9C37Iuu2MDh"
+      },
+      "artists": [
+        {
+          "name": "Rozie Ramati",
+          "url": "https://open.spotify.com/artist/3GzbAOojSz4h2yUjljyg3H"
+        }
+      ],
+      "duration_ms": 269792,
+      "name": "Broken in Bold",
+      "url": "https://open.spotify.com/track/0qL3c4suahEC8Sdk3GA6G3"
+    },
     {
       "added_at": "2026-01-21 17:00:04",
       "album": {
@@ -27,70 +335,6 @@
       "duration_ms": 194200,
       "name": "Silver, Shining",
       "url": "https://open.spotify.com/track/48UPH6BgZrgDzjlLrPj6He"
-    },
-    {
-      "added_at": "2026-01-21 17:00:04",
-      "album": {
-        "name": "Thought of You",
-        "url": "https://open.spotify.com/album/21987lXhmCn3CovoWKDU88"
-      },
-      "artists": [
-        {
-          "name": "Wulfer",
-          "url": "https://open.spotify.com/artist/0YBx9RunjSU2iPXSgj4GiN"
-        }
-      ],
-      "duration_ms": 137684,
-      "name": "Thought of You",
-      "url": "https://open.spotify.com/track/3euwmPkA6UHBKmuBjO7iXF"
-    },
-    {
-      "added_at": "2026-01-21 17:00:04",
-      "album": {
-        "name": "When england comes",
-        "url": "https://open.spotify.com/album/5GHoySgrasrewtuUWFlDAX"
-      },
-      "artists": [
-        {
-          "name": "Pollyfromthedirt",
-          "url": "https://open.spotify.com/artist/3mNIIIyyVyJvCeO3ZpqlpM"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "When england comes",
-      "url": "https://open.spotify.com/track/2TcUaZUxjRv2Iwo0BVhKSF"
-    },
-    {
-      "added_at": "2026-01-14 17:37:13",
-      "album": {
-        "name": "Centralia",
-        "url": "https://open.spotify.com/album/0ovV2Ev2jH4e5MuBgA0XBE"
-      },
-      "artists": [
-        {
-          "name": "Mackeeper",
-          "url": "https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Centralia",
-      "url": "https://open.spotify.com/track/253g0G4Hvl2xVvmlsjkRV5"
-    },
-    {
-      "added_at": "2026-01-14 17:37:13",
-      "album": {
-        "name": "Pants on fire",
-        "url": "https://open.spotify.com/album/0ninOohrgxxcpkCKfozNjc"
-      },
-      "artists": [
-        {
-          "name": "the sound chalk makes",
-          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
-        }
-      ],
-      "duration_ms": 97500,
-      "name": "4wheelpharmacy",
-      "url": "https://open.spotify.com/track/0LMlZRkPE804SQSQDCHyz1"
     },
     {
       "added_at": "2026-01-21 17:00:04",

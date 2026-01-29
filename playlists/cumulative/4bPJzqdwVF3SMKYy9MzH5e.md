@@ -4,7 +4,7 @@
 
 > 
 
-2,331 songs - 5 day 5 hr 12 min
+2,332 songs - 5 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -557,6 +557,7 @@
 | [Different State of Mind](https://open.spotify.com/track/0ZA43HPPeTVV7hPoFlLeR2) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Different State of Mind](https://open.spotify.com/album/3HZNi3qWzDGjm4FZgfFY9S) | 3:45 | 2022-05-10 |  |
 | [Digital Bath](https://open.spotify.com/track/5jNgH55JJuDBRTDJcTI9YY) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/57KFwKnC0ZjaIQGnhE7ops) | 4:15 | 2022-04-03 |  |
 | [Dinner Jacket](https://open.spotify.com/track/2oSx0hq55KJiVzuvUfu5qf) | [Gaffa Tape Sandy](https://open.spotify.com/artist/00P2dAOymeYKFx4OSaVgw1) | [Family Mammal](https://open.spotify.com/album/1BO7FtrmddhXgemo7FDukl) | 2:41 | 2021-08-05 |  |
+| [Dirty Harry \(feat\. Bootie Brown\)](https://open.spotify.com/track/2bfGNzdiRa1jXZRdfssSzR) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:50 | 2026-01-28 |  |
 | [Disaster](https://open.spotify.com/track/0PGAJ37n4O2AslZosr1YGx) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7CkXrZnfmghdA4n2YLTgag) | 1:24 | 2022-02-04 |  |
 | [Disasterpiece](https://open.spotify.com/track/47VSmPTydr0saGjbQGwCeg) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa \(10th Anniversary Edition\)](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 5:08 | 2022-04-03 |  |
 | [Discord](https://open.spotify.com/track/611nlMA40SKg9gQ4pTVXT3) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF), [Eurobeat Brony](https://open.spotify.com/artist/2uDaDi5TsgEtUBCPRx7mlp) | [Discord](https://open.spotify.com/album/43zCo4E3RoYyj2tkeZWJCF) | 3:13 | 2021-08-05 |  |

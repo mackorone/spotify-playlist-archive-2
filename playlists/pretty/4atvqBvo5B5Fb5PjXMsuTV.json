@@ -1,13 +1,45 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 27 Jan 19:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 28 Jan 19:04 UTC.",
   "num_followers": 104,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAXZ3HUZKQ/Q2c4coNKRgZ+wduHSBof",
+  "snapshot_id": "AAAXa3JUznvfuWcD7K/T7R31oHsh0gJe",
   "tracks": [
+    {
+      "added_at": "2026-01-28 19:04:01",
+      "album": {
+        "name": "Afraid Of The Dark",
+        "url": "https://open.spotify.com/album/7e9ka8itzOI5qCIKXIyCy2"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "duration_ms": 278416,
+      "name": "Afraid Of The Dark",
+      "url": "https://open.spotify.com/track/46odPfzMypgxCBMUPmdKxr"
+    },
+    {
+      "added_at": "2026-01-28 04:03:26",
+      "album": {
+        "name": "cloud palace ~ false awakening",
+        "url": "https://open.spotify.com/album/5tWqAvfjjRelNvWFNrV8hK"
+      },
+      "artists": [
+        {
+          "name": "Billlie",
+          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
+        }
+      ],
+      "duration_ms": 201771,
+      "name": "cloud palace",
+      "url": "https://open.spotify.com/track/1dsuEyZ0ZPgL7Z1HAaFSek"
+    },
     {
       "added_at": "2026-01-27 14:03:37",
       "album": {
@@ -39,6 +71,22 @@
       "duration_ms": 144277,
       "name": "Sold Pain",
       "url": "https://open.spotify.com/track/2aL8pTto82Oyv1ljSs9LMi"
+    },
+    {
+      "added_at": "2026-01-28 19:04:01",
+      "album": {
+        "name": "LAMENTE",
+        "url": "https://open.spotify.com/album/1w727HKCtYpl6OUdznZOfx"
+      },
+      "artists": [
+        {
+          "name": "Skybreak",
+          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
+        }
+      ],
+      "duration_ms": 230204,
+      "name": "LAMENTE",
+      "url": "https://open.spotify.com/track/059AXPNP16IoFf7uqujfo5"
     },
     {
       "added_at": "2026-01-23 19:04:28",
@@ -387,6 +435,22 @@
       "duration_ms": 193000,
       "name": "Feels Like Heaven",
       "url": "https://open.spotify.com/track/1jWjsj9YKDoYhTVoZnSivY"
+    },
+    {
+      "added_at": "2026-01-28 04:03:26",
+      "album": {
+        "name": "Sea Lion",
+        "url": "https://open.spotify.com/album/5e5UA8XD80FadZofnjyEhK"
+      },
+      "artists": [
+        {
+          "name": "Yuno Miles",
+          "url": "https://open.spotify.com/artist/6gtIvaBCrswcltfMt67LMn"
+        }
+      ],
+      "duration_ms": 119025,
+      "name": "Sea Lion",
+      "url": "https://open.spotify.com/track/0hhRMocyreRyIWssBZDkth"
     },
     {
       "added_at": "2026-01-26 14:03:42",
@@ -759,86 +823,6 @@
       "duration_ms": 211031,
       "name": "I Ran (So Far Away)",
       "url": "https://open.spotify.com/track/2tFcYLM3T3PWy0SsGHwOkv"
-    },
-    {
-      "added_at": "2026-01-16 09:03:56",
-      "album": {
-        "name": "Lie2Me",
-        "url": "https://open.spotify.com/album/2QTHMP85Cv6nailkHfiljF"
-      },
-      "artists": [
-        {
-          "name": "DC The Don",
-          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
-        }
-      ],
-      "duration_ms": 183420,
-      "name": "Lie2Me",
-      "url": "https://open.spotify.com/track/4qQMsoWlwvj2xtriAZ8LD4"
-    },
-    {
-      "added_at": "2026-01-16 09:03:56",
-      "album": {
-        "name": "One of Them Ones",
-        "url": "https://open.spotify.com/album/6jNOjglo1MftJZvOpCIZIT"
-      },
-      "artists": [
-        {
-          "name": "Veeze",
-          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "One of Them Ones",
-      "url": "https://open.spotify.com/track/6f0UpQ2qdNevj7NARngtna"
-    },
-    {
-      "added_at": "2026-01-17 04:03:26",
-      "album": {
-        "name": "Most Wanted",
-        "url": "https://open.spotify.com/album/3aYuquvInx2lScw9Nec6bP"
-      },
-      "artists": [
-        {
-          "name": "Leigh-Anne",
-          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
-        },
-        {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        }
-      ],
-      "duration_ms": 135023,
-      "name": "Most Wanted",
-      "url": "https://open.spotify.com/track/6HCuHO6mo1IHkVFP3MYhGc"
-    },
-    {
-      "added_at": "2026-01-16 23:03:42",
-      "album": {
-        "name": "Adversary",
-        "url": "https://open.spotify.com/album/2wwNHRODV8dHkkGdmBVkTZ"
-      },
-      "artists": [
-        {
-          "name": "Immolation",
-          "url": "https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt"
-        }
-      ],
-      "duration_ms": 197207,
-      "name": "Adversary",
-      "url": "https://open.spotify.com/track/1RkatIutosjkROaLQyVOpX"
     }
   ],
   "unique_name": "New Singles Now",

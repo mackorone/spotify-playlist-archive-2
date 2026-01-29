@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. (Cover: \ubaa8\ubaa8\ub79c\ub4dc (MOMOLAND)) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. (Cover: Billlie (\ube4c\ub9ac)) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "tracks": [
     {
@@ -956,7 +956,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 168000,
       "name": "Bubble Gum Girl",
       "url": "https://open.spotify.com/track/38bky5ZuZZFlBmbphLBgaZ"
@@ -1428,6 +1428,24 @@
       "duration_ms": 216937,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/1DS38HjEoXLWnPeIoyI2X9"
+    },
+    {
+      "album": {
+        "name": "cloud palace ~ false awakening",
+        "url": "https://open.spotify.com/album/5tWqAvfjjRelNvWFNrV8hK"
+      },
+      "artists": [
+        {
+          "name": "Billlie",
+          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201771,
+      "name": "cloud palace",
+      "url": "https://open.spotify.com/track/1dsuEyZ0ZPgL7Z1HAaFSek"
     },
     {
       "album": {
@@ -1990,6 +2008,24 @@
       "duration_ms": 185506,
       "name": "Ditto",
       "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
+    },
+    {
+      "album": {
+        "name": "Delulu Pack",
+        "url": "https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152506,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/4s9oSXicaDxIvCTjOZq2o8"
     },
     {
       "album": {
@@ -6194,7 +6230,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 131000,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/09Kgz5rQuikCMwaB3eqevM"
@@ -6248,7 +6284,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 181760,
       "name": "Queendom",
       "url": "https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ"
@@ -8332,7 +8368,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 159000,
       "name": "UFO (ATTENT!ON)",
       "url": "https://open.spotify.com/track/0u5b93C2mDGVfCsMGCdH6T"

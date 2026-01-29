@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring Los Aptos.",
-  "num_followers": 167905,
+  "num_followers": 167919,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-01-16 05:00:45",
       "album": {
-        "name": "El Ritmo",
-        "url": "https://open.spotify.com/album/3e0Im6f2QeMtz5ERCDynX3"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 308400,
-      "name": "El Ritmo",
-      "url": "https://open.spotify.com/track/13VigTJf6awaWDBVbpcNmw"
-    },
-    {
-      "added_at": "2026-01-16 05:00:45",
-      "album": {
         "name": "PRISIONERO PERFECTO",
         "url": "https://open.spotify.com/album/1iZUvTbyBqeHSX1L7X2rBf"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 204976,
       "name": "PRISIONERO PERFECTO",
       "url": "https://open.spotify.com/track/6zqbssgW1Sz2eHwYN258DE"
+    },
+    {
+      "added_at": "2026-01-16 05:00:45",
+      "album": {
+        "name": "El Ritmo",
+        "url": "https://open.spotify.com/album/3e0Im6f2QeMtz5ERCDynX3"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 308400,
+      "name": "El Ritmo",
+      "url": "https://open.spotify.com/track/13VigTJf6awaWDBVbpcNmw"
     },
     {
       "added_at": "2026-01-16 05:00:45",

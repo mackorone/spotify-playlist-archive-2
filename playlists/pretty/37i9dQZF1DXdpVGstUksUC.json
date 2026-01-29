@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 546268,
+  "num_followers": 546277,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "No Comfort",
-        "url": "https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0"
-      },
-      "artists": [
-        {
-          "name": "Monolord",
-          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
-        }
-      ],
-      "duration_ms": 314656,
-      "name": "The Last Leaf",
-      "url": "https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Blood Lust",
         "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 301493,
       "name": "I'll Cut You Down",
       "url": "https://open.spotify.com/track/3tBbcuulKDC1o2odykT18R"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "No Comfort",
+        "url": "https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0"
+      },
+      "artists": [
+        {
+          "name": "Monolord",
+          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
+        }
+      ],
+      "duration_ms": 314656,
+      "name": "The Last Leaf",
+      "url": "https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Buffalo Fuzz",
-        "url": "https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Fuzz",
-          "url": "https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF"
-        }
-      ],
-      "duration_ms": 325313,
-      "name": "Perfect Man",
-      "url": "https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Blood Lust",
         "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 435200,
       "name": "Death's Door",
       "url": "https://open.spotify.com/track/1UghmqyvyKeXpF1LsrBa2E"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Buffalo Fuzz",
+        "url": "https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Fuzz",
+          "url": "https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF"
+        }
+      ],
+      "duration_ms": 325313,
+      "name": "Perfect Man",
+      "url": "https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Dopesmoker",
-        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
-      },
-      "artists": [
-        {
-          "name": "Sleep",
-          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
-        }
-      ],
-      "duration_ms": 505196,
-      "name": "Hot Lava Man",
-      "url": "https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "There is Nothing New Under the Sun",
         "url": "https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 237424,
       "name": "There is Nothing New Under the Sun",
       "url": "https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Dopesmoker",
+        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
+      },
+      "artists": [
+        {
+          "name": "Sleep",
+          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
+        }
+      ],
+      "duration_ms": 505196,
+      "name": "Hot Lava Man",
+      "url": "https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Ode To IO",
-        "url": "https://open.spotify.com/album/0pu7grkQZ9rCK1ftl2DcYj"
-      },
-      "artists": [
-        {
-          "name": "Lowrider",
-          "url": "https://open.spotify.com/artist/2ofc2suzjVzbu2EVToSKHW"
-        }
-      ],
-      "duration_ms": 366333,
-      "name": "Riding Shotgun",
-      "url": "https://open.spotify.com/track/4h4k0Si2wh2mCxfyo1jiNm"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Dos E.P.'s",
         "url": "https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 328960,
       "name": "Smokin' Woman",
       "url": "https://open.spotify.com/track/3As9x85QW00A257ahhwKLr"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Ode To IO",
+        "url": "https://open.spotify.com/album/0pu7grkQZ9rCK1ftl2DcYj"
+      },
+      "artists": [
+        {
+          "name": "Lowrider",
+          "url": "https://open.spotify.com/artist/2ofc2suzjVzbu2EVToSKHW"
+        }
+      ],
+      "duration_ms": 366333,
+      "name": "Riding Shotgun",
+      "url": "https://open.spotify.com/track/4h4k0Si2wh2mCxfyo1jiNm"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Get What You Deserve",
-        "url": "https://open.spotify.com/album/7EYbyvtr4Bxu2JaNr3gI9f"
-      },
-      "artists": [
-        {
-          "name": "Stoned Jesus",
-          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
-        }
-      ],
-      "duration_ms": 550665,
-      "name": "Get What You Deserve",
-      "url": "https://open.spotify.com/track/7yJLpY537kdnfqW1lAerP3"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/3fLLE6oA9YHm1NsZwrKvpF"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 311546,
       "name": "Gold",
       "url": "https://open.spotify.com/track/07BVvXzxEW7rVevyzMGoRY"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Get What You Deserve",
+        "url": "https://open.spotify.com/album/7EYbyvtr4Bxu2JaNr3gI9f"
+      },
+      "artists": [
+        {
+          "name": "Stoned Jesus",
+          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
+        }
+      ],
+      "duration_ms": 550665,
+      "name": "Get What You Deserve",
+      "url": "https://open.spotify.com/track/7yJLpY537kdnfqW1lAerP3"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Unemployment Office",
-        "url": "https://open.spotify.com/album/3pPCeH1QA2JtRdbd0ggwLk"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 204181,
-      "name": "Unemployment Office",
-      "url": "https://open.spotify.com/track/4D1lsLazP8nXS36QdwYQ4l"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Tested By Death",
         "url": "https://open.spotify.com/album/0GZ3kOIZdziDYGg585OUBb"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 512011,
       "name": "Tested By Death",
       "url": "https://open.spotify.com/track/0m6wZIKsMjBfReiuCTkaYz"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Unemployment Office",
+        "url": "https://open.spotify.com/album/3pPCeH1QA2JtRdbd0ggwLk"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "duration_ms": 204181,
+      "name": "Unemployment Office",
+      "url": "https://open.spotify.com/track/4D1lsLazP8nXS36QdwYQ4l"
     },
     {
       "added_at": "2024-07-19 04:00:00",

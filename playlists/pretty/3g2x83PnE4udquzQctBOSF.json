@@ -1,13 +1,33 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2674,
+  "num_followers": 2673,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARUtxH4y4dJN7QwmIcVkBXnN0vQie3",
+  "snapshot_id": "AAARU9PyBgyiS3DKeYtfgCTraMRWLyih",
   "tracks": [
+    {
+      "added_at": "2026-01-28 11:39:39",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/6Q7CQUEFmgnH6YXVoRHJjG"
+      },
+      "artists": [
+        {
+          "name": "Andrea Moricone",
+          "url": "https://open.spotify.com/artist/5smRjMdumk9zNe6UQjc3eh"
+        },
+        {
+          "name": "Movha",
+          "url": "https://open.spotify.com/artist/3NOBj57odsPGBoHI9Q2BrN"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/2Q9XnnbrJrg8Tx33vLgBxZ"
+    },
     {
       "added_at": "2026-01-27 21:42:09",
       "album": {

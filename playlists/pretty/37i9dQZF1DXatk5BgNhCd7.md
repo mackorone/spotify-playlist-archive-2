@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo de música tropical 📸  Luis Fonsi & Feid.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,802 likes - 99 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,815 likes - 99 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 10 | [El Amor Es Más Grande Que Yo](https://open.spotify.com/track/4WbGZ2LdXJaQRmfEcdcLux) | [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3), [Los de Juancho](https://open.spotify.com/artist/0siN6HqX23qhrmnGZZvJLi) | [El Amor Es Más Grande Que Yo](https://open.spotify.com/album/2Cwqt0EVwlblSBp6PvXLGh) | 5:02 |
 | 11 | [Para Que No Me Duela Tanto](https://open.spotify.com/track/48wwk6gSgte0tj97f0qp0n) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [Para Que No Me Duela Tanto](https://open.spotify.com/album/1MZOF7gwYSTCKyPcGjnTeh) | 3:52 |
 | 12 | [Omara](https://open.spotify.com/track/3OwTYrkONcAMX14kHKsx3h) | [Son de Timba](https://open.spotify.com/artist/2d8e7gdLynIKppjIc70snc), [Tino JJ](https://open.spotify.com/artist/1zadl0UA8O0AYeSoMauChk) | [Omara](https://open.spotify.com/album/4FC0UAGeVbfJZFmfaIYHyJ) | 2:44 |
-| 13 | [La Luna y Tú / Una Ráfaga de Amor](https://open.spotify.com/track/37j7hnTkupJLbAvNzgXkl4) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [La Luna y Tú / Una Ráfaga de Amor](https://open.spotify.com/album/1xQCbgcSlEKXIjbSB0MuIb) | 5:37 |
+| 13 | [La Luna y Tú / Una Ráfaga de Amor \(En Vivo Estadio Vélez\)](https://open.spotify.com/track/37j7hnTkupJLbAvNzgXkl4) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [La Luna y Tú / Una Ráfaga de Amor \(En Vivo Estadio Vélez\)](https://open.spotify.com/album/1xQCbgcSlEKXIjbSB0MuIb) | 5:37 |
 | 14 | [Si Estuvieras Aquí](https://open.spotify.com/track/1ZthdulxOUHCiPtPs8UIDB) | [Los Hermanos Medina](https://open.spotify.com/artist/2QUO2NrRwGIaC1MLnzbfIh), [Pipe Calderón](https://open.spotify.com/artist/50TqpjP2iRI4hR1wCfVj3w) | [Si Estuvieras Aquí](https://open.spotify.com/album/5D52xaMHzqCROFT6fHZbiz) | 3:23 |
 | 15 | [María](https://open.spotify.com/track/0VSOwNFmBrMZvFpDMnd6bp) | [TREX](https://open.spotify.com/artist/11ebJm5pdVXzJNUjFXordo), [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe), [Pepe G](https://open.spotify.com/artist/753i8pkcJtqc0z82Zdgr9c) | [María](https://open.spotify.com/album/2wqMmHfJDNuhEhMxAbaoWk) | 3:19 |
 | 16 | [Mi Gran Maestro \- Montevideo Music Sessions](https://open.spotify.com/track/0rekCZBOnQQ7xtjukqeA8j) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Mi Gran Maestro \(Montevideo Music Sessions\)](https://open.spotify.com/album/4bEHL08FgsySG8mVwBIQxc) | 3:30 |

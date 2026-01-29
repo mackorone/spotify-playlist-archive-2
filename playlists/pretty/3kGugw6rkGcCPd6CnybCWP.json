@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAM+pcEZg+G4hpoHGdaPMeyqapuUUl9",
+  "snapshot_id": "AAAM/o6pFMinZPO4yH1rC9+n8AnrHqos",
   "tracks": [
     {
       "added_at": "2025-12-11 13:51:04",
@@ -811,6 +811,70 @@
       "duration_ms": 201578,
       "name": "lost my love",
       "url": "https://open.spotify.com/track/3nh18o0W0aAoXn0SmDec5E"
+    },
+    {
+      "added_at": "2026-01-28 10:33:51",
+      "album": {
+        "name": "Comisery",
+        "url": "https://open.spotify.com/album/46AwsxHKeMcmF4ebkExLuC"
+      },
+      "artists": [
+        {
+          "name": "Scott Middlin",
+          "url": "https://open.spotify.com/artist/5xQHsYgEBOprSATYk7ygPH"
+        }
+      ],
+      "duration_ms": 193750,
+      "name": "Comisery",
+      "url": "https://open.spotify.com/track/2lDOspc5bBM493KJT7r6it"
+    },
+    {
+      "added_at": "2026-01-28 10:34:50",
+      "album": {
+        "name": "Rooted on the Road",
+        "url": "https://open.spotify.com/album/1S1DoC1rXsONURycia5on5"
+      },
+      "artists": [
+        {
+          "name": "CLANDESTINA",
+          "url": "https://open.spotify.com/artist/0fCGnCJsfojMmsEi3v27TX"
+        }
+      ],
+      "duration_ms": 176923,
+      "name": "Rooted on the Road",
+      "url": "https://open.spotify.com/track/2yD1l6lXuQvvaSyj2Onuip"
+    },
+    {
+      "added_at": "2026-01-28 17:33:46",
+      "album": {
+        "name": "La Ciudad de las Estrellas",
+        "url": "https://open.spotify.com/album/7GSkEzkfsVnoy4uIykt7XE"
+      },
+      "artists": [
+        {
+          "name": "Pablopatodo",
+          "url": "https://open.spotify.com/artist/14owTErTcmgIPS30z27tBA"
+        }
+      ],
+      "duration_ms": 228178,
+      "name": "La Ciudad de las Estrellas",
+      "url": "https://open.spotify.com/track/677GnwOJwoEG51xaRdYMe4"
+    },
+    {
+      "added_at": "2026-01-28 17:34:33",
+      "album": {
+        "name": "Beautiful Fear",
+        "url": "https://open.spotify.com/album/2sAtb468bjoRr9YJsvSnpD"
+      },
+      "artists": [
+        {
+          "name": "Lillibet",
+          "url": "https://open.spotify.com/artist/5y9NYCtVotuZjlA8wkPoDe"
+        }
+      ],
+      "duration_ms": 232656,
+      "name": "Beautiful Fear",
+      "url": "https://open.spotify.com/track/2Q5xpVC50J31TqReHVIWk0"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

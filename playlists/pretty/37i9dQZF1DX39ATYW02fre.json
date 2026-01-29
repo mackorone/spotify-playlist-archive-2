@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 268355,
+  "num_followers": 268398,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
+        "name": "Pastoral",
+        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 220630,
+      "name": "Pastoral",
+      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
+    },
+    {
+      "added_at": "2026-01-23 00:00:37",
+      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/1VrpTWfDRK2pdzgGSoyDty"
       },
@@ -759,18 +775,18 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
-        "name": "Corner Of My Eye",
-        "url": "https://open.spotify.com/album/4O2rzyeqhC7yOFMlYvfNfB"
+        "name": "storm",
+        "url": "https://open.spotify.com/album/1nI4gPdghiiOav4iubD6d3"
       },
       "artists": [
         {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
         }
       ],
-      "duration_ms": 420906,
-      "name": "Corner Of My Eye",
-      "url": "https://open.spotify.com/track/6QALVDW1IdwKF2bAPKf0Wi"
+      "duration_ms": 248264,
+      "name": "storm",
+      "url": "https://open.spotify.com/track/7txKOajpjZ1ae6vDSnhliR"
     },
     {
       "added_at": "2026-01-23 00:00:37",
@@ -795,34 +811,18 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
-        "name": "storm",
-        "url": "https://open.spotify.com/album/1nI4gPdghiiOav4iubD6d3"
+        "name": "Corner Of My Eye",
+        "url": "https://open.spotify.com/album/4O2rzyeqhC7yOFMlYvfNfB"
       },
       "artists": [
         {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
         }
       ],
-      "duration_ms": 248264,
-      "name": "storm",
-      "url": "https://open.spotify.com/track/7txKOajpjZ1ae6vDSnhliR"
-    },
-    {
-      "added_at": "2026-01-23 00:00:37",
-      "album": {
-        "name": "Pastoral",
-        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 220630,
-      "name": "Pastoral",
-      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
+      "duration_ms": 420906,
+      "name": "Corner Of My Eye",
+      "url": "https://open.spotify.com/track/6QALVDW1IdwKF2bAPKf0Wi"
     },
     {
       "added_at": "2026-01-23 00:00:37",

@@ -852,7 +852,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 141469,
       "name": "Cimmerian Flute",
       "url": "https://open.spotify.com/track/2kks6umXippSrGIa7SN1dj"
@@ -982,7 +982,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 175200,
       "name": "Cosmic Slope",
       "url": "https://open.spotify.com/track/2OAc2EFPvTFwp4xAr3U5j1"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 146000,
       "name": "Dhyaan",
       "url": "https://open.spotify.com/track/4eB00dYAm1slRvqnE2c3Vu"
@@ -1198,7 +1198,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 154000,
       "name": "Dreams of Calmness",
       "url": "https://open.spotify.com/track/0n7hJpHTyo48IZ43NAKDP9"
@@ -1454,6 +1454,24 @@
       "duration_ms": 158117,
       "name": "Endless Path",
       "url": "https://open.spotify.com/track/6mXYoesQMKtTLpXf8akMkE"
+    },
+    {
+      "album": {
+        "name": "Entrance to the Sanctuary",
+        "url": "https://open.spotify.com/album/7AG5kHTJZ1VhZ32quH2xOI"
+      },
+      "artists": [
+        {
+          "name": "Harlan Silverman",
+          "url": "https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173034,
+      "name": "Entrance to the Sanctuary",
+      "url": "https://open.spotify.com/track/1mVlo2ippSO8AMSRYEpQpA"
     },
     {
       "album": {
@@ -1957,6 +1975,24 @@
     },
     {
       "album": {
+        "name": "Golden Court",
+        "url": "https://open.spotify.com/album/3Kl0n98Mg5cuDgqUOWEqA1"
+      },
+      "artists": [
+        {
+          "name": "Liam Eira",
+          "url": "https://open.spotify.com/artist/0DcmehohVqz1uugEjY6thE"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Golden Court",
+      "url": "https://open.spotify.com/track/6VqtEQ1Rfs2Qz4eV8zE6T1"
+    },
+    {
+      "album": {
         "name": "Golden Eagle",
         "url": "https://open.spotify.com/album/0P1vuAjz1CnXkkUm3XnQDG"
       },
@@ -2094,7 +2130,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 152000,
       "name": "Healing Flute",
       "url": "https://open.spotify.com/track/4xbjrq8rVOTIj8L1ZO1PQA"
@@ -2220,7 +2256,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 210045,
       "name": "Healing Waters",
       "url": "https://open.spotify.com/track/1xf8ik4evrkInc4MBK9FeF"
@@ -2390,7 +2426,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 200698,
       "name": "In Darkness & Light",
       "url": "https://open.spotify.com/track/0en8E24ctI01YglW8e83Zj"
@@ -3227,6 +3263,24 @@
     },
     {
       "album": {
+        "name": "Morning Prayers",
+        "url": "https://open.spotify.com/album/4OlKAoFSrhw7vwidIr4mSr"
+      },
+      "artists": [
+        {
+          "name": "Liam Eira",
+          "url": "https://open.spotify.com/artist/0DcmehohVqz1uugEjY6thE"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Morning Prayers",
+      "url": "https://open.spotify.com/track/3BQLawchMmX7DumnehLdoH"
+    },
+    {
+      "album": {
         "name": "Morning Skies",
         "url": "https://open.spotify.com/album/2p0PtIvMflxAUMlwymdTdy"
       },
@@ -3520,6 +3574,24 @@
       "duration_ms": 201175,
       "name": "Niang Beach",
       "url": "https://open.spotify.com/track/6G9ruTXuzSeREtSUhT1OFM"
+    },
+    {
+      "album": {
+        "name": "Nivora",
+        "url": "https://open.spotify.com/album/0KdiyPZv7txoPR2R8GSv4B"
+      },
+      "artists": [
+        {
+          "name": "Ritu Okada",
+          "url": "https://open.spotify.com/artist/2rkGW6L7WWQFGxGdajah40"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "Nivora",
+      "url": "https://open.spotify.com/track/3L9DqTx32c1zl2v4lhGLlR"
     },
     {
       "album": {
@@ -3856,6 +3928,24 @@
       "duration_ms": 126799,
       "name": "Pensare",
       "url": "https://open.spotify.com/track/2O2XKaXifv15ECCTPfgOqm"
+    },
+    {
+      "album": {
+        "name": "Petals on the Wind",
+        "url": "https://open.spotify.com/album/4jKBNyLarTChc5j6dJQgj0"
+      },
+      "artists": [
+        {
+          "name": "Astrocalm",
+          "url": "https://open.spotify.com/artist/1ZoNh8hKFOtOMDklPdhnCg"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160637,
+      "name": "Petals on the Wind",
+      "url": "https://open.spotify.com/track/2YwYOh3elUw8EtNJTa2Pmv"
     },
     {
       "album": {
@@ -4494,7 +4584,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 274000,
       "name": "Savasana",
       "url": "https://open.spotify.com/track/0Oo43tIk2HAlwAJQxyDC5c"
@@ -4758,6 +4848,24 @@
       "duration_ms": 151516,
       "name": "Shanti Raga Todi",
       "url": "https://open.spotify.com/track/4xNjBN150Chre7C6k4lJjb"
+    },
+    {
+      "album": {
+        "name": "Shinto",
+        "url": "https://open.spotify.com/album/6r4SbXWbcKm8hlgOJXfHPY"
+      },
+      "artists": [
+        {
+          "name": "Tone Fluency",
+          "url": "https://open.spotify.com/artist/2e5eHuSE4kABHp8Fw3WLsa"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148442,
+      "name": "Shinto",
+      "url": "https://open.spotify.com/track/5EmVnO0Eonvo7ZVADTVWdw"
     },
     {
       "album": {
@@ -5366,7 +5474,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 182000,
       "name": "Sun Is Rising",
       "url": "https://open.spotify.com/track/3a2cOAm7IIpbzzAZDTSego"

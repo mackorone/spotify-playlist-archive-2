@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Talal Qureshi, Taha G",
+  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Kashmir",
   "name": "New Pakistani Pop",
   "tracks": [
     {
@@ -282,6 +282,28 @@
       "duration_ms": 205714,
       "name": "Aik Tu",
       "url": "https://open.spotify.com/track/0dMNGCQKBnZWcvLjRHcIkI"
+    },
+    {
+      "album": {
+        "name": "Aise Kaise",
+        "url": "https://open.spotify.com/album/4ww9YpHkOnEUYaP3l2MgXc"
+      },
+      "artists": [
+        {
+          "name": "Hamzay",
+          "url": "https://open.spotify.com/artist/3jZgv3hijK101spub7clyS"
+        },
+        {
+          "name": "Sajjal Zee",
+          "url": "https://open.spotify.com/artist/7eHxcO6Pl6PQMXXwLSeI1E"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189714,
+      "name": "Aise Kaise",
+      "url": "https://open.spotify.com/track/1d3Rjs8b9MR8MJLXyxWeRe"
     },
     {
       "album": {
@@ -2226,6 +2248,10 @@
         {
           "name": "Sarmad Qadeer",
           "url": "https://open.spotify.com/artist/6Eh92TEgarADIOborTEsDJ"
+        },
+        {
+          "name": "Supernova Muzic",
+          "url": "https://open.spotify.com/artist/2dYNHuh7x5ySIMUG6ZvvYp"
         }
       ],
       "date_added": "2026-01-16",
@@ -3252,6 +3278,28 @@
       "duration_ms": 209454,
       "name": "Jalay Yeh Maan",
       "url": "https://open.spotify.com/track/26WtleGRpQtJ5N5vaWRNLO"
+    },
+    {
+      "album": {
+        "name": "Jana Hai Wahin",
+        "url": "https://open.spotify.com/album/1jRDns2KCy5AqX8MgTgQ7W"
+      },
+      "artists": [
+        {
+          "name": "Kashmir",
+          "url": "https://open.spotify.com/artist/3BaXohQuxIv7oZGuHEBuLt"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233225,
+      "name": "Jana Hai Wahin",
+      "url": "https://open.spotify.com/track/79LdqruB4lIPquQRSd6QJr"
     },
     {
       "album": {
@@ -4738,6 +4786,32 @@
       "duration_ms": 188250,
       "name": "MAKE YOU MINE (feat. Abdul Hannan & Hasan Raheem)",
       "url": "https://open.spotify.com/track/6OyqZB5FA70Nnl6Z7GkN2Y"
+    },
+    {
+      "album": {
+        "name": "Makeen",
+        "url": "https://open.spotify.com/album/0KnBA6g5wijbHqX0du6Y67"
+      },
+      "artists": [
+        {
+          "name": "Salem Sandhu",
+          "url": "https://open.spotify.com/artist/0Eh7Sz5p4UQ6AfOcFu5f45"
+        },
+        {
+          "name": "Taimour Baig",
+          "url": "https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi"
+        },
+        {
+          "name": "Nimit",
+          "url": "https://open.spotify.com/artist/3TdHRd70lcxwkOZwCiiCw3"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235107,
+      "name": "Makeen",
+      "url": "https://open.spotify.com/track/7z57msE7DnUFuv2RA11GMC"
     },
     {
       "album": {

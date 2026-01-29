@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 
 > Zenék, amik félreugranak a műfaji határok elől\. Cover: imago mundi
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,194 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,210 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,19 +66,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 | 56 | [Szeressetek](https://open.spotify.com/track/1BYWwi0ELFixwltwVVizoQ) | [Blahalouisiana](https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP) | [Szeressetek](https://open.spotify.com/album/7ncsXh9pjUQibmO2L7tnto) | 3:02 |
 | 57 | [HIPERKARMA](https://open.spotify.com/track/0SQRVYt8i9RDWQLZftn6sK) | [HIPERKARMA](https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs), [Ónodi Eszter](https://open.spotify.com/artist/3OYm88pS2UaUjwKkHzquTr) | [HIPERKARMA](https://open.spotify.com/album/35jFL1Uohqn5YN1WS0ao6D) | 3:28 |
 | 58 | [Albérlet](https://open.spotify.com/track/0LxmBrcAbrGY9Z1kNZChic) | [Fiúk](https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7) | [Szobák felett](https://open.spotify.com/album/5LiXOFGCIm4rXVEclWrsmB) | 3:52 |
-| 59 | [Cián](https://open.spotify.com/track/2ZO6w6CoOSfW4d7bOB1s1c) | [Waiting Room](https://open.spotify.com/artist/6AkIWFj7J1rzYkGRgqZndc) | [Cián](https://open.spotify.com/album/2ZvKVx7H8EUBgRHZM6hBvL) | 3:40 |
-| 60 | [kurvanagy ???](https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc) | [girlhood](https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U) | [kurvanagy ???](https://open.spotify.com/album/5rtV49XeYdexhaF7uk0N5W) | 2:31 |
+| 59 | [kurvanagy ???](https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc) | [girlhood](https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U) | [kurvanagy ???](https://open.spotify.com/album/5rtV49XeYdexhaF7uk0N5W) | 2:31 |
+| 60 | [Takarj el](https://open.spotify.com/track/0OoymARR20n2uqmDLDWkbK) | [Esti Kornél](https://open.spotify.com/artist/6CKGpi9bhf2T7bapMfXl5m) | [Takarj el](https://open.spotify.com/album/1hwaiR1jJDFJ2WeH2cVr01) | 4:33 |
 | 61 | [veszélyes utcák](https://open.spotify.com/track/1tBuxxLlbZ7YXV4PcxfKQJ) | [Blahalouisiana](https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP) | [veszélyes utcák](https://open.spotify.com/album/77Dpx7WvBnF10GzPO1LPgL) | 2:51 |
-| 62 | [Over](https://open.spotify.com/track/0MvQKd4qZb8ng7svhz5QlI) | [Samurai Drive](https://open.spotify.com/artist/3KJXAVUBjcuGGU7A7ExedX) | [Over](https://open.spotify.com/album/0wXhrHl6OrfNBTSRia2eV2) | 3:52 |
-| 63 | [Takarj el](https://open.spotify.com/track/0OoymARR20n2uqmDLDWkbK) | [Esti Kornél](https://open.spotify.com/artist/6CKGpi9bhf2T7bapMfXl5m) | [Takarj el](https://open.spotify.com/album/1hwaiR1jJDFJ2WeH2cVr01) | 4:33 |
-| 64 | [Én velem](https://open.spotify.com/track/5Zvi5IKLByksDaExqIQxi0) | [TELEHOLD](https://open.spotify.com/artist/1NJkIQiWmJJFtrNFuMNrQ1) | [Éjszakai](https://open.spotify.com/album/4ZRJI3QVp81F4KP20SsITO) | 3:30 |
+| 62 | [Cián](https://open.spotify.com/track/2ZO6w6CoOSfW4d7bOB1s1c) | [Waiting Room](https://open.spotify.com/artist/6AkIWFj7J1rzYkGRgqZndc) | [Cián](https://open.spotify.com/album/2ZvKVx7H8EUBgRHZM6hBvL) | 3:40 |
+| 63 | [Én velem](https://open.spotify.com/track/5Zvi5IKLByksDaExqIQxi0) | [TELEHOLD](https://open.spotify.com/artist/1NJkIQiWmJJFtrNFuMNrQ1) | [Éjszakai](https://open.spotify.com/album/4ZRJI3QVp81F4KP20SsITO) | 3:30 |
+| 64 | [Over](https://open.spotify.com/track/0MvQKd4qZb8ng7svhz5QlI) | [Samurai Drive](https://open.spotify.com/artist/3KJXAVUBjcuGGU7A7ExedX) | [Over](https://open.spotify.com/album/0wXhrHl6OrfNBTSRia2eV2) | 3:52 |
 | 65 | [Porcelán](https://open.spotify.com/track/0FNjdCG1BYCOH2YjStCH9P) | [Loophia](https://open.spotify.com/artist/3Y1l1roXoFoKXUO5EPUecM) | [Porcelán](https://open.spotify.com/album/2GuTg0jTvXKFyVMk6VregQ) | 4:00 |
 | 66 | [Bohém Himnusz](https://open.spotify.com/track/1efQhXRuD8NvlWjGrBl1X7) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE) | [Bohém Himnusz](https://open.spotify.com/album/1XOL9ld2JEiXfuMp9oKtn6) | 3:17 |
 | 67 | [Aludnék \(de nem lehet\)](https://open.spotify.com/track/0lZZSC7y64zbFqY8WnPLB3) | [Indigo](https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai) | [Aludnék \(de nem lehet\)](https://open.spotify.com/album/2o5xWT30M0b9KHbw1USfDl) | 3:25 |
-| 68 | [Boldog dalok, morbid viccek](https://open.spotify.com/track/4bIQoFVMAF8tuDYsgw7Skm) | [Fiúk](https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7) | [Boldog dalok, morbid viccek](https://open.spotify.com/album/3FAwO96EjgVHpOmSy7VSIB) | 4:22 |
-| 69 | [Ahogy szeretném](https://open.spotify.com/track/7l8hJYGHuauTSq23YUCCjI) | [KACAJ](https://open.spotify.com/artist/22wQeUstQZ5bIcKicI153D) | [Ahogy szeretném](https://open.spotify.com/album/47j1yyZE2sG0zA3e8acnBX) | 3:34 |
-| 70 | [Még egy kedd](https://open.spotify.com/track/1ZtvcSrcAqkOSi85bJf9GS) | [Anna and The Barbies](https://open.spotify.com/artist/1c8vsLWY82GMwKdHwXlEBV) | [Még egy kedd](https://open.spotify.com/album/4YuesaUvQd43akrqDFbIAT) | 2:17 |
-| 71 | [Bánatszalonna](https://open.spotify.com/track/0w0Ym7FLmk00KLPj9E6gFD) | [Bohemian Betyars](https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow) | [Bánatszalonna](https://open.spotify.com/album/25JxKgwNHEoyBApMyKEeWq) | 3:02 |
+| 68 | [Ahogy szeretném](https://open.spotify.com/track/7l8hJYGHuauTSq23YUCCjI) | [KACAJ](https://open.spotify.com/artist/22wQeUstQZ5bIcKicI153D) | [Ahogy szeretném](https://open.spotify.com/album/47j1yyZE2sG0zA3e8acnBX) | 3:34 |
+| 69 | [Boldog dalok, morbid viccek](https://open.spotify.com/track/4bIQoFVMAF8tuDYsgw7Skm) | [Fiúk](https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7) | [Boldog dalok, morbid viccek](https://open.spotify.com/album/3FAwO96EjgVHpOmSy7VSIB) | 4:22 |
+| 70 | [Bánatszalonna](https://open.spotify.com/track/0w0Ym7FLmk00KLPj9E6gFD) | [Bohemian Betyars](https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow) | [Bánatszalonna](https://open.spotify.com/album/25JxKgwNHEoyBApMyKEeWq) | 3:02 |
+| 71 | [Még egy kedd](https://open.spotify.com/track/1ZtvcSrcAqkOSi85bJf9GS) | [Anna and The Barbies](https://open.spotify.com/artist/1c8vsLWY82GMwKdHwXlEBV) | [Még egy kedd](https://open.spotify.com/album/4YuesaUvQd43akrqDFbIAT) | 2:17 |
 | 72 | [ÉLEK](https://open.spotify.com/track/6sttYMGxhalSlGfLWVgYle) | [HIPERKARMA](https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs) | [ÍRD ÉS MONDD!](https://open.spotify.com/album/2gksqqUvlxfp5sqephMSTC) | 3:37 |
 | 73 | [Golyóálló](https://open.spotify.com/track/7vF69V0FuxVa0TLslxdc8i) | [Szlimmy](https://open.spotify.com/artist/5rNkX3yvQhR4BBN11HVTJY), [DOÓR](https://open.spotify.com/artist/2HVId5fHUsUJhDGXhU4Q5o) | [Golyóálló](https://open.spotify.com/album/3fnEMhFvAE1jWzJZyGhkm9) | 3:05 |
 | 74 | [Senki más](https://open.spotify.com/track/7LlKfMzkf463SkwfDGWNFw) | [Zaporozsec](https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP) | [Senki más](https://open.spotify.com/album/65buXPxydHN1dE0bYUlfFC) | 3:35 |

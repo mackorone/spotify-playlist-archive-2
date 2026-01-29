@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,629 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,656 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 27 | [Highs In My Dreams](https://open.spotify.com/track/3t2qOSDPQYkNrkdDpEIFFx) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [Highs In My Dreams](https://open.spotify.com/album/6cmDJ0zrIcYjhre3Z3In2v) | 2:26 |
 | 28 | [Temple Of Resonance \(Official Masters Of Hardcore 2025 Anthem\)](https://open.spotify.com/track/7gZEZc68gYpSPK2GvPPChc) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Temple Of Resonance \(Official Masters Of Hardcore 2025 Anthem\)](https://open.spotify.com/album/6IVbGHJN8o7BNTuXlaoRfG) | 4:33 |
 | 29 | [CHUCKY](https://open.spotify.com/track/22kteI2xVP12pKh6djmqHP) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Slaughterhouse](https://open.spotify.com/artist/5xIrxXqP6GhNa8AX6wYSV9) | [CHUCKY](https://open.spotify.com/album/1anIjBMlI6h1uSvTj2tiGO) | 2:05 |
-| 30 | [WE DONT PLAY](https://open.spotify.com/track/3hzb7yFb33bHzEXn3Cc8wm) | [Levenkhan](https://open.spotify.com/artist/0ceEjm8IKMdK5BjMmnGMrd), [Dr Donk](https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu) | [WE DONT PLAY](https://open.spotify.com/album/47g3muCTnVTUgBtaE3uxau) | 2:21 |
-| 31 | [Oh My \(Dimitri K Remix\)](https://open.spotify.com/track/1lfvrXoptVANYD3sR0X00b) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Oh My \(Dimitri K Remix\)](https://open.spotify.com/album/1KZRqlmGwcZzO0FsBGTrTF) | 2:33 |
+| 30 | [Oh My \(Dimitri K Remix\)](https://open.spotify.com/track/1lfvrXoptVANYD3sR0X00b) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Oh My \(Dimitri K Remix\)](https://open.spotify.com/album/1KZRqlmGwcZzO0FsBGTrTF) | 2:33 |
+| 31 | [WE DONT PLAY](https://open.spotify.com/track/3hzb7yFb33bHzEXn3Cc8wm) | [Levenkhan](https://open.spotify.com/artist/0ceEjm8IKMdK5BjMmnGMrd), [Dr Donk](https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu) | [WE DONT PLAY](https://open.spotify.com/album/47g3muCTnVTUgBtaE3uxau) | 2:21 |
 | 32 | [Blast Your Stereo](https://open.spotify.com/track/30C1mHFD8gnf2Q4i177DcQ) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Blast Your Stereo](https://open.spotify.com/album/6hLniqxTHOc1OOIesBdfZE) | 2:11 |
 | 33 | [Pump It Louder](https://open.spotify.com/track/5Ce7LJHEbM61h32K6uNWVr) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [Pump It Louder](https://open.spotify.com/album/4hgjSIdFbl05XOz92eDajm) | 2:56 |
 | 34 | [Another Club Banger](https://open.spotify.com/track/1Kw5RisasBWQ2s1E8Yx9GG) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Another Club Banger EP](https://open.spotify.com/album/7mpD7MeNm8WEHb8KzCYmtd) | 4:21 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 45 | [9MM](https://open.spotify.com/track/50cNmlFtLyt0exTnajYFsR) | [Kili](https://open.spotify.com/artist/5MOwAeqyaDS3fFo5jEqvXV) | [Locked & Loaded EP](https://open.spotify.com/album/6Ze9U69rsUgglX584FE2uY) | 1:41 |
 | 46 | [Eye Of The Tiger](https://open.spotify.com/track/2ba6ggXCHrYvrnc0jAsAgR) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Eye Of The Tiger](https://open.spotify.com/album/2yznQNSmPM9XGIJ1JjsFF0) | 2:21 |
 | 47 | [THRONE](https://open.spotify.com/track/5rfqRff1tGmbZNqWhG4fxk) | [The Herbalist](https://open.spotify.com/artist/15FJi8mBaxYory85rxoCtu), [Amigo](https://open.spotify.com/artist/0quq9NiPw5T5E9N6GoPJ1y) | [THRONE](https://open.spotify.com/album/1OI4m6WfOI3s3aV26V1fVL) | 2:28 |
-| 48 | [Lose My Mind](https://open.spotify.com/track/2qRmPYK0ZJRz8FFogvmYto) | [Spiady](https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs), [Darkside Retox](https://open.spotify.com/artist/05Z1ooTZW9u6ezHPHeAqhp) | [Lose My Mind](https://open.spotify.com/album/4UF6qSC18AqriGnQ8b7MDj) | 3:14 |
-| 49 | [Run 4 Your Life](https://open.spotify.com/track/3whJILCwMY1kfqs4jTTJeY) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [Run 4 Your Life](https://open.spotify.com/album/4r7nj19kZAO5GaiXXFNtew) | 2:44 |
+| 48 | [Run 4 Your Life](https://open.spotify.com/track/3whJILCwMY1kfqs4jTTJeY) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [Run 4 Your Life](https://open.spotify.com/album/4r7nj19kZAO5GaiXXFNtew) | 2:44 |
+| 49 | [Lose My Mind](https://open.spotify.com/track/2qRmPYK0ZJRz8FFogvmYto) | [Spiady](https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs), [Darkside Retox](https://open.spotify.com/artist/05Z1ooTZW9u6ezHPHeAqhp) | [Lose My Mind](https://open.spotify.com/album/4UF6qSC18AqriGnQ8b7MDj) | 3:14 |
 | 50 | [Internet Hooligan](https://open.spotify.com/track/6kZaIV2giPqFrf2nZ0obcH) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Boogshe](https://open.spotify.com/artist/0XugtaijoMOUdu6eVWPtX3) | [Internet Hooligan](https://open.spotify.com/album/1u3zmIGG1j0kwtBRSq6OIQ) | 2:17 |
 
 Snapshot ID: `AAAAAIgU1tdCQ+1Iw1v8+B1AvISQvpHk`

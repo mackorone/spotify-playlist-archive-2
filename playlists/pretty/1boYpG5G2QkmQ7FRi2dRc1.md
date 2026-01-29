@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 280,385 likes - 46 songs - 2 hr 32 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 280,353 likes - 46 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 18 | [think & dream](https://open.spotify.com/track/1HLTR6jmmraeE6OucxKGZS) | [altrice](https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF) | [think & dream](https://open.spotify.com/album/3NWgXYTeSZ5q7sM0sqrjsH) | 3:36 |
 | 19 | [Shallow Land Burial \- Wooli Remix](https://open.spotify.com/track/1ICRZBdmSigwZfVXxBMeR4) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Shallow Land Burial \(Wooli Remix\)](https://open.spotify.com/album/6NwTYkmUgLnwFJlRQyaWyO) | 2:15 |
 | 20 | [Keep Dancing](https://open.spotify.com/track/4Q0RxLgLm5JDLLU43TmM6P) | [Girls Don't Sync](https://open.spotify.com/artist/4SluGaQhJuMDsRRMf1PWKT) | [Keep Dancing](https://open.spotify.com/album/57hZVGjBBoCxeVZUzGqnav) | 2:25 |
-| 21 | [I Wanna Know](https://open.spotify.com/track/4291wVeV1PR771cBvbSVNA) | [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [ashee](https://open.spotify.com/artist/1yzdg7tn88FZln32FyhmVl) | [I Wanna Know](https://open.spotify.com/album/5jn84FTQ7eWfJNqsiZt4mE) | 4:00 |
+| 21 | [I Wanna Know](https://open.spotify.com/track/4291wVeV1PR771cBvbSVNA) | [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Ashee](https://open.spotify.com/artist/20NZhZk0qrMO7jImyuR3hz) | [I Wanna Know](https://open.spotify.com/album/5jn84FTQ7eWfJNqsiZt4mE) | 4:00 |
 | 22 | [Broadcast](https://open.spotify.com/track/1C7HaCCrTlGh58J3ChAwXX) | [Memblem](https://open.spotify.com/artist/4oXVlZhnXyku2WkQjziDVI), [subtoll](https://open.spotify.com/artist/2zNvxY3Us2BqUPOTw7OP2G) | [Broadcast](https://open.spotify.com/album/5nsMuDWe08bhTCKQ2CvFuR) | 2:41 |
 | 23 | [Don Rosado](https://open.spotify.com/track/2njSVgEXEDk8MFEPbu6ofn) | [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p), [Drega](https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG) | [Don Rosado](https://open.spotify.com/album/58a8fF8y8lW1RR5eX98dTX) | 3:47 |
 | 24 | [Borehole](https://open.spotify.com/track/2B4OQq13pgIqrud53V7NvZ) | [Casey Club](https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj) | [Borehole](https://open.spotify.com/album/4vukaa71YhJMu00m4Oy8hV) | 2:44 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,547,270 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,547,232 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 90 | [陽炎](https://open.spotify.com/track/5O8lo4aHWDMIBAIzxpTCHX) | [大泉 洋](https://open.spotify.com/artist/4ZEqaiBgNsLXZTGTBuoIxe) | [陽炎](https://open.spotify.com/album/1whGXyel6hWK5hgAwTKNxg) | 3:56 |
 | 91 | [The Dream of Lachenalia](https://open.spotify.com/track/4blB5eJ28kYSyt8OF4N95s) | [ヰ世界情緒](https://open.spotify.com/artist/0ZTvnZCr6Njbsmn9Xx4Y0U) | [The Dream of Lachenalia](https://open.spotify.com/album/1FpJyyfgdEKSyYQhqYMTY5) | 3:28 |
 | 92 | [RUN！](https://open.spotify.com/track/1uPbzkPat0SVhMSkIlLt6I) | [Klang Ruler](https://open.spotify.com/artist/7dGWpqSL5xaZjWbo3UWXyU) | [RUN！](https://open.spotify.com/album/0uHHN1OpTpawC0Hsh72l0i) | 2:56 |
-| 93 | [Track 2](https://open.spotify.com/track/73oo1IrzIOkmjMCeQFg4jw) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [](https://open.spotify.com/album/null) | 0:00 |
+| 93 | [ライオン \(TVアニメーションシリーズ「マクロスF」より\)](https://open.spotify.com/track/73oo1IrzIOkmjMCeQFg4jw) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Sing That SONG!!](https://open.spotify.com/album/5K12fsG2xPM14wxK9gSDRu) | 5:08 |
 | 94 | [ToCoda](https://open.spotify.com/track/4f2SfaHXsTsFWx53eUjZsD) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [ToCoda](https://open.spotify.com/album/4z7QtqsH8sZZbS719xLVUT) | 4:09 |
 | 95 | [CharismA](https://open.spotify.com/track/0hTHq7dH0uwiM4avIyI5af) | [Kento Ito](https://open.spotify.com/artist/1bPpm1gD9bX3hXCYaORYlw) | [ShAdow \(d\-edition\)](https://open.spotify.com/album/1wvvwWpxlIULjLgQmLuB5q) | 3:22 |
 | 96 | [二つの道](https://open.spotify.com/track/7tLro8uKwT0hO49i3l6afj) | [22/7](https://open.spotify.com/artist/7tn9UjhRgGnDjOWOXuzIgZ) | [二つの道](https://open.spotify.com/album/34cmygx7kRY9RJzeYtWvHU) | 3:35 |

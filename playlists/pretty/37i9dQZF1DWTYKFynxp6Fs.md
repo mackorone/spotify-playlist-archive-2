@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 
 > Every song that's Trending NOW from Malayalam! <br/>Cover: Sarvam Maya
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,055 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,568 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 | 49 | [Vatteppam \(From "Mandakini"\)](https://open.spotify.com/track/2mFXx4D49RdesixfLSsoU0) | [Bibin Ashok](https://open.spotify.com/artist/2r4835RasDrA3mvrZqYv1S), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Vaisakh Sugunan](https://open.spotify.com/artist/3MEt4mrI4ZktNe7YxaQMVx) | [Vatteppam \(From "Mandakini"\)](https://open.spotify.com/album/37fD3iPdRh7XvwHbrjXV2d) | 3:12 |
 | 50 | [Kondal Vedan Song \(From "Kondal"\)](https://open.spotify.com/track/0FhmVYnbnWocY6mOgjeMlz) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Kondal Vedan Song \(From "Kondal"\)](https://open.spotify.com/album/2QofMPxSLCWnxlKpDWVOeV) | 4:07 |
 
-Snapshot ID: `AAAAAEIpXs/XuUJIuAyhJ+WE8ido0kDN`
+Snapshot ID: `AAAAAFLBDzVhh9no8d/OnOarKKSfe/rT`

@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:NO11",
-  "num_followers": 76553,
+  "num_followers": 76577,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -767,30 +767,6 @@
     {
       "added_at": "2026-01-23 00:01:22",
       "album": {
-        "name": "A Street Kid's Diary",
-        "url": "https://open.spotify.com/album/03CVM99wc5g02qpBGKgfYM"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        },
-        {
-          "name": "Efosa",
-          "url": "https://open.spotify.com/artist/6bMDcfWfOVl5mWw8DUgLO3"
-        }
-      ],
-      "duration_ms": 223020,
-      "name": "OTS",
-      "url": "https://open.spotify.com/track/4Wq6zxgdDDHqsVOYv9T0bz"
-    },
-    {
-      "added_at": "2026-01-23 00:01:22",
-      "album": {
         "name": "IRON BOY",
         "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
       },
@@ -827,6 +803,30 @@
       "duration_ms": 151034,
       "name": "Type Sh*t",
       "url": "https://open.spotify.com/track/2sTjJbgPuWC5dYY7xtJm7j"
+    },
+    {
+      "added_at": "2026-01-23 00:01:22",
+      "album": {
+        "name": "A Street Kid's Diary",
+        "url": "https://open.spotify.com/album/03CVM99wc5g02qpBGKgfYM"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "Efosa",
+          "url": "https://open.spotify.com/artist/6bMDcfWfOVl5mWw8DUgLO3"
+        }
+      ],
+      "duration_ms": 223020,
+      "name": "OTS",
+      "url": "https://open.spotify.com/track/4Wq6zxgdDDHqsVOYv9T0bz"
     },
     {
       "added_at": "2026-01-23 00:01:22",
@@ -887,6 +887,26 @@
     {
       "added_at": "2026-01-23 00:01:22",
       "album": {
+        "name": "JONBU",
+        "url": "https://open.spotify.com/album/5N84TrhEsfEvJwVdJwIwzP"
+      },
+      "artists": [
+        {
+          "name": "Ruhdee",
+          "url": "https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp"
+        },
+        {
+          "name": "DJ Enimoney",
+          "url": "https://open.spotify.com/artist/7nEYJ01WxrTl3kAklzEC61"
+        }
+      ],
+      "duration_ms": 158195,
+      "name": "JONBU",
+      "url": "https://open.spotify.com/track/6ljpoEvVqHtKsakkSvo5hQ"
+    },
+    {
+      "added_at": "2026-01-23 00:01:22",
+      "album": {
         "name": "G.O.A.T",
         "url": "https://open.spotify.com/album/6vNtI8WqFszCyAQhGlShtF"
       },
@@ -927,42 +947,6 @@
     {
       "added_at": "2026-01-23 00:01:22",
       "album": {
-        "name": "JONBU",
-        "url": "https://open.spotify.com/album/5N84TrhEsfEvJwVdJwIwzP"
-      },
-      "artists": [
-        {
-          "name": "Ruhdee",
-          "url": "https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp"
-        },
-        {
-          "name": "DJ Enimoney",
-          "url": "https://open.spotify.com/artist/7nEYJ01WxrTl3kAklzEC61"
-        }
-      ],
-      "duration_ms": 158195,
-      "name": "JONBU",
-      "url": "https://open.spotify.com/track/6ljpoEvVqHtKsakkSvo5hQ"
-    },
-    {
-      "added_at": "2026-01-23 00:01:22",
-      "album": {
-        "name": "Everlasting Taker",
-        "url": "https://open.spotify.com/album/2KDt3GJumWApNjXbGBaWH6"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 118736,
-      "name": "Everlasting Taker",
-      "url": "https://open.spotify.com/track/4fuLcIzYkc6MtFc09GG1mZ"
-    },
-    {
-      "added_at": "2026-01-23 00:01:22",
-      "album": {
         "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
         "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 163468,
       "name": "Synchro System (feat. Pheelz, Young Jonn & Lil Kesh)",
       "url": "https://open.spotify.com/track/4OXlgrOv4FtLuMnuqsI69c"
+    },
+    {
+      "added_at": "2026-01-23 00:01:22",
+      "album": {
+        "name": "Everlasting Taker",
+        "url": "https://open.spotify.com/album/2KDt3GJumWApNjXbGBaWH6"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 118736,
+      "name": "Everlasting Taker",
+      "url": "https://open.spotify.com/track/4fuLcIzYkc6MtFc09GG1mZ"
     },
     {
       "added_at": "2026-01-23 00:01:22",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2026-01-23 00:01:22",
       "album": {
+        "name": "PRESS AM",
+        "url": "https://open.spotify.com/album/1EBWwV4ediQjVLCZfqgCyj"
+      },
+      "artists": [
+        {
+          "name": "Egertton",
+          "url": "https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV"
+        },
+        {
+          "name": "ARTSALGHUL",
+          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
+        }
+      ],
+      "duration_ms": 123750,
+      "name": "PRESS AM",
+      "url": "https://open.spotify.com/track/1HGAkDrQS4SAjGO1wUUEJ8"
+    },
+    {
+      "added_at": "2026-01-23 00:01:22",
+      "album": {
         "name": "4 U",
         "url": "https://open.spotify.com/album/4x7FRzw7GiTHGaoQP1xU98"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 192000,
       "name": "Olufunmi (The Missing Recipe)",
       "url": "https://open.spotify.com/track/5UKjVTABJpQSx1UynzpHon"
-    },
-    {
-      "added_at": "2026-01-23 00:01:22",
-      "album": {
-        "name": "PRESS AM",
-        "url": "https://open.spotify.com/album/1EBWwV4ediQjVLCZfqgCyj"
-      },
-      "artists": [
-        {
-          "name": "Egertton",
-          "url": "https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV"
-        },
-        {
-          "name": "ARTSALGHUL",
-          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
-        }
-      ],
-      "duration_ms": 123750,
-      "name": "PRESS AM",
-      "url": "https://open.spotify.com/track/1HGAkDrQS4SAjGO1wUUEJ8"
     },
     {
       "added_at": "2026-01-23 00:01:22",
@@ -1231,22 +1231,6 @@
       "duration_ms": 126000,
       "name": "Aura 4 Aura (feat. Pa Salieu)",
       "url": "https://open.spotify.com/track/43sJP8fOjGxkg9UjNs9x3U"
-    },
-    {
-      "added_at": "2026-01-23 00:01:22",
-      "album": {
-        "name": "Folasade",
-        "url": "https://open.spotify.com/album/1M6bYAJ0BlpTvH9GpJBvPN"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        }
-      ],
-      "duration_ms": 168648,
-      "name": "Folasade",
-      "url": "https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5"
     },
     {
       "added_at": "2026-01-23 00:01:22",
@@ -1323,6 +1307,22 @@
       "duration_ms": 153380,
       "name": "20 Degrees",
       "url": "https://open.spotify.com/track/14pxWg0APGTl9mk3dKFNAx"
+    },
+    {
+      "added_at": "2026-01-23 00:01:22",
+      "album": {
+        "name": "Folasade",
+        "url": "https://open.spotify.com/album/1M6bYAJ0BlpTvH9GpJBvPN"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "duration_ms": 168648,
+      "name": "Folasade",
+      "url": "https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5"
     }
   ],
   "unique_name": "Naija Bars ",

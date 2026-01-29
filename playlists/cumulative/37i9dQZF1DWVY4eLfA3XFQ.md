@@ -4,7 +4,7 @@
 
 > 50% techno, 50% house  🎺 Tech house operators, featuring Ragie Ban
 
-2,584 songs - 5 day 21 hr 27 min
+2,585 songs - 5 day 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1341,6 +1341,7 @@
 | [Lookin for You](https://open.spotify.com/track/1SjxhikYqsSRXhunaQqnrE) | [Kinhaa](https://open.spotify.com/artist/6dDYcZwwCg7hYOJhxVnA86) | [You](https://open.spotify.com/album/24ZfXqXPHOlTWk1DQABSGX) | 2:52 | 2025-10-24 | 2025-12-06 |
 | [Looking 4 U](https://open.spotify.com/track/64mG1nyazcwSPgiLpp3dfg) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Looking 4 U](https://open.spotify.com/album/3JAWEWwLRejH1qnV4r4eO2) | 2:52 | 2023-01-20 | 2023-04-01 |
 | [Looking For Something](https://open.spotify.com/track/7MpDsggmJaTIUGtQmoFizN) | [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Looking For Something EP](https://open.spotify.com/album/7if5jDOZzdfL6LLrl95xG0) | 3:26 | 2022-10-05 | 2023-01-14 |
+| [Loose Pt\. 3](https://open.spotify.com/track/2YIG7QIUOKs35C590rmxSE) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Loose Pt\. 3](https://open.spotify.com/album/1IYAtgkkvNpjvqXY7Dq2Np) | 2:49 | 2026-01-28 |  |
 | [Lose Control](https://open.spotify.com/track/33VrQvOZ7dyytQV3xCMolM) | [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Lose Control](https://open.spotify.com/album/7cBWx8QaTCXV08rgO2M8YN) | 3:06 | 2021-11-26 | 2022-01-06 |
 | [Lose Control](https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Lose Control](https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE) | 2:53 | 2023-05-12 | 2023-08-26 |
 | [Lose Control \(feat\. Guilty Empress\)](https://open.spotify.com/track/6vCcveqr0Hw76YcMVGC16R) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO), [Guilty Empress](https://open.spotify.com/artist/1sqLOPikfBNDEkLPuN8EZh) | [Lose Control \(feat\. Guilty Empress\)](https://open.spotify.com/album/3zfNAvAZz0HxwjaePj0TzQ) | 2:41 | 2022-07-08 | 2022-09-10 |
@@ -2075,7 +2076,7 @@
 | [So Good \- Heat Mix](https://open.spotify.com/track/4oH7tOwRwU03GweO0gBoP5) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [So Good \(Heat Mix\)](https://open.spotify.com/album/1ge1VryWt3hDBd1kroI1NW) | 4:00 | 2024-07-26 | 2025-04-05 |
 | [So High](https://open.spotify.com/track/3umj4Hoq8uG2aXpuV01WCA) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [ARA](https://open.spotify.com/artist/2hhItOB9DuMhxXkU26wgZK) | [So High](https://open.spotify.com/album/6JODn5MLAj2RfrFjPusWCJ) | 3:39 | 2022-04-22 | 2022-05-14 |
 | [So Hot](https://open.spotify.com/track/2uLhfL4MvW6jTGEYt6NYPM) | [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [So Hot EP](https://open.spotify.com/album/6000OjbTdVRwMFFKSDxwdV) | 3:32 | 2022-05-13 | 2022-05-28 |
-| [So Hot](https://open.spotify.com/track/1pYPJFJwQ3PC4NT1ZZGsl0) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Gabss](https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq), [XKYLAR](https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq) | [So Hot](https://open.spotify.com/album/65eYgfmHe5Mv2psl6GqeC0) | 3:03 | 2025-10-17 |  |
+| [So Hot](https://open.spotify.com/track/1pYPJFJwQ3PC4NT1ZZGsl0) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Gabss](https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq), [XKYLAR](https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq) | [So Hot](https://open.spotify.com/album/65eYgfmHe5Mv2psl6GqeC0) | 3:03 | 2025-10-17 | 2026-01-29 |
 | [So Hï](https://open.spotify.com/track/4TNiHQs5zO3slGpbBwutVB) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [So Hï](https://open.spotify.com/album/5GA1vg8Xv8zqtNedFbHasK) | 3:32 | 2024-03-22 | 2025-05-31 |
 | [So Right](https://open.spotify.com/track/21NMfPtUAyJAeiv0gbfGzC) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [So Right](https://open.spotify.com/album/46TOL7GUSFrRMMzzduhkG3) | 3:21 | 2022-10-14 | 2022-12-29 |
 | [Sober](https://open.spotify.com/track/38uNPzNvxuuimtRljtomS6) | [Croatia Squad](https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC) | [Sober](https://open.spotify.com/album/2G05MCvt9VDpIxUBS8h3KJ) | 3:17 | 2023-02-24 | 2023-05-08 |

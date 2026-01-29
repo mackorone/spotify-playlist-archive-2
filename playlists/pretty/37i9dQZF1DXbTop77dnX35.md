@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Wizkid & Asake, Seyi Vibez & Omah Lay, Simi & Chike, Paulo Chakal, Harry Styles and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,587 likes - 53 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,661 likes - 53 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 38 | [HOLA](https://open.spotify.com/track/1hIqX3siqYHUaBGsjkwL16) | [Scoophy Snacks](https://open.spotify.com/artist/3yJhZnnBys6VcDrJbBDDcB), [CDQ](https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg), [King Soundboi](https://open.spotify.com/artist/6mhJZ2dIPmUBVmzp0wKRom) | [HOLA](https://open.spotify.com/album/26OYeeYxp9uIFVVxca2SEJ) | 2:03 |
 | 39 | [JONBU](https://open.spotify.com/track/6ljpoEvVqHtKsakkSvo5hQ) | [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp), [DJ Enimoney](https://open.spotify.com/artist/7nEYJ01WxrTl3kAklzEC61) | [JONBU](https://open.spotify.com/album/5N84TrhEsfEvJwVdJwIwzP) | 2:38 |
 | 40 | [This Year](https://open.spotify.com/track/0gLWKUIIHW6vugTE2XPJwz) | [Soul of Afrika](https://open.spotify.com/artist/0ipojw6q0IG1VS9FpqiIwd) | [This Year](https://open.spotify.com/album/0ybeM1eQLftcbVDjrPEMCB) | 2:45 |
-| 41 | [Iz Hawt \- French Version](https://open.spotify.com/track/6t6enwSBCMhwUS4jnrcOmr) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5), [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [WAYNE FLENORY](https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV), [SOSEY](https://open.spotify.com/artist/1L4l4XFtPJv7LMwdcsNPxd) | [Iz Hawt \(French Version\)](https://open.spotify.com/album/0SAtApfGRQ0TeTI9Kac0TL) | 2:51 |
+| 41 | [Iz Hawt \- French Version](https://open.spotify.com/track/6t6enwSBCMhwUS4jnrcOmr) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5), [WAYNE FLENORY](https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV), [SOSEY](https://open.spotify.com/artist/1L4l4XFtPJv7LMwdcsNPxd), [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Iz Hawt \(French Version\)](https://open.spotify.com/album/0SAtApfGRQ0TeTI9Kac0TL) | 2:51 |
 | 42 | [Afrogasm](https://open.spotify.com/track/201vYDEAFsH6yjlIDTZrjq) | [Neeza](https://open.spotify.com/artist/7afjvXGwEtEwhIHIjdQymg) | [Afrogasm](https://open.spotify.com/album/5ii1mA4QEij3hRgkVUcYz6) | 3:53 |
 | 43 | [Bottles up](https://open.spotify.com/track/3LzYvRqc6c0QlIN04Zmb9t) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Bottles up](https://open.spotify.com/album/6CgGY8mg3zqZIQy4j08SdG) | 4:20 |
 | 44 | [Zuma](https://open.spotify.com/track/2tzfUwDT4uFQt3du3Xmolo) | [Emteey Shmurda](https://open.spotify.com/artist/4stBd567xMSj0vNzdPHRuo), [Umar M\. Shareef](https://open.spotify.com/artist/2QIVhkv0J5MicVKPAB0Xpo) | [Zuma](https://open.spotify.com/album/7t7lQ2pfWQhKoqMmkcdIfS) | 2:53 |

@@ -188,6 +188,28 @@
     {
       "album": {
         "name": "All Night",
+        "url": "https://open.spotify.com/album/6Q7CQUEFmgnH6YXVoRHJjG"
+      },
+      "artists": [
+        {
+          "name": "Andrea Moricone",
+          "url": "https://open.spotify.com/artist/5smRjMdumk9zNe6UQjc3eh"
+        },
+        {
+          "name": "Movha",
+          "url": "https://open.spotify.com/artist/3NOBj57odsPGBoHI9Q2BrN"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/2Q9XnnbrJrg8Tx33vLgBxZ"
+    },
+    {
+      "album": {
+        "name": "All Night",
         "url": "https://open.spotify.com/album/6TlbQ4aXAwS1Iw55zm42jO"
       },
       "artists": [

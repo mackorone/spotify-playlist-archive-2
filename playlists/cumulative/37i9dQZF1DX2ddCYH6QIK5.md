@@ -2,12 +2,13 @@
 
 ### [Fresh Finds GSA](https://open.spotify.com/playlist/37i9dQZF1DX2ddCYH6QIK5)
 
-> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: koala, Artwork: Isu Kim
+> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: JANKA, Artwork: Isu Kim
 
-1,577 songs - 3 day 16 hr 12 min
+1,579 songs - 3 day 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [..lowkey](https://open.spotify.com/track/6Oe3rQRJv6we0g4E0NKMfu) | [b3nn3t](https://open.spotify.com/artist/7pajHvUWNCnOPhDPyH4M6x) | [drei](https://open.spotify.com/album/335RZic06ynXmXdbv1XAQ9) | 2:38 | 2026-01-28 |  |
 | [1000 Wünsche](https://open.spotify.com/track/03IljGKrDnoAFCocYQIgmh) | [yara](https://open.spotify.com/artist/1TJg4CWFRqYluxpJ8iR82C) | [1000 Wünsche](https://open.spotify.com/album/2yYy0VBDyaDQGaGyPyJJEw) | 2:40 | 2024-07-16 | 2024-11-21 |
 | [11:11](https://open.spotify.com/track/00LEqayNO30pTPrQ3s37tx) | [ENNI](https://open.spotify.com/artist/1xfDtBGP0PhXYiFJXbfudW) | [11:11](https://open.spotify.com/album/5LlFZrRb1LxEE2uQkc1r5o) | 2:48 | 2025-07-09 | 2025-12-04 |
 | [14\. Stock](https://open.spotify.com/track/6f77E75f6dwDzT6o4zXaYv) | [Jona Straub](https://open.spotify.com/artist/42mdVKdNJDsmQasPjTqVao) | [14\. Stock](https://open.spotify.com/album/6hYmjAfCwpsxdq81K0ytMN) | 2:34 | 2023-09-13 | 2023-10-12 |
@@ -951,7 +952,7 @@
 | [Nah sein](https://open.spotify.com/track/4p0H3f2K0izoJ7jJe7YbMB) | [puni.](https://open.spotify.com/artist/7HdTH40abg8Vzc6b1paN6a), [Smilin Ore](https://open.spotify.com/artist/65hoksGgSolkSYe6fAoUy0) | [Nah sein](https://open.spotify.com/album/4m0ELbtIuypQ9Fod3GV8Zd) | 3:17 | 2023-11-08 | 2024-01-11 |
 | [Narbenherz](https://open.spotify.com/track/6SweHmEqP8dq4k9tkanykm) | [Michèl von Wussow](https://open.spotify.com/artist/7k6zsh0jYsjmoVJGIoqJ9f) | [Narbenherz](https://open.spotify.com/album/7AKajkhAqodbAuKEYwE3ow) | 3:02 | 2022-04-13 | 2022-05-05 |
 | [Ne znaiu sam](https://open.spotify.com/track/72NP7IfttEkvz0NAFlUWHR) | [Illia](https://open.spotify.com/artist/56iFwmcdabegY0HVCrPIF8) | [Ne znaiu sam](https://open.spotify.com/album/5I6rk9gzEKV1vT9XdZOFo3) | 3:43 | 2023-11-08 | 2024-01-25 |
-| [Need It](https://open.spotify.com/track/2Ied5Kc9sahSeTO6GBRkWQ) | [Last Value](https://open.spotify.com/artist/03GldB4eId8dRZSbl6jmve) | [Need It](https://open.spotify.com/album/5dW5xdjXd8wszERahTyT4O) | 2:38 | 2025-07-30 |  |
+| [Need It](https://open.spotify.com/track/2Ied5Kc9sahSeTO6GBRkWQ) | [Last Value](https://open.spotify.com/artist/03GldB4eId8dRZSbl6jmve) | [Need It](https://open.spotify.com/album/5dW5xdjXd8wszERahTyT4O) | 2:38 | 2025-07-30 | 2026-01-29 |
 | [need you](https://open.spotify.com/track/1lziVHX9Wo1E5LxWqHFjPx) | [SNOWCAP](https://open.spotify.com/artist/5XPbeLxKTyTpYVpQ4LdtmX) | [need you](https://open.spotify.com/album/7hMkgjnPhVHAZiRk8JEaky) | 1:45 | 2024-10-23 | 2024-11-28 |
 | [Nemo](https://open.spotify.com/track/66m5wQxTelUD57tJYy0dUl) | [Heavent](https://open.spotify.com/artist/6Phe79G3G9eEADucEW70NV) | [Nemo](https://open.spotify.com/album/4ZOSjbv4OqKdFKLCbQb5Qq) | 2:52 | 2024-04-24 | 2025-01-10 |
 | [NEUROSEN](https://open.spotify.com/track/2tS4xb9ltgwD9QNZoDqD9h) | [3L3ND](https://open.spotify.com/artist/1Ju5nenjTzkMt10URDmYLs) | [NEUROSEN](https://open.spotify.com/album/0eROVoI2CP5PQdmdgckYN6) | 1:45 | 2023-08-16 | 2023-09-07 |
@@ -1466,7 +1467,7 @@
 | [Vietnam](https://open.spotify.com/track/4amFrAHWTm6rsuQUGXP6a3) | [SOFTPOWER](https://open.spotify.com/artist/72uwIRIojHpm4ufG7sL375) | [Vietnam](https://open.spotify.com/album/4UvfGpafs46ZvaLA7THMDg) | 3:03 | 2025-10-22 |  |
 | [Villain](https://open.spotify.com/track/6QvUhzYIBiuRaMJbm120te) | [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [Villain](https://open.spotify.com/album/1PzmgB0ZiowDNC68xdEWRV) | 4:40 | 2022-02-23 | 2023-01-05 |
 | [Virgin Islands](https://open.spotify.com/track/7vSIrm8klWnkGmqICAMMy8) | [Marton Harvest](https://open.spotify.com/artist/0kWWmbz4hCY9YOLy4I5OhQ) | [Virgin Islands](https://open.spotify.com/album/4I5KIuJ8J742h1zf1ouE7L) | 4:31 | 2024-02-07 | 2024-03-28 |
-| [VIVA LA CHICA](https://open.spotify.com/track/6EHzMI4sAZmmICUTxPBxGH) | [Tara Emely](https://open.spotify.com/artist/3fAr7wQCxsBoMJXNq1IzuW) | [VIVA LA CHICA](https://open.spotify.com/album/2CPR9JINpI5HnTR66m3q5c) | 2:10 | 2025-07-30 |  |
+| [VIVA LA CHICA](https://open.spotify.com/track/6EHzMI4sAZmmICUTxPBxGH) | [Tara Emely](https://open.spotify.com/artist/3fAr7wQCxsBoMJXNq1IzuW) | [VIVA LA CHICA](https://open.spotify.com/album/2CPR9JINpI5HnTR66m3q5c) | 2:10 | 2025-07-30 | 2026-01-29 |
 | [Von uns beiden](https://open.spotify.com/track/0oXo7COL6mO87GWR4aYNH6) | [Enya Elstner](https://open.spotify.com/artist/7InSqIOYCcGiFGrajTdcZU) | [Von uns beiden](https://open.spotify.com/album/4wg48WqI83Bj02x6juYRuJ) | 3:24 | 2023-03-15 | 2023-07-20 |
 | [Vorhang auf](https://open.spotify.com/track/4A5RyJnYeFJwxG7muenMlt) | [SCHLINGSI](https://open.spotify.com/artist/21rixzBLHE1jMxumhY8Irr) | [Vorhang auf](https://open.spotify.com/album/4YIR4GRK4OLM5Op6ihkeh5) | 3:03 | 2025-09-24 | 2025-11-13 |
 | [Vuka!](https://open.spotify.com/track/19vn6BU72dB0IIA8G6LsBW) | [Berlin Wibes](https://open.spotify.com/artist/6f11OTSw8tFLnVkuoDcVUe), [Soundz of the South](https://open.spotify.com/artist/5PS6bbC5cXexJCwX3QPcgU) | [Vuka!](https://open.spotify.com/album/4EsJNgGMShrHYhR4BIN13S) | 2:43 | 2023-01-11 | 2023-03-16 |
@@ -1504,6 +1505,7 @@
 | [Weltraumarmee](https://open.spotify.com/track/3PjRZwzojOxrgZBjhNW7sz) | [David Novell](https://open.spotify.com/artist/6hPMWScKjeP9uCSYBQwOlt), [PlaGu](https://open.spotify.com/artist/1A3DOlWYUWbm9NQ4fIuXUD) | [Weltraumarmee](https://open.spotify.com/album/0bZKU0cvyL2M4poWpIJq77) | 3:42 | 2022-09-28 | 2023-03-02 |
 | [Wenn Du](https://open.spotify.com/track/3YmW5LCqJib2lOnf5oe0ns) | [Tammo Dehn](https://open.spotify.com/artist/3I32FR8jT4A9UF1aZOMLYE) | [Wenn Du](https://open.spotify.com/album/35pwfi474QiorKRdbWVn7F) | 3:55 | 2022-07-27 | 2022-09-22 |
 | [Wenn du da bist](https://open.spotify.com/track/0x13yawpacOhIdMytrL6Qy) | [TEMMIS](https://open.spotify.com/artist/0zJI6wuVa9gi4ir8zlU6Km) | [Wenn du da bist](https://open.spotify.com/album/65InWclzKGgQb4VG9pkeem) | 3:39 | 2022-01-26 | 2022-02-24 |
+| [Wenn du dann weg bist](https://open.spotify.com/track/1PK2Z9ztmQ5OftJ12Pe7ZI) | [JANKA](https://open.spotify.com/artist/2hQq5kPUjPSNnI95WB6LK2) | [Wenn du dann weg bist](https://open.spotify.com/album/5OutEJHBJdzCcvm2Wyl08H) | 3:29 | 2026-01-28 |  |
 | [wenn ich manchmal](https://open.spotify.com/track/47so8z25QIY8C3XPz4fDn2) | [ZELTEN](https://open.spotify.com/artist/751j4Fjt753QGOrh9PWWWl) | [wenn ich manchmal](https://open.spotify.com/album/39q6B6eRh49xPxVAz2i7XI) | 3:08 | 2025-05-28 | 2025-06-19 |
 | [Wenn man nicht mehr kann](https://open.spotify.com/track/19PsuHcvJTSfpo3qHxDx9B) | [weesby](https://open.spotify.com/artist/6hAJs8SawcTdOOgIa46EHd) | [Du weißt es doch auch nicht](https://open.spotify.com/album/5tUhl4fA38Bi0DUVy4bzQZ) | 2:21 | 2025-12-03 | 2026-01-15 |
 | [Wenn man nicht mehr kann](https://open.spotify.com/track/3osE7BRpjLGPMLGkqV5RmH) | [weesby](https://open.spotify.com/artist/6hAJs8SawcTdOOgIa46EHd) | [Wenn man nicht mehr kann](https://open.spotify.com/album/1ZNW7PSYdjjLVm70sXi2L2) | 2:21 | 2025-02-05 | 2025-08-07 |

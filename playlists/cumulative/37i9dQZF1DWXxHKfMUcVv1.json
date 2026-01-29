@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Alpha",
+        "url": "https://open.spotify.com/album/16r1WIgldvVmCchytQQT2S"
+      },
+      "artists": [
+        {
+          "name": "Flou",
+          "url": "https://open.spotify.com/artist/0YubN7dhD1kcJe7KtALAHk"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198840,
+      "name": "Alpha",
+      "url": "https://open.spotify.com/track/3694uSFilgXYyEGFalAlJV"
+    },
+    {
+      "album": {
         "name": "Amaneci\u00f3 lloviendo",
         "url": "https://open.spotify.com/album/0IxIeG2XORcCoPjyGWtBzt"
       },
@@ -190,7 +208,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 142016,
       "name": "Auto",
       "url": "https://open.spotify.com/track/2deq9FLu0FHizs9pPsPCNv"

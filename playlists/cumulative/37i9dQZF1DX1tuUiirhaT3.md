@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-457 songs - 23 hr 17 min
+461 songs - 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Creek Of Wonder \(Meditation\)](https://open.spotify.com/track/3rbYnf1AoDwPoNTBUYRPaI) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Creek Of Wonder](https://open.spotify.com/album/4OBLtNZOdzSkQRvok1BDew) | 3:04 | 2023-10-04 | 2025-04-30 |
 | [Curled silence](https://open.spotify.com/track/2UmPertU9XzVjsUOXSdibs) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Curled silence](https://open.spotify.com/album/5qmhHkETswNSnrLhfZQMqG) | 2:50 | 2024-12-04 |  |
 | [Cyclical](https://open.spotify.com/track/7tsxqO0nfASxWTuWyiYFEp) | [Hwardo Ineso](https://open.spotify.com/artist/462RWWtGvZzX3dhgZmoXgg) | [Cyclical](https://open.spotify.com/album/6goW1gCFhhdxdp742gldnv) | 3:21 | 2025-06-03 |  |
-| [Deep Canyon \- Sound Bath](https://open.spotify.com/track/0djnuIQ6iW0QIaIZRdgQaP) | [Montana Plains](https://open.spotify.com/artist/6XOiaS2D7BL25uNuKlS4nR) | [Deep Canyon \(Sound Bath\)](https://open.spotify.com/album/79kfrMA3wytdzEOsFwYdNn) | 2:01 | 2023-02-24 |  |
+| [Deep Canyon \- Sound Bath](https://open.spotify.com/track/0djnuIQ6iW0QIaIZRdgQaP) | [Montana Plains](https://open.spotify.com/artist/6XOiaS2D7BL25uNuKlS4nR) | [Deep Canyon \(Sound Bath\)](https://open.spotify.com/album/79kfrMA3wytdzEOsFwYdNn) | 2:01 | 2023-02-24 | 2026-01-29 |
 | [Deep Forest](https://open.spotify.com/track/2j0KKxNhlqy8Z3A0gj76cV) | [Sacred Dreams](https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc) | [Deep Forest](https://open.spotify.com/album/4Ek8PX0GKxTwGEDLbUdpd2) | 2:35 | 2024-02-15 |  |
 | [Deep in the Forest](https://open.spotify.com/track/4DuZpMMRGsLlCCrrA6hwiT) | [moon echo](https://open.spotify.com/artist/36RuEVYPpPQPNKGjmrp3hN) | [Deep in the Forest](https://open.spotify.com/album/4V17VetgclqdDBWxdDkdkK) | 2:38 | 2023-10-20 |  |
 | [Deliberate](https://open.spotify.com/track/48ECJap2Z1jnuTorBMMFZT) | [Tomorrow and Now](https://open.spotify.com/artist/482UOUYdqsKTTUmnENSKJQ) | [Deliberate](https://open.spotify.com/album/0qkDJ2nXJsNCAoIRQ45AQg) | 3:02 | 2025-12-03 |  |
@@ -108,6 +108,7 @@
 | [Echo Branches](https://open.spotify.com/track/4NaokS7WwvNDq1tIozGscA) | [Astral Voyager](https://open.spotify.com/artist/6Bj7oeWzckGjkZdSwfKJHa) | [Echo Branches](https://open.spotify.com/album/5uE7OpuM8N1oo5IllhELGe) | 2:25 | 2026-01-08 |  |
 | [Echoes Of Dawn](https://open.spotify.com/track/1z47P8YHFuKiylq7Fur1kY) | [Naturalists](https://open.spotify.com/artist/1sp0zRK6eY8NaAYAjBJoAf) | [Echoes of Dawn](https://open.spotify.com/album/6B3pHA7fAP2LPKIo4K05Oi) | 3:02 | 2025-06-03 | 2025-10-16 |
 | [Echoes of Wildlife](https://open.spotify.com/track/2vUlUQQYXRBWaVhQNziqao) | [Toni Ludwig\-Graphaüs](https://open.spotify.com/artist/6SmAiryzbcGCXqPxeCDZKG) | [Echoes of Wildlife](https://open.spotify.com/album/0IfzUAJ3holMTBQnI7j729) | 3:55 | 2025-12-03 |  |
+| [Echomare](https://open.spotify.com/track/02v3iqE7seorNepl7UJUsg) | [Watersoothes](https://open.spotify.com/artist/7uPByPwENUy0Xn3TKBZBHG) | [Echomare](https://open.spotify.com/album/2xVyPsqh8kZEag8fvC7Imu) | 2:17 | 2026-01-28 |  |
 | [Echovault](https://open.spotify.com/track/3ACnfmq21BKFwc6gc6ABcS) | [Pristeen](https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj) | [Echovault](https://open.spotify.com/album/7sTeyq0yvZfyJKgCVZJc0E) | 3:38 | 2025-04-01 |  |
 | [Ecos de Meditación \(Nature\)](https://open.spotify.com/track/1iIpF6fS9mkf275Gun2wl7) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Renacer en Calma](https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW) | 2:40 | 2023-06-09 |  |
 | [Eden](https://open.spotify.com/track/0UMFi650xZxD3qj0OxsXKd) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Eden](https://open.spotify.com/album/4MQ8zwffRyWpFLh2fZBV9q) | 2:40 | 2025-06-03 |  |
@@ -168,7 +169,7 @@
 | [Gloom](https://open.spotify.com/track/0KfCNOZ5t6pld3BPrsclKW) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Gloom](https://open.spotify.com/album/2oW7DPtkYty3pzxB5UsB3u) | 2:50 | 2024-12-04 |  |
 | [Glorious Day](https://open.spotify.com/track/2nfKEVyeeqmqtuZB3K6SqO) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Nightfall](https://open.spotify.com/album/5JLm8Z06t9ki0MOqmPeMst) | 2:57 | 2021-12-17 | 2024-09-19 |
 | [Golden Hour](https://open.spotify.com/track/5uOL8rOH6IS4L0NFbwpKei) | [Sheila Dawn](https://open.spotify.com/artist/5XSMONg34qtPY5qFntQfag) | [Golden Hour](https://open.spotify.com/album/6SHkCrdO9en2tc0QDex3pB) | 3:33 | 2025-12-18 |  |
-| [Golden Meadow](https://open.spotify.com/track/2RnLkBVNSErnfTgnRtT7lJ) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Golden Meadow](https://open.spotify.com/album/7csw7q2jmFiLOJdEpHQgyw) | 2:40 | 2023-01-09 |  |
+| [Golden Meadow](https://open.spotify.com/track/2RnLkBVNSErnfTgnRtT7lJ) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Golden Meadow](https://open.spotify.com/album/7csw7q2jmFiLOJdEpHQgyw) | 2:40 | 2023-01-09 | 2026-01-29 |
 | [Gravity](https://open.spotify.com/track/3ysGZCVWac500Tp1WtPfSF) | [Laila Lawson](https://open.spotify.com/artist/7FkVtLkKm15RmW66X3x23z) | [Love Heals](https://open.spotify.com/album/3GyG7YjDG7pp7X5VmulZCh) | 3:48 | 2021-12-17 | 2023-01-21 |
 | [Greater](https://open.spotify.com/track/1aF9Um0aHpzysJw1tKJB1S) | [YON](https://open.spotify.com/artist/2cOdd5qCI4APHYIfwOXges) | [Greater](https://open.spotify.com/album/21C8zODk6vFYHTiijWp8Jw) | 3:24 | 2021-12-17 | 2024-09-19 |
 | [Grow, My Dear](https://open.spotify.com/track/5CRZJDlRrjmWXVmnhFHcQY) | [Felix Dekker](https://open.spotify.com/artist/0mUCh5H0yIr67MM7lPq3kL) | [Grow, My Dear](https://open.spotify.com/album/60IN9Im3JUIoN2YGAnMhvs) | 2:57 | 2025-04-01 |  |
@@ -338,6 +339,7 @@
 | [Safe Haven](https://open.spotify.com/track/5R44eDYOtCyipsoiJtvwVK) | [D'Verti](https://open.spotify.com/artist/09rAM5GlzBVG3FODKTlrRu) | [Safe Haven](https://open.spotify.com/album/2GJaENPy9CPAfPJwXV83km) | 2:44 | 2026-01-08 |  |
 | [Sajjan](https://open.spotify.com/track/6TrKvsa0yQe8G9lF21r85N) | [Ashia Kashyap](https://open.spotify.com/artist/0ZsjZX7yAwB3UhNT9cWonV) | [Sajjan](https://open.spotify.com/album/4A4PZSJa0qN2whFj2Us9LG) | 4:20 | 2022-11-22 | 2025-04-30 |
 | [Samatha](https://open.spotify.com/track/2m89atbZGjs0AlwOAB5NQm) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Vipassana](https://open.spotify.com/album/6hiv1Hk05IzlRAN4cwtSbU) | 3:35 | 2023-05-05 | 2025-03-15 |
+| [Samsara](https://open.spotify.com/track/7zgg2eBf8KKNIRvU53BZwG) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Samsara](https://open.spotify.com/album/5dx5QepH4tjh7ZVvQGmOPY) | 2:46 | 2026-01-28 |  |
 | [Sanctuary Solace](https://open.spotify.com/track/1ar2UwQUdy0F2nLPsD5vcI) | [Brett McLaughlin](https://open.spotify.com/artist/0vQpcjQ759LHyXKgSdHweo) | [Sanctuary Solace](https://open.spotify.com/album/612Lseim2IwO0aBM1CkFXB) | 2:49 | 2024-05-01 |  |
 | [Sand Drawing \- Spa](https://open.spotify.com/track/3Ch7h6whbsHYCetnonaAfO) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Sand Drawing](https://open.spotify.com/album/4fKJSTrxTgMu1Qdu62Z4YN) | 3:12 | 2023-03-23 | 2025-04-02 |
 | [Sand Mountain](https://open.spotify.com/track/3EvomX9g0fEOKTCRUTcvg1) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Sand Mountain](https://open.spotify.com/album/7HXnsk96PhsG1lvoksUYeq) | 2:18 | 2023-10-04 | 2025-04-30 |
@@ -367,6 +369,7 @@
 | [Silent Garden](https://open.spotify.com/track/5a6p7ljcmAEsIlx8fPMnIM) | [Divine Isle](https://open.spotify.com/artist/2lbyzOWzrHi2r8yMUnuglT) | [Silent Garden](https://open.spotify.com/album/30f8pVQw0QoYkJ6UY71If6) | 2:31 | 2025-09-04 |  |
 | [Silent Pines](https://open.spotify.com/track/7sWevbmCbGcTHqmfAaSd2D) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [Silent Pines](https://open.spotify.com/album/5RrA7fxsc4CBnMXVz29bVz) | 2:35 | 2026-01-08 |  |
 | [Silver Lining](https://open.spotify.com/track/18ASLynW0wviGgoxqceQNB) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Silver Lining](https://open.spotify.com/album/4xvs942AlHntixf72xQeSs) | 3:30 | 2021-12-17 | 2023-05-23 |
+| [Silverhollow](https://open.spotify.com/track/0mJzBt2BjTqbzTHqQhqyHf) | [Elysian Woods](https://open.spotify.com/artist/2a9nGgopYoBxxQMwXO7bvi) | [Silverhollow](https://open.spotify.com/album/1S69O9i42zGrY1orv8I8c9) | 3:02 | 2026-01-28 |  |
 | [Sinergia](https://open.spotify.com/track/0iBu4dSNpYnbaHjJL92LrO) | [Everglades](https://open.spotify.com/artist/5bfwEl4yO80YBMyJWkM7gk) | [Sinergia](https://open.spotify.com/album/3RjsEGVnhEn38KrWoiouLV) | 2:27 | 2024-04-01 |  |
 | [Sleeping Moons \- Sound Bath](https://open.spotify.com/track/4G6yXGixVP0L8y7H7S7VAC) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Sleeping Moons](https://open.spotify.com/album/35fjYF6bpmPk6cuFkTzQiv) | 3:41 | 2022-09-30 | 2025-06-04 |
 | [Slow Mind Down](https://open.spotify.com/track/54FbTXlSUxVbW9GzdqeTTb) | [Universal Mind](https://open.spotify.com/artist/24B3hez0bgvZ1xSx1TzcOA) | [Amethyst](https://open.spotify.com/album/4iXemjL24zprZKSuo3sQgF) | 3:09 | 2021-12-17 | 2023-03-18 |
@@ -378,6 +381,7 @@
 | [Somos Tierra](https://open.spotify.com/track/7AVLKd5agjTZWrfjxBTMHX) | [Ancestral Beats](https://open.spotify.com/artist/5s5I6gLsXrfTFt91nIznYb) | [Somos Tierra](https://open.spotify.com/album/6xGYEZBKtcLC7KIKJOrXSM) | 2:54 | 2022-08-15 | 2024-11-21 |
 | [Soothing the Ocean](https://open.spotify.com/track/2dGwmaVEeKceZET2Tw1UvK) | [Zonestays](https://open.spotify.com/artist/7qrpF6gvKx1zA0dGofJVdh) | [Soothing the Ocean](https://open.spotify.com/album/26sn9bQUdYBJpalMa9Fikl) | 2:41 | 2022-02-01 | 2024-05-02 |
 | [Spectral Stone](https://open.spotify.com/track/6Rus9WFFNWmwink9FBzhjw) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Spectral Stone](https://open.spotify.com/album/5nw8PE1qYifYIlNXHQesdl) | 3:20 | 2021-12-17 | 2024-04-02 |
+| [Sphagnum](https://open.spotify.com/track/5reTnUgC5FTOA8EsV7nfrE) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Sphagnum](https://open.spotify.com/album/5dV6q8LIdcS2D1MCdYqGOk) | 2:00 | 2026-01-28 |  |
 | [Spiritual Forest](https://open.spotify.com/track/6MLAXN84m0ScmK5vZN2pMI) | [Bear Jonnes](https://open.spotify.com/artist/2C7SHsx4JHNJ09qz1sjatt) | [Spiritual Forest](https://open.spotify.com/album/0bPr4sm060Jpa0BorSdsoI) | 2:53 | 2025-04-29 | 2025-10-16 |
 | [Springtime Bird](https://open.spotify.com/track/3VW0JyEfyYHqmhiZORcdTr) | [Orakleminds](https://open.spotify.com/artist/76yD4nheAs3jgqSgQZDDwC) | [Harmonic Waves](https://open.spotify.com/album/3oCRkrg7AL8r5rMfGVPU2t) | 3:21 | 2021-12-17 | 2024-05-02 |
 | [Sprout Valley](https://open.spotify.com/track/1zq1IjSWVsKDPQ2OIzBMpl) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Sprout Valley](https://open.spotify.com/album/45CmZaGRiS4bduUG2BMUES) | 3:20 | 2022-03-18 | 2024-09-07 |

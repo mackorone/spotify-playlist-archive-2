@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 265731,
       "name": "Nica's Dream",
       "url": "https://open.spotify.com/track/6DfUkofhWGzAxkJcsTVAOz"
@@ -2650,6 +2650,24 @@
       "duration_ms": 426600,
       "name": "\u30b5\u30d5\u30a1\u30ea",
       "url": "https://open.spotify.com/track/4MEXW1zCYDjD3vZy8Sa9uR"
+    },
+    {
+      "album": {
+        "name": "SEYCHELLES",
+        "url": "https://open.spotify.com/album/7BQPfd39YTObQGamGhDF7g"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Takanaka",
+          "url": "https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260333,
+      "name": "\u30c8\u30fc\u30ad\u30e7\u30fc\u30ec\u30ae\u30fc",
+      "url": "https://open.spotify.com/track/5floNyItopWZyB4IzKrJtW"
     },
     {
       "album": {

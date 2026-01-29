@@ -1,6 +1,6 @@
 {
   "description": "Popkillery rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i wszystkich nominowanych utwor\u00f3w w kategorii singiel roku.",
-  "num_followers": 10594,
+  "num_followers": 10593,
   "original_name": "Popkillery 2025: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -911,26 +911,6 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
-        "name": "DresKot",
-        "url": "https://open.spotify.com/album/2ihF9wkzHATrtn42gNB0uD"
-      },
-      "artists": [
-        {
-          "name": "Paluch",
-          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
-        },
-        {
-          "name": "Szpaku",
-          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "DresKot",
-      "url": "https://open.spotify.com/track/4qTdBXG8gJPVd07jVzuDIY"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
         "name": "Techno",
         "url": "https://open.spotify.com/album/6Ng4npzmFeqsysgEQgus6j"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 195230,
       "name": "Techno",
       "url": "https://open.spotify.com/track/7j5lyR5RW7JLzXayM4zr8q"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
+        "name": "DresKot",
+        "url": "https://open.spotify.com/album/2ihF9wkzHATrtn42gNB0uD"
+      },
+      "artists": [
+        {
+          "name": "Paluch",
+          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
+        },
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "DresKot",
+      "url": "https://open.spotify.com/track/4qTdBXG8gJPVd07jVzuDIY"
     },
     {
       "added_at": "2025-04-24 21:35:46",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
-        "name": "ZBUNTOWANI",
-        "url": "https://open.spotify.com/album/4PGVxRoEutpEMXNbqqDQ2Q"
-      },
-      "artists": [
-        {
-          "name": "Magiera",
-          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
-        },
-        {
-          "name": "BSK",
-          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "ZBUNTOWANI",
-      "url": "https://open.spotify.com/track/2gqTWssF1gWHT0SbQYoQgB"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
         "name": "LEVEL DOWN",
         "url": "https://open.spotify.com/album/56WnDQSLIcUlKqTIwtWmKp"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 321702,
       "name": "LEVEL DOWN",
       "url": "https://open.spotify.com/track/1uU3qFjCD0NLpWco9f8mHD"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
+        "name": "ZBUNTOWANI",
+        "url": "https://open.spotify.com/album/4PGVxRoEutpEMXNbqqDQ2Q"
+      },
+      "artists": [
+        {
+          "name": "Magiera",
+          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
+        },
+        {
+          "name": "BSK",
+          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "ZBUNTOWANI",
+      "url": "https://open.spotify.com/track/2gqTWssF1gWHT0SbQYoQgB"
     },
     {
       "added_at": "2025-04-24 21:35:46",

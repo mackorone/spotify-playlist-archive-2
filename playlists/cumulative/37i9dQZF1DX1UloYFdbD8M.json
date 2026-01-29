@@ -2175,6 +2175,32 @@
     },
     {
       "album": {
+        "name": "Ennakaruppi",
+        "url": "https://open.spotify.com/album/1hhc40RRyJBxaU71OLcvI4"
+      },
+      "artists": [
+        {
+          "name": "Vedan",
+          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
+        },
+        {
+          "name": "gouthammm",
+          "url": "https://open.spotify.com/artist/43Vt9P8hBXvNLz23OGzYoU"
+        },
+        {
+          "name": "nichesluck",
+          "url": "https://open.spotify.com/artist/5o0U7xMRW1IxdOuwJ5z8ln"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Ennakaruppi",
+      "url": "https://open.spotify.com/track/02bvAijBB6U4VeVF1mLEcI"
+    },
+    {
+      "album": {
         "name": "Ennennum",
         "url": "https://open.spotify.com/album/4dzSgo7E6xIEHpfXG3IoVa"
       },
@@ -8106,6 +8132,36 @@
       "duration_ms": 231729,
       "name": "Seul",
       "url": "https://open.spotify.com/track/2zEcttmwTWpku8WMnSSEqo"
+    },
+    {
+      "album": {
+        "name": "Shaadi Masti (From\" Saina Music Indie\")",
+        "url": "https://open.spotify.com/album/50fE7yIwAIBu3U2cuAm3tm"
+      },
+      "artists": [
+        {
+          "name": "Hanan Shaah",
+          "url": "https://open.spotify.com/artist/5WGX9SJLY7TCqRUJcfcaYi"
+        },
+        {
+          "name": "Sreehari K",
+          "url": "https://open.spotify.com/artist/4HEziz1lkW1kFRRMKJh2Kx"
+        },
+        {
+          "name": "Sharfu",
+          "url": "https://open.spotify.com/artist/3avQr1PDVuj9mLt0vySDYa"
+        },
+        {
+          "name": "Dhaliya navas",
+          "url": "https://open.spotify.com/artist/1bU5NVHBVjMH4k691oMnEw"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224571,
+      "name": "Shaadi Masti - From\" Saina Music Indie\"",
+      "url": "https://open.spotify.com/track/5EdLE3j0KG2xHSY4Anm1qM"
     },
     {
       "album": {

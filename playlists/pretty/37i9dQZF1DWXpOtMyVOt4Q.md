@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 ### [Chill Mode](https://open.spotify.com/playlist/37i9dQZF1DWXpOtMyVOt4Q)
 
-> Soft beats to game, vibe and stay unbothered
+> Relaxed beats to game, vibe and stay unbothered
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,567 likes - 30 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,559 likes - 30 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,13 +18,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 8 | [4U](https://open.spotify.com/track/3LPps8vSpnngb4iJfmfDmM) | [Protier](https://open.spotify.com/artist/0ZmYPydrdLRXjAEM2nCVIp) | [4U](https://open.spotify.com/album/0izvBvB5oOxhG3NIsOAlKJ) | 2:52 |
 | 9 | [When the City Was Quiet](https://open.spotify.com/track/5AudrkLWtPGGyHb459MagI) | [Crystal Motel](https://open.spotify.com/artist/6UD8pS3KW4GX4PPxza4OW3) | [When the City Was Quiet](https://open.spotify.com/album/7Gz7z4o1bFmp3vceUQdwfC) | 2:05 |
 | 10 | [Atlas](https://open.spotify.com/track/5l3ydjkyj3Q6QmRftWvxDU) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Atlas](https://open.spotify.com/album/6qoLOPbl1OAkFvNT4fmpZM) | 3:05 |
-| 11 | [Gravity](https://open.spotify.com/track/6W2Vs75yqXyLYscxl8rtY2) | [Rick Groove](https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv) | [Gravity](https://open.spotify.com/album/4NzihaIFhK1CyM24DQSkax) | 3:00 |
-| 12 | [First Juice](https://open.spotify.com/track/5LXurYxYNMyJKCSMq9dyIK) | [Matt Bleu](https://open.spotify.com/artist/6sL4jX2tlj46oaPlC7Nn22) | [First Juice](https://open.spotify.com/album/6kwdmcC0pL681Yq7CvlerR) | 2:14 |
-| 13 | [Youth](https://open.spotify.com/track/3htQLQ5sBwlf8q7BwFHCyR) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Youth](https://open.spotify.com/album/7sTZ8nxCThLx23NJyXgVZY) | 2:22 |
-| 14 | [Mistline](https://open.spotify.com/track/6Tsjt5Z1rPyYHpUT0rtimv) | [Night Shapes](https://open.spotify.com/artist/6PRP1lwrRpqb8gfYERsnhV) | [Mistline](https://open.spotify.com/album/5q7UFqrJAgGZ9aNrrjEX3F) | 2:10 |
-| 15 | [Powerhouse](https://open.spotify.com/track/0Ygqq5WvKENWa8BeM1gNqB) | [crayg](https://open.spotify.com/artist/2V6p3TuP6FqZBVpnbmfvHg) | [Powerhouse](https://open.spotify.com/album/1RDFTYNdYt9gi0TkFCaFRF) | 3:26 |
-| 16 | [crusade](https://open.spotify.com/track/30bpR02KwJ6SpvHUvdvuoW) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [crusade](https://open.spotify.com/album/2aQzUj8sNTgQN1AV3uETXt) | 2:08 |
-| 17 | [All Good](https://open.spotify.com/track/6SNmgTxRrgIcoZGkfHefTR) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [All Good](https://open.spotify.com/album/20M62reRZt3OEtj2VHUZ28) | 2:54 |
+| 11 | [First Juice](https://open.spotify.com/track/5LXurYxYNMyJKCSMq9dyIK) | [Matt Bleu](https://open.spotify.com/artist/6sL4jX2tlj46oaPlC7Nn22) | [First Juice](https://open.spotify.com/album/6kwdmcC0pL681Yq7CvlerR) | 2:14 |
+| 12 | [Youth](https://open.spotify.com/track/3htQLQ5sBwlf8q7BwFHCyR) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Youth](https://open.spotify.com/album/7sTZ8nxCThLx23NJyXgVZY) | 2:22 |
+| 13 | [Mistline](https://open.spotify.com/track/6Tsjt5Z1rPyYHpUT0rtimv) | [Night Shapes](https://open.spotify.com/artist/6PRP1lwrRpqb8gfYERsnhV) | [Mistline](https://open.spotify.com/album/5q7UFqrJAgGZ9aNrrjEX3F) | 2:10 |
+| 14 | [Powerhouse](https://open.spotify.com/track/0Ygqq5WvKENWa8BeM1gNqB) | [crayg](https://open.spotify.com/artist/2V6p3TuP6FqZBVpnbmfvHg) | [Powerhouse](https://open.spotify.com/album/1RDFTYNdYt9gi0TkFCaFRF) | 3:26 |
+| 15 | [crusade](https://open.spotify.com/track/30bpR02KwJ6SpvHUvdvuoW) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [crusade](https://open.spotify.com/album/2aQzUj8sNTgQN1AV3uETXt) | 2:08 |
+| 16 | [All Good](https://open.spotify.com/track/6SNmgTxRrgIcoZGkfHefTR) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [All Good](https://open.spotify.com/album/20M62reRZt3OEtj2VHUZ28) | 2:54 |
+| 17 | [Transmission](https://open.spotify.com/track/44RvNrpD0C0rWabbBQxXBk) | [Neon Crash](https://open.spotify.com/artist/1KM1XGkE2aOq0EC3irL81F) | [Transmission](https://open.spotify.com/album/0pUtXTBg1cfX4dwTXD61Nl) | 2:42 |
 | 18 | [Stay Cool](https://open.spotify.com/track/2XDhFE4NXiX7Ks3fhDnEG7) | [Niriko](https://open.spotify.com/artist/249Q1LZa29XL7XIatTN45M) | [Stay Cool](https://open.spotify.com/album/3jTKFgtbKKxWTSv5yd9CWa) | 3:03 |
 | 19 | [Arcade Lounge](https://open.spotify.com/track/3ctC0SWZpD2T2O2qfKvXPy) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Arcade Lounge](https://open.spotify.com/album/0ccC9OTqqjk07KVlLCemms) | 3:16 |
 | 20 | [Slow Orbit](https://open.spotify.com/track/3OqQMDKvkhyBblLYYEHmQR) | [Ghost in Delay](https://open.spotify.com/artist/3sCPjqofyWElqBsicU6DVh) | [Slow Orbit](https://open.spotify.com/album/5L5GUjk8wxSpWemLMBHG24) | 2:10 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 25 | [I Got You](https://open.spotify.com/track/1EdwWmhxpktSBKIV6J4wUJ) | [Sean Rivers](https://open.spotify.com/artist/7k8ThbMOx8Qg3rtkMEUI7R) | [I Got You](https://open.spotify.com/album/0c9MPsA7YYy54S0byo7M7P) | 2:37 |
 | 26 | [Space Things](https://open.spotify.com/track/1us1HStVhoyj9XWSJkyayB) | [Neon Crash](https://open.spotify.com/artist/1KM1XGkE2aOq0EC3irL81F) | [Space Things](https://open.spotify.com/album/3m2eI236x8uclClzy5zGWz) | 2:08 |
 | 27 | [Chill Surf](https://open.spotify.com/track/2iUf59aTvK5OZg7zo97ziz) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Chill Surf](https://open.spotify.com/album/5U59UOmU3LGQn1fNlrhmna) | 2:57 |
-| 28 | [In the Dark](https://open.spotify.com/track/2NpTkuYal66mwh3s36tHVE) | [Purple Dive](https://open.spotify.com/artist/1e8fzmX4tpKKjWoPk7tW7n) | [In the Dark](https://open.spotify.com/album/6i7CeVJanxewX9rODf7pJT) | 3:52 |
-| 29 | [Timid Space](https://open.spotify.com/track/3LXB0Akbt9dfbwlQYcBdX4) | [Yamouss](https://open.spotify.com/artist/2eJOQMKGwHuTNSArWx1pgR) | [Timid Space](https://open.spotify.com/album/5z4XT6kWqk4t7t2JyRtk9f) | 2:59 |
-| 30 | [Transmission](https://open.spotify.com/track/44RvNrpD0C0rWabbBQxXBk) | [Neon Crash](https://open.spotify.com/artist/1KM1XGkE2aOq0EC3irL81F) | [Transmission](https://open.spotify.com/album/0pUtXTBg1cfX4dwTXD61Nl) | 2:42 |
+| 28 | [Timid Space](https://open.spotify.com/track/3LXB0Akbt9dfbwlQYcBdX4) | [Yamouss](https://open.spotify.com/artist/2eJOQMKGwHuTNSArWx1pgR) | [Timid Space](https://open.spotify.com/album/5z4XT6kWqk4t7t2JyRtk9f) | 2:59 |
+| 29 | [In the Dark](https://open.spotify.com/track/2NpTkuYal66mwh3s36tHVE) | [Purple Dive](https://open.spotify.com/artist/1e8fzmX4tpKKjWoPk7tW7n) | [In the Dark](https://open.spotify.com/album/6i7CeVJanxewX9rODf7pJT) | 3:52 |
+| 30 | [Gravity](https://open.spotify.com/track/6W2Vs75yqXyLYscxl8rtY2) | [Rick Groove](https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv) | [Gravity](https://open.spotify.com/album/4NzihaIFhK1CyM24DQSkax) | 3:00 |
 
-Snapshot ID: `AAAAAH8AuF8TkXVqgAwTEP6IK3arRdow`
+Snapshot ID: `AAAAAAuTyl5Kz+bbfv4lfB3fUAwSohar`

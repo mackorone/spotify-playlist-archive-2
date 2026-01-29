@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover:민경훈 \(Min Kyunghoon\)\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover:양다일 \(Yang Da Il\)\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-631 songs - 1 day 17 hr 15 min
+632 songs - 1 day 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Drunken confession at night \(Prod\. 2soo\)](https://open.spotify.com/track/2Jvl8m0bAt7bS76pLsMeJk) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Drunken confession at night](https://open.spotify.com/album/6ckoOynVQtEj04mbOAyGAh) | 4:06 | 2022-06-20 | 2024-07-12 |
 | [Easy On Me](https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:44 | 2024-02-20 | 2024-04-24 |
 | [ELEVATOR](https://open.spotify.com/track/1TyJ03k31YUBobtQo5g6ji) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [ELEVATOR](https://open.spotify.com/album/54iEiUHiYVeNdKDRZqDsag) | 3:15 | 2022-03-29 | 2022-05-12 |
-| [Emergency Room](https://open.spotify.com/track/1oeHVF6CDlC4dXrYtYhsG7) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Emergency Room](https://open.spotify.com/album/1l5PtAZAZpzOiDx58tHE6R) | 3:38 | 2025-10-14 |  |
+| [Emergency Room](https://open.spotify.com/track/1oeHVF6CDlC4dXrYtYhsG7) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Emergency Room](https://open.spotify.com/album/1l5PtAZAZpzOiDx58tHE6R) | 3:38 | 2025-10-14 | 2026-01-29 |
 | [Emergency Room \- 2021](https://open.spotify.com/track/3USmrwVK08XzzrIQdYtY1m) | [Hwang In Wook](https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq) | [Emergency Room \(2021\)](https://open.spotify.com/album/2ysDz3rcISkxRnuLjM8gaW) | 4:03 | 2021-12-20 | 2022-07-09 |
 | [Empty](https://open.spotify.com/track/79pnJjoMNfFYAdW90Yd8Fr) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [Empty](https://open.spotify.com/album/4HEYF3e5FR2nVhlGQ7XQLO) | 3:38 | 2025-05-12 | 2025-08-27 |
 | [Empty words](https://open.spotify.com/track/3Hf9mJbB2Pif4n3VkB1Lzg) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Empty words](https://open.spotify.com/album/0rMu2ccCP5oQJnLogE2idU) | 4:12 | 2021-12-20 | 2022-07-29 |
@@ -350,6 +350,7 @@
 | [Missed Call](https://open.spotify.com/track/22g2Ttk9ICOuAc8an32gOE) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [Missed Call](https://open.spotify.com/album/7bWbYRiQWUBm0JSRmdt6Gn) | 3:01 | 2022-03-24 | 2022-04-11 |
 | [Monolog](https://open.spotify.com/track/2e0m7tXzjZeara0Z3vgaL2) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Monolog](https://open.spotify.com/album/1QpVMETbLgA8yvGQiN1OKS) | 3:52 | 2021-12-20 | 2022-04-10 |
 | [Monologue \(Acoustic Version\)](https://open.spotify.com/track/7pTxVFyoJq4jv2kCdxhj68) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [CLICHÉ](https://open.spotify.com/album/7piEh9immnLWa85U4uh5Gz) | 4:15 | 2024-10-30 | 2024-12-02 |
+| [MOON](https://open.spotify.com/track/0OTJ61b0NbEyjgbNdIB0E8) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [MOON \(Original Soundtrack from Even if This Love Disappears Tonight\)](https://open.spotify.com/album/4Eo2nHZXlq7SKnemJU81ul) | 3:36 | 2026-01-29 |  |
 | [Mother](https://open.spotify.com/track/0md3x2yZXAkXeK3Pw7Sgfh) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Mother](https://open.spotify.com/album/43g68A9Q4Xltflzp3XwfLQ) | 2:56 | 2022-03-29 | 2022-07-25 |
 | [Mother Nature \(H₂O\)](https://open.spotify.com/track/7KZThhMaRjQpB9x6yIJvZ8) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [Mother Nature \(H₂O\)](https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw) | 3:52 | 2022-01-27 |  |
 | [Moving Away](https://open.spotify.com/track/57Ylr5UBALW6Rrkue2vBB3) | [\#Annyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Moving Away](https://open.spotify.com/album/4zhODMfhF2d2aBP5YSfLVS) | 4:24 | 2022-01-14 |  |

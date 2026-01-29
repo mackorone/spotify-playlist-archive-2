@@ -10216,7 +10216,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 194959,
       "name": "Ben\u00e7\u00e3os Sem Fim",
       "url": "https://open.spotify.com/track/0CokE1pJFBvTmgu0TWn6ne"
@@ -18798,7 +18798,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 179076,
       "name": "CYPHER DA BOLHA 2",
       "url": "https://open.spotify.com/track/3c49xG6l5s6D6Azb6Kui5b"
@@ -28912,7 +28912,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 142824,
       "name": "Fanatismo",
       "url": "https://open.spotify.com/track/1bWYjhtGuje05MGLOAQvpj"
@@ -31342,7 +31342,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 261213,
       "name": "Folded - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0dZG4yK5yPxGBbViV97mky"
@@ -35146,6 +35146,24 @@
       "duration_ms": 133224,
       "name": "Hino Nacional Funk",
       "url": "https://open.spotify.com/track/6v6zeeNg8luclQngcotmAB"
+    },
+    {
+      "album": {
+        "name": "Hipnotiza (Live)",
+        "url": "https://open.spotify.com/album/4DWQC9d8yCu6byIRWijga5"
+      },
+      "artists": [
+        {
+          "name": "Diggo",
+          "url": "https://open.spotify.com/artist/05OVRDpkoBtLlLOOsieTiu"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124112,
+      "name": "Hipnotiza - Live",
+      "url": "https://open.spotify.com/track/68cYQ3GeFnhDiDiZtRyN6E"
     },
     {
       "album": {
@@ -49394,7 +49412,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 125538,
       "name": "MONTAGEM BAILE DE FAVELA",
       "url": "https://open.spotify.com/track/0B0V6mIB9zsL5YyBsgSL02"
@@ -60376,10 +60394,36 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 279962,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/76952ZbAHlgMqrIEMqYkgB"
+    },
+    {
+      "album": {
+        "name": "Papaoutai (Afro Soul)",
+        "url": "https://open.spotify.com/album/4H50NcMmYRT4SovEvVgjqW"
+      },
+      "artists": [
+        {
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+        },
+        {
+          "name": "Chill77",
+          "url": "https://open.spotify.com/artist/7jixKGP9cSwVSLEkmgbv2s"
+        },
+        {
+          "name": "Unjaps",
+          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279962,
+      "name": "Papaoutai - Afro Soul",
+      "url": "https://open.spotify.com/track/7qbqG0UWOdpsYE2G6ckXSb"
     },
     {
       "album": {
@@ -67924,7 +67968,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 504000,
       "name": "Resenha da Muierada",
       "url": "https://open.spotify.com/track/3Weyb5gK8sP5FGd1yuRmoL"
@@ -67994,6 +68038,40 @@
       "duration_ms": 277714,
       "name": "Resenha do Arrocha 2.0",
       "url": "https://open.spotify.com/track/09ydCNBHT3UWUabo4Hi3VP"
+    },
+    {
+      "album": {
+        "name": "Resenha do Rock",
+        "url": "https://open.spotify.com/album/2nwjPQsr7O20AtXfTE3Klt"
+      },
+      "artists": [
+        {
+          "name": "Jenario Mc",
+          "url": "https://open.spotify.com/artist/7w1dLBV1NMYCUd1DvugYOa"
+        },
+        {
+          "name": "Abaddie",
+          "url": "https://open.spotify.com/artist/6SoMTtBXy46Mcv5o98xdv3"
+        },
+        {
+          "name": "rarubeats",
+          "url": "https://open.spotify.com/artist/2sElsodBJOKlCebqrG1T9B"
+        },
+        {
+          "name": "Luiz Santanna",
+          "url": "https://open.spotify.com/artist/5HDjYRgo2BxENjbWrzAlNS"
+        },
+        {
+          "name": "Ascens\u00e3o",
+          "url": "https://open.spotify.com/artist/3AWVcxEPtyuFP0RZYSBzy9"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "Resenha do Rock",
+      "url": "https://open.spotify.com/track/7nsvD1q1UrHbIeNU8iJZrc"
     },
     {
       "album": {

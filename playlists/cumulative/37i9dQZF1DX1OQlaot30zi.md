@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Plaza, Sfera, Niky Savage, 22Simba e Rkomi, Geolier e molti altri.
 
-6,716 songs - 12 day 9 hr 6 min
+6,717 songs - 12 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5244,7 +5244,7 @@
 | [Runnin'](https://open.spotify.com/track/3kPHxfY4Bpnnpu6Dj3jtsw) | [Grime Spitterz](https://open.spotify.com/artist/0m1OEh6KqtpgsVBZHasn9f), [Mad Monna](https://open.spotify.com/artist/2je4bPLG24IqIy9oPAYtaH) | [Runnin'](https://open.spotify.com/album/1Pub7Oaow4SJAtGuo2s3Gh) | 3:15 | 2022-06-30 | 2022-07-22 |
 | [Russian Roulette \(feat\. Ernia\)](https://open.spotify.com/track/4KZp6Bkk3ydyXBjc1lgwOr) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Mentre Los Angeles Brucia \(Bonus\)](https://open.spotify.com/album/0bXXnGT7RghELWV1h81SjA) | 2:19 | 2025-06-26 | 2025-07-25 |
 | [RWINA](https://open.spotify.com/track/6ue77ihbiiOZch5DQfd1TL) | [Pikasso](https://open.spotify.com/artist/3jgdWFCeO22HYQ0DiFK8xD) | [RWINA](https://open.spotify.com/album/1P2BmgspAw3IvwEpaDBBnc) | 2:35 | 2023-02-16 | 2023-03-03 |
-| [RXCKSTAR](https://open.spotify.com/track/0mf4c5VHkMOXTpzYmoO8gd) | [ermy](https://open.spotify.com/artist/0xKVLyEPa3ElqShm3PHEEK), [Rave](https://open.spotify.com/artist/0s6hi5nSdvXuOF33jPC7Eu) | [RXCKSTAR](https://open.spotify.com/album/2EP9DAd0DsnuyuhxfZyYIh) | 2:16 | 2026-01-09 |  |
+| [RXCKSTAR](https://open.spotify.com/track/0mf4c5VHkMOXTpzYmoO8gd) | [ermy](https://open.spotify.com/artist/0xKVLyEPa3ElqShm3PHEEK), [Rave](https://open.spotify.com/artist/0s6hi5nSdvXuOF33jPC7Eu) | [RXCKSTAR](https://open.spotify.com/album/2EP9DAd0DsnuyuhxfZyYIh) | 2:16 | 2026-01-09 | 2026-01-29 |
 | [S NASC S MOR SUL](https://open.spotify.com/track/1o9xwt0eNZYNU3JShTh1J6) | [Plug](https://open.spotify.com/artist/0PWa13NHPcTgfyBlIkjjBx) | [S NASC S MOR SUL](https://open.spotify.com/album/66PMyiHmMHMLs2nwIt6uEA) | 3:18 | 2025-01-31 | 2025-02-14 |
 | [s!r! \(feat\. Lazza & Sfera Ebbasta\)](https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [s!r! \(feat\. Lazza & Sfera Ebbasta\)](https://open.spotify.com/album/3FKHKKhVw31wJoYybif80p) | 3:57 | 2022-07-14 | 2022-08-26 |
 | [S.X.S.I.C.](https://open.spotify.com/track/3PDMXI7XWkuPOxZ1uNB5O7) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Tutti i Nomi del Diavolo](https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ) | 3:20 | 2024-11-01 | 2024-11-22 |
@@ -6669,6 +6669,7 @@
 | [YUMMY YUMMY \(feat\. Yung Snapp & Rosa Chemical\)](https://open.spotify.com/track/40HyFfkxD5nh9DHpSytWYt) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH) | [YUMMY YUMMY \(feat\. Yung Snapp & Rosa Chemical\)](https://open.spotify.com/album/6JeL4IWmua8HkNqXgUohro) | 2:23 | 2025-07-03 | 2025-07-25 |
 | [Yung 3p 3](https://open.spotify.com/track/59GG4S5hoVOrufgOnruEcI) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [The Globe](https://open.spotify.com/album/0Wp32iRbmSA3VvGZmAYjDv) | 1:57 | 2022-11-04 | 2022-11-25 |
 | [Z4 \(don't play\)](https://open.spotify.com/track/0xrwA0Ww9aHqitSzxBJ858) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU) | [Z4 \(don't play\)](https://open.spotify.com/album/0SQQWjkyt1DtDIUhA8AxhP) | 2:20 | 2023-04-27 | 2023-05-19 |
+| [ZACK & CODY](https://open.spotify.com/track/6JO9XKYlcaSJsag6mWpk4q) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [ZACK & CODY](https://open.spotify.com/album/21bF2d3IN6A5l8xO4YTt9j) | 2:08 | 2026-01-29 |  |
 | [Zaffiro](https://open.spotify.com/track/44e0qnheHPqzUziwjc7EP2) | [Jangy Leeon](https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7), [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX) | [Zaffiro](https://open.spotify.com/album/3NnBwoPNQ3CvIPxBLyDZuh) | 3:03 | 2024-05-31 | 2024-06-14 |
 | [ZAZABUONA FREESTYLE](https://open.spotify.com/track/0J6avl3I9La7GWMAwcCbjP) | [Colo](https://open.spotify.com/artist/4edn04TuNAXFrOn8Xdyt8k) | [ZAZABUONA FREESTYLE](https://open.spotify.com/album/2O2Kv9tvZHonXT9q3LX4RP) | 1:17 | 2025-04-17 | 2025-05-09 |
 | [ZE PEQUENO](https://open.spotify.com/track/0BTaf9B2reL6S8Ep82XMcO) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX), [Kalionte](https://open.spotify.com/artist/4EXgod8ey7HXn2o8zAOcAQ) | [SCUGNIZZI X SEMPRE](https://open.spotify.com/album/1KAwVf1Z880lPfgDXSVCkM) | 2:01 | 2025-12-11 | 2026-01-15 |

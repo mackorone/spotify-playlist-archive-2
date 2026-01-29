@@ -173,6 +173,24 @@
     },
     {
       "album": {
+        "name": "Una vida de canciones",
+        "url": "https://open.spotify.com/album/1PFJDPnHZuEwSlIbDy4G2c"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219386,
+      "name": "Balada de la trompeta",
+      "url": "https://open.spotify.com/track/0RZYe3Y9KXRGwMkrPhIDoT"
+    },
+    {
+      "album": {
         "name": "The Mormon Tabernacle Choir's Greatest Hits - 22 Best-Loved Favorites",
         "url": "https://open.spotify.com/album/7nkLoEl8c6s8Jd6I4WK5kz"
       },
@@ -200,6 +218,24 @@
       "duration_ms": 284306,
       "name": "Battle Hymn of the Republic",
       "url": "https://open.spotify.com/track/4ulHm2QEjdr4EkuFQ2rP9h"
+    },
+    {
+      "album": {
+        "name": "The Roaring 20's",
+        "url": "https://open.spotify.com/album/6y5HbesdMxfeh5W1IhwHPl"
+      },
+      "artists": [
+        {
+          "name": "Bill Stutz and His Bearcats",
+          "url": "https://open.spotify.com/artist/4vVVXvsVFEueqPHPAuCcWB"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164989,
+      "name": "Bedelia",
+      "url": "https://open.spotify.com/track/3VuJRwKY6EpDIMuHSx9eq6"
     },
     {
       "album": {
@@ -401,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Paper Doll",
+        "url": "https://open.spotify.com/album/2XeteOkdPczBXOb05FTx44"
+      },
+      "artists": [
+        {
+          "name": "The Mills Brothers",
+          "url": "https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176026,
+      "name": "Daddy's Little Girl",
+      "url": "https://open.spotify.com/track/3mJ4KsaqFTOZuOt005fBiv"
+    },
+    {
+      "album": {
         "name": "Bob Crosby and the Bobcats: The Complete Standard Transcriptions",
         "url": "https://open.spotify.com/album/5Y8YZyknkRwJL5nJMjdU8o"
       },
@@ -416,6 +470,28 @@
       "duration_ms": 133120,
       "name": "Dear Hearts And Gentle People",
       "url": "https://open.spotify.com/track/4hmKe6YigInvKIPFd1xT03"
+    },
+    {
+      "album": {
+        "name": "Microphone Music",
+        "url": "https://open.spotify.com/album/2VfgvLgihYABpbco9qsrpz"
+      },
+      "artists": [
+        {
+          "name": "Raymond Scott",
+          "url": "https://open.spotify.com/artist/31DffUzogcRBJT3Andaqtt"
+        },
+        {
+          "name": "Raymond Scott Quintet",
+          "url": "https://open.spotify.com/artist/2TtxVYGXwhuRb9EfmLlqFh"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222040,
+      "name": "Devil Drums",
+      "url": "https://open.spotify.com/track/2dmWmHjnRwkoaSCVJqmltE"
     },
     {
       "album": {
@@ -720,6 +796,24 @@
       "duration_ms": 181066,
       "name": "I Don't Want To Set The World On Fire",
       "url": "https://open.spotify.com/track/777zXDJpBufzttU4AJ2dGO"
+    },
+    {
+      "album": {
+        "name": "Vera Lynn 100",
+        "url": "https://open.spotify.com/album/2DWg5EgpevBgYN4lwSyBXU"
+      },
+      "artists": [
+        {
+          "name": "Vera Lynn",
+          "url": "https://open.spotify.com/artist/2rJkmlVHePMo2gk0InTZRS"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212013,
+      "name": "I'm Forever Blowing Bubbles - 2017 Version",
+      "url": "https://open.spotify.com/track/1IV4avTzXccy9WZTecmr0c"
     },
     {
       "album": {
@@ -1699,6 +1793,42 @@
     },
     {
       "album": {
+        "name": "Pat Boone's Golden Hits Featuring Speedy Gonzales",
+        "url": "https://open.spotify.com/album/1Uaf0smyAp3GhSGq9mWOnQ"
+      },
+      "artists": [
+        {
+          "name": "Pat Boone",
+          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141666,
+      "name": "The Wang Dang Taffy - Apple Tango",
+      "url": "https://open.spotify.com/track/3do8JPWu9If181R19wUz3g"
+    },
+    {
+      "album": {
+        "name": "The Chordettes' Best",
+        "url": "https://open.spotify.com/album/1d7UWrwiM07dJX9CJjgAtN"
+      },
+      "artists": [
+        {
+          "name": "The Chordettes",
+          "url": "https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149706,
+      "name": "The Wedding",
+      "url": "https://open.spotify.com/track/633wocay6xd7LofXojMntY"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4nc8zpPtZNQfSSFFh6Bg9s"
       },
@@ -1902,6 +2032,24 @@
       "duration_ms": 113226,
       "name": "What To Do",
       "url": "https://open.spotify.com/track/7pWM2BexAFbq9C342miNVt"
+    },
+    {
+      "album": {
+        "name": "Ramblin Rose",
+        "url": "https://open.spotify.com/album/0E6nzXbvyyVzZls1TtEmRP"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164666,
+      "name": "When You're Smiling (The Whole World Smiles With You)",
+      "url": "https://open.spotify.com/track/44hUubH8Om6qIYVJN7pyFU"
     },
     {
       "album": {

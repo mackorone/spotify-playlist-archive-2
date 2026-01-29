@@ -96,7 +96,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 210733,
       "name": "Celestial Cantabile",
       "url": "https://open.spotify.com/track/4CktDPZOXK9LL7xMs2A04c"
@@ -1340,7 +1340,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 174333,
       "name": "Hannett and Delia synth exchanges track 16",
       "url": "https://open.spotify.com/track/5bv0tIM9J7jMxBhHznLt2y"
@@ -1366,6 +1366,28 @@
       "duration_ms": 74573,
       "name": "Hannett and Delia synth exchanges track 17",
       "url": "https://open.spotify.com/track/3GTvBYl4RHsIlL1aqxnN3D"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/7qV3mWdKcPJRXlQXnONvti"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74573,
+      "name": "Hannett and Delia synth exchanges track 17",
+      "url": "https://open.spotify.com/track/65oPTTglnd7ZtJA4USyK4o"
     },
     {
       "album": {
@@ -1436,6 +1458,28 @@
     {
       "album": {
         "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/7qV3mWdKcPJRXlQXnONvti"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66080,
+      "name": "Hannett and Delia synth exchanges track 20",
+      "url": "https://open.spotify.com/track/0i3XL2FH9bPvjK08BCMP7W"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
         "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
       },
       "artists": [
@@ -1450,7 +1494,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 66080,
       "name": "Hannett and Delia synth exchanges track 20",
       "url": "https://open.spotify.com/track/2pd6AauSghzEWC3YYicPCK"
@@ -2390,7 +2434,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 175733,
       "name": "The Pattern Emerges",
       "url": "https://open.spotify.com/track/1CG4YEEQpvYe8aEUXf1mvu"

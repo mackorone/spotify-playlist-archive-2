@@ -4,7 +4,7 @@
 
 > 
 
-145 songs - 7 hr 35 min
+146 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Silver Forever](https://open.spotify.com/track/4YeDTYqW8vMvMuvAPCXv3B) | [冉明阳](https://open.spotify.com/artist/7gn8b6PSGLSivahI4fq0Cl) | [Silver Forever](https://open.spotify.com/album/4aX4pdjp1X7v955uJN7Yr1) | 3:21 | 2025-04-14 |  |
 | [SIN REMORDIMIENTOS](https://open.spotify.com/track/17AxppFQG4GtpsnSd9WL9h) | [Lope](https://open.spotify.com/artist/5xjht9gF2pJkmWwCu6SwHm) | [SIN REMORDIMIENTOS](https://open.spotify.com/album/7ISPuPra9vpoHernREfFBb) | 2:37 | 2025-06-06 |  |
 | [Situationships](https://open.spotify.com/track/17BZbS3oOKmTmHTlZ0LqUS) | [Chloe Hepburn](https://open.spotify.com/artist/4sem4vxRZAFrz2uohwhs4i) | [Situationships](https://open.spotify.com/album/3g6GU9jBMKdNszmOvITNos) | 3:18 | 2025-04-06 |  |
+| [so...............................?](https://open.spotify.com/track/6wAGRDEEsUNkbcnWVZORSg) | [ArfHudson](https://open.spotify.com/artist/1r88jRdaqwfu3r6AHp7VVU) | [cute practice](https://open.spotify.com/album/18chTHeiJkJUX3Q5T9Rry6) | 1:33 | 2026-01-28 |  |
 | [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/track/2MWzRITIfcju6LiEKpa9hd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Ocean Banks](https://open.spotify.com/artist/6GoP3F1Osw2Pf5uGu28PNK) | [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/album/7f7L8xilhtSa9w21MBiJMD) | 2:36 | 2025-07-27 |  |
 | [Stargirl](https://open.spotify.com/track/4y5J5u4xOnKxx5swAB65kU) | [yourfadedmuse](https://open.spotify.com/artist/7HbN1YBXzK01eA90eEbjvl) | [Stargirl](https://open.spotify.com/album/2fjlEvzzKeUq0oKEVDspEP) | 3:10 | 2025-07-07 |  |
 | [Stay Out Of The Basement](https://open.spotify.com/track/6QvxKCNitDSTfYR2wOWJOR) | [Allegories](https://open.spotify.com/artist/61bTkOisFXOWUZibTyZhgD) | [Stay Out Of The Basement](https://open.spotify.com/album/1O9lrL87I7MP6pEwibbAVj) | 2:59 | 2025-08-19 |  |

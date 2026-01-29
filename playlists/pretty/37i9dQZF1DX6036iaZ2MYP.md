@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Omah Lay x Seyi Vibez
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,196 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,339 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 15 | [Lalala](https://open.spotify.com/track/3xhJ7Caxt02YEGRkTZlNU0) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Blue Disco](https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t) | 2:58 |
 | 16 | [J'avance](https://open.spotify.com/track/7L5bn3oENMNf6IuuHNKyLx) | [Louzio](https://open.spotify.com/artist/1RpZELzUnXRdGMTrKB72WU) | [J'avance](https://open.spotify.com/album/1Ca70zdyAOct8FdETXE3ir) | 2:38 |
 | 17 | [Outside](https://open.spotify.com/track/5g4iF0EyHKtuduFzbnDqyV) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Half Clip](https://open.spotify.com/album/6Cuez4Hqqqxm3uZC0DnTor) | 2:47 |
-| 18 | [Iz Hawt \- French Version](https://open.spotify.com/track/6t6enwSBCMhwUS4jnrcOmr) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5), [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [WAYNE FLENORY](https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV), [SOSEY](https://open.spotify.com/artist/1L4l4XFtPJv7LMwdcsNPxd) | [Iz Hawt \(French Version\)](https://open.spotify.com/album/0SAtApfGRQ0TeTI9Kac0TL) | 2:51 |
+| 18 | [Iz Hawt \- French Version](https://open.spotify.com/track/6t6enwSBCMhwUS4jnrcOmr) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5), [WAYNE FLENORY](https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV), [SOSEY](https://open.spotify.com/artist/1L4l4XFtPJv7LMwdcsNPxd), [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Iz Hawt \(French Version\)](https://open.spotify.com/album/0SAtApfGRQ0TeTI9Kac0TL) | 2:51 |
 | 19 | [⁠State Of My Heart](https://open.spotify.com/track/0bvkdVZKWIZGPT0IPwxfZ5) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Juvie](https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC) | 2:56 |
 | 20 | [Bébé s'en va](https://open.spotify.com/track/1hHWdYKfUcLyuK4gE3i0sb) | [Singuila](https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf) | [Bébé s'en va](https://open.spotify.com/album/5P0eU3HUkfZANG3W0ajbMx) | 2:41 |
 | 21 | [Muhammad Ali \(Can't Relate\)](https://open.spotify.com/track/6FXRZs4H5N8YytItv9OMVo) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Muhammad Ali \(Can't Relate\)](https://open.spotify.com/album/5xK7SCijmxllxKrLCiQSVp) | 2:39 |

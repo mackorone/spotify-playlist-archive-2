@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. \(Cover: BOYNEXTDOOR\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,404 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,406 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 49 | [Stargazers](https://open.spotify.com/track/5ddJtDFlVL9GwdWNdnEDGL) | [ISEGYE IDOL](https://open.spotify.com/artist/08OoIISROuIG0Hw8pVhYE6) | [Stargazers](https://open.spotify.com/album/3UENaS6UmhRQ5blgKC8JQ5) | 3:38 |
 | 50 | [Attention seeker](https://open.spotify.com/track/0spx4LEu1MPSZoRRcWxdmc) | [X:IN](https://open.spotify.com/artist/2nr8bylnNeelcA9SJvwmuu) | [Defend Myself](https://open.spotify.com/album/4SaP8maNp2kvlVQDE9R1Q4) | 2:48 |
 
-Snapshot ID: `AAAAAD/kXJ98ZM+WkEPazpIDkFx3Kgb/`
+Snapshot ID: `AAAAAF4cvMS7X92CXXLAlrGVx7s/6jIc`

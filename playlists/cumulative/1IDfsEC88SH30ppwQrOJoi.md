@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world.
 
-459 songs - 23 hr 37 min
+460 songs - 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Viva La Fiesta](https://open.spotify.com/track/4xNLZSlYnEUGzHdqp5w3we) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Supreme](https://open.spotify.com/album/6PgpnZ620yx129S0s6K23u) | 3:23 | 2024-02-09 | 2024-03-14 |
 | [Voodoo](https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Voodoo](https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy) | 3:33 | 2023-04-26 | 2024-03-14 |
 | [Waiting For U](https://open.spotify.com/track/3pIGoLTRmKAexT1hJuDt4s) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [Waiting For U](https://open.spotify.com/album/0mFapSzRBwM41SFphRx4gm) | 2:17 | 2023-08-17 | 2024-03-14 |
+| [Walk Away](https://open.spotify.com/track/54yX67G3dYvtINgHaSEoUo) | [Ricci G](https://open.spotify.com/artist/5E1YmDNAWIuRCeg7bdHsmM), [N.Jay](https://open.spotify.com/artist/1FRH4fWTg3BQiGTGYNuh70), [Robyn Hart](https://open.spotify.com/artist/1ADlZG9TPoiHrlgYCorU3a) | [Walk Away](https://open.spotify.com/album/322xrrzEO35ws2ys1KaiRR) | 2:27 | 2026-01-28 |  |
 | [Warmth \(feat\. Jono Dorr\)](https://open.spotify.com/track/4n0VL14tXWTWk8gFs40dZv) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Boaz van de Beatz](https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw), [Jono Dorr](https://open.spotify.com/artist/1yNrXpRb1GV0K8oeZCzNVa) | [Warmth \(feat\. Jono Dorr\)](https://open.spotify.com/album/5x66mF9DXl6adqFN3wbZhr) | 3:39 | 2024-05-08 | 2024-08-03 |
 | [Watch Me \(feat\. Linney\)](https://open.spotify.com/track/3rWjjleBSSdkKJIg5pdjwU) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Watch Me \(feat\. Linney\)](https://open.spotify.com/album/3Pn7ZkzU2fwfgCIFRhcm3E) | 2:35 | 2023-07-21 | 2025-10-15 |
 | [We Can't Stop](https://open.spotify.com/track/7b5FO1uKhuJE0ZUJPKLWtI) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [We Can't Stop](https://open.spotify.com/album/27LVMe5wMsHddairHoCux2) | 2:02 | 2024-02-09 | 2024-03-14 |

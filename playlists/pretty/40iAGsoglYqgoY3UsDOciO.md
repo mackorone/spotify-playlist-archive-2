@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 587 likes - 472 songs - 22 hr 54 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 590 likes - 475 songs - 23 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -480,5 +480,8 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 470 | [sinisterIntentions](https://open.spotify.com/track/145cB9YpyrfsDTGxh3tTOP) | [Young Rebillionaire](https://open.spotify.com/artist/4dbmUc24ekKqfjwbpuGiRx) | [sinisterIntentions](https://open.spotify.com/album/6DqZntyUnsK62T91VZqu7N) | 1:30 |
 | 471 | [Back to You](https://open.spotify.com/track/5CLFupLl2NPAwVl9Q6M7xc) | [LMonko](https://open.spotify.com/artist/224OHndFf8m41yMVW3UMpB) | [I Never Listen](https://open.spotify.com/album/0PJpaD4ZtD1IuFB4a3upz8) | 1:40 |
 | 472 | [Do You Want Me](https://open.spotify.com/track/0mPlRoWozVrwoJXKGJ8KV2) | [Beau Audio](https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0) | [Do You Want Me](https://open.spotify.com/album/7GJrSnO6AcA9MPeKIpfnW2) | 2:10 |
+| 473 | [The Woman I Have Never Been](https://open.spotify.com/track/1cAgYiSNH4Tw6uaTYycCQ5) | [LeLore](https://open.spotify.com/artist/0Lui3cCsiAznp6iYOemK1U) | [The Woman I Have Never Been](https://open.spotify.com/album/3mXIVaVxtvwBRg9cgOdPAo) | 3:21 |
+| 474 | [D in da A](https://open.spotify.com/track/2N8YelMa5lSCBycq1hhuZK) | [D.loading](https://open.spotify.com/artist/5ogOlBGV3hK3AD8ZJXOpl9) | [D in Da A](https://open.spotify.com/album/09EFjsbE4gXYn6I8qgTc2r) | 2:37 |
+| 475 | [Minding My Business](https://open.spotify.com/track/1AYKrxVWjGxkUdcOxadqzw) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [Minding My Business](https://open.spotify.com/album/5XZYS9zWdncFogtSThtheL) | 1:39 |
 
-Snapshot ID: `AAABeKOoA0qa7VBcOZwGTnIh+5UlMrPE`
+Snapshot ID: `AAABe9llDStPzV9FSONmOgAwNR26hNDu`

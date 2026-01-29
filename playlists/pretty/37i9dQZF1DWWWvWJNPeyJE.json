@@ -1,6 +1,6 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 360068,
+  "num_followers": 360119,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
-        "name": "Waiting for You",
-        "url": "https://open.spotify.com/album/14md98nP3ELQss8GguD6dt"
-      },
-      "artists": [
-        {
-          "name": "Rexx Life Raj",
-          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
-        },
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 211470,
-      "name": "Waiting for You",
-      "url": "https://open.spotify.com/track/3PgmQl12KXQofJDeBROKcU"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
         "name": "Easy (feat. 6LACK)",
         "url": "https://open.spotify.com/album/3EZ0ulSjw5p5jX7od6ASxb"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 204454,
       "name": "Easy (feat. 6LACK)",
       "url": "https://open.spotify.com/track/5iBO5vBRL92ytdwgZCjydX"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
+        "name": "Waiting for You",
+        "url": "https://open.spotify.com/album/14md98nP3ELQss8GguD6dt"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 211470,
+      "name": "Waiting for You",
+      "url": "https://open.spotify.com/track/3PgmQl12KXQofJDeBROKcU"
     },
     {
       "added_at": "2024-09-02 12:32:28",

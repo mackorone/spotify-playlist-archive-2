@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 456 likes - 481 songs - 1 day 0 hr 21 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 456 likes - 495 songs - 1 day 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -489,5 +489,19 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 479 | [Coup de foudre](https://open.spotify.com/track/4BYTuho2EFbm1MY2WdSqUe) | [Francis Michaud](https://open.spotify.com/artist/0Ydz9KVj9RLStAp4G3Agih) | [Coup de foudre](https://open.spotify.com/album/1gPEeTJ5N3VCXV6hPJcRjF) | 3:15 |
 | 480 | [Mais Leve](https://open.spotify.com/track/1QTWxzVyXucKUmbad5g58y) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Polak](https://open.spotify.com/artist/3NEjoRUzpt9KTMIUrCvpTT), [Se7e Beats](https://open.spotify.com/artist/5FazMHHPkgx22z62GEdemR) | [Mais Leve](https://open.spotify.com/album/0AExfUYaaceghzW4qDVuwR) | 3:12 |
 | 481 | [Stupid Cupid](https://open.spotify.com/track/67y6tR7CvSQ8rvIrg9j4qv) | [Davi Crowne](https://open.spotify.com/artist/7MNZVfGPgjBa6VTM4hpc8s) | [Stupid Cupid](https://open.spotify.com/album/4aCTOZTSdVDQpqhKLljGC9) | 3:24 |
+| 482 | [Que Quede Claro](https://open.spotify.com/track/49lI9VFqbY6NVJpA10WIOG) | [Milo LPM](https://open.spotify.com/artist/33sAOFnXq05I0yYGmR8NVb) | [Que Quede Claro](https://open.spotify.com/album/7vKEvHw0Nu2lcts82X6wF7) | 3:15 |
+| 483 | [Only Mine](https://open.spotify.com/track/4zm97GgWfOXfpOLpRCGMvO) | [TMF Rock](https://open.spotify.com/artist/7MzY70dHn1srNGDfNmCLb9) | [Only Mine](https://open.spotify.com/album/4HysTro2ziT78zFNJ7DdQx) | 3:19 |
+| 484 | [TECHNO NIGHT](https://open.spotify.com/track/69sxOaaRe6NkrJQh1yIBux) | [J^2](https://open.spotify.com/artist/38ym3u8n5iJQikb1vFpOHE) | [\#4DARAVERZ](https://open.spotify.com/album/6XEqz27RbSqomKOHILEcMN) | 2:26 |
+| 485 | [The Art of My Heart](https://open.spotify.com/track/101tVU5zbAIoEzE7PByjNS) | [Davi Crowne](https://open.spotify.com/artist/7MNZVfGPgjBa6VTM4hpc8s) | [The Art of My Heart](https://open.spotify.com/album/7dH496KsZ04WdfCWQO3Heu) | 3:32 |
+| 486 | [Dead Weight](https://open.spotify.com/track/1edHKXjRueXvzYNnq3xKaS) | [Amanarii](https://open.spotify.com/artist/2c6HeyEmoSM1zZmobzbM0e) | [Dead Weight](https://open.spotify.com/album/3kj8o0tHdSh0KXN2uYcoZG) | 2:44 |
+| 487 | [True Told](https://open.spotify.com/track/1NsnkZoTfkQv5hE9LPsPWj) | [Kid Fran](https://open.spotify.com/artist/2XsWgOsfSNewdeDuU9ufN9), [juanssin](https://open.spotify.com/artist/0xszM5KDxL2achZuOizmQ8) | [Ragazzo Piante](https://open.spotify.com/album/3mpZQba5QsFjqAU6IZlgRa) | 2:02 |
+| 488 | [Double Vision](https://open.spotify.com/track/6teK4Tc58MLP0gxoHLpucF) | [Black Halo](https://open.spotify.com/artist/2Vzqi1AZ8PcAt5Br2wGtjL) | [Double Vision](https://open.spotify.com/album/2hNv9pKB5qgTQ2VQIutREo) | 3:18 |
+| 489 | [Xplicit Content](https://open.spotify.com/track/4xWKra1BBNRv8LWH0Y9IzE) | [Kunnel Dtag](https://open.spotify.com/artist/0HXuhB5PCSq1LE1ZIZIA2k) | [Xplicit Content](https://open.spotify.com/album/3x3zzdpFT2vEgz72w4EjuF) | 1:51 |
+| 490 | [Actitud](https://open.spotify.com/track/2LYUvYITRBWP8UpeYqqbwD) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Actitud](https://open.spotify.com/album/25og7mWxTamJ5Erme570Vg) | 4:40 |
+| 491 | [VOID](https://open.spotify.com/track/1Eriz304xx5lOvDLFk4gbq) | [Dream Beard](https://open.spotify.com/artist/60cbeifeYO9WgSuAkLy0Sc), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [VOID](https://open.spotify.com/album/6CMB7MPNqqp8jeA2CETHXp) | 2:36 |
+| 492 | [pa' que llorar](https://open.spotify.com/track/56KRXFPtdUH95XaCyIQ1bT) | [Juan Daniel Alexander](https://open.spotify.com/artist/5QVsRwXXc19A9oWFGQzWEC) | [pa, que llorar](https://open.spotify.com/album/3ue0Xhudt6VLjZ4NQlTptq) | 2:29 |
+| 493 | [Crees Que No Dolio 3](https://open.spotify.com/track/7n1fK65PpkaZYVGDbMrokg) | [DOMINICK LOS LEGENDARIOS](https://open.spotify.com/artist/46uQlWjG1RaoIk5R2qOxIO), [Yare](https://open.spotify.com/artist/5JshQ8OeZaQetz4IGUIkua), [Escorpion](https://open.spotify.com/artist/0QXkkSoOsXNi80RUFHk10O), [Abraham MA](https://open.spotify.com/artist/3a1AzxbCKipBtCMw7caMEq), [bigcharu la lealtad](https://open.spotify.com/artist/08azD8575wd3f1QdfaDBLz), [Gary el inmune](https://open.spotify.com/artist/1IsArmIsoHbJoVhfpxTl8E), [YEICK](https://open.spotify.com/artist/1uD8mv7v7BGzRec1R2qVNV) | [Crees Que No Dolio 3](https://open.spotify.com/album/3phkVgraplvNFUGdfM6wIp) | 5:48 |
+| 494 | [Fuego](https://open.spotify.com/track/3D9XhFSB0koxGQSPX2M4FL) | [Eclipse](https://open.spotify.com/artist/5WLzptHkat4VSiCIrbzIbB) | [Fuego](https://open.spotify.com/album/1amQQ6XnhYM5E4nLlgDDRr) | 2:24 |
+| 495 | [Demons](https://open.spotify.com/track/5GZjTmYwEFY36pS2wJN7ff) | [Kayze](https://open.spotify.com/artist/6NMa3C1AQx6cCPKohtKYVz), [Donn](https://open.spotify.com/artist/1uvfJIjMaBKj3KXTLcWpFE), [Mu'Dogo](https://open.spotify.com/artist/20crtPiXt9nwgtjGYswQdW) | [Demons](https://open.spotify.com/album/6fKeP3HVE6MWSFuQJCLZOt) | 2:35 |
 
-Snapshot ID: `AAAZUJsyqlBMgv4ZPIxz44mXRXOo0YT0`
+Snapshot ID: `AAAZXq9cxFAc0E56s1wHiatyXcR7v02f`

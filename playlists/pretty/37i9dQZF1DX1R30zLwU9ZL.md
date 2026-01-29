@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1R30zLwU9ZL.md) - [plain]
 
 > Reverse the curse! Listen to the official playlist for Freeridge and On My Block, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,068 likes - 66 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,066 likes - 66 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1R30zLwU9ZL.md) - [plain]
 | 39 | [Wayback](https://open.spotify.com/track/5KOI12DgtoDtTbuiwVLGg6) | [Juto](https://open.spotify.com/artist/2txTOM1PXeT6aMDnEtSbn1) | [Velvet](https://open.spotify.com/album/4ej1OIC70ldOWQyh3XjI8B) | 3:27 |
 | 40 | [The Christmas Crawl](https://open.spotify.com/track/1o6cnS16Ps8Rp7U8kgdlrc) | [Ural Thomas and the Pain](https://open.spotify.com/artist/3CVDnjIPKEN8xYJ2kIpq4t) | [The Christmas Crawl](https://open.spotify.com/album/6Au7Y3Mb66v9a1K2vFkvFq) | 3:07 |
 | 41 | [Merry Christmas To You](https://open.spotify.com/track/5ZZAM89fD92HblmfhEGFz7) | [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [A Joyful Sound](https://open.spotify.com/album/67B3XA5n35k731nWWuC7dx) | 2:28 |
-| 42 | [Que Te Gusta](https://open.spotify.com/track/1orObF60oJZnbfWwo9zcRL) | [La Goony Chonga](https://open.spotify.com/artist/4ZNk4pFFvI85sdgjkFPBjI) | [Dimen5ión](https://open.spotify.com/album/0KhUcxGeOjOsGCodu9IaHj) | 2:30 |
+| 42 | [Que Te Gusta](https://open.spotify.com/track/1orObF60oJZnbfWwo9zcRL) | [La Goony](https://open.spotify.com/artist/4ZNk4pFFvI85sdgjkFPBjI) | [Dimen5ión](https://open.spotify.com/album/0KhUcxGeOjOsGCodu9IaHj) | 2:30 |
 | 43 | [Tonight Tonight](https://open.spotify.com/track/1lk1AQ4NL2F5INzLcCWa1u) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 3:39 |
 | 44 | [Mercury's Refrain](https://open.spotify.com/track/6fQSO4p50GTgrF8jZkBvrI) | [Olu Bliss](https://open.spotify.com/artist/678OPmqIs9qhpULpdD8T2h) | [Slum Sonata](https://open.spotify.com/album/1L8bIn6IYkVPCtXYv2AMIS) | 3:40 |
 | 45 | [Light A Candle](https://open.spotify.com/track/6pArCsSmMYYyRH7CVuiAeP) | [The Clickettes](https://open.spotify.com/artist/0BsOIIanuv0SSyWJ3Le6zg) | [The Very Best Of The Clickettes](https://open.spotify.com/album/0sq0P0opmRaRQ3vs4p4ZSV) | 2:22 |

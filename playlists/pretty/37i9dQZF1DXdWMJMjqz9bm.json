@@ -1,12 +1,12 @@
 {
   "description": "A little bit of pop, a little bit of rap, a little bit of country? Cover: bbno$",
-  "num_followers": 223598,
+  "num_followers": 223612,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGR719Qbs4Y9nW/kaacE78Vuijd6",
+  "snapshot_id": "AAAAAJSpwVLdBtxNo+0XS+EO9at3wVns",
   "tracks": [
     {
       "added_at": "2026-01-05 22:03:13",
@@ -111,6 +111,46 @@
     {
       "added_at": "2026-01-05 22:03:13",
       "album": {
+        "name": "FEAR",
+        "url": "https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        },
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 180953,
+      "name": "WHO I WAS",
+      "url": "https://open.spotify.com/track/3IogDRfjO5JOOPhDzvppum"
+    },
+    {
+      "added_at": "2026-01-28 19:15:58",
+      "album": {
+        "name": "It's Been A Minute",
+        "url": "https://open.spotify.com/album/0AlfUEplnBsavsXfA7hR5S"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "RMR",
+          "url": "https://open.spotify.com/artist/0j1Pwmd6nuk0BXD1RqoHDw"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "It's Been A Minute",
+      "url": "https://open.spotify.com/track/3gK0LIkEiwR0YAedgo7HMP"
+    },
+    {
+      "added_at": "2026-01-05 22:03:13",
+      "album": {
         "name": "How I Got My Name",
         "url": "https://open.spotify.com/album/0T3XCThguzvTHgg817pHf5"
       },
@@ -147,26 +187,6 @@
     {
       "added_at": "2026-01-05 22:03:13",
       "album": {
-        "name": "FEAR",
-        "url": "https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        },
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 180953,
-      "name": "WHO I WAS",
-      "url": "https://open.spotify.com/track/3IogDRfjO5JOOPhDzvppum"
-    },
-    {
-      "added_at": "2026-01-05 22:03:13",
-      "album": {
         "name": "A Kid Named Cudi",
         "url": "https://open.spotify.com/album/2blXZboio9DF8VC39LmUag"
       },
@@ -179,6 +199,22 @@
       "duration_ms": 143466,
       "name": "Maui Wowie",
       "url": "https://open.spotify.com/track/0Hnm7mnmqOLCIgvbMpM4Ev"
+    },
+    {
+      "added_at": "2026-01-28 19:15:58",
+      "album": {
+        "name": "good one",
+        "url": "https://open.spotify.com/album/0ThEKh0BQa25NEJa6LGKU9"
+      },
+      "artists": [
+        {
+          "name": "Adam Yokum",
+          "url": "https://open.spotify.com/artist/7dy37FSkbn3Zc4xul0xjpe"
+        }
+      ],
+      "duration_ms": 127925,
+      "name": "good one",
+      "url": "https://open.spotify.com/track/24qUyjt3hI38uCKOAKmmdw"
     },
     {
       "added_at": "2026-01-05 22:03:13",
@@ -215,6 +251,26 @@
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
+    },
+    {
+      "added_at": "2026-01-28 19:15:58",
+      "album": {
+        "name": "Heat Check",
+        "url": "https://open.spotify.com/album/6W7NVmtGfStCFofp8tPkWa"
+      },
+      "artists": [
+        {
+          "name": "Frak",
+          "url": "https://open.spotify.com/artist/36joSnhVlKcmbsnFBM8Uz8"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "duration_ms": 164347,
+      "name": "Heat Check",
+      "url": "https://open.spotify.com/track/2pY0N4P2lb9bEGvXB1v8Cf"
     },
     {
       "added_at": "2026-01-05 22:03:13",
@@ -1143,78 +1199,6 @@
       "duration_ms": 177777,
       "name": "HOT GIRL PROBLEMS",
       "url": "https://open.spotify.com/track/02u6FGlzBXqXaDdYztkmhh"
-    },
-    {
-      "added_at": "2026-01-05 22:03:13",
-      "album": {
-        "name": "Sippin Country",
-        "url": "https://open.spotify.com/album/4tWkV00ldGSxSwCBrCrvZd"
-      },
-      "artists": [
-        {
-          "name": "Lil Man J",
-          "url": "https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H"
-        }
-      ],
-      "duration_ms": 159622,
-      "name": "Sippin Country",
-      "url": "https://open.spotify.com/track/04uX1QLFvK4AnJTiPsh2Jq"
-    },
-    {
-      "added_at": "2026-01-05 22:03:13",
-      "album": {
-        "name": "suburban daredevil",
-        "url": "https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK"
-      },
-      "artists": [
-        {
-          "name": "wifiskeleton",
-          "url": "https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62"
-        },
-        {
-          "name": "i wanna be a jack-o-lantern",
-          "url": "https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg"
-        }
-      ],
-      "duration_ms": 90067,
-      "name": "Nope your too late i already died",
-      "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
-    },
-    {
-      "added_at": "2026-01-05 22:03:13",
-      "album": {
-        "name": "whoa (mind in awe) [Remix]",
-        "url": "https://open.spotify.com/album/3hHy7rbqe1OvUZ1B2qvJ59"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 196341,
-      "name": "whoa (mind in awe) - Remix",
-      "url": "https://open.spotify.com/track/7pOwvbmszmfUmKlZoiMnGh"
-    },
-    {
-      "added_at": "2026-01-05 22:03:13",
-      "album": {
-        "name": "Blue Strips",
-        "url": "https://open.spotify.com/album/38Vd2K3RytxtNWLE5aU2VR"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 147209,
-      "name": "Blue Strips",
-      "url": "https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y"
     }
   ],
   "unique_name": "Varsity Bars",

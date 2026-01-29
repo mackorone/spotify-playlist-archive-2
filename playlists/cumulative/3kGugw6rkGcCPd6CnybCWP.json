@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Fear",
+        "url": "https://open.spotify.com/album/2sAtb468bjoRr9YJsvSnpD"
+      },
+      "artists": [
+        {
+          "name": "Lillibet",
+          "url": "https://open.spotify.com/artist/5y9NYCtVotuZjlA8wkPoDe"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232656,
+      "name": "Beautiful Fear",
+      "url": "https://open.spotify.com/track/2Q5xpVC50J31TqReHVIWk0"
+    },
+    {
+      "album": {
         "name": "Pain to Power",
         "url": "https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj"
       },
@@ -218,6 +236,24 @@
       "duration_ms": 141906,
       "name": "Cold",
       "url": "https://open.spotify.com/track/3MJ1nEyVm5Piuo6oQX7TwZ"
+    },
+    {
+      "album": {
+        "name": "Comisery",
+        "url": "https://open.spotify.com/album/46AwsxHKeMcmF4ebkExLuC"
+      },
+      "artists": [
+        {
+          "name": "Scott Middlin",
+          "url": "https://open.spotify.com/artist/5xQHsYgEBOprSATYk7ygPH"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193750,
+      "name": "Comisery",
+      "url": "https://open.spotify.com/track/2lDOspc5bBM493KJT7r6it"
     },
     {
       "album": {
@@ -1076,6 +1112,24 @@
       "duration_ms": 150512,
       "name": "Kijk Dieper",
       "url": "https://open.spotify.com/track/4it5QdcZcP1ruTRDX1ixcT"
+    },
+    {
+      "album": {
+        "name": "La Ciudad de las Estrellas",
+        "url": "https://open.spotify.com/album/7GSkEzkfsVnoy4uIykt7XE"
+      },
+      "artists": [
+        {
+          "name": "Pablopatodo",
+          "url": "https://open.spotify.com/artist/14owTErTcmgIPS30z27tBA"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228178,
+      "name": "La Ciudad de las Estrellas",
+      "url": "https://open.spotify.com/track/677GnwOJwoEG51xaRdYMe4"
     },
     {
       "album": {

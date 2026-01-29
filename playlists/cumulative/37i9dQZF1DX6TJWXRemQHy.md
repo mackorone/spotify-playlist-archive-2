@@ -4,7 +4,7 @@
 
 > An ambient + rain playlist\. Blurred city lights, empty sidewalks, and windowpane reflections 🌧️
 
-116 songs - 5 hr 27 min
+118 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Flare Of Dawn](https://open.spotify.com/track/4Z1mHYESieMXgwc5h245YM) | [Felix Dekker](https://open.spotify.com/artist/0mUCh5H0yIr67MM7lPq3kL) | [Flare Of Dawn](https://open.spotify.com/album/4yX7PwdlXbhniMnP6HJJC1) | 2:38 | 2025-12-18 |  |
 | [Fluidity](https://open.spotify.com/track/6kLTau4KL6Sy7DUvDZkhgY) | [formless cascade](https://open.spotify.com/artist/18tc2zBN94cjKYRDUa5ogZ), [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Fluidity](https://open.spotify.com/album/4xR9MRNqVlCWqSmMp9xOEX) | 2:38 | 2025-05-20 | 2025-10-25 |
 | [Flyby](https://open.spotify.com/track/405P9q8Fp8OIlKFEYhutNE) | [By Lotus](https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8) | [Flyby](https://open.spotify.com/album/5fJ8HiIbfq4dVmpaW2vgi4) | 3:35 | 2025-07-15 |  |
+| [four walls](https://open.spotify.com/track/47CuKxF91sAclurDwKkIQM) | [fragmnts](https://open.spotify.com/artist/0sr2x2un7goOqJBmtiEKZP) | [four walls](https://open.spotify.com/album/6eoPOVDUPNbOULFfC0hS8B) | 1:41 | 2026-01-28 |  |
 | [Funnel Dreams](https://open.spotify.com/track/794iFGxKeatgmEx3QIm6U5) | [Peace In Stillness](https://open.spotify.com/artist/5cQcKMsuqfhBFgESOmRDzf) | [Funnel Dreams](https://open.spotify.com/album/6lUamFP6plVpA8yq3FXhNB) | 2:43 | 2025-05-20 |  |
 | [Galileo](https://open.spotify.com/track/5vl0TMIJo6RfZaE7AveH6e) | [Flouriiche](https://open.spotify.com/artist/5bExeTiMM34JLG1L7Tiszr) | [Galileo](https://open.spotify.com/album/0BsgK8osWv6r0NaA3NlHh8) | 2:53 | 2025-12-18 |  |
 | [Garibaldi](https://open.spotify.com/track/5qcjQGV24vzWs0RPuVjDFw) | [MULVEY](https://open.spotify.com/artist/2ekourkFZvlsBnDApaXeaf) | [Awakening](https://open.spotify.com/album/0Htib76NUB6HFqEuJnqPw5) | 2:19 | 2025-05-20 |  |
@@ -85,6 +86,7 @@
 | [Rain Prayer](https://open.spotify.com/track/0KDGpRp7Zl1OEEmmwyxjbU) | [Alice Charkha](https://open.spotify.com/artist/1kXBV75CZ5gLH9WAry8OyX) | [Rain Prayer](https://open.spotify.com/album/3CRIJMs11ENdGlDDCIgZof) | 2:42 | 2025-05-20 |  |
 | [rainfall \(slowed & reverb\)](https://open.spotify.com/track/7DltIJiAn9mSabuT5crzFJ) | [julez](https://open.spotify.com/artist/72DZClrG6inu1xATuKl6lH), [Blu Velvet](https://open.spotify.com/artist/4GhQUESEKnWAUS4d9pcSS8) | [rainfall](https://open.spotify.com/album/0uP6srv1yoOUONPJAFWBIm) | 2:29 | 2025-05-20 |  |
 | [rainfall romance](https://open.spotify.com/track/23gnwVis55FifknVon0bw0) | [shelovesmytears](https://open.spotify.com/artist/04odGcXvlgFBaRDIIYzot3), [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM) | [rainfall romance](https://open.spotify.com/album/2V6KBsxIa50Inx3Eci90OH) | 2:17 | 2025-06-12 |  |
+| [Rainy Daze](https://open.spotify.com/track/45rm4fo2thjiuf4qan0UE6) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Rainy Daze](https://open.spotify.com/album/5XOsQyWua9lwCgnR6B8nRv) | 3:15 | 2026-01-28 |  |
 | [Rainy morning](https://open.spotify.com/track/4EY1jouYJXT7Tm0fSWRUvJ) | [arancina](https://open.spotify.com/artist/5YdVyeU1XSouFk8VBSfLAO), [I'm flying](https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS) | [Rainy morning](https://open.spotify.com/album/47EnexXCVKmACoZbvxxonH) | 1:55 | 2025-10-24 |  |
 | [Reaching Beyond](https://open.spotify.com/track/0WqWMpK8DVmCyXNzzA0d7R) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [Reaching Beyond](https://open.spotify.com/album/2yKjFEP2jW7T18RNefqFv5) | 2:09 | 2025-05-20 |  |
 | [Resonance Of Being](https://open.spotify.com/track/28YiWtKrKTifFNyNdDkCGY) | [Serene & Pax](https://open.spotify.com/artist/2oUi0GgBsOQRYea2aOa52L) | [Resonance Of Being](https://open.spotify.com/album/1Gt2rxrLRSzfUnodxabyEN) | 2:58 | 2025-10-24 |  |

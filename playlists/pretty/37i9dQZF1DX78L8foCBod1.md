@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,105 likes - 130 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,108 likes - 130 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,11 +111,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 | 101 | [His/Story](https://open.spotify.com/track/2PvKDoq2wPHhY4oqicrBwJ) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [His/Story / Roll The Dice](https://open.spotify.com/album/36kha76MJobek1T7CzFASG) | 3:54 |
 | 102 | [thunderBOLTfantasy](https://open.spotify.com/track/09WSdjh5Xa0rYZs3SIxh4P) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Thunderbolt Fantasy 東離劍遊紀　オリジナルサウンドトラック](https://open.spotify.com/album/30HkaUQCrZj2wMd1ONqklE) | 5:35 |
 | 103 | [光あれ](https://open.spotify.com/track/32Af51Tolwru7wDH9sgauz) | [Akihito Okano](https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD) | [光あれ](https://open.spotify.com/album/68per7qELaTtnUTYjqduRy) | 3:38 |
-| 104 | [DOA](https://open.spotify.com/track/7Jvht2ZKSBpiKTYy7qj6qc) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Aimee Blackschleger](https://open.spotify.com/artist/7rFMYhsVx0XJQ9sqVgEZAd) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 3:26 |
+| 104 | [DOA](https://open.spotify.com/track/7Jvht2ZKSBpiKTYy7qj6qc) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 3:26 |
 | 105 | [BELONG](https://open.spotify.com/track/7cbhfvV5kvpBWwjVpqvvJJ) | [SawanoHiroyuki\[nZk\]:Yosh](https://open.spotify.com/artist/2LjjIxKVSELsdFKkmABPNT) | [BELONG](https://open.spotify.com/album/7gkbhbpygQvDvGYekPOWNX) | 3:50 |
 | 106 | [Inferno](https://open.spotify.com/track/1haosXb8XNSXWBuNirom1g) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「プロメア」オリジナルサウンドトラック](https://open.spotify.com/album/69VJ66DL7INzABSeI90Ufh) | 3:54 |
 | 107 | [narrative](https://open.spotify.com/track/3iaUOZm0Hfycs8xFBy7dmZ) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [R∃/MEMBER](https://open.spotify.com/album/77GtJJcdtbg254QMEvQfNr) | 4:20 |
-| 108 | [The Reluctant Heroes](https://open.spotify.com/track/6gay903RNSvL9pbY4cGQhz) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [mpi](https://open.spotify.com/artist/1tpOWWj05FyhBx69jj5lM5) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 4:27 |
+| 108 | [The Reluctant Heroes](https://open.spotify.com/track/6gay903RNSvL9pbY4cGQhz) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 4:27 |
 | 109 | [REMIND YOU](https://open.spotify.com/track/28lfGtjQI5KYTRXxxzsu2t) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [機動戦士ガンダムUC オリジナルサウンドトラック 2](https://open.spotify.com/album/7gd542CJnlwAYiTJvpvynh) | 4:56 |
 | 110 | [UNICORN](https://open.spotify.com/track/3YbioJ807KAVVzY3NFdpF5) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [機動戦士ガンダムUC オリジナルサウンドトラック 1](https://open.spotify.com/album/356HeuMTwxtzeeIREkfJTo) | 4:46 |
 | 111 | [Vigilante](https://open.spotify.com/track/2Hke7HBRTa9rlbSN2gUKNB) | [mpi & Gemie](https://open.spotify.com/artist/23YITgz9JtLap171zsjibc) | [Vigilante](https://open.spotify.com/album/26lu87DIn5RzIAtVDNtvaP) | 3:45 |
@@ -124,7 +124,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 | 114 | [EGO](https://open.spotify.com/track/66aGCBWbAB1CgDl5ulm3lv) | [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz) | [EGO](https://open.spotify.com/album/7zu5xRNqfpTtG6rQk1BqJD) | 3:15 |
 | 115 | [Barricades](https://open.spotify.com/track/09IDtgw1w7BETDAV2X9UWt) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」Season 2 オリジナルサウンドトラック](https://open.spotify.com/album/5SRHGqmW4mzRrFMUtwF2kg) | 3:41 |
 | 116 | [sh0ut](https://open.spotify.com/track/72CR78tomDaGj2yXyPAUWI) | [SawanoHiroyuki\[nZk\]:Tielle&Gemie](https://open.spotify.com/artist/2A0KFlCxqLrv5U7YSFLl8q) | [2V\-ALK](https://open.spotify.com/album/1cWreaVLzKCYEim1vDF89j) | 4:05 |
-| 117 | [Bauklötze](https://open.spotify.com/track/3M4ZPA9akOPJVnJnepcfb6) | [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz), [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 3:56 |
+| 117 | [Bauklötze](https://open.spotify.com/track/3M4ZPA9akOPJVnJnepcfb6) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 3:56 |
 | 118 | [StarRingChild](https://open.spotify.com/track/4X9TyaTlXZKoYEaljWBIEK) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Best Selection Noir](https://open.spotify.com/album/6RLAmJ22IPTWR4JF9DsZtR) | 5:28 |
 | 119 | [Into the Sky](https://open.spotify.com/track/6tlNCRtMwXKf0gw33ynf3X) | [SawanoHiroyuki\[nZk\]:Tielle](https://open.spotify.com/artist/4smWxSH6ikie95jXI9S0Br) | [Into the Sky](https://open.spotify.com/album/4PT63MlJlgFJtBYoNNjMxW) | 3:49 |
 | 120 | [bL∞dy f8](https://open.spotify.com/track/3X056v6ulInK4Q6xcUG1Oh) | [SawanoHiroyuki\[nZk\]:Aimer](https://open.spotify.com/artist/24aMUtQKIRHDMvPI7wPd35) | [UnChild](https://open.spotify.com/album/5BEJsQOkKPgpxlk4F9jrId) | 4:48 |

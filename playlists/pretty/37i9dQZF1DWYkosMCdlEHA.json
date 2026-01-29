@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 152532,
+  "num_followers": 152543,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-09-26 03:01:17",
       "album": {
+        "name": "Is This Love (Cover) [Ac\u00fastico]",
+        "url": "https://open.spotify.com/album/1dKiVt1rzKdnjEoRHKsN8O"
+      },
+      "artists": [
+        {
+          "name": "Luana Camarah",
+          "url": "https://open.spotify.com/artist/6xm9J4N1mGbGydqfeRZH7G"
+        }
+      ],
+      "duration_ms": 232071,
+      "name": "Is This Love (Cover) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/18F79JBZvBDdI7FmRtFEEh"
+    },
+    {
+      "added_at": "2025-09-26 03:01:17",
+      "album": {
         "name": "Mar\u00e9 Cheia",
         "url": "https://open.spotify.com/album/05CKBbHojCcLRBz4X96ik8"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 197121,
       "name": "Mar\u00e9 Cheia - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3oByoGmRulhrK0h9Il19w0"
-    },
-    {
-      "added_at": "2025-09-26 03:01:17",
-      "album": {
-        "name": "Is This Love (Cover) [Ac\u00fastico]",
-        "url": "https://open.spotify.com/album/1dKiVt1rzKdnjEoRHKsN8O"
-      },
-      "artists": [
-        {
-          "name": "Luana Camarah",
-          "url": "https://open.spotify.com/artist/6xm9J4N1mGbGydqfeRZH7G"
-        }
-      ],
-      "duration_ms": 232071,
-      "name": "Is This Love (Cover) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/18F79JBZvBDdI7FmRtFEEh"
     },
     {
       "added_at": "2025-09-26 03:01:17",
@@ -691,26 +691,6 @@
     {
       "added_at": "2025-09-26 03:01:17",
       "album": {
-        "name": "Divide",
-        "url": "https://open.spotify.com/album/4r3b7z6iqWKvPGLOAN9k1H"
-      },
-      "artists": [
-        {
-          "name": "Alma Djem",
-          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
-        },
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 198938,
-      "name": "Divide - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3V02Z8lFX5ppPMIXTLFwKf"
-    },
-    {
-      "added_at": "2025-09-26 03:01:17",
-      "album": {
         "name": "Ac\u00fastico Helio Bentes",
         "url": "https://open.spotify.com/album/0dChJJpi23nrGBsdTiIRrh"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 176920,
       "name": "Estar Com Voc\u00ea - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6RhGK2a9CBRBhkM8IrAbFy"
+    },
+    {
+      "added_at": "2025-09-26 03:01:17",
+      "album": {
+        "name": "Divide",
+        "url": "https://open.spotify.com/album/4r3b7z6iqWKvPGLOAN9k1H"
+      },
+      "artists": [
+        {
+          "name": "Alma Djem",
+          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
+        },
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 198938,
+      "name": "Divide - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3V02Z8lFX5ppPMIXTLFwKf"
     },
     {
       "added_at": "2025-09-26 03:01:17",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-09-26 03:01:17",
       "album": {
+        "name": "Natiruts - Natiruts Ac\u00fastico ao Vivo no Rio de Janeiro",
+        "url": "https://open.spotify.com/album/2Bgbj1L9OuhIsGNYumBMQb"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "duration_ms": 209426,
+      "name": "No Mar - Ao Vivo",
+      "url": "https://open.spotify.com/track/38P9vgI3czMkthxfAbwxcw"
+    },
+    {
+      "added_at": "2025-09-26 03:01:17",
+      "album": {
         "name": "Rouxinois",
         "url": "https://open.spotify.com/album/6Yui3ZXHsYRpg0v7I4hMPc"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 201369,
       "name": "Rouxinois - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4fRuM4IPj3p4KF1Y7noleR"
-    },
-    {
-      "added_at": "2025-09-26 03:01:17",
-      "album": {
-        "name": "Natiruts - Natiruts Ac\u00fastico ao Vivo no Rio de Janeiro",
-        "url": "https://open.spotify.com/album/2Bgbj1L9OuhIsGNYumBMQb"
-      },
-      "artists": [
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "No Mar - Ao Vivo",
-      "url": "https://open.spotify.com/track/38P9vgI3czMkthxfAbwxcw"
     },
     {
       "added_at": "2025-09-26 03:01:17",
@@ -875,6 +875,22 @@
     {
       "added_at": "2025-09-26 03:01:17",
       "album": {
+        "name": "Natiruts Ac\u00fastico no Rio de Janeiro",
+        "url": "https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "duration_ms": 214613,
+      "name": "Quero Ser Feliz Tamb\u00e9m - Ao Vivo",
+      "url": "https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT"
+    },
+    {
+      "added_at": "2025-09-26 03:01:17",
+      "album": {
         "name": "Praia do Segredo",
         "url": "https://open.spotify.com/album/5Io826GC8cgB006FtK6X9C"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 174884,
       "name": "Praia do Segredo - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6bPoYE4I0M8oODWP4DUIsZ"
-    },
-    {
-      "added_at": "2025-09-26 03:01:17",
-      "album": {
-        "name": "Natiruts Ac\u00fastico no Rio de Janeiro",
-        "url": "https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX"
-      },
-      "artists": [
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        }
-      ],
-      "duration_ms": 214613,
-      "name": "Quero Ser Feliz Tamb\u00e9m - Ao Vivo",
-      "url": "https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT"
     },
     {
       "added_at": "2025-09-26 03:01:17",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-09-26 03:01:17",
       "album": {
-        "name": "Ao Vivo em SP",
-        "url": "https://open.spotify.com/album/3XMRbdPZN5HCiGEmwppGAA"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        }
-      ],
-      "duration_ms": 243293,
-      "name": "Aurora Boreal - Ao Vivo",
-      "url": "https://open.spotify.com/track/5dVWZYgbYqGYSQSoIUBEtd"
-    },
-    {
-      "added_at": "2025-09-26 03:01:17",
-      "album": {
         "name": "Natiruts Ac\u00fastico no Rio de Janeiro",
         "url": "https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 263106,
       "name": "Andei S\u00f3 - Ao Vivo",
       "url": "https://open.spotify.com/track/754w4HeOR2R6Si4UmQB8tv"
+    },
+    {
+      "added_at": "2025-09-26 03:01:17",
+      "album": {
+        "name": "Ao Vivo em SP",
+        "url": "https://open.spotify.com/album/3XMRbdPZN5HCiGEmwppGAA"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "duration_ms": 243293,
+      "name": "Aurora Boreal - Ao Vivo",
+      "url": "https://open.spotify.com/track/5dVWZYgbYqGYSQSoIUBEtd"
     },
     {
       "added_at": "2025-09-26 03:01:17",

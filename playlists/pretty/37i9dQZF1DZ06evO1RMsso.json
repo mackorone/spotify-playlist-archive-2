@@ -1,12 +1,12 @@
 {
   "description": "This is John Williams. The essential tracks, all in one playlist.",
-  "num_followers": 229276,
+  "num_followers": 229292,
   "original_name": "This Is John Williams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXaugAAAAABDMXwq2+z26qw/uGVmVlV6",
+  "snapshot_id": "aXgAAAAAAACepzO9HY858ihx5CL3SzeJ",
   "tracks": [
     {
       "added_at": null,
@@ -747,6 +747,26 @@
       "duration_ms": 263226,
       "name": "Princess Leia's Theme",
       "url": "https://open.spotify.com/track/7hlYfQpGJWdheP2quiyz8j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 207666,
+      "name": "Yoda's Theme",
+      "url": "https://open.spotify.com/track/69f4J5zQkPqzf9IZ36zNQL"
     }
   ],
   "unique_name": "This Is John Williams",

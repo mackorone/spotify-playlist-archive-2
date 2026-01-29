@@ -1,6 +1,6 @@
 {
   "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Camilo & Evaluna Montaner",
-  "num_followers": 280016,
+  "num_followers": 279975,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Volvernos a Encontrar",
-        "url": "https://open.spotify.com/album/6oIN2uymnjEuWbrgMzE4X1"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 186130,
-      "name": "Volvernos a Encontrar",
-      "url": "https://open.spotify.com/track/2rvfoWKvT0axDiXB96X4jO"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "Santa Para Que Porfa",
         "url": "https://open.spotify.com/album/6y60Q4HPD3K9V0anQN0y2P"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 176571,
       "name": "Santa Para Que Porfa",
       "url": "https://open.spotify.com/track/52qnXpspvSfn6VK96iADHG"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "Volvernos a Encontrar",
+        "url": "https://open.spotify.com/album/6oIN2uymnjEuWbrgMzE4X1"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 186130,
+      "name": "Volvernos a Encontrar",
+      "url": "https://open.spotify.com/track/2rvfoWKvT0axDiXB96X4jO"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Love & Christmas",
-        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
-        }
-      ],
-      "duration_ms": 217024,
-      "name": "Viva La Navidad",
-      "url": "https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "La Clave",
         "url": "https://open.spotify.com/album/2X4174eeWM2B3aMPKUyk5S"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 137472,
       "name": "La Clave",
       "url": "https://open.spotify.com/track/5Ux94g63fF8uxUHaqDOi8t"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "Love & Christmas",
+        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "duration_ms": 217024,
+      "name": "Viva La Navidad",
+      "url": "https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/6zo0N2JbFT7dfaHpY5ShpX"
-      },
-      "artists": [
-        {
-          "name": "selines",
-          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
-        }
-      ],
-      "duration_ms": 143745,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/6bCrvUh7PWvHn1Wnbu4Vsi"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "Navisad",
         "url": "https://open.spotify.com/album/4CvfMBqnVE3Hfltq69KDEI"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 186775,
       "name": "Navisad",
       "url": "https://open.spotify.com/track/4DrWtI8bBJ8rHqV2h53T9o"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/6zo0N2JbFT7dfaHpY5ShpX"
+      },
+      "artists": [
+        {
+          "name": "selines",
+          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
+        }
+      ],
+      "duration_ms": 143745,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/6bCrvUh7PWvHn1Wnbu4Vsi"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "st. Pedro's Christmas Special",
-        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
-      },
-      "artists": [
-        {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
-        }
-      ],
-      "duration_ms": 187668,
-      "name": "Otra Navidad :(",
-      "url": "https://open.spotify.com/track/0stGjckaqF832pf74QJT0l"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "Solo En Navidad",
         "url": "https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 191117,
       "name": "Solo En Navidad",
       "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "st. Pedro's Christmas Special",
+        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "duration_ms": 187668,
+      "name": "Otra Navidad :(",
+      "url": "https://open.spotify.com/track/0stGjckaqF832pf74QJT0l"
     }
   ],
   "unique_name": "Feliz Navidad",

@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124431,
+  "num_followers": 124422,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVDfnH/C/su7kNSsv6chOSUcgBjPzi",
+  "snapshot_id": "AAAVDrohdVyGvx4aGmUEyy0/PAXuYhWx",
   "tracks": [
+    {
+      "added_at": "2026-01-28 16:40:09",
+      "album": {
+        "name": "Dale Earnhardt",
+        "url": "https://open.spotify.com/album/3NnsFhinUf7kLcHHC6T06t"
+      },
+      "artists": [
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        },
+        {
+          "name": "Proppa",
+          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
+        },
+        {
+          "name": "Big Baby Scumbag",
+          "url": "https://open.spotify.com/artist/3WjxW7xt0RCSotYoQBzEXB"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Dale Earnhardt",
+      "url": "https://open.spotify.com/track/1zg7wzuyq12v7beYiMjZNX"
+    },
     {
       "added_at": "2026-01-27 16:31:36",
       "album": {

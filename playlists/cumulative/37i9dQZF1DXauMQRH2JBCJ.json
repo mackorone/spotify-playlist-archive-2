@@ -54,7 +54,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 162880,
       "name": "A Conversation",
       "url": "https://open.spotify.com/track/5xdfZDKwjrnmUwgbJWT0tg"
@@ -76,7 +76,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 136261,
       "name": "A Dream Is a Wish Your Heart Makes",
       "url": "https://open.spotify.com/track/7GMnw8RukplHysVYkXRUlm"
@@ -158,7 +158,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 160800,
       "name": "A Whole New World",
       "url": "https://open.spotify.com/track/1hwdPQtFHISvZ9SXMkNrIK"
@@ -206,7 +206,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 242956,
       "name": "A Whole New World (End Title)",
       "url": "https://open.spotify.com/track/4U9CF27YlwHRtUGKUzhUTT"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 209680,
       "name": "An Unusual Prince / Once Upon A Dream - From \"Sleeping Beauty\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/5WKxcFnCO244tMnVElhFuk"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 198933,
       "name": "At All Costs",
       "url": "https://open.spotify.com/track/4N4v3rrdciX3s5cQUohY6I"
@@ -370,7 +370,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 177293,
       "name": "Baby Mine",
       "url": "https://open.spotify.com/track/1UU3IpxOVpjjHdoQjchpgX"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 232880,
       "name": "Be Our Guest",
       "url": "https://open.spotify.com/track/18ZancOCnfubiRvcAx9kxe"
@@ -436,7 +436,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 166306,
       "name": "Beauty and the Beast",
       "url": "https://open.spotify.com/track/2rJFFUEl1LURkV0b0OARXx"
@@ -498,7 +498,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 177680,
       "name": "Beauty and the Beast",
       "url": "https://open.spotify.com/track/3I3QV9fD0CQdnekEPNgYIk"
@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "The Lion King: Special Edition Original Soundtrack (Swedish Version)",
+        "url": "https://open.spotify.com/album/1Dn2s7K0vTc55MtRTBN9sx"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241253,
+      "name": "Can You Feel the Love Tonight - End Title",
+      "url": "https://open.spotify.com/track/32RxZnEk5KyWUTZR4azxbD"
+    },
+    {
+      "album": {
         "name": "Disney Summer Songs",
         "url": "https://open.spotify.com/album/6qykGE5x584duyLVYcnojE"
       },
@@ -666,7 +684,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 177360,
       "name": "Can You Feel the Love Tonight - From \"The Lion King\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/2XQee7HP5QrDwUGHOl6GFf"
@@ -718,7 +736,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 219440,
       "name": "Can You Feel the Love Tonight?",
       "url": "https://open.spotify.com/track/51AAdoEEsQ4oJrtyBOIi1r"
@@ -772,7 +790,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 214400,
       "name": "Colors of the Wind",
       "url": "https://open.spotify.com/track/1OYOLWqKmhkFIx2KC9ek1a"
@@ -844,7 +862,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 113440,
       "name": "Don't Go Breaking My Heart - From \"Chicken Little\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/52nSf9QgQrQphbJv1ssF2Z"
@@ -932,7 +950,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 225200,
       "name": "Feels Like Love - Soundtrack",
       "url": "https://open.spotify.com/track/7Fm2ZvBSGBO6RGjQ93SU2b"
@@ -980,7 +998,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 262426,
       "name": "Footloose & Collar-Free/Bella Notte - From \"Lady and the Tramp\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/1Gx8ozbDJZjzWUp5eRr6Hh"
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 194160,
       "name": "Go the Distance",
       "url": "https://open.spotify.com/track/0D1OY0M5A0qD5HGBvFmFid"
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 180800,
       "name": "He Could Be the One",
       "url": "https://open.spotify.com/track/07HPV6hzecJmMJwsIX8YVU"
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 155920,
       "name": "Here Beside Me - From \"Mulan II\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/7tND1rRdqqLkLkUSa3RrIW"
@@ -1350,7 +1368,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 186693,
       "name": "I'm Wishing / One Song",
       "url": "https://open.spotify.com/track/35yv66uP9q34KpJ4eix9E3"
@@ -1454,7 +1472,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 196586,
       "name": "Kiss the Girl",
       "url": "https://open.spotify.com/track/2f2F4z8BOi15hum9aEVDUP"
@@ -1512,7 +1530,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 203760,
       "name": "La vie en rose - Single Version",
       "url": "https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt"
@@ -1646,7 +1664,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 125533,
       "name": "Love Is an Open Door",
       "url": "https://open.spotify.com/track/68jg6wseZjKSJ0HUMjNS7C"
@@ -1704,7 +1722,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 188453,
       "name": "Love You Like A Love Song",
       "url": "https://open.spotify.com/track/0laYHRpNTS6i8FXdupHkJ4"
@@ -1900,7 +1918,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 215346,
       "name": "No Longer An Elephant / Dumbo's Sadness / A Visit In The Night / Baby Mine - From \"Dumbo\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/3MIIV4KJ8s6OtcB8UAU6V3"
@@ -2000,7 +2018,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 208533,
       "name": "One Dance",
       "url": "https://open.spotify.com/track/42zb6hCYgTYTf1HdnbaAw6"
@@ -2022,7 +2040,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 344466,
       "name": "Part of Your World (Arr. Hamilton for Piano & Flute) - From \"The Little Mermaid\" (Feat. Cocomi)",
       "url": "https://open.spotify.com/track/1EjWb7pZLbBGOXNRcNOcip"
@@ -2040,7 +2058,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 132298,
       "name": "Part of Your World (Reprise) - From \"The Little Mermaid Live!\"",
       "url": "https://open.spotify.com/track/2v7WfLSmtaP09kX74RPTNJ"
@@ -2426,7 +2444,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 260493,
       "name": "Someday - From \"The Hunchback of Notre Dame\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/0LY1DGU1xAWJOFHTMLYBMS"
@@ -2504,7 +2522,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 174878,
       "name": "Something There",
       "url": "https://open.spotify.com/track/77JhqIuQjqzVmkRTUcm9ji"
@@ -2614,6 +2632,32 @@
       "duration_ms": 138413,
       "name": "Something There - Remastered 2018",
       "url": "https://open.spotify.com/track/54nheCglJ7KKy12Fr3QlKK"
+    },
+    {
+      "album": {
+        "name": "High School Musical",
+        "url": "https://open.spotify.com/album/4dOvFkIgrb6b9zCcGfCcci"
+      },
+      "artists": [
+        {
+          "name": "Troy",
+          "url": "https://open.spotify.com/artist/6zTbBugfNc95zo8ClFDhIn"
+        },
+        {
+          "name": "Gabriella",
+          "url": "https://open.spotify.com/artist/0GyAZiIV45rnBBf4KdGLS7"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196773,
+      "name": "Start of Something New",
+      "url": "https://open.spotify.com/track/4LwrgltRSrddxeyhIPSoqa"
     },
     {
       "album": {
@@ -2744,7 +2788,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 160356,
       "name": "The Bare Necessities - From \"The Jungle Book\"",
       "url": "https://open.spotify.com/track/6aDmy1Tf35ee4rr6VTRbV1"
@@ -2902,7 +2946,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 291586,
       "name": "Waiting On A Wish - From \"Disney's Snow White\"",
       "url": "https://open.spotify.com/track/0m7fCJPgt8LLokpr3t60Vx"
@@ -2956,7 +3000,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 248586,
       "name": "When I Look At You",
       "url": "https://open.spotify.com/track/7ywzEdEuVG1lsjsRCGJfLy"
@@ -2974,7 +3018,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 183440,
       "name": "When She Loved Me - From \"Toy Story 2\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/780W6YW5HFANQLR77Owern"
@@ -2992,7 +3036,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 152333,
       "name": "When Will My Life Begin? - From \"Tangled\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/03xWMkKEbeO4SnylA53ipj"
@@ -3036,7 +3080,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 195066,
       "name": "When You Wish Upon a Star",
       "url": "https://open.spotify.com/track/1WrPa4lrIddctGWAIYYfP9"
@@ -3120,7 +3164,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 165253,
       "name": "You Get Me - From \"Talking Friends\"",
       "url": "https://open.spotify.com/track/3w8Rsid0CYMkPilk1oWIaO"
@@ -3182,7 +3226,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 241776,
       "name": "You'll Be in My Heart",
       "url": "https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC"
@@ -3222,7 +3266,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 124160,
       "name": "You've Got a Friend in Me",
       "url": "https://open.spotify.com/track/2stkLJ0JNcXkIRDNF3ld6c"

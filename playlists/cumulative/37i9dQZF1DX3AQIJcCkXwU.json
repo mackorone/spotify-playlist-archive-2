@@ -322,7 +322,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 323604,
       "name": "Aum",
       "url": "https://open.spotify.com/track/142JeUf0yewGiafhVEVZAQ"
@@ -1334,6 +1334,24 @@
       "duration_ms": 254117,
       "name": "Flora & Fauna",
       "url": "https://open.spotify.com/track/3UCQg1vf06upgr2VhPU94q"
+    },
+    {
+      "album": {
+        "name": "Forest Gong",
+        "url": "https://open.spotify.com/album/4LoafUz92NoRvToNTx1ERl"
+      },
+      "artists": [
+        {
+          "name": "Rag Nally",
+          "url": "https://open.spotify.com/artist/2uSPSc1IHPt7fv6ve5jRQK"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100059,
+      "name": "Forest Gong",
+      "url": "https://open.spotify.com/track/6gxBjEGooDV7iLB6DmJAYr"
     },
     {
       "album": {
@@ -3222,7 +3240,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 309950,
       "name": "Raga Charukeshi 2",
       "url": "https://open.spotify.com/track/17d2qVvlEUCJy9mTw5PRfy"
@@ -3903,6 +3921,24 @@
     },
     {
       "album": {
+        "name": "Soothing Sitars",
+        "url": "https://open.spotify.com/album/0wVScUx98cO5zfwh4r1cz6"
+      },
+      "artists": [
+        {
+          "name": "Palace on Wheels",
+          "url": "https://open.spotify.com/artist/0uZC41CwMO6fAbyQQzmjcv"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370425,
+      "name": "Soothing Sitars",
+      "url": "https://open.spotify.com/track/2gUxoHJPNsEHSN5LAy4KAW"
+    },
+    {
+      "album": {
         "name": "Soul Searching - Charukesi",
         "url": "https://open.spotify.com/album/1pcO9oENpxcAxoGGAO1lb1"
       },
@@ -3968,7 +4004,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 160138,
       "name": "Spiritual Morning",
       "url": "https://open.spotify.com/track/4Rez6ejp3uLedEgbQwqcWC"
@@ -4170,6 +4206,24 @@
       "duration_ms": 198532,
       "name": "Tathy",
       "url": "https://open.spotify.com/track/0gDypzWjp6hHkcs0OEzP3A"
+    },
+    {
+      "album": {
+        "name": "Temple of Silence",
+        "url": "https://open.spotify.com/album/1wCYurNsL30abl5ItJ7pmm"
+      },
+      "artists": [
+        {
+          "name": "isp\u00edritu",
+          "url": "https://open.spotify.com/artist/0OVGamiaCriHwLRXWiorJA"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141679,
+      "name": "Temple of Silence",
+      "url": "https://open.spotify.com/track/14LGBqzDNJGKD58sySJ7BY"
     },
     {
       "album": {
@@ -4772,6 +4826,24 @@
       "duration_ms": 255555,
       "name": "Wonders Of Life",
       "url": "https://open.spotify.com/track/1PsDI5FHsxXGCXBdmJiok6"
+    },
+    {
+      "album": {
+        "name": "Yaman Gat in Jhap Tala Madhya Laya - Sitar & Tabla Duet",
+        "url": "https://open.spotify.com/album/3bGK3aQwqNwcMlzzlG9hDK"
+      },
+      "artists": [
+        {
+          "name": "Sushmita Roy",
+          "url": "https://open.spotify.com/artist/1hrgtWOH2MIKLvDpoXoPLu"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289806,
+      "name": "Yaman Gat in Jhap Tala Madhya Laya - Sitar & Tabla Duet",
+      "url": "https://open.spotify.com/track/1pbwS2xXDb4ETpKhrezV5W"
     },
     {
       "album": {

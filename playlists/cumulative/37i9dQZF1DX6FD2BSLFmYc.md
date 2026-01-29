@@ -4,13 +4,14 @@
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-190 songs - 11 hr 37 min
+192 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1/2 Singing Bowl \(Ascension\) \- Excerpt](https://open.spotify.com/track/4C4Cni4yKvGFthrJ3VRjfM) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Meditations](https://open.spotify.com/album/79EfVLabvmR4nUhpr2rF8s) | 4:30 | 2022-07-18 |  |
 | [432 Hz Lotus](https://open.spotify.com/track/2sdrlf1AV9jJqORYxGlIan) | [Vanessa Parson](https://open.spotify.com/artist/59S9QzQL8JVg6lts6OmX7I) | [432 Hz Lotus](https://open.spotify.com/album/4y7l5zPX113XxJE8g1XCeI) | 2:58 | 2024-07-17 |  |
 | [432 Hz Metamorphosis](https://open.spotify.com/track/7cm4cQ4uiLl2RkRN5nVg3Z) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [432 Hz Metamorphosis](https://open.spotify.com/album/1NPccFmLGP3xiELGD49e2E) | 2:25 | 2024-07-17 |  |
+| [639 Hz Compassion](https://open.spotify.com/track/1dUEOImbqBBnzIJYmZSJQn) | [Hertz Harmony](https://open.spotify.com/artist/1LQ6dIMZP4sNgA9hoE1PBT) | [639 Hz Compassion](https://open.spotify.com/album/01oSV7pzXDvsACSbXryXqB) | 2:50 | 2026-01-28 |  |
 | [A Beautiful New World](https://open.spotify.com/track/3QMEA16Z1OydH9nvikpJwe) | [Zimdizi](https://open.spotify.com/artist/144HUlx66zGheUbx0092oN) | [A Beautiful New World](https://open.spotify.com/album/3oz4bPGE1O0pJBhrU221Tp) | 3:45 | 2024-07-17 |  |
 | [A Careful Distance](https://open.spotify.com/track/1aK9OifDpy3VWWxrKrSQ7l) | [Theo Travis](https://open.spotify.com/artist/4wnrnvlmW7Mn2H7vRW1Xli), [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl) | [Discretion](https://open.spotify.com/album/5umJSwOxDAU0wHLS51rr5O) | 8:01 | 2023-04-26 | 2024-04-19 |
 | [A Careful Distance](https://open.spotify.com/track/24b8lmDtpjBsM6IDinj82G) | [Theo Travis](https://open.spotify.com/artist/4wnrnvlmW7Mn2H7vRW1Xli), [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl) | [Discretion](https://open.spotify.com/album/3cZqOheFXCDYXY9zBDLU8V) | 8:01 | 2023-04-26 |  |
@@ -89,6 +90,7 @@
 | [Inside](https://open.spotify.com/track/5hmY05p274PhMwksgHLEpP) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Inside](https://open.spotify.com/album/4cydl73cmRcAtNwvgoHveS) | 3:40 | 2025-05-06 |  |
 | [Intrinsic Silence](https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Intrinsic Silence](https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03) | 2:44 | 2023-01-13 |  |
 | [Is Not All One](https://open.spotify.com/track/1bqkk2hP7oUQiaSSAxKIPs) | [Tony Scott](https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v) | [Music For Zen Meditation And Other Joys](https://open.spotify.com/album/2TU5pJrurQif5n0ADKdOyp) | 3:12 | 2022-07-18 |  |
+| [Ishi](https://open.spotify.com/track/1jO1y3fvH7ggpK7tFdr7BB) | [Slow Eye Movement](https://open.spotify.com/artist/2rPSJJgb2iDgkFUGY4NHoZ) | [Ishi](https://open.spotify.com/album/2XJfGbF75RMIQv39UnlwAH) | 2:14 | 2026-01-28 |  |
 | [Isuzugawa “The Holy River of Isuzu”](https://open.spotify.com/track/3d6Cbi5hwvByKKy120jbmf) | [Satomi Saeki](https://open.spotify.com/artist/7mYaEybTvYFjOayusQ9QXp), [Michio Miyagi](https://open.spotify.com/artist/7pwpEMJZkvLqFq2HnFfuuJ) | [Japanese Koto Music](https://open.spotify.com/album/7dO4ofpRc2lVKuVvfpCGwG) | 7:18 | 2022-07-18 | 2023-01-14 |
 | [Jerome Dreams](https://open.spotify.com/track/4Gkf9SHCO3PvlLhjOTGU0W) | [Vera Eikon](https://open.spotify.com/artist/5GWPPcK9rmFZvw8Gy4TQOj) | [Jerome Dreams](https://open.spotify.com/album/5IqUyi9v65q2HqrDzO4a19) | 3:09 | 2024-07-17 |  |
 | [Kalim Kalimka](https://open.spotify.com/track/3fq5AjzVPxwfBcqWdZgZXn) | [ZOEWE](https://open.spotify.com/artist/6Ir6jwJAyvcPLx7g7SYgS4) | [Kalim Kalimka](https://open.spotify.com/album/61LnCB4VqW8djPmp1t2udZ) | 2:58 | 2024-07-17 |  |

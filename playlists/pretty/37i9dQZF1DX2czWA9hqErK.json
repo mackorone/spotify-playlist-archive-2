@@ -1,6 +1,6 @@
 {
   "description": "Sunday morning whenever you like",
-  "num_followers": 1331112,
+  "num_followers": 1331031,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
+        "name": "Calico",
+        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 195360,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/5Br4bQG5MwYZTKpFfiw4no"
+    },
+    {
+      "added_at": "2025-12-31 13:31:08",
+      "album": {
         "name": "Even (with Cat Burns)",
         "url": "https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ"
       },
@@ -1023,18 +1039,18 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
-        "name": "Calico",
-        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
+        "name": "The Boy Who Can't Be Named",
+        "url": "https://open.spotify.com/album/7oOEBdD1KrqQFQwwfNYo9z"
       },
       "artists": [
         {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+          "name": "Grace Gachot",
+          "url": "https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ"
         }
       ],
-      "duration_ms": 195360,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/5Br4bQG5MwYZTKpFfiw4no"
+      "duration_ms": 211542,
+      "name": "The Boy Who Can't Be Named",
+      "url": "https://open.spotify.com/track/5SNghL75oVdOKr5z1qAoOi"
     },
     {
       "added_at": "2025-12-31 13:31:08",
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
-        "name": "The Boy Who Can't Be Named",
-        "url": "https://open.spotify.com/album/7oOEBdD1KrqQFQwwfNYo9z"
-      },
-      "artists": [
-        {
-          "name": "Grace Gachot",
-          "url": "https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ"
-        }
-      ],
-      "duration_ms": 211542,
-      "name": "The Boy Who Can't Be Named",
-      "url": "https://open.spotify.com/track/5SNghL75oVdOKr5z1qAoOi"
-    },
-    {
-      "added_at": "2025-12-31 13:31:08",
-      "album": {
         "name": "Reach Out And Kiss Me",
         "url": "https://open.spotify.com/album/1QWOmlkjOJFF7f39IAsRUX"
       },
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
-        "name": "it's like I never left",
-        "url": "https://open.spotify.com/album/0qaGB6BxRJBvwwYSg6mI56"
-      },
-      "artists": [
-        {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
-        }
-      ],
-      "duration_ms": 175636,
-      "name": "Ama said",
-      "url": "https://open.spotify.com/track/29BR9FPwLRYH7UiXpN3D34"
-    },
-    {
-      "added_at": "2025-12-31 13:31:08",
-      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/5kCV7lHlpgAYi3KJdL0ydU"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 185826,
       "name": "Begin Again",
       "url": "https://open.spotify.com/track/2bJmEp5pi0XnQDeEiikmhz"
+    },
+    {
+      "added_at": "2025-12-31 13:31:08",
+      "album": {
+        "name": "it's like I never left",
+        "url": "https://open.spotify.com/album/0qaGB6BxRJBvwwYSg6mI56"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 175636,
+      "name": "Ama said",
+      "url": "https://open.spotify.com/track/29BR9FPwLRYH7UiXpN3D34"
     },
     {
       "added_at": "2025-12-31 13:31:08",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
-        "name": "Patterns in Repeat",
-        "url": "https://open.spotify.com/album/11Y2eh6LX6am0lYyjfCW3W"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 200648,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/1SNB5tolDTBIT2ygSthC8d"
-    },
-    {
-      "added_at": "2025-12-31 13:31:08",
-      "album": {
         "name": "damn, look at the view !",
         "url": "https://open.spotify.com/album/28jKFEY7mlMSnRS9i6Ryu8"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 217419,
       "name": "walking on air",
       "url": "https://open.spotify.com/track/1rDRnm0ZnCe9sMaMbXLxpU"
+    },
+    {
+      "added_at": "2025-12-31 13:31:08",
+      "album": {
+        "name": "Patterns in Repeat",
+        "url": "https://open.spotify.com/album/11Y2eh6LX6am0lYyjfCW3W"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 200648,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/1SNB5tolDTBIT2ygSthC8d"
     },
     {
       "added_at": "2025-12-31 13:31:08",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/3kXDo4WE2zLtqBlyvEgqZK"
-      },
-      "artists": [
-        {
-          "name": "Lewis Fitzgerald",
-          "url": "https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf"
-        }
-      ],
-      "duration_ms": 169934,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4nK65ApbNqnfdvyaCdwMBY"
-    },
-    {
-      "added_at": "2025-12-31 13:31:08",
-      "album": {
         "name": "The Seize",
         "url": "https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3"
       },
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
-        "name": "Someone That's Better",
-        "url": "https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8"
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/3kXDo4WE2zLtqBlyvEgqZK"
       },
       "artists": [
         {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+          "name": "Lewis Fitzgerald",
+          "url": "https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf"
         }
       ],
-      "duration_ms": 133059,
-      "name": "Someone That's Better",
-      "url": "https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx"
+      "duration_ms": 169934,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4nK65ApbNqnfdvyaCdwMBY"
     },
     {
       "added_at": "2025-12-31 13:31:08",
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
+        "name": "Someone That's Better",
+        "url": "https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 133059,
+      "name": "Someone That's Better",
+      "url": "https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx"
+    },
+    {
+      "added_at": "2025-12-31 13:31:08",
+      "album": {
         "name": "About U: One Year On",
         "url": "https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX"
       },
@@ -1595,22 +1595,6 @@
       "duration_ms": 291538,
       "name": "I Know A Place - Acoustic",
       "url": "https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI"
-    },
-    {
-      "added_at": "2025-12-31 13:31:08",
-      "album": {
-        "name": "Sweet Nothings",
-        "url": "https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh"
-      },
-      "artists": [
-        {
-          "name": "Mychelle",
-          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Sweet Nothings",
-      "url": "https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx"
     },
     {
       "added_at": "2025-12-31 13:31:08",
@@ -1643,6 +1627,22 @@
       "duration_ms": 164175,
       "name": "Scary Movie",
       "url": "https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI"
+    },
+    {
+      "added_at": "2025-12-31 13:31:08",
+      "album": {
+        "name": "Sweet Nothings",
+        "url": "https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh"
+      },
+      "artists": [
+        {
+          "name": "Mychelle",
+          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx"
     }
   ],
   "unique_name": "Easy",

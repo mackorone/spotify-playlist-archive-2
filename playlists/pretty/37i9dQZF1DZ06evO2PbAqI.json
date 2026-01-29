@@ -1,12 +1,12 @@
 {
   "description": "This is Lacuna Coil. The essential tracks, all in one playlist.",
-  "num_followers": 34848,
+  "num_followers": 34850,
   "original_name": "This Is Lacuna Coil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXaugAAAAABSMHo8Udt6/94kFp7Mx3Fp",
+  "snapshot_id": "aXgAAAAAAACdDWblXSZUaUrVIEUangWc",
   "tracks": [
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Karmacode",
-        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
+        "name": "Delirium",
+        "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 218906,
-      "name": "Within Me",
-      "url": "https://open.spotify.com/track/23iFER67b8UKCW67hQTJOs"
+      "duration_ms": 236266,
+      "name": "My Demons",
+      "url": "https://open.spotify.com/track/31B9r2N9vAqhHciZanfucd"
     },
     {
       "added_at": null,
@@ -487,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delirium",
-        "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
+        "name": "Karmacode",
+        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 236266,
-      "name": "My Demons",
-      "url": "https://open.spotify.com/track/31B9r2N9vAqhHciZanfucd"
+      "duration_ms": 218906,
+      "name": "Within Me",
+      "url": "https://open.spotify.com/track/23iFER67b8UKCW67hQTJOs"
     },
     {
       "added_at": null,

@@ -1432,7 +1432,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 200757,
       "name": "Harpicious",
       "url": "https://open.spotify.com/track/7c3h8ow3py2JJUtRMpG1sF"
@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 176833,
       "name": "Heartstrings",
       "url": "https://open.spotify.com/track/0m6DiMeAO3gtaHVatapMsC"
@@ -1598,6 +1598,24 @@
       "duration_ms": 180000,
       "name": "In the Moment",
       "url": "https://open.spotify.com/track/4fzQznJIuWPxl8jjmbAQAS"
+    },
+    {
+      "album": {
+        "name": "Inner Palace",
+        "url": "https://open.spotify.com/album/2xscwv71Rc5wV7PR02YGuE"
+      },
+      "artists": [
+        {
+          "name": "Yolof Palace",
+          "url": "https://open.spotify.com/artist/5FKwBSGrKHDCJuhHbl1pnj"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178399,
+      "name": "Inner Palace",
+      "url": "https://open.spotify.com/track/5BaStOJ0WApo7YpbWT8nB7"
     },
     {
       "album": {
@@ -2956,7 +2974,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 217500,
       "name": "Relieving",
       "url": "https://open.spotify.com/track/2DWYBGBzNQKQ7sB1IJDnRz"
@@ -3216,6 +3234,24 @@
       "duration_ms": 190600,
       "name": "Serenity Strings",
       "url": "https://open.spotify.com/track/3gdOMj7sSMlu4TaozPhnSP"
+    },
+    {
+      "album": {
+        "name": "Shimmer Mind",
+        "url": "https://open.spotify.com/album/6tVXCSWJw3GiMOJdi4sRiR"
+      },
+      "artists": [
+        {
+          "name": "Belaque",
+          "url": "https://open.spotify.com/artist/6nTjKSHD6OST3B7WJmGX8F"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147945,
+      "name": "Shimmer Mind",
+      "url": "https://open.spotify.com/track/50PZ3D4prXi1dGoZ7eHs8m"
     },
     {
       "album": {

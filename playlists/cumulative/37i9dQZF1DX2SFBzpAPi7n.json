@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: \uc778\uc131 (INSEONG)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: \ub864\ub9c1\ucffc\uce20 (Rolling Quartz)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -438,7 +438,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 192474,
       "name": "A Minute, A Second",
       "url": "https://open.spotify.com/track/5QB4UqWDiTnKdmW4QXHj70"
@@ -14330,6 +14330,24 @@
       "duration_ms": 212420,
       "name": "Romanticism",
       "url": "https://open.spotify.com/track/6BuBas6u8SShF6OVeFdWlg"
+    },
+    {
+      "album": {
+        "name": "Romantist",
+        "url": "https://open.spotify.com/album/0jl2ykzcUXPu6LZ8lZcrgv"
+      },
+      "artists": [
+        {
+          "name": "Rolling Quartz",
+          "url": "https://open.spotify.com/artist/5mVYT7sPm3xsNMrA8YWONe"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330934,
+      "name": "Romantist",
+      "url": "https://open.spotify.com/track/2O043aP6XbrMNW0N00jtGj"
     },
     {
       "album": {

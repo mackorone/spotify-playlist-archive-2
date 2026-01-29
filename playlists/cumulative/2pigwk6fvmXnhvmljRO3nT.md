@@ -4,7 +4,7 @@
 
 > 
 
-8,313 songs - 21 day 3 hr 6 min
+8,315 songs - 21 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1149,6 +1149,7 @@
 | [Charcoal Baby](https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Negro Swan](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) | 4:02 | 2024-12-10 |  |
 | [CHARGE DEM HOES A FEE \(with Future & Travis Scott\)](https://open.spotify.com/track/21aDVa64pWR8SYQ7wBRMkd) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:45 | 2025-03-17 |  |
 | [Charmed](https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 2:38 | 2025-01-15 |  |
+| [Chasing the Horizon](https://open.spotify.com/track/1EtE4bXLLtxL0Lf1nntQRf) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Chasing the Horizon](https://open.spotify.com/album/4y9CcT0uoNVxUhjq2ku0bX) | 4:17 | 2026-01-28 |  |
 | [Chasing the Horizon](https://open.spotify.com/track/7D8IQtbRF2JM0Yb9mJnNFU) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Chasing the Horizon](https://open.spotify.com/album/6e9SBUAygymWEIC0qpErVi) | 4:17 | 2025-01-04 |  |
 | [Chasing the Reflection](https://open.spotify.com/track/2CdPzoX5xiZL8BSHbJjfco) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Forest of Jnana and Vidya \(Original Game Soundtrack\)](https://open.spotify.com/album/2P7SmTlPHLZxnvQZOMIGyr) | 1:14 | 2025-11-29 |  |
 | [Chateau \(Feel Alright\)](https://open.spotify.com/track/3vjs2MDHoF9xhylNg6Y9un) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0) | 4:32 | 2025-01-03 |  |
@@ -1489,6 +1490,7 @@
 | [De Caelo / On the Heavens](https://open.spotify.com/track/70OT4YmpKRGWMiXaPs280p) | [Wuthering Waves](https://open.spotify.com/artist/4NJxtQzTTeO3ObGlBcxVAh), [baitian](https://open.spotify.com/artist/7A517I1oZfmO5nieMFSEaH) | [Into the Depths](https://open.spotify.com/album/7IY2C495boRx3P5bTmdt3N) | 3:04 | 2025-10-06 |  |
 | [De insomniis / On Dreams](https://open.spotify.com/track/0OydGuW86ebnmbsgpIFGAN) | [Wuthering Waves](https://open.spotify.com/artist/4NJxtQzTTeO3ObGlBcxVAh), [baitian](https://open.spotify.com/artist/7A517I1oZfmO5nieMFSEaH) | [Into the Depths](https://open.spotify.com/album/7IY2C495boRx3P5bTmdt3N) | 3:18 | 2025-07-03 |  |
 | [Dead End in Tokyo](https://open.spotify.com/track/0Ok1WW0elz52iPNSumDPpv) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Chasing the Horizon](https://open.spotify.com/album/7DprmVh9UP571rgInY3iQd) | 3:41 | 2025-01-04 |  |
+| [Dead End in Tokyo](https://open.spotify.com/track/4SsITFDlndwk8qQHTr4edv) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Chasing the Horizon](https://open.spotify.com/album/4y9CcT0uoNVxUhjq2ku0bX) | 3:41 | 2026-01-28 |  |
 | [DEAD MAN WALKING](https://open.spotify.com/track/2c2tlXfEmLgUNvxngIi1qL) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 4:07 | 2024-12-10 |  |
 | [Dead Man Walking](https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Dead Man Walking](https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc) | 4:07 | 2024-12-10 |  |
 | [Dead Presidents II](https://open.spotify.com/track/3nDYsXggRQxf7PCNUjR4rz) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Reasonable Doubt](https://open.spotify.com/album/3YPK0bNOuayhmSrs0sIIBR) | 4:26 | 2025-01-03 |  |

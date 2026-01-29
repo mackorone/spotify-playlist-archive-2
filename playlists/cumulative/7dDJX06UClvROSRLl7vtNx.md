@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,156 songs - 2 day 2 hr 1 min
+1,157 songs - 2 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Are You With Me](https://open.spotify.com/track/3ICy1GAnWag1jZ8IPRu4pY) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Are You With Me](https://open.spotify.com/album/29gSIz1mK5ZIoKOnshant3) | 2:31 | 2025-03-18 |  |
 | [Are You With Me](https://open.spotify.com/track/6EagnEg9fcmVnVTnVc2pRN) | [PHURS](https://open.spotify.com/artist/2UXdzClMex3N47C9m1fkeX), [Timmy Commerford](https://open.spotify.com/artist/0Y0r9IKRjfC62MAYMDEMZO) | [Are You With Me](https://open.spotify.com/album/0xk0DimpO7ovSx4nMcmXvU) | 2:30 | 2024-05-24 | 2024-07-05 |
 | [Around The Sun](https://open.spotify.com/track/7kRI2M30QkCXK5fIVO9qQe) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Kidd Thorn](https://open.spotify.com/artist/56ZpzAG62hbF97XLdQCy3t) | [Around The Sun](https://open.spotify.com/album/37bbpzGIPULPmY6xJj2ii9) | 2:40 | 2024-04-15 | 2024-08-26 |
+| [As It Was](https://open.spotify.com/track/0hVX3PB2SNoC8fViOoYtEX) | [Acko](https://open.spotify.com/artist/4jiOvEyAn2AHCd4wJuRsBi), [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx), [GREGG](https://open.spotify.com/artist/3Dd8hs6oduPlzzHhqtYAzM), [Moody Violet](https://open.spotify.com/artist/1KrQKZXgiWQtPmM9wcwp0A) | [As It Was](https://open.spotify.com/album/4rX8M7wAdsamubbYgmCVsH) | 2:20 | 2026-01-28 |  |
 | [Astronaut](https://open.spotify.com/track/3WYgESGKl0kqUApiP0tU5J) | [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb) | [Astronaut](https://open.spotify.com/album/4bb6EgApaazm7mUw3yZJIZ) | 2:10 | 2024-05-27 | 2024-06-24 |
 | [Astronaut](https://open.spotify.com/track/6nMcQh09lWR6Tup4v9ooIg) | [LO](https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto), [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [Astronaut](https://open.spotify.com/album/0BWRcNqTxZUroW6vcTL3TT) | 2:44 | 2024-01-27 | 2024-05-13 |
 | [Astronaut \(DeejaVu Remix\)](https://open.spotify.com/track/24WHUM39kn4QyfOiBlFwtz) | [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb), [DeejaVu](https://open.spotify.com/artist/3mvjFFkdgBRCeaSu51XM30) | [Astronaut \(DeejaVu Remix\)](https://open.spotify.com/album/2nfjPrLI3wLrWIxzjMXxeW) | 2:38 | 2025-02-16 | 2025-03-31 |

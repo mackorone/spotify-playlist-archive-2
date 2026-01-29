@@ -1,6 +1,6 @@
 {
   "description": "Get to know our 2026 Artists to Watch.",
-  "num_followers": 8999,
+  "num_followers": 9003,
   "original_name": "Artists To Watch 2026",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-01-12 16:30:22",
       "album": {
-        "name": "300 dreams",
-        "url": "https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB"
-      },
-      "artists": [
-        {
-          "name": "After",
-          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
-        }
-      ],
-      "duration_ms": 188575,
-      "name": "300 dreams",
-      "url": "https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL"
-    },
-    {
-      "added_at": "2026-01-12 16:30:22",
-      "album": {
         "name": "HOT POT!",
         "url": "https://open.spotify.com/album/7J69akDNK0b1k42YZK7Yg7"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 130204,
       "name": "piano in the sky",
       "url": "https://open.spotify.com/track/0tGPVoB37sQYmnAwTsg7gq"
+    },
+    {
+      "added_at": "2026-01-12 16:30:22",
+      "album": {
+        "name": "300 dreams",
+        "url": "https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB"
+      },
+      "artists": [
+        {
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+        }
+      ],
+      "duration_ms": 188575,
+      "name": "300 dreams",
+      "url": "https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL"
     },
     {
       "added_at": "2026-01-12 16:30:22",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-01-12 16:30:22",
       "album": {
-        "name": "Something To Consume",
-        "url": "https://open.spotify.com/album/2njlELTfA1tcJ7LnE2855T"
-      },
-      "artists": [
-        {
-          "name": "Die Spitz",
-          "url": "https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE"
-        }
-      ],
-      "duration_ms": 160163,
-      "name": "Throw Yourself to the Sword",
-      "url": "https://open.spotify.com/track/75OVKbV5IlBcT4DvBQxNGk"
-    },
-    {
-      "added_at": "2026-01-12 16:30:22",
-      "album": {
         "name": "Too Pretty For Buffalo",
         "url": "https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 236525,
       "name": "Too Pretty For Buffalo",
       "url": "https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR"
+    },
+    {
+      "added_at": "2026-01-12 16:30:22",
+      "album": {
+        "name": "Something To Consume",
+        "url": "https://open.spotify.com/album/2njlELTfA1tcJ7LnE2855T"
+      },
+      "artists": [
+        {
+          "name": "Die Spitz",
+          "url": "https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE"
+        }
+      ],
+      "duration_ms": 160163,
+      "name": "Throw Yourself to the Sword",
+      "url": "https://open.spotify.com/track/75OVKbV5IlBcT4DvBQxNGk"
     },
     {
       "added_at": "2026-01-12 16:30:22",

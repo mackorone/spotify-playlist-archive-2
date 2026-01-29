@@ -4,7 +4,7 @@
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-858 songs - 1 day 11 hr 44 min
+859 songs - 1 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -583,6 +583,7 @@
 | [Pure Sky \(Piano\)](https://open.spotify.com/track/2POwmNePWWgbeyEFAp38pt) | [Beside Bed](https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj), [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Genshin Impact Relaxing Beside Bed Collection](https://open.spotify.com/album/2kxtzO6eCq7YwgybnWMyP3) | 1:17 | 2023-10-29 | 2024-05-12 |
 | [Puzzles and pieces with you](https://open.spotify.com/track/3MsPhNHCg7HS54tmePOaDD) | [Ojong](https://open.spotify.com/artist/4dTZemVIPE7mERe1klU9g0) | [Puzzles and pieces with you](https://open.spotify.com/album/20pZOdgyhj3zqRW1Ucuwny) | 2:39 | 2024-10-23 |  |
 | [pæoner](https://open.spotify.com/track/4516jKqIrGNIShWH3WBqmd) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [pæoner](https://open.spotify.com/album/1S6MFC3YC69IHDOOktMFTk) | 1:52 | 2023-10-29 | 2025-06-03 |
+| [quiet glow](https://open.spotify.com/track/1Kdc5lwTIUlYRGm5j76EeR) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [quiet glow](https://open.spotify.com/album/6syPFFM8ixds490jS4oK3Q) | 1:29 | 2026-01-28 |  |
 | [quiet nights](https://open.spotify.com/track/6oEvvtPZU0G2vrR0urefuj) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [quiet nights](https://open.spotify.com/album/29M0mIYmNZk1oKzlZp6WN1) | 2:18 | 2025-01-17 |  |
 | [Quiet Thought](https://open.spotify.com/track/5EMkQ44FlVYDH7KM8RtCc8) | [Paul H.](https://open.spotify.com/artist/1u4bedZsxxMp55G9LBpjMi) | [Quiet Thought](https://open.spotify.com/album/4ku1gGUALwIW5W1tc6bGSE) | 2:02 | 2025-01-10 |  |
 | [Rainbow Falls](https://open.spotify.com/track/7cnJJUUqWN0yeVd6H6qgn3) | [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Sierra](https://open.spotify.com/album/24rykKJvKzD3iZTLO3MRbQ) | 2:30 | 2024-12-06 | 2025-05-20 |

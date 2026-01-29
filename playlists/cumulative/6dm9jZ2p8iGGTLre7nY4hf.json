@@ -5583,6 +5583,24 @@
     },
     {
       "album": {
+        "name": "Northern Lights",
+        "url": "https://open.spotify.com/album/27PGrw4C2AhVTAOZsTAsYU"
+      },
+      "artists": [
+        {
+          "name": "emma",
+          "url": "https://open.spotify.com/artist/6pe92iYUnYByNR6uMcfZ4V"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177306,
+      "name": "Northern Lights",
+      "url": "https://open.spotify.com/track/2qLYadTIWJTXJuS8sTt7m8"
+    },
+    {
+      "album": {
         "name": "Not Around",
         "url": "https://open.spotify.com/album/1AoV2zzDHH57nQEOfga6mX"
       },

@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 116751,
+  "num_followers": 116755,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -443,46 +443,6 @@
     {
       "added_at": "2026-01-22 23:00:36",
       "album": {
-        "name": "Fest i Tr\u00f8ndelag",
-        "url": "https://open.spotify.com/album/4y4NUVNk5bzyydVabRpfXl"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        },
-        {
-          "name": "Johnny Skinnvest",
-          "url": "https://open.spotify.com/artist/6zetK6GB7Zs99bJELK3XQm"
-        }
-      ],
-      "duration_ms": 173006,
-      "name": "Fest i Tr\u00f8ndelag",
-      "url": "https://open.spotify.com/track/7IAzz4Eof2KQzw2AA18aa8"
-    },
-    {
-      "added_at": "2026-01-22 23:00:36",
-      "album": {
-        "name": "Campingstol",
-        "url": "https://open.spotify.com/album/1qq96rk7nlj3jTLunfUO2p"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Campingstol",
-      "url": "https://open.spotify.com/track/5Zf0q7YUDdwqnRl5cTWKuR"
-    },
-    {
-      "added_at": "2026-01-22 23:00:36",
-      "album": {
         "name": "Flesk og duppe",
         "url": "https://open.spotify.com/album/1bSyEIvEBHKiCUMe44Ft4Y"
       },
@@ -507,6 +467,46 @@
       "duration_ms": 206974,
       "name": "Flesk og Duppe",
       "url": "https://open.spotify.com/track/6fQFJFQ32fixoWCwQs234R"
+    },
+    {
+      "added_at": "2026-01-22 23:00:36",
+      "album": {
+        "name": "Campingstol",
+        "url": "https://open.spotify.com/album/1qq96rk7nlj3jTLunfUO2p"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Campingstol",
+      "url": "https://open.spotify.com/track/5Zf0q7YUDdwqnRl5cTWKuR"
+    },
+    {
+      "added_at": "2026-01-22 23:00:36",
+      "album": {
+        "name": "Fest i Tr\u00f8ndelag",
+        "url": "https://open.spotify.com/album/4y4NUVNk5bzyydVabRpfXl"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        },
+        {
+          "name": "Johnny Skinnvest",
+          "url": "https://open.spotify.com/artist/6zetK6GB7Zs99bJELK3XQm"
+        }
+      ],
+      "duration_ms": 173006,
+      "name": "Fest i Tr\u00f8ndelag",
+      "url": "https://open.spotify.com/track/7IAzz4Eof2KQzw2AA18aa8"
     },
     {
       "added_at": "2026-01-22 23:00:36",
@@ -907,18 +907,18 @@
     {
       "added_at": "2026-01-22 23:00:36",
       "album": {
-        "name": "Ja vi elsker (Typisk Norsk 2019)",
-        "url": "https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV"
+        "name": "Polisen",
+        "url": "https://open.spotify.com/album/79Psas2Jq5BRug1JdJjXBj"
       },
       "artists": [
         {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+          "name": "Silje Bakke",
+          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
         }
       ],
-      "duration_ms": 164905,
-      "name": "Ja vi elsker (Typisk Norsk 2019)",
-      "url": "https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl"
+      "duration_ms": 145645,
+      "name": "Polisen",
+      "url": "https://open.spotify.com/track/1df1uSXhMSzNE29Ung8GEn"
     },
     {
       "added_at": "2026-01-22 23:00:36",
@@ -959,18 +959,18 @@
     {
       "added_at": "2026-01-22 23:00:36",
       "album": {
-        "name": "Polisen",
-        "url": "https://open.spotify.com/album/79Psas2Jq5BRug1JdJjXBj"
+        "name": "Ja vi elsker (Typisk Norsk 2019)",
+        "url": "https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV"
       },
       "artists": [
         {
-          "name": "Silje Bakke",
-          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
         }
       ],
-      "duration_ms": 145645,
-      "name": "Polisen",
-      "url": "https://open.spotify.com/track/1df1uSXhMSzNE29Ung8GEn"
+      "duration_ms": 164905,
+      "name": "Ja vi elsker (Typisk Norsk 2019)",
+      "url": "https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl"
     },
     {
       "added_at": "2026-01-22 23:00:36",

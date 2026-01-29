@@ -4823,6 +4823,32 @@
     },
     {
       "album": {
+        "name": "Dale Earnhardt",
+        "url": "https://open.spotify.com/album/3NnsFhinUf7kLcHHC6T06t"
+      },
+      "artists": [
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        },
+        {
+          "name": "Proppa",
+          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
+        },
+        {
+          "name": "Big Baby Scumbag",
+          "url": "https://open.spotify.com/artist/3WjxW7xt0RCSotYoQBzEXB"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178181,
+      "name": "Dale Earnhardt",
+      "url": "https://open.spotify.com/track/1zg7wzuyq12v7beYiMjZNX"
+    },
+    {
+      "album": {
         "name": "Damage",
         "url": "https://open.spotify.com/album/4NqxRinZeiR45um7j2AHC1"
       },

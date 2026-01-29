@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-472 songs - 22 hr 54 min
+475 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Countin' On You](https://open.spotify.com/track/7Edr1e24lcvCFIuuYfahWR) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Khi Infinite](https://open.spotify.com/artist/6wthNkb9tOcsMdNtrHI5vs), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Countin' On You \(FAST X Soundtrack\)](https://open.spotify.com/album/79TSpvgNIyR8faqntvl11N) | 2:28 | 2023-07-26 |  |
 | [Criteria](https://open.spotify.com/track/3j0SCXX9MhdSxYpdFAlJms) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Criteria](https://open.spotify.com/album/63bRjCDnfaA0fJav1Kcme6) | 1:45 | 2023-07-26 |  |
 | [CUORE DI GHIACCIO](https://open.spotify.com/track/1r88vtpM65rQ9FNkOmfW1Z) | [F1NIN](https://open.spotify.com/artist/2pEkdA1xF9Zc0gp0oUX2K3) | [CUORE DI GHIACCIO](https://open.spotify.com/album/18pNKBNJe0sFWPUs3gvlIs) | 2:25 | 2024-10-02 |  |
+| [D in da A](https://open.spotify.com/track/2N8YelMa5lSCBycq1hhuZK) | [D.loading](https://open.spotify.com/artist/5ogOlBGV3hK3AD8ZJXOpl9) | [D in Da A](https://open.spotify.com/album/09EFjsbE4gXYn6I8qgTc2r) | 2:37 | 2026-01-28 |  |
 | [Dark Objects](https://open.spotify.com/track/7LAQ2KdUEzv0o0JqKjdmKg) | [Idol Talk](https://open.spotify.com/artist/4Zywk3Dn7UZ2peYgMp1Yhh) | [Allure](https://open.spotify.com/album/7A1CxgVowMWVBneKC3DjzT) | 3:11 | 2025-04-24 |  |
 | [Darling](https://open.spotify.com/track/68jjJ7ppDTlQSgEbc1H1D5) | [SiceVinci](https://open.spotify.com/artist/6KVM2iuQV0axEKj6bOE6Xu) | [TEMPTATION.](https://open.spotify.com/album/2E99pGr4KPQZAMzrT4qFC0) | 2:05 | 2024-09-08 |  |
 | [Daylight](https://open.spotify.com/track/632tpvVASqQdxUcGz4SA9c) | [Shoaib](https://open.spotify.com/artist/6ZdWHDiQLejZYQpPcRVS6f) | [Daylight](https://open.spotify.com/album/0vDhJdJkibjE6K7C7zJtVk) | 2:17 | 2024-08-03 |  |
@@ -250,6 +251,7 @@
 | [Microphone Guardians](https://open.spotify.com/track/2AOuqZTBTDtzlrmuwxqYLm) | [Chamon](https://open.spotify.com/artist/5ZXTpRkYKYsDA2wXfIXSYH), [Jak Hellington](https://open.spotify.com/artist/0dIfS1J8VpEb80tcfA3aEN), [Kid Vishis](https://open.spotify.com/artist/3J3bqhNAKIJlFosbr0nFY1) | [Microphone Guardians](https://open.spotify.com/album/6tqpkD5YBJwrkQA9ZfrMvz) | 2:48 | 2024-06-14 |  |
 | [Midnight Madness](https://open.spotify.com/track/7JIIvW2MQheYIffYNMwqlY) | [Izzy TheAdvocate](https://open.spotify.com/artist/5P6MjFxBijXHcGl11wnF6F), [Basically](https://open.spotify.com/artist/3Trh3koi8aNgHkb91XZ62n) | [Road to Gotham 2](https://open.spotify.com/album/0XE7XDYDiaTQV5itDV0u7b) | 3:05 | 2024-06-11 |  |
 | [Millimeter from Breakin'](https://open.spotify.com/track/5qbcx5BznWu1jiwMjRFJ1H) | [HXN](https://open.spotify.com/artist/7tJX5rskc8orHwU1Zx1aWZ) | [Sub\-Level](https://open.spotify.com/album/6dHO7raGffFCFlOHLbJtUd) | 3:48 | 2026-01-20 |  |
+| [Minding My Business](https://open.spotify.com/track/1AYKrxVWjGxkUdcOxadqzw) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [Minding My Business](https://open.spotify.com/album/5XZYS9zWdncFogtSThtheL) | 1:39 | 2026-01-28 |  |
 | [miracle child](https://open.spotify.com/track/6SBMJWybyWyC4feGwpprbG) | [m4py](https://open.spotify.com/artist/7dNCWOA4XyIeqTwa7dFsyu) | [miracle child](https://open.spotify.com/album/61mQVKQEkOBq3bgkrx8uSd) | 2:27 | 2024-08-06 |  |
 | [Moment of Truth](https://open.spotify.com/track/3Y1yPRugBkAsBeP9piuFEG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 2:59 | 2023-07-26 |  |
 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 | 2023-07-26 |  |
@@ -411,6 +413,7 @@
 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 | 2025-11-06 |  |
 | [THE PRIMAL DIRECTIVEz](https://open.spotify.com/track/6whXlhSVKpC6HdHpwHaHSP) | [Supreme RS](https://open.spotify.com/artist/1k8zOqiaI2GIexXC5jyoRt), [Shadow.JR](https://open.spotify.com/artist/5qGcbrUX0Ghn0iFADRfmXe), [R10fficial](https://open.spotify.com/artist/7084Fr1q93j2vy0g94YmDn), [Yurierre](https://open.spotify.com/artist/3BkjYODYzt4aYqeDb6o846) | [THE PRIMAL DIRECTIVEz](https://open.spotify.com/album/31FtOwqnFotCCtfb4rBZtR) | 4:52 | 2024-08-02 |  |
 | [The Red Camellia](https://open.spotify.com/track/7DirqlLK0NeTWFZgn0g2Yt) | [Khal!l](https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe) | [Heart](https://open.spotify.com/album/76OBbKGs49FyxGoWMMj51C) | 4:37 | 2023-07-26 |  |
+| [The Woman I Have Never Been](https://open.spotify.com/track/1cAgYiSNH4Tw6uaTYycCQ5) | [LeLore](https://open.spotify.com/artist/0Lui3cCsiAznp6iYOemK1U) | [The Woman I Have Never Been](https://open.spotify.com/album/3mXIVaVxtvwBRg9cgOdPAo) | 3:21 | 2026-01-28 |  |
 | [These Days](https://open.spotify.com/track/7AuabaoN5FQ7cfF5RKwjXi) | [BlavkSaint](https://open.spotify.com/artist/7FaE0cK9S9m8LZ015BKJDw) | [Everything I Have & More](https://open.spotify.com/album/246xehrRITC6u8ifdgV7l1) | 2:47 | 2024-06-07 |  |
 | [These Four Walls](https://open.spotify.com/track/7tzeZLMnqlke2raEMeDZ9S) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [A Brief Nirvana](https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd) | 3:05 | 2023-07-26 |  |
 | [Thief In The Night](https://open.spotify.com/track/5Op7blFZxCqs4O61SUc7lK) | [Rawlinz](https://open.spotify.com/artist/0eK37Cjh6fMGt9xGKCdwzR) | [Thief In The Night](https://open.spotify.com/album/4ftjRJdibXFQdOT08Amz2e) | 3:14 | 2024-10-03 |  |

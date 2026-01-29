@@ -1,6 +1,6 @@
 {
   "description": "feel the magic with the gems in r&b right now",
-  "num_followers": 295513,
+  "num_followers": 295508,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
-        "name": "TAI CHI",
-        "url": "https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 194895,
-      "name": "TAI CHI",
-      "url": "https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0"
-    },
-    {
-      "added_at": "2026-01-15 23:00:24",
-      "album": {
         "name": "Reclusive",
         "url": "https://open.spotify.com/album/4zTUF5mYmlnNxIw0imKYbz"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 186416,
       "name": "Reclusive",
       "url": "https://open.spotify.com/track/5vbk8ZURIOaINOKPvvNo60"
+    },
+    {
+      "added_at": "2026-01-15 23:00:24",
+      "album": {
+        "name": "TAI CHI",
+        "url": "https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 194895,
+      "name": "TAI CHI",
+      "url": "https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0"
     },
     {
       "added_at": "2026-01-15 23:00:24",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
-        "name": "Watch You Leave",
-        "url": "https://open.spotify.com/album/6k3Dsk5NOsGhXx78guGx1y"
-      },
-      "artists": [
-        {
-          "name": "Latanya Alberto",
-          "url": "https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357"
-        }
-      ],
-      "duration_ms": 263850,
-      "name": "Watch You Leave",
-      "url": "https://open.spotify.com/track/71H62uTyeyqMwIvtCispPT"
-    },
-    {
-      "added_at": "2026-01-15 23:00:24",
-      "album": {
         "name": "Dark Nights",
         "url": "https://open.spotify.com/album/7hyrgjUIdVzGGtzIrLhcJE"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
-        "name": "This One Is Personal",
-        "url": "https://open.spotify.com/album/55VroRmh4MCv27zw275clO"
+        "name": "Watch You Leave",
+        "url": "https://open.spotify.com/album/6k3Dsk5NOsGhXx78guGx1y"
       },
       "artists": [
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+          "name": "Latanya Alberto",
+          "url": "https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357"
         }
       ],
-      "duration_ms": 169314,
-      "name": "10%",
-      "url": "https://open.spotify.com/track/7ehB2Wp1OpCNAraJZpBBXI"
+      "duration_ms": 263850,
+      "name": "Watch You Leave",
+      "url": "https://open.spotify.com/track/71H62uTyeyqMwIvtCispPT"
     },
     {
       "added_at": "2026-01-15 23:00:24",
@@ -1135,6 +1119,22 @@
       "duration_ms": 154979,
       "name": "INFINITY",
       "url": "https://open.spotify.com/track/1FygpR0yv9eGytytqxA1O4"
+    },
+    {
+      "added_at": "2026-01-15 23:00:24",
+      "album": {
+        "name": "This One Is Personal",
+        "url": "https://open.spotify.com/album/55VroRmh4MCv27zw275clO"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 169314,
+      "name": "10%",
+      "url": "https://open.spotify.com/track/7ehB2Wp1OpCNAraJZpBBXI"
     },
     {
       "added_at": "2026-01-15 23:00:24",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
-        "name": "LUCKY ME",
-        "url": "https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        },
-        {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
-        }
-      ],
-      "duration_ms": 163561,
-      "name": "BUTTERFLIES",
-      "url": "https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA"
-    },
-    {
-      "added_at": "2026-01-15 23:00:24",
-      "album": {
         "name": "Understood (Remix)",
         "url": "https://open.spotify.com/album/5WAQxvteVQ3lqgKXL5AUdo"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 175247,
       "name": "Understood (Remix)",
       "url": "https://open.spotify.com/track/0pqoUYn5drLonWq5Z91DCS"
+    },
+    {
+      "added_at": "2026-01-15 23:00:24",
+      "album": {
+        "name": "LUCKY ME",
+        "url": "https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        }
+      ],
+      "duration_ms": 163561,
+      "name": "BUTTERFLIES",
+      "url": "https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA"
     },
     {
       "added_at": "2026-01-15 23:00:24",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/5bb5R9HxNU50b4UEpsVxnJ"
+        "name": "Grisaille Into Aurora",
+        "url": "https://open.spotify.com/album/2X1HQP3bL0cygdxZ0qO62n"
       },
       "artists": [
         {
-          "name": "MAVEE",
-          "url": "https://open.spotify.com/artist/0JEu13E5h72umshgX4tAte"
+          "name": "AKA Block",
+          "url": "https://open.spotify.com/artist/3znfzjYazV5OBop5w9Fa2B"
         }
       ],
-      "duration_ms": 179732,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/1WWVZOdu0xkgEo7RRBWuUQ"
+      "duration_ms": 239346,
+      "name": "Acceptance",
+      "url": "https://open.spotify.com/track/341gGzNSZumFnSnj88tUfG"
     },
     {
       "added_at": "2026-01-15 23:00:24",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
-        "name": "Grisaille Into Aurora",
-        "url": "https://open.spotify.com/album/2X1HQP3bL0cygdxZ0qO62n"
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/5bb5R9HxNU50b4UEpsVxnJ"
       },
       "artists": [
         {
-          "name": "AKA Block",
-          "url": "https://open.spotify.com/artist/3znfzjYazV5OBop5w9Fa2B"
+          "name": "MAVEE",
+          "url": "https://open.spotify.com/artist/0JEu13E5h72umshgX4tAte"
         }
       ],
-      "duration_ms": 239346,
-      "name": "Acceptance",
-      "url": "https://open.spotify.com/track/341gGzNSZumFnSnj88tUfG"
+      "duration_ms": 179732,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/1WWVZOdu0xkgEo7RRBWuUQ"
     },
     {
       "added_at": "2026-01-15 23:00:24",

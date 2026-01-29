@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,328 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,359 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 47 | [Panga](https://open.spotify.com/track/13yHaNGlckcW7zvJ5yUSwN) | [Ammy Chahar](https://open.spotify.com/artist/5XE93ktVBgJuN7ln4YDvmX), [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM) | [Panga](https://open.spotify.com/album/3BTHZFnhSzPqSho78f8Kwz) | 3:01 |
 | 48 | [Albedi](https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Albedi](https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H) | 3:00 |
 | 49 | [Dead Lift \(feat\. Neeraj Goyat & Raja Yadav\)](https://open.spotify.com/track/2PnmxUT3UT8EIChBeWR9RG) | [Branded Fouji](https://open.spotify.com/artist/6sbBZPIY51iHNT9Ydt7IMs), [Dopevibe](https://open.spotify.com/artist/16FUi8xdvWrsJH08z9bKKr), [Neeraj Goyat](https://open.spotify.com/artist/23EVnGZSG0LzdeEXJvefda), [Raja Yadav](https://open.spotify.com/artist/1jdSs5vlSStODzBAi30Z6V) | [Dead Lift \(feat\. Neeraj Goyat & Raja Yadav\)](https://open.spotify.com/album/0em397h6R74n2y5v5JhJyc) | 3:23 |
-| 50 | [Tedhe Chaalak](https://open.spotify.com/track/5EXNgdixf4572ATdvnSdXL) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Tedhe Chaalak](https://open.spotify.com/album/48e53D1ZHIh0EfVpCySju6) | 3:16 |
+| 50 | [KNL To LHR](https://open.spotify.com/track/7aaGOceIZaUaVGKzU4ZTfP) | [Prince Jamba](https://open.spotify.com/artist/6RDhaAavmBlrZKUqJ8YvJy), [Sameer](https://open.spotify.com/artist/6GITDzZHqhL9AuVVjHQFG7), [Brown Beats](https://open.spotify.com/artist/5oWrsQDyCV8GKaWikhwPfk) | [KNL To LHR](https://open.spotify.com/album/4eLwKIAxknztWvHmLMVl0x) | 2:23 |
 
-Snapshot ID: `AAAAAA//Kt6sxsfysFjZ2Le6Yvx4aP9T`
+Snapshot ID: `AAAAAJXeTGdOFSsnh0WKg+Vd4v2E0Bee`

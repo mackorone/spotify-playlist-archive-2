@@ -519,6 +519,24 @@
     },
     {
       "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5gP4TU7UyUOJLS3sokcdpE"
+      },
+      "artists": [
+        {
+          "name": "Tahani",
+          "url": "https://open.spotify.com/artist/7L4VxMAtqFNfhO4oWBMuQb"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221759,
+      "name": "17",
+      "url": "https://open.spotify.com/track/0IHb6jmy7znHrHf7OgqeIQ"
+    },
+    {
+      "album": {
         "name": "18",
         "url": "https://open.spotify.com/album/0e4wPE7oNUnu3ZE7rUdNZj"
       },
@@ -32829,6 +32847,24 @@
     },
     {
       "album": {
+        "name": "For a While",
+        "url": "https://open.spotify.com/album/4FxbcjjaRIuG0WefZyPVFF"
+      },
+      "artists": [
+        {
+          "name": "Eduardo",
+          "url": "https://open.spotify.com/artist/3WsZM6YC4gxvcEMvGCbYXq"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239815,
+      "name": "For a While",
+      "url": "https://open.spotify.com/track/2FKKTm0sYw1B7YNahklj8w"
+    },
+    {
+      "album": {
         "name": "For Love",
         "url": "https://open.spotify.com/album/526A6Ct8ixrJWodK2OdqYl"
       },
@@ -37226,7 +37262,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 229086,
       "name": "Good Grief",
       "url": "https://open.spotify.com/track/0OFOf0vAz1EL18MtIPRoOo"
@@ -41982,7 +42018,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 171589,
       "name": "Houston",
       "url": "https://open.spotify.com/track/5rHVliJv5zDu9aSGvdmnWI"
@@ -52686,7 +52722,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 195561,
       "name": "Let's Get Fucked Up",
       "url": "https://open.spotify.com/track/7kKWkqHf9ZLwsyWeP4ijp5"
@@ -60692,6 +60728,28 @@
       "duration_ms": 205500,
       "name": "MISTLETOE",
       "url": "https://open.spotify.com/track/7fiSWTplZdt2lCE21by8TI"
+    },
+    {
+      "album": {
+        "name": "Misunderstood",
+        "url": "https://open.spotify.com/album/68Jvnj1wYgmf1JAMo7n537"
+      },
+      "artists": [
+        {
+          "name": "NARROWAY",
+          "url": "https://open.spotify.com/artist/6vgMDWteLfrmr231nWxGq8"
+        },
+        {
+          "name": "bloody Candy",
+          "url": "https://open.spotify.com/artist/5IQaOyIzubjmSh7jiynBMx"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274719,
+      "name": "Misunderstood",
+      "url": "https://open.spotify.com/track/5qBWvbRMhBRJbv4OBCaTEE"
     },
     {
       "album": {
@@ -87275,6 +87333,24 @@
     },
     {
       "album": {
+        "name": "summer depression",
+        "url": "https://open.spotify.com/album/1zkm5i2BQpuDLJrIJy12VR"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151693,
+      "name": "summer depression",
+      "url": "https://open.spotify.com/track/3SEZEyvEALlomED5xFeqOs"
+    },
+    {
+      "album": {
         "name": "summer died",
         "url": "https://open.spotify.com/album/2Q1KDKB2re98AMumPjVS24"
       },
@@ -93940,6 +94016,28 @@
       "duration_ms": 191808,
       "name": "This Is Paradise (feat. Prod\u00e9je)",
       "url": "https://open.spotify.com/track/1h8JsTaauasbc824sNGRY0"
+    },
+    {
+      "album": {
+        "name": "This Is the Year",
+        "url": "https://open.spotify.com/album/3atPFMgIdFC1YaAVjxWPZi"
+      },
+      "artists": [
+        {
+          "name": "Sean Kiely",
+          "url": "https://open.spotify.com/artist/05N3mPsPMp6wxqMLgrstbp"
+        },
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199533,
+      "name": "This Is the Year",
+      "url": "https://open.spotify.com/track/7GbmNgVVEJCHrLaZnF5vCK"
     },
     {
       "album": {

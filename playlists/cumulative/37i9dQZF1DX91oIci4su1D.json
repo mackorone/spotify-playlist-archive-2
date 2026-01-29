@@ -9421,6 +9421,24 @@
     },
     {
       "album": {
+        "name": "Glow Up",
+        "url": "https://open.spotify.com/album/72O9KbYw4uzkRAirxUtaOL"
+      },
+      "artists": [
+        {
+          "name": "B Jones",
+          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Glow Up",
+      "url": "https://open.spotify.com/track/4UM7u9H76sdBGDsx3Kc8TK"
+    },
+    {
+      "album": {
         "name": "Go!",
         "url": "https://open.spotify.com/album/0UJM4jZxI3ljOHwN6ItICI"
       },
@@ -14728,7 +14746,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 190217,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/2AASTWp5s510bkkE61AuMq"

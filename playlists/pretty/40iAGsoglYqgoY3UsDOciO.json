@@ -1,12 +1,12 @@
 {
   "description": "A frequently updated playlist with brand-new songs from new &amp;amp; established artists. \ud83e\udd16\ud83d\udeab&#x2F;&#x2F; Cover: $NOT | pitch.playlistd@gmail.com",
-  "num_followers": 587,
+  "num_followers": 590,
   "original_name": "New Music Daily",
   "owner": {
     "name": "Finnster the curator",
     "url": "https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi"
   },
-  "snapshot_id": "AAABeKOoA0qa7VBcOZwGTnIh+5UlMrPE",
+  "snapshot_id": "AAABe9llDStPzV9FSONmOgAwNR26hNDu",
   "tracks": [
     {
       "added_at": "2023-07-26 06:40:03",
@@ -8519,6 +8519,54 @@
       "duration_ms": 130434,
       "name": "Do You Want Me",
       "url": "https://open.spotify.com/track/0mPlRoWozVrwoJXKGJ8KV2"
+    },
+    {
+      "added_at": "2026-01-28 11:16:08",
+      "album": {
+        "name": "The Woman I Have Never Been",
+        "url": "https://open.spotify.com/album/3mXIVaVxtvwBRg9cgOdPAo"
+      },
+      "artists": [
+        {
+          "name": "LeLore",
+          "url": "https://open.spotify.com/artist/0Lui3cCsiAznp6iYOemK1U"
+        }
+      ],
+      "duration_ms": 201336,
+      "name": "The Woman I Have Never Been",
+      "url": "https://open.spotify.com/track/1cAgYiSNH4Tw6uaTYycCQ5"
+    },
+    {
+      "added_at": "2026-01-28 11:16:23",
+      "album": {
+        "name": "D in Da A",
+        "url": "https://open.spotify.com/album/09EFjsbE4gXYn6I8qgTc2r"
+      },
+      "artists": [
+        {
+          "name": "D.loading",
+          "url": "https://open.spotify.com/artist/5ogOlBGV3hK3AD8ZJXOpl9"
+        }
+      ],
+      "duration_ms": 157073,
+      "name": "D in da A",
+      "url": "https://open.spotify.com/track/2N8YelMa5lSCBycq1hhuZK"
+    },
+    {
+      "added_at": "2026-01-28 11:16:51",
+      "album": {
+        "name": "Minding My Business",
+        "url": "https://open.spotify.com/album/5XZYS9zWdncFogtSThtheL"
+      },
+      "artists": [
+        {
+          "name": "CallMeWhoElse",
+          "url": "https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo"
+        }
+      ],
+      "duration_ms": 99312,
+      "name": "Minding My Business",
+      "url": "https://open.spotify.com/track/1AYKrxVWjGxkUdcOxadqzw"
     }
   ],
   "unique_name": "New Music Daily",

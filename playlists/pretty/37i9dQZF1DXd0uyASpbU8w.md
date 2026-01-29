@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Maglera Doe Boy, LADIPOE, Harry Styles, Wizkid & Asake,  and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,936 likes - 51 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,980 likes - 51 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 47 | [Inge 2 \- SENSASIE Remix](https://open.spotify.com/track/3wIiiPGH2qQHfudTgmzqYl) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS), [SENSASIE](https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14) | [Inge 2 \(SENSASIE Remix\)](https://open.spotify.com/album/6V8pUXBU6yubG59MoM7KD7) | 3:17 |
 | 48 | [Higher](https://open.spotify.com/track/38UsWqBx6EFAfKCrlWOxhd) | [4am](https://open.spotify.com/artist/6Et1m4ITGVs524OB1tBr7Z) | [Higher](https://open.spotify.com/album/1t0ITGospV4NHS2QlKH4UZ) | 3:37 |
 | 49 | [Baridi](https://open.spotify.com/track/1F3eg8iAgKqUwYsKiLm3G8) | [D Voice](https://open.spotify.com/artist/1A40Crzm8xjctMJnzTQ54g), [Zuchu](https://open.spotify.com/artist/2t8CuzfJLupfaqiKgWWIYT) | [Baridi](https://open.spotify.com/album/5sPRuQ28bhG1QuCVRRMP5R) | 3:09 |
-| 50 | [SDAKWA](https://open.spotify.com/track/62zh5Y89gYq0rOYAGSJpF8) | [Nino Fresko](https://open.spotify.com/artist/0c6gJEK0aZmFvanmQfa6EK) | [SDAKWA](https://open.spotify.com/album/3iGycbRcfsjuidAlxnQr0M) | 2:37 |
+| 50 | [SDAKWA](https://open.spotify.com/track/62zh5Y89gYq0rOYAGSJpF8) | [Nino Fresko](https://open.spotify.com/artist/0c6gJEK0aZmFvanmQfa6EK), [Zackey](https://open.spotify.com/artist/04ukl0Vm3xckqcceBxZcZO), [BZM](https://open.spotify.com/artist/6DeQHX5C3UghvwlznKVvPX) | [SDAKWA](https://open.spotify.com/album/3iGycbRcfsjuidAlxnQr0M) | 2:37 |
 | 51 | [Sioni Haja](https://open.spotify.com/track/11dHYUHkz51oJJ14KqBzfX) | [DENO](https://open.spotify.com/artist/6JnP9a6TJjhR0yexwK0MrK) | [Sioni Haja](https://open.spotify.com/album/0MWqjICMiB1Sq87kGx0K7L) | 3:23 |
 
 Snapshot ID: `AAAAAIY+eKRGjyc9aEpzALk+80OZJyzc`

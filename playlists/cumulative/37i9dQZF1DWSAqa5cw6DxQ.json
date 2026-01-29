@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Fragrance of Indigo",
+        "url": "https://open.spotify.com/album/1ih6vhDv9sbI1R05XRYfuq"
+      },
+      "artists": [
+        {
+          "name": "Satori Bloom",
+          "url": "https://open.spotify.com/artist/7i9wtx5GMP70LKJE1Qa2qR"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205238,
+      "name": "A Fragrance of Indigo",
+      "url": "https://open.spotify.com/track/1Th9QQ6A3ls1GiTh0el8OX"
+    },
+    {
+      "album": {
         "name": "A Peaceful Waiting",
         "url": "https://open.spotify.com/album/0vI3irLSTV9nPx8RXlYlJ6"
       },
@@ -322,7 +340,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 125997,
       "name": "Aspettami",
       "url": "https://open.spotify.com/track/59TaH0JXyu19Xt01RTF4DF"
@@ -1226,10 +1244,28 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 192748,
       "name": "Dreams of Mercury",
       "url": "https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o"
+    },
+    {
+      "album": {
+        "name": "Drifted",
+        "url": "https://open.spotify.com/album/2TNI2J8Wdy0VbdZQEwHFeX"
+      },
+      "artists": [
+        {
+          "name": "Zane Cassidy",
+          "url": "https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147374,
+      "name": "Drifted",
+      "url": "https://open.spotify.com/track/054GYfyU2A3u1oxmSW46yQ"
     },
     {
       "album": {
@@ -1446,6 +1482,24 @@
       "duration_ms": 127901,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/3SuA0W1bN0TmEl9dXge51i"
+    },
+    {
+      "album": {
+        "name": "Epsilon",
+        "url": "https://open.spotify.com/album/1u8kGsfKYpvElUt2YosFRj"
+      },
+      "artists": [
+        {
+          "name": "Holistic Lab",
+          "url": "https://open.spotify.com/artist/7zwefIkbmkizwiMIuEU5Oy"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197658,
+      "name": "Epsilon",
+      "url": "https://open.spotify.com/track/3B8bZCic5DnYNnkwr6wHno"
     },
     {
       "album": {
@@ -1683,6 +1737,24 @@
     },
     {
       "album": {
+        "name": "For Nora",
+        "url": "https://open.spotify.com/album/1P5sigP2TiTTL2qkK8MZRU"
+      },
+      "artists": [
+        {
+          "name": "Akleia",
+          "url": "https://open.spotify.com/artist/4TXPgXCkgmeKZONnRuTYTd"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142325,
+      "name": "For Nora",
+      "url": "https://open.spotify.com/track/2xhszAg6JPOdNqYM5cHHG2"
+    },
+    {
+      "album": {
         "name": "Forests and Hills",
         "url": "https://open.spotify.com/album/4RIXar48wxLqPfxwnycwNF"
       },
@@ -1716,6 +1788,24 @@
       "duration_ms": 189750,
       "name": "Forward",
       "url": "https://open.spotify.com/track/1vAzpG22ziNLd5wzOzjM0z"
+    },
+    {
+      "album": {
+        "name": "Gentle Heart",
+        "url": "https://open.spotify.com/album/1Dp04UQwfqV2FtPzMHc3NR"
+      },
+      "artists": [
+        {
+          "name": "Gates of Heaven",
+          "url": "https://open.spotify.com/artist/2d1SOxC8HeERlKJmAcS14j"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192659,
+      "name": "Gentle Heart",
+      "url": "https://open.spotify.com/track/2a5EPELemTlMkUiPgb41kx"
     },
     {
       "album": {
@@ -2745,6 +2835,24 @@
     },
     {
       "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/09pwXnFafnvyozgLpdq3bV"
+      },
+      "artists": [
+        {
+          "name": "Winterlow",
+          "url": "https://open.spotify.com/artist/7tUSg1TRO7MaJW74ldJzLO"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174375,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/5fgWUGyhPg4KmN4g4REBRG"
+    },
+    {
+      "album": {
         "name": "Skies",
         "url": "https://open.spotify.com/album/7nWdcWGFSk37JKHLTh9G7W"
       },
@@ -3415,6 +3523,24 @@
     },
     {
       "album": {
+        "name": "Sacred Flow",
+        "url": "https://open.spotify.com/album/0mpj1Xid30sLBl6qI8Ulpk"
+      },
+      "artists": [
+        {
+          "name": "Ezra Santos",
+          "url": "https://open.spotify.com/artist/3sTuSeAY6N4wIUeV4zVmbX"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158918,
+      "name": "Sacred Flow",
+      "url": "https://open.spotify.com/track/6oC6Do3rNZnbCSZFXz4FyJ"
+    },
+    {
+      "album": {
         "name": "Sacred Hours",
         "url": "https://open.spotify.com/album/7m5Yw0AvKYIOW0A0oMmWRE"
       },
@@ -3498,7 +3624,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 187033,
       "name": "Sensitive Kind",
       "url": "https://open.spotify.com/track/5ieI1TNrPSrQtpDhr5C6Ng"
@@ -3660,7 +3786,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 160461,
       "name": "Slow",
       "url": "https://open.spotify.com/track/4C18P7OaNo271fYNnbpoVR"
@@ -3883,6 +4009,24 @@
     },
     {
       "album": {
+        "name": "Spiral Magnolia",
+        "url": "https://open.spotify.com/album/5t5Gja7OWZIuE8DDEBQnBz"
+      },
+      "artists": [
+        {
+          "name": "Kal Koren",
+          "url": "https://open.spotify.com/artist/48ZAcUtJjaZZ0OZstH5X4v"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152250,
+      "name": "Spiral Magnolia",
+      "url": "https://open.spotify.com/track/0TLYleNQkHC62nvSqoZKBM"
+    },
+    {
+      "album": {
         "name": "Starfade",
         "url": "https://open.spotify.com/album/7C0oG2QoF1rRuQm66ChVBy"
       },
@@ -3894,7 +4038,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 161911,
       "name": "Starfade",
       "url": "https://open.spotify.com/track/0GhOInKD9F6b1nypetsuJC"
@@ -4564,6 +4708,24 @@
       "duration_ms": 150822,
       "name": "Whole",
       "url": "https://open.spotify.com/track/6GEw2nN4swoSrDEVBWLPqv"
+    },
+    {
+      "album": {
+        "name": "Willow Whisper",
+        "url": "https://open.spotify.com/album/6EArCdiMKru9YIPRu0ylVN"
+      },
+      "artists": [
+        {
+          "name": "Skeru",
+          "url": "https://open.spotify.com/artist/2VtgVsxxb33b7iZ71BNDg7"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140250,
+      "name": "Willow Whisper",
+      "url": "https://open.spotify.com/track/6pt3hRZeMiUEl3SNRmEF5Y"
     },
     {
       "album": {

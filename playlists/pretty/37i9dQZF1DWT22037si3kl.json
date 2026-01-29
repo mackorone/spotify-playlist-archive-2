@@ -1,6 +1,6 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: Nebrugg",
-  "num_followers": 148425,
+  "num_followers": 148422,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -615,30 +615,6 @@
     {
       "added_at": "2026-01-23 15:10:48",
       "album": {
-        "name": "MULIERES",
-        "url": "https://open.spotify.com/album/1cPO63ScY3hQLh22Wtl1L3"
-      },
-      "artists": [
-        {
-          "name": "FAB GODAMN",
-          "url": "https://open.spotify.com/artist/7g4bHpDdeUyNES1eX8BQ3g"
-        },
-        {
-          "name": "Young Nego K",
-          "url": "https://open.spotify.com/artist/5T3F7IclObjDyHZ7ZG76bw"
-        },
-        {
-          "name": "$upremos",
-          "url": "https://open.spotify.com/artist/7y3iq6ylOLzQOCBU3pa1Ff"
-        }
-      ],
-      "duration_ms": 127916,
-      "name": "MULIERES",
-      "url": "https://open.spotify.com/track/4hXsF7dAII2A4YW1Jtg2zc"
-    },
-    {
-      "added_at": "2026-01-23 15:10:48",
-      "album": {
         "name": "MOTIVO",
         "url": "https://open.spotify.com/album/5FV4dy58QXaDjngYtT6VaB"
       },
@@ -659,6 +635,30 @@
       "duration_ms": 166015,
       "name": "MOTIVO",
       "url": "https://open.spotify.com/track/1qKALAI1oDHKjSEz95KO4w"
+    },
+    {
+      "added_at": "2026-01-23 15:10:48",
+      "album": {
+        "name": "MULIERES",
+        "url": "https://open.spotify.com/album/1cPO63ScY3hQLh22Wtl1L3"
+      },
+      "artists": [
+        {
+          "name": "FAB GODAMN",
+          "url": "https://open.spotify.com/artist/7g4bHpDdeUyNES1eX8BQ3g"
+        },
+        {
+          "name": "Young Nego K",
+          "url": "https://open.spotify.com/artist/5T3F7IclObjDyHZ7ZG76bw"
+        },
+        {
+          "name": "$upremos",
+          "url": "https://open.spotify.com/artist/7y3iq6ylOLzQOCBU3pa1Ff"
+        }
+      ],
+      "duration_ms": 127916,
+      "name": "MULIERES",
+      "url": "https://open.spotify.com/track/4hXsF7dAII2A4YW1Jtg2zc"
     },
     {
       "added_at": "2026-01-23 15:10:48",
@@ -947,22 +947,26 @@
     {
       "added_at": "2026-01-23 15:10:48",
       "album": {
-        "name": "IMP\u00c9RIO",
-        "url": "https://open.spotify.com/album/4HQ1aKcnPhlsHawRiBBs7S"
+        "name": "NOITE DE TRAP",
+        "url": "https://open.spotify.com/album/2N8aePZV3J6i2yV4tNAL4f"
       },
       "artists": [
         {
-          "name": "M'DEP",
-          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+          "name": "TheJovemJota",
+          "url": "https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV"
         },
         {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6"
+          "name": "Arthurzinho",
+          "url": "https://open.spotify.com/artist/3k5mp3imY0h00XDaal3ELP"
+        },
+        {
+          "name": "D.A.A.N",
+          "url": "https://open.spotify.com/artist/6FoJ1vMKehxpm93fteKX8v"
         }
       ],
-      "duration_ms": 150794,
-      "name": "IMP\u00c9RIO",
-      "url": "https://open.spotify.com/track/5DC5J4ki3mJHGjbaegsD3L"
+      "duration_ms": 127058,
+      "name": "NOITE DE TRAP",
+      "url": "https://open.spotify.com/track/6kfmdw0rCqnnnosIxKbBDZ"
     },
     {
       "added_at": "2026-01-23 15:10:48",
@@ -991,26 +995,22 @@
     {
       "added_at": "2026-01-23 15:10:48",
       "album": {
-        "name": "NOITE DE TRAP",
-        "url": "https://open.spotify.com/album/2N8aePZV3J6i2yV4tNAL4f"
+        "name": "IMP\u00c9RIO",
+        "url": "https://open.spotify.com/album/4HQ1aKcnPhlsHawRiBBs7S"
       },
       "artists": [
         {
-          "name": "TheJovemJota",
-          "url": "https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV"
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
         },
         {
-          "name": "Arthurzinho",
-          "url": "https://open.spotify.com/artist/3k5mp3imY0h00XDaal3ELP"
-        },
-        {
-          "name": "D.A.A.N",
-          "url": "https://open.spotify.com/artist/6FoJ1vMKehxpm93fteKX8v"
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6"
         }
       ],
-      "duration_ms": 127058,
-      "name": "NOITE DE TRAP",
-      "url": "https://open.spotify.com/track/6kfmdw0rCqnnnosIxKbBDZ"
+      "duration_ms": 150794,
+      "name": "IMP\u00c9RIO",
+      "url": "https://open.spotify.com/track/5DC5J4ki3mJHGjbaegsD3L"
     },
     {
       "added_at": "2026-01-23 15:10:48",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-01-23 15:10:48",
       "album": {
+        "name": "Ruas Frias",
+        "url": "https://open.spotify.com/album/12UMQAWVys24LITebtbIdY"
+      },
+      "artists": [
+        {
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Ruas Frias",
+      "url": "https://open.spotify.com/track/5Omd3iQ7w09CsoFBfZrKMM"
+    },
+    {
+      "added_at": "2026-01-23 15:10:48",
+      "album": {
         "name": "Mr. Lupa Freestyle",
         "url": "https://open.spotify.com/album/69GPAtxzk4v0YXLfB8urkM"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 147129,
       "name": "Mr. Lupa Freestyle",
       "url": "https://open.spotify.com/track/0QdnEAQtqSUgvc3yIvsxfg"
-    },
-    {
-      "added_at": "2026-01-23 15:10:48",
-      "album": {
-        "name": "Ruas Frias",
-        "url": "https://open.spotify.com/album/12UMQAWVys24LITebtbIdY"
-      },
-      "artists": [
-        {
-          "name": "Thxuzz",
-          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Ruas Frias",
-      "url": "https://open.spotify.com/track/5Omd3iQ7w09CsoFBfZrKMM"
     },
     {
       "added_at": "2026-01-23 15:10:48",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2026-01-23 15:10:48",
       "album": {
+        "name": "Da Ponte Pra L\u00e1 O Futuro Das Ruas",
+        "url": "https://open.spotify.com/album/4WJUEes5B3xjTKUmr28BxP"
+      },
+      "artists": [
+        {
+          "name": "FRESH",
+          "url": "https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh"
+        },
+        {
+          "name": "UM ENT",
+          "url": "https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT"
+        }
+      ],
+      "duration_ms": 179994,
+      "name": "ESTRAT\u00c9GIA",
+      "url": "https://open.spotify.com/track/6t6aNasqHYxgPjBj9XkMKD"
+    },
+    {
+      "added_at": "2026-01-23 15:10:48",
+      "album": {
         "name": "Spliff",
         "url": "https://open.spotify.com/album/0sssgcz8dkkpIF54LCUf0C"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 137142,
       "name": "Spliff",
       "url": "https://open.spotify.com/track/3FlS1FD5u18ovrbxcAVkfs"
-    },
-    {
-      "added_at": "2026-01-23 15:10:48",
-      "album": {
-        "name": "Da Ponte Pra L\u00e1 O Futuro Das Ruas",
-        "url": "https://open.spotify.com/album/4WJUEes5B3xjTKUmr28BxP"
-      },
-      "artists": [
-        {
-          "name": "FRESH",
-          "url": "https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh"
-        },
-        {
-          "name": "UM ENT",
-          "url": "https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT"
-        }
-      ],
-      "duration_ms": 179994,
-      "name": "ESTRAT\u00c9GIA",
-      "url": "https://open.spotify.com/track/6t6aNasqHYxgPjBj9XkMKD"
     }
   ],
   "unique_name": "O Drip",

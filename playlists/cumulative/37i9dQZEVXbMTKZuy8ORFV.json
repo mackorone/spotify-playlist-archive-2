@@ -2306,7 +2306,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 259000,
       "name": "Amor Joven",
       "url": "https://open.spotify.com/track/1sYYo38zOx1PjlnBe3PWn2"
@@ -12949,6 +12949,36 @@
     },
     {
       "album": {
+        "name": "Ela k\u00e9 Leitada",
+        "url": "https://open.spotify.com/album/4Im21Qok3nccqN2OXrJYDw"
+      },
+      "artists": [
+        {
+          "name": "Prod.Nifour",
+          "url": "https://open.spotify.com/artist/71NQK8ufY5t7SeiMAhPB9I"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        },
+        {
+          "name": "Storys Funk",
+          "url": "https://open.spotify.com/artist/2b9UFFkMRKYAN6MpqFnqow"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156708,
+      "name": "Ela k\u00e9 Leitada",
+      "url": "https://open.spotify.com/track/161dJFOgyuYcgKg0AzYuAh"
+    },
+    {
+      "album": {
         "name": "ella brilla",
         "url": "https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD"
       },
@@ -13672,6 +13702,44 @@
       "duration_ms": 281522,
       "name": "Esclava - Remix",
       "url": "https://open.spotify.com/track/0fOjPUdkQjLH0aoGa5p5h4"
+    },
+    {
+      "album": {
+        "name": "ESCONDIDIN",
+        "url": "https://open.spotify.com/album/3pj7gtmk23ahWWwGxqLH6A"
+      },
+      "artists": [
+        {
+          "name": "Afinho do Fluxo",
+          "url": "https://open.spotify.com/artist/2Q5VrODXSCgdp1UxJWAZbc"
+        },
+        {
+          "name": "MC Cauazim",
+          "url": "https://open.spotify.com/artist/3V3Y4qqMBv35twKkS0f9Md"
+        },
+        {
+          "name": "Leo Da Zo",
+          "url": "https://open.spotify.com/artist/7wjqh1DgYsZ9Ak1NmrAFCu"
+        },
+        {
+          "name": "MC Roger",
+          "url": "https://open.spotify.com/artist/6QiUH0jJVJUdnte0jX1Wzj"
+        },
+        {
+          "name": "Jm O Rato Delas",
+          "url": "https://open.spotify.com/artist/6NvRf4dJQqdLNFO43P9Mko"
+        },
+        {
+          "name": "Mc Fininho Da RC",
+          "url": "https://open.spotify.com/artist/1tsvlh2JNge7ibPorpV8Ha"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186531,
+      "name": "ESCONDIDIN",
+      "url": "https://open.spotify.com/track/7w6zp06Tnmi6iZ9A47XRm7"
     },
     {
       "album": {
@@ -26916,7 +26984,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 153750,
       "name": "M\u00e1s linda que ayer",
       "url": "https://open.spotify.com/track/4mmg0bHtwihahCotqiqx7T"
@@ -27786,7 +27854,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 210533,
       "name": "Ni\u00f1o",
       "url": "https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac"
@@ -30376,7 +30444,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 279962,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/76952ZbAHlgMqrIEMqYkgB"
@@ -30402,7 +30470,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 279962,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/7qbqG0UWOdpsYE2G6ckXSb"
@@ -30696,7 +30764,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 168000,
       "name": "Pase y Toque",
       "url": "https://open.spotify.com/track/2MzaScXAL8wrSU9tlEijo6"
@@ -36090,7 +36158,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 215959,
       "name": "Sin Maquillaje",
       "url": "https://open.spotify.com/track/5jEyu0nTEGmpWv3QVWRx4m"
@@ -43990,7 +44058,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"

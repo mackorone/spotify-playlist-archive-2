@@ -500,10 +500,6 @@
       },
       "artists": [
         {
-          "name": "Mika Kobayashi",
-          "url": "https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz"
-        },
-        {
           "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
@@ -571,32 +567,6 @@
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR"
-      },
-      "artists": [
-        {
-          "name": "CASG (Caramel Apple Sound Gadget)",
-          "url": "https://open.spotify.com/artist/3zrqQQY3hSf5B7HIjDeQEQ"
-        },
-        {
-          "name": "Sawano Hiroyuki",
-          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
-        },
-        {
-          "name": "mpi",
-          "url": "https://open.spotify.com/artist/1tpOWWj05FyhBx69jj5lM5"
-        }
-      ],
-      "date_added": "2022-02-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 268333,
-      "name": "Call your name",
-      "url": "https://open.spotify.com/track/2CR7uFXc6cmk11oc0arZMM"
-    },
-    {
-      "album": {
         "name": "TV Anime \"Attack on Titan\" Original Soundtrack",
         "url": "https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa"
       },
@@ -612,6 +582,24 @@
       "duration_ms": 268333,
       "name": "Call Your Name",
       "url": "https://open.spotify.com/track/2LYhS0VbCzbE6alAI3Q7Ot"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR"
+      },
+      "artists": [
+        {
+          "name": "Sawano Hiroyuki",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268333,
+      "name": "Call your name",
+      "url": "https://open.spotify.com/track/2CR7uFXc6cmk11oc0arZMM"
     },
     {
       "album": {
@@ -712,10 +700,6 @@
         {
           "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
-        },
-        {
-          "name": "Aimee Blackschleger",
-          "url": "https://open.spotify.com/artist/7rFMYhsVx0XJQ9sqVgEZAd"
         }
       ],
       "date_added": "2022-02-08",
@@ -1692,10 +1676,6 @@
         {
           "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
-        },
-        {
-          "name": "mpi",
-          "url": "https://open.spotify.com/artist/1tpOWWj05FyhBx69jj5lM5"
         }
       ],
       "date_added": "2022-02-08",
@@ -1982,10 +1962,6 @@
       },
       "artists": [
         {
-          "name": "Cyua",
-          "url": "https://open.spotify.com/artist/3gMQIwIzRRTX8tQg5COTaX"
-        },
-        {
           "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
@@ -2169,10 +2145,6 @@
         "url": "https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR"
       },
       "artists": [
-        {
-          "name": "Mika Kobayashi",
-          "url": "https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz"
-        },
         {
           "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"

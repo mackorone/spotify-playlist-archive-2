@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Guilherme Arantes",
-  "num_followers": 355469,
+  "num_followers": 355463,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-01-23 15:04:09",
       "album": {
-        "name": "Uma cidade chamada eu mesmo",
-        "url": "https://open.spotify.com/album/61X5OP7xGcb2V1IYmckxFh"
-      },
-      "artists": [
-        {
-          "name": "Dani Black",
-          "url": "https://open.spotify.com/artist/5DlaVYlcVjPYeC4QLZDBJa"
-        }
-      ],
-      "duration_ms": 183771,
-      "name": "Muda Tudo",
-      "url": "https://open.spotify.com/track/219kRhIoG8mxIBeYSVbGRq"
-    },
-    {
-      "added_at": "2026-01-23 15:04:09",
-      "album": {
         "name": "BEM ME QUER / MINHA FLOR",
         "url": "https://open.spotify.com/album/7IzEEUAuO7NNdXoRK3KMoo"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 242000,
       "name": "MINHA FLOR",
       "url": "https://open.spotify.com/track/2pN0iVbrmmja8zlJne0fvS"
+    },
+    {
+      "added_at": "2026-01-23 15:04:09",
+      "album": {
+        "name": "Uma cidade chamada eu mesmo",
+        "url": "https://open.spotify.com/album/61X5OP7xGcb2V1IYmckxFh"
+      },
+      "artists": [
+        {
+          "name": "Dani Black",
+          "url": "https://open.spotify.com/artist/5DlaVYlcVjPYeC4QLZDBJa"
+        }
+      ],
+      "duration_ms": 183771,
+      "name": "Muda Tudo",
+      "url": "https://open.spotify.com/track/219kRhIoG8mxIBeYSVbGRq"
     },
     {
       "added_at": "2026-01-23 15:04:09",
@@ -399,8 +399,8 @@
     {
       "added_at": "2026-01-23 15:04:09",
       "album": {
-        "name": "A \u00daltima M\u00fasica (Acusticamente)",
-        "url": "https://open.spotify.com/album/7N0Z8ZWAFG0EAs5ibqkHEl"
+        "name": "Algo Me Diz (Acusticamente)",
+        "url": "https://open.spotify.com/album/6kYYHDpVNwqkbOyQb0MHPx"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
         }
       ],
-      "duration_ms": 228778,
-      "name": "A \u00daltima M\u00fasica (Acusticamente)",
-      "url": "https://open.spotify.com/track/25CV9bt3BGAFxaMLsOPgCb"
+      "duration_ms": 176012,
+      "name": "Algo Me Diz (Acusticamente)",
+      "url": "https://open.spotify.com/track/45sD7ZPV3rTYAN1dekDDL0"
     },
     {
       "added_at": "2026-01-23 15:04:09",
@@ -487,8 +487,8 @@
     {
       "added_at": "2026-01-23 15:04:09",
       "album": {
-        "name": "Algo Me Diz (Acusticamente)",
-        "url": "https://open.spotify.com/album/6kYYHDpVNwqkbOyQb0MHPx"
+        "name": "A \u00daltima M\u00fasica (Acusticamente)",
+        "url": "https://open.spotify.com/album/7N0Z8ZWAFG0EAs5ibqkHEl"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
         }
       ],
-      "duration_ms": 176012,
-      "name": "Algo Me Diz (Acusticamente)",
-      "url": "https://open.spotify.com/track/45sD7ZPV3rTYAN1dekDDL0"
+      "duration_ms": 228778,
+      "name": "A \u00daltima M\u00fasica (Acusticamente)",
+      "url": "https://open.spotify.com/track/25CV9bt3BGAFxaMLsOPgCb"
     },
     {
       "added_at": "2026-01-23 15:04:09",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-01-23 15:04:09",
       "album": {
+        "name": "O amor me fala de voc\u00ea",
+        "url": "https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz"
+      },
+      "artists": [
+        {
+          "name": "Caike Souza",
+          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
+        }
+      ],
+      "duration_ms": 199308,
+      "name": "O amor me fala de voc\u00ea",
+      "url": "https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5"
+    },
+    {
+      "added_at": "2026-01-23 15:04:09",
+      "album": {
         "name": "Beleza",
         "url": "https://open.spotify.com/album/5cntHecIHsUxVDDPUjFrhg"
       },
@@ -811,18 +827,18 @@
     {
       "added_at": "2026-01-23 15:04:09",
       "album": {
-        "name": "O amor me fala de voc\u00ea",
-        "url": "https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz"
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/05vHoRRovirQAL58SCHNBZ"
       },
       "artists": [
         {
-          "name": "Caike Souza",
-          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
         }
       ],
-      "duration_ms": 199308,
-      "name": "O amor me fala de voc\u00ea",
-      "url": "https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5"
+      "duration_ms": 265166,
+      "name": "Clara",
+      "url": "https://open.spotify.com/track/39wmwAYmZBUiH6uZmXcKoz"
     },
     {
       "added_at": "2026-01-23 15:04:09",
@@ -863,6 +879,22 @@
     {
       "added_at": "2026-01-23 15:04:09",
       "album": {
+        "name": "Praia Vermelha do Sul",
+        "url": "https://open.spotify.com/album/1IRdFuzbxGfwJS8I8sqw8T"
+      },
+      "artists": [
+        {
+          "name": "Leo Middea",
+          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+        }
+      ],
+      "duration_ms": 211367,
+      "name": "Praia Vermelha do Sul",
+      "url": "https://open.spotify.com/track/4xDiyA9dqXSa2288dig5QQ"
+    },
+    {
+      "added_at": "2026-01-23 15:04:09",
+      "album": {
         "name": "Qualquer Canto",
         "url": "https://open.spotify.com/album/257ZClpDD4cyOplPlv2JVU"
       },
@@ -879,22 +911,6 @@
       "duration_ms": 224000,
       "name": "Qualquer Canto",
       "url": "https://open.spotify.com/track/6cTMZoxnb9b6cneBK8eTf8"
-    },
-    {
-      "added_at": "2026-01-23 15:04:09",
-      "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/05vHoRRovirQAL58SCHNBZ"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 265166,
-      "name": "Clara",
-      "url": "https://open.spotify.com/track/39wmwAYmZBUiH6uZmXcKoz"
     },
     {
       "added_at": "2026-01-23 15:04:09",
@@ -943,22 +959,6 @@
       "duration_ms": 257739,
       "name": "For\u00e7a Estranha",
       "url": "https://open.spotify.com/track/19SaVJ4hb8WQApuD2iEa7w"
-    },
-    {
-      "added_at": "2026-01-23 15:04:09",
-      "album": {
-        "name": "Praia Vermelha do Sul",
-        "url": "https://open.spotify.com/album/1IRdFuzbxGfwJS8I8sqw8T"
-      },
-      "artists": [
-        {
-          "name": "Leo Middea",
-          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
-        }
-      ],
-      "duration_ms": 211367,
-      "name": "Praia Vermelha do Sul",
-      "url": "https://open.spotify.com/track/4xDiyA9dqXSa2288dig5QQ"
     },
     {
       "added_at": "2026-01-23 15:04:09",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2026-01-23 15:04:09",
       "album": {
-        "name": "Passageiro",
-        "url": "https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        },
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 219574,
-      "name": "Passageiro",
-      "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
-    },
-    {
-      "added_at": "2026-01-23 15:04:09",
-      "album": {
         "name": "MINHA DONA",
         "url": "https://open.spotify.com/album/1fxj7pL90vKI8brpykZlS5"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 149770,
       "name": "MINHA DONA",
       "url": "https://open.spotify.com/track/6HH3crASyfANv6O2rHaLe2"
+    },
+    {
+      "added_at": "2026-01-23 15:04:09",
+      "album": {
+        "name": "Passageiro",
+        "url": "https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 219574,
+      "name": "Passageiro",
+      "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
     },
     {
       "added_at": "2026-01-23 15:04:09",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-01-23 15:04:09",
       "album": {
-        "name": "Libido da Alma",
-        "url": "https://open.spotify.com/album/5I4WDX1OB6NPIPYbsv2DoX"
-      },
-      "artists": [
-        {
-          "name": "Guilherme Arantes",
-          "url": "https://open.spotify.com/artist/3LNTNOb2Bhh0g0etnZEyNE"
-        }
-      ],
-      "duration_ms": 207290,
-      "name": "Libido da Alma",
-      "url": "https://open.spotify.com/track/7g7bxrf0A4EIrUIhLs3wFk"
-    },
-    {
-      "added_at": "2026-01-23 15:04:09",
-      "album": {
         "name": "a natureza das coisas",
         "url": "https://open.spotify.com/album/0MxZANPoJbhP7ma8NK5col"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 119702,
       "name": "a natureza das coisas",
       "url": "https://open.spotify.com/track/2XOWOM7ljx20baKe6dGdLy"
+    },
+    {
+      "added_at": "2026-01-23 15:04:09",
+      "album": {
+        "name": "Libido da Alma",
+        "url": "https://open.spotify.com/album/5I4WDX1OB6NPIPYbsv2DoX"
+      },
+      "artists": [
+        {
+          "name": "Guilherme Arantes",
+          "url": "https://open.spotify.com/artist/3LNTNOb2Bhh0g0etnZEyNE"
+        }
+      ],
+      "duration_ms": 207290,
+      "name": "Libido da Alma",
+      "url": "https://open.spotify.com/track/7g7bxrf0A4EIrUIhLs3wFk"
     },
     {
       "added_at": "2026-01-23 15:04:09",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-01-23 15:04:09",
       "album": {
-        "name": "Minha Casa",
-        "url": "https://open.spotify.com/album/5lghZeBMkC6Iq13XIscWHQ"
-      },
-      "artists": [
-        {
-          "name": "M\u00f4nica Salmaso",
-          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
-        }
-      ],
-      "duration_ms": 200632,
-      "name": "Noite Severina - Ao Vivo",
-      "url": "https://open.spotify.com/track/6r9fGBw2zCyjunqPFIoAAE"
-    },
-    {
-      "added_at": "2026-01-23 15:04:09",
-      "album": {
         "name": "Pensei Que Fosse o C\u00e9u (Ao Vivo) [Deluxe]",
         "url": "https://open.spotify.com/album/2fVaO6cRhhbg9MIqsYGU0o"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 247847,
       "name": "Onde Deus possa me ouvir - Ao vivo",
       "url": "https://open.spotify.com/track/1SRwGa2dBqPeo8tbtMSAyG"
+    },
+    {
+      "added_at": "2026-01-23 15:04:09",
+      "album": {
+        "name": "Minha Casa",
+        "url": "https://open.spotify.com/album/5lghZeBMkC6Iq13XIscWHQ"
+      },
+      "artists": [
+        {
+          "name": "M\u00f4nica Salmaso",
+          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
+        }
+      ],
+      "duration_ms": 200632,
+      "name": "Noite Severina - Ao Vivo",
+      "url": "https://open.spotify.com/track/6r9fGBw2zCyjunqPFIoAAE"
     },
     {
       "added_at": "2026-01-23 15:04:09",
@@ -1579,22 +1579,22 @@
     {
       "added_at": "2026-01-23 15:04:09",
       "album": {
-        "name": "PALCO",
-        "url": "https://open.spotify.com/album/11D3RPdsEaovaCBPks0908"
+        "name": "Tudo Vai Conspirar",
+        "url": "https://open.spotify.com/album/43Vh4wyKdRXNjHWLi1IZHk"
       },
       "artists": [
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
         },
         {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+          "name": "Nathan Carvalho",
+          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
         }
       ],
-      "duration_ms": 278736,
-      "name": "PALCO",
-      "url": "https://open.spotify.com/track/3zMgTQolE201ZTHvxWltkq"
+      "duration_ms": 184875,
+      "name": "Tudo Vai Conspirar",
+      "url": "https://open.spotify.com/track/4mwrmRsKZBwzdTCKdB50Sc"
     },
     {
       "added_at": "2026-01-23 15:04:09",
@@ -1619,22 +1619,38 @@
     {
       "added_at": "2026-01-23 15:04:09",
       "album": {
-        "name": "Tudo Vai Conspirar",
-        "url": "https://open.spotify.com/album/43Vh4wyKdRXNjHWLi1IZHk"
+        "name": "PALCO",
+        "url": "https://open.spotify.com/album/11D3RPdsEaovaCBPks0908"
       },
       "artists": [
         {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         },
         {
-          "name": "Nathan Carvalho",
-          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
         }
       ],
-      "duration_ms": 184875,
-      "name": "Tudo Vai Conspirar",
-      "url": "https://open.spotify.com/track/4mwrmRsKZBwzdTCKdB50Sc"
+      "duration_ms": 278736,
+      "name": "PALCO",
+      "url": "https://open.spotify.com/track/3zMgTQolE201ZTHvxWltkq"
+    },
+    {
+      "added_at": "2026-01-23 15:04:09",
+      "album": {
+        "name": "Sonhando o Futuro",
+        "url": "https://open.spotify.com/album/3zMVuA9xdKA7KKaqy1crSy"
+      },
+      "artists": [
+        {
+          "name": "14 Bis",
+          "url": "https://open.spotify.com/artist/4cz8toptnAtxffn7ghNjyp"
+        }
+      ],
+      "duration_ms": 261043,
+      "name": "Sonhando o Futuro",
+      "url": "https://open.spotify.com/track/351MxF9HAAqxb33O6SCiRl"
     },
     {
       "added_at": "2026-01-23 15:04:09",
@@ -1655,22 +1671,6 @@
       "duration_ms": 223038,
       "name": "Depois da Tempestade",
       "url": "https://open.spotify.com/track/7uPtro2FLw2P9AJJZqNLiX"
-    },
-    {
-      "added_at": "2026-01-23 15:04:09",
-      "album": {
-        "name": "Sonhando o Futuro",
-        "url": "https://open.spotify.com/album/3zMVuA9xdKA7KKaqy1crSy"
-      },
-      "artists": [
-        {
-          "name": "14 Bis",
-          "url": "https://open.spotify.com/artist/4cz8toptnAtxffn7ghNjyp"
-        }
-      ],
-      "duration_ms": 261043,
-      "name": "Sonhando o Futuro",
-      "url": "https://open.spotify.com/track/351MxF9HAAqxb33O6SCiRl"
     },
     {
       "added_at": "2026-01-23 15:04:09",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-01-23 15:04:09",
       "album": {
-        "name": "Ter Filhos Fortes",
-        "url": "https://open.spotify.com/album/2yExdcx2kjImSo2CrxezZc"
-      },
-      "artists": [
-        {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
-        }
-      ],
-      "duration_ms": 259953,
-      "name": "Ter Filhos Fortes",
-      "url": "https://open.spotify.com/track/53EdazlS9uRL1MTT4fsnA1"
-    },
-    {
-      "added_at": "2026-01-23 15:04:09",
-      "album": {
         "name": "despe\u00e7o",
         "url": "https://open.spotify.com/album/47PrfckboBrK7QguTr1bRc"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 186963,
       "name": "despe\u00e7o",
       "url": "https://open.spotify.com/track/0577GE9jpR55CCv1idUqQC"
+    },
+    {
+      "added_at": "2026-01-23 15:04:09",
+      "album": {
+        "name": "Ter Filhos Fortes",
+        "url": "https://open.spotify.com/album/2yExdcx2kjImSo2CrxezZc"
+      },
+      "artists": [
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        }
+      ],
+      "duration_ms": 259953,
+      "name": "Ter Filhos Fortes",
+      "url": "https://open.spotify.com/track/53EdazlS9uRL1MTT4fsnA1"
     },
     {
       "added_at": "2026-01-23 15:04:09",

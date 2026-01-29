@@ -2217,6 +2217,24 @@
     },
     {
       "album": {
+        "name": "cute practice",
+        "url": "https://open.spotify.com/album/18chTHeiJkJUX3Q5T9Rry6"
+      },
+      "artists": [
+        {
+          "name": "ArfHudson",
+          "url": "https://open.spotify.com/artist/1r88jRdaqwfu3r6AHp7VVU"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93166,
+      "name": "so...............................?",
+      "url": "https://open.spotify.com/track/6wAGRDEEsUNkbcnWVZORSg"
+    },
+    {
+      "album": {
         "name": "SOAK (feat. Ocean Banks)",
         "url": "https://open.spotify.com/album/7f7L8xilhtSa9w21MBiJMD"
       },

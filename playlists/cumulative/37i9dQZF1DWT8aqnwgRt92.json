@@ -23173,24 +23173,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "\u4e9c\u54b2\u82b1",
-          "url": "https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h"
-        }
-      ],
-      "date_added": "2026-01-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/73oo1IrzIOkmjMCeQFg4jw"
-    },
-    {
-      "album": {
         "name": "TRANSFORMERS-Earthspark!!",
         "url": "https://open.spotify.com/album/3OBm1szR6Iqe7M4BAG4Ub8"
       },
@@ -35902,6 +35884,24 @@
       "duration_ms": 185000,
       "name": "\u30e9\u30a4\u30a2\u30fc",
       "url": "https://open.spotify.com/track/64ULo8RGzy9EEbd7F8FwGq"
+    },
+    {
+      "album": {
+        "name": "Sing That SONG!!",
+        "url": "https://open.spotify.com/album/5K12fsG2xPM14wxK9gSDRu"
+      },
+      "artists": [
+        {
+          "name": "\u4e9c\u54b2\u82b1",
+          "url": "https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308106,
+      "name": "\u30e9\u30a4\u30aa\u30f3 (TV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u30b7\u30ea\u30fc\u30ba\u300c\u30de\u30af\u30ed\u30b9F\u300d\u3088\u308a)",
+      "url": "https://open.spotify.com/track/73oo1IrzIOkmjMCeQFg4jw"
     },
     {
       "album": {

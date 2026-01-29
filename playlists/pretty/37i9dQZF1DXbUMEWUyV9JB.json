@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: Mariangela",
-  "num_followers": 277019,
+  "num_followers": 277023,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,26 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
+        "name": "A LA ORDEN",
+        "url": "https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 175058,
+      "name": "A LA ORDEN",
+      "url": "https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7"
+    },
+    {
+      "added_at": "2026-01-24 00:41:13",
+      "album": {
         "name": "Lo Mismo Que A M\u00ed",
         "url": "https://open.spotify.com/album/3lbQBPriMFQ07NUhMbYZO6"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 186360,
       "name": "Lo Mismo Que A M\u00ed",
       "url": "https://open.spotify.com/track/6sIvFhsKL8by5feYLeqawQ"
-    },
-    {
-      "added_at": "2026-01-24 00:41:13",
-      "album": {
-        "name": "A LA ORDEN",
-        "url": "https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 175058,
-      "name": "A LA ORDEN",
-      "url": "https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7"
     },
     {
       "added_at": "2026-01-24 00:41:13",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
-        "name": "JUGANDO A QUE NO PASA NADA",
-        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 209492,
-      "name": "POR QU\u00c9 SER\u00c1",
-      "url": "https://open.spotify.com/track/7cXGHxIoogqDTvbuLj0dsO"
-    },
-    {
-      "added_at": "2026-01-24 00:41:13",
-      "album": {
         "name": "Diamante",
         "url": "https://open.spotify.com/album/3C1zTVInM2jD0gsE8Qx3B1"
       },
@@ -1531,22 +1511,6 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
-        "name": "El Paso Del Gigante (Remix)",
-        "url": "https://open.spotify.com/album/6YWuqstKsgDvzMNVQnIEN0"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 194520,
-      "name": "El Paso Del Gigante - Remix",
-      "url": "https://open.spotify.com/track/3xr2DkBynhPVhVAPOrUJ8K"
-    },
-    {
-      "added_at": "2026-01-24 00:41:13",
-      "album": {
         "name": "Una como T\u00fa",
         "url": "https://open.spotify.com/album/41iwKSqnLP40egtF3BRkBN"
       },
@@ -1563,6 +1527,42 @@
       "duration_ms": 207333,
       "name": "Una como T\u00fa",
       "url": "https://open.spotify.com/track/424DheuFy5UkJdTYvDKfC5"
+    },
+    {
+      "added_at": "2026-01-24 00:41:13",
+      "album": {
+        "name": "El Paso Del Gigante (Remix)",
+        "url": "https://open.spotify.com/album/6YWuqstKsgDvzMNVQnIEN0"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 194520,
+      "name": "El Paso Del Gigante - Remix",
+      "url": "https://open.spotify.com/track/3xr2DkBynhPVhVAPOrUJ8K"
+    },
+    {
+      "added_at": "2026-01-24 00:41:13",
+      "album": {
+        "name": "JUGANDO A QUE NO PASA NADA",
+        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 209492,
+      "name": "POR QU\u00c9 SER\u00c1",
+      "url": "https://open.spotify.com/track/7cXGHxIoogqDTvbuLj0dsO"
     },
     {
       "added_at": "2026-01-24 00:41:13",
@@ -1595,6 +1595,26 @@
       "duration_ms": 345240,
       "name": "Cumbia En La Playa",
       "url": "https://open.spotify.com/track/4USKfftLX85UCuwuV5DLUT"
+    },
+    {
+      "added_at": "2026-01-24 00:41:13",
+      "album": {
+        "name": "Terco Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3RdbWyTpvb5RH22RXcEqo8"
+      },
+      "artists": [
+        {
+          "name": "Coraz\u00f3n Serrano",
+          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
+        },
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 167359,
+      "name": "Terco Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5ATLHoLB01iMuBBVIzMa53"
     },
     {
       "added_at": "2026-01-24 00:41:13",
@@ -1635,22 +1655,22 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
-        "name": "Terco Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3RdbWyTpvb5RH22RXcEqo8"
+        "name": "Niveleando Cuh II",
+        "url": "https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07"
       },
       "artists": [
         {
-          "name": "Coraz\u00f3n Serrano",
-          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
         },
         {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+          "name": "emmanuellcortess_",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
         }
       ],
-      "duration_ms": 167359,
-      "name": "Terco Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5ATLHoLB01iMuBBVIzMa53"
+      "duration_ms": 223125,
+      "name": "La Indicada",
+      "url": "https://open.spotify.com/track/6QwKiUDzzbQNu8ZBCv1T85"
     },
     {
       "added_at": "2026-01-24 00:41:13",
@@ -1671,26 +1691,6 @@
       "duration_ms": 182323,
       "name": "\u00bfQu\u00e9 Te Parece?",
       "url": "https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG"
-    },
-    {
-      "added_at": "2026-01-24 00:41:13",
-      "album": {
-        "name": "Niveleando Cuh II",
-        "url": "https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07"
-      },
-      "artists": [
-        {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        },
-        {
-          "name": "emmanuellcortess_",
-          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
-        }
-      ],
-      "duration_ms": 223125,
-      "name": "La Indicada",
-      "url": "https://open.spotify.com/track/6QwKiUDzzbQNu8ZBCv1T85"
     },
     {
       "added_at": "2026-01-24 00:41:13",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
-        "name": "JUGANDO A QUE NO PASA NADA",
-        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 214735,
-      "name": "LOS DOS",
-      "url": "https://open.spotify.com/track/4vT124ymmEAfre47gVCcRI"
-    },
-    {
-      "added_at": "2026-01-24 00:41:13",
-      "album": {
         "name": "Matame De A Poquito",
         "url": "https://open.spotify.com/album/3hhmrguTHDtmMhnM9HcTwV"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 229225,
       "name": "Matame De A Poquito",
       "url": "https://open.spotify.com/track/3Gmjg057K7kXdvfIZeppRU"
+    },
+    {
+      "added_at": "2026-01-24 00:41:13",
+      "album": {
+        "name": "JUGANDO A QUE NO PASA NADA",
+        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 214735,
+      "name": "LOS DOS",
+      "url": "https://open.spotify.com/track/4vT124ymmEAfre47gVCcRI"
     },
     {
       "added_at": "2026-01-24 00:41:13",
@@ -1851,18 +1851,22 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
-        "name": "AMOR PROPIO",
-        "url": "https://open.spotify.com/album/7z3Yk4R2PWF0jkQp4ZKX4y"
+        "name": "Me Prometi (Cumbia Version)",
+        "url": "https://open.spotify.com/album/55j6dKcv00zwJG9C2MHHYf"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Agushto Papa",
+          "url": "https://open.spotify.com/artist/1v04yGSzSyXhmxR1SD5hfS"
+        },
+        {
+          "name": "Alta Ralea",
+          "url": "https://open.spotify.com/artist/68r0QxQOG94MKuRbvoya3N"
         }
       ],
-      "duration_ms": 172485,
-      "name": "AMOR PROPIO",
-      "url": "https://open.spotify.com/track/01cN1DKc5HH7F9MOBBjSip"
+      "duration_ms": 207272,
+      "name": "Me Prometi (Cumbia Version)",
+      "url": "https://open.spotify.com/track/5pd2DbnrGEdKSfazK1YXAq"
     }
   ],
   "unique_name": "Super Cumbias",

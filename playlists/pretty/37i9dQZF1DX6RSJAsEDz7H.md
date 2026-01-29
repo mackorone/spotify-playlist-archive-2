@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 
 > Listen to all the iconic tracks from GTA, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,895 likes - 144 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,965 likes - 144 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 | 61 | [Dominicana](https://open.spotify.com/track/372SsSoyYYRptlgurA8PEL) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [De Chamaquito Siempre Cabezu](https://open.spotify.com/album/4XKCDArETTHoRY0lUGzSRV) | 2:25 |
 | 62 | [Get Innocuous!](https://open.spotify.com/track/0Ct2XTT4UBt9Y196i0Ido2) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 7:11 |
 | 63 | [Fallin Up \(with Thurz & Cocoa Sarai\)](https://open.spotify.com/track/3q5dginMcEftGNTopyd14e) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Thurz](https://open.spotify.com/artist/7bWmyvqnoAdWHLBvGprwsz), [Cocoa Sarai](https://open.spotify.com/artist/5Rh6PMrlYoyU5xhR36YAfX) | [Fallin Up \(with Thurz & Cocoa Sarai\)](https://open.spotify.com/album/7mdHDfLoGqaFmUtB3NQHwM) | 3:23 |
-| 64 | [Duro 2005](https://open.spotify.com/track/0pgS3J6Vyt1VKrUI0MUeNG) | [La Goony Chonga](https://open.spotify.com/artist/4ZNk4pFFvI85sdgjkFPBjI) | [Dimen5ión](https://open.spotify.com/album/0KhUcxGeOjOsGCodu9IaHj) | 2:21 |
+| 64 | [Duro 2005](https://open.spotify.com/track/0pgS3J6Vyt1VKrUI0MUeNG) | [La Goony](https://open.spotify.com/artist/4ZNk4pFFvI85sdgjkFPBjI) | [Dimen5ión](https://open.spotify.com/album/0KhUcxGeOjOsGCodu9IaHj) | 2:21 |
 | 65 | [Sparky](https://open.spotify.com/track/19FcrKMpCp4bZOxcPkTMsZ) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 2:24 |
 | 66 | [Machote](https://open.spotify.com/track/2TqYC6Gn7vDhL8f2wWCYTB) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:57 |
 | 67 | [The Scenic Route \(with Rick Ross & Anderson .Paak\)](https://open.spotify.com/track/4cEmMB907Xi22vV9RIOSQE) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [The Scenic Route \(with Rick Ross & Anderson .Paak\)](https://open.spotify.com/album/4vTOIv2RIvTy8HzyoZCzss) | 3:02 |

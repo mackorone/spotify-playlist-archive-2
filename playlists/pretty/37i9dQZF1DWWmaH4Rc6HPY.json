@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Playa Limbo en portada.",
-  "num_followers": 37500,
+  "num_followers": 37514,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-01-09 06:00:15",
       "album": {
-        "name": "los 41",
-        "url": "https://open.spotify.com/album/0ZUc3UHaSIvBKfT8PZ6NfQ"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 206408,
-      "name": "los 41",
-      "url": "https://open.spotify.com/track/63o7SbqFj3ltG4hb1AQzN0"
-    },
-    {
-      "added_at": "2026-01-09 06:00:15",
-      "album": {
         "name": "odio a primera vista",
         "url": "https://open.spotify.com/album/0SUOvTZTNdnEES1VpEW7Vu"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 186996,
       "name": "odio a primera vista",
       "url": "https://open.spotify.com/track/4O7u2mKN9ovYtk3ejaJ87O"
+    },
+    {
+      "added_at": "2026-01-09 06:00:15",
+      "album": {
+        "name": "los 41",
+        "url": "https://open.spotify.com/album/0ZUc3UHaSIvBKfT8PZ6NfQ"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 206408,
+      "name": "los 41",
+      "url": "https://open.spotify.com/track/63o7SbqFj3ltG4hb1AQzN0"
     },
     {
       "added_at": "2026-01-09 06:00:15",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-01-09 06:00:15",
       "album": {
+        "name": "Pensamientos Intrusivos",
+        "url": "https://open.spotify.com/album/7hgxTp99yKwlzXDZgV6O8I"
+      },
+      "artists": [
+        {
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+        }
+      ],
+      "duration_ms": 163239,
+      "name": "Pensamientos Intrusivos",
+      "url": "https://open.spotify.com/track/17KcNyZQ0tLSloefQFKskl"
+    },
+    {
+      "added_at": "2026-01-09 06:00:15",
+      "album": {
         "name": "Lo bien que suenas",
         "url": "https://open.spotify.com/album/4fqJ4Bvyb6Xawoj3z8NvFy"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 210107,
       "name": "Lo bien que suenas",
       "url": "https://open.spotify.com/track/22midBO4e4rfuu1AVRDXQ2"
-    },
-    {
-      "added_at": "2026-01-09 06:00:15",
-      "album": {
-        "name": "Pensamientos Intrusivos",
-        "url": "https://open.spotify.com/album/7hgxTp99yKwlzXDZgV6O8I"
-      },
-      "artists": [
-        {
-          "name": "Alan Sutton y las criaturitas de la ansiedad",
-          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
-        }
-      ],
-      "duration_ms": 163239,
-      "name": "Pensamientos Intrusivos",
-      "url": "https://open.spotify.com/track/17KcNyZQ0tLSloefQFKskl"
     },
     {
       "added_at": "2026-01-09 06:00:15",

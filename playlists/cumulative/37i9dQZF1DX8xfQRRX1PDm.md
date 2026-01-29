@@ -2,7 +2,7 @@
 
 ### [Bollywood Dance Music](https://open.spotify.com/playlist/37i9dQZF1DX8xfQRRX1PDm)
 
-> Party\-ready, the biggest Bollywood dance tracks\. Cover \- Stree 2
+> Party\-ready, the biggest Bollywood dance tracks\. Cover \- Tu Jhoothi Main Makkar
 
 279 songs - 16 hr 16 min
 

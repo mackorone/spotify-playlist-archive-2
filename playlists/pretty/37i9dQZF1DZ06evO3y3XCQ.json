@@ -1,12 +1,12 @@
 {
   "description": "This is Thursday. The essential tracks, all in one playlist.",
-  "num_followers": 5286,
+  "num_followers": 5284,
   "original_name": "This Is Thursday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXaugAAAAAD3OMIuZsGJqqI62yexxmoM",
+  "snapshot_id": "aXgAAAAAAAAnVzIgwsVJOMdU5GV8D8NO",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Taking Inventory Of A Frozen Lake",
-        "url": "https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 257084,
-      "name": "Taking Inventory Of A Frozen Lake",
-      "url": "https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A City By The Light Divided",
         "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 318226,
       "name": "The Lovesong Writer",
       "url": "https://open.spotify.com/track/4P43WSRtAwXXEjGGPZoEVb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Taking Inventory Of A Frozen Lake",
+        "url": "https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 257084,
+      "name": "Taking Inventory Of A Frozen Lake",
+      "url": "https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 211960,
-      "name": "This Side of Brightness",
-      "url": "https://open.spotify.com/track/5gOlzxxl94eXariShwCikl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A City By The Light Divided",
         "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 310360,
       "name": "Sugar In The Sacrament",
       "url": "https://open.spotify.com/track/0sWGnySFvSRZPr5Swr6nLx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 211960,
+      "name": "This Side of Brightness",
+      "url": "https://open.spotify.com/track/5gOlzxxl94eXariShwCikl"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A City By The Light Divided",
+        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "At This Velocity",
+      "url": "https://open.spotify.com/track/3H9eREtPUuMFijG1ryHqQ6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Violent Waves",
         "url": "https://open.spotify.com/album/3qSgoDBBG1UsZU4xJqieBd"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 283746,
       "name": "The Lottery",
       "url": "https://open.spotify.com/track/38832SeThFAmmFWKaMv6xz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A City By The Light Divided",
-        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 176133,
-      "name": "At This Velocity",
-      "url": "https://open.spotify.com/track/3H9eREtPUuMFijG1ryHqQ6"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kill The House Lights",
-        "url": "https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 252213,
-      "name": "Ladies And Gentlemen: My Brother, The Failure",
-      "url": "https://open.spotify.com/track/2cnaAWNXkZnCaRN6OZWaBS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Common Existence (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 279160,
       "name": "Love Has Led Us Astray",
       "url": "https://open.spotify.com/track/5jA3QscamkgTWvlw44eIo4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kill The House Lights",
+        "url": "https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 252213,
+      "name": "Ladies And Gentlemen: My Brother, The Failure",
+      "url": "https://open.spotify.com/track/2cnaAWNXkZnCaRN6OZWaBS"
     },
     {
       "added_at": null,

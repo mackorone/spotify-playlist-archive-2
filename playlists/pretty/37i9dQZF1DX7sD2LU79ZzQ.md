@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Aurelia Syaharani
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,010 likes - 120 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,008 likes - 120 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 107 | [Mau Jadi Apa?](https://open.spotify.com/track/20Vgi9sX3rOnoUFGaPLQXX) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Mau Jadi Apa?](https://open.spotify.com/album/4J0OIjbX95tZ97392u8OeI) | 3:49 |
 | 108 | [Langitku Sendiri](https://open.spotify.com/track/5ZOD0ABSES4COP7WNVXKIT) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Lune](https://open.spotify.com/album/4FZP8ilZixYhGiF17JQaz9) | 4:29 |
 | 109 | [Teruntuk Dirimu](https://open.spotify.com/track/7bI01b0ysHcQOeMZ3u6cl4) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Teruntuk Dirimu](https://open.spotify.com/album/0OYS4La7wPJayqBmrZfSLr) | 4:09 |
-| 110 | [Untungnya, Hidup Harus Tetap Berjalan \- Babak Penutup: Untungnya, untungnya \- Live](https://open.spotify.com/track/1zkyWDokMlZnyNANahOEIk) | [Bernadya Ribka](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Babak Penutup: Untungnya, Untungnya \(Live\)](https://open.spotify.com/album/3iDSNry5Y7yIuFGNqsdEod) | 3:41 |
+| 110 | [Untungnya, Hidup Harus Tetap Berjalan \- Babak Penutup: Untungnya, untungnya \- Live](https://open.spotify.com/track/1zkyWDokMlZnyNANahOEIk) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Babak Penutup: Untungnya, Untungnya \(Live\)](https://open.spotify.com/album/3iDSNry5Y7yIuFGNqsdEod) | 3:41 |
 | 111 | [Sejauh Ku Memandang](https://open.spotify.com/track/4J3QjfH88Fyibyxc84E4q2) | [BIANCADIMAS](https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M), [The Nelwans](https://open.spotify.com/artist/60gqUqlmf0F0QK2ly43yog) | [Sejauh Ku Memandang](https://open.spotify.com/album/5M1SMBrWvPGAeDoShvuul4) | 3:23 |
 | 112 | [Senin Sampai Jumat](https://open.spotify.com/track/1GQqxuKK7c0Sa4wtlTtgTV) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Hari Ini, Esok & Selamanya](https://open.spotify.com/album/51KxSLuGPuEtWNcAVgpSkZ) | 4:10 |
 | 113 | [Cinta Seperti Aku](https://open.spotify.com/track/2OXQiECV3f0i6lM8uxWowG) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Edelweiss](https://open.spotify.com/album/1Uv9PoMo7VYvyLKVmmFG4u) | 4:08 |

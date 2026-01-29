@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,182 likes - 99 songs - 4 hr 57 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,182 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,5 +107,6 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 97 | [Happy New Year \(feat\. Love Harder\) \- Takis Remix](https://open.spotify.com/track/4WASHXk0rOyvyJwRXLRxDH) | [ricky retro](https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8), [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb), [Takis](https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4) | [Happy New Year \(feat\. Love Harder\) \[Takis Remix\]](https://open.spotify.com/album/6Nwo5ElKMCkMwhoeDVrNYZ) | 3:05 |
 | 98 | [Falling Forever](https://open.spotify.com/track/3BHkirzjmCsPVi1b6HTTBH) | [Ammara](https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I) | [Falling Forever](https://open.spotify.com/album/7c78ZXT2DkAeYmvsurQl9u) | 2:38 |
 | 99 | [Ménage À Trois](https://open.spotify.com/track/2H9SdFmXgiHM5MhwLOuBm3) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [Ménage À Trois](https://open.spotify.com/album/6tdzoV8uezHAmeNXoEIWrl) | 2:55 |
+| 100 | [Walk Away](https://open.spotify.com/track/54yX67G3dYvtINgHaSEoUo) | [Ricci G](https://open.spotify.com/artist/5E1YmDNAWIuRCeg7bdHsmM), [N.Jay](https://open.spotify.com/artist/1FRH4fWTg3BQiGTGYNuh70), [Robyn Hart](https://open.spotify.com/artist/1ADlZG9TPoiHrlgYCorU3a) | [Walk Away](https://open.spotify.com/album/322xrrzEO35ws2ys1KaiRR) | 2:27 |
 
-Snapshot ID: `AAALCOWo3n9zufS4yoLM+MamWc3a/ay0`
+Snapshot ID: `AAALCR1OcyvnHEMlepg7YQpNdfUqb9Jp`

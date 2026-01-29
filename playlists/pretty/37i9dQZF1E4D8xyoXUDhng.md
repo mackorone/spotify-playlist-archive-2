@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Mikael Karlsson, Sunday Service Choir, Samoht and more
+> With Amber Bullock, Daryl Coley, Mikael Karlsson and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 268 likes - 49 songs - 4 hr 34 min
 

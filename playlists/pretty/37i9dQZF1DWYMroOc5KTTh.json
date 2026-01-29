@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 731086,
+  "num_followers": 731142,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-01-23 00:00:42",
       "album": {
-        "name": "That's a Vibe",
-        "url": "https://open.spotify.com/album/3nCJ7MLW17oUep7ZvW3ugz"
-      },
-      "artists": [
-        {
-          "name": "Ossie",
-          "url": "https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G"
-        }
-      ],
-      "duration_ms": 272681,
-      "name": "Are U Still Smiling?",
-      "url": "https://open.spotify.com/track/7bPo4vIzlcxpWadcsj7MHR"
-    },
-    {
-      "added_at": "2026-01-23 00:00:42",
-      "album": {
         "name": "Feel You",
         "url": "https://open.spotify.com/album/3uBHz77NGhAuxozj6CUIzL"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 178066,
       "name": "Feel You",
       "url": "https://open.spotify.com/track/0AkQIzDWxywsrtnY6f0oYB"
+    },
+    {
+      "added_at": "2026-01-23 00:00:42",
+      "album": {
+        "name": "That's a Vibe",
+        "url": "https://open.spotify.com/album/3nCJ7MLW17oUep7ZvW3ugz"
+      },
+      "artists": [
+        {
+          "name": "Ossie",
+          "url": "https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G"
+        }
+      ],
+      "duration_ms": 272681,
+      "name": "Are U Still Smiling?",
+      "url": "https://open.spotify.com/track/7bPo4vIzlcxpWadcsj7MHR"
     },
     {
       "added_at": "2026-01-23 00:00:42",
@@ -927,18 +927,18 @@
     {
       "added_at": "2026-01-23 00:00:42",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/5UML5yybgZrFpHIMD3w7zY"
+        "name": "TANZPARTEI II (Mixtape)",
+        "url": "https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR"
       },
       "artists": [
         {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
         }
       ],
-      "duration_ms": 222745,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0P4m0R5msH9E5I2CfQx7Dg"
+      "duration_ms": 151599,
+      "name": "Friday (Alone Right Now)",
+      "url": "https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby"
     }
   ],
   "unique_name": "Serotonin",

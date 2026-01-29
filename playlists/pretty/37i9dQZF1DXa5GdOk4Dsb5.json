@@ -1,6 +1,6 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella. Jessi Uribe en portada.",
-  "num_followers": 161904,
+  "num_followers": 161971,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "Borracha (Remix)",
-        "url": "https://open.spotify.com/album/58V0EM9Gc1mXzIytBSi3FD"
-      },
-      "artists": [
-        {
-          "name": "Kristian Camilo",
-          "url": "https://open.spotify.com/artist/29alevf05AZMzkRCRCqxvw"
-        },
-        {
-          "name": "Peter Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
-        }
-      ],
-      "duration_ms": 215259,
-      "name": "Borracha - Remix",
-      "url": "https://open.spotify.com/track/13MwThChk4U12oCWS0EI7j"
-    },
-    {
-      "added_at": "2025-12-05 04:59:34",
-      "album": {
         "name": "2 O 3 Botellas",
         "url": "https://open.spotify.com/album/2kk1iU5HnwFoA80NZUPDe7"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 173093,
       "name": "2 O 3 Botellas",
       "url": "https://open.spotify.com/track/346bfJqsooK4mXr2SLT3t3"
+    },
+    {
+      "added_at": "2025-12-05 04:59:34",
+      "album": {
+        "name": "Borracha (Remix)",
+        "url": "https://open.spotify.com/album/58V0EM9Gc1mXzIytBSi3FD"
+      },
+      "artists": [
+        {
+          "name": "Kristian Camilo",
+          "url": "https://open.spotify.com/artist/29alevf05AZMzkRCRCqxvw"
+        },
+        {
+          "name": "Peter Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
+        }
+      ],
+      "duration_ms": 215259,
+      "name": "Borracha - Remix",
+      "url": "https://open.spotify.com/track/13MwThChk4U12oCWS0EI7j"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -1447,6 +1447,22 @@
       "duration_ms": 185722,
       "name": "Ya No Somos Ni Seremos",
       "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
+    },
+    {
+      "added_at": "2025-12-05 04:59:34",
+      "album": {
+        "name": "No Pongan Esas Canciones",
+        "url": "https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 214180,
+      "name": "Olvido Intencional",
+      "url": "https://open.spotify.com/track/2d518N5JSyohQ3JVYdcm2n"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -1595,18 +1611,18 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "Maldita Traicion",
-        "url": "https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas"
+        "name": "Adicta al Dolor",
+        "url": "https://open.spotify.com/album/4s8Cb35rdzwYijUoRpXCPL"
       },
       "artists": [
         {
-          "name": "Alzate",
-          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+          "name": "Marbelle",
+          "url": "https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg"
         }
       ],
-      "duration_ms": 187720,
-      "name": "Amor Verdadero",
-      "url": "https://open.spotify.com/track/1T9fuxX8eO5LbpYxq80faP"
+      "duration_ms": 173670,
+      "name": "Adicta al Dolor",
+      "url": "https://open.spotify.com/track/0V0350NvG0jvbiUTXPzIXU"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -1627,6 +1643,22 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
+        "name": "Maldita Traicion",
+        "url": "https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        }
+      ],
+      "duration_ms": 187720,
+      "name": "Amor Verdadero",
+      "url": "https://open.spotify.com/track/1T9fuxX8eO5LbpYxq80faP"
+    },
+    {
+      "added_at": "2025-12-05 04:59:34",
+      "album": {
         "name": "Rep\u00edtelas",
         "url": "https://open.spotify.com/album/6GMiVgtsRUVMb1ZCIxQoYi"
       },
@@ -1639,22 +1671,6 @@
       "duration_ms": 141336,
       "name": "OK",
       "url": "https://open.spotify.com/track/7uUt5Q3ToDZhMQSGiqoLmv"
-    },
-    {
-      "added_at": "2025-12-05 04:59:34",
-      "album": {
-        "name": "Adicta al Dolor",
-        "url": "https://open.spotify.com/album/4s8Cb35rdzwYijUoRpXCPL"
-      },
-      "artists": [
-        {
-          "name": "Marbelle",
-          "url": "https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg"
-        }
-      ],
-      "duration_ms": 173670,
-      "name": "Adicta al Dolor",
-      "url": "https://open.spotify.com/track/0V0350NvG0jvbiUTXPzIXU"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -1675,22 +1691,6 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "No Pongan Esas Canciones",
-        "url": "https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 214180,
-      "name": "Olvido Intencional",
-      "url": "https://open.spotify.com/track/2d518N5JSyohQ3JVYdcm2n"
-    },
-    {
-      "added_at": "2025-12-05 04:59:34",
-      "album": {
         "name": "De Pura Rabia",
         "url": "https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX"
       },
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "Rep\u00edtelas",
-        "url": "https://open.spotify.com/album/6GMiVgtsRUVMb1ZCIxQoYi"
+        "name": "Las Compuse para Ti",
+        "url": "https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv"
       },
       "artists": [
         {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
         }
       ],
-      "duration_ms": 175456,
-      "name": "Dulce Pecado",
-      "url": "https://open.spotify.com/track/1dcPvuDlIyEZSCtYXtZlMm"
+      "duration_ms": 200384,
+      "name": "Que Te Lo Crea Tu Madre",
+      "url": "https://open.spotify.com/track/1FEH4cNvTNkBO5tM4mMyag"
     }
   ],
   "unique_name": "Rancheras, Despecho & Licor",

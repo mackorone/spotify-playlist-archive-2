@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112146,
+  "num_followers": 112192,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-01-23 16:41:38",
       "album": {
+        "name": "5am",
+        "url": "https://open.spotify.com/album/4bMW89opKwxPi1j09k4ipM"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        }
+      ],
+      "duration_ms": 176493,
+      "name": "5am",
+      "url": "https://open.spotify.com/track/0MmNX3D3nEUYmbP58vhuG2"
+    },
+    {
+      "added_at": "2026-01-23 16:41:38",
+      "album": {
         "name": "Oj, dziewczyno!",
         "url": "https://open.spotify.com/album/2W9qJtY9eFjT5P2iJpbUqw"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 158268,
       "name": "Oj, dziewczyno!",
       "url": "https://open.spotify.com/track/4962ajMOnZSbhN80G0Ogk4"
-    },
-    {
-      "added_at": "2026-01-23 16:41:38",
-      "album": {
-        "name": "5am",
-        "url": "https://open.spotify.com/album/4bMW89opKwxPi1j09k4ipM"
-      },
-      "artists": [
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        }
-      ],
-      "duration_ms": 176493,
-      "name": "5am",
-      "url": "https://open.spotify.com/track/0MmNX3D3nEUYmbP58vhuG2"
     },
     {
       "added_at": "2026-01-23 16:41:38",
@@ -731,26 +731,6 @@
     {
       "added_at": "2026-01-23 16:41:38",
       "album": {
-        "name": "Naiwna ja",
-        "url": "https://open.spotify.com/album/4XxHDMDdBKMF2paNzIrAdz"
-      },
-      "artists": [
-        {
-          "name": "Wiktoria Kida",
-          "url": "https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H"
-        },
-        {
-          "name": "Ksi\u0119ga \u017bywio\u0142\u00f3w",
-          "url": "https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5"
-        }
-      ],
-      "duration_ms": 140111,
-      "name": "Naiwna ja",
-      "url": "https://open.spotify.com/track/4x9GZTzFsErAMCDBNw6C6v"
-    },
-    {
-      "added_at": "2026-01-23 16:41:38",
-      "album": {
         "name": "Dziwna (feat. Artur Rojek)",
         "url": "https://open.spotify.com/album/66lJWCfqFbOFmU0zoc1s9z"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 161724,
       "name": "Dziwna (feat. Artur Rojek)",
       "url": "https://open.spotify.com/track/4pscA7I0aNoAYs3z56EDGS"
+    },
+    {
+      "added_at": "2026-01-23 16:41:38",
+      "album": {
+        "name": "Naiwna ja",
+        "url": "https://open.spotify.com/album/4XxHDMDdBKMF2paNzIrAdz"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria Kida",
+          "url": "https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H"
+        },
+        {
+          "name": "Ksi\u0119ga \u017bywio\u0142\u00f3w",
+          "url": "https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5"
+        }
+      ],
+      "duration_ms": 140111,
+      "name": "Naiwna ja",
+      "url": "https://open.spotify.com/track/4x9GZTzFsErAMCDBNw6C6v"
     },
     {
       "added_at": "2026-01-23 16:41:38",
@@ -815,6 +815,30 @@
       "duration_ms": 157272,
       "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
       "url": "https://open.spotify.com/track/0XY68QmJAUqzRCIHS5xEEp"
+    },
+    {
+      "added_at": "2026-01-23 16:41:38",
+      "album": {
+        "name": "P\u00f3ki Mam Ciebie",
+        "url": "https://open.spotify.com/album/6Vf7UxIJeTLSFazrwu6TDy"
+      },
+      "artists": [
+        {
+          "name": "Smolasty",
+          "url": "https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP"
+        },
+        {
+          "name": "IMI",
+          "url": "https://open.spotify.com/artist/3u4cVaeeRXjComKa6guF0I"
+        },
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        }
+      ],
+      "duration_ms": 140869,
+      "name": "P\u00f3ki Mam Ciebie",
+      "url": "https://open.spotify.com/track/7I3rXFOYOXyHfimFAdOoC0"
     },
     {
       "added_at": "2026-01-23 16:41:38",
@@ -899,30 +923,6 @@
       "duration_ms": 156027,
       "name": "Po blady \u015bwit",
       "url": "https://open.spotify.com/track/66JVsDHnnrvcbDci9qLYMO"
-    },
-    {
-      "added_at": "2026-01-23 16:41:38",
-      "album": {
-        "name": "P\u00f3ki Mam Ciebie",
-        "url": "https://open.spotify.com/album/6Vf7UxIJeTLSFazrwu6TDy"
-      },
-      "artists": [
-        {
-          "name": "Smolasty",
-          "url": "https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP"
-        },
-        {
-          "name": "IMI",
-          "url": "https://open.spotify.com/artist/3u4cVaeeRXjComKa6guF0I"
-        },
-        {
-          "name": "Jonatan",
-          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
-        }
-      ],
-      "duration_ms": 140869,
-      "name": "P\u00f3ki Mam Ciebie",
-      "url": "https://open.spotify.com/track/7I3rXFOYOXyHfimFAdOoC0"
     },
     {
       "added_at": "2026-01-23 16:41:38",

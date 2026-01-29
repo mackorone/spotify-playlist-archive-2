@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXaugAAAAAAj6bWK3ef0fjo00hiOt4no",
+  "snapshot_id": "aXgAAAAAAAA6c1srvgpJvGOKR5s95q7U",
   "tracks": [
     {
       "added_at": null,
@@ -279,6 +279,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/0ezmC8VHRQijLPVBPIri2S"
+      },
+      "artists": [
+        {
+          "name": "Mike Mago",
+          "url": "https://open.spotify.com/artist/5lwT6gFdwV3Wcol07KUiJx"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 183727,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/560XM9FI9xl5H6RK8S1LqH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/6pKDEaJxcjq8mGAxWCQDyW"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 234000,
       "name": "So Good",
       "url": "https://open.spotify.com/track/01fBZdUaSQRqVrxpKzV2dj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "On Repeat",
-        "url": "https://open.spotify.com/album/0ezmC8VHRQijLPVBPIri2S"
-      },
-      "artists": [
-        {
-          "name": "Mike Mago",
-          "url": "https://open.spotify.com/artist/5lwT6gFdwV3Wcol07KUiJx"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 183727,
-      "name": "On Repeat",
-      "url": "https://open.spotify.com/track/560XM9FI9xl5H6RK8S1LqH"
     },
     {
       "added_at": null,
@@ -387,6 +387,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ocean (feat. Kelli-Leigh)",
+        "url": "https://open.spotify.com/album/0pWRQ46YOE7lVnrNMfJBAl"
+      },
+      "artists": [
+        {
+          "name": "Josh Hunter",
+          "url": "https://open.spotify.com/artist/3DWpDqNBdUvlSfzRk27N4z"
+        },
+        {
+          "name": "Salena Mastroianni",
+          "url": "https://open.spotify.com/artist/0X9HZbVBzUgugjKVgrYk6W"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 168304,
+      "name": "Ocean (feat. Kelli-Leigh)",
+      "url": "https://open.spotify.com/track/1QdBC10lbePtRz9dsAmWww"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heaven Wasn't There",
         "url": "https://open.spotify.com/album/7IavNKdCXFijhmvMFjH7DD"
       },
@@ -431,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LEGACY",
+        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 230399,
+      "name": "Love Myself",
+      "url": "https://open.spotify.com/track/0twklpVNU409abDKbvrA01"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wide Awake (Deluxe)",
         "url": "https://open.spotify.com/album/1rlw3RxmnxQEx8g0uk1tG1"
       },
@@ -451,22 +491,6 @@
       "duration_ms": 205182,
       "name": "Selfish (feat. Kelli-Leigh & YOU)",
       "url": "https://open.spotify.com/track/0sbfgeGucib89oZVphmISx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEGACY",
-        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 230399,
-      "name": "Love Myself",
-      "url": "https://open.spotify.com/track/0twklpVNU409abDKbvrA01"
     },
     {
       "added_at": null,
@@ -495,6 +519,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "More Beats More Love",
+        "url": "https://open.spotify.com/album/4I8ULjCKAz1rJ5bIN0aNLx"
+      },
+      "artists": [
+        {
+          "name": "Albert Marzinotto",
+          "url": "https://open.spotify.com/artist/4iDJLpx26HmAKc4vZZ9nbl"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 169872,
+      "name": "More Beats More Love - Edit",
+      "url": "https://open.spotify.com/track/3loAybIAHb3h24GlULXnTV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "On Top Of Mine (feat. Kelli-Leigh)",
         "url": "https://open.spotify.com/album/2mNHYkd1vO5w9sbAvHRDWE"
       },
@@ -515,22 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Beats More Love",
-        "url": "https://open.spotify.com/album/4I8ULjCKAz1rJ5bIN0aNLx"
+        "name": "Broken Heart",
+        "url": "https://open.spotify.com/album/7esZ6OgvsUTkfK9FdqxMJr"
       },
       "artists": [
-        {
-          "name": "Albert Marzinotto",
-          "url": "https://open.spotify.com/artist/4iDJLpx26HmAKc4vZZ9nbl"
-        },
         {
           "name": "Kelli-Leigh",
           "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
         }
       ],
-      "duration_ms": 169872,
-      "name": "More Beats More Love - Edit",
-      "url": "https://open.spotify.com/track/3loAybIAHb3h24GlULXnTV"
+      "duration_ms": 178560,
+      "name": "Broken Heart",
+      "url": "https://open.spotify.com/track/0KFIU9kix5muSmZZ92neg5"
     },
     {
       "added_at": null,
@@ -555,22 +595,6 @@
       "duration_ms": 172250,
       "name": "The Remedy - Radio Edit",
       "url": "https://open.spotify.com/track/5jzPyxRmXJS0OUomBjFkmO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Broken Heart",
-        "url": "https://open.spotify.com/album/7esZ6OgvsUTkfK9FdqxMJr"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "Broken Heart",
-      "url": "https://open.spotify.com/track/0KFIU9kix5muSmZZ92neg5"
     },
     {
       "added_at": null,
@@ -619,30 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ocean (feat. Kelli-Leigh)",
-        "url": "https://open.spotify.com/album/0pWRQ46YOE7lVnrNMfJBAl"
-      },
-      "artists": [
-        {
-          "name": "Josh Hunter",
-          "url": "https://open.spotify.com/artist/3DWpDqNBdUvlSfzRk27N4z"
-        },
-        {
-          "name": "Salena Mastroianni",
-          "url": "https://open.spotify.com/artist/0X9HZbVBzUgugjKVgrYk6W"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 168304,
-      "name": "Ocean (feat. Kelli-Leigh)",
-      "url": "https://open.spotify.com/track/1QdBC10lbePtRz9dsAmWww"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chemical Love",
         "url": "https://open.spotify.com/album/2TWaXEDl6ufnS9Qq0xK6Lx"
       },
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEGACY",
-        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
+        "name": "Unconditional",
+        "url": "https://open.spotify.com/album/7nRrREFeaUpxuDmClni2Mu"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
         }
       ],
-      "duration_ms": 183360,
+      "duration_ms": 184838,
       "name": "Unconditional",
-      "url": "https://open.spotify.com/track/1lzcX94a7KQAHpNotjgrf6"
+      "url": "https://open.spotify.com/track/1926sS8UyXlm06zVDA3drx"
     },
     {
       "added_at": null,
@@ -847,30 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Good",
-        "url": "https://open.spotify.com/album/7lVHFuNL5szMyi7zwQXj2z"
-      },
-      "artists": [
-        {
-          "name": "The Him",
-          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
-        },
-        {
-          "name": "Deep Chills",
-          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "This Good",
-      "url": "https://open.spotify.com/track/2coZ4IvrbUSno1VBFwOx2o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do It Well",
         "url": "https://open.spotify.com/album/1tkxGYohcjOWCuEhb2bu93"
       },
@@ -891,6 +867,30 @@
       "duration_ms": 176129,
       "name": "Do It Well",
       "url": "https://open.spotify.com/track/175poGBwYwPIskib3tE2vx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Good",
+        "url": "https://open.spotify.com/album/7lVHFuNL5szMyi7zwQXj2z"
+      },
+      "artists": [
+        {
+          "name": "The Him",
+          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
+        },
+        {
+          "name": "Deep Chills",
+          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "This Good",
+      "url": "https://open.spotify.com/track/2coZ4IvrbUSno1VBFwOx2o"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-706 songs - 2 day 11 hr 12 min
+707 songs - 2 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Arise](https://open.spotify.com/track/5cxdZHcURCcJWwYnV0rNxk) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Glory](https://open.spotify.com/album/5tACiCnhsiZv8pM2nFZlck) | 4:57 | 2025-02-21 | 2025-06-27 |
 | [As we look](https://open.spotify.com/track/3g2GzaINUedLa9alWfMT2M) | [Anthony Kani](https://open.spotify.com/artist/7q7gcqRoGAPXojRY9EFJAO) | [As we look](https://open.spotify.com/album/0dGMDH7mo6O8isPMiMrmzU) | 7:46 | 2026-01-09 |  |
 | [Atayamaliza](https://open.spotify.com/track/7nLXIEKcUuA4A4x2ciBauB) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Atayamaliza](https://open.spotify.com/album/1K6dsm4gy293nDwyXNbHUK) | 3:20 | 2025-09-12 | 2025-10-10 |
+| [Atmosphere Is Shifting \- Live](https://open.spotify.com/track/0U42klnqrGN9WIqWMmBAbL) | [Eljoe Onoja](https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Atmosphere Is Shifting \(Live\)](https://open.spotify.com/album/2OA7qYAr5ZzikxiaZgTiGt) | 10:29 | 2026-01-23 |  |
 | [ATOFARATI](https://open.spotify.com/track/5JJCORb7DGLOUpPxCcNCwi) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [ATOFARATI](https://open.spotify.com/album/2zOO5doG10OaVijVrqsgMT) | 9:05 | 2025-09-12 | 2025-10-03 |
 | [Atɛɛne \- Overturned](https://open.spotify.com/track/6QBZ7vR6VVWD9AhlJoyNNS) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Atɛɛne \(Overturned\)](https://open.spotify.com/album/5Gd51I4NMFyutpwZe0M5ju) | 4:38 | 2024-10-18 | 2025-05-30 |
 | [Awudeli Kimi \- Live At The Octagon / 2024](https://open.spotify.com/track/16SHtnLYIh8YXJE6d8BN30) | [Musa Yende](https://open.spotify.com/artist/04lvbGgTkiM8PjDktWQehd) | [Sustained By Grace](https://open.spotify.com/album/5RWsRd2bGY4sjXWC25emKV) | 8:46 | 2025-05-16 | 2025-06-27 |
@@ -498,7 +499,7 @@
 | [One Name \(Jesus\) \- Live](https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [One Name \(Jesus\) \[Live\]](https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK) | 9:19 | 2023-09-15 | 2024-03-16 |
 | [ONLY JESUS CAN SAVE](https://open.spotify.com/track/3A36Oa4VIZMyoQhRl4hG9F) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Dolapo Lawal](https://open.spotify.com/artist/3q4KhtQjtB8DQg0n2eGUMC) | [ONLY JESUS CAN SAVE](https://open.spotify.com/album/30Q2T9OJqsHQDV7naanEPJ) | 4:06 | 2025-12-05 |  |
 | [Only True God](https://open.spotify.com/track/69WFEelgESt4kp7i4vztT4) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Only True God](https://open.spotify.com/album/00AEVFFGn8eBq6V0dbhNFK) | 4:48 | 2025-06-27 | 2025-08-27 |
-| [Only You](https://open.spotify.com/track/3eKKye2VqbHzLcV6TL4vlD) | [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [Only You](https://open.spotify.com/album/4Y0rWF0O7sQuXHyfVYMkUy) | 3:53 | 2025-08-08 |  |
+| [Only You](https://open.spotify.com/track/3eKKye2VqbHzLcV6TL4vlD) | [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [Only You](https://open.spotify.com/album/4Y0rWF0O7sQuXHyfVYMkUy) | 3:53 | 2025-08-08 | 2026-01-29 |
 | [Only You](https://open.spotify.com/track/2PT3ESq3qvlwT2r7JPIG3b) | [Hills Music](https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE), [Kinsu](https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh) | [Only You](https://open.spotify.com/album/3bChpC9nlS2fsxYJ6mmjh7) | 2:26 | 2023-12-01 | 2023-12-20 |
 | [Only You](https://open.spotify.com/track/5lADkecaaJM5qXqkHttL5e) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [Only You](https://open.spotify.com/album/0tKAmb7p8E4hG1djPYb3aC) | 2:39 | 2025-08-01 | 2025-08-26 |
 | [Only You \(Live\)](https://open.spotify.com/track/6PQ6xxWWDUJJeD6sIZWetL) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [Only You \(Live\)](https://open.spotify.com/album/2Z0pI31oUNhphHR8wAXP88) | 5:13 | 2025-06-20 | 2025-09-02 |

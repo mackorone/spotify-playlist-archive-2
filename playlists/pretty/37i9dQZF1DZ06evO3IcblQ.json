@@ -1,12 +1,12 @@
 {
   "description": "This is Pennywise. The essential tracks, all in one playlist.",
-  "num_followers": 35777,
+  "num_followers": 35783,
   "original_name": "This Is Pennywise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXaugAAAAABN2y4M2JXOG2jADm3O2rtm",
+  "snapshot_id": "aXgAAAAAAACln84yHlGafHsvdRzE2/0v",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Or Nothing (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 224066,
-      "name": "Let Us Hear Your Voice",
-      "url": "https://open.spotify.com/track/39dDu1iyYkjm5Dpag16Ywe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "About Time (2005 Remaster)",
         "url": "https://open.spotify.com/album/2MyjkvQLos52FxpyHJZsfE"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 171906,
       "name": "Peaceful Day - 2005 Remaster",
       "url": "https://open.spotify.com/track/6n7NLrONaFUBHXKQZfYdxH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Or Nothing (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 224066,
+      "name": "Let Us Hear Your Voice",
+      "url": "https://open.spotify.com/track/39dDu1iyYkjm5Dpag16Ywe"
     },
     {
       "added_at": null,
@@ -91,34 +91,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Gonna Die",
-        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
+        "name": "NINE LIVES",
+        "url": "https://open.spotify.com/album/4UEpTKPsOwn4OVroUZa7Sq"
       },
       "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        },
         {
           "name": "Pennywise",
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 157653,
-      "name": "Live While You Can",
-      "url": "https://open.spotify.com/track/4YdSK6GVALPUDNij64lZ9F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Or Nothing (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 205640,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/2DDDzxzFpgTQx4AEKRO3zz"
+      "duration_ms": 172573,
+      "name": "LAST ONE STANDING (feat. Jim from Pennywise)",
+      "url": "https://open.spotify.com/track/3F9z5GtlvMuaAtiwLeTfB0"
     },
     {
       "added_at": null,
@@ -139,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Or Nothing (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 205640,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/2DDDzxzFpgTQx4AEKRO3zz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Full Circle (2005 Remaster)",
         "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
       },
@@ -155,22 +159,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "NINE LIVES",
-        "url": "https://open.spotify.com/album/4UEpTKPsOwn4OVroUZa7Sq"
+        "name": "Never Gonna Die",
+        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
       },
       "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        },
         {
           "name": "Pennywise",
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 172573,
-      "name": "LAST ONE STANDING (feat. Jim from Pennywise)",
-      "url": "https://open.spotify.com/track/3F9z5GtlvMuaAtiwLeTfB0"
+      "duration_ms": 157653,
+      "name": "Live While You Can",
+      "url": "https://open.spotify.com/track/4YdSK6GVALPUDNij64lZ9F"
     },
     {
       "added_at": null,
@@ -487,38 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Land Of The Free?",
-        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 177093,
-      "name": "Time Marches On",
-      "url": "https://open.spotify.com/track/7I44d8wbsWdByMs5fxymfQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Full Circle (2005 Remaster)",
-        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 176213,
-      "name": "Get A Life - 2005 Remaster",
-      "url": "https://open.spotify.com/track/120GSrWDt7efZA4SU3ZM2u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ace of Spades",
         "url": "https://open.spotify.com/album/3xyncfiFgU49RupI5wfvP3"
       },
@@ -539,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Full Circle (2005 Remaster)",
+        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 176213,
+      "name": "Get A Life - 2005 Remaster",
+      "url": "https://open.spotify.com/track/120GSrWDt7efZA4SU3ZM2u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pennywise (2005 Remaster)",
         "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 97840,
       "name": "Pennywise - 2005 Remaster",
       "url": "https://open.spotify.com/track/1WaEl2RKIUq7gxakfucrch"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Land Of The Free?",
+        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 177093,
+      "name": "Time Marches On",
+      "url": "https://open.spotify.com/track/7I44d8wbsWdByMs5fxymfQ"
     },
     {
       "added_at": null,

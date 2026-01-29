@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Magda
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,111 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,103 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 16 | [Landline](https://open.spotify.com/track/6ZYd325kD9ACM0gUyZnbvL) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Landline](https://open.spotify.com/album/1aQLV1BGKv2ON3PhvKNnCR) | 3:04 |
 | 17 | [GIB MIR DEIN GELD!](https://open.spotify.com/track/0cZUxTmBCPaZqBKHuLRt6H) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [GIB MIR DEIN GELD!](https://open.spotify.com/album/0NNkfONWAf5tgZmCQjIp2L) | 3:56 |
 | 18 | [Wandrisse](https://open.spotify.com/track/7pvXZdRcfJNzaisEFjbJpc) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Zeig mir](https://open.spotify.com/album/72M0XQIcyxHDcprr5C5hFY) | 2:42 |
-| 19 | [f0dseunsere](https://open.spotify.com/track/09YySos6qoKAEwVuYMgamR) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [f0dseunsere](https://open.spotify.com/album/4mi4LKanmSIVmqyqX4U5PR) | 2:40 |
-| 20 | [don't ya](https://open.spotify.com/track/0xF7Poiz6FVYVLdU8j4mU3) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [don't ya](https://open.spotify.com/album/55rPgmkVQ3wxy3h85O8Cwi) | 2:15 |
+| 19 | [don't ya](https://open.spotify.com/track/0xF7Poiz6FVYVLdU8j4mU3) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [don't ya](https://open.spotify.com/album/55rPgmkVQ3wxy3h85O8Cwi) | 2:15 |
+| 20 | [f0dseunsere](https://open.spotify.com/track/09YySos6qoKAEwVuYMgamR) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [f0dseunsere](https://open.spotify.com/album/4mi4LKanmSIVmqyqX4U5PR) | 2:40 |
 | 21 | [fanta lustig](https://open.spotify.com/track/10Am9fOPp2hmUSvLiVEjGE) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [fanta lustig ep](https://open.spotify.com/album/5as40bmi1SzrUCogUEfCnm) | 2:45 |
 | 22 | [Ciao Bella](https://open.spotify.com/track/3YuS6dimQP3vEYaaDPMZCT) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Ciao Bella](https://open.spotify.com/album/2MzLZLVOPd3SoGuqGAEMwT) | 2:43 |
 | 23 | [Let Myself Go](https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Dawn](https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT) | 3:19 |

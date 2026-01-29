@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 306960,
       "name": "15-16",
       "url": "https://open.spotify.com/track/7dVetEqZUc0SGm5G9m2c1V"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 180869,
       "name": "Autodreamographical Tales (Arr. G. Riley for Chamber Ensemble): V. Zucchini",
       "url": "https://open.spotify.com/track/3PcQwd7F7xt4Uyvvks4C8W"
@@ -664,9 +664,31 @@
           "url": "https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ"
         }
       ],
-      "date_added": "2025-09-05",
+      "date_added": "2026-01-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 696007,
+      "name": "Autodreamographical Tales (Arr. T. Riley for Chamber Ensemble): IX. Cannabis",
+      "url": "https://open.spotify.com/track/1lY6RTlTZU4ZahbREsreS6"
+    },
+    {
+      "album": {
+        "name": "Terry Riley: Autodreamographical Tales",
+        "url": "https://open.spotify.com/album/3kNIzsxpZZfrNy9eeIXIkp"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Bang On A Can All-Stars",
+          "url": "https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2026-01-29",
       "duration_ms": 510912,
       "name": "Autodreamographical Tales (Arr. T. Riley for Chamber Ensemble): VIII. The War on the Poor",
       "url": "https://open.spotify.com/track/00VzUszboxrIvc8Gddsu0H"
@@ -840,7 +862,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 559066,
       "name": "Blue Sunset Raga",
       "url": "https://open.spotify.com/track/05TZDn7GKEsYjF7IrpbTd3"
@@ -1872,7 +1894,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 104000,
       "name": "Hymns from a Great Temple: Hymn No. 3, \"Hymn of the Cherubim\"",
       "url": "https://open.spotify.com/track/45G3yCpdT7oaChqXr8avFp"
@@ -1996,7 +2018,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-28",
+      "date_removed": null,
       "duration_ms": 513066,
       "name": "Island Of Never Anger",
       "url": "https://open.spotify.com/track/0l6GmdBZ9gZbMAKF979KvU"
@@ -2360,7 +2382,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 658880,
       "name": "Lion's Throne",
       "url": "https://open.spotify.com/track/7j5vLn78PSJaXritwcDgXN"
@@ -2778,7 +2800,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-23",
+      "date_removed": null,
       "duration_ms": 871586,
       "name": "Negro Hall",
       "url": "https://open.spotify.com/track/3gHjihtOVa9PxhjnZGBLSK"
@@ -2796,7 +2818,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 208573,
       "name": "Never Leave I",
       "url": "https://open.spotify.com/track/3fbrJruhyq5ph3jCNd8D1g"
@@ -3232,7 +3254,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 273746,
       "name": "Quijote",
       "url": "https://open.spotify.com/track/52wOLvktzmhJQACPJbdoxE"
@@ -3298,7 +3320,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 364960,
       "name": "Remember This",
       "url": "https://open.spotify.com/track/21rumctdL8MYeZKpv3T2gz"
@@ -4156,7 +4178,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 256946,
       "name": "The Lake",
       "url": "https://open.spotify.com/track/38j4jPiHj0NGF5Jqsqqu8w"
@@ -4490,7 +4512,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-25",
+      "date_removed": null,
       "duration_ms": 154746,
       "name": "Underworld Arising",
       "url": "https://open.spotify.com/track/6xQjvLDZyNjvoRzFDHeXnM"

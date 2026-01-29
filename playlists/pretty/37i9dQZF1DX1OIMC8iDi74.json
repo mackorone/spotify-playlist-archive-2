@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap \ud83d\udc51 with TroyBoi",
-  "num_followers": 882989,
+  "num_followers": 882953,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-01-23 05:00:34",
       "album": {
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/2gpllHbaGDQFUQZTo69O9j"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/3G3oGZa8nfjofmhXokFbtU"
+    },
+    {
+      "added_at": "2026-01-23 05:00:34",
+      "album": {
         "name": "ALLNIGHTER",
         "url": "https://open.spotify.com/album/4tatQg9UhiVwFbWMy8QGEp"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 168857,
       "name": "ALLNIGHTER",
       "url": "https://open.spotify.com/track/2aKPAURjIBg4SZ8U4wsVnm"
-    },
-    {
-      "added_at": "2026-01-23 05:00:34",
-      "album": {
-        "name": "Diamond",
-        "url": "https://open.spotify.com/album/2gpllHbaGDQFUQZTo69O9j"
-      },
-      "artists": [
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "Diamond",
-      "url": "https://open.spotify.com/track/3G3oGZa8nfjofmhXokFbtU"
     },
     {
       "added_at": "2026-01-23 05:00:34",
@@ -1299,6 +1299,30 @@
     {
       "added_at": "2026-01-23 05:00:34",
       "album": {
+        "name": "Blue Mile",
+        "url": "https://open.spotify.com/album/77I9ebOxX1nxDk8vlJNUH9"
+      },
+      "artists": [
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        },
+        {
+          "name": "Barclay Crenshaw",
+          "url": "https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR"
+        },
+        {
+          "name": "Strategy",
+          "url": "https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Blue Mile",
+      "url": "https://open.spotify.com/track/5EIyuLTiZwAmmlsqxdLJC0"
+    },
+    {
+      "added_at": "2026-01-23 05:00:34",
+      "album": {
         "name": "Like That (Tape B Remix)",
         "url": "https://open.spotify.com/album/6SAzbWShu217QKogZudlhp"
       },
@@ -1323,26 +1347,6 @@
     {
       "added_at": "2026-01-23 05:00:34",
       "album": {
-        "name": "VIRUS",
-        "url": "https://open.spotify.com/album/2MnQ62i9ZlUxZjJXRTifVO"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        },
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        }
-      ],
-      "duration_ms": 168311,
-      "name": "VIRUS",
-      "url": "https://open.spotify.com/track/5RVdc5KXrZp7RElvkY5eSd"
-    },
-    {
-      "added_at": "2026-01-23 05:00:34",
-      "album": {
         "name": "YA BODY",
         "url": "https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU"
       },
@@ -1359,26 +1363,22 @@
     {
       "added_at": "2026-01-23 05:00:34",
       "album": {
-        "name": "Blue Mile",
-        "url": "https://open.spotify.com/album/77I9ebOxX1nxDk8vlJNUH9"
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/2MnQ62i9ZlUxZjJXRTifVO"
       },
       "artists": [
         {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
         },
         {
-          "name": "Barclay Crenshaw",
-          "url": "https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR"
-        },
-        {
-          "name": "Strategy",
-          "url": "https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3"
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
         }
       ],
-      "duration_ms": 212571,
-      "name": "Blue Mile",
-      "url": "https://open.spotify.com/track/5EIyuLTiZwAmmlsqxdLJC0"
+      "duration_ms": 168311,
+      "name": "VIRUS",
+      "url": "https://open.spotify.com/track/5RVdc5KXrZp7RElvkY5eSd"
     },
     {
       "added_at": "2026-01-23 05:00:34",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-01-23 05:00:34",
       "album": {
-        "name": "EGO! (TAKE IT BACK)",
-        "url": "https://open.spotify.com/album/4pN2JLXN7tfiirnp2Ifl3X"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 209464,
-      "name": "EGO! (TAKE IT BACK)",
-      "url": "https://open.spotify.com/track/0f2BL1gqLqHg3SGkBf7VoY"
-    },
-    {
-      "added_at": "2026-01-23 05:00:34",
-      "album": {
         "name": "GHOST WORLD",
         "url": "https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 190285,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/7oouv30MA1XJGi0PvCosE7"
+    },
+    {
+      "added_at": "2026-01-23 05:00:34",
+      "album": {
+        "name": "EGO! (TAKE IT BACK)",
+        "url": "https://open.spotify.com/album/4pN2JLXN7tfiirnp2Ifl3X"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 209464,
+      "name": "EGO! (TAKE IT BACK)",
+      "url": "https://open.spotify.com/track/0f2BL1gqLqHg3SGkBf7VoY"
     },
     {
       "added_at": "2026-01-23 05:00:34",
@@ -1515,18 +1515,22 @@
     {
       "added_at": "2026-01-23 05:00:34",
       "album": {
-        "name": "ADRENOCHROME",
-        "url": "https://open.spotify.com/album/4H2abOEiBXEQpNibmwu4Li"
+        "name": "Lazarus Rise",
+        "url": "https://open.spotify.com/album/4klAO40K3tdFr5F2dwM4mw"
       },
       "artists": [
         {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+          "name": "Wasiu",
+          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
+        },
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
         }
       ],
-      "duration_ms": 173785,
-      "name": "HACKING THE GATE",
-      "url": "https://open.spotify.com/track/3PwruJbrJXpeDCLJ2hiid9"
+      "duration_ms": 192727,
+      "name": "Lazarus Rise",
+      "url": "https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m"
     },
     {
       "added_at": "2026-01-23 05:00:34",
@@ -1547,22 +1551,18 @@
     {
       "added_at": "2026-01-23 05:00:34",
       "album": {
-        "name": "Lazarus Rise",
-        "url": "https://open.spotify.com/album/4klAO40K3tdFr5F2dwM4mw"
+        "name": "ADRENOCHROME",
+        "url": "https://open.spotify.com/album/4H2abOEiBXEQpNibmwu4Li"
       },
       "artists": [
         {
-          "name": "Wasiu",
-          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
-        },
-        {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
         }
       ],
-      "duration_ms": 192727,
-      "name": "Lazarus Rise",
-      "url": "https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m"
+      "duration_ms": 173785,
+      "name": "HACKING THE GATE",
+      "url": "https://open.spotify.com/track/3PwruJbrJXpeDCLJ2hiid9"
     },
     {
       "added_at": "2026-01-23 05:00:34",
@@ -1595,22 +1595,6 @@
       "duration_ms": 192000,
       "name": "Snakebite",
       "url": "https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy"
-    },
-    {
-      "added_at": "2026-01-23 05:00:34",
-      "album": {
-        "name": "DOPAMINE++",
-        "url": "https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "DOPAMINE++",
-      "url": "https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw"
     },
     {
       "added_at": "2026-01-23 05:00:34",
@@ -1651,6 +1635,22 @@
     {
       "added_at": "2026-01-23 05:00:34",
       "album": {
+        "name": "DOPAMINE++",
+        "url": "https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "DOPAMINE++",
+      "url": "https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw"
+    },
+    {
+      "added_at": "2026-01-23 05:00:34",
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/2b1e9L6f4wMPmSeTJLwaZ6"
       },
@@ -1667,6 +1667,38 @@
       "duration_ms": 154225,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3dmGvZg0jo5uZb3mHQw0gL"
+    },
+    {
+      "added_at": "2026-01-23 05:00:34",
+      "album": {
+        "name": "GO BACK (We Can't)",
+        "url": "https://open.spotify.com/album/1Vomcw2K16iHH2KkkojTrZ"
+      },
+      "artists": [
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "GO BACK (We Can't)",
+      "url": "https://open.spotify.com/track/7vSTWert1uL4NeG3EvBOYY"
+    },
+    {
+      "added_at": "2026-01-23 05:00:34",
+      "album": {
+        "name": "CONTROL",
+        "url": "https://open.spotify.com/album/19gckw1W9jhm1Acg08yRa6"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "duration_ms": 145600,
+      "name": "CONTROL",
+      "url": "https://open.spotify.com/track/4ohXPckRwCzszhzjsYczfK"
     },
     {
       "added_at": "2026-01-23 05:00:34",
@@ -1699,38 +1731,6 @@
       "duration_ms": 195310,
       "name": "Sometimes / DOPAMINE++++",
       "url": "https://open.spotify.com/track/0e7RwCcU9gN6XbrW44jVaF"
-    },
-    {
-      "added_at": "2026-01-23 05:00:34",
-      "album": {
-        "name": "CONTROL",
-        "url": "https://open.spotify.com/album/19gckw1W9jhm1Acg08yRa6"
-      },
-      "artists": [
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        }
-      ],
-      "duration_ms": 145600,
-      "name": "CONTROL",
-      "url": "https://open.spotify.com/track/4ohXPckRwCzszhzjsYczfK"
-    },
-    {
-      "added_at": "2026-01-23 05:00:34",
-      "album": {
-        "name": "GO BACK (We Can't)",
-        "url": "https://open.spotify.com/album/1Vomcw2K16iHH2KkkojTrZ"
-      },
-      "artists": [
-        {
-          "name": "Pirapus",
-          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "GO BACK (We Can't)",
-      "url": "https://open.spotify.com/track/7vSTWert1uL4NeG3EvBOYY"
     },
     {
       "added_at": "2026-01-23 05:00:34",

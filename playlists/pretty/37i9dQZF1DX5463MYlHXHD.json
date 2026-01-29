@@ -1,6 +1,6 @@
 {
   "description": "Vieja escuela y de ahora \ud83d\udcf8 Mala Fama.",
-  "num_followers": 589831,
+  "num_followers": 589894,
   "original_name": "Cumbia villera",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2026-01-09 03:00:07",
       "album": {
-        "name": "Inimitable",
-        "url": "https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 254333,
-      "name": "Vienes y Te Vas - En Vivo",
-      "url": "https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa"
-    },
-    {
-      "added_at": "2026-01-09 03:00:07",
-      "album": {
         "name": "Ahi Ahi",
         "url": "https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 176796,
       "name": "Ahi Ahi",
       "url": "https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH"
+    },
+    {
+      "added_at": "2026-01-09 03:00:07",
+      "album": {
+        "name": "Inimitable",
+        "url": "https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 254333,
+      "name": "Vienes y Te Vas - En Vivo",
+      "url": "https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa"
     },
     {
       "added_at": "2026-01-09 03:00:07",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-01-09 03:00:07",
       "album": {
-        "name": "La Noche",
-        "url": "https://open.spotify.com/album/3LWqiBwblO6Lv2eVBGNykL"
-      },
-      "artists": [
-        {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
-        }
-      ],
-      "duration_ms": 164651,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/3QRuuoKLd8KoyHb1lxumPi"
-    },
-    {
-      "added_at": "2026-01-09 03:00:07",
-      "album": {
         "name": "FERNANDITO",
         "url": "https://open.spotify.com/album/7LVRFI3cZTRI2nbY6vEanX"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 131853,
       "name": "FERNANDITO",
       "url": "https://open.spotify.com/track/4ZaFsXbTTSMyszBp70I6KW"
+    },
+    {
+      "added_at": "2026-01-09 03:00:07",
+      "album": {
+        "name": "Su Majestad",
+        "url": "https://open.spotify.com/album/3uv1INMxhlwiW8MnHk6LY5"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Y Su Combo Negro",
+          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
+        }
+      ],
+      "duration_ms": 223059,
+      "name": "Caprichosa",
+      "url": "https://open.spotify.com/track/39W4LyMK4hrF9fQeq8fOEM"
     },
     {
       "added_at": "2026-01-09 03:00:07",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2026-01-09 03:00:07",
       "album": {
-        "name": "Su Majestad",
-        "url": "https://open.spotify.com/album/3uv1INMxhlwiW8MnHk6LY5"
+        "name": "La Noche",
+        "url": "https://open.spotify.com/album/3LWqiBwblO6Lv2eVBGNykL"
       },
       "artists": [
         {
-          "name": "Jimmy Y Su Combo Negro",
-          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
         }
       ],
-      "duration_ms": 223059,
-      "name": "Caprichosa",
-      "url": "https://open.spotify.com/track/39W4LyMK4hrF9fQeq8fOEM"
+      "duration_ms": 164651,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/3QRuuoKLd8KoyHb1lxumPi"
     },
     {
       "added_at": "2026-01-09 03:00:07",
@@ -1371,38 +1371,6 @@
     {
       "added_at": "2026-01-09 03:00:07",
       "album": {
-        "name": "Tiempos Dorados",
-        "url": "https://open.spotify.com/album/6JMXDUoze1hWpr7UMpRq5B"
-      },
-      "artists": [
-        {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
-        }
-      ],
-      "duration_ms": 157964,
-      "name": "Tiempos Dorados",
-      "url": "https://open.spotify.com/track/7d4gwV1hcZQ7ZGHYLwOl87"
-    },
-    {
-      "added_at": "2026-01-09 03:00:07",
-      "album": {
-        "name": "M\u00e1s Solida",
-        "url": "https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 206186,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/0jwK1Db1clUXBKCPnr19iM"
-    },
-    {
-      "added_at": "2026-01-09 03:00:07",
-      "album": {
         "name": "LOGI",
         "url": "https://open.spotify.com/album/273WUOLBoPxnNIPld4cmkA"
       },
@@ -1423,6 +1391,22 @@
       "duration_ms": 234000,
       "name": "LOGI",
       "url": "https://open.spotify.com/track/539LAQobYbCmWNyEhy1ywq"
+    },
+    {
+      "added_at": "2026-01-09 03:00:07",
+      "album": {
+        "name": "M\u00e1s Solida",
+        "url": "https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 206186,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/0jwK1Db1clUXBKCPnr19iM"
     },
     {
       "added_at": "2026-01-09 03:00:07",
@@ -1451,6 +1435,38 @@
     {
       "added_at": "2026-01-09 03:00:07",
       "album": {
+        "name": "Tiempos Dorados",
+        "url": "https://open.spotify.com/album/6JMXDUoze1hWpr7UMpRq5B"
+      },
+      "artists": [
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        }
+      ],
+      "duration_ms": 157964,
+      "name": "Tiempos Dorados",
+      "url": "https://open.spotify.com/track/7d4gwV1hcZQ7ZGHYLwOl87"
+    },
+    {
+      "added_at": "2026-01-09 03:00:07",
+      "album": {
+        "name": "No Voy a Parar",
+        "url": "https://open.spotify.com/album/79YZJXxGTVZcyUUcToIdAN"
+      },
+      "artists": [
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        }
+      ],
+      "duration_ms": 269113,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/3VmasUuFOaQPRFMPuGLpjw"
+    },
+    {
+      "added_at": "2026-01-09 03:00:07",
+      "album": {
         "name": "Alta Gira",
         "url": "https://open.spotify.com/album/1tlUQn78wbsFerurcSe8Hy"
       },
@@ -1463,6 +1479,30 @@
       "duration_ms": 247144,
       "name": "Vos de Bebe",
       "url": "https://open.spotify.com/track/2mVBkHUzTGdHZsZ90F77bF"
+    },
+    {
+      "added_at": "2026-01-09 03:00:07",
+      "album": {
+        "name": "Saveiro",
+        "url": "https://open.spotify.com/album/2OdD4Bw78UeyjUKejq2UZR"
+      },
+      "artists": [
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        }
+      ],
+      "duration_ms": 212210,
+      "name": "Saveiro",
+      "url": "https://open.spotify.com/track/7gBjthQXTuZS0DsfCJEt0Q"
     },
     {
       "added_at": "2026-01-09 03:00:07",
@@ -1527,42 +1567,18 @@
     {
       "added_at": "2026-01-09 03:00:07",
       "album": {
-        "name": "Saveiro",
-        "url": "https://open.spotify.com/album/2OdD4Bw78UeyjUKejq2UZR"
+        "name": "La 2da del Boxeador",
+        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
       },
       "artists": [
         {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
         }
       ],
-      "duration_ms": 212210,
-      "name": "Saveiro",
-      "url": "https://open.spotify.com/track/7gBjthQXTuZS0DsfCJEt0Q"
-    },
-    {
-      "added_at": "2026-01-09 03:00:07",
-      "album": {
-        "name": "No Voy a Parar",
-        "url": "https://open.spotify.com/album/79YZJXxGTVZcyUUcToIdAN"
-      },
-      "artists": [
-        {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        }
-      ],
-      "duration_ms": 269113,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/3VmasUuFOaQPRFMPuGLpjw"
+      "duration_ms": 104973,
+      "name": "Vuelve a Mi Lado",
+      "url": "https://open.spotify.com/track/318gvXrsPsP1r3ocHcFIcH"
     },
     {
       "added_at": "2026-01-09 03:00:07",
@@ -1579,22 +1595,6 @@
       "duration_ms": 201346,
       "name": "La pata sucia",
       "url": "https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA"
-    },
-    {
-      "added_at": "2026-01-09 03:00:07",
-      "album": {
-        "name": "La 2da del Boxeador",
-        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
-      },
-      "artists": [
-        {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
-        }
-      ],
-      "duration_ms": 104973,
-      "name": "Vuelve a Mi Lado",
-      "url": "https://open.spotify.com/track/318gvXrsPsP1r3ocHcFIcH"
     },
     {
       "added_at": "2026-01-09 03:00:07",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2026-01-09 03:00:07",
       "album": {
+        "name": "KaKa Nene",
+        "url": "https://open.spotify.com/album/02LewP3z5YibPTMFArcXmF"
+      },
+      "artists": [
+        {
+          "name": "La Repandilla",
+          "url": "https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub"
+        }
+      ],
+      "duration_ms": 143213,
+      "name": "Arriba, Arriba",
+      "url": "https://open.spotify.com/track/1l37tXRzuBzbOlNCgGlEG1"
+    },
+    {
+      "added_at": "2026-01-09 03:00:07",
+      "album": {
         "name": "Su Majestad",
         "url": "https://open.spotify.com/album/3uv1INMxhlwiW8MnHk6LY5"
       },
@@ -1667,38 +1683,6 @@
     {
       "added_at": "2026-01-09 03:00:07",
       "album": {
-        "name": "KaKa Nene",
-        "url": "https://open.spotify.com/album/02LewP3z5YibPTMFArcXmF"
-      },
-      "artists": [
-        {
-          "name": "La Repandilla",
-          "url": "https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub"
-        }
-      ],
-      "duration_ms": 143213,
-      "name": "Arriba, Arriba",
-      "url": "https://open.spotify.com/track/1l37tXRzuBzbOlNCgGlEG1"
-    },
-    {
-      "added_at": "2026-01-09 03:00:07",
-      "album": {
-        "name": "Moviendo la Cola",
-        "url": "https://open.spotify.com/album/3eQBSHn1c0CBiDY1LrMs3O"
-      },
-      "artists": [
-        {
-          "name": "Barrabox",
-          "url": "https://open.spotify.com/artist/6z01XcnKo6MCOI3qhVEghp"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Siempre Es la Misma Situaci\u00f3n",
-      "url": "https://open.spotify.com/track/0m3IyXg5G0fjN7juaFihTv"
-    },
-    {
-      "added_at": "2026-01-09 03:00:07",
-      "album": {
         "name": "DJ ALEX, EL NOBA - TEKA | E6",
         "url": "https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay"
       },
@@ -1719,18 +1703,18 @@
     {
       "added_at": "2026-01-09 03:00:07",
       "album": {
-        "name": "Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/3gY0jtnuvBNLTASCvdkjRB"
+        "name": "Moviendo la Cola",
+        "url": "https://open.spotify.com/album/3eQBSHn1c0CBiDY1LrMs3O"
       },
       "artists": [
         {
-          "name": "Sonido Basico",
-          "url": "https://open.spotify.com/artist/7mkvT1y5EkJJtQKjF36HQA"
+          "name": "Barrabox",
+          "url": "https://open.spotify.com/artist/6z01XcnKo6MCOI3qhVEghp"
         }
       ],
-      "duration_ms": 241093,
-      "name": "Encararte",
-      "url": "https://open.spotify.com/track/5gnLRLGvpP5lAzam0VQf0T"
+      "duration_ms": 200373,
+      "name": "Siempre Es la Misma Situaci\u00f3n",
+      "url": "https://open.spotify.com/track/0m3IyXg5G0fjN7juaFihTv"
     },
     {
       "added_at": "2026-01-09 03:00:07",
@@ -1747,6 +1731,22 @@
       "duration_ms": 170319,
       "name": "El Fog\u00f3n",
       "url": "https://open.spotify.com/track/3y8Pe96NSEaReDgrRYPSaO"
+    },
+    {
+      "added_at": "2026-01-09 03:00:07",
+      "album": {
+        "name": "Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/3gY0jtnuvBNLTASCvdkjRB"
+      },
+      "artists": [
+        {
+          "name": "Sonido Basico",
+          "url": "https://open.spotify.com/artist/7mkvT1y5EkJJtQKjF36HQA"
+        }
+      ],
+      "duration_ms": 241093,
+      "name": "Encararte",
+      "url": "https://open.spotify.com/track/5gnLRLGvpP5lAzam0VQf0T"
     },
     {
       "added_at": "2026-01-09 03:00:07",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2026-01-09 03:00:07",
       "album": {
-        "name": "Y Pinto... El Arrebato Guacho",
-        "url": "https://open.spotify.com/album/30FrHEwHMkn6oBqMvW0jHJ"
-      },
-      "artists": [
-        {
-          "name": "El Arrebato",
-          "url": "https://open.spotify.com/artist/56C261PgvMlf0QxmFlRLRg"
-        }
-      ],
-      "duration_ms": 177093,
-      "name": "Quiero Que Escuches",
-      "url": "https://open.spotify.com/track/0mOelAOFxEBTkzBzHlXxIA"
-    },
-    {
-      "added_at": "2026-01-09 03:00:07",
-      "album": {
         "name": "La 2da del Boxeador",
         "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 157826,
       "name": "Caramelito",
       "url": "https://open.spotify.com/track/6UIvUdhVbtd5jgbBzfZYgg"
+    },
+    {
+      "added_at": "2026-01-09 03:00:07",
+      "album": {
+        "name": "Y Pinto... El Arrebato Guacho",
+        "url": "https://open.spotify.com/album/30FrHEwHMkn6oBqMvW0jHJ"
+      },
+      "artists": [
+        {
+          "name": "El Arrebato",
+          "url": "https://open.spotify.com/artist/56C261PgvMlf0QxmFlRLRg"
+        }
+      ],
+      "duration_ms": 177093,
+      "name": "Quiero Que Escuches",
+      "url": "https://open.spotify.com/track/0mOelAOFxEBTkzBzHlXxIA"
     },
     {
       "added_at": "2026-01-09 03:00:07",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2026-01-09 03:00:07",
       "album": {
-        "name": "Me Vas a Hacer Llorar",
-        "url": "https://open.spotify.com/album/4sHb67vKNCwIU7bsxoSrQf"
-      },
-      "artists": [
-        {
-          "name": "Debora",
-          "url": "https://open.spotify.com/artist/4MFYWIUUwy9yzkVaMSyuYk"
-        }
-      ],
-      "duration_ms": 227680,
-      "name": "La Miel de Tus Labios",
-      "url": "https://open.spotify.com/track/06OLRKwj3Sp2k9jBokQSsi"
-    },
-    {
-      "added_at": "2026-01-09 03:00:07",
-      "album": {
         "name": "MIX DE FRUTAS",
         "url": "https://open.spotify.com/album/6WIIOaeytSBHGH0xtQWoXP"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 160000,
       "name": "NO, MANZANA",
       "url": "https://open.spotify.com/track/45CZCIVIOAoZ4lbCDDYrpk"
+    },
+    {
+      "added_at": "2026-01-09 03:00:07",
+      "album": {
+        "name": "Me Vas a Hacer Llorar",
+        "url": "https://open.spotify.com/album/4sHb67vKNCwIU7bsxoSrQf"
+      },
+      "artists": [
+        {
+          "name": "Debora",
+          "url": "https://open.spotify.com/artist/4MFYWIUUwy9yzkVaMSyuYk"
+        }
+      ],
+      "duration_ms": 227680,
+      "name": "La Miel de Tus Labios",
+      "url": "https://open.spotify.com/track/06OLRKwj3Sp2k9jBokQSsi"
     }
   ],
   "unique_name": "Cumbia villera",

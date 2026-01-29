@@ -1,12 +1,12 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: isobel",
-  "num_followers": 96107,
+  "num_followers": 96125,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMVxbttfeMTFcKDrL/dl/P89/8pY",
+  "snapshot_id": "AAAAAL8He3wfBsevg1nxgVNRKQd+JBCa",
   "tracks": [
     {
       "added_at": "2026-01-21 17:00:04",
@@ -25,20 +25,20 @@
       "url": "https://open.spotify.com/track/3fDuCJ6BSgPkoPni8rvpei"
     },
     {
-      "added_at": "2026-01-21 17:00:04",
+      "added_at": "2026-01-28 17:00:07",
       "album": {
-        "name": "(Me Tomorrow)",
-        "url": "https://open.spotify.com/album/6vWe2PHNscc7llWzzb2FIZ"
+        "name": "It's a Hell of an Age",
+        "url": "https://open.spotify.com/album/6oZmZb6MX4lhYPN6v3sD2S"
       },
       "artists": [
         {
-          "name": "tofusmell",
-          "url": "https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ"
+          "name": "Madra Salach",
+          "url": "https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp"
         }
       ],
-      "duration_ms": 196200,
-      "name": "(Me Tomorrow)",
-      "url": "https://open.spotify.com/track/6pGt3J3K2IkAibPJqipCkF"
+      "duration_ms": 370659,
+      "name": "The Man Who Seeks Pleasure",
+      "url": "https://open.spotify.com/track/32msSh7ipShC5euqD5Yc9O"
     },
     {
       "added_at": "2026-01-14 17:00:23",
@@ -55,6 +55,122 @@
       "duration_ms": 207058,
       "name": "limn",
       "url": "https://open.spotify.com/track/69oIIqwBPHmM8m81cW1H5O"
+    },
+    {
+      "added_at": "2026-01-28 17:00:07",
+      "album": {
+        "name": "Joy and Despair",
+        "url": "https://open.spotify.com/album/3PGbpvjDxnIdiTLbfcNYJy"
+      },
+      "artists": [
+        {
+          "name": "Charlie Noordewier",
+          "url": "https://open.spotify.com/artist/0SDfEluak7Z8ML7o1K2Ljk"
+        }
+      ],
+      "duration_ms": 240451,
+      "name": "Joy and Despair",
+      "url": "https://open.spotify.com/track/1viACvU6BoSNO0VEziw9QT"
+    },
+    {
+      "added_at": "2026-01-28 17:00:07",
+      "album": {
+        "name": "Beadie",
+        "url": "https://open.spotify.com/album/07OLVwgWErQyUnhavirYQy"
+      },
+      "artists": [
+        {
+          "name": "Sluice",
+          "url": "https://open.spotify.com/artist/2G2lzG0hD7813EiPyiCC4j"
+        }
+      ],
+      "duration_ms": 240752,
+      "name": "Beadie",
+      "url": "https://open.spotify.com/track/2epCOFnQDllhDFAaxO3mx2"
+    },
+    {
+      "added_at": "2026-01-28 17:00:07",
+      "album": {
+        "name": "Antiques Roadshow",
+        "url": "https://open.spotify.com/album/37alqkw5tMbfwctsebZhCD"
+      },
+      "artists": [
+        {
+          "name": "The Enthusiast",
+          "url": "https://open.spotify.com/artist/0U1BO9Q6anmBv1RjO3lFN8"
+        }
+      ],
+      "duration_ms": 212562,
+      "name": "Antiques Roadshow",
+      "url": "https://open.spotify.com/track/5JfAj4ssZg6yF28C7UKdOL"
+    },
+    {
+      "added_at": "2026-01-28 17:00:07",
+      "album": {
+        "name": "Gale",
+        "url": "https://open.spotify.com/album/3EhSBVM5HLJO37J0QRvLsS"
+      },
+      "artists": [
+        {
+          "name": "Emma Harner",
+          "url": "https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ"
+        }
+      ],
+      "duration_ms": 208253,
+      "name": "Gale",
+      "url": "https://open.spotify.com/track/6nFUqMJ8bGX78npDfMm8Ho"
+    },
+    {
+      "added_at": "2026-01-28 17:00:07",
+      "album": {
+        "name": "George Jones (ft. Angela Autumn)",
+        "url": "https://open.spotify.com/album/7t5DjAvZEkYKkej5qiDDN1"
+      },
+      "artists": [
+        {
+          "name": "Deloyd Elze",
+          "url": "https://open.spotify.com/artist/74ERN7iYMRTDYfWz2BspQo"
+        },
+        {
+          "name": "Angela Autumn",
+          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
+        }
+      ],
+      "duration_ms": 215691,
+      "name": "George Jones (ft. Angela Autumn)",
+      "url": "https://open.spotify.com/track/5OUGnKAiNCNxX3RXsGTcMI"
+    },
+    {
+      "added_at": "2026-01-28 17:00:07",
+      "album": {
+        "name": "loose ends",
+        "url": "https://open.spotify.com/album/4lMssTCGOIWLKD8leuKxgi"
+      },
+      "artists": [
+        {
+          "name": "Lyla George",
+          "url": "https://open.spotify.com/artist/2Yh3B8OtHziAIdpNYzQdWa"
+        }
+      ],
+      "duration_ms": 199780,
+      "name": "loose ends",
+      "url": "https://open.spotify.com/track/67OFZ9ebvekdwrNEjdfk9G"
+    },
+    {
+      "added_at": "2026-01-21 17:00:04",
+      "album": {
+        "name": "(Me Tomorrow)",
+        "url": "https://open.spotify.com/album/6vWe2PHNscc7llWzzb2FIZ"
+      },
+      "artists": [
+        {
+          "name": "tofusmell",
+          "url": "https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ"
+        }
+      ],
+      "duration_ms": 196200,
+      "name": "(Me Tomorrow)",
+      "url": "https://open.spotify.com/track/6pGt3J3K2IkAibPJqipCkF"
     },
     {
       "added_at": "2026-01-14 17:00:23",

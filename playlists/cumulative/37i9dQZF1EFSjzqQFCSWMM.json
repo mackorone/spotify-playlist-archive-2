@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "I Think You've Gone Mad (Or the Sins of the Father)",
+        "url": "https://open.spotify.com/album/4Yy43Ul14PbtMOBMDhjLgV"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130173,
+      "name": "81",
+      "url": "https://open.spotify.com/track/3wVU7RFynKLVyaiT4BmigQ"
+    },
+    {
+      "album": {
         "name": "PRESCRIBED OVERDOSE",
         "url": "https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl"
       },
@@ -287,6 +305,32 @@
     },
     {
       "album": {
+        "name": "DONDA 2",
+        "url": "https://open.spotify.com/album/1ZkGNUz1un0b3Z7EsJl3ci"
+      },
+      "artists": [
+        {
+          "name": "DONDA",
+          "url": "https://open.spotify.com/artist/1t9YWEQIh5ciiliO2C8Mew"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120824,
+      "name": "BURN EVERYTHING",
+      "url": "https://open.spotify.com/track/4mVBfQgc0bpA3eLNEpzv2F"
+    },
+    {
+      "album": {
         "name": "HERD IMMUNITY 1.0",
         "url": "https://open.spotify.com/album/5VG8UYwd5izn2TQPX8fvBn"
       },
@@ -302,7 +346,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 167647,
       "name": "BURN EVERYTHING",
       "url": "https://open.spotify.com/track/1ZLME4ZLJTdptjVeewKFyv"
@@ -1054,7 +1098,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 174093,
       "name": "I'm Ready For You",
       "url": "https://open.spotify.com/track/1zmv0tPVWdbCuvBw90MYwO"
@@ -1748,6 +1792,24 @@
       "duration_ms": 181890,
       "name": "Simulation",
       "url": "https://open.spotify.com/track/5qmofSYIqQIDfm09Q8gwal"
+    },
+    {
+      "album": {
+        "name": "A N N I V E R S A R Y",
+        "url": "https://open.spotify.com/album/5KpXxX7OUDXRs25qLyN8NA"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193702,
+      "name": "Sorrows",
+      "url": "https://open.spotify.com/track/5TXQCMKN6TgemTL3c4wRTn"
     },
     {
       "album": {

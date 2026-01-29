@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-474 songs - 1 day 4 hr 34 min
+475 songs - 1 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Acide](https://open.spotify.com/track/5OEKWNC6VYU1Hpc48YdgBj) | [OOTORO](https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI) | [Acide](https://open.spotify.com/album/0UjOOxQqX2guMInZQUUIsh) | 2:39 | 2023-08-20 | 2023-09-26 |
 | [Afterparty](https://open.spotify.com/track/2LTenX3kElT3fN77CA4wMt) | [OMBRO](https://open.spotify.com/artist/651nuNscY3BP9sr0LFpPwo) | [Afterparty](https://open.spotify.com/album/409JzsQzbj6QxKu24FtSML) | 2:55 | 2023-04-30 | 2023-05-30 |
 | [All My Dogs](https://open.spotify.com/track/6VBvc1SHws6dNgVHNYRsVu) | [Felipe Fella](https://open.spotify.com/artist/4fINHdoufNssJ32yLC3NsK), [cesco.](https://open.spotify.com/artist/1KVp24r2N0WPNNa7HSh0OG) | [Welcome to Hell II](https://open.spotify.com/album/3CTcKWxnFO7AZtadH6rofz) | 3:15 | 2023-03-19 | 2023-04-10 |
+| [All Night](https://open.spotify.com/track/2Q9XnnbrJrg8Tx33vLgBxZ) | [Andrea Moricone](https://open.spotify.com/artist/5smRjMdumk9zNe6UQjc3eh), [Movha](https://open.spotify.com/artist/3NOBj57odsPGBoHI9Q2BrN) | [All Night](https://open.spotify.com/album/6Q7CQUEFmgnH6YXVoRHJjG) | 3:18 | 2026-01-28 |  |
 | [All Night](https://open.spotify.com/track/0mrdtRdrp9W05nKuE2qFO6) | [Bellecour](https://open.spotify.com/artist/1PiNBMw3iIaG021gWeidUY), [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [All Night](https://open.spotify.com/album/6TlbQ4aXAwS1Iw55zm42jO) | 3:08 | 2023-04-23 | 2023-05-15 |
 | [All Of My Love](https://open.spotify.com/track/7gtNdeQgBYPFJHadRxUfcd) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [All Of My Love](https://open.spotify.com/album/5pdOSD5odJMAxVME43mpnm) | 4:27 | 2023-06-18 | 2023-07-17 |
 | [All The Time](https://open.spotify.com/track/5By6A6jdZiJ9j3YION9hQW) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi), [Curtiba](https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3) | [All The Time](https://open.spotify.com/album/0QBrRX6aMDz7SxzEvHXCv5) | 2:46 | 2023-03-05 | 2023-03-20 |

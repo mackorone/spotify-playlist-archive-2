@@ -4,7 +4,7 @@
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: EXO\) \(Enjoy a playlist of songs that support music video features!\)
 
-184 songs - 10 hr 10 min
+185 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Bitter Sweet](https://open.spotify.com/track/5cnQKFiGw1qVfnbhGBbTPx) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Bitter Sweet](https://open.spotify.com/album/0LZZQWGxIn73Zx3joZTbyN) | 2:49 | 2026-01-03 |  |
 | [Blue Valentine](https://open.spotify.com/track/3oW83DopZrJSdXG6T8FHJ8) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0CthFjhDsahYkAhEY7X8kx) | 3:14 | 2025-10-24 |  |
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/0Tql32l0iKbng4WDok0SgE) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5TI8s1Kjo4nNFKyqxpMKjK) | 4:03 | 2025-07-15 | 2025-08-20 |
+| [BRUISE](https://open.spotify.com/track/2PgRbGGGKgTTAQJWMcuwsL) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [BRUISE](https://open.spotify.com/album/3f3zoSdNknY1cVivGbEyC9) | 3:29 | 2026-01-28 |  |
 | [BTG](https://open.spotify.com/track/65R0GRTYAygptqXHwQMDQG) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [BTG](https://open.spotify.com/album/27P5shDmd4RpYH7UgWJYSk) | 3:14 | 2025-07-15 |  |
 | [BTTF](https://open.spotify.com/track/0JrmsSNpFZHSGuOV55aZum) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [BTTF](https://open.spotify.com/album/6sRwi5sEg3lBOucOAQPvwV) | 3:41 | 2025-07-15 |  |
 | [BURN](https://open.spotify.com/track/6c1QHuAkDnV9oOcaRmWxpZ) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [BURN](https://open.spotify.com/album/3LNRsNypIXNKVFnjLNgkB2) | 3:25 | 2025-07-15 |  |

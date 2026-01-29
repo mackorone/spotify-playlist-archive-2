@@ -658,10 +658,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 181935,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/0dkV8DuMfWAVhfi3iMnIX3"
+    },
+    {
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/6G5r7GZdbRkaKgC1GKxviw"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/2yWtbIBhuwJ6GHR5X5qP4O"
     },
     {
       "album": {

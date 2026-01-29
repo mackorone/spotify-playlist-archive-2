@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Hiqpy \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artiest\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,263 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,262 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 99 | [Hit My Head All Day \- Edit](https://open.spotify.com/track/271A8RDdBhRCOo8mHtyrNB) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Hit My Head All Day](https://open.spotify.com/album/1x5dErbtLuyMUZrnmkM4CI) | 3:43 |
 | 100 | [Dog](https://open.spotify.com/track/3VHI9MP58SXN2NIJSGqCzR) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Dark Sky Reserve](https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m) | 3:09 |
 
-Snapshot ID: `AAAAAM5xJJdy1MylNGqgFO2uqcEf7NTD`
+Snapshot ID: `AAAAANZMuVyIWqd3O/5fieP2oyJpjlPV`

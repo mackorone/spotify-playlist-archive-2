@@ -381,6 +381,24 @@
     },
     {
       "album": {
+        "name": "BRUISE",
+        "url": "https://open.spotify.com/album/3f3zoSdNknY1cVivGbEyC9"
+      },
+      "artists": [
+        {
+          "name": "8TURN",
+          "url": "https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209557,
+      "name": "BRUISE",
+      "url": "https://open.spotify.com/track/2PgRbGGGKgTTAQJWMcuwsL"
+    },
+    {
+      "album": {
         "name": "BTG",
         "url": "https://open.spotify.com/album/27P5shDmd4RpYH7UgWJYSk"
       },

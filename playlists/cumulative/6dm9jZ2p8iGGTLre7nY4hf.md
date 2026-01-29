@@ -4,7 +4,7 @@
 
 > Break up songs, the best cure for a broken heart!
 
-495 songs - 1 day 3 hr 57 min
+496 songs - 1 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [Nobody Gets Me](https://open.spotify.com/track/0impvergaW8CuQS2OcEWMu) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 3:00 | 2025-03-26 | 2026-01-15 |
 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2023-09-15 | 2025-03-14 |
 | [Nobody's Home](https://open.spotify.com/track/0cZDC7uxNK8lqQ3GgyvCnD) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 3:32 | 2024-02-16 | 2025-03-14 |
+| [Northern Lights](https://open.spotify.com/track/2qLYadTIWJTXJuS8sTt7m8) | [emma](https://open.spotify.com/artist/6pe92iYUnYByNR6uMcfZ4V) | [Northern Lights](https://open.spotify.com/album/27PGrw4C2AhVTAOZsTAsYU) | 2:57 | 2026-01-28 |  |
 | [Not Around](https://open.spotify.com/track/1y1RZ1WceXGSr0X7Q6mG0M) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Not Around](https://open.spotify.com/album/1AoV2zzDHH57nQEOfga6mX) | 2:40 | 2023-09-15 | 2025-03-14 |
 | [Not OK](https://open.spotify.com/track/4vBMASGWem33g5wqMe7MDL) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [Not OK](https://open.spotify.com/album/7xhNYUpSlheHOR8I2PqxvY) | 3:29 | 2023-09-15 | 2025-03-14 |
 | [Nothing](https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 2:42 | 2025-03-26 | 2025-07-25 |

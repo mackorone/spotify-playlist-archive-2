@@ -4,7 +4,7 @@
 
 > Niky Savage in cover della playlist dello street rap italiano ⛓️
 
-979 songs - 1 day 20 hr 36 min
+980 songs - 1 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [3 DI CUORI \(feat\. Lazza\)](https://open.spotify.com/track/5w1eX8eQf8Z9jvqTCAtHkY) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [3 DI CUORI \(feat\. Lazza\)](https://open.spotify.com/album/7IScTLAkymhF5ltesag29N) | 2:57 | 2022-05-11 | 2022-09-09 |
 | [30 THOTTIE](https://open.spotify.com/track/7LdZviAofiMRFgJpBTBRJg) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [SPINGERE SEMPRE](https://open.spotify.com/album/2T7gONSadyUZBCzu47VDyW) | 2:04 | 2024-07-04 | 2024-07-27 |
 | [357 \(feat\. Guè\)](https://open.spotify.com/track/6PBr7VubD4T2TqqIj7FaWw) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x) | [DIO LO SA](https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7) | 2:20 | 2024-06-06 | 2024-06-28 |
-| [38 \(feat\. RRARI DAL TACCO, Artie 5ive\)](https://open.spotify.com/track/2KK5IaJLPoQADUmLPME9so) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NO REGULAR MUSIC 2](https://open.spotify.com/album/1P6Pfl8VSFeu4hJjhp0xB1) | 2:44 | 2025-07-24 |  |
+| [38 \(feat\. RRARI DAL TACCO, Artie 5ive\)](https://open.spotify.com/track/2KK5IaJLPoQADUmLPME9so) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NO REGULAR MUSIC 2](https://open.spotify.com/album/1P6Pfl8VSFeu4hJjhp0xB1) | 2:44 | 2025-07-24 | 2026-01-29 |
 | [3uphon](https://open.spotify.com/track/2mmbawJFVgPuQhdQpsHsRl) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:15 | 2023-11-17 | 2024-03-08 |
 | [4 Stelle](https://open.spotify.com/track/5NnoufqymGV8KxDRaPtg4p) | [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy) | [4 Stelle](https://open.spotify.com/album/2jV9SX1RlnZ61bzVpjtIfm) | 2:19 | 2025-12-04 | 2026-01-02 |
 | [40 GRADI](https://open.spotify.com/track/0eDdGDkyAl3XTE8bv4nRR1) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [40 GRADI](https://open.spotify.com/album/7JoGm6i50TeHIoME3AX0St) | 2:42 | 2024-09-05 | 2025-01-31 |
@@ -979,6 +979,7 @@
 | [YAMAMAY](https://open.spotify.com/track/6P68S7IrfuDyXOmhUpwvxZ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [YAMAMAY](https://open.spotify.com/album/4yMQk3qc1pbUOLjgRN1gIB) | 2:42 | 2023-02-16 | 2023-07-14 |
 | [YO](https://open.spotify.com/track/50ku9kOIoxwfKfdQCqbe8m) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [YO](https://open.spotify.com/album/27hO8daTikBVebKuEhZFGT) | 2:25 | 2022-09-29 | 2022-11-04 |
 | [Z4 \(don't play\)](https://open.spotify.com/track/0xrwA0Ww9aHqitSzxBJ858) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU) | [Z4 \(don't play\)](https://open.spotify.com/album/0SQQWjkyt1DtDIUhA8AxhP) | 2:20 | 2023-05-04 | 2023-05-19 |
+| [ZACK & CODY](https://open.spotify.com/track/6JO9XKYlcaSJsag6mWpk4q) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [ZACK & CODY](https://open.spotify.com/album/21bF2d3IN6A5l8xO4YTt9j) | 2:08 | 2026-01-29 |  |
 | [ZE PEQUENO](https://open.spotify.com/track/0BTaf9B2reL6S8Ep82XMcO) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX), [Kalionte](https://open.spotify.com/artist/4EXgod8ey7HXn2o8zAOcAQ) | [SCUGNIZZI X SEMPRE](https://open.spotify.com/album/1KAwVf1Z880lPfgDXSVCkM) | 2:01 | 2026-01-15 |  |
 | [ZIG ZAG](https://open.spotify.com/track/7adSyT0GUITkpCHIrLqhTG) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW) | [ZIG ZAG](https://open.spotify.com/album/1jokKdI2v5ZLwXdDYLjyIU) | 2:21 | 2024-01-18 | 2024-02-16 |
 | [Zig Zag](https://open.spotify.com/track/5UKIWHvuWHSVnNxZuNd2Qr) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Zig Zag](https://open.spotify.com/album/1BKBhiWmq8ODbAc8VVNpJ2) | 2:42 | 2024-03-21 | 2024-05-03 |

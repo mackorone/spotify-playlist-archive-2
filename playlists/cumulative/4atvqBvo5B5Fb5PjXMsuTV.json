@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 27 Jan 19:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 28 Jan 19:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -3312,7 +3312,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 197207,
       "name": "Adversary",
       "url": "https://open.spotify.com/track/1RkatIutosjkROaLQyVOpX"
@@ -3388,6 +3388,24 @@
       "duration_ms": 111200,
       "name": "AF1",
       "url": "https://open.spotify.com/track/3uMe9Jrzjn006oHTAvgvYj"
+    },
+    {
+      "album": {
+        "name": "Afraid Of The Dark",
+        "url": "https://open.spotify.com/album/7e9ka8itzOI5qCIKXIyCy2"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278416,
+      "name": "Afraid Of The Dark",
+      "url": "https://open.spotify.com/track/46odPfzMypgxCBMUPmdKxr"
     },
     {
       "album": {
@@ -20158,6 +20176,24 @@
       "duration_ms": 281886,
       "name": "CLOUD CORE",
       "url": "https://open.spotify.com/track/4Ib0PEx6jncDWDBDIhgw7C"
+    },
+    {
+      "album": {
+        "name": "cloud palace ~ false awakening",
+        "url": "https://open.spotify.com/album/5tWqAvfjjRelNvWFNrV8hK"
+      },
+      "artists": [
+        {
+          "name": "Billlie",
+          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201771,
+      "name": "cloud palace",
+      "url": "https://open.spotify.com/track/1dsuEyZ0ZPgL7Z1HAaFSek"
     },
     {
       "album": {
@@ -56627,6 +56663,24 @@
     },
     {
       "album": {
+        "name": "LAMENTE",
+        "url": "https://open.spotify.com/album/1w727HKCtYpl6OUdznZOfx"
+      },
+      "artists": [
+        {
+          "name": "Skybreak",
+          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230204,
+      "name": "LAMENTE",
+      "url": "https://open.spotify.com/track/059AXPNP16IoFf7uqujfo5"
+    },
+    {
+      "album": {
         "name": "Laplander (Finn Keane Remix)",
         "url": "https://open.spotify.com/album/4nJfC6JCgFMT6hwYqMvFdP"
       },
@@ -58070,7 +58124,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 183420,
       "name": "Lie2Me",
       "url": "https://open.spotify.com/track/4qQMsoWlwvj2xtriAZ8LD4"
@@ -66536,7 +66590,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 135023,
       "name": "Most Wanted",
       "url": "https://open.spotify.com/track/6HCuHO6mo1IHkVFP3MYhGc"
@@ -73360,7 +73414,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 185400,
       "name": "One of Them Ones",
       "url": "https://open.spotify.com/track/6f0UpQ2qdNevj7NARngtna"
@@ -85740,6 +85794,24 @@
       "duration_ms": 181831,
       "name": "Se7enteen5ive",
       "url": "https://open.spotify.com/track/2ZV1uKzSpLxbR9OiyRtkHs"
+    },
+    {
+      "album": {
+        "name": "Sea Lion",
+        "url": "https://open.spotify.com/album/5e5UA8XD80FadZofnjyEhK"
+      },
+      "artists": [
+        {
+          "name": "Yuno Miles",
+          "url": "https://open.spotify.com/artist/6gtIvaBCrswcltfMt67LMn"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119025,
+      "name": "Sea Lion",
+      "url": "https://open.spotify.com/track/0hhRMocyreRyIWssBZDkth"
     },
     {
       "album": {

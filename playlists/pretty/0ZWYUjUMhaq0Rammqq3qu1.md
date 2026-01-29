@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Your one\-stop shop for the top \#2016 bangers that you still know word for word.
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 113,666 likes - 59 songs - 3 hr 45 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 113,657 likes - 59 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di BLANCO, Harry Styles, Bresh, Capo Plaza, Rvssian con Sfera Ebbasta e Skillibeng, Geolier e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,141 likes - 95 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,140 likes - 95 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

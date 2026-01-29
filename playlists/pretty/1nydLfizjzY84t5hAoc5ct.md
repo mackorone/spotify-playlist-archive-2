@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,352 likes - 179 songs - 11 hr 5 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,352 likes - 180 songs - 11 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,5 +187,6 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 177 | [Summa](https://open.spotify.com/track/34PHwc6XsMuhUj2YULvW07) | [The Demographic](https://open.spotify.com/artist/1krGl2BYNGaEmOnkOBor7L) | [Summa](https://open.spotify.com/album/4AZlDXLjSAeHRVM8VXq8nV) | 4:38 |
 | 178 | [Closer](https://open.spotify.com/track/2VNl1ygvFfGN4TW1U1UFhR) | [Quiet Man](https://open.spotify.com/artist/3iR41vQVaeF8kXhOWjAv3J) | [Closer](https://open.spotify.com/album/7DVDJeDFjoafoFF3E70NV4) | 4:24 |
 | 179 | [Treading Water](https://open.spotify.com/track/3hS9yNUGVXPll9amXpxiV1) | [Quiet Man](https://open.spotify.com/artist/3iR41vQVaeF8kXhOWjAv3J) | [Treading Water](https://open.spotify.com/album/7fNigTSU9ARHBXSxWlYZzi) | 4:12 |
+| 180 | [International Radio Star](https://open.spotify.com/track/7hoHVAVvZJbku8CTsBVdEC) | [Bela and The Lugosis](https://open.spotify.com/artist/690j7ypcDuaN0b3KcZzs78) | [International Radio Star](https://open.spotify.com/album/1NqOdon7S5dZYKWiW1Tt7I) | 3:07 |
 
-Snapshot ID: `AABvM5cIhLl3oe4epKXGydV7R3FoRxdW`
+Snapshot ID: `AABvNEAWqXXmUNdF5WmkI3mlbbVhPuwN`

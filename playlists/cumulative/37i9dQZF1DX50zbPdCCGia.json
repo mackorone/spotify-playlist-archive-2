@@ -2296,7 +2296,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 249733,
       "name": "Never Be the Same",
       "url": "https://open.spotify.com/track/4Z2015s3noJJ7IRydu7ozr"
@@ -3838,6 +3838,24 @@
       "duration_ms": 213924,
       "name": "Vienna",
       "url": "https://open.spotify.com/track/7gREIuHognJFspylIDJ94p"
+    },
+    {
+      "album": {
+        "name": "Walking Man (2019 Remaster)",
+        "url": "https://open.spotify.com/album/1pa0QvYjLsiYWQlkMvqPZL"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214920,
+      "name": "Walking Man - 2019 Remaster",
+      "url": "https://open.spotify.com/track/5CHX5fuINGV2Y7T4sDKdUJ"
     },
     {
       "album": {

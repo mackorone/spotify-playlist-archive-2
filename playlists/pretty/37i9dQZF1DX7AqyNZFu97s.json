@@ -1,6 +1,6 @@
 {
   "description": "The best new music from independent artists in the UK and Ireland. Cover: Lande Hekt",
-  "num_followers": 38016,
+  "num_followers": 38021,
   "original_name": "Fresh Finds UK & IE",
   "owner": {
     "name": "Spotify",
@@ -1056,12 +1056,12 @@
       },
       "artists": [
         {
-          "name": "AMEN.",
-          "url": "https://open.spotify.com/artist/0mWexb2ewJaqNs1WqadN0z"
-        },
-        {
           "name": "T1MI",
           "url": "https://open.spotify.com/artist/2MnqQwxoK97c977qZtnraJ"
+        },
+        {
+          "name": "AMEN.",
+          "url": "https://open.spotify.com/artist/0mWexb2ewJaqNs1WqadN0z"
         }
       ],
       "duration_ms": 156338,

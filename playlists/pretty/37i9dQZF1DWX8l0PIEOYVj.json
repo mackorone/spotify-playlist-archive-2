@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass \ud83d\udef8 with ILLENIUM",
-  "num_followers": 473141,
+  "num_followers": 473135,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -1235,30 +1235,6 @@
     {
       "added_at": "2026-01-23 20:06:29",
       "album": {
-        "name": "You Found Me",
-        "url": "https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu"
-      },
-      "artists": [
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        },
-        {
-          "name": "Clara Park",
-          "url": "https://open.spotify.com/artist/7pNT2JErag4HzHSJk6z2w2"
-        }
-      ],
-      "duration_ms": 269538,
-      "name": "You Found Me",
-      "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
-    },
-    {
-      "added_at": "2026-01-23 20:06:29",
-      "album": {
         "name": "New Home",
         "url": "https://open.spotify.com/album/5MvTO7p2JuX9TP7xOaVRWa"
       },
@@ -1279,6 +1255,30 @@
       "duration_ms": 244000,
       "name": "New Home",
       "url": "https://open.spotify.com/track/3uPFySAkcHJY3CxCFGNWd8"
+    },
+    {
+      "added_at": "2026-01-23 20:06:29",
+      "album": {
+        "name": "You Found Me",
+        "url": "https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Clara Park",
+          "url": "https://open.spotify.com/artist/7pNT2JErag4HzHSJk6z2w2"
+        }
+      ],
+      "duration_ms": 269538,
+      "name": "You Found Me",
+      "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
     },
     {
       "added_at": "2026-01-23 20:06:29",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2026-01-23 20:06:29",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/6kNbjMxKLsoplhgfPomGce"
-      },
-      "artists": [
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
-        {
-          "name": "Medyk",
-          "url": "https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/3QFK0Yga88uv2gC8Yz3P8j"
-    },
-    {
-      "added_at": "2026-01-23 20:06:29",
-      "album": {
         "name": "In The End",
         "url": "https://open.spotify.com/album/6lURFr4s4DoOGpXnkFIbn3"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 204666,
       "name": "In The End",
       "url": "https://open.spotify.com/track/5pt4hbLckWiwVDM9xcDG9D"
+    },
+    {
+      "added_at": "2026-01-23 20:06:29",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/6kNbjMxKLsoplhgfPomGce"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Medyk",
+          "url": "https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/3QFK0Yga88uv2gC8Yz3P8j"
     },
     {
       "added_at": "2026-01-23 20:06:29",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-01-23 20:06:29",
       "album": {
+        "name": "DOPAMINE++",
+        "url": "https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "DOPAMINE++",
+      "url": "https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw"
+    },
+    {
+      "added_at": "2026-01-23 20:06:29",
+      "album": {
         "name": "A Better World",
         "url": "https://open.spotify.com/album/5WfRc0e7iFhENKMyD8jOxO"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 230068,
       "name": "A Better World",
       "url": "https://open.spotify.com/track/7MARy6sJ24UhLfbEsVs7a0"
-    },
-    {
-      "added_at": "2026-01-23 20:06:29",
-      "album": {
-        "name": "DOPAMINE++",
-        "url": "https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "DOPAMINE++",
-      "url": "https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw"
     },
     {
       "added_at": "2026-01-23 20:06:29",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2026-01-23 20:06:29",
       "album": {
-        "name": "Autopilot",
-        "url": "https://open.spotify.com/album/1FPiadUbi6FqEm6nXramIj"
-      },
-      "artists": [
-        {
-          "name": "RemK",
-          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Autopilot",
-      "url": "https://open.spotify.com/track/6RJ7ZHxCljiASnsGAIo6Aj"
-    },
-    {
-      "added_at": "2026-01-23 20:06:29",
-      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/4wKwxTukbhwMmG9dZpEpLX"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 196233,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/3yH2YuRNJcXfwjgd7nFIMX"
+    },
+    {
+      "added_at": "2026-01-23 20:06:29",
+      "album": {
+        "name": "Autopilot",
+        "url": "https://open.spotify.com/album/1FPiadUbi6FqEm6nXramIj"
+      },
+      "artists": [
+        {
+          "name": "RemK",
+          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Autopilot",
+      "url": "https://open.spotify.com/track/6RJ7ZHxCljiASnsGAIo6Aj"
     },
     {
       "added_at": "2026-01-23 20:06:29",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2026-01-23 20:06:29",
       "album": {
-        "name": "Superluminal",
-        "url": "https://open.spotify.com/album/6FPhibUXT8Y0f6RwfKJUII"
-      },
-      "artists": [
-        {
-          "name": "Au5",
-          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
-        }
-      ],
-      "duration_ms": 328890,
-      "name": "Superluminal",
-      "url": "https://open.spotify.com/track/4DGpTIyJgbxL5k3Ka5GqOe"
-    },
-    {
-      "added_at": "2026-01-23 20:06:29",
-      "album": {
         "name": "Your Imagination",
         "url": "https://open.spotify.com/album/1yxnhDQIHEyFpuDjDJsQmY"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 237696,
       "name": "Your Imagination",
       "url": "https://open.spotify.com/track/0M0ac58ggq3FHG849kCfGR"
+    },
+    {
+      "added_at": "2026-01-23 20:06:29",
+      "album": {
+        "name": "Superluminal",
+        "url": "https://open.spotify.com/album/6FPhibUXT8Y0f6RwfKJUII"
+      },
+      "artists": [
+        {
+          "name": "Au5",
+          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
+        }
+      ],
+      "duration_ms": 328890,
+      "name": "Superluminal",
+      "url": "https://open.spotify.com/track/4DGpTIyJgbxL5k3Ka5GqOe"
     },
     {
       "added_at": "2026-01-23 20:06:29",
@@ -2131,6 +2131,26 @@
     {
       "added_at": "2026-01-23 20:06:29",
       "album": {
+        "name": "Who Am I Now",
+        "url": "https://open.spotify.com/album/2POM1L7zMqtNorwBow3iAY"
+      },
+      "artists": [
+        {
+          "name": "Synymata",
+          "url": "https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC"
+        },
+        {
+          "name": "GLNNA",
+          "url": "https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Who Am I Now",
+      "url": "https://open.spotify.com/track/1ojE0p2PApAkCkRYaPlK5Q"
+    },
+    {
+      "added_at": "2026-01-23 20:06:29",
+      "album": {
         "name": "Champagne (feat. Dia Frampton)",
         "url": "https://open.spotify.com/album/5VnfM3oQTV3OEC2Uq7ssUc"
       },
@@ -2171,46 +2191,6 @@
     {
       "added_at": "2026-01-23 20:06:29",
       "album": {
-        "name": "Who Am I Now",
-        "url": "https://open.spotify.com/album/2POM1L7zMqtNorwBow3iAY"
-      },
-      "artists": [
-        {
-          "name": "Synymata",
-          "url": "https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC"
-        },
-        {
-          "name": "GLNNA",
-          "url": "https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Who Am I Now",
-      "url": "https://open.spotify.com/track/1ojE0p2PApAkCkRYaPlK5Q"
-    },
-    {
-      "added_at": "2026-01-23 20:06:29",
-      "album": {
-        "name": "Meet Me In The Middle",
-        "url": "https://open.spotify.com/album/0Wmc5Dl0zjqmdM1LoEEfor"
-      },
-      "artists": [
-        {
-          "name": "Fells",
-          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
-        },
-        {
-          "name": "Joe Jury",
-          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
-        }
-      ],
-      "duration_ms": 215238,
-      "name": "Meet Me In The Middle",
-      "url": "https://open.spotify.com/track/5OKgJEB1FKe4CGctSNkdNS"
-    },
-    {
-      "added_at": "2026-01-23 20:06:29",
-      "album": {
         "name": "Made For",
         "url": "https://open.spotify.com/album/6YEB4gTyYiACoJsBkYCRiS"
       },
@@ -2231,6 +2211,26 @@
       "duration_ms": 200869,
       "name": "Made For",
       "url": "https://open.spotify.com/track/3wPIAfjNvZqSDdyEU95gxI"
+    },
+    {
+      "added_at": "2026-01-23 20:06:29",
+      "album": {
+        "name": "Meet Me In The Middle",
+        "url": "https://open.spotify.com/album/0Wmc5Dl0zjqmdM1LoEEfor"
+      },
+      "artists": [
+        {
+          "name": "Fells",
+          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
+        },
+        {
+          "name": "Joe Jury",
+          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
+        }
+      ],
+      "duration_ms": 215238,
+      "name": "Meet Me In The Middle",
+      "url": "https://open.spotify.com/track/5OKgJEB1FKe4CGctSNkdNS"
     },
     {
       "added_at": "2026-01-23 20:06:29",
@@ -2491,18 +2491,22 @@
     {
       "added_at": "2026-01-23 20:06:29",
       "album": {
-        "name": "BELIEVE",
-        "url": "https://open.spotify.com/album/2iRvLo03yulw11E2Xf28xV"
+        "name": "Ghost Of You",
+        "url": "https://open.spotify.com/album/4d3lCs0FJglGcfHk3Y5Fl5"
       },
       "artists": [
         {
-          "name": "Soar",
-          "url": "https://open.spotify.com/artist/3HCdCKVvXJakGRbVRO5OTa"
+          "name": "Aye Bay",
+          "url": "https://open.spotify.com/artist/1dnTg6OI3AEhdIm92lRTeQ"
+        },
+        {
+          "name": "ELLE",
+          "url": "https://open.spotify.com/artist/5K1ZFSz0mDAkV4vrQ3dhbv"
         }
       ],
-      "duration_ms": 224004,
-      "name": "BELIEVE",
-      "url": "https://open.spotify.com/track/6c9A7TfPI6fRi57duK7sN4"
+      "duration_ms": 222439,
+      "name": "Ghost Of You",
+      "url": "https://open.spotify.com/track/6Jr7tFzGk5BEviGER0MGLp"
     },
     {
       "added_at": "2026-01-23 20:06:29",
@@ -2527,42 +2531,18 @@
     {
       "added_at": "2026-01-23 20:06:29",
       "album": {
-        "name": "Ghost Of You",
-        "url": "https://open.spotify.com/album/4d3lCs0FJglGcfHk3Y5Fl5"
+        "name": "BELIEVE",
+        "url": "https://open.spotify.com/album/2iRvLo03yulw11E2Xf28xV"
       },
       "artists": [
         {
-          "name": "Aye Bay",
-          "url": "https://open.spotify.com/artist/1dnTg6OI3AEhdIm92lRTeQ"
-        },
-        {
-          "name": "ELLE",
-          "url": "https://open.spotify.com/artist/5K1ZFSz0mDAkV4vrQ3dhbv"
+          "name": "Soar",
+          "url": "https://open.spotify.com/artist/3HCdCKVvXJakGRbVRO5OTa"
         }
       ],
-      "duration_ms": 222439,
-      "name": "Ghost Of You",
-      "url": "https://open.spotify.com/track/6Jr7tFzGk5BEviGER0MGLp"
-    },
-    {
-      "added_at": "2026-01-23 20:06:29",
-      "album": {
-        "name": "COPE",
-        "url": "https://open.spotify.com/album/5ft63ve9l4E71Bxm4IKw3R"
-      },
-      "artists": [
-        {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
-        },
-        {
-          "name": "babyidontlikeyou",
-          "url": "https://open.spotify.com/artist/0vvLUDvumHN2BRVL0ks8Uq"
-        }
-      ],
-      "duration_ms": 218557,
-      "name": "Taste of Your Tongue",
-      "url": "https://open.spotify.com/track/2FutQIWvLmm9BG55Hmr4cR"
+      "duration_ms": 224004,
+      "name": "BELIEVE",
+      "url": "https://open.spotify.com/track/6c9A7TfPI6fRi57duK7sN4"
     },
     {
       "added_at": "2026-01-23 20:06:29",
@@ -2583,6 +2563,26 @@
       "duration_ms": 238508,
       "name": "Cycles",
       "url": "https://open.spotify.com/track/5wD1R8jJ3OkmO77LzKFYFV"
+    },
+    {
+      "added_at": "2026-01-23 20:06:29",
+      "album": {
+        "name": "COPE",
+        "url": "https://open.spotify.com/album/5ft63ve9l4E71Bxm4IKw3R"
+      },
+      "artists": [
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "babyidontlikeyou",
+          "url": "https://open.spotify.com/artist/0vvLUDvumHN2BRVL0ks8Uq"
+        }
+      ],
+      "duration_ms": 218557,
+      "name": "Taste of Your Tongue",
+      "url": "https://open.spotify.com/track/2FutQIWvLmm9BG55Hmr4cR"
     },
     {
       "added_at": "2026-01-23 20:06:29",
@@ -2631,26 +2631,6 @@
     {
       "added_at": "2026-01-23 20:06:29",
       "album": {
-        "name": "Levity",
-        "url": "https://open.spotify.com/album/6WrK7cLohU7vs79TQkS5BX"
-      },
-      "artists": [
-        {
-          "name": "Au5",
-          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
-        },
-        {
-          "name": "Psyuri",
-          "url": "https://open.spotify.com/artist/1sVcH2QZWGjqsNxyJ9EyBb"
-        }
-      ],
-      "duration_ms": 367297,
-      "name": "Levity",
-      "url": "https://open.spotify.com/track/3tghcsSswAYbDNb6zGmyVw"
-    },
-    {
-      "added_at": "2026-01-23 20:06:29",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/46bnObxinMvPMfuvTZ5hQr"
       },
@@ -2667,6 +2647,26 @@
       "duration_ms": 186885,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7CSmSTEKY5eKPqQY3ClZfV"
+    },
+    {
+      "added_at": "2026-01-23 20:06:29",
+      "album": {
+        "name": "Levity",
+        "url": "https://open.spotify.com/album/6WrK7cLohU7vs79TQkS5BX"
+      },
+      "artists": [
+        {
+          "name": "Au5",
+          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
+        },
+        {
+          "name": "Psyuri",
+          "url": "https://open.spotify.com/artist/1sVcH2QZWGjqsNxyJ9EyBb"
+        }
+      ],
+      "duration_ms": 367297,
+      "name": "Levity",
+      "url": "https://open.spotify.com/track/3tghcsSswAYbDNb6zGmyVw"
     },
     {
       "added_at": "2026-01-23 20:06:29",
@@ -2727,6 +2727,22 @@
     {
       "added_at": "2026-01-23 20:06:29",
       "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/5Jpu4lho05hT7fScnpfJvX"
+      },
+      "artists": [
+        {
+          "name": "JVNA",
+          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
+        }
+      ],
+      "duration_ms": 179555,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/46vr4fqso9XW3PTm2vBwwO"
+    },
+    {
+      "added_at": "2026-01-23 20:06:29",
+      "album": {
         "name": "Better Than Me",
         "url": "https://open.spotify.com/album/6SDLZ901Tlo9Cxa1wmnAIb"
       },
@@ -2747,18 +2763,18 @@
     {
       "added_at": "2026-01-23 20:06:29",
       "album": {
-        "name": "Dance With Me",
-        "url": "https://open.spotify.com/album/5Jpu4lho05hT7fScnpfJvX"
+        "name": "Decode",
+        "url": "https://open.spotify.com/album/45zM62K1e1DemouQXUeMcq"
       },
       "artists": [
         {
-          "name": "JVNA",
-          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
+          "name": "Luci",
+          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
         }
       ],
-      "duration_ms": 179555,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/46vr4fqso9XW3PTm2vBwwO"
+      "duration_ms": 245121,
+      "name": "Decode",
+      "url": "https://open.spotify.com/track/7rIwKyrIqS0qpAC5muabLF"
     },
     {
       "added_at": "2026-01-23 20:06:29",
@@ -2783,22 +2799,6 @@
       "duration_ms": 192000,
       "name": "STARLIGHT",
       "url": "https://open.spotify.com/track/1pq0fjYwWtYhWrTNjkVCs7"
-    },
-    {
-      "added_at": "2026-01-23 20:06:29",
-      "album": {
-        "name": "Decode",
-        "url": "https://open.spotify.com/album/45zM62K1e1DemouQXUeMcq"
-      },
-      "artists": [
-        {
-          "name": "Luci",
-          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
-        }
-      ],
-      "duration_ms": 245121,
-      "name": "Decode",
-      "url": "https://open.spotify.com/track/7rIwKyrIqS0qpAC5muabLF"
     },
     {
       "added_at": "2026-01-23 20:06:29",
@@ -2951,22 +2951,18 @@
     {
       "added_at": "2026-01-23 20:06:29",
       "album": {
-        "name": "All We Need",
-        "url": "https://open.spotify.com/album/46pgGtx7kSYsDqXeLVQgCd"
+        "name": "Have My Heart",
+        "url": "https://open.spotify.com/album/1e5tRNrGZCUmKyXgf9AIqt"
       },
       "artists": [
         {
-          "name": "Axel Boy",
-          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
-        },
-        {
-          "name": "Princess Superstar",
-          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+          "name": "N3WPORT",
+          "url": "https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8"
         }
       ],
-      "duration_ms": 252000,
-      "name": "All We Need",
-      "url": "https://open.spotify.com/track/0RREnEZetqn1UjcPaLQBBU"
+      "duration_ms": 164785,
+      "name": "Have My Heart",
+      "url": "https://open.spotify.com/track/33lIbOLfF200gictVibk9O"
     },
     {
       "added_at": "2026-01-23 20:06:29",
@@ -3007,22 +3003,6 @@
     {
       "added_at": "2026-01-23 20:06:29",
       "album": {
-        "name": "Have My Heart",
-        "url": "https://open.spotify.com/album/1e5tRNrGZCUmKyXgf9AIqt"
-      },
-      "artists": [
-        {
-          "name": "N3WPORT",
-          "url": "https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8"
-        }
-      ],
-      "duration_ms": 164785,
-      "name": "Have My Heart",
-      "url": "https://open.spotify.com/track/33lIbOLfF200gictVibk9O"
-    },
-    {
-      "added_at": "2026-01-23 20:06:29",
-      "album": {
         "name": "I Miss You",
         "url": "https://open.spotify.com/album/4oArT2bJZlrdvoqMh5Q4bK"
       },
@@ -3043,6 +3023,26 @@
       "duration_ms": 269333,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/1dfkSVQn5Pwct72NkmKZMG"
+    },
+    {
+      "added_at": "2026-01-23 20:06:29",
+      "album": {
+        "name": "All We Need",
+        "url": "https://open.spotify.com/album/46pgGtx7kSYsDqXeLVQgCd"
+      },
+      "artists": [
+        {
+          "name": "Axel Boy",
+          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "All We Need",
+      "url": "https://open.spotify.com/track/0RREnEZetqn1UjcPaLQBBU"
     },
     {
       "added_at": "2026-01-23 20:06:29",

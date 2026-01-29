@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs.
 
-173 songs - 8 hr 30 min
+174 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Jigra](https://open.spotify.com/track/6h3ILDHEDee8YlsZhfMIjB) | [Veeru Dhillon](https://open.spotify.com/artist/1hbfMFEmQzs0FxhIwWXe5g), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob) | [Jigra](https://open.spotify.com/album/3Pc84tRg4Y6XNlGsAEZf5n) | 3:07 | 2023-07-24 | 2023-12-23 |
 | [Kah Diye](https://open.spotify.com/track/1DX4Pj3IGtk7LvcVPC6Eoo) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Kah Diye](https://open.spotify.com/album/0kJS7CuXrnhACry2ULRFhu) | 2:39 | 2023-07-24 |  |
 | [Kaise Ho](https://open.spotify.com/track/755TxDwuygXwSW8BCcMvn0) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Shiva Choudhary](https://open.spotify.com/artist/3KOSRNy74RLnTAFn0u1tmN) | [Kaise Ho](https://open.spotify.com/album/37KYjd8gX11FQnSYLbmUPc) | 3:29 | 2026-01-14 |  |
+| [KNL To LHR](https://open.spotify.com/track/7aaGOceIZaUaVGKzU4ZTfP) | [Prince Jamba](https://open.spotify.com/artist/6RDhaAavmBlrZKUqJ8YvJy), [Sameer](https://open.spotify.com/artist/6GITDzZHqhL9AuVVjHQFG7), [Brown Beats](https://open.spotify.com/artist/5oWrsQDyCV8GKaWikhwPfk) | [KNL To LHR](https://open.spotify.com/album/4eLwKIAxknztWvHmLMVl0x) | 2:23 | 2026-01-20 |  |
 | [Koi Na](https://open.spotify.com/track/64qn5oeo6Dcrur3dsu0gsJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Uchana Amit](https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Koi Na](https://open.spotify.com/album/7106si82R8FQw7KApQKk2n) | 2:39 | 2023-12-22 |  |
 | [Laash Dikh Jagi](https://open.spotify.com/track/2M6ODDrTfCzG12dBwbQaOS) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Swara Verma](https://open.spotify.com/artist/1p8AG9V0Y60vhvdYdRbxqn) | [Laash Dikh Jagi](https://open.spotify.com/album/7rfQyabA0isF063nrnTEtq) | 2:24 | 2025-09-29 | 2025-11-16 |
 | [Lala Lori](https://open.spotify.com/track/7r48j4khJzIT2uqcIU33ax) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Lala Lori](https://open.spotify.com/album/594NRt70OyoHOUljG5CBiy) | 2:40 | 2023-07-24 |  |
@@ -159,7 +160,7 @@
 | [Takkar](https://open.spotify.com/track/4FykPEBDvdSby4OA5CfUqS) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Music Nasha](https://open.spotify.com/artist/6YvJWewMypP77lmdqRMMkB) | [Nuke](https://open.spotify.com/album/0agmnQzKZ1aKvC4eSFau14) | 2:41 | 2025-02-10 | 2025-03-19 |
 | [Target](https://open.spotify.com/track/3dMIUgx4oCPjBlOtN8X7Z0) | [Mavrix](https://open.spotify.com/artist/3ivej5P51jgZiJKDNfZd11) | [Target](https://open.spotify.com/album/1c2n4BfMREowVQJ5sr1CmW) | 2:45 | 2023-07-24 | 2024-01-06 |
 | [Target 2](https://open.spotify.com/track/6TiXW1QTLAoRGqFmIw2SgL) | [Mavrix](https://open.spotify.com/artist/3ivej5P51jgZiJKDNfZd11), [Duhan Muzic](https://open.spotify.com/artist/2uuKzuZ3JZXuMhUkYyS0xz) | [Target 2](https://open.spotify.com/album/7MwOyeoMdqiA2SJYXLMahp) | 2:30 | 2023-10-03 | 2023-11-10 |
-| [Tedhe Chaalak](https://open.spotify.com/track/5EXNgdixf4572ATdvnSdXL) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Tedhe Chaalak](https://open.spotify.com/album/48e53D1ZHIh0EfVpCySju6) | 3:16 | 2024-02-22 |  |
+| [Tedhe Chaalak](https://open.spotify.com/track/5EXNgdixf4572ATdvnSdXL) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Tedhe Chaalak](https://open.spotify.com/album/48e53D1ZHIh0EfVpCySju6) | 3:16 | 2024-02-22 | 2026-01-29 |
 | [Tha Tha](https://open.spotify.com/track/3NCTkRAJLcSK0OMyuomlAs) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf) | [Tha Tha](https://open.spotify.com/album/48tF1dtmzFTUflbODkZ6UO) | 2:49 | 2023-07-24 |  |
 | [The Villagers](https://open.spotify.com/track/2x7iprCTkTR7WcTRkCLFBr) | [Sumit Goswami](https://open.spotify.com/artist/7h79JnwJEjrnCCyGrxTdZM), [Jerry](https://open.spotify.com/artist/68hoiPmCjy1S0Ioe0l1lT7) | [The Villagers](https://open.spotify.com/album/5VRPx5fbREQVJ9lNApySLV) | 3:03 | 2023-07-24 | 2023-11-10 |
 | [Things We Do](https://open.spotify.com/track/7yHpwPG691Bi52Lta0HtFj) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Things We Do](https://open.spotify.com/album/4PmrsxOsKa6wgwXK07Nz4k) | 2:50 | 2024-04-30 | 2025-02-16 |

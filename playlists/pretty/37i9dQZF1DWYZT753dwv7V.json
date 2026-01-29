@@ -1,6 +1,6 @@
 {
   "description": "I pi\u00f9 grandi successi della storia del festival \ud83c\udfc6 ",
-  "num_followers": 101606,
+  "num_followers": 101601,
   "original_name": "Sanremo: La Storia",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
+        "name": "Pensami Per Te",
+        "url": "https://open.spotify.com/album/3i6vpMk0xhgOvpkX7cEOXq"
+      },
+      "artists": [
+        {
+          "name": "Anna Oxa",
+          "url": "https://open.spotify.com/artist/6iuybPv0Mii8x21mztjaUN"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Quando nasce un amore",
+      "url": "https://open.spotify.com/track/57J7lg7C1IZRxvA13J1nhw"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
         "name": "Vorrei incontrarti fra cent'anni",
         "url": "https://open.spotify.com/album/1WOdMrMh0SxUThs0XM6WP5"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 236560,
       "name": "Vorrei incontrarti fra cent'anni (feat. Tosca)",
       "url": "https://open.spotify.com/track/6Y2tQcPJaknHKY0RLH3jaf"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
-        "name": "Pensami Per Te",
-        "url": "https://open.spotify.com/album/3i6vpMk0xhgOvpkX7cEOXq"
-      },
-      "artists": [
-        {
-          "name": "Anna Oxa",
-          "url": "https://open.spotify.com/artist/6iuybPv0Mii8x21mztjaUN"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "Quando nasce un amore",
-      "url": "https://open.spotify.com/track/57J7lg7C1IZRxvA13J1nhw"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Miss Nostalgia",
-        "url": "https://open.spotify.com/album/6W5jqg5IfSVX0KeT6nG0TH"
-      },
-      "artists": [
-        {
-          "name": "Stadio",
-          "url": "https://open.spotify.com/artist/4zf0kIjnzqjWlI3Eaw5VlA"
-        }
-      ],
-      "duration_ms": 244746,
-      "name": "Un Giorno Mi Dirai",
-      "url": "https://open.spotify.com/track/4FIZpPI4oCuAfK6emmC77c"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Fai rumore",
         "url": "https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 216140,
       "name": "Fai rumore",
       "url": "https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Miss Nostalgia",
+        "url": "https://open.spotify.com/album/6W5jqg5IfSVX0KeT6nG0TH"
+      },
+      "artists": [
+        {
+          "name": "Stadio",
+          "url": "https://open.spotify.com/artist/4zf0kIjnzqjWlI3Eaw5VlA"
+        }
+      ],
+      "duration_ms": 244746,
+      "name": "Un Giorno Mi Dirai",
+      "url": "https://open.spotify.com/track/4FIZpPI4oCuAfK6emmC77c"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Ornella Vanoni",
-        "url": "https://open.spotify.com/album/4iYQlJ7fVg5kBcJb30CCiR"
-      },
-      "artists": [
-        {
-          "name": "Ornella Vanoni",
-          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "La musica e' finita",
-      "url": "https://open.spotify.com/track/32qXoBe0jtIaqjd97ofKTo"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Sulla Mia Pelle",
         "url": "https://open.spotify.com/album/5iVI155wEcVAS0fa9uLkc3"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 192053,
       "name": "Per tutta la vita",
       "url": "https://open.spotify.com/track/6zcEnCS2mCYsv9nL356TYY"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Ornella Vanoni",
+        "url": "https://open.spotify.com/album/4iYQlJ7fVg5kBcJb30CCiR"
+      },
+      "artists": [
+        {
+          "name": "Ornella Vanoni",
+          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "La musica e' finita",
+      "url": "https://open.spotify.com/track/32qXoBe0jtIaqjd97ofKTo"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "VOCE",
-        "url": "https://open.spotify.com/album/4vkLfhpx6NCW76ZVXAjKTZ"
-      },
-      "artists": [
-        {
-          "name": "Madame",
-          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
-        }
-      ],
-      "duration_ms": 211410,
-      "name": "VOCE",
-      "url": "https://open.spotify.com/track/1eIS75JS5rfbJpSu6ZC9EO"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Per sentirmi vivo",
         "url": "https://open.spotify.com/album/5owbVnzLpbq9SlftvHXjTa"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 179079,
       "name": "Per sentirmi vivo",
       "url": "https://open.spotify.com/track/5U3ln41nbhztweY70Mv5b3"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "VOCE",
+        "url": "https://open.spotify.com/album/4vkLfhpx6NCW76ZVXAjKTZ"
+      },
+      "artists": [
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "duration_ms": 211410,
+      "name": "VOCE",
+      "url": "https://open.spotify.com/track/1eIS75JS5rfbJpSu6ZC9EO"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Mai Dire Mai (La Locura)",
-        "url": "https://open.spotify.com/album/6Ly8jC23vIa4evVzICvZRu"
-      },
-      "artists": [
-        {
-          "name": "Willie Peyote",
-          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
-        }
-      ],
-      "duration_ms": 208664,
-      "name": "Mai Dire Mai (La Locura)",
-      "url": "https://open.spotify.com/track/4jmvkbDw0cuWD2Fi9VswFQ"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Endrigo (1968)",
         "url": "https://open.spotify.com/album/2HUcliwNVmeS7kS2tpQmF8"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 215880,
       "name": "Canzone per te",
       "url": "https://open.spotify.com/track/7dLmy2KzDJYGIxfFoJIcMX"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Mai Dire Mai (La Locura)",
+        "url": "https://open.spotify.com/album/6Ly8jC23vIa4evVzICvZRu"
+      },
+      "artists": [
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        }
+      ],
+      "duration_ms": 208664,
+      "name": "Mai Dire Mai (La Locura)",
+      "url": "https://open.spotify.com/track/4jmvkbDw0cuWD2Fi9VswFQ"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
+        "name": "Amare",
+        "url": "https://open.spotify.com/album/7qTcq0GsKKoC0dVy5hnbJU"
+      },
+      "artists": [
+        {
+          "name": "La rappresentante di lista",
+          "url": "https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU"
+        }
+      ],
+      "duration_ms": 200733,
+      "name": "Amare",
+      "url": "https://open.spotify.com/track/4oeFVHLTmTRbvWOk68cetc"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
         "name": "Tutto Al Bano",
         "url": "https://open.spotify.com/album/6qafxVsxR0Cotcny5z1cdk"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 226439,
       "name": "Nostalgia canaglia",
       "url": "https://open.spotify.com/track/14K0I2XngCqxazt1EfJkZj"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
-        "name": "Amare",
-        "url": "https://open.spotify.com/album/7qTcq0GsKKoC0dVy5hnbJU"
-      },
-      "artists": [
-        {
-          "name": "La rappresentante di lista",
-          "url": "https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU"
-        }
-      ],
-      "duration_ms": 200733,
-      "name": "Amare",
-      "url": "https://open.spotify.com/track/4oeFVHLTmTRbvWOk68cetc"
     },
     {
       "added_at": "2026-01-25 23:01:06",

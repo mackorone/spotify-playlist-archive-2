@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,207 likes - 151 songs - 8 hr 37 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,209 likes - 155 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 103 | [Atardece](https://open.spotify.com/track/6ZoIVFXievvmKj8Mjz0dai) | [SONORAMiCOS](https://open.spotify.com/artist/5I0mPJBSGW6E9sbrwOfKCE) | [Atardece / Beben Sangre](https://open.spotify.com/album/2oE9ftWsPX9rumd8LuIBuq) | 4:05 |
 | 104 | [Three woman in jail](https://open.spotify.com/track/47Hbxy6DYS21ZjwcujRtMh) | [Aton O'Cat](https://open.spotify.com/artist/7ieJ9uNgDXeg3GzVcI1oMm), [Goran Vedriš](https://open.spotify.com/artist/3o1XYZQEkAhsOaYuz87ojd) | [Three woman in jail](https://open.spotify.com/album/35tCEptF8FdvmYdza8vIWx) | 2:55 |
 | 105 | [Les livres de Marion](https://open.spotify.com/track/5Bjf4hqznBHRPJDAFMhddF) | [Jagas](https://open.spotify.com/artist/4nAbDrow4N3vQoqUrSrCIk) | [Les livres de Marion](https://open.spotify.com/album/4ifJdAEsCDjmBpw8h6SNo7) | 3:56 |
-| 106 | [Crying \(HARDER\) At The Discothèque.](https://open.spotify.com/track/5p07LhnFP7OhYYEX73eMjD) | [Travie Austin](https://open.spotify.com/artist/059jVWIqXVJvAskIuJyScN) | [Crying \(HARDER\) At The Discothèque.](https://open.spotify.com/album/1z1ug5OlTgCk25NEub0htE) | 3:52 |
+| 106 | [Crying \(HARDER\) At The Discothèque.](https://open.spotify.com/track/5p07LhnFP7OhYYEX73eMjD) | [Travie Austin](https://open.spotify.com/artist/059jVWIqXVJvAskIuJyScN) | [Crying \(HARDER\) At The Discothèque.](https://open.spotify.com/album/1z1ug5OlTgCk25NEub0htE) | 3:53 |
 | 107 | [Görmeseydim](https://open.spotify.com/track/3e0L8kr4FZusJbyTnufoly) | [Sefa Gümüştakım](https://open.spotify.com/artist/68pWu4Vj6PfXu7B2qYCavq) | [Görmeseydim](https://open.spotify.com/album/55pul9AWZslDTdcAduIu1u) | 2:37 |
 | 108 | [Algo Tranqui](https://open.spotify.com/track/6QgPvRXLjwJNKflsm6YIBv) | [CHRISTIAN GRAND](https://open.spotify.com/artist/0Jy7k1rljCzZoaqXs5Cjxd) | [Destellos en la Noche](https://open.spotify.com/album/1Zo3M98fNKzuBUrG7tUKSU) | 2:50 |
 | 109 | [Leave Am for God](https://open.spotify.com/track/6Bgzjd17rmYVFEWFJjOBor) | [Skyl Panameraa](https://open.spotify.com/artist/0QW6dSzw0EqIIBQJrGq1Kd) | [Leave Am for God](https://open.spotify.com/album/0minRiEpEzErTfC28mfINM) | 3:06 |
@@ -159,5 +159,9 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 149 | [That Smile](https://open.spotify.com/track/1NObtMTvbDsSMCt8L59PL9) | [Lazy Shades](https://open.spotify.com/artist/608g4cifhC4HRIOb3GkKm6) | [That Smile](https://open.spotify.com/album/04hjWXlo3PK3FJwdlPjtfI) | 4:32 |
 | 150 | [Beautiful Fear](https://open.spotify.com/track/2Q5xpVC50J31TqReHVIWk0) | [Lillibet](https://open.spotify.com/artist/5y9NYCtVotuZjlA8wkPoDe) | [Beautiful Fear](https://open.spotify.com/album/2sAtb468bjoRr9YJsvSnpD) | 3:52 |
 | 151 | [Love Her More](https://open.spotify.com/track/4p1VQaTKVZ9xiFIrJp6r6l) | [Lillibet](https://open.spotify.com/artist/5y9NYCtVotuZjlA8wkPoDe) | [Love Her More](https://open.spotify.com/album/1cl88xbBUhyzAS41UF6Obp) | 4:11 |
+| 152 | [Pick Up The Phone](https://open.spotify.com/track/0qtiw8duA3223Ra48ORunD) | [Hard To Miss](https://open.spotify.com/artist/4hRymrneFOk2xnFNrerPLR) | [Pick Up The Phone](https://open.spotify.com/album/6p9rLyli7GEmQvEdr20MT9) | 4:25 |
+| 153 | [illa decepció](https://open.spotify.com/track/51X9bZSiveQplTV3MlCDSr) | [Poco Conocido](https://open.spotify.com/artist/7ntIURZ0oU1m26QJfTldC4), [Mireia](https://open.spotify.com/artist/0bTGBppQWjrEa9rMqqxaW6) | [illa decepció](https://open.spotify.com/album/2Tng19Eufe43pN0dFX15zE) | 3:09 |
+| 154 | [En tus redes \(otra vez\)](https://open.spotify.com/track/74hH8NUMsrKDZHQTLob2Zg) | [Sincronía](https://open.spotify.com/artist/5qviewf0sIZBp3q1knGgs3) | [En tus redes \(otra vez\)](https://open.spotify.com/album/7lGTmgtvA3HWrC4K1gePEy) | 2:49 |
+| 155 | [Toxic Trait](https://open.spotify.com/track/34KZgwr2aDJQSeclVpdKB6) | [ItsRosieQuartz](https://open.spotify.com/artist/6PtNGny2c7sJblEprhD8PF) | [Toxic Trait](https://open.spotify.com/album/0c4tXSpPZgmfezbQiri3q4) | 2:45 |
 
-Snapshot ID: `AAAP1txSSVMqlkUcFZpGOryr+e5Xt4h4`
+Snapshot ID: `AAAP2skHY+Mfqs0MWPJZ4mobsqMuwYT+`

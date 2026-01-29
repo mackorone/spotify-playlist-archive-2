@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,168 songs - 20 day 18 hr 28 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,170 songs - 20 day 18 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8176,5 +8176,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8166 | [Remember Me](https://open.spotify.com/track/3WIDl36fLnnhoLrw9EGAcq) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Break and Cross the Walls Ⅰ](https://open.spotify.com/album/4CNuDNkR09yVWSzhbTNLv6) | 4:50 |
 | 8167 | [Dark Crow](https://open.spotify.com/track/5aJg39ukLHsiCtCwoIHcF3) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Dark Crow](https://open.spotify.com/album/1Rny5KOdByNfkZ9ww76NfT) | 4:38 |
 | 8168 | [Raise your flag](https://open.spotify.com/track/0zz23sDNfQ0onyVh80GwqF) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [The World's On Fire](https://open.spotify.com/album/3YrPHd8CGlPBfLG4FgmQVy) | 4:07 |
+| 8169 | [Dead End in Tokyo](https://open.spotify.com/track/4SsITFDlndwk8qQHTr4edv) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Chasing the Horizon](https://open.spotify.com/album/4y9CcT0uoNVxUhjq2ku0bX) | 3:41 |
+| 8170 | [Chasing the Horizon](https://open.spotify.com/track/1EtE4bXLLtxL0Lf1nntQRf) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Chasing the Horizon](https://open.spotify.com/album/4y9CcT0uoNVxUhjq2ku0bX) | 4:17 |
 
-Snapshot ID: `AAAKdOUBx2b91eJkxSqlKrwitPL5MIci`
+Snapshot ID: `AAAKedpNKCwDEjFOEGD5zje19k5D+7II`

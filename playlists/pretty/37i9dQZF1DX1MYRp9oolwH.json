@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Raja Saab",
-  "num_followers": 163913,
+  "num_followers": 164017,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMkc0EDIKUBUGZ7P43ixQhXEw6al",
+  "snapshot_id": "AAAAACkCkDPi+JKbKQkTV20r2QZiFz3b",
   "tracks": [
     {
       "added_at": "2025-12-17 13:09:33",
@@ -239,6 +239,26 @@
       "duration_ms": 240101,
       "name": "Nuvvunte Chaley (From \"Andhra King Taluka\")",
       "url": "https://open.spotify.com/track/24wSWZLoKMRZvJVbxHkKMg"
+    },
+    {
+      "added_at": "2026-01-28 06:39:08",
+      "album": {
+        "name": "Alalai Egise",
+        "url": "https://open.spotify.com/album/0h3eypk6BfTytKLKSP2e5f"
+      },
+      "artists": [
+        {
+          "name": "Nikkhil Bareli",
+          "url": "https://open.spotify.com/artist/4qe3u7JRknAx2vAM8E6BMm"
+        },
+        {
+          "name": "Pritam Wath",
+          "url": "https://open.spotify.com/artist/35pAMT6KMB0UvU9lfI5d3s"
+        }
+      ],
+      "duration_ms": 232880,
+      "name": "Alalai Egise",
+      "url": "https://open.spotify.com/track/7IMy6SqkgbIDg0tsNM3Fs1"
     },
     {
       "added_at": "2026-01-08 07:24:18",
@@ -647,30 +667,6 @@
       "duration_ms": 232000,
       "name": "Hello Ani",
       "url": "https://open.spotify.com/track/2YvNpKwCrPvfvhWA9s0Idx"
-    },
-    {
-      "added_at": "2025-04-16 03:48:23",
-      "album": {
-        "name": "Darsanamey (From \"Nari Nari Naduma Murari\")",
-        "url": "https://open.spotify.com/album/3Fa85cAkVuB6nc1yWAyAUA"
-      },
-      "artists": [
-        {
-          "name": "Vishal Chandrashekhar",
-          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
-        },
-        {
-          "name": "YAZIN",
-          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
-        },
-        {
-          "name": "Saraswati Putra Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
-        }
-      ],
-      "duration_ms": 241200,
-      "name": "Darsanamey (From \"Nari Nari Naduma Murari\")",
-      "url": "https://open.spotify.com/track/60puehJxKv05JPITtHLvAc"
     },
     {
       "added_at": "2025-06-03 05:36:27",

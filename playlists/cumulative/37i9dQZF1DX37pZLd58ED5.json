@@ -637,6 +637,24 @@
     },
     {
       "album": {
+        "name": "APPOSTA X TE",
+        "url": "https://open.spotify.com/album/7qDnF7nyDS8tIrhLdIgx5L"
+      },
+      "artists": [
+        {
+          "name": "DOBRO",
+          "url": "https://open.spotify.com/artist/12MCNZ3FEHpQtCYYHIRwNI"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "APPOSTA X TE",
+      "url": "https://open.spotify.com/track/5bsw3l44gczX0hsLdopIci"
+    },
+    {
+      "album": {
         "name": "Aria Tesa",
         "url": "https://open.spotify.com/album/2wjV4itXdtzlxlN2QxwO2b"
       },
@@ -3710,7 +3728,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 146597,
       "name": "MEZZALUNA (feat. Marte)",
       "url": "https://open.spotify.com/track/73o0Hy1lndBQj3aCzvVr0j"
@@ -3952,7 +3970,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 192611,
       "name": "Momenti No",
       "url": "https://open.spotify.com/track/4IxM8LopMS2014C2LTJEYu"
@@ -4873,6 +4891,24 @@
     },
     {
       "album": {
+        "name": "PER SENTIRMI ADATTO",
+        "url": "https://open.spotify.com/album/7qlMO1OIjjwYD4ERwMZq3R"
+      },
+      "artists": [
+        {
+          "name": "Ciro AMORE",
+          "url": "https://open.spotify.com/artist/0gHvXoRSFCRlbgkAgSXtP4"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196965,
+      "name": "PER SENTIRMI ADATTO",
+      "url": "https://open.spotify.com/track/0NGU0fn89wEQisihc82r9Y"
+    },
+    {
+      "album": {
         "name": "Perdersi",
         "url": "https://open.spotify.com/album/7LXaxcuY0jHmP4Ii8hj8E5"
       },
@@ -5178,6 +5214,24 @@
       "duration_ms": 155200,
       "name": "Respiro",
       "url": "https://open.spotify.com/track/31ePh9rOTkIERrloY8BUUc"
+    },
+    {
+      "album": {
+        "name": "Resta Ancora Un Po'",
+        "url": "https://open.spotify.com/album/5Yy72IJnQKirTKQ54lZBpO"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147162,
+      "name": "Resta Ancora Un Po'",
+      "url": "https://open.spotify.com/track/48zY2jicewpCnYEnWtrPPn"
     },
     {
       "album": {
@@ -6244,7 +6298,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 170322,
       "name": "VERE VISIONI (feat. Luch\u00e8)",
       "url": "https://open.spotify.com/track/1Zn7sCfLr8dkAzGjpDlmIW"

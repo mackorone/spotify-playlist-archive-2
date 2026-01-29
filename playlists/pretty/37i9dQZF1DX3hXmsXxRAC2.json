@@ -1,6 +1,6 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 358842,
+  "num_followers": 358873,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Juan Gabriel y Lo Mas Romantico De",
-        "url": "https://open.spotify.com/album/2nC10KHMdLet5RLY2FRN4v"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Te Lo Pido por Favor",
-      "url": "https://open.spotify.com/track/55kXjMfJUBYt4GahHegcUG"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "Ska a La Carta",
         "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 270860,
       "name": "Yo No Naci Para Amar",
       "url": "https://open.spotify.com/track/7qQMiNcXYmkx6G3sZ5ljDm"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Juan Gabriel y Lo Mas Romantico De",
+        "url": "https://open.spotify.com/album/2nC10KHMdLet5RLY2FRN4v"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Te Lo Pido por Favor",
+      "url": "https://open.spotify.com/track/55kXjMfJUBYt4GahHegcUG"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/5WunOHdzIYAbG6uu6sFlWL"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 188480,
-      "name": "Fue Un Placer Conocerte",
-      "url": "https://open.spotify.com/track/3EcuE8L4CBYZUlDgb9GZXU"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "Amor Eterno al Divo / Tributo de Rock",
         "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 223493,
       "name": "Caray",
       "url": "https://open.spotify.com/track/3SfJvKD71vxorr1phTNFAR"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/5WunOHdzIYAbG6uu6sFlWL"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 188480,
+      "name": "Fue Un Placer Conocerte",
+      "url": "https://open.spotify.com/track/3EcuE8L4CBYZUlDgb9GZXU"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Amor Eterno al Divo / Tributo de Rock",
-        "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
-      },
-      "artists": [
-        {
-          "name": "Los Planetas",
-          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Juro Que Nunca Volvere",
-      "url": "https://open.spotify.com/track/0ybUnNE1MzWWDnsB9MCyJo"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "Peerless 80 Aniversario - 24 Exitos",
         "url": "https://open.spotify.com/album/5NetKEnPRXzPzj9J7evLpK"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 205985,
       "name": "Yo no nac\u00ed para amar",
       "url": "https://open.spotify.com/track/51fiVIBxLbXLnT9hPg8UBp"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Amor Eterno al Divo / Tributo de Rock",
+        "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
+      },
+      "artists": [
+        {
+          "name": "Los Planetas",
+          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Juro Que Nunca Volvere",
+      "url": "https://open.spotify.com/track/0ybUnNE1MzWWDnsB9MCyJo"
     },
     {
       "added_at": "2024-07-02 23:46:15",

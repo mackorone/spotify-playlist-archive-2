@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Swarathma
 
-613 songs - 1 day 11 hr 0 min
+614 songs - 1 day 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Dark](https://open.spotify.com/track/65IhQPkC4vz6a8ApcYrfG7) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09), [Kritarth](https://open.spotify.com/artist/4RzDP3bbciwBv8dMmSFWXW) | [Dark](https://open.spotify.com/album/2ugY39NzlA62g1Ct0jT5aH) | 1:53 | 2025-02-26 | 2025-07-23 |
 | [Dark Side](https://open.spotify.com/track/3WfZFECvaHHGgLiRjgj0ze) | [Sagar Gowda](https://open.spotify.com/artist/7gTnN6gHfJ4BqHA6yyz3U9) | [Dark Side](https://open.spotify.com/album/4QCGjjxgY4SjDNvmNJWK1D) | 3:20 | 2025-07-16 | 2025-12-19 |
 | [Dear Nikki](https://open.spotify.com/track/1nq7A0Za0wROknaJE2IsJu) | [Ajay Aj](https://open.spotify.com/artist/5hW9LgJwAYfPjr1LTeTpBV) | [Dear Nikki](https://open.spotify.com/album/1ZgGzdKQbbycNovfxMWqFh) | 3:29 | 2024-12-06 | 2025-04-29 |
-| [Desi Naari](https://open.spotify.com/track/4L6RuaCgSOnd5SyLTOpQKF) | [Pratham Kathare](https://open.spotify.com/artist/6OZn7BoAKutsXDPCN490rw) | [Desi Naari](https://open.spotify.com/album/5GKXlpKoXac3knHKajzLOQ) | 2:35 | 2025-09-15 |  |
+| [Desi Naari](https://open.spotify.com/track/4L6RuaCgSOnd5SyLTOpQKF) | [Pratham Kathare](https://open.spotify.com/artist/6OZn7BoAKutsXDPCN490rw) | [Desi Naari](https://open.spotify.com/album/5GKXlpKoXac3knHKajzLOQ) | 2:35 | 2025-09-15 | 2026-01-29 |
 | [Desi Naari](https://open.spotify.com/track/2fj7hVFUFrFT3VhrAs2HxT) | [Pratham Kathare](https://open.spotify.com/artist/6OZn7BoAKutsXDPCN490rw) | [Desi Naari](https://open.spotify.com/album/507cvA4QfGx4QzHUZBJuT6) | 2:35 | 2026-01-21 |  |
 | [Devathe](https://open.spotify.com/track/3ZXXhJW1YazmSPzvjKefUf) | [Ajay Aj](https://open.spotify.com/artist/5hW9LgJwAYfPjr1LTeTpBV), [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Devathe](https://open.spotify.com/album/4DeH8ab6MWaXJMWVuZkG7p) | 2:43 | 2024-02-14 | 2024-02-17 |
 | [Dhwamsa](https://open.spotify.com/track/6sJAKF9UaERL7YrtKZRA02) | [Mohith Gowda](https://open.spotify.com/artist/2DAJsSSNE1YOAW5GB42RuJ), [Yxung Miller](https://open.spotify.com/artist/2j2wfGvDhaAR8RVqjzlLpS) | [Dhwamsa](https://open.spotify.com/album/7gfsBikbTwo0UhYsWoKWzp) | 2:55 | 2025-05-30 | 2025-11-11 |
@@ -201,6 +201,7 @@
 | [Hey Driver Ni Nanna Lover](https://open.spotify.com/track/2ipAtn4D1d7SeHf2UFBID7) | [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx), [Trupti Uk Singer](https://open.spotify.com/artist/2SGoL6BKOPX2XUfaxj6Dt4), [Dj Sagar Rbg](https://open.spotify.com/artist/5KnADowrXi4jni5TWAuCR1) | [Hey Driver Ni Nanna Lover](https://open.spotify.com/album/5mM28MXmGyotFWLCHQOkjb) | 6:23 | 2025-11-03 |  |
 | [Hey Hudugi](https://open.spotify.com/track/0mnJiv632SWqhGLWBF5CqY) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Hey Hudugi](https://open.spotify.com/album/5b8NzCPa17gUURnPMhCcr8) | 3:11 | 2024-06-11 | 2024-12-20 |
 | [Hey Nalle](https://open.spotify.com/track/6Iw6LNeRsjDGMrCRqR8Xxo) | [Shreyas Shetty](https://open.spotify.com/artist/0HoV7hquGIujUeBi085UZH) | [Hey Nalle](https://open.spotify.com/album/2QshlvOsfTzmOPhO5T6LJF) | 3:11 | 2025-04-11 | 2025-11-05 |
+| [Hey Nanna Jeeva](https://open.spotify.com/track/6Cv3CSs5W7CvP3V4BHcJgQ) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [NJ](https://open.spotify.com/artist/2958axlyMQi2Fc2NQyt2cH) | [Hey Nanna Jeeva](https://open.spotify.com/album/32OXZN5deMozsjjyMkEqvm) | 2:28 | 2026-01-28 |  |
 | [Hey Sanchari](https://open.spotify.com/track/5EFBhOebY0wOUibTgQH5TN) | [Aravind Murali](https://open.spotify.com/artist/3ECpBraKrmQ1TUA3tkHZxy), [Sunil BT](https://open.spotify.com/artist/7j6hk5uHFzlXaxtI6R0Qm9) | [Hey Sanchari](https://open.spotify.com/album/5x59vdpuiqqxXP2JT5BA4S) | 3:22 | 2023-03-06 | 2023-10-07 |
 | [Hey Snehithe](https://open.spotify.com/track/1vy1wvjZnGRy2jmI05n3C2) | [Manasa Holla](https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL), [Prarthana MA](https://open.spotify.com/artist/6OL8EER7m5R0WJYu1VMcvf), [Vihaan Arya](https://open.spotify.com/artist/3aV5EPIDyxtPmDe0PLaj7G), [Aneesh Poojari](https://open.spotify.com/artist/5HPROpmWawOVZh7atmOalE) | [Hey Snehithe](https://open.spotify.com/album/01RPjbea2bSnh45A4QJ9tH) | 2:37 | 2024-03-04 | 2024-08-03 |
 | [HIPHOP](https://open.spotify.com/track/1naJJfT4WLPlVQvVCcj3cX) | [Arhan A Betur](https://open.spotify.com/artist/737rFWCotTGOPjpllN6Kw4), [S.P.B](https://open.spotify.com/artist/3eEet8yyGoxJjIKViRe7Gf), [Dc](https://open.spotify.com/artist/4MSTmygJyxqNPi05sBuSUC) | [HIPHOP](https://open.spotify.com/album/6i9bSupZ4l5mJtfs7vBqa0) | 2:35 | 2025-12-15 |  |

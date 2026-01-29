@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: 千葉雄喜 \*毎週更新
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,165 likes - 84 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,181 likes - 84 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [アニョハセヨ](https://open.spotify.com/track/79o6CP5pgfHARPPXRHOcBN) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [アニョハセヨ](https://open.spotify.com/album/2Vxwq1HTQ54jYHyinyIgWl) | 1:56 |
+| 1 | [アニョハセヨ](https://open.spotify.com/track/79o6CP5pgfHARPPXRHOcBN) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy) | [アニョハセヨ](https://open.spotify.com/album/2Vxwq1HTQ54jYHyinyIgWl) | 1:56 |
 | 2 | [HIROYUKI](https://open.spotify.com/track/1fcaGbxLLS9Dq6EXTMQ69V) | [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2) | [HIROYUKI](https://open.spotify.com/album/1V87HPCwWmX8NPtZDDMH9y) | 2:26 |
 | 3 | [Kabukimono](https://open.spotify.com/track/4EkfUCeJdOuwh45nm6ZQsh) | [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Wataru](https://open.spotify.com/album/6gfdpeoCwQlU5zrGaJ9mMx) | 2:45 |
 | 4 | [Mornin'26](https://open.spotify.com/track/1gMJ26Vii9ZpqWLPUYMIGn) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [Mornin'26](https://open.spotify.com/album/01O5fklEpSlKQcchjYPJyg) | 3:33 |
-| 5 | [Late Night step \(feat\. BIM\)](https://open.spotify.com/track/2yabxW9OpHSgXmgo434gpU) | [JuggrixhSentana](https://open.spotify.com/artist/3ijoOXa68U7MRSFIw3JnVP), [Bim](https://open.spotify.com/artist/259rnRrfdMyP0cHmbLYoYl) | [Late Night step \(feat\. BIM\)](https://open.spotify.com/album/2ZlNUEojjt77OwZhpos3HE) | 2:44 |
-| 6 | [Ride Remix \(feat\. IO\)](https://open.spotify.com/track/2xowEfMazyKWkMGPUCaM72) | [SWEE](https://open.spotify.com/artist/01rnISQaxa1W2jWpzzS8yx), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [Ride Remix \(feat\. IO\)](https://open.spotify.com/album/0tszxEUKldzRspJnTACvLK) | 4:33 |
+| 5 | [Late Night step \(feat\. BIM\)](https://open.spotify.com/track/2yabxW9OpHSgXmgo434gpU) | [JuggrixhSentana](https://open.spotify.com/artist/3ijoOXa68U7MRSFIw3JnVP), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Late Night step \(feat\. BIM\)](https://open.spotify.com/album/2ZlNUEojjt77OwZhpos3HE) | 2:44 |
+| 6 | [Ride \(feat\. IO\) \- Remix](https://open.spotify.com/track/2xowEfMazyKWkMGPUCaM72) | [SWEE](https://open.spotify.com/artist/01rnISQaxa1W2jWpzzS8yx), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [Ride \(feat\. IO\) \[Remix\]](https://open.spotify.com/album/0tszxEUKldzRspJnTACvLK) | 4:33 |
 | 7 | [Tell Me How It Goes](https://open.spotify.com/track/1pIsFTEz8mGw8VBzh7vtlI) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Tell Me How It Goes](https://open.spotify.com/album/0b196yyH4aO0CCRb5m1zMP) | 3:25 |
 | 8 | [Stay With Me](https://open.spotify.com/track/3GVSPTF6hkjISzWNDbWfpM) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [Stay With Me](https://open.spotify.com/album/6QW9pw5fNadRfVp6Gg8SpF) | 2:57 |
 | 9 | [WE SWAG](https://open.spotify.com/track/6ZZlbNwlY2cnFEA8aYOtKQ) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [GENIUS](https://open.spotify.com/album/6zL17Eyx4I0bTGtToAaulZ) | 2:51 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 50 | [Wax On Wax Off \(feat\. R\-指定, NENE, 鎮座DOPENESS & C.O.S.A.\) \[\-Japan Remix\-\]](https://open.spotify.com/track/34JggEOSRwhBnBU0CXCQn3) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn), [R\-Shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [Chinza Dopeness](https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [Okinawan Wuman](https://open.spotify.com/album/2uISnRUJM9lnew7KyI3z9z) | 4:14 |
 | 51 | [音沙汰](https://open.spotify.com/track/2dyv2uaKNQBPUiajaKQ5sR) | [REAL\-T](https://open.spotify.com/artist/6qupcgiWamRwRaYyiysUEP) | [善悪](https://open.spotify.com/album/3yyQgRUdgQ3bFNiYSvasot) | 2:55 |
 | 52 | [Keep My Soul](https://open.spotify.com/track/1FKHePj7qUyMFbtH50NbqX) | [YungFLX](https://open.spotify.com/artist/4602NT3AQtVUISnd0cSXSe) | [Keep My Soul](https://open.spotify.com/album/70P3Oz1g6EWn3vof6BPd9K) | 3:10 |
-| 53 | [Curry Lassi](https://open.spotify.com/track/3OOf00mTPGEJGwgSykeq8e) | [TORAUMA](https://open.spotify.com/artist/7GMarWA8YCRXDfR4ETdU3U), [bbls](https://open.spotify.com/artist/6p8BYrLLRy2Nq42SuGUq6I) | [](https://open.spotify.com/album/null) | 2:34 |
+| 53 | [Curry Lassi](https://open.spotify.com/track/3OOf00mTPGEJGwgSykeq8e) | [TORAUMA](https://open.spotify.com/artist/7GMarWA8YCRXDfR4ETdU3U), [bbls](https://open.spotify.com/artist/6p8BYrLLRy2Nq42SuGUq6I) | [Smog Contrast](https://open.spotify.com/album/34K2t9ElTo2sQdIzB0reTn) | 2:34 |
 | 54 | [Meanwhile](https://open.spotify.com/track/1izCka8WF3DTLPnoQb4Dv0) | [Nosh](https://open.spotify.com/artist/6fjyAMQcYpVJje2zWlYH5q), [Senninsho](https://open.spotify.com/artist/36KtDuRQm38x36q30tnqOD) | [MORFH](https://open.spotify.com/album/2gW8HOrTH8g48V0NJtHf75) | 2:28 |
 | 55 | [0000](https://open.spotify.com/track/6RjybEGkjLTRmhuWUlupUe) | [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2) | [0000](https://open.spotify.com/album/5tjfxtDazA8voJOe1n5ibn) | 3:22 |
 | 56 | [REBIRTH OF NOISE](https://open.spotify.com/track/4gy9Ls1QfSjlkM2g49c6rG) | [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba) | [REBIRTH OF NOISE](https://open.spotify.com/album/3QizXjQOdwUOKfqz4A53f3) | 3:18 |

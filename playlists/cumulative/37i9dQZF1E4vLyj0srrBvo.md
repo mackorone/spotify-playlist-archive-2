@@ -2,7 +2,7 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Mareux, Phantogram, Sky Ferreira and more
+> With Phantogram, Sky Ferreira, Mareux and more
 
 1,840 songs - 4 day 17 hr 20 min
 

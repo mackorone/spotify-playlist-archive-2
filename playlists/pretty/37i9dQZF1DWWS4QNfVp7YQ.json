@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 98401,
+  "num_followers": 98430,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
+        "name": "Zapatear",
+        "url": "https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s"
+      },
+      "artists": [
+        {
+          "name": "Los Dutis",
+          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
+        }
+      ],
+      "duration_ms": 162049,
+      "name": "Zapatear",
+      "url": "https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
         "name": "vaMos",
         "url": "https://open.spotify.com/album/4nrtKr0c1QbQDyr8llymgr"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 171432,
       "name": "vaMos",
       "url": "https://open.spotify.com/track/4bgV7f02Yt2wIdKRVwVYSn"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "Zapatear",
-        "url": "https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s"
-      },
-      "artists": [
-        {
-          "name": "Los Dutis",
-          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
-        }
-      ],
-      "duration_ms": 162049,
-      "name": "Zapatear",
-      "url": "https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -927,18 +927,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "BATEA",
-        "url": "https://open.spotify.com/album/3NTBnvRtqF6FAJrOUaDpUp"
+        "name": "El \u00daltimo",
+        "url": "https://open.spotify.com/album/4m9Jf47ukqLNRzP637iD7p"
       },
       "artists": [
         {
-          "name": "XAVO",
-          "url": "https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM"
+          "name": "El Catorce",
+          "url": "https://open.spotify.com/artist/6H6TCcvnAB8osBeV7r3hbc"
+        },
+        {
+          "name": "Syztema",
+          "url": "https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1"
         }
       ],
-      "duration_ms": 143024,
-      "name": "BATEA",
-      "url": "https://open.spotify.com/track/61NpEwPUbobMiJ9cWgsDDb"
+      "duration_ms": 300522,
+      "name": "Kombat",
+      "url": "https://open.spotify.com/track/5q666odbjHkdLrDUIq88ax"
     }
   ],
   "unique_name": "Fiesta Tribal",

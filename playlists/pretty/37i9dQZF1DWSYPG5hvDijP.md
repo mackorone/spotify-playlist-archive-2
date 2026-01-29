@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Panther
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,378 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,390 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 9 | [Jaane De](https://open.spotify.com/track/1c7tgNICUvHoZQbLiTmLQQ) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW) | [Jaane De](https://open.spotify.com/album/4zEihtGp7dZf3XYAHEXI40) | 3:52 |
 | 10 | [Street Smart](https://open.spotify.com/track/5FYzK9MhW1OcxhT1LkuNAB) | [Rudra](https://open.spotify.com/artist/44MHzAVFBiPecgQaxHNPxy), [Gravity](https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO), [Parallax Beatz](https://open.spotify.com/artist/07bqba2Xrt4mYpGnNmqFdk) | [Street Smart](https://open.spotify.com/album/3ttJxk75gL8WKYvbVlVGlc) | 3:08 |
 | 11 | [Makaan](https://open.spotify.com/track/2o1ipIaYWshaBhbayqNpep) | [DEETOCX](https://open.spotify.com/artist/47NZwnzAbq5fRaObML4tn3), [Farhan Khan](https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy) | [Heartbreak Manual](https://open.spotify.com/album/7gXEGlBu7eglaGIixLhcVC) | 3:00 |
-| 12 | [Awaaz Kam](https://open.spotify.com/track/0nwGtRHXoweqaASd8leFFj) | [OG Lucifer](https://open.spotify.com/artist/4JZ2uZ41sx2hqx7TcwM18g), [DL91 Era](https://open.spotify.com/artist/3mWqCmX0xuzBJN648XSBrE), [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy) | [Poore Dil Se!](https://open.spotify.com/album/0WzUC2dO7D0VZFisepYYoX) | 3:39 |
+| 12 | [Awaaz Kam](https://open.spotify.com/track/0nwGtRHXoweqaASd8leFFj) | [OG Lucifer](https://open.spotify.com/artist/4JZ2uZ41sx2hqx7TcwM18g), [DL91 Era](https://open.spotify.com/artist/3mWqCmX0xuzBJN648XSBrE), [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy), [RiJ](https://open.spotify.com/artist/5zAGfUsWeJgswvM18wXx2y) | [Poore Dil Se!](https://open.spotify.com/album/0WzUC2dO7D0VZFisepYYoX) | 3:39 |
 | 13 | [PARCHA KHOL](https://open.spotify.com/track/5sznjJwt1R072wptYBppaL) | [WANT3D](https://open.spotify.com/artist/2rmTXxI6P6lSp6Sud6moZo), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG) | [PARCHA KHOL](https://open.spotify.com/album/3Aa9c8Zby6UA3AeKGnw8ot) | 3:39 |
 | 14 | [NO CONTRACT?](https://open.spotify.com/track/3DsGQZoBRKyaAaEy6J0dCG) | [99side](https://open.spotify.com/artist/269bxxEYnNM4N0Iizy2dL7), [Rofflala](https://open.spotify.com/artist/5fZxDD1wLAoesdL1uEpDqi) | [NO CONTRACT?](https://open.spotify.com/album/6zcJZy0uc8MwOQkjEKtjVq) | 9:00 |
 | 15 | [Kachi Keri](https://open.spotify.com/track/3qm1pm8ckvLXghGTJPOyVW) | [wardhan](https://open.spotify.com/artist/2OAtsddM5PcYlvKdidW4CO), [ecame](https://open.spotify.com/artist/7i2Vr5FZgv5BqUjHmQuCvE) | [Kachi Keri](https://open.spotify.com/album/4W4x1HfPC03OljqBhEveZt) | 2:08 |

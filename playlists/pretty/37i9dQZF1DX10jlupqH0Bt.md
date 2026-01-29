@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 
 > Solfeggio tones to harmonise & synchronise with, used for meditation and sleep
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,818 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,906 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 | 74 | [Awaken Intuition 852 Hz](https://open.spotify.com/track/6Jzbjzh35veENZnGS7yJJH) | [Takiyo](https://open.spotify.com/artist/0NZ4KsYEIFxpEP7Go3gvI1) | [Awaken Intuition 852 Hz](https://open.spotify.com/album/6a2tKm9yJM7wWR9Qy3mAqs) | 3:13 |
 | 75 | [Mahaanata 852 Hz](https://open.spotify.com/track/4PaR3RgsVFFpY6gUmXOhHh) | [Silver Roses](https://open.spotify.com/artist/1D4JTnffy0RUs0yeRKNSUT) | [Mahaanata 852 Hz](https://open.spotify.com/album/6OmX3MIam0deV9w15JIMHO) | 2:18 |
 
-Snapshot ID: `AAAAANUmEFI4U8lq+c9n4pAv2BN0gttY`
+Snapshot ID: `AAAAAA6GMG/XiWE6wYH9sdxuNrhslNqo`

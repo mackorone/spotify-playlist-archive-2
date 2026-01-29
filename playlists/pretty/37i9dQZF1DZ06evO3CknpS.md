@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CknpS.md) - [plain]
 
 > This is Clara Rockmore\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,704 likes - 26 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,703 likes - 26 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CknpS.md) - [plain]
 | 25 | [Theremin Concerto](https://open.spotify.com/track/164RuJFLGfWUnvLPZaoDEH) | [Anis Fuleihan](https://open.spotify.com/artist/5gHoKuc3ZL5JlXOXJnyP9E), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [New York Symphony Orchestra](https://open.spotify.com/artist/2Ygb9yY45hoD9IZOFKAngE), [Leopold Stokowski](https://open.spotify.com/artist/52sDxFX9DvIxUupTy8f1yx) | [Ionisation \(1927\-1945\)](https://open.spotify.com/album/5UJsUtvJhH5n1YqHSSJ8sD) | 12:25 |
 | 26 | [Sonata for violin and piano in A major: Allegretto ben moderato](https://open.spotify.com/track/4wznvZut2lTTZwOjG6jJo6) | [César Franck](https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 6:41 |
 
-Snapshot ID: `aXaugAAAAADnI+GKvbuWkk02Z5PDCwth`
+Snapshot ID: `aXgAAAAAAACVoDBBQNsCRyr6H7DCKk7B`

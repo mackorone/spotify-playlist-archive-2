@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 
 ### [Gospel Christmas](https://open.spotify.com/playlist/37i9dQZF1DWSnpLW9iux5M)
 
-> Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists\. Cover: Yolanda Adams
+> Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists\. Cover: Jonathan McReynolds
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,290 likes - 150 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,276 likes - 150 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 50 | [O Little Town of Bethlehem](https://open.spotify.com/track/68edTo4Prl09iToMTtqanW) | [Mahalia Jackson](https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB) | [Silent Night: Songs For Christmas](https://open.spotify.com/album/5xInXUBHp3zpSTpwUsgvmp) | 3:54 |
 | 51 | [King Of Glory](https://open.spotify.com/track/0PY75pHIWpk2hbBYMA4de7) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Christmassy](https://open.spotify.com/album/1pSwM6AgM5svFoacMh9WY1) | 2:23 |
 | 52 | [Someday At Christmas](https://open.spotify.com/track/0pS8XbINFfYdlFo8W8Z41L) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [At Christmas](https://open.spotify.com/album/3jmX3MSnMgdVtr8Lni0Sdt) | 3:20 |
-| 53 | [Red & Green](https://open.spotify.com/track/0OA9nGUWhcTXFjq70repQ0) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Red & Green](https://open.spotify.com/album/75zm0ijlN6oBLmd1i6l6F4) | 3:59 |
-| 54 | [Jesus What a Wonderful Child](https://open.spotify.com/track/0lhWmXuHinXh3CTXOVECEC) | [Dottie Peoples](https://open.spotify.com/artist/1te27TWYSqADLWW5ZDQfnb) | [Christmas With Dottie](https://open.spotify.com/album/6fgwFXYGyJ6XgCtxCjLKJU) | 4:15 |
+| 53 | [Jesus What a Wonderful Child](https://open.spotify.com/track/0lhWmXuHinXh3CTXOVECEC) | [Dottie Peoples](https://open.spotify.com/artist/1te27TWYSqADLWW5ZDQfnb) | [Christmas With Dottie](https://open.spotify.com/album/6fgwFXYGyJ6XgCtxCjLKJU) | 4:15 |
+| 54 | [Red & Green](https://open.spotify.com/track/0OA9nGUWhcTXFjq70repQ0) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Red & Green](https://open.spotify.com/album/75zm0ijlN6oBLmd1i6l6F4) | 3:59 |
 | 55 | [Oba Ti De \(The King Has Come\)](https://open.spotify.com/track/6xjVbr6rKmM1KIu0lvIDd9) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Oba Ti De \(The King Has Come\)](https://open.spotify.com/album/7b1uYXS3lvyK5mKOnE9hFH) | 2:30 |
 | 56 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/3GQ84gktFkyZjr8b8cfTZp) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Joyful, Joyful: A Christmas Album](https://open.spotify.com/album/4An2BQLzYuh01bcJGpDLKB) | 3:22 |
 | 57 | [Christmas Time Has Come](https://open.spotify.com/track/0JDniarTARP2tibPvHenUH) | [SSTEDI](https://open.spotify.com/artist/1VZIyB5EgFbnBlOlY8SgYK) | [Christmas Time Has Come](https://open.spotify.com/album/3VuMd0LgmyZAt5h5pQeF2V) | 3:11 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 88 | [Song For The Hopeful \(feat\. Kim Burrell\)](https://open.spotify.com/track/12cTeug1pE6zXTxZY5tJHj) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui) | 4:35 |
 | 89 | [Christmas Praise \- Live](https://open.spotify.com/track/5rOvqA7zdL4jliyUNHjgNN) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [One Place Live \(Deluxe Edition\)](https://open.spotify.com/album/6cfOOffNGtjSR7Ew3TRuZ8) | 2:17 |
 | 90 | [Hark The Herald](https://open.spotify.com/track/0YzRVtVxGDCFAyQTQIMAlu) | [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Leonard Ray Jarman](https://open.spotify.com/artist/6o1flHceho6J3t1Nhhn7Tt) | [Hark The Herald](https://open.spotify.com/album/1FNolT8ang3OSp618FeTHK) | 3:58 |
-| 91 | [It's Christmas Time](https://open.spotify.com/track/5uDhl3gqNb5HcqlgUIJTFk) | [Juanita Bynum](https://open.spotify.com/artist/7s6c1gQXQCakbFxmgKAQDV) | [Christmas at Home with Juanita Bynum](https://open.spotify.com/album/08EkN3rQ57rdy1IoKCR8HN) | 5:03 |
-| 92 | [Tell God Thank You](https://open.spotify.com/track/0fEHRLNtuI86lLu02JAXY5) | [Chicago Mass Choir](https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla) | [Tell God Thank You](https://open.spotify.com/album/3h17JxbTHEzTq55RXgA3DZ) | 3:38 |
+| 91 | [Tell God Thank You](https://open.spotify.com/track/0fEHRLNtuI86lLu02JAXY5) | [Chicago Mass Choir](https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla) | [Tell God Thank You](https://open.spotify.com/album/3h17JxbTHEzTq55RXgA3DZ) | 3:38 |
+| 92 | [It's Christmas Time](https://open.spotify.com/track/5uDhl3gqNb5HcqlgUIJTFk) | [Juanita Bynum](https://open.spotify.com/artist/7s6c1gQXQCakbFxmgKAQDV) | [Christmas at Home with Juanita Bynum](https://open.spotify.com/album/08EkN3rQ57rdy1IoKCR8HN) | 5:03 |
 | 93 | [Roses in December](https://open.spotify.com/track/3QZYZWP9qErMlBfyeRXiCU) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [Roses in December](https://open.spotify.com/album/2lPVyX24o1lDMysxnaXUmJ) | 3:18 |
 | 94 | [Back Home For Christmas](https://open.spotify.com/track/4Xng9dh4pebQMuPpEv8Vpe) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [For Christmas](https://open.spotify.com/album/50ZqgHJTyMexdhWLWPP9kB) | 3:00 |
 | 95 | [Angels](https://open.spotify.com/track/0uuyrPevtSSiBIzQHbuorK) | [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Elara Ford](https://open.spotify.com/artist/2EByR7Z7UjJbvdwWz4HQ54) | [Christmas My Way](https://open.spotify.com/album/04hcviaCUPiYHqqDrh41NY) | 2:46 |

@@ -1,12 +1,12 @@
 {
   "description": "Fijne muziek voor een rustige dag. Doe lekker kalm aan met deze easy going liedjes van Olivia Dean, Lewis Capaldi, Royel Otis en meer",
-  "num_followers": 158627,
+  "num_followers": 158612,
   "original_name": "Lazy Days | Easy Music ",
   "owner": {
     "name": "Digster Nederland",
     "url": "https://open.spotify.com/user/digsternl"
   },
-  "snapshot_id": "AAAvk5OluVm43NaqI+9rG+xj+b24qy0K",
+  "snapshot_id": "AAAvlQi1TvjvWYQx1/qh3Kl1uFsXrIv8",
   "tracks": [
     {
       "added_at": "2026-01-23 10:35:01",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/6JbakVstWcT88jIg5kUyXg"
     },
     {
+      "added_at": "2026-01-28 18:10:54",
+      "album": {
+        "name": "She",
+        "url": "https://open.spotify.com/album/5ctwYNecOlD65X81p0RHhl"
+      },
+      "artists": [
+        {
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+        }
+      ],
+      "duration_ms": 189550,
+      "name": "She",
+      "url": "https://open.spotify.com/track/4nidpqxJxWkpI1J1cQYIjX"
+    },
+    {
       "added_at": "2026-01-23 10:35:01",
       "album": {
         "name": "Talk To You (ft. Elton John)",
@@ -75,22 +91,6 @@
       "duration_ms": 317040,
       "name": "Talk To You (ft. Elton John)",
       "url": "https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5"
-    },
-    {
-      "added_at": "2026-01-23 10:35:01",
-      "album": {
-        "name": "Believer",
-        "url": "https://open.spotify.com/album/6Gy8bgQT87rQxCZGC7lkl2"
-      },
-      "artists": [
-        {
-          "name": "MICHA",
-          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
-        }
-      ],
-      "duration_ms": 167485,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/6zRsQkn99LTGcGAcgHYEMm"
     },
     {
       "added_at": "2026-01-23 10:35:01",
@@ -259,6 +259,22 @@
       "duration_ms": 190944,
       "name": "Palomino - From the Netflix Series \"Nobody Wants This\" Season 2",
       "url": "https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz"
+    },
+    {
+      "added_at": "2026-01-23 10:35:01",
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/6Gy8bgQT87rQxCZGC7lkl2"
+      },
+      "artists": [
+        {
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+        }
+      ],
+      "duration_ms": 167485,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/6zRsQkn99LTGcGAcgHYEMm"
     },
     {
       "added_at": "2026-01-23 10:35:01",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music from independent artists in the UK and Ireland\. Cover: Lande Hekt
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,016 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,021 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 61 | [My Ways](https://open.spotify.com/track/5boVX4jhz1htRqZ6sizZyd) | [Able Jack](https://open.spotify.com/artist/0s9Dslrduz0yWtORWMq4mH) | [YOU MADE A STAR](https://open.spotify.com/album/6o5kGZRvb7Q90P4q7yTl7a) | 2:32 |
 | 62 | [Still Finding Out How I Feel](https://open.spotify.com/track/6LTIzMsyEdY641Bw0TUcQk) | [GXDEON](https://open.spotify.com/artist/1rCgOeJXfV3Vo0EY5HhQez) | [WXNTER ballads](https://open.spotify.com/album/7DwcAUz05rocAeLn1aOdqn) | 2:33 |
 | 63 | [SO DIFFERENT](https://open.spotify.com/track/6ufzqKn7jDiJ7N28azmS8f) | [ICXN](https://open.spotify.com/artist/4sSWCS9Anbnw2MCtWW9LOj) | [IBRAHIM](https://open.spotify.com/album/7cbM0KhouAkTu96uvTrxdS) | 3:22 |
-| 64 | [stick around](https://open.spotify.com/track/3vlN3iZ0f0JkgqtFQPFZS8) | [AMEN.](https://open.spotify.com/artist/0mWexb2ewJaqNs1WqadN0z), [T1MI](https://open.spotify.com/artist/2MnqQwxoK97c977qZtnraJ) | [stick around](https://open.spotify.com/album/6qycPHP4VU2Wr2ztFZM7gL) | 2:36 |
+| 64 | [stick around](https://open.spotify.com/track/3vlN3iZ0f0JkgqtFQPFZS8) | [T1MI](https://open.spotify.com/artist/2MnqQwxoK97c977qZtnraJ), [AMEN.](https://open.spotify.com/artist/0mWexb2ewJaqNs1WqadN0z) | [stick around](https://open.spotify.com/album/6qycPHP4VU2Wr2ztFZM7gL) | 2:36 |
 | 65 | [Care 4 U](https://open.spotify.com/track/7nbbTQd2qGZ1vt801KUPla) | [Amber Malone](https://open.spotify.com/artist/1cvcAYbEvacr15ufgRYF7z) | [Care 4 U](https://open.spotify.com/album/0Lka6Q18uCgDEmD4Sp5HK7) | 4:08 |
 | 66 | [lkn up](https://open.spotify.com/track/4Q2dvEQj7r38SmcpFSv2PP) | [Mya Craig](https://open.spotify.com/artist/6OZAGWOtQOg40OjFl56WOu) | [lkn up](https://open.spotify.com/album/2pnbYqy01MuEoNSXuP9cfW) | 3:16 |
 | 67 | [Need a Moment](https://open.spotify.com/track/0XlkTuDHqNSfKd2MnjQ4GE) | [Kyra](https://open.spotify.com/artist/4IVDPbJrdHe1RQ4crCReBW) | [Need a Moment](https://open.spotify.com/album/0Rh1CSVMLEfnTOXEL4uPJu) | 3:29 |

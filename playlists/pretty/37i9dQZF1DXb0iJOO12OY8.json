@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd1d",
-  "num_followers": 211624,
+  "num_followers": 211615,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-01-08 23:00:06",
       "album": {
+        "name": "Sjarm\u00f8r (Beepolar)",
+        "url": "https://open.spotify.com/album/2AnzUlvs4pLnZ4RdawxOzD"
+      },
+      "artists": [
+        {
+          "name": "Problembarn",
+          "url": "https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx"
+        }
+      ],
+      "duration_ms": 163070,
+      "name": "Sjarm\u00f8r (Beepolar)",
+      "url": "https://open.spotify.com/track/6KRzKdnFjMabdStm61TQ13"
+    },
+    {
+      "added_at": "2026-01-08 23:00:06",
+      "album": {
         "name": "Ambassad\u00f8r",
         "url": "https://open.spotify.com/album/1DjkyWV85yWHHOhKYDtFou"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 169263,
       "name": "Ambassad\u00f8r",
       "url": "https://open.spotify.com/track/4Vrbv4EQ5kAsupUZRHHQvQ"
-    },
-    {
-      "added_at": "2026-01-08 23:00:06",
-      "album": {
-        "name": "Sjarm\u00f8r (Beepolar)",
-        "url": "https://open.spotify.com/album/2AnzUlvs4pLnZ4RdawxOzD"
-      },
-      "artists": [
-        {
-          "name": "Problembarn",
-          "url": "https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx"
-        }
-      ],
-      "duration_ms": 163070,
-      "name": "Sjarm\u00f8r (Beepolar)",
-      "url": "https://open.spotify.com/track/6KRzKdnFjMabdStm61TQ13"
     },
     {
       "added_at": "2026-01-08 23:00:06",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-01-08 23:00:06",
       "album": {
+        "name": "Ordner seg",
+        "url": "https://open.spotify.com/album/6SwY7z3rIsFXhpuutGdmEu"
+      },
+      "artists": [
+        {
+          "name": "3D",
+          "url": "https://open.spotify.com/artist/37BXAB8Czx0cPCBQ1323qU"
+        }
+      ],
+      "duration_ms": 175181,
+      "name": "Ordner seg",
+      "url": "https://open.spotify.com/track/55gyKCjFV2nKhuWjhF7ZR6"
+    },
+    {
+      "added_at": "2026-01-08 23:00:06",
+      "album": {
         "name": "Sjonglerer",
         "url": "https://open.spotify.com/album/7FulcP1O9xEbhtGsqcvkx2"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 174793,
       "name": "Sjonglerer",
       "url": "https://open.spotify.com/track/48lgNLaCCAGBilhLDTU4zw"
-    },
-    {
-      "added_at": "2026-01-08 23:00:06",
-      "album": {
-        "name": "Ordner seg",
-        "url": "https://open.spotify.com/album/6SwY7z3rIsFXhpuutGdmEu"
-      },
-      "artists": [
-        {
-          "name": "3D",
-          "url": "https://open.spotify.com/artist/37BXAB8Czx0cPCBQ1323qU"
-        }
-      ],
-      "duration_ms": 175181,
-      "name": "Ordner seg",
-      "url": "https://open.spotify.com/track/55gyKCjFV2nKhuWjhF7ZR6"
     },
     {
       "added_at": "2026-01-08 23:00:06",

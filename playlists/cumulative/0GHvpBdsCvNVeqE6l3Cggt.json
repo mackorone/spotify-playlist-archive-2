@@ -142,7 +142,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 144879,
       "name": "Blaa Blaa Blaa",
       "url": "https://open.spotify.com/track/7GzSgRpu452g0MHK4mezws"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 172800,
       "name": "Broken Trust",
       "url": "https://open.spotify.com/track/2KhIeTdnN8IebU3nXdiXqK"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 176446,
       "name": "Dream About You",
       "url": "https://open.spotify.com/track/7A7mxUsWWx3jyyakwNRb1V"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 244961,
       "name": "Dreamscape (\ub4dc\ub9bc\uc2a4\ucf00\uc774\ud504)",
       "url": "https://open.spotify.com/track/2We94z0XW0hf5ipTCQ4qjx"
@@ -474,7 +474,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 267418,
       "name": "Fears",
       "url": "https://open.spotify.com/track/566anSusXyhMzCP0sjTHmd"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 169734,
       "name": "GROWING",
       "url": "https://open.spotify.com/track/7zbLzzH7GOOAKcNtnr3hcR"
@@ -564,7 +564,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 179606,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/14gtvVSuPdEMjMEPzoZ3mo"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 253085,
       "name": "Kiss Me Before I Die",
       "url": "https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb"
@@ -852,7 +852,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 188065,
       "name": "Noir",
       "url": "https://open.spotify.com/track/3Z8OSx0kJcitYmfFqNszDy"
@@ -888,7 +888,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 220211,
       "name": "Open Mind - Radio Edit",
       "url": "https://open.spotify.com/track/1Th8P3kgdtBbjkrkUmLRfY"
@@ -1054,6 +1054,24 @@
       "duration_ms": 169653,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/0zmBrqMD9u1wZUqJLNynUi"
+    },
+    {
+      "album": {
+        "name": "Rumori di Felicit\u00e0",
+        "url": "https://open.spotify.com/album/6IylMld0SUGYQpBtCwna1f"
+      },
+      "artists": [
+        {
+          "name": "DREANN",
+          "url": "https://open.spotify.com/artist/0F1JM34Bsg9sH9sPyh7hFX"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203929,
+      "name": "Sei qualcosa di pi\u00f9",
+      "url": "https://open.spotify.com/track/0AMRBYq1MSMhHfPrbfzizr"
     },
     {
       "album": {
@@ -1386,7 +1404,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 179610,
       "name": "Where Is My Home",
       "url": "https://open.spotify.com/track/0kYZ5XvU9ko9zC5z4Z9quM"

@@ -1,6 +1,6 @@
 {
   "description": "These shoes are not made for running, they just look nice for the playlist cover.",
-  "num_followers": 639125,
+  "num_followers": 639168,
   "original_name": "Rock 'n' Run",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-10-08 12:05:02",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Hash Pipe",
-      "url": "https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn"
-    },
-    {
-      "added_at": "2024-10-08 12:05:02",
-      "album": {
         "name": "Billy Talent II",
         "url": "https://open.spotify.com/album/0cTOvcvrbNiaiv4WXEUHzT"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 198173,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/2RZWdE8kYPlCAcRUYDeuLC"
+    },
+    {
+      "added_at": "2024-10-08 12:05:02",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "Hash Pipe",
+      "url": "https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn"
     },
     {
       "added_at": "2024-10-08 12:05:02",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-10-08 12:05:02",
       "album": {
-        "name": "Get Lost, Find Yourself",
-        "url": "https://open.spotify.com/album/5jAkJlpRcL7CGmBcApdNjW"
-      },
-      "artists": [
-        {
-          "name": "Chunk! No, Captain Chunk!",
-          "url": "https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h"
-        }
-      ],
-      "duration_ms": 209693,
-      "name": "The Other Line",
-      "url": "https://open.spotify.com/track/3eoEriMHjKEpyNa2BFmdSm"
-    },
-    {
-      "added_at": "2024-10-08 12:05:02",
-      "album": {
         "name": "The Mindsweep",
         "url": "https://open.spotify.com/album/3q8PS1Zkx3a0Zo6Ld2L1d7"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2024-10-08 12:05:02",
       "album": {
-        "name": "Panic Vertigo - EP",
-        "url": "https://open.spotify.com/album/3rhcRidkGZFMGbnshUj7Qm"
+        "name": "Get Lost, Find Yourself",
+        "url": "https://open.spotify.com/album/5jAkJlpRcL7CGmBcApdNjW"
       },
       "artists": [
         {
-          "name": "The Wrecks",
-          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
+          "name": "Chunk! No, Captain Chunk!",
+          "url": "https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h"
         }
       ],
-      "duration_ms": 198668,
-      "name": "James Dean",
-      "url": "https://open.spotify.com/track/3KYA5PWMNOHa7ouykwXMgx"
+      "duration_ms": 209693,
+      "name": "The Other Line",
+      "url": "https://open.spotify.com/track/3eoEriMHjKEpyNa2BFmdSm"
     },
     {
       "added_at": "2024-10-08 12:05:02",
@@ -1079,6 +1063,22 @@
       "duration_ms": 204973,
       "name": "Hung Up",
       "url": "https://open.spotify.com/track/1W3fMkViHndp2kv7PQNfAQ"
+    },
+    {
+      "added_at": "2024-10-08 12:05:02",
+      "album": {
+        "name": "Panic Vertigo - EP",
+        "url": "https://open.spotify.com/album/3rhcRidkGZFMGbnshUj7Qm"
+      },
+      "artists": [
+        {
+          "name": "The Wrecks",
+          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
+        }
+      ],
+      "duration_ms": 198668,
+      "name": "James Dean",
+      "url": "https://open.spotify.com/track/3KYA5PWMNOHa7ouykwXMgx"
     },
     {
       "added_at": "2024-10-08 12:05:02",

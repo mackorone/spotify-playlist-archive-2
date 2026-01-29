@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. ",
-  "num_followers": 195853,
+  "num_followers": 195846,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-01-26 08:37:45",
       "album": {
-        "name": "Sy dig p\u00e5 mig",
-        "url": "https://open.spotify.com/album/5J5BIqMdGumz71DhWNUtEA"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 222549,
-      "name": "Sy dig p\u00e5 mig",
-      "url": "https://open.spotify.com/track/5SVi1gx0aaCMfUD45TTdGS"
-    },
-    {
-      "added_at": "2026-01-26 08:37:45",
-      "album": {
         "name": "It's A Sin",
         "url": "https://open.spotify.com/album/69jnd8KXGiAkG8FDkox8nE"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 280786,
       "name": "It's A Sin",
       "url": "https://open.spotify.com/track/5e97Z51SUopBbANmwBBkSq"
+    },
+    {
+      "added_at": "2026-01-26 08:37:45",
+      "album": {
+        "name": "Sy dig p\u00e5 mig",
+        "url": "https://open.spotify.com/album/5J5BIqMdGumz71DhWNUtEA"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 222549,
+      "name": "Sy dig p\u00e5 mig",
+      "url": "https://open.spotify.com/track/5SVi1gx0aaCMfUD45TTdGS"
     },
     {
       "added_at": "2026-01-26 08:37:45",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-01-26 08:37:45",
       "album": {
+        "name": "isby sessions",
+        "url": "https://open.spotify.com/album/5LojPgU3MLaPLbD200sVSx"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 162703,
+      "name": "inte tillsammans (find you) - isby sessions",
+      "url": "https://open.spotify.com/track/0zP0wKwZQOTSu8wnMwSuhH"
+    },
+    {
+      "added_at": "2026-01-26 08:37:45",
+      "album": {
         "name": "Hos dig \u00e4r jag stark",
         "url": "https://open.spotify.com/album/71CzIZ2fzyriXJf5kVI9Tj"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 187183,
       "name": "Hos dig \u00e4r jag stark",
       "url": "https://open.spotify.com/track/0L7nPD6GbbEGI5KdN2scId"
-    },
-    {
-      "added_at": "2026-01-26 08:37:45",
-      "album": {
-        "name": "isby sessions",
-        "url": "https://open.spotify.com/album/5LojPgU3MLaPLbD200sVSx"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 162703,
-      "name": "inte tillsammans (find you) - isby sessions",
-      "url": "https://open.spotify.com/track/0zP0wKwZQOTSu8wnMwSuhH"
     },
     {
       "added_at": "2026-01-26 08:37:45",
@@ -871,6 +871,26 @@
     {
       "added_at": "2026-01-26 08:37:45",
       "album": {
+        "name": "Get It Over",
+        "url": "https://open.spotify.com/album/5o7I5gyXLPgw0uPP1zpvy8"
+      },
+      "artists": [
+        {
+          "name": "Yukimi",
+          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 196314,
+      "name": "Get It Over",
+      "url": "https://open.spotify.com/track/5sJUrTiOlAdoKO8V81spAv"
+    },
+    {
+      "added_at": "2026-01-26 08:37:45",
+      "album": {
         "name": "Vi som \u00e4r natten",
         "url": "https://open.spotify.com/album/5SDri3EpV6HYCoyPLdtyeL"
       },
@@ -903,26 +923,6 @@
     {
       "added_at": "2026-01-26 08:37:45",
       "album": {
-        "name": "Get It Over",
-        "url": "https://open.spotify.com/album/5o7I5gyXLPgw0uPP1zpvy8"
-      },
-      "artists": [
-        {
-          "name": "Yukimi",
-          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
-        },
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 196314,
-      "name": "Get It Over",
-      "url": "https://open.spotify.com/track/5sJUrTiOlAdoKO8V81spAv"
-    },
-    {
-      "added_at": "2026-01-26 08:37:45",
-      "album": {
         "name": "okej att d\u00f6 (igen) [isby sessions]",
         "url": "https://open.spotify.com/album/49z0pbm3qLBInFJ1DiaQeC"
       },
@@ -951,6 +951,26 @@
       "duration_ms": 191558,
       "name": "Till evigheten",
       "url": "https://open.spotify.com/track/5awpE3fWEAIjvzqvKn82eF"
+    },
+    {
+      "added_at": "2026-01-26 08:37:45",
+      "album": {
+        "name": "Vintersaga (feat. Erik Lundin)",
+        "url": "https://open.spotify.com/album/2AUyGofzojnDNVclq5IaM8"
+      },
+      "artists": [
+        {
+          "name": "Deportees",
+          "url": "https://open.spotify.com/artist/64WsK4rMjSwnyuzTPFHVH4"
+        },
+        {
+          "name": "Erik Lundin",
+          "url": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Vintersaga (feat. Erik Lundin)",
+      "url": "https://open.spotify.com/track/10UCosnyAKb33FIpMLCK20"
     },
     {
       "added_at": "2026-01-26 08:37:45",
@@ -1023,26 +1043,6 @@
     {
       "added_at": "2026-01-26 08:37:45",
       "album": {
-        "name": "Vintersaga (feat. Erik Lundin)",
-        "url": "https://open.spotify.com/album/2AUyGofzojnDNVclq5IaM8"
-      },
-      "artists": [
-        {
-          "name": "Deportees",
-          "url": "https://open.spotify.com/artist/64WsK4rMjSwnyuzTPFHVH4"
-        },
-        {
-          "name": "Erik Lundin",
-          "url": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Vintersaga (feat. Erik Lundin)",
-      "url": "https://open.spotify.com/track/10UCosnyAKb33FIpMLCK20"
-    },
-    {
-      "added_at": "2026-01-26 08:37:45",
-      "album": {
         "name": "Fumbling",
         "url": "https://open.spotify.com/album/1yQnL9bEmohv6UQwiRTBko"
       },
@@ -1075,42 +1075,6 @@
     {
       "added_at": "2026-01-26 08:37:45",
       "album": {
-        "name": "Barfotabarn",
-        "url": "https://open.spotify.com/album/2y4NvvQOQnhKjYEl3D74wx"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        },
-        {
-          "name": "Arvid Nero",
-          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
-        }
-      ],
-      "duration_ms": 165632,
-      "name": "Barfotabarn",
-      "url": "https://open.spotify.com/track/6F5M4PKFmmhOHeP5l5dc0F"
-    },
-    {
-      "added_at": "2026-01-26 08:37:45",
-      "album": {
-        "name": "M\u00e4nniskobarn",
-        "url": "https://open.spotify.com/album/11cjyNBwd0KWKHcAsrQhS7"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 218487,
-      "name": "M\u00e4nniskobarn",
-      "url": "https://open.spotify.com/track/0VaIs3pVGqAeXidW86x7Nc"
-    },
-    {
-      "added_at": "2026-01-26 08:37:45",
-      "album": {
         "name": "Superhj\u00e4ltar",
         "url": "https://open.spotify.com/album/5KBbzxuJqFJBQ0Fk8hDRnm"
       },
@@ -1131,18 +1095,22 @@
     {
       "added_at": "2026-01-26 08:37:45",
       "album": {
-        "name": "Sugar High",
-        "url": "https://open.spotify.com/album/4l5nhLF57bPawn8SR6lwrt"
+        "name": "Barfotabarn",
+        "url": "https://open.spotify.com/album/2y4NvvQOQnhKjYEl3D74wx"
       },
       "artists": [
         {
-          "name": "FELICIA",
-          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        },
+        {
+          "name": "Arvid Nero",
+          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
         }
       ],
-      "duration_ms": 150120,
-      "name": "Sugar High",
-      "url": "https://open.spotify.com/track/4wAijWh2EQSASiQUblhC4h"
+      "duration_ms": 165632,
+      "name": "Barfotabarn",
+      "url": "https://open.spotify.com/track/6F5M4PKFmmhOHeP5l5dc0F"
     },
     {
       "added_at": "2026-01-26 08:37:45",
@@ -1163,6 +1131,22 @@
     {
       "added_at": "2026-01-26 08:37:45",
       "album": {
+        "name": "Sugar High",
+        "url": "https://open.spotify.com/album/4l5nhLF57bPawn8SR6lwrt"
+      },
+      "artists": [
+        {
+          "name": "FELICIA",
+          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
+        }
+      ],
+      "duration_ms": 150120,
+      "name": "Sugar High",
+      "url": "https://open.spotify.com/track/4wAijWh2EQSASiQUblhC4h"
+    },
+    {
+      "added_at": "2026-01-26 08:37:45",
+      "album": {
         "name": "Operator",
         "url": "https://open.spotify.com/album/2N9bkju0LC1frvGat1uUxh"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 183013,
       "name": "Operator",
       "url": "https://open.spotify.com/track/4YI2hqjVj38GdGWxohsA7D"
+    },
+    {
+      "added_at": "2026-01-26 08:37:45",
+      "album": {
+        "name": "M\u00e4nniskobarn",
+        "url": "https://open.spotify.com/album/11cjyNBwd0KWKHcAsrQhS7"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 218487,
+      "name": "M\u00e4nniskobarn",
+      "url": "https://open.spotify.com/track/0VaIs3pVGqAeXidW86x7Nc"
     },
     {
       "added_at": "2026-01-26 08:37:45",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2026-01-26 08:37:45",
       "album": {
-        "name": "Greczula (Deluxe Version)",
-        "url": "https://open.spotify.com/album/15G341uaHpzyllZGxgf9Gf"
+        "name": "Vara m\u00e4nniska",
+        "url": "https://open.spotify.com/album/2y8XkkbIT8hsPArXDX2on4"
       },
       "artists": [
         {
-          "name": "Greczula",
-          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
+          "name": "Klara Almstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
         }
       ],
-      "duration_ms": 161194,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/4MrhnXxJ2FZgONBoKRWFAw"
+      "duration_ms": 134624,
+      "name": "Vara m\u00e4nniska",
+      "url": "https://open.spotify.com/track/6tJcdrjP5rpFIXb0wxkKsh"
     },
     {
       "added_at": "2026-01-26 08:37:45",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2026-01-26 08:37:45",
       "album": {
-        "name": "Vara m\u00e4nniska",
-        "url": "https://open.spotify.com/album/2y8XkkbIT8hsPArXDX2on4"
+        "name": "Greczula (Deluxe Version)",
+        "url": "https://open.spotify.com/album/15G341uaHpzyllZGxgf9Gf"
       },
       "artists": [
         {
-          "name": "Klara Almstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
+          "name": "Greczula",
+          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
         }
       ],
-      "duration_ms": 134624,
-      "name": "Vara m\u00e4nniska",
-      "url": "https://open.spotify.com/track/6tJcdrjP5rpFIXb0wxkKsh"
+      "duration_ms": 161194,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/4MrhnXxJ2FZgONBoKRWFAw"
     },
     {
       "added_at": "2026-01-26 08:37:45",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2026-01-26 08:37:45",
       "album": {
-        "name": "M\u00f6rka himlar",
-        "url": "https://open.spotify.com/album/5PHec3lpUQZGeuT1BTSojU"
+        "name": "Du tappa d\u00e4",
+        "url": "https://open.spotify.com/album/1ss3TtK9plwjIBeEUkZkzo"
       },
       "artists": [
         {
-          "name": "Ida-Lova",
-          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
         }
       ],
-      "duration_ms": 216750,
-      "name": "M\u00f6rka himlar",
-      "url": "https://open.spotify.com/track/7FPj2OBT6fKMgVCX2uT8f4"
+      "duration_ms": 191132,
+      "name": "Du tappa d\u00e4",
+      "url": "https://open.spotify.com/track/3xBZH1auLQJOA40qmew7Wv"
     },
     {
       "added_at": "2026-01-26 08:37:45",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-01-26 08:37:45",
       "album": {
+        "name": "M\u00f6rka himlar",
+        "url": "https://open.spotify.com/album/5PHec3lpUQZGeuT1BTSojU"
+      },
+      "artists": [
+        {
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+        }
+      ],
+      "duration_ms": 216750,
+      "name": "M\u00f6rka himlar",
+      "url": "https://open.spotify.com/track/7FPj2OBT6fKMgVCX2uT8f4"
+    },
+    {
+      "added_at": "2026-01-26 08:37:45",
+      "album": {
         "name": "MANS?",
         "url": "https://open.spotify.com/album/64qvpQg15RttpvvxV8RZVY"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 185673,
       "name": "MANS?",
       "url": "https://open.spotify.com/track/6mTK5VOpjZY6ORqdUBusIg"
-    },
-    {
-      "added_at": "2026-01-26 08:37:45",
-      "album": {
-        "name": "Du tappa d\u00e4",
-        "url": "https://open.spotify.com/album/1ss3TtK9plwjIBeEUkZkzo"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 191132,
-      "name": "Du tappa d\u00e4",
-      "url": "https://open.spotify.com/track/3xBZH1auLQJOA40qmew7Wv"
     },
     {
       "added_at": "2026-01-26 08:37:45",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-01-26 08:37:45",
       "album": {
+        "name": "Margaretas s\u00e5ng",
+        "url": "https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 252629,
+      "name": "Margaretas s\u00e5ng",
+      "url": "https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h"
+    },
+    {
+      "added_at": "2026-01-26 08:37:45",
+      "album": {
         "name": "Saltvatten",
         "url": "https://open.spotify.com/album/20vHV2i2Xsq1fKZ7WwKMZz"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 229770,
       "name": "Inner City Ghosts",
       "url": "https://open.spotify.com/track/1wQ00RmlR3rtTdQXui3xrh"
-    },
-    {
-      "added_at": "2026-01-26 08:37:45",
-      "album": {
-        "name": "Margaretas s\u00e5ng",
-        "url": "https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 252629,
-      "name": "Margaretas s\u00e5ng",
-      "url": "https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h"
     },
     {
       "added_at": "2026-01-26 08:37:45",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-01-26 08:37:45",
       "album": {
-        "name": "Dag 1",
-        "url": "https://open.spotify.com/album/7xte7lrGFkhOv3lvN4zyIp"
-      },
-      "artists": [
-        {
-          "name": "Labyrint",
-          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
-        }
-      ],
-      "duration_ms": 214642,
-      "name": "Dag 1",
-      "url": "https://open.spotify.com/track/1uldIZbqjW1nMER6ktCQLS"
-    },
-    {
-      "added_at": "2026-01-26 08:37:45",
-      "album": {
         "name": "T\u00e5rar",
         "url": "https://open.spotify.com/album/0FajfKoec8MCHU2WSXSAuH"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 182567,
       "name": "T\u00e5rar",
       "url": "https://open.spotify.com/track/2kouUdyiy2AuDYfYQf52GV"
+    },
+    {
+      "added_at": "2026-01-26 08:37:45",
+      "album": {
+        "name": "Dag 1",
+        "url": "https://open.spotify.com/album/7xte7lrGFkhOv3lvN4zyIp"
+      },
+      "artists": [
+        {
+          "name": "Labyrint",
+          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+        }
+      ],
+      "duration_ms": 214642,
+      "name": "Dag 1",
+      "url": "https://open.spotify.com/track/1uldIZbqjW1nMER6ktCQLS"
     },
     {
       "added_at": "2026-01-26 08:37:45",
@@ -1719,38 +1719,6 @@
     {
       "added_at": "2026-01-26 08:37:45",
       "album": {
-        "name": "kanske lika bra att vi l\u00e4gger av n\u00e4r vi ligger bra",
-        "url": "https://open.spotify.com/album/4VPYO2mrgxJkSs6LC4zOm4"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 182944,
-      "name": "lose control",
-      "url": "https://open.spotify.com/track/0gPT9v8KyzHZ1MiH2yY9QE"
-    },
-    {
-      "added_at": "2026-01-26 08:37:45",
-      "album": {
-        "name": "Krig",
-        "url": "https://open.spotify.com/album/182MDeWuLgGIFOxRA077d4"
-      },
-      "artists": [
-        {
-          "name": "Labyrint",
-          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
-        }
-      ],
-      "duration_ms": 133608,
-      "name": "Krig",
-      "url": "https://open.spotify.com/track/3ZjS9KHqg94sTPnPy2HB26"
-    },
-    {
-      "added_at": "2026-01-26 08:37:45",
-      "album": {
         "name": "MIG/DIG (feat. Klaudy)",
         "url": "https://open.spotify.com/album/4xeizK2EHs4GlbDezTmR5S"
       },
@@ -1771,6 +1739,22 @@
     {
       "added_at": "2026-01-26 08:37:45",
       "album": {
+        "name": "kanske lika bra att vi l\u00e4gger av n\u00e4r vi ligger bra",
+        "url": "https://open.spotify.com/album/4VPYO2mrgxJkSs6LC4zOm4"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 182944,
+      "name": "lose control",
+      "url": "https://open.spotify.com/track/0gPT9v8KyzHZ1MiH2yY9QE"
+    },
+    {
+      "added_at": "2026-01-26 08:37:45",
+      "album": {
         "name": "B\u00e4ttre h\u00e4r",
         "url": "https://open.spotify.com/album/1wXJmcfz165NY32SoEaSVn"
       },
@@ -1783,22 +1767,6 @@
       "duration_ms": 188695,
       "name": "B\u00e4ttre h\u00e4r",
       "url": "https://open.spotify.com/track/3zqfcyKhCA4STL9qI4NmAL"
-    },
-    {
-      "added_at": "2026-01-26 08:37:45",
-      "album": {
-        "name": "Evergreen min v\u00e4n evergreen",
-        "url": "https://open.spotify.com/album/2Ge4FZk4hqlX6snqKj2GKX"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 183253,
-      "name": "Evergreen min v\u00e4n evergreen",
-      "url": "https://open.spotify.com/track/2nn5Cj8bFekSz45yo666T5"
     },
     {
       "added_at": "2026-01-26 08:37:45",
@@ -1823,18 +1791,34 @@
     {
       "added_at": "2026-01-26 08:37:45",
       "album": {
-        "name": "...fifteen",
-        "url": "https://open.spotify.com/album/3QaQ8Rd9HiAcrpj8cl4RLI"
+        "name": "Evergreen min v\u00e4n evergreen",
+        "url": "https://open.spotify.com/album/2Ge4FZk4hqlX6snqKj2GKX"
       },
       "artists": [
         {
-          "name": "Jackie Mere",
-          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
         }
       ],
-      "duration_ms": 167050,
-      "name": "...fifteen",
-      "url": "https://open.spotify.com/track/403P5EnZmnK3InEidAmXpS"
+      "duration_ms": 183253,
+      "name": "Evergreen min v\u00e4n evergreen",
+      "url": "https://open.spotify.com/track/2nn5Cj8bFekSz45yo666T5"
+    },
+    {
+      "added_at": "2026-01-26 08:37:45",
+      "album": {
+        "name": "Krig",
+        "url": "https://open.spotify.com/album/182MDeWuLgGIFOxRA077d4"
+      },
+      "artists": [
+        {
+          "name": "Labyrint",
+          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+        }
+      ],
+      "duration_ms": 133608,
+      "name": "Krig",
+      "url": "https://open.spotify.com/track/3ZjS9KHqg94sTPnPy2HB26"
     },
     {
       "added_at": "2026-01-26 08:37:45",
@@ -1851,6 +1835,22 @@
       "duration_ms": 173043,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/5LTfGYb6n4oHSgrAgQAYGJ"
+    },
+    {
+      "added_at": "2026-01-26 08:37:45",
+      "album": {
+        "name": "...fifteen",
+        "url": "https://open.spotify.com/album/3QaQ8Rd9HiAcrpj8cl4RLI"
+      },
+      "artists": [
+        {
+          "name": "Jackie Mere",
+          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
+        }
+      ],
+      "duration_ms": 167050,
+      "name": "...fifteen",
+      "url": "https://open.spotify.com/track/403P5EnZmnK3InEidAmXpS"
     }
   ],
   "unique_name": "Made in Sweden",

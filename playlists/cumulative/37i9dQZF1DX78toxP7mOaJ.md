@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Rock](https://open.spotify.com/playlist/37i9dQZF1DX78toxP7mOaJ)
 
-> Fresh rock & alternative from independent artists every Wednesday\. Cover: Radio Free Alice
+> Fresh rock & alternative from independent artists every Wednesday\. Cover: The Sophs
 
-2,232 songs - 5 day 3 hr 33 min
+2,240 songs - 5 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Addicted](https://open.spotify.com/track/706N9YAXwpbiZGYHw14tPN) | [Friday And The Fool](https://open.spotify.com/artist/2pp5YvFy9vnHuvTM5M0y7I) | [Addicted](https://open.spotify.com/album/77zQVsNEeCKTopwaMJ5pwx) | 3:00 | 2022-09-21 | 2022-10-13 |
 | [ADELINE](https://open.spotify.com/track/5nyBSIq6IisubcU7xoPdoO) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [ADELINE](https://open.spotify.com/album/2DPQAfsy6KRE7WS6NTge8L) | 2:48 | 2024-06-19 | 2024-08-08 |
 | [ador // ation](https://open.spotify.com/track/5NMKLXprDYZw94MzDGqNjy) | [Full Body 2](https://open.spotify.com/artist/4hCh0DfO21IV18sFffmTqw) | [EPCOT](https://open.spotify.com/album/7zHsX3R3cjULisz6ZcdVCB) | 3:54 | 2025-05-07 | 2025-07-03 |
+| [Adored](https://open.spotify.com/track/5GLNsiFGhE9gHL4aefiQiT) | [Lucky](https://open.spotify.com/artist/5TjbJmm1dc7PwF35V00Jtp) | [Adored](https://open.spotify.com/album/2mrUtLnSNRea0FCG9AvwYd) | 3:11 | 2026-01-28 |  |
 | [Adoringly Drunk](https://open.spotify.com/track/14cTaKkjwvw9nZFk7DC1UX) | [The Criticals](https://open.spotify.com/artist/6ArhcOX0zzUe8GDzLTgBrK) | [Adoringly Drunk](https://open.spotify.com/album/32xqQUt1BvPqxRjjdjts7C) | 3:05 | 2024-10-02 | 2025-02-06 |
 | [Adrenaline](https://open.spotify.com/track/3Ir78IJjPU3eODC44pzlnf) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [Adrenaline](https://open.spotify.com/album/0Od1v1llALPpgnxp3OiD6b) | 4:04 | 2024-04-24 | 2024-05-23 |
 | [Afraid of Love](https://open.spotify.com/track/05Ex4k06zKLhAbVym8G0cm) | [SidePonies](https://open.spotify.com/artist/5KwKfaUL5Ha9ihmXDRYEB0) | [Afraid of Love](https://open.spotify.com/album/4BEJ61iyWOtYrmimCFjG65) | 4:27 | 2024-02-28 | 2024-04-24 |
@@ -394,6 +395,7 @@
 | [Chill Out](https://open.spotify.com/track/5K8awOE1oodBf1EquC3ghG) | [Witch Post](https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ) | [Chill Out](https://open.spotify.com/album/64YtY1wkONIB0usw75FR6o) | 2:48 | 2024-11-20 | 2025-01-16 |
 | [Chinatown](https://open.spotify.com/track/7fR9MfOsR6MKQqkQWGQyM4) | [Phony](https://open.spotify.com/artist/7mODeSVag7ANGN6WCvIwVM) | [Chinatown](https://open.spotify.com/album/4G7CLkRhDFuAukds5zn9dx) | 2:39 | 2023-09-20 | 2024-02-29 |
 | [Choke Chain](https://open.spotify.com/track/6L0iKLGrWW53jAopkwopzy) | [Angelsaur](https://open.spotify.com/artist/1GfyE51MdTYnvRvPAuDUXb) | [Choke Chain](https://open.spotify.com/album/5jdSxkXwsDq4gwSOOASXau) | 2:17 | 2025-06-11 | 2025-11-06 |
+| [Chomping at the bit](https://open.spotify.com/track/6XwXmZDNmTP9mQ8qa6PMvX) | [GIMMY](https://open.spotify.com/artist/4tsXqHbb1RPVy8OaFi8xQ0) | [Chomping at the bit](https://open.spotify.com/album/3gOiS2llUBbsXmavPhMm6Z) | 2:42 | 2026-01-28 |  |
 | [Chrome Dipped](https://open.spotify.com/track/36LEkXspcKiMxUhiK1GL4g) | [CIVIC](https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe) | [Chrome Dipped](https://open.spotify.com/album/3SA4VOWZ6Kwk3YvBcwep20) | 3:22 | 2025-03-26 | 2025-05-29 |
 | [Chromosomes](https://open.spotify.com/track/4CCv4OkiLz9O9UFa0NgHvU) | [KHARTOUM](https://open.spotify.com/artist/4hYvirqM4pHCsklzddaMsM) | [Chromosomes](https://open.spotify.com/album/3OJv0xBtpzQBtsPPgTxAac) | 2:52 | 2022-06-29 | 2022-09-09 |
 | [cicciolina](https://open.spotify.com/track/6C3Dfww07HN9vMfqrUBRKq) | [cumgirl8](https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6) | [cicciolina](https://open.spotify.com/album/7EfbMgmfcRaddICd51rQab) | 4:50 | 2023-04-19 | 2023-06-29 |
@@ -804,6 +806,7 @@
 | [Gettin' In The Way](https://open.spotify.com/track/1roUIc6mekrsZXcTveHhBe) | [Cooper T](https://open.spotify.com/artist/7t6usUnb0OZ2r0pi3nvdmB) | [Gettin' In The Way](https://open.spotify.com/album/3DOtxFD10eo8rhwGyvKjDC) | 3:38 | 2023-02-08 | 2023-03-30 |
 | [Ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 | 2024-02-28 | 2024-03-28 |
 | [Ghost](https://open.spotify.com/track/6Voyna588pYdml28Ydh85i) | [My Transparent Eye](https://open.spotify.com/artist/6D9BQI3d6y8lOkC6EB7lkU) | [Ghost](https://open.spotify.com/album/0Cq7ab7gUJh9ixb1C6aBwW) | 3:37 | 2025-03-05 | 2025-06-05 |
+| [Ghost](https://open.spotify.com/track/2c8QVLzira5ShAzlF7bhcL) | [Weston Loney](https://open.spotify.com/artist/2anBrRkmgVsliBqN2S9sRt) | [Ghost](https://open.spotify.com/album/0Iafh5XsjIhchVQhVfJUkk) | 3:33 | 2026-01-28 |  |
 | [ghosts](https://open.spotify.com/track/1ZQhNarBCMq2ck9gON0VC1) | [allie](https://open.spotify.com/artist/7JPsWnynfZxpOE77M22LdC) | [maybe next time](https://open.spotify.com/album/2pCKORPRdrvLN4j8jSlfYH) | 4:05 | 2021-12-01 | 2022-03-24 |
 | [Ghosts](https://open.spotify.com/track/7F4Dpq944wqr3WcEhLsxTI) | [Moving Mountains](https://open.spotify.com/artist/7xJHGz571pfkVGNxzPO9NY) | [Pruning of the Lower Limbs](https://open.spotify.com/album/6l7nkwdsOtLF6xy4vJzd5w) | 5:29 | 2025-07-02 | 2025-11-15 |
 | [GIMME](https://open.spotify.com/track/6YODSH98m9moFnf6vnNONP) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Learning How To Live And Let Go](https://open.spotify.com/album/6GrsEsTOh0Pb56iQMIe0qe) | 1:40 | 2023-08-23 | 2023-10-05 |
@@ -935,6 +938,7 @@
 | [Hiraeth Becomes a Star](https://open.spotify.com/track/3drX09CHl3kicW6T8dActw) | [sun is poison](https://open.spotify.com/artist/6z8QxGgkqFIkubQA3rCjZt) | [God Gave Him a Wolf's Heart \(outtakes 2022\)](https://open.spotify.com/album/3jn9KHGkSPslh45zyYlv2a) | 1:59 | 2023-01-11 | 2023-02-23 |
 | [Hit My Line](https://open.spotify.com/track/714Elqa54tuS1ueM3TUDiW) | [Jack Shields](https://open.spotify.com/artist/6CfijCiKvw89LztxIMDyFL) | [Hit My Line](https://open.spotify.com/album/3SLQYKxfs3QcwKiOuhSO1p) | 3:16 | 2025-02-05 | 2025-05-08 |
 | [Hit the Buck](https://open.spotify.com/track/1Vo2q8wTQ1B6nPYCG73vFZ) | [Bandaid Brigade](https://open.spotify.com/artist/1eL9L9lSZ99HAi5XIsIv3E) | [Hit the Buck](https://open.spotify.com/album/6TawUteQOl1U0RZhiM9L1B) | 2:42 | 2022-05-04 | 2022-07-28 |
+| [Hold Me Tight](https://open.spotify.com/track/0eB4BW6dwcA5gX4RXtUmXE) | [Grigio Scarlatto](https://open.spotify.com/artist/1tck0JaVzfb6UtiriTB6zJ) | [Hold Me Tight](https://open.spotify.com/album/1gLjDGEA4KghlJN1m06hUu) | 3:29 | 2026-01-28 |  |
 | [Hold On](https://open.spotify.com/track/3dl6BNoUgzvtG2aQ2hqzKO) | [KIDPUNK](https://open.spotify.com/artist/6QUkxY9FkBh9XF4qCbaABt) | [Hold On](https://open.spotify.com/album/6Phz8GiLOJLu4c1JPEjf3h) | 3:15 | 2022-07-27 | 2022-08-25 |
 | [Holding On](https://open.spotify.com/track/1eJWptp3cy9MrKE6XfuqMw) | [Body Type](https://open.spotify.com/artist/2gOqvEhTe5TjetSBfivC4D) | [Expired Candy](https://open.spotify.com/album/27EWNCik4t25bvCJ9J55Hc) | 2:48 | 2023-06-07 | 2023-08-10 |
 | [Holiday in My Head](https://open.spotify.com/track/7GrCfI8A87IekzGb37lGOX) | [The Velvet Hands](https://open.spotify.com/artist/3apmyVOBGwhnh7AwyRaF81) | [Holiday in My Head](https://open.spotify.com/album/7sNosmIEcn33uMiLOkVXEZ) | 2:23 | 2022-06-15 | 2022-08-11 |
@@ -1140,6 +1144,7 @@
 | [kiss on credit](https://open.spotify.com/track/3Sc4brN2zd6PeOsfceEHpF) | [sunnbrella](https://open.spotify.com/artist/0VjIV24hNNraRNM265WhXB) | [kiss on credit](https://open.spotify.com/album/3rYisJDz9wcW1XMa4hlJCJ) | 3:23 | 2024-06-12 | 2024-07-18 |
 | [Kiss the Ground](https://open.spotify.com/track/2bEqhPPTemN7BUNxvzoOKs) | [Thermal](https://open.spotify.com/artist/0rXfVyHv2j4AaWRvhM44KS) | [Kiss the Ground](https://open.spotify.com/album/3EIRwmMrQphr89d73A6VZH) | 3:43 | 2024-07-17 | 2024-08-08 |
 | [Kiss the Ladder](https://open.spotify.com/track/41QBT1Al5RQ9u9UIHOuXnj) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 1:17 | 2022-11-09 | 2024-01-11 |
+| [Kitchen Sink](https://open.spotify.com/track/2CswjaH1pCgKpogjYnY5HS) | [girlfriend.](https://open.spotify.com/artist/3w2hr2LR5vg8YaqxmNIl4o) | [Kitchen Sink](https://open.spotify.com/album/1E3YQ7GcV7ZNm026jTSZM0) | 3:21 | 2026-01-28 |  |
 | [Knife](https://open.spotify.com/track/0jVYwnMGOXoUByM1hi9h88) | [hex gf](https://open.spotify.com/artist/26sgSBpgBCSlyQxB8lf6tf) | [Haters](https://open.spotify.com/album/7omqBm5pxVQT0kl7a9wwUQ) | 3:30 | 2023-06-14 | 2023-07-13 |
 | [knuckle tattoo](https://open.spotify.com/track/2pvKW4g443i81WY6lnDpqQ) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [knuckle tattoo](https://open.spotify.com/album/6yKW4sNN1WBxvbLWCKpMNt) | 3:32 | 2021-12-01 | 2022-02-03 |
 | [KO](https://open.spotify.com/track/468kQ0vnRFF9uS6XhCy4Ee) | [worlds greatest dad](https://open.spotify.com/artist/4CJ5eNfmJHQ5spEAvaxj8F) | [KO](https://open.spotify.com/album/5C2nV2SPIEmNxEC2PMTjGd) | 3:22 | 2023-09-13 | 2024-02-29 |
@@ -1264,6 +1269,7 @@
 | [Massachusetts](https://open.spotify.com/track/66Ngf6fvj2u9jZ91VtlStb) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Massachusetts](https://open.spotify.com/album/76QByEEi6sx4KuEyhhfNto) | 3:34 | 2024-07-31 | 2024-10-17 |
 | [Math Class Day Dreams](https://open.spotify.com/track/42WrqG2wYPmruXBGsVSb6s) | [No Waves](https://open.spotify.com/artist/7vjsP3f1kEjtmLim5VN41R) | [Math Class Day Dreams](https://open.spotify.com/album/5qyq2QsXtuETFgP87QcCaf) | 3:25 | 2023-11-08 | 2024-03-07 |
 | [Mattress](https://open.spotify.com/track/6V9RcZmTpDpK7y55xWXPtz) | [Palace Watson](https://open.spotify.com/artist/5Ll9u8Eu8NINJcN9mtRvz7) | [The Living Room EP](https://open.spotify.com/album/7cJQwMGWDeErogfTszDA0t) | 2:43 | 2023-10-04 | 2024-02-01 |
+| [Maybe](https://open.spotify.com/track/6620siaLboa5Gj9VBDb7n3) | [In Blue](https://open.spotify.com/artist/12e9r445QDqm2h6B3vnfgg) | [Maybe](https://open.spotify.com/album/0YfJvinh9zafImEt5gnA0L) | 4:28 | 2026-01-28 |  |
 | [Maybe I](https://open.spotify.com/track/6bQ5V1sHZNSTmagUMSVTAI) | [Honeybadger](https://open.spotify.com/artist/5Gk5gDihqk8UoJ3tvsk6J2) | [Maybe I](https://open.spotify.com/album/7y6qD7e1XNZ3fzivj9aaha) | 3:27 | 2024-08-21 | 2024-11-21 |
 | [Maybe I Lied](https://open.spotify.com/track/6bn2M1IGAtJj9kQwAindQi) | [Kesley Bou](https://open.spotify.com/artist/1690ovmlc1XdbZHMEC2R6l) | [Maybe I Lied](https://open.spotify.com/album/6jvnG2pxmjfxjpXu6mcTl8) | 3:16 | 2022-03-03 | 2022-03-31 |
 | [Me And All My Friends](https://open.spotify.com/track/1vZ1IDnjiGKddKlEAI0sGY) | [Tribe Friday](https://open.spotify.com/artist/27Hd2l3rnMm3JL9hm31RE7) | [Me And All My Friends](https://open.spotify.com/album/5kn6B2JR1o6rr4ESSFit2R) | 1:56 | 2023-04-26 | 2023-07-13 |
@@ -1581,6 +1587,7 @@
 | [Quitting](https://open.spotify.com/track/09nnOBJEzvdemIdyfj5TEE) | [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [For Nasal Use Only](https://open.spotify.com/album/3mPS4bR33MhYjjYnGxK48o) | 3:10 | 2022-09-28 | 2022-10-06 |
 | [Rabbit Hole](https://open.spotify.com/track/1LjLaddTN7NJggnyZ6ZOMr) | [Molly Rocket](https://open.spotify.com/artist/2sjRgLc2ZNNpcI41UGWPCS) | [Rabbit Hole](https://open.spotify.com/album/5LdQRhL6IqbGCCu1Y7AYlj) | 3:49 | 2023-05-03 | 2023-06-15 |
 | [Racecar](https://open.spotify.com/track/4FPGFaICcvodRf0Fj9xx9L) | [hey i'm outside](https://open.spotify.com/artist/1KuUcuQRlE7H8XvHzF7r9r) | [Racecar](https://open.spotify.com/album/1PqN2J350tWLhSjRx8J8px) | 3:49 | 2023-10-04 | 2023-10-19 |
+| [Radio National](https://open.spotify.com/track/6mvahNwBdD0aOX4KftgyTk) | [Streetlights](https://open.spotify.com/artist/0lsHTqAlrKJhR6F4t2YHib) | [Radio National](https://open.spotify.com/album/4uT3Y5HWe7WmJlRMtnBNxU) | 3:16 | 2026-01-28 |  |
 | [Rage](https://open.spotify.com/track/1yDDdwsDKcQoZFs5zO0xD4) | [FABER](https://open.spotify.com/artist/3flURQ5mXBE6GW0HsVwLH0) | [Rage](https://open.spotify.com/album/7yTFxH27HPPMcL3tLUi41O) | 3:01 | 2022-06-08 | 2022-08-04 |
 | [Railroad King](https://open.spotify.com/track/4HbZGIRauw8TjJrcHvu2mG) | [Junk Drawer](https://open.spotify.com/artist/5t4EvkMzfu9IJui3iiL2Rs) | [Railroad King](https://open.spotify.com/album/0nfYsVa1HCMrdiQh7JQ7uo) | 3:56 | 2022-03-03 | 2022-05-12 |
 | [Rain](https://open.spotify.com/track/5qO0HpnQaD0DHea2u7a9ud) | [Common People](https://open.spotify.com/artist/6MPvMut19soRca5EoF92uX) | [Rain](https://open.spotify.com/album/3PyMN9wri9HeQT5LfzBX8n) | 3:28 | 2026-01-14 |  |
@@ -1685,6 +1692,7 @@
 | [scorpion.](https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [scorpion.](https://open.spotify.com/album/572kvsrM2Jb4EmO93m65Om) | 2:43 | 2023-08-09 | 2023-09-14 |
 | [Scream Queen](https://open.spotify.com/track/7MQyVPZtNRyIFY49WCMIll) | [The Dumes](https://open.spotify.com/artist/1sDeMYlZRiudJljM1BKMWb) | [Scream Queen](https://open.spotify.com/album/2lEyMWJR49WXz3O9hF5RwB) | 2:56 | 2023-06-14 | 2023-10-19 |
 | [Screw](https://open.spotify.com/track/0bGfL3qbDYqiExPbt0m1xJ) | [Comet](https://open.spotify.com/artist/60p7G6IdFcd9Pyk86uAnrs) | [Screw](https://open.spotify.com/album/7wIvm0geQ33403WCrsPyrF) | 3:08 | 2025-10-08 | 2026-01-15 |
+| [Se Llama \(Tell Me What You Want\)](https://open.spotify.com/track/17s4U1JzeV3N8asbVLkRj1) | [The Props](https://open.spotify.com/artist/2ZtPtWYsItQg39R0sKvGos) | [Se Llama \(Tell Me What You Want\)](https://open.spotify.com/album/0dvKkc7FzUojXOrii4fTPo) | 3:05 | 2026-01-28 |  |
 | [Seagulls](https://open.spotify.com/track/2wFE9Iwo0VZ8PtT7COakgZ) | [George O'Hanlon](https://open.spotify.com/artist/5U7rIQxm8yEEXbJB3bl7JE) | [Seagulls](https://open.spotify.com/album/1USrIhIbrlu2WRi2JXq8Ol) | 3:13 | 2022-04-13 | 2023-01-12 |
 | [Searching for You](https://open.spotify.com/track/7xtOiQ4dkFpXIh2iRoVZDV) | [Weird Nightmare](https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc) | [Searching for You](https://open.spotify.com/album/2ty9GQB9HHy5oAwHuCR5b0) | 3:03 | 2022-03-09 | 2022-05-05 |
 | [Season Song](https://open.spotify.com/track/2W4oDrX8MwBed4MypPoUEa) | [Joiner](https://open.spotify.com/artist/7JlMMmd03EDX3KupBZwN4d) | [Season Song](https://open.spotify.com/album/3IVTr8ZR589a1kR56cbCxx) | 3:36 | 2023-07-26 | 2023-11-30 |
@@ -1828,7 +1836,7 @@
 | [SPLAT!](https://open.spotify.com/track/3QYGJb41WJjj6xs68Pvf1z) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [SPLAT!](https://open.spotify.com/album/4jUgvT7VlkhWmpmm6KvtCt) | 2:33 | 2023-10-18 | 2024-06-01 |
 | [Splinter](https://open.spotify.com/track/2zKw27t2g93O88snqhTO8G) | [Heavywave](https://open.spotify.com/artist/2BJRTglavnA0W6OI2zLapV) | [Splinter](https://open.spotify.com/album/7tpE9pRKyh4o6VYymOvmrG) | 3:46 | 2025-11-05 | 2025-12-04 |
 | [SPLIT](https://open.spotify.com/track/5svPvPQD4H5K63QLmbYsYf) | [PUNCHING BAG](https://open.spotify.com/artist/1N0ACznriUeiiOJWN8hHC7) | [GYM RAT](https://open.spotify.com/album/6FOwNOdQKHQswNhOmSPmVY) | 2:57 | 2025-01-29 | 2025-02-27 |
-| [Sports Make Me Cry](https://open.spotify.com/track/6s9dfL9sRdb9LQF5EC5E44) | [best dressed ghost](https://open.spotify.com/artist/3Rh1YnnvbwePqsU1NPZhPy) | [Dead Rock](https://open.spotify.com/album/0QEVxMlGr8BmO6gr3Xcd3d) | 2:47 | 2025-08-06 |  |
+| [Sports Make Me Cry](https://open.spotify.com/track/6s9dfL9sRdb9LQF5EC5E44) | [best dressed ghost](https://open.spotify.com/artist/3Rh1YnnvbwePqsU1NPZhPy) | [Dead Rock](https://open.spotify.com/album/0QEVxMlGr8BmO6gr3Xcd3d) | 2:47 | 2025-08-06 | 2026-01-29 |
 | [Spread Thin](https://open.spotify.com/track/3gusZ6ocEzuRbGr8qKMUBi) | [Overgrow](https://open.spotify.com/artist/0JF3phIHeUwu0WwMBGvegA) | [Walls of Mirrors](https://open.spotify.com/album/0yc692LeHOlErC5wdy21dS) | 3:37 | 2022-03-23 | 2022-05-26 |
 | [Spring](https://open.spotify.com/track/2vMikyqNbH1ynZ4Rfcbso3) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Spring](https://open.spotify.com/album/4GVoIK1wXH6Tm5bOaNOkIu) | 2:45 | 2022-09-21 | 2022-12-01 |
 | [SPYD4 K1NG](https://open.spotify.com/track/0u1inKbr4lCWrjn11W9ydh) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [SPYD4 K1NG](https://open.spotify.com/album/1xkuGHZ4eWoZGO7XZQoN4Q) | 3:12 | 2023-05-10 | 2023-06-15 |

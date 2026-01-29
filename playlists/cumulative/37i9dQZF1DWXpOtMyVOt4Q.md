@@ -2,7 +2,7 @@
 
 ### [Chill Mode](https://open.spotify.com/playlist/37i9dQZF1DWXpOtMyVOt4Q)
 
-> Soft beats to game, vibe and stay unbothered
+> Relaxed beats to game, vibe and stay unbothered
 
 352 songs - 18 hr 26 min
 

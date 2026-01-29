@@ -859,6 +859,24 @@
     },
     {
       "album": {
+        "name": "Rhapsody In White (Reissue)",
+        "url": "https://open.spotify.com/album/2mCUkzGTTkAsvJmtxWgTdc"
+      },
+      "artists": [
+        {
+          "name": "The Love Unlimited Orchestra",
+          "url": "https://open.spotify.com/artist/457yGSZecENoIuNWelRHhH"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246266,
+      "name": "Love's Theme",
+      "url": "https://open.spotify.com/track/5csdrJ0JtFn0qvwlvSh2EI"
+    },
+    {
+      "album": {
         "name": "Menagerie",
         "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
       },
@@ -1490,7 +1508,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 199600,
       "name": "You Give Me Something",
       "url": "https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x"

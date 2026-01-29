@@ -2498,7 +2498,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -2516,7 +2516,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -7290,10 +7290,28 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 120375,
       "name": "Booma Yee",
       "url": "https://open.spotify.com/track/3JmTEM03jZ1hF366s2h9dF"
+    },
+    {
+      "album": {
+        "name": "Booma Yee",
+        "url": "https://open.spotify.com/album/6N9N07kkBYgAQNMbHoc4nf"
+      },
+      "artists": [
+        {
+          "name": "Septum",
+          "url": "https://open.spotify.com/artist/5zeN5UUPeAzIZDBtSmjGTl"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120375,
+      "name": "Booma Yee",
+      "url": "https://open.spotify.com/track/5r9OW92KrWYJ1GAkMSxKJd"
     },
     {
       "album": {
@@ -11774,7 +11792,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 161920,
       "name": "Der Erlk\u00f6nig - Techno Edit",
       "url": "https://open.spotify.com/track/2OKrEc1eGMrrfHUREzyvkn"
@@ -13302,6 +13320,24 @@
       "duration_ms": 171526,
       "name": "Dreamin (feat. Daya)",
       "url": "https://open.spotify.com/track/6oWmcKVK6atTCoWVYTdSg1"
+    },
+    {
+      "album": {
+        "name": "DREAMS COME TRUE",
+        "url": "https://open.spotify.com/album/5yNnzKTZDdRGmFwfhKxFU0"
+      },
+      "artists": [
+        {
+          "name": "excape.",
+          "url": "https://open.spotify.com/artist/0tdvNnlqKsg43PtLkE4b32"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "DREAMS COME TRUE",
+      "url": "https://open.spotify.com/track/3tgd6md5mmQDTHUZVjE6lF"
     },
     {
       "album": {
@@ -18207,6 +18243,28 @@
     },
     {
       "album": {
+        "name": "Fritz & the Downhill Gang",
+        "url": "https://open.spotify.com/album/6vQ5GqijDE1iM3o8fdZoh2"
+      },
+      "artists": [
+        {
+          "name": "Fritz Strobl",
+          "url": "https://open.spotify.com/artist/1sF830YaGiejd30PizgniT"
+        },
+        {
+          "name": "The Downhill Gang",
+          "url": "https://open.spotify.com/artist/2bCihSHJTpeyqUog3gFUby"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216866,
+      "name": "Genie auf die Ski",
+      "url": "https://open.spotify.com/track/4Y53BzBfs4Iip4DlHX4Lkh"
+    },
+    {
+      "album": {
         "name": "GERMANY",
         "url": "https://open.spotify.com/album/5wqNOKtDT8wY3NyiwaXb0l"
       },
@@ -20906,7 +20964,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 160966,
       "name": "HELICOPTER",
       "url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
@@ -26682,7 +26740,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 168959,
       "name": "Kribbeln im Bauch",
       "url": "https://open.spotify.com/track/5g4SU2Q5JhqjWCDQ23X2Go"
@@ -36846,7 +36904,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 279962,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/76952ZbAHlgMqrIEMqYkgB"
@@ -36872,7 +36930,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 279962,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/7qbqG0UWOdpsYE2G6ckXSb"
@@ -48074,7 +48132,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 173480,
       "name": "Tirol",
       "url": "https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP"
@@ -48092,7 +48150,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 173373,
       "name": "Tirol - Remastered 2019",
       "url": "https://open.spotify.com/track/1ztXLrHOxpIF7mBJ3oTakZ"
@@ -50018,10 +50076,32 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 132934,
       "name": "Versatile (Dark Triad Slowed)",
       "url": "https://open.spotify.com/track/3mgKkH8qXF7nurKX50II45"
+    },
+    {
+      "album": {
+        "name": "Versatile",
+        "url": "https://open.spotify.com/album/05Qd4YDfvthwoQxOMhCJOK"
+      },
+      "artists": [
+        {
+          "name": "slenderpill",
+          "url": "https://open.spotify.com/artist/237rawiOSdfQRCfAhlowSx"
+        },
+        {
+          "name": "Six Dior",
+          "url": "https://open.spotify.com/artist/4Soc06zRsHw2US0abt3TAa"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132571,
+      "name": "Versatile - Slowed + Low Honor",
+      "url": "https://open.spotify.com/track/7FoURDwuTDBsyUOUal2UYL"
     },
     {
       "album": {
@@ -51850,6 +51930,36 @@
       "duration_ms": 119160,
       "name": "What Have They Done To Us (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4ZdFMKqprNtEqdqdhu7gU0"
+    },
+    {
+      "album": {
+        "name": "What I Like (with Moliy, Ayetian, & Tyga)",
+        "url": "https://open.spotify.com/album/2SFaRmuiD59d9evBFmET8W"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Ayetian",
+          "url": "https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156140,
+      "name": "What I Like (with Moliy, Ayetian, & Tyga)",
+      "url": "https://open.spotify.com/track/6QOOnaoczEeWw4zEICAJyB"
     },
     {
       "album": {

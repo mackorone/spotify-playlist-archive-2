@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : NV Vigneshwer Karthik",
-  "num_followers": 18244,
+  "num_followers": 18255,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABPs11F7jKnL8r0x8K87y894atSx",
+  "snapshot_id": "AAAAAJlRRCVnUZwMA1YqhaR21C9U5ofV",
   "tracks": [
     {
       "added_at": "2026-01-09 19:30:11",
@@ -131,6 +131,26 @@
       "duration_ms": 174857,
       "name": "Undhan Mugam Kaana",
       "url": "https://open.spotify.com/track/1quyCIz5SauoZn6PV16YxN"
+    },
+    {
+      "added_at": "2026-01-28 08:18:18",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/7L8z3xcoFtS5gXmSh5u7qM"
+      },
+      "artists": [
+        {
+          "name": "Stowe Francis",
+          "url": "https://open.spotify.com/artist/7FvjLuuGbaJPo0S6KJFmBQ"
+        },
+        {
+          "name": "Venkat GV",
+          "url": "https://open.spotify.com/artist/050EyWCU4eCdFZMWjuxZyV"
+        }
+      ],
+      "duration_ms": 177961,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0u4DbQWKsYJqoONjK7Afke"
     },
     {
       "added_at": "2026-01-27 12:29:31",
@@ -591,30 +611,6 @@
       "duration_ms": 256991,
       "name": "En Azhagi",
       "url": "https://open.spotify.com/track/3ELuzYrD4aGwelk2smuP7s"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
-        "name": "Soorpanagai",
-        "url": "https://open.spotify.com/album/6BguCRhRJRXBa6TtQ4k5Of"
-      },
-      "artists": [
-        {
-          "name": "Veena AE",
-          "url": "https://open.spotify.com/artist/7F5HmVLlQsLMdPq7Iz0CsK"
-        },
-        {
-          "name": "SHIV PAUL",
-          "url": "https://open.spotify.com/artist/5AA9gS6Kw5CwPGZ8CEoA8f"
-        },
-        {
-          "name": "Niru Musical",
-          "url": "https://open.spotify.com/artist/0gmdF5FhV5xu0IfojeZhDf"
-        }
-      ],
-      "duration_ms": 188210,
-      "name": "Soorpanagai",
-      "url": "https://open.spotify.com/track/3YrotPydUy2kflbzZxtBIw"
     },
     {
       "added_at": "2026-01-09 19:30:11",
@@ -1451,58 +1447,6 @@
       "duration_ms": 284586,
       "name": "Kadhal Idhu Thana - 2.0",
       "url": "https://open.spotify.com/track/69CRLyHOTcmBYAgO9WropC"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
-        "name": "THOL",
-        "url": "https://open.spotify.com/album/0WCsWJcjkUAOHwKhWous0e"
-      },
-      "artists": [
-        {
-          "name": "Urupaanar",
-          "url": "https://open.spotify.com/artist/4tQZesV9Vsw2EnpdskT6KV"
-        },
-        {
-          "name": "Si Su",
-          "url": "https://open.spotify.com/artist/5izMDlabcB1xhXgOGuuXZs"
-        },
-        {
-          "name": "Tharun Sekar",
-          "url": "https://open.spotify.com/artist/1tk528wXxD61sM9CyMPZRg"
-        },
-        {
-          "name": "Goutham Vasu Venkatesan",
-          "url": "https://open.spotify.com/artist/0t52Tk7X8p6hlVB56rQZ4x"
-        },
-        {
-          "name": "Pravekha",
-          "url": "https://open.spotify.com/artist/26s50DKJKi3Sg5zhw0jwv9"
-        },
-        {
-          "name": "Srikaanth Srihari",
-          "url": "https://open.spotify.com/artist/0gJDc5IK95Ta1yCSH5a2UN"
-        },
-        {
-          "name": "Vishwa Bharath",
-          "url": "https://open.spotify.com/artist/2YEui2CS3jSKUyOaOJtPtt"
-        },
-        {
-          "name": "K.R.Keerthirathan",
-          "url": "https://open.spotify.com/artist/7jXD4Yjub8J8dya0PusWjA"
-        },
-        {
-          "name": "Deepak",
-          "url": "https://open.spotify.com/artist/45Dt3BBmGT3CLGoQwgos9W"
-        },
-        {
-          "name": "ElaiyaBass",
-          "url": "https://open.spotify.com/artist/1iv3LSk17AB9jCWtjfnzpt"
-        }
-      ],
-      "duration_ms": 463800,
-      "name": "Madhiyin Mudhugil",
-      "url": "https://open.spotify.com/track/2Nlp7Y0NficubDvATCCTPb"
     },
     {
       "added_at": "2026-01-09 19:30:11",

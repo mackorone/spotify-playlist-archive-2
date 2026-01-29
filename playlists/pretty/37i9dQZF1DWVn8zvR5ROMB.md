@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Carly Pearce, Parker McCollum, Hudson Westbrook and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,615 likes - 73 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,675 likes - 73 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

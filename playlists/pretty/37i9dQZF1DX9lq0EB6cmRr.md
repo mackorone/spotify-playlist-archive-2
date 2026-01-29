@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 
 > Listen hot and new Korean classical & new age  music in here! \(Cover: 라포엠 \(LA POEM\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,205 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,212 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 | 49 | [Stanley Myers : Cavatina](https://open.spotify.com/track/01GZqoFssNsVDz9CRzLNJ3) | [Stanley Myers](https://open.spotify.com/artist/6l6NgkV6IWYKlRN7jHCQmt), [Park Kyuhee](https://open.spotify.com/artist/1cPB46hHAuY8A2U1XzkREc) | [Letters](https://open.spotify.com/album/65u4wYlCAV0WsfJ5k8lhHn) | 4:59 |
 | 50 | [Minuet in G Minor, HWV 434 No\. 4 \(Arr\. Kempff for Piano\)](https://open.spotify.com/track/54o2CXo5WVAMIYHW0k9pqs) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [The Handel Project: Handel\-Suites & Brahms\-Variations](https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE) | 4:17 |
 
-Snapshot ID: `AAAAADwRKZrdBiHzH4uYmOFbFuECHHq8`
+Snapshot ID: `AAAAAMtSAi4ebqYjP3haxh/psAxnnmo0`

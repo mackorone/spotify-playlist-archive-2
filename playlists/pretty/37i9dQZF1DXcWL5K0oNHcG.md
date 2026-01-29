@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: VLADKO\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,881 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,900 likes - 49 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 45 | [BRIAN'S TEA](https://open.spotify.com/track/1GJjIk4bDXd4a0BwCpoYIR) | [New Fossils](https://open.spotify.com/artist/1xLmn6aIyH3jxg8lX7L9Zm), [Áron Horváth](https://open.spotify.com/artist/4E0fKIBM0Fh9RBqN4BJosG) | [BRIAN'S TEA](https://open.spotify.com/album/32LGHWJ15C9pTyHRGVEiDV) | 6:01 |
 | 46 | [Zigzag](https://open.spotify.com/track/7eaWK0bDHcaoVbi56QlLZL) | [Sam Johnson Trio](https://open.spotify.com/artist/4wHk83nYl4V1GsszIL5Iin), [The Menlo Horns](https://open.spotify.com/artist/5d4z5pYYT7Jldm3ThZ6tTR) | [Zigzag](https://open.spotify.com/album/3B1ZvA8LT3jYyE5VbWSYPu) | 4:33 |
 | 47 | [Painted Lady](https://open.spotify.com/track/2pD5oV7GP3Sx5ygrzTiMGT) | [Salin](https://open.spotify.com/artist/190s2q06h5ztFSuGHOpmf3) | [Painted Lady](https://open.spotify.com/album/7KtDcMztVoKtXNnrmA9pka) | 4:02 |
-| 48 | [Blame Game](https://open.spotify.com/track/57BWfvRxyyRXjftCy4fzkV) | [Lavender Town](https://open.spotify.com/artist/0aZDma9FtYlpavsLg96LmC) | [lavender town](https://open.spotify.com/album/3wmCMTblm03W839YGWStcg) | 8:23 |
-| 49 | [Birth of the Microprocessor](https://open.spotify.com/track/0yIxjt0hvlkyVe1K1tRdnr) | [Sean Wolcott](https://open.spotify.com/artist/2MVjrUlRXtl6oXgDZngtxi) | [Light Music for Heavy Industry](https://open.spotify.com/album/6ciguhSEuULnStAhDVavPh) | 3:49 |
-| 50 | [Dig Deep \(feat.Jairo）](https://open.spotify.com/track/0Na5bpStCY4VVDshwfBjLm) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Jairo](https://open.spotify.com/artist/7Me7P1y6x4I5xkHkCEkfpM) | [Dig Deep \(feat\. Jairo\)](https://open.spotify.com/album/4QWMRK9NfzqyYKXTkN2Z85) | 4:30 |
+| 48 | [Birth of the Microprocessor](https://open.spotify.com/track/0yIxjt0hvlkyVe1K1tRdnr) | [Sean Wolcott](https://open.spotify.com/artist/2MVjrUlRXtl6oXgDZngtxi) | [Light Music for Heavy Industry](https://open.spotify.com/album/6ciguhSEuULnStAhDVavPh) | 3:49 |
+| 49 | [Dig Deep \(feat.Jairo）](https://open.spotify.com/track/0Na5bpStCY4VVDshwfBjLm) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Jairo](https://open.spotify.com/artist/7Me7P1y6x4I5xkHkCEkfpM) | [Dig Deep \(feat\. Jairo\)](https://open.spotify.com/album/4QWMRK9NfzqyYKXTkN2Z85) | 4:30 |
 
-Snapshot ID: `AAAAAMhTfZ8OnHPeg6XaOoN+mjKdFtb0`
+Snapshot ID: `AAAAAKF/QJyZcFbEVVmkibzO0BEGX1Yx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain]
 
 > ¡Los 40 principales éxitos de la radio musical en la única e inimitable lista de LOS40! Actualizamos cada sábado, tras el repaso a la nueva lista en Del 40 al 1 con Tony Aguilar\. Escucha a Taylor Swift, Rosalía, Rels B, HUNTR/X, y muchos más
 
-[LOS40](https://open.spotify.com/user/los40_spain) - 154,026 likes - 40 songs - 2 hr 2 min
+[LOS40](https://open.spotify.com/user/los40_spain) - 154,029 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain]
 | 39 | [Jealous Type](https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Jealous Type](https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5) | 2:43 |
 | 40 | [Si te vuelvo a llamar](https://open.spotify.com/track/2tdpP18jNRTREK255JpMo5) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Si te vuelvo a llamar](https://open.spotify.com/album/1ogdx4WsbRgWDBVM0tiR8q) | 2:55 |
 
-Snapshot ID: `AAAr3riqQH1Fb9D5JocsqE2/XKaFuQO3`
+Snapshot ID: `AAAr4e/itw+6oVlz2deqGghxzl3smeCm`

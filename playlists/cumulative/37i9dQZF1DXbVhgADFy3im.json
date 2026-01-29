@@ -584,7 +584,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 253352,
       "name": "Desi Kalakaar",
       "url": "https://open.spotify.com/track/7m4CgL81VVIHaaiSxyH922"
@@ -2718,6 +2718,28 @@
       "duration_ms": 271169,
       "name": "Satranga (From \"ANIMAL\")",
       "url": "https://open.spotify.com/track/3yHyiUDJdz02FZ6jfUbsmY"
+    },
+    {
+      "album": {
+        "name": "Seet Lehar",
+        "url": "https://open.spotify.com/album/2u8LXYV3TzgvjaRA1dP5rP"
+      },
+      "artists": [
+        {
+          "name": "Filmy",
+          "url": "https://open.spotify.com/artist/0w4av5JIPZk9ZQ0lg6WwY4"
+        },
+        {
+          "name": "Riyaazi",
+          "url": "https://open.spotify.com/artist/5LN6cFuEopifixZsRarBri"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207096,
+      "name": "Seet Lehar",
+      "url": "https://open.spotify.com/track/0U1TeVxM67Qig7YBdiAosz"
     },
     {
       "album": {

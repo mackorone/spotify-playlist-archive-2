@@ -3008,7 +3008,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 322500,
       "name": "Amaidhi",
       "url": "https://open.spotify.com/track/0qwOTJE9OAJHsXeDKy7JXo"
@@ -5728,6 +5728,32 @@
       "duration_ms": 243130,
       "name": "Azhagu Chellam (From \"Raid\")",
       "url": "https://open.spotify.com/track/7I0wjBBN5ZUADd7RVvIigQ"
+    },
+    {
+      "album": {
+        "name": "Azhagu Oviyam (From \"Fourth Floor\")",
+        "url": "https://open.spotify.com/album/1FuwbT3er3ohHOwYxjQgS2"
+      },
+      "artists": [
+        {
+          "name": "Chinnu Senthamizhan",
+          "url": "https://open.spotify.com/artist/6K6M4UBy4dCzwv7Ig6kOMv"
+        },
+        {
+          "name": "Dharan Kumar",
+          "url": "https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF"
+        },
+        {
+          "name": "Ku Karthik",
+          "url": "https://open.spotify.com/artist/7L5BLP9ezpFtEOas3AR0Ny"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231192,
+      "name": "Azhagu Oviyam (From \"Fourth Floor\")",
+      "url": "https://open.spotify.com/track/43wZBYwpBYl8COqQiUjSaW"
     },
     {
       "album": {
@@ -54412,7 +54438,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 126993,
       "name": "Yaavalo (Reprise) (From \"Indian Penal Law (IPL)\")",
       "url": "https://open.spotify.com/track/1Q2oo3Y8ES1sFsNU3hdRRb"

@@ -149,6 +149,28 @@
     },
     {
       "album": {
+        "name": "Alalai Egise",
+        "url": "https://open.spotify.com/album/0h3eypk6BfTytKLKSP2e5f"
+      },
+      "artists": [
+        {
+          "name": "Nikkhil Bareli",
+          "url": "https://open.spotify.com/artist/4qe3u7JRknAx2vAM8E6BMm"
+        },
+        {
+          "name": "Pritam Wath",
+          "url": "https://open.spotify.com/artist/35pAMT6KMB0UvU9lfI5d3s"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232880,
+      "name": "Alalai Egise",
+      "url": "https://open.spotify.com/track/7IMy6SqkgbIDg0tsNM3Fs1"
+    },
+    {
+      "album": {
         "name": "Allo Neredallo Pilla (From \"Baapu\")",
         "url": "https://open.spotify.com/album/5GoJYLU616LB7wKByP40Xb"
       },
@@ -1388,7 +1410,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 241200,
       "name": "Darsanamey (From \"Nari Nari Naduma Murari\")",
       "url": "https://open.spotify.com/track/60puehJxKv05JPITtHLvAc"

@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 64481,
+  "num_followers": 64519,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXaugAAAAAAVRp+g949kw0PbHPgX66jv",
+  "snapshot_id": "aXgAAAAAAACex8P42C0efQYSaVvq7X1p",
   "tracks": [
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bateando Duro",
-        "url": "https://open.spotify.com/album/2CEgRKTs2YfHiOHlOE77yh"
-      },
-      "artists": [
-        {
-          "name": "Reynaldos de la Sierra",
-          "url": "https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 146522,
-      "name": "Sal De Tu Casa",
-      "url": "https://open.spotify.com/track/0z2aeRd5lDuk7wm4M6I7PI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi pareja en turno",
         "url": "https://open.spotify.com/album/2I4Ikw1PoEUEhrGZ0qnfWI"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 187008,
       "name": "Mi pareja en turno",
       "url": "https://open.spotify.com/track/4jCmraVktEXNCeEcDtOGZE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bateando Duro",
+        "url": "https://open.spotify.com/album/2CEgRKTs2YfHiOHlOE77yh"
+      },
+      "artists": [
+        {
+          "name": "Reynaldos de la Sierra",
+          "url": "https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 146522,
+      "name": "Sal De Tu Casa",
+      "url": "https://open.spotify.com/track/0z2aeRd5lDuk7wm4M6I7PI"
     },
     {
       "added_at": null,

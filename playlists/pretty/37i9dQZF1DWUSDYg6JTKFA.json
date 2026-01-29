@@ -1,6 +1,6 @@
 {
   "description": "Find hope in Him in every note of these songs full of faith!",
-  "num_followers": 211408,
+  "num_followers": 211425,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
+        "name": "Rescue",
+        "url": "https://open.spotify.com/album/49sgj5TsAza6TkXow8DQWa"
+      },
+      "artists": [
+        {
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        }
+      ],
+      "duration_ms": 221403,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/4ANZqWyzB9fIW2XtthkVQV"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
         "name": "Live From Camp",
         "url": "https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 365185,
       "name": "Christ Our King - Live From Camp",
       "url": "https://open.spotify.com/track/36JWXzz773ljAGmwwz4ISZ"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
-        "name": "Rescue",
-        "url": "https://open.spotify.com/album/49sgj5TsAza6TkXow8DQWa"
-      },
-      "artists": [
-        {
-          "name": "Jordan St. Cyr",
-          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
-        }
-      ],
-      "duration_ms": 221403,
-      "name": "Rescue",
-      "url": "https://open.spotify.com/track/4ANZqWyzB9fIW2XtthkVQV"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/0r1SPhUGL54zILNycUBKsE"
-      },
-      "artists": [
-        {
-          "name": "7 Hills Worship",
-          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
-        },
-        {
-          "name": "Kaelob Mecum",
-          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
-        }
-      ],
-      "duration_ms": 214926,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/6njtDzvCTECqQQCGjnQcSS"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
         "name": "Good Lord",
         "url": "https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 202708,
       "name": "Good Lord (feat. Katy Nichole)",
       "url": "https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0r1SPhUGL54zILNycUBKsE"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        },
+        {
+          "name": "Kaelob Mecum",
+          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
+        }
+      ],
+      "duration_ms": 214926,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/6njtDzvCTECqQQCGjnQcSS"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
+        "name": "Welcome to Alive City",
+        "url": "https://open.spotify.com/album/77MfLEjnam9cGd5mCRFqqt"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/5ODnTtYMnow1nV6WIdS87j"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
         "name": "Empires",
         "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 262120,
       "name": "Touch The Sky",
       "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
-        "name": "Welcome to Alive City",
-        "url": "https://open.spotify.com/album/77MfLEjnam9cGd5mCRFqqt"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/5ODnTtYMnow1nV6WIdS87j"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
+        "name": "The Ultimate Collection: Worship",
+        "url": "https://open.spotify.com/album/4TOWBYWhX0juUikLgFpc3B"
+      },
+      "artists": [
+        {
+          "name": "Sarah Sadler",
+          "url": "https://open.spotify.com/artist/4RnUOaFWKWEFcCaqkmuIv3"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "How Deep The Father's Love For Us",
+      "url": "https://open.spotify.com/track/2Jo6iBlMoxmUEmrAYb4Gvz"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
         "name": "Keep Looking Up (Radio Mix)",
         "url": "https://open.spotify.com/album/2JX7K0eXBgECFklS7qwygf"
       },
@@ -1359,18 +1375,18 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
-        "name": "The Ultimate Collection: Worship",
-        "url": "https://open.spotify.com/album/4TOWBYWhX0juUikLgFpc3B"
+        "name": "Perspective",
+        "url": "https://open.spotify.com/album/73AHTbSXLzgEciD1y3Lp0L"
       },
       "artists": [
         {
-          "name": "Sarah Sadler",
-          "url": "https://open.spotify.com/artist/4RnUOaFWKWEFcCaqkmuIv3"
+          "name": "CCV Music",
+          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
         }
       ],
-      "duration_ms": 214466,
-      "name": "How Deep The Father's Love For Us",
-      "url": "https://open.spotify.com/track/2Jo6iBlMoxmUEmrAYb4Gvz"
+      "duration_ms": 338900,
+      "name": "Good Things - (Live) [Acoustic]",
+      "url": "https://open.spotify.com/track/5gWpJE4tZiR9xnauOXUo5R"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -1387,22 +1403,6 @@
       "duration_ms": 304021,
       "name": "Heaven Fall",
       "url": "https://open.spotify.com/track/2uYxKsOu0Jd4TfnkHqVdQc"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
-        "name": "Perspective",
-        "url": "https://open.spotify.com/album/73AHTbSXLzgEciD1y3Lp0L"
-      },
-      "artists": [
-        {
-          "name": "CCV Music",
-          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
-        }
-      ],
-      "duration_ms": 338900,
-      "name": "Good Things - (Live) [Acoustic]",
-      "url": "https://open.spotify.com/track/5gWpJE4tZiR9xnauOXUo5R"
     },
     {
       "added_at": "2025-12-13 23:46:05",

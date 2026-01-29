@@ -1327,6 +1327,24 @@
     },
     {
       "album": {
+        "name": "International Radio Star",
+        "url": "https://open.spotify.com/album/1NqOdon7S5dZYKWiW1Tt7I"
+      },
+      "artists": [
+        {
+          "name": "Bela and The Lugosis",
+          "url": "https://open.spotify.com/artist/690j7ypcDuaN0b3KcZzs78"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187678,
+      "name": "International Radio Star",
+      "url": "https://open.spotify.com/track/7hoHVAVvZJbku8CTsBVdEC"
+    },
+    {
+      "album": {
         "name": "First a Whisper, Then a Shout",
         "url": "https://open.spotify.com/album/2cwDdnhRCRHzG8OQmjPKXR"
       },

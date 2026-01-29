@@ -487,6 +487,24 @@
     },
     {
       "album": {
+        "name": "Anche a vent\u2019anni si muore",
+        "url": "https://open.spotify.com/album/5ia2NfmJrcmFBZcX5GVloM"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Anche a vent\u2019anni si muore",
+      "url": "https://open.spotify.com/track/59Awynpg4oFhSwb5F8lQQ1"
+    },
+    {
+      "album": {
         "name": "FUORI MEN\u00d9",
         "url": "https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k"
       },
@@ -1294,7 +1312,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 188693,
       "name": "Chicchi di caff\u00e8",
       "url": "https://open.spotify.com/track/4fW3I4ROMQShlXGxdSQN42"
@@ -1432,7 +1450,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 199343,
       "name": "Cos\u00ec cos\u00ec",
       "url": "https://open.spotify.com/track/0pjqXWOiT5xMh2ua6sq4dl"
@@ -1968,7 +1986,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-29",
       "duration_ms": 172067,
       "name": "Fanculo (feat. Marracash)",
       "url": "https://open.spotify.com/track/2smcrTWrF4aEbuHz60x03f"
@@ -2250,6 +2268,28 @@
       "duration_ms": 228000,
       "name": "Ginevra (feat. Geolier)",
       "url": "https://open.spotify.com/track/311m4sWQq8MZZROimkSGF7"
+    },
+    {
+      "album": {
+        "name": "La Cura, in nome di Miria",
+        "url": "https://open.spotify.com/album/2jbeoamHqIQwfQuzKuDo7s"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201182,
+      "name": "Girasole (feat. Rkomi)",
+      "url": "https://open.spotify.com/track/6QYSy0nHV8WoBRLqtz6Oa2"
     },
     {
       "album": {
@@ -4620,6 +4660,24 @@
       "duration_ms": 155200,
       "name": "Respiro",
       "url": "https://open.spotify.com/track/31ePh9rOTkIERrloY8BUUc"
+    },
+    {
+      "album": {
+        "name": "Resta Ancora Un Po'",
+        "url": "https://open.spotify.com/album/5Yy72IJnQKirTKQ54lZBpO"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147162,
+      "name": "Resta Ancora Un Po'",
+      "url": "https://open.spotify.com/track/48zY2jicewpCnYEnWtrPPn"
     },
     {
       "album": {

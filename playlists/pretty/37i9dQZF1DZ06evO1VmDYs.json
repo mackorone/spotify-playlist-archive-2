@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 199007,
+  "num_followers": 199020,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXaugAAAAABYeW2mg9ZtrzHJRVoMorft",
+  "snapshot_id": "aXgAAAAAAACwmq09Qvw9JFEVEUIKOr06",
   "tracks": [
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 257000,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/5CjwXdq5Z73Va0XCPFG5Aq"
+      "duration_ms": 227733,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/1MnXNW03vkijBz0GHAsHgW"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 227733,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/1MnXNW03vkijBz0GHAsHgW"
+      "duration_ms": 257000,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/5CjwXdq5Z73Va0XCPFG5Aq"
     },
     {
       "added_at": null,

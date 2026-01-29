@@ -4,7 +4,7 @@
 
 > Beautiful and serene harp music for relaxation, meditation and unwinding from the day.
 
-230 songs - 11 hr 31 min
+232 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,16 +86,17 @@
 | [Harp Lullaby](https://open.spotify.com/track/7H5vKsjiKOJHCejokRXTTn) | [Gemma Leslie](https://open.spotify.com/artist/5h4IQnkFpwCjNQm83ucDlL) | [Harp Lullaby](https://open.spotify.com/album/4dNCOJKuAbXc7hlFnQYOn3) | 3:11 | 2022-05-11 | 2023-11-25 |
 | [Harp of Ambience](https://open.spotify.com/track/4JI4moyqtZxN4U4FAv41v7) | [Prayer Pray](https://open.spotify.com/artist/3XA8ZDL6L44ZdeD9KrnHQD) | [Heavenly Harp Music \(Relaxing Instrumentals\)](https://open.spotify.com/album/4ZAyhGtenHfhLraKj9kYdP) | 4:26 | 2022-05-11 | 2024-07-17 |
 | [Harp Planet](https://open.spotify.com/track/0GVkIhFp5GHcd37dk9VhSu) | [Bellezza Eterna](https://open.spotify.com/artist/3ekUIJNMmdW9bAYSKDzNNk) | [Harp Planet](https://open.spotify.com/album/68hfqwUUVlgQXqNZVdlNGn) | 2:41 | 2023-09-20 |  |
-| [Harpicious](https://open.spotify.com/track/7c3h8ow3py2JJUtRMpG1sF) | [Bellezza Eterna](https://open.spotify.com/artist/3ekUIJNMmdW9bAYSKDzNNk) | [Harpicious](https://open.spotify.com/album/73EzABIPlGC4Etx1DkctDf) | 3:20 | 2022-05-11 |  |
+| [Harpicious](https://open.spotify.com/track/7c3h8ow3py2JJUtRMpG1sF) | [Bellezza Eterna](https://open.spotify.com/artist/3ekUIJNMmdW9bAYSKDzNNk) | [Harpicious](https://open.spotify.com/album/73EzABIPlGC4Etx1DkctDf) | 3:20 | 2022-05-11 | 2026-01-29 |
 | [Harposphere](https://open.spotify.com/track/1dqwsoVM9BPjsRR5yoMkJP) | [Ellisar Dalana](https://open.spotify.com/artist/0VJq4X2fazAijd0hB6Nmab) | [Harposphere](https://open.spotify.com/album/7dfx9n9TLERB1A5JY96qr9) | 3:28 | 2024-07-16 |  |
 | [Harps of Hope](https://open.spotify.com/track/6VhB28RNNJ3z9eO3XNj5OT) | [Wayne Jefferson](https://open.spotify.com/artist/58FV9KFo35OpIkNTySzSlN) | [Oceans of Peace](https://open.spotify.com/album/2s2MshJ817Zorku0oJNGPG) | 4:01 | 2022-05-11 | 2024-07-17 |
 | [Healer](https://open.spotify.com/track/3PzA9cYVRZtCpfiHmKyxCK) | [Ellisar Dalana](https://open.spotify.com/artist/0VJq4X2fazAijd0hB6Nmab) | [Healer](https://open.spotify.com/album/1coZePEnmMuZyA3iun7buO) | 3:10 | 2023-10-09 | 2024-12-21 |
-| [Heartstrings](https://open.spotify.com/track/0m6DiMeAO3gtaHVatapMsC) | [Mico Lee](https://open.spotify.com/artist/1YryB6FiuM7yTkHnR4REr0) | [Heartstrings](https://open.spotify.com/album/6AplTEsX5EaArn5R55sKKa) | 2:56 | 2023-10-20 |  |
+| [Heartstrings](https://open.spotify.com/track/0m6DiMeAO3gtaHVatapMsC) | [Mico Lee](https://open.spotify.com/artist/1YryB6FiuM7yTkHnR4REr0) | [Heartstrings](https://open.spotify.com/album/6AplTEsX5EaArn5R55sKKa) | 2:56 | 2023-10-20 | 2026-01-29 |
 | [High Winds](https://open.spotify.com/track/1WOnU5JOwaUudohBX1lCbg) | [Zaid Kharal](https://open.spotify.com/artist/51C9KR7C0MbdzUwQ7uRiLj) | [High Winds](https://open.spotify.com/album/7BiSDta5reW3jBCzJJ9O1F) | 3:21 | 2023-10-04 |  |
 | [Horizon of Peace \(spa\)](https://open.spotify.com/track/4Xrri0YRlSiZn5GJET8hh8) | [Gløwlight](https://open.spotify.com/artist/2yDoxETP17TJozaloeq5kW) | [Horizon of Peace \(spa\)](https://open.spotify.com/album/3FtFPnJZtoHRlo6JuJ0NBs) | 2:57 | 2025-10-07 |  |
 | [Il Nostro Viaggio](https://open.spotify.com/track/7s1ZDjdY7rdLeBHCuGGivL) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Il Nostro Viaggio](https://open.spotify.com/album/4hwlkbgRByzifZq01kkERi) | 2:25 | 2023-09-20 |  |
 | [Imagination](https://open.spotify.com/track/4iJvgV83C0eljC2gZPXGyt) | [Zimdizi](https://open.spotify.com/artist/144HUlx66zGheUbx0092oN) | [Imagination](https://open.spotify.com/album/59ngJWf69ZTOcqluzAxTta) | 3:09 | 2023-01-05 |  |
 | [In the Moment](https://open.spotify.com/track/4fzQznJIuWPxl8jjmbAQAS) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [In the Moment](https://open.spotify.com/album/6u5sxi4wLpo9Uo1Ol84mGE) | 3:00 | 2023-11-24 | 2025-05-07 |
+| [Inner Palace](https://open.spotify.com/track/5BaStOJ0WApo7YpbWT8nB7) | [Yolof Palace](https://open.spotify.com/artist/5FKwBSGrKHDCJuhHbl1pnj) | [Inner Palace](https://open.spotify.com/album/2xscwv71Rc5wV7PR02YGuE) | 2:58 | 2026-01-28 |  |
 | [Introspective Illusions](https://open.spotify.com/track/2UqBobvn89LVzQeUdAInpZ) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Enchanted Eden & Introspective Illusions](https://open.spotify.com/album/1iAlgtn0THENUi4T6gMMbn) | 3:17 | 2023-07-11 |  |
 | [Journey to Infinity](https://open.spotify.com/track/4fvW97Q9pTAE1wX2Jwl8YG) | [Mandharu](https://open.spotify.com/artist/0JJagT7DJXc9QrG0cdtTzC) | [Universal Knowledge](https://open.spotify.com/album/3sVfZcAxl53dNB1hHRh1IU) | 7:00 | 2022-05-11 | 2023-10-05 |
 | [Late Night Sketch](https://open.spotify.com/track/1sydW6HsMZkaTayu8ZOplv) | [Kyradeen](https://open.spotify.com/artist/30vDwD43Sj0SGHkXtSPSKo) | [Late Night Sketch](https://open.spotify.com/album/0jhAlda3sHD23TSqEXNOz8) | 6:40 | 2022-07-18 | 2023-07-12 |
@@ -168,7 +169,7 @@
 | [Relax Me](https://open.spotify.com/track/0Bl3VuqBQMr38qvQe3Ct2c) | [Prayer Pray](https://open.spotify.com/artist/3XA8ZDL6L44ZdeD9KrnHQD) | [Relaxing Harp Music \(Harp Instrumentals\)](https://open.spotify.com/album/6kxlMO6zxMuPaxGvJ8Cdw0) | 3:30 | 2022-05-11 | 2024-11-15 |
 | [Relaxing Harp](https://open.spotify.com/track/6BdDlXdELLGgLlSD9fxodd) | [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w), [Músicas Para Relaxar](https://open.spotify.com/artist/1GpHohMWr8ZzO6CkaKOC6G), [Relaxing Musics](https://open.spotify.com/artist/4yfZySvyTem0vYS7RiaGyD) | [The Harp of Heaven Relaxing Healing Harps Musics](https://open.spotify.com/album/1NBsYTU5EvP55o3mqhzbR9) | 2:45 | 2022-05-11 | 2024-07-17 |
 | [Relaxing Harp](https://open.spotify.com/track/3BnRMdI0hOH4SO3YWYCkem) | [Músicas Para Relaxar](https://open.spotify.com/artist/1GpHohMWr8ZzO6CkaKOC6G), [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w) | [The Harp of Heaven Relaxing Healing Harps Musics](https://open.spotify.com/album/1s7dbimo6JmbOmlJNekmV6) | 2:46 | 2022-08-10 | 2024-04-19 |
-| [Relieving](https://open.spotify.com/track/2DWYBGBzNQKQ7sB1IJDnRz) | [Degravitated](https://open.spotify.com/artist/5X78BhxOkF4gr6Q0WD1CoY) | [Relieving](https://open.spotify.com/album/6ACa4v7ue1vczGy03tJkH0) | 3:37 | 2023-09-20 |  |
+| [Relieving](https://open.spotify.com/track/2DWYBGBzNQKQ7sB1IJDnRz) | [Degravitated](https://open.spotify.com/artist/5X78BhxOkF4gr6Q0WD1CoY) | [Relieving](https://open.spotify.com/album/6ACa4v7ue1vczGy03tJkH0) | 3:37 | 2023-09-20 | 2026-01-29 |
 | [Returning Gently](https://open.spotify.com/track/0szLXWwlIPhE6QzdzJkGaG) | [Etta](https://open.spotify.com/artist/5wcUrjRIi6pDYKGb0UZvd2) | [Returning Gently](https://open.spotify.com/album/1foJInQP4GkHHqtqA0s05v) | 2:47 | 2025-07-16 |  |
 | [Reverie Harp](https://open.spotify.com/track/4oPOb70QTYN7aG8h8ndYOr) | [Caiharice](https://open.spotify.com/artist/4FIDD82Hp8dfCV7hwuAfEn) | [Reverie Harp](https://open.spotify.com/album/36I1Jwr7psMzCm4vO0GAx5) | 3:13 | 2024-07-16 |  |
 | [River Flows in You](https://open.spotify.com/track/2gvxgyu4TVOizX3KMrlKmL) | [Moldan Sevoni](https://open.spotify.com/artist/3G8BggMGTr06vVbV3WyBhP) | [Cinematic Harp](https://open.spotify.com/album/7niYLEnTIdgTYILsjaKlJ4) | 2:53 | 2022-05-11 | 2023-11-25 |
@@ -183,6 +184,7 @@
 | [self.seed](https://open.spotify.com/track/5napRFHstqXkKCVCAXZbyr) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [!](https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U) | 4:31 | 2023-09-20 |  |
 | [Sentio te Respirare](https://open.spotify.com/track/0w3OazzjFhYaQKa4YPatHo) | [Kim Milton](https://open.spotify.com/artist/6pUb5DHD8md9juckLOnhQE) | [Sentio te Respirare](https://open.spotify.com/album/0uTw3PpCQFjf400Ji6R0AX) | 3:07 | 2025-05-06 |  |
 | [Serenity Strings](https://open.spotify.com/track/3gdOMj7sSMlu4TaozPhnSP) | [Ellisar Dalana](https://open.spotify.com/artist/0VJq4X2fazAijd0hB6Nmab) | [Serenity Strings](https://open.spotify.com/album/4BLP1KExeX6TBPNClzDqOS) | 3:10 | 2024-07-16 |  |
+| [Shimmer Mind](https://open.spotify.com/track/50PZ3D4prXi1dGoZ7eHs8m) | [Belaque](https://open.spotify.com/artist/6nTjKSHD6OST3B7WJmGX8F) | [Shimmer Mind](https://open.spotify.com/album/6tVXCSWJw3GiMOJdi4sRiR) | 2:27 | 2026-01-28 |  |
 | [Shores](https://open.spotify.com/track/4iLuqXagZetYISDGpw4XuU) | [Anais Byrne](https://open.spotify.com/artist/4tNwZLqZ99lS5gs93v9sV1) | [Shores](https://open.spotify.com/album/6xfPalwKRIyEIDSh3EHZqB) | 2:47 | 2025-05-06 |  |
 | [Sightings](https://open.spotify.com/track/5ySWIRF32lNet9eAGwjJna) | [Ala Paracha](https://open.spotify.com/artist/1v9HyVz3cXUbEpK9QONJ8D) | [Sightings](https://open.spotify.com/album/3Ye1KGMTXPw0TBMkUAHYD0) | 3:12 | 2023-10-04 |  |
 | [Silk](https://open.spotify.com/track/6o5egkOuik33HkMyLg7vW8) | [Wings Of Silk](https://open.spotify.com/artist/5cRPBrgj3kzFukDUej9Rny) | [Search For The Light](https://open.spotify.com/album/1kEaxsfCNg0V0FQRBRQQt7) | 2:54 | 2023-03-09 |  |

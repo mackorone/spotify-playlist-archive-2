@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-3,083 songs - 6 day 19 hr 32 min
+3,084 songs - 6 day 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1309,7 +1309,7 @@
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2022-04-30 | 2022-05-15 |
 | [In Your Smile](https://open.spotify.com/track/28xXeX4pHP3fdF5ltPgKtQ) | [Pam Ross](https://open.spotify.com/artist/3MP65JrJg7ydwg4AK2J6l4) | [When Therapy Fails](https://open.spotify.com/album/4Np49VKPWcDHsa9HEgYTRL) | 3:24 | 2024-04-10 | 2024-04-12 |
 | [Incomplete](https://open.spotify.com/track/0CnD7Hiw6pae6rLsZw5q5W) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Never Gone](https://open.spotify.com/album/1Wz9PANLXjaOskUv575hRV) | 3:59 | 2023-04-29 | 2023-05-01 |
-| [INDOMITA](https://open.spotify.com/track/0WZ0mocR7TQKMxarxabhUu) | [Healer](https://open.spotify.com/artist/7qRaG24tozcH0FbZ89OU2y), [Frozo](https://open.spotify.com/artist/6xdFlZBb3KO4mKyloZQU81) | [INDOMITA](https://open.spotify.com/album/1Si7vutMJjGrqZ87pX4iRI) | 2:26 | 2026-01-27 |  |
+| [INDOMITA](https://open.spotify.com/track/0WZ0mocR7TQKMxarxabhUu) | [Healer](https://open.spotify.com/artist/7qRaG24tozcH0FbZ89OU2y), [Frozo](https://open.spotify.com/artist/6xdFlZBb3KO4mKyloZQU81) | [INDOMITA](https://open.spotify.com/album/1Si7vutMJjGrqZ87pX4iRI) | 2:26 | 2026-01-27 | 2026-01-29 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2021-07-25 | 2021-09-19 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:32 | 2021-09-19 | 2022-06-12 |
 | [Infinite Affection](https://open.spotify.com/track/3AxDEWKkCuMtK6zmaikt99) | [Rubby](https://open.spotify.com/artist/58CkoIvSDda2jNRipPe4oT) | [Eternal](https://open.spotify.com/album/5c4wYHjufKxWvbppqBZC3H) | 1:19 | 2024-07-11 | 2024-07-14 |
@@ -1555,6 +1555,7 @@
 | [Lost Cause](https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Lost Cause](https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED) | 3:32 | 2021-06-05 | 2021-06-19 |
 | [Lost Cause](https://open.spotify.com/track/4191RXFPa7Ge9XkA4cWlna) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:32 | 2021-08-01 | 2021-08-08 |
 | [LOST FOREVER \(feat\. Westside Gunn\)](https://open.spotify.com/track/7EiUtdeoWcKqLi5ELZCjYf) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 2:43 | 2023-07-29 | 2023-08-03 |
+| [Lost Your Faith](https://open.spotify.com/track/0woU394Kw2pKlrkQy1JdZQ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Don't Click Play](https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI) | 3:14 | 2026-01-28 |  |
 | [Love Again](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Love Again](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 | 2023-01-28 | 2023-02-14 |
 | [Love All \(with JAY\-Z\)](https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:48 | 2021-09-05 | 2021-09-11 |
 | [Love In The Dark](https://open.spotify.com/track/0DuWDLjriRPjDRoPgaCslY) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:45 | 2021-10-20 | 2021-10-22 |

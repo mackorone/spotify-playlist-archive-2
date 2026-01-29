@@ -1151,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "Forest Gong",
+        "url": "https://open.spotify.com/album/4LoafUz92NoRvToNTx1ERl"
+      },
+      "artists": [
+        {
+          "name": "Rag Nally",
+          "url": "https://open.spotify.com/artist/2uSPSc1IHPt7fv6ve5jRQK"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100059,
+      "name": "Forest Gong",
+      "url": "https://open.spotify.com/track/6gxBjEGooDV7iLB6DmJAYr"
+    },
+    {
+      "album": {
         "name": "Raat ki Hawa",
         "url": "https://open.spotify.com/album/2M9KRROg3X52wfBWWDlkmu"
       },
@@ -3792,6 +3810,24 @@
       "duration_ms": 184615,
       "name": "Warm Showers",
       "url": "https://open.spotify.com/track/2912FSrpfP5O9nzuwSPlDa"
+    },
+    {
+      "album": {
+        "name": "Waves of Shanti",
+        "url": "https://open.spotify.com/album/1Lhkpgh31J7MzTUp7an7PO"
+      },
+      "artists": [
+        {
+          "name": "Shanti Soma",
+          "url": "https://open.spotify.com/artist/1iRH0CvdGqurka08WJqSe4"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219757,
+      "name": "Waves of Shanti",
+      "url": "https://open.spotify.com/track/6ONdzHJjPB6z42eNnGWrqg"
     },
     {
       "album": {

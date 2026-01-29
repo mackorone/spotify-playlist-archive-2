@@ -1,28 +1,64 @@
 {
-  "description": "The best new dance tracks from independent artists & labels. Curated by human Spotify editors. Featuring Rino.\n",
-  "num_followers": 209772,
+  "description": "The best new dance tracks from independent artists & labels. Curated by human Spotify editors. Featuring KE-YEN.\n",
+  "num_followers": 209792,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGRc0Jx5PZ/zRcn/V+Nkx4eENSi2",
+  "snapshot_id": "AAAAAGoZhRgTLJmUZXROmPCMH/745pVU",
   "tracks": [
     {
-      "added_at": "2026-01-21 18:53:17",
+      "added_at": "2026-01-28 16:55:42",
       "album": {
-        "name": "Could Be Us",
-        "url": "https://open.spotify.com/album/7mdtrUiVfSAJqU5hqvWLl7"
+        "name": "MOVE THAT BODY",
+        "url": "https://open.spotify.com/album/1GU3WNgi1R5nilwP6TyA6S"
       },
       "artists": [
         {
-          "name": "Rino",
-          "url": "https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s"
+          "name": "KE-YEN",
+          "url": "https://open.spotify.com/artist/0GXVEDSyiFrdaTBX2EQGiE"
         }
       ],
-      "duration_ms": 168927,
-      "name": "Could Be Us",
-      "url": "https://open.spotify.com/track/2uaavMJEdha8CM9cSDCd2m"
+      "duration_ms": 199600,
+      "name": "CHECK THE GROOVE",
+      "url": "https://open.spotify.com/track/4OtKS4PY2FZzDAu3LQTVPS"
+    },
+    {
+      "added_at": "2026-01-23 17:35:42",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/5KisNB2QCQ9og79IziCrYp"
+      },
+      "artists": [
+        {
+          "name": "JATO",
+          "url": "https://open.spotify.com/artist/7KARoSPxRf4ovDN7XxpqYa"
+        }
+      ],
+      "duration_ms": 184015,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/3Z6iA9iNhiKQIxib5VwcXp"
+    },
+    {
+      "added_at": "2026-01-23 05:00:26",
+      "album": {
+        "name": "MONEY IN THE BANK",
+        "url": "https://open.spotify.com/album/7kWrHQb4ORQ5mRBeoVuR4a"
+      },
+      "artists": [
+        {
+          "name": "BOABOA",
+          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
+        },
+        {
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+        }
+      ],
+      "duration_ms": 132874,
+      "name": "MONEY IN THE BANK",
+      "url": "https://open.spotify.com/track/2H6CCiKG6pEQm6mPEmNSsf"
     },
     {
       "added_at": "2026-01-23 05:00:26",
@@ -41,6 +77,26 @@
       "url": "https://open.spotify.com/track/4RWk0U7Fk6Y6TCLk0THcfN"
     },
     {
+      "added_at": "2026-01-28 16:55:42",
+      "album": {
+        "name": "Hibiscus",
+        "url": "https://open.spotify.com/album/16xUaFfdxnpmb17DzzJPzn"
+      },
+      "artists": [
+        {
+          "name": "Carr\u00e9",
+          "url": "https://open.spotify.com/artist/4OvPiX5d1CRMoTuqvoq202"
+        },
+        {
+          "name": "Bbyafricka",
+          "url": "https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W"
+        }
+      ],
+      "duration_ms": 179808,
+      "name": "Hibiscus",
+      "url": "https://open.spotify.com/track/3DAkxGV8Wk1QCrmBnl9m5R"
+    },
+    {
       "added_at": "2026-01-21 18:53:17",
       "album": {
         "name": "From The Top",
@@ -57,20 +113,128 @@
       "url": "https://open.spotify.com/track/5ELPO5jIJsvx01w5WIpXXf"
     },
     {
-      "added_at": "2026-01-23 05:00:26",
+      "added_at": "2026-01-21 18:53:17",
       "album": {
-        "name": "Possibilities",
-        "url": "https://open.spotify.com/album/417RYGMC4ZOFiPqjlsc7v6"
+        "name": "Brain",
+        "url": "https://open.spotify.com/album/08Q5LvgHul1FRzgAHJGInQ"
       },
       "artists": [
         {
-          "name": "SUNGYOO",
-          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
+          "name": "Hilel Lev",
+          "url": "https://open.spotify.com/artist/4V3TzdJEP0khoPzEcLLfM3"
+        },
+        {
+          "name": "ForgiveMeTommy!",
+          "url": "https://open.spotify.com/artist/55gwBuz7mELCtvJDIVHQOA"
         }
       ],
-      "duration_ms": 181860,
-      "name": "Possibilities",
-      "url": "https://open.spotify.com/track/3INBlTUmrormg1YJ7f4jZH"
+      "duration_ms": 424390,
+      "name": "Brain",
+      "url": "https://open.spotify.com/track/5Y5IeRVVXc2uUWKnzEBqsR"
+    },
+    {
+      "added_at": "2026-01-28 16:55:42",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/0PZ7Y5FGFY3j6bMkFJm6ub"
+      },
+      "artists": [
+        {
+          "name": "scruz",
+          "url": "https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        }
+      ],
+      "duration_ms": 253842,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/2eltpVluPhTkJUyfjIm9JW"
+    },
+    {
+      "added_at": "2026-01-15 15:31:15",
+      "album": {
+        "name": "GET WHAT I WANT",
+        "url": "https://open.spotify.com/album/1KsJR6P8hrNrGgHcs0sFql"
+      },
+      "artists": [
+        {
+          "name": "MAYV",
+          "url": "https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt"
+        }
+      ],
+      "duration_ms": 132026,
+      "name": "GET WHAT I WANT",
+      "url": "https://open.spotify.com/track/4g5eIUBlJu0kDKoczE8fsW"
+    },
+    {
+      "added_at": "2026-01-23 05:00:26",
+      "album": {
+        "name": "UGETME?",
+        "url": "https://open.spotify.com/album/5TqFpG0ivHJJQBgWOxzrXD"
+      },
+      "artists": [
+        {
+          "name": "Arky Waters",
+          "url": "https://open.spotify.com/artist/1cxe1pFJnavjEUC9hRKZli"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "UGETME?",
+      "url": "https://open.spotify.com/track/7k9QjWexvVU4668f4UhsBH"
+    },
+    {
+      "added_at": "2026-01-23 05:00:26",
+      "album": {
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/0EMjuR1Khcnfsz6rVg3CKw"
+      },
+      "artists": [
+        {
+          "name": "Kara Okay",
+          "url": "https://open.spotify.com/artist/6KyV1kU48HwGZpcQYy9cpR"
+        },
+        {
+          "name": "Freddi",
+          "url": "https://open.spotify.com/artist/4Zd4UkFH4ixGwkoC2rwigR"
+        }
+      ],
+      "duration_ms": 222481,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/1uW61kwzsvy4bnoexyz3Ad"
+    },
+    {
+      "added_at": "2026-01-28 16:55:42",
+      "album": {
+        "name": "Driving Me Crazy",
+        "url": "https://open.spotify.com/album/61uIK5lYT3NAlL9bTdouej"
+      },
+      "artists": [
+        {
+          "name": "Lewis Taylor",
+          "url": "https://open.spotify.com/artist/6jthzPkuxcw4rYbkg6XnoR"
+        }
+      ],
+      "duration_ms": 168169,
+      "name": "Driving Me Crazy",
+      "url": "https://open.spotify.com/track/5ZNu1VSf5HjQwkCCAgobjG"
+    },
+    {
+      "added_at": "2026-01-23 05:00:26",
+      "album": {
+        "name": "MOVE THAT BODY",
+        "url": "https://open.spotify.com/album/1GU3WNgi1R5nilwP6TyA6S"
+      },
+      "artists": [
+        {
+          "name": "KE-YEN",
+          "url": "https://open.spotify.com/artist/0GXVEDSyiFrdaTBX2EQGiE"
+        }
+      ],
+      "duration_ms": 255086,
+      "name": "MOVE THAT BODY",
+      "url": "https://open.spotify.com/track/6RHDOtXxAjEB39xz9A3nAw"
     },
     {
       "added_at": "2026-01-15 15:31:15",
@@ -93,6 +257,22 @@
       "url": "https://open.spotify.com/track/4ZxjpVTJfPfPr40IqbCOPj"
     },
     {
+      "added_at": "2026-01-21 18:53:17",
+      "album": {
+        "name": "Why Don't You Love Me",
+        "url": "https://open.spotify.com/album/1bpMmine1onCfOKeRfeRc3"
+      },
+      "artists": [
+        {
+          "name": "Kotti Affair",
+          "url": "https://open.spotify.com/artist/50crAqMaWr9rR7rbupFyq2"
+        }
+      ],
+      "duration_ms": 244850,
+      "name": "Why Don't You Love Me",
+      "url": "https://open.spotify.com/track/7sfqhOU04aOcql3s5ltkhm"
+    },
+    {
       "added_at": "2026-01-15 15:31:15",
       "album": {
         "name": "think & dream",
@@ -107,6 +287,54 @@
       "duration_ms": 216774,
       "name": "think & dream",
       "url": "https://open.spotify.com/track/1HLTR6jmmraeE6OucxKGZS"
+    },
+    {
+      "added_at": "2026-01-21 18:53:17",
+      "album": {
+        "name": "Could Be Us",
+        "url": "https://open.spotify.com/album/7mdtrUiVfSAJqU5hqvWLl7"
+      },
+      "artists": [
+        {
+          "name": "Rino",
+          "url": "https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s"
+        }
+      ],
+      "duration_ms": 168927,
+      "name": "Could Be Us",
+      "url": "https://open.spotify.com/track/2uaavMJEdha8CM9cSDCd2m"
+    },
+    {
+      "added_at": "2026-01-28 16:55:42",
+      "album": {
+        "name": "Fell So Out",
+        "url": "https://open.spotify.com/album/7kqCL8iWoPfyjx8XheSEur"
+      },
+      "artists": [
+        {
+          "name": "From Dave",
+          "url": "https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6"
+        }
+      ],
+      "duration_ms": 173171,
+      "name": "Fell So Out",
+      "url": "https://open.spotify.com/track/1vsA7hZEn4XKdvRkxDz9ov"
+    },
+    {
+      "added_at": "2026-01-28 16:55:42",
+      "album": {
+        "name": "Only Here For You",
+        "url": "https://open.spotify.com/album/6Wg6O05FkAFYI2G3ounA2z"
+      },
+      "artists": [
+        {
+          "name": "Eros for you",
+          "url": "https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa"
+        }
+      ],
+      "duration_ms": 185568,
+      "name": "Only Here For You",
+      "url": "https://open.spotify.com/track/2CgcrtKJGwwTQVdybwnsZS"
     },
     {
       "added_at": "2026-01-15 15:31:15",
@@ -141,6 +369,22 @@
       "url": "https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa"
     },
     {
+      "added_at": "2026-01-28 16:55:42",
+      "album": {
+        "name": "Buggin'",
+        "url": "https://open.spotify.com/album/0wyGZiE7BlROvkMYmO1cFh"
+      },
+      "artists": [
+        {
+          "name": "TUCCI",
+          "url": "https://open.spotify.com/artist/4lIFd7TDFUKtsZ37e6VjAR"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Buggin'",
+      "url": "https://open.spotify.com/track/4PsoZydr2gvlK1FKm9YH2C"
+    },
+    {
       "added_at": "2026-01-15 15:31:15",
       "album": {
         "name": "Work To Tha Beat",
@@ -159,38 +403,38 @@
     {
       "added_at": "2026-01-23 05:00:26",
       "album": {
-        "name": "MONEY IN THE BANK",
-        "url": "https://open.spotify.com/album/7kWrHQb4ORQ5mRBeoVuR4a"
+        "name": "Possibilities",
+        "url": "https://open.spotify.com/album/417RYGMC4ZOFiPqjlsc7v6"
       },
       "artists": [
         {
-          "name": "BOABOA",
-          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
-        },
-        {
-          "name": "Capo Lee",
-          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+          "name": "SUNGYOO",
+          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
         }
       ],
-      "duration_ms": 132874,
-      "name": "MONEY IN THE BANK",
-      "url": "https://open.spotify.com/track/2H6CCiKG6pEQm6mPEmNSsf"
+      "duration_ms": 181860,
+      "name": "Possibilities",
+      "url": "https://open.spotify.com/track/3INBlTUmrormg1YJ7f4jZH"
     },
     {
-      "added_at": "2026-01-15 15:31:15",
+      "added_at": "2026-01-28 16:55:42",
       "album": {
-        "name": "GET WHAT I WANT",
-        "url": "https://open.spotify.com/album/1KsJR6P8hrNrGgHcs0sFql"
+        "name": "YOUR SAFE PLACE",
+        "url": "https://open.spotify.com/album/0XXCoNG0TyRzOeEOLay8jR"
       },
       "artists": [
         {
-          "name": "MAYV",
-          "url": "https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt"
+          "name": "Lennor Trax",
+          "url": "https://open.spotify.com/artist/5vjDcVulWQcEU3QQ4Yrjpf"
+        },
+        {
+          "name": "Kennon",
+          "url": "https://open.spotify.com/artist/47zcpuymv5pP6Mdcf1OKA9"
         }
       ],
-      "duration_ms": 132026,
-      "name": "GET WHAT I WANT",
-      "url": "https://open.spotify.com/track/4g5eIUBlJu0kDKoczE8fsW"
+      "duration_ms": 128955,
+      "name": "BLACK BOOTS",
+      "url": "https://open.spotify.com/track/2KpEBx6HTXlO6LJMJwEx81"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -213,62 +457,6 @@
       "url": "https://open.spotify.com/track/55CMFV6MyOXW845UQeIDeu"
     },
     {
-      "added_at": "2026-01-23 05:00:26",
-      "album": {
-        "name": "Bodies",
-        "url": "https://open.spotify.com/album/0EMjuR1Khcnfsz6rVg3CKw"
-      },
-      "artists": [
-        {
-          "name": "Kara Okay",
-          "url": "https://open.spotify.com/artist/6KyV1kU48HwGZpcQYy9cpR"
-        },
-        {
-          "name": "Freddi",
-          "url": "https://open.spotify.com/artist/4Zd4UkFH4ixGwkoC2rwigR"
-        }
-      ],
-      "duration_ms": 222481,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/1uW61kwzsvy4bnoexyz3Ad"
-    },
-    {
-      "added_at": "2026-01-23 05:00:26",
-      "album": {
-        "name": "UGETME?",
-        "url": "https://open.spotify.com/album/5TqFpG0ivHJJQBgWOxzrXD"
-      },
-      "artists": [
-        {
-          "name": "Arky Waters",
-          "url": "https://open.spotify.com/artist/1cxe1pFJnavjEUC9hRKZli"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "UGETME?",
-      "url": "https://open.spotify.com/track/7k9QjWexvVU4668f4UhsBH"
-    },
-    {
-      "added_at": "2026-01-21 18:53:17",
-      "album": {
-        "name": "Brain",
-        "url": "https://open.spotify.com/album/08Q5LvgHul1FRzgAHJGInQ"
-      },
-      "artists": [
-        {
-          "name": "Hilel Lev",
-          "url": "https://open.spotify.com/artist/4V3TzdJEP0khoPzEcLLfM3"
-        },
-        {
-          "name": "ForgiveMeTommy!",
-          "url": "https://open.spotify.com/artist/55gwBuz7mELCtvJDIVHQOA"
-        }
-      ],
-      "duration_ms": 424390,
-      "name": "Brain",
-      "url": "https://open.spotify.com/track/5Y5IeRVVXc2uUWKnzEBqsR"
-    },
-    {
       "added_at": "2026-01-21 18:53:17",
       "album": {
         "name": "DONGURI ZOO",
@@ -283,6 +471,22 @@
       "duration_ms": 139384,
       "name": "GORILLA",
       "url": "https://open.spotify.com/track/1mCOIZ9bgvXOC0PDsTzqE2"
+    },
+    {
+      "added_at": "2026-01-28 16:55:42",
+      "album": {
+        "name": "For The Night",
+        "url": "https://open.spotify.com/album/2QnJK2my2hW7IMmf4MoLpT"
+      },
+      "artists": [
+        {
+          "name": "Mitch Freeman",
+          "url": "https://open.spotify.com/artist/3Z9cpCACRQX3FR4DzoFOiG"
+        }
+      ],
+      "duration_ms": 261363,
+      "name": "For The Night",
+      "url": "https://open.spotify.com/track/2CHZ0FcivKxDfW0TBfw6ng"
     },
     {
       "added_at": "2026-01-23 05:00:26",
@@ -317,20 +521,20 @@
       "url": "https://open.spotify.com/track/75sXo0wSGxpVC1kizgecZz"
     },
     {
-      "added_at": "2026-01-21 18:53:17",
+      "added_at": "2026-01-28 16:55:42",
       "album": {
-        "name": "Why Don't You Love Me",
-        "url": "https://open.spotify.com/album/1bpMmine1onCfOKeRfeRc3"
+        "name": "fall in love with the dj",
+        "url": "https://open.spotify.com/album/3JOCWksM1JNapygyn8tQPJ"
       },
       "artists": [
         {
-          "name": "Kotti Affair",
-          "url": "https://open.spotify.com/artist/50crAqMaWr9rR7rbupFyq2"
+          "name": "Lucky Iris",
+          "url": "https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC"
         }
       ],
-      "duration_ms": 244850,
-      "name": "Why Don't You Love Me",
-      "url": "https://open.spotify.com/track/7sfqhOU04aOcql3s5ltkhm"
+      "duration_ms": 180778,
+      "name": "fall in love with the dj",
+      "url": "https://open.spotify.com/track/56ZQHgh0SB0fefzS7BbT2E"
     },
     {
       "added_at": "2026-01-23 05:00:26",
@@ -397,22 +601,6 @@
       "url": "https://open.spotify.com/track/4iNrrIcQH94hGaan1KalLe"
     },
     {
-      "added_at": "2026-01-23 05:00:26",
-      "album": {
-        "name": "MOVE THAT BODY",
-        "url": "https://open.spotify.com/album/1GU3WNgi1R5nilwP6TyA6S"
-      },
-      "artists": [
-        {
-          "name": "KE-YEN",
-          "url": "https://open.spotify.com/artist/0GXVEDSyiFrdaTBX2EQGiE"
-        }
-      ],
-      "duration_ms": 255086,
-      "name": "MOVE THAT BODY",
-      "url": "https://open.spotify.com/track/6RHDOtXxAjEB39xz9A3nAw"
-    },
-    {
       "added_at": "2026-01-16 05:00:41",
       "album": {
         "name": "Obsession",
@@ -443,22 +631,6 @@
       "duration_ms": 180000,
       "name": "Patron",
       "url": "https://open.spotify.com/track/5dRaIOKmvdrt6QP9yru7Qm"
-    },
-    {
-      "added_at": "2026-01-23 17:35:42",
-      "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/5KisNB2QCQ9og79IziCrYp"
-      },
-      "artists": [
-        {
-          "name": "JATO",
-          "url": "https://open.spotify.com/artist/7KARoSPxRf4ovDN7XxpqYa"
-        }
-      ],
-      "duration_ms": 184015,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/3Z6iA9iNhiKQIxib5VwcXp"
     },
     {
       "added_at": "2026-01-15 15:31:15",

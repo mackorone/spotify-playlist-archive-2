@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMMpvGH77mA.md) - [plain]
 
 > Soft rhythms to guide your yoga and pilates practice\. <br/>Move your body with positivity, with ease, with complete freedom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,774 likes - 108 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,989 likes - 108 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMMpvGH77mA.md) - [plain]
 | 107 | [Focus Eight](https://open.spotify.com/track/6HXwPsyszHUZTXzWpFHEU4) | [Yoro Kobuto](https://open.spotify.com/artist/21TAVdB21U8rAixr2sANtf) | [Focus Eight](https://open.spotify.com/album/5nHYRrOAbRkrcuIyXorZKB) | 2:53 |
 | 108 | [Gravity](https://open.spotify.com/track/7AX6zCCvPvdFZHjKvBmgop) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Gravity](https://open.spotify.com/album/6z12PFnZ4sYNOuiN0Fa13D) | 2:27 |
 
-Snapshot ID: `AAAAAGSu6t5qJED2QEvuW8BZeRRdCFgw`
+Snapshot ID: `AAAAAESvLccUM2/kFEHlr2GeeBg07Wia`

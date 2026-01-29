@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie en español, con Zöelle en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,540 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,508 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 11 | [Frío](https://open.spotify.com/track/5LlMFXckeWw3rDFXzkt4iq) | [arrecí0](https://open.spotify.com/artist/7q8u6C6inUWxNOA4ZPPxHT) | [Frío](https://open.spotify.com/album/4eTjC4tiPXXegqUI7EgYeD) | 3:27 |
 | 12 | [Así Llegaste](https://open.spotify.com/track/6GDlDcAf5NkzdRj4huEHWn) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Así Llegaste](https://open.spotify.com/album/5X5kY72Pcz3j4cqOkurYFw) | 2:36 |
 | 13 | [Se Me Esta Yendo La Vida](https://open.spotify.com/track/0ndENUoSD83yGr9lXbJQFH) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Se Me Esta Yendo La Vida](https://open.spotify.com/album/1rcvdzVO3zQqMe2oGKq0yQ) | 3:02 |
-| 14 | [No Caeré](https://open.spotify.com/track/1bPe2xaaiu1YebQzRXJgid) | [Zoe Del Olmos](https://open.spotify.com/artist/5G0wpMp4ZGqDOcFCG4Ujph) | [No Caeré](https://open.spotify.com/album/5wOYzZguxkh7XTIFhYMY5P) | 2:13 |
+| 14 | [No Caeré](https://open.spotify.com/track/1bPe2xaaiu1YebQzRXJgid) | [Zoe del Olmos](https://open.spotify.com/artist/6ILwU6BnrRLuM4VvNNQTVJ) | [No Caeré](https://open.spotify.com/album/5wOYzZguxkh7XTIFhYMY5P) | 2:13 |
 | 15 | [sintonía](https://open.spotify.com/track/54dXei4Q9DlGFwAMeJlTD6) | [YSKS](https://open.spotify.com/artist/0mkWZigA6UqchGFGj5ZtP0) | [Ley de Atracción](https://open.spotify.com/album/16mvUAXeR1XgyLLCxZm4Mm) | 3:24 |
 | 16 | [˖⁺‧₊˚ ♡ Sentimental ♡ ˚₊‧⁺˖](https://open.spotify.com/track/5JJ3mbjr0yKfxGPcKrv42B) | [Amarillo Plátano](https://open.spotify.com/artist/3ViegLXm8G6MSGjMyugONL) | [˖⁺‧₊˚ ♡ Sentimental ♡ ˚₊‧⁺˖](https://open.spotify.com/album/1FLZq0n09OKbdk9L0vdt2H) | 2:48 |
 | 17 | [Llegar a lo más alto](https://open.spotify.com/track/69PPkQ17l0vwXuTbJTe3CF) | [Volavent](https://open.spotify.com/artist/6Mh7nmPPk64ydB0liVmXRb) | [Caída Libre](https://open.spotify.com/album/6ZkWKq5hKSuGg5fTYlLCiT) | 3:00 |
