@@ -182,7 +182,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 187560,
       "name": "A Little Thing Like Love",
       "url": "https://open.spotify.com/track/2PIx1sfY7xqlS6XxWJ8R4s"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
@@ -2018,7 +2018,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 197539,
       "name": "Fool's Gold",
       "url": "https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU"
@@ -4594,7 +4594,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
@@ -4612,7 +4612,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP"
@@ -5746,7 +5746,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 231160,
       "name": "Safe With You",
       "url": "https://open.spotify.com/track/6HdtgOCa5jYBR6MI3ZZBJG"
@@ -6993,6 +6993,24 @@
     },
     {
       "album": {
+        "name": "Tina",
+        "url": "https://open.spotify.com/album/1YQ9Zx12hytG0p6Tu8BF7X"
+      },
+      "artists": [
+        {
+          "name": "Liam C",
+          "url": "https://open.spotify.com/artist/5MPz6I6u7lDh2Cy1vPWfkd"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173103,
+      "name": "Tina",
+      "url": "https://open.spotify.com/track/7GUoTHzTLCG683mJZt7Avh"
+    },
+    {
+      "album": {
         "name": "TRUMP THE BILL",
         "url": "https://open.spotify.com/album/3GRJXyTb8dYDtWb8LbQgto"
       },
@@ -7964,7 +7982,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 193469,
       "name": "Your Nonsense Makes Sense",
       "url": "https://open.spotify.com/track/3WqN67qY3EMX536LcHIknO"

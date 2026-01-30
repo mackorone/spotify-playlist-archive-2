@@ -4,7 +4,7 @@
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-780 songs - 1 day 15 hr 53 min
+785 songs - 1 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Another Lovesong](https://open.spotify.com/track/7ElcwcWng7HG0mM4S0CKfV) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Another Lovesong](https://open.spotify.com/album/5fphkf2DFgsEbtOx4sBCnL) | 2:37 | 2024-08-29 | 2025-04-18 |
 | [Anything](https://open.spotify.com/track/5AjLZX8aPonV4fOdCnoTvl) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Anything](https://open.spotify.com/album/4JVLLc7dHD1pLrryXlcKkm) | 3:08 | 2024-06-27 | 2025-01-17 |
 | [APEROL SPRITZ](https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [APEROL SPRITZ](https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv) | 2:10 | 2024-10-10 | 2025-01-17 |
+| [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 | 2026-01-29 |  |
 | [Apple Cider Vinaigrette](https://open.spotify.com/track/3iRtKEY6hu68Kdr9UCwIUq) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Apple Cider Vinaigrette](https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg) | 3:44 | 2024-08-29 | 2024-10-04 |
 | [apricot jam](https://open.spotify.com/track/3lt60TB5Y83IgaijLVmg6f) | [mags](https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V) | [apricot jam](https://open.spotify.com/album/0YIqLLGGuZLiqfsZkL1e3N) | 3:14 | 2025-07-31 | 2025-08-22 |
 | [Aquamarine](https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Aquamarine](https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS) | 2:42 | 2024-10-24 | 2025-01-17 |
@@ -66,6 +67,7 @@
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2024-09-13 | 2025-04-25 |
 | [Bagklog](https://open.spotify.com/track/3fSz7ZX2hGm5ohBVpWCjDQ) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Bagklog](https://open.spotify.com/album/1yfZq0MXbX3ixmtkBsvG8G) | 3:12 | 2024-10-10 | 2025-04-25 |
 | [Baglæns](https://open.spotify.com/track/2IQAtBAWoIFo4I7aAwS7ta) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Baglæns](https://open.spotify.com/album/6t7vdccGJk7I1yCL0KbrZw) | 3:09 | 2024-06-27 | 2024-07-30 |
+| [Begge To](https://open.spotify.com/track/6UKrwmUHGDWtUxQXu0lrjg) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Begge To](https://open.spotify.com/album/2DClmVE5u5kWjrEkQgQDRj) | 3:06 | 2026-01-29 |  |
 | [beholder mit tøj på](https://open.spotify.com/track/6XkLzHg4OmaWNltw6HZVBx) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [beholder mit tøj på](https://open.spotify.com/album/6AVjbXQ4M2ApoQRsa6Ft98) | 3:08 | 2025-05-01 |  |
 | [Believe in Magic](https://open.spotify.com/track/1dnttHuboWa8BAm9mAIi8Q) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Believe in Magic](https://open.spotify.com/album/4Sgh8gZh2ycOpkpLRW68XX) | 3:01 | 2025-08-28 | 2025-09-19 |
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-06-27 | 2024-07-30 |
@@ -181,6 +183,7 @@
 | [Du Min](https://open.spotify.com/track/4kTFwVrxwwqj9yZoSEqoAV) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5) | [Du Min](https://open.spotify.com/album/7DemS03wH7rndSG5MAeAdS) | 1:59 | 2024-08-29 | 2024-10-04 |
 | [Du må hade mig](https://open.spotify.com/track/3KB0gNdAOeTk4E3EY1OMyC) | [VILMA](https://open.spotify.com/artist/5b1UUYvy8FEX9SRgMnAJaK) | [Du må hade mig](https://open.spotify.com/album/08wGweVvug9QZ2206WnqqQ) | 3:21 | 2025-08-28 | 2025-09-19 |
 | [Du og jeg](https://open.spotify.com/track/12RzHH3ZiYmBP6ehh33L20) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Du og jeg](https://open.spotify.com/album/0iyzRhtKLaGhdm4oZylw6O) | 3:55 | 2024-09-05 | 2025-04-18 |
+| [Du Ved Det \(feat\. Gunge\)](https://open.spotify.com/track/7cxaUKtOG7xYvSTskhEgwm) | [Gunge](https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN), [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [Du Ved Det \(feat\. Gunge\)](https://open.spotify.com/album/7ElC88rZmveuh3zypr6vcQ) | 2:49 | 2026-01-29 |  |
 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 | 2025-07-24 | 2025-10-03 |
 | [Dårligt Match](https://open.spotify.com/track/432EcFkV6If93xvxEx2Rim) | [Mumle](https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq) | [Dårligt Match](https://open.spotify.com/album/5LhsH1HcBOmR9SmtBhm7qv) | 2:51 | 2025-05-01 |  |
 | [Dét der er med livet](https://open.spotify.com/track/3GUL2HDpzfFxECfL89Mx8S) | [Malte Ebert](https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl) | [Dét der er med livet](https://open.spotify.com/album/2rzNQKFTo7azF1ix4XU4OR) | 3:16 | 2026-01-19 |  |
@@ -437,6 +440,7 @@
 | [Lost In Devotion](https://open.spotify.com/track/6WYqOPEvKiYihM47u2JNXh) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \(10th Anniversary Edition\)](https://open.spotify.com/album/1iFZcNmUvhWq5uXYmlKlKb) | 3:14 | 2025-10-16 |  |
 | [Lost Myself](https://open.spotify.com/track/0j5dWHZtHxLnQ5HuhwlQzy) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Occurrent Affairs](https://open.spotify.com/album/1JASMcjB8FkKtFrxOdtI62) | 3:07 | 2025-05-08 | 2025-06-20 |
 | [Lost Your Faith](https://open.spotify.com/track/4j5vH33ipS1ulVxbwtYkpm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lost Your Faith](https://open.spotify.com/album/3YwyFBiVp38ZenPHy04LRd) | 3:13 | 2025-02-06 | 2025-03-28 |
+| [Louisiana](https://open.spotify.com/track/0jyGqr3el63Ez1rZEYiW6c) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [](https://open.spotify.com/album/null) | 3:27 | 2026-01-29 |  |
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-30 | 2025-04-11 |
 | [Love in Real Life](https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Love in Real Life](https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ) | 2:34 | 2025-02-27 | 2025-03-28 |
 | [Love Is A Stillness](https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Is A Stillness](https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl) | 1:54 | 2025-02-13 | 2025-03-28 |
@@ -571,6 +575,7 @@
 | [Rend Mig I Røven](https://open.spotify.com/track/2v1TCgB9lxdMp7v2LPQ9GA) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Rend Mig I Røven](https://open.spotify.com/album/1sDdW8nuxx1aZpGNAAghSR) | 3:20 | 2025-08-14 | 2026-01-15 |
 | [Rene Hjerter](https://open.spotify.com/track/1A90dHXPAXFRrUJWdID0jJ) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Rene Hjerter Vinder Altid](https://open.spotify.com/album/4MPDu8E05I0dsGCi8A73oM) | 2:49 | 2025-05-01 | 2025-07-11 |
 | [Reposado](https://open.spotify.com/track/3xJeUxbt51wpvGk3YzqxLi) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:41 | 2024-06-27 | 2024-10-04 |
+| [Rise](https://open.spotify.com/track/2ziPIkuukbAOkRjJVWpZb9) | [Alex Vargas](https://open.spotify.com/artist/3kdU3J8t1HUPZqFyScP8SF) | [Rise](https://open.spotify.com/album/5YjCW2nweQPrLbeMhiTBvc) | 3:46 | 2026-01-29 |  |
 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-06-27 | 2024-08-30 |
 | [Roaring Heart](https://open.spotify.com/track/0HrEAbXFCH0pBUtVlRvG9f) | [Lasse Skriver](https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp) | [Roaring Heart](https://open.spotify.com/album/6AZRR8WCneRZBJtv3uSIuX) | 3:03 | 2026-01-22 |  |
 | [Rubber Boots](https://open.spotify.com/track/1v0reAiUn4qZx9yqORRzVz) | [RoseeLu](https://open.spotify.com/artist/0z6AS7aXaXqveKFus4AV9E) | [Rubber Boots](https://open.spotify.com/album/3o7UxakcUmQrDcSvO5rQy2) | 3:04 | 2024-11-07 | 2025-01-17 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: D Voice & Zuchu",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Mbosso",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -430,7 +430,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 144039,
       "name": "Around",
       "url": "https://open.spotify.com/track/66mog0RXdqf0IhpRlgU3h8"
@@ -550,6 +550,24 @@
       "duration_ms": 282758,
       "name": "Asante",
       "url": "https://open.spotify.com/track/2F3k8A61aTbtXlL6NS4vay"
+    },
+    {
+      "album": {
+        "name": "Asante",
+        "url": "https://open.spotify.com/album/6y8LWCcXI7BK7tlV8f3WVF"
+      },
+      "artists": [
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206346,
+      "name": "Asante",
+      "url": "https://open.spotify.com/track/0T0pA9Gv401iZcuX9sMjEc"
     },
     {
       "album": {
@@ -1741,6 +1759,24 @@
     },
     {
       "album": {
+        "name": "Darasa La Saba",
+        "url": "https://open.spotify.com/album/2wmpUJYl76GbTXEBJn52qV"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260413,
+      "name": "Darasa La Saba",
+      "url": "https://open.spotify.com/track/2kK6L0G26k6GrYCVG6BKwX"
+    },
+    {
+      "album": {
         "name": "Dear Ex",
         "url": "https://open.spotify.com/album/64gX9zSmA9yb7wvWsl1ebI"
       },
@@ -2892,7 +2928,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 175199,
       "name": "Go",
       "url": "https://open.spotify.com/track/4RuMpok66IGRwuf46PX5xo"
@@ -3096,6 +3132,24 @@
       "duration_ms": 206060,
       "name": "Hapo",
       "url": "https://open.spotify.com/track/1Y5KqIafg4rsEbEzw0MR2h"
+    },
+    {
+      "album": {
+        "name": "Hayanogi",
+        "url": "https://open.spotify.com/album/1OeqcTOml3iCr45fZhZFoS"
+      },
+      "artists": [
+        {
+          "name": "Yammi",
+          "url": "https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204932,
+      "name": "Hayanogi",
+      "url": "https://open.spotify.com/track/3CsK7zOiSlT58HlRHKASOh"
     },
     {
       "album": {
@@ -4448,7 +4502,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 159081,
       "name": "Kidedea",
       "url": "https://open.spotify.com/track/0Pj2bHpwECe2t7tE1DK51y"
@@ -4826,6 +4880,28 @@
       "duration_ms": 263799,
       "name": "Kufuli",
       "url": "https://open.spotify.com/track/4TKXEFQdDJop18ViF8uXvM"
+    },
+    {
+      "album": {
+        "name": "Kula Bia",
+        "url": "https://open.spotify.com/album/5Mi6d0LgulzTaoYFfoQjbc"
+      },
+      "artists": [
+        {
+          "name": "G Nako",
+          "url": "https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC"
+        },
+        {
+          "name": "Kona Beats",
+          "url": "https://open.spotify.com/artist/7qd5hiO16apL0pvx1NGRwr"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140016,
+      "name": "Kula Bia",
+      "url": "https://open.spotify.com/track/2q9edzSzOQbeb01gZJ8rcL"
     },
     {
       "album": {
@@ -5248,7 +5324,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 223008,
       "name": "Lighter",
       "url": "https://open.spotify.com/track/32xMl0Kh0ksoRiae5xOxUN"
@@ -6146,7 +6222,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 192808,
       "name": "Mitano",
       "url": "https://open.spotify.com/track/2MeQYMD5hTdHVRX4fjpYvi"
@@ -6862,7 +6938,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 158400,
       "name": "My Woman",
       "url": "https://open.spotify.com/track/4UPsgZem4ubkDNfEjUg0lw"
@@ -6924,6 +7000,24 @@
       "duration_ms": 175829,
       "name": "Nafunga Mwaka",
       "url": "https://open.spotify.com/track/1M3ICM2DALtaw0FKnXlnTa"
+    },
+    {
+      "album": {
+        "name": "Najipenda",
+        "url": "https://open.spotify.com/album/1o41cWQLB1wgbvtRfmp3f8"
+      },
+      "artists": [
+        {
+          "name": "Lony Bway",
+          "url": "https://open.spotify.com/artist/2lCSNBa7XKaxqgIlAhGXFJ"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165957,
+      "name": "Najipenda",
+      "url": "https://open.spotify.com/track/0qWmdMX297pBnDSlozN5pl"
     },
     {
       "album": {
@@ -7016,6 +7110,24 @@
       "duration_ms": 194000,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/3TlutO6C5h7LgLcH0X8GMc"
+    },
+    {
+      "album": {
+        "name": "Nakutaka",
+        "url": "https://open.spotify.com/album/5NRy4DtnPAHlzuCcrFNqM8"
+      },
+      "artists": [
+        {
+          "name": "Appy",
+          "url": "https://open.spotify.com/artist/22CP7pIdG3mGt7AL1Dm4gv"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Nakutaka",
+      "url": "https://open.spotify.com/track/04WwWEEcx0KfUdbwuGtuvU"
     },
     {
       "album": {
@@ -8220,7 +8332,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 175199,
       "name": "No Body",
       "url": "https://open.spotify.com/track/7jqv2VbW2qaNNmFDcP9mWT"
@@ -8544,7 +8656,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 151745,
       "name": "Oluwa",
       "url": "https://open.spotify.com/track/69nI0KvwAfzes6yHV6awHw"
@@ -8656,7 +8768,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 208207,
       "name": "Ova",
       "url": "https://open.spotify.com/track/7uX7KgRXMVcwH5vA6MdtZo"
@@ -9324,7 +9436,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 173550,
       "name": "Rehab",
       "url": "https://open.spotify.com/track/5pBNVube1fnDWddcpbTj2v"
@@ -10562,7 +10674,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 172800,
       "name": "Stress",
       "url": "https://open.spotify.com/track/3DlhhY29iL8EJFTgDpKBHC"
@@ -12115,6 +12227,28 @@
     },
     {
       "album": {
+        "name": "Wajue (James L. Martinez Remix)",
+        "url": "https://open.spotify.com/album/4AxANr9sdp9Os7sSrxGr6G"
+      },
+      "artists": [
+        {
+          "name": "Dayoo",
+          "url": "https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc"
+        },
+        {
+          "name": "James L. Martinez",
+          "url": "https://open.spotify.com/artist/51J4CcGfK3ntd91P3QnTxH"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172205,
+      "name": "Wajue (James L. Martinez Remix)",
+      "url": "https://open.spotify.com/track/4TNgFVGRdpStWO8hxiEPlP"
+    },
+    {
+      "album": {
         "name": "Wale Wale (feat. Diamond Platnumz)",
         "url": "https://open.spotify.com/album/47dA6MzeREthztzSXZB1TU"
       },
@@ -12174,7 +12308,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 223008,
       "name": "Wanangu (feat. DJ Awakening)",
       "url": "https://open.spotify.com/track/0iyuCNsBSQLf7FnOkGm6MG"

@@ -3645,6 +3645,24 @@
     },
     {
       "album": {
+        "name": "Court and Spark",
+        "url": "https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166160,
+      "name": "Court and Spark",
+      "url": "https://open.spotify.com/track/2l8kERLPqgP7p94Duj9nqH"
+    },
+    {
+      "album": {
         "name": "Portishead",
         "url": "https://open.spotify.com/album/3G36754KQVLyGuskraEAVA"
       },
@@ -10910,6 +10928,24 @@
       "duration_ms": 5650,
       "name": "Mornin'!",
       "url": "https://open.spotify.com/track/5c3OcRPB9vCgCtenGQpIUv"
+    },
+    {
+      "album": {
+        "name": "Ladies of the Canyon",
+        "url": "https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193666,
+      "name": "Morning Morgantown",
+      "url": "https://open.spotify.com/track/6jhvDPA1wPvyZgt4Sd0jV2"
     },
     {
       "album": {

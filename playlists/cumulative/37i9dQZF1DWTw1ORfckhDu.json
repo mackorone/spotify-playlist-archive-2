@@ -1314,7 +1314,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 233531,
       "name": "AUDEMARS PiQUET",
       "url": "https://open.spotify.com/track/1OPszPKUlwORknReyxf426"
@@ -12902,6 +12902,28 @@
       "duration_ms": 157788,
       "name": "Naadindoo (feat. Ege Zulu)",
       "url": "https://open.spotify.com/track/4CV6CKX2rRNLbfUH0PN3yL"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "VJ",
+          "url": "https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159300,
+      "name": "Naamat",
+      "url": "https://open.spotify.com/track/3Lp4gjt2Wa3ch8zNHEdegK"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Chemutai Sage
+> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Nikita Kering'
 
-301 songs - 16 hr 57 min
+303 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Diani](https://open.spotify.com/track/18toFZCoROJwVUj9MJ1xnd) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX), [Supadrum](https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H) | [Diani](https://open.spotify.com/album/40CC1N5WnbICW35CqdTEuu) | 3:00 | 2023-12-15 | 2024-09-20 |
 | [Different](https://open.spotify.com/track/1rh9ejTFlDxhfcrGftrJXz) | [Hiribae](https://open.spotify.com/artist/1WqYHHRmIP1FduEtaEicL3), [Tugi](https://open.spotify.com/artist/66RQGuKdIdvRrU3vxIfbc5) | [Different](https://open.spotify.com/album/1trH6Lu0maC1H9e0UBkQx8) | 3:31 | 2022-10-27 | 2023-08-18 |
 | [Digestive's Interlude](https://open.spotify.com/track/4HtPQfPIefNlbD1tS8vln7) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Digestive's Interlude](https://open.spotify.com/album/58e3kFKcmQ2eiHiOlJeKV6) | 1:37 | 2024-10-17 | 2025-07-04 |
+| [Dilly Darling](https://open.spotify.com/track/5KXvjxNDjDMqw3yzs3Hdm4) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Dilly Darling](https://open.spotify.com/album/5ev4H9jy1ftkDODd5HXiKN) | 3:47 | 2026-01-29 |  |
 | [Dizzy](https://open.spotify.com/track/3x3RkNq6HRBa35zuo0kcx8) | [Kuiyu](https://open.spotify.com/artist/57FPDvahreSlCOtOh6k3UD), [Wambura Mugo](https://open.spotify.com/artist/5mOh1wmnmL8QqIvbb3KY96) | [Dizzy](https://open.spotify.com/album/1hImerDNye4ff7EyRwmi4L) | 4:07 | 2022-06-16 | 2023-05-19 |
 | [DON'T CALL ME \(Live\)](https://open.spotify.com/track/7pXrvCW8LkIqdqQGYZx6la) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [ANGARITA](https://open.spotify.com/artist/3i4OsTUD79iYLEVlXJavgS) | [DON'T CALL ME \(Live\)](https://open.spotify.com/album/1qJK7MGwPnmwr4pJ7tPLMp) | 3:17 | 2025-07-03 |  |
 | [Drug](https://open.spotify.com/track/0CSstPj1rRmpxoLojrIYVU) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Drug](https://open.spotify.com/album/5nSi4krADjtHDVziZ6zGsF) | 3:05 | 2021-12-28 | 2023-05-27 |
@@ -93,6 +94,7 @@
 | [Hamu](https://open.spotify.com/track/5tE1NiKNG949IRPuDUe0No) | [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP), [Zawadi Mukami](https://open.spotify.com/artist/49UnEPh42EMERfMtt6jf6v), [Chris Barr](https://open.spotify.com/artist/4RCcD8VHtHFG79JbhkBcpo) | [Musings](https://open.spotify.com/album/4tP74evyRsApusUxzoOlij) | 3:57 | 2025-05-15 |  |
 | [Happy](https://open.spotify.com/track/6mfOlusYuEHqUjYRh5msRB) | [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp), [The Proverbial Kiki](https://open.spotify.com/artist/2kF0bcJNoJm8d21xlnAGT8) | [Happy](https://open.spotify.com/album/50yMpW5GhzhpZhBZ0mqDu3) | 3:50 | 2024-11-21 | 2025-07-18 |
 | [Hardest Thing](https://open.spotify.com/track/3VhO6BOBUVXj7kf7dFJEkA) | [WAMUYU](https://open.spotify.com/artist/5bzxOcTF1zHbuPm0hhgq03) | [Songa](https://open.spotify.com/album/2W1aQvUtiMpWTkqV48dcIl) | 3:33 | 2023-10-26 | 2024-06-28 |
+| [Heal](https://open.spotify.com/track/4NTXQuCZ1DrGRgdm1ItzKa) | [Mūmbi](https://open.spotify.com/artist/0rFgn9BBsW8nHbsp3A4kDF) | [Healing](https://open.spotify.com/album/0tOUGN0EVBE6KDwWH7Me8k) | 3:30 | 2026-01-29 |  |
 | [Heartbreak Song](https://open.spotify.com/track/5EDdDNPEijkgv5ghNQK3Nl) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Heartbreak Song](https://open.spotify.com/album/4s6PcuPpXiHS5XOcZduQJa) | 3:27 | 2024-05-03 |  |
 | [Hello Sadness](https://open.spotify.com/track/7vmwfBkvRtJ6ncov0ClTpp) | [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Steph Kapela](https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl), [Sim Citizen](https://open.spotify.com/artist/6yrGrT2cOZ3R2oZqNQozsu) | [Hello Sadness](https://open.spotify.com/album/7JxP2gswniXKC54kESMAX8) | 4:01 | 2023-04-06 | 2024-02-23 |
 | [Hera Kakaheri](https://open.spotify.com/track/0HBc7Ufa6HYLSV5MCtmN04) | [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp) | [Boss](https://open.spotify.com/album/43KKokp4Xhul9RXFULhX82) | 3:36 | 2025-02-13 | 2025-02-21 |
@@ -103,7 +105,7 @@
 | [Hooptie Dreaming](https://open.spotify.com/track/24RziR14e8PcXwQE0PjARY) | [N'Jiru](https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ) | [9](https://open.spotify.com/album/5UmCWZYsFIfjTQM9qcBdQk) | 3:20 | 2025-10-02 |  |
 | [How Do I Love You?](https://open.spotify.com/track/0ORidvLztLQP8FlTt3D6Wv) | [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [How Do I Love You?](https://open.spotify.com/album/4Z3COKGKGS2f7TOhO3wnQE) | 3:49 | 2025-08-14 |  |
 | [HOW FAR](https://open.spotify.com/track/5UFBcKCxVaP7vEbD0BIOnl) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [HOW FAR](https://open.spotify.com/album/3G1SyZ8rYlbONtvTRtmo0W) | 3:40 | 2024-05-16 | 2024-11-29 |
-| [Hujawahi Nipenda](https://open.spotify.com/track/1KpsGQ1CE8jOHBSAyqIz5e) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Hujawahi Nipenda](https://open.spotify.com/album/3FsC48Ey5w01pDux5ec2Um) | 2:30 | 2025-03-07 |  |
+| [Hujawahi Nipenda](https://open.spotify.com/track/1KpsGQ1CE8jOHBSAyqIz5e) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Hujawahi Nipenda](https://open.spotify.com/album/3FsC48Ey5w01pDux5ec2Um) | 2:30 | 2025-03-07 | 2026-01-30 |
 | [Huyo](https://open.spotify.com/track/0RD4K03Z1EFKw1QzCETdTw) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Labor Of Love](https://open.spotify.com/album/3qpsd3313heP97lFUi5klk) | 3:46 | 2025-09-04 |  |
 | [Hypnotize](https://open.spotify.com/track/5nOcqh0xXY6ckhXIqvnNyJ) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Four Letter Word](https://open.spotify.com/album/14RN20kRB6ZYdfJZgyUMbF) | 2:46 | 2025-02-13 | 2025-02-21 |
 | [I Choose You](https://open.spotify.com/track/3mvDG5E5xabgrSCmDt8J0T) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [I Choose You](https://open.spotify.com/album/77ryh1tpNBXrmZUGGwgasB) | 3:37 | 2025-02-13 | 2025-02-21 |
@@ -152,7 +154,7 @@
 | [Love](https://open.spotify.com/track/6c5Ra1OA4oYbwvyVvo3BMi) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u) | [Love](https://open.spotify.com/album/71d2voVpwF5OY2pdAtU2IC) | 3:40 | 2022-01-20 | 2022-04-29 |
 | [Love Ballad No.6](https://open.spotify.com/track/1tCzBDnOACQQxwM1YYKw3d) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Love Ballad No.6](https://open.spotify.com/album/2T2zu2SlQVmfzBGcgsV4qh) | 4:45 | 2024-09-13 |  |
 | [Love Me or Leave Me](https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt) | 3:25 | 2022-11-24 | 2023-09-01 |
-| [Love on me](https://open.spotify.com/track/6Ry7RTz5becrzrhVL9ol79) | [Atemi Oyungu](https://open.spotify.com/artist/0dMogZzQ1xyJ6B7Oo5RJeY) | [Love on me](https://open.spotify.com/album/3WSH8cxyBbSpzjzhTo3ayA) | 4:56 | 2025-02-07 |  |
+| [Love on me](https://open.spotify.com/track/6Ry7RTz5becrzrhVL9ol79) | [Atemi Oyungu](https://open.spotify.com/artist/0dMogZzQ1xyJ6B7Oo5RJeY) | [Love on me](https://open.spotify.com/album/3WSH8cxyBbSpzjzhTo3ayA) | 4:56 | 2025-02-07 | 2026-01-30 |
 | [Love Somebody](https://open.spotify.com/track/23Lpx06nI7zNXMQGfBc6fr) | [VISILA](https://open.spotify.com/artist/7KRQBvTwiUh0l5ylQsRttK) | [Love Somebody](https://open.spotify.com/album/7leuw9dFN1tJtTqWR24cwu) | 3:00 | 2024-09-19 | 2025-09-06 |
 | [Love Song](https://open.spotify.com/track/0kYTjcTXayQcdUzohxfAqp) | [TrishaGrey](https://open.spotify.com/artist/1lKTTkoqEttbG5Tdn9X8Jx) | [Love Song](https://open.spotify.com/album/0xNOx0ypbNqtjYKKhs1Xza) | 3:11 | 2022-05-26 | 2023-08-25 |
 | [Love Song](https://open.spotify.com/track/6eUMsc38EqwN70ggjXnWBV) | [TrishaGrey](https://open.spotify.com/artist/1lKTTkoqEttbG5Tdn9X8Jx) | [Love Song](https://open.spotify.com/album/4ioUbWV9uoKVBGwSiqjrpC) | 3:11 | 2022-05-26 | 2022-08-25 |

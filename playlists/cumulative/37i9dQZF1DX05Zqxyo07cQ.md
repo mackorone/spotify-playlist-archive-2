@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-949 songs - 1 day 21 hr 35 min
+952 songs - 1 day 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,7 +390,7 @@
 | [Harmonious Halo](https://open.spotify.com/track/4084NYrwCwfQyuP0vvpXv6) | [Il Sognatore](https://open.spotify.com/artist/7hmFAgrbDEAAIcGan0kxxM) | [Harmonious Halo](https://open.spotify.com/album/2K2QiC26BNMbYnYUGaMHB6) | 2:53 | 2024-05-04 | 2024-05-22 |
 | [Harvest Moon](https://open.spotify.com/track/1rJg3BtPS7AuK2oKJKS0Ds) | [Ursae Minoris](https://open.spotify.com/artist/6AaoxXuj5Iwi9Tm1BATmFo) | [Harvest Moon](https://open.spotify.com/album/0QU5tC1BhoRXa9vbe88QQd) | 3:08 | 2024-08-02 | 2024-08-31 |
 | [Haven](https://open.spotify.com/track/5DhPUg2oGoQkEbIJcQiSmG) | [Alexander Sterling](https://open.spotify.com/artist/7jCHPpIZYNW9xezoE6m6Ez) | [Haven](https://open.spotify.com/album/0FY3phJDQ9r1uPmy2OMjXL) | 2:22 | 2025-03-27 | 2025-04-19 |
-| [Haven of Peace](https://open.spotify.com/track/2GLriaoX9PE2thf0iDoh12) | [Linden Vale](https://open.spotify.com/artist/5Jh7KeIgfvJbqVDeosT2C3) | [Haven of Peace](https://open.spotify.com/album/03I8rTqclIdnIvS2WmMQk9) | 2:41 | 2025-10-08 |  |
+| [Haven of Peace](https://open.spotify.com/track/2GLriaoX9PE2thf0iDoh12) | [Linden Vale](https://open.spotify.com/artist/5Jh7KeIgfvJbqVDeosT2C3) | [Haven of Peace](https://open.spotify.com/album/03I8rTqclIdnIvS2WmMQk9) | 2:41 | 2025-10-08 | 2026-01-30 |
 | [Hearts in Eden](https://open.spotify.com/track/7DKJZvhmfl6ijl5mjFGooO) | [Moonlace](https://open.spotify.com/artist/5rWVqF1S6rQFrpha9UU4ip) | [Hearts in Eden](https://open.spotify.com/album/2pk80AF4W803dFQ71IOeDF) | 3:00 | 2025-05-27 | 2025-10-15 |
 | [Heroic](https://open.spotify.com/track/2EMxENn8g5DBQmTy3t4Zvc) | [Thoas Galla](https://open.spotify.com/artist/3nLy5nvClRzsJbCuRQfvZF) | [Heroic](https://open.spotify.com/album/5tXmpY8WTol7lCcf5VvaNx) | 2:43 | 2025-01-08 | 2025-11-13 |
 | [Hibernation](https://open.spotify.com/track/7AcNOiZhA5jRxCp5c3wOyz) | [Hushed](https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn) | [Hibernation](https://open.spotify.com/album/5dVDeiMsoSUGb0KJhXnpmi) | 3:36 | 2023-03-23 | 2024-01-18 |
@@ -790,6 +790,7 @@
 | [Somnium](https://open.spotify.com/track/1AAarJ2ZVp2JNvoRY43V41) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Somnium](https://open.spotify.com/album/3A13wz1QjS5umrWC7sEA7L) | 2:14 | 2023-03-23 | 2023-05-06 |
 | [Somnolence](https://open.spotify.com/track/0tC5fBzBASYQGoMtIZJ38I) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Somnolence](https://open.spotify.com/album/2Jsc7fJFeqZMFMoNw5OBfN) | 2:47 | 2025-07-09 | 2026-01-28 |
 | [Somnolent Mori](https://open.spotify.com/track/7dl6vG0X75fB9J5l7b494p) | [Umi no Yume](https://open.spotify.com/artist/2CbTni1UIAt2eoi6jMWaaQ) | [Somnolent Mori](https://open.spotify.com/album/1czqzODAZjH1TClXpW61qz) | 3:39 | 2025-04-09 | 2025-11-06 |
+| [Somnora](https://open.spotify.com/track/4IMdK8Hf9uJDwDe2v0LuU2) | [Evensia](https://open.spotify.com/artist/2Idc0PVXaZL5nPv8IjcJru) | [Somnora](https://open.spotify.com/album/1KqjR3EvzTUSaCFy8HYi79) | 2:46 | 2026-01-27 |  |
 | [Sona](https://open.spotify.com/track/685glMCresRk1Yvy50O1wO) | [Ka Wadhwa](https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv) | [Sona](https://open.spotify.com/album/5eCtu7zfvFUWQyqp63NDHu) | 2:30 | 2023-03-23 | 2024-05-05 |
 | [Sonhando](https://open.spotify.com/track/1qexZcBQUxrTM3RGeLU7Nr) | [Nessa Manuel](https://open.spotify.com/artist/3vD11eZMv9wyggR6749dCd) | [Sonhando](https://open.spotify.com/album/5qYW8saFQjour2bahZCw1T) | 3:08 | 2023-03-23 | 2024-01-18 |
 | [Soñando contigo](https://open.spotify.com/track/1i08QuMuJk5RPROZkCkt8k) | [Artura Ponce Valles](https://open.spotify.com/artist/1V3rUG8q0KGU4wPVS0LIq1) | [Soñando contigo](https://open.spotify.com/album/1Ht1ElfGVwAe4CUmCKKCoa) | 3:19 | 2023-03-23 | 2024-02-09 |
@@ -829,6 +830,7 @@
 | [Stress Reliever](https://open.spotify.com/track/5y6Cy93KwBgAuL2Il5YXN7) | [Tuscany Flow](https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH) | [Stress Reliever](https://open.spotify.com/album/2hezA7VkyAiKBzUrXGpB3k) | 3:10 | 2024-06-18 | 2025-05-27 |
 | [Stuck In A Dream](https://open.spotify.com/track/26S0ebDSZX2BBmDXQhpsrq) | [Joyce Dulaney](https://open.spotify.com/artist/5fdxuo0vbjD6xK1zty3Kvi) | [Stuck In A Dream](https://open.spotify.com/album/1aUbffKm9QcEYO7ZTOplKQ) | 2:48 | 2023-03-23 | 2024-01-18 |
 | [Suavidade](https://open.spotify.com/track/4F0muRT2KxqONuS4PwE44V) | [Adrian Eden](https://open.spotify.com/artist/6cUUY5PB9iNclJ8YeFKKiN) | [Suavidade](https://open.spotify.com/album/7q3Ix7F4HOKYpzCxcCE5qz) | 3:25 | 2025-02-14 | 2025-12-04 |
+| [Subdued](https://open.spotify.com/track/5mGl14H6nVCjNxBIEdFQIH) | [Sonical Serenity](https://open.spotify.com/artist/5efTlkpka6MMoEpB3QXXYM) | [Subdued](https://open.spotify.com/album/50ZvcPrxTGKJkxEBJ2BPJO) | 2:35 | 2026-01-27 |  |
 | [Subharmonium](https://open.spotify.com/track/3JQiARKat2vsCYG0rTthgz) | [Aryana Jackson](https://open.spotify.com/artist/6unKypmWVba7Waesy7ITdX) | [Subharmonium](https://open.spotify.com/album/1f45EViHpZSNXwkOCMpNH0) | 2:43 | 2023-03-23 | 2024-03-21 |
 | [Sueno](https://open.spotify.com/track/6ZUPb0L9JcZM1e7c1nGCIx) | [Roland Mercier](https://open.spotify.com/artist/6wCp7aiL9NQ8j2vl6BQAsa) | [Sueno](https://open.spotify.com/album/6y6lWnmpKOMXvYJgNcXKvs) | 2:43 | 2023-03-23 | 2024-02-09 |
 | [Suivez\-moi](https://open.spotify.com/track/1iUWhhQqt3vCxrMCZluokP) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Suivez\-moi](https://open.spotify.com/album/56Ic0KB997WaLyYWoDRu09) | 3:20 | 2023-03-23 | 2024-02-09 |
@@ -837,7 +839,7 @@
 | [Sundial in the Fog](https://open.spotify.com/track/63n4BKVSL1tUR0wT5uVxD9) | [Emberlace](https://open.spotify.com/artist/7a7GAIop7VfMQgWiSphyQC) | [Sundial in the Fog](https://open.spotify.com/album/2QUlbl71LkpvEev7FhoMHv) | 2:58 | 2025-06-17 |  |
 | [Sunlit Pathway](https://open.spotify.com/track/1LcvWhopXfaoZ7zEyp2tO5) | [Joudinoire](https://open.spotify.com/artist/5mZP1quYaLv8h8ppurtqaX) | [Sunlit Pathway](https://open.spotify.com/album/3wuR2L2DMZnKdT8rgy1LKG) | 2:31 | 2025-02-04 |  |
 | [Sunthread](https://open.spotify.com/track/00UONkk82og7iOStsRQtMG) | [Ethereal Nocturne](https://open.spotify.com/artist/25nulPweeZpoA1zyu4wASV) | [Sunthread](https://open.spotify.com/album/3RfL5E3O6eXmGxFFcm7O8f) | 2:12 | 2024-12-12 | 2025-07-29 |
-| [Suspended Glimmers](https://open.spotify.com/track/1Ih3L87Mc75K4dqQBKy62R) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Suspended Glimmers](https://open.spotify.com/album/3r2vRXRlbzjDEe2EtqLSGL) | 2:47 | 2025-01-22 |  |
+| [Suspended Glimmers](https://open.spotify.com/track/1Ih3L87Mc75K4dqQBKy62R) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Suspended Glimmers](https://open.spotify.com/album/3r2vRXRlbzjDEe2EtqLSGL) | 2:47 | 2025-01-22 | 2026-01-30 |
 | [Susurrus](https://open.spotify.com/track/5HTAFaV8M0xFgmtfKfmMT9) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Susurrus](https://open.spotify.com/album/0ZuQSCYr1vVCvhIsbnn5rq) | 2:39 | 2025-12-17 |  |
 | [Sutileza](https://open.spotify.com/track/1Vi8gkIwXkHu20uZLebHRM) | [Adrian Eden](https://open.spotify.com/artist/6cUUY5PB9iNclJ8YeFKKiN) | [Sutileza](https://open.spotify.com/album/7BhBK2Lrf2twjmiLa0iuSR) | 3:26 | 2025-04-09 | 2025-10-26 |
 | [Swallows at Dawn](https://open.spotify.com/track/1kBCGoGY3CSDCECitxm8an) | [Tiko Lapé](https://open.spotify.com/artist/4AU0q36eFVeu6YMkFiY6UG) | [Swallows at Dawn](https://open.spotify.com/album/7yYHaRkdy78NVOXkDV276M) | 2:48 | 2023-03-23 | 2024-03-21 |
@@ -877,7 +879,8 @@
 | [Timeless Glow](https://open.spotify.com/track/1PtbVTP8BooABy9eQ0wymQ) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Timeless Glow](https://open.spotify.com/album/5XA7ddkuhLXLq0mxjh8cx4) | 3:32 | 2025-02-14 | 2025-05-26 |
 | [Tiniebla](https://open.spotify.com/track/1uGy4uNI3SeVUien40Dtzo) | [Pearl Melendez](https://open.spotify.com/artist/6UGfKivLtHEJnrNdPcZHZh) | [Tiniebla](https://open.spotify.com/album/658s4v4gvYkydLyeuaMhsd) | 3:29 | 2023-03-23 | 2024-02-09 |
 | [tint](https://open.spotify.com/track/7suP8ED5szP300Am4HRERx) | [austice](https://open.spotify.com/artist/1iZ4k3yVszfq6m6vw1AQ5L) | [tint](https://open.spotify.com/album/0oNtp7nSYVgQUttDu2jCpk) | 2:56 | 2025-09-23 |  |
-| [Tomorrow](https://open.spotify.com/track/4gf8ak0NXmpNdywwNHTdOO) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Tomorrow](https://open.spotify.com/album/5XpHFAttu9ZYiC0SUvdWG2) | 3:07 | 2025-09-23 |  |
+| [Tomorrow](https://open.spotify.com/track/4gf8ak0NXmpNdywwNHTdOO) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Tomorrow](https://open.spotify.com/album/5XpHFAttu9ZYiC0SUvdWG2) | 3:07 | 2025-09-23 | 2026-01-30 |
+| [Torus](https://open.spotify.com/track/2HIJfqDa0ucGM80fK99Wr7) | [Vestigency](https://open.spotify.com/artist/7u5l7mW9E5nAgwRI2MnPZq) | [Torus](https://open.spotify.com/album/2Od6vhfJEKxqpvVP74frqH) | 2:32 | 2026-01-27 |  |
 | [Touches](https://open.spotify.com/track/6KzdWw8Hi1bz1lVw2AXDzb) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Touches](https://open.spotify.com/album/0gr42nFesHmvHP2rihBldP) | 2:24 | 2024-02-08 | 2024-07-16 |
 | [Tout Autour De Nous](https://open.spotify.com/track/0qAFa5xFjEyky6mCW2WTXT) | [Iris Guilbert](https://open.spotify.com/artist/6YR85wKc8XLYVhRaFA2ql8) | [Tout Autour De Nous](https://open.spotify.com/album/0dJGlhXqFX9sftgM17o2Xh) | 3:08 | 2023-03-23 | 2024-03-21 |
 | [Trace of You](https://open.spotify.com/track/4hXQOcArtC467uYW7eWblQ) | [Astral Steps](https://open.spotify.com/artist/1F2Bnj5hR7xoWkRVrtfROZ) | [Trace of You](https://open.spotify.com/album/1GRL0htQxJfvuePNTqt9ap) | 2:38 | 2025-12-17 |  |

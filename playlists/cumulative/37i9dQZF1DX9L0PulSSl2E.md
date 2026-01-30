@@ -4,7 +4,7 @@
 
 > Sit back, thand rakho te Chill Karlo with Yo Yo Honey Singh
 
-69 songs - 3 hr 16 min
+70 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [AZUL](https://open.spotify.com/track/1XwOA83wulFYtimOir6MUL) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Gurjit Gill](https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd), [Lavish Dhiman](https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc) | [AZUL](https://open.spotify.com/album/3NGgHtZBotxHUiKBUuwn39) | 2:18 | 2025-10-17 |  |
 | [Bachke Bachke \(feat\. Yarah\)](https://open.spotify.com/track/2uWZ7EGddFlA1DJ3Rzzvs2) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Yarah](https://open.spotify.com/artist/5DzbLrOUJEiT6kx68Dnqxr) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 3:30 | 2025-10-17 |  |
 | [Be Mine](https://open.spotify.com/track/7acH6yiK56etufZpUIv1YW) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Be Mine](https://open.spotify.com/album/1B5RSKDW0XtvEyFzBvgP0J) | 2:28 | 2025-10-17 |  |
-| [Black & White](https://open.spotify.com/track/5r7mDmA3VHkGIJ02hTmIyw) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Genesis](https://open.spotify.com/album/6YHC60k9beomffsmaPNADw) | 3:08 | 2025-11-21 |  |
+| [Black & White](https://open.spotify.com/track/5r7mDmA3VHkGIJ02hTmIyw) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Genesis](https://open.spotify.com/album/6YHC60k9beomffsmaPNADw) | 3:08 | 2025-11-21 | 2026-01-30 |
 | [By My Side](https://open.spotify.com/track/2mt3QHYbKBMdSTIfzSFsYH) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [By My Side](https://open.spotify.com/album/4EUcKOcd9grLl1kOoauO7s) | 2:56 | 2025-12-04 |  |
 | [Chacha](https://open.spotify.com/track/2tKAXlASKQjzo0SJJvO9Yj) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [36](https://open.spotify.com/album/11NyVFBpwIuBZz5Ia1ZcsA) | 3:00 | 2025-11-03 |  |
 | [Chobara](https://open.spotify.com/track/1c2a8g61JDgnqXNE1ZcLLk) | [Sewak Nokhriya](https://open.spotify.com/artist/5LwDJiia8RYTAOVk2CHO23), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Chobara](https://open.spotify.com/album/5zzawH8gh7Z5WONTejtkMo) | 3:01 | 2025-11-19 |  |
@@ -27,6 +27,7 @@
 | [Diff Lane](https://open.spotify.com/track/30Akbn403opKtvEKfkQ4fs) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Rav Hanjra](https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd) | [My Name Is Street](https://open.spotify.com/album/47DSxIL2rXYJviOthx59ea) | 3:20 | 2025-10-17 | 2025-11-07 |
 | [Dil Dardeh](https://open.spotify.com/track/0ku4NlnENAuhWyYnKfI4DA) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W), [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [JayB Singh](https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM) | [By Any Means](https://open.spotify.com/album/4Gn0Jhsoq3Q0a5TtoSb35D) | 3:15 | 2025-10-17 |  |
 | [Dior](https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:19 | 2025-10-17 |  |
+| [DOPAMINE](https://open.spotify.com/track/3dw558iZgDA2BIeVd0taMM) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Gurjit Gill](https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd), [Lavish Dhiman](https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc) | [DOPAMINE](https://open.spotify.com/album/11bk9YxTwbYXl0BASHTKk7) | 2:32 | 2026-01-29 |  |
 | [Eye Sign](https://open.spotify.com/track/2ylgtwDJ4iKeiRzb2gfLDG) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Preet Hundal](https://open.spotify.com/artist/3jbXizgjZpi8FZ9g28wb1c), [Kahlon](https://open.spotify.com/artist/6rHyVOJFRsLEOo1aOd2zQG), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Under Dawg](https://open.spotify.com/album/5IVYRIMsiHT01B4ktzLG1D) | 2:43 | 2025-11-06 | 2025-11-25 |
 | [GAME](https://open.spotify.com/track/4KcBt9xWi2VGzC5ggh0Rsu) | [Zafar Sandhu](https://open.spotify.com/artist/3Q1isolUOcUmnxscdi4TUM), [Pree Mayall](https://open.spotify.com/artist/53v5auqPwhDks2XwRhTUXh) | [GAME](https://open.spotify.com/album/1wvU3GHAuPlsTmBH302NwS) | 2:48 | 2025-11-24 | 2026-01-15 |
 | [Gandasa](https://open.spotify.com/track/6GG4lSyFgj1i2OO9AVgsd7) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [Gandasa](https://open.spotify.com/album/0KWSoiZauWkXFzIyikODKF) | 2:28 | 2025-10-17 |  |

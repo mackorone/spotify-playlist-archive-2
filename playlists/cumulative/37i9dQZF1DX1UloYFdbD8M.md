@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: K.S.Harisankar, Salim Sulaiman
 
-462 songs - 1 day 4 hr 36 min
+463 songs - 1 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [La](https://open.spotify.com/track/7foXuC1skz2laRHRCWumCA) | [electronic kili](https://open.spotify.com/artist/6S9pxoEBK0Mczr3qE8H0GX) | [La](https://open.spotify.com/album/1YrVcFs6J5uegJtRMYY0vS) | 3:56 | 2024-10-21 | 2025-02-27 |
 | [Laare](https://open.spotify.com/track/6wNkbLcCCtoYEsAxmXC3yt) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Laare](https://open.spotify.com/album/4oMcRv0ujnIqp0AevqBlxT) | 3:10 | 2024-09-03 | 2025-06-24 |
 | [Lahd](https://open.spotify.com/track/0TK9rkZcL4GHbDCM1H6eYJ) | [Irshaaa](https://open.spotify.com/artist/3LJYSJHSzVBVVLYnkeeJCd) | [Lahd](https://open.spotify.com/album/57tzPJX1uhfrEyRRSmKqA8) | 3:46 | 2025-07-17 | 2025-08-19 |
+| [Lailak](https://open.spotify.com/track/4KFgwYGc4wYhXIcHA6U5K5) | [SEAKAY](https://open.spotify.com/artist/4VREcG0PUHSJosO9QsMjCN), [Jeffin Jestin](https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC) | [Lailak](https://open.spotify.com/album/1X6pPEN1c75RG3peOiee2s) | 3:35 | 2026-01-29 |  |
 | [Lathiri Poothiri](https://open.spotify.com/track/2hGsJ2HbSJo2Bu9UEHmCqL) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Lathiri Poothiri](https://open.spotify.com/album/4dm5XmOa1mE0LFTzKFbjtz) | 2:14 | 2022-09-06 | 2023-07-28 |
 | [Life Is Adipoli](https://open.spotify.com/track/1RmS3bsRhBJ6WdCb35AxYO) | [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl), [Sajan CR](https://open.spotify.com/artist/7BLGlfpsC12N56HAhcI6ni), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Life Is Adipoli](https://open.spotify.com/album/19NF3iqqpzCUwkSfKXTK6y) | 4:02 | 2024-06-28 | 2024-12-07 |
 | [Local Sevens \- Neravo](https://open.spotify.com/track/6lvTnrUSBKIF9VFkLP3Ss3) | [Sahal Muhammed](https://open.spotify.com/artist/59DRwpY5uhR029d3HMd9JX), [Rohith Thiruvanathil](https://open.spotify.com/artist/38V7grK8DwxC65gnr1bXLA), [Anaswar MK](https://open.spotify.com/artist/4HjOa4fKS2oqEorPN7RrTb) | [Local Sevens \- Neravo](https://open.spotify.com/album/5rMgG4ZD3Zlrasj3puVtGr) | 4:17 | 2025-08-01 | 2026-01-24 |

@@ -677,6 +677,60 @@
     },
     {
       "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/0cNwBKREOg2PtYb5rwMVwa"
+      },
+      "artists": [
+        {
+          "name": "papi.",
+          "url": "https://open.spotify.com/artist/0zTABUBaGxFgQDVA8wPkqh"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169285,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/10EPY9wlmI7LLRi3lTsEgk"
+    },
+    {
+      "album": {
+        "name": "Aurality",
+        "url": "https://open.spotify.com/album/4JXdHdxxp9HYhFHNXdWntY"
+      },
+      "artists": [
+        {
+          "name": "Poreniacs",
+          "url": "https://open.spotify.com/artist/3UWaMtK5W6hxqll176xaTv"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271500,
+      "name": "Aurality",
+      "url": "https://open.spotify.com/track/2iqp6CP9WEVCuTp9a2sJlj"
+    },
+    {
+      "album": {
+        "name": "Avocado Toast",
+        "url": "https://open.spotify.com/album/0iHjx8UAoq81Mn95RKOCOq"
+      },
+      "artists": [
+        {
+          "name": "Metra kit",
+          "url": "https://open.spotify.com/artist/7BMNFJ0uJRv7N2n9ONyld3"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146440,
+      "name": "Avocado Toast",
+      "url": "https://open.spotify.com/track/2plFlYCQyRuzKbkoH5kTIf"
+    },
+    {
+      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/7HWdGPosPkb9GY5MOgLgSW"
       },
@@ -710,6 +764,24 @@
       "duration_ms": 283636,
       "name": "Awake",
       "url": "https://open.spotify.com/track/5MhMXTuVODDF234VDvSxQx"
+    },
+    {
+      "album": {
+        "name": "Back South",
+        "url": "https://open.spotify.com/album/1JOUblUjhKl8EmwS0LHsVS"
+      },
+      "artists": [
+        {
+          "name": "Didi Henric",
+          "url": "https://open.spotify.com/artist/6lV1RWdJ0XSM4OxR8QbYyk"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152869,
+      "name": "Back South",
+      "url": "https://open.spotify.com/track/62OIO8DSeWPaxRAXGb4VD6"
     },
     {
       "album": {
@@ -782,6 +854,24 @@
       "duration_ms": 361880,
       "name": "Bless This Morning Year",
       "url": "https://open.spotify.com/track/6knzYloG0x3MroAhnLVLGe"
+    },
+    {
+      "album": {
+        "name": "Born Fighting",
+        "url": "https://open.spotify.com/album/2QG0q0Liq7yU0nzGsQPG8j"
+      },
+      "artists": [
+        {
+          "name": "Hans Blu",
+          "url": "https://open.spotify.com/artist/3EREyIqFqpNOLCxa98i5k5"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188717,
+      "name": "Born Fighting",
+      "url": "https://open.spotify.com/track/55ld5zFPQG6tR9vRxFLmMx"
     },
     {
       "album": {
@@ -890,6 +980,24 @@
       "duration_ms": 399026,
       "name": "Building Steam With A Grain Of Salt",
       "url": "https://open.spotify.com/track/4cucslsiEgezV2o900Ykg3"
+    },
+    {
+      "album": {
+        "name": "BUTTERFLY EFFECT",
+        "url": "https://open.spotify.com/album/5FoEBAa5jL8AJZIGWeKzaN"
+      },
+      "artists": [
+        {
+          "name": "ANDER",
+          "url": "https://open.spotify.com/artist/1Ih8d8wf2fpDnux2NmeU6d"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142516,
+      "name": "BUTTERFLY EFFECT",
+      "url": "https://open.spotify.com/track/5iNd2j2BsJvG27QohTUlNn"
     },
     {
       "album": {
@@ -1016,7 +1124,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 177302,
       "name": "Chill Surf",
       "url": "https://open.spotify.com/track/2iUf59aTvK5OZg7zo97ziz"
@@ -1185,6 +1293,24 @@
     },
     {
       "album": {
+        "name": "Cosmopolitan",
+        "url": "https://open.spotify.com/album/6K7Hw8wvHu1Rmxpv4NiJC4"
+      },
+      "artists": [
+        {
+          "name": "Gamboni",
+          "url": "https://open.spotify.com/artist/5KuQiw0NP1rnQSFvv27wN5"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114500,
+      "name": "Cosmopolitan",
+      "url": "https://open.spotify.com/track/22z382AyN4NRWTqLaqPFGF"
+    },
+    {
+      "album": {
         "name": "Counter Attack Mankind",
         "url": "https://open.spotify.com/album/1qW6KDoQYiVTJAvSOTtimE"
       },
@@ -1268,7 +1394,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 128750,
       "name": "crusade",
       "url": "https://open.spotify.com/track/30bpR02KwJ6SpvHUvdvuoW"
@@ -1445,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "Desires",
+        "url": "https://open.spotify.com/album/0UqiNoGpy9MPJ23CFFviDy"
+      },
+      "artists": [
+        {
+          "name": "Les Trouble",
+          "url": "https://open.spotify.com/artist/0J5Be1SrvRoeVtSRLU1yvH"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168813,
+      "name": "Desires",
+      "url": "https://open.spotify.com/track/74tYo3hYlBcYDDBTyvGYzy"
+    },
+    {
+      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/32oTot2l5dFqJuxHX3pqyX"
       },
@@ -1482,6 +1626,24 @@
       "duration_ms": 163519,
       "name": "Distant Memory",
       "url": "https://open.spotify.com/track/7HL7aFk0ONq1QnlnDTtzov"
+    },
+    {
+      "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/19vJ65AYXDgFlEQUVtKMOY"
+      },
+      "artists": [
+        {
+          "name": "Pjor",
+          "url": "https://open.spotify.com/artist/5ONyfDG8cTuCReEUHd9LVn"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/6vBQFZDHN7aVnAvFIIHexe"
     },
     {
       "album": {
@@ -1648,6 +1810,42 @@
       "duration_ms": 379452,
       "name": "Dustism",
       "url": "https://open.spotify.com/track/6Q1aEumqxRnW8YbolJ8osI"
+    },
+    {
+      "album": {
+        "name": "Elysium Yellow",
+        "url": "https://open.spotify.com/album/53g6HDLGpPueOKvVudgcib"
+      },
+      "artists": [
+        {
+          "name": "Iceman Gill",
+          "url": "https://open.spotify.com/artist/2c2fEhrfXzHrZGyvEB5sGD"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Elysium Yellow",
+      "url": "https://open.spotify.com/track/331fCeg3vW7mVp9Mhav8RL"
+    },
+    {
+      "album": {
+        "name": "End of Story",
+        "url": "https://open.spotify.com/album/1me7BXh024dO5wsWukirT4"
+      },
+      "artists": [
+        {
+          "name": "IBBIZ",
+          "url": "https://open.spotify.com/artist/2NdwSYVe4Jeia8NWr2Rb14"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159107,
+      "name": "End of Story",
+      "url": "https://open.spotify.com/track/5EdLzVEBvZgxGgxZviMvGk"
     },
     {
       "album": {
@@ -1912,6 +2110,24 @@
       "duration_ms": 150465,
       "name": "Fallen Down (Reprise) - Piano Slowed & Reverb",
       "url": "https://open.spotify.com/track/3Ttu9jVJBNSkyOuydS9RZ6"
+    },
+    {
+      "album": {
+        "name": "FALLING",
+        "url": "https://open.spotify.com/album/5DNWZP57imjuKsOtrzPjGp"
+      },
+      "artists": [
+        {
+          "name": "Zeyn Mont",
+          "url": "https://open.spotify.com/artist/0lySKTNxvsJvalP2ByB507"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161311,
+      "name": "FALLING",
+      "url": "https://open.spotify.com/track/0qDagm0KQUPtM0wb4aIONO"
     },
     {
       "album": {
@@ -3170,6 +3386,24 @@
       "duration_ms": 277559,
       "name": "L",
       "url": "https://open.spotify.com/track/6brTu7TkwXtFMjQgcxkMA4"
+    },
+    {
+      "album": {
+        "name": "Laima",
+        "url": "https://open.spotify.com/album/1U8sWh8bhpOzZRba5KzbZm"
+      },
+      "artists": [
+        {
+          "name": "Valante",
+          "url": "https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247033,
+      "name": "Laima",
+      "url": "https://open.spotify.com/track/6PpMdhcYDQ1LXxyXTiW7LK"
     },
     {
       "album": {
@@ -5261,6 +5495,24 @@
     },
     {
       "album": {
+        "name": "Sonic Crust",
+        "url": "https://open.spotify.com/album/0rERDqbfo4xWs5YCwR7YuK"
+      },
+      "artists": [
+        {
+          "name": "Pregotti",
+          "url": "https://open.spotify.com/artist/61n561e59fjXTcUtwLf7G8"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230084,
+      "name": "Sonic Crust",
+      "url": "https://open.spotify.com/track/3PUABi6AYXExUa44lPz8s1"
+    },
+    {
+      "album": {
         "name": "Soon It Will Be Cold Enough",
         "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
       },
@@ -5290,7 +5542,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 128633,
       "name": "Space Things",
       "url": "https://open.spotify.com/track/1us1HStVhoyj9XWSJkyayB"
@@ -5550,6 +5802,24 @@
       "duration_ms": 121486,
       "name": "structures",
       "url": "https://open.spotify.com/track/6B9DAQWbldDxbEQ6IhabvF"
+    },
+    {
+      "album": {
+        "name": "Sun Is Rising",
+        "url": "https://open.spotify.com/album/22fiezlhpvZiWGehefcQLq"
+      },
+      "artists": [
+        {
+          "name": "Sum Wave",
+          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165007,
+      "name": "Sun Is Rising",
+      "url": "https://open.spotify.com/track/7MZSPsubzlMQZmkAdS8DC0"
     },
     {
       "album": {
@@ -6033,6 +6303,42 @@
     },
     {
       "album": {
+        "name": "Traveling",
+        "url": "https://open.spotify.com/album/1KMErx1KZFptweLCOPAIXl"
+      },
+      "artists": [
+        {
+          "name": "Axel J",
+          "url": "https://open.spotify.com/artist/6NKPl5Tq1ohr1qJ3SswzB1"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133846,
+      "name": "Traveling",
+      "url": "https://open.spotify.com/track/28HpN7HuwsdfnsSNXXEzF3"
+    },
+    {
+      "album": {
+        "name": "Trivialist",
+        "url": "https://open.spotify.com/album/0bILy3n9WNbLccuVlRQ5pM"
+      },
+      "artists": [
+        {
+          "name": "Jaque D",
+          "url": "https://open.spotify.com/artist/2KGHya3JdnknEvzsnaKEK1"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Trivialist",
+      "url": "https://open.spotify.com/track/7AUR7NO6muOUxyfXpgp1o0"
+    },
+    {
+      "album": {
         "name": "All Is Wild, All Is Silent Remixes",
         "url": "https://open.spotify.com/album/4K8rm4KevTLvvTSyWx5yjO"
       },
@@ -6102,6 +6408,24 @@
       "duration_ms": 213760,
       "name": "Two Fish and an Elephant",
       "url": "https://open.spotify.com/track/2kGMBOPXMtb9gxzVYdplg9"
+    },
+    {
+      "album": {
+        "name": "Two weeks",
+        "url": "https://open.spotify.com/album/47V4O36o1RrMphQj5nEjR4"
+      },
+      "artists": [
+        {
+          "name": "Eli Coast",
+          "url": "https://open.spotify.com/artist/3RIH3BLArADeRmHKQpDqg0"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139500,
+      "name": "Two weeks",
+      "url": "https://open.spotify.com/track/4dnmlJGYnCLEBKYVN91ZD0"
     },
     {
       "album": {

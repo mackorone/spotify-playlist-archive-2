@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X1KhYXrhYB.md) - [plain]
 
 > Secrets will be spilled\. Listen to all the music from Yellowjackets, now streaming on Paramount+ with Showtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,933 likes - 138 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,950 likes - 138 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X1KhYXrhYB.md) - [plain]
 | 116 | [So Alive](https://open.spotify.com/track/7pfP8Z9M9KRUtzTLcnjem5) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Love and Rockets](https://open.spotify.com/album/3lqy9ZOzLlwDTfXOkpubgU) | 4:17 |
 | 117 | [Ready to Go](https://open.spotify.com/track/5Qt8U8Suu7MFH1VcJr17Td) | [Republica](https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge) | [Republica](https://open.spotify.com/album/5KIb3c4z28CHa5snztEMNK) | 5:01 |
 | 118 | [This Is How We Do It](https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT), [Wino](https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx) | [This Is How We Do It](https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL) | 3:58 |
-| 119 | [Emergency](https://open.spotify.com/track/0iQd47VJs14l8EA00PlI71) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy), [YAX.X](https://open.spotify.com/artist/0dPvgsYtDUI9Wcr0WREIJK) | [Emergency](https://open.spotify.com/album/4xeOgbxFCERSTBCaxuKSqY) | 3:12 |
+| 119 | [Emergency](https://open.spotify.com/track/0iQd47VJs14l8EA00PlI71) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy), [YAX.X](https://open.spotify.com/artist/0dPvgsYtDUI9Wcr0WREIJK) | [Emergency](https://open.spotify.com/album/4xeOgbxFCERSTBCaxuKSqY) | 3:12 |
 | 120 | [Freak Out](https://open.spotify.com/track/4A7KmLT5PbXil3ntchAsvF) | [Nightlapse](https://open.spotify.com/artist/7tnekRHOd4h5mo77R3OOxX), [Bambie](https://open.spotify.com/artist/6dziONGk8cc7ZFza0Am9vU) | [Freak Out](https://open.spotify.com/album/6AOsBT1D5gNyzeYzZcNLtt) | 3:19 |
 | 121 | [Munich](https://open.spotify.com/track/1TF8mSG5YHyaS4o3NeBSAo) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [The Back Room](https://open.spotify.com/album/13NKtscRQRvQAXR4fY7kO5) | 3:46 |
 | 122 | [Love Comes Close](https://open.spotify.com/track/5GHjhiMYYSCfCGHHfoNVhV) | [Cold Cave](https://open.spotify.com/artist/1ssulsHf3JrWakLxa8yFad) | [Love Comes Close \(Deluxe Edition\)](https://open.spotify.com/album/2XNJcFlzfBOvL8SzihQ2E3) | 4:25 |

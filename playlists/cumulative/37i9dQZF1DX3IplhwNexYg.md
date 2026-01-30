@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Phantastic Ferniture
 
-798 songs - 1 day 21 hr 21 min
+799 songs - 1 day 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Break Right In](https://open.spotify.com/track/6uUIfHixhGAsm3PcMOmv1Q) | [Buzzard Buzzard Buzzard](https://open.spotify.com/artist/69ilUSFj31FA2iLHtegRwi) | [A Passionate Life](https://open.spotify.com/album/6xfTNIzi9KL3Lxzz6jbzSp) | 3:17 | 2022-04-01 | 2022-08-19 |
 | [Breakaway](https://open.spotify.com/track/4l4ZcaqSRHe0gq10eIPFzJ) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Breakaway](https://open.spotify.com/album/4OwB45W8PEKoMgWk4vLpzW) | 3:13 | 2025-06-06 |  |
 | [Breathe](https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Breathe](https://open.spotify.com/album/1D0slQiKPmlWdQJI6cYW1D) | 3:23 | 2024-04-12 | 2024-07-15 |
+| [Brother](https://open.spotify.com/track/0k0mPVleEMaHlFXsUlgNCu) | [Slow Fiction](https://open.spotify.com/artist/3ZyjpHbSpzsLV3ZEyJZBAW) | [Brother](https://open.spotify.com/album/0Yp5hkhW6vKbG5AqLgY4Wf) | 3:56 | 2025-09-01 |  |
 | [Bucket](https://open.spotify.com/track/0JG0YbmFnSDZtLfkM89zTf) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Bucket](https://open.spotify.com/album/3m9D0jKVo6ePClPxHnaPKS) | 2:59 | 2024-03-15 | 2024-06-23 |
 | [Bug](https://open.spotify.com/track/0MXmiqd7zoXxv6Gqn9ahhQ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:02 | 2024-12-06 |  |
 | [Bugs](https://open.spotify.com/track/40UBd76lFOA4A9LIj92D8M) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bugs](https://open.spotify.com/album/69uHXZDySbtOqJTlM3J0pr) | 3:57 | 2025-05-01 | 2025-06-16 |
@@ -636,7 +637,7 @@
 | [Smile](https://open.spotify.com/track/0mjOx4zUlL5t4rF1xnrfvi) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 3:16 | 2024-03-15 | 2025-03-28 |
 | [Snowflake Suzie](https://open.spotify.com/track/0B2hkwmDeDi2Tx87YgHQui) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Snowflake Suzie](https://open.spotify.com/album/6HBxIk9HDOQy1qPuC9oaRm) | 3:40 | 2023-11-24 | 2024-01-12 |
 | [So Cool](https://open.spotify.com/track/3GcueREEDYp44IT4JoTnY6) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [So Cool](https://open.spotify.com/album/5iUyvTHiC3DsrP7s1INsyY) | 3:05 | 2023-05-25 | 2023-10-01 |
-| [Soak](https://open.spotify.com/track/2ZX6kJnF1sFD24xzCrTqEt) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Soak](https://open.spotify.com/album/1PGXOxv1Gb6NiWHmei4lWe) | 3:34 | 2025-08-14 |  |
+| [Soak](https://open.spotify.com/track/2ZX6kJnF1sFD24xzCrTqEt) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Soak](https://open.spotify.com/album/1PGXOxv1Gb6NiWHmei4lWe) | 3:34 | 2025-08-14 | 2026-01-30 |
 | [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 | 2023-03-17 | 2024-04-19 |
 | [Sofa King](https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk) | 3:16 | 2023-03-05 | 2023-04-03 |
 | [Sofa King](https://open.spotify.com/track/4CxgqrS5kSP1asW2Mtj7sP) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/2GLBrbr4Syp565yWaurWJo) | 3:16 | 2024-03-15 | 2024-05-01 |

@@ -792,7 +792,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 182398,
       "name": "Cheek to Cheek",
       "url": "https://open.spotify.com/track/4Fsl78MLuUrqJMnFXBctW8"
@@ -1768,6 +1768,24 @@
       "duration_ms": 159124,
       "name": "Isla De Flores",
       "url": "https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b"
+    },
+    {
+      "album": {
+        "name": "It is a Beauteous Evening",
+        "url": "https://open.spotify.com/album/08rw1H3dmuani2VQMlDNLB"
+      },
+      "artists": [
+        {
+          "name": "Thomasine Robinson",
+          "url": "https://open.spotify.com/artist/0cJB6JE2hZxv7fH4XBs4dF"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140874,
+      "name": "It is a Beauteous Evening",
+      "url": "https://open.spotify.com/track/3nZ31x1cLcCRnIRpiOIkPU"
     },
     {
       "album": {

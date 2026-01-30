@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u5728\u53f0\u7063\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: \u4fe1\u6a02\u5718",
+  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u5728\u53f0\u7063\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: \u8c93\u54aa\u5eab\u746a\u62c9 (Kumara the Cat)",
   "name": "\u7d44\u5718\u98c6\u6b4c",
   "tracks": [
+    {
+      "album": {
+        "name": "13% off Christmas",
+        "url": "https://open.spotify.com/album/2JZyHwhnneSqIkLAu0ltBM"
+      },
+      "artists": [
+        {
+          "name": "Kumara the Cat \u8c93\u54aa\u5eab\u746a\u62c9",
+          "url": "https://open.spotify.com/artist/77YGTeS9iyhPgzRlMgSaGv"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207333,
+      "name": "13% off Christmas",
+      "url": "https://open.spotify.com/track/3kMi4aQlXsPx6rlJU8gj7y"
+    },
     {
       "album": {
         "name": "21\u4e16\u7d00\u6700\u5f37\u5152\u6b4c",
@@ -1208,6 +1226,28 @@
       "duration_ms": 222212,
       "name": "Do It - Remix",
       "url": "https://open.spotify.com/track/0NqBFuN6Ntfhh8AfNzpaV1"
+    },
+    {
+      "album": {
+        "name": "Do What You Gotta (feat. Sunset Rollercoaster)",
+        "url": "https://open.spotify.com/album/4eXihWYidaaT9dIA25HxqN"
+      },
+      "artists": [
+        {
+          "name": "PREP",
+          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
+        },
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188253,
+      "name": "Do What You Gotta (feat. Sunset Rollercoaster)",
+      "url": "https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS"
     },
     {
       "album": {
@@ -3154,7 +3194,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 133240,
       "name": "No No Yeah Yeah (\u4e0d\u4e0d\u597d\u554a\u597d\u554a)",
       "url": "https://open.spotify.com/track/5VD8hV4xGESEJmKAfILKir"
@@ -8719,6 +8759,32 @@
     },
     {
       "album": {
+        "name": "\u597d\u52e2",
+        "url": "https://open.spotify.com/album/2DiUzykXOM0Frua27fr8Vm"
+      },
+      "artists": [
+        {
+          "name": "Finesse'Boy",
+          "url": "https://open.spotify.com/artist/3qS2lXfLasuWpBEaLn1bbt"
+        },
+        {
+          "name": "Teezy",
+          "url": "https://open.spotify.com/artist/5P4IE6bIqsXDKHf5Z7vmeA"
+        },
+        {
+          "name": "\u516b\u53e38uck",
+          "url": "https://open.spotify.com/artist/7mB3ob7Tx8w7UPykPKbZTP"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142437,
+      "name": "\u597d\u52e2",
+      "url": "https://open.spotify.com/track/3RauooYGAaOaZqgG2mT8SN"
+    },
+    {
+      "album": {
         "name": "\u597d\u71b1 (\u65c5\u904a\u5be6\u5883\u79c0\u300a\u9019\u7fa4\u4eba\u5728\u65c5\u884c-\u6cf0\u570b\u7279\u5225\u7bc7\u300b\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/3DcAJY5SlE3R3n0uduA7UI"
       },
@@ -9880,6 +9946,28 @@
       "duration_ms": 310014,
       "name": "\u5feb\u6a02\u7684\u5f62\u72c0",
       "url": "https://open.spotify.com/track/5UQAH7sV6tZdk9W8A9uCRW"
+    },
+    {
+      "album": {
+        "name": "\u5ff5\u83e9\u63d0",
+        "url": "https://open.spotify.com/album/1Tp0rO8xukqGeGgtpvnKnZ"
+      },
+      "artists": [
+        {
+          "name": "\u623f\u6771\u7684\u8c93",
+          "url": "https://open.spotify.com/artist/6oxtUCWftDouZzeso3oXcF"
+        },
+        {
+          "name": "\u52a0\u6728",
+          "url": "https://open.spotify.com/artist/45aOa6C5ieGIXh7yExsvVl"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180744,
+      "name": "\u5ff5\u83e9\u63d0 - \u300a\u53e4\u6751\u7684\u97f3\u7b26\u300b\u7efc\u827a\u8282\u76ee\u7b2c\u4e94\u7ad9\u4e3b\u9898\u66f2",
+      "url": "https://open.spotify.com/track/4i3TMsieCivSpXRqe04S1q"
     },
     {
       "album": {
@@ -15269,6 +15357,24 @@
     },
     {
       "album": {
+        "name": "\u81f3\u5c11\u6211\u5011\u90fd\u9084\u6c92\u653e\u68c4",
+        "url": "https://open.spotify.com/album/50oKy8Sk87Wg61YvGlhUpQ"
+      },
+      "artists": [
+        {
+          "name": "\u516c\u9928\u9752\u5c11\u5e74 GGteens",
+          "url": "https://open.spotify.com/artist/70tzNPv1y3Ft17QI4KLdSp"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287500,
+      "name": "\u81f3\u5c11\u6211\u5011\u90fd\u9084\u6c92\u653e\u68c4",
+      "url": "https://open.spotify.com/track/0v3FP3xJN9rr4dxGXfku8n"
+    },
+    {
+      "album": {
         "name": "\u81f4\u660e\u5929",
         "url": "https://open.spotify.com/album/6XdZ8d0fxayY4BtaVZxWbE"
       },
@@ -16292,6 +16398,24 @@
       "duration_ms": 252571,
       "name": "\u8ffd\u5922\u60f3\u7684\u590f\u5929",
       "url": "https://open.spotify.com/track/06EbVoE3hxQ3hUYS6sCzIJ"
+    },
+    {
+      "album": {
+        "name": "\u8ffd\u65e5\u51fa\u7684\u4eba&\u82f9\u679c",
+        "url": "https://open.spotify.com/album/4Eowjw62yhfzzKwLFo5NTR"
+      },
+      "artists": [
+        {
+          "name": "\u4eba\u884c\u659c\u9053OtherWayOut",
+          "url": "https://open.spotify.com/artist/7wlPnRsZsGWb59tE9WXr1c"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331000,
+      "name": "\u8ffd\u65e5\u51fa\u7684\u4eba",
+      "url": "https://open.spotify.com/track/6OZ1obmAOSEwY1tjkXCmVJ"
     },
     {
       "album": {

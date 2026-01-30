@@ -4,7 +4,7 @@
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: עידו מלכה
 
-548 songs - 1 day 4 hr 52 min
+552 songs - 1 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [בבון של יפו](https://open.spotify.com/track/3TveM4gKI4GS6PkeDSn7wn) | [Avihu Pinhasov Rhythm Club](https://open.spotify.com/artist/4saB5ta3MrhGC4aYV0zF2r) | [בבון של יפו](https://open.spotify.com/album/2nmBRZWBkB9W0def7Avcs2) | 3:21 | 2025-04-03 | 2025-05-09 |
 | [בבל](https://open.spotify.com/track/0Fgqrhbz50nUyFXuBsdGlr) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo) | [בבל](https://open.spotify.com/album/7oukNQCQmuODdke3lhPSxE) | 2:50 | 2024-06-27 | 2024-08-23 |
 | [בוא אליי](https://open.spotify.com/track/3nRx0MCAhc5wyrdGi4Upo9) | [Elai Botner](https://open.spotify.com/artist/6E1teCjsYmOlunh0OoPPA0), [Carakukly](https://open.spotify.com/artist/7hEYcTJuBYjhekQukXWBWu) | [בוא אליי](https://open.spotify.com/album/2Du3j69su2bEVpXZaAVbVA) | 4:11 | 2024-11-21 | 2025-03-07 |
+| [בואי](https://open.spotify.com/track/3yrsd9QINkGcmqe6388BpS) | [פן חזות](https://open.spotify.com/artist/74AQHelhpYwe2w5FhSDpTI) | [בואי](https://open.spotify.com/album/0PzEAQTPxofObDHG7lff6o) | 3:35 | 2026-01-29 |  |
 | [בואי ונתיר](https://open.spotify.com/track/3SRoSZysV3FkA1Jrbsnu6e) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo), [בית אבי חי](https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH) | [בואי ונתיר](https://open.spotify.com/album/0BeyHbYUtiDrJk9LQMZ4Sr) | 4:48 | 2024-11-21 | 2025-02-14 |
 | [בואי יפה](https://open.spotify.com/track/7qkulscKvmNByR2oa1PmVY) | [May Sfadia](https://open.spotify.com/artist/4Bl08QHOgjjt8Hcg53iq0j) | [בואי יפה](https://open.spotify.com/album/6x3y1WaJMGzxugwZ4pKVlB) | 3:08 | 2025-11-27 |  |
 | [בואי נישאר](https://open.spotify.com/track/5AR3xv0ftJrPsfqHFPwdme) | [Amir Sade](https://open.spotify.com/artist/0WJRb30AqOO17jmpL3s8NN), [Maor Ashkenazi](https://open.spotify.com/artist/3iLqGRLvJTTS4KRx38j6et) | [בואי נישאר](https://open.spotify.com/album/0ZyjrRhp57YKbLxnJiypUK) | 3:09 | 2025-08-28 | 2025-09-12 |
@@ -276,6 +277,7 @@
 | [חנה](https://open.spotify.com/track/0Dl1s22F5dtSLljaWc9MBd) | [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp) | [ריק בחלל](https://open.spotify.com/album/02SRXv5i0HeZWfyLPcrj1i) | 3:38 | 2025-12-18 |  |
 | [חץ בלב](https://open.spotify.com/track/2YCkZcx69SlG17eCcLDq4O) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo), [ECHO](https://open.spotify.com/artist/5Ezb2z7gSLMpXaG0oyacpW) | [חץ בלב](https://open.spotify.com/album/0zncV9LbzHWYtmoVxzEw8G) | 2:44 | 2024-08-22 | 2024-10-18 |
 | [טוב טוב](https://open.spotify.com/track/0FmiEDdpHoLHjAmD4QoLFe) | [Natali Dashti](https://open.spotify.com/artist/7ikUpBIjAJ9bRpwwE81fR8) | [טוב טוב](https://open.spotify.com/album/4Xk3fTwiaDgLy7Vyob7169) | 2:21 | 2024-07-04 | 2024-07-19 |
+| [טוק טו מי](https://open.spotify.com/track/2qaqTmiGCtvbKfN7OVIhQ2) | [שחר טבוך](https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC) | [טוק טו מי](https://open.spotify.com/album/2hmfcm4fK25YzLzlhcnb5w) | 2:12 | 2026-01-29 |  |
 | [טייפשיט](https://open.spotify.com/track/1DTDZOMK5Xf4alnsC76ry0) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [טייפשיט](https://open.spotify.com/album/4VAYz4RbK2HBaKrip07Vzg) | 2:00 | 2025-05-22 | 2025-08-01 |
 | [טיפה בלב ים](https://open.spotify.com/track/4X6Gr8yKuSRyKVEDIe7w5N) | [נופר סלמאן](https://open.spotify.com/artist/3E6brPWNbeukI8w10ugzOx) | [טיפה בלב ים](https://open.spotify.com/album/47OvmR24EM6cEJtcCTJUKR) | 3:26 | 2024-08-29 | 2024-09-13 |
 | [טקילה עליי](https://open.spotify.com/track/6vc9c28DE6fuxMoYNPHijy) | [Nadav Guedj](https://open.spotify.com/artist/0QmOR0TqxMPtZxtaIJ5klY) | [בלי יד על הדופק](https://open.spotify.com/album/5tgSy12G4VBfOXMMGjXzKL) | 3:00 | 2026-01-22 |  |
@@ -396,6 +398,7 @@
 | [מלאך](https://open.spotify.com/track/125OFz1pijliLAliLRhwc1) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [מלאך](https://open.spotify.com/album/0n3ttzT4jifNyOicuAaTBh) | 4:09 | 2025-09-18 |  |
 | [מלאך](https://open.spotify.com/track/4wBhdxlmwV8gta2zTUv24x) | [בניה ברבי](https://open.spotify.com/artist/0WjQnf1rQ0tY84gGgjrQQ9) | [מלאך](https://open.spotify.com/album/5x63WjLomoR7ZfgQk2xpnr) | 3:09 | 2025-05-29 | 2025-10-31 |
 | [מלך אחד לעולם](https://open.spotify.com/track/3EIpvMJo4sqVVqDQx9H4Zj) | [נדב חנציס](https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9) | [מלך אחד לעולם](https://open.spotify.com/album/1V9zayUbMb8n3XQvR81efN) | 3:01 | 2025-09-11 | 2026-01-16 |
+| [מנגינת הלב](https://open.spotify.com/track/262Qkoq8jUNyzBTUnvT549) | [Aviv Geffen](https://open.spotify.com/artist/73ieysHN7XpJYEnEAYsO3K), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [מנגינת הלב](https://open.spotify.com/album/4uV4c9I1SiCEZLwDpSZ190) | 2:45 | 2026-01-29 |  |
 | [מנורה ופסנתר](https://open.spotify.com/track/5nLY3hwxj7CJSjpLSSDsU6) | [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn) | [מנורה ופסנתר](https://open.spotify.com/album/4tQJK69yKCecga7vNT5CHl) | 2:53 | 2025-07-24 | 2025-11-14 |
 | [מניפות](https://open.spotify.com/track/0qznNEs9s1HG5eZiI76TvS) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo), [מתן דינו](https://open.spotify.com/artist/5dg6DDe43hau7pXT54sDZM) | [מניפות](https://open.spotify.com/album/6xgy5aA6AT8U6eVJhSXfsV) | 2:25 | 2025-06-12 | 2025-07-11 |
 | [מסיבת פרידה](https://open.spotify.com/track/1eIfbqarkyZJpBTnUa3TQ8) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [מסיבת פרידה](https://open.spotify.com/album/4MFryrYp2dF2uasF3dV5ox) | 3:04 | 2026-01-01 |  |
@@ -418,6 +421,7 @@
 | [משחקי מלחמה](https://open.spotify.com/track/4JCz3us4cIPUYRMuFWipJr) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw), [Yaldey Bet Haetz](https://open.spotify.com/artist/5ZyWsEh4kr2P44KWhjpAOU) | [משחקי מלחמה](https://open.spotify.com/album/0Hxbc12aGxF8YKjTJE9DA4) | 2:52 | 2024-11-28 | 2024-12-13 |
 | [משקפיים](https://open.spotify.com/track/5OQrgklT1x9uOr2ee5hlHB) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Itay Galo](https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d) | [משקפיים](https://open.spotify.com/album/3NL9vuLMHWJI2Qc9llGWSm) | 2:52 | 2024-06-27 | 2024-09-13 |
 | [מת העולם](https://open.spotify.com/track/0e4RKSgXlsUrHQ9pg807iH) | [אליאב זוהר](https://open.spotify.com/artist/5hwdfRqm0A7u9z3LoTazVa) | [מת העולם](https://open.spotify.com/album/7Ck0RQTh07u1M30gCCwhp4) | 2:17 | 2026-01-22 |  |
+| [מתחת למים](https://open.spotify.com/track/0lY62MsgnDdmtiMbIGrrw1) | [Udi Schneider](https://open.spotify.com/artist/5DEX9UqXj4FoYCv8mZQDjy) | [מתחת למים](https://open.spotify.com/album/0WTNXIZAHcn7kr9wYkGD2h) | 2:59 | 2026-01-29 |  |
 | [מתנה ללב](https://open.spotify.com/track/3zDXMW8kdru4FRM71yB42V) | [Kobi Aflalo](https://open.spotify.com/artist/0xYY2tRJGTvQC6rPjk758w) | [מתנה ללב](https://open.spotify.com/album/6W61lDnpwpr9M6xCJZ3TWB) | 3:01 | 2025-01-16 | 2025-02-21 |
 | [נאדי באדי](https://open.spotify.com/track/6g84RaMubeO44LyTDghqUB) | [שחר טבוך](https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC), [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [נאדי באדי](https://open.spotify.com/album/79JwxRq2qhfLrvxl7s03pR) | 2:30 | 2024-06-27 | 2024-07-27 |
 | [נגה](https://open.spotify.com/track/4olpHwNTKgAncIajBtNJxT) | [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp) | [נגה](https://open.spotify.com/album/5192yySD6VHWjD7RfO6saY) | 3:42 | 2024-10-10 | 2024-12-06 |

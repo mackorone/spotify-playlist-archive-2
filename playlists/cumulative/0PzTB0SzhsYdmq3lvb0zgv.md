@@ -4,7 +4,7 @@
 
 > Chill acoustic, mellow pop and singer\-songwriter music for focus, relaxation, studying and working\. Coffee house vibes and calm background music for a cozy café or lounge mood \|\| Rustige achtergrond afspeellijst voor ontspanning, studeren en werken, met ontspannen muziek voor een koffie tent sfeer.
 
-425 songs - 23 hr 40 min
+426 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2025-07-18 | 2025-08-23 |
 | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/track/7ymllAe6kR6TSmiDXmnOWx) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 2:58 | 2025-09-05 | 2026-01-15 |
 | [Naked](https://open.spotify.com/track/0lzkTujvZmHQxUJ48W5ayJ) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS \(DREAMS\)](https://open.spotify.com/album/3TZONvyRaehRSxPangnoG5) | 2:37 | 2025-09-12 |  |
+| [Nashville Tears](https://open.spotify.com/track/0anTyrjdkjpYkVnbyNQVNU) | [Jasper Steverlinck](https://open.spotify.com/artist/5M9Q9H6jHj5txCVX5KSM8V) | [The Healing](https://open.spotify.com/album/6z42NftBolHdDdDKPFay1K) | 3:38 | 2026-01-29 |  |
 | [Need You More](https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 3:10 | 2025-07-18 | 2025-08-23 |
 | [Never Change \(feat\. Ledisi & Philip Bailey\)](https://open.spotify.com/track/26vzbUhry6RGcrv8M4vZ19) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u) | [Gravy \(Deluxe\)](https://open.spotify.com/album/6ZApU6s93DgYUHjev0RFfD) | 4:03 | 2025-07-18 |  |
 | [never knew a heart could break itself \- acoustic](https://open.spotify.com/track/3zzpwhOH5jWCzeKmG7ZAQW) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Whispering Pines \(Deluxe\)](https://open.spotify.com/album/2Xg8v9OpCnafxUcH42tFaf) | 2:48 | 2025-07-18 | 2025-08-23 |

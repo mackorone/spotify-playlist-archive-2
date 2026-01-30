@@ -307,6 +307,24 @@
     },
     {
       "album": {
+        "name": "Come Inside",
+        "url": "https://open.spotify.com/album/7GTVtTT8Myhphmnggl0rMo"
+      },
+      "artists": [
+        {
+          "name": "Chopper (UK)",
+          "url": "https://open.spotify.com/artist/3gjul6vtKTcNHsTwr87dIK"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Come Inside",
+      "url": "https://open.spotify.com/track/6ut6DhY4PU8WTxDCylYR7p"
+    },
+    {
+      "album": {
         "name": "Going Home, Vol. 1",
         "url": "https://open.spotify.com/album/4emb3mG0Dm5mJtnMdZm0tz"
       },

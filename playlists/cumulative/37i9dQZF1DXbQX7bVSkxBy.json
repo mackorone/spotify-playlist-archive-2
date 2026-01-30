@@ -2600,7 +2600,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 182334,
       "name": "ETERNITY",
       "url": "https://open.spotify.com/track/4LMh11K1jZZ01vQ8Qcn9Bl"
@@ -3156,7 +3156,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 406440,
       "name": "For Your Glory - Live",
       "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
@@ -4484,7 +4484,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 362553,
       "name": "I Testify",
       "url": "https://open.spotify.com/track/25WsThhuvxiv7i2G0qMv0h"
@@ -4502,7 +4502,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 362556,
       "name": "I Testify",
       "url": "https://open.spotify.com/track/46H0xkzmrXpdrkPVH8R2n9"
@@ -6987,6 +6987,28 @@
     },
     {
       "album": {
+        "name": "Odimafo (Defender)",
+        "url": "https://open.spotify.com/album/1IlSu6Awaq4xaZOYNN7i2L"
+      },
+      "artists": [
+        {
+          "name": "Morris Singz",
+          "url": "https://open.spotify.com/artist/3X3TVlZ7n0RSp3eVaM9nnP"
+        },
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155371,
+      "name": "Odimafo (Defender)",
+      "url": "https://open.spotify.com/track/3tpJBR2KkjeXIJ3I8Bs35P"
+    },
+    {
+      "album": {
         "name": "Oghene Do",
         "url": "https://open.spotify.com/album/4OMOfEjqFKN0rvpqDnWOyf"
       },
@@ -7792,7 +7814,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 105000,
       "name": "Praise The Lord",
       "url": "https://open.spotify.com/track/1HqRXs13YtE39CtwWJLIgM"

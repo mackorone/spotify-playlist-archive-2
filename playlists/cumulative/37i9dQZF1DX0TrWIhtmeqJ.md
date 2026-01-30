@@ -2,9 +2,9 @@
 
 ### [We Move](https://open.spotify.com/playlist/37i9dQZF1DX0TrWIhtmeqJ)
 
-> For the new generation of trendsetters coming through, we move\. Cover: F3miii
+> For the new generation of trendsetters coming through, we move\. Cover: fakemink
 
-109 songs - 4 hr 43 min
+111 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Cash Boy Boogie](https://open.spotify.com/track/5chnPQRpiatVLF9NPTmZdd) | [Z!NO](https://open.spotify.com/artist/0dIkofXQIWszV52UOFMxS4) | [Cash Boy Boogie](https://open.spotify.com/album/1xE80x4IK4oHGn4x60EfHz) | 2:17 | 2025-10-23 |  |
 | [Clean](https://open.spotify.com/track/2sne1i9emLeNbT6kSe1KMG) | [Channel Alt](https://open.spotify.com/artist/4bm6gCBWXybTRcT2CisoH2), [CassKidd](https://open.spotify.com/artist/6PK38JPBr6Rq8N7qOeu2BI), [Kruz Leone](https://open.spotify.com/artist/2pXOtGRpnXJJfzEUddqKcC), [DeeRiginal](https://open.spotify.com/artist/7MkdDRirzB2d9UZh6ZMb8p) | [Clean](https://open.spotify.com/album/7tx4cFdi9Cg2Xxzb77dWKA) | 2:48 | 2025-12-12 |  |
 | [contagious](https://open.spotify.com/track/42Gvh4bGIuvyE9R1hWyM6E) | [David Armada](https://open.spotify.com/artist/0NCZoJwqMYvBpYFRnKnAMh) | [contagious](https://open.spotify.com/album/6oViFXT3uvmP46nhqYtiAP) | 1:51 | 2025-11-07 |  |
-| [Dem Bwoy](https://open.spotify.com/track/4kKZY4vsqQ4hABOWUGb1QR) | [Twenty'8](https://open.spotify.com/artist/0rQFPuJq7wkvQny90lguiu) | [Dem Bwoy](https://open.spotify.com/album/6wWDPAs204Gx3zPxlXl5VQ) | 2:17 | 2025-10-23 |  |
+| [Dem Bwoy](https://open.spotify.com/track/4kKZY4vsqQ4hABOWUGb1QR) | [Twenty'8](https://open.spotify.com/artist/0rQFPuJq7wkvQny90lguiu) | [Dem Bwoy](https://open.spotify.com/album/6wWDPAs204Gx3zPxlXl5VQ) | 2:17 | 2025-10-23 | 2026-01-30 |
 | [dls \(drugs life sex\)](https://open.spotify.com/track/2u1it8jsdbryTk1YjiXYwJ) | [5EB](https://open.spotify.com/artist/70P7as3HD8esc9Dx2TAR7o) | [dls \(drugs life sex\)](https://open.spotify.com/album/14ZfWh2kA7YZATwBCPF08Q) | 2:17 | 2025-10-23 | 2025-11-21 |
 | [Do Too Much](https://open.spotify.com/track/7iPrQixC1StJegCF468i5T) | [Tay Jordan](https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct) | [Do Too Much](https://open.spotify.com/album/56eEJD1fje5QRQGAeRyjMw) | 1:38 | 2025-11-07 |  |
 | [DON'T TOUCH THE CDJ](https://open.spotify.com/track/7H5qoxsQ0nzAgF1bHi1Qoq) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Aki Oke](https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv) | [DON'T TOUCH THE CDJ](https://open.spotify.com/album/6AtBMCTUBlu8w8NPqpe8xz) | 2:48 | 2025-10-23 |  |
@@ -34,6 +34,7 @@
 | [Figures On The Wall](https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figures On The Wall](https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi) | 3:02 | 2025-10-23 | 2025-11-05 |
 | [FINESSE MY BRO \(FMB\)](https://open.spotify.com/track/2wCPuCekYVOaCxJwOww3IB) | [TR Gobrazy](https://open.spotify.com/artist/2bWovm0DNeEkCevemRHN0C) | [FINESSE MY BRO \(FMB\)](https://open.spotify.com/album/3o2W3umUEXyKz0cnlPqd4q) | 1:29 | 2025-10-23 | 2025-11-21 |
 | [Fix Me](https://open.spotify.com/track/4TrkCFHI3zUBPweubDIlSD) | [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l) | [Fix Me](https://open.spotify.com/album/5ww5TbmFjRKRcn5wERL3kZ) | 2:40 | 2025-11-21 |  |
+| [fml .](https://open.spotify.com/track/4mVZ9cv6pGt36VNjm6CTue) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [The Boy who cried Terrified .](https://open.spotify.com/album/2hDITFU9UORQlTBKz6vj3o) | 2:40 | 2026-01-30 |  |
 | [GIRLS](https://open.spotify.com/track/4HKk0rmGoDBKqCpvvqaFdK) | [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l) | [GIRLS](https://open.spotify.com/album/28jHjgKv4F7mhlGNlec7Is) | 2:53 | 2025-10-23 |  |
 | [Glaze](https://open.spotify.com/track/6mfokGkQnfHkrizH9s2FYu) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Glaze](https://open.spotify.com/album/2P84jHNs5YMCuLw3uX8ZLM) | 2:43 | 2025-10-23 |  |
 | [go get that blade](https://open.spotify.com/track/2NgcOqKBS0koP5dxFdw31P) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [go get that blade](https://open.spotify.com/album/6bUNyBA0a3ZIYjcIwG1ZHZ) | 3:21 | 2025-10-23 | 2025-11-07 |
@@ -62,6 +63,7 @@
 | [MAKE IT HOME](https://open.spotify.com/track/01RMH5GzzR6FzWyEnAmCAK) | [Tdarq](https://open.spotify.com/artist/32fjTg4szazZo87Sgxs9a2), [J\-kari](https://open.spotify.com/artist/1XfhFMilNLBjEotGHliWGK) | [MAKE IT HOME](https://open.spotify.com/album/3FBzEpxt9qpGhLoLyxTZqD) | 2:24 | 2025-11-07 |  |
 | [Matcha](https://open.spotify.com/track/18j6mt9YnltS9IW4E5tWZJ) | [Cam Keddy](https://open.spotify.com/artist/1747Rrh8maZzzcgo2jVJkt) | [Matcha](https://open.spotify.com/album/26zDnV1GATtNbCqFkPlkqB) | 2:31 | 2025-12-12 |  |
 | [Money Moves](https://open.spotify.com/track/4ctcoFdmz78oCxqw8iMR05) | [Layyah](https://open.spotify.com/artist/4dPLaOXT8fXdg8X0KSIMXF) | [Money Moves](https://open.spotify.com/album/7pdmw4URwOo3Foxaox00Ox) | 3:52 | 2025-10-23 | 2026-01-15 |
+| [Move on](https://open.spotify.com/track/2x3ysVnMpdIwtski9oYQPJ) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Move on](https://open.spotify.com/album/2nLoFygVWZrgN2Bxf3B40q) | 2:30 | 2026-01-30 |  |
 | [Moved On](https://open.spotify.com/track/1j7tAy1YjVd5pNwQDqU9pc) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Moved On](https://open.spotify.com/album/3hzx6bvmFZq9GQGFu4bNWT) | 1:51 | 2025-11-14 |  |
 | [Necklace](https://open.spotify.com/track/20NS619uBokgd04tGvxrFN) | [Hugo Chegwin](https://open.spotify.com/artist/6DyrpiG5H2o9KBGjI4bpPc), [Jianbo](https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft) | [Necklace](https://open.spotify.com/album/2oeoe9qVXVJy3zqrbMVCUX) | 2:27 | 2025-10-23 | 2025-12-12 |
 | [NOBLE](https://open.spotify.com/track/36jgline0lR83kGP9YFXcE) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/7kSO56we07fodbcyHOSCps) | 3:05 | 2026-01-09 |  |

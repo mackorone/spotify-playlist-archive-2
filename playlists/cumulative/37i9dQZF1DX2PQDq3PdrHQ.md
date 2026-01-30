@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-863 songs - 1 day 9 hr 37 min
+866 songs - 1 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Earth](https://open.spotify.com/track/47grvGTNigrMww35L06LJa) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv) | [Earth](https://open.spotify.com/album/3akTQPLju7tOIB1YRLz3p1) | 2:30 | 2022-05-20 | 2022-12-12 |
 | [Eat Me](https://open.spotify.com/track/6NdX1iXLTKjruEuoG3fIvO) | [wind\-up bird](https://open.spotify.com/artist/66UE5LrivDsDSLdDcK9Qri), [LUXID AXID](https://open.spotify.com/artist/6yZIMRBmAHdrstkuapdrc0) | [Eat Me](https://open.spotify.com/album/1GeJlNugKY4qEcCTKXJkKt) | 2:19 | 2022-10-28 | 2024-07-27 |
 | [elevation](https://open.spotify.com/track/7spTNUW2VouHtkboiO30sF) | [hinako fukushi](https://open.spotify.com/artist/5glOFLmRNoXs1AC2jGYS6j) | [elevation](https://open.spotify.com/album/6bfqiDky9JqXxkfs6VCKst) | 2:10 | 2022-05-20 |  |
+| [elsewhere](https://open.spotify.com/track/5eVL9bnc7PXdkx2OSapkId) | [jaackson](https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI), [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP) | [elsewhere](https://open.spotify.com/album/0FJXeoZLM8H66ZMOYgHJij) | 2:00 | 2026-01-29 |  |
 | [elysian](https://open.spotify.com/track/4HELipRPRuJMujGumklU3f) | [MNU](https://open.spotify.com/artist/0LzjZ61Zk2Zb8c25T85say) | [elysian](https://open.spotify.com/album/3yQw5kIbjaJehyovQQFTD9) | 2:40 | 2022-09-02 | 2023-08-30 |
 | [Embrace](https://open.spotify.com/track/6UcIRu1u50FezpREs0yesS) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Moonlight Tales](https://open.spotify.com/album/3XMbwIbPcfsJY345nZaElz) | 2:00 | 2023-06-06 | 2024-09-28 |
 | [Emerald Earth](https://open.spotify.com/track/48C4Ay5VNjwAVlDMwNfzhO) | [soitchy](https://open.spotify.com/artist/3wDRe1dpTdbBrSOnvG6szY) | [Slow Dancing In Forest Rain](https://open.spotify.com/album/1x2S3dt0e0GwupTrQIHZbh) | 2:35 | 2022-08-12 | 2023-09-29 |
@@ -323,6 +324,7 @@
 | [Helio Ballon](https://open.spotify.com/track/2QTYIMZ8rQ06lkMijfpb9b) | [JAKKARTA](https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk) | [Helio Ballon](https://open.spotify.com/album/7gEWyUsO9QZzCcv2KvfHcN) | 2:22 | 2024-08-09 |  |
 | [her eyes](https://open.spotify.com/track/30Uh1S89EO4ep7NTYULn6f) | [Phonedown](https://open.spotify.com/artist/6mAZPYwuELJQtdrxvnPg1Q) | [her eyes](https://open.spotify.com/album/31MyEUNIgVzT3kibYCaLBs) | 1:49 | 2023-01-13 | 2025-05-24 |
 | [Hibernation](https://open.spotify.com/track/0gF7hXFIf8aKCEoIWGFVLP) | [hushfall](https://open.spotify.com/artist/6wPZ8OOl7FlpRa1aUejY47), [lushmeadow](https://open.spotify.com/artist/4TlNXWWHdm9M3X4hq6hPK9) | [Hibernation](https://open.spotify.com/album/3Xa30ZlRSKX2NbNEvf0at8) | 2:02 | 2022-10-07 | 2023-07-18 |
+| [Hibiscus](https://open.spotify.com/track/4jjapVlLQjV0q1MF8BoBft) | [nate2timez](https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps) | [Hibiscus](https://open.spotify.com/album/4Nk5Hi6LbR30kHHkoNtkiq) | 2:30 | 2026-01-29 |  |
 | [Hideout](https://open.spotify.com/track/4DdHibYC2NIn1aSn4kzHI6) | [Jaden Christy](https://open.spotify.com/artist/26Lja0Loc02XwrkUdLH7X9), [Broken Holiday](https://open.spotify.com/artist/0O76plZlrqmubSLOZHDOmI), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [Hideout](https://open.spotify.com/album/3OsrD1AtHEOhay6AiaZ2ix) | 2:20 | 2022-05-20 | 2023-01-20 |
 | [Hiding](https://open.spotify.com/track/1gWlkyc7p3l9tm6AwwKe0G) | [reysi](https://open.spotify.com/artist/2ma4p5K4XNOuJAZLlIHouS), [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb) | [Hiding](https://open.spotify.com/album/5cUQY0MqANFUfbrnE1AxIi) | 2:47 | 2022-05-20 | 2022-08-12 |
 | [Hold me Tight](https://open.spotify.com/track/1aPhWTpcUdTZXxVdYyvAsn) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [mommy](https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk) | [Hold Me Tight](https://open.spotify.com/album/3pcOwxQzK5EZBkAqgOVk9B) | 3:01 | 2022-08-12 | 2022-10-29 |
@@ -799,6 +801,7 @@
 | [time twist](https://open.spotify.com/track/2tTam1DLtJL6hqFd4JIBTu) | [haki donzo](https://open.spotify.com/artist/7JCLpMzChs65N5MKKyup2b) | [time twist](https://open.spotify.com/album/7aoYpp3XszRe3nWsv7ObbP) | 1:57 | 2023-05-03 | 2023-07-18 |
 | [Time Warp](https://open.spotify.com/track/10K4MrtAQrV7hdNIWF6sEB) | [A Space for Rent](https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX) | [Time Warp](https://open.spotify.com/album/068P11fTS2AhMQhlxFgRiV) | 2:16 | 2023-09-29 |  |
 | [Tinkerer](https://open.spotify.com/track/6L83ooUIEa5RyayCgTgnSo) | [Svedje](https://open.spotify.com/artist/0IWHtpPrewzL4qFOOuUk89) | [Tinkerer](https://open.spotify.com/album/4FyPos8muBshzBWUqHburL) | 2:36 | 2022-07-29 | 2022-08-12 |
+| [to be found](https://open.spotify.com/track/0LVCXa0j0GDt5LYaZc36q7) | [bedroom lofi](https://open.spotify.com/artist/2LrcxltMHRqQBYByx4rtW2) | [to be found](https://open.spotify.com/album/1F4DFD77lZ0Ra5i0WWWe0S) | 2:18 | 2026-01-29 |  |
 | [to love someone](https://open.spotify.com/track/0VhCFpQjpHCTVPcWbk9eVe) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Trix.](https://open.spotify.com/artist/6sX3XCMLJp33YwlYcm5SNF) | [to love someone](https://open.spotify.com/album/13soX9NnouJl8kO4zSG1FH) | 2:28 | 2025-03-21 |  |
 | [tonight](https://open.spotify.com/track/4gVAH4ySy5mNMLAY5W88dl) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR) | [tonight](https://open.spotify.com/album/131L5UJ3E5gXgfkAgBFJHX) | 2:23 | 2025-06-13 | 2025-09-26 |
 | [Tonight's The Night](https://open.spotify.com/track/3a6yAWWJuCinjbyXF0SWvQ) | [Chilli Dragon](https://open.spotify.com/artist/7eG2rRdyoOmGpsS6BpB9Qx) | [Tonight's The Night](https://open.spotify.com/album/6fFkOuRfjQmI3tre3dJPRV) | 2:09 | 2023-06-06 | 2026-01-17 |

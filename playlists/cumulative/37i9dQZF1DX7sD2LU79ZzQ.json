@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Aurelia Syaharani",
+  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Mario G. klau",
   "name": "Naik Daun",
   "tracks": [
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "DEABDIL",
+          "url": "https://open.spotify.com/artist/0DdKmEBoSQuTWY9Mo2EQm2"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263242,
+      "name": "( jangan ) terserah",
+      "url": "https://open.spotify.com/track/0pajC5ZhNw4hMNeImsPjBO"
+    },
     {
       "album": {
         "name": "(Jangan) Jatuh Cinta",
@@ -2198,6 +2216,32 @@
       "duration_ms": 149189,
       "name": "Banyak Yang Bilang",
       "url": "https://open.spotify.com/track/0f0jZj5PDrNqNIhWMaJBK7"
+    },
+    {
+      "album": {
+        "name": "Dreams Are Made in Pasar Minggu",
+        "url": "https://open.spotify.com/album/1TxuudzUTTXhKfp5yYKBxP"
+      },
+      "artists": [
+        {
+          "name": "Laze",
+          "url": "https://open.spotify.com/artist/1IqTdUbQ33vM6tbV1fiWKZ"
+        },
+        {
+          "name": "Mardial",
+          "url": "https://open.spotify.com/artist/6G3dgFot4EpJCy7BtSN7Md"
+        },
+        {
+          "name": "Santini",
+          "url": "https://open.spotify.com/artist/2cTmpeyehCwS1Hcg4sIdHW"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157920,
+      "name": "Bawa Uang",
+      "url": "https://open.spotify.com/track/72joMSi6bnRvjMCS8Nr23L"
     },
     {
       "album": {
@@ -4732,6 +4776,28 @@
       "duration_ms": 253980,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/6MidLW447aO1XCYHirArxz"
+    },
+    {
+      "album": {
+        "name": "Chocolate (Indonesia Version)",
+        "url": "https://open.spotify.com/album/0c9dL038DSYo5zN1bIDUlq"
+      },
+      "artists": [
+        {
+          "name": "PAPION",
+          "url": "https://open.spotify.com/artist/4rxH9fSOAEtWxr8NkeW4Pi"
+        },
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Chocolate (Indonesia Version)",
+      "url": "https://open.spotify.com/track/7iZtVjdli1E8Ftrwxg2Fej"
     },
     {
       "album": {
@@ -11361,6 +11427,24 @@
     },
     {
       "album": {
+        "name": "Kita Buat Menyenangkan",
+        "url": "https://open.spotify.com/album/57chfzR7TAIGbjPtZVEl9x"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249920,
+      "name": "Kita Buat Menyenangkan",
+      "url": "https://open.spotify.com/track/4J9DouSADdyakPD9h6oD6N"
+    },
+    {
+      "album": {
         "name": "Kita Jalin",
         "url": "https://open.spotify.com/album/2ysZ1EkZU8mX0IuhPL057E"
       },
@@ -11430,6 +11514,28 @@
       "duration_ms": 242233,
       "name": "Kita Sama Sama Tau",
       "url": "https://open.spotify.com/track/2W88VFBsbYqCK2WXocaQZu"
+    },
+    {
+      "album": {
+        "name": "Kita Sama-Sama",
+        "url": "https://open.spotify.com/album/17itcjab51VSbQuVDMhETN"
+      },
+      "artists": [
+        {
+          "name": "Calvin Jeremy",
+          "url": "https://open.spotify.com/artist/5R0U4DSRlKGCFcyJa4z4yD"
+        },
+        {
+          "name": "Rio Febrian",
+          "url": "https://open.spotify.com/artist/3q3FakGkayPyaj7dV3luv9"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201882,
+      "name": "Kita Sama-Sama",
+      "url": "https://open.spotify.com/track/72xEL5kypQQUIIGEJBm94h"
     },
     {
       "album": {
@@ -15009,6 +15115,28 @@
     },
     {
       "album": {
+        "name": "Mulanya Disini",
+        "url": "https://open.spotify.com/album/6l9gVoYGE4sKvtcvbKY9aC"
+      },
+      "artists": [
+        {
+          "name": "Marcell",
+          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
+        },
+        {
+          "name": "Rima Melati Adams",
+          "url": "https://open.spotify.com/artist/1xb3vUWhUFFBRCJlaP2Bqc"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267686,
+      "name": "Mulanya Disini",
+      "url": "https://open.spotify.com/track/1vabZWqOxt8kkod2bZeGNU"
+    },
+    {
+      "album": {
         "name": "Muncul terus",
         "url": "https://open.spotify.com/album/0M62mgWNRB3bcOnMyNyZCL"
       },
@@ -16678,6 +16806,24 @@
       "duration_ms": 237984,
       "name": "Penyangkalan - Acoustic",
       "url": "https://open.spotify.com/track/3TMzUKhjdK2ZVkcrNX6dXG"
+    },
+    {
+      "album": {
+        "name": "Perahu Kertas",
+        "url": "https://open.spotify.com/album/0f44eQtoSjg3XOukG7RFxj"
+      },
+      "artists": [
+        {
+          "name": "Dee Lestari",
+          "url": "https://open.spotify.com/artist/1mCcTwpEABnSVB4D8rXfRN"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241621,
+      "name": "Perahu Kertas",
+      "url": "https://open.spotify.com/track/16udHyqg2MLJIN32L3YBt2"
     },
     {
       "album": {
@@ -18500,6 +18646,24 @@
       "duration_ms": 269990,
       "name": "Salah - Live at Aquarius Studio",
       "url": "https://open.spotify.com/track/2KsQDj3kEFCQVjGk8rTHV0"
+    },
+    {
+      "album": {
+        "name": "Salah Kaprah #Anjay",
+        "url": "https://open.spotify.com/album/4ZkK2v1T2GcDvqyUdThDch"
+      },
+      "artists": [
+        {
+          "name": "Mario G klau",
+          "url": "https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238909,
+      "name": "Salah Kaprah #Anjay",
+      "url": "https://open.spotify.com/track/3AnEaWI0Ax5jmP40RVg6cG"
     },
     {
       "album": {
@@ -20663,6 +20827,28 @@
     },
     {
       "album": {
+        "name": "Sesi Potret",
+        "url": "https://open.spotify.com/album/25hlG9lEbc2ARvZXY4ZDhv"
+      },
+      "artists": [
+        {
+          "name": "e\u0144au",
+          "url": "https://open.spotify.com/artist/0agUNq8PH1QSgm88EuhM1u"
+        },
+        {
+          "name": "Ari Lesmana",
+          "url": "https://open.spotify.com/artist/3MMDw11m6HJrXlGOE3honc"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Sesi Potret",
+      "url": "https://open.spotify.com/track/4xoY4lZNoTjEuHsSmhgF1G"
+    },
+    {
+      "album": {
         "name": "Nadhif",
         "url": "https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k"
       },
@@ -21260,6 +21446,24 @@
       "duration_ms": 158000,
       "name": "Sisi Lain",
       "url": "https://open.spotify.com/track/0Q3MtsZm9zbuEY5FtSDutq"
+    },
+    {
+      "album": {
+        "name": "Favorite Dinner Guest",
+        "url": "https://open.spotify.com/album/58pO9EtkWsSxakurDGwt2u"
+      },
+      "artists": [
+        {
+          "name": "Ricecooker",
+          "url": "https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225292,
+      "name": "Smitten",
+      "url": "https://open.spotify.com/track/0dj0VzB0HuqwriLuce76e6"
     },
     {
       "album": {
@@ -24628,6 +24832,24 @@
       "duration_ms": 275621,
       "name": "Tulang Punggung",
       "url": "https://open.spotify.com/track/0YwEhTKPAsQkMd9oehSJHz"
+    },
+    {
+      "album": {
+        "name": "Tumbuh",
+        "url": "https://open.spotify.com/album/1slRM2viVpnEHe6mM00OQD"
+      },
+      "artists": [
+        {
+          "name": "Ipang Lazuardi",
+          "url": "https://open.spotify.com/artist/6j7d3OtOyA95ESoCHJIJEh"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361661,
+      "name": "Tumbuh",
+      "url": "https://open.spotify.com/track/5bL8uOAstudRszZ7JUu9FI"
     },
     {
       "album": {

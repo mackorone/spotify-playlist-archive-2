@@ -22532,7 +22532,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/4DPdJvSMB6hmrjgC5eC85d"
@@ -22550,7 +22550,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -32006,6 +32006,24 @@
       "duration_ms": 204306,
       "name": "Norge rundt",
       "url": "https://open.spotify.com/track/2npSnsWqiOkinzheEcuWh8"
+    },
+    {
+      "album": {
+        "name": "Northern Lights",
+        "url": "https://open.spotify.com/album/27PGrw4C2AhVTAOZsTAsYU"
+      },
+      "artists": [
+        {
+          "name": "emma",
+          "url": "https://open.spotify.com/artist/6pe92iYUnYByNR6uMcfZ4V"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177306,
+      "name": "Northern Lights",
+      "url": "https://open.spotify.com/track/2qLYadTIWJTXJuS8sTt7m8"
     },
     {
       "album": {
@@ -45070,7 +45088,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 176769,
       "name": "Til ungdommen",
       "url": "https://open.spotify.com/track/3mh1oYBAQy657NrVLONKlg"

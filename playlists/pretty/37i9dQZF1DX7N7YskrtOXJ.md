@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 
 > La fiesta se enciende con cumbia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,631 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,679 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 23 | [Yo Me Enamoré](https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 3:12 |
 | 24 | [La resaka](https://open.spotify.com/track/12rV4fh9cnftIXXmTtjhhI) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [La Lata](https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP) | 3:34 |
 | 25 | [Cariño](https://open.spotify.com/track/4HSZVS72M5MXs9yFQX9irX) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ) | [Sueño Cumplido](https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz) | 3:20 |
-| 26 | [Como la Flor](https://open.spotify.com/track/52yp1caEYyP1w9qFINypd1) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Como la Flor](https://open.spotify.com/album/0sFQOhf7QVnWlQzkOnyTyp) | 3:03 |
+| 26 | [Eres](https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Eres](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:16 |
 | 27 | [Podria Ser Amado](https://open.spotify.com/track/6HSxhRSUCUZr5s9LQtxWT6) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Somos los Mejores..\. Y Que Sigan Participando](https://open.spotify.com/album/1rOgK22crGW0pZRvZyNoQG) | 3:09 |
-| 28 | [Eres](https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Eres](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:16 |
+| 28 | [Como la Flor](https://open.spotify.com/track/52yp1caEYyP1w9qFINypd1) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Como la Flor](https://open.spotify.com/album/0sFQOhf7QVnWlQzkOnyTyp) | 3:03 |
 | 29 | [Porque te amo](https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor](https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06) | 3:53 |
 | 30 | [Yo Me Enamore](https://open.spotify.com/track/6pHggeQk3ZnOm10uAnsqAG) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y) | 3:07 |
 | 31 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 |
@@ -95,14 +95,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 85 | [Flor de Cumbión](https://open.spotify.com/track/1iw2aoN9vgmzHw0acRFvAZ) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Pregonero](https://open.spotify.com/album/44vJ4lHPNZmfZ09TJ4Q1Hd) | 2:37 |
 | 86 | [La Santa Diabla](https://open.spotify.com/track/4FeUB6lhoT0Z3e43IHD4F8) | [Peregrinos del Amor](https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM) | [Sueño Su Boca](https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr) | 5:56 |
 | 87 | [Cómo le Gusta](https://open.spotify.com/track/5yrK1Uw6fQUcbqBvvawSmr) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Cómo le Gusta](https://open.spotify.com/album/67V8P2PQIobKRhkNjSboUd) | 3:10 |
-| 88 | [Y Me Bebí Tu Recuerdo](https://open.spotify.com/track/2yEbq1d68QtkwkGFfDpMbr) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [La Nueva Fiesta de los Charros](https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv) | 4:06 |
-| 89 | [Cumbia buena](https://open.spotify.com/track/6olrFuGY4UmIvc6Xh4B1Mn) | [Luis Ornelas](https://open.spotify.com/artist/4fV5UOyZ7VTY9y04Jt79gI), [Luis Ornelas y su Grupo](https://open.spotify.com/artist/5ioaYiDl0Yc0tQHac96w44) | [En Vivo](https://open.spotify.com/album/0p7JA2rxmDu7K4J2Wf7QPI) | 1:57 |
+| 88 | [Cumbia buena](https://open.spotify.com/track/6olrFuGY4UmIvc6Xh4B1Mn) | [Luis Ornelas](https://open.spotify.com/artist/4fV5UOyZ7VTY9y04Jt79gI), [Luis Ornelas y su Grupo](https://open.spotify.com/artist/5ioaYiDl0Yc0tQHac96w44) | [En Vivo](https://open.spotify.com/album/0p7JA2rxmDu7K4J2Wf7QPI) | 1:57 |
+| 89 | [Y Me Bebí Tu Recuerdo](https://open.spotify.com/track/2yEbq1d68QtkwkGFfDpMbr) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [La Nueva Fiesta de los Charros](https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv) | 4:06 |
 | 90 | [Melosa](https://open.spotify.com/track/4Pss9knIWhZDWlGXmnDI0S) | [Sonora Malecón](https://open.spotify.com/artist/0VqdDDrHPFAdqzDR08FySM) | [Late Que Late](https://open.spotify.com/album/3CchqS3Ja713mLzjCsl3eH) | 3:06 |
 | 91 | [Cara y Corazón](https://open.spotify.com/track/1QtiUJ9Qn7DLoMeUDNrYl7) | [La Transa](https://open.spotify.com/artist/6EF1264lzOeAYoRT6kFNL2), [Tomás Maldonado](https://open.spotify.com/artist/6prihyniSR9AcgzNKRIX7p) | [Cara y Corazón](https://open.spotify.com/album/7LcU95BCXuQftctl8xIo5C) | 3:51 |
 | 92 | [Callejero](https://open.spotify.com/track/2ZzEsTTMNNVZ7x5mQ7O1xE) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [Afrorumba Chilenera](https://open.spotify.com/album/334OZeCYbDhSwj5mP9DD03) | 3:29 |
 | 93 | [La Temporera](https://open.spotify.com/track/24mXt0wbrcsVcDiaG4J2fH) | [Grupo Hechizo](https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3) | [Grupo Hechizo](https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC) | 3:46 |
-| 94 | [Palomita / Olguita / Engañadora / Mi Gran Amor \- En Vivo](https://open.spotify.com/track/4MpbZNS58Pp3KbI56syULD) | [Grupo Alegria](https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg) | [Teatro Monumental \(En Vivo\)](https://open.spotify.com/album/0FhTTwjWI3CoZh0cwNjJtk) | 8:36 |
-| 95 | [El Divorcio](https://open.spotify.com/track/1N4xlDzCtpY15zt3kHTh9K) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [El Divorcio](https://open.spotify.com/album/7MQ4ntSTX8ndQU5wBGFaUz) | 4:01 |
+| 94 | [El Divorcio](https://open.spotify.com/track/1N4xlDzCtpY15zt3kHTh9K) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [El Divorcio](https://open.spotify.com/album/7MQ4ntSTX8ndQU5wBGFaUz) | 4:01 |
+| 95 | [Palomita / Olguita / Engañadora / Mi Gran Amor \- En Vivo](https://open.spotify.com/track/4MpbZNS58Pp3KbI56syULD) | [Grupo Alegria](https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg) | [Teatro Monumental \(En Vivo\)](https://open.spotify.com/album/0FhTTwjWI3CoZh0cwNjJtk) | 8:36 |
 | 96 | [Me Tienes Que Olvidar / Tu Príncipe / Amor de Colegio / Baby Cuentale / Tu No Sabes](https://open.spotify.com/track/57wnGwuzxZIS7AjjTIEy8l) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Maxi Tolosa](https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ) | [Me Tienes Que Olvidar / Tu Principe / Amor de Colegio / Baby Cuentale / Tu No Sabes](https://open.spotify.com/album/3UWX5hb5szWplNu1vU4iN7) | 7:48 |
 | 97 | [Tu Vives Equivocada](https://open.spotify.com/track/4NecYY3NKC7FdPXSgJcJ80) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Nectar Internacional](https://open.spotify.com/album/5zKXDh6rHtZWHcQyyOgxE4) | 3:46 |
 | 98 | [Hermano Mio](https://open.spotify.com/track/5bVUbOMOQfG9uXnN7c9AKk) | [Los Kachorros](https://open.spotify.com/artist/7hFe2cAs691Jb0Pxvb2yad) | [Con Paso Firme](https://open.spotify.com/album/3UHCJyfAEAXcc7CrR2OWvZ) | 3:54 |

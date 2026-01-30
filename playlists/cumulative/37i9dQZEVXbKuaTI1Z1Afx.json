@@ -9824,7 +9824,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 150733,
       "name": "Big Guy - from \"The SpongeBob Movie: Search for SquarePants\u201d",
       "url": "https://open.spotify.com/track/3HiCAjMaPfM4vnbhLhADBp"
@@ -26812,6 +26812,28 @@
       "duration_ms": 210253,
       "name": "Feel My Rhythm",
       "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
+    },
+    {
+      "album": {
+        "name": "Feeling On My Body",
+        "url": "https://open.spotify.com/album/1BqPXopkoUR0h2hOfVFnpM"
+      },
+      "artists": [
+        {
+          "name": "Taffy",
+          "url": "https://open.spotify.com/artist/7hjNO6RQeqZIBZpZQdstUO"
+        },
+        {
+          "name": "Miss Asia",
+          "url": "https://open.spotify.com/artist/2MF1Tg4y83Un8pLU31Qr6g"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158238,
+      "name": "Feeling On My Body",
+      "url": "https://open.spotify.com/track/4Sbi3kI2pTKT6Ktwq0ea3F"
     },
     {
       "album": {
@@ -79490,7 +79512,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 304584,
       "name": "THANK GOD I'M FREE",
       "url": "https://open.spotify.com/track/0APie81Toq4KEJr8ebPFb5"
@@ -80542,6 +80564,24 @@
     {
       "album": {
         "name": "The Hand",
+        "url": "https://open.spotify.com/album/43fX9uwaRmoPEKbMzMMuav"
+      },
+      "artists": [
+        {
+          "name": "Annabelle Dinda",
+          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190476,
+      "name": "The Hand",
+      "url": "https://open.spotify.com/track/177hzTEEFC7GTHOrfoUuSj"
+    },
+    {
+      "album": {
+        "name": "The Hand",
         "url": "https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx"
       },
       "artists": [
@@ -80552,7 +80592,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 190476,
       "name": "The Hand",
       "url": "https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns"
@@ -90834,7 +90874,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 189880,
       "name": "Where Your Warmth Begins",
       "url": "https://open.spotify.com/track/2SQPpr2F8aSav3ipoZCyc0"

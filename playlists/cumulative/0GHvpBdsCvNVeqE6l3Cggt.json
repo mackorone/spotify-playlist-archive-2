@@ -1447,6 +1447,24 @@
     },
     {
       "album": {
+        "name": "you accommodate my apprehensions",
+        "url": "https://open.spotify.com/album/4Hse10Gucm3iSkrBWUUpCT"
+      },
+      "artists": [
+        {
+          "name": "pato",
+          "url": "https://open.spotify.com/artist/287WS6RoocMlJfeVu5GiCg"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210705,
+      "name": "you accommodate my apprehensions",
+      "url": "https://open.spotify.com/track/0Z16iELCJ6NeglcntvvzeY"
+    },
+    {
+      "album": {
         "name": "No Need To Argue",
         "url": "https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp"
       },

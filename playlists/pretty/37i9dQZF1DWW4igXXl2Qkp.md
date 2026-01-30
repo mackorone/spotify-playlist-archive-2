@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:5hfKHmE2Vo9XyLyIJZe3rl">Yung Skooley</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,280 likes - 100 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,321 likes - 100 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Look At The Sky](https://open.spotify.com/track/1qOEftqzEzXzfv1IouD7s8) | [Kromow](https://open.spotify.com/artist/1b6d3fFLaHyLRs114XalaA) | [Look At The Sky](https://open.spotify.com/album/0PjsfQ214HanVNGaIGXsEF) | 2:08 |
-| 2 | [Small Talk](https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Small Talk](https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB) | 3:13 |
-| 3 | [Met The Plug](https://open.spotify.com/track/26edv2UUCuUQSet16uBrwo) | [Fatt Macc](https://open.spotify.com/artist/0NSQBZzUfj9X6iV2D47Uo4), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [\#1 Trap Pick](https://open.spotify.com/album/5KOXMWQZshaItuetrOuUpm) | 2:35 |
-| 4 | [BOO](https://open.spotify.com/track/7z0fmhOBmjifu0BqMP5vuG) | [H3adband](https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk) | [BOO](https://open.spotify.com/album/4mblTYg5YlrtspzftfKVZd) | 2:18 |
-| 5 | [LA Lakers](https://open.spotify.com/track/1cSkj5yKNKGXx3ba0yFaMo) | [Yung Skooley](https://open.spotify.com/artist/5hfKHmE2Vo9XyLyIJZe3rl), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Sharks Never Stop Swimming 2](https://open.spotify.com/album/5y7AuFcf3HSVJD5XpPEO47) | 2:21 |
+| 1 | [LA Lakers](https://open.spotify.com/track/1cSkj5yKNKGXx3ba0yFaMo) | [Yung Skooley](https://open.spotify.com/artist/5hfKHmE2Vo9XyLyIJZe3rl), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Sharks Never Stop Swimming 2](https://open.spotify.com/album/5y7AuFcf3HSVJD5XpPEO47) | 2:21 |
+| 2 | [Met The Plug](https://open.spotify.com/track/26edv2UUCuUQSet16uBrwo) | [Fatt Macc](https://open.spotify.com/artist/0NSQBZzUfj9X6iV2D47Uo4), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [\#1 Trap Pick](https://open.spotify.com/album/5KOXMWQZshaItuetrOuUpm) | 2:35 |
+| 3 | [BOO](https://open.spotify.com/track/7z0fmhOBmjifu0BqMP5vuG) | [H3adband](https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk) | [BOO](https://open.spotify.com/album/4mblTYg5YlrtspzftfKVZd) | 2:18 |
+| 4 | [Look At The Sky](https://open.spotify.com/track/1qOEftqzEzXzfv1IouD7s8) | [Kromow](https://open.spotify.com/artist/1b6d3fFLaHyLRs114XalaA) | [Look At The Sky](https://open.spotify.com/album/0PjsfQ214HanVNGaIGXsEF) | 2:08 |
+| 5 | [Small Talk](https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Small Talk](https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB) | 3:13 |
 | 6 | [Rivals](https://open.spotify.com/track/5ssx53WusnWD1SSFdJnAKq) | [Btb Dezz](https://open.spotify.com/artist/7dsfjJOEJ0naEgecbf0lol) | [TOP 5 CLOVER](https://open.spotify.com/album/0vfMQhWtWyu6weRVWtypov) | 1:56 |
 | 7 | [Just got signed](https://open.spotify.com/track/2etJ346HBhMjE2AKWDA1WU) | [Mo P.](https://open.spotify.com/artist/66iD0Qj7UsBR2ZJuyBu5lj) | [THE TAP PROGRAM \(Deluxe\)](https://open.spotify.com/album/2bvoN80BPD1ZMBUBMInwFc) | 2:24 |
 | 8 | [GOIN ON](https://open.spotify.com/track/6051w7Fs5675HEW2Tn1eb0) | [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [GOIN ON](https://open.spotify.com/album/2tUcoqAHiF7M0jXo76TSf4) | 1:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 99 | [Im So ATL](https://open.spotify.com/track/5jZxV3cIOVac9NObhBWfVX) | [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD) | [Im So ATL](https://open.spotify.com/album/3whatL9Hb6RbGG3fhLn3XM) | 2:04 |
 | 100 | [Get dressed](https://open.spotify.com/track/3TOLAb9pdYMG6iIZMTlcQO) | [MIRRAR](https://open.spotify.com/artist/39zqfoXqVbCNHs3Ip4kbGp) | [Get dressed](https://open.spotify.com/album/70QZqS4zgW0LLMA99aJmGw) | 1:54 |
 
-Snapshot ID: `AAAAABGzTAochpvZnoGD385TQzkdqtFe`
+Snapshot ID: `AAAAABVJgpozjgLqMepDz7zZVIOXdxci`

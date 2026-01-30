@@ -4,10 +4,11 @@
 
 > Enjoy music from GUNDAM series! ©創通・サンライズ
 
-373 songs - 1 day 1 hr 14 min
+375 songs - 1 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [5TELLA](https://open.spotify.com/track/0KLSg04eAUWCctfHWQD3wL) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [5TELLA](https://open.spotify.com/album/3R3qeemjRskWgzl96Q7rvE) | 3:55 | 2026-01-29 |  |
 | [A Red Ray](https://open.spotify.com/track/2KCOmmGptlVGAvFAVzAx7H) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [A Red Ray](https://open.spotify.com/album/3LRl7ohuRCj6RIDTEhcx3r) | 4:51 | 2022-07-27 | 2023-03-02 |
 | [A Red Ray \(feat\. miwa\)](https://open.spotify.com/track/19jryDqhWoCZeDRDY5bCFK) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [機動戦士ガンダム 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/05kgcnRGBB1etslod1gYCh) | 4:53 | 2022-07-27 | 2022-07-29 |
 | [A Red Ray \(feat\. miwa\)](https://open.spotify.com/track/4kPYWusRFCUOrb1Qw7a4KF) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Mobile Suit Gundam 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/5zpZp7yQ1iRd9DuoLei2BI) | 4:53 | 2022-12-06 | 2024-01-12 |
@@ -217,6 +218,7 @@
 | [Shizukana Yoruni](https://open.spotify.com/track/71qfrdlJLBfPusYA4RheiH) | [Lacus Clyne \(CV: Rie Tanaka\)](https://open.spotify.com/artist/1aoUdHLSeRNO6NEM7P4RMH) | [Shizukana Yoruni](https://open.spotify.com/album/37Nw2Q4Wlhei7xl4iUWQGk) | 4:53 | 2024-01-11 | 2024-04-19 |
 | [Silent Voice](https://open.spotify.com/track/2zOY7EJJpr0311VzJCNnWH) | [Jun Hiroe](https://open.spotify.com/artist/48DGGQUllRMJBjK6ArNDkZ) | [Silent Voice](https://open.spotify.com/album/5YOREcmrBeVdIQFNtkpdwB) | 4:26 | 2023-04-21 | 2024-04-19 |
 | [slash](https://open.spotify.com/track/7ecWzYoWecy0fiUu6FKZ3T) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [slash](https://open.spotify.com/album/4oLomJzmXTSNYrOYsEg4u3) | 3:58 | 2023-04-08 |  |
+| [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2026-01-29 |  |
 | [SOLDIER \-Kanashimi no Uta\-](https://open.spotify.com/track/0LwR9BsNrewCBnX7qfesG3) | [CHINO](https://open.spotify.com/artist/62YQvnQlYEA0cD41aqLycV) | [SOLDIER \- Kanashimi no Uta\-](https://open.spotify.com/album/70nEeUH4rJLclKz8Dqcquu) | 4:15 | 2023-04-21 | 2024-01-12 |
 | [SOLDIER \-哀しみの詩\-](https://open.spotify.com/track/1FVhSxoxYXRs4PMfRpz8BV) | [CHINO](https://open.spotify.com/artist/0XfijNDFFxkYrFz7TqojhZ) | [SOLDIER \-哀しみの詩\-](https://open.spotify.com/album/6afn6rCEdZC8F86HcQUC5H) | 4:15 | 2022-07-27 | 2023-06-18 |
 | [STAND UP TO THE VICTORY \~TO THE VICTORY\~](https://open.spotify.com/track/4H8Gnxc2UAzw7BVcZPJxR7) | [Tomohisa Kawazoe](https://open.spotify.com/artist/3BO6d3Nf4KuNeolA5f2N6P) | [STAND UP TO THE VICTORY \~TO THE VICTORY\~](https://open.spotify.com/album/0HrbtaAUY8zVKupEhY799D) | 4:35 | 2023-04-21 | 2024-04-19 |

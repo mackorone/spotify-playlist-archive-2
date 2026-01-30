@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 165964,
+  "num_followers": 165977,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -643,26 +643,6 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
-        "name": "Disguise",
-        "url": "https://open.spotify.com/album/3NQAohLVL3a4QG3Gp01tVc"
-      },
-      "artists": [
-        {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
-        },
-        {
-          "name": "borne",
-          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
-        }
-      ],
-      "duration_ms": 193273,
-      "name": "Disguise",
-      "url": "https://open.spotify.com/track/5ZWJAsrrjXUBPv3tYxaHEN"
-    },
-    {
-      "added_at": "2026-01-23 00:00:37",
-      "album": {
         "name": "Badman Talk",
         "url": "https://open.spotify.com/album/6JXpd9RqKGRUKbYYmgL1ND"
       },
@@ -683,18 +663,22 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
-        "name": "Close My Eyes",
-        "url": "https://open.spotify.com/album/6MsgtkjlZ1URg8w4BqdkeE"
+        "name": "Disguise",
+        "url": "https://open.spotify.com/album/3NQAohLVL3a4QG3Gp01tVc"
       },
       "artists": [
         {
-          "name": "Delta Heavy",
-          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
         }
       ],
-      "duration_ms": 204137,
-      "name": "Close My Eyes",
-      "url": "https://open.spotify.com/track/6QNrYR1tHfRF0BVGUt6syc"
+      "duration_ms": 193273,
+      "name": "Disguise",
+      "url": "https://open.spotify.com/track/5ZWJAsrrjXUBPv3tYxaHEN"
     },
     {
       "added_at": "2026-01-23 00:00:37",
@@ -711,6 +695,22 @@
       "duration_ms": 182069,
       "name": "Flow",
       "url": "https://open.spotify.com/track/06eJJV9q1HieNW8dm9htJt"
+    },
+    {
+      "added_at": "2026-01-23 00:00:37",
+      "album": {
+        "name": "Close My Eyes",
+        "url": "https://open.spotify.com/album/6MsgtkjlZ1URg8w4BqdkeE"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "Close My Eyes",
+      "url": "https://open.spotify.com/track/6QNrYR1tHfRF0BVGUt6syc"
     },
     {
       "added_at": "2026-01-23 00:00:37",
@@ -755,62 +755,6 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
-        "name": "Interstellar",
-        "url": "https://open.spotify.com/album/6c2lgEoa6569HdwpGghy5C"
-      },
-      "artists": [
-        {
-          "name": "Friction",
-          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
-        },
-        {
-          "name": "Circadian",
-          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "Interstellar",
-      "url": "https://open.spotify.com/track/6ElhC5DxYjhCzhjtrn3GUU"
-    },
-    {
-      "added_at": "2026-01-23 00:00:37",
-      "album": {
-        "name": "Rowdy (BLAOW!)",
-        "url": "https://open.spotify.com/album/6KSL4epV7UWnFKryvdPk3i"
-      },
-      "artists": [
-        {
-          "name": "Hedex",
-          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
-        },
-        {
-          "name": "Eksman",
-          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
-        }
-      ],
-      "duration_ms": 143610,
-      "name": "Rowdy (BLAOW!)",
-      "url": "https://open.spotify.com/track/6Gkum3tDLFXTAUktaV6yh6"
-    },
-    {
-      "added_at": "2026-01-23 00:00:37",
-      "album": {
-        "name": "Anti/Thesis: Vol. 2",
-        "url": "https://open.spotify.com/album/0iKWqO5peRjlQJestaZ6pH"
-      },
-      "artists": [
-        {
-          "name": "High Contrast",
-          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
-        }
-      ],
-      "duration_ms": 233083,
-      "name": "Grindhouse",
-      "url": "https://open.spotify.com/track/0iFqHuKiFoQAD6IpQGcXaG"
-    },
-    {
-      "added_at": "2026-01-23 00:00:37",
-      "album": {
         "name": "Ring Doorbell",
         "url": "https://open.spotify.com/album/0FRunFsZtqZ4TPely2oAWI"
       },
@@ -843,6 +787,62 @@
       "duration_ms": 141257,
       "name": "Ring Doorbell",
       "url": "https://open.spotify.com/track/0wu99QsiUQoR9coj3qY8Pa"
+    },
+    {
+      "added_at": "2026-01-23 00:00:37",
+      "album": {
+        "name": "Interstellar",
+        "url": "https://open.spotify.com/album/6c2lgEoa6569HdwpGghy5C"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        },
+        {
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/6ElhC5DxYjhCzhjtrn3GUU"
+    },
+    {
+      "added_at": "2026-01-23 00:00:37",
+      "album": {
+        "name": "Anti/Thesis: Vol. 2",
+        "url": "https://open.spotify.com/album/0iKWqO5peRjlQJestaZ6pH"
+      },
+      "artists": [
+        {
+          "name": "High Contrast",
+          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+        }
+      ],
+      "duration_ms": 233083,
+      "name": "Grindhouse",
+      "url": "https://open.spotify.com/track/0iFqHuKiFoQAD6IpQGcXaG"
+    },
+    {
+      "added_at": "2026-01-23 00:00:37",
+      "album": {
+        "name": "Rowdy (BLAOW!)",
+        "url": "https://open.spotify.com/album/6KSL4epV7UWnFKryvdPk3i"
+      },
+      "artists": [
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "Eksman",
+          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
+        }
+      ],
+      "duration_ms": 143610,
+      "name": "Rowdy (BLAOW!)",
+      "url": "https://open.spotify.com/track/6Gkum3tDLFXTAUktaV6yh6"
     },
     {
       "added_at": "2026-01-23 00:00:37",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
-        "name": "Bear Trap",
-        "url": "https://open.spotify.com/album/3KT9XMUbKyJGOWkndLK6wI"
+        "name": "Machine Learning",
+        "url": "https://open.spotify.com/album/0vzOqWspRmC3J9ofLmvVh1"
       },
       "artists": [
         {
-          "name": "Casey Club",
-          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+          "name": "Document One",
+          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
         }
       ],
-      "duration_ms": 165214,
-      "name": "Bear Trap",
-      "url": "https://open.spotify.com/track/7Jt5Vr2l0IhEkI11SkRglU"
+      "duration_ms": 275862,
+      "name": "Techno",
+      "url": "https://open.spotify.com/track/1hqcJqPsCqWFxYmwTS6ldS"
     },
     {
       "added_at": "2026-01-23 00:00:37",
@@ -1119,6 +1119,22 @@
       "duration_ms": 206774,
       "name": "Scream My Name",
       "url": "https://open.spotify.com/track/2aXOl9fXqnWrmAFDwWVZl7"
+    },
+    {
+      "added_at": "2026-01-23 00:00:37",
+      "album": {
+        "name": "Bear Trap",
+        "url": "https://open.spotify.com/album/3KT9XMUbKyJGOWkndLK6wI"
+      },
+      "artists": [
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        }
+      ],
+      "duration_ms": 165214,
+      "name": "Bear Trap",
+      "url": "https://open.spotify.com/track/7Jt5Vr2l0IhEkI11SkRglU"
     },
     {
       "added_at": "2026-01-23 00:00:37",
@@ -1171,22 +1187,6 @@
       "duration_ms": 198857,
       "name": "The Otherside",
       "url": "https://open.spotify.com/track/3Kp5R1DBY7aGcErCzHFwBR"
-    },
-    {
-      "added_at": "2026-01-23 00:00:37",
-      "album": {
-        "name": "Machine Learning",
-        "url": "https://open.spotify.com/album/0vzOqWspRmC3J9ofLmvVh1"
-      },
-      "artists": [
-        {
-          "name": "Document One",
-          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
-        }
-      ],
-      "duration_ms": 275862,
-      "name": "Techno",
-      "url": "https://open.spotify.com/track/1hqcJqPsCqWFxYmwTS6ldS"
     },
     {
       "added_at": "2026-01-23 00:00:37",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
+        "name": "Barbera 2026",
+        "url": "https://open.spotify.com/album/22Nd35GHcvvu4zWZ4Q6WeV"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        }
+      ],
+      "duration_ms": 243921,
+      "name": "Barbera 2026",
+      "url": "https://open.spotify.com/track/0LXHCv8laItpmx7O4jXofp"
+    },
+    {
+      "added_at": "2026-01-23 00:00:37",
+      "album": {
         "name": "Rockstar Bass",
         "url": "https://open.spotify.com/album/2PEU5vtNeeFsMPfku7lY4T"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 206896,
       "name": "Rockstar Bass",
       "url": "https://open.spotify.com/track/2zivCVM48VJ0zT7Vbtn1Ga"
-    },
-    {
-      "added_at": "2026-01-23 00:00:37",
-      "album": {
-        "name": "Barbera 2026",
-        "url": "https://open.spotify.com/album/22Nd35GHcvvu4zWZ4Q6WeV"
-      },
-      "artists": [
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
-        }
-      ],
-      "duration_ms": 243921,
-      "name": "Barbera 2026",
-      "url": "https://open.spotify.com/track/0LXHCv8laItpmx7O4jXofp"
     },
     {
       "added_at": "2026-01-23 00:00:37",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
+        "name": "Spag Bol",
+        "url": "https://open.spotify.com/album/7GND0rJAJpornHCMt0icnq"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        }
+      ],
+      "duration_ms": 202281,
+      "name": "Love Me Right",
+      "url": "https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp"
+    },
+    {
+      "added_at": "2026-01-23 00:00:37",
+      "album": {
         "name": "Yard Shop",
         "url": "https://open.spotify.com/album/36O3fPVMKVkIYiKHqIKUws"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 157714,
       "name": "Yard Shop",
       "url": "https://open.spotify.com/track/0ai7uDNBi9xPEtu64T8EmF"
-    },
-    {
-      "added_at": "2026-01-23 00:00:37",
-      "album": {
-        "name": "Spag Bol",
-        "url": "https://open.spotify.com/album/7GND0rJAJpornHCMt0icnq"
-      },
-      "artists": [
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
-        }
-      ],
-      "duration_ms": 202281,
-      "name": "Love Me Right",
-      "url": "https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp"
     },
     {
       "added_at": "2026-01-23 00:00:37",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
-        "name": "RUN",
-        "url": "https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN"
-      },
-      "artists": [
-        {
-          "name": "\u00c6ON:MODE",
-          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
-        }
-      ],
-      "duration_ms": 180689,
-      "name": "RUN",
-      "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
-    },
-    {
-      "added_at": "2026-01-23 00:00:37",
-      "album": {
         "name": "Satan's Alley",
         "url": "https://open.spotify.com/album/12GOuAO4h3wsOrHHOwCPFs"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 244114,
       "name": "Satan's Alley",
       "url": "https://open.spotify.com/track/0hMFRwnaH2l3vAPfwp0m8h"
+    },
+    {
+      "added_at": "2026-01-23 00:00:37",
+      "album": {
+        "name": "RUN",
+        "url": "https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN"
+      },
+      "artists": [
+        {
+          "name": "\u00c6ON:MODE",
+          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
+        }
+      ],
+      "duration_ms": 180689,
+      "name": "RUN",
+      "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
     },
     {
       "added_at": "2026-01-23 00:00:37",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
+        "name": "Blindspot / Impact Response",
+        "url": "https://open.spotify.com/album/6HaImXzg6TPyW18gbhF5KB"
+      },
+      "artists": [
+        {
+          "name": "Formula",
+          "url": "https://open.spotify.com/artist/6GkcKgyIKaZxmZGcKdJDxL"
+        }
+      ],
+      "duration_ms": 200344,
+      "name": "Blindspot",
+      "url": "https://open.spotify.com/track/2oiGdzswferiaVunkD2C62"
+    },
+    {
+      "added_at": "2026-01-23 00:00:37",
+      "album": {
         "name": "Sell My Soul (VIP)",
         "url": "https://open.spotify.com/album/0i1uC1hcfO2iAZELFriz5N"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 176571,
       "name": "Sell My Soul - VIP",
       "url": "https://open.spotify.com/track/4KrFmNJ0QThBfcsda3HOnx"
-    },
-    {
-      "added_at": "2026-01-23 00:00:37",
-      "album": {
-        "name": "Blindspot / Impact Response",
-        "url": "https://open.spotify.com/album/6HaImXzg6TPyW18gbhF5KB"
-      },
-      "artists": [
-        {
-          "name": "Formula",
-          "url": "https://open.spotify.com/artist/6GkcKgyIKaZxmZGcKdJDxL"
-        }
-      ],
-      "duration_ms": 200344,
-      "name": "Blindspot",
-      "url": "https://open.spotify.com/track/2oiGdzswferiaVunkD2C62"
     },
     {
       "added_at": "2026-01-23 00:00:37",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
-        "name": "Gangsta Boppage / The Reactor",
-        "url": "https://open.spotify.com/album/6FI8hMqqPHQMGroALJ7FQ6"
-      },
-      "artists": [
-        {
-          "name": "Rendah",
-          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
-        }
-      ],
-      "duration_ms": 242758,
-      "name": "Gangsta Boppage",
-      "url": "https://open.spotify.com/track/4RHzRYAD4s9kZcGukQWIJ7"
-    },
-    {
-      "added_at": "2026-01-23 00:00:37",
-      "album": {
         "name": "Baby Daddy",
         "url": "https://open.spotify.com/album/6Nuc91gIYUyty9zuVTpNp8"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 222171,
       "name": "Baby Daddy",
       "url": "https://open.spotify.com/track/4WjK1YrQIMoZqaBeeBQ1gY"
+    },
+    {
+      "added_at": "2026-01-23 00:00:37",
+      "album": {
+        "name": "Gangsta Boppage / The Reactor",
+        "url": "https://open.spotify.com/album/6FI8hMqqPHQMGroALJ7FQ6"
+      },
+      "artists": [
+        {
+          "name": "Rendah",
+          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
+        }
+      ],
+      "duration_ms": 242758,
+      "name": "Gangsta Boppage",
+      "url": "https://open.spotify.com/track/4RHzRYAD4s9kZcGukQWIJ7"
     },
     {
       "added_at": "2026-01-23 00:00:37",

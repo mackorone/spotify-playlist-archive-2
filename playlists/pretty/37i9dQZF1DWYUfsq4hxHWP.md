@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 ### [Fresh Finds Country](https://open.spotify.com/playlist/37i9dQZF1DWYUfsq4hxHWP)
 
-> Fresh country music by independent artists every Wednesday\. Cover: Colton Bowlin, Artwork: Fanélie Muselier
+> Fresh country music by independent artists every Wednesday\. Cover: Brooke Lee, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,339 likes - 66 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,370 likes - 66 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 65 | [Sounds Like You](https://open.spotify.com/track/2YKPF5bYavtl4dIrIIPYIx) | [Myles Erlick](https://open.spotify.com/artist/66j659Hro81qoa1vgG75Ae) | [Sounds Like You](https://open.spotify.com/album/1pRcKK7GLKMCNyjdEnp5VD) | 3:02 |
 | 66 | [Hey Radio](https://open.spotify.com/track/4F4i2GymZHHpmZk5MrSQqK) | [Lathan Bryant](https://open.spotify.com/artist/19kwPHar3aRaydbCozFr5d) | [Hey Radio](https://open.spotify.com/album/13JSnbBqwI3pBQ4G9tf4xX) | 3:39 |
 
-Snapshot ID: `AAAAABF8xVnZwsiZpSOm9Vl8xr3NRajU`
+Snapshot ID: `AAAAAN4KNUrTXK+s+gBI8/nGhq8X0mni`

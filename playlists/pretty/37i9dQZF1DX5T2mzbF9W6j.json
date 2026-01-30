@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112192,
+  "num_followers": 112207,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-01-23 16:41:38",
       "album": {
-        "name": "s\u0142owa na K",
-        "url": "https://open.spotify.com/album/4OpCie3wmUKVD0zL5ScA9D"
-      },
-      "artists": [
-        {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
-        }
-      ],
-      "duration_ms": 157528,
-      "name": "s\u0142owa na K",
-      "url": "https://open.spotify.com/track/62gdD6TgAKbZI2ARFrZf0K"
-    },
-    {
-      "added_at": "2026-01-23 16:41:38",
-      "album": {
         "name": "W to mi graj",
         "url": "https://open.spotify.com/album/24fRidH4T3GIwjfFiS6VEc"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 189520,
       "name": "W to mi graj",
       "url": "https://open.spotify.com/track/3s2tBiOaWfZnd97WEoL7ID"
+    },
+    {
+      "added_at": "2026-01-23 16:41:38",
+      "album": {
+        "name": "s\u0142owa na K",
+        "url": "https://open.spotify.com/album/4OpCie3wmUKVD0zL5ScA9D"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        }
+      ],
+      "duration_ms": 157528,
+      "name": "s\u0142owa na K",
+      "url": "https://open.spotify.com/track/62gdD6TgAKbZI2ARFrZf0K"
     },
     {
       "added_at": "2026-01-23 16:41:38",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-01-23 16:41:38",
       "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm"
-    },
-    {
-      "added_at": "2026-01-23 16:41:38",
-      "album": {
         "name": "Angels' Share",
         "url": "https://open.spotify.com/album/2iTs57ox6KJn1IjuH3IMWl"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 160909,
       "name": "Angels' Share",
       "url": "https://open.spotify.com/track/1UNVWbwbIEnxElW8b0PTFL"
+    },
+    {
+      "added_at": "2026-01-23 16:41:38",
+      "album": {
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm"
     },
     {
       "added_at": "2026-01-23 16:41:38",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-01-23 16:41:38",
       "album": {
-        "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
-        "url": "https://open.spotify.com/album/6lLQXfC2VHLdrEbAdn1m4m"
-      },
-      "artists": [
-        {
-          "name": "Roxie",
-          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
-        }
-      ],
-      "duration_ms": 157272,
-      "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
-      "url": "https://open.spotify.com/track/0XY68QmJAUqzRCIHS5xEEp"
-    },
-    {
-      "added_at": "2026-01-23 16:41:38",
-      "album": {
         "name": "P\u00f3ki Mam Ciebie",
         "url": "https://open.spotify.com/album/6Vf7UxIJeTLSFazrwu6TDy"
       },
@@ -843,6 +827,22 @@
     {
       "added_at": "2026-01-23 16:41:38",
       "album": {
+        "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
+        "url": "https://open.spotify.com/album/6lLQXfC2VHLdrEbAdn1m4m"
+      },
+      "artists": [
+        {
+          "name": "Roxie",
+          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
+        }
+      ],
+      "duration_ms": 157272,
+      "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
+      "url": "https://open.spotify.com/track/0XY68QmJAUqzRCIHS5xEEp"
+    },
+    {
+      "added_at": "2026-01-23 16:41:38",
+      "album": {
         "name": "Brightest Light",
         "url": "https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h"
       },
@@ -855,26 +855,6 @@
       "duration_ms": 180691,
       "name": "Brightest Light",
       "url": "https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp"
-    },
-    {
-      "added_at": "2026-01-23 16:41:38",
-      "album": {
-        "name": "Hot!",
-        "url": "https://open.spotify.com/album/45LEesLYqM29tkihh8Yyr0"
-      },
-      "artists": [
-        {
-          "name": "Chloe Parch\u00e9",
-          "url": "https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov"
-        },
-        {
-          "name": "Holly Hebe",
-          "url": "https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t"
-        }
-      ],
-      "duration_ms": 165230,
-      "name": "Hot!",
-      "url": "https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh"
     },
     {
       "added_at": "2026-01-23 16:41:38",
@@ -903,6 +883,26 @@
       "duration_ms": 181565,
       "name": "SEN",
       "url": "https://open.spotify.com/track/1Gc4ROFZUlEupmjMGKLSe2"
+    },
+    {
+      "added_at": "2026-01-23 16:41:38",
+      "album": {
+        "name": "Hot!",
+        "url": "https://open.spotify.com/album/45LEesLYqM29tkihh8Yyr0"
+      },
+      "artists": [
+        {
+          "name": "Chloe Parch\u00e9",
+          "url": "https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov"
+        },
+        {
+          "name": "Holly Hebe",
+          "url": "https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t"
+        }
+      ],
+      "duration_ms": 165230,
+      "name": "Hot!",
+      "url": "https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh"
     },
     {
       "added_at": "2026-01-23 16:41:38",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-01-23 16:41:38",
       "album": {
+        "name": "PRZEPRASZAM",
+        "url": "https://open.spotify.com/album/2tWlDdSh6N81GJxhJVPPVj"
+      },
+      "artists": [
+        {
+          "name": "Paula Biskup",
+          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
+        }
+      ],
+      "duration_ms": 157974,
+      "name": "PRZEPRASZAM",
+      "url": "https://open.spotify.com/track/4SjKuoNNQY5KDX63ryLNPF"
+    },
+    {
+      "added_at": "2026-01-23 16:41:38",
+      "album": {
         "name": "Rzeka",
         "url": "https://open.spotify.com/album/2Qt3FgzD4N0WeQJquEwXFh"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 180240,
       "name": "Rzeka",
       "url": "https://open.spotify.com/track/3tjABLsXoFCxoGmj2O6L6S"
-    },
-    {
-      "added_at": "2026-01-23 16:41:38",
-      "album": {
-        "name": "PRZEPRASZAM",
-        "url": "https://open.spotify.com/album/2tWlDdSh6N81GJxhJVPPVj"
-      },
-      "artists": [
-        {
-          "name": "Paula Biskup",
-          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
-        }
-      ],
-      "duration_ms": 157974,
-      "name": "PRZEPRASZAM",
-      "url": "https://open.spotify.com/track/4SjKuoNNQY5KDX63ryLNPF"
     },
     {
       "added_at": "2026-01-23 16:41:38",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2026-01-23 16:41:38",
       "album": {
-        "name": "Los",
-        "url": "https://open.spotify.com/album/5AypQAAZv3ryCsQkMqZzHj"
+        "name": "Co za lot",
+        "url": "https://open.spotify.com/album/0h1U2EolnXwh547tdukGEY"
       },
       "artists": [
         {
-          "name": "Bletka",
-          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
+          "name": "Sarsa",
+          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
         }
       ],
-      "duration_ms": 164571,
-      "name": "Los",
-      "url": "https://open.spotify.com/track/2ZrDmDRxMJZkJ4JZbqvstj"
+      "duration_ms": 198979,
+      "name": "Co za lot",
+      "url": "https://open.spotify.com/track/0hBRQSpUXTfzbw0SA9MuGp"
     }
   ],
   "unique_name": "... ale najpierw kawa",

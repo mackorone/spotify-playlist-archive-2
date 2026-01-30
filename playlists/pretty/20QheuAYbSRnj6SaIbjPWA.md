@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 
 > 2021
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 159 songs - 10 hr 53 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 160 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,5 +167,6 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 | 157 | [Moon](https://open.spotify.com/track/2dsv4VZ2o2B0afYF9Xcbma) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 4:53 |
 | 158 | [Cloudberries](https://open.spotify.com/track/49OVbpVO7BP2j2UbtsvAk5) | [Super Furry Animals](https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ) | [Love Kraft](https://open.spotify.com/album/7tzkUmG3eRbwrQOZFVgmkZ) | 5:04 |
 | 159 | [Bullet Proof ..\. I Wish I Was](https://open.spotify.com/track/5XuU9htN358NTMCcqRvfDV) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 3:28 |
+| 160 | [The Suburbs](https://open.spotify.com/track/5iItYl3Q6wCnKVfpK1uNVf) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs \(Deluxe\)](https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F) | 5:15 |
 
-Snapshot ID: `AAABHJXfI0QT2FVmkWHyQ/b7Ka0e9koD`
+Snapshot ID: `AAABHQMpbdrogCsXH9imfNX8ST0Seo6E`

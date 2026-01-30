@@ -6087,6 +6087,28 @@
     },
     {
       "album": {
+        "name": "FORGIVE ME",
+        "url": "https://open.spotify.com/album/2d27e1hRsz0eZN4qXlgVty"
+      },
+      "artists": [
+        {
+          "name": "Ibradosky",
+          "url": "https://open.spotify.com/artist/3LnuoQXJhCzLPeOB1ufA2Y"
+        },
+        {
+          "name": "Lil Frosh",
+          "url": "https://open.spotify.com/artist/6637eWPPoj6GB8HLaT8Ett"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129827,
+      "name": "FORGIVE ME",
+      "url": "https://open.spotify.com/track/2t3i8xFxAI3BstpaeVD8Pz"
+    },
+    {
+      "album": {
         "name": "France Feeling",
         "url": "https://open.spotify.com/album/47fgj8CFJdyZiaPgUqpmcG"
       },
@@ -14387,6 +14409,24 @@
     },
     {
       "album": {
+        "name": "Ride Solo",
+        "url": "https://open.spotify.com/album/5DYNIzeEqVdzYl0w23wvfo"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Ride Solo",
+      "url": "https://open.spotify.com/track/12ncJUshM46lUN0DS7kDEk"
+    },
+    {
+      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K"
       },
@@ -14538,7 +14578,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 148909,
       "name": "Rugged 2.0 (with Olivetheboy)",
       "url": "https://open.spotify.com/track/5Tw21JAJVcNkpMtQd8cB5r"

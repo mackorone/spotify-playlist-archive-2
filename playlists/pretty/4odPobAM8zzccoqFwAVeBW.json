@@ -6,8 +6,136 @@
     "name": "Cargo Independent Distribution",
     "url": "https://open.spotify.com/user/cargorecords"
   },
-  "snapshot_id": "AABKPynsHczVJMBTNE7Sy80bozoXI4dg",
+  "snapshot_id": "AABKTKLpclXmbg73XaJRlgXvqFG3/gD9",
   "tracks": [
+    {
+      "added_at": "2026-01-29 14:08:01",
+      "album": {
+        "name": "Absolute Cinema",
+        "url": "https://open.spotify.com/album/1MHDJE7aof5KkBdgl4xivH"
+      },
+      "artists": [
+        {
+          "name": "The Pale White",
+          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
+        }
+      ],
+      "duration_ms": 240032,
+      "name": "Absolute Cinema",
+      "url": "https://open.spotify.com/track/6SqXC79ndcr17Lrq8LNcKu"
+    },
+    {
+      "added_at": "2026-01-29 14:06:06",
+      "album": {
+        "name": "Icarus",
+        "url": "https://open.spotify.com/album/4luHBca9SclaZdrRpPlAFw"
+      },
+      "artists": [
+        {
+          "name": "Croatian Amor",
+          "url": "https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig"
+        },
+        {
+          "name": "Frederik Valentin",
+          "url": "https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y"
+        },
+        {
+          "name": "Scandinavian Star",
+          "url": "https://open.spotify.com/artist/0IHVd7aU0SzB7t0HDiCWsp"
+        },
+        {
+          "name": "JEURU",
+          "url": "https://open.spotify.com/artist/60o3gpHTPIXhyelk1W7SCq"
+        },
+        {
+          "name": "3NDLESS",
+          "url": "https://open.spotify.com/artist/75ElKTu3tktOalesDar99k"
+        }
+      ],
+      "duration_ms": 256799,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/13fCn5T4Mk4FQiWP3sk9pq"
+    },
+    {
+      "added_at": "2026-01-29 14:06:27",
+      "album": {
+        "name": "ADDICTIONZ",
+        "url": "https://open.spotify.com/album/6XeRpiRG8QkG9lIKHZFhsr"
+      },
+      "artists": [
+        {
+          "name": "Proc Fiskal",
+          "url": "https://open.spotify.com/artist/1eFFmUlWRIvt26lnUzdduk"
+        }
+      ],
+      "duration_ms": 195493,
+      "name": "ADDICTIONZ",
+      "url": "https://open.spotify.com/track/7nwWeA2XZwvS8WZWy3nWfs"
+    },
+    {
+      "added_at": "2026-01-29 14:08:39",
+      "album": {
+        "name": "Clock",
+        "url": "https://open.spotify.com/album/08GosOlUjjWCF6y6An0ag6"
+      },
+      "artists": [
+        {
+          "name": "Hey Colossus",
+          "url": "https://open.spotify.com/artist/57K9jRE3x9FqcPAnZmdukA"
+        }
+      ],
+      "duration_ms": 220226,
+      "name": "Clock",
+      "url": "https://open.spotify.com/track/1Y9KD16Ht7CtP8vuif5AnJ"
+    },
+    {
+      "added_at": "2026-01-29 14:05:54",
+      "album": {
+        "name": "Day Dream",
+        "url": "https://open.spotify.com/album/0sU2HwbmFRctfz5Rt73niY"
+      },
+      "artists": [
+        {
+          "name": "Railcard",
+          "url": "https://open.spotify.com/artist/1h7YejqHI5OfMCS6fcRbEr"
+        }
+      ],
+      "duration_ms": 113012,
+      "name": "Day Dream",
+      "url": "https://open.spotify.com/track/5OtUgf4r3BwVKV2jnAABSh"
+    },
+    {
+      "added_at": "2026-01-29 14:08:26",
+      "album": {
+        "name": "The Crack",
+        "url": "https://open.spotify.com/album/7gGhyxCHN7N7s4AXvv3Z59"
+      },
+      "artists": [
+        {
+          "name": "En Heat",
+          "url": "https://open.spotify.com/artist/0UWV7OGIWruKceWZL7Yoeh"
+        }
+      ],
+      "duration_ms": 226346,
+      "name": "The Crack",
+      "url": "https://open.spotify.com/track/0BupteaTKHJ6ndoaqTmvPV"
+    },
+    {
+      "added_at": "2026-01-29 14:09:17",
+      "album": {
+        "name": "Nocturnal Visions",
+        "url": "https://open.spotify.com/album/4Rp7sSeJyAvoqPLtxFixFY"
+      },
+      "artists": [
+        {
+          "name": "INVICTUS",
+          "url": "https://open.spotify.com/artist/44nPUL0BgSd21WaEVjA80Z"
+        }
+      ],
+      "duration_ms": 229516,
+      "name": "Altar of Devoted Slaughter",
+      "url": "https://open.spotify.com/track/0Q8sBj5fwuMETxeGMuy4wT"
+    },
     {
       "added_at": "2026-01-23 11:01:47",
       "album": {

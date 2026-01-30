@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Siddy in cover della playlist dell'R&B italiano \ud83e\udec0",
+  "description": "Colibree in cover della playlist dell'R&B italiano \ud83e\udec0",
   "name": "anima R&B",
   "tracks": [
     {
@@ -1475,6 +1475,28 @@
     },
     {
       "album": {
+        "name": "atlantico (feat. Angela Iris)",
+        "url": "https://open.spotify.com/album/2BCLtYHa4Od5FSeDjyfKTV"
+      },
+      "artists": [
+        {
+          "name": "sara j jones",
+          "url": "https://open.spotify.com/artist/7I3cZK2UEuNOwZAHov9z9o"
+        },
+        {
+          "name": "Angela Iris",
+          "url": "https://open.spotify.com/artist/7o1XRDbnk24xbZOvVNbn1C"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179223,
+      "name": "atlantico (feat. Angela Iris)",
+      "url": "https://open.spotify.com/track/39CueRcmhGHaQGVDQ6LWgd"
+    },
+    {
+      "album": {
         "name": "Pixel",
         "url": "https://open.spotify.com/album/2GilGjaRAmsF7MptmRnFQT"
       },
@@ -1911,6 +1933,24 @@
     },
     {
       "album": {
+        "name": "bene",
+        "url": "https://open.spotify.com/album/6a4bqVmqDvsoR5Jpppob0K"
+      },
+      "artists": [
+        {
+          "name": "Simonebob",
+          "url": "https://open.spotify.com/artist/16XCA3YApHDTmIwncXc7QR"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168624,
+      "name": "bene",
+      "url": "https://open.spotify.com/track/6N30UQTzb21kUpmZhQnb5i"
+    },
+    {
+      "album": {
         "name": "Beverly Hills",
         "url": "https://open.spotify.com/album/0WJfkFS9vX47nMgy8JyePF"
       },
@@ -2216,6 +2256,28 @@
       "duration_ms": 284615,
       "name": "Brave",
       "url": "https://open.spotify.com/track/5Or5fUArNnHP0SvpPkTuLq"
+    },
+    {
+      "album": {
+        "name": "PERLA MISERIA",
+        "url": "https://open.spotify.com/album/0vLqlUMqTbe4ZMoh72orqG"
+      },
+      "artists": [
+        {
+          "name": "Colibree",
+          "url": "https://open.spotify.com/artist/7s961XmA8A69tQ3UQRD6sk"
+        },
+        {
+          "name": "Acqua Distillata",
+          "url": "https://open.spotify.com/artist/5qPCNyvxjgOXZMHrCbZIBF"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178374,
+      "name": "Bravi A Lasciarsi",
+      "url": "https://open.spotify.com/track/5uB9Nm1nWyN31ZiK0qpYST"
     },
     {
       "album": {
@@ -5291,6 +5353,28 @@
     },
     {
       "album": {
+        "name": "drink",
+        "url": "https://open.spotify.com/album/3vIPhYnJORI8oUupZsLJY8"
+      },
+      "artists": [
+        {
+          "name": "Zeffery",
+          "url": "https://open.spotify.com/artist/2MuPdSoeiMO0xBdAfLRMON"
+        },
+        {
+          "name": "GG",
+          "url": "https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163117,
+      "name": "drink",
+      "url": "https://open.spotify.com/track/2UHzbaxabNew9CNtSgO9rH"
+    },
+    {
+      "album": {
         "name": "Due Rami",
         "url": "https://open.spotify.com/album/4RhgVVNN6btmK0fho6cCwH"
       },
@@ -7382,7 +7466,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 173776,
       "name": "Idee Nuove",
       "url": "https://open.spotify.com/track/59xOU3UsquVrlJacUrNRlM"
@@ -8081,6 +8165,24 @@
     },
     {
       "album": {
+        "name": "SWEET REVENGE",
+        "url": "https://open.spotify.com/album/21Qrp4193ha1bmvHuY5V7E"
+      },
+      "artists": [
+        {
+          "name": "LEEA CLEM",
+          "url": "https://open.spotify.com/artist/2z5aPhwBBRV9KRicppnLdX"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176907,
+      "name": "kintsugi",
+      "url": "https://open.spotify.com/track/57Gq2CnjEFDobbDJIaKzpI"
+    },
+    {
+      "album": {
         "name": "KO",
         "url": "https://open.spotify.com/album/03vAIlmw5AfC44mJFK87oX"
       },
@@ -8274,6 +8376,24 @@
       "duration_ms": 208285,
       "name": "L'Italia e la Corsica",
       "url": "https://open.spotify.com/track/2KYs0wAMyb5uauCgkU6Ext"
+    },
+    {
+      "album": {
+        "name": "CameraSolo",
+        "url": "https://open.spotify.com/album/1wTxsXz7PGn0UajNn6dwZf"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Lovino",
+          "url": "https://open.spotify.com/artist/6YcRCvtfyElw2uqS5MWloX"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "L'odore della pioggia",
+      "url": "https://open.spotify.com/track/4LhHRIWSbaw8AOA2mcc4qO"
     },
     {
       "album": {
@@ -9994,7 +10114,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 156000,
       "name": "MARONNA",
       "url": "https://open.spotify.com/track/2ITtOrqUTkg8B5Q322ukyc"
@@ -11492,6 +11612,28 @@
       "duration_ms": 170400,
       "name": "non me ne frega un ca",
       "url": "https://open.spotify.com/track/4kMROmt7ObJhRNeSyMj7w7"
+    },
+    {
+      "album": {
+        "name": "Non mi lasciare sparire",
+        "url": "https://open.spotify.com/album/5cserCcJQjHyTLj7D2tP1H"
+      },
+      "artists": [
+        {
+          "name": "Penna",
+          "url": "https://open.spotify.com/artist/2FvucZxXGPcXC6SKP2sI3e"
+        },
+        {
+          "name": "TONIK",
+          "url": "https://open.spotify.com/artist/1K0dcTFdZp2HqJGFzfqOoM"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Non mi lasciare sparire",
+      "url": "https://open.spotify.com/track/1mNRe5f9lWvS3FJnVvS2dA"
     },
     {
       "album": {
@@ -13418,7 +13560,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 148571,
       "name": "Player (feat. Joshua & Silent Bob)",
       "url": "https://open.spotify.com/track/2tXuKyeDQuCqZsOn5LQEsm"
@@ -16043,6 +16185,24 @@
     },
     {
       "album": {
+        "name": "Sopra Di Me",
+        "url": "https://open.spotify.com/album/1eufNHZxhdQ8xXNf4Kxpyr"
+      },
+      "artists": [
+        {
+          "name": "sadbrodino",
+          "url": "https://open.spotify.com/artist/59X6ZWuzBRU0aaqXLIQkCi"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155641,
+      "name": "Sopra Di Me",
+      "url": "https://open.spotify.com/track/4lIFOXijmsFNmw7XdNStii"
+    },
+    {
+      "album": {
         "name": "Sopra Una Mustang",
         "url": "https://open.spotify.com/album/5wxfnoMv5IXgkhclKcGwFI"
       },
@@ -18562,6 +18722,24 @@
       "duration_ms": 157277,
       "name": "Vienna",
       "url": "https://open.spotify.com/track/53KrUxwMNVHjLILF1jyAfn"
+    },
+    {
+      "album": {
+        "name": "Viscerale",
+        "url": "https://open.spotify.com/album/6eDj7PupaEEoc80wLAYT2n"
+      },
+      "artists": [
+        {
+          "name": "Mocci",
+          "url": "https://open.spotify.com/artist/2k3kU5QX62dpTrIUaTQPBe"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Viscerale",
+      "url": "https://open.spotify.com/track/2W8IV5LaY3DiCTAUiDi7Ok"
     },
     {
       "album": {

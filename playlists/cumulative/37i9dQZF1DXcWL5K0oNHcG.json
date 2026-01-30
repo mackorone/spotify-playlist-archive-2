@@ -19527,6 +19527,24 @@
     },
     {
       "album": {
+        "name": "NOTHING PERSONAL",
+        "url": "https://open.spotify.com/album/6DBrIXUPClL1Mi1vK0rQyP"
+      },
+      "artists": [
+        {
+          "name": "Blair / Huber",
+          "url": "https://open.spotify.com/artist/4RQXCkNl0i4AJVjYlvtcMp"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237383,
+      "name": "NOTHING PERSONAL",
+      "url": "https://open.spotify.com/track/3WMQUy8epd786TQbAjUE0k"
+    },
+    {
+      "album": {
         "name": "Nothing's Changed",
         "url": "https://open.spotify.com/album/4jW8tj4GeD08qgifbyLsNB"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 614296,
+  "num_followers": 614287,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -903,26 +903,6 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "And The Story Goes",
-        "url": "https://open.spotify.com/album/24dwnbZy3cgTOi9pYavlv9"
-      },
-      "artists": [
-        {
-          "name": "Petra Marklund",
-          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
-        },
-        {
-          "name": "September",
-          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
-        }
-      ],
-      "duration_ms": 275326,
-      "name": "H\u00e4nderna Mot Himlen - Acoustic",
-      "url": "https://open.spotify.com/track/3dBmqkxFJ9qECnyky9YDp2"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
         "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
         "url": "https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 169213,
       "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
       "url": "https://open.spotify.com/track/12e80YV3Nhkbfymj0SiSz0"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
+        "name": "And The Story Goes",
+        "url": "https://open.spotify.com/album/24dwnbZy3cgTOi9pYavlv9"
+      },
+      "artists": [
+        {
+          "name": "Petra Marklund",
+          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
+        },
+        {
+          "name": "September",
+          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
+        }
+      ],
+      "duration_ms": 275326,
+      "name": "H\u00e4nderna Mot Himlen - Acoustic",
+      "url": "https://open.spotify.com/track/3dBmqkxFJ9qECnyky9YDp2"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
+        "name": "Hard To Be Human",
+        "url": "https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 170414,
+      "name": "Hard To Be Human",
+      "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
         "name": "Mercedes",
         "url": "https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 213882,
       "name": "Samma saga",
       "url": "https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
-        "name": "Hard To Be Human",
-        "url": "https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 170414,
-      "name": "Hard To Be Human",
-      "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "Where Am I?",
-        "url": "https://open.spotify.com/album/5JoRXCu751qGLUiGB56E8X"
-      },
-      "artists": [
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "If You Died Today",
-      "url": "https://open.spotify.com/track/5HvkvFJeLOOEbCfHPatHAh"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
         "name": "Mirror (Deluxe)",
         "url": "https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 175550,
       "name": "Sad Forever",
       "url": "https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
+        "name": "Where Am I?",
+        "url": "https://open.spotify.com/album/5JoRXCu751qGLUiGB56E8X"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "If You Died Today",
+      "url": "https://open.spotify.com/track/5HvkvFJeLOOEbCfHPatHAh"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "okej att d\u00f6 (igen) [isby sessions]",
-        "url": "https://open.spotify.com/album/49z0pbm3qLBInFJ1DiaQeC"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 174021,
-      "name": "okej att d\u00f6 (igen) - isby sessions",
-      "url": "https://open.spotify.com/track/7j8RgbaO0UahKA9NMD3nFU"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
         "name": "Den jag kunde blivit - Den jag blev",
         "url": "https://open.spotify.com/album/7uXYOA68E1WQSfBuVpvGQC"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 177479,
       "name": "Den jag kunde blivit - Den jag blev",
       "url": "https://open.spotify.com/track/3bXeMeJmDSe8ZPGx2FWnH7"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
+        "name": "okej att d\u00f6 (igen) [isby sessions]",
+        "url": "https://open.spotify.com/album/49z0pbm3qLBInFJ1DiaQeC"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 174021,
+      "name": "okej att d\u00f6 (igen) - isby sessions",
+      "url": "https://open.spotify.com/track/7j8RgbaO0UahKA9NMD3nFU"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "Wish (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao"
+        "name": "B\u00f6rja Om",
+        "url": "https://open.spotify.com/album/1lCZ0uYsLyMlV7gdcwQstQ"
       },
       "artists": [
         {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          "name": "Sara Zacharias",
+          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
         }
       ],
-      "duration_ms": 173306,
-      "name": "A Wish Worth Making",
-      "url": "https://open.spotify.com/track/0uan47LDD0HMob7n3UMkZd"
+      "duration_ms": 176809,
+      "name": "B\u00f6rja Om",
+      "url": "https://open.spotify.com/track/1voYsDwEAjE2bwTRuGAl9Y"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
+        "name": "Wish (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 173306,
+      "name": "A Wish Worth Making",
+      "url": "https://open.spotify.com/track/0uan47LDD0HMob7n3UMkZd"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
         "name": "Where the Tragic Happens",
         "url": "https://open.spotify.com/album/5wyVPQL9ZCTrYMpjjjV4Bo"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 173854,
       "name": "We Fall in Love Sometimes",
       "url": "https://open.spotify.com/track/1PVx0wTCogf93dgfIDvn1a"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
-        "name": "B\u00f6rja Om",
-        "url": "https://open.spotify.com/album/1lCZ0uYsLyMlV7gdcwQstQ"
-      },
-      "artists": [
-        {
-          "name": "Sara Zacharias",
-          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
-        }
-      ],
-      "duration_ms": 176809,
-      "name": "B\u00f6rja Om",
-      "url": "https://open.spotify.com/track/1voYsDwEAjE2bwTRuGAl9Y"
     },
     {
       "added_at": "2026-01-09 08:25:05",

@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : NV Vigneshwer Karthik
 
-692 songs - 1 day 15 hr 28 min
+694 songs - 1 day 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [ALZHEIMER](https://open.spotify.com/track/2WDhkon2LhFpUPWvAwqpwL) | [Aravind Karneeswaran](https://open.spotify.com/artist/6WhCmwXKt1znjtpjt9Xcvi), [Nalini Vittobane](https://open.spotify.com/artist/5imil4usnuFDZ320XNEHt3), [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2) | [ALZHEIMER](https://open.spotify.com/album/2hlU5GiGGW3vpJqcwp8FqT) | 2:40 | 2024-10-19 | 2025-01-18 |
 | [AM I LOSER](https://open.spotify.com/track/59x5gdFfYDoYEPB3XCrgSJ) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2), [Roja Adithya](https://open.spotify.com/artist/1sjb96FgxElV2J9AqLW8dt), [Vignesh Ramakrishna](https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu) | [AM I LOSER](https://open.spotify.com/album/34CWQGVnf5rJEb0TdnnhrS) | 2:52 | 2024-08-30 | 2024-10-19 |
 | [Ammadi Azhagula](https://open.spotify.com/track/4uDz10d3vMktL85WVPdY7i) | [Mhoitha Balamurugan](https://open.spotify.com/artist/398i2yC2xKc8oeO366SqIw), [Sadhasiva Jayaraman](https://open.spotify.com/artist/1G2mFV9a0LgISNZXHlJnb0) | [Ammadi Azhagula](https://open.spotify.com/album/1aWkgcbsReXmAfiUn1V6JN) | 4:49 | 2025-01-16 | 2025-02-18 |
+| [Ammayi](https://open.spotify.com/track/6NzFfBtMpsUMNwyw9gtMSt) | [Ajay Sarvess](https://open.spotify.com/artist/55ILZPyaSAP9dQax1HKRRH), [Sheezay](https://open.spotify.com/artist/59ZFcw0jfy0Z4rcF1DXKBF) | [Ammayi](https://open.spotify.com/album/581jfu9nTFV9YwtUWCuEkb) | 2:20 | 2026-01-29 |  |
 | [Anbae \- Beloved](https://open.spotify.com/track/7D5HnQ5AHm7MuZdnFlSZVs) | [Julius Gnanagar](https://open.spotify.com/artist/6mg9ayapkEgFgnjP71yi1V), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Morin Sridion](https://open.spotify.com/artist/7EBlf7e4g9qlddbWXAMvCa) | [Anbae \(Beloved\)](https://open.spotify.com/album/2OR5oGqpfCiCJAyhRmaQuh) | 4:19 | 2023-12-18 | 2024-01-03 |
 | [Anbin Azhagu](https://open.spotify.com/track/72ttQFiuJtopcOxwkiCluA) | [Santhosh Jayakaran](https://open.spotify.com/artist/2HQV0jmSMNENi4PIYhtTFR), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Anbin Azhagu](https://open.spotify.com/album/5CHzLj4xZZ8S44C24MYmoN) | 3:07 | 2025-02-14 | 2025-02-18 |
 | [Andrum Indrum \- From "Think Originals"](https://open.spotify.com/track/0Z8IKa6dtc2z8HpgkWS4X7) | [KENEESHAA](https://open.spotify.com/artist/4zZsaegDxBfhj2UbGqDIDe) | [Andrum Indrum \(From "Think Originals"\)](https://open.spotify.com/album/2qWeOT6XJ78MRjYgr2SdqV) | 2:55 | 2025-06-16 | 2026-01-15 |
@@ -348,6 +349,7 @@
 | [Mendal Aavuren](https://open.spotify.com/track/6Cv7PdZDodqXXc8TOeABXN) | [Madhan K](https://open.spotify.com/artist/3kmFSo3YrNq9fTreEyCf63) | [Mendal Aavuren](https://open.spotify.com/album/4PH9UlYyhHKBHunro0Bf2m) | 3:30 | 2025-06-27 | 2025-09-05 |
 | [Midnight Wifi](https://open.spotify.com/track/3NQfPyQPGL4jQ9LMmPgbB3) | [RHEA](https://open.spotify.com/artist/7eRr4Xdskj6mti7C5QyW5H), [Christil Ash](https://open.spotify.com/artist/72EXgZMzdCOrt5t5NjMmuS) | [Midnight Wifi](https://open.spotify.com/album/3RPuUQ33sTqpQxIfio3Z9c) | 2:16 | 2025-11-14 |  |
 | [Million Streams](https://open.spotify.com/track/2TZGqnPCJ4ltj24hQL78Fx) | [Arun VT](https://open.spotify.com/artist/1CJDeOUBqGYcXK9SFarXLf) | [Million Streams](https://open.spotify.com/album/6hdjXtjR00a2nFVXyWpNx7) | 4:03 | 2024-02-28 | 2024-03-18 |
+| [Minnal](https://open.spotify.com/track/5LTPpvlqykXDlzVRO29BxV) | [Saithis](https://open.spotify.com/artist/2qInyJAMIv4a2cRZ6OWx5L) | [Minnal](https://open.spotify.com/album/3qJ4ILFL0ytogLMSEUIVIa) | 3:02 | 2026-01-29 |  |
 | [Minnal Mugilosai](https://open.spotify.com/track/5lIDmWduOGKEZZm3RpkjOx) | [S.K.Balachandran](https://open.spotify.com/artist/5Sg5NOQHE0eFSKxrVqIT4l), [Abid Anwar](https://open.spotify.com/artist/4HGW8d0cAwj7Ouk3l6wpZI) | [Aaliya](https://open.spotify.com/album/2OhQ5NpYv7boswa6YAskaZ) | 4:08 | 2023-06-01 | 2023-09-02 |
 | [Missu Mela Crushu](https://open.spotify.com/track/6k1PFMZrcLKZsSrAF7j5v8) | [Ashwamithra](https://open.spotify.com/artist/479xIG0ma8GfSy7cKF7bCn), [Jayanthi Ashwamithra](https://open.spotify.com/artist/6WJ3smZTsxmmwZBRz4bxlr), [Siddharth Panneer](https://open.spotify.com/artist/2w2IIUYmrkJnM2c46cX7CB) | [Missu Mela Crushu](https://open.spotify.com/album/6Kz4csxNxwExiGBS5Pg2Jq) | 3:23 | 2025-04-17 | 2025-07-04 |
 | [Mitta Mirasu](https://open.spotify.com/track/6geWnMs5Jo9IXEQpbRNkN9) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw), [Swasthika Swaminathan](https://open.spotify.com/artist/6igchCiRtcOLefFuwY2gLL), [KiAM](https://open.spotify.com/artist/4A2DY9zCCEKzombAIsbhOo) | [Mitta Mirasu](https://open.spotify.com/album/2VUqiXotdXbRw6M7fy1Oql) | 4:00 | 2023-03-21 | 2023-09-26 |

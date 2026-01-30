@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 64740,
+  "num_followers": 64747,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -527,26 +527,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/72BzkLOb7tpcmcpfEvtAox"
-      },
-      "artists": [
-        {
-          "name": "Cuco S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
-        },
-        {
-          "name": "Fernando Zenaido Maldonado",
-          "url": "https://open.spotify.com/artist/6eHRIBeC0Pc4OWz6vOvEGv"
-        }
-      ],
-      "duration_ms": 179511,
-      "name": "Caminos de Ayer - Remastered",
-      "url": "https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Cuenta Conmigo (feat. Oscar Stagnaro)",
         "url": "https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 217840,
       "name": "Deb\u00ed Llorar",
       "url": "https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/72BzkLOb7tpcmcpfEvtAox"
+      },
+      "artists": [
+        {
+          "name": "Cuco S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
+        },
+        {
+          "name": "Fernando Zenaido Maldonado",
+          "url": "https://open.spotify.com/artist/6eHRIBeC0Pc4OWz6vOvEGv"
+        }
+      ],
+      "duration_ms": 179511,
+      "name": "Caminos de Ayer - Remastered",
+      "url": "https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm"
     },
     {
       "added_at": "2022-08-09 18:38:23",
@@ -731,6 +731,26 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Bienvenidos",
+        "url": "https://open.spotify.com/album/0o32WHvVW7dEI8R2VT2K2K"
+      },
+      "artists": [
+        {
+          "name": "Palapa",
+          "url": "https://open.spotify.com/artist/0ToWehUK2VL3ZmdhthaQt0"
+        },
+        {
+          "name": "Francisco Lelo de Larrea",
+          "url": "https://open.spotify.com/artist/5RARQRDOtniHclBKYK0pdP"
+        }
+      ],
+      "duration_ms": 343187,
+      "name": "5:PM",
+      "url": "https://open.spotify.com/track/76Q411FGiMRHoi3NoFhIGf"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Triology",
         "url": "https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS"
       },
@@ -755,26 +775,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Bienvenidos",
-        "url": "https://open.spotify.com/album/0o32WHvVW7dEI8R2VT2K2K"
-      },
-      "artists": [
-        {
-          "name": "Palapa",
-          "url": "https://open.spotify.com/artist/0ToWehUK2VL3ZmdhthaQt0"
-        },
-        {
-          "name": "Francisco Lelo de Larrea",
-          "url": "https://open.spotify.com/artist/5RARQRDOtniHclBKYK0pdP"
-        }
-      ],
-      "duration_ms": 343187,
-      "name": "5:PM",
-      "url": "https://open.spotify.com/track/76Q411FGiMRHoi3NoFhIGf"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Semillas De Copinol",
         "url": "https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2"
       },
@@ -795,18 +795,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Groove Zone",
-        "url": "https://open.spotify.com/album/3mxSuXC1jUOCwNC6BApBQ3"
+        "name": "What's The Rush? (Remastered)",
+        "url": "https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi"
       },
       "artists": [
         {
-          "name": "Pepe Hernandez",
-          "url": "https://open.spotify.com/artist/2pgE2IxsK0mnwef7EnxAhW"
+          "name": "Joe d'Etienne Big Band",
+          "url": "https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M"
         }
       ],
-      "duration_ms": 272771,
-      "name": "Nu Soul",
-      "url": "https://open.spotify.com/track/7ibDUlvqdCL2MJp4UluPm1"
+      "duration_ms": 403946,
+      "name": "Temporary Insanity",
+      "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
     },
     {
       "added_at": "2022-08-16 16:23:25",
@@ -843,18 +843,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "What's The Rush? (Remastered)",
-        "url": "https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi"
+        "name": "Groove Zone",
+        "url": "https://open.spotify.com/album/3mxSuXC1jUOCwNC6BApBQ3"
       },
       "artists": [
         {
-          "name": "Joe d'Etienne Big Band",
-          "url": "https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M"
+          "name": "Pepe Hernandez",
+          "url": "https://open.spotify.com/artist/2pgE2IxsK0mnwef7EnxAhW"
         }
       ],
-      "duration_ms": 403946,
-      "name": "Temporary Insanity",
-      "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
+      "duration_ms": 272771,
+      "name": "Nu Soul",
+      "url": "https://open.spotify.com/track/7ibDUlvqdCL2MJp4UluPm1"
     },
     {
       "added_at": "2024-08-29 03:09:23",

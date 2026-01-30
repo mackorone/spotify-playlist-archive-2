@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-472 songs - 1 day 0 hr 57 min
+473 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [brighter day](https://open.spotify.com/track/59nYXwfY6lyUc9zgY7l03L) | [Ashley Ninelives](https://open.spotify.com/artist/75f7kE3UP14RoDP8tEAPnE) | [cheshire days](https://open.spotify.com/album/1hLHnPf5helwdhFCOgGjSi) | 4:15 | 2024-08-15 |  |
 | [broke.exe](https://open.spotify.com/track/6UwZDT9FztV3QdwlSd5Pdf) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU) | [INTERNET PROTOGEN](https://open.spotify.com/album/71CIaayjmPOL03eRUNVzjw) | 2:00 | 2025-07-03 |  |
 | [broken bottles](https://open.spotify.com/track/3BSoT0FpJcehfxxGZIdxxM) | [TWYLIGHT](https://open.spotify.com/artist/4T0Dnr9Bf9u7Pg8Kd4QtnO) | [broken bottles](https://open.spotify.com/album/5ol4vdyNW2TTu299hJZ1xL) | 4:44 | 2025-01-08 |  |
+| [bunnies](https://open.spotify.com/track/20bGC5TBR7zz3bZQH7QxlI) | [polyana](https://open.spotify.com/artist/79jK2cwnyhEvk0PBwqzrbH), [Pastor's Child](https://open.spotify.com/artist/0c17IXceiF19D9zfy0PCag) | [Pollyanna](https://open.spotify.com/album/2LXR2618aXK3sfnx200Blv) | 3:14 | 2026-01-29 |  |
 | [Burn](https://open.spotify.com/track/3M9zCSQGRBgvLAdmyrkznh) | [Everender](https://open.spotify.com/artist/3YTAFkZ1pX1wi9L9ppSLh6), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Burn](https://open.spotify.com/album/40dj6oGJyFyeeYiklY4dgK) | 3:31 | 2024-07-22 | 2025-10-05 |
 | [But Here I Am](https://open.spotify.com/track/368hTXXzUrlW3uqxBrSbjA) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [Forgive Me Please](https://open.spotify.com/album/1XH0VUiya3bbunW4KiLpo7) | 2:37 | 2026-01-19 |  |
 | [By The Pier](https://open.spotify.com/track/6bVFHWOAFqqOIGPrVv7c4i) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [By The Pier](https://open.spotify.com/album/3N6OGsezzozwTIu3bFGejZ) | 2:05 | 2025-10-19 | 2025-10-21 |

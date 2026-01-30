@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Holy Molly",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: EMAA",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -1717,6 +1717,28 @@
     },
     {
       "album": {
+        "name": "C\u00e2t 10",
+        "url": "https://open.spotify.com/album/5sI70rmjByqezLmv7QWTZR"
+      },
+      "artists": [
+        {
+          "name": "Mario ",
+          "url": "https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF"
+        },
+        {
+          "name": "Theo Rose",
+          "url": "https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161666,
+      "name": "C\u00e2t 10",
+      "url": "https://open.spotify.com/track/3I4JPrVPleRXRSLgBYuCA4"
+    },
+    {
+      "album": {
         "name": "C\u00e2te pietre ai aruncat",
         "url": "https://open.spotify.com/album/6G2axtVpnFP3v4OJNgzpLc"
       },
@@ -2345,6 +2367,24 @@
     },
     {
       "album": {
+        "name": "Dorul T\u0103u",
+        "url": "https://open.spotify.com/album/6C7mcbyGwGq4z98bcJrpDQ"
+      },
+      "artists": [
+        {
+          "name": "MIRA",
+          "url": "https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175813,
+      "name": "Dorul T\u0103u",
+      "url": "https://open.spotify.com/track/1Bd1WLbZlCFA5z7hKMyE0v"
+    },
+    {
+      "album": {
         "name": "Dragoste nou\u0103",
         "url": "https://open.spotify.com/album/5vNFpcjvfKiRrGph2sfUwt"
       },
@@ -2878,6 +2918,32 @@
       "duration_ms": 164502,
       "name": "Fericit",
       "url": "https://open.spotify.com/track/2fJ4vN7zgXLC5aH3KGX6En"
+    },
+    {
+      "album": {
+        "name": "Fiecare Eu",
+        "url": "https://open.spotify.com/album/7cwrPQyFTJnPttFFCW0aBi"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH"
+        },
+        {
+          "name": "Alex Velea",
+          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
+        },
+        {
+          "name": "Connect-R",
+          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Fiecare Eu",
+      "url": "https://open.spotify.com/track/6I5OGMbrKdvfvPAT0KjJDI"
     },
     {
       "album": {
@@ -3760,7 +3826,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 148000,
       "name": "La Izvoare",
       "url": "https://open.spotify.com/track/2KE9MGInTguWtsAcoyOasW"
@@ -4800,6 +4866,24 @@
       "duration_ms": 136849,
       "name": "Noapte Alb\u0103",
       "url": "https://open.spotify.com/track/4Gx9U0S9IDNFgzMrjv6k4n"
+    },
+    {
+      "album": {
+        "name": "Noaptea",
+        "url": "https://open.spotify.com/album/0UmWqIkPaJp3vmURbUY45n"
+      },
+      "artists": [
+        {
+          "name": "EMAA",
+          "url": "https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166487,
+      "name": "Noaptea",
+      "url": "https://open.spotify.com/track/3oXWlk7N7M6pOq2BkMBUZc"
     },
     {
       "album": {
@@ -5856,7 +5940,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 182648,
       "name": "Promit",
       "url": "https://open.spotify.com/track/26Fq1aXqLwms2j59ENy5Hk"
@@ -6250,7 +6334,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 181847,
       "name": "Scrisoare",
       "url": "https://open.spotify.com/track/5fJpiNOHbRpp1vKsxk3Ezs"
@@ -7146,7 +7230,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 150500,
       "name": "Ultimul Cr\u01ceciun",
       "url": "https://open.spotify.com/track/1DNpbuCWchxmsgUXgKHFch"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXgAAAAAAAC00ImKibF/JIsMH00auazo",
+  "snapshot_id": "aXlRgAAAAABeTIZ0di+oQCq9zt8gSw8E",
   "tracks": [
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alphabetical",
-        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "(You Can't Blame It On) Anybody",
-      "url": "https://open.spotify.com/track/1kVa8X5Ifr6XVmn8XvC1iu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Never Been Like That (Deluxe Version)",
         "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 176186,
       "name": "Lost and Found",
       "url": "https://open.spotify.com/track/48vZNUF25E0Q35skL9QoZP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alphabetical",
+        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "(You Can't Blame It On) Anybody",
+      "url": "https://open.spotify.com/track/1kVa8X5Ifr6XVmn8XvC1iu"
     },
     {
       "added_at": null,

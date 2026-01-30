@@ -2090,7 +2090,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 199973,
       "name": "CWWDBI",
       "url": "https://open.spotify.com/track/5Y1PbmoHC3RPrBd4xQlz4Y"
@@ -3808,6 +3808,28 @@
       "duration_ms": 193690,
       "name": "Fine Day Anthem",
       "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
+    },
+    {
+      "album": {
+        "name": "Fire II : Dragon Return",
+        "url": "https://open.spotify.com/album/29bMEOIPpOUQRP6kLI5ZCf"
+      },
+      "artists": [
+        {
+          "name": "Panteros666",
+          "url": "https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt"
+        },
+        {
+          "name": "Ctrl",
+          "url": "https://open.spotify.com/artist/2DKgCTJgSfP3AOoWsfVR67"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178874,
+      "name": "Fire II : Dragon Return",
+      "url": "https://open.spotify.com/track/73GX54INzJBte2PuK23SNR"
     },
     {
       "album": {
@@ -9414,7 +9436,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 146958,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/11ocj2KboECoDJrQJgN0GW"
@@ -10298,6 +10320,24 @@
       "duration_ms": 146080,
       "name": "Space Train",
       "url": "https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB"
+    },
+    {
+      "album": {
+        "name": "Speakers Blowing",
+        "url": "https://open.spotify.com/album/1RmuOXWU4VmyJYFvHS9nSN"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221012,
+      "name": "Speakers Blowing",
+      "url": "https://open.spotify.com/track/2qVqEzl038sc3Br5pp9b8K"
     },
     {
       "album": {

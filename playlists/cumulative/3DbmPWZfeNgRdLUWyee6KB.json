@@ -1389,6 +1389,24 @@
     },
     {
       "album": {
+        "name": "Bright As The Stars",
+        "url": "https://open.spotify.com/album/6Mx8feGql3vMv1cPzdWPHH"
+      },
+      "artists": [
+        {
+          "name": "Kathi Fran",
+          "url": "https://open.spotify.com/artist/10QZVs0DFiNYbYrkKEE385"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198541,
+      "name": "Bright As The Stars",
+      "url": "https://open.spotify.com/track/5vZMfAHNm6MeaomaddB4Fq"
+    },
+    {
+      "album": {
         "name": "Bright Lights of Gaza",
         "url": "https://open.spotify.com/album/330q4uPmolaxV7TIAlpmmh"
       },
@@ -5634,6 +5652,24 @@
       "duration_ms": 172668,
       "name": "Mental Check",
       "url": "https://open.spotify.com/track/2U7NtTYY6Cb0C06jJ4ibuS"
+    },
+    {
+      "album": {
+        "name": "Que la luna me desarme",
+        "url": "https://open.spotify.com/album/4npBuLFIMtPnj5EFaa2zBN"
+      },
+      "artists": [
+        {
+          "name": "Eterea",
+          "url": "https://open.spotify.com/artist/4H08iozMUTfC4kj5mPnDPD"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194687,
+      "name": "Mi voluntad",
+      "url": "https://open.spotify.com/track/5tXPiB9wwihAlWuwS5hYr0"
     },
     {
       "album": {

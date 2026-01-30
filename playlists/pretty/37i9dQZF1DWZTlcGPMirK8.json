@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 72779,
+  "num_followers": 72789,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -348,7 +348,7 @@
       "added_at": "2024-08-05 06:00:58",
       "album": {
         "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+        "url": "https://open.spotify.com/album/0yXpiO0g9UJb5Qhx4zAs16"
       },
       "artists": [
         {
@@ -358,7 +358,7 @@
       ],
       "duration_ms": 223640,
       "name": "Mess Is Mine",
-      "url": "https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ"
+      "url": "https://open.spotify.com/track/4CbiUgCCnQ79EmieyzQE8x"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "The Secret Life Of...",
-        "url": "https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to"
+        "name": "Essential As Anything",
+        "url": "https://open.spotify.com/album/5iTdMXmcuJl7bqVIsIJ76D"
       },
       "artists": [
         {
-          "name": "The Veronicas",
-          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+          "name": "Mental As Anything",
+          "url": "https://open.spotify.com/artist/6PFydyUHMKD2jm5NXzRPiK"
         }
       ],
-      "duration_ms": 208973,
-      "name": "4ever",
-      "url": "https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT"
+      "duration_ms": 227826,
+      "name": "Live It Up",
+      "url": "https://open.spotify.com/track/5gTzTrw6ORSPWK9qxVKCnf"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -851,18 +851,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Essential As Anything",
-        "url": "https://open.spotify.com/album/5iTdMXmcuJl7bqVIsIJ76D"
+        "name": "The Secret Life Of...",
+        "url": "https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to"
       },
       "artists": [
         {
-          "name": "Mental As Anything",
-          "url": "https://open.spotify.com/artist/6PFydyUHMKD2jm5NXzRPiK"
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
         }
       ],
-      "duration_ms": 227826,
-      "name": "Live It Up",
-      "url": "https://open.spotify.com/track/5gTzTrw6ORSPWK9qxVKCnf"
+      "duration_ms": 208973,
+      "name": "4ever",
+      "url": "https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -899,22 +899,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/4wjFfawmUFFk9INKJnnn0o"
+        "name": "Footprints",
+        "url": "https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV"
       },
       "artists": [
         {
-          "name": "Gina G",
-          "url": "https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8"
-        },
-        {
-          "name": "Motiv8",
-          "url": "https://open.spotify.com/artist/1xFPKhNxU5iyrvYDP7EhOp"
+          "name": "Holly Valance",
+          "url": "https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E"
         }
       ],
-      "duration_ms": 203120,
-      "name": "Ooh Aah...Just a Little Bit - Motiv8 Radio Edit",
-      "url": "https://open.spotify.com/track/7kyMLaXepcGHIrsLqoiTB8"
+      "duration_ms": 204400,
+      "name": "Kiss Kiss",
+      "url": "https://open.spotify.com/track/5TWL2K9Q9QuUTW15I6ZLpP"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -939,6 +935,26 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/4wjFfawmUFFk9INKJnnn0o"
+      },
+      "artists": [
+        {
+          "name": "Gina G",
+          "url": "https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8"
+        },
+        {
+          "name": "Motiv8",
+          "url": "https://open.spotify.com/artist/1xFPKhNxU5iyrvYDP7EhOp"
+        }
+      ],
+      "duration_ms": 203120,
+      "name": "Ooh Aah...Just a Little Bit - Motiv8 Radio Edit",
+      "url": "https://open.spotify.com/track/7kyMLaXepcGHIrsLqoiTB8"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "In The Summertime",
         "url": "https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 228560,
       "name": "In the Summertime - Single Version",
       "url": "https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Footprints",
-        "url": "https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV"
-      },
-      "artists": [
-        {
-          "name": "Holly Valance",
-          "url": "https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E"
-        }
-      ],
-      "duration_ms": 204400,
-      "name": "Kiss Kiss",
-      "url": "https://open.spotify.com/track/5TWL2K9Q9QuUTW15I6ZLpP"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "That's What I'm Talking About",
-        "url": "https://open.spotify.com/album/5wAoxrSVetP84EXgr4Tp3z"
-      },
-      "artists": [
-        {
-          "name": "Shannon Noll",
-          "url": "https://open.spotify.com/artist/2JQme5IJ3U7SRVQqHGN2fG"
-        }
-      ],
-      "duration_ms": 201773,
-      "name": "What About Me",
-      "url": "https://open.spotify.com/track/3BUdRr4VGmNajx2wLWlGzl"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Sneaky Sound System",
         "url": "https://open.spotify.com/album/3POXlpDv0cikb180eu6k5j"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 196946,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/2mNKIuM4xmeTNwe02NOem8"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "That's What I'm Talking About",
+        "url": "https://open.spotify.com/album/5wAoxrSVetP84EXgr4Tp3z"
+      },
+      "artists": [
+        {
+          "name": "Shannon Noll",
+          "url": "https://open.spotify.com/artist/2JQme5IJ3U7SRVQqHGN2fG"
+        }
+      ],
+      "duration_ms": 201773,
+      "name": "What About Me",
+      "url": "https://open.spotify.com/track/3BUdRr4VGmNajx2wLWlGzl"
     },
     {
       "added_at": "2024-08-05 06:00:58",

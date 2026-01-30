@@ -4,7 +4,7 @@
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-247 songs - 10 hr 5 min
+249 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [DEAR APRIL](https://open.spotify.com/track/5R2ZqLZeKRzAEH1eehC4LM) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU) | [Cover Art](https://open.spotify.com/album/494oa37Z1PTRpKolGp5JO8) | 2:15 | 2022-09-02 |  |
 | [Die For You](https://open.spotify.com/track/1nLi6OAjTRfFRNYTrvpmPj) | [Ingelwood Syndicate](https://open.spotify.com/artist/3Mvlf7TqfvwKklBsRxezJ7) | [Die For You](https://open.spotify.com/album/4a7N9UUXtAjasSIMiIMpwW) | 3:28 | 2023-04-03 | 2025-08-22 |
 | [Die With A Smile](https://open.spotify.com/track/2YJN3TNrmY2HSEFT9yvVyT) | [KOOL.WAVE](https://open.spotify.com/artist/5gBH48yz6AxTm2GELiSB5L) | [Die With A Smile](https://open.spotify.com/album/4lw4SVc6uuo92zrlxBh4PU) | 3:26 | 2025-08-21 |  |
+| [Dilemma](https://open.spotify.com/track/06B0yqFx098DcodVZh2xBh) | [Aurora 10](https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK) | [Dilemma](https://open.spotify.com/album/2rplujGA3zLv6wporHSb9O) | 2:17 | 2026-01-29 |  |
 | [dilemma](https://open.spotify.com/track/2BkGcrFsZ8pyOcCRZ7SmEu) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [dilemma](https://open.spotify.com/album/2k1F7XaGQRiZodGje43i8D) | 2:09 | 2024-06-13 |  |
 | [Do It To It](https://open.spotify.com/track/5JzL1hreVuaZO4Ukl2NemJ) | [OnD\-tox](https://open.spotify.com/artist/2P1XPAaJbnw7MjbV2g9Vxz) | [Do It To It](https://open.spotify.com/album/5tFPmOK4QrhiMtoqratw9g) | 2:41 | 2022-11-11 | 2023-12-08 |
 | [Dog Days Are Over \- Lofi Version](https://open.spotify.com/track/5G6D5WHf5weBJ7Z9WA6pyH) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl) | [Dog Days Are Over \(Lofi Version\)](https://open.spotify.com/album/7iqDk6pZdA7aPAZpoZzXve) | 2:15 | 2022-11-18 | 2025-08-22 |
@@ -88,6 +89,7 @@
 | [Free Fallin' \- Lo\-Fi](https://open.spotify.com/track/7cZj14hsmmH3dREMKNdNRy) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [Free Fallin' \(Lo\-Fi\)](https://open.spotify.com/album/4bg66M6Ef0ZrTmrrSl0ju3) | 5:00 | 2024-03-22 | 2025-01-10 |
 | [Gangsta's Paradise](https://open.spotify.com/track/2VWNSlfsBCxKVDaGBTYAvL) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Lofi Fruits Music 2021](https://open.spotify.com/album/35DIb6j45YmbHAfyN7HgaG) | 1:55 | 2022-09-02 | 2022-09-30 |
 | [Gangsta's Paradise \- Lofi Version](https://open.spotify.com/track/176AsqgJiJL4PFMpGFD0px) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl) | [Lofi Madness, Vol\. 1](https://open.spotify.com/album/3G0mO8o0VBCJMGpUdT6rFG) | 2:10 | 2022-09-30 | 2023-09-08 |
+| [Get Lucky \- lofi](https://open.spotify.com/track/4ZwBiNxJdVCkotr7DGyYov) | [golden era](https://open.spotify.com/artist/0zfNkbfXyVpesD3S0XFKB8), [The Remix Station](https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX) | [Get Lucky \(lofi\)](https://open.spotify.com/album/3SBK7iqWNksFkcLPcYbzFB) | 1:28 | 2026-01-29 |  |
 | [Ghost](https://open.spotify.com/track/7xIONLBEuuXdjd9KFGxUWz) | [Peaceful Melody](https://open.spotify.com/artist/6piO5Ac23WJnRQifD42dfv), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Ghost](https://open.spotify.com/album/5F25JMKIZl6Zl4huvs6GtE) | 1:59 | 2022-09-02 |  |
 | [girl on fire](https://open.spotify.com/track/0dTicjkL3qgaMjNXMq5nfD) | [Idris Jem](https://open.spotify.com/artist/0TsDkwnB2mr1kbQKAU4XcY) | [girl on fire](https://open.spotify.com/album/1D6gKpXDsiJpjSFkbDNZF4) | 2:20 | 2022-10-28 |  |
 | [Go Tell It On The Mountain](https://open.spotify.com/track/1JpDYuMELHWVIIb8RcY1TJ) | [Leo Stikks](https://open.spotify.com/artist/7LUeaR9RcIreAylx2jise5) | [Go Tell It On The Mountain](https://open.spotify.com/album/07Ho6FAFJVNAUquAEKeuUJ) | 1:50 | 2022-10-28 | 2023-11-17 |
@@ -163,7 +165,7 @@
 | [Pink Venom \(lofi edit\)](https://open.spotify.com/track/16ihKUs4sLMPRShfWUJRFN) | [The Remix Station](https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX), [로피 뮤직](https://open.spotify.com/artist/61vcj63GgHNdPDliis1tB6) | [Pink Venom \(lofi edit\)](https://open.spotify.com/album/4lua14MzXUzXQUJ9fuAkdT) | 1:45 | 2022-10-28 |  |
 | [Pink Venom \(lofi edit\)](https://open.spotify.com/track/1BYEV7J4H5Ha3A8O6ppuuq) | [로피 뮤직](https://open.spotify.com/artist/61vcj63GgHNdPDliis1tB6), [The Remix Station](https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX) | [K\-Pop ON! \(온\) \(lofi edition\)](https://open.spotify.com/album/20Efz10zTBkydyNDjQTvzl) | 1:45 | 2023-12-08 | 2024-04-19 |
 | [Plastic Love](https://open.spotify.com/track/3ljEzcpsXThqfImeqk9THy) | [Archipelia](https://open.spotify.com/artist/1wOpgYj0lsgHUCXDTAGzmH) | [Plastic Love](https://open.spotify.com/album/01nHXrfC8vYJijKsSlLnCP) | 2:28 | 2023-11-24 |  |
-| [pony](https://open.spotify.com/track/26e0Jbyt61AzuFz7UCh1vm) | [haki donzo](https://open.spotify.com/artist/7JCLpMzChs65N5MKKyup2b) | [pony](https://open.spotify.com/album/5Ge4f7HHDPK0k78KqLVWvl) | 1:59 | 2022-12-16 |  |
+| [pony](https://open.spotify.com/track/26e0Jbyt61AzuFz7UCh1vm) | [haki donzo](https://open.spotify.com/artist/7JCLpMzChs65N5MKKyup2b) | [pony](https://open.spotify.com/album/5Ge4f7HHDPK0k78KqLVWvl) | 1:59 | 2022-12-16 | 2026-01-30 |
 | [positions](https://open.spotify.com/track/5TQQq4JhYl6eMR4PCCTMhi) | [Tetouan](https://open.spotify.com/artist/5zqfe0xfWmU830hI8jThsi) | [positions](https://open.spotify.com/album/1Qg24CVSHe2HujGzBdyaCz) | 1:52 | 2022-12-16 |  |
 | [pumped up kicks \~ lofi](https://open.spotify.com/track/6H9VCtLR6txnQwtB1wAUCa) | [Closed on Sunday](https://open.spotify.com/artist/1LwjR2mIm78OJRTYdkMLl3), [King I Divine](https://open.spotify.com/artist/6t848BuoFnUtHgh1U5KWHx) | [pumped up kicks \~ lofi](https://open.spotify.com/album/7HFlEGEJ8qFFXaHYNx3FJj) | 1:28 | 2022-09-02 | 2023-10-19 |
 | [Put Your Records On](https://open.spotify.com/track/0ayze54kfOomri3f3E8AWz) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [Put Your Records On](https://open.spotify.com/album/14DQcnhpNWXmOg7dw7Okfw) | 3:56 | 2023-08-28 |  |
@@ -231,7 +233,7 @@
 | [Watermelon Sugar](https://open.spotify.com/track/3vHaS2v1VAYSTzNaUTnZmi) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Intentions](https://open.spotify.com/album/3rThcXs5nBUVBeA3yiAg2x) | 2:16 | 2022-11-11 | 2025-08-22 |
 | [Watermelon Sugar](https://open.spotify.com/track/22MIvtuAgtIwHslhKIyPyo) | [Slowzy](https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl) | [Watermelon Sugar](https://open.spotify.com/album/426VKc5Es9l2G0q4IUoELZ) | 1:36 | 2022-09-02 | 2022-11-12 |
 | [waves](https://open.spotify.com/track/7piFPg3kuRbodjCBWjUsXS) | [owlh](https://open.spotify.com/artist/0kCNNJfXF8AOSqRIC4aoza) | [waves](https://open.spotify.com/album/2r7peHnBz70EUzzSNfOan0) | 2:20 | 2022-09-02 |  |
-| [We Are Family](https://open.spotify.com/track/42XobImnQvdX9GUHqxnoPN) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [We Are Family](https://open.spotify.com/album/55G8HFz2yu9OoTavSMgRYj) | 1:48 | 2024-01-12 |  |
+| [We Are Family](https://open.spotify.com/track/42XobImnQvdX9GUHqxnoPN) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [We Are Family](https://open.spotify.com/album/55G8HFz2yu9OoTavSMgRYj) | 1:48 | 2024-01-12 | 2026-01-30 |
 | [weak](https://open.spotify.com/track/1fDXEyf7ljEsUN3iAPzyNd) | [phonadium](https://open.spotify.com/artist/1EbUbtNohBB2nDSZVdb0P8) | [weak](https://open.spotify.com/album/3Wfzenh9G4maSH1Hh3BP9i) | 2:55 | 2023-01-06 |  |
 | [wefoundlove](https://open.spotify.com/track/23kBxBCU9ey05l98Okzm1O) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [wefoundlove](https://open.spotify.com/album/6whfxObR17uLrOUpNpqzEP) | 2:01 | 2023-12-08 |  |
 | [what was i made for](https://open.spotify.com/track/7ztVb1wBTjjkSJSg8cgmMA) | [Archipelia](https://open.spotify.com/artist/1wOpgYj0lsgHUCXDTAGzmH) | [what was i made for](https://open.spotify.com/album/3KhgQIQDqinlfOFK3ruHa8) | 3:34 | 2024-02-02 |  |

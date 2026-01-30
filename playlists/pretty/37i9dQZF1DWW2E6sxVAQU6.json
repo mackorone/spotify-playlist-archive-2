@@ -551,22 +551,6 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
-        "name": "\u00c7a Plane Pour Moi",
-        "url": "https://open.spotify.com/album/6bv0t7P61aPvCjgbqMZk0V"
-      },
-      "artists": [
-        {
-          "name": "Plastic Bertrand",
-          "url": "https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Ping Pong",
-      "url": "https://open.spotify.com/track/2H9copqgXrRBpjLnMBZjh8"
-    },
-    {
-      "added_at": "2026-01-25 23:01:07",
-      "album": {
         "name": "Made In Italy",
         "url": "https://open.spotify.com/album/2GU0jh6JYDm5CZzOwFJBb9"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 249746,
       "name": "Sbatti Ben Su Del BeBop",
       "url": "https://open.spotify.com/track/5Dt3SmukbC11M8p5boi1ss"
+    },
+    {
+      "added_at": "2026-01-25 23:01:07",
+      "album": {
+        "name": "\u00c7a Plane Pour Moi",
+        "url": "https://open.spotify.com/album/6bv0t7P61aPvCjgbqMZk0V"
+      },
+      "artists": [
+        {
+          "name": "Plastic Bertrand",
+          "url": "https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Ping Pong",
+      "url": "https://open.spotify.com/track/2H9copqgXrRBpjLnMBZjh8"
     },
     {
       "added_at": "2026-01-25 23:01:07",

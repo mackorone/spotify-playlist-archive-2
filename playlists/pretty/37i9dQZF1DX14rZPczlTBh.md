@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Varanasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,642 likes - 50 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,684 likes - 50 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 32 | [Pushpa To Be Continued](https://open.spotify.com/track/4FAExsUfyPhBWZh40fIyrJ) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Pushpa The Rise \- OST](https://open.spotify.com/album/64Vs6t5DycA8LzjeIGDSHk) | 1:52 |
 | 33 | [Nenu Na Rakshasi\(Theme\)](https://open.spotify.com/track/01uskjjgcPpm4gUgfe3CuP) | [Anup Rubens](https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp) | [Nenu Naa Raakshasi](https://open.spotify.com/album/2VkPKVHmwhmwJMK7Dl3F8i) | 1:55 |
 | 34 | [Surya's Saturday](https://open.spotify.com/track/1yPKhZYC785EHBuqddCg18) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Saripodhaa Sanivaaram \(Original Background Score\)](https://open.spotify.com/album/2ydTchXuQ19AcntlZzxhp0) | 1:22 |
-| 35 | [Biker First Lap \- Glimpse \(From "BIKER"\)](https://open.spotify.com/track/3gKc0SULku3Zw4A1ZCAm80) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Biker First Lap \- Glimpse \(From "BIKER"\)](https://open.spotify.com/album/2gebX5B4C0eiRJhLknFnCz) | 0:58 |
-| 36 | [Vaishnavi Celebration Dance \(From "Baby"\)](https://open.spotify.com/track/0I053rrkNW20iX8wlvoctY) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx) | [Vaishnavi Celebration Dance \(From "Baby"\)](https://open.spotify.com/album/3IXz0KiwMcNuwqh4ntRakn) | 1:28 |
-| 37 | [Maa Nanna Super Hero Theme \(From "Maa Nanna Super Hero"\)](https://open.spotify.com/track/2oLLowJ2qGlV2yOuZUxSvr) | [Jay Krish](https://open.spotify.com/artist/3Yz04XcMjC097xmoo1VYob) | [Maa Nanna Super Hero Theme \(From "Maa Nanna Super Hero"\)](https://open.spotify.com/album/1Q7mJegyT3SauJqZLDLRwF) | 1:14 |
-| 38 | [Anthem Of Martin \(From "Martin"\) \(Telugu\)](https://open.spotify.com/track/6SzhKwa0saR0U6C2ZynpKW) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj) | [Anthem Of Martin \(From "Martin"\) \(Telugu\)](https://open.spotify.com/album/1bZ1IHL2eSxBNwJ3kjMcl1) | 3:59 |
+| 35 | [Vaishnavi Celebration Dance \(From "Baby"\)](https://open.spotify.com/track/0I053rrkNW20iX8wlvoctY) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx) | [Vaishnavi Celebration Dance \(From "Baby"\)](https://open.spotify.com/album/3IXz0KiwMcNuwqh4ntRakn) | 1:28 |
+| 36 | [Biker First Lap \- Glimpse \(From "BIKER"\)](https://open.spotify.com/track/3gKc0SULku3Zw4A1ZCAm80) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Biker First Lap \- Glimpse \(From "BIKER"\)](https://open.spotify.com/album/2gebX5B4C0eiRJhLknFnCz) | 0:58 |
+| 37 | [Anthem Of Martin \(From "Martin"\) \(Telugu\)](https://open.spotify.com/track/6SzhKwa0saR0U6C2ZynpKW) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj) | [Anthem Of Martin \(From "Martin"\) \(Telugu\)](https://open.spotify.com/album/1bZ1IHL2eSxBNwJ3kjMcl1) | 3:59 |
+| 38 | [Maa Nanna Super Hero Theme \(From "Maa Nanna Super Hero"\)](https://open.spotify.com/track/2oLLowJ2qGlV2yOuZUxSvr) | [Jay Krish](https://open.spotify.com/artist/3Yz04XcMjC097xmoo1VYob) | [Maa Nanna Super Hero Theme \(From "Maa Nanna Super Hero"\)](https://open.spotify.com/album/1Q7mJegyT3SauJqZLDLRwF) | 1:14 |
 | 39 | [Soul Of Kshanam](https://open.spotify.com/track/5RqKlrB2F5uLRtOchVPJRS) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Kshanam](https://open.spotify.com/album/4WvpxyKl3UVyoCU7BOFxSn) | 1:50 |
 | 40 | [⁠Fall of the Hero \- Instrumental](https://open.spotify.com/track/2U3155pXVjy5PoPMgahtTK) | [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [TEST \- Telugu \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1kWdF6bVQ2GZyL96xF3rBO) | 1:30 |
 | 41 | [Proposal \(From "Love Reddy"\)](https://open.spotify.com/track/27yelBarlAKbDh28Yn3JRf) | [Prince Henry](https://open.spotify.com/artist/3vJDvKa5cfjEH2vFEhj4EY) | [Proposal \(From "Love Reddy"\)](https://open.spotify.com/album/6x0UthIyzcRRTGhZKEx5J0) | 0:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 49 | [Badrenath Theme](https://open.spotify.com/track/2Fh0F8p45Ef4FNvZTWEGNj) | [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Badrenath](https://open.spotify.com/album/08sznMeYBuj3GInM6VUIvw) | 2:17 |
 | 50 | [CMGR Theme](https://open.spotify.com/track/32pkOK9wETE4BwlGTRmeeL) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN), [Karunya](https://open.spotify.com/artist/6qrS6jqZfr8HJe3IWkQqv2), [Narendra Doddapaneni](https://open.spotify.com/artist/1DEVUybUdaNx5xCgfRxs59) | [Cameraman Gangatho Rambabu](https://open.spotify.com/album/1DzfUGIuSfToncxjmhNiZY) | 1:53 |
 
-Snapshot ID: `AAAAANQ9s5C09OvOZkeDIRRxIdmHyOH3`
+Snapshot ID: `AAAAABn7CyftFtN8hJSdkcwxL2APr7nr`

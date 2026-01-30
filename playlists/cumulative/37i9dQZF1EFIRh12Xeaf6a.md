@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-357 songs - 18 hr 9 min
+359 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Chains](https://open.spotify.com/track/1N9NKdaJ7xB4U87oLoZu6C) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Pearls: Songs of Goffin & King](https://open.spotify.com/album/0rwgfoVEgvcCvuwNsamaul) | 2:56 | 2023-12-30 | 2024-01-25 |
 | [Chains](https://open.spotify.com/track/0DUxFFHLxJ0WfAcVR7uUqG) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Chains \- The Early Hits](https://open.spotify.com/album/5Mz701hu6ycwS68DNmcwsf) | 2:32 | 2024-01-25 | 2024-01-27 |
 | [Chains](https://open.spotify.com/track/3Tjzaw3s36JkLACh1XY2Yi) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Here come..\. The Cookies!](https://open.spotify.com/album/3BNDuPc2XRfeDMI6sCFBvG) | 2:32 | 2024-01-24 | 2024-12-12 |
-| [CHAINS](https://open.spotify.com/track/6xYjG5RKGzubOElLiTIo5k) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [チェインズ・オブ・ラヴ、ディメンション・イヤーズ 1962\-1964](https://open.spotify.com/album/7GJoJn6hIWoTNgYjccM0ZZ) | 2:34 | 2024-12-11 |  |
+| [Chains](https://open.spotify.com/track/4diHohiNPaJkeq7vMQ43aa) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Sugar Echoes & Satin Goodbyes](https://open.spotify.com/album/1qtDeht4B95wV9RwAmM3oW) | 2:32 | 2026-01-29 |  |
+| [CHAINS](https://open.spotify.com/track/6xYjG5RKGzubOElLiTIo5k) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [チェインズ・オブ・ラヴ、ディメンション・イヤーズ 1962\-1964](https://open.spotify.com/album/7GJoJn6hIWoTNgYjccM0ZZ) | 2:34 | 2024-12-11 | 2026-01-30 |
 | [Change In Mind, Change Of Heart](https://open.spotify.com/track/4TE2oo9qvqIk6WOpptxMz8) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 4:39 | 2023-12-30 |  |
 | [Cheating \(Bonus Track\)](https://open.spotify.com/track/5Yl623nUsrMf5QBe5dvzb3) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [Animalisms](https://open.spotify.com/album/5owTdQnJSxKgLgnz8ZgFmc) | 2:23 | 2023-12-30 | 2024-01-05 |
 | [Chicken Shake](https://open.spotify.com/track/6N0o3pElcfEqTgIdQzLU19) | [Stereo MC's](https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8) | [Connected](https://open.spotify.com/album/3NRQnGdFznbXtP8u2O4VKB) | 3:49 | 2023-12-30 |  |
@@ -142,7 +143,8 @@
 | [I'd Never Find Another You](https://open.spotify.com/track/3NdGW143zQClqgvLN5OdPs) | [Billy Fury](https://open.spotify.com/artist/7rtLZcKWGV4eaZsBwSKimf), [The Tornados](https://open.spotify.com/artist/3SblTU11ZKURsHhWGwPpt9) | [Radio Luxembourg Sessions/The Sound Of Fury Demos](https://open.spotify.com/album/4GxeKxGHCCjTSLOn9nyoUi) | 2:40 | 2023-12-30 | 2024-09-15 |
 | [I'll Love You For A While](https://open.spotify.com/track/4LNzBFytMkQ4nxE2Yhxv2A) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Ooooooweeee! \(Expanded Edition\)](https://open.spotify.com/album/1HxE0CdLFyhAAb7ysXtHjM) | 2:06 | 2023-12-30 |  |
 | [I'm Going Back \(Full Vocal Version\) \[In the Style of Dusty Springfield\]](https://open.spotify.com/track/1n6DA9ijTkEsmXDCJyxs4X) | [Goldsound Karaoke](https://open.spotify.com/artist/4A4BDuc54Pgl2n3ZRVMD5n) | [In the Style of Dusty Springfield](https://open.spotify.com/album/6EgnrXP2X45apwa0jYMqFC) | 3:33 | 2023-12-30 |  |
-| [I'm Into Something Good](https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Herman's Hermits Retrospective](https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW) | 2:33 | 2023-12-30 |  |
+| [I'm into Something Good](https://open.spotify.com/track/4Vng7f02Hz7XvPFsC1qFjl) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [A's, B's & EP's](https://open.spotify.com/album/1GocNvETatEei10ng7bpJ9) | 2:33 | 2026-01-29 |  |
+| [I'm Into Something Good](https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Herman's Hermits Retrospective](https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW) | 2:33 | 2023-12-30 | 2026-01-30 |
 | [I've Got Bonnie](https://open.spotify.com/track/0jO0rZ9Ipez7mXTFdogWU8) | [Bobby Rydell](https://open.spotify.com/artist/4hJTgr1adnhIkhmD9jLzd6) | [Little Girl](https://open.spotify.com/album/4m5ydiQ0up1aMwL14P2kCf) | 2:27 | 2026-01-17 |  |
 | [I've Got Bonnie](https://open.spotify.com/track/2hM0XV24liNkxUrErtomeq) | [Bobby Rydell](https://open.spotify.com/artist/4hJTgr1adnhIkhmD9jLzd6) | [The Myth of Bobby Rydell](https://open.spotify.com/album/0azUMrm8TBLDAZCFaRINEB) | 2:27 | 2024-11-17 | 2024-12-12 |
 | [I've Got Bonnie](https://open.spotify.com/track/3AmqQEXvDpn80hlXUXlndT) | [Bobby Rydell](https://open.spotify.com/artist/4hJTgr1adnhIkhmD9jLzd6) | [We Got Love](https://open.spotify.com/album/4CjnfHZWZxGfzDj9RlDEiE) | 2:27 | 2024-12-19 | 2025-12-18 |

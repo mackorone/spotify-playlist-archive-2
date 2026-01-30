@@ -2,9 +2,9 @@
 
 ### [Greek Pop](https://open.spotify.com/playlist/37i9dQZF1DXcdjiQ3xtMUy)
 
-> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Tamta x BARBZ
+> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Giorgos Sabanis
 
-235 songs - 12 hr 7 min
+236 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [CHROME HEARTS](https://open.spotify.com/track/1oWFxZvPHlcRPnmqNgQicd) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p) | [CHROME HEARTS](https://open.spotify.com/album/1fvIlgcPDPQ0SLhMiOBzU9) | 3:25 | 2025-03-13 | 2025-05-23 |
 | [COSMOS](https://open.spotify.com/track/3zHFS2L68Tj5JOJaw6ssso) | [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9), [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [STATUS 2](https://open.spotify.com/album/6ZokZMbIKjE2hhw3u0oySc) | 2:27 | 2025-04-10 | 2025-10-24 |
 | [Dame Fuego](https://open.spotify.com/track/0dvNH2vkKm6hPzgy9Puz89) | [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz) | [Dame Fuego](https://open.spotify.com/album/2kiAmoZTGNPOWW57lR7ovY) | 3:00 | 2024-07-11 | 2025-05-09 |
+| [De M' Agapouses](https://open.spotify.com/track/6bz2oDXZjkyCYki5GnIz5O) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd) | [De M' Agapouses](https://open.spotify.com/album/579p2fFgpWvCVqTKtCe6ge) | 4:14 | 2026-01-29 |  |
 | [Den Kano Ego Gia Spiti](https://open.spotify.com/track/0ZcakqLusdcGn9vmmCUdnD) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Hybrid](https://open.spotify.com/album/4My7whJTE7G98ey208Neit) | 3:01 | 2025-10-23 |  |
 | [DEN PERNAEI](https://open.spotify.com/track/4Lcl5RNUF5jlMcrPBbxK3b) | [KG](https://open.spotify.com/artist/2k3a4Z4pyDriJYozauuCYj), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [DEN PERNAEI](https://open.spotify.com/album/75CkPkXxgv6NWqzwj0OThQ) | 3:01 | 2024-10-10 | 2024-10-25 |
 | [Den Yparxei \- 2025 Edition](https://open.spotify.com/track/1GY4WYWJSi6Ylmjyx4tAON) | [Ilias Vrettos](https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1) | [7](https://open.spotify.com/album/3bNTq5F18iOH311qc1A1dG) | 3:32 | 2025-05-08 | 2025-05-30 |
@@ -205,7 +206,7 @@
 | [Skyli](https://open.spotify.com/track/2Y53hEWaS6te03ZC81HR0f) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU), [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn), [Nore Pierre](https://open.spotify.com/artist/5T1jkoAvwvd4ybx9f5VhVp) | [Elena](https://open.spotify.com/album/3mKDAH8iQJkYZhDCGQtCfR) | 2:59 | 2024-11-14 | 2025-01-31 |
 | [Social Media](https://open.spotify.com/track/0ZyWNvHKNWO8d3f9Rhqnd1) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU), [Katerina Stikoudi](https://open.spotify.com/artist/1Vt08HlFmHOFcUO4PCqP44) | [Social Media](https://open.spotify.com/album/6IklcTdtyA8nZ1aeYb81JG) | 2:31 | 2025-07-10 |  |
 | [SOMA DANEIKO](https://open.spotify.com/track/5x2vtiKQFl91hBYrebHwxU) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ) | [SOMA DANEIKO](https://open.spotify.com/album/4EZt9AyaAvdLJRFtA9GvMV) | 2:48 | 2025-11-27 |  |
-| [sprite](https://open.spotify.com/track/32kFCCsS86KQIbhgGED7pp) | [TEO.x3](https://open.spotify.com/artist/1lvRWwow7gpc1VKBGxebHH), [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ) | [iDidntMeanToGhostYouButMyWifiCrashedAgain](https://open.spotify.com/album/5AJBU94cun1EeaDMYQZOX2) | 2:35 | 2025-11-13 |  |
+| [sprite](https://open.spotify.com/track/32kFCCsS86KQIbhgGED7pp) | [TEO.x3](https://open.spotify.com/artist/1lvRWwow7gpc1VKBGxebHH), [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ) | [iDidntMeanToGhostYouButMyWifiCrashedAgain](https://open.spotify.com/album/5AJBU94cun1EeaDMYQZOX2) | 2:35 | 2025-11-13 | 2026-01-30 |
 | [STIN IYIA MAS](https://open.spotify.com/track/2QhPkTSjL4Tisn0y7jSbEb) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [P.O.P.](https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb) | 3:20 | 2024-06-27 | 2024-07-19 |
 | [Taxe Mou](https://open.spotify.com/track/5JqUN0Xf0fqsAhUasXeAVU) | [Stefanos Pitsiniagkas](https://open.spotify.com/artist/1e6h8QSnKioDJOAYXjUjPE), [Charis Savva](https://open.spotify.com/artist/2F7eb2e0gBOStCkKPDWb8o) | [Taxe Mou](https://open.spotify.com/album/3tnY2zCOw3tzWaKTGEuUe0) | 2:39 | 2025-05-08 | 2025-06-27 |
 | [Taxidi](https://open.spotify.com/track/6OeMRweMBxOOsH0jRZZcHB) | [Marina Spanou](https://open.spotify.com/artist/3CHVx21sE8rj1BnqRHukdz) | [Mia Kaseta Gia Ton Dromo](https://open.spotify.com/album/2vb1FOxlzBYITBzSSiFQdg) | 4:52 | 2024-06-27 | 2024-12-20 |

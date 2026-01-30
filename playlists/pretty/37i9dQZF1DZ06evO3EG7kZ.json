@@ -1,13 +1,33 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 50568,
+  "num_followers": 50581,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXgAAAAAAABsvF9qt+pfJpOiEVM1Fdk9",
+  "snapshot_id": "aXlRgAAAAAAu2Hm3vIqsyTgD6z7RUbZ1",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bluey Theme Tune (Orchestral Version)",
+        "url": "https://open.spotify.com/album/6gTiDDQTIsi9xm6aX6q1Ie"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        }
+      ],
+      "duration_ms": 203683,
+      "name": "Bluey Theme Tune (Orchestral Version)",
+      "url": "https://open.spotify.com/track/6FoBB5GTeTS27zWRkeq6EQ"
+    },
     {
       "added_at": null,
       "album": {
@@ -40,13 +60,17 @@
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
         },
         {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+          "name": "Helena Czajka",
+          "url": "https://open.spotify.com/artist/4rA0u7NMQXLrfhX6Sf9pmO"
+        },
+        {
+          "name": "Jazz D'Arcy",
+          "url": "https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij"
         }
       ],
-      "duration_ms": 132906,
-      "name": "Bluey Theme Tune (Instrument Parade)",
-      "url": "https://open.spotify.com/track/3ABoIhUlvJZp2ZDlfeThP7"
+      "duration_ms": 196019,
+      "name": "I Know a Place (The Creek Song)",
+      "url": "https://open.spotify.com/track/5bF4MESYAJUpUmrGuhyGON"
     },
     {
       "added_at": null,
@@ -122,15 +146,11 @@
         {
           "name": "Helena Czajka",
           "url": "https://open.spotify.com/artist/4rA0u7NMQXLrfhX6Sf9pmO"
-        },
-        {
-          "name": "Jazz D'Arcy",
-          "url": "https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij"
         }
       ],
-      "duration_ms": 196019,
-      "name": "I Know a Place (The Creek Song)",
-      "url": "https://open.spotify.com/track/5bF4MESYAJUpUmrGuhyGON"
+      "duration_ms": 189707,
+      "name": "Creek is Beautiful!",
+      "url": "https://open.spotify.com/track/3IX0GkNlQyjPi3GLtjhMdt"
     },
     {
       "added_at": null,
@@ -200,13 +220,13 @@
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
         },
         {
-          "name": "Helena Czajka",
-          "url": "https://open.spotify.com/artist/4rA0u7NMQXLrfhX6Sf9pmO"
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 189707,
-      "name": "Creek is Beautiful!",
-      "url": "https://open.spotify.com/track/3IX0GkNlQyjPi3GLtjhMdt"
+      "duration_ms": 145986,
+      "name": "Camping",
+      "url": "https://open.spotify.com/track/4w5LdmsuCKio1HnWIycAub"
     },
     {
       "added_at": null,
@@ -292,13 +312,13 @@
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
         },
         {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+          "name": "David Barber",
+          "url": "https://open.spotify.com/artist/1QHNRO6583iWucRIG2QB1i"
         }
       ],
-      "duration_ms": 145986,
-      "name": "Camping",
-      "url": "https://open.spotify.com/track/4w5LdmsuCKio1HnWIycAub"
+      "duration_ms": 48396,
+      "name": "The Creek (Intro)",
+      "url": "https://open.spotify.com/track/6n5B43oRmZnwTpVfdJiVz4"
     },
     {
       "added_at": null,
@@ -380,13 +400,13 @@
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
         },
         {
-          "name": "David Barber",
-          "url": "https://open.spotify.com/artist/1QHNRO6583iWucRIG2QB1i"
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 48396,
-      "name": "The Creek (Intro)",
-      "url": "https://open.spotify.com/track/6n5B43oRmZnwTpVfdJiVz4"
+      "duration_ms": 202098,
+      "name": "Wagon Ride",
+      "url": "https://open.spotify.com/track/5A7NglEPKMeCu7y8AJmzAD"
     },
     {
       "added_at": null,
@@ -404,9 +424,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 193938,
-      "name": "Bin Night",
-      "url": "https://open.spotify.com/track/3mmahMWgu7hMc50NuLDCTZ"
+      "duration_ms": 162332,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/5cyxngiUUlUUtCx4qWsPFz"
     },
     {
       "added_at": null,
@@ -460,13 +480,13 @@
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
         },
         {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+          "name": "Pluto Jonze",
+          "url": "https://open.spotify.com/artist/6DRm66ULaD9MVnfZ4TBfmF"
         }
       ],
-      "duration_ms": 202098,
-      "name": "Wagon Ride",
-      "url": "https://open.spotify.com/track/5A7NglEPKMeCu7y8AJmzAD"
+      "duration_ms": 96398,
+      "name": "Fruit Bat",
+      "url": "https://open.spotify.com/track/0LlgXONyO3DotVbK38T6oe"
     },
     {
       "added_at": null,
@@ -484,9 +504,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 162332,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/5cyxngiUUlUUtCx4qWsPFz"
+      "duration_ms": 193938,
+      "name": "Bin Night",
+      "url": "https://open.spotify.com/track/3mmahMWgu7hMc50NuLDCTZ"
     },
     {
       "added_at": null,

@@ -1687,6 +1687,40 @@
     },
     {
       "album": {
+        "name": "Kadhal Ondru Kanden (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5g6sTplYW2TrWhfHiTAKOf"
+      },
+      "artists": [
+        {
+          "name": "Siddhu Kumar",
+          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
+        },
+        {
+          "name": "Rahul",
+          "url": "https://open.spotify.com/artist/7rHoxSPlB7veW5trSMRxhy"
+        },
+        {
+          "name": "Srinisha Jayaseelan",
+          "url": "https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        },
+        {
+          "name": "Punith",
+          "url": "https://open.spotify.com/artist/6tWz4ciTcQWuCsa3kAdPMC"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171974,
+      "name": "Kanna Veesi",
+      "url": "https://open.spotify.com/track/72YaGdQ4YJbGfUtdjfOu6B"
+    },
+    {
+      "album": {
         "name": "Retro [TAMIL]",
         "url": "https://open.spotify.com/album/5G6wOndtXdAygfFXSy1f7q"
       },
@@ -4238,7 +4272,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 246002,
       "name": "Water Packet",
       "url": "https://open.spotify.com/track/1l4CYsCwvTRRAW2cmsVZ36"

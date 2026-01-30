@@ -2,7 +2,7 @@
 
 ### [Hot Hits UK](https://open.spotify.com/playlist/37i9dQZF1DWY4lFlS4Pnso)
 
-> The UK's biggest playlist\. Cover: Djo
+> The UK's biggest playlist\. Cover: Harry Styles
 
 420 songs - 22 hr 14 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "the pop lab \ud83e\uddea cover: lucky iris",
+  "description": "the pop lab \ud83e\uddea cover: cobrah",
   "name": "Evolver",
   "tracks": [
     {
@@ -2154,7 +2154,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 141073,
       "name": "announcements",
       "url": "https://open.spotify.com/track/3t3hSIPu9jCZ3Qy9m5x8Dz"
@@ -3304,7 +3304,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 150238,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/4LO5lzQZM94mXCqDjTreuZ"
@@ -3510,6 +3510,24 @@
       "duration_ms": 145765,
       "name": "Been Like This",
       "url": "https://open.spotify.com/track/3t7MOVjzXyqT7vPw4eNrAV"
+    },
+    {
+      "album": {
+        "name": "BEEP BEEP",
+        "url": "https://open.spotify.com/album/7HLxofu5KDBHTZNNrJCnZR"
+      },
+      "artists": [
+        {
+          "name": "vi0let",
+          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153665,
+      "name": "BEEP BEEP",
+      "url": "https://open.spotify.com/track/37QZTqlBL2zWGC0ZOqIKg4"
     },
     {
       "album": {
@@ -4196,7 +4214,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 166000,
       "name": "Blasting Through the Speakers",
       "url": "https://open.spotify.com/track/72YcfDh7YXItRSoCpBWp86"
@@ -6765,6 +6783,24 @@
     },
     {
       "album": {
+        "name": "Cola",
+        "url": "https://open.spotify.com/album/7zxKbImjdH3iLRwAT1XWoX"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Cola",
+      "url": "https://open.spotify.com/track/2ZFR6vljnZc54BkSFF4NNb"
+    },
+    {
+      "album": {
         "name": "HEROGIRL",
         "url": "https://open.spotify.com/album/4T89kaLNyKWyrbiH0J2J1a"
       },
@@ -7858,7 +7894,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 195448,
       "name": "Dangerous Nostalgia",
       "url": "https://open.spotify.com/track/3afGTfHfCJ6RjltpDGjazF"
@@ -10592,7 +10628,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 158400,
       "name": "EVERYTHING AT ONCE",
       "url": "https://open.spotify.com/track/7M9xRZm1gXwgkdKJLpaQ13"
@@ -11110,6 +11146,24 @@
       "duration_ms": 168118,
       "name": "Fake A Smile",
       "url": "https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH"
+    },
+    {
+      "album": {
+        "name": "Fake Denim",
+        "url": "https://open.spotify.com/album/2gpruJPGNa8BMvwjYa8Gnc"
+      },
+      "artists": [
+        {
+          "name": "Dorian Electra",
+          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200491,
+      "name": "Fake Denim",
+      "url": "https://open.spotify.com/track/4l1u4uXrGE8DMLhkYrymJD"
     },
     {
       "album": {
@@ -16140,6 +16194,24 @@
       "duration_ms": 238095,
       "name": "Hurts Like This",
       "url": "https://open.spotify.com/track/0jitsmziKMI9MpzENnB0Tc"
+    },
+    {
+      "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/6u9gVzMK2g0mZh9xEK6avS"
+      },
+      "artists": [
+        {
+          "name": "Cobrah",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212486,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/4Vfc9QSzqyDyHtfZy7vGgC"
     },
     {
       "album": {
@@ -21296,7 +21368,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 181806,
       "name": "Loser",
       "url": "https://open.spotify.com/track/4NraHNL2oA3V88uAjIKqOu"
@@ -21846,7 +21918,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 239973,
       "name": "Love Who You Love",
       "url": "https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr"
@@ -25798,7 +25870,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 134921,
       "name": "oh my God",
       "url": "https://open.spotify.com/track/1HUwsOURenhGKTvBgMu9Du"
@@ -28866,6 +28938,24 @@
       "duration_ms": 207513,
       "name": "Reruns",
       "url": "https://open.spotify.com/track/4EQMEAAPtyoLrDtTiryx68"
+    },
+    {
+      "album": {
+        "name": "retrograde",
+        "url": "https://open.spotify.com/album/37OUosJkx6XR5gY2wkF176"
+      },
+      "artists": [
+        {
+          "name": "Hanniou",
+          "url": "https://open.spotify.com/artist/6cPHtMeQsCbbzpKyNDduLT"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "retrograde",
+      "url": "https://open.spotify.com/track/2ZpqrLUmiQ2BkNE1gjNiuY"
     },
     {
       "album": {
@@ -32861,6 +32951,24 @@
     },
     {
       "album": {
+        "name": "Suck My MP3",
+        "url": "https://open.spotify.com/album/4eDNlIs0Zm8VhWgLISsZf9"
+      },
+      "artists": [
+        {
+          "name": "MARiMARi",
+          "url": "https://open.spotify.com/artist/4EuIByMqMJOCQijthmKLwl"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138329,
+      "name": "Suck My MP3",
+      "url": "https://open.spotify.com/track/5HQpbbX3ge8TYtpAHYBjSw"
+    },
+    {
+      "album": {
         "name": "Beginner's Luck",
         "url": "https://open.spotify.com/album/3pH36OEN9Z5LVsjAcjY4x0"
       },
@@ -36848,6 +36956,24 @@
       "duration_ms": 210029,
       "name": "Vanity",
       "url": "https://open.spotify.com/track/0AU2a60eNXKv2XP3CkXyos"
+    },
+    {
+      "album": {
+        "name": "VELCRO",
+        "url": "https://open.spotify.com/album/5MKH9ZIIRuuhELM96Nzd2X"
+      },
+      "artists": [
+        {
+          "name": "EARTH TO EMILY",
+          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146193,
+      "name": "VELCRO",
+      "url": "https://open.spotify.com/track/0EkhtDLi0kg3udrFXStmN3"
     },
     {
       "album": {

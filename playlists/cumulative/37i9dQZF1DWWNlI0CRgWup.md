@@ -2,9 +2,9 @@
 
 ### [RADAR FRANCE](https://open.spotify.com/playlist/37i9dQZF1DWWNlI0CRgWup)
 
-> Découvrez les nouveautés des artistes RADAR France\. Photo : Sam Sauvage
+> Découvrez les nouveautés des artistes RADAR France\. Photo : Steve Ibrahim
 
-276 songs - 14 hr 1 min
+277 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Le départ](https://open.spotify.com/track/1aPmnLaOqUckJH55npV3ZC) | [Blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [Te souviens\-tu ?](https://open.spotify.com/album/4LfcPStkgGYBfHrHWugvpd) | 3:07 | 2026-01-08 |  |
 | [Le Jeune](https://open.spotify.com/track/6amKBSZGfDYxNbL2ByRnir) | [QuinzeQuinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Le Jeune](https://open.spotify.com/album/6f0YgX8Oec0sTVluzFCT9C) | 3:59 | 2021-12-02 | 2022-02-04 |
 | [le manège](https://open.spotify.com/track/1544oKxSzETEcBpOKdf3de) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [le manège](https://open.spotify.com/album/6Qt86ubTBo7keQIxje0qNW) | 3:49 | 2021-12-02 | 2022-03-02 |
+| [Le mur du salon](https://open.spotify.com/track/6DSFwl1y7t1ds2zMjgxEYy) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [Le mur du salon](https://open.spotify.com/album/2gZL4ccmGDOXe3mKvTGENo) | 3:09 | 2026-01-29 |  |
 | [Le temps passe](https://open.spotify.com/track/24o720A8MCkwTWWytpMZld) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Le temps passe](https://open.spotify.com/album/2JZquiQA5Vg3J0HYokRdyE) | 3:12 | 2021-12-02 | 2022-06-18 |
 | [leader price](https://open.spotify.com/track/4DzSa5hqOPvoqE6cwt4Iav) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [grandes surfaces](https://open.spotify.com/album/4AOcbCgPxu07O1lEK2mnJQ) | 2:53 | 2025-06-19 |  |
 | [Les bonbons](https://open.spotify.com/track/2KQRtOnkcFpPM7f6P761Oe) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Les bonbons](https://open.spotify.com/album/6NAzRGJOPpOUs24BLpzdsI) | 2:51 | 2024-07-05 | 2025-06-20 |

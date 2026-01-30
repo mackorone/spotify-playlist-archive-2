@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Delacruz, P\u00e9ricles",
-  "num_followers": 185195,
+  "num_followers": 185212,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -267,8 +267,8 @@
     {
       "added_at": "2026-01-23 03:01:12",
       "album": {
-        "name": "De Lua",
-        "url": "https://open.spotify.com/album/3MvCq8E1mKvvBr0fvjFmCY"
+        "name": "Noir",
+        "url": "https://open.spotify.com/album/75bTLkQ8DYiTG70s8YU8BE"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
         }
       ],
-      "duration_ms": 192573,
-      "name": "De Lua",
-      "url": "https://open.spotify.com/track/2pnhhyzxoMArmMcsDUTIi8"
+      "duration_ms": 171361,
+      "name": "Erro Fatal",
+      "url": "https://open.spotify.com/track/0nLgUFirsiwYuxdPBWpVt3"
     },
     {
       "added_at": "2026-01-23 03:01:12",
@@ -359,8 +359,8 @@
     {
       "added_at": "2026-01-23 03:01:12",
       "album": {
-        "name": "Noir",
-        "url": "https://open.spotify.com/album/75bTLkQ8DYiTG70s8YU8BE"
+        "name": "De Lua",
+        "url": "https://open.spotify.com/album/3MvCq8E1mKvvBr0fvjFmCY"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
         }
       ],
-      "duration_ms": 171361,
-      "name": "Erro Fatal",
-      "url": "https://open.spotify.com/track/0nLgUFirsiwYuxdPBWpVt3"
+      "duration_ms": 192573,
+      "name": "De Lua",
+      "url": "https://open.spotify.com/track/2pnhhyzxoMArmMcsDUTIi8"
     },
     {
       "added_at": "2026-01-23 03:01:12",
@@ -623,18 +623,22 @@
     {
       "added_at": "2026-01-23 03:01:12",
       "album": {
-        "name": "Sonhei com Voc\u00ea",
-        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
+        "name": "Amar D\u00f3i",
+        "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
       },
       "artists": [
         {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
         }
       ],
-      "duration_ms": 261144,
-      "name": "Sonhei com Voc\u00ea",
-      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
+      "duration_ms": 168063,
+      "name": "N\u00f3s",
+      "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
     },
     {
       "added_at": "2026-01-23 03:01:12",
@@ -663,22 +667,18 @@
     {
       "added_at": "2026-01-23 03:01:12",
       "album": {
-        "name": "Amar D\u00f3i",
-        "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
+        "name": "Sonhei com Voc\u00ea",
+        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
       },
       "artists": [
         {
-          "name": "Iza Sabino",
-          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
-        },
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
         }
       ],
-      "duration_ms": 168063,
-      "name": "N\u00f3s",
-      "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
+      "duration_ms": 261144,
+      "name": "Sonhei com Voc\u00ea",
+      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
     },
     {
       "added_at": "2026-01-23 03:01:12",
@@ -707,26 +707,6 @@
     {
       "added_at": "2026-01-23 03:01:12",
       "album": {
-        "name": "perco o ar",
-        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
-        }
-      ],
-      "duration_ms": 204604,
-      "name": "perco o ar",
-      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
-    },
-    {
-      "added_at": "2026-01-23 03:01:12",
-      "album": {
         "name": "Jeito Certo",
         "url": "https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx"
       },
@@ -747,6 +727,26 @@
     {
       "added_at": "2026-01-23 03:01:12",
       "album": {
+        "name": "perco o ar",
+        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+        }
+      ],
+      "duration_ms": 204604,
+      "name": "perco o ar",
+      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
+    },
+    {
+      "added_at": "2026-01-23 03:01:12",
+      "album": {
         "name": "Castigo",
         "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
       },
@@ -759,26 +759,6 @@
       "duration_ms": 145185,
       "name": "Castigo",
       "url": "https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK"
-    },
-    {
-      "added_at": "2026-01-23 03:01:12",
-      "album": {
-        "name": "n\u00e3o dou valor",
-        "url": "https://open.spotify.com/album/01xuyjmFrJO4R42lYNXjVV"
-      },
-      "artists": [
-        {
-          "name": "JOTTAH",
-          "url": "https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN"
-        },
-        {
-          "name": "REAL PS",
-          "url": "https://open.spotify.com/artist/6UsSaIItK9LmnCczyW2B8I"
-        }
-      ],
-      "duration_ms": 148283,
-      "name": "n\u00e3o dou valor",
-      "url": "https://open.spotify.com/track/1oKbigIydvg4qww4qkYEH0"
     },
     {
       "added_at": "2026-01-23 03:01:12",
@@ -803,22 +783,22 @@
     {
       "added_at": "2026-01-23 03:01:12",
       "album": {
-        "name": "Dejavu",
-        "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
+        "name": "n\u00e3o dou valor",
+        "url": "https://open.spotify.com/album/01xuyjmFrJO4R42lYNXjVV"
       },
       "artists": [
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+          "name": "JOTTAH",
+          "url": "https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN"
         },
         {
-          "name": "Felipe Rosa",
-          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
+          "name": "REAL PS",
+          "url": "https://open.spotify.com/artist/6UsSaIItK9LmnCczyW2B8I"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Dejavu",
-      "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
+      "duration_ms": 148283,
+      "name": "n\u00e3o dou valor",
+      "url": "https://open.spotify.com/track/1oKbigIydvg4qww4qkYEH0"
     },
     {
       "added_at": "2026-01-23 03:01:12",
@@ -835,6 +815,26 @@
       "duration_ms": 195169,
       "name": "Tenta a Sorte",
       "url": "https://open.spotify.com/track/403HXmtlfUEBNCKjpcB0Eg"
+    },
+    {
+      "added_at": "2026-01-23 03:01:12",
+      "album": {
+        "name": "Dejavu",
+        "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Felipe Rosa",
+          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
     },
     {
       "added_at": "2026-01-23 03:01:12",
@@ -903,6 +903,26 @@
     {
       "added_at": "2026-01-23 03:01:12",
       "album": {
+        "name": "Al-Kimiya, Ato I",
+        "url": "https://open.spotify.com/album/4JDMKjOO4UvoOof9WhJx5s"
+      },
+      "artists": [
+        {
+          "name": "Alt Niss",
+          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
+        },
+        {
+          "name": "Nill",
+          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
+        }
+      ],
+      "duration_ms": 256017,
+      "name": "MergulhoFundo",
+      "url": "https://open.spotify.com/track/4L9LVdgCBNM16NWUOwooog"
+    },
+    {
+      "added_at": "2026-01-23 03:01:12",
+      "album": {
         "name": "Desse Meu Mel",
         "url": "https://open.spotify.com/album/6WGdyQqjEKGHrDk2R4qgBM"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 282352,
       "name": "sexta de manh\u00e3",
       "url": "https://open.spotify.com/track/76SmNEtOglFZugGl8Ygq4l"
-    },
-    {
-      "added_at": "2026-01-23 03:01:12",
-      "album": {
-        "name": "Al-Kimiya, Ato I",
-        "url": "https://open.spotify.com/album/4JDMKjOO4UvoOof9WhJx5s"
-      },
-      "artists": [
-        {
-          "name": "Alt Niss",
-          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
-        },
-        {
-          "name": "Nill",
-          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
-        }
-      ],
-      "duration_ms": 256017,
-      "name": "MergulhoFundo",
-      "url": "https://open.spotify.com/track/4L9LVdgCBNM16NWUOwooog"
     },
     {
       "added_at": "2026-01-23 03:01:12",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2026-01-23 03:01:12",
       "album": {
+        "name": "Rel\u00edquia",
+        "url": "https://open.spotify.com/album/1Z6KdoF4ss3lCjKsegTonB"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        },
+        {
+          "name": "Lucas Morato",
+          "url": "https://open.spotify.com/artist/4ab6n3r4PdQroLqLsnV2JZ"
+        }
+      ],
+      "duration_ms": 212429,
+      "name": "Volta Meu Amor",
+      "url": "https://open.spotify.com/track/1lowEujHdtYlkKJ5NWIM0t"
+    },
+    {
+      "added_at": "2026-01-23 03:01:12",
+      "album": {
         "name": "Novehoras",
         "url": "https://open.spotify.com/album/3YAOfa21Gfl5g2cdX4uogw"
       },
@@ -1079,26 +1099,6 @@
     {
       "added_at": "2026-01-23 03:01:12",
       "album": {
-        "name": "Pra Mim N\u00e3o D\u00e1",
-        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
-      },
-      "artists": [
-        {
-          "name": "Juliah",
-          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Pra Mim N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
-    },
-    {
-      "added_at": "2026-01-23 03:01:12",
-      "album": {
         "name": "NEM TUDO \u00c9 AMOR",
         "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
       },
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2026-01-23 03:01:12",
       "album": {
+        "name": "Pra Mim N\u00e3o D\u00e1",
+        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
+      },
+      "artists": [
+        {
+          "name": "Juliah",
+          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Pra Mim N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
+    },
+    {
+      "added_at": "2026-01-23 03:01:12",
+      "album": {
         "name": "Melanina",
         "url": "https://open.spotify.com/album/0hZdTZ83F15jpvPREY3YVK"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 120000,
       "name": "Melanina",
       "url": "https://open.spotify.com/track/4YazQdzbY7zJH9qSSZr7ot"
-    },
-    {
-      "added_at": "2026-01-23 03:01:12",
-      "album": {
-        "name": "Rel\u00edquia",
-        "url": "https://open.spotify.com/album/1Z6KdoF4ss3lCjKsegTonB"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        },
-        {
-          "name": "Lucas Morato",
-          "url": "https://open.spotify.com/artist/4ab6n3r4PdQroLqLsnV2JZ"
-        }
-      ],
-      "duration_ms": 212429,
-      "name": "Volta Meu Amor",
-      "url": "https://open.spotify.com/track/1lowEujHdtYlkKJ5NWIM0t"
     },
     {
       "added_at": "2026-01-23 03:01:12",

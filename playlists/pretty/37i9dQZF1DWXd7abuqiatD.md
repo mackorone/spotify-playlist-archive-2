@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXd7abuqiatD.md) - [plain]
 
 > Pacific Avenue curate your next Road Trip
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,341 likes - 45 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,337 likes - 45 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Working Class Hero](https://open.spotify.com/track/7bkwlRmFsiteZzMrNFuAi6) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Working Class Hero](https://open.spotify.com/album/0dfOBm3T0jMxVpMsx8lRYW) | 3:52 |
 | 2 | [You Get What You Give](https://open.spotify.com/track/6KZmBm5e4qhglyVLSQZVGi) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Upbeat Happy Music](https://open.spotify.com/album/2TGyjw0lGt3YwRnypL7pWg) | 5:00 |
-| 3 | [Here We Go Again](https://open.spotify.com/track/7bvUKfeVJweptHIJtnC8Kz) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Here We Go Again](https://open.spotify.com/album/4THNExkJ80NtafCGJADvar) | 4:11 |
+| 3 | [Things We Wanna Say](https://open.spotify.com/track/0vB2W1H7Ikd7NzmoWG2c62) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Things We Wanna Say](https://open.spotify.com/album/1yOkg0DHO246qPnMWlSPHV) | 3:55 |
 | 4 | [Changing Shapes](https://open.spotify.com/track/06uRd3Zvphvo7F17IEBl4o) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [Changing Shapes](https://open.spotify.com/album/793aYdy2aN7PvZj6YsdUVz) | 2:52 |
 | 5 | [Under the Bridge](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:24 |
 | 6 | [Strawberry Daydream](https://open.spotify.com/track/2I5jfuDTkiWOEFu66lUrgv) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Flowers](https://open.spotify.com/album/0sY90YfWxpjWpnNHV6WxH4) | 3:07 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXd7abuqiatD.md) - [plain]
 | 44 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 |
 | 45 | [Run to Paradise](https://open.spotify.com/track/6Amt2E3nanH9lhZnas9oOs) | [Choirboys](https://open.spotify.com/artist/2u6qHMpQaE48aowjWKJeCM) | [Big Bad Noise](https://open.spotify.com/album/2RUPcjcTFN1B4jxYe4RsIF) | 4:11 |
 
-Snapshot ID: `AAAAAGZ5/meLxDiPBLhIO9LRG27UYyAq`
+Snapshot ID: `AAAAAPNTTaJwbJdu9JDYd3hIAC9pVNIx`

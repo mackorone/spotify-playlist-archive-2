@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 711485,
+  "num_followers": 711554,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXgAAAAAAAB9l/NZMO7SA6jsOe9MQlDZ",
+  "snapshot_id": "aXlRgAAAAACY4TMeh+axF1Wqpr0m+KWF",
   "tracks": [
     {
       "added_at": null,
@@ -671,18 +671,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody Wants This Season 2: The Soundtrack",
-        "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
+        "name": "No.6 Collaborations Project",
+        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
       "artists": [
         {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
           "name": "Chris Stapleton",
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 207746,
-      "name": "Heart Letting Go",
-      "url": "https://open.spotify.com/track/4EwpXldfU693P8z1ucbfur"
+      "duration_ms": 209120,
+      "name": "BLOW (with Chris Stapleton & Bruno Mars)",
+      "url": "https://open.spotify.com/track/7hvO2qCwJVZxiyoA7c9i5d"
     },
     {
       "added_at": null,
@@ -719,26 +727,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No.6 Collaborations Project",
-        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
+        "name": "Nobody Wants This Season 2: The Soundtrack",
+        "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
           "name": "Chris Stapleton",
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 209120,
-      "name": "BLOW (with Chris Stapleton & Bruno Mars)",
-      "url": "https://open.spotify.com/track/7hvO2qCwJVZxiyoA7c9i5d"
+      "duration_ms": 207746,
+      "name": "Heart Letting Go",
+      "url": "https://open.spotify.com/track/4EwpXldfU693P8z1ucbfur"
     },
     {
       "added_at": null,

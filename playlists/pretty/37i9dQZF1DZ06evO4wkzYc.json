@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 187427,
+  "num_followers": 187514,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXgAAAAAAADUl8Uy1OpMbx3hYdEDTQnO",
+  "snapshot_id": "aXlRgAAAAABqP2GVPEU72+qETJQPzVS+",
   "tracks": [
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culpables",
-        "url": "https://open.spotify.com/album/4N3szQ2TAQeozENZC7xou8"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 252821,
-      "name": "Culpables",
-      "url": "https://open.spotify.com/track/7fuxXCIXyNeVRNAVScJlsb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mingo",
         "url": "https://open.spotify.com/album/3Jg86eGRRn6XLMDl0uiKPE"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 188074,
       "name": "Mingo",
       "url": "https://open.spotify.com/track/6poGqH4EycO2RXBFElcK5w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culpables",
+        "url": "https://open.spotify.com/album/4N3szQ2TAQeozENZC7xou8"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 252821,
+      "name": "Culpables",
+      "url": "https://open.spotify.com/track/7fuxXCIXyNeVRNAVScJlsb"
     },
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 182299,
-      "name": "Delante De Mi",
-      "url": "https://open.spotify.com/track/54WpanwL6bIMbK92QJ6QpH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chorumbo",
         "url": "https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 200141,
       "name": "Chorumbo",
       "url": "https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 182299,
+      "name": "Delante De Mi",
+      "url": "https://open.spotify.com/track/54WpanwL6bIMbK92QJ6QpH"
     },
     {
       "added_at": null,

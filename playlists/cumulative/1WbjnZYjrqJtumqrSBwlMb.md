@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,260 songs - 3 day 5 hr 11 min
+1,261 songs - 3 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1152,6 +1152,7 @@
 | [Troubled Son](https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Troubled Son](https://open.spotify.com/album/3hapFmR8CqczqZH3uWly35) | 3:20 | 2023-04-19 |  |
 | [TRUE LOVE](https://open.spotify.com/track/3J7qBp4P6hPBwkAQNLMj3t) | [DONDA](https://open.spotify.com/artist/1t9YWEQIh5ciiliO2C8Mew) | [DONDA 2](https://open.spotify.com/album/5qmBulRQR05gKH2r7fRofg) | 2:17 | 2025-04-30 | 2025-05-02 |
 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 | 2024-12-19 |  |
+| [Two Car Garage](https://open.spotify.com/track/57ZFmLushr2mLmY1NMoZwI) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv) | [Two Car Garage](https://open.spotify.com/album/35SWvZWmYD6O60FVna7sgP) | 3:02 | 2026-01-30 |  |
 | [U DON'T KNOW ME LIKE THAT](https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD I](https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4) | 3:29 | 2023-10-11 |  |
 | [U DON'T KNOW ME LIKE THAT](https://open.spotify.com/track/2fjm2JmjN0CI26E9MUCfbn) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 3:29 | 2024-02-16 |  |
 | [U TRIED THAT THING WHERE UR HUMAN](https://open.spotify.com/track/3uM2hZL2AzZizj3zzgsJzC) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 4:43 | 2024-02-16 |  |

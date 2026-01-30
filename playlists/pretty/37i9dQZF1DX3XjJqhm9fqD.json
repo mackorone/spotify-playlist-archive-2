@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Na\u00efka",
-  "num_followers": 99156,
+  "num_followers": 99175,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -663,26 +663,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Clueless (with Oxlade)",
-        "url": "https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54"
-      },
-      "artists": [
-        {
-          "name": "Micha\u00ebl Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "Clueless (with Oxlade)",
-      "url": "https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Rap ap rete Rap",
         "url": "https://open.spotify.com/album/5U5GvGlNnV78o75CE86Vlk"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 236923,
       "name": "Si Yo Vle",
       "url": "https://open.spotify.com/track/1V0BrmoNx3Dp2OjPPx3DHw"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Clueless (with Oxlade)",
+        "url": "https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54"
+      },
+      "artists": [
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "Clueless (with Oxlade)",
+      "url": "https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "K\u00e8 m Nan Men w",
-        "url": "https://open.spotify.com/album/0MZfhWvePxkfAXl1JmlC76"
-      },
-      "artists": [
-        {
-          "name": "Rutshelle Guillaume",
-          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
-        }
-      ],
-      "duration_ms": 275797,
-      "name": "K\u00e8 m Nan Men w",
-      "url": "https://open.spotify.com/track/1tPhjL2a68EuAchJiG7zwJ"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Chante ap ret chante",
         "url": "https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 253208,
       "name": "Bay Vag",
       "url": "https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "K\u00e8 m Nan Men w",
+        "url": "https://open.spotify.com/album/0MZfhWvePxkfAXl1JmlC76"
+      },
+      "artists": [
+        {
+          "name": "Rutshelle Guillaume",
+          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+        }
+      ],
+      "duration_ms": 275797,
+      "name": "K\u00e8 m Nan Men w",
+      "url": "https://open.spotify.com/track/1tPhjL2a68EuAchJiG7zwJ"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -923,22 +923,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Bwa Kale",
-        "url": "https://open.spotify.com/album/6b19TYPqXNs3f4tKCSs6iU"
+        "name": "Teke Fren",
+        "url": "https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7"
       },
       "artists": [
         {
-          "name": "Tony Mix",
-          "url": "https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo"
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
         },
         {
-          "name": "T-Babas",
-          "url": "https://open.spotify.com/artist/4IeZGmKfm9Fqdtv1J2Kjjb"
+          "name": "Waahli",
+          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
         }
       ],
-      "duration_ms": 185965,
-      "name": "Bwa Kale",
-      "url": "https://open.spotify.com/track/6ITGK0FRfpKpjn3XjdUUs1"
+      "duration_ms": 177748,
+      "name": "Teke Fren",
+      "url": "https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -967,22 +967,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Teke Fren",
-        "url": "https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7"
+        "name": "Bwa Kale",
+        "url": "https://open.spotify.com/album/6b19TYPqXNs3f4tKCSs6iU"
       },
       "artists": [
         {
-          "name": "Poirier",
-          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+          "name": "Tony Mix",
+          "url": "https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo"
         },
         {
-          "name": "Waahli",
-          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
+          "name": "T-Babas",
+          "url": "https://open.spotify.com/artist/4IeZGmKfm9Fqdtv1J2Kjjb"
         }
       ],
-      "duration_ms": 177748,
-      "name": "Teke Fren",
-      "url": "https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg"
+      "duration_ms": 185965,
+      "name": "Bwa Kale",
+      "url": "https://open.spotify.com/track/6ITGK0FRfpKpjn3XjdUUs1"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Mennaj Moun Yo",
-        "url": "https://open.spotify.com/album/3v8j1bo9AMXzzc5LtHhUt7"
-      },
-      "artists": [
-        {
-          "name": "Tony Mix",
-          "url": "https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo"
-        }
-      ],
-      "duration_ms": 188035,
-      "name": "Mennaj Moun Yo",
-      "url": "https://open.spotify.com/track/2A8s6nWnUmtNmnMf08AW9K"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "HoneyComb",
         "url": "https://open.spotify.com/album/4qIvyWgbTjjEd32vwBycHM"
       },
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Mennaj Moun Yo",
+        "url": "https://open.spotify.com/album/3v8j1bo9AMXzzc5LtHhUt7"
+      },
+      "artists": [
+        {
+          "name": "Tony Mix",
+          "url": "https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo"
+        }
+      ],
+      "duration_ms": 188035,
+      "name": "Mennaj Moun Yo",
+      "url": "https://open.spotify.com/track/2A8s6nWnUmtNmnMf08AW9K"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Ha\u00eftian Troubadours, Vol. 1",
         "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
       },
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Cashapp Cashapp Zelle",
-        "url": "https://open.spotify.com/album/7dcwRgnRPQQo65y30WEdQo"
-      },
-      "artists": [
-        {
-          "name": "T-ANSYTO",
-          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
-        }
-      ],
-      "duration_ms": 61368,
-      "name": "Cashapp Cashapp Zelle",
-      "url": "https://open.spotify.com/track/6joLh6fVXL9vYwnUZosrnu"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Premye Fwa",
         "url": "https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 189333,
       "name": "Premye Fwa",
       "url": "https://open.spotify.com/track/0oVvKinBh6aWHfB0fUd4zs"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Cashapp Cashapp Zelle",
+        "url": "https://open.spotify.com/album/7dcwRgnRPQQo65y30WEdQo"
+      },
+      "artists": [
+        {
+          "name": "T-ANSYTO",
+          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
+        }
+      ],
+      "duration_ms": 61368,
+      "name": "Cashapp Cashapp Zelle",
+      "url": "https://open.spotify.com/track/6joLh6fVXL9vYwnUZosrnu"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Souvni",
-        "url": "https://open.spotify.com/album/5DdM9v6FJNkbxFHdDtogBv"
+        "name": "Haiti debout",
+        "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
       },
       "artists": [
         {
-          "name": "Fatima Altieri",
-          "url": "https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk"
+          "name": "B\u00e9lO",
+          "url": "https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM"
         }
       ],
-      "duration_ms": 210410,
-      "name": "Souvni",
-      "url": "https://open.spotify.com/track/03By3z24GvoGL4vw99AKzY"
+      "duration_ms": 198533,
+      "name": "Kote moun yo",
+      "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Haiti debout",
-        "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
+        "name": "Souvni",
+        "url": "https://open.spotify.com/album/5DdM9v6FJNkbxFHdDtogBv"
       },
       "artists": [
         {
-          "name": "B\u00e9lO",
-          "url": "https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM"
+          "name": "Fatima Altieri",
+          "url": "https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk"
         }
       ],
-      "duration_ms": 198533,
-      "name": "Kote moun yo",
-      "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
+      "duration_ms": 210410,
+      "name": "Souvni",
+      "url": "https://open.spotify.com/track/03By3z24GvoGL4vw99AKzY"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Destine",
-        "url": "https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2"
-      },
-      "artists": [
-        {
-          "name": "Fatima Altieri",
-          "url": "https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk"
-        },
-        {
-          "name": "Jmd Tunes",
-          "url": "https://open.spotify.com/artist/0W43bPKlWhooocqSrhzTXj"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Destine",
-      "url": "https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Dekonekte",
         "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
       },
@@ -1619,6 +1599,26 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Destine",
+        "url": "https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2"
+      },
+      "artists": [
+        {
+          "name": "Fatima Altieri",
+          "url": "https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk"
+        },
+        {
+          "name": "Jmd Tunes",
+          "url": "https://open.spotify.com/artist/0W43bPKlWhooocqSrhzTXj"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Destine",
+      "url": "https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "BIDIBAM",
         "url": "https://open.spotify.com/album/0m5LrWTafT6BEg1BPe8jYI"
       },
@@ -1635,6 +1635,22 @@
       "duration_ms": 190143,
       "name": "BIDIBAM",
       "url": "https://open.spotify.com/track/0nPPHiRNgQjCdzpot8Itgf"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "FENOMENAL",
+        "url": "https://open.spotify.com/album/459nIEM8g74x2S1SWhjKYY"
+      },
+      "artists": [
+        {
+          "name": "\u00c4SHH",
+          "url": "https://open.spotify.com/artist/0I2SuBOYEBvLoVmmsNckEK"
+        }
+      ],
+      "duration_ms": 187862,
+      "name": "FENOMENAL",
+      "url": "https://open.spotify.com/track/45M1foqRYk20JvPXuDMUe5"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1691,22 +1707,6 @@
       "duration_ms": 291157,
       "name": "Down With the Gouyad (Remix)",
       "url": "https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "FENOMENAL",
-        "url": "https://open.spotify.com/album/459nIEM8g74x2S1SWhjKYY"
-      },
-      "artists": [
-        {
-          "name": "\u00c4SHH",
-          "url": "https://open.spotify.com/artist/0I2SuBOYEBvLoVmmsNckEK"
-        }
-      ],
-      "duration_ms": 187862,
-      "name": "FENOMENAL",
-      "url": "https://open.spotify.com/track/45M1foqRYk20JvPXuDMUe5"
     },
     {
       "added_at": "2025-07-25 04:00:50",

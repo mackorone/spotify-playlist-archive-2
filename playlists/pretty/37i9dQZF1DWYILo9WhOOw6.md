@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 
 > Use Delta frequencies for the best night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,867 likes - 140 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,270 likes - 140 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 | 139 | [Delta Pattern 101.0 Hz \- 103.0 Hz](https://open.spotify.com/track/6ZG23W2shJNTChsot9DZlc) | [Binaural Healing](https://open.spotify.com/artist/39LOiQkqidIYHMRLetlCsN) | [Delta Pattern Series \- Pure Sinus](https://open.spotify.com/album/6wj0JA3zY8afKCosI3PACG) | 3:04 |
 | 140 | [Binaural Delta Echoes from Nowhere](https://open.spotify.com/track/7fj1ltR4MyrtTXrfxqgX8P) | [La Perezosa](https://open.spotify.com/artist/68au8jhsM1K0frNuPzcKWI) | [Binaural Delta Echoes from Nowhere](https://open.spotify.com/album/3MxVSISceAOh1sR7mewzTV) | 2:40 |
 
-Snapshot ID: `AAAAAN7WeXpNcsrdYQ7fAME0lSwvk9Hr`
+Snapshot ID: `AAAAAGZabC9y4I1sRt0HfofbWWY0lvH0`

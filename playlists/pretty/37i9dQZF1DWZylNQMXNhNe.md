@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Bixarte
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,576 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,568 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 47 | [18 dias / 13 cm](https://open.spotify.com/track/1TZGE8ByEKYJUge6agf7T2) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [18 dias / 13 cm](https://open.spotify.com/album/3oEBnUW2q7VFXb9X7kr3ps) | 2:23 |
 | 48 | [PROFANO](https://open.spotify.com/track/1ffK3Ja0USyT2MO33OZ9ar) | [Gabriel Nandes](https://open.spotify.com/artist/6iLuIQrcWa5whMobYeBL77) | [PROFANO](https://open.spotify.com/album/561cajrN9AnuWxpesKrZMb) | 2:51 |
 | 49 | [SEREIA](https://open.spotify.com/track/3ytU0WnU96nOQDmiuOEkPC) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [LIA CLARK](https://open.spotify.com/album/1r4ULdTciiU79dFkXWhMJO) | 2:35 |
-| 50 | [Funk Triste](https://open.spotify.com/track/2AZUEqoZdB4PBEmwvywHQ3) | [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP), [Mc Bola](https://open.spotify.com/artist/4ulY4o7oEoqJlqc0V6R3Bc) | [Funk Triste](https://open.spotify.com/album/4Uuyx6mIRKziWkhaqS8pzE) | 2:52 |
-| 51 | [Sem Necessidade](https://open.spotify.com/track/3QzAkwsDY420mcBIeZh2mC) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7), [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Amor Fati](https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy) | 3:31 |
+| 50 | [Sem Necessidade](https://open.spotify.com/track/3QzAkwsDY420mcBIeZh2mC) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7), [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Amor Fati](https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy) | 3:31 |
+| 51 | [Funk Triste](https://open.spotify.com/track/2AZUEqoZdB4PBEmwvywHQ3) | [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP), [Mc Bola](https://open.spotify.com/artist/4ulY4o7oEoqJlqc0V6R3Bc) | [Funk Triste](https://open.spotify.com/album/4Uuyx6mIRKziWkhaqS8pzE) | 2:52 |
 | 52 | [na minha mente](https://open.spotify.com/track/3d417Hpt0CvBjXhB1Gyh3u) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [na minha mente](https://open.spotify.com/album/37GoCoDgWWqsGUl0NAjSLx) | 2:12 |
 | 53 | ["bb, que tal?"](https://open.spotify.com/track/1JuDwpr7FHzVIePuQ6U9wj) | [Gavi](https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw) | ["bb, que tal?"](https://open.spotify.com/album/5SpFsFkCPoLkW2a5VzqAQN) | 2:41 |
 | 54 | [Receita](https://open.spotify.com/track/2oVWlKVMpnwgMst98oAeQh) | [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa), [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP), [Madre Beatz](https://open.spotify.com/artist/4GU1CeOF51IJbREWohSNBj), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Receita](https://open.spotify.com/album/7cbSSJogZZiNcjjyYriIud) | 2:03 |

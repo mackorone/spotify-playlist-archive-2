@@ -2,9 +2,9 @@
 
 ### [HOTPOP](https://open.spotify.com/playlist/37i9dQZF1DXcklpCH5705e)
 
-> Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: Gareth.T x 攬佬SKAI ISYOURGOD
+> Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: 攬佬SKAI ISYOURGOD
 
-261 songs - 16 hr 54 min
+263 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [跳樓機 Jumping Machine](https://open.spotify.com/track/1Z3prWvaDYqY83Uwj15OHT) | [蔡恩雨 Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [跳樓機 Jumping Machine](https://open.spotify.com/album/37dc4joQlvzkJUj6uuTlpZ) | 3:03 | 2025-09-11 |  |
 | [迷湖 \(音樂永續 作品\)](https://open.spotify.com/track/0ZGpiiBfbfgKXg7VzTx8fb) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT) | [迷湖 \(音樂永續 作品\)](https://open.spotify.com/album/4jZnGsjUQP04qfUxPYyslf) | 4:07 | 2024-04-04 | 2025-04-04 |
 | [追](https://open.spotify.com/track/3uHE0cVFDFDORAVhwLqL4p) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [追](https://open.spotify.com/album/6sGJi4077dMoVi362niYP5) | 5:13 | 2023-03-16 | 2025-04-04 |
+| [追](https://open.spotify.com/track/51p4wh1TSASZUPEenUgelq) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [](https://open.spotify.com/album/null) | 4:45 | 2026-01-29 |  |
 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 | 2022-03-10 | 2023-02-03 |
 | [這麼多年](https://open.spotify.com/track/4kmr3vOJq52QS7WUh3aRyc) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [在極度愛你的日子裡](https://open.spotify.com/album/1O4zPDiUzt2SkDCWueiiBt) | 4:12 | 2025-04-03 | 2025-07-04 |
 | [過了幾天 \- 合唱版](https://open.spotify.com/track/0qjbNZYyuzPh20RksmiJ8C) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [過了幾天 \(合唱版\)](https://open.spotify.com/album/4QPASVPRUjfXR73hmxVAJa) | 4:55 | 2025-04-03 | 2025-08-15 |
@@ -249,6 +250,7 @@
 | [還你門匙 \- 2020 Music Suite Live](https://open.spotify.com/track/6fhiLQP3SHGxV6ptDgguan) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Dear Secret \(2nd edition\)](https://open.spotify.com/album/33oSpTnVlOvjODoph9vv3u) | 3:28 | 2024-04-04 | 2025-04-04 |
 | [那個下午我在舊居燒信](https://open.spotify.com/track/3MhbxjiQhfZUzvEAC6NYQc) | [PixelToy](https://open.spotify.com/artist/4Pf7S8xTCi2PmvlKrubRty) | [愛．科學](https://open.spotify.com/album/7IK6GFEJ9GawVntkX9zJHe) | 4:15 | 2024-04-04 | 2024-04-19 |
 | [那個下午我在舊居燒信](https://open.spotify.com/track/7aZi6m1EhPhLyDFsZ0nUY9) | [PixelToy](https://open.spotify.com/artist/4Pf7S8xTCi2PmvlKrubRty) | [愛．科學](https://open.spotify.com/album/05RQbvDpjorpaUYUNCOYsQ) | 4:15 | 2024-04-04 | 2025-04-04 |
+| [都知订](https://open.spotify.com/track/718dSu3kQMgpN6WzUDviEv) | [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI), [瘦恒SoulHan](https://open.spotify.com/artist/2yEM6FQHRg8FRSbQ2qNV46), [PlayerJ](https://open.spotify.com/artist/3ZROSle4RFBt5LeZbeSWko), [步步高先生](https://open.spotify.com/artist/5LMG6LAfmneyTRKhs7uu1Q), [阿牛](https://open.spotify.com/artist/7imlHyMoxRnxJpYQPqu6JO) | [都知订](https://open.spotify.com/album/5zbCQHWtSFLYDDkKHSRHpG) | 3:44 | 2026-01-29 |  |
 | [醒來發現你不在\(電影《平行青春的我們》中文主題曲\)](https://open.spotify.com/track/3mMLVZHJg20OTzZ9SoJ38j) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X) | [醒來發現你不在\(電影《平行青春的我們》中文主題曲\)](https://open.spotify.com/album/430GKv9cMlBrv51jdPmqub) | 3:28 | 2025-04-03 | 2025-07-04 |
 | [鑰匙還你](https://open.spotify.com/track/2gloLtkhS6dtpm72HtCxKQ) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX) | [鑰匙還你](https://open.spotify.com/album/1Zl3YpE95vcuX8WMSWxQCz) | 3:08 | 2025-04-03 | 2025-07-04 |
 | [陀飛輪](https://open.spotify.com/track/4Tsh6vIHx44NpJYwAnGPjj) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [無臉人音樂會@台北大河岸](https://open.spotify.com/album/2kutcuDK3bdEmFd7tHuHWg) | 4:52 | 2023-02-02 | 2025-04-04 |

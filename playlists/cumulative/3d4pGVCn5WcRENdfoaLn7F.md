@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-185 songs - 11 hr 15 min
+189 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Another Light Year](https://open.spotify.com/track/2LxPolkDBMrJHAhxOTCQXX) | [Surrounded by Spiders](https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb) | [Surrounded by Spiders](https://open.spotify.com/album/3qrkAp6ZN5rEMvvCTgDztT) | 2:24 | 2025-10-04 | 2026-01-05 |
 | [Anything Better to Do](https://open.spotify.com/track/5rk0K5Z6oyuHpP7gjlScDK) | [Feyer](https://open.spotify.com/artist/7Eu9QyMHf0nXat8KuTJJX4) | [Bridging The Gaps](https://open.spotify.com/album/1NPMdLOVMk6kqBB4DQMKfi) | 3:19 | 2026-01-17 |  |
 | [Aquella mirada](https://open.spotify.com/track/3KnPS50cVLvfJhaN8CGQUo) | [Exilio a Plutón](https://open.spotify.com/artist/0RDcwUWOCSUSxJe3mMNhqh) | [Aquella Mirada](https://open.spotify.com/album/61EmKeW5ZlfiO1Q5PI7Yw7) | 4:01 | 2025-11-11 | 2025-12-06 |
+| [Autumn in the Storm](https://open.spotify.com/track/0tB90dlegD2EegT7EE2Bii) | [Breathing Tales](https://open.spotify.com/artist/2ZFi7bp6R1cFiPxT0Q7P0I) | [Autumn in the Storm](https://open.spotify.com/album/0PEP2Y4dCNhnc71M1SC8zo) | 2:32 | 2026-01-29 |  |
 | [Back To The Void](https://open.spotify.com/track/7hKA7Lg3KfmdlFvq6wSLMF) | [Symbol Cult](https://open.spotify.com/artist/0gU1QispGh4FK7U6gwHeTQ) | [Back To The Void](https://open.spotify.com/album/4xctjWVrJGis1IAcP94Qjq) | 2:17 | 2025-11-11 | 2025-12-06 |
 | [BECAUSE OF YOU](https://open.spotify.com/track/2KUMvp09BkoZpK9vUvrSl9) | [Peterson](https://open.spotify.com/artist/75GKFnQxwp1FIBqzseSrKC) | [BECAUSE OF YOU](https://open.spotify.com/album/43uBPQfjTwvO2iwaHdqxg2) | 3:43 | 2025-12-13 | 2026-01-05 |
 | [Bewitched Doll](https://open.spotify.com/track/7FwOW5rSiix0q9yz9WYwD3) | [Vegas No.8](https://open.spotify.com/artist/1GFJDGaT9LoRap1ct1ZpMf) | [Bewitched Doll](https://open.spotify.com/album/3pbNzHfFDgN5NovxF3FhDr) | 3:22 | 2025-12-22 | 2026-01-21 |
@@ -141,6 +142,7 @@
 | [Promise](https://open.spotify.com/track/4yf68yKUyaTUXcDJBZLxcq) | [AliveTeen](https://open.spotify.com/artist/3U04ccY2KO6Va35na7FX7R) | [Promise](https://open.spotify.com/album/3JLjeDF9JXTuUnrZyMMx2v) | 3:55 | 2025-11-01 | 2025-12-06 |
 | [Psycho](https://open.spotify.com/track/5C4VAhll7W7LNMKB2rANkd) | [Weyward](https://open.spotify.com/artist/3qzChsvBEIPi9PBvoAnbr8) | [Psycho](https://open.spotify.com/album/4QpIxk7YqFvN7x7ieymSWy) | 3:31 | 2025-11-06 | 2025-12-06 |
 | [Reflection](https://open.spotify.com/track/1xHsQvCBHhiwOipWezwwGH) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Reflection](https://open.spotify.com/album/0P5h7ui3wARfSVK8I6RGo6) | 2:40 | 2025-11-13 |  |
+| [Rescue Me](https://open.spotify.com/track/3wHq81AsSq1QvLsdIhsyM8) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Rescue Me](https://open.spotify.com/album/5Omt4VUwZXFkN5xte9EqLF) | 3:50 | 2026-01-29 |  |
 | [Restauri](https://open.spotify.com/track/4nZ2qQX1UzTNe8S42fARdz) | [Pra de la fam](https://open.spotify.com/artist/6k2bdPqQ5t0CqUhssS2uKR) | [i limoni](https://open.spotify.com/album/39OzdBUVtyOrrXINCFQE8W) | 3:58 | 2025-11-04 | 2025-12-06 |
 | [Revo](https://open.spotify.com/track/3a4bk480VWQSzK4zC1rnuj) | [City Flowers](https://open.spotify.com/artist/5mbkwHChoXJjyposTKZEGS) | [The City Flowers](https://open.spotify.com/album/3ZcTTuyUCv6cdcOv0OSkcT) | 3:44 | 2026-01-24 |  |
 | [Round and Round](https://open.spotify.com/track/4efOj8t1493yAYtG38Zcfh) | [Jack Dahlqvist](https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI) | [Round and Round](https://open.spotify.com/album/7o46ngv8ldoGr7IJr73ZWk) | 3:13 | 2025-08-31 | 2026-01-05 |
@@ -170,6 +172,7 @@
 | [The Ride Down](https://open.spotify.com/track/6AMWZ9fWpN2U28a3H5a7SS) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [It Grows](https://open.spotify.com/album/1NUY4o4RVyI3Y7NXO5mMq8) | 3:57 | 2025-12-13 | 2026-01-05 |
 | [The Third Pill](https://open.spotify.com/track/6IDfASgA4RKwMSx6vrA5Fz) | [Bobby Wallisch Jr.](https://open.spotify.com/artist/3ZrBfXIxxaZcLYFs7XGWfQ), [Acid.Prof](https://open.spotify.com/artist/1fgWlAeVGsyJYk05RQK72H) | [The Third Pill](https://open.spotify.com/album/03dUhJsfcFP0k03noYf42i) | 3:50 | 2025-11-11 | 2025-12-06 |
 | [This Is How We Say Goodbye](https://open.spotify.com/track/6NbzdZrZwTzPvMySmzsdPU) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Light Switch](https://open.spotify.com/album/55iQV1wqNmicvSeYMRI0eP) | 6:55 | 2025-12-24 | 2026-01-21 |
+| [Tiempo](https://open.spotify.com/track/5Zn0k9u2eiNpmXsB3ifoqn) | [SATVRNO](https://open.spotify.com/artist/6NjxPRyyG0teb1WB0DGvCn) | [Tiempo](https://open.spotify.com/album/1boe137xgCDHPos7RCNFXy) | 3:41 | 2026-01-29 |  |
 | [Time Is A Weapon](https://open.spotify.com/track/7F0rYUVBoEV4wEFeXG070e) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Time Is A Weapon](https://open.spotify.com/album/46wy0eBBTvxxI3llxxWkAE) | 3:30 | 2026-01-28 |  |
 | [Time to Heal](https://open.spotify.com/track/6TNPl5MZg4c0lkuJbvn5Hc) | [Pin Dog](https://open.spotify.com/artist/57B5OFNTlSQZ4aofUvFRZR) | [Time to Heal](https://open.spotify.com/album/4f704M5LVep2ENY3BM7SKG) | 3:13 | 2025-12-03 | 2026-01-05 |
 | [time to part\(y\)](https://open.spotify.com/track/0ZU8QOJ00sgMaUFh7YFpm5) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [time to part\(y\)](https://open.spotify.com/album/2jCGwUJdfsyBUzO3Kr0qTD) | 2:25 | 2026-01-29 |  |
@@ -184,6 +187,7 @@
 | [Walk Through Quicksand](https://open.spotify.com/track/5Pr5NTcu6bgkcQgNabBM3b) | [Tyler Davis](https://open.spotify.com/artist/6pwJdVo23zP5HTxzVdUQQC) | [Walk Through Quicksand](https://open.spotify.com/album/2oxRmthCj3nUYYmx7xliaE) | 3:31 | 2025-11-26 | 2025-12-28 |
 | [What You've Been Told](https://open.spotify.com/track/2PC2lNfhz7LiyyjV0Ignpk) | [Dandbroom](https://open.spotify.com/artist/7eH9LgP0tS3a6TwkoEWwBI) | [What You've Been Told](https://open.spotify.com/album/4W4wS1Uoo9YnJyYzxRP0pp) | 3:11 | 2025-11-11 | 2025-12-06 |
 | [What's Wrong With You?](https://open.spotify.com/track/34xB6KsnoMR2oTSZn47aIS) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [What's Wrong With You?](https://open.spotify.com/album/493LfPZPFGetvhsX9xH3KK) | 4:20 | 2025-11-17 | 2025-12-06 |
+| [When It's Gone](https://open.spotify.com/track/6UK0nanyICljgemAndWzw8) | [Wildstreet](https://open.spotify.com/artist/5pttBZUGPhF7AcVgDke02r) | [When It's Gone](https://open.spotify.com/album/0qOCE5jm3kmYrtIKVUvhlG) | 3:53 | 2026-01-29 |  |
 | [Where Love Became a Ghost](https://open.spotify.com/track/1Tw1aEg9GMNnh5VQMiZ6hK) | [Blue Remains](https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv) | [Where Love Became a Ghost](https://open.spotify.com/album/3qYsYqWC0YnKUJIK2cVIwP) | 4:31 | 2025-12-01 | 2025-12-28 |
 | [wild](https://open.spotify.com/track/0qfls25AHT70kdvoKc4zyq) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:43 | 2025-11-11 | 2025-12-06 |
 | [World is Equal](https://open.spotify.com/track/05YK7hsS859ziFGqqyPvol) | [3syk](https://open.spotify.com/artist/6nLWTo3BGompYwZMi5MbnZ), [ugazin](https://open.spotify.com/artist/1LoZxacnWxCypwVYdkNKIS) | [World is Equal](https://open.spotify.com/album/2YDjHFunY5aJUsXrZijyUS) | 3:33 | 2025-10-30 | 2025-12-06 |

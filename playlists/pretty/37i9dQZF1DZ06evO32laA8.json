@@ -1,12 +1,12 @@
 {
   "description": "This is Isabel LaRosa. The essential tracks, all in one playlist.",
-  "num_followers": 52624,
+  "num_followers": 52614,
   "original_name": "This Is Isabel LaRosa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXgAAAAAAABGRlEcDq+xIgBPA3vNj04k",
+  "snapshot_id": "aXlRgAAAAADPRdxmjlklOZVTf2ER0nro",
   "tracks": [
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
         }
       ],
-      "duration_ms": 140374,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/5hRpKNogEPwDNdDKYYTtmJ"
+      "duration_ms": 143656,
+      "name": "Destroy Myself For You",
+      "url": "https://open.spotify.com/track/2ORzVBlYsxSlFL6moTxxxy"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
         }
       ],
-      "duration_ms": 143656,
-      "name": "Destroy Myself For You",
-      "url": "https://open.spotify.com/track/2ORzVBlYsxSlFL6moTxxxy"
+      "duration_ms": 140374,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/5hRpKNogEPwDNdDKYYTtmJ"
     }
   ],
   "unique_name": "This Is Isabel LaRosa",

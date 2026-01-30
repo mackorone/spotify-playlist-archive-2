@@ -1533,6 +1533,28 @@
     },
     {
       "album": {
+        "name": "Egotrip",
+        "url": "https://open.spotify.com/album/3iKxcGgS71n7ND8I2A3CF5"
+      },
+      "artists": [
+        {
+          "name": "John michel",
+          "url": "https://open.spotify.com/artist/7KIaXj7EsyuuYGH0z2v36h"
+        },
+        {
+          "name": "Anthony James",
+          "url": "https://open.spotify.com/artist/6PWEwhnCN7vzNi9VpXFSUp"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181558,
+      "name": "world's end",
+      "url": "https://open.spotify.com/track/5HG3zz4uGne9f9mBaxb39x"
+    },
+    {
+      "album": {
         "name": "EPIC: The Ithaca Saga (Official Concept Album)",
         "url": "https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU"
       },

@@ -701,6 +701,24 @@
     },
     {
       "album": {
+        "name": "Sugar Echoes & Satin Goodbyes",
+        "url": "https://open.spotify.com/album/1qtDeht4B95wV9RwAmM3oW"
+      },
+      "artists": [
+        {
+          "name": "The Cookies",
+          "url": "https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152786,
+      "name": "Chains",
+      "url": "https://open.spotify.com/track/4diHohiNPaJkeq7vMQ43aa"
+    },
+    {
+      "album": {
         "name": "\u30c1\u30a7\u30a4\u30f3\u30ba\u30fb\u30aa\u30d6\u30fb\u30e9\u30f4\u3001\u30c7\u30a3\u30e1\u30f3\u30b7\u30e7\u30f3\u30fb\u30a4\u30e4\u30fc\u30ba 1962-1964",
         "url": "https://open.spotify.com/album/7GJoJn6hIWoTNgYjccM0ZZ"
       },
@@ -712,7 +730,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 154173,
       "name": "CHAINS",
       "url": "https://open.spotify.com/track/6xYjG5RKGzubOElLiTIo5k"
@@ -2461,6 +2479,24 @@
     },
     {
       "album": {
+        "name": "A's, B's & EP's",
+        "url": "https://open.spotify.com/album/1GocNvETatEei10ng7bpJ9"
+      },
+      "artists": [
+        {
+          "name": "Herman's Hermits",
+          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153240,
+      "name": "I'm into Something Good",
+      "url": "https://open.spotify.com/track/4Vng7f02Hz7XvPFsC1qFjl"
+    },
+    {
+      "album": {
         "name": "Herman's Hermits Retrospective",
         "url": "https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW"
       },
@@ -2472,7 +2508,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 153506,
       "name": "I'm Into Something Good",
       "url": "https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR"

@@ -1,6 +1,6 @@
 {
   "description": "lighters up.",
-  "num_followers": 805832,
+  "num_followers": 805922,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-06-26 02:18:14",
       "album": {
-        "name": ".5: The Gray Chapter (Special Edition)",
-        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 275133,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/0GXmTWQBqvNZwpcfNeijlt"
-    },
-    {
-      "added_at": "2024-06-26 02:18:14",
-      "album": {
         "name": "The Used",
         "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 163333,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/3hccRLElirZOGOTHfCbg9p"
+    },
+    {
+      "added_at": "2024-06-26 02:18:14",
+      "album": {
+        "name": ".5: The Gray Chapter (Special Edition)",
+        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 275133,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/0GXmTWQBqvNZwpcfNeijlt"
     },
     {
       "added_at": "2024-06-26 02:18:14",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-06-26 02:18:14",
       "album": {
-        "name": "Light Me Up",
-        "url": "https://open.spotify.com/album/2vv6A1vmzEcnzaIkrKveJy"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 212186,
-      "name": "You",
-      "url": "https://open.spotify.com/track/0XaPN9mU1BgLJZhuCxzc6T"
-    },
-    {
-      "added_at": "2024-06-26 02:18:14",
-      "album": {
         "name": "Outlaw Gentlemen & Shady Ladies",
         "url": "https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 290546,
       "name": "Our Loved Ones",
       "url": "https://open.spotify.com/track/1Fekh45eTzyteap9YgmOr1"
+    },
+    {
+      "added_at": "2024-06-26 02:18:14",
+      "album": {
+        "name": "Light Me Up",
+        "url": "https://open.spotify.com/album/2vv6A1vmzEcnzaIkrKveJy"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 212186,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0XaPN9mU1BgLJZhuCxzc6T"
     },
     {
       "added_at": "2024-06-26 02:18:14",

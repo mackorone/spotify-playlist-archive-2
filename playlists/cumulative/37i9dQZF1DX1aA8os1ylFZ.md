@@ -4,7 +4,7 @@
 
 > feel the magic with the gems in r&b right now
 
-697 songs - 1 day 11 hr 53 min
+698 songs - 1 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Dream No More \(feat\. Ruel & Genesis Owusu\)](https://open.spotify.com/track/0slVzyDCYPANhtDTpzBgLZ) | [Billy Davis](https://open.spotify.com/artist/1faxe25Wp3Nk43xVVxsdSB), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Dream No More \(feat\. Ruel & Genesis Owusu\)](https://open.spotify.com/album/4ezUp3Uu9WBPK0DsbQvgGO) | 3:27 | 2021-12-16 | 2023-09-01 |
 | [Drift Away](https://open.spotify.com/track/1ulIop5lMzMh8I8lMwr5BV) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [Drift Away](https://open.spotify.com/album/49ryzSWOevlcCrnra9sI8x) | 2:27 | 2023-04-20 | 2023-08-22 |
 | [Drip](https://open.spotify.com/track/1MtWF5FUDx8cZZIDUo7fbw) | [Tamara Mneney](https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV) | [Drip](https://open.spotify.com/album/3tdrJYHelQjyttVmulOG8R) | 3:50 | 2024-11-14 | 2025-11-21 |
-| [Drive It](https://open.spotify.com/track/49U5mUkOEepn9yLtKJfYVb) | [Sky Feliz](https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O), [Lamsi](https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ) | [Drive It](https://open.spotify.com/album/2nZHtpjbbwA5D8WkyB5Rvy) | 2:21 | 2025-02-05 |  |
+| [Drive It](https://open.spotify.com/track/49U5mUkOEepn9yLtKJfYVb) | [Sky Feliz](https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O), [Lamsi](https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ) | [Drive It](https://open.spotify.com/album/2nZHtpjbbwA5D8WkyB5Rvy) | 2:21 | 2025-02-05 | 2026-01-30 |
 | [Driving Me Wild](https://open.spotify.com/track/7uVfTZjuVxiQah7iDnUrgU) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Driving Me Wild](https://open.spotify.com/album/2sClfYTlQ4XeDKox9QCVxG) | 3:02 | 2025-06-06 | 2025-12-13 |
 | [Drop In](https://open.spotify.com/track/3EawgQ7oWbOQ2vVg4Vk12j) | [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [Drop In](https://open.spotify.com/album/5mFidAy9MG3XHqIFiH8NB3) | 3:26 | 2023-11-08 | 2024-10-05 |
 | [Drunk Tank](https://open.spotify.com/track/4NZmBeRHvRSl79EkOj3pBH) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Man Makes Plans](https://open.spotify.com/album/4EoRSfnvTlf6iofV9L23PC) | 2:49 | 2023-01-12 | 2023-09-15 |
@@ -644,6 +644,7 @@
 | [Vibez](https://open.spotify.com/track/709F3MwiVvLD0LQXeKs5Cz) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Vibez](https://open.spotify.com/album/18VcdfV5jJVjn10mh0vOYt) | 2:43 | 2023-01-12 | 2023-03-23 |
 | [VICES](https://open.spotify.com/track/6XtaPHxQvhFn9p24f2tvRZ) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DISC TWO](https://open.spotify.com/album/4oLifZ7YzWlekv5sfcqmPp) | 3:03 | 2023-01-12 | 2023-09-15 |
 | [Wait for You \(feat\. Zoe Wees\)](https://open.spotify.com/track/3cMAS9DjZHrAnKvPrTIw7Z) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Wait for You \(feat\. Zoe Wees\)](https://open.spotify.com/album/7zc5uuNnGFh7krhft1b68F) | 2:33 | 2021-12-16 | 2022-01-21 |
+| [Waiting For You \(feat\. Reggie Dartey\)](https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [Waiting For You \(feat\. Reggie Dartey\)](https://open.spotify.com/album/3OP5lchVXZ5LjpmTwqk3Rt) | 3:18 | 2026-01-29 |  |
 | [Waiting On You](https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Waiting On You](https://open.spotify.com/album/03niz1guXkCijhBFZoI4iK) | 2:43 | 2024-08-01 | 2025-06-19 |
 | [Walk Like This](https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Walk Like This](https://open.spotify.com/album/6Hrl23TC9yxPxXhu4jFPqF) | 3:17 | 2025-02-05 | 2025-03-08 |
 | [WANDERER](https://open.spotify.com/track/44tPUwjtdkisODujAAp6hs) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [WANDERER](https://open.spotify.com/album/0t7A5PFJ9BEkMTjUWsqLVm) | 4:20 | 2025-02-10 | 2025-03-08 |

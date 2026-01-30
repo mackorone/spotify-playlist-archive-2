@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste pop songs. Cover: MICHA",
+  "description": "De nieuwste pop songs. Cover: Son Mieux",
   "name": "Fresh Pop",
   "tracks": [
     {
@@ -1911,6 +1911,24 @@
     },
     {
       "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/3AoxpOQGQDnYI4aTvGV6UD"
+      },
+      "artists": [
+        {
+          "name": "Jim Gardner",
+          "url": "https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153973,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/1EbPdSGUieuXiUj6pThOOP"
+    },
+    {
+      "album": {
         "name": "Better Or Worse",
         "url": "https://open.spotify.com/album/5U3pZ4BfzGzs5d4kql49QU"
       },
@@ -3568,7 +3586,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 181012,
       "name": "Close To Me",
       "url": "https://open.spotify.com/track/6AkZ0fSKRzw9CSM3oDqPsD"
@@ -4928,7 +4946,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 217008,
       "name": "Die On This Hill",
       "url": "https://open.spotify.com/track/0l72HGRQkAR0imHxvpLi8a"
@@ -5250,6 +5268,24 @@
       "duration_ms": 155687,
       "name": "Don't Wait Till Monday",
       "url": "https://open.spotify.com/track/2yOXnHStV5Jud782FOcATg"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Blame It On Me",
+        "url": "https://open.spotify.com/album/7tWMNiHjYhhW943tF7ByEe"
+      },
+      "artists": [
+        {
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181588,
+      "name": "Don\u2019t Blame It On Me",
+      "url": "https://open.spotify.com/track/5uXaxiobY7NILnt0GcbCZ4"
     },
     {
       "album": {
@@ -7926,7 +7962,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 210130,
       "name": "Goodbye For Now",
       "url": "https://open.spotify.com/track/6t62npoUwUGjrwIawdgwA5"
@@ -11236,7 +11272,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 196613,
       "name": "Ivory Tower",
       "url": "https://open.spotify.com/track/1ZboPmpBtCxdDot3g8M8sp"
@@ -13785,6 +13821,24 @@
     },
     {
       "album": {
+        "name": "MY CITY (Radio edit)",
+        "url": "https://open.spotify.com/album/2CFqRjQTbvFvaV5M6VXbUt"
+      },
+      "artists": [
+        {
+          "name": "Ty Darling",
+          "url": "https://open.spotify.com/artist/2EZ6sQxeNZGklwhOXjIYz8"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189349,
+      "name": "MY CITY - Radio edit",
+      "url": "https://open.spotify.com/track/3XqEeUvPdYHtU8U3tYqcse"
+    },
+    {
+      "album": {
         "name": "My First Heartbreak",
         "url": "https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm"
       },
@@ -13962,6 +14016,24 @@
       "duration_ms": 229203,
       "name": "Natalie",
       "url": "https://open.spotify.com/track/3axvKVVUSPSZ45ccjEF7MD"
+    },
+    {
+      "album": {
+        "name": "Natural Disaster",
+        "url": "https://open.spotify.com/album/1SqQrfSJRJZKRFi2gSoYDK"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Natural Disaster",
+      "url": "https://open.spotify.com/track/1GzENjFiUZL7O6jreawkQE"
     },
     {
       "album": {
@@ -16165,6 +16237,24 @@
     },
     {
       "album": {
+        "name": "POSSESSION",
+        "url": "https://open.spotify.com/album/6ihNq8bZ2OicMm12ZAHUip"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187483,
+      "name": "POSSESSION",
+      "url": "https://open.spotify.com/track/04ld6agKMq46IDG1THZqTe"
+    },
+    {
+      "album": {
         "name": "Potential",
         "url": "https://open.spotify.com/album/7k0D9VjRqVMbhg0uNMiq3O"
       },
@@ -16933,6 +17023,24 @@
     },
     {
       "album": {
+        "name": "Run Away",
+        "url": "https://open.spotify.com/album/3Y47VDmgWHPjzPSotTBl2I"
+      },
+      "artists": [
+        {
+          "name": "Lex Maverick",
+          "url": "https://open.spotify.com/artist/6apil1rIoQFyRHjkxHSF3k"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234469,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/3DOcuiFDVd7eZqv8z8Ug91"
+    },
+    {
+      "album": {
         "name": "Run For The Hills",
         "url": "https://open.spotify.com/album/58OjZ2IdakELiRhaZW1nRj"
       },
@@ -17229,6 +17337,24 @@
     },
     {
       "album": {
+        "name": "savior",
+        "url": "https://open.spotify.com/album/2JP5Mp4SKK352Jeb4mLrUa"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163559,
+      "name": "savior",
+      "url": "https://open.spotify.com/track/6Heo2pp06wmsxb64urcoR0"
+    },
+    {
+      "album": {
         "name": "Say My Name In Your Sleep",
         "url": "https://open.spotify.com/album/4hClukIu7dTzWcMTYT0Aoz"
       },
@@ -17418,6 +17544,24 @@
       "duration_ms": 147836,
       "name": "Self Destruction Mode",
       "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
+    },
+    {
+      "album": {
+        "name": "self-made woman",
+        "url": "https://open.spotify.com/album/5vdrn0jRVKst5tjlDo5Jpc"
+      },
+      "artists": [
+        {
+          "name": "Judith",
+          "url": "https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217916,
+      "name": "self-made woman",
+      "url": "https://open.spotify.com/track/3DX10E6qoh0IzU0AOd3WWO"
     },
     {
       "album": {
@@ -17796,7 +17940,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 204152,
       "name": "SILVER LINING",
       "url": "https://open.spotify.com/track/0aUJSGeETI4EFV5HNSujuY"
@@ -18558,7 +18702,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 177656,
       "name": "Something We Are",
       "url": "https://open.spotify.com/track/2T5RyRItxhSwFCCV7VR7LL"
@@ -18926,7 +19070,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -20391,6 +20535,24 @@
     },
     {
       "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317961,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
+    },
+    {
+      "album": {
         "name": "The Hard Way",
         "url": "https://open.spotify.com/album/52Xjyzwd2vW3fshL00SYU0"
       },
@@ -20580,7 +20742,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 152466,
       "name": "Thick Skin",
       "url": "https://open.spotify.com/track/4wPS8JGKj8iNV8zNrmwtam"
@@ -21958,7 +22120,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 213991,
       "name": "What a Woman",
       "url": "https://open.spotify.com/track/4ee5TfmRuMfAD1nMuDuEOU"

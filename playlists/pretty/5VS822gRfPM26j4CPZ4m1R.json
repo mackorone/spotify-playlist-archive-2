@@ -6,8 +6,24 @@
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAAMQTcyFe0jZqsnX9AoZ9aMOIzemEDR",
+  "snapshot_id": "AAAMR/IF1O5WzTBcuv7zZcA7GgJ69m2g",
   "tracks": [
+    {
+      "added_at": "2025-09-12 07:21:16",
+      "album": {
+        "name": "You And I",
+        "url": "https://open.spotify.com/album/7uplgyK0NYSBM0vtLK4BIE"
+      },
+      "artists": [
+        {
+          "name": "Grayson Hamm",
+          "url": "https://open.spotify.com/artist/1zQbqJWYcdrVXef2iatspr"
+        }
+      ],
+      "duration_ms": 136045,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/7jwJMpWbCm9SPrV6dqvAc7"
+    },
     {
       "added_at": "2026-01-16 08:41:44",
       "album": {
@@ -71,6 +87,26 @@
       "duration_ms": 242000,
       "name": "Real Life",
       "url": "https://open.spotify.com/track/1UQJGSxagkkt7mrEZ4OTzH"
+    },
+    {
+      "added_at": "2026-01-29 14:14:29",
+      "album": {
+        "name": "Sap in my Teeth",
+        "url": "https://open.spotify.com/album/6QFTkUsfKW3gmc51rXE4Us"
+      },
+      "artists": [
+        {
+          "name": "Boy Deco",
+          "url": "https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7"
+        },
+        {
+          "name": "Quantum Keys",
+          "url": "https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve"
+        }
+      ],
+      "duration_ms": 230839,
+      "name": "Sap in my Teeth",
+      "url": "https://open.spotify.com/track/4mw9wqfElHSmqoMDQFbma6"
     },
     {
       "added_at": "2025-11-06 10:06:32",
@@ -155,22 +191,6 @@
       "duration_ms": 222226,
       "name": "I Don't Wanna Give You Up",
       "url": "https://open.spotify.com/track/4rCZUOAzUEkgqit17eDlzi"
-    },
-    {
-      "added_at": "2025-09-12 07:21:16",
-      "album": {
-        "name": "You And I",
-        "url": "https://open.spotify.com/album/7uplgyK0NYSBM0vtLK4BIE"
-      },
-      "artists": [
-        {
-          "name": "Grayson Hamm",
-          "url": "https://open.spotify.com/artist/1zQbqJWYcdrVXef2iatspr"
-        }
-      ],
-      "duration_ms": 136045,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/7jwJMpWbCm9SPrV6dqvAc7"
     },
     {
       "added_at": "2025-11-21 08:25:06",
@@ -10351,6 +10371,38 @@
       "duration_ms": 169879,
       "name": "Bye Dummy",
       "url": "https://open.spotify.com/track/13xRpimF9gtVsB5GM8Gyjz"
+    },
+    {
+      "added_at": "2026-01-29 14:15:51",
+      "album": {
+        "name": "Gardening is a Practice, Not an Idea (Deluxe)",
+        "url": "https://open.spotify.com/album/3A5v9tb1gc0TtegtuLTk84"
+      },
+      "artists": [
+        {
+          "name": "Blacktop",
+          "url": "https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc"
+        }
+      ],
+      "duration_ms": 245017,
+      "name": "Flowers in the Garden",
+      "url": "https://open.spotify.com/track/59QMzFQooFuIhGyrHqQZMH"
+    },
+    {
+      "added_at": "2026-01-29 14:16:29",
+      "album": {
+        "name": "Presente",
+        "url": "https://open.spotify.com/album/6ZRkE4Q2fphdQ1pizokpp7"
+      },
+      "artists": [
+        {
+          "name": "Pedro Mizutani",
+          "url": "https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R"
+        }
+      ],
+      "duration_ms": 238125,
+      "name": "Presente",
+      "url": "https://open.spotify.com/track/12fmgHPWF4ljzjxdqjusuY"
     }
   ],
   "unique_name": "Nice Guys | 24/7 Radio",

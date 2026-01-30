@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "PLK au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "Ninho x Tiakola au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -486,7 +486,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 158893,
       "name": "Ainsi va la rue",
       "url": "https://open.spotify.com/track/0wTi7XDIPqOi0cBv7JGb70"
@@ -934,7 +934,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 144626,
       "name": "Big mama",
       "url": "https://open.spotify.com/track/1TXuor1bUOZQnWrksFoccd"
@@ -3045,6 +3045,24 @@
     },
     {
       "album": {
+        "name": "GMK",
+        "url": "https://open.spotify.com/album/5x8V9vBC8E2OzJqzdYZv7V"
+      },
+      "artists": [
+        {
+          "name": "WIXO & LA2S",
+          "url": "https://open.spotify.com/artist/0VWHKHfSFwUhP0cuvVUfRN"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125179,
+      "name": "GMK",
+      "url": "https://open.spotify.com/track/5yVEQgC0GuEvvEcv9D8NpG"
+    },
+    {
+      "album": {
         "name": "GOGETA",
         "url": "https://open.spotify.com/album/2OTTq3fLrommVqcfGplayX"
       },
@@ -4166,6 +4184,24 @@
       "duration_ms": 105681,
       "name": "Leo Messi",
       "url": "https://open.spotify.com/track/3YZdPvENFPytMyrnkRWm1B"
+    },
+    {
+      "album": {
+        "name": "Les bases",
+        "url": "https://open.spotify.com/album/5l9ZnhJWgIAXO8yzvHEJg2"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137803,
+      "name": "Les bases",
+      "url": "https://open.spotify.com/track/0WFSnWfJeSCMngK9El5Pb7"
     },
     {
       "album": {
@@ -5559,6 +5595,24 @@
     },
     {
       "album": {
+        "name": "NOUS#2",
+        "url": "https://open.spotify.com/album/1Rj7VCslRWBFZah7Fhhihq"
+      },
+      "artists": [
+        {
+          "name": "K2_sp",
+          "url": "https://open.spotify.com/artist/0lZe1qbPTyYFXebsbkznIh"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177867,
+      "name": "NOUS#2",
+      "url": "https://open.spotify.com/track/6RtlWji8Xzg4beZYSTkDUU"
+    },
+    {
+      "album": {
         "name": "LES DENTS DU BONHEUR",
         "url": "https://open.spotify.com/album/4jvY8C0lsRWtbxtOEOtU00"
       },
@@ -5698,7 +5752,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 132413,
       "name": "P.I.B",
       "url": "https://open.spotify.com/track/5YpjJNnPOEkTupO9Doy14b"
@@ -6054,7 +6108,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 174875,
       "name": "Pilon Gras",
       "url": "https://open.spotify.com/track/5XlGybg1q7FvuS0InAojSV"
@@ -6414,6 +6468,24 @@
       "duration_ms": 170618,
       "name": "Quand tout s'enflamme",
       "url": "https://open.spotify.com/track/04M7hgJo8KgONKo4OL91jz"
+    },
+    {
+      "album": {
+        "name": "QUE DES FAITS",
+        "url": "https://open.spotify.com/album/2gz4hATKiMzheB8IiDpCZM"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "QUE DES FAITS",
+      "url": "https://open.spotify.com/track/2RoNSwUsNMelk14j7HJ4dG"
     },
     {
       "album": {

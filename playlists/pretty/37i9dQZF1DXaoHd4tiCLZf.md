@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Ready to chic things up\. Listen to the music from Emily in Paris, streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,804 likes - 200 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,913 likes - 200 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 102 | [Mambo Italiano](https://open.spotify.com/track/058S4TvddoM07bKZo98CNi) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [The Rosemary Clooney Show: Songs From The Classic Television Series](https://open.spotify.com/album/7i6Xa0ZbQMRNQI8pFIGCiY) | 1:33 |
 | 103 | [Nolovelikeyou](https://open.spotify.com/track/5jbsIAPJ6nfNKJdxFiQ0lv) | [WEDONT](https://open.spotify.com/artist/1R51BjTIFXli8N3teyDRMe), [KENDALL](https://open.spotify.com/artist/434jqZrkiJCfsmXeptkCEZ) | [Nolovelikeyou](https://open.spotify.com/album/5Gyi9j49cj8ZtOWAkbGlhj) | 2:51 |
 | 104 | [Back to Heaven \- Les Gordon Remix](https://open.spotify.com/track/3IaeweohA51Sf8hNVeyxVP) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq), [Les Gordon](https://open.spotify.com/artist/4UqXejsLj7uwZmzQ9vkmg8) | [Back to Heaven \(Les Gordon Remix\)](https://open.spotify.com/album/7xSxEE4Wyar4RRNmx4Fxgq) | 3:01 |
-| 105 | [Mon Cheri](https://open.spotify.com/track/1OXlJgwK5GCoxPLZ8c4r5T) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [WET TENNIS](https://open.spotify.com/album/1u54eF07irCSSssyDG67R2) | 4:08 |
+| 105 | [Mon Cheri](https://open.spotify.com/track/1OXlJgwK5GCoxPLZ8c4r5T) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [WET TENNIS](https://open.spotify.com/album/1u54eF07irCSSssyDG67R2) | 4:08 |
 | 106 | [I Don't Know How \- French 79 Remix](https://open.spotify.com/track/6L0xIwnRJhTvDmrAnG5yYB) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e) | [With Julia \(Bonus Edition\)](https://open.spotify.com/album/2FOEu9ES1TOk8zumzNfh2W) | 7:05 |
 | 107 | [Un Peu d'Amour](https://open.spotify.com/track/51pcyfpMb8YF2d5NONzheW) | [Magenta Club](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Un Peu d'Amour](https://open.spotify.com/album/6oxjEeaBzvRABmCzy5JJce) | 5:31 |
 | 108 | [Se dire au revoir](https://open.spotify.com/track/0DHsp9yphS9BdAHAI64JYS) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Ce qu'il restera de nous](https://open.spotify.com/album/5O9PH4OPR3rxtpjXhMjElr) | 3:04 |

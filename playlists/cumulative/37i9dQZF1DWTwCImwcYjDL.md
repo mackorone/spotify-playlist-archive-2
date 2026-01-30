@@ -2,9 +2,9 @@
 
 ### [360 Dance](https://open.spotify.com/playlist/37i9dQZF1DWTwCImwcYjDL)
 
-> De beste dance hits\. Cover: HUGEL
+> De beste dance hits\. Cover: Dimitri Vegas & Like Mike, Marlon Hoffstadt
 
-145 songs - 7 hr 21 min
+146 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Lights](https://open.spotify.com/track/48Kgy7vzliRbcQ3GAOPbsD) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [Carlyn](https://open.spotify.com/artist/12D87T2sauvafmdyGDhu87) | [Lights](https://open.spotify.com/album/58US0k9s4PeMLsiSEnghgG) | 2:29 | 2025-07-17 | 2025-10-03 |
 | [Listen To Me](https://open.spotify.com/track/3fPXv60Pp9jLGYrjd1RoNd) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [CIEL.](https://open.spotify.com/artist/7k3cId1oZqUxRM5QgjMKJU), [Radio Cargo](https://open.spotify.com/artist/2DlWR4iwXq2J7SUpqPdQbE) | [Listen To Me](https://open.spotify.com/album/0lJlw16y8q0tfo9P6uZu5w) | 2:42 | 2026-01-08 |  |
 | [Little Lies](https://open.spotify.com/track/7gA0Lp5H34o6EF9RUkHEeU) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Little Lies](https://open.spotify.com/album/3r4Jl48LaSrHlKh0Lcqk7b) | 3:08 | 2025-09-11 |  |
+| [Locked In \(feat\. Trippie Redd\)](https://open.spotify.com/track/55oaId1IHZV9XfvHB3P7PJ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Locked In \(feat\. Trippie Redd\)](https://open.spotify.com/album/2fG4Abi890K7fZ9MnEsq9p) | 2:48 | 2026-01-29 |  |
 | [Lose Control](https://open.spotify.com/track/47tJ2hkHBQGfIaAmb3TOVi) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Lose Control](https://open.spotify.com/album/2FLmeqwB9aWaW8PArqshV2) | 3:16 | 2025-09-22 | 2025-10-24 |
 | [Losing Control](https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Losing Control](https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV) | 2:50 | 2025-08-11 | 2026-01-06 |
 | [Love On Hold](https://open.spotify.com/track/2XyjqBGEClpj4kBx6kv4kI) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Love On Hold](https://open.spotify.com/album/1fdWDM8YtbzmhIp8mMP10a) | 2:58 | 2025-09-11 | 2025-12-12 |
@@ -151,7 +152,7 @@
 | [Wonderful Days Reloaded](https://open.spotify.com/track/15CrTXlLEtKAtyNDVJeVzr) | [Charly Lownoise & Mental Theo](https://open.spotify.com/artist/5GLFbwgiU1YyAoQD8C4nvC), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Magro](https://open.spotify.com/artist/6pcRBddUXrkKkYn0bJs232) | [Wonderful Days Reloaded](https://open.spotify.com/album/1RqJBgZceR486K5x9OEQQC) | 2:58 | 2025-07-17 | 2025-08-15 |
 | [Won’t Be Possible](https://open.spotify.com/track/20kaCbdgkJRUPniPVZgsoR) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Won’t Be Possible](https://open.spotify.com/album/6AsH075qDhDhjb7S56zY7p) | 2:16 | 2025-07-17 | 2025-09-05 |
 | [Words](https://open.spotify.com/track/33J3hEIqCG8h5gF1aO0RNW) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [Words](https://open.spotify.com/album/6krAOSRDqEqEqJsicgVwCP) | 2:25 | 2026-01-22 |  |
-| [Young Forever](https://open.spotify.com/track/2aAjWdZ7TsQYvyRUzAFXmB) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Young Forever](https://open.spotify.com/album/4BOWZWwm6WVWmco0HKt80s) | 3:47 | 2025-10-23 |  |
+| [Young Forever](https://open.spotify.com/track/2aAjWdZ7TsQYvyRUzAFXmB) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Young Forever](https://open.spotify.com/album/4BOWZWwm6WVWmco0HKt80s) | 3:47 | 2025-10-23 | 2026-01-30 |
 | [⁠⁠Butterflies](https://open.spotify.com/track/129zR3hX9D2BYXOMtk2jaT) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [BARBZ](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [Butterflies](https://open.spotify.com/album/0e1KpmhEst3f1TPw8xJY8S) | 3:47 | 2025-10-02 | 2025-11-28 |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

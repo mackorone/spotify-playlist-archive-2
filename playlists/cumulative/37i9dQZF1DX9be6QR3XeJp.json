@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Lucky Iris",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Whitelands",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -2026,6 +2026,24 @@
       "duration_ms": 172461,
       "name": "God Talks Back",
       "url": "https://open.spotify.com/track/6upguv1cl65uzFbKxvruFI"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Whitelands",
+          "url": "https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187306,
+      "name": "Golden Daze",
+      "url": "https://open.spotify.com/track/2VU9L06tLFb39gip8TuEbV"
     },
     {
       "album": {

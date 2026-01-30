@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e1f\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ASIA7, \u0e1b\u0e25\u0e32\u0e22 \u0e01\u0e19\u0e01\u0e1e\u0e23",
+  "description": "\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e1f\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Three Man Down, PEEMWASU OF BUS",
   "name": "\u0e09\u0e31\u0e19\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22",
   "tracks": [
     {
@@ -2304,7 +2304,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 228397,
       "name": "\u0e19\u0e31\u0e1a\u0e2b\u0e19\u0e36\u0e48\u0e07 (From now on)",
       "url": "https://open.spotify.com/track/0hWzDHF10kCJFQ2hMg6FYX"
@@ -3698,6 +3698,28 @@
       "duration_ms": 268941,
       "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e43\u0e19\u0e27\u0e31\u0e19\u0e25\u0e32",
       "url": "https://open.spotify.com/track/1uJbdRLz38VTAXxhyXRC85"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e2a\u0e19\u0e34\u0e17 (Platonic Love) [feat. PEEMWASU OF BUS]",
+        "url": "https://open.spotify.com/album/26P69L852w82osraPlizaB"
+      },
+      "artists": [
+        {
+          "name": "Three Man Down",
+          "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
+        },
+        {
+          "name": "PEEMWASU OF BUS",
+          "url": "https://open.spotify.com/artist/5Iol3bIHuguW8mLb3KwHvE"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188414,
+      "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e2a\u0e19\u0e34\u0e17 (Platonic Love) [feat. PEEMWASU OF BUS]",
+      "url": "https://open.spotify.com/track/11ZywXk23xC8T7VOpKAbKI"
     },
     {
       "album": {

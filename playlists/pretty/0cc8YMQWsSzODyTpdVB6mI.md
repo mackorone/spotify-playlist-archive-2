@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 
 > Music around the world ✈️
 
-[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 50,051 likes - 63 songs - 3 hr 50 min
+[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 50,056 likes - 64 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,5 +71,6 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 | 61 | [Gypsy Woman \(She's Homeless\) \- House Kitsuné America](https://open.spotify.com/track/4mCk2GnFtnSGN8qzaV8xKu) | [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O) | [Gypsy Woman \(She's Homeless\) \[House Kitsuné America\]](https://open.spotify.com/album/0b1ex0LTG3T89fdnzDveVF) | 4:29 |
 | 62 | [Be with You Tonight](https://open.spotify.com/track/2opgPV5Slxx13Cu9bIaArt) | [Valère](https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs), [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [Be with You Tonight](https://open.spotify.com/album/5ekFu16M8ZCHl1zsLFqd6o) | 3:39 |
 | 63 | [Jackie B](https://open.spotify.com/track/6AriBfTagIjKVUov3WEwOa) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [JOSEPH \(CH\)](https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Jackie B](https://open.spotify.com/album/6bl2DvR8JpxauHqG7PjOmg) | 3:37 |
+| 64 | [Come Inside](https://open.spotify.com/track/6ut6DhY4PU8WTxDCylYR7p) | [Chopper \(UK\)](https://open.spotify.com/artist/3gjul6vtKTcNHsTwr87dIK) | [Come Inside](https://open.spotify.com/album/7GTVtTT8Myhphmnggl0rMo) | 3:36 |
 
-Snapshot ID: `AAAMr4KBEzn/oWGcbdTB4OD3jqIbTUTR`
+Snapshot ID: `AAAMsK+ATjR4fHtZ1hDa+f4GNyas+vHP`

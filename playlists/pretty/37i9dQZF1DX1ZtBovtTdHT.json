@@ -1,6 +1,6 @@
 {
   "description": "Legendary euro- trance & progressive tracks  from the 90s and 00s.",
-  "num_followers": 210728,
+  "num_followers": 210756,
   "original_name": "Dreamy Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2025-08-05 12:50:19",
       "album": {
+        "name": "At The Rebels Room",
+        "url": "https://open.spotify.com/album/10kMItbeNNucdGw3RiKgci"
+      },
+      "artists": [
+        {
+          "name": "Antiloop",
+          "url": "https://open.spotify.com/artist/5a2Kj8Jq5yZV1GxUKqCRdK"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "Believe - Radio Version",
+      "url": "https://open.spotify.com/track/5YoPqsi7hkinkyrdQSgrkK"
+    },
+    {
+      "added_at": "2025-08-05 12:50:19",
+      "album": {
         "name": "Best of Vincent de Moor",
         "url": "https://open.spotify.com/album/3XtzJqPBCBP5eNb32tGbBe"
       },
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2025-08-05 12:50:19",
       "album": {
-        "name": "Cantaditas De Luxe Vol.2",
-        "url": "https://open.spotify.com/album/0sW0as9QkiOIcN9VUrrgcI"
-      },
-      "artists": [
-        {
-          "name": "Ian van Dahl",
-          "url": "https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ"
-        }
-      ],
-      "duration_ms": 390600,
-      "name": "Will I (Extended Mix)",
-      "url": "https://open.spotify.com/track/1FLZTa9FqdMOAi3HL5q0SJ"
-    },
-    {
-      "added_at": "2025-08-05 12:50:19",
-      "album": {
         "name": "La Cream",
         "url": "https://open.spotify.com/album/6QfZW2wYR43ZpVVXruPbpQ"
       },
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2025-08-05 12:50:19",
       "album": {
-        "name": "At The Rebels Room",
-        "url": "https://open.spotify.com/album/10kMItbeNNucdGw3RiKgci"
+        "name": "Cantaditas De Luxe Vol.2",
+        "url": "https://open.spotify.com/album/0sW0as9QkiOIcN9VUrrgcI"
       },
       "artists": [
         {
-          "name": "Antiloop",
-          "url": "https://open.spotify.com/artist/5a2Kj8Jq5yZV1GxUKqCRdK"
+          "name": "Ian van Dahl",
+          "url": "https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ"
         }
       ],
-      "duration_ms": 206053,
-      "name": "Believe - Radio Version",
-      "url": "https://open.spotify.com/track/5YoPqsi7hkinkyrdQSgrkK"
+      "duration_ms": 390600,
+      "name": "Will I (Extended Mix)",
+      "url": "https://open.spotify.com/track/1FLZTa9FqdMOAi3HL5q0SJ"
     },
     {
       "added_at": "2025-08-05 12:50:19",

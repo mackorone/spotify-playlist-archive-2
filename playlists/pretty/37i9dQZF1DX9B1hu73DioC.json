@@ -1,6 +1,6 @@
 {
   "description": "put it on and let it play. ",
-  "num_followers": 883834,
+  "num_followers": 883883,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2026-01-16 05:00:36",
       "album": {
-        "name": "Olivia Dean - Spotify Live Room",
-        "url": "https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "The Dress (Dijon Cover) (Live) - Spotify Live Room",
-      "url": "https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX"
-    },
-    {
-      "added_at": "2026-01-16 05:00:36",
-      "album": {
         "name": "ZUSHI",
         "url": "https://open.spotify.com/album/6awMz5xtEk8XSlID98YfMv"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 87115,
       "name": "9",
       "url": "https://open.spotify.com/track/5JXtkWtuqS8Dm8sKbtPGWa"
+    },
+    {
+      "added_at": "2026-01-16 05:00:36",
+      "album": {
+        "name": "Olivia Dean - Spotify Live Room",
+        "url": "https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "The Dress (Dijon Cover) (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX"
     },
     {
       "added_at": "2026-01-16 05:00:36",
@@ -279,18 +279,22 @@
     {
       "added_at": "2026-01-16 05:00:36",
       "album": {
-        "name": "Small Change",
-        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
       "artists": [
         {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 165020,
-      "name": "Small Change",
-      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
+      "duration_ms": 310553,
+      "name": "Mariella",
+      "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
     },
     {
       "added_at": "2026-01-16 05:00:36",
@@ -315,22 +319,18 @@
     {
       "added_at": "2026-01-16 05:00:36",
       "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+        "name": "Small Change",
+        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
         }
       ],
-      "duration_ms": 310553,
-      "name": "Mariella",
-      "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
+      "duration_ms": 165020,
+      "name": "Small Change",
+      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
     },
     {
       "added_at": "2026-01-16 05:00:36",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-01-16 05:00:36",
       "album": {
-        "name": "Shelly 2",
-        "url": "https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX"
-      },
-      "artists": [
-        {
-          "name": "Shelly",
-          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
-        }
-      ],
-      "duration_ms": 228692,
-      "name": "Cross Your Mind",
-      "url": "https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84"
-    },
-    {
-      "added_at": "2026-01-16 05:00:36",
-      "album": {
         "name": "Waiting to Spill",
         "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 197746,
       "name": "Snowbank Blues",
       "url": "https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln"
+    },
+    {
+      "added_at": "2026-01-16 05:00:36",
+      "album": {
+        "name": "Shelly 2",
+        "url": "https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX"
+      },
+      "artists": [
+        {
+          "name": "Shelly",
+          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
+        }
+      ],
+      "duration_ms": 228692,
+      "name": "Cross Your Mind",
+      "url": "https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84"
     },
     {
       "added_at": "2026-01-16 05:00:36",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-01-16 05:00:36",
       "album": {
+        "name": "Sonido C\u00f3smico",
+        "url": "https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 278862,
+      "name": "It\u2019s All In Your Mind",
+      "url": "https://open.spotify.com/track/6i6zi5TgXuKUxooOMqhKfQ"
+    },
+    {
+      "added_at": "2026-01-16 05:00:36",
+      "album": {
         "name": "Back on 74 (Full Crate Remix)",
         "url": "https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD"
       },
@@ -1035,18 +1051,18 @@
     {
       "added_at": "2026-01-16 05:00:36",
       "album": {
-        "name": "Sonido C\u00f3smico",
-        "url": "https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t"
+        "name": "every day is a game",
+        "url": "https://open.spotify.com/album/7r1igo5Ea58ReRVLPXfa2e"
       },
       "artists": [
         {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
         }
       ],
-      "duration_ms": 278862,
-      "name": "It\u2019s All In Your Mind",
-      "url": "https://open.spotify.com/track/6i6zi5TgXuKUxooOMqhKfQ"
+      "duration_ms": 249687,
+      "name": "every day is a game",
+      "url": "https://open.spotify.com/track/64ircYoqL31h8dhGPpiUYO"
     },
     {
       "added_at": "2026-01-16 05:00:36",
@@ -1063,22 +1079,6 @@
       "duration_ms": 124743,
       "name": "hospital beach",
       "url": "https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ"
-    },
-    {
-      "added_at": "2026-01-16 05:00:36",
-      "album": {
-        "name": "every day is a game",
-        "url": "https://open.spotify.com/album/7r1igo5Ea58ReRVLPXfa2e"
-      },
-      "artists": [
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 249687,
-      "name": "every day is a game",
-      "url": "https://open.spotify.com/track/64ircYoqL31h8dhGPpiUYO"
     },
     {
       "added_at": "2026-01-16 05:00:36",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-01-16 05:00:36",
       "album": {
-        "name": "Prism",
-        "url": "https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n"
-      },
-      "artists": [
-        {
-          "name": "Say She She",
-          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
-        }
-      ],
-      "duration_ms": 232477,
-      "name": "Prism",
-      "url": "https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk"
-    },
-    {
-      "added_at": "2026-01-16 05:00:36",
-      "album": {
         "name": "Guitar",
         "url": "https://open.spotify.com/album/2T7O7QJnesN3l3iPX1NAZY"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 110173,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/5A6xiYvuRA76qdjr5fjjGw"
+    },
+    {
+      "added_at": "2026-01-16 05:00:36",
+      "album": {
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "duration_ms": 232477,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk"
     },
     {
       "added_at": "2026-01-16 05:00:36",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-01-16 05:00:36",
       "album": {
-        "name": "My Fun",
-        "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 162291,
-      "name": "My Fun",
-      "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
-    },
-    {
-      "added_at": "2026-01-16 05:00:36",
-      "album": {
         "name": "Wah!!!",
         "url": "https://open.spotify.com/album/1q1Cf1A3LYKZv9q6B0YTQv"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 231202,
       "name": "Magic Number (\u9b54\u6cd5\u6570\u5b57)",
       "url": "https://open.spotify.com/track/6pB4kJ4eRa0sJMUtplqekk"
+    },
+    {
+      "added_at": "2026-01-16 05:00:36",
+      "album": {
+        "name": "My Fun",
+        "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 162291,
+      "name": "My Fun",
+      "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
     },
     {
       "added_at": "2026-01-16 05:00:36",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-01-16 05:00:36",
       "album": {
-        "name": "portals//polarities",
-        "url": "https://open.spotify.com/album/3J8mi01ldw6yQef6XnNVEb"
-      },
-      "artists": [
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 256481,
-      "name": "leave it all behind, Mike",
-      "url": "https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK"
-    },
-    {
-      "added_at": "2026-01-16 05:00:36",
-      "album": {
         "name": "Sway",
         "url": "https://open.spotify.com/album/1JNUJFzL4rVRcCD9EhezeH"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 173493,
       "name": "Petals",
       "url": "https://open.spotify.com/track/03wsGqokGoNDJNEkkwoaQ3"
+    },
+    {
+      "added_at": "2026-01-16 05:00:36",
+      "album": {
+        "name": "portals//polarities",
+        "url": "https://open.spotify.com/album/3J8mi01ldw6yQef6XnNVEb"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "duration_ms": 256481,
+      "name": "leave it all behind, Mike",
+      "url": "https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK"
     },
     {
       "added_at": "2026-01-16 05:00:36",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-01-16 05:00:36",
       "album": {
-        "name": "Come Over And Love Me",
-        "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "Come Over And Love Me",
-      "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
-    },
-    {
-      "added_at": "2026-01-16 05:00:36",
-      "album": {
         "name": "Santa Catalina",
         "url": "https://open.spotify.com/album/6wv8zT8vG5EICl083UHoVm"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 235000,
       "name": "Driving South",
       "url": "https://open.spotify.com/track/1Mp50vmIphq9ui2UUJoX3m"
+    },
+    {
+      "added_at": "2026-01-16 05:00:36",
+      "album": {
+        "name": "Come Over And Love Me",
+        "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "Come Over And Love Me",
+      "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
     },
     {
       "added_at": "2026-01-16 05:00:36",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-01-16 05:00:36",
       "album": {
-        "name": "The Passionate Ones",
-        "url": "https://open.spotify.com/album/5Y3SsoA0yibZh5946vXgKS"
-      },
-      "artists": [
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
-        }
-      ],
-      "duration_ms": 242240,
-      "name": "Automatic Love",
-      "url": "https://open.spotify.com/track/6TLEg0rUFLH0EF9CYfRJ7B"
-    },
-    {
-      "added_at": "2026-01-16 05:00:36",
-      "album": {
         "name": "Ridin' (Deluxe)",
         "url": "https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 233051,
       "name": "Dreamin'",
       "url": "https://open.spotify.com/track/05RVHlafuc1NMa2ci1GS0U"
+    },
+    {
+      "added_at": "2026-01-16 05:00:36",
+      "album": {
+        "name": "The Passionate Ones",
+        "url": "https://open.spotify.com/album/5Y3SsoA0yibZh5946vXgKS"
+      },
+      "artists": [
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "duration_ms": 242240,
+      "name": "Automatic Love",
+      "url": "https://open.spotify.com/track/6TLEg0rUFLH0EF9CYfRJ7B"
     },
     {
       "added_at": "2026-01-16 05:00:36",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-01-16 05:00:36",
       "album": {
-        "name": "Wish I Didn't Love You",
-        "url": "https://open.spotify.com/album/34vTtupIaQm34PykFukGsh"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 231739,
-      "name": "Wish I Didn't Love You",
-      "url": "https://open.spotify.com/track/0Rt2l1jZY1l63z4XpRNzeH"
-    },
-    {
-      "added_at": "2026-01-16 05:00:36",
-      "album": {
         "name": "Slow Burn",
         "url": "https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 246836,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE"
+    },
+    {
+      "added_at": "2026-01-16 05:00:36",
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "duration_ms": 247588,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT"
     }
   ],
   "unique_name": "Indie Chillout",

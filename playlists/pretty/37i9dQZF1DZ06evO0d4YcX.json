@@ -1,12 +1,12 @@
 {
   "description": "This is Amber Mark. The essential tracks, all in one playlist.",
-  "num_followers": 15867,
+  "num_followers": 15870,
   "original_name": "This Is Amber Mark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXgAAAAAAAAWogYgR9xRKQ3EMnilbKNp",
+  "snapshot_id": "aXlRgAAAAABS5tQxcxEL+Z6aBmlJyQow",
   "tracks": [
     {
       "added_at": null,
@@ -118,11 +118,15 @@
         {
           "name": "Amber Mark",
           "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 174663,
-      "name": "By The End of the Night",
-      "url": "https://open.spotify.com/track/1oQSC1YHdh3UhkGVmtuln7"
+      "duration_ms": 218472,
+      "name": "Don't Remind Me (with Anderson .Paak)",
+      "url": "https://open.spotify.com/track/1kUJ7401ShEYzAgdTfg2Dp"
     },
     {
       "added_at": null,
@@ -182,15 +186,11 @@
         {
           "name": "Amber Mark",
           "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 218472,
-      "name": "Don't Remind Me (with Anderson .Paak)",
-      "url": "https://open.spotify.com/track/1kUJ7401ShEYzAgdTfg2Dp"
+      "duration_ms": 174663,
+      "name": "By The End of the Night",
+      "url": "https://open.spotify.com/track/1oQSC1YHdh3UhkGVmtuln7"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thong Song",
-        "url": "https://open.spotify.com/album/4CrHIfVovsebAWVsrLEtIt"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 211655,
-      "name": "Thong Song",
-      "url": "https://open.spotify.com/track/52dyJ3VDZFuvTKH95UGwa2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "3:33am",
         "url": "https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 277151,
       "name": "Monsoon",
       "url": "https://open.spotify.com/track/04G8U1rkNbiiLNsWo2doW2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thong Song",
+        "url": "https://open.spotify.com/album/4CrHIfVovsebAWVsrLEtIt"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 211655,
+      "name": "Thong Song",
+      "url": "https://open.spotify.com/track/52dyJ3VDZFuvTKH95UGwa2"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "3:33am",
+        "url": "https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 229384,
+      "name": "Can You Hear Me?",
+      "url": "https://open.spotify.com/track/7EylApIgCvOGodzaRV35Hy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAKER'S DESIGN",
         "url": "https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 209773,
       "name": "GODDESS REIGN",
       "url": "https://open.spotify.com/track/1PTYb9Ta9dBHSXexc9etic"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "3:33am",
-        "url": "https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 229384,
-      "name": "Can You Hear Me?",
-      "url": "https://open.spotify.com/track/7EylApIgCvOGodzaRV35Hy"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "3:33am",
+        "url": "https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 205845,
+      "name": "S P A C E",
+      "url": "https://open.spotify.com/track/5qbNuYdT99BCBM8KwVNVW5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Generous",
         "url": "https://open.spotify.com/album/0TCR8wB4v4fstHa3CJmZG4"
       },
@@ -671,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "3:33am",
-        "url": "https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i"
+        "name": "Lovely Day",
+        "url": "https://open.spotify.com/album/4OI5GHBHHCUHYiKDntOiAy"
       },
       "artists": [
         {
@@ -680,9 +696,9 @@
           "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 205845,
-      "name": "S P A C E",
-      "url": "https://open.spotify.com/track/5qbNuYdT99BCBM8KwVNVW5"
+      "duration_ms": 180839,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/4kx8ErC9E73WvzjZYBXjiO"
     },
     {
       "added_at": null,
@@ -703,22 +719,6 @@
       "duration_ms": 272736,
       "name": "Like A Hunger",
       "url": "https://open.spotify.com/track/7lgZSvDebog8YgblEudPYA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lovely Day",
-        "url": "https://open.spotify.com/album/4OI5GHBHHCUHYiKDntOiAy"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 180839,
-      "name": "Lovely Day",
-      "url": "https://open.spotify.com/track/4kx8ErC9E73WvzjZYBXjiO"
     },
     {
       "added_at": null,

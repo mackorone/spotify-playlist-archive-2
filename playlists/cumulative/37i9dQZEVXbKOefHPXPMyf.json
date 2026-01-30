@@ -3136,7 +3136,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 215858,
       "name": "AIZO",
       "url": "https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9"
@@ -9262,6 +9262,28 @@
       "duration_ms": 158597,
       "name": "Bien Te Va - Remix",
       "url": "https://open.spotify.com/track/3PFzywU250T4punPFDNzW5"
+    },
+    {
+      "album": {
+        "name": "\u00bfD\u00f3nde Es El After?",
+        "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172853,
+      "name": "Bienvenidos A La Tierra",
+      "url": "https://open.spotify.com/track/4xDTwjCmUFh6P5fsiJdvwU"
     },
     {
       "album": {
@@ -17220,7 +17242,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 288319,
       "name": "Cuando estoy contigo",
       "url": "https://open.spotify.com/track/7Bwe9nCxA8ejqNNFL0e3wz"
@@ -25238,7 +25260,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 269960,
       "name": "Eres la herida m\u00e1s bonita",
       "url": "https://open.spotify.com/track/516E1cUXyiGvy2xAOmwLln"
@@ -31972,6 +31994,24 @@
       "duration_ms": 152734,
       "name": "Hecho para ti",
       "url": "https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o"
+    },
+    {
+      "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160966,
+      "name": "HELICOPTER",
+      "url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
     },
     {
       "album": {
@@ -46170,7 +46210,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 214399,
       "name": "Mer\u00e9",
       "url": "https://open.spotify.com/track/7m2ZdJo5lzQ9tDwDcymFcb"
@@ -49504,7 +49544,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 156888,
       "name": "MURAKAMI",
       "url": "https://open.spotify.com/track/5JVUhvcanHXMOL6y3HsvNN"
@@ -67350,7 +67390,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 215959,
       "name": "Sin Maquillaje",
       "url": "https://open.spotify.com/track/5jEyu0nTEGmpWv3QVWRx4m"

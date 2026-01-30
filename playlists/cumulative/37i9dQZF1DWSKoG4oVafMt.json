@@ -785,6 +785,28 @@
     },
     {
       "album": {
+        "name": "Akhar (From \"Lahoriye\" Soundtrack)",
+        "url": "https://open.spotify.com/album/1nwzS3ExyalVHefM7xi6NF"
+      },
+      "artists": [
+        {
+          "name": "Amrinder Gill",
+          "url": "https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh"
+        },
+        {
+          "name": "Jatinder Shah",
+          "url": "https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220144,
+      "name": "Akhar (From \"Lahoriye\" Soundtrack)",
+      "url": "https://open.spotify.com/track/5wLPUrdQl4XSB3Kra3LQsA"
+    },
+    {
+      "album": {
         "name": "Akhian Nimanian (From \"Annhi Dea Mazaak Ae\")",
         "url": "https://open.spotify.com/album/3bg4t9VQgDSdxdzFNdkV3i"
       },
@@ -4092,11 +4114,15 @@
         {
           "name": "Bir",
           "url": "https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N"
+        },
+        {
+          "name": "Daaku",
+          "url": "https://open.spotify.com/artist/0Gk0DXsojuXvKXROsCbO0e"
         }
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 206512,
       "name": "Deewane",
       "url": "https://open.spotify.com/track/0S4PcH3EYQYIeLs6nLOpF1"
@@ -5222,7 +5248,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 212470,
       "name": "Do You Know",
       "url": "https://open.spotify.com/track/3kKfPlamJ5CO6j9tA4RdyS"
@@ -10682,7 +10708,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 195497,
       "name": "Khayaal",
       "url": "https://open.spotify.com/track/6svcE8rQIxXvAaVgUP6eej"
@@ -11886,7 +11912,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 198000,
       "name": "Last Meet",
       "url": "https://open.spotify.com/track/7KGMbLgn31ZG5ervICRsXW"
@@ -12597,6 +12623,28 @@
     },
     {
       "album": {
+        "name": "Love Ya",
+        "url": "https://open.spotify.com/album/4VkH37VVMJ2geNURWVg1W7"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161880,
+      "name": "Love Ya",
+      "url": "https://open.spotify.com/track/5RWZ6TVZ0HeFTdRWu3VQ7w"
+    },
+    {
+      "album": {
         "name": "Lover Boy",
         "url": "https://open.spotify.com/album/0rWSXr04dWeGS734TamIOF"
       },
@@ -12908,7 +12956,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 212210,
       "name": "Mahiya",
       "url": "https://open.spotify.com/track/14dckcTZuw0tj08vb8tcuA"
@@ -13852,6 +13900,24 @@
       "duration_ms": 163523,
       "name": "Midnight Call",
       "url": "https://open.spotify.com/track/37Uxo75YZUGjCfV1WnZE4k"
+    },
+    {
+      "album": {
+        "name": "Angrej (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3qjeffUgYZEgUHEt1co56e"
+      },
+      "artists": [
+        {
+          "name": "Amrinder Gill",
+          "url": "https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218941,
+      "name": "Mil Ke Baithange",
+      "url": "https://open.spotify.com/track/4JLvkVwrKyNaSprzhNmqmW"
     },
     {
       "album": {
@@ -15438,7 +15504,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 156000,
       "name": "No Remorse",
       "url": "https://open.spotify.com/track/2xZj1d20TymS0t7jqskeCr"
@@ -15790,7 +15856,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 121600,
       "name": "Pahaadan",
       "url": "https://open.spotify.com/track/7xgDGBDYXZuGoSXlADVqLT"
@@ -17766,7 +17832,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 278474,
       "name": "Ranjheya Ve",
       "url": "https://open.spotify.com/track/5J9L7IbadCt0ivs9xmNrr0"
@@ -21772,7 +21838,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-11",
+      "date_removed": null,
       "duration_ms": 220800,
       "name": "Tere Bina Na Guzara E",
       "url": "https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN"
@@ -22948,6 +23014,28 @@
       "duration_ms": 227976,
       "name": "Uchiyaan Dewaraan",
       "url": "https://open.spotify.com/track/1CYn0jiSz0gubTpYJbuTMS"
+    },
+    {
+      "album": {
+        "name": "Lekh (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/21GFtO2lpsbV44AuGSd9l3"
+      },
+      "artists": [
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243946,
+      "name": "Udd Gaya",
+      "url": "https://open.spotify.com/track/4fn3R0d6DgzJeYYrwON8OA"
     },
     {
       "album": {
@@ -24368,7 +24456,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 179469,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/5DKaO8NUYB0nIThR0dw7xy"

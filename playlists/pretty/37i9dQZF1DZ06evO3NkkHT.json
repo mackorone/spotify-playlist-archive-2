@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 75659,
+  "num_followers": 75731,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXgAAAAAAABQam1fu4MD/x02x9x+EMtk",
+  "snapshot_id": "aXlRgAAAAACkCdgoy8B6JKaqmoxXNP6K",
   "tracks": [
     {
       "added_at": null,
@@ -351,26 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy",
-        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Pray Hard (feat. Luke Combs)",
-      "url": "https://open.spotify.com/track/6p6iLtRA7a93kXhkomJUPo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cottonwood 2 (Deluxe 2.0)",
         "url": "https://open.spotify.com/album/1ugjPDt5OYUeYmwYkgqEfQ"
       },
@@ -391,18 +371,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr.Trouble",
-        "url": "https://open.spotify.com/album/32x6rKzX540RpFKMLfFWBd"
+        "name": "I Hope You're Happy",
+        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
       },
       "artists": [
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 122000,
-      "name": "Mr.Trouble",
-      "url": "https://open.spotify.com/track/4Yicqjumhd4OdKGTu7zNGn"
+      "duration_ms": 126000,
+      "name": "Pray Hard (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/6p6iLtRA7a93kXhkomJUPo"
     },
     {
       "added_at": null,
@@ -419,6 +403,22 @@
       "duration_ms": 213600,
       "name": "Primetime",
       "url": "https://open.spotify.com/track/59KVCenC1HM8IXeHmY19nK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr.Trouble",
+        "url": "https://open.spotify.com/album/32x6rKzX540RpFKMLfFWBd"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Mr.Trouble",
+      "url": "https://open.spotify.com/track/4Yicqjumhd4OdKGTu7zNGn"
     },
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/0zLMp5cTwpAVp4QikmvOfF"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Ro$ama",
-          "url": "https://open.spotify.com/artist/7pw5j6dSDGQ9uYwATsdhdi"
-        }
-      ],
-      "duration_ms": 226063,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/1toXLw1ovkDGC9bIQEn4RR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Hope You're Happy (Commentary Version)",
         "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 173333,
       "name": "Box Me Up (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/19DC6pFSlhbKG77yG40dQO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/0zLMp5cTwpAVp4QikmvOfF"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/7pw5j6dSDGQ9uYwATsdhdi"
+        }
+      ],
+      "duration_ms": 226063,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/1toXLw1ovkDGC9bIQEn4RR"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TAKE CARE (DELUXE)",
-        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 124480,
-      "name": "Life of a Boss",
-      "url": "https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMAR (Deluxe)",
         "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
       },
@@ -659,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TAKE CARE (DELUXE)",
+        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 124480,
+      "name": "Life of a Boss",
+      "url": "https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TAKE CARE",
         "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
       },
@@ -671,22 +671,6 @@
       "duration_ms": 108133,
       "name": "Therapy Session",
       "url": "https://open.spotify.com/track/6jiSIF5SOpztZFYGeJvwZv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Big Stepper",
-        "url": "https://open.spotify.com/album/0PGaC9A4FfYaIrX9jciKcr"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 130774,
-      "name": "Big Stepper",
-      "url": "https://open.spotify.com/track/0uq2cBrdJ9iHEkFHuyWPPG"
     },
     {
       "added_at": null,
@@ -739,22 +723,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boy",
-        "url": "https://open.spotify.com/album/79SKWkRmNKk5wdJAR2uPSe"
+        "name": "Big Stepper",
+        "url": "https://open.spotify.com/album/0PGaC9A4FfYaIrX9jciKcr"
       },
       "artists": [
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Big Yavo",
-          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
         }
       ],
-      "duration_ms": 132537,
-      "name": "Boy",
-      "url": "https://open.spotify.com/track/746X8HvYnbrMIqHl9R4QP1"
+      "duration_ms": 130774,
+      "name": "Big Stepper",
+      "url": "https://open.spotify.com/track/0uq2cBrdJ9iHEkFHuyWPPG"
     },
     {
       "added_at": null,
@@ -775,6 +755,26 @@
       "duration_ms": 185000,
       "name": "I Hope You're Happy (feat. Darius Rucker)",
       "url": "https://open.spotify.com/track/3FPOy3zOKPMf8pRWg2ukXt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boy",
+        "url": "https://open.spotify.com/album/79SKWkRmNKk5wdJAR2uPSe"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Big Yavo",
+          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
+        }
+      ],
+      "duration_ms": 132537,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/746X8HvYnbrMIqHl9R4QP1"
     },
     {
       "added_at": null,

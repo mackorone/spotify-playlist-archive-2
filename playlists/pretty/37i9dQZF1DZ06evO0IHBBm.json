@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 31229,
+  "num_followers": 31234,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXgAAAAAAADQ7sRoup50+QxP97IfW0Y2",
+  "snapshot_id": "aXlRgAAAAAA47YWC7uXIVM3a520CXLc6",
   "tracks": [
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Supera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 333162,
+      "name": "Pai, Preciso de Ti",
+      "url": "https://open.spotify.com/track/324t5ZkCfdhBxP2t6708pD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Damares (Ao Vivo)",
         "url": "https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 540720,
       "name": "O Deus que Faz (Ao Vivo)",
       "url": "https://open.spotify.com/track/5QLgebw9fQi8YI4OeZqXxW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Supera\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 333162,
-      "name": "Pai, Preciso de Ti",
-      "url": "https://open.spotify.com/track/324t5ZkCfdhBxP2t6708pD"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
       "duration_ms": 388196,
       "name": "Terceiro C\u00e9u",
       "url": "https://open.spotify.com/track/4Zs7ZtrLeVsxDNxrCqfk2I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mega Hits - Damares",
-        "url": "https://open.spotify.com/album/4f79ee5SBaI30R1oyl6P9J"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "Davi ou Mical",
-      "url": "https://open.spotify.com/track/12NuD5khzig4zV0QGXxTtR"
     },
     {
       "added_at": null,

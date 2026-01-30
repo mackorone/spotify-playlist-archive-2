@@ -4,7 +4,7 @@
 
 > This is Zudizilla\. The essential tracks, all in one playlist.
 
-131 songs - 8 hr 9 min
+132 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Sintonize](https://open.spotify.com/track/4pWyranTmpQAApnSRgNuu3) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu, Vol .1: De Onde Eu Possa Alcançar o Céu Sem Deixar o Chão](https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz) | 4:00 | 2023-09-18 |  |
 | [SKIT \(AZUL NEON\)](https://open.spotify.com/track/0ZBJ9nb3JwNdovuBYzj3cD) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Thiago Ticana](https://open.spotify.com/artist/6uSOJ1HLY5IS55ZHeArSIs) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/1LyBmcNMqiFH5KSUgTXVMT) | 2:23 | 2025-12-25 |  |
 | [SKIT \(AZUL NEON\)](https://open.spotify.com/track/2xciPs0PoOi33MxobwFUoO) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Thiago Ticana](https://open.spotify.com/artist/6uSOJ1HLY5IS55ZHeArSIs) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 2:23 | 2023-09-18 | 2025-11-27 |
-| [Smooth Operator](https://open.spotify.com/track/0o6VOSrJEiK1KqS7FXDtcK) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu, Vol .1: De Onde Eu Possa Alcançar o Céu Sem Deixar o Chão](https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz) | 5:13 | 2023-12-13 |  |
+| [Smooth Operator](https://open.spotify.com/track/0o6VOSrJEiK1KqS7FXDtcK) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu, Vol .1: De Onde Eu Possa Alcançar o Céu Sem Deixar o Chão](https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz) | 5:13 | 2023-12-13 | 2026-01-30 |
 | [Sob Controle](https://open.spotify.com/track/5tKwo5oKZXU8VdhUWNybJL) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Sob Controle](https://open.spotify.com/album/2AA45ILcKOlyYpnI9Q0fig) | 1:59 | 2023-09-18 | 2024-01-08 |
 | [SONHOS IMPERIAIS](https://open.spotify.com/track/3GwjTHW2XibPZ71Zu2lJ9w) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 5:18 | 2023-09-18 | 2025-11-26 |
 | [SONHOS IMPERIAIS](https://open.spotify.com/track/6FEWRFGL2pcK9kRaByj7Zf) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/1LyBmcNMqiFH5KSUgTXVMT) | 5:18 | 2025-11-27 |  |
@@ -126,6 +126,7 @@
 | [Tempo Ruim](https://open.spotify.com/track/1g70vYJx7zcLVeOl4uxeRc) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 3:40 | 2023-09-18 | 2025-11-26 |
 | [Tempo Ruim](https://open.spotify.com/track/2I4To8M4JvYfhfbGkwbQIZ) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/7sawPIwTZC4ObF1QopFHti) | 3:40 | 2025-11-26 |  |
 | [Thetahealing](https://open.spotify.com/track/6vHISZ6OYJIGvQgRz8qeoh) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Paula Lima](https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 2:55 | 2025-11-18 | 2025-11-25 |
+| [TUDO AGORA](https://open.spotify.com/track/3MR8sczktrcZMb5d2XMVnY) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [B.art](https://open.spotify.com/artist/6KnF0fsn6wR9fdC5MBP0vE) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/1LyBmcNMqiFH5KSUgTXVMT) | 4:50 | 2026-01-30 |  |
 | [TUDO AGORA](https://open.spotify.com/track/3pvuUaDvth5vD8GdvXK0x5) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [B.art](https://open.spotify.com/artist/6KnF0fsn6wR9fdC5MBP0vE) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 4:50 | 2024-07-04 | 2024-08-06 |
 | [TUDO CULPA DO RNB](https://open.spotify.com/track/2nggP0zfWZb8QQf47LPv2z) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [TUDO CULPA DO RNB](https://open.spotify.com/album/0bgR6sQPc0DVcL7f0f60CX) | 4:19 | 2024-03-30 |  |
 | [TUDO CULPA DO RNB](https://open.spotify.com/track/5vCZJokCi68SStDWFyGG3v) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Unicórnio](https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS) | 4:19 | 2023-11-10 | 2024-03-31 |

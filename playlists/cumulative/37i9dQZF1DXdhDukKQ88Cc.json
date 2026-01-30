@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 134857,
       "name": "BRAVO",
       "url": "https://open.spotify.com/track/2ZhWz4ZbCALY755X9fVOwj"
@@ -2244,6 +2244,24 @@
       "duration_ms": 150176,
       "name": "Den Anden Side Af Dig",
       "url": "https://open.spotify.com/track/5FLZt5NvHteXOIECfeffhH"
+    },
+    {
+      "album": {
+        "name": "DEN DER",
+        "url": "https://open.spotify.com/album/3fbfCgoBl93jV4XAsnMS8D"
+      },
+      "artists": [
+        {
+          "name": "MARQ",
+          "url": "https://open.spotify.com/artist/4Cm5pvR59CgfEcAG5wen6x"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185953,
+      "name": "DEN DER",
+      "url": "https://open.spotify.com/track/5jS29RTeFhAV5o9IxwQZC4"
     },
     {
       "album": {
@@ -3722,7 +3740,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 123789,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/1aMbgp8fbQ4rr1eKDbNYcn"
@@ -3928,6 +3946,32 @@
       "duration_ms": 219023,
       "name": "H V D O L",
       "url": "https://open.spotify.com/track/2ZMH3fAwB2VlcmPOrFMnX6"
+    },
+    {
+      "album": {
+        "name": "H.C.",
+        "url": "https://open.spotify.com/album/1btCfwzvzlMIuqb1D0sr18"
+      },
+      "artists": [
+        {
+          "name": "JEFF3",
+          "url": "https://open.spotify.com/artist/07hSeMihvB08l7F5ojpPkW"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208083,
+      "name": "H.C.",
+      "url": "https://open.spotify.com/track/7DH8FCjWuNSUBk0hXAepvo"
     },
     {
       "album": {
@@ -6322,6 +6366,24 @@
       "duration_ms": 104163,
       "name": "MOLLY",
       "url": "https://open.spotify.com/track/4XmuzEhU6LPRL4fdWqt6LU"
+    },
+    {
+      "album": {
+        "name": "Money Callin'",
+        "url": "https://open.spotify.com/album/4Ka4HOItQkbCuhUYAubEPk"
+      },
+      "artists": [
+        {
+          "name": "Benny",
+          "url": "https://open.spotify.com/artist/4ILUZ9Dq04CkO7FeKBcFfM"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172363,
+      "name": "Money Callin'",
+      "url": "https://open.spotify.com/track/6Jp35udvcavj1aXs125Cvv"
     },
     {
       "album": {
@@ -9147,6 +9209,28 @@
     },
     {
       "album": {
+        "name": "Vent P\u00e5 Mig",
+        "url": "https://open.spotify.com/album/35r8asFSRukDUjobenm0J2"
+      },
+      "artists": [
+        {
+          "name": "Zay",
+          "url": "https://open.spotify.com/artist/3JhlhYS9Xux5aLo2HzHh2Z"
+        },
+        {
+          "name": "Darsha",
+          "url": "https://open.spotify.com/artist/3CXYkk3JZTFzfMlxOLs6Ix"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169142,
+      "name": "Vent P\u00e5 Mig",
+      "url": "https://open.spotify.com/track/19AESr4lB9GpTJtJbwkTJA"
+    },
+    {
+      "album": {
         "name": "BABA BUSINESS 3",
         "url": "https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf"
       },
@@ -9350,7 +9434,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 118400,
       "name": "W",
       "url": "https://open.spotify.com/track/2DZJFfxCJZj6YZGkswBtnR"

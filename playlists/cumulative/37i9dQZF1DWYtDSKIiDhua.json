@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "R&B and good vibe tracks for your current mood. Cover: Gen Neo",
+  "description": "R&B and good vibe tracks for your current mood. Cover: Thundercat",
   "name": "mood. ",
   "tracks": [
     {
@@ -2499,6 +2499,24 @@
     },
     {
       "album": {
+        "name": "believer",
+        "url": "https://open.spotify.com/album/5oClqH0VKUdIpjT7Uaqm90"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177284,
+      "name": "believer",
+      "url": "https://open.spotify.com/track/1gr5SKmKub7VF2zNtBDHbK"
+    },
+    {
+      "album": {
         "name": "Belong To You",
         "url": "https://open.spotify.com/album/6qnuQBa0OcjhsLbe8brjNF"
       },
@@ -2608,6 +2626,24 @@
       "duration_ms": 188000,
       "name": "bet",
       "url": "https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa"
+    },
+    {
+      "album": {
+        "name": "Bet",
+        "url": "https://open.spotify.com/album/0OYistQeliN0hrwOmOUd7j"
+      },
+      "artists": [
+        {
+          "name": "Pimmie",
+          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122033,
+      "name": "Bet",
+      "url": "https://open.spotify.com/track/1mbW86eR8OhhH8fokyO961"
     },
     {
       "album": {
@@ -2912,6 +2948,24 @@
       "duration_ms": 159000,
       "name": "Blue mood",
       "url": "https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT"
+    },
+    {
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/2DC22KxWVf8Veu5ddwBOSW"
+      },
+      "artists": [
+        {
+          "name": "TY:DEL",
+          "url": "https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164050,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/75ZSTrLVy8w4pZ2AJczLvx"
     },
     {
       "album": {
@@ -4166,7 +4220,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 189481,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0hNlBVloczPifMxrGcmuOl"
@@ -5606,7 +5660,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 259142,
       "name": "Delulu",
       "url": "https://open.spotify.com/track/2BwdUAnoBIJpRPgs8vHg6K"
@@ -11517,6 +11571,28 @@
     },
     {
       "album": {
+        "name": "I Did This To Myself",
+        "url": "https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150613,
+      "name": "I Did This To Myself",
+      "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
+    },
+    {
+      "album": {
         "name": "I Don't Want To Write A Love Song",
         "url": "https://open.spotify.com/album/2YzWVdFuM0jrmoLmR82iMg"
       },
@@ -15802,7 +15878,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 214706,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/243NHDpKPqm0VqS1cxctbl"
@@ -15924,7 +16000,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 147000,
       "name": "Midnight Glow",
       "url": "https://open.spotify.com/track/4CwZroZVZp4NccU4bXLQVA"
@@ -18540,6 +18616,28 @@
       "duration_ms": 146253,
       "name": "Orange Clouds (feat. JUNNY)",
       "url": "https://open.spotify.com/track/05FOn52HhxW7HsWUx0b0Lp"
+    },
+    {
+      "album": {
+        "name": "Ordinary girl",
+        "url": "https://open.spotify.com/album/2SETwCmTEPUUoKWhtHIpT0"
+      },
+      "artists": [
+        {
+          "name": "CHUNGYOON",
+          "url": "https://open.spotify.com/artist/7ajAOl7CQF2ZIc3n23pUAr"
+        },
+        {
+          "name": "YELO",
+          "url": "https://open.spotify.com/artist/2SIjieAwLcihB5fZ7HfHmD"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Ordinary girl",
+      "url": "https://open.spotify.com/track/4Jnf1MhU7z0SwVn1L7nd4j"
     },
     {
       "album": {
@@ -21950,7 +22048,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 190451,
       "name": "SELFISH",
       "url": "https://open.spotify.com/track/5LiJslg0y8OFUJz5r5YBgV"
@@ -22500,6 +22598,24 @@
       "duration_ms": 267396,
       "name": "Siren's Call",
       "url": "https://open.spotify.com/track/0NDaoCMGgit419brBP2W1Z"
+    },
+    {
+      "album": {
+        "name": "Sisters With Me",
+        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244591,
+      "name": "Sisters With Me",
+      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
     },
     {
       "album": {
@@ -23228,7 +23344,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 226200,
       "name": "Speak",
       "url": "https://open.spotify.com/track/0XKVOYVQcLlvMHBWUmXmey"
@@ -23420,6 +23536,24 @@
       "duration_ms": 193170,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6RlPQXbYD7sJO74XRIwjf4"
+    },
+    {
+      "album": {
+        "name": "Spring Blossom",
+        "url": "https://open.spotify.com/album/6qSBrNgY0Yepd5SiBsFCXc"
+      },
+      "artists": [
+        {
+          "name": "krnb",
+          "url": "https://open.spotify.com/artist/5kW21xTx9kCwijRQ3nCYYS"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173608,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1gjF56rGrCdHJY5iUI4yNk"
     },
     {
       "album": {
@@ -24832,6 +24966,24 @@
       "duration_ms": 244650,
       "name": "Tell It To My Face",
       "url": "https://open.spotify.com/track/3BhdlvVCtfCzKFSmRQtUN4"
+    },
+    {
+      "album": {
+        "name": "tell me what you want",
+        "url": "https://open.spotify.com/album/45dogBUITG47dD11ydydgz"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236173,
+      "name": "tell me what you want",
+      "url": "https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX"
     },
     {
       "album": {
@@ -26759,6 +26911,28 @@
     },
     {
       "album": {
+        "name": "Typical",
+        "url": "https://open.spotify.com/album/0PrdhsKVovAnesjsn6JbgN"
+      },
+      "artists": [
+        {
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176020,
+      "name": "Typical",
+      "url": "https://open.spotify.com/track/4TO2RCpe9L7M4HBBdjT4O4"
+    },
+    {
+      "album": {
         "name": "u & i",
         "url": "https://open.spotify.com/album/3zXkOuXhjixpnmlavumXDh"
       },
@@ -27398,7 +27572,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 151168,
       "name": "Waiting On You",
       "url": "https://open.spotify.com/track/7erMlcXKEJg4RCWp0ry7BV"
@@ -27958,7 +28132,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 157213,
       "name": "What's On Your Mind",
       "url": "https://open.spotify.com/track/1DEJKx9IYnTMiEe1mEj9H0"

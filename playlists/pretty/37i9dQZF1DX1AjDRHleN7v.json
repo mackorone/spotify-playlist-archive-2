@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 413144,
+  "num_followers": 413281,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -275,26 +275,6 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Ant\u00eddoto Pra Todo Tipo de Veneno",
-        "url": "https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK"
-      },
-      "artists": [
-        {
-          "name": "Gabriel O Pensador",
-          "url": "https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD"
-        },
-        {
-          "name": "Armandinho",
-          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
-        }
-      ],
-      "duration_ms": 185295,
-      "name": "Liberdade",
-      "url": "https://open.spotify.com/track/3k7D91v3eUTY4yZbBwwbDZ"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
         "name": "RASTAFARI",
         "url": "https://open.spotify.com/album/63qxJ2WUYGI97N0litTHEG"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 127794,
       "name": "RASTAFARI",
       "url": "https://open.spotify.com/track/1vK57Ufl3GsX5zrT9ZiRf7"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
+        "name": "Ant\u00eddoto Pra Todo Tipo de Veneno",
+        "url": "https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK"
+      },
+      "artists": [
+        {
+          "name": "Gabriel O Pensador",
+          "url": "https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD"
+        },
+        {
+          "name": "Armandinho",
+          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+        }
+      ],
+      "duration_ms": 185295,
+      "name": "Liberdade",
+      "url": "https://open.spotify.com/track/3k7D91v3eUTY4yZbBwwbDZ"
     },
     {
       "added_at": "2026-01-09 03:01:26",

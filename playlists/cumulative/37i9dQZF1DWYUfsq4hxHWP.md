@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Country](https://open.spotify.com/playlist/37i9dQZF1DWYUfsq4hxHWP)
 
-> Fresh country music by independent artists every Wednesday\. Cover: Colton Bowlin, Artwork: Fanélie Muselier
+> Fresh country music by independent artists every Wednesday\. Cover: Brooke Lee, Artwork: Fanélie Muselier
 
 3,567 songs - 8 day 1 hr 9 min
 

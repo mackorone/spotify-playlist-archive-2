@@ -6,8 +6,24 @@
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAARBhX/Eg1FVkyUINYFwkfTJgpbDsMS",
+  "snapshot_id": "AAARCkq3R3R0wTtNTtOY7SfuvJM6Vemt",
   "tracks": [
+    {
+      "added_at": "2026-01-29 23:20:03",
+      "album": {
+        "name": "Fluent",
+        "url": "https://open.spotify.com/album/0l7YP2Nebj6PF8CTYCaNlM"
+      },
+      "artists": [
+        {
+          "name": "Sofiloud",
+          "url": "https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm"
+        }
+      ],
+      "duration_ms": 128769,
+      "name": "Fluent",
+      "url": "https://open.spotify.com/track/1Ie6i08seXm2qBYyaPyvkI"
+    },
     {
       "added_at": "2026-01-22 23:20:08",
       "album": {
@@ -51,6 +67,82 @@
       "duration_ms": 168923,
       "name": "Locked In (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/55oaId1IHZV9XfvHB3P7PJ"
+    },
+    {
+      "added_at": "2026-01-29 23:20:01",
+      "album": {
+        "name": "Turn The Lights Off (Hypaton Remix)",
+        "url": "https://open.spotify.com/album/5qeGltARRRRuAQRZFunITS"
+      },
+      "artists": [
+        {
+          "name": "Just\u0117",
+          "url": "https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key"
+        },
+        {
+          "name": "Jaxstyle",
+          "url": "https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P"
+        },
+        {
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
+        },
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        }
+      ],
+      "duration_ms": 186093,
+      "name": "Turn The Lights Off (Hypaton Remix)",
+      "url": "https://open.spotify.com/track/0sbdU6J0TXPuRcSeIa7glU"
+    },
+    {
+      "added_at": "2026-01-29 23:20:05",
+      "album": {
+        "name": "Satisfaction (with KASIA, Moonphazes, Majewski) [Remix]",
+        "url": "https://open.spotify.com/album/6R8XewqCot8PEvbAv67rXk"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "KASIA",
+          "url": "https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV"
+        },
+        {
+          "name": "Moonphazes",
+          "url": "https://open.spotify.com/artist/5B6a4tvHuhbxL5sNHRbbKH"
+        },
+        {
+          "name": "Majewski",
+          "url": "https://open.spotify.com/artist/7rddKaBLeToWjektrVnUCm"
+        }
+      ],
+      "duration_ms": 182780,
+      "name": "Satisfaction (with KASIA, Moonphazes, Majewski) - Remix",
+      "url": "https://open.spotify.com/track/2G1nZCvN2y3qhjcQR9S2ki"
+    },
+    {
+      "added_at": "2026-01-29 23:20:06",
+      "album": {
+        "name": "Khaos",
+        "url": "https://open.spotify.com/album/4E2Pw5Zc4P5Dk7U0FgTeTQ"
+      },
+      "artists": [
+        {
+          "name": "Reggio",
+          "url": "https://open.spotify.com/artist/1Q6CDBTFFKnanZ20DS2QnQ"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Khaos",
+      "url": "https://open.spotify.com/track/3DF1RaCuO2N8WHltsmpyM2"
     },
     {
       "added_at": "2026-01-22 23:20:12",

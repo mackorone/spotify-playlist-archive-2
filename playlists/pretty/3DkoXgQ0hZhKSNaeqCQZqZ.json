@@ -1,12 +1,12 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 951,
+  "num_followers": 956,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAEzlh5MKG8NfN+LkBOCEfS8yrWaFgs",
+  "snapshot_id": "AAAE0yFczkMGLe6D62j039dzo1WRytjY",
   "tracks": [
     {
       "added_at": "2026-01-27 13:35:27",
@@ -33,22 +33,6 @@
       "url": "https://open.spotify.com/track/6S0kAXCMEs0ysXHG2Ev2b4"
     },
     {
-      "added_at": "2026-01-26 07:33:04",
-      "album": {
-        "name": "The Mix-Stir Bar V2",
-        "url": "https://open.spotify.com/album/4cDCAy44vGoS129GOO5ZBy"
-      },
-      "artists": [
-        {
-          "name": "Kamex",
-          "url": "https://open.spotify.com/artist/2boudDTnAlzb00NFNXTkad"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "The Mix-Stir Bar V2",
-      "url": "https://open.spotify.com/track/6nd5Zai4IyFDXigvA6fzsD"
-    },
-    {
       "added_at": "2026-01-24 02:23:37",
       "album": {
         "name": "skeleton",
@@ -63,6 +47,42 @@
       "duration_ms": 152400,
       "name": "skeleton",
       "url": "https://open.spotify.com/track/5CpFnf53jOpKvPiOxse77C"
+    },
+    {
+      "added_at": "2026-01-29 08:24:54",
+      "album": {
+        "name": "Pollyanna",
+        "url": "https://open.spotify.com/album/2LXR2618aXK3sfnx200Blv"
+      },
+      "artists": [
+        {
+          "name": "polyana",
+          "url": "https://open.spotify.com/artist/79jK2cwnyhEvk0PBwqzrbH"
+        },
+        {
+          "name": "Pastor's Child",
+          "url": "https://open.spotify.com/artist/0c17IXceiF19D9zfy0PCag"
+        }
+      ],
+      "duration_ms": 194942,
+      "name": "bunnies",
+      "url": "https://open.spotify.com/track/20bGC5TBR7zz3bZQH7QxlI"
+    },
+    {
+      "added_at": "2026-01-26 07:33:04",
+      "album": {
+        "name": "The Mix-Stir Bar V2",
+        "url": "https://open.spotify.com/album/4cDCAy44vGoS129GOO5ZBy"
+      },
+      "artists": [
+        {
+          "name": "Kamex",
+          "url": "https://open.spotify.com/artist/2boudDTnAlzb00NFNXTkad"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "The Mix-Stir Bar V2",
+      "url": "https://open.spotify.com/track/6nd5Zai4IyFDXigvA6fzsD"
     },
     {
       "added_at": "2026-01-23 14:49:10",

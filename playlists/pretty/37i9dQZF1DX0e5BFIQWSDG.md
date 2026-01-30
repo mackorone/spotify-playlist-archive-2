@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 ### [Hot Hits Greece](https://open.spotify.com/playlist/37i9dQZF1DX0e5BFIQWSDG)
 
-> Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Ivan Greko, Michalis Karagkounis, Sin Laurent
+> Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Trannos
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,965 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,967 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 49 | [MANDELA EFFECT](https://open.spotify.com/track/00Kgg0HjZyeIDTWGWHw3kp) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [BAD BOY 3](https://open.spotify.com/album/4DXYeuH5LDPoN8MA8ZOO31) | 3:15 |
 | 50 | [EGEFALIKO](https://open.spotify.com/track/6jhNVmFLWD5LPGrpLfCw67) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [BLVD](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [EGEFALIKO](https://open.spotify.com/album/2P8Wse74JI6ohaxhKdaKcp) | 2:18 |
 
-Snapshot ID: `AAAAAFA8ZnkpdPR+yCOj9RUiZW+MnK70`
+Snapshot ID: `AAAAAHVfUmAldlX9i5XfzCMAKT/KLvyT`

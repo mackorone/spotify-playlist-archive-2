@@ -2,7 +2,7 @@
 
 ### [Hot Hits UAE](https://open.spotify.com/playlist/37i9dQZF1DXcJUwMZo8Ss1)
 
-> The hottest tracks in the UAE\. Cover: Bruno Mars
+> The hottest tracks in the UAE\. Cover: Harry Styles
 
 229 songs - 12 hr 48 min
 

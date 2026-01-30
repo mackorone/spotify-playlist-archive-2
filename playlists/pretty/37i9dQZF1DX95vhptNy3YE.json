@@ -1,6 +1,6 @@
 {
   "description": "Grupo Benzadeus, J.Eskine e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 443030,
+  "num_followers": 443012,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-01-23 03:01:12",
       "album": {
-        "name": "Fiz Quase Tudo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7qj7BH0zCD1HM9l9dzWz48"
-      },
-      "artists": [
-        {
-          "name": "Grupo Benzadeus",
-          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
-        }
-      ],
-      "duration_ms": 167925,
-      "name": "Fiz Quase Tudo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4hGOK7jRgsZAMb4w5VDnWU"
-    },
-    {
-      "added_at": "2026-01-23 03:01:12",
-      "album": {
         "name": "KM2",
         "url": "https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 139914,
       "name": "KIA",
       "url": "https://open.spotify.com/track/49mACJ1TtKpe5QKG80TwXx"
+    },
+    {
+      "added_at": "2026-01-23 03:01:12",
+      "album": {
+        "name": "Fiz Quase Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7qj7BH0zCD1HM9l9dzWz48"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        }
+      ],
+      "duration_ms": 167925,
+      "name": "Fiz Quase Tudo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4hGOK7jRgsZAMb4w5VDnWU"
     },
     {
       "added_at": "2026-01-23 03:01:12",
@@ -747,26 +747,6 @@
     {
       "added_at": "2026-01-23 03:01:12",
       "album": {
-        "name": "Interroga\u00e7\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3HfS8M29q5RU0fI83y5IIC"
-      },
-      "artists": [
-        {
-          "name": "Thais Macedo",
-          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
-        },
-        {
-          "name": "Gamadinho",
-          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
-        }
-      ],
-      "duration_ms": 171472,
-      "name": "Interroga\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/0e91TwYBNqiEAHenznkari"
-    },
-    {
-      "added_at": "2026-01-23 03:01:12",
-      "album": {
         "name": "Sem Sentimento",
         "url": "https://open.spotify.com/album/6cKl9wlnEI5KTwdBtW3FwG"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 132244,
       "name": "Sem Sentimento",
       "url": "https://open.spotify.com/track/37J7T56pGfgnQQMlAqdrGt"
+    },
+    {
+      "added_at": "2026-01-23 03:01:12",
+      "album": {
+        "name": "Interroga\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3HfS8M29q5RU0fI83y5IIC"
+      },
+      "artists": [
+        {
+          "name": "Thais Macedo",
+          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
+        },
+        {
+          "name": "Gamadinho",
+          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
+        }
+      ],
+      "duration_ms": 171472,
+      "name": "Interroga\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/0e91TwYBNqiEAHenznkari"
     },
     {
       "added_at": "2026-01-23 03:01:12",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-01-23 03:01:12",
       "album": {
+        "name": "Tudo Que Eu Sinto Faz Barulho",
+        "url": "https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 205952,
+      "name": "Doce, Dengosa, Polida",
+      "url": "https://open.spotify.com/track/00pQrAbEfRDCFbkCe9NsGM"
+    },
+    {
+      "added_at": "2026-01-23 03:01:12",
+      "album": {
         "name": "A Cara do Enquadro",
         "url": "https://open.spotify.com/album/37Ofg8E2cjJL5B4yrrmRjn"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 92389,
       "name": "Nosso Lance - Ao Vivo",
       "url": "https://open.spotify.com/track/2vMItEdBMWzJXP8KLoPMvg"
-    },
-    {
-      "added_at": "2026-01-23 03:01:12",
-      "album": {
-        "name": "Tudo Que Eu Sinto Faz Barulho",
-        "url": "https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 205952,
-      "name": "Doce, Dengosa, Polida",
-      "url": "https://open.spotify.com/track/00pQrAbEfRDCFbkCe9NsGM"
     },
     {
       "added_at": "2026-01-23 03:01:12",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: The Getdown",
+  "description": "The best jazz new releases. Cover: Dominique Fils-Aim\u00e9",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -4343,6 +4343,28 @@
     },
     {
       "album": {
+        "name": "Do it!",
+        "url": "https://open.spotify.com/album/3ZO9VQykrlnoCfBgTW2Soq"
+      },
+      "artists": [
+        {
+          "name": "Antonio Fara\u00f2",
+          "url": "https://open.spotify.com/artist/2rYbcK0bCQ3jLFfd2zr9sI"
+        },
+        {
+          "name": "St\u00e9phane Belmondo",
+          "url": "https://open.spotify.com/artist/7uHyUkVGYl24xpCzTGZlzQ"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347773,
+      "name": "Do it!",
+      "url": "https://open.spotify.com/track/5aV0D3ZrrCqKoOftm4Ad0h"
+    },
+    {
+      "album": {
         "name": "Plays Well With Others",
         "url": "https://open.spotify.com/album/1glJqGy1jDHQp6KjmV42Tv"
       },
@@ -4380,6 +4402,24 @@
       "duration_ms": 210840,
       "name": "Don't Get Me Wrong",
       "url": "https://open.spotify.com/track/0vfBaLwvkYWkmJ6OSDsDK4"
+    },
+    {
+      "album": {
+        "name": "Don't Look Down",
+        "url": "https://open.spotify.com/album/5DKt9w3jGXPagN6zIpr3bq"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 676374,
+      "name": "Don't Look Down",
+      "url": "https://open.spotify.com/track/1E3HMV57VwDkqQq9beSSUD"
     },
     {
       "album": {
@@ -4698,7 +4738,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 332896,
       "name": "ECHOES",
       "url": "https://open.spotify.com/track/3hLL1zqTIe9UlI0yxjpnZW"
@@ -7794,7 +7834,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 207280,
       "name": "India Song",
       "url": "https://open.spotify.com/track/2zuVI1rFrQDJ0PVFSB5AGM"
@@ -8142,7 +8182,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 268842,
       "name": "It\u2019s Raining",
       "url": "https://open.spotify.com/track/6p4LriYiQ7aNJWEsmc8EPq"
@@ -8972,6 +9012,36 @@
       "duration_ms": 347266,
       "name": "Lady (Ezra Collective Version)",
       "url": "https://open.spotify.com/track/7qxfxicaAE5DLMxXx0IvoG"
+    },
+    {
+      "album": {
+        "name": "Lady Day & John Coltrane (12\" Version)",
+        "url": "https://open.spotify.com/album/2ucZvZAF7EA60Gq35WPN9A"
+      },
+      "artists": [
+        {
+          "name": "Brian Jackson",
+          "url": "https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU"
+        },
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        },
+        {
+          "name": "Louie Vega",
+          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+        },
+        {
+          "name": "Rahsaan Patterson",
+          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389559,
+      "name": "Lady Day & John Coltrane - 12\" Version",
+      "url": "https://open.spotify.com/track/4iSi6VQl5LfU4m1PgW2cF4"
     },
     {
       "album": {
@@ -12408,7 +12478,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 301576,
       "name": "Over (feat. Yebba)",
       "url": "https://open.spotify.com/track/2tGruyXi5FsyP9c5yGh9gz"
@@ -17062,6 +17132,24 @@
       "duration_ms": 166124,
       "name": "Top Hat, White Tie and Tails - Live",
       "url": "https://open.spotify.com/track/6Z3xTihvELYImFc27FPdIi"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Roberto Fonseca",
+          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/2N1wJYMg2aQGH9WenUZcMq"
     },
     {
       "album": {

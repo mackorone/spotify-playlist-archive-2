@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 
 > The tracks that you love from the artists you love\. Cover: Erykah Badu
 
-[Spotify](https://open.spotify.com/user/spotify) - 589,991 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,077 likes - 100 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 | 56 | [Could It Be](https://open.spotify.com/track/1eDmhyYxYa8VG360HVPzUh) | [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Ghetto Love](https://open.spotify.com/album/2Hvu2Yh4ghgcLvYLr3V5dM) | 3:44 |
 | 57 | [So Far To Go](https://open.spotify.com/track/2404gurp1BrKCglxjiOWAR) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Finding Forever](https://open.spotify.com/album/2x9oo9t5LFQtEvfNU3UYws) | 4:27 |
 | 58 | [Never Change](https://open.spotify.com/track/3qE2w43yCbFDwkeXQsDAu6) | [Choklate](https://open.spotify.com/artist/5LdWEVbA1btfMyR7FMEjO3) | [Choklate](https://open.spotify.com/album/1vtWj7sfaMngTcgN1dICpq) | 3:50 |
-| 59 | [Blessin Me](https://open.spotify.com/track/075OkOIwlKjkMJxkfB36pt) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Avery\*sunshine Album](https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB) | 4:42 |
+| 59 | [Blessin Me](https://open.spotify.com/track/075OkOIwlKjkMJxkfB36pt) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Avery\*Sunshine](https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB) | 4:42 |
 | 60 | [Reminisce](https://open.spotify.com/track/57JKgPzcF9uyKHKVvbznR1) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [1st Born Second](https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77) | 4:33 |
 | 61 | [Spiritual Thang](https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [True to Myself](https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3) | 4:00 |
 | 62 | [Lake By the Ocean](https://open.spotify.com/track/1GWVyqmjhJkUfqaJwUk8Xi) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Lake By the Ocean](https://open.spotify.com/album/28oqEXYe0R3QgzErwhQlfA) | 3:59 |

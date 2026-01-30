@@ -2013,6 +2013,24 @@
     },
     {
       "album": {
+        "name": "Grinder Minder",
+        "url": "https://open.spotify.com/album/1SperF6SKGWOeLHv3kG5gl"
+      },
+      "artists": [
+        {
+          "name": "The Paperbags",
+          "url": "https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186687,
+      "name": "Grinder Minder",
+      "url": "https://open.spotify.com/track/7nmyUuAJDJ0O9VRF7Lv8NR"
+    },
+    {
+      "album": {
         "name": "Guerrero",
         "url": "https://open.spotify.com/album/025nIW94c2Tsf5xx1Fbhp7"
       },

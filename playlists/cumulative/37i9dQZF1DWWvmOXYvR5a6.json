@@ -13451,6 +13451,24 @@
     },
     {
       "album": {
+        "name": "Delphinium",
+        "url": "https://open.spotify.com/album/6jdlJrLRWyCnUnKUzhPG2T"
+      },
+      "artists": [
+        {
+          "name": "Royal 44",
+          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "So bad",
+      "url": "https://open.spotify.com/track/3kqZEueNSpbDnjDjniyBgy"
+    },
+    {
+      "album": {
         "name": "blur",
         "url": "https://open.spotify.com/album/7aOcvCFG0M2c0NVBq4LzyK"
       },
@@ -15204,7 +15222,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 145000,
       "name": "Traveler",
       "url": "https://open.spotify.com/track/6F8LDvBMvRi8WasuiuSfvb"

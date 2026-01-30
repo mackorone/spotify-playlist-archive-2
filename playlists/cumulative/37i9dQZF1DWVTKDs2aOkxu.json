@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best indie music of the moment. Cover: Arctic Monkeys",
+  "description": "The best indie music of the moment. Cover: JJerome87",
   "name": "The Indie List",
   "tracks": [
+    {
+      "album": {
+        "name": "other ways of landing",
+        "url": "https://open.spotify.com/album/6hixxzEVFqx8PvdE0mDz3a"
+      },
+      "artists": [
+        {
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215513,
+      "name": "(easily) moved",
+      "url": "https://open.spotify.com/track/6wK8WtrJBXGVEk0sXX6XZG"
+    },
     {
       "album": {
         "name": "SAYA",
@@ -243,6 +261,24 @@
     },
     {
       "album": {
+        "name": "5words",
+        "url": "https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl"
+      },
+      "artists": [
+        {
+          "name": "RIP Magic",
+          "url": "https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317613,
+      "name": "5words",
+      "url": "https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY"
+    },
+    {
+      "album": {
         "name": "9 2 5",
         "url": "https://open.spotify.com/album/1rLn3XFLdBGMkYThRRGtdF"
       },
@@ -452,7 +488,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 215913,
       "name": "About Leaving",
       "url": "https://open.spotify.com/track/6iraVxe9TrUxvpnymEAe7P"
@@ -2175,6 +2211,24 @@
     },
     {
       "album": {
+        "name": "Break the Girl",
+        "url": "https://open.spotify.com/album/66ZkWrGgZzUsC7G1U7Z2gl"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211964,
+      "name": "Break the Girl",
+      "url": "https://open.spotify.com/track/1G6tftTrUHgg1g6cP3VkJ5"
+    },
+    {
+      "album": {
         "name": "Fall Back",
         "url": "https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI"
       },
@@ -2208,6 +2262,28 @@
       "duration_ms": 193527,
       "name": "Bring Back The Beat",
       "url": "https://open.spotify.com/track/10HGnM2Bo6BGYAlcrC6N5O"
+    },
+    {
+      "album": {
+        "name": "Brush Me Like A Horse",
+        "url": "https://open.spotify.com/album/2LE27BnmrOBp4P4GzwBefU"
+      },
+      "artists": [
+        {
+          "name": "JJerome87",
+          "url": "https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio"
+        },
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204246,
+      "name": "Brush Me Like A Horse",
+      "url": "https://open.spotify.com/track/1Qx7aZ34LHzx9Dl8IEqm6J"
     },
     {
       "album": {
@@ -2762,7 +2838,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 222310,
       "name": "Cinder Block",
       "url": "https://open.spotify.com/track/4ocbhbmq4kUNWFqCEoUOLs"
@@ -5180,7 +5256,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 210373,
       "name": "God",
       "url": "https://open.spotify.com/track/1JbasxUiywcgWxQvu6lIoz"
@@ -5256,6 +5332,24 @@
       "duration_ms": 222106,
       "name": "Good Boy",
       "url": "https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s"
+    },
+    {
+      "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/6i5yc4dRqvo2Mu8mGrRXkE"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263228,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK"
     },
     {
       "album": {
@@ -5624,6 +5718,24 @@
     {
       "album": {
         "name": "Heaven Sent",
+        "url": "https://open.spotify.com/album/3F1BhsVsH3KKzNiLMG5M1j"
+      },
+      "artists": [
+        {
+          "name": "Chartreuse",
+          "url": "https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187493,
+      "name": "Heaven Sent",
+      "url": "https://open.spotify.com/track/0ewbgBIlWOENsK3IlhRTDK"
+    },
+    {
+      "album": {
+        "name": "Heaven Sent",
         "url": "https://open.spotify.com/album/0d8JjN0d48xDmp9AfSBVof"
       },
       "artists": [
@@ -5872,7 +5984,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 190002,
       "name": "Honey, Undress Me",
       "url": "https://open.spotify.com/track/408DL2w4i3Mqk10b4K8ptN"
@@ -7686,7 +7798,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 230385,
       "name": "Lucky Girl",
       "url": "https://open.spotify.com/track/5FVJyqzJJB4La4SIp242mY"
@@ -8198,7 +8310,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 254434,
       "name": "midori",
       "url": "https://open.spotify.com/track/6yFrdnr5l7TirwCgpQrdTj"
@@ -8318,7 +8430,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 218335,
       "name": "Misery",
       "url": "https://open.spotify.com/track/79M4oshPYhR9UlOZ9Ik8im"
@@ -8336,7 +8448,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 217700,
       "name": "Miss",
       "url": "https://open.spotify.com/track/7vBOMoBKb6InbMdQiFwRCO"
@@ -8506,7 +8618,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 243521,
       "name": "Mum",
       "url": "https://open.spotify.com/track/5fzXn94Xer4aVwo6n8Bxuq"
@@ -8928,7 +9040,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 186640,
       "name": "Not Ideal",
       "url": "https://open.spotify.com/track/3h4VpzoEM7UaC9aBfIfYt4"
@@ -9848,6 +9960,24 @@
       "duration_ms": 269720,
       "name": "Pool",
       "url": "https://open.spotify.com/track/0oeS0fFJTHZhFwpHLpu1VS"
+    },
+    {
+      "album": {
+        "name": "praxis",
+        "url": "https://open.spotify.com/album/1sqkJvjTXFUNKzwM7pHKn0"
+      },
+      "artists": [
+        {
+          "name": "Lauren Auder",
+          "url": "https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208071,
+      "name": "praxis",
+      "url": "https://open.spotify.com/track/7CtGaE9FYeSi0YyOo7TNxm"
     },
     {
       "album": {
@@ -11395,6 +11525,24 @@
     },
     {
       "album": {
+        "name": "Squish",
+        "url": "https://open.spotify.com/album/6qMjvExxrJl2gydwmMbn3R"
+      },
+      "artists": [
+        {
+          "name": "Gretel",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180605,
+      "name": "Squish",
+      "url": "https://open.spotify.com/track/5NcbdZX6WExR3xNDftUp5m"
+    },
+    {
+      "album": {
         "name": "Applesauce",
         "url": "https://open.spotify.com/album/3OBdKoFtSsBVqk7UDWH2M0"
       },
@@ -12037,6 +12185,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "The Man The Myth The Meatslab",
+          "url": "https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246879,
+      "name": "Team Babe",
+      "url": "https://open.spotify.com/track/6TqVmfK0Um2rK6ozp3E8dG"
+    },
+    {
+      "album": {
         "name": "Teenage Love",
         "url": "https://open.spotify.com/album/1TQuSNnGJGfX80HQE7HBcl"
       },
@@ -12316,7 +12482,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 212957,
       "name": "The Coward Forgets His Nightmare",
       "url": "https://open.spotify.com/track/4x6ZZ97Ze9K8IoaHFkxJWb"
@@ -12432,6 +12598,24 @@
       "duration_ms": 189021,
       "name": "The God of Lying (feat. IDLES)",
       "url": "https://open.spotify.com/track/0eUO2hEBOyZXDgqKSpXd98"
+    },
+    {
+      "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317961,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
     },
     {
       "album": {
@@ -13784,6 +13968,24 @@
       "duration_ms": 195518,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/1hwjsnf6pG8q20oLH5ihSI"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148988,
+      "name": "Wake up!",
+      "url": "https://open.spotify.com/track/2yZYMVtQ7KR1KIek1KYSAe"
     },
     {
       "album": {

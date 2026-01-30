@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 
 > Soft music to calm down cats, kittens and their humans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,760 likes - 222 songs - 10 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,896 likes - 222 songs - 10 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -231,4 +231,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 | 221 | [By Candlelight](https://open.spotify.com/track/6KtdYGSfCIoAkiWkJ1qxDh) | [Zimdizi](https://open.spotify.com/artist/144HUlx66zGheUbx0092oN) | [Imagination](https://open.spotify.com/album/59ngJWf69ZTOcqluzAxTta) | 3:05 |
 | 222 | [Healing Winds](https://open.spotify.com/track/4dMKw8w6WNByJ5nVWdVEb2) | [Eta Centauri](https://open.spotify.com/artist/3KadSziW0YI74KukJn9uwn) | [Healing Winds](https://open.spotify.com/album/3ii72HV58BygTMrrqVh4UJ) | 3:02 |
 
-Snapshot ID: `AAAAACZZjCLdtJeOZfNcOqwk3RnAsjL5`
+Snapshot ID: `AAAAAGIRv6rL53KoRrHenefJEk1E8tdA`

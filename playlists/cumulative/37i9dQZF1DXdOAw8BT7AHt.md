@@ -4,7 +4,7 @@
 
 > The best in every corner of modern punk rock\. Cover: Snõõper
 
-563 songs - 1 day 4 hr 15 min
+564 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,6 +401,7 @@
 | [Pressure Pad](https://open.spotify.com/track/4a2nM6mi7gmpUyWanu6LSK) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Down There!](https://open.spotify.com/album/5UAA0mOBTyW1VzFMgZeVDi) | 3:28 | 2024-01-19 | 2024-06-15 |
 | [Pretty Good To Feel Something](https://open.spotify.com/track/4JNMzNr6ukpwa6ALIMnkje) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Pretty Good To Feel Something](https://open.spotify.com/album/1cPLGYaAsxln3s6UgpboQw) | 3:06 | 2024-07-12 |  |
 | [Private Public Transport](https://open.spotify.com/track/45ya9ZspTmOlZS1yVPNvWX) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Private Public Transport](https://open.spotify.com/album/56nAGy49ervIzPjAgZDHqL) | 3:20 | 2024-01-19 | 2024-06-15 |
+| [Pub Watch](https://open.spotify.com/track/0t4aamr11YYxKon8iEyGbj) | [CARSICK](https://open.spotify.com/artist/6FtPotTHovfdRI7wA6YPyH) | [Pub Watch](https://open.spotify.com/album/227FBuf1tCv5C92D3J2E3L) | 3:20 | 2025-09-11 |  |
 | [Punishers](https://open.spotify.com/track/6RASigQvERkgKqX75rhRjk) | [Die Spitz](https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE) | [Punishers](https://open.spotify.com/album/4wQL054jyzI1ZBn1cfC0uJ) | 3:10 | 2025-09-04 |  |
 | [Punk's Dead](https://open.spotify.com/track/0aiJF3M2Tj5iHfQSmvR943) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Punk's Dead](https://open.spotify.com/album/7rhKQg4KTvDZZguZEX3YA9) | 3:12 | 2023-11-13 | 2024-04-19 |
 | [Punk's Dead](https://open.spotify.com/track/5RFjklYNzWhHH3wZ6c7ngo) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Punk's Dead](https://open.spotify.com/album/26CBoch8r0WmpjOYQedOnM) | 3:12 | 2023-08-23 | 2023-12-14 |
@@ -492,7 +493,7 @@
 | [TALK](https://open.spotify.com/track/34zukSow00sQeQqx5kKpNv) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [My Apologies To The Chef](https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0) | 2:42 | 2025-02-21 | 2025-07-05 |
 | [Talk Real](https://open.spotify.com/track/7LPbyMRdlafzBDgn1bfTND) | [Gridiron](https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ) | [Talk Real](https://open.spotify.com/album/7uhHXD3tSb0OyXwNrxxU9o) | 2:55 | 2025-02-07 | 2025-02-22 |
 | [Talking To Myself](https://open.spotify.com/track/3hXqsW8leYpzFZ4EBzrO5x) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 2:22 | 2022-12-02 | 2023-11-18 |
-| [Target Practice](https://open.spotify.com/track/1N3LYk2u9cSGnH1x5ODoqD) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [Tomorrow We Escape](https://open.spotify.com/album/1cSUzXXFmtNIFrCECjFe4R) | 2:11 | 2025-09-11 |  |
+| [Target Practice](https://open.spotify.com/track/1N3LYk2u9cSGnH1x5ODoqD) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [Tomorrow We Escape](https://open.spotify.com/album/1cSUzXXFmtNIFrCECjFe4R) | 2:11 | 2025-09-11 | 2026-01-30 |
 | [Taste the Money](https://open.spotify.com/track/44x9fOlJM1CNDIBpOOEJIq) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Taste the Money](https://open.spotify.com/album/3bwDKAW6IgigIg1cfUBMQX) | 2:35 | 2022-12-02 | 2023-04-14 |
 | [Tastes Like Sarah](https://open.spotify.com/track/2lMALY8dtMsGl3vTrhISaz) | [PROJECTOR](https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9) | [Now When We Talk It's Violence](https://open.spotify.com/album/63T8vRb63TY4Bj1mAPlu9O) | 1:57 | 2024-05-31 | 2024-06-28 |
 | [Tear Me to Pieces](https://open.spotify.com/track/4o8iQ9HKmZP0D7eRcTnW0g) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:56 | 2023-03-20 | 2024-06-01 |

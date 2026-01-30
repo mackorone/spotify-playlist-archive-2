@@ -1,28 +1,32 @@
 {
   "description": "The best new and classic South African Rock. Cover: JaeXlynne",
-  "num_followers": 26667,
+  "num_followers": 26683,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPoyEOk2Ou/r6oB+80WFd3nLKoqx",
+  "snapshot_id": "AAAAAKzSeqAjRza3qGGJ3qDX1Uy9Pe+p",
   "tracks": [
     {
-      "added_at": "2026-01-22 22:00:18",
+      "added_at": "2026-01-29 22:00:49",
       "album": {
-        "name": "Friends Like You",
-        "url": "https://open.spotify.com/album/5YVXCkYnYhkdkzeZ3lrEb6"
+        "name": "If I Wanted You",
+        "url": "https://open.spotify.com/album/4evHwgQfQWqkjFutDPfwV1"
       },
       "artists": [
         {
-          "name": "JaeXlynne",
-          "url": "https://open.spotify.com/artist/6ExJNNZMX7q3uIaZCDSFcz"
+          "name": "Carla Franco",
+          "url": "https://open.spotify.com/artist/6I2p0OQapwvqHXFaAqKmoI"
+        },
+        {
+          "name": "Sophia Frank",
+          "url": "https://open.spotify.com/artist/4nZbINVWefKfXEpQPkSSe3"
         }
       ],
-      "duration_ms": 128399,
-      "name": "Friends Like You",
-      "url": "https://open.spotify.com/track/2ITbuEDOj1hel1w9dU4xxO"
+      "duration_ms": 187000,
+      "name": "If I Wanted You",
+      "url": "https://open.spotify.com/track/0tr8i60WsBjNfFOobf41Qj"
     },
     {
       "added_at": "2025-12-19 05:44:49",
@@ -41,6 +45,22 @@
       "url": "https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0"
     },
     {
+      "added_at": "2026-01-29 22:00:49",
+      "album": {
+        "name": "I'm Afraid of Americans",
+        "url": "https://open.spotify.com/album/2xRVDJuLOXOpfpkcvZMgCa"
+      },
+      "artists": [
+        {
+          "name": "JaeXlynne",
+          "url": "https://open.spotify.com/artist/6ExJNNZMX7q3uIaZCDSFcz"
+        }
+      ],
+      "duration_ms": 279327,
+      "name": "I'm Afraid of Americans",
+      "url": "https://open.spotify.com/track/2llxtfarQAta5xhYZsq6EA"
+    },
+    {
       "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "THOSE WHO ARE AGAINST US ALL THE TIME",
@@ -55,6 +75,22 @@
       "duration_ms": 201000,
       "name": "I CHANGED (I'M UP)",
       "url": "https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx"
+    },
+    {
+      "added_at": "2026-01-22 22:00:18",
+      "album": {
+        "name": "SELFBEWUS",
+        "url": "https://open.spotify.com/album/5dgrXBpfhTr0vC5qCYqWam"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 192794,
+      "name": "SELFBEWUS",
+      "url": "https://open.spotify.com/track/0P6JkwDFxKdy3C2UOoXxnu"
     },
     {
       "added_at": "2025-12-19 05:44:49",
@@ -77,20 +113,20 @@
       "url": "https://open.spotify.com/track/2LhwiVyryaBgqfUSbYNlZZ"
     },
     {
-      "added_at": "2026-01-22 22:00:18",
+      "added_at": "2026-01-29 22:00:49",
       "album": {
-        "name": "SELFBEWUS",
-        "url": "https://open.spotify.com/album/5dgrXBpfhTr0vC5qCYqWam"
+        "name": "Something on the Loose",
+        "url": "https://open.spotify.com/album/7EmbZqI2oZi6tFfshGU7M7"
       },
       "artists": [
         {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+          "name": "Crying in Colour",
+          "url": "https://open.spotify.com/artist/1gKbrFmybPXTOjGBXetQAn"
         }
       ],
-      "duration_ms": 192794,
-      "name": "SELFBEWUS",
-      "url": "https://open.spotify.com/track/0P6JkwDFxKdy3C2UOoXxnu"
+      "duration_ms": 207828,
+      "name": "Something on the Loose",
+      "url": "https://open.spotify.com/track/1e51WNgePm2XgVOf2DgSjt"
     },
     {
       "added_at": "2025-12-19 05:44:49",
@@ -133,42 +169,6 @@
       "url": "https://open.spotify.com/track/3DKD5cBeHWnLgXh60317vS"
     },
     {
-      "added_at": "2025-12-19 05:44:49",
-      "album": {
-        "name": "Stardust Galaxies",
-        "url": "https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro"
-      },
-      "artists": [
-        {
-          "name": "The Parlotones",
-          "url": "https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "Push Me to the Floor",
-      "url": "https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx"
-    },
-    {
-      "added_at": "2025-12-19 05:44:49",
-      "album": {
-        "name": "Gatvol",
-        "url": "https://open.spotify.com/album/5E7TdN3L8hkXbusyHFlbKI"
-      },
-      "artists": [
-        {
-          "name": "Droomsindroom",
-          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
-        },
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        }
-      ],
-      "duration_ms": 166031,
-      "name": "Gatvol",
-      "url": "https://open.spotify.com/track/07uTj3wCEQf5d1K34KZh8P"
-    },
-    {
       "added_at": "2026-01-22 22:00:18",
       "album": {
         "name": "Noorderlig",
@@ -191,22 +191,6 @@
     {
       "added_at": "2025-12-19 05:44:49",
       "album": {
-        "name": "Elsie",
-        "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
-      },
-      "artists": [
-        {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
-        }
-      ],
-      "duration_ms": 156191,
-      "name": "Elsie",
-      "url": "https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS"
-    },
-    {
-      "added_at": "2025-12-19 05:44:49",
-      "album": {
         "name": "Spoed",
         "url": "https://open.spotify.com/album/73UtUb5VpmN7d7Pt10BTkA"
       },
@@ -223,18 +207,134 @@
     {
       "added_at": "2026-01-22 22:00:18",
       "album": {
-        "name": "World Peace",
-        "url": "https://open.spotify.com/album/4Sle8PnsDn2yWK8UxntDd7"
+        "name": "Friends Like You",
+        "url": "https://open.spotify.com/album/5YVXCkYnYhkdkzeZ3lrEb6"
       },
       "artists": [
         {
-          "name": "Mercury's in the Microwave",
-          "url": "https://open.spotify.com/artist/63PBE6TT4tPBSfZa1AyW7h"
+          "name": "JaeXlynne",
+          "url": "https://open.spotify.com/artist/6ExJNNZMX7q3uIaZCDSFcz"
         }
       ],
-      "duration_ms": 216000,
-      "name": "World Peace",
-      "url": "https://open.spotify.com/track/3oJegHHhJXxQrTcMeZDMRU"
+      "duration_ms": 128399,
+      "name": "Friends Like You",
+      "url": "https://open.spotify.com/track/2ITbuEDOj1hel1w9dU4xxO"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "Elsie",
+        "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
+      },
+      "artists": [
+        {
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+        }
+      ],
+      "duration_ms": 156191,
+      "name": "Elsie",
+      "url": "https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS"
+    },
+    {
+      "added_at": "2026-01-29 22:00:49",
+      "album": {
+        "name": "SLOW MOTION",
+        "url": "https://open.spotify.com/album/7k2W3QNQoaesDP3UCg0oDW"
+      },
+      "artists": [
+        {
+          "name": "Yung Beathoven",
+          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
+        }
+      ],
+      "duration_ms": 155422,
+      "name": "SLOW MOTION",
+      "url": "https://open.spotify.com/track/1H5Rz9E38f8cqdxGW9vDBE"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "Stardust Galaxies",
+        "url": "https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro"
+      },
+      "artists": [
+        {
+          "name": "The Parlotones",
+          "url": "https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "Push Me to the Floor",
+      "url": "https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx"
+    },
+    {
+      "added_at": "2026-01-22 22:00:18",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/77UUUqsEB3wMrYyfKukJVx"
+      },
+      "artists": [
+        {
+          "name": "Pierre Stemmett",
+          "url": "https://open.spotify.com/artist/2xei4TwXqWutkMSxSCXSKS"
+        }
+      ],
+      "duration_ms": 275500,
+      "name": "Fever - Single Edit",
+      "url": "https://open.spotify.com/track/3RNjKE7fPD4YrBu1B3qKn5"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "Gatvol",
+        "url": "https://open.spotify.com/album/5E7TdN3L8hkXbusyHFlbKI"
+      },
+      "artists": [
+        {
+          "name": "Droomsindroom",
+          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
+        },
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 166031,
+      "name": "Gatvol",
+      "url": "https://open.spotify.com/track/07uTj3wCEQf5d1K34KZh8P"
+    },
+    {
+      "added_at": "2026-01-29 22:00:49",
+      "album": {
+        "name": "So Needy (Christmas Dinner)",
+        "url": "https://open.spotify.com/album/1n1DllFDgoXOo23FpHxCB0"
+      },
+      "artists": [
+        {
+          "name": "Phillip Taylor",
+          "url": "https://open.spotify.com/artist/1YYmkWArjQ9gVGDq4BLyVw"
+        }
+      ],
+      "duration_ms": 177724,
+      "name": "So Needy (Christmas Dinner)",
+      "url": "https://open.spotify.com/track/7djRA1UCZ286rtfKzPk09Q"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "NIE M\u00d4RE NIE NOU",
+        "url": "https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv"
+      },
+      "artists": [
+        {
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+        }
+      ],
+      "duration_ms": 158680,
+      "name": "NIE M\u00d4RE NIE NOU",
+      "url": "https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG"
     },
     {
       "added_at": "2025-12-19 05:44:49",
@@ -273,38 +373,6 @@
       "url": "https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH"
     },
     {
-      "added_at": "2026-01-22 22:00:18",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/77UUUqsEB3wMrYyfKukJVx"
-      },
-      "artists": [
-        {
-          "name": "Pierre Stemmett",
-          "url": "https://open.spotify.com/artist/2xei4TwXqWutkMSxSCXSKS"
-        }
-      ],
-      "duration_ms": 275500,
-      "name": "Fever - Single Edit",
-      "url": "https://open.spotify.com/track/3RNjKE7fPD4YrBu1B3qKn5"
-    },
-    {
-      "added_at": "2025-12-19 05:44:49",
-      "album": {
-        "name": "NIE M\u00d4RE NIE NOU",
-        "url": "https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv"
-      },
-      "artists": [
-        {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "NIE M\u00d4RE NIE NOU",
-      "url": "https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG"
-    },
-    {
       "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "Another Universe",
@@ -319,22 +387,6 @@
       "duration_ms": 214960,
       "name": "Another Universe",
       "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
-    },
-    {
-      "added_at": "2026-01-22 22:00:18",
-      "album": {
-        "name": "Sunshine Sister",
-        "url": "https://open.spotify.com/album/6DfGHcIXvtGsQ2WQBnOqP1"
-      },
-      "artists": [
-        {
-          "name": "Babette",
-          "url": "https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa"
-        }
-      ],
-      "duration_ms": 211635,
-      "name": "Sunshine Sister",
-      "url": "https://open.spotify.com/track/1z8DIO6ZJiRFAa8mapMIuf"
     },
     {
       "added_at": "2025-12-19 05:44:49",
@@ -373,22 +425,6 @@
       "url": "https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c"
     },
     {
-      "added_at": "2026-01-22 22:00:18",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/1t0ITGospV4NHS2QlKH4UZ"
-      },
-      "artists": [
-        {
-          "name": "4am",
-          "url": "https://open.spotify.com/artist/6Et1m4ITGVs524OB1tBr7Z"
-        }
-      ],
-      "duration_ms": 217564,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/38UsWqBx6EFAfKCrlWOxhd"
-    },
-    {
       "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "KLEUR",
@@ -421,22 +457,6 @@
       "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
     },
     {
-      "added_at": "2026-01-22 22:00:18",
-      "album": {
-        "name": "almal in die straat",
-        "url": "https://open.spotify.com/album/5Y6hfPPdKBvALh1V8ZDZHx"
-      },
-      "artists": [
-        {
-          "name": "TWO",
-          "url": "https://open.spotify.com/artist/0lPCLnqch0At4pU5dgRShl"
-        }
-      ],
-      "duration_ms": 163459,
-      "name": "almal in die straat",
-      "url": "https://open.spotify.com/track/70IOraagarnLfk1HqoEckn"
-    },
-    {
       "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "Stellies (feat. Rooksein)",
@@ -457,22 +477,6 @@
       "url": "https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76"
     },
     {
-      "added_at": "2025-12-19 05:44:49",
-      "album": {
-        "name": "As Jy Met Vuur Speel Sal Jy Brand",
-        "url": "https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM"
-      },
-      "artists": [
-        {
-          "name": "Fokofpolisiekar",
-          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
-        }
-      ],
-      "duration_ms": 159253,
-      "name": "Hemel Op Die Platteland",
-      "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
-    },
-    {
       "added_at": "2026-01-22 22:00:18",
       "album": {
         "name": "Damp",
@@ -487,6 +491,22 @@
       "duration_ms": 337391,
       "name": "Damp",
       "url": "https://open.spotify.com/track/2xitvOthYS3nfCrW6aoY4Z"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "As Jy Met Vuur Speel Sal Jy Brand",
+        "url": "https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM"
+      },
+      "artists": [
+        {
+          "name": "Fokofpolisiekar",
+          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
+        }
+      ],
+      "duration_ms": 159253,
+      "name": "Hemel Op Die Platteland",
+      "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
     },
     {
       "added_at": "2025-12-19 05:44:49",
@@ -521,22 +541,6 @@
       "url": "https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q"
     },
     {
-      "added_at": "2025-12-19 05:44:49",
-      "album": {
-        "name": "Kenia",
-        "url": "https://open.spotify.com/album/1DgmNIxRVa63FY9MiMJKW2"
-      },
-      "artists": [
-        {
-          "name": "GSTRiNG",
-          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
-        }
-      ],
-      "duration_ms": 225483,
-      "name": "Kenia",
-      "url": "https://open.spotify.com/track/2WOlxHBzvjKXGRjQqxKbyK"
-    },
-    {
       "added_at": "2026-01-22 22:00:18",
       "album": {
         "name": "Behind My Eyes",
@@ -551,6 +555,22 @@
       "duration_ms": 236100,
       "name": "Put Me In Drive",
       "url": "https://open.spotify.com/track/5fw2DPgLzi7uT3pub77xto"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "Kenia",
+        "url": "https://open.spotify.com/album/1DgmNIxRVa63FY9MiMJKW2"
+      },
+      "artists": [
+        {
+          "name": "GSTRiNG",
+          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
+        }
+      ],
+      "duration_ms": 225483,
+      "name": "Kenia",
+      "url": "https://open.spotify.com/track/2WOlxHBzvjKXGRjQqxKbyK"
     },
     {
       "added_at": "2025-12-19 05:44:49",
@@ -583,22 +603,6 @@
       "duration_ms": 208366,
       "name": "Kies",
       "url": "https://open.spotify.com/track/3pVRMjiLei68ZftaCnAHXH"
-    },
-    {
-      "added_at": "2026-01-22 22:00:18",
-      "album": {
-        "name": "Till I Find You",
-        "url": "https://open.spotify.com/album/0WgU8riLczb0fKbquaQa9W"
-      },
-      "artists": [
-        {
-          "name": "The Tone Ramblers",
-          "url": "https://open.spotify.com/artist/77JxW0bf2I85IuBblHT7gI"
-        }
-      ],
-      "duration_ms": 298808,
-      "name": "Till I Find You",
-      "url": "https://open.spotify.com/track/6HzLD3A9tt2tE2fjT1V2J3"
     },
     {
       "added_at": "2025-12-19 05:44:49",
@@ -663,22 +667,6 @@
       "duration_ms": 185913,
       "name": "Fire Sign",
       "url": "https://open.spotify.com/track/4jVcAoaUgre6U4Gf0KX4Uw"
-    },
-    {
-      "added_at": "2026-01-22 22:00:18",
-      "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/2um0bykHiDI9SEqWj50lCG"
-      },
-      "artists": [
-        {
-          "name": "MAR.Z",
-          "url": "https://open.spotify.com/artist/5JAMkaOdqx718QL2ssWKxx"
-        }
-      ],
-      "duration_ms": 209087,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/6po8vnWdLeQMnh0S3wUlQP"
     },
     {
       "added_at": "2025-12-19 05:44:49",
@@ -839,6 +827,22 @@
       "duration_ms": 252108,
       "name": "Sonde",
       "url": "https://open.spotify.com/track/69kCUHXelaILbuKw8MbWcn"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "Sonskyn Vrou",
+        "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
+      },
+      "artists": [
+        {
+          "name": "Hendr\u00e9 Baard",
+          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
+        }
+      ],
+      "duration_ms": 266868,
+      "name": "Sonskyn Vrou",
+      "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
     }
   ],
   "unique_name": "SA Rock ",

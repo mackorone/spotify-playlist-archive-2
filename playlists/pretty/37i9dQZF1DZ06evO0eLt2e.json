@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 31589,
+  "num_followers": 31595,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXgAAAAAAAB/w3tbhEFnptjqu56DDCUC",
+  "snapshot_id": "aXlRgAAAAACQUQNL+3pL4RvtdeQqdfdv",
   "tracks": [
     {
       "added_at": null,
@@ -643,6 +643,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Highwayman 2",
+        "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 240610,
+      "name": "Living Legend",
+      "url": "https://open.spotify.com/track/4iXbVCLRijzZGCSb3g6FtB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -707,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus Was a Capricorn",
-        "url": "https://open.spotify.com/album/2Ki8vQ8HlryxQ9DhgXzaNs"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 206728,
-      "name": "Why Me",
-      "url": "https://open.spotify.com/track/6uMKkOEkPJRumFvAzo5nr9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kristofferson",
         "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
       },
@@ -739,34 +755,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highwayman 2",
-        "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
+        "name": "Jesus Was a Capricorn",
+        "url": "https://open.spotify.com/album/2Ki8vQ8HlryxQ9DhgXzaNs"
       },
       "artists": [
-        {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
         {
           "name": "Kris Kristofferson",
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 240610,
-      "name": "Living Legend",
-      "url": "https://open.spotify.com/track/4iXbVCLRijzZGCSb3g6FtB"
+      "duration_ms": 206728,
+      "name": "Why Me",
+      "url": "https://open.spotify.com/track/6uMKkOEkPJRumFvAzo5nr9"
     },
     {
       "added_at": null,
@@ -879,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Essential Kris Kristofferson",
+        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "From the Bottle to the Bottom",
+      "url": "https://open.spotify.com/track/0l9vfqSNiJQhlgCB3IY6xM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Country State Of Mind",
         "url": "https://open.spotify.com/album/7aM9Q3hl6uxC4xGuDdVyBY"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 180472,
       "name": "Why Me",
       "url": "https://open.spotify.com/track/25OnNQJNBJgGDxmi4AUN6F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Kris Kristofferson",
-        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "From the Bottle to the Bottom",
-      "url": "https://open.spotify.com/track/0l9vfqSNiJQhlgCB3IY6xM"
     },
     {
       "added_at": null,
@@ -1160,9 +1160,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 170920,
-      "name": "Good Morning John",
-      "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
+      "duration_ms": 212306,
+      "name": "From Here to Forever",
+      "url": "https://open.spotify.com/track/2yPUVAm73P5lU5S904nDsP"
     },
     {
       "added_at": null,
@@ -1240,9 +1240,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 212306,
-      "name": "From Here to Forever",
-      "url": "https://open.spotify.com/track/2yPUVAm73P5lU5S904nDsP"
+      "duration_ms": 170920,
+      "name": "Good Morning John",
+      "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
     },
     {
       "added_at": null,
@@ -1311,22 +1311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Closer to the Bone",
-        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 152586,
-      "name": "Closer to the Bone",
-      "url": "https://open.spotify.com/track/4sS68UKofTv1lPsUuwh6Sf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Surreal Thing",
         "url": "https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 211421,
       "name": "If You Don't Like Hank Williams",
       "url": "https://open.spotify.com/track/2O01W7mcUZMhA8WmA3k44X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Closer to the Bone",
+        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 152586,
+      "name": "Closer to the Bone",
+      "url": "https://open.spotify.com/track/4sS68UKofTv1lPsUuwh6Sf"
     },
     {
       "added_at": null,
@@ -1363,6 +1363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Silver Tongued Devil and I",
+        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 184860,
+      "name": "When I Loved Her",
+      "url": "https://open.spotify.com/track/7BgZt5aRKMlKB3BnFdxvf7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Breakaway",
         "url": "https://open.spotify.com/album/5E2qk8NPadk7IY7yXiOXtB"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 190960,
       "name": "I'd Rather Be Sorry",
       "url": "https://open.spotify.com/track/09jOL3zPV1bHBEA7wlQJa2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Silver Tongued Devil and I",
-        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 184860,
-      "name": "When I Loved Her",
-      "url": "https://open.spotify.com/track/7BgZt5aRKMlKB3BnFdxvf7"
     }
   ],
   "unique_name": "This Is Kris Kristofferson",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Over Lapa, Latrelle e Lubi in cover della playlist con il futuro del rap italiano \ud83d\udcc8",
+  "description": "Low-Red in cover della playlist con il futuro del rap italiano \ud83d\udcc8",
   "name": "Raptopia",
   "tracks": [
     {
@@ -12860,7 +12860,7 @@
       },
       "artists": [
         {
-          "name": "Khodi Vulture",
+          "name": "Khodi",
           "url": "https://open.spotify.com/artist/27P9ESA6J25Jzye2CGWg1n"
         }
       ],
@@ -16183,6 +16183,24 @@
     },
     {
       "album": {
+        "name": "GALANTE",
+        "url": "https://open.spotify.com/album/64o6NMAlfeghzKF03gbewx"
+      },
+      "artists": [
+        {
+          "name": "Mated",
+          "url": "https://open.spotify.com/artist/7dIGJ7Kx7vyUsszaP2mbxQ"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164124,
+      "name": "GALANTE",
+      "url": "https://open.spotify.com/track/1lJeYx2axIErKuunCoxWBx"
+    },
+    {
+      "album": {
         "name": "GALER & CIMITER",
         "url": "https://open.spotify.com/album/3y1EiSxjHTfYlxpSKGwKS9"
       },
@@ -17908,7 +17926,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 165000,
       "name": "GUARIRE",
       "url": "https://open.spotify.com/track/62ST7EI9kRnzy7CMyBWXR7"
@@ -25018,7 +25036,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 149387,
       "name": "Mattone",
       "url": "https://open.spotify.com/track/2RIrF5dbTNoR1ydLhtIuY2"
@@ -26908,7 +26926,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 102315,
       "name": "momento",
       "url": "https://open.spotify.com/track/05c1b9H2wzG1KsyGiKhyTw"
@@ -29323,6 +29341,28 @@
     },
     {
       "album": {
+        "name": "Non Mi Lasci Stare (feat. Christian Liguori)",
+        "url": "https://open.spotify.com/album/6JfZRbO1zc0sacVgQa54y2"
+      },
+      "artists": [
+        {
+          "name": "Suspect CB",
+          "url": "https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz"
+        },
+        {
+          "name": "Christian Liguori",
+          "url": "https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127928,
+      "name": "Non Mi Lasci Stare (feat. Christian Liguori)",
+      "url": "https://open.spotify.com/track/2iqpOx3AXlJ456rsKhpM64"
+    },
+    {
+      "album": {
         "name": "NON MI PIACI",
         "url": "https://open.spotify.com/album/5EwwqS9moFglO34EK1raeD"
       },
@@ -30236,7 +30276,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 153775,
       "name": "Obiettivo (feat. Dmoha)",
       "url": "https://open.spotify.com/track/51vzexWSzbhxvQlh2V0WYQ"
@@ -30704,7 +30744,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 181714,
       "name": "ONE MILLION",
       "url": "https://open.spotify.com/track/6MpeDTBw7zmanMfmat76E0"
@@ -31276,7 +31316,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 149375,
       "name": "Panama",
       "url": "https://open.spotify.com/track/3Avbzji2CreZ35Gay3dyAV"
@@ -35079,6 +35119,24 @@
     },
     {
       "album": {
+        "name": "RAFAEL LEAO",
+        "url": "https://open.spotify.com/album/3N4vQxiuQTJR06jnYXV3mL"
+      },
+      "artists": [
+        {
+          "name": "Saco",
+          "url": "https://open.spotify.com/artist/7bAhUbvOceOdr0x2XU47R7"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "RAFAEL LEAO",
+      "url": "https://open.spotify.com/track/1mx8YG8LMyhmvDjIYKUJse"
+    },
+    {
+      "album": {
         "name": "RAGAZZETTO",
         "url": "https://open.spotify.com/album/2hUgUMxrVBkUyhfQClvuCg"
       },
@@ -36622,6 +36680,28 @@
       "duration_ms": 166285,
       "name": "SAB",
       "url": "https://open.spotify.com/track/2feRGIQMsbAiaREBKD5Jpl"
+    },
+    {
+      "album": {
+        "name": "Sabato Sera",
+        "url": "https://open.spotify.com/album/14PnXsuZjIJFEAeizmD0KP"
+      },
+      "artists": [
+        {
+          "name": "SaintPaul",
+          "url": "https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT"
+        },
+        {
+          "name": "Madfingerz",
+          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Sabato Sera",
+      "url": "https://open.spotify.com/track/7aEuztQFFqyTQUBanox9kU"
     },
     {
       "album": {
@@ -38838,7 +38918,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 171196,
       "name": "SINCERO",
       "url": "https://open.spotify.com/track/0GjNFWTifS1IsXAjIaZJUk"
@@ -39988,6 +40068,24 @@
       "duration_ms": 165211,
       "name": "STALKER (feat. Dani Faiv)",
       "url": "https://open.spotify.com/track/798WTms9uKEpmZftdCcqdo"
+    },
+    {
+      "album": {
+        "name": "Stanza d'Albergo",
+        "url": "https://open.spotify.com/album/36Tbt2hCPcgWysAHWruNI3"
+      },
+      "artists": [
+        {
+          "name": "Yele",
+          "url": "https://open.spotify.com/artist/1u1kZu6YBFpronOR6sOg2z"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Stanza d'Albergo",
+      "url": "https://open.spotify.com/track/2UT55zrpVAV9H5lfznHvqV"
     },
     {
       "album": {
@@ -41790,6 +41888,24 @@
       "duration_ms": 122526,
       "name": "TERRORIST",
       "url": "https://open.spotify.com/track/5REi9GidMTcisKNmXHUyAd"
+    },
+    {
+      "album": {
+        "name": "terzo dito",
+        "url": "https://open.spotify.com/album/2Mxmw2RXpJP5XjsQgq4SiT"
+      },
+      "artists": [
+        {
+          "name": "Maury North",
+          "url": "https://open.spotify.com/artist/4HxI6ooJCfn4mJmvOzgyry"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115210,
+      "name": "terzo dito",
+      "url": "https://open.spotify.com/track/4YrlQFFXnAcVCLliEqxYXW"
     },
     {
       "album": {
@@ -43706,6 +43822,24 @@
       "duration_ms": 102689,
       "name": "TYPE BEAT SHAWTY",
       "url": "https://open.spotify.com/track/6HFLgj8BnhPwRynNgdAr1I"
+    },
+    {
+      "album": {
+        "name": "Tyson",
+        "url": "https://open.spotify.com/album/0vGBomvsBvd0P3bTqDTVv0"
+      },
+      "artists": [
+        {
+          "name": "Tokyo",
+          "url": "https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165045,
+      "name": "Tyson",
+      "url": "https://open.spotify.com/track/3K9jbkMAwN2iEwUWOGBplf"
     },
     {
       "album": {

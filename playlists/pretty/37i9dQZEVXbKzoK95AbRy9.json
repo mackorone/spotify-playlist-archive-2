@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Brazil.",
-  "num_followers": 238762,
+  "num_followers": 238779,
   "original_name": "Top Songs - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MQ1yQAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MQ7DwAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2026-01-23 13:40:48",
@@ -360,12 +360,12 @@
           "url": "https://open.spotify.com/artist/7vtCvjMGmRijbRIvScJmkO"
         },
         {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
-        },
-        {
           "name": "DJ GORDINHO DA VF",
           "url": "https://open.spotify.com/artist/2isWi9fP3idxCaGPPEelEQ"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
         },
         {
           "name": "MC PR",

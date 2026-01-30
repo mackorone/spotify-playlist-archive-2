@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,616 likes - 274 songs - 16 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,597 likes - 274 songs - 16 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 57 | [Totally Together](https://open.spotify.com/track/6wfx1V01YaBDcLKZVnj97I) | [Jackie Mittoo](https://open.spotify.com/artist/6UTUjmko5raD927Hbx960a) | [Now](https://open.spotify.com/album/7A88Czvd2tEZrh5SHMelpi) | 2:41 |
 | 58 | [The End of a Gun](https://open.spotify.com/track/3IydYLdOeMT8lyeGr4WRcI) | [GHOSTWOMAN](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Anne, If](https://open.spotify.com/album/10wtxHQz9O385jIEzAh4iP) | 3:11 |
 | 59 | [I Want a Break Thru](https://open.spotify.com/track/7fvX8AXBlE44ahviQ4Ailz) | [The Hykkers](https://open.spotify.com/artist/5TaivlrIgcjs0dRCIgcSbL) | [I Want a Break Thru](https://open.spotify.com/album/0Lmror3GbI6g6NNPoxwlnI) | 3:02 |
-| 60 | [Fling It Gimme](https://open.spotify.com/track/6qpx9v0sA5swFO4GmliUcB) | [The Gladiators](https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP) | [Serious Thing](https://open.spotify.com/album/3U862CH7CqULRbPLV3ADvH) | 3:00 |
+| 60 | [Fling It Gimme](https://open.spotify.com/track/6qpx9v0sA5swFO4GmliUcB) | [Gladiators](https://open.spotify.com/artist/1uS5YQnDPWk6UQhAPp59fT) | [Serious Thing](https://open.spotify.com/album/3U862CH7CqULRbPLV3ADvH) | 3:00 |
 | 61 | [Candy Maker](https://open.spotify.com/track/2v4bumIfHrDlSSY59S8AKq) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Travelin'](https://open.spotify.com/album/4oI7qFDITsiF0jz6RBBuRX) | 3:45 |
 | 62 | [I Don't Know](https://open.spotify.com/track/1QPKRwDhXRzDWmDbujjawc) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Learn & Burn](https://open.spotify.com/album/274JkNflsOPrXyWZZsgGh2) | 3:06 |
 | 63 | [I Gave Up All I Had](https://open.spotify.com/track/1hTl6P4cObJLDJEMS6Saif) | [Ted Hawkins](https://open.spotify.com/artist/1clAnI6PODaoVlbzlUPOfU) | [Watch Your Step](https://open.spotify.com/album/3XnHTwogsnLUFhC7nZ983d) | 2:56 |

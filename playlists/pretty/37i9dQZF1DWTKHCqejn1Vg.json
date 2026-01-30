@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 34331,
+  "num_followers": 34335,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGdnJ8bj5ov/BCjDmVkdMo8JDVz8",
+  "snapshot_id": "AAAAAIrFo04ns9TyzuEB4WUYEXfWkiyc",
   "tracks": [
     {
       "added_at": "2026-01-22 06:35:47",
@@ -699,6 +699,26 @@
     {
       "added_at": "2026-01-22 06:35:47",
       "album": {
+        "name": "Lost (Feat. Chan)",
+        "url": "https://open.spotify.com/album/6wYbrnLW8oLOzLS8cfO2vR"
+      },
+      "artists": [
+        {
+          "name": "Giwon",
+          "url": "https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV"
+        },
+        {
+          "name": "Chan (\ucc2c)",
+          "url": "https://open.spotify.com/artist/6u58RtKuPesaAnsSybhP5u"
+        }
+      ],
+      "duration_ms": 144750,
+      "name": "Lost (Feat. Chan)",
+      "url": "https://open.spotify.com/track/0CGLEfpRiP9Xx3DOGIpyu6"
+    },
+    {
+      "added_at": "2026-01-22 06:35:47",
+      "album": {
         "name": "SLIDIN\u2019",
         "url": "https://open.spotify.com/album/1M9noTaRDmFsm9juq86FDA"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 231272,
       "name": "SLIDIN\u2019",
       "url": "https://open.spotify.com/track/0k9YOhsIcZGaXzwEVAL0EM"
-    },
-    {
-      "added_at": "2026-01-22 06:35:47",
-      "album": {
-        "name": "Lost (Feat. Chan)",
-        "url": "https://open.spotify.com/album/6wYbrnLW8oLOzLS8cfO2vR"
-      },
-      "artists": [
-        {
-          "name": "Giwon",
-          "url": "https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV"
-        },
-        {
-          "name": "Chan (\ucc2c)",
-          "url": "https://open.spotify.com/artist/6u58RtKuPesaAnsSybhP5u"
-        }
-      ],
-      "duration_ms": 144750,
-      "name": "Lost (Feat. Chan)",
-      "url": "https://open.spotify.com/track/0CGLEfpRiP9Xx3DOGIpyu6"
     },
     {
       "added_at": "2026-01-22 06:35:47",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-01-22 06:35:47",
       "album": {
+        "name": "KEUNG",
+        "url": "https://open.spotify.com/album/27DBdAQYbalG0di7blGfDc"
+      },
+      "artists": [
+        {
+          "name": "C JAMM",
+          "url": "https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR"
+        }
+      ],
+      "duration_ms": 191667,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/2JBNZs63jcrod7xJ8anwcA"
+    },
+    {
+      "added_at": "2026-01-22 06:35:47",
+      "album": {
         "name": "ROOM SERVICE",
         "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
       },
@@ -887,22 +903,6 @@
     {
       "added_at": "2026-01-22 06:35:47",
       "album": {
-        "name": "KEUNG",
-        "url": "https://open.spotify.com/album/27DBdAQYbalG0di7blGfDc"
-      },
-      "artists": [
-        {
-          "name": "C JAMM",
-          "url": "https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR"
-        }
-      ],
-      "duration_ms": 191667,
-      "name": "Leave",
-      "url": "https://open.spotify.com/track/2JBNZs63jcrod7xJ8anwcA"
-    },
-    {
-      "added_at": "2026-01-22 06:35:47",
-      "album": {
         "name": "LOG",
         "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
       },
@@ -915,22 +915,6 @@
       "duration_ms": 277928,
       "name": "Love Kills",
       "url": "https://open.spotify.com/track/4kuzXJLEHWn412PoIMeVuP"
-    },
-    {
-      "added_at": "2026-01-22 06:35:47",
-      "album": {
-        "name": "TOUCHIN'",
-        "url": "https://open.spotify.com/album/08FjoakLYgsyA4NzfVPWke"
-      },
-      "artists": [
-        {
-          "name": "KANGDANIEL",
-          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
-        }
-      ],
-      "duration_ms": 185760,
-      "name": "TOUCHIN'",
-      "url": "https://open.spotify.com/track/4N5jdijK8DSBbBd4A30DUe"
     },
     {
       "added_at": "2026-01-22 06:35:47",
@@ -951,6 +935,22 @@
       "duration_ms": 222860,
       "name": "Hug Me",
       "url": "https://open.spotify.com/track/7J28iQgZUf4sCfGKRFUazO"
+    },
+    {
+      "added_at": "2026-01-22 06:35:47",
+      "album": {
+        "name": "TOUCHIN'",
+        "url": "https://open.spotify.com/album/08FjoakLYgsyA4NzfVPWke"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "duration_ms": 185760,
+      "name": "TOUCHIN'",
+      "url": "https://open.spotify.com/track/4N5jdijK8DSBbBd4A30DUe"
     },
     {
       "added_at": "2026-01-22 06:35:47",

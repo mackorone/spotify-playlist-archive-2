@@ -4,7 +4,7 @@
 
 > Het leven is 'beautiful' en dat verdient fijne muziek!
 
-192 songs - 10 hr 46 min
+195 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [I'm In Heaven](https://open.spotify.com/track/5Ycw4NgU1nxx2aFZbX1ULW) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [I'm In Heaven](https://open.spotify.com/album/4g68SKo4DiuPYlpRdblVme) | 3:25 | 2026-01-10 |  |
 | [If You Would Prove Me Wrong Now](https://open.spotify.com/track/1Z1Z33mYJe4z2XT9FFYB76) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [If You Would Prove Me Wrong Now](https://open.spotify.com/album/2O9T2PFFsswlLkoe9dkh0q) | 3:37 | 2024-12-20 | 2025-09-16 |
 | [Il Mare Calmo della Sera \(feat\. Chris Stapleton\)](https://open.spotify.com/track/6hIPQdA0r7ulZQFnMakEdh) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Duets \(30th Anniversary\)](https://open.spotify.com/album/0Iv3XfTgPnPqxPyCf9yt2C) | 4:35 | 2025-04-11 |  |
-| [It Ain't Easy](https://open.spotify.com/track/342GqbRoRy44h9uo5yYSTq) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [It Ain't Easy](https://open.spotify.com/album/0mlqIx7Cd69n4hcR2wYQSs) | 2:35 | 2025-06-19 |  |
+| [It Ain't Easy](https://open.spotify.com/track/342GqbRoRy44h9uo5yYSTq) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [It Ain't Easy](https://open.spotify.com/album/0mlqIx7Cd69n4hcR2wYQSs) | 2:35 | 2025-06-19 | 2026-01-30 |
 | [It's You Or Me](https://open.spotify.com/track/4hq7e1IgOKKS3nmfUaEwaH) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [It's You Or Me](https://open.spotify.com/album/1arwfvhx4Ox7cl84QqHCUl) | 3:54 | 2024-07-18 | 2025-05-13 |
 | [It’s Only Love](https://open.spotify.com/track/1KmEeOA2kv2hHJyB9ot7VJ) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [It’s Only Love](https://open.spotify.com/album/7l9L7caVe7NPNhWlzC2Xee) | 3:24 | 2025-08-29 |  |
 | [IYKYK](https://open.spotify.com/track/1wkze3nOLQkWG9uHjHaKjc) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [IYKYK](https://open.spotify.com/album/7DtIpa0EWgU79yWXKnAx4t) | 3:28 | 2024-07-01 | 2024-10-22 |
@@ -117,7 +117,7 @@
 | [Love Of My Life](https://open.spotify.com/track/0Q3RbOiHt7aPTBOQDDMOw3) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Love Of My Life](https://open.spotify.com/album/5gTrlQZgwWH7WdAShMZEmP) | 2:55 | 2025-12-04 |  |
 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 | 2025-04-11 |  |
 | [Malibu](https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Malibu](https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm) | 4:02 | 2025-07-17 |  |
-| [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 | 2025-05-12 |  |
+| [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 | 2025-05-12 | 2026-01-30 |
 | [Mirage \- for Assassin's Creed Mirage](https://open.spotify.com/track/7bgIcSp0Nd3qfHqwxQplzW) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Mirage \(for Assassin's Creed Mirage\)](https://open.spotify.com/album/0G3FKRjRW1ERSTRjWZWCjz) | 2:13 | 2024-07-01 | 2024-09-25 |
 | [Money In My Head](https://open.spotify.com/track/7cBiYJkUlPaBDhgt2LzBqe) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Something Out Of Nothing](https://open.spotify.com/album/2PuHWNSPxzkSmyCIj5K1EF) | 3:08 | 2024-07-01 | 2025-02-18 |
 | [Morning Blue](https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Morning Blue](https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG) | 3:37 | 2024-07-01 | 2024-09-06 |
@@ -153,6 +153,7 @@
 | [Sleep When I'm With You](https://open.spotify.com/track/3Va9eANCm7FrpByrRLkQvk) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Sleep When I'm With You](https://open.spotify.com/album/5GjwbyGJ0KlBoOR3uUt8Co) | 2:59 | 2024-07-01 | 2025-01-07 |
 | [Smoke On the Highway](https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 4:13 | 2024-09-24 | 2025-05-29 |
 | [Somebody](https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Somebody](https://open.spotify.com/album/3jt8M4vaXSkrhi34KuFLuT) | 3:55 | 2024-07-01 | 2024-10-22 |
+| [Someone](https://open.spotify.com/track/1CPYk6DJVNCqkaGBTJyOL7) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk) | [Someone](https://open.spotify.com/album/5wG4HXdEXxw1rQmSOWZRgV) | 3:10 | 2026-01-29 |  |
 | [Something](https://open.spotify.com/track/1qWkZqddBfB2gT9timbnN4) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Something](https://open.spotify.com/album/7LiLmYbPYkFyyaHnDLlE4P) | 4:20 | 2025-05-26 |  |
 | [Something To Remember](https://open.spotify.com/track/2p8NCaU68YwlL8ZNnyLFxx) | [Thomas Nicolas](https://open.spotify.com/artist/7pXdNMrXe30tL64f3N5rN8) | [Something To Remember](https://open.spotify.com/album/5dNXnpsIQ7uYPOX8r4pruv) | 2:47 | 2024-07-01 | 2025-03-18 |
 | [Speed Of Light](https://open.spotify.com/track/42bzmBc47mF1HTOi8baDb5) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Speed Of Light](https://open.spotify.com/album/3KJ36A4THBFS2RDTxSjSar) | 3:07 | 2024-09-12 | 2025-06-20 |
@@ -162,6 +163,7 @@
 | [Still Love](https://open.spotify.com/track/3VN2hCxJRJEVjWwAMd10sL) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk) | [Still Love](https://open.spotify.com/album/7i076sfhcW2scS62C8bHQQ) | 2:57 | 2024-09-19 | 2025-05-23 |
 | [Stripes](https://open.spotify.com/track/0m44vc74oAmoRLXS6QToW8) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Stripes](https://open.spotify.com/album/5e1hRjKNjbpWu6AntxnJMM) | 3:11 | 2025-08-29 | 2026-01-15 |
 | [Summer Song](https://open.spotify.com/track/3xQXrWF1BKYT3iDpXJ446h) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Summer Song](https://open.spotify.com/album/6RpGbfen2B1Opo0plCqxQK) | 3:52 | 2024-07-01 | 2025-03-08 |
+| [SWEET LOVE](https://open.spotify.com/track/1bx6QL4eUThXV2jS3B9atn) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [SWEET LOVE](https://open.spotify.com/album/1LEX8A7hoDloo5pJrVrb2f) | 2:25 | 2026-01-29 |  |
 | [Tainted](https://open.spotify.com/track/1KY71U9JNydW5ZxvUgemc2) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Tainted](https://open.spotify.com/album/2xacv88eGjNUhLTFj4C8w5) | 3:01 | 2024-07-23 | 2025-04-25 |
 | [talking to myself](https://open.spotify.com/track/4cJ7PE4KoLaUJg2S1iQMs3) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [talking to myself](https://open.spotify.com/album/4Q6zy7BRVEapZ8b0haQ6Tq) | 2:53 | 2025-01-23 | 2026-01-15 |
 | [Taste of Heaven](https://open.spotify.com/track/7lHu3bOYZBJNwlftCTZxfh) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Taste of Heaven](https://open.spotify.com/album/1j5cyAmFErb1wF3SYGRuCQ) | 2:37 | 2026-01-10 |  |
@@ -179,8 +181,9 @@
 | [Unbind](https://open.spotify.com/track/4TvpYr1gFtYxtZ4yn2LVuI) | [Eloi Youssef](https://open.spotify.com/artist/4y0egYlrx2v3IzeciScO2A) | [Unbind](https://open.spotify.com/album/04wo4zBOGQzQlbYADhO8xO) | 3:27 | 2025-10-07 |  |
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2024-07-01 | 2025-01-07 |
 | [Wastelands](https://open.spotify.com/track/0XFPoeF4wAc2lBckxnoKdP) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [Sphinx](https://open.spotify.com/album/65aaWX8pDif9qt6u4kNPpq) | 3:40 | 2025-01-06 | 2026-01-24 |
+| [We all need someone](https://open.spotify.com/track/6x3EGr8fohAjTekpiBAcRK) | [TP Le Green](https://open.spotify.com/artist/0jUArnj5Djqg2vZKfmFhIz) | [We all need someone](https://open.spotify.com/album/623d15xTlB6RC5zhVAy0uM) | 4:25 | 2026-01-29 |  |
 | [We Don't Talk Anymore](https://open.spotify.com/track/4NWv4swJxPCV20DAWQSnl4) | [Mercy John](https://open.spotify.com/artist/1zJU6SWc4fzECllRZbixhJ) | [We Don't Talk Anymore](https://open.spotify.com/album/7CmcpL0ZCLlvv64EzaW94m) | 3:43 | 2025-11-19 |  |
-| [We're Gonna Be Okay](https://open.spotify.com/track/2gZ3Twqqirs6A2Xf1mBubH) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [We're Gonna Be Okay](https://open.spotify.com/album/6gGP8SyIyRCAxsMhk11HY5) | 2:59 | 2025-01-16 |  |
+| [We're Gonna Be Okay](https://open.spotify.com/track/2gZ3Twqqirs6A2Xf1mBubH) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [We're Gonna Be Okay](https://open.spotify.com/album/6gGP8SyIyRCAxsMhk11HY5) | 2:59 | 2025-01-16 | 2026-01-30 |
 | [Weak In The Knees](https://open.spotify.com/track/4iVzeNvV42xwtm4bvKJ2Iu) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Weak In The Knees](https://open.spotify.com/album/50dhdw314flh7k7IKBDP9p) | 3:06 | 2024-07-15 | 2025-04-25 |
 | [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2025-06-26 | 2025-08-30 |
 | [Weekends](https://open.spotify.com/track/4I1hG0PHHar6Jy8WZSvHmI) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Weekends](https://open.spotify.com/album/7MY5s9z7uyS4YRy1AGL3rt) | 3:20 | 2024-07-01 | 2024-07-05 |

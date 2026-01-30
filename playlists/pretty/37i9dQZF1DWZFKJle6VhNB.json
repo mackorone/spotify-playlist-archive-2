@@ -1,6 +1,6 @@
 {
   "description": "Grandes hits pra enfrentar toda lou\u00e7a suja que insiste em brotar na pia!",
-  "num_followers": 444192,
+  "num_followers": 444210,
   "original_name": "Lou\u00e7a Infinita",
   "owner": {
     "name": "Spotify",
@@ -451,26 +451,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Bum Bum Tam Tam",
-        "url": "https://open.spotify.com/album/1UztRYkao2VfuSoSlbYVJG"
-      },
-      "artists": [
-        {
-          "name": "MC Fioti",
-          "url": "https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd"
-        },
-        {
-          "name": "Novo Imp\u00e9rio",
-          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
-        }
-      ],
-      "duration_ms": 155550,
-      "name": "Bum Bum Tam Tam",
-      "url": "https://open.spotify.com/track/7KBfjlQ85Fqs2MCCvXSW0c"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Vem Me Satisfazer",
         "url": "https://open.spotify.com/album/04frJOjcTaZjBc80SmMhHN"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 188388,
       "name": "Vem Me Satisfazer",
       "url": "https://open.spotify.com/track/63SHcJzckFykS8faA5zojY"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Bum Bum Tam Tam",
+        "url": "https://open.spotify.com/album/1UztRYkao2VfuSoSlbYVJG"
+      },
+      "artists": [
+        {
+          "name": "MC Fioti",
+          "url": "https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd"
+        },
+        {
+          "name": "Novo Imp\u00e9rio",
+          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
+        }
+      ],
+      "duration_ms": 155550,
+      "name": "Bum Bum Tam Tam",
+      "url": "https://open.spotify.com/track/7KBfjlQ85Fqs2MCCvXSW0c"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Eu e Voc\u00ea Sempre",
-        "url": "https://open.spotify.com/album/3pdKrwCCvPYI1o9liG2OMF"
-      },
-      "artists": [
-        {
-          "name": "Exaltasamba",
-          "url": "https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw"
-        }
-      ],
-      "duration_ms": 208173,
-      "name": "Me Apaixonei Pela Pessoa Errada",
-      "url": "https://open.spotify.com/track/3IbQGxLsZfV8EzA7ILNDwB"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Hoje",
         "url": "https://open.spotify.com/album/3IW2BnN4ynkoxAEftrT8eN"
       },
@@ -931,18 +915,34 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Maxximum - S\u00f3 Pra Contrariar",
-        "url": "https://open.spotify.com/album/6Nm5DiOuT2rp5b8ahF5Yz4"
+        "name": "Eu e Voc\u00ea Sempre",
+        "url": "https://open.spotify.com/album/3pdKrwCCvPYI1o9liG2OMF"
       },
       "artists": [
         {
-          "name": "S\u00f3 Pra Contrariar",
-          "url": "https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1"
+          "name": "Exaltasamba",
+          "url": "https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw"
         }
       ],
-      "duration_ms": 240533,
-      "name": "Que Se Chama Amor",
-      "url": "https://open.spotify.com/track/3q8U4Q7zDxLPSsx8upRq1Z"
+      "duration_ms": 208173,
+      "name": "Me Apaixonei Pela Pessoa Errada",
+      "url": "https://open.spotify.com/track/3IbQGxLsZfV8EzA7ILNDwB"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Beijinho no Ombro",
+        "url": "https://open.spotify.com/album/0ofNAjXeTd2H2co7rKhKTE"
+      },
+      "artists": [
+        {
+          "name": "Valesca Popozuda",
+          "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
+        }
+      ],
+      "duration_ms": 164615,
+      "name": "Beijinho no Ombro",
+      "url": "https://open.spotify.com/track/4k3HBeh98WWN2ybGHC0WQI"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -983,24 +983,24 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Beijinho no Ombro",
-        "url": "https://open.spotify.com/album/0ofNAjXeTd2H2co7rKhKTE"
+        "name": "Maxximum - S\u00f3 Pra Contrariar",
+        "url": "https://open.spotify.com/album/6Nm5DiOuT2rp5b8ahF5Yz4"
       },
       "artists": [
         {
-          "name": "Valesca Popozuda",
-          "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
+          "name": "S\u00f3 Pra Contrariar",
+          "url": "https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1"
         }
       ],
-      "duration_ms": 164615,
-      "name": "Beijinho no Ombro",
-      "url": "https://open.spotify.com/track/4k3HBeh98WWN2ybGHC0WQI"
+      "duration_ms": 240533,
+      "name": "Que Se Chama Amor",
+      "url": "https://open.spotify.com/track/3q8U4Q7zDxLPSsx8upRq1Z"
     },
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "As Quatro Esta\u00e7\u00f5es (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6TtQt38vkUQkbIljv80oB2"
+        "name": "As Quatro Esta\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/5Rbgk96ZERiqT0L9ypqgdS"
       },
       "artists": [
         {
@@ -1008,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
         }
       ],
-      "duration_ms": 271333,
-      "name": "A Lenda",
-      "url": "https://open.spotify.com/track/1mBaOJ4OPDqJBMp0luG7Ej"
+      "duration_ms": 208733,
+      "name": "Olha O Que O Amor Me Faz / Cita\u00e7\u00e3o: All By Myself - Medley",
+      "url": "https://open.spotify.com/track/1rMcQF59UMomlc0HJy9j5W"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1099,8 +1099,8 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "As Quatro Esta\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/5Rbgk96ZERiqT0L9ypqgdS"
+        "name": "As Quatro Esta\u00e7\u00f5es (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6TtQt38vkUQkbIljv80oB2"
       },
       "artists": [
         {
@@ -1108,9 +1108,9 @@
           "url": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
         }
       ],
-      "duration_ms": 208733,
-      "name": "Olha O Que O Amor Me Faz / Cita\u00e7\u00e3o: All By Myself - Medley",
-      "url": "https://open.spotify.com/track/1rMcQF59UMomlc0HJy9j5W"
+      "duration_ms": 271333,
+      "name": "A Lenda",
+      "url": "https://open.spotify.com/track/1mBaOJ4OPDqJBMp0luG7Ej"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Encaixa",
-        "url": "https://open.spotify.com/album/2aIFyJR1TbFuxBjRXt3UMA"
-      },
-      "artists": [
-        {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
-        },
-        {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 169364,
-      "name": "Encaixa",
-      "url": "https://open.spotify.com/track/6VXpxDMdPfMrFF8UmZRm87"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Hello mundo",
         "url": "https://open.spotify.com/album/4U50KjTvyDPWy06dw6KqSq"
       },
@@ -1243,18 +1223,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "10 Anos Na Praia (Ao Vivo / Vol. 1)",
-        "url": "https://open.spotify.com/album/6rtq152SsRhAcAvGmzoBWl"
+        "name": "Encaixa",
+        "url": "https://open.spotify.com/album/2aIFyJR1TbFuxBjRXt3UMA"
       },
       "artists": [
         {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        },
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
         }
       ],
-      "duration_ms": 170197,
-      "name": "Litr\u00e3o - Ao Vivo Em Recife / 2020",
-      "url": "https://open.spotify.com/track/5W1kqz2l1lDX77DXBMeXZg"
+      "duration_ms": 169364,
+      "name": "Encaixa",
+      "url": "https://open.spotify.com/track/6VXpxDMdPfMrFF8UmZRm87"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1271,6 +1255,22 @@
       "duration_ms": 180000,
       "name": "Tchubirabirom",
       "url": "https://open.spotify.com/track/1Ugs1DpzuJLNjLCuSJ4oJc"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "10 Anos Na Praia (Ao Vivo / Vol. 1)",
+        "url": "https://open.spotify.com/album/6rtq152SsRhAcAvGmzoBWl"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 170197,
+      "name": "Litr\u00e3o - Ao Vivo Em Recife / 2020",
+      "url": "https://open.spotify.com/track/5W1kqz2l1lDX77DXBMeXZg"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1367,34 +1367,26 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Arena Pop 2014",
-        "url": "https://open.spotify.com/album/02Tl6kO2w7U3DMwxGzr6TS"
+        "name": "Verdinha",
+        "url": "https://open.spotify.com/album/5LTk5zESurK61KmqqF7NsO"
       },
       "artists": [
         {
-          "name": "Psirico",
-          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
-        }
-      ],
-      "duration_ms": 197080,
-      "name": "Lepo Lepo",
-      "url": "https://open.spotify.com/track/466nusIUJceQ5qiuugLuYf"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Temporal (Audio)",
-        "url": "https://open.spotify.com/album/2lRSH6BQ3PcmIB1F6nOMiX"
-      },
-      "artists": [
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
         {
-          "name": "Art Popular",
-          "url": "https://open.spotify.com/artist/6YMWV5AeYoZymMMDonMfsA"
+          "name": "Topo La Maskara",
+          "url": "https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP"
+        },
+        {
+          "name": "Walshy Fire",
+          "url": "https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih"
         }
       ],
-      "duration_ms": 191933,
-      "name": "Pimpolho",
-      "url": "https://open.spotify.com/track/0G3PPOWMMPwBJIEH7Udnsu"
+      "duration_ms": 160395,
+      "name": "Verdinha",
+      "url": "https://open.spotify.com/track/2RMOwSvOGQyy985Vx4VSGQ"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1411,6 +1403,22 @@
       "duration_ms": 140000,
       "name": "FICA \u00c0 VONTADE",
       "url": "https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Arena Pop 2014",
+        "url": "https://open.spotify.com/album/02Tl6kO2w7U3DMwxGzr6TS"
+      },
+      "artists": [
+        {
+          "name": "Psirico",
+          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
+        }
+      ],
+      "duration_ms": 197080,
+      "name": "Lepo Lepo",
+      "url": "https://open.spotify.com/track/466nusIUJceQ5qiuugLuYf"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1435,26 +1443,18 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Verdinha",
-        "url": "https://open.spotify.com/album/5LTk5zESurK61KmqqF7NsO"
+        "name": "Temporal (Audio)",
+        "url": "https://open.spotify.com/album/2lRSH6BQ3PcmIB1F6nOMiX"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Topo La Maskara",
-          "url": "https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP"
-        },
-        {
-          "name": "Walshy Fire",
-          "url": "https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih"
+          "name": "Art Popular",
+          "url": "https://open.spotify.com/artist/6YMWV5AeYoZymMMDonMfsA"
         }
       ],
-      "duration_ms": 160395,
-      "name": "Verdinha",
-      "url": "https://open.spotify.com/track/2RMOwSvOGQyy985Vx4VSGQ"
+      "duration_ms": 191933,
+      "name": "Pimpolho",
+      "url": "https://open.spotify.com/track/0G3PPOWMMPwBJIEH7Udnsu"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Valeu Exalta!",
-        "url": "https://open.spotify.com/album/6VOMUqy6aAwy0L2ISPGrIJ"
-      },
-      "artists": [
-        {
-          "name": "Exaltasamba",
-          "url": "https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw"
-        }
-      ],
-      "duration_ms": 219253,
-      "name": "Telegrama",
-      "url": "https://open.spotify.com/track/0hDGrqlzFtt73WkNIKMDA8"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Tudo Em Paz, Vol. 1",
         "url": "https://open.spotify.com/album/1GLViCxaCfb75xbzBGbskT"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 157354,
       "name": "Paradigmas",
       "url": "https://open.spotify.com/track/158ukl5rih76dOEsp0I91H"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Valeu Exalta!",
+        "url": "https://open.spotify.com/album/6VOMUqy6aAwy0L2ISPGrIJ"
+      },
+      "artists": [
+        {
+          "name": "Exaltasamba",
+          "url": "https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw"
+        }
+      ],
+      "duration_ms": 219253,
+      "name": "Telegrama",
+      "url": "https://open.spotify.com/track/0hDGrqlzFtt73WkNIKMDA8"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1675,22 +1675,18 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Ao Vivo Em Goi\u00e2nia",
-        "url": "https://open.spotify.com/album/6wEkHIUHNb1kZiV2nCnVoh"
+        "name": "V\u00e1rias Novinhas",
+        "url": "https://open.spotify.com/album/7AfIAazku7hdzBpyufm7Gx"
       },
       "artists": [
         {
-          "name": "Cristiano Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
-        },
-        {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
         }
       ],
-      "duration_ms": 169986,
-      "name": "Bara Bara",
-      "url": "https://open.spotify.com/track/2sy6pIiHstUzImrkUXB1K6"
+      "duration_ms": 139041,
+      "name": "V\u00e1rias Novinhas",
+      "url": "https://open.spotify.com/track/779I9FojBtIvVPtQe1DSRI"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1735,34 +1731,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "V\u00e1rias Novinhas",
-        "url": "https://open.spotify.com/album/7AfIAazku7hdzBpyufm7Gx"
+        "name": "Ao Vivo Em Goi\u00e2nia",
+        "url": "https://open.spotify.com/album/6wEkHIUHNb1kZiV2nCnVoh"
       },
       "artists": [
         {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 139041,
-      "name": "V\u00e1rias Novinhas",
-      "url": "https://open.spotify.com/track/779I9FojBtIvVPtQe1DSRI"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "De Volta Pro Amanh\u00e3, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6AlWBOYX2xk7rgOx4ylI8E"
-      },
-      "artists": [
+          "name": "Cristiano Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
+        },
         {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
         }
       ],
-      "duration_ms": 119304,
-      "name": "Assim Voc\u00ea Mata o Papai - Ao Vivo",
-      "url": "https://open.spotify.com/track/5bPMvKwUuGG9LD9j5ufVkB"
+      "duration_ms": 169986,
+      "name": "Bara Bara",
+      "url": "https://open.spotify.com/track/2sy6pIiHstUzImrkUXB1K6"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1779,6 +1763,22 @@
       "duration_ms": 242133,
       "name": "Mel da Sua Boca",
       "url": "https://open.spotify.com/track/5StjBn63VYSJtMJbNJAtA7"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "De Volta Pro Amanh\u00e3, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6AlWBOYX2xk7rgOx4ylI8E"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 119304,
+      "name": "Assim Voc\u00ea Mata o Papai - Ao Vivo",
+      "url": "https://open.spotify.com/track/5bPMvKwUuGG9LD9j5ufVkB"
     },
     {
       "added_at": "2022-02-10 18:18:16",

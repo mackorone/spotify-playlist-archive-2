@@ -846,7 +846,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 480990,
       "name": "Carry Me",
       "url": "https://open.spotify.com/track/06fxnpXNeFEd3LzsHn8Wwy"
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 316927,
       "name": "Ebenezer",
       "url": "https://open.spotify.com/track/7AVUn7XDkSjcKLzoHze8kQ"
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 288000,
       "name": "Elohim You Are Beautiful - Remix",
       "url": "https://open.spotify.com/track/5DdDxKedT3JIYmUBIRyDFA"
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 544918,
       "name": "Emmanuel",
       "url": "https://open.spotify.com/track/5jiwZ0QanieOPplSznG8RQ"
@@ -1482,7 +1482,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 965565,
       "name": "Emperor of the Universe",
       "url": "https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo"
@@ -2315,6 +2315,24 @@
     },
     {
       "album": {
+        "name": "Holy Ghost My Safe Zone",
+        "url": "https://open.spotify.com/album/4PeewXLsxJ53DZxdYto0b6"
+      },
+      "artists": [
+        {
+          "name": "Hubert Onuorah",
+          "url": "https://open.spotify.com/artist/2pQj1Ma7lTVr7ec77obB4y"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 576041,
+      "name": "Holy Ghost My Safe Zone",
+      "url": "https://open.spotify.com/track/6eisBzfE1a6sxwFiZBW0Lj"
+    },
+    {
+      "album": {
         "name": "Holy Holy - Deep Worship Chant",
         "url": "https://open.spotify.com/album/2A863Man9dbk8E8mRerdRY"
       },
@@ -2356,6 +2374,24 @@
       "duration_ms": 524701,
       "name": "Holy Holy - Revisited",
       "url": "https://open.spotify.com/track/4F27Sv0lG1bwpgB77uxmK8"
+    },
+    {
+      "album": {
+        "name": "HOLY PLACE",
+        "url": "https://open.spotify.com/album/2opgoS8ibTjPJCU55jgkt4"
+      },
+      "artists": [
+        {
+          "name": "Grace Idowu",
+          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257892,
+      "name": "HOLY PLACE",
+      "url": "https://open.spotify.com/track/5jkD22xzTiwTLp90CBpTmr"
     },
     {
       "album": {
@@ -2708,7 +2744,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 592500,
       "name": "I will never bow",
       "url": "https://open.spotify.com/track/0RicsAMU6yVoDzGtOHsByv"
@@ -3477,6 +3513,24 @@
     },
     {
       "album": {
+        "name": "Master",
+        "url": "https://open.spotify.com/album/2gqKKTHTm3pIxAFY0jaHQP"
+      },
+      "artists": [
+        {
+          "name": "Kemelord",
+          "url": "https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389564,
+      "name": "Master",
+      "url": "https://open.spotify.com/track/1UKRuV8Wr639lSkaFiZnXL"
+    },
+    {
+      "album": {
         "name": "Medley of Hymns (Live)",
         "url": "https://open.spotify.com/album/1WV9GzzcR3CPaCUvlzeU9H"
       },
@@ -3794,7 +3848,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 773304,
       "name": "My Lover & Father - Live",
       "url": "https://open.spotify.com/track/1RySgUH9LuWJ4hTFh0o4gI"
@@ -4501,6 +4555,28 @@
     },
     {
       "album": {
+        "name": "Revival Is Calling",
+        "url": "https://open.spotify.com/album/7tKsDCPcpySdghtiT148TK"
+      },
+      "artists": [
+        {
+          "name": "Macwealth & The Seraphs",
+          "url": "https://open.spotify.com/artist/7t4MkN7ebYzrUZGJMGY3Bb"
+        },
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 538000,
+      "name": "Revival Is Calling",
+      "url": "https://open.spotify.com/track/2OEAgnFxoKXHygiVELBKBW"
+    },
+    {
+      "album": {
         "name": "Revival Is Here",
         "url": "https://open.spotify.com/album/2CXxrqiubmUgRq2kU0Obge"
       },
@@ -4736,7 +4812,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 335266,
       "name": "Spontaneous Endless Worship",
       "url": "https://open.spotify.com/track/1wxbaC0dbPDrgdnlQp1rlg"
@@ -5364,7 +5440,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 144213,
       "name": "Wonderful - African Worship Medley/Live",
       "url": "https://open.spotify.com/track/7JV1mx4hsvRUtdkcXlZt8L"

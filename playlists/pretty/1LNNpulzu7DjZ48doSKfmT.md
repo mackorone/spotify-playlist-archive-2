@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 456 likes - 495 songs - 1 day 1 hr 4 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 456 likes - 496 songs - 1 day 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -503,5 +503,6 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 493 | [Crees Que No Dolio 3](https://open.spotify.com/track/7n1fK65PpkaZYVGDbMrokg) | [DOMINICK LOS LEGENDARIOS](https://open.spotify.com/artist/46uQlWjG1RaoIk5R2qOxIO), [Yare](https://open.spotify.com/artist/5JshQ8OeZaQetz4IGUIkua), [Escorpion](https://open.spotify.com/artist/0QXkkSoOsXNi80RUFHk10O), [Abraham MA](https://open.spotify.com/artist/3a1AzxbCKipBtCMw7caMEq), [bigcharu la lealtad](https://open.spotify.com/artist/08azD8575wd3f1QdfaDBLz), [Gary el inmune](https://open.spotify.com/artist/1IsArmIsoHbJoVhfpxTl8E), [YEICK](https://open.spotify.com/artist/1uD8mv7v7BGzRec1R2qVNV) | [Crees Que No Dolio 3](https://open.spotify.com/album/3phkVgraplvNFUGdfM6wIp) | 5:48 |
 | 494 | [Fuego](https://open.spotify.com/track/3D9XhFSB0koxGQSPX2M4FL) | [Eclipse](https://open.spotify.com/artist/5WLzptHkat4VSiCIrbzIbB) | [Fuego](https://open.spotify.com/album/1amQQ6XnhYM5E4nLlgDDRr) | 2:24 |
 | 495 | [Demons](https://open.spotify.com/track/5GZjTmYwEFY36pS2wJN7ff) | [Kayze](https://open.spotify.com/artist/6NMa3C1AQx6cCPKohtKYVz), [Donn](https://open.spotify.com/artist/1uvfJIjMaBKj3KXTLcWpFE), [Mu'Dogo](https://open.spotify.com/artist/20crtPiXt9nwgtjGYswQdW) | [Demons](https://open.spotify.com/album/6fKeP3HVE6MWSFuQJCLZOt) | 2:35 |
+| 496 | [Imaginación Ó Realidad](https://open.spotify.com/track/3A6LxZEURYea7o9w1LhqsA) | [Círculo Bohemio](https://open.spotify.com/artist/4CG9sGYFOgr9Y2PNhEBPr8) | [Imaginación Ó Realidad](https://open.spotify.com/album/4FzYME0DswDX356HOfagmq) | 4:56 |
 
-Snapshot ID: `AAAZXq9cxFAc0E56s1wHiatyXcR7v02f`
+Snapshot ID: `AAAZX3DGHHWM56UaNkH1+x2BaixPFfLe`

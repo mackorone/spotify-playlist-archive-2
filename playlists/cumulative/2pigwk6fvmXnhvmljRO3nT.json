@@ -19215,6 +19215,28 @@
     },
     {
       "album": {
+        "name": "sankofa",
+        "url": "https://open.spotify.com/album/2jDIRykwSLgdYETP0IQES3"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216749,
+      "name": "brown sugar",
+      "url": "https://open.spotify.com/track/6qKpRzWWhpeBvm4iSJrJLR"
+    },
+    {
+      "album": {
         "name": "Bruce Wayne",
         "url": "https://open.spotify.com/album/4w9vl62zVJkZ5ADdAxP55c"
       },
@@ -47179,6 +47201,24 @@
     },
     {
       "album": {
+        "name": "Kyougen",
+        "url": "https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276080,
+      "name": "Gira Gira",
+      "url": "https://open.spotify.com/track/0vHCmjN8pepvdu41r69gcB"
+    },
+    {
+      "album": {
         "name": "Girl on Fire (Remixes) - EP",
         "url": "https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN"
       },
@@ -54082,6 +54122,24 @@
       "duration_ms": 207307,
       "name": "History",
       "url": "https://open.spotify.com/track/4TwVtW8hS5LyLoDtJGpUOg"
+    },
+    {
+      "album": {
+        "name": "sankofa",
+        "url": "https://open.spotify.com/album/2jDIRykwSLgdYETP0IQES3"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190312,
+      "name": "history",
+      "url": "https://open.spotify.com/track/3xUlkUR0ccrpzCnNgwF4us"
     },
     {
       "album": {
@@ -81105,7 +81163,7 @@
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 57495,
+      "duration_ms": 57443,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/1w327AHTCoChRIkJUprAnV"
     },
@@ -127958,6 +128016,24 @@
       "duration_ms": 422853,
       "name": "Time",
       "url": "https://open.spotify.com/track/3TO7bbrUKrOSPGRTB5MeCz"
+    },
+    {
+      "album": {
+        "name": "sankofa",
+        "url": "https://open.spotify.com/album/2jDIRykwSLgdYETP0IQES3"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118184,
+      "name": "time (a dream deferred)",
+      "url": "https://open.spotify.com/track/7pQmOaawg2DMtlnIWc9SNY"
     },
     {
       "album": {

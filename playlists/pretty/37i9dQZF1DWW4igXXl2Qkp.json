@@ -1,48 +1,32 @@
 {
   "description": "The best new hip-hop tracks from independent artists & labels. Cover: <a href=\"spotify:artist:5hfKHmE2Vo9XyLyIJZe3rl\">Yung Skooley</a> ",
-  "num_followers": 285280,
+  "num_followers": 285321,
   "original_name": "Fresh Finds Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABGzTAochpvZnoGD385TQzkdqtFe",
+  "snapshot_id": "AAAAABVJgpozjgLqMepDz7zZVIOXdxci",
   "tracks": [
     {
       "added_at": "2026-01-28 22:52:07",
       "album": {
-        "name": "Look At The Sky",
-        "url": "https://open.spotify.com/album/0PjsfQ214HanVNGaIGXsEF"
+        "name": "Sharks Never Stop Swimming 2",
+        "url": "https://open.spotify.com/album/5y7AuFcf3HSVJD5XpPEO47"
       },
       "artists": [
         {
-          "name": "Kromow",
-          "url": "https://open.spotify.com/artist/1b6d3fFLaHyLRs114XalaA"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Look At The Sky",
-      "url": "https://open.spotify.com/track/1qOEftqzEzXzfv1IouD7s8"
-    },
-    {
-      "added_at": "2026-01-28 22:52:07",
-      "album": {
-        "name": "Small Talk",
-        "url": "https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB"
-      },
-      "artists": [
-        {
-          "name": "Ovrkast.",
-          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
+          "name": "Yung Skooley",
+          "url": "https://open.spotify.com/artist/5hfKHmE2Vo9XyLyIJZe3rl"
         },
         {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
         }
       ],
-      "duration_ms": 193883,
-      "name": "Small Talk",
-      "url": "https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N"
+      "duration_ms": 141175,
+      "name": "LA Lakers",
+      "url": "https://open.spotify.com/track/1cSkj5yKNKGXx3ba0yFaMo"
     },
     {
       "added_at": "2026-01-28 22:52:07",
@@ -83,22 +67,38 @@
     {
       "added_at": "2026-01-28 22:52:07",
       "album": {
-        "name": "Sharks Never Stop Swimming 2",
-        "url": "https://open.spotify.com/album/5y7AuFcf3HSVJD5XpPEO47"
+        "name": "Look At The Sky",
+        "url": "https://open.spotify.com/album/0PjsfQ214HanVNGaIGXsEF"
       },
       "artists": [
         {
-          "name": "Yung Skooley",
-          "url": "https://open.spotify.com/artist/5hfKHmE2Vo9XyLyIJZe3rl"
-        },
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+          "name": "Kromow",
+          "url": "https://open.spotify.com/artist/1b6d3fFLaHyLRs114XalaA"
         }
       ],
-      "duration_ms": 141175,
-      "name": "LA Lakers",
-      "url": "https://open.spotify.com/track/1cSkj5yKNKGXx3ba0yFaMo"
+      "duration_ms": 128000,
+      "name": "Look At The Sky",
+      "url": "https://open.spotify.com/track/1qOEftqzEzXzfv1IouD7s8"
+    },
+    {
+      "added_at": "2026-01-28 22:52:07",
+      "album": {
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB"
+      },
+      "artists": [
+        {
+          "name": "Ovrkast.",
+          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
+        },
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 193883,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N"
     },
     {
       "added_at": "2026-01-28 22:52:07",

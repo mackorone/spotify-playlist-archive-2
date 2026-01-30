@@ -2,7 +2,7 @@
 
 ### [Hot Hits Greece](https://open.spotify.com/playlist/37i9dQZF1DX0e5BFIQWSDG)
 
-> Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Ivan Greko, Michalis Karagkounis, Sin Laurent
+> Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Trannos
 
 428 songs - 21 hr 20 min
 

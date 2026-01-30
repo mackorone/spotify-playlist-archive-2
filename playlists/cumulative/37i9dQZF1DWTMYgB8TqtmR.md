@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-1,026 songs - 2 day 3 hr 28 min
+1,027 songs - 2 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,7 +337,7 @@
 | [Fånga mig när jag faller](https://open.spotify.com/track/6HuNgzEw9b4tDcSDCQBS1O) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fånga mig när jag faller](https://open.spotify.com/album/4NsssUJj3cxavJQDU8axoG) | 2:27 | 2023-04-27 | 2023-11-01 |
 | [för oss](https://open.spotify.com/track/1sxW6Pauxd9qCXrXOli0Xu) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [för oss](https://open.spotify.com/album/2hgV0AVu9hB4smSue0gPoV) | 3:01 | 2022-11-05 | 2023-01-27 |
 | [Förför mig](https://open.spotify.com/track/5i8OzyvCnieyg5twoH0kMh) | [Alex Järvi](https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE) | [Förför mig](https://open.spotify.com/album/4Ocv8AAKKEe9YaE7B6FtMe) | 2:39 | 2022-04-28 | 2022-06-10 |
-| [Förr nu & forever](https://open.spotify.com/track/2TOQs76tr9Ua2g4c8SyBEw) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Förr nu & forever](https://open.spotify.com/album/0VgMibLJeMzYTBq4jVXUqC) | 3:45 | 2025-08-28 |  |
+| [Förr nu & forever](https://open.spotify.com/track/2TOQs76tr9Ua2g4c8SyBEw) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Förr nu & forever](https://open.spotify.com/album/0VgMibLJeMzYTBq4jVXUqC) | 3:45 | 2025-08-28 | 2026-01-30 |
 | [Försent](https://open.spotify.com/track/3KbL6Ia5Fb8xO8IfZ6iC8U) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Försent](https://open.spotify.com/album/6JM1pPeBavGguuY5pBEv0k) | 4:13 | 2024-07-25 | 2025-04-05 |
 | [Förstå mig](https://open.spotify.com/track/3j0HI048DJuzpG7oTugkBF) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Y4](https://open.spotify.com/album/1Hmubk9vXxysBNC3qv9iGe) | 1:50 | 2025-05-29 | 2025-06-13 |
 | [FÖRSÖKER LE \(med Moonica Mac\)](https://open.spotify.com/track/0mK26aSgD8xXoTjLI3vi89) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL), [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [FÖRSÖKER LE \(med Moonica Mac\)](https://open.spotify.com/album/2Gz2am7y6keHTV10qXuExl) | 3:48 | 2024-12-05 | 2025-01-21 |
@@ -992,6 +992,7 @@
 | [Welou \(Better Days\)](https://open.spotify.com/track/2byIKlBKUlVFnnKIq5Vc6B) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Bland Sagor & Vapen: Del 1](https://open.spotify.com/album/6VoZyWhn7NUEFm9nn3qtFu) | 2:35 | 2024-06-03 | 2024-07-05 |
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-07-13 | 2023-12-09 |
 | [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 | 2025-04-24 | 2025-05-16 |
+| [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 | 2026-01-29 |  |
 | [What's the Point](https://open.spotify.com/track/1Cuthw0weFlC2xFEq0Pdlc) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [What's the Point](https://open.spotify.com/album/3hx0O19NU7TD8eAzg48v34) | 3:41 | 2022-11-17 | 2023-03-25 |
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-01-18 | 2024-08-16 |
 | [When Did You Get Hot?](https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:25 | 2025-09-18 | 2025-12-26 |

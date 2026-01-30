@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 15540,
+  "num_followers": 15542,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXgAAAAAAADnayBBHsN2atBXZCRKoZcp",
+  "snapshot_id": "aXlRgAAAAAB9CBn3oSgO3Vk6QsP8q7RF",
   "tracks": [
     {
       "added_at": null,
@@ -551,34 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cachorro Sincero",
-        "url": "https://open.spotify.com/album/0PWbgeNtP3j5bR7QhZ8suc"
-      },
-      "artists": [
-        {
-          "name": "CJota",
-          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "GvsnoBeat",
-          "url": "https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk"
-        }
-      ],
-      "duration_ms": 137989,
-      "name": "Diaba",
-      "url": "https://open.spotify.com/track/6OL1PIjTZoCEA4NA1yVUPj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4 Horas",
         "url": "https://open.spotify.com/album/18JMz1hQNJExLwDkvscb3T"
       },
@@ -603,6 +575,34 @@
       "duration_ms": 164000,
       "name": "4 Horas",
       "url": "https://open.spotify.com/track/7GKndeTEsy5aXL042JxM6e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cachorro Sincero",
+        "url": "https://open.spotify.com/album/0PWbgeNtP3j5bR7QhZ8suc"
+      },
+      "artists": [
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "GvsnoBeat",
+          "url": "https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk"
+        }
+      ],
+      "duration_ms": 137989,
+      "name": "Diaba",
+      "url": "https://open.spotify.com/track/6OL1PIjTZoCEA4NA1yVUPj"
     },
     {
       "added_at": null,
@@ -1055,6 +1055,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Set Ajc",
+        "url": "https://open.spotify.com/album/3DymWr7vqMdUQbX7ko9OFh"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Alt Niss",
+          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 343399,
+      "name": "Set Ajc",
+      "url": "https://open.spotify.com/track/4Rm0KWTctjT6Fw0yny87Gq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Donas do Jogo 2",
         "url": "https://open.spotify.com/album/5qq7LHmULVuDcxlGLSE7Qo"
       },
@@ -1103,42 +1139,6 @@
       "duration_ms": 110071,
       "name": "\u00daltima Vez",
       "url": "https://open.spotify.com/track/6750ETCZArnUYN2KQbXGE7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Set Ajc",
-        "url": "https://open.spotify.com/album/3DymWr7vqMdUQbX7ko9OFh"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Alt Niss",
-          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
-        },
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 343399,
-      "name": "Set Ajc",
-      "url": "https://open.spotify.com/track/4Rm0KWTctjT6Fw0yny87Gq"
     },
     {
       "added_at": null,
@@ -1271,6 +1271,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "DOISMILEVINTEHOJE",
+        "url": "https://open.spotify.com/album/2MmHJyDkIZTxHq8rWnS5Nw"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 187317,
+      "name": "Pasta Registrada",
+      "url": "https://open.spotify.com/track/4Ft94JOZnqVfteZzQikmLl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maldita",
         "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
       },
@@ -1315,38 +1347,6 @@
       "duration_ms": 162519,
       "name": "\u00c1udio Proibido",
       "url": "https://open.spotify.com/track/5XrZZrWUTuv66Z9gMK7iu2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VER\u00c3O CRIMINOSO",
-        "url": "https://open.spotify.com/album/09xyu9e9oEq8n8rmImtHmc"
-      },
-      "artists": [
-        {
-          "name": "FyeBwoii",
-          "url": "https://open.spotify.com/artist/1TqnOc6Peow4jowVNp4DZm"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Gigantes",
-          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
-        }
-      ],
-      "duration_ms": 180830,
-      "name": "DEPOIS DO BAILE",
-      "url": "https://open.spotify.com/track/6amTDRUQV1kRzAoVqqoCXw"
     }
   ],
   "unique_name": "This Is Mc Luanna",

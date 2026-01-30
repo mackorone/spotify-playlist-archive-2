@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 157440,
       "name": "Mandrake",
       "url": "https://open.spotify.com/track/1wBt59AABSYomRpGojX7cb"
@@ -1886,6 +1886,32 @@
       "duration_ms": 228252,
       "name": "Mundo Pequeno",
       "url": "https://open.spotify.com/track/5Vuu2s36p0cVA8EVLciqr5"
+    },
+    {
+      "album": {
+        "name": "M\u00e1goas, \u00d3dio e Rancor",
+        "url": "https://open.spotify.com/album/2jCvBbgk1Z8c8pJEjCvNF1"
+      },
+      "artists": [
+        {
+          "name": "DJ Jeeh FDC",
+          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
+        },
+        {
+          "name": "Iraqui ZL",
+          "url": "https://open.spotify.com/artist/4m8sn4hTvGG1pqoqdPrevS"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "M\u00e1goas, \u00d3dio e Rancor",
+      "url": "https://open.spotify.com/track/1lvjlmePaWEQkvmyns88Sj"
     },
     {
       "album": {

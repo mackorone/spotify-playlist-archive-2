@@ -4,7 +4,7 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-150 songs - 8 hr 15 min
+154 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [DON'T CALL ME \(Live\)](https://open.spotify.com/track/7pXrvCW8LkIqdqQGYZx6la) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [ANGARITA](https://open.spotify.com/artist/3i4OsTUD79iYLEVlXJavgS) | [DON'T CALL ME \(Live\)](https://open.spotify.com/album/1qJK7MGwPnmwr4pJ7tPLMp) | 3:17 | 2025-07-03 | 2025-07-11 |
 | [Dream Awake](https://open.spotify.com/track/7M5R2ZlSmpqDsCJfulhN6Z) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Sun & Moon](https://open.spotify.com/album/6f22BsAjuWxAKdEbJCuQ6X) | 4:28 | 2023-06-30 | 2024-04-19 |
 | [Dream Awake \- Pop](https://open.spotify.com/track/2MPZ4bskYV3v7MfOGfPjwe) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Kato Change](https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5) | [Sun & Moon](https://open.spotify.com/album/5F4bIQW01SVG9xdFF3G1fq) | 4:28 | 2024-04-12 | 2025-04-04 |
+| [Early Mornings](https://open.spotify.com/track/4wQXb2vjlr938qkhlixzc9) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Sachelah](https://open.spotify.com/artist/3LMYMmfN8KWb69IeqXoVin) | [Early Mornings](https://open.spotify.com/album/3zlzHGUvXBXmXYCyk5e79l) | 2:54 | 2026-01-29 |  |
 | [Enemy](https://open.spotify.com/track/6F5eJTix3ms5lvH71omyS3) | [TornPockets](https://open.spotify.com/artist/6pUEc7BVEFA6b6hUw4RMxA), [ach13ng'](https://open.spotify.com/artist/7nXNiHraAkhLlIMCFaBGc0) | [Enemy](https://open.spotify.com/album/2RgIw1IxjLtEn4U9YGoSNF) | 3:31 | 2023-06-30 | 2025-04-18 |
 | [Eyes Kubwa](https://open.spotify.com/track/28zuGbSlhWOAqnh6NQYCsE) | [Nah Eeto](https://open.spotify.com/artist/0eKY0x7zqfCOfiFR8YHEdV), [Sumgii](https://open.spotify.com/artist/2Qvj1it0OQswQ4zu836oWw) | [Eyes Kubwa](https://open.spotify.com/album/0OzxUgftqnlSp7RmWDj0cC) | 4:11 | 2024-02-08 |  |
 | [Faith](https://open.spotify.com/track/5XyjPieJxZ3nkaAYotAQ2r) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Few & Far Between](https://open.spotify.com/album/1TsOQ7nu8nuEPYTZ3Xx6qK) | 3:33 | 2023-12-15 | 2024-04-19 |
@@ -64,6 +65,7 @@
 | [HIGH SPEDE](https://open.spotify.com/track/01OW8EwHqMLnUysHiLT9zE) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [HOLD ON TO DEER LIFE, THERE'S A BLCAK BOY BEHIND YOU!](https://open.spotify.com/album/6aScw5iFrLHQUzlO21rCUl) | 3:58 | 2023-11-10 | 2023-12-16 |
 | [Hivyo](https://open.spotify.com/track/7EYQaatLgZpHtZWUJsXwiz) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Blink](https://open.spotify.com/album/6vzfIdktz4sBazv4NSOz1n) | 3:18 | 2023-06-30 | 2024-09-27 |
 | [Home](https://open.spotify.com/track/6olvTBUwNCCChCBSeDeiWT) | [Mumbi Kasumba](https://open.spotify.com/artist/5YhxCi5kNkz1E4wqFfJVa1) | [Midnight \(Vol\. I\)](https://open.spotify.com/album/62rjNTmAEK1xAcJRPYvSKs) | 1:35 | 2023-06-30 | 2024-04-13 |
+| [How I Feel](https://open.spotify.com/track/6fRPjXB2ou83RXr2ICKjJ6) | [Ricky Wambui](https://open.spotify.com/artist/4gZDn70TqSfyGkSzlKp3H0) | [How I Feel](https://open.spotify.com/album/3x4CzQunl7MsI2NtAtnKHs) | 3:28 | 2026-01-29 |  |
 | [I DON'T NEED YOU, SO YOU COULD TELL ME IF I'M GUD](https://open.spotify.com/track/4uCsJlsvglqasORJnmmLng) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [I DON'T NEED YOU, SO YOU COULD TELL ME IF I'M GUD](https://open.spotify.com/album/2SsTE9YTu4w18gmMG7TH8s) | 3:37 | 2025-10-30 | 2025-12-12 |
 | [I.L.Y.T](https://open.spotify.com/track/3yNHWokhFDXxUVWGzDQMkr) | [Nasibi](https://open.spotify.com/artist/1XdK619e8CJcR5D5nxGF0h), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [I.L.Y.T](https://open.spotify.com/album/1DOi6JPaZLKcdTMAkpxkcq) | 4:01 | 2024-08-02 |  |
 | [It's You](https://open.spotify.com/track/7pr7HuG2oWV4AhvM4SDbsW) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [It's You](https://open.spotify.com/album/5DbTBskBpsHoO8MCaP3ubM) | 2:34 | 2024-01-26 | 2024-12-06 |
@@ -90,6 +92,7 @@
 | [Nakungoja](https://open.spotify.com/track/2eXcfadwFQqOuxsBV3YIvQ) | [Iminza](https://open.spotify.com/artist/6zjQD2awFMEfRnNakBu9Br), [Kayrop](https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2) | [Nakungoja](https://open.spotify.com/album/5B3APlvJ1MTbaLrNFFsdqE) | 2:28 | 2025-08-21 |  |
 | [Narcissus](https://open.spotify.com/track/3VOiBodB2ZqAhaA1kbtmuM) | [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP) | [Narcissus](https://open.spotify.com/album/5rmgacCroc3SaJKLI6Gvbc) | 2:11 | 2025-06-13 |  |
 | [Njia Moja](https://open.spotify.com/track/0G1vjYaNDUtntJF0hCq5YL) | [Rafiiki](https://open.spotify.com/artist/3RQugbKSKDSg8oHS1MdMXn) | [Njia Moja](https://open.spotify.com/album/0DhkCfovACaJcz26OjNtwp) | 3:32 | 2023-06-30 | 2024-05-04 |
+| [no promises](https://open.spotify.com/track/6zH0Q8VlQs18p6TFe9xD8H) | [Klyffe](https://open.spotify.com/artist/3cUBcmugvvHi9RW6hDGnmO) | [no promises](https://open.spotify.com/album/7r3JRAU0Oy7ONXhO4ddt8l) | 3:37 | 2026-01-29 |  |
 | [Not My Own](https://open.spotify.com/track/4LJCnfBCGR7k1cWMbZ6OxQ) | [ro](https://open.spotify.com/artist/1m4s5VPSqT6GcF5fm9qKXB), [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE) | [Not My Own](https://open.spotify.com/album/2MnS88RNdCYeYP12wnxp2D) | 2:16 | 2023-06-30 | 2025-11-28 |
 | [NYDFRYSTL](https://open.spotify.com/track/5wVqh6vqoztvzWUf7x5Vmm) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [NYDFRYSTL](https://open.spotify.com/album/6bOHLndOBTAl9lfmTPWR4I) | 1:48 | 2023-12-15 | 2024-06-14 |
 | [Oasis](https://open.spotify.com/track/1MtRGITSni0szQUvcCXhHj) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [OASIS](https://open.spotify.com/album/2LyrxrjHJM2SxaXc9UWpVV) | 2:30 | 2023-11-10 | 2025-07-25 |
@@ -103,6 +106,7 @@
 | [Realign](https://open.spotify.com/track/7yLYmP8jdEuTQiJD2qlDch) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Realign](https://open.spotify.com/album/650zxNU9Z5rX6IKhRoaXqu) | 3:40 | 2025-12-11 |  |
 | [Restore](https://open.spotify.com/track/5I6M34H6mOxG9ulDRZJLIz) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Jay James](https://open.spotify.com/artist/03NiOycjVSDIuglwWSl4BH) | [Restore](https://open.spotify.com/album/0JJ9lKygS0p1pZfLn7Bzc6) | 2:27 | 2024-07-02 | 2025-05-02 |
 | [Rich](https://open.spotify.com/track/1QDWNbbh4Ey69IUjsa44GB) | [That Malcolm Guy](https://open.spotify.com/artist/2oNtuWZXcMdCspkoQr97SI), [Denesi](https://open.spotify.com/artist/2j5qvgoDULdbdLaFfb1Ap6) | [Gucci 2 Piece](https://open.spotify.com/album/1Gz3ivlgkmjO4ZHQJKzqv5) | 3:09 | 2024-05-03 | 2024-11-09 |
+| [Ride Back](https://open.spotify.com/track/217M4BXzktjxQcUUXb2zTQ) | [Lucinia Karrey](https://open.spotify.com/artist/61h4FsXpZcm4Ku28ElGET0), [Lio Tomaz](https://open.spotify.com/artist/4PPNrfWhu1Pi6qRItklADq) | [Ride Back](https://open.spotify.com/album/0WGXVL6TFID3ty9cQySeY8) | 4:29 | 2026-01-29 |  |
 | [River](https://open.spotify.com/track/5xLc7raaqvmNZjtZ9KdoHR) | [Cheruu](https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB) | [River](https://open.spotify.com/album/0xqaMa5dhwsrXR589RB561) | 4:24 | 2024-07-15 | 2025-03-07 |
 | [Round and Round](https://open.spotify.com/track/6dUfGg8LPOTtsGNDY4q8hT) | [Tetu Shani](https://open.spotify.com/artist/4PATOXrnfnClxoIKMoRSHG) | [Round and Round](https://open.spotify.com/album/5BqzrvY0FQ2n3JT4zu7mgK) | 4:29 | 2023-06-30 | 2024-02-09 |
 | [Run](https://open.spotify.com/track/4pHXSEahOasITwRbwWePta) | [Gathuru Gitema](https://open.spotify.com/artist/0KkdhbWTLEsThAKdRuwZt1) | [Run](https://open.spotify.com/album/3jtUo5zpNxH0Rom0xR0dXX) | 4:11 | 2023-06-30 | 2024-02-23 |

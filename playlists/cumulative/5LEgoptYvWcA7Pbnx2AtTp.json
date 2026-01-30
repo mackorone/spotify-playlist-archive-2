@@ -937,6 +937,24 @@
     },
     {
       "album": {
+        "name": "If",
+        "url": "https://open.spotify.com/album/7oCdAqjucwIz7ToQGOV20P"
+      },
+      "artists": [
+        {
+          "name": "Mindless Self Indulgence",
+          "url": "https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155760,
+      "name": "Get It Up",
+      "url": "https://open.spotify.com/track/2bPZ7cEBa5SKliThdwdiK7"
+    },
+    {
+      "album": {
         "name": "Voulez-Vous",
         "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },

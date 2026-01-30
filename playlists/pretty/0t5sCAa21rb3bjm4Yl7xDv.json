@@ -1,13 +1,29 @@
 {
-  "description": "pop is SO back. shop this year's collection <a href=\"https://www.umusic.ca/pages/POP\">here</a>.  Cover: Taylor Swift",
-  "num_followers": 76914,
+  "description": "pop is SO back. shop this year's collection <a href=\"https://www.umusic.ca/pages/POP\">here</a>.  Cover: Lights",
+  "num_followers": 76886,
   "original_name": "POP HITS 2026 (BEST 100 SONGS) \ud83d\udca5 \ud83d\udc96 \u2728 \ud83d\udcab",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAA88p0O0fr6DKIpVL4b1rhrHtnyQK4n",
+  "snapshot_id": "AAA8+vnjz8HUdwoqsB6F5ZbqJ7wRzERk",
   "tracks": [
+    {
+      "added_at": "2026-01-29 21:21:41",
+      "album": {
+        "name": "COME GET YOUR GIRL",
+        "url": "https://open.spotify.com/album/5gvKBKFmGEFpqMZhBy0Azl"
+      },
+      "artists": [
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "duration_ms": 221812,
+      "name": "COME GET YOUR GIRL",
+      "url": "https://open.spotify.com/track/4zOW3Nf24pVKL5Sn2WRuLK"
+    },
     {
       "added_at": "2026-01-21 21:10:36",
       "album": {
@@ -219,22 +235,6 @@
     {
       "added_at": "2026-01-21 21:10:36",
       "album": {
-        "name": "LEARNING TO LET GO",
-        "url": "https://open.spotify.com/album/5Kaox65VYgYqGERbe1YrPK"
-      },
-      "artists": [
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        }
-      ],
-      "duration_ms": 196893,
-      "name": "LEARNING TO LET GO",
-      "url": "https://open.spotify.com/track/4kpfcyJunli1ItlRyp7OXv"
-    },
-    {
-      "added_at": "2026-01-21 21:10:36",
-      "album": {
         "name": "Internet Girl",
         "url": "https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF"
       },
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-01-21 21:10:36",
       "album": {
+        "name": "LEARNING TO LET GO",
+        "url": "https://open.spotify.com/album/5Kaox65VYgYqGERbe1YrPK"
+      },
+      "artists": [
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "duration_ms": 196893,
+      "name": "LEARNING TO LET GO",
+      "url": "https://open.spotify.com/track/4kpfcyJunli1ItlRyp7OXv"
+    },
+    {
+      "added_at": "2026-01-21 21:10:36",
+      "album": {
         "name": "Nomad",
         "url": "https://open.spotify.com/album/7j6mSOEPv6m0JOZXwFXymX"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": "2026-01-21 21:10:36",
       "album": {
-        "name": "me with no shirt on",
-        "url": "https://open.spotify.com/album/2kamxeTkfZ1WB6OrpEdeRn"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 168580,
-      "name": "me with no shirt on",
-      "url": "https://open.spotify.com/track/6KPYHb2QuzEy93ogaySLA4"
-    },
-    {
-      "added_at": "2026-01-21 21:10:36",
-      "album": {
         "name": "Survive - EP",
         "url": "https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe"
       },
@@ -579,22 +579,6 @@
       "duration_ms": 187215,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/6JHZYOwjOuCnJ836WKaB9U"
-    },
-    {
-      "added_at": "2026-01-21 21:10:36",
-      "album": {
-        "name": "EDUCATION",
-        "url": "https://open.spotify.com/album/57HQVSPN0DT6xR91nLxoVS"
-      },
-      "artists": [
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        }
-      ],
-      "duration_ms": 230117,
-      "name": "EDUCATION",
-      "url": "https://open.spotify.com/track/1ARemleYLCZjVZRSVq8SxF"
     },
     {
       "added_at": "2026-01-21 21:10:36",
@@ -867,6 +851,38 @@
       "duration_ms": 143439,
       "name": "UH OH!",
       "url": "https://open.spotify.com/track/0qFJaAtOXhT94nwgRxPVpI"
+    },
+    {
+      "added_at": "2026-01-21 21:10:36",
+      "album": {
+        "name": "me with no shirt on",
+        "url": "https://open.spotify.com/album/2kamxeTkfZ1WB6OrpEdeRn"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 168580,
+      "name": "me with no shirt on",
+      "url": "https://open.spotify.com/track/6KPYHb2QuzEy93ogaySLA4"
+    },
+    {
+      "added_at": "2026-01-21 21:10:36",
+      "album": {
+        "name": "EDUCATION",
+        "url": "https://open.spotify.com/album/57HQVSPN0DT6xR91nLxoVS"
+      },
+      "artists": [
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "duration_ms": 230117,
+      "name": "EDUCATION",
+      "url": "https://open.spotify.com/track/1ARemleYLCZjVZRSVq8SxF"
     },
     {
       "added_at": "2026-01-21 21:10:36",
@@ -1287,22 +1303,6 @@
       "duration_ms": 203533,
       "name": "unloving you",
       "url": "https://open.spotify.com/track/6lAjTAvUTMcfSzlAypLcWd"
-    },
-    {
-      "added_at": "2026-01-21 21:10:36",
-      "album": {
-        "name": "A6",
-        "url": "https://open.spotify.com/album/29ggbvlcCPiVSzVoPG1Axs"
-      },
-      "artists": [
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        }
-      ],
-      "duration_ms": 201217,
-      "name": "DAMAGE",
-      "url": "https://open.spotify.com/track/0kQWK9I3NRCuxRLuuGsv8X"
     },
     {
       "added_at": "2026-01-21 21:10:36",

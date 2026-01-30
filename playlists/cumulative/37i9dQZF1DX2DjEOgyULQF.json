@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 168931,
       "name": "Destination",
       "url": "https://open.spotify.com/track/7xXpydVsZUv86p3SSi3JJ2"
@@ -5576,6 +5576,24 @@
       "duration_ms": 189132,
       "name": "Walking The Path",
       "url": "https://open.spotify.com/track/2h0VLSP2AR1QKe3I3rJJvN"
+    },
+    {
+      "album": {
+        "name": "Watercolor",
+        "url": "https://open.spotify.com/album/63JYstDBGYwj9NkN6b2RHZ"
+      },
+      "artists": [
+        {
+          "name": "Ani",
+          "url": "https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166296,
+      "name": "Watercolor",
+      "url": "https://open.spotify.com/track/3t99n6xfreqB2M8DkInWsy"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Poppy",
-  "num_followers": 340477,
+  "num_followers": 340470,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-01-22 23:00:42",
       "album": {
-        "name": "Let There Be Shred",
-        "url": "https://open.spotify.com/album/5ccNJ8oSnyKPgTwK0ntWHz"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 238276,
-      "name": "Let There Be Shred",
-      "url": "https://open.spotify.com/track/18HAI5WUpc0f18ZpCDrPa0"
-    },
-    {
-      "added_at": "2026-01-22 23:00:42",
-      "album": {
         "name": "Unravelling",
         "url": "https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 238002,
       "name": "Unravelling",
       "url": "https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9"
+    },
+    {
+      "added_at": "2026-01-22 23:00:42",
+      "album": {
+        "name": "Let There Be Shred",
+        "url": "https://open.spotify.com/album/5ccNJ8oSnyKPgTwK0ntWHz"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 238276,
+      "name": "Let There Be Shred",
+      "url": "https://open.spotify.com/track/18HAI5WUpc0f18ZpCDrPa0"
     },
     {
       "added_at": "2026-01-22 23:00:42",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-01-22 23:00:42",
       "album": {
+        "name": "Hello Heaven, Hello",
+        "url": "https://open.spotify.com/album/5YLk7hXivQWJezkRnWEfbH"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 546385,
+      "name": "Hello Heaven, Hello",
+      "url": "https://open.spotify.com/track/2jUcuBOT2eoBnoMBTM4L1i"
+    },
+    {
+      "added_at": "2026-01-22 23:00:42",
+      "album": {
         "name": "My Only Angel",
         "url": "https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 255818,
       "name": "My Only Angel",
       "url": "https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd"
-    },
-    {
-      "added_at": "2026-01-22 23:00:42",
-      "album": {
-        "name": "Hello Heaven, Hello",
-        "url": "https://open.spotify.com/album/5YLk7hXivQWJezkRnWEfbH"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 546385,
-      "name": "Hello Heaven, Hello",
-      "url": "https://open.spotify.com/track/2jUcuBOT2eoBnoMBTM4L1i"
     },
     {
       "added_at": "2026-01-22 23:00:42",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-01-22 23:00:42",
       "album": {
-        "name": "The Last Laugh (Part II)",
-        "url": "https://open.spotify.com/album/3zmqyzDkcfZBxr2Phr4b4H"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 224268,
-      "name": "NO WAY TO LIVE",
-      "url": "https://open.spotify.com/track/5pGOk7tBOrCrFWwTOKkQWi"
-    },
-    {
-      "added_at": "2026-01-22 23:00:42",
-      "album": {
         "name": "Into Hell",
         "url": "https://open.spotify.com/album/6AxUaiBdDS6y50kkvjnOrS"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 192210,
       "name": "Into Hell",
       "url": "https://open.spotify.com/track/6kESVt7m9Wn2WcS1OGOOmC"
+    },
+    {
+      "added_at": "2026-01-22 23:00:42",
+      "album": {
+        "name": "The Last Laugh (Part II)",
+        "url": "https://open.spotify.com/album/3zmqyzDkcfZBxr2Phr4b4H"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 224268,
+      "name": "NO WAY TO LIVE",
+      "url": "https://open.spotify.com/track/5pGOk7tBOrCrFWwTOKkQWi"
     },
     {
       "added_at": "2026-01-22 23:00:42",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-01-22 23:00:42",
       "album": {
-        "name": "Lovesick Lullaby",
-        "url": "https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 175134,
-      "name": "Lovesick Lullaby",
-      "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
-    },
-    {
-      "added_at": "2026-01-22 23:00:42",
-      "album": {
         "name": "Quietly",
         "url": "https://open.spotify.com/album/5MNXkq3isaPZCyLnf0LC94"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 202276,
       "name": "Quietly",
       "url": "https://open.spotify.com/track/5xJ4YmHmdnHRqaGEgEspP3"
+    },
+    {
+      "added_at": "2026-01-22 23:00:42",
+      "album": {
+        "name": "Lovesick Lullaby",
+        "url": "https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 175134,
+      "name": "Lovesick Lullaby",
+      "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
     },
     {
       "added_at": "2026-01-22 23:00:42",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-01-22 23:00:42",
       "album": {
+        "name": "Gasoline (All Rage Still Only Numb)",
+        "url": "https://open.spotify.com/album/3e6DAPGeNe2rwiwBOmvqVR"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 179220,
+      "name": "Gasoline (All Rage Still Only Numb)",
+      "url": "https://open.spotify.com/track/2HOOOhhR7w9gaN5v9kpgHQ"
+    },
+    {
+      "added_at": "2026-01-22 23:00:42",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1"
       },
@@ -1331,18 +1347,18 @@
     {
       "added_at": "2026-01-22 23:00:42",
       "album": {
-        "name": "Gasoline (All Rage Still Only Numb)",
-        "url": "https://open.spotify.com/album/3e6DAPGeNe2rwiwBOmvqVR"
+        "name": "Design",
+        "url": "https://open.spotify.com/album/4TZHUrfJVNgpOalVu5sXJ1"
       },
       "artists": [
         {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+          "name": "Unlike Pluto",
+          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
         }
       ],
-      "duration_ms": 179220,
-      "name": "Gasoline (All Rage Still Only Numb)",
-      "url": "https://open.spotify.com/track/2HOOOhhR7w9gaN5v9kpgHQ"
+      "duration_ms": 266007,
+      "name": "Design",
+      "url": "https://open.spotify.com/track/1Fm9LmUNwGuoVOQTp4sl5T"
     },
     {
       "added_at": "2026-01-22 23:00:42",
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2026-01-22 23:00:42",
       "album": {
-        "name": "Design",
-        "url": "https://open.spotify.com/album/4TZHUrfJVNgpOalVu5sXJ1"
-      },
-      "artists": [
-        {
-          "name": "Unlike Pluto",
-          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
-        }
-      ],
-      "duration_ms": 266007,
-      "name": "Design",
-      "url": "https://open.spotify.com/track/1Fm9LmUNwGuoVOQTp4sl5T"
-    },
-    {
-      "added_at": "2026-01-22 23:00:42",
-      "album": {
         "name": "ANGELS CALLING",
         "url": "https://open.spotify.com/album/04jzwcuicEAURi04bVSArG"
       },
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-01-22 23:00:42",
       "album": {
-        "name": "So Low",
-        "url": "https://open.spotify.com/album/2Frybhx9bxmVPIjnEbfQhf"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 179083,
-      "name": "So Low",
-      "url": "https://open.spotify.com/track/1IiIU0r2LShFKOP609LVpI"
-    },
-    {
-      "added_at": "2026-01-22 23:00:42",
-      "album": {
         "name": "Make It Make Sense",
         "url": "https://open.spotify.com/album/3TBw5z9f7WZ6Per1aTNkuC"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 188607,
       "name": "Make It Make Sense",
       "url": "https://open.spotify.com/track/4KFGxkAAP5D1HIBSwMv7d1"
+    },
+    {
+      "added_at": "2026-01-22 23:00:42",
+      "album": {
+        "name": "So Low",
+        "url": "https://open.spotify.com/album/2Frybhx9bxmVPIjnEbfQhf"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 179083,
+      "name": "So Low",
+      "url": "https://open.spotify.com/track/1IiIU0r2LShFKOP609LVpI"
     },
     {
       "added_at": "2026-01-22 23:00:42",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-01-22 23:00:42",
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/1aJ77LdHu7K126x8POe3zz"
-      },
-      "artists": [
-        {
-          "name": "Unlike Pluto",
-          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
-        }
-      ],
-      "duration_ms": 207692,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/1Roy4KbdJZOTcsI1PLCxn5"
-    },
-    {
-      "added_at": "2026-01-22 23:00:42",
-      "album": {
         "name": "Everest",
         "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2026-01-22 23:00:42",
       "album": {
-        "name": "Scales Are Falling",
-        "url": "https://open.spotify.com/album/4r9bwqnjDl2oKbQHBWybNv"
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/1aJ77LdHu7K126x8POe3zz"
       },
       "artists": [
         {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+          "name": "Unlike Pluto",
+          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
         }
       ],
-      "duration_ms": 352839,
-      "name": "Scales Are Falling",
-      "url": "https://open.spotify.com/track/2Wb33vEP4HJiPpI5J7s4Ha"
+      "duration_ms": 207692,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/1Roy4KbdJZOTcsI1PLCxn5"
     },
     {
       "added_at": "2026-01-22 23:00:42",
@@ -1587,6 +1571,22 @@
       "duration_ms": 202073,
       "name": "Annihilate Me",
       "url": "https://open.spotify.com/track/7lWgoPdOX6T6xsqoVRHQmy"
+    },
+    {
+      "added_at": "2026-01-22 23:00:42",
+      "album": {
+        "name": "Scales Are Falling",
+        "url": "https://open.spotify.com/album/4r9bwqnjDl2oKbQHBWybNv"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "duration_ms": 352839,
+      "name": "Scales Are Falling",
+      "url": "https://open.spotify.com/track/2Wb33vEP4HJiPpI5J7s4Ha"
     },
     {
       "added_at": "2026-01-22 23:00:42",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-01-22 23:00:42",
       "album": {
-        "name": "No Control",
-        "url": "https://open.spotify.com/album/5COnjlxIEbPiRMnoxFc94e"
-      },
-      "artists": [
-        {
-          "name": "Sweet Pill",
-          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
-        }
-      ],
-      "duration_ms": 181098,
-      "name": "No Control",
-      "url": "https://open.spotify.com/track/6iYEtpQ84Vs2K5CReYfr6Y"
-    },
-    {
-      "added_at": "2026-01-22 23:00:42",
-      "album": {
         "name": "Deep Blue",
         "url": "https://open.spotify.com/album/4NjLK132lIX3hLiJUebset"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 171997,
       "name": "Deep Blue",
       "url": "https://open.spotify.com/track/3AzcGEsBcn5kpPsY0lIEaL"
+    },
+    {
+      "added_at": "2026-01-22 23:00:42",
+      "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/5COnjlxIEbPiRMnoxFc94e"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "duration_ms": 181098,
+      "name": "No Control",
+      "url": "https://open.spotify.com/track/6iYEtpQ84Vs2K5CReYfr6Y"
     },
     {
       "added_at": "2026-01-22 23:00:42",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Camilo & Evaluna Montaner
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,975 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,935 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 44 | [Una Noche Especial](https://open.spotify.com/track/0qcZMcD883yjJEhtLGFGld) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB), [Jos Canela](https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie), [Jan Toussaint](https://open.spotify.com/artist/06P2GxwZopjaQnNABcoPSE) | [Una Noche Especial](https://open.spotify.com/album/7B9p0KkvYqajCmj2jZFkUd) | 3:09 |
 | 45 | [La Clave](https://open.spotify.com/track/5Ux94g63fF8uxUHaqDOi8t) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Clave](https://open.spotify.com/album/2X4174eeWM2B3aMPKUyk5S) | 2:17 |
 | 46 | [Viva La Navidad](https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Love & Christmas](https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn) | 3:37 |
-| 47 | [gracias navidad](https://open.spotify.com/track/2mbxn4DJb1jn7xFLY0VFs7) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [NEON16](https://open.spotify.com/artist/7HacB3OpkiYI4VFwbvBLD8) | [gracias navidad](https://open.spotify.com/album/1PYtTDrXh3rQ1GE3GVBtWW) | 4:11 |
-| 48 | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/track/4mpwuLCkeVzmzYFYjNrwMr) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/album/07xPl363lb9z67lLCtjuNS) | 2:38 |
+| 47 | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/track/4mpwuLCkeVzmzYFYjNrwMr) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/album/07xPl363lb9z67lLCtjuNS) | 2:38 |
+| 48 | [gracias navidad](https://open.spotify.com/track/2mbxn4DJb1jn7xFLY0VFs7) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [NEON16](https://open.spotify.com/artist/7HacB3OpkiYI4VFwbvBLD8) | [gracias navidad](https://open.spotify.com/album/1PYtTDrXh3rQ1GE3GVBtWW) | 4:11 |
 | 49 | [Un Vaquero En Navidad \- Spotify Singles Holiday](https://open.spotify.com/track/1nOpu7a0wobR8Fa9zUqS2s) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Un Vaquero En Navidad \(Spotify Singles Holiday\)](https://open.spotify.com/album/53N3BvckuE8dwVPMNNNdfB) | 3:53 |
 | 50 | [Un Año Más](https://open.spotify.com/track/1gKfAZ4WauownlJdL5CM8q) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 3:56 |
 | 51 | [El Año Que Vendrá Querido Amigo](https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Emmanuel Jingle Bell Rocks](https://open.spotify.com/album/0H4AsgaAU7WqbtTvj2ah55) | 5:25 |

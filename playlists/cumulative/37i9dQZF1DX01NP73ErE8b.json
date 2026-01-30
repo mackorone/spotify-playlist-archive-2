@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani che abbiamo on repeat  \ud83d\udd01  Bresh in cover",
+  "description": "I brani italiani che abbiamo on repeat  \ud83d\udd01  BLANCO in cover",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -122,7 +122,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 211250,
       "name": "2 GIORNI DI FILA (feat. Sfera Ebbasta, ANNA)",
       "url": "https://open.spotify.com/track/5CqjSq1ZJFPWxonCeZPyRk"
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 206851,
       "name": "Brother & Sister",
       "url": "https://open.spotify.com/track/6nj4wh9cZNfhF3mTETeo8w"
@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "CANZONE D'AMORE",
       "url": "https://open.spotify.com/track/4oAmcoWAsnEKF47gYNryAc"
@@ -2289,6 +2289,24 @@
     },
     {
       "album": {
+        "name": "DeLorean",
+        "url": "https://open.spotify.com/album/3WRjNICZZ68PwIjGP5Rr5I"
+      },
+      "artists": [
+        {
+          "name": "Ermal Meta",
+          "url": "https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202556,
+      "name": "DeLorean",
+      "url": "https://open.spotify.com/track/1YNYSvWkZ74y4LaYydEbZ8"
+    },
+    {
+      "album": {
         "name": "MA IO SONO FUOCO",
         "url": "https://open.spotify.com/album/5whsiw7yvWXul5t8sWYYLQ"
       },
@@ -2661,6 +2679,24 @@
     },
     {
       "album": {
+        "name": "Anche gli Eroi Muoiono",
+        "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198001,
+      "name": "Eroina",
+      "url": "https://open.spotify.com/track/56n5UQJ0SDVaxwQNnu90ee"
+    },
+    {
+      "album": {
         "name": "MA IO SONO FUOCO",
         "url": "https://open.spotify.com/album/5whsiw7yvWXul5t8sWYYLQ"
       },
@@ -2806,7 +2842,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 172067,
       "name": "Fanculo (feat. Marracash)",
       "url": "https://open.spotify.com/track/2smcrTWrF4aEbuHz60x03f"
@@ -5321,6 +5357,24 @@
     },
     {
       "album": {
+        "name": "Tana",
+        "url": "https://open.spotify.com/album/1mfvkuYG4BB9qeJpbaWNOh"
+      },
+      "artists": [
+        {
+          "name": "Angelica Bove",
+          "url": "https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177091,
+      "name": "Mi ritroverai",
+      "url": "https://open.spotify.com/track/3nSsqK9EEhtgRrL1dMAzBY"
+    },
+    {
+      "album": {
         "name": "Milano",
         "url": "https://open.spotify.com/album/4aUkFfFxRJxakxSsvuWtdO"
       },
@@ -5450,6 +5504,24 @@
       "duration_ms": 192712,
       "name": "MILLE VOTE ANCORA",
       "url": "https://open.spotify.com/track/3BJ5P3bL0Q8OUemXVwjucQ"
+    },
+    {
+      "album": {
+        "name": "Millemila Missili",
+        "url": "https://open.spotify.com/album/2jYKHTVyCkm3m78zl7t21l"
+      },
+      "artists": [
+        {
+          "name": "Angie",
+          "url": "https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170222,
+      "name": "Millemila Missili",
+      "url": "https://open.spotify.com/track/07WaD3eZhsXtVMJsi2tXmq"
     },
     {
       "album": {
@@ -6732,7 +6804,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 167777,
       "name": "Pianti Grassi",
       "url": "https://open.spotify.com/track/4ib7P0tGG8ILCRw0YeU3JC"
@@ -7099,6 +7171,24 @@
     },
     {
       "album": {
+        "name": "Quasi Blu",
+        "url": "https://open.spotify.com/album/4qSGnqPDAzw4I27U6YL9ZT"
+      },
+      "artists": [
+        {
+          "name": "TROPICO",
+          "url": "https://open.spotify.com/artist/11wRTRhOoRE8kcDgtAmuJW"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227852,
+      "name": "Quasi Blu",
+      "url": "https://open.spotify.com/track/4p814E87xWIycc6AxT0t1V"
+    },
+    {
+      "album": {
         "name": "QUE PASA",
         "url": "https://open.spotify.com/album/01ArVSSw3tnedf4s7RFNio"
       },
@@ -7440,6 +7530,24 @@
       "duration_ms": 166330,
       "name": "Romantico Ma Muori",
       "url": "https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64"
+    },
+    {
+      "album": {
+        "name": "RoseRovi",
+        "url": "https://open.spotify.com/album/48HGfVfD57X1WDlWj3m9Yo"
+      },
+      "artists": [
+        {
+          "name": "Cate Lumina",
+          "url": "https://open.spotify.com/artist/3EAlQVh9v7qGWoImwqgrYf"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137898,
+      "name": "RoseRovi",
+      "url": "https://open.spotify.com/track/0ipLTHBWpIfrbAJdTWBIdt"
     },
     {
       "album": {
@@ -8437,6 +8545,24 @@
     },
     {
       "album": {
+        "name": "Stupida Vita",
+        "url": "https://open.spotify.com/album/7gYGE5878gGN8STgInaEom"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Salvetti",
+          "url": "https://open.spotify.com/artist/6oWt3cQ0VpQx0ZxguU1Dh7"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182307,
+      "name": "Stupida Vita",
+      "url": "https://open.spotify.com/track/0nCcnpWjuC3Ti5I6Fqtkpv"
+    },
+    {
+      "album": {
         "name": "Stupido",
         "url": "https://open.spotify.com/album/5NccRVh2Ds5owdpDfW4Rh5"
       },
@@ -8510,6 +8636,24 @@
       "duration_ms": 157066,
       "name": "Sudamerica",
       "url": "https://open.spotify.com/track/7pVk9Mov9OxPyIWp4fOOSB"
+    },
+    {
+      "album": {
+        "name": "S\u00ec lo so",
+        "url": "https://open.spotify.com/album/0wsU3VGqlxMCPka5elQoLS"
+      },
+      "artists": [
+        {
+          "name": "Ditonellapiaga",
+          "url": "https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197903,
+      "name": "S\u00ec lo so",
+      "url": "https://open.spotify.com/track/2rObCku06FZAuc3PjD1fzS"
     },
     {
       "album": {

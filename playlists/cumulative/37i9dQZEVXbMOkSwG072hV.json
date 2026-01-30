@@ -10161,6 +10161,36 @@
     },
     {
       "album": {
+        "name": "Sambas de Enredo Rio Carnaval 2026",
+        "url": "https://open.spotify.com/album/5f6mWcQZrMFSixAML5lP08"
+      },
+      "artists": [
+        {
+          "name": "Rio Carnaval",
+          "url": "https://open.spotify.com/artist/74e1KteYpnPnRM4SiTJt9v"
+        },
+        {
+          "name": "Beija-Flor de Nil\u00f3polis",
+          "url": "https://open.spotify.com/artist/3NEtrqMCDzHr17K7OkO7MD"
+        },
+        {
+          "name": "J\u00e9ssica Martin",
+          "url": "https://open.spotify.com/artist/0QoOo0z5k7MkCCq8IkTj79"
+        },
+        {
+          "name": "Nino",
+          "url": "https://open.spotify.com/artist/1R5tud3ZJeLFDLhL0yYU3v"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377880,
+      "name": "Bemb\u00e9",
+      "url": "https://open.spotify.com/track/16IFkQOhjD4OTvkaOOtBqd"
+    },
+    {
+      "album": {
         "name": "Bengala e Croch\u00ea",
         "url": "https://open.spotify.com/album/2znP9w3bHdb0JCqURRO1IS"
       },
@@ -21138,7 +21168,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-06",
+      "date_removed": null,
       "duration_ms": 213719,
       "name": "Desmitificar",
       "url": "https://open.spotify.com/track/5h2S4Tob1xXcUiSxjMHb2B"
@@ -33530,7 +33560,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 129090,
       "name": "GOSTOSIN",
       "url": "https://open.spotify.com/track/2s4nhrlWTnmzSnGFH5pyAM"
@@ -34600,7 +34630,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 160966,
       "name": "HELICOPTER",
       "url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
@@ -35160,7 +35190,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 124112,
       "name": "Hipnotiza - Live",
       "url": "https://open.spotify.com/track/68cYQ3GeFnhDiDiZtRyN6E"
@@ -49412,7 +49442,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 125538,
       "name": "MONTAGEM BAILE DE FAVELA",
       "url": "https://open.spotify.com/track/0B0V6mIB9zsL5YyBsgSL02"
@@ -62516,6 +62546,32 @@
       "duration_ms": 179231,
       "name": "Pi Po Po Po Ro Po",
       "url": "https://open.spotify.com/track/1Av3KDXLuWVtbtWNtzx9ma"
+    },
+    {
+      "album": {
+        "name": "Pikezin do M.J",
+        "url": "https://open.spotify.com/album/4ecVul5R3PppVP7WsEjkkM"
+      },
+      "artists": [
+        {
+          "name": "DJ Silva 07",
+          "url": "https://open.spotify.com/artist/5tqz5zHxmEDHIXpbhGisQA"
+        },
+        {
+          "name": "NavasMC Oficial",
+          "url": "https://open.spotify.com/artist/6vM6kDehn2LmzRQHpaolIq"
+        },
+        {
+          "name": "Miury Dj",
+          "url": "https://open.spotify.com/artist/0i6kLC0qEUKTkZbpB8nhWh"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156680,
+      "name": "Pikezin do M.J",
+      "url": "https://open.spotify.com/track/2nzXwfnAPFVlLLpYtDQXmd"
     },
     {
       "album": {
@@ -87232,7 +87288,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 181839,
       "name": "Voltei Mais Forte",
       "url": "https://open.spotify.com/track/3gjAnZHQkJAUp0bl1DGGQ5"

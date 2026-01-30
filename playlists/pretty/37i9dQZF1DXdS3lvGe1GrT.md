@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 ### [Fresh Finds Folk](https://open.spotify.com/playlist/37i9dQZF1DXdS3lvGe1GrT)
 
-> Fresh folk and roots music from independent artists every Wednesday\. Cover: isobel
+> Fresh folk and roots music from independent artists every Wednesday\. Cover: Madra Salach
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,125 likes - 38 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,145 likes - 38 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 37 | [New Season](https://open.spotify.com/track/1XKkywB0E7fR6antkaTJVl) | [Katie Lynne Sharbaugh](https://open.spotify.com/artist/7ufoDy3DR2gEi68WTyUGcu) | [New Season](https://open.spotify.com/album/1ie78xa7IYAseGPHIfO8mO) | 1:56 |
 | 38 | [Dream Of Mine](https://open.spotify.com/track/1TP9UU4b0wV3hgiLi0SeoB) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Dream Of Mine](https://open.spotify.com/album/74HhRzwMgHcWuDLsMF2Ow8) | 4:03 |
 
-Snapshot ID: `AAAAAL8He3wfBsevg1nxgVNRKQd+JBCa`
+Snapshot ID: `AAAAADIzsXE89nHC31QBG4wqnWmJLvUN`

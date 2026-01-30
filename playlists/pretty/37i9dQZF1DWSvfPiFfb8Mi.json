@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 695941,
+  "num_followers": 696001,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
+        "name": "COLOGNE",
+        "url": "https://open.spotify.com/album/79omah7LR2uicio2GTfxZ1"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "COLOGNE",
+      "url": "https://open.spotify.com/track/0nh7PHjK9n0w9hu4Ka1HkL"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/7cWLkwgHZo7jtIpzlsQCeD"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 167514,
       "name": "Only You",
       "url": "https://open.spotify.com/track/2LMKaaPc48a48HIB5dmFmR"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
-        "name": "COLOGNE",
-        "url": "https://open.spotify.com/album/79omah7LR2uicio2GTfxZ1"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "COLOGNE",
-      "url": "https://open.spotify.com/track/0nh7PHjK9n0w9hu4Ka1HkL"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
-        "name": "Sciall\u00e0",
-        "url": "https://open.spotify.com/album/4Sr05np1KjUdmw0RQF1R99"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 256393,
-      "name": "Sciall\u00e0",
-      "url": "https://open.spotify.com/track/2w30W8DtzFfUAqakTaeV78"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
         "name": "tomorrow never comes",
         "url": "https://open.spotify.com/album/56gzHHGgjlbVo0okgZ3kNT"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 200655,
       "name": "what i feel",
       "url": "https://open.spotify.com/track/0c27JOBxFuSPHqbT3d2BC9"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
+        "name": "Sciall\u00e0",
+        "url": "https://open.spotify.com/album/4Sr05np1KjUdmw0RQF1R99"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 256393,
+      "name": "Sciall\u00e0",
+      "url": "https://open.spotify.com/track/2w30W8DtzFfUAqakTaeV78"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
+        "name": "Tighten It Up (Barney Bones - DRAMA Edit)",
+        "url": "https://open.spotify.com/album/5H9wy1T7MHeY3JWnPN8Ply"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        },
+        {
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+        }
+      ],
+      "duration_ms": 172884,
+      "name": "Tighten It Up - Barney Bones - DRAMA Edit",
+      "url": "https://open.spotify.com/track/5suNUnahl3rSictF1dBPei"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
         "name": "Alsace",
         "url": "https://open.spotify.com/album/16a4NKzpvWlgEvwafPXwtS"
       },
@@ -1059,26 +1079,6 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
-        "name": "Tighten It Up (Barney Bones - DRAMA Edit)",
-        "url": "https://open.spotify.com/album/5H9wy1T7MHeY3JWnPN8Ply"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        },
-        {
-          "name": "Barney Bones",
-          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
-        }
-      ],
-      "duration_ms": 172884,
-      "name": "Tighten It Up - Barney Bones - DRAMA Edit",
-      "url": "https://open.spotify.com/track/5suNUnahl3rSictF1dBPei"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
         "name": "To Survive",
         "url": "https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89"
       },
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
+        "name": "Papooz & Friends",
+        "url": "https://open.spotify.com/album/2Kn8qlxUCCXr4nIbJiNUWd"
+      },
+      "artists": [
+        {
+          "name": "Papooz",
+          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
+        },
+        {
+          "name": "Hugo Hamlet",
+          "url": "https://open.spotify.com/artist/4sh4kcFQN5pZcNxX4eBGmO"
+        }
+      ],
+      "duration_ms": 165707,
+      "name": "Love Me Better",
+      "url": "https://open.spotify.com/track/0LoMlLQ5GyU9oXWMcHK0CQ"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
         "name": "Smalltown Boy",
         "url": "https://open.spotify.com/album/2HKO8cyIo1J4jUKMbmZLBi"
       },
@@ -1107,30 +1127,6 @@
       "duration_ms": 226560,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/7anQg8bMRr2qKGVYuQOljY"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/4ktlIUlb1Y3K3RIG6l2V6m"
-      },
-      "artists": [
-        {
-          "name": "Tasty Or Not",
-          "url": "https://open.spotify.com/artist/3QYzuGjnQlMtraiz2fu6ad"
-        },
-        {
-          "name": "Cees",
-          "url": "https://open.spotify.com/artist/3Ukkyza3hizY5qHOU5Bttg"
-        },
-        {
-          "name": "Steve Monite",
-          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2FGXZznZ2xSBw4UkgX8ILo"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -1159,6 +1155,30 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/4ktlIUlb1Y3K3RIG6l2V6m"
+      },
+      "artists": [
+        {
+          "name": "Tasty Or Not",
+          "url": "https://open.spotify.com/artist/3QYzuGjnQlMtraiz2fu6ad"
+        },
+        {
+          "name": "Cees",
+          "url": "https://open.spotify.com/artist/3Ukkyza3hizY5qHOU5Bttg"
+        },
+        {
+          "name": "Steve Monite",
+          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2FGXZznZ2xSBw4UkgX8ILo"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
         "name": "Oh Baby",
         "url": "https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57"
       },
@@ -1175,26 +1195,6 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
-        "name": "Papooz & Friends",
-        "url": "https://open.spotify.com/album/2Kn8qlxUCCXr4nIbJiNUWd"
-      },
-      "artists": [
-        {
-          "name": "Papooz",
-          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
-        },
-        {
-          "name": "Hugo Hamlet",
-          "url": "https://open.spotify.com/artist/4sh4kcFQN5pZcNxX4eBGmO"
-        }
-      ],
-      "duration_ms": 165707,
-      "name": "Love Me Better",
-      "url": "https://open.spotify.com/track/0LoMlLQ5GyU9oXWMcHK0CQ"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
         "name": "Waiting 4 You",
         "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
       },
@@ -1207,26 +1207,6 @@
       "duration_ms": 220299,
       "name": "Waiting 4 You",
       "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
-        "name": "The Bay (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/57AazaHQG8HBbpVXAjIX7Q"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 223824,
-      "name": "The Bay - Purple Disco Machine Edit",
-      "url": "https://open.spotify.com/track/20yAG2AZyb8zneVpOib7Vm"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -1255,6 +1235,26 @@
       "duration_ms": 233196,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
+        "name": "The Bay (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/57AazaHQG8HBbpVXAjIX7Q"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 223824,
+      "name": "The Bay - Purple Disco Machine Edit",
+      "url": "https://open.spotify.com/track/20yAG2AZyb8zneVpOib7Vm"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
+        "name": "Feelin' It",
+        "url": "https://open.spotify.com/album/299IjiwxpF8g7fBj5kIWd2"
+      },
+      "artists": [
+        {
+          "name": "Tim Sanders",
+          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Feelin' It",
+      "url": "https://open.spotify.com/track/3ns0eSpXpwOeA7rf2M6DUS"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
         "name": "I Miss Having Someone To Talk To",
         "url": "https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 223742,
       "name": "I Miss Having Someone To Talk To",
       "url": "https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
-        "name": "Feelin' It",
-        "url": "https://open.spotify.com/album/299IjiwxpF8g7fBj5kIWd2"
-      },
-      "artists": [
-        {
-          "name": "Tim Sanders",
-          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Feelin' It",
-      "url": "https://open.spotify.com/track/3ns0eSpXpwOeA7rf2M6DUS"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
-        "name": "ALL A DREAM",
-        "url": "https://open.spotify.com/album/74KdRoeeg3bq5GvgiOkA6E"
-      },
-      "artists": [
-        {
-          "name": "LOVE LANGUAGE",
-          "url": "https://open.spotify.com/artist/1S6Yd5OflS0VBmlfxlSoTM"
-        },
-        {
-          "name": "LISP",
-          "url": "https://open.spotify.com/artist/6xA7T8KlOWbWzuOfsZZDYN"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "ALL A DREAM",
-      "url": "https://open.spotify.com/track/16VJYVgNHwZOwgB0ZppmI2"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/1YE8noC2hgjITjnAx9NU2V"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 363620,
       "name": "Marlboro Sounds",
       "url": "https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
+        "name": "ALL A DREAM",
+        "url": "https://open.spotify.com/album/74KdRoeeg3bq5GvgiOkA6E"
+      },
+      "artists": [
+        {
+          "name": "LOVE LANGUAGE",
+          "url": "https://open.spotify.com/artist/1S6Yd5OflS0VBmlfxlSoTM"
+        },
+        {
+          "name": "LISP",
+          "url": "https://open.spotify.com/artist/6xA7T8KlOWbWzuOfsZZDYN"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "ALL A DREAM",
+      "url": "https://open.spotify.com/track/16VJYVgNHwZOwgB0ZppmI2"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
-        "name": "All Of The Time",
-        "url": "https://open.spotify.com/album/1Y5W4ZrI5SXtqa6skp8JTn"
-      },
-      "artists": [
-        {
-          "name": "The Avener",
-          "url": "https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0"
-        }
-      ],
-      "duration_ms": 209042,
-      "name": "All Of The Time",
-      "url": "https://open.spotify.com/track/4oiwfWqwbcAqGuHHkHbU7r"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
         "name": "Inferno (No. 1)",
         "url": "https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 296453,
       "name": "Be The One (feat. Yung Bae)",
       "url": "https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
+        "name": "All Of The Time",
+        "url": "https://open.spotify.com/album/1Y5W4ZrI5SXtqa6skp8JTn"
+      },
+      "artists": [
+        {
+          "name": "The Avener",
+          "url": "https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0"
+        }
+      ],
+      "duration_ms": 209042,
+      "name": "All Of The Time",
+      "url": "https://open.spotify.com/track/4oiwfWqwbcAqGuHHkHbU7r"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
+        "name": "cabo player",
+        "url": "https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "cabo player",
+      "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
         "name": "Sing It Back (feat. Dana Williams)",
         "url": "https://open.spotify.com/album/6zAWHfeYvpUBY7hZ5TmnTp"
       },
@@ -2007,22 +2023,6 @@
       "duration_ms": 193706,
       "name": "Sing It Back (feat. Dana Williams)",
       "url": "https://open.spotify.com/track/6j8TmyhwPunLSpeNA4kVnI"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
-        "name": "cabo player",
-        "url": "https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO"
-      },
-      "artists": [
-        {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "cabo player",
-      "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -2063,26 +2063,6 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
-        "name": "SUBURBIA (after dark)",
-        "url": "https://open.spotify.com/album/4dfsU2fRGwB5BC8IbhhoMA"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        },
-        {
-          "name": "Sonan",
-          "url": "https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb"
-        }
-      ],
-      "duration_ms": 208200,
-      "name": "california",
-      "url": "https://open.spotify.com/track/0s8MaDO1NRBNHZsh25ix9k"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
         "name": "Bless Me (with Discrete)",
         "url": "https://open.spotify.com/album/5TPcHw0h3ZfXmmtfFYy1gq"
       },
@@ -2099,6 +2079,26 @@
       "duration_ms": 190384,
       "name": "Bless Me (with Discrete)",
       "url": "https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
+        "name": "SUBURBIA (after dark)",
+        "url": "https://open.spotify.com/album/4dfsU2fRGwB5BC8IbhhoMA"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        },
+        {
+          "name": "Sonan",
+          "url": "https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb"
+        }
+      ],
+      "duration_ms": 208200,
+      "name": "california",
+      "url": "https://open.spotify.com/track/0s8MaDO1NRBNHZsh25ix9k"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
-        "name": "Swiss Sensation",
-        "url": "https://open.spotify.com/album/4GYcaieVtUoEV7piq7JPpo"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 227214,
-      "name": "Swiss Sensation",
-      "url": "https://open.spotify.com/track/6NJO9Eg83rZwRIdLS0dFTQ"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
         "name": "Somethin Bout You (feat. Betsy)",
         "url": "https://open.spotify.com/album/7AAKUuEwPmgUqTi8Lp9Aoy"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 215686,
       "name": "Somethin Bout You (feat. Betsy)",
       "url": "https://open.spotify.com/track/5hDtgTpEmgkRFdiOREk98b"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
+        "name": "Swiss Sensation",
+        "url": "https://open.spotify.com/album/4GYcaieVtUoEV7piq7JPpo"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 227214,
+      "name": "Swiss Sensation",
+      "url": "https://open.spotify.com/track/6NJO9Eg83rZwRIdLS0dFTQ"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -2399,18 +2399,18 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
-        "name": "cinematic love",
-        "url": "https://open.spotify.com/album/5C6TUoCrNGmGCGVLYEwJ94"
+        "name": "Good Night",
+        "url": "https://open.spotify.com/album/0O2Bokijinn4vODXGSb9ge"
       },
       "artists": [
         {
-          "name": "Soul Legend",
-          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
+          "name": "Bamily",
+          "url": "https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy"
         }
       ],
-      "duration_ms": 129075,
-      "name": "cinematic love",
-      "url": "https://open.spotify.com/track/69Wb51WdMcjZa1Z4O9QLHP"
+      "duration_ms": 277225,
+      "name": "Good Night",
+      "url": "https://open.spotify.com/track/41LjtnwZM4J0tKXnqiNZPM"
     }
   ],
   "unique_name": "Poolside Disco",

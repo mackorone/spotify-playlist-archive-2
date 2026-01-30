@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDKV5NsCgGw.md) - [plain]
 
 > Karma comes for everyone...Listen to the music from and inspired by The White Lotus, streaming only on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,043 likes - 128 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,040 likes - 128 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDKV5NsCgGw.md) - [plain]
 | 11 | [What Do You Want? เอาไง?](https://open.spotify.com/track/0N5KOE2r53JTXodeaWrTo5) | [3kkamai](https://open.spotify.com/artist/4mzFtr9hsaonJ64Vi64QfX), [s7](https://open.spotify.com/artist/27kS13g50s3dkckHbGy4TD), [Sūn Jùn](https://open.spotify.com/artist/5rAh5dnFRGoHHW4JtpOloz) | [What Do You Want? เอาไง?](https://open.spotify.com/album/2dDacT6cb5bvkZ94wwJPs5) | 1:54 |
 | 12 | [ที่แล้วก็แล้วไป](https://open.spotify.com/track/4uEsovPihlsPqQxJgRboaB) | [Ter Rewat](https://open.spotify.com/artist/0edoXHzI1rCbDSkMj8xYWz) | [เรวัต พุทธินันทน์ เต๋อ 1](https://open.spotify.com/album/1WrATheM8mHYlqNW7K4u3m) | 3:00 |
 | 13 | [Kwang Noi Chaolay](https://open.spotify.com/track/3kBjO1HjXYoKXsOIK2WhEu) | [The Paradise Bangkok Molam International Band](https://open.spotify.com/artist/1cBpduQulXQHJaj9m0RYS8) | [21st Century Molam](https://open.spotify.com/album/4Qys4Ki8u7DSB6avssxGEl) | 3:19 |
-| 14 | [Swing \(Crush Club Remix\)](https://open.spotify.com/track/2W4VxL0zdrdCdLjeo2dZUQ) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Crush Club](https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc) | [Swing \(Crush Club Remix\)](https://open.spotify.com/album/2mNJytDr4WjIyBaKom9taK) | 5:48 |
+| 14 | [Swing \(Crush Club Remix\)](https://open.spotify.com/track/2W4VxL0zdrdCdLjeo2dZUQ) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Crush Club](https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc) | [Swing \(Crush Club Remix\)](https://open.spotify.com/album/2mNJytDr4WjIyBaKom9taK) | 5:48 |
 | 15 | [The Bass \- Club Mix](https://open.spotify.com/track/3XZmUDD3tKfh0EsbHfx5PY) | [Jason Jaxx](https://open.spotify.com/artist/11dG8nE6hMUFMEqIdTglYb), [DJ Flashback](https://open.spotify.com/artist/2Q5BnGKjhw9UCX4QbauUJ5) | [EDM 2020: Best Of Electro, Trance, Future Bass, House, Reggae, Hip\-Hop & Rap](https://open.spotify.com/album/2CTPyCg3p9FqcXqzqnNua7) | 4:35 |
 | 16 | [Set It Off](https://open.spotify.com/track/124J6I63soamhZZwgmYbxM) | [RUMPUS](https://open.spotify.com/artist/6UbKjDmDWrGKZdHNYxjveJ) | [Set It Off](https://open.spotify.com/album/1u5seat6GKUMQKusgv2bVo) | 3:27 |
-| 17 | [House Arrest](https://open.spotify.com/track/6TXbA978RAZZksdEPHmtlp) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [House Arrest](https://open.spotify.com/album/4fA1ZGYCi2OlYl7e5JJwK0) | 3:36 |
+| 17 | [House Arrest](https://open.spotify.com/track/6TXbA978RAZZksdEPHmtlp) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [House Arrest](https://open.spotify.com/album/4fA1ZGYCi2OlYl7e5JJwK0) | 3:36 |
 | 18 | [Lo, How a Rose E'er Blooming \(Arr\. R\. Proulx for Choir\)](https://open.spotify.com/track/6rfKhnxr64X8TxXbVqRHmv) | [Michael Praetorius](https://open.spotify.com/artist/0OTPgUKkDp058dC3czXFM2), [The Cathedral Singers](https://open.spotify.com/artist/6GCii6lkUhkzTrznRyCuVh), [Richard Proulx](https://open.spotify.com/artist/5eKrMraIZ0J5BPm0kEr7Dq) | [Catholic Classics, Vol\. 8: Catholic Christmas Classics](https://open.spotify.com/album/36SLdIcKRhp51HeILvGALi) | 2:56 |
 | 19 | [Boongatanyon](https://open.spotify.com/track/1bXU4U0lUIm9Y9aTN7uRxF) | [The Son Of P.M.](https://open.spotify.com/artist/2n0Cu2oLybxP4tXaKJn7wa) | [Thai Beat A Go\-Go Vol\. 1](https://open.spotify.com/album/68rQx2qy2UpgwAknBwnb46) | 2:03 |
 | 20 | [มันแปลกดีนะ](https://open.spotify.com/track/3vTTmNlC3WyHwO9xJZPbCZ) | [Ter Rewat](https://open.spotify.com/artist/0edoXHzI1rCbDSkMj8xYWz) | [เรวัต พุทธินันทน์ เต๋อ 2](https://open.spotify.com/album/1nOoT8fcd1kHyPNUu9MthW) | 3:13 |

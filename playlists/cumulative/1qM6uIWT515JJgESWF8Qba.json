@@ -1727,6 +1727,24 @@
     },
     {
       "album": {
+        "name": "Only a Few Cents More",
+        "url": "https://open.spotify.com/album/44wCOtiCQw9YGrVrNOWps2"
+      },
+      "artists": [
+        {
+          "name": "Jakob Vladimir",
+          "url": "https://open.spotify.com/artist/3UztTm4JPy0pLeYT43H4c4"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279472,
+      "name": "Only a Few Cents More",
+      "url": "https://open.spotify.com/track/1Qj36NqgQDgqPiBBJJqLOF"
+    },
+    {
+      "album": {
         "name": "Other Side of Me",
         "url": "https://open.spotify.com/album/2BY2GT3R0z0aTaSZuweNEd"
       },

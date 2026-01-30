@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 
 > Set the perfect brunch mood with instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,216 likes - 100 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,246 likes - 100 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 | 2 | [Uh Huh \- Remastered 2005](https://open.spotify.com/track/1ifrzoPqpThdTHnktdPTyu) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Workout](https://open.spotify.com/album/2prCz4HRmedo4uyhAtXX9Q) | 10:47 |
 | 3 | [Uncharted](https://open.spotify.com/track/3Jp9JcePzezvMPoXvAduHt) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Jimmy Giuffre](https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6) | [Lee Konitz Meets Jimmy Giuffre](https://open.spotify.com/album/4RpZEpHc5YqVOMmxBy3zAs) | 3:55 |
 | 4 | [Everybody Gets the Blues](https://open.spotify.com/track/0ns3AARhJgB5o2WqTDPzSm) | [Eric Scott Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [Everybody Gets the Blues](https://open.spotify.com/album/5hgDmpI3ISYVnqZrpAZf2N) | 3:49 |
-| 5 | [Don't Get Around Much Any More](https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 3:05 |
+| 5 | [Don't Get Around Much Any More](https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors \(Expanded Edition\)](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 3:05 |
 | 6 | [Light Blue](https://open.spotify.com/track/49TAOnpGdf97IhLd6g4SaG) | [Eric Scott Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [The Dancing Monk](https://open.spotify.com/album/3MuW4a7hKYPEtj80iIVubV) | 4:47 |
 | 7 | [Wrapped Tight](https://open.spotify.com/track/7a1kkDDdNdTDSUM7Y96CLM) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Wrapped Tight](https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e) | 3:28 |
 | 8 | [I Don't Stand A Ghost Of A Chance With You](https://open.spotify.com/track/1U40ZDyutQGASuOrNlVM2S) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz In Stockholm](https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z) | 5:48 |

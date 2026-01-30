@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 250 likes - 1,820 songs - 4 day 14 hr 7 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 250 likes - 1,821 songs - 4 day 14 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1828,5 +1828,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1818 | [Tu Alma](https://open.spotify.com/track/5wrWG4D0EtdwY7LBy5J16X) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Tu Alma](https://open.spotify.com/album/05jP4DHgPJyvhnbmLcGo5q) | 2:50 |
 | 1819 | [Vienna](https://open.spotify.com/track/0PCzNRFKGyraIzhkmMKHrJ) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Vienna](https://open.spotify.com/album/37LrPY0zy6GPUWWKwVCGHq) | 2:26 |
 | 1820 | [Dementia](https://open.spotify.com/track/5IHb39NmNczAve6KhtAVrX) | [Sunshine Riot Commune](https://open.spotify.com/artist/1sAEqe2vPCiXX10D3wI6HE), [Mia Grace](https://open.spotify.com/artist/5AECGqaYMI5T8p1DOa4TRS) | [Dementia](https://open.spotify.com/album/3KY2uEhWMJchHmNo5Vae84) | 4:03 |
+| 1821 | [Golden Carnival Parade](https://open.spotify.com/track/7cLZLza8csHbATiLo5AckH) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Golden Carnival Parade](https://open.spotify.com/album/7aqSE2dVMLOalAWxKxBgsa) | 3:26 |
 
-Snapshot ID: `AAAH86ROgdVdps40RTUkhE2RxOoMmw9g`
+Snapshot ID: `AAAH9OAy/QEnUwwd9OGtZ6bjft6v51q/`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : 2L",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Coelho",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -668,7 +668,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 179990,
       "name": "Apprendre \u00e0 perdre\u2026",
       "url": "https://open.spotify.com/track/3lDUEFI5KIeQJanWCBRos4"
@@ -1820,7 +1820,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 195164,
       "name": "DNADV",
       "url": "https://open.spotify.com/track/1okZXUm1jxSQsUW3LBvFCj"
@@ -2304,7 +2304,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 160067,
       "name": "Foudroie les",
       "url": "https://open.spotify.com/track/2DotqHHAu6ZqhtOY8F0uvw"
@@ -2826,7 +2826,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 132000,
       "name": "INSOLVABLE",
       "url": "https://open.spotify.com/track/7fjNnYPpF6tgvyL4qxWotx"
@@ -2888,6 +2888,24 @@
       "duration_ms": 211399,
       "name": "J'attends",
       "url": "https://open.spotify.com/track/2bniQFXQRtmHcEx35GJTsN"
+    },
+    {
+      "album": {
+        "name": "J'fais pas croquer",
+        "url": "https://open.spotify.com/album/1vpE9p49WJH9mEvbeeyRz8"
+      },
+      "artists": [
+        {
+          "name": "2Paname",
+          "url": "https://open.spotify.com/artist/1114YJqVjUDwOGSC42DGFF"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "J'fais pas croquer",
+      "url": "https://open.spotify.com/track/0d1z622tKpTR0JivawN2Xs"
     },
     {
       "album": {
@@ -3579,6 +3597,28 @@
     },
     {
       "album": {
+        "name": "Les 11 \u00e0 suivre 2026",
+        "url": "https://open.spotify.com/album/316y2Syts5IHMvJMVTdxsA"
+      },
+      "artists": [
+        {
+          "name": "Booska-P",
+          "url": "https://open.spotify.com/artist/49mOLAzenRv6kDrr4Akajh"
+        },
+        {
+          "name": "Pato",
+          "url": "https://open.spotify.com/artist/2Zat3kOf8SQYHkKoeNpWWZ"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130666,
+      "name": "La Panique",
+      "url": "https://open.spotify.com/track/6UwDB2Aeo6ZzDf71uZh8Kt"
+    },
+    {
+      "album": {
         "name": "La petite voix",
         "url": "https://open.spotify.com/album/2pDiTVK8gxuCn0rEh5fGim"
       },
@@ -3656,6 +3696,24 @@
       "duration_ms": 153172,
       "name": "La vie \u00e0 Brenda (feat. Dinos)",
       "url": "https://open.spotify.com/track/5yMQSLWlqCBzVCT3DjtPZQ"
+    },
+    {
+      "album": {
+        "name": "La voisine d'en dessous ...",
+        "url": "https://open.spotify.com/album/7gJs5tVVPBgid7MdyxUT9h"
+      },
+      "artists": [
+        {
+          "name": "LauCarr\u00e9",
+          "url": "https://open.spotify.com/artist/0NuAhoKXhbTZEQwKzvVYRm"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123103,
+      "name": "La voisine d'en dessous ...",
+      "url": "https://open.spotify.com/track/1p93Kn7xmhznBsmud9U3DS"
     },
     {
       "album": {
@@ -4893,6 +4951,24 @@
     },
     {
       "album": {
+        "name": "notre france ador\u00e9e",
+        "url": "https://open.spotify.com/album/7pnEJLFTfRfdnX4aJK1ew1"
+      },
+      "artists": [
+        {
+          "name": "Coelho",
+          "url": "https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203515,
+      "name": "notre france ador\u00e9e",
+      "url": "https://open.spotify.com/track/5r4qWdWndc5J0NLaMtV3IK"
+    },
+    {
+      "album": {
         "name": "Nouveau Monde",
         "url": "https://open.spotify.com/album/3zmM7KPFr8Vir4uXgFob1w"
       },
@@ -5696,7 +5772,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 220774,
       "name": "P\u00eache \u00e0 la truite",
       "url": "https://open.spotify.com/track/3uUhQeajGdgA3RQCwTewFq"
@@ -5944,6 +6020,28 @@
       "duration_ms": 226901,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/0RFHvc890tXRQxt7ozH7tK"
+    },
+    {
+      "album": {
+        "name": "RESILIENZA",
+        "url": "https://open.spotify.com/album/5w94Vi7oHZtumlrdy4xwVs"
+      },
+      "artists": [
+        {
+          "name": "Amper",
+          "url": "https://open.spotify.com/artist/6kfNAtRifGvqiEbuyrx7BX"
+        },
+        {
+          "name": "Sano manjiro",
+          "url": "https://open.spotify.com/artist/27vM8U5EJPb9jUoYz36Iuy"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157524,
+      "name": "Resilienza",
+      "url": "https://open.spotify.com/track/42S8CAYWkacZN3Y3RU4NDs"
     },
     {
       "album": {

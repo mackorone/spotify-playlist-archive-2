@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best in new rock. Cover: Arctic Monkeys",
+  "description": "The best in new rock. Cover: Karnivool",
   "name": "Rock Out.",
   "tracks": [
     {
@@ -254,7 +254,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 203154,
       "name": "Ain\u2019t For The Faint",
       "url": "https://open.spotify.com/track/6SQuxwoBbp8DlAUStjJ5vB"
@@ -456,6 +456,24 @@
       "duration_ms": 191448,
       "name": "An Artist Is An Artist",
       "url": "https://open.spotify.com/track/1QlHr6xzSARBWQ6QvTb7TW"
+    },
+    {
+      "album": {
+        "name": "Animation",
+        "url": "https://open.spotify.com/album/0WErc9upAUe6MiNz0Df4hr"
+      },
+      "artists": [
+        {
+          "name": "Karnivool",
+          "url": "https://open.spotify.com/artist/6rX8AFY10dsJkJsv23Z9Um"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298210,
+      "name": "Animation",
+      "url": "https://open.spotify.com/track/5LuKJcBBm1jYR9uPmIHFXD"
     },
     {
       "album": {
@@ -1054,6 +1072,28 @@
       "duration_ms": 225682,
       "name": "BITE BACK",
       "url": "https://open.spotify.com/track/3oRLktPykF4J9KqAHRlFrx"
+    },
+    {
+      "album": {
+        "name": "Bite to Break",
+        "url": "https://open.spotify.com/album/1Y1aXgekAEr0XTjRWc867k"
+      },
+      "artists": [
+        {
+          "name": "Glass Tides",
+          "url": "https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0"
+        },
+        {
+          "name": "Aaron Gillespie",
+          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Bite to Break",
+      "url": "https://open.spotify.com/track/2LjEkeahvzz5wUA6DN1jXN"
     },
     {
       "album": {
@@ -1720,7 +1760,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 172018,
       "name": "Company Hunting",
       "url": "https://open.spotify.com/track/05ZZoNpRrlq50z5rNQ2EQU"
@@ -2272,7 +2312,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 299096,
       "name": "Drone",
       "url": "https://open.spotify.com/track/5f0S8MYAve5k02OJaiOnv7"
@@ -2308,7 +2348,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 203773,
       "name": "Drum Show",
       "url": "https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX"
@@ -4394,7 +4434,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 338169,
       "name": "Knik",
       "url": "https://open.spotify.com/track/1JQN3gqqNUV83MeN8OLZax"
@@ -5378,7 +5418,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 170941,
       "name": "my mind is a mountain",
       "url": "https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8"
@@ -5620,6 +5660,24 @@
       "duration_ms": 181098,
       "name": "No Control",
       "url": "https://open.spotify.com/track/6iYEtpQ84Vs2K5CReYfr6Y"
+    },
+    {
+      "album": {
+        "name": "NO LIES.",
+        "url": "https://open.spotify.com/album/6OQshUiS1eZqvP1y28fqvh"
+      },
+      "artists": [
+        {
+          "name": "paradise fell.",
+          "url": "https://open.spotify.com/artist/6xiHXeTXBiPw7J9w85oye3"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206811,
+      "name": "NO LIES.",
+      "url": "https://open.spotify.com/track/6B535fHF5M5BG9NZZevMl7"
     },
     {
       "album": {
@@ -7251,6 +7309,24 @@
     },
     {
       "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/4X320ZFY9R8LqbbpM5ukbH"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134785,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/1l99r6e1DH1aWIucAhufR9"
+    },
+    {
+      "album": {
         "name": "Slumber Party",
         "url": "https://open.spotify.com/album/00t69Vno7qzoiT21WCzpnz"
       },
@@ -8532,7 +8608,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 200792,
       "name": "Tidal Waves",
       "url": "https://open.spotify.com/track/1E6ok0oKBWRzYzzDkiTyCV"
@@ -9408,7 +9484,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 202702,
       "name": "WONDERFUL",
       "url": "https://open.spotify.com/track/2KlnNibs8vbh1ulZ7124vI"
@@ -9694,7 +9770,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 239582,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/2iWsTTbLNy658UrUR14T9k"

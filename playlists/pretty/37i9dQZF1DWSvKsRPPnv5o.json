@@ -1,6 +1,6 @@
 {
   "description": "Holdin' it down for the westside. Cover: Larry June",
-  "num_followers": 756821,
+  "num_followers": 756840,
   "original_name": "Westside",
   "owner": {
     "name": "Spotify",
@@ -467,13 +467,21 @@
     {
       "added_at": "2026-01-23 08:25:05",
       "album": {
-        "name": "Baller Blockin (feat. ALLBLACK & Zaybang)",
+        "name": "Baller Blockin (feat. Lil Yee & ZayBang)",
         "url": "https://open.spotify.com/album/76eHmXqD3cS3jbsPpATqcC"
       },
       "artists": [
         {
           "name": "1 Umbrella",
           "url": "https://open.spotify.com/artist/2KgAvy3nNfdR0tWMBZpOrl"
+        },
+        {
+          "name": "ALLBLACK",
+          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
+        },
+        {
+          "name": "22nd Jim",
+          "url": "https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU"
         },
         {
           "name": "Lil Bean",
@@ -484,20 +492,12 @@
           "url": "https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i"
         },
         {
-          "name": "22nd Jim",
-          "url": "https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU"
-        },
-        {
-          "name": "ALLBLACK",
-          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
-        },
-        {
           "name": "ZayBang",
           "url": "https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG"
         }
       ],
       "duration_ms": 181500,
-      "name": "Baller Blockin (feat. ALLBLACK & Zaybang)",
+      "name": "Baller Blockin (feat. Lil Yee & ZayBang)",
       "url": "https://open.spotify.com/track/0yZmUchFp5qtvPD89zzTB7"
     },
     {

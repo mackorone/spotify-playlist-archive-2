@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 194400,
       "name": "Arrependimento",
       "url": "https://open.spotify.com/track/3RvNfxUXCgf7xi665J7MyK"
@@ -7672,7 +7672,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 476337,
       "name": "Kataleya",
       "url": "https://open.spotify.com/track/6mH00dqyfpInDELpEqyDPI"
@@ -13427,6 +13427,24 @@
     },
     {
       "album": {
+        "name": "SEM CARTA",
+        "url": "https://open.spotify.com/album/1wadXULcNDMQkXRMmJGiKI"
+      },
+      "artists": [
+        {
+          "name": "MAR",
+          "url": "https://open.spotify.com/artist/1eD8ms4LtG3jrXqamSifPY"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "SEM CARTA",
+      "url": "https://open.spotify.com/track/2JMbseaVSNUJEEqZ91Xz7d"
+    },
+    {
+      "album": {
         "name": "Sem Parar",
         "url": "https://open.spotify.com/album/1UUgWYpo34wjGwSXGxZHIV"
       },
@@ -15370,7 +15388,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 171428,
       "name": "Tudo Pra Ti",
       "url": "https://open.spotify.com/track/20m3sAIvxJE7C3rrJ4LC2L"

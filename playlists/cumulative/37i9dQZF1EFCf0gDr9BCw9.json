@@ -1523,6 +1523,24 @@
     },
     {
       "album": {
+        "name": "Nearer And Nearer",
+        "url": "https://open.spotify.com/album/3XdkFTLjKOLuoyVm1xMtfy"
+      },
+      "artists": [
+        {
+          "name": "Barry Harris Trio",
+          "url": "https://open.spotify.com/artist/7Bpj43yWq3DUaMlNmTWYXH"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366173,
+      "name": "Intimacy of the Blues",
+      "url": "https://open.spotify.com/track/0vTqbjhV0g3aqtEieVdMFq"
+    },
+    {
+      "album": {
         "name": "Uh! Oh!",
         "url": "https://open.spotify.com/album/3eAdsI63k3sLjANop2GSPt"
       },
@@ -1542,7 +1560,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 366160,
       "name": "Intimacy of the Blues",
       "url": "https://open.spotify.com/track/2nzAThlkPFolmK9u9FOHzi"

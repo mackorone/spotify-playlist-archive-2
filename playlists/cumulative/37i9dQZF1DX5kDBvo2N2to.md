@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-480 songs - 1 day 1 hr 28 min
+483 songs - 1 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [...Japanese pancakes](https://open.spotify.com/track/0a0EM7KSt1fHRSmfCN8stf) | [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [...Japanese pancakes](https://open.spotify.com/album/3iypo05QDm3aB2ACqM8FS9) | 2:13 | 2025-05-22 | 2025-07-10 |
 | [00:00:01](https://open.spotify.com/track/5F7WaBrdKaut4IaswkN3be) | [Lucas Sunday](https://open.spotify.com/artist/5gZVR3l4ocV9kU4xE9hoRr) | [00:00:01](https://open.spotify.com/album/1TVr5v1JZ2Ux1mqXytRxyW) | 2:10 | 2025-07-03 | 2025-08-08 |
 | [02:30](https://open.spotify.com/track/1jpxVXKhTwvnBoAoEVOdE7) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [02:30](https://open.spotify.com/album/4a1vLUmOFdCWKRveif26Ja) | 3:37 | 2025-01-16 |  |
+| [04:30](https://open.spotify.com/track/3x1juGfcekjpWbid4jkG3v) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [04:30](https://open.spotify.com/album/4NOwey7G9dr7qc5RNyJ0lQ) | 2:44 | 2026-01-29 |  |
 | [112](https://open.spotify.com/track/2Mpbd4mtygXsLhnP4APlRn) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [112](https://open.spotify.com/album/1zml0unk1vmOVPhYlpExW7) | 3:16 | 2025-03-20 | 2025-09-02 |
 | [22 \(feat\. Nadja Evelina\)](https://open.spotify.com/track/0scqi9Ay3rmAV2gm8di8VA) | [Tjejdikter](https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc), [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [22 \(feat\. Nadja Evelina\)](https://open.spotify.com/album/2fqcOlGoHnGTLOpRE1vjak) | 2:53 | 2024-06-28 | 2024-10-13 |
 | [24/7](https://open.spotify.com/track/29wEVD99X1HJvWXuEmTTxm) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [24/7](https://open.spotify.com/album/5emD6veRgAKrGIf31AoyI5) | 2:12 | 2025-08-14 | 2026-01-15 |
@@ -267,7 +268,7 @@
 | [Känslostyrd](https://open.spotify.com/track/2uehAVAiwspd3OlukIw100) | [Sebastian Lara](https://open.spotify.com/artist/1gK6bR7fr8AfgfdZfGPyB0) | [Känslostyrd](https://open.spotify.com/album/1XBacOnNOR4BkbBRAPCxoe) | 2:28 | 2026-01-12 |  |
 | [Kära Idioter](https://open.spotify.com/track/2UfUdKkWiq4SSaV0WOnc16) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Kära Idioter](https://open.spotify.com/album/44I05AXUG1XXhRzdY2sV9U) | 2:50 | 2025-03-07 | 2025-03-30 |
 | [l.o.v.e](https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [l.o.v.e](https://open.spotify.com/album/4BNdRv5U4sQ0Zr3WiYwXCL) | 2:59 | 2025-10-02 |  |
-| [Lampan tänd för dig](https://open.spotify.com/track/1c7tYETxbuAdYTrzgw3m66) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70) | [Lampan tänd för dig](https://open.spotify.com/album/3fceocYBrztJ0lL2kF2wBl) | 2:33 | 2025-03-20 |  |
+| [Lampan tänd för dig](https://open.spotify.com/track/1c7tYETxbuAdYTrzgw3m66) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70) | [Lampan tänd för dig](https://open.spotify.com/album/3fceocYBrztJ0lL2kF2wBl) | 2:33 | 2025-03-20 | 2026-01-30 |
 | [Lasse & hunden](https://open.spotify.com/track/2ugliGsPZth0lK3QKinrRy) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Lasse & hunden](https://open.spotify.com/album/0SEyzhS1YHYQCsyTIlxzIG) | 2:44 | 2025-03-24 | 2025-09-05 |
 | [Leave Me Alone](https://open.spotify.com/track/5asaMzNMI7NVR4QUMWjicy) | [Lucky Lou](https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2) | [Leave Me Alone](https://open.spotify.com/album/5w543mJbAupEInVlJC8V6V) | 3:03 | 2024-06-28 | 2024-08-30 |
 | [Leyla](https://open.spotify.com/track/4QIzYCGDTLJxue9HQe4xaY) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Leyla](https://open.spotify.com/album/6pkRBjBGXdVF8b0AUCfuUl) | 2:26 | 2025-03-13 | 2025-09-19 |
@@ -286,7 +287,7 @@
 | [Love Myself](https://open.spotify.com/track/6aKgsDfYyCS7LtkCPNelBg) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [Love Myself](https://open.spotify.com/album/4r7m1oNgT25nPU1v0GTbAP) | 2:41 | 2024-06-28 | 2024-09-20 |
 | [Love Myself](https://open.spotify.com/track/27SLYYc8iLbG5b7yyMpiXe) | [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Rollercoaster](https://open.spotify.com/album/6IAHl13kHHbwAomOO4xm3j) | 2:30 | 2024-08-15 | 2024-11-09 |
 | [Lover Online](https://open.spotify.com/track/0o5wusLgOl9yWjXzUF1SEJ) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Lover Online](https://open.spotify.com/album/3jkEIKa3J9CI09JLsAl7Qs) | 2:47 | 2024-09-19 | 2025-05-09 |
-| [Lover's Rock](https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Acoustics & Hood Psychedelia](https://open.spotify.com/album/1Tg2i1ApWQgEv1UezbcWMl) | 2:48 | 2025-11-27 |  |
+| [Lover's Rock](https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Acoustics & Hood Psychedelia](https://open.spotify.com/album/1Tg2i1ApWQgEv1UezbcWMl) | 2:48 | 2025-11-27 | 2026-01-30 |
 | [luften i maj](https://open.spotify.com/track/0lCZhCH8XT87T1zQDCeHsZ) | [TUVA](https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q) | [bland molnen/under isen](https://open.spotify.com/album/1ruLTxzG4vZvQqvPslsrzo) | 2:48 | 2025-05-01 | 2025-06-13 |
 | [luminary rainbows](https://open.spotify.com/track/3ekQzz3KHdp043leCnwRdX) | [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [luminary rainbows](https://open.spotify.com/album/4wEukq8iM8Bsj3db4gYxhr) | 4:52 | 2024-08-22 | 2024-10-28 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-28 | 2024-08-16 |
@@ -304,6 +305,7 @@
 | [Mercy](https://open.spotify.com/track/5uFJXfZjZULwfZpxhKGbhT) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Mercy](https://open.spotify.com/album/3CXIT7GzHOuW0pQRYYYCdl) | 3:02 | 2024-06-28 | 2025-04-09 |
 | [MIG/DIG \(feat\. Klaudy\)](https://open.spotify.com/track/5vOWUz65ez7ctQQLBpbgvc) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E), [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [MIG/DIG \(feat\. Klaudy\)](https://open.spotify.com/album/4xeizK2EHs4GlbDezTmR5S) | 2:56 | 2025-09-11 |  |
 | [Might Destroy You](https://open.spotify.com/track/58tteWR7XWQwM7sfH6hDaP) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Might Destroy You](https://open.spotify.com/album/6wreWP88Dq9htpmXBz0qQe) | 2:34 | 2024-08-08 | 2024-10-25 |
+| [Min](https://open.spotify.com/track/4hWN8ltynwP6Vt6GpuAa4d) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [Min](https://open.spotify.com/album/7BRLovL0UUeRCG5v3vrXSx) | 2:27 | 2026-01-29 |  |
 | [Min Elsa](https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Min Elsa](https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC) | 2:52 | 2024-08-15 | 2024-10-05 |
 | [Min Till Slut](https://open.spotify.com/track/1Q2KjEBrfko2pDnFnrAsUg) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Min Till Slut](https://open.spotify.com/album/3A2IXQNnLr7el2B9r7FdF7) | 2:38 | 2025-09-11 | 2025-10-05 |
 | [Mirrors](https://open.spotify.com/track/2EKz3OWAJPZOufOpgBmeYe) | [Julia Logan](https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0) | [Mirrors](https://open.spotify.com/album/5lgVfF0JPiYDnL6espVfgv) | 3:38 | 2024-06-28 | 2024-08-30 |
@@ -320,7 +322,7 @@
 | [Mormors Sommarvisa](https://open.spotify.com/track/2Q9n5vvOyFz7feO8bYNb8g) | [Rebi](https://open.spotify.com/artist/0GFFikqfJwSVfFSk71nvzH) | [Mormors Sommarvisa](https://open.spotify.com/album/1DB94nhmlINo21fAr3CzWJ) | 2:23 | 2025-05-15 | 2025-09-12 |
 | [Motorcycle](https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Motorcycle](https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g) | 2:46 | 2024-06-28 | 2024-10-22 |
 | [Mr\. Vibe Killer](https://open.spotify.com/track/2aBQL5TBYfsI76U98vX9WR) | [Wilma Vidal](https://open.spotify.com/artist/15rEuZ5MAH3TAzOWkEOj6O) | [Mr\. Vibe Killer](https://open.spotify.com/album/0yRDW91fBRvdL2CUNYG3wK) | 3:20 | 2025-03-20 | 2025-07-02 |
-| [MSN & Lunar](https://open.spotify.com/track/7I1ilCxXvxl26XjzR8PF2b) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [MSN & Lunar](https://open.spotify.com/album/6dJsgto6bwHsJBGqX6CXwk) | 3:33 | 2025-04-24 |  |
+| [MSN & Lunar](https://open.spotify.com/track/7I1ilCxXvxl26XjzR8PF2b) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [MSN & Lunar](https://open.spotify.com/album/6dJsgto6bwHsJBGqX6CXwk) | 3:33 | 2025-04-24 | 2026-01-30 |
 | [My Hands In The Water](https://open.spotify.com/track/3pGJFOWqwUrxVt4Tzl8YVC) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [My Hands In The Water](https://open.spotify.com/album/1k9WtmIp5FQmQi5c1BRKYj) | 4:36 | 2024-06-28 | 2024-08-23 |
 | [Ner till sjön](https://open.spotify.com/track/756n8OYYga1NCuO0HibXix) | [Immanuel](https://open.spotify.com/artist/2yrh7Lu0JyS9B8jaUUoA43) | [Nästa sommar EP](https://open.spotify.com/album/2qiMW6bQAxZohW39y8fVkt) | 2:20 | 2025-11-06 | 2025-11-14 |
 | [Nere på golvet](https://open.spotify.com/track/4KYz0f2OYDQLJEE5B8y2Zy) | [Gustaf Rasch](https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh) | [Nere på golvet](https://open.spotify.com/album/3GnlXSvdW3BO8SFlOGrsiE) | 2:51 | 2025-04-24 | 2025-08-11 |
@@ -437,6 +439,7 @@
 | [The Ambition](https://open.spotify.com/track/0kfVayo9KsW0VWT5Z9Twcw) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:34 | 2025-09-25 |  |
 | [The Dream Is Over](https://open.spotify.com/track/14TaOx6s12JuJ3DhJCrj8P) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Shades of Blue](https://open.spotify.com/album/7IzlLkqdAibLpnesmvwknW) | 3:22 | 2025-05-29 | 2025-08-01 |
 | [The First Train Home](https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [The First Train Home](https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx) | 3:32 | 2024-06-28 | 2024-08-30 |
+| [The Great Divide](https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N) | 5:17 | 2026-01-29 |  |
 | [The People](https://open.spotify.com/track/70O9SdAgSLqakXgopvDD40) | [Bellvie](https://open.spotify.com/artist/5TfMFZyVModzZjI5DOWwnl) | [The People](https://open.spotify.com/album/0m5yZ30H8mnkxHaQdnVhI9) | 4:32 | 2024-06-28 | 2025-03-21 |
 | [The Prettiest Face](https://open.spotify.com/track/6E0G7ump7uk1QlK06w7N8S) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [The Prettiest Face](https://open.spotify.com/album/3AmFut4iasNG9keXqi4WR4) | 3:31 | 2025-03-07 | 2025-07-26 |
 | [Thee Unknown](https://open.spotify.com/track/7wmfbVFElNhyBsJnOAGbJf) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Thee Unknown](https://open.spotify.com/album/2Jkcr5p1FkmY1vYM5WPJtk) | 3:24 | 2024-09-19 | 2025-05-09 |

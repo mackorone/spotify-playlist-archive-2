@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXgAAAAAAAAJ6QIMDyfi8QdQFrqyiWCZ",
+  "snapshot_id": "aXlRgAAAAAAjANe6LQIPgcMtCpIP5x7N",
   "tracks": [
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 275920,
-      "name": "Love Don't Ever Say Goodbye",
-      "url": "https://open.spotify.com/track/4bAEG1ZYfkMCT3SdDRqTzw"
+      "duration_ms": 249426,
+      "name": "(I Found) That Man of Mine",
+      "url": "https://open.spotify.com/track/4ykwkuk4VAGCCF82pMadSE"
     },
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 249426,
-      "name": "(I Found) That Man of Mine",
-      "url": "https://open.spotify.com/track/4ykwkuk4VAGCCF82pMadSE"
+      "duration_ms": 275920,
+      "name": "Love Don't Ever Say Goodbye",
+      "url": "https://open.spotify.com/track/4bAEG1ZYfkMCT3SdDRqTzw"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Won't Let You Take It Back",
-      "url": "https://open.spotify.com/track/7AfXda0tSyLrhlN3vkbkpo"
+      "duration_ms": 276973,
+      "name": "Ah, Ah, Ah, Ah",
+      "url": "https://open.spotify.com/track/2NVBR55sc6DUEBXJdPErFK"
     },
     {
       "added_at": null,
@@ -431,54 +431,6 @@
       "duration_ms": 296786,
       "name": "2 Win U Back",
       "url": "https://open.spotify.com/track/5MSBptBOsXevqa0YltKt5b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coming Back",
-        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 337026,
-      "name": "Getting on with My Own Life",
-      "url": "https://open.spotify.com/track/12c8DOnkjclmBMFSj1yMnS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get as Much Love as You Can",
-        "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 261866,
-      "name": "Get as Much Love as You Can",
-      "url": "https://open.spotify.com/track/528wN82D9KEA7xY59Go0Ls"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Keep It Comin'",
-        "url": "https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 276973,
-      "name": "Ah, Ah, Ah, Ah",
-      "url": "https://open.spotify.com/track/2NVBR55sc6DUEBXJdPErFK"
     },
     {
       "added_at": null,
@@ -523,6 +475,54 @@
       "duration_ms": 280000,
       "name": "Please Come Back",
       "url": "https://open.spotify.com/track/63icbDiDWBKZlnwR7bMJzQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get as Much Love as You Can",
+        "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 261866,
+      "name": "Get as Much Love as You Can",
+      "url": "https://open.spotify.com/track/528wN82D9KEA7xY59Go0Ls"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Keep It Comin'",
+        "url": "https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Won't Let You Take It Back",
+      "url": "https://open.spotify.com/track/7AfXda0tSyLrhlN3vkbkpo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coming Back",
+        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 337026,
+      "name": "Getting on with My Own Life",
+      "url": "https://open.spotify.com/track/12c8DOnkjclmBMFSj1yMnS"
     },
     {
       "added_at": null,
@@ -812,66 +812,6 @@
       },
       "artists": [
         {
-          "name": "Chris Ballin",
-          "url": "https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W"
-        },
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/5YBzrGR5OgC9pU4Dl5eU8o"
-        },
-        {
-          "name": "Dean Edwards",
-          "url": "https://open.spotify.com/artist/6r4TeQ52Om1xWryPSGW4tI"
-        },
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        },
-        {
-          "name": "Anthony Drakes",
-          "url": "https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza"
-        },
-        {
-          "name": "Julianne",
-          "url": "https://open.spotify.com/artist/0ZEOoQA1tnEAnEbObq8YIR"
-        },
-        {
-          "name": "The Sound Principle",
-          "url": "https://open.spotify.com/artist/6vBm0kFy8xndqPZRY8zpYw"
-        },
-        {
-          "name": "Richard Anthony Davis",
-          "url": "https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL"
-        }
-      ],
-      "duration_ms": 309000,
-      "name": "Could You Be Mine?",
-      "url": "https://open.spotify.com/track/592L5UVwLVl6kmxB8E2z7Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coming Back",
-        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 270666,
-      "name": "You Threw Our Love Away",
-      "url": "https://open.spotify.com/track/2VeJDRAffO2knNj1RuUYAI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soul Central, Vol. 1",
-        "url": "https://open.spotify.com/album/4oXW0hCOrPBqaKPFAViRya"
-      },
-      "artists": [
-        {
           "name": "Anthony Drakes",
           "url": "https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza"
         },
@@ -907,6 +847,66 @@
       "duration_ms": 301000,
       "name": "Is It True?",
       "url": "https://open.spotify.com/track/2P3rUI2tEIlBo5YXcGrOuf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coming Back",
+        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 270666,
+      "name": "You Threw Our Love Away",
+      "url": "https://open.spotify.com/track/2VeJDRAffO2knNj1RuUYAI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soul Central, Vol. 1",
+        "url": "https://open.spotify.com/album/4oXW0hCOrPBqaKPFAViRya"
+      },
+      "artists": [
+        {
+          "name": "Chris Ballin",
+          "url": "https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W"
+        },
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/5YBzrGR5OgC9pU4Dl5eU8o"
+        },
+        {
+          "name": "Dean Edwards",
+          "url": "https://open.spotify.com/artist/6r4TeQ52Om1xWryPSGW4tI"
+        },
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        },
+        {
+          "name": "Anthony Drakes",
+          "url": "https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza"
+        },
+        {
+          "name": "Julianne",
+          "url": "https://open.spotify.com/artist/0ZEOoQA1tnEAnEbObq8YIR"
+        },
+        {
+          "name": "The Sound Principle",
+          "url": "https://open.spotify.com/artist/6vBm0kFy8xndqPZRY8zpYw"
+        },
+        {
+          "name": "Richard Anthony Davis",
+          "url": "https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL"
+        }
+      ],
+      "duration_ms": 309000,
+      "name": "Could You Be Mine?",
+      "url": "https://open.spotify.com/track/592L5UVwLVl6kmxB8E2z7Y"
     }
   ],
   "unique_name": "This Is The Jones Girls",

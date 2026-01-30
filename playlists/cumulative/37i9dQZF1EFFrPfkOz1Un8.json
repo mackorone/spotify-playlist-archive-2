@@ -389,6 +389,46 @@
     },
     {
       "album": {
+        "name": "Rap Game Awful",
+        "url": "https://open.spotify.com/album/1gGEh8LZdW7Dt51anEyYBl"
+      },
+      "artists": [
+        {
+          "name": "Clavish",
+          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
+        },
+        {
+          "name": "Teeway",
+          "url": "https://open.spotify.com/artist/0kpblC0svNiiNNli00y7J9"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247346,
+      "name": "Mariah Carey",
+      "url": "https://open.spotify.com/track/2DXyt4lQL2ACjzvZ0QN8AO"
+    },
+    {
+      "album": {
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181050,
+      "name": "Marvellous",
+      "url": "https://open.spotify.com/track/0BiXEKLDn6bG3OgZcwNYuM"
+    },
+    {
+      "album": {
         "name": "Melodia",
         "url": "https://open.spotify.com/album/5ibwloBOv2GUuh8TKVllmL"
       },

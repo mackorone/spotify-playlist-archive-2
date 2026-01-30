@@ -4,7 +4,7 @@
 
 > celebre seu dia no maior astral!
 
-319 songs - 18 hr 21 min
+320 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE) | 3:21 | 2022-03-24 | 2025-10-10 |
 | [2002](https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:06 | 2022-03-24 | 2024-04-19 |
 | [2002](https://open.spotify.com/track/6SFStUDQZNaGPKWOx9ZiJB) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/661ouXU4o4oBewWvVzQN7H) | 3:06 | 2022-03-24 | 2022-07-24 |
-| [2U \(feat\. Justin Bieber\)](https://open.spotify.com/track/3A7qX2QjDlPnazUsRk5y0M) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [2U \(feat\. Justin Bieber\)](https://open.spotify.com/album/1PZviVfBJJxNw5EtAwzdUu) | 3:14 | 2022-03-24 |  |
+| [2U \(feat\. Justin Bieber\)](https://open.spotify.com/track/3A7qX2QjDlPnazUsRk5y0M) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [2U \(feat\. Justin Bieber\)](https://open.spotify.com/album/1PZviVfBJJxNw5EtAwzdUu) | 3:14 | 2022-03-24 | 2026-01-30 |
 | [A Casa é Sua](https://open.spotify.com/track/0wfcNeRfE0Z7bTlTYmVKQC) | [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5) | [Iê Iê Iê](https://open.spotify.com/album/1JvHoEorSjvyN1QedgMiQ5) | 4:20 | 2022-02-04 | 2022-07-29 |
 | [A Cor É Rosa](https://open.spotify.com/track/5QUoiOFWAaV5VC2VbBhHJ4) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [A Cor É Rosa](https://open.spotify.com/album/3wLwv0W8vx2mhmMWC9lNEF) | 3:48 | 2022-02-04 | 2022-07-29 |
 | [A Little Less Conversation \- JXL Radio Edit Remix](https://open.spotify.com/track/1oT4oDy3cNhMXfjSWJu67Q) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [JXL](https://open.spotify.com/artist/2GyakhIO8twSgCnUFfCzTN) | [Elvis Forever: The Best of Elvis Presley](https://open.spotify.com/album/7mxsNoS5WUrhkW5gPYLFHo) | 3:31 | 2022-03-24 | 2022-04-21 |
@@ -53,6 +53,7 @@
 | [Chateau](https://open.spotify.com/track/0QWsssAqEAyOVEHG6Lx4EJ) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Chateau](https://open.spotify.com/album/6w6UOc6MZxO8oN5VckWGSR) | 4:33 | 2022-03-24 | 2022-04-20 |
 | [Cheap Thrills](https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 3:31 | 2022-03-24 |  |
 | [Cheguei Pra Te Amar](https://open.spotify.com/track/4UbWczmUqp2mfzSHSmTpAC) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Cheguei Pra Te Amar](https://open.spotify.com/album/364j7YrznWF9uTCc51H4gd) | 3:17 | 2022-02-04 | 2022-07-29 |
+| [Ciranda da Sequela](https://open.spotify.com/track/3kzbTkKzY78oHI91GfU4Gw) | [Márcio Moreira](https://open.spotify.com/artist/2B05TksdlRPIiOgu0wl8Kg) | [Ciranda da Sequela](https://open.spotify.com/album/3AhNeigwtQL4Kssfmg8rLc) | 4:17 | 2026-01-29 |  |
 | [Circles](https://open.spotify.com/track/4VginDwYTP2eaHJzO0QMjG) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Circles](https://open.spotify.com/album/75n7rjlC1fxezRtoMQmtL5) | 3:34 | 2022-03-24 | 2022-07-14 |
 | [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:35 | 2022-03-24 | 2024-04-19 |
 | [Coisa Boa](https://open.spotify.com/track/0Z5IDWR4JHuJo7FBsSoM1k) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Depois do Fim](https://open.spotify.com/album/6Gh9k6PdqxQ6l3tZxZWSH9) | 2:19 | 2023-07-21 | 2024-01-13 |

@@ -2,9 +2,9 @@
 
 ### [Chill Pop](https://open.spotify.com/playlist/37i9dQZF1DX0MLFaUdXnjA)
 
-> Sit back and relax to the chillest pop\.  Cover: Nessa Barrett
+> Sit back and relax to the chillest pop\.  Cover: Gabriela Bee
 
-2,519 songs - 5 day 15 hr 41 min
+2,521 songs - 5 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -603,6 +603,7 @@
 | [Drugs & Bad Habits](https://open.spotify.com/track/0xVH17EbVmgtuLPdWCQwZx) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Solstice](https://open.spotify.com/album/2B1TsRb3uycachEmnppqsZ) | 2:39 | 2024-06-28 | 2024-07-27 |
 | [Drunk, Running](https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 4:05 | 2024-04-05 | 2024-05-25 |
 | [Dust](https://open.spotify.com/track/7gKB72lW18lE0pfo9GMzMJ) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [After The Landslide](https://open.spotify.com/album/02DGbYqBLeNFuCx7SB200D) | 3:18 | 2020-04-26\* | 2020-07-18 |
+| [Dusty's](https://open.spotify.com/track/13fhwsoyhE1JPHftChhlzD) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Dusty's](https://open.spotify.com/album/19zNAe2a0adh99S5GOIhWL) | 3:42 | 2026-01-30 |  |
 | [Earthstar](https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar](https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4) | 4:03 | 2025-01-24 | 2025-02-22 |
 | [east side](https://open.spotify.com/track/2AqZLF7yk7Jf17Be1i6jcO) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [east side](https://open.spotify.com/album/0TqA7jHzMVftg6xeMa9ZZj) | 2:45 | 2023-11-17 | 2024-02-24 |
 | [Easy](https://open.spotify.com/track/3nyRWdbLh6gSembPFBvovm) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [Easy](https://open.spotify.com/album/1JvToB7yIkLMk4Fw6ARPgK) | 3:11 | 2021-01-23 | 2021-05-15 |
@@ -742,7 +743,7 @@
 | [For Tonight](https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [For Tonight](https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf) | 3:13 | 2021-09-25 | 2022-07-23 |
 | [forever and a day](https://open.spotify.com/track/4zGV9YkuYTKRVV6RXd2WvS) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [forever and a day](https://open.spotify.com/album/7hLQkP6QFyXARHA0A4GiND) | 3:16 | 2025-02-07 | 2025-06-14 |
 | [forever fifteen \(acoustic\)](https://open.spotify.com/track/0YvqWiqfk5jYURwR6kGmp6) | [Mothica](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [forever fifteen \(acoustic\)](https://open.spotify.com/album/2vvlh1YyTcVHkXxkZQvEGD) | 3:14 | 2021-03-06 | 2021-04-24 |
-| [Forever Start](https://open.spotify.com/track/3ToN8ReI58rQwfuOtX5tew) | [Ryan Nealon](https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux), [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [Forever Start](https://open.spotify.com/album/0ovpJJo6ZwHK4s7U89EdbV) | 3:11 | 2025-08-29 |  |
+| [Forever Start](https://open.spotify.com/track/3ToN8ReI58rQwfuOtX5tew) | [Ryan Nealon](https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux), [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [Forever Start](https://open.spotify.com/album/0ovpJJo6ZwHK4s7U89EdbV) | 3:11 | 2025-08-29 | 2026-01-30 |
 | [forever&more](https://open.spotify.com/track/0UMFm4ndFr3PH5VsVYnCNG) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [forever&more](https://open.spotify.com/album/2ox1YSN2qTOg170HnzqqI3) | 2:55 | 2021-07-24 | 2021-09-18 |
 | [Forget Me \- Spotify Singles](https://open.spotify.com/track/2IIMt19xJuWIHVmfpd9jH8) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9) | 3:49 | 2022-09-23 | 2023-04-15 |
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-04-19 | 2024-08-31 |
@@ -1885,7 +1886,7 @@
 | [Show Me How](https://open.spotify.com/track/75IQVo8hqI1iwVZyvkN2VT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/7mUYDBqNiddmKxuKrnBEKQ) | 3:35 | 2023-12-01 | 2024-04-19 |
 | [Show U Off](https://open.spotify.com/track/00selpxxljfn9n5Pf4K3VR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Show U Off](https://open.spotify.com/album/4vmD2mzd6e6UCvuQgKT00m) | 4:11 | 2021-03-26 | 2021-04-03 |
 | [Side Effects](https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:43 | 2020-04-26\* | 2020-05-01 |
-| [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 | 2024-10-04 |  |
+| [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 | 2024-10-04 | 2026-01-30 |
 | [Silk Chiffon \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Silk Chiffon \(feat\. Phoebe Bridgers\)](https://open.spotify.com/album/0tVci75UxNB1H29bpj86tj) | 3:26 | 2021-09-17 | 2021-10-02 |
 | [Silly Me](https://open.spotify.com/track/5qXmsKaUlKaRzVpmtCYfqr) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Silly Me](https://open.spotify.com/album/7HBMhkR1VpAQQF93biR19H) | 3:19 | 2023-04-28 | 2023-06-17 |
 | [silly nature](https://open.spotify.com/track/39TQI4MMElmwhA0f07apQ8) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [puffette](https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4) | 2:27 | 2025-08-22 | 2025-11-15 |
@@ -2512,10 +2513,10 @@
 | [You Don't Love Me \(Like You Used To\)](https://open.spotify.com/track/2Wu8pRt6ecpSYnCsz2P8A4) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [You Don't Love Me \(Like You Used To\)](https://open.spotify.com/album/7jN39FKswePfqJDsPCUXBm) | 4:26 | 2020-04-26\* | 2020-08-30 |
 | [You got time and I got money](https://open.spotify.com/track/0il7LJ828XyPqyvNx9cF5S) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 4:31 | 2025-11-14 |  |
 | [You Killed The Music](https://open.spotify.com/track/2Km8hIwZJWq7migmM1dZzy) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [You Killed The Music](https://open.spotify.com/album/4ygQDkkZoggfIDXxOb1VJW) | 3:06 | 2025-02-21 | 2025-07-19 |
-| [You Stole The Show](https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [You Stole The Show](https://open.spotify.com/album/1K7SMm8IvVx0hT40q1tfTh) | 3:27 | 2025-07-25 | 2025-10-18 |
+| [You Stole The Show](https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [You Stole The Show](https://open.spotify.com/album/1K7SMm8IvVx0hT40q1tfTh) | 3:27 | 2025-07-25 |  |
 | [you were good to me](https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 | 2020-04-26\* | 2020-05-30 |
 | [You Were Mine](https://open.spotify.com/track/0nt9QNF9rY5mPTAV9Nn9yH) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [You Were Mine](https://open.spotify.com/album/674xNsjLRyL3aDeWG3Zmcc) | 2:51 | 2024-03-01 | 2024-04-06 |
-| [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 | 2025-03-21 |  |
+| [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 | 2025-03-21 | 2026-01-30 |
 | [You'll Be In My Heart \- Spotify Singles](https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Spotify Singles](https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz) | 4:01 | 2022-10-26 | 2023-04-29 |
 | [You're Always High](https://open.spotify.com/track/6YB79a954f6nzfYCkX8sXB) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [You're Always High](https://open.spotify.com/album/6UJVvGxOSk0TbJPAaolsNQ) | 3:03 | 2024-10-04 | 2025-01-25 |
 | [you're my moon](https://open.spotify.com/track/565nq6yHIdPS05v42NpabQ) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [you're my moon](https://open.spotify.com/album/5yhf2O5NFeNgRCeZ9RksHJ) | 3:02 | 2024-04-12 | 2024-08-17 |
@@ -2525,6 +2526,7 @@
 | [Your New Favorite Song](https://open.spotify.com/track/6mxvsThgEclVwrA0ZPWbkQ) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Your New Favorite Song](https://open.spotify.com/album/0xIQsahcD55CfVddCz0Cue) | 3:07 | 2025-01-10 | 2025-02-01 |
 | [Your Ocean](https://open.spotify.com/track/6WerZ9Yyvwuns3lOMkHTbX) | [Tatiana Manaois](https://open.spotify.com/artist/7z1VrrLktQYoS9C0cFbfnI) | [Your Ocean](https://open.spotify.com/album/6BI6vwdUODKDu40EgalaAh) | 2:11 | 2020-08-07 | 2020-09-18 |
 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2021-04-30 | 2021-06-26 |
+| [your time](https://open.spotify.com/track/75yQOshwRa0DiiCOylVwnV) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [your time](https://open.spotify.com/album/0spRhGlADdVIuQZc2y2IqJ) | 3:09 | 2026-01-30 |  |
 | [Your World](https://open.spotify.com/track/2AzvFMlNwqNyOsu581XkBO) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Your World](https://open.spotify.com/album/4dLLYTjdFp0wdtTFOkT55s) | 3:25 | 2020-11-06 | 2021-02-19 |
 | [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 | 2023-12-01 | 2024-03-16 |
 

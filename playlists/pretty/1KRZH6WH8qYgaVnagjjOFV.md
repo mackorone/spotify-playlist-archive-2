@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 
 ### [Top Christian Hits 2026](https://open.spotify.com/playlist/1KRZH6WH8qYgaVnagjjOFV)
 
-> Top Christian Hits 2026 \| Latest and greatest Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a> 2016 \| Winter storm \| snow storm 2026 \| new year hits \| feeling cozy
+> Top Christian Hits 2026 \| Latest and greatest Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a> 2016 \| Winter storm \| snow storm 2026 \| GRAMMYs 2026 \| feeling cozy
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 371,442 likes - 139 songs - 9 hr 12 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 371,469 likes - 139 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 | 138 | [Christ In Me](https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [I Will Follow](https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V) | 3:31 |
 | 139 | [I Surrender All](https://open.spotify.com/track/278oT0aaxxijjC6N37EOYH) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [I Surrender All](https://open.spotify.com/album/1qeZcSNuLbBjW3shvZ5scs) | 2:18 |
 
-Snapshot ID: `AAAl8hTkgcSJBdqNCQXTtQx6WfuJ6Qw6`
+Snapshot ID: `AAAl89dr3EnEe1aRaxCTYfoNEHrQRGOv`

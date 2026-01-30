@@ -4,7 +4,7 @@
 
 > Get ready for a full\-body workout
 
-134 songs - 6 hr 49 min
+135 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [506](https://open.spotify.com/track/7fjyz7AHmoyps6GH5Wmc5w) | [Kotti](https://open.spotify.com/artist/6zEVcCS0Y87Yrv2Pxjzcps), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY), [AFSRMUSIC](https://open.spotify.com/artist/4782y51fIf7e1EGSxnfy35) | [506](https://open.spotify.com/album/7eDWLDuUcanG37D8UnlBmv) | 2:17 | 2025-04-30 | 2025-06-21 |
 | [9 Gant](https://open.spotify.com/track/0RtpA2DyBIsCX07aoJLuRO) | [Tiger](https://open.spotify.com/artist/1Bvb9LcDqKiwwbUAVZMDtm), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq), [Beatcop](https://open.spotify.com/artist/2sGUVwZqJzeySVgEw7KTaV) | [Tiger 2025, Vol\. 1](https://open.spotify.com/album/7hN1njY6QpQSnkMWBYJfQ7) | 3:00 | 2025-07-21 | 2025-11-29 |
 | [9:45](https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb) | [Prabh Singh](https://open.spotify.com/artist/0VAIiNSKG4DWkSaIy5qWz1), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Rooh Sandhu](https://open.spotify.com/artist/54E3dYx7RpaGZaDVXJTWjr) | [9:45](https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR) | 1:57 | 2025-01-08 |  |
+| [Agg](https://open.spotify.com/track/5q6w7VtiWgn2QM7hqbPKTN) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC) | [Agg](https://open.spotify.com/album/0Okv1CfnPJKMSlM9tey6IC) | 3:02 | 2026-01-28 |  |
 | [Aitvaar](https://open.spotify.com/track/1oTyX0QcxOmnJlilzhfak1) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr) | [Pieces of Me](https://open.spotify.com/album/0raSkW1e3ld2c63hzvpchY) | 2:52 | 2023-06-22 | 2025-01-09 |
 | [All Night](https://open.spotify.com/track/7aHK3g7UZfK1t1C6AMKEFF) | [AK](https://open.spotify.com/artist/0TjvVjDesZyTCmI7qR1sbn), [Dippa Dosanjh](https://open.spotify.com/artist/5TeJYUhoB43aWSlR4PvHUm) | [All Night](https://open.spotify.com/album/164EYHu8ot4gol1jgCovSC) | 2:44 | 2025-03-28 | 2025-05-01 |
 | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/track/1YKPRycM3GzKbZUYDgLrmn) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g) | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K) | 3:02 | 2023-11-18 |  |
@@ -128,7 +129,7 @@
 | [Tankha](https://open.spotify.com/track/0L4uTenn6ln6mVxz1hr2co) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Tankha \- Single](https://open.spotify.com/album/6646YdKCiWNHAtqBvccQGW) | 2:58 | 2023-06-22 | 2025-01-09 |
 | [Tauba Tauba \(From "Bad Newz"\)](https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Tauba Tauba \(From "Bad Newz"\)](https://open.spotify.com/album/72nKBrp0K6Nv6Q76TmEWLY) | 3:27 | 2025-01-08 | 2025-02-08 |
 | [Teeje Week](https://open.spotify.com/track/000RDCYioLteXcutOjeweY) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Teeje Week](https://open.spotify.com/album/6LxCxBowIfX7JAfmafOIaM) | 3:10 | 2023-06-22 |  |
-| [Tell Me Honestly](https://open.spotify.com/track/2vYOc06QkjMCSQjpf7hISL) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [The Boss](https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH) | [Tell Me Honestly](https://open.spotify.com/album/3JpW1WY2iNxgVGUNQFw37S) | 3:45 | 2025-02-11 |  |
+| [Tell Me Honestly](https://open.spotify.com/track/2vYOc06QkjMCSQjpf7hISL) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [The Boss](https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH) | [Tell Me Honestly](https://open.spotify.com/album/3JpW1WY2iNxgVGUNQFw37S) | 3:45 | 2025-02-11 | 2026-01-30 |
 | [Thug Life](https://open.spotify.com/track/3UiuBJG8s4euEM6Lqq3aDl) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Roar](https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa) | 2:30 | 2023-06-22 | 2025-01-09 |
 | [Tohar](https://open.spotify.com/track/1h4kPrSOTcG2LWa904bgHP) | [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU), [Gurjit Gill](https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd), [Avi $ohal](https://open.spotify.com/artist/7dSFA9gmFQMjp9TBjB96oW) | [Cobra](https://open.spotify.com/album/0rZwnHDYxmhQIUJT1jknXw) | 3:18 | 2025-02-11 | 2025-03-15 |
 | [Tolla Nachda \(From "Singham"\)](https://open.spotify.com/track/6CsEoVB5MG9AvgNMkHqFk6) | [Goldy Desi Crew](https://open.spotify.com/artist/1aSGpPSoqK592yVQiYfvXP), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Tolla Nachda \(From "Singham"\)](https://open.spotify.com/album/6rzIduVmQzH73iIR2GeNwl) | 3:02 | 2023-06-22 | 2025-01-09 |

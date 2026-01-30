@@ -937,6 +937,24 @@
     },
     {
       "album": {
+        "name": "The Live Experience",
+        "url": "https://open.spotify.com/album/62uXkHtrX8KDil8lEDSr7m"
+      },
+      "artists": [
+        {
+          "name": "Nontokozo Mkhize",
+          "url": "https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496695,
+      "name": "Hallelujah - Live",
+      "url": "https://open.spotify.com/track/53Vs8PsI3FEGr08i3f23mM"
+    },
+    {
+      "album": {
         "name": "Joyous Celebration, Vol. 19 (Back to the Cross)",
         "url": "https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU"
       },
@@ -2975,6 +2993,24 @@
     },
     {
       "album": {
+        "name": "Re Mmona ka mesebetse",
+        "url": "https://open.spotify.com/album/4zE1l9h3zNENDETkV6bZMr"
+      },
+      "artists": [
+        {
+          "name": "Nthabiseng",
+          "url": "https://open.spotify.com/artist/6pzFpx9Lpr1fZLZlr5mHKi"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390213,
+      "name": "Re Mmona ka mesebetse",
+      "url": "https://open.spotify.com/track/2TgXzNHdcbY93aGYmKROdn"
+    },
+    {
+      "album": {
         "name": "Ri Do Ima (Bishop RC Madzinge Tribute) [Live]",
         "url": "https://open.spotify.com/album/5N5fhUtjZMqwrMA7SJJ2MV"
       },
@@ -3128,6 +3164,32 @@
       "duration_ms": 281678,
       "name": "Sinomlilo",
       "url": "https://open.spotify.com/track/1zvBqJgbDWBjx4nc96LdYz"
+    },
+    {
+      "album": {
+        "name": "Those Who Dream",
+        "url": "https://open.spotify.com/album/5ZFAp15k4bCQWByhijRjIa"
+      },
+      "artists": [
+        {
+          "name": "We Will Worship",
+          "url": "https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i"
+        },
+        {
+          "name": "Vine&Vibes",
+          "url": "https://open.spotify.com/artist/0JWMVtY26AhbhaQQOU0BSi"
+        },
+        {
+          "name": "Jabulile Majola",
+          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175555,
+      "name": "Siza Bawo",
+      "url": "https://open.spotify.com/track/6onm77NipOKjurj1kG9Qyh"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. yanaco on cover.
 
-362 songs - 1 day 2 hr 15 min
+363 songs - 1 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [La brise oubliée](https://open.spotify.com/track/0HJ6XZxSibaTLpqJFo8Pj0) | [attic](https://open.spotify.com/artist/51VqZtvqCcpFPdEPN1X1Ku) | [La brise oubliée](https://open.spotify.com/album/5Iik8YsocayeSiVJRuJLdA) | 2:26 | 2025-07-03 | 2025-08-07 |
 | [La Cathédrale Engloutie](https://open.spotify.com/track/0GiSKGYCdQtGXDSCmSxuVb) | [sora](https://open.spotify.com/artist/60rjr3iSJCziVvOXnOc3W7) | [Re.sort](https://open.spotify.com/album/0gmoU3UdCGhMi1L9WqGQE9) | 4:04 | 2022-01-07 | 2022-12-21 |
 | [Lachrymation](https://open.spotify.com/track/5SCIlWl5oI8QmSgF9j5mjr) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Lachrymation](https://open.spotify.com/album/4av2tDxEG9t4rlssx6XJUT) | 3:59 | 2022-01-07 | 2025-03-20 |
-| [Layer](https://open.spotify.com/track/7CxY2kPVqFLmwePf8YfGZW) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Layer](https://open.spotify.com/album/60lpyOQBN0qHUDHuP2IB9F) | 3:12 | 2025-05-16 |  |
+| [Layer](https://open.spotify.com/track/7CxY2kPVqFLmwePf8YfGZW) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Layer](https://open.spotify.com/album/60lpyOQBN0qHUDHuP2IB9F) | 3:12 | 2025-05-16 | 2026-01-30 |
 | [Leaving](https://open.spotify.com/track/2VsCSKol8i9vHyc9S1kI7y) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Leaving](https://open.spotify.com/album/1DyDhZGMs0ta4AFDPgJGTT) | 3:43 | 2023-10-13 | 2024-03-08 |
 | [les cinquième alternées](https://open.spotify.com/track/0QPPyF3YNaFcsAgr3TXm68) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Hideyuki Mochizuki](https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv) | [northern wind](https://open.spotify.com/album/4VtWQBNxhE2xkgiaznyrgD) | 2:59 | 2025-03-21 |  |
 | [Liberty](https://open.spotify.com/track/2pv4n0WhR3f0IayyG0lc4z) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Envision](https://open.spotify.com/album/2lnwd16ApEAAJ0GNqH7SNq) | 2:39 | 2022-01-07 | 2025-03-30 |
@@ -329,6 +329,7 @@
 | [Variation I](https://open.spotify.com/track/03DhSqOpC0WShbijAAmdYZ) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [eau](https://open.spotify.com/album/7cFPblcCkLc6105lfgAP2o) | 5:54 | 2025-12-12 |  |
 | [Veil](https://open.spotify.com/track/59fyg6qoudEnDdbZFTnifW) | [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj), [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [잔물결 \(janmulgyeol\)](https://open.spotify.com/album/1jIKfpjeGejpLvmkQFId1i) | 3:06 | 2022-10-15 |  |
 | [vein](https://open.spotify.com/track/49G3HACR0IyFpJRAoqGEJo) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [vein](https://open.spotify.com/album/2plekO82mLrp2VYp8MhfZV) | 2:08 | 2025-08-01 |  |
+| [Vein City](https://open.spotify.com/track/7EXGCsLaZ7cpqZUd20OnQh) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Vein City](https://open.spotify.com/album/4bbCNoen5ZyurPFxzvGeei) | 2:23 | 2026-01-23 |  |
 | [Vertigo 1](https://open.spotify.com/track/23PPXZPM0MIkrv9MRxh9MU) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Vertigo](https://open.spotify.com/album/0ODGgBETKrOrUgakvvvTxF) | 2:58 | 2023-03-11 | 2023-08-25 |
 | [vi \(almost equal to\) ix](https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [vi \(almost equal to\) ix](https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf) | 3:44 | 2022-05-06 |  |
 | [Walking in the Sea](https://open.spotify.com/track/0rFhXk6S4OFZ5j8bm2ALAz) | [Tomo\-Nakaguchi](https://open.spotify.com/artist/5x9yhEiHELdwW5zDBA6ueZ) | [Walking in the Sea](https://open.spotify.com/album/36Mp35DUrNArzQKzwamY23) | 4:46 | 2023-03-11 |  |

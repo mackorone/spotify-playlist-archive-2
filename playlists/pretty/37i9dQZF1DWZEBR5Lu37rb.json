@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 119637,
+  "num_followers": 119729,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Love & Light",
-        "url": "https://open.spotify.com/album/5ycopkcsa3kPg1cbw9sDqu"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 158052,
-      "name": "Beginning",
-      "url": "https://open.spotify.com/track/7hKkeswtn0FRLblD4bnrxv"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Seed - EP",
         "url": "https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 196162,
       "name": "Forever",
       "url": "https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Love & Light",
+        "url": "https://open.spotify.com/album/5ycopkcsa3kPg1cbw9sDqu"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 158052,
+      "name": "Beginning",
+      "url": "https://open.spotify.com/track/7hKkeswtn0FRLblD4bnrxv"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Mr Serious",
-        "url": "https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN"
-      },
-      "artists": [
-        {
-          "name": "Musa",
-          "url": "https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96"
-        }
-      ],
-      "duration_ms": 293613,
-      "name": "Mthande",
-      "url": "https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Nakufa",
         "url": "https://open.spotify.com/album/2CWz097A1H3bExt8pHnaiH"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 295285,
       "name": "Nakufa",
       "url": "https://open.spotify.com/track/2RzH7ZbIwhGWLy8H07HAB3"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Mr Serious",
+        "url": "https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN"
+      },
+      "artists": [
+        {
+          "name": "Musa",
+          "url": "https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96"
+        }
+      ],
+      "duration_ms": 293613,
+      "name": "Mthande",
+      "url": "https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Ntumba",
-        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
-      },
-      "artists": [
-        {
-          "name": "Ringo Madlingozi",
-          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
-        }
-      ],
-      "duration_ms": 356706,
-      "name": "Kum Nakum",
-      "url": "https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Selfish",
         "url": "https://open.spotify.com/album/4TxdkXdMxDBgRapJazxSkI"
       },
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Ntumba",
+        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
+      },
+      "artists": [
+        {
+          "name": "Ringo Madlingozi",
+          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
+        }
+      ],
+      "duration_ms": 356706,
+      "name": "Kum Nakum",
+      "url": "https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE"
       },
@@ -1059,6 +1059,38 @@
       "duration_ms": 187285,
       "name": "Angela",
       "url": "https://open.spotify.com/track/7HNCjHpGLQ0GO4Ea6DPdPq"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Touch My Blood",
+        "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        }
+      ],
+      "duration_ms": 304140,
+      "name": "Jika",
+      "url": "https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Break Through",
+        "url": "https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "duration_ms": 246884,
+      "name": "Mansa",
+      "url": "https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1083,38 +1115,6 @@
       "duration_ms": 261459,
       "name": "Wenhliziyo Yami",
       "url": "https://open.spotify.com/track/1tvDDR0ZAowEqKLN15g7tH"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Break Through",
-        "url": "https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL"
-      },
-      "artists": [
-        {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
-        }
-      ],
-      "duration_ms": 246884,
-      "name": "Mansa",
-      "url": "https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Touch My Blood",
-        "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
-      },
-      "artists": [
-        {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        }
-      ],
-      "duration_ms": 304140,
-      "name": "Jika",
-      "url": "https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "WATERSHED",
+        "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 195652,
+      "name": "Angel Of Mine",
+      "url": "https://open.spotify.com/track/5uzVZ29dSPYmbgcRol3Gly"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Sawa Sawa",
         "url": "https://open.spotify.com/album/6YGk7QcA9LkknK66j3JGsw"
       },
@@ -1675,18 +1691,18 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "WATERSHED",
-        "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
+        "name": "Songs in The Key of Love",
+        "url": "https://open.spotify.com/album/2U2yQrvQtQFSCabDSxl8mK"
       },
       "artists": [
         {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+          "name": "Berita",
+          "url": "https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ"
         }
       ],
-      "duration_ms": 195652,
-      "name": "Angel Of Mine",
-      "url": "https://open.spotify.com/track/5uzVZ29dSPYmbgcRol3Gly"
+      "duration_ms": 222000,
+      "name": "Ndicel'ikiss",
+      "url": "https://open.spotify.com/track/6xLM23LrQKss6kiLNUK9vE"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1707,22 +1723,6 @@
       "duration_ms": 386873,
       "name": "Sobabili",
       "url": "https://open.spotify.com/track/2dyYRTVdDFjnSQ6elduMG1"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Songs in The Key of Love",
-        "url": "https://open.spotify.com/album/2U2yQrvQtQFSCabDSxl8mK"
-      },
-      "artists": [
-        {
-          "name": "Berita",
-          "url": "https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Ndicel'ikiss",
-      "url": "https://open.spotify.com/track/6xLM23LrQKss6kiLNUK9vE"
     },
     {
       "added_at": "2025-07-11 08:09:25",

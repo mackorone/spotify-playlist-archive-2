@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: The Scratch",
+  "description": "The UK's biggest rock playlist. Cover: CQ Wrestling",
   "name": "The Rock List",
   "tracks": [
     {
@@ -1962,7 +1962,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 170370,
       "name": "baeside k",
       "url": "https://open.spotify.com/track/4a3kSpXYRn96Vv8JAEswG1"
@@ -2190,7 +2190,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 218635,
       "name": "Bedroom Posters (feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/1L2Z2Xpta5CZ59kIazq9Xp"
@@ -3314,7 +3314,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 220837,
       "name": "Bruised Sky",
       "url": "https://open.spotify.com/track/3Xf7Njd3lTqZbNkeLPGoFH"
@@ -4761,6 +4761,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Dogpark",
+          "url": "https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194765,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/1JjL9mpChpaO3fZRFI402Z"
+    },
+    {
+      "album": {
         "name": "Dang",
         "url": "https://open.spotify.com/album/2pahZPfd9RrI1zO8fY6qqv"
       },
@@ -4844,7 +4862,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 259859,
       "name": "Darkness, be my friend",
       "url": "https://open.spotify.com/track/7DJjr6ix7iKXyevtSCfYCD"
@@ -5323,6 +5341,24 @@
     },
     {
       "album": {
+        "name": "do it to myself",
+        "url": "https://open.spotify.com/album/7rvGnG8H4j5yT3cUph6REB"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196105,
+      "name": "do it to myself",
+      "url": "https://open.spotify.com/track/1i58DuUI4xULMspCDEG7f7"
+    },
+    {
+      "album": {
         "name": "Do Or Die",
         "url": "https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9"
       },
@@ -5666,10 +5702,28 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 221875,
       "name": "Easy Peeler",
       "url": "https://open.spotify.com/track/1HTpc61ViNtrmEsjzRYbOt"
+    },
+    {
+      "album": {
+        "name": "Eat My Dust!",
+        "url": "https://open.spotify.com/album/4E8nAMLXCyRiaVP3sPgmUf"
+      },
+      "artists": [
+        {
+          "name": "Dead Pony",
+          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179387,
+      "name": "Eat My Dust!",
+      "url": "https://open.spotify.com/track/3622QSjVmSaFdXKeYsCYBl"
     },
     {
       "album": {
@@ -5944,7 +5998,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 195993,
       "name": "Even If I Never Get There",
       "url": "https://open.spotify.com/track/0xbhvgbN92iUOddEfdGR4L"
@@ -7827,6 +7881,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Whitelands",
+          "url": "https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187306,
+      "name": "Golden Daze",
+      "url": "https://open.spotify.com/track/2VU9L06tLFb39gip8TuEbV"
+    },
+    {
+      "album": {
         "name": "Goldmine",
         "url": "https://open.spotify.com/album/2pl1uOqfOXcw4tWAYq3klH"
       },
@@ -8084,7 +8156,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 220215,
       "name": "Guns In Their Hands",
       "url": "https://open.spotify.com/track/5YCUPkEbbuZjW8BlXc6lj4"
@@ -9599,6 +9671,24 @@
     },
     {
       "album": {
+        "name": "I Used To Go To This Bar",
+        "url": "https://open.spotify.com/album/5lPJlOBMTQExZmAan61C6A"
+      },
+      "artists": [
+        {
+          "name": "Joyce Manor",
+          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132597,
+      "name": "I Used To Go To This Bar",
+      "url": "https://open.spotify.com/track/1Uwq1uMR3GEY3KTLzZrRN2"
+    },
+    {
+      "album": {
         "name": "I Want It All",
         "url": "https://open.spotify.com/album/5ePyRQrVvJWE3YJ8t9FQcw"
       },
@@ -10158,7 +10248,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 238631,
       "name": "It Comes Creeping",
       "url": "https://open.spotify.com/track/4JGkHDbL8ojXnhXufybIPk"
@@ -13829,6 +13919,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170238,
+      "name": "Not Sorry",
+      "url": "https://open.spotify.com/track/1ZtYPLZOSvoE3y3yxdHWLb"
+    },
+    {
+      "album": {
         "name": "The Kids In The Crowd - Music From The Documentary Soundtrack",
         "url": "https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO"
       },
@@ -14009,6 +14117,24 @@
     },
     {
       "album": {
+        "name": "Nurse Depression",
+        "url": "https://open.spotify.com/album/6kYfN2e5eh0SHLB6mRAaF5"
+      },
+      "artists": [
+        {
+          "name": "Coach Party",
+          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125562,
+      "name": "Nurse Depression",
+      "url": "https://open.spotify.com/track/5xnFYRez4P0r3xvnnleejq"
+    },
+    {
+      "album": {
         "name": "shed",
         "url": "https://open.spotify.com/album/3FUzGhGjR8rcmJIWmc67AQ"
       },
@@ -14038,7 +14164,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 160880,
       "name": "Obligations",
       "url": "https://open.spotify.com/track/0JP7lokt6eLt0KpEJtxApe"
@@ -15137,6 +15263,24 @@
     },
     {
       "album": {
+        "name": "Picture Of Health",
+        "url": "https://open.spotify.com/album/0Kd7SIoX1ugnUaq1uDr03h"
+      },
+      "artists": [
+        {
+          "name": "My First Time",
+          "url": "https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221288,
+      "name": "Picture Of Health",
+      "url": "https://open.spotify.com/track/07OabSk5EM7GSgEeD39QTO"
+    },
+    {
+      "album": {
         "name": "BIRDBRAIN / PIG",
         "url": "https://open.spotify.com/album/7hWvLBn1TarX302yU3QmUq"
       },
@@ -15498,6 +15642,24 @@
       "duration_ms": 169065,
       "name": "poser",
       "url": "https://open.spotify.com/track/4gBuBzYl2X0j38iKbo02Rl"
+    },
+    {
+      "album": {
+        "name": "Power Games",
+        "url": "https://open.spotify.com/album/4UNPBCi2ZXTcjSWpKKe1QK"
+      },
+      "artists": [
+        {
+          "name": "Demob Happy",
+          "url": "https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211407,
+      "name": "Power Games",
+      "url": "https://open.spotify.com/track/1HtbLJkQ8PzTaoCjtRDiCs"
     },
     {
       "album": {
@@ -15981,6 +16143,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Trash Boat",
+          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163315,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/0TkAD1a7uXJkt7HqDbp6YT"
+    },
+    {
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/5wBGd8H3iD1gNQGmpfNLUp"
       },
@@ -16360,7 +16540,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 139781,
       "name": "Roll Out The Red Carpet",
       "url": "https://open.spotify.com/track/62hjnthb0Lctzd5af4c96I"
@@ -17542,7 +17722,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 283040,
       "name": "SLUGLIFE",
       "url": "https://open.spotify.com/track/1NHC32sx6ZrSgoEid0U496"
@@ -17618,6 +17798,24 @@
       "duration_ms": 196800,
       "name": "Smile",
       "url": "https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5"
+    },
+    {
+      "album": {
+        "name": "Smoke Screen",
+        "url": "https://open.spotify.com/album/4xd4aT1oZmwvRcIMLHcYOE"
+      },
+      "artists": [
+        {
+          "name": "CQ Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260978,
+      "name": "Smoke Screen",
+      "url": "https://open.spotify.com/track/6VBMKUDAS86YIsQXlVo8Ej"
     },
     {
       "album": {
@@ -18072,6 +18270,24 @@
       "duration_ms": 150035,
       "name": "Sports Day",
       "url": "https://open.spotify.com/track/6hKwzsBblYMfifCLTp5Gn4"
+    },
+    {
+      "album": {
+        "name": "Squish",
+        "url": "https://open.spotify.com/album/6qMjvExxrJl2gydwmMbn3R"
+      },
+      "artists": [
+        {
+          "name": "Gretel",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180605,
+      "name": "Squish",
+      "url": "https://open.spotify.com/track/5NcbdZX6WExR3xNDftUp5m"
     },
     {
       "album": {
@@ -19846,7 +20062,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 322068,
       "name": "The Wake",
       "url": "https://open.spotify.com/track/5kvwMfGM31DnbBFMfGfTfr"
@@ -20106,6 +20322,24 @@
       "duration_ms": 220096,
       "name": "Through The Landslide",
       "url": "https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q"
+    },
+    {
+      "album": {
+        "name": "THUM",
+        "url": "https://open.spotify.com/album/0fz4N5DS1SJ6jbNABL9UMr"
+      },
+      "artists": [
+        {
+          "name": "Violet Grohl",
+          "url": "https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131644,
+      "name": "THUM",
+      "url": "https://open.spotify.com/track/3yuaDt5vOxrQD06LrAQPj9"
     },
     {
       "album": {
@@ -20588,7 +20822,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 274000,
       "name": "True Believer",
       "url": "https://open.spotify.com/track/6RRYgdkCmVTYHGmId3LpqW"
@@ -21674,10 +21908,28 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 126487,
       "name": "Well, Whatever It Was",
       "url": "https://open.spotify.com/track/6vnNJbgUbg8h0qkZO2FC4L"
+    },
+    {
+      "album": {
+        "name": "What Else",
+        "url": "https://open.spotify.com/album/3eSmpAGPDHrYhaTYCHxeZ7"
+      },
+      "artists": [
+        {
+          "name": "Bloody Knees",
+          "url": "https://open.spotify.com/artist/6pJ12qda5aKt5NJax5ZJtC"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219053,
+      "name": "What Else",
+      "url": "https://open.spotify.com/track/5GwbNuzaOBEHdoxchhAd4o"
     },
     {
       "album": {

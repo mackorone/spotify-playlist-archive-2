@@ -2815,6 +2815,24 @@
     },
     {
       "album": {
+        "name": "Frankenstein",
+        "url": "https://open.spotify.com/album/3rsIYa1pLa4deIjMWmrgFW"
+      },
+      "artists": [
+        {
+          "name": "Mileo",
+          "url": "https://open.spotify.com/artist/3vXCUcFuOPgSbDJiwUlf8D"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168667,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/0l8vP9dyXEiJ0onCWK7q5Z"
+    },
+    {
+      "album": {
         "name": "Fredagsbarn",
         "url": "https://open.spotify.com/album/7onxwLHD9g5dug7NNp4lPr"
       },
@@ -7762,6 +7780,24 @@
       "duration_ms": 120000,
       "name": "Smutsiga Tankar",
       "url": "https://open.spotify.com/track/3FGjcrMU2Ocrn99AJJ9Kil"
+    },
+    {
+      "album": {
+        "name": "Snap Back",
+        "url": "https://open.spotify.com/album/3Rd8qClO5dNnQDSGKnUVgT"
+      },
+      "artists": [
+        {
+          "name": "Hedda Mae",
+          "url": "https://open.spotify.com/artist/7zd05tehJ8h4VEpwxdo4g4"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172372,
+      "name": "Snap Back",
+      "url": "https://open.spotify.com/track/3Hlsmqjvd4rUTIv9BBEJOM"
     },
     {
       "album": {

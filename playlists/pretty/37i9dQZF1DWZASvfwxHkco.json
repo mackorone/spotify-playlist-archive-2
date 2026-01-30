@@ -1,6 +1,6 @@
 {
   "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ed\u30cb\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: Morton, David Guetta, Trippie Redd",
-  "num_followers": 68959,
+  "num_followers": 68955,
   "original_name": "mint Japan",
   "owner": {
     "name": "Spotify",
@@ -559,30 +559,6 @@
     {
       "added_at": "2026-01-22 23:00:49",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Hypaton",
-          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
-        },
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM"
-    },
-    {
-      "added_at": "2026-01-22 23:00:49",
-      "album": {
         "name": "There She Goes",
         "url": "https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2"
       },
@@ -603,6 +579,30 @@
       "duration_ms": 121874,
       "name": "There She Goes",
       "url": "https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7"
+    },
+    {
+      "added_at": "2026-01-22 23:00:49",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        },
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM"
     },
     {
       "added_at": "2026-01-22 23:00:49",
@@ -671,30 +671,6 @@
     {
       "added_at": "2026-01-22 23:00:49",
       "album": {
-        "name": "HIGHJACK (right back)",
-        "url": "https://open.spotify.com/album/6CkVgejgX1Oypxu8rGI1VQ"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 161982,
-      "name": "HIGHJACK (right back)",
-      "url": "https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ"
-    },
-    {
-      "added_at": "2026-01-22 23:00:49",
-      "album": {
         "name": "All the Things She Said",
         "url": "https://open.spotify.com/album/6GxNLOlFGgl6J3cvLGN81l"
       },
@@ -715,6 +691,30 @@
       "duration_ms": 165299,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/6FxRH7N7Q86i6aixaSYYzx"
+    },
+    {
+      "added_at": "2026-01-22 23:00:49",
+      "album": {
+        "name": "HIGHJACK (right back)",
+        "url": "https://open.spotify.com/album/6CkVgejgX1Oypxu8rGI1VQ"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 161982,
+      "name": "HIGHJACK (right back)",
+      "url": "https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ"
     },
     {
       "added_at": "2026-01-22 23:00:49",
@@ -915,22 +915,22 @@
     {
       "added_at": "2026-01-22 23:00:49",
       "album": {
-        "name": "Told You So",
-        "url": "https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H"
+        "name": "Focus (feat. CLOVES)",
+        "url": "https://open.spotify.com/album/4hwsD3b6V8962BDX5nCiFF"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "Jex",
-          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+          "name": "CLOVES",
+          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
         }
       ],
-      "duration_ms": 187031,
-      "name": "Told You So",
-      "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
+      "duration_ms": 238242,
+      "name": "Focus (feat. CLOVES)",
+      "url": "https://open.spotify.com/track/0xaXwvcjq7aAKwMKe22Bw7"
     },
     {
       "added_at": "2026-01-22 23:00:49",
@@ -959,22 +959,22 @@
     {
       "added_at": "2026-01-22 23:00:49",
       "album": {
-        "name": "Focus (feat. CLOVES)",
-        "url": "https://open.spotify.com/album/4hwsD3b6V8962BDX5nCiFF"
+        "name": "Told You So",
+        "url": "https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "CLOVES",
-          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+          "name": "Jex",
+          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
         }
       ],
-      "duration_ms": 238242,
-      "name": "Focus (feat. CLOVES)",
-      "url": "https://open.spotify.com/track/0xaXwvcjq7aAKwMKe22Bw7"
+      "duration_ms": 187031,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
     },
     {
       "added_at": "2026-01-22 23:00:49",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2026-01-22 23:00:49",
       "album": {
+        "name": "Free (You Got To Live)",
+        "url": "https://open.spotify.com/album/0V07kae1K63UGyBDfiTDDU"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        }
+      ],
+      "duration_ms": 173658,
+      "name": "Free (You Got To Live)",
+      "url": "https://open.spotify.com/track/7igzyhUbcM75ETumhe4nzO"
+    },
+    {
+      "added_at": "2026-01-22 23:00:49",
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/4xQKZ1vTOvkaPJWaA0AFEg"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 125625,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4a1UArX9uL4trMks4wu8LZ"
-    },
-    {
-      "added_at": "2026-01-22 23:00:49",
-      "album": {
-        "name": "Free (You Got To Live)",
-        "url": "https://open.spotify.com/album/0V07kae1K63UGyBDfiTDDU"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Ultra Nat\u00e9",
-          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
-        }
-      ],
-      "duration_ms": 173658,
-      "name": "Free (You Got To Live)",
-      "url": "https://open.spotify.com/track/7igzyhUbcM75ETumhe4nzO"
     },
     {
       "added_at": "2026-01-22 23:00:49",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-01-22 23:00:49",
       "album": {
+        "name": "girl$",
+        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 209552,
+      "name": "girl$",
+      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
+    },
+    {
+      "added_at": "2026-01-22 23:00:49",
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 197549,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8"
-    },
-    {
-      "added_at": "2026-01-22 23:00:49",
-      "album": {
-        "name": "girl$",
-        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 209552,
-      "name": "girl$",
-      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
     },
     {
       "added_at": "2026-01-22 23:00:49",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-01-22 23:00:49",
       "album": {
-        "name": "The Way I Are",
-        "url": "https://open.spotify.com/album/5zWSMWktWUZq2crOfyWuxW"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 186667,
-      "name": "The Way I Are",
-      "url": "https://open.spotify.com/track/5osKlPBtBF4rC9o7PyCWm1"
-    },
-    {
-      "added_at": "2026-01-22 23:00:49",
-      "album": {
         "name": "Now Or Never",
         "url": "https://open.spotify.com/album/4ObwiIpULEzwOPrtLSd7xA"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 148500,
       "name": "Now Or Never",
       "url": "https://open.spotify.com/track/5hG7MlKPCqUgtdwROUbBRS"
+    },
+    {
+      "added_at": "2026-01-22 23:00:49",
+      "album": {
+        "name": "The Way I Are",
+        "url": "https://open.spotify.com/album/5zWSMWktWUZq2crOfyWuxW"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 186667,
+      "name": "The Way I Are",
+      "url": "https://open.spotify.com/track/5osKlPBtBF4rC9o7PyCWm1"
     },
     {
       "added_at": "2026-01-22 23:00:49",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2026-01-22 23:00:49",
       "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/0T84ITkYkKp7x3vxWpvSCf"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "duration_ms": 196923,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII"
+    },
+    {
+      "added_at": "2026-01-22 23:00:49",
+      "album": {
         "name": "2 Times",
         "url": "https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy"
       },
@@ -1423,26 +1443,6 @@
     {
       "added_at": "2026-01-22 23:00:49",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/0T84ITkYkKp7x3vxWpvSCf"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        }
-      ],
-      "duration_ms": 196923,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII"
-    },
-    {
-      "added_at": "2026-01-22 23:00:49",
-      "album": {
         "name": "boom",
         "url": "https://open.spotify.com/album/2F9Hj91XXDt5FRvJyyLG6X"
       },
@@ -1455,30 +1455,6 @@
       "duration_ms": 163000,
       "name": "boom",
       "url": "https://open.spotify.com/track/6zhyXTuRkMSabSHvmMchpp"
-    },
-    {
-      "added_at": "2026-01-22 23:00:49",
-      "album": {
-        "name": "d00mscrvll",
-        "url": "https://open.spotify.com/album/7oopgknSuc08RQ5jR0aBjy"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "d00mscrvll",
-          "url": "https://open.spotify.com/artist/4I1gdwRJ3qocViLIUI0L6b"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 160806,
-      "name": "Loitering (ft. Kodak Black)",
-      "url": "https://open.spotify.com/track/1jMhBGKs5FSWcFSqXOlyW9"
     },
     {
       "added_at": "2026-01-22 23:00:49",
@@ -1503,6 +1479,30 @@
       "duration_ms": 175803,
       "name": "For Life (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
+    },
+    {
+      "added_at": "2026-01-22 23:00:49",
+      "album": {
+        "name": "d00mscrvll",
+        "url": "https://open.spotify.com/album/7oopgknSuc08RQ5jR0aBjy"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "d00mscrvll",
+          "url": "https://open.spotify.com/artist/4I1gdwRJ3qocViLIUI0L6b"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 160806,
+      "name": "Loitering (ft. Kodak Black)",
+      "url": "https://open.spotify.com/track/1jMhBGKs5FSWcFSqXOlyW9"
     },
     {
       "added_at": "2026-01-22 23:00:49",
@@ -1671,6 +1671,26 @@
     {
       "added_at": "2026-01-22 23:00:49",
       "album": {
+        "name": "Dreamin (feat. Daya)",
+        "url": "https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 171526,
+      "name": "Dreamin (feat. Daya)",
+      "url": "https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO"
+    },
+    {
+      "added_at": "2026-01-22 23:00:49",
+      "album": {
         "name": "Ain't Letting You Down",
         "url": "https://open.spotify.com/album/6Gihz6RXvLYLFxHPMJC7nf"
       },
@@ -1711,26 +1731,6 @@
       "duration_ms": 217529,
       "name": "HEAT",
       "url": "https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD"
-    },
-    {
-      "added_at": "2026-01-22 23:00:49",
-      "album": {
-        "name": "Dreamin (feat. Daya)",
-        "url": "https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 171526,
-      "name": "Dreamin (feat. Daya)",
-      "url": "https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO"
     }
   ],
   "unique_name": "mint Japan",

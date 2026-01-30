@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-142 songs - 7 hr 17 min
+145 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A.B.C.](https://open.spotify.com/track/7uhjKlTO93EQa3JRLD46Kx) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 2:23 | 2025-11-07 |  |
 | [Abajo y Arriba \(with Juhn\)](https://open.spotify.com/track/5S6t8dvq3kL4V4FmuMQi32) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Abajo y Arriba \(with Juhn\)](https://open.spotify.com/album/6qTXCgKXlmxCP4a2ed1R71) | 2:48 | 2025-11-07 |  |
 | [Ahí Ahí](https://open.spotify.com/track/6v5jSEetH68Ash0GNLuO87) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Santo Niño](https://open.spotify.com/album/1m3Ynzb5HhBBuTlVJhFcvd) | 2:46 | 2025-11-07 |  |
+| [Amantes](https://open.spotify.com/track/7ijXNy4CSDMFqSecPANn5p) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [GOTTI B](https://open.spotify.com/album/4ACfWcYe7nU8HbeJth17ms) | 2:04 | 2026-01-29 |  |
 | [AMG \- Remix](https://open.spotify.com/track/2pWsP2b8BvGNTLKQ53IzTL) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU), [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [Debians](https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd) | [LUV ALLERGIC RELOADED](https://open.spotify.com/album/6a9zlY2WK2J97xaLxSjrhc) | 4:15 | 2025-11-20 |  |
 | [Amiga Mía](https://open.spotify.com/track/1tTEcJKC5uAtIoPrWCkmXZ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:44 | 2025-11-07 |  |
 | [ANTES](https://open.spotify.com/track/18z0oXWIOBLT3qruaegt5o) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD) | [2.1](https://open.spotify.com/album/3fbssJkOhkgAPAdpgjcJay) | 3:14 | 2025-11-07 |  |
@@ -39,6 +40,7 @@
 | [Cobarde](https://open.spotify.com/track/2M0gTGXZpUvcUkpNQrsasN) | [BK](https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Cobarde](https://open.spotify.com/album/7upcwrxaThJw1pUf3HluBN) | 2:47 | 2025-11-07 |  |
 | [COBARDE CORAZÓN](https://open.spotify.com/track/6tQsj8bKHZBeYjhMCFRs6e) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [2.1](https://open.spotify.com/album/3fbssJkOhkgAPAdpgjcJay) | 3:11 | 2025-11-07 |  |
 | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/track/7nRgLd2Zq4w42iVTfXjIC2) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [LLAMADA PERDIDA](https://open.spotify.com/album/14ZGI8bUlOfVKT8SBLFjjT) | 2:41 | 2025-11-07 |  |
+| [Crisis](https://open.spotify.com/track/6qIqgXXofRhJkvRytIS1HR) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Nada Personal](https://open.spotify.com/album/4WgRPX4DY0lwubpMYKuTzN) | 3:21 | 2026-01-29 |  |
 | [Cuando Me Muera Te Olvido](https://open.spotify.com/track/0x0Egm8IgaRNCfNKqkJrPt) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:34 | 2025-11-07 |  |
 | [CÓDIGOS](https://open.spotify.com/track/273PsBfvMreiD2TXyKOR06) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [INSOMNIO](https://open.spotify.com/album/0leCm7DasgqP70lhOVeXyU) | 2:58 | 2025-11-07 |  |
 | [Dandote](https://open.spotify.com/track/3h0mwHmFyAS1oYLF9sUzrL) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 2:43 | 2025-11-07 |  |
@@ -120,6 +122,7 @@
 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 | 2025-11-07 |  |
 | [Que Fuerte](https://open.spotify.com/track/6mwp7nS0bI6luNYxajHeWA) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Poeta Herío](https://open.spotify.com/album/3e214gx6bbQgVykslGuK5F) | 3:04 | 2025-11-07 |  |
 | [QUE ME HICISTE](https://open.spotify.com/track/64y7606OQWxKysceRlkNxI) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [INSOMNIO](https://open.spotify.com/album/0leCm7DasgqP70lhOVeXyU) | 2:46 | 2025-11-07 |  |
+| [Qué injusto](https://open.spotify.com/track/3ayVKsrwK44VEdD7BdnDD7) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [¿Y ahora qué +?](https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb) | 3:16 | 2026-01-29 |  |
 | [Relaciones](https://open.spotify.com/track/2TL9UACmry1qTiurBc2PjV) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Relaciones](https://open.spotify.com/album/1zzTbQ8f5t1WO3NnTgAwzu) | 3:26 | 2025-11-07 |  |
 | [Rosita](https://open.spotify.com/track/53ktaKMeNnzi57L9c4WxlU) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 2:40 | 2025-11-07 |  |
 | [Se De y Se Da](https://open.spotify.com/track/25NbsKV6Dgx29NF4j0pvLk) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 3:11 | 2025-11-07 |  |

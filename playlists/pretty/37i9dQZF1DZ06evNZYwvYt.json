@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 19653,
+  "num_followers": 19660,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXgAAAAAAACXoAIWu8JdVsYAq84IFTV+",
+  "snapshot_id": "aXlRgAAAAAB9gW4P5CAbtJ5hsbQf+gD8",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/1V8faK2E5dlifTERzgN9xF"
+        "name": "Besos de Mentira",
+        "url": "https://open.spotify.com/album/5ljNvqbdWphhOe9BnRO9Yx"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 251454,
-      "name": "Resc\u00e1tame",
-      "url": "https://open.spotify.com/track/213D70aof1PgFPFUvz3lUz"
+      "duration_ms": 258415,
+      "name": "Besos de Mentira",
+      "url": "https://open.spotify.com/track/3nBTkjrzVEgalBfEuptN3e"
     },
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Besos de Mentira",
-        "url": "https://open.spotify.com/album/5ljNvqbdWphhOe9BnRO9Yx"
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/1V8faK2E5dlifTERzgN9xF"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 258415,
-      "name": "Besos de Mentira",
-      "url": "https://open.spotify.com/track/3nBTkjrzVEgalBfEuptN3e"
+      "duration_ms": 251454,
+      "name": "Resc\u00e1tame",
+      "url": "https://open.spotify.com/track/213D70aof1PgFPFUvz3lUz"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 233520,
-      "name": "Adios",
-      "url": "https://open.spotify.com/track/6Zd7gXBKgMXPXW2ds3Krah"
+      "duration_ms": 262720,
+      "name": "Partido en Dos",
+      "url": "https://open.spotify.com/track/6ENcwJdYx9fA3NG3MrYZrH"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 262720,
-      "name": "Partido en Dos",
-      "url": "https://open.spotify.com/track/6ENcwJdYx9fA3NG3MrYZrH"
+      "duration_ms": 233520,
+      "name": "Adios",
+      "url": "https://open.spotify.com/track/6Zd7gXBKgMXPXW2ds3Krah"
     },
     {
       "added_at": null,

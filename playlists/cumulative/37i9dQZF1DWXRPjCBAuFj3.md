@@ -2,9 +2,9 @@
 
 ### [Tendenze Rap 2026](https://open.spotify.com/playlist/37i9dQZF1DWXRPjCBAuFj3)
 
-> Brani virali e trend, rap e urban 📈  LILCR e Artie in cover
+> Brani virali e trend, rap e urban 📈  Boro e Young Hash in cover
 
-969 songs - 2 day 2 hr 10 min
+970 songs - 2 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Big Budz No Dust \(feat\. Krept & Konan\)](https://open.spotify.com/track/3Axaiyq4iyZYzqpL5weQD3) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Big Budz No Dust \(feat\. Krept & Konan\)](https://open.spotify.com/album/1FhZRKWdsHgcVDESftN5sX) | 3:50 | 2023-08-18 | 2024-02-17 |
 | [BIG CEO](https://open.spotify.com/track/6h2XLZqXWJGn1a0e7VUR4x) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [PROGETTO X DELUXE](https://open.spotify.com/album/3zbpX7pil18FtBaPKsCne1) | 2:46 | 2025-12-22 |  |
 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-08-06 | 2025-07-04 |
+| [Big Guy \- from "The SpongeBob Movie: Search for SquarePants”](https://open.spotify.com/track/3HiCAjMaPfM4vnbhLhADBp) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Big Guy \(from "The SpongeBob Movie: Search for SquarePants”\)](https://open.spotify.com/album/7aQIxnvryoIKLMZ8wsydpz) | 2:30 | 2026-01-29 |  |
 | [Big Mama](https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky) | 2:54 | 2024-06-28 | 2024-09-10 |
 | [Big Poe \(feat\. Sk8brd\)](https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:02 | 2025-07-24 | 2025-07-30 |
 | [BIG TIME \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/6pr7X9UZCDn8CruopaNVha) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 2:53 | 2022-08-26 | 2022-11-19 |

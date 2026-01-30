@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,866 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,962 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 94 | [Marrakesh](https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot) | [Marrakesh](https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y) | 2:22 |
 | 95 | [Piquete Cabron](https://open.spotify.com/track/1mmgm9xT14LpjzLPtujjMJ) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Pensión](https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM), [Bray](https://open.spotify.com/artist/2D3KD8asLccXu0Fp3TQuHn) | [Piquete Cabron](https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq) | 2:42 |
 | 96 | [Fuego](https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Fuego](https://open.spotify.com/album/5bAJzXqwhA4JdBjqAqg4nq) | 1:56 |
-| 97 | [Coco Loco](https://open.spotify.com/track/32lsePQmdOSRrbeUlcqQm0) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Tekkman](https://open.spotify.com/artist/4amut0vklLIj9lY81yEHtj), [Juany Bravo](https://open.spotify.com/artist/7FWTTxJZ35ZNqhFCLOE3zm) | [Coco Loco](https://open.spotify.com/album/7eBEzXHye7PEHwVQcpYRis) | 2:36 |
-| 98 | [Playa Y Arena](https://open.spotify.com/track/5TUiAVSMflM4URvewjSNjF) | [CAVALLI](https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4), [Daveartt](https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87), [Mark Di Meo](https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE) | [Playa Y Arena](https://open.spotify.com/album/7a36GV9hrpji6sHCjTn4Ez) | 2:59 |
+| 97 | [Playa Y Arena](https://open.spotify.com/track/5TUiAVSMflM4URvewjSNjF) | [CAVALLI](https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4), [Daveartt](https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87), [Mark Di Meo](https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE) | [Playa Y Arena](https://open.spotify.com/album/7a36GV9hrpji6sHCjTn4Ez) | 2:59 |
+| 98 | [Coco Loco](https://open.spotify.com/track/32lsePQmdOSRrbeUlcqQm0) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Tekkman](https://open.spotify.com/artist/4amut0vklLIj9lY81yEHtj), [Juany Bravo](https://open.spotify.com/artist/7FWTTxJZ35ZNqhFCLOE3zm) | [Coco Loco](https://open.spotify.com/album/7eBEzXHye7PEHwVQcpYRis) | 2:36 |
 | 99 | [Bailame](https://open.spotify.com/track/6slC1nzaQTGQQWl99SBigP) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Bailame](https://open.spotify.com/album/0j7how96tAQrVMQjqiHqyw) | 3:05 |
-| 100 | [El Baile](https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy), [Fonsa](https://open.spotify.com/artist/74HgHiHyAfNJkfJlIk6uAU) | [El Baile](https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM) | 2:54 |
+| 100 | [Coketea \(feat\. Dean Walker\)](https://open.spotify.com/track/28L7bvWJkW1aXwAkjg5GaF) | [Kastelo](https://open.spotify.com/artist/2KmU3cHtzAMUFFEQPHF8ON), [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ), [Sael Quinn](https://open.spotify.com/artist/1u4OxkwNI4kCwcjTeFE0bj), [Dean Walker](https://open.spotify.com/artist/2yu2cq17ts76sjEjRMKqkN) | [Coketea \(feat\. Dean Walker\)](https://open.spotify.com/album/6vw66EvhvToEv490yZTtnT) | 3:12 |
 
 Snapshot ID: `AAAAAAQXTEZDBrEKEHRUsx2EiR4JBEvm`

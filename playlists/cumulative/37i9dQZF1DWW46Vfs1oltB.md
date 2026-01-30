@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Jay Park\)
 
-1,758 songs - 3 day 22 hr 2 min
+1,759 songs - 3 day 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1734,6 +1734,7 @@
 | [ZOOTED \(Feat\. HAON\)](https://open.spotify.com/track/2PFKiEI0nstr1Jm05Ynjez) | [Wuuslime](https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [WUUSLIME](https://open.spotify.com/album/5F5uZoZ8wKFBiKFcWepkNd) | 2:33 | 2025-05-12 | 2025-09-09 |
 | [ZUMO \(feat\. Jay Park\)](https://open.spotify.com/track/5MpKhDvROouEcppiAbBKBT) | [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5), [Hangzoo](https://open.spotify.com/artist/0m5ETFICJLAg6ageqa9FgZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [ZUMO](https://open.spotify.com/album/3WFDNoQy1JNX2ywiAIYsse) | 3:10 | 2022-09-01 | 2022-12-10 |
 | [Ü](https://open.spotify.com/track/1lZv5rGGJ2VEPXhWs9GndB) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [The Star](https://open.spotify.com/album/0T9hFotUzoCdwNs0lF69QK) | 2:56 | 2024-05-17 | 2024-09-01 |
+| [アニョハセヨ](https://open.spotify.com/track/79o6CP5pgfHARPPXRHOcBN) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy) | [アニョハセヨ](https://open.spotify.com/album/2Vxwq1HTQ54jYHyinyIgWl) | 1:56 | 2026-01-29 |  |
 | [거리에서](https://open.spotify.com/track/1pBb1QXg4ufhi04Kyr1d18) | [NERDY GANG](https://open.spotify.com/artist/50ZXQMyrsx3T8QbhJvPtQh) | [Korea ballad album](https://open.spotify.com/album/0IXcG8rSnqIIGuEvtkefce) | 2:12 | 2024-08-10 | 2024-10-24 |
 | [거울 Mirror \(feat\. SINCE, CHOILB\)](https://open.spotify.com/track/346s2Zke1wZJFkqgHVQVpR) | [Alive Funk](https://open.spotify.com/artist/0DyFGnh0tpbFK19DM7wvlI), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [거울 Mirror \(feat\. SINCE, CHOILB\)](https://open.spotify.com/album/6M9nFA5twcUXG490qqhy4b) | 3:09 | 2023-03-27 | 2023-04-19 |
 | [난 널 원해](https://open.spotify.com/track/5LuiS6pmJ9VoIFPnxPNYxK) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:53 | 2023-12-15 | 2026-01-28 |

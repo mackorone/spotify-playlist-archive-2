@@ -1808,7 +1808,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 331648,
       "name": "ame",
       "url": "https://open.spotify.com/track/6Nzyd4S83rqnMoGz0l37Ob"
@@ -4536,7 +4536,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 259250,
       "name": "Caminho de Kuroshio",
       "url": "https://open.spotify.com/track/7aD4YLaqXDrHXSnuCW6rRp"
@@ -13762,7 +13762,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 214432,
       "name": "I'll be with you",
       "url": "https://open.spotify.com/track/5Jsu8UeDpF356Dgn0z5ghY"
@@ -15896,7 +15896,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 226543,
       "name": "Kingyo-bachi",
       "url": "https://open.spotify.com/track/0CKkbxXEC1CUyIdUEfIlFU"
@@ -16582,7 +16582,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 282000,
       "name": "Le matin",
       "url": "https://open.spotify.com/track/5DquUPumZSaUc0d7xOutT2"
@@ -39013,6 +39013,24 @@
     },
     {
       "album": {
+        "name": "\u306e\u3073\u3057\u308d",
+        "url": "https://open.spotify.com/album/48AtXqpHhoWVCOBm70H98C"
+      },
+      "artists": [
+        {
+          "name": "MONO NO AWARE",
+          "url": "https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243607,
+      "name": "\u306e\u3073\u3057\u308d",
+      "url": "https://open.spotify.com/track/3K3DKM9L29UkITFBW3AdrJ"
+    },
+    {
+      "album": {
         "name": "\u306e\u3089\u308a\u3064\u3089\u308a",
         "url": "https://open.spotify.com/album/55M8zj4SdtQwVUxDqn7d6h"
       },
@@ -40618,7 +40636,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 360000,
       "name": "\u30a8\u30a4\u30ea\u30a2\u30f3\u30ba",
       "url": "https://open.spotify.com/track/6w3QGOV54PA8hsbFFD6FmJ"
@@ -49248,7 +49266,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 210354,
       "name": "\u63b4\u3081\u306a\u3044\u4eba",
       "url": "https://open.spotify.com/track/4X45mHitSi0UBFYreIWp87"

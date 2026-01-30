@@ -4,7 +4,7 @@
 
 > This is DZ Deathrays\. The essential tracks, all in one playlist.
 
-116 songs - 6 hr 12 min
+117 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Blood On My Leather](https://open.spotify.com/track/2yX5Hz2SvtGvfNnI879xrf) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Blood On My Leather](https://open.spotify.com/album/0AdRZ0MgfYiWC1Xm8YKpAh) | 2:33 | 2022-09-16 |  |
 | [Brains](https://open.spotify.com/track/7x1Uhtkt9UGQrffVwplBT4) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 3:15 | 2022-10-06 | 2022-10-12 |
 | [Come down \- Crooked colours](https://open.spotify.com/track/7rZB2xn83Wymu6r8en1bby) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [The DZ Deathrays Spotify Margarita Monday Monster Mash Mix](https://open.spotify.com/album/1Q2YJt77QN5LWZVZaUO2yU) | 0:39 | 2023-01-23 | 2023-02-07 |
-| [Cops / Capacity](https://open.spotify.com/track/1yqmcfHazwWohYFsI7pSnP) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 2:52 | 2022-09-16 | 2025-11-07 |
+| [Cops / Capacity](https://open.spotify.com/track/1yqmcfHazwWohYFsI7pSnP) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 2:52 | 2022-09-16 |  |
 | [Cops Capacity](https://open.spotify.com/track/4Twx8RQYPsnBq1ZK3j11LN) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/4JPYQvTQIjdvkJ4L5CTvgt) | 2:48 | 2023-03-05 | 2023-03-28 |
 | [Daybreak \(with DZ Deathrays\)](https://open.spotify.com/track/3URWgobZp0BviTbfuxtuib) | [Hellcat Speedracer](https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV), [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Daybreak](https://open.spotify.com/album/0kYX3kcnzxoyG8mRCurZuf) | 2:49 | 2024-08-11 |  |
 | [Demolition](https://open.spotify.com/track/0ei1UjbzNN37t9cL9rDSyA) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Easing Out Of Control](https://open.spotify.com/album/1NCpaJ6SAWJ0MgNMJNDakj) | 3:24 | 2026-01-18 |  |
@@ -88,7 +88,8 @@
 | [Paranoid](https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Paranoid](https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv) | 3:19 | 2022-11-24 |  |
 | [Paranoid](https://open.spotify.com/track/6nX2HXWLt2I5AM6kHm64zI) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:19 | 2023-07-12 | 2024-09-11 |
 | [Paranoid \- NERVE Remix](https://open.spotify.com/track/2n9EcqhwgDO5cgGIMMCHHb) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu), [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Paranoid \(NERVE Remix\)](https://open.spotify.com/album/31WrHIA3RqdOrJMV7whBHA) | 3:58 | 2023-09-25 | 2024-06-10 |
-| [Pissing In The Breeze](https://open.spotify.com/track/4qivfptC7pzRbkrn4TbmSW) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Pissing In The Breeze](https://open.spotify.com/album/3PpWo34YDvu2juzCCdAqac) | 3:11 | 2025-12-03 |  |
+| [Pissing In The Breeze](https://open.spotify.com/track/2H7RTRdSWfqfVlu6V1vGTD) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Easing Out Of Control](https://open.spotify.com/album/1NCpaJ6SAWJ0MgNMJNDakj) | 3:11 | 2026-01-30 |  |
+| [Pissing In The Breeze](https://open.spotify.com/track/4qivfptC7pzRbkrn4TbmSW) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Pissing In The Breeze](https://open.spotify.com/album/3PpWo34YDvu2juzCCdAqac) | 3:11 | 2025-12-03 | 2026-01-30 |
 | [Play Dead Until You're Dead](https://open.spotify.com/track/1n8eG2CaqtEIrxPj2ijG6l) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/1PtUEGMscPJp6ZkFFoMWUX) | 4:02 | 2025-04-17 | 2025-11-21 |
 | [Play Dead Until You're Dead](https://open.spotify.com/track/44pxIxvtCEQDFAnQ8Mmoje) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 4:02 | 2022-09-16 | 2023-02-25 |
 | [Pollyanna](https://open.spotify.com/track/78pnTwSXa6nZCjcdLE4Lbu) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Pollyanna](https://open.spotify.com/album/4kQSRFsF773glePY10mDpr) | 2:41 | 2022-09-16 |  |
@@ -107,7 +108,7 @@
 | [Shred For Summer](https://open.spotify.com/track/53cdjpWN1AM3WCU4DhEQx0) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 3:59 | 2022-09-16 | 2025-05-13 |
 | [Shred For Summer](https://open.spotify.com/track/5QMBzbn8l7o6BHPXiL3XJK) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Shred For Summer](https://open.spotify.com/album/5OBRYYOZTSUhEgbYL8kXPc) | 3:59 | 2025-08-05 |  |
 | [Sideways](https://open.spotify.com/track/3GsST4fMqsmm8BUzf5sHBa) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Sideways](https://open.spotify.com/album/1ziwuQmPWtV2S7THwpKM6P) | 2:41 | 2025-06-08 | 2026-01-18 |
-| [Sideways](https://open.spotify.com/track/5zITXIKc2Z9uTeABr8GiEb) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Easing Out Of Control](https://open.spotify.com/album/1NCpaJ6SAWJ0MgNMJNDakj) | 2:41 | 2026-01-18 |  |
+| [Sideways](https://open.spotify.com/track/5zITXIKc2Z9uTeABr8GiEb) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Easing Out Of Control](https://open.spotify.com/album/1NCpaJ6SAWJ0MgNMJNDakj) | 2:41 | 2026-01-18 | 2026-01-30 |
 | [Silver Lining](https://open.spotify.com/track/0QxtYTTd8bpgABalB9ynz3) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 4:56 | 2025-04-21 | 2025-12-19 |
 | [Skeleton Key](https://open.spotify.com/track/3cDHzxJC3bJQB1XlmZ5kYH) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2](https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs) | 2:39 | 2022-09-21 | 2024-06-14 |
 | [Skyline](https://open.spotify.com/track/494b5aTzaNZBVm2VKMGryH) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Skyline](https://open.spotify.com/album/7cO3VWZieGiyYbZk77oqyV) | 3:21 | 2025-10-23 |  |

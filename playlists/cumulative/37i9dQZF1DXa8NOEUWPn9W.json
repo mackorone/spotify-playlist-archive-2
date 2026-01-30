@@ -6560,7 +6560,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 221769,
       "name": "Do You",
       "url": "https://open.spotify.com/track/59Omhh3MqpuvUXvVoRdiBH"
@@ -12512,6 +12512,24 @@
       "duration_ms": 196700,
       "name": "Ice 2 Water",
       "url": "https://open.spotify.com/track/697Ub7j26uCkn3VtWSucG3"
+    },
+    {
+      "album": {
+        "name": "Ice In My Eyes",
+        "url": "https://open.spotify.com/album/1lPMHePBKwDbVYwcr60iHB"
+      },
+      "artists": [
+        {
+          "name": "WELKER",
+          "url": "https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185156,
+      "name": "Ice In My Eyes",
+      "url": "https://open.spotify.com/track/6h7BeqJkbKztoZxGY8gk1R"
     },
     {
       "album": {
@@ -19678,7 +19696,7 @@
       },
       "artists": [
         {
-          "name": "Sofi Tukker",
+          "name": "SOFI TUKKER",
           "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         },
         {

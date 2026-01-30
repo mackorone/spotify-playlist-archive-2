@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e27\u0e31\u0e19\u0e40\u0e14\u0e47\u0e01 T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BUS",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JAOKHUN",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -1778,7 +1778,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 207000,
       "name": "HUH?",
       "url": "https://open.spotify.com/track/0utAUYiWZZatIr8hZ5SLGP"
@@ -3534,7 +3534,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 175652,
       "name": "Skinship",
       "url": "https://open.spotify.com/track/6vMeYJ8b8KDz1XWbqNYdlb"
@@ -3791,6 +3791,24 @@
     },
     {
       "album": {
+        "name": "Stand In",
+        "url": "https://open.spotify.com/album/0WWVzmB0IF1HxVpWYm2HzN"
+      },
+      "artists": [
+        {
+          "name": "PROXIE",
+          "url": "https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189624,
+      "name": "Stand In",
+      "url": "https://open.spotify.com/track/0tsE3ZC0FbUkEkWNmHQBpi"
+    },
+    {
+      "album": {
         "name": "Data Storage",
         "url": "https://open.spotify.com/album/2mQYy1FYHUEuQSrJPO6BDI"
       },
@@ -3972,7 +3990,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 200000,
       "name": "T2T",
       "url": "https://open.spotify.com/track/5xXUqyjaTqPQ7XnIThviQ9"
@@ -4690,6 +4708,24 @@
       "duration_ms": 228631,
       "name": "YOU OF THE YEAR",
       "url": "https://open.spotify.com/track/7IGMR3tJIZn4IF5OL0P1BX"
+    },
+    {
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/5YqPF2b3Yy43HpgowDgpUx"
+      },
+      "artists": [
+        {
+          "name": "WIN METAWIN",
+          "url": "https://open.spotify.com/artist/4RjOaVWPUU41jp506ppjPW"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201095,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/2nhMQ5sGCQvBVlvXbaJmiH"
     },
     {
       "album": {
@@ -9570,7 +9606,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 167608,
       "name": "\u0e22\u0e37\u0e48\u0e19\u0e43\u0e1a\u0e2a\u0e21\u0e31\u0e04\u0e23 (Heart Application)",
       "url": "https://open.spotify.com/track/4EyQv6oJtloxRBS1ChYLY1"
@@ -10856,6 +10892,24 @@
       "duration_ms": 191333,
       "name": "\u0e2a\u0e21\u0e31\u0e22\u0e19\u0e35\u0e49\u0e40\u0e04\u0e49\u0e32\u0e44\u0e21\u0e48\u0e41\u0e2d\u0e1a\u0e23\u0e31\u0e01(Just Say You Love Me) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e04\u0e37\u0e19\u0e19\u0e31\u0e1a\u0e14\u0e32\u0e27 Astrophile",
       "url": "https://open.spotify.com/track/2mBtzhDDwoGBKAsrGMYrev"
+    },
+    {
+      "album": {
+        "name": "\u0e2a\u0e23\u0e38\u0e1b\u0e40\u0e2d\u0e32\u0e44\u0e07 (Tell Me)",
+        "url": "https://open.spotify.com/album/4OjAL4nwyqR4k4NYnyfOsX"
+      },
+      "artists": [
+        {
+          "name": "KimGun",
+          "url": "https://open.spotify.com/artist/12mLwmGdGDI6nZxur0atkl"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179478,
+      "name": "\u0e2a\u0e23\u0e38\u0e1b\u0e40\u0e2d\u0e32\u0e44\u0e07 (Tell Me)",
+      "url": "https://open.spotify.com/track/7rlvduhtbVyb4NIW7VJrtQ"
     },
     {
       "album": {
@@ -14484,6 +14538,24 @@
       "duration_ms": 200092,
       "name": "\u0e42\u0e04\u0e15\u0e23\u0e44\u0e21\u0e48\u0e41\u0e1f\u0e23\u0e4c (just friend)",
       "url": "https://open.spotify.com/track/14ka5GWsuyhdFk4X83YRij"
+    },
+    {
+      "album": {
+        "name": "\u0e42\u0e04\u0e49\u0e14\u0e25\u0e31\u0e1a",
+        "url": "https://open.spotify.com/album/7eSrWCLACdNQiikod3JOuU"
+      },
+      "artists": [
+        {
+          "name": "BELL WARISARA",
+          "url": "https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231836,
+      "name": "\u0e42\u0e04\u0e49\u0e14\u0e25\u0e31\u0e1a",
+      "url": "https://open.spotify.com/track/7yPsDvID4lBpGfm2AHliHy"
     },
     {
       "album": {

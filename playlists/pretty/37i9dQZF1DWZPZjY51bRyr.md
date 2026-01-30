@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,114 likes - 207 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,145 likes - 207 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -216,4 +216,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 | 206 | [Flowing Breath](https://open.spotify.com/track/2B7kI5FQVJJMxFrmN0ngGM) | [NAYAT](https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC) | [Flowing Breath](https://open.spotify.com/album/6u2hvqaV7GhELObzOX3bRQ) | 3:40 |
 | 207 | [Cherry Breeze](https://open.spotify.com/track/5ycjAT6WqvsvRtarEkmMii) | [Aurora Season](https://open.spotify.com/artist/6XEW2LnRmQUNPfTajKwImZ) | [Cherry Breeze](https://open.spotify.com/album/53qJCZVHRKRyhcH9nNPGBZ) | 2:28 |
 
-Snapshot ID: `AAAAAFo5bFtF3+rbp/ccZbB8gBSRJq6B`
+Snapshot ID: `AAAAAGxfZzKgdZgxkGT9PSoxdlTsywSP`

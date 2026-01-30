@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : disiz",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : KALIKA & Tess Kirby",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Bonne chance pour la suite",
+        "url": "https://open.spotify.com/album/5Xi1T4E5u564I6Njs5iLLm"
+      },
+      "artists": [
+        {
+          "name": "Cyril Mokaiesh",
+          "url": "https://open.spotify.com/artist/1SDpo7FeZDqdk329wj2wRk"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245520,
+      "name": "Approximatif",
+      "url": "https://open.spotify.com/track/0I5EAx0lrJ4cL4Dj21MoK4"
+    },
+    {
+      "album": {
         "name": "La symphonie des \u00e9clairs",
         "url": "https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW"
       },
@@ -460,7 +478,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 178701,
       "name": "ATTITUDE",
       "url": "https://open.spotify.com/track/09u87tRFWJH0hlgeEH4Tgu"
@@ -608,6 +626,28 @@
       "duration_ms": 206373,
       "name": "Bal de fin d'ann\u00e9e",
       "url": "https://open.spotify.com/track/4tOehJCrjHFakWKIt2yuHd"
+    },
+    {
+      "album": {
+        "name": "BALLERINES DE BOURGE",
+        "url": "https://open.spotify.com/album/1JQxGJxzNukKrEiD6jC2qY"
+      },
+      "artists": [
+        {
+          "name": "KALIKA",
+          "url": "https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD"
+        },
+        {
+          "name": "Tess Kirby",
+          "url": "https://open.spotify.com/artist/173QAn9N2bN4CJ6LJEoeO3"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171920,
+      "name": "BALLERINES DE BOURGE",
+      "url": "https://open.spotify.com/track/2NGMnic5kVnqB12RLiEdOy"
     },
     {
       "album": {
@@ -2710,7 +2750,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 159546,
       "name": "invisible",
       "url": "https://open.spotify.com/track/0FC9BRYWbLzJTliCxcPZYA"
@@ -2924,6 +2964,24 @@
       "duration_ms": 189869,
       "name": "j'peux pas te sortir de ma t\u00eate (can't get you out of my head)",
       "url": "https://open.spotify.com/track/66R9mjXTFnOcjvpArXw1Nw"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Sam Sauvage",
+          "url": "https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151453,
+      "name": "J'Suis Pas Bo",
+      "url": "https://open.spotify.com/track/1wPrfGvINb3lWrGbLWXedI"
     },
     {
       "album": {
@@ -5325,6 +5383,28 @@
     },
     {
       "album": {
+        "name": "Peaux Miroirs",
+        "url": "https://open.spotify.com/album/4Ej3dz9FNGG59gJUs3tDiF"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e0n\u00e7ois & The Atlas Mountains",
+          "url": "https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU"
+        },
+        {
+          "name": "David Numwami",
+          "url": "https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174241,
+      "name": "Peaux Miroirs",
+      "url": "https://open.spotify.com/track/7cxAjAFypLuTNZWLIQifAz"
+    },
+    {
+      "album": {
         "name": "People Are Afraid",
         "url": "https://open.spotify.com/album/5lWUoBPPotqfkEZJ4P3Mnb"
       },
@@ -5430,7 +5510,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 222853,
       "name": "Playground",
       "url": "https://open.spotify.com/track/6YCDCzRIeVYzcSNvFQ5es5"
@@ -7460,7 +7540,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 136080,
       "name": "WE ARE GOOD",
       "url": "https://open.spotify.com/track/4tCJiYWzupzmbDqBcpsk3j"

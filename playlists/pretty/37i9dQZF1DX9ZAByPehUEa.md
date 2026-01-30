@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > Welcome to DISCOLAND 🪩🕺🏽 it's a happy place
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,164 likes - 200 songs - 11 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,198 likes - 200 songs - 11 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,7 +164,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 154 | [Give Me Love \- Louie Vega Remix Edit](https://open.spotify.com/track/4wxPP2iPC2PDQgi1x9tlBy) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg) | [Give Me Love \(Louie Vega Remix Edit\)](https://open.spotify.com/album/7Cg3cOD54ItTE05Z2gV4hB) | 5:54 |
 | 155 | [Just Try It](https://open.spotify.com/track/6PMQSn5rYo1wc0vk8b6cPR) | [Baccus](https://open.spotify.com/artist/1j748qGtsUgMFsBi3yl6PW) | [Just Try It](https://open.spotify.com/album/5E2gTX99i8y5GSrUtj5QGi) | 2:56 |
 | 156 | [Don't Wanna Be Alone](https://open.spotify.com/track/6P68mrx6JfMUsLeeBwKnAe) | [Skogsberg & Akdogan](https://open.spotify.com/artist/3rqYcASBrt3Ss8sQqpQf4a) | [Don't Wanna Be Alone](https://open.spotify.com/album/5i3swkwSfi3mhTDbTMdHsz) | 2:49 |
-| 157 | [One On One \(Cerrone Remix\)](https://open.spotify.com/track/3Ca9i2FRXcN3sWDS83rcDM) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM) | [One On One \(Cerrone Remix\)](https://open.spotify.com/album/7oNkv3hDFC2IhcwaLWnUDi) | 3:24 |
+| 157 | [One On One \(Cerrone Remix\)](https://open.spotify.com/track/3Ca9i2FRXcN3sWDS83rcDM) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM) | [One On One \(Cerrone Remix\)](https://open.spotify.com/album/7oNkv3hDFC2IhcwaLWnUDi) | 3:24 |
 | 158 | [You Take Me Higher](https://open.spotify.com/track/64lDlWh45oGS2GofvC8Vp4) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [You Take Me Higher](https://open.spotify.com/album/6BZhpKcbowbpVSp9UGMNQ8) | 3:07 |
 | 159 | [New Way](https://open.spotify.com/track/11H4y3J3uZiTRMKLQCcmSD) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN), [Yogi](https://open.spotify.com/artist/5B9P0p88CmlArc27XLyRnB) | [Disco Nights](https://open.spotify.com/album/393ujegMe0hYDFSeNupT9p) | 3:01 |
 | 160 | [Talking About Those](https://open.spotify.com/track/5pBO42qEZXn25QCmpm0PUu) | [Husko](https://open.spotify.com/artist/5n0AvUDa25XR3AYRvocSaT) | [Talking About Those](https://open.spotify.com/album/3CoaeFSETJpWaPM9KKv0Oo) | 3:34 |

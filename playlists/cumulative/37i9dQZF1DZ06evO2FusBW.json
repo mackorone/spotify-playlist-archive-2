@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Be Love",
+        "url": "https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266640,
+      "name": "Feeling Safe",
+      "url": "https://open.spotify.com/track/7p8nlIEjXe3epospI1EeHt"
+    },
+    {
+      "album": {
         "name": "Tree of Light",
         "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
       },

@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 178666,
       "name": "Better for Me",
       "url": "https://open.spotify.com/track/53YH9d4ksTVDzqVZhNM6eh"
@@ -2074,7 +2074,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 125217,
       "name": "Connection",
       "url": "https://open.spotify.com/track/1bZrAIp6WAwTOWvfIW9C7a"
@@ -3527,6 +3527,24 @@
     },
     {
       "album": {
+        "name": "HABIBI",
+        "url": "https://open.spotify.com/album/5DYq6LbDRwNEuvUCNQvRhl"
+      },
+      "artists": [
+        {
+          "name": "Expect XHAVI",
+          "url": "https://open.spotify.com/artist/2UD1QtSxiIQHdWdDIXJPwT"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133594,
+      "name": "Habibi",
+      "url": "https://open.spotify.com/track/0dZPHeDKSci3kF7uGEowDX"
+    },
+    {
+      "album": {
         "name": "Hallo",
         "url": "https://open.spotify.com/album/3sTK6MaEkl5bRWZfQ4ontI"
       },
@@ -3710,7 +3728,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 157832,
       "name": "Hurt You No More",
       "url": "https://open.spotify.com/track/4u7zaHJKO62fy7wezDgP0c"
@@ -7614,6 +7632,32 @@
       "duration_ms": 298538,
       "name": "Pray",
       "url": "https://open.spotify.com/track/7CGixibOxgHex5Mdof4PLU"
+    },
+    {
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/6HWwAJR5Ucarqb8D2gmPOI"
+      },
+      "artists": [
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        },
+        {
+          "name": "Kaboo",
+          "url": "https://open.spotify.com/artist/1FnoEiqvXw7PxEADLnuPkD"
+        },
+        {
+          "name": "Cali P",
+          "url": "https://open.spotify.com/artist/3ecsQBXTAjmQyO3Nqq0KZV"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/0jsy7wWM2eNwHZidVOaThC"
     },
     {
       "album": {

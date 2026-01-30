@@ -4,7 +4,7 @@
 
 > Aus der Schweiz für dich – musique suisse – musica svizzera 🇨🇭<br/>Cover: Argyle
 
-463 songs - 23 hr 52 min
+465 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [2024 FREESTYLE](https://open.spotify.com/track/4kCCkzbocx5lvmceKxgIWC) | [Cosmo12](https://open.spotify.com/artist/0U4D0tyUIPeF0ithTTrYKK) | [2024 FREESTYLE](https://open.spotify.com/album/0MVVqc5fZFIrv1RAyE5QyH) | 2:33 | 2025-04-24 | 2025-05-02 |
 | [2560](https://open.spotify.com/track/20hvdVSrSkh8wZZKSVBH6o) | [James Gruntz](https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy) | [2560](https://open.spotify.com/album/2dr4Cl4sfBrLoqvFzZcwdv) | 3:18 | 2024-07-04 | 2024-11-10 |
 | [60 SECONDS \- FREESTYLE](https://open.spotify.com/track/3DJVFdMdGOK85CTDSvuEvz) | [LUM](https://open.spotify.com/artist/2MMvPoY1f8ZgWkxVhc5HYm) | [60 SECONDS \(FREESTYLE\)](https://open.spotify.com/album/1PdkHWVPcXgQGZaCOqurNS) | 1:00 | 2025-04-24 | 2025-05-02 |
+| [\[fuck it\]](https://open.spotify.com/track/6pYDn2ulHzNFsqW2jXMCwj) | [The Gardener & The Tree](https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN) | [\[fuck it\]](https://open.spotify.com/album/1VZCMkCZf5N6yLr5jlMasM) | 2:54 | 2026-01-29 |  |
 | [A Tu Lado](https://open.spotify.com/track/50n5y9pMihKGBu29fz4Bew) | [BANITO](https://open.spotify.com/artist/3vQFsnNL91bUE3knJ2dLTn) | [A Tu Lado](https://open.spotify.com/album/1OAaPMH8U0FciBbtdY1gV0) | 2:56 | 2024-09-11 | 2024-10-19 |
 | [A'dvice](https://open.spotify.com/track/2Bea9uFM1TNDds2W0obnzj) | [Finja Kejo](https://open.spotify.com/artist/11z4PdpRpKg7yDwaDrrJtx) | [5](https://open.spotify.com/album/4Ujcki1z4C1SBBFp8fj6Ny) | 3:11 | 2025-04-24 | 2025-05-02 |
 | [abused](https://open.spotify.com/track/04eAwj1S7LBrImIZVnl2yq) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [abused](https://open.spotify.com/album/0FPHvkFMpuMpVfaNlxadU9) | 3:08 | 2024-09-06 | 2024-10-04 |
@@ -380,12 +381,13 @@
 | [Somewhere Else](https://open.spotify.com/track/5BRlmjqb8IgoRo2KU0UQJ3) | [Julian Cross](https://open.spotify.com/artist/1TRFjpBEneFJJloCqSC4sG), [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V) | [Somewhere Else](https://open.spotify.com/album/7ensRNpU3YrTSTVYTNgITR) | 2:50 | 2025-10-24 | 2025-11-28 |
 | [Sonido Cósmico](https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0) | 3:43 | 2024-06-27 | 2024-10-04 |
 | [Sorry](https://open.spotify.com/track/5fP2ZLhZT6Ry1WZqzmWUNT) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Sorry](https://open.spotify.com/album/1GkLbZiRcGcat8HdCX3rT3) | 2:47 | 2024-09-27 | 2025-01-11 |
-| [Space Beach](https://open.spotify.com/track/0BSCv5SO6KMXVCwwaXVNiP) | [Aaron Asteria](https://open.spotify.com/artist/7DxUqzuXRoTBvna6yo5Mq8) | [Space Beach](https://open.spotify.com/album/6VqKTDqrI57kTvutkrLt6U) | 2:55 | 2025-12-05 |  |
+| [Space Beach](https://open.spotify.com/track/0BSCv5SO6KMXVCwwaXVNiP) | [Aaron Asteria](https://open.spotify.com/artist/7DxUqzuXRoTBvna6yo5Mq8) | [Space Beach](https://open.spotify.com/album/6VqKTDqrI57kTvutkrLt6U) | 2:55 | 2025-12-05 | 2026-01-30 |
 | [spark](https://open.spotify.com/track/13lod7e7tqMqSPXmi6jBKY) | [Long Tall Jefferson](https://open.spotify.com/artist/4dPlgLFpJ1w0BtzNVwQNZq) | [spark](https://open.spotify.com/album/73OXMgGuaifUXUzzh7sn6w) | 3:21 | 2024-12-20 | 2025-02-08 |
 | [Spinning](https://open.spotify.com/track/6duDke7M2I6XeXa6VqcMTD) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [The Movie](https://open.spotify.com/album/2Hl58qQYSxGfAYb9dNIvLi) | 3:47 | 2025-04-24 | 2025-05-02 |
 | [Spätsommer](https://open.spotify.com/track/0gzMov42DaCWpLOiySLzPL) | [Leon Wiesmann](https://open.spotify.com/artist/47oTRxFflOZVvB5ze1SjT8) | [Spätsommer](https://open.spotify.com/album/5WuEzee2qFuHUj70Ns7Xb7) | 2:51 | 2025-10-16 | 2025-11-12 |
 | [Stabhochspringe](https://open.spotify.com/track/3sz6jUYOTT3hhYO2iG3vUJ) | [Dachs](https://open.spotify.com/artist/04LdKPNs0taDflOxwGZCGe) | [Stabhochspringe](https://open.spotify.com/album/6druqWQ7NJiOMmjS6Ez6Cc) | 3:32 | 2025-05-15 | 2025-05-23 |
 | [Starcrossed](https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Starcrossed](https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC) | 3:03 | 2025-03-21 |  |
+| [Start All Over](https://open.spotify.com/track/2MI2dyVKDCctQ9l0BnTZOG) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Boyfriend Of The Year \(Deluxe\)](https://open.spotify.com/album/2xXfmYITiAF4uYAWq9o68L) | 2:57 | 2026-01-29 |  |
 | [Stay With Me](https://open.spotify.com/track/5BsHkqrEgTvMjLChE7nFoI) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ), [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Stay With Me](https://open.spotify.com/album/6ssTOfG6Bq2vnhAsnbOx73) | 2:57 | 2024-06-27 | 2025-06-27 |
 | [Stranger](https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Stranger](https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL) | 2:42 | 2024-11-01 |  |
 | [SucieriaZH](https://open.spotify.com/track/1n5vXSrZ0xbFRG1JFi1L7t) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [SucieriaZH](https://open.spotify.com/album/0HOt4Q0nybLug5MreioV5j) | 2:54 | 2024-06-27 | 2024-10-04 |
@@ -464,7 +466,7 @@
 | [Wolke](https://open.spotify.com/track/18ObNcLsXmhbkka7oeOsNh) | [Gigi Malua](https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh) | [Wolke](https://open.spotify.com/album/6k7DbfYsI3OEt3pEK22fXX) | 3:09 | 2025-07-31 | 2025-09-26 |
 | [Yaa Dede](https://open.spotify.com/track/5GgjeY48LU11zjGXXktqkI) | [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO) | [LUNO V](https://open.spotify.com/album/43q6qDcaoGAZBRAO8TVsCz) | 2:45 | 2025-04-24 | 2025-05-02 |
 | [you & i](https://open.spotify.com/track/7qanXHrGDdACDlCLqiY4qe) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY), [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [you & i](https://open.spotify.com/album/4l4ndt4BmOY2oeoa1qqEst) | 2:05 | 2025-05-22 | 2026-01-24 |
-| [You Hurt Me](https://open.spotify.com/track/5DhoEhRFe9zk65yJwDQ71D) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [January](https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2) | 2:16 | 2025-02-07 |  |
+| [You Hurt Me](https://open.spotify.com/track/5DhoEhRFe9zk65yJwDQ71D) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [January](https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2) | 2:16 | 2025-02-07 | 2026-01-30 |
 | [You You You](https://open.spotify.com/track/02SfLsj1wEIyFT86dhwi8n) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P), [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH) | [June](https://open.spotify.com/album/4cVvZI4iqSdk3pCsuQQ0HZ) | 2:41 | 2025-06-13 | 2025-07-19 |
 | [Zeilen für dich](https://open.spotify.com/track/79jLtzgfJDXcEbMiTGzOUV) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Zeilen für dich](https://open.spotify.com/album/4aKndM39CDDcGyx1wBYx4P) | 3:17 | 2024-06-27 | 2024-10-12 |
 | [Zoot](https://open.spotify.com/track/1QCf5EvUGZnEGVI888MHa9) | [Lisa Oribasi](https://open.spotify.com/artist/1waNCj8NsTBTb1WzOPkTyR) | [Somewhere IDK](https://open.spotify.com/album/0b3OWKTpkrhVx2qtSb9rgu) | 2:48 | 2024-08-29 | 2024-10-16 |

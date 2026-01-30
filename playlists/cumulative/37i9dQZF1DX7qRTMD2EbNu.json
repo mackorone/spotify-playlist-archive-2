@@ -3159,6 +3159,36 @@
     },
     {
       "album": {
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/1OPDhx4biz5ukcMudrYpXA"
+      },
+      "artists": [
+        {
+          "name": "R.B.D.",
+          "url": "https://open.spotify.com/artist/5YPzHb8dVwxsEjSbdOU8We"
+        },
+        {
+          "name": "Christoven",
+          "url": "https://open.spotify.com/artist/62uzocPwW8AA2xs5meq351"
+        },
+        {
+          "name": "Tradey",
+          "url": "https://open.spotify.com/artist/1yLVrEeg7me2N3squ0bZ1P"
+        },
+        {
+          "name": "Shaker",
+          "url": "https://open.spotify.com/artist/5I1G1MSxXh3zrZsVZCPzZj"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150817,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/6awZlC6u1IQN7UTtwSl1HJ"
+    },
+    {
+      "album": {
         "name": "CAIN IS ABLE",
         "url": "https://open.spotify.com/album/0rHdZtdkeG7rDR5DTxxeSj"
       },
@@ -13501,6 +13531,36 @@
     },
     {
       "album": {
+        "name": "Retribution",
+        "url": "https://open.spotify.com/album/0UgJp0LHjY5MdWbQCYaF8S"
+      },
+      "artists": [
+        {
+          "name": "Hammer of The Last Two",
+          "url": "https://open.spotify.com/artist/41OZNvPbgdmHijKkTch0To"
+        },
+        {
+          "name": "Rjz",
+          "url": "https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G"
+        },
+        {
+          "name": "Kay t",
+          "url": "https://open.spotify.com/artist/7u2iiXMEcQ13jXOb1xZmIi"
+        },
+        {
+          "name": "Mantse",
+          "url": "https://open.spotify.com/artist/6nntfefHU1AUQ5RpcMeo7M"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277960,
+      "name": "Retribution",
+      "url": "https://open.spotify.com/track/4yCl1tAjhIR9glGuyM5Bw7"
+    },
+    {
+      "album": {
         "name": "For My Brothers",
         "url": "https://open.spotify.com/album/3Qk29AVYqARa0R6YVipB2B"
       },
@@ -14472,7 +14532,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 185704,
       "name": "Sheege",
       "url": "https://open.spotify.com/track/5fthQD2FG25LXKLKx4rRTe"
@@ -14738,6 +14798,24 @@
       "duration_ms": 137064,
       "name": "Silence & Violence",
       "url": "https://open.spotify.com/track/6Ou2FbYfRWjlpMMS1945oe"
+    },
+    {
+      "album": {
+        "name": "SILLY INTROVERT",
+        "url": "https://open.spotify.com/album/4ZCYCr9SGA6rehsAcHuiyn"
+      },
+      "artists": [
+        {
+          "name": "Xlimkid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164584,
+      "name": "SILLY INTROVERT",
+      "url": "https://open.spotify.com/track/1QQlEz6kUVkz939kdRUPVA"
     },
     {
       "album": {
@@ -15804,7 +15882,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 160158,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/3OAqAimXEgLQ5HrLrJ734l"
@@ -17332,7 +17410,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 190000,
       "name": "What You Want",
       "url": "https://open.spotify.com/track/5HqJICWJomytoiIFnAsw0A"

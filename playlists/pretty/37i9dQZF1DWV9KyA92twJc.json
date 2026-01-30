@@ -1,6 +1,6 @@
 {
   "description": "\u05ea\u05d7\u05e0\u05ea \u05d4\u05e8\u05d3\u05d9\u05d5 \u05d4\u05e4\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc\u05db\u05dd. \u05e9\u05d9\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd. \u05e2\u05d8\u05d9\u05e4\u05d4: \u05d9\u05d5\u05d1\u05dc \u05e8\u05e4\u05d0\u05dc ",
-  "num_followers": 25777,
+  "num_followers": 25779,
   "original_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
-        "name": "Azizam",
-        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 162029,
-      "name": "Azizam",
-      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
         "name": "\u05d0\u05d5\u05e9\u05e8 \u05db\u05d4\u05df",
         "url": "https://open.spotify.com/album/1a8ERuwhbeXpbFF7TKReFX"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 184188,
       "name": "\u05d2\u05e9\u05dd",
       "url": "https://open.spotify.com/track/0ckd54NpB6QU3NIBdbkddf"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
+        "name": "Azizam",
+        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 162029,
+      "name": "Azizam",
+      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
     },
     {
       "added_at": "2026-01-16 15:38:53",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
-        "name": "\u05d1\u05d7\u05d9\u05d1\u05e7",
-        "url": "https://open.spotify.com/album/0Mzp2CgjhTvKqeIIYTI76s"
-      },
-      "artists": [
-        {
-          "name": "\u05ea\u05de\u05e8 \u05e8\u05d9\u05d9\u05dc\u05d9",
-          "url": "https://open.spotify.com/artist/3mtlJGfDIyEyrflj4HAW4i"
-        }
-      ],
-      "duration_ms": 147296,
-      "name": "\u05d1\u05d7\u05d9\u05d1\u05e7",
-      "url": "https://open.spotify.com/track/0OIq7kRsGg7UkLKtO7Srqd"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
         "name": "THE LAST EPISODE",
         "url": "https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 201080,
       "name": "\u05de\u05e0\u05d2\u05df \u05d5\u05e9\u05e8",
       "url": "https://open.spotify.com/track/2yPnlfwQ1AmhHauqQWDlWZ"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
+        "name": "\u05d1\u05d7\u05d9\u05d1\u05e7",
+        "url": "https://open.spotify.com/album/0Mzp2CgjhTvKqeIIYTI76s"
+      },
+      "artists": [
+        {
+          "name": "\u05ea\u05de\u05e8 \u05e8\u05d9\u05d9\u05dc\u05d9",
+          "url": "https://open.spotify.com/artist/3mtlJGfDIyEyrflj4HAW4i"
+        }
+      ],
+      "duration_ms": 147296,
+      "name": "\u05d1\u05d7\u05d9\u05d1\u05e7",
+      "url": "https://open.spotify.com/track/0OIq7kRsGg7UkLKtO7Srqd"
     },
     {
       "added_at": "2026-01-16 15:38:53",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
+        "name": "\u05e4\u05dc\u05e1\u05d8\u05e8\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4qEuEcv48zeatrNOxGHStV"
+      },
+      "artists": [
+        {
+          "name": "Osher Cohen",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
+        }
+      ],
+      "duration_ms": 178236,
+      "name": "\u05e4\u05dc\u05e1\u05d8\u05e8\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/6qB33ch9RK0aoMfxfnlXa1"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
         "name": "THE VANDALIST",
         "url": "https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 207804,
       "name": "SAD GENERATION, HAPPY PICTURES (feat. Flyana Boss)",
       "url": "https://open.spotify.com/track/68XUfHBL2g8FTcXiCS76Gn"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
-        "name": "\u05e4\u05dc\u05e1\u05d8\u05e8\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4qEuEcv48zeatrNOxGHStV"
-      },
-      "artists": [
-        {
-          "name": "Osher Cohen",
-          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
-        }
-      ],
-      "duration_ms": 178236,
-      "name": "\u05e4\u05dc\u05e1\u05d8\u05e8\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/6qB33ch9RK0aoMfxfnlXa1"
     },
     {
       "added_at": "2026-01-16 15:38:53",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
-        "name": "PENNY LAME",
-        "url": "https://open.spotify.com/album/3IRxlSrvryP0kmlxLRbws5"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        }
-      ],
-      "duration_ms": 180352,
-      "name": "PENNY LAME",
-      "url": "https://open.spotify.com/track/4OiPfVNluW2rsWpqjERciX"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
         "name": "\u05dc\u05d5\u05e4",
         "url": "https://open.spotify.com/album/4uWf4XvMwY5r4SQo3IVm2L"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 163213,
       "name": "\u05dc\u05d5\u05e4",
       "url": "https://open.spotify.com/track/1ChZJDdEU5tR4ZrLeuDh5u"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
+        "name": "PENNY LAME",
+        "url": "https://open.spotify.com/album/3IRxlSrvryP0kmlxLRbws5"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "duration_ms": 180352,
+      "name": "PENNY LAME",
+      "url": "https://open.spotify.com/track/4OiPfVNluW2rsWpqjERciX"
     },
     {
       "added_at": "2026-01-16 15:38:53",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
-        "name": "\u05e4\u05d7\u05d3 \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4v1hZbW6AmjiTcYuRbXfmB"
-      },
-      "artists": [
-        {
-          "name": "Kfir Tsafrir",
-          "url": "https://open.spotify.com/artist/7MKSeamhiRpa0xiS4FHGSC"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "\u05e4\u05d7\u05d3 \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/1jCAwxwhHIrtWzGeF6WfJ7"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
         "name": "\u05d2\u05d9\u05d8\u05e8\u05d4 \u05d5\u05dc\u05e0\u05e9\u05d5\u05dd",
         "url": "https://open.spotify.com/album/6MYR06lNvAzbzXmKTn3kpw"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 178339,
       "name": "\u05de\u05d0\u05d7\u05dc \u05dc\u05da \u05d8\u05d5\u05d1",
       "url": "https://open.spotify.com/track/2RNGK9C5zMQhKMTiPL5Q0T"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
+        "name": "\u05e4\u05d7\u05d3 \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4v1hZbW6AmjiTcYuRbXfmB"
+      },
+      "artists": [
+        {
+          "name": "Kfir Tsafrir",
+          "url": "https://open.spotify.com/artist/7MKSeamhiRpa0xiS4FHGSC"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "\u05e4\u05d7\u05d3 \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/1jCAwxwhHIrtWzGeF6WfJ7"
     },
     {
       "added_at": "2026-01-16 15:38:53",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
-        "name": "\u05e8\u05d5\u05d1\u05d9\u05dd \u05d5\u05ea\u05dc\u05ea\u05dc\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/2IUqqrHhooIUMDoSHvSknW"
-      },
-      "artists": [
-        {
-          "name": "Tuna",
-          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
-        },
-        {
-          "name": "Haim Moshe",
-          "url": "https://open.spotify.com/artist/2apcleOej0q9UT5POhHa1L"
-        }
-      ],
-      "duration_ms": 209890,
-      "name": "\u05e7\u05e9\u05e8 \u05d1\u05ea\u05e7\u05e6\u05d5\u05e8\u05ea",
-      "url": "https://open.spotify.com/track/5xlMI2eRQgUsDAl8vRmhJC"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
         "name": "\u05ea\u05e7\u05dc\u05d9\u05d8 \u05d6\u05d4\u05d1",
         "url": "https://open.spotify.com/album/43NJSfiyzp8yak9wBRUS7o"
       },
@@ -1691,6 +1671,26 @@
       "duration_ms": 212142,
       "name": "\u05ea\u05e7\u05dc\u05d9\u05d8 \u05d6\u05d4\u05d1",
       "url": "https://open.spotify.com/track/5q5j10lw64WVnuYJOvvQnk"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
+        "name": "\u05e8\u05d5\u05d1\u05d9\u05dd \u05d5\u05ea\u05dc\u05ea\u05dc\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/2IUqqrHhooIUMDoSHvSknW"
+      },
+      "artists": [
+        {
+          "name": "Tuna",
+          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
+        },
+        {
+          "name": "Haim Moshe",
+          "url": "https://open.spotify.com/artist/2apcleOej0q9UT5POhHa1L"
+        }
+      ],
+      "duration_ms": 209890,
+      "name": "\u05e7\u05e9\u05e8 \u05d1\u05ea\u05e7\u05e6\u05d5\u05e8\u05ea",
+      "url": "https://open.spotify.com/track/5xlMI2eRQgUsDAl8vRmhJC"
     },
     {
       "added_at": "2026-01-16 15:38:53",

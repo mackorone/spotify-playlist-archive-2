@@ -3445,6 +3445,28 @@
     },
     {
       "album": {
+        "name": "Only Us",
+        "url": "https://open.spotify.com/album/6rt8TqNLdFusAX72nzw8sj"
+      },
+      "artists": [
+        {
+          "name": "Summer Is Calling",
+          "url": "https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u"
+        },
+        {
+          "name": "Little Nikki",
+          "url": "https://open.spotify.com/artist/61iRph5tWfvUkZjmvBmADo"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202622,
+      "name": "Only Us",
+      "url": "https://open.spotify.com/track/0EDE7xkB4IOeazgLsLp6bu"
+    },
+    {
+      "album": {
         "name": "Disconnected",
         "url": "https://open.spotify.com/album/5Aq2fCmHIW0vICUIh3YpE9"
       },

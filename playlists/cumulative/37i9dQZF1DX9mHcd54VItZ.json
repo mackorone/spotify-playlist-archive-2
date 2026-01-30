@@ -448,7 +448,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 209087,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/6po8vnWdLeQMnh0S3wUlQP"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 163459,
       "name": "almal in die straat",
       "url": "https://open.spotify.com/track/70IOraagarnLfk1HqoEckn"
@@ -6392,7 +6392,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 217564,
       "name": "Higher",
       "url": "https://open.spotify.com/track/38UsWqBx6EFAfKCrlWOxhd"
@@ -7061,6 +7061,24 @@
     },
     {
       "album": {
+        "name": "I'm Afraid of Americans",
+        "url": "https://open.spotify.com/album/2xRVDJuLOXOpfpkcvZMgCa"
+      },
+      "artists": [
+        {
+          "name": "JaeXlynne",
+          "url": "https://open.spotify.com/artist/6ExJNNZMX7q3uIaZCDSFcz"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279327,
+      "name": "I'm Afraid of Americans",
+      "url": "https://open.spotify.com/track/2llxtfarQAta5xhYZsq6EA"
+    },
+    {
+      "album": {
         "name": "I'm On My Way",
         "url": "https://open.spotify.com/album/1g96zxNAGoNrKREJ9oM64A"
       },
@@ -7094,6 +7112,28 @@
       "duration_ms": 244125,
       "name": "Iemand Anders",
       "url": "https://open.spotify.com/track/1vjDxCSoNL7D8Eq8qUCekg"
+    },
+    {
+      "album": {
+        "name": "If I Wanted You",
+        "url": "https://open.spotify.com/album/4evHwgQfQWqkjFutDPfwV1"
+      },
+      "artists": [
+        {
+          "name": "Carla Franco",
+          "url": "https://open.spotify.com/artist/6I2p0OQapwvqHXFaAqKmoI"
+        },
+        {
+          "name": "Sophia Frank",
+          "url": "https://open.spotify.com/artist/4nZbINVWefKfXEpQPkSSe3"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "If I Wanted You",
+      "url": "https://open.spotify.com/track/0tr8i60WsBjNfFOobf41Qj"
     },
     {
       "album": {
@@ -12539,6 +12579,24 @@
     },
     {
       "album": {
+        "name": "SLOW MOTION",
+        "url": "https://open.spotify.com/album/7k2W3QNQoaesDP3UCg0oDW"
+      },
+      "artists": [
+        {
+          "name": "Yung Beathoven",
+          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155422,
+      "name": "SLOW MOTION",
+      "url": "https://open.spotify.com/track/1H5Rz9E38f8cqdxGW9vDBE"
+    },
+    {
+      "album": {
         "name": "To Change the Weather",
         "url": "https://open.spotify.com/album/5imGkqzgxOU3dgtEL7uwON"
       },
@@ -12554,6 +12612,24 @@
       "duration_ms": 184347,
       "name": "Small Things",
       "url": "https://open.spotify.com/track/4a4AneoUBYsM121PNivyD1"
+    },
+    {
+      "album": {
+        "name": "So Needy (Christmas Dinner)",
+        "url": "https://open.spotify.com/album/1n1DllFDgoXOo23FpHxCB0"
+      },
+      "artists": [
+        {
+          "name": "Phillip Taylor",
+          "url": "https://open.spotify.com/artist/1YYmkWArjQ9gVGDq4BLyVw"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177724,
+      "name": "So Needy (Christmas Dinner)",
+      "url": "https://open.spotify.com/track/7djRA1UCZ286rtfKzPk09Q"
     },
     {
       "album": {
@@ -12737,6 +12813,24 @@
     },
     {
       "album": {
+        "name": "Something on the Loose",
+        "url": "https://open.spotify.com/album/7EmbZqI2oZi6tFfshGU7M7"
+      },
+      "artists": [
+        {
+          "name": "Crying in Colour",
+          "url": "https://open.spotify.com/artist/1gKbrFmybPXTOjGBXetQAn"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207828,
+      "name": "Something on the Loose",
+      "url": "https://open.spotify.com/track/1e51WNgePm2XgVOf2DgSjt"
+    },
+    {
+      "album": {
         "name": "Something That You Said",
         "url": "https://open.spotify.com/album/4ZmOS90j36ANY6MDMyc7ug"
       },
@@ -12878,7 +12972,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 266868,
       "name": "Sonskyn Vrou",
       "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
@@ -13480,7 +13574,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 211635,
       "name": "Sunshine Sister",
       "url": "https://open.spotify.com/track/1z8DIO6ZJiRFAa8mapMIuf"
@@ -14452,7 +14546,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 298808,
       "name": "Till I Find You",
       "url": "https://open.spotify.com/track/6HzLD3A9tt2tE2fjT1V2J3"
@@ -15886,7 +15980,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 216000,
       "name": "World Peace",
       "url": "https://open.spotify.com/track/3oJegHHhJXxQrTcMeZDMRU"

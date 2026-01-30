@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u4ed6\u5011\u5c31\u662f\u672c\u5e74\u5ea6\u7684\u91cd\u9ede\u96f7\u9054\u53ca\u529b\u63a8\u661f\u4eba\uff01Let's meet the future\uff01Cover: \u6797\u8283\u9038 (PPlin)",
+  "description": "\u4ed6\u5011\u5c31\u662f\u672c\u5e74\u5ea6\u7684\u91cd\u9ede\u96f7\u9054\u53ca\u529b\u63a8\u661f\u4eba\uff01Let's meet the future\uff01Cover: \u516c\u9928\u9752\u5c11\u5e74 (GGteens)",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 212893,
       "name": "does your boyfriend know?",
       "url": "https://open.spotify.com/track/2gUrqQu3FyITjkvqs3mmqd"
@@ -1764,7 +1764,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 245449,
       "name": "FACES",
       "url": "https://open.spotify.com/track/5fmNsEdbraFS9leqbsBvbQ"
@@ -4202,7 +4202,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 129440,
       "name": "Rotator (200708)",
       "url": "https://open.spotify.com/track/2lgafirWBgHZLbSwrelsgL"
@@ -4900,7 +4900,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 294697,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/6OEdWblne8zSJwOlL4ngLs"
@@ -6364,7 +6364,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 277988,
       "name": "\u4e0d\u7c21\u55ae\u7684\u6b4c (feat. Faye \u8a79\u96ef\u5a77)",
       "url": "https://open.spotify.com/track/77Y69dj99sTYGAWule3nz8"
@@ -6682,7 +6682,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 187949,
       "name": "\u4f60\u50b7\u900f\u4e86\u6211 feat. \u6301\u4fee",
       "url": "https://open.spotify.com/track/2yolKf2oNcJFEL2ecVR2BI"
@@ -6700,7 +6700,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 253833,
       "name": "\u4f60\u5230\u5e95\u5728\u9078\u64c7\u4ec0\u9ebc",
       "url": "https://open.spotify.com/track/3tKi1rBzT8RPtAyId7iOJ7"
@@ -6950,7 +6950,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 224026,
       "name": "\u4f60\u7684\u773c\u795e\u4ed6\u7684\u8a9e\u6c23\u6211\u7684\u807d\u8aaa",
       "url": "https://open.spotify.com/track/457GF6g7MAbUAwSlxLNktv"
@@ -7088,7 +7088,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 163856,
       "name": "\u5047\u88ddSober",
       "url": "https://open.spotify.com/track/2rH7I6aURwBPR1th5IaMGz"
@@ -10431,6 +10431,28 @@
     },
     {
       "album": {
+        "name": "\u6212\u4e0d\u6389\u4f60\u7684\u611b (feat. Marz23)",
+        "url": "https://open.spotify.com/album/6SZDBYeNTlGozNz5ctIJIE"
+      },
+      "artists": [
+        {
+          "name": "Janice Yan",
+          "url": "https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp"
+        },
+        {
+          "name": "Marz23",
+          "url": "https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183850,
+      "name": "\u6212\u4e0d\u6389\u4f60\u7684\u611b (feat. Marz23)",
+      "url": "https://open.spotify.com/track/3U4rQ1fX2EP0cN64hm941J"
+    },
+    {
+      "album": {
         "name": "\u6230",
         "url": "https://open.spotify.com/album/2pwg7cIxiYOc2M5lBoCEAq"
       },
@@ -10660,7 +10682,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 188181,
       "name": "\u62dc\u6258",
       "url": "https://open.spotify.com/track/5i8tnyUDvVOnvIUXSlAiEk"
@@ -11722,7 +11744,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 152242,
       "name": "\u6c92\u6709\u5982\u679c",
       "url": "https://open.spotify.com/track/2fugXPHScj3rflFJoIVi0T"
@@ -12432,7 +12454,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 210857,
       "name": "\u7121\u89e3",
       "url": "https://open.spotify.com/track/54dG2LgA0qqV4dTwRoAdvL"
@@ -12610,7 +12632,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-29",
+      "date_removed": null,
       "duration_ms": 196642,
       "name": "\u73ca\u8fea",
       "url": "https://open.spotify.com/track/4NRSzG7IKFjxto1nOFv4TM"
@@ -12650,7 +12672,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 149551,
       "name": "\u73fe\u5728\u5e7e\u9ede",
       "url": "https://open.spotify.com/track/56Cqh5tLTB3Fm8SFxx6nkN"
@@ -13614,6 +13636,24 @@
       "duration_ms": 259764,
       "name": "\u81ed\u5c0f\u5b50",
       "url": "https://open.spotify.com/track/3sRCpZsgPuVfCNU674NdeY"
+    },
+    {
+      "album": {
+        "name": "\u81f3\u5c11\u6211\u5011\u90fd\u9084\u6c92\u653e\u68c4",
+        "url": "https://open.spotify.com/album/50oKy8Sk87Wg61YvGlhUpQ"
+      },
+      "artists": [
+        {
+          "name": "\u516c\u9928\u9752\u5c11\u5e74 GGteens",
+          "url": "https://open.spotify.com/artist/70tzNPv1y3Ft17QI4KLdSp"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287500,
+      "name": "\u81f3\u5c11\u6211\u5011\u90fd\u9084\u6c92\u653e\u68c4",
+      "url": "https://open.spotify.com/track/0v3FP3xJN9rr4dxGXfku8n"
     },
     {
       "album": {

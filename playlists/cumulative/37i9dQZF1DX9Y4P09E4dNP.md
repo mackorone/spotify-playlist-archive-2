@@ -4,7 +4,7 @@
 
 > The big Hip\-Life hits rn\. Cover: R2Bees
 
-309 songs - 19 hr 10 min
+310 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [No Issues](https://open.spotify.com/track/4epMA12G6SPOTJryCZ4ouF) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [No Issues](https://open.spotify.com/album/67InfoNsNPlkHNQcB2FUEn) | 3:21 | 2025-11-07 |  |
 | [No Love](https://open.spotify.com/track/0MIUBfQeKzmriC5NTNw9wc) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [No Love](https://open.spotify.com/album/15v2CAdHqg1ZTdol3hDdhh) | 2:46 | 2024-05-17 | 2024-06-07 |
 | [No Pressure](https://open.spotify.com/track/4mKGOtHyLWtnYz3dlq7Kkm) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l) | [No Pressure](https://open.spotify.com/album/0Y9msGVNi7dRprttbC0PGU) | 2:55 | 2024-08-16 | 2024-09-13 |
+| [Noko Fio \(Money Dey Talk\)](https://open.spotify.com/track/5pEDejb1qHo9t4Cmgay9hI) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [Noko Fio \(Money Dey Talk\)](https://open.spotify.com/album/0RlxxDmlWe7uqNuHfRqLiJ) | 3:35 | 2026-01-30 |  |
 | [Non Living Thing \(feat\. Oxlade\)](https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:49 | 2024-03-04 |  |
 | [Not God](https://open.spotify.com/track/6u15h9ZJMKrV3ZBZ5FwAUH) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Not God](https://open.spotify.com/album/3ACMZjr0WdsIqQiIMo7eRs) | 2:30 | 2023-08-03 | 2024-05-24 |
 | [Now or Never](https://open.spotify.com/track/2QhQuFmG6k3tpsrTyuHgaL) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Now or Never](https://open.spotify.com/album/3Vuapmc11sYeu4mjoElpFq) | 3:13 | 2025-07-18 | 2025-08-30 |
@@ -289,7 +290,7 @@
 | [Toffee](https://open.spotify.com/track/4qnolDQkujcltJIKNoSbnr) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e) | [Toffee](https://open.spotify.com/album/5N7oJwI4as7lZpVlh6hRQ0) | 6:00 | 2020-02-20 | 2024-03-05 |
 | [Tontonte](https://open.spotify.com/track/2joZgmbvHfeypuPFBysocT) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Tontonte](https://open.spotify.com/album/5njbyZ86SDLuOJoHJekpsV) | 4:20 | 2025-09-26 |  |
 | [Too Bad](https://open.spotify.com/track/5gVqAb1vTBDnPPLxslGjix) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [DJ Breezy](https://open.spotify.com/artist/2wgriTkRercaFwcdptYO2Y), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Too Bad / Different Place](https://open.spotify.com/album/0hMZ4hrlLZeMtBTlZtzJg8) | 3:49 | 2024-08-09 | 2025-09-26 |
-| [Too Bad](https://open.spotify.com/track/5ZOx261LZWSP886waFtw5P) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Disturbation 2](https://open.spotify.com/album/7B8dezihuew5DL9ztt1j7I) | 3:03 | 2025-10-10 |  |
+| [Too Bad](https://open.spotify.com/track/5ZOx261LZWSP886waFtw5P) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Disturbation 2](https://open.spotify.com/album/7B8dezihuew5DL9ztt1j7I) | 3:03 | 2025-10-10 | 2026-01-30 |
 | [Too Late](https://open.spotify.com/track/7krvWOVJSMcj3LHuxygzLh) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Too Late](https://open.spotify.com/album/7mQQiuo6jLbmE3aZeSaXaR) | 3:14 | 2025-04-07 |  |
 | [Try Me](https://open.spotify.com/track/1Yy0MCqFDgn2OYnRYzmU7K) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Lighthouse](https://open.spotify.com/album/1wBVNcu4xaAntWt8vUgGnL) | 3:29 | 2024-03-04 | 2024-03-29 |
 | [Tuabodom](https://open.spotify.com/track/1lj4eBXuGedWMfsh2PHReg) | [Nkasei](https://open.spotify.com/artist/2pOlf7KpOxnGoqcplYoC3I) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 5:16 | 2020-02-20 | 2022-10-16 |

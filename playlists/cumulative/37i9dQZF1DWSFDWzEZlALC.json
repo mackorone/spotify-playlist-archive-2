@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Rowli, Edb",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Levin Liam",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -470,6 +470,24 @@
       "duration_ms": 138025,
       "name": "22 Uhr",
       "url": "https://open.spotify.com/track/0WkJ8IabEc9Yys3HJ3NwI2"
+    },
+    {
+      "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/2mwxpip46E0BT2DPXW9LVo"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211446,
+      "name": "24",
+      "url": "https://open.spotify.com/track/2KQI8OvWiO3Dc4qI11ph0h"
     },
     {
       "album": {
@@ -2614,7 +2632,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 189181,
       "name": "Ausgedacht",
       "url": "https://open.spotify.com/track/09EPM9hZhXTTCVi0qrc8A3"
@@ -3539,6 +3557,24 @@
     },
     {
       "album": {
+        "name": "Blau",
+        "url": "https://open.spotify.com/album/6U5gT4DduU1hP5IdZU9BZC"
+      },
+      "artists": [
+        {
+          "name": "mo\u00e9",
+          "url": "https://open.spotify.com/artist/2Odi4EJdB2wFUTMWNCxJ7T"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223865,
+      "name": "Blau",
+      "url": "https://open.spotify.com/track/4Jln7MlCC2vIBXDAv9PxoR"
+    },
+    {
+      "album": {
         "name": "Blaue Augen",
         "url": "https://open.spotify.com/album/70OwE6fy3jsP9JKz3cxgLE"
       },
@@ -3734,6 +3770,24 @@
       "duration_ms": 186666,
       "name": "Blinde Passagiere",
       "url": "https://open.spotify.com/track/7j4R30Ae96SBBkTAolLCcb"
+    },
+    {
+      "album": {
+        "name": "blinde passagiere",
+        "url": "https://open.spotify.com/album/1V1ibDiBGqIhChSZ3EHONo"
+      },
+      "artists": [
+        {
+          "name": "TJARK",
+          "url": "https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184958,
+      "name": "blinde passagiere",
+      "url": "https://open.spotify.com/track/6hWgRtdEqiHEyYJH9qk4Fh"
     },
     {
       "album": {
@@ -4598,7 +4652,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 194202,
       "name": "Cigarettes After Sex",
       "url": "https://open.spotify.com/track/77emqNpzZjN7R2rDHT04Qf"
@@ -5432,7 +5486,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 148123,
       "name": "denk dr\u00fcber nach",
       "url": "https://open.spotify.com/track/4WFNFa8uTTM16IxAZmTgbf"
@@ -5764,7 +5818,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 197589,
       "name": "Die H\u00e4lfte von Nichts",
       "url": "https://open.spotify.com/track/47u568kIrGNx00Wmp2YBS0"
@@ -7802,7 +7856,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 137266,
       "name": "Es k\u00f6nnte alles ganz anders sein",
       "url": "https://open.spotify.com/track/1Y3ZEUTGwmL5vhdXb1jngU"
@@ -10832,7 +10886,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 147882,
       "name": "halb mensch halb tv",
       "url": "https://open.spotify.com/track/4RDulVhSmKz7Cnx3CXIL7L"
@@ -11078,7 +11132,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 205584,
       "name": "Hast Du Noch Zeit",
       "url": "https://open.spotify.com/track/1SzoBnBS89avSRd5ufvFK3"
@@ -11530,7 +11584,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 122207,
       "name": "Hellwach",
       "url": "https://open.spotify.com/track/1CIoxcTZUAIyMY1auIyL6A"
@@ -12830,7 +12884,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 160663,
       "name": "Immer wenn du da bist",
       "url": "https://open.spotify.com/track/4ESsuXS5VN1vTzSTy0zJUk"
@@ -12982,6 +13036,24 @@
       "duration_ms": 155760,
       "name": "In meinem Zimmer spielen sich Dramen ab",
       "url": "https://open.spotify.com/track/1kI132xTBCsVDLoIccMJNp"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "KAFFKIEZ",
+          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207113,
+      "name": "In N\u00e4chten Wie Diesen",
+      "url": "https://open.spotify.com/track/0Pf7l5G7QoZkjlem0pAy28"
     },
     {
       "album": {
@@ -14620,6 +14692,24 @@
       "duration_ms": 146973,
       "name": "Kleine Tattoos",
       "url": "https://open.spotify.com/track/2ysCPFIglN1r2pHKAzLU53"
+    },
+    {
+      "album": {
+        "name": "kleiner bruder / nah",
+        "url": "https://open.spotify.com/album/1BftOysh5tdFhdTk9i9BbA"
+      },
+      "artists": [
+        {
+          "name": "falcke",
+          "url": "https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164667,
+      "name": "kleiner bruder",
+      "url": "https://open.spotify.com/track/4U2BzEzxCLz6jVgE8PiEK8"
     },
     {
       "album": {
@@ -18238,7 +18328,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 158201,
       "name": "nah am meer gebaut",
       "url": "https://open.spotify.com/track/3aH8nXElsyu37eyDeF17Es"
@@ -19258,7 +19348,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 146301,
       "name": "oktober",
       "url": "https://open.spotify.com/track/28PQchsQ78scEeJoFCEZRv"
@@ -19912,6 +20002,24 @@
       "duration_ms": 187761,
       "name": "pillen",
       "url": "https://open.spotify.com/track/11I1cPItEgZ3Os98JRP6Ii"
+    },
+    {
+      "album": {
+        "name": "PINOCCHIO",
+        "url": "https://open.spotify.com/album/200tPb3IQw1l3sqqRi4jBk"
+      },
+      "artists": [
+        {
+          "name": "CARLI",
+          "url": "https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162584,
+      "name": "PINOCCHIO",
+      "url": "https://open.spotify.com/track/18tyqyDTt7UqTaVSKc18Bn"
     },
     {
       "album": {
@@ -24689,6 +24797,24 @@
     },
     {
       "album": {
+        "name": "Tesafilm",
+        "url": "https://open.spotify.com/album/5JOLpW2gfAoRwoLxt0tORB"
+      },
+      "artists": [
+        {
+          "name": "Ottolien",
+          "url": "https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149508,
+      "name": "Tesafilm",
+      "url": "https://open.spotify.com/track/2MEPUIWask815nyIJwtpJV"
+    },
+    {
+      "album": {
         "name": "Therapie",
         "url": "https://open.spotify.com/album/2kZLyGScx7htxfKUViPDNJ"
       },
@@ -26227,6 +26353,24 @@
     },
     {
       "album": {
+        "name": "VIEL10",
+        "url": "https://open.spotify.com/album/1jgjo504dJyPyAdnruD0g3"
+      },
+      "artists": [
+        {
+          "name": "siovo",
+          "url": "https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197608,
+      "name": "VIEL10",
+      "url": "https://open.spotify.com/track/3rCsF9E5A7YBQXl5Y4usVh"
+    },
+    {
+      "album": {
         "name": "Vielleicht",
         "url": "https://open.spotify.com/album/0bksoauswiAoXUpLlPFZcv"
       },
@@ -27445,6 +27589,24 @@
     },
     {
       "album": {
+        "name": "Wenn du dann weg bist",
+        "url": "https://open.spotify.com/album/5OutEJHBJdzCcvm2Wyl08H"
+      },
+      "artists": [
+        {
+          "name": "JANKA",
+          "url": "https://open.spotify.com/artist/2hQq5kPUjPSNnI95WB6LK2"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209803,
+      "name": "Wenn du dann weg bist",
+      "url": "https://open.spotify.com/track/1PK2Z9ztmQ5OftJ12Pe7ZI"
+    },
+    {
+      "album": {
         "name": "Wenn du dich entfernst",
         "url": "https://open.spotify.com/album/6PwvDkM35yaGj7p7lKbs2M"
       },
@@ -27876,6 +28038,24 @@
       "duration_ms": 190210,
       "name": "wie gewohnt",
       "url": "https://open.spotify.com/track/3CqVlTbDzynkn00LO5PgM7"
+    },
+    {
+      "album": {
+        "name": "wie ich dich seh",
+        "url": "https://open.spotify.com/album/5hPNFDOgqC7i7qTJIxhMkJ"
+      },
+      "artists": [
+        {
+          "name": "AMBRA",
+          "url": "https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163119,
+      "name": "wie ich dich seh",
+      "url": "https://open.spotify.com/track/62frCZLAewgAgA7TnKCWPp"
     },
     {
       "album": {
@@ -28380,6 +28560,24 @@
       "duration_ms": 163359,
       "name": "Wo bist du",
       "url": "https://open.spotify.com/track/2UWuZkYZH9urjcC3UD4MtQ"
+    },
+    {
+      "album": {
+        "name": "Wo du bist",
+        "url": "https://open.spotify.com/album/2bzT88rPK0dvEJuCPURl6z"
+      },
+      "artists": [
+        {
+          "name": "FREDRIK",
+          "url": "https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190201,
+      "name": "Wo du bist",
+      "url": "https://open.spotify.com/track/1hqx9CkcxR4TfQWsRCu9xs"
     },
     {
       "album": {

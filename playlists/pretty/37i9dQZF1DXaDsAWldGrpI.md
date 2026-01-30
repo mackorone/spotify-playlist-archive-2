@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Megan Moroney
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,167 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,160 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 87 | [Write This Down \- Live](https://open.spotify.com/track/5AP4NeswU941cNkFxeloME) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [For The Last Time](https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB) | 3:31 |
 | 88 | [Body Like A Back Road \- 15 In A 30 Tour Live](https://open.spotify.com/track/2zqSCyJ3aeJRGqPrHuHClk) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Body Like A Back Road \(15 In A 30 Tour Live\)](https://open.spotify.com/album/2aO5dy6212d4dg93KXYF82) | 4:48 |
 | 89 | [\(If You're Not In It For Love\) I'm Outta Here! \- Live](https://open.spotify.com/track/3awAtCdmdZukTe4S0WGOz4) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 4:57 |
-| 90 | [Woman, Amen \- Live](https://open.spotify.com/track/5BCuz73OvAxzOQp54vWo85) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Live From Telluride](https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z) | 4:52 |
-| 91 | [Drinkin' Problem \- Live From The Palomino](https://open.spotify.com/track/3PfpOwE8tDp7tGy8oHiVaf) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Live From The Palomino](https://open.spotify.com/album/5Ck7OfACj7bJ99vRf2oY3T) | 3:52 |
+| 90 | [Drinkin' Problem \- Live From The Palomino](https://open.spotify.com/track/3PfpOwE8tDp7tGy8oHiVaf) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Live From The Palomino](https://open.spotify.com/album/5Ck7OfACj7bJ99vRf2oY3T) | 3:52 |
+| 91 | [Woman, Amen \- Live](https://open.spotify.com/track/5BCuz73OvAxzOQp54vWo85) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Live From Telluride](https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z) | 4:52 |
 | 92 | [21 Summer \- Live](https://open.spotify.com/track/49dulUPJIGiADT4YFygPKw) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Live At The Ryman](https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi) | 3:38 |
 | 93 | [One Bad Habit \- Live](https://open.spotify.com/track/459HlWTIWPXEPG5b6QXttu) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [One Bad Habit \(Live\)](https://open.spotify.com/album/2WHkHvzjILIUTrxNR7yq5Y) | 3:16 |
 | 94 | [Me and My Kind \- Live](https://open.spotify.com/track/01pn2Jr3H7j8VOKGTh4Ptf) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Me and My Kind \(Live\)](https://open.spotify.com/album/4mi8LU8Z2rUQcsQ4vKXswc) | 2:43 |

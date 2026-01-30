@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 538 likes - 33 songs - 1 hr 53 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 551 likes - 41 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,5 +41,13 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 31 | [Heute geh ich drauf](https://open.spotify.com/track/23nNSezQQ5f4GYcnkDmHiX) | [EKN\_0322](https://open.spotify.com/artist/2TzFfwjSStKVlmeexgGpK5) | [Heute geh ich drauf](https://open.spotify.com/album/3ZrFHe0uXTln9gL7JMqqFb) | 2:45 |
 | 32 | [Poison](https://open.spotify.com/track/3etMVsSrF9XZ4PbZKyvyQj) | [Noam Peri](https://open.spotify.com/artist/5jOb4IiotwIkHpg8wyRmzt) | [Poison](https://open.spotify.com/album/5hd5OYYmt8n6nkayRVVzqw) | 4:11 |
 | 33 | [The Voiceless](https://open.spotify.com/track/0vbPyXsxrJqxuj6AjiXKaF) | [Purple Microdot](https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4) | [The Voiceless](https://open.spotify.com/album/4Lq6CpG2nc0wFg6zRXxr4S) | 1:59 |
+| 34 | [Going South](https://open.spotify.com/track/6w8zHZXcVkR1ShBYgWa9wf) | [halucynation](https://open.spotify.com/artist/1siPPfl5m8kmN0quVdFfzL) | [Going South](https://open.spotify.com/album/76H9nf4nKGPSfxu2bTj2H6) | 3:02 |
+| 35 | [Let's Do It Again](https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Let's Do It Again](https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL) | 4:28 |
+| 36 | [Latina BB](https://open.spotify.com/track/3XqDTOzpLaSUFT2GPwbQW8) | [cami santiz](https://open.spotify.com/artist/5SqIDTS8ZHDtkIFZpS6G0S) | [Latina BB](https://open.spotify.com/album/19kXzogdcK0IQAKGUI3Je3) | 2:17 |
+| 37 | [Never Be The Same](https://open.spotify.com/track/61SyXYa2Qy6Jw321zNc8vl) | [Baby Booder](https://open.spotify.com/artist/34hbnab20NIQKBxBF3HyFY) | [FINKO I](https://open.spotify.com/album/3QOeK4p2AvLk07jAgqXXBu) | 2:28 |
+| 38 | [Guitar Talk](https://open.spotify.com/track/7mbal2GFI0GvBTchDj61bO) | [Randy Resnick](https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq) | [Guitar Talk](https://open.spotify.com/album/5UhF5qbdtztphs2f6wqpOa) | 2:48 |
+| 39 | [Why da World So Mean](https://open.spotify.com/track/0rXBIIjohzuLEQ2FMCa427) | [Kuntry Boi Movement](https://open.spotify.com/artist/00lZvwtVbwHs2FfWQNYnWW), [Jay Creez23](https://open.spotify.com/artist/04s72J53BqDmEd1Fnq3NSB) | [Fine Wine](https://open.spotify.com/album/5AQRASubuxHx5zu9vTags0) | 4:09 |
+| 40 | [Camgirl](https://open.spotify.com/track/5YXhWJnu9N8MWknVCROT4s) | [Dirty Heavens](https://open.spotify.com/artist/7oVjzuQ1XlgK3y5qCsEm3e) | [Camgirl](https://open.spotify.com/album/2AMBpnaYyvfBN9XRFNeZkt) | 4:08 |
+| 41 | [Falling into the Void](https://open.spotify.com/track/78cIrudzqU1eQGHoKG1ELh) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 3:56 |
 
-Snapshot ID: `AAAC8LO6F0XalfLvCg9sks7jKlepzJjl`
+Snapshot ID: `AAAC+Kt+a1zL9fwzoXZhVtddioEFXICx`

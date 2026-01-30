@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Laelou",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Benjamin Biolay",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -302,7 +302,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 185163,
       "name": "au lendemain",
       "url": "https://open.spotify.com/track/7vCljshKnwQYA3EA9TPz3X"
@@ -642,7 +642,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 313080,
       "name": "Comme je t'ai aim\u00e9",
       "url": "https://open.spotify.com/track/2Eek8Rh5baaDB3VBH2eqXR"
@@ -1466,6 +1466,24 @@
       "duration_ms": 239590,
       "name": "IL N'A DIEU QUE POUR ELLE",
       "url": "https://open.spotify.com/track/2TCexzMXhtEMrO7NT6QMQk"
+    },
+    {
+      "album": {
+        "name": "Il neige sur la mer",
+        "url": "https://open.spotify.com/album/6VOmkzlAf10WK2U5TjAAL3"
+      },
+      "artists": [
+        {
+          "name": "Ys\u00e9",
+          "url": "https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209200,
+      "name": "Il neige sur la mer",
+      "url": "https://open.spotify.com/track/1Dim0Di4nKfRrGeh3Qv2pM"
     },
     {
       "album": {
@@ -3242,7 +3260,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 184000,
       "name": "Ma maison",
       "url": "https://open.spotify.com/track/6OvoSnPWS3rABAurxz3mp3"
@@ -3502,6 +3520,24 @@
       "duration_ms": 176732,
       "name": "N'importe quoi",
       "url": "https://open.spotify.com/track/7Auw0vXuqafNZGYmBpU4PX"
+    },
+    {
+      "album": {
+        "name": "Normaux",
+        "url": "https://open.spotify.com/album/6dBDgQ9vU9GRSpojDlHKw8"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Des Longchamps",
+          "url": "https://open.spotify.com/artist/48wxYtSTJqSdqxsV1z473V"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261280,
+      "name": "Normaux",
+      "url": "https://open.spotify.com/track/3ZZF7woF6PRrOomKbH6Ssz"
     },
     {
       "album": {
@@ -3779,6 +3815,24 @@
     },
     {
       "album": {
+        "name": "playlist",
+        "url": "https://open.spotify.com/album/2UFX0Sh4g952XlqbJcr46l"
+      },
+      "artists": [
+        {
+          "name": "Persephone",
+          "url": "https://open.spotify.com/artist/1pAi5uMxhnL0M1BiktUcOl"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130727,
+      "name": "playlist",
+      "url": "https://open.spotify.com/track/3VunM8L63XtLS4KcCPG0WO"
+    },
+    {
+      "album": {
         "name": "Pluie de data",
         "url": "https://open.spotify.com/album/2iAXxsQJ0e9cT2Jy9c0amS"
       },
@@ -3974,7 +4028,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 253920,
       "name": "Regarder passer les trains",
       "url": "https://open.spotify.com/track/1Lmufi10VKuJumsI9KV2NQ"
@@ -4534,6 +4588,24 @@
       "duration_ms": 252413,
       "name": "Tout sera pardonn\u00e9",
       "url": "https://open.spotify.com/track/7JnXQ3NCIS9oPUQUgldHId"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Steve Ibrahim",
+          "url": "https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/2mJInqoONdxGcDDdf2A5Hb"
     },
     {
       "album": {

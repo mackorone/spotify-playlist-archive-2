@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 292182,
+  "num_followers": 292222,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXgAAAAAAAC2q0Hw9BYD6PO0+FIOn2Ax",
+  "snapshot_id": "aXlRgAAAAABbFS9N0fih0LvBTiOTB6aq",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 264560,
-      "name": "American Woman",
-      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Are You Gonna Go My Way",
         "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 191200,
       "name": "Heaven Help",
       "url": "https://open.spotify.com/track/0uHbPoDjquncfYsLt00Aj2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 264560,
+      "name": "American Woman",
+      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
     },
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 384133,
-      "name": "Thinking Of You",
-      "url": "https://open.spotify.com/track/4LU3LpgFCNdi8PE9PgnTZM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It Is Time For A Love Revolution",
         "url": "https://open.spotify.com/album/5ugsV4BRJytwgevWeJnJAB"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 309746,
       "name": "Dancin' Til Dawn",
       "url": "https://open.spotify.com/track/0J5xhsP8FsUCH5W6ZQLJJr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 384133,
+      "name": "Thinking Of You",
+      "url": "https://open.spotify.com/track/4LU3LpgFCNdi8PE9PgnTZM"
     },
     {
       "added_at": null,
@@ -299,6 +299,22 @@
       "duration_ms": 267116,
       "name": "Human",
       "url": "https://open.spotify.com/track/5HwyIGJ82WAAC49zsFoI8i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Is Time For A Love Revolution",
+        "url": "https://open.spotify.com/album/5ugsV4BRJytwgevWeJnJAB"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 259186,
+      "name": "I'll Be Waiting",
+      "url": "https://open.spotify.com/track/521r1faH9BQlyPVR5pMmXm"
     },
     {
       "added_at": null,
@@ -371,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It Is Time For A Love Revolution",
-        "url": "https://open.spotify.com/album/5n8PfxHoukvHzyRmzr1Eqb"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 259186,
-      "name": "I'll Be Waiting",
-      "url": "https://open.spotify.com/track/2HPVtKMWRlP1r9ODenvePM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lenny",
         "url": "https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU"
       },
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baptism",
-        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 161293,
-      "name": "Where Are We Runnin'?",
-      "url": "https://open.spotify.com/track/4ouIWkFspNZYFO87Gdufxb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backatown",
         "url": "https://open.spotify.com/album/5J26uchSALEhy9xwkdeV5a"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 221360,
       "name": "Something Beautiful",
       "url": "https://open.spotify.com/track/1ZESGzWrFSwXPplkscUsUR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baptism",
+        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 161293,
+      "name": "Where Are We Runnin'?",
+      "url": "https://open.spotify.com/track/4ouIWkFspNZYFO87Gdufxb"
     },
     {
       "added_at": null,

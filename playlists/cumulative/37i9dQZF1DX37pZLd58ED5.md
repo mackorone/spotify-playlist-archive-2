@@ -2,9 +2,9 @@
 
 ### [Mezzanotte Chill Rap](https://open.spotify.com/playlist/37i9dQZF1DX37pZLd58ED5)
 
-> Solo beat e rime avvolgenti\. Cover: Paky
+> Solo beat e rime avvolgenti\. Cover: Tony Boy
 
-298 songs - 15 hr 27 min
+299 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [IMMORTALE](https://open.spotify.com/track/73s6ijGUtexqEJGGLii98h) | [Voga](https://open.spotify.com/artist/6adzJ1E1UUrcSid2CsDZ6i) | [IMMORTALE](https://open.spotify.com/album/1rNXdaVwiTiUNOv0ZD9CPv) | 3:35 | 2025-11-28 | 2026-01-16 |
 | [Immortale \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/2bF1qPRPlrODKWFMGtQXq1) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Mr\. Fini](https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX) | 3:20 | 2022-04-28 |  |
 | [Immortale \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/3UZkuJS1tn3jNYHcxJcNzH) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Mr\. Fini](https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf) | 3:20 | 2023-03-17 | 2024-04-19 |
+| [In Eterno \(feat\. Davìdd & Abby 6ix\)](https://open.spotify.com/track/7tR388pXDiAPeupBaHRu4C) | [Myto](https://open.spotify.com/artist/7ArCICJwpNMHWiDMCXiEZO), [Davìdd](https://open.spotify.com/artist/7JE6E2Z7l9DouV5CRmNfuu), [Abby 6ix](https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P) | [In Eterno \(feat\. Davìdd & Abby 6ix\)](https://open.spotify.com/album/1EWnh9scXv0GXixkps3tWA) | 2:57 | 2026-01-29 |  |
 | [Incredibile \(feat\. Kaash Paige\)](https://open.spotify.com/track/0XpCSax9B6EUS2IEpo3FU6) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Il mio lato peggiore](https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8) | 3:40 | 2025-05-22 | 2025-07-11 |
 | [Indelebili](https://open.spotify.com/track/75Yzvfpj7uGrT9c39u4pvq) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:18 | 2024-01-12 | 2024-01-26 |
 | [IQOS \- feat\. Ernia](https://open.spotify.com/track/07gdXx27doa2tNadvelcpS) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [MULA](https://open.spotify.com/album/3eDMLC0gVgI6K1O9oMc686) | 2:40 | 2022-04-28 | 2022-06-01 |

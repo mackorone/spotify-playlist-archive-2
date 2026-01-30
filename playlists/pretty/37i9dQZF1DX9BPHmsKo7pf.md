@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 
 > Cele mai de succes 50 de hituri în România\. Cover: Ursaru, Gya
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,668 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,681 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 | 49 | [Porto](https://open.spotify.com/track/6vN06qrSQdZwnhpfJSVhNi) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om), [Tussin](https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb), [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Până mă întorc](https://open.spotify.com/album/6HI1hoU90ZqlFshN4m9GX1) | 2:13 |
 | 50 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 |
 
-Snapshot ID: `AAAAAK7ewgYojuMk1FD7TmWskHibxN9+`
+Snapshot ID: `AAAAAPNELKm6sxjwnjxVukqQ6kWdyDVf`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,059 likes - 70 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,073 likes - 70 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 | 37 | [De wedstrijd](https://open.spotify.com/track/5Dxa2mLRNttIlADdbUjY1e) | [Bram Vermeulen](https://open.spotify.com/artist/4ymKPNzHwzhCvJbOGWLviV) | [Voltooid Verleden Tijd](https://open.spotify.com/album/7qYL5WgJIzwEYCZszBG5vO) | 5:01 |
 | 38 | [Mooi Was Die Tijd](https://open.spotify.com/track/5IyD0833vUHAZG4w2TvsVq) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [Hollands Glorie](https://open.spotify.com/album/31fhPugCfBmbpfjQx64Zd1) | 4:07 |
 | 39 | [De Zee](https://open.spotify.com/track/256gv8gWTVbEI1SIhC5YlO) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [The Essential Total Touch & Trijntje Oosterhuis](https://open.spotify.com/album/4q59SeuZwxLtIt4izAQ0i8) | 4:32 |
-| 40 | [Het Is Een Nacht..\. \(Levensecht\)](https://open.spotify.com/track/1jnUXW29r0JgYRcQmC3gIp) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [Vagant](https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA) | [Verbazing](https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ) | 3:45 |
-| 41 | [Leun Op Mij](https://open.spotify.com/track/1AHSLMouCoEwrwNgQB92me) | [Ruth Jacott](https://open.spotify.com/artist/0NM27i2hSW1lbc7rYa5D6u) | [Alle 40 Goed](https://open.spotify.com/album/1ba5louPwSaXr0BBuHEjsc) | 3:57 |
+| 40 | [Leun Op Mij](https://open.spotify.com/track/1AHSLMouCoEwrwNgQB92me) | [Ruth Jacott](https://open.spotify.com/artist/0NM27i2hSW1lbc7rYa5D6u) | [Alle 40 Goed](https://open.spotify.com/album/1ba5louPwSaXr0BBuHEjsc) | 3:57 |
+| 41 | [Het Is Een Nacht..\. \(Levensecht\)](https://open.spotify.com/track/1jnUXW29r0JgYRcQmC3gIp) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [Vagant](https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA) | [Verbazing](https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ) | 3:45 |
 | 42 | [De Eerste Keer](https://open.spotify.com/track/06eICRFok9GhRifK25a5NH) | [Maxine & Franklin Brown](https://open.spotify.com/artist/4ptkAA3lQP6cGCAg7CVL8I) | [Hollandse Sterren \- Allermooiste Duetten](https://open.spotify.com/album/5spE8XeOx1BgP7JxGfH8Iz) | 2:38 |
 | 43 | [Liefde voor muziek](https://open.spotify.com/track/0epqiURh9kFqBVtuz9DJp2) | [Raymond Van Het Groenewoud](https://open.spotify.com/artist/535vUcywQfuPaygBIDziaY) | [Alle 40 Goed](https://open.spotify.com/album/43QtfDqQ4X2k5q6qwvs2MH) | 3:33 |
 | 44 | [Voltooid Verleden Tijd](https://open.spotify.com/track/4TH3WXOP0FcPm02PV81iOl) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv) | [Investigations](https://open.spotify.com/album/2we6AQIq54Xl7NcMP2l0Dl) | 5:46 |

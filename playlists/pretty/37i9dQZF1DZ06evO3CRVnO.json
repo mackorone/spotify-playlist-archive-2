@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 323564,
+  "num_followers": 323610,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXgAAAAAAAC79pNPtLzgN4fW/qM1/aMO",
+  "snapshot_id": "aXlRgAAAAACk28L/KR3DWa6660rUN1Ut",
   "tracks": [
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whole Lotta Red",
-        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 166234,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/08dz3ygXyFur6bL7Au8u8J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Playboi Carti",
         "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 235535,
       "name": "wokeuplikethis*",
       "url": "https://open.spotify.com/track/59J5nzL1KniFHnU120dQzt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whole Lotta Red",
+        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 166234,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/08dz3ygXyFur6bL7Au8u8J"
     },
     {
       "added_at": null,

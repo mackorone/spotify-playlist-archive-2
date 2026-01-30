@@ -1,6 +1,6 @@
 {
   "description": "Pop to fuel your gaming. Cover: KATSEYE",
-  "num_followers": 453612,
+  "num_followers": 453673,
   "original_name": "Ultimate Pop Gaming",
   "owner": {
     "name": "Spotify",
@@ -1721,22 +1721,6 @@
       "url": "https://open.spotify.com/track/5hy45ZHbIypFH2NsiEyc0Z"
     },
     {
-      "added_at": "2024-09-06 04:01:00",
-      "album": {
-        "name": "Fight Back: The Collection",
-        "url": "https://open.spotify.com/album/5DkR7Wn2rUWY5Hw9csN0ui"
-      },
-      "artists": [
-        {
-          "name": "NEFFEX",
-          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
-        }
-      ],
-      "duration_ms": 200571,
-      "name": "Fight Back",
-      "url": "https://open.spotify.com/track/6KigD0mlF4VGDYiSEzAyYw"
-    },
-    {
       "added_at": "2025-09-12 04:00:21",
       "album": {
         "name": "SISTER",
@@ -1755,6 +1739,22 @@
       "duration_ms": 190222,
       "name": "RADIO (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/06kFuqzhMk4E6IYeO0sTfx"
+    },
+    {
+      "added_at": "2024-09-06 04:01:00",
+      "album": {
+        "name": "Fight Back: The Collection",
+        "url": "https://open.spotify.com/album/5DkR7Wn2rUWY5Hw9csN0ui"
+      },
+      "artists": [
+        {
+          "name": "NEFFEX",
+          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
+        }
+      ],
+      "duration_ms": 200571,
+      "name": "Fight Back",
+      "url": "https://open.spotify.com/track/6KigD0mlF4VGDYiSEzAyYw"
     }
   ],
   "unique_name": "Ultimate Pop Gaming",

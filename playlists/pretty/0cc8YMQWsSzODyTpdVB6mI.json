@@ -1,12 +1,12 @@
 {
   "description": "Music around the world \u2708\ufe0f",
-  "num_followers": 50051,
+  "num_followers": 50056,
   "original_name": "Kitsun\u00e9 Musique Essentials (2026)",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "AAAMr4KBEzn/oWGcbdTB4OD3jqIbTUTR",
+  "snapshot_id": "AAAMsK+ATjR4fHtZ1hDa+f4GNyas+vHP",
   "tracks": [
     {
       "added_at": "2025-11-03 10:48:27",
@@ -1151,6 +1151,22 @@
       "duration_ms": 217000,
       "name": "Jackie B",
       "url": "https://open.spotify.com/track/6AriBfTagIjKVUov3WEwOa"
+    },
+    {
+      "added_at": "2026-01-29 21:47:47",
+      "album": {
+        "name": "Come Inside",
+        "url": "https://open.spotify.com/album/7GTVtTT8Myhphmnggl0rMo"
+      },
+      "artists": [
+        {
+          "name": "Chopper (UK)",
+          "url": "https://open.spotify.com/artist/3gjul6vtKTcNHsTwr87dIK"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Come Inside",
+      "url": "https://open.spotify.com/track/6ut6DhY4PU8WTxDCylYR7p"
     }
   ],
   "unique_name": "Kitsun\u00e9 Musique Essentials (2026)",

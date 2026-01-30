@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "musica per un inverno non proprio felice (ottobre in cover)",
+  "description": "musica per un inverno non proprio felice (fasma in cover)",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -2713,6 +2713,24 @@
     },
     {
       "album": {
+        "name": "ATTITUDINE COUNTRY",
+        "url": "https://open.spotify.com/album/3nd54XGPSNwaq9JacJ65rk"
+      },
+      "artists": [
+        {
+          "name": "Jack Out",
+          "url": "https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180457,
+      "name": "Attitudine Country",
+      "url": "https://open.spotify.com/track/2nxKXmEczRe90ZHsHKXqJ2"
+    },
+    {
+      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9"
       },
@@ -3588,6 +3606,24 @@
       "duration_ms": 154939,
       "name": "BlaBlaBla",
       "url": "https://open.spotify.com/track/14XKk6Ly4Os7O3KKMLBnfP"
+    },
+    {
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/4KPiY2q5OxfssGhZUUUyp0"
+      },
+      "artists": [
+        {
+          "name": "Sunken",
+          "url": "https://open.spotify.com/artist/167oxjyR82Rs8XinJirzvm"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147713,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/1TrmuW53npEjzFPTqBbybR"
     },
     {
       "album": {
@@ -10560,6 +10596,24 @@
       "duration_ms": 116269,
       "name": "FMSB",
       "url": "https://open.spotify.com/track/4kvwbG4d1b1plJCl4TPwl0"
+    },
+    {
+      "album": {
+        "name": "6 canzoni fatte a mano",
+        "url": "https://open.spotify.com/album/7plojj2nI99PeneCwfzHgo"
+      },
+      "artists": [
+        {
+          "name": "VOLPI",
+          "url": "https://open.spotify.com/artist/5wmojKMSezsXJ9pRUaVUJ7"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204571,
+      "name": "focaccia",
+      "url": "https://open.spotify.com/track/2XcZfhnRjXlbe3hx8iJems"
     },
     {
       "album": {
@@ -23209,6 +23263,24 @@
     },
     {
       "album": {
+        "name": "Redenzione",
+        "url": "https://open.spotify.com/album/3Tnz4Q6v8nau7uqairagFq"
+      },
+      "artists": [
+        {
+          "name": "Def",
+          "url": "https://open.spotify.com/artist/0KxwYP84fvKoG9dVGvAmRM"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147621,
+      "name": "Redenzione",
+      "url": "https://open.spotify.com/track/2boeluExEFqI9fMC9T6GJW"
+    },
+    {
+      "album": {
         "name": "Redline",
         "url": "https://open.spotify.com/album/6rJtv5AeDuIBqHMUmtLOJC"
       },
@@ -27925,6 +27997,24 @@
     },
     {
       "album": {
+        "name": "TACHICARDIA",
+        "url": "https://open.spotify.com/album/4aCAu4FbCpkH3O01hD7qdI"
+      },
+      "artists": [
+        {
+          "name": "blame",
+          "url": "https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154074,
+      "name": "TACHICARDIA",
+      "url": "https://open.spotify.com/track/4BB95kcvYvSUVMsgURD8Gu"
+    },
+    {
+      "album": {
         "name": "TAGLIA",
         "url": "https://open.spotify.com/album/1euv4gkkLDZwpAItZHPdSi"
       },
@@ -28208,7 +28298,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 192307,
       "name": "TEMPORALE",
       "url": "https://open.spotify.com/track/3CuQ98T2sMtTWpldllUMWn"
@@ -28684,7 +28774,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 169330,
       "name": "times of my life",
       "url": "https://open.spotify.com/track/6uI9KsHHXkHmpHFC0imxjv"
@@ -30152,7 +30242,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 151500,
       "name": "UP",
       "url": "https://open.spotify.com/track/2veZZfB2nTHuatY9tA77tp"

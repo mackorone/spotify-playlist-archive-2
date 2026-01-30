@@ -4421,6 +4421,28 @@
     },
     {
       "album": {
+        "name": "Lailak",
+        "url": "https://open.spotify.com/album/1X6pPEN1c75RG3peOiee2s"
+      },
+      "artists": [
+        {
+          "name": "SEAKAY",
+          "url": "https://open.spotify.com/artist/4VREcG0PUHSJosO9QsMjCN"
+        },
+        {
+          "name": "Jeffin Jestin",
+          "url": "https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215985,
+      "name": "Lailak",
+      "url": "https://open.spotify.com/track/4KFgwYGc4wYhXIcHA6U5K5"
+    },
+    {
+      "album": {
         "name": "Lathiri Poothiri",
         "url": "https://open.spotify.com/album/4dm5XmOa1mE0LFTzKFbjtz"
       },

@@ -1,13 +1,29 @@
 {
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover:  Ndarboy Genk",
-  "num_followers": 237854,
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover:  Woro Widowati",
+  "num_followers": 237944,
   "original_name": "Boso Jowo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN5K1kYuaLJI1blL36V6nW+93ahw",
+  "snapshot_id": "AAAAAPjjMFO+wOuPQ4URqLGlupJQVBY0",
   "tracks": [
+    {
+      "added_at": "2026-01-29 19:00:18",
+      "album": {
+        "name": "Legi",
+        "url": "https://open.spotify.com/album/6xzWv81AXzJMzA2aM379tW"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "duration_ms": 296470,
+      "name": "Legi",
+      "url": "https://open.spotify.com/track/5jrowV0v26wlyN32IQeeXB"
+    },
     {
       "added_at": "2026-01-15 17:00:38",
       "album": {
@@ -975,22 +991,6 @@
       "duration_ms": 268363,
       "name": "KUSUMA WIJAYA",
       "url": "https://open.spotify.com/track/7h0nQqI84EJY26MHLcxmJo"
-    },
-    {
-      "added_at": "2026-01-08 17:05:28",
-      "album": {
-        "name": "Dada",
-        "url": "https://open.spotify.com/album/4o62iYJOehteyFmHPxsG09"
-      },
-      "artists": [
-        {
-          "name": "Aftershine",
-          "url": "https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL"
-        }
-      ],
-      "duration_ms": 338871,
-      "name": "Dada",
-      "url": "https://open.spotify.com/track/6WPSzmAt1fgTeq3P62Z3Vo"
     },
     {
       "added_at": "2026-01-08 17:05:28",

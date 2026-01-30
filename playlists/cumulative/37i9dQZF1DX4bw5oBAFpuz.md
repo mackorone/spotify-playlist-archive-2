@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-612 songs - 1 day 10 hr 47 min
+613 songs - 1 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Castles](https://open.spotify.com/track/5tZWtGT65sMrDVPB5H444n) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Freya Ridings](https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd) | 3:31 | 2023-02-23 | 2025-08-31 |
 | [Catch & Release \- Deepend Remix](https://open.spotify.com/track/11BAVEGi1ivJ6JWLqKUNrZ) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [When The Lights Go Down](https://open.spotify.com/album/58QMygeIUrtywKMkasnDUk) | 3:15 | 2024-03-21 | 2024-04-19 |
 | [Catch & Release \- Deepend Remix](https://open.spotify.com/track/2OpEZpU0wW1spa6dBl0nK4) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Catch & Release \(Deluxe Edition\)](https://open.spotify.com/album/7dyBP3v1TAckCmUUbxpdt4) | 3:16 | 2024-04-11 | 2025-04-12 |
+| [Catch A Rainbow](https://open.spotify.com/track/2UdvthIbV4tJuCxXM1AWX2) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Catch A Rainbow](https://open.spotify.com/album/3eBm9UKivBxtlrSuSljTVB) | 2:34 | 2026-01-29 |  |
 | [Catch My Breath](https://open.spotify.com/track/31WRmxCQdDxtY4KVt7a8FL) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1cVpXZnVWHTDUuY8kW6x8M) | 3:12 | 2024-12-18 |  |
 | [Chained To The Rhythm](https://open.spotify.com/track/7qvxFz3JodM0A7xEM7k3YD) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 3:57 | 2024-03-21 | 2024-12-21 |
 | [Change the World](https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/0mXhAwNI5H6URJLPy0rXUe) | 3:54 | 2023-02-23 | 2024-04-19 |
@@ -310,7 +311,7 @@
 | [Lost](https://open.spotify.com/track/52jbePNbsAq0jYQThjKI9y) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [How Would It Feel](https://open.spotify.com/album/3ZGIUHyrzEsvkE6e6OQAOd) | 3:16 | 2023-02-23 | 2024-03-26 |
 | [Lost In You](https://open.spotify.com/track/7ACj74w6uo8Zi2TYZXWk9m) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Actually, I Can.](https://open.spotify.com/album/0L0JffGJcm2ybbDcd6BJmO) | 3:06 | 2023-02-23 | 2024-01-28 |
 | [Lost In You](https://open.spotify.com/track/7unsohvCybAQ55vfxMp5vX) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Actually, I Can.](https://open.spotify.com/album/4JXNlrGjAQUvx4qFA5Yban) | 3:06 | 2024-01-16 | 2024-04-19 |
-| [Louder](https://open.spotify.com/track/1F3tkkKZrYFxQJ9d8EKePh) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Louder](https://open.spotify.com/album/5sIGXhcUk3h0RyJVw0Mag3) | 3:49 | 2024-08-29 |  |
+| [Louder](https://open.spotify.com/track/1F3tkkKZrYFxQJ9d8EKePh) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Louder](https://open.spotify.com/album/5sIGXhcUk3h0RyJVw0Mag3) | 3:49 | 2024-08-29 | 2026-01-30 |
 | [Love Me Anyway \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0pwdJLLVxlJa1lnR9UeMZY) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Hurts 2B Human](https://open.spotify.com/album/6JKkXVEljQJ1wKbRG5MywC) | 3:08 | 2023-02-23 |  |
 | [Love Me Like You Do](https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 4:13 | 2023-04-06 | 2025-04-29 |
 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 | 2025-05-19 |  |

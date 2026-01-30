@@ -12707,6 +12707,24 @@
     },
     {
       "album": {
+        "name": "Fluent",
+        "url": "https://open.spotify.com/album/0l7YP2Nebj6PF8CTYCaNlM"
+      },
+      "artists": [
+        {
+          "name": "Sofiloud",
+          "url": "https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128769,
+      "name": "Fluent",
+      "url": "https://open.spotify.com/track/1Ie6i08seXm2qBYyaPyvkI"
+    },
+    {
+      "album": {
         "name": "Flush It (feat. STRIO)",
         "url": "https://open.spotify.com/album/2rzuN5tq5ixw3Ttoskj3zP"
       },
@@ -31791,6 +31809,40 @@
     },
     {
       "album": {
+        "name": "Satisfaction (with KASIA, Moonphazes, Majewski) [Remix]",
+        "url": "https://open.spotify.com/album/6R8XewqCot8PEvbAv67rXk"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "KASIA",
+          "url": "https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV"
+        },
+        {
+          "name": "Moonphazes",
+          "url": "https://open.spotify.com/artist/5B6a4tvHuhbxL5sNHRbbKH"
+        },
+        {
+          "name": "Majewski",
+          "url": "https://open.spotify.com/artist/7rddKaBLeToWjektrVnUCm"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182780,
+      "name": "Satisfaction (with KASIA, Moonphazes, Majewski) - Remix",
+      "url": "https://open.spotify.com/track/2G1nZCvN2y3qhjcQR9S2ki"
+    },
+    {
+      "album": {
         "name": "Save My Soul",
         "url": "https://open.spotify.com/album/4J1Ps7dEE45vqNdg15chm6"
       },
@@ -38422,6 +38474,36 @@
       "duration_ms": 162717,
       "name": "Turn The Lights Off",
       "url": "https://open.spotify.com/track/5TV7JnCTbwPD6yIVVFJrLb"
+    },
+    {
+      "album": {
+        "name": "Turn The Lights Off (Hypaton Remix)",
+        "url": "https://open.spotify.com/album/5qeGltARRRRuAQRZFunITS"
+      },
+      "artists": [
+        {
+          "name": "Just\u0117",
+          "url": "https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key"
+        },
+        {
+          "name": "Jaxstyle",
+          "url": "https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P"
+        },
+        {
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
+        },
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186093,
+      "name": "Turn The Lights Off (Hypaton Remix)",
+      "url": "https://open.spotify.com/track/0sbdU6J0TXPuRcSeIa7glU"
     },
     {
       "album": {

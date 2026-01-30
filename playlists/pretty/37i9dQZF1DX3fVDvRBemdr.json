@@ -1,15 +1,47 @@
 {
-  "description": "De nieuwste releases Hollands & Volks. Cover: Afro Bros, Billy Dans, Brace & Jeffrey Heesen",
-  "num_followers": 154780,
+  "description": "De nieuwste releases Hollands & Volks. Cover: Quido van de Graaf",
+  "num_followers": 154864,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG5K8fnJ+IGf6+3/eqPcoh9QI6r2",
+  "snapshot_id": "AAAAAPPZIkRWIOTQ4AdLrlGLrq/NIxt4",
   "tracks": [
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
+      "album": {
+        "name": "Eigen Schuld",
+        "url": "https://open.spotify.com/album/61Qr7dTzKj6UJkDcgv1vG7"
+      },
+      "artists": [
+        {
+          "name": "Quido van de Graaf",
+          "url": "https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj"
+        }
+      ],
+      "duration_ms": 167752,
+      "name": "Eigen Schuld",
+      "url": "https://open.spotify.com/track/1AHGfEp4zcjYK9cjj6W1vT"
+    },
+    {
+      "added_at": "2026-01-29 23:00:44",
+      "album": {
+        "name": "Al Heb Je Niets",
+        "url": "https://open.spotify.com/album/5wmuQkePwbFb0FS0cJuJSE"
+      },
+      "artists": [
+        {
+          "name": "Ammar",
+          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
+        }
+      ],
+      "duration_ms": 152458,
+      "name": "Al Heb Je Niets",
+      "url": "https://open.spotify.com/track/6cKvr0voNpYVq9i577qxoW"
+    },
+    {
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Meisje",
         "url": "https://open.spotify.com/album/3RddC9RIBIrGeS5VIGgRZS"
@@ -37,7 +69,7 @@
       "url": "https://open.spotify.com/track/0rRmWgbfX5My6XY0gTa6TF"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Spijt",
         "url": "https://open.spotify.com/album/1oJnhUDpKzf2y4uNIsQU7F"
@@ -57,7 +89,7 @@
       "url": "https://open.spotify.com/track/146feoWoNIhrAtPWfShQaS"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "De Tapster Uit Tijuana",
         "url": "https://open.spotify.com/album/43Xdl2v1kht5oRtsp8a6qL"
@@ -73,7 +105,23 @@
       "url": "https://open.spotify.com/track/3VKUZemyzO52vCdZrXl7A9"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
+      "album": {
+        "name": "Doe nog maar een rondje",
+        "url": "https://open.spotify.com/album/7agd9o31Gjkw9tq7mjA3mR"
+      },
+      "artists": [
+        {
+          "name": "Rick de Jong",
+          "url": "https://open.spotify.com/artist/2ew84Shb8k5evkctfSMu6v"
+        }
+      ],
+      "duration_ms": 165379,
+      "name": "Doe nog maar een rondje",
+      "url": "https://open.spotify.com/track/3qlOzPjaj14uVnf5MgyqrO"
+    },
+    {
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Mo\u00ebt Dat Nou",
         "url": "https://open.spotify.com/album/7F5D4dM8ANyl1zY5V7knze"
@@ -93,7 +141,23 @@
       "url": "https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
+      "album": {
+        "name": "Femme Fatale",
+        "url": "https://open.spotify.com/album/6YXxW3FMQCcdX4V3MUNunK"
+      },
+      "artists": [
+        {
+          "name": "Spang!",
+          "url": "https://open.spotify.com/artist/5RZqQNSyHP9Iovw5jC8S5r"
+        }
+      ],
+      "duration_ms": 154592,
+      "name": "Femme Fatale",
+      "url": "https://open.spotify.com/track/1boryOfIhzuquqa8MIOVm6"
+    },
+    {
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Droom Jij Over Mij Vannacht",
         "url": "https://open.spotify.com/album/7F3QzxZYm1dXmhjHctzsDy"
@@ -109,7 +173,7 @@
       "url": "https://open.spotify.com/track/4VqkzNrCmkv31nd7POoHWL"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Als Jij Liegt En Bedriegt",
         "url": "https://open.spotify.com/album/7wwbZQ4AVzPoZz9tzyp9TY"
@@ -125,7 +189,7 @@
       "url": "https://open.spotify.com/track/5BGoVSGmuyJPOi8bdSOdGb"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "In Mijn Hart (Kroegversie)",
         "url": "https://open.spotify.com/album/1troD6T0nGN6eOR9C30Sti"
@@ -145,7 +209,7 @@
       "url": "https://open.spotify.com/track/4z8HbFg43M9B2e1gU64ixE"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Alles of niets",
         "url": "https://open.spotify.com/album/0R2sOopMeg0bWwIuzQfZbE"
@@ -161,7 +225,7 @@
       "url": "https://open.spotify.com/track/1WOQlzRXJVHhDSxejGrvZj"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Avond Om Nooit Te Vergeten",
         "url": "https://open.spotify.com/album/6dRVAY0HwzhQ3aGoPRA5gJ"
@@ -177,7 +241,7 @@
       "url": "https://open.spotify.com/track/2tTB0L8u6pEjMQ1mdL1dLO"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Gekke Makelaar",
         "url": "https://open.spotify.com/album/6aZp52KbGn66Dy1gb0TItf"
@@ -193,7 +257,23 @@
       "url": "https://open.spotify.com/track/1619tucbCv9JfHFHrglvaN"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
+      "album": {
+        "name": "Als 'T Even Kan",
+        "url": "https://open.spotify.com/album/3tVyyyhfmFwaw0GeykwODN"
+      },
+      "artists": [
+        {
+          "name": "Joey Haasnoot",
+          "url": "https://open.spotify.com/artist/66jvtgufgNnilcm2lAAvGi"
+        }
+      ],
+      "duration_ms": 152380,
+      "name": "Als 'T Even Kan",
+      "url": "https://open.spotify.com/track/7LMRsQ06Ra9t9fOh0r6T75"
+    },
+    {
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Aan alle mooie meiden",
         "url": "https://open.spotify.com/album/61EAzTsWri7nqIAk67oaUN"
@@ -209,7 +289,7 @@
       "url": "https://open.spotify.com/track/3R38jxs9G6mXXwEMXq8Df8"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Ik Kan Niet Zonder Jou",
         "url": "https://open.spotify.com/album/3pidvIjA9VGuaBonE9x2d4"
@@ -225,7 +305,7 @@
       "url": "https://open.spotify.com/track/1tR3n0WLdSBWcmRnkwNCP9"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Zullen We Nog \u00c9\u00e9n Keer",
         "url": "https://open.spotify.com/album/4kADNJHR2kIlFDaIwd2e38"
@@ -241,7 +321,7 @@
       "url": "https://open.spotify.com/track/49G3wD1wQh7xbHO84VYFvW"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Wij",
         "url": "https://open.spotify.com/album/4IPN4T6UCwQOYBc6l2MtLn"
@@ -257,7 +337,7 @@
       "url": "https://open.spotify.com/track/3aPf6fW1ChtzDLSUZ5oIbf"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "In Mijn Hart",
         "url": "https://open.spotify.com/album/1Px6Mv4OE8cXlcBQoeZGrQ"
@@ -273,7 +353,7 @@
       "url": "https://open.spotify.com/track/2GiENDK9r194HJxo2QuFh6"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Kroegentocht",
         "url": "https://open.spotify.com/album/1wl7El00tpdFrdCqC8kPMP"
@@ -297,7 +377,7 @@
       "url": "https://open.spotify.com/track/4La3UzkRZnOUmF4b5Dfton"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Echte Liefde Is Te Koop - Spotify Singles",
         "url": "https://open.spotify.com/album/64rWacyCKAYaSne3DqIUS9"
@@ -313,7 +393,7 @@
       "url": "https://open.spotify.com/track/5lTy97S8T5KglpeEKpCuKE"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Ga",
         "url": "https://open.spotify.com/album/2M0JttuEmG5ddskco6Ow0N"
@@ -329,7 +409,7 @@
       "url": "https://open.spotify.com/track/3Fz6oKQEwZThrwgDlfzeu6"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Ik Wil Je Kussen 2.0",
         "url": "https://open.spotify.com/album/5OI189MSn1DB016gIY4Khr"
@@ -345,7 +425,7 @@
       "url": "https://open.spotify.com/track/1uU3iQCiGsR8kq4DCq79KX"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Alles In Huis",
         "url": "https://open.spotify.com/album/57Hzw4Wuu4cb7NbzGS1WYO"
@@ -361,7 +441,7 @@
       "url": "https://open.spotify.com/track/2PCc6tQJWIhQSczPKDXsgW"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Een Dag Niet Gelachen",
         "url": "https://open.spotify.com/album/4rSAI90WhB1jvUv0xkAOMa"
@@ -377,7 +457,7 @@
       "url": "https://open.spotify.com/track/3f9ox3NTcvBctWb0VyPRdA"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Ik Wil Alleen Maar Dansen",
         "url": "https://open.spotify.com/album/57BjEM54otSwYNXzcAKGFv"
@@ -393,7 +473,7 @@
       "url": "https://open.spotify.com/track/6vYIbioSoZT5sHsm8fAgy3"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Kijk mij niet zo aan",
         "url": "https://open.spotify.com/album/3LDpqnA4m5vUmFnUGgGKA0"
@@ -409,7 +489,7 @@
       "url": "https://open.spotify.com/track/3mzaisAm0LHNAchlOB3Lc4"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Blijgelovig",
         "url": "https://open.spotify.com/album/3F7zWJwXTebj6nUkeZRzBK"
@@ -425,7 +505,7 @@
       "url": "https://open.spotify.com/track/50mYX8fyVezYXh84oFucUQ"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "We zijn er bijna",
         "url": "https://open.spotify.com/album/4GdGw6bjGeQRmgECPm2dhT"
@@ -449,7 +529,7 @@
       "url": "https://open.spotify.com/track/71YXtvQV4lZxzlOcP6uhIR"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Nog Een Jaar Erbij",
         "url": "https://open.spotify.com/album/7KiNXWi7ZfVlnwKnG1FNpe"
@@ -465,7 +545,7 @@
       "url": "https://open.spotify.com/track/2JqytFQ2dvYvtQpw16vFuR"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Geniet Zo Van Het Leven",
         "url": "https://open.spotify.com/album/61GZrvfpeJfFjCjNA1qXPm"
@@ -481,7 +561,7 @@
       "url": "https://open.spotify.com/track/3uVbuP7Bk3U4J9g6LLs0RY"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Duurste van de kaart",
         "url": "https://open.spotify.com/album/4tSl4UmNXSX37EwSu3cs6V"
@@ -497,7 +577,7 @@
       "url": "https://open.spotify.com/track/3r0Pmp6nhtMySYotqboJ5R"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/35HudikusrxZoQcuGFzPdM"
@@ -513,7 +593,7 @@
       "url": "https://open.spotify.com/track/6fODWXYbCne8bFDOCvmDJs"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "De Tijger Van De Kroeg",
         "url": "https://open.spotify.com/album/20w8yUkTuJDK1SG2Au2HQq"
@@ -533,7 +613,7 @@
       "url": "https://open.spotify.com/track/2pKg0EKeCyQbVgHoSStxfq"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Ik Mis Je",
         "url": "https://open.spotify.com/album/5HpNi57j4T6yJhrF2t4GRM"
@@ -549,7 +629,7 @@
       "url": "https://open.spotify.com/track/2Q6HUBRiD7hQoAz4EuMU9F"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Liefde In De Nacht",
         "url": "https://open.spotify.com/album/2TViVZDnRWKWvjYq8atIt6"
@@ -573,7 +653,7 @@
       "url": "https://open.spotify.com/track/29Oq2JIEG7Ma3mH82ELwes"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Jouw Hart Is Net Als Chocolade",
         "url": "https://open.spotify.com/album/0KxqTnGXEftujWSaQQ0vuL"
@@ -589,7 +669,7 @@
       "url": "https://open.spotify.com/track/1VoX76xqUdJEa9Yh4Fqqax"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Bel Me",
         "url": "https://open.spotify.com/album/7sUBVcJv1DcBX6OkMeHUIr"
@@ -605,7 +685,7 @@
       "url": "https://open.spotify.com/track/7fhJ54GpnkbBdoI4qzCqQC"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Is Vanavond Voor Jou En Mij",
         "url": "https://open.spotify.com/album/0vAOp9SL2i9SRD87VjIFIs"
@@ -621,7 +701,7 @@
       "url": "https://open.spotify.com/track/2UYXNamrzkTIjUXQeH7BSv"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Doei Doei Doei (Radio Edit)",
         "url": "https://open.spotify.com/album/72uIicpCeRTsa5ek46Q5qd"
@@ -637,7 +717,7 @@
       "url": "https://open.spotify.com/track/1nKXc9iMEu550RRcl6CQaF"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Alles Wat Je Hebt",
         "url": "https://open.spotify.com/album/4cQGe945WhmibMR0OyroLU"
@@ -653,7 +733,7 @@
       "url": "https://open.spotify.com/track/4WYo31iUrSgX3e7xx9aPjM"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Nog Een Nacht Met Jou",
         "url": "https://open.spotify.com/album/5o62VS3NEt1Xf5njq6erzD"
@@ -669,7 +749,7 @@
       "url": "https://open.spotify.com/track/0KsuZnsqDZCINlre1OI37K"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Wat is dan liefde",
         "url": "https://open.spotify.com/album/6Au6PqEXL1ZZoWCI9rT6cW"
@@ -689,7 +769,7 @@
       "url": "https://open.spotify.com/track/15BYJbkRtN87Ze8YwWP6Kq"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Later is morgen",
         "url": "https://open.spotify.com/album/1vLp7a244zr0vtKgYmwDsp"
@@ -709,7 +789,7 @@
       "url": "https://open.spotify.com/track/378mjBshMbo50ekhtSKRPH"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "We Gaan Kanon",
         "url": "https://open.spotify.com/album/2512t8DNofWAXXugIYXQYU"
@@ -729,7 +809,7 @@
       "url": "https://open.spotify.com/track/4oTKvbPhza5jNriMirnpFb"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Ben Je Verliefd?",
         "url": "https://open.spotify.com/album/52bg2ZQ67d6TXMVg6Tg2uh"
@@ -749,7 +829,7 @@
       "url": "https://open.spotify.com/track/0cvs1LuaTEAHmyayUg06Fy"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Zij komt van het kamp",
         "url": "https://open.spotify.com/album/4QmDUKJ7PQSNtR4UVEUoc5"
@@ -769,7 +849,7 @@
       "url": "https://open.spotify.com/track/1a73TFY2kytPMg6Vv5xGV5"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "1 Dag",
         "url": "https://open.spotify.com/album/1SIgkWVynAWhGZ1s5wyME6"
@@ -789,7 +869,7 @@
       "url": "https://open.spotify.com/track/4zQh8F0jxyUsKBdKjVvy2x"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Wat Is Er Mooier",
         "url": "https://open.spotify.com/album/0yxbv0QyrhFVz5TWcIOYTR"
@@ -805,7 +885,7 @@
       "url": "https://open.spotify.com/track/5y4jUFuzSbaFVdOGV928m1"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Gewoon Omdat Het Kan",
         "url": "https://open.spotify.com/album/4Igks3lKCilN0C2CONNSPi"
@@ -821,7 +901,7 @@
       "url": "https://open.spotify.com/track/5UkKbrz487JtcpIqwkvfuF"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Vreemde uit de kroeg",
         "url": "https://open.spotify.com/album/1IaTfBznir2X6ZWUOtycic"
@@ -837,7 +917,7 @@
       "url": "https://open.spotify.com/track/4WjLLhdrqjaCGgZ380aWlY"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Samen",
         "url": "https://open.spotify.com/album/7u6sZ1c9u4mDfTfhpgYNSu"
@@ -853,7 +933,7 @@
       "url": "https://open.spotify.com/track/04sY9vpQyzwQLG8ecyAJsp"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Gevangenis",
         "url": "https://open.spotify.com/album/7lCZYmgMOeMlgV4h5rpvDM"
@@ -869,7 +949,7 @@
       "url": "https://open.spotify.com/track/0bFpdupc6OTPxSjrRvN8IL"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Gelukkig",
         "url": "https://open.spotify.com/album/1tgndivifoeWt6Ierx1meq"
@@ -885,7 +965,7 @@
       "url": "https://open.spotify.com/track/54IC3MsaaeBkxY4GXKUixY"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Ik ben liever bij jou",
         "url": "https://open.spotify.com/album/1j5Zul6E4rz66WDyIkRyMN"
@@ -901,7 +981,7 @@
       "url": "https://open.spotify.com/track/4QeIOmYFxV3meRgJjiZM2f"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Speel die Dans 2.0",
         "url": "https://open.spotify.com/album/6wu3i1L5nQHxJ0vGtUxUwH"
@@ -917,7 +997,7 @@
       "url": "https://open.spotify.com/track/4WZbuJ2cA5DF31OEXGZ417"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Goud",
         "url": "https://open.spotify.com/album/4gaHOqxgETRFxWS0g2EX8Q"
@@ -933,7 +1013,7 @@
       "url": "https://open.spotify.com/track/2gf4tNTtfDh8FoREZGc1aS"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Dansen Met De Duivel",
         "url": "https://open.spotify.com/album/6JD2quoltCcUcemaonqNWT"
@@ -949,7 +1029,7 @@
       "url": "https://open.spotify.com/track/5K6hIAGtjKkleBDLgLK4Yz"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Faka",
         "url": "https://open.spotify.com/album/64ydkS99TJ8y9409oNwnWS"
@@ -973,7 +1053,7 @@
       "url": "https://open.spotify.com/track/3kTzNmEK4M6tCkA4fubGsB"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Houden Van Haten",
         "url": "https://open.spotify.com/album/5pTIrOVqiNEe0pi9pV333j"
@@ -993,7 +1073,7 @@
       "url": "https://open.spotify.com/track/1nVXy0NnlDUPFIeEGuoe9S"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Geouwehoer",
         "url": "https://open.spotify.com/album/73ZqNRlby912HDhC6XyIm0"
@@ -1009,7 +1089,7 @@
       "url": "https://open.spotify.com/track/482UpSEiMaKq7iOUxSvydd"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Koekoek",
         "url": "https://open.spotify.com/album/4jesaqifjQmG1diKzPiTZ0"
@@ -1029,23 +1109,7 @@
       "url": "https://open.spotify.com/track/3oG4L8ahaZKHnSZZbAEIjT"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
-      "album": {
-        "name": "Waarom Kan Het Leven Zo Gemeen Zijn",
-        "url": "https://open.spotify.com/album/32D5fvlYvBAI2Carsbacqe"
-      },
-      "artists": [
-        {
-          "name": "Frans Bauer",
-          "url": "https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW"
-        }
-      ],
-      "duration_ms": 175115,
-      "name": "Waarom Kan Het Leven Zo Gemeen Zijn",
-      "url": "https://open.spotify.com/track/74U65fkMdtaTUaj8tLn8fP"
-    },
-    {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "De Zon (Zal Weer Gaan Schijnen)",
         "url": "https://open.spotify.com/album/0dd56xP2Tb0CsL22OxwSvs"
@@ -1061,7 +1125,7 @@
       "url": "https://open.spotify.com/track/35FXdxNcDpdL3e9eY9nIxQ"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Toen Ik Je Zag",
         "url": "https://open.spotify.com/album/6IfFIgqJOuIcsJ82PBYIVt"
@@ -1077,7 +1141,7 @@
       "url": "https://open.spotify.com/track/5YAtYsrpeO9bz4ffrhrFSP"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Gekke Henkie",
         "url": "https://open.spotify.com/album/4YSlyuxYSVoI72Tmv0aoxU"
@@ -1093,7 +1157,7 @@
       "url": "https://open.spotify.com/track/0JgjTKDzat4XqdKE0efgMK"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Niemand hoeft te weten",
         "url": "https://open.spotify.com/album/5igcKSyFajYfNSwFkJCUAC"
@@ -1109,7 +1173,7 @@
       "url": "https://open.spotify.com/track/2en1p3o2X5F6svzYt8JYE5"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Vallen en Opstaan",
         "url": "https://open.spotify.com/album/72yWmmE7BLr2EfeAr3CaxW"
@@ -1125,7 +1189,7 @@
       "url": "https://open.spotify.com/track/2XKcXMzMJlnDGnI8AyuT41"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Dicht bij jou",
         "url": "https://open.spotify.com/album/5E9nRruHBHe65o4wabcuEZ"
@@ -1145,7 +1209,7 @@
       "url": "https://open.spotify.com/track/7qggfc9pgyuAhKrR0tS1j3"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Samsam",
         "url": "https://open.spotify.com/album/6KjjLhiWzrL9EyWU5U5iNc"
@@ -1161,7 +1225,7 @@
       "url": "https://open.spotify.com/track/0YeCJMAb2OkXPgikJnfDsL"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Het Maakt Niet Uit",
         "url": "https://open.spotify.com/album/3OSlCwhIjgO0VLkWgm2eOO"
@@ -1177,23 +1241,7 @@
       "url": "https://open.spotify.com/track/4CSAy7eHSSnMLIAkcCxeAC"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
-      "album": {
-        "name": "Bonte Avond",
-        "url": "https://open.spotify.com/album/2SHtV85XBq6Ox1IXZz1PQS"
-      },
-      "artists": [
-        {
-          "name": "Sven Versteeg",
-          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
-        }
-      ],
-      "duration_ms": 167085,
-      "name": "Bonte Avond",
-      "url": "https://open.spotify.com/track/3OwiBXdE9Rzu0hi3paV0w9"
-    },
-    {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Laat Mij Maar Alleen",
         "url": "https://open.spotify.com/album/6VXounYiBoSoqfnCEeGoog"
@@ -1209,23 +1257,7 @@
       "url": "https://open.spotify.com/track/1d2IjBwB3urTKuPp4vNmnC"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
-      "album": {
-        "name": "Ik Bewonder Jou",
-        "url": "https://open.spotify.com/album/6pXXpLRnCANGGxoVzfNSMJ"
-      },
-      "artists": [
-        {
-          "name": "Roy Donders",
-          "url": "https://open.spotify.com/artist/4UuqYrvax6M2JXhQ3lwB1L"
-        }
-      ],
-      "duration_ms": 138103,
-      "name": "Ik Bewonder Jou",
-      "url": "https://open.spotify.com/track/2XhkRtb9zt9vYRhGkDC756"
-    },
-    {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Stop de Tijd",
         "url": "https://open.spotify.com/album/7yhLj8tTL789nmI2K3Z4JS"
@@ -1241,7 +1273,7 @@
       "url": "https://open.spotify.com/track/5N2qpVfE6lxJhf3YPpzr0V"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Hey Macarena",
         "url": "https://open.spotify.com/album/0Eh10dyBOSqJEOH1ewQOmc"
@@ -1257,7 +1289,7 @@
       "url": "https://open.spotify.com/track/2RYuapffXKoJGQaH0uNxLa"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Met Je Moeder Niks Te Maken",
         "url": "https://open.spotify.com/album/6ZkNv9kkbPfcIiyQjtWmgI"
@@ -1273,7 +1305,7 @@
       "url": "https://open.spotify.com/track/3qi2R0sJMjEftAaSjpFTot"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Allerliefste",
         "url": "https://open.spotify.com/album/6lRxbo2HD5Fu3uiz5Tc4dI"
@@ -1289,27 +1321,7 @@
       "url": "https://open.spotify.com/track/6uk6kIWfGlDINFwJddRHuv"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
-      "album": {
-        "name": "Hey Buurvrouw",
-        "url": "https://open.spotify.com/album/56S2FGZ9O5mRXjIOZ9F9HM"
-      },
-      "artists": [
-        {
-          "name": "Wesley Klein",
-          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
-        },
-        {
-          "name": "Bolle Tito",
-          "url": "https://open.spotify.com/artist/20768ncxf9ouMj8IKAB6nc"
-        }
-      ],
-      "duration_ms": 136687,
-      "name": "Hey Buurvrouw",
-      "url": "https://open.spotify.com/track/1LaCmbx2Ovb0w7vzvd68aT"
-    },
-    {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "De Bon Is Van Mij",
         "url": "https://open.spotify.com/album/0GSCRfKg3ILfgpBloMDBe1"
@@ -1325,7 +1337,7 @@
       "url": "https://open.spotify.com/track/5H6tJM9ZWBGxp2DkVuRFvY"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "De Tent Moet Op Z'n Kop",
         "url": "https://open.spotify.com/album/4NBqEWNdp6HwnNymhFSYZJ"
@@ -1341,23 +1353,7 @@
       "url": "https://open.spotify.com/track/0mrH6rhI90NeoXXhI2xT6p"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
-      "album": {
-        "name": "Het Dak Komt Naar Beneden",
-        "url": "https://open.spotify.com/album/5y3DyXimFPsXHDY4Ek3grF"
-      },
-      "artists": [
-        {
-          "name": "Mike Peterson",
-          "url": "https://open.spotify.com/artist/4mxrXHWDcP8CifQMVEgY3E"
-        }
-      ],
-      "duration_ms": 157680,
-      "name": "Het Dak Komt Naar Beneden",
-      "url": "https://open.spotify.com/track/2rOVY0NdVSHJCfDkXWWe4r"
-    },
-    {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Kom Terug Bij Mij",
         "url": "https://open.spotify.com/album/2vZsIcPjW87vMW7kWxdRUQ"
@@ -1373,7 +1369,7 @@
       "url": "https://open.spotify.com/track/3Uy37WwVdix4fdmJSpvVTU"
     },
     {
-      "added_at": "2026-01-22 23:00:51",
+      "added_at": "2026-01-29 23:00:44",
       "album": {
         "name": "Avond 2.0",
         "url": "https://open.spotify.com/album/0BVSguaWW08ymbT39URufK"

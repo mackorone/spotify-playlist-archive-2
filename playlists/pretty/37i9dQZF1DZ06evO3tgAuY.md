@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 
 > This is Alex Favela\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,379 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,380 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 27 | [BRONCEADITA](https://open.spotify.com/track/5civOQC2cKVvOnhRg7zNUj) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R) | [AFROLANDIA](https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq) | 2:48 |
 | 28 | [Zendaya](https://open.spotify.com/track/0dTtxXu9BDh6PE7uwzpBZp) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Fama De Ingrata](https://open.spotify.com/album/0Gkerz0nQtgjTLhcwEVyqZ) | 3:08 |
 | 29 | [Vino Rosa](https://open.spotify.com/track/3ena8KYMBtkIqBkDSXYaJd) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Vino Rosa](https://open.spotify.com/album/1nCaK6GQAZmvzGZuWeyeqz) | 3:19 |
-| 30 | [GLOSS DIOR](https://open.spotify.com/track/4SZwDzN1qzgyDjvIHjakgu) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [GLOSS DIOR](https://open.spotify.com/album/2T0f2VwtKaFnqoqzJWjs0f) | 2:27 |
-| 31 | [Culichi Vibes](https://open.spotify.com/track/3jZ9JwUMPDvcbk3APnk7c9) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Culichi Vibes](https://open.spotify.com/album/4Qb6M1XyHrgR4zwlyPs4bS) | 3:09 |
+| 30 | [Culichi Vibes](https://open.spotify.com/track/3jZ9JwUMPDvcbk3APnk7c9) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Culichi Vibes](https://open.spotify.com/album/4Qb6M1XyHrgR4zwlyPs4bS) | 3:09 |
+| 31 | [GLOSS DIOR](https://open.spotify.com/track/4SZwDzN1qzgyDjvIHjakgu) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [GLOSS DIOR](https://open.spotify.com/album/2T0f2VwtKaFnqoqzJWjs0f) | 2:27 |
 | 32 | [RUMBA](https://open.spotify.com/track/14d1byXmKewvxEp0VyZmuI) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja) | [RUMBA](https://open.spotify.com/album/5ryvxfEZXOoyg6FRYWGBKm) | 3:01 |
 | 33 | [\#TBT](https://open.spotify.com/track/0WyC33yYFlOewzJbbN3WMD) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Sabine](https://open.spotify.com/artist/7yYwMLyDomWvLopr8vsJZK) | [AFROLANDIA](https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq) | 3:04 |
 | 34 | [Plastic Bombastic](https://open.spotify.com/track/367fC0Vpg30BYpzWiAAQnz) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4) | [Plastic Bombastic](https://open.spotify.com/album/4KFkHcErRET53EWyRnFWIu) | 2:58 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 38 | [Lujos Y Damitas](https://open.spotify.com/track/2KQ0C4lOzVFl5GhqjwIM01) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Jr Heguertty](https://open.spotify.com/artist/6KQXDUqaYVFJznNYMtjkpU) | [Lujos Y Damitas](https://open.spotify.com/album/59HNGHaqXy5l1ML6O7DKtU) | 2:34 |
 | 39 | [Bien Pilas \- En Vivo](https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Bien Pilas \(En Vivo\)](https://open.spotify.com/album/01XwB5pr3dKiLgahNUSvLg) | 1:58 |
 | 40 | [Será](https://open.spotify.com/track/1GdveMmBNitc3qL041jx2c) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Doña Soledad](https://open.spotify.com/album/6xu4RkKBWn5YM5DUyG8n4W) | 2:43 |
-| 41 | [FLAKA MORENA](https://open.spotify.com/track/2ILDGw3bCscmGDlhAB1Hfb) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [AFROLANDIA](https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq) | 2:34 |
-| 42 | [No Digas No](https://open.spotify.com/track/6GVXNywMiGRsVbVf46SxAZ) | [Rivs](https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [No Digas No](https://open.spotify.com/album/2rVjETCPkl6FEXKQJjN3IH) | 2:49 |
+| 41 | [No Digas No](https://open.spotify.com/track/6GVXNywMiGRsVbVf46SxAZ) | [Rivs](https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [No Digas No](https://open.spotify.com/album/2rVjETCPkl6FEXKQJjN3IH) | 2:49 |
+| 42 | [FLAKA MORENA](https://open.spotify.com/track/2ILDGw3bCscmGDlhAB1Hfb) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [AFROLANDIA](https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq) | 2:34 |
 | 43 | [BIEN PEDO](https://open.spotify.com/track/7sduQZMezgZjyUkPhZjz8a) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [MASARYK / BIEN PEDO](https://open.spotify.com/album/2xk9Rij0FAObYriAiybTmW) | 2:26 |
 | 44 | [El Uno Al 7 \- En Vivo](https://open.spotify.com/track/6xTQCejd4DEUcJyEHl3Ahj) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [El Uno Al 7 \(En Vivo\)](https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs) | 3:24 |
 | 45 | [Tonto](https://open.spotify.com/track/3Uvrcjvuj4BVQ9L5qLPjHg) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Tonto](https://open.spotify.com/album/0cxct2zd10F6AhClN2YWGo) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 49 | [El Lic \- En Vivo](https://open.spotify.com/track/4Wmzvb4GkzBBJdvhxkc89C) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [LA Live Session](https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX) | 2:04 |
 | 50 | [Dejate Llevar](https://open.spotify.com/track/2wYXO8oP8xJlDexYHSZaiR) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Abelardo Nevarez](https://open.spotify.com/artist/0gQZwaWhArhHMTrrT8ujSr) | [Dejate Llevar](https://open.spotify.com/album/6N5CbKacIelION4UEKfZAe) | 2:40 |
 
-Snapshot ID: `aXgAAAAAAAAkdsLmD5jI8beS9YKCVIjD`
+Snapshot ID: `aXlRgAAAAADU3cq/hBuMH25H/P4omd7/`

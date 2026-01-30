@@ -1403,6 +1403,24 @@
     },
     {
       "album": {
+        "name": "In De Olie",
+        "url": "https://open.spotify.com/album/0qlqsjGYkJvx7GIALA9ZDn"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134364,
+      "name": "In De Olie",
+      "url": "https://open.spotify.com/track/7pZRkJjCXGwP2h59EfFZxy"
+    },
+    {
+      "album": {
         "name": "Kaolo Beat",
         "url": "https://open.spotify.com/album/3i7Efs4zQJi66ihoNhQHGX"
       },
@@ -1676,6 +1694,28 @@
       "duration_ms": 172314,
       "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
       "url": "https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1"
+    },
+    {
+      "album": {
+        "name": "Lijntje",
+        "url": "https://open.spotify.com/album/7rSKhMvO7Ng4MYeLpElCvX"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Milolaathetlukken",
+          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171692,
+      "name": "Lijntje",
+      "url": "https://open.spotify.com/track/1q7xYZc69cGcUa3eqwf7tt"
     },
     {
       "album": {
@@ -2296,6 +2336,28 @@
       "duration_ms": 136500,
       "name": "Snelle Jelle",
       "url": "https://open.spotify.com/track/1FfJq2RjdJ8JY4jbgi3Omq"
+    },
+    {
+      "album": {
+        "name": "Sneuvelnation",
+        "url": "https://open.spotify.com/album/6OMovJWgCIvOQWdGvOUm9q"
+      },
+      "artists": [
+        {
+          "name": "Mr. Polska",
+          "url": "https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145375,
+      "name": "Sneuvelnation",
+      "url": "https://open.spotify.com/track/0z0aaDPZewba8t48p2zt9A"
     },
     {
       "album": {

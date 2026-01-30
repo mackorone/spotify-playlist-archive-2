@@ -4,7 +4,7 @@
 
 > vi leker ikke hits!
 
-518 songs - 1 day 1 hr 54 min
+520 songs - 1 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Fort Knox](https://open.spotify.com/track/1dbuAitJsBnF1Y5l78Jpn7) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Fort Knox](https://open.spotify.com/album/7op3Rc35czE3iEzLB03wTl) | 3:18 | 2025-08-21 |  |
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-06-27 | 2025-05-01 |
 | [found u/me](https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [found u/me](https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p) | 2:49 | 2025-08-21 |  |
+| [Frankenstein](https://open.spotify.com/track/0l8vP9dyXEiJ0onCWK7q5Z) | [Mileo](https://open.spotify.com/artist/3vXCUcFuOPgSbDJiwUlf8D) | [Frankenstein](https://open.spotify.com/album/3rsIYa1pLa4deIjMWmrgFW) | 2:48 | 2026-01-29 |  |
 | [Fredagsbarn](https://open.spotify.com/track/2eT6tyhlP3fTkK4lclgedn) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Fredagsbarn](https://open.spotify.com/album/7onxwLHD9g5dug7NNp4lPr) | 3:10 | 2025-05-08 | 2025-11-28 |
 | [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 | 2024-07-25 | 2025-05-01 |
 | [Funeral](https://open.spotify.com/track/3KcmK26eTYJ3Rz1Vb8qs5Z) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Funeral](https://open.spotify.com/album/2VoAHTnvBelhAFvUPN1Ghm) | 4:03 | 2026-01-22 |  |
@@ -410,6 +411,7 @@
 | [Slow Motion](https://open.spotify.com/track/2xijXb00w9o7Ol04MPCL6c) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Slow Motion](https://open.spotify.com/album/6AigIAiWriqJI4dgWjwFqf) | 2:31 | 2025-01-16 | 2025-05-23 |
 | [Smile](https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Smile](https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX) | 3:44 | 2025-01-02 | 2025-05-23 |
 | [Smutsiga Tankar](https://open.spotify.com/track/3FGjcrMU2Ocrn99AJJ9Kil) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Smutsiga Tankar](https://open.spotify.com/album/6EJ8lf1o9Fhyv3MeHVQwRE) | 2:00 | 2025-12-18 |  |
+| [Snap Back](https://open.spotify.com/track/3Hlsmqjvd4rUTIv9BBEJOM) | [Hedda Mae](https://open.spotify.com/artist/7zd05tehJ8h4VEpwxdo4g4) | [Snap Back](https://open.spotify.com/album/3Rd8qClO5dNnQDSGKnUVgT) | 2:52 | 2026-01-29 |  |
 | [so american](https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:49 | 2024-06-27 | 2025-03-28 |
 | [So cool](https://open.spotify.com/track/4OTbRLkWT2kzCyzsoDMbcC) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [So cool](https://open.spotify.com/album/2FUJFXPzPIpKeSzadgmz6U) | 3:42 | 2025-05-08 |  |
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-09-26 |  |

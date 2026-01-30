@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring bradeazy",
-  "num_followers": 1314288,
+  "num_followers": 1314210,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "I Got Feelings",
+        "url": "https://open.spotify.com/album/5VA1Nehnfdr4ao3Tr2XCrK"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 153321,
+      "name": "I Got Feelings",
+      "url": "https://open.spotify.com/track/3f5LJiAEHHZtW8bzF4qpNr"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "CODEINE",
         "url": "https://open.spotify.com/album/2uZwbhNezNHN6gQUzzFSok"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 195000,
       "name": "CODEINE",
       "url": "https://open.spotify.com/track/2G0g0aPbH53A0FNvmaNUEN"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "I Got Feelings",
-        "url": "https://open.spotify.com/album/5VA1Nehnfdr4ao3Tr2XCrK"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 153321,
-      "name": "I Got Feelings",
-      "url": "https://open.spotify.com/track/3f5LJiAEHHZtW8bzF4qpNr"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Tease",
-        "url": "https://open.spotify.com/album/7pkI6v49HH4NPz79BdvCvx"
-      },
-      "artists": [
-        {
-          "name": "N2N",
-          "url": "https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5"
-        }
-      ],
-      "duration_ms": 183500,
-      "name": "Tease",
-      "url": "https://open.spotify.com/track/6uyPxNh9jZSdwQkfaOF9FF"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "That's the Spot",
         "url": "https://open.spotify.com/album/2d3Y8KwRfNbfj96Low2s4H"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 182769,
       "name": "That's the Spot",
       "url": "https://open.spotify.com/track/6evSxq4h3VyxaPPz8udIhX"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Tease",
+        "url": "https://open.spotify.com/album/7pkI6v49HH4NPz79BdvCvx"
+      },
+      "artists": [
+        {
+          "name": "N2N",
+          "url": "https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "Tease",
+      "url": "https://open.spotify.com/track/6uyPxNh9jZSdwQkfaOF9FF"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1867,6 +1867,50 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Freedom (Body Ocean Remix)",
+        "url": "https://open.spotify.com/album/2g8I6KJqkdMtRmbwRjeT2O"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Body Ocean",
+          "url": "https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "duration_ms": 220952,
+      "name": "Freedom - Body Ocean Remix",
+      "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "No Excuse",
+        "url": "https://open.spotify.com/album/0ba2fTgEHRr79W7kHiW5sI"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Gamuel Sori",
+          "url": "https://open.spotify.com/artist/4lNfGpoJrHMGdxV4KoRsoi"
+        }
+      ],
+      "duration_ms": 134119,
+      "name": "No Excuse",
+      "url": "https://open.spotify.com/track/2qNQiJ5j7yhWWqDBDV3uEC"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Bus Stop Please (David Guetta & Morten Future Rave Remix)",
         "url": "https://open.spotify.com/album/4ZTjlo4DdfAH98ffFyT51r"
       },
@@ -1895,26 +1939,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "No Excuse",
-        "url": "https://open.spotify.com/album/0ba2fTgEHRr79W7kHiW5sI"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Gamuel Sori",
-          "url": "https://open.spotify.com/artist/4lNfGpoJrHMGdxV4KoRsoi"
-        }
-      ],
-      "duration_ms": 134119,
-      "name": "No Excuse",
-      "url": "https://open.spotify.com/track/2qNQiJ5j7yhWWqDBDV3uEC"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Lick It",
         "url": "https://open.spotify.com/album/4mT1c8jk8dlzROX7mSMvWD"
       },
@@ -1927,30 +1951,6 @@
       "duration_ms": 204695,
       "name": "Lick It",
       "url": "https://open.spotify.com/track/0JoaUkfqUIonNgxBq8wvwD"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Freedom (Body Ocean Remix)",
-        "url": "https://open.spotify.com/album/2g8I6KJqkdMtRmbwRjeT2O"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        },
-        {
-          "name": "Body Ocean",
-          "url": "https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay"
-        },
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        }
-      ],
-      "duration_ms": 220952,
-      "name": "Freedom - Body Ocean Remix",
-      "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2159,46 +2159,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Jump Into the Bag",
-        "url": "https://open.spotify.com/album/23FtHCvCmhMaDBiQYBiOaB"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "RELOVA",
-          "url": "https://open.spotify.com/artist/2Q5CZXc158WHwKp1rYOfSn"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Jump Into The Bag",
-      "url": "https://open.spotify.com/track/6k4pv23DvgfLplYTNQFdEX"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Anyway",
-        "url": "https://open.spotify.com/album/5BTornzfofZqUyBcN2HdhW"
-      },
-      "artists": [
-        {
-          "name": "Vluarr",
-          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
-        },
-        {
-          "name": "Merow",
-          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
-        }
-      ],
-      "duration_ms": 157968,
-      "name": "Anyway",
-      "url": "https://open.spotify.com/track/6vNs3dzBtzLec8eZJOWYhS"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "The Sound",
         "url": "https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj"
       },
@@ -2215,6 +2175,26 @@
       "duration_ms": 155147,
       "name": "The Sound",
       "url": "https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Jump Into the Bag",
+        "url": "https://open.spotify.com/album/23FtHCvCmhMaDBiQYBiOaB"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "RELOVA",
+          "url": "https://open.spotify.com/artist/2Q5CZXc158WHwKp1rYOfSn"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Jump Into The Bag",
+      "url": "https://open.spotify.com/track/6k4pv23DvgfLplYTNQFdEX"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2239,6 +2219,26 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Anyway",
+        "url": "https://open.spotify.com/album/5BTornzfofZqUyBcN2HdhW"
+      },
+      "artists": [
+        {
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+        },
+        {
+          "name": "Merow",
+          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
+        }
+      ],
+      "duration_ms": 157968,
+      "name": "Anyway",
+      "url": "https://open.spotify.com/track/6vNs3dzBtzLec8eZJOWYhS"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "PARTY",
         "url": "https://open.spotify.com/album/0sJoDFsVQN657EwQCXCChE"
       },
@@ -2255,6 +2255,26 @@
       "duration_ms": 128695,
       "name": "PARTY",
       "url": "https://open.spotify.com/track/7JjY69WrRWHtY09Wn9V1tv"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Whole Lotta Drugs / Over The Edge",
+        "url": "https://open.spotify.com/album/3Nh0Bjk3BCKi9YIjwbPAkn"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "duration_ms": 208550,
+      "name": "Whole Lotta Drugs",
+      "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2307,42 +2327,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Whole Lotta Drugs / Over The Edge",
-        "url": "https://open.spotify.com/album/3Nh0Bjk3BCKi9YIjwbPAkn"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 208550,
-      "name": "Whole Lotta Drugs",
-      "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Wrong Feels Right",
-        "url": "https://open.spotify.com/album/4JStjZisUl2g35HszGXxt5"
-      },
-      "artists": [
-        {
-          "name": "Format:B",
-          "url": "https://open.spotify.com/artist/5Am25tT39BPzreHngMkuux"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Wrong Feels Right",
-      "url": "https://open.spotify.com/track/6CVr6Fv98XSdryPTRNxvDy"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Pump (AC Slater Remix)",
         "url": "https://open.spotify.com/album/2lHuSOPxXJQ38afCptC9A2"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 257342,
       "name": "Pump (AC Slater Remix)",
       "url": "https://open.spotify.com/track/3Vax2tVN84lRW9Xl0DyPjs"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Wrong Feels Right",
+        "url": "https://open.spotify.com/album/4JStjZisUl2g35HszGXxt5"
+      },
+      "artists": [
+        {
+          "name": "Format:B",
+          "url": "https://open.spotify.com/artist/5Am25tT39BPzreHngMkuux"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Wrong Feels Right",
+      "url": "https://open.spotify.com/track/6CVr6Fv98XSdryPTRNxvDy"
     },
     {
       "added_at": "2026-01-09 16:39:37",

@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 793,
+  "num_followers": 794,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXgAAAAAAADgOXjqoxiJeol2uvYYb4Ry",
+  "snapshot_id": "aXlRgAAAAADt/CQy2m7cL8WKf4vJdyQS",
   "tracks": [
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 76850,
-      "name": "Lessons In Chemistry",
-      "url": "https://open.spotify.com/track/5uF3bldebcNNuyZaJliK5h"
+      "duration_ms": 103158,
+      "name": "Saint Luke's",
+      "url": "https://open.spotify.com/track/4LgoROt9rZS81HR1rlCjZd"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 103158,
-      "name": "Saint Luke's",
-      "url": "https://open.spotify.com/track/4LgoROt9rZS81HR1rlCjZd"
+      "duration_ms": 76850,
+      "name": "Lessons In Chemistry",
+      "url": "https://open.spotify.com/track/5uF3bldebcNNuyZaJliK5h"
     }
   ],
   "unique_name": "This Is Carlos Rafael Rivera",

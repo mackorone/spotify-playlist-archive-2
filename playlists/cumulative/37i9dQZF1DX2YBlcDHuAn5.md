@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-281 songs - 16 hr 32 min
+283 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Beautiful Life](https://open.spotify.com/track/08tISrq05HwXHhSHG0ABbQ) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [A Beautiful Life](https://open.spotify.com/album/79aSUbgxr9M52YmWOeNzz8) | 3:16 | 2026-01-22 |  |
 | [A Lot More Free](https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:18 | 2024-11-08 | 2025-02-21 |
 | [About Heartaches And Being Blue](https://open.spotify.com/track/6L9HQyvVHToVbjtXMjJqxw) | [Timo de Jong](https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x) | [About Heartaches And Being Blue](https://open.spotify.com/album/3br2mgNzpyHDkqpqTyINuG) | 2:33 | 2025-02-27 | 2025-03-14 |
+| [After Midnight \- feat\. Tyler Hubbard](https://open.spotify.com/track/6SDWFQJxKnwjYZuxWp2bFj) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [After Midnight \(feat\. Tyler Hubbard\)](https://open.spotify.com/album/23msMw5gDXUmSOQjleicfV) | 2:46 | 2026-01-29 |  |
 | [Aiming High](https://open.spotify.com/track/2awmxdY36BxGuK80wxHIFE) | [Quinty van der Geest](https://open.spotify.com/artist/2A2lTcBiJUYRfbMVtdtwW2) | [Aiming High](https://open.spotify.com/album/1oTL2vaBXveBK8KbrOfbzY) | 3:21 | 2025-02-20 | 2025-05-16 |
 | [Ain't Got Much](https://open.spotify.com/track/47r812zfBQ4Y9zU2etcurT) | [Laszlo Buring](https://open.spotify.com/artist/6kbW02tas61aq5jleDU4kz) | [Wild One](https://open.spotify.com/album/2BfGsBUD1wumwqxcYa7KgO) | 3:42 | 2025-12-18 | 2026-01-25 |
 | [Ain't No Running Around It](https://open.spotify.com/track/5AER6dbu2vF5W1fI8lcpoX) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Nomden](https://open.spotify.com/artist/3gcuehaPKk7YQiNG19k4fX) | [Ain't No Running Around It](https://open.spotify.com/album/4s7TyXJR2VHbobDIIp1JjE) | 2:52 | 2025-11-06 |  |
@@ -68,7 +69,7 @@
 | [Desert Bride](https://open.spotify.com/track/2ZEjpmYFQmKnkIcy5oChgW) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Desert Bride](https://open.spotify.com/album/36j7voqMKyHKDaKIIqVfWW) | 4:15 | 2024-07-04 | 2025-01-17 |
 | [Desire](https://open.spotify.com/track/5vuOY89Toj7pBC2YhLG8rX) | [Mattanja Joy Bradley](https://open.spotify.com/artist/6u9tyg6IXImKbuB5J12ush) | [Desire](https://open.spotify.com/album/351qO6P8FcABXFsYPUfdDf) | 4:58 | 2023-02-23 | 2023-03-31 |
 | [DNA](https://open.spotify.com/track/5K10PzXx9DEmFuqXKIcp4t) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [DNA](https://open.spotify.com/album/1zOm18cLXjrqjrYuHRUTBY) | 3:14 | 2023-09-07 | 2025-05-20 |
-| [Don't Wanna Be Nervous](https://open.spotify.com/track/437n4zz3tJe3ZIltuGy4Sk) | [MISTER & MRS](https://open.spotify.com/artist/5FO3joAbAp6AwuaTlEAnmS) | [Don't Wanna Be Nervous](https://open.spotify.com/album/2wJcgrBwI5dFwWEQDEXUfW) | 3:00 | 2025-10-23 |  |
+| [Don't Wanna Be Nervous](https://open.spotify.com/track/437n4zz3tJe3ZIltuGy4Sk) | [MISTER & MRS](https://open.spotify.com/artist/5FO3joAbAp6AwuaTlEAnmS) | [Don't Wanna Be Nervous](https://open.spotify.com/album/2wJcgrBwI5dFwWEQDEXUfW) | 3:00 | 2025-10-23 | 2026-01-30 |
 | [Dreamer](https://open.spotify.com/track/4YQubPuAYJpL7oXYCDvw0L) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Dreamer](https://open.spotify.com/album/1GKEaevMrPeFx6EbUkw9Sg) | 2:53 | 2023-02-23 | 2023-09-01 |
 | [Driving Like A Dream Car Should](https://open.spotify.com/track/5yeaDXxrodUEbYGxfDXZej) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl) | [Driving Like A Dream Car Should](https://open.spotify.com/album/0PUtR0ic8SMHYtj6CF77cQ) | 3:07 | 2023-04-27 | 2024-06-14 |
 | [Drowning in the Dark](https://open.spotify.com/track/2AAm5EYrQt2i7VUNgkGFIl) | [Leanne Serena](https://open.spotify.com/artist/2rYx1os7rYtwAHinxxtPuW) | [Drowning in the Dark](https://open.spotify.com/album/393liDotKoRriPUxGDsvb2) | 3:35 | 2024-08-29 | 2025-01-17 |
@@ -144,6 +145,7 @@
 | [Into The Wild](https://open.spotify.com/track/2Fu4lrs00YKBQ1sIHUT4Kl) | [Jennifer Ewbank](https://open.spotify.com/artist/4u4FMpLyYiyJzP3AULKdO8) | [Into The Wild](https://open.spotify.com/album/10JOoOnHzsKLifj0g1DTJy) | 2:45 | 2023-08-24 | 2025-01-17 |
 | [It Takes A Woman](https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [It Takes A Woman](https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR) | 4:06 | 2025-02-03 |  |
 | [It's So Easy](https://open.spotify.com/track/5cvgCBm4qIPpgnvn6hiZ25) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a) | [Alpine Gold](https://open.spotify.com/album/56epnGRSer3a3fTncdQMxK) | 3:16 | 2023-10-31 | 2025-02-04 |
+| [Joyride](https://open.spotify.com/track/7ow3RLEhU7vpiGAq26BFkN) | [MISTER & MRS](https://open.spotify.com/artist/5FO3joAbAp6AwuaTlEAnmS) | [Joyride](https://open.spotify.com/album/23UG1n839vfkWKbciCBIyA) | 2:37 | 2026-01-29 |  |
 | [Keep It Simple](https://open.spotify.com/track/30V2xXhFd3tEnxNo3suBKa) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Keep It Simple](https://open.spotify.com/album/7GazVXm5O9ETxTyNcvO6Yi) | 3:13 | 2023-11-09 | 2024-08-30 |
 | [Kingdom Of Mine](https://open.spotify.com/track/4nbxAUtL0FDDIv4GWLk40H) | [Timo de Jong](https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x) | [Kingdom Of Mine](https://open.spotify.com/album/4H41jpFZJXfteb9EmmtTWq) | 3:00 | 2024-01-25 | 2025-01-17 |
 | [Know Your Demons](https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Know Your Demons](https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8) | 3:26 | 2023-02-23 | 2024-03-13 |
@@ -210,7 +212,7 @@
 | [Russell County Line](https://open.spotify.com/track/7JQavxjJS7gEB6oxhhGyJj) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/0AAW8aytDh2xZiNUbaMySW) | 4:09 | 2024-04-11 | 2024-04-19 |
 | [Sam](https://open.spotify.com/track/79KtcWS9S7FhxVGmuyNLbe) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K), [Blue Grass Boogiemen](https://open.spotify.com/artist/0sP3ip1gi7QdAqpYiA4ZlA) | [Ride Again](https://open.spotify.com/album/3T0S5FrGoPeNbgCy2vMYEQ) | 3:06 | 2025-02-07 | 2025-03-14 |
 | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi) | 3:34 | 2025-02-03 |  |
-| [Scary Movie](https://open.spotify.com/track/3Z3icAo1sqdhqHQIVEDIJ0) | [Jennifer Ewbank](https://open.spotify.com/artist/4u4FMpLyYiyJzP3AULKdO8) | [Scary Movie](https://open.spotify.com/album/4HAbJtpr5QJobYQoveKLvd) | 3:03 | 2025-10-31 |  |
+| [Scary Movie](https://open.spotify.com/track/3Z3icAo1sqdhqHQIVEDIJ0) | [Jennifer Ewbank](https://open.spotify.com/artist/4u4FMpLyYiyJzP3AULKdO8) | [Scary Movie](https://open.spotify.com/album/4HAbJtpr5QJobYQoveKLvd) | 3:03 | 2025-10-31 | 2026-01-30 |
 | [See You Better](https://open.spotify.com/track/3xxZ3wbTJut0V7GBXIosmj) | [Gregory Ackerman](https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX) | [See You Better](https://open.spotify.com/album/02koeBYuztkAMuAHu23XKE) | 3:26 | 2023-02-23 | 2023-02-28 |
 | [Separate Cars](https://open.spotify.com/track/7hwOnTyzAl6Jf8XIKEKv2A) | [Michael Asnot](https://open.spotify.com/artist/1TfbvyIkRpQHY0JIsX4nuL), [Silke](https://open.spotify.com/artist/1qA7JNMyTJw6VmOFr8pyI7) | [Separate Cars](https://open.spotify.com/album/0irmnMY7pNUETNQfVa1A1l) | 3:04 | 2025-03-13 | 2025-05-11 |
 | [She Needs Lovin' Too](https://open.spotify.com/track/6QKflgRUcBe5zTleMM4T5z) | [Waylon](https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ) | [Time Jumper](https://open.spotify.com/album/20e8WxTOiceFOC1Oh5cN25) | 3:06 | 2025-11-13 |  |

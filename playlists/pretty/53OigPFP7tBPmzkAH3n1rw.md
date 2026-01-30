@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/53OigPFP7tBPmzkAH3n1rw.md) - [plain]
 
 > Listen to the Ginny &amp; Georgia Official Playlist\. <a href="https://www.netflix.com/title/81025696">Watch only on Netflix</a>
 
-[Netflix](https://open.spotify.com/user/netflixmusic) - 132,130 likes - 404 songs - 21 hr 17 min
+[Netflix](https://open.spotify.com/user/netflixmusic) - 132,140 likes - 404 songs - 21 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,7 +133,7 @@ pretty - [cumulative](/playlists/cumulative/53OigPFP7tBPmzkAH3n1rw.md) - [plain]
 | 123 | [Boomerang](https://open.spotify.com/track/7EFXzio24ra2XJLuL1yCkk) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 2:49 |
 | 124 | [Raincloud](https://open.spotify.com/track/0WP9Flk4HHAR2uApPPeZbz) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Raincloud](https://open.spotify.com/album/2OPphDwPHKIT7x6KvfKbSx) | 3:19 |
 | 125 | [How Villains Are Made](https://open.spotify.com/track/2yLE4fvbroJS8JNa3YA6ZB) | [Madalen Duke](https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU) | [Talking to Myself](https://open.spotify.com/album/0O8pIdrxaoGqPfKhM21Tgy) | 3:26 |
-| 126 | [Awoo \(feat\. Betta Lemme\)](https://open.spotify.com/track/6ScDqdxJQzPOLztBP8TEuC) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [Soft Animals](https://open.spotify.com/album/37Tazx3nMYc8ajIdsFgW7G) | 3:16 |
+| 126 | [Awoo \(feat\. Betta Lemme\)](https://open.spotify.com/track/6ScDqdxJQzPOLztBP8TEuC) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [Soft Animals](https://open.spotify.com/album/37Tazx3nMYc8ajIdsFgW7G) | 3:16 |
 | 127 | [The Angel And The Saint](https://open.spotify.com/track/4JATzwy5FXaVytfAXlNwt8) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [The Angel And The Saint](https://open.spotify.com/album/2PASgP6RCyjLjFzW574iKX) | 3:43 |
 | 128 | [sail away](https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [sail away](https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71) | 2:59 |
 | 129 | [Lost Gold](https://open.spotify.com/track/6l6ffyIdlI7E0skZFEc8WH) | [Karma Sun](https://open.spotify.com/artist/5b7hhGKvyVg1Grh4agpm93) | [Holding Out For Sunrise](https://open.spotify.com/album/2aLdmtu8qYNZt0Xmls0DjY) | 2:49 |
@@ -214,7 +214,7 @@ pretty - [cumulative](/playlists/cumulative/53OigPFP7tBPmzkAH3n1rw.md) - [plain]
 | 204 | [Way You Move](https://open.spotify.com/track/3K0cvmeSHchWZCDft0pCiw) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o), [Frye](https://open.spotify.com/artist/51c7EsUuMgAXsIlcabMgKG) | [That One Summer](https://open.spotify.com/album/7zCnxE5x8xkwJIaw71KEdh) | 4:06 |
 | 205 | [Eat Them Apples](https://open.spotify.com/track/5cCrDKEfAvOK1zczpk5y2S) | [Suzi Wu](https://open.spotify.com/artist/0AZ01mYEHgw7ZwKIbgEjBi) | [Eat Them Apples](https://open.spotify.com/album/16fiyXnTCMPVnElvKcv7j6) | 2:57 |
 | 206 | [Not A Murderer](https://open.spotify.com/track/4fDCjEDkVSoiwvf6V929gu) | [Lili Haydn](https://open.spotify.com/artist/19wVkkHXBiTMrlEJ3vWKIm), [Ben Bromfield](https://open.spotify.com/artist/3hz2vronPvlcXVnUASpQlT) | [Ginny & Georgia: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/02HsINt1u1cLio90RMpVJe) | 1:18 |
-| 207 | [Drinkee](https://open.spotify.com/track/0WE8YTl6GAVHnkfvMfci98) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Drinkee](https://open.spotify.com/album/2o1klTHRbovfM3ABxUcKnc) | 4:57 |
+| 207 | [Drinkee](https://open.spotify.com/track/0WE8YTl6GAVHnkfvMfci98) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Drinkee](https://open.spotify.com/album/2o1klTHRbovfM3ABxUcKnc) | 4:57 |
 | 208 | [Hey Bunny](https://open.spotify.com/track/7gGF1VVTajV0QUNp3kgqDE) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Hey Bunny](https://open.spotify.com/album/4tgWr0QT1UNjmDaeV2FOf8) | 2:58 |
 | 209 | [Good Friends](https://open.spotify.com/track/06GhiVgvtj5BvWpr6P9VuQ) | [Black Roses](https://open.spotify.com/artist/73hVQlPaNftCEyIyx2sKIp) | [Black Roses](https://open.spotify.com/album/0HFRRwRR0Y8rEdp54XEEsY) | 3:41 |
 | 210 | [Childs Play \(Hunter's Song\)](https://open.spotify.com/track/7JT0ds7fR3FHF8K5A7ezZh) | [Ginny & Georgia Cast](https://open.spotify.com/artist/2dbIN8yOmyKAKSsS7WC78R), [Lili Haydn](https://open.spotify.com/artist/19wVkkHXBiTMrlEJ3vWKIm), [Ben Bromfield](https://open.spotify.com/artist/3hz2vronPvlcXVnUASpQlT), [Mason Temple](https://open.spotify.com/artist/6NgIe34ZtgzwJdCG0vyP71), [Rebecca Ablack](https://open.spotify.com/artist/1SDdYQ8QPXhcR2lEX1ric1) | [Ginny & Georgia: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/02HsINt1u1cLio90RMpVJe) | 2:49 |

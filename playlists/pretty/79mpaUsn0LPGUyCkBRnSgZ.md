@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 663 songs - 1 day 19 hr 23 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 665 songs - 1 day 19 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -670,6 +670,8 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 660 | [Long Story Short](https://open.spotify.com/track/0JMyXs0Zj8hrr0OwvqSnxM) | [Black Milk](https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3) | [Tronic](https://open.spotify.com/album/5MbqqLcX0c1rtKtzKWKxCx) | 5:04 |
 | 661 | [The Ballad Of The RAA](https://open.spotify.com/track/3TU3qRbVu8jSv6IrfY0FoV) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Hometowns](https://open.spotify.com/album/5X27E81cePL9bNER4QEjmO) | 3:28 |
 | 662 | [Pure Morning](https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Without You I'm Nothing](https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT) | 4:14 |
-| 663 | [How the Shadow Is Clear \- Remastered](https://open.spotify.com/track/4dJV7QQkkqE8o6UrWp6poO) | [Oidopuaa Vladimir Oiun](https://open.spotify.com/artist/11D12wFV7ZA7kc83fO23Fv) | [Divine Music from Jail](https://open.spotify.com/album/1EfMnzM9K8lIXG394evveZ) | 2:06 |
+| 663 | [Court and Spark](https://open.spotify.com/track/2l8kERLPqgP7p94Duj9nqH) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 2:46 |
+| 664 | [How the Shadow Is Clear \- Remastered](https://open.spotify.com/track/4dJV7QQkkqE8o6UrWp6poO) | [Oidopuaa Vladimir Oiun](https://open.spotify.com/artist/11D12wFV7ZA7kc83fO23Fv) | [Divine Music from Jail](https://open.spotify.com/album/1EfMnzM9K8lIXG394evveZ) | 2:06 |
+| 665 | [Morning Morgantown](https://open.spotify.com/track/6jhvDPA1wPvyZgt4Sd0jV2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 3:13 |
 
-Snapshot ID: `AAAIh+JO7hR4MuZCnHIfHo4tKNBQsaID`
+Snapshot ID: `AAAIiuk4JcB90kayXR95oUVwGWFI2BPC`

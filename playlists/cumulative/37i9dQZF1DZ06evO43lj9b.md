@@ -4,7 +4,7 @@
 
 > This is Roy Ayers\. The essential tracks, all in one playlist.
 
-76 songs - 6 hr 0 min
+77 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Green and Gold](https://open.spotify.com/track/4Y2c8eFEjpo5Su3PYFSZaQ) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Virgin Ubiquity: Unreleased Recordings 1976 \- 1981](https://open.spotify.com/album/77xEWHwI4WAWyBszBTOQpU) | 4:52 | 2025-03-11 | 2025-08-31 |
 | [Green and Gold \- Delfonic Rework](https://open.spotify.com/track/42NO5tmaYgn8trdgg6UnhC) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Delfonic](https://open.spotify.com/artist/58TCXxlvoKiZrNowJsfGKP) | [Roy Ayers Delfonic Reworked \#1](https://open.spotify.com/album/1wbV73tH1qCoWODy2hHiFy) | 4:01 | 2025-09-01 |  |
 | [Hey Lover](https://open.spotify.com/track/0zE96LJrCv81I6N1zRaJSO) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Roy Ayers JID002](https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G) | 2:22 | 2025-03-11 |  |
-| [Holiday](https://open.spotify.com/track/3u8ykV0rczcfG93y0Evcl7) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Terri Wells](https://open.spotify.com/artist/6YBiK4t0ZuN8ACjIfByjqJ) | [Virgin Ubiquity II](https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6) | 7:07 | 2025-12-25 |  |
+| [Holiday](https://open.spotify.com/track/3u8ykV0rczcfG93y0Evcl7) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Terri Wells](https://open.spotify.com/artist/6YBiK4t0ZuN8ACjIfByjqJ) | [Virgin Ubiquity II](https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6) | 7:07 | 2025-12-25 | 2026-01-30 |
 | [Hummin' In The Sun](https://open.spotify.com/track/2kL5xYzPEBw45eW9oBwlX7) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Ubiquity](https://open.spotify.com/album/5yzOqiGbl3VgoJQF2jk198) | 3:44 | 2025-03-11 |  |
 | [I Am Your Mind \(Part 2\)](https://open.spotify.com/track/5BeYu3uJAMVZ5oyReLFupf) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Virgin Ubiquity II](https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6) | 8:35 | 2025-03-11 |  |
 | [In the Mood \(feat\. Kanye West & Roy Ayers\)](https://open.spotify.com/track/4v3AYUgQvwdbO9FY8tJBCo) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Eardrum](https://open.spotify.com/album/4gjttixmMAKMzzfrfGmDGr) | 3:55 | 2025-03-11 |  |
@@ -78,6 +78,7 @@
 | [Take A Look \(At Yourself\)](https://open.spotify.com/track/4bCU6tEbGHQcEwTC3ny2KY) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Jazzmatazz Volume 1](https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ) | 3:59 | 2025-03-11 |  |
 | [The Bad Vibes Intro](https://open.spotify.com/track/6oDnofOSeVbv8RJPg6rGpW) | [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Good Vibes / Bad Vibes](https://open.spotify.com/album/0c9e9wpCtoUd4laxFFSlby) | 0:32 | 2025-03-11 | 2025-05-27 |
 | [The Boogie Back](https://open.spotify.com/track/6IST9f4O5DtXuxal7RM7A3) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Change Up The Groove](https://open.spotify.com/album/2odkikUoXGKyYYi5rcY79M) | 4:40 | 2025-03-11 |  |
+| [The Most](https://open.spotify.com/track/3wzTaIqc8NtvVWXZmeQcV9) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Avery\*Sunshine](https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB) | 4:55 | 2026-01-30 |  |
 | [Vibin' W/Ayers](https://open.spotify.com/track/6AgUMpyUJyxj9hFwKezRFf) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Embrace](https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3) | 5:29 | 2025-03-11 |  |
 | [Wasting](https://open.spotify.com/track/3gX3MH4xNWXaQOinDORqZh) | [The Vision](https://open.spotify.com/artist/33nwA09TKiO0nWmUrI3E1I), [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM), [Kon](https://open.spotify.com/artist/4JbrK7cFQmSZ7tKBUbV3zi), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Vision](https://open.spotify.com/album/7GWwRPL4keJ9Xd460YHwR5) | 4:41 | 2025-03-11 |  |
 | [What You Won't Do For Love](https://open.spotify.com/track/0wCvzEcP4lYy9eM4IaKqsR) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [No Stranger To Love](https://open.spotify.com/album/2W87L99rdz5YxJL7OZhAT5) | 5:50 | 2025-05-10 |  |

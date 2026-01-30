@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 
 > The Hottest Arabic Music.<br/>Cover: Nassif Zeytoun
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,190 likes - 51 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,259 likes - 51 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 | 50 | [عم المجال](https://open.spotify.com/track/3MzJ2M9PzfCtaGMHAirjIM) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [عم المجال](https://open.spotify.com/album/5D3OSz8QKq8CkNkPaTh3rE) | 3:40 |
 | 51 | [Sabran](https://open.spotify.com/track/682Rtn75JGXSwDR8h0Fqae) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Sabran](https://open.spotify.com/album/17b30vKiI4h0MzAokaF83X) | 3:22 |
 
-Snapshot ID: `AAAAAOXHu+QsQsI4AIZ9zSCo6Y7f1VP7`
+Snapshot ID: `AAAAACWoyajIbzLJ0RjMp4YumA/ELAJV`

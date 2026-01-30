@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 61606,
+  "num_followers": 61621,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXgAAAAAAAC0FuWQCGzYG5FSCGnITaWl",
+  "snapshot_id": "aXlRgAAAAADLzGIkmJtI8/G+k6oqFWE3",
   "tracks": [
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 273800,
-      "name": "Able",
-      "url": "https://open.spotify.com/track/5up1i2KXfTgSF7x1dIJZQl"
+      "duration_ms": 242066,
+      "name": "The King Is In The Room",
+      "url": "https://open.spotify.com/track/7g5XHIyUEAOIAVgQvPx7uW"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 242066,
-      "name": "The King Is In The Room",
-      "url": "https://open.spotify.com/track/7g5XHIyUEAOIAVgQvPx7uW"
+      "duration_ms": 273800,
+      "name": "Able",
+      "url": "https://open.spotify.com/track/5up1i2KXfTgSF7x1dIJZQl"
     },
     {
       "added_at": null,

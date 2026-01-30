@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,157 songs - 2 day 2 hr 4 min
+1,159 songs - 2 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Back to Summer](https://open.spotify.com/track/4YdF8yF2eKomyElIdMD4Vr) | [Batu Onat](https://open.spotify.com/artist/7aOWtkVztALwRvuLWDPC0p) | [Back to Summer](https://open.spotify.com/album/585JNE5aaruJLObK5M6Srj) | 2:51 | 2023-09-22 | 2024-01-03 |
 | [Back To The Sun](https://open.spotify.com/track/1cd3tQ5tB7V81PQhDOWUfY) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Back To The Sun](https://open.spotify.com/album/7yQluEMVJbUbve5i1TT0RM) | 2:15 | 2024-07-05 | 2024-10-09 |
 | [Back Together](https://open.spotify.com/track/4keNkIArCVOlbvjd6uwvTm) | [EFA](https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy), [Lacey](https://open.spotify.com/artist/0jrXDZPbZ53MWEkAR5Gghz) | [Back Together](https://open.spotify.com/album/5cNPNZNIGwg3Zm00CcnB8h) | 2:14 | 2025-03-01 | 2025-08-25 |
+| [Bad Decisions](https://open.spotify.com/track/3ZcVGhvL3aBpi1xOEXQOCf) | [The kid in blue](https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS) | [Bad Decisions](https://open.spotify.com/album/7BE7KNkXja4YdvMFxibaBa) | 2:07 | 2026-01-29 |  |
 | [Bad Memories](https://open.spotify.com/track/4igpctg9YvMuatTMbmZEVv) | [SAINT.](https://open.spotify.com/artist/4PJPu8KnXK18EAZheLcxwK), [Aexcit](https://open.spotify.com/artist/2HpYCHV3bvQ71jmohAnBL8), [FORMNT](https://open.spotify.com/artist/2hJxBRtyaB2Z3aIvd8ucEB) | [Bad Memories](https://open.spotify.com/album/59kzU8OIVDK51UisOKERem) | 2:19 | 2025-06-22 |  |
 | [Bad Romance](https://open.spotify.com/track/2jsj5LogoxcqCnsyCb9Ksn) | [SAKKO](https://open.spotify.com/artist/6wgRPcEgacrIVqbDsg5t3o), [Adam Bowl](https://open.spotify.com/artist/5gmiZYhWcaElTDIKTEviT3) | [Bad Romance](https://open.spotify.com/album/3nIj5qPG72xSGoJ5nbNn9z) | 3:03 | 2024-06-09 | 2024-07-05 |
 | [Baddie](https://open.spotify.com/track/4b7akpitIiR9vJOiLbi06c) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Tanaka](https://open.spotify.com/artist/0RPM0FcHKPOu6ToI6bN4PE) | [Baddie](https://open.spotify.com/album/0sYvnqClfvOZPWxQkqiAM7) | 2:30 | 2025-02-03 | 2025-12-11 |
@@ -501,6 +502,7 @@
 | [Intertwined](https://open.spotify.com/track/62SXc1M84H1GIU4ifHcA0q) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Donner](https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z) | [Intertwined](https://open.spotify.com/album/4ipXOEryK5zoqyTWrCyyIH) | 3:16 | 2023-10-15 | 2024-02-03 |
 | [Into the Dark](https://open.spotify.com/track/0ZORDVvXQE7ntIIHK6gIxz) | [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [S3S](https://open.spotify.com/artist/0av9yMRjEnYSRdv3gKLxpq) | [Into the Dark](https://open.spotify.com/album/4hIZB9zWl5cSrKUwC3vCXJ) | 3:19 | 2025-03-14 | 2025-05-31 |
 | [Into Your Arms](https://open.spotify.com/track/2mmzQ424jrtTQ3uF8qeogS) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm) | [Into Your Arms](https://open.spotify.com/album/7M3NZNJZslpAsHpIoFxWOS) | 2:35 | 2024-03-10 | 2024-04-02 |
+| [Is It Over](https://open.spotify.com/track/24PwxrfNCpHBzNqyaSuXPF) | [Palmero](https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn) | [Is It Over](https://open.spotify.com/album/2O0A0inPyZ3fDVWoVZcuaF) | 2:43 | 2026-01-29 |  |
 | [Is It You](https://open.spotify.com/track/74ojEXQposuQPSYOsCCfDw) | [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX), [live to love](https://open.spotify.com/artist/4fthU4xExNwotqJYN2fq3w), [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Is It You](https://open.spotify.com/album/3sMG94vPnFrHBFl5MDNIVm) | 2:36 | 2025-08-01 | 2025-08-30 |
 | [Is This Love](https://open.spotify.com/track/67JnHOZ56PObAwCQ5PgbqL) | [Vinil](https://open.spotify.com/artist/4B9njk5H0MezHq02ZrF6SA) | [Is This Love](https://open.spotify.com/album/7MSS0FbspAe6iJeymdq7Fg) | 2:11 | 2023-09-22 | 2024-01-15 |
 | [Island In The Sun](https://open.spotify.com/track/2LOB6N7o0h9Q53JS50AJWn) | [BUSTGAARD](https://open.spotify.com/artist/451tFFjAS3oTsjT1DGOp8M), [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I), [Kin Alura](https://open.spotify.com/artist/5UbieAXGfZvPmsbbvdb3Xc) | [Island In The Sun](https://open.spotify.com/album/6P2gaGZ06slaH9R41fxDiy) | 2:28 | 2025-08-29 |  |

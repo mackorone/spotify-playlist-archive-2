@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. ",
-  "num_followers": 120141,
+  "num_followers": 120181,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-01-23 05:00:32",
       "album": {
-        "name": "Psychic Geography",
-        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
-      },
-      "artists": [
-        {
-          "name": "DOVS",
-          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
-        }
-      ],
-      "duration_ms": 218193,
-      "name": "Plants",
-      "url": "https://open.spotify.com/track/249vaomDI0QnrJlT5oqAtp"
-    },
-    {
-      "added_at": "2026-01-23 05:00:32",
-      "album": {
         "name": "HomeSoon",
         "url": "https://open.spotify.com/album/1uoyioN7yCRAUoVpgZQHHD"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 267500,
       "name": "Catsu",
       "url": "https://open.spotify.com/track/0lbQaP751MUEVtK0F4A43C"
+    },
+    {
+      "added_at": "2026-01-23 05:00:32",
+      "album": {
+        "name": "Psychic Geography",
+        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
+      },
+      "artists": [
+        {
+          "name": "DOVS",
+          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
+        }
+      ],
+      "duration_ms": 218193,
+      "name": "Plants",
+      "url": "https://open.spotify.com/track/249vaomDI0QnrJlT5oqAtp"
     },
     {
       "added_at": "2026-01-23 05:00:32",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-01-23 05:00:32",
       "album": {
+        "name": "Eagle 12'",
+        "url": "https://open.spotify.com/album/24YgJOL0WvIgNb4LgpEe9i"
+      },
+      "artists": [
+        {
+          "name": "Jeune Oji",
+          "url": "https://open.spotify.com/artist/1VNBimzFQgGsGyuqyKS3CQ"
+        }
+      ],
+      "duration_ms": 140689,
+      "name": "Eagle 12'",
+      "url": "https://open.spotify.com/track/5tVIqhVK0fJjdUANt2Rfrj"
+    },
+    {
+      "added_at": "2026-01-23 05:00:32",
+      "album": {
         "name": "Stepping Stoned",
         "url": "https://open.spotify.com/album/6AdsxLp9qUb1hfKoIS7F7S"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 365070,
       "name": "Stepping Stoned",
       "url": "https://open.spotify.com/track/1gJlMAmBj6NRmLZBjxHYZ3"
-    },
-    {
-      "added_at": "2026-01-23 05:00:32",
-      "album": {
-        "name": "Eagle 12'",
-        "url": "https://open.spotify.com/album/24YgJOL0WvIgNb4LgpEe9i"
-      },
-      "artists": [
-        {
-          "name": "Jeune Oji",
-          "url": "https://open.spotify.com/artist/1VNBimzFQgGsGyuqyKS3CQ"
-        }
-      ],
-      "duration_ms": 140689,
-      "name": "Eagle 12'",
-      "url": "https://open.spotify.com/track/5tVIqhVK0fJjdUANt2Rfrj"
     },
     {
       "added_at": "2026-01-23 05:00:32",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2026-01-23 05:00:32",
       "album": {
+        "name": "Apertura",
+        "url": "https://open.spotify.com/album/2U5BcONxBbrBG6V8ro4AjM"
+      },
+      "artists": [
+        {
+          "name": "Jeune Oji",
+          "url": "https://open.spotify.com/artist/1VNBimzFQgGsGyuqyKS3CQ"
+        }
+      ],
+      "duration_ms": 102000,
+      "name": "Flaco 92'",
+      "url": "https://open.spotify.com/track/42ZxKPCQg0oxBoZxj44p2m"
+    },
+    {
+      "added_at": "2026-01-23 05:00:32",
+      "album": {
         "name": "Mosaic",
         "url": "https://open.spotify.com/album/3BW7CgpmNbGYaxJncNrv9a"
       },
@@ -1359,38 +1375,6 @@
     {
       "added_at": "2026-01-23 05:00:32",
       "album": {
-        "name": "Apertura",
-        "url": "https://open.spotify.com/album/2U5BcONxBbrBG6V8ro4AjM"
-      },
-      "artists": [
-        {
-          "name": "Jeune Oji",
-          "url": "https://open.spotify.com/artist/1VNBimzFQgGsGyuqyKS3CQ"
-        }
-      ],
-      "duration_ms": 102000,
-      "name": "Flaco 92'",
-      "url": "https://open.spotify.com/track/42ZxKPCQg0oxBoZxj44p2m"
-    },
-    {
-      "added_at": "2026-01-23 05:00:32",
-      "album": {
-        "name": "tra",
-        "url": "https://open.spotify.com/album/5NjEozBiYuMnRz49cuM66T"
-      },
-      "artists": [
-        {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
-        }
-      ],
-      "duration_ms": 131253,
-      "name": "For Residue",
-      "url": "https://open.spotify.com/track/1FfSb6xviPGiWYn8SC9Yk3"
-    },
-    {
-      "added_at": "2026-01-23 05:00:32",
-      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/3VaVfO7eUl24zzrtuayksx"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 413977,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/2fRj10zHMEuzwNCGOirFmb"
+    },
+    {
+      "added_at": "2026-01-23 05:00:32",
+      "album": {
+        "name": "tra",
+        "url": "https://open.spotify.com/album/5NjEozBiYuMnRz49cuM66T"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "duration_ms": 131253,
+      "name": "For Residue",
+      "url": "https://open.spotify.com/track/1FfSb6xviPGiWYn8SC9Yk3"
     },
     {
       "added_at": "2026-01-23 05:00:32",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2026-01-23 05:00:32",
       "album": {
+        "name": "sleep with a cane",
+        "url": "https://open.spotify.com/album/15A8PqQpZkKhOhTVXs0XeA"
+      },
+      "artists": [
+        {
+          "name": "Klein",
+          "url": "https://open.spotify.com/artist/6chuFWw4BmHxOc3X0cC8Ct"
+        }
+      ],
+      "duration_ms": 768000,
+      "name": "it is what it is in d minor",
+      "url": "https://open.spotify.com/track/6A7pJa4Cgto6hbCRteGZBI"
+    },
+    {
+      "added_at": "2026-01-23 05:00:32",
+      "album": {
         "name": "Windmills (Salamanda Remix)",
         "url": "https://open.spotify.com/album/40cal5z6ThtaqoTlOGic4t"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 209200,
       "name": "Windmills - Salamanda Remix",
       "url": "https://open.spotify.com/track/2OED5zZJw9gNHeZWwm5wLg"
-    },
-    {
-      "added_at": "2026-01-23 05:00:32",
-      "album": {
-        "name": "sleep with a cane",
-        "url": "https://open.spotify.com/album/15A8PqQpZkKhOhTVXs0XeA"
-      },
-      "artists": [
-        {
-          "name": "Klein",
-          "url": "https://open.spotify.com/artist/6chuFWw4BmHxOc3X0cC8Ct"
-        }
-      ],
-      "duration_ms": 768000,
-      "name": "it is what it is in d minor",
-      "url": "https://open.spotify.com/track/6A7pJa4Cgto6hbCRteGZBI"
     },
     {
       "added_at": "2026-01-23 05:00:32",
@@ -1583,30 +1583,6 @@
     {
       "added_at": "2026-01-23 05:00:32",
       "album": {
-        "name": "Apofanie",
-        "url": "https://open.spotify.com/album/6mDeROE5QTMtx2tmmBSDfX"
-      },
-      "artists": [
-        {
-          "name": "Hior Chronik",
-          "url": "https://open.spotify.com/artist/0WwDqOLT2m5PuAsFGkEybC"
-        },
-        {
-          "name": "Natalia Tsupryk",
-          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
-        },
-        {
-          "name": "Asia Dojnikowska",
-          "url": "https://open.spotify.com/artist/6s2GQPcn5JLSy16vXmix1b"
-        }
-      ],
-      "duration_ms": 212626,
-      "name": "Yellowed Leaves Drift Down",
-      "url": "https://open.spotify.com/track/4Hjvdc6ikX3vqok41B30cB"
-    },
-    {
-      "added_at": "2026-01-23 05:00:32",
-      "album": {
         "name": "Distances",
         "url": "https://open.spotify.com/album/5tukJUioJ8GmhIpJW9ZccB"
       },
@@ -1627,6 +1603,30 @@
       "duration_ms": 337442,
       "name": "Outpost",
       "url": "https://open.spotify.com/track/6pkVbLNQkMHijQFhRwlScm"
+    },
+    {
+      "added_at": "2026-01-23 05:00:32",
+      "album": {
+        "name": "Apofanie",
+        "url": "https://open.spotify.com/album/6mDeROE5QTMtx2tmmBSDfX"
+      },
+      "artists": [
+        {
+          "name": "Hior Chronik",
+          "url": "https://open.spotify.com/artist/0WwDqOLT2m5PuAsFGkEybC"
+        },
+        {
+          "name": "Natalia Tsupryk",
+          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
+        },
+        {
+          "name": "Asia Dojnikowska",
+          "url": "https://open.spotify.com/artist/6s2GQPcn5JLSy16vXmix1b"
+        }
+      ],
+      "duration_ms": 212626,
+      "name": "Yellowed Leaves Drift Down",
+      "url": "https://open.spotify.com/track/4Hjvdc6ikX3vqok41B30cB"
     },
     {
       "added_at": "2026-01-23 05:00:32",
@@ -1667,54 +1667,6 @@
     {
       "added_at": "2026-01-23 05:00:32",
       "album": {
-        "name": "Ried-Brig",
-        "url": "https://open.spotify.com/album/0weTA3RmLBaGc9AOPkrOvl"
-      },
-      "artists": [
-        {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        }
-      ],
-      "duration_ms": 333542,
-      "name": "Ried-Brig",
-      "url": "https://open.spotify.com/track/0uvgTUYXQlyppvYnJ4sn87"
-    },
-    {
-      "added_at": "2026-01-23 05:00:32",
-      "album": {
-        "name": "Psychic Geography",
-        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
-      },
-      "artists": [
-        {
-          "name": "DOVS",
-          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
-        }
-      ],
-      "duration_ms": 424170,
-      "name": "Psychic Geography",
-      "url": "https://open.spotify.com/track/5C4xqcoBLB0chGUUs4Ia3E"
-    },
-    {
-      "added_at": "2026-01-23 05:00:32",
-      "album": {
-        "name": "sleep with a cane",
-        "url": "https://open.spotify.com/album/15A8PqQpZkKhOhTVXs0XeA"
-      },
-      "artists": [
-        {
-          "name": "Klein",
-          "url": "https://open.spotify.com/artist/6chuFWw4BmHxOc3X0cC8Ct"
-        }
-      ],
-      "duration_ms": 284776,
-      "name": "84 remy",
-      "url": "https://open.spotify.com/track/1FXCU1kluvciL2JrkDgAn5"
-    },
-    {
-      "added_at": "2026-01-23 05:00:32",
-      "album": {
         "name": "BLCK SUN",
         "url": "https://open.spotify.com/album/3xTbtTM3BSRIGxzWSMaEpc"
       },
@@ -1735,6 +1687,54 @@
     {
       "added_at": "2026-01-23 05:00:32",
       "album": {
+        "name": "Ried-Brig",
+        "url": "https://open.spotify.com/album/0weTA3RmLBaGc9AOPkrOvl"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        }
+      ],
+      "duration_ms": 333542,
+      "name": "Ried-Brig",
+      "url": "https://open.spotify.com/track/0uvgTUYXQlyppvYnJ4sn87"
+    },
+    {
+      "added_at": "2026-01-23 05:00:32",
+      "album": {
+        "name": "sleep with a cane",
+        "url": "https://open.spotify.com/album/15A8PqQpZkKhOhTVXs0XeA"
+      },
+      "artists": [
+        {
+          "name": "Klein",
+          "url": "https://open.spotify.com/artist/6chuFWw4BmHxOc3X0cC8Ct"
+        }
+      ],
+      "duration_ms": 284776,
+      "name": "84 remy",
+      "url": "https://open.spotify.com/track/1FXCU1kluvciL2JrkDgAn5"
+    },
+    {
+      "added_at": "2026-01-23 05:00:32",
+      "album": {
+        "name": "Psychic Geography",
+        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
+      },
+      "artists": [
+        {
+          "name": "DOVS",
+          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
+        }
+      ],
+      "duration_ms": 424170,
+      "name": "Psychic Geography",
+      "url": "https://open.spotify.com/track/5C4xqcoBLB0chGUUs4Ia3E"
+    },
+    {
+      "added_at": "2026-01-23 05:00:32",
+      "album": {
         "name": "PREY",
         "url": "https://open.spotify.com/album/380gcA5tfacYgprsHQVWrU"
       },
@@ -1747,26 +1747,6 @@
       "duration_ms": 264223,
       "name": "PREY",
       "url": "https://open.spotify.com/track/6i4S0r1lpnCfvm5WvxIOGF"
-    },
-    {
-      "added_at": "2026-01-23 05:00:32",
-      "album": {
-        "name": "Rediscovered Works",
-        "url": "https://open.spotify.com/album/6hkFBHpsump1QSxT5wicb0"
-      },
-      "artists": [
-        {
-          "name": "Blank & Jones",
-          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
-        },
-        {
-          "name": "Marc George",
-          "url": "https://open.spotify.com/artist/0MOrE3jGKPSVSOF2sUMXp4"
-        }
-      ],
-      "duration_ms": 371037,
-      "name": "Get Down - Rediscovered",
-      "url": "https://open.spotify.com/track/6nUPpNzCBT9F6SCig2JnhD"
     },
     {
       "added_at": "2026-01-23 05:00:32",
@@ -1787,22 +1767,22 @@
     {
       "added_at": "2026-01-23 05:00:32",
       "album": {
-        "name": "Oaxaca de Ju\u00e1rez",
-        "url": "https://open.spotify.com/album/3jhwQW4VvN7KUdRhzhhCxu"
+        "name": "Rediscovered Works",
+        "url": "https://open.spotify.com/album/6hkFBHpsump1QSxT5wicb0"
       },
       "artists": [
         {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+          "name": "Blank & Jones",
+          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
         },
         {
-          "name": "Tal Arditi",
-          "url": "https://open.spotify.com/artist/1JkIjayfiEEYvIaUYY4b7A"
+          "name": "Marc George",
+          "url": "https://open.spotify.com/artist/0MOrE3jGKPSVSOF2sUMXp4"
         }
       ],
-      "duration_ms": 278054,
-      "name": "Oaxaca de Ju\u00e1rez",
-      "url": "https://open.spotify.com/track/2K8QNiSGkPB8gKe8c188CA"
+      "duration_ms": 371037,
+      "name": "Get Down - Rediscovered",
+      "url": "https://open.spotify.com/track/6nUPpNzCBT9F6SCig2JnhD"
     },
     {
       "added_at": "2026-01-23 05:00:32",
@@ -1835,6 +1815,26 @@
       "duration_ms": 331774,
       "name": "O, Dark Mother",
       "url": "https://open.spotify.com/track/15JnGovP4ZAh3CWFRhRAYz"
+    },
+    {
+      "added_at": "2026-01-23 05:00:32",
+      "album": {
+        "name": "Oaxaca de Ju\u00e1rez",
+        "url": "https://open.spotify.com/album/3jhwQW4VvN7KUdRhzhhCxu"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        },
+        {
+          "name": "Tal Arditi",
+          "url": "https://open.spotify.com/artist/1JkIjayfiEEYvIaUYY4b7A"
+        }
+      ],
+      "duration_ms": 278054,
+      "name": "Oaxaca de Ju\u00e1rez",
+      "url": "https://open.spotify.com/track/2K8QNiSGkPB8gKe8c188CA"
     },
     {
       "added_at": "2026-01-23 05:00:32",
@@ -1915,22 +1915,18 @@
     {
       "added_at": "2026-01-23 05:00:32",
       "album": {
-        "name": "Lust 1",
-        "url": "https://open.spotify.com/album/18CnHf7xCMDu6Xmk7lpu2L"
+        "name": "Mango Feedback",
+        "url": "https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr"
       },
       "artists": [
         {
-          "name": "Voice Actor",
-          "url": "https://open.spotify.com/artist/6PsuUa5ijopH2T8rVzHSZc"
-        },
-        {
-          "name": "Squu",
-          "url": "https://open.spotify.com/artist/0nCnrZSTvBk1PZCtGioMRq"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 118309,
-      "name": "You",
-      "url": "https://open.spotify.com/track/6gp76uTmBFc2aJ5eXft916"
+      "duration_ms": 260612,
+      "name": "Watersynth",
+      "url": "https://open.spotify.com/track/05e2T423zwHe7557aNewF4"
     },
     {
       "added_at": "2026-01-23 05:00:32",
@@ -1951,6 +1947,26 @@
     {
       "added_at": "2026-01-23 05:00:32",
       "album": {
+        "name": "Lust 1",
+        "url": "https://open.spotify.com/album/18CnHf7xCMDu6Xmk7lpu2L"
+      },
+      "artists": [
+        {
+          "name": "Voice Actor",
+          "url": "https://open.spotify.com/artist/6PsuUa5ijopH2T8rVzHSZc"
+        },
+        {
+          "name": "Squu",
+          "url": "https://open.spotify.com/artist/0nCnrZSTvBk1PZCtGioMRq"
+        }
+      ],
+      "duration_ms": 118309,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6gp76uTmBFc2aJ5eXft916"
+    },
+    {
+      "added_at": "2026-01-23 05:00:32",
+      "album": {
         "name": "Tintswalo / Falling",
         "url": "https://open.spotify.com/album/7ml6sBkaqksNLKSXD3fmuV"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 209563,
       "name": "Tintswalo",
       "url": "https://open.spotify.com/track/1eAY1UPhUCXUiKsP5RXopE"
-    },
-    {
-      "added_at": "2026-01-23 05:00:32",
-      "album": {
-        "name": "Mango Feedback",
-        "url": "https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 260612,
-      "name": "Watersynth",
-      "url": "https://open.spotify.com/track/05e2T423zwHe7557aNewF4"
     },
     {
       "added_at": "2026-01-23 05:00:32",
@@ -2139,6 +2139,22 @@
     {
       "added_at": "2026-01-23 05:00:32",
       "album": {
+        "name": "Tempora",
+        "url": "https://open.spotify.com/album/5eKKhjC5MpsgaEACmSD17U"
+      },
+      "artists": [
+        {
+          "name": "Drum & Lace",
+          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
+        }
+      ],
+      "duration_ms": 482771,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/636q74X2qVCv5fBdE95woF"
+    },
+    {
+      "added_at": "2026-01-23 05:00:32",
+      "album": {
         "name": "Power Down the Heart",
         "url": "https://open.spotify.com/album/1tvoBGiMufBZK8Ky33Ljab"
       },
@@ -2155,22 +2171,6 @@
       "duration_ms": 221128,
       "name": "Power Down the Heart",
       "url": "https://open.spotify.com/track/1zh6auj09toxNxeux8cwQP"
-    },
-    {
-      "added_at": "2026-01-23 05:00:32",
-      "album": {
-        "name": "Tempora",
-        "url": "https://open.spotify.com/album/5eKKhjC5MpsgaEACmSD17U"
-      },
-      "artists": [
-        {
-          "name": "Drum & Lace",
-          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
-        }
-      ],
-      "duration_ms": 482771,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/636q74X2qVCv5fBdE95woF"
     },
     {
       "added_at": "2026-01-23 05:00:32",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2026-01-23 05:00:32",
       "album": {
-        "name": "Endling",
-        "url": "https://open.spotify.com/album/3i26oAnvfsqgFFo19IVlQV"
-      },
-      "artists": [
-        {
-          "name": "Qasim Naqvi",
-          "url": "https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D"
-        }
-      ],
-      "duration_ms": 220740,
-      "name": "Fires",
-      "url": "https://open.spotify.com/track/70gYrcaIKVDtKkwiDEzMwW"
-    },
-    {
-      "added_at": "2026-01-23 05:00:32",
-      "album": {
         "name": "Out of the Blur",
         "url": "https://open.spotify.com/album/4oquIG02DIGmU9JbBm9sDL"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 391750,
       "name": "Vessel",
       "url": "https://open.spotify.com/track/315MpPgQhp6FEXDcLhJXSZ"
+    },
+    {
+      "added_at": "2026-01-23 05:00:32",
+      "album": {
+        "name": "Endling",
+        "url": "https://open.spotify.com/album/3i26oAnvfsqgFFo19IVlQV"
+      },
+      "artists": [
+        {
+          "name": "Qasim Naqvi",
+          "url": "https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D"
+        }
+      ],
+      "duration_ms": 220740,
+      "name": "Fires",
+      "url": "https://open.spotify.com/track/70gYrcaIKVDtKkwiDEzMwW"
     },
     {
       "added_at": "2026-01-23 05:00:32",
@@ -2339,18 +2339,18 @@
     {
       "added_at": "2026-01-23 05:00:32",
       "album": {
-        "name": "sleep with a cane",
-        "url": "https://open.spotify.com/album/15A8PqQpZkKhOhTVXs0XeA"
+        "name": "Sigh In My Ear",
+        "url": "https://open.spotify.com/album/3SrHRw7oJL9lD7w7FHOcwV"
       },
       "artists": [
         {
-          "name": "Klein",
-          "url": "https://open.spotify.com/artist/6chuFWw4BmHxOc3X0cC8Ct"
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
         }
       ],
-      "duration_ms": 694118,
-      "name": "informa",
-      "url": "https://open.spotify.com/track/3RQ2w9TzOp4vjH9HrHTmkl"
+      "duration_ms": 264000,
+      "name": "Your First Armadillo",
+      "url": "https://open.spotify.com/track/6QdL6dNUv5v6HkpW7nnKVM"
     },
     {
       "added_at": "2026-01-23 05:00:32",
@@ -2371,18 +2371,34 @@
     {
       "added_at": "2026-01-23 05:00:32",
       "album": {
-        "name": "Sigh In My Ear",
-        "url": "https://open.spotify.com/album/3SrHRw7oJL9lD7w7FHOcwV"
+        "name": "sleep with a cane",
+        "url": "https://open.spotify.com/album/15A8PqQpZkKhOhTVXs0XeA"
       },
       "artists": [
         {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+          "name": "Klein",
+          "url": "https://open.spotify.com/artist/6chuFWw4BmHxOc3X0cC8Ct"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Your First Armadillo",
-      "url": "https://open.spotify.com/track/6QdL6dNUv5v6HkpW7nnKVM"
+      "duration_ms": 694118,
+      "name": "informa",
+      "url": "https://open.spotify.com/track/3RQ2w9TzOp4vjH9HrHTmkl"
+    },
+    {
+      "added_at": "2026-01-23 05:00:32",
+      "album": {
+        "name": "Statik",
+        "url": "https://open.spotify.com/album/7pkufIE73xUXW2A8qqXsid"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        }
+      ],
+      "duration_ms": 334589,
+      "name": "Ray",
+      "url": "https://open.spotify.com/track/0Hh09VwsjC67FlO12frFuU"
     },
     {
       "added_at": "2026-01-23 05:00:32",
@@ -2403,22 +2419,6 @@
       "duration_ms": 378291,
       "name": "Aquarium",
       "url": "https://open.spotify.com/track/0jFkXMZkTjM4ECnGKJBkIP"
-    },
-    {
-      "added_at": "2026-01-23 05:00:32",
-      "album": {
-        "name": "Statik",
-        "url": "https://open.spotify.com/album/7pkufIE73xUXW2A8qqXsid"
-      },
-      "artists": [
-        {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
-        }
-      ],
-      "duration_ms": 334589,
-      "name": "Ray",
-      "url": "https://open.spotify.com/track/0Hh09VwsjC67FlO12frFuU"
     },
     {
       "added_at": "2026-01-23 05:00:32",

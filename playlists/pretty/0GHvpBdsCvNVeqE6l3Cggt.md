@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,296 likes - 42 songs - 2 hr 42 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,296 likes - 43 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,23 +32,24 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 22 | [Enjoy the Silence \- 2006 Remaster](https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 6:12 |
 | 23 | [Permanent Record](https://open.spotify.com/track/3wP0TrbEyiedBDOdOUkDKT) | [GG Fearn](https://open.spotify.com/artist/1IBnZK5Ccb90mmCETbnWBx) | [Permanent Record](https://open.spotify.com/album/0c2SFBNduNDGXeEd99nT1U) | 3:26 |
 | 24 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 |
-| 25 | [A Song For The Lovers](https://open.spotify.com/track/7a90gal9tr3yS8bEXUvu8D) | [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Alone With Everybody](https://open.spotify.com/album/7rVo1K80X4sr88MxsD0vds) | 5:26 |
-| 26 | [Train Tracks](https://open.spotify.com/track/2F772qCRXyHYKvAKTIXXud) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [Enchanted](https://open.spotify.com/album/3ClfQCfOsysGWFKSQGN2bt) | 2:24 |
-| 27 | [Don't Speak](https://open.spotify.com/track/6JGQ98So2ik5GVI9ydQ2Yh) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Singles Collection](https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2) | 4:22 |
-| 28 | [Walkaway](https://open.spotify.com/track/3drQLSnECw7QSHMysFqFx7) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 3:51 |
-| 29 | [Lunar Soul](https://open.spotify.com/track/2JNS1Wvp2Te7qxdoGsibKl) | [Gobaith](https://open.spotify.com/artist/1EVXqPW8qgjyv1649P1t80) | [Lunar Soul](https://open.spotify.com/album/5RxwaPBm2DHD5b02JfaYcq) | 2:39 |
-| 30 | [Zombie](https://open.spotify.com/track/2IZZqH4K02UIYg5EohpNHF) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue](https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp) | 5:06 |
-| 31 | [Teenage Dirtbag](https://open.spotify.com/track/1w2b6f5Cgwy8ZmKdHUBSiW) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/2c2nyMqKUqDvFmCubBKhuW) | 4:01 |
-| 32 | [Beyond Reach](https://open.spotify.com/track/0hbF6ks1K7QReqX5MDQUsz) | [A Walking Miracle](https://open.spotify.com/artist/6RAo7PsvIZKBkg8wOshSUM) | [Beyond Reach](https://open.spotify.com/album/5j30B79NqODEF1OeFgiTdd) | 2:48 |
-| 33 | [Iris](https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 4:49 |
-| 34 | [White Flag](https://open.spotify.com/track/4kbz7rHVbyjKasuuqelccQ) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Life For Rent](https://open.spotify.com/album/0X9QCwbxIRm4MWKWnIHNaA) | 4:00 |
-| 35 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 |
-| 36 | [Ironic](https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [The Collection \(Standard Edition\)](https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg) | 3:48 |
-| 37 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Absolute Garbage](https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP) | 4:18 |
-| 38 | [Life Your Way](https://open.spotify.com/track/5Pw8oPIkppU49EQbeiucod) | [Empress Linoleum](https://open.spotify.com/artist/4FuR22rpxsrFeXd1VrimbB) | [Life Your Way](https://open.spotify.com/album/0cVUXU3L0dMwDwNnsSUUU7) | 3:20 |
-| 39 | [Już](https://open.spotify.com/track/7sqz4ZUtia39yBHwhKSUCK) | [Lina Pozar](https://open.spotify.com/artist/5KRKDDVgrT0djvP9Fu9tqT) | [Już](https://open.spotify.com/album/73fjgrSMpL4uvl6CtvLmwi) | 1:57 |
-| 40 | [A Blast From The Past](https://open.spotify.com/track/3eDJVt2Rlhns5HIwBE8iLu) | [Obsoletha](https://open.spotify.com/artist/6qDfjOqJJ4H8mMdGRDWwY7) | [Anemoia Vol.1](https://open.spotify.com/album/4jOEyatX7JUT0PikYwVInY) | 3:17 |
-| 41 | [Jump](https://open.spotify.com/track/4UM6wTL92CDDHpN3dzaVBu) | [Monkey The Dog](https://open.spotify.com/artist/1la7SQE26l6ZhwpOLx5QiC) | [Jump](https://open.spotify.com/album/6ZMr3nj1g6MKbNmexo4KcB) | 3:17 |
-| 42 | [Sei qualcosa di più](https://open.spotify.com/track/0AMRBYq1MSMhHfPrbfzizr) | [DREANN](https://open.spotify.com/artist/0F1JM34Bsg9sH9sPyh7hFX) | [Rumori di Felicità](https://open.spotify.com/album/6IylMld0SUGYQpBtCwna1f) | 3:23 |
+| 25 | [you accommodate my apprehensions](https://open.spotify.com/track/0Z16iELCJ6NeglcntvvzeY) | [pato](https://open.spotify.com/artist/287WS6RoocMlJfeVu5GiCg) | [you accommodate my apprehensions](https://open.spotify.com/album/4Hse10Gucm3iSkrBWUUpCT) | 3:30 |
+| 26 | [A Song For The Lovers](https://open.spotify.com/track/7a90gal9tr3yS8bEXUvu8D) | [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Alone With Everybody](https://open.spotify.com/album/7rVo1K80X4sr88MxsD0vds) | 5:26 |
+| 27 | [Train Tracks](https://open.spotify.com/track/2F772qCRXyHYKvAKTIXXud) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [Enchanted](https://open.spotify.com/album/3ClfQCfOsysGWFKSQGN2bt) | 2:24 |
+| 28 | [Don't Speak](https://open.spotify.com/track/6JGQ98So2ik5GVI9ydQ2Yh) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Singles Collection](https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2) | 4:22 |
+| 29 | [Walkaway](https://open.spotify.com/track/3drQLSnECw7QSHMysFqFx7) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 3:51 |
+| 30 | [Lunar Soul](https://open.spotify.com/track/2JNS1Wvp2Te7qxdoGsibKl) | [Gobaith](https://open.spotify.com/artist/1EVXqPW8qgjyv1649P1t80) | [Lunar Soul](https://open.spotify.com/album/5RxwaPBm2DHD5b02JfaYcq) | 2:39 |
+| 31 | [Zombie](https://open.spotify.com/track/2IZZqH4K02UIYg5EohpNHF) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue](https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp) | 5:06 |
+| 32 | [Teenage Dirtbag](https://open.spotify.com/track/1w2b6f5Cgwy8ZmKdHUBSiW) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/2c2nyMqKUqDvFmCubBKhuW) | 4:01 |
+| 33 | [Beyond Reach](https://open.spotify.com/track/0hbF6ks1K7QReqX5MDQUsz) | [A Walking Miracle](https://open.spotify.com/artist/6RAo7PsvIZKBkg8wOshSUM) | [Beyond Reach](https://open.spotify.com/album/5j30B79NqODEF1OeFgiTdd) | 2:48 |
+| 34 | [Iris](https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 4:49 |
+| 35 | [White Flag](https://open.spotify.com/track/4kbz7rHVbyjKasuuqelccQ) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Life For Rent](https://open.spotify.com/album/0X9QCwbxIRm4MWKWnIHNaA) | 4:00 |
+| 36 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 |
+| 37 | [Ironic](https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [The Collection \(Standard Edition\)](https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg) | 3:48 |
+| 38 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Absolute Garbage](https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP) | 4:18 |
+| 39 | [Life Your Way](https://open.spotify.com/track/5Pw8oPIkppU49EQbeiucod) | [Empress Linoleum](https://open.spotify.com/artist/4FuR22rpxsrFeXd1VrimbB) | [Life Your Way](https://open.spotify.com/album/0cVUXU3L0dMwDwNnsSUUU7) | 3:20 |
+| 40 | [Już](https://open.spotify.com/track/7sqz4ZUtia39yBHwhKSUCK) | [Lina Pozar](https://open.spotify.com/artist/5KRKDDVgrT0djvP9Fu9tqT) | [Już](https://open.spotify.com/album/73fjgrSMpL4uvl6CtvLmwi) | 1:57 |
+| 41 | [A Blast From The Past](https://open.spotify.com/track/3eDJVt2Rlhns5HIwBE8iLu) | [Obsoletha](https://open.spotify.com/artist/6qDfjOqJJ4H8mMdGRDWwY7) | [Anemoia Vol.1](https://open.spotify.com/album/4jOEyatX7JUT0PikYwVInY) | 3:17 |
+| 42 | [Jump](https://open.spotify.com/track/4UM6wTL92CDDHpN3dzaVBu) | [Monkey The Dog](https://open.spotify.com/artist/1la7SQE26l6ZhwpOLx5QiC) | [Jump](https://open.spotify.com/album/6ZMr3nj1g6MKbNmexo4KcB) | 3:17 |
+| 43 | [Sei qualcosa di più](https://open.spotify.com/track/0AMRBYq1MSMhHfPrbfzizr) | [DREANN](https://open.spotify.com/artist/0F1JM34Bsg9sH9sPyh7hFX) | [Rumori di Felicità](https://open.spotify.com/album/6IylMld0SUGYQpBtCwna1f) | 3:23 |
 
-Snapshot ID: `AAAj4FpyTenhXd32i6BtVlwYw3loHkxf`
+Snapshot ID: `AAAj4bVh7lu4or3y/dRV72jVZwyLqxrL`

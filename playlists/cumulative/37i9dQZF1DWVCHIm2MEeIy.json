@@ -3284,7 +3284,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 209523,
       "name": "Dun Dun",
       "url": "https://open.spotify.com/track/48XuAKxSzr3nJBeU1yf0KM"
@@ -4122,7 +4122,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-26",
+      "date_removed": null,
       "duration_ms": 455040,
       "name": "Ginger",
       "url": "https://open.spotify.com/track/16lQpZjF3WfsPOo7tJJ8rF"
@@ -5760,7 +5760,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 249573,
       "name": "Lately",
       "url": "https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K"
@@ -6664,6 +6664,36 @@
       "duration_ms": 239878,
       "name": "Makeda",
       "url": "https://open.spotify.com/track/4kar5EtR271EvY3FIFsnJP"
+    },
+    {
+      "album": {
+        "name": "Maphupho",
+        "url": "https://open.spotify.com/album/1fBr7po8qVZXagfIEtu9Lk"
+      },
+      "artists": [
+        {
+          "name": "Township Rebellion",
+          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
+        },
+        {
+          "name": "CIOZ",
+          "url": "https://open.spotify.com/artist/43B3rN5TKnZLpfusky1fnp"
+        },
+        {
+          "name": "Onset Music Group",
+          "url": "https://open.spotify.com/artist/191W2veGxkx4OXrhyN89RI"
+        },
+        {
+          "name": "Zandimaz",
+          "url": "https://open.spotify.com/artist/3VAR7yz7PjAVF2ApyufhdG"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201337,
+      "name": "Maphupho",
+      "url": "https://open.spotify.com/track/6yFnn5MFTyGEN4BAymbBJD"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Emily Makis",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Lens, Shapes, Takura",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -2198,7 +2198,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 171034,
       "name": "Been Here Before (feat. Klaudia Keziah)",
       "url": "https://open.spotify.com/track/5sUMWMNaf36HcPSJA7ztEm"
@@ -4272,7 +4272,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 280601,
       "name": "Closer",
       "url": "https://open.spotify.com/track/3YrsjzxSlmE0x7PS5k4hqG"
@@ -4876,7 +4876,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 202068,
       "name": "Dancing In My Sleep",
       "url": "https://open.spotify.com/track/4ZuB89GuIXL1pq0VCjP0n7"
@@ -6142,7 +6142,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 180000,
       "name": "Easy Fix",
       "url": "https://open.spotify.com/track/7fVYEk5ADeUvOWh3Dss3py"
@@ -6565,6 +6565,28 @@
     },
     {
       "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/21jLq6yVNuTvKFWjTGrsOr"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        {
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205517,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/297ySrktTXj5A0Zjc37GGM"
+    },
+    {
+      "album": {
         "name": "Every Time That I Land (Skibadee Version)",
         "url": "https://open.spotify.com/album/6vEGi0naSYvX8MWyPJOSJp"
       },
@@ -6790,7 +6812,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 160701,
       "name": "Facile",
       "url": "https://open.spotify.com/track/03zrWyC3lrmkoMyCOLK2hr"
@@ -8150,6 +8172,28 @@
       "duration_ms": 205671,
       "name": "Galvanize",
       "url": "https://open.spotify.com/track/1do4bX9hOYyP53We3hzC9g"
+    },
+    {
+      "album": {
+        "name": "Game Face",
+        "url": "https://open.spotify.com/album/3nEwNr3zL9a28WlXqpq8sW"
+      },
+      "artists": [
+        {
+          "name": "Blossom",
+          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "Game Face",
+      "url": "https://open.spotify.com/track/6kgXd7RL5jxU0BRk4C96yc"
     },
     {
       "album": {
@@ -10085,6 +10129,32 @@
     },
     {
       "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/2OtAdGwLY73ChCSO8IWOiR"
+      },
+      "artists": [
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        },
+        {
+          "name": "Sudley",
+          "url": "https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn"
+        },
+        {
+          "name": "Hedara",
+          "url": "https://open.spotify.com/artist/6lUauNyvHBjAp0tBFDiBNm"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/323rqeIcQxJCc0gZjYegUN"
+    },
+    {
+      "album": {
         "name": "I Can't Stop / Change",
         "url": "https://open.spotify.com/album/4gJhrwfEEdIkA5ZPjkD9bG"
       },
@@ -10162,7 +10232,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 166727,
       "name": "I Knew That This Was Love",
       "url": "https://open.spotify.com/track/2eGZxtHRkncnNmcFpgAkKR"
@@ -12002,7 +12072,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 148965,
       "name": "Like It (feat. Cristale & Wohdee)",
       "url": "https://open.spotify.com/track/62h1RiA0QOrJv1CSi464aT"
@@ -13046,7 +13116,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 181498,
       "name": "Maia Maia",
       "url": "https://open.spotify.com/track/2DCAWhnusZQoxC7BffLjGY"
@@ -13496,7 +13566,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 215172,
       "name": "Memories (Us Together)",
       "url": "https://open.spotify.com/track/1iAzRqZKtpwmcMYlxLOF0h"
@@ -13822,6 +13892,32 @@
       "duration_ms": 222171,
       "name": "Momentum",
       "url": "https://open.spotify.com/track/0Cbf9Ds2KVwdMWl2zkMiGF"
+    },
+    {
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/4BRNTcgZo6tys2xcN8r66H"
+      },
+      "artists": [
+        {
+          "name": "Lens",
+          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
+        },
+        {
+          "name": "Shapes",
+          "url": "https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw"
+        },
+        {
+          "name": "Takura",
+          "url": "https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/7yzWoFEY4JxXt9lbucfTCt"
     },
     {
       "album": {
@@ -15345,6 +15441,24 @@
     },
     {
       "album": {
+        "name": "One Last Tear",
+        "url": "https://open.spotify.com/album/2stkaLcP9D1jPlKtDJkjGm"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140232,
+      "name": "One Last Tear",
+      "url": "https://open.spotify.com/track/4iDMzzJstoH44cNx2pzuma"
+    },
+    {
+      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/3pNxlmza89XpVlLGlQ8JRM"
       },
@@ -15484,10 +15598,40 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 148966,
       "name": "ONLY YOU",
       "url": "https://open.spotify.com/track/0e6Yv9ix0JZUSjhJfszFpt"
+    },
+    {
+      "album": {
+        "name": "Open Road",
+        "url": "https://open.spotify.com/album/5u5QYucmlBwD2CG5Xcd892"
+      },
+      "artists": [
+        {
+          "name": "DRS",
+          "url": "https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2"
+        },
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Jony Beats",
+          "url": "https://open.spotify.com/artist/6zcclxl1u4kjY6nMOIpy9z"
+        },
+        {
+          "name": "TomInTheChamber",
+          "url": "https://open.spotify.com/artist/66a7ASj4mXl12zjpT96cr3"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Open Road",
+      "url": "https://open.spotify.com/track/44n5iu9DumPH2J63zPDl8z"
     },
     {
       "album": {
@@ -16468,6 +16612,24 @@
       "duration_ms": 158620,
       "name": "Positions",
       "url": "https://open.spotify.com/track/31vTFWO34LpiGka4eTuKur"
+    },
+    {
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/6VcUp3onvicaFZFub6roKX"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204137,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/0CTkAv7l5qL3jMCuKPybjE"
     },
     {
       "album": {
@@ -18139,6 +18301,32 @@
     },
     {
       "album": {
+        "name": "Satisfaction Skank (High Contrast Remix)",
+        "url": "https://open.spotify.com/album/3mhcL69ilU25UpBH9AaXxb"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "High Contrast",
+          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211066,
+      "name": "Satisfaction Skank - High Contrast Remix",
+      "url": "https://open.spotify.com/track/61Z0yfhBej1doIseuLpo2d"
+    },
+    {
+      "album": {
         "name": "Satisfy My Soul",
         "url": "https://open.spotify.com/album/1NouHtie8UKmPyVWPYHUBU"
       },
@@ -19634,7 +19822,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 145371,
       "name": "SOUNDBOY",
       "url": "https://open.spotify.com/track/1lJ1q2LyleHhYFxd15nSBF"
@@ -21034,7 +21222,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 182068,
       "name": "TEK (feat.Killa P)",
       "url": "https://open.spotify.com/track/3erxcHJ61TSb6eewzR1pAU"
@@ -24318,7 +24506,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 205571,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/7fzolTnwtX2oTYqFo37vbV"

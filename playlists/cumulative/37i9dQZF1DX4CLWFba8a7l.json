@@ -736,7 +736,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 206385,
       "name": "Back Of My Hand",
       "url": "https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB"
@@ -1907,6 +1907,24 @@
     },
     {
       "album": {
+        "name": "DANCEHEAD",
+        "url": "https://open.spotify.com/album/0kUkx3KVTvBHeuzhwAN7m2"
+      },
+      "artists": [
+        {
+          "name": "DEVAURA",
+          "url": "https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126269,
+      "name": "DANCEHEAD",
+      "url": "https://open.spotify.com/track/2tXjGN9f9LVYWC7RROErvn"
+    },
+    {
+      "album": {
         "name": "Date Night (feat. Morgan Evans)",
         "url": "https://open.spotify.com/album/3bAFWQJ9npu4hqjxkpDRYN"
       },
@@ -2852,6 +2870,28 @@
       "duration_ms": 213498,
       "name": "Far Side of the Moon",
       "url": "https://open.spotify.com/track/5S7Jok7NAJks2akNJPSoWt"
+    },
+    {
+      "album": {
+        "name": "Feel So Good Around U",
+        "url": "https://open.spotify.com/album/5jQDO3r5tVB7t0H6ipp9vO"
+      },
+      "artists": [
+        {
+          "name": "LB aka LABAT",
+          "url": "https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh"
+        },
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272492,
+      "name": "Feel So Good Around U",
+      "url": "https://open.spotify.com/track/2ZG3zaIGpmIFU4CTwhhgyn"
     },
     {
       "album": {
@@ -4979,6 +5019,28 @@
     },
     {
       "album": {
+        "name": "London Massive",
+        "url": "https://open.spotify.com/album/4GdzA8ll8XWMiJsT84YUZz"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "General Levy",
+          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125087,
+      "name": "London Massive",
+      "url": "https://open.spotify.com/track/3rr6YbIEazaOv6H9snVRMT"
+    },
+    {
+      "album": {
         "name": "Loose Pt. 3",
         "url": "https://open.spotify.com/album/21BkFek37rkAQcrALu8uk2"
       },
@@ -4998,7 +5060,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 169308,
       "name": "Loose Pt. 3",
       "url": "https://open.spotify.com/track/2Hg1IXJ36JXi40dmTqJ5T4"
@@ -5490,7 +5552,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 223303,
       "name": "Morning Gum",
       "url": "https://open.spotify.com/track/3qwfR7rsNDkrTFoJcSjFu5"
@@ -5598,7 +5660,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 176196,
       "name": "Music On The Radio",
       "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
@@ -7654,7 +7716,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 166248,
       "name": "Site Unseen",
       "url": "https://open.spotify.com/track/13Xx3Q8vjOBouZuyJmwfEA"
@@ -7672,7 +7734,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 147692,
       "name": "Sleepless Nights",
       "url": "https://open.spotify.com/track/2mAxV39CZxPL2lsBdfXgvh"
@@ -8554,6 +8616,24 @@
       "duration_ms": 237426,
       "name": "tell me something",
       "url": "https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Velvet Trip",
+          "url": "https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222552,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/4W3XltRy0SU91Dv4wUCuaD"
     },
     {
       "album": {
@@ -9697,6 +9777,24 @@
     },
     {
       "album": {
+        "name": "When We Were Young",
+        "url": "https://open.spotify.com/album/1Zf7IoTfjpHBfk1baVolew"
+      },
+      "artists": [
+        {
+          "name": "Mia Wray",
+          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188742,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/3Up4Umt7RGaKsmU6aUpAlR"
+    },
+    {
+      "album": {
         "name": "Double A Side",
         "url": "https://open.spotify.com/album/0RZU79Nn0a5W5oJCvqWBFH"
       },
@@ -9918,6 +10016,24 @@
       "duration_ms": 226689,
       "name": "Wonderful",
       "url": "https://open.spotify.com/track/3Jm4XJix6nkGiY3IY8mPyu"
+    },
+    {
+      "album": {
+        "name": "Work Out Fine",
+        "url": "https://open.spotify.com/album/1UadDRX1FV1jBjUGUrXk1u"
+      },
+      "artists": [
+        {
+          "name": "The Terrys",
+          "url": "https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132694,
+      "name": "Work Out Fine",
+      "url": "https://open.spotify.com/track/2GL3ureNXlitWxKzCelq5A"
     },
     {
       "album": {

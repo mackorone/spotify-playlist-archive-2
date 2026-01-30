@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19286,
+  "num_followers": 19291,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-01-22 13:00:25",
       "album": {
-        "name": "SENESCENCE 05 + 06",
-        "url": "https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        }
-      ],
-      "duration_ms": 170235,
-      "name": "Grin",
-      "url": "https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7"
-    },
-    {
-      "added_at": "2026-01-22 13:00:25",
-      "album": {
         "name": "M\u0101ori Ki Te Ao",
         "url": "https://open.spotify.com/album/0Uvwm5VfGMa6Hg51lQeXPg"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 200734,
       "name": "M\u0101ori Ki Te Ao",
       "url": "https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz"
+    },
+    {
+      "added_at": "2026-01-22 13:00:25",
+      "album": {
+        "name": "SENESCENCE 05 + 06",
+        "url": "https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "duration_ms": 170235,
+      "name": "Grin",
+      "url": "https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7"
     },
     {
       "added_at": "2026-01-22 13:00:25",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-01-22 13:00:25",
       "album": {
-        "name": "Eldest Daughter Of An Eldest Daughter",
-        "url": "https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55"
-      },
-      "artists": [
-        {
-          "name": "Kiki Rockwell",
-          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
-        }
-      ],
-      "duration_ms": 266706,
-      "name": "Faery King",
-      "url": "https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc"
-    },
-    {
-      "added_at": "2026-01-22 13:00:25",
-      "album": {
         "name": "We Belong (feat. Corrella & L.A.B)",
         "url": "https://open.spotify.com/album/1sFjvQK6wmmRgMVAxVFVDA"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 215273,
       "name": "We Belong (feat. Corrella & L.A.B)",
       "url": "https://open.spotify.com/track/0lbtD3G02sIgY1QABgGlvn"
+    },
+    {
+      "added_at": "2026-01-22 13:00:25",
+      "album": {
+        "name": "Eldest Daughter Of An Eldest Daughter",
+        "url": "https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55"
+      },
+      "artists": [
+        {
+          "name": "Kiki Rockwell",
+          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
+        }
+      ],
+      "duration_ms": 266706,
+      "name": "Faery King",
+      "url": "https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc"
     },
     {
       "added_at": "2026-01-22 13:00:25",
@@ -995,34 +995,26 @@
     {
       "added_at": "2026-01-22 13:00:25",
       "album": {
-        "name": "Crazy Dream (Edit)",
-        "url": "https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR"
+        "name": "Maumahara Noa Ahau",
+        "url": "https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp"
       },
       "artists": [
         {
           "name": "L.A.B.",
           "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 178062,
-      "name": "Crazy Dream - Edit",
-      "url": "https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx"
-    },
-    {
-      "added_at": "2026-01-22 13:00:25",
-      "album": {
-        "name": "thought of you",
-        "url": "https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab"
-      },
-      "artists": [
+        },
         {
-          "name": "Teo Glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+          "name": "Corrella",
+          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
+        },
+        {
+          "name": "Brannigan Kaa",
+          "url": "https://open.spotify.com/artist/45PMvAQiWl2Coq1uQkQlUy"
         }
       ],
-      "duration_ms": 225295,
-      "name": "thought of you",
-      "url": "https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI"
+      "duration_ms": 170691,
+      "name": "Maumahara Noa Ahau",
+      "url": "https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4"
     },
     {
       "added_at": "2026-01-22 13:00:25",
@@ -1039,6 +1031,22 @@
       "duration_ms": 264289,
       "name": "look what you're doing to me",
       "url": "https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9"
+    },
+    {
+      "added_at": "2026-01-22 13:00:25",
+      "album": {
+        "name": "thought of you",
+        "url": "https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab"
+      },
+      "artists": [
+        {
+          "name": "Teo Glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        }
+      ],
+      "duration_ms": 225295,
+      "name": "thought of you",
+      "url": "https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI"
     },
     {
       "added_at": "2026-01-22 13:00:25",
@@ -1127,26 +1135,18 @@
     {
       "added_at": "2026-01-22 13:00:25",
       "album": {
-        "name": "Maumahara Noa Ahau",
-        "url": "https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp"
+        "name": "Crazy Dream (Edit)",
+        "url": "https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR"
       },
       "artists": [
         {
           "name": "L.A.B.",
           "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        },
-        {
-          "name": "Corrella",
-          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
-        },
-        {
-          "name": "Brannigan Kaa",
-          "url": "https://open.spotify.com/artist/45PMvAQiWl2Coq1uQkQlUy"
         }
       ],
-      "duration_ms": 170691,
-      "name": "Maumahara Noa Ahau",
-      "url": "https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4"
+      "duration_ms": 178062,
+      "name": "Crazy Dream - Edit",
+      "url": "https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx"
     },
     {
       "added_at": "2026-01-22 13:00:25",

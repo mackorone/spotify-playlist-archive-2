@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-28",
-  "description": "In the mood for live Christian and Gospel music? This is the one. Cover: Minister GUC",
+  "description": "In the mood for live Christian and Gospel music? This is the one. Cover: Kaestrings",
   "name": "Live Gospel",
   "tracks": [
     {
@@ -1721,6 +1721,24 @@
     },
     {
       "album": {
+        "name": "The Live Experience",
+        "url": "https://open.spotify.com/album/62uXkHtrX8KDil8lEDSr7m"
+      },
+      "artists": [
+        {
+          "name": "Nontokozo Mkhize",
+          "url": "https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496695,
+      "name": "Hallelujah - Live",
+      "url": "https://open.spotify.com/track/53Vs8PsI3FEGr08i3f23mM"
+    },
+    {
+      "album": {
         "name": "Halleluyah (Live)",
         "url": "https://open.spotify.com/album/793DO3iC0RYOzaXx2cgK6k"
       },
@@ -2875,6 +2893,28 @@
     },
     {
       "album": {
+        "name": "Volume One (Live)",
+        "url": "https://open.spotify.com/album/3NLEdaOPs1Sgo2oGC9NbSr"
+      },
+      "artists": [
+        {
+          "name": "Breakthrough Worship ZA",
+          "url": "https://open.spotify.com/artist/06WukqeQmCpLBsSu0njfLN"
+        },
+        {
+          "name": "Khaya Mthethwa",
+          "url": "https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 567399,
+      "name": "Live Again - Live",
+      "url": "https://open.spotify.com/track/2PJtONySMmQWuMNpSg9gBo"
+    },
+    {
+      "album": {
         "name": "Live Worship Medley",
         "url": "https://open.spotify.com/album/3VbdAlFQTE7ul2PciwWAyV"
       },
@@ -3106,6 +3146,24 @@
       "duration_ms": 586273,
       "name": "Mighty God - Live",
       "url": "https://open.spotify.com/track/7eoZh3g1xNBKgSpDWaYMot"
+    },
+    {
+      "album": {
+        "name": "No Label (LIVE)",
+        "url": "https://open.spotify.com/album/47JKBUEZZKCIWJRKXPC5Nc"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202252,
+      "name": "Miracle - Live",
+      "url": "https://open.spotify.com/track/5r3LbPIXiISgfxgm1XRRvh"
     },
     {
       "album": {
@@ -5122,6 +5180,24 @@
       "duration_ms": 347779,
       "name": "Walk on Water",
       "url": "https://open.spotify.com/track/6dTGOi8FmaDDrma4GZnxRB"
+    },
+    {
+      "album": {
+        "name": "Walk On Water (Live)",
+        "url": "https://open.spotify.com/album/1G24vc9iGCGr77IELGJnGW"
+      },
+      "artists": [
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 538235,
+      "name": "Walk On Water - Live",
+      "url": "https://open.spotify.com/track/7fZfxFBVBko3TfSSQvgFTX"
     },
     {
       "album": {

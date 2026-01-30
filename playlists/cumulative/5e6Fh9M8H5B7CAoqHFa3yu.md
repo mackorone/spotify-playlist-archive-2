@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,754 songs - 4 day 10 hr 3 min
+1,755 songs - 4 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,6 +581,7 @@
 | [Goal!](https://open.spotify.com/track/0obqB3njpmFEzdynAgX279) | [AVINCOLA](https://open.spotify.com/artist/1z2n12qPNckf4VgX4HdzcC) | [Turisti](https://open.spotify.com/album/1MGdBgdEUZNFS2CSrwC6RS) | 3:00 | 2023-03-15 |  |
 | [Gocce](https://open.spotify.com/track/0id0lYAn1TYS9jyecBFZkx) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Gocce](https://open.spotify.com/album/1P11VMJbG2XweZPQBRzY8L) | 3:55 | 2022-10-24 |  |
 | [Godsend \(Live Demo\)](https://open.spotify.com/track/4YF6RRhi9iwgNBWXsCgrM2) | [Sumaita](https://open.spotify.com/artist/081NccAEpHcYxwcll6FWf4) | [Godsend \(Live Demo\)](https://open.spotify.com/album/4JzHzX9lPx1uKlFamWrjud) | 3:48 | 2025-07-12 |  |
+| [Golden Carnival Parade](https://open.spotify.com/track/7cLZLza8csHbATiLo5AckH) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Golden Carnival Parade](https://open.spotify.com/album/7aqSE2dVMLOalAWxKxBgsa) | 3:26 | 2026-01-30 |  |
 | [Golpazo](https://open.spotify.com/track/7xmHTvbADkUaFFm103HIXT) | [Gas Di Fede](https://open.spotify.com/artist/4EUypOt280PxTdB9HCzSGv) | [Golpazo](https://open.spotify.com/album/7ndhjTXAF4Ih2TfXwibbij) | 2:16 | 2025-04-25 |  |
 | [Good Enough](https://open.spotify.com/track/0fLDtQvw5BhgwmPe2zgOEQ) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Good Enough](https://open.spotify.com/album/1eeJcMYNLBl514AF2KM5ED) | 2:45 | 2025-06-09 |  |
 | [Goodbye Love](https://open.spotify.com/track/5iSPBKBJhRbhm4mvCvcGIT) | [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [Borrowed Trouble](https://open.spotify.com/album/3ZniMuIdI6cbuSFJyC4jHe) | 3:43 | 2025-07-02 |  |

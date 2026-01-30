@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Sempre aggiornata. Con nuovi brani di Plaza, Sfera, Niky Savage, 22Simba e Rkomi, Geolier e molti altri. ",
+  "description": "Sempre aggiornata. Con nuovi brani di Kid Yugi,  Niky Savage e Capo Plaza, Rondodasosa, Fudasca con Side Baby, Ketama126 e Close Listen e molti altri. ",
   "name": "Novit\u00e0 Rap Italiano",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 97712,
       "name": "#FreeLaPalestina",
       "url": "https://open.spotify.com/track/4mXvzVt5JH6RnDrF1RafhB"
@@ -5276,7 +5276,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 168224,
       "name": "9MILLIMETRI",
       "url": "https://open.spotify.com/track/5WwZG4HIxAEF5flOeoG4Bn"
@@ -6604,7 +6604,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 138591,
       "name": "Acqua Ebbasta",
       "url": "https://open.spotify.com/track/10oqo3o8hpDD5UEHJsrgVn"
@@ -9048,7 +9048,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 149500,
       "name": "ALZO IL MEDIO",
       "url": "https://open.spotify.com/track/52El2nkhFRqoG0O7N1ub7H"
@@ -11223,6 +11223,24 @@
     },
     {
       "album": {
+        "name": "APPLAUSI",
+        "url": "https://open.spotify.com/album/22QvR4Do3grkmogVCKVuLy"
+      },
+      "artists": [
+        {
+          "name": "Grace Cambria",
+          "url": "https://open.spotify.com/artist/7a60FDqnS9Qx2xTbDvEd73"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "APPLAUSI",
+      "url": "https://open.spotify.com/track/3MlbnKthmFai8jYPY9ax6d"
+    },
+    {
+      "album": {
         "name": "APPOSTA X TE",
         "url": "https://open.spotify.com/album/7qDnF7nyDS8tIrhLdIgx5L"
       },
@@ -11638,7 +11656,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 150785,
       "name": "Armatura Addosso",
       "url": "https://open.spotify.com/track/1Oe7A6dSaeEti1W81ZVe62"
@@ -21453,6 +21471,24 @@
     },
     {
       "album": {
+        "name": "Anche gli Eroi Muoiono",
+        "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211546,
+      "name": "Bullet Ballet",
+      "url": "https://open.spotify.com/track/1ljOXO8cgSa8qntDVlP9uu"
+    },
+    {
+      "album": {
         "name": "Bullets",
         "url": "https://open.spotify.com/album/262g3frbO0wrY1QitxdHVJ"
       },
@@ -22922,6 +22958,32 @@
       "duration_ms": 150526,
       "name": "Calma (feat. Neima Ezza)",
       "url": "https://open.spotify.com/track/1845mbE4B3oG3WtAMZCapo"
+    },
+    {
+      "album": {
+        "name": "CALMA / KARMA (feat. Secco)",
+        "url": "https://open.spotify.com/album/7eRlOGY9Z6tecBWQKxDHMi"
+      },
+      "artists": [
+        {
+          "name": "Faser",
+          "url": "https://open.spotify.com/artist/2gB1sbhrKdnw2fI9nD6O3Z"
+        },
+        {
+          "name": "Secco",
+          "url": "https://open.spotify.com/artist/5BHifi9ucqRdX5j4NCUFP2"
+        },
+        {
+          "name": "Shak3",
+          "url": "https://open.spotify.com/artist/5XtabhceNzd5qw0xqOnOkP"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191191,
+      "name": "CALMA / KARMA (feat. Secco)",
+      "url": "https://open.spotify.com/track/3pME80ErlkQJ6D9L6Q6cjV"
     },
     {
       "album": {
@@ -24432,7 +24494,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 156093,
       "name": "Carmela",
       "url": "https://open.spotify.com/track/3FYCZKF3OvOfwrm0sbPuHT"
@@ -27666,7 +27728,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 188693,
       "name": "Chicchi di caff\u00e8",
       "url": "https://open.spotify.com/track/4fW3I4ROMQShlXGxdSQN42"
@@ -30002,6 +30064,24 @@
       "duration_ms": 172858,
       "name": "Colazione Da Tiffany (feat. MezzoSangue & Kuremino)",
       "url": "https://open.spotify.com/track/20Du4YXmQ5mHl0ROGUStWT"
+    },
+    {
+      "album": {
+        "name": "COLE PALMER",
+        "url": "https://open.spotify.com/album/7F2RnQWQ69QrcXApUYQd8u"
+      },
+      "artists": [
+        {
+          "name": "TIA2091",
+          "url": "https://open.spotify.com/artist/1oUmYfxENlEgWVw2wBsjDv"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133124,
+      "name": "COLE PALMER",
+      "url": "https://open.spotify.com/track/7peDssPct8bqwbC8BF46cP"
     },
     {
       "album": {
@@ -37377,6 +37457,24 @@
     },
     {
       "album": {
+        "name": "PACE E GUERRA",
+        "url": "https://open.spotify.com/album/5pABP7mOe6LSish3LOGgA3"
+      },
+      "artists": [
+        {
+          "name": "VMonster",
+          "url": "https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167919,
+      "name": "DIME",
+      "url": "https://open.spotify.com/track/7Cr4fXFid3HUdh06MBEPsY"
+    },
+    {
+      "album": {
         "name": "DIMENTICARCI",
         "url": "https://open.spotify.com/album/5QvsEVHrG77ypZfzocZ4f5"
       },
@@ -39764,7 +39862,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 181000,
       "name": "Drip a noleggio RMX",
       "url": "https://open.spotify.com/track/4n40OaH0OmsGD6M2CqPs2M"
@@ -41896,6 +41994,24 @@
       "duration_ms": 142285,
       "name": "Erling Haaland",
       "url": "https://open.spotify.com/track/6tPhJyElDngbGI7WGCCwgQ"
+    },
+    {
+      "album": {
+        "name": "Anche gli Eroi Muoiono",
+        "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198001,
+      "name": "Eroina",
+      "url": "https://open.spotify.com/track/56n5UQJ0SDVaxwQNnu90ee"
     },
     {
       "album": {
@@ -48932,7 +49048,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 156279,
       "name": "Fumo Denso",
       "url": "https://open.spotify.com/track/1GW9dBXX1Lar8npzPi852c"
@@ -49596,6 +49712,24 @@
       "duration_ms": 135428,
       "name": "GACHA",
       "url": "https://open.spotify.com/track/6epc4bpQjEwGPuV8zy2APf"
+    },
+    {
+      "album": {
+        "name": "GALANTE",
+        "url": "https://open.spotify.com/album/64o6NMAlfeghzKF03gbewx"
+      },
+      "artists": [
+        {
+          "name": "Mated",
+          "url": "https://open.spotify.com/artist/7dIGJ7Kx7vyUsszaP2mbxQ"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164124,
+      "name": "GALANTE",
+      "url": "https://open.spotify.com/track/1lJeYx2axIErKuunCoxWBx"
     },
     {
       "album": {
@@ -50760,7 +50894,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 189738,
       "name": "Generazione X",
       "url": "https://open.spotify.com/track/0NpdbvR5IGkOtXM4RJ8fR4"
@@ -51486,6 +51620,24 @@
       "duration_ms": 124170,
       "name": "Giardino dell'Eden",
       "url": "https://open.spotify.com/track/6Oa85lzHHAMPg4OKrZufjh"
+    },
+    {
+      "album": {
+        "name": "Anche gli Eroi Muoiono",
+        "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160964,
+      "name": "Gilgamesh",
+      "url": "https://open.spotify.com/track/09wmUkefYD7B2IWpHP6v3P"
     },
     {
       "album": {
@@ -54516,7 +54668,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 165000,
       "name": "GUARIRE",
       "url": "https://open.spotify.com/track/62ST7EI9kRnzy7CMyBWXR7"
@@ -54892,6 +55044,24 @@
       "duration_ms": 115122,
       "name": "GVR",
       "url": "https://open.spotify.com/track/29M2qN6Vs2cVnsRZnFusCl"
+    },
+    {
+      "album": {
+        "name": "GYOZA",
+        "url": "https://open.spotify.com/album/0KvVF6NPXYWxVFWqHJTeY7"
+      },
+      "artists": [
+        {
+          "name": "HEVA",
+          "url": "https://open.spotify.com/artist/1L4n1oqjzmZqXVWD9V4V4z"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161396,
+      "name": "GYOZA",
+      "url": "https://open.spotify.com/track/5IyShqaO9omGmfzaCQRXB2"
     },
     {
       "album": {
@@ -59906,7 +60076,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 177679,
       "name": "In Eterno (feat. Dav\u00ecdd & Abby 6ix)",
       "url": "https://open.spotify.com/track/7tR388pXDiAPeupBaHRu4C"
@@ -60565,6 +60735,36 @@
     },
     {
       "album": {
+        "name": "INFAMI (feat. Side Baby, Ketama126 & Close Listen)",
+        "url": "https://open.spotify.com/album/7c0wmhZ4UFreXQnNimQkec"
+      },
+      "artists": [
+        {
+          "name": "Fudasca",
+          "url": "https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T"
+        },
+        {
+          "name": "Side Baby",
+          "url": "https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT"
+        },
+        {
+          "name": "Ketama126",
+          "url": "https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E"
+        },
+        {
+          "name": "Close Listen",
+          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159605,
+      "name": "INFAMI (feat. Side Baby, Ketama126 & Close Listen)",
+      "url": "https://open.spotify.com/track/4O6POAxljB6cfjKx3I2s8A"
+    },
+    {
+      "album": {
         "name": "Hustle Mixtape Vol. 2",
         "url": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S"
       },
@@ -61168,7 +61368,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 138000,
       "name": "INVESTIMENTI A LUNGO TERMINE",
       "url": "https://open.spotify.com/track/7hIcotSoBMK4wUkveaSwMu"
@@ -62624,6 +62824,24 @@
       "duration_ms": 127547,
       "name": "JOKIC",
       "url": "https://open.spotify.com/track/2n2a2z8zvJiW0SCFpfUyAz"
+    },
+    {
+      "album": {
+        "name": "Anche gli Eroi Muoiono",
+        "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173905,
+      "name": "Jolly",
+      "url": "https://open.spotify.com/track/6R13pKWNdELuiJKy47pWtB"
     },
     {
       "album": {
@@ -67098,7 +67316,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 130222,
       "name": "LA TRAP NON MUORE MAI",
       "url": "https://open.spotify.com/track/60BuXgxuJ94cYQid5myouo"
@@ -68526,7 +68744,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 196208,
       "name": "Last Train 2 Shibuya (feat. Sayf)",
       "url": "https://open.spotify.com/track/3FIb3i3loANQ2GeKtn4fHl"
@@ -71426,7 +71644,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 170637,
       "name": "Loquito (with Celine G)",
       "url": "https://open.spotify.com/track/12X6Xp0LYHgEFOnofZcGCn"
@@ -85461,6 +85679,24 @@
     },
     {
       "album": {
+        "name": "SELF MADE",
+        "url": "https://open.spotify.com/album/5NJMqksdAcxG4h2bKnuagR"
+      },
+      "artists": [
+        {
+          "name": "TRC",
+          "url": "https://open.spotify.com/artist/5DB3toEwvOwRexy5lDhjZo"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135106,
+      "name": "NEBBIA E FUMO",
+      "url": "https://open.spotify.com/track/1V7mcYAb0lRAmOUQAWtyY5"
+    },
+    {
+      "album": {
         "name": "Madreperla",
         "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
       },
@@ -86474,6 +86710,24 @@
       "duration_ms": 62210,
       "name": "NICK BOSTROM",
       "url": "https://open.spotify.com/track/3AOdXdl2iBjbJINUzQMh6S"
+    },
+    {
+      "album": {
+        "name": "NICO PAZ",
+        "url": "https://open.spotify.com/album/7iPgv2e9yykXL4fOHWvEPi"
+      },
+      "artists": [
+        {
+          "name": "Lefar",
+          "url": "https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "NICO PAZ",
+      "url": "https://open.spotify.com/track/2erO14kUfrXqEQUT8V3W6D"
     },
     {
       "album": {
@@ -89005,6 +89259,28 @@
     },
     {
       "album": {
+        "name": "Non Mi Lasci Stare (feat. Christian Liguori)",
+        "url": "https://open.spotify.com/album/6JfZRbO1zc0sacVgQa54y2"
+      },
+      "artists": [
+        {
+          "name": "Suspect CB",
+          "url": "https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz"
+        },
+        {
+          "name": "Christian Liguori",
+          "url": "https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127928,
+      "name": "Non Mi Lasci Stare (feat. Christian Liguori)",
+      "url": "https://open.spotify.com/track/2iqpOx3AXlJ456rsKhpM64"
+    },
+    {
+      "album": {
         "name": "NON MI MANCHER\u00c0",
         "url": "https://open.spotify.com/album/6Wu3HEdVUbmwZ2BICF09KI"
       },
@@ -90216,6 +90492,24 @@
       "duration_ms": 180442,
       "name": "NON \u00c9 COLPA MIA",
       "url": "https://open.spotify.com/track/2xBFcnT4uw8BUCW2kCASWs"
+    },
+    {
+      "album": {
+        "name": "NONOSTANTE TUTTO",
+        "url": "https://open.spotify.com/album/6VUj6eJHXU1RGq3AiSroQi"
+      },
+      "artists": [
+        {
+          "name": "Mondo Marcio",
+          "url": "https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167191,
+      "name": "NONOSTANTE TUTTO",
+      "url": "https://open.spotify.com/track/74V4kDrGzzx5AsNIZ5ieIX"
     },
     {
       "album": {
@@ -91886,7 +92180,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 153775,
       "name": "Obiettivo (feat. Dmoha)",
       "url": "https://open.spotify.com/track/51vzexWSzbhxvQlh2V0WYQ"
@@ -93778,7 +94072,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 140126,
       "name": "ONLYFANS",
       "url": "https://open.spotify.com/track/3K1U1lKvX3WNmpM3KrPc4V"
@@ -94228,6 +94522,36 @@
       "duration_ms": 173583,
       "name": "OREGON!",
       "url": "https://open.spotify.com/track/7sg9zKhPXniS0Pw39CgbQC"
+    },
+    {
+      "album": {
+        "name": "Orfani Degli Astri",
+        "url": "https://open.spotify.com/album/2VS45QJYJKskDbotG6o3Dl"
+      },
+      "artists": [
+        {
+          "name": "Ayo Mich",
+          "url": "https://open.spotify.com/artist/3TCtxMB7XKS9QmSZmcJQ3a"
+        },
+        {
+          "name": "Dmoha",
+          "url": "https://open.spotify.com/artist/3Azrc3PGFCLwPxouZw8ELl"
+        },
+        {
+          "name": "Heartman",
+          "url": "https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt"
+        },
+        {
+          "name": "Kai",
+          "url": "https://open.spotify.com/artist/7IPw9t8Yi0jMX05je0WLGo"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217085,
+      "name": "Orfani Degli Astri",
+      "url": "https://open.spotify.com/track/3038ZOndq2t7bIGGFN8V2a"
     },
     {
       "album": {
@@ -95892,7 +96216,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 149375,
       "name": "Panama",
       "url": "https://open.spotify.com/track/3Avbzji2CreZ35Gay3dyAV"
@@ -98537,6 +98861,24 @@
     },
     {
       "album": {
+        "name": "Anche gli Eroi Muoiono",
+        "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188803,
+      "name": "Per te che Lotto",
+      "url": "https://open.spotify.com/track/70600tukZat0m8rM0yqDoD"
+    },
+    {
+      "album": {
         "name": "Per tutti",
         "url": "https://open.spotify.com/album/2DiVJmLYqja74At96xDHqJ"
       },
@@ -99890,7 +100232,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 167777,
       "name": "Pianti Grassi",
       "url": "https://open.spotify.com/track/4ib7P0tGG8ILCRw0YeU3JC"
@@ -101140,6 +101482,24 @@
       "duration_ms": 193576,
       "name": "plastica blu",
       "url": "https://open.spotify.com/track/7yVQeegd4fi20vjwAO7mOk"
+    },
+    {
+      "album": {
+        "name": "Plata o Plomo",
+        "url": "https://open.spotify.com/album/59l6vf3Nml7C1brM4PHe9x"
+      },
+      "artists": [
+        {
+          "name": "SNAKECUTTER",
+          "url": "https://open.spotify.com/artist/0IaCUyLJ2ySZqqjomI1GSU"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122938,
+      "name": "Plata o Plomo",
+      "url": "https://open.spotify.com/track/7mRTI7Ry18lONNMA4Xfppd"
     },
     {
       "album": {
@@ -102850,7 +103210,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 151304,
       "name": "POSSIBILIT\u00c0",
       "url": "https://open.spotify.com/track/3n2dYFbx9AA8SmvqNj3exP"
@@ -104266,7 +104626,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 91384,
       "name": "PROBLEMI",
       "url": "https://open.spotify.com/track/3brRufxTvkcAldkQOPOuP7"
@@ -106354,7 +106714,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 150711,
       "name": "QUELLA VITA LA",
       "url": "https://open.spotify.com/track/4HnufmWkOlYchtswWtXe3d"
@@ -107031,6 +107391,24 @@
     },
     {
       "album": {
+        "name": "RAFAEL LEAO",
+        "url": "https://open.spotify.com/album/3N4vQxiuQTJR06jnYXV3mL"
+      },
+      "artists": [
+        {
+          "name": "Saco",
+          "url": "https://open.spotify.com/artist/7bAhUbvOceOdr0x2XU47R7"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "RAFAEL LEAO",
+      "url": "https://open.spotify.com/track/1mx8YG8LMyhmvDjIYKUJse"
+    },
+    {
+      "album": {
         "name": "RAGAZZETTO",
         "url": "https://open.spotify.com/album/2hUgUMxrVBkUyhfQClvuCg"
       },
@@ -107218,6 +107596,24 @@
       "duration_ms": 121666,
       "name": "RAGAZZO D'ORO",
       "url": "https://open.spotify.com/track/35AfX2Q5EaTUeaJWV30lsr"
+    },
+    {
+      "album": {
+        "name": "RAGAZZO DEI '90",
+        "url": "https://open.spotify.com/album/0ChhaDNhnRIvb3jv6KErJM"
+      },
+      "artists": [
+        {
+          "name": "Kento",
+          "url": "https://open.spotify.com/artist/3syqfb0GkvvMTS5sq0ugMd"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235636,
+      "name": "RAGAZZO DEI '90",
+      "url": "https://open.spotify.com/track/6VnI8opR1D8VHqS2zZTT4B"
     },
     {
       "album": {
@@ -107984,7 +108380,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 147096,
       "name": "Ready 4 The Win",
       "url": "https://open.spotify.com/track/2bZrglFzO7bAin4BQiqpL0"
@@ -111667,6 +112063,28 @@
     },
     {
       "album": {
+        "name": "TRAPPER",
+        "url": "https://open.spotify.com/album/1GRFmMBH1Y0P4DFMvseDZS"
+      },
+      "artists": [
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200888,
+      "name": "ROVA (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/2tn3eqpzvgoeXCsymtsSdN"
+    },
+    {
+      "album": {
         "name": "Rover",
         "url": "https://open.spotify.com/album/6wI49kYedExB9QNaVgl3Kr"
       },
@@ -112150,6 +112568,28 @@
       "duration_ms": 166285,
       "name": "SAB",
       "url": "https://open.spotify.com/track/2feRGIQMsbAiaREBKD5Jpl"
+    },
+    {
+      "album": {
+        "name": "Sabato Sera",
+        "url": "https://open.spotify.com/album/14PnXsuZjIJFEAeizmD0KP"
+      },
+      "artists": [
+        {
+          "name": "SaintPaul",
+          "url": "https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT"
+        },
+        {
+          "name": "Madfingerz",
+          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Sabato Sera",
+      "url": "https://open.spotify.com/track/7aEuztQFFqyTQUBanox9kU"
     },
     {
       "album": {
@@ -112812,6 +113252,28 @@
       "duration_ms": 89240,
       "name": "SAMUEL L JACKSON",
       "url": "https://open.spotify.com/track/5yAFQB9qzY2lto0PJEE53v"
+    },
+    {
+      "album": {
+        "name": "SAMUEL L JACKSON / WE HAVE A DREAM - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/626WbDEWPZgsFlDgfGeUD4"
+      },
+      "artists": [
+        {
+          "name": "FreshMula",
+          "url": "https://open.spotify.com/artist/6IwmCDDOJfupZ9uDvSwfPe"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177766,
+      "name": "SAMUEL L JACKSON / WE HAVE A DREAM - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/07DoDXSq0Pndihyucu8i7r"
     },
     {
       "album": {
@@ -114582,7 +115044,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 179649,
       "name": "Se le va",
       "url": "https://open.spotify.com/track/30C4RVLnTRYVWz56OnehPW"
@@ -116688,7 +117150,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 200125,
       "name": "Sette Colli",
       "url": "https://open.spotify.com/track/2R9ymW9Rd0ILk1nuU0wRiN"
@@ -119558,7 +120020,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 224064,
       "name": "SMS (feat. Lubi)",
       "url": "https://open.spotify.com/track/1myr6mtSSV4nTt6vul8Qyt"
@@ -120134,6 +120596,24 @@
       "duration_ms": 127292,
       "name": "SOLDATI",
       "url": "https://open.spotify.com/track/3ko0rF0qAjuE3flb08beNL"
+    },
+    {
+      "album": {
+        "name": "Soldati di Guerra",
+        "url": "https://open.spotify.com/album/2z3Z8bdJLgqJHssSCfNdWd"
+      },
+      "artists": [
+        {
+          "name": "Twesh",
+          "url": "https://open.spotify.com/artist/1VfZE6N53xDIMjERedcgs3"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132520,
+      "name": "Soldati di Guerra",
+      "url": "https://open.spotify.com/track/4593KsQ1CNB4tJhlOwZS8K"
     },
     {
       "album": {
@@ -122372,7 +122852,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 162400,
       "name": "Spendin (feat. Marracash)",
       "url": "https://open.spotify.com/track/0ek2jtO8Ru1YrVImYFLSuW"
@@ -122608,6 +123088,32 @@
       "duration_ms": 129697,
       "name": "SPIETATO",
       "url": "https://open.spotify.com/track/0rGmGQ3Z5C8OqPTrNzgcW2"
+    },
+    {
+      "album": {
+        "name": "Spike Lee",
+        "url": "https://open.spotify.com/album/2Cx91MPDAlDJO8VSzkGFR3"
+      },
+      "artists": [
+        {
+          "name": "Ros",
+          "url": "https://open.spotify.com/artist/5HV4NFlLnUTAwv4NlRpkWb"
+        },
+        {
+          "name": "Sic",
+          "url": "https://open.spotify.com/artist/7o8pDx6cq7bKPbQu7mfxu2"
+        },
+        {
+          "name": "rooc lee",
+          "url": "https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150003,
+      "name": "Spike Lee",
+      "url": "https://open.spotify.com/track/3iSBLqDXibjOs6kYPsjKRX"
     },
     {
       "album": {
@@ -123196,6 +123702,24 @@
       "duration_ms": 159000,
       "name": "STANOTTE (feat. Coez, Massimo Pericolo)",
       "url": "https://open.spotify.com/track/16UKRoJsS0i0eUNCCroz7n"
+    },
+    {
+      "album": {
+        "name": "Stanza d'Albergo",
+        "url": "https://open.spotify.com/album/36Tbt2hCPcgWysAHWruNI3"
+      },
+      "artists": [
+        {
+          "name": "Yele",
+          "url": "https://open.spotify.com/artist/1u1kZu6YBFpronOR6sOg2z"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Stanza d'Albergo",
+      "url": "https://open.spotify.com/track/2UT55zrpVAV9H5lfznHvqV"
     },
     {
       "album": {
@@ -128289,6 +128813,24 @@
     },
     {
       "album": {
+        "name": "terzo dito",
+        "url": "https://open.spotify.com/album/2Mxmw2RXpJP5XjsQgq4SiT"
+      },
+      "artists": [
+        {
+          "name": "Maury North",
+          "url": "https://open.spotify.com/artist/4HxI6ooJCfn4mJmvOzgyry"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115210,
+      "name": "terzo dito",
+      "url": "https://open.spotify.com/track/4YrlQFFXnAcVCLliEqxYXW"
+    },
+    {
+      "album": {
         "name": "Testa & Cuore (feat. Voga)",
         "url": "https://open.spotify.com/album/6c7FT008gx84NtRi4EtxZN"
       },
@@ -128570,7 +129112,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 163601,
       "name": "The World Iz Yours (feat. Joshua)",
       "url": "https://open.spotify.com/track/2pf8hbyhNKDFSnLtAYJHTt"
@@ -133679,6 +134221,24 @@
     },
     {
       "album": {
+        "name": "Tyson",
+        "url": "https://open.spotify.com/album/0vGBomvsBvd0P3bTqDTVv0"
+      },
+      "artists": [
+        {
+          "name": "Tokyo",
+          "url": "https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165045,
+      "name": "Tyson",
+      "url": "https://open.spotify.com/track/3K9jbkMAwN2iEwUWOGBplf"
+    },
+    {
+      "album": {
         "name": "TYVEK",
         "url": "https://open.spotify.com/album/0cGyj4Vq60Zmsswka7O22C"
       },
@@ -134740,7 +135300,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 116269,
       "name": "UNA NOTTE A NAPOLI",
       "url": "https://open.spotify.com/track/3bi3RF1zJla3wntUoYok5J"
@@ -135232,6 +135792,24 @@
       "duration_ms": 109965,
       "name": "UP",
       "url": "https://open.spotify.com/track/0lEcmsS175dpaOBvGFMvoh"
+    },
+    {
+      "album": {
+        "name": "Up&Down",
+        "url": "https://open.spotify.com/album/2bKBTswXIePhn8pJbxAD7h"
+      },
+      "artists": [
+        {
+          "name": "ren",
+          "url": "https://open.spotify.com/artist/4BdOlxV6Jk099aefQlDLwI"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165128,
+      "name": "Up&Down",
+      "url": "https://open.spotify.com/track/0BGLh12BcplRsVnOQJeU7X"
     },
     {
       "album": {
@@ -136096,7 +136674,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 160000,
       "name": "Veleno (feat. Melons)",
       "url": "https://open.spotify.com/track/6zrqFmqFfx2wfGB4Q0pwmQ"

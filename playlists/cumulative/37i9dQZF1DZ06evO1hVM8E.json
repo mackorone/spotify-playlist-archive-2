@@ -2395,6 +2395,24 @@
     },
     {
       "album": {
+        "name": "Soy Tu Maestro (\"45 Aniversario\" - Relanzamiento)",
+        "url": "https://open.spotify.com/album/6b1eKVdMRpTQ4qn9FbY0jZ"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210746,
+      "name": "Si Pudiera",
+      "url": "https://open.spotify.com/track/5MyLXAsZSZttTTEmFgpxAO"
+    },
+    {
+      "album": {
         "name": "Soy Tu Maestro",
         "url": "https://open.spotify.com/album/0GdHeCV6ThHAEhBUJIDlN9"
       },
@@ -2406,7 +2424,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 210760,
       "name": "Si Pudiera",
       "url": "https://open.spotify.com/track/6zwpRMJHf3DQupj1NFyxrD"

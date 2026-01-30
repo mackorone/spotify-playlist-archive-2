@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-188 songs - 9 hr 58 min
+190 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Closure](https://open.spotify.com/track/3Z0uXmisVHmzoiSo49tUFy) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Closure](https://open.spotify.com/album/5zpvrdeJU6NWitQt8b9lhv) | 3:02 | 2024-01-29 |  |
 | [Cold World \(feat\. London Community Gospel Choir\)](https://open.spotify.com/track/3equAC7RDftpvGFp9p0Bm6) | [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk), [London Community Gospel Choir](https://open.spotify.com/artist/5DhdFUvQCHgY2F9mVL8uoz) | [The Fifth Chapter](https://open.spotify.com/album/34zBuaI0qXuvCD9WrG0NbC) | 2:51 | 2024-01-29 |  |
 | [Cool](https://open.spotify.com/track/6GG1su1AVOh39Na8QPqI2B) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [And Now, We're Shining](https://open.spotify.com/album/6hsl8s8m3Le812hnQfrNAv) | 2:57 | 2024-01-29 |  |
+| [Crashing](https://open.spotify.com/track/3h92ZmC1s6VkmY8cDaqZ6k) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [Crashing](https://open.spotify.com/album/0fEcqp0U7H9cqxl1372HMV) | 2:59 | 2026-01-29 |  |
 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 | 2024-01-29 |  |
 | [Cry On Me \(feat\. Mikky Ekko\)](https://open.spotify.com/track/20zebG4pXA1JZZStpQ8x8F) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 3:47 | 2024-01-29 |  |
 | [Crystal Eyes](https://open.spotify.com/track/1KdzQykEwm0cPDzn7zwElT) | [MEDUN](https://open.spotify.com/artist/31iEFric0QtZxWkPMWCIqM), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Crystal Eyes](https://open.spotify.com/album/6VVyTq85wDqNEjoKRD3KRE) | 3:18 | 2025-05-03 |  |
@@ -74,6 +75,7 @@
 | [Foolish](https://open.spotify.com/track/1vf2fGxOHfMF1N4DdYLezO) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Foolish](https://open.spotify.com/album/460TrK0D9edU86CAKWJu3x) | 3:32 | 2024-01-29 |  |
 | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 | 2024-05-04 | 2024-06-24 |
 | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/6YutTqJz3jGfLMfzIHpSTf) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [KYGO](https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q) | 2:55 | 2024-06-23 |  |
+| [Found Your Love](https://open.spotify.com/track/1mAJL4ypRyWLI0UMDxAanG) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Found Your Love](https://open.spotify.com/album/0GbWTbFQk0gXHxwhG0zXbS) | 3:03 | 2026-01-29 |  |
 | [Friend Of Mine](https://open.spotify.com/track/0nUivJUv25vMAXg4BKxKPW) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [JESS](https://open.spotify.com/album/4Ql1u2tIY6R7xRXnBgYmKE) | 3:14 | 2024-04-28 |  |
 | [Friend Of Mine](https://open.spotify.com/track/6amr2Sdv9yw7Y917GZToj9) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Friend Of Mine](https://open.spotify.com/album/26EjAdOrdU9jo56sG11uy9) | 3:14 | 2024-01-29 | 2024-04-29 |
 | [Get It Done](https://open.spotify.com/track/0sDZcodL0BdQuOCHl9ukAL) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [100 Times Around the Sun](https://open.spotify.com/album/0jBrdQ1CTtlG2oenpcT1by) | 3:02 | 2025-08-10 |  |

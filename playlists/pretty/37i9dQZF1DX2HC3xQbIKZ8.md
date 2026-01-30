@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 > Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Myshaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,320 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,335 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 21 | [Back In My Arms](https://open.spotify.com/track/4g5j7VcONFP64jSNSuLDOK) | [Hori Shaw](https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh) | [Back In My Arms](https://open.spotify.com/album/1pJWSJkimSU1tBcALRBZvr) | 3:45 |
 | 22 | [Home](https://open.spotify.com/track/2acveoZyxBzwbxw6Y3v18J) | [Son & Water](https://open.spotify.com/artist/1ODcoNZfpYJmWHEF9eEgGi), [Myshaan](https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN) | [Home](https://open.spotify.com/album/7mKtYSUiaVa6nccctEBRo3) | 3:35 |
 | 23 | [Sweet Darlin'](https://open.spotify.com/track/16xm2K8WsZl4OBojftNxeV) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Born & Raised](https://open.spotify.com/album/0J1lLuvXebQmFLwm1Vn7QM) | 4:32 |
-| 24 | [Get Away](https://open.spotify.com/track/02yYxxU7lRPeoWuWN0bPuw) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Revival](https://open.spotify.com/album/7x6HDpIHEr5Pg2hKp732YP) | 3:31 |
-| 25 | [Still the One](https://open.spotify.com/track/5kt8ukMn43YK7eMYeD2tP8) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [Mikey Mayz](https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy) | [Still the One](https://open.spotify.com/album/1dp1GNZaZFwCoqerFgVIA2) | 2:19 |
-| 26 | [Don’t Forget Your Roots](https://open.spotify.com/track/5mUiad5pDU1wFvIbtKgJKB) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Six60](https://open.spotify.com/album/2y5lgKfEm5B1pi8qrifGD5) | 3:52 |
-| 27 | [Ms\. Beautiful](https://open.spotify.com/track/2OHHEGVzYWjvpDdC57kGg2) | [Rebel Souljahz](https://open.spotify.com/artist/6DW0QgM048WZ1eDJfq9ZhS) | [4 The People](https://open.spotify.com/album/3Rm9pkenoLVhmMMolEN4bd) | 3:43 |
+| 24 | [Still the One](https://open.spotify.com/track/5kt8ukMn43YK7eMYeD2tP8) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [Mikey Mayz](https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy) | [Still the One](https://open.spotify.com/album/1dp1GNZaZFwCoqerFgVIA2) | 2:19 |
+| 25 | [Get Away](https://open.spotify.com/track/02yYxxU7lRPeoWuWN0bPuw) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Revival](https://open.spotify.com/album/7x6HDpIHEr5Pg2hKp732YP) | 3:31 |
+| 26 | [Ms\. Beautiful](https://open.spotify.com/track/2OHHEGVzYWjvpDdC57kGg2) | [Rebel Souljahz](https://open.spotify.com/artist/6DW0QgM048WZ1eDJfq9ZhS) | [4 The People](https://open.spotify.com/album/3Rm9pkenoLVhmMMolEN4bd) | 3:43 |
+| 27 | [Don’t Forget Your Roots](https://open.spotify.com/track/5mUiad5pDU1wFvIbtKgJKB) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Six60](https://open.spotify.com/album/2y5lgKfEm5B1pi8qrifGD5) | 3:52 |
 | 28 | [Higher Than the Clouds](https://open.spotify.com/track/10FYvZSZLste16zITxpQND) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE) | 3:43 |
 | 29 | [Movin' About My Ways](https://open.spotify.com/track/5rBqEivSXbm8lFsX9rXMFs) | [Josh Wawa](https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz), [DAK](https://open.spotify.com/artist/3In2BOfcdF10w1epRfkudd) | [Line Em Up](https://open.spotify.com/album/1cYJWFHmRfEz9MOAreN1C6) | 4:49 |
 | 30 | [Feel It](https://open.spotify.com/track/4zegbzhJVyZ8RBM86t6ZqI) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Feel It](https://open.spotify.com/album/5pAhTwf5anpAM4qQ8JZD4H) | 3:32 |

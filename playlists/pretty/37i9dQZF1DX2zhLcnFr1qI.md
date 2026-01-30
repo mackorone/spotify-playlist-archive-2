@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Baby, it's cold outside 🎁🌲 here's some festive EDM to keep warm!
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,092 likes - 110 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,077 likes - 110 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 26 | [Underneath The Tree](https://open.spotify.com/track/5jpWarFbAPgAHi7heDAeaJ) | [Mistle Tunes](https://open.spotify.com/artist/7qIJc7vL4C5KovgT0qR3RN) | [Christmas Dance Party Vol\. 2](https://open.spotify.com/album/0xWMPWLiF1VAU72qr96ew2) | 3:26 |
 | 27 | [Jingle Bell Rock](https://open.spotify.com/track/4deFUDuDuzQqXXpjQ6Zhqf) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP) | [Jingle Bell Rock](https://open.spotify.com/album/4UHebJk04p3hFlun4xmhB5) | 3:00 |
 | 28 | [Last Christmas](https://open.spotify.com/track/6V1Ge6GEmPgIeGkrsNd4BC) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Last Christmas](https://open.spotify.com/album/71K0drA5Xe6tNOmEilxoLk) | 3:03 |
-| 29 | [Caröl Von Holz](https://open.spotify.com/track/2bOEI6xZhYDIHcE5QgRSoD) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Holzbläser](https://open.spotify.com/artist/5Yqjr7yGAsLPpu4rmc39lL) | [Caröl Von Holz](https://open.spotify.com/album/7cBwygMg5dIn0JTZw76LfY) | 4:14 |
+| 29 | [Caröl Von Holz](https://open.spotify.com/track/2bOEI6xZhYDIHcE5QgRSoD) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Holzbläser](https://open.spotify.com/artist/5Yqjr7yGAsLPpu4rmc39lL) | [Caröl Von Holz](https://open.spotify.com/album/7cBwygMg5dIn0JTZw76LfY) | 4:14 |
 | 30 | [Wonderful Christmastime](https://open.spotify.com/track/5b0FxMwkthepEjwMBL0c1k) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [SMYLE](https://open.spotify.com/artist/2uhcprg0ixR6jozzqrYFZj) | [Wonderful Christmastime](https://open.spotify.com/album/5IgHaTRZPBV7lL3oH6Sq5d) | 2:49 |
 | 31 | [Jingle Bells \(feat\. Ricky Vicente\)](https://open.spotify.com/track/5Q2YQvm9LN7rOsTwsNx4cm) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [Gabriel Wittner](https://open.spotify.com/artist/6DitGfT7dcBLUsY5ETeuAj), [Slenderino](https://open.spotify.com/artist/1rX0UQ4xdtxlSP2MlP7wQb), [Ricky Vicente](https://open.spotify.com/artist/0vJ5kU4z3TMRIFU6adhPB8) | [Christmas Dance Party \(Project Xmas\)](https://open.spotify.com/album/126Xv1O3gOpeaFUSNRvcNY) | 1:43 |
 | 32 | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU) | 2:05 |

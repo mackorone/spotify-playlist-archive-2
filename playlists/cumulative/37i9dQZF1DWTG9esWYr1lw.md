@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [7Alo Ya 7Alo](https://open.spotify.com/track/7Gvve783aFQUg0oHmul5az) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [7Alo Ya 7Alo](https://open.spotify.com/album/0FDgKEISH5Eb48eOPGNmmo) | 4:29 | 2025-01-28 | 2025-12-17 |
+| [7Alo Ya 7Alo](https://open.spotify.com/track/7Gvve783aFQUg0oHmul5az) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [7Alo Ya 7Alo](https://open.spotify.com/album/0FDgKEISH5Eb48eOPGNmmo) | 4:29 | 2025-01-28 |  |
 | [A3zam Ayam](https://open.spotify.com/track/38bL58Q5kf7RbC2WIciW3Q) | [Akram Adel](https://open.spotify.com/artist/3TL9vhTxFtRnEBMPhLM2ia) | [A3zam Ayam](https://open.spotify.com/album/2m9kuiPhaFlzZ8WF5bT07V) | 2:03 | 2024-03-12 | 2025-03-24 |
 | [Ahlan Ramadan](https://open.spotify.com/track/79nSB35IGr3o4FdavxwOXm) | [Ali Magrebi](https://open.spotify.com/artist/4GSR6lcJZdCOlptrvPtLSN) | [Ahlan Ramadan](https://open.spotify.com/album/1Xpw87zfp0wu6bxhpBzlC6) | 3:34 | 2024-03-12 |  |
 | [Ahlan Ramadan](https://open.spotify.com/track/2IBydskU0pX1NtsPYRe0Ch) | [Mohamed Tarek](https://open.spotify.com/artist/0I7sMQsYXAug5uQtZnzTIb), [Ibrahim Al Dardasawi](https://open.spotify.com/artist/36Vbky7ZIPAceSgzGaApoC) | [Ahlan Ramadan](https://open.spotify.com/album/2NWc9tnxVJc1TK1U51p0EN) | 3:05 | 2024-03-12 |  |
@@ -43,7 +43,7 @@
 | [Ramadan Gannah](https://open.spotify.com/track/1WN0Ni3J0nIx4OcMOcZx6m) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [Ramadan Gannah](https://open.spotify.com/album/5IdgcFyGc0a37wov8QoYqa) | 2:03 | 2024-03-12 |  |
 | [Ramadan Gannah](https://open.spotify.com/track/5e4yPEIj6zY8tAdEof5dDV) | [Osama Elhady](https://open.spotify.com/artist/6EjmT7yFpcA5ALiksWjiZm), [Omar Ghali](https://open.spotify.com/artist/116huztEYnFVQldfkkNtwB), [May Abdelaziz](https://open.spotify.com/artist/0ysUbgRgj8RpQQGn80ckzL) | [Ramadan Gannah](https://open.spotify.com/album/0pMr9lhGs2VemkQUfrty2P) | 1:38 | 2024-03-12 | 2024-04-19 |
 | [Ramadan Haretna](https://open.spotify.com/track/1A3Ky3wvcDlBMsVymuPCaq) | [Ahmed Khaled](https://open.spotify.com/artist/1UbrPSwusXyL3HM60PiiYZ) | [Ramadan Haretna](https://open.spotify.com/album/5zEQyPHa2a1hbTlSqNoWIr) | 3:27 | 2024-03-25 |  |
-| [Ramadan Kareem](https://open.spotify.com/track/5mCDklMa5aWMVXjO5TydSI) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Ramadan Kareem](https://open.spotify.com/album/1huOnyhI9aNCn7VFLiJotR) | 2:44 | 2024-03-12 |  |
+| [Ramadan Kareem](https://open.spotify.com/track/5mCDklMa5aWMVXjO5TydSI) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Ramadan Kareem](https://open.spotify.com/album/1huOnyhI9aNCn7VFLiJotR) | 2:44 | 2024-03-12 | 2026-01-30 |
 | [Ramadan Kareem](https://open.spotify.com/track/3nuHLgsBAfputkBxMzYNqa) | [Safia Ali](https://open.spotify.com/artist/2hbUUCwOHSSjEws8gNhN7N) | [Ramadan Kareem](https://open.spotify.com/album/6rZi9DL9UMx6IkgFvwvKA6) | 2:59 | 2025-02-28 | 2025-12-23 |
 | [Ramadan Karim](https://open.spotify.com/track/6kC8PTMYaP5X3e5Zu0QyM0) | [Hakim](https://open.spotify.com/artist/5sTW6xhUuMh7cnDkg65P9p) | [Ramadan Karim](https://open.spotify.com/album/2dKT9YPw3ZBnw2Acglq70D) | 3:42 | 2024-03-12 | 2025-01-29 |
 | [Rmdan Gana](https://open.spotify.com/track/6jUCTPPX5VAEFaiQl75xel) | [Mohamed Abdel Mottaleb](https://open.spotify.com/artist/2nX9ORfbBVoEWXP7DonRGM) | [Rmdan Gana](https://open.spotify.com/album/4UJv2mZuwdolbIYrUsaqDL) | 9:46 | 2024-03-12 |  |

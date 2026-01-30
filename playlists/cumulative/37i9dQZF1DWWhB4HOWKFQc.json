@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Nuca",
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Ifan Seventeen",
   "name": "Lagi Viral",
   "tracks": [
     {
@@ -1884,7 +1884,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 290262,
       "name": "Awal Kisah Selamanya (feat. Barsena Bestandhi)",
       "url": "https://open.spotify.com/track/2VIG7a12qlUHDmk8ojk7q7"
@@ -2870,7 +2870,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 233530,
       "name": "Berpindah Hati",
       "url": "https://open.spotify.com/track/0GBUXawOaEdOD0inrb0l3l"
@@ -3443,6 +3443,24 @@
     },
     {
       "album": {
+        "name": "DxS 1st Mini Album 'Serenade'",
+        "url": "https://open.spotify.com/album/3y4DPsgAsvEMFLrm4yHmG7"
+      },
+      "artists": [
+        {
+          "name": "DxS",
+          "url": "https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/7KOijaSUhe0dyiKNZLsl8X"
+    },
+    {
+      "album": {
         "name": "blue",
         "url": "https://open.spotify.com/album/4dhoGa2hqBQ402BaIwBpcn"
       },
@@ -3598,7 +3616,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 240875,
       "name": "Bodohnya Aku",
       "url": "https://open.spotify.com/track/0u4FQAomxIzy56IEh3bhCy"
@@ -5049,6 +5067,24 @@
     },
     {
       "album": {
+        "name": "Premiers pas",
+        "url": "https://open.spotify.com/album/4TdXHEGmIaPV2xvqTnf5z4"
+      },
+      "artists": [
+        {
+          "name": "Kim",
+          "url": "https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224360,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/6ra0162M1vgBI3Ams3r2SK"
+    },
+    {
+      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/4w177LbRYa3z07NifGptFp"
       },
@@ -6090,7 +6126,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 233640,
       "name": "Di Ujung Jalan",
       "url": "https://open.spotify.com/track/70GUGyk1sJYFTqZpSJj2KM"
@@ -8225,6 +8261,24 @@
     },
     {
       "album": {
+        "name": "EUPHORIA",
+        "url": "https://open.spotify.com/album/5nefAD1EsXbLksNfBJorPV"
+      },
+      "artists": [
+        {
+          "name": "ALPHA DRIVE ONE",
+          "url": "https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "FREAK ALARM",
+      "url": "https://open.spotify.com/track/44V5j1NOwRWBV8krmLnr4J"
+    },
+    {
+      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -9389,6 +9443,24 @@
     },
     {
       "album": {
+        "name": "Hatimu Milik Dia",
+        "url": "https://open.spotify.com/album/4kSJE74r4XpfYs0m9VfwjV"
+      },
+      "artists": [
+        {
+          "name": "Arvian Dwi",
+          "url": "https://open.spotify.com/artist/0tB33cNAVw1H2enMHpgFiP"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Hatimu Milik Dia",
+      "url": "https://open.spotify.com/track/3Z9MsWP98Y0FyOPUoYQjnK"
+    },
+    {
+      "album": {
         "name": "Haunting",
         "url": "https://open.spotify.com/album/4naAjJSa7uUkp0EWtEKJSA"
       },
@@ -9574,6 +9646,24 @@
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
+    },
+    {
+      "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/0atfWEzoZMgo9zCwFd5nEN"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160966,
+      "name": "HELICOPTER",
+      "url": "https://open.spotify.com/track/70UmjUeVQ2OSkOsDnpTXUj"
     },
     {
       "album": {
@@ -10348,6 +10438,24 @@
       "duration_ms": 209000,
       "name": "I find you",
       "url": "https://open.spotify.com/track/6XToFAM5UTBdWBKqiTUOfT"
+    },
+    {
+      "album": {
+        "name": "I Just Might",
+        "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212973,
+      "name": "I Just Might",
+      "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
     },
     {
       "album": {
@@ -11360,6 +11468,24 @@
       "duration_ms": 164774,
       "name": "Jangan Calling",
       "url": "https://open.spotify.com/track/4yeIzFGncBM6TMyhn7q7AL"
+    },
+    {
+      "album": {
+        "name": "Jangan Paksa Rindu (Beda)",
+        "url": "https://open.spotify.com/album/1JF51ZL4beqyoP0NrmzLqn"
+      },
+      "artists": [
+        {
+          "name": "Ifan Seventeen",
+          "url": "https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245226,
+      "name": "Jangan Paksa Rindu - Beda",
+      "url": "https://open.spotify.com/track/5PW7zDYYMCrR2BsfiieCOk"
     },
     {
       "album": {
@@ -13226,7 +13352,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 186000,
       "name": "Let Alone The One You Love",
       "url": "https://open.spotify.com/track/3Vd4fHzwS6pBS3muymjiDi"
@@ -14994,7 +15120,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 235395,
       "name": "MAYBE.",
       "url": "https://open.spotify.com/track/6yA2GnuThv4oDuEimu4Rmg"
@@ -15012,7 +15138,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 192751,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/31kxPC3ZB9AYwCLyHaqEVX"
@@ -15060,7 +15186,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 196477,
       "name": "mejikuhibiniu",
       "url": "https://open.spotify.com/track/278PwGlIm7MxVTZud18Rx4"
@@ -16504,7 +16630,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 254401,
       "name": "Ngapain Repot",
       "url": "https://open.spotify.com/track/7EJn4U6IySwLSfLZX07muY"
@@ -18456,7 +18582,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 255034,
       "name": "Pesona Sederhana",
       "url": "https://open.spotify.com/track/3k78Q9tWIFvJd6PNGtTofC"
@@ -22533,6 +22659,24 @@
     },
     {
       "album": {
+        "name": "Sorealist",
+        "url": "https://open.spotify.com/album/2Mp0Jvz37IpwQf4bNSiqwU"
+      },
+      "artists": [
+        {
+          "name": "Sore",
+          "url": "https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269271,
+      "name": "Sssst...",
+      "url": "https://open.spotify.com/track/66Dqcpogz4BwHrw6caEJVg"
+    },
+    {
+      "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
@@ -22654,6 +22798,28 @@
       "duration_ms": 226845,
       "name": "START!",
       "url": "https://open.spotify.com/track/4fdxYCWRK0YXkxepMKsCDG"
+    },
+    {
+      "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
       "album": {
@@ -23512,7 +23678,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 237769,
       "name": "Tak Berharap Lagi",
       "url": "https://open.spotify.com/track/1UJn9fyMNelBMvWTWu6FDZ"
@@ -25946,7 +26112,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 272770,
       "name": "Tunggal Eka",
       "url": "https://open.spotify.com/track/7g4Ewuh8njWucqfwY7PdmR"
@@ -27366,6 +27532,24 @@
       "duration_ms": 172381,
       "name": "WORK",
       "url": "https://open.spotify.com/track/3VHD84tIdyxRTtRc167YSR"
+    },
+    {
+      "album": {
+        "name": "work",
+        "url": "https://open.spotify.com/album/0PrpxrMj10YkptkVb1wHza"
+      },
+      "artists": [
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145756,
+      "name": "work",
+      "url": "https://open.spotify.com/track/3ISiRKaCo6JzoKRjNJlvQA"
     },
     {
       "album": {

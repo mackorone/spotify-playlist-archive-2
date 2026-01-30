@@ -841,6 +841,24 @@
     },
     {
       "album": {
+        "name": "Archangel",
+        "url": "https://open.spotify.com/album/0ZGteDT5o5g5U6kXh8WKzE"
+      },
+      "artists": [
+        {
+          "name": "Rameses B",
+          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179310,
+      "name": "Archangel",
+      "url": "https://open.spotify.com/track/1tGq4FApfRobvJuOIBtUlu"
+    },
+    {
+      "album": {
         "name": "Are You With Me",
         "url": "https://open.spotify.com/album/4gfTtzR8BV1LFHyWWfOM2Q"
       },

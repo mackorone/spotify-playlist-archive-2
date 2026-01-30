@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: YUNGBLUD, Steven Tyler and Joe Perry at The VMAs",
-  "num_followers": 750535,
+  "num_followers": 750655,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -1095,22 +1095,18 @@
     {
       "added_at": "2026-01-16 05:00:42",
       "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/1BLQgpr4ttkVWGVQcWaBl7"
+        "name": "How To Save A Life",
+        "url": "https://open.spotify.com/album/38ff67UQftBcR3DnBMSsyW"
       },
       "artists": [
         {
-          "name": "DIAMANTE",
-          "url": "https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW"
-        },
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
         }
       ],
-      "duration_ms": 224859,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6yfGW1uvUa3riTuZbf3zed"
+      "duration_ms": 218354,
+      "name": "How To Save A Life",
+      "url": "https://open.spotify.com/track/73TAUoeGvM7YPA8huwA9Yp"
     },
     {
       "added_at": "2026-01-16 05:00:42",
@@ -1131,18 +1127,22 @@
     {
       "added_at": "2026-01-16 05:00:42",
       "album": {
-        "name": "How To Save A Life",
-        "url": "https://open.spotify.com/album/38ff67UQftBcR3DnBMSsyW"
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/1BLQgpr4ttkVWGVQcWaBl7"
       },
       "artists": [
         {
-          "name": "TALK",
-          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+          "name": "DIAMANTE",
+          "url": "https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW"
+        },
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
         }
       ],
-      "duration_ms": 218354,
-      "name": "How To Save A Life",
-      "url": "https://open.spotify.com/track/73TAUoeGvM7YPA8huwA9Yp"
+      "duration_ms": 224859,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6yfGW1uvUa3riTuZbf3zed"
     },
     {
       "added_at": "2026-01-16 05:00:42",

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,162 songs - 2 day 16 hr 57 min
+1,164 songs - 2 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [DIVA](https://open.spotify.com/track/37KmFNIT72X8KJ1nsI3MTJ) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [microcelebrity](https://open.spotify.com/album/5e4T3urdHvFwYy2W4eqOOu) | 2:10 | 2024-05-16 | 2024-08-14 |
 | [DIVA \- SØL Remix](https://open.spotify.com/track/2z3ecxzZrkbAsIoWlb3u0I) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [SØL](https://open.spotify.com/artist/4lIm4NzXKTs3bHWxUq2C5a) | [DIVA \(SØL Remix\)](https://open.spotify.com/album/6mfwuGrWhFkFPby8T08m3E) | 2:17 | 2024-10-10 | 2025-01-21 |
 | [Dive](https://open.spotify.com/track/6q0Dab9y6ztIqXXMuqx9Oe) | [Into The Ether](https://open.spotify.com/artist/3d4kaVkfUluAiKUxDWDz5v), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Dive](https://open.spotify.com/album/5PluCcUGUOuGdODZhrYkRH) | 4:04 | 2022-08-12 | 2022-10-26 |
+| [Dive Deep \- VIP](https://open.spotify.com/track/5KFEiLxZnFkky2M2NvA6jj) | [Paper Skies](https://open.spotify.com/artist/3jtjn7NRlzHNIqdPvRf2WA), [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [Dive Deep \(VIP\)](https://open.spotify.com/album/4lFbabSNM6l0qyKYLxHiq7) | 3:26 | 2026-01-29 |  |
 | [Diving In](https://open.spotify.com/track/7amcoQCeUQxCNullGD7V7F) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Diving In](https://open.spotify.com/album/1WWPOc87xTKMigQYkmDRn9) | 3:49 | 2023-03-15 | 2023-06-08 |
 | [DNCR](https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [DNCR / imprint](https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ) | 3:07 | 2025-10-16 | 2026-01-20 |
 | [do it](https://open.spotify.com/track/3CQBzi1hvykznrFbZOGqnO) | [Enjac](https://open.spotify.com/artist/7iIiRw3JSWI8c9n8CIQS3f) | [do it](https://open.spotify.com/album/7IRCq5EPsHeuG3kSIu67X9) | 2:07 | 2022-03-09 | 2022-05-21 |
@@ -362,6 +363,7 @@
 | [FASTEST](https://open.spotify.com/track/2SFTvk2vpu26ZTpMuO3cjW) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq), [CLOUD ZERO](https://open.spotify.com/artist/5k8aKKH3WU39dXEbRyUhGJ) | [FASTEST](https://open.spotify.com/album/6PPdZI6Qg0AzTS10i2qxwl) | 2:30 | 2024-04-17 | 2024-07-06 |
 | [FEEL AGAIN](https://open.spotify.com/track/06R5NcXhfxHzw4b89lDB71) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [ellie d.](https://open.spotify.com/artist/1sb3Wnb1EfKjGrGZxC7uhh) | [FEEL AGAIN](https://open.spotify.com/album/4kHLkD35YdrfrJLdXeb3dW) | 2:47 | 2024-05-22 | 2024-08-14 |
 | [Feel Again](https://open.spotify.com/track/4kqikvllN5GRPrxf9vQ1SR) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 3:15 | 2022-11-19 | 2023-02-17 |
+| [feel somethin](https://open.spotify.com/track/51nnQoiyjsl0lMntLaLxGU) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [CLOSING THE CHAPTER](https://open.spotify.com/album/32g6vRZQboZDmljMlqS9PP) | 2:30 | 2026-01-29 |  |
 | [Feel Ur Luv](https://open.spotify.com/track/1pmn3XAFp1H1rJdyBB9dpN) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Feel Ur Luv](https://open.spotify.com/album/6IM2n8xlbXMefM1fXRxI40) | 3:06 | 2025-02-07 | 2025-05-03 |
 | [feeling](https://open.spotify.com/track/5mdCX1AXoc8EDupVjAn581) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [feeling](https://open.spotify.com/album/1tyMgTVA2zIUjppWaqmf5W) | 3:06 | 2022-02-04 | 2022-04-16 |
 | [Feeling](https://open.spotify.com/track/16vnGjVUbGeniz8aXAxUxk) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz) | [Feeling](https://open.spotify.com/album/1j5koOWuY2kIoCX3hsPayx) | 3:20 | 2025-08-26 | 2025-11-18 |

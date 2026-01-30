@@ -1,28 +1,28 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 652,
+  "num_followers": 661,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAEoSC2NZaBZypDAePzyzOWIj57uJV/",
+  "snapshot_id": "AAAEsW3l4DYNPVrxd80RCvI6TjTZTyS1",
   "tracks": [
     {
-      "added_at": "2026-01-17 03:53:38",
+      "added_at": "2026-01-29 01:31:47",
       "album": {
-        "name": "Time Is A Weapon",
-        "url": "https://open.spotify.com/album/46wy0eBBTvxxI3llxxWkAE"
+        "name": "Maldita",
+        "url": "https://open.spotify.com/album/1rYProq1DseWQyV6kavpkZ"
       },
       "artists": [
         {
-          "name": "Julience",
-          "url": "https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL"
+          "name": "Voodoo Zombie",
+          "url": "https://open.spotify.com/artist/7vgH1SZNi1o8NCn0hKn29X"
         }
       ],
-      "duration_ms": 210180,
-      "name": "Time Is A Weapon",
-      "url": "https://open.spotify.com/track/7F0rYUVBoEV4wEFeXG070e"
+      "duration_ms": 153503,
+      "name": "Maldita",
+      "url": "https://open.spotify.com/track/2eTvToQcswkSYtFlopW35L"
     },
     {
       "added_at": "2025-11-20 17:10:09",
@@ -41,20 +41,20 @@
       "url": "https://open.spotify.com/track/121B2HvqI9ZyONMYDy7AJ6"
     },
     {
-      "added_at": "2025-12-20 12:29:34",
+      "added_at": "2026-01-17 03:53:38",
       "album": {
-        "name": "Plato",
-        "url": "https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x"
+        "name": "Time Is A Weapon",
+        "url": "https://open.spotify.com/album/46wy0eBBTvxxI3llxxWkAE"
       },
       "artists": [
         {
-          "name": "Americarnage",
-          "url": "https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD"
+          "name": "Julience",
+          "url": "https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL"
         }
       ],
-      "duration_ms": 260489,
-      "name": "April Breaking Down",
-      "url": "https://open.spotify.com/track/4osFu1AgRmoZPpx06I6Mlk"
+      "duration_ms": 210180,
+      "name": "Time Is A Weapon",
+      "url": "https://open.spotify.com/track/7F0rYUVBoEV4wEFeXG070e"
     },
     {
       "added_at": "2025-09-27 21:56:41",
@@ -73,22 +73,6 @@
       "url": "https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22"
     },
     {
-      "added_at": "2025-12-30 21:03:31",
-      "album": {
-        "name": "Timelapse",
-        "url": "https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE"
-      },
-      "artists": [
-        {
-          "name": "Theo Ford",
-          "url": "https://open.spotify.com/artist/2ohDR2ERUEVCG3RgeXSS7S"
-        }
-      ],
-      "duration_ms": 380689,
-      "name": "Tragic Lullaby",
-      "url": "https://open.spotify.com/track/0ygYT9IiBh07owS9z0owCX"
-    },
-    {
       "added_at": "2026-01-25 14:53:51",
       "album": {
         "name": "GROWING",
@@ -103,6 +87,38 @@
       "duration_ms": 169734,
       "name": "GROWING",
       "url": "https://open.spotify.com/track/7zbLzzH7GOOAKcNtnr3hcR"
+    },
+    {
+      "added_at": "2025-12-20 12:29:34",
+      "album": {
+        "name": "Plato",
+        "url": "https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x"
+      },
+      "artists": [
+        {
+          "name": "Americarnage",
+          "url": "https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD"
+        }
+      ],
+      "duration_ms": 260489,
+      "name": "April Breaking Down",
+      "url": "https://open.spotify.com/track/4osFu1AgRmoZPpx06I6Mlk"
+    },
+    {
+      "added_at": "2025-12-30 21:03:31",
+      "album": {
+        "name": "Timelapse",
+        "url": "https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE"
+      },
+      "artists": [
+        {
+          "name": "Theo Ford",
+          "url": "https://open.spotify.com/artist/2ohDR2ERUEVCG3RgeXSS7S"
+        }
+      ],
+      "duration_ms": 380689,
+      "name": "Tragic Lullaby",
+      "url": "https://open.spotify.com/track/0ygYT9IiBh07owS9z0owCX"
     },
     {
       "added_at": "2025-10-18 13:14:20",
@@ -1279,6 +1295,170 @@
       "duration_ms": 273712,
       "name": "Baron Samedi",
       "url": "https://open.spotify.com/track/1TqhI39fe1XbZBkwRMmlrZ"
+    },
+    {
+      "added_at": "2026-01-29 01:21:02",
+      "album": {
+        "name": "Giant DeNiro (Live)",
+        "url": "https://open.spotify.com/album/0QkYALhuOncbbnnsjMhGV8"
+      },
+      "artists": [
+        {
+          "name": "Giant DeNiro",
+          "url": "https://open.spotify.com/artist/5lWLKEOgc6ZW7sliDPAPdY"
+        }
+      ],
+      "duration_ms": 174953,
+      "name": "Young Women Infected with Jezebel Spirits - Live",
+      "url": "https://open.spotify.com/track/7lrT63Fla8L2qXzp5EVCFk"
+    },
+    {
+      "added_at": "2026-01-29 01:22:20",
+      "album": {
+        "name": "Ain't no story of love",
+        "url": "https://open.spotify.com/album/5P8mY5mb96uTL53ThfjKfQ"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Bernhardtz",
+          "url": "https://open.spotify.com/artist/1KhYjWBOtFNMf0VaIyWnK9"
+        }
+      ],
+      "duration_ms": 346431,
+      "name": "Ain't no story of love",
+      "url": "https://open.spotify.com/track/3f0iRjjbwR4gBSqlSjAOwe"
+    },
+    {
+      "added_at": "2026-01-29 01:35:37",
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/0YGva80Km2kPxFko2KglWD"
+      },
+      "artists": [
+        {
+          "name": "Talking Horses",
+          "url": "https://open.spotify.com/artist/1IY7UHFAiPbjwHxM2lzB06"
+        }
+      ],
+      "duration_ms": 265890,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/2px3o5x9yKjcOH0jggvuTh"
+    },
+    {
+      "added_at": "2026-01-29 03:38:24",
+      "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/5Omt4VUwZXFkN5xte9EqLF"
+      },
+      "artists": [
+        {
+          "name": "Hazy Lane",
+          "url": "https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0"
+        }
+      ],
+      "duration_ms": 230334,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/3wHq81AsSq1QvLsdIhsyM8"
+    },
+    {
+      "added_at": "2026-01-29 04:01:42",
+      "album": {
+        "name": "GIVE ME A LITTLE SOMETHING",
+        "url": "https://open.spotify.com/album/3EQVs1LxN2BAc1rSHHp9iB"
+      },
+      "artists": [
+        {
+          "name": "Whiskey South",
+          "url": "https://open.spotify.com/artist/3FW9jdn2u4rDfo73WkfLsk"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "GIVE ME A LITTLE SOMETHING",
+      "url": "https://open.spotify.com/track/31g6LI5FcZIg8qtwJu9adO"
+    },
+    {
+      "added_at": "2026-01-29 04:03:02",
+      "album": {
+        "name": "Black River",
+        "url": "https://open.spotify.com/album/4g5xvsC4cPWFqzBgJqu1ZF"
+      },
+      "artists": [
+        {
+          "name": "The Striders",
+          "url": "https://open.spotify.com/artist/4uKcXXOfxVESSegXxJA6YA"
+        }
+      ],
+      "duration_ms": 306000,
+      "name": "Black River",
+      "url": "https://open.spotify.com/track/1hLyYuATe5bQT3ewKkx8U7"
+    },
+    {
+      "added_at": "2026-01-29 14:22:16",
+      "album": {
+        "name": "Heart of a Coward / Maelstrom",
+        "url": "https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB"
+      },
+      "artists": [
+        {
+          "name": "Starikova",
+          "url": "https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA"
+        }
+      ],
+      "duration_ms": 270498,
+      "name": "Heart of a Coward",
+      "url": "https://open.spotify.com/track/7vmfuBMDV2eQsjFm2rLPLv"
+    },
+    {
+      "added_at": "2026-01-29 14:34:29",
+      "album": {
+        "name": "\u042f\u0434",
+        "url": "https://open.spotify.com/album/6epDfKdwgN4YaadHMAf8ek"
+      },
+      "artists": [
+        {
+          "name": "\u041f\u0430\u043b\u043c\u0435\u0440\u0438\u043d",
+          "url": "https://open.spotify.com/artist/4TWuUkIy1dyDqDkGUFqglO"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "\u042f\u0434",
+      "url": "https://open.spotify.com/track/6pdt8es3jvmkqpbAL7RzQU"
+    },
+    {
+      "added_at": "2026-01-29 14:44:15",
+      "album": {
+        "name": "Mojo On",
+        "url": "https://open.spotify.com/album/22flR5Lny2T7GFrDKLxxUD"
+      },
+      "artists": [
+        {
+          "name": "Luback",
+          "url": "https://open.spotify.com/artist/7A4hy5k2AzVjPu8yjXnZr9"
+        },
+        {
+          "name": "The Clics",
+          "url": "https://open.spotify.com/artist/0haX6u2d6rCkAXWJB4d9sO"
+        }
+      ],
+      "duration_ms": 261038,
+      "name": "Mojo On",
+      "url": "https://open.spotify.com/track/3TdRMlfp6LGeAtOASCN8nx"
+    },
+    {
+      "added_at": "2026-01-29 14:47:04",
+      "album": {
+        "name": "Objects in the Mirrors",
+        "url": "https://open.spotify.com/album/5iZG0EZiKBMSlomcPjxdVF"
+      },
+      "artists": [
+        {
+          "name": "The Paperbags",
+          "url": "https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk"
+        }
+      ],
+      "duration_ms": 263495,
+      "name": "Objects in the Mirrors",
+      "url": "https://open.spotify.com/track/7FgMPd1QmYQlcCTu2yMum3"
     }
   ],
   "unique_name": "Unsigned Rock",

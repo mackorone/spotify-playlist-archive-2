@@ -5876,7 +5876,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 276643,
       "name": "Dhun (From \"Saiyaara\")",
       "url": "https://open.spotify.com/track/1GFQthxDi4Tqe3wJ5j0G5S"
@@ -6352,6 +6352,36 @@
       "duration_ms": 333200,
       "name": "Dil Kyun Yeh Mera (From \"Kites\")",
       "url": "https://open.spotify.com/track/66uMmK9uefgoflmaxbtQCL"
+    },
+    {
+      "album": {
+        "name": "Dil Lagana Mana Tha",
+        "url": "https://open.spotify.com/album/2BqIFRHlGkSt9SStEKxQtd"
+      },
+      "artists": [
+        {
+          "name": "Krish Mondal",
+          "url": "https://open.spotify.com/artist/3JGOBJUPbwIb3fri0dcqbt"
+        },
+        {
+          "name": "Kishore Mondal",
+          "url": "https://open.spotify.com/artist/6RHkm1pS4aeURu2w9jDaPX"
+        },
+        {
+          "name": "Devv Sadaana",
+          "url": "https://open.spotify.com/artist/7wIvebeuJfBQ2fVQmhk5kO"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198875,
+      "name": "Dil Lagana Mana Tha",
+      "url": "https://open.spotify.com/track/3A3oq3VMSboPPWBYTRq0nX"
     },
     {
       "album": {
@@ -11590,7 +11620,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 228969,
       "name": "Jeena Jeena",
       "url": "https://open.spotify.com/track/5lKE040hUfDAKOR8HLG92p"
@@ -11642,7 +11672,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 236933,
       "name": "Jeene Laga Hoon",
       "url": "https://open.spotify.com/track/3t3wsY5IdLVzB9WidegJSU"
@@ -16084,7 +16114,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 228000,
       "name": "Mann Mera - Original Version",
       "url": "https://open.spotify.com/track/1As2Jo89VTF9V3D6GuOPr9"
@@ -23118,7 +23148,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 196253,
       "name": "Sheesha - Aakhya Mai Aakh Ghali Jo Beran",
       "url": "https://open.spotify.com/track/412poAqbwD8OC0dYD1nBkV"
@@ -23418,7 +23448,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 586075,
       "name": "Shree Hanuman Chalisa",
       "url": "https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx"
@@ -24946,7 +24976,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 309640,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/37j9F77SglsxJruWdGUxIY"
@@ -24976,7 +25006,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 309640,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/4FeczSomVWVyU4FW7xDeAI"
@@ -25378,7 +25408,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 323520,
       "name": "Teri Deewani",
       "url": "https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T"
@@ -25404,7 +25434,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 323520,
       "name": "Teri Deewani",
       "url": "https://open.spotify.com/track/4IgRZYozl466yNlOnf8qRO"
@@ -28960,7 +28990,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-23",
+      "date_removed": null,
       "duration_ms": 303680,
       "name": "Zara Sa",
       "url": "https://open.spotify.com/track/18YHbIhrleUkKKj2DvEp79"

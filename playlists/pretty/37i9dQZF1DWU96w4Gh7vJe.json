@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 578917,
+  "num_followers": 578892,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2026-01-28 07:01:20",
       "album": {
+        "name": "Buwan",
+        "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
+      },
+      "artists": [
+        {
+          "name": "juan karlos",
+          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
+        }
+      ],
+      "duration_ms": 343446,
+      "name": "Buwan",
+      "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
+    },
+    {
+      "added_at": "2026-01-28 07:01:20",
+      "album": {
         "name": "homebdy (feat. Madman Stan)",
         "url": "https://open.spotify.com/album/1eNpFnIEHvsFYcIaSnf3bJ"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 141762,
       "name": "homebdy (feat. Madman Stan)",
       "url": "https://open.spotify.com/track/01iNOMVE89uKaurFTDZX2Y"
-    },
-    {
-      "added_at": "2026-01-28 07:01:20",
-      "album": {
-        "name": "Buwan",
-        "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
-      },
-      "artists": [
-        {
-          "name": "juan karlos",
-          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
-        }
-      ],
-      "duration_ms": 343446,
-      "name": "Buwan",
-      "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
     },
     {
       "added_at": "2026-01-28 07:01:20",
@@ -523,6 +523,22 @@
     {
       "added_at": "2026-01-28 07:01:20",
       "album": {
+        "name": "Lihim",
+        "url": "https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U"
+      },
+      "artists": [
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        }
+      ],
+      "duration_ms": 246346,
+      "name": "Lihim",
+      "url": "https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo"
+    },
+    {
+      "added_at": "2026-01-28 07:01:20",
+      "album": {
         "name": "Pakundangan (feat. Hev Abi)",
         "url": "https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 197933,
       "name": "Pakundangan (feat. Hev Abi)",
       "url": "https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P"
-    },
-    {
-      "added_at": "2026-01-28 07:01:20",
-      "album": {
-        "name": "Lihim",
-        "url": "https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U"
-      },
-      "artists": [
-        {
-          "name": "Arthur Miguel",
-          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
-        }
-      ],
-      "duration_ms": 246346,
-      "name": "Lihim",
-      "url": "https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo"
     },
     {
       "added_at": "2026-01-28 07:01:20",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-01-28 07:01:20",
       "album": {
-        "name": "Andalucia",
-        "url": "https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh"
-      },
-      "artists": [
-        {
-          "name": "IV OF SPADES",
-          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
-        }
-      ],
-      "duration_ms": 201168,
-      "name": "Paru-Paro",
-      "url": "https://open.spotify.com/track/4vJoaI1445sreRuSYAdaLW"
-    },
-    {
-      "added_at": "2026-01-28 07:01:20",
-      "album": {
         "name": "Hirap Aminin",
         "url": "https://open.spotify.com/album/3OKMDzqfbeUCCBtvAwWgTz"
       },
@@ -867,18 +851,34 @@
     {
       "added_at": "2026-01-28 07:01:20",
       "album": {
-        "name": "Piliin",
-        "url": "https://open.spotify.com/album/5BwCXtMXzUlqM80zsqoFyJ"
+        "name": "Andalucia",
+        "url": "https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh"
       },
       "artists": [
         {
-          "name": "Adie",
-          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+          "name": "IV OF SPADES",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
         }
       ],
-      "duration_ms": 279399,
-      "name": "Piliin",
-      "url": "https://open.spotify.com/track/6NTsYsrWYtsXhTPNZAV0Dp"
+      "duration_ms": 201168,
+      "name": "Paru-Paro",
+      "url": "https://open.spotify.com/track/4vJoaI1445sreRuSYAdaLW"
+    },
+    {
+      "added_at": "2026-01-28 07:01:20",
+      "album": {
+        "name": "Pasulong",
+        "url": "https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2"
+      },
+      "artists": [
+        {
+          "name": "Alamat",
+          "url": "https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW"
+        }
+      ],
+      "duration_ms": 210782,
+      "name": "Maharani",
+      "url": "https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT"
     }
   ],
   "unique_name": "Relax Tayo",

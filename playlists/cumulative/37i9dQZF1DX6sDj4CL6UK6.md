@@ -2,9 +2,9 @@
 
 ### [Indian Indie English](https://open.spotify.com/playlist/37i9dQZF1DX6sDj4CL6UK6)
 
-> English songs from Indian artists<br/>Cover: Temsu Clover
+> English songs from Indian artists<br/>Cover: Karshni
 
-380 songs - 21 hr 42 min
+381 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,8 @@
 | [No Vices](https://open.spotify.com/track/1vyT3ZvJmrZwHzRk8kp2Dw) | [Jaimin](https://open.spotify.com/artist/2yHl2ywtGURKuL3QeFPbRv), [Kadambari Zokarkar](https://open.spotify.com/artist/0UnbYjdU25HiOZxpZUwXKF), [Pradyumna Singh Manot](https://open.spotify.com/artist/1zD7QQJJWPfBChpd4gr3lC), [Charles Parker Mertens](https://open.spotify.com/artist/37XAa84VecRp01Z1vXzeF0), [Anchit Sengupta](https://open.spotify.com/artist/0xXWeEnk4wmJbpVodBad2i), [Arjun Chakraborty](https://open.spotify.com/artist/5nt7xhqFyfYtZtOrnuBAlX) | [No Vices](https://open.spotify.com/album/0kDN3Si9tTnOahUBSheCfq) | 4:24 | 2024-04-24 | 2025-11-29 |
 | [Nobody Else But You](https://open.spotify.com/track/17BN6uaGdmPuc9HhCRTNlB) | [Laica](https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ) | [Nobody Else But You](https://open.spotify.com/album/1sgoRiWtrycgeZ0iN7rRFa) | 3:19 | 2023-12-15 | 2024-04-19 |
 | [Nobody Else but You](https://open.spotify.com/track/1O4HQF2NVTbxnthGUooSiT) | [Laica](https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ) | [Nobody Else but You](https://open.spotify.com/album/7xFNdbh7URD0ertecR7WjY) | 3:19 | 2023-05-24 | 2024-01-10 |
-| [Not a Love Song \- Acoustic](https://open.spotify.com/track/2vX5YC2fyzBMlgb9HEcXhf) | [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [Yashaswini Dayama](https://open.spotify.com/artist/3QYqtJBH4EXvYFQuVTtWYW), [Abhay Deol](https://open.spotify.com/artist/1WTFOsRsg1Vzx5NzyE53JR), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Sagar Desai](https://open.spotify.com/artist/2GD7Jxc5ztOuLNsZIHBREJ) | [What Are the Odds?](https://open.spotify.com/album/33iMwGCgwBkVoi3UZgcfws) | 3:54 | 2024-11-22 |  |
+| [Not a Love Song \- Acoustic](https://open.spotify.com/track/2vX5YC2fyzBMlgb9HEcXhf) | [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [Yashaswini Dayama](https://open.spotify.com/artist/3QYqtJBH4EXvYFQuVTtWYW), [Abhay Deol](https://open.spotify.com/artist/1WTFOsRsg1Vzx5NzyE53JR), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Sagar Desai](https://open.spotify.com/artist/2GD7Jxc5ztOuLNsZIHBREJ) | [What Are the Odds?](https://open.spotify.com/album/33iMwGCgwBkVoi3UZgcfws) | 3:54 | 2024-11-22 | 2026-01-30 |
+| [NOT A ROCKSTAR](https://open.spotify.com/track/3A8cLBzIsB5iIr8Byu5eqE) | [Shikhar](https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9), [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [NOT A ROCKSTAR](https://open.spotify.com/album/2NrjqOYMj6FQzf7SwRg3IR) | 2:46 | 2026-01-29 |  |
 | [Ocean](https://open.spotify.com/track/4BL4aEbddW0OGv6fFYYFUt) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Ocean](https://open.spotify.com/album/2Anzoekoz1jYgFMyHSnV9t) | 4:12 | 2024-11-22 | 2025-12-05 |
 | [Ocean Calls My Name](https://open.spotify.com/track/0E6j1oe4eGdjtb039vhXq8) | [Anupam Roy](https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L) | [Ocean Calls My Name](https://open.spotify.com/album/554nCrw78BshclRnREAjUV) | 4:23 | 2022-03-25 | 2024-08-23 |
 | [Oceans](https://open.spotify.com/track/48IEgZ2qIuMXY8XTpGvlEK) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Oceans](https://open.spotify.com/album/62Sk2TEDaiPB7B45FIQCmw) | 3:45 | 2022-09-30 | 2023-01-13 |

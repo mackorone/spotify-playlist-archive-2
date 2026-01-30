@@ -4,7 +4,7 @@
 
 > 💯 Suomi.
 
-1,103 songs - 2 day 4 hr 25 min
+1,104 songs - 2 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Askel kerrallaan \(feat\. HUGO\)](https://open.spotify.com/track/0UcTBOojoImf3KI3ncPcPq) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Askel kerrallaan \(feat\. HUGO\)](https://open.spotify.com/album/0JbkWkTx8NyAQnKtxNQuwL) | 3:03 | 2024-11-28 | 2025-02-28 |
 | [Atlas \(feat\. KIKI\)](https://open.spotify.com/track/2gw1pC8Gkdx6YFSvKLuds0) | [Lukas Leon](https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n), [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [Atlas \(feat\. KIKI\)](https://open.spotify.com/album/0aIWt94LuCqovkCKTtqRkP) | 3:01 | 2024-10-24 | 2024-12-13 |
 | [AUDEMARS PIGUET](https://open.spotify.com/track/0aakrLJ6HaeyfaCwtbCucg) | [BALOBOIZ](https://open.spotify.com/artist/08VZsyOGm9AsqIuICGVvdo) | [AUDEMARS PIGUET](https://open.spotify.com/album/13pFiO6TJFUUiLo6kNIX7R) | 2:47 | 2024-06-06 | 2024-07-02 |
-| [AUDEMARS PiQUET](https://open.spotify.com/track/1OPszPKUlwORknReyxf426) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4) | [2turnt](https://open.spotify.com/album/2YJSIXDXscdi7Yj0Rw8y09) | 3:53 | 2025-12-18 |  |
+| [AUDEMARS PiQUET](https://open.spotify.com/track/1OPszPKUlwORknReyxf426) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4) | [2turnt](https://open.spotify.com/album/2YJSIXDXscdi7Yj0Rw8y09) | 3:53 | 2025-12-18 | 2026-01-30 |
 | [AURA](https://open.spotify.com/track/4t8h8yMNmBpeHQYi8FfIUI) | [Krissemane](https://open.spotify.com/artist/4iECab0POmzwLrf28xg7cb) | [AURA](https://open.spotify.com/album/42KcHxSUIFwxvj72vIuOjf) | 2:10 | 2025-05-08 | 2025-05-30 |
 | [Aurinkoon](https://open.spotify.com/track/1jyva7msC2LeaBA9jFCsLZ) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Aurinkoon](https://open.spotify.com/album/2aiTG7ZgcwTxQobX1nScjj) | 2:27 | 2024-05-09 | 2024-09-06 |
 | [Autiotalo](https://open.spotify.com/track/5dXWjpD4NPjB8csvnshuWu) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Autiotalo](https://open.spotify.com/album/63MCMtSJoQrHnyfZoKJdVg) | 2:41 | 2024-04-11 | 2024-07-02 |
@@ -644,6 +644,7 @@
 | [Mä tiedän](https://open.spotify.com/track/0rSD1Am2Fss38eWRWoSivT) | [ALE](https://open.spotify.com/artist/1izgcy57Czf3DH50GcSdwW) | [Still Hustla EP](https://open.spotify.com/album/12F0BHnWuiYcFWu24fyfhB) | 2:45 | 2024-03-28 | 2024-04-12 |
 | [Mäk Gälis aka Siskos Broidi \(2024\)](https://open.spotify.com/track/10hOi9EVbHEJCnfPLXdzHr) | [Mäk Gälis](https://open.spotify.com/artist/3TjISn9d9gIsTasWGYtlWR) | [Mäk Gälis aka Siskos Broidi \(2024\)](https://open.spotify.com/album/364uYlJRjMYi5M29RkZOMm) | 2:51 | 2024-05-30 | 2024-07-02 |
 | [Naadindoo \(feat\. Ege Zulu\)](https://open.spotify.com/track/4CV6CKX2rRNLbfUH0PN3yL) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Naadindoo \(feat\. Ege Zulu\)](https://open.spotify.com/album/5qIgADv917SGS6fqhguuZz) | 2:37 | 2025-07-17 | 2025-09-19 |
+| [Naamat](https://open.spotify.com/track/3Lp4gjt2Wa3ch8zNHEdegK) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [](https://open.spotify.com/album/null) | 2:39 | 2026-01-29 |  |
 | [Naapurintyttö](https://open.spotify.com/track/57JZLky65bz6I0rtLzkigX) | [Pyzze](https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ) | [Naapurintyttö](https://open.spotify.com/album/240PwR8HJSqfT3B5WAFtYx) | 2:43 | 2025-05-01 | 2025-05-16 |
 | [Naapuruston Sankari](https://open.spotify.com/track/2EcZmlpGYRRh6cZlTmW2H7) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Neighbourhood Kid](https://open.spotify.com/album/7u932Lm9aZ3xHwMGRvjZTm) | 2:31 | 2025-09-25 | 2026-01-15 |
 | [NBA](https://open.spotify.com/track/51UGWpfgtfah9FNodYMv07) | [YB026](https://open.spotify.com/artist/4Qe6IKIsL2B1CeJ8q9a6Om), [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4) | [NBA](https://open.spotify.com/album/0QJuqtUbv5TiITMmSA6VwW) | 1:53 | 2025-10-16 | 2025-11-28 |

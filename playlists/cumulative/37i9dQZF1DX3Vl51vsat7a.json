@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Zimmer90, Eileen Alister, LUKAS OSCAR, Yu",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: LUKAS OSCAR",
   "name": "RADAR GSA",
   "tracks": [
     {
@@ -778,7 +778,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 171968,
       "name": "AUTO",
       "url": "https://open.spotify.com/track/6e0cofC3xE1aU6n9kueTGE"
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 186666,
       "name": "Blinde Passagiere",
       "url": "https://open.spotify.com/track/7j4R30Ae96SBBkTAolLCcb"
@@ -1748,7 +1748,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 155528,
       "name": "Claw Marks",
       "url": "https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di"
@@ -1968,7 +1968,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 163105,
       "name": "Dankbar",
       "url": "https://open.spotify.com/track/0iggusHoFL0jVH9a3rMMUT"
@@ -2272,7 +2272,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 158053,
       "name": "Do One",
       "url": "https://open.spotify.com/track/0m8IKzcaOnjMIDMgFzmkFE"
@@ -2536,7 +2536,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 116981,
       "name": "Ehhwww",
       "url": "https://open.spotify.com/track/5vVOsEGvnwpvlsbW5YHOWN"
@@ -3339,6 +3339,28 @@
     },
     {
       "album": {
+        "name": "Moth Music",
+        "url": "https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp"
+      },
+      "artists": [
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        },
+        {
+          "name": "Bazzazian",
+          "url": "https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218866,
+      "name": "Hannah Montana",
+      "url": "https://open.spotify.com/track/7fidUHHPzuVuN6ECBsp2vJ"
+    },
+    {
+      "album": {
         "name": "SCARYTALE",
         "url": "https://open.spotify.com/album/1AxVUJ0eJ0lyOzgRYXIP5g"
       },
@@ -3614,7 +3636,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 249140,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9"
@@ -4530,6 +4552,24 @@
       "duration_ms": 160136,
       "name": "Letzte Chance",
       "url": "https://open.spotify.com/track/4geKoPP3hO9nuc24u7kaaY"
+    },
+    {
+      "album": {
+        "name": "LIEBE ODER PFLICHT",
+        "url": "https://open.spotify.com/album/60c7iOpvcauQMzC93KHxvp"
+      },
+      "artists": [
+        {
+          "name": "Niyas",
+          "url": "https://open.spotify.com/artist/3vsudk9aA5Cx5JHEqpNY6k"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139774,
+      "name": "LIEBE ODER PFLICHT",
+      "url": "https://open.spotify.com/track/065HHeAU5OjYWfODBnmWrI"
     },
     {
       "album": {
@@ -5774,7 +5814,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 121824,
       "name": "OMG",
       "url": "https://open.spotify.com/track/4ykEkTdH5eTkt7qRxfMard"
@@ -5810,7 +5850,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 188722,
       "name": "Onions",
       "url": "https://open.spotify.com/track/6R1NQXv3yXEMNmEoq3oV5w"
@@ -6506,7 +6546,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 186000,
       "name": "Sag Was",
       "url": "https://open.spotify.com/track/5h7eSdgx20arGtQSfftIBw"
@@ -6546,6 +6586,24 @@
       "duration_ms": 162631,
       "name": "Sawdust",
       "url": "https://open.spotify.com/track/4aO6eZ9mIcyKXtEi9zxeXk"
+    },
+    {
+      "album": {
+        "name": "schlechte tochter",
+        "url": "https://open.spotify.com/album/0XWjsDi93ZoA87yo3BRiyw"
+      },
+      "artists": [
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207410,
+      "name": "schlechte tochter",
+      "url": "https://open.spotify.com/track/5NmPESN62fKy8xc4Dwsnfo"
     },
     {
       "album": {
@@ -6700,7 +6758,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 151229,
       "name": "seele ber\u00fchrst",
       "url": "https://open.spotify.com/track/5AIDqFb0rSQ57uEjvLXoYM"
@@ -7029,6 +7087,24 @@
     },
     {
       "album": {
+        "name": "soft prn",
+        "url": "https://open.spotify.com/album/4ni9Y0IHtsDXzTqG4fPatp"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145678,
+      "name": "soft prn",
+      "url": "https://open.spotify.com/track/19KtAWkvjC37sWGIDf76CH"
+    },
+    {
+      "album": {
         "name": "Song on the Radio",
         "url": "https://open.spotify.com/album/78gyO9wf9RWsq3pbSTI5s8"
       },
@@ -7040,7 +7116,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 168597,
       "name": "Song on the Radio",
       "url": "https://open.spotify.com/track/2h8hP0rGjtq31emYwQx8D7"
@@ -7080,6 +7156,24 @@
       "duration_ms": 420408,
       "name": "SOUL TO KEEP",
       "url": "https://open.spotify.com/track/0CawnvXqgIy6BzbmGULcvE"
+    },
+    {
+      "album": {
+        "name": "Speakers Blowing",
+        "url": "https://open.spotify.com/album/1RmuOXWU4VmyJYFvHS9nSN"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221012,
+      "name": "Speakers Blowing",
+      "url": "https://open.spotify.com/track/2qVqEzl038sc3Br5pp9b8K"
     },
     {
       "album": {
@@ -7358,7 +7452,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 188764,
       "name": "take a minute",
       "url": "https://open.spotify.com/track/1eenXCseEdOy5uid5p8n7G"
@@ -7804,7 +7898,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 175714,
       "name": "Traum",
       "url": "https://open.spotify.com/track/7gNNL3bJEqtznjbyMVileY"
@@ -8283,6 +8377,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148988,
+      "name": "Wake up!",
+      "url": "https://open.spotify.com/track/2yZYMVtQ7KR1KIek1KYSAe"
+    },
+    {
+      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/2C6u68wrYE0McXsrMRPogc"
       },
@@ -8370,7 +8482,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 144650,
       "name": "Warum ich?",
       "url": "https://open.spotify.com/track/57vsdwAovYIYg6EqrPF4kH"
@@ -8446,7 +8558,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 136564,
       "name": "Weinst du",
       "url": "https://open.spotify.com/track/2jkunFyVP3mJvfKMs2X5oQ"
@@ -8652,6 +8764,24 @@
       "duration_ms": 194000,
       "name": "Whatever Happens",
       "url": "https://open.spotify.com/track/5xCDpuwEplVkm6C3eABxGy"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "LUKAS OSCAR",
+          "url": "https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168393,
+      "name": "Whats Next",
+      "url": "https://open.spotify.com/track/7wO5DWtpteZMuWst5lNBVN"
     },
     {
       "album": {
@@ -8978,7 +9108,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 116005,
       "name": "Zahide Did It Better",
       "url": "https://open.spotify.com/track/6Nt7EMuRkZxoG3B1MDdzpz"

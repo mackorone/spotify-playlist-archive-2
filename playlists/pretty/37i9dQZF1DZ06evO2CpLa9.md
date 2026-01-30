@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 
 > This is Santa Fe Klan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,680 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,744 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 49 | [Si Preguntan por Mí](https://open.spotify.com/track/4BHysBnR9QD9cSDlx0hC5s) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Si Preguntan por Mí](https://open.spotify.com/album/4POHA2ZskfSfw9s2zqRtKY) | 3:48 |
 | 50 | [Sangre Malandra](https://open.spotify.com/track/10NKRSt1URrU1zabH4rM61) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [THR Cru2](https://open.spotify.com/artist/7qfeRXz0fErzIordtUUxYn) | [Sangre Malandra](https://open.spotify.com/album/0MZA8dGCq9F494Au3Vyf5S) | 6:16 |
 
-Snapshot ID: `aXgAAAAAAAAuiIQA5q4Y1sowSybenfqs`
+Snapshot ID: `aXlRgAAAAABb3rmAMm3qQvASp9Npy1EN`

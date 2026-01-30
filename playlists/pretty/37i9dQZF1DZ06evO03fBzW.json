@@ -1,12 +1,12 @@
 {
   "description": "This is No Doubt. The essential tracks, all in one playlist.",
-  "num_followers": 118687,
+  "num_followers": 118695,
   "original_name": "This Is No Doubt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXgAAAAAAABkqMbdvL0FX4Mm+1MyquCO",
+  "snapshot_id": "aXlRgAAAAADnTQ9UXEbRd/UQjS1TTGHo",
   "tracks": [
     {
       "added_at": null,
@@ -34,11 +34,15 @@
         {
           "name": "No Doubt",
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        },
+        {
+          "name": "Lady Saw",
+          "url": "https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK"
         }
       ],
-      "duration_ms": 242586,
-      "name": "Hella Good",
-      "url": "https://open.spotify.com/track/6AfLmKXzhEZjwiVPs5jhdV"
+      "duration_ms": 302720,
+      "name": "Underneath It All",
+      "url": "https://open.spotify.com/track/6fR6Z0Vc1K6yQWNUIKjAIR"
     },
     {
       "added_at": null,
@@ -98,43 +102,27 @@
         {
           "name": "No Doubt",
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        },
-        {
-          "name": "Lady Saw",
-          "url": "https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK"
         }
       ],
-      "duration_ms": 302720,
-      "name": "Underneath It All",
-      "url": "https://open.spotify.com/track/6fR6Z0Vc1K6yQWNUIKjAIR"
+      "duration_ms": 242586,
+      "name": "Hella Good",
+      "url": "https://open.spotify.com/track/6AfLmKXzhEZjwiVPs5jhdV"
     },
     {
       "added_at": null,
       "album": {
-        "name": "What Is Wrong & What Is Right",
-        "url": "https://open.spotify.com/album/4JLiv2tvefCX7fESoEo3Me"
+        "name": "The Beacon Street Collection",
+        "url": "https://open.spotify.com/album/05bHPJh4ONOeKzIGxqsEUw"
       },
       "artists": [
         {
-          "name": "T.I.M.",
-          "url": "https://open.spotify.com/artist/7wfonq285Ez77TiowGAAAC"
-        },
-        {
-          "name": "John Hayes",
-          "url": "https://open.spotify.com/artist/0pBj903ovIkiNZpaWuW6QY"
-        },
-        {
           "name": "No Doubt",
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        },
-        {
-          "name": "Mother's Finest",
-          "url": "https://open.spotify.com/artist/3csSQdDVhJlP3BUOoZ2N2H"
         }
       ],
-      "duration_ms": 179840,
-      "name": "What Is Wrong & What Is Right (feat. Adrian Young of No Doubt)",
-      "url": "https://open.spotify.com/track/66MAVbjKx4ZcXNuiIgdvmD"
+      "duration_ms": 198226,
+      "name": "Total Hate '95",
+      "url": "https://open.spotify.com/track/7uljNKb9leurDlZYAagvgK"
     },
     {
       "added_at": null,
@@ -191,18 +179,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Beacon Street Collection",
-        "url": "https://open.spotify.com/album/05bHPJh4ONOeKzIGxqsEUw"
+        "name": "What Is Wrong & What Is Right",
+        "url": "https://open.spotify.com/album/4JLiv2tvefCX7fESoEo3Me"
       },
       "artists": [
         {
+          "name": "T.I.M.",
+          "url": "https://open.spotify.com/artist/7wfonq285Ez77TiowGAAAC"
+        },
+        {
+          "name": "John Hayes",
+          "url": "https://open.spotify.com/artist/0pBj903ovIkiNZpaWuW6QY"
+        },
+        {
           "name": "No Doubt",
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        },
+        {
+          "name": "Mother's Finest",
+          "url": "https://open.spotify.com/artist/3csSQdDVhJlP3BUOoZ2N2H"
         }
       ],
-      "duration_ms": 198226,
-      "name": "Total Hate '95",
-      "url": "https://open.spotify.com/track/7uljNKb9leurDlZYAagvgK"
+      "duration_ms": 179840,
+      "name": "What Is Wrong & What Is Right (feat. Adrian Young of No Doubt)",
+      "url": "https://open.spotify.com/track/66MAVbjKx4ZcXNuiIgdvmD"
     },
     {
       "added_at": null,

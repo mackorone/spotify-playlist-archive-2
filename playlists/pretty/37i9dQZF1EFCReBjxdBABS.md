@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1SGzvyXf1Ctz00Sw5n9AVI">Trannie Anderson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245 likes - 127 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 246 likes - 127 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 56 | [Your Man](https://open.spotify.com/track/2ORPtU7b1naS5LFclleAcL) | [John King](https://open.spotify.com/artist/32Cj2WsRALt1SCWaPBR9QP) | [Always Gonna Be You](https://open.spotify.com/album/6IuTM80djAskPLrCz6Ij0L) | 3:09 |
 | 57 | [I Needed Christmas](https://open.spotify.com/track/4bGq0eDMT9t1uupNjQotk4) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [The Ultimate Christmas Collection](https://open.spotify.com/album/6S4DIqGyZGra6iZyZNI9jQ) | 3:39 |
 | 58 | [True North](https://open.spotify.com/track/21nd6ZeppvtuHs227hLUZB) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [True North / Parking Lot](https://open.spotify.com/album/5QibA1qQVY2lxcJdFZLrWV) | 3:13 |
-| 59 | [Smoke Follows Beauty](https://open.spotify.com/track/0YUA6O8kXbA76KTliaMAnh) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Easy Does It](https://open.spotify.com/album/328tuPAI8AlyW6AC51ud4R) | 3:00 |
-| 60 | [Yesterday, All Day, Every Day](https://open.spotify.com/track/6g3b9wRGkNqxwWmhRkLc7O) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind \(Deluxe\)](https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ) | 3:04 |
+| 59 | [Yesterday, All Day, Every Day](https://open.spotify.com/track/6g3b9wRGkNqxwWmhRkLc7O) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind \(Deluxe\)](https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ) | 3:04 |
+| 60 | [Smoke Follows Beauty](https://open.spotify.com/track/0YUA6O8kXbA76KTliaMAnh) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Easy Does It](https://open.spotify.com/album/328tuPAI8AlyW6AC51ud4R) | 3:00 |
 | 61 | [Nothing But Wild](https://open.spotify.com/track/4NcRfij5JDR55DFTlxrDd4) | [Amy Sheppard](https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl) | [Nothing But Wild](https://open.spotify.com/album/4iuQQpJvgPgqi3pP5txVhb) | 3:10 |
 | 62 | [The Goal](https://open.spotify.com/track/4P7rS04aNt7MWwvOpoQF7c) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Runnin’ Outta Time](https://open.spotify.com/album/0DM1q8OFj5WezPEx2QgiZK) | 3:12 |
 | 63 | [Santa Is A Good Ole Boy](https://open.spotify.com/track/52OYmvTC1SiSUNWtlMuOgp) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [Santa Is A Good Ole Boy](https://open.spotify.com/album/0AvujsVY0sfEU1bcMDg4UU) | 3:21 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 88 | [Way of Life](https://open.spotify.com/track/2Pnl04NKw9jNodRsc9fsCD) | [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Way of Life](https://open.spotify.com/album/4tXZtaTZOPe6RgM3jOeZmP) | 3:05 |
 | 89 | [Girls Like Me](https://open.spotify.com/track/5cSHji0JXin8rAkuOQ6CPi) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/27v62mfeYDZhOX2fXoIVcK) | 2:51 |
 | 90 | [Hell of a Hometown](https://open.spotify.com/track/62GUW1nFv6ekfNyprziCvo) | [Chris Bandi](https://open.spotify.com/artist/10I1X1Vygp2J6R4jP5gF10) | [Hell of a Hometown](https://open.spotify.com/album/0JjAkZAQcXjrSPBrLXrJ9c) | 3:03 |
-| 91 | [Same Kind of Crazy](https://open.spotify.com/track/0kBSNUDkV3UjlO7Y1kZ1xQ) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [36/86 EP](https://open.spotify.com/album/0cfbDWwjQ3FORWD1RhwDEW) | 2:31 |
-| 92 | [Try](https://open.spotify.com/track/2u9lTgGrauHdkJq6zXj2WQ) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Things You Didn't See](https://open.spotify.com/album/1trtLENMUHUZrgKKNKjgty) | 2:42 |
+| 91 | [Try](https://open.spotify.com/track/2u9lTgGrauHdkJq6zXj2WQ) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Things You Didn't See](https://open.spotify.com/album/1trtLENMUHUZrgKKNKjgty) | 2:42 |
+| 92 | [Same Kind of Crazy](https://open.spotify.com/track/0kBSNUDkV3UjlO7Y1kZ1xQ) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [36/86 EP](https://open.spotify.com/album/0cfbDWwjQ3FORWD1RhwDEW) | 2:31 |
 | 93 | [Good As Yours](https://open.spotify.com/track/2rShBgDGvdzpuXBleIMi1O) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [I Didn't Come Here To Leave](https://open.spotify.com/album/1OnI72xhWUPmOmUeh6BInY) | 2:34 |
 | 94 | [Show Up](https://open.spotify.com/track/1ENpEBh3B1Sf7sQrhlj58C) | [Rachel Purcell](https://open.spotify.com/artist/5RfPmVZKmCgO1ZI8rGPc6n) | [Show Up](https://open.spotify.com/album/0QnOXwlpdBKPJE5zZXMXri) | 3:02 |
 | 95 | [Buy A Bar](https://open.spotify.com/track/3nvmN9daV6DhMNFtewTwl1) | [Derek Austin](https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ) | [Buy A Bar](https://open.spotify.com/album/2rErpjvL6KXfptALvB0pcd) | 2:57 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 126 | [No Good Reason](https://open.spotify.com/track/2tR2GWXvBx0FGQI7n0os7c) | [Trannie Anderson](https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF) | [Heart Like a Songwriter](https://open.spotify.com/album/7fgCgwZc8AKPWwVfqPLNn1) | 3:39 |
 | 127 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcIL9AAAAACKak9f003oJwEdy9+Bfn+y`
+Snapshot ID: `AcIRbAAAAAAyRjFWahjIEwfYY9gixozd`

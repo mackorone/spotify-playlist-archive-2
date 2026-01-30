@@ -4309,6 +4309,28 @@
     },
     {
       "album": {
+        "name": "elsewhere",
+        "url": "https://open.spotify.com/album/0FJXeoZLM8H66ZMOYgHJij"
+      },
+      "artists": [
+        {
+          "name": "jaackson",
+          "url": "https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI"
+        },
+        {
+          "name": "Bcalm",
+          "url": "https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120312,
+      "name": "elsewhere",
+      "url": "https://open.spotify.com/track/5eVL9bnc7PXdkx2OSapkId"
+    },
+    {
+      "album": {
         "name": "elysian",
         "url": "https://open.spotify.com/album/3yQw5kIbjaJehyovQQFTD9"
       },
@@ -6024,6 +6046,24 @@
       "duration_ms": 122181,
       "name": "Hibernation",
       "url": "https://open.spotify.com/track/0gF7hXFIf8aKCEoIWGFVLP"
+    },
+    {
+      "album": {
+        "name": "Hibiscus",
+        "url": "https://open.spotify.com/album/4Nk5Hi6LbR30kHHkoNtkiq"
+      },
+      "artists": [
+        {
+          "name": "nate2timez",
+          "url": "https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Hibiscus",
+      "url": "https://open.spotify.com/track/4jjapVlLQjV0q1MF8BoBft"
     },
     {
       "album": {
@@ -15192,6 +15232,24 @@
       "duration_ms": 156000,
       "name": "Tinkerer",
       "url": "https://open.spotify.com/track/6L83ooUIEa5RyayCgTgnSo"
+    },
+    {
+      "album": {
+        "name": "to be found",
+        "url": "https://open.spotify.com/album/1F4DFD77lZ0Ra5i0WWWe0S"
+      },
+      "artists": [
+        {
+          "name": "bedroom lofi",
+          "url": "https://open.spotify.com/artist/2LrcxltMHRqQBYByx4rtW2"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "to be found",
+      "url": "https://open.spotify.com/track/0LVCXa0j0GDt5LYaZc36q7"
     },
     {
       "album": {

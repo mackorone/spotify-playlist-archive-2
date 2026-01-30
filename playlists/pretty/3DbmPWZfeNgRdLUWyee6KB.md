@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,209 likes - 155 songs - 8 hr 50 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,209 likes - 157 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,5 +163,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 153 | [illa decepció](https://open.spotify.com/track/51X9bZSiveQplTV3MlCDSr) | [Poco Conocido](https://open.spotify.com/artist/7ntIURZ0oU1m26QJfTldC4), [Mireia](https://open.spotify.com/artist/0bTGBppQWjrEa9rMqqxaW6) | [illa decepció](https://open.spotify.com/album/2Tng19Eufe43pN0dFX15zE) | 3:09 |
 | 154 | [En tus redes \(otra vez\)](https://open.spotify.com/track/74hH8NUMsrKDZHQTLob2Zg) | [Sincronía](https://open.spotify.com/artist/5qviewf0sIZBp3q1knGgs3) | [En tus redes \(otra vez\)](https://open.spotify.com/album/7lGTmgtvA3HWrC4K1gePEy) | 2:49 |
 | 155 | [Toxic Trait](https://open.spotify.com/track/34KZgwr2aDJQSeclVpdKB6) | [ItsRosieQuartz](https://open.spotify.com/artist/6PtNGny2c7sJblEprhD8PF) | [Toxic Trait](https://open.spotify.com/album/0c4tXSpPZgmfezbQiri3q4) | 2:45 |
+| 156 | [Bright As The Stars](https://open.spotify.com/track/5vZMfAHNm6MeaomaddB4Fq) | [Kathi Fran](https://open.spotify.com/artist/10QZVs0DFiNYbYrkKEE385) | [Bright As The Stars](https://open.spotify.com/album/6Mx8feGql3vMv1cPzdWPHH) | 3:18 |
+| 157 | [Mi voluntad](https://open.spotify.com/track/5tXPiB9wwihAlWuwS5hYr0) | [Eterea](https://open.spotify.com/artist/4H08iozMUTfC4kj5mPnDPD) | [Que la luna me desarme](https://open.spotify.com/album/4npBuLFIMtPnj5EFaa2zBN) | 3:14 |
 
-Snapshot ID: `AAAP2skHY+Mfqs0MWPJZ4mobsqMuwYT+`
+Snapshot ID: `AAAP3B68DBrIUHe1An2tCb1iqc7sPv/Q`

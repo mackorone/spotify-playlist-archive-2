@@ -2,7 +2,7 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Ati242
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: UZI x Motive
 
 241 songs - 11 hr 55 min
 

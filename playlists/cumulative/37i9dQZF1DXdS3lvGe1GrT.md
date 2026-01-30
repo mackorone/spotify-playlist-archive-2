@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Folk](https://open.spotify.com/playlist/37i9dQZF1DXdS3lvGe1GrT)
 
-> Fresh folk and roots music from independent artists every Wednesday\. Cover: isobel
+> Fresh folk and roots music from independent artists every Wednesday\. Cover: Madra Salach
 
 2,009 songs - 5 day 0 hr 3 min
 

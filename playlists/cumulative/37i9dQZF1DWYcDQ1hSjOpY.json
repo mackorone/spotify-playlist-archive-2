@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Abiding Serenity",
+        "url": "https://open.spotify.com/album/0DLc3Wo9HXzhFIUghSq4Gp"
+      },
+      "artists": [
+        {
+          "name": "Ortio",
+          "url": "https://open.spotify.com/artist/3DZCw9pq9uA8YvordxZa4i"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135267,
+      "name": "Abiding Serenity",
+      "url": "https://open.spotify.com/track/5oMikpIw2HGyJESMvlkNv7"
+    },
+    {
+      "album": {
         "name": "Melod\u00edas Susurrantes",
         "url": "https://open.spotify.com/album/16ArDAGmj2dEQAdAuRD8PW"
       },
@@ -776,6 +794,24 @@
       "duration_ms": 174468,
       "name": "Alchemy",
       "url": "https://open.spotify.com/track/61L3JZB1lHtY825F56sW19"
+    },
+    {
+      "album": {
+        "name": "Align",
+        "url": "https://open.spotify.com/album/0kZ2TRJR08WgldLdxPHDA6"
+      },
+      "artists": [
+        {
+          "name": "Jon Stefans",
+          "url": "https://open.spotify.com/artist/6sZVV2BKsU8SF4x9Bj9Ypa"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158916,
+      "name": "Align",
+      "url": "https://open.spotify.com/track/1CC8AgKut63LKBQlW7tPLs"
     },
     {
       "album": {
@@ -16941,6 +16977,24 @@
     },
     {
       "album": {
+        "name": "Second Self",
+        "url": "https://open.spotify.com/album/1tR4GjBHVzZqLskl8i1cIF"
+      },
+      "artists": [
+        {
+          "name": "Signe Golin",
+          "url": "https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144500,
+      "name": "Second Self",
+      "url": "https://open.spotify.com/track/2QKVgmGrLJIRrQa6yWCZLd"
+    },
+    {
+      "album": {
         "name": "Secret Breeze",
         "url": "https://open.spotify.com/album/2wuXtElxuHhiEvuUfcvKuq"
       },
@@ -18198,6 +18252,24 @@
       "duration_ms": 212666,
       "name": "Solsten",
       "url": "https://open.spotify.com/track/5rDK66Zorl6x02BmupEFbM"
+    },
+    {
+      "album": {
+        "name": "Somae",
+        "url": "https://open.spotify.com/album/0uroKcbnRPgLaz6xyksVFn"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Dreams",
+          "url": "https://open.spotify.com/artist/2uLfUntzbfHRmPO51ofZtt"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163919,
+      "name": "Somae",
+      "url": "https://open.spotify.com/track/7vzLL4nOoxwcrgdhLjtM07"
     },
     {
       "album": {

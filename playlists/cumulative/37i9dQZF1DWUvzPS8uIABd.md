@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-879 songs - 1 day 19 hr 53 min
+880 songs - 1 day 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,9 +341,10 @@
 | [Kyyneliä kaulaliinaan](https://open.spotify.com/track/0DBzoxR8kYMKnEHXoRFrQZ) | [ROBIN](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM) | [Kyyneliä kaulaliinaan](https://open.spotify.com/album/4bt6rY5ycgP8rj3PVngHPh) | 2:55 | 2024-10-24 | 2024-11-15 |
 | [Kävi miten kävi \(feat\. emma & matilda\)](https://open.spotify.com/track/6PWCKV8BtCneJCDOAlwyDr) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Kävi miten kävi \(feat\. emma & matilda\)](https://open.spotify.com/album/41JGibvkIPYPQheqaE8nhi) | 3:11 | 2025-06-05 | 2025-08-19 |
 | [Kävi mitä kävi sul on mut \(Vain elämää kausi 16\)](https://open.spotify.com/track/70gURIA1Vk4FqLqjNVJKZG) | [Mikki Kauste](https://open.spotify.com/artist/6Zvt6lXGUh6xVlTAl1ezwo) | [Kävi mitä kävi sul on mut \(Vain elämää kausi 16\)](https://open.spotify.com/album/7Gpx98Mw1LXUXlEULgnFuW) | 3:21 | 2025-10-02 | 2025-10-10 |
+| [Kävin tääl](https://open.spotify.com/track/4SMRzU9943uromfmKU7jim) | [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [Kävin tääl](https://open.spotify.com/album/0PQumKfngEJqgMgCDV9BWC) | 2:20 | 2026-01-29 |  |
 | [Käännä Se Kovemmal](https://open.spotify.com/track/518a2UYMiFtcgyvparCAPB) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Käännä Se Kovemmal](https://open.spotify.com/album/1FtyRB2jbzmpPu4VNvwrfx) | 3:03 | 2025-12-11 |  |
 | [Kääretorttu](https://open.spotify.com/track/6LyF2fjteau0vri1xfTK8Y) | [Saara Törmä](https://open.spotify.com/artist/04pUQBuXGMDLa4mUDKGwxQ) | [Kääretorttu](https://open.spotify.com/album/4WbE9gwKfVZXZxQnJiHenD) | 3:12 | 2025-01-24 | 2025-03-07 |
-| [Köyhä ja kipee \(feat\. BESS\)](https://open.spotify.com/track/4N1xl85zvCN21lRpz5aEZQ) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Nää pirut on mun kavereit](https://open.spotify.com/album/3qfGZ2Tk9Y3SmS0p7BPjO7) | 3:11 | 2025-09-04 |  |
+| [Köyhä ja kipee \(feat\. BESS\)](https://open.spotify.com/track/4N1xl85zvCN21lRpz5aEZQ) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Nää pirut on mun kavereit](https://open.spotify.com/album/3qfGZ2Tk9Y3SmS0p7BPjO7) | 3:11 | 2025-09-04 | 2026-01-30 |
 | [Labyrintti \(feat\. Pyrythekid\)](https://open.spotify.com/track/0j9htEbDldJZMzUSFrGRfY) | [El Migu](https://open.spotify.com/artist/52e3RF8S2V0QuVf3X1MNGq), [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW) | [Labyrintti \(feat\. Pyrythekid\)](https://open.spotify.com/album/09wnzTC0pSgc7kKfO1OYcL) | 3:01 | 2024-07-02 | 2024-07-27 |
 | [Laiffi är nu \(feat\. Pandora\) \[Vain elämää kausi 15\]](https://open.spotify.com/track/30gb3qbZc39go2t8ORvsEj) | [Roope Salminen](https://open.spotify.com/artist/0fUotQ9XbnLcg1a0OAHAxC), [Roope Salminen & Koirat](https://open.spotify.com/artist/3OElmmR1D18e4dPTISAF5r), [Pandora](https://open.spotify.com/artist/3X8tqA34H3odz1gCCHxrzc) | [Laiffi är nu \(feat\. Pandora\) \[Vain elämää kausi 15\]](https://open.spotify.com/album/2Wp1kN7HG1pulLiPH1jDEP) | 2:56 | 2024-10-10 | 2024-10-18 |
 | [Lainasydän](https://open.spotify.com/track/0taCC3ocM3n9k6SQwofsTA) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Lainasydän](https://open.spotify.com/album/1TmaqVzm3YoCZiTHaca06U) | 2:51 | 2024-10-03 | 2024-11-15 |

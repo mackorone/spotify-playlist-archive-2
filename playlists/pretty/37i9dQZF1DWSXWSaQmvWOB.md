@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: JELISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 803,369 likes - 110 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 803,525 likes - 110 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 109 | [Colors](https://open.spotify.com/track/4WqG4yMCX2QbjQc8SBaDyt) | [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Pleij](https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN) | [Colors](https://open.spotify.com/album/3GnLPpDwWYpIEdBlgaEk4o) | 3:24 |
 | 110 | [If I Go](https://open.spotify.com/track/714cmvN51nNzhgNbuUagIh) | [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [If I Go](https://open.spotify.com/album/3OjaVtDPuXV05JoBYGdffT) | 3:20 |
 
-Snapshot ID: `AAAAAOaxXGLKZyFNgOHrq1E9+X4qggP+`
+Snapshot ID: `AAAAAIuy0aQPFwZdy+BNZquufmPHzIPr`

@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of indie, dreampop and lofi vibes. Updated every week, save your favorites \ud83d\udc9c",
-  "num_followers": 59642,
+  "num_followers": 59647,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAAtO4Fn/E8Z9uJnkUn7fLdOsy10C5pB",
+  "snapshot_id": "AAAtQSIroJbQpjsquOimgxAqEsYKNwk9",
   "tracks": [
     {
       "added_at": "2026-01-25 04:13:07",
@@ -191,6 +191,42 @@
       "duration_ms": 213064,
       "name": "Cimeti\u00e8re",
       "url": "https://open.spotify.com/track/5GI7dE5w4CfxctSk3ZzA67"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
+        "name": "Anywhere With You",
+        "url": "https://open.spotify.com/album/4otHv8Tqmwik7rpeAAGCfB"
+      },
+      "artists": [
+        {
+          "name": "FLOOR CRY",
+          "url": "https://open.spotify.com/artist/0oNT7doR0CV9mAXYDSk8Tx"
+        },
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 129473,
+      "name": "Anywhere With You",
+      "url": "https://open.spotify.com/track/6HlND3N9eJ91D2WLhChC3m"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
+        "name": "Spend Your Days",
+        "url": "https://open.spotify.com/album/4btuZRwARj51zrA2tKsQyO"
+      },
+      "artists": [
+        {
+          "name": "Darksoft",
+          "url": "https://open.spotify.com/artist/5pD33SUgX5GQ8NvqZ6IdeE"
+        }
+      ],
+      "duration_ms": 232014,
+      "name": "Spend Your Days",
+      "url": "https://open.spotify.com/track/6bag3botPS5X1dBoQbf2g0"
     },
     {
       "added_at": "2026-01-25 04:13:07",
@@ -1051,22 +1087,6 @@
     {
       "added_at": "2026-01-25 04:13:07",
       "album": {
-        "name": "Spend Your Days",
-        "url": "https://open.spotify.com/album/4btuZRwARj51zrA2tKsQyO"
-      },
-      "artists": [
-        {
-          "name": "Darksoft",
-          "url": "https://open.spotify.com/artist/5pD33SUgX5GQ8NvqZ6IdeE"
-        }
-      ],
-      "duration_ms": 232014,
-      "name": "Spend Your Days",
-      "url": "https://open.spotify.com/track/6bag3botPS5X1dBoQbf2g0"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
         "name": "Heaven Cloud",
         "url": "https://open.spotify.com/album/6S7SlNbZYiO7DpXyURhQh7"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 225567,
       "name": "Heaven Cloud",
       "url": "https://open.spotify.com/track/116zOBuTA9b262yrcVf6av"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
-        "name": "Anywhere With You",
-        "url": "https://open.spotify.com/album/4otHv8Tqmwik7rpeAAGCfB"
-      },
-      "artists": [
-        {
-          "name": "FLOOR CRY",
-          "url": "https://open.spotify.com/artist/0oNT7doR0CV9mAXYDSk8Tx"
-        },
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 129473,
-      "name": "Anywhere With You",
-      "url": "https://open.spotify.com/track/6HlND3N9eJ91D2WLhChC3m"
     },
     {
       "added_at": "2026-01-25 04:13:07",
@@ -3207,6 +3207,22 @@
     {
       "added_at": "2026-01-25 04:13:07",
       "album": {
+        "name": "Sixty-Four",
+        "url": "https://open.spotify.com/album/5r1KzKSMzpH3EV0NdfCH00"
+      },
+      "artists": [
+        {
+          "name": "Spilly Cave",
+          "url": "https://open.spotify.com/artist/67mzMEdm10hCcDU3E4RH3l"
+        }
+      ],
+      "duration_ms": 162305,
+      "name": "Mancer",
+      "url": "https://open.spotify.com/track/7x63Ih9IM50hqJKDzsjhmU"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
         "name": "At War (With Everything)",
         "url": "https://open.spotify.com/album/6AKNuakcP0Hh0OOkeTQkbI"
       },
@@ -3235,22 +3251,6 @@
       "duration_ms": 216927,
       "name": "My Friend",
       "url": "https://open.spotify.com/track/6Fq03mHeEHm9CDh5s6yD0Z"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
-        "name": "Sixty-Four",
-        "url": "https://open.spotify.com/album/5r1KzKSMzpH3EV0NdfCH00"
-      },
-      "artists": [
-        {
-          "name": "Spilly Cave",
-          "url": "https://open.spotify.com/artist/67mzMEdm10hCcDU3E4RH3l"
-        }
-      ],
-      "duration_ms": 162305,
-      "name": "Mancer",
-      "url": "https://open.spotify.com/track/7x63Ih9IM50hqJKDzsjhmU"
     },
     {
       "added_at": "2026-01-25 04:13:07",
@@ -3319,6 +3319,22 @@
       "duration_ms": 223200,
       "name": "Desert Time",
       "url": "https://open.spotify.com/track/7HUFrZS9ctBIJg9vxaYa8a"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
+        "name": "Time Doesn't Heal. It Hides.",
+        "url": "https://open.spotify.com/album/1RItMse8dZeJr7EB5HEhw7"
+      },
+      "artists": [
+        {
+          "name": "B.Miles",
+          "url": "https://open.spotify.com/artist/3rB3PZ6d1hAkNFD4PhLgQk"
+        }
+      ],
+      "duration_ms": 215797,
+      "name": "+1",
+      "url": "https://open.spotify.com/track/4o69Ej46n8qTk8Iys7u2Kn"
     },
     {
       "added_at": "2026-01-25 04:13:07",
@@ -3431,22 +3447,6 @@
       "duration_ms": 166529,
       "name": "Circadian Rhythm",
       "url": "https://open.spotify.com/track/3LdStawudrY7nXnKgqkhrn"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
-        "name": "Time Doesn't Heal. It Hides.",
-        "url": "https://open.spotify.com/album/1RItMse8dZeJr7EB5HEhw7"
-      },
-      "artists": [
-        {
-          "name": "B.Miles",
-          "url": "https://open.spotify.com/artist/3rB3PZ6d1hAkNFD4PhLgQk"
-        }
-      ],
-      "duration_ms": 215797,
-      "name": "+1",
-      "url": "https://open.spotify.com/track/4o69Ej46n8qTk8Iys7u2Kn"
     },
     {
       "added_at": "2026-01-25 04:13:07",
@@ -3611,6 +3611,38 @@
     {
       "added_at": "2026-01-25 04:13:07",
       "album": {
+        "name": "Free Energy",
+        "url": "https://open.spotify.com/album/65xYYnCJh3cuM2OWFlKrN3"
+      },
+      "artists": [
+        {
+          "name": "Dummy",
+          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
+        }
+      ],
+      "duration_ms": 230826,
+      "name": "Nine Clean Nails",
+      "url": "https://open.spotify.com/track/2TxrxTDFNzWR0wTs1auyaz"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
+        "name": "Skate Story: Vol. I",
+        "url": "https://open.spotify.com/album/3T3hC14iSrsNd3fd5UD3wH"
+      },
+      "artists": [
+        {
+          "name": "Blood Cultures",
+          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
+        }
+      ],
+      "duration_ms": 322093,
+      "name": "Overlord",
+      "url": "https://open.spotify.com/track/38wI1s6U6jKTO58OZMXN02"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
         "name": "IDFK",
         "url": "https://open.spotify.com/album/5hIsB40rJgWX7D4p8STlgH"
       },
@@ -3655,38 +3687,6 @@
       "duration_ms": 177025,
       "name": "Blue Lagoon",
       "url": "https://open.spotify.com/track/3t5nTLIDZqxsNi1wAeLvFy"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
-        "name": "Free Energy",
-        "url": "https://open.spotify.com/album/65xYYnCJh3cuM2OWFlKrN3"
-      },
-      "artists": [
-        {
-          "name": "Dummy",
-          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
-        }
-      ],
-      "duration_ms": 230826,
-      "name": "Nine Clean Nails",
-      "url": "https://open.spotify.com/track/2TxrxTDFNzWR0wTs1auyaz"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
-        "name": "Skate Story: Vol. I",
-        "url": "https://open.spotify.com/album/3T3hC14iSrsNd3fd5UD3wH"
-      },
-      "artists": [
-        {
-          "name": "Blood Cultures",
-          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
-        }
-      ],
-      "duration_ms": 322093,
-      "name": "Overlord",
-      "url": "https://open.spotify.com/track/38wI1s6U6jKTO58OZMXN02"
     },
     {
       "added_at": "2026-01-25 04:13:07",

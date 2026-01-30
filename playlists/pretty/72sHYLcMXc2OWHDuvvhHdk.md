@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 556 likes - 2,240 songs - 5 day 11 hr 6 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 556 likes - 2,250 songs - 5 day 11 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2248,5 +2248,15 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2238 | [Believe \(If You Feel\) \- Spotify Exclusive](https://open.spotify.com/track/4Vy3fIkIRJgW4HnGpcv6zZ) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Believe \(If You Feel\) \- Spotify Exclusive](https://open.spotify.com/album/01x3mjTfAcdyEWa4uK9QAW) | 3:30 |
 | 2239 | [Corvette](https://open.spotify.com/track/2f00jSGdTKm1YE8BxQWcBj) | [Dunkan](https://open.spotify.com/artist/6P9VaNZCHkUT18kxHx1uky) | [Corvette](https://open.spotify.com/album/3C09GULk61FzBBdHWW6ylt) | 2:50 |
 | 2240 | [The One I've Never Met Who I Long For](https://open.spotify.com/track/5gJiUz1Zvsdg3uxTSmfff2) | [Jont](https://open.spotify.com/artist/27PAZpDiy0LBXUVkQ7D2UY) | [The One I've Never Met Who I Long For](https://open.spotify.com/album/0wMwzqtR7WwKnTe9HJtRyH) | 2:59 |
+| 2241 | [Julia Roberts](https://open.spotify.com/track/7w8OBw2hHk0QfOb6sOr9bu) | [Danni Peace](https://open.spotify.com/artist/6gcqSvwVuGJrjAqMbdW0cY) | [Iridescent](https://open.spotify.com/album/768r5Yd2Rmjdk7rFp37fYk) | 2:32 |
+| 2242 | [Le case dei vecchi](https://open.spotify.com/track/0gWJgaxBvAU9VQo6pTPs83) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY) | [Le case dei vecchi](https://open.spotify.com/album/5xvpmq8noWbBFE5fVAqEQq) | 3:09 |
+| 2243 | [Hüzün Kovan Kuşu](https://open.spotify.com/track/1Sbxqqn2y8MXcAIshoZQeh) | [Mahir Gül](https://open.spotify.com/artist/1WzJtvafRduHSyy7RjI3aH) | [Sadece](https://open.spotify.com/album/026sGGKQo6VPYWBxTeyuB3) | 4:03 |
+| 2244 | [Tu É a Mais Perfeita](https://open.spotify.com/track/5dRDAhJqSFJPXbkOjQ3Jtd) | [Wayser Pavão](https://open.spotify.com/artist/0XDdB1szewkrKdPqk08qto) | [Flor & Caos](https://open.spotify.com/album/3iaOUtmsshDmWnXLLTIi2P) | 2:58 |
+| 2245 | [Black Cat](https://open.spotify.com/track/6dSioFJXazwRx8v0TFKcVX) | [Jenny Scara](https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw) | [Black Cat](https://open.spotify.com/album/2kPGAf4iPwfIehyfdqno0R) | 2:27 |
+| 2246 | [Aspens Have Eyes](https://open.spotify.com/track/399vvqu6mnao8oot8TAmCP) | [Kiersten Blue](https://open.spotify.com/artist/1LhCGHmn8knPgbfnPxGIXK) | [Aspens Have Eyes](https://open.spotify.com/album/3IU3xKFI4GMiqY7bd03W2Y) | 4:32 |
+| 2247 | [What's Your Name?](https://open.spotify.com/track/2sgTjfMISDjW1t80v759Lv) | [TFW Music Revue](https://open.spotify.com/artist/6i5d95x4uWPSHbplC4AIpb) | [Music Magic](https://open.spotify.com/album/25C0sgEwiLNIDptJfZKvMW) | 3:03 |
+| 2248 | [Ōkami](https://open.spotify.com/track/2Yxj1CHdjdLdj8pvr6OBLT) | [SkyLighted](https://open.spotify.com/artist/0J6OJ6Mtb1450MG7vUiOVt) | [Ōkami](https://open.spotify.com/album/7KlGAK4qbiCpsHDM07TNmf) | 2:16 |
+| 2249 | [Il pleut sur la place Saint\-Germain](https://open.spotify.com/track/5QkpKrT7EEE2aouQWwBN60) | [Anne Grégory](https://open.spotify.com/artist/6W4HMI6oQHSzesTQHuVtBI) | [1965](https://open.spotify.com/album/3bvGWBVe0t7mtJKcKIl7yO) | 3:47 |
+| 2250 | [Land for the brave](https://open.spotify.com/track/5Xe1NgCClAFVYEK5HQsfTt) | [Painting Movies](https://open.spotify.com/artist/5oQG7yFMLbOXwU1Kd4c7K0) | [Land for the brave](https://open.spotify.com/album/2Z7THXcnbsQCdVSqi5DYwU) | 3:26 |
 
-Snapshot ID: `AAAJV7T9kDEHXdi7FeqDoL/G5JmtwXQL`
+Snapshot ID: `AAAJYe1JltFAcoO+nNbPl99UmYUB/W+V`

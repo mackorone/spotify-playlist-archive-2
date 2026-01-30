@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Music that's hard to define but easy to love. Cover: A$AP Rocky",
+  "description": "Music that's hard to define but easy to love. Cover: Chet Faker",
   "name": "Front Left",
   "tracks": [
     {
@@ -9084,7 +9084,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 244500,
       "name": "Everybody Scream",
       "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
@@ -9106,6 +9106,24 @@
       "duration_ms": 184333,
       "name": "Everybody's Saying Thursday's The Weekend",
       "url": "https://open.spotify.com/track/1uK65VcfQeZ6cPxnUm0TCv"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Annabelle Dinda",
+          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240178,
+      "name": "Everyone Likes To Be Forgiven",
+      "url": "https://open.spotify.com/track/0qQfLlCBn8LNsPWpzcFsbY"
     },
     {
       "album": {
@@ -9750,6 +9768,28 @@
       "duration_ms": 309735,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/6zx3Fh4ycldi5XZHukp2jT"
+    },
+    {
+      "album": {
+        "name": "Feel So Good Around U",
+        "url": "https://open.spotify.com/album/5jQDO3r5tVB7t0H6ipp9vO"
+      },
+      "artists": [
+        {
+          "name": "LB aka LABAT",
+          "url": "https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh"
+        },
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272492,
+      "name": "Feel So Good Around U",
+      "url": "https://open.spotify.com/track/2ZG3zaIGpmIFU4CTwhhgyn"
     },
     {
       "album": {
@@ -13144,7 +13184,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 224532,
       "name": "Hole In The Ground",
       "url": "https://open.spotify.com/track/4mRKcykc3JeCSpZjW4zr7a"
@@ -13881,6 +13921,28 @@
     },
     {
       "album": {
+        "name": "I Did This To Myself",
+        "url": "https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150613,
+      "name": "I Did This To Myself",
+      "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
+    },
+    {
+      "album": {
         "name": "I Don't Mind",
         "url": "https://open.spotify.com/album/6VdCO1qYdMrJ5N0bJLi5CQ"
       },
@@ -14500,7 +14562,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 169320,
       "name": "I Wish I Didn\u2019t Waste Your Time",
       "url": "https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ"
@@ -19370,7 +19432,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 170526,
       "name": "Monsoon",
       "url": "https://open.spotify.com/track/1JUzQ21p11mRdSkNVibKtx"
@@ -22041,6 +22103,24 @@
     },
     {
       "album": {
+        "name": "Outdone",
+        "url": "https://open.spotify.com/album/6hJIRm2IhV6AEPRuLxYpE0"
+      },
+      "artists": [
+        {
+          "name": "Meg Mac",
+          "url": "https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215262,
+      "name": "Outdone",
+      "url": "https://open.spotify.com/track/5hVSEP4ifL3mhb3IFugwqB"
+    },
+    {
+      "album": {
         "name": "outgrow",
         "url": "https://open.spotify.com/album/7upwvHki0CEuPEFDwrACbX"
       },
@@ -22074,6 +22154,24 @@
       "duration_ms": 185360,
       "name": "Over The Moon",
       "url": "https://open.spotify.com/track/4sp721FZr1KrQS7wwyJ1Q2"
+    },
+    {
+      "album": {
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284339,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB"
     },
     {
       "album": {
@@ -23142,7 +23240,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 261959,
       "name": "Post Sex Clarity",
       "url": "https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg"
@@ -27372,7 +27470,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 244840,
       "name": "Straight Line Was A Lie",
       "url": "https://open.spotify.com/track/2cZaZRwbtf5aZXtJC43tx4"
@@ -27542,6 +27640,24 @@
       "duration_ms": 184970,
       "name": "Suburbs",
       "url": "https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY"
+    },
+    {
+      "album": {
+        "name": "Suckerrr",
+        "url": "https://open.spotify.com/album/5DI7QnyXRavy0QriWNciyp"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Suckerrr",
+      "url": "https://open.spotify.com/track/0vjwvjTIr3xicvWyDbMRLm"
     },
     {
       "album": {
@@ -28783,6 +28899,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Velvet Trip",
+          "url": "https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222552,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/4W3XltRy0SU91Dv4wUCuaD"
+    },
+    {
+      "album": {
         "name": "Temper",
         "url": "https://open.spotify.com/album/3N2TjiomTzaIIUznQb9zjR"
       },
@@ -29342,7 +29476,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 189021,
       "name": "The God of Lying (feat. IDLES)",
       "url": "https://open.spotify.com/track/0eUO2hEBOyZXDgqKSpXd98"

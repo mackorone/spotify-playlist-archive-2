@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover:NO11
 
-692 songs - 1 day 8 hr 34 min
+693 songs - 1 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Amen \(God My Dealer\)](https://open.spotify.com/track/1ItASgyD1Gwh6bOUxLm89S) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Amen \(God My Dealer\)](https://open.spotify.com/album/7qrVggiU01zhpAofCUrWqO) | 2:44 | 2025-08-28 | 2025-10-07 |
 | [AMERICA](https://open.spotify.com/track/5CFz4grlqiE2TtrfFWKY2R) | [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [AMERICA](https://open.spotify.com/album/4CA1o2nf4CPm4yyyNkfp95) | 3:32 | 2024-06-28 | 2025-05-19 |
 | [Andale](https://open.spotify.com/track/0rIZdSwtW26f2Ljmi8chI5) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Ypszn \(Explicit\)](https://open.spotify.com/album/2QBz5CtVNac9h3LMPiIUwX) | 3:27 | 2022-10-14 | 2022-10-29 |
+| [ANGELS](https://open.spotify.com/track/6aQ3TBrTQ2mLzecfMpM3Og) | [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [ANGELS](https://open.spotify.com/album/66rFXjuBIQl029QAVfpSpM) | 3:04 | 2026-01-30 |  |
 | [Angle 90 \- Remix](https://open.spotify.com/track/38j2gL1Tk7gHDidrZRj899) | [Big Klef](https://open.spotify.com/artist/4VZljMVEAhstVDTphJx2nT), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Angle 90 \(Remix\)](https://open.spotify.com/album/3PybRJAt7AHKnJPQeKWNN3) | 3:10 | 2023-09-29 | 2023-10-13 |
 | [Another Me](https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:12 | 2022-06-09 | 2023-02-01 |
 | [Anytime \(feat\. Ayo Maff\)](https://open.spotify.com/track/0btl8LkqkQNo4NxmpBoP8a) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Anytime \(feat\. Ayo Maff\)](https://open.spotify.com/album/0tlsC4tKamKTl9PYoMuPTY) | 3:12 | 2025-05-09 |  |
@@ -236,7 +237,7 @@
 | [flavor.](https://open.spotify.com/track/3q51YwUa160xFufWZuPM78) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [Xistence.](https://open.spotify.com/album/36cl6vYPoDH3k2dtTsuBL5) | 1:38 | 2025-02-19 | 2025-09-19 |
 | [Flimsy Excusees](https://open.spotify.com/track/2rB5XZMKGKxbhXS9B5HVTp) | [EESKAY](https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG) | [Flimsy Excusees/ Bad Character](https://open.spotify.com/album/6OFSAmfK3cCLQpP0XSEo5p) | 2:36 | 2022-09-12 | 2022-10-07 |
 | [Fly](https://open.spotify.com/track/1GYbLczHk6f3O6drvghsB4) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [Pawon + Fly](https://open.spotify.com/album/6twgGorVU0d808ToQ632pw) | 1:58 | 2025-09-19 |  |
-| [Folasade](https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Folasade](https://open.spotify.com/album/1M6bYAJ0BlpTvH9GpJBvPN) | 2:48 | 2025-06-13 |  |
+| [Folasade](https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Folasade](https://open.spotify.com/album/1M6bYAJ0BlpTvH9GpJBvPN) | 2:48 | 2025-06-13 | 2026-01-30 |
 | [For Where?](https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [For Where?](https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK) | 1:53 | 2025-01-21 | 2026-01-15 |
 | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ) | 2:35 | 2024-09-06 | 2025-10-19 |
 | [Forget](https://open.spotify.com/track/6xcvbEe9Mu2hldUUI7fK75) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Lifestyle](https://open.spotify.com/album/3i6iYJyQpFNpsvFRr7a3o5) | 2:24 | 2025-08-15 |  |

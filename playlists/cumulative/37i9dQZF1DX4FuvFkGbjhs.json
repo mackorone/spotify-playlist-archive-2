@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Beyond titles, beyond genre. Cover: James Blake",
+  "description": "Beyond titles, beyond genre. Cover: Lauren Auder",
   "name": "UNTITLED",
   "tracks": [
     {
@@ -436,6 +436,28 @@
       "duration_ms": 175215,
       "name": "aggressive",
       "url": "https://open.spotify.com/track/0L7CLr2avMQXAwA3uTqJp3"
+    },
+    {
+      "album": {
+        "name": "Ah Ya",
+        "url": "https://open.spotify.com/album/26E3GgqTPaL3Gn0VSwWZyG"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        },
+        {
+          "name": "Thee Diane",
+          "url": "https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253317,
+      "name": "Ah Ya",
+      "url": "https://open.spotify.com/track/3MaYsrNTYEASQ8Ean2d8WE"
     },
     {
       "album": {
@@ -1004,7 +1026,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 220136,
       "name": "As Long As You're Moving",
       "url": "https://open.spotify.com/track/4qHcf1NAYHHXxz41tt7R7v"
@@ -1834,6 +1856,28 @@
       "duration_ms": 185680,
       "name": "Broken Record",
       "url": "https://open.spotify.com/track/3rK328kNdfyU4pICIPSopA"
+    },
+    {
+      "album": {
+        "name": "Brush Me Like A Horse",
+        "url": "https://open.spotify.com/album/2LE27BnmrOBp4P4GzwBefU"
+      },
+      "artists": [
+        {
+          "name": "JJerome87",
+          "url": "https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio"
+        },
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204246,
+      "name": "Brush Me Like A Horse",
+      "url": "https://open.spotify.com/track/1Qx7aZ34LHzx9Dl8IEqm6J"
     },
     {
       "album": {
@@ -3454,7 +3498,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 177042,
       "name": "DON\u2019T LISTEN",
       "url": "https://open.spotify.com/track/6T7XVB4A3sDkcD22DgzeqJ"
@@ -6025,6 +6069,28 @@
     },
     {
       "album": {
+        "name": "I Did This To Myself",
+        "url": "https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150613,
+      "name": "I Did This To Myself",
+      "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
+    },
+    {
+      "album": {
         "name": "I Forget (I\u2019m So Young)",
         "url": "https://open.spotify.com/album/3gsfSprEh8MiW0ir872S1Z"
       },
@@ -6624,7 +6690,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 229342,
       "name": "is \u00e9 a locht a laghad",
       "url": "https://open.spotify.com/track/4HNS5FBg9GwhYz2J9rVaXG"
@@ -8078,7 +8144,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 213640,
       "name": "Maelstrom",
       "url": "https://open.spotify.com/track/6ZsyO1IOY1d5tk1Q5OoqoG"
@@ -9518,7 +9584,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 242580,
       "name": "one foot in front of the other",
       "url": "https://open.spotify.com/track/5g59vNTzfzG8E7YSULEJGw"
@@ -10384,6 +10450,24 @@
       "duration_ms": 153660,
       "name": "Prada Boo",
       "url": "https://open.spotify.com/track/493StZUc3moeLSbY60CLZl"
+    },
+    {
+      "album": {
+        "name": "praxis",
+        "url": "https://open.spotify.com/album/1sqkJvjTXFUNKzwM7pHKn0"
+      },
+      "artists": [
+        {
+          "name": "Lauren Auder",
+          "url": "https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208071,
+      "name": "praxis",
+      "url": "https://open.spotify.com/track/7CtGaE9FYeSi0YyOo7TNxm"
     },
     {
       "album": {
@@ -12250,7 +12334,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 263444,
       "name": "Stitches",
       "url": "https://open.spotify.com/track/0qRD4K1NWx8WapgTDZvT28"
@@ -13297,6 +13381,24 @@
     },
     {
       "album": {
+        "name": "The Ugly Ones",
+        "url": "https://open.spotify.com/album/6Psf2S5Naahv5ebwRb5B42"
+      },
+      "artists": [
+        {
+          "name": "Ray Laur\u00e9l",
+          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202550,
+      "name": "The Ugly Ones",
+      "url": "https://open.spotify.com/track/1SzccjdRk1HEybmMgEgvwK"
+    },
+    {
+      "album": {
         "name": "SABLE, fABLE",
         "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
       },
@@ -13612,6 +13714,24 @@
       "duration_ms": 341066,
       "name": "Traffic Lights (feat. Thom Yorke)",
       "url": "https://open.spotify.com/track/2kSQNFlBqsHSzEw6riHR8K"
+    },
+    {
+      "album": {
+        "name": "trans",
+        "url": "https://open.spotify.com/album/2tQUu7ad2Yky6jLQkHMcH2"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139086,
+      "name": "trans",
+      "url": "https://open.spotify.com/track/6CTCBZBkB6Lomh0akgkwjg"
     },
     {
       "album": {

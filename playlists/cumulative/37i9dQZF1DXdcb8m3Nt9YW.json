@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "Pura pieza en vivo para destapar un bote y sentirte como si estuvieras ah\u00ed. Max Peraza en portada.",
+  "description": "Pura pieza en vivo para destapar un bote y sentirte como si estuvieras ah\u00ed. Moy Bobadilla en portada.",
   "name": "Sentado en una hielera",
   "tracks": [
     {
@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "Arriba La Moyombiza (En Vivo)",
+        "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
+      },
+      "artists": [
+        {
+          "name": "Moy Bobadilla",
+          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182750,
+      "name": "Cita Con Un Invento (En Vivo)",
+      "url": "https://open.spotify.com/track/4PfK8dEAp6rKxfOolZlBTy"
+    },
+    {
+      "album": {
         "name": "Clave 18",
         "url": "https://open.spotify.com/album/2Lo2rpX7dX8CtCWMJUEC5S"
       },
@@ -680,7 +698,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 235663,
       "name": "Clave 18",
       "url": "https://open.spotify.com/track/6my08Qad7A0PzZSlLOlDgG"
@@ -764,6 +782,28 @@
       "duration_ms": 126613,
       "name": "Corazon De Oropel",
       "url": "https://open.spotify.com/track/6aFAS8akZpt1eX7oAsNSuc"
+    },
+    {
+      "album": {
+        "name": "Arriba La Moyombiza (En Vivo)",
+        "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
+      },
+      "artists": [
+        {
+          "name": "Moy Bobadilla",
+          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Coraz\u00f3n (En Vivo)",
+      "url": "https://open.spotify.com/track/1DXl17aTwuvzZ9T2AXiKZM"
     },
     {
       "album": {
@@ -920,7 +960,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 186769,
       "name": "Disculpe Usted - En Vivo",
       "url": "https://open.spotify.com/track/0hwf9lUD4VoRPyGqUczzf1"
@@ -968,6 +1008,24 @@
       "duration_ms": 226500,
       "name": "Don Chon (En Vivo)",
       "url": "https://open.spotify.com/track/0OeX94j6rMIBHX7DGlOGzB"
+    },
+    {
+      "album": {
+        "name": "Que Empiece La Borrachera (En Vivo)",
+        "url": "https://open.spotify.com/album/3bx8b36tOXgle97X8LpBPm"
+      },
+      "artists": [
+        {
+          "name": "Arath Arceo",
+          "url": "https://open.spotify.com/artist/179sKnhSlC0IVj10e98XhZ"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175250,
+      "name": "Ebrio De Amor (En Vivo)",
+      "url": "https://open.spotify.com/track/2SkeBrSWvvTsFtORCiud4k"
     },
     {
       "album": {
@@ -1192,7 +1250,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 149180,
       "name": "El Cerillazo - En Vivo",
       "url": "https://open.spotify.com/track/3uZE5qGYOwZw7iF1zZt576"
@@ -1290,7 +1348,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 164858,
       "name": "El Chavo Felix - En Vivo",
       "url": "https://open.spotify.com/track/0iRZOQKscisStqowlZa968"
@@ -1574,7 +1632,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 227554,
       "name": "El Estr\u00e9s",
       "url": "https://open.spotify.com/track/5MsVbEhkVyVUf6YeIp0WAk"
@@ -1650,7 +1708,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 174804,
       "name": "El Guero Reyna",
       "url": "https://open.spotify.com/track/0QpkBadc9WblLVSAOK1PQP"
@@ -2022,6 +2080,28 @@
       "duration_ms": 141746,
       "name": "El P\u00e1jaro Azul - En Vivo",
       "url": "https://open.spotify.com/track/6yv8dwewBWu7Fc4VSI1IiT"
+    },
+    {
+      "album": {
+        "name": "Que Empiece La Borrachera (En Vivo)",
+        "url": "https://open.spotify.com/album/3bx8b36tOXgle97X8LpBPm"
+      },
+      "artists": [
+        {
+          "name": "Arath Arceo",
+          "url": "https://open.spotify.com/artist/179sKnhSlC0IVj10e98XhZ"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "El Que Sigue De Mi (En Vivo)",
+      "url": "https://open.spotify.com/track/37jsgAXVIxD48j8c0UqZKC"
     },
     {
       "album": {
@@ -2764,7 +2844,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 226283,
       "name": "Jose Rocha Avenda\u00f1o",
       "url": "https://open.spotify.com/track/4D29C1f6S2g6BjL2Ra13PH"
@@ -2952,7 +3032,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 344978,
       "name": "La Changa (En Vivo)",
       "url": "https://open.spotify.com/track/1K0q2ll2ks3yeHIiURO0x9"
@@ -3032,7 +3112,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 147985,
       "name": "La Gracia Del Payaso - En Vivo",
       "url": "https://open.spotify.com/track/08d4tROI4ddYX8DEEbGLdU"
@@ -3050,7 +3130,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 175206,
       "name": "La Ley Del Hombre - En Vivo",
       "url": "https://open.spotify.com/track/4JqdcuaoxKy0zgs05WaO6o"
@@ -3086,7 +3166,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 203522,
       "name": "La Mb",
       "url": "https://open.spotify.com/track/3FfCRdvFfPA93T8zT2dGqV"
@@ -3452,7 +3532,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 285570,
       "name": "Las Pisteadas Del Vago",
       "url": "https://open.spotify.com/track/4reO4BbymoLHYJxrWw9ciu"
@@ -3908,7 +3988,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 235413,
       "name": "Me Gusta Tener De A Dos - En Vivo",
       "url": "https://open.spotify.com/track/7d1efIwM58gyNoU613QfFt"
@@ -3926,7 +4006,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 146080,
       "name": "Me Haces Falta",
       "url": "https://open.spotify.com/track/5qRsAKZOeT7Sbd7xFx1C4E"
@@ -4022,10 +4102,32 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 242556,
       "name": "Mente en Blanco - En Vivo",
       "url": "https://open.spotify.com/track/4PD9At46wz3RECvgg3WtBF"
+    },
+    {
+      "album": {
+        "name": "Arriba La Moyombiza (En Vivo)",
+        "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
+      },
+      "artists": [
+        {
+          "name": "Moy Bobadilla",
+          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160750,
+      "name": "Mi Buena Suerte (En Vivo)",
+      "url": "https://open.spotify.com/track/4xa12B5gKP5D3LDQBSqDQd"
     },
     {
       "album": {
@@ -4062,6 +4164,24 @@
       "duration_ms": 145781,
       "name": "Mi Ranchito",
       "url": "https://open.spotify.com/track/4jc4nx7L8I9JGcMbnQIyXl"
+    },
+    {
+      "album": {
+        "name": "Arriba La Moyombiza 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/6GNTGyokH378gsJyIFihl2"
+      },
+      "artists": [
+        {
+          "name": "Moy Bobadilla",
+          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194750,
+      "name": "Mi Talisman (En Vivo)",
+      "url": "https://open.spotify.com/track/3JMnEn5qrL0ZBw6TckpeFL"
     },
     {
       "album": {
@@ -4508,7 +4628,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 158626,
       "name": "Por Clave Caiman",
       "url": "https://open.spotify.com/track/78CE12m0ygkEbWpTSNqLOM"
@@ -4914,7 +5034,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 173750,
       "name": "Suerte He Tenido (En Vivo)",
       "url": "https://open.spotify.com/track/6LhkPyMHj6CGrDHRpw0dSD"
@@ -4983,6 +5103,24 @@
     },
     {
       "album": {
+        "name": "Arriba La Moyombiza 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/6GNTGyokH378gsJyIFihl2"
+      },
+      "artists": [
+        {
+          "name": "Moy Bobadilla",
+          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Te Ves Fatal (En Vivo)",
+      "url": "https://open.spotify.com/track/021ypkRC62uOYmvS91JN2V"
+    },
+    {
+      "album": {
         "name": "Tiempos Buenos Tiempos Malos (En Vivo)",
         "url": "https://open.spotify.com/album/02s1CLbMekn5GqmY0B2JSz"
       },
@@ -5024,6 +5162,24 @@
       "duration_ms": 182181,
       "name": "Traketeando - En Vivo",
       "url": "https://open.spotify.com/track/6hKJLUCgTWYt989CLMbxOW"
+    },
+    {
+      "album": {
+        "name": "Arriba La Moyombiza (En Vivo)",
+        "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
+      },
+      "artists": [
+        {
+          "name": "Moy Bobadilla",
+          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280250,
+      "name": "Tus Mentiras (En Vivo)",
+      "url": "https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx"
     },
     {
       "album": {
@@ -5274,7 +5430,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 208405,
       "name": "Zutano (En Vivo)",
       "url": "https://open.spotify.com/track/4aI8jecrUY2zEbwNHIKmj9"

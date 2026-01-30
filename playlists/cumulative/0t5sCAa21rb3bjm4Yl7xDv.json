@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "pop is SO back. shop this year's collection <a href=\"https://www.umusic.ca/pages/POP\">here</a>.  Cover: Taylor Swift",
+  "description": "pop is SO back. shop this year's collection <a href=\"https://www.umusic.ca/pages/POP\">here</a>.  Cover: Lights",
   "name": "POP HITS 2026 (BEST 100 SONGS) \ud83d\udca5 \ud83d\udc96 \u2728 \ud83d\udcab",
   "tracks": [
     {
@@ -1717,6 +1717,24 @@
     },
     {
       "album": {
+        "name": "COME GET YOUR GIRL",
+        "url": "https://open.spotify.com/album/5gvKBKFmGEFpqMZhBy0Azl"
+      },
+      "artists": [
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221812,
+      "name": "COME GET YOUR GIRL",
+      "url": "https://open.spotify.com/track/4zOW3Nf24pVKL5Sn2WRuLK"
+    },
+    {
+      "album": {
         "name": "Hard To Love",
         "url": "https://open.spotify.com/album/4Xu5xQYLQvdWXOp7QenPwp"
       },
@@ -2094,7 +2112,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 201217,
       "name": "DAMAGE",
       "url": "https://open.spotify.com/track/0kQWK9I3NRCuxRLuuGsv8X"

@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Dan + Shay",
-  "num_followers": 135544,
+  "num_followers": 135550,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2025-12-19 05:00:32",
       "album": {
-        "name": "Yukon",
-        "url": "https://open.spotify.com/album/2sUc8TaJ6dmrOACODkIeT6"
+        "name": "Simply The Hits",
+        "url": "https://open.spotify.com/album/0H2qV2ddu8h8IBnxIUo9Dv"
       },
       "artists": [
         {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
         }
       ],
-      "duration_ms": 156933,
-      "name": "Yukon",
-      "url": "https://open.spotify.com/track/2TBuOs6tpd4cfhS1XvkJLK"
+      "duration_ms": 257733,
+      "name": "Walking In Memphis",
+      "url": "https://open.spotify.com/track/3c9WJhG3QvTtHmwKb5wz3i"
     },
     {
       "added_at": "2025-12-19 05:00:32",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2025-12-19 05:00:32",
       "album": {
-        "name": "Simply The Hits",
-        "url": "https://open.spotify.com/album/0H2qV2ddu8h8IBnxIUo9Dv"
+        "name": "Yukon",
+        "url": "https://open.spotify.com/album/2sUc8TaJ6dmrOACODkIeT6"
       },
       "artists": [
         {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
         }
       ],
-      "duration_ms": 257733,
-      "name": "Walking In Memphis",
-      "url": "https://open.spotify.com/track/3c9WJhG3QvTtHmwKb5wz3i"
+      "duration_ms": 156933,
+      "name": "Yukon",
+      "url": "https://open.spotify.com/track/2TBuOs6tpd4cfhS1XvkJLK"
     },
     {
       "added_at": "2025-12-19 05:00:32",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2025-12-19 05:00:32",
       "album": {
+        "name": "Cowboy Take Me Away",
+        "url": "https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 269306,
+      "name": "Cowboy Take Me Away",
+      "url": "https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX"
+    },
+    {
+      "added_at": "2025-12-19 05:00:32",
+      "album": {
         "name": "Someone Like You (with The Travelin' McCourys & Sierra Ferrell)",
         "url": "https://open.spotify.com/album/6sAcLktZfPlaSfI6asWalH"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 301569,
       "name": "Someone Like You (with The Travelin' McCourys & Sierra Ferrell)",
       "url": "https://open.spotify.com/track/0FzCkQZyXg3RAVe8hF3TbA"
-    },
-    {
-      "added_at": "2025-12-19 05:00:32",
-      "album": {
-        "name": "Cowboy Take Me Away",
-        "url": "https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 269306,
-      "name": "Cowboy Take Me Away",
-      "url": "https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX"
     },
     {
       "added_at": "2025-12-19 05:00:32",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-12-19 05:00:32",
       "album": {
-        "name": "Heart-Shaped Box",
-        "url": "https://open.spotify.com/album/51KRw2CmWPQ0uiNJOmedo0"
-      },
-      "artists": [
-        {
-          "name": "Sam Donald",
-          "url": "https://open.spotify.com/artist/33HvGTT4l89zxUyt5VTFJs"
-        }
-      ],
-      "duration_ms": 312666,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/19tWCfCVvAsQ0QHDDvrxFF"
-    },
-    {
-      "added_at": "2025-12-19 05:00:32",
-      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
       },
@@ -1595,22 +1579,6 @@
     {
       "added_at": "2025-12-19 05:00:32",
       "album": {
-        "name": "From Now On",
-        "url": "https://open.spotify.com/album/0J6JXu3o3jApCFVcJmLa7p"
-      },
-      "artists": [
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 242746,
-      "name": "From Now On",
-      "url": "https://open.spotify.com/track/12Vx40wfME4VOq5D4qHFu5"
-    },
-    {
-      "added_at": "2025-12-19 05:00:32",
-      "album": {
         "name": "For What It's Worth",
         "url": "https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz"
       },
@@ -1623,6 +1591,38 @@
       "duration_ms": 162411,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46"
+    },
+    {
+      "added_at": "2025-12-19 05:00:32",
+      "album": {
+        "name": "Heart-Shaped Box",
+        "url": "https://open.spotify.com/album/51KRw2CmWPQ0uiNJOmedo0"
+      },
+      "artists": [
+        {
+          "name": "Sam Donald",
+          "url": "https://open.spotify.com/artist/33HvGTT4l89zxUyt5VTFJs"
+        }
+      ],
+      "duration_ms": 312666,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/19tWCfCVvAsQ0QHDDvrxFF"
+    },
+    {
+      "added_at": "2025-12-19 05:00:32",
+      "album": {
+        "name": "From Now On",
+        "url": "https://open.spotify.com/album/0J6JXu3o3jApCFVcJmLa7p"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "duration_ms": 242746,
+      "name": "From Now On",
+      "url": "https://open.spotify.com/track/12Vx40wfME4VOq5D4qHFu5"
     },
     {
       "added_at": "2025-12-19 05:00:32",

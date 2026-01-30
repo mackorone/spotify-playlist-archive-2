@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 41141,
+  "num_followers": 41149,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXgAAAAAAADRKlOJk19GKuTPvz4sXe+9",
+  "snapshot_id": "aXlRgAAAAACllYXXX1Y0utGKI5fsDqTP",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fica At\u00e9 Umas Hora",
+        "url": "https://open.spotify.com/album/0VCfXfgGoV1ogsTnMW74Ot"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "Fica At\u00e9 Umas Hora",
+      "url": "https://open.spotify.com/track/066BKF0jdIIgoNoRUm7f8Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JAH-VAN",
         "url": "https://open.spotify.com/album/6jPDVtAx9fIrwS6KKTWYDO"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 284466,
       "name": "Meu Bem Querer - JAH-VAN",
       "url": "https://open.spotify.com/track/2FlIG6qvcKd73lqqedlgEX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fica At\u00e9 Umas Hora",
-        "url": "https://open.spotify.com/album/0VCfXfgGoV1ogsTnMW74Ot"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "Fica At\u00e9 Umas Hora",
-      "url": "https://open.spotify.com/track/066BKF0jdIIgoNoRUm7f8Z"
     },
     {
       "added_at": null,

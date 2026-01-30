@@ -2,9 +2,9 @@
 
 ### [POP HITS 2026 \(BEST 100 SONGS\) 💥 💖 ✨ 💫](https://open.spotify.com/playlist/0t5sCAa21rb3bjm4Yl7xDv)
 
-> pop is SO back\. shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>\.  Cover: Taylor Swift
+> pop is SO back\. shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>\.  Cover: Lights
 
-616 songs - 1 day 8 hr 27 min
+617 songs - 1 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Closer Than This](https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Closer Than This](https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4) | 3:43 | 2023-12-22 | 2024-01-27 |
 | [Cocoon](https://open.spotify.com/track/1HiTSSMkRcKzeCEbTlZySu) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Cocoon](https://open.spotify.com/album/3BYNvCPN2QOHwyG6HcBRKT) | 3:17 | 2024-05-05 | 2025-04-05 |
 | [Cold Tea](https://open.spotify.com/track/597KzBs4KvD6HavNl0yiG1) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Cold Tea](https://open.spotify.com/album/7ouNonvlK1rcZey6noEvxg) | 3:55 | 2023-11-06 | 2024-01-27 |
+| [COME GET YOUR GIRL](https://open.spotify.com/track/4zOW3Nf24pVKL5Sn2WRuLK) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [COME GET YOUR GIRL](https://open.spotify.com/album/5gvKBKFmGEFpqMZhBy0Azl) | 3:41 | 2026-01-29 |  |
 | [Complicated](https://open.spotify.com/track/6JHZYOwjOuCnJ836WKaB9U) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Hard To Love](https://open.spotify.com/album/4Xu5xQYLQvdWXOp7QenPwp) | 3:07 | 2025-10-10 |  |
 | [Confetti](https://open.spotify.com/track/3idS1vTmHLXIdqovJV0YAN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/37EYSu5EaOgHhB7stzTkHn) | 3:03 | 2023-11-06 | 2023-11-25 |
 | [Contemporary Love](https://open.spotify.com/track/3jibxarV3Y32C8R3AhjrRf) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Contemporary Love](https://open.spotify.com/album/2O5vTJTN8GAch6g0n9gBsJ) | 2:47 | 2023-11-06 | 2023-11-25 |
@@ -117,7 +118,7 @@
 | [CTRL + ALT + DEL](https://open.spotify.com/track/6GhNoBDswPDTPAO30EuJ9W) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Saturn Return](https://open.spotify.com/album/3HhSAMFNWSx71lfinnXPFz) | 2:33 | 2024-07-09 | 2024-09-28 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-11-06 | 2023-11-25 |
 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-14 |  |
-| [DAMAGE](https://open.spotify.com/track/0kQWK9I3NRCuxRLuuGsv8X) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [A6](https://open.spotify.com/album/29ggbvlcCPiVSzVoPG1Axs) | 3:21 | 2025-05-05 |  |
+| [DAMAGE](https://open.spotify.com/track/0kQWK9I3NRCuxRLuuGsv8X) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [A6](https://open.spotify.com/album/29ggbvlcCPiVSzVoPG1Axs) | 3:21 | 2025-05-05 | 2026-01-30 |
 | [DAMAGE](https://open.spotify.com/track/5x7Xv7v0UO5BPDGas3Zyak) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [DAMAGE](https://open.spotify.com/album/4omVNZeB8EhBJKOVwntP3j) | 3:21 | 2024-09-27 | 2025-02-08 |
 | [Dance Alone](https://open.spotify.com/track/5BnL7i0syYE3KK8RgbK6hn) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Dance Alone](https://open.spotify.com/album/1CJFY6yBSHhos1JkjSVBK8) | 3:04 | 2023-12-01 | 2024-08-03 |
 | [Dance Alone \- Qing Madi & Nonso Amadi Remix](https://open.spotify.com/track/3hS56srxJHe84zPZcLx8fO) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Dance Alone \(Qing Madi & Nonso Amadi Remix\)](https://open.spotify.com/album/2FjxxvsyNNw6y20KxvxTDa) | 2:46 | 2024-04-19 | 2024-07-27 |

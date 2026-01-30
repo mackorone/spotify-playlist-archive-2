@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 579321,
+  "num_followers": 579448,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1715,6 +1715,26 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
+        "name": "Like Dat",
+        "url": "https://open.spotify.com/album/6ee6CcsF6D44Kv7LJDgrtX"
+      },
+      "artists": [
+        {
+          "name": "Danidane",
+          "url": "https://open.spotify.com/artist/0iuUN6j3vMee2NUjkFJDF3"
+        },
+        {
+          "name": "MAAURA",
+          "url": "https://open.spotify.com/artist/40AKih5OpGrRTlHilgilSN"
+        }
+      ],
+      "duration_ms": 178516,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/27C2ZFkZL7ylL4bAcHwLOd"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
         "name": "LOW",
         "url": "https://open.spotify.com/album/5yVW2lirxVrpemK2mj6K43"
       },
@@ -1735,26 +1755,6 @@
       "duration_ms": 185000,
       "name": "LOW",
       "url": "https://open.spotify.com/track/6haDUN6avkD3hgIalNJkyt"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
-        "name": "Like Dat",
-        "url": "https://open.spotify.com/album/6ee6CcsF6D44Kv7LJDgrtX"
-      },
-      "artists": [
-        {
-          "name": "Danidane",
-          "url": "https://open.spotify.com/artist/0iuUN6j3vMee2NUjkFJDF3"
-        },
-        {
-          "name": "MAAURA",
-          "url": "https://open.spotify.com/artist/40AKih5OpGrRTlHilgilSN"
-        }
-      ],
-      "duration_ms": 178516,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/27C2ZFkZL7ylL4bAcHwLOd"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
+        "name": "Sensual Disguise EP",
+        "url": "https://open.spotify.com/album/5a4tu8Yr8PQDN9fOooSBmA"
+      },
+      "artists": [
+        {
+          "name": "Blackchild (ITA)",
+          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+        }
+      ],
+      "duration_ms": 190656,
+      "name": "Te Conoci",
+      "url": "https://open.spotify.com/track/15YgNVANAkLbiNligewd1R"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
         "name": "El Youm",
         "url": "https://open.spotify.com/album/5AVlQTQdIN8aoDBYGP3lAV"
       },
@@ -1915,22 +1931,6 @@
       "duration_ms": 181196,
       "name": "El Youm",
       "url": "https://open.spotify.com/track/0mjDJiXyG83w6EdKUWU867"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
-        "name": "Sensual Disguise EP",
-        "url": "https://open.spotify.com/album/5a4tu8Yr8PQDN9fOooSBmA"
-      },
-      "artists": [
-        {
-          "name": "Blackchild (ITA)",
-          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
-        }
-      ],
-      "duration_ms": 190656,
-      "name": "Te Conoci",
-      "url": "https://open.spotify.com/track/15YgNVANAkLbiNligewd1R"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -2207,6 +2207,46 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
+        "name": "Hold It (feat. ZenTola)",
+        "url": "https://open.spotify.com/album/5L4nArWXeaa9kLWXuGNPzW"
+      },
+      "artists": [
+        {
+          "name": "Maesic",
+          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
+        },
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        },
+        {
+          "name": "ZenTola",
+          "url": "https://open.spotify.com/artist/3tLl7yUdX8XVzSAnAk27Lm"
+        }
+      ],
+      "duration_ms": 185820,
+      "name": "Hold It (feat. ZenTola)",
+      "url": "https://open.spotify.com/track/5ZYDjHYSe9IOE5MqkqOzuk"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc"
+      },
+      "artists": [
+        {
+          "name": "Demay\u00e4",
+          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
+        }
+      ],
+      "duration_ms": 263250,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
         "name": "Malaika",
         "url": "https://open.spotify.com/album/7lL6Y1meW33YLH60oSaaoN"
       },
@@ -2231,18 +2271,22 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "You Are",
-        "url": "https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc"
+        "name": "Born In Blue",
+        "url": "https://open.spotify.com/album/1dCSXGLRWwfnBwWaadLv0v"
       },
       "artists": [
         {
-          "name": "Demay\u00e4",
-          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
+          "name": "Chambord",
+          "url": "https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ"
+        },
+        {
+          "name": "Jaguar Jaguar",
+          "url": "https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4"
         }
       ],
-      "duration_ms": 263250,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B"
+      "duration_ms": 290737,
+      "name": "Born In Blue",
+      "url": "https://open.spotify.com/track/5iiQYaqVsZK8ROt0dfOyS9"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -2267,26 +2311,6 @@
       "duration_ms": 238770,
       "name": "Abandoned",
       "url": "https://open.spotify.com/track/1zu20hgpOSlwlIKNorz6M5"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
-        "name": "Born In Blue",
-        "url": "https://open.spotify.com/album/1dCSXGLRWwfnBwWaadLv0v"
-      },
-      "artists": [
-        {
-          "name": "Chambord",
-          "url": "https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ"
-        },
-        {
-          "name": "Jaguar Jaguar",
-          "url": "https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4"
-        }
-      ],
-      "duration_ms": 290737,
-      "name": "Born In Blue",
-      "url": "https://open.spotify.com/track/5iiQYaqVsZK8ROt0dfOyS9"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -2343,30 +2367,6 @@
       "duration_ms": 205161,
       "name": "Nothing Wrong - Love Mix",
       "url": "https://open.spotify.com/track/7iplrJUdhVjYgAjZGINro8"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
-        "name": "Hold It (feat. ZenTola)",
-        "url": "https://open.spotify.com/album/5L4nArWXeaa9kLWXuGNPzW"
-      },
-      "artists": [
-        {
-          "name": "Maesic",
-          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
-        },
-        {
-          "name": "KILIMANJARO",
-          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
-        },
-        {
-          "name": "ZenTola",
-          "url": "https://open.spotify.com/artist/3tLl7yUdX8XVzSAnAk27Lm"
-        }
-      ],
-      "duration_ms": 185820,
-      "name": "Hold It (feat. ZenTola)",
-      "url": "https://open.spotify.com/track/5ZYDjHYSe9IOE5MqkqOzuk"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -2551,22 +2551,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "ROOTS",
-        "url": "https://open.spotify.com/album/7zBtA9nV22Xkz776jcA8Rh"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        }
-      ],
-      "duration_ms": 249999,
-      "name": "ROOTS",
-      "url": "https://open.spotify.com/track/78i4GOdyumIDNV5gVSB1ra"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/77rQVGYB6ZuwjAKo6Q2Qbh"
       },
@@ -2583,22 +2567,6 @@
       "duration_ms": 180014,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/4ncYt6zcpeT7TdKy5XQ8Mu"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0un2xX5yJkl6Yjri9yMXJU"
-      },
-      "artists": [
-        {
-          "name": "Bontan",
-          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/4JRLxf6sMSOcQQP75m3QZh"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -2623,6 +2591,22 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0un2xX5yJkl6Yjri9yMXJU"
+      },
+      "artists": [
+        {
+          "name": "Bontan",
+          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4JRLxf6sMSOcQQP75m3QZh"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
         "name": "Mockingbird",
         "url": "https://open.spotify.com/album/7vvjbJJYe5LcujRW0KgIig"
       },
@@ -2635,6 +2619,22 @@
       "duration_ms": 251803,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/0otwvCxWyHsbYdHKZ0POI8"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "ROOTS",
+        "url": "https://open.spotify.com/album/7zBtA9nV22Xkz776jcA8Rh"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "duration_ms": 249999,
+      "name": "ROOTS",
+      "url": "https://open.spotify.com/track/78i4GOdyumIDNV5gVSB1ra"
     },
     {
       "added_at": "2026-01-23 05:00:19",

@@ -1963,6 +1963,40 @@
     },
     {
       "album": {
+        "name": "Icarus",
+        "url": "https://open.spotify.com/album/4luHBca9SclaZdrRpPlAFw"
+      },
+      "artists": [
+        {
+          "name": "Croatian Amor",
+          "url": "https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig"
+        },
+        {
+          "name": "Frederik Valentin",
+          "url": "https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y"
+        },
+        {
+          "name": "Scandinavian Star",
+          "url": "https://open.spotify.com/artist/0IHVd7aU0SzB7t0HDiCWsp"
+        },
+        {
+          "name": "JEURU",
+          "url": "https://open.spotify.com/artist/60o3gpHTPIXhyelk1W7SCq"
+        },
+        {
+          "name": "3NDLESS",
+          "url": "https://open.spotify.com/artist/75ElKTu3tktOalesDar99k"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256799,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/13fCn5T4Mk4FQiWP3sk9pq"
+    },
+    {
+      "album": {
         "name": "Idea.2",
         "url": "https://open.spotify.com/album/5GeAunzkiBxeRx118tj1Jg"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "a playlist without boundaries, featuring Holly Humberstone \ud83e\ude90",
+  "description": "a playlist without boundaries, featuring Baby Queen \ud83c\udf37",
   "name": "Our Generation",
   "tracks": [
     {
@@ -348,7 +348,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 137944,
       "name": "actin UP!",
       "url": "https://open.spotify.com/track/51co3VqvwYCETYqL6FbWF1"
@@ -2388,7 +2388,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 209906,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/7jMuiaBKxPOjTS1meJoKDK"
@@ -2634,6 +2634,24 @@
       "duration_ms": 217778,
       "name": "Cocoon",
       "url": "https://open.spotify.com/track/6FTXzaE0mrimbEIp4NuZNH"
+    },
+    {
+      "album": {
+        "name": "Spellbook",
+        "url": "https://open.spotify.com/album/16R0XNwZAqSn3xtyxAOb7K"
+      },
+      "artists": [
+        {
+          "name": "mermaidonmars",
+          "url": "https://open.spotify.com/artist/3E3Bhr9cOUCWhjJhNZeTAX"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149866,
+      "name": "Cognitive Dissonance",
+      "url": "https://open.spotify.com/track/4gxcQjQas1oSbY63REnRjT"
     },
     {
       "album": {
@@ -4576,7 +4594,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 224237,
       "name": "For a Little While",
       "url": "https://open.spotify.com/track/0zRI9VVnAp2rLpTyUSvW5d"
@@ -5086,10 +5104,28 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 222106,
       "name": "Good Boy",
       "url": "https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s"
+    },
+    {
+      "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/6i5yc4dRqvo2Mu8mGrRXkE"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263228,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK"
     },
     {
       "album": {
@@ -5216,6 +5252,24 @@
       "duration_ms": 195585,
       "name": "Green Car",
       "url": "https://open.spotify.com/track/3IAYRWhwoMwi7CUCDLEX1f"
+    },
+    {
+      "album": {
+        "name": "grey area",
+        "url": "https://open.spotify.com/album/1DOL6Adg9YRiJQmeLuizuQ"
+      },
+      "artists": [
+        {
+          "name": "third slate",
+          "url": "https://open.spotify.com/artist/4HVkflr3NrTnFBpg1JWBLj"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212157,
+      "name": "grey area",
+      "url": "https://open.spotify.com/track/0xG7W9LFtQKcUsAL1JP9RJ"
     },
     {
       "album": {
@@ -6180,6 +6234,24 @@
       "duration_ms": 230788,
       "name": "I Have So Much To Tell You",
       "url": "https://open.spotify.com/track/2PkCkaQc3Gokr4eHCs2C2B"
+    },
+    {
+      "album": {
+        "name": "I Hope You Don't Remember Me",
+        "url": "https://open.spotify.com/album/4iwwNDtoPunaFnao5lXJAH"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "I Hope You Don't Remember Me",
+      "url": "https://open.spotify.com/track/0H1iIWraMgzBMIQglJQXvJ"
     },
     {
       "album": {
@@ -8305,6 +8377,24 @@
     },
     {
       "album": {
+        "name": "MARIGOLD",
+        "url": "https://open.spotify.com/album/1LfD6ontgCq0j9NJ9vMhc5"
+      },
+      "artists": [
+        {
+          "name": "Little Dog Star",
+          "url": "https://open.spotify.com/artist/2DayGMoy8DCtrJpBq8p0PH"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180832,
+      "name": "MARIGOLD",
+      "url": "https://open.spotify.com/track/7yRTBRlM4kW0FOsEJFRs0n"
+    },
+    {
+      "album": {
         "name": "Marigolds",
         "url": "https://open.spotify.com/album/0UZYkqUUPKY9W41v4RTgFr"
       },
@@ -9377,6 +9467,24 @@
     },
     {
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/7okpYbpzUt2rQ4mSjDeIkF"
+      },
+      "artists": [
+        {
+          "name": "Beattie",
+          "url": "https://open.spotify.com/artist/3wymvWMpCgtYf1CtV4ZddR"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206338,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/2Eg3KPnn9jsOAVvrFNdqxA"
+    },
+    {
+      "album": {
         "name": "On The Coast",
         "url": "https://open.spotify.com/album/5Dd07rwzgphPnX5gAR7m1E"
       },
@@ -10056,7 +10164,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 190356,
       "name": "Pomegranate",
       "url": "https://open.spotify.com/track/5xG8zZlNA77WAN2tOBeAfy"
@@ -11686,7 +11794,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 144000,
       "name": "Sofia",
       "url": "https://open.spotify.com/track/1hcl7Rbl63ScIgt675pT78"
@@ -11798,6 +11906,24 @@
       "duration_ms": 149253,
       "name": "Something Familiar",
       "url": "https://open.spotify.com/track/0t9WYg9bmmUm16ALecso5d"
+    },
+    {
+      "album": {
+        "name": "Something Stupid",
+        "url": "https://open.spotify.com/album/0S3fTNkqwroxTqhVCryyCP"
+      },
+      "artists": [
+        {
+          "name": "AmiiFy",
+          "url": "https://open.spotify.com/artist/0gdCxcoEObSShoJ3HayPnJ"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165977,
+      "name": "Something Stupid",
+      "url": "https://open.spotify.com/track/5i7zaf08ZrlMcsSEB111aq"
     },
     {
       "album": {
@@ -12612,7 +12738,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 190093,
       "name": "Tarmac",
       "url": "https://open.spotify.com/track/32huCokKPXpkhz38ZTibVs"
@@ -13305,6 +13431,24 @@
     },
     {
       "album": {
+        "name": "Touch Me",
+        "url": "https://open.spotify.com/album/0tcdyTBkSx24QyL8yaknrR"
+      },
+      "artists": [
+        {
+          "name": "Sophie May",
+          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198862,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/0vAt0UiWhyWHDaQkbrjO5F"
+    },
+    {
+      "album": {
         "name": "Tough Luck",
         "url": "https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2"
       },
@@ -13338,6 +13482,24 @@
       "duration_ms": 205597,
       "name": "traces",
       "url": "https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi"
+    },
+    {
+      "album": {
+        "name": "trans",
+        "url": "https://open.spotify.com/album/2tQUu7ad2Yky6jLQkHMcH2"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139086,
+      "name": "trans",
+      "url": "https://open.spotify.com/track/6CTCBZBkB6Lomh0akgkwjg"
     },
     {
       "album": {
@@ -14158,7 +14320,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 272266,
       "name": "When A Good Man Cries",
       "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
@@ -14432,7 +14594,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 149000,
       "name": "Yes!! I'm Sure!!! Really Love!!!!",
       "url": "https://open.spotify.com/track/68FiVOXG9qEAd1iq5Da8sN"

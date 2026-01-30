@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Bianca Costa",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Myra",
   "name": "le miel",
   "tracks": [
     {
@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Myra",
+          "url": "https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185467,
+      "name": "777",
+      "url": "https://open.spotify.com/track/42e9HfXNoupybWl2RcnCTp"
+    },
+    {
+      "album": {
         "name": "A boire et \u00e0 manger",
         "url": "https://open.spotify.com/album/4S6fgNKleuWMYJjJgFFhqM"
       },
@@ -236,7 +254,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 150769,
       "name": "Ailleurs",
       "url": "https://open.spotify.com/track/396897EBfjcx50PfGAoLpc"
@@ -262,6 +280,24 @@
       "duration_ms": 170526,
       "name": "ALL NIGHT",
       "url": "https://open.spotify.com/track/6XuGjia8QCdV8G4PCxZNMV"
+    },
+    {
+      "album": {
+        "name": "Altare",
+        "url": "https://open.spotify.com/album/6SlTrCCbIhwul7Ot6rdz1U"
+      },
+      "artists": [
+        {
+          "name": "Nani",
+          "url": "https://open.spotify.com/artist/2CmX6l8HQbIlHCFiDUtE8r"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154551,
+      "name": "Altare",
+      "url": "https://open.spotify.com/track/3wHeHgTnHKHvq7p68TzJjU"
     },
     {
       "album": {
@@ -1038,7 +1074,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 229849,
       "name": "Bora Bora - Live",
       "url": "https://open.spotify.com/track/0PCHGATqzgupul3FMMQR6u"
@@ -1838,7 +1874,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 166702,
       "name": "Dans Le Mille",
       "url": "https://open.spotify.com/track/7bkIIRMgvovTD98JUNkQKA"
@@ -2395,6 +2431,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9sol\u00e9e pour le bruit",
+        "url": "https://open.spotify.com/album/6E36XhssJx05xCU79gmSKp"
+      },
+      "artists": [
+        {
+          "name": "Dinaa",
+          "url": "https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218840,
+      "name": "D\u00e9sol\u00e9e pour le bruit",
+      "url": "https://open.spotify.com/track/7k0Uh7XlKmYZ0cu93Sz08j"
+    },
+    {
+      "album": {
         "name": "POLARO\u00cfD",
         "url": "https://open.spotify.com/album/6pZrD7V7RKrJ8PajlORxd3"
       },
@@ -2525,6 +2579,24 @@
     },
     {
       "album": {
+        "name": "EN ITALIQUE",
+        "url": "https://open.spotify.com/album/0dmZvJ04fKttjKXJlvfMOi"
+      },
+      "artists": [
+        {
+          "name": "Maline",
+          "url": "https://open.spotify.com/artist/2V2vK0RLM5kCodOHaZxMgl"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175124,
+      "name": "EN ITALIQUE",
+      "url": "https://open.spotify.com/track/3j7xrIlhCH26p0VDT7XGgl"
+    },
+    {
+      "album": {
         "name": "Encaisser",
         "url": "https://open.spotify.com/album/1npBnDSvKkLjVCdJcdL4X5"
       },
@@ -2612,7 +2684,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 180638,
       "name": "ENNEMIS",
       "url": "https://open.spotify.com/track/5B2GvKKUoEwBacRVFgugLe"
@@ -2692,7 +2764,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 232642,
       "name": "Et s\u00ff",
       "url": "https://open.spotify.com/track/6h31K8xrSd645QrlWg5Plx"
@@ -2786,7 +2858,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 202570,
       "name": "Faire Mieux",
       "url": "https://open.spotify.com/track/59fnX2XFGGKC8xhSrZcRt6"
@@ -3942,7 +4014,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 192941,
       "name": "J'avais pr\u00e9venu",
       "url": "https://open.spotify.com/track/1HQogBDPDvcFRSCUjh4x2k"
@@ -5125,6 +5197,24 @@
     },
     {
       "album": {
+        "name": "l\u00e2che le contr\u00f4le",
+        "url": "https://open.spotify.com/album/1LeceXsoPcFUVHLIZmaGYc"
+      },
+      "artists": [
+        {
+          "name": "Malter",
+          "url": "https://open.spotify.com/artist/3FDn3vsowXE4E7NNQn4fqq"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183353,
+      "name": "l\u00e2che le contr\u00f4le",
+      "url": "https://open.spotify.com/track/26TKvMvqJihea2JL9BtRz4"
+    },
+    {
+      "album": {
         "name": "MA BELLE",
         "url": "https://open.spotify.com/album/63zHJtrPxx5QeUfkfeR48b"
       },
@@ -6115,6 +6205,24 @@
     },
     {
       "album": {
+        "name": "Ok Melly",
+        "url": "https://open.spotify.com/album/1XPakW9mlapn3RWPsLOzoX"
+      },
+      "artists": [
+        {
+          "name": "Mee Shel",
+          "url": "https://open.spotify.com/artist/0fYdXlJTAY0baUS0YoHfTH"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Ok Melly",
+      "url": "https://open.spotify.com/track/5u9xBRFAPu8KLiDtbpKplx"
+    },
+    {
+      "album": {
         "name": "OK.",
         "url": "https://open.spotify.com/album/1CGNBNbj4RIfBW2Lbi7PHK"
       },
@@ -6180,7 +6288,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 193710,
       "name": "On my mind",
       "url": "https://open.spotify.com/track/1UHJDgI62fA0j9Hp2uwWHo"
@@ -6242,6 +6350,24 @@
       "duration_ms": 166620,
       "name": "Onze",
       "url": "https://open.spotify.com/track/0GTtsPEsu9Mr2X125jHKRj"
+    },
+    {
+      "album": {
+        "name": "Oublie-la",
+        "url": "https://open.spotify.com/album/5Erfy0Mwusr6XTKQOrloxm"
+      },
+      "artists": [
+        {
+          "name": "Tallulah",
+          "url": "https://open.spotify.com/artist/2enfI1A3N4CyrreGjAUdD3"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Oublie-la",
+      "url": "https://open.spotify.com/track/6nYkwViHahN5octmKo7yrE"
     },
     {
       "album": {
@@ -6375,6 +6501,24 @@
     },
     {
       "album": {
+        "name": "Pardon",
+        "url": "https://open.spotify.com/album/6cOR6vKPzMEXdCi1NYdytp"
+      },
+      "artists": [
+        {
+          "name": "Lukazam",
+          "url": "https://open.spotify.com/artist/24xRWHfDxExMzAYbu2OPyD"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "Pardon",
+      "url": "https://open.spotify.com/track/21inZyPyh8Sf57BgGFPpoV"
+    },
+    {
+      "album": {
         "name": "Baby Boyz",
         "url": "https://open.spotify.com/album/72n24q33jNUw0vu9aM6i8Z"
       },
@@ -6440,7 +6584,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 160800,
       "name": "PASSION",
       "url": "https://open.spotify.com/track/7BIcVSsgAL92atRGg5hpub"
@@ -6980,6 +7124,28 @@
       "duration_ms": 159230,
       "name": "Prie pour moi",
       "url": "https://open.spotify.com/track/6xohXEzSnrP1BVNgzV5FzZ"
+    },
+    {
+      "album": {
+        "name": "PRINCE",
+        "url": "https://open.spotify.com/album/0ozBxUQ0LfouBBCuAHCDNT"
+      },
+      "artists": [
+        {
+          "name": "Siy\u00e9",
+          "url": "https://open.spotify.com/artist/0l4sh43GlADH6WxFw2iPwn"
+        },
+        {
+          "name": "KZW",
+          "url": "https://open.spotify.com/artist/4UPVZWDYFLFLIkPO40v5ci"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209299,
+      "name": "PRINCE",
+      "url": "https://open.spotify.com/track/4fYucR7ilEZpJBiupnDeTE"
     },
     {
       "album": {
@@ -9151,6 +9317,24 @@
     },
     {
       "album": {
+        "name": "Une derni\u00e8re fois",
+        "url": "https://open.spotify.com/album/2byojLq6Tv3r6HQPmjYIcx"
+      },
+      "artists": [
+        {
+          "name": "Jay luv",
+          "url": "https://open.spotify.com/artist/0zPKwOI3xzTHyGEsBxVqOs"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Une derni\u00e8re fois",
+      "url": "https://open.spotify.com/track/6TeuCRHQxIrEz4CxFdhxAM"
+    },
+    {
+      "album": {
         "name": "Premier p\u00e9tale",
         "url": "https://open.spotify.com/album/135Blnc2l4f5iIPVOf9RHe"
       },
@@ -9350,7 +9534,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 160627,
       "name": "WE CAN",
       "url": "https://open.spotify.com/track/0GjJBfMN2rTHz3deKa7SAR"

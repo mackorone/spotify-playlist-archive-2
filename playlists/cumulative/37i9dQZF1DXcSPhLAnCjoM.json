@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\" Respire fort\" de Jeanne est le Grand Hit de la semaine.  ",
+  "description": "\" Par coeur\" de DAYSY et Joseph Kamel est le Grand Hit de la semaine.  ",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -496,7 +496,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 193106,
       "name": "Bouquet final",
       "url": "https://open.spotify.com/track/17VfUy9CJiUZ9uighESFoM"
@@ -1674,6 +1674,24 @@
       "duration_ms": 147000,
       "name": "Ensemble - Radio Edit",
       "url": "https://open.spotify.com/track/73G5Qtfwq7lSFR9MlpQDlj"
+    },
+    {
+      "album": {
+        "name": "Coeur maladroit (Deluxe)",
+        "url": "https://open.spotify.com/album/4vMwcXo0IBEa0TsGUyw2pn"
+      },
+      "artists": [
+        {
+          "name": "Marine",
+          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176533,
+      "name": "Escroc",
+      "url": "https://open.spotify.com/track/3yYPNVUFRHwVx5Q3HINdO9"
     },
     {
       "album": {
@@ -4236,7 +4254,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 168046,
       "name": "Oublier",
       "url": "https://open.spotify.com/track/08ERabruhqMIkZOlIPKIDb"
@@ -4605,6 +4623,24 @@
     },
     {
       "album": {
+        "name": "Adr\u00e9naline",
+        "url": "https://open.spotify.com/album/7uBRFkBVpOgW0Uub3qstIK"
+      },
+      "artists": [
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193666,
+      "name": "Quand m\u00eame",
+      "url": "https://open.spotify.com/track/4V9V7lUvb6DZFCa3XwJPbc"
+    },
+    {
+      "album": {
         "name": "Il \u00e9tait une fois",
         "url": "https://open.spotify.com/album/6C8PoyDBrHfl7DQ7ZrLo6l"
       },
@@ -4746,7 +4782,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 173364,
       "name": "Restes d'averses - Regretting You Version",
       "url": "https://open.spotify.com/track/0unmCsoTMN5pVdIrZYUWc9"
@@ -5450,6 +5486,24 @@
       "duration_ms": 214400,
       "name": "Tout pour moi",
       "url": "https://open.spotify.com/track/0lWVNLcBpzwzeH67Cv3QOp"
+    },
+    {
+      "album": {
+        "name": "Tout se casse (Version radio)",
+        "url": "https://open.spotify.com/album/74X7BVWblYn8tzB33EbOXb"
+      },
+      "artists": [
+        {
+          "name": "Les Enfoir\u00e9s",
+          "url": "https://open.spotify.com/artist/1OCpqnXexjxrakYtmur3rN"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237272,
+      "name": "Tout se casse - Version radio",
+      "url": "https://open.spotify.com/track/7mso93CqDezz9i3Hd4Z151"
     },
     {
       "album": {

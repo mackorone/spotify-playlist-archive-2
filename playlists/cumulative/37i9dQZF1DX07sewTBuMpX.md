@@ -2,9 +2,9 @@
 
 ### [Pull Up Hits](https://open.spotify.com/playlist/37i9dQZF1DX07sewTBuMpX)
 
-> De beste tunes op repeat\. Cover: Jonna Fraser & Lil Kleine
+> De beste tunes op repeat\. Cover: CHO
 
-110 songs - 5 hr 14 min
+111 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [180](https://open.spotify.com/track/3rKD53F1KpVjCg5MZQabq9) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [180](https://open.spotify.com/album/3JziZ02K6CPyI83kKOQbHj) | 3:31 | 2025-07-17 |  |
 | [AH TXE TXE](https://open.spotify.com/track/79wWpQPAcfqEeYCDjqGOVY) | [GIANT](https://open.spotify.com/artist/2YPBmmwBWiFzpoae8JQXIR), [TYSON](https://open.spotify.com/artist/4AMWsRQg1bTvWflaYNq713), [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [AH TXE TXE](https://open.spotify.com/album/295XHZuwcQXO0iKMEdeiio) | 2:16 | 2025-07-17 | 2025-12-11 |
 | [Alsjeblieft](https://open.spotify.com/track/6EqWfORn8udIwOBx6NSktf) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [Alsjeblieft](https://open.spotify.com/album/3Y9TtesZiPzWxBXWD0GSwr) | 3:20 | 2025-07-17 |  |
-| [Amazin' \- Remix](https://open.spotify.com/track/00XmWMEZ4ms7Xxk6ZoH4Lo) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Amazin’ \(Remix\)](https://open.spotify.com/album/7CJPdQcYGjdOqor42uir6h) | 2:55 | 2025-07-17 |  |
+| [Amazin' \- Remix](https://open.spotify.com/track/00XmWMEZ4ms7Xxk6ZoH4Lo) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Amazin’ \(Remix\)](https://open.spotify.com/album/7CJPdQcYGjdOqor42uir6h) | 2:55 | 2025-07-17 | 2026-01-30 |
 | [Appel Mint Puur](https://open.spotify.com/track/3Pv2qL5XAHqx6j1L5ZkeY3) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Appel Mint Puur](https://open.spotify.com/album/38hA8Zqn3mR4pO5us9D6uQ) | 3:27 | 2025-07-17 |  |
 | [Ba Ba Bad](https://open.spotify.com/track/4jW4qcZrYF0uy0WwGi9Fwt) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Ba Ba Bad](https://open.spotify.com/album/6M8IIwUeP50mLIM55s5yXK) | 2:24 | 2025-07-17 | 2025-11-23 |
 | [Baddie](https://open.spotify.com/track/4mgYtnnm01NgTKLlMpF10h) | [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Baddie](https://open.spotify.com/album/0u9XpTRBvmMooQZokHW7il) | 2:38 | 2025-07-17 |  |
@@ -52,6 +52,7 @@
 | [Ik Kijk Soms Naar Jou](https://open.spotify.com/track/7jBqqJNT5aOCkuyvrd7scH) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Ik Kijk Soms Naar Jou](https://open.spotify.com/album/3GjyYmdr4NyQStCXM3iyWx) | 3:02 | 2025-10-15 |  |
 | [In De Nacht](https://open.spotify.com/track/2yiXHStn90Xf7i9DcFv4Wy) | [Shah](https://open.spotify.com/artist/7lPPiwLIuHV5fPlN6jLi13) | [In De Nacht](https://open.spotify.com/album/7B52kWwf8iXkjpA11lMDp0) | 2:30 | 2025-07-17 |  |
 | [Je Bent Leuk](https://open.spotify.com/track/4ZI2g8wtdJOLdPf6TFwitA) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Je Bent Leuk](https://open.spotify.com/album/0ylQLQW9UUNOs0uINvTkgt) | 2:02 | 2025-07-17 |  |
+| [KANDE \(feat\. La Rouge\)](https://open.spotify.com/track/13c77IilGVzMcrOFO8rHlb) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [La Rouge](https://open.spotify.com/artist/0gHpIfv815XYSaH0m3X08y) | [GIOVANNI II](https://open.spotify.com/album/54TRy2dAPI0J6Og5seK2MA) | 3:08 | 2026-01-29 |  |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2025-07-17 |  |
 | [La Plena \- W Sound 05](https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt) | 2:30 | 2025-10-15 |  |
 | [LIES](https://open.spotify.com/track/46Zi8b9UbvjwNpwngsyckC) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [LIES](https://open.spotify.com/album/5g3O1A0CXtTT1iKll0hSiN) | 3:19 | 2025-12-10 |  |

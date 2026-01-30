@@ -2870,7 +2870,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 170396,
       "name": "Eden",
       "url": "https://open.spotify.com/track/3mKEsNfkQFu5c0XdkGQnjW"
@@ -4626,7 +4626,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 272448,
       "name": "here for you - Live",
       "url": "https://open.spotify.com/track/3VQmZWus8cAatajKOqkCxQ"
@@ -4864,6 +4864,24 @@
       "duration_ms": 200437,
       "name": "Holy Hip-Hop II",
       "url": "https://open.spotify.com/track/5tfF2kMhZqYCDPBXVcQe9v"
+    },
+    {
+      "album": {
+        "name": "HOLY PLACE",
+        "url": "https://open.spotify.com/album/2opgoS8ibTjPJCU55jgkt4"
+      },
+      "artists": [
+        {
+          "name": "Grace Idowu",
+          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257892,
+      "name": "HOLY PLACE",
+      "url": "https://open.spotify.com/track/5jkD22xzTiwTLp90CBpTmr"
     },
     {
       "album": {
@@ -7873,6 +7891,24 @@
     },
     {
       "album": {
+        "name": "No Weapon",
+        "url": "https://open.spotify.com/album/4AFSWnW3fNNwbMpnuXgbBH"
+      },
+      "artists": [
+        {
+          "name": "Mayor Boss",
+          "url": "https://open.spotify.com/artist/5SG33RwNDk7t92dRUKyLUZ"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101067,
+      "name": "No Weapon",
+      "url": "https://open.spotify.com/track/1rS9xwUy0cdeb5u5Rnga4Q"
+    },
+    {
+      "album": {
         "name": "No worries \"Hakuna Matata\"",
         "url": "https://open.spotify.com/album/1pCGqsVRRsVCNazBr3O7j5"
       },
@@ -10142,7 +10178,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 182255,
       "name": "Sit",
       "url": "https://open.spotify.com/track/1RJUPZirLCgAfuw7AvzKiw"

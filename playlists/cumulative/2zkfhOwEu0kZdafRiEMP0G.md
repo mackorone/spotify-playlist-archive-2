@@ -4,7 +4,7 @@
 
 > 
 
-74 songs - 5 hr 9 min
+75 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Who Lives, Who Dies, Who Tells Your Story](https://open.spotify.com/track/7EsSVPxaYoAZjQwhspJBs2) | [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 3:37 | 2025-12-07 |  |
 | [Without a Tribe](https://open.spotify.com/track/1j6P0usrnbCDKNMvocxgxq) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [Without a Tribe](https://open.spotify.com/album/5PLBQ0CHYtWK82jCyquCvb) | 2:14 | 2025-11-05 | 2025-12-28 |
 | [Without You \(4 Tonite\) \- Live](https://open.spotify.com/track/4Ymlnq6LskNxKfn5nCcPSp) | [Lucky Chops](https://open.spotify.com/artist/2b6gc4EVpO6OTlDvKrK852) | [Live at Virtue and Vice Studio](https://open.spotify.com/album/7hoM6KnToWUFhTU77wBgIa) | 4:27 | 2025-11-23 | 2026-01-26 |
+| [world's end](https://open.spotify.com/track/5HG3zz4uGne9f9mBaxb39x) | [John michel](https://open.spotify.com/artist/7KIaXj7EsyuuYGH0z2v36h), [Anthony James](https://open.spotify.com/artist/6PWEwhnCN7vzNi9VpXFSUp) | [Egotrip](https://open.spotify.com/album/3iKxcGgS71n7ND8I2A3CF5) | 3:01 | 2026-01-29 |  |
 | [Would You Fall in Love with Me Again](https://open.spotify.com/track/3iYeXCdD3d0zlex2v0CpVt) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Anna Lea](https://open.spotify.com/artist/1hOdQnbXBlfZX9JXZk0O1w) | [EPIC: The Ithaca Saga \(Official Concept Album\)](https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU) | 5:45 | 2025-03-17 |  |
 | [You Raise Me Up \- Acappella](https://open.spotify.com/track/4vWouOfTsCekCs9noRYN1O) | [Jared Halley](https://open.spotify.com/artist/7IvXFbdaAQEFyeB7SSEfCG) | [You Raise Me Up \(Acappella\)](https://open.spotify.com/album/1QindxxW68WNO5pNe3vVY2) | 3:51 | 2025-07-13 |  |
 

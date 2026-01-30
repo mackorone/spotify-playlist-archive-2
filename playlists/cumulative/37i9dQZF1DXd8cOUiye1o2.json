@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-01",
-  "description": "Fresh from the recording to your ears. Latest Hindi music, right here. Cover - Border 2",
+  "description": "Live it up this season of love with 'Jee Liya' from Tu Yaa Main.",
   "name": "New Music Hindi",
   "tracks": [
     {
@@ -276,6 +276,24 @@
       "duration_ms": 222103,
       "name": "Aao Na",
       "url": "https://open.spotify.com/track/6pYnbhBCBI0nSqXFeqmZJu"
+    },
+    {
+      "album": {
+        "name": "Aasmani",
+        "url": "https://open.spotify.com/album/24HEKKPyHEu5fbcctSMBKN"
+      },
+      "artists": [
+        {
+          "name": "Samad Khan",
+          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340835,
+      "name": "Aao Na",
+      "url": "https://open.spotify.com/track/3E5paqQcR3TyAhvVxdnWqo"
     },
     {
       "album": {
@@ -818,7 +836,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 183333,
       "name": "atari",
       "url": "https://open.spotify.com/track/2QbOs8LucCMsNycmZcyxaB"
@@ -2958,6 +2976,24 @@
       "duration_ms": 220843,
       "name": "Dil Musafir",
       "url": "https://open.spotify.com/track/4Qd9zPJCFLPjbkfI66L4dX"
+    },
+    {
+      "album": {
+        "name": "Dil Na Jaane Kyun",
+        "url": "https://open.spotify.com/album/48OxGCsdmBwUo48AkRd36d"
+      },
+      "artists": [
+        {
+          "name": "Niki Choudhury",
+          "url": "https://open.spotify.com/artist/4bVaSxwel0yCQqkp459xqS"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163761,
+      "name": "Dil Na Jaane Kyun",
+      "url": "https://open.spotify.com/track/7M4GnvGPQmHgCti9m9Juwi"
     },
     {
       "album": {
@@ -5304,7 +5340,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 160298,
       "name": "Je Rahu Ketu Kaun Hain - From \"Rahu Ketu\"",
       "url": "https://open.spotify.com/track/5Juami1AuTVGJ5VLoMwpZO"
@@ -5334,6 +5370,36 @@
       "duration_ms": 239680,
       "name": "Jee Kare Dekhta Rahoon (From \"Soulmates\")",
       "url": "https://open.spotify.com/track/41TZSYkp6dG6wSaQ2g7psS"
+    },
+    {
+      "album": {
+        "name": "Jee Liya (From \"Tu Yaa Main\")",
+        "url": "https://open.spotify.com/album/5U8ehxq5GgvrP0R8pZEhQe"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Gourav",
+          "url": "https://open.spotify.com/artist/6fckyXLMXdnYbkMutc4pJj"
+        },
+        {
+          "name": "Aditya N.",
+          "url": "https://open.spotify.com/artist/4hywkPZjNnWbisCuDpTB5d"
+        },
+        {
+          "name": "Lothika",
+          "url": "https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX"
+        },
+        {
+          "name": "Chakori Dwivedi",
+          "url": "https://open.spotify.com/artist/5rm5jniMvphOzPNEn2QF6s"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Jee Liya - From \"Tu Yaa Main\"",
+      "url": "https://open.spotify.com/track/0H545XfNvoSu9THGf8mBnd"
     },
     {
       "album": {
@@ -5690,7 +5756,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 235029,
       "name": "Jiye Tere Hi Sahaare (From \"Jan Neta\")",
       "url": "https://open.spotify.com/track/5iQQX9JnHUKu1fjNiGVP8P"
@@ -6782,6 +6848,10 @@
         {
           "name": "Master Mani Dharamkot",
           "url": "https://open.spotify.com/artist/1UykW7RvQLRDp4oX5g3A7X"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
         }
       ],
       "date_added": "2026-01-24",
@@ -9044,7 +9114,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 224882,
       "name": "Raanjhiya",
       "url": "https://open.spotify.com/track/3x3wjzzwMUDrxuO5O94Fl2"
@@ -9240,7 +9310,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 252016,
       "name": "Raje Yuvaraje (From \"The Rajasaab\") [Hindi]",
       "url": "https://open.spotify.com/track/4xpsae1KcnZPYb2bh3KHOm"
@@ -9376,6 +9446,24 @@
       "duration_ms": 179300,
       "name": "Restart",
       "url": "https://open.spotify.com/track/6HQhiyAI78PjlanrRIVgHA"
+    },
+    {
+      "album": {
+        "name": "Rico Rico",
+        "url": "https://open.spotify.com/album/7kqSLuAIYxngSMIT6Dc7TB"
+      },
+      "artists": [
+        {
+          "name": "Dhvani Bhanushali",
+          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Rico Rico",
+      "url": "https://open.spotify.com/track/64IyyLn8ioAEBgXSIz7EVv"
     },
     {
       "album": {
@@ -10828,6 +10916,32 @@
       "duration_ms": 406000,
       "name": "TERA HOON",
       "url": "https://open.spotify.com/track/3h041YpHqp6yquNcVORNAU"
+    },
+    {
+      "album": {
+        "name": "Tera Mera Saath (From \"Do Deewane Seher Mein\")",
+        "url": "https://open.spotify.com/album/6hPtuQSdhlfxJCkjdP4HRM"
+      },
+      "artists": [
+        {
+          "name": "TUSHAR JOSHI",
+          "url": "https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH"
+        },
+        {
+          "name": "Sumedha Karmahe",
+          "url": "https://open.spotify.com/artist/4MEdY6uFLSNWHq4kKrDx4j"
+        },
+        {
+          "name": "White Noise Collectives",
+          "url": "https://open.spotify.com/artist/73vvjIbxF9MP8VZG3tthUC"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242500,
+      "name": "Tera Mera Saath (From \"Do Deewane Seher Mein\")",
+      "url": "https://open.spotify.com/track/2NjlLOzv5XzDkmrMWgtTpI"
     },
     {
       "album": {

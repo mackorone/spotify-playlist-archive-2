@@ -6440,7 +6440,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 169960,
       "name": "I'm Not What Happened To Me",
       "url": "https://open.spotify.com/track/5uP6vSMmfpqx2hYdeRGprt"
@@ -8776,7 +8776,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 171916,
       "name": "Midnight Cruiser",
       "url": "https://open.spotify.com/track/4AOPZ36lUIYHE2kzfPVP5v"
@@ -9328,7 +9328,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 198485,
       "name": "Navigatie \u2013 Freestyle #2",
       "url": "https://open.spotify.com/track/5IFIK55onVh7sonND8yWFX"
@@ -13997,6 +13997,28 @@
     },
     {
       "album": {
+        "name": "Versatile",
+        "url": "https://open.spotify.com/album/05Qd4YDfvthwoQxOMhCJOK"
+      },
+      "artists": [
+        {
+          "name": "slenderpill",
+          "url": "https://open.spotify.com/artist/237rawiOSdfQRCfAhlowSx"
+        },
+        {
+          "name": "Six Dior",
+          "url": "https://open.spotify.com/artist/4Soc06zRsHw2US0abt3TAa"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132571,
+      "name": "Versatile - Slowed + Low Honor",
+      "url": "https://open.spotify.com/track/7FoURDwuTDBsyUOUal2UYL"
+    },
+    {
+      "album": {
         "name": "ENCORE / VIANO",
         "url": "https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf"
       },
@@ -14264,7 +14286,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 220273,
       "name": "walgelijk",
       "url": "https://open.spotify.com/track/5qv5qNOlYJCXgYj4Fmlt6d"
@@ -14500,7 +14522,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 156190,
       "name": "We Slaon Deur!",
       "url": "https://open.spotify.com/track/7pJejvEBgG7aPamIxGIWtN"

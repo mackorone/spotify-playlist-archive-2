@@ -4,7 +4,7 @@
 
 > This is La Original Banda El Limón de Salvador Lizárraga\. The essential tracks, all in one playlist.
 
-144 songs - 7 hr 25 min
+145 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,8 @@
 | [Se Me Hizo Vicio](https://open.spotify.com/track/5ojaAFtMvJuDzN2hCFy1aX) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Las Bandas Románticas](https://open.spotify.com/album/6aTyqTryxFbbFAfdOvZBOb) | 2:45 | 2022-06-06 | 2022-08-20 |
 | [Sergio El Bailador](https://open.spotify.com/track/1CxGJMgTs0ecmyiRrxB2Bm) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Sergio El Bailador](https://open.spotify.com/album/6X08l58jfdDvcFnLNeVnVw) | 2:34 | 2025-10-13 | 2025-11-25 |
 | [Si por Casualidad](https://open.spotify.com/track/6kbB6X2qqS0XkAPkk7TLee) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 2:39 | 2022-06-01 |  |
-| [Si Pudiera](https://open.spotify.com/track/6zwpRMJHf3DQupj1NFyxrD) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Soy Tu Maestro](https://open.spotify.com/album/0GdHeCV6ThHAEhBUJIDlN9) | 3:30 | 2022-06-01 |  |
+| [Si Pudiera](https://open.spotify.com/track/5MyLXAsZSZttTTEmFgpxAO) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Soy Tu Maestro \("45 Aniversario" \- Relanzamiento\)](https://open.spotify.com/album/6b1eKVdMRpTQ4qn9FbY0jZ) | 3:30 | 2026-01-30 |  |
+| [Si Pudiera](https://open.spotify.com/track/6zwpRMJHf3DQupj1NFyxrD) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Soy Tu Maestro](https://open.spotify.com/album/0GdHeCV6ThHAEhBUJIDlN9) | 3:30 | 2022-06-01 | 2026-01-30 |
 | [Si Ya No Te Vuelvo A Ver](https://open.spotify.com/track/0hF3fxYz8y2ylDQ66a3PuV) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestras Favoritas De Marco Antonio Solis](https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn) | 3:03 | 2023-12-21 | 2025-08-17 |
 | [Sin Pensar Yo Te Engañé](https://open.spotify.com/track/2TPOVXCnOQtJSY6GmHYA1z) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Derecho De Antigüedad](https://open.spotify.com/album/5NvPZJ8WktUvoVxnyXpgOT) | 3:40 | 2022-06-01 |  |
 | [Sin Permiso Para Amarte](https://open.spotify.com/track/3Dd6c1FZDaxvoPfPRLyhBa) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [De Aquí Pa'l Real](https://open.spotify.com/album/0JdVLsrQshSvoWiPSW6M8D) | 4:06 | 2025-07-21 |  |

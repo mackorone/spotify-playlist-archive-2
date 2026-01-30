@@ -1,6 +1,6 @@
 {
   "description": "The best new music from independent artists in the UK and Ireland. Cover: Lande Hekt",
-  "num_followers": 38021,
+  "num_followers": 38022,
   "original_name": "Fresh Finds UK & IE",
   "owner": {
     "name": "Spotify",
@@ -338,6 +338,10 @@
         {
           "name": "Taifunds",
           "url": "https://open.spotify.com/artist/1C76b7OjUUW3Jqqk4PMkMr"
+        },
+        {
+          "name": "Professor Damz",
+          "url": "https://open.spotify.com/artist/2sRWi7S65nEPY5ZK6ouUMZ"
         }
       ],
       "duration_ms": 106046,

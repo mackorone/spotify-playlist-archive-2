@@ -2,9 +2,9 @@
 
 ### [Wire](https://open.spotify.com/playlist/37i9dQZF1DX3SHrJsyCVuc)
 
-> A new world of alternative noise\. Cover: Radium Dolls
+> A new world of alternative noise\. Cover: KNEECAP
 
-109 songs - 5 hr 53 min
+111 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Friendship Bracelet](https://open.spotify.com/track/60FBfGHqju9muD7rNs6tz3) | [Behind You](https://open.spotify.com/artist/1T6MrJ05LTMSvGL8zMNjku), [SUPEREGO](https://open.spotify.com/artist/6F91LpAhKWgrnHf4uAc1ER) | [Friendship Bracelet](https://open.spotify.com/album/0IhqfuNHOmWgjgj5oIuBSQ) | 3:04 | 2025-10-23 | 2025-11-07 |
 | [Fundraiser](https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Fundraiser](https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID) | 3:39 | 2025-10-23 | 2025-11-14 |
 | [Gatekeep](https://open.spotify.com/track/78WLXqaqyu9PeUbMjvF5iQ) | [Big Modern](https://open.spotify.com/artist/6YqLPGpAOXTBVndsTaQXxp) | [Big Modern](https://open.spotify.com/album/07Grit2srI4QYHsXbE0zIX) | 1:06 | 2025-11-20 |  |
-| [Golden Boy](https://open.spotify.com/track/3A1ODOlyUOBNHHSkob57Ym) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Golden Boy](https://open.spotify.com/album/7ukf25x1Denwo0UbDfaEXx) | 3:41 | 2025-10-23 |  |
+| [Golden Boy](https://open.spotify.com/track/3A1ODOlyUOBNHHSkob57Ym) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Golden Boy](https://open.spotify.com/album/7ukf25x1Denwo0UbDfaEXx) | 3:41 | 2025-10-23 | 2026-01-30 |
 | [good luck](https://open.spotify.com/track/3oAziHFXoYjjdNqkldMO9w) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id), [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [good luck](https://open.spotify.com/album/0QqHV2pIGSb6DMjyV98lrb) | 1:46 | 2025-10-23 |  |
 | [Head In A Toaster](https://open.spotify.com/track/3imsIC8F4wV3AX7oIoIkCE) | [Big Modern](https://open.spotify.com/artist/6YqLPGpAOXTBVndsTaQXxp) | [Head In A Toaster](https://open.spotify.com/album/3fvhuLxy0ynDpYUlL5MxYM) | 1:55 | 2025-10-23 |  |
 | [Headlights](https://open.spotify.com/track/5EVfMP3tZ8L1c2ple2YnGT) | [horse](https://open.spotify.com/artist/6V9Tfh0YmcoTEBKd35s9ql) | [Headlights](https://open.spotify.com/album/6U4InmynS95MGghIuTUa6x) | 4:10 | 2025-10-23 |  |
@@ -61,6 +61,7 @@
 | [Just a Memory](https://open.spotify.com/track/10ElMw2aUfjQgq0l9ATVXR) | [Buzz Kull](https://open.spotify.com/artist/5RtyPqV9c3KizJ8pqJEcZl) | [Just a Memory](https://open.spotify.com/album/7ChJguOeuMu7fwDhFooODN) | 3:31 | 2025-12-18 |  |
 | [Landed In A Trap](https://open.spotify.com/track/2McVnlCfJVaRFNeSwIAUgU) | [Public Figures](https://open.spotify.com/artist/3A93doBF2yINkhxYRxaw5b) | [Landed In A Trap](https://open.spotify.com/album/2w1VfJ8bKHbPwfXM09yiNE) | 1:24 | 2025-10-23 | 2026-01-15 |
 | [Landslide](https://open.spotify.com/track/3YGUjZ9giUQTnseoUqf0By) | [Death Bells](https://open.spotify.com/artist/14aKkOrkqm6amS81rUMZPg), [Sans Merit](https://open.spotify.com/artist/6ArU4k8PS1STHehmWH770a) | [Landslide](https://open.spotify.com/album/0xlFiNYXN3cF666OLUxRlz) | 3:21 | 2025-10-23 | 2026-01-15 |
+| [Liars Tale](https://open.spotify.com/track/0YJizAvRp2i7MCs99rJWW0) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU) | [Liars Tale](https://open.spotify.com/album/1BJNYGK987nM5UrDBLNrqe) | 3:17 | 2026-01-29 |  |
 | [Long Line](https://open.spotify.com/track/2hj5Qm88WoLdKPut2KGoRD) | [Soft Bait](https://open.spotify.com/artist/2GdDNUCO7QLHKxHvWOkl2J) | [Long Line](https://open.spotify.com/album/2rG5spc0tbdMY3pwVB7vkd) | 3:32 | 2025-10-23 | 2025-11-21 |
 | [Mad Rooter](https://open.spotify.com/track/6cuXSWojM83UcPkrfbd75t) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [Mad Rooter](https://open.spotify.com/album/4n5Lg3hYCaJIv434OImVaO) | 3:05 | 2025-10-23 |  |
 | [Megaton](https://open.spotify.com/track/6tsugFcFFJvz89znj7bNJK) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Megaton](https://open.spotify.com/album/25Ujl2GZlvbQkf23YeUyCN) | 2:52 | 2025-10-23 | 2025-12-05 |
@@ -69,6 +70,7 @@
 | [NEW AGE](https://open.spotify.com/track/1iBoLtHJkiR4JHcZSoDtF9) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [NEW AGE](https://open.spotify.com/album/4gkvq2hK8b3GPeKY6W2E03) | 3:32 | 2025-10-23 |  |
 | [New Case](https://open.spotify.com/track/5LF2zTvtSPdm6Ffa2IuXUf) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [New Case](https://open.spotify.com/album/5szt6cyBnFYsksLYpu4jw1) | 2:46 | 2025-10-23 |  |
 | [No Love](https://open.spotify.com/track/54pSlokgcxJakkfBm10N3c) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [No Love](https://open.spotify.com/album/2gZS32bPZcfyBu0Cg8Colc) | 1:58 | 2025-10-23 | 2025-11-28 |
+| [Not Sorry](https://open.spotify.com/track/1ZtYPLZOSvoE3y3yxdHWLb) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [](https://open.spotify.com/album/null) | 2:50 | 2026-01-29 |  |
 | [nuclear](https://open.spotify.com/track/3sS5EHvZrM7XqTRh3wdxRx) | [Mieke](https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4) | [nuclear](https://open.spotify.com/album/34OS4k4RcL6LjVxWoZ4ick) | 5:45 | 2025-10-23 |  |
 | [omni shambles](https://open.spotify.com/track/741HkhBFMxxkmq1uU0VJSz) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [omni shambles](https://open.spotify.com/album/45dbSWXwlSOxhPLcWs1n9X) | 2:16 | 2025-10-23 |  |
 | [One Train](https://open.spotify.com/track/5CiLlBxMClDoCe7fAJfn8p) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [One Train](https://open.spotify.com/album/4Vx7dItHDgFCRgZzM7ngxN) | 2:32 | 2025-10-23 | 2025-12-19 |
@@ -102,7 +104,7 @@
 | [Stay Right](https://open.spotify.com/track/4ijtVwvHowS1kJ3v8jQwrR) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [Stay Right](https://open.spotify.com/album/42vDjhnZcnDihTeXfAyj2b) | 3:44 | 2025-12-04 |  |
 | [Sucking on a Surly Pout](https://open.spotify.com/track/6Hs8BuojSpPQkF2wmU6RUh) | [Ringlets](https://open.spotify.com/artist/5CgTsJzu2AaHviFIlpoLwa) | [The Lord Is My German Shepherd \(Time for Walkies\)](https://open.spotify.com/album/4y9KRNv8lpiQHJjUMh8923) | 3:31 | 2025-10-23 | 2025-11-28 |
 | [Swamped](https://open.spotify.com/track/18m8UwkEJvXk7EQEv4q4sD) | [dust](https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA) | [Sky Is Falling](https://open.spotify.com/album/28uUvZtG0MaZILpUToigcn) | 3:17 | 2025-10-23 | 2025-11-21 |
-| [Take Me Apart](https://open.spotify.com/track/60X2aBTjALI2TZvRe3dHTJ) | [LORY](https://open.spotify.com/artist/1MnhXelXuGXhjgCyWrc4DF) | [Three\-Three\-Three](https://open.spotify.com/album/48JSARqYTYJa1DmZl1NOLJ) | 2:19 | 2025-11-06 |  |
+| [Take Me Apart](https://open.spotify.com/track/60X2aBTjALI2TZvRe3dHTJ) | [LORY](https://open.spotify.com/artist/1MnhXelXuGXhjgCyWrc4DF) | [Three\-Three\-Three](https://open.spotify.com/album/48JSARqYTYJa1DmZl1NOLJ) | 2:19 | 2025-11-06 | 2026-01-30 |
 | [The Cigs, The Light, The Coffee And Crying](https://open.spotify.com/track/0cAxXnkhieGaVWJvMByqXM) | [Dharmacide](https://open.spotify.com/artist/6Opwdl6TcMEonIbtztjl0k) | [The Cigs, The Light, The Coffee And Crying](https://open.spotify.com/album/3MFaIxaSLmMgY1OfsByCN5) | 3:03 | 2025-10-23 |  |
 | [THE RECAP](https://open.spotify.com/track/2MqtHEaoMmfVMe3gjg7rQz) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [THE RECAP](https://open.spotify.com/album/5mJPfSEKnCAjpfuknVQwol) | 2:29 | 2025-10-23 | 2025-11-14 |
 | [The Rope](https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [The Rope](https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId) | 3:10 | 2025-10-23 |  |

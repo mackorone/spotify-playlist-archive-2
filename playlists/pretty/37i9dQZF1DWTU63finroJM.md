@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 ### [RADAR Global ](https://open.spotify.com/playlist/37i9dQZF1DWTU63finroJM)
 
-> Meet the future of music around the world\. Cover: Danyl
+> Meet the future of music around the world\. Cover: Haku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,212 likes - 24 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,232 likes - 24 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 4 | [Send To You](https://open.spotify.com/track/3oBPPzZusoFiBgASinqehX) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [Already](https://open.spotify.com/album/2IybN7u5SBV4yTORBHhrFb) | 3:42 |
 | 5 | [Safe Ground](https://open.spotify.com/track/3Bt0GlzLP4O0UUyii2FmzV) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Safe Ground](https://open.spotify.com/album/0o0F5wVfqU1Vld0peDnPzA) | 3:13 |
 | 6 | [Y'A R](https://open.spotify.com/track/5hXA6P3qydIe3375WfGjVk) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab) | [ZMIG](https://open.spotify.com/album/688e1LKDyb3Zqoo4hpMwch) | 1:45 |
-| 7 | [BOUNCE \(feat\. C.O.S.A.\)](https://open.spotify.com/track/0yMqE8BPui92vB2It7NpWJ) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [BOUNCE \(feat\. C.O.S.A.\)](https://open.spotify.com/album/44D0vIz4TIkfyRU1f4h374) | 2:37 |
-| 8 | [life](https://open.spotify.com/track/7FTkU2chrZIt2gfJefgaVY) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [life](https://open.spotify.com/album/3jXwsjv5HQE8LEp8hQLwun) | 2:36 |
+| 7 | [life](https://open.spotify.com/track/7FTkU2chrZIt2gfJefgaVY) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [life](https://open.spotify.com/album/3jXwsjv5HQE8LEp8hQLwun) | 2:36 |
+| 8 | [BOUNCE \(feat\. C.O.S.A.\)](https://open.spotify.com/track/0yMqE8BPui92vB2It7NpWJ) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [BOUNCE \(feat\. C.O.S.A.\)](https://open.spotify.com/album/44D0vIz4TIkfyRU1f4h374) | 2:37 |
 | 9 | [man down](https://open.spotify.com/track/5wXIjuSQ0wxBnATunXtslu) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [man down](https://open.spotify.com/album/5hboPejEJjKJ1Pr0mSrgrB) | 2:08 |
 | 10 | [Heartbeat](https://open.spotify.com/track/39KWR72Ih2I1NEYk3UfT3A) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Heartbeat](https://open.spotify.com/album/7bd01wRAWSuH8CdSvMQuo0) | 3:24 |
 | 11 | [Catching Up 2 U](https://open.spotify.com/track/2ylOJDYb91xiRaLs3kKtqD) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Catching Up 2 U](https://open.spotify.com/album/3c84ecpWrWwMWcJ0qqPxJt) | 3:22 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 15 | [Little Things](https://open.spotify.com/track/72S6t946GxdLD2hlGhyHHQ) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Little Things](https://open.spotify.com/album/4yj8YSQdP7FABVFMxIfzSJ) | 3:29 |
 | 16 | [Je ne l'ai jamais dit à personne](https://open.spotify.com/track/10YFRCEbeCjWBJCr8DpfEz) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Je ne l'ai jamais dit à personne](https://open.spotify.com/album/2zvY1mdV7980cw5d9HCGDF) | 4:19 |
 | 17 | [Be Me](https://open.spotify.com/track/24tokRChZL5vKAYJHC3ZxJ) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Be Me](https://open.spotify.com/album/3UXg4BQBhMrPNhkB0YQhn7) | 2:20 |
-| 18 | [それしか言えない](https://open.spotify.com/track/4pGMj1OT9QPyQV5C5BlcEV) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [それしか言えない](https://open.spotify.com/album/479WTy9v0d0wWC960eTawU) | 4:24 |
-| 19 | [Mere Qareeb](https://open.spotify.com/track/2vvZ7VKWJTzyyaL3TxG4bC) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31), [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Mere Qareeb](https://open.spotify.com/album/4VlXNpbh13tTYWJpEwIS5K) | 3:44 |
+| 18 | [Mere Qareeb](https://open.spotify.com/track/2vvZ7VKWJTzyyaL3TxG4bC) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31), [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Mere Qareeb](https://open.spotify.com/album/4VlXNpbh13tTYWJpEwIS5K) | 3:44 |
+| 19 | [それしか言えない](https://open.spotify.com/track/4pGMj1OT9QPyQV5C5BlcEV) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [それしか言えない](https://open.spotify.com/album/479WTy9v0d0wWC960eTawU) | 4:24 |
 | 20 | [Nasha](https://open.spotify.com/track/0TrIoJaqN8QBmCViEeHMzt) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [Nasha](https://open.spotify.com/album/5uBmD75BsRBBdsT5WIiEEG) | 2:25 |
 | 21 | [Excès](https://open.spotify.com/track/2KPoXjRpo2BRvfUwmkq2WE) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Softboy Actif 2](https://open.spotify.com/album/5GqYqD32BN1tPAH7GMN1CF) | 3:02 |
 | 22 | [Insecurity](https://open.spotify.com/track/5OvQtruSErQghU31RE8ITe) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Insecurity](https://open.spotify.com/album/0aFrAXbbZZF82pRhaT7O1Q) | 3:31 |

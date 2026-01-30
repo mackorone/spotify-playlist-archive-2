@@ -1,6 +1,6 @@
 {
   "description": "All your favourite hairbrush anthems!",
-  "num_followers": 295632,
+  "num_followers": 295706,
   "original_name": "Power Ballads",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-02-07 16:26:58",
       "album": {
-        "name": "Easter",
-        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u"
-    },
-    {
-      "added_at": "2024-02-07 16:26:58",
-      "album": {
         "name": "Hero (feat. Josey Scott)",
         "url": "https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 200480,
       "name": "Hero (feat. Josey Scott)",
       "url": "https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo"
+    },
+    {
+      "added_at": "2024-02-07 16:26:58",
+      "album": {
+        "name": "Easter",
+        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u"
     },
     {
       "added_at": "2024-02-07 16:26:58",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-02-07 16:26:58",
       "album": {
+        "name": "Bon Jovi Greatest Hits",
+        "url": "https://open.spotify.com/album/3Ad4QdO0EJr1c2livr9cmm"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 353106,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/7o10Pto0YFchZl1zL4dLPH"
+    },
+    {
+      "added_at": "2024-02-07 16:26:58",
+      "album": {
         "name": "Top Gun Deluxe Edition",
         "url": "https://open.spotify.com/album/1qdpfcCMXTZOichy2EUYwg"
       },
@@ -579,18 +595,18 @@
     {
       "added_at": "2024-02-07 16:26:58",
       "album": {
-        "name": "Bon Jovi Greatest Hits",
-        "url": "https://open.spotify.com/album/3Ad4QdO0EJr1c2livr9cmm"
+        "name": "Once Upon A Time (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7fkZIC2085oLn4sbbj1dme"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
         }
       ],
-      "duration_ms": 353106,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/7o10Pto0YFchZl1zL4dLPH"
+      "duration_ms": 263040,
+      "name": "Don't You (Forget About Me)",
+      "url": "https://open.spotify.com/track/6CtNdzwFfWUHOSXyJsHvBe"
     },
     {
       "added_at": "2024-02-07 16:26:58",
@@ -623,22 +639,6 @@
       "duration_ms": 270546,
       "name": "Total Eclipse of the Heart",
       "url": "https://open.spotify.com/track/5p34sF7EskpzTuW3RGy9fs"
-    },
-    {
-      "added_at": "2024-02-07 16:26:58",
-      "album": {
-        "name": "Once Upon A Time (Super Deluxe)",
-        "url": "https://open.spotify.com/album/7fkZIC2085oLn4sbbj1dme"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 263040,
-      "name": "Don't You (Forget About Me)",
-      "url": "https://open.spotify.com/track/6CtNdzwFfWUHOSXyJsHvBe"
     },
     {
       "added_at": "2024-02-07 16:26:58",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-02-07 16:26:58",
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/2RHaVgBsaXdHOvBTOD0vwq"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 223066,
+      "name": "I'm with You",
+      "url": "https://open.spotify.com/track/003qa9jZ2byfApC0hBnr0G"
+    },
+    {
+      "added_at": "2024-02-07 16:26:58",
+      "album": {
         "name": "Playlist: The Very Best Of Meat Loaf",
         "url": "https://open.spotify.com/album/24matFXybf8BTyfMWPn7Sf"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 435213,
       "name": "All By Myself",
       "url": "https://open.spotify.com/track/2FSaEOwQId0LYu5o49dbrG"
-    },
-    {
-      "added_at": "2024-02-07 16:26:58",
-      "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/2RHaVgBsaXdHOvBTOD0vwq"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 223066,
-      "name": "I'm with You",
-      "url": "https://open.spotify.com/track/003qa9jZ2byfApC0hBnr0G"
     },
     {
       "added_at": "2024-02-07 16:26:58",

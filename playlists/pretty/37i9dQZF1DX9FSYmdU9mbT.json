@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Gal Costa",
-  "num_followers": 1466777,
+  "num_followers": 1466869,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2025-11-30 17:39:04",
       "album": {
-        "name": "Marina Lima",
-        "url": "https://open.spotify.com/album/1CeZXXRcDz2Zci1M2ftSMj"
-      },
-      "artists": [
-        {
-          "name": "Marina Lima",
-          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
-        }
-      ],
-      "duration_ms": 305373,
-      "name": "N\u00e3o Sei Dan\u00e7ar",
-      "url": "https://open.spotify.com/track/68WXIG8PyHuArBOOhSp6Wt"
-    },
-    {
-      "added_at": "2025-11-30 17:39:04",
-      "album": {
         "name": "Aos Vivos",
         "url": "https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 216800,
       "name": "\u00c0 Primeira Vista",
       "url": "https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM"
+    },
+    {
+      "added_at": "2025-11-30 17:39:04",
+      "album": {
+        "name": "Marina Lima",
+        "url": "https://open.spotify.com/album/1CeZXXRcDz2Zci1M2ftSMj"
+      },
+      "artists": [
+        {
+          "name": "Marina Lima",
+          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
+        }
+      ],
+      "duration_ms": 305373,
+      "name": "N\u00e3o Sei Dan\u00e7ar",
+      "url": "https://open.spotify.com/track/68WXIG8PyHuArBOOhSp6Wt"
     },
     {
       "added_at": "2025-11-30 17:39:04",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-11-30 17:39:04",
       "album": {
-        "name": "Caetanear",
-        "url": "https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "Odara",
-      "url": "https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy"
-    },
-    {
-      "added_at": "2025-11-30 17:39:04",
-      "album": {
         "name": "Djavan \"Ao Vivo\"",
         "url": "https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 254800,
       "name": "Meu Bem-Querer (Ao Vivo)",
       "url": "https://open.spotify.com/track/5ogHB4oYt1C7kaWJYm5MDG"
+    },
+    {
+      "added_at": "2025-11-30 17:39:04",
+      "album": {
+        "name": "Caetanear",
+        "url": "https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Odara",
+      "url": "https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy"
     },
     {
       "added_at": "2025-11-30 17:39:04",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-11-30 17:39:04",
       "album": {
-        "name": "Cinema Transcendental",
-        "url": "https://open.spotify.com/album/64JvR5shy7j04mTiX0wfNp"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 139933,
-      "name": "Caju\u00edna - Remixed Original Album",
-      "url": "https://open.spotify.com/track/7cEfPAbju7glmdAgT4e1AU"
-    },
-    {
-      "added_at": "2025-11-30 17:39:04",
-      "album": {
         "name": "Gigantes",
         "url": "https://open.spotify.com/album/0hIgIeXzJlQEEDQcrKJ6Wv"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 128000,
       "name": "Sangue latino",
       "url": "https://open.spotify.com/track/4LxKSGFZOX66wGSsH0kFRE"
+    },
+    {
+      "added_at": "2025-11-30 17:39:04",
+      "album": {
+        "name": "Cinema Transcendental",
+        "url": "https://open.spotify.com/album/64JvR5shy7j04mTiX0wfNp"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 139933,
+      "name": "Caju\u00edna - Remixed Original Album",
+      "url": "https://open.spotify.com/track/7cEfPAbju7glmdAgT4e1AU"
     },
     {
       "added_at": "2025-11-30 17:39:04",
@@ -903,6 +903,22 @@
     {
       "added_at": "2025-11-30 17:39:04",
       "album": {
+        "name": "Que Tal Um Samba? (Ao Vivo)",
+        "url": "https://open.spotify.com/album/38cyb88pRnyy49dDSuETpO"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 170448,
+      "name": "Samba do Grande Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/4tj4BdoordmiTZJcyTjimT"
+    },
+    {
+      "added_at": "2025-11-30 17:39:04",
+      "album": {
         "name": "Eterna Alegria (Special Edition) [Ao Vivo]",
         "url": "https://open.spotify.com/album/5Cl79Wr1ZukFvRGM2zgG7z"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 205915,
       "name": "Mutir\u00e3o de Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/0yL2NJPP19vdualPdOCWet"
-    },
-    {
-      "added_at": "2025-11-30 17:39:04",
-      "album": {
-        "name": "Que Tal Um Samba? (Ao Vivo)",
-        "url": "https://open.spotify.com/album/38cyb88pRnyy49dDSuETpO"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 170448,
-      "name": "Samba do Grande Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/4tj4BdoordmiTZJcyTjimT"
     },
     {
       "added_at": "2025-11-30 17:39:04",
@@ -1255,22 +1255,18 @@
     {
       "added_at": "2025-11-30 17:39:04",
       "album": {
-        "name": "Belchior Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0g6WyfeTF3xMgMjoYf2EZC"
+        "name": "O Que Voc\u00ea Quer Saber De Verdade (Standard Version)",
+        "url": "https://open.spotify.com/album/2zPP7zLELwMI57kRyZKaPf"
       },
       "artists": [
         {
-          "name": "Belchior",
-          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
-        },
-        {
-          "name": "Gilvan de Oliveira",
-          "url": "https://open.spotify.com/artist/68MpNrGnDXG9d8qdBuPXwS"
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
         }
       ],
-      "duration_ms": 155960,
-      "name": "A Palo Seco",
-      "url": "https://open.spotify.com/track/1rQ0viTAi8pxDy53iNvKNn"
+      "duration_ms": 173586,
+      "name": "Depois",
+      "url": "https://open.spotify.com/track/6nMFcVqjimSo5mj7Btfkym"
     },
     {
       "added_at": "2025-11-30 17:39:04",
@@ -1291,18 +1287,22 @@
     {
       "added_at": "2025-11-30 17:39:04",
       "album": {
-        "name": "Rosa Morena",
-        "url": "https://open.spotify.com/album/2v0e82jPJ6kjipDhCKu0Aq"
+        "name": "Belchior Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0g6WyfeTF3xMgMjoYf2EZC"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+          "name": "Belchior",
+          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
+        },
+        {
+          "name": "Gilvan de Oliveira",
+          "url": "https://open.spotify.com/artist/68MpNrGnDXG9d8qdBuPXwS"
         }
       ],
-      "duration_ms": 121986,
-      "name": "Chega de Saudade",
-      "url": "https://open.spotify.com/track/0dWOiVQwoUYTtXD0VVgmJQ"
+      "duration_ms": 155960,
+      "name": "A Palo Seco",
+      "url": "https://open.spotify.com/track/1rQ0viTAi8pxDy53iNvKNn"
     },
     {
       "added_at": "2025-11-30 17:39:04",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2025-11-30 17:39:04",
       "album": {
-        "name": "O Que Voc\u00ea Quer Saber De Verdade (Standard Version)",
-        "url": "https://open.spotify.com/album/2zPP7zLELwMI57kRyZKaPf"
+        "name": "Rosa Morena",
+        "url": "https://open.spotify.com/album/2v0e82jPJ6kjipDhCKu0Aq"
       },
       "artists": [
         {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 173586,
-      "name": "Depois",
-      "url": "https://open.spotify.com/track/6nMFcVqjimSo5mj7Btfkym"
+      "duration_ms": 121986,
+      "name": "Chega de Saudade",
+      "url": "https://open.spotify.com/track/0dWOiVQwoUYTtXD0VVgmJQ"
     },
     {
       "added_at": "2025-11-30 17:39:04",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-11-30 17:39:04",
       "album": {
-        "name": "Em Casa Com os Gil",
-        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 234570,
-      "name": "Barato Total",
-      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
-    },
-    {
-      "added_at": "2025-11-30 17:39:04",
-      "album": {
         "name": "Antonio Carlos Jobim: Finest Hour",
         "url": "https://open.spotify.com/album/2iBlbJFXs5U3dY8G9UGyTB"
       },
@@ -1387,6 +1371,38 @@
       "duration_ms": 214866,
       "name": "\u00c1guas De Mar\u00e7o",
       "url": "https://open.spotify.com/track/1CFpxBiLtcnBVIbnmAJCBk"
+    },
+    {
+      "added_at": "2025-11-30 17:39:04",
+      "album": {
+        "name": "City of God",
+        "url": "https://open.spotify.com/album/6mRPjqrWgOMZ0sTiZEPZyU"
+      },
+      "artists": [
+        {
+          "name": "Raul Seixas",
+          "url": "https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu"
+        }
+      ],
+      "duration_ms": 227826,
+      "name": "Metamorfose ambulante",
+      "url": "https://open.spotify.com/track/1BGrHLBKZCVGslxe0dSExv"
+    },
+    {
+      "added_at": "2025-11-30 17:39:04",
+      "album": {
+        "name": "Em Casa Com os Gil",
+        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 234570,
+      "name": "Barato Total",
+      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
     },
     {
       "added_at": "2025-11-30 17:39:04",
@@ -1495,22 +1511,6 @@
       "duration_ms": 282575,
       "name": "Romaria",
       "url": "https://open.spotify.com/track/5fzIFX2eZb1rWpVZtNqaoH"
-    },
-    {
-      "added_at": "2025-11-30 17:39:04",
-      "album": {
-        "name": "City of God",
-        "url": "https://open.spotify.com/album/6mRPjqrWgOMZ0sTiZEPZyU"
-      },
-      "artists": [
-        {
-          "name": "Raul Seixas",
-          "url": "https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu"
-        }
-      ],
-      "duration_ms": 227826,
-      "name": "Metamorfose ambulante",
-      "url": "https://open.spotify.com/track/1BGrHLBKZCVGslxe0dSExv"
     },
     {
       "added_at": "2025-11-30 17:39:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 
 > This is Black Alien\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,141 likes - 43 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,149 likes - 43 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 | 12 | [Mister Niterói](https://open.spotify.com/track/6eQjwvQmfY4vBs4c9IKiuW) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 3:57 |
 | 13 | [Take Ten](https://open.spotify.com/track/5MHwraC1CHWTo6JoVd1aF8) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/3EkoAOu4rkLf0VvZBNTVhH) | 2:33 |
 | 14 | [Real Gold](https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Real Gold](https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3) | 3:17 |
-| 15 | [Meu Bem Querer \- JAH\-VAN](https://open.spotify.com/track/2FlIG6qvcKd73lqqedlgEX) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [BiD](https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm), [Fernando Nunes](https://open.spotify.com/artist/3JkbXt88UMxAQouuL7QwI9) | [JAH\-VAN](https://open.spotify.com/album/6jPDVtAx9fIrwS6KKTWYDO) | 4:44 |
-| 16 | [Fica Até Umas Hora](https://open.spotify.com/track/066BKF0jdIIgoNoRUm7f8Z) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Fica Até Umas Hora](https://open.spotify.com/album/0VCfXfgGoV1ogsTnMW74Ot) | 3:48 |
+| 15 | [Fica Até Umas Hora](https://open.spotify.com/track/066BKF0jdIIgoNoRUm7f8Z) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Fica Até Umas Hora](https://open.spotify.com/album/0VCfXfgGoV1ogsTnMW74Ot) | 3:48 |
+| 16 | [Meu Bem Querer \- JAH\-VAN](https://open.spotify.com/track/2FlIG6qvcKd73lqqedlgEX) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [BiD](https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm), [Fernando Nunes](https://open.spotify.com/artist/3JkbXt88UMxAQouuL7QwI9) | [JAH\-VAN](https://open.spotify.com/album/6jPDVtAx9fIrwS6KKTWYDO) | 4:44 |
 | 17 | [Aniversário de Sobriedade](https://open.spotify.com/track/4XYnFH7w6ow89VnSPAN0oU) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/3EkoAOu4rkLf0VvZBNTVhH) | 2:44 |
 | 18 | [Na Segunda Vinda](https://open.spotify.com/track/0xNIIXQrCQq49w0iRpW2bW) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 4:28 |
 | 19 | [Nunca Tenha Medo](https://open.spotify.com/track/3D0HjV2V8ZEYA2Vcq3Dbum) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Antídoto Pra Todo Tipo de Veneno](https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK) | 4:25 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 | 42 | [O RITMO E A RAIVA](https://open.spotify.com/track/4jYaCHJA2Kuu7ETTdBN3Lf) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [JARDINEIROS](https://open.spotify.com/album/5RhgokruA7dS8c7rG63ejD) | 2:34 |
 | 43 | [Quem É Voce?](https://open.spotify.com/track/7gdQhYno5coyBLCDDdKRRG) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Luiz Melodia](https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 3:54 |
 
-Snapshot ID: `aXgAAAAAAADRKlOJk19GKuTPvz4sXe+9`
+Snapshot ID: `aXlRgAAAAACllYXXX1Y0utGKI5fsDqTP`

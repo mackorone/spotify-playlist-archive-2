@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Chemutai Sage",
+  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Nikita Kering'",
   "name": "NairoBae",
   "tracks": [
     {
@@ -901,6 +901,24 @@
     },
     {
       "album": {
+        "name": "Dilly Darling",
+        "url": "https://open.spotify.com/album/5ev4H9jy1ftkDODd5HXiKN"
+      },
+      "artists": [
+        {
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227368,
+      "name": "Dilly Darling",
+      "url": "https://open.spotify.com/track/5KXvjxNDjDMqw3yzs3Hdm4"
+    },
+    {
+      "album": {
         "name": "Dizzy",
         "url": "https://open.spotify.com/album/1hImerDNye4ff7EyRwmi4L"
       },
@@ -1703,6 +1721,24 @@
     },
     {
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/0tOUGN0EVBE6KDwWH7Me8k"
+      },
+      "artists": [
+        {
+          "name": "M\u016bmbi",
+          "url": "https://open.spotify.com/artist/0rFgn9BBsW8nHbsp3A4kDF"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210810,
+      "name": "Heal",
+      "url": "https://open.spotify.com/track/4NTXQuCZ1DrGRgdm1ItzKa"
+    },
+    {
+      "album": {
         "name": "Heartbreak Song",
         "url": "https://open.spotify.com/album/4s6PcuPpXiHS5XOcZduQJa"
       },
@@ -1922,7 +1958,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 150000,
       "name": "Hujawahi Nipenda",
       "url": "https://open.spotify.com/track/1KpsGQ1CE8jOHBSAyqIz5e"
@@ -2876,7 +2912,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 296000,
       "name": "Love on me",
       "url": "https://open.spotify.com/track/6Ry7RTz5becrzrhVL9ol79"

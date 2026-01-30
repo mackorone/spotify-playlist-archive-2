@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover:  Ndarboy Genk",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover:  Woro Widowati",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -1610,7 +1610,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 338871,
       "name": "Dada",
       "url": "https://open.spotify.com/track/6WPSzmAt1fgTeq3P62Z3Vo"
@@ -4690,6 +4690,24 @@
       "duration_ms": 308000,
       "name": "Leda Lede",
       "url": "https://open.spotify.com/track/7puxab8SdP95QbxmzL1vgt"
+    },
+    {
+      "album": {
+        "name": "Legi",
+        "url": "https://open.spotify.com/album/6xzWv81AXzJMzA2aM379tW"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296470,
+      "name": "Legi",
+      "url": "https://open.spotify.com/track/5jrowV0v26wlyN32IQeeXB"
     },
     {
       "album": {

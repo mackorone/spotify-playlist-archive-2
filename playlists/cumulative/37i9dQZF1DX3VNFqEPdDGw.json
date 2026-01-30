@@ -564,6 +564,18 @@
         {
           "name": "Jazzy B",
           "url": "https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        },
+        {
+          "name": "Black Virus",
+          "url": "https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU"
+        },
+        {
+          "name": "Mahi Sharma",
+          "url": "https://open.spotify.com/artist/27Lb22VTgDXhcTAH30SsIJ"
         }
       ],
       "date_added": "2026-01-28",
@@ -924,6 +936,32 @@
       "duration_ms": 202105,
       "name": "Balo Batiyan (feat. Atta Ullah Khan Esakhelvi)",
       "url": "https://open.spotify.com/track/5qxSNZz2m8wNH61JYo7bVL"
+    },
+    {
+      "album": {
+        "name": "Bapu Chacha",
+        "url": "https://open.spotify.com/album/2hs1SmyJzyEbTpCYOMjbVL"
+      },
+      "artists": [
+        {
+          "name": "Gurmanter",
+          "url": "https://open.spotify.com/artist/7wUItI9mWFKUN9WzyMe0T5"
+        },
+        {
+          "name": "Ruby Chatha",
+          "url": "https://open.spotify.com/artist/0FtxhV7S1fH5nB7aQXLNiN"
+        },
+        {
+          "name": "Akashh jandu",
+          "url": "https://open.spotify.com/artist/7iFw4WVQIsrHyMwUfjTLC2"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196428,
+      "name": "Bapu Chacha",
+      "url": "https://open.spotify.com/track/4p3eDxYZfDjCAuH9zXFXXo"
     },
     {
       "album": {
@@ -1430,7 +1468,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 183529,
       "name": "Camera",
       "url": "https://open.spotify.com/track/7EnLZ9X7ySjZQozi8RiHEb"
@@ -2584,7 +2622,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 172142,
       "name": "Gal Naal Laa",
       "url": "https://open.spotify.com/track/3JaNmG23kZiW9MIj4Bpysa"
@@ -4118,7 +4156,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 218517,
       "name": "Jogiya Ve",
       "url": "https://open.spotify.com/track/662IKhMb0yBxeL8Vt7T9r4"

@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-253 songs - 14 hr 50 min
+254 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Offshore](https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Offshore](https://open.spotify.com/album/201vsPXufpD68a7bulnr5O) | 4:28 | 2025-07-18 |  |
 | [Offshore](https://open.spotify.com/track/5nL5jZi3VjXi6BGMfwADvN) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Larse](https://open.spotify.com/artist/44VYaq2KjuU7hFvtD4Darm) | [Offshore](https://open.spotify.com/album/1NwQvjRSxeX3UEqoCEH4KR) | 3:09 | 2026-01-02 |  |
 | [Oh Baby](https://open.spotify.com/track/7uYDCWo1S9Kg8g9dXHadvN) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Seizo](https://open.spotify.com/artist/5ECvdR4H6eAsFL3kmUUzdX) | [Oh Baby](https://open.spotify.com/album/7uspdSUzOEZk1nyEtyurxh) | 3:05 | 2025-10-10 |  |
+| [Only Us](https://open.spotify.com/track/0EDE7xkB4IOeazgLsLp6bu) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Little Nikki](https://open.spotify.com/artist/61iRph5tWfvUkZjmvBmADo) | [Only Us](https://open.spotify.com/album/6rt8TqNLdFusAX72nzw8sj) | 3:22 | 2026-01-30 |  |
 | [Our Broken Mind Embassy](https://open.spotify.com/track/6Oj89UHfmYp9yR4t0t1q8F) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Disconnected](https://open.spotify.com/album/5Aq2fCmHIW0vICUIh3YpE9) | 4:26 | 2025-07-18 |  |
 | [Oxytocin](https://open.spotify.com/track/1QQEuvd6SiHtEokz6UCvNJ) | [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Oxytocin](https://open.spotify.com/album/66YuYDsHx046qoZuf9AZO7) | 2:56 | 2025-07-18 |  |
 | [Pasilda \- Afterlife Mix](https://open.spotify.com/track/7ItCzZH94c9rQA4D6I4sEF) | [Afro Medusa](https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI), [Afterlife](https://open.spotify.com/artist/0obpXguKxlrWaaHhnvBp32) | [Pasilda \(Remixes, Pt\. 2\)](https://open.spotify.com/album/07d8o4JckPgeWUeud2Mg6n) | 3:57 | 2025-07-18 |  |

@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 256308,
       "name": "Coldplay cover",
       "url": "https://open.spotify.com/track/2Ht1gsebaD2W5LWAZvYoPG"
@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 243403,
       "name": "Cowboys of Los",
       "url": "https://open.spotify.com/track/4sPsl1gLOaq5yiCKo1UbBc"
@@ -1718,6 +1718,24 @@
       "duration_ms": 212287,
       "name": "Everybody Lets You Down",
       "url": "https://open.spotify.com/track/3tliQO1g9DSsEHJziifqEO"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Annabelle Dinda",
+          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240178,
+      "name": "Everyone Likes To Be Forgiven",
+      "url": "https://open.spotify.com/track/0qQfLlCBn8LNsPWpzcFsbY"
     },
     {
       "album": {
@@ -2320,6 +2338,24 @@
       "duration_ms": 233080,
       "name": "Gone",
       "url": "https://open.spotify.com/track/3LN4IPqwKfNaZh6eyc1arz"
+    },
+    {
+      "album": {
+        "name": "grown",
+        "url": "https://open.spotify.com/album/4IwhQvYD4sVDi06aYsYwkF"
+      },
+      "artists": [
+        {
+          "name": "Philip Brooks",
+          "url": "https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149582,
+      "name": "grown",
+      "url": "https://open.spotify.com/track/2N9TOirEXxxGhdDhpCvu76"
     },
     {
       "album": {
@@ -4256,7 +4292,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 176418,
       "name": "my mind (now)",
       "url": "https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F"
@@ -4382,7 +4418,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 236320,
       "name": "Nightvisions",
       "url": "https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a"
@@ -5364,6 +5400,24 @@
       "duration_ms": 236880,
       "name": "september",
       "url": "https://open.spotify.com/track/55Garen3zwJD1uCPG6FMpg"
+    },
+    {
+      "album": {
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/5YwXFDSgMW3FBGAES2Kud3"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182254,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/3Ac7dP08nPVC9Ti6RcTmcQ"
     },
     {
       "album": {
@@ -7124,6 +7178,24 @@
       "duration_ms": 209047,
       "name": "Your Dog",
       "url": "https://open.spotify.com/track/1LHRpiGObRt9Y3WDgoj9l8"
+    },
+    {
+      "album": {
+        "name": "Your Dog",
+        "url": "https://open.spotify.com/album/22vFekxUdyc0p7YZP9dPsh"
+      },
+      "artists": [
+        {
+          "name": "Joely June",
+          "url": "https://open.spotify.com/artist/3Zjp1y6YgPwFDX3PlTJd1j"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223641,
+      "name": "Your Dog",
+      "url": "https://open.spotify.com/track/0cchMP4Dr7S64OLkvJXf7T"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYm3dUe8iSaq"

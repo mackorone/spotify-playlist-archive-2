@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqOoX6ompfy.md) - [plain]
 
 > Your crush begins here, with the Malaysian pop artist's intimate vocals and the lush production of her most memorable tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,313 likes - 95 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,311 likes - 95 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqOoX6ompfy.md) - [plain]
 | 76 | [Hold On, We're Going Home \- Live From Spotify Singapore / 2014](https://open.spotify.com/track/23S9ZgFZUPPFCVgN99rpf8) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Spotify Sessions](https://open.spotify.com/album/1n5cdTUbxN9J4gARRWzL81) | 4:26 |
 | 77 | [Lanes](https://open.spotify.com/track/2IQyAo7BKgYGOL9SYaXdw3) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Chapters \(Deluxe\)](https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71) | 3:14 |
 | 78 | [Flags](https://open.spotify.com/track/3J9vgqmKhQmC7GFwGrA2ik) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Shoffy](https://open.spotify.com/album/102J7QdW6oFSUlQcWmJZ3E) | 3:28 |
-| 79 | [Empty Room \- Sofi Tukker Remix](https://open.spotify.com/track/1A9XSg6VV7GWWYI8ROAp1l) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Empty Room](https://open.spotify.com/album/6ZtNEl1wnTkdBhlcNIgj5T) | 2:31 |
+| 79 | [Empty Room \- Sofi Tukker Remix](https://open.spotify.com/track/1A9XSg6VV7GWWYI8ROAp1l) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Empty Room](https://open.spotify.com/album/6ZtNEl1wnTkdBhlcNIgj5T) | 2:31 |
 | 80 | [Langit](https://open.spotify.com/track/6znALQgiLf17IIfCsRDkxy) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Langit \(Single\)](https://open.spotify.com/album/4iBiPGE1fOxJ3lAGtTld8x) | 3:44 |
 | 81 | [Island](https://open.spotify.com/track/7mt8kgmiFyrmn0369YlZJF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Yuna](https://open.spotify.com/album/69jjhv7bNUXsOyx2GqbEXr) | 4:10 |
 | 82 | [I Want You Back](https://open.spotify.com/track/6arq2bSoU7HJQZjk1IRz9U) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Nocturnal \(Deluxe Edition\)](https://open.spotify.com/album/5n0fctl7UUnQwMKTU2cppt) | 3:32 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's country crop. Cover: James Johnston",
+  "description": "The cream of today's country crop. Cover: Lane Pittman",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 185613,
       "name": "1990 Somethin'",
       "url": "https://open.spotify.com/track/7bnI1iouK0xUtkEj3sA05O"
@@ -1507,6 +1507,24 @@
     },
     {
       "album": {
+        "name": "Bar And Back",
+        "url": "https://open.spotify.com/album/4dIRUzzqfwQtjyqCJJoEbN"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194744,
+      "name": "Bar And Back",
+      "url": "https://open.spotify.com/track/3tIpPero4mBna2KK8xndmm"
+    },
+    {
+      "album": {
         "name": "Bar High",
         "url": "https://open.spotify.com/album/2obFqMJf41lw1DUTMRgQOk"
       },
@@ -2252,7 +2270,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 221066,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/5fcwJp3a6rbrPcfmz8gbaJ"
@@ -4471,6 +4489,24 @@
     },
     {
       "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/5aWJ4c7FZJ8r0G7lRzLTn4"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240946,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/7FudQLDIYCX6F7ruexVn2X"
+    },
+    {
+      "album": {
         "name": "Texas Forever",
         "url": "https://open.spotify.com/album/2Ob2sg38jCEu6s25riXlPe"
       },
@@ -5230,6 +5266,24 @@
       "duration_ms": 198660,
       "name": "Drunk Right Now (Na Na Na) with Akon",
       "url": "https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e"
+    },
+    {
+      "album": {
+        "name": "Dry County",
+        "url": "https://open.spotify.com/album/1HotVvOYd7fj7EuCtcMJG3"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205723,
+      "name": "Dry County",
+      "url": "https://open.spotify.com/track/5qUybX88YaxhC3e8zD4BBn"
     },
     {
       "album": {
@@ -6930,7 +6984,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 212685,
       "name": "Good Ole Boy",
       "url": "https://open.spotify.com/track/3zvPnDrcIbpXnHZ7Sspw3m"
@@ -7074,7 +7128,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 244247,
       "name": "Graveyard Whistling",
       "url": "https://open.spotify.com/track/7kLC499Jj7W8kZUfvZsq5S"
@@ -7414,7 +7468,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 243254,
       "name": "Hard Run (feat. Marcus King)",
       "url": "https://open.spotify.com/track/2PuHkNUv5OSpNdY4FN0zZG"
@@ -10699,6 +10753,24 @@
     },
     {
       "album": {
+        "name": "Lorelei",
+        "url": "https://open.spotify.com/album/2Gil8XJgdgPnjBth5miQ0C"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155160,
+      "name": "Lorelei",
+      "url": "https://open.spotify.com/track/4OqCBYBpBHkndBO2EeCvOb"
+    },
+    {
+      "album": {
         "name": "Breakup Over Breakfast",
         "url": "https://open.spotify.com/album/5lm3yZ7Ex7VES1rrAFjR5S"
       },
@@ -11375,6 +11447,36 @@
     },
     {
       "album": {
+        "name": "McArthur",
+        "url": "https://open.spotify.com/album/7tFDlNV1A2uRLdgArEKYuj"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231533,
+      "name": "McArthur",
+      "url": "https://open.spotify.com/track/6yOHshc12fwMtM74xoy4je"
+    },
+    {
+      "album": {
         "name": "Me & You",
         "url": "https://open.spotify.com/album/4wTcGH918lQogI7Tyz7hEx"
       },
@@ -11646,6 +11748,24 @@
       "duration_ms": 183533,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/0132woHTsOzDxlfVs3PuqO"
+    },
+    {
+      "album": {
+        "name": "Miss You In The Morning",
+        "url": "https://open.spotify.com/album/3ctTWJYKS5XsVacC6s5O8R"
+      },
+      "artists": [
+        {
+          "name": "Lane Pittman",
+          "url": "https://open.spotify.com/artist/4amB7X5ESMq5PB1ve3HmYZ"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205128,
+      "name": "Miss You In The Morning",
+      "url": "https://open.spotify.com/track/07o5o1HfjMhEZBouOED4GZ"
     },
     {
       "album": {
@@ -13520,7 +13640,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 248521,
       "name": "People Hatin'",
       "url": "https://open.spotify.com/track/5Q5CeW3FeTzrqYiYZxir8l"
@@ -13748,6 +13868,24 @@
       "duration_ms": 218160,
       "name": "Pretty Little Poison",
       "url": "https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8"
+    },
+    {
+      "album": {
+        "name": "Pretty Little Thing Called Jane",
+        "url": "https://open.spotify.com/album/154tiwUGtIRAdm5XI0r3ob"
+      },
+      "artists": [
+        {
+          "name": "Austin Mackay",
+          "url": "https://open.spotify.com/artist/4mQFSs5uamW2DxyRiHxJvh"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Pretty Little Thing Called Jane",
+      "url": "https://open.spotify.com/track/5qeT14ciFI4PDM4G96BC69"
     },
     {
       "album": {
@@ -14986,7 +15124,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 210184,
       "name": "Scared Of Getting Sober",
       "url": "https://open.spotify.com/track/0OnvtIScF6dnQh4jFW6thI"
@@ -15492,6 +15630,24 @@
       "duration_ms": 191080,
       "name": "Sleep On It",
       "url": "https://open.spotify.com/track/4WIfHW4NCpHuypEQYZ4PGi"
+    },
+    {
+      "album": {
+        "name": "Slow Dancin'",
+        "url": "https://open.spotify.com/album/53sKCJTcX1AnTBqU9XUCD8"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124001,
+      "name": "Slow Dancin'",
+      "url": "https://open.spotify.com/track/647YdG7a4EkucGiyDkfBRY"
     },
     {
       "album": {
@@ -16070,7 +16226,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 172420,
       "name": "Song For Shania",
       "url": "https://open.spotify.com/track/6VWsRQY6A3irb7dIILmHfK"

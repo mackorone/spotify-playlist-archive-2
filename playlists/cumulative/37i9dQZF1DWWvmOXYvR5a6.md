@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: Lil Moshpit, Yoon Suk Cheol\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-804 songs - 1 day 18 hr 56 min
+805 songs - 1 day 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -639,6 +639,7 @@
 | [Six Weeks](https://open.spotify.com/track/12F3kZjxE4LT6XjOvrzbqO) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Pressure Makes Diamonds](https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc) | 2:17 | 2023-02-24 | 2024-09-05 |
 | [SKYBLUE](https://open.spotify.com/track/4LzOCAGUJd4muenAKbzF79) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [YAINS](https://open.spotify.com/album/2sdAsii9EScLqXidDLmMg5) | 3:23 | 2024-04-30 | 2024-05-10 |
 | [Sleep with another \(feat\. Kid Wine\)](https://open.spotify.com/track/5rkBTlPFwWwe6pWKLZBP1O) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [im your xYz](https://open.spotify.com/album/7iWDsAvnU18wUP8jGrvvCO) | 2:44 | 2022-07-09 | 2022-07-13 |
+| [So bad](https://open.spotify.com/track/3kqZEueNSpbDnjDjniyBgy) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [Delphinium](https://open.spotify.com/album/6jdlJrLRWyCnUnKUzhPG2T) | 2:16 | 2026-01-19 |  |
 | [So Far Away](https://open.spotify.com/track/6ihEBTnJTwXet6mKscZTwO) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1) | [blur](https://open.spotify.com/album/7aOcvCFG0M2c0NVBq4LzyK) | 2:42 | 2024-04-18 | 2024-04-23 |
 | [So Far So Good \(feat\. TRADE L, JAEHA & Mirani\)](https://open.spotify.com/track/5d3rQVvcXkwYPRut655ANV) | [Yuwol](https://open.spotify.com/artist/5Jr606hvocuVIuk6Es5IlT), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [Yuwol](https://open.spotify.com/album/71ftm0ABuOLacpeJbIiM88) | 2:54 | 2022-10-28 | 2022-11-23 |
 | [So Wet](https://open.spotify.com/track/6x64i1R4OdHFthZ9e3D7mq) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [12](https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE) | 3:19 | 2023-03-22 | 2023-04-07 |
@@ -722,7 +723,7 @@
 | [Trade](https://open.spotify.com/track/2YpSa1Jtz5j2i0CuVzb0A2) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [Angel](https://open.spotify.com/album/3tbIma0WBMW2aClgAwYfqA) | 2:37 | 2025-07-15 |  |
 | [TRAMPLED](https://open.spotify.com/track/0dVof5Q6rzalmj2eqB9Dr2) | [Urban Fisher](https://open.spotify.com/artist/2kGf1F2GuQecSJRhzRLyPQ) | [SPILLING](https://open.spotify.com/album/02JmyFcdizrK2jjhfLQ7J0) | 3:19 | 2022-05-11 | 2022-06-05 |
 | [Trauma](https://open.spotify.com/track/1UXlVn3DAvh0yzn3CxqVlV) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Trauma](https://open.spotify.com/album/32OwwlVs8Sy7sUDJuoh7jx) | 2:54 | 2024-11-28 | 2025-01-07 |
-| [Traveler](https://open.spotify.com/track/6F8LDvBMvRi8WasuiuSfvb) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [BOYCOLD](https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22) | [BOYCOLD 3](https://open.spotify.com/album/42zOIi0SBowNvOPa7VQi5N) | 2:25 | 2025-11-19 |  |
+| [Traveler](https://open.spotify.com/track/6F8LDvBMvRi8WasuiuSfvb) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [BOYCOLD](https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22) | [BOYCOLD 3](https://open.spotify.com/album/42zOIi0SBowNvOPa7VQi5N) | 2:25 | 2025-11-19 | 2026-01-30 |
 | [Treasure \(Feat\. Kvsh, CHOILB\)](https://open.spotify.com/track/7icNK4lve2yPlM1NuN6cJ4) | [HYESUNG](https://open.spotify.com/artist/3bbbIk5GiwAbgso06bJMiM), [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [Treasure](https://open.spotify.com/album/6PLYX18iZE3mVG7xFawuPV) | 3:26 | 2022-04-21 | 2022-07-26 |
 | [Trigger](https://open.spotify.com/track/4sR5cIxhgpCuQ3ERxrx5My) | [J'Kyun](https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ) | [Trigger](https://open.spotify.com/album/7EwaTWAEHRVi2dvqrdCO5R) | 2:36 | 2023-07-18 | 2023-08-17 |
 | [TRIP](https://open.spotify.com/track/3MsAfJBAE8fmEUyuywAv7A) | [OHSHYTTTT](https://open.spotify.com/artist/0AhjqxZvcEIEK0qv7wzEpZ) | [IM GOOD](https://open.spotify.com/album/0o3Y7xtq3Gr17IuKTZz1hX) | 2:15 | 2023-02-15 | 2023-02-25 |

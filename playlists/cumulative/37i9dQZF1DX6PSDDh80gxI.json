@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Ciao Cosmo vieni qui che ti abbracciamo \ud83d\udc4b\ud83c\udffb\ud83e\udec2\ud83d\udc96",
+  "description": "grande tutti fenomeni ti seguiamo da troppa vendetta \ud83e\udec2",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -458,7 +458,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 227788,
       "name": "All'Acqua Ghiacciata",
       "url": "https://open.spotify.com/track/3N9wkuvjwnlS6tWO6XpSXG"
@@ -726,7 +726,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 175248,
       "name": "Attitudini: nessuna",
       "url": "https://open.spotify.com/track/1Q4JNJowlBd2EsJiD56OCy"
@@ -907,6 +907,24 @@
     },
     {
       "album": {
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/0mWqcBVScEJ0zpDnfzqnKX"
+      },
+      "artists": [
+        {
+          "name": "Umarell",
+          "url": "https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141025,
+      "name": "Bouquet",
+      "url": "https://open.spotify.com/track/4d6CoyrfWfJOsr08qlER9v"
+    },
+    {
+      "album": {
         "name": "ELSEWHERE",
         "url": "https://open.spotify.com/album/6TodyJESCEXJ67eXpUse0I"
       },
@@ -1078,6 +1096,24 @@
       "duration_ms": 167339,
       "name": "Canzone Facile",
       "url": "https://open.spotify.com/track/5wJStwEVrz97MUYuDLFBz3"
+    },
+    {
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/70ltpOxhlMHnAM6DSIerd5"
+      },
+      "artists": [
+        {
+          "name": "MOBRICI",
+          "url": "https://open.spotify.com/artist/3BV0pd7wPcsLQzO2rNiupd"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203640,
+      "name": "Canzoni per la notte",
+      "url": "https://open.spotify.com/track/2Y0QL2mwrQnTdhdSCvEuW4"
     },
     {
       "album": {
@@ -3547,6 +3583,42 @@
     },
     {
       "album": {
+        "name": "La Bomba Intelligente",
+        "url": "https://open.spotify.com/album/7iraf7KLexh1c1cQCGyjnz"
+      },
+      "artists": [
+        {
+          "name": "I PATAGARRI",
+          "url": "https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189274,
+      "name": "La Bomba Intelligente",
+      "url": "https://open.spotify.com/track/1Flb6xU4U4jEx5W9V6RxGU"
+    },
+    {
+      "album": {
+        "name": "La Casa dei Miei Nonni",
+        "url": "https://open.spotify.com/album/6ZntguvNUlVKCzSFMMuYjY"
+      },
+      "artists": [
+        {
+          "name": "Francamente",
+          "url": "https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218035,
+      "name": "La Casa dei Miei Nonni",
+      "url": "https://open.spotify.com/track/0HXwWTOiAysPFSo6gHbjEs"
+    },
+    {
+      "album": {
         "name": "La Citt\u00e0 Addosso",
         "url": "https://open.spotify.com/album/0l4TDdZGyiKfwJBYIp8ExJ"
       },
@@ -3584,7 +3656,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 134313,
       "name": "La Distanza (con Ariete & Lorenzza)",
       "url": "https://open.spotify.com/track/347ILhysXGJPDiF3JLi93m"
@@ -3754,6 +3826,24 @@
       "duration_ms": 165853,
       "name": "La notte",
       "url": "https://open.spotify.com/track/1ORx3yuGZUW1FjowRyVztF"
+    },
+    {
+      "album": {
+        "name": "La Notte",
+        "url": "https://open.spotify.com/album/6ZqjPbnosJrH5uH87jmgmJ"
+      },
+      "artists": [
+        {
+          "name": "Zara Colombo",
+          "url": "https://open.spotify.com/artist/0UieFG2dymbbVECj27mBcx"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190816,
+      "name": "La Notte",
+      "url": "https://open.spotify.com/track/1jOLP4Fbe14WEonlgdyYiC"
     },
     {
       "album": {
@@ -4426,6 +4516,28 @@
       "duration_ms": 202969,
       "name": "Mattone",
       "url": "https://open.spotify.com/track/46yBh1rkQjidNATQ7YeqTa"
+    },
+    {
+      "album": {
+        "name": "Me l'hai detto tu (feat. chiamamifaro)",
+        "url": "https://open.spotify.com/album/20zDgmPugLaGTgXCMgU9oM"
+      },
+      "artists": [
+        {
+          "name": "OCCHI",
+          "url": "https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU"
+        },
+        {
+          "name": "chiamamifaro",
+          "url": "https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195790,
+      "name": "Me l'hai detto tu (feat. chiamamifaro)",
+      "url": "https://open.spotify.com/track/0I3XSj50a53Jm4bgCLKsan"
     },
     {
       "album": {
@@ -6348,7 +6460,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 192953,
       "name": "Quante Ce Ne Siamo Dette (feat. Franco126)",
       "url": "https://open.spotify.com/track/34ZFBFpVcIhAXoLxTvLJmB"
@@ -6740,7 +6852,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 168284,
       "name": "Sbronzi Fuori",
       "url": "https://open.spotify.com/track/54R2mCfqiQ3JHe2GXIB8lf"
@@ -7479,6 +7591,24 @@
     },
     {
       "album": {
+        "name": "Tana",
+        "url": "https://open.spotify.com/album/1mfvkuYG4BB9qeJpbaWNOh"
+      },
+      "artists": [
+        {
+          "name": "Angelica Bove",
+          "url": "https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168301,
+      "name": "Tana",
+      "url": "https://open.spotify.com/track/3Tjq75DIFPx7FUBMwu1BrL"
+    },
+    {
+      "album": {
         "name": "Telephone Tango",
         "url": "https://open.spotify.com/album/3VKZZmGmlbKvRa6Jn0XLZK"
       },
@@ -7701,6 +7831,24 @@
     },
     {
       "album": {
+        "name": "Anime Storte",
+        "url": "https://open.spotify.com/album/4O8zCrvouHUXmHLoRUNZAo"
+      },
+      "artists": [
+        {
+          "name": "Santamarea",
+          "url": "https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209266,
+      "name": "Tornado",
+      "url": "https://open.spotify.com/track/2UdcbdDZQrQclwJTblATFa"
+    },
+    {
+      "album": {
         "name": "Casa Paradiso",
         "url": "https://open.spotify.com/album/0T7QZBhRRVPiRCwkkDMEFF"
       },
@@ -7734,7 +7882,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 210001,
       "name": "Tra le tue braccia (feat. Cosmo)",
       "url": "https://open.spotify.com/track/4d6WWKu0HAs0psJP57AUrO"
@@ -8222,7 +8370,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 213656,
       "name": "Un tu scuiddari (feat. Anna Castiglia)",
       "url": "https://open.spotify.com/track/7z9Im8aCUtAroRSbMi98Er"
@@ -8438,7 +8586,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 191871,
       "name": "via lattea",
       "url": "https://open.spotify.com/track/5CaOMx5BqJmaSDiT5dYUwe"

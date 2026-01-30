@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: Elmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,187 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,187 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 7 | [Vrijheid, Gelijkheid, Zusterschap](https://open.spotify.com/track/4EIM7QMhQLg8Q28cXqqrUs) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Smartlap Is Niet Dood](https://open.spotify.com/album/7F7cYFNO6ly7iBjYBaVQtA) | 3:10 |
 | 8 | [Als Het Donker Wordt](https://open.spotify.com/track/4nz0xR3gS5OfFOYo8OmWDu) | [Pip Lieke Lucas](https://open.spotify.com/artist/3eWGqcshWI4ujDmuzyKYl0) | [Als Het Donker Wordt](https://open.spotify.com/album/5w1GDsb8nCcvajsVwuVfMY) | 2:13 |
 | 9 | [Misschien](https://open.spotify.com/track/6jUQSSH5nisDUcVFFBFZIn) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Frok en Stien](https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ) | 3:02 |
-| 10 | [Platonisch](https://open.spotify.com/track/6Mwcn4IEsarl0gDqJ29XFy) | [Noor](https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W) | [Platonisch](https://open.spotify.com/album/57jpp3Qa9F5qEBfpXViX6m) | 3:02 |
-| 11 | [Mommy](https://open.spotify.com/track/0GGkVcWMpldFL1LXWPEvjD) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Mommy](https://open.spotify.com/album/4SbZYtl7lHyPGrG7OuXpaU) | 2:54 |
+| 10 | [Mommy](https://open.spotify.com/track/0GGkVcWMpldFL1LXWPEvjD) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Mommy](https://open.spotify.com/album/4SbZYtl7lHyPGrG7OuXpaU) | 2:54 |
+| 11 | [Platonisch](https://open.spotify.com/track/6Mwcn4IEsarl0gDqJ29XFy) | [Noor](https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W) | [Platonisch](https://open.spotify.com/album/57jpp3Qa9F5qEBfpXViX6m) | 3:02 |
 | 12 | [Magneten](https://open.spotify.com/track/5OHgSlszGzcqsmcIGigxkD) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Magneten](https://open.spotify.com/album/41tDTfgCQ1Ybl7TAAERFIw) | 3:10 |
 | 13 | [Moe Van Jezelf](https://open.spotify.com/track/3gsHFY5eFCkanac1hMUjOo) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n), [Mathieu Terryn](https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK) | [Moe Van Jezelf](https://open.spotify.com/album/7DZIfMTGxzRN9nkcIxCDfo) | 2:40 |
 | 14 | [Fuck Je Gucci Shirt](https://open.spotify.com/track/1hD3B1IiFU84te2aOOvNrr) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Niemand Gaat Het Voor Je Doen](https://open.spotify.com/album/3a7bA26ltWMlYpJuD2R8oF) | 2:28 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 22 | [Videotheek \(Recht Uit Een Film\)](https://open.spotify.com/track/2Daa0C0E3YhljvgpBkyy5L) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Videotheek \(Recht Uit Een Film\)](https://open.spotify.com/album/3GYoqH6u6xyqewbGevy4re) | 3:38 |
 | 23 | [Aerobics](https://open.spotify.com/track/1OVuAEWyMXoZbsRtXqpUta) | [Kaat Van Stralen](https://open.spotify.com/artist/4iJk7vDVSLy3X0lBdOKKuF) | [Aerobics](https://open.spotify.com/album/6alYHotSin9ZeOVGssuWaM) | 2:47 |
 | 24 | [Intergeneratie \- Single Edit](https://open.spotify.com/track/21JMJOw8TTaUkiBjTXuMLo) | [Lucky Fonz III](https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm) | [Intergeneratie](https://open.spotify.com/album/5D5UDX6XptnLPrzfDZx29w) | 2:42 |
-| 25 | [Als Hij dan echt bestaat](https://open.spotify.com/track/0SjMOL8eZxHwzy463e8nbe) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Wie de fak is Sophie Straat](https://open.spotify.com/album/2ZOvFH4sVhpFstklFMQUGk) | 3:09 |
-| 26 | [Rondjes](https://open.spotify.com/track/6cQWHhI9gJ44kZG0vNofsZ) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Rondjes](https://open.spotify.com/album/0AOklMhFa8PHsfrdqzvLDk) | 3:10 |
+| 25 | [Rondjes](https://open.spotify.com/track/6cQWHhI9gJ44kZG0vNofsZ) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Rondjes](https://open.spotify.com/album/0AOklMhFa8PHsfrdqzvLDk) | 3:10 |
+| 26 | [Als Hij dan echt bestaat](https://open.spotify.com/track/0SjMOL8eZxHwzy463e8nbe) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Wie de fak is Sophie Straat](https://open.spotify.com/album/2ZOvFH4sVhpFstklFMQUGk) | 3:09 |
 | 27 | [Boterham](https://open.spotify.com/track/43jTtqGXC9Haqr1CsCQ6et) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Faberyayo](https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0) | [Boterham](https://open.spotify.com/album/2gs4DAtbdobe6Zc0WEYXoO) | 2:07 |
 | 28 | [Ik Weet Hoe Het Werkt](https://open.spotify.com/track/16fQhhumwwRVJjQydsxP9W) | [Kaat Van Stralen](https://open.spotify.com/artist/4iJk7vDVSLy3X0lBdOKKuF) | [Ik Weet Hoe Het Werkt](https://open.spotify.com/album/0nv3Dbn34pGSHXHCqS2mJV) | 2:21 |
 | 29 | [Kan Je Niet Blijven?](https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Kan Je Niet Blijven?](https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI) | 3:35 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 46 | [Zachter](https://open.spotify.com/track/35L5RWfwYaoE1KEP8QWzRZ) | [Chibi Ichigo](https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN) | [Zachter](https://open.spotify.com/album/74Ykd7VHFyzI5b3rNeautA) | 3:18 |
 | 47 | [Normale gevoelens](https://open.spotify.com/track/0Tl0dPMsR1CHYLJRNYFuov) | [Lucky Fonz III](https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm) | [Normale gevoelens](https://open.spotify.com/album/657RbF1AvwQ6hLaf7sOAUc) | 2:46 |
 | 48 | [Sneeuw In De Zomer](https://open.spotify.com/track/5ObHPGV73g4lWN8PdnqFqC) | [Alice Olsthoorn](https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA) | [Sneeuw In De Zomer](https://open.spotify.com/album/4zC1d11lBfFH4GWwDD1U32) | 2:44 |
-| 49 | [Abrikoos](https://open.spotify.com/track/12iqaBDMEkAdaUgBmxqGJO) | [Dave Budha](https://open.spotify.com/artist/6zIx5dF0NrdVdbqF5JuuP7) | [Abrikoos](https://open.spotify.com/album/1jsfvYCbmoHGgO6HYToDMp) | 2:49 |
+| 49 | [Doe Het Voor Het Geld](https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Doe Het Voor Het Geld](https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5) | 3:21 |
 | 50 | [In De Steek](https://open.spotify.com/track/2PxSFsy3GGJzLDPF4cVkDj) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [In De Steek](https://open.spotify.com/album/2Jvbvn7AR50xO9qSSIrkNw) | 2:48 |
 
 Snapshot ID: `AAAAABmTX5OWjjzGOEzzD5eEN2O93lhr`

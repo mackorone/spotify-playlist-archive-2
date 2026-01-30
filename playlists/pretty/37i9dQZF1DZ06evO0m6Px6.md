@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0m6Px6.md) - [plain]
 
 > This is Harrison\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 452 likes - 43 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 452 likes - 44 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0m6Px6.md) - [plain]
 | 19 | [Around You](https://open.spotify.com/track/2ytfPhoqb8J66CGmO7v2O1) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI) | 1:51 |
 | 20 | [Beige](https://open.spotify.com/track/55kxuWtCLOZ9LD7paQylnO) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Beige](https://open.spotify.com/album/7JNh6e48gMbtw75GLOARSA) | 2:51 |
 | 21 | [New Harrison](https://open.spotify.com/track/7EV6sb1gDY337fBJNy3obX) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Head Above the Waters](https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet) | 3:50 |
-| 22 | [Pocket Dial](https://open.spotify.com/track/3WEGuOAWPeomUbXPNlqDrT) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Apricity](https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU) | 2:28 |
+| 22 | [Better \(feat\. Daniela Andrade\)](https://open.spotify.com/track/1f2bUE34ETaGhZhZd9W2cy) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Apricity](https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU) | 3:44 |
 | 23 | [A View From The Sky](https://open.spotify.com/track/10N0I9KcAZ7dJKs6n3x7WQ) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI) | 1:25 |
 | 24 | [Sorry](https://open.spotify.com/track/2zoNDCHS1jVpmoVU9z79Re) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Sorry](https://open.spotify.com/album/6upY303oACCGOxgkI3Ndtg) | 2:00 |
 | 25 | [By Myself](https://open.spotify.com/track/0kakE3UT2nSghNRVqBIEWm) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Head Above the Waters](https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet) | 2:35 |
-| 26 | [Better \(feat\. Daniela Andrade\)](https://open.spotify.com/track/1f2bUE34ETaGhZhZd9W2cy) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Apricity](https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU) | 3:44 |
+| 26 | [Pocket Dial](https://open.spotify.com/track/3WEGuOAWPeomUbXPNlqDrT) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Apricity](https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU) | 2:28 |
 | 27 | [7PM](https://open.spotify.com/track/4AppRvQz4VFgXSPqEcafKq) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI) | 1:31 |
 | 28 | [Right Hook](https://open.spotify.com/track/5ST2wb9jN6uB41w0iDJICY) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 3:15 |
 | 29 | [Collage](https://open.spotify.com/track/2mMxrXVTSkDeN5m8KK1Y4x) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Colors](https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42) | 3:42 |
@@ -49,7 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0m6Px6.md) - [plain]
 | 39 | [Once Upon A Time](https://open.spotify.com/track/3uDG2oirP5VieBeTqXZGfR) | [Kill The Buzz](https://open.spotify.com/artist/0QZSzSj4BDYFARD2hZ7oNI), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Once Upon A Time](https://open.spotify.com/album/2OOe8tEaUQcdAW1CK80hLX) | 3:39 |
 | 40 | [Vertigo](https://open.spotify.com/track/0NSzcdUZkO3yTxggLzMjzf) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [a l l i e](https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 3:35 |
 | 41 | [How Can It Be \(feat\. Maddee\)](https://open.spotify.com/track/6YVTj0QZozXD9nOq2iDeUx) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Maddee Ritter](https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A) | [Colors](https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42) | 4:00 |
-| 42 | [Vanilla](https://open.spotify.com/track/0lK55ix3ArSvC2VSEFuPGZ) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 2:22 |
-| 43 | [You and I](https://open.spotify.com/track/4WjYVP5dZtOhK86ntwMY7i) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 2:26 |
+| 42 | [Play No Games \(Harrison Remix\)](https://open.spotify.com/track/32fG2SvpIGVJxYQsSzGMzE) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Parallel World \(Deluxe Edition\)](https://open.spotify.com/album/32m2OO7A1J6wuDO8FUNZ50) | 2:25 |
+| 43 | [Vanilla](https://open.spotify.com/track/0lK55ix3ArSvC2VSEFuPGZ) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 2:22 |
+| 44 | [You and I](https://open.spotify.com/track/4WjYVP5dZtOhK86ntwMY7i) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 2:26 |
 
-Snapshot ID: `aXgAAAAAAAD+qOBLr7C16Kb3uGqfn05y`
+Snapshot ID: `aXlRgAAAAADkzHgLEkzzziZFJ8+tLL3g`

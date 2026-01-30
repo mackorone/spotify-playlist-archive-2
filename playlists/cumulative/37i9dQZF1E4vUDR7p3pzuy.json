@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Under The Underground",
+        "url": "https://open.spotify.com/album/3HtnoWH5moA5fqDAnzowcQ"
+      },
+      "artists": [
+        {
+          "name": "NUDNIK",
+          "url": "https://open.spotify.com/artist/6wXx613GPctyfnNcbRn3p0"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199398,
+      "name": "A Fool",
+      "url": "https://open.spotify.com/track/4SsTepEkOqfwbNbt4cY4ZS"
+    },
+    {
+      "album": {
         "name": "Deadtime Stories",
         "url": "https://open.spotify.com/album/6LNJswYZkDk5BpEw299Id2"
       },
@@ -168,7 +186,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-26",
+      "date_removed": null,
       "duration_ms": 177230,
       "name": "a short term effect",
       "url": "https://open.spotify.com/track/1BFfuqkmcRqkouAYuXTnNf"
@@ -562,7 +580,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 271388,
       "name": "Blind",
       "url": "https://open.spotify.com/track/4jhV1n0o9UDs0AWdqsow6R"
@@ -736,7 +754,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 310000,
       "name": "Can You See",
       "url": "https://open.spotify.com/track/0821u62C5YiW4Z2beHjvGf"
@@ -1234,7 +1252,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-26",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Discipline",
       "url": "https://open.spotify.com/track/3ZAcW4sUc92H8QnoNs5Ai9"
@@ -1732,7 +1750,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 229573,
       "name": "Galactic Tides",
       "url": "https://open.spotify.com/track/4iR5tmTE8GsxaH0PjYsJIN"
@@ -1856,7 +1874,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 217944,
       "name": "Glass Figure",
       "url": "https://open.spotify.com/track/6h57HgSCAIRBjioZFu5IyA"
@@ -1892,7 +1910,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 231000,
       "name": "Got a Letter",
       "url": "https://open.spotify.com/track/4AeTNIe8ncxsCSOiY94JGn"
@@ -1994,7 +2012,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 199709,
       "name": "Happy Song (Single Edit)",
       "url": "https://open.spotify.com/track/5Mu2uPodFAD1WhKfndU9Hx"
@@ -2192,7 +2210,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 203128,
       "name": "How To Be Dead",
       "url": "https://open.spotify.com/track/0YjyTuJy9GtNzDYzthd0Gm"
@@ -2232,6 +2250,28 @@
       "duration_ms": 96976,
       "name": "Humble Eyes",
       "url": "https://open.spotify.com/track/5O8cbA7QABRF8VN9QiYpAt"
+    },
+    {
+      "album": {
+        "name": "I can't sleep",
+        "url": "https://open.spotify.com/album/6Rdkmf96MeWXXeRAYMils3"
+      },
+      "artists": [
+        {
+          "name": "remote dive cmd",
+          "url": "https://open.spotify.com/artist/1cSJ4voG3SwgaNd85NfUya"
+        },
+        {
+          "name": "Deer Mx",
+          "url": "https://open.spotify.com/artist/6f8hmFBX288dV78FS3Qo7J"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219511,
+      "name": "I can't sleep",
+      "url": "https://open.spotify.com/track/5Ccro6iY3KDNOvsvNZsdtv"
     },
     {
       "album": {
@@ -2390,7 +2430,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 281500,
       "name": "I'm made for more",
       "url": "https://open.spotify.com/track/43qb7qNNuxjUq6Kq0APvcR"
@@ -2859,6 +2899,28 @@
     },
     {
       "album": {
+        "name": "Layers",
+        "url": "https://open.spotify.com/album/6J2Dd9JmEMsXdnqQHh5VnJ"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        },
+        {
+          "name": "JUST LIZZY",
+          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Layers",
+      "url": "https://open.spotify.com/track/2w68LiCEisB0exE4UxEer2"
+    },
+    {
+      "album": {
         "name": "Least",
         "url": "https://open.spotify.com/album/2d7dIcTDJZep5Ebu3m2dPr"
       },
@@ -2986,7 +3048,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 236615,
       "name": "Long Distance to Go",
       "url": "https://open.spotify.com/track/5CpzD2bjv4G7R7xZsg7jCL"
@@ -3419,6 +3481,24 @@
     },
     {
       "album": {
+        "name": "never enough",
+        "url": "https://open.spotify.com/album/3l2kOXJWFJbaoQEZq7x0Ba"
+      },
+      "artists": [
+        {
+          "name": "Northern Gloom",
+          "url": "https://open.spotify.com/artist/6wSoLfOujwwptHo0Hr7ygL"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230975,
+      "name": "never enough",
+      "url": "https://open.spotify.com/track/3xOGzJzfPKYLVSk1MF9Zrl"
+    },
+    {
+      "album": {
         "name": "No Good",
         "url": "https://open.spotify.com/album/5CZKTiRfhh3ZaLVg6Fxabz"
       },
@@ -3578,7 +3658,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 260079,
       "name": "Outside ZER\u00d8SPACE",
       "url": "https://open.spotify.com/track/4H7I9rVugrJSzm7vlB1E3g"
@@ -4024,7 +4104,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 187401,
       "name": "Red Sky at Noon - Dandysounds Mix",
       "url": "https://open.spotify.com/track/3JtLK1sccvAaKdhPKotx4P"
@@ -4042,7 +4122,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 256264,
       "name": "Revelation",
       "url": "https://open.spotify.com/track/5Wejm3L4dqlEhmqfLd66n1"
@@ -4216,7 +4296,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 276000,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/1yDtngy0nJMQ7oBEPloWjY"
@@ -4644,6 +4724,24 @@
       "duration_ms": 299866,
       "name": "Sprawling",
       "url": "https://open.spotify.com/track/5PK9hMSgbOqUg5wUr783mN"
+    },
+    {
+      "album": {
+        "name": "Head In The Clouds",
+        "url": "https://open.spotify.com/album/2HFcBJ7Xsc1orhKTAqzcpx"
+      },
+      "artists": [
+        {
+          "name": "Melting Palms",
+          "url": "https://open.spotify.com/artist/1Vg6tBVHxyudUVzA9YTMgi"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217729,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/2Lw9pwcwWBa7SU5dUkw7tF"
     },
     {
       "album": {
@@ -5222,7 +5320,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 253456,
       "name": "Time",
       "url": "https://open.spotify.com/track/6E2d2GMw6cAp9Tla3V9VRM"
@@ -5298,7 +5396,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-26",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Tr\u00e4nen Aus Blut",
       "url": "https://open.spotify.com/track/0sXugNYXjDsLXzc5X8bpQi"
@@ -5472,7 +5570,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 266853,
       "name": "Wait for a Day",
       "url": "https://open.spotify.com/track/79WwDikRFMbWwdYiW8uvzk"
@@ -5645,6 +5743,24 @@
     },
     {
       "album": {
+        "name": "Death is around the corner",
+        "url": "https://open.spotify.com/album/06NtJgMT4GvavLWvyZsZ2u"
+      },
+      "artists": [
+        {
+          "name": "Aircraft",
+          "url": "https://open.spotify.com/artist/6lXlMyoAYN845deOonN7Q0"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286285,
+      "name": "When you fall",
+      "url": "https://open.spotify.com/track/4uabq5c2QEWJVn40Gchl8P"
+    },
+    {
+      "album": {
         "name": "When You're Down",
         "url": "https://open.spotify.com/album/5GrLogkgnExbmGfUs9cGA2"
       },
@@ -5660,7 +5776,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 171000,
       "name": "When You're Down",
       "url": "https://open.spotify.com/track/35eCarWbCxKpJD3im0JO65"
@@ -5718,7 +5834,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 196171,
       "name": "Whomever You Need",
       "url": "https://open.spotify.com/track/3CSv43GAVspGJ281rrkb0M"

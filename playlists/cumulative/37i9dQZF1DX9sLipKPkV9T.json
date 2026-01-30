@@ -2891,6 +2891,24 @@
     },
     {
       "album": {
+        "name": "\u05d1\u05d5\u05d0\u05d9",
+        "url": "https://open.spotify.com/album/0PzEAQTPxofObDHG7lff6o"
+      },
+      "artists": [
+        {
+          "name": "\u05e4\u05df \u05d7\u05d6\u05d5\u05ea",
+          "url": "https://open.spotify.com/artist/74AQHelhpYwe2w5FhSDpTI"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215437,
+      "name": "\u05d1\u05d5\u05d0\u05d9",
+      "url": "https://open.spotify.com/track/3yrsd9QINkGcmqe6388BpS"
+    },
+    {
+      "album": {
         "name": "\u05d1\u05d5\u05d0\u05d9 \u05d5\u05e0\u05ea\u05d9\u05e8",
         "url": "https://open.spotify.com/album/0BeyHbYUtiDrJk9LQMZ4Sr"
       },
@@ -5114,6 +5132,24 @@
       "duration_ms": 141473,
       "name": "\u05d8\u05d5\u05d1 \u05d8\u05d5\u05d1",
       "url": "https://open.spotify.com/track/0FmiEDdpHoLHjAmD4QoLFe"
+    },
+    {
+      "album": {
+        "name": "\u05d8\u05d5\u05e7 \u05d8\u05d5 \u05de\u05d9",
+        "url": "https://open.spotify.com/album/2hmfcm4fK25YzLzlhcnb5w"
+      },
+      "artists": [
+        {
+          "name": "\u05e9\u05d7\u05e8 \u05d8\u05d1\u05d5\u05da",
+          "url": "https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132452,
+      "name": "\u05d8\u05d5\u05e7 \u05d8\u05d5 \u05de\u05d9",
+      "url": "https://open.spotify.com/track/2qaqTmiGCtvbKfN7OVIhQ2"
     },
     {
       "album": {
@@ -7413,6 +7449,28 @@
     },
     {
       "album": {
+        "name": "\u05de\u05e0\u05d2\u05d9\u05e0\u05ea \u05d4\u05dc\u05d1",
+        "url": "https://open.spotify.com/album/4uV4c9I1SiCEZLwDpSZ190"
+      },
+      "artists": [
+        {
+          "name": "Aviv Geffen",
+          "url": "https://open.spotify.com/artist/73ieysHN7XpJYEnEAYsO3K"
+        },
+        {
+          "name": "Berry Sakharof",
+          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165303,
+      "name": "\u05de\u05e0\u05d2\u05d9\u05e0\u05ea \u05d4\u05dc\u05d1",
+      "url": "https://open.spotify.com/track/262Qkoq8jUNyzBTUnvT549"
+    },
+    {
+      "album": {
         "name": "\u05de\u05e0\u05d5\u05e8\u05d4 \u05d5\u05e4\u05e1\u05e0\u05ea\u05e8",
         "url": "https://open.spotify.com/album/4tQJK69yKCecga7vNT5CHl"
       },
@@ -7834,6 +7892,24 @@
       "duration_ms": 137727,
       "name": "\u05de\u05ea \u05d4\u05e2\u05d5\u05dc\u05dd",
       "url": "https://open.spotify.com/track/0e4RKSgXlsUrHQ9pg807iH"
+    },
+    {
+      "album": {
+        "name": "\u05de\u05ea\u05d7\u05ea \u05dc\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/0WTNXIZAHcn7kr9wYkGD2h"
+      },
+      "artists": [
+        {
+          "name": "Udi Schneider",
+          "url": "https://open.spotify.com/artist/5DEX9UqXj4FoYCv8mZQDjy"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179157,
+      "name": "\u05de\u05ea\u05d7\u05ea \u05dc\u05de\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/0lY62MsgnDdmtiMbIGrrw1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4?si=kjTTAOiRTlmD3duoTo3JQA">nomi.</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,484 likes - 140 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,539 likes - 140 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 10 | [same bed](https://open.spotify.com/track/4hipQPwuLqq9RFxlpVAJET) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [Budgie](https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89) | [keepsake](https://open.spotify.com/album/7qbYXzYoWTnlzDTHbs0oCS) | 2:35 |
 | 11 | [TEASE](https://open.spotify.com/track/6k7D9YOYJrqEp3DXMSgI22) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [TEASE](https://open.spotify.com/album/62oKjKFNKBY7ywMqtCcSlR) | 2:38 |
 | 12 | [BITING MY TONGUE](https://open.spotify.com/track/0JcIsvfeEsz493yYmD2S0i) | [Mikey Jose](https://open.spotify.com/artist/3rJEy2vNlsmWO5JHxKEaP8) | [BITING MY TONGUE](https://open.spotify.com/album/0sWQyYcdyxf93aZGA6ASvj) | 3:52 |
-| 13 | [After All \(feat\. Mac Ayres, Braxton Cook\)](https://open.spotify.com/track/1dKs1cUWl57GpEW20FAw0h) | [GiddyGang](https://open.spotify.com/artist/5hgceJkuyoeET8VNinxe4Q), [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL), [Vuyo](https://open.spotify.com/artist/6pWOGQubsgAiEZmzioIyDi), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [After All \(feat\. Mac Ayres, Braxton Cook\)](https://open.spotify.com/album/4MnZnhpFL8gT0EIrB7Q2ZR) | 4:08 |
+| 13 | [After All](https://open.spotify.com/track/1dKs1cUWl57GpEW20FAw0h) | [GiddyGang](https://open.spotify.com/artist/5hgceJkuyoeET8VNinxe4Q), [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL), [Vuyo](https://open.spotify.com/artist/6pWOGQubsgAiEZmzioIyDi), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [After All](https://open.spotify.com/album/4MnZnhpFL8gT0EIrB7Q2ZR) | 4:08 |
 | 14 | [footwork](https://open.spotify.com/track/1bkNnIkZpBB4tdhZwMji6Q) | [Ben Esser](https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [footwork](https://open.spotify.com/album/23HUSuiX9Xtif1N5iBh5uj) | 2:50 |
 | 15 | [HARD TO LOVE](https://open.spotify.com/track/5KeT3r2AjQ9zsW1tBwiPRW) | [GoGo Morrow](https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO) | [HARD TO LOVE](https://open.spotify.com/album/3r7d8VEgrb33RxLRuhA9ua) | 2:50 |
 | 16 | [Say It out Loud](https://open.spotify.com/track/3aROwTI0uQ7ahjPr6ENHHf) | [Shaun Ross](https://open.spotify.com/artist/6GaWtlUT3oavD9SEzhZrA1) | [Say It out Loud](https://open.spotify.com/album/529y0JVOWJcdd5cL9Ospux) | 4:52 |

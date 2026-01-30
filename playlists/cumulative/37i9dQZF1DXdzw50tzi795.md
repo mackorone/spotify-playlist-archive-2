@@ -2,9 +2,9 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> พลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: ASIA7, ปลาย กนกพร
+> พลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: Three Man Down, PEEMWASU OF BUS
 
-218 songs - 14 hr 4 min
+219 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [ท้ายปี](https://open.spotify.com/track/5XGTehBbNk1y0KrdkI1qsK) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ท้ายปี](https://open.spotify.com/album/3XkGjScNhOcPSdNal19vVx) | 4:45 | 2025-08-07 | 2025-10-23 |
 | [ท้ายปี](https://open.spotify.com/track/6NnDhBn93o2CxGkwrtKVMG) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ท้ายปี \- Single](https://open.spotify.com/album/6GRgfeM13bUQOSCTssD4fG) | 4:45 | 2024-12-06 | 2025-08-08 |
 | [นครดารา](https://open.spotify.com/track/2wyjOiDh07ISNq0oq69G4e) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [นครดารา](https://open.spotify.com/album/4EAcsAQeQ7kM5eO9UBBnfM) | 3:16 | 2025-02-18 |  |
-| [นับหนึ่ง \(From now on\)](https://open.spotify.com/track/0hWzDHF10kCJFQ2hMg6FYX) | [BILLKIN](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [นับหนึ่ง \(From now on\)](https://open.spotify.com/album/3uaKrwbP5XZOEBPFYzDoLY) | 3:48 | 2025-10-22 |  |
+| [นับหนึ่ง \(From now on\)](https://open.spotify.com/track/0hWzDHF10kCJFQ2hMg6FYX) | [BILLKIN](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [นับหนึ่ง \(From now on\)](https://open.spotify.com/album/3uaKrwbP5XZOEBPFYzDoLY) | 3:48 | 2025-10-22 | 2026-01-30 |
 | [น้ำหอม](https://open.spotify.com/track/3grGyWGWsuIUxA2CudpwAB) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [น้ำหอม \- Single](https://open.spotify.com/album/74xRXPyQxRiFj29WW1F1Ka) | 3:27 | 2024-11-08 | 2025-08-08 |
 | [บทสรุปสุดท้าย](https://open.spotify.com/track/0gpFtSxhDc1gC7kYJ927fJ) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [บทสรุปสุดท้าย](https://open.spotify.com/album/0ClbWhARkNjt7ILo81OJ4K) | 4:24 | 2025-03-23 |  |
 | [บรรยากาศ](https://open.spotify.com/track/56n3cbPJeypX5NyqgsmpnZ) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [บรรยากาศ \- Single](https://open.spotify.com/album/5OtV6koP7TAOKa1x1uxUVT) | 4:35 | 2024-01-26 | 2024-10-11 |
@@ -198,6 +198,7 @@
 | [เพลงรัก](https://open.spotify.com/track/1THWgXia63L6sds6dIMlI9) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [เพลงรัก \- Single](https://open.spotify.com/album/1COyEuHbhIOqwDlOybk74Z) | 4:29 | 2024-10-10 |  |
 | [เพลงรักเพลงแรก \- Blooming](https://open.spotify.com/track/79S6mQUxOs8ANRmJTS7agU) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [เพลงรักเพลงแรก \(Blooming\)](https://open.spotify.com/album/6ZUJeCFflkdXgz1p8LSmP4) | 4:17 | 2024-01-26 | 2024-08-05 |
 | [เพลงรักในวันลา](https://open.spotify.com/track/1uJbdRLz38VTAXxhyXRC85) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [เพลงรักในวันลา](https://open.spotify.com/album/5Dl2n6GdOhYSroqNGsh5Lf) | 4:28 | 2024-01-26 | 2024-08-16 |
+| [เพื่อนสนิท \(Platonic Love\) \[feat\. PEEMWASU OF BUS\]](https://open.spotify.com/track/11ZywXk23xC8T7VOpKAbKI) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P), [PEEMWASU OF BUS](https://open.spotify.com/artist/5Iol3bIHuguW8mLb3KwHvE) | [เพื่อนสนิท \(Platonic Love\) \[feat\. PEEMWASU OF BUS\]](https://open.spotify.com/album/26P69L852w82osraPlizaB) | 3:08 | 2026-01-29 |  |
 | [เมร่อน](https://open.spotify.com/track/3KSS2LFdimgKRcs4ZamWyv) | [Juepak](https://open.spotify.com/artist/4hyjpRJFaQcXR63Wfpjd3D), [จ๊ะ นงผณี](https://open.spotify.com/artist/2kw9oKRxdRVnymE4kd3BgE), [GUNNER](https://open.spotify.com/artist/1JySn0pz3hvdDvWPTZf7hv) | [เมร่อน](https://open.spotify.com/album/1tDF30Fp2KCtoI2Ag4GX9Y) | 2:43 | 2024-04-11 | 2024-06-01 |
 | [เมื่อไหร่จะบอก](https://open.spotify.com/track/2ATz55UP6o2ZANEa84dx1H) | [ETC.](https://open.spotify.com/artist/1qz5HLBHOge1yHlMVAZ9hO), [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [เมื่อไหร่จะบอก](https://open.spotify.com/album/6MbFdp0fjE8BDufYY38FOv) | 4:30 | 2025-08-21 |  |
 | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/track/0Vuen2jMTrQ5BOx2CU4wwi) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/album/6JJAfcGaQtsY0pkdpmNWEZ) | 3:40 | 2024-07-18 | 2024-09-13 |

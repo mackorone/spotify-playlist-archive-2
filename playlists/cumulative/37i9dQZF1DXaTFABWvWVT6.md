@@ -4,7 +4,7 @@
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-274 songs - 15 hr 34 min
+275 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Jack \- Radio Edit](https://open.spotify.com/track/2NiSrKscpHnAj0z4pQZV5t) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC) | [Jack](https://open.spotify.com/album/3t2t73xHidkX7KPkw6qXov) | 3:03 | 2024-04-05 | 2024-04-19 |
 | [Jack \- Radio Edit](https://open.spotify.com/track/7miPCFhb1315gMnyeEnfFf) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC) | [Jack](https://open.spotify.com/album/3xv0Yy1j4Mp2by5d0c3HHo) | 3:03 | 2024-04-05 | 2024-05-24 |
 | [Jamming \- FISHER Rework](https://open.spotify.com/track/2gKewcQZEV1fqoWH81RUDk) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Jamming \(FISHER Rework\)](https://open.spotify.com/album/7JIcY8DOxlyJKAW3Dl3sWk) | 3:21 | 2024-03-01 | 2024-07-27 |
-| [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 | 2024-03-01 |  |
+| [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 | 2024-03-01 | 2026-01-30 |
 | [Jiggy Woogie](https://open.spotify.com/track/3yGpcjSuAiNofSrnsgzNRk) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Baby Lawd](https://open.spotify.com/artist/3yIk29nEyIjpijSSOX1EII) | [Jiggy Woogie](https://open.spotify.com/album/1POseoKNTFrdId8Tvt5N2G) | 2:20 | 2024-03-22 | 2024-05-25 |
 | [Junction 3](https://open.spotify.com/track/14c0weTcZPO5laR3ft2B0z) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Junction 3](https://open.spotify.com/album/3orD0F22WOT0CmmEpCDRg3) | 2:38 | 2024-07-26 | 2024-09-20 |
 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 | 2022-07-18 | 2023-10-06 |
@@ -267,6 +267,7 @@
 | [Waterfall](https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Waterfall](https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi) | 3:52 | 2022-07-18 | 2023-10-06 |
 | [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe), [Bobby Harvey](https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc) | [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz) | 2:00 | 2025-08-07 |  |
 | [We Are The People](https://open.spotify.com/track/5SyTXTAj6vVzkGlfLoNoCq) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [Davide T](https://open.spotify.com/artist/1pd2mIBKC4uzLtAEP8qpgw) | [We Are The People](https://open.spotify.com/album/0OAb6fcraycYzYZVTvuVl8) | 2:02 | 2024-07-19 | 2024-09-20 |
+| [We Do What We Want \- Edit](https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [We Do What We Want \(Edit\)](https://open.spotify.com/album/5WzbzjfI0AeLlYwyZ1rHOa) | 3:08 | 2025-10-09 |  |
 | [We'll Be Back](https://open.spotify.com/track/64ZSbsECsGeoZq8dhYkUiM) | [Charlie Boon](https://open.spotify.com/artist/6NGofnQORNQtnWXN3ef270) | [We'll Be Back](https://open.spotify.com/album/0OBwML4aufsHTH4RNvscVA) | 3:19 | 2025-08-14 |  |
 | [Weekend](https://open.spotify.com/track/4fv1qeXHQA1gGoA7TKYm3g) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Trip](https://open.spotify.com/artist/0wy1aZ1F0C9LYA49ol6QQW) | [Weekend](https://open.spotify.com/album/4kCI75IoniUlYK3l4tm7ND) | 3:16 | 2025-08-07 | 2025-08-27 |
 | [What I Might Do](https://open.spotify.com/track/5ea9yZi9Dv6MuJa8V2kpUq) | [Ben Pearce](https://open.spotify.com/artist/0mnlHIcYkz3TQQ07xiFwuz) | [What I Might Do \(Radio Edit\)](https://open.spotify.com/album/4SdrC7w58BEVFdaOhbWbBG) | 3:15 | 2025-05-28 | 2025-06-26 |

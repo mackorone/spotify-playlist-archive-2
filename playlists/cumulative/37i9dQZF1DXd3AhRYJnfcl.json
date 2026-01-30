@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0635\u062d\u064a\u062a \u0644\u0642\u064a\u062a \u0646\u0641\u0633\u064a \u0641\u064a 2016",
+  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641: \u0644\u064a\u062c\u064a-\u0633\u064a",
   "name": "\u0627\u0644\u062a\u0648\u0628",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 296720,
       "name": "6 Weshoosh",
       "url": "https://open.spotify.com/track/5jy51UBSAHKs94Uy6ephsB"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 376763,
       "name": "Ah Law Le3ebt Ya Zahr - Elfakr We El Gadana",
       "url": "https://open.spotify.com/track/5TJPHmaBpX8iAvqoSf2K1e"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 225980,
       "name": "Al Qahira (feat. Mohamed Mounir)",
       "url": "https://open.spotify.com/track/4bRYmVv35fJ9jIHtPRlMv8"
@@ -464,7 +464,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 158661,
       "name": "Alf Mara (Kamel El Adad++ series)",
       "url": "https://open.spotify.com/track/2aZNUu6LFLD0nsppiw8f0p"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 195368,
       "name": "Baba",
       "url": "https://open.spotify.com/track/1GkBG6kv0tDEDALIG7NR2K"
@@ -924,6 +924,36 @@
       "duration_ms": 139293,
       "name": "Bayen Habeit",
       "url": "https://open.spotify.com/track/29KS7kBSU77PrYGB6RVR5O"
+    },
+    {
+      "album": {
+        "name": "Be3teeny Leh | Red Bull Mazzika Salonat",
+        "url": "https://open.spotify.com/album/02aEAfQBBPr2ep2jmIOfam"
+      },
+      "artists": [
+        {
+          "name": "Amr Mostafa",
+          "url": "https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg"
+        },
+        {
+          "name": "ZIAD ZAZA",
+          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
+        },
+        {
+          "name": "Moataz Mady",
+          "url": "https://open.spotify.com/artist/11Yf1JoZahEhob9eSkqaVv"
+        },
+        {
+          "name": "Red Bull Sika",
+          "url": "https://open.spotify.com/artist/2V1MWcYHvKbyzBxqy0rryW"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Be3teeny Leh | Red Bull Mazzika Salonat",
+      "url": "https://open.spotify.com/track/2fOoMpwfcLaOw3rPrbHgyO"
     },
     {
       "album": {
@@ -1414,7 +1444,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 219176,
       "name": "El 7ob 7ala",
       "url": "https://open.spotify.com/track/0hKzHGWdR66sWKzxbwWrRR"
@@ -1978,7 +2008,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 238293,
       "name": "Faraa' Keteer",
       "url": "https://open.spotify.com/track/4PBw4KBl7IJkzOdp3BnkXO"
@@ -2606,7 +2636,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 249733,
       "name": "Kelma",
       "url": "https://open.spotify.com/track/0GqXFN7jjKYWjiNyPtozdX"
@@ -3010,7 +3040,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 198746,
       "name": "Maak Alby",
       "url": "https://open.spotify.com/track/1dP8RC3NAvg8GyeRCCJdY1"
@@ -3064,7 +3094,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 248241,
       "name": "Mabalash",
       "url": "https://open.spotify.com/track/6T7BnjLw6SixBVpxhZFHwQ"
@@ -3614,7 +3644,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 184814,
       "name": "Narein",
       "url": "https://open.spotify.com/track/3D33hlROnv1lNCWIXIGsL2"
@@ -3876,7 +3906,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 209186,
       "name": "Ragea",
       "url": "https://open.spotify.com/track/73ppBd1Mc3J6JeczDvLF8E"
@@ -4212,6 +4242,24 @@
       "duration_ms": 203877,
       "name": "Seneen",
       "url": "https://open.spotify.com/track/78aKU80XVAIVX9L0Xur3PC"
+    },
+    {
+      "album": {
+        "name": "Seneen",
+        "url": "https://open.spotify.com/album/3mkFc15UimdDFM8oX3KTKJ"
+      },
+      "artists": [
+        {
+          "name": "TUL8TE",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214073,
+      "name": "Seneen",
+      "url": "https://open.spotify.com/track/0g9uhQ0VxM6ATwuOwaxshA"
     },
     {
       "album": {
@@ -5004,7 +5052,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 280659,
       "name": "Ya Nas",
       "url": "https://open.spotify.com/track/1w714OAXOyKaxDd1lhR9QT"
@@ -5200,7 +5248,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 190434,
       "name": "\u0623\u0646\u0627 \u0628\u0627\u0628\u0627",
       "url": "https://open.spotify.com/track/5PPphP4W68g1VWhghpGK0U"
@@ -5744,7 +5792,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 295044,
       "name": "\u0628\u062d\u0628\u0643 \u064a\u0627 \u0635\u0627\u062d\u0628\u064a",
       "url": "https://open.spotify.com/track/3kwj3yFKLihAk2Crwlin3S"
@@ -6156,7 +6204,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 196563,
       "name": "\u062d\u0628\u064a\u0628\u064a \u0648\u0627\u0628\u0646 \u062d\u0628\u064a\u0628\u064a - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0643\u0627\u0645\u0644 \u0627\u0644\u0639\u062f\u062f ++",
       "url": "https://open.spotify.com/track/5OcVGQFVNvHt25O5ko22tF"
@@ -6622,7 +6670,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 196877,
       "name": "\u0636\u064a\u0651 - \u0645\u0646 \u0641\u064a\u0644\u0645 \u0633\u064a\u0631\u0629 \u0623\u0647\u0644 \u0627\u0644\u0636\u064a\u0651",
       "url": "https://open.spotify.com/track/57SkIuSdgMFHGNOtdBN8xO"
@@ -6644,7 +6692,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 148382,
       "name": "\u0637\u064a\u0628\u0629 \u062a\u0627\u0646\u064a \u0644\u0623 - \u0645\u0646 \u0641\u064a\u0644\u0645 \u0637\u0644\u0642\u0646\u064a",
       "url": "https://open.spotify.com/track/1xLe3JJ1FPcFU6jZU9WcPE"
@@ -7086,7 +7134,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 174231,
       "name": "\u0644\u0627 \u0623\u0628\u0627\u0644\u064a",
       "url": "https://open.spotify.com/track/61GQ8j8SU63HhNGlGuLg8X"
@@ -7646,7 +7694,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 150528,
       "name": "\u0645\u0643\u0633\u0631\u0627\u062a",
       "url": "https://open.spotify.com/track/01t3hjaKRWTGxXv2MDVumY"

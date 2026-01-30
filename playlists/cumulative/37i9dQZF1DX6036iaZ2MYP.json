@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Omah Lay x Seyi Vibez",
+  "description": "Tracks popping off in the Afro scene. Cover: Maud Elka",
   "name": "Afro Station",
   "tracks": [
     {
@@ -389,6 +389,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Myra",
+          "url": "https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162924,
+      "name": "ABRICOT",
+      "url": "https://open.spotify.com/track/7ztrqyPZBXAa6WPzkiSiFH"
+    },
+    {
+      "album": {
         "name": "ACHTUNG",
         "url": "https://open.spotify.com/album/1IVR9kZ5qhPFpPbnVA22n9"
       },
@@ -550,7 +568,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 152727,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/3is6Q8mrAvLC1gF2TFnYDq"
@@ -1751,6 +1769,28 @@
     },
     {
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/0szYTRwg7XVBRHnD8ycswr"
+      },
+      "artists": [
+        {
+          "name": "Harley",
+          "url": "https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133743,
+      "name": "Baby (feat. Minz)",
+      "url": "https://open.spotify.com/track/6YQgFBhoO8y1GZUX8imNgL"
+    },
+    {
+      "album": {
         "name": "Baby Boo",
         "url": "https://open.spotify.com/album/1iRNt5807C5qnxCFTo4JIg"
       },
@@ -2018,6 +2058,24 @@
       "duration_ms": 173333,
       "name": "BAD TILL ETERNITY (feat. Zlatan)",
       "url": "https://open.spotify.com/track/2iJxQENVp6qHhHv1rdoPtX"
+    },
+    {
+      "album": {
+        "name": "BADAMINTON",
+        "url": "https://open.spotify.com/album/7x77oJz7ECvknq4S9kISNl"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127384,
+      "name": "BADAMINTON",
+      "url": "https://open.spotify.com/track/7tlmvrVlRrLw0m02LPfqTe"
     },
     {
       "album": {
@@ -2804,6 +2862,32 @@
       "duration_ms": 152715,
       "name": "Bin\u00f4me",
       "url": "https://open.spotify.com/track/3TJ032zQjkCcUBEsYknfCo"
+    },
+    {
+      "album": {
+        "name": "Birthday",
+        "url": "https://open.spotify.com/album/0x1Q0qm394QlhVrqdVMI5d"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Steel Banglez",
+          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155753,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9"
     },
     {
       "album": {
@@ -4232,7 +4316,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 195055,
       "name": "CHO CHO CHO",
       "url": "https://open.spotify.com/track/55nW9HWzF7xykwZDTQ6HBS"
@@ -4538,6 +4622,24 @@
       "duration_ms": 155294,
       "name": "COMME NOBODY",
       "url": "https://open.spotify.com/track/4uEk7w0WUrSb07zzW2ZjHn"
+    },
+    {
+      "album": {
+        "name": "Comment faire",
+        "url": "https://open.spotify.com/album/6j1HTQ19MZq9KzNY5KyfKG"
+      },
+      "artists": [
+        {
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174315,
+      "name": "Comment faire",
+      "url": "https://open.spotify.com/track/0om4QY2l97Cdju4zBlbTVl"
     },
     {
       "album": {
@@ -5894,7 +5996,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 171764,
       "name": "Do It",
       "url": "https://open.spotify.com/track/1gu8oFU7fxbIk0A9dMxd4P"
@@ -9522,7 +9624,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 222068,
       "name": "Ici ou ailleurs",
       "url": "https://open.spotify.com/track/2j1moEf05wADCnu8DIEsHR"
@@ -10507,6 +10609,24 @@
     },
     {
       "album": {
+        "name": "Joli Djo",
+        "url": "https://open.spotify.com/album/1xvvenZDDxtZnSfvH9gwl3"
+      },
+      "artists": [
+        {
+          "name": "La Folie",
+          "url": "https://open.spotify.com/artist/1a0V1vMdLVOZguN8iSJHoc"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132153,
+      "name": "Joli Djo",
+      "url": "https://open.spotify.com/track/1m7zzVskxd6T1LXfpn5765"
+    },
+    {
+      "album": {
         "name": "Jostimilo",
         "url": "https://open.spotify.com/album/71i0Q7sZiqg8j7QoKdcskH"
       },
@@ -10588,6 +10708,24 @@
       "duration_ms": 161416,
       "name": "Joy",
       "url": "https://open.spotify.com/track/4xoWfwadlc6X4MxzL0gXM2"
+    },
+    {
+      "album": {
+        "name": "Elles m'aiment, elle me d\u00e9teste",
+        "url": "https://open.spotify.com/album/3G2KKPz6vrL3egBeeV3XOB"
+      },
+      "artists": [
+        {
+          "name": "Dertay",
+          "url": "https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115484,
+      "name": "JSP",
+      "url": "https://open.spotify.com/track/1rmTOaMKdlHiu6QCJc0FlZ"
     },
     {
       "album": {
@@ -11540,7 +11678,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 165000,
       "name": "Lifestyle",
       "url": "https://open.spotify.com/track/1iCRehvlN08yk0BWYWUVrD"
@@ -14827,6 +14965,28 @@
     },
     {
       "album": {
+        "name": "Nous 2",
+        "url": "https://open.spotify.com/album/7GYISxrx84oYZTFXX78ExH"
+      },
+      "artists": [
+        {
+          "name": "Shannon",
+          "url": "https://open.spotify.com/artist/0n0XMIJ9TmRlxUjWTEUwoH"
+        },
+        {
+          "name": "Gold Up",
+          "url": "https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130212,
+      "name": "Nous 2",
+      "url": "https://open.spotify.com/track/5vnt3kyqgY75N0TpGmN5AU"
+    },
+    {
+      "album": {
         "name": "NOUS 2 (feat. SenSey')",
         "url": "https://open.spotify.com/album/7vBfFiwiQiGu8UluLFua26"
       },
@@ -15928,7 +16088,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 170000,
       "name": "Panama",
       "url": "https://open.spotify.com/track/1qZUI6ShqOrekieXlhtMjE"
@@ -17315,6 +17475,24 @@
     },
     {
       "album": {
+        "name": "Ride Solo",
+        "url": "https://open.spotify.com/album/5DYNIzeEqVdzYl0w23wvfo"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Ride Solo",
+      "url": "https://open.spotify.com/track/12ncJUshM46lUN0DS7kDEk"
+    },
+    {
+      "album": {
         "name": "Sounds Of The Diaspora",
         "url": "https://open.spotify.com/album/0n7r3MD92Fj1CYutyMj8fK"
       },
@@ -17646,7 +17824,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 158065,
       "name": "S&D (feat. Kima)",
       "url": "https://open.spotify.com/track/2WZqozAsPbsE0SiNegnq5U"
@@ -18730,7 +18908,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 154409,
       "name": "SOUPLESSE",
       "url": "https://open.spotify.com/track/1wWIRDX5aJeObR5WAJr8jM"
@@ -19310,7 +19488,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 164055,
       "name": "Ta femme t'a pas dit",
       "url": "https://open.spotify.com/track/3qgqAmhXR6ETPmsIQ3cmSh"
@@ -20533,6 +20711,28 @@
     },
     {
       "album": {
+        "name": "REAL, Vol. 1",
+        "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145492,
+      "name": "Turbulence",
+      "url": "https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK"
+    },
+    {
+      "album": {
         "name": "Morning Black",
         "url": "https://open.spotify.com/album/6DtlPtbowcvNlVLDTPTIY8"
       },
@@ -20836,7 +21036,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 156715,
       "name": "Violence",
       "url": "https://open.spotify.com/track/1xKTpn0PlVvu0dZoxrbgwr"

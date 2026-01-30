@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,170 songs - 20 day 18 hr 36 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,174 songs - 20 day 18 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8178,5 +8178,9 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8168 | [Raise your flag](https://open.spotify.com/track/0zz23sDNfQ0onyVh80GwqF) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [The World's On Fire](https://open.spotify.com/album/3YrPHd8CGlPBfLG4FgmQVy) | 4:07 |
 | 8169 | [Dead End in Tokyo](https://open.spotify.com/track/4SsITFDlndwk8qQHTr4edv) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Chasing the Horizon](https://open.spotify.com/album/4y9CcT0uoNVxUhjq2ku0bX) | 3:41 |
 | 8170 | [Chasing the Horizon](https://open.spotify.com/track/1EtE4bXLLtxL0Lf1nntQRf) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Chasing the Horizon](https://open.spotify.com/album/4y9CcT0uoNVxUhjq2ku0bX) | 4:17 |
+| 8171 | [time \(a dream deferred\)](https://open.spotify.com/track/7pQmOaawg2DMtlnIWc9SNY) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [sankofa](https://open.spotify.com/album/2jDIRykwSLgdYETP0IQES3) | 1:58 |
+| 8172 | [history](https://open.spotify.com/track/3xUlkUR0ccrpzCnNgwF4us) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [sankofa](https://open.spotify.com/album/2jDIRykwSLgdYETP0IQES3) | 3:10 |
+| 8173 | [brown sugar](https://open.spotify.com/track/6qKpRzWWhpeBvm4iSJrJLR) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [sankofa](https://open.spotify.com/album/2jDIRykwSLgdYETP0IQES3) | 3:36 |
+| 8174 | [Gira Gira](https://open.spotify.com/track/0vHCmjN8pepvdu41r69gcB) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 4:36 |
 
-Snapshot ID: `AAAKedpNKCwDEjFOEGD5zje19k5D+7II`
+Snapshot ID: `AAAKfcNyzt25BWrnfI/Ks3x3gbQBSHod`

@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover:  Ndarboy Genk
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover:  Woro Widowati
 
-570 songs - 1 day 23 hr 49 min
+571 songs - 1 day 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Cundamani](https://open.spotify.com/track/64MmMbaX3hmAKQ6nFLJgpg) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Cundamani](https://open.spotify.com/album/6L2xfwstUhr4VJNfbFgLiz) | 4:47 | 2023-08-11 |  |
 | [Cundamani](https://open.spotify.com/track/6J8rXMAh4eO50fplNgy7Ob) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Cundamani](https://open.spotify.com/album/5XYj1W6MeEjvUawRi5KKa3) | 5:06 | 2024-10-18 | 2025-05-23 |
 | [Cundamani](https://open.spotify.com/track/7Ghk8aSwC7vimLntGse1cd) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Cundamani](https://open.spotify.com/album/5mExkq5KGbQHP5mkLHhlKC) | 5:54 | 2023-09-22 | 2024-05-03 |
-| [Dada](https://open.spotify.com/track/6WPSzmAt1fgTeq3P62Z3Vo) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Dada](https://open.spotify.com/album/4o62iYJOehteyFmHPxsG09) | 5:38 | 2025-06-19 |  |
+| [Dada](https://open.spotify.com/track/6WPSzmAt1fgTeq3P62Z3Vo) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Dada](https://open.spotify.com/album/4o62iYJOehteyFmHPxsG09) | 5:38 | 2025-06-19 | 2026-01-30 |
 | [Dadi Siji](https://open.spotify.com/track/11KeN9oDHIkUnQIXPWGT3W) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X), [Delva](https://open.spotify.com/artist/3q32ggqpx55HIH2C2JfSFK) | [Dadi Siji](https://open.spotify.com/album/3CjOsiPpUTo7s2GI7VoYjx) | 4:54 | 2023-05-25 | 2024-06-07 |
 | [Dadi Siji](https://open.spotify.com/track/7vJffOmu35UgVjAasLGSts) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Dadi Siji](https://open.spotify.com/album/6bnn3gvenkbop8CsSE7PkE) | 3:46 | 2023-05-04 | 2023-12-09 |
 | [Dadi Siji](https://open.spotify.com/track/5FMe9JhFWHvzbAEQitRCrn) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [Miqbal GA](https://open.spotify.com/artist/1IiHfqkP7Q8T8gEtrA6pEO) | [Dadi Siji](https://open.spotify.com/album/4B4dm80GjHSCZoWdCF1xcs) | 3:58 | 2023-05-25 | 2023-11-11 |
@@ -252,6 +252,7 @@
 | [LDR \(Langgeng Dayaning Rasa\)](https://open.spotify.com/track/4nBsCOuBcfBRySw8vjmk0D) | [Niken Salindry](https://open.spotify.com/artist/3UTo1Lyi2ZuZMURMX9DbUv) | [LDR \(Langgeng Dayaning Rasa\)](https://open.spotify.com/album/4ITnDH8RzNDF8kULSyuoXA) | 4:59 | 2024-06-13 | 2024-06-14 |
 | [LDR \- Acoustic](https://open.spotify.com/track/7p6TgnqoZXExcao4JHwZfc) | [Restianade](https://open.spotify.com/artist/7A9lPm8R65nJT5ujGJzy5I) | [LDR \(Acoustic\)](https://open.spotify.com/album/4O1qHuKhVTAigJSFoe8j53) | 4:00 | 2024-05-24 | 2025-06-13 |
 | [Leda Lede](https://open.spotify.com/track/7puxab8SdP95QbxmzL1vgt) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO) | [Leda Lede](https://open.spotify.com/album/2w3tO7nqSw95b7KmMuH3tw) | 5:08 | 2025-06-13 | 2025-08-29 |
+| [Legi](https://open.spotify.com/track/5jrowV0v26wlyN32IQeeXB) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Legi](https://open.spotify.com/album/6xzWv81AXzJMzA2aM379tW) | 4:56 | 2026-01-29 |  |
 | [Lemah Teles](https://open.spotify.com/track/5c8Yuef8DL7Okp8Y9KhJMK) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Lemah Teles](https://open.spotify.com/album/4PlE7GG0LpXSEEN1B5tuqK) | 6:16 | 2022-05-26 | 2023-08-11 |
 | [Lengo Lan Banyu](https://open.spotify.com/track/7hGRnpcfRRqZjmbEaBJVEK) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Lengo Lan Banyu](https://open.spotify.com/album/24FEvuzz1HYxNZcxVIttZo) | 5:34 | 2023-03-09 | 2023-08-11 |
 | [Lestari](https://open.spotify.com/track/366rUE2UP4FKDA9D5h9uuv) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Lestari](https://open.spotify.com/album/6SUrSfTw8mThtc9WjeDmqv) | 5:24 | 2024-10-11 | 2025-04-25 |

@@ -4,7 +4,7 @@
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-191 songs - 13 hr 1 min
+192 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Doozy](https://open.spotify.com/track/6qszUQoH3QJYvSNwFP9yJB) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/4HSABxiXhFWk3UQrCzloLz) | 5:33 | 2021-12-16 | 2022-07-29 |
 | [Doozy \- 1966 Album Version](https://open.spotify.com/track/0iZFlr1KifqE2h5jM8g5pF) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Additions To Further Definitions](https://open.spotify.com/album/7xZfgQPKxnmAAt6mLTTSVb) | 5:31 | 2022-06-28 | 2024-04-19 |
 | [Dream a Little Dream of Me](https://open.spotify.com/track/49biLp7sPTHLW6sQib5F0V) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing With A Beat](https://open.spotify.com/album/16nNC5RMywKfmx9shprH12) | 2:41 | 2021-12-16 |  |
-| [Easy come easy go \- Edit](https://open.spotify.com/track/0TPnEGIdWuqnW85mIVqoie) | [Laurent De Wilde](https://open.spotify.com/artist/7Iupw9PXaMDkdkQ3oqtDOj) | [Easy come easy go \(Edit\)](https://open.spotify.com/album/5uBaxsQ1SZ6LfEqRCUgzZL) | 5:14 | 2023-06-20 |  |
+| [Easy come easy go \- Edit](https://open.spotify.com/track/0TPnEGIdWuqnW85mIVqoie) | [Laurent De Wilde](https://open.spotify.com/artist/7Iupw9PXaMDkdkQ3oqtDOj) | [Easy come easy go \(Edit\)](https://open.spotify.com/album/5uBaxsQ1SZ6LfEqRCUgzZL) | 5:14 | 2023-06-20 | 2026-01-30 |
 | [Easy Does It](https://open.spotify.com/track/0RIQBKhveHc4LA4BhtkstS) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 2:43 | 2021-12-16 |  |
 | [El Día Feliz Que Está Llegando](https://open.spotify.com/track/3tDgxtrndyfPWSZNiBpJXl) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [El Día Feliz Que Está Llegando](https://open.spotify.com/album/4hcdtal5UPhzK9Ix9yWy4f) | 4:15 | 2022-02-24 | 2023-01-12 |
 | [Everything Happens to Me](https://open.spotify.com/track/44DiSGodp1YooCyJfI2aeQ) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6) | 3:47 | 2022-06-28 | 2024-04-19 |
@@ -117,6 +117,7 @@
 | [Love for Sale](https://open.spotify.com/track/1mtHnelufpUHbpXf5OEgBd) | [Thom Rotella](https://open.spotify.com/artist/72FbTlHE6bOKc7HLQoa7pm) | [Love for Sale](https://open.spotify.com/album/6NTUQBVx2PEfQKmrgrSDGe) | 5:31 | 2024-09-06 |  |
 | [Lover Girl](https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 2:44 | 2025-08-29 |  |
 | [Mack the Knife](https://open.spotify.com/track/0RNxWy0PC3AyH4ThH3aGK6) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great American Songbook](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) | 3:21 | 2021-12-16 | 2023-01-12 |
+| [Markham Sunrise](https://open.spotify.com/track/7u9obPhFU5UqeWBksk56lP) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [Markham Sunrise](https://open.spotify.com/album/0rgY5ot2AlZrAwXJhVyChZ) | 3:13 | 2026-01-16 |  |
 | [Morning Song](https://open.spotify.com/track/3J1nV9wNN9yPwU9Lqdu1bP) | [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj) | [Score](https://open.spotify.com/album/7yVEbFI27UQkjfYPzUueo3) | 4:09 | 2022-10-11 | 2022-10-26 |
 | [Morning Song](https://open.spotify.com/track/7HL4OAOuAdjgnfvaLy7iYJ) | [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj) | [Score](https://open.spotify.com/album/331gr9fv5S0JTKxVkMFQ16) | 4:09 | 2021-12-16 | 2025-11-23 |
 | [Mountain Greenery \(From "Cafe Society" Soundtrack\)](https://open.spotify.com/track/1fLjpMWjiB9WavCBrPX1eH) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds), [Vince Giordano And The Nighthawks](https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO), [Vince Giordano](https://open.spotify.com/artist/7vP4zvpQXJgKVcFeGNAxxI), [Nighthawks Orchestra](https://open.spotify.com/artist/1m12PvAi6HuXaSp9vPizwS) | [Cafe Society \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0qhRd1Dw9TV0JHmwjG168A) | 2:32 | 2021-12-16 |  |

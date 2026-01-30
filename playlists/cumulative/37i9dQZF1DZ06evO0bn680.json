@@ -643,6 +643,36 @@
     },
     {
       "album": {
+        "name": "Rutter: Fancies",
+        "url": "https://open.spotify.com/album/0zfQc7xWWnexxPfE0tBy1x"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Duke Dobing",
+          "url": "https://open.spotify.com/artist/29IGwHD0BUR9FuQOKnYX1D"
+        },
+        {
+          "name": "Wayne Marshall",
+          "url": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186293,
+      "name": "IV. Waltz",
+      "url": "https://open.spotify.com/track/07ja5QOXSqD9h8x8bThK1H"
+    },
+    {
+      "album": {
         "name": "The Sacred Flame",
         "url": "https://open.spotify.com/album/7ERL64qc8JB2ioimlmxGBb"
       },
@@ -662,7 +692,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 116093,
       "name": "Jesu dulcis memoria",
       "url": "https://open.spotify.com/track/2uBGuyW7hmrwZNNTMFFhDS"

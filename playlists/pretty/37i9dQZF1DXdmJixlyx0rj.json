@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: The Deep)",
-  "num_followers": 34783,
+  "num_followers": 34826,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,26 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
+        "name": "Keep My Light On",
+        "url": "https://open.spotify.com/album/3HcZw9vfH6krvhgkhfkWSW"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Raiden",
+          "url": "https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Keep My Light On",
+      "url": "https://open.spotify.com/track/5zADzgQPu2VDODCcXANZou"
+    },
+    {
+      "added_at": "2026-01-23 02:07:01",
+      "album": {
         "name": "Keep Swimmin' Through x Baby Shark (Dance Remix)",
         "url": "https://open.spotify.com/album/4FJWDOLq0eiu0WGrJHqZfo"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 64389,
       "name": "Keep Swimmin' Through x Baby Shark (Dance Remix)",
       "url": "https://open.spotify.com/track/05w1GGQQl1NEw0hEznuANx"
-    },
-    {
-      "added_at": "2026-01-23 02:07:01",
-      "album": {
-        "name": "Keep My Light On",
-        "url": "https://open.spotify.com/album/3HcZw9vfH6krvhgkhfkWSW"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Raiden",
-          "url": "https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Keep My Light On",
-      "url": "https://open.spotify.com/track/5zADzgQPu2VDODCcXANZou"
     },
     {
       "added_at": "2026-01-23 02:07:01",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
+        "name": "Ash",
+        "url": "https://open.spotify.com/album/5S3Feym29lGQY8YJd8UTgu"
+      },
+      "artists": [
+        {
+          "name": "iiso",
+          "url": "https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v"
+        }
+      ],
+      "duration_ms": 144262,
+      "name": "Ash",
+      "url": "https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs"
+    },
+    {
+      "added_at": "2026-01-23 02:07:01",
+      "album": {
         "name": "1-1=0 (NOTHING WITHOUT YOU)",
         "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
       },
@@ -1259,18 +1275,22 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "Ash",
-        "url": "https://open.spotify.com/album/5S3Feym29lGQY8YJd8UTgu"
+        "name": "My Bad (feat. SHAUN)",
+        "url": "https://open.spotify.com/album/2L22h8Oxq7vbnKTv5SDfUu"
       },
       "artists": [
         {
-          "name": "iiso",
-          "url": "https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v"
+          "name": "Advanced",
+          "url": "https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY"
+        },
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
         }
       ],
-      "duration_ms": 144262,
-      "name": "Ash",
-      "url": "https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs"
+      "duration_ms": 209656,
+      "name": "My Bad (feat. SHAUN)",
+      "url": "https://open.spotify.com/track/7dQFzMYhTXTtIYyoiiHdr8"
     },
     {
       "added_at": "2026-01-23 02:07:01",
@@ -1315,26 +1335,6 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "My Bad (feat. SHAUN)",
-        "url": "https://open.spotify.com/album/2L22h8Oxq7vbnKTv5SDfUu"
-      },
-      "artists": [
-        {
-          "name": "Advanced",
-          "url": "https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY"
-        },
-        {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        }
-      ],
-      "duration_ms": 209656,
-      "name": "My Bad (feat. SHAUN)",
-      "url": "https://open.spotify.com/track/7dQFzMYhTXTtIYyoiiHdr8"
-    },
-    {
-      "added_at": "2026-01-23 02:07:01",
-      "album": {
         "name": "iScreaM Vol.12 : Bad Boy Remixes",
         "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
       },
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "Pondeggi",
-        "url": "https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "E Wata",
-          "url": "https://open.spotify.com/artist/2me33xonIRaOkg980kntBy"
-        }
-      ],
-      "duration_ms": 279400,
-      "name": "Pondeggi",
-      "url": "https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj"
-    },
-    {
-      "added_at": "2026-01-23 02:07:01",
-      "album": {
         "name": "STARDUST",
         "url": "https://open.spotify.com/album/58IMKl6lvTfzTLoy6sOjJL"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 179000,
       "name": "STARDUST",
       "url": "https://open.spotify.com/track/3BtCVejiOinwiGzPIbmsrA"
+    },
+    {
+      "added_at": "2026-01-23 02:07:01",
+      "album": {
+        "name": "Pondeggi",
+        "url": "https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "E Wata",
+          "url": "https://open.spotify.com/artist/2me33xonIRaOkg980kntBy"
+        }
+      ],
+      "duration_ms": 279400,
+      "name": "Pondeggi",
+      "url": "https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj"
     },
     {
       "added_at": "2026-01-23 02:07:01",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "Too Far",
-        "url": "https://open.spotify.com/album/15jknj7bcRgBYPk1u3RaBc"
-      },
-      "artists": [
-        {
-          "name": "jeonghyeon",
-          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
-        },
-        {
-          "name": "Noisy Choice",
-          "url": "https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID"
-        }
-      ],
-      "duration_ms": 143622,
-      "name": "Too Far",
-      "url": "https://open.spotify.com/track/5w1KPYqxVLZ34Bwc4pNTsq"
-    },
-    {
-      "added_at": "2026-01-23 02:07:01",
-      "album": {
         "name": "Breakthrough",
         "url": "https://open.spotify.com/album/7dU0vceNngXWT2XZUU4y9W"
       },
@@ -1823,6 +1803,26 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
+        "name": "Too Far",
+        "url": "https://open.spotify.com/album/15jknj7bcRgBYPk1u3RaBc"
+      },
+      "artists": [
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        },
+        {
+          "name": "Noisy Choice",
+          "url": "https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID"
+        }
+      ],
+      "duration_ms": 143622,
+      "name": "Too Far",
+      "url": "https://open.spotify.com/track/5w1KPYqxVLZ34Bwc4pNTsq"
+    },
+    {
+      "added_at": "2026-01-23 02:07:01",
+      "album": {
         "name": "iScreaM Vol.19 : FOREVER 1 Remixes",
         "url": "https://open.spotify.com/album/4DXE5rt8VQUZHmKIG57AYu"
       },
@@ -1867,26 +1867,6 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "TWO",
-        "url": "https://open.spotify.com/album/2O0QmR1oXCc70QLwYDn03z"
-      },
-      "artists": [
-        {
-          "name": "O3ohn",
-          "url": "https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI"
-        },
-        {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "WEAR AWAY",
-      "url": "https://open.spotify.com/track/216TkxBKw3ab0WiAePZvQO"
-    },
-    {
-      "added_at": "2026-01-23 02:07:01",
-      "album": {
         "name": "Kind of Love (feat. Ina Bravo)",
         "url": "https://open.spotify.com/album/4OcyPubs6iPrCqw2LJCAUd"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 200826,
       "name": "Kind of Love (feat. Ina Bravo)",
       "url": "https://open.spotify.com/track/7B7RcNZ804nKRXLir2yS7r"
+    },
+    {
+      "added_at": "2026-01-23 02:07:01",
+      "album": {
+        "name": "TWO",
+        "url": "https://open.spotify.com/album/2O0QmR1oXCc70QLwYDn03z"
+      },
+      "artists": [
+        {
+          "name": "O3ohn",
+          "url": "https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI"
+        },
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "WEAR AWAY",
+      "url": "https://open.spotify.com/track/216TkxBKw3ab0WiAePZvQO"
     },
     {
       "added_at": "2026-01-23 02:07:01",

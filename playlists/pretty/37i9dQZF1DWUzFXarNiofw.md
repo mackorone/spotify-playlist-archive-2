@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Joyce Wrice
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,113,212 likes - 199 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,113,255 likes - 199 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 14 | [You're My](https://open.spotify.com/track/0LmvbJfuLuFZxVWl8wGDJy) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [You're My](https://open.spotify.com/album/4mFzjQ1NzbzLCFbAPAVxL6) | 3:41 |
 | 15 | [i see red](https://open.spotify.com/track/3Gg7L1NuNNhqltvDgd6VHI) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [i see red](https://open.spotify.com/album/231uuW018MqyHPEGHHjZ8C) | 2:56 |
 | 16 | [same bed](https://open.spotify.com/track/4hipQPwuLqq9RFxlpVAJET) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [Budgie](https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89) | [keepsake](https://open.spotify.com/album/7qbYXzYoWTnlzDTHbs0oCS) | 2:35 |
-| 17 | [After All \(feat\. Mac Ayres, Braxton Cook\)](https://open.spotify.com/track/1dKs1cUWl57GpEW20FAw0h) | [GiddyGang](https://open.spotify.com/artist/5hgceJkuyoeET8VNinxe4Q), [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL), [Vuyo](https://open.spotify.com/artist/6pWOGQubsgAiEZmzioIyDi), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [After All \(feat\. Mac Ayres, Braxton Cook\)](https://open.spotify.com/album/4MnZnhpFL8gT0EIrB7Q2ZR) | 4:08 |
+| 17 | [After All](https://open.spotify.com/track/1dKs1cUWl57GpEW20FAw0h) | [GiddyGang](https://open.spotify.com/artist/5hgceJkuyoeET8VNinxe4Q), [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL), [Vuyo](https://open.spotify.com/artist/6pWOGQubsgAiEZmzioIyDi), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [After All](https://open.spotify.com/album/4MnZnhpFL8gT0EIrB7Q2ZR) | 4:08 |
 | 18 | [footwork](https://open.spotify.com/track/1bkNnIkZpBB4tdhZwMji6Q) | [Ben Esser](https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [footwork](https://open.spotify.com/album/23HUSuiX9Xtif1N5iBh5uj) | 2:50 |
 | 19 | [It’s All Love \(feat\. Yazmin Lacey\)](https://open.spotify.com/track/4E3KtwZMFrikOc4k0mQToP) | [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [It’s All Love \(feat\. Yazmin Lacey\)](https://open.spotify.com/album/17CNXUhZwnrfgAO7LXqSLx) | 3:28 |
 | 20 | [Love Like This](https://open.spotify.com/track/3lTIQsde6aWd46WoKO2pry) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Love Like This](https://open.spotify.com/album/0xDdjGZzyR1vWTFFmwBMg2) | 3:30 |

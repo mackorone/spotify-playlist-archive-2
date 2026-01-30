@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Megan Moroney",
-  "num_followers": 143167,
+  "num_followers": 143160,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2026-01-23 05:00:32",
       "album": {
+        "name": "Live From The Palomino",
+        "url": "https://open.spotify.com/album/5Ck7OfACj7bJ99vRf2oY3T"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 232158,
+      "name": "Drinkin' Problem - Live From The Palomino",
+      "url": "https://open.spotify.com/track/3PfpOwE8tDp7tGy8oHiVaf"
+    },
+    {
+      "added_at": "2026-01-23 05:00:32",
+      "album": {
         "name": "Live From Telluride",
         "url": "https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 292579,
       "name": "Woman, Amen - Live",
       "url": "https://open.spotify.com/track/5BCuz73OvAxzOQp54vWo85"
-    },
-    {
-      "added_at": "2026-01-23 05:00:32",
-      "album": {
-        "name": "Live From The Palomino",
-        "url": "https://open.spotify.com/album/5Ck7OfACj7bJ99vRf2oY3T"
-      },
-      "artists": [
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
-        }
-      ],
-      "duration_ms": 232158,
-      "name": "Drinkin' Problem - Live From The Palomino",
-      "url": "https://open.spotify.com/track/3PfpOwE8tDp7tGy8oHiVaf"
     },
     {
       "added_at": "2026-01-23 05:00:32",

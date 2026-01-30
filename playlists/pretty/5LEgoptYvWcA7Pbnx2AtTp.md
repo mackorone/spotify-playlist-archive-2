@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 9 likes - 172 songs - 9 hr 59 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 9 likes - 173 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,5 +180,6 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 | 170 | [Whose Eye Is It Anyway???](https://open.spotify.com/track/480xcT2WmBvhMtKd9jj7ey) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [To Mend the Sun](https://open.spotify.com/album/2ujYOS6J7C4t2j7kz8F0xm) | 2:43 |
 | 171 | [Disco Snails](https://open.spotify.com/track/0yin14PPCxLBorpVqlON8V) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Zachary Barker](https://open.spotify.com/artist/5qUT1yYC5tJiz928OCYG1c) | [Dot](https://open.spotify.com/album/4voc4nmHBjqM4Dm5rjMDUs) | 3:13 |
 | 172 | [Puppet Loosely Strung](https://open.spotify.com/track/54zjAmM6zJoW8X0t8brP7u) | [The Correspondents](https://open.spotify.com/artist/3VvmUsYPzFheK2wJGKcXxp) | [Puppet Loosely Strung](https://open.spotify.com/album/7BxQVuQpjIgdJj8pkzq2ix) | 5:14 |
+| 173 | [Get It Up](https://open.spotify.com/track/2bPZ7cEBa5SKliThdwdiK7) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [If](https://open.spotify.com/album/7oCdAqjucwIz7ToQGOV20P) | 2:35 |
 
-Snapshot ID: `AAAA7WYne7fAYD1Ciz0eVcG/DdF+5Dd3`
+Snapshot ID: `AAAA8D+QY2LPjSq7r3+N4cLRfY/7bHll`

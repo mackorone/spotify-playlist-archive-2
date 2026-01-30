@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds from Asia. Cover:Shintaro Sakamoto (Japan)",
+  "description": "Hottest indie sounds from Asia. Cover:Zeke and the Popo (Indonesia)",
   "name": ".ORG",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 209712,
       "name": "(how could i be)honest?",
       "url": "https://open.spotify.com/track/7s0ygb2NL1HadOECm3fv6D"
@@ -4592,7 +4592,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 328357,
       "name": "BLUE DIVER",
       "url": "https://open.spotify.com/track/7klP0JqPWQT0JfGG8phZjt"
@@ -4672,6 +4672,24 @@
       "duration_ms": 162895,
       "name": "Blurred Lines",
       "url": "https://open.spotify.com/track/0OEk3AVNLzNjWhn6R1P5wB"
+    },
+    {
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/2DC22KxWVf8Veu5ddwBOSW"
+      },
+      "artists": [
+        {
+          "name": "TY:DEL",
+          "url": "https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164050,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/75ZSTrLVy8w4pZ2AJczLvx"
     },
     {
       "album": {
@@ -7518,7 +7536,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 295000,
       "name": "Crave Me, Superstar",
       "url": "https://open.spotify.com/track/58zF0g3So838gVtFMWJQ3h"
@@ -8324,7 +8342,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 456774,
       "name": "Daydreaming \u2160",
       "url": "https://open.spotify.com/track/0F1YeN3S1L0dSiU371a4Sd"
@@ -9198,6 +9216,28 @@
       "duration_ms": 242466,
       "name": "Do The Dance",
       "url": "https://open.spotify.com/track/7rMomVJTqGMjJnXRlgf4Wh"
+    },
+    {
+      "album": {
+        "name": "Do What You Gotta (feat. Sunset Rollercoaster)",
+        "url": "https://open.spotify.com/album/4eXihWYidaaT9dIA25HxqN"
+      },
+      "artists": [
+        {
+          "name": "PREP",
+          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
+        },
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188253,
+      "name": "Do What You Gotta (feat. Sunset Rollercoaster)",
+      "url": "https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS"
     },
     {
       "album": {
@@ -13111,6 +13151,24 @@
     },
     {
       "album": {
+        "name": "Ghost Circuit",
+        "url": "https://open.spotify.com/album/0nSy3qSkjQxQ5Xbv1XEKoR"
+      },
+      "artists": [
+        {
+          "name": "Zeke And The Popo",
+          "url": "https://open.spotify.com/artist/1NpRXY8edspDqltxFmbZ4j"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276659,
+      "name": "Ghost Circuit",
+      "url": "https://open.spotify.com/track/2toEEYtgSl6MWQZmGrvtuU"
+    },
+    {
+      "album": {
         "name": "ghost everyday",
         "url": "https://open.spotify.com/album/5F7ub9vl3S0SvfpxALwMjQ"
       },
@@ -13830,7 +13888,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 195585,
       "name": "Green Car",
       "url": "https://open.spotify.com/track/3IAYRWhwoMwi7CUCDLEX1f"
@@ -14546,7 +14604,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 237045,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/3DpLteY0bgkKgpa3OSRBso"
@@ -17235,6 +17293,24 @@
     },
     {
       "album": {
+        "name": "If you calling, I'm going",
+        "url": "https://open.spotify.com/album/2jK6WERlbsa07rTflCII8N"
+      },
+      "artists": [
+        {
+          "name": "Secret Police",
+          "url": "https://open.spotify.com/artist/6vuITEnveR3E7vk8pNJoy6"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218839,
+      "name": "If you calling, I'm going",
+      "url": "https://open.spotify.com/track/65Rh8rkenDC2JUXDxjo3tx"
+    },
+    {
+      "album": {
         "name": "If you cry, I\u2019ll cry (feat. H I N A N O)",
         "url": "https://open.spotify.com/album/543SUzBSneP2wLAbfuIPwt"
       },
@@ -19026,7 +19102,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 315333,
       "name": "knit",
       "url": "https://open.spotify.com/track/571q4ZozwvXxDTGYtiSh4C"
@@ -20036,6 +20112,28 @@
       "duration_ms": 183189,
       "name": "LIGHT YEARS",
       "url": "https://open.spotify.com/track/0BQZ8hCbKp7ViL1jObzkXZ"
+    },
+    {
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/37wxS7hulvxgsrp160FyY1"
+      },
+      "artists": [
+        {
+          "name": "ermhoi",
+          "url": "https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc"
+        },
+        {
+          "name": "HIMI",
+          "url": "https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278200,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/7uSU8IsXLy8E3mJ6HTHmo8"
     },
     {
       "album": {
@@ -21250,6 +21348,24 @@
       "duration_ms": 419598,
       "name": "Lukewarm Mess",
       "url": "https://open.spotify.com/track/48mJksC9bEs7SBI2P9a9fd"
+    },
+    {
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/4HRIXmKZDARbHBygqOmcie"
+      },
+      "artists": [
+        {
+          "name": "Evil Dude",
+          "url": "https://open.spotify.com/artist/0LJ45qTiyfOjlwRXMSctUZ"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201944,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/4T64N4YuNawc5QFqrE3Dxy"
     },
     {
       "album": {
@@ -23598,7 +23714,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 243692,
       "name": "Mungkin",
       "url": "https://open.spotify.com/track/4DRDPA5Ep6JFXqhn6ywpal"
@@ -23620,6 +23736,24 @@
       "duration_ms": 135750,
       "name": "Mungkin Saja",
       "url": "https://open.spotify.com/track/0P9SQLVE76N3QX4AkiyuM7"
+    },
+    {
+      "album": {
+        "name": "muscle memory",
+        "url": "https://open.spotify.com/album/15tRnZHIJ2Cv2fdZ5FgzSJ"
+      },
+      "artists": [
+        {
+          "name": "Clara Benin",
+          "url": "https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201375,
+      "name": "muscle memory",
+      "url": "https://open.spotify.com/track/33Otu6ABPu5qc0vApuX6wJ"
     },
     {
       "album": {
@@ -24986,6 +25120,24 @@
       "duration_ms": 151874,
       "name": "No sugar \u22b9 \u08ea \u02d6",
       "url": "https://open.spotify.com/track/0sTsKFqoTVJSgqrRR858Yj"
+    },
+    {
+      "album": {
+        "name": "NO THANKS",
+        "url": "https://open.spotify.com/album/0Ff2Gdu9qrgz37yDWzhBXY"
+      },
+      "artists": [
+        {
+          "name": "Shohini",
+          "url": "https://open.spotify.com/artist/3WcxoMXDOK4nZBUCm1QCSd"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188719,
+      "name": "NO THANKS",
+      "url": "https://open.spotify.com/track/3xPDY1ei8CfpXK4C7UD8J3"
     },
     {
       "album": {
@@ -29883,6 +30035,24 @@
     },
     {
       "album": {
+        "name": "savior",
+        "url": "https://open.spotify.com/album/2JP5Mp4SKK352Jeb4mLrUa"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163559,
+      "name": "savior",
+      "url": "https://open.spotify.com/track/6Heo2pp06wmsxb64urcoR0"
+    },
+    {
+      "album": {
         "name": "Say Hello",
         "url": "https://open.spotify.com/album/5uSHHBZufgqaqrs3jYfcxr"
       },
@@ -30740,7 +30910,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 318750,
       "name": "Signature",
       "url": "https://open.spotify.com/track/3DQnvluroUGtqM86C9FBHu"
@@ -32907,6 +33077,24 @@
     },
     {
       "album": {
+        "name": "loop vol. 1 - Sugar",
+        "url": "https://open.spotify.com/album/1cOTf65S6zCKTkmMuRriIR"
+      },
+      "artists": [
+        {
+          "name": "We Are The Night",
+          "url": "https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229173,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/1KQVk62nF7UGf38Q4LniGM"
+    },
+    {
+      "album": {
         "name": "sulky baby",
         "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
       },
@@ -33922,7 +34110,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 242890,
       "name": "Swim",
       "url": "https://open.spotify.com/track/4jlh1lWcJ0qAXTCroqKAkB"
@@ -36114,7 +36302,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 249107,
       "name": "Too late",
       "url": "https://open.spotify.com/track/6EST5938544IpKZhFk5ESN"
@@ -39339,6 +39527,24 @@
     },
     {
       "album": {
+        "name": "Wish I Could",
+        "url": "https://open.spotify.com/album/6ihEtJsBeGpC2uPMlI29Gc"
+      },
+      "artists": [
+        {
+          "name": "Patinda",
+          "url": "https://open.spotify.com/artist/0phlhzC4Oi9uh5yJCFQtdH"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151612,
+      "name": "Wish I Could",
+      "url": "https://open.spotify.com/track/2NLiTULANK0gBrVba6HWlf"
+    },
+    {
+      "album": {
         "name": "i'll be alright, right?",
         "url": "https://open.spotify.com/album/4B714tXFBvBXaXG9lcVf6P"
       },
@@ -41652,6 +41858,24 @@
       "duration_ms": 152259,
       "name": "\u306a\u3093\u3066\u306d",
       "url": "https://open.spotify.com/track/71TekkQ6MUZf8wsUKhuxhx"
+    },
+    {
+      "album": {
+        "name": "\u306e\u3073\u3057\u308d",
+        "url": "https://open.spotify.com/album/48AtXqpHhoWVCOBm70H98C"
+      },
+      "artists": [
+        {
+          "name": "MONO NO AWARE",
+          "url": "https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243607,
+      "name": "\u306e\u3073\u3057\u308d",
+      "url": "https://open.spotify.com/track/3K3DKM9L29UkITFBW3AdrJ"
     },
     {
       "album": {
@@ -44460,7 +44684,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 275925,
       "name": "\u8a00\u4f1d",
       "url": "https://open.spotify.com/track/28O58Xm1nOFvVOERz1JCpx"

@@ -1,6 +1,6 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 65663,
+  "num_followers": 65698,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
@@ -487,26 +487,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Moog For Love",
-        "url": "https://open.spotify.com/album/1ryg2ELCFZ0y1ngN3EiKlT"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 195136,
-      "name": "Feel Like I Do",
-      "url": "https://open.spotify.com/track/663E41fUIDEnzN7xTnFLT0"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Howling (\u00c2me Remix)",
         "url": "https://open.spotify.com/album/3qHg26OrsZMxmd2Y8X6WW5"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 485220,
       "name": "Howling - \u00c2me Remix",
       "url": "https://open.spotify.com/track/78jIj6Ph2364zg1ZVIvbIN"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Moog For Love",
+        "url": "https://open.spotify.com/album/1ryg2ELCFZ0y1ngN3EiKlT"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 195136,
+      "name": "Feel Like I Do",
+      "url": "https://open.spotify.com/track/663E41fUIDEnzN7xTnFLT0"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "It's the Arps",
-        "url": "https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp"
-      },
-      "artists": [
-        {
-          "name": "Todd Terje",
-          "url": "https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw"
-        }
-      ],
-      "duration_ms": 400751,
-      "name": "Inspector Norse",
-      "url": "https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "New Energy",
         "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 311893,
       "name": "Lush",
       "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "It's the Arps",
+        "url": "https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp"
+      },
+      "artists": [
+        {
+          "name": "Todd Terje",
+          "url": "https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw"
+        }
+      ],
+      "duration_ms": 400751,
+      "name": "Inspector Norse",
+      "url": "https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Nothing Is Still",
-        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
-      },
-      "artists": [
-        {
-          "name": "Leon Vynehall",
-          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Movements (Chapter III)",
-      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 206746,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/4b0RAiqz6oEZvvpbiFuIAp"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Nothing Is Still",
+        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
+      },
+      "artists": [
+        {
+          "name": "Leon Vynehall",
+          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Movements (Chapter III)",
+      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig"
-      },
-      "artists": [
-        {
-          "name": "Hercules & Love Affair",
-          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
-        }
-      ],
-      "duration_ms": 345560,
-      "name": "Blind - Radio Edit",
-      "url": "https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Escapism",
         "url": "https://open.spotify.com/album/7GoQwmBYFCOPSdOOp8OUds"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 219474,
       "name": "LONG DISTANCE",
       "url": "https://open.spotify.com/track/6ih6vYggeYPomAbJupA4hA"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig"
+      },
+      "artists": [
+        {
+          "name": "Hercules & Love Affair",
+          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
+        }
+      ],
+      "duration_ms": 345560,
+      "name": "Blind - Radio Edit",
+      "url": "https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1255,38 +1255,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Joli Mai",
-        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 226479,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
-        "name": "Seconds",
-        "url": "https://open.spotify.com/album/1NZfXehwnpGrl6kpDMdozz"
-      },
-      "artists": [
-        {
-          "name": "Ghost Loft",
-          "url": "https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR"
-        }
-      ],
-      "duration_ms": 172496,
-      "name": "Seconds",
-      "url": "https://open.spotify.com/track/7603o589huckPbiELnUKgu"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "H\u00e9misph\u00e8re / Je m'ennuie",
         "url": "https://open.spotify.com/album/59ZzI9aLiY0H5b4etn8uu0"
       },
@@ -1299,6 +1267,22 @@
       "duration_ms": 433388,
       "name": "H\u00e9misph\u00e8re",
       "url": "https://open.spotify.com/track/7fDvGoJhLSeJPF4cVlEsVs"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Joli Mai",
+        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 226479,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1319,18 +1303,18 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "French Kiwi Juice",
-        "url": "https://open.spotify.com/album/0jJ7mMkCkTe7p9EJgSRxgi"
+        "name": "Seconds",
+        "url": "https://open.spotify.com/album/1NZfXehwnpGrl6kpDMdozz"
       },
       "artists": [
         {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+          "name": "Ghost Loft",
+          "url": "https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Go Back Home",
-      "url": "https://open.spotify.com/track/3KrTlYioYhUIvd8IoptcTN"
+      "duration_ms": 172496,
+      "name": "Seconds",
+      "url": "https://open.spotify.com/track/7603o589huckPbiELnUKgu"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1347,6 +1331,22 @@
       "duration_ms": 195333,
       "name": "Chasing Shadows",
       "url": "https://open.spotify.com/track/1wXWuZgVO52kWbiQNTaBb1"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "French Kiwi Juice",
+        "url": "https://open.spotify.com/album/0jJ7mMkCkTe7p9EJgSRxgi"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Go Back Home",
+      "url": "https://open.spotify.com/track/3KrTlYioYhUIvd8IoptcTN"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "MOVEMENT",
-        "url": "https://open.spotify.com/album/4ToXUKQJGUgtUrSSqB2Bck"
-      },
-      "artists": [
-        {
-          "name": "MOVEMENT",
-          "url": "https://open.spotify.com/artist/3x7BaW5q1SDNv6bVrbOCmX"
-        }
-      ],
-      "duration_ms": 222339,
-      "name": "Ivory",
-      "url": "https://open.spotify.com/track/47prNzqRUL0L9z9qZRRbZj"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "(III)",
         "url": "https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 156706,
       "name": "Affection",
       "url": "https://open.spotify.com/track/3AFpIlNR4DEJ1WC7qyOHU8"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "MOVEMENT",
+        "url": "https://open.spotify.com/album/4ToXUKQJGUgtUrSSqB2Bck"
+      },
+      "artists": [
+        {
+          "name": "MOVEMENT",
+          "url": "https://open.spotify.com/artist/3x7BaW5q1SDNv6bVrbOCmX"
+        }
+      ],
+      "duration_ms": 222339,
+      "name": "Ivory",
+      "url": "https://open.spotify.com/track/47prNzqRUL0L9z9qZRRbZj"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Dual",
-        "url": "https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 229155,
-      "name": "Without",
-      "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Simmer Down",
         "url": "https://open.spotify.com/album/4UHxwsh3akwnS8AnFpoDdr"
       },
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Mirror Maru - EP",
-        "url": "https://open.spotify.com/album/74j51jlqXt7csQ7o2bntwZ"
+        "name": "Dual",
+        "url": "https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc"
       },
       "artists": [
         {
-          "name": "Cashmere Cat",
-          "url": "https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG"
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
         }
       ],
-      "duration_ms": 242133,
-      "name": "Mirror Maru",
-      "url": "https://open.spotify.com/track/52Pp8J18LYkyWL9OXhRUZh"
+      "duration_ms": 229155,
+      "name": "Without",
+      "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1551,6 +1535,22 @@
       "duration_ms": 245585,
       "name": "Girl",
       "url": "https://open.spotify.com/track/4x94qgTeMEcwj4X1APUnpb"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Mirror Maru - EP",
+        "url": "https://open.spotify.com/album/74j51jlqXt7csQ7o2bntwZ"
+      },
+      "artists": [
+        {
+          "name": "Cashmere Cat",
+          "url": "https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "Mirror Maru",
+      "url": "https://open.spotify.com/track/52Pp8J18LYkyWL9OXhRUZh"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Untrue",
-        "url": "https://open.spotify.com/album/1C30LhZB9I48LdpVCRRYvq"
-      },
-      "artists": [
-        {
-          "name": "Burial",
-          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
-        }
-      ],
-      "duration_ms": 240426,
-      "name": "Archangel",
-      "url": "https://open.spotify.com/track/6evpAJCR5GeeHDGgv3aXb3"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Electric Lines (Bonus Edition)",
         "url": "https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 239076,
       "name": "Truth Is Light",
       "url": "https://open.spotify.com/track/2XTfdMl5x2qgGl9ZVjmNhF"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 344158,
+      "name": "Hours",
+      "url": "https://open.spotify.com/track/60cdK07Fkyj2Ss2Zj3pw9I"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
+        "name": "Untrue",
+        "url": "https://open.spotify.com/album/1C30LhZB9I48LdpVCRRYvq"
       },
       "artists": [
         {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
         }
       ],
-      "duration_ms": 344158,
-      "name": "Hours",
-      "url": "https://open.spotify.com/track/60cdK07Fkyj2Ss2Zj3pw9I"
+      "duration_ms": 240426,
+      "name": "Archangel",
+      "url": "https://open.spotify.com/track/6evpAJCR5GeeHDGgv3aXb3"
     },
     {
       "added_at": "2025-08-22 17:54:07",

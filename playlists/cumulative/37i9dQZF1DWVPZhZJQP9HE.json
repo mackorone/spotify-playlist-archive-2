@@ -328,7 +328,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 162406,
       "name": "Aasai Aasai",
       "url": "https://open.spotify.com/track/5xatPDdiw1vKGx5laMlG4F"
@@ -3305,6 +3305,32 @@
     },
     {
       "album": {
+        "name": "EYE CANDY",
+        "url": "https://open.spotify.com/album/1MLxhwg6pttxDdkxGFiuIp"
+      },
+      "artists": [
+        {
+          "name": "Rukhsar Bandhukia",
+          "url": "https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC"
+        },
+        {
+          "name": "SUVI",
+          "url": "https://open.spotify.com/artist/5gP4aEL0OvBlxgvod5C8jL"
+        },
+        {
+          "name": "Mann Taneja",
+          "url": "https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "EYE CANDY",
+      "url": "https://open.spotify.com/track/023OJjQEqzScL5kkocQNcf"
+    },
+    {
+      "album": {
         "name": "Ezhundu Po",
         "url": "https://open.spotify.com/album/644H0OppWK9lIEHCxoqECd"
       },
@@ -3350,6 +3376,28 @@
       "duration_ms": 217485,
       "name": "Falling in Love",
       "url": "https://open.spotify.com/track/5ojSfxtUyEaEBqJOHICOfo"
+    },
+    {
+      "album": {
+        "name": "Fancy Store (From \"Atti Culture\")",
+        "url": "https://open.spotify.com/album/61FdiV3mqRtVRAMyEQa94o"
+      },
+      "artists": [
+        {
+          "name": "ofRO",
+          "url": "https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts"
+        },
+        {
+          "name": "Kelithee",
+          "url": "https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197367,
+      "name": "Fancy Store - From \"Atti Culture\"",
+      "url": "https://open.spotify.com/track/4DDZ9oM1mv7hiCuxToTGwj"
     },
     {
       "album": {
@@ -3892,7 +3940,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 212222,
       "name": "Hey Mama",
       "url": "https://open.spotify.com/track/0d27hofivsEsGCE4b9pYJZ"
@@ -5532,6 +5580,28 @@
       "duration_ms": 268800,
       "name": "Kadhalkaari",
       "url": "https://open.spotify.com/track/1NxzU4MHV6PzdFWi3QA2hg"
+    },
+    {
+      "album": {
+        "name": "Kadhol (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/4425jl7MCjecjAH3OTATNB"
+      },
+      "artists": [
+        {
+          "name": "Urban Thozha",
+          "url": "https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX"
+        },
+        {
+          "name": "Praveen PKP",
+          "url": "https://open.spotify.com/artist/4d9SUhuaX9w8hdWSQqYFAK"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138250,
+      "name": "Kadhol - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/1b9GOREBGLcBRWaeZadGq2"
     },
     {
       "album": {
@@ -7994,7 +8064,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 213478,
       "name": "Mazhalai Thaye",
       "url": "https://open.spotify.com/track/4NOAqJUUVIN0AwuByt3lYo"
@@ -10720,6 +10790,28 @@
       "duration_ms": 250555,
       "name": "Paarvai Yenna",
       "url": "https://open.spotify.com/track/237fzFQBlOrVG0LSf5Im0t"
+    },
+    {
+      "album": {
+        "name": "Paatha Edathila",
+        "url": "https://open.spotify.com/album/03VPIqFCLf2B3mCafybAya"
+      },
+      "artists": [
+        {
+          "name": "808Krshna",
+          "url": "https://open.spotify.com/artist/4BmMGRjcKQTnEaM2nCIaBE"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192984,
+      "name": "Paatha Edathila",
+      "url": "https://open.spotify.com/track/1CaDbj95jdxRh0Tl0CXPDQ"
     },
     {
       "album": {
@@ -13967,6 +14059,24 @@
     },
     {
       "album": {
+        "name": "Theeradha",
+        "url": "https://open.spotify.com/album/7L9ESTRBYoJ8zcTSSE6UI8"
+      },
+      "artists": [
+        {
+          "name": "Luksimi Sivaneswaralingam",
+          "url": "https://open.spotify.com/artist/1yu8UL7E8i1XSFjHLjbYUb"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Theeradha",
+      "url": "https://open.spotify.com/track/0pcehazrEcS8txh2APAjKj"
+    },
+    {
+      "album": {
         "name": "Theeradhey",
         "url": "https://open.spotify.com/album/0aG1HkEZ1ZMQRC7ZiGO6zG"
       },
@@ -14600,7 +14710,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 205714,
       "name": "Unkitte",
       "url": "https://open.spotify.com/track/6yOxoRnw3mUstSBA6La1SV"
@@ -15664,7 +15774,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 147034,
       "name": "VETRIVEL",
       "url": "https://open.spotify.com/track/4LF2sbuK7vDvNj8QiMcBmM"

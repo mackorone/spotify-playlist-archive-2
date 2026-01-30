@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest and recent Ghana party starters. Cover: Kuami Eugene",
+  "description": "The hottest and recent Ghana party starters. Cover: R2Bees",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 193934,
       "name": "Aseda",
       "url": "https://open.spotify.com/track/5JOw9e0lY7jOZBqJkQRobz"
@@ -5842,7 +5842,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 214455,
       "name": "Koko",
       "url": "https://open.spotify.com/track/30e6LzqnrCbfwbJQHZsCFB"
@@ -6106,7 +6106,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 117298,
       "name": "Lamine Yamal",
       "url": "https://open.spotify.com/track/2bpfiv5ndUL4VtnUANtERs"
@@ -7471,6 +7471,24 @@
     },
     {
       "album": {
+        "name": "Noko Fio (Money Dey Talk)",
+        "url": "https://open.spotify.com/album/0RlxxDmlWe7uqNuHfRqLiJ"
+      },
+      "artists": [
+        {
+          "name": "E.L",
+          "url": "https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215206,
+      "name": "Noko Fio (Money Dey Talk)",
+      "url": "https://open.spotify.com/track/5pEDejb1qHo9t4Cmgay9hI"
+    },
+    {
+      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
       },
@@ -8394,7 +8412,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 228750,
       "name": "Our Wife",
       "url": "https://open.spotify.com/track/51kRliH4DuTVRV20tDRr7x"
@@ -8430,7 +8448,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 236460,
       "name": "Over",
       "url": "https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B"
@@ -8804,6 +8822,28 @@
       "duration_ms": 201428,
       "name": "Piano II",
       "url": "https://open.spotify.com/track/2cTnLqq5dCxDNA6w9q5amv"
+    },
+    {
+      "album": {
+        "name": "Pick Pick",
+        "url": "https://open.spotify.com/album/1hM4TfDlb0ElOWFXmWF9hs"
+      },
+      "artists": [
+        {
+          "name": "Tinchy Stryder",
+          "url": "https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx"
+        },
+        {
+          "name": "Kojo Funds",
+          "url": "https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "Pick Pick",
+      "url": "https://open.spotify.com/track/2NNyYGLjzhVVPU7gQBluqR"
     },
     {
       "album": {
@@ -9294,6 +9334,24 @@
       "duration_ms": 177523,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/5hyZCXXu0RFA5bMnIVOI36"
+    },
+    {
+      "album": {
+        "name": "Ride Solo",
+        "url": "https://open.spotify.com/album/5DYNIzeEqVdzYl0w23wvfo"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Ride Solo",
+      "url": "https://open.spotify.com/track/12ncJUshM46lUN0DS7kDEk"
     },
     {
       "album": {

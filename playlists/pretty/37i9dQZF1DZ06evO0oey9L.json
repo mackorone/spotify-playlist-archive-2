@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 97342,
+  "num_followers": 97393,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXgAAAAAAADoKjixIpSFKjReYqgPFfKy",
+  "snapshot_id": "aXlRgAAAAAAcbSJFx19WrA7rxNIUnSTi",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musas",
-        "url": "https://open.spotify.com/album/03H8sPu8hNwdAW7SiGZXGi"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 144903,
-      "name": "Musas",
-      "url": "https://open.spotify.com/track/6cqXMULD4XYoQQyEUmL49M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Prometido Es Deuda (Vol.3)",
         "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 241424,
       "name": "Cr\u00f3nicas De Mi Guitarra",
       "url": "https://open.spotify.com/track/76ZaecbpNsMJdhoB0LkhJG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Musas",
+        "url": "https://open.spotify.com/album/03H8sPu8hNwdAW7SiGZXGi"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 144903,
+      "name": "Musas",
+      "url": "https://open.spotify.com/track/6cqXMULD4XYoQQyEUmL49M"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Va Por Todos",
-        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 206861,
-      "name": "Vida De Locura",
-      "url": "https://open.spotify.com/track/72kmnOvZvpNfsIsbGQ6FGH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Prometido Es Deuda Vol.2",
         "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 153289,
       "name": "JJ Es La Clave",
       "url": "https://open.spotify.com/track/1g6LesEZ6Ai99arHJv6hBr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 206861,
+      "name": "Vida De Locura",
+      "url": "https://open.spotify.com/track/72kmnOvZvpNfsIsbGQ6FGH"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 196500,
-      "name": "Miran La Apariencia",
-      "url": "https://open.spotify.com/track/3FhARguQQiWEunemrkl3Yh"
+      "duration_ms": 197247,
+      "name": "WAX",
+      "url": "https://open.spotify.com/track/7utzGYXtCeiFOMTAWzU6BJ"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 197247,
-      "name": "WAX",
-      "url": "https://open.spotify.com/track/7utzGYXtCeiFOMTAWzU6BJ"
+      "duration_ms": 196500,
+      "name": "Miran La Apariencia",
+      "url": "https://open.spotify.com/track/3FhARguQQiWEunemrkl3Yh"
     },
     {
       "added_at": null,

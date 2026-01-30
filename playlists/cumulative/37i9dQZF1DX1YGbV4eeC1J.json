@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Mimi Mars",
+  "description": "What is your love language? Say it in Swahili.  Cover: Yammi",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -566,7 +566,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 150173,
       "name": "Because Of Love",
       "url": "https://open.spotify.com/track/6HAygKbSMRxHARvjRkX6jK"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 170400,
       "name": "Body",
       "url": "https://open.spotify.com/track/5CLaOLPBVMYezpGZgHIAeV"
@@ -989,6 +989,24 @@
     },
     {
       "album": {
+        "name": "Darasa La Saba",
+        "url": "https://open.spotify.com/album/2wmpUJYl76GbTXEBJn52qV"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260413,
+      "name": "Darasa La Saba",
+      "url": "https://open.spotify.com/track/2kK6L0G26k6GrYCVG6BKwX"
+    },
+    {
+      "album": {
         "name": "Love & Vibes",
         "url": "https://open.spotify.com/album/1kHwfAtBDOcE1cWChXeGNa"
       },
@@ -1098,7 +1116,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 206543,
       "name": "Dont Love Me",
       "url": "https://open.spotify.com/track/71CY96EAelYWqxJqSPDd9p"
@@ -1548,6 +1566,24 @@
       "duration_ms": 234000,
       "name": "Hawataweza",
       "url": "https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0"
+    },
+    {
+      "album": {
+        "name": "Hayanogi",
+        "url": "https://open.spotify.com/album/1OeqcTOml3iCr45fZhZFoS"
+      },
+      "artists": [
+        {
+          "name": "Yammi",
+          "url": "https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204932,
+      "name": "Hayanogi",
+      "url": "https://open.spotify.com/track/3CsK7zOiSlT58HlRHKASOh"
     },
     {
       "album": {
@@ -3594,6 +3630,24 @@
       "duration_ms": 181416,
       "name": "Naisha",
       "url": "https://open.spotify.com/track/5d5bOX4rcX8PaF3KqCKu0D"
+    },
+    {
+      "album": {
+        "name": "Najipenda",
+        "url": "https://open.spotify.com/album/1o41cWQLB1wgbvtRfmp3f8"
+      },
+      "artists": [
+        {
+          "name": "Lony Bway",
+          "url": "https://open.spotify.com/artist/2lCSNBa7XKaxqgIlAhGXFJ"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165957,
+      "name": "Najipenda",
+      "url": "https://open.spotify.com/track/0qWmdMX297pBnDSlozN5pl"
     },
     {
       "album": {

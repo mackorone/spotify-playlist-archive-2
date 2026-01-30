@@ -1993,6 +1993,24 @@
     },
     {
       "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/0Yp5hkhW6vKbG5AqLgY4Wf"
+      },
+      "artists": [
+        {
+          "name": "Slow Fiction",
+          "url": "https://open.spotify.com/artist/3ZyjpHbSpzsLV3ZEyJZBAW"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236635,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/0k0mPVleEMaHlFXsUlgNCu"
+    },
+    {
+      "album": {
         "name": "Bucket",
         "url": "https://open.spotify.com/album/3m9D0jKVo6ePClPxHnaPKS"
       },
@@ -11432,7 +11450,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 214490,
       "name": "Soak",
       "url": "https://open.spotify.com/track/2ZX6kJnF1sFD24xzCrTqEt"

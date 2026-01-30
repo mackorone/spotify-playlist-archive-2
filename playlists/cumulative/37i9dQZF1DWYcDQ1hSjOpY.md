@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-1,203 songs - 2 day 9 hr 58 min
+1,207 songs - 2 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [A View of the World](https://open.spotify.com/track/0HdY6r6dTWZqWpBCDYsGz1) | [Geonose](https://open.spotify.com/artist/4HMimTAIfAny7O6iToeY3J) | [A View of the World](https://open.spotify.com/album/0hiOyQhl10gvBrvsKJeCvI) | 3:26 | 2024-07-09 |  |
 | [A Waiting](https://open.spotify.com/track/6eua7DXiCZaYulrVuPI3i7) | [Even Massi](https://open.spotify.com/artist/2u7J0lL8WdlZBR6SqfyGFb) | [Delusion](https://open.spotify.com/album/2ucuXJp8Ym5wSuV6BJJcDX) | 2:13 | 2021-11-10 | 2024-01-18 |
 | [Aaraam Karo](https://open.spotify.com/track/6PL2VOzmCEuUDh3x7Q8biM) | [Dhriti Tiwari](https://open.spotify.com/artist/22nMXe6y9TxPBF0ebouNPy) | [Aaraam Karo](https://open.spotify.com/album/3g2dLMTcAcpTqORAACWumB) | 2:55 | 2022-08-15 | 2024-05-05 |
+| [Abiding Serenity](https://open.spotify.com/track/5oMikpIw2HGyJESMvlkNv7) | [Ortio](https://open.spotify.com/artist/3DZCw9pq9uA8YvordxZa4i) | [Abiding Serenity](https://open.spotify.com/album/0DLc3Wo9HXzhFIUghSq4Gp) | 2:15 | 2026-01-29 |  |
 | [Abrazo Sereno](https://open.spotify.com/track/24SPAIgNceYbCmdrowgkRK) | [Miravaldini](https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17) | [Melodías Susurrantes](https://open.spotify.com/album/16ArDAGmj2dEQAdAuRD8PW) | 3:39 | 2023-06-23 | 2024-03-21 |
 | [Absorb](https://open.spotify.com/track/59OCrl2Z9eyOSTja6jzNoM) | [Lejo](https://open.spotify.com/artist/5AK84Ka91VoQyA1CmwGbAf) | [Absorb](https://open.spotify.com/album/2WZZgYVzAwzCwIwrVoIhSB) | 2:03 | 2025-04-23 |  |
 | [Abstrahere](https://open.spotify.com/track/7mqhZNudWZT3PDQ6YZv9jC) | [Volta Celeste](https://open.spotify.com/artist/6dQx2H9bZ0X8UdyjkNAmNI) | [Abstrahere](https://open.spotify.com/album/3sBwzYq1xrnOXOJT2Fjlr0) | 2:24 | 2025-11-19 |  |
@@ -51,6 +52,7 @@
 | [Aira](https://open.spotify.com/track/1lWebU098NfY1ckYlbBFEv) | [Calma Totalis](https://open.spotify.com/artist/1s9skrP96FBxQyrPC3mlVy) | [Aira](https://open.spotify.com/album/63HH8nC1cKHwU3L1M6EP8p) | 2:40 | 2025-11-19 |  |
 | [Airborne](https://open.spotify.com/track/4b8bOH57dE7KgBjvIjK04X) | [Lars Peters](https://open.spotify.com/artist/6UFCmfl7djtHECEfm4Vhcx) | [Airborne](https://open.spotify.com/album/4RrPbWpibTn6MZ7VkjG7eS) | 2:17 | 2024-05-20 | 2025-10-03 |
 | [Alchemy](https://open.spotify.com/track/61L3JZB1lHtY825F56sW19) | [Somatika](https://open.spotify.com/artist/1Vsl6f5WQOxy3TlalqdyQt) | [Alchemy](https://open.spotify.com/album/0rwVhmqxMXGi48a0xIAyBC) | 2:54 | 2025-10-01 |  |
+| [Align](https://open.spotify.com/track/1CC8AgKut63LKBQlW7tPLs) | [Jon Stefans](https://open.spotify.com/artist/6sZVV2BKsU8SF4x9Bj9Ypa) | [Align](https://open.spotify.com/album/0kZ2TRJR08WgldLdxPHDA6) | 2:38 | 2026-01-29 |  |
 | [Alima](https://open.spotify.com/track/60ihi5DukD0bd4kUBvteWe) | [Luca Sana](https://open.spotify.com/artist/5R2pilr3nQLjlV11knoaHY) | [Alima](https://open.spotify.com/album/3TWKhBt6dL1MfBQ4jFz4Iy) | 2:46 | 2023-03-17 | 2024-07-10 |
 | [All the stars](https://open.spotify.com/track/3bKCh1q0CTDRZJ0a7OtwkR) | [Arya Shae](https://open.spotify.com/artist/5jTigCDuv898J4oTRvco0w) | [All the stars](https://open.spotify.com/album/37arZEnvnYlXMMxkiRI8Fy) | 3:06 | 2024-12-30 | 2025-11-20 |
 | [All We Can Do](https://open.spotify.com/track/3vr2MU6TzGcU94Ozgaw6BG) | [Edna Lyles](https://open.spotify.com/artist/4VmIM4MrXi2N7C5apFApwz) | [All We Can Do](https://open.spotify.com/album/7cRrgyTdXLHIiSd59mkGvx) | 3:16 | 2022-04-07 | 2024-04-16 |
@@ -948,6 +950,7 @@
 | [Sea Of Dreams](https://open.spotify.com/track/2hOlHb55DMd733BdvOW1ul) | [Mina Rojas](https://open.spotify.com/artist/492hHpujOt6WZGWFSy2712) | [Sea Of Dreams](https://open.spotify.com/album/462fAHkn3aVP0CjFkKYzAa) | 2:57 | 2022-11-11 | 2024-02-08 |
 | [Sea Whispers](https://open.spotify.com/track/3oSH4255HrKKOJOA8k0H6G) | [Aquatic Dreamer](https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM) | [Sea Whispers](https://open.spotify.com/album/32ioZkFFp2rCAmUqCsV29m) | 2:43 | 2025-02-04 |  |
 | [Secluded Silence](https://open.spotify.com/track/7gW4wwzkNAYdmzRxICUIFM) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Secluded Silence](https://open.spotify.com/album/3kvU85FsotP9SIHx2RyDCQ) | 3:03 | 2023-07-06 | 2024-07-23 |
+| [Second Self](https://open.spotify.com/track/2QKVgmGrLJIRrQa6yWCZLd) | [Signe Golin](https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z) | [Second Self](https://open.spotify.com/album/1tR4GjBHVzZqLskl8i1cIF) | 2:24 | 2026-01-29 |  |
 | [Secret Breeze](https://open.spotify.com/track/5Y9gW1qdKhfgLTapBxUkTW) | [EMIKO](https://open.spotify.com/artist/6ucAqkMiK3gtdXjcBjwZNx) | [Secret Breeze](https://open.spotify.com/album/2wuXtElxuHhiEvuUfcvKuq) | 2:25 | 2025-05-27 |  |
 | [Sedate Dawn](https://open.spotify.com/track/17dxXweuShPwv4eXAqJMXz) | [Quinn Joshua](https://open.spotify.com/artist/4LtA8H0WUekxMEMJV3Fdvd) | [Sedate Dawn](https://open.spotify.com/album/2HOn2N8GuvE9fDWnn7sgG7) | 2:45 | 2021-11-10 | 2024-03-21 |
 | [Selama Aku Bersamamu](https://open.spotify.com/track/6j3XbhOPbyAqJcYc1gkRdS) | [Indah Bethari](https://open.spotify.com/artist/6PEb2KuIsMYIR8DFdBL2al) | [Selama Aku Bersamamu](https://open.spotify.com/album/14AvT6nrlER3v91lS8MvDs) | 4:12 | 2022-03-04 | 2022-10-01 |
@@ -1018,6 +1021,7 @@
 | [Solitaire](https://open.spotify.com/track/1cX4n0rto2WCQilz6dlPke) | [The Endity](https://open.spotify.com/artist/5byrQ0NUcEyy0c3U5xPBdm) | [Solitaire](https://open.spotify.com/album/5RlTOPhCNBnnPmps3A8WIg) | 2:25 | 2024-12-30 |  |
 | [Solitude](https://open.spotify.com/track/4hmBfrGNlsVhZRHHiHwqB5) | [Ed Stanley](https://open.spotify.com/artist/5MHC495Xm9U5sxKFQ25Eba) | [Solitude](https://open.spotify.com/album/0tfDok0b70Ytqt6pX7vKQE) | 3:06 | 2024-05-04 | 2024-07-10 |
 | [Solsten](https://open.spotify.com/track/5rDK66Zorl6x02BmupEFbM) | [Ganlas](https://open.spotify.com/artist/0AmPU5zuAi7slA529gGago) | [Solsten](https://open.spotify.com/album/49GVq2UFbm0PK962WsRcxB) | 3:32 | 2024-07-09 |  |
+| [Somae](https://open.spotify.com/track/7vzLL4nOoxwcrgdhLjtM07) | [Magnolia Dreams](https://open.spotify.com/artist/2uLfUntzbfHRmPO51ofZtt) | [Somae](https://open.spotify.com/album/0uroKcbnRPgLaz6xyksVFn) | 2:43 | 2026-01-29 |  |
 | [Something Free](https://open.spotify.com/track/1uOIozoCIupXmj0dlIOSW5) | [Aurora's Aria](https://open.spotify.com/artist/3G4TjSBZdfsLwI6MGocARj) | [Something Free](https://open.spotify.com/album/5TEJChNgO0SChgX5qX5O4P) | 3:29 | 2024-05-04 | 2025-07-10 |
 | [Somnica](https://open.spotify.com/track/3buWnaWSbhlvAOnnhaRqaI) | [Ultrawideolence](https://open.spotify.com/artist/3Bwl5wO7HiQSR9NsiVz1fF) | [Somnica](https://open.spotify.com/album/2d6INEfzwr6qvELtE8iZfN) | 2:45 | 2025-05-27 |  |
 | [Somnium](https://open.spotify.com/track/13o8mCXKQvMhuuNErL4JZ2) | [Iota Psi](https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW) | [Somnium](https://open.spotify.com/album/6GGCSed3CmViPzJ244Wggg) | 3:30 | 2022-09-30 | 2024-03-21 |

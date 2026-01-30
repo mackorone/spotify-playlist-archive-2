@@ -1837,6 +1837,24 @@
     },
     {
       "album": {
+        "name": "The Live Experience",
+        "url": "https://open.spotify.com/album/62uXkHtrX8KDil8lEDSr7m"
+      },
+      "artists": [
+        {
+          "name": "Nontokozo Mkhize",
+          "url": "https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496695,
+      "name": "Hallelujah - Live",
+      "url": "https://open.spotify.com/track/53Vs8PsI3FEGr08i3f23mM"
+    },
+    {
+      "album": {
         "name": "Joyous Celebration, Vol. 19 (Back to the Cross)",
         "url": "https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU"
       },
@@ -3146,7 +3164,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 237819,
       "name": "Ke le hole",
       "url": "https://open.spotify.com/track/6QVVWizgLUNkzAED09ljo4"
@@ -4480,7 +4498,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 167155,
       "name": "Ndiyabulela",
       "url": "https://open.spotify.com/track/2YfwvRx9xsrWBUAHC2RVEG"
@@ -5594,6 +5612,24 @@
       "duration_ms": 616454,
       "name": "Re Bone Ka Naledi (feat. Kago, Given, Paul) - (Live At The State Theatre)",
       "url": "https://open.spotify.com/track/0x7UIcJatp5HBuSGYpA1DW"
+    },
+    {
+      "album": {
+        "name": "Re Mmona ka mesebetse",
+        "url": "https://open.spotify.com/album/4zE1l9h3zNENDETkV6bZMr"
+      },
+      "artists": [
+        {
+          "name": "Nthabiseng",
+          "url": "https://open.spotify.com/artist/6pzFpx9Lpr1fZLZlr5mHKi"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390213,
+      "name": "Re Mmona ka mesebetse",
+      "url": "https://open.spotify.com/track/2TgXzNHdcbY93aGYmKROdn"
     },
     {
       "album": {

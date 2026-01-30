@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Le meilleur de l'indie fran\u00e7ais. Cover : Lilly Wood and The Prick",
+  "description": "Le meilleur de l'indie fran\u00e7ais. Cover : Oscar Anton",
   "name": "Indie France",
   "tracks": [
     {
@@ -634,7 +634,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 145656,
       "name": "Amoureuse de lui",
       "url": "https://open.spotify.com/track/796HoByzZy6BzUMhbjbofJ"
@@ -3814,7 +3814,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 173374,
       "name": "Endors toi",
       "url": "https://open.spotify.com/track/6WrJ29z9yQF99ojbiEK527"
@@ -4612,7 +4612,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 179466,
       "name": "Galaxie",
       "url": "https://open.spotify.com/track/4cE3YZpsggEkLKmZshbbk6"
@@ -6629,6 +6629,24 @@
     },
     {
       "album": {
+        "name": "l'a\u00e9roport",
+        "url": "https://open.spotify.com/album/5yjNvkDFAQcFRTwVrHDilF"
+      },
+      "artists": [
+        {
+          "name": "Spider ZED",
+          "url": "https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144799,
+      "name": "l'a\u00e9roport",
+      "url": "https://open.spotify.com/track/4EFbN1gvoa0GDVBKmnzr1c"
+    },
+    {
+      "album": {
         "name": "L'Extase",
         "url": "https://open.spotify.com/album/2S8WIfDf1jFkha6jKyUTQy"
       },
@@ -6978,7 +6996,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 129225,
       "name": "La langoustine",
       "url": "https://open.spotify.com/track/0Fa4Ke11MZSvyRQ8uvANAl"
@@ -7156,6 +7174,24 @@
       "duration_ms": 214923,
       "name": "La vie",
       "url": "https://open.spotify.com/track/7Gwg7eWok40tJuNfQEioFm"
+    },
+    {
+      "album": {
+        "name": "La vie avec toi",
+        "url": "https://open.spotify.com/album/2SpA8mQtFDBmWMsBv4G1Ea"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169230,
+      "name": "La vie avec toi",
+      "url": "https://open.spotify.com/track/0HYURzPK84YwOrQfFUbzSO"
     },
     {
       "album": {
@@ -7760,6 +7796,24 @@
       "duration_ms": 182177,
       "name": "Let her go",
       "url": "https://open.spotify.com/track/3lorZ6d6wi7xwzjP0tT1q2"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Velour",
+          "url": "https://open.spotify.com/artist/2gnFFtzPgBpwBepDNSPZO7"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "Let It Roll",
+      "url": "https://open.spotify.com/track/1rCkAFwm0pJSyTgUDu1uwZ"
     },
     {
       "album": {
@@ -10370,6 +10424,28 @@
       "duration_ms": 197497,
       "name": "Pas vraiment",
       "url": "https://open.spotify.com/track/1Nl4KaC3oa5HTqvzLOdkQh"
+    },
+    {
+      "album": {
+        "name": "Peaux Miroirs",
+        "url": "https://open.spotify.com/album/4Ej3dz9FNGG59gJUs3tDiF"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e0n\u00e7ois & The Atlas Mountains",
+          "url": "https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU"
+        },
+        {
+          "name": "David Numwami",
+          "url": "https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174241,
+      "name": "Peaux Miroirs",
+      "url": "https://open.spotify.com/track/7cxAjAFypLuTNZWLIQifAz"
     },
     {
       "album": {
@@ -13388,10 +13464,28 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 226037,
       "name": "Toxic Sunny Delight",
       "url": "https://open.spotify.com/track/2xyn7wWJ7urittAvQXmPhI"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Steve Ibrahim",
+          "url": "https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/2mJInqoONdxGcDDdf2A5Hb"
     },
     {
       "album": {
@@ -13982,7 +14076,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 165000,
       "name": "viens on part",
       "url": "https://open.spotify.com/track/0Jur8kJXfTdBwhJoNMEGgb"
@@ -14414,6 +14508,24 @@
       "duration_ms": 183053,
       "name": "Widow Dreams Forever",
       "url": "https://open.spotify.com/track/0lo0uTr01YwLsquOAuwUEA"
+    },
+    {
+      "album": {
+        "name": "Wind Says Low",
+        "url": "https://open.spotify.com/album/3oUFqERiot1k7yXiv3GiL0"
+      },
+      "artists": [
+        {
+          "name": "Broken Back",
+          "url": "https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Wind Says Low",
+      "url": "https://open.spotify.com/track/4kKyZT2eiGWjcp5bqenDXv"
     },
     {
       "album": {

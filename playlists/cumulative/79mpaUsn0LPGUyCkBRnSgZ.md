@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,046 songs - 2 day 20 hr 33 min
+1,048 songs - 2 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [CORLEONE](https://open.spotify.com/track/5VrKDJsD0VhIfjZxCEUXOI) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [GRASA](https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv) | 2:28 | 2024-05-27 |  |
 | [Corn Maze](https://open.spotify.com/track/7oDQlEb0Uy1AfSkVL5k2Ac) | [Malibu Ken](https://open.spotify.com/artist/5PB4q8DMiGL17Jdo4k6TOy), [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ), [TOBACCO](https://open.spotify.com/artist/3ikKyCOrsMeANi0d5u8BCR) | [Malibu Ken](https://open.spotify.com/album/7xa97ZeKKo4MiBJ96awavT) | 3:22 | 2023-03-24 | 2023-04-26 |
 | [Couldn’t Be Done \(feat\. Kelly Price\)](https://open.spotify.com/track/3cJhvKu04O5akhOHpZmMvP) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:31 | 2022-10-05 |  |
+| [Court and Spark](https://open.spotify.com/track/2l8kERLPqgP7p94Duj9nqH) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 2:46 | 2026-01-29 |  |
 | [Cowboys](https://open.spotify.com/track/1DB8s1L4z25jcRw88815ko) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Portishead](https://open.spotify.com/album/3G36754KQVLyGuskraEAVA) | 4:39 | 2022-10-27 | 2024-05-17 |
 | [Coyote](https://open.spotify.com/track/5fdjxHzBILxMXRrbbOVupJ) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Hejira](https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J) | 5:01 | 2024-04-02 |  |
 | [CPR](https://open.spotify.com/track/0K7FxrnT2QE5O4EqjQU7kO) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 2:50 | 2025-07-11 | 2025-07-17 |
@@ -592,6 +593,7 @@
 | [Morbid Stuff](https://open.spotify.com/track/19Sozc70q82PgkezdFv80F) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Morbid Stuff](https://open.spotify.com/album/5bVJC9KPcUvQPcibNpjAk9) | 2:44 | 2025-09-09 |  |
 | [More Today](https://open.spotify.com/track/6hmpvFKplIrMc7sySSl94Q) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Blue Reminder](https://open.spotify.com/album/7GeWoOysWD8oI0BdddsMxH) | 5:07 | 2025-09-08 |  |
 | [Mornin'!](https://open.spotify.com/track/5c3OcRPB9vCgCtenGQpIUv) | [Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6) | [POST\-](https://open.spotify.com/album/4dvUYqwZfiRuFvSbqKF2FZ) | 0:05 | 2023-01-03 | 2024-03-28 |
+| [Morning Morgantown](https://open.spotify.com/track/6jhvDPA1wPvyZgt4Sd0jV2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 3:13 | 2026-01-29 |  |
 | [Mother \- Remastered 2010](https://open.spotify.com/track/43Ud1IajwtBvw6ONj6aK2Q) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Plastic Ono Band](https://open.spotify.com/album/0DFYbYCcHCEJPcN1hODG6K) | 5:36 | 2023-08-17 | 2023-12-14 |
 | [Motion Sickness](https://open.spotify.com/track/3G7mNgJKJaOfIIYrcQJJyT) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [In Our Heads](https://open.spotify.com/album/5GDNKEug3ME9sCAtCU0vu7) | 5:20 | 2025-09-23 |  |
 | [Movement 1](https://open.spotify.com/track/0QkT7SfXL9eR6tuQ7xb9ya) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Promises](https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa) | 6:24 | 2024-01-12 | 2024-10-24 |

@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 77282,
+  "num_followers": 77290,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Mystical Energy EP",
-        "url": "https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi"
-      },
-      "artists": [
-        {
-          "name": "Alignment",
-          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
-        }
-      ],
-      "duration_ms": 320093,
-      "name": "Mystical Energy",
-      "url": "https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "Desire to Stay",
         "url": "https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 228500,
       "name": "Desire to Stay",
       "url": "https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Mystical Energy EP",
+        "url": "https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi"
+      },
+      "artists": [
+        {
+          "name": "Alignment",
+          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
+        }
+      ],
+      "duration_ms": 320093,
+      "name": "Mystical Energy",
+      "url": "https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
+        "name": "Dragon",
+        "url": "https://open.spotify.com/album/2QpfFwlOS8R2Ovz1vRFDb3"
+      },
+      "artists": [
+        {
+          "name": "Indira Paganotto",
+          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 181099,
+      "name": "Dragon",
+      "url": "https://open.spotify.com/track/3pPhDKcpdD0WpVNXHkEj4k"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
         "name": "Big Boy Tracks",
         "url": "https://open.spotify.com/album/2Q9pKNTfIKEe1vRoe7vwWK"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 221520,
       "name": "Big Boy Tracks",
       "url": "https://open.spotify.com/track/0jplL1GF7TuyqR6kAe2ikh"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "Dragon",
-        "url": "https://open.spotify.com/album/2QpfFwlOS8R2Ovz1vRFDb3"
-      },
-      "artists": [
-        {
-          "name": "Indira Paganotto",
-          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 181099,
-      "name": "Dragon",
-      "url": "https://open.spotify.com/track/3pPhDKcpdD0WpVNXHkEj4k"
     },
     {
       "added_at": "2025-12-03 12:15:55",

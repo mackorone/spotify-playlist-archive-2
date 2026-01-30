@@ -2413,6 +2413,24 @@
     },
     {
       "album": {
+        "name": "Concrete",
+        "url": "https://open.spotify.com/album/3cDTeTgcq7zXxPqTWHHitB"
+      },
+      "artists": [
+        {
+          "name": "Blue Remains",
+          "url": "https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259930,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/2gNXxEN4sBEmKyMYhAW5Fj"
+    },
+    {
+      "album": {
         "name": "Burning The Horizon",
         "url": "https://open.spotify.com/album/2I1Eks5EGGvz6MRcQVWC6P"
       },
@@ -2914,6 +2932,24 @@
       "duration_ms": 231231,
       "name": "Deliria",
       "url": "https://open.spotify.com/track/5lLmmiT3mRddBFXBFjMLUF"
+    },
+    {
+      "album": {
+        "name": "Delirium Vision",
+        "url": "https://open.spotify.com/album/3isDfQUZhcy6XHOXlkfe2c"
+      },
+      "artists": [
+        {
+          "name": "Curvesight",
+          "url": "https://open.spotify.com/artist/06NisMv2Zw1em9768gvr47"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229983,
+      "name": "Delirium Vision",
+      "url": "https://open.spotify.com/track/3b4WejMonETs0rgJLBJ5j2"
     },
     {
       "album": {
@@ -8410,7 +8446,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 213089,
       "name": "Nothing But Strangers",
       "url": "https://open.spotify.com/track/2Qplmt0uHxndVNM0m5xfjq"
@@ -10761,6 +10797,24 @@
     },
     {
       "album": {
+        "name": "Slip Through My Fingers",
+        "url": "https://open.spotify.com/album/1FBlXlXJ2u83uo2xA8L0YQ"
+      },
+      "artists": [
+        {
+          "name": "IRON",
+          "url": "https://open.spotify.com/artist/09zSpMqOWR14YlZGVdMfqi"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Slip Through My Fingers",
+      "url": "https://open.spotify.com/track/600l0RZ5FdCWI6idgZQ4D3"
+    },
+    {
+      "album": {
         "name": "Psychic Surfing",
         "url": "https://open.spotify.com/album/0CgCUmORGOjJddPC1LMu1F"
       },
@@ -12313,6 +12367,24 @@
     },
     {
       "album": {
+        "name": "The rain",
+        "url": "https://open.spotify.com/album/3M5S3x6mGaogYVtww8d6fJ"
+      },
+      "artists": [
+        {
+          "name": "Irina Serchia",
+          "url": "https://open.spotify.com/artist/0x8jzmjq77tRGh1cTAMMet"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116619,
+      "name": "The rain",
+      "url": "https://open.spotify.com/track/4yRT7vpuIReOdiHd5W6kHS"
+    },
+    {
+      "album": {
         "name": "It Grows",
         "url": "https://open.spotify.com/album/1NUY4o4RVyI3Y7NXO5mMq8"
       },
@@ -12418,6 +12490,24 @@
       "duration_ms": 66285,
       "name": "The World Is Going Mental",
       "url": "https://open.spotify.com/track/51RbuIHF9HMv6025j3I029"
+    },
+    {
+      "album": {
+        "name": "Not Alone",
+        "url": "https://open.spotify.com/album/1cSoNWO0mLSzS0fEemzw5g"
+      },
+      "artists": [
+        {
+          "name": "Absentees",
+          "url": "https://open.spotify.com/artist/3IUQgoruTIPejfTxmAUXPb"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "The World Is Mine",
+      "url": "https://open.spotify.com/track/1dIziNy8Wj3H7EyI6KuLdW"
     },
     {
       "album": {

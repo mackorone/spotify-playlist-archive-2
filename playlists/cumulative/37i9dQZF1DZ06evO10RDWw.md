@@ -4,11 +4,11 @@
 
 > This is Saosin\. The essential tracks, all in one playlist.
 
-49 songs - 2 hr 34 min
+50 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [3rd Measurement in C](https://open.spotify.com/track/3y5f6SfCuDjYOzeSbKP72p) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 2:38 | 2022-10-25 |  |
+| [3rd Measurement in C](https://open.spotify.com/track/3y5f6SfCuDjYOzeSbKP72p) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 2:38 | 2022-10-25 | 2026-01-30 |
 | [Changing](https://open.spotify.com/track/4C3osHVXn7trOxSBc8AuhX) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 3:46 | 2022-10-25 |  |
 | [Collapse](https://open.spotify.com/track/4iLRzDTNc3NbTyQ0w5cAOd) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 3:15 | 2022-10-25 |  |
 | [Control and The Urge to Pray](https://open.spotify.com/track/1HiAniCwjwIap3YoeqB807) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Along The Shadow \(Deluxe Edition\)](https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4) | 4:17 | 2022-10-25 | 2023-05-14 |
@@ -28,7 +28,7 @@
 | [It's So Simple](https://open.spotify.com/track/4amcY5vhp2Z40EhNVa2xHl) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 2:48 | 2022-11-02 | 2025-09-23 |
 | [Keep Secrets](https://open.spotify.com/track/6zsYr6wStLsJ1j9zUnoQ6T) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [The Grey](https://open.spotify.com/album/5FME0EWIpnQ3pGT5ugvykD) | 3:44 | 2022-10-25 | 2023-11-11 |
 | [Let Go Control](https://open.spotify.com/track/0OiZCyNOdjpHm38CQXLGH7) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Voices](https://open.spotify.com/album/28LWWFUiQSA4WEZTYtSGbh) | 2:58 | 2022-10-25 |  |
-| [Lost Symphonies](https://open.spotify.com/track/7EzL0vW3YlaAH0EiUe5MKk) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 2:55 | 2022-10-25 |  |
+| [Lost Symphonies](https://open.spotify.com/track/7EzL0vW3YlaAH0EiUe5MKk) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 2:55 | 2022-10-25 | 2026-01-30 |
 | [Love Maker](https://open.spotify.com/track/0IsOrgcBeDDwzaaw4Gqeo3) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [The Grey](https://open.spotify.com/album/5FME0EWIpnQ3pGT5ugvykD) | 3:17 | 2022-12-29 |  |
 | [Move Slow](https://open.spotify.com/track/7d4BF0jqyQAoaU9kz1AlV3) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Ncis: The Official Tv Soundtrack \- Vol\. 2](https://open.spotify.com/album/576fyLLci8j617RWwYX54O) | 3:08 | 2022-10-25 |  |
 | [New Angel](https://open.spotify.com/track/7mph7O5E7n3wKJcy2jNx0w) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/3WFPpbGgppW9ZgXQ4eyH0w) | 2:56 | 2022-10-25 |  |
@@ -45,14 +45,15 @@
 | [Say Goodbye](https://open.spotify.com/track/4v27q8gqCrira7ffcjnNGq) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 5:04 | 2022-10-25 | 2023-08-19 |
 | [Second Guesses](https://open.spotify.com/track/78j1GGl7Tlm00RnvCkwMM6) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Along The Shadow \(Deluxe Edition\)](https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4) | 4:08 | 2022-10-25 |  |
 | [Seven \- Live](https://open.spotify.com/track/01Qou0Jb4jUyCRfBhDSa74) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Seven / Pitiful \(Live\)](https://open.spotify.com/album/0juD5oBhlYYbiK1y62xasu) | 5:12 | 2024-05-12 | 2024-07-27 |
-| [Seven Years](https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 3:12 | 2022-10-25 |  |
+| [Seven Years](https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 3:12 | 2022-10-25 | 2026-01-30 |
 | [Sleepers](https://open.spotify.com/track/6s3d8xe76eyHPgD2QYutJQ) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 2:51 | 2022-10-25 |  |
 | [The Silver String](https://open.spotify.com/track/1fulFeOm8Zm5QJDSLRpoCc) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Along The Shadow \(Deluxe Edition\)](https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4) | 3:57 | 2022-10-25 |  |
 | [The Stutter Says A Lot](https://open.spotify.com/track/70YL1BWVpf2O6M4V1kHM8b) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Along The Shadow \(Deluxe Edition\)](https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4) | 2:53 | 2022-10-25 |  |
 | [The Worst of Me](https://open.spotify.com/track/1wiIhmcIU1hJWqEKhcaXcp) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 3:34 | 2022-10-25 |  |
-| [They Perched on Their Stilts, Pointing and Daring Me to Break Custom](https://open.spotify.com/track/1H3cv1QRzBChdsOnPdyrfD) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 2:51 | 2022-10-25 |  |
+| [They Perched on Their Stilts, Pointing and Daring Me to Break Custom](https://open.spotify.com/track/1H3cv1QRzBChdsOnPdyrfD) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 2:51 | 2022-10-25 | 2026-01-30 |
 | [This Changed My Life \- Live](https://open.spotify.com/track/1JwkY0S2mpbWgpaYrFvJBh) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN) | 1:08 | 2024-07-21 | 2025-10-05 |
-| [Translating the Name](https://open.spotify.com/track/2fsYDaUa76sRjlHxqh1sdx) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 3:26 | 2022-10-25 |  |
+| [Translating the Name](https://open.spotify.com/track/2fsYDaUa76sRjlHxqh1sdx) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 3:26 | 2022-10-25 | 2026-01-30 |
+| [Translating The Name \- Live](https://open.spotify.com/track/75LhYxyfoxPlgIAJbXk4wA) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/3NfVMaOZ77ncBATxyHyP1f) | 3:46 | 2026-01-30 |  |
 | [Voices](https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 3:37 | 2022-10-25 |  |
 | [Why Can't You See](https://open.spotify.com/track/2GZ14jhPUHqN5scWzoaXZR) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 2:39 | 2023-04-30 |  |
 | [You're Not Alone](https://open.spotify.com/track/7cITfGsdjGaTP0b5oiLL0z) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 3:58 | 2022-10-25 |  |

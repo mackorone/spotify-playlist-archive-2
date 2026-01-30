@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T?si=88g02L2xR7GJtLwkX6P7Lw\"> Elsy Wameyo</a> ",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD?si=rOsD9n_bRimpuY4QfXxhyw\"> Toxic Lyrikali</a> ",
   "name": "254 Flow",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 210000,
       "name": "1 of 1",
       "url": "https://open.spotify.com/track/6hDTK2zfY3dL6K1GFRBR22"
+    },
+    {
+      "album": {
+        "name": "10/10",
+        "url": "https://open.spotify.com/album/4Li7OUTp4u77up1Ftl4UTE"
+      },
+      "artists": [
+        {
+          "name": "BronzeAndMedals",
+          "url": "https://open.spotify.com/artist/5Lp0jZZKh8SJdySsADUG4i"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167600,
+      "name": "10/10",
+      "url": "https://open.spotify.com/track/6ELD8bXnTOMJkdFtrXXgMB"
     },
     {
       "album": {
@@ -108,7 +126,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 137500,
       "name": "247",
       "url": "https://open.spotify.com/track/6lBOa1Pk7VF0vKJzm26iD6"
@@ -362,6 +380,28 @@
       "duration_ms": 219892,
       "name": "All over the world",
       "url": "https://open.spotify.com/track/5luqXomMr0JRQDoOnA97Wa"
+    },
+    {
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/6xtZ2SyJa1hCFQcCYnfnq1"
+      },
+      "artists": [
+        {
+          "name": "Umoja Sounds",
+          "url": "https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9"
+        },
+        {
+          "name": "Elisha Elai",
+          "url": "https://open.spotify.com/artist/61IbQDcBI2dg5ohrSxnDqt"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118811,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/11KILqlBejLk3ArKICczce"
     },
     {
       "album": {
@@ -1418,7 +1458,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 145254,
       "name": "Circus Staple 2.0 (Bonus)",
       "url": "https://open.spotify.com/track/2lDko90dHWy3WiZUuYhdJe"
@@ -2980,7 +3020,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 204765,
       "name": "Hattrick",
       "url": "https://open.spotify.com/track/7tiu1Qny7ax3bhwaH7F683"
@@ -4645,6 +4685,24 @@
     },
     {
       "album": {
+        "name": "Lowkey",
+        "url": "https://open.spotify.com/album/6hkWq8uRyyzTvQuVp2J4b8"
+      },
+      "artists": [
+        {
+          "name": "Toxic Lyrikali",
+          "url": "https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Lowkey",
+      "url": "https://open.spotify.com/track/5Nq4C0F1Y51E7T8JcStd3i"
+    },
+    {
+      "album": {
         "name": "M.I.A",
         "url": "https://open.spotify.com/album/6lYbhvnxGcwRnCVGJkUspX"
       },
@@ -5122,7 +5180,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 241907,
       "name": "Mekatilili",
       "url": "https://open.spotify.com/track/41kBW9MDevID9wQHLgjdOv"
@@ -5166,7 +5224,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 192559,
       "name": "Mi Ninani",
       "url": "https://open.spotify.com/track/5peVnhdE1uhbDkv8Iu8l4E"
@@ -5242,7 +5300,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 84715,
       "name": "MISSING EFFECT!",
       "url": "https://open.spotify.com/track/3Qd3FX09270rx35ruQBhuh"
@@ -5356,6 +5414,24 @@
       "duration_ms": 164861,
       "name": "MOTOWN",
       "url": "https://open.spotify.com/track/1Eo01Bnj04mLVrBpwpCWaQ"
+    },
+    {
+      "album": {
+        "name": "Mr. Blacc",
+        "url": "https://open.spotify.com/album/1sFzP9oWQnK7GKfyIFQd1h"
+      },
+      "artists": [
+        {
+          "name": "BoiBlacc",
+          "url": "https://open.spotify.com/artist/4tXuaGk0P2Z0K0urKXI7vy"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189266,
+      "name": "Mr. Blacc",
+      "url": "https://open.spotify.com/track/09g0ZNOIM21pjaGe8IsP06"
     },
     {
       "album": {
@@ -5560,7 +5636,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 211481,
       "name": "Mzii",
       "url": "https://open.spotify.com/track/2MTKIuBt9s56WqJE0VVcom"
@@ -6141,6 +6217,24 @@
     },
     {
       "album": {
+        "name": "November 3rd / Sober",
+        "url": "https://open.spotify.com/album/29UO6l2w7BhWNFitdCZPVa"
+      },
+      "artists": [
+        {
+          "name": "EMKAY64",
+          "url": "https://open.spotify.com/artist/06w7G297RAsnOEtMyvhz7T"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224415,
+      "name": "November 3rd / Sober",
+      "url": "https://open.spotify.com/track/6LTFRhZucBXu5qyXJDFDKe"
+    },
+    {
+      "album": {
         "name": "BORN TAO",
         "url": "https://open.spotify.com/album/0LCCNfZEa4LyJQIIFXwk43"
       },
@@ -6262,7 +6356,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 193246,
       "name": "Out My Way",
       "url": "https://open.spotify.com/track/4aZS8YiS4ABIjbQsClvY6B"
@@ -7524,7 +7618,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 157611,
       "name": "Sikujui",
       "url": "https://open.spotify.com/track/2Qv7yBfqY8CNfBdVzgISWv"
@@ -9027,6 +9121,24 @@
     },
     {
       "album": {
+        "name": "Uspimee",
+        "url": "https://open.spotify.com/album/2oyV5vgWv2H5PvTFYexZQK"
+      },
+      "artists": [
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Uspimee",
+      "url": "https://open.spotify.com/track/0xirX2KdpdLGaYeoyWRLu1"
+    },
+    {
+      "album": {
         "name": "Good Old Days",
         "url": "https://open.spotify.com/album/18aQXnAG7DR9uMVCZE4Br6"
       },
@@ -9138,7 +9250,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 192475,
       "name": "Vuma",
       "url": "https://open.spotify.com/track/36YwHycglYSTqB4tVg0mYD"
@@ -9736,7 +9848,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 186461,
       "name": "\u00adWAMEYO",
       "url": "https://open.spotify.com/track/4F51Hm0R8Z3kPOUv7RNExz"

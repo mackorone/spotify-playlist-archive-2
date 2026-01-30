@@ -1,6 +1,6 @@
 {
   "description": "\u534a\u6e05\u9192\u7684\u6642\u523b\u6700\u8ff7\u4eba\uff0c\u8b93\u6700\u8ff7\u4eba\u7684\u97f3\u6a02\u548c\u4f60\u4e00\u8d77\u96a8\u8208...",
-  "num_followers": 168247,
+  "num_followers": 168242,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -487,26 +487,6 @@
     {
       "added_at": "2026-01-19 02:10:25",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/3REQzRGObqM9DqmOmiuvzP"
-      },
-      "artists": [
-        {
-          "name": "Sassy 009",
-          "url": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L"
-        },
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 169273,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/1pDiRrLro0tlhsPSexB3Zv"
-    },
-    {
-      "added_at": "2026-01-19 02:10:25",
-      "album": {
         "name": "Treat Me",
         "url": "https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 147413,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
+    },
+    {
+      "added_at": "2026-01-19 02:10:25",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/3REQzRGObqM9DqmOmiuvzP"
+      },
+      "artists": [
+        {
+          "name": "Sassy 009",
+          "url": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L"
+        },
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 169273,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/1pDiRrLro0tlhsPSexB3Zv"
     },
     {
       "added_at": "2026-01-19 02:10:25",
@@ -923,26 +923,6 @@
     {
       "added_at": "2026-01-19 02:10:25",
       "album": {
-        "name": "Walk Long",
-        "url": "https://open.spotify.com/album/0zR3grZpgad6nqfPauPdnJ"
-      },
-      "artists": [
-        {
-          "name": "Psylo",
-          "url": "https://open.spotify.com/artist/4EvMhwDutimwUZSG7t38XI"
-        },
-        {
-          "name": "KINIDA",
-          "url": "https://open.spotify.com/artist/5rxk8Y4xZoD152zShQiwhB"
-        }
-      ],
-      "duration_ms": 248877,
-      "name": "Walk Long",
-      "url": "https://open.spotify.com/track/1ibtSIWTF1Ti00WMocGGir"
-    },
-    {
-      "added_at": "2026-01-19 02:10:25",
-      "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+    },
+    {
+      "added_at": "2026-01-19 02:10:25",
+      "album": {
+        "name": "Walk Long",
+        "url": "https://open.spotify.com/album/0zR3grZpgad6nqfPauPdnJ"
+      },
+      "artists": [
+        {
+          "name": "Psylo",
+          "url": "https://open.spotify.com/artist/4EvMhwDutimwUZSG7t38XI"
+        },
+        {
+          "name": "KINIDA",
+          "url": "https://open.spotify.com/artist/5rxk8Y4xZoD152zShQiwhB"
+        }
+      ],
+      "duration_ms": 248877,
+      "name": "Walk Long",
+      "url": "https://open.spotify.com/track/1ibtSIWTF1Ti00WMocGGir"
     },
     {
       "added_at": "2026-01-19 02:10:25",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-01-19 02:10:25",
       "album": {
-        "name": "Animal Magic",
-        "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 279933,
-      "name": "Terrapin",
-      "url": "https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv"
-    },
-    {
-      "added_at": "2026-01-19 02:10:25",
-      "album": {
         "name": "Those Days",
         "url": "https://open.spotify.com/album/3ruuXdcYTLv8j85lBvUouX"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 232093,
       "name": "Sandpaper Kisses",
       "url": "https://open.spotify.com/track/64vNKBA9dpXgQhQfuMocSG"
+    },
+    {
+      "added_at": "2026-01-19 02:10:25",
+      "album": {
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 279933,
+      "name": "Terrapin",
+      "url": "https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv"
     },
     {
       "added_at": "2026-01-19 02:10:25",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-01-19 02:10:25",
       "album": {
-        "name": "Scarlet Lamb",
-        "url": "https://open.spotify.com/album/5usTfd8cfuQttU2w3Eh0q3"
-      },
-      "artists": [
-        {
-          "name": "yun\u00e8 pinku",
-          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
-        }
-      ],
-      "duration_ms": 253417,
-      "name": "Reckless Sensation",
-      "url": "https://open.spotify.com/track/0IrQ7lMoICf8rBCho8ZMgK"
-    },
-    {
-      "added_at": "2026-01-19 02:10:25",
-      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 281730,
       "name": "Love Hope Change",
       "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
+    },
+    {
+      "added_at": "2026-01-19 02:10:25",
+      "album": {
+        "name": "Scarlet Lamb",
+        "url": "https://open.spotify.com/album/5usTfd8cfuQttU2w3Eh0q3"
+      },
+      "artists": [
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "duration_ms": 253417,
+      "name": "Reckless Sensation",
+      "url": "https://open.spotify.com/track/0IrQ7lMoICf8rBCho8ZMgK"
     },
     {
       "added_at": "2026-01-19 02:10:25",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-01-19 02:10:25",
       "album": {
+        "name": "Introspection",
+        "url": "https://open.spotify.com/album/6Aj5Kces1cuu0pJwQTk1DF"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 168906,
+      "name": "Introspection",
+      "url": "https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW"
+    },
+    {
+      "added_at": "2026-01-19 02:10:25",
+      "album": {
         "name": "Live on Ice",
         "url": "https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a"
       },
@@ -1431,38 +1447,6 @@
     {
       "added_at": "2026-01-19 02:10:25",
       "album": {
-        "name": "Introspection",
-        "url": "https://open.spotify.com/album/6Aj5Kces1cuu0pJwQTk1DF"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 168906,
-      "name": "Introspection",
-      "url": "https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW"
-    },
-    {
-      "added_at": "2026-01-19 02:10:25",
-      "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3"
-    },
-    {
-      "added_at": "2026-01-19 02:10:25",
-      "album": {
         "name": "Acchordance",
         "url": "https://open.spotify.com/album/3adRFNS6sAgApn9uuKDXYF"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 276154,
       "name": "Lonely Road",
       "url": "https://open.spotify.com/track/22W2hL07wNFLxoAceaEJkt"
+    },
+    {
+      "added_at": "2026-01-19 02:10:25",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3"
     },
     {
       "added_at": "2026-01-19 02:10:25",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2026-01-19 02:10:25",
       "album": {
+        "name": "Our Time is Blue",
+        "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
+      },
+      "artists": [
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "Our Time",
+      "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
+    },
+    {
+      "added_at": "2026-01-19 02:10:25",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 165500,
       "name": "Spirals On My Tongue",
       "url": "https://open.spotify.com/track/0I1oME61NvoZCIQxct99mP"
-    },
-    {
-      "added_at": "2026-01-19 02:10:25",
-      "album": {
-        "name": "Our Time is Blue",
-        "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
-      },
-      "artists": [
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "Our Time",
-      "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
     },
     {
       "added_at": "2026-01-19 02:10:25",

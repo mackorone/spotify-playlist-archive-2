@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: VLADKO\. Artwork: Joy Yamusangie.
 
-1,625 songs - 5 day 7 hr 1 min
+1,626 songs - 5 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -941,6 +941,7 @@
 | [Nocturne III](https://open.spotify.com/track/4zqcY8Wn75x9a2CSTYhZ3q) | [Aakash Mittal](https://open.spotify.com/artist/3EHWbZqXsH6VtELzfG8Y7v), [Rajna Swaminathan](https://open.spotify.com/artist/76Kr5nklB4ofbdxy0OISZA), [Miles Okazaki](https://open.spotify.com/artist/4cLJzYoRo6frNabrvM9qGB) | [Nocturne](https://open.spotify.com/album/3qne6fqHYnKVRfYIyjXL9Y) | 7:43 | 2022-01-19 | 2022-02-17 |
 | [Nonagon](https://open.spotify.com/track/4WPo0zfg94zXBG1uE75xWI) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Nonagon](https://open.spotify.com/album/54acgtvEmSz9B4Y2duQSuI) | 2:42 | 2022-02-16 | 2022-03-24 |
 | [Not Today](https://open.spotify.com/track/7echOKVdRQpEv3tZrEP7Dd) | [Michael Orenstein](https://open.spotify.com/artist/6tjKMFk0e0nmFumLhYR64B), [Barclay Moffitt](https://open.spotify.com/artist/0Hef8JN3w6jXxbo6fVBn6d), [Logan Kane](https://open.spotify.com/artist/1sKdqE5PRHkzmEa8wb47EQ), [Nicole McCabe](https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl) | [Aperture](https://open.spotify.com/album/3Tc8EnBdCq3i9iqk1SmXMb) | 6:00 | 2022-05-25 | 2022-06-23 |
+| [NOTHING PERSONAL](https://open.spotify.com/track/3WMQUy8epd786TQbAjUE0k) | [Blair / Huber](https://open.spotify.com/artist/4RQXCkNl0i4AJVjYlvtcMp) | [NOTHING PERSONAL](https://open.spotify.com/album/6DBrIXUPClL1Mi1vK0rQyP) | 3:57 | 2026-01-28 |  |
 | [Nothing's Changed](https://open.spotify.com/track/3rjZ7w1ZCfCsHSRUAe6z3Q) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp), [Luke Titus](https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Nothing's Changed](https://open.spotify.com/album/4jW8tj4GeD08qgifbyLsNB) | 2:01 | 2022-03-16 | 2022-04-21 |
 | [Nothing's Changed](https://open.spotify.com/track/5G9qNacj2bYiJ1009iWyDW) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp), [Luke Titus](https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Some Things Take Time](https://open.spotify.com/album/4npRaJShorujh6Mjfl8WZU) | 2:01 | 2022-11-30 | 2023-01-12 |
 | [November](https://open.spotify.com/track/5pakrja7GlSgf9GdogxTIv) | [Lydian Collective](https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw) | [November](https://open.spotify.com/album/0ZlLiDxdWsjBWU0cfZODhP) | 8:14 | 2022-04-20 | 2022-05-19 |

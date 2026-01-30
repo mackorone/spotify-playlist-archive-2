@@ -2201,6 +2201,28 @@
     },
     {
       "album": {
+        "name": "Sombras De Oro",
+        "url": "https://open.spotify.com/album/4RaT9wHZ3BtLSQaRRVTcmR"
+      },
+      "artists": [
+        {
+          "name": "Centavrvs",
+          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
+        },
+        {
+          "name": "Denise Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291712,
+      "name": "Por Eso",
+      "url": "https://open.spotify.com/track/4rk4v9tpdPWb1U4mJbNSfs"
+    },
+    {
+      "album": {
         "name": "Buffalo Beat EP",
         "url": "https://open.spotify.com/album/2OOAcHAbcHReHpLpVrll56"
       },
@@ -2872,7 +2894,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 221853,
       "name": "\u00c9pocas",
       "url": "https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD"

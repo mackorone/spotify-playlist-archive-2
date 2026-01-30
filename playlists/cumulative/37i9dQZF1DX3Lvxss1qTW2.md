@@ -2,9 +2,9 @@
 
 ### [NXT](https://open.spotify.com/playlist/37i9dQZF1DX3Lvxss1qTW2)
 
-> NXT presents..\. Ones to Watch 2026: Toxic Lyricali
+> NXT presents..\. Ones to Watch 2026: Shoday
 
-624 songs - 1 day 5 hr 7 min
+626 songs - 1 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Big Engine](https://open.spotify.com/track/1D1SCQIQUtYoISZxynsrbh) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [WA JO PA](https://open.spotify.com/album/6myhUb2Ibr51EGNsOFnQ58) | 2:29 | 2025-05-09 | 2025-07-05 |
 | [Blessed](https://open.spotify.com/track/11FkAWh7OlvM4hFkSipQSw) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m) | [Blessed](https://open.spotify.com/album/3Pmjc2jXyrcN8TfzvkGddQ) | 3:49 | 2025-07-04 | 2025-08-09 |
 | [Blessings](https://open.spotify.com/track/7ArATzlf3OKlgfVl3RMlQQ) | [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0) | [Blessings](https://open.spotify.com/album/5pXjnVsehL8FfS9v452hR2) | 2:52 | 2024-08-09 | 2024-11-16 |
+| [Blessings](https://open.spotify.com/track/2h4Tp7ZD1O08eLEo9CBHSa) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Blessings](https://open.spotify.com/album/3YnSI2CR0UfMs5DJsVwXzd) | 2:42 | 2026-01-29 |  |
 | [Blessings \(Alubarika\) \(feat\. Soundz\)](https://open.spotify.com/track/5UjiQgEQN9QODf8K3NQ8H5) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [Blessings \(Alubarika\) \(feat\. Soundz\)](https://open.spotify.com/album/2G9y69aorCh1O6jfQATmfK) | 2:50 | 2025-01-31 | 2025-06-14 |
 | [Blessings \(Kura\)](https://open.spotify.com/track/7L9MFfcZGJhANKgZ6s4cjw) | [Dapper](https://open.spotify.com/artist/4IKVSEkZ9IT013SNvUaMlq), [Yaadman fka Yung L](https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Blessings \(Kura\)](https://open.spotify.com/album/4ynej0qVlWtRvP3db58hVT) | 2:39 | 2025-08-29 | 2025-09-05 |
 | [Blue Sky](https://open.spotify.com/track/7eRK8uyVKLW4oF93HNwvsF) | [Cheruu](https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB), [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP) | [Blue Sky](https://open.spotify.com/album/2XKgJNH1R8omLDrReEJYPB) | 4:13 | 2026-01-28 |  |
@@ -238,6 +239,7 @@
 | [Goodboy \(Kweku\)](https://open.spotify.com/track/3g3nt6cCAUIgJ3pRl0pRb5) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Chopstix](https://open.spotify.com/artist/167yXtyZFzoIEl4650nGkt) | [Goodboy \(Kweku\)](https://open.spotify.com/album/7xU0cELrg6Fd24DAviWORg) | 3:34 | 2026-01-28 |  |
 | [Goosebumps](https://open.spotify.com/track/7sVH3E4Ea7vmggCkffdU4q) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Goosebumps](https://open.spotify.com/album/0puYR0eJhVtrJAOsH5mbY4) | 2:46 | 2024-10-25 | 2025-03-07 |
 | [Growing Pains](https://open.spotify.com/track/2USR8QrLvXIiasDuPZSzFd) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Growing Pains](https://open.spotify.com/album/3luKh35khSbsTaudhU1r8S) | 1:56 | 2025-09-05 | 2025-09-20 |
+| [Guide Me](https://open.spotify.com/track/3F26K7Ik0tzYaNKR9qFjm8) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Guide Me](https://open.spotify.com/album/3AxsGBN5TfSJF0T6WMBsIK) | 2:24 | 2026-01-29 |  |
 | [Guide Pass](https://open.spotify.com/track/43V22qtwgz0eWrJueeaiHW) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [then 1t g0t crazy](https://open.spotify.com/album/3HGzfz4LdYvIZd2CxKlzvs) | 2:13 | 2026-01-28 |  |
 | [Gumite](https://open.spotify.com/track/62Gmo0HGsM3AdntSrJIc4W) | [Nandor Love](https://open.spotify.com/artist/2EYPLKM3ofZPhkG9XY79U6) | [Gumite](https://open.spotify.com/album/4SQKlLjhpW3xxMRtoaxSNC) | 2:55 | 2026-01-28 |  |
 | [Haibo Freestyle](https://open.spotify.com/track/7E8XRyfpF1zboV8whQ0pZr) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Haibo Freestyle](https://open.spotify.com/album/4XsBdsCxQXl6QzeuLxbIeb) | 2:25 | 2024-10-07 | 2024-11-22 |
@@ -308,7 +310,7 @@
 | [Ko Possible](https://open.spotify.com/track/6LZrYVJpaTUGmnxUiWSqcd) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Ko Possible](https://open.spotify.com/album/2AQgwujElBT9oTirF9o8ch) | 1:58 | 2024-06-28 | 2024-11-08 |
 | [Kolobi](https://open.spotify.com/track/4iUY3ovPIq182S72VmyBTA) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Kolobi](https://open.spotify.com/album/11MjKZUdZaN1kD1PVgMRds) | 2:40 | 2025-11-07 | 2026-01-29 |
 | [KUPE](https://open.spotify.com/track/1VLe54cQxLb5nqoNfxIyC6) | [Neville](https://open.spotify.com/artist/2gt9YfYa9tUbY9grQKYwi1), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [KUPE](https://open.spotify.com/album/4SEIo6pjBTOQ1GHMdlbM8z) | 2:10 | 2024-12-13 | 2025-01-15 |
-| [Kuwa Na Weh](https://open.spotify.com/track/3zuYEi67YxXZg3AK8VEApD) | [Kahuti](https://open.spotify.com/artist/38bmHQVnxfWk7eEez4dYJg) | [Boy Lover](https://open.spotify.com/album/4SikxrLC1rU0Nqr0PAv6tb) | 2:32 | 2026-01-28 |  |
+| [Kuwa Na Weh](https://open.spotify.com/track/3zuYEi67YxXZg3AK8VEApD) | [Kahuti](https://open.spotify.com/artist/38bmHQVnxfWk7eEez4dYJg) | [Boy Lover](https://open.spotify.com/album/4SikxrLC1rU0Nqr0PAv6tb) | 2:32 | 2026-01-28 | 2026-01-30 |
 | [Laba Laba \(feat\. Fireboy DML\)](https://open.spotify.com/track/1bRwmEGpI2B6Z0W0xZYAj2) | [Ayanfe](https://open.spotify.com/artist/6JRUGmX8hxwvYGHtw374eq), [DJ Latitude](https://open.spotify.com/artist/0x8oMbjl1nKuz6Ya0L2UmC), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Laba Laba \(feat\. Fireboy DML\)](https://open.spotify.com/album/2iIG2djJDvizd7D94LANOE) | 3:24 | 2024-12-06 | 2025-05-09 |
 | [Ladida](https://open.spotify.com/track/0UewHkoEkSW2cbpNbLPI4F) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Ladida](https://open.spotify.com/album/5H10ukTXc6mnzTe7leaQPJ) | 2:11 | 2025-05-30 | 2025-08-22 |
 | [Ladies](https://open.spotify.com/track/3mXRxKuMj8DoSVR3G3Zyi4) | [The Majeek](https://open.spotify.com/artist/7DEAydHZRSI5lVqy85n5V8) | [The Majeekcian \(Vol\. 1\)](https://open.spotify.com/album/05LIPfZE7G6FPGvMGU1H12) | 2:21 | 2025-07-04 | 2025-09-05 |
@@ -498,7 +500,7 @@
 | [Shalaye](https://open.spotify.com/track/5RTfC7qVXydNrmv4quXFpq) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Shalaye](https://open.spotify.com/album/6h2yGkv9ttMltX43abLmQc) | 2:51 | 2025-03-21 | 2025-07-11 |
 | [Shalaye](https://open.spotify.com/track/5RytGOyrh48tH9MvLkChpx) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Shalaye](https://open.spotify.com/album/7zQONjJIsWdF03ZgnaMbKP) | 2:44 | 2025-05-30 | 2025-06-06 |
 | [Shayo](https://open.spotify.com/track/56N21lxpXGBDoDhJ8YcIna) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [High Spirit](https://open.spotify.com/album/1HNIge0hzBU9TJIsGS83Rj) | 2:49 | 2025-10-17 | 2026-01-15 |
-| [Shoday Kilode](https://open.spotify.com/track/2yXFYJfxL0TwzvN34OO9Hp) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Shoday Kilode](https://open.spotify.com/album/3aeIvHjzG9IxWaqRZVGWXF) | 2:11 | 2025-08-15 |  |
+| [Shoday Kilode](https://open.spotify.com/track/2yXFYJfxL0TwzvN34OO9Hp) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Shoday Kilode](https://open.spotify.com/album/3aeIvHjzG9IxWaqRZVGWXF) | 2:11 | 2025-08-15 | 2026-01-30 |
 | [Shona Phantsi / On Da Floor](https://open.spotify.com/track/0F4NG5PvVdTMB5YV4j0fQa) | [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [ZVRI](https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn), [Ney The Bae](https://open.spotify.com/artist/2ejPIS2ocEAjCNhqkEtblo), [Smilo](https://open.spotify.com/artist/23l0XAl8H66TddrdGFVYQL) | [Shona Phantsi / On Da Floor](https://open.spotify.com/album/2cM4DYlvErJdKVeQcEPKlG) | 5:57 | 2025-12-05 | 2026-01-15 |
 | [Short Skirt \(Fine Girls\)](https://open.spotify.com/track/6UiQVXLAXT4ZJYeXBGnran) | [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb) | [Short Skirt \(Fine Girls\)](https://open.spotify.com/album/0cEAm1fUmZp2wkeofSOdTq) | 2:17 | 2024-08-09 | 2024-11-16 |
 | [Shout](https://open.spotify.com/track/7lpPd7U9zYc6gDnP8k3rhL) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Shout](https://open.spotify.com/album/3dGRqq7EliVcR2rMERd78H) | 2:24 | 2024-09-20 | 2024-12-13 |

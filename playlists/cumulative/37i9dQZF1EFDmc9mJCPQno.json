@@ -1473,6 +1473,24 @@
     },
     {
       "album": {
+        "name": "XO, My Cyberlove",
+        "url": "https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Limoncello",
+      "url": "https://open.spotify.com/track/1MzrmkSpQO3z0xBIWkh9s0"
+    },
+    {
+      "album": {
         "name": "Have U Seen Her?",
         "url": "https://open.spotify.com/album/6duDuIepi6ZCwgAbBw1BQ1"
       },

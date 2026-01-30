@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "*uck the system",
+        "url": "https://open.spotify.com/album/69tPesrOynLvVxbVEW3qOV"
+      },
+      "artists": [
+        {
+          "name": "ELEVEN (FR)",
+          "url": "https://open.spotify.com/artist/6OYDyeW538Vq7Bw4vaEq80"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361967,
+      "name": "*uck the system",
+      "url": "https://open.spotify.com/track/7fxd0LokITEfc9Be7TOoLi"
+    },
+    {
+      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/6rfW8Ur00M44ftAONPPvY1"
       },
@@ -15599,6 +15617,32 @@
     },
     {
       "album": {
+        "name": "Na Favela EP",
+        "url": "https://open.spotify.com/album/3flItrAzryBuAFos0lkfsF"
+      },
+      "artists": [
+        {
+          "name": "Adana Twins",
+          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
+        },
+        {
+          "name": "Kadosh",
+          "url": "https://open.spotify.com/artist/3e1Dyl2ZhXliPe3Mls724W"
+        },
+        {
+          "name": "Abr\u00e3o",
+          "url": "https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213387,
+      "name": "Na Favela",
+      "url": "https://open.spotify.com/track/1rbSky9fS2I1znHfvGts9E"
+    },
+    {
+      "album": {
         "name": "Na Wose (Afro Mixes)",
         "url": "https://open.spotify.com/album/0rIQEJCVJCw4X7GA0yTYxN"
       },
@@ -22914,7 +22958,7 @@
       },
       "artists": [
         {
-          "name": "Sofi Tukker",
+          "name": "SOFI TUKKER",
           "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         },
         {

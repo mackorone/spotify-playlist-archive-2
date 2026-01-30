@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music from independent artists in the UK and Ireland\. Cover: Lande Hekt
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,021 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,022 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 17 | [Burnt Out](https://open.spotify.com/track/2Dwhcpyvda7KaPFHbfJIT2) | [MARLEY](https://open.spotify.com/artist/0JycATYltmq1z3cFw3slyw) | [Burnt Out](https://open.spotify.com/album/6Lpn1GLZSvwCnoVYL6gVtW) | 3:18 |
 | 18 | [Father](https://open.spotify.com/track/7qLCJRQGJPfTpwVu6TUyV2) | [August Charles](https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S) | [Father](https://open.spotify.com/album/1HG8vY7XKeX57yck24riZM) | 2:55 |
 | 19 | [CRIP](https://open.spotify.com/track/3woT2onx5jrFT5QYm9PAbD) | [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix) | [CRIP](https://open.spotify.com/album/7MM7BvNZ0hnM5Q7Y7xt14H) | 2:32 |
-| 20 | [Pixie](https://open.spotify.com/track/23qdID3ad5aSJ3Lv4vcQEI) | [Taifunds](https://open.spotify.com/artist/1C76b7OjUUW3Jqqk4PMkMr) | [Pixie](https://open.spotify.com/album/7eqQ4Xzgb3IynqoKZLOxvi) | 1:46 |
+| 20 | [Pixie](https://open.spotify.com/track/23qdID3ad5aSJ3Lv4vcQEI) | [Taifunds](https://open.spotify.com/artist/1C76b7OjUUW3Jqqk4PMkMr), [Professor Damz](https://open.spotify.com/artist/2sRWi7S65nEPY5ZK6ouUMZ) | [Pixie](https://open.spotify.com/album/7eqQ4Xzgb3IynqoKZLOxvi) | 1:46 |
 | 21 | [To Undo the World Itself](https://open.spotify.com/track/6kZJWAwJ5Qo43Smo1UesTP) | [The Orielles](https://open.spotify.com/artist/5JWEBEt8VxHHxYKFmpzjwD) | [You are Eating a Part of Yourself / To Undo the World Itself](https://open.spotify.com/album/7MnXXVoudsaLUDfj9Lskkf) | 3:51 |
 | 22 | [Daydreaming](https://open.spotify.com/track/6t6J3bUrnxFAiqZXTG7E7S) | [Blood Wizard](https://open.spotify.com/artist/60XRtGmul45VSNNKt9mZhp) | [Daydreaming](https://open.spotify.com/album/7AMbD95QaNlzyVEt0YPjW8) | 4:17 |
 | 23 | [Blood](https://open.spotify.com/track/5RE5OVVSjSWfxfWwtXzXmG) | [Aimée Fatale](https://open.spotify.com/artist/7Fcb8iazCnwwwIxGhjFt4G) | [Blood](https://open.spotify.com/album/2GGWsN5yaFixw3HRRDIeBr) | 2:58 |

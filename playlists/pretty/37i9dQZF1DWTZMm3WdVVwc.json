@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 27409,
+  "num_followers": 27424,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-10-23 13:55:51",
       "album": {
-        "name": "\u30ec\u30a4\u30b8\u30fc\u30b5\u30f3\u30c7\u30fc",
-        "url": "https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr"
-      },
-      "artists": [
-        {
-          "name": "Saucy Dog",
-          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
-        }
-      ],
-      "duration_ms": 234323,
-      "name": "\u30b7\u30f3\u30c7\u30ec\u30e9\u30dc\u30fc\u30a4",
-      "url": "https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V"
-    },
-    {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
         "name": "\u547d\u306e\u5225\u540d",
         "url": "https://open.spotify.com/album/2brqJgfQPZcLwbFAGn8Y3I"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 307400,
       "name": "\u7cf8",
       "url": "https://open.spotify.com/track/06m8KKTa6rAYJ5I6l2gZgS"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u30ec\u30a4\u30b8\u30fc\u30b5\u30f3\u30c7\u30fc",
+        "url": "https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr"
+      },
+      "artists": [
+        {
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+        }
+      ],
+      "duration_ms": 234323,
+      "name": "\u30b7\u30f3\u30c7\u30ec\u30e9\u30dc\u30fc\u30a4",
+      "url": "https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-10-23 13:55:51",
       "album": {
-        "name": "\u5439\u304d\u96f6\u308c\u308b\u7a0b\u306eI\u3001\u54c0\u3001\u611b",
-        "url": "https://open.spotify.com/album/52VpmFJsozdaIAepSTn1Sg"
-      },
-      "artists": [
-        {
-          "name": "Creep Hyp",
-          "url": "https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8"
-        }
-      ],
-      "duration_ms": 250911,
-      "name": "\u6182\u3001\u71e6\u3005",
-      "url": "https://open.spotify.com/track/3yJBEaVWZ5HmUp8nGtHbWt"
-    },
-    {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
         "name": "eyes",
         "url": "https://open.spotify.com/album/3FFBo52XG8Iqz2c9NvLJRn"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 222306,
       "name": "inside you",
       "url": "https://open.spotify.com/track/6dxjfasDAe8v56M308tQdz"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u5439\u304d\u96f6\u308c\u308b\u7a0b\u306eI\u3001\u54c0\u3001\u611b",
+        "url": "https://open.spotify.com/album/52VpmFJsozdaIAepSTn1Sg"
+      },
+      "artists": [
+        {
+          "name": "Creep Hyp",
+          "url": "https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8"
+        }
+      ],
+      "duration_ms": 250911,
+      "name": "\u6182\u3001\u71e6\u3005",
+      "url": "https://open.spotify.com/track/3yJBEaVWZ5HmUp8nGtHbWt"
     },
     {
       "added_at": "2025-12-24 00:34:11",
@@ -541,22 +541,6 @@
       "url": "https://open.spotify.com/track/42KsMmJ8sbWrfy6WMNWySo"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "\u7a32\u57a3\u6f64\u4e0025\u5468\u5e74\u30d9\u30b9\u30c8 Rainy Voice",
-        "url": "https://open.spotify.com/album/0dcJjG6zEoEJsaj90vM9Of"
-      },
-      "artists": [
-        {
-          "name": "Junichi Inagaki",
-          "url": "https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy"
-        }
-      ],
-      "duration_ms": 269626,
-      "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ad\u30e3\u30ed\u30eb\u306e\u9803\u306b\u306f",
-      "url": "https://open.spotify.com/track/41d7uC7xV3u82wMN0TOoGy"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "\u5e78\u305b\u306a\u7d50\u672b",
@@ -571,6 +555,22 @@
       "duration_ms": 276866,
       "name": "\u5e78\u305b\u306a\u7d50\u672b",
       "url": "https://open.spotify.com/track/5osxC77ZVAIXIE5Q3DMUuu"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u7a32\u57a3\u6f64\u4e0025\u5468\u5e74\u30d9\u30b9\u30c8 Rainy Voice",
+        "url": "https://open.spotify.com/album/0dcJjG6zEoEJsaj90vM9Of"
+      },
+      "artists": [
+        {
+          "name": "Junichi Inagaki",
+          "url": "https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy"
+        }
+      ],
+      "duration_ms": 269626,
+      "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ad\u30e3\u30ed\u30eb\u306e\u9803\u306b\u306f",
+      "url": "https://open.spotify.com/track/41d7uC7xV3u82wMN0TOoGy"
     },
     {
       "added_at": "2025-12-24 00:34:11",
@@ -687,6 +687,22 @@
     {
       "added_at": "2025-10-24 07:45:46",
       "album": {
+        "name": "\u541b\u304c\u597d\u304d",
+        "url": "https://open.spotify.com/album/1DgqBQ9YmNFp0SCkvhE7jp"
+      },
+      "artists": [
+        {
+          "name": "Shota Shimizu",
+          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
+        }
+      ],
+      "duration_ms": 272533,
+      "name": "\u541b\u304c\u597d\u304d",
+      "url": "https://open.spotify.com/track/3eXHuJ6JHV7OKnyDyxeQ1F"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
         "name": "I'm Blessed",
         "url": "https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK"
       },
@@ -707,38 +723,6 @@
     {
       "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "my insecurities, not yours",
-        "url": "https://open.spotify.com/album/4iDSytMqQQIkjP0WfweVbZ"
-      },
-      "artists": [
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        }
-      ],
-      "duration_ms": 207445,
-      "name": "she likes spring, I prefer winter",
-      "url": "https://open.spotify.com/track/6bM1QYzUKzZpQyAa7uO5kr"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "\u541b\u304c\u597d\u304d",
-        "url": "https://open.spotify.com/album/1DgqBQ9YmNFp0SCkvhE7jp"
-      },
-      "artists": [
-        {
-          "name": "Shota Shimizu",
-          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
-        }
-      ],
-      "duration_ms": 272533,
-      "name": "\u541b\u304c\u597d\u304d",
-      "url": "https://open.spotify.com/track/3eXHuJ6JHV7OKnyDyxeQ1F"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
         "name": "First Love (2022 Mix)",
         "url": "https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 261122,
       "name": "First Love - 2022 Mix",
       "url": "https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "my insecurities, not yours",
+        "url": "https://open.spotify.com/album/4iDSytMqQQIkjP0WfweVbZ"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        }
+      ],
+      "duration_ms": 207445,
+      "name": "she likes spring, I prefer winter",
+      "url": "https://open.spotify.com/track/6bM1QYzUKzZpQyAa7uO5kr"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "Shout Out to Jesus",
-        "url": "https://open.spotify.com/album/2yV4BrChz6M45ht4dJMJSI"
-      },
-      "artists": [
-        {
-          "name": "Kvi Baba",
-          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
-        }
-      ],
-      "duration_ms": 204264,
-      "name": "City Love City Love City Love",
-      "url": "https://open.spotify.com/track/1iggXYj6rRrHjPG12bmQPj"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
         "name": "\u3072\u3068\u3064\u306b\u306a\u308b\u3068\u304d",
         "url": "https://open.spotify.com/album/4wGwmvxA1aqH8Q5ObKN5oA"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 299666,
       "name": "\u3086\u308c\u308b",
       "url": "https://open.spotify.com/track/5KqIUmgtUmFGlylW0cRiwc"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "Shout Out to Jesus",
+        "url": "https://open.spotify.com/album/2yV4BrChz6M45ht4dJMJSI"
+      },
+      "artists": [
+        {
+          "name": "Kvi Baba",
+          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
+        }
+      ],
+      "duration_ms": 204264,
+      "name": "City Love City Love City Love",
+      "url": "https://open.spotify.com/track/1iggXYj6rRrHjPG12bmQPj"
     },
     {
       "added_at": "2025-12-11 02:28:39",
@@ -1141,22 +1141,6 @@
       "url": "https://open.spotify.com/track/5y170aRBflCoZagqVYdUiq"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "wizard",
-        "url": "https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz"
-      },
-      "artists": [
-        {
-          "name": "VK Blanka",
-          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "\u307e\u3063\u3057\u308d",
-      "url": "https://open.spotify.com/track/2PwOOgg8PavBNIWsPLIkr3"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "come again",
@@ -1171,6 +1155,22 @@
       "duration_ms": 354433,
       "name": "come again",
       "url": "https://open.spotify.com/track/3doATATHVivzB3EJqZS1eG"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "wizard",
+        "url": "https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz"
+      },
+      "artists": [
+        {
+          "name": "VK Blanka",
+          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "\u307e\u3063\u3057\u308d",
+      "url": "https://open.spotify.com/track/2PwOOgg8PavBNIWsPLIkr3"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1321,22 +1321,6 @@
       "url": "https://open.spotify.com/track/4peHpL8DSQpDxblRCZEHbd"
     },
     {
-      "added_at": "2025-12-16 15:00:32",
-      "album": {
-        "name": "Winterboy",
-        "url": "https://open.spotify.com/album/0JtDeyFmNGaAk2eTYj49bA"
-      },
-      "artists": [
-        {
-          "name": "the shes gone",
-          "url": "https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7"
-        }
-      ],
-      "duration_ms": 274733,
-      "name": "Winterboy",
-      "url": "https://open.spotify.com/track/6em5Z6ju1rH6A4FCpcGt5z"
-    },
-    {
       "added_at": "2025-03-11 22:40:18",
       "album": {
         "name": "\u6cab\u96ea",
@@ -1351,6 +1335,22 @@
       "duration_ms": 184266,
       "name": "\u6cab\u96ea",
       "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
+    },
+    {
+      "added_at": "2025-12-16 15:00:32",
+      "album": {
+        "name": "Winterboy",
+        "url": "https://open.spotify.com/album/0JtDeyFmNGaAk2eTYj49bA"
+      },
+      "artists": [
+        {
+          "name": "the shes gone",
+          "url": "https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7"
+        }
+      ],
+      "duration_ms": 274733,
+      "name": "Winterboy",
+      "url": "https://open.spotify.com/track/6em5Z6ju1rH6A4FCpcGt5z"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1401,22 +1401,6 @@
       "url": "https://open.spotify.com/track/0nZf4KRecUg0rVC6vKi7Bo"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "snow love",
-        "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 206461,
-      "name": "snow love",
-      "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "Junior Sweet",
@@ -1431,6 +1415,22 @@
       "duration_ms": 232760,
       "name": "\u30df\u30eb\u30af",
       "url": "https://open.spotify.com/track/3tFY3KX0w4DwynMKepKkUU"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "snow love",
+        "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 206461,
+      "name": "snow love",
+      "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
     },
     {
       "added_at": "2025-10-23 13:55:51",

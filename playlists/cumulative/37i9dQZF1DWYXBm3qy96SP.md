@@ -2,9 +2,9 @@
 
 ### [Rock The World](https://open.spotify.com/playlist/37i9dQZF1DWYXBm3qy96SP)
 
-> 世界中のロックシーンを彩る話題曲をチェック。Cover: Arctic Monkeys
+> 世界中のロックシーンを彩る話題曲をチェック。Cover: EKKSTACY
 
-1,789 songs - 4 day 7 hr 27 min
+1,793 songs - 4 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [Big Blind](https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Big Blind](https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm) | 2:24 | 2023-08-03 | 2023-08-18 |
 | [Big Pink Bubble](https://open.spotify.com/track/4I43vEkyuNfH2pNKGOjM8i) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Big Pink Bubble](https://open.spotify.com/album/3b1GcZJ9SCyzJY5sU26ABW) | 1:57 | 2025-03-20 | 2025-04-04 |
 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 | 2024-04-25 | 2024-06-21 |
-| [BIG VOID](https://open.spotify.com/track/1TpkuGrFjVAooL2fbCJ0i8) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [BIG VOID](https://open.spotify.com/album/1C9Woc2ay1qbA316hZgwjL) | 3:41 | 2025-12-11 |  |
+| [BIG VOID](https://open.spotify.com/track/1TpkuGrFjVAooL2fbCJ0i8) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [BIG VOID](https://open.spotify.com/album/1C9Woc2ay1qbA316hZgwjL) | 3:41 | 2025-12-11 | 2026-01-30 |
 | [Big Youth \(feat\. El\-P\)](https://open.spotify.com/track/7FssY58XwtD4CRhOT9N8Md) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl) | [Goodnight, God Bless, I Love U, Delete.](https://open.spotify.com/album/3omXFuNbc0B6MlCm5Nf5Xn) | 3:03 | 2023-10-12 | 2023-10-20 |
 | [BIGLOVE](https://open.spotify.com/track/5q5DpwaeE6qAv1TyF0D5D8) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [BIGLOVE](https://open.spotify.com/album/30vJnOO8ywQhgOUyTjX5GJ) | 2:50 | 2023-11-02 | 2023-11-10 |
 | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/album/7FwHGe6SjBkHNiYjBIhD9q) | 4:05 | 2025-02-06 | 2025-06-13 |
@@ -222,6 +222,7 @@
 | [Blood In The Water](https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Blood In The Water](https://open.spotify.com/album/51XawJfwZu5NH45ICmVAwI) | 3:37 | 2023-11-23 | 2023-12-01 |
 | [Bloodlust](https://open.spotify.com/track/0EJ9cdzNwraAU0yzwGL2ZE) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Bloodlust](https://open.spotify.com/album/0bgNfjHXv1wHZjvoRlLA0D) | 3:29 | 2025-10-02 | 2025-11-23 |
 | [BLOODSTREAM](https://open.spotify.com/track/3ey44BzqrH2Si5FmeFZ300) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [BLOODSTREAM](https://open.spotify.com/album/3A1dpM3b53KREb9DeWsEoP) | 3:09 | 2023-07-13 | 2023-08-18 |
+| [Bloody Eyes](https://open.spotify.com/track/4YUBcBSUIXfCNNFAaWQcyG) | [Passion Mango](https://open.spotify.com/artist/1duhcJbPuZ66kIsntXd9zn), [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [Bloody Eyes](https://open.spotify.com/album/7x7YMbEy3FNKzoRPMa5hIU) | 2:39 | 2026-01-29 |  |
 | [bloodYhell.](https://open.spotify.com/track/3hK0jJVeMYsie1nnQhvy2N) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [bloodYhell.](https://open.spotify.com/album/5TVZ4thQkBJS3fFAKt11Su) | 3:41 | 2025-04-03 | 2025-05-16 |
 | [Bloom Baby Bloom](https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8) | 3:47 | 2025-05-16 | 2025-07-29 |
 | [BLOW](https://open.spotify.com/track/3OSEQtAIxVzQ8iLzxgOXoi) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [BLOW](https://open.spotify.com/album/1jCajyPWXNO04KBS6jDgGC) | 3:33 | 2023-09-21 | 2023-10-13 |
@@ -370,6 +371,7 @@
 | [Count The Ways](https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk) | 3:58 | 2025-10-16 |  |
 | [Countdown To Shutdown](https://open.spotify.com/track/1bw8MQNG3NOQCfJQD1Auxt) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Countdown To Shutdown](https://open.spotify.com/album/7exlpnPOPjdUfwKwZ3tvQk) | 3:13 | 2023-06-15 | 2023-06-23 |
 | [Counterfeit](https://open.spotify.com/track/3yXXf4077QSjQUQa9lPyYe) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Counterfeit](https://open.spotify.com/album/2D0AHCqPO0aIPDvYtdseG0) | 3:08 | 2025-06-12 | 2025-11-15 |
+| [Cowboy Without a Clue](https://open.spotify.com/track/4p3SjzPhcImuzWcsgL43xw) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [](https://open.spotify.com/album/null) | 3:57 | 2026-01-29 |  |
 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 | 2025-05-29 | 2025-07-29 |
 | [Crack!](https://open.spotify.com/track/5fdcRU4NnzoQDvUaITXU8n) | [Summer Whales](https://open.spotify.com/artist/3hkum3WiqHnQUdMicxAsS8) | [Doughy](https://open.spotify.com/album/3awx1iBGigpJlxHssiFSjA) | 3:14 | 2024-07-18 | 2024-08-16 |
 | [Creature](https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Creature](https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi) | 3:45 | 2024-01-25 | 2024-02-23 |
@@ -639,6 +641,7 @@
 | [God Speed \(feat\. WARGASM \(UK\)\)](https://open.spotify.com/track/7CqdptwGjeskv3rim4Spvi) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [God Speed \(feat\. WARGASM \(UK\)\)](https://open.spotify.com/album/0mu1GjpR57D8aStHJyyboQ) | 3:16 | 2024-05-16 | 2024-09-13 |
 | [GODDESS](https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GODDESS](https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl) | 2:32 | 2023-03-16 | 2023-04-14 |
 | [Godspeed](https://open.spotify.com/track/4gk0U9MIugzdLRvB9N5BFj) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Outrun You All](https://open.spotify.com/album/3dy3BgU0SuF4YyHSCmQoYc) | 3:14 | 2025-05-22 | 2025-07-11 |
+| [God’s Eye](https://open.spotify.com/track/3G600027WLRbsunHeYJ5G2) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [God's Eye](https://open.spotify.com/album/5iPaMXX4jgANF9uiEERtxi) | 2:11 | 2026-01-29 |  |
 | [Going Kokomo](https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:10 | 2023-03-30 | 2023-07-07 |
 | [Going Kokomo](https://open.spotify.com/track/51p3vKgHGVYjWr63eGH6jd) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Going Kokomo](https://open.spotify.com/album/3j83OoSgq6I6CFUq5Wlxl6) | 3:10 | 2023-03-30 | 2023-04-01 |
 | [Gold](https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [ÁTTA](https://open.spotify.com/album/0PhjFcIDPt9cBRfYSJou3v) | 5:13 | 2023-06-15 | 2023-06-30 |
@@ -1236,7 +1239,7 @@
 | [Pushing Daisies \(Oh My My\)](https://open.spotify.com/track/31HQXEZFHCi93k44JoStvb) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Pushing Daisies \(Oh My My\)](https://open.spotify.com/album/0tQhPUgXN0N0fB8aKTZndT) | 2:57 | 2023-08-03 | 2023-08-11 |
 | [QUIT!!](https://open.spotify.com/track/6GIXiA6ERSW78r9Vz0ps5n) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [QUIT!!](https://open.spotify.com/album/2bnrdd634hDSjoqbOSmNqm) | 2:46 | 2024-01-11 | 2024-02-23 |
 | [QWERTY](https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Papercuts](https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl) | 3:21 | 2024-04-11 | 2024-06-09 |
-| [RAGE](https://open.spotify.com/track/3wtmfJg7Y59193gisXjdmR) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [RAGE](https://open.spotify.com/album/15w0umvukS2W8W4LdsIJQx) | 4:08 | 2025-07-17 |  |
+| [RAGE](https://open.spotify.com/track/3wtmfJg7Y59193gisXjdmR) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [RAGE](https://open.spotify.com/album/15w0umvukS2W8W4LdsIJQx) | 4:08 | 2025-07-17 | 2026-01-30 |
 | [Raging Fire](https://open.spotify.com/track/3X8OVMSDJdaI9dmSQJBNL5) | [DURAN](https://open.spotify.com/artist/0xJrq1b8p7EYC9aDVF9tHP) | [Electric Man](https://open.spotify.com/album/6bwdq1YGGRsDEXNhJQ50iC) | 3:22 | 2023-11-30 | 2023-12-08 |
 | [Rain](https://open.spotify.com/track/3cbBEGn5f65b1YCI28Oixn) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Rain](https://open.spotify.com/album/3ndeaQffdBCpmpIzfoQz53) | 3:23 | 2025-07-24 | 2025-10-03 |
 | [Rain in the River](https://open.spotify.com/track/5pbmSyK67ASTZExAX3TrDP) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Rain in the River](https://open.spotify.com/album/3DInaCkwipZmTpN7TviZ7P) | 3:12 | 2025-04-03 | 2025-06-27 |
@@ -1341,6 +1344,7 @@
 | [Shine Your Light](https://open.spotify.com/track/7C7PtdAsILyMPWb0LBoj4A) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [Shine Your Light](https://open.spotify.com/album/6kZrdw758XZf0AotWmKXPJ) | 3:25 | 2023-05-04 | 2023-05-12 |
 | [Shiner In The Dark](https://open.spotify.com/track/0zSSanWJnvCX5xHawmMKa9) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below](https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ) | 3:27 | 2023-08-31 | 2023-09-15 |
 | [Shortest Fuse](https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Shortest Fuse](https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6) | 3:40 | 2024-02-01 | 2024-02-09 |
+| [Shouting Eyes](https://open.spotify.com/track/0dDsKbyrs6etmNdcsrVrTV) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [I'll Remember To Forget You](https://open.spotify.com/album/7Im3JtbRs16KKZB6efGQYe) | 4:01 | 2026-01-29 |  |
 | [Shovel in His Hands](https://open.spotify.com/track/7HY9w064cDeuin7gh7GcIz) | [The View](https://open.spotify.com/artist/1fy3AQc7grjf5LnCd7snSg) | [Shovel in His Hands](https://open.spotify.com/album/6kuA9bJ8IzYZqT74ozWXZb) | 3:47 | 2023-05-18 | 2023-06-02 |
 | [Show Me How](https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Show Me How](https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz) | 4:53 | 2023-05-25 | 2023-06-12 |
 | [Show Me How To Love](https://open.spotify.com/track/0iBUNQawR3rfxZ3SsTrkum) | [Empire Fall](https://open.spotify.com/artist/3LURa20zIKdXG4MHqz70zp) | [Show Me How To Love](https://open.spotify.com/album/7a0y1S3C96JFkeWZ4mTmon) | 2:51 | 2023-12-21 | 2024-01-05 |
@@ -1625,7 +1629,7 @@
 | [Under You](https://open.spotify.com/track/6vWu5uWlox5TVDPl3LvoG3) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:39 | 2023-09-21 | 2024-03-01 |
 | [Undergrowth](https://open.spotify.com/track/31zmH5Bcd0CDRxcdw2M23D) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Undergrowth](https://open.spotify.com/album/6stBQmw0qjPeRjLnvypEn7) | 6:35 | 2023-04-20 | 2023-04-28 |
 | [Uno II](https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Uno II](https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg) | 2:15 | 2025-02-27 | 2025-05-09 |
-| [Unravel](https://open.spotify.com/track/43fImwroNsNnVKRVz999XF) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Unravel](https://open.spotify.com/album/0selBZxUKunwDGF6MOmVvn) | 2:55 | 2025-10-23 |  |
+| [Unravel](https://open.spotify.com/track/43fImwroNsNnVKRVz999XF) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Unravel](https://open.spotify.com/album/0selBZxUKunwDGF6MOmVvn) | 2:55 | 2025-10-23 | 2026-01-30 |
 | [Unravelling](https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Unravelling](https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh) | 3:58 | 2025-06-19 |  |
 | [Unshatter](https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Unshatter](https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7) | 3:16 | 2025-04-25 | 2025-08-29 |
 | [Untidy Creature](https://open.spotify.com/track/5iFAQbY63p9Wbpc8XGU84a) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Untidy Creature](https://open.spotify.com/album/7iB1U6TK6DtjX7Jt69SEPB) | 3:28 | 2024-01-04 | 2024-01-12 |
@@ -1789,7 +1793,7 @@
 | [冇有形狀 \- 壞數學 VERSION](https://open.spotify.com/track/4s5kbw5mtf2AgXZzrkJLjI) | [XSGACHA 小本生燈](https://open.spotify.com/artist/78CZPfx44NXnJAR0bxEaXw), [Bad Math](https://open.spotify.com/artist/07IjEAbgCClbsODsIrdxeo) | [冇有形狀 \(壞數學 VERSION\)](https://open.spotify.com/album/22YYxCpNNtdxu7VajaOcQU) | 5:26 | 2024-07-18 | 2024-09-20 |
 | [夏の幻](https://open.spotify.com/track/51BQiEhabU3nOkcHDzDx1G) | [Aiha Higurashi](https://open.spotify.com/artist/1oS5n03FGtebXlokUgxcUm) | [夏の幻](https://open.spotify.com/album/2GCwEgwpCBjxTjCmx2WFzP) | 4:01 | 2023-10-12 | 2023-10-20 |
 | [死んでくれ](https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [Bee and The Whales](https://open.spotify.com/album/3KmWWl1gxY0qT5TWF92wgs) | 3:27 | 2023-06-01 | 2023-07-14 |
-| [直感way](https://open.spotify.com/track/1wsKGeCoUZCLfrUFxtlTzZ) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [僕らじゃなきゃダメになって](https://open.spotify.com/album/0FNYLT5Un2W0XpLx3YQ86s) | 4:26 | 2026-01-15 |  |
+| [直感way](https://open.spotify.com/track/1wsKGeCoUZCLfrUFxtlTzZ) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [僕らじゃなきゃダメになって](https://open.spotify.com/album/0FNYLT5Un2W0XpLx3YQ86s) | 4:26 | 2026-01-15 | 2026-01-30 |
 | [知らない道](https://open.spotify.com/track/0MapT4uZ7ZQFUxVw8x7L4F) | [SHERBETS](https://open.spotify.com/artist/2wDZiOSGlVZbHYSqAeJRW9) | [知らない道](https://open.spotify.com/album/5CfbxKycxzQX1SZmRW8RiV) | 4:35 | 2023-04-13 | 2023-04-21 |
 | [神様](https://open.spotify.com/track/4I2UHDCZ6zLFWZibJ4mJyU) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [神様](https://open.spotify.com/album/2NuDontJsYWA564Lf7xixc) | 3:27 | 2024-05-16 | 2024-05-24 |
 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2023-03-16 | 2023-11-24 |

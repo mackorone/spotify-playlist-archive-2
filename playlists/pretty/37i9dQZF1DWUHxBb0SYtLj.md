@@ -9,9 +9,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [mia](https://open.spotify.com/track/2PP6LXaNeA4hTWxq2FVOnr) | [Altea](https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws) | [Nessuna](https://open.spotify.com/album/3aCQCerumFp8XZKbGD6jXM) | 2:14 |
-| 2 | [sbalzi d'amore \(feat\. Annalisa\)](https://open.spotify.com/track/6WUN2vJOoPLkerVax8N8RJ) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [radio vega \(after dark\)](https://open.spotify.com/album/7BsC0Zs0bB8WmJbNgugd3j) | 2:58 |
-| 3 | [SONO BLU](https://open.spotify.com/track/4caBLRi9o5CexrsVuCbWmD) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [SONO BLU](https://open.spotify.com/album/3vS9GJ4WL21L3lnY5LHdSm) | 4:06 |
-| 4 | [Bianca](https://open.spotify.com/track/5ZuCGMKhsYhzFkugdD9x5P) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Bianca](https://open.spotify.com/album/04P48FCwXo0FsLy5DKBAHg) | 3:14 |
+| 2 | [Bianca](https://open.spotify.com/track/5ZuCGMKhsYhzFkugdD9x5P) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Bianca](https://open.spotify.com/album/04P48FCwXo0FsLy5DKBAHg) | 3:14 |
+| 3 | [sbalzi d'amore \(feat\. Annalisa\)](https://open.spotify.com/track/6WUN2vJOoPLkerVax8N8RJ) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [radio vega \(after dark\)](https://open.spotify.com/album/7BsC0Zs0bB8WmJbNgugd3j) | 2:58 |
+| 4 | [SONO BLU](https://open.spotify.com/track/4caBLRi9o5CexrsVuCbWmD) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [SONO BLU](https://open.spotify.com/album/3vS9GJ4WL21L3lnY5LHdSm) | 4:06 |
 | 5 | [RITORNO AD AMARE](https://open.spotify.com/track/45arQgkr2W8dX0XlWvDFtK) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [RITORNO AD AMARE](https://open.spotify.com/album/4s1yzLlMB8fJ9uKrr269Hp) | 4:09 |
 | 6 | [sopra di me](https://open.spotify.com/track/24nLMm81ZdOfcv6Zp8TbNE) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [sopra di me](https://open.spotify.com/album/2LaXusaMXAUNg21CTjdoFL) | 3:21 |
 | 7 | [Antarctica](https://open.spotify.com/track/0ueEbwie4WN3fPh2O0ZaPh) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Antarctica / Neon Lights](https://open.spotify.com/album/0GddO8DceNsETJgJxGsGKx) | 2:59 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 69 | [Quante Lacrime](https://open.spotify.com/track/1QsG1bTnygLpg0S4d9Fnrg) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | [Quante Lacrime](https://open.spotify.com/album/30wIZa2jzdIwvcXcnkrm59) | 3:13 |
 | 70 | [17](https://open.spotify.com/track/4Qorwsh4sJd3ZcUSkBmTi4) | [Sara Baroni](https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq) | [Dead End](https://open.spotify.com/album/3tMqWsevN8DlWHsofi1Joo) | 3:23 |
 
-Snapshot ID: `AAAAABRzHEhfT4KIq2vQoCHhMu5JwEvR`
+Snapshot ID: `AAAAAA3DQ86dOT96dXdTkA7TKp/FiyFJ`

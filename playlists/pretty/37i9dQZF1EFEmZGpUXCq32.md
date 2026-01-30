@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 87 | [Spook](https://open.spotify.com/track/7umDQBZF1qudei5WqO0Ygj) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Burniss Travis](https://open.spotify.com/artist/4Y4dR3x2kFHqIEJJ7SaH9c), [TaRon Lockett](https://open.spotify.com/artist/7n1oDpup4X3kpznXeZy3YL) | [Spook](https://open.spotify.com/album/347qJZdcoABaKLoC5hnGMv) | 4:52 |
 | 88 | [Go Down](https://open.spotify.com/track/6QWerSSM3jBxJpw3k2gd3w) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 4:21 |
 | 89 | [Shoutin Music](https://open.spotify.com/track/3zvHWHUDaEu8Z8jv1OIZHT) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 2:26 |
-| 90 | [Benediction](https://open.spotify.com/track/6RrWOUtOeWb4GpJiSrg8NG) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 4:40 |
-| 91 | [Offering Song](https://open.spotify.com/track/1TO38Lo4ETmbWLiQ1kfuef) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 3:47 |
+| 90 | [Offering Song](https://open.spotify.com/track/1TO38Lo4ETmbWLiQ1kfuef) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 3:47 |
+| 91 | [Benediction](https://open.spotify.com/track/6RrWOUtOeWb4GpJiSrg8NG) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 4:40 |
 | 92 | [Sackodougou](https://open.spotify.com/track/6W23bx8GlLu2X95g8Q5WMc) | [Weedie Braimah](https://open.spotify.com/artist/0gNcTRfbjxxOdXxSCoXluo), [The Hands of Time](https://open.spotify.com/artist/22aIqIlM1T2TXltiwgWHlF), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [The Hands of Time](https://open.spotify.com/album/5EK25oGfbC4cZ04DsLsZwE) | 7:47 |
 | 93 | [Gotcha Now](https://open.spotify.com/track/2kxdAwQFiWie1WfhgJWCvX) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 5:10 |
 | 94 | [Heart](https://open.spotify.com/track/7hzyYvGrZ7nA7jZjvISbEp) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 8:58 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 110 | [Clouds](https://open.spotify.com/track/60TSgKaHNHHa3aeniLVP84) | [Jairus Mozee](https://open.spotify.com/artist/77leQnJv5gxe4Nm3LvDYiG) | [San Pedro](https://open.spotify.com/album/1D4pVBPfFAvG3j1TElDHAy) | 6:31 |
 | 111 | [Offering Song Address](https://open.spotify.com/track/4VotLKO4qyqCJqI75bAiFQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 0:18 |
 
-Snapshot ID: `AcIL6gAAAABW87n2a3HimHsMaBjHoN9H`
+Snapshot ID: `AcIRgAAAAABR4cl41thFzn6Vh5C4/0LK`

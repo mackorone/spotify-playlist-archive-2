@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Su\u00e1rez-V\u00e9rtiz. The essential tracks, all in one playlist.",
-  "num_followers": 25101,
+  "num_followers": 25100,
   "original_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXgAAAAAAABSJQObno8pSdYvYs1rKGG0",
+  "snapshot_id": "aXlRgAAAAADwy3ZwexFfintcS5hwi5IU",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talk Show",
-        "url": "https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo"
+        "name": "Amazonas (Uncut)",
+        "url": "https://open.spotify.com/album/4ddmGtrSeN8sbx9sI56rFy"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 235560,
-      "name": "Recu\u00e9stame",
-      "url": "https://open.spotify.com/track/1j91eyFgzH7MiAmUCtjBSh"
+      "duration_ms": 251026,
+      "name": "Tema del Adi\u00f3s",
+      "url": "https://open.spotify.com/track/7Go67MY2x1fR8uf85gNazj"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amazonas (Uncut)",
-        "url": "https://open.spotify.com/album/4ddmGtrSeN8sbx9sI56rFy"
+        "name": "Talk Show",
+        "url": "https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 251026,
-      "name": "Tema del Adi\u00f3s",
-      "url": "https://open.spotify.com/track/7Go67MY2x1fR8uf85gNazj"
+      "duration_ms": 235560,
+      "name": "Recu\u00e9stame",
+      "url": "https://open.spotify.com/track/1j91eyFgzH7MiAmUCtjBSh"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 268266,
-      "name": "Qu\u00e9 Oscuridad",
-      "url": "https://open.spotify.com/track/6dxz8sm7n7tQhHqwolLdWs"
+      "duration_ms": 259252,
+      "name": "Bailar",
+      "url": "https://open.spotify.com/track/52YFzji6kJVzC4UqZrsPKT"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 259252,
-      "name": "Bailar",
-      "url": "https://open.spotify.com/track/52YFzji6kJVzC4UqZrsPKT"
+      "duration_ms": 268266,
+      "name": "Qu\u00e9 Oscuridad",
+      "url": "https://open.spotify.com/track/6dxz8sm7n7tQhHqwolLdWs"
     },
     {
       "added_at": null,

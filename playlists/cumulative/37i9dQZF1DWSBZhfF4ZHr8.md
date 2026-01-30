@@ -2,9 +2,9 @@
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française avec Helena
+> Les meilleures nouveautés de la variété française avec Jeck & Carla
 
-415 songs - 20 hr 29 min
+416 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Embrasse\-moi](https://open.spotify.com/track/6IEqOFFBGjx2FW2pwPFAWT) | [Victorien](https://open.spotify.com/artist/4hCY20IkGa63aUoV82yMBE) | [Embrasse\-moi](https://open.spotify.com/album/7ar0xTKM2M4MT9xYSQJwRX) | 2:46 | 2024-06-27 | 2024-09-13 |
 | [Emprise](https://open.spotify.com/track/1bXsmPZUJSkmeYVlnE43Ic) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Emprise](https://open.spotify.com/album/7Dd56f4YVHaev5UsjtJoNN) | 3:10 | 2024-11-21 | 2024-12-06 |
 | [EN BAHLÉ PAR TOI](https://open.spotify.com/track/41Dpqw78rln05OLUPHz05i) | [Shikki](https://open.spotify.com/artist/6TBo7rPKniZAbrtupt3B9U) | [EN BAHLÉ PAR TOI](https://open.spotify.com/album/30Lx2siG7kIw7W6KWe5zCm) | 3:06 | 2025-05-29 | 2025-09-06 |
-| [En boucle](https://open.spotify.com/track/7DnucB1OzPCM8qP7dziWbC) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [En boucle](https://open.spotify.com/album/5flNY5V3mKeP4WFoqsjGRA) | 4:06 | 2025-10-09 |  |
+| [En boucle](https://open.spotify.com/track/7DnucB1OzPCM8qP7dziWbC) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [En boucle](https://open.spotify.com/album/5flNY5V3mKeP4WFoqsjGRA) | 4:06 | 2025-10-09 | 2026-01-30 |
 | [En solo](https://open.spotify.com/track/3EqsbHK1eVkNEzeB9QQ7Ik) | [Romain Mialdea](https://open.spotify.com/artist/4HesTSEzuN2T8v6wEVI7WG) | [En solo](https://open.spotify.com/album/1MfaZykQbd2lv6wnP8yRh5) | 2:58 | 2025-09-11 | 2025-10-24 |
 | [En équipe \(feat\. Vacra\)](https://open.spotify.com/track/0cP0V18rkyNvIjoVc5wY3N) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [En équipe](https://open.spotify.com/album/5zIcjorc0ObGwvSoUl7p4a) | 3:26 | 2024-09-26 | 2024-11-08 |
 | [Enchantiée](https://open.spotify.com/track/1njRdxvR3tH8EujVkgpNRI) | [LO&VIE](https://open.spotify.com/artist/1fZcyGm0fF8Ts8vYXYpyDg) | [Enchantiée](https://open.spotify.com/album/5xLMLmXJbLG9sJl9ZD8k4S) | 2:44 | 2024-06-27 | 2024-09-20 |
@@ -294,6 +294,7 @@
 | [Pas d'amour](https://open.spotify.com/track/1iDb5lwBCf664RyzyxBi9X) | [Cenzo](https://open.spotify.com/artist/7ChUrEb8MmLmLGloTbj9oL) | [Pas d'amour](https://open.spotify.com/album/7usC7IUjKjVnCetlmjHFUY) | 2:40 | 2025-04-24 | 2025-06-13 |
 | [Pas d'après](https://open.spotify.com/track/1Mqj9RgFGepZinzA1QleP5) | [Valentina](https://open.spotify.com/artist/0gEOgqLxlWc5L54Uvaku2S) | [Pas d'après](https://open.spotify.com/album/5NSJgnOFxYZnCxNQk5OAkC) | 2:40 | 2024-06-27 | 2024-09-06 |
 | [Pas le meilleur](https://open.spotify.com/track/5IsEeoWPNMBzbHaBpYRGuC) | [Ulysse](https://open.spotify.com/artist/0IHkcxD79oKnHexJ1D7fuQ) | [Le rêveur du bal](https://open.spotify.com/album/7fi8Ksz3tnIFxAydBa6fFU) | 2:28 | 2025-12-04 |  |
+| [Pasçalavie](https://open.spotify.com/track/0YHlP9nMm9DPrqZ0iwra3U) | [Wallace Cleaver](https://open.spotify.com/artist/49qUD3ZuoOWEXwLgDwa3Eg) | [Pasçalavie](https://open.spotify.com/album/1YRVAX6zy7GBbQRQiRY6et) | 3:24 | 2026-01-29 |  |
 | [Perdu En Mer](https://open.spotify.com/track/0SsduTUrCZaq6Kt99XS6fS) | [Alex Roussiaux](https://open.spotify.com/artist/2gLTBD2g3G1CgXjB3sFwcV) | [Perdu En Mer](https://open.spotify.com/album/3aycKZounQ4iuQVzUY1y55) | 3:02 | 2025-11-13 |  |
 | [Petit](https://open.spotify.com/track/39I0BFHXeltCjKjVXLYw6P) | [Julien Andriana](https://open.spotify.com/artist/1IpfgEWQa7m6ERlU9NCCPX) | [Petit](https://open.spotify.com/album/2Ic3DxDRFDte2DjHsEMidH) | 3:04 | 2025-04-21 | 2025-07-04 |
 | [Petit Frère](https://open.spotify.com/track/0iQ5nlzoc9DlHPoIpnznZG) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Miroirs \(Edition deluxe\)](https://open.spotify.com/album/04A7mKLEyi4mTTDPM9obKL) | 2:41 | 2025-01-16 | 2025-03-14 |

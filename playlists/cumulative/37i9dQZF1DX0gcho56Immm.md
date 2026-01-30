@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Sassy 009
 
-224 songs - 13 hr 4 min
+225 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [I could](https://open.spotify.com/track/5EmtveGyjsE023P8atahBQ) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [I could](https://open.spotify.com/album/1vea1LG3TmBnFdUP4H0K0B) | 2:36 | 2025-04-24 | 2025-11-01 |
 | [I'm Only Boggin'](https://open.spotify.com/track/5yqFZvV4aUF6rMHhlcDcGG) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [café LIFE](https://open.spotify.com/album/0vbzPGDQWtxOroyhwC3rck) | 1:27 | 2025-03-13 | 2025-08-09 |
 | [I'm Ready for Love](https://open.spotify.com/track/6bAHE9IuISQLImsUMO6Jgw) | [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [I'm Ready for Love](https://open.spotify.com/album/0IEWIBmD1A5asUlxclmrX5) | 3:38 | 2025-04-03 | 2025-10-18 |
+| [Icarus](https://open.spotify.com/track/13fCn5T4Mk4FQiWP3sk9pq) | [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig), [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y), [Scandinavian Star](https://open.spotify.com/artist/0IHVd7aU0SzB7t0HDiCWsp), [JEURU](https://open.spotify.com/artist/60o3gpHTPIXhyelk1W7SCq), [3NDLESS](https://open.spotify.com/artist/75ElKTu3tktOalesDar99k) | [Icarus](https://open.spotify.com/album/4luHBca9SclaZdrRpPlAFw) | 4:16 | 2026-01-29 |  |
 | [Idea.2](https://open.spotify.com/track/6MElKOLK2nXBHRYNTJTHdr) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Idea.2](https://open.spotify.com/album/5GeAunzkiBxeRx118tj1Jg) | 6:01 | 2025-08-22 | 2025-09-27 |
 | [In Iowa](https://open.spotify.com/track/0AZQmLHntlwyjpUEpcfj5B) | [Yawning Portal](https://open.spotify.com/artist/68fiKpJLoB94P1fLMZTZbC) | [In Iowa / My City](https://open.spotify.com/album/7Ia6smPy2YtgHahtB8OtF2) | 4:08 | 2025-10-10 |  |
 | [Intangible](https://open.spotify.com/track/5pL2gkDSOm5iEPLqZ7d8p8) | [Baby In Vain](https://open.spotify.com/artist/20khGbiJWINJJibuMzT8yr) | [Afterlife](https://open.spotify.com/album/2fUyFlZitgarYBNLIOhg47) | 3:16 | 2025-03-31 |  |

@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAKedpNKCwDEjFOEGD5zje19k5D+7II",
+  "snapshot_id": "AAAKfcNyzt25BWrnfI/Ks3x3gbQBSHod",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -75248,7 +75248,7 @@
           "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
         }
       ],
-      "duration_ms": 57495,
+      "duration_ms": 57443,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/1w327AHTCoChRIkJUprAnV"
     },
@@ -144867,6 +144867,74 @@
       "duration_ms": 257306,
       "name": "Chasing the Horizon",
       "url": "https://open.spotify.com/track/1EtE4bXLLtxL0Lf1nntQRf"
+    },
+    {
+      "added_at": "2026-01-29 03:05:25",
+      "album": {
+        "name": "sankofa",
+        "url": "https://open.spotify.com/album/2jDIRykwSLgdYETP0IQES3"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        }
+      ],
+      "duration_ms": 118184,
+      "name": "time (a dream deferred)",
+      "url": "https://open.spotify.com/track/7pQmOaawg2DMtlnIWc9SNY"
+    },
+    {
+      "added_at": "2026-01-29 03:36:53",
+      "album": {
+        "name": "sankofa",
+        "url": "https://open.spotify.com/album/2jDIRykwSLgdYETP0IQES3"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        }
+      ],
+      "duration_ms": 190312,
+      "name": "history",
+      "url": "https://open.spotify.com/track/3xUlkUR0ccrpzCnNgwF4us"
+    },
+    {
+      "added_at": "2026-01-29 03:40:27",
+      "album": {
+        "name": "sankofa",
+        "url": "https://open.spotify.com/album/2jDIRykwSLgdYETP0IQES3"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "duration_ms": 216749,
+      "name": "brown sugar",
+      "url": "https://open.spotify.com/track/6qKpRzWWhpeBvm4iSJrJLR"
+    },
+    {
+      "added_at": "2026-01-29 04:10:33",
+      "album": {
+        "name": "Kyougen",
+        "url": "https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 276080,
+      "name": "Gira Gira",
+      "url": "https://open.spotify.com/track/0vHCmjN8pepvdu41r69gcB"
     }
   ],
   "unique_name": "Purge",

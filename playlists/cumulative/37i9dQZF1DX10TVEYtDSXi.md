@@ -4,7 +4,7 @@
 
 > Öll bestu lögin í augnablikinu!
 
-238 songs - 12 hr 32 min
+240 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-04 | 2025-02-04 |
 | [Almost](https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Almost](https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC) | 3:40 | 2025-10-24 | 2025-11-07 |
 | [Andvaka](https://open.spotify.com/track/5p8cnx65q4YJPGeCNlBbdI) | [Izleifur](https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6), [Daniil](https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU) | [Andvaka](https://open.spotify.com/album/7Dq9vXLX3tDD256JjbdrN9) | 2:26 | 2024-08-16 | 2025-01-17 |
+| [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 | 2026-01-30 |  |
 | [APT.](https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:49 | 2025-01-31 | 2025-06-27 |
 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 | 2025-01-10 | 2025-01-25 |
 | [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-06-21 | 2024-10-11 |
@@ -130,6 +131,7 @@
 | [Just Let It Be](https://open.spotify.com/track/4r9ib0PMG96Xg73Lqok3kv) | [Birgir](https://open.spotify.com/artist/2hCU6EhDEmPjpqe8cAHAcm) | [Just Let It Be](https://open.spotify.com/album/5t47qNf17bUlsPxZWEhksR) | 2:56 | 2025-04-11 | 2025-08-08 |
 | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 | 2025-03-21 | 2025-09-05 |
 | [Kallaðu Á Mig](https://open.spotify.com/track/3QFbWRS7LpFA6eRZfZfhjg) | [Kristjan Saenz](https://open.spotify.com/artist/5zH80l2t6OwDlt2Xpr1giR) | [Kallaðu Á Mig](https://open.spotify.com/album/2WpArQjNmp7xV61kMryKrf) | 3:05 | 2025-08-22 | 2025-09-27 |
+| [Katowice](https://open.spotify.com/track/5F0F8ufcyiLyQ0GzoeZkAs) | [Izleifur](https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6) | [100&EINN](https://open.spotify.com/album/7CPUbHHNkEsGLZ9WJ5Lq97) | 2:05 | 2026-01-30 |  |
 | [KILL ME](https://open.spotify.com/track/061LiXRcTbYAJYD8NNeraN) | [Emmsjé Gauti](https://open.spotify.com/artist/46VwdSiSccsgzNhJP9sGhQ) | [STÉTTIN](https://open.spotify.com/album/6qzgkTBLS0dfa2LmykFoJa) | 2:45 | 2025-08-15 |  |
 | [Kite](https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Kite](https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4) | 2:46 | 2024-06-21 | 2024-07-27 |
 | [KOSS Á ÞIG \(Áramótaskaup 2023\)](https://open.spotify.com/track/4swi74n7WyfQUFxVTIXnmB) | [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4), [Þormóður](https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv) | [KOSS Á ÞIG \(Áramótaskaup 2023\)](https://open.spotify.com/album/04ilaNnJNBvla2NbiVZEB2) | 2:31 | 2024-06-21 | 2024-07-27 |

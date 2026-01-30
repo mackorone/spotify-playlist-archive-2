@@ -4104,7 +4104,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 132640,
       "name": "Asambe",
       "url": "https://open.spotify.com/track/4Aobz4WmKcy2ho16HTwhuZ"
@@ -30976,7 +30976,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 408813,
       "name": "Mali",
       "url": "https://open.spotify.com/track/4nP3JxLWurlrvollaDlxsJ"
@@ -32304,6 +32304,24 @@
       "duration_ms": 220160,
       "name": "Merry Christmas Everyone",
       "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
+    },
+    {
+      "album": {
+        "name": "Merwalela",
+        "url": "https://open.spotify.com/album/1wJMwuFkfGeAKNEzvlcH2q"
+      },
+      "artists": [
+        {
+          "name": "Ezra Neethings",
+          "url": "https://open.spotify.com/artist/50bKsKAYz2HwXn41DWjPDL"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167986,
+      "name": "Merwalela",
+      "url": "https://open.spotify.com/track/0RvCLFIhAbmuRX5qRtJeOx"
     },
     {
       "album": {
@@ -45244,7 +45262,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 292075,
       "name": "Sijabulile",
       "url": "https://open.spotify.com/track/3VcbOu0uH7WSVSAoxHffVl"
@@ -54104,7 +54122,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 358850,
       "name": "uMoya",
       "url": "https://open.spotify.com/track/3eRaSAk4a6gjsHK2omZbU4"
@@ -59828,7 +59846,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 390802,
       "name": "You Try",
       "url": "https://open.spotify.com/track/5fMJe6MwbPYBFtBrQCf7pq"

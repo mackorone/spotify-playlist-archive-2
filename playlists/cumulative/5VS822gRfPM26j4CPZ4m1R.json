@@ -7887,6 +7887,24 @@
     },
     {
       "album": {
+        "name": "Presente",
+        "url": "https://open.spotify.com/album/6ZRkE4Q2fphdQ1pizokpp7"
+      },
+      "artists": [
+        {
+          "name": "Pedro Mizutani",
+          "url": "https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238125,
+      "name": "Presente",
+      "url": "https://open.spotify.com/track/12fmgHPWF4ljzjxdqjusuY"
+    },
+    {
+      "album": {
         "name": "Lasagne",
         "url": "https://open.spotify.com/album/7rcd8t2dKyhQ7g7JFomrxy"
       },
@@ -8444,6 +8462,28 @@
       "duration_ms": 227192,
       "name": "Sangrecita",
       "url": "https://open.spotify.com/track/3FagzxR9T2GGhRnh5vQ0ok"
+    },
+    {
+      "album": {
+        "name": "Sap in my Teeth",
+        "url": "https://open.spotify.com/album/6QFTkUsfKW3gmc51rXE4Us"
+      },
+      "artists": [
+        {
+          "name": "Boy Deco",
+          "url": "https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7"
+        },
+        {
+          "name": "Quantum Keys",
+          "url": "https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230839,
+      "name": "Sap in my Teeth",
+      "url": "https://open.spotify.com/track/4mw9wqfElHSmqoMDQFbma6"
     },
     {
       "album": {

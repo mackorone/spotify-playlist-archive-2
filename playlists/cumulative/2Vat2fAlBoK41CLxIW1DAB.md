@@ -4,7 +4,7 @@
 
 > 
 
-853 songs - 2 day 5 hr 40 min
+859 songs - 2 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,6 +525,7 @@
 | [Perdóname](https://open.spotify.com/track/3KUgSIzHqAo963Q3NgKkXb) | [Nadye](https://open.spotify.com/artist/2nhsnL9B3yy5qh5hTFjJoU), [El Vicio Del Duende](https://open.spotify.com/artist/7a5pRFDtX3TrPgQrjFdAV1) | [Perdóname](https://open.spotify.com/album/0jFvW1ZAHaRbdBgKkg2yvx) | 3:33 | 2025-06-12 |  |
 | [Perfect](https://open.spotify.com/track/3NLnwwAQbbFKcEcV8hDItk) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:50 | 2024-11-12 |  |
 | [Perfect Crime](https://open.spotify.com/track/3icrcGXYalP3chZZRA0iH1) | [Naftizin](https://open.spotify.com/artist/3lf9b533yFfqzkOCKuggtw) | [King Of TV](https://open.spotify.com/album/4VmGD1S8MsIGUElRwTxr8s) | 2:31 | 2025-10-16 |  |
+| [Perfecting Failure](https://open.spotify.com/track/1UgOJhspmta0nQHaSLWw11) | [ColourMind](https://open.spotify.com/artist/6qAV0axr2ScfQCauvSZlKO) | [Perfecting Failure](https://open.spotify.com/album/5szJhKCuuafyVx6ztYwqhw) | 3:49 | 2026-01-29 |  |
 | [Permission to Share](https://open.spotify.com/track/2enSMsqNJHquTOqqVrfc8d) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [Permission to Share](https://open.spotify.com/album/1tIUy85SwGzWMe3kc5RTVZ) | 3:26 | 2025-08-21 |  |
 | [Peste Bianca](https://open.spotify.com/track/1YAIgtzDQoLtoJuvUVdbDV) | [Varego](https://open.spotify.com/artist/3QMKSumENf5jmrMkLo15zy) | [Peste Bianca](https://open.spotify.com/album/06UlSvxNI2yllFnRWijkPC) | 4:51 | 2025-02-07 |  |
 | [Phoenix](https://open.spotify.com/track/6L2ruJKIRq0OfmH37zW3to) | [Th Macrini](https://open.spotify.com/artist/4kNlOEwSyR8MGyxOiN4UGq) | [Phoenix](https://open.spotify.com/album/2W7OCef1y0cJYq7ceBEcEs) | 3:03 | 2025-05-06 |  |
@@ -638,6 +639,7 @@
 | [Slither & Stone](https://open.spotify.com/track/5Cfiu4XL2SAkDTdoLrH57j) | [Stitched Up](https://open.spotify.com/artist/762Cxbk76fKqLFirQVM3Q5) | [Slither & Stone](https://open.spotify.com/album/70FkeeA3JzcghVDY0icCFJ) | 4:39 | 2025-07-28 |  |
 | [Slow Down](https://open.spotify.com/track/3ypkhqVGEp9CJl4mREthrn) | [Jaws Of Life](https://open.spotify.com/artist/0szMFmeRKl6f9GggoA55u2) | [Slow Down](https://open.spotify.com/album/3eoaXUt5ViMHcQJOZTpc2b) | 3:14 | 2025-09-30 |  |
 | [Slow Secrets](https://open.spotify.com/track/74MjRwoVB9uVAzmgcnwaAq) | [Was a Wolf](https://open.spotify.com/artist/1EHTnpulUzfLp6suYQ31FV) | [Slow Secrets](https://open.spotify.com/album/2o1LzVli8YVUiXM903SeEx) | 3:45 | 2025-04-29 |  |
+| [Smile](https://open.spotify.com/track/3AKtAR615zEAc6UIT7oY80) | [Barakade](https://open.spotify.com/artist/3rYQvAdbe089i3VD3IRJva) | [Smile](https://open.spotify.com/album/1ZizPsLaReRlSoCVieveje) | 4:31 | 2026-01-29 |  |
 | [Snap](https://open.spotify.com/track/5bpmmQWr0xW9XrAWIiXl2K) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Snap](https://open.spotify.com/album/03VNzdrX0AUpaogdpHwm7F) | 3:23 | 2026-01-06 |  |
 | [Socially Unsocial](https://open.spotify.com/track/0RxIu4bygBAnPT6QOjwxz6) | [TAYLAA](https://open.spotify.com/artist/5oBRXfQuc4N8QlLsU5ab6i) | [Socially Unsocial](https://open.spotify.com/album/6AnDfGVZxNWZPrKVMIqOEs) | 2:49 | 2025-04-24 |  |
 | [Solidarität](https://open.spotify.com/track/3GSgMg4yOdyDFdvO2vvs9k) | [ARTIKEL 5](https://open.spotify.com/artist/2PJXx1qJZ40679Bvv0vkeU) | [Solidarität](https://open.spotify.com/album/5lECSZgMvZM6QfF8Bw9DkT) | 3:26 | 2025-05-06 |  |
@@ -653,6 +655,7 @@
 | [Spank Me \- 2023 Remastered Version](https://open.spotify.com/track/3V4noM5bfPWgzncxoCqLuy) | [House Of Baden](https://open.spotify.com/artist/3NPFR8IMXX7S89e6TXdHIN) | [Spank Me \(2023 Remastered Version\)](https://open.spotify.com/album/3Kdqy2c10XfujJpWluIu1C) | 2:29 | 2024-12-04 |  |
 | [Spent / Burnt](https://open.spotify.com/track/1k97Pr8uDb3hL8Ugelecfy) | [Future Mondays](https://open.spotify.com/artist/3VMpqGkVVuW4nTUJw9v2rt) | [Future Mondays](https://open.spotify.com/album/448haKOKsOWNr4OIG7ao3W) | 3:30 | 2025-02-07 |  |
 | [Spiral](https://open.spotify.com/track/2GmR8f2PjE9gcUkRws7rYJ) | [Worn Out Welcome](https://open.spotify.com/artist/0ibx8tICHFMIC94A8NrrqM) | [Spiral](https://open.spotify.com/album/2q2Ht27aBPC0AbXIEO4gmA) | 3:46 | 2026-01-06 |  |
+| [Spoiled Rotten \(HD\)](https://open.spotify.com/track/5QjNMb2PjmCDLZeBYno1hQ) | [The Rite Band](https://open.spotify.com/artist/0m4ILdMQu2bAfjnUnw9XIr), [Mr\. ALLEN](https://open.spotify.com/artist/24BbJE4zJyn34Skcv16Q9W) | [Spoiled Rotten \(HD\)](https://open.spotify.com/album/6l3BPCW6PDE8y5wzZTmmUf) | 4:11 | 2026-01-29 |  |
 | [Spoke For What I Knew](https://open.spotify.com/track/6dmKJ04Z4Fordv0ZclXe2L) | [Ben Aubergine](https://open.spotify.com/artist/3HoBbX5K0WawMbfNfXjqPz) | [Spoke For What I Knew](https://open.spotify.com/album/2OoIaaauNBjWt5ulMq1YHW) | 3:37 | 2025-09-19 |  |
 | [Spur of the Moment](https://open.spotify.com/track/03mD3frBW8OoknLYhtnf1L) | [Halcyon Hope](https://open.spotify.com/artist/4NSRFakKY1ZFd1cYMzlTzn) | [Spur of the Moment](https://open.spotify.com/album/3mSlFoSXt2TBmQw3J91e9X) | 3:04 | 2025-03-18 |  |
 | [Squabbles](https://open.spotify.com/track/1CvBST7guxLi0Y5jmxzfQs) | [JD](https://open.spotify.com/artist/5Lg7RoJ44wClpSQRlekSOB) | [Squabbles](https://open.spotify.com/album/1sq4QouZGEz9u1q0AZDT5s) | 4:58 | 2025-03-18 |  |
@@ -768,6 +771,7 @@
 | [Tua Música Sob Mim](https://open.spotify.com/track/66mtna9vktXR2iOqIX6pnv) | [Thiago Barba](https://open.spotify.com/artist/08IHljRCkTZ3v2X65B1U5I) | [Tua Música Sob Mim](https://open.spotify.com/album/2smuKKicmvozBeSSRWceuM) | 5:22 | 2025-02-05 |  |
 | [TUTTO REGOLARE](https://open.spotify.com/track/6L31jerupK1LKBSzg404cG) | [Samuele Montecucco](https://open.spotify.com/artist/0W5Ne1PyrfTbqQyYKumlKF) | [TUTTO REGOLARE](https://open.spotify.com/album/2vlrwvNnxd6rKHrFhYNWZK) | 2:58 | 2025-06-18 |  |
 | [Two for Diving](https://open.spotify.com/track/0LjsGoGad9uFIhyUIYDwj9) | [sleepingbagzzz](https://open.spotify.com/artist/1illHVPAUojDCwd2Po8GV3) | [Two for Diving](https://open.spotify.com/album/6ERi1BUpSQ0g8Cpmtk7WFI) | 3:00 | 2026-01-06 |  |
+| [Two Lights Beckon](https://open.spotify.com/track/1pR0Ja6gdWmhLksNy4poRk) | [Black Halo](https://open.spotify.com/artist/2Vzqi1AZ8PcAt5Br2wGtjL) | [Two Lights Beckon](https://open.spotify.com/album/63g2wZf82k9n5qspQXUIIr) | 3:51 | 2026-01-29 |  |
 | [Umbrosia](https://open.spotify.com/track/6WKhqyH9Sd7YqsswrwzY0q) | [Marccon](https://open.spotify.com/artist/3Wjbb98nW9w8jQRsFqgqtE) | [Bruma](https://open.spotify.com/album/6y2UuNa93pCoKYwn3wCm2w) | 4:05 | 2025-07-22 |  |
 | [Una y Mil Veces](https://open.spotify.com/track/38ynrtrPa6laWTufKuW7vK) | [Detrapo](https://open.spotify.com/artist/3cjnl4G8EXCdyKkyfYmA60), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [Una y Mil Veces](https://open.spotify.com/album/6CHz9QHJw6gRsaqCIrUbSM) | 4:26 | 2026-01-23 |  |
 | [Unburdened By What Has Been \(America Has Spoken\)](https://open.spotify.com/track/5AOcPCCQLB7X7zD4jhH1m8) | [ChooseWiselyAmerica](https://open.spotify.com/artist/5Ic01aYLF8GJ3kftKh7KQ9) | [Unburdened By What Has Been \(America Has Spoken\)](https://open.spotify.com/album/1cvoarH0JoCw7K5hDf0cF8) | 4:05 | 2025-06-12 |  |
@@ -810,6 +814,7 @@
 | [What Lies Above](https://open.spotify.com/track/73dFxofY5t8twhXMwrBvDs) | [Le Pietre di Mara](https://open.spotify.com/artist/7hv4rQbq0zehg96NzK4i5M) | [What Lies Above](https://open.spotify.com/album/28hbd8OXoA3e41kOmXyPGc) | 1:30 | 2025-08-03 |  |
 | [What Makes You Beautiful](https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Up All Night](https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq) | 3:19 | 2024-11-12 |  |
 | [What Will Be, Will Be](https://open.spotify.com/track/6lNhlqCAOJi9Xkle7JssUi) | [Asgard Raven](https://open.spotify.com/artist/1HtCJ47tHaFHQTSXlug3U5) | [What Will Be, Will Be](https://open.spotify.com/album/5xi4k9EM7KUVYR9vgAoue0) | 3:52 | 2025-02-05 |  |
+| [What You Got](https://open.spotify.com/track/7y54BPC8nFMxYnu5EYS4ii) | [Friends With Boats](https://open.spotify.com/artist/1ahtzLoyQhpQSyTTD0rysc) | [What You Got](https://open.spotify.com/album/2Jst1hbmwrDvt1jJEfE3ms) | 2:47 | 2026-01-29 |  |
 | [what's good \(the anthem\)](https://open.spotify.com/track/4D8CeiP6uzffTlHONnXovz) | [Darro](https://open.spotify.com/artist/3X2AuZv4fn9OPLwy464PgG) | [what's good \(the anthem\)](https://open.spotify.com/album/6ALX5UAJlWb4wRrxqtbEud) | 2:43 | 2025-06-21 |  |
 | [Whatcha Gonna Do \- \(remix\)](https://open.spotify.com/track/3iSrxoBnDoz5sIHWaS8L5Y) | [The Rite Band](https://open.spotify.com/artist/0m4ILdMQu2bAfjnUnw9XIr), [Mr\. ALLEN](https://open.spotify.com/artist/24BbJE4zJyn34Skcv16Q9W) | [Whatcha Gonna Do \(remix\)](https://open.spotify.com/album/7nO4OjN6f9xGxLkSGaGFzO) | 3:29 | 2025-09-30 |  |
 | [Whatcha Say](https://open.spotify.com/track/24969t525lDk5XVMtyZDyz) | [Space of a Day](https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB) | [Whatcha Say](https://open.spotify.com/album/6l6OjpMHC3XXt3OMnuq1lJ) | 3:02 | 2025-04-24 |  |
@@ -854,6 +859,7 @@
 | [Люблю](https://open.spotify.com/track/5OFLs1NK4P9CTwwH2P0rKY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Люблю](https://open.spotify.com/album/3YJO7rlQMviBQRxqMCUtx9) | 3:41 | 2026-01-06 |  |
 | [Мы зарастаем серебром](https://open.spotify.com/track/2cAg7yZkWtjCjR67hOnIAZ) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Мы зарастаем серебром](https://open.spotify.com/album/4lgfLNI3kUVQK8h4SlVepm) | 3:52 | 2025-06-30 |  |
 | [Мы зарастаем серебром](https://open.spotify.com/track/06xsD60yZKOhSoQzFBRnzT) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:05 | 2026-01-06 |  |
+| [Небеса](https://open.spotify.com/track/6kPH9DfXzZF4T7PYM2otQm) | [Yurii Khrabatyn](https://open.spotify.com/artist/1IhYoEEM1wX0nfU5Qa7anx), [Koridor v Tuman](https://open.spotify.com/artist/7tA2EAaPfvp34wbn0SJ3b0) | [Небеса](https://open.spotify.com/album/3eZ25ceyyanmysgjDddaOq) | 5:43 | 2026-01-29 |  |
 | [Рыжая девочка\-осень](https://open.spotify.com/track/4H7o6gTT8S1PoK5xsHAWCR) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Рыжая девочка\-осень](https://open.spotify.com/album/4K91LPYMgFjWnGBalCGnRO) | 2:23 | 2025-01-15 |  |
 | [Стихи усыпаны золой](https://open.spotify.com/track/15seLkH8hclkpoZeaqSqdU) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 2:37 | 2025-02-17 |  |
 | [Стихи усыпаны золой](https://open.spotify.com/track/5lKLESXe57MOnrruGp509e) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Стихи усыпаны золой](https://open.spotify.com/album/5R6LA8nzq4jZsMsWAK53TG) | 2:37 | 2025-02-17 |  |

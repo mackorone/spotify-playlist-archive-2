@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best pop songs from new, independent artists as chosen by our editors\.  Cover: Mira Housey\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,347 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,370 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 31 | [you got me](https://open.spotify.com/track/6ZpVscX4boZ0l5y3St4vCP) | [ifan](https://open.spotify.com/artist/6SXgsQUZMnd64CkYMvMoRO) | [you got me](https://open.spotify.com/album/2lYryQ557C426J8klJgSmU) | 2:57 |
 | 32 | [Hotel](https://open.spotify.com/track/4leYuigbid3LuPNI9jDsGr) | [Maeve](https://open.spotify.com/artist/3L2wM9IcPsk8BRRGkMk5tI) | [Hotel](https://open.spotify.com/album/6IiD5m2FkHUNSu1hVAPTGD) | 2:30 |
 | 33 | [i, february](https://open.spotify.com/track/2wgRHsMq6bbA1fh4k5tzja) | [GEORGY](https://open.spotify.com/artist/0mMGQe3zGT9DXFfxvK3G81) | [i, february](https://open.spotify.com/album/3RQo4ygL8TB3241bzwuFJQ) | 2:21 |
-| 34 | [selfish](https://open.spotify.com/track/2ZSmYz3VBxiWAmWLcAhU5K) | [Marli](https://open.spotify.com/artist/3VF7MG3VRTTOlRTlYwAUYW) | [selfish](https://open.spotify.com/album/7MKm08BD3d9TU1ExQpiINv) | 2:07 |
+| 34 | [selfish](https://open.spotify.com/track/2ZSmYz3VBxiWAmWLcAhU5K) | [marli](https://open.spotify.com/artist/3VF7MG3VRTTOlRTlYwAUYW) | [selfish](https://open.spotify.com/album/7MKm08BD3d9TU1ExQpiINv) | 2:07 |
 | 35 | [Anywhere Else](https://open.spotify.com/track/0fL6S8ciI1B7klHk7oTIFf) | [Alice Costelloe](https://open.spotify.com/artist/1xbZZl0gYutFPyiUAXuJLy) | [Anywhere Else](https://open.spotify.com/album/2zX9wmpRJ0GeVktkE8T1Sg) | 4:45 |
 | 36 | [Blushing at the BP](https://open.spotify.com/track/0iNgtJmvz23Q77QZetusO1) | [Len Blake](https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7) | [Blushing at the BP](https://open.spotify.com/album/1XzsyOBDHKRM70b00Qbwfl) | 2:34 |
 | 37 | [Will I Ever](https://open.spotify.com/track/6GqNzyHE084R4JheWzKIm6) | [SKAYA](https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC) | [Will I Ever](https://open.spotify.com/album/1Pt56Y8fz3rS7AwOO6qjre) | 2:51 |

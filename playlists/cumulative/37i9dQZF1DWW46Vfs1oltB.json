@@ -39577,6 +39577,28 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30cb\u30e7\u30cf\u30bb\u30e8",
+        "url": "https://open.spotify.com/album/2Vxwq1HTQ54jYHyinyIgWl"
+      },
+      "artists": [
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        },
+        {
+          "name": "Lil Moshpit",
+          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116800,
+      "name": "\u30a2\u30cb\u30e7\u30cf\u30bb\u30e8",
+      "url": "https://open.spotify.com/track/79o6CP5pgfHARPPXRHOcBN"
+    },
+    {
+      "album": {
         "name": "Korea ballad album",
         "url": "https://open.spotify.com/album/0IXcG8rSnqIIGuEvtkefce"
       },

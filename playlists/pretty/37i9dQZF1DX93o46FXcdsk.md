@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93o46FXcdsk.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 00's\. Cover: Guus Meeuwis
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,654 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,659 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93o46FXcdsk.md) - [plain]
 | 38 | [Onderweg](https://open.spotify.com/track/1EtcyegB7JLkAwwqiPyeJ6) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [De Stilte Voorbij](https://open.spotify.com/album/1aUGHhcpj1sfNQlcsd0UL2) | 3:09 |
 | 39 | [Alles Is Liefde](https://open.spotify.com/track/4zdf0FuRioClijrZyAou9i) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:29 |
 | 40 | [Het Land Van \- Live](https://open.spotify.com/track/2l8NsdEw2CS0vvd773OXLT) | [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE), [Baas B](https://open.spotify.com/artist/2UYP8NXUoN2bFx7sylWQ14) | [Het Land Van](https://open.spotify.com/album/6T95R8cncgESOF3Kxb45iF) | 4:22 |
-| 41 | [Blijf Bij Mij](https://open.spotify.com/track/0yIzbIUyiJnTkByb2ryhtv) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY), [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Blijf Bij Mij](https://open.spotify.com/album/0Mkh5WW9ANje9bRegoK3B5) | 4:01 |
-| 42 | [Dansplaat](https://open.spotify.com/track/5dX8kUF1ugdikFb8A6FnlQ) | [Brainpower](https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w) | [Verschil Moet Er Zijn](https://open.spotify.com/album/37GnjH1ZVf52e4JXMsoPxT) | 3:48 |
-| 43 | [Rosanne](https://open.spotify.com/track/3uVStmfnvh0lT4ispLGvt5) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Vandaag](https://open.spotify.com/album/61Hj7eJ70YRLYd8XOMCVHt) | 2:39 |
+| 41 | [Rosanne](https://open.spotify.com/track/3uVStmfnvh0lT4ispLGvt5) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Vandaag](https://open.spotify.com/album/61Hj7eJ70YRLYd8XOMCVHt) | 2:39 |
+| 42 | [Blijf Bij Mij](https://open.spotify.com/track/0yIzbIUyiJnTkByb2ryhtv) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY), [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Blijf Bij Mij](https://open.spotify.com/album/0Mkh5WW9ANje9bRegoK3B5) | 4:01 |
+| 43 | [Dansplaat](https://open.spotify.com/track/5dX8kUF1ugdikFb8A6FnlQ) | [Brainpower](https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w) | [Verschil Moet Er Zijn](https://open.spotify.com/album/37GnjH1ZVf52e4JXMsoPxT) | 3:48 |
 | 44 | [Dichterbij Dan Ooit](https://open.spotify.com/track/1FjeCYFor4B5O3LHaR8eW3) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 4:19 |
 | 45 | [Watermensen](https://open.spotify.com/track/5i0GCe9HKoiKi8WbFZRTqi) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Totzoverder \(Het Beste Van 3JS\)](https://open.spotify.com/album/18oD8jR60K0DXhs7A2mi1h) | 3:28 |
 | 46 | [Mijn Van Straat Geredde Roos](https://open.spotify.com/track/4dT8ndNPoqfhJmEqNO48BE) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Alle 40 Goed](https://open.spotify.com/album/1mUYDIiCsQwg6B7HgxRoIR) | 3:27 |

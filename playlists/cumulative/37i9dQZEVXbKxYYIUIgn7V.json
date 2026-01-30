@@ -2022,7 +2022,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 153698,
       "name": "Aff im Kopf",
       "url": "https://open.spotify.com/track/21nuXb9yhcyA91gRVVBpfI"
@@ -26845,6 +26845,24 @@
     },
     {
       "album": {
+        "name": "L'Amour Toujours",
+        "url": "https://open.spotify.com/album/6lOhJMErRT2l9Mg2XpLhI2"
+      },
+      "artists": [
+        {
+          "name": "Constanze Hochwartner",
+          "url": "https://open.spotify.com/artist/3IpjaZTJnz1989Ib3nTIAn"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228760,
+      "name": "L'Amour Toujours",
+      "url": "https://open.spotify.com/track/4JtOhAQTMtxFDDt7oY7RAA"
+    },
+    {
+      "album": {
         "name": "NANI, Vol. 1",
         "url": "https://open.spotify.com/album/3hKvvX6UWFzrWSrAIj7RDw"
       },
@@ -26856,7 +26874,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 228760,
       "name": "L'Amour Toujours",
       "url": "https://open.spotify.com/track/5bFBKFnbMFt3yfdGrudRZ0"
@@ -29342,6 +29360,24 @@
       "duration_ms": 189356,
       "name": "Lonely Road (with Jelly Roll)",
       "url": "https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN"
+    },
+    {
+      "album": {
+        "name": "Waiting for You",
+        "url": "https://open.spotify.com/album/3roYW2wFjeqPjRWp9HTho9"
+      },
+      "artists": [
+        {
+          "name": "Monotronic",
+          "url": "https://open.spotify.com/artist/6yRrkpttMRDY8KiZG193SU"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167490,
+      "name": "Looking Away",
+      "url": "https://open.spotify.com/track/5mkAiQUZK1RMW0SD2c0ilE"
     },
     {
       "album": {
@@ -38121,6 +38157,24 @@
     },
     {
       "album": {
+        "name": "Schlau aber blond",
+        "url": "https://open.spotify.com/album/6gSNgh5SP5Pr7C7HHA5RSD"
+      },
+      "artists": [
+        {
+          "name": "Shirin David",
+          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145365,
+      "name": "pms",
+      "url": "https://open.spotify.com/track/4X7nZHyzzzxW0Fz0SHeQ4W"
+    },
+    {
+      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/51nFEotuoYTQosyP4PDp9f"
       },
@@ -38638,7 +38692,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 234151,
       "name": "PUNK ROCKY",
       "url": "https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T"
@@ -44302,7 +44356,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 114000,
       "name": "Stamp On The Ground",
       "url": "https://open.spotify.com/track/4Q5SMNyWydPAHZ51qc6M2E"
@@ -44536,7 +44590,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-26",
+      "date_removed": null,
       "duration_ms": 138199,
       "name": "Step Into Your Power",
       "url": "https://open.spotify.com/track/7ClwklUld4dOIvUqRMRLVc"

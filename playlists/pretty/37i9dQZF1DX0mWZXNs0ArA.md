@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,949,968 likes - 100 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,949,849 likes - 100 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 77 | [Only Love Can Hurt Like This \- Sped Up Version](https://open.spotify.com/track/6SCJiS8fAWC5VzRpMEiHxV) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [Only Love Can Hurt Like This \(Sped Up Version\)](https://open.spotify.com/album/4n584qCBn2N7MDkjPX6Cs8) | 2:45 |
 | 78 | [Hell N Back \- Sped Up](https://open.spotify.com/track/2kjdWC3cn0xYJ3Hg8Wo6DR) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [Hell N Back \(Sped Up\)](https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8) | 2:44 |
 | 79 | [Gangsta \(Kehlani\) \- Sped Up Version](https://open.spotify.com/track/4Z7ZOrHtlgn9kXw68c0pMo) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Gangsta \(Kehlani\) \[Sped Up Version\]](https://open.spotify.com/album/1L1jza2QSImCzOkQq7f5mO) | 2:12 |
-| 80 | [kompa pasión \- sped up](https://open.spotify.com/track/4HtX5Hfk0jjiEmJTo6gkZz) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2) | [kompa pasión](https://open.spotify.com/album/5tORQTrDCEGbzXF7D6oQR3) | 2:07 |
-| 81 | [Wasted Summers \- Sped Up](https://open.spotify.com/track/3D68y3ta9qkxpSdjLjPOoS) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers \(Sped Up\)](https://open.spotify.com/album/4P0oxvMiZmCAnbkb6iWxLx) | 1:58 |
+| 80 | [Wasted Summers \- Sped Up](https://open.spotify.com/track/3D68y3ta9qkxpSdjLjPOoS) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers \(Sped Up\)](https://open.spotify.com/album/4P0oxvMiZmCAnbkb6iWxLx) | 1:58 |
+| 81 | [kompa pasión \- sped up](https://open.spotify.com/track/4HtX5Hfk0jjiEmJTo6gkZz) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2) | [kompa pasión](https://open.spotify.com/album/5tORQTrDCEGbzXF7D6oQR3) | 2:07 |
 | 82 | [Hall of Fame \(feat\. will.i.am\) \- sped up](https://open.spotify.com/track/09q25kUOESuDfTbgjcq8CD) | [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl), [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [The Script](https://open.spotify.com/album/3aJM2HWob5jAD6zjfEY2nX) | 3:04 |
 | 83 | [UNDERSTAND \- Sped Up](https://open.spotify.com/track/6DMI24muDgH74R3sT2ie4F) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [UNDERSTAND \(Sped Up Version\)](https://open.spotify.com/album/7y33ncIO49DOPfqM6xtAkC) | 2:05 |
 | 84 | [af1 \(sped up\)](https://open.spotify.com/track/1HmUGju9HonKgT157b0DLB) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [af1 \(sped up\)](https://open.spotify.com/album/5n0OHA9uNQ6voLmTJJkg5B) | 1:58 |

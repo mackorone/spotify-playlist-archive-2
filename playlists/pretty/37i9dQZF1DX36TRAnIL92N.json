@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 466391,
+  "num_followers": 466613,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2026-01-16 05:00:26",
       "album": {
+        "name": "Heute Nacht",
+        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Heute Nacht",
+      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
+    },
+    {
+      "added_at": "2026-01-16 05:00:26",
+      "album": {
         "name": "Around The World",
         "url": "https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 140986,
       "name": "Around The World",
       "url": "https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs"
-    },
-    {
-      "added_at": "2026-01-16 05:00:26",
-      "album": {
-        "name": "Heute Nacht",
-        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Heute Nacht",
-      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
     },
     {
       "added_at": "2026-01-16 05:00:26",
@@ -295,6 +295,30 @@
     {
       "added_at": "2026-01-16 05:00:26",
       "album": {
+        "name": "Where I'm From",
+        "url": "https://open.spotify.com/album/71N6oT6Vtqs5xjn9b1xxYK"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        },
+        {
+          "name": "Belladonna (ofc) ",
+          "url": "https://open.spotify.com/artist/1ECGFhfV6SJLbKnTvBFsaQ"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Where I'm From",
+      "url": "https://open.spotify.com/track/0JFNTfRWLqQ09z9ZHldX8d"
+    },
+    {
+      "added_at": "2026-01-16 05:00:26",
+      "album": {
         "name": "Voices In My Head (Amelie Lens Remix)",
         "url": "https://open.spotify.com/album/0Vuh5UNwqz3ObGMGhCiQr9"
       },
@@ -323,30 +347,6 @@
     {
       "added_at": "2026-01-16 05:00:26",
       "album": {
-        "name": "Where I'm From",
-        "url": "https://open.spotify.com/album/71N6oT6Vtqs5xjn9b1xxYK"
-      },
-      "artists": [
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        },
-        {
-          "name": "SCRIPT",
-          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
-        },
-        {
-          "name": "Belladonna (ofc) ",
-          "url": "https://open.spotify.com/artist/1ECGFhfV6SJLbKnTvBFsaQ"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Where I'm From",
-      "url": "https://open.spotify.com/track/0JFNTfRWLqQ09z9ZHldX8d"
-    },
-    {
-      "added_at": "2026-01-16 05:00:26",
-      "album": {
         "name": "SCANDAL ANTHEM",
         "url": "https://open.spotify.com/album/1KGIRYw9xdet38N9JKZp7l"
       },
@@ -367,22 +367,22 @@
     {
       "added_at": "2026-01-16 05:00:26",
       "album": {
-        "name": "Bombacid",
-        "url": "https://open.spotify.com/album/2wuhp5q5agJgqllJdBpJdN"
+        "name": "Eyes On Me",
+        "url": "https://open.spotify.com/album/3fZj8YWdyRjx5Zuk79BhRU"
       },
       "artists": [
         {
-          "name": "T78",
-          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
         },
         {
-          "name": "Roberto Molinaro",
-          "url": "https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9"
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Bombacid",
-      "url": "https://open.spotify.com/track/1DdByft8QSr5sf8ZhdxcXE"
+      "duration_ms": 218978,
+      "name": "Eyes On Me",
+      "url": "https://open.spotify.com/track/3pXKGIgJ9tLCDIplmLdGHj"
     },
     {
       "added_at": "2026-01-16 05:00:26",
@@ -403,22 +403,22 @@
     {
       "added_at": "2026-01-16 05:00:26",
       "album": {
-        "name": "Eyes On Me",
-        "url": "https://open.spotify.com/album/3fZj8YWdyRjx5Zuk79BhRU"
+        "name": "Bombacid",
+        "url": "https://open.spotify.com/album/2wuhp5q5agJgqllJdBpJdN"
       },
       "artists": [
         {
-          "name": "Nicole Moudaber",
-          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
         },
         {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+          "name": "Roberto Molinaro",
+          "url": "https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9"
         }
       ],
-      "duration_ms": 218978,
-      "name": "Eyes On Me",
-      "url": "https://open.spotify.com/track/3pXKGIgJ9tLCDIplmLdGHj"
+      "duration_ms": 204000,
+      "name": "Bombacid",
+      "url": "https://open.spotify.com/track/1DdByft8QSr5sf8ZhdxcXE"
     },
     {
       "added_at": "2026-01-16 05:00:26",

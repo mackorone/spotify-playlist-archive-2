@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Danzar](https://open.spotify.com/track/5JJMWmzo2cWqHewyS8mnyp) | [Coro Renacer](https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP), [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j) | [A Danzar](https://open.spotify.com/album/5j00peGbFZlbph2dlQsZD1) | 1:31 | 2024-12-20 |  |
+| [A Danzar](https://open.spotify.com/track/5JJMWmzo2cWqHewyS8mnyp) | [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j), [Coro Renacer](https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP) | [A Danzar](https://open.spotify.com/album/5j00peGbFZlbph2dlQsZD1) | 1:31 | 2024-12-20 |  |
 | [Abre mis ojos Señor](https://open.spotify.com/track/5JtKa9IFa64S930qzTX26R) | [Niños Adorando](https://open.spotify.com/artist/1PYUF0VPXFO1yLg3heK1Nb) | [Niños Adorando Vol2](https://open.spotify.com/album/1sLgQdb9ZXuT8fXFClixPU) | 4:43 | 2024-07-29 |  |
 | [Cantaré De Tu Amor](https://open.spotify.com/track/3gvQe9l5zzT6JCZKt41M4C) | [Xtreme Kids](https://open.spotify.com/artist/6cf6SfcHT6kRhSFghWqEId) | [Jesús Es Super Fuerte](https://open.spotify.com/album/01lgZAoD5nMvIbPE3iIecP) | 3:44 | 2024-07-29 | 2024-12-21 |
 | [Canto Y Danzo](https://open.spotify.com/track/0Qz876escsK5OE7Kh9GlUx) | [Generación 12 Kids](https://open.spotify.com/artist/7jfaTHsGjDNbLdpdJI29TK) | [El Soñador José](https://open.spotify.com/album/29HHbyXKvWniZ1Rvr96qFP) | 2:38 | 2024-07-29 |  |

@@ -476,6 +476,28 @@
     {
       "album": {
         "name": "Adonai",
+        "url": "https://open.spotify.com/album/7G2K58MbIu38eqVp2sasKz"
+      },
+      "artists": [
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        },
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169473,
+      "name": "Adonai",
+      "url": "https://open.spotify.com/track/34R7Mjmhcwjm17nE3gwV8A"
+    },
+    {
+      "album": {
+        "name": "Adonai",
         "url": "https://open.spotify.com/album/6FLiEFzCVibo1ptdlzXP4D"
       },
       "artists": [
@@ -9024,7 +9046,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 158793,
       "name": "Fire",
       "url": "https://open.spotify.com/track/74TNMED0pnJNOOou7ESmyC"
@@ -13025,6 +13047,28 @@
     },
     {
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0pZppuP12YL9jShVhp0zz5"
+      },
+      "artists": [
+        {
+          "name": "SEHVEN",
+          "url": "https://open.spotify.com/artist/7pQMML3OL5q2YakI4KtsqM"
+        },
+        {
+          "name": "NW.FRGVN",
+          "url": "https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/1YQaqPM7tiqSmg4l1kseWq"
+    },
+    {
+      "album": {
         "name": "Hold On (Remix)",
         "url": "https://open.spotify.com/album/4a6QrzH1axFeHBWfRbeaZ7"
       },
@@ -13062,6 +13106,32 @@
       "duration_ms": 172113,
       "name": "Hold On Me",
       "url": "https://open.spotify.com/track/0iYrbOzpIwEnKeRBHlB5tH"
+    },
+    {
+      "album": {
+        "name": "Holla Christ (Reminiscing)",
+        "url": "https://open.spotify.com/album/2hpCWSXmXLsJe55GveED0B"
+      },
+      "artists": [
+        {
+          "name": "Phrv",
+          "url": "https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq"
+        },
+        {
+          "name": "Tissann",
+          "url": "https://open.spotify.com/artist/0oXiDrLAR9O9986SCXZj8X"
+        },
+        {
+          "name": "Nomza",
+          "url": "https://open.spotify.com/artist/0ebNqGJ09joqyFiemZyLpx"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Holla Christ (Reminiscing)",
+      "url": "https://open.spotify.com/track/1gvBz6HBrQpvx3Z9YpqCFJ"
     },
     {
       "album": {
@@ -13560,7 +13630,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 235340,
       "name": "I Am the Best",
       "url": "https://open.spotify.com/track/5f9oZRFMO6QMxX2mHVCVQw"
@@ -13888,6 +13958,24 @@
       "duration_ms": 148163,
       "name": "i NEED YOU more.",
       "url": "https://open.spotify.com/track/0oi48bURG4Lnkc85jdmnw2"
+    },
+    {
+      "album": {
+        "name": "I Never Lose",
+        "url": "https://open.spotify.com/album/3sHO5hD2ZQbwpWys1vZ8TA"
+      },
+      "artists": [
+        {
+          "name": "Temple",
+          "url": "https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205061,
+      "name": "I Never Lose",
+      "url": "https://open.spotify.com/track/3qggcKkrS2ZSZvpasOGw9l"
     },
     {
       "album": {
@@ -21125,6 +21213,24 @@
     },
     {
       "album": {
+        "name": "No Weapon",
+        "url": "https://open.spotify.com/album/4AFSWnW3fNNwbMpnuXgbBH"
+      },
+      "artists": [
+        {
+          "name": "Mayor Boss",
+          "url": "https://open.spotify.com/artist/5SG33RwNDk7t92dRUKyLUZ"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101067,
+      "name": "No Weapon",
+      "url": "https://open.spotify.com/track/1rS9xwUy0cdeb5u5Rnga4Q"
+    },
+    {
+      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/1sc4DA0c5sY2Pr0EZxX2p6"
       },
@@ -21752,6 +21858,28 @@
       "duration_ms": 165000,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/3vBlMC9hOso3fEEx6a7ehM"
+    },
+    {
+      "album": {
+        "name": "Odimafo (Defender)",
+        "url": "https://open.spotify.com/album/1IlSu6Awaq4xaZOYNN7i2L"
+      },
+      "artists": [
+        {
+          "name": "Morris Singz",
+          "url": "https://open.spotify.com/artist/3X3TVlZ7n0RSp3eVaM9nnP"
+        },
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155371,
+      "name": "Odimafo (Defender)",
+      "url": "https://open.spotify.com/track/3tpJBR2KkjeXIJ3I8Bs35P"
     },
     {
       "album": {
@@ -23789,6 +23917,32 @@
     },
     {
       "album": {
+        "name": "PATTERN",
+        "url": "https://open.spotify.com/album/6CmkXlvAmyotnSNmQjfQee"
+      },
+      "artists": [
+        {
+          "name": "Marie Love",
+          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
+        },
+        {
+          "name": "SSTEDI",
+          "url": "https://open.spotify.com/artist/1VZIyB5EgFbnBlOlY8SgYK"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219212,
+      "name": "PATTERN",
+      "url": "https://open.spotify.com/track/0NVQddRYQiWhw5AunMZVIB"
+    },
+    {
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/7ts6XbRHcJ7p84kuHZ2wHC"
       },
@@ -25563,6 +25717,24 @@
     },
     {
       "album": {
+        "name": "ROGIC",
+        "url": "https://open.spotify.com/album/6PiN5pM2VLtCSp3YF2yidb"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210077,
+      "name": "ROGIC",
+      "url": "https://open.spotify.com/track/75HuzOo5GXHKPic7Gt16Ci"
+    },
+    {
+      "album": {
         "name": "Run To God (R.T.G)",
         "url": "https://open.spotify.com/album/2fPZrIhOH9tLM74XnDqpuT"
       },
@@ -26482,7 +26654,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 171923,
       "name": "So Good",
       "url": "https://open.spotify.com/track/0iaTMmga3aVAgYEWhk6EGn"
@@ -27622,7 +27794,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 195271,
       "name": "Surest Daddy",
       "url": "https://open.spotify.com/track/79poaaEHcBmWeQPav1V9g9"
@@ -29345,6 +29517,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/61PIo9nn1kF5hhRoAAanEF"
+    },
+    {
+      "album": {
         "name": "Treasure",
         "url": "https://open.spotify.com/album/1eTsRbUS7CUVHWMWHWYRBj"
       },
@@ -29720,6 +29910,28 @@
       "duration_ms": 150508,
       "name": "Undercover",
       "url": "https://open.spotify.com/track/5cBWaDfCIFEvTnUF73urP6"
+    },
+    {
+      "album": {
+        "name": "Unending Joy",
+        "url": "https://open.spotify.com/album/1JlSlgPAX5ES1G05LZJESr"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 585453,
+      "name": "Unending Joy",
+      "url": "https://open.spotify.com/track/5Ze3zGf8vy3KNI64MAyOXa"
     },
     {
       "album": {
@@ -32318,6 +32530,32 @@
       "duration_ms": 113278,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/0FeuYLP73IxU5X1MC7ORdn"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/3dmXP6YQdL8cv4dkzYSdLA"
+      },
+      "artists": [
+        {
+          "name": "SS City",
+          "url": "https://open.spotify.com/artist/4OpSoBF444VaTHCWmhEzWn"
+        },
+        {
+          "name": "Psalm Hills",
+          "url": "https://open.spotify.com/artist/2pssl6dzeh6h6IpUIq9XQ7"
+        },
+        {
+          "name": "Stanley Ifenna",
+          "url": "https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154331,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/6RGmPfw56VhduUvLIsCzHP"
     },
     {
       "album": {

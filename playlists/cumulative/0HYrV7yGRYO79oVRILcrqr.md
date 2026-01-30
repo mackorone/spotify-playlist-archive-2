@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-297 songs - 18 hr 19 min
+298 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Good Bye Baby](https://open.spotify.com/track/7wKQ4aUYEPXIq0FuWTIiS3) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Good Bye Baby](https://open.spotify.com/album/2C0ez6GxS1biRCR0AwH7fB) | 4:34 | 2025-11-12 | 2025-12-17 |
 | [got a little spacey](https://open.spotify.com/track/64t4vsXlRGBbEoxN9gT12C) | [rivers western](https://open.spotify.com/artist/31yh8AHiPkbkybRerMmuv9) | [got a little spacey](https://open.spotify.com/album/4yuQpJrrYtvpeqqBuSaL0f) | 2:43 | 2025-10-18 | 2025-11-28 |
 | [Green Giants March](https://open.spotify.com/track/6EfCto1xF9NLpZt8469sbX) | [Jaxx.13](https://open.spotify.com/artist/1pV2GA9n5xplcSgg58F3Xn), [Digiplayer.13](https://open.spotify.com/artist/32yRrtY4Az7zXL2a2nf9gk), [Alex.13](https://open.spotify.com/artist/74kwMd6oJzppv5s1b6RhVV) | [Green Giants March](https://open.spotify.com/album/0ZXdBFVaPAfzZNrleHHvIM) | 2:30 | 2026-01-06 |  |
+| [Grinder Minder](https://open.spotify.com/track/7nmyUuAJDJ0O9VRF7Lv8NR) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Grinder Minder](https://open.spotify.com/album/1SperF6SKGWOeLHv3kG5gl) | 3:06 | 2026-01-29 |  |
 | [Guerrero](https://open.spotify.com/track/4WcNVDm7F46de4XaCZiO5B) | [Wilson Ramírez](https://open.spotify.com/artist/7lPZcZVYj28uttO8cLsJ3Z) | [Guerrero](https://open.spotify.com/album/025nIW94c2Tsf5xx1Fbhp7) | 4:34 | 2025-09-21 |  |
 | [Hangover](https://open.spotify.com/track/1AAetcgV5lmgLM07i3gxDW) | [Rollin Bee](https://open.spotify.com/artist/1SzjCvXYlJ3gW3WsivnYFR) | [First Sting](https://open.spotify.com/album/2KtYi2vu5RqNIhU50G9bMm) | 3:14 | 2025-09-26 | 2025-12-17 |
 | [Headspin](https://open.spotify.com/track/2liyNPgBSB69fWJRaTL8ra) | [Mays Hounds](https://open.spotify.com/artist/0uyaofsOLmzcYezAAKtYkj) | [Deliverance](https://open.spotify.com/album/4JWS6dUdADr2OTwQucLVh6) | 5:01 | 2025-10-22 | 2025-11-28 |

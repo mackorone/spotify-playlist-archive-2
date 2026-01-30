@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-182 songs - 10 hr 17 min
+183 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Four Little Diamonds](https://open.spotify.com/track/6dEGo0qXo7dyFtPh0UjTNG) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [ELO 50th Anniversary Vol\. 2](https://open.spotify.com/album/6U9L0ZDsCgNFTW7H7NPizN) | 4:05 | 2024-01-02 |  |
 | [Freaks \- Radio Edit](https://open.spotify.com/track/0LXcDLTEW5ybAt2IOVQnfe) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Freaks](https://open.spotify.com/album/5uUOnwqz2WTNsCLQBRIg6m) | 2:50 | 2022-05-07 |  |
 | [Funk da Netflix: onde tudo começou](https://open.spotify.com/track/04pEkmPO7jLJfRhM9UGQA4) | [Hefty](https://open.spotify.com/artist/7hOM7jG6GXxugQGe9JN8Kk) | [Tudum Remix](https://open.spotify.com/album/38e5jYSDDCkTEKFYy5IGss) | 0:30 | 2024-04-29 |  |
+| [Get It Up](https://open.spotify.com/track/2bPZ7cEBa5SKliThdwdiK7) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [If](https://open.spotify.com/album/7oCdAqjucwIz7ToQGOV20P) | 2:35 | 2026-01-29 |  |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:52 | 2024-09-20 |  |
 | [Giorno's Theme](https://open.spotify.com/track/0oFPCGIO4t2cmOkksXknoD) | [Friedrich Habetler](https://open.spotify.com/artist/3VudC1DraV4LjIdLzpqQ80) | [Giorno's Theme](https://open.spotify.com/album/6UDDr9aZsmprJXfgU48Lqa) | 5:06 | 2024-10-28 |  |
 | [Giorno's Theme \(Jay D Remix by JoRoYT\)](https://open.spotify.com/episode/2RwtULDIIem7Q7ENpMaKxo) | [AniCast](https://open.spotify.com/show/59PNAB2nCZNVzvE793UE1I) | [AniCast](https://open.spotify.com/album/59PNAB2nCZNVzvE793UE1I) | 2:30 | 2024-10-27 | 2024-12-10 |

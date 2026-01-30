@@ -1,12 +1,12 @@
 {
   "description": "This is Jhen\u00e9 Aiko. The essential tracks, all in one playlist.",
-  "num_followers": 244557,
+  "num_followers": 244554,
   "original_name": "This Is Jhen\u00e9 Aiko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXgAAAAAAACxJbgDeXfU3FOkQYgEZzNp",
+  "snapshot_id": "aXlRgAAAAABgGXX+b20cyz1jkn4be1hA",
   "tracks": [
     {
       "added_at": null,
@@ -535,6 +535,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Kurupt",
+          "url": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+        }
+      ],
+      "duration_ms": 270546,
+      "name": "Never Call Me",
+      "url": "https://open.spotify.com/track/0WXct4PcELq8Jh1R4Yhw4W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pretty Girls Like Trap Music",
         "url": "https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 210200,
       "name": "It's A Vibe",
       "url": "https://open.spotify.com/track/6H0AwSQ20mo62jGlPGB8S6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Kurupt",
-          "url": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
-        }
-      ],
-      "duration_ms": 270546,
-      "name": "Never Call Me",
-      "url": "https://open.spotify.com/track/0WXct4PcELq8Jh1R4Yhw4W"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chilombo (Deluxe)",
+        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "Above And Beyond",
+      "url": "https://open.spotify.com/track/2p5QtNGyfnT5MhQex3WOte"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Can't Hide It (feat. Jhen\u00e9 Aiko)",
         "url": "https://open.spotify.com/album/0gIhjFBD2U7TX7O7ZGRsb4"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 162187,
       "name": "Can't Hide It (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/0jl2VaNUWun3uwy5LPbDyx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chilombo (Deluxe)",
-        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 206013,
-      "name": "Above And Beyond",
-      "url": "https://open.spotify.com/track/2p5QtNGyfnT5MhQex3WOte"
     },
     {
       "added_at": null,

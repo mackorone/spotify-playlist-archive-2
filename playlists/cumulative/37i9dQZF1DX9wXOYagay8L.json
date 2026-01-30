@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly Southern African Afropop gems. Cover: Naledi Aphiwe, Mawelele",
+  "description": "Proudly Southern African Afropop gems. Cover: Danya Devs",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -2296,6 +2296,28 @@
       "duration_ms": 398350,
       "name": "Cold Outside (feat. DBN Gogo & Blxckie)",
       "url": "https://open.spotify.com/track/4c0H3e3Mnd9qqnDfPhDN6k"
+    },
+    {
+      "album": {
+        "name": "Come Duze",
+        "url": "https://open.spotify.com/album/6SdVs1UyZWW3B6mBVvT8wF"
+      },
+      "artists": [
+        {
+          "name": "Naledi Aphiwe",
+          "url": "https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN"
+        },
+        {
+          "name": "Mawelele",
+          "url": "https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Come Duze",
+      "url": "https://open.spotify.com/track/5GgMTUIDwPuhAJrpqaHsZc"
     },
     {
       "album": {
@@ -5918,7 +5940,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 277080,
       "name": "Izimpunyela",
       "url": "https://open.spotify.com/track/4d7h6obXSLfsFik9kY1in6"
@@ -6751,6 +6773,28 @@
     },
     {
       "album": {
+        "name": "iNkanyezi NeZinkanyezi",
+        "url": "https://open.spotify.com/album/3AbrYUidErtcqWHTLiXU00"
+      },
+      "artists": [
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "Jesse Clegg",
+          "url": "https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286000,
+      "name": "Kuye",
+      "url": "https://open.spotify.com/track/0uzer7CkAQwuXX5ySXfIFy"
+    },
+    {
+      "album": {
         "name": "Kuyobanini",
         "url": "https://open.spotify.com/album/2BBKqz9PnEfUEesepxLo9V"
       },
@@ -7044,6 +7088,28 @@
       "duration_ms": 242546,
       "name": "Langazela (feat. Ami Faku & Mr. V-ntage)",
       "url": "https://open.spotify.com/track/2uhZSY6WdR40uiLGtXXmzT"
+    },
+    {
+      "album": {
+        "name": "SHONA SOUL",
+        "url": "https://open.spotify.com/album/1OZMRM8GFvrS6G4H70VqKl"
+      },
+      "artists": [
+        {
+          "name": "Ksoulrsa",
+          "url": "https://open.spotify.com/artist/3Rcm4uLd61cxDtQsjjxtH4"
+        },
+        {
+          "name": "Ruvimbo",
+          "url": "https://open.spotify.com/artist/0H9hyTkCwELLroC9zTODuz"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221123,
+      "name": "Lebala",
+      "url": "https://open.spotify.com/track/1T19kPbN2QQ4VDAmnJUROS"
     },
     {
       "album": {
@@ -10558,6 +10624,28 @@
       "duration_ms": 240666,
       "name": "Oh Mama",
       "url": "https://open.spotify.com/track/4hQwThtNmUcBvkXEvAhP4S"
+    },
+    {
+      "album": {
+        "name": "Bayede",
+        "url": "https://open.spotify.com/album/3gndOvCu4HGrDOrv0nnyif"
+      },
+      "artists": [
+        {
+          "name": "Danya Devs",
+          "url": "https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs"
+        },
+        {
+          "name": "Mawelele",
+          "url": "https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188971,
+      "name": "Ola Sbali",
+      "url": "https://open.spotify.com/track/3RL87os1VKhglGA6CpgdWV"
     },
     {
       "album": {

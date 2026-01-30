@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Guilherme Arantes",
-  "num_followers": 355463,
+  "num_followers": 355448,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -103,6 +103,22 @@
     {
       "added_at": "2026-01-23 15:04:09",
       "album": {
+        "name": "Sua Onda",
+        "url": "https://open.spotify.com/album/2aQRL0B3OTraPeCftGgK4I"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 216410,
+      "name": "Sua Onda",
+      "url": "https://open.spotify.com/track/0aRDSJHPIyPBGfOqxkLyTE"
+    },
+    {
+      "added_at": "2026-01-23 15:04:09",
+      "album": {
         "name": "Proposta",
         "url": "https://open.spotify.com/album/6kV4cGFJFBrm8xWk9RqKWD"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 224720,
       "name": "Proposta",
       "url": "https://open.spotify.com/track/7nnOpLkOGevWX6BYxs2xnP"
-    },
-    {
-      "added_at": "2026-01-23 15:04:09",
-      "album": {
-        "name": "Sua Onda",
-        "url": "https://open.spotify.com/album/2aQRL0B3OTraPeCftGgK4I"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 216410,
-      "name": "Sua Onda",
-      "url": "https://open.spotify.com/track/0aRDSJHPIyPBGfOqxkLyTE"
     },
     {
       "added_at": "2026-01-23 15:04:09",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-01-23 15:04:09",
       "album": {
+        "name": "AFIM",
+        "url": "https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Infinito em n\u00f3s",
+      "url": "https://open.spotify.com/track/6k6PhENdLggOmmaXkmucTT"
+    },
+    {
+      "added_at": "2026-01-23 15:04:09",
+      "album": {
         "name": "PAULA TOLLER - AO VIVO - AMOROSA (40 anos de carreira)",
         "url": "https://open.spotify.com/album/5oX1k6VHPJgqGAlZN1CHdd"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 204680,
       "name": "Nada Por Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/1mVrGsjVhqWGqLia5c0XN0"
-    },
-    {
-      "added_at": "2026-01-23 15:04:09",
-      "album": {
-        "name": "AFIM",
-        "url": "https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Infinito em n\u00f3s",
-      "url": "https://open.spotify.com/track/6k6PhENdLggOmmaXkmucTT"
     },
     {
       "added_at": "2026-01-23 15:04:09",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-01-23 15:04:09",
       "album": {
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/05vHoRRovirQAL58SCHNBZ"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "duration_ms": 265166,
+      "name": "Clara",
+      "url": "https://open.spotify.com/track/39wmwAYmZBUiH6uZmXcKoz"
+    },
+    {
+      "added_at": "2026-01-23 15:04:09",
+      "album": {
         "name": "Ana Canta C\u00e1ssia - Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0tko43L76jX04WzhfWeeyU"
       },
@@ -807,6 +823,22 @@
     {
       "added_at": "2026-01-23 15:04:09",
       "album": {
+        "name": "Praia Vermelha do Sul",
+        "url": "https://open.spotify.com/album/1IRdFuzbxGfwJS8I8sqw8T"
+      },
+      "artists": [
+        {
+          "name": "Leo Middea",
+          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+        }
+      ],
+      "duration_ms": 211367,
+      "name": "Praia Vermelha do Sul",
+      "url": "https://open.spotify.com/track/4xDiyA9dqXSa2288dig5QQ"
+    },
+    {
+      "added_at": "2026-01-23 15:04:09",
+      "album": {
         "name": "Beleza",
         "url": "https://open.spotify.com/album/5cntHecIHsUxVDDPUjFrhg"
       },
@@ -823,38 +855,6 @@
       "duration_ms": 271285,
       "name": "Beleza",
       "url": "https://open.spotify.com/track/6fNO8kUQv98XLDmIiopTwd"
-    },
-    {
-      "added_at": "2026-01-23 15:04:09",
-      "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/05vHoRRovirQAL58SCHNBZ"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 265166,
-      "name": "Clara",
-      "url": "https://open.spotify.com/track/39wmwAYmZBUiH6uZmXcKoz"
-    },
-    {
-      "added_at": "2026-01-23 15:04:09",
-      "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 437313,
-      "name": "VELUDO MARROM",
-      "url": "https://open.spotify.com/track/21nV7Brjy93nQPM98QwIfr"
     },
     {
       "added_at": "2026-01-23 15:04:09",
@@ -879,18 +879,18 @@
     {
       "added_at": "2026-01-23 15:04:09",
       "album": {
-        "name": "Praia Vermelha do Sul",
-        "url": "https://open.spotify.com/album/1IRdFuzbxGfwJS8I8sqw8T"
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
       },
       "artists": [
         {
-          "name": "Leo Middea",
-          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 211367,
-      "name": "Praia Vermelha do Sul",
-      "url": "https://open.spotify.com/track/4xDiyA9dqXSa2288dig5QQ"
+      "duration_ms": 437313,
+      "name": "VELUDO MARROM",
+      "url": "https://open.spotify.com/track/21nV7Brjy93nQPM98QwIfr"
     },
     {
       "added_at": "2026-01-23 15:04:09",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2026-01-23 15:04:09",
       "album": {
+        "name": "Fulor\u00e1",
+        "url": "https://open.spotify.com/album/4QUe4PqEDYYiK21Z7Kwu3v"
+      },
+      "artists": [
+        {
+          "name": "Bruna Black",
+          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
+        },
+        {
+          "name": "Juliana Linhares",
+          "url": "https://open.spotify.com/artist/2TYSLpy17fec9NRzbtfsof"
+        }
+      ],
+      "duration_ms": 233404,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/5in3nRFCJm8bUV8Twa561Z"
+    },
+    {
+      "added_at": "2026-01-23 15:04:09",
+      "album": {
         "name": "Fullg\u00e1s",
         "url": "https://open.spotify.com/album/5PaaYWMN2SXYc4kygrfWCQ"
       },
@@ -1071,22 +1091,22 @@
     {
       "added_at": "2026-01-23 15:04:09",
       "album": {
-        "name": "Fulor\u00e1",
-        "url": "https://open.spotify.com/album/4QUe4PqEDYYiK21Z7Kwu3v"
+        "name": "MINHA DONA",
+        "url": "https://open.spotify.com/album/1fxj7pL90vKI8brpykZlS5"
       },
       "artists": [
         {
-          "name": "Bruna Black",
-          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
         },
         {
-          "name": "Juliana Linhares",
-          "url": "https://open.spotify.com/artist/2TYSLpy17fec9NRzbtfsof"
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
         }
       ],
-      "duration_ms": 233404,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/5in3nRFCJm8bUV8Twa561Z"
+      "duration_ms": 149770,
+      "name": "MINHA DONA",
+      "url": "https://open.spotify.com/track/6HH3crASyfANv6O2rHaLe2"
     },
     {
       "added_at": "2026-01-23 15:04:09",
@@ -1143,26 +1163,6 @@
       "duration_ms": 121015,
       "name": "O Mundo \u00e9 um Moinho",
       "url": "https://open.spotify.com/track/5RrabFXezOFgx5FlYYhkHc"
-    },
-    {
-      "added_at": "2026-01-23 15:04:09",
-      "album": {
-        "name": "MINHA DONA",
-        "url": "https://open.spotify.com/album/1fxj7pL90vKI8brpykZlS5"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 149770,
-      "name": "MINHA DONA",
-      "url": "https://open.spotify.com/track/6HH3crASyfANv6O2rHaLe2"
     },
     {
       "added_at": "2026-01-23 15:04:09",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-01-23 15:04:09",
       "album": {
+        "name": "Pensei Que Fosse o C\u00e9u (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/2fVaO6cRhhbg9MIqsYGU0o"
+      },
+      "artists": [
+        {
+          "name": "Vander Lee",
+          "url": "https://open.spotify.com/artist/61BsnDVXUUSASD04kvzMs1"
+        }
+      ],
+      "duration_ms": 247847,
+      "name": "Onde Deus possa me ouvir - Ao vivo",
+      "url": "https://open.spotify.com/track/1SRwGa2dBqPeo8tbtMSAyG"
+    },
+    {
+      "added_at": "2026-01-23 15:04:09",
+      "album": {
         "name": "A hist\u00f3ria da nossa l\u00edngua",
         "url": "https://open.spotify.com/album/62n6upnCeTwn0P1n77kAIm"
       },
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2026-01-23 15:04:09",
       "album": {
-        "name": "Pensei Que Fosse o C\u00e9u (Ao Vivo) [Deluxe]",
-        "url": "https://open.spotify.com/album/2fVaO6cRhhbg9MIqsYGU0o"
-      },
-      "artists": [
-        {
-          "name": "Vander Lee",
-          "url": "https://open.spotify.com/artist/61BsnDVXUUSASD04kvzMs1"
-        }
-      ],
-      "duration_ms": 247847,
-      "name": "Onde Deus possa me ouvir - Ao vivo",
-      "url": "https://open.spotify.com/track/1SRwGa2dBqPeo8tbtMSAyG"
-    },
-    {
-      "added_at": "2026-01-23 15:04:09",
-      "album": {
         "name": "Minha Casa",
         "url": "https://open.spotify.com/album/5lghZeBMkC6Iq13XIscWHQ"
       },
@@ -1475,26 +1475,6 @@
       "duration_ms": 200632,
       "name": "Noite Severina - Ao Vivo",
       "url": "https://open.spotify.com/track/6r9fGBw2zCyjunqPFIoAAE"
-    },
-    {
-      "added_at": "2026-01-23 15:04:09",
-      "album": {
-        "name": "Abre Alas",
-        "url": "https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5"
-      },
-      "artists": [
-        {
-          "name": "Patricia Marx",
-          "url": "https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 311811,
-      "name": "Abre Alas",
-      "url": "https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni"
     },
     {
       "added_at": "2026-01-23 15:04:09",
@@ -1519,6 +1499,42 @@
       "duration_ms": 213536,
       "name": "Desculpe o Au\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/2wHOXgPbLgsrdDf60hsJy7"
+    },
+    {
+      "added_at": "2026-01-23 15:04:09",
+      "album": {
+        "name": "Abre Alas",
+        "url": "https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5"
+      },
+      "artists": [
+        {
+          "name": "Patricia Marx",
+          "url": "https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 311811,
+      "name": "Abre Alas",
+      "url": "https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni"
+    },
+    {
+      "added_at": "2026-01-23 15:04:09",
+      "album": {
+        "name": "Te Vejo em Tudo",
+        "url": "https://open.spotify.com/album/1NeoXuny6sxG6zc4l3jmVA"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Lopes",
+          "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
+        }
+      ],
+      "duration_ms": 181845,
+      "name": "Te Vejo em Tudo",
+      "url": "https://open.spotify.com/track/5fiCjbjORjKuz0AB5KA9QB"
     },
     {
       "added_at": "2026-01-23 15:04:09",
@@ -1563,18 +1579,22 @@
     {
       "added_at": "2026-01-23 15:04:09",
       "album": {
-        "name": "Te Vejo em Tudo",
-        "url": "https://open.spotify.com/album/1NeoXuny6sxG6zc4l3jmVA"
+        "name": "Cartas de Amor - Vol 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7kdArHM1ssoWk6mNKsgP9Z"
       },
       "artists": [
         {
-          "name": "Mar\u00edlia Lopes",
-          "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+        },
+        {
+          "name": "Bona",
+          "url": "https://open.spotify.com/artist/3JcoeykZnLoV6Z1rSwsuMV"
         }
       ],
-      "duration_ms": 181845,
-      "name": "Te Vejo em Tudo",
-      "url": "https://open.spotify.com/track/5fiCjbjORjKuz0AB5KA9QB"
+      "duration_ms": 169668,
+      "name": "A Noite do Meu Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/3kwREOYVZ8vbrwKHkQJeoh"
     },
     {
       "added_at": "2026-01-23 15:04:09",
@@ -1599,22 +1619,18 @@
     {
       "added_at": "2026-01-23 15:04:09",
       "album": {
-        "name": "Cartas de Amor - Vol 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7kdArHM1ssoWk6mNKsgP9Z"
+        "name": "Sonhando o Futuro",
+        "url": "https://open.spotify.com/album/3zMVuA9xdKA7KKaqy1crSy"
       },
       "artists": [
         {
-          "name": "Ti\u00ea",
-          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
-        },
-        {
-          "name": "Bona",
-          "url": "https://open.spotify.com/artist/3JcoeykZnLoV6Z1rSwsuMV"
+          "name": "14 Bis",
+          "url": "https://open.spotify.com/artist/4cz8toptnAtxffn7ghNjyp"
         }
       ],
-      "duration_ms": 169668,
-      "name": "A Noite do Meu Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/3kwREOYVZ8vbrwKHkQJeoh"
+      "duration_ms": 261043,
+      "name": "Sonhando o Futuro",
+      "url": "https://open.spotify.com/track/351MxF9HAAqxb33O6SCiRl"
     },
     {
       "added_at": "2026-01-23 15:04:09",
@@ -1635,22 +1651,6 @@
       "duration_ms": 278736,
       "name": "PALCO",
       "url": "https://open.spotify.com/track/3zMgTQolE201ZTHvxWltkq"
-    },
-    {
-      "added_at": "2026-01-23 15:04:09",
-      "album": {
-        "name": "Sonhando o Futuro",
-        "url": "https://open.spotify.com/album/3zMVuA9xdKA7KKaqy1crSy"
-      },
-      "artists": [
-        {
-          "name": "14 Bis",
-          "url": "https://open.spotify.com/artist/4cz8toptnAtxffn7ghNjyp"
-        }
-      ],
-      "duration_ms": 261043,
-      "name": "Sonhando o Futuro",
-      "url": "https://open.spotify.com/track/351MxF9HAAqxb33O6SCiRl"
     },
     {
       "added_at": "2026-01-23 15:04:09",

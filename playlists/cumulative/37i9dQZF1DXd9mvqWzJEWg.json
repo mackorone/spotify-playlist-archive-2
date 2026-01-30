@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: Washa X",
+  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: Sphectacula x DJ Naves",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -1026,6 +1026,36 @@
       "duration_ms": 338100,
       "name": "Baxolele Bawo",
       "url": "https://open.spotify.com/track/29cTBN1NTRlfGB5tonC6ys"
+    },
+    {
+      "album": {
+        "name": "Bayathakatha (feat. Dladla Mshunqisi, Beast RSA & Sazified)",
+        "url": "https://open.spotify.com/album/2iDFPZxJ42zzFAH9cYQBqn"
+      },
+      "artists": [
+        {
+          "name": "Sphectacula and DJ Naves",
+          "url": "https://open.spotify.com/artist/7yHWqKzRw7VR7zU5e3nIZx"
+        },
+        {
+          "name": "Dladla Mshunqisi",
+          "url": "https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt"
+        },
+        {
+          "name": "Beast Rsa",
+          "url": "https://open.spotify.com/artist/5jSbjWfYWUZpecgalIOldH"
+        },
+        {
+          "name": "Sazified",
+          "url": "https://open.spotify.com/artist/1PmS3JegLpKsc6V9aWvQJA"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298536,
+      "name": "Bayathakatha (feat. Dladla Mshunqisi, Beast RSA & Sazified)",
+      "url": "https://open.spotify.com/track/1YFv2J0MYXFq4JSfbqSzMr"
     },
     {
       "album": {
@@ -2912,7 +2942,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 273350,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/7ir1pK0mSBVZLoqUPbmous"
@@ -9086,7 +9116,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 306744,
       "name": "Singenzenjani",
       "url": "https://open.spotify.com/track/21sqHPFTQjBPuLneQPm8FM"
@@ -12052,7 +12082,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 245760,
       "name": "Yonkinto",
       "url": "https://open.spotify.com/track/3m8UOWi5h7gg9Lv9CuT8v4"

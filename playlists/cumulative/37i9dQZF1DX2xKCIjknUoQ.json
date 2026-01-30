@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-04",
+      "date_removed": null,
       "duration_ms": 189386,
       "name": "Bitch",
       "url": "https://open.spotify.com/track/1ymXKqHO6CGAWlhERwf3Ug"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 204746,
       "name": "Droit Dans Le Soleil",
       "url": "https://open.spotify.com/track/4rpeOY4yFkKFcImfFxZqqu"
@@ -1213,6 +1213,24 @@
     },
     {
       "album": {
+        "name": "Revolution.com",
+        "url": "https://open.spotify.com/album/2ARdTJwLcGdw0GGhbeEfSo"
+      },
+      "artists": [
+        {
+          "name": "No One Is Innocent",
+          "url": "https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207173,
+      "name": "revolution.com",
+      "url": "https://open.spotify.com/track/7ciDK4wg2Lmk7KaoWWYtgg"
+    },
+    {
+      "album": {
         "name": "Rock'n'Roll Part 9",
         "url": "https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK"
       },
@@ -1228,24 +1246,6 @@
       "duration_ms": 163760,
       "name": "Rimini",
       "url": "https://open.spotify.com/track/5xo1GjsebrOd1iUVoJ6SEK"
-    },
-    {
-      "album": {
-        "name": "Revolution.com",
-        "url": "https://open.spotify.com/album/2ARdTJwLcGdw0GGhbeEfSo"
-      },
-      "artists": [
-        {
-          "name": "No One Is Innocent",
-          "url": "https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3"
-        }
-      ],
-      "date_added": "2022-10-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 207173,
-      "name": "R\u00e9volution.com",
-      "url": "https://open.spotify.com/track/7ciDK4wg2Lmk7KaoWWYtgg"
     },
     {
       "album": {

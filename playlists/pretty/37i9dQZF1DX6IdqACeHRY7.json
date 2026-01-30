@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 157971,
+  "num_followers": 157970,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
+        "name": "Little Voice",
+        "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 233021,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
         "name": "kendt mig en uge",
         "url": "https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 157540,
       "name": "Loved You Better (with Dean Lewis)",
       "url": "https://open.spotify.com/track/5boOfeG5brpNtAvmx8CRc5"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
-        "name": "Little Voice",
-        "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 233021,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 217533,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
         "name": "Horsens (feat. Sofie1998)",
         "url": "https://open.spotify.com/album/1kwC9j8e9iu2MckYWWGPh8"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 191262,
       "name": "Horsens (feat. Sofie1998)",
       "url": "https://open.spotify.com/track/0yDtk8qHW7gg4obQ96cG0z"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 217533,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "Vi ku' g\u00e5 hele vejen",
-        "url": "https://open.spotify.com/album/2XLM25ZmVGzM6PwNJoSlSK"
-      },
-      "artists": [
-        {
-          "name": "Bl\u00e6st",
-          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
-        }
-      ],
-      "duration_ms": 206745,
-      "name": "Vi ku' g\u00e5 hele vejen",
-      "url": "https://open.spotify.com/track/4BXLTcYVt63AL28pQXnxp4"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
         "name": "Shape of You (Acoustic)",
         "url": "https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 223573,
       "name": "Shape of You - Acoustic",
       "url": "https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
+        "name": "Vi ku' g\u00e5 hele vejen",
+        "url": "https://open.spotify.com/album/2XLM25ZmVGzM6PwNJoSlSK"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00e6st",
+          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
+        }
+      ],
+      "duration_ms": 206745,
+      "name": "Vi ku' g\u00e5 hele vejen",
+      "url": "https://open.spotify.com/track/4BXLTcYVt63AL28pQXnxp4"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
+        "name": "hickey",
+        "url": "https://open.spotify.com/album/7iX7uCkSNnkuIMwbjl8Jpf"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "who\u2019s your boyfriend",
+      "url": "https://open.spotify.com/track/1FrmEoNfKBx7Z6nU05KW5w"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
         "name": "Hvor Var Jeg Endt",
         "url": "https://open.spotify.com/album/4qefEfwkmVFCFU3BYEmKJB"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 179157,
       "name": "Hvor Var Jeg Endt",
       "url": "https://open.spotify.com/track/1upFqX3mJflCB0QGJNJStY"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
-        "name": "hickey",
-        "url": "https://open.spotify.com/album/7iX7uCkSNnkuIMwbjl8Jpf"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "who\u2019s your boyfriend",
-      "url": "https://open.spotify.com/track/1FrmEoNfKBx7Z6nU05KW5w"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/3aPakmsCVj19Gz1zoLuYOf"
-      },
-      "artists": [
-        {
-          "name": "Hans Philip",
-          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
-        }
-      ],
-      "duration_ms": 290500,
-      "name": "Tristan & Isolde",
-      "url": "https://open.spotify.com/track/361guhUskLY7XA6X178aEk"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
         "name": "Happiness Begins",
         "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 193133,
       "name": "Love Her",
       "url": "https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/3aPakmsCVj19Gz1zoLuYOf"
+      },
+      "artists": [
+        {
+          "name": "Hans Philip",
+          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
+        }
+      ],
+      "duration_ms": 290500,
+      "name": "Tristan & Isolde",
+      "url": "https://open.spotify.com/track/361guhUskLY7XA6X178aEk"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "[\u03b2]",
-        "url": "https://open.spotify.com/album/6z0zPy2FVo3zhpcFoVwuWF"
-      },
-      "artists": [
-        {
-          "name": "Hans Philip",
-          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
-        }
-      ],
-      "duration_ms": 253011,
-      "name": "Rose",
-      "url": "https://open.spotify.com/track/5UDkdxN87TOPiL7cTNkh7l"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
         "name": "ii",
         "url": "https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 178476,
       "name": "Thin",
       "url": "https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
+        "name": "[\u03b2]",
+        "url": "https://open.spotify.com/album/6z0zPy2FVo3zhpcFoVwuWF"
+      },
+      "artists": [
+        {
+          "name": "Hans Philip",
+          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
+        }
+      ],
+      "duration_ms": 253011,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/5UDkdxN87TOPiL7cTNkh7l"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "Yellow Bike",
-        "url": "https://open.spotify.com/album/38EDJaK2TBgsUYoPlBMnba"
-      },
-      "artists": [
-        {
-          "name": "Jonah Blacksmith",
-          "url": "https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr"
-        }
-      ],
-      "duration_ms": 200232,
-      "name": "Yellow Bike",
-      "url": "https://open.spotify.com/track/4JuRknM4Htm4rqcDRQdh98"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
         "name": "Rockabye (Acoustic)",
         "url": "https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 157466,
       "name": "Rockabye - Acoustic Version",
       "url": "https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
+        "name": "Yellow Bike",
+        "url": "https://open.spotify.com/album/38EDJaK2TBgsUYoPlBMnba"
+      },
+      "artists": [
+        {
+          "name": "Jonah Blacksmith",
+          "url": "https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr"
+        }
+      ],
+      "duration_ms": 200232,
+      "name": "Yellow Bike",
+      "url": "https://open.spotify.com/track/4JuRknM4Htm4rqcDRQdh98"
     },
     {
       "added_at": "2025-11-20 23:00:41",

@@ -727,6 +727,28 @@
     },
     {
       "album": {
+        "name": "Early Mornings",
+        "url": "https://open.spotify.com/album/3zlzHGUvXBXmXYCyk5e79l"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Sachelah",
+          "url": "https://open.spotify.com/artist/3LMYMmfN8KWb69IeqXoVin"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174421,
+      "name": "Early Mornings",
+      "url": "https://open.spotify.com/track/4wQXb2vjlr938qkhlixzc9"
+    },
+    {
+      "album": {
         "name": "Enemy",
         "url": "https://open.spotify.com/album/2RgIw1IxjLtEn4U9YGoSNF"
       },
@@ -1142,6 +1164,24 @@
       "duration_ms": 95714,
       "name": "Home",
       "url": "https://open.spotify.com/track/6olvTBUwNCCChCBSeDeiWT"
+    },
+    {
+      "album": {
+        "name": "How I Feel",
+        "url": "https://open.spotify.com/album/3x4CzQunl7MsI2NtAtnKHs"
+      },
+      "artists": [
+        {
+          "name": "Ricky Wambui",
+          "url": "https://open.spotify.com/artist/4gZDn70TqSfyGkSzlKp3H0"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "How I Feel",
+      "url": "https://open.spotify.com/track/6fRPjXB2ou83RXr2ICKjJ6"
     },
     {
       "album": {
@@ -1653,6 +1693,24 @@
     },
     {
       "album": {
+        "name": "no promises",
+        "url": "https://open.spotify.com/album/7r3JRAU0Oy7ONXhO4ddt8l"
+      },
+      "artists": [
+        {
+          "name": "Klyffe",
+          "url": "https://open.spotify.com/artist/3cUBcmugvvHi9RW6hDGnmO"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217640,
+      "name": "no promises",
+      "url": "https://open.spotify.com/track/6zH0Q8VlQs18p6TFe9xD8H"
+    },
+    {
+      "album": {
         "name": "Not My Own",
         "url": "https://open.spotify.com/album/2MnS88RNdCYeYP12wnxp2D"
       },
@@ -1920,6 +1978,28 @@
       "duration_ms": 189250,
       "name": "Rich",
       "url": "https://open.spotify.com/track/1QDWNbbh4Ey69IUjsa44GB"
+    },
+    {
+      "album": {
+        "name": "Ride Back",
+        "url": "https://open.spotify.com/album/0WGXVL6TFID3ty9cQySeY8"
+      },
+      "artists": [
+        {
+          "name": "Lucinia Karrey",
+          "url": "https://open.spotify.com/artist/61h4FsXpZcm4Ku28ElGET0"
+        },
+        {
+          "name": "Lio Tomaz",
+          "url": "https://open.spotify.com/artist/4PPNrfWhu1Pi6qRItklADq"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269464,
+      "name": "Ride Back",
+      "url": "https://open.spotify.com/track/217M4BXzktjxQcUUXb2zTQ"
     },
     {
       "album": {

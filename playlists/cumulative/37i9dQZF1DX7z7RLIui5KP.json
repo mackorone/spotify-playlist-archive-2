@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Proudly Kenyan gems made for the entire family. Cover: Tuku Kantu",
+  "description": "Proudly Kenyan gems made for the entire family. Cover: Iyanii",
   "name": "Made In Kenya",
   "tracks": [
     {
@@ -126,7 +126,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 353246,
       "name": "Anyango",
       "url": "https://open.spotify.com/track/0SE8y9q6WAsXagEir0NGZL"
@@ -995,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Kichapo",
+        "url": "https://open.spotify.com/album/4NQRRhVOzbp0Uxad2KZi5h"
+      },
+      "artists": [
+        {
+          "name": "Mordecai Dex",
+          "url": "https://open.spotify.com/artist/7itqo8Vno3ohE3Ce85aHBL"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "Kichapo",
+      "url": "https://open.spotify.com/track/4eDz8DrCRnysqwvYQkSy5Q"
+    },
+    {
+      "album": {
         "name": "Kifo Cha Mende",
         "url": "https://open.spotify.com/album/3jhomvGKnRiP2DP8cPdEs4"
       },
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 178473,
       "name": "Kifo Cha Mende",
       "url": "https://open.spotify.com/track/31EmkEmJWwB39WWPyxg24i"
@@ -1270,6 +1288,24 @@
       "duration_ms": 288298,
       "name": "Mahaba",
       "url": "https://open.spotify.com/track/5pBsDpQQV1gdX7HP2R5CYk"
+    },
+    {
+      "album": {
+        "name": "Mali Safi",
+        "url": "https://open.spotify.com/album/1jjH7CUkYpaTb7L2GY6dNW"
+      },
+      "artists": [
+        {
+          "name": "Iyanii",
+          "url": "https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241188,
+      "name": "Mali Safi",
+      "url": "https://open.spotify.com/track/3dM8r9wO8bOGEJ6kE7Kx9y"
     },
     {
       "album": {
@@ -1778,7 +1814,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 227234,
       "name": "PIA MI NATAKA",
       "url": "https://open.spotify.com/track/2TtisfcyZIyTfilAnhlwpl"
@@ -2343,6 +2379,28 @@
     },
     {
       "album": {
+        "name": "Trust No 1",
+        "url": "https://open.spotify.com/album/5g5q1Ixr9A5kyxW6F3GXWQ"
+      },
+      "artists": [
+        {
+          "name": "Brandy Maina",
+          "url": "https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4"
+        },
+        {
+          "name": "X.O",
+          "url": "https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196628,
+      "name": "Trust No 1",
+      "url": "https://open.spotify.com/track/4Nfq2CziIZHDzVP8A6llUF"
+    },
+    {
+      "album": {
         "name": "Tumewaka (feat. Watendawili)",
         "url": "https://open.spotify.com/album/5EnhsYf7p2yFdhqd1ReGDG"
       },
@@ -2362,6 +2420,24 @@
       "duration_ms": 209585,
       "name": "Tumewaka (feat. Watendawili)",
       "url": "https://open.spotify.com/track/2U3JPdRdWygADeO36alrJU"
+    },
+    {
+      "album": {
+        "name": "Tumia Pesa",
+        "url": "https://open.spotify.com/album/1rPfSxLe3cxPjH1M4dp4o0"
+      },
+      "artists": [
+        {
+          "name": "Watendawili",
+          "url": "https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220387,
+      "name": "Tumia Pesa",
+      "url": "https://open.spotify.com/track/57Kt03TEDsK2nJFpaHwiPk"
     },
     {
       "album": {
@@ -2406,7 +2482,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 220107,
       "name": "Umewaka",
       "url": "https://open.spotify.com/track/6hsgVEl2ZVQPK6Y92ScYpW"
@@ -2520,6 +2596,24 @@
       "duration_ms": 193170,
       "name": "Watu Wazima",
       "url": "https://open.spotify.com/track/5N8eMuyG9y2QZpH7x4CCM8"
+    },
+    {
+      "album": {
+        "name": "WAWILI",
+        "url": "https://open.spotify.com/album/0vMtWDCRcs7QbygsiNpV6q"
+      },
+      "artists": [
+        {
+          "name": "Nahsh kariuki Official",
+          "url": "https://open.spotify.com/artist/5mzYpiJA39D2iFcB3ERAfj"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135784,
+      "name": "WAWILI",
+      "url": "https://open.spotify.com/track/4L9ybT7YEVF3kwstzewJdo"
     },
     {
       "album": {

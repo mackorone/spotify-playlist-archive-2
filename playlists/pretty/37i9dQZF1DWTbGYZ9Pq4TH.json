@@ -1,6 +1,6 @@
 {
   "description": "Le canzoni d'amore italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 185558,
+  "num_followers": 185560,
   "original_name": "Canzoni d'amore italiane",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,6 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "Io Non So Parlar D'Amore",
-        "url": "https://open.spotify.com/album/5fv7zCf5fRBzmVqnrJ0UJO"
-      },
-      "artists": [
-        {
-          "name": "Adriano Celentano",
-          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
-        }
-      ],
-      "duration_ms": 247533,
-      "name": "L'Emozione Non Ha voce (Io Non So Parlar D'Amore)",
-      "url": "https://open.spotify.com/track/39efIaQFmERjt8U71FrJzs"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
         "name": "Mainstream (Deluxe Edition)",
         "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 169306,
       "name": "Cosa mi manchi a fare",
       "url": "https://open.spotify.com/track/7L8cIUKXToCr6PV9hFoX3Q"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
+        "name": "Io Non So Parlar D'Amore",
+        "url": "https://open.spotify.com/album/5fv7zCf5fRBzmVqnrJ0UJO"
+      },
+      "artists": [
+        {
+          "name": "Adriano Celentano",
+          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
+        }
+      ],
+      "duration_ms": 247533,
+      "name": "L'Emozione Non Ha voce (Io Non So Parlar D'Amore)",
+      "url": "https://open.spotify.com/track/39efIaQFmERjt8U71FrJzs"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "Diari Aperti",
-        "url": "https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae"
-      },
-      "artists": [
-        {
-          "name": "Elisa",
-          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
-        }
-      ],
-      "duration_ms": 239693,
-      "name": "Anche Fragile",
-      "url": "https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
         "name": "Amami",
         "url": "https://open.spotify.com/album/7pH86nj2gFvJjw0u86zXOQ"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 235121,
       "name": "La notte",
       "url": "https://open.spotify.com/track/2QVIMIcEt0t72cqbafrvxI"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
+        "name": "Diari Aperti",
+        "url": "https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae"
+      },
+      "artists": [
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "duration_ms": 239693,
+      "name": "Anche Fragile",
+      "url": "https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "Alla Mia Et\u00e0",
-        "url": "https://open.spotify.com/album/3N4MScsa0qCfg0ffZVl7wj"
-      },
-      "artists": [
-        {
-          "name": "Tiziano Ferro",
-          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "Il Regalo Pi\u00f9 Grande",
-      "url": "https://open.spotify.com/track/35eRQZmxwjgn7mQrsmtA4f"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
         "name": "Brividi",
         "url": "https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 199146,
       "name": "Brividi",
       "url": "https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
+        "name": "Alla Mia Et\u00e0",
+        "url": "https://open.spotify.com/album/3N4MScsa0qCfg0ffZVl7wj"
+      },
+      "artists": [
+        {
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "Il Regalo Pi\u00f9 Grande",
+      "url": "https://open.spotify.com/track/35eRQZmxwjgn7mQrsmtA4f"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "Good Vibes",
-        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
-      },
-      "artists": [
-        {
-          "name": "Benji & Fede",
-          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
-        }
-      ],
-      "duration_ms": 190409,
-      "name": "Dove e quando",
-      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
         "name": "Safari",
         "url": "https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 264240,
       "name": "A Te",
       "url": "https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
+      },
+      "artists": [
+        {
+          "name": "Benji & Fede",
+          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
+        }
+      ],
+      "duration_ms": 190409,
+      "name": "Dove e quando",
+      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "La Donna Cannone",
-        "url": "https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2"
-      },
-      "artists": [
-        {
-          "name": "Francesco De Gregori",
-          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
-        }
-      ],
-      "duration_ms": 279706,
-      "name": "La donna cannone",
-      "url": "https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
         "name": "Canzoni",
         "url": "https://open.spotify.com/album/5xH8VzKB4lKCBz2ADCLZRs"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 241440,
       "name": "Vattene amore (feat. Amedeo Minghi)",
       "url": "https://open.spotify.com/track/3roodBW6Fdvl8R2cooFU7L"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
+        "name": "La Donna Cannone",
+        "url": "https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2"
+      },
+      "artists": [
+        {
+          "name": "Francesco De Gregori",
+          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
+        }
+      ],
+      "duration_ms": 279706,
+      "name": "La donna cannone",
+      "url": "https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "Rimmel",
-        "url": "https://open.spotify.com/album/5c1TMPBpOc4qJebACcOm7K"
-      },
-      "artists": [
-        {
-          "name": "Francesco De Gregori",
-          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
-        }
-      ],
-      "duration_ms": 220640,
-      "name": "Rimmel",
-      "url": "https://open.spotify.com/track/515XcapFOMtOOiGU31UqNp"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
         "name": "Semplicemente (from the Netflix Series \"RIV4LI\")",
         "url": "https://open.spotify.com/album/4daX0ZBBuoXqr2GIpfe2P5"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 187941,
       "name": "Semplicemente (from the Netflix Series \"RIV4LI\")",
       "url": "https://open.spotify.com/track/1jRhY5sLzAf3d683tbOVr7"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
+        "name": "Rimmel",
+        "url": "https://open.spotify.com/album/5c1TMPBpOc4qJebACcOm7K"
+      },
+      "artists": [
+        {
+          "name": "Francesco De Gregori",
+          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
+        }
+      ],
+      "duration_ms": 220640,
+      "name": "Rimmel",
+      "url": "https://open.spotify.com/track/515XcapFOMtOOiGU31UqNp"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "AHIA!",
-        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
-      },
-      "artists": [
-        {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
-        }
-      ],
-      "duration_ms": 207802,
-      "name": "La storia infinita",
-      "url": "https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
         "name": "\u00c8 sempre bello",
         "url": "https://open.spotify.com/album/5IMzuX8ITydV8NBq10xG2T"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 201546,
       "name": "Domenica",
       "url": "https://open.spotify.com/track/7qtE9zyA03AewO2GcRWVPA"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
+        "name": "AHIA!",
+        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "duration_ms": 207802,
+      "name": "La storia infinita",
+      "url": "https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "Lucio Dalla",
-        "url": "https://open.spotify.com/album/1QV9aAN5P2Tw1ODM9hiC8E"
-      },
-      "artists": [
-        {
-          "name": "Lucio Dalla",
-          "url": "https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl"
-        }
-      ],
-      "duration_ms": 221093,
-      "name": "Anna E Marco",
-      "url": "https://open.spotify.com/track/6OVTR9jqJj6tlJiADrNq0F"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
         "name": "Le Vibrazioni",
         "url": "https://open.spotify.com/album/0aKZ5rJLPjbCBolkFrWEy5"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 208466,
       "name": "Dedicato A Te",
       "url": "https://open.spotify.com/track/4DxU9yKktJVQXhcLxjh67j"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
+        "name": "Lucio Dalla",
+        "url": "https://open.spotify.com/album/1QV9aAN5P2Tw1ODM9hiC8E"
+      },
+      "artists": [
+        {
+          "name": "Lucio Dalla",
+          "url": "https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Anna E Marco",
+      "url": "https://open.spotify.com/track/6OVTR9jqJj6tlJiADrNq0F"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "Anima",
-        "url": "https://open.spotify.com/album/2NNcni9mDROc7txSZzDRbb"
-      },
-      "artists": [
-        {
-          "name": "Riccardo Cocciante",
-          "url": "https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR"
-        }
-      ],
-      "duration_ms": 274973,
-      "name": "Bella senz'anima",
-      "url": "https://open.spotify.com/track/7laNkNLlUbNslPAi8HB1IS"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
         "name": "Fake News",
         "url": "https://open.spotify.com/album/6rOuSJCksAl2B5KUvVChR3"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 203840,
       "name": "Ricordi",
       "url": "https://open.spotify.com/track/1AQqSrJYbCeRtzO7EApqYX"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
+        "name": "Anima",
+        "url": "https://open.spotify.com/album/2NNcni9mDROc7txSZzDRbb"
+      },
+      "artists": [
+        {
+          "name": "Riccardo Cocciante",
+          "url": "https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR"
+        }
+      ],
+      "duration_ms": 274973,
+      "name": "Bella senz'anima",
+      "url": "https://open.spotify.com/track/7laNkNLlUbNslPAi8HB1IS"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "Mainstream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
-      },
-      "artists": [
-        {
-          "name": "Calcutta ",
-          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Del verde",
-      "url": "https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
         "name": "Odissea",
         "url": "https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 270003,
       "name": "Oro",
       "url": "https://open.spotify.com/track/5NzWbTJOakrvq3g83UoD25"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
+        "name": "Mainstream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
+      },
+      "artists": [
+        {
+          "name": "Calcutta ",
+          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Del verde",
+      "url": "https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
+        "name": "L'amore \u00e8",
+        "url": "https://open.spotify.com/album/38KfDURRSexb9tA6Ll5ZT1"
+      },
+      "artists": [
+        {
+          "name": "Enrico Nigiotti",
+          "url": "https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "L'amore \u00e8",
+      "url": "https://open.spotify.com/track/0iOHkI1AyDXfDeoXEFaP2e"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
         "name": "Zero Gravity",
         "url": "https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 228986,
       "name": "Oggi Sono Io",
       "url": "https://open.spotify.com/track/4EsU1itX1LEPptKwjhGbVl"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
-        "name": "L'amore \u00e8",
-        "url": "https://open.spotify.com/album/38KfDURRSexb9tA6Ll5ZT1"
-      },
-      "artists": [
-        {
-          "name": "Enrico Nigiotti",
-          "url": "https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "L'amore \u00e8",
-      "url": "https://open.spotify.com/track/0iOHkI1AyDXfDeoXEFaP2e"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "Tempo Reale Extra",
-        "url": "https://open.spotify.com/album/4g3w53fwewnSPWR8lMCksi"
-      },
-      "artists": [
-        {
-          "name": "Francesco Renga",
-          "url": "https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "Il mio giorno pi\u00f9 bello nel mondo",
-      "url": "https://open.spotify.com/track/4cSq4KBk4i19g30NtyBZ3c"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/0pRj77dL3BMds24RymNgmv"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 218092,
       "name": "Il mondo prima di te",
       "url": "https://open.spotify.com/track/0qM6TGkkinhKFllbcRfL8u"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
+        "name": "Tempo Reale Extra",
+        "url": "https://open.spotify.com/album/4g3w53fwewnSPWR8lMCksi"
+      },
+      "artists": [
+        {
+          "name": "Francesco Renga",
+          "url": "https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2"
+        }
+      ],
+      "duration_ms": 217640,
+      "name": "Il mio giorno pi\u00f9 bello nel mondo",
+      "url": "https://open.spotify.com/track/4cSq4KBk4i19g30NtyBZ3c"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
+        "name": "Bruciasse Il Cielo",
+        "url": "https://open.spotify.com/album/287CrEdqq6UiWAMeteSZsk"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "duration_ms": 237606,
+      "name": "Bruciasse Il Cielo",
+      "url": "https://open.spotify.com/track/6abfPlw55MvGAUEpG56R2y"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
         "name": "Mina (2001 Remaster)",
         "url": "https://open.spotify.com/album/60BdC9E02JUjXK5KaycUWg"
       },
@@ -1611,26 +1627,6 @@
       "duration_ms": 240933,
       "name": "Grande, grande, grande - 2001 Remaster",
       "url": "https://open.spotify.com/track/7djxemkRcsWAqrWTye4Vxt"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
-        "name": "Notti Brave (After)",
-        "url": "https://open.spotify.com/album/5igFxzbfH6oTb3vRFvNK5w"
-      },
-      "artists": [
-        {
-          "name": "Carl Brave",
-          "url": "https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK"
-        },
-        {
-          "name": "Max Gazz\u00e8",
-          "url": "https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Posso (feat. Max Gazz\u00e9)",
-      "url": "https://open.spotify.com/track/5N0nmOmc0MqPZTYKw4fVV6"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -1651,18 +1647,22 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "Bruciasse Il Cielo",
-        "url": "https://open.spotify.com/album/287CrEdqq6UiWAMeteSZsk"
+        "name": "Notti Brave (After)",
+        "url": "https://open.spotify.com/album/5igFxzbfH6oTb3vRFvNK5w"
       },
       "artists": [
         {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+          "name": "Carl Brave",
+          "url": "https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK"
+        },
+        {
+          "name": "Max Gazz\u00e8",
+          "url": "https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa"
         }
       ],
-      "duration_ms": 237606,
-      "name": "Bruciasse Il Cielo",
-      "url": "https://open.spotify.com/track/6abfPlw55MvGAUEpG56R2y"
+      "duration_ms": 238000,
+      "name": "Posso (feat. Max Gazz\u00e9)",
+      "url": "https://open.spotify.com/track/5N0nmOmc0MqPZTYKw4fVV6"
     },
     {
       "added_at": "2026-01-23 13:59:15",

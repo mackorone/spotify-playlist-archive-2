@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66737,
+  "num_followers": 66738,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXgAAAAAAADaMT99WGtqOnzj971lw54W",
+  "snapshot_id": "aXlRgAAAAADaAY4Vo/T8dTFJHbNf2HZt",
   "tracks": [
     {
       "added_at": null,
@@ -451,26 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Alma Abatida (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5x56ATN1IgwZwyDpwsG8VJ"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Palavra Tocada",
-          "url": "https://open.spotify.com/artist/1X83lxunU8lGIWjOIo3wYo"
-        }
-      ],
-      "duration_ms": 276488,
-      "name": "A Alma Abatida - Ao Vivo",
-      "url": "https://open.spotify.com/track/4W9vnyH1PxCMApLVXqSDKQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Derramar + Alfa e \u00d4mega (Ao Vivo)",
         "url": "https://open.spotify.com/album/2SJoH2gTRR3fcsBpcYHVCv"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 257013,
       "name": "Me Derramar + Alfa e \u00d4mega (Ao Vivo)",
       "url": "https://open.spotify.com/track/73Yk0T3x5k21ESnVi6lmSd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Alma Abatida (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5x56ATN1IgwZwyDpwsG8VJ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Palavra Tocada",
+          "url": "https://open.spotify.com/artist/1X83lxunU8lGIWjOIo3wYo"
+        }
+      ],
+      "duration_ms": 276488,
+      "name": "A Alma Abatida - Ao Vivo",
+      "url": "https://open.spotify.com/track/4W9vnyH1PxCMApLVXqSDKQ"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Na Casa de Deus",
+        "url": "https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 254862,
+      "name": "Na Casa de Deus",
+      "url": "https://open.spotify.com/track/1TIbjRcaiVbpvriftlC8V4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deus no Controle",
         "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
       },
@@ -779,18 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Na Casa de Deus",
-        "url": "https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX"
+        "name": "At\u00e9 Tocar o C\u00e9u + Profetiza (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1RXUxLgHNop0heYVMfBZcB"
       },
       "artists": [
         {
           "name": "Eyshila",
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
         }
       ],
-      "duration_ms": 254862,
-      "name": "Na Casa de Deus",
-      "url": "https://open.spotify.com/track/1TIbjRcaiVbpvriftlC8V4"
+      "duration_ms": 484213,
+      "name": "At\u00e9 Tocar o C\u00e9u + Profetiza (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4vOPMKqEAJnxLTYp304rLu"
     },
     {
       "added_at": null,
@@ -823,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 Tocar o C\u00e9u + Profetiza (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1RXUxLgHNop0heYVMfBZcB"
+        "name": "Sonhos N\u00e3o T\u00eam Fim + Volte a Sonhar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5Uc7YEZkpObjE8kc1gr3kG"
       },
       "artists": [
         {
@@ -832,13 +852,13 @@
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         },
         {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 484213,
-      "name": "At\u00e9 Tocar o C\u00e9u + Profetiza (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4vOPMKqEAJnxLTYp304rLu"
+      "duration_ms": 369280,
+      "name": "Sonhos N\u00e3o T\u00eam Fim + Volte a Sonhar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3Z4d093Y32jjGjEY6Q3KgH"
     },
     {
       "added_at": null,
@@ -859,26 +879,6 @@
       "duration_ms": 291646,
       "name": "Deus no Controle",
       "url": "https://open.spotify.com/track/3BhJP1pvSi2VQdin38456g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sonhos N\u00e3o T\u00eam Fim + Volte a Sonhar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5Uc7YEZkpObjE8kc1gr3kG"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 369280,
-      "name": "Sonhos N\u00e3o T\u00eam Fim + Volte a Sonhar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3Z4d093Y32jjGjEY6Q3KgH"
     },
     {
       "added_at": null,
@@ -915,6 +915,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Descanse o Seu Cora\u00e7\u00e3o + Deus \u00e9 Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0iwwmZaDhcPFlBQ97Sx6jm"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+        }
+      ],
+      "duration_ms": 307160,
+      "name": "Descanse o Seu Cora\u00e7\u00e3o + Deus \u00e9 Deus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6e2AAioKth03BlAjIXiTJr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deus no Controle",
         "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 294183,
       "name": "Transformada",
       "url": "https://open.spotify.com/track/2XpvAWqrRKkgg3pf0Xn1zw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Descanse o Seu Cora\u00e7\u00e3o + Deus \u00e9 Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0iwwmZaDhcPFlBQ97Sx6jm"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
-        }
-      ],
-      "duration_ms": 307160,
-      "name": "Descanse o Seu Cora\u00e7\u00e3o + Deus \u00e9 Deus (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6e2AAioKth03BlAjIXiTJr"
     },
     {
       "added_at": null,
@@ -995,8 +995,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vou Glorificar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4LOdGxSgQ1IrBxcGpRQlvM"
+        "name": "Tu Podes Fazer de Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5AMT8bkT4k7vDR97HmQ0EH"
       },
       "artists": [
         {
@@ -1004,13 +1004,13 @@
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         },
         {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
         }
       ],
-      "duration_ms": 404200,
-      "name": "Vou Glorificar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0Ca1iTlaXyxc4XNY2PGJ5O"
+      "duration_ms": 306240,
+      "name": "Tu Podes Fazer de Novo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0CKn82sbrhFWQTgCCNALw2"
     }
   ],
   "unique_name": "This Is Eyshila",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "DJ Antoine au top des bangers dance/electro du moment !",
+  "description": "David Guetta, Teddy Swims et Tones and I au top des bangers dance/electro du moment !",
   "name": "BANGER",
   "tracks": [
     {
@@ -1919,6 +1919,24 @@
     },
     {
       "album": {
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/0bJj4VUm90sLGDcfl69ZM4"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/3OGmnOgg3NQ4uwerCW3GXE"
+    },
+    {
+      "album": {
         "name": "Enjoy The Silence",
         "url": "https://open.spotify.com/album/5hokhMrVOniHdIHfmlZ3NB"
       },
@@ -3456,7 +3474,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 121333,
       "name": "Is It Love",
       "url": "https://open.spotify.com/track/7ew7UGX1PM49LREh6qN7s0"
@@ -5242,7 +5260,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 200000,
       "name": "Paradise (with Bipolar Sunshine)",
       "url": "https://open.spotify.com/track/10WWosq6z75o3WGRjL4v2D"
@@ -6790,6 +6808,24 @@
       "duration_ms": 142898,
       "name": "Underneath The Blue (feat. Joe Cleere)",
       "url": "https://open.spotify.com/track/0LbdqwL82dT9RWREPQd9zS"
+    },
+    {
+      "album": {
+        "name": "Unfaithful",
+        "url": "https://open.spotify.com/album/2orEzHWfrAyY4u2SthixnV"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231891,
+      "name": "Unfaithful",
+      "url": "https://open.spotify.com/track/342is2Mbd5vqTD5HADpRz8"
     },
     {
       "album": {

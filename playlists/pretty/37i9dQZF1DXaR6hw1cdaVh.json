@@ -1,6 +1,6 @@
 {
   "description": "I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify \ud83c\udfa4",
-  "num_followers": 3109,
+  "num_followers": 3111,
   "original_name": "Sanremo: Le Cover",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,22 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
+        "name": "L'Imboscata",
+        "url": "https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv"
+      },
+      "artists": [
+        {
+          "name": "Franco Battiato",
+          "url": "https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ"
+        }
+      ],
+      "duration_ms": 243333,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW"
+    },
+    {
+      "added_at": "2026-01-25 23:01:07",
+      "album": {
         "name": "La voglia la pazzia l'incoscienza l'allegria",
         "url": "https://open.spotify.com/album/5O6YBiSMJZ4qB5opZCJHGH"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 173866,
       "name": "La voglia, la pazzia",
       "url": "https://open.spotify.com/track/1Sr4RnfU7JVaRKuhNrfI5h"
-    },
-    {
-      "added_at": "2026-01-25 23:01:07",
-      "album": {
-        "name": "L'Imboscata",
-        "url": "https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv"
-      },
-      "artists": [
-        {
-          "name": "Franco Battiato",
-          "url": "https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ"
-        }
-      ],
-      "duration_ms": 243333,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW"
     },
     {
       "added_at": "2026-01-25 23:01:07",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
+        "name": "Angelo",
+        "url": "https://open.spotify.com/album/2vsfijbIztEAJ6D2TG9dYg"
+      },
+      "artists": [
+        {
+          "name": "Francesco Renga",
+          "url": "https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "Angelo",
+      "url": "https://open.spotify.com/track/6RDWdgnE3jYqVWQqrFlTgk"
+    },
+    {
+      "added_at": "2026-01-25 23:01:07",
+      "album": {
         "name": "Quando (feat. Neri Per Caso)",
         "url": "https://open.spotify.com/album/27JUcIPolBBZrufE7m71tz"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 201730,
       "name": "Quando (feat. Neri Per Caso)",
       "url": "https://open.spotify.com/track/1aAmX3F9z2LvYshj1sBDSs"
-    },
-    {
-      "added_at": "2026-01-25 23:01:07",
-      "album": {
-        "name": "Angelo",
-        "url": "https://open.spotify.com/album/2vsfijbIztEAJ6D2TG9dYg"
-      },
-      "artists": [
-        {
-          "name": "Francesco Renga",
-          "url": "https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "Angelo",
-      "url": "https://open.spotify.com/track/6RDWdgnE3jYqVWQqrFlTgk"
     },
     {
       "added_at": "2026-01-25 23:01:07",

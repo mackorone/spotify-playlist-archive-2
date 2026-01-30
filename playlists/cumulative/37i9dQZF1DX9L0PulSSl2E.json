@@ -262,7 +262,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 188780,
       "name": "Black & White",
       "url": "https://open.spotify.com/track/5r7mDmA3VHkGIJ02hTmIyw"
@@ -432,6 +432,32 @@
       "duration_ms": 139133,
       "name": "Dior",
       "url": "https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s"
+    },
+    {
+      "album": {
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/11bk9YxTwbYXl0BASHTKk7"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Gurjit Gill",
+          "url": "https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd"
+        },
+        {
+          "name": "Lavish Dhiman",
+          "url": "https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152466,
+      "name": "DOPAMINE",
+      "url": "https://open.spotify.com/track/3dw558iZgDA2BIeVd0taMM"
     },
     {
       "album": {

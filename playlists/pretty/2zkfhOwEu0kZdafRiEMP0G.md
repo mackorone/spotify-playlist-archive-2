@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 
 > 
 
-[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 43 songs - 3 hr 13 min
+[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 44 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,5 +51,6 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 | 41 | [My Green Light](https://open.spotify.com/track/6laXbZsBFKw3FlQ7eJbuwO) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Eva Noblezada](https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn), [Original Broadway Cast of The Great Gatsby \- A New Musical](https://open.spotify.com/artist/7yHJ9NFHBIguBEjpJwRNXM) | [The Great Gatsby \- A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1ROa0bSRzWi67kUyzfyfq6) | 4:52 |
 | 42 | [Sincerely Me \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/7Fuj7RyGJYSJ7HgO5E2tJv) | [Colton Ryan](https://open.spotify.com/artist/4e9ML6IDGbv8W09mMlStKc), [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Nik Dodani](https://open.spotify.com/artist/6H6kEm6c01DA6idz9cV34a) | [Dear Evan Hansen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0yURloAyqmXCjQ1rmX0ltA) | 3:37 |
 | 43 | [I Am a Jedi](https://open.spotify.com/track/2U0sNA99tgmDUxDvnukqJT) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [I Am a Jedi](https://open.spotify.com/album/3T9U4Po9LYbShRBuEECFdL) | 2:15 |
+| 44 | [world's end](https://open.spotify.com/track/5HG3zz4uGne9f9mBaxb39x) | [John michel](https://open.spotify.com/artist/7KIaXj7EsyuuYGH0z2v36h), [Anthony James](https://open.spotify.com/artist/6PWEwhnCN7vzNi9VpXFSUp) | [Egotrip](https://open.spotify.com/album/3iKxcGgS71n7ND8I2A3CF5) | 3:01 |
 
-Snapshot ID: `AAAGf/ahstJxsltrC8JsP6bW2RWB0sed`
+Snapshot ID: `AAAGgBo3J7IwaQs1HukbRN3SQN4/xf0d`

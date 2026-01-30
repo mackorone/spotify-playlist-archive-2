@@ -4635,6 +4635,24 @@
     },
     {
       "album": {
+        "name": "The Healing",
+        "url": "https://open.spotify.com/album/6z42NftBolHdDdDKPFay1K"
+      },
+      "artists": [
+        {
+          "name": "Jasper Steverlinck",
+          "url": "https://open.spotify.com/artist/5M9Q9H6jHj5txCVX5KSM8V"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218477,
+      "name": "Nashville Tears",
+      "url": "https://open.spotify.com/track/0anTyrjdkjpYkVnbyNQVNU"
+    },
+    {
+      "album": {
         "name": "I've Tried Everything But Therapy (Complete Edition)",
         "url": "https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT"
       },

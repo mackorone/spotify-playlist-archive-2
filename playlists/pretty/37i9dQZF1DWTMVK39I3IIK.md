@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 
 > de skarpeste knive i dansk musik  📸  Rigmor
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,065 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,068 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 33 | [Det sker alt for tit](https://open.spotify.com/track/4NJHLdpTZprYzzBl1INEGi) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Det sker alt for tit](https://open.spotify.com/album/57eFbZtnhu5KxEP6aUiGvB) | 3:07 |
 | 34 | [Marianne og Henrik](https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Marianne og Henrik](https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr) | 3:00 |
 | 35 | [BARATO](https://open.spotify.com/track/3iy4yl1YHHRlgZJbIKTnn0) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o), [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [BARATO](https://open.spotify.com/album/3k2jX8she6s2NzgpAKWMpT) | 2:29 |
-| 36 | [The Orchids](https://open.spotify.com/track/31aiWi0crrBvSOQ0TdUyhO) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [The Orchids](https://open.spotify.com/album/4lBAWfH8QNQ33Y24KolwYs) | 2:45 |
-| 37 | [Anna](https://open.spotify.com/track/1aTvtqzdNdivWqhPY7G9z0) | [ABSURD](https://open.spotify.com/artist/5g2Fj5Ecjr8HQX5hqltsRv) | [Anna](https://open.spotify.com/album/1EjQLRWtKkSF9jjvktpS1O) | 3:12 |
+| 36 | [Anna](https://open.spotify.com/track/1aTvtqzdNdivWqhPY7G9z0) | [ABSURD](https://open.spotify.com/artist/5g2Fj5Ecjr8HQX5hqltsRv) | [Anna](https://open.spotify.com/album/1EjQLRWtKkSF9jjvktpS1O) | 3:12 |
+| 37 | [The Orchids](https://open.spotify.com/track/31aiWi0crrBvSOQ0TdUyhO) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [The Orchids](https://open.spotify.com/album/4lBAWfH8QNQ33Y24KolwYs) | 2:45 |
 | 38 | [Hvad Med Mig](https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [August](https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb) | 3:15 |
 | 39 | [Kun for os](https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ) | [Kun for os](https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc) | 3:20 |
 | 40 | [Sætter Alt På Spil](https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d) | [Bifald](https://open.spotify.com/artist/0digldp7orPQLSfADZojvH) | [Sætter Alt På Spil](https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA) | 3:17 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 51 | [Førhen](https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Førhen](https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR) | 3:19 |
 | 52 | [Et Sted på Vesterbro](https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ) | [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Et Sted på Vesterbro](https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn) | 2:28 |
 | 53 | [SIDDER FAST](https://open.spotify.com/track/6Wrf5C5mxvkLIoFjlszAVK) | [BLÅ](https://open.spotify.com/artist/0Cuk5kJqUBt9humq6ryL5N) | [SIDDER FAST](https://open.spotify.com/album/1AzZUHmbgs54ifcIe6muYe) | 2:51 |
-| 54 | [TO OM NATTEN](https://open.spotify.com/track/42Rt9FsB03RRTfT4vR3prd) | [Chukz](https://open.spotify.com/artist/37rvQBNRn9rUEgPDPdOlfC) | [TO OM NATTEN](https://open.spotify.com/album/4YugKOIaP4dq24uqXYWAtI) | 2:07 |
-| 55 | [Lonely](https://open.spotify.com/track/0kywndNJmUz0YvuVmaF9RO) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Lonely](https://open.spotify.com/album/2Eu9EXnfSketOVIBoYhj6N) | 3:13 |
+| 54 | [Lonely](https://open.spotify.com/track/0kywndNJmUz0YvuVmaF9RO) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Lonely](https://open.spotify.com/album/2Eu9EXnfSketOVIBoYhj6N) | 3:13 |
+| 55 | [TO OM NATTEN](https://open.spotify.com/track/42Rt9FsB03RRTfT4vR3prd) | [Chukz](https://open.spotify.com/artist/37rvQBNRn9rUEgPDPdOlfC) | [TO OM NATTEN](https://open.spotify.com/album/4YugKOIaP4dq24uqXYWAtI) | 2:07 |
 | 56 | [Klubben \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Pisk](https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1) | 3:50 |
 | 57 | [Kommet Videre](https://open.spotify.com/track/4IGButeXvqRqDjj9rM2iUa) | [Laura Vejlby](https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ) | [Kommet Videre](https://open.spotify.com/album/7hYNwd5AwQYI0MDM4Vp4hP) | 2:21 |
 | 58 | [Tunge Følelser](https://open.spotify.com/track/1Mnmmbcd8RhjOoZExPW3Zv) | [Zira](https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB) | [Tunge Følelser](https://open.spotify.com/album/7LAyKf6EHJxTiBkllKmp1U) | 2:35 |
@@ -71,11 +71,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 61 | [Barn Af Venedig](https://open.spotify.com/track/69xPESR9jpHettUzmQiWYE) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [Barn Af Venedig](https://open.spotify.com/album/7md2UVqllUni4xa7373rXi) | 3:59 |
 | 62 | [Waiting For You](https://open.spotify.com/track/3wpw0J3SJBAKsmqyXKOPuF) | [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Waiting For You](https://open.spotify.com/album/1HATJl1qtSHJlHv6W4QGUf) | 2:48 |
 | 63 | [Verona](https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Verona](https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9) | 3:18 |
-| 64 | [Won't Be Me](https://open.spotify.com/track/0rBiDLWMhp6pNZBBIvbbyF) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [Won't Be Me](https://open.spotify.com/album/0jGSAnDG6ZMOJoODpsYucS) | 2:47 |
+| 64 | [hot but depressive](https://open.spotify.com/track/4kRAn2ZrWPzN0bQiLmtLUq) | [Elliot](https://open.spotify.com/artist/1GUGqjD5UliyQ31rYo7JBd) | [hot but depressive](https://open.spotify.com/album/5Ay0BAktKkO9l7dUQSmTbU) | 2:44 |
 | 65 | [Lyst til](https://open.spotify.com/track/2Z87TUa90HNdSvCAK0jRJj) | [Downtown July](https://open.spotify.com/artist/1ueRTQVabMV8G7GW0AkDmD) | [Lyst til](https://open.spotify.com/album/3HCmazvMAX88CGB1ZngnHS) | 3:37 |
-| 66 | [hot but depressive](https://open.spotify.com/track/4kRAn2ZrWPzN0bQiLmtLUq) | [Elliot](https://open.spotify.com/artist/1GUGqjD5UliyQ31rYo7JBd) | [hot but depressive](https://open.spotify.com/album/5Ay0BAktKkO9l7dUQSmTbU) | 2:44 |
-| 67 | [Sang Til Min Far](https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Daylight](https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX) | 3:02 |
-| 68 | [Lige så fucked som mig](https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lige så fucked som mig](https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk) | 2:30 |
+| 66 | [Won't Be Me](https://open.spotify.com/track/0rBiDLWMhp6pNZBBIvbbyF) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [Won't Be Me](https://open.spotify.com/album/0jGSAnDG6ZMOJoODpsYucS) | 2:47 |
+| 67 | [Lige så fucked som mig](https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lige så fucked som mig](https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk) | 2:30 |
+| 68 | [Sang Til Min Far](https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Daylight](https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX) | 3:02 |
 | 69 | [Klart Nok](https://open.spotify.com/track/0itsAYJPTg18QJadt3lchA) | [Kvadrillers](https://open.spotify.com/artist/7cGbT709Ly8AR5xjPJPeac) | [Klart Nok](https://open.spotify.com/album/12lnq7v7r939itsSBIa9oF) | 2:26 |
 | 70 | [Ind I Solen](https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz) | [Kayak](https://open.spotify.com/artist/52CkRpzc0v3TRxHC5maRCz) | [Ind I Solen](https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b) | 3:47 |
 

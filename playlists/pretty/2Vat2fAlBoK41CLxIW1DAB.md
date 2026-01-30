@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,598 likes - 853 songs - 2 day 5 hr 40 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,598 likes - 859 songs - 2 day 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -861,5 +861,11 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 851 | [Dear Life](https://open.spotify.com/track/2YF3yvLeegk8Qu8cfJMFda) | [Summer Colds](https://open.spotify.com/artist/1KO4w7F0yxQpGqN6w5unBn) | [Dear Life](https://open.spotify.com/album/2dQTUOCE0wZy47WHq7LGqH) | 4:34 |
 | 852 | [Stranger Than Love](https://open.spotify.com/track/1Wtn7Dsw2XLdRuoW0kih9h) | [Taylor Youngbauer](https://open.spotify.com/artist/4UeB4cZPyYIaC0VYRsaFiZ), [Richard Greene](https://open.spotify.com/artist/02BacLwR3UUwERUhF6q6My) | [Stranger Than Love](https://open.spotify.com/album/1OJAlXkqvzGo8xLTtABdSA) | 2:42 |
 | 853 | [The Legend Of The Sunken Monastery](https://open.spotify.com/track/2GPEkY4AWwlh9RicowVdwe) | [Infinity](https://open.spotify.com/artist/3u37eK7ZGCb9S7Cr1dLh86) | [The Arcane Wisdom of Shadows](https://open.spotify.com/album/5Djn2lWZQOT6qufkuvGpbF) | 7:59 |
+| 854 | [Smile](https://open.spotify.com/track/3AKtAR615zEAc6UIT7oY80) | [Barakade](https://open.spotify.com/artist/3rYQvAdbe089i3VD3IRJva) | [Smile](https://open.spotify.com/album/1ZizPsLaReRlSoCVieveje) | 4:31 |
+| 855 | [Небеса](https://open.spotify.com/track/6kPH9DfXzZF4T7PYM2otQm) | [Yurii Khrabatyn](https://open.spotify.com/artist/1IhYoEEM1wX0nfU5Qa7anx), [Koridor v Tuman](https://open.spotify.com/artist/7tA2EAaPfvp34wbn0SJ3b0) | [Небеса](https://open.spotify.com/album/3eZ25ceyyanmysgjDddaOq) | 5:43 |
+| 856 | [Perfecting Failure](https://open.spotify.com/track/1UgOJhspmta0nQHaSLWw11) | [ColourMind](https://open.spotify.com/artist/6qAV0axr2ScfQCauvSZlKO) | [Perfecting Failure](https://open.spotify.com/album/5szJhKCuuafyVx6ztYwqhw) | 3:49 |
+| 857 | [Spoiled Rotten \(HD\)](https://open.spotify.com/track/5QjNMb2PjmCDLZeBYno1hQ) | [The Rite Band](https://open.spotify.com/artist/0m4ILdMQu2bAfjnUnw9XIr), [Mr\. ALLEN](https://open.spotify.com/artist/24BbJE4zJyn34Skcv16Q9W) | [Spoiled Rotten \(HD\)](https://open.spotify.com/album/6l3BPCW6PDE8y5wzZTmmUf) | 4:11 |
+| 858 | [Two Lights Beckon](https://open.spotify.com/track/1pR0Ja6gdWmhLksNy4poRk) | [Black Halo](https://open.spotify.com/artist/2Vzqi1AZ8PcAt5Br2wGtjL) | [Two Lights Beckon](https://open.spotify.com/album/63g2wZf82k9n5qspQXUIIr) | 3:51 |
+| 859 | [What You Got](https://open.spotify.com/track/7y54BPC8nFMxYnu5EYS4ii) | [Friends With Boats](https://open.spotify.com/artist/1ahtzLoyQhpQSyTTD0rysc) | [What You Got](https://open.spotify.com/album/2Jst1hbmwrDvt1jJEfE3ms) | 2:47 |
 
-Snapshot ID: `AAADdNLrwKzJpqxIZ0FLKgHiOHZv3rMj`
+Snapshot ID: `AAADekDTzRZz+iflFfyN/2EAI+32uSkD`

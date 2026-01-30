@@ -2,9 +2,9 @@
 
 ### [UK House Music](https://open.spotify.com/playlist/37i9dQZF1DWSrVdvTl1tVY)
 
-> The biggest house bangers popping off in the UK, let's go! Cover: Melo Nada
+> The biggest house bangers popping off in the UK, let's go! Cover: Cam Stockman
 
-1,256 songs - 2 day 23 hr 19 min
+1,262 songs - 2 day 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Don't Let It Stop](https://open.spotify.com/track/6YULcqvCPo9m3R2bqcMdpq) | [DJ YUKI](https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Don't Let It Stop](https://open.spotify.com/album/0MdtjAqUkGkieieFHQA5jA) | 2:26 | 2022-05-27 | 2022-06-24 |
 | [Don't Stop](https://open.spotify.com/track/10qZ3Q1jzz3LJNmrfIRvc6) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Don't Stop](https://open.spotify.com/album/5BiS9PERQXFX5cbMti2El7) | 3:27 | 2025-12-12 |  |
 | [Don't Stop](https://open.spotify.com/track/1F1cCUl7LcUB57Q5W4MszE) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Don't Stop](https://open.spotify.com/album/1WdCTzOv2fUER2VZB3awFA) | 3:28 | 2022-07-20 | 2022-07-22 |
+| [Don't Stop](https://open.spotify.com/track/5tucU0rXSY4330HIoOWd5p) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Ruff Driverz](https://open.spotify.com/artist/0lBn2JE9uxCxlEhITJ8nuX) | [Don't Stop](https://open.spotify.com/album/6O02eFg2N5PNkAPoPyFdAs) | 3:20 | 2026-01-30 |  |
 | [Don't Stop](https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Don't Stop](https://open.spotify.com/album/0rSgVoJE8fncqD9bJU0Ltq) | 2:27 | 2025-04-10 | 2025-08-09 |
 | [Don't Stop Movin'](https://open.spotify.com/track/5lc7Fkqt3GdHbM8F77CJ1E) | [ACT ON](https://open.spotify.com/artist/0vhim3LiEF8Ahlx4RNlTJz), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Don’t Stop Movin’](https://open.spotify.com/album/2PFGnH4cnaZFay0b5pEJi0) | 2:38 | 2022-04-08 | 2022-06-10 |
 | [Don't Tell Me](https://open.spotify.com/track/38CuN4CRLP5s76gE2PVmgD) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Don't Tell Me](https://open.spotify.com/album/0UkxPgr1xYlGMxzm6GiLK6) | 2:49 | 2023-05-05 | 2023-09-22 |
@@ -422,7 +423,9 @@
 | [Front & Back Seat](https://open.spotify.com/track/1KyMTc7vqMotAPD21EvzBx) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Front & Back Seat](https://open.spotify.com/album/3prlLKT6UH9wH4zmIhiNyG) | 2:51 | 2025-07-24 | 2026-01-15 |
 | [Front 2 Back](https://open.spotify.com/track/5O3BBu1w4gfT0vsLPN3bfW) | [Jordan Peak](https://open.spotify.com/artist/5Jhhsm26nMbGu8FNOvN3Gk) | [Front 2 Back](https://open.spotify.com/album/0GjU9EI6COpbjnLEh049Ct) | 2:59 | 2025-07-10 | 2025-11-21 |
 | [Frozen](https://open.spotify.com/track/77Rrh3GmnQtudQWWJkomiG) | [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Frozen](https://open.spotify.com/album/5bARuKz9sERIH9uVbsFaJG) | 3:26 | 2025-11-21 |  |
+| [Funk Rider](https://open.spotify.com/track/6RZakjq46iwjOvcTrVryOz) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Funk Rider](https://open.spotify.com/album/0Smedj3kQlLiwpIsiPSOh3) | 3:20 | 2026-01-30 |  |
 | [Fuse](https://open.spotify.com/track/5kNnWHSnhmTxg3msGRLfWH) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Fuse](https://open.spotify.com/album/779o4JQ4O4f77qc2DD7JeA) | 3:30 | 2023-03-08 | 2023-03-09 |
+| [Fvck The Cops](https://open.spotify.com/track/2Di0yOQR40CDLkL8v5hg6C) | [Draxx \(ITA\)](https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73) | [Fvck The Cops](https://open.spotify.com/album/2dopOjs7uIIYOORmzv9Xyy) | 2:53 | 2026-01-30 |  |
 | [G.O.A.T](https://open.spotify.com/track/4AvD91GmVkVyDY6Q5Gdoan) | [Charlotte Devaney](https://open.spotify.com/artist/58quCP7j2McEeEtRungVle) | [G.O.A.T](https://open.spotify.com/album/4oVlzKpW3Sc17Jptq6PVb5) | 3:19 | 2022-03-08 | 2022-03-10 |
 | [Garden](https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Garden](https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm) | 3:35 | 2022-01-14 | 2022-05-14 |
 | [GDH](https://open.spotify.com/track/2PhKn3tXUkx5vHlYM3P4Ob) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [GDH](https://open.spotify.com/album/0XuC5xsv6jj7zlrO2kUYz2) | 2:57 | 2025-06-12 | 2025-10-03 |
@@ -430,6 +433,7 @@
 | [Get Close](https://open.spotify.com/track/1OmTOm3sl7YAe8fJSVCtrK) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Get Close](https://open.spotify.com/album/16dFWwANoVShEiO04HyZRG) | 3:37 | 2022-07-21 | 2022-11-18 |
 | [Get Down](https://open.spotify.com/track/7Iqk4pTyBH1TRYdzwtLw8w) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [Hako](https://open.spotify.com/artist/2DMxwup7ixuMkUyca8uGMe) | [Get Down](https://open.spotify.com/album/6pexgSMcCCmQJl8TJkwAEE) | 2:49 | 2023-11-10 | 2024-03-29 |
 | [Get On The Floor](https://open.spotify.com/track/45JOJ1S8OK78Ce0zX6krvu) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Get On The Floor EP](https://open.spotify.com/album/78DyUWTOfsZW2VHnuTvIB4) | 6:28 | 2023-07-27 | 2023-11-17 |
+| [Get Ready](https://open.spotify.com/track/5qOTgjGGg6ezIrO13WYPsA) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg), [Jay Robinson](https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z) | [Get Ready](https://open.spotify.com/album/6I3lJ5LTu6z2lShsJXTNqP) | 2:37 | 2026-01-30 |  |
 | [Get Stupid](https://open.spotify.com/track/7aFgh0G0BusHzC6gex4wP8) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Get Stupid](https://open.spotify.com/album/1dwyGuNYnXdHnwhfDmdIgK) | 3:02 | 2024-04-12 | 2024-11-08 |
 | [Get Stupid](https://open.spotify.com/track/22pC8m4kzjrMQRJXYg0usw) | [Julian Fijma](https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy) | [Get Stupid](https://open.spotify.com/album/0xkWdnlmmsfqbFrdqlrGom) | 3:21 | 2025-08-14 | 2026-01-15 |
 | [Get Up](https://open.spotify.com/track/3uO4nLDiJMH2DkixEFcHIN) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [ShezAr](https://open.spotify.com/artist/3PPJmIxohGjhNvQIyrksIW) | [Get Up](https://open.spotify.com/album/2XahKuNpWDBxLlbD8eKCuc) | 3:06 | 2023-02-14 | 2023-07-14 |
@@ -565,6 +569,7 @@
 | [Insomniac](https://open.spotify.com/track/5Cu4Qj7SQq7Kid9YhWdpHH) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Insomniac](https://open.spotify.com/album/5mqceu3UcobNLY0nJVcMTC) | 3:09 | 2021-12-17 | 2022-01-21 |
 | [Into My Life \(feat\. Joyce Sims\)](https://open.spotify.com/track/5Pcg7KpidYjuKTTJ12IvvF) | [Cam Stockman](https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg), [Joyce Sims](https://open.spotify.com/artist/4AL3YviSMI70ARkSOHlxbQ) | [Into My Life \(feat\. Joyce Sims\)](https://open.spotify.com/album/4KzpmvHWP09GTVgGpnkBl7) | 2:11 | 2026-01-23 |  |
 | [Into The Groove](https://open.spotify.com/track/2DGZwPbTxiiWB8gESqpdpi) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Into The Groove](https://open.spotify.com/album/17xCmo0ONouJXPuRzZBVFi) | 3:11 | 2021-12-17 | 2022-01-07 |
+| [Intoxicated](https://open.spotify.com/track/2BisOilWiyxNr0NMoZRxO6) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Intoxicated](https://open.spotify.com/album/0jpb8dwJSWcZOgao05mnGt) | 2:20 | 2026-01-30 |  |
 | [Is Everybody Having Fun? \(feat\. rhys from the sticks\)](https://open.spotify.com/track/58JdlahcAaLgM7ftInMf4M) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [Is Everybody Having Fun? \(feat\. rhys from the sticks\)](https://open.spotify.com/album/0saGsR6TeTVKV7rJHOYgR8) | 2:49 | 2025-06-19 | 2025-09-26 |
 | [Is It You](https://open.spotify.com/track/4jlS72eGLijzfr7PymxDYi) | [PAX](https://open.spotify.com/artist/3NYySx3H1V7zHemD9hmsQv) | [Is It You](https://open.spotify.com/album/0slFvrkkV4qgU8HPsDZDSh) | 2:39 | 2022-03-11 | 2022-07-30 |
 | [Isolate](https://open.spotify.com/track/1S53GdSL2ZmYb2JkYXPMcZ) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Isolate](https://open.spotify.com/album/2q04hZi8qndzyhp6aGBwtv) | 4:03 | 2022-03-18 | 2022-07-21 |
@@ -1030,6 +1035,7 @@
 | [Stop Now](https://open.spotify.com/track/03hwEnKfs0s3GeGrssARv7) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Stop Now](https://open.spotify.com/album/0A3lSVMnO2B94Lcbzp4209) | 4:48 | 2025-04-10 | 2025-08-09 |
 | [Strange Faces](https://open.spotify.com/track/4lc1MN5O98ZPoEVnREVBrz) | [Hayley Zalassi](https://open.spotify.com/artist/6CkWYOPGB6vgMNjXAYRfav), [Big Miz](https://open.spotify.com/artist/16bJAXH14R42AnpN0FtaQo) | [Strange Faces](https://open.spotify.com/album/35oKTmccKcrR2RqizXr60N) | 6:04 | 2022-12-16 | 2023-04-07 |
 | [Strong](https://open.spotify.com/track/3bVrJvRNReqbE2Ow5txo4n) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [Strong](https://open.spotify.com/album/2Auo5VfZ8S8p10J6u5bFbV) | 3:36 | 2023-08-03 | 2023-12-22 |
+| [Stuck In A Loop](https://open.spotify.com/track/7wKqk5dEyAl3IMG0JWI5i4) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Stuck In A Loop](https://open.spotify.com/album/2EmTsbWSCULTXSZ1yKbbAt) | 2:43 | 2026-01-30 |  |
 | [Stuck To You](https://open.spotify.com/track/2VYV3nqn842QN7Gr6K1KwW) | [Josh Hunter](https://open.spotify.com/artist/3DWpDqNBdUvlSfzRk27N4z) | [Stuck To You](https://open.spotify.com/album/0I4n1gW6NINVoVEffzueFd) | 2:51 | 2025-02-28 | 2025-06-27 |
 | [Sungazing \- Electronic Mix](https://open.spotify.com/track/0H72o8QdyYc57jNkvYwfAX) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [Alexa Sunshine Rose](https://open.spotify.com/artist/1EicV0pIrtOsnszBgno6SB) | [Sungazing \(Electronic Mix\)](https://open.spotify.com/album/4h1vw2FoXuoCPFrMu3wZpg) | 4:07 | 2025-04-24 | 2025-08-15 |
 | [Sunglasses](https://open.spotify.com/track/1Ump2Izmbp9bdEJtkTClgl) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunglasses](https://open.spotify.com/album/69iTohGWGa451agVzIFJbC) | 3:03 | 2024-05-10 | 2024-12-06 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Saosin. The essential tracks, all in one playlist.",
-  "num_followers": 9678,
+  "num_followers": 9680,
   "original_name": "This Is Saosin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXgAAAAAAABqoTKFnV/qpoP4cnpc3uTf",
+  "snapshot_id": "aXlRgAAAAABJOKRgKx19HXdwPJka5I5C",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 238053,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/7cITfGsdjGaTP0b5oiLL0z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Translating the Name",
-        "url": "https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Seven Years",
-      "url": "https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV"
     },
     {
       "added_at": null,
@@ -75,38 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saosin",
-        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 217524,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Translating the Name",
-        "url": "https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 206320,
-      "name": "Translating the Name",
-      "url": "https://open.spotify.com/track/2fsYDaUa76sRjlHxqh1sdx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Along The Shadow (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4"
       },
@@ -123,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Search of Solid Ground",
-        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Nothing Is What It Seems",
-      "url": "https://open.spotify.com/track/4NWL8X6InF3pQwzw8820ic"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saosin",
         "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
       },
@@ -148,201 +84,9 @@
           "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
         }
       ],
-      "duration_ms": 234546,
-      "name": "It's Far Better To Learn",
-      "url": "https://open.spotify.com/track/0nQcyybXeatlDXgvQOrT1n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Translating the Name",
-        "url": "https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 158360,
-      "name": "3rd Measurement in C",
-      "url": "https://open.spotify.com/track/3y5f6SfCuDjYOzeSbKP72p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Along The Shadow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 186746,
-      "name": "Count Back from TEN",
-      "url": "https://open.spotify.com/track/69ycJyqz0Sy7jk5hQ43afA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Search of Solid Ground",
-        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 234480,
-      "name": "I Keep Secrets Safe",
-      "url": "https://open.spotify.com/track/2jAZg043nuMGUcdtvmEIJE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saosin",
-        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 195186,
-      "name": "Collapse",
-      "url": "https://open.spotify.com/track/4iLRzDTNc3NbTyQ0w5cAOd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Translating the Name",
-        "url": "https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 171173,
-      "name": "They Perched on Their Stilts, Pointing and Daring Me to Break Custom",
-      "url": "https://open.spotify.com/track/1H3cv1QRzBChdsOnPdyrfD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Along The Shadow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 213493,
-      "name": "Ideology Is Theft",
-      "url": "https://open.spotify.com/track/2JpvJGyaOpH1YPjBGZf1qr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Search of Solid Ground",
-        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "Deep Down",
-      "url": "https://open.spotify.com/track/1gqbyEsTzB5kjodXDGDbYX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saosin",
-        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 171827,
-      "name": "Sleepers",
-      "url": "https://open.spotify.com/track/6s3d8xe76eyHPgD2QYutJQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Translating the Name",
-        "url": "https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 175066,
-      "name": "Lost Symphonies",
-      "url": "https://open.spotify.com/track/7EzL0vW3YlaAH0EiUe5MKk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Along The Shadow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Second Guesses",
-      "url": "https://open.spotify.com/track/78j1GGl7Tlm00RnvCkwMM6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Search of Solid Ground",
-        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 214853,
-      "name": "The Worst of Me",
-      "url": "https://open.spotify.com/track/1wiIhmcIU1hJWqEKhcaXcp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saosin",
-        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 189213,
-      "name": "Finding Home",
-      "url": "https://open.spotify.com/track/6rOx8Ymk3bv7k7DBcxqjwp"
+      "duration_ms": 217524,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv"
     },
     {
       "added_at": null,
@@ -363,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Along The Shadow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 174506,
-      "name": "Racing Toward a Red Light",
-      "url": "https://open.spotify.com/track/5BUol6mbHtjJk9giZVW7KV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Search of Solid Ground",
         "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
       },
@@ -388,9 +116,41 @@
           "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
         }
       ],
-      "duration_ms": 159053,
-      "name": "Why Can't You See",
-      "url": "https://open.spotify.com/track/2GZ14jhPUHqN5scWzoaXZR"
+      "duration_ms": 265000,
+      "name": "Nothing Is What It Seems",
+      "url": "https://open.spotify.com/track/4NWL8X6InF3pQwzw8820ic"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Along The Shadow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 186746,
+      "name": "Count Back from TEN",
+      "url": "https://open.spotify.com/track/69ycJyqz0Sy7jk5hQ43afA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 234546,
+      "name": "It's Far Better To Learn",
+      "url": "https://open.spotify.com/track/0nQcyybXeatlDXgvQOrT1n"
     },
     {
       "added_at": null,
@@ -411,6 +171,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Search of Solid Ground",
+        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 234480,
+      "name": "I Keep Secrets Safe",
+      "url": "https://open.spotify.com/track/2jAZg043nuMGUcdtvmEIJE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Along The Shadow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 213493,
+      "name": "Ideology Is Theft",
+      "url": "https://open.spotify.com/track/2JpvJGyaOpH1YPjBGZf1qr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 195186,
+      "name": "Collapse",
+      "url": "https://open.spotify.com/track/4iLRzDTNc3NbTyQ0w5cAOd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saosin",
         "url": "https://open.spotify.com/album/3WFPpbGgppW9ZgXQ4eyH0w"
       },
@@ -427,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Search of Solid Ground",
+        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/1gqbyEsTzB5kjodXDGDbYX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Along The Shadow (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4"
       },
@@ -436,9 +260,25 @@
           "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
         }
       ],
-      "duration_ms": 173000,
-      "name": "The Stutter Says A Lot",
-      "url": "https://open.spotify.com/track/70YL1BWVpf2O6M4V1kHM8b"
+      "duration_ms": 248000,
+      "name": "Second Guesses",
+      "url": "https://open.spotify.com/track/78j1GGl7Tlm00RnvCkwMM6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 171827,
+      "name": "Sleepers",
+      "url": "https://open.spotify.com/track/6s3d8xe76eyHPgD2QYutJQ"
     },
     {
       "added_at": null,
@@ -459,6 +299,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Search of Solid Ground",
+        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 214853,
+      "name": "The Worst of Me",
+      "url": "https://open.spotify.com/track/1wiIhmcIU1hJWqEKhcaXcp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Along The Shadow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 174506,
+      "name": "Racing Toward a Red Light",
+      "url": "https://open.spotify.com/track/5BUol6mbHtjJk9giZVW7KV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 189213,
+      "name": "Finding Home",
+      "url": "https://open.spotify.com/track/6rOx8Ymk3bv7k7DBcxqjwp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Grey",
         "url": "https://open.spotify.com/album/5FME0EWIpnQ3pGT5ugvykD"
       },
@@ -471,6 +359,38 @@
       "duration_ms": 197626,
       "name": "Love Maker",
       "url": "https://open.spotify.com/track/0IsOrgcBeDDwzaaw4Gqeo3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Search of Solid Ground",
+        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 159053,
+      "name": "Why Can't You See",
+      "url": "https://open.spotify.com/track/2GZ14jhPUHqN5scWzoaXZR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Along The Shadow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "The Stutter Says A Lot",
+      "url": "https://open.spotify.com/track/70YL1BWVpf2O6M4V1kHM8b"
     },
     {
       "added_at": null,
@@ -551,6 +471,22 @@
       "duration_ms": 101975,
       "name": "Only 20 Once - Live",
       "url": "https://open.spotify.com/track/7nIqfhqI24mXCpeqSRAxSZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live From The Garden Amphitheater",
+        "url": "https://open.spotify.com/album/3NfVMaOZ77ncBATxyHyP1f"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 226005,
+      "name": "Translating The Name - Live",
+      "url": "https://open.spotify.com/track/75LhYxyfoxPlgIAJbXk4wA"
     }
   ],
   "unique_name": "This Is Saosin",

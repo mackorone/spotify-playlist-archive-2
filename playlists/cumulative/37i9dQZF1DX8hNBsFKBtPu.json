@@ -821,6 +821,24 @@
     },
     {
       "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
+    },
+    {
+      "album": {
         "name": "Apple Cider Vinaigrette",
         "url": "https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg"
       },
@@ -1078,6 +1096,24 @@
       "duration_ms": 189917,
       "name": "Bagl\u00e6ns",
       "url": "https://open.spotify.com/track/2IQAtBAWoIFo4I7aAwS7ta"
+    },
+    {
+      "album": {
+        "name": "Begge To",
+        "url": "https://open.spotify.com/album/2DClmVE5u5kWjrEkQgQDRj"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186439,
+      "name": "Begge To",
+      "url": "https://open.spotify.com/track/6UKrwmUHGDWtUxQXu0lrjg"
     },
     {
       "album": {
@@ -3212,6 +3248,28 @@
       "duration_ms": 235621,
       "name": "Du og jeg",
       "url": "https://open.spotify.com/track/12RzHH3ZiYmBP6ehh33L20"
+    },
+    {
+      "album": {
+        "name": "Du Ved Det (feat. Gunge)",
+        "url": "https://open.spotify.com/album/7ElC88rZmveuh3zypr6vcQ"
+      },
+      "artists": [
+        {
+          "name": "Gunge",
+          "url": "https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN"
+        },
+        {
+          "name": "Eezy",
+          "url": "https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Du Ved Det (feat. Gunge)",
+      "url": "https://open.spotify.com/track/7cxaUKtOG7xYvSTskhEgwm"
     },
     {
       "album": {
@@ -8055,6 +8113,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Sofie1998",
+          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "Louisiana",
+      "url": "https://open.spotify.com/track/0jyGqr3el63Ez1rZEYiW6c"
+    },
+    {
+      "album": {
         "name": "Love Hangover (feat. Dominic Fike)",
         "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
       },
@@ -10572,6 +10648,24 @@
       "duration_ms": 161241,
       "name": "Reposado",
       "url": "https://open.spotify.com/track/3xJeUxbt51wpvGk3YzqxLi"
+    },
+    {
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/5YjCW2nweQPrLbeMhiTBvc"
+      },
+      "artists": [
+        {
+          "name": "Alex Vargas",
+          "url": "https://open.spotify.com/artist/3kdU3J8t1HUPZqFyScP8SF"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226310,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/2ziPIkuukbAOkRjJVWpZb9"
     },
     {
       "album": {

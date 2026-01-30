@@ -908,7 +908,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 209142,
       "name": "1day (R)",
       "url": "https://open.spotify.com/track/1Vts9sixN6QUtX6VwguIbm"
@@ -5878,6 +5878,24 @@
       "duration_ms": 91000,
       "name": "BK Suede - Remix",
       "url": "https://open.spotify.com/track/4CZjWQcRCuyWq5TuMjvcTs"
+    },
+    {
+      "album": {
+        "name": "Black Moon",
+        "url": "https://open.spotify.com/album/5oJWq9fnYp9QfukBGx1v4U"
+      },
+      "artists": [
+        {
+          "name": "Nitro Microphone Underground",
+          "url": "https://open.spotify.com/artist/2Zc6sm77bsQ92QvXQ73iP9"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160134,
+      "name": "Black Moon",
+      "url": "https://open.spotify.com/track/1CL9wlJQiS7edAr3ajt0xS"
     },
     {
       "album": {
@@ -12854,7 +12872,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 205266,
       "name": "Fallin\u2019 (feat. Neibiss)",
       "url": "https://open.spotify.com/track/1HnRZKWyK9KyTYGwhqqKGR"
@@ -13074,7 +13092,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 224705,
       "name": "Fear Us (feat. Joey Bada$$)",
       "url": "https://open.spotify.com/track/7JTojjDe7DUamPDIxCIiZH"
@@ -15610,7 +15628,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 182000,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/785BETMnaavuSW6TJPOoeO"
@@ -19004,7 +19022,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 170624,
       "name": "Intro *GUNSO WALK",
       "url": "https://open.spotify.com/track/287f5maqcVfd5P7A4xavjq"
@@ -19766,7 +19784,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 179175,
       "name": "K",
       "url": "https://open.spotify.com/track/3SJThijaujZhG1GTR0LYZO"
@@ -24720,6 +24738,32 @@
       "duration_ms": 203385,
       "name": "Money Trees",
       "url": "https://open.spotify.com/track/2JaEYhyKiufEazcC51QhWC"
+    },
+    {
+      "album": {
+        "name": "MONEY UP (feat. 7 & eyden)",
+        "url": "https://open.spotify.com/album/08zxWOjo6UKSy1zNaGAyt6"
+      },
+      "artists": [
+        {
+          "name": "DJ KANJI",
+          "url": "https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN"
+        },
+        {
+          "name": "7",
+          "url": "https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn"
+        },
+        {
+          "name": "eyden",
+          "url": "https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174076,
+      "name": "MONEY UP (feat. 7 & eyden)",
+      "url": "https://open.spotify.com/track/6FYeN26inu1ArB0YGuW98s"
     },
     {
       "album": {
@@ -31440,7 +31484,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 181200,
       "name": "Rainy (feat. Bene Baby)",
       "url": "https://open.spotify.com/track/2y7KKhdAXZcSTyPru5ChN9"
@@ -32408,6 +32452,24 @@
       "duration_ms": 191306,
       "name": "Retire",
       "url": "https://open.spotify.com/track/62Za0pv3dQlXJlGPiYeHqf"
+    },
+    {
+      "album": {
+        "name": "The Claimant/REVENGE",
+        "url": "https://open.spotify.com/album/3KVlhgQwopf7gh5VCsRLb0"
+      },
+      "artists": [
+        {
+          "name": "Pxrge Trxxxper",
+          "url": "https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "REVENGE",
+      "url": "https://open.spotify.com/track/6Ti0pYsxkmjTWjot5SazAc"
     },
     {
       "album": {

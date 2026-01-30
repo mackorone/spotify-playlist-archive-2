@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! FAMA en portada \u2728",
-  "num_followers": 93933,
+  "num_followers": 93953,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-01-23 06:00:09",
       "album": {
+        "name": "veme as\u00ed (Live performance)",
+        "url": "https://open.spotify.com/album/3PDqU6Qle7lCGzTXbcPVoj"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 246688,
+      "name": "lento - Live performance",
+      "url": "https://open.spotify.com/track/1N6yObVx8jtcgcjaE7HKQN"
+    },
+    {
+      "added_at": "2026-01-23 06:00:09",
+      "album": {
         "name": "PALACIO DE LUX",
         "url": "https://open.spotify.com/album/1Zn2LwmWP3ItxW1DIOdg0X"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 194565,
       "name": "bachata m\u00eda",
       "url": "https://open.spotify.com/track/2mVupSW8ElmGAeidSkhLfW"
-    },
-    {
-      "added_at": "2026-01-23 06:00:09",
-      "album": {
-        "name": "veme as\u00ed (Live performance)",
-        "url": "https://open.spotify.com/album/3PDqU6Qle7lCGzTXbcPVoj"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 246688,
-      "name": "lento - Live performance",
-      "url": "https://open.spotify.com/track/1N6yObVx8jtcgcjaE7HKQN"
     },
     {
       "added_at": "2026-01-23 06:00:09",

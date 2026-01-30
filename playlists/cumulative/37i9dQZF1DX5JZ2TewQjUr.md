@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: David Boring
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Turbulent
 
-1,603 songs - 3 day 18 hr 42 min
+1,609 songs - 3 day 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,6 +440,7 @@
 | [I'MMATURE](https://open.spotify.com/track/4rljq1fQIfNsMfTdWAr6LD) | [quentinn®](https://open.spotify.com/artist/0CYWyysXnCqIJXXNqhPmpX) | [I'MMATURE](https://open.spotify.com/album/33t1OhRMi1nRHe343qUeoP) | 2:46 | 2025-11-13 |  |
 | [I've Been Waiting For So Long](https://open.spotify.com/track/2UOn7uM2hmqPaVee9yoDQL) | [Blackout On Mars](https://open.spotify.com/artist/77Rsubft2DC13eDnMHV8gW), [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [I've Been Waiting For So Long](https://open.spotify.com/album/49zicyaNRnOcLYYx0Cd4Ab) | 3:37 | 2023-06-15 | 2023-11-03 |
 | [I'VE JUST SEEN A FACE](https://open.spotify.com/track/5f9fBG5gReoKVWAFg5wRac) | [Ink Element](https://open.spotify.com/artist/2UOtc7DMSqIMDTIqdGzmwt) | [I'VE JUST SEEN A FACE](https://open.spotify.com/album/6ZBY55tDUNLYmNbGeo5zSo) | 3:38 | 2024-01-05 | 2024-05-10 |
+| [IDENTITY](https://open.spotify.com/track/0EF9Til1E8obWvBb94vO2Z) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [IDENTITY](https://open.spotify.com/album/66ajc8WKPsXsLjQTcAsWMi) | 3:16 | 2026-01-29 |  |
 | [idundomuchtalkingnow](https://open.spotify.com/track/669OXkisqk5sChjgpcwaTI) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [Jonwl](https://open.spotify.com/artist/1acr3vZX3WVbX6dXdwjyhz) | [idundomuchtalkingnow](https://open.spotify.com/album/30aPnV4ctObMcAxSlO2uPx) | 3:45 | 2023-10-05 | 2024-01-05 |
 | [If Ever She Goes](https://open.spotify.com/track/1HJWrsYjZFE27z16TVgoBb) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [If Ever She Goes](https://open.spotify.com/album/3Gbj7ftPtVWngvaBQg4AJs) | 3:50 | 2023-06-08 | 2023-09-01 |
 | [If I Can Be You](https://open.spotify.com/track/4D8ROLAVQZ4MMNDvXxIWXa) | [Gordon Ho](https://open.spotify.com/artist/1k0HqYv6UVaBu3spRZcSTn) | [If I Can Be You](https://open.spotify.com/album/2toJPghMs49FkCDeYnRIT7) | 3:19 | 2022-06-30 | 2022-11-04 |
@@ -533,6 +534,7 @@
 | [Live for You](https://open.spotify.com/track/539H6Lr9wJMOUPy4UGe1wK) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Live for You](https://open.spotify.com/album/26IUr9oTn5LtNm3A1q1SI6) | 3:47 | 2025-02-20 | 2025-05-30 |
 | [London \(Live Version\)](https://open.spotify.com/track/3qAh3vHbkjv6aU4uGup7Nk) | [Lucid Fuzzy](https://open.spotify.com/artist/5d9ViTf7DQ0PBUHN3JTQu5) | [London \(Live Version\)](https://open.spotify.com/album/5Hck9WPH2ceGio4m6yAWBx) | 5:28 | 2023-02-16 | 2023-07-14 |
 | [LOOK AT ME](https://open.spotify.com/track/0q0J04NigVLzVEtTJ43Gtx) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT), [JOCELINE](https://open.spotify.com/artist/7JpBZy4NUF2irqBCpIg1N3), [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [LOOK AT ME](https://open.spotify.com/album/4W86QzHSltzRLWcXnWkgjC) | 3:13 | 2022-09-01 | 2023-02-03 |
+| [LOOK AT ME](https://open.spotify.com/track/3gLeXQE3RZ8UDeT5ZE2WAs) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1) | [LOOK AT ME](https://open.spotify.com/album/4s2bucKWVviLp5W6EGcsbF) | 1:51 | 2026-01-29 |  |
 | [Look into my eyes](https://open.spotify.com/track/22A9vU5ZK7nuwySBtwNZFT) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Look into my eyes](https://open.spotify.com/album/34j4lPhObPKCVIgI8V0ZYD) | 2:58 | 2023-09-21 | 2023-11-24 |
 | [Looser! \(唔知自己喺度做緊啲乜\)](https://open.spotify.com/track/2jZewBNF8eksUYADiIS3SG) | [quentinn®](https://open.spotify.com/artist/0CYWyysXnCqIJXXNqhPmpX) | [Looser! \(唔知自己喺度做緊啲乜\)](https://open.spotify.com/album/5QyU4p6R0G8h8JnZzmNHa9) | 2:53 | 2025-09-18 |  |
 | [loosing sleep](https://open.spotify.com/track/58ZvlB4ZLb9GC2ECVA9RKM) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [Rae Law](https://open.spotify.com/artist/3R82T1kwSMzxEH1UbkRqLV), [Alexmalism](https://open.spotify.com/artist/2UwJTbVVDgt5KKRK5i94zD) | [lovestruck 100%](https://open.spotify.com/album/0w5Us8AowlWT31Za3cTZZb) | 2:26 | 2024-07-25 | 2024-11-15 |
@@ -1091,6 +1093,7 @@
 | [下雨的瞬間 Raining Moment](https://open.spotify.com/track/3mRBZkUKakcjrlCegUU2J7) | [FINGERGAP](https://open.spotify.com/artist/5xcNlSnDsa7PWk4pnsm2B6), [Fedor Yury](https://open.spotify.com/artist/3tlVYRZPpiIT0m7Xydhnzz) | [Shan Shan 160](https://open.spotify.com/album/1DcyRtz8g3mvwFy1AsmVhY) | 3:38 | 2022-08-18 | 2022-11-04 |
 | [不可](https://open.spotify.com/track/7LhM9z4A6p5u0Mvh7aVWHn) | [srx](https://open.spotify.com/artist/1NaPPojIvTCnhJCz0GQeL8) | [不可](https://open.spotify.com/album/5iM4Yd0nDMSbFzbzxnsJyn) | 5:00 | 2023-09-07 | 2023-11-03 |
 | [不可救藥的...](https://open.spotify.com/track/1x0iPXaa8eWpvZdo1vyEtF) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [不可救藥的...](https://open.spotify.com/album/1H2yIXcODEDvxaYEa4FQM5) | 3:03 | 2022-06-16 | 2022-09-09 |
+| [不如浪漫一次](https://open.spotify.com/track/6Gwysycdz2wu8JK8Pm88Nz) | [何佩](https://open.spotify.com/artist/3aRY5Cw7kIXQlcEnmSnhTo), [Mark Chan](https://open.spotify.com/artist/5LbkM0hR7sv5IVpQWF7AEQ) | [不如浪漫一次](https://open.spotify.com/album/5H0lcNL9nGFmEMtMFNA5QN) | 3:40 | 2026-01-29 |  |
 | [不安定因素](https://open.spotify.com/track/2BFHh7MnVxYzzSEQ4Cf7QD) | [DIZIWASTRIPPY](https://open.spotify.com/artist/2N23SDzDpduiMR58p4hQPe), [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [不安定因素](https://open.spotify.com/album/0OyYhO3YDR3yvlWLkFkyQj) | 2:30 | 2023-09-21 | 2024-01-05 |
 | [不定時夏休](https://open.spotify.com/track/7GEDieAbvwmeE3oXdYitay) | [kiwiseed](https://open.spotify.com/artist/1S13YkJMlcNKAB5QUbJPxZ) | [不定時夏休](https://open.spotify.com/album/1rZJ4dpZIYaXfwK7sublyj) | 3:00 | 2023-10-19 | 2024-01-05 |
 | [不想再想](https://open.spotify.com/track/00H2zvjFakugiw2Snw4JCF) | [Rae Law](https://open.spotify.com/artist/3R82T1kwSMzxEH1UbkRqLV) | [不想再想](https://open.spotify.com/album/1zNqwvZu127NWwDq3egDGM) | 2:52 | 2023-06-29 | 2023-11-03 |
@@ -1280,6 +1283,8 @@
 | [彈出彈入](https://open.spotify.com/track/6zoSo5ZBub3CHCD4ypX9iB) | [Lai Kei](https://open.spotify.com/artist/35T5iqhntCprz61MWcrgiB), [LIL MAST](https://open.spotify.com/artist/61TGZnOH8MixZbPEQpYQnC), [SC Xvill](https://open.spotify.com/artist/6uyTwA4o8IArP7fGpG4sbh) | [彈出彈入](https://open.spotify.com/album/3OEFPQ9QKu62XuUwxssaBI) | 3:26 | 2023-03-09 | 2023-07-14 |
 | [彷彿](https://open.spotify.com/track/0ciMEnrEBZQeeB5PHQLIKt) | [留香瓊](https://open.spotify.com/artist/58zAtNxBTtRpnwe9bwQaQN) | [彷彿](https://open.spotify.com/album/2Z4cHJ5pLtyeqNsE3NnM4P) | 5:16 | 2023-03-09 | 2023-07-14 |
 | [後起之秀](https://open.spotify.com/track/2sU9mqsWjUD00yv8fy4WkQ) | [Heimydear](https://open.spotify.com/artist/4GHDJYlvvJUGfEDkkhTnxZ), [ZAIN](https://open.spotify.com/artist/4hrSnopounpvRQy7EfH2eY) | [後起之秀](https://open.spotify.com/album/0S1YvcwaZaqFrlhimGHNTI) | 2:46 | 2025-05-01 | 2025-08-01 |
+| [微光](https://open.spotify.com/track/6BXwrKETFgjzwV0EGjOE6T) | [Turbulent](https://open.spotify.com/artist/4NUrtCsICKhqsqJxNKGaCK) | [Monologue](https://open.spotify.com/album/5FyXA1no5WG94R1b8RA9Nr) | 3:54 | 2026-01-29 |  |
+| [微笑抑鬱症](https://open.spotify.com/track/1OSWoSmCIughniERrfpmpM) | [KOWLOON K](https://open.spotify.com/artist/0hmfp5p9Xie3HMadrJbjFl) | [微笑抑鬱症](https://open.spotify.com/album/11BB0CYN7tQQWDizPdsY4l) | 3:25 | 2026-01-29 |  |
 | [心的車站](https://open.spotify.com/track/3xCwbsEVVgkofycxGMiLtI) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [心的車站](https://open.spotify.com/album/175Ku3INHJdvf3pBOgOE5D) | 3:09 | 2025-05-15 | 2025-11-21 |
 | [心跳洩漏](https://open.spotify.com/track/4kE30fY2BQslgFzKtHsllu) | [NOSmke](https://open.spotify.com/artist/5UEvJoDztX8J2LFmBCHyxb), [boytryhard](https://open.spotify.com/artist/49BGq1ZuG5xfFswpzcsobu) | [心跳洩漏](https://open.spotify.com/album/46PjgPhjbQXE3ruuX0UKrv) | 2:57 | 2023-09-21 | 2023-11-24 |
 | [怎樣寫一首開心的歌](https://open.spotify.com/track/5vIB81QWEDqFbTJx2saEYH) | [SAWA](https://open.spotify.com/artist/0HCd0T7uXpnIUJgrBTlEvE) | [怎樣寫一首開心的歌](https://open.spotify.com/album/6IYATR6S4ZuOJBMarf0xrj) | 4:17 | 2023-01-12 | 2023-05-26 |
@@ -1303,6 +1308,7 @@
 | [我唔想聽你講嘢啊](https://open.spotify.com/track/69VHxhfx1ubMVnlAVfWLO5) | [HUIJING](https://open.spotify.com/artist/17rS7q68uYpuNcvfWpPVid) | [我唔想聽你講嘢啊](https://open.spotify.com/album/7Lnlg9RGkZhd2fuwpMcihE) | 3:04 | 2023-09-28 | 2024-01-05 |
 | [我在這個世界唯一的問題](https://open.spotify.com/track/3J34tBtEaxbNIpGp5dbG6Y) | [SC Xvill](https://open.spotify.com/artist/6uyTwA4o8IArP7fGpG4sbh) | [像素世界](https://open.spotify.com/album/3WimzrwQjTz8KG635BRVSC) | 2:09 | 2023-11-09 | 2024-01-05 |
 | [我就](https://open.spotify.com/track/3qOJsiDDU7aVtHgTZPZJL3) | [Johnson C](https://open.spotify.com/artist/4cqSfFi0L1wjn3BA3hS5Yr), [K3L](https://open.spotify.com/artist/1MLzEhihUlj8AaPj1QWIZ5) | [我就](https://open.spotify.com/album/6o0VQSEoVScsFUTVuBlhjh) | 2:44 | 2023-04-27 | 2023-07-14 |
+| [我希望係數佰千萬次](https://open.spotify.com/track/0MV5jtSUX97lF4erXoVJXG) | [FOODBOIII](https://open.spotify.com/artist/62WRNFz4ZTVj8Dt1fdvlEP) | [我希望係數佰千萬次](https://open.spotify.com/album/1vHAmidu6zRytBiVt5CMKP) | 2:31 | 2026-01-29 |  |
 | [我想 \(feat\. Cheeseekit\)](https://open.spotify.com/track/4GXIllyHaxbTF37wPtCu7a) | [CotaBoii](https://open.spotify.com/artist/2yUScYyzi0WG8ldMEFximW), [Cheeseekit](https://open.spotify.com/artist/5fcgeZ3ESW3drdOj99i288) | [我想 \(feat\. Cheeseekit\)](https://open.spotify.com/album/0dKWKuY4BQm1qO4jn2BXNW) | 3:07 | 2024-11-22 | 2025-03-14 |
 | [我想 \- Demo](https://open.spotify.com/track/30vkBvXDoRoLWxedYA5D97) | [Winter Bagels](https://open.spotify.com/artist/5greJ5P16QGOFlMTnDH8F0) | [我想 \(Demo\)](https://open.spotify.com/album/428FM2z8PI5B4by19YTnF0) | 5:25 | 2023-04-20 | 2023-07-14 |
 | [我想 I Want](https://open.spotify.com/track/1fuyf4kGxjdEF6ScAR5k0C) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [想是南 Want Am Nam](https://open.spotify.com/album/1xoswUs26cYFezapHEqxDS) | 8:51 | 2024-09-12 | 2024-12-13 |

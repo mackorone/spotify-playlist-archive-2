@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,086 songs - 2 day 6 hr 9 min
+1,087 songs - 2 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,7 +402,7 @@
 | [Jos puhutaan totta](https://open.spotify.com/track/4rjRfdvdlRwyAVAwwdDifd) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Jos puhutaan totta](https://open.spotify.com/album/264CvOZdO5iM2dcWxLld5h) | 2:54 | 2025-11-13 | 2025-12-12 |
 | [Jos se must on kii \(feat\. Ares & Elastinen\)](https://open.spotify.com/track/599LaM9qaYIOe5mJa2lXxk) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos se must on kii \(feat\. Ares & Elastinen\)](https://open.spotify.com/album/7GsHjQ9SptXSAhfCXdRr8B) | 3:01 | 2025-05-15 | 2025-05-30 |
 | [Jos tuut vielä vastaan](https://open.spotify.com/track/15O33QdWhnWQIO7M7Vo2Lu) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV), [Niilo](https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab) | [Jos tuut vielä vastaan](https://open.spotify.com/album/0m14F9RLRrP56ffKJLHfD7) | 2:53 | 2024-09-19 | 2024-10-04 |
-| [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 | 2025-10-09 |  |
+| [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 | 2025-10-09 | 2026-01-30 |
 | [Jos viel tänään \(feat\. AHTI\)](https://open.spotify.com/track/14WphbjwdiMZNkT0YhcnkW) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Jos viel tänään \(feat\. AHTI\)](https://open.spotify.com/album/36m9kmhRSZLRp1N9AwdqYz) | 2:30 | 2025-09-18 |  |
 | [Jossain sä oot](https://open.spotify.com/track/2ZvQ60llWT1r7KbTAsozYW) | [Jannika B](https://open.spotify.com/artist/5ffRhIFF1wJD3JJLDXt4hY) | [Jossain sä oot](https://open.spotify.com/album/6LN6ZANO9lhVSZNFf1i8ou) | 3:37 | 2025-11-20 | 2025-12-12 |
 | [Jouluks kotiin](https://open.spotify.com/track/0lPnlw2OqYerwBT9MyoLex) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Jouluks kotiin](https://open.spotify.com/album/0YvTm6IHgUXyUr8Ywow0rn) | 2:44 | 2024-12-12 | 2025-01-03 |
@@ -1016,6 +1016,7 @@
 | [Vasen laituri \(feat\. AHTI\)](https://open.spotify.com/track/63jEXNkVDnPO8wzFsdryfi) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Vasen laituri \(feat\. AHTI\)](https://open.spotify.com/album/1nEKEtap5DfkayJpSlrHw0) | 3:00 | 2025-03-13 | 2025-03-21 |
 | [Vegas](https://open.spotify.com/track/6oY7qFe5Cn5A0vUGuD5A4w) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Voiko enkelitkin eksyä](https://open.spotify.com/album/6pk45MMtYAFpXHnzt7lL6N) | 4:06 | 2025-10-09 | 2026-01-15 |
 | [Veli](https://open.spotify.com/track/06Jn7UjPJzP99sg0cT49KA) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Naarmuja](https://open.spotify.com/album/4GqH3QQoP5BOlmxTkbq8mg) | 2:56 | 2025-09-18 | 2025-09-26 |
+| [Veli nojaa siskoon](https://open.spotify.com/track/6MihxSwAbPXzD8NCt5wAs7) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Veli nojaa siskoon](https://open.spotify.com/album/7z5GKxXv9o8kReu8W04isP) | 2:47 | 2026-01-29 |  |
 | [Velkaa](https://open.spotify.com/track/5ItsWCQ97a5kt2pFglV9ZN) | [Tupe.](https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5) | [Velkaa](https://open.spotify.com/album/6zTk34ayu8vfMfbh5BmWnH) | 3:25 | 2024-07-02 | 2024-08-23 |
 | [Veri viiniks \(feat\. Mikael Gabriel\)](https://open.spotify.com/track/1JcLdVOMosBedEtjG2C4xx) | [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Veri viiniks \(feat\. Mikael Gabriel\)](https://open.spotify.com/album/1sxFu3D0Ftmr5NPiKfVIzd) | 3:26 | 2025-04-24 | 2025-06-06 |
 | [Video Games \- Spotify Singles](https://open.spotify.com/track/1C0KYMgW2BPDlKWW79cC9M) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Video Games \(Spotify Singles\)](https://open.spotify.com/album/2JFyOtT1eoCeqzda9CU2iL) | 3:09 | 2024-09-19 | 2024-10-04 |

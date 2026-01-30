@@ -4,7 +4,7 @@
 
 > Tutto è possibile è qua, Geolier in cover.
 
-571 songs - 1 day 1 hr 57 min
+574 songs - 1 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Diamanti Persi](https://open.spotify.com/track/2nR854DsAZWRlPJHAPpxf9) | [JELECROIS](https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP), [Milano Mobster](https://open.spotify.com/artist/4WAFo0IQmpG3O999VAYtJ7) | [Diamanti Persi](https://open.spotify.com/album/1MYwG2fmIjA52JcICcGJoh) | 2:48 | 2024-09-19 | 2024-10-04 |
 | [DICE QUE SOY LOCO](https://open.spotify.com/track/3TfuNQA7nQGzLJV4CtrRk8) | [Neves17](https://open.spotify.com/artist/2S3cfp7M76ak6vFBIGEfhe) | [RIBELLE](https://open.spotify.com/album/4GnS5I4xnbRxT7UfWYP2x3) | 2:10 | 2025-07-10 | 2025-08-08 |
 | [DIEGO](https://open.spotify.com/track/7jhmOPnKn9dv0DhZQ4KNq9) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou), [NiceKidd](https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX) | [DIEGO](https://open.spotify.com/album/5yXBt4n1hGzCKcsewe6iJU) | 2:27 | 2025-11-13 |  |
+| [DIME](https://open.spotify.com/track/7Cr4fXFid3HUdh06MBEPsY) | [VMonster](https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a) | [PACE E GUERRA](https://open.spotify.com/album/5pABP7mOe6LSish3LOGgA3) | 2:47 | 2026-01-29 |  |
 | [Dint all'Rs](https://open.spotify.com/track/0tEsLcAA0LYB9zhf0j6B3f) | [Joka Diablo](https://open.spotify.com/artist/2y7MutJk3oS7vIcOCwv3YZ) | [Dint all'Rs](https://open.spotify.com/album/0OWlDPi9FuTavl0OQrSnD9) | 2:37 | 2023-05-04 | 2023-05-19 |
 | [Dio nun c mann a nisciun](https://open.spotify.com/track/3JVHZwqC5nz9ikKg6nUjn6) | [Pit](https://open.spotify.com/artist/5dO2ChPqNYjEyy3wXA5R0A) | [Dio nun c mann a nisciun](https://open.spotify.com/album/0hrFrBtJAgdIAsFsn4NHhA) | 2:29 | 2023-03-23 | 2023-05-12 |
 | [DIOSA \(feat\. Peppe Soks\) \- Remix](https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys) | [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT) | [DIOSA \(feat\. Peppe Soks\) \[Remix\]](https://open.spotify.com/album/3l3aLZNlUQfhIMKApwHVVE) | 2:23 | 2022-05-10 | 2022-09-16 |
@@ -183,6 +184,7 @@
 | [GALER & CIMITER](https://open.spotify.com/track/5jxDwh8Ieq4PQuxWNySD6I) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F) | [GALER & CIMITER](https://open.spotify.com/album/3y1EiSxjHTfYlxpSKGwKS9) | 1:57 | 2025-07-10 | 2025-09-05 |
 | [GAMBINO](https://open.spotify.com/track/4lml3kYiuBppXCVtSA7SuY) | [Neves17](https://open.spotify.com/artist/2S3cfp7M76ak6vFBIGEfhe) | [GAMBINO](https://open.spotify.com/album/3hmMoSZxe1ev9gDhqXmg2N) | 1:56 | 2025-01-16 |  |
 | [Game over \(feat\. Kepa & Cecchy\)](https://open.spotify.com/track/0mKwKOozlLzxrsOILkeiYb) | [Fuossera](https://open.spotify.com/artist/53NBqBq06Yt70uHzbIIkRb), [Kepa](https://open.spotify.com/artist/0STOPxbjhPEECpskdc6Qjg), [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN) | [Game over \(feat\. Kepa & Cecchy\)](https://open.spotify.com/album/7ydlubu0h9M9ktmFIskwuZ) | 3:49 | 2025-06-26 | 2025-07-18 |
+| [GAMECHANGER](https://open.spotify.com/track/7E0K8hQhsg6Wk6tw619awh) | [Bekkeria](https://open.spotify.com/artist/36d2YCS9iJeuNEMS5PLps7) | [GAMECHANGER](https://open.spotify.com/album/7vz1f3eVcT7ae4cZZyouWm) | 2:16 | 2026-01-29 |  |
 | [Gangsta Freestyle](https://open.spotify.com/track/3YHQrpDyV3FugqR0r5sL1k) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [DJ Princex](https://open.spotify.com/artist/1pipFnAOzhlbkEXc4WsBHl) | [Gangsta Freestyle](https://open.spotify.com/album/4ZVK9TH7PST3iPpPnaEUyC) | 1:53 | 2024-03-14 | 2024-06-07 |
 | [Gangsta Room](https://open.spotify.com/track/5AotXxIHpYf3mNgBAcqMYd) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN), [VGL](https://open.spotify.com/artist/2UBRm5C4xz5j21IEf5UonV) | [Gangsta Room](https://open.spotify.com/album/5acXtdAwTlMsnkdpx4FQhj) | 2:58 | 2025-07-17 | 2025-09-05 |
 | [GAS](https://open.spotify.com/track/6351T1EhGpm7IAnsmXplnn) | [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H), [emvnuel](https://open.spotify.com/artist/6rGb0Db2lSQVMVWuSwzQBj) | [GAS](https://open.spotify.com/album/7ciK8kJ0K7fExA4VtiXLYQ) | 2:25 | 2022-07-07 | 2022-07-27 |
@@ -325,6 +327,7 @@
 | [NAS](https://open.spotify.com/track/3tDcxacC9wGhYM0vyicVuC) | [ARNONE](https://open.spotify.com/artist/0tbCfksIrpbfmzIdVCbaRP) | [NAS](https://open.spotify.com/album/1AmKa1eq78uP87M9fqRy3A) | 2:00 | 2025-05-29 | 2025-06-20 |
 | [NATA HIT](https://open.spotify.com/track/0g0N74YGdNt02vUlP9Can0) | [The Pure](https://open.spotify.com/artist/72zFcHuGI78MerlEFQhKWt) | [NATA HIT](https://open.spotify.com/album/0URkSDI4ZoX2x1ckCnQcdT) | 2:22 | 2025-05-15 | 2025-05-30 |
 | [NEL BENE E NEL MALE \(feat\. Silent Bob\)](https://open.spotify.com/track/6GOyPV5EYObpYcy6r0BNSn) | [Mooncler](https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [MALINQUORE](https://open.spotify.com/album/4Z3kfPf6zxJhI5CAoaESqO) | 2:31 | 2025-09-18 | 2025-10-14 |
+| [NICO PAZ](https://open.spotify.com/track/2erO14kUfrXqEQUT8V3W6D) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [NICO PAZ](https://open.spotify.com/album/7iPgv2e9yykXL4fOHWvEPi) | 2:32 | 2026-01-29 |  |
 | [NIENT'](https://open.spotify.com/track/4mvwSiraeuWHTaVUNJacCh) | [UNDICI](https://open.spotify.com/artist/3iZD47sbWX79D67jUK8MKT) | [NIENT'](https://open.spotify.com/album/3px1C5m3ENUE1F9ciL4t03) | 2:15 | 2025-02-27 | 2025-04-04 |
 | [Niente](https://open.spotify.com/track/1BN4YTnHEAFAg5HRxIC1af) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile Vol\. 2](https://open.spotify.com/album/5533SD7HXknP7vKdshypG1) | 2:48 | 2023-05-10 | 2023-07-21 |
 | [NO BODYGUARD](https://open.spotify.com/track/6YRgwPft1oLkMnAE42Zsx4) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [NO BODYGUARD](https://open.spotify.com/album/3tXUkUdnsMkOck4lN5ZX6F) | 2:52 | 2022-11-24 | 2023-04-21 |

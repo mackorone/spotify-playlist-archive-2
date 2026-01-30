@@ -137,6 +137,24 @@
     },
     {
       "album": {
+        "name": "GOTTI B",
+        "url": "https://open.spotify.com/album/4ACfWcYe7nU8HbeJth17ms"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124745,
+      "name": "Amantes",
+      "url": "https://open.spotify.com/track/7ijXNy4CSDMFqSecPANn5p"
+    },
+    {
+      "album": {
         "name": "LUV ALLERGIC RELOADED",
         "url": "https://open.spotify.com/album/6a9zlY2WK2J97xaLxSjrhc"
       },
@@ -644,6 +662,28 @@
       "duration_ms": 161897,
       "name": "Cosas de la Peda (feat. Gabito Ballesteros)",
       "url": "https://open.spotify.com/track/7nRgLd2Zq4w42iVTfXjIC2"
+    },
+    {
+      "album": {
+        "name": "Nada Personal",
+        "url": "https://open.spotify.com/album/4WgRPX4DY0lwubpMYKuTzN"
+      },
+      "artists": [
+        {
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201769,
+      "name": "Crisis",
+      "url": "https://open.spotify.com/track/6qIqgXXofRhJkvRytIS1HR"
     },
     {
       "album": {
@@ -2298,6 +2338,24 @@
       "duration_ms": 166292,
       "name": "QUE ME HICISTE",
       "url": "https://open.spotify.com/track/64y7606OQWxKysceRlkNxI"
+    },
+    {
+      "album": {
+        "name": "\u00bfY ahora qu\u00e9 +?",
+        "url": "https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196733,
+      "name": "Qu\u00e9 injusto",
+      "url": "https://open.spotify.com/track/3ayVKsrwK44VEdD7BdnDD7"
     },
     {
       "album": {

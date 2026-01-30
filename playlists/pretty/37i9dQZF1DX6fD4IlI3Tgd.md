@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fD4IlI3Tgd.md) - [plain]
 
 > Desde México hasta Argentina, el hogar de los beats latinoamericanos\. Foto: Cobuz & Bustta, Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,995 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,001 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fD4IlI3Tgd.md) - [plain]
 | 22 | [Sarrinho](https://open.spotify.com/track/6MImEUBL67kTiRUzdxpo8a) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Sarrinho](https://open.spotify.com/album/5WS4kd05DnjFfibKBi72EW) | 2:47 |
 | 23 | [Teleport \- Future Mix](https://open.spotify.com/track/70Oo2oO6UkIjkh6oy3SXDM) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Soundexile](https://open.spotify.com/artist/0fCvNSLDgVZZGQK2GfYOEg) | [Future Memories](https://open.spotify.com/album/3VwWcrB92fVFW4q4Jfuh7u) | 6:23 |
 | 24 | [Lambada](https://open.spotify.com/track/0YmaxzdUQGUJLmQ6disVJp) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Guzz](https://open.spotify.com/artist/2M23z6FczyKLQFTTvB3EI8) | [Lambada](https://open.spotify.com/album/2rIngPYeX9tmQYUEGXXOxV) | 3:31 |
-| 25 | [Playa Grande](https://open.spotify.com/track/6IsMnhtDLKG0h4H8pmQVRw) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Playa Grande](https://open.spotify.com/album/0P90stLNlBJtamGSsokK4g) | 3:21 |
+| 25 | [Playa Grande](https://open.spotify.com/track/6IsMnhtDLKG0h4H8pmQVRw) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Playa Grande](https://open.spotify.com/album/0P90stLNlBJtamGSsokK4g) | 3:21 |
 | 26 | [Drop It \(feat\. LUISAH\)](https://open.spotify.com/track/6SK5X1cj2G3vFNb7iTmLfV) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [Drop It \(feat\. LUISAH\)](https://open.spotify.com/album/7ouqlLsz812M3nTRAv9NYM) | 2:05 |
 | 27 | [Stone Heart](https://open.spotify.com/track/5YOJz5JRAew8Y9lVweh99D) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Lucas Ariel](https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T) | [Stone Heart](https://open.spotify.com/album/2DHsZvpEUaRM5S67xt5Lif) | 3:12 |
 | 28 | [Honey](https://open.spotify.com/track/2bOalEb2NVugngrIPAx4Vg) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv), [Sofia Gayoso](https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG) | [Honey](https://open.spotify.com/album/0dxP5UGRoYHs2n7IODw7ql) | 2:34 |

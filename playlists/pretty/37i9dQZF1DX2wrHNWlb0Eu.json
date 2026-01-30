@@ -1,6 +1,6 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e17\u0e35\u0e48\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49",
-  "num_followers": 123691,
+  "num_followers": 123703,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
-        "name": "\u0e23\u0e16\u0e44\u0e1f\u0e1a\u0e19\u0e1f\u0e49\u0e32",
-        "url": "https://open.spotify.com/album/5boT1tGdFqjrzzDSqLrrsC"
-      },
-      "artists": [
-        {
-          "name": "D Gerrard",
-          "url": "https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg"
-        }
-      ],
-      "duration_ms": 256178,
-      "name": "\u0e23\u0e16\u0e44\u0e1f\u0e1a\u0e19\u0e1f\u0e49\u0e32",
-      "url": "https://open.spotify.com/track/6BqnE3hiqtywrLMJ3ulYDp"
-    },
-    {
-      "added_at": "2025-12-29 19:08:47",
-      "album": {
         "name": "Sunkissed",
         "url": "https://open.spotify.com/album/7zKKltrA8661h1AlUsGezL"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 242154,
       "name": "Sunkissed",
       "url": "https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n"
+    },
+    {
+      "added_at": "2025-12-29 19:08:47",
+      "album": {
+        "name": "\u0e23\u0e16\u0e44\u0e1f\u0e1a\u0e19\u0e1f\u0e49\u0e32",
+        "url": "https://open.spotify.com/album/5boT1tGdFqjrzzDSqLrrsC"
+      },
+      "artists": [
+        {
+          "name": "D Gerrard",
+          "url": "https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg"
+        }
+      ],
+      "duration_ms": 256178,
+      "name": "\u0e23\u0e16\u0e44\u0e1f\u0e1a\u0e19\u0e1f\u0e49\u0e32",
+      "url": "https://open.spotify.com/track/6BqnE3hiqtywrLMJ3ulYDp"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
-        "name": "\u0e42\u0e15\u0e4a\u0e30\u0e23\u0e34\u0e21",
-        "url": "https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x"
-      },
-      "artists": [
-        {
-          "name": "NONT TANONT",
-          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
-        }
-      ],
-      "duration_ms": 247398,
-      "name": "\u0e42\u0e15\u0e4a\u0e30\u0e23\u0e34\u0e21",
-      "url": "https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG"
-    },
-    {
-      "added_at": "2025-12-29 19:08:47",
-      "album": {
         "name": "\u0e08\u0e23\u0e34\u0e07\u0e46\u0e19\u0e30",
         "url": "https://open.spotify.com/album/3W0ub1BH8vz3mFc9P2YZJo"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 210598,
       "name": "\u0e08\u0e23\u0e34\u0e07\u0e46\u0e19\u0e30",
       "url": "https://open.spotify.com/track/3y7wWYnla4CN0dhqUkvLER"
+    },
+    {
+      "added_at": "2025-12-29 19:08:47",
+      "album": {
+        "name": "\u0e42\u0e15\u0e4a\u0e30\u0e23\u0e34\u0e21",
+        "url": "https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x"
+      },
+      "artists": [
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "duration_ms": 247398,
+      "name": "\u0e42\u0e15\u0e4a\u0e30\u0e23\u0e34\u0e21",
+      "url": "https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
-        "name": "The White Room",
-        "url": "https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ"
-      },
-      "artists": [
-        {
-          "name": "Singular",
-          "url": "https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8"
-        }
-      ],
-      "duration_ms": 243346,
-      "name": "\u0e40\u0e1a\u0e32\u0e40\u0e1a\u0e32 (Tender)",
-      "url": "https://open.spotify.com/track/1D82eR1hzKmiujw4fk0EYj"
-    },
-    {
-      "added_at": "2025-12-29 19:08:47",
-      "album": {
         "name": "\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e25\u0e49\u0e32\u0e19",
         "url": "https://open.spotify.com/album/1J4dG82e0Pln7i5PxodQuV"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 198787,
       "name": "\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e25\u0e49\u0e32\u0e19",
       "url": "https://open.spotify.com/track/0h5J891lpMTlU4o6oPg3VJ"
+    },
+    {
+      "added_at": "2025-12-29 19:08:47",
+      "album": {
+        "name": "The White Room",
+        "url": "https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ"
+      },
+      "artists": [
+        {
+          "name": "Singular",
+          "url": "https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8"
+        }
+      ],
+      "duration_ms": 243346,
+      "name": "\u0e40\u0e1a\u0e32\u0e40\u0e1a\u0e32 (Tender)",
+      "url": "https://open.spotify.com/track/1D82eR1hzKmiujw4fk0EYj"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -1331,22 +1331,18 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
-        "name": "This City Won\u2019t Be Lonely Anymore",
-        "url": "https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU"
+        "name": "\u0e1d\u0e19\u0e15\u0e01\u0e44\u0e2b\u0e21 - Single",
+        "url": "https://open.spotify.com/album/2HZzSeqvOspfSfnzZU5bOj"
       },
       "artists": [
         {
           "name": "Three Man Down",
           "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
-        },
-        {
-          "name": "feat. \u0e2d\u0e2d\u0e21 TELExTELEXs",
-          "url": "https://open.spotify.com/artist/205wJyIv1vglYP2l428PAJ"
         }
       ],
-      "duration_ms": 296000,
-      "name": "\u0e02\u0e49\u0e32\u0e07\u0e01\u0e31\u0e19 (City)",
-      "url": "https://open.spotify.com/track/3vdZ30MzgeTe5PiJXEmqjr"
+      "duration_ms": 261250,
+      "name": "\u0e1d\u0e19\u0e15\u0e01\u0e44\u0e2b\u0e21",
+      "url": "https://open.spotify.com/track/1ccwCCS7YSclzYibpK0DS4"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -1371,6 +1367,22 @@
       "duration_ms": 184421,
       "name": "\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19\u0e01\u0e47\u0e42\u0e2d\u0e19\u0e34",
       "url": "https://open.spotify.com/track/3seGmbdxubyOV7rAnUYAWh"
+    },
+    {
+      "added_at": "2025-12-29 19:08:47",
+      "album": {
+        "name": "begins",
+        "url": "https://open.spotify.com/album/4esxRZK9lkQEjCt6lkerNR"
+      },
+      "artists": [
+        {
+          "name": "Big Ass",
+          "url": "https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv"
+        }
+      ],
+      "duration_ms": 231946,
+      "name": "\u0e02\u0e49\u0e32\u0e19\u0e49\u0e2d\u0e22\u0e2a\u0e21\u0e04\u0e27\u0e23\u0e15\u0e32\u0e22",
+      "url": "https://open.spotify.com/track/4I8jKhU6WcvqlE4IlC4EcI"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -1407,34 +1419,42 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
-        "name": "begins",
-        "url": "https://open.spotify.com/album/4esxRZK9lkQEjCt6lkerNR"
-      },
-      "artists": [
-        {
-          "name": "Big Ass",
-          "url": "https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv"
-        }
-      ],
-      "duration_ms": 231946,
-      "name": "\u0e02\u0e49\u0e32\u0e19\u0e49\u0e2d\u0e22\u0e2a\u0e21\u0e04\u0e27\u0e23\u0e15\u0e32\u0e22",
-      "url": "https://open.spotify.com/track/4I8jKhU6WcvqlE4IlC4EcI"
-    },
-    {
-      "added_at": "2025-12-29 19:08:47",
-      "album": {
-        "name": "\u0e1d\u0e19\u0e15\u0e01\u0e44\u0e2b\u0e21 - Single",
-        "url": "https://open.spotify.com/album/2HZzSeqvOspfSfnzZU5bOj"
+        "name": "This City Won\u2019t Be Lonely Anymore",
+        "url": "https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU"
       },
       "artists": [
         {
           "name": "Three Man Down",
           "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
+        },
+        {
+          "name": "feat. \u0e2d\u0e2d\u0e21 TELExTELEXs",
+          "url": "https://open.spotify.com/artist/205wJyIv1vglYP2l428PAJ"
         }
       ],
-      "duration_ms": 261250,
-      "name": "\u0e1d\u0e19\u0e15\u0e01\u0e44\u0e2b\u0e21",
-      "url": "https://open.spotify.com/track/1ccwCCS7YSclzYibpK0DS4"
+      "duration_ms": 296000,
+      "name": "\u0e02\u0e49\u0e32\u0e07\u0e01\u0e31\u0e19 (City)",
+      "url": "https://open.spotify.com/track/3vdZ30MzgeTe5PiJXEmqjr"
+    },
+    {
+      "added_at": "2025-12-29 19:08:47",
+      "album": {
+        "name": "\u0e14\u0e35\u0e4a\u0e14\u0e35 (UNEXPECTED)",
+        "url": "https://open.spotify.com/album/4iMIsP1KSb7HYUyXbmTnV3"
+      },
+      "artists": [
+        {
+          "name": "JAYLERR",
+          "url": "https://open.spotify.com/artist/72eVco16BxQJe5nE1vY72F"
+        },
+        {
+          "name": "Ice Paris",
+          "url": "https://open.spotify.com/artist/6Ul5SIYwfYqiTgvSDqOe2n"
+        }
+      ],
+      "duration_ms": 193894,
+      "name": "\u0e14\u0e35\u0e4a\u0e14\u0e35 (UNEXPECTED)",
+      "url": "https://open.spotify.com/track/4KP9dagbB3Da9jnpfIEG7P"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -1547,26 +1567,6 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
-        "name": "\u0e14\u0e35\u0e4a\u0e14\u0e35 (UNEXPECTED)",
-        "url": "https://open.spotify.com/album/4iMIsP1KSb7HYUyXbmTnV3"
-      },
-      "artists": [
-        {
-          "name": "JAYLERR",
-          "url": "https://open.spotify.com/artist/72eVco16BxQJe5nE1vY72F"
-        },
-        {
-          "name": "Ice Paris",
-          "url": "https://open.spotify.com/artist/6Ul5SIYwfYqiTgvSDqOe2n"
-        }
-      ],
-      "duration_ms": 193894,
-      "name": "\u0e14\u0e35\u0e4a\u0e14\u0e35 (UNEXPECTED)",
-      "url": "https://open.spotify.com/track/4KP9dagbB3Da9jnpfIEG7P"
-    },
-    {
-      "added_at": "2025-12-29 19:08:47",
-      "album": {
         "name": "The First Album",
         "url": "https://open.spotify.com/album/5dqU6JzyweoetwSDtq2E8I"
       },
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
+        "name": "\u0e2b\u0e27\u0e07 (You're Mine)",
+        "url": "https://open.spotify.com/album/4oWwhDTfbza1oR6DXlkFSH"
+      },
+      "artists": [
+        {
+          "name": "Earth Patravee",
+          "url": "https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV"
+        }
+      ],
+      "duration_ms": 216162,
+      "name": "\u0e2b\u0e27\u0e07 (You're Mine)",
+      "url": "https://open.spotify.com/track/5t2958ghc1UIUovv1pqMl3"
+    },
+    {
+      "added_at": "2025-12-29 19:08:47",
+      "album": {
         "name": "White Music White Hits Album",
         "url": "https://open.spotify.com/album/1DY8ltrJojDtTVVEYVPHgh"
       },
@@ -1675,34 +1691,18 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
-        "name": "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e30\u0e08\u0e30\u0e23\u0e31\u0e01",
-        "url": "https://open.spotify.com/album/5yx6lGz8Y7gubj1Iz13YlI"
+        "name": "\u0e15\u0e48\u0e2d\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e17\u0e38\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19",
+        "url": "https://open.spotify.com/album/3UccLHjXRBzaPUdVuQkCw8"
       },
       "artists": [
         {
-          "name": "Violette Wautier",
-          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+          "name": "No One Else",
+          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
         }
       ],
-      "duration_ms": 220000,
-      "name": "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e30\u0e08\u0e30\u0e23\u0e31\u0e01",
-      "url": "https://open.spotify.com/track/1ux0god9zERqovPLrzRdBT"
-    },
-    {
-      "added_at": "2025-12-29 19:08:47",
-      "album": {
-        "name": "Extraordinary",
-        "url": "https://open.spotify.com/album/1nm0OJwsjXkjixIFpk8FZG"
-      },
-      "artists": [
-        {
-          "name": "Anatomy Rabbit",
-          "url": "https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg"
-        }
-      ],
-      "duration_ms": 241983,
-      "name": "Extraordinary",
-      "url": "https://open.spotify.com/track/19CoWVqDyUbiqxoyMf4HkJ"
+      "duration_ms": 254500,
+      "name": "\u0e15\u0e48\u0e2d\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e17\u0e38\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19",
+      "url": "https://open.spotify.com/track/315ar0QJiyciYkdVJUGA3w"
     }
   ],
   "unique_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",

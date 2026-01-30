@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 754024,
+  "num_followers": 754334,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "The Theme",
+        "url": "https://open.spotify.com/album/3n0kAuzcbVBS0I893yXagK"
+      },
+      "artists": [
+        {
+          "name": "Jurgen Vries",
+          "url": "https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg"
+        }
+      ],
+      "duration_ms": 187343,
+      "name": "The Theme",
+      "url": "https://open.spotify.com/track/2VW6HO7fSA4dkbGgG1xkdn"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "The Club Mix Collection",
         "url": "https://open.spotify.com/album/0RkRavz2FtCFuFe3U9iEZE"
       },
@@ -863,26 +879,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Brave New World (The Opera Song)",
-        "url": "https://open.spotify.com/album/2SMRBYdW58eRRemc4oCZdX"
-      },
-      "artists": [
-        {
-          "name": "Jurgen Vries",
-          "url": "https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg"
-        },
-        {
-          "name": "CMC",
-          "url": "https://open.spotify.com/artist/6AqyB5I1Cm0tWZkDFrZZFm"
-        }
-      ],
-      "duration_ms": 212658,
-      "name": "The Opera Song (Brave New World)",
-      "url": "https://open.spotify.com/track/5bdmsMmb8uYt7TKrfNYEdy"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Trance Top 1000 - Selection 003",
         "url": "https://open.spotify.com/album/5MZ2w49s7nsUV1jcnS3STq"
       },
@@ -899,18 +895,26 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Trance Top 1000 - The Legends",
-        "url": "https://open.spotify.com/album/6EFXK7ipsLo87KEXAkONR0"
+        "name": "Retrospective (25 Years)",
+        "url": "https://open.spotify.com/album/6mO3TRyalkTmGM2LhI75F4"
       },
       "artists": [
         {
-          "name": "Warrior",
-          "url": "https://open.spotify.com/artist/5h5zcDZF3qxBCskb39D8yt"
+          "name": "Matt Darey",
+          "url": "https://open.spotify.com/artist/20IiZT2AHU5GwnzncwJX6S"
+        },
+        {
+          "name": "Marcella Woods",
+          "url": "https://open.spotify.com/artist/3fX4ESsQJXkOXSGW4FsB1c"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
         }
       ],
-      "duration_ms": 227428,
-      "name": "Warrior",
-      "url": "https://open.spotify.com/track/3lI7LW2LP1994W7kTBOUaK"
+      "duration_ms": 186893,
+      "name": "Liberation (Fly Like An Angel) - Ferry Corsten Remix",
+      "url": "https://open.spotify.com/track/4PzBpZbQLEWHwBhh6oFILN"
     }
   ],
   "unique_name": "Trance Classics",

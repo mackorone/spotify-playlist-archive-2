@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Bixarte",
-  "num_followers": 221576,
+  "num_followers": 221568,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -927,26 +927,6 @@
     {
       "added_at": "2025-11-22 12:14:14",
       "album": {
-        "name": "Funk Triste",
-        "url": "https://open.spotify.com/album/4Uuyx6mIRKziWkhaqS8pzE"
-      },
-      "artists": [
-        {
-          "name": "Diego Martins",
-          "url": "https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP"
-        },
-        {
-          "name": "Mc Bola",
-          "url": "https://open.spotify.com/artist/4ulY4o7oEoqJlqc0V6R3Bc"
-        }
-      ],
-      "duration_ms": 172399,
-      "name": "Funk Triste",
-      "url": "https://open.spotify.com/track/2AZUEqoZdB4PBEmwvywHQ3"
-    },
-    {
-      "added_at": "2025-11-22 12:14:14",
-      "album": {
         "name": "Amor Fati",
         "url": "https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 211549,
       "name": "Sem Necessidade",
       "url": "https://open.spotify.com/track/3QzAkwsDY420mcBIeZh2mC"
+    },
+    {
+      "added_at": "2025-11-22 12:14:14",
+      "album": {
+        "name": "Funk Triste",
+        "url": "https://open.spotify.com/album/4Uuyx6mIRKziWkhaqS8pzE"
+      },
+      "artists": [
+        {
+          "name": "Diego Martins",
+          "url": "https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP"
+        },
+        {
+          "name": "Mc Bola",
+          "url": "https://open.spotify.com/artist/4ulY4o7oEoqJlqc0V6R3Bc"
+        }
+      ],
+      "duration_ms": 172399,
+      "name": "Funk Triste",
+      "url": "https://open.spotify.com/track/2AZUEqoZdB4PBEmwvywHQ3"
     },
     {
       "added_at": "2025-11-22 12:14:14",

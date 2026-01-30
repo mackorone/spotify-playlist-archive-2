@@ -694,7 +694,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 266826,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/7q587HLz90L2PFrhKZjIYa"
@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 319106,
       "name": "Crybaby (feat. Snoop Dogg)",
       "url": "https://open.spotify.com/track/5DkHYNiEqDnyKHW5r1Esj6"
@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 217640,
       "name": "Don't Stop (Funkin' 4 Jamaica)",
       "url": "https://open.spotify.com/track/7e5PmxlrXcTODQoW1W6B6D"
@@ -2398,7 +2398,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 260826,
       "name": "If We",
       "url": "https://open.spotify.com/track/0eMVYWHuJndvXrym5wy79g"
@@ -2833,6 +2833,24 @@
     },
     {
       "album": {
+        "name": "You Need Me",
+        "url": "https://open.spotify.com/album/6JtzsbP68ehO4oIXMc5SH9"
+      },
+      "artists": [
+        {
+          "name": "Heaven is Shining",
+          "url": "https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237428,
+      "name": "Lead the Way",
+      "url": "https://open.spotify.com/track/7AJ77XZkDTAsmOYWDuEaUN"
+    },
+    {
+      "album": {
         "name": "Glitter",
         "url": "https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0"
       },
@@ -2844,7 +2862,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 233000,
       "name": "Lead the Way",
       "url": "https://open.spotify.com/track/7ECwX7z26v49LewcRegxXA"
@@ -3022,10 +3040,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 229173,
       "name": "Loverboy",
       "url": "https://open.spotify.com/track/75b9JVzc4QFvPBO7jDRIVe"
+    },
+    {
+      "album": {
+        "name": "2001 DIVA QUEEN",
+        "url": "https://open.spotify.com/album/6n2V4mAOAbgw8i1KPVoBOp"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221727,
+      "name": "Loverboy",
+      "url": "https://open.spotify.com/track/0kjq4KYAlphekNYgsyqaRw"
     },
     {
       "album": {
@@ -3056,7 +3092,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 270400,
       "name": "Loverboy (Remix)",
       "url": "https://open.spotify.com/track/4igqjAFcH35y4XybHzJ3aD"
@@ -3622,10 +3658,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 261596,
       "name": "Never Too Far",
       "url": "https://open.spotify.com/track/2H2H7L4u7yDT2cIIzfIp4c"
+    },
+    {
+      "album": {
+        "name": "A Tribute to Mariah Carey",
+        "url": "https://open.spotify.com/album/5n834DuTFveg9qfNsfb4mg"
+      },
+      "artists": [
+        {
+          "name": "The Hit Co.",
+          "url": "https://open.spotify.com/artist/2UxjiPpWHNc2txHrYy5EF3"
+        },
+        {
+          "name": "The Tribute Co., The Hit Co.",
+          "url": "https://open.spotify.com/artist/45Oasunyziob0Hzs4tcxZz"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220533,
+      "name": "Never Too Far",
+      "url": "https://open.spotify.com/track/2bMVWEGv5GyPqsQSljzOLN"
     },
     {
       "album": {
@@ -4021,6 +4079,24 @@
     },
     {
       "album": {
+        "name": "LGCW Live!",
+        "url": "https://open.spotify.com/album/3lbjGcuUj78QlhbriJFphs"
+      },
+      "artists": [
+        {
+          "name": "Lesbian and Gay Chorus of Washington D.C.",
+          "url": "https://open.spotify.com/artist/03tTu9o9v15C71Cx7n3mNO"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276767,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/2UYJqlRkRKCTW4Su8iGucQ"
+    },
+    {
+      "album": {
         "name": "Glitter",
         "url": "https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0"
       },
@@ -4032,7 +4108,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 200481,
       "name": "Reflections (Care Enough)",
       "url": "https://open.spotify.com/track/1z6nljyCf1yGg27jCA0mGJ"
@@ -5092,7 +5168,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 250466,
       "name": "Triumphant (Get 'Em)",
       "url": "https://open.spotify.com/track/6Rg7HnPZWJwGy2TWgeUuQL"
@@ -5158,7 +5234,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 146426,
       "name": "Twister",
       "url": "https://open.spotify.com/track/6ir913NDSSNPEFrvoE3mwT"
@@ -5346,7 +5422,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 283506,
       "name": "Want You",
       "url": "https://open.spotify.com/track/4mUvyHNUEvRxghGy11deBn"

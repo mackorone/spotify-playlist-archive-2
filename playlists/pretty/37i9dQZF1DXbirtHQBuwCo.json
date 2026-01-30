@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover: \nYOUNGJOO(\uc601\uc8fc))",
-  "num_followers": 1093024,
+  "num_followers": 1092999,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-01-21 06:34:06",
       "album": {
+        "name": "4SHOBOIZ MIXTAPE",
+        "url": "https://open.spotify.com/album/3XzKcbKfLPWSOG7BJbC98O"
+      },
+      "artists": [
+        {
+          "name": "WOOJIN of LNGSHOT",
+          "url": "https://open.spotify.com/artist/03EbJpxyuSdoxVkaOr7gKY"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Ejeh",
+      "url": "https://open.spotify.com/track/0SfFCjldRnnbsIL65yqaEd"
+    },
+    {
+      "added_at": "2026-01-21 06:34:06",
+      "album": {
         "name": "Bambi - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
       },
@@ -679,6 +695,26 @@
       "duration_ms": 213053,
       "name": "Bambi",
       "url": "https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En"
+    },
+    {
+      "added_at": "2026-01-21 06:34:06",
+      "album": {
+        "name": "Smeraldo Garden Marching Band (feat. Loco)",
+        "url": "https://open.spotify.com/album/2PcM535knJOZb6MUth8axj"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 182840,
+      "name": "Smeraldo Garden Marching Band (feat. Loco)",
+      "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"
     },
     {
       "added_at": "2026-01-21 06:34:06",
@@ -707,22 +743,18 @@
     {
       "added_at": "2026-01-21 06:34:06",
       "album": {
-        "name": "Smeraldo Garden Marching Band (feat. Loco)",
-        "url": "https://open.spotify.com/album/2PcM535knJOZb6MUth8axj"
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },
       "artists": [
         {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        },
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 182840,
-      "name": "Smeraldo Garden Marching Band (feat. Loco)",
-      "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"
+      "duration_ms": 177946,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
     },
     {
       "added_at": "2026-01-21 06:34:06",
@@ -743,38 +775,6 @@
       "duration_ms": 229359,
       "name": "D (Half Moon)",
       "url": "https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD"
-    },
-    {
-      "added_at": "2026-01-21 06:34:06",
-      "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 177946,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
-    },
-    {
-      "added_at": "2026-01-21 06:34:06",
-      "album": {
-        "name": "4SHOBOIZ MIXTAPE",
-        "url": "https://open.spotify.com/album/3XzKcbKfLPWSOG7BJbC98O"
-      },
-      "artists": [
-        {
-          "name": "WOOJIN of LNGSHOT",
-          "url": "https://open.spotify.com/artist/03EbJpxyuSdoxVkaOr7gKY"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Ejeh",
-      "url": "https://open.spotify.com/track/0SfFCjldRnnbsIL65yqaEd"
     },
     {
       "added_at": "2026-01-21 06:34:06",
@@ -879,26 +879,6 @@
     {
       "added_at": "2026-01-21 06:34:06",
       "album": {
-        "name": "Down to Earth",
-        "url": "https://open.spotify.com/album/6q2v2FAOpb3Rk2avT7mxQS"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        },
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 205101,
-      "name": "Shoong! (feat. LISA of BLACKPINK)",
-      "url": "https://open.spotify.com/track/0oJRiblEiQgTg2hRfnacIt"
-    },
-    {
-      "added_at": "2026-01-21 06:34:06",
-      "album": {
         "name": "Lullaby Remix (with Paradise, Jay Park & LOUIS of LNGSHOT)",
         "url": "https://open.spotify.com/album/31mReIClap5NQNlYVt8TDB"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 217000,
       "name": "Lullaby Remix (with Paradise, Jay Park & LOUIS of LNGSHOT)",
       "url": "https://open.spotify.com/track/6WnMFDIiDJR0Yg9JaBwVQx"
+    },
+    {
+      "added_at": "2026-01-21 06:34:06",
+      "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6q2v2FAOpb3Rk2avT7mxQS"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 205101,
+      "name": "Shoong! (feat. LISA of BLACKPINK)",
+      "url": "https://open.spotify.com/track/0oJRiblEiQgTg2hRfnacIt"
     },
     {
       "added_at": "2026-01-21 06:34:06",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-01-21 06:34:06",
       "album": {
+        "name": "BLOSSOM - THE 3RD MINI ALBUM",
+        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "Mars",
+      "url": "https://open.spotify.com/track/2FZKBbotZtXLQyedIV965w"
+    },
+    {
+      "added_at": "2026-01-21 06:34:06",
+      "album": {
         "name": "jellyfish",
         "url": "https://open.spotify.com/album/78uS0bGMBDygZbdxE7kwPC"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 195946,
       "name": "Pineapple Slice",
       "url": "https://open.spotify.com/track/13U2hhhgeN57hffBCuaUcw"
-    },
-    {
-      "added_at": "2026-01-21 06:34:06",
-      "album": {
-        "name": "BLOSSOM - THE 3RD MINI ALBUM",
-        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "Mars",
-      "url": "https://open.spotify.com/track/2FZKBbotZtXLQyedIV965w"
     },
     {
       "added_at": "2026-01-21 06:34:06",

@@ -4,7 +4,7 @@
 
 > This is Muddy Waters\. The essential tracks, all in one playlist.
 
-144 songs - 9 hr 48 min
+145 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Good Morning Little School Girl](https://open.spotify.com/track/2txRs0wxjGE1uzOhcBxN7L) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:16 | 2022-08-05 |  |
 | [Got My Mojo Working](https://open.spotify.com/track/18n0zch7bRo453Iwq98xYf) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:52 | 2024-02-23 |  |
 | [Got My Mojo Working](https://open.spotify.com/track/65VzqBb5ogD2xIFD8jetMG) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [His Best 1956\-1964 \- The Chess 50th Anniversary Collection](https://open.spotify.com/album/21Lv19NsmMPpwUL58JCP57) | 2:53 | 2022-08-06 | 2024-02-18 |
-| [Gypsy Woman](https://open.spotify.com/track/3tpfHjfbS7GbA5BFYsxaf1) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [The Real Folk Blues](https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT) | 2:36 | 2022-08-06 |  |
+| [Gypsy Woman](https://open.spotify.com/track/3tpfHjfbS7GbA5BFYsxaf1) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [The Real Folk Blues](https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT) | 2:36 | 2022-08-06 | 2026-01-30 |
 | [Herbert Harper's Free Press News](https://open.spotify.com/track/68q3zjX008KLFVxiu56KuQ) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Electric Mud](https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL) | 4:36 | 2022-08-05 | 2023-02-25 |
 | [Honey Bee](https://open.spotify.com/track/2XwAWk73TyUGjXkYFBz8Ys) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [More Real Folk Blues](https://open.spotify.com/album/2ehO3e7Bp6PnyqTWCqErMs) | 3:20 | 2022-08-09 |  |
 | [Honey Bee](https://open.spotify.com/track/0PAoDpuqJ89AA16LvkFGro) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 3:21 | 2023-12-15 | 2024-04-02 |
@@ -82,6 +82,7 @@
 | [Long Distance](https://open.spotify.com/track/6dezNfNYhgD22o5fs5ATZp) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:33 | 2022-08-05 | 2024-01-20 |
 | [Long Distance Call](https://open.spotify.com/track/1puGCG7BtUHdN3G3R4YdTw) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 9:14 | 2022-08-05 | 2025-10-26 |
 | [Long Distance Call](https://open.spotify.com/track/21SJZoN35oJCD2MS6PRgvd) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:41 | 2024-01-19 | 2024-10-17 |
+| [Louisiana Blues](https://open.spotify.com/track/25fwvbLBDoj0FclO5XC1jT) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 2:54 | 2026-01-30 |  |
 | [Louisiana Blues](https://open.spotify.com/track/2nbV8brWogyKVqRhypvzJS) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:54 | 2022-08-07 | 2024-07-23 |
 | [Mad Love \(I Want You To Love Me\) \- Single Version](https://open.spotify.com/track/6KRVb1xpxVOdg4Q2jn36e6) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 3:03 | 2022-09-02 |  |
 | [Mama Talk to Your Daughter](https://open.spotify.com/track/0x6atsBlhX2PPBgCF4MjfN) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO), [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Breakin' It Up, Breakin' It Down](https://open.spotify.com/album/3UvsmcrWPiyiLlm4Bp6Xbl) | 5:53 | 2022-08-06 | 2022-09-21 |

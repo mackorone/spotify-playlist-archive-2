@@ -1077,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "Dilemma",
+        "url": "https://open.spotify.com/album/2rplujGA3zLv6wporHSb9O"
+      },
+      "artists": [
+        {
+          "name": "Aurora 10",
+          "url": "https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/06B0yqFx098DcodVZh2xBh"
+    },
+    {
+      "album": {
         "name": "dilemma",
         "url": "https://open.spotify.com/album/2k1F7XaGQRiZodGje43i8D"
       },
@@ -1530,6 +1548,28 @@
       "duration_ms": 130285,
       "name": "Gangsta's Paradise - Lofi Version",
       "url": "https://open.spotify.com/track/176AsqgJiJL4PFMpGFD0px"
+    },
+    {
+      "album": {
+        "name": "Get Lucky (lofi)",
+        "url": "https://open.spotify.com/album/3SBK7iqWNksFkcLPcYbzFB"
+      },
+      "artists": [
+        {
+          "name": "golden era",
+          "url": "https://open.spotify.com/artist/0zfNkbfXyVpesD3S0XFKB8"
+        },
+        {
+          "name": "The Remix Station",
+          "url": "https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88490,
+      "name": "Get Lucky - lofi",
+      "url": "https://open.spotify.com/track/4ZwBiNxJdVCkotr7DGyYov"
     },
     {
       "album": {
@@ -2982,7 +3022,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 119257,
       "name": "pony",
       "url": "https://open.spotify.com/track/26e0Jbyt61AzuFz7UCh1vm"
@@ -4286,7 +4326,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 108937,
       "name": "We Are Family",
       "url": "https://open.spotify.com/track/42XobImnQvdX9GUHqxnoPN"

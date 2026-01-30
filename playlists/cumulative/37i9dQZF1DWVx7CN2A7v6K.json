@@ -236,7 +236,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 152633,
       "name": "L4DY",
       "url": "https://open.spotify.com/track/4S7rVcmRg9wEpAwu05ynvc"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 174226,
       "name": "Love seeker",
       "url": "https://open.spotify.com/track/6TAYmiYRaz2rina7qaohdm"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 284630,
       "name": "more than words (Miso Extra Remix)",
       "url": "https://open.spotify.com/track/2X7iZOpUjl2z6TTykxLZue"
@@ -496,7 +496,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 211693,
       "name": "tears",
       "url": "https://open.spotify.com/track/1450gHNQR7jMixdYvfRyl0"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2026-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 285586,
       "name": "\u30c9\u30e9\u30a4\u30d5\u30e9\u30ef\u30fc",
       "url": "https://open.spotify.com/track/7dH0dpi751EoguDDg3xx6J"
@@ -993,6 +993,24 @@
     },
     {
       "album": {
+        "name": "\u30b7\u30e3\u30f3\u30c7\u30ea\u30a2",
+        "url": "https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT"
+      },
+      "artists": [
+        {
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269786,
+      "name": "\u30d2\u30ed\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/3hBAYbAECEix9raaTq8S3H"
+    },
+    {
+      "album": {
         "name": "\u65b0\u661f\u76ee\u9332",
         "url": "https://open.spotify.com/album/1mBitF64U7CZPQW7uEit3z"
       },
@@ -1004,7 +1022,7 @@
       ],
       "date_added": "2026-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 164621,
       "name": "\u30d3\u30d3\u30c7\u30d0",
       "url": "https://open.spotify.com/track/5Ct010aQ4rroKyjKhTlS7I"
@@ -1627,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "\u68ee\u306e\u5c0f\u3055\u306a\u30ec\u30b9\u30c8\u30e9\u30f3",
+        "url": "https://open.spotify.com/album/7hm7ZNdqoUd7IggwgxhRGB"
+      },
+      "artists": [
+        {
+          "name": "Aoi Teshima",
+          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153033,
+      "name": "\u68ee\u306e\u5c0f\u3055\u306a\u30ec\u30b9\u30c8\u30e9\u30f3",
+      "url": "https://open.spotify.com/track/37XYyITs3EVTmU5eNrimEd"
+    },
+    {
+      "album": {
         "name": "\u6b63\u89e3",
         "url": "https://open.spotify.com/album/4XVmF6PeCtQBjHhhKVlZ4X"
       },
@@ -1735,6 +1771,24 @@
     },
     {
       "album": {
+        "name": "\u71c8",
+        "url": "https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz"
+      },
+      "artists": [
+        {
+          "name": "Soushi Sakiyama",
+          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238720,
+      "name": "\u71c8",
+      "url": "https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr"
+    },
+    {
+      "album": {
         "name": "\u50d5\u305f\u3061\u304c\u3084\u308a\u307e\u3057\u305f",
         "url": "https://open.spotify.com/album/0jf58OGRFXs8NG5hcUCJb0"
       },
@@ -1840,7 +1894,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 260767,
       "name": "\u795d\u796d\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/6fkPFcktjMGeGhQDKF8ABE"

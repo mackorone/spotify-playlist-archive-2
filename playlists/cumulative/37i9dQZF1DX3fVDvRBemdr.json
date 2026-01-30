@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste releases Hollands & Volks. Cover: Afro Bros, Billy Dans, Brace & Jeffrey Heesen",
+  "description": "De nieuwste releases Hollands & Volks. Cover: Quido van de Graaf",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -194,6 +194,24 @@
       "duration_ms": 143085,
       "name": "Adem Mijn Adem",
       "url": "https://open.spotify.com/track/1huCWn6TC8SL3FqKzBIvCB"
+    },
+    {
+      "album": {
+        "name": "Al Heb Je Niets",
+        "url": "https://open.spotify.com/album/5wmuQkePwbFb0FS0cJuJSE"
+      },
+      "artists": [
+        {
+          "name": "Ammar",
+          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152458,
+      "name": "Al Heb Je Niets",
+      "url": "https://open.spotify.com/track/6cKvr0voNpYVq9i577qxoW"
     },
     {
       "album": {
@@ -468,6 +486,24 @@
       "duration_ms": 159609,
       "name": "Alles Wat Je Hebt",
       "url": "https://open.spotify.com/track/4WYo31iUrSgX3e7xx9aPjM"
+    },
+    {
+      "album": {
+        "name": "Als 'T Even Kan",
+        "url": "https://open.spotify.com/album/3tVyyyhfmFwaw0GeykwODN"
+      },
+      "artists": [
+        {
+          "name": "Joey Haasnoot",
+          "url": "https://open.spotify.com/artist/66jvtgufgNnilcm2lAAvGi"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152380,
+      "name": "Als 'T Even Kan",
+      "url": "https://open.spotify.com/track/7LMRsQ06Ra9t9fOh0r6T75"
     },
     {
       "album": {
@@ -1236,7 +1272,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 167085,
       "name": "Bonte Avond",
       "url": "https://open.spotify.com/track/3OwiBXdE9Rzu0hi3paV0w9"
@@ -2231,6 +2267,24 @@
     },
     {
       "album": {
+        "name": "Doe nog maar een rondje",
+        "url": "https://open.spotify.com/album/7agd9o31Gjkw9tq7mjA3mR"
+      },
+      "artists": [
+        {
+          "name": "Rick de Jong",
+          "url": "https://open.spotify.com/artist/2ew84Shb8k5evkctfSMu6v"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165379,
+      "name": "Doe nog maar een rondje",
+      "url": "https://open.spotify.com/track/3qlOzPjaj14uVnf5MgyqrO"
+    },
+    {
+      "album": {
         "name": "Doei Doei Doei (Radio Edit)",
         "url": "https://open.spotify.com/album/72uIicpCeRTsa5ek46Q5qd"
       },
@@ -2483,6 +2537,24 @@
     },
     {
       "album": {
+        "name": "Eigen Schuld",
+        "url": "https://open.spotify.com/album/61Qr7dTzKj6UJkDcgv1vG7"
+      },
+      "artists": [
+        {
+          "name": "Quido van de Graaf",
+          "url": "https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167752,
+      "name": "Eigen Schuld",
+      "url": "https://open.spotify.com/track/1AHGfEp4zcjYK9cjj6W1vT"
+    },
+    {
+      "album": {
         "name": "Elize",
         "url": "https://open.spotify.com/album/0A7vchdRrasOb5dXUiTyIR"
       },
@@ -2654,6 +2726,24 @@
       "duration_ms": 200383,
       "name": "Feest In De Tent",
       "url": "https://open.spotify.com/track/6rvwaPKrw99V8G7DoGSMvz"
+    },
+    {
+      "album": {
+        "name": "Femme Fatale",
+        "url": "https://open.spotify.com/album/6YXxW3FMQCcdX4V3MUNunK"
+      },
+      "artists": [
+        {
+          "name": "Spang!",
+          "url": "https://open.spotify.com/artist/5RZqQNSyHP9Iovw5jC8S5r"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154592,
+      "name": "Femme Fatale",
+      "url": "https://open.spotify.com/track/1boryOfIhzuquqa8MIOVm6"
     },
     {
       "album": {
@@ -3284,7 +3374,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 157680,
       "name": "Het Dak Komt Naar Beneden",
       "url": "https://open.spotify.com/track/2rOVY0NdVSHJCfDkXWWe4r"
@@ -3418,7 +3508,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 136687,
       "name": "Hey Buurvrouw",
       "url": "https://open.spotify.com/track/1LaCmbx2Ovb0w7vzvd68aT"
@@ -3746,7 +3836,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 138103,
       "name": "Ik Bewonder Jou",
       "url": "https://open.spotify.com/track/2XhkRtb9zt9vYRhGkDC756"
@@ -8620,7 +8710,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 175115,
       "name": "Waarom Kan Het Leven Zo Gemeen Zijn",
       "url": "https://open.spotify.com/track/74U65fkMdtaTUaj8tLn8fP"

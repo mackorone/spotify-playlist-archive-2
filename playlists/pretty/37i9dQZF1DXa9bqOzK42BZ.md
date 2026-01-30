@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > The best of Swahili gospel music\. Cover: Rose Muhando
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,364 likes - 100 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,411 likes - 100 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 67 | [The Way](https://open.spotify.com/track/502BVjVkjLUHx6haDTBSAG) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Good To Go](https://open.spotify.com/album/1dxBEy0m0QhnpbTx7nGgjf) | 3:25 |
 | 68 | [Huniachi](https://open.spotify.com/track/5NLS2f8tVRtoKXOU600LBL) | [Reuben Kigame](https://open.spotify.com/artist/0bTD7Hz0264DFfTV9e5PQf), [Sifa Voices](https://open.spotify.com/artist/75UlA58ClvAkoGrCouQQAI), [Gloria Muliro](https://open.spotify.com/artist/39RtliJb0Ct7KASnAK5Vs2) | [Usifadhaike](https://open.spotify.com/album/3ugo6jrkHwa1fEmpKPvDs2) | 5:02 |
 | 69 | [Niko Tu](https://open.spotify.com/track/34LeuUlDfQXvJn8Ui27nAC) | [Mista Champagne](https://open.spotify.com/artist/0wLYJK9oKV7BMNpCV4d5EW) | [Niko Tu](https://open.spotify.com/album/64Zs0PLCoLANPDPAO8aBjK) | 3:58 |
-| 70 | [Mwamba El Selah](https://open.spotify.com/track/26CuIfoVvvt22BQfwMjYGS) | [Erick Smith](https://open.spotify.com/artist/2DyY70tIr0laRzbYBA7bLg) | [Mwamba El Selah](https://open.spotify.com/album/7IomRvYMcnXSv4wTtn658W) | 5:14 |
+| 70 | [Mwamba El Sela](https://open.spotify.com/track/26CuIfoVvvt22BQfwMjYGS) | [Erick Smith](https://open.spotify.com/artist/2DyY70tIr0laRzbYBA7bLg) | [Mwamba El Sela](https://open.spotify.com/album/7IomRvYMcnXSv4wTtn658W) | 5:14 |
 | 71 | [Amina](https://open.spotify.com/track/3M0rZ3y3U5GblF0rOEuajB) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87), [Sophie Shangwa](https://open.spotify.com/artist/3rOaAX8sANHe6g8kcCPcAB) | [AMINA](https://open.spotify.com/album/19uq2Q3iuAI8W4xvrsrp1X) | 4:26 |
 | 72 | [Wimbo Wa Sifa](https://open.spotify.com/track/2Y5aUvP2asWvWHKll6oZPw) | [Essence Of Worship](https://open.spotify.com/artist/08DEnWbiZl4cLFGUjNzR39) | [Wimbo Wa Sifa](https://open.spotify.com/album/56WotTirI3QttnBzgYSgcf) | 6:58 |
 | 73 | [Ushuhuda](https://open.spotify.com/track/2xxqdDdIyDgNe4IorQ8B6D) | [Godfrey Mteule](https://open.spotify.com/artist/7dLAn6bKOjnhJEk6NXK6hs), [Obby Alpha](https://open.spotify.com/artist/0PN2wNxxBHNUa4OQPb1ev6) | [Ushuhuda](https://open.spotify.com/album/277T9BJRqL3v7zK8tp4LK9) | 5:07 |

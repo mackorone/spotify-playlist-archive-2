@@ -8165,24 +8165,6 @@
     },
     {
       "album": {
-        "name": "Bye bye",
-        "url": "https://open.spotify.com/album/37UynZNDdGGy8yNvPPTlDH"
-      },
-      "artists": [
-        {
-          "name": "Ipostatomici",
-          "url": "https://open.spotify.com/artist/1qtIbNG68SDTZfos1q4ACi"
-        }
-      ],
-      "date_added": "2025-05-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 153994,
-      "name": "Bye bye",
-      "url": "https://open.spotify.com/track/6Wz9XkqJ8KNySUeTtoQUOj"
-    },
-    {
-      "album": {
         "name": "Il Primo Esperimento del Dott. Stranamore",
         "url": "https://open.spotify.com/album/2IxDzqiMyPKfPug8YEPKGW"
       },
@@ -8216,6 +8198,24 @@
       "duration_ms": 200560,
       "name": "Bye Bye Bye",
       "url": "https://open.spotify.com/track/4r8lRYnoOGdEi6YyI5OC1o"
+    },
+    {
+      "album": {
+        "name": "Bye-bye",
+        "url": "https://open.spotify.com/album/37UynZNDdGGy8yNvPPTlDH"
+      },
+      "artists": [
+        {
+          "name": "Ipostatomici",
+          "url": "https://open.spotify.com/artist/1qtIbNG68SDTZfos1q4ACi"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153994,
+      "name": "Bye-bye",
+      "url": "https://open.spotify.com/track/6Wz9XkqJ8KNySUeTtoQUOj"
     },
     {
       "album": {

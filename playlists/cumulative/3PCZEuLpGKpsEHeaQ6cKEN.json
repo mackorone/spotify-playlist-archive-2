@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover: Entasia",
+  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover: Max Styler",
   "name": "Armada Today",
   "tracks": [
     {
@@ -1774,7 +1774,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 180562,
       "name": "Ataca",
       "url": "https://open.spotify.com/track/3cynfLteXTUEWkFzKTX10e"
@@ -2566,6 +2566,24 @@
       "duration_ms": 207317,
       "name": "Behind",
       "url": "https://open.spotify.com/track/7tsrBisHxXP8ZvaJ2HgSfs"
+    },
+    {
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/2XV2dgQQYYet2pU8RtjufX"
+      },
+      "artists": [
+        {
+          "name": "Eynka",
+          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238161,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/1Awgm6eNs5BojzttZePxeB"
     },
     {
       "album": {
@@ -13548,7 +13566,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 192167,
       "name": "Heavenly",
       "url": "https://open.spotify.com/track/4qHJ6esYqVPGYnMfwy1nWN"
@@ -20323,6 +20341,28 @@
     },
     {
       "album": {
+        "name": "Make it Smooth",
+        "url": "https://open.spotify.com/album/3b61q9LVnnbhMUQ0ZQlpcR"
+      },
+      "artists": [
+        {
+          "name": "AV\u00d6",
+          "url": "https://open.spotify.com/artist/1YHoYxvG5RWfGN3pt3vuMb"
+        },
+        {
+          "name": "SHAMI",
+          "url": "https://open.spotify.com/artist/2rAiKXow13cY95cAgloF7c"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192195,
+      "name": "Make it Smooth",
+      "url": "https://open.spotify.com/track/3B06TeexXHiUanSV8hUMtN"
+    },
+    {
+      "album": {
         "name": "Make Me Feel Good",
         "url": "https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi"
       },
@@ -25718,7 +25758,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 139124,
       "name": "Ready Or Not",
       "url": "https://open.spotify.com/track/5pHiLtOvjpvfcn2RatgIEN"
@@ -27473,6 +27513,32 @@
     },
     {
       "album": {
+        "name": "Saturday",
+        "url": "https://open.spotify.com/album/6gySdENtRu66Zk0myCM21x"
+      },
+      "artists": [
+        {
+          "name": "East 57th St.",
+          "url": "https://open.spotify.com/artist/2prsVqfzlZkfJPC0g2xwlR"
+        },
+        {
+          "name": "Donna Allen",
+          "url": "https://open.spotify.com/artist/2MGI96UXRCEwaQGuQzAWfZ"
+        },
+        {
+          "name": "Full Intention",
+          "url": "https://open.spotify.com/artist/1tayOcNuoYWnrXeuh1HhXB"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233626,
+      "name": "Saturday - Full Intention Mix",
+      "url": "https://open.spotify.com/track/1SIcwKdciuqDSqNol4AjUT"
+    },
+    {
+      "album": {
         "name": "Saturday Night",
         "url": "https://open.spotify.com/album/0nYR96e78pVEtbDTH4AA2f"
       },
@@ -29036,6 +29102,24 @@
       "duration_ms": 226976,
       "name": "Sirius",
       "url": "https://open.spotify.com/track/3GYH6TqF2fIihKps1Sedxc"
+    },
+    {
+      "album": {
+        "name": "Sirius",
+        "url": "https://open.spotify.com/album/6dh02SO7yELqYLHwQgVRqo"
+      },
+      "artists": [
+        {
+          "name": "Hjafri",
+          "url": "https://open.spotify.com/artist/3HGsS0k94Mw1SOLqQYhPki"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168904,
+      "name": "Sirius",
+      "url": "https://open.spotify.com/track/2qlq7ctYJBmLzfd6H0JznK"
     },
     {
       "album": {
@@ -32682,6 +32766,28 @@
       "duration_ms": 240930,
       "name": "The Message",
       "url": "https://open.spotify.com/track/0p3ikXK8UiHnzOWQCZ7W6x"
+    },
+    {
+      "album": {
+        "name": "The Message",
+        "url": "https://open.spotify.com/album/1Eq8OiHMraZriFRLiVzsx2"
+      },
+      "artists": [
+        {
+          "name": "TCTS",
+          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
+        },
+        {
+          "name": "Franksy",
+          "url": "https://open.spotify.com/artist/2OGxLXrhZnYt8X8qL1i1fi"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175930,
+      "name": "The Message",
+      "url": "https://open.spotify.com/track/4y59XELXr6Ttcpf1BzqVCO"
     },
     {
       "album": {
@@ -36393,6 +36499,32 @@
     },
     {
       "album": {
+        "name": "What The Future Holds",
+        "url": "https://open.spotify.com/album/6Jfo849VvIPPxXT9fTp5t0"
+      },
+      "artists": [
+        {
+          "name": "OTTAGON",
+          "url": "https://open.spotify.com/artist/49b9crFClEofQmf5078d31"
+        },
+        {
+          "name": "Lake Silver",
+          "url": "https://open.spotify.com/artist/3jUIM87ijH82I8Wp91U6aE"
+        },
+        {
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205384,
+      "name": "What The Future Holds",
+      "url": "https://open.spotify.com/track/0KVDS7jwMRbmr90hWiO475"
+    },
+    {
+      "album": {
         "name": "What Took You So Long",
         "url": "https://open.spotify.com/album/5BxLMz1DhF1yZNdeAlID3h"
       },
@@ -37022,7 +37154,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 224857,
       "name": "Windows",
       "url": "https://open.spotify.com/track/7fd8fqxSKiwcx4zIONjxnw"

@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 107866,
+  "num_followers": 107962,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1947,30 +1947,6 @@
     {
       "added_at": "2026-01-23 05:00:23",
       "album": {
-        "name": "Coco Loco",
-        "url": "https://open.spotify.com/album/7eBEzXHye7PEHwVQcpYRis"
-      },
-      "artists": [
-        {
-          "name": "Eran Hersh",
-          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
-        },
-        {
-          "name": "Tekkman",
-          "url": "https://open.spotify.com/artist/4amut0vklLIj9lY81yEHtj"
-        },
-        {
-          "name": "Juany Bravo",
-          "url": "https://open.spotify.com/artist/7FWTTxJZ35ZNqhFCLOE3zm"
-        }
-      ],
-      "duration_ms": 156768,
-      "name": "Coco Loco",
-      "url": "https://open.spotify.com/track/32lsePQmdOSRrbeUlcqQm0"
-    },
-    {
-      "added_at": "2026-01-23 05:00:23",
-      "album": {
         "name": "Playa Y Arena",
         "url": "https://open.spotify.com/album/7a36GV9hrpji6sHCjTn4Ez"
       },
@@ -1995,6 +1971,30 @@
     {
       "added_at": "2026-01-23 05:00:23",
       "album": {
+        "name": "Coco Loco",
+        "url": "https://open.spotify.com/album/7eBEzXHye7PEHwVQcpYRis"
+      },
+      "artists": [
+        {
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+        },
+        {
+          "name": "Tekkman",
+          "url": "https://open.spotify.com/artist/4amut0vklLIj9lY81yEHtj"
+        },
+        {
+          "name": "Juany Bravo",
+          "url": "https://open.spotify.com/artist/7FWTTxJZ35ZNqhFCLOE3zm"
+        }
+      ],
+      "duration_ms": 156768,
+      "name": "Coco Loco",
+      "url": "https://open.spotify.com/track/32lsePQmdOSRrbeUlcqQm0"
+    },
+    {
+      "added_at": "2026-01-23 05:00:23",
+      "album": {
         "name": "Bailame",
         "url": "https://open.spotify.com/album/0j7how96tAQrVMQjqiHqyw"
       },
@@ -2011,26 +2011,30 @@
     {
       "added_at": "2026-01-23 05:00:23",
       "album": {
-        "name": "El Baile",
-        "url": "https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM"
+        "name": "Coketea (feat. Dean Walker)",
+        "url": "https://open.spotify.com/album/6vw66EvhvToEv490yZTtnT"
       },
       "artists": [
         {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+          "name": "Kastelo",
+          "url": "https://open.spotify.com/artist/2KmU3cHtzAMUFFEQPHF8ON"
         },
         {
-          "name": "Novak",
-          "url": "https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy"
+          "name": "Maahez",
+          "url": "https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ"
         },
         {
-          "name": "Fonsa",
-          "url": "https://open.spotify.com/artist/74HgHiHyAfNJkfJlIk6uAU"
+          "name": "Sael Quinn",
+          "url": "https://open.spotify.com/artist/1u4OxkwNI4kCwcjTeFE0bj"
+        },
+        {
+          "name": "Dean Walker",
+          "url": "https://open.spotify.com/artist/2yu2cq17ts76sjEjRMKqkN"
         }
       ],
-      "duration_ms": 174880,
-      "name": "El Baile",
-      "url": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb"
+      "duration_ms": 192000,
+      "name": "Coketea (feat. Dean Walker)",
+      "url": "https://open.spotify.com/track/28L7bvWJkW1aXwAkjg5GaF"
     }
   ],
   "unique_name": "Latin House",

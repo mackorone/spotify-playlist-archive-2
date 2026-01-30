@@ -1,6 +1,6 @@
 {
   "description": "for the late nights",
-  "num_followers": 20556,
+  "num_followers": 20555,
   "original_name": "the night bus",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Ugh",
-        "url": "https://open.spotify.com/album/5k00fgF5AJavyexoZVB391"
-      },
-      "artists": [
-        {
-          "name": "JGrrey",
-          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Half Full",
-      "url": "https://open.spotify.com/track/6lyeeYBZZL629AAeC7CRiU"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Champagne Problems",
         "url": "https://open.spotify.com/album/3SVAsjIqaP3EwqAEiTJXjF"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 142941,
       "name": "Champagne Problems",
       "url": "https://open.spotify.com/track/7pfx2xxO3rAQPVUIdQYwtM"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Ugh",
+        "url": "https://open.spotify.com/album/5k00fgF5AJavyexoZVB391"
+      },
+      "artists": [
+        {
+          "name": "JGrrey",
+          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Half Full",
+      "url": "https://open.spotify.com/track/6lyeeYBZZL629AAeC7CRiU"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -419,6 +419,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Price You Pay",
+        "url": "https://open.spotify.com/album/68H7rb7p0wrAjDa9SV0sML"
+      },
+      "artists": [
+        {
+          "name": "Tia Gordon",
+          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Price You Pay",
+      "url": "https://open.spotify.com/track/3ZuAZWE7pKBPh0tyGATaPQ"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Button Up",
         "url": "https://open.spotify.com/album/1D7dJ6DynUboIRFZ7TT20L"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 157440,
       "name": "Button Up",
       "url": "https://open.spotify.com/track/2dMW31LPd4yL1LVvmXcowO"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Price You Pay",
-        "url": "https://open.spotify.com/album/68H7rb7p0wrAjDa9SV0sML"
-      },
-      "artists": [
-        {
-          "name": "Tia Gordon",
-          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Price You Pay",
-      "url": "https://open.spotify.com/track/3ZuAZWE7pKBPh0tyGATaPQ"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "COMING DOWN",
+        "url": "https://open.spotify.com/album/4w2NbxPIchUvu7u7xMwx5Z"
+      },
+      "artists": [
+        {
+          "name": "Jeshi",
+          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "COMING DOWN",
+      "url": "https://open.spotify.com/track/09Z3vqWLXnpCytqf3vZfEy"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "crumbs in my bed",
         "url": "https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 157936,
       "name": "grab my coat",
       "url": "https://open.spotify.com/track/5zWiuLyhjwcqoLb6nMDErV"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "COMING DOWN",
-        "url": "https://open.spotify.com/album/4w2NbxPIchUvu7u7xMwx5Z"
-      },
-      "artists": [
-        {
-          "name": "Jeshi",
-          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "COMING DOWN",
-      "url": "https://open.spotify.com/track/09Z3vqWLXnpCytqf3vZfEy"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Introverted Stoner",
-        "url": "https://open.spotify.com/album/1mLKp499Qf01vpQEeSAX08"
-      },
-      "artists": [
-        {
-          "name": "Bel Cobain",
-          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
-        }
-      ],
-      "duration_ms": 192026,
-      "name": "Introverted Stoner",
-      "url": "https://open.spotify.com/track/3HhZdVVUChJnjjn1P6j4nQ"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "BAD TASTE",
         "url": "https://open.spotify.com/album/6LLp1IJkmp1LD8xyQ9FOLc"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 211240,
       "name": "30,000 FEET",
       "url": "https://open.spotify.com/track/1McWbNIuEPiA5gMo4PafS0"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Introverted Stoner",
+        "url": "https://open.spotify.com/album/1mLKp499Qf01vpQEeSAX08"
+      },
+      "artists": [
+        {
+          "name": "Bel Cobain",
+          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
+        }
+      ],
+      "duration_ms": 192026,
+      "name": "Introverted Stoner",
+      "url": "https://open.spotify.com/track/3HhZdVVUChJnjjn1P6j4nQ"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Coffee",
-        "url": "https://open.spotify.com/album/0nK9CHDXm14WIlRssT2ifO"
-      },
-      "artists": [
-        {
-          "name": "j.flowers.mp3",
-          "url": "https://open.spotify.com/artist/4jwygfSZd43Dd8vemguwH3"
-        },
-        {
-          "name": "Ralph Taylor",
-          "url": "https://open.spotify.com/artist/7lyYVCbqJocjkyoYwWYgwK"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/4l9kdmAOpO7Y0wCc4PnhzI"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Lagoon",
         "url": "https://open.spotify.com/album/0syGgHpT59AFLYZD1qVnBY"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 288000,
       "name": "Lagoon",
       "url": "https://open.spotify.com/track/6AukzxLBWmUJ6F5anYkQDu"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/0nK9CHDXm14WIlRssT2ifO"
+      },
+      "artists": [
+        {
+          "name": "j.flowers.mp3",
+          "url": "https://open.spotify.com/artist/4jwygfSZd43Dd8vemguwH3"
+        },
+        {
+          "name": "Ralph Taylor",
+          "url": "https://open.spotify.com/artist/7lyYVCbqJocjkyoYwWYgwK"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/4l9kdmAOpO7Y0wCc4PnhzI"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Be My Friend",
+        "url": "https://open.spotify.com/album/3qYZIoemyV20j52tqzzCQt"
+      },
+      "artists": [
+        {
+          "name": "Sol Paradise",
+          "url": "https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII"
+        }
+      ],
+      "duration_ms": 207759,
+      "name": "Be My Friend",
+      "url": "https://open.spotify.com/track/016H24eTEQ04lmhskkGAQX"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "\u2605SLEEPY\u2605",
         "url": "https://open.spotify.com/album/4u7Gq7p97RbhmMutnehapG"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 134437,
       "name": "\u2605SLEEPY\u2605",
       "url": "https://open.spotify.com/track/5lEnU2eOQkmHogLRUV77LV"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Be My Friend",
-        "url": "https://open.spotify.com/album/3qYZIoemyV20j52tqzzCQt"
-      },
-      "artists": [
-        {
-          "name": "Sol Paradise",
-          "url": "https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII"
-        }
-      ],
-      "duration_ms": 207759,
-      "name": "Be My Friend",
-      "url": "https://open.spotify.com/track/016H24eTEQ04lmhskkGAQX"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Grreydaze",
-        "url": "https://open.spotify.com/album/3QWLDEXHLpnYS8dxSd0uUx"
-      },
-      "artists": [
-        {
-          "name": "JGrrey",
-          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
-        }
-      ],
-      "duration_ms": 164750,
-      "name": "God's House",
-      "url": "https://open.spotify.com/track/4bny7tlMq75sfHO2VkitwH"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Intertwined",
         "url": "https://open.spotify.com/album/2VK00iADYTVoLVqf2GxFVt"
       },
@@ -1715,22 +1699,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/3MYehd7LTXflbdYn3y4CoX"
+        "name": "Grreydaze",
+        "url": "https://open.spotify.com/album/3QWLDEXHLpnYS8dxSd0uUx"
       },
       "artists": [
         {
-          "name": "Mom Tudie",
-          "url": "https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8"
-        },
-        {
-          "name": "Loie",
-          "url": "https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ"
+          "name": "JGrrey",
+          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
         }
       ],
-      "duration_ms": 207857,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/4umLhAXqcyQ2ZTcdsfipYG"
+      "duration_ms": 164750,
+      "name": "God's House",
+      "url": "https://open.spotify.com/track/4bny7tlMq75sfHO2VkitwH"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1747,6 +1727,26 @@
       "duration_ms": 187400,
       "name": "Mini Excursion",
       "url": "https://open.spotify.com/track/41vPgM81KFafqEaJSzx6SE"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/3MYehd7LTXflbdYn3y4CoX"
+      },
+      "artists": [
+        {
+          "name": "Mom Tudie",
+          "url": "https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8"
+        },
+        {
+          "name": "Loie",
+          "url": "https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ"
+        }
+      ],
+      "duration_ms": 207857,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/4umLhAXqcyQ2ZTcdsfipYG"
     },
     {
       "added_at": "2025-08-07 15:52:15",

@@ -49,6 +49,32 @@
     },
     {
       "album": {
+        "name": "2005",
+        "url": "https://open.spotify.com/album/4xhy1R0xkrbmbiE24QH1V0"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199029,
+      "name": "2005",
+      "url": "https://open.spotify.com/track/5B7WC3RAeh3aEjnZ2qc2JF"
+    },
+    {
+      "album": {
         "name": "333 (Cl\u00edmax) [Caravel Remix]",
         "url": "https://open.spotify.com/album/64eR0xbVZxevhmNhkPPg9C"
       },
@@ -1618,7 +1644,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 321666,
       "name": "Deine Angst",
       "url": "https://open.spotify.com/track/6C3vS3o69ZX3JvX0onzFkT"
@@ -3709,6 +3735,24 @@
     },
     {
       "album": {
+        "name": "Let the Bass Kick",
+        "url": "https://open.spotify.com/album/1YE4DRmquv66glbyTpY2ul"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146100,
+      "name": "Let the Bass Kick",
+      "url": "https://open.spotify.com/track/7ASQWCYtKa2JD2oz9LWkA2"
+    },
+    {
+      "album": {
         "name": "Let's Do It",
         "url": "https://open.spotify.com/album/1gZaeX11v6GivcgChO5rWI"
       },
@@ -4066,7 +4110,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 228800,
       "name": "Merit",
       "url": "https://open.spotify.com/track/5xZ5zNCk56HRnxV3rq7eWh"
@@ -4340,10 +4384,36 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 235875,
       "name": "Never Minus",
       "url": "https://open.spotify.com/track/1SatljanBAyeiljzNXnyxz"
+    },
+    {
+      "album": {
+        "name": "Never Stop",
+        "url": "https://open.spotify.com/album/62bT2QRBas9WTZ6wIJo3PM"
+      },
+      "artists": [
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        },
+        {
+          "name": "JSTJR",
+          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225750,
+      "name": "Never Stop",
+      "url": "https://open.spotify.com/track/3NV8bjW1TNXpjFbixuo1xm"
     },
     {
       "album": {
@@ -4518,7 +4588,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 184551,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/443M0kCEyrSg4V7R5mtq8X"
@@ -6202,6 +6272,28 @@
       "duration_ms": 378477,
       "name": "The Show Never Ends",
       "url": "https://open.spotify.com/track/2zPMafxpOc4IGB79uZLjtD"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Acid Track",
+        "url": "https://open.spotify.com/album/3lAw4H1pzLOCCDBfkNqOXu"
+      },
+      "artists": [
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        },
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240532,
+      "name": "The Ultimate Acid Track",
+      "url": "https://open.spotify.com/track/14Lh8Rpav17MCMSd1yOazU"
     },
     {
       "album": {

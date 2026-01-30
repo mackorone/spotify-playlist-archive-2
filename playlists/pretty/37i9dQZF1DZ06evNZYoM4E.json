@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 107973,
+  "num_followers": 107980,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXgAAAAAAACJ6Z5dXJlZQaMPVBVIXeXw",
+  "snapshot_id": "aXlRgAAAAAAaA0a2I0iMfOPXj3ee/yE/",
   "tracks": [
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Ja Dat Ben Jij",
+      "url": "https://open.spotify.com/track/1eTC7896aTd7Cl8qXho4M5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zonder Zorgen",
         "url": "https://open.spotify.com/album/3ybsR0gB9lBGKTXVBn0q1S"
       },
@@ -739,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alleen Met Jou",
-        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
+        "name": "Jij En Ik",
+        "url": "https://open.spotify.com/album/5Ibu92sALcWMs5IY7NwYFQ"
       },
       "artists": [
         {
@@ -748,9 +764,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 217333,
-      "name": "Ja Dat Ben Jij",
-      "url": "https://open.spotify.com/track/1eTC7896aTd7Cl8qXho4M5"
+      "duration_ms": 205426,
+      "name": "Donker Om Je Heen",
+      "url": "https://open.spotify.com/track/5YdQywbLUt8dbR1VEGW0yw"
     },
     {
       "added_at": null,
@@ -771,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jij En Ik",
-        "url": "https://open.spotify.com/album/5Ibu92sALcWMs5IY7NwYFQ"
+        "name": "Jij Bent Alles",
+        "url": "https://open.spotify.com/album/15mOfcMsTYi6chFIA0jyXH"
       },
       "artists": [
         {
@@ -780,9 +796,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 205426,
-      "name": "Donker Om Je Heen",
-      "url": "https://open.spotify.com/track/5YdQywbLUt8dbR1VEGW0yw"
+      "duration_ms": 210173,
+      "name": "'T Is Voorbij",
+      "url": "https://open.spotify.com/track/1Vfyx8K5ccwCcIaTMUuDsZ"
     },
     {
       "added_at": null,
@@ -799,22 +815,6 @@
       "duration_ms": 194426,
       "name": "De Wereld Is Van Ons Allemaal",
       "url": "https://open.spotify.com/track/63JiuKoXwlQGBVSRXMbxEc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jij Bent Alles",
-        "url": "https://open.spotify.com/album/15mOfcMsTYi6chFIA0jyXH"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "'T Is Voorbij",
-      "url": "https://open.spotify.com/track/1Vfyx8K5ccwCcIaTMUuDsZ"
     },
     {
       "added_at": null,

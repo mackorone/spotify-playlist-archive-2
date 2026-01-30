@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 177729,
+  "num_followers": 177753,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXgAAAAAAAC7uAJ/15MzQu60TPiNZOeC",
+  "snapshot_id": "aXlRgAAAAAA3qT/Y5IhSGAY3cMQySu7a",
   "tracks": [
     {
       "added_at": null,
@@ -247,26 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake As Hell (with Avril Lavigne)",
-        "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 179166,
-      "name": "Fake As Hell (with Avril Lavigne)",
-      "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PMA (feat. Pale Waves)",
         "url": "https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz"
       },
@@ -287,6 +267,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fake As Hell (with Avril Lavigne)",
+        "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 179166,
+      "name": "Fake As Hell (with Avril Lavigne)",
+      "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Everyone's Talking!",
         "url": "https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl"
       },
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 159281,
-      "name": "Everyone's Talking",
-      "url": "https://open.spotify.com/track/7dU8KE0dkhacGphCn3MRm9"
+      "duration_ms": 151056,
+      "name": "Little Bit",
+      "url": "https://open.spotify.com/track/7iWKIvsPmDBFSbThJJc9nY"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 151056,
-      "name": "Little Bit",
-      "url": "https://open.spotify.com/track/7iWKIvsPmDBFSbThJJc9nY"
+      "duration_ms": 159281,
+      "name": "Everyone's Talking",
+      "url": "https://open.spotify.com/track/7dU8KE0dkhacGphCn3MRm9"
     },
     {
       "added_at": null,
@@ -782,15 +782,11 @@
         {
           "name": "All Time Low",
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
         }
       ],
-      "duration_ms": 193948,
-      "name": "Favorite Place (feat. The Band CAMINO)",
-      "url": "https://open.spotify.com/track/2uVNn2pFpDlx1XrFcEfary"
+      "duration_ms": 167041,
+      "name": "Getaway Green",
+      "url": "https://open.spotify.com/track/6lMPUipRF49L8AxLW3F40B"
     },
     {
       "added_at": null,
@@ -818,11 +814,15 @@
         {
           "name": "All Time Low",
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
         }
       ],
-      "duration_ms": 167041,
-      "name": "Getaway Green",
-      "url": "https://open.spotify.com/track/6lMPUipRF49L8AxLW3F40B"
+      "duration_ms": 193948,
+      "name": "Favorite Place (feat. The Band CAMINO)",
+      "url": "https://open.spotify.com/track/2uVNn2pFpDlx1XrFcEfary"
     }
   ],
   "unique_name": "This Is All Time Low",

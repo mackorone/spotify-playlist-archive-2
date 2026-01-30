@@ -4,7 +4,7 @@
 
 > 하나 뿐인 내 사랑을 정하는 날\. 따뜻하고 낭만적인 국내 가요와 마음 가득 행복함을 느껴보세요\. \(The day I decide on my one and only love\. Feel the happiness in your heart with warm and romantic domestic songs.\)
 
-93 songs - 6 hr 8 min
+96 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,8 +42,10 @@
 | [HONEYMOON](https://open.spotify.com/track/5iGdQsgIGDSlxJKlsCv62L) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [HONEYMOON](https://open.spotify.com/album/3Ms7sWhlT637M6uDqxLbTF) | 3:32 | 2024-12-19 |  |
 | [I Knew I Love](https://open.spotify.com/track/6heT4iobgbs6RSYnen31L6) | [JEON MI DO](https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 11](https://open.spotify.com/album/7BZMREZrMu97xEWX45kMPf) | 4:21 | 2024-12-19 |  |
 | [I meet you who are infinitely beautiful](https://open.spotify.com/track/2XiDJ5LIke4IeosYWZk8rZ) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [I meet you who are infinitely beautiful](https://open.spotify.com/album/4tO82fvns6ThsiQvZ1AKNO) | 4:07 | 2025-09-30 |  |
+| [I will be your flower](https://open.spotify.com/track/0RE0Y7Rv9t3ngylTdKiWLZ) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [I will be your flower](https://open.spotify.com/album/39OFidEKg7M3yOm9rsTmrJ) | 3:47 | 2026-01-29 |  |
 | [I'll Remember](https://open.spotify.com/track/7oArq8xkRKeRDOnOv45PmS) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [I'll Remember \(Positively Yours X Onestar\) \[Original Soundtrack\]](https://open.spotify.com/album/1gqguyrI9YN91IIGknC38q) | 3:48 | 2026-01-26 |  |
 | [I'm In Love](https://open.spotify.com/track/5xv9DhjYckZoZwXifGrkQw) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [I'm In Love](https://open.spotify.com/album/4BP1h4PNLuOIVaYF2azTgF) | 3:17 | 2024-12-19 | 2025-05-21 |
+| [If You Ask Me What Love Is](https://open.spotify.com/track/5zsMOF3yWT4U1Vw5eaMQFH) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [If You Ask Me What Love Is](https://open.spotify.com/album/79ZPROThlkTsw8QqWGYkPe) | 3:43 | 2026-01-29 |  |
 | [Je T'aime](https://open.spotify.com/track/18m3QugKZFaKjoMbe8CyjL) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Hello \- Special Album](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) | 4:21 | 2024-12-19 | 2025-06-24 |
 | [Just the way we love](https://open.spotify.com/track/04dATUKqjH6pmWpgZaB2Ec) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92), [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Reply 1997 \- Love Story \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/0puPQBUgmK9l1mWQYWKsdz) | 4:18 | 2025-04-22 |  |
 | [Kissing You](https://open.spotify.com/track/18fWwTkrIxojEC2gmVyoxS) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Girls' Generation](https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g) | 3:19 | 2024-12-19 |  |
@@ -59,6 +61,7 @@
 | [Me to You, You to Me](https://open.spotify.com/track/4X1DHUCMtcAkzOXnSm9kqo) | [Mido and Falasol](https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 12](https://open.spotify.com/album/6JZUxdIweDsAQKBxaNwJgD) | 3:52 | 2024-12-19 |  |
 | [Meaning of you](https://open.spotify.com/track/3ucfniv4fLB3RPA6N9iLM2) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH) | [A flower bookmark](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | 3:15 | 2024-12-19 |  |
 | [My Everything](https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:53 | 2024-12-19 |  |
+| [My first and last love](https://open.spotify.com/track/46BTa0mRxUNMkIper1akV7) | [SoonSoonHee](https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG) | [My first and last love](https://open.spotify.com/album/7zWjdUH63JIM2VisA8myPq) | 4:10 | 2026-01-29 |  |
 | [My Romance](https://open.spotify.com/track/5Rys2WgRdbvQNdeezDvUql) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Hometown Cha\-Cha\-Cha, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/7lLdUzOlYRwdmsaYw0kpiv) | 2:53 | 2024-12-19 |  |
 | [No Words Can Say](https://open.spotify.com/track/1xkhh2mQI71CJJUrIbyKwk) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [No Words Can Say](https://open.spotify.com/album/2d96sKtYbxVpOQVFetsaOr) | 3:56 | 2025-11-04 |  |
 | [of course](https://open.spotify.com/track/1S3Qtj2QGy4KQKbtOZZQ7d) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Voice Of Heaven](https://open.spotify.com/album/0V3PQa5gQpIHRwJEscGwvY) | 3:57 | 2025-09-03 |  |

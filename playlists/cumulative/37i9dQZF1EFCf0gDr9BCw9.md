@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-211 songs - 15 hr 42 min
+212 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [In the Mood \- Live](https://open.spotify.com/track/54h1RKrrFJDsNOfhwmqu9o) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [The Glenn Miller Carnegie Hall Concert \(Live\)](https://open.spotify.com/album/5HX046215eBYM6hZ5rwDKk) | 3:29 | 2023-09-25 |  |
 | [Intimacy of the Blues](https://open.spotify.com/track/0c8OAoBwxIGEhcxebNYM3e) | [Barry Harris](https://open.spotify.com/artist/5IgSjABjN0VorY1Vo41ivX) | [If I Love Again](https://open.spotify.com/album/4FPT7vyacVF1qJnakuMT5K) | 6:06 | 2024-12-19 | 2025-12-18 |
 | [Intimacy of the Blues](https://open.spotify.com/track/0hucXbkrCClKVb7hhEXL3N) | [Barry Harris](https://open.spotify.com/artist/5IgSjABjN0VorY1Vo41ivX) | [Presenting Barry Harris](https://open.spotify.com/album/2GOz7ctHoX0laTDHyJp6dd) | 6:06 | 2024-10-08 | 2024-12-12 |
-| [Intimacy of the Blues](https://open.spotify.com/track/2nzAThlkPFolmK9u9FOHzi) | [Dave Glasser](https://open.spotify.com/artist/4G9E2ztSafPvatE32vjk6v), [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU), [Barry Harris](https://open.spotify.com/artist/5IgSjABjN0VorY1Vo41ivX) | [Uh! Oh!](https://open.spotify.com/album/3eAdsI63k3sLjANop2GSPt) | 6:06 | 2024-12-11 |  |
+| [Intimacy of the Blues](https://open.spotify.com/track/0vTqbjhV0g3aqtEieVdMFq) | [Barry Harris Trio](https://open.spotify.com/artist/7Bpj43yWq3DUaMlNmTWYXH) | [Nearer And Nearer](https://open.spotify.com/album/3XdkFTLjKOLuoyVm1xMtfy) | 6:06 | 2026-01-29 |  |
+| [Intimacy of the Blues](https://open.spotify.com/track/2nzAThlkPFolmK9u9FOHzi) | [Dave Glasser](https://open.spotify.com/artist/4G9E2ztSafPvatE32vjk6v), [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU), [Barry Harris](https://open.spotify.com/artist/5IgSjABjN0VorY1Vo41ivX) | [Uh! Oh!](https://open.spotify.com/album/3eAdsI63k3sLjANop2GSPt) | 6:06 | 2024-12-11 | 2026-01-30 |
 | [Intimacy Of The Blues](https://open.spotify.com/track/3QNiGiKzSmqDaoOuxVS2AE) | [Louis Bellson](https://open.spotify.com/artist/2BywXVVpHNWDTGpn8fksJT) | [The Best Of Louie Bellson](https://open.spotify.com/album/2yp4jNVWZLgbija0nF5QJv) | 6:00 | 2024-09-21 | 2024-10-09 |
 | [Intimacy Of The Blues](https://open.spotify.com/track/1FfWQD0d7AVwEJpVpIGf7Y) | [Marian McPartland](https://open.spotify.com/artist/7Ga404k4zEweLxPtX0Ghma) | [Plays The Music Of Billy Strayhorn](https://open.spotify.com/album/7pUdvKb6fLmEjmLIMO9bUo) | 4:23 | 2024-08-22 | 2024-09-22 |
 | [Jo](https://open.spotify.com/track/3MMTXcokvnOvkXFc2iPper) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 3:21 | 2022-09-08 |  |

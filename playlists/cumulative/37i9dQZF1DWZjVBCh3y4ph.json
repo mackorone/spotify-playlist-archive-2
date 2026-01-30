@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk & kompa du moment. Photo : Jeeway x Senyss",
+  "description": "Les hits zouk & kompa du moment. Photo : Forever Music x Priscillia",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Mi",
+        "url": "https://open.spotify.com/album/2fjGy1iLpQXKvT6QR1LXE2"
+      },
+      "artists": [
+        {
+          "name": "Young Chang MC",
+          "url": "https://open.spotify.com/artist/0Y4XPAlixU89K3Z6oRziZ1"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195409,
+      "name": "Bone Aw",
+      "url": "https://open.spotify.com/track/4LyAkRVy7fYNeOU0afdJJI"
+    },
+    {
+      "album": {
         "name": "C'est fort",
         "url": "https://open.spotify.com/album/0a0HukjpZhsYx9MWrBGdS3"
       },
@@ -1112,7 +1130,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 192000,
       "name": "Condamn\u00e9",
       "url": "https://open.spotify.com/track/6Ih8EcMC6qReJ9tKz6WIYV"
@@ -1204,6 +1222,24 @@
       "duration_ms": 169471,
       "name": "Coup de vent",
       "url": "https://open.spotify.com/track/7EjDwEYLXG7p4LskwoWdjJ"
+    },
+    {
+      "album": {
+        "name": "Coups pour coups",
+        "url": "https://open.spotify.com/album/5SM61NhTQLzTlDJP6g69rV"
+      },
+      "artists": [
+        {
+          "name": "Elowdy.C",
+          "url": "https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156144,
+      "name": "Coups pour coups",
+      "url": "https://open.spotify.com/track/5m4amDdAFosi09upf23b4G"
     },
     {
       "album": {
@@ -1612,6 +1648,24 @@
       "duration_ms": 207374,
       "name": "Doucement",
       "url": "https://open.spotify.com/track/51407X8WA1awlUT9rARW1U"
+    },
+    {
+      "album": {
+        "name": "Doucement",
+        "url": "https://open.spotify.com/album/1bsobJeL9AiGj1L7e6kogD"
+      },
+      "artists": [
+        {
+          "name": "Jessye Belleval",
+          "url": "https://open.spotify.com/artist/0NAAEUMgWrBJNWviQcTx1T"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141809,
+      "name": "Doucement",
+      "url": "https://open.spotify.com/track/7vLzfxOSF2jf4wggjTLLwx"
     },
     {
       "album": {
@@ -4162,7 +4216,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 195280,
       "name": "Nou Ki Boss",
       "url": "https://open.spotify.com/track/2kQGVOb9yckPstvJwC38RR"
@@ -4702,6 +4756,28 @@
       "duration_ms": 210309,
       "name": "Padon\u00e9\u00b4m",
       "url": "https://open.spotify.com/track/1MK8a1kVLdzDTnmXy6goqJ"
+    },
+    {
+      "album": {
+        "name": "Pap Kite",
+        "url": "https://open.spotify.com/album/142yhhRXAWR2Ydt533NNGK"
+      },
+      "artists": [
+        {
+          "name": "Forever Music",
+          "url": "https://open.spotify.com/artist/5h452pRjLcTPSrgg1MpSje"
+        },
+        {
+          "name": "Priscillia",
+          "url": "https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205583,
+      "name": "Pap Kite",
+      "url": "https://open.spotify.com/track/2ZOwWrwJT2mg0BSW8M8fY8"
     },
     {
       "album": {
@@ -5396,7 +5472,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 171428,
       "name": "Sale Id\u00e9e",
       "url": "https://open.spotify.com/track/1Z5kLE4IKKZSPhxUaOWJD5"
@@ -7334,7 +7410,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 168834,
       "name": "\u00c0 jamais",
       "url": "https://open.spotify.com/track/5AMi98voEjWjwdJcpZlQJL"

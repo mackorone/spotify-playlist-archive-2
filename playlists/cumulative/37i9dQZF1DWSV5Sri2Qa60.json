@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Where your new favourite bands are discovered. Cover: Ulrika Spacek",
+  "description": "Where your new favourite bands are discovered. Cover: Whitelands",
   "name": "Hot New Bands",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 146651,
       "name": "21st Century Suffragette",
       "url": "https://open.spotify.com/track/1g2T1BUfAh6U7aOioCiRIX"
+    },
+    {
+      "album": {
+        "name": "5words",
+        "url": "https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl"
+      },
+      "artists": [
+        {
+          "name": "RIP Magic",
+          "url": "https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317613,
+      "name": "5words",
+      "url": "https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY"
     },
     {
       "album": {
@@ -376,7 +394,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 186206,
       "name": "Bee",
       "url": "https://open.spotify.com/track/2Eq7MKIx9nFCH7NXEQT66w"
@@ -448,7 +466,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 184373,
       "name": "Blankspace",
       "url": "https://open.spotify.com/track/0y4l286JVQCzFf2mC1esgl"
@@ -466,7 +484,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 293129,
       "name": "Bleary Eyes",
       "url": "https://open.spotify.com/track/2LAjXMH1tI47GrUvh9F3LP"
@@ -632,6 +650,24 @@
       "duration_ms": 252320,
       "name": "Building Roads",
       "url": "https://open.spotify.com/track/4xjZOMTWj9ZsfZKaxCxlaD"
+    },
+    {
+      "album": {
+        "name": "Bumble Been",
+        "url": "https://open.spotify.com/album/4ih1VJuP6QOoTizr5Vhbeh"
+      },
+      "artists": [
+        {
+          "name": "Hot Face",
+          "url": "https://open.spotify.com/artist/42uDv2iDELwbdlk45yUt1a"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69733,
+      "name": "Bumble Been",
+      "url": "https://open.spotify.com/track/7HMUW5O54l5hdzJR4pfdf0"
     },
     {
       "album": {
@@ -1150,7 +1186,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 215771,
       "name": "Danang",
       "url": "https://open.spotify.com/track/7KUuYnVoIKo0dL0XGbQPJe"
@@ -1571,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "Face Off",
+        "url": "https://open.spotify.com/album/40AfFZiTv9KuQQa9AgW5NQ"
+      },
+      "artists": [
+        {
+          "name": "SLAG",
+          "url": "https://open.spotify.com/artist/5eGQYBSvZQ7242siSaU8v1"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123166,
+      "name": "Face Off",
+      "url": "https://open.spotify.com/track/43jkw2oItyUiYcspEIZ5YZ"
+    },
+    {
+      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/5JOZgnD5mvt03P9GRaS36H"
       },
@@ -1888,7 +1942,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 249026,
       "name": "Gallowine",
       "url": "https://open.spotify.com/track/2YHbbGCtiiwo2rEP1FupL0"
@@ -2018,6 +2072,24 @@
       "duration_ms": 222790,
       "name": "Golden",
       "url": "https://open.spotify.com/track/2vnGiiOUKM8dUU7RmRs2Bs"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Whitelands",
+          "url": "https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187306,
+      "name": "Golden Daze",
+      "url": "https://open.spotify.com/track/2VU9L06tLFb39gip8TuEbV"
     },
     {
       "album": {
@@ -2234,6 +2306,24 @@
       "duration_ms": 156470,
       "name": "Heat Of The Summer",
       "url": "https://open.spotify.com/track/0q7FGknqGU4TQ54U8QBAOu"
+    },
+    {
+      "album": {
+        "name": "Heaven Sent",
+        "url": "https://open.spotify.com/album/3F1BhsVsH3KKzNiLMG5M1j"
+      },
+      "artists": [
+        {
+          "name": "Chartreuse",
+          "url": "https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187493,
+      "name": "Heaven Sent",
+      "url": "https://open.spotify.com/track/0ewbgBIlWOENsK3IlhRTDK"
     },
     {
       "album": {
@@ -2471,6 +2561,24 @@
     },
     {
       "album": {
+        "name": "It's a Hell of an Age",
+        "url": "https://open.spotify.com/album/6oZmZb6MX4lhYPN6v3sD2S"
+      },
+      "artists": [
+        {
+          "name": "Madra Salach",
+          "url": "https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444196,
+      "name": "I Was Just A Boy",
+      "url": "https://open.spotify.com/track/11cuYyuMk4kkDyv00WepRo"
+    },
+    {
+      "album": {
         "name": "I'm Losing It",
         "url": "https://open.spotify.com/album/1iO532J1AahkCofCiD4ImL"
       },
@@ -2572,7 +2680,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 224169,
       "name": "In the Paddies",
       "url": "https://open.spotify.com/track/4gl3euvAe8I95fIW8LKASU"
@@ -2680,7 +2788,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 165872,
       "name": "It's hip to be dumb",
       "url": "https://open.spotify.com/track/0Jnjcqpx4IHpzsxwGUsXbC"
@@ -2993,6 +3101,24 @@
     },
     {
       "album": {
+        "name": "London, Out There",
+        "url": "https://open.spotify.com/album/6QKhhDf9Cp3l0SQZgoMDeH"
+      },
+      "artists": [
+        {
+          "name": "The New Cut",
+          "url": "https://open.spotify.com/artist/5S5fjngXUQ6ZTBJJL1djIf"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204213,
+      "name": "London, Out There",
+      "url": "https://open.spotify.com/track/0HJycSl4z0y8n4lHhB7USt"
+    },
+    {
+      "album": {
         "name": "Loving Feeling/ Face To Face",
         "url": "https://open.spotify.com/album/5BaAm9TcA9UYTkdyFXbY4w"
       },
@@ -3166,7 +3292,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 209119,
       "name": "Measly Means",
       "url": "https://open.spotify.com/track/0vtRXEqmLyIlbEhqnPIXX3"
@@ -3588,6 +3714,24 @@
       "duration_ms": 309973,
       "name": "Picto",
       "url": "https://open.spotify.com/track/4WcvzX139qMLYTlPcCUoAn"
+    },
+    {
+      "album": {
+        "name": "Picture Of Health",
+        "url": "https://open.spotify.com/album/0Kd7SIoX1ugnUaq1uDr03h"
+      },
+      "artists": [
+        {
+          "name": "My First Time",
+          "url": "https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221288,
+      "name": "Picture Of Health",
+      "url": "https://open.spotify.com/track/07OabSk5EM7GSgEeD39QTO"
     },
     {
       "album": {
@@ -4607,6 +4751,24 @@
     },
     {
       "album": {
+        "name": "The Age of Innocence",
+        "url": "https://open.spotify.com/album/0RNPeJkIcoPbHfUtY2BS9b"
+      },
+      "artists": [
+        {
+          "name": "Tooth",
+          "url": "https://open.spotify.com/artist/7ALR0GlSnIni4l9iZwJW7s"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153780,
+      "name": "The Age of Innocence",
+      "url": "https://open.spotify.com/track/5CpvAXYX4QYrmp8Z4jDaUV"
+    },
+    {
+      "album": {
         "name": "The Boss",
         "url": "https://open.spotify.com/album/1OwrqBMQkhVUmHbG9HONpZ"
       },
@@ -5248,7 +5410,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 165529,
       "name": "Wingman",
       "url": "https://open.spotify.com/track/4XA4i4BT5hgy2Gxdh7jCDJ"

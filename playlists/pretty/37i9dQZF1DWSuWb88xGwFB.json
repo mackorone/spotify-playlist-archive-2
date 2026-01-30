@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 42971,
+  "num_followers": 42981,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "In Da Clouds",
-        "url": "https://open.spotify.com/album/4JiK0Do2dRT5UK6WpIi6bm"
-      },
-      "artists": [
-        {
-          "name": "Sneak Essentials",
-          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
-        }
-      ],
-      "duration_ms": 518960,
-      "name": "In Da Clouds - Da Dub",
-      "url": "https://open.spotify.com/track/74Rs89DEfIgsSQQfE4Vi1d"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
         "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 341200,
       "name": "Jump & Sing - Hard Metro Mix",
       "url": "https://open.spotify.com/track/2028K7usL1aImoGvaFhyGx"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "In Da Clouds",
+        "url": "https://open.spotify.com/album/4JiK0Do2dRT5UK6WpIi6bm"
+      },
+      "artists": [
+        {
+          "name": "Sneak Essentials",
+          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
+        }
+      ],
+      "duration_ms": 518960,
+      "name": "In Da Clouds - Da Dub",
+      "url": "https://open.spotify.com/track/74Rs89DEfIgsSQQfE4Vi1d"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Muzik",
-        "url": "https://open.spotify.com/album/22swBlMglQzlAP1G0GeXJJ"
-      },
-      "artists": [
-        {
-          "name": "DJ Pierre",
-          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
-        }
-      ],
-      "duration_ms": 379760,
-      "name": "Muzik - The Siren Mix",
-      "url": "https://open.spotify.com/track/6IqCfijEdjDSKHN3ZCBEOU"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Just Us",
         "url": "https://open.spotify.com/album/5hdwOlTkUYKkPaaiZ7d47r"
       },
@@ -1039,22 +1023,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Everybody Dance",
-        "url": "https://open.spotify.com/album/3F5UONXKw1at69QdBsLnwr"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 479440,
-      "name": "Everybody Dance - M.A.S. Club Vocal",
-      "url": "https://open.spotify.com/track/71ccVLki17DA8sVO74XoSG"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega Strictly Rhythm Mix",
         "url": "https://open.spotify.com/album/5styrn4ZNjvGasDd6Y4sam"
       },
@@ -1067,6 +1035,38 @@
       "duration_ms": 554971,
       "name": "The Sound - The Studio 54 Mix",
       "url": "https://open.spotify.com/track/3NYlKhLDWNe99VXWspYFIO"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Muzik",
+        "url": "https://open.spotify.com/album/22swBlMglQzlAP1G0GeXJJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
+        }
+      ],
+      "duration_ms": 379760,
+      "name": "Muzik - The Siren Mix",
+      "url": "https://open.spotify.com/track/6IqCfijEdjDSKHN3ZCBEOU"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Everybody Dance",
+        "url": "https://open.spotify.com/album/3F5UONXKw1at69QdBsLnwr"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "duration_ms": 479440,
+      "name": "Everybody Dance - M.A.S. Club Vocal",
+      "url": "https://open.spotify.com/track/71ccVLki17DA8sVO74XoSG"
     },
     {
       "added_at": "2022-03-03 13:59:16",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Nieuwe tracks elke week! Nieuw: Oykie, Rz, MRD en meer...",
+  "description": "Nieuwe tracks elke week! Nieuw: Marou, Massin & Kempi, Parsa, SKO en meer en meer...",
   "name": "Fresh Flows",
   "tracks": [
     {
@@ -260,7 +260,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 161142,
       "name": "4am",
       "url": "https://open.spotify.com/track/1nRPOUjlMHlczV5P2gbe7p"
@@ -624,7 +624,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 182769,
       "name": "Ammoniak & Hazes",
       "url": "https://open.spotify.com/track/1Pd4taiaESPFU26FDRrDdi"
@@ -968,6 +968,32 @@
       "duration_ms": 100540,
       "name": "BCN - Freestyle",
       "url": "https://open.spotify.com/track/6Q03YMswqXMKncsOKfhOAa"
+    },
+    {
+      "album": {
+        "name": "BCN > RAK",
+        "url": "https://open.spotify.com/album/25L1RzBKyIH2n6ZXnUGk2X"
+      },
+      "artists": [
+        {
+          "name": "Ville",
+          "url": "https://open.spotify.com/artist/0SAkDloGGtJFxAJ8b1KvCz"
+        },
+        {
+          "name": "SAYIN",
+          "url": "https://open.spotify.com/artist/0QpVGfzLMkEL1aOibaZgX2"
+        },
+        {
+          "name": "Jetski",
+          "url": "https://open.spotify.com/artist/4zo8UewZCDdI5AEuInMHUD"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134566,
+      "name": "BCN > RAK",
+      "url": "https://open.spotify.com/track/3R2n5h8ceesVR9zBkj151i"
     },
     {
       "album": {
@@ -1577,6 +1603,24 @@
     },
     {
       "album": {
+        "name": "Connect",
+        "url": "https://open.spotify.com/album/1sWpD1fgFVVkCJorRHHFJR"
+      },
+      "artists": [
+        {
+          "name": "FOCUS",
+          "url": "https://open.spotify.com/artist/4LPnjKJNGs4iU3gVbP2fUn"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108169,
+      "name": "Connect",
+      "url": "https://open.spotify.com/track/4nbJUnRVGaayr2l3lJfypl"
+    },
+    {
+      "album": {
         "name": "CONSISTENT",
         "url": "https://open.spotify.com/album/1opbKFBxtiSeiUurlVzYvR"
       },
@@ -1773,6 +1817,32 @@
     },
     {
       "album": {
+        "name": "Dans",
+        "url": "https://open.spotify.com/album/2sg6inkTHiY1QGjtAzVAaC"
+      },
+      "artists": [
+        {
+          "name": "Marou",
+          "url": "https://open.spotify.com/artist/787K0Q2xGqiAL0jcoo5kb5"
+        },
+        {
+          "name": "Massin",
+          "url": "https://open.spotify.com/artist/7g8HFGXym7WNVPMsuAINQE"
+        },
+        {
+          "name": "Kempi",
+          "url": "https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162973,
+      "name": "Dans",
+      "url": "https://open.spotify.com/track/0OTujEGFH01lCNvARKmYDr"
+    },
+    {
+      "album": {
         "name": "Dark Roads",
         "url": "https://open.spotify.com/album/0dVNn3GdxddTdkY7q4T8d9"
       },
@@ -1936,6 +2006,28 @@
       "duration_ms": 150361,
       "name": "Deuren",
       "url": "https://open.spotify.com/track/42jy2xGOTW1w8zsSf9HKMZ"
+    },
+    {
+      "album": {
+        "name": "Deze Dagen",
+        "url": "https://open.spotify.com/album/0cukgTEbJHdAEnYu5vGWkw"
+      },
+      "artists": [
+        {
+          "name": "Meyrr",
+          "url": "https://open.spotify.com/artist/6Fe4cI3PZcZFzxoMSVowWG"
+        },
+        {
+          "name": "Ralla",
+          "url": "https://open.spotify.com/artist/4mLMkl774zwxOVGWfCUxj6"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148309,
+      "name": "Deze Dagen",
+      "url": "https://open.spotify.com/track/4LSccc1P5EA3qmgOZSeF1n"
     },
     {
       "album": {
@@ -2144,7 +2236,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 215520,
       "name": "Eskimo - Remix",
       "url": "https://open.spotify.com/track/4lEdXGb7Z7kYSHV6Zm59QL"
@@ -2522,7 +2614,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 115488,
       "name": "Geeked",
       "url": "https://open.spotify.com/track/5LdRI9voYb3iOFwJ0QHLqY"
@@ -2836,7 +2928,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 110915,
       "name": "Grote Verandering",
       "url": "https://open.spotify.com/track/3V1MwLz2DTRKSPggFaohwZ"
@@ -2982,6 +3074,36 @@
       "duration_ms": 219929,
       "name": "Headshot - Remix",
       "url": "https://open.spotify.com/track/5OYNNDgoKbrzAS1JbrY655"
+    },
+    {
+      "album": {
+        "name": "HEADSHOT REVERSE",
+        "url": "https://open.spotify.com/album/3em08WEE4Kj6DWNxKheIaM"
+      },
+      "artists": [
+        {
+          "name": "Sowtu",
+          "url": "https://open.spotify.com/artist/2zCIjTItI9lPWdNQMIgEpi"
+        },
+        {
+          "name": "Madzz",
+          "url": "https://open.spotify.com/artist/51HhLwdbSKDNQx7IPy44oV"
+        },
+        {
+          "name": "GS",
+          "url": "https://open.spotify.com/artist/4pUDa9MISMuaJlt149AOl9"
+        },
+        {
+          "name": "Optie",
+          "url": "https://open.spotify.com/artist/37Ibw98hVYR0a2fowIvd8Y"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250140,
+      "name": "HEADSHOT REVERSE",
+      "url": "https://open.spotify.com/track/4pTbVkpsgoLG9YTnMI0Vxr"
     },
     {
       "album": {
@@ -3132,6 +3254,24 @@
       "duration_ms": 135653,
       "name": "Hoofd Omhoog",
       "url": "https://open.spotify.com/track/6ph2kgxZbllaTcaH5l3WFM"
+    },
+    {
+      "album": {
+        "name": "Hoofd Teeh",
+        "url": "https://open.spotify.com/album/0cUyElHH1pvX8PeShnyptf"
+      },
+      "artists": [
+        {
+          "name": "lostboyshawty",
+          "url": "https://open.spotify.com/artist/46rOkUDxd11xi4PuLk5nKQ"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158796,
+      "name": "Hoofd Teeh",
+      "url": "https://open.spotify.com/track/5MBNgirdLhuTN0KsXgi097"
     },
     {
       "album": {
@@ -3450,7 +3590,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 113142,
       "name": "Keep it Straight",
       "url": "https://open.spotify.com/track/6RO73jEy6BUXi7PTafuwW0"
@@ -3896,7 +4036,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 131506,
       "name": "Laatste Sprint",
       "url": "https://open.spotify.com/track/6AENcrPzP2KrHPxOWs4lGd"
@@ -3936,10 +4076,28 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 114227,
       "name": "Lastpak",
       "url": "https://open.spotify.com/track/2MpaMdE1qxTNOiW3onsK76"
+    },
+    {
+      "album": {
+        "name": "Lau",
+        "url": "https://open.spotify.com/album/4SflyqRW6yeiZBeHnq87Gu"
+      },
+      "artists": [
+        {
+          "name": "Rocks",
+          "url": "https://open.spotify.com/artist/3RssOArRCjUYU7hI5hws7q"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178723,
+      "name": "Lau",
+      "url": "https://open.spotify.com/track/0gvmWQf6n7IRPlv4Ydu4NA"
     },
     {
       "album": {
@@ -3984,6 +4142,24 @@
       "duration_ms": 109285,
       "name": "Lean",
       "url": "https://open.spotify.com/track/7qZcrK6ZE9bJAzpbCCThMo"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "AG BLAXX",
+          "url": "https://open.spotify.com/artist/0BdZi6qH5GIysWupr5kTdo"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150124,
+      "name": "Lekke Boot",
+      "url": "https://open.spotify.com/track/4pWJ39S6Y3q36EQ76ozDj5"
     },
     {
       "album": {
@@ -4125,6 +4301,28 @@
     },
     {
       "album": {
+        "name": "Lottadem",
+        "url": "https://open.spotify.com/album/1tcFXOxQwzgkA5WCfakdjf"
+      },
+      "artists": [
+        {
+          "name": "Slimm",
+          "url": "https://open.spotify.com/artist/0wsgCjwVTvQdGAI5YfJiAT"
+        },
+        {
+          "name": "HB The Plug",
+          "url": "https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161311,
+      "name": "Lottadem",
+      "url": "https://open.spotify.com/track/6FAmrI4NJfbVlfY79DZWlQ"
+    },
+    {
+      "album": {
         "name": "LVD (Leef voor dit)",
         "url": "https://open.spotify.com/album/4rdrjfu1gtJl2XzqytYK0n"
       },
@@ -4140,6 +4338,28 @@
       "duration_ms": 109016,
       "name": "LVD (Leef voor dit)",
       "url": "https://open.spotify.com/track/42ocYfSEVV1IiDruAurOOC"
+    },
+    {
+      "album": {
+        "name": "Maak niet meer uit",
+        "url": "https://open.spotify.com/album/5EmHr3djRKNB0XHDXWNtOq"
+      },
+      "artists": [
+        {
+          "name": "Vurra",
+          "url": "https://open.spotify.com/artist/2Qm7GttqaAhxHCgj1vTUOk"
+        },
+        {
+          "name": "Opium Lotus",
+          "url": "https://open.spotify.com/artist/1hdlDnJu1jX9mLpR2XiTQm"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137888,
+      "name": "Maak niet meer uit",
+      "url": "https://open.spotify.com/track/5nbrzCihRJ4CnXtT6YxKGT"
     },
     {
       "album": {
@@ -4523,6 +4743,32 @@
     },
     {
       "album": {
+        "name": "BNT Vol. 1",
+        "url": "https://open.spotify.com/album/2hRFLumetrIxEE4py3GnJE"
+      },
+      "artists": [
+        {
+          "name": "Boufi",
+          "url": "https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK"
+        },
+        {
+          "name": "Safouu",
+          "url": "https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy"
+        },
+        {
+          "name": "Curved",
+          "url": "https://open.spotify.com/artist/3VYrPMiZNKklGWvhpcyojr"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Mijn Meisje",
+      "url": "https://open.spotify.com/track/4POwc83pKmEwTeNCMRZsx6"
+    },
+    {
+      "album": {
         "name": "Mijn Moment",
         "url": "https://open.spotify.com/album/3DLbg6WnfQwDbyK3DwDZFI"
       },
@@ -4827,6 +5073,32 @@
     },
     {
       "album": {
+        "name": "news update 3",
+        "url": "https://open.spotify.com/album/4lndQFpRJ27m46PRQdsHBy"
+      },
+      "artists": [
+        {
+          "name": "Slim Bizzle",
+          "url": "https://open.spotify.com/artist/6B2HSue5iZ1ep7g5s50K0D"
+        },
+        {
+          "name": "T.y",
+          "url": "https://open.spotify.com/artist/4kZg1xYJZOlOz4ssU4kQmB"
+        },
+        {
+          "name": "Devv Tenkay",
+          "url": "https://open.spotify.com/artist/38CU6rSZVy1JlTD7UKNUk5"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151580,
+      "name": "news update 3",
+      "url": "https://open.spotify.com/track/3zV09MTNSrSlxo6oRdoBBb"
+    },
+    {
+      "album": {
         "name": "Niemand",
         "url": "https://open.spotify.com/album/1fmT972UY4cEyKMYRbTGZf"
       },
@@ -4902,6 +5174,40 @@
       "duration_ms": 144000,
       "name": "Niet Als Ik",
       "url": "https://open.spotify.com/track/6Yuarkvu1lGFxjeZsYF5N3"
+    },
+    {
+      "album": {
+        "name": "Niet Geven",
+        "url": "https://open.spotify.com/album/44uiJvk5unMsFNR7eI5Vb4"
+      },
+      "artists": [
+        {
+          "name": "Stackz",
+          "url": "https://open.spotify.com/artist/7JaoaPra85ySxiAoKeAUQS"
+        },
+        {
+          "name": "Vk",
+          "url": "https://open.spotify.com/artist/1MFAuPu6RxxiK2DZR9PEDJ"
+        },
+        {
+          "name": "73RB",
+          "url": "https://open.spotify.com/artist/3Dmnj37t2lC7tpMp983MJc"
+        },
+        {
+          "name": "73 De Pijp",
+          "url": "https://open.spotify.com/artist/12iyh851ZpgQQ0iPIKefFJ"
+        },
+        {
+          "name": "Kaijoeyy",
+          "url": "https://open.spotify.com/artist/62a1E9rix60fwvSx0JEcjc"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121691,
+      "name": "Niet Geven",
+      "url": "https://open.spotify.com/track/2B53g8fU6OmblMdgaV4cmg"
     },
     {
       "album": {
@@ -5007,6 +5313,50 @@
     },
     {
       "album": {
+        "name": "No Drama",
+        "url": "https://open.spotify.com/album/0jViD3bl5AgiUrWfFkIKCt"
+      },
+      "artists": [
+        {
+          "name": "16'dls",
+          "url": "https://open.spotify.com/artist/6b1BvwljfJStnCGcSw4QBa"
+        },
+        {
+          "name": "Vier1",
+          "url": "https://open.spotify.com/artist/66zBfJKGOsjwbPfq9KE1F7"
+        },
+        {
+          "name": "Elf",
+          "url": "https://open.spotify.com/artist/614gyrOAR88aE11ft8wnZ0"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148037,
+      "name": "No Drama",
+      "url": "https://open.spotify.com/track/2OartbMVAoWsDqKJRqkCPb"
+    },
+    {
+      "album": {
+        "name": "NO HOOK (Freestyle)",
+        "url": "https://open.spotify.com/album/5JtQbSQP1yqDWmKfyMJI82"
+      },
+      "artists": [
+        {
+          "name": "CALSEY",
+          "url": "https://open.spotify.com/artist/3cPHdBXqtZpfGwbKjPZtKh"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130120,
+      "name": "NO HOOK - Freestyle",
+      "url": "https://open.spotify.com/track/0wnKbg83ZODHi2V7mwpBW4"
+    },
+    {
+      "album": {
         "name": "Nog Vast",
         "url": "https://open.spotify.com/album/2xbmMr0Esw71HsIhlc7I2g"
       },
@@ -5087,6 +5437,32 @@
     },
     {
       "album": {
+        "name": "Nun 2 Prove",
+        "url": "https://open.spotify.com/album/2ug6dqw6bwnJ7e7bSMnPmr"
+      },
+      "artists": [
+        {
+          "name": "NTT",
+          "url": "https://open.spotify.com/artist/2aiK06FSZV8lWst1q1LKYQ"
+        },
+        {
+          "name": "TJWAVE",
+          "url": "https://open.spotify.com/artist/2N42z0vPgDduoGlO4opnmV"
+        },
+        {
+          "name": "BFLClyde",
+          "url": "https://open.spotify.com/artist/5ybuFtnUioZDYS90bDO4GD"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165686,
+      "name": "Nun 2 Prove",
+      "url": "https://open.spotify.com/track/39qbvnwgoMaZAlW0H2dosg"
+    },
+    {
+      "album": {
         "name": "Oh Damn",
         "url": "https://open.spotify.com/album/1Z5G8vtHA6A2ks4Xdo1EcJ"
       },
@@ -5134,7 +5510,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 140606,
       "name": "Onbeleeft",
       "url": "https://open.spotify.com/track/65osXnlTmbQT8eknKOcgy7"
@@ -5895,6 +6271,24 @@
     },
     {
       "album": {
+        "name": "Schijnen",
+        "url": "https://open.spotify.com/album/0StJHQsxXTaOA7oOlEAd2f"
+      },
+      "artists": [
+        {
+          "name": "TJ",
+          "url": "https://open.spotify.com/artist/2keg5CqgRIEtw0VUYU7TLu"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171034,
+      "name": "Schijnen",
+      "url": "https://open.spotify.com/track/5Uxa56NvaCySto8S3hpqru"
+    },
+    {
+      "album": {
         "name": "SD Kaart",
         "url": "https://open.spotify.com/album/4t1CBylzLDMvg5Bpa6YZ57"
       },
@@ -6042,6 +6436,36 @@
       "duration_ms": 118356,
       "name": "Snus & dadels",
       "url": "https://open.spotify.com/track/2D8B5muqNUxGv9gkeT5RhR"
+    },
+    {
+      "album": {
+        "name": "MAMA'S BOY",
+        "url": "https://open.spotify.com/album/28Q6bPFOeHfsLBUTv3530a"
+      },
+      "artists": [
+        {
+          "name": "Presto",
+          "url": "https://open.spotify.com/artist/6ZDpcHcivlBAUO2UqGHSM3"
+        },
+        {
+          "name": "RAFTING GOODS",
+          "url": "https://open.spotify.com/artist/6NzcpN9bENbuI2mLaC24Zl"
+        },
+        {
+          "name": "Duvel",
+          "url": "https://open.spotify.com/artist/3XTRFcIvjX1GwAvQ3EvzLL"
+        },
+        {
+          "name": "Nosa",
+          "url": "https://open.spotify.com/artist/1yiTO5VCQNBGaLcAZYlGD5"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148860,
+      "name": "SOPROPO",
+      "url": "https://open.spotify.com/track/7gjFe8bUlh2mkQRzw360xU"
     },
     {
       "album": {
@@ -6303,6 +6727,24 @@
     },
     {
       "album": {
+        "name": "Swag",
+        "url": "https://open.spotify.com/album/6DNviqjktPvGirSvIoe6i4"
+      },
+      "artists": [
+        {
+          "name": "Daaf",
+          "url": "https://open.spotify.com/artist/04rlEGOdxYkuwXsjB9SlnZ"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151213,
+      "name": "Swag",
+      "url": "https://open.spotify.com/track/2nBHlYOewYmTU5QioWXBVC"
+    },
+    {
+      "album": {
         "name": "Swiss Cheese",
         "url": "https://open.spotify.com/album/37Bl5kHOecalC15Z0IY4Km"
       },
@@ -6420,7 +6862,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 157916,
       "name": "Therapie",
       "url": "https://open.spotify.com/track/4lYmJo2OkSxZDLXoxx358C"
@@ -6478,7 +6920,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 164571,
       "name": "Tijd (ft. I am Aisha)",
       "url": "https://open.spotify.com/track/7ALcOOruuz3K9Y99AZ80Bn"
@@ -6606,6 +7048,28 @@
       "duration_ms": 163265,
       "name": "TOXIC FIGHT",
       "url": "https://open.spotify.com/track/7abfIdlVR9lOV1PzsE3VjH"
+    },
+    {
+      "album": {
+        "name": "Andere Man",
+        "url": "https://open.spotify.com/album/4F7HRc2bLbvOWKA2IoOisH"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/30WLe30YBfDFoIkJS0Tml9"
+        },
+        {
+          "name": "Zeno",
+          "url": "https://open.spotify.com/artist/3DzZYAqD6HAy1XVai7Udb8"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227871,
+      "name": "Tranen (feat. Zeno)",
+      "url": "https://open.spotify.com/track/6YJyBs1vCRxAz9Y0nXUS6h"
     },
     {
       "album": {
@@ -7332,7 +7796,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 138039,
       "name": "ZIM ZIMMA",
       "url": "https://open.spotify.com/track/3sQPWZIuNEQjzescvtwVTw"

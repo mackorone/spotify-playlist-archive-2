@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 35556,
+  "num_followers": 35561,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXgAAAAAAACuDisBJnicSjtsRg1txNTk",
+  "snapshot_id": "aXlRgAAAAADCzrLzYUhxR9HLeIJi4SAO",
   "tracks": [
     {
       "added_at": null,
@@ -75,6 +75,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Strictly 4 My Fans",
+        "url": "https://open.spotify.com/album/5XLw4dnwqajOACwT2MN2d0"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 208422,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/4QgtGpNXs1v2UFz1VuCvWB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rich Slave",
         "url": "https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 176040,
       "name": "1 Scale (feat. G Herbo)",
       "url": "https://open.spotify.com/track/5gmkw2031VVIboYqPIjSWB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Strictly 4 My Fans",
-        "url": "https://open.spotify.com/album/5XLw4dnwqajOACwT2MN2d0"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 208422,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/4QgtGpNXs1v2UFz1VuCvWB"
     },
     {
       "added_at": null,
@@ -479,6 +479,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SCOOMSDAY",
+        "url": "https://open.spotify.com/album/5tq50dEe3rTnyMlMp0Ob6C"
+      },
+      "artists": [
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "GWSM",
+      "url": "https://open.spotify.com/track/4paoz218yUcjPcwhJt6mKA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SLICK ALMIGHTY",
         "url": "https://open.spotify.com/album/7z89XFe47HxS51U6cF6tMp"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 201586,
       "name": "Gangsta Graduation (feat. G Herbo)",
       "url": "https://open.spotify.com/track/57KbQMnqfP3U5RsjqA1Rum"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SCOOMSDAY",
-        "url": "https://open.spotify.com/album/5tq50dEe3rTnyMlMp0Ob6C"
-      },
-      "artists": [
-        {
-          "name": "MAF Teeski",
-          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "GWSM",
-      "url": "https://open.spotify.com/track/4paoz218yUcjPcwhJt6mKA"
     },
     {
       "added_at": null,
@@ -631,22 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rookie Of The Year",
-        "url": "https://open.spotify.com/album/6RJcigjcQHiRUfoIhxCRcB"
+        "name": "Part 3",
+        "url": "https://open.spotify.com/album/2wboAwulksF118O1TkNeBc"
       },
       "artists": [
         {
-          "name": "Lil Eazzyy",
-          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
         },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 175729,
-      "name": "Onna Come Up (feat. G Herbo) [Remix]",
-      "url": "https://open.spotify.com/track/05WPbN0RZeYj62c4VGpldv"
+      "duration_ms": 202014,
+      "name": "Still On Dat (with G Herbo)",
+      "url": "https://open.spotify.com/track/2H3TOpfPnM8dAgSyd7YaQg"
     },
     {
       "added_at": null,
@@ -667,26 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
-        "url": "https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y"
+        "name": "Rookie Of The Year",
+        "url": "https://open.spotify.com/album/6RJcigjcQHiRUfoIhxCRcB"
       },
       "artists": [
         {
-          "name": "MudBaby Ru",
-          "url": "https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7"
-        },
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+          "name": "Lil Eazzyy",
+          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
         },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 229035,
-      "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
-      "url": "https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z"
+      "duration_ms": 175729,
+      "name": "Onna Come Up (feat. G Herbo) [Remix]",
+      "url": "https://open.spotify.com/track/05WPbN0RZeYj62c4VGpldv"
     },
     {
       "added_at": null,
@@ -747,6 +743,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
+        "url": "https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y"
+      },
+      "artists": [
+        {
+          "name": "MudBaby Ru",
+          "url": "https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 229035,
+      "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
+      "url": "https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greatest Rapper Alive",
         "url": "https://open.spotify.com/album/4vN5GfZbDJsghl5XISGKo8"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 128951,
       "name": "One Blood",
       "url": "https://open.spotify.com/track/7AVzn85H57FXmyaQm6uOd9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Part 3",
-        "url": "https://open.spotify.com/album/2wboAwulksF118O1TkNeBc"
-      },
-      "artists": [
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 202014,
-      "name": "Still On Dat (with G Herbo)",
-      "url": "https://open.spotify.com/track/2H3TOpfPnM8dAgSyd7YaQg"
     },
     {
       "added_at": null,
@@ -823,6 +823,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sneaky Link Chicago",
+        "url": "https://open.spotify.com/album/2lSKyvTSRoWix2gGoqz8Wk"
+      },
+      "artists": [
+        {
+          "name": "HXLLYWOOD",
+          "url": "https://open.spotify.com/artist/7xlLJW6mWTYxZVLYkSGPjJ"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        }
+      ],
+      "duration_ms": 120852,
+      "name": "Sneaky Link Chicago",
+      "url": "https://open.spotify.com/track/1eoBWsU36esCVnmX947nBX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Whatever U Want",
         "url": "https://open.spotify.com/album/3l1DeSYWct9O73WratRh1v"
       },
@@ -855,30 +879,6 @@
       "duration_ms": 176981,
       "name": "Influence",
       "url": "https://open.spotify.com/track/72nXS4EZQbF7TW9omZNro7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sneaky Link Chicago",
-        "url": "https://open.spotify.com/album/2lSKyvTSRoWix2gGoqz8Wk"
-      },
-      "artists": [
-        {
-          "name": "HXLLYWOOD",
-          "url": "https://open.spotify.com/artist/7xlLJW6mWTYxZVLYkSGPjJ"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Queen Key",
-          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
-        }
-      ],
-      "duration_ms": 120852,
-      "name": "Sneaky Link Chicago",
-      "url": "https://open.spotify.com/track/1eoBWsU36esCVnmX947nBX"
     },
     {
       "added_at": null,
@@ -935,22 +935,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Can't Kill God With Bullets",
-        "url": "https://open.spotify.com/album/01Vxh3LuDbJb2jLAlJYoyG"
+        "name": "Childhood Trauma",
+        "url": "https://open.spotify.com/album/6X4iW38COAyXNqh2FgcYmH"
       },
       "artists": [
         {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+          "name": "1up Tee",
+          "url": "https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX"
         },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 321132,
-      "name": "Nu Devils",
-      "url": "https://open.spotify.com/track/05LERuwwJC1kG4r9THLAah"
+      "duration_ms": 150600,
+      "name": "GooD KarMa (feat. G Herbo) (Remix)",
+      "url": "https://open.spotify.com/track/3ie6fPavn4ERaX0oTQCHbu"
     },
     {
       "added_at": null,

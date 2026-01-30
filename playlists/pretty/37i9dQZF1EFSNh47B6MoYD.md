@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 466 likes - 148 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 465 likes - 148 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 82 | [Ya Tu No Estas De Moda](https://open.spotify.com/track/2URCTXL4qBAgdxDvvp1UMJ) | [Isa Mebarak](https://open.spotify.com/artist/5Ll6dTdD1p7vJK3n2FDbN8) | [Cosa Buena](https://open.spotify.com/album/4LDEC5iNBJLx0vRsRWulyL) | 3:51 |
 | 83 | [Desliga A Luz](https://open.spotify.com/track/2nYgS1eh6jp4rs2Q05ybcU) | [Celso Fonseca](https://open.spotify.com/artist/4zanHFwOXpPRKMMk3qUuHu), [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Turning Point](https://open.spotify.com/album/5iFeJsiYedyhtcefzuNMyE) | 4:09 |
 | 84 | [Si Te Vas](https://open.spotify.com/track/7zeIbf3qsXGGwUZjDP5mzV) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 3:22 |
-| 85 | [Mujeriego](https://open.spotify.com/track/5ECrHUuwT916mtxIQhRihO) | [Ninel Conde](https://open.spotify.com/artist/1MI8FuxN4qF0Hr1qmZZLYK) | [Ayer y Hoy](https://open.spotify.com/album/43dG8W93Ga3P3tAwXKABmb) | 3:24 |
-| 86 | [Sigo Caminando](https://open.spotify.com/track/1Ap7SgnEnvcE7Uih5CXNXO) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Sigo Caminando](https://open.spotify.com/album/37WnSB8LQ6LFsXnFMGVgWg) | 3:34 |
+| 85 | [Sigo Caminando](https://open.spotify.com/track/1Ap7SgnEnvcE7Uih5CXNXO) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Sigo Caminando](https://open.spotify.com/album/37WnSB8LQ6LFsXnFMGVgWg) | 3:34 |
+| 86 | [Mujeriego](https://open.spotify.com/track/5ECrHUuwT916mtxIQhRihO) | [Ninel Conde](https://open.spotify.com/artist/1MI8FuxN4qF0Hr1qmZZLYK) | [Ayer y Hoy](https://open.spotify.com/album/43dG8W93Ga3P3tAwXKABmb) | 3:24 |
 | 87 | [Mil Maneras](https://open.spotify.com/track/2ZZnPmiex3NUCb9tX7mAyS) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Abreme la Puerta \(New Edition\)](https://open.spotify.com/album/1iIseStXM2EpYcP6NcuGvA) | 4:05 |
 | 88 | [Bien](https://open.spotify.com/track/6qcDwycoQlUXKEc5TntCKD) | [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z) | [Quién Lo Diría](https://open.spotify.com/album/6Gt6dCkxw2cJ0TJ6oRffum) | 3:21 |
 | 89 | [Quien Sale… No Entra](https://open.spotify.com/track/2ajqkkoTqo5YwhxMNmPGBP) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 4:08 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 147 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
 | 148 | [Cuarto Menguante](https://open.spotify.com/track/0jn4mbofhTz8M5iWAKFc51) | [LIZZIE BLASINI](https://open.spotify.com/artist/3U6BxnObGblB6VI1f5lvpH) | [Cuarto Menguante](https://open.spotify.com/album/3FoNl5uOXTrmILe49C1aN7) | 4:22 |
 
-Snapshot ID: `AcIL9AAAAAAkHVtTBBlgxIohQrzXSeXU`
+Snapshot ID: `AcIRYgAAAADtDL/fQwtl97j27ngfEA3K`

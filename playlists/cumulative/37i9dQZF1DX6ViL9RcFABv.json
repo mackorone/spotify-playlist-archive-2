@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: B\u00e1rbara Bandeira",
+  "description": "Uma playlist de pura alma pop! Foto: Vizinhos, \u00c1TOA e Atitude 67",
   "name": "Pop PT",
   "tracks": [
     {
@@ -2116,7 +2116,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-03",
+      "date_removed": null,
       "duration_ms": 147253,
       "name": "Depois Do Pecado",
       "url": "https://open.spotify.com/track/7q496SXAP672Gd4hoI3Cxo"
@@ -2134,7 +2134,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 218181,
       "name": "depressa",
       "url": "https://open.spotify.com/track/6LZ3uIrpEAqTh7xWNANHO9"
@@ -2502,7 +2502,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 196250,
       "name": "Domingo \u00e0 Noite",
       "url": "https://open.spotify.com/track/6wNthtmutbdC3MA0RliEqS"
@@ -2970,7 +2970,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 192000,
       "name": "Faz Outra Vez",
       "url": "https://open.spotify.com/track/0UjYB39jfS5spHci8WZZMg"
@@ -4043,6 +4043,28 @@
     },
     {
       "album": {
+        "name": "Leva-me",
+        "url": "https://open.spotify.com/album/7AjVNaVNPYUAbN4kgCdXbG"
+      },
+      "artists": [
+        {
+          "name": "Rita Rocha",
+          "url": "https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy"
+        },
+        {
+          "name": "Carolina Deslandes",
+          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193251,
+      "name": "Leva-me",
+      "url": "https://open.spotify.com/track/00GaSyadd3k6KFCXRQfnFk"
+    },
+    {
+      "album": {
         "name": "LIBRAM",
         "url": "https://open.spotify.com/album/3EftS8oqqZCbMFDVB19hkR"
       },
@@ -4695,6 +4717,32 @@
     },
     {
       "album": {
+        "name": "Na Pr\u00f3xima Vida",
+        "url": "https://open.spotify.com/album/6PMHfeeZTWOpDmAJNEKGbE"
+      },
+      "artists": [
+        {
+          "name": "Vizinhos",
+          "url": "https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj"
+        },
+        {
+          "name": "\u00c1TOA",
+          "url": "https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7"
+        },
+        {
+          "name": "Atitude 67",
+          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169655,
+      "name": "Na Pr\u00f3xima Vida",
+      "url": "https://open.spotify.com/track/6w1HPBt5ZEBtbvKB9wb03s"
+    },
+    {
+      "album": {
         "name": "Nada Demais (feat. Rita Onofre)",
         "url": "https://open.spotify.com/album/1GcjJY1RDYWsSJXnifdXrQ"
       },
@@ -5263,6 +5311,28 @@
     },
     {
       "album": {
+        "name": "Ora\u00e7\u00e3o Ao Tempo",
+        "url": "https://open.spotify.com/album/3YWW2cjlldMPq1y6Q1tS17"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f3nio Zambujo",
+          "url": "https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244790,
+      "name": "Ora\u00e7\u00e3o Ao Tempo",
+      "url": "https://open.spotify.com/track/7k67pntlyJbtRnFvKTpFVh"
+    },
+    {
+      "album": {
         "name": "Outra vez",
         "url": "https://open.spotify.com/album/3yWpMdltdVtWr4IB0ZWWRU"
       },
@@ -5586,7 +5656,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 272399,
       "name": "Pessoa - Living Room Sessions",
       "url": "https://open.spotify.com/track/0dnFk4Ey4ETEHlp03hV1XL"
@@ -6719,6 +6789,24 @@
     },
     {
       "album": {
+        "name": "SEM CARTA",
+        "url": "https://open.spotify.com/album/1wadXULcNDMQkXRMmJGiKI"
+      },
+      "artists": [
+        {
+          "name": "MAR",
+          "url": "https://open.spotify.com/artist/1eD8ms4LtG3jrXqamSifPY"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "SEM CARTA",
+      "url": "https://open.spotify.com/track/2JMbseaVSNUJEEqZ91Xz7d"
+    },
+    {
+      "album": {
         "name": "Sem Hora Marcada",
         "url": "https://open.spotify.com/album/4QFpbqxcgIEylU0I932Khs"
       },
@@ -7086,7 +7174,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 159130,
       "name": "Supera\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0WYwgdwCr4fdNADvinbWBX"
@@ -7152,6 +7240,24 @@
       "duration_ms": 162580,
       "name": "S\u00d3 QUERO VIVER",
       "url": "https://open.spotify.com/track/7nDslFhczcb3OtifwIPNCC"
+    },
+    {
+      "album": {
+        "name": "S\u00f3t\u00e3o dos Porqu\u00eas",
+        "url": "https://open.spotify.com/album/6eggTVxskSQRS8QkZHjmf4"
+      },
+      "artists": [
+        {
+          "name": "SYRO",
+          "url": "https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176434,
+      "name": "S\u00f3t\u00e3o dos Porqu\u00eas",
+      "url": "https://open.spotify.com/track/2WttNRFTl0Aez48Cq8uj2J"
     },
     {
       "album": {
@@ -7694,7 +7800,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 189562,
       "name": "Viagem",
       "url": "https://open.spotify.com/track/3TAtUFZ4wLgh6jDmemLQa5"

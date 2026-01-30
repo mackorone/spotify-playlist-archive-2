@@ -11059,6 +11059,24 @@
     },
     {
       "album": {
+        "name": "Golden Carnival Parade",
+        "url": "https://open.spotify.com/album/7aqSE2dVMLOalAWxKxBgsa"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206839,
+      "name": "Golden Carnival Parade",
+      "url": "https://open.spotify.com/track/7cLZLza8csHbATiLo5AckH"
+    },
+    {
+      "album": {
         "name": "Golpazo",
         "url": "https://open.spotify.com/album/7ndhjTXAF4Ih2TfXwibbij"
       },

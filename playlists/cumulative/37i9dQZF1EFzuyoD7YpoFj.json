@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "Love you, Paris",
+        "url": "https://open.spotify.com/album/3CYr1gUnrVa2Fs7FydWTAR"
+      },
+      "artists": [
+        {
+          "name": "Carla Boni",
+          "url": "https://open.spotify.com/artist/2J7iEpAkPqe41okCsm4Ja5"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187986,
+      "name": "Acquerello napoletano",
+      "url": "https://open.spotify.com/track/2LHxnFU4wgPuSLf2Jd1y9D"
+    },
+    {
+      "album": {
         "name": "I successi di Carla Boni",
         "url": "https://open.spotify.com/album/5iQDowbRw3l2FORnZBj73n"
       },
@@ -168,7 +186,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 187986,
       "name": "Acquerello napoletano",
       "url": "https://open.spotify.com/track/4Pr8sMtLizOCKtAslU7f4N"
@@ -4179,7 +4197,7 @@
     },
     {
       "album": {
-        "name": "Studio One Women",
+        "name": "Soul Jazz Records presents STUDIO ONE WOMEN",
         "url": "https://open.spotify.com/album/5IsRaj4Avx8y20MjmjfXwv"
       },
       "artists": [
@@ -4190,7 +4208,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 211426,
       "name": "I Am in Love",
       "url": "https://open.spotify.com/track/3ihUEHni4ACzTLQL9mUgJL"
@@ -4780,7 +4798,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 209118,
       "name": "I'm In Love",
       "url": "https://open.spotify.com/track/7LCD89We5JZALirKxgsGXM"
@@ -6234,10 +6252,28 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 205077,
       "name": "Looking at You",
       "url": "https://open.spotify.com/track/1KS9Jpjg6vDyNUsq6AYPKs"
+    },
+    {
+      "album": {
+        "name": "Right to Sing",
+        "url": "https://open.spotify.com/album/0SEV4kfGsJ8Z9CfFPJ2zzW"
+      },
+      "artists": [
+        {
+          "name": "Lee Wiley",
+          "url": "https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205082,
+      "name": "Looking at You",
+      "url": "https://open.spotify.com/track/6PyO1WWOS55kuaPfpZcsYY"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5firUEQ9rQDghlz87ntiQD">Monro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-82 songs - 4 hr 10 min
+83 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Party No Dey Stop \(with JayO & Byron Messia\) \- JayO & Byron Messia Remix](https://open.spotify.com/track/6qOGmElVBG9ERlgN88TxjQ) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Party No Dey Stop \(JayO & Byron Messia Remix\)](https://open.spotify.com/album/0wg0yuzwpRpdRwKNzDd7Wk) | 2:32 | 2024-01-29 |  |
 | [Party No Dey Stop \(with Zinoleesky\)](https://open.spotify.com/track/49ytLGEP5S20N3AhB5YuwJ) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:48 | 2024-01-29 |  |
 | [Pattern Up \(feat\. ZieZie\)](https://open.spotify.com/track/0tjkC3oD2A3sj4nTMEsezR) | [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Pattern Up \(feat\. ZieZie\)](https://open.spotify.com/album/7m13fjwYVPw5URrUvS89K0) | 3:57 | 2024-01-29 |  |
+| [Phone Sex](https://open.spotify.com/track/3TKGJXVhxqyDYFkTGvWdpw) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Phone Sex](https://open.spotify.com/album/2Efrfi4RLliavLPQsOCkbJ) | 2:58 | 2026-01-29 |  |
 | [Rain](https://open.spotify.com/track/2WQvKZwVrLGQmriYmQqU6o) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Rain](https://open.spotify.com/album/4RgASg0hEG5MgZrn0bSmz5) | 3:21 | 2024-01-29 |  |
 | [Raincheck](https://open.spotify.com/track/1DqLq5cD2XxJBDNiOtxnGM) | [Madison Bailey](https://open.spotify.com/artist/6zKQkyAftzejXrwviDjz1S), [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Raincheck](https://open.spotify.com/album/2c03XLPfXgI5TlglXkGX1i) | 3:49 | 2025-11-28 |  |
 | [Real Life](https://open.spotify.com/track/1ridgt4PwhqyjMDOyUzAle) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 3:14 | 2024-01-29 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: R2",
+  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: Naza x L2B",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -5157,6 +5157,28 @@
     },
     {
       "album": {
+        "name": "Doser",
+        "url": "https://open.spotify.com/album/6vgVwBsKW6RNOGOYQULL7R"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179554,
+      "name": "Doser",
+      "url": "https://open.spotify.com/track/1Jfm129mci3FMizdlXeMOs"
+    },
+    {
+      "album": {
         "name": "47\u00b0",
         "url": "https://open.spotify.com/album/2u1FFQgZEDlhdQtXVqjaw4"
       },
@@ -6922,7 +6944,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 197560,
       "name": "Gili Gili",
       "url": "https://open.spotify.com/track/5NLTu65fiIbo6BadXjyIYB"
@@ -9473,6 +9495,24 @@
     },
     {
       "album": {
+        "name": "OMW",
+        "url": "https://open.spotify.com/album/1APrydqpXaHpfA3RZcbu07"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Les autres filles",
+      "url": "https://open.spotify.com/track/66GWd4w8J7xqU7cVQahAIU"
+    },
+    {
+      "album": {
         "name": "Lie",
         "url": "https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH"
       },
@@ -10836,7 +10876,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 166250,
       "name": "mieux en mieux",
       "url": "https://open.spotify.com/track/296ihu9ccdjOhiE2igeHjZ"
@@ -11486,6 +11526,28 @@
       "duration_ms": 157647,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/2t4dEWxR7CaMAlM6TMIMT3"
+    },
+    {
+      "album": {
+        "name": "MY HEALER",
+        "url": "https://open.spotify.com/album/7jXn39VRrZifIpznbHBDEZ"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157023,
+      "name": "MY HEALER",
+      "url": "https://open.spotify.com/track/3tENXWy5Yf1iJJV4EYqZh1"
     },
     {
       "album": {
@@ -13116,7 +13178,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-30",
       "duration_ms": 133239,
       "name": "Pas de d\u00e9tails",
       "url": "https://open.spotify.com/track/52BeYE5LGLQd6bvCmes7Mw"
